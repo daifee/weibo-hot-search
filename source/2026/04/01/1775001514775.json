@@ -1,0 +1,410 @@
+{
+  "runTime": 1775001514775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1145377,
+        "num": 1166663,
+        "word": "4月1日起全国严查后排未系安全带",
+        "onboard_time": 1775000121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450619,
+        "num": 833376,
+        "word": "意大利连续3届无缘世界杯",
+        "onboard_time": 1774998560,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28361,
+        "num": 686268,
+        "word": "十五五规划背后的90后力量",
+        "onboard_time": 1774962986,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476330,
+        "num": 476330,
+        "word": "蓝莓",
+        "onboard_time": 1774998619,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280231,
+        "num": 280231,
+        "word": "曝雷军押注的中年人泡泡玛特将上市",
+        "onboard_time": 1774960467,
+        "rank": 4,
+        "category": "互联网,休闲"
+      },
+      {
+        "raw_hot": 260323,
+        "num": 260323,
+        "word": "抗癌博主朱明月去世其女发声",
+        "onboard_time": 1774969704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196406,
+        "num": 196406,
+        "word": "4岁女孩独自买汉堡遭陌生女子踢踹",
+        "onboard_time": 1775000360,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192512,
+        "num": 192512,
+        "word": "英格兰0比1日本",
+        "onboard_time": 1775000301,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183120,
+        "num": 183120,
+        "word": "中国无人机蜂群突击铺天盖地",
+        "onboard_time": 1774968685,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175350,
+        "num": 175350,
+        "word": "俄罗斯运输机坠毁29人遇难",
+        "onboard_time": 1774999942,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1539990,
+        "num": 174805,
+        "word": "站姐团建",
+        "onboard_time": 1774970844,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471253,
+        "num": 174771,
+        "word": "鞠婧祎 此身分明了",
+        "onboard_time": 1774963464,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294151,
+        "num": 174576,
+        "word": "伊朗打击美军指挥中心",
+        "onboard_time": 1774999580,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 173984,
+        "num": 173984,
+        "word": "伊朗称将沙特视为兄弟国家",
+        "onboard_time": 1774973483,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351245,
+        "num": 171447,
+        "word": "单依纯拉黑网友",
+        "onboard_time": 1774968446,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241700,
+        "num": 171081,
+        "word": "张慧雯人气",
+        "onboard_time": 1774995255,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 168729,
+        "word": "运动员退役后从146斤暴涨至523斤",
+        "onboard_time": 1774966226,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170616,
+        "num": 166727,
+        "word": "愚人节",
+        "onboard_time": 1774971322,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164619,
+        "num": 164619,
+        "word": "杨紫也被女装背刺了",
+        "onboard_time": 1774959746,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150238,
+        "num": 150238,
+        "word": "十二星座4月月运",
+        "onboard_time": 1774974922,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 787148,
+        "num": 149202,
+        "word": "en王翊恩 结婚但没同居",
+        "onboard_time": 1774971204,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210838,
+        "num": 148487,
+        "word": "妻子5次试管成功同年丈夫与情人生子",
+        "onboard_time": 1774954824,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147033,
+        "num": 147033,
+        "word": "杨幂拼豆庆祝绿苑二十周年",
+        "onboard_time": 1774978337,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140292,
+        "num": 140292,
+        "word": "4月最吸金的星座",
+        "onboard_time": 1775000360,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "张国荣",
+        "onboard_time": 1775000902,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "张雪称影视版权给顶级团队",
+        "onboard_time": 1775000602,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 117323,
+        "word": "张凌赫金桐儇站姐互发",
+        "onboard_time": 1775000360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "香港开往上海高铁车厢出现大量蚊虫",
+        "onboard_time": 1774962624,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113032,
+        "num": 113032,
+        "word": "未发现鞠婧祎涉税问题",
+        "onboard_time": 1774957106,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112649,
+        "num": 112649,
+        "word": "宋雨琦对接回应不录跑男",
+        "onboard_time": 1774966825,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103088,
+        "num": 103088,
+        "word": "羊水栓塞产妇昏迷30天后苏醒",
+        "onboard_time": 1774970123,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102153,
+        "num": 102153,
+        "word": "19岁的张雪",
+        "onboard_time": 1774975280,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101260,
+        "num": 101260,
+        "word": "女子回应获3亿遗产引丈夫子女不满",
+        "onboard_time": 1774963405,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96702,
+        "num": 96702,
+        "word": "站姐团建发的田曦薇",
+        "onboard_time": 1775000360,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88435,
+        "num": 88435,
+        "word": "金银再迎大涨",
+        "onboard_time": 1775000360,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86819,
+        "num": 86819,
+        "word": "陈飞宇 陈凯歌基因显化中",
+        "onboard_time": 1774958607,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85427,
+        "num": 85427,
+        "word": "俄方拒绝给日本供油",
+        "onboard_time": 1774960227,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84900,
+        "num": 84900,
+        "word": "美国增兵伊朗是真想打地面战吗",
+        "onboard_time": 1775000781,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398556,
+        "num": 84876,
+        "word": "美国军人向脱衣舞女泄露部署计划",
+        "onboard_time": 1774967605,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84836,
+        "num": 84836,
+        "word": "中方三艘船舶过航霍尔木兹海峡",
+        "onboard_time": 1774981036,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82313,
+        "num": 82313,
+        "word": "武汉多辆萝卜快跑出故障",
+        "onboard_time": 1775000602,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78966,
+        "num": 78966,
+        "word": "美博主称中国小学生胜过美国大学生",
+        "onboard_time": 1774996397,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72315,
+        "num": 72315,
+        "word": "十日终焉三羊开泰",
+        "onboard_time": 1775000662,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71992,
+        "num": 71992,
+        "word": "黄金六轮史诗级跳水",
+        "onboard_time": 1774970963,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70996,
+        "num": 70996,
+        "word": "网红小徐自曝财产",
+        "onboard_time": 1774960105,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70427,
+        "num": 70427,
+        "word": "Claude Code源码意外泄露",
+        "onboard_time": 1775000301,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64973,
+        "num": 64973,
+        "word": "火箭少女101为徐梦洁打call",
+        "onboard_time": 1775001382,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63897,
+        "num": 63897,
+        "word": "韩国向武汉居民发放十年签",
+        "onboard_time": 1774977498,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61077,
+        "num": 61077,
+        "word": "25年前的新闻联播看得泪流满面",
+        "onboard_time": 1775001503,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60337,
+        "num": 60337,
+        "word": "瑞典3比2波兰",
+        "onboard_time": 1775001444,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记一起共植新绿#"
+    }
+  }
+}

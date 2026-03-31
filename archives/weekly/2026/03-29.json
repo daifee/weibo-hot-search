@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775000533214,
+  "endTime": 1775001514775,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2081325,
-      "num": 152495,
+      "num": 174805,
       "word": "站姐团建",
       "onboard_time": 1774970844,
       "rank": 14,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1145377,
+      "num": 1166663,
+      "word": "4月1日起全国严查后排未系安全带",
+      "onboard_time": 1775000121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1107451,
       "num": 946427,
       "word": "严浩翔分享歌曲",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 940416,
-      "num": 158109,
+      "num": 166727,
       "word": "愚人节",
       "onboard_time": 1774971322,
       "rank": 13,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 795143,
-      "num": 127458,
+      "num": 149202,
       "word": "en王翊恩 结婚但没同居",
       "onboard_time": 1774971204,
       "rank": 32,
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476330,
+      "num": 476330,
+      "word": "蓝莓",
+      "onboard_time": 1774998619,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 476048,
       "num": 476048,
       "word": "伊能静回应逛迪士尼拒绝合影",
@@ -1035,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398556,
+      "num": 305125,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 393893,
       "num": 97600,
       "word": "郑丽文率团来访",
@@ -1219,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351423,
-      "num": 351423,
-      "word": "蓝莓",
-      "onboard_time": 1774998619,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 350139,
       "num": 350139,
       "word": "TES 369",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1774951883,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318338,
-      "num": 305125,
-      "word": "美国军人向脱衣舞女泄露部署计划",
-      "onboard_time": 1774967605,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 317998,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1774865963,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294151,
+      "num": 174576,
+      "word": "伊朗打击美军指挥中心",
+      "onboard_time": 1774999580,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 292229,
@@ -1772,7 +1788,7 @@
     },
     {
       "raw_hot": 266583,
-      "num": 141162,
+      "num": 171081,
       "word": "张慧雯人气",
       "onboard_time": 1774995255,
       "rank": 23,
@@ -2595,6 +2611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196406,
+      "num": 196406,
+      "word": "4岁女孩独自买汉堡遭陌生女子踢踹",
+      "onboard_time": 1775000360,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195831,
       "num": 135981,
       "word": "代旭 男主剧",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1774787008,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192512,
+      "num": 192512,
+      "word": "英格兰0比1日本",
+      "onboard_time": 1775000301,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 192296,
@@ -2899,6 +2931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175350,
+      "num": 175350,
+      "word": "俄罗斯运输机坠毁29人遇难",
+      "onboard_time": 1774999942,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 174650,
       "num": 157813,
       "word": "10部影片定档2026五一档",
@@ -3124,7 +3164,7 @@
     },
     {
       "raw_hot": 163072,
-      "num": 125392,
+      "num": 147033,
       "word": "杨幂拼豆庆祝绿苑二十周年",
       "onboard_time": 1774978337,
       "rank": 31,
@@ -3491,14 +3531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141141,
-      "num": 141141,
-      "word": "伊朗打击美军指挥中心",
-      "onboard_time": 1774999580,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 140706,
       "num": 157540,
       "word": "金匠寿司道歉",
@@ -3513,6 +3545,14 @@
       "onboard_time": 1774960284,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140292,
+      "num": 140292,
+      "word": "4月最吸金的星座",
+      "onboard_time": 1775000360,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 140131,
@@ -3635,14 +3675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 137707,
-      "num": 128047,
-      "word": "英格兰0比1日本",
-      "onboard_time": 1775000301,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137651,
       "num": 137651,
       "word": "满岛光宣布再婚怀孕",
@@ -3713,6 +3745,14 @@
       "onboard_time": 1774945763,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134919,
+      "num": 134919,
+      "word": "张国荣",
+      "onboard_time": 1775000902,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 134663,
@@ -3875,14 +3915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129580,
-      "num": 129580,
-      "word": "4月1日起全国严查后排未系安全带",
-      "onboard_time": 1775000121,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129531,
       "num": 129531,
       "word": "业内谈单依纯是否知情李白授权细节",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1774946964,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "张雪称影视版权给顶级团队",
+      "onboard_time": 1775000602,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128421,
@@ -4283,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117323,
+      "num": 117323,
+      "word": "张凌赫金桐儇站姐互发",
+      "onboard_time": 1775000360,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117105,
       "num": 117105,
       "word": "刘宇宁模仿迪丽热巴戏瘾大爆发",
@@ -4489,14 +4537,6 @@
       "onboard_time": 1774795652,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 111994,
-      "num": 111994,
-      "word": "4岁女孩独自买汉堡遭陌生女子踢踹",
-      "onboard_time": 1775000360,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111903,
@@ -4979,14 +5019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102754,
-      "num": 102754,
-      "word": "4月最吸金的星座",
-      "onboard_time": 1775000360,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102706,
       "num": 102706,
       "word": "让运动和吃东西都回归本质",
@@ -5321,6 +5353,14 @@
       "onboard_time": 1774870162,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96702,
+      "num": 96702,
+      "word": "站姐团建发的田曦薇",
+      "onboard_time": 1775000360,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96596,
@@ -6147,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84900,
+      "num": 84900,
+      "word": "美国增兵伊朗是真想打地面战吗",
+      "onboard_time": 1775000781,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84873,
       "num": 84873,
       "word": "55岁雪姨走秀状态",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1774925363,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82313,
+      "num": 82313,
+      "word": "武汉多辆萝卜快跑出故障",
+      "onboard_time": 1775000602,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82282,
@@ -6619,14 +6675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78760,
-      "num": 78760,
-      "word": "张凌赫金桐儇站姐互发",
-      "onboard_time": 1775000360,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "小米字节等四款模型跻身全球前十",
@@ -6665,14 +6713,6 @@
       "onboard_time": 1774711582,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78241,
-      "num": 78241,
-      "word": "俄罗斯运输机坠毁29人遇难",
-      "onboard_time": 1774999942,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 78212,
@@ -7019,6 +7059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72315,
+      "num": 72315,
+      "word": "十日终焉三羊开泰",
+      "onboard_time": 1775000662,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72131,
       "num": 72131,
       "word": "狸花猫带给人类亿点点震撼",
@@ -7137,6 +7185,14 @@
       "onboard_time": 1774947083,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70427,
+      "num": 70427,
+      "word": "Claude Code源码意外泄露",
+      "onboard_time": 1775000301,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 70134,
@@ -7299,14 +7355,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 66048,
-      "num": 66048,
-      "word": "站姐团建发的田曦薇",
-      "onboard_time": 1775000360,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65630,
       "num": 65630,
       "word": "5岁男孩患病从小瘫痪突然站立",
@@ -7337,6 +7385,14 @@
       "onboard_time": 1774693462,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64973,
+      "num": 64973,
+      "word": "火箭少女101为徐梦洁打call",
+      "onboard_time": 1775001382,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 64962,
@@ -7403,20 +7459,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63897,
+      "num": 63897,
+      "word": "韩国向武汉居民发放十年签",
+      "onboard_time": 1774977498,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63782,
       "num": 63782,
       "word": "猴哥转世到峨眉山了",
       "onboard_time": 1774753161,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63668,
-      "num": 63668,
-      "word": "韩国向武汉居民发放十年签",
-      "onboard_time": 1774977498,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63414,
@@ -7539,6 +7595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61077,
+      "num": 61077,
+      "word": "25年前的新闻联播看得泪流满面",
+      "onboard_time": 1775001503,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60974,
       "num": 81123,
       "word": "就是你是RAIN也得接孩子放学",
@@ -7593,6 +7657,14 @@
       "onboard_time": 1774828703,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60337,
+      "num": 60337,
+      "word": "瑞典3比2波兰",
+      "onboard_time": 1775001444,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60296,
@@ -7969,14 +8041,6 @@
       "onboard_time": 1774802362,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48104,
-      "num": 54797,
-      "word": "Claude Code源码意外泄露",
-      "onboard_time": 1775000301,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 48090,
