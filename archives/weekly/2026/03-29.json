@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774934285968,
+  "endTime": 1774936926719,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 618683,
+      "num": 190666,
+      "word": "爸爸去哪儿的阿拉蕾长大了",
+      "onboard_time": 1774933888,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595025,
       "num": 213373,
       "word": "李荣浩 打响版权维护第一枪",
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442454,
+      "num": 154666,
+      "word": "AI演员 拼尸块",
+      "onboard_time": 1774933823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436079,
       "num": 985177,
       "word": "狼队对战KSG",
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353178,
+      "num": 353178,
+      "word": "月鳞绮纪OST",
+      "onboard_time": 1774933646,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347397,
       "num": 196521,
       "word": "油价又飙升了",
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330014,
+      "num": 2101928,
+      "word": "地铁吐血女孩账户因转账频繁被封",
+      "onboard_time": 1774931606,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328327,
       "num": 328327,
       "word": "茅台发布重大事项公告",
@@ -913,6 +945,14 @@
       "onboard_time": 1774878324,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320709,
+      "num": 225740,
+      "word": "鹿晗超绝版权意识",
+      "onboard_time": 1774935326,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 317980,
@@ -1040,14 +1080,6 @@
       "word": "广东暴雨已经超越了雨刮器的极限",
       "onboard_time": 1774865963,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292609,
-      "num": 2101928,
-      "word": "地铁吐血女孩账户因转账频繁被封",
-      "onboard_time": 1774931606,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1435,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247543,
+      "num": 154654,
+      "word": "马嘉祺月鳞绮纪OST",
+      "onboard_time": 1774935326,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246658,
       "num": 1005165,
       "word": "檀健次美甲",
@@ -1715,14 +1755,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 220619,
-      "num": 190666,
-      "word": "爸爸去哪儿的阿拉蕾长大了",
-      "onboard_time": 1774933888,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220115,
       "num": 115302,
       "word": "迪丽热巴女鬼一来了",
@@ -1891,14 +1923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202235,
-      "num": 184612,
-      "word": "月鳞绮纪OST",
-      "onboard_time": 1774933646,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202195,
       "num": 1011928,
       "word": "伊朗向美以进一步摊牌",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1774710864,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195610,
+      "num": 195610,
+      "word": "地球使用费",
+      "onboard_time": 1774931844,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 195381,
@@ -2259,6 +2291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173985,
+      "num": 154650,
+      "word": "曝iPhoneXX将配屏下摄像头",
+      "onboard_time": 1774931428,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173471,
       "num": 173471,
       "word": "原来五哈导演并非不爱请女嘉宾",
@@ -2435,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161085,
-      "num": 150763,
-      "word": "AI演员 拼尸块",
-      "onboard_time": 1774933823,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161022,
       "num": 161022,
       "word": "国行版苹果AI",
@@ -2513,6 +2545,14 @@
       "onboard_time": 1774925485,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154634,
+      "num": 154634,
+      "word": "午睡时间超过1小时死亡风险增加30%",
+      "onboard_time": 1774935326,
+      "rank": 22,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 154073,
@@ -2891,20 +2931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132263,
+      "num": 154643,
+      "word": "美军使用钻地弹袭击伊大型弹药库",
+      "onboard_time": 1774933646,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131730,
       "num": 131730,
       "word": "电动车要涨价涨幅200到300元",
       "onboard_time": 1774850243,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131683,
-      "num": 131683,
-      "word": "曝iPhoneXX将配屏下摄像头",
-      "onboard_time": 1774931428,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 131151,
@@ -3041,14 +3081,6 @@
       "onboard_time": 1774761080,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125980,
-      "num": 125980,
-      "word": "地球使用费",
-      "onboard_time": 1774931844,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 125813,
@@ -3419,6 +3451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111442,
+      "num": 111442,
+      "word": "曾舜晞陈都灵吻戏镜头",
+      "onboard_time": 1774934125,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111177,
       "num": 504356,
       "word": "一直以为保温毯是披在身上的",
@@ -3651,14 +3691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105565,
-      "num": 105565,
-      "word": "美军使用钻地弹袭击伊大型弹药库",
-      "onboard_time": 1774933646,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105519,
       "num": 105519,
       "word": "粉丝称黄霄雲侵权华晨宇",
@@ -3705,6 +3737,14 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104646,
+      "num": 104646,
+      "word": "两个手握20个经典角色的人合作了",
+      "onboard_time": 1774936042,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 104358,
@@ -3979,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96793,
+      "num": 96793,
+      "word": "冰湖重生月鳞绮纪对打",
+      "onboard_time": 1774936284,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96708,
       "num": 96708,
       "word": "女方回应丈夫称其结婚3天跑了",
@@ -3993,6 +4041,14 @@
       "onboard_time": 1774790971,
       "rank": 39,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 95850,
+      "num": 95850,
+      "word": "张雪早年创业借的每笔钱都记着",
+      "onboard_time": 1774936404,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 95807,
@@ -4065,6 +4121,14 @@
       "onboard_time": 1774877784,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94070,
+      "num": 94070,
+      "word": "AI大厂月薪6万招不到人",
+      "onboard_time": 1774933525,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 94058,
@@ -4233,6 +4297,14 @@
       "onboard_time": 1774928364,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90952,
+      "num": 90952,
+      "word": "王者后羿海月战令",
+      "onboard_time": 1774934365,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 90938,
@@ -4491,12 +4563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85754,
+      "num": 85754,
+      "word": "当美术生买了个椰子",
+      "onboard_time": 1774936583,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85716,
       "num": 85716,
       "word": "电饭煲保温饭菜超4小时易产生致癌物",
       "onboard_time": 1774871664,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 85676,
+      "num": 85676,
+      "word": "刘宇宁抢票",
+      "onboard_time": 1774935922,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 85433,
@@ -4899,6 +4987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79835,
+      "num": 79835,
+      "word": "湖人战胜奇才",
+      "onboard_time": 1774936704,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79777,
       "num": 79777,
       "word": "曝iPhoneFold将成史上最大改款",
@@ -4937,6 +5033,14 @@
       "onboard_time": 1774762102,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79039,
+      "num": 79039,
+      "word": "苹果称锁定模式至今无人攻破",
+      "onboard_time": 1774936284,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 78931,
@@ -5216,14 +5320,6 @@
       "word": "李卿眼中的田曦薇张凌赫",
       "onboard_time": 1774748423,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 73733,
-      "num": 101963,
-      "word": "曾舜晞陈都灵吻戏镜头",
-      "onboard_time": 1774934125,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -6625,6 +6721,14 @@
       "onboard_time": 1774701441,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18387,
+      "num": 90692,
+      "word": "中东战火烧到手机电脑",
+      "onboard_time": 1774936643,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18287,

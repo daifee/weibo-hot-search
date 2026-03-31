@@ -1,0 +1,410 @@
+{
+  "runTime": 1774936926719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9286699,
+        "num": 9286699,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330014,
+        "num": 1797777,
+        "word": "地铁吐血女孩账户因转账频繁被封",
+        "onboard_time": 1774931606,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35564,
+        "num": 1426655,
+        "word": "中国人海上百米高空吊装百米叶片",
+        "onboard_time": 1774926085,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353178,
+        "num": 353178,
+        "word": "月鳞绮纪OST",
+        "onboard_time": 1774933646,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228151,
+        "num": 228151,
+        "word": "韩国向中国14城发放十年签",
+        "onboard_time": 1774925185,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320709,
+        "num": 225740,
+        "word": "鹿晗超绝版权意识",
+        "onboard_time": 1774935326,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195610,
+        "num": 195610,
+        "word": "地球使用费",
+        "onboard_time": 1774931844,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181035,
+        "num": 181035,
+        "word": "广州大暴雨把动物也整emo了",
+        "onboard_time": 1774932507,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155139,
+        "num": 155139,
+        "word": "数学考17的人学会计",
+        "onboard_time": 1774925066,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154678,
+        "num": 154678,
+        "word": "张雪机车一战封神",
+        "onboard_time": 1774914982,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618683,
+        "num": 154676,
+        "word": "爸爸去哪儿的阿拉蕾长大了",
+        "onboard_time": 1774933888,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536813,
+        "num": 154673,
+        "word": "人民日报曾评单依纯李白改编争议",
+        "onboard_time": 1774931246,
+        "rank": 11,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 290392,
+        "num": 154667,
+        "word": "在意遇难博士床上四件套用了7年",
+        "onboard_time": 1774928846,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442454,
+        "num": 154666,
+        "word": "AI演员 拼尸块",
+        "onboard_time": 1774933823,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333962,
+        "num": 154663,
+        "word": "卜凡团播",
+        "onboard_time": 1774929746,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33457,
+        "num": 154658,
+        "word": "新能源汽车安全没有上限",
+        "onboard_time": 1774933704,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247543,
+        "num": 154654,
+        "word": "马嘉祺月鳞绮纪OST",
+        "onboard_time": 1774935326,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173985,
+        "num": 154650,
+        "word": "曝iPhoneXX将配屏下摄像头",
+        "onboard_time": 1774931428,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146753,
+        "num": 154648,
+        "word": "伊朗最大岛屿遭美以袭击",
+        "onboard_time": 1774931965,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132263,
+        "num": 154643,
+        "word": "美军使用钻地弹袭击伊大型弹药库",
+        "onboard_time": 1774933646,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223737,
+        "num": 154641,
+        "word": "陈都灵预告15秒换了13套衣服",
+        "onboard_time": 1774924525,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 154638,
+        "word": "跳楼机原唱实在是忍不下去了",
+        "onboard_time": 1774884683,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154634,
+        "num": 154634,
+        "word": "午睡时间超过1小时死亡风险增加30%",
+        "onboard_time": 1774935326,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 185427,
+        "num": 154395,
+        "word": "月鳞绮纪定档",
+        "onboard_time": 1774922365,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151359,
+        "num": 151359,
+        "word": "邓紫棋巡演内地六站",
+        "onboard_time": 1774932027,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143639,
+        "num": 143639,
+        "word": "00后女生逆袭考上985竟是病了",
+        "onboard_time": 1774928545,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "5种炎症确认与癌症有关",
+        "onboard_time": 1774925846,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 127437,
+        "word": "猫把摇粒绒舔不摇了",
+        "onboard_time": 1774931126,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114916,
+        "num": 114916,
+        "word": "父母搬砖供出的博士在意遇难",
+        "onboard_time": 1774924285,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111442,
+        "num": 111442,
+        "word": "曾舜晞陈都灵吻戏镜头",
+        "onboard_time": 1774934125,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72106,
+        "num": 108263,
+        "word": "买车先试开爽7天再下单",
+        "onboard_time": 1774933345,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 108215,
+        "word": "原来有情商的面试是这样子的",
+        "onboard_time": 1774931428,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104646,
+        "num": 104646,
+        "word": "两个手握20个经典角色的人合作了",
+        "onboard_time": 1774936042,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103113,
+        "num": 103113,
+        "word": "人民日报评张雪",
+        "onboard_time": 1774929684,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 100436,
+        "word": "祖孙3人遭搅拌车碾压1死1重伤",
+        "onboard_time": 1774931965,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96793,
+        "num": 96793,
+        "word": "冰湖重生月鳞绮纪对打",
+        "onboard_time": 1774936284,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95850,
+        "num": 95850,
+        "word": "张雪早年创业借的每笔钱都记着",
+        "onboard_time": 1774936404,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94070,
+        "num": 94070,
+        "word": "AI大厂月薪6万招不到人",
+        "onboard_time": 1774933525,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90952,
+        "num": 90952,
+        "word": "王者后羿海月战令",
+        "onboard_time": 1774934365,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18387,
+        "num": 90692,
+        "word": "中东战火烧到手机电脑",
+        "onboard_time": 1774936643,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90448,
+        "num": 90448,
+        "word": "严浩翔高会更新",
+        "onboard_time": 1774913781,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86418,
+        "num": 86418,
+        "word": "真正好的关系结束也是体面的",
+        "onboard_time": 1774933466,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85754,
+        "num": 85754,
+        "word": "当美术生买了个椰子",
+        "onboard_time": 1774936583,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85676,
+        "num": 85676,
+        "word": "刘宇宁抢票",
+        "onboard_time": 1774935922,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85524,
+        "num": 85524,
+        "word": "虎跳峡落水男子遗体打捞失败",
+        "onboard_time": 1774925244,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79835,
+        "num": 79835,
+        "word": "湖人战胜奇才",
+        "onboard_time": 1774936704,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79039,
+        "num": 79039,
+        "word": "苹果称锁定模式至今无人攻破",
+        "onboard_time": 1774936284,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78776,
+        "num": 78776,
+        "word": "10部影片定档2026五一档",
+        "onboard_time": 1774925786,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78325,
+        "num": 78325,
+        "word": "郭敬明 审美",
+        "onboard_time": 1774927346,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75836,
+        "num": 75836,
+        "word": "伊朗导弹高速突破以色列拦截",
+        "onboard_time": 1774927466,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记共建美丽家园#"
+    }
+  }
+}
