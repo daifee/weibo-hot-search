@@ -1,0 +1,410 @@
+{
+  "runTime": 1774984377861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78042,
+        "num": 78042,
+        "word": "未发现鞠婧祎涉税问题",
+        "onboard_time": 1774957106,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43541,
+        "num": 43541,
+        "word": "曝雷军押注的中年人泡泡玛特将上市",
+        "onboard_time": 1774960467,
+        "rank": 1,
+        "category": "互联网,休闲"
+      },
+      {
+        "raw_hot": 10094,
+        "num": 41240,
+        "word": "十五五规划背后的90后力量",
+        "onboard_time": 1774962986,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44936,
+        "num": 41198,
+        "word": "美国军人向脱衣舞女泄露部署计划",
+        "onboard_time": 1774967605,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41130,
+        "num": 41130,
+        "word": "伊朗称将沙特视为兄弟国家",
+        "onboard_time": 1774973483,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39310,
+        "num": 39310,
+        "word": "抗癌博主朱明月去世其女发声",
+        "onboard_time": 1774969704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38885,
+        "num": 38885,
+        "word": "十二星座4月月运",
+        "onboard_time": 1774974922,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38597,
+        "num": 38597,
+        "word": "宋雨琦对接回应不录跑男",
+        "onboard_time": 1774966825,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28064,
+        "num": 28064,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27370,
+        "num": 27370,
+        "word": "你好1983",
+        "onboard_time": 1774979475,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255763,
+        "num": 27315,
+        "word": "站姐团建",
+        "onboard_time": 1774970844,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138496,
+        "num": 27134,
+        "word": "愚人节",
+        "onboard_time": 1774971322,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91772,
+        "num": 26862,
+        "word": "鞠婧祎 此身分明了",
+        "onboard_time": 1774963464,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87298,
+        "num": 26602,
+        "word": "单依纯拉黑网友",
+        "onboard_time": 1774968446,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62065,
+        "num": 26548,
+        "word": "杨幂拼豆庆祝绿苑二十周年",
+        "onboard_time": 1774978337,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26410,
+        "num": 26410,
+        "word": "特朗普希望4月6日前与伊朗签协议",
+        "onboard_time": 1774975999,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26280,
+        "num": 26280,
+        "word": "女子常来病房摸17岁离世儿子名字",
+        "onboard_time": 1774975519,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26206,
+        "num": 26206,
+        "word": "南派三叔 群像无罪",
+        "onboard_time": 1774967245,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 24647,
+        "num": 24647,
+        "word": "运动员退役后从146斤暴涨至523斤",
+        "onboard_time": 1774966226,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24183,
+        "num": 24183,
+        "word": "美军进攻伊朗岛屿将变成活靶子",
+        "onboard_time": 1774971623,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139202,
+        "num": 24181,
+        "word": "en王翊恩 结婚但没同居",
+        "onboard_time": 1774971204,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41440,
+        "num": 24027,
+        "word": "陈飞宇 陈凯歌基因显化中",
+        "onboard_time": 1774958607,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35962,
+        "num": 23980,
+        "word": "张元英跳复仇摇",
+        "onboard_time": 1774978217,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31817,
+        "num": 23835,
+        "word": "杨紫也被女装背刺了",
+        "onboard_time": 1774959746,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27599,
+        "num": 23757,
+        "word": "妻子5次试管成功同年丈夫与情人生子",
+        "onboard_time": 1774954824,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23743,
+        "num": 23743,
+        "word": "网红小徐自曝财产",
+        "onboard_time": 1774960105,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23320,
+        "num": 23320,
+        "word": "中方三艘船舶过航霍尔木兹海峡",
+        "onboard_time": 1774981036,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22000,
+        "num": 22000,
+        "word": "香港开往上海高铁车厢出现大量蚊虫",
+        "onboard_time": 1774962624,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21861,
+        "num": 21861,
+        "word": "王者荣耀返场",
+        "onboard_time": 1774952362,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 21251,
+        "word": "中国无人机蜂群突击铺天盖地",
+        "onboard_time": 1774968685,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 23372,
+        "num": 21251,
+        "word": "韩国向武汉居民发放十年签",
+        "onboard_time": 1774977498,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21030,
+        "num": 21030,
+        "word": "浪姐",
+        "onboard_time": 1774972162,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21011,
+        "num": 21011,
+        "word": "女子回应获3亿遗产引丈夫子女不满",
+        "onboard_time": 1774963405,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20403,
+        "num": 20403,
+        "word": "19岁的张雪",
+        "onboard_time": 1774975280,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 20219,
+        "word": "俄方拒绝给日本供油",
+        "onboard_time": 1774960227,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19368,
+        "num": 19368,
+        "word": "盗墓笔记",
+        "onboard_time": 1774967426,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 18927,
+        "word": "特朗普被曝希望快速结束战争",
+        "onboard_time": 1774980435,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18886,
+        "num": 18886,
+        "word": "NCTWISH",
+        "onboard_time": 1774972702,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18559,
+        "num": 18559,
+        "word": "乘风",
+        "onboard_time": 1774983975,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18471,
+        "num": 18471,
+        "word": "檀健次何不同舟渡喝酒路透",
+        "onboard_time": 1774983135,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17943,
+        "num": 17943,
+        "word": "伊朗警告打击地区美高科技相关企业",
+        "onboard_time": 1774976898,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17924,
+        "num": 17924,
+        "word": "TES 369",
+        "onboard_time": 1774962087,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17542,
+        "num": 17924,
+        "word": "十日终焉",
+        "onboard_time": 1774951282,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17484,
+        "num": 17922,
+        "word": "羊水栓塞产妇昏迷30天后苏醒",
+        "onboard_time": 1774970123,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17389,
+        "num": 17921,
+        "word": "en王翊恩回应离过婚",
+        "onboard_time": 1774969762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 17921,
+        "word": "伊朗发动第87波攻势",
+        "onboard_time": 1774982956,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16698,
+        "num": 17919,
+        "word": "瑞幸 紫椰子",
+        "onboard_time": 1774946664,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15974,
+        "num": 17919,
+        "word": "NCTWISH 最尊重愚人节的团",
+        "onboard_time": 1774971023,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15699,
+        "num": 17918,
+        "word": "徐明浩跳catchcatch",
+        "onboard_time": 1774970963,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15634,
+        "num": 17916,
+        "word": "月鳞绮纪定档0401",
+        "onboard_time": 1774981516,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国式现代化底色更加亮丽#"
+    }
+  }
+}
