@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774943529141,
+  "endTime": 1774948281873,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -3275,6 +3275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 840756,
+      "num": 183054,
+      "word": "痞幼直播时抽烟",
+      "onboard_time": 1774942163,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 836719,
       "num": 441902,
       "word": "戴电子手表人的统一奇怪动作",
@@ -3659,14 +3667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 789024,
-      "num": 160493,
-      "word": "痞幼直播时抽烟",
-      "onboard_time": 1774942163,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 787317,
       "num": 1125970,
       "word": "女子半年没回家卧室开窗变邻居阳台",
@@ -3825,6 +3825,14 @@
       "onboard_time": 1773107660,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 777163,
+      "num": 1124346,
+      "word": "瑞幸 紫椰子",
+      "onboard_time": 1774946664,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777021,
@@ -6355,6 +6363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 585430,
+      "num": 792939,
+      "word": "国足负于10人喀麦隆",
+      "onboard_time": 1774945763,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 584955,
       "num": 202422,
       "word": "印度90岁妇人遭4蒙面男子强奸",
@@ -6409,6 +6425,14 @@
       "onboard_time": 1772328744,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 583429,
+      "num": 483206,
+      "word": "曾沛慈人气第一",
+      "onboard_time": 1774941924,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 582981,
@@ -8657,14 +8681,6 @@
       "onboard_time": 1774353390,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483206,
-      "num": 483206,
-      "word": "曾沛慈人气第一",
-      "onboard_time": 1774941924,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 482863,
@@ -11371,8 +11387,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410041,
+      "num": 410041,
+      "word": "麻辣烫里最夯的是啥菜",
+      "onboard_time": 1774942763,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 409503,
-      "num": 215126,
+      "num": 324220,
       "word": "李健硬要给许飞版权费",
       "onboard_time": 1774941682,
       "rank": 31,
@@ -11617,6 +11641,14 @@
       "onboard_time": 1773891441,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401990,
+      "num": 401990,
+      "word": "米饭拌白糖",
+      "onboard_time": 1774943184,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 401831,
@@ -12057,6 +12089,14 @@
       "onboard_time": 1772722764,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393685,
+      "num": 183014,
+      "word": "怪不得公司一边招人一边裁员",
+      "onboard_time": 1774943604,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 393483,
@@ -12603,6 +12643,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 380160,
+      "num": 380160,
+      "word": "范世錡工作室回应被删",
+      "onboard_time": 1774942583,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380154,
       "num": 359209,
       "word": "日本是一个老龄化很严重的国家",
@@ -12809,14 +12857,6 @@
       "onboard_time": 1774529603,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375905,
-      "num": 159470,
-      "word": "范世錡工作室回应被删",
-      "onboard_time": 1774942583,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 375463,
@@ -13105,6 +13145,14 @@
       "onboard_time": 1772889443,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 370365,
+      "num": 182983,
+      "word": "严浩翔考核试卷",
+      "onboard_time": 1774943903,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 370250,
@@ -14065,6 +14113,14 @@
       "onboard_time": 1774271061,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349913,
+      "num": 182963,
+      "word": "鞠婧祎工作室改名字了",
+      "onboard_time": 1774945882,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 349796,
@@ -26187,6 +26243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195612,
+      "num": 156963,
+      "word": "乘风2026助力团王俊凯",
+      "onboard_time": 1774946243,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195610,
       "num": 198984,
       "word": "地球使用费",
@@ -27857,6 +27921,14 @@
       "onboard_time": 1773732261,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183062,
+      "num": 183062,
+      "word": "Ruler 韩国兵役",
+      "onboard_time": 1774946064,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 182807,
@@ -35195,6 +35267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138221,
+      "num": 138221,
+      "word": "辛苦考上幼师后幼儿园却没了",
+      "onboard_time": 1774942823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138200,
       "num": 167133,
       "word": "95后回村用拼多多爆改40年老房",
@@ -35289,6 +35369,14 @@
       "onboard_time": 1774827443,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137847,
+      "num": 137847,
+      "word": "范世錡怎么了",
+      "onboard_time": 1774947863,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 137755,
@@ -35849,6 +35937,14 @@
       "onboard_time": 1773416720,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135193,
+      "num": 114735,
+      "word": "曝LCK删除Ruler片段",
+      "onboard_time": 1774945763,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 135172,
@@ -37403,6 +37499,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 128845,
+      "num": 128845,
+      "word": "五菱华为乾崑双向奔赴",
+      "onboard_time": 1774946964,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128840,
       "num": 345058,
       "word": "考研MVP结算画面",
@@ -38465,14 +38569,6 @@
       "onboard_time": 1773924261,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125174,
-      "num": 125174,
-      "word": "麻辣烫里最夯的是啥菜",
-      "onboard_time": 1774942763,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 125147,
@@ -41179,6 +41275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116026,
+      "num": 116026,
+      "word": "红果回应普通人形象被AI短剧盗脸",
+      "onboard_time": 1774945582,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116002,
       "num": 822557,
       "word": "曝美国国防部长5天花501亿美元",
@@ -41593,6 +41697,14 @@
       "onboard_time": 1774359224,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114521,
+      "num": 114521,
+      "word": "肖战准备进组十日终焉围读",
+      "onboard_time": 1774945823,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 114517,
@@ -42835,14 +42947,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 111292,
-      "num": 130223,
-      "word": "辛苦考上幼师后幼儿园却没了",
-      "onboard_time": 1774942823,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111278,
       "num": 248441,
       "word": "机车网红黄油腻被曝发生事故去世",
@@ -43409,6 +43513,14 @@
       "onboard_time": 1772426246,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "每天午睡vs从不午睡有多大差别",
+      "onboard_time": 1774944682,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109694,
@@ -45193,6 +45305,14 @@
       "onboard_time": 1773225801,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105317,
+      "num": 105317,
+      "word": "中国3艘船成功通过霍尔木兹海峡",
+      "onboard_time": 1774944682,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105299,
@@ -52099,6 +52219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91905,
+      "num": 648679,
+      "word": "4月一批新规将施行",
+      "onboard_time": 1774945404,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91891,
       "num": 132243,
       "word": "央视曝光增肌神药",
@@ -52529,6 +52657,14 @@
       "onboard_time": 1774359946,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91160,
+      "num": 91160,
+      "word": "DeepSeek被做成纸扎了",
+      "onboard_time": 1774947203,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 91145,
@@ -53465,6 +53601,14 @@
       "onboard_time": 1774871724,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89544,
+      "num": 89544,
+      "word": "张柏芝铺垃圾袋睡觉",
+      "onboard_time": 1774945522,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89520,
@@ -55803,6 +55947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86016,
+      "num": 86016,
+      "word": "卜凡弹幕 禁止打赏",
+      "onboard_time": 1774946602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86010,
       "num": 373356,
       "word": "赵丽颖乔妍带假发摇摆",
@@ -56451,14 +56603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84790,
-      "num": 84790,
-      "word": "米饭拌白糖",
-      "onboard_time": 1774943184,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84776,
       "num": 84776,
       "word": "这群大雁是不是刚下高速",
@@ -56729,6 +56873,14 @@
       "onboard_time": 1773035962,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84372,
+      "num": 84372,
+      "word": "王楚然请粉丝吃串串",
+      "onboard_time": 1774946483,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84332,
@@ -65275,6 +65427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71396,
+      "num": 71396,
+      "word": "乘风2026投票",
+      "onboard_time": 1774945823,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71391,
       "num": 71391,
       "word": "特朗普将袭击伊朗比作偷袭珍珠港",
@@ -65785,6 +65945,14 @@
       "onboard_time": 1772618303,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70441,
+      "num": 76337,
+      "word": "老板养到真旺财了",
+      "onboard_time": 1774947083,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 70437,
@@ -67923,6 +68091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66397,
+      "num": 66397,
+      "word": "长沙已经开始种太阳了",
+      "onboard_time": 1774945342,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66358,
       "num": 66358,
       "word": "狗狗追星成功了",
@@ -68256,6 +68432,14 @@
       "word": "科技探索她力量",
       "onboard_time": 1773306321,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65630,
+      "num": 65630,
+      "word": "5岁男孩患病从小瘫痪突然站立",
+      "onboard_time": 1774944744,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -69921,6 +70105,14 @@
       "onboard_time": 1774754840,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62417,
+      "num": 171653,
+      "word": "瑷尔博士抗衰老的中国解法",
+      "onboard_time": 1774947924,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62368,
@@ -73217,6 +73409,14 @@
       "onboard_time": 1774568300,
       "rank": 46,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 53144,
+      "num": 114768,
+      "word": "4月5月6月每个月都有假",
+      "onboard_time": 1774948102,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53109,
@@ -79211,6 +79411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29895,
+      "num": 177812,
+      "word": "谢谢科学家",
+      "onboard_time": 1774944261,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29872,
       "num": 43665,
       "word": "陈泽",
@@ -80800,6 +81008,14 @@
       "word": "家暴离婚可申请民事支持起诉",
       "onboard_time": 1774353630,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23636,
+      "num": 88960,
+      "word": "3岁女童打破魔方世界纪录",
+      "onboard_time": 1774947863,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -84445,6 +84661,9 @@
     },
     {
       "word": "#跟着总书记共建美丽家园#"
+    },
+    {
+      "word": "#让中国式现代化底色更加亮丽#"
     }
   ]
 }

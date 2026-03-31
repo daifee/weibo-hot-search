@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774943529141,
+  "endTime": 1774948281873,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -275,20 +275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 840756,
+      "num": 183054,
+      "word": "痞幼直播时抽烟",
+      "onboard_time": 1774942163,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 809557,
       "num": 156061,
       "word": "曝女顶流被公司索赔3亿解约费",
       "onboard_time": 1774750040,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 789024,
-      "num": 160493,
-      "word": "痞幼直播时抽烟",
-      "onboard_time": 1774942163,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 787317,
@@ -313,6 +313,14 @@
       "onboard_time": 1774754300,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 777163,
+      "num": 1124346,
+      "word": "瑞幸 紫椰子",
+      "onboard_time": 1774946664,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 766811,
@@ -411,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585430,
+      "num": 792939,
+      "word": "国足负于10人喀麦隆",
+      "onboard_time": 1774945763,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583975,
       "num": 213052,
       "word": "偶遇何穗公园遛娃",
       "onboard_time": 1774923806,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583429,
+      "num": 483206,
+      "word": "曾沛慈人气第一",
+      "onboard_time": 1774941924,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 579289,
@@ -595,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 483206,
-      "num": 483206,
-      "word": "曾沛慈人气第一",
-      "onboard_time": 1774941924,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482426,
       "num": 892731,
       "word": "田曦薇拍青天大老爷手势舞",
@@ -763,8 +779,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410041,
+      "num": 410041,
+      "word": "麻辣烫里最夯的是啥菜",
+      "onboard_time": 1774942763,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 409503,
-      "num": 215126,
+      "num": 324220,
       "word": "李健硬要给许飞版权费",
       "onboard_time": 1774941682,
       "rank": 31,
@@ -785,6 +809,14 @@
       "onboard_time": 1774882105,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401990,
+      "num": 401990,
+      "word": "米饭拌白糖",
+      "onboard_time": 1774943184,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 400787,
@@ -809,6 +841,14 @@
       "onboard_time": 1774916904,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393685,
+      "num": 183014,
+      "word": "怪不得公司一边招人一边裁员",
+      "onboard_time": 1774943604,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 385535,
@@ -843,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380160,
+      "num": 380160,
+      "word": "范世錡工作室回应被删",
+      "onboard_time": 1774942583,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377441,
       "num": 261396,
       "word": "薛之谦因下雨演唱会免费",
@@ -859,14 +907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375905,
-      "num": 159470,
-      "word": "范世錡工作室回应被删",
-      "onboard_time": 1774942583,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373790,
       "num": 932429,
       "word": "鸭嘴钳是无数女性做检查时的噩梦",
@@ -881,6 +921,14 @@
       "onboard_time": 1774915762,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370365,
+      "num": 182983,
+      "word": "严浩翔考核试卷",
+      "onboard_time": 1774943903,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 367927,
@@ -937,6 +985,14 @@
       "onboard_time": 1774939340,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349913,
+      "num": 182963,
+      "word": "鞠婧祎工作室改名字了",
+      "onboard_time": 1774945882,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347397,
@@ -2107,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195612,
+      "num": 156963,
+      "word": "乘风2026助力团王俊凯",
+      "onboard_time": 1774946243,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195610,
       "num": 198984,
       "word": "地球使用费",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1774775909,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183062,
+      "num": 183062,
+      "word": "Ruler 韩国兵役",
+      "onboard_time": 1774946064,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 180705,
@@ -2963,12 +3035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138221,
+      "num": 138221,
+      "word": "辛苦考上幼师后幼儿园却没了",
+      "onboard_time": 1774942823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
       "onboard_time": 1774827443,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137847,
+      "num": 137847,
+      "word": "范世錡怎么了",
+      "onboard_time": 1774947863,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 137755,
@@ -3033,6 +3121,14 @@
       "onboard_time": 1774802483,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135193,
+      "num": 114735,
+      "word": "曝LCK删除Ruler片段",
+      "onboard_time": 1774945763,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 133950,
@@ -3187,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128845,
+      "num": 128845,
+      "word": "五菱华为乾崑双向奔赴",
+      "onboard_time": 1774946964,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128282,
       "num": 128282,
       "word": "LCK核查ruler",
@@ -3273,14 +3377,6 @@
       "onboard_time": 1774767263,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125174,
-      "num": 125174,
-      "word": "麻辣烫里最夯的是啥菜",
-      "onboard_time": 1774942763,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 124649,
@@ -3483,6 +3579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116026,
+      "num": 116026,
+      "word": "红果回应普通人形象被AI短剧盗脸",
+      "onboard_time": 1774945582,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115284,
       "num": 793209,
       "word": "袁泉 影后演技",
@@ -3504,6 +3608,14 @@
       "word": "冰湖重生",
       "onboard_time": 1774857562,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114521,
+      "num": 114521,
+      "word": "肖战准备进组十日终焉围读",
+      "onboard_time": 1774945823,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3651,14 +3763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111292,
-      "num": 130223,
-      "word": "辛苦考上幼师后幼儿园却没了",
-      "onboard_time": 1774942823,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111177,
       "num": 504356,
       "word": "一直以为保温毯是披在身上的",
@@ -3713,6 +3817,14 @@
       "onboard_time": 1774871242,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "每天午睡vs从不午睡有多大差别",
+      "onboard_time": 1774944682,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109491,
@@ -3921,6 +4033,14 @@
       "onboard_time": 1774926446,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105317,
+      "num": 105317,
+      "word": "中国3艘船成功通过霍尔木兹海峡",
+      "onboard_time": 1774944682,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105299,
@@ -4491,6 +4611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91905,
+      "num": 648679,
+      "word": "4月一批新规将施行",
+      "onboard_time": 1774945404,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91727,
       "num": 91727,
       "word": "特朗普政府升级对华学术封锁",
@@ -4521,6 +4649,14 @@
       "onboard_time": 1774941082,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91160,
+      "num": 91160,
+      "word": "DeepSeek被做成纸扎了",
+      "onboard_time": 1774947203,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 90990,
@@ -4649,6 +4785,14 @@
       "onboard_time": 1774871724,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89544,
+      "num": 89544,
+      "word": "张柏芝铺垃圾袋睡觉",
+      "onboard_time": 1774945522,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89506,
@@ -4819,6 +4963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86016,
+      "num": 86016,
+      "word": "卜凡弹幕 禁止打赏",
+      "onboard_time": 1774946602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85990,
       "num": 502237,
       "word": "keria冠军皮肤萨勒芬妮",
@@ -4915,14 +5067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84790,
-      "num": 84790,
-      "word": "米饭拌白糖",
-      "onboard_time": 1774943184,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84661,
       "num": 351069,
       "word": "刘宇宁玫瑰骑士",
@@ -4969,6 +5113,14 @@
       "onboard_time": 1774863442,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84372,
+      "num": 84372,
+      "word": "王楚然请粉丝吃串串",
+      "onboard_time": 1774946483,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84299,
@@ -5771,6 +5923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71396,
+      "num": 71396,
+      "word": "乘风2026投票",
+      "onboard_time": 1774945823,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71381,
       "num": 71381,
       "word": "张俪眼睛毛细血管破裂",
@@ -5817,6 +5977,14 @@
       "onboard_time": 1774841484,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70441,
+      "num": 76337,
+      "word": "老板养到真旺财了",
+      "onboard_time": 1774947083,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 70134,
@@ -5955,12 +6123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66397,
+      "num": 66397,
+      "word": "长沙已经开始种太阳了",
+      "onboard_time": 1774945342,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66318,
       "num": 66318,
       "word": "雷军回应新su7首周交付量",
       "onboard_time": 1774745719,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65630,
+      "num": 65630,
+      "word": "5岁男孩患病从小瘫痪突然站立",
+      "onboard_time": 1774944744,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65628,
@@ -6097,6 +6281,14 @@
       "onboard_time": 1774754840,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62417,
+      "num": 171653,
+      "word": "瑷尔博士抗衰老的中国解法",
+      "onboard_time": 1774947924,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62231,
@@ -6401,6 +6593,14 @@
       "onboard_time": 1774739538,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53144,
+      "num": 114768,
+      "word": "4月5月6月每个月都有假",
+      "onboard_time": 1774948102,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52951,
@@ -6843,6 +7043,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 29895,
+      "num": 177812,
+      "word": "谢谢科学家",
+      "onboard_time": 1774944261,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28957,
       "num": 52643,
       "word": "有56个站姐预告了鞠婧祎",
@@ -6975,6 +7183,14 @@
       "num": 91331,
       "word": "海南高速一车辆开远光灯逆行",
       "onboard_time": 1774869504,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23636,
+      "num": 88960,
+      "word": "3岁女童打破魔方世界纪录",
+      "onboard_time": 1774947863,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -7283,6 +7499,9 @@
     },
     {
       "word": "#跟着总书记共建美丽家园#"
+    },
+    {
+      "word": "#让中国式现代化底色更加亮丽#"
     }
   ]
 }
