@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774969857686,
+  "endTime": 1774972134168,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -177,6 +177,14 @@
       "onboard_time": 1774778551,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1359514,
+      "num": 146191,
+      "word": "en王翊恩回应离过婚",
+      "onboard_time": 1774969762,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1229044,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416769,
+      "num": 158109,
+      "word": "愚人节",
+      "onboard_time": 1774971322,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414118,
       "num": 193757,
       "word": "徐良演唱会时薪4000",
@@ -1259,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328677,
+      "num": 152495,
+      "word": "站姐团建",
+      "onboard_time": 1774970844,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328327,
       "num": 328327,
       "word": "茅台发布重大事项公告",
@@ -1395,20 +1419,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305125,
+      "num": 305125,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 305100,
       "num": 214958,
       "word": "TES对战AL",
       "onboard_time": 1774870283,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 303797,
-      "num": 303797,
-      "word": "美国军人向脱衣舞女泄露部署计划",
-      "onboard_time": 1774967605,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 303347,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1774792888,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275809,
+      "num": 143443,
+      "word": "NCTWISH 最尊重愚人节的团",
+      "onboard_time": 1774971023,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 275665,
@@ -2225,6 +2257,14 @@
       "onboard_time": 1774855163,
       "rank": 4,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 220209,
+      "num": 220209,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220115,
@@ -3451,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139315,
+      "num": 226662,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139188,
       "num": 139188,
       "word": "盗墓笔记",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1774945763,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134663,
+      "num": 134663,
+      "word": "羊水栓塞产妇昏迷30天后苏醒",
+      "onboard_time": 1774970123,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134487,
@@ -3811,14 +3867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127335,
-      "num": 127335,
-      "word": "抗癌博主朱明月去世其女发声",
-      "onboard_time": 1774969704,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127137,
       "num": 142851,
       "word": "U23国足vs越南",
@@ -3939,12 +3987,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124082,
+      "num": 124082,
+      "word": "陶昕然人气",
+      "onboard_time": 1774969226,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123646,
       "num": 109690,
       "word": "东鹏特饮押宝张雪机车赢麻了",
       "onboard_time": 1774887562,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123387,
+      "num": 123387,
+      "word": "en王翊恩 结婚但没同居",
+      "onboard_time": 1774971204,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 122960,
@@ -4103,6 +4167,14 @@
       "num": 117924,
       "word": "邓凯上海人气",
       "onboard_time": 1774958726,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117771,
+      "num": 117771,
+      "word": "郭敬明终于能睡着了",
+      "onboard_time": 1774967125,
       "rank": 46,
       "category": "作品衍生"
     },
@@ -4387,14 +4459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110682,
-      "num": 110682,
-      "word": "陶昕然人气",
-      "onboard_time": 1774969226,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110638,
       "num": 801304,
       "word": "1.99元就能买1斤猪肉",
@@ -4443,20 +4507,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 109590,
-      "num": 109590,
-      "word": "en王翊恩回应离过婚",
-      "onboard_time": 1774969762,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109491,
       "num": 918812,
       "word": "伊朗说美方唯一能听懂的就是武力",
       "onboard_time": 1774786169,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109366,
+      "num": 109366,
+      "word": "黄金六轮史诗级跳水",
+      "onboard_time": 1774970963,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 109352,
@@ -4617,6 +4681,14 @@
       "onboard_time": 1774949844,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106419,
+      "num": 106419,
+      "word": "iPhone13半价换电池没货",
+      "onboard_time": 1774970544,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 106410,
@@ -5131,12 +5203,12 @@
       "category": "剧集,游戏"
     },
     {
-      "raw_hot": 96018,
-      "num": 89399,
-      "word": "郭敬明终于能睡着了",
-      "onboard_time": 1774967125,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 96144,
+      "num": 96144,
+      "word": "何凯文回归",
+      "onboard_time": 1774970245,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 96002,
@@ -5339,6 +5411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92695,
+      "num": 92695,
+      "word": "张雪20年飞驰人生比电影更燃",
+      "onboard_time": 1774971502,
+      "rank": 45,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 92575,
       "num": 92575,
       "word": "张雪 飞驰人生",
@@ -5504,6 +5584,14 @@
       "word": "锤娜丽莎本名嵇嘉禾",
       "onboard_time": 1774843704,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90538,
+      "num": 90538,
+      "word": "徐明浩跳catchcatch",
+      "onboard_time": 1774970963,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -7427,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56789,
+      "num": 148914,
+      "word": "妻子14岁起陪张雪白手起家",
+      "onboard_time": 1774971204,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56703,
       "num": 80366,
       "word": "孙俪的权威我早就知道",
@@ -7515,6 +7611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54079,
+      "num": 148058,
+      "word": "美军进攻伊朗岛屿将变成活靶子",
+      "onboard_time": 1774971623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53800,
       "num": 83724,
       "word": "白鹿留洋大小姐造型",
@@ -7593,14 +7697,6 @@
       "onboard_time": 1774878685,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 49438,
-      "num": 226662,
-      "word": "中国无人机蜂群突击铺天盖地",
-      "onboard_time": 1774968685,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 49111,
@@ -7793,6 +7889,14 @@
       "onboard_time": 1774741217,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41066,
+      "num": 147449,
+      "word": "官方通报纯牛奶倒出透明苦水",
+      "onboard_time": 1774971084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40555,
@@ -8067,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28256,
+      "num": 102718,
+      "word": "老人6万元卖粮钱被孙女打赏",
+      "onboard_time": 1774971322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27788,
       "num": 90788,
       "word": "太原火灾现场饭桌上还有未动的晚餐",
@@ -8241,6 +8353,14 @@
       "onboard_time": 1774701203,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22083,
+      "num": 103450,
+      "word": "中东局势引发全球蝴蝶效应",
+      "onboard_time": 1774971204,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21852,
