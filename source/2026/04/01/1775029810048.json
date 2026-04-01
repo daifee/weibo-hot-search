@@ -1,0 +1,410 @@
+{
+  "runTime": 1775029810048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517444,
+        "num": 1082791,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356846,
+        "num": 758337,
+        "word": "日本彻底撕下伪装",
+        "onboard_time": 1775021305,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20077,
+        "num": 645096,
+        "word": "雄安大脑赋能智慧城市",
+        "onboard_time": 1775012004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264593,
+        "num": 264593,
+        "word": "29岁小伙赶在结婚前立遗嘱",
+        "onboard_time": 1775024124,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257426,
+        "num": 257426,
+        "word": "李维嘉不知道遗产传给谁",
+        "onboard_time": 1775016984,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1332536,
+        "num": 251994,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242604,
+        "num": 242604,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234496,
+        "num": 234496,
+        "word": "鞠婧祎月鳞绮纪演技",
+        "onboard_time": 1775027723,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 202950,
+        "word": "张雪建议年轻人条件有限就先搞钱",
+        "onboard_time": 1775025562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96335,
+        "num": 201539,
+        "word": "16G内存降到了700元",
+        "onboard_time": 1775025562,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1298018,
+        "num": 200067,
+        "word": "丝芭起诉月鳞绮纪承制方",
+        "onboard_time": 1775023404,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 826704,
+        "num": 198850,
+        "word": "李荣浩否认抄袭",
+        "onboard_time": 1775013504,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303783,
+        "num": 197792,
+        "word": "张雪身价上亿还在用两千多块钱坏手机",
+        "onboard_time": 1775020826,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203011,
+        "num": 195496,
+        "word": "请假在家躺了两天小狗以为我失业了",
+        "onboard_time": 1775023645,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195021,
+        "num": 195021,
+        "word": "警方已约谈太原暴走团负责人",
+        "onboard_time": 1775021365,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189925,
+        "num": 189925,
+        "word": "央视曝光优思益多平台下架",
+        "onboard_time": 1775016745,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188099,
+        "num": 188099,
+        "word": "甲骨文凌晨6点突发裁员3万人",
+        "onboard_time": 1775014348,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35721,
+        "num": 185893,
+        "word": "优思益幕后推手被查",
+        "onboard_time": 1775029523,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77022,
+        "num": 181511,
+        "word": "吉林省考成绩",
+        "onboard_time": 1775028203,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15439,
+        "num": 178018,
+        "word": "青岛一大爷骑电动车进地铁车厢",
+        "onboard_time": 1775029523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229149,
+        "num": 174774,
+        "word": "以后再也不埋怨清明节下雨了",
+        "onboard_time": 1775024843,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171755,
+        "num": 171755,
+        "word": "伊朗不同意停火强调要彻底结束战争",
+        "onboard_time": 1775026882,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169908,
+        "num": 169908,
+        "word": "金价急跌急涨",
+        "onboard_time": 1775027183,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 168143,
+        "word": "月鳞绮纪热度",
+        "onboard_time": 1775020705,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155336,
+        "num": 155336,
+        "word": "迪丽热巴这真是妈咪级别的",
+        "onboard_time": 1775028444,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143791,
+        "num": 143791,
+        "word": "伊朗愿意结束战争",
+        "onboard_time": 1775006003,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 140742,
+        "word": "Angelababy海边拍摄MV",
+        "onboard_time": 1775025682,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131980,
+        "num": 131980,
+        "word": "从指甲看主角是真穷",
+        "onboard_time": 1775013864,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115711,
+        "num": 130667,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129639,
+        "num": 129639,
+        "word": "月鳞绮纪",
+        "onboard_time": 1775025081,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116344,
+        "num": 116344,
+        "word": "怀疑手机坏了都没怀疑林一",
+        "onboard_time": 1775028324,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115225,
+        "num": 115225,
+        "word": "日本男教师因接受性服务时偷拍被解雇",
+        "onboard_time": 1775028382,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116591,
+        "num": 112851,
+        "word": "月鳞绮纪开播",
+        "onboard_time": 1775014466,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 110175,
+        "word": "白日提灯追剧团",
+        "onboard_time": 1775024483,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109961,
+        "num": 109961,
+        "word": "我坐一天400他躺一天500",
+        "onboard_time": 1775016685,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108475,
+        "num": 108475,
+        "word": "鹿晗说我是邓超我同意五哈不播",
+        "onboard_time": 1775026762,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107378,
+        "num": 107378,
+        "word": "三部门对优思益展开调查",
+        "onboard_time": 1775027543,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101259,
+        "num": 101259,
+        "word": "爸爸举高高孩子180度翻转吓到发烧",
+        "onboard_time": 1775020467,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11943,
+        "num": 96716,
+        "word": "戚薇让刘昊然好好反省",
+        "onboard_time": 1775029523,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56294,
+        "num": 93887,
+        "word": "迪丽热巴回复陈飞宇",
+        "onboard_time": 1775029523,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85518,
+        "num": 93320,
+        "word": "伊朗精准打击",
+        "onboard_time": 1775023762,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 92986,
+        "num": 92986,
+        "word": "肖战陌森 到期",
+        "onboard_time": 1775013024,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91790,
+        "num": 91790,
+        "word": "邓超称4月4日五哈播不了了",
+        "onboard_time": 1775011522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84237,
+        "num": 84237,
+        "word": "销冠澳洲优思益竟是假进口",
+        "onboard_time": 1775014104,
+        "rank": 43,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 76559,
+        "num": 76559,
+        "word": "马思纯咋变东北黎吧啦了",
+        "onboard_time": 1775024663,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74016,
+        "num": 74016,
+        "word": "曾沛慈 够爱",
+        "onboard_time": 1775029702,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71434,
+        "num": 71434,
+        "word": "有线耳机穿搭火了",
+        "onboard_time": 1775005882,
+        "rank": 46,
+        "category": "数码,时尚"
+      },
+      {
+        "raw_hot": 71300,
+        "num": 71300,
+        "word": "花近万元做手术手术刀却值4000元",
+        "onboard_time": 1775029583,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70939,
+        "num": 70939,
+        "word": "韩国夜店98年前出生顾客禁止入场",
+        "onboard_time": 1775019566,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67542,
+        "num": 67542,
+        "word": "丝芭称鞠婧祎出演月鳞绮纪违约",
+        "onboard_time": 1775024243,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记植树护绿的故事#"
+    }
+  }
+}

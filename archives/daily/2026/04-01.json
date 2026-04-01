@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775023953659,
+  "endTime": 1775029810048,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -25,6 +25,14 @@
       "onboard_time": 1775023404,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1332536,
+      "num": 251994,
+      "word": "芭乐 早知道烂地里了",
+      "onboard_time": 1775025862,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1311509,
@@ -89,6 +97,14 @@
       "onboard_time": 1775011522,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517444,
+      "num": 1082791,
+      "word": "你的公积金悄悄变多了",
+      "onboard_time": 1775028922,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510256,
@@ -179,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356846,
+      "num": 758337,
+      "word": "日本彻底撕下伪装",
+      "onboard_time": 1775021305,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264593,
+      "num": 264593,
+      "word": "29岁小伙赶在结婚前立遗嘱",
+      "onboard_time": 1775024124,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262760,
       "num": 204453,
       "word": "从指甲看主角是真穷",
@@ -275,11 +307,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234496,
+      "num": 234496,
+      "word": "鞠婧祎月鳞绮纪演技",
+      "onboard_time": 1775027723,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229522,
       "num": 229522,
       "word": "十二星座4月月运",
       "onboard_time": 1774974922,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 229149,
+      "num": 174774,
+      "word": "以后再也不埋怨清明节下雨了",
+      "onboard_time": 1775024843,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -305,14 +353,6 @@
       "onboard_time": 1775002643,
       "rank": 1,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 215039,
-      "num": 215039,
-      "word": "日本彻底撕下伪装",
-      "onboard_time": 1775021305,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 213993,
@@ -347,6 +387,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203011,
+      "num": 195496,
+      "word": "请假在家躺了两天小狗以为我失业了",
+      "onboard_time": 1775023645,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202950,
+      "num": 202950,
+      "word": "张雪建议年轻人条件有限就先搞钱",
+      "onboard_time": 1775025562,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200551,
       "num": 164619,
       "word": "杨紫也被女装背刺了",
@@ -376,6 +432,14 @@
       "word": "4岁女孩独自买汉堡遭陌生女子踢踹",
       "onboard_time": 1775000360,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195021,
+      "num": 195021,
+      "word": "警方已约谈太原暴走团负责人",
+      "onboard_time": 1775021365,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -435,12 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171342,
-      "num": 171342,
-      "word": "警方已约谈太原暴走团负责人",
-      "onboard_time": 1775021365,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 171755,
+      "num": 171755,
+      "word": "伊朗不同意停火强调要彻底结束战争",
+      "onboard_time": 1775026882,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169908,
+      "num": 169908,
+      "word": "金价急跌急涨",
+      "onboard_time": 1775027183,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 168729,
@@ -491,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155336,
+      "num": 155336,
+      "word": "迪丽热巴这真是妈咪级别的",
+      "onboard_time": 1775028444,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "金价银价大跌了",
@@ -505,6 +585,14 @@
       "onboard_time": 1775018364,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145501,
+      "num": 140742,
+      "word": "Angelababy海边拍摄MV",
+      "onboard_time": 1775025682,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 143830,
@@ -577,6 +665,14 @@
       "onboard_time": 1774970245,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129639,
+      "num": 129639,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775025081,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 128610,
@@ -683,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116344,
+      "num": 116344,
+      "word": "怀疑手机坏了都没怀疑林一",
+      "onboard_time": 1775028324,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115225,
+      "num": 115225,
+      "word": "日本男教师因接受性服务时偷拍被解雇",
+      "onboard_time": 1775028382,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "陈飞宇 陈凯歌基因显化中",
@@ -715,12 +827,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110175,
+      "num": 110175,
+      "word": "白日提灯追剧团",
+      "onboard_time": 1775024483,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108475,
+      "num": 108475,
+      "word": "鹿晗说我是邓超我同意五哈不播",
+      "onboard_time": 1775026762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108406,
       "num": 108406,
       "word": "鞠婧祎原声",
       "onboard_time": 1775020525,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107378,
+      "num": 107378,
+      "word": "三部门对优思益展开调查",
+      "onboard_time": 1775027543,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106526,
@@ -825,6 +961,14 @@
       "onboard_time": 1775000360,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96335,
+      "num": 201539,
+      "word": "16G内存降到了700元",
+      "onboard_time": 1775025562,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 95838,
@@ -1011,20 +1155,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78116,
-      "num": 78116,
-      "word": "请假在家躺了两天小狗以为我失业了",
-      "onboard_time": 1775023645,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 78080,
       "num": 78080,
       "word": "宠物冥币",
       "onboard_time": 1775014466,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77022,
+      "num": 181511,
+      "word": "吉林省考成绩",
+      "onboard_time": 1775028203,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 76559,
+      "num": 76559,
+      "word": "马思纯咋变东北黎吧啦了",
+      "onboard_time": 1775024663,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 76375,
@@ -1091,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74016,
+      "num": 74016,
+      "word": "曾沛慈 够爱",
+      "onboard_time": 1775029702,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72808,
       "num": 62355,
       "word": "Ruler可能面临禁赛",
@@ -1131,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71300,
+      "num": 71300,
+      "word": "花近万元做手术手术刀却值4000元",
+      "onboard_time": 1775029583,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70427,
       "num": 70427,
       "word": "Claude Code源码意外泄露",
@@ -1169,6 +1337,14 @@
       "onboard_time": 1775009301,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67542,
+      "num": 67542,
+      "word": "丝芭称鞠婧祎出演月鳞绮纪违约",
+      "onboard_time": 1775024243,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 64074,
@@ -1275,6 +1451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56294,
+      "num": 93887,
+      "word": "迪丽热巴回复陈飞宇",
+      "onboard_time": 1775029523,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54804,
       "num": 54804,
       "word": "盗墓笔记",
@@ -1356,7 +1540,7 @@
     },
     {
       "raw_hot": 42466,
-      "num": 634359,
+      "num": 645096,
       "word": "雄安大脑赋能智慧城市",
       "onboard_time": 1775012004,
       "rank": 2,
@@ -1377,6 +1561,14 @@
       "onboard_time": 1774955725,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35721,
+      "num": 185893,
+      "word": "优思益幕后推手被查",
+      "onboard_time": 1775029523,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34830,
@@ -1483,12 +1675,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15439,
+      "num": 178018,
+      "word": "青岛一大爷骑电动车进地铁车厢",
+      "onboard_time": 1775029523,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12185,
       "num": 87826,
       "word": "国际数学家大会因在美举办遭抵制",
       "onboard_time": 1775013263,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11943,
+      "num": 96716,
+      "word": "戚薇让刘昊然好好反省",
+      "onboard_time": 1775029523,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 11569,
