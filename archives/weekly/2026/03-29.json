@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775036742181,
+  "endTime": 1775041586318,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 948860,
-      "num": 103488,
+      "num": 113240,
       "word": "时代少年团愚人节互发",
       "onboard_time": 1775035162,
       "rank": 20,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644824,
+      "num": 1103171,
+      "word": "有线耳机爆火原因",
+      "onboard_time": 1775038522,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 641752,
       "num": 976155,
       "word": "D3665列车乘客称多人疑似晕厥",
@@ -587,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607475,
+      "num": 155881,
+      "word": "网易云封号",
+      "onboard_time": 1775037143,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 606354,
       "num": 606354,
       "word": "孙俪回应蒋欣",
@@ -609,6 +625,14 @@
       "onboard_time": 1774960467,
       "rank": 1,
       "category": "互联网,休闲"
+    },
+    {
+      "raw_hot": 589987,
+      "num": 120936,
+      "word": "胡先煦顶级的愚人节愚人手法",
+      "onboard_time": 1775035463,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 585430,
@@ -1019,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 432547,
+      "num": 118231,
+      "word": "严浩翔发的是刘耀文",
+      "onboard_time": 1775035944,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432454,
       "num": 432454,
       "word": "向佐终于像个人了",
@@ -1371,6 +1403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356294,
+      "num": 356294,
+      "word": "女教师被拖行5.9公里致死已两度尸检",
+      "onboard_time": 1775037802,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354789,
       "num": 378058,
       "word": "浪姐7唯一双金影后",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1774939340,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351702,
+      "num": 351702,
+      "word": "以色列决定报复法国",
+      "onboard_time": 1775039302,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 350139,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1774931606,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329177,
+      "num": 109709,
+      "word": "丁程鑫发了严浩翔",
+      "onboard_time": 1775035944,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 328327,
@@ -2371,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232095,
+      "num": 232095,
+      "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
+      "onboard_time": 1775034022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231859,
       "num": 269982,
       "word": "广州暴雨",
@@ -2393,14 +2457,6 @@
       "onboard_time": 1774939824,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229851,
-      "num": 102484,
-      "word": "胡先煦顶级的愚人节愚人手法",
-      "onboard_time": 1775035463,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 229522,
@@ -2563,6 +2619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223057,
+      "num": 223057,
+      "word": "济南首台张雪机车夺冠车型受损",
+      "onboard_time": 1775037563,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222663,
       "num": 134017,
       "word": "垫底辣孩回应脸变了",
@@ -2611,14 +2675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 221390,
-      "num": 101831,
-      "word": "丁程鑫发了严浩翔",
-      "onboard_time": 1775035944,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220813,
       "num": 220813,
       "word": "电动车涨价原因",
@@ -2641,14 +2697,6 @@
       "onboard_time": 1774773629,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217083,
-      "num": 99870,
-      "word": "严浩翔发的是刘耀文",
-      "onboard_time": 1775035944,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 216963,
@@ -2913,6 +2961,14 @@
       "onboard_time": 1774925786,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200569,
+      "num": 200569,
+      "word": "法国豪门弃子34岁终夺冠致谢张雪",
+      "onboard_time": 1775032823,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 199796,
@@ -3763,6 +3819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 156616,
+      "num": 156616,
+      "word": "陈飞宇冷脸搬凳子",
+      "onboard_time": 1775034383,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156236,
       "num": 156236,
       "word": "秦岚回应花少与客栈哪个更快乐",
@@ -3939,14 +4003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147183,
-      "num": 135638,
-      "word": "法国豪门弃子34岁终夺冠致谢张雪",
-      "onboard_time": 1775032823,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147154,
       "num": 109471,
       "word": "成都一凶宅96.6万成交后买家悔拍",
@@ -4043,6 +4099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142093,
+      "num": 110134,
+      "word": "王子邱胜翊涉嫌逃兵役被捕",
+      "onboard_time": 1775039721,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141540,
       "num": 163194,
       "word": "WB战胜LGDNBW",
@@ -4129,6 +4193,14 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139672,
+      "num": 139672,
+      "word": "特朗普认真考虑美退出北约",
+      "onboard_time": 1775040804,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139474,
@@ -4291,6 +4363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135325,
+      "num": 135325,
+      "word": "全球股市史诗级暴涨",
+      "onboard_time": 1775039902,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135193,
       "num": 114735,
       "word": "曝LCK删除Ruler片段",
@@ -4451,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130409,
+      "num": 115724,
+      "word": "43岁产妇遇产科死神羊水栓塞",
+      "onboard_time": 1775040443,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130406,
       "num": 130406,
       "word": "裴珠泫回归",
@@ -4515,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128865,
+      "num": 128865,
+      "word": "周深新歌禁止用于AI训练",
+      "onboard_time": 1775040203,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128845,
       "num": 128845,
       "word": "五菱华为乾崑双向奔赴",
@@ -4537,6 +4633,14 @@
       "onboard_time": 1774948526,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128361,
+      "num": 128361,
+      "word": "官方通报1岁男童疑输液后抽搐去世",
+      "onboard_time": 1775039243,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 128282,
@@ -4833,14 +4937,6 @@
       "onboard_time": 1774962986,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119800,
-      "num": 119800,
-      "word": "陈飞宇冷脸搬凳子",
-      "onboard_time": 1775034383,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 119716,
@@ -5347,6 +5443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109491,
+      "num": 109491,
+      "word": "输液后身亡患儿已尸检",
+      "onboard_time": 1775039601,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109366,
       "num": 109366,
       "word": "黄金六轮史诗级跳水",
@@ -5449,6 +5553,14 @@
       "onboard_time": 1774796190,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108224,
+      "num": 102704,
+      "word": "工科生不适合去星巴克的原因",
+      "onboard_time": 1775040140,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 107994,
@@ -5763,6 +5875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101701,
+      "num": 102746,
+      "word": "韩媒就Ruler报道道歉",
+      "onboard_time": 1775038162,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101678,
       "num": 101678,
       "word": "这下真分不清工装和春装了",
@@ -5995,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98582,
+      "num": 98582,
+      "word": "张凌赫丁程鑫你俩有点暧昧",
+      "onboard_time": 1775038402,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98544,
       "num": 507863,
       "word": "美国对伊朗局势至少出现两个误判",
@@ -6155,6 +6283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96222,
+      "num": 100721,
+      "word": "衣服上身5秒定律",
+      "onboard_time": 1775040623,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96002,
       "num": 98701,
       "word": "狗狗消费降级后脸色都变了",
@@ -6208,6 +6344,14 @@
       "word": "当代人对豆包的依赖程度",
       "onboard_time": 1774757361,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95514,
+      "num": 98327,
+      "word": "雇两个擦玻璃小工仅需1根猫条",
+      "onboard_time": 1775040443,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -6361,6 +6505,14 @@
       "onboard_time": 1774714460,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92979,
+      "num": 98466,
+      "word": "王楚钦vs卢伟",
+      "onboard_time": 1775038883,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 92970,
@@ -6763,6 +6915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89107,
+      "num": 98048,
+      "word": "网易云回应账号突然被封禁",
+      "onboard_time": 1775041282,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89097,
       "num": 105467,
       "word": "孙颖莎王曼昱首日出战",
@@ -6817,6 +6977,14 @@
       "onboard_time": 1774965026,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88482,
+      "num": 98153,
+      "word": "中方回应日本强行部署远程导弹",
+      "onboard_time": 1775039003,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88418,
@@ -6923,20 +7091,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87322,
+      "num": 97460,
+      "word": "鞠婧祎首位演员热度值定档破9800万",
+      "onboard_time": 1775037802,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87167,
       "num": 87167,
       "word": "专家说樊振东强到逆天了",
       "onboard_time": 1774883303,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87101,
-      "num": 87101,
-      "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
-      "onboard_time": 1775034022,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87094,
@@ -7209,6 +7377,14 @@
       "onboard_time": 1774881146,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84294,
+      "num": 97579,
+      "word": "食贫道饼叔被韩国夜店卡了三次颜",
+      "onboard_time": 1775039062,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84185,
@@ -7803,6 +7979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77067,
+      "num": 97007,
+      "word": "黄金年内回撤达26%",
+      "onboard_time": 1775041161,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77066,
       "num": 77066,
       "word": "您好很着急为您服务",
@@ -7937,6 +8121,14 @@
       "onboard_time": 1775005944,
       "rank": 46,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 75347,
+      "num": 96681,
+      "word": "比亚迪3月销量夺冠中国车企",
+      "onboard_time": 1775041523,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 75023,
@@ -9187,6 +9379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50725,
+      "num": 97731,
+      "word": "马嘉祺教邵兵玩手机",
+      "onboard_time": 1775038223,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50429,
       "num": 104401,
       "word": "美特种兵可能参与夺岛或涉伊核任务",
@@ -9217,6 +9417,14 @@
       "onboard_time": 1774878685,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49383,
+      "num": 654563,
+      "word": "4月1日起一批国家标准开始实施",
+      "onboard_time": 1775034924,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49111,
@@ -9337,14 +9545,6 @@
       "onboard_time": 1774853723,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44190,
-      "num": 654563,
-      "word": "4月1日起一批国家标准开始实施",
-      "onboard_time": 1775034924,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44079,

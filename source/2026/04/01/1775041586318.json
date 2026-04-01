@@ -1,0 +1,410 @@
+{
+  "runTime": 1775041586318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 644824,
+        "num": 1103171,
+        "word": "有线耳机爆火原因",
+        "onboard_time": 1775038522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 455433,
+        "num": 802074,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49383,
+        "num": 628782,
+        "word": "4月1日起一批国家标准开始实施",
+        "onboard_time": 1775034924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356294,
+        "num": 356294,
+        "word": "女教师被拖行5.9公里致死已两度尸检",
+        "onboard_time": 1775037802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351702,
+        "num": 351702,
+        "word": "以色列决定报复法国",
+        "onboard_time": 1775039302,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232095,
+        "num": 232095,
+        "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
+        "onboard_time": 1775034022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223057,
+        "num": 223057,
+        "word": "济南首台张雪机车夺冠车型受损",
+        "onboard_time": 1775037563,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200569,
+        "num": 200569,
+        "word": "法国豪门弃子34岁终夺冠致谢张雪",
+        "onboard_time": 1775032823,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173351,
+        "num": 173351,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156616,
+        "num": 156616,
+        "word": "陈飞宇冷脸搬凳子",
+        "onboard_time": 1775034383,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607475,
+        "num": 155881,
+        "word": "网易云封号",
+        "onboard_time": 1775037143,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353618,
+        "num": 153469,
+        "word": "成都一凶宅第三次拍卖起拍价16.6万",
+        "onboard_time": 1775034022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307927,
+        "num": 151512,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182460,
+        "num": 149527,
+        "word": "孙俪回应蒋欣",
+        "onboard_time": 1775031682,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147810,
+        "num": 147810,
+        "word": "迪丽热巴问白日提灯固屏去哪了",
+        "onboard_time": 1775030362,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139672,
+        "num": 139672,
+        "word": "特朗普认真考虑美退出北约",
+        "onboard_time": 1775040804,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135325,
+        "num": 135325,
+        "word": "全球股市史诗级暴涨",
+        "onboard_time": 1775039902,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128865,
+        "num": 128865,
+        "word": "周深新歌禁止用于AI训练",
+        "onboard_time": 1775040203,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128361,
+        "num": 128361,
+        "word": "官方通报1岁男童疑输液后抽搐去世",
+        "onboard_time": 1775039243,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122959,
+        "num": 122959,
+        "word": "中方回应美颁通用许可证排除中国",
+        "onboard_time": 1775034142,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 589987,
+        "num": 120936,
+        "word": "胡先煦顶级的愚人节愚人手法",
+        "onboard_time": 1775035463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432547,
+        "num": 118231,
+        "word": "严浩翔发的是刘耀文",
+        "onboard_time": 1775035944,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130409,
+        "num": 115724,
+        "word": "43岁产妇遇产科死神羊水栓塞",
+        "onboard_time": 1775040443,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363827,
+        "num": 113240,
+        "word": "时代少年团愚人节互发",
+        "onboard_time": 1775035162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142093,
+        "num": 110134,
+        "word": "王子邱胜翊涉嫌逃兵役被捕",
+        "onboard_time": 1775039721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109831,
+        "num": 109831,
+        "word": "一中国人涉及超7亿房产在英被冻结",
+        "onboard_time": 1775032763,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329177,
+        "num": 109709,
+        "word": "丁程鑫发了严浩翔",
+        "onboard_time": 1775035944,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 109491,
+        "word": "输液后身亡患儿已尸检",
+        "onboard_time": 1775039601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 103064,
+        "word": "Angelababy海边拍摄MV",
+        "onboard_time": 1775025682,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101701,
+        "num": 102746,
+        "word": "韩媒就Ruler报道道歉",
+        "onboard_time": 1775038162,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 102704,
+        "word": "工科生不适合去星巴克的原因",
+        "onboard_time": 1775040140,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102656,
+        "num": 102656,
+        "word": "江宏杰祝福福原爱再婚怀孕",
+        "onboard_time": 1775031083,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 96222,
+        "num": 100721,
+        "word": "衣服上身5秒定律",
+        "onboard_time": 1775040623,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 100432,
+        "word": "迪丽热巴这真是妈咪级别的",
+        "onboard_time": 1775028444,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98582,
+        "num": 98582,
+        "word": "张凌赫丁程鑫你俩有点暧昧",
+        "onboard_time": 1775038402,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92979,
+        "num": 98466,
+        "word": "王楚钦vs卢伟",
+        "onboard_time": 1775038883,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95514,
+        "num": 98327,
+        "word": "雇两个擦玻璃小工仅需1根猫条",
+        "onboard_time": 1775040443,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90891,
+        "num": 98324,
+        "word": "月鳞绮纪热度",
+        "onboard_time": 1775020705,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88482,
+        "num": 98153,
+        "word": "中方回应日本强行部署远程导弹",
+        "onboard_time": 1775039003,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89107,
+        "num": 98048,
+        "word": "网易云回应账号突然被封禁",
+        "onboard_time": 1775041282,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84422,
+        "num": 97936,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50725,
+        "num": 97731,
+        "word": "马嘉祺教邵兵玩手机",
+        "onboard_time": 1775038223,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84294,
+        "num": 97579,
+        "word": "食贫道饼叔被韩国夜店卡了三次颜",
+        "onboard_time": 1775039062,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87322,
+        "num": 97460,
+        "word": "鞠婧祎首位演员热度值定档破9800万",
+        "onboard_time": 1775037802,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80094,
+        "num": 97367,
+        "word": "曾沛慈 够爱",
+        "onboard_time": 1775029702,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77900,
+        "num": 97230,
+        "word": "付费的没学会免费的学会了",
+        "onboard_time": 1775031383,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80576,
+        "num": 97108,
+        "word": "宋亚轩宋小花",
+        "onboard_time": 1775036181,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77067,
+        "num": 97007,
+        "word": "黄金年内回撤达26%",
+        "onboard_time": 1775041161,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75968,
+        "num": 96891,
+        "word": "日本彻底撕下伪装",
+        "onboard_time": 1775021305,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75347,
+        "num": 96681,
+        "word": "比亚迪3月销量夺冠中国车企",
+        "onboard_time": 1775041523,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#干事创业一定要树立正确政绩观#"
+    }
+  }
+}
