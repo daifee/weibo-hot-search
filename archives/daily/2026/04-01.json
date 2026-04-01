@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775041586318,
+  "endTime": 1775043101238,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 948860,
-      "num": 113240,
+      "num": 326415,
       "word": "时代少年团愚人节互发",
       "onboard_time": 1775035162,
       "rank": 20,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705023,
+      "num": 1112803,
+      "word": "有线耳机爆火原因",
+      "onboard_time": 1775038522,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 693691,
       "num": 190469,
       "word": "丝芭 月鳞绮纪",
@@ -91,16 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 644824,
-      "num": 1103171,
-      "word": "有线耳机爆火原因",
-      "onboard_time": 1775038522,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 607475,
-      "num": 155881,
+      "num": 167543,
       "word": "网易云封号",
       "onboard_time": 1775037143,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 589987,
-      "num": 120936,
+      "num": 139244,
       "word": "胡先煦顶级的愚人节愚人手法",
       "onboard_time": 1775035463,
       "rank": 22,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 432547,
-      "num": 118231,
+      "num": 138149,
       "word": "严浩翔发的是刘耀文",
       "onboard_time": 1775035944,
       "rank": 26,
@@ -201,6 +201,14 @@
       "onboard_time": 1774957106,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405946,
+      "num": 405946,
+      "word": "以色列决定报复法国",
+      "onboard_time": 1775039302,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 401896,
@@ -275,16 +283,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351702,
-      "num": 351702,
-      "word": "以色列决定报复法国",
-      "onboard_time": 1775039302,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 329177,
-      "num": 109709,
+      "num": 123261,
       "word": "丁程鑫发了严浩翔",
       "onboard_time": 1775035944,
       "rank": 23,
@@ -363,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 275814,
+      "num": 275814,
+      "word": "369休息",
+      "onboard_time": 1775042543,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266583,
       "num": 171081,
       "word": "张慧雯人气",
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244487,
+      "num": 244487,
+      "word": "官方通报1岁男童疑输液后抽搐去世",
+      "onboard_time": 1775039243,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 235213,
       "num": 235213,
       "word": "中方回应美颁通用许可证排除中国",
@@ -473,6 +489,14 @@
       "onboard_time": 1775017706,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225447,
+      "num": 225447,
+      "word": "法国豪门弃子34岁终夺冠致谢张雪",
+      "onboard_time": 1775032823,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 223057,
@@ -545,14 +569,6 @@
       "onboard_time": 1775025562,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200569,
-      "num": 200569,
-      "word": "法国豪门弃子34岁终夺冠致谢张雪",
-      "onboard_time": 1775032823,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 200551,
@@ -683,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168073,
+      "num": 168073,
+      "word": "周深新歌禁止用于AI训练",
+      "onboard_time": 1775040203,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165253,
       "num": 99664,
       "word": "宋亚轩宋小花",
@@ -723,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162577,
+      "num": 162577,
+      "word": "特朗普认真考虑美退出北约",
+      "onboard_time": 1775040804,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158560,
       "num": 264301,
       "word": "打耳洞时先戴上耳机",
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153656,
+      "num": 153656,
+      "word": "妹妹看到姐姐遗体惨状当场崩溃",
+      "onboard_time": 1775041823,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "金价银价大跌了",
@@ -753,6 +793,14 @@
       "onboard_time": 1775018364,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149796,
+      "num": 135337,
+      "word": "王子邱胜翊涉嫌逃兵役被捕",
+      "onboard_time": 1775039721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 149412,
@@ -779,20 +827,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144305,
+      "num": 136714,
+      "word": "43岁产妇遇产科死神羊水栓塞",
+      "onboard_time": 1775040443,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143830,
       "num": 310927,
       "word": "华人夫妇美国豪宅离奇失踪一年",
       "onboard_time": 1775006603,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 142093,
-      "num": 110134,
-      "word": "王子邱胜翊涉嫌逃兵役被捕",
-      "onboard_time": 1775039721,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 141810,
@@ -811,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140877,
+      "num": 140877,
+      "word": "Uzi队遭陪玩队零封",
+      "onboard_time": 1775041763,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140292,
       "num": 140292,
       "word": "4月最吸金的星座",
@@ -825,14 +881,6 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139672,
-      "num": 139672,
-      "word": "特朗普认真考虑美退出北约",
-      "onboard_time": 1775040804,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137821,
@@ -875,14 +923,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130409,
-      "num": 115724,
-      "word": "43岁产妇遇产科死神羊水栓塞",
-      "onboard_time": 1775040443,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129873,
       "num": 418928,
       "word": "何凯文回归",
@@ -899,28 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128865,
-      "num": 128865,
-      "word": "周深新歌禁止用于AI训练",
-      "onboard_time": 1775040203,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128610,
       "num": 128610,
       "word": "张雪称影视版权给顶级团队",
       "onboard_time": 1775000602,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128361,
-      "num": 128361,
-      "word": "官方通报1岁男童疑输液后抽搐去世",
-      "onboard_time": 1775039243,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 128088,
@@ -955,12 +979,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124813,
+      "num": 124813,
+      "word": "公安部力挺张雪新手禁令",
+      "onboard_time": 1775042362,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122514,
       "num": 116839,
       "word": "美国男子失踪23年后断腿惊现海滩",
       "onboard_time": 1775022145,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121691,
+      "num": 121691,
+      "word": "优思益声明",
+      "onboard_time": 1775042543,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121262,
@@ -1003,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "衣服上身5秒定律",
+      "onboard_time": 1775040623,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117620,
       "num": 117620,
       "word": "马嘉祺月鳞绮纪一千一万朵花誓曲",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1775000360,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "工科生不适合去星巴克的原因",
+      "onboard_time": 1775040140,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 116583,
@@ -1131,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108224,
-      "num": 102704,
-      "word": "工科生不适合去星巴克的原因",
-      "onboard_time": 1775040140,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106526,
       "num": 106526,
       "word": "AI短片纸手机火了",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1774963405,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103175,
+      "num": 103175,
+      "word": "雇两个擦玻璃小工仅需1根猫条",
+      "onboard_time": 1775040443,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 101701,
@@ -1259,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97967,
+      "num": 97967,
+      "word": "JDG对战WB",
+      "onboard_time": 1775041643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96702,
       "num": 96702,
       "word": "站姐团建发的田曦薇",
@@ -1283,28 +1347,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96222,
-      "num": 100721,
-      "word": "衣服上身5秒定律",
-      "onboard_time": 1775040623,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95838,
       "num": 95838,
       "word": "日本地震东京震感强烈",
       "onboard_time": 1775007382,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 95514,
-      "num": 98327,
-      "word": "雇两个擦玻璃小工仅需1根猫条",
-      "onboard_time": 1775040443,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 94020,
@@ -1387,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89762,
+      "num": 97579,
+      "word": "食贫道饼叔被韩国夜店卡了三次颜",
+      "onboard_time": 1775039062,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89107,
       "num": 98048,
       "word": "网易云回应账号突然被封禁",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1774975999,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88754,
+      "num": 88754,
+      "word": "内田有纪柏原崇结婚",
+      "onboard_time": 1775043023,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 88482,
@@ -1459,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85626,
+      "num": 83882,
+      "word": "曾舜晞发红包",
+      "onboard_time": 1775042182,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85579,
       "num": 85579,
       "word": "法国车手感谢张雪机车成就梦想",
@@ -1499,20 +1571,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84294,
-      "num": 97579,
-      "word": "食贫道饼叔被韩国夜店卡了三次颜",
-      "onboard_time": 1775039062,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84151,
       "num": 84151,
       "word": "金价或创2008年来最大单月跌幅",
       "onboard_time": 1775010803,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84150,
+      "num": 84150,
+      "word": "亚洲股市创一年来最大涨幅",
+      "onboard_time": 1775042303,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 83151,
+      "num": 83151,
+      "word": "2026LCK",
+      "onboard_time": 1775042963,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 82313,
@@ -2107,6 +2187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31836,
+      "num": 140536,
+      "word": "优思益假进口消费者可主张退一赔三",
+      "onboard_time": 1775042003,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31752,
       "num": 53719,
       "word": "你好1983",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1774965805,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8658,
+      "num": 90721,
+      "word": "男子臆想妻子迷信害自己将妻子杀害",
+      "onboard_time": 1775042782,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1775043101238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705023,
+        "num": 1112803,
+        "word": "有线耳机爆火原因",
+        "onboard_time": 1775038522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 370370,
+        "num": 815320,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42746,
+        "num": 632276,
+        "word": "4月1日起一批国家标准开始实施",
+        "onboard_time": 1775034924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405946,
+        "num": 405946,
+        "word": "以色列决定报复法国",
+        "onboard_time": 1775039302,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334790,
+        "num": 334790,
+        "word": "女教师被拖行5.9公里致死已两度尸检",
+        "onboard_time": 1775037802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326415,
+        "num": 326415,
+        "word": "时代少年团愚人节互发",
+        "onboard_time": 1775035162,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275814,
+        "num": 275814,
+        "word": "369休息",
+        "onboard_time": 1775042543,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244487,
+        "num": 244487,
+        "word": "官方通报1岁男童疑输液后抽搐去世",
+        "onboard_time": 1775039243,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 225447,
+        "num": 225447,
+        "word": "法国豪门弃子34岁终夺冠致谢张雪",
+        "onboard_time": 1775032823,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168073,
+        "num": 168073,
+        "word": "周深新歌禁止用于AI训练",
+        "onboard_time": 1775040203,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 497358,
+        "num": 167543,
+        "word": "网易云封号",
+        "onboard_time": 1775037143,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266472,
+        "num": 167300,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214804,
+        "num": 167230,
+        "word": "成都一凶宅第三次拍卖起拍价16.6万",
+        "onboard_time": 1775034022,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166617,
+        "num": 166617,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162577,
+        "num": 162577,
+        "word": "特朗普认真考虑美退出北约",
+        "onboard_time": 1775040804,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153656,
+        "num": 153656,
+        "word": "妹妹看到姐姐遗体惨状当场崩溃",
+        "onboard_time": 1775041823,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147301,
+        "num": 147301,
+        "word": "孙俪回应蒋欣",
+        "onboard_time": 1775031682,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142636,
+        "num": 142636,
+        "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
+        "onboard_time": 1775034022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140877,
+        "num": 140877,
+        "word": "Uzi队遭陪玩队零封",
+        "onboard_time": 1775041763,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 140536,
+        "word": "优思益假进口消费者可主张退一赔三",
+        "onboard_time": 1775042003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428319,
+        "num": 139244,
+        "word": "胡先煦顶级的愚人节愚人手法",
+        "onboard_time": 1775035463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323661,
+        "num": 138149,
+        "word": "严浩翔发的是刘耀文",
+        "onboard_time": 1775035944,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144305,
+        "num": 136714,
+        "word": "43岁产妇遇产科死神羊水栓塞",
+        "onboard_time": 1775040443,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 135337,
+        "word": "王子邱胜翊涉嫌逃兵役被捕",
+        "onboard_time": 1775039721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134097,
+        "num": 134097,
+        "word": "全球股市史诗级暴涨",
+        "onboard_time": 1775039902,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124813,
+        "num": 124813,
+        "word": "公安部力挺张雪新手禁令",
+        "onboard_time": 1775042362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225527,
+        "num": 123261,
+        "word": "丁程鑫发了严浩翔",
+        "onboard_time": 1775035944,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121691,
+        "num": 121691,
+        "word": "优思益声明",
+        "onboard_time": 1775042543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182679,
+        "num": 120571,
+        "word": "济南首台张雪机车夺冠车型受损",
+        "onboard_time": 1775037563,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118728,
+        "num": 118728,
+        "word": "衣服上身5秒定律",
+        "onboard_time": 1775040623,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117047,
+        "num": 117047,
+        "word": "工科生不适合去星巴克的原因",
+        "onboard_time": 1775040140,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108895,
+        "num": 108895,
+        "word": "陈飞宇冷脸搬凳子",
+        "onboard_time": 1775034383,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103175,
+        "num": 103175,
+        "word": "雇两个擦玻璃小工仅需1根猫条",
+        "onboard_time": 1775040443,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101982,
+        "num": 101982,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98588,
+        "num": 98588,
+        "word": "迪丽热巴这真是妈咪级别的",
+        "onboard_time": 1775028444,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98273,
+        "num": 98273,
+        "word": "江宏杰祝福福原爱再婚怀孕",
+        "onboard_time": 1775031083,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 97967,
+        "num": 97967,
+        "word": "JDG对战WB",
+        "onboard_time": 1775041643,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94177,
+        "num": 94177,
+        "word": "月鳞绮纪热度",
+        "onboard_time": 1775020705,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91495,
+        "num": 91495,
+        "word": "输液后身亡患儿已尸检",
+        "onboard_time": 1775039601,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8658,
+        "num": 90721,
+        "word": "男子臆想妻子迷信害自己将妻子杀害",
+        "onboard_time": 1775042782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90318,
+        "num": 90318,
+        "word": "迪丽热巴问白日提灯固屏去哪了",
+        "onboard_time": 1775030362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89762,
+        "num": 89762,
+        "word": "食贫道饼叔被韩国夜店卡了三次颜",
+        "onboard_time": 1775039062,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88754,
+        "num": 88754,
+        "word": "内田有纪柏原崇结婚",
+        "onboard_time": 1775043023,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86878,
+        "num": 86878,
+        "word": "张凌赫丁程鑫你俩有点暧昧",
+        "onboard_time": 1775038402,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84150,
+        "num": 84150,
+        "word": "亚洲股市创一年来最大涨幅",
+        "onboard_time": 1775042303,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85626,
+        "num": 83882,
+        "word": "曾舜晞发红包",
+        "onboard_time": 1775042182,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83151,
+        "num": 83151,
+        "word": "2026LCK",
+        "onboard_time": 1775042963,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82124,
+        "num": 82124,
+        "word": "中方回应美颁通用许可证排除中国",
+        "onboard_time": 1775034142,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81702,
+        "num": 81702,
+        "word": "Angelababy海边拍摄MV",
+        "onboard_time": 1775025682,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80993,
+        "num": 80993,
+        "word": "中方回应日本强行部署远程导弹",
+        "onboard_time": 1775039003,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#干事创业一定要树立正确政绩观#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775041586318,
+  "endTime": 1775043101238,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 948860,
-      "num": 113240,
+      "num": 326415,
       "word": "时代少年团愚人节互发",
       "onboard_time": 1775035162,
       "rank": 20,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705023,
+      "num": 1112803,
+      "word": "有线耳机爆火原因",
+      "onboard_time": 1775038522,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 699015,
       "num": 245515,
       "word": "上海交大引争议宣传片演员发声",
@@ -555,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 644824,
-      "num": 1103171,
-      "word": "有线耳机爆火原因",
-      "onboard_time": 1775038522,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 641752,
       "num": 976155,
       "word": "D3665列车乘客称多人疑似晕厥",
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 607475,
-      "num": 155881,
+      "num": 167543,
       "word": "网易云封号",
       "onboard_time": 1775037143,
       "rank": 10,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 589987,
-      "num": 120936,
+      "num": 139244,
       "word": "胡先煦顶级的愚人节愚人手法",
       "onboard_time": 1775035463,
       "rank": 22,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 432547,
-      "num": 118231,
+      "num": 138149,
       "word": "严浩翔发的是刘耀文",
       "onboard_time": 1775035944,
       "rank": 26,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1774882105,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405946,
+      "num": 405946,
+      "word": "以色列决定报复法国",
+      "onboard_time": 1775039302,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 401990,
@@ -1435,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351702,
-      "num": 351702,
-      "word": "以色列决定报复法国",
-      "onboard_time": 1775039302,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 350139,
       "num": 350139,
       "word": "TES 369",
@@ -1524,7 +1524,7 @@
     },
     {
       "raw_hot": 329177,
-      "num": 109709,
+      "num": 123261,
       "word": "丁程鑫发了严浩翔",
       "onboard_time": 1775035944,
       "rank": 23,
@@ -1923,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275814,
+      "num": 275814,
+      "word": "369休息",
+      "onboard_time": 1775042543,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275809,
       "num": 143443,
       "word": "NCTWISH 最尊重愚人节的团",
@@ -2275,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244487,
+      "num": 244487,
+      "word": "官方通报1岁男童疑输液后抽搐去世",
+      "onboard_time": 1775039243,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 244060,
       "num": 201204,
       "word": "丝芭 我司并非举报主体",
@@ -2585,6 +2601,14 @@
       "onboard_time": 1774876883,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225447,
+      "num": 225447,
+      "word": "法国豪门弃子34岁终夺冠致谢张雪",
+      "onboard_time": 1775032823,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 225263,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1774925786,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200569,
-      "num": 200569,
-      "word": "法国豪门弃子34岁终夺冠致谢张雪",
-      "onboard_time": 1775032823,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 199796,
@@ -3563,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168073,
+      "num": 168073,
+      "word": "周深新歌禁止用于AI训练",
+      "onboard_time": 1775040203,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167995,
       "num": 156415,
       "word": "刘敏涛拍完30集被扶着走",
@@ -3705,6 +3729,14 @@
       "onboard_time": 1774881805,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162577,
+      "num": 162577,
+      "word": "特朗普认真考虑美退出北约",
+      "onboard_time": 1775040804,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162069,
@@ -3899,6 +3931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153656,
+      "num": 153656,
+      "word": "妹妹看到姐姐遗体惨状当场崩溃",
+      "onboard_time": 1775041823,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153557,
       "num": 466019,
       "word": "男子26套房开假装上班公司持续亏损",
@@ -3961,6 +4001,14 @@
       "onboard_time": 1775018364,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149796,
+      "num": 135337,
+      "word": "王子邱胜翊涉嫌逃兵役被捕",
+      "onboard_time": 1775039721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 149698,
@@ -4067,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144305,
+      "num": 136714,
+      "word": "43岁产妇遇产科死神羊水栓塞",
+      "onboard_time": 1775040443,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143958,
       "num": 911598,
       "word": "仙逆",
@@ -4099,14 +4155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142093,
-      "num": 110134,
-      "word": "王子邱胜翊涉嫌逃兵役被捕",
-      "onboard_time": 1775039721,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141540,
       "num": 163194,
       "word": "WB战胜LGDNBW",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1774954523,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140877,
+      "num": 140877,
+      "word": "Uzi队遭陪玩队零封",
+      "onboard_time": 1775041763,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 140706,
@@ -4193,14 +4249,6 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139672,
-      "num": 139672,
-      "word": "特朗普认真考虑美退出北约",
-      "onboard_time": 1775040804,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139474,
@@ -4531,14 +4579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130409,
-      "num": 115724,
-      "word": "43岁产妇遇产科死神羊水栓塞",
-      "onboard_time": 1775040443,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130406,
       "num": 130406,
       "word": "裴珠泫回归",
@@ -4603,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128865,
-      "num": 128865,
-      "word": "周深新歌禁止用于AI训练",
-      "onboard_time": 1775040203,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128845,
       "num": 128845,
       "word": "五菱华为乾崑双向奔赴",
@@ -4633,14 +4665,6 @@
       "onboard_time": 1774948526,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128361,
-      "num": 128361,
-      "word": "官方通报1岁男童疑输液后抽搐去世",
-      "onboard_time": 1775039243,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 128282,
@@ -4779,6 +4803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124813,
+      "num": 124813,
+      "word": "公安部力挺张雪新手禁令",
+      "onboard_time": 1775042362,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124649,
       "num": 124649,
       "word": "王一博蓄力正赛",
@@ -4873,6 +4905,14 @@
       "onboard_time": 1774860382,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121691,
+      "num": 121691,
+      "word": "优思益声明",
+      "onboard_time": 1775042543,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121293,
@@ -5019,6 +5059,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "衣服上身5秒定律",
+      "onboard_time": 1775040623,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117924,
       "num": 117924,
       "word": "邓凯上海人气",
@@ -5073,6 +5121,14 @@
       "onboard_time": 1774759461,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "工科生不适合去星巴克的原因",
+      "onboard_time": 1775040140,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 117039,
@@ -5555,14 +5611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108224,
-      "num": 102704,
-      "word": "工科生不适合去星巴克的原因",
-      "onboard_time": 1775040140,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107994,
       "num": 100915,
       "word": "阿那亚出现海市蜃楼",
@@ -5833,6 +5881,14 @@
       "onboard_time": 1774941863,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103175,
+      "num": 103175,
+      "word": "雇两个擦玻璃小工仅需1根猫条",
+      "onboard_time": 1775040443,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 103147,
@@ -6163,6 +6219,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 97967,
+      "num": 97967,
+      "word": "JDG对战WB",
+      "onboard_time": 1775041643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97848,
       "num": 97848,
       "word": "徐梦洁sugar初舞台",
@@ -6283,14 +6347,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96222,
-      "num": 100721,
-      "word": "衣服上身5秒定律",
-      "onboard_time": 1775040623,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96002,
       "num": 98701,
       "word": "狗狗消费降级后脸色都变了",
@@ -6344,14 +6400,6 @@
       "word": "当代人对豆包的依赖程度",
       "onboard_time": 1774757361,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 95514,
-      "num": 98327,
-      "word": "雇两个擦玻璃小工仅需1根猫条",
-      "onboard_time": 1775040443,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -6827,6 +6875,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 89762,
+      "num": 97579,
+      "word": "食贫道饼叔被韩国夜店卡了三次颜",
+      "onboard_time": 1775039062,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89732,
       "num": 89732,
       "word": "老外惊叹中国生活的便利性",
@@ -6969,6 +7025,14 @@
       "onboard_time": 1774975999,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88754,
+      "num": 88754,
+      "word": "内田有纪柏原崇结婚",
+      "onboard_time": 1775043023,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 88595,
@@ -7211,6 +7275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85626,
+      "num": 83882,
+      "word": "曾舜晞发红包",
+      "onboard_time": 1775042182,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85579,
       "num": 85579,
       "word": "法国车手感谢张雪机车成就梦想",
@@ -7379,14 +7451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84294,
-      "num": 97579,
-      "word": "食贫道饼叔被韩国夜店卡了三次颜",
-      "onboard_time": 1775039062,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84185,
       "num": 145358,
       "word": "鲍威尔讲话",
@@ -7400,6 +7464,14 @@
       "word": "金价或创2008年来最大单月跌幅",
       "onboard_time": 1775010803,
       "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84150,
+      "num": 84150,
+      "word": "亚洲股市创一年来最大涨幅",
+      "onboard_time": 1775042303,
+      "rank": 44,
       "category": "财经"
     },
     {
@@ -7457,6 +7529,14 @@
       "onboard_time": 1774870462,
       "rank": 49,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 83151,
+      "num": 83151,
+      "word": "2026LCK",
+      "onboard_time": 1775042963,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 83123,
@@ -9867,6 +9947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31836,
+      "num": 140536,
+      "word": "优思益假进口消费者可主张退一赔三",
+      "onboard_time": 1775042003,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31647,
       "num": 76567,
       "word": "跑男录制第一视角",
@@ -10537,6 +10625,14 @@
       "onboard_time": 1774870522,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8658,
+      "num": 90721,
+      "word": "男子臆想妻子迷信害自己将妻子杀害",
+      "onboard_time": 1775042782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7853,
