@@ -1,0 +1,410 @@
+{
+  "runTime": 1775058779649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478549,
+        "num": 1076567,
+        "word": "国乒男线对德国3连败",
+        "onboard_time": 1775055324,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280482,
+        "num": 761204,
+        "word": "有线耳机爆火原因",
+        "onboard_time": 1775038522,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10141,
+        "num": 612412,
+        "word": "十五五我们躬身加油干",
+        "onboard_time": 1775048124,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303831,
+        "num": 303831,
+        "word": "鞠婧祎问看月鳞绮纪了吗",
+        "onboard_time": 1775057063,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263218,
+        "num": 263218,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971762,
+        "num": 261029,
+        "word": "收到了去世好友的微信回复",
+        "onboard_time": 1775055624,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238632,
+        "num": 238632,
+        "word": "家属公布输液后去世男童生化报告",
+        "onboard_time": 1775056344,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169700,
+        "num": 236734,
+        "word": "凯越机车致歉",
+        "onboard_time": 1775049744,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144922,
+        "num": 229023,
+        "word": "这才叫热锅凉油",
+        "onboard_time": 1775046142,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122289,
+        "num": 220025,
+        "word": "乒乓球世界杯",
+        "onboard_time": 1775056703,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1277053,
+        "num": 206974,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1025590,
+        "num": 196527,
+        "word": "马立奥有妹妹了",
+        "onboard_time": 1775049564,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195373,
+        "num": 195373,
+        "word": "甲骨文3万人一觉睡醒工作没了",
+        "onboard_time": 1775046383,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459224,
+        "num": 190018,
+        "word": "陈都灵工作室连夜招人整改",
+        "onboard_time": 1775050883,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385899,
+        "num": 188233,
+        "word": "被易烊千玺骗到了",
+        "onboard_time": 1775052144,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182041,
+        "num": 182041,
+        "word": "女子瞒重病订婚向男友索600万治病",
+        "onboard_time": 1775049624,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361366,
+        "num": 174036,
+        "word": "黄子韬自曝不拍戏原因",
+        "onboard_time": 1775055983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337439,
+        "num": 173077,
+        "word": "阿信寸头",
+        "onboard_time": 1775055204,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "无需粉底液这才是军人本色",
+        "onboard_time": 1775049803,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336528,
+        "num": 152466,
+        "word": "严屹宽鼓励张凌赫接受质疑",
+        "onboard_time": 1775056284,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223972,
+        "num": 147614,
+        "word": "为什么木耳不能直接用水泡",
+        "onboard_time": 1775054905,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 188780,
+        "num": 143208,
+        "word": "内田有纪柏原崇结婚",
+        "onboard_time": 1775043023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132183,
+        "num": 132183,
+        "word": "迪丽热巴祝大家随心所愚",
+        "onboard_time": 1775055864,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121153,
+        "num": 121153,
+        "word": "特朗普称伊朗新政权总统请求停火",
+        "onboard_time": 1775049803,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119179,
+        "num": 119179,
+        "word": "优思益声明",
+        "onboard_time": 1775042543,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119021,
+        "num": 119021,
+        "word": "白敬亭也在用有线耳机",
+        "onboard_time": 1775057245,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114054,
+        "num": 114054,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104791,
+        "num": 104791,
+        "word": "李连杰 短剧",
+        "onboard_time": 1775043502,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96398,
+        "num": 103939,
+        "word": "伊朗总统说遵从最高领袖指示",
+        "onboard_time": 1775048603,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94419,
+        "num": 103316,
+        "word": "以色列决定报复法国",
+        "onboard_time": 1775039302,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157937,
+        "num": 102699,
+        "word": "谷爱凌郭晶晶何超琼合照",
+        "onboard_time": 1775056645,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105315,
+        "num": 101399,
+        "word": "与辉同行卖优思益销售额超千万",
+        "onboard_time": 1775058743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100962,
+        "num": 100962,
+        "word": "公安部力挺张雪新手禁令",
+        "onboard_time": 1775042362,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97947,
+        "num": 97947,
+        "word": "七旬男子欲强奸女精神病人未遂",
+        "onboard_time": 1775047583,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94775,
+        "num": 94775,
+        "word": "顾客称外卖油麦菜里现30余只虫子",
+        "onboard_time": 1775056943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87024,
+        "num": 87024,
+        "word": "爸爸当家嘉宾恭喜马君妍马杨",
+        "onboard_time": 1775054123,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86645,
+        "num": 86645,
+        "word": "张雪机车泰安店试驾车都快跑冒烟了",
+        "onboard_time": 1775057724,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86638,
+        "num": 86638,
+        "word": "夏之光站了鞠婧祎陈都灵中间我站哪",
+        "onboard_time": 1775056223,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85838,
+        "num": 85838,
+        "word": "严浩翔发的是刘耀文",
+        "onboard_time": 1775035944,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82194,
+        "num": 82194,
+        "word": "张雪带火的红糖3天卖了2万多单",
+        "onboard_time": 1775058624,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81233,
+        "num": 81233,
+        "word": "妹妹看到姐姐遗体惨状当场崩溃",
+        "onboard_time": 1775041823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73916,
+        "num": 73916,
+        "word": "得知妻子患红斑狼疮男子起诉离婚",
+        "onboard_time": 1775054424,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73021,
+        "num": 73021,
+        "word": "特朗普称将很快撤出伊朗战事",
+        "onboard_time": 1775054365,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70200,
+        "num": 70200,
+        "word": "丁程鑫发了严浩翔",
+        "onboard_time": 1775035944,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68550,
+        "num": 68550,
+        "word": "车祸住院11天电子病历被改30次",
+        "onboard_time": 1775056344,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67317,
+        "num": 67317,
+        "word": "流感疫苗市场要变天了",
+        "onboard_time": 1775053224,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66631,
+        "num": 66631,
+        "word": "WB战胜JDG",
+        "onboard_time": 1775050524,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64132,
+        "num": 64132,
+        "word": "北控绝杀广州",
+        "onboard_time": 1775058562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63244,
+        "num": 63244,
+        "word": "有商家把不能听歌的有线耳机当项链卖",
+        "onboard_time": 1775051724,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62485,
+        "num": 62485,
+        "word": "家事法庭",
+        "onboard_time": 1775055924,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#干事创业一定要树立正确政绩观#"
+    }
+  }
+}
