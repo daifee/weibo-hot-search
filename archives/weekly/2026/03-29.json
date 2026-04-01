@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775052765092,
+  "endTime": 1775056437006,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 931080,
+      "num": 204402,
+      "word": "杨紫 没人通知我啊",
+      "onboard_time": 1775054723,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915394,
       "num": 249686,
       "word": "人民日报曾评单依纯李白改编争议",
@@ -425,6 +433,14 @@
       "onboard_time": 1774942163,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 833266,
+      "num": 218356,
+      "word": "陈都灵工作室连夜招人整改",
+      "onboard_time": 1775050883,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 809557,
@@ -601,6 +617,14 @@
       "onboard_time": 1774846287,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 626216,
+      "num": 285773,
+      "word": "被易烊千玺骗到了",
+      "onboard_time": 1775052144,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 618683,
@@ -913,6 +937,14 @@
       "onboard_time": 1774763301,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483317,
+      "num": 1077330,
+      "word": "高市早苗对马克龙施展龟派气功",
+      "onboard_time": 1775050945,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 482426,
@@ -1411,12 +1443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 370757,
+      "num": 204358,
+      "word": "女子瞒重病订婚向男友索600万治病",
+      "onboard_time": 1775049624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370365,
       "num": 285290,
       "word": "严浩翔考核试卷",
       "onboard_time": 1774943903,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368037,
+      "num": 138476,
+      "word": "收到了去世好友的微信回复",
+      "onboard_time": 1775055624,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 367927,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1774939340,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350998,
+      "num": 203360,
+      "word": "为什么木耳不能直接用水泡",
+      "onboard_time": 1775054905,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 350139,
@@ -1705,14 +1761,6 @@
       "onboard_time": 1774863143,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311790,
-      "num": 285773,
-      "word": "被易烊千玺骗到了",
-      "onboard_time": 1775052144,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 311372,
@@ -2003,14 +2051,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 280439,
-      "num": 138544,
-      "word": "高市早苗对马克龙施展龟派气功",
-      "onboard_time": 1775050945,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 279993,
       "num": 187697,
       "word": "小28岁妻子十年相伴获3亿财产",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1774743200,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277389,
+      "num": 204126,
+      "word": "阿信寸头",
+      "onboard_time": 1775055204,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 277267,
@@ -2387,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248739,
+      "num": 248739,
+      "word": "梁靖崑vs奥恰洛夫",
+      "onboard_time": 1775052745,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248725,
       "num": 327186,
       "word": "JDG对战WB",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1774955843,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240193,
+      "num": 328295,
+      "word": "这才叫热锅凉油",
+      "onboard_time": 1775046142,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 239593,
@@ -2867,14 +2931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218356,
-      "num": 218356,
-      "word": "陈都灵工作室连夜招人整改",
-      "onboard_time": 1775050883,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216963,
       "num": 216963,
       "word": "伊朗证实革命卫队海军司令死于空袭",
@@ -3123,6 +3179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204567,
+      "num": 204567,
+      "word": "国乒男线对德国3连败",
+      "onboard_time": 1775055324,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203984,
       "num": 329138,
       "word": "伊朗总统说遵从最高领袖指示",
@@ -3169,14 +3233,6 @@
       "onboard_time": 1775043204,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201571,
-      "num": 201571,
-      "word": "女子瞒重病订婚向男友索600万治病",
-      "onboard_time": 1775049624,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199796,
@@ -3345,6 +3401,14 @@
       "onboard_time": 1774712122,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192011,
+      "num": 192011,
+      "word": "严屹宽鼓励张凌赫接受质疑",
+      "onboard_time": 1775056284,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 191811,
@@ -3521,6 +3585,14 @@
       "onboard_time": 1774775909,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182721,
+      "num": 182721,
+      "word": "黄子韬自曝不拍戏原因",
+      "onboard_time": 1775055983,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 180705,
@@ -3963,20 +4035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161895,
+      "num": 161895,
+      "word": "夏之光站了鞠婧祎陈都灵中间我站哪",
+      "onboard_time": 1775056223,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161801,
       "num": 161801,
       "word": "朱媛媛去世近一年辛柏青露面",
       "onboard_time": 1774881445,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161614,
-      "num": 328295,
-      "word": "这才叫热锅凉油",
-      "onboard_time": 1775046142,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 161166,
@@ -4273,6 +4345,14 @@
       "onboard_time": 1774771229,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147500,
+      "num": 138089,
+      "word": "迪丽热巴祝大家随心所愚",
+      "onboard_time": 1775055864,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 147154,
@@ -4595,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137207,
+      "num": 137207,
+      "word": "得知妻子患红斑狼疮男子起诉离婚",
+      "onboard_time": 1775054424,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137062,
       "num": 502065,
       "word": "奶茶店点一杯不够起送",
@@ -4705,6 +4793,14 @@
       "onboard_time": 1774884863,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133047,
+      "num": 133047,
+      "word": "爸爸当家嘉宾恭喜马君妍马杨",
+      "onboard_time": 1775054123,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 133035,
@@ -5075,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123955,
+      "num": 138620,
+      "word": "流感疫苗市场要变天了",
+      "onboard_time": 1775053224,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123646,
       "num": 109690,
       "word": "东鹏特饮押宝张雪机车赢麻了",
@@ -5129,6 +5233,14 @@
       "onboard_time": 1774860382,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121558,
+      "num": 121558,
+      "word": "家事法庭",
+      "onboard_time": 1775055924,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 121293,
@@ -5289,6 +5401,14 @@
       "onboard_time": 1774836804,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 118309,
+      "num": 118309,
+      "word": "特朗普称将很快撤出伊朗战事",
+      "onboard_time": 1775054365,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117924,
@@ -5889,6 +6009,14 @@
       "onboard_time": 1774874663,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107105,
+      "num": 107105,
+      "word": "周启豪2比3弗朗西斯卡",
+      "onboard_time": 1775055026,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 107098,
@@ -6571,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96812,
+      "num": 97883,
+      "word": "前任.skill",
+      "onboard_time": 1775054303,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96793,
       "num": 96793,
       "word": "冰湖重生月鳞绮纪对打",
@@ -6995,6 +7131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91241,
+      "num": 91241,
+      "word": "有商家把不能听歌的有线耳机当项链卖",
+      "onboard_time": 1775051724,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91235,
       "num": 91235,
       "word": "高铁加速盒饭就剩盒饭了",
@@ -7377,6 +7521,14 @@
       "onboard_time": 1774796372,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88033,
+      "num": 88033,
+      "word": "梁靖崑两战皆墨",
+      "onboard_time": 1775056104,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87880,
@@ -7857,14 +8009,6 @@
       "onboard_time": 1774768649,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83313,
-      "num": 83313,
-      "word": "有商家把不能听歌的有线耳机当项链卖",
-      "onboard_time": 1775051724,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83249,
@@ -9179,6 +9323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 65342,
+      "num": 126760,
+      "word": "家属公布输液后去世男童生化报告",
+      "onboard_time": 1775056344,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65048,
       "num": 83833,
       "word": "俄罗斯4月1日起禁止汽油出口",
@@ -10235,6 +10387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38530,
+      "num": 122426,
+      "word": "车祸住院11天电子病历被改30次",
+      "onboard_time": 1775056344,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37855,
       "num": 81684,
       "word": "太原一商圈起火现场浓烟滚滚",
@@ -11032,6 +11192,14 @@
       "word": "男子臆想妻子迷信害自己将妻子杀害",
       "onboard_time": 1775042782,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8294,
+      "num": 614558,
+      "word": "十五五我们躬身加油干",
+      "onboard_time": 1775048124,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
