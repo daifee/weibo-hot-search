@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775029810048,
+  "endTime": 1775030526601,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 895558,
+      "num": 1143289,
+      "word": "你的公积金悄悄变多了",
+      "onboard_time": 1775028922,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 795143,
       "num": 168738,
       "word": "en王翊恩 结婚但没同居",
@@ -97,14 +105,6 @@
       "onboard_time": 1775011522,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517444,
-      "num": 1082791,
-      "word": "你的公积金悄悄变多了",
-      "onboard_time": 1775028922,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 510256,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 356846,
-      "num": 758337,
+      "num": 806935,
       "word": "日本彻底撕下伪装",
       "onboard_time": 1775021305,
       "rank": 15,
@@ -241,6 +241,14 @@
       "onboard_time": 1774999580,
       "rank": 16,
       "category": "军事"
+    },
+    {
+      "raw_hot": 291775,
+      "num": 291775,
+      "word": "鞠婧祎月鳞绮纪演技",
+      "onboard_time": 1775027723,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 290194,
@@ -307,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234496,
-      "num": 234496,
-      "word": "鞠婧祎月鳞绮纪演技",
-      "onboard_time": 1775027723,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 230971,
+      "num": 230971,
+      "word": "迪丽热巴这真是妈咪级别的",
+      "onboard_time": 1775028444,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229522,
@@ -563,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155336,
-      "num": 155336,
-      "word": "迪丽热巴这真是妈咪级别的",
-      "onboard_time": 1775028444,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "金价银价大跌了",
@@ -691,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "曾沛慈 够爱",
+      "onboard_time": 1775029702,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126634,
       "num": 126634,
       "word": "够爱作词人拒绝授权曾沛慈演唱",
       "onboard_time": 1775012664,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125691,
+      "num": 125691,
+      "word": "迪丽热巴问白日提灯固屏去哪了",
+      "onboard_time": 1775030362,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 124920,
@@ -713,6 +729,14 @@
       "onboard_time": 1775022145,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121262,
+      "num": 121262,
+      "word": "三部门对优思益展开调查",
+      "onboard_time": 1775027543,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120899,
@@ -755,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117500,
+      "num": 117500,
+      "word": "怀疑手机坏了都没怀疑林一",
+      "onboard_time": 1775028324,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117323,
       "num": 117323,
       "word": "张凌赫金桐儇站姐互发",
@@ -777,14 +809,6 @@
       "onboard_time": 1774946664,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116344,
-      "num": 116344,
-      "word": "怀疑手机坏了都没怀疑林一",
-      "onboard_time": 1775028324,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 115225,
@@ -835,6 +859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109670,
+      "num": 230236,
+      "word": "王者荣耀",
+      "onboard_time": 1775030305,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "迪丽热巴回复陈飞宇",
+      "onboard_time": 1775029523,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108475,
       "num": 108475,
       "word": "鹿晗说我是邓超我同意五哈不播",
@@ -849,14 +889,6 @@
       "onboard_time": 1775020525,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107378,
-      "num": 107378,
-      "word": "三部门对优思益展开调查",
-      "onboard_time": 1775027543,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106526,
@@ -953,6 +985,14 @@
       "onboard_time": 1775012004,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98535,
+      "num": 181511,
+      "word": "吉林省考成绩",
+      "onboard_time": 1775028203,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 96702,
@@ -1075,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85579,
+      "num": 85579,
+      "word": "法国车手感谢张雪机车成就梦想",
+      "onboard_time": 1775030063,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84900,
       "num": 84900,
       "word": "美国增兵伊朗是真想打地面战吗",
@@ -1139,6 +1187,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 78935,
+      "num": 78935,
+      "word": "花近万元做手术手术刀却值4000元",
+      "onboard_time": 1775029583,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78909,
       "num": 78909,
       "word": "有点钱全都被家里的老物件知道了",
@@ -1155,28 +1211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78563,
+      "num": 78563,
+      "word": "马思纯咋变东北黎吧啦了",
+      "onboard_time": 1775024663,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78080,
       "num": 78080,
       "word": "宠物冥币",
       "onboard_time": 1775014466,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77022,
-      "num": 181511,
-      "word": "吉林省考成绩",
-      "onboard_time": 1775028203,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 76559,
-      "num": 76559,
-      "word": "马思纯咋变东北黎吧啦了",
-      "onboard_time": 1775024663,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 76375,
@@ -1243,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74016,
-      "num": 74016,
-      "word": "曾沛慈 够爱",
-      "onboard_time": 1775029702,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72808,
       "num": 62355,
       "word": "Ruler可能面临禁赛",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1774970963,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71300,
-      "num": 71300,
-      "word": "花近万元做手术手术刀却值4000元",
-      "onboard_time": 1775029583,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70427,
@@ -1451,14 +1483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56294,
-      "num": 93887,
-      "word": "迪丽热巴回复陈飞宇",
-      "onboard_time": 1775029523,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54804,
       "num": 54804,
       "word": "盗墓笔记",
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 42466,
-      "num": 645096,
+      "num": 663477,
       "word": "雄安大脑赋能智慧城市",
       "onboard_time": 1775012004,
       "rank": 2,
@@ -1563,11 +1587,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35721,
-      "num": 185893,
+      "raw_hot": 39221,
+      "num": 218391,
       "word": "优思益幕后推手被查",
       "onboard_time": 1775029523,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35385,
+      "num": 178018,
+      "word": "青岛一大爷骑电动车进地铁车厢",
+      "onboard_time": 1775029523,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18506,
+      "num": 99920,
+      "word": "戚薇让刘昊然好好反省",
+      "onboard_time": 1775029523,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17815,
       "num": 196797,
       "word": "广东7月起未经同意快递不得放驿站",
@@ -1675,11 +1715,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15439,
-      "num": 178018,
-      "word": "青岛一大爷骑电动车进地铁车厢",
-      "onboard_time": 1775029523,
-      "rank": 19,
+      "raw_hot": 16924,
+      "num": 99803,
+      "word": "西湖景区回应游客和保安互吐口水",
+      "onboard_time": 1775030063,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1691,12 +1731,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 11943,
-      "num": 96716,
-      "word": "戚薇让刘昊然好好反省",
-      "onboard_time": 1775029523,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 11883,
+      "num": 100265,
+      "word": "打的是田嘉瑞疼的是鞠婧祎",
+      "onboard_time": 1775030124,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 11569,
