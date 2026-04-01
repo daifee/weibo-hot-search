@@ -1,6 +1,6 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775076940669,
+  "endTime": 1775077742637,
   "band_list": [
     {
       "raw_hot": 658304,
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21682,
+      "num": 21682,
+      "word": "檀健次谢却山将军造型",
+      "onboard_time": 1775074394,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21477,
       "num": 27008,
       "word": "杨紫紫色旗袍直播造型",
       "onboard_time": 1775066535,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21378,
-      "num": 21378,
-      "word": "檀健次谢却山将军造型",
-      "onboard_time": 1775074394,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 20237,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 12876,
-      "num": 14398,
+      "num": 14796,
       "word": "曾舜晞月鳞绮纪出场镜头",
       "onboard_time": 1775067795,
       "rank": 44,
