@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775058779649,
+  "endTime": 1775063126025,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 971762,
-      "num": 261029,
+      "num": 277832,
       "word": "收到了去世好友的微信回复",
       "onboard_time": 1775055624,
       "rank": 31,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218875,
+      "num": 422152,
+      "word": "与辉同行卖优思益销售额超千万",
+      "onboard_time": 1775058743,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216150,
       "num": 754806,
       "word": "男子靠AI开一人公司年营收达150万",
@@ -1011,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165294,
+      "num": 80903,
+      "word": "医生谈全红婵减肥一天只吃一顿饭",
+      "onboard_time": 1775059221,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165253,
       "num": 99664,
       "word": "宋亚轩宋小花",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 157937,
-      "num": 102699,
+      "num": 117898,
       "word": "谷爱凌郭晶晶何超琼合照",
       "onboard_time": 1775056645,
       "rank": 30,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1775013083,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152917,
+      "num": 152917,
+      "word": "以色列遭开战以来最大规模导弹袭击",
+      "onboard_time": 1775062099,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150153,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1775033543,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145703,
+      "num": 145703,
+      "word": "日本核原料能造5500枚核弹头",
+      "onboard_time": 1775059221,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145501,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1775027543,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121217,
+      "num": 121217,
+      "word": "陈都灵两条剧宣视频已经删了",
+      "onboard_time": 1775059701,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 120899,
@@ -1619,14 +1659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105315,
-      "num": 101399,
-      "word": "与辉同行卖优思益销售额超千万",
-      "onboard_time": 1775058743,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104554,
       "num": 104554,
       "word": "美博主称中国小学生胜过美国大学生",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1775043142,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99266,
+      "num": 78854,
+      "word": "金价急速上涨",
+      "onboard_time": 1775062220,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 99185,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1775039003,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88436,
+      "num": 76813,
+      "word": "迪丽热巴真的扭到我心巴上了",
+      "onboard_time": 1775061200,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 88033,
@@ -2627,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55113,
+      "num": 59762,
+      "word": "优思益问题被调查",
+      "onboard_time": 1775060780,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54804,
       "num": 54804,
       "word": "盗墓笔记",
@@ -2707,12 +2763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49524,
+      "num": 49524,
+      "word": "美以伊地面战一触即发",
+      "onboard_time": 1775060600,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49383,
       "num": 654563,
       "word": "4月1日起一批国家标准开始实施",
       "onboard_time": 1775034924,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48595,
+      "num": 48595,
+      "word": "日本边喊销毁核武器边囤核原料",
+      "onboard_time": 1775062759,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46368,
@@ -2745,6 +2817,14 @@
       "onboard_time": 1774976658,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42940,
+      "num": 47863,
+      "word": "鞠婧祎角色热度优酷年冠",
+      "onboard_time": 1775061678,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 42466,
@@ -2784,6 +2864,30 @@
       "word": "优思益幕后推手被查",
       "onboard_time": 1775029523,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37558,
+      "num": 47833,
+      "word": "中方在联合国敲响警钟",
+      "onboard_time": 1775057603,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37488,
+      "num": 47828,
+      "word": "浙江国资回应投资张雪9000万",
+      "onboard_time": 1775058923,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37305,
+      "num": 47820,
+      "word": "小车停车库半年车身写满留言",
+      "onboard_time": 1775060600,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
