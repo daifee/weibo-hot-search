@@ -1,6 +1,6 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775067049315,
+  "endTime": 1775070880223,
   "band_list": [
     {
       "raw_hot": 658304,
@@ -307,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47983,
+      "num": 45972,
+      "word": "美以难阻伊朗导弹反击",
+      "onboard_time": 1775064496,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47877,
       "num": 47877,
       "word": "丁程鑫发了严浩翔",
@@ -321,14 +329,6 @@
       "onboard_time": 1775041823,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45972,
-      "num": 45972,
-      "word": "美以难阻伊朗导弹反击",
-      "onboard_time": 1775064496,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42940,
@@ -449,6 +449,30 @@
       "onboard_time": 1775061979,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16795,
+      "num": 18322,
+      "word": "这是我的西游",
+      "onboard_time": 1775068816,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15609,
+      "num": 18319,
+      "word": "有商家把不能听歌的有线耳机当项链卖",
+      "onboard_time": 1775051724,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14588,
+      "num": 18318,
+      "word": "张雪回应禁止新手买820RR",
+      "onboard_time": 1775069835,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 7614,
