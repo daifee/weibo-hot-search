@@ -1,0 +1,410 @@
+{
+  "runTime": 1775052765092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 433265,
+        "num": 1069322,
+        "word": "有线耳机爆火原因",
+        "onboard_time": 1775038522,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 347659,
+        "num": 759998,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46606,
+        "num": 597811,
+        "word": "雄安新区9岁了",
+        "onboard_time": 1775048423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330317,
+        "num": 330317,
+        "word": "凯越机车致歉",
+        "onboard_time": 1775049744,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231196,
+        "num": 330037,
+        "word": "以色列决定报复法国",
+        "onboard_time": 1775039302,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191714,
+        "num": 329138,
+        "word": "伊朗总统说遵从最高领袖指示",
+        "onboard_time": 1775048603,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168699,
+        "num": 328817,
+        "word": "公安部力挺张雪新手禁令",
+        "onboard_time": 1775042362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161614,
+        "num": 328295,
+        "word": "这才叫热锅凉油",
+        "onboard_time": 1775046142,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 327786,
+        "word": "优思益声明",
+        "onboard_time": 1775042543,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141283,
+        "num": 327186,
+        "word": "JDG对战WB",
+        "onboard_time": 1775041643,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4371841,
+        "num": 326544,
+        "word": "马立奥有妹妹了",
+        "onboard_time": 1775049564,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410908,
+        "num": 325933,
+        "word": "内田有纪柏原崇结婚",
+        "onboard_time": 1775043023,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325367,
+        "num": 325367,
+        "word": "无需粉底液这才是军人本色",
+        "onboard_time": 1775049803,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395799,
+        "num": 319734,
+        "word": "李连杰 短剧",
+        "onboard_time": 1775043502,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372381,
+        "num": 313551,
+        "word": "杨紫直播",
+        "onboard_time": 1775049864,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288798,
+        "num": 288798,
+        "word": "特朗普称伊朗新政权总统请求停火",
+        "onboard_time": 1775049803,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311790,
+        "num": 285773,
+        "word": "被易烊千玺骗到了",
+        "onboard_time": 1775052144,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267752,
+        "num": 267752,
+        "word": "甲骨文3万人一觉睡醒工作没了",
+        "onboard_time": 1775046383,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248960,
+        "num": 248960,
+        "word": "谁能演张雪",
+        "onboard_time": 1775045302,
+        "rank": 18,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 40412,
+        "num": 219785,
+        "word": "在盒马App低价买到商品被拒发货",
+        "onboard_time": 1775052023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251480,
+        "num": 219224,
+        "word": "马君妍马杨得女",
+        "onboard_time": 1775050344,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218356,
+        "num": 218356,
+        "word": "陈都灵工作室连夜招人整改",
+        "onboard_time": 1775050883,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201571,
+        "num": 201571,
+        "word": "女子瞒重病订婚向男友索600万治病",
+        "onboard_time": 1775049624,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 194775,
+        "word": "妹妹看到姐姐遗体惨状当场崩溃",
+        "onboard_time": 1775041823,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187211,
+        "num": 187211,
+        "word": "男子遗产大半留给妻儿母亲弟弟不服",
+        "onboard_time": 1775049624,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184609,
+        "num": 184609,
+        "word": "严浩翔发的是刘耀文",
+        "onboard_time": 1775035944,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176764,
+        "num": 176764,
+        "word": "七旬男子欲强奸女精神病人未遂",
+        "onboard_time": 1775047583,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157250,
+        "num": 157250,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140206,
+        "num": 140206,
+        "word": "金鹤龙给迪丽热巴化的美神灵主妆",
+        "onboard_time": 1775050103,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129063,
+        "num": 138588,
+        "word": "明星买张雪机车也得排队",
+        "onboard_time": 1775046742,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280439,
+        "num": 138544,
+        "word": "高市早苗对马克龙施展龟派气功",
+        "onboard_time": 1775050945,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138293,
+        "num": 138293,
+        "word": "英国首相回应特朗普要退出北约",
+        "onboard_time": 1775045121,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 130188,
+        "word": "WB战胜JDG",
+        "onboard_time": 1775050524,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129550,
+        "num": 129550,
+        "word": "丁程鑫发了严浩翔",
+        "onboard_time": 1775035944,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127639,
+        "num": 127639,
+        "word": "女子遭屠夫儿子杀害时被十余人目睹",
+        "onboard_time": 1775048363,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120432,
+        "num": 120432,
+        "word": "小米揽入特斯拉两员大将",
+        "onboard_time": 1775051964,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1775047884,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109453,
+        "num": 109453,
+        "word": "JDG遗憾止步春季赛",
+        "onboard_time": 1775050763,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104974,
+        "num": 104974,
+        "word": "成都一凶宅96.6万成交后买家悔拍",
+        "onboard_time": 1775033543,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103284,
+        "num": 103284,
+        "word": "日本超市卖蔬菜边角料",
+        "onboard_time": 1775050284,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104686,
+        "num": 103167,
+        "word": "女教师被拖行5.9公里致死已两度尸检",
+        "onboard_time": 1775037802,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101262,
+        "num": 101262,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97684,
+        "num": 97684,
+        "word": "小学要求早上6点40到校否则罚站",
+        "onboard_time": 1775050826,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95045,
+        "num": 95045,
+        "word": "全球股市史诗级暴涨",
+        "onboard_time": 1775039902,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92076,
+        "num": 92076,
+        "word": "瘫痪小孩为拿手机奇迹站立",
+        "onboard_time": 1775044283,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90734,
+        "num": 90734,
+        "word": "王子承认逃兵役",
+        "onboard_time": 1775043204,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 89403,
+        "word": "迪丽热巴问白日提灯固屏去哪了",
+        "onboard_time": 1775030362,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85220,
+        "num": 85220,
+        "word": "伊朗对美以第89波打击",
+        "onboard_time": 1775052504,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84485,
+        "num": 84485,
+        "word": "369休息",
+        "onboard_time": 1775042543,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83313,
+        "num": 83313,
+        "word": "有商家把不能听歌的有线耳机当项链卖",
+        "onboard_time": 1775051724,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为山川大地增添锦绣#"
+    }
+  }
+}
