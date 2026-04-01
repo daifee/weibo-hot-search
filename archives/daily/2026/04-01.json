@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775015494385,
+  "endTime": 1775023286630,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -99,6 +99,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416220,
+      "num": 1066595,
+      "word": "月鳞绮纪热度",
+      "onboard_time": 1775020705,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 411168,
+      "num": 190469,
+      "word": "丝芭 月鳞绮纪",
+      "onboard_time": 1775022624,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407582,
       "num": 584813,
       "word": "未发现鞠婧祎涉税问题",
@@ -113,6 +129,22 @@
       "onboard_time": 1774967605,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 392165,
+      "num": 392165,
+      "word": "李维嘉不知道遗产传给谁",
+      "onboard_time": 1775016984,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 382446,
+      "num": 769110,
+      "word": "张雪身价上亿还在用两千多块钱坏手机",
+      "onboard_time": 1775020826,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 372160,
@@ -145,6 +177,14 @@
       "onboard_time": 1775014466,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320697,
+      "num": 320697,
+      "word": "优思益",
+      "onboard_time": 1775015185,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309321,
@@ -195,12 +235,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260606,
+      "num": 204453,
+      "word": "从指甲看主角是真穷",
+      "onboard_time": 1775013864,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258212,
       "num": 248500,
       "word": "被杜海涛沈梦辰追着要合影",
       "onboard_time": 1775011884,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257574,
+      "num": 257574,
+      "word": "我坐一天400他躺一天500",
+      "onboard_time": 1775016685,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 248656,
+      "num": 248656,
+      "word": "央视曝光优思益多平台下架",
+      "onboard_time": 1775016745,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229522,
@@ -217,6 +281,14 @@
       "onboard_time": 1775011943,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221384,
+      "num": 189147,
+      "word": "女教师被拖行5.9公里致死仍未下葬",
+      "onboard_time": 1775017706,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216150,
@@ -251,20 +323,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "从指甲看主角是真穷",
-      "onboard_time": 1775013864,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200551,
       "num": 164619,
       "word": "杨紫也被女装背刺了",
       "onboard_time": 1774959746,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198948,
+      "num": 198948,
+      "word": "韩国夜店98年前出生顾客禁止入场",
+      "onboard_time": 1775019566,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 198250,
@@ -323,12 +395,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176187,
+      "num": 176187,
+      "word": "日本彻底撕下伪装",
+      "onboard_time": 1775021305,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175350,
       "num": 175350,
       "word": "俄罗斯运输机坠毁29人遇难",
       "onboard_time": 1774999942,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 173273,
+      "num": 173273,
+      "word": "世界杯48强全部出炉",
+      "onboard_time": 1775020226,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172621,
+      "num": 172621,
+      "word": "水木年华维权",
+      "onboard_time": 1775016805,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 171342,
+      "num": 171342,
+      "word": "警方已约谈太原暴走团负责人",
+      "onboard_time": 1775021365,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168729,
@@ -339,12 +443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164894,
-      "num": 164894,
-      "word": "优思益",
-      "onboard_time": 1775015185,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 165187,
+      "num": 165187,
+      "word": "月鳞绮纪站位",
+      "onboard_time": 1775020525,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 164133,
@@ -377,6 +481,22 @@
       "onboard_time": 1775013083,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150182,
+      "num": 150182,
+      "word": "外婆连装聋作哑的权利都没有",
+      "onboard_time": 1775018965,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149962,
+      "num": 149962,
+      "word": "统一后台湾同胞再也无需抢购塑料袋",
+      "onboard_time": 1775018364,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143830,
@@ -417,6 +537,14 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133476,
+      "num": 133476,
+      "word": "销冠澳洲优思益竟是假进口",
+      "onboard_time": 1775014104,
+      "rank": 27,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 132711,
@@ -483,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119035,
+      "num": 119035,
+      "word": "爸爸举高高孩子180度翻转吓到发烧",
+      "onboard_time": 1775020467,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118972,
       "num": 118972,
       "word": "香港开往上海高铁车厢出现大量蚊虫",
@@ -547,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108406,
+      "num": 108406,
+      "word": "鞠婧祎原声",
+      "onboard_time": 1775020525,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106526,
       "num": 106526,
       "word": "AI短片纸手机火了",
@@ -579,6 +723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101567,
+      "num": 101567,
+      "word": "福特号航母火灾视频流出",
+      "onboard_time": 1775022742,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 101392,
+      "num": 101392,
+      "word": "美国男子失踪23年后断腿惊现海滩",
+      "onboard_time": 1775022145,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101375,
       "num": 101375,
       "word": "好六街 田作之赫",
@@ -595,20 +755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100986,
-      "num": 100986,
-      "word": "销冠澳洲优思益竟是假进口",
-      "onboard_time": 1775014104,
-      "rank": 27,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 100723,
       "num": 100723,
       "word": "NCTWISH 最尊重愚人节的团",
       "onboard_time": 1774971023,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100365,
+      "num": 100365,
+      "word": "在一只狗脸上看见文质彬彬",
+      "onboard_time": 1775022624,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 100120,
@@ -691,6 +851,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90084,
+      "num": 90084,
+      "word": "薛之谦TFBOYS同框",
+      "onboard_time": 1775018905,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89039,
+      "num": 89039,
+      "word": "伊拉克晋级世界杯",
+      "onboard_time": 1775020705,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88797,
       "num": 79037,
       "word": "特朗普希望4月6日前与伊朗签协议",
@@ -699,12 +875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86509,
+      "num": 86509,
+      "word": "德明利一字涨停",
+      "onboard_time": 1775023162,
+      "rank": 37,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 86000,
       "num": 306921,
       "word": "男子做手术被收取近4000元手术刀费",
       "onboard_time": 1775012962,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85401,
+      "num": 81581,
+      "word": "TFBOYS我们的少年时代未公开照",
+      "onboard_time": 1775022742,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 84900,
@@ -739,6 +931,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82207,
+      "num": 82207,
+      "word": "郭晶晶谈什么是好家风",
+      "onboard_time": 1775023102,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82072,
+      "num": 82072,
+      "word": "月鳞绮纪云包场",
+      "onboard_time": 1775018246,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82012,
       "num": 82012,
       "word": "帕梅拉 你是我带过最差的一届",
@@ -753,6 +961,14 @@
       "onboard_time": 1774967245,
       "rank": 18,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 78909,
+      "num": 78909,
+      "word": "有点钱全都被家里的老物件知道了",
+      "onboard_time": 1775021545,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 78622,
@@ -787,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75914,
+      "num": 75914,
+      "word": "罗晋连续16年缅怀张国荣",
+      "onboard_time": 1775023162,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75683,
       "num": 74563,
       "word": "网红小徐自曝财产",
@@ -801,6 +1025,14 @@
       "onboard_time": 1775005944,
       "rank": 46,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 74873,
+      "num": 74873,
+      "word": "湖人战胜骑士",
+      "onboard_time": 1775019265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 74302,
@@ -835,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71495,
+      "num": 71495,
+      "word": "覃予萱力压早田希娜出线",
+      "onboard_time": 1775022505,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71334,
       "num": 71334,
       "word": "徐明浩跳catchcatch",
@@ -843,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70432,
+      "num": 70432,
+      "word": "陈都灵打戏",
+      "onboard_time": 1775021006,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70427,
       "num": 70427,
       "word": "Claude Code源码意外泄露",
       "onboard_time": 1775000301,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70042,
+      "num": 70042,
+      "word": "沈腾出神图",
+      "onboard_time": 1775017404,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 69992,
@@ -1052,11 +1308,19 @@
     },
     {
       "raw_hot": 42466,
-      "num": 628896,
+      "num": 634359,
       "word": "雄安大脑赋能智慧城市",
       "onboard_time": 1775012004,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42241,
+      "num": 117483,
+      "word": "以色列面临七线作战局面",
+      "onboard_time": 1775021963,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 39517,

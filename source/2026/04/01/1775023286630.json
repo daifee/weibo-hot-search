@@ -1,0 +1,410 @@
+{
+  "runTime": 1775023286630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 416220,
+        "num": 1066595,
+        "word": "月鳞绮纪热度",
+        "onboard_time": 1775020705,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382446,
+        "num": 769110,
+        "word": "张雪身价上亿还在用两千多块钱坏手机",
+        "onboard_time": 1775020826,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23981,
+        "num": 634359,
+        "word": "雄安大脑赋能智慧城市",
+        "onboard_time": 1775012004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392165,
+        "num": 392165,
+        "word": "李维嘉不知道遗产传给谁",
+        "onboard_time": 1775016984,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320697,
+        "num": 320697,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291898,
+        "num": 291898,
+        "word": "甲骨文凌晨6点突发裁员3万人",
+        "onboard_time": 1775014348,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257574,
+        "num": 257574,
+        "word": "我坐一天400他躺一天500",
+        "onboard_time": 1775016685,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248656,
+        "num": 248656,
+        "word": "央视曝光优思益多平台下架",
+        "onboard_time": 1775016745,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219607,
+        "num": 219607,
+        "word": "伊朗愿意结束战争",
+        "onboard_time": 1775006003,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198948,
+        "num": 198948,
+        "word": "韩国夜店98年前出生顾客禁止入场",
+        "onboard_time": 1775019566,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1703282,
+        "num": 194800,
+        "word": "李荣浩否认抄袭",
+        "onboard_time": 1775013504,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411168,
+        "num": 190469,
+        "word": "丝芭 月鳞绮纪",
+        "onboard_time": 1775022624,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221384,
+        "num": 189147,
+        "word": "女教师被拖行5.9公里致死仍未下葬",
+        "onboard_time": 1775017706,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260606,
+        "num": 182616,
+        "word": "从指甲看主角是真穷",
+        "onboard_time": 1775013864,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222885,
+        "num": 177941,
+        "word": "月鳞绮纪开播",
+        "onboard_time": 1775014466,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "日本彻底撕下伪装",
+        "onboard_time": 1775021305,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222455,
+        "num": 175811,
+        "word": "邓超称4月4日五哈播不了了",
+        "onboard_time": 1775011522,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173273,
+        "num": 173273,
+        "word": "世界杯48强全部出炉",
+        "onboard_time": 1775020226,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172621,
+        "num": 172621,
+        "word": "水木年华维权",
+        "onboard_time": 1775016805,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171342,
+        "num": 171342,
+        "word": "警方已约谈太原暴走团负责人",
+        "onboard_time": 1775021365,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165187,
+        "num": 165187,
+        "word": "月鳞绮纪站位",
+        "onboard_time": 1775020525,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162617,
+        "num": 162617,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155563,
+        "num": 155563,
+        "word": "肖战陌森 到期",
+        "onboard_time": 1775013024,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150182,
+        "num": 150182,
+        "word": "外婆连装聋作哑的权利都没有",
+        "onboard_time": 1775018965,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149962,
+        "num": 149962,
+        "word": "统一后台湾同胞再也无需抢购塑料袋",
+        "onboard_time": 1775018364,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134600,
+        "num": 134600,
+        "word": "有线耳机穿搭火了",
+        "onboard_time": 1775005882,
+        "rank": 25,
+        "category": "数码,时尚"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "销冠澳洲优思益竟是假进口",
+        "onboard_time": 1775014104,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 119035,
+        "num": 119035,
+        "word": "爸爸举高高孩子180度翻转吓到发烧",
+        "onboard_time": 1775020467,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42241,
+        "num": 117483,
+        "word": "以色列面临七线作战局面",
+        "onboard_time": 1775021963,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116938,
+        "num": 116938,
+        "word": "打耳洞时先戴上耳机",
+        "onboard_time": 1775012362,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115192,
+        "num": 115192,
+        "word": "刷取餐码出了地铁站",
+        "onboard_time": 1775011403,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 108406,
+        "word": "鞠婧祎原声",
+        "onboard_time": 1775020525,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101567,
+        "num": 101567,
+        "word": "福特号航母火灾视频流出",
+        "onboard_time": 1775022742,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 101392,
+        "num": 101392,
+        "word": "美国男子失踪23年后断腿惊现海滩",
+        "onboard_time": 1775022145,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100365,
+        "num": 100365,
+        "word": "在一只狗脸上看见文质彬彬",
+        "onboard_time": 1775022624,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90084,
+        "num": 90084,
+        "word": "薛之谦TFBOYS同框",
+        "onboard_time": 1775018905,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89039,
+        "num": 89039,
+        "word": "伊拉克晋级世界杯",
+        "onboard_time": 1775020705,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86509,
+        "num": 86509,
+        "word": "德明利一字涨停",
+        "onboard_time": 1775023162,
+        "rank": 37,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 82207,
+        "num": 82207,
+        "word": "郭晶晶谈什么是好家风",
+        "onboard_time": 1775023102,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82072,
+        "num": 82072,
+        "word": "月鳞绮纪云包场",
+        "onboard_time": 1775018246,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85401,
+        "num": 81581,
+        "word": "TFBOYS我们的少年时代未公开照",
+        "onboard_time": 1775022742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78909,
+        "num": 78909,
+        "word": "有点钱全都被家里的老物件知道了",
+        "onboard_time": 1775021545,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80945,
+        "num": 77566,
+        "word": "张凌赫改了自动回复",
+        "onboard_time": 1775011943,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75914,
+        "num": 75914,
+        "word": "罗晋连续16年缅怀张国荣",
+        "onboard_time": 1775023162,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75606,
+        "num": 75606,
+        "word": "蔡磊进入渐冻症终末期",
+        "onboard_time": 1775005882,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74873,
+        "num": 74873,
+        "word": "湖人战胜骑士",
+        "onboard_time": 1775019265,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72681,
+        "num": 72681,
+        "word": "够爱作词人拒绝授权曾沛慈演唱",
+        "onboard_time": 1775012664,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71495,
+        "num": 71495,
+        "word": "覃予萱力压早田希娜出线",
+        "onboard_time": 1775022505,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70432,
+        "num": 70432,
+        "word": "陈都灵打戏",
+        "onboard_time": 1775021006,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70042,
+        "num": 70042,
+        "word": "沈腾出神图",
+        "onboard_time": 1775017404,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记植树护绿的故事#"
+    }
+  }
+}
