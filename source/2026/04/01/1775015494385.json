@@ -1,0 +1,410 @@
+{
+  "runTime": 1775015494385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 324315,
+        "num": 1051890,
+        "word": "月鳞绮纪开播",
+        "onboard_time": 1775014466,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280528,
+        "num": 749921,
+        "word": "浙创投为张雪机车投资9000万",
+        "onboard_time": 1775002703,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37145,
+        "num": 628896,
+        "word": "雄安大脑赋能智慧城市",
+        "onboard_time": 1775012004,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510256,
+        "num": 510256,
+        "word": "甲骨文凌晨6点突发裁员3万人",
+        "onboard_time": 1775014348,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462263,
+        "num": 462263,
+        "word": "邓超称4月4日五哈播不了了",
+        "onboard_time": 1775011522,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371264,
+        "num": 371264,
+        "word": "刷取餐码出了地铁站",
+        "onboard_time": 1775011403,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299827,
+        "num": 299827,
+        "word": "伊朗愿意结束战争",
+        "onboard_time": 1775006003,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204453,
+        "num": 204453,
+        "word": "从指甲看主角是真穷",
+        "onboard_time": 1775013864,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180536,
+        "num": 180536,
+        "word": "男子靠AI开一人公司年营收达150万",
+        "onboard_time": 1775002643,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 164894,
+        "num": 164894,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9896019,
+        "num": 9896019,
+        "word": "李荣浩否认抄袭",
+        "onboard_time": 1775013504,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454598,
+        "num": 163110,
+        "word": "肖战陌森 到期",
+        "onboard_time": 1775013024,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158560,
+        "num": 158560,
+        "word": "打耳洞时先戴上耳机",
+        "onboard_time": 1775012362,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258212,
+        "num": 157536,
+        "word": "被杜海涛沈梦辰追着要合影",
+        "onboard_time": 1775011884,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 157494,
+        "word": "张凌赫改了自动回复",
+        "onboard_time": 1775011943,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147030,
+        "num": 147030,
+        "word": "美国一架F35战机坠毁",
+        "onboard_time": 1775010803,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142304,
+        "num": 142304,
+        "word": "内存条价格大跳水",
+        "onboard_time": 1775008402,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128734,
+        "num": 142277,
+        "word": "浪姐7人气排名",
+        "onboard_time": 1775004624,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119716,
+        "num": 141753,
+        "word": "镜头暴力",
+        "onboard_time": 1775013864,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104618,
+        "num": 141132,
+        "word": "黄鹏遗体在雪崩现场被发现",
+        "onboard_time": 1775009301,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193451,
+        "num": 140868,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190702,
+        "num": 140621,
+        "word": "有线耳机穿搭火了",
+        "onboard_time": 1775005882,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "en王翊恩 结婚但没同居",
+        "onboard_time": 1774971204,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138267,
+        "num": 138267,
+        "word": "蔡磊进入渐冻症终末期",
+        "onboard_time": 1775005882,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127416,
+        "num": 127416,
+        "word": "张国荣",
+        "onboard_time": 1775000902,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126634,
+        "num": 126634,
+        "word": "够爱作词人拒绝授权曾沛慈演唱",
+        "onboard_time": 1775012664,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107025,
+        "num": 107025,
+        "word": "县委书记用6秒搞定足球赛闭幕式",
+        "onboard_time": 1775009181,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100986,
+        "num": 100986,
+        "word": "销冠澳洲优思益竟是假进口",
+        "onboard_time": 1775014104,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 100639,
+        "num": 100639,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1775004083,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99633,
+        "num": 99633,
+        "word": "华人夫妇美国豪宅离奇失踪一年",
+        "onboard_time": 1775006603,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97292,
+        "num": 97292,
+        "word": "新浪娱乐头像换成毅朱瞻基",
+        "onboard_time": 1775009602,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91462,
+        "num": 91462,
+        "word": "AI短片纸手机火了",
+        "onboard_time": 1775012004,
+        "rank": 31,
+        "category": "议题讨论,互联网"
+      },
+      {
+        "raw_hot": 90894,
+        "num": 90894,
+        "word": "歼35为歼8护航",
+        "onboard_time": 1775004083,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 90733,
+        "num": 90733,
+        "word": "领克宣布全国销售放1天春假",
+        "onboard_time": 1775014526,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88348,
+        "num": 88348,
+        "word": "美军布什号航母启程赴中东",
+        "onboard_time": 1775012004,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 86000,
+        "num": 86000,
+        "word": "男子做手术被收取近4000元手术刀费",
+        "onboard_time": 1775012962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82012,
+        "num": 82012,
+        "word": "帕梅拉 你是我带过最差的一届",
+        "onboard_time": 1775015185,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78318,
+        "num": 78318,
+        "word": "好六街 田作之赫",
+        "onboard_time": 1775005703,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78080,
+        "num": 78080,
+        "word": "宠物冥币",
+        "onboard_time": 1775014466,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60639,
+        "num": 77644,
+        "word": "40岁叫60岁乖乖看呆龚俊",
+        "onboard_time": 1775013684,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77535,
+        "num": 77535,
+        "word": "孙颖莎vs梅谢芙",
+        "onboard_time": 1775012542,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77177,
+        "num": 77177,
+        "word": "周杰伦的歌给刘畊宏跳操不收钱",
+        "onboard_time": 1775002885,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 76077,
+        "word": "这不是鼠标是狗标吧",
+        "onboard_time": 1775014884,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75090,
+        "num": 75090,
+        "word": "火箭少女101为徐梦洁打call",
+        "onboard_time": 1775001382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71550,
+        "num": 71550,
+        "word": "张凌赫素人时期照片还在更新",
+        "onboard_time": 1775012302,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70624,
+        "num": 70624,
+        "word": "张雪机车夺冠带火浙江国资神级操作",
+        "onboard_time": 1775005944,
+        "rank": 45,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 67821,
+        "num": 67821,
+        "word": "日本地震东京震感强烈",
+        "onboard_time": 1775007382,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64074,
+        "num": 64074,
+        "word": "英雄联盟源计划皮肤",
+        "onboard_time": 1775014584,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62852,
+        "num": 62852,
+        "word": "意大利连续3届无缘世界杯",
+        "onboard_time": 1774998560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62596,
+        "num": 62596,
+        "word": "意大利足球为什么不行了",
+        "onboard_time": 1775015245,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记植树护绿的故事#"
+    }
+  }
+}

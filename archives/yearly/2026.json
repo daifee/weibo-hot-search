@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775013879342,
+  "endTime": 1775015494385,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -299,6 +299,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 9896019,
+      "num": 9896019,
+      "word": "李荣浩否认抄袭",
+      "onboard_time": 1775013504,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 9863429,
       "num": 9863429,
       "word": "李雨桐喊话薛之谦",
@@ -425,14 +433,6 @@
       "onboard_time": 1774768469,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 9072175,
-      "num": 9072175,
-      "word": "李荣浩否认抄袭",
-      "onboard_time": 1775013504,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 8970126,
