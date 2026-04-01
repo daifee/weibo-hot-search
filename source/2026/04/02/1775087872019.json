@@ -1,0 +1,410 @@
+{
+  "runTime": 1775087872019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 514152,
+        "num": 1057420,
+        "word": "与辉同行卖优思益销售额超千万",
+        "onboard_time": 1775058743,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277962,
+        "num": 745127,
+        "word": "国乒男线对德国3连败",
+        "onboard_time": 1775055324,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 612113,
+        "word": "十五五我们躬身加油干",
+        "onboard_time": 1775048124,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740601,
+        "num": 595234,
+        "word": "以色列遭开战以来最大规模导弹袭击",
+        "onboard_time": 1775062099,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 513593,
+        "num": 513593,
+        "word": "在美出生即公民或彻底终结",
+        "onboard_time": 1775085080,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 879915,
+        "num": 447231,
+        "word": "收到了去世好友的微信回复",
+        "onboard_time": 1775055624,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316039,
+        "num": 316039,
+        "word": "伊朗10分钟5波导弹袭击以色列",
+        "onboard_time": 1775086339,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243165,
+        "num": 243165,
+        "word": "檀健次谢却山将军造型",
+        "onboard_time": 1775074394,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168441,
+        "num": 168441,
+        "word": "日本核原料能造5500枚核弹头",
+        "onboard_time": 1775059221,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47130,
+        "num": 168211,
+        "word": "印尼马鲁古海峡7.4级地震",
+        "onboard_time": 1775085679,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 567533,
+        "num": 168076,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373107,
+        "num": 167773,
+        "word": "严屹宽鼓励张凌赫接受质疑",
+        "onboard_time": 1775056284,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252596,
+        "num": 167474,
+        "word": "甲骨文3万人一觉睡醒工作没了",
+        "onboard_time": 1775046383,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202942,
+        "num": 167293,
+        "word": "马立奥有妹妹了",
+        "onboard_time": 1775049564,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196627,
+        "num": 166988,
+        "word": "女子瞒重病订婚向男友索600万治病",
+        "onboard_time": 1775049624,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180838,
+        "num": 166872,
+        "word": "黄子韬自曝不拍戏原因",
+        "onboard_time": 1775055983,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166672,
+        "num": 166672,
+        "word": "优思益声明",
+        "onboard_time": 1775042543,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131315,
+        "num": 131315,
+        "word": "伊朗总统说遵从最高领袖指示",
+        "onboard_time": 1775048603,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126419,
+        "num": 126419,
+        "word": "被易烊千玺骗到了",
+        "onboard_time": 1775052144,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107590,
+        "num": 107590,
+        "word": "特朗普称伊朗新政权总统请求停火",
+        "onboard_time": 1775049803,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235344,
+        "num": 107518,
+        "word": "孙俪演的生理厌恶太真实了",
+        "onboard_time": 1775086459,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198131,
+        "num": 107365,
+        "word": "医生谈全红婵减肥一天只吃一顿饭",
+        "onboard_time": 1775059221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165830,
+        "num": 107129,
+        "word": "为什么木耳不能直接用水泡",
+        "onboard_time": 1775054905,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164151,
+        "num": 106962,
+        "word": "保时捷女销售再夺一季度销冠",
+        "onboard_time": 1775063117,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129238,
+        "num": 106876,
+        "word": "金价急速上涨",
+        "onboard_time": 1775062220,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106757,
+        "num": 106757,
+        "word": "很少用top来形容一个土豆",
+        "onboard_time": 1775085379,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105345,
+        "num": 105345,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98874,
+        "num": 98874,
+        "word": "迪丽热巴真的扭到我心巴上了",
+        "onboard_time": 1775061200,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92164,
+        "num": 92164,
+        "word": "美以伊地面战一触即发",
+        "onboard_time": 1775060600,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87895,
+        "num": 87895,
+        "word": "陈都灵工作室连夜招人整改",
+        "onboard_time": 1775050883,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85092,
+        "num": 85092,
+        "word": "王者荣耀无双",
+        "onboard_time": 1775087240,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81056,
+        "num": 81056,
+        "word": "凯越机车致歉",
+        "onboard_time": 1775049744,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80584,
+        "num": 80584,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79559,
+        "num": 79559,
+        "word": "公安发声支持张雪机车新手禁令",
+        "onboard_time": 1775066535,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71375,
+        "num": 71375,
+        "word": "这才叫热锅凉油",
+        "onboard_time": 1775046142,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68562,
+        "num": 68562,
+        "word": "内田有纪柏原崇结婚",
+        "onboard_time": 1775043023,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67861,
+        "num": 67861,
+        "word": "七旬男子欲强奸女精神病人未遂",
+        "onboard_time": 1775047583,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67373,
+        "num": 67373,
+        "word": "英首相回应特朗普贬损英国军力",
+        "onboard_time": 1775081296,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62980,
+        "num": 62980,
+        "word": "前女友说脆皮三首热单是她写的",
+        "onboard_time": 1775087721,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 60094,
+        "word": "伊朗称特朗普社媒声明纯属子虚乌有",
+        "onboard_time": 1775061979,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54326,
+        "num": 60081,
+        "word": "日本新型军国主义正在威胁和平",
+        "onboard_time": 1775087781,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50007,
+        "num": 60075,
+        "word": "小车停车库半年车身写满留言",
+        "onboard_time": 1775060600,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49989,
+        "num": 60064,
+        "word": "妹妹看到姐姐遗体惨状当场崩溃",
+        "onboard_time": 1775041823,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49376,
+        "num": 60050,
+        "word": "优思益问题被调查",
+        "onboard_time": 1775060780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48233,
+        "num": 60039,
+        "word": "伊朗否认请求停火",
+        "onboard_time": 1775086581,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47048,
+        "num": 60023,
+        "word": "中方在联合国敲响警钟",
+        "onboard_time": 1775057603,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47005,
+        "num": 60015,
+        "word": "浙江国资回应投资张雪9000万",
+        "onboard_time": 1775058923,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45793,
+        "num": 60001,
+        "word": "鞠婧祎角色热度优酷年冠",
+        "onboard_time": 1775061678,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45549,
+        "num": 59993,
+        "word": "家事法庭",
+        "onboard_time": 1775055924,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42197,
+        "num": 59976,
+        "word": "有线耳机爆火原因",
+        "onboard_time": 1775038522,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#为山川大地增添锦绣#"
+    }
+  }
+}
