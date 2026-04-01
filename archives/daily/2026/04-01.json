@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775023286630,
+  "endTime": 1775023953659,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -17,6 +17,14 @@
       "onboard_time": 1774970844,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1939640,
+      "num": 212588,
+      "word": "丝芭起诉月鳞绮纪承制方",
+      "onboard_time": 1775023404,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1311509,
@@ -49,6 +57,14 @@
       "onboard_time": 1774971204,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693691,
+      "num": 190469,
+      "word": "丝芭 月鳞绮纪",
+      "onboard_time": 1775022624,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 582370,
@@ -99,19 +115,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416220,
-      "num": 1066595,
+      "raw_hot": 451454,
+      "num": 1072232,
       "word": "月鳞绮纪热度",
       "onboard_time": 1775020705,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 411168,
-      "num": 190469,
-      "word": "丝芭 月鳞绮纪",
-      "onboard_time": 1775022624,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 382446,
-      "num": 769110,
+      "num": 770756,
       "word": "张雪身价上亿还在用两千多块钱坏手机",
       "onboard_time": 1775020826,
       "rank": 1,
@@ -235,7 +243,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260606,
+      "raw_hot": 262760,
       "num": 204453,
       "word": "从指甲看主角是真穷",
       "onboard_time": 1775013864,
@@ -283,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221384,
-      "num": 189147,
+      "raw_hot": 226856,
+      "num": 206319,
       "word": "女教师被拖行5.9公里致死仍未下葬",
       "onboard_time": 1775017706,
       "rank": 12,
@@ -297,6 +305,22 @@
       "onboard_time": 1775002643,
       "rank": 1,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 215039,
+      "num": 215039,
+      "word": "日本彻底撕下伪装",
+      "onboard_time": 1775021305,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 213993,
+      "num": 213993,
+      "word": "世界杯48强全部出炉",
+      "onboard_time": 1775020226,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 213785,
@@ -395,28 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176187,
-      "num": 176187,
-      "word": "日本彻底撕下伪装",
-      "onboard_time": 1775021305,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175350,
       "num": 175350,
       "word": "俄罗斯运输机坠毁29人遇难",
       "onboard_time": 1774999942,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 173273,
-      "num": 173273,
-      "word": "世界杯48强全部出炉",
-      "onboard_time": 1775020226,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 172621,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162809,
+      "num": 162809,
+      "word": "外婆连装聋作哑的权利都没有",
+      "onboard_time": 1775018965,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158560,
       "num": 264301,
       "word": "打耳洞时先戴上耳机",
@@ -481,14 +497,6 @@
       "onboard_time": 1775013083,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 150182,
-      "num": 150182,
-      "word": "外婆连装聋作哑的权利都没有",
-      "onboard_time": 1775018965,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 149962,
@@ -539,8 +547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133476,
-      "num": 133476,
+      "raw_hot": 137821,
+      "num": 137821,
       "word": "销冠澳洲优思益竟是假进口",
       "onboard_time": 1775014104,
       "rank": 27,
@@ -603,6 +611,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122514,
+      "num": 116839,
+      "word": "美国男子失踪23年后断腿惊现海滩",
+      "onboard_time": 1775022145,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120899,
+      "num": 116725,
+      "word": "伊朗精准打击",
+      "onboard_time": 1775023762,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119716,
       "num": 141753,
       "word": "镜头暴力",
@@ -641,6 +665,14 @@
       "onboard_time": 1775000360,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116583,
+      "num": 116583,
+      "word": "陈奕恒公主抱左奇函",
+      "onboard_time": 1775023462,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 116445,
@@ -731,14 +763,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 101392,
-      "num": 101392,
-      "word": "美国男子失踪23年后断腿惊现海滩",
-      "onboard_time": 1775022145,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101375,
       "num": 101375,
       "word": "好六街 田作之赫",
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92297,
+      "num": 92297,
+      "word": "TFBOYS我们的少年时代未公开照",
+      "onboard_time": 1775022742,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92206,
       "num": 92206,
       "word": "火箭少女101为徐梦洁打call",
@@ -875,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87880,
+      "num": 117483,
+      "word": "以色列面临七线作战局面",
+      "onboard_time": 1775021963,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 86509,
       "num": 86509,
       "word": "德明利一字涨停",
@@ -889,14 +929,6 @@
       "onboard_time": 1775012962,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85401,
-      "num": 81581,
-      "word": "TFBOYS我们的少年时代未公开照",
-      "onboard_time": 1775022742,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 84900,
@@ -979,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78116,
+      "num": 78116,
+      "word": "请假在家躺了两天小狗以为我失业了",
+      "onboard_time": 1775023645,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78080,
       "num": 78080,
       "word": "宠物冥币",
@@ -1035,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74410,
+      "num": 74410,
+      "word": "陈都灵打戏",
+      "onboard_time": 1775021006,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74302,
       "num": 74302,
       "word": "意大利不敌波黑",
@@ -1083,20 +1131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70432,
-      "num": 70432,
-      "word": "陈都灵打戏",
-      "onboard_time": 1775021006,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70427,
       "num": 70427,
       "word": "Claude Code源码意外泄露",
       "onboard_time": 1775000301,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70128,
+      "num": 70128,
+      "word": "贾浅浅论文被指抄袭父亲贾平凹",
+      "onboard_time": 1775023824,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 70042,
@@ -1315,14 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42241,
-      "num": 117483,
-      "word": "以色列面临七线作战局面",
-      "onboard_time": 1775021963,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 39517,
       "num": 39517,
       "word": "Jiwoo大吧 豆包",
@@ -1379,6 +1419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28394,
+      "num": 159687,
+      "word": "全面开展国有馆藏文物盘库清点",
+      "onboard_time": 1775023462,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27681,
       "num": 53702,
       "word": "伊朗发动第87波攻势",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1775013083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17489,
+      "num": 81326,
+      "word": "某国军官戴智能手表跑步致泄密",
+      "onboard_time": 1775023344,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12185,
