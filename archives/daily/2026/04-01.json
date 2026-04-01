@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775030526601,
+  "endTime": 1775035017503,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606354,
+      "num": 606354,
+      "word": "孙俪回应蒋欣",
+      "onboard_time": 1775031682,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582370,
       "num": 174771,
       "word": "鞠婧祎 此身分明了",
@@ -145,6 +153,14 @@
       "onboard_time": 1774957106,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401896,
+      "num": 216143,
+      "word": "迪丽热巴问白日提灯固屏去哪了",
+      "onboard_time": 1775030362,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 398556,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 320697,
-      "num": 320697,
+      "num": 832526,
       "word": "优思益",
       "onboard_time": 1775015185,
       "rank": 9,
@@ -225,6 +241,14 @@
       "onboard_time": 1774969704,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305300,
+      "num": 204239,
+      "word": "付费的没学会免费的学会了",
+      "onboard_time": 1775031383,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 301900,
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213221,
+      "num": 180492,
+      "word": "江宏杰祝福福原爱再婚怀孕",
+      "onboard_time": 1775031083,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 211862,
       "num": 436622,
       "word": "中国无人机蜂群突击铺天盖地",
@@ -475,6 +507,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186050,
+      "num": 179010,
+      "word": "曾沛慈 够爱",
+      "onboard_time": 1775029702,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182213,
+      "num": 182213,
+      "word": "张雪机车爆单了",
+      "onboard_time": 1775033603,
+      "rank": 8,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 180090,
       "num": 331491,
       "word": "美国一架F35战机坠毁",
@@ -489,6 +537,14 @@
       "onboard_time": 1775009602,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177486,
+      "num": 177486,
+      "word": "成都一凶宅第三次拍卖起拍价16.6万",
+      "onboard_time": 1775034022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175350,
@@ -587,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149412,
+      "num": 149412,
+      "word": "一中国人涉及超7亿房产在英被冻结",
+      "onboard_time": 1775032763,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145501,
       "num": 140742,
       "word": "Angelababy海边拍摄MV",
@@ -643,6 +707,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 135638,
+      "num": 135638,
+      "word": "法国豪门弃子34岁终夺冠致谢张雪",
+      "onboard_time": 1775032823,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134060,
+      "num": 134060,
+      "word": "1岁男童输液后抽搐去世",
+      "onboard_time": 1775030723,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132711,
       "num": 132711,
       "word": "周杰伦的歌给刘畊宏跳操不收钱",
@@ -691,12 +771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127884,
-      "num": 127884,
-      "word": "曾沛慈 够爱",
-      "onboard_time": 1775029702,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 127545,
+      "num": 109471,
+      "word": "成都一凶宅96.6万成交后买家悔拍",
+      "onboard_time": 1775033543,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126907,
+      "num": 230236,
+      "word": "王者荣耀",
+      "onboard_time": 1775030305,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 126634,
@@ -705,14 +793,6 @@
       "onboard_time": 1775012664,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125691,
-      "num": 125691,
-      "word": "迪丽热巴问白日提灯固屏去哪了",
-      "onboard_time": 1775030362,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 124920,
@@ -859,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109670,
-      "num": 230236,
-      "word": "王者荣耀",
-      "onboard_time": 1775030305,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 109889,
+      "num": 109889,
+      "word": "醉驾拖行女教师多人下车查看后驶离",
+      "onboard_time": 1775031862,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109210,
@@ -913,6 +993,14 @@
       "onboard_time": 1774996397,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104495,
+      "num": 104495,
+      "word": "陈飞宇冷脸搬凳子",
+      "onboard_time": 1775034383,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 103738,
@@ -1003,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96470,
+      "num": 96470,
+      "word": "刘耀文愚人节不耍人耍帅",
+      "onboard_time": 1775034562,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96335,
       "num": 201539,
       "word": "16G内存降到了700元",
@@ -1017,6 +1113,22 @@
       "onboard_time": 1775007382,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95454,
+      "num": 158417,
+      "word": "中方回应美颁通用许可证排除中国",
+      "onboard_time": 1775034142,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94020,
+      "num": 94020,
+      "word": "世界杯决赛时间公布",
+      "onboard_time": 1775031803,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 92970,
@@ -1041,6 +1153,14 @@
       "onboard_time": 1775001382,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92023,
+      "num": 92023,
+      "word": "下次租房我就这样问",
+      "onboard_time": 1775031263,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 90894,
@@ -1131,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84797,
+      "num": 84797,
+      "word": "李荣浩汪苏泷可以畅聊一晚上",
+      "onboard_time": 1775031562,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 84587,
       "num": 84587,
       "word": "张雪通勤摩托只有一个后视镜",
@@ -1219,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78237,
+      "num": 78237,
+      "word": "左奇函摔倒",
+      "onboard_time": 1775030543,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78080,
       "num": 78080,
       "word": "宠物冥币",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1775014884,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76076,
+      "num": 76076,
+      "word": "蓝莓三四十元一斤随便挑",
+      "onboard_time": 1775033243,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 75914,
@@ -1291,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73592,
+      "num": 73592,
+      "word": "原特斯拉中国区高管入职小米",
+      "onboard_time": 1775031862,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72808,
       "num": 62355,
       "word": "Ruler可能面临禁赛",
       "onboard_time": 1774974561,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72765,
+      "num": 72765,
+      "word": "美国前国土安全部长丈夫是秘密异装癖",
+      "onboard_time": 1775034982,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72315,
@@ -1313,6 +1473,14 @@
       "onboard_time": 1774970963,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71610,
+      "num": 71610,
+      "word": "王者愚人节限时玩法",
+      "onboard_time": 1775034501,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 71495,
@@ -1377,6 +1545,14 @@
       "onboard_time": 1775024243,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65621,
+      "num": 177685,
+      "word": "日本动向十分危险",
+      "onboard_time": 1775033843,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64074,
@@ -1611,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34127,
+      "num": 178161,
+      "word": "孙俪QQ王者归来",
+      "onboard_time": 1775034142,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32264,
       "num": 53769,
       "word": "特朗普被曝希望快速结束战争",
@@ -1632,6 +1816,14 @@
       "word": "张雪让世界记住了中国摩托",
       "onboard_time": 1774981754,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30062,
+      "num": 121783,
+      "word": "优思益单平台月销售额近2500万",
+      "onboard_time": 1775033661,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1657,6 +1849,14 @@
       "onboard_time": 1774982956,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26708,
+      "num": 88616,
+      "word": "榜一大姐给男主播转160万后被分手",
+      "onboard_time": 1775034083,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23579,
@@ -1723,12 +1923,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14733,
+      "num": 74136,
+      "word": "仁人志士的英勇事迹人民不会忘记",
+      "onboard_time": 1775034322,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12198,
+      "num": 87188,
+      "word": "村民发现清代祖坟疑遭盗墓",
+      "onboard_time": 1775034022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12185,
       "num": 87826,
       "word": "国际数学家大会因在美举办遭抵制",
       "onboard_time": 1775013263,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12050,
+      "num": 180019,
+      "word": "志愿军老战士把家搬到烈士陵园",
+      "onboard_time": 1775034623,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11883,
@@ -1745,6 +1969,14 @@
       "onboard_time": 1774965805,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8945,
+      "num": 654563,
+      "word": "4月1日起一批国家标准开始实施",
+      "onboard_time": 1775034924,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1756,6 +1988,9 @@
     },
     {
       "word": "#总书记植树护绿的故事#"
+    },
+    {
+      "word": "#干事创业一定要树立正确政绩观#"
     }
   ]
 }

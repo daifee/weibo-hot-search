@@ -1,0 +1,410 @@
+{
+  "runTime": 1775035017503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699812,
+        "num": 1111970,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229533,
+        "num": 832526,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8945,
+        "num": 654563,
+        "word": "4月1日起一批国家标准开始实施",
+        "onboard_time": 1775034924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606354,
+        "num": 606354,
+        "word": "孙俪回应蒋欣",
+        "onboard_time": 1775031682,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226490,
+        "num": 226490,
+        "word": "日本彻底撕下伪装",
+        "onboard_time": 1775021305,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401896,
+        "num": 216143,
+        "word": "迪丽热巴问白日提灯固屏去哪了",
+        "onboard_time": 1775030362,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305300,
+        "num": 204239,
+        "word": "付费的没学会免费的学会了",
+        "onboard_time": 1775031383,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182845,
+        "num": 182845,
+        "word": "29岁小伙赶在结婚前立遗嘱",
+        "onboard_time": 1775024124,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182213,
+        "num": 182213,
+        "word": "张雪机车爆单了",
+        "onboard_time": 1775033603,
+        "rank": 8,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 126907,
+        "num": 181933,
+        "word": "王者荣耀",
+        "onboard_time": 1775030305,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 561531,
+        "num": 181254,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518637,
+        "num": 180943,
+        "word": "李荣浩否认抄袭",
+        "onboard_time": 1775013504,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213221,
+        "num": 180492,
+        "word": "江宏杰祝福福原爱再婚怀孕",
+        "onboard_time": 1775031083,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 12050,
+        "num": 180019,
+        "word": "志愿军老战士把家搬到烈士陵园",
+        "onboard_time": 1775034623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205383,
+        "num": 179252,
+        "word": "张雪身价上亿还在用两千多块钱坏手机",
+        "onboard_time": 1775020826,
+        "rank": 14,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 186050,
+        "num": 179010,
+        "word": "曾沛慈 够爱",
+        "onboard_time": 1775029702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34127,
+        "num": 178161,
+        "word": "孙俪QQ王者归来",
+        "onboard_time": 1775034142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65621,
+        "num": 177685,
+        "word": "日本动向十分危险",
+        "onboard_time": 1775033843,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177486,
+        "num": 177486,
+        "word": "成都一凶宅第三次拍卖起拍价16.6万",
+        "onboard_time": 1775034022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95454,
+        "num": 158417,
+        "word": "中方回应美颁通用许可证排除中国",
+        "onboard_time": 1775034142,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149412,
+        "num": 149412,
+        "word": "一中国人涉及超7亿房产在英被冻结",
+        "onboard_time": 1775032763,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143766,
+        "num": 143766,
+        "word": "央视曝光优思益多平台下架",
+        "onboard_time": 1775016745,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135638,
+        "num": 135638,
+        "word": "法国豪门弃子34岁终夺冠致谢张雪",
+        "onboard_time": 1775032823,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134060,
+        "num": 134060,
+        "word": "1岁男童输液后抽搐去世",
+        "onboard_time": 1775030723,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131174,
+        "num": 131174,
+        "word": "李维嘉不知道遗产传给谁",
+        "onboard_time": 1775016984,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30062,
+        "num": 121783,
+        "word": "优思益单平台月销售额近2500万",
+        "onboard_time": 1775033661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119830,
+        "num": 119830,
+        "word": "以后再也不埋怨清明节下雨了",
+        "onboard_time": 1775024843,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116445,
+        "num": 116445,
+        "word": "伊朗不同意停火强调要彻底结束战争",
+        "onboard_time": 1775026882,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 111799,
+        "word": "迪丽热巴这真是妈咪级别的",
+        "onboard_time": 1775028444,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109889,
+        "num": 109889,
+        "word": "醉驾拖行女教师多人下车查看后驶离",
+        "onboard_time": 1775031862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127545,
+        "num": 109471,
+        "word": "成都一凶宅96.6万成交后买家悔拍",
+        "onboard_time": 1775033543,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104495,
+        "num": 104495,
+        "word": "陈飞宇冷脸搬凳子",
+        "onboard_time": 1775034383,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100186,
+        "num": 100186,
+        "word": "警方已约谈太原暴走团负责人",
+        "onboard_time": 1775021365,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96738,
+        "num": 96738,
+        "word": "三部门对优思益展开调查",
+        "onboard_time": 1775027543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96470,
+        "num": 96470,
+        "word": "刘耀文愚人节不耍人耍帅",
+        "onboard_time": 1775034562,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94020,
+        "num": 94020,
+        "word": "世界杯决赛时间公布",
+        "onboard_time": 1775031803,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92977,
+        "num": 92977,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92023,
+        "num": 92023,
+        "word": "下次租房我就这样问",
+        "onboard_time": 1775031263,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26708,
+        "num": 88616,
+        "word": "榜一大姐给男主播转160万后被分手",
+        "onboard_time": 1775034083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12198,
+        "num": 87188,
+        "word": "村民发现清代祖坟疑遭盗墓",
+        "onboard_time": 1775034022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86850,
+        "num": 86850,
+        "word": "日本男教师因接受性服务时偷拍被解雇",
+        "onboard_time": 1775028382,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84797,
+        "num": 84797,
+        "word": "李荣浩汪苏泷可以畅聊一晚上",
+        "onboard_time": 1775031562,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78237,
+        "num": 78237,
+        "word": "左奇函摔倒",
+        "onboard_time": 1775030543,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77822,
+        "num": 77822,
+        "word": "请假在家躺了两天小狗以为我失业了",
+        "onboard_time": 1775023645,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76076,
+        "num": 76076,
+        "word": "蓝莓三四十元一斤随便挑",
+        "onboard_time": 1775033243,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14733,
+        "num": 74136,
+        "word": "仁人志士的英勇事迹人民不会忘记",
+        "onboard_time": 1775034322,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73592,
+        "num": 73592,
+        "word": "原特斯拉中国区高管入职小米",
+        "onboard_time": 1775031862,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72765,
+        "num": 72765,
+        "word": "美国前国土安全部长丈夫是秘密异装癖",
+        "onboard_time": 1775034982,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47048,
+        "num": 72011,
+        "word": "从指甲看主角是真穷",
+        "onboard_time": 1775013864,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71610,
+        "num": 71610,
+        "word": "王者愚人节限时玩法",
+        "onboard_time": 1775034501,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#干事创业一定要树立正确政绩观#"
+    }
+  }
+}
