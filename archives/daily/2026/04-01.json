@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775035017503,
+  "endTime": 1775036742181,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 948860,
+      "num": 103488,
+      "word": "时代少年团愚人节互发",
+      "onboard_time": 1775035162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940416,
       "num": 166727,
       "word": "愚人节",
@@ -97,6 +105,14 @@
       "onboard_time": 1774963464,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572383,
+      "num": 805669,
+      "word": "成都一凶宅第三次拍卖起拍价16.6万",
+      "onboard_time": 1775034022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541150,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 401896,
-      "num": 216143,
+      "num": 248605,
       "word": "迪丽热巴问白日提灯固屏去哪了",
       "onboard_time": 1775030362,
       "rank": 26,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 305300,
-      "num": 204239,
+      "num": 206764,
       "word": "付费的没学会免费的学会了",
       "onboard_time": 1775031383,
       "rank": 6,
@@ -331,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251362,
+      "num": 251362,
+      "word": "张雪机车爆单了",
+      "onboard_time": 1775033603,
+      "rank": 8,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 248656,
       "num": 248656,
       "word": "央视曝光优思益多平台下架",
@@ -339,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235213,
+      "num": 235213,
+      "word": "中方回应美颁通用许可证排除中国",
+      "onboard_time": 1775034142,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230971,
       "num": 230971,
       "word": "迪丽热巴这真是妈咪级别的",
       "onboard_time": 1775028444,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229851,
+      "num": 102484,
+      "word": "胡先煦顶级的愚人节愚人手法",
+      "onboard_time": 1775035463,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 229522,
@@ -377,6 +417,22 @@
       "onboard_time": 1775017706,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221390,
+      "num": 101831,
+      "word": "丁程鑫发了严浩翔",
+      "onboard_time": 1775035944,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217083,
+      "num": 99870,
+      "word": "严浩翔发的是刘耀文",
+      "onboard_time": 1775035944,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 216150,
@@ -515,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182213,
-      "num": 182213,
-      "word": "张雪机车爆单了",
-      "onboard_time": 1775033603,
-      "rank": 8,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 180090,
       "num": 331491,
       "word": "美国一架F35战机坠毁",
@@ -537,14 +585,6 @@
       "onboard_time": 1775009602,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177486,
-      "num": 177486,
-      "word": "成都一凶宅第三次拍卖起拍价16.6万",
-      "onboard_time": 1775034022,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175350,
@@ -585,6 +625,14 @@
       "onboard_time": 1774966226,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165253,
+      "num": 99664,
+      "word": "宋亚轩宋小花",
+      "onboard_time": 1775036181,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 165187,
@@ -651,6 +699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147183,
+      "num": 135638,
+      "word": "法国豪门弃子34岁终夺冠致谢张雪",
+      "onboard_time": 1775032823,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147154,
+      "num": 109471,
+      "word": "成都一凶宅96.6万成交后买家悔拍",
+      "onboard_time": 1775033543,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145501,
       "num": 140742,
       "word": "Angelababy海边拍摄MV",
@@ -705,14 +769,6 @@
       "onboard_time": 1775014104,
       "rank": 27,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 135638,
-      "num": 135638,
-      "word": "法国豪门弃子34岁终夺冠致谢张雪",
-      "onboard_time": 1775032823,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 134060,
@@ -771,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127545,
-      "num": 109471,
-      "word": "成都一凶宅96.6万成交后买家悔拍",
-      "onboard_time": 1775033543,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126907,
       "num": 230236,
       "word": "王者荣耀",
@@ -825,6 +873,14 @@
       "onboard_time": 1775023762,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 119800,
+      "num": 119800,
+      "word": "陈飞宇冷脸搬凳子",
+      "onboard_time": 1775034383,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 119716,
@@ -995,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104495,
-      "num": 104495,
-      "word": "陈飞宇冷脸搬凳子",
-      "onboard_time": 1775034383,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103738,
       "num": 103738,
       "word": "女子回应获3亿遗产引丈夫子女不满",
@@ -1115,14 +1163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95454,
-      "num": 158417,
-      "word": "中方回应美颁通用许可证排除中国",
-      "onboard_time": 1775034142,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94020,
       "num": 94020,
       "word": "世界杯决赛时间公布",
@@ -1219,6 +1259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 87101,
+      "num": 87101,
+      "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
+      "onboard_time": 1775034022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86509,
       "num": 86509,
       "word": "德明利一字涨停",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1775012962,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85860,
+      "num": 85860,
+      "word": "白日提灯直播",
+      "onboard_time": 1775036302,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 85579,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1775031562,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84766,
+      "num": 84766,
+      "word": "狼队愚人节互发国服",
+      "onboard_time": 1775035522,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 84587,
@@ -1419,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74667,
+      "num": 177685,
+      "word": "日本动向十分危险",
+      "onboard_time": 1775033843,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74410,
       "num": 74410,
       "word": "陈都灵打戏",
@@ -1436,7 +1508,7 @@
     },
     {
       "raw_hot": 73592,
-      "num": 73592,
+      "num": 83188,
       "word": "原特斯拉中国区高管入职小米",
       "onboard_time": 1775031862,
       "rank": 46,
@@ -1507,6 +1579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70422,
+      "num": 82698,
+      "word": "学数学和学历史的都沉默了",
+      "onboard_time": 1775036543,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70128,
       "num": 70128,
       "word": "贾浅浅论文被指抄袭父亲贾平凹",
@@ -1539,6 +1619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69199,
+      "num": 82487,
+      "word": "阿大葱油饼宣布暂停营业",
+      "onboard_time": 1775036302,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67542,
       "num": 67542,
       "word": "丝芭称鞠婧祎出演月鳞绮纪违约",
@@ -1547,12 +1635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65621,
-      "num": 177685,
-      "word": "日本动向十分危险",
-      "onboard_time": 1775033843,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 65810,
+      "num": 82237,
+      "word": "秦岚辛芷蕾胡先煦给秦海璐包场",
+      "onboard_time": 1775033661,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 64074,
@@ -1569,6 +1657,14 @@
       "onboard_time": 1774977498,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63785,
+      "num": 178161,
+      "word": "孙俪QQ王者归来",
+      "onboard_time": 1775034142,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 62596,
@@ -1659,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55758,
+      "num": 96792,
+      "word": "1岁男童疑输液后抽搐离世家属发声",
+      "onboard_time": 1775035343,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54804,
       "num": 54804,
       "word": "盗墓笔记",
@@ -1739,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44190,
+      "num": 654563,
+      "word": "4月1日起一批国家标准开始实施",
+      "onboard_time": 1775034924,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42466,
       "num": 663477,
       "word": "雄安大脑赋能智慧城市",
@@ -1784,14 +1896,6 @@
       "word": "时代少年团 录播",
       "onboard_time": 1774958186,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 34127,
-      "num": 178161,
-      "word": "孙俪QQ王者归来",
-      "onboard_time": 1775034142,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1969,14 +2073,6 @@
       "onboard_time": 1774965805,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 8945,
-      "num": 654563,
-      "word": "4月1日起一批国家标准开始实施",
-      "onboard_time": 1775034924,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

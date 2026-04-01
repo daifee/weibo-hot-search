@@ -1,0 +1,410 @@
+{
+  "runTime": 1775036742181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631986,
+        "num": 1101117,
+        "word": "你的公积金悄悄变多了",
+        "onboard_time": 1775028922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572383,
+        "num": 805669,
+        "word": "成都一凶宅第三次拍卖起拍价16.6万",
+        "onboard_time": 1775034022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44190,
+        "num": 612369,
+        "word": "4月1日起一批国家标准开始实施",
+        "onboard_time": 1775034924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448926,
+        "num": 448926,
+        "word": "孙俪回应蒋欣",
+        "onboard_time": 1775031682,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251362,
+        "num": 251362,
+        "word": "张雪机车爆单了",
+        "onboard_time": 1775033603,
+        "rank": 4,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 324738,
+        "num": 248605,
+        "word": "迪丽热巴问白日提灯固屏去哪了",
+        "onboard_time": 1775030362,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235213,
+        "num": 235213,
+        "word": "中方回应美颁通用许可证排除中国",
+        "onboard_time": 1775034142,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212973,
+        "num": 212973,
+        "word": "优思益",
+        "onboard_time": 1775015185,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206764,
+        "num": 206764,
+        "word": "付费的没学会免费的学会了",
+        "onboard_time": 1775031383,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109364,
+        "num": 184015,
+        "word": "王者荣耀",
+        "onboard_time": 1775030305,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459916,
+        "num": 183991,
+        "word": "芭乐 早知道烂地里了",
+        "onboard_time": 1775025862,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430045,
+        "num": 183756,
+        "word": "李荣浩否认抄袭",
+        "onboard_time": 1775013504,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182150,
+        "num": 182150,
+        "word": "张雪身价上亿还在用两千多块钱坏手机",
+        "onboard_time": 1775020826,
+        "rank": 12,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 176409,
+        "num": 176409,
+        "word": "日本彻底撕下伪装",
+        "onboard_time": 1775021305,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149258,
+        "num": 149258,
+        "word": "一中国人涉及超7亿房产在英被冻结",
+        "onboard_time": 1775032763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121610,
+        "num": 121610,
+        "word": "29岁小伙赶在结婚前立遗嘱",
+        "onboard_time": 1775024124,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119800,
+        "num": 119800,
+        "word": "陈飞宇冷脸搬凳子",
+        "onboard_time": 1775034383,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63785,
+        "num": 109377,
+        "word": "孙俪QQ王者归来",
+        "onboard_time": 1775034142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104129,
+        "num": 104129,
+        "word": "央视曝光优思益多平台下架",
+        "onboard_time": 1775016745,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106208,
+        "num": 103911,
+        "word": "迪丽热巴这真是妈咪级别的",
+        "onboard_time": 1775028444,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 948860,
+        "num": 103488,
+        "word": "时代少年团愚人节互发",
+        "onboard_time": 1775035162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147183,
+        "num": 102838,
+        "word": "法国豪门弃子34岁终夺冠致谢张雪",
+        "onboard_time": 1775032823,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229851,
+        "num": 102484,
+        "word": "胡先煦顶级的愚人节愚人手法",
+        "onboard_time": 1775035463,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221390,
+        "num": 101831,
+        "word": "丁程鑫发了严浩翔",
+        "onboard_time": 1775035944,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117196,
+        "num": 100946,
+        "word": "以后再也不埋怨清明节下雨了",
+        "onboard_time": 1775024843,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186318,
+        "num": 100799,
+        "word": "江宏杰祝福福原爱再婚怀孕",
+        "onboard_time": 1775031083,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 217083,
+        "num": 99870,
+        "word": "严浩翔发的是刘耀文",
+        "onboard_time": 1775035944,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99768,
+        "num": 99768,
+        "word": "伊朗不同意停火强调要彻底结束战争",
+        "onboard_time": 1775026882,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165253,
+        "num": 99664,
+        "word": "宋亚轩宋小花",
+        "onboard_time": 1775036181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130254,
+        "num": 98199,
+        "word": "曾沛慈 够爱",
+        "onboard_time": 1775029702,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147154,
+        "num": 97406,
+        "word": "成都一凶宅96.6万成交后买家悔拍",
+        "onboard_time": 1775033543,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55758,
+        "num": 96792,
+        "word": "1岁男童疑输液后抽搐离世家属发声",
+        "onboard_time": 1775035343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96467,
+        "num": 96467,
+        "word": "Angelababy海边拍摄MV",
+        "onboard_time": 1775025682,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89405,
+        "num": 89405,
+        "word": "下次租房我就这样问",
+        "onboard_time": 1775031263,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88724,
+        "num": 88724,
+        "word": "三部门对优思益展开调查",
+        "onboard_time": 1775027543,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87664,
+        "num": 87664,
+        "word": "白日提灯追剧团",
+        "onboard_time": 1775024483,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87165,
+        "num": 87165,
+        "word": "李维嘉不知道遗产传给谁",
+        "onboard_time": 1775016984,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87101,
+        "num": 87101,
+        "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
+        "onboard_time": 1775034022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85860,
+        "num": 85860,
+        "word": "白日提灯直播",
+        "onboard_time": 1775036302,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84766,
+        "num": 84766,
+        "word": "狼队愚人节互发国服",
+        "onboard_time": 1775035522,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84463,
+        "num": 84463,
+        "word": "月鳞绮纪热度",
+        "onboard_time": 1775020705,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83937,
+        "num": 83937,
+        "word": "世界杯决赛时间公布",
+        "onboard_time": 1775031803,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79752,
+        "num": 83816,
+        "word": "张雪",
+        "onboard_time": 1775003003,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76044,
+        "num": 83542,
+        "word": "日本男教师因接受性服务时偷拍被解雇",
+        "onboard_time": 1775028382,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74667,
+        "num": 83485,
+        "word": "日本动向十分危险",
+        "onboard_time": 1775033843,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72192,
+        "num": 83188,
+        "word": "原特斯拉中国区高管入职小米",
+        "onboard_time": 1775031862,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70647,
+        "num": 83017,
+        "word": "爸爸举高高孩子180度翻转吓到发烧",
+        "onboard_time": 1775020467,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70422,
+        "num": 82698,
+        "word": "学数学和学历史的都沉默了",
+        "onboard_time": 1775036543,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69199,
+        "num": 82487,
+        "word": "阿大葱油饼宣布暂停营业",
+        "onboard_time": 1775036302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65810,
+        "num": 82237,
+        "word": "秦岚辛芷蕾胡先煦给秦海璐包场",
+        "onboard_time": 1775033661,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#干事创业一定要树立正确政绩观#"
+    }
+  }
+}
