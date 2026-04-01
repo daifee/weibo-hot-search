@@ -1,17 +1,9 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775084764939,
+  "endTime": 1775087056564,
   "band_list": [
     {
-      "raw_hot": 676524,
-      "num": 470430,
-      "word": "以色列遭开战以来最大规模导弹袭击",
-      "onboard_time": 1775062099,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 658304,
+      "raw_hot": 836820,
       "num": 442854,
       "word": "收到了去世好友的微信回复",
       "onboard_time": 1775055624,
@@ -19,15 +11,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 448088,
-      "num": 665878,
-      "word": "与辉同行卖优思益销售额超千万",
-      "onboard_time": 1775058743,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 787450,
+      "num": 506642,
+      "word": "以色列遭开战以来最大规模导弹袭击",
+      "onboard_time": 1775062099,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 401700,
+      "raw_hot": 580649,
       "num": 392859,
       "word": "杨紫 没人通知我啊",
       "onboard_time": 1775054723,
@@ -35,15 +27,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298664,
-      "num": 133107,
-      "word": "马立奥有妹妹了",
-      "onboard_time": 1775049564,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 485615,
+      "num": 941049,
+      "word": "与辉同行卖优思益销售额超千万",
+      "onboard_time": 1775058743,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 283059,
+      "raw_hot": 460113,
+      "num": 460113,
+      "word": "在美出生即公民或彻底终结",
+      "onboard_time": 1775085080,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 339089,
       "num": 283059,
       "word": "严屹宽鼓励张凌赫接受质疑",
       "onboard_time": 1775056284,
@@ -51,8 +51,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240761,
-      "num": 576299,
+      "raw_hot": 298664,
+      "num": 134944,
+      "word": "马立奥有妹妹了",
+      "onboard_time": 1775049564,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277005,
+      "num": 688344,
       "word": "国乒男线对德国3连败",
       "onboard_time": 1775055324,
       "rank": 0,
@@ -75,31 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182683,
-      "num": 83358,
-      "word": "医生谈全红婵减肥一天只吃一顿饭",
-      "onboard_time": 1775059221,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177775,
-      "num": 114886,
-      "word": "黄子韬自曝不拍戏原因",
-      "onboard_time": 1775055983,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169484,
-      "num": 106283,
-      "word": "被易烊千玺骗到了",
-      "onboard_time": 1775052144,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165594,
+      "raw_hot": 209038,
       "num": 453113,
       "word": "檀健次谢却山将军造型",
       "onboard_time": 1775074394,
@@ -107,15 +91,55 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198180,
+      "num": 117589,
+      "word": "医生谈全红婵减肥一天只吃一顿饭",
+      "onboard_time": 1775059221,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196455,
+      "num": 143280,
+      "word": "甲骨文3万人一觉睡醒工作没了",
+      "onboard_time": 1775046383,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 177775,
+      "num": 132141,
+      "word": "黄子韬自曝不拍戏原因",
+      "onboard_time": 1775055983,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169484,
+      "num": 126098,
+      "word": "被易烊千玺骗到了",
+      "onboard_time": 1775052144,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159596,
+      "num": 415383,
+      "word": "优思益声明",
+      "onboard_time": 1775042543,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158718,
-      "num": 82361,
+      "num": 110944,
       "word": "为什么木耳不能直接用水泡",
       "onboard_time": 1775054905,
       "rank": 22,
       "category": "科学科普"
     },
     {
-      "raw_hot": 145703,
+      "raw_hot": 155704,
       "num": 432919,
       "word": "日本核原料能造5500枚核弹头",
       "onboard_time": 1775059221,
@@ -123,20 +147,44 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131827,
-      "num": 81796,
+      "raw_hot": 155415,
+      "num": 106476,
+      "word": "孙俪演的生理厌恶太真实了",
+      "onboard_time": 1775086459,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152423,
+      "num": 129977,
+      "word": "女子瞒重病订婚向男友索600万治病",
+      "onboard_time": 1775049624,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150471,
+      "num": 104193,
       "word": "保时捷女销售再夺一季度销冠",
       "onboard_time": 1775063117,
       "rank": 30,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126096,
-      "num": 126096,
-      "word": "甲骨文3万人一觉睡醒工作没了",
-      "onboard_time": 1775046383,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 140284,
+      "num": 424556,
+      "word": "伊朗总统说遵从最高领袖指示",
+      "onboard_time": 1775048603,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 123616,
+      "num": 123616,
+      "word": "特朗普称伊朗新政权总统请求停火",
+      "onboard_time": 1775049803,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121217,
@@ -155,36 +203,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118063,
-      "num": 415383,
-      "word": "优思益声明",
-      "onboard_time": 1775042543,
-      "rank": 8,
+      "raw_hot": 118539,
+      "num": 400463,
+      "word": "你的公积金悄悄变多了",
+      "onboard_time": 1775028922,
+      "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111543,
-      "num": 424556,
-      "word": "伊朗总统说遵从最高领袖指示",
-      "onboard_time": 1775048603,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 106880,
-      "num": 106880,
-      "word": "女子瞒重病订婚向男友索600万治病",
-      "onboard_time": 1775049624,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104397,
-      "num": 104397,
-      "word": "特朗普称伊朗新政权总统请求停火",
-      "onboard_time": 1775049803,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103574,
@@ -203,44 +227,60 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99266,
-      "num": 82493,
-      "word": "金价急速上涨",
-      "onboard_time": 1775062220,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 92732,
-      "num": 92732,
-      "word": "迪丽热巴真的扭到我心巴上了",
-      "onboard_time": 1775061200,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 91127,
-      "num": 400463,
-      "word": "你的公积金悄悄变多了",
-      "onboard_time": 1775028922,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87434,
-      "num": 87434,
+      "raw_hot": 99666,
+      "num": 99666,
       "word": "美以伊地面战一触即发",
       "onboard_time": 1775060600,
       "rank": 34,
       "category": "国际时政"
     },
     {
-      "raw_hot": 77006,
-      "num": 80020,
+      "raw_hot": 99266,
+      "num": 92798,
+      "word": "金价急速上涨",
+      "onboard_time": 1775062220,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 94727,
+      "num": 94727,
+      "word": "伊朗10分钟5波导弹袭击以色列",
+      "onboard_time": 1775086339,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94168,
+      "num": 94168,
+      "word": "迪丽热巴真的扭到我心巴上了",
+      "onboard_time": 1775061200,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86418,
+      "num": 86418,
       "word": "七旬男子欲强奸女精神病人未遂",
       "onboard_time": 1775047583,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82273,
+      "num": 82273,
+      "word": "凯越机车致歉",
+      "onboard_time": 1775049744,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81916,
+      "num": 81916,
+      "word": "英首相回应特朗普贬损英国军力",
+      "onboard_time": 1775081296,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75892,
@@ -251,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72589,
-      "num": 72589,
-      "word": "凯越机车致歉",
-      "onboard_time": 1775049744,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 72609,
+      "num": 72609,
+      "word": "这才叫热锅凉油",
+      "onboard_time": 1775046142,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 70792,
@@ -267,12 +307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70347,
-      "num": 70347,
+      "raw_hot": 70672,
+      "num": 70672,
       "word": "内田有纪柏原崇结婚",
       "onboard_time": 1775043023,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67952,
+      "num": 67952,
+      "word": "公安发声支持张雪机车新手禁令",
+      "onboard_time": 1775066535,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66133,
@@ -283,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65986,
-      "num": 65986,
-      "word": "英首相回应特朗普贬损英国军力",
-      "onboard_time": 1775081296,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64366,
       "num": 64366,
       "word": "白敬亭也在用有线耳机",
@@ -299,11 +339,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58675,
-      "num": 58675,
-      "word": "这才叫热锅凉油",
-      "onboard_time": 1775046142,
-      "rank": 30,
+      "raw_hot": 61435,
+      "num": 61435,
+      "word": "很少用top来形容一个土豆",
+      "onboard_time": 1775085379,
+      "rank": 37,
       "category": "美食"
     },
     {
@@ -323,12 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52684,
-      "num": 52684,
-      "word": "公安发声支持张雪机车新手禁令",
-      "onboard_time": 1775066535,
-      "rank": 28,
+      "raw_hot": 53354,
+      "num": 53354,
+      "word": "妹妹看到姐姐遗体惨状当场崩溃",
+      "onboard_time": 1775041823,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53195,
+      "num": 53195,
+      "word": "伊朗否认请求停火",
+      "onboard_time": 1775086581,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51763,
@@ -371,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47982,
+      "num": 47982,
+      "word": "家事法庭",
+      "onboard_time": 1775055924,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47877,
       "num": 47877,
       "word": "丁程鑫发了严浩翔",
@@ -379,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46625,
-      "num": 47868,
-      "word": "妹妹看到姐姐遗体惨状当场崩溃",
-      "onboard_time": 1775041823,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 47536,
+      "num": 47536,
+      "word": "伊朗称特朗普社媒声明纯属子虚乌有",
+      "onboard_time": 1775061979,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45949,
@@ -393,6 +449,22 @@
       "onboard_time": 1775057603,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41561,
+      "num": 153041,
+      "word": "印尼马鲁古海峡7.4级地震",
+      "onboard_time": 1775085679,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 40715,
+      "num": 46858,
+      "word": "有商家把不能听歌的有线耳机当项链卖",
+      "onboard_time": 1775051724,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40306,
@@ -409,14 +481,6 @@
       "onboard_time": 1775050524,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35570,
-      "num": 45936,
-      "word": "有商家把不能听歌的有线耳机当项链卖",
-      "onboard_time": 1775051724,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35042,
@@ -451,28 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26658,
-      "num": 45928,
-      "word": "家事法庭",
-      "onboard_time": 1775055924,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25204,
       "num": 33786,
       "word": "杨紫直播",
       "onboard_time": 1775049864,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23849,
-      "num": 45920,
-      "word": "伊朗称特朗普社媒声明纯属子虚乌有",
-      "onboard_time": 1775061979,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21477,
@@ -499,8 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9208,
-      "num": 486249,
+      "raw_hot": 10533,
+      "num": 536735,
       "word": "十五五我们躬身加油干",
       "onboard_time": 1775048124,
       "rank": 2,

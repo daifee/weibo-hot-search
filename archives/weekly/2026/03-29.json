@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775084764939,
+  "endTime": 1775087056564,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787450,
+      "num": 506642,
+      "word": "以色列遭开战以来最大规模导弹袭击",
+      "onboard_time": 1775062099,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 787317,
       "num": 1125970,
       "word": "女子半年没回家卧室开窗变邻居阳台",
@@ -561,14 +569,6 @@
       "onboard_time": 1774799726,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676524,
-      "num": 470430,
-      "word": "以色列遭开战以来最大规模导弹袭击",
-      "onboard_time": 1775062099,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 664302,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485615,
+      "num": 941049,
+      "word": "与辉同行卖优思益销售额超千万",
+      "onboard_time": 1775058743,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483317,
       "num": 1077330,
       "word": "高市早苗对马克龙施展龟派气功",
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460113,
+      "num": 460113,
+      "word": "在美出生即公民或彻底终结",
+      "onboard_time": 1775085080,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454602,
       "num": 155999,
       "word": "陈妍希跟腱断裂",
@@ -1080,14 +1096,6 @@
       "word": "太原火灾最先起火视频曝光",
       "onboard_time": 1774751540,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 448088,
-      "num": 665878,
-      "word": "与辉同行卖优思益销售额超千万",
-      "onboard_time": 1775058743,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1619,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339089,
+      "num": 283059,
+      "word": "严屹宽鼓励张凌赫接受质疑",
+      "onboard_time": 1775056284,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337735,
       "num": 234885,
       "word": "妹妹看到姐姐遗体惨状当场崩溃",
@@ -1632,14 +1648,6 @@
       "word": "阿信寸头",
       "onboard_time": 1775055204,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336528,
-      "num": 283059,
-      "word": "严屹宽鼓励张凌赫接受质疑",
-      "onboard_time": 1775056284,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3187,6 +3195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 209038,
+      "num": 453113,
+      "word": "檀健次谢却山将军造型",
+      "onboard_time": 1775074394,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206835,
       "num": 312201,
       "word": "广州长隆回应狮子静坐淋雨",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1775004624,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198180,
+      "num": 117589,
+      "word": "医生谈全红婵减肥一天只吃一顿饭",
+      "onboard_time": 1775059221,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 198085,
@@ -3625,14 +3649,6 @@
       "onboard_time": 1774775909,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182683,
-      "num": 83358,
-      "word": "医生谈全红婵减肥一天只吃一顿饭",
-      "onboard_time": 1775059221,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 180705,
@@ -3963,14 +3979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165594,
-      "num": 453113,
-      "word": "檀健次谢却山将军造型",
-      "onboard_time": 1775074394,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165253,
       "num": 99664,
       "word": "宋亚轩宋小花",
@@ -4227,12 +4235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155704,
+      "num": 432919,
+      "word": "日本核原料能造5500枚核弹头",
+      "onboard_time": 1775059221,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155472,
       "num": 285145,
       "word": "伊朗最大岛屿遭美以袭击",
       "onboard_time": 1774931965,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155415,
+      "num": 106476,
+      "word": "孙俪演的生理厌恶太真实了",
+      "onboard_time": 1775086459,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 154874,
@@ -4339,6 +4363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150471,
+      "num": 104193,
+      "word": "保时捷女销售再夺一季度销冠",
+      "onboard_time": 1775063117,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150153,
       "num": 150153,
       "word": "Uzi队遭陪玩队零封",
@@ -4433,14 +4465,6 @@
       "onboard_time": 1774797931,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145703,
-      "num": 432919,
-      "word": "日本核原料能造5500枚核弹头",
-      "onboard_time": 1775059221,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 145501,
@@ -4921,14 +4945,6 @@
       "onboard_time": 1774933646,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131827,
-      "num": 81796,
-      "word": "保时捷女销售再夺一季度销冠",
-      "onboard_time": 1775063117,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131730,
@@ -6620,7 +6636,7 @@
     },
     {
       "raw_hot": 99266,
-      "num": 82493,
+      "num": 92798,
       "word": "金价急速上涨",
       "onboard_time": 1775062220,
       "rank": 21,
@@ -6963,6 +6979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94727,
+      "num": 94727,
+      "word": "伊朗10分钟5波导弹袭击以色列",
+      "onboard_time": 1775086339,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94613,
       "num": 122049,
       "word": "父亲称救在柬被困女儿已付两次赎金",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1774877784,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94168,
+      "num": 94168,
+      "word": "迪丽热巴真的扭到我心巴上了",
+      "onboard_time": 1775061200,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 94070,
@@ -7113,14 +7145,6 @@
       "onboard_time": 1774794689,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92732,
-      "num": 92732,
-      "word": "迪丽热巴真的扭到我心巴上了",
-      "onboard_time": 1775061200,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 92695,
@@ -8307,6 +8331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81916,
+      "num": 81916,
+      "word": "英首相回应特朗普贬损英国军力",
+      "onboard_time": 1775081296,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81859,
       "num": 81859,
       "word": "武汉一高校内现999秒超长红绿灯",
@@ -9339,6 +9371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 67952,
+      "num": 67952,
+      "word": "公安发声支持张雪机车新手禁令",
+      "onboard_time": 1775066535,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67713,
       "num": 67713,
       "word": "Milkway澄清假赛",
@@ -9441,14 +9481,6 @@
       "onboard_time": 1775061678,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65986,
-      "num": 65986,
-      "word": "英首相回应特朗普贬损英国军力",
-      "onboard_time": 1775081296,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65810,
@@ -9697,6 +9729,14 @@
       "onboard_time": 1774773810,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61435,
+      "num": 61435,
+      "word": "很少用top来形容一个土豆",
+      "onboard_time": 1775085379,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 61370,
@@ -10091,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53195,
+      "num": 53195,
+      "word": "伊朗否认请求停火",
+      "onboard_time": 1775086581,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52951,
       "num": 83181,
       "word": "中国AI不会因几张邀请函停滞",
@@ -10105,14 +10153,6 @@
       "onboard_time": 1774828163,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 52684,
-      "num": 52684,
-      "word": "公安发声支持张雪机车新手禁令",
-      "onboard_time": 1775066535,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52519,
@@ -10280,6 +10320,14 @@
       "word": "美以难阻伊朗导弹反击",
       "onboard_time": 1775064496,
       "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47536,
+      "num": 47536,
+      "word": "伊朗称特朗普社媒声明纯属子虚乌有",
+      "onboard_time": 1775061979,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -10457,6 +10505,14 @@
       "onboard_time": 1774796431,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41561,
+      "num": 153041,
+      "word": "印尼马鲁古海峡7.4级地震",
+      "onboard_time": 1775085679,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 41460,
@@ -10971,14 +11027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23849,
-      "num": 45920,
-      "word": "伊朗称特朗普社媒声明纯属子虚乌有",
-      "onboard_time": 1775061979,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23765,
       "num": 91331,
       "word": "海南高速一车辆开远光灯逆行",
@@ -11427,20 +11475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10533,
+      "num": 614558,
+      "word": "十五五我们躬身加油干",
+      "onboard_time": 1775048124,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10266,
       "num": 170892,
       "word": "和蒋奇明一起出发去创作",
       "onboard_time": 1774870522,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10141,
-      "num": 614558,
-      "word": "十五五我们躬身加油干",
-      "onboard_time": 1775048124,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8658,
