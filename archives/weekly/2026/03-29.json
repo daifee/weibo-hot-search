@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775045404308,
+  "endTime": 1775051484018,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -72,6 +72,14 @@
       "word": "鞠婧祎 收入明细",
       "onboard_time": 1774923746,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4238665,
+      "num": 247779,
+      "word": "马立奥有妹妹了",
+      "onboard_time": 1775049564,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 948321,
-      "num": 197432,
+      "num": 246925,
       "word": "内田有纪柏原崇结婚",
       "onboard_time": 1775043023,
       "rank": 42,
@@ -537,6 +545,14 @@
       "onboard_time": 1774863502,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 661483,
+      "num": 247116,
+      "word": "全红婵一天只吃一顿饭引热议",
+      "onboard_time": 1775047763,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 660964,
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 432547,
-      "num": 175492,
+      "num": 215677,
       "word": "严浩翔发的是刘耀文",
       "onboard_time": 1775035944,
       "rank": 26,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1774792228,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 426307,
+      "num": 259944,
+      "word": "李连杰 短剧",
+      "onboard_time": 1775043502,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 424188,
@@ -1243,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 393423,
+      "num": 213735,
+      "word": "马君妍马杨得女",
+      "onboard_time": 1775050344,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392165,
       "num": 392165,
       "word": "李维嘉不知道遗产传给谁",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1774915762,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371548,
+      "num": 246090,
+      "word": "甲骨文3万人一觉睡醒工作没了",
+      "onboard_time": 1775046383,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 371264,
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 337735,
-      "num": 193146,
+      "num": 234885,
       "word": "妹妹看到姐姐遗体惨状当场崩溃",
       "onboard_time": 1775041823,
       "rank": 15,
@@ -1515,6 +1555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 332882,
+      "num": 332882,
+      "word": "凯越机车致歉",
+      "onboard_time": 1775049744,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332040,
       "num": 1053126,
       "word": "中国将在长江水下开高铁",
@@ -1540,7 +1588,7 @@
     },
     {
       "raw_hot": 329177,
-      "num": 148939,
+      "num": 159387,
       "word": "丁程鑫发了严浩翔",
       "onboard_time": 1775035944,
       "rank": 23,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1774870283,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 303724,
+      "num": 245463,
+      "word": "杨紫直播",
+      "onboard_time": 1775049864,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 303347,
@@ -2179,14 +2235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259944,
-      "num": 259944,
-      "word": "李连杰 短剧",
-      "onboard_time": 1775043502,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259588,
       "num": 259588,
       "word": "时代少年团 卫龙",
@@ -2259,12 +2307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255402,
+      "num": 255402,
+      "word": "谁能演张雪",
+      "onboard_time": 1775045302,
+      "rank": 5,
+      "category": "民生新闻,作品衍生"
+    },
+    {
       "raw_hot": 252129,
       "num": 590830,
       "word": "广州高铁",
       "onboard_time": 1774780949,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252014,
+      "num": 252014,
+      "word": "WB战胜JDG",
+      "onboard_time": 1775050524,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 251362,
@@ -2291,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248725,
+      "num": 248725,
+      "word": "JDG对战WB",
+      "onboard_time": 1775041643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248656,
       "num": 248656,
       "word": "央视曝光优思益多平台下架",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1774790069,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245430,
+      "num": 245430,
+      "word": "无需粉底液这才是军人本色",
+      "onboard_time": 1775049803,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245165,
@@ -2835,6 +2915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213415,
+      "num": 213415,
+      "word": "男子遗产大半留给妻儿母亲弟弟不服",
+      "onboard_time": 1775049624,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213365,
       "num": 213365,
       "word": "女子被羁押821天无罪释放国赔被叫停",
@@ -2865,6 +2953,22 @@
       "onboard_time": 1774876764,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "特朗普称伊朗新政权总统请求停火",
+      "onboard_time": 1775049803,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212426,
+      "num": 213495,
+      "word": "英国首相回应特朗普要退出北约",
+      "onboard_time": 1775045121,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212328,
@@ -2992,6 +3096,14 @@
       "word": "美海军第五舰队设施遭精准打击",
       "onboard_time": 1774800623,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 203984,
+      "num": 247995,
+      "word": "伊朗总统说遵从最高领袖指示",
+      "onboard_time": 1775048603,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -3305,6 +3417,14 @@
       "onboard_time": 1774887921,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186256,
+      "num": 186256,
+      "word": "女子遭屠夫儿子杀害时被十余人目睹",
+      "onboard_time": 1775048363,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186152,
@@ -3731,6 +3851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164096,
+      "num": 136089,
+      "word": "高市早苗对马克龙施展龟派气功",
+      "onboard_time": 1775050945,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163835,
       "num": 508915,
       "word": "伊朗最高领袖感谢伊拉克人民",
@@ -4075,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149545,
+      "num": 149545,
+      "word": "这才叫热锅凉油",
+      "onboard_time": 1775046142,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149412,
       "num": 149412,
       "word": "一中国人涉及超7亿房产在英被冻结",
@@ -4411,6 +4547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137318,
+      "num": 137318,
+      "word": "金鹤龙给迪丽热巴化的美神灵主妆",
+      "onboard_time": 1775050103,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137309,
       "num": 571729,
       "word": "文旅局回应宠物友好酒店推荐吃狗肉",
@@ -4481,6 +4625,14 @@
       "onboard_time": 1774970123,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134510,
+      "num": 134510,
+      "word": "明星买张雪机车也得排队",
+      "onboard_time": 1775046742,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 134487,
@@ -4739,6 +4891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127487,
+      "num": 127487,
+      "word": "七旬男子欲强奸女精神病人未遂",
+      "onboard_time": 1775047583,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127359,
       "num": 932044,
       "word": "村民办白事酒席老外误当成饭店",
@@ -4913,14 +5073,6 @@
       "onboard_time": 1774941625,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122540,
-      "num": 119601,
-      "word": "英国首相回应特朗普要退出北约",
-      "onboard_time": 1775045121,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122514,
@@ -5131,12 +5283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "陈都灵工作室连夜招人整改",
+      "onboard_time": 1775050883,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117500,
       "num": 117500,
       "word": "怀疑手机坏了都没怀疑林一",
       "onboard_time": 1775028324,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117497,
+      "num": 117497,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1775047884,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 117346,
@@ -5883,6 +6051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104655,
+      "num": 104655,
+      "word": "女子瞒重病订婚向男友索600万治病",
+      "onboard_time": 1775049624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104646,
       "num": 104646,
       "word": "两个手握20个经典角色的人合作了",
@@ -5929,6 +6105,14 @@
       "onboard_time": 1774941863,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103481,
+      "num": 103481,
+      "word": "JDG遗憾止步春季赛",
+      "onboard_time": 1775050763,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 103175,
@@ -6032,6 +6216,14 @@
       "word": "AL战胜TES",
       "onboard_time": 1774875743,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101135,
+      "num": 101135,
+      "word": "暖阳七连MVP",
+      "onboard_time": 1775051125,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -6275,12 +6467,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 97967,
-      "num": 97967,
-      "word": "JDG对战WB",
-      "onboard_time": 1775041643,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 97973,
+      "num": 97973,
+      "word": "瘫痪小孩为拿手机奇迹站立",
+      "onboard_time": 1775044283,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 97848,
@@ -6321,14 +6513,6 @@
       "onboard_time": 1774831166,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97399,
-      "num": 97399,
-      "word": "瘫痪小孩为拿手机奇迹站立",
-      "onboard_time": 1775044283,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 97347,
@@ -6601,6 +6785,14 @@
       "onboard_time": 1774958004,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93052,
+      "num": 93052,
+      "word": "白鹿新剧莫离夏天播出",
+      "onboard_time": 1775045362,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93025,
@@ -6953,6 +7145,14 @@
       "onboard_time": 1774879105,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89721,
+      "num": 89721,
+      "word": "日本超市卖蔬菜边角料",
+      "onboard_time": 1775050284,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89686,
@@ -7403,6 +7603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85267,
+      "num": 85267,
+      "word": "洛克王国世界轮椅精灵",
+      "onboard_time": 1775051364,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84930,
       "num": 84930,
       "word": "鹿晗发五哈预告",
@@ -7691,14 +7899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 82425,
-      "num": 82425,
-      "word": "白鹿新剧莫离夏天播出",
-      "onboard_time": 1775045362,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82401,
       "num": 795531,
       "word": "多地投资者买老破小以租养贷",
@@ -7888,6 +8088,14 @@
       "word": "女子面馆当众2掌扇懵男孩",
       "onboard_time": 1774761141,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80231,
+      "num": 80231,
+      "word": "钧正平报告81192",
+      "onboard_time": 1775049085,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -9611,6 +9819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49844,
+      "num": 629727,
+      "word": "雄安新区9岁了",
+      "onboard_time": 1775048423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49504,
       "num": 453903,
       "word": "巴西一起飞客机发动机爆炸",
@@ -9985,6 +10201,14 @@
       "onboard_time": 1774723875,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36935,
+      "num": 213921,
+      "word": "小学要求早上6点40到校否则罚站",
+      "onboard_time": 1775050826,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36837,
@@ -10831,6 +11055,9 @@
     },
     {
       "word": "#干事创业一定要树立正确政绩观#"
+    },
+    {
+      "word": "#为山川大地增添锦绣#"
     }
   ]
 }
