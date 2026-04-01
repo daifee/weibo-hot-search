@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/04/02 01:29:57
+本榜单时间：2026/03/29 00:43:57 ~ 2026/04/02 02:10:49
 </p>
 </blockquote>
 <p>
@@ -8043,6 +8043,12 @@ Patagonia回应要收地球使用费（热度：40094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E5%8F%91%E5%A3%B0%E6%94%AF%E6%8C%81%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%96%B0%E6%89%8B%E7%A6%81%E4%BB%A4%23" target="weibo">
+公安发声支持张雪机车新手禁令（热度：31304）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%BF%97%E4%BC%9F%E8%AF%B4%E9%9B%AA%E9%A5%BC%E7%8C%B4%E6%98%AF%E8%A1%A8%E6%BC%94%E5%A4%A9%E6%89%8D%23" target="weibo">
 曾志伟说雪饼猴是表演天才（热度：31063）
 </a>
@@ -8283,6 +8289,12 @@ vivo称V单是影像新物种（热度：24968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%B4%AB%E8%89%B2%E6%97%97%E8%A2%8D%E7%9B%B4%E6%92%AD%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨紫紫色旗袍直播造型（热度：21477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%94%AC%E8%8F%9C%E9%AB%98%E5%B8%82%E5%9C%BA%E4%BB%B73%E5%80%8D%E8%A2%AB%E8%B4%A8%E7%96%91%23" target="weibo">
 中学食堂蔬菜高市场价3倍被质疑（热度：21035）
 </a>
@@ -8297,6 +8309,12 @@ vivo称V单是影像新物种（热度：24968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%AF%B4%E5%BE%90%E5%BF%97%E8%83%9C%E6%98%AF%E8%87%80%E9%83%A8%E8%89%BA%E4%BA%BA%23" target="weibo">
 李雪琴说徐志胜是臀部艺人（热度：20506）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BE%E5%AA%92%E5%A3%B0%E6%98%8E%E7%BA%AF%E5%B1%9E%E5%AD%90%E8%99%9A%E4%B9%8C%E6%9C%89%23" target="weibo">
+伊朗称特朗普社媒声明纯属子虚乌有（热度：20237）
 </a>
 </li>
 
