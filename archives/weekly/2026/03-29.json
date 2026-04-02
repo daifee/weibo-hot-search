@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775098235387,
+  "endTime": 1775100767742,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 923585,
+      "num": 220905,
+      "word": "黄金",
+      "onboard_time": 1775097680,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 915394,
       "num": 249686,
       "word": "人民日报曾评单依纯李白改编争议",
@@ -537,6 +545,14 @@
       "onboard_time": 1774765521,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713342,
+      "num": 638589,
+      "word": "特朗普话音刚落伊朗导弹袭向以色列",
+      "onboard_time": 1775097920,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 705023,
@@ -1227,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416927,
+      "num": 156951,
+      "word": "曝短剧男顶忘本",
+      "onboard_time": 1775098520,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414118,
       "num": 193757,
       "word": "徐良演唱会时薪4000",
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 388472,
-      "num": 221030,
+      "num": 249701,
       "word": "伊朗总统致美国人民公开信",
       "onboard_time": 1775089102,
       "rank": 6,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1774960227,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334779,
+      "num": 156039,
+      "word": "王菲俞飞鸿聚餐",
+      "onboard_time": 1775098820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 334127,
@@ -2427,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260271,
+      "num": 260271,
+      "word": "何穗带娃看小动物",
+      "onboard_time": 1775095280,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259588,
       "num": 259588,
       "word": "时代少年团 卫龙",
@@ -2499,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255451,
-      "num": 220905,
-      "word": "黄金",
-      "onboard_time": 1775097680,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 255402,
       "num": 255402,
       "word": "谁能演张雪",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1774752321,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250169,
+      "num": 220843,
+      "word": "肖战出发青岛",
+      "onboard_time": 1775096601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 249957,
@@ -2593,14 +2633,6 @@
       "onboard_time": 1774935326,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246739,
-      "num": 220843,
-      "word": "肖战出发青岛",
-      "onboard_time": 1775096601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 246658,
@@ -2763,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236458,
+      "num": 236458,
+      "word": "宝珠",
+      "onboard_time": 1775099481,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235946,
       "num": 189791,
       "word": "14岁男生杀害同学家属下跪求原谅",
@@ -2859,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229557,
+      "num": 220992,
+      "word": "美国50多年来首次载人飞向月球",
+      "onboard_time": 1775090002,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229522,
       "num": 229522,
       "word": "十二星座4月月运",
@@ -2913,14 +2961,6 @@
       "onboard_time": 1774858284,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 227763,
-      "num": 220992,
-      "word": "美国50多年来首次载人飞向月球",
-      "onboard_time": 1775090002,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 227354,
@@ -3043,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222980,
+      "num": 222980,
+      "word": "张雪机车夺冠含金量",
+      "onboard_time": 1775089824,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222663,
       "num": 134017,
       "word": "垫底辣孩回应脸变了",
@@ -3091,28 +3139,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 221071,
-      "num": 221071,
-      "word": "张雪机车夺冠含金量",
-      "onboard_time": 1775089824,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220813,
       "num": 220813,
       "word": "电动车涨价原因",
       "onboard_time": 1774855163,
       "rank": 4,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 220639,
-      "num": 220639,
-      "word": "何穗带娃看小动物",
-      "onboard_time": 1775095280,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 220115,
@@ -3995,6 +4027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170320,
+      "num": 170320,
+      "word": "主播陆续回应优思益售后",
+      "onboard_time": 1775098700,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170041,
       "num": 170041,
       "word": "伊朗导弹高速突破以色列拦截",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1774746321,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160577,
+      "num": 160577,
+      "word": "疯狂动物城2预约人数近千万",
+      "onboard_time": 1775100081,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 159933,
@@ -4617,6 +4665,22 @@
       "onboard_time": 1775025682,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145418,
+      "num": 145023,
+      "word": "白日提灯热度",
+      "onboard_time": 1775088682,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145180,
+      "num": 145180,
+      "word": "赵一鸣零食店回应不给学生发薪",
+      "onboard_time": 1775099481,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145145,
@@ -5355,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125712,
+      "num": 125712,
+      "word": "侮辱赵丽颖的汪诚公开道歉",
+      "onboard_time": 1775099961,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125589,
       "num": 125589,
       "word": "WBG战胜iG",
@@ -5603,6 +5675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119852,
+      "num": 119852,
+      "word": "有线耳机被淘汰10年翻红 销量暴涨",
+      "onboard_time": 1775099542,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119716,
       "num": 141753,
       "word": "镜头暴力",
@@ -5779,6 +5859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117030,
+      "num": 220962,
+      "word": "加油站开业请模特穿紧身短裙搞促销",
+      "onboard_time": 1775096541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116971,
       "num": 142669,
       "word": "初中毕业的张雪凭什么造出顶级发动机",
@@ -5881,14 +5969,6 @@
       "onboard_time": 1774925726,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114188,
-      "num": 220962,
-      "word": "加油站开业请模特穿紧身短裙搞促销",
-      "onboard_time": 1775096541,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113891,
@@ -6225,6 +6305,14 @@
       "onboard_time": 1774777708,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108723,
+      "num": 108723,
+      "word": "武大靖回复张雪",
+      "onboard_time": 1775099961,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 108475,
@@ -6611,6 +6699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101827,
+      "num": 101827,
+      "word": "当我以为熬到5点没有影响",
+      "onboard_time": 1775098041,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101779,
       "num": 126328,
       "word": "白日提灯短剧排播",
@@ -6705,6 +6801,14 @@
       "onboard_time": 1774856783,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100754,
+      "num": 100754,
+      "word": "伊朗以色列同时大规模互袭",
+      "onboard_time": 1775098342,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100672,
@@ -6833,6 +6937,14 @@
       "onboard_time": 1775043142,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99354,
+      "num": 99354,
+      "word": "妈妈甚至以为家里出了个学霸",
+      "onboard_time": 1775097801,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 99262,
@@ -7153,14 +7265,6 @@
       "onboard_time": 1774949363,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95412,
-      "num": 95412,
-      "word": "特朗普话音刚落伊朗导弹袭向以色列",
-      "onboard_time": 1775097920,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95054,
@@ -7812,7 +7916,7 @@
     },
     {
       "raw_hot": 89066,
-      "num": 83607,
+      "num": 85656,
       "word": "狗 不赖我是张美玲",
       "onboard_time": 1775097624,
       "rank": 39,
@@ -7857,6 +7961,14 @@
       "onboard_time": 1774965026,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88570,
+      "num": 88570,
+      "word": "张雪机车比赛中换轮胎一幕",
+      "onboard_time": 1775097624,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88482,
@@ -7931,6 +8043,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 87751,
+      "num": 87751,
+      "word": "张雪因意见不合从凯越净身出户",
+      "onboard_time": 1775100141,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87738,
       "num": 87738,
       "word": "老辈子等放假vs我等放假",
@@ -7952,6 +8072,14 @@
       "word": "这些豆腐其实不含豆",
       "onboard_time": 1774917083,
       "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87625,
+      "num": 87625,
+      "word": "原来锅贴是真的贴在锅上的",
+      "onboard_time": 1775098581,
+      "rank": 46,
       "category": "美食"
     },
     {
@@ -8163,6 +8291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85428,
+      "num": 159038,
+      "word": "夫妻出卖5名亲生子女被判刑",
+      "onboard_time": 1775099781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85405,
       "num": 85405,
       "word": "韩国0比4惨败科特迪瓦",
@@ -8329,14 +8465,6 @@
       "onboard_time": 1774881146,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84243,
-      "num": 84243,
-      "word": "白日提灯热度",
-      "onboard_time": 1775088682,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 84185,
@@ -8731,6 +8859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79868,
+      "num": 79868,
+      "word": "原来i人看e人是这种感觉",
+      "onboard_time": 1775100742,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79840,
       "num": 888538,
       "word": "汪苏泷巡演",
@@ -8755,20 +8891,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79693,
+      "num": 79693,
+      "word": "怪不得上大学老了这么多",
+      "onboard_time": 1775100622,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79599,
       "num": 532266,
       "word": "蔡依林演唱会",
       "onboard_time": 1774802303,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79562,
-      "num": 79562,
-      "word": "当我以为熬到5点没有影响",
-      "onboard_time": 1775098041,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 79559,
@@ -9153,14 +9289,6 @@
       "onboard_time": 1774741699,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75563,
-      "num": 82571,
-      "word": "妈妈甚至以为家里出了个学霸",
-      "onboard_time": 1775097801,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 75560,
@@ -11059,6 +11187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33624,
+      "num": 674893,
+      "word": "天宫画展再上新",
+      "onboard_time": 1775098700,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33401,
       "num": 80348,
       "word": "金价又涨了",
@@ -11673,6 +11809,14 @@
       "onboard_time": 1775069835,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15627,
+      "num": 93282,
+      "word": "这才是我磕的双生姐妹花",
+      "onboard_time": 1775099781,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 15413,
