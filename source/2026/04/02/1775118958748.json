@@ -1,0 +1,410 @@
+{
+  "runTime": 1775118958748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485358,
+        "num": 1485358,
+        "word": "泰国女星遭救援人员性侵拍裸照",
+        "onboard_time": 1775115442,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 566759,
+        "num": 924944,
+        "word": "女子104000元买80g金条店员报警",
+        "onboard_time": 1775116342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33706,
+        "num": 687788,
+        "word": "又是赏花好时节",
+        "onboard_time": 1775113701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 608042,
+        "num": 608042,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1775116342,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309190,
+        "num": 309190,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707076,
+        "num": 277064,
+        "word": "导师和导员都沉默了",
+        "onboard_time": 1775114241,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602425,
+        "num": 274326,
+        "word": "张杰回应张凌赫送花篮",
+        "onboard_time": 1775115082,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243737,
+        "num": 243737,
+        "word": "优思益营销策划公司被立案调查",
+        "onboard_time": 1775101941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232209,
+        "num": 232209,
+        "word": "美国一婴儿光天化日在街头被枪杀",
+        "onboard_time": 1775109862,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70880,
+        "num": 179827,
+        "word": "中方回应特朗普鼓动各国抢石油",
+        "onboard_time": 1775118201,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544443,
+        "num": 179780,
+        "word": "美国不管霍尔木兹海峡了",
+        "onboard_time": 1775115022,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269082,
+        "num": 173567,
+        "word": "李若彤发布致歉声明",
+        "onboard_time": 1775100982,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 165287,
+        "num": 165287,
+        "word": "阿花花酱 优思益",
+        "onboard_time": 1775109682,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 153738,
+        "num": 153738,
+        "word": "张雪师父牙哥发声",
+        "onboard_time": 1775113461,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145169,
+        "num": 145169,
+        "word": "董宇辉曾说产品上播10天前有人试吃",
+        "onboard_time": 1775106383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144778,
+        "num": 144778,
+        "word": "男孩捡50g金条咬了一口竟是真的",
+        "onboard_time": 1775105782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142234,
+        "num": 142234,
+        "word": "刘晓艳网课现场没有学生一个人聊嗨了",
+        "onboard_time": 1775107402,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38372,
+        "num": 118252,
+        "word": "美国为何只绕月不登月",
+        "onboard_time": 1775117901,
+        "rank": 17,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 41642,
+        "num": 113770,
+        "word": "美军主力机型损失惨重",
+        "onboard_time": 1775118022,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29292,
+        "num": 111893,
+        "word": "多名带货博主宣布全额退款",
+        "onboard_time": 1775118562,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111167,
+        "num": 111167,
+        "word": "胡彦斌连夜关闭了人脸支付",
+        "onboard_time": 1775107042,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107704,
+        "num": 107704,
+        "word": "比papi更像苏菲玛索的人找到了",
+        "onboard_time": 1775115323,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104563,
+        "num": 104563,
+        "word": "银行回应老人存10万变7万",
+        "onboard_time": 1775105601,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107604,
+        "num": 103480,
+        "word": "周杰伦白西装昆凌黑羽绒服",
+        "onboard_time": 1775115262,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102366,
+        "num": 102366,
+        "word": "乘风一口气官宣34位送考人",
+        "onboard_time": 1775105963,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99181,
+        "num": 99181,
+        "word": "主播陆续回应优思益售后",
+        "onboard_time": 1775098700,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97155,
+        "num": 97155,
+        "word": "伊朗拒绝谈判的真实底牌",
+        "onboard_time": 1775114841,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95766,
+        "num": 95766,
+        "word": "张凌赫科普自闭症不是心理疾病",
+        "onboard_time": 1775114062,
+        "rank": 27,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 94450,
+        "num": 94450,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93455,
+        "num": 93455,
+        "word": "与辉同行回应带货产品被曝假进口",
+        "onboard_time": 1775116042,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93426,
+        "num": 93426,
+        "word": "张雪机车夺冠车手发声",
+        "onboard_time": 1775118741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91730,
+        "num": 91730,
+        "word": "女子哭诉3个兄妹不照顾92岁母亲",
+        "onboard_time": 1775117421,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90526,
+        "num": 90526,
+        "word": "熬夜在身上留下的明显反应",
+        "onboard_time": 1775117361,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88027,
+        "num": 88027,
+        "word": "新疆吐鲁番4.7级地震",
+        "onboard_time": 1775116582,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 87983,
+        "num": 87983,
+        "word": "华谊兄弟34个银行账号被冻结",
+        "onboard_time": 1775118922,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87230,
+        "num": 87230,
+        "word": "肖战网文五大热门ip集齐四个",
+        "onboard_time": 1775106921,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86423,
+        "num": 86423,
+        "word": "官方通报天湖医院解聘全体职工",
+        "onboard_time": 1775113102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81909,
+        "num": 81909,
+        "word": "许昕说国家队大门永远给所有人打开",
+        "onboard_time": 1775112081,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81786,
+        "num": 81786,
+        "word": "糯米藕",
+        "onboard_time": 1775116882,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51942,
+        "num": 80517,
+        "word": "师傅称打算用张雪的820做航空发动机",
+        "onboard_time": 1775118081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80273,
+        "num": 80273,
+        "word": "带娃一个月终于懂了妈妈的月子病",
+        "onboard_time": 1775118741,
+        "rank": 40,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 80068,
+        "num": 80068,
+        "word": "黄杨钿甜新剧被鞭刑梦回小楚乔",
+        "onboard_time": 1775111782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70371,
+        "num": 78159,
+        "word": "王楚钦说香港总决赛受伤呼吸都疼",
+        "onboard_time": 1775117722,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76610,
+        "num": 76610,
+        "word": "刘亦菲老钱风大片",
+        "onboard_time": 1775110102,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76157,
+        "num": 76157,
+        "word": "原来涮火锅也可以减肥",
+        "onboard_time": 1775118441,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73032,
+        "num": 73032,
+        "word": "肖战现身青岛",
+        "onboard_time": 1775111661,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72314,
+        "num": 72314,
+        "word": "山西一饭店发现3人死亡",
+        "onboard_time": 1775118501,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72198,
+        "num": 72198,
+        "word": "比亚迪销量",
+        "onboard_time": 1775118922,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71674,
+        "num": 71674,
+        "word": "小时候睡凉席的我",
+        "onboard_time": 1775117062,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70598,
+        "num": 70598,
+        "word": "清明拼假4天休9天",
+        "onboard_time": 1775114062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}

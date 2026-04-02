@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775114668568,
+  "endTime": 1775118958748,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -209,6 +209,14 @@
       "onboard_time": 1774778551,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1485358,
+      "num": 1485358,
+      "word": "泰国女星遭救援人员性侵拍裸照",
+      "onboard_time": 1775115442,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1359514,
@@ -571,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 707076,
+      "num": 277064,
+      "word": "导师和导员都沉默了",
+      "onboard_time": 1775114241,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 705023,
       "num": 1112803,
       "word": "有线耳机爆火原因",
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 608042,
+      "num": 608042,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1775116342,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 607475,
       "num": 172036,
       "word": "网易云封号",
@@ -745,6 +769,14 @@
       "onboard_time": 1775031682,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 602425,
+      "num": 274326,
+      "word": "张杰回应张凌赫送花篮",
+      "onboard_time": 1775115082,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 595025,
@@ -827,6 +859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 566759,
+      "num": 924944,
+      "word": "女子104000元买80g金条店员报警",
+      "onboard_time": 1775116342,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565173,
       "num": 1090427,
       "word": "退18.8万元彩礼一家人现状",
@@ -881,6 +921,14 @@
       "onboard_time": 1774785207,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544443,
+      "num": 179780,
+      "word": "美国不管霍尔木兹海峡了",
+      "onboard_time": 1775115022,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 541150,
@@ -6299,14 +6347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114256,
-      "num": 89544,
-      "word": "导师和导员都沉默了",
-      "onboard_time": 1775114241,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 114236,
       "num": 114236,
       "word": "对大型犬的体型有了概念",
@@ -6793,6 +6833,22 @@
       "onboard_time": 1775100742,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107704,
+      "num": 107704,
+      "word": "比papi更像苏菲玛索的人找到了",
+      "onboard_time": 1775115323,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107604,
+      "num": 103480,
+      "word": "周杰伦白西装昆凌黑羽绒服",
+      "onboard_time": 1775115262,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 107206,
@@ -7555,6 +7611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97155,
+      "num": 97155,
+      "word": "伊朗拒绝谈判的真实底牌",
+      "onboard_time": 1775114841,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96845,
       "num": 128192,
       "word": "全红婵19岁发文",
@@ -7835,6 +7899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93455,
+      "num": 93455,
+      "word": "与辉同行回应带货产品被曝假进口",
+      "onboard_time": 1775116042,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93426,
+      "num": 93426,
+      "word": "张雪机车夺冠车手发声",
+      "onboard_time": 1775118741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93331,
       "num": 93331,
       "word": "向佐好像追星成功郭碧婷",
@@ -8027,6 +8107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91730,
+      "num": 91730,
+      "word": "女子哭诉3个兄妹不照顾92岁母亲",
+      "onboard_time": 1775117421,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 91727,
       "num": 91727,
       "word": "特朗普政府升级对华学术封锁",
@@ -8169,6 +8257,14 @@
       "onboard_time": 1775000360,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90526,
+      "num": 90526,
+      "word": "熬夜在身上留下的明显反应",
+      "onboard_time": 1775117361,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90521,
@@ -8513,6 +8609,22 @@
       "onboard_time": 1775056104,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88027,
+      "num": 88027,
+      "word": "新疆吐鲁番4.7级地震",
+      "onboard_time": 1775116582,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 87983,
+      "num": 87983,
+      "word": "华谊兄弟34个银行账号被冻结",
+      "onboard_time": 1775118922,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 87880,
@@ -9235,6 +9347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81786,
+      "num": 81786,
+      "word": "糯米藕",
+      "onboard_time": 1775116882,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81730,
       "num": 81730,
       "word": "KSG 打野",
@@ -9329,6 +9449,14 @@
       "onboard_time": 1774789347,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80273,
+      "num": 80273,
+      "word": "带娃一个月终于懂了妈妈的月子病",
+      "onboard_time": 1775118741,
+      "rank": 40,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 80256,
@@ -9771,6 +9899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76157,
+      "num": 76157,
+      "word": "原来涮火锅也可以减肥",
+      "onboard_time": 1775118441,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76077,
       "num": 76077,
       "word": "这不是鼠标是狗标吧",
@@ -10083,12 +10219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72314,
+      "num": 72314,
+      "word": "山西一饭店发现3人死亡",
+      "onboard_time": 1775118501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72258,
       "num": 72258,
       "word": "上班有三到",
       "onboard_time": 1775111722,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72198,
+      "num": 72198,
+      "word": "比亚迪销量",
+      "onboard_time": 1775118922,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 72131,
@@ -10137,6 +10289,14 @@
       "onboard_time": 1774707024,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71674,
+      "num": 71674,
+      "word": "小时候睡凉席的我",
+      "onboard_time": 1775117062,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 71610,
@@ -10211,6 +10371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70880,
+      "num": 179827,
+      "word": "中方回应特朗普鼓动各国抢石油",
+      "onboard_time": 1775118201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70875,
       "num": 70875,
       "word": "仇人看到倪妮这段都释怀了",
@@ -10257,6 +10425,14 @@
       "onboard_time": 1775036543,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70371,
+      "num": 78159,
+      "word": "王楚钦说香港总决赛受伤呼吸都疼",
+      "onboard_time": 1775117722,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70134,
@@ -11203,6 +11379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51942,
+      "num": 80517,
+      "word": "师傅称打算用张雪的820做航空发动机",
+      "onboard_time": 1775118081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51763,
       "num": 60075,
       "word": "小车停车库半年车身写满留言",
@@ -11555,6 +11739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41642,
+      "num": 113770,
+      "word": "美军主力机型损失惨重",
+      "onboard_time": 1775118022,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41460,
       "num": 82286,
       "word": "Angelababy梦回贝微微",
@@ -11715,6 +11907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38372,
+      "num": 118252,
+      "word": "美国为何只绕月不登月",
+      "onboard_time": 1775117901,
+      "rank": 17,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 37855,
       "num": 81684,
       "word": "太原一商圈起火现场浓烟滚滚",
@@ -11795,6 +11995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33706,
+      "num": 687788,
+      "word": "又是赏花好时节",
+      "onboard_time": 1775113701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33624,
       "num": 674893,
       "word": "天宫画展再上新",
@@ -11817,14 +12025,6 @@
       "onboard_time": 1774926923,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32990,
-      "num": 665517,
-      "word": "又是赏花好时节",
-      "onboard_time": 1775113701,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32495,
@@ -11929,6 +12129,14 @@
       "onboard_time": 1774944261,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 29292,
+      "num": 111893,
+      "word": "多名带货博主宣布全额退款",
+      "onboard_time": 1775118562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29167,
