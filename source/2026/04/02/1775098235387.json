@@ -1,0 +1,410 @@
+{
+  "runTime": 1775098235387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943254,
+        "num": 1150920,
+        "word": "日本终于露出獠牙",
+        "onboard_time": 1775089824,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 839389,
+        "num": 841134,
+        "word": "张雪想卖陈光标赠送豪车给嫣然捐款",
+        "onboard_time": 1775096360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7877,
+        "num": 680805,
+        "word": "有一种传承叫刘老庄连",
+        "onboard_time": 1775098041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301718,
+        "num": 301718,
+        "word": "保时捷女销售再夺一季度销冠",
+        "onboard_time": 1775063117,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221071,
+        "num": 221071,
+        "word": "张雪机车夺冠含金量",
+        "onboard_time": 1775089824,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555415,
+        "num": 221047,
+        "word": "收到了去世好友的微信回复",
+        "onboard_time": 1775055624,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388472,
+        "num": 221030,
+        "word": "伊朗总统致美国人民公开信",
+        "onboard_time": 1775089102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227763,
+        "num": 220992,
+        "word": "美国50多年来首次载人飞向月球",
+        "onboard_time": 1775090002,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131445,
+        "num": 220971,
+        "word": "与辉同行卖优思益销售额超千万",
+        "onboard_time": 1775058743,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114188,
+        "num": 220962,
+        "word": "加油站开业请模特穿紧身短裙搞促销",
+        "onboard_time": 1775096541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288782,
+        "num": 220913,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255451,
+        "num": 220905,
+        "word": "黄金",
+        "onboard_time": 1775097680,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247995,
+        "num": 220857,
+        "word": "王者荣耀无双",
+        "onboard_time": 1775087240,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246739,
+        "num": 220843,
+        "word": "肖战出发青岛",
+        "onboard_time": 1775096601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244696,
+        "num": 220822,
+        "word": "美国TikTok禁令演不下去了吗",
+        "onboard_time": 1775090603,
+        "rank": 14,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 371051,
+        "num": 220796,
+        "word": "特朗普就伊朗问题发表讲话",
+        "onboard_time": 1775092521,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243865,
+        "num": 220764,
+        "word": "女子深夜搭网约车遭摸腿性骚扰",
+        "onboard_time": 1775093301,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10235,
+        "num": 220734,
+        "word": "十五五我们躬身加油干",
+        "onboard_time": 1775048124,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153400,
+        "num": 220710,
+        "word": "伊朗最高领袖首次讲话",
+        "onboard_time": 1775091262,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 220670,
+        "word": "张凌赫新华社讲述星星的孩子",
+        "onboard_time": 1775097200,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 355449,
+        "num": 220658,
+        "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
+        "onboard_time": 1775089402,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220639,
+        "num": 220639,
+        "word": "何穗带娃看小动物",
+        "onboard_time": 1775095280,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217683,
+        "num": 217683,
+        "word": "4个炒菜习惯或让致癌物翻倍",
+        "onboard_time": 1775092821,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193879,
+        "num": 193879,
+        "word": "特朗普称未来两三周更猛烈打击伊朗",
+        "onboard_time": 1775094501,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162399,
+        "num": 162399,
+        "word": "幼儿园小朋友裹被子开溜被老师抓包",
+        "onboard_time": 1775095161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125778,
+        "num": 125778,
+        "word": "4岁女孩买汉堡遭女子踢踹母亲发声",
+        "onboard_time": 1775095220,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "伊朗10分钟5波导弹袭击以色列",
+        "onboard_time": 1775086339,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121023,
+        "num": 121023,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1775094800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 108738,
+        "word": "以色列遭开战以来最大规模导弹袭击",
+        "onboard_time": 1775062099,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 100257,
+        "word": "又被老祖宗的黄衣服审美硬控了",
+        "onboard_time": 1775097200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98264,
+        "num": 98264,
+        "word": "A股",
+        "onboard_time": 1775097260,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95412,
+        "num": 95412,
+        "word": "特朗普话音刚落伊朗导弹袭向以色列",
+        "onboard_time": 1775097920,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94994,
+        "num": 94994,
+        "word": "周杰伦藏了10余年的求婚画面将公开",
+        "onboard_time": 1775088322,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94648,
+        "num": 94648,
+        "word": "特朗普称若无协议将袭伊所有发电厂",
+        "onboard_time": 1775097380,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93961,
+        "num": 93961,
+        "word": "感觉迪丽热巴从头到脚都香香的",
+        "onboard_time": 1775093840,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93212,
+        "num": 93212,
+        "word": "教体局回应小学要求早上6点40到校",
+        "onboard_time": 1775097380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89597,
+        "num": 89597,
+        "word": "特朗普称美国不需要霍尔木兹海峡",
+        "onboard_time": 1775096360,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89365,
+        "num": 89365,
+        "word": "孙俪演的生理厌恶太真实了",
+        "onboard_time": 1775086459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84243,
+        "num": 84243,
+        "word": "白日提灯热度",
+        "onboard_time": 1775088682,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89066,
+        "num": 83607,
+        "word": "狗 不赖我是张美玲",
+        "onboard_time": 1775097624,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75563,
+        "num": 82571,
+        "word": "妈妈甚至以为家里出了个学霸",
+        "onboard_time": 1775097801,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81657,
+        "num": 81657,
+        "word": "谢楠发芒果跳刀马",
+        "onboard_time": 1775095881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79562,
+        "num": 79562,
+        "word": "当我以为熬到5点没有影响",
+        "onboard_time": 1775098041,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79238,
+        "num": 79238,
+        "word": "张雪师父评价张雪夫妇",
+        "onboard_time": 1775095161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77260,
+        "num": 77260,
+        "word": "马立奥有妹妹了",
+        "onboard_time": 1775049564,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77181,
+        "num": 77181,
+        "word": "为什么木耳不能直接用水泡",
+        "onboard_time": 1775054905,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 75560,
+        "num": 75560,
+        "word": "张雪与湖南卫视立下新承诺",
+        "onboard_time": 1775091084,
+        "rank": 46,
+        "category": "综艺,民生新闻"
+      },
+      {
+        "raw_hot": 73397,
+        "num": 73397,
+        "word": "国乒男线对德国3连败",
+        "onboard_time": 1775055324,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70668,
+        "num": 70668,
+        "word": "陈妍希出院回家",
+        "onboard_time": 1775094200,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67369,
+        "num": 67369,
+        "word": "张凌赫田曦薇对戏花絮",
+        "onboard_time": 1775091861,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
