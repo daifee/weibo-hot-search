@@ -1,0 +1,410 @@
+{
+  "runTime": 1775106660912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1003961,
+        "num": 1160633,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458694,
+        "num": 846456,
+        "word": "陈光标回应张雪要卖车",
+        "onboard_time": 1775104702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31655,
+        "num": 657170,
+        "word": "天宫画展再上新",
+        "onboard_time": 1775098700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427626,
+        "num": 427626,
+        "word": "优思益营销策划公司被立案调查",
+        "onboard_time": 1775101941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418310,
+        "num": 418310,
+        "word": "日本终于露出獠牙",
+        "onboard_time": 1775089824,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 444816,
+        "num": 405951,
+        "word": "怪不得上大学老了这么多",
+        "onboard_time": 1775100622,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325133,
+        "num": 325133,
+        "word": "特朗普话音刚落伊朗导弹袭向以色列",
+        "onboard_time": 1775097920,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280795,
+        "num": 280795,
+        "word": "肖战正式进组十日终焉",
+        "onboard_time": 1775105543,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158375,
+        "num": 280468,
+        "word": "张雪机车夺冠含金量",
+        "onboard_time": 1775089824,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29167,
+        "num": 280179,
+        "word": "市场监管部门对优思益推手立案调查",
+        "onboard_time": 1775105543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 904575,
+        "num": 279599,
+        "word": "李若彤发布致歉声明",
+        "onboard_time": 1775100982,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 312026,
+        "num": 279396,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278980,
+        "num": 278980,
+        "word": "金价瀑布式下跌",
+        "onboard_time": 1775104162,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252792,
+        "num": 252792,
+        "word": "黄金",
+        "onboard_time": 1775097680,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80559,
+        "num": 251999,
+        "word": "田曦薇骨相清冷美",
+        "onboard_time": 1775104463,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24893,
+        "num": 250940,
+        "word": "领克900大五座万物皆可装",
+        "onboard_time": 1775104463,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42759,
+        "num": 249985,
+        "word": "华为旗舰标准智界V9不计成本投入",
+        "onboard_time": 1775102841,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64564,
+        "num": 247575,
+        "word": "为上香港幼儿园13名家长入狱",
+        "onboard_time": 1775106084,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63620,
+        "num": 246114,
+        "word": "电子爸妈因亲生女儿出镜被拉黑",
+        "onboard_time": 1775106084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36535,
+        "num": 244602,
+        "word": "张雪机车商标被恶意抢注",
+        "onboard_time": 1775105963,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450371,
+        "num": 243692,
+        "word": "张柏芝晒二儿子打球正脸",
+        "onboard_time": 1775103621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243154,
+        "num": 243154,
+        "word": "多位明星发布优思益事件处理说明",
+        "onboard_time": 1775100982,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 194179,
+        "num": 240549,
+        "word": "男孩捡50g金条咬了一口竟是真的",
+        "onboard_time": 1775105782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238214,
+        "num": 238214,
+        "word": "曝短剧男顶忘本",
+        "onboard_time": 1775098520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222024,
+        "num": 222024,
+        "word": "乘风一口气官宣34位送考人",
+        "onboard_time": 1775105963,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183781,
+        "num": 183781,
+        "word": "收到了去世好友的微信回复",
+        "onboard_time": 1775055624,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182347,
+        "num": 182347,
+        "word": "主播陆续回应优思益售后",
+        "onboard_time": 1775098700,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161995,
+        "num": 161995,
+        "word": "乘风2026乘风送考人",
+        "onboard_time": 1775100921,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157076,
+        "num": 157076,
+        "word": "鞋子太臭真的会燃起来",
+        "onboard_time": 1775104042,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
+        "onboard_time": 1775089402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153001,
+        "num": 153001,
+        "word": "三亚一海滩露出尖锐钢筋",
+        "onboard_time": 1775104881,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150410,
+        "num": 150410,
+        "word": "小区花20万加装电梯只通向其中一层",
+        "onboard_time": 1775104763,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148580,
+        "num": 148580,
+        "word": "美国男子两次试图将陌生人推下轻轨",
+        "onboard_time": 1775102421,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144400,
+        "num": 144400,
+        "word": "银行回应老人存10万变7万",
+        "onboard_time": 1775105601,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141333,
+        "num": 141333,
+        "word": "女入殓师三十年只为女性料理白事",
+        "onboard_time": 1775104881,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137079,
+        "num": 137079,
+        "word": "美国TikTok禁令演不下去了吗",
+        "onboard_time": 1775090603,
+        "rank": 35,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 136696,
+        "num": 136696,
+        "word": "严屹宽称妆造张凌赫的决策权有限",
+        "onboard_time": 1775101402,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133352,
+        "num": 133352,
+        "word": "王菲俞飞鸿聚餐",
+        "onboard_time": 1775098820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "当我想谈恋爱时",
+        "onboard_time": 1775101341,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128173,
+        "num": 128173,
+        "word": "说唱歌手JCole加盟CBA",
+        "onboard_time": 1775103321,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 126684,
+        "num": 126684,
+        "word": "董宇辉曾说产品上播10天前有人试吃",
+        "onboard_time": 1775106383,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124527,
+        "num": 124527,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124170,
+        "num": 124170,
+        "word": "疯狂动物城2预约人数近千万",
+        "onboard_time": 1775100081,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 118725,
+        "word": "4个炒菜习惯或让致癌物翻倍",
+        "onboard_time": 1775092821,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117510,
+        "num": 117510,
+        "word": "伊朗总统致美国人民公开信",
+        "onboard_time": 1775089102,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111488,
+        "num": 111488,
+        "word": "正义女神",
+        "onboard_time": 1775103861,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107817,
+        "num": 107817,
+        "word": "原来i人看e人是这种感觉",
+        "onboard_time": 1775100742,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104088,
+        "num": 104088,
+        "word": "幼儿园小朋友裹被子开溜被老师抓包",
+        "onboard_time": 1775095161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99491,
+        "num": 99491,
+        "word": "宝珠",
+        "onboard_time": 1775099481,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92998,
+        "num": 92998,
+        "word": "氯雷他定只对这两种情况有效",
+        "onboard_time": 1775105423,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

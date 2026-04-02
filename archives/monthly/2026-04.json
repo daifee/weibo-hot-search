@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775100767742,
+  "endTime": 1775106660912,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003961,
+      "num": 1160633,
+      "word": "优思益",
+      "onboard_time": 1775015185,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971762,
       "num": 447231,
       "word": "收到了去世好友的微信回复",
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 923585,
-      "num": 220905,
+      "num": 252792,
       "word": "黄金",
       "onboard_time": 1775097680,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 904575,
+      "num": 279599,
+      "word": "李若彤发布致歉声明",
+      "onboard_time": 1775100982,
+      "rank": 10,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 895558,
@@ -299,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 458694,
+      "num": 846456,
+      "word": "陈光标回应张雪要卖车",
+      "onboard_time": 1775104702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454598,
       "num": 193490,
       "word": "肖战陌森 到期",
@@ -315,12 +339,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450371,
+      "num": 243692,
+      "word": "张柏芝晒二儿子打球正脸",
+      "onboard_time": 1775103621,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444816,
+      "num": 405951,
+      "word": "怪不得上大学老了这么多",
+      "onboard_time": 1775100622,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 432547,
       "num": 215677,
       "word": "严浩翔发的是刘耀文",
       "onboard_time": 1775035944,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427626,
+      "num": 427626,
+      "word": "优思益营销策划公司被立案调查",
+      "onboard_time": 1775101941,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426307,
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 416927,
-      "num": 156951,
+      "num": 238214,
       "word": "曝短剧男顶忘本",
       "onboard_time": 1775098520,
       "rank": 20,
@@ -563,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320697,
-      "num": 832526,
-      "word": "优思益",
-      "onboard_time": 1775015185,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316039,
       "num": 316039,
       "word": "伊朗10分钟5波导弹袭击以色列",
@@ -673,6 +713,22 @@
       "onboard_time": 1775005882,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 280795,
+      "num": 280795,
+      "word": "肖战正式进组十日终焉",
+      "onboard_time": 1775105543,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278980,
+      "num": 278980,
+      "word": "金价瀑布式下跌",
+      "onboard_time": 1775104162,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 275814,
@@ -827,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243154,
+      "num": 243154,
+      "word": "多位明星发布优思益事件处理说明",
+      "onboard_time": 1775100982,
+      "rank": 21,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 240193,
       "num": 328295,
       "word": "这才叫热锅凉油",
@@ -940,11 +1004,19 @@
     },
     {
       "raw_hot": 222980,
-      "num": 222980,
+      "num": 280468,
       "word": "张雪机车夺冠含金量",
       "onboard_time": 1775089824,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222024,
+      "num": 222024,
+      "word": "乘风一口气官宣34位送考人",
+      "onboard_time": 1775105963,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 217683,
@@ -1107,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194179,
+      "num": 240549,
+      "word": "男孩捡50g金条咬了一口竟是真的",
+      "onboard_time": 1775105782,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "特朗普称未来两三周更猛烈打击伊朗",
@@ -1155,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182347,
+      "num": 182347,
+      "word": "主播陆续回应优思益售后",
+      "onboard_time": 1775098700,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180090,
       "num": 331491,
       "word": "美国一架F35战机坠毁",
@@ -1201,14 +1289,6 @@
       "onboard_time": 1775026882,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170320,
-      "num": 170320,
-      "word": "主播陆续回应优思益售后",
-      "onboard_time": 1775098700,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169908,
@@ -1299,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161995,
+      "num": 161995,
+      "word": "乘风2026乘风送考人",
+      "onboard_time": 1775100921,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161895,
       "num": 161895,
       "word": "夏之光站了鞠婧祎陈都灵中间我站哪",
@@ -1331,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157076,
+      "num": 157076,
+      "word": "鞋子太臭真的会燃起来",
+      "onboard_time": 1775104042,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156616,
       "num": 156616,
       "word": "陈飞宇冷脸搬凳子",
@@ -1353,6 +1449,22 @@
       "onboard_time": 1775091262,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153001,
+      "num": 153001,
+      "word": "三亚一海滩露出尖锐钢筋",
+      "onboard_time": 1775104881,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150410,
+      "num": 150410,
+      "word": "小区花20万加装电梯只通向其中一层",
+      "onboard_time": 1775104763,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150153,
@@ -1385,6 +1497,14 @@
       "onboard_time": 1775032763,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148580,
+      "num": 148580,
+      "word": "美国男子两次试图将陌生人推下轻轨",
+      "onboard_time": 1775102421,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147500,
@@ -1427,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144400,
+      "num": 144400,
+      "word": "银行回应老人存10万变7万",
+      "onboard_time": 1775105601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144305,
       "num": 136714,
       "word": "43岁产妇遇产科死神羊水栓塞",
@@ -1457,6 +1585,14 @@
       "onboard_time": 1775000902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141333,
+      "num": 141333,
+      "word": "女入殓师三十年只为女性料理白事",
+      "onboard_time": 1775104881,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140891,
@@ -1507,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136696,
+      "num": 136696,
+      "word": "严屹宽称妆造张凌赫的决策权有限",
+      "onboard_time": 1775101402,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135325,
       "num": 135325,
       "word": "全球股市史诗级暴涨",
@@ -1555,6 +1699,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 131016,
+      "num": 131016,
+      "word": "当我想谈恋爱时",
+      "onboard_time": 1775101341,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130799,
       "num": 229062,
       "word": "黄鹏遗体在雪崩现场被发现",
@@ -1595,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128173,
+      "num": 128173,
+      "word": "说唱歌手JCole加盟CBA",
+      "onboard_time": 1775103321,
+      "rank": 39,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 128088,
       "num": 128088,
       "word": "女子常来病房摸17岁离世儿子名字",
@@ -1609,6 +1769,14 @@
       "onboard_time": 1775030305,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126684,
+      "num": 126684,
+      "word": "董宇辉曾说产品上播10天前有人试吃",
+      "onboard_time": 1775106383,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126634,
@@ -1883,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111488,
+      "num": 111488,
+      "word": "正义女神",
+      "onboard_time": 1775103861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110175,
       "num": 110175,
       "word": "白日提灯追剧团",
@@ -1945,6 +2121,14 @@
       "onboard_time": 1775020525,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107817,
+      "num": 107817,
+      "word": "原来i人看e人是这种感觉",
+      "onboard_time": 1775100742,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 107105,
@@ -2281,6 +2465,14 @@
       "onboard_time": 1775045362,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92998,
+      "num": 92998,
+      "word": "氯雷他定只对这两种情况有效",
+      "onboard_time": 1775105423,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92979,
@@ -2707,28 +2899,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 80559,
+      "num": 251999,
+      "word": "田曦薇骨相清冷美",
+      "onboard_time": 1775104463,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80231,
       "num": 80231,
       "word": "钧正平报告81192",
       "onboard_time": 1775049085,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79868,
-      "num": 79868,
-      "word": "原来i人看e人是这种感觉",
-      "onboard_time": 1775100742,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 79693,
-      "num": 79693,
-      "word": "怪不得上大学老了这么多",
-      "onboard_time": 1775100622,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 79559,
@@ -3067,6 +3251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64564,
+      "num": 247575,
+      "word": "为上香港幼儿园13名家长入狱",
+      "onboard_time": 1775106084,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -3097,6 +3289,14 @@
       "onboard_time": 1775034142,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63620,
+      "num": 246114,
+      "word": "电子爸妈因亲生女儿出镜被拉黑",
+      "onboard_time": 1775106084,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62980,
@@ -3403,6 +3603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42759,
+      "num": 249985,
+      "word": "华为旗舰标准智界V9不计成本投入",
+      "onboard_time": 1775102841,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42466,
       "num": 663477,
       "word": "雄安大脑赋能智慧城市",
@@ -3440,6 +3648,14 @@
       "word": "优思益幕后推手被查",
       "onboard_time": 1775029523,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36535,
+      "num": 244602,
+      "word": "张雪机车商标被恶意抢注",
+      "onboard_time": 1775105963,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3523,6 +3739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29167,
+      "num": 280179,
+      "word": "市场监管部门对优思益推手立案调查",
+      "onboard_time": 1775105543,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28394,
       "num": 159687,
       "word": "全面开展国有馆藏文物盘库清点",
@@ -3545,6 +3769,14 @@
       "onboard_time": 1775034083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24893,
+      "num": 250940,
+      "word": "领克900大五座万物皆可装",
+      "onboard_time": 1775104463,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 23579,
