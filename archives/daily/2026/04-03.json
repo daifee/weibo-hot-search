@@ -1,9 +1,9 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775173391400,
+  "endTime": 1775174347538,
   "band_list": [
     {
-      "raw_hot": 545029,
+      "raw_hot": 631701,
       "num": 421277,
       "word": "孙怡说我看那玩意儿干啥啊",
       "onboard_time": 1775149997,
@@ -11,20 +11,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488382,
-      "num": 164915,
-      "word": "张天爱变样了",
-      "onboard_time": 1775131882,
-      "rank": 10,
+      "raw_hot": 611762,
+      "num": 611762,
+      "word": "唐艺昕上浪姐用张若昀的助理",
+      "onboard_time": 1775172379,
+      "rank": 5,
       "category": "综艺"
     },
     {
-      "raw_hot": 446207,
-      "num": 927018,
+      "raw_hot": 505199,
+      "num": 1064234,
       "word": "宝妈投诉蛋糕店未果反助店家爆单",
       "onboard_time": 1775141665,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488382,
+      "num": 179685,
+      "word": "张天爱变样了",
+      "onboard_time": 1775131882,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 444889,
@@ -35,15 +43,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 419435,
-      "num": 233638,
-      "word": "唐艺昕上浪姐用张若昀的助理",
-      "onboard_time": 1775172379,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 409090,
+      "raw_hot": 440087,
       "num": 369565,
       "word": "王濛 安崎没满30不能淘汰",
       "onboard_time": 1775146401,
@@ -51,20 +51,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408753,
-      "num": 166597,
+      "raw_hot": 436573,
+      "num": 177854,
+      "word": "张天爱发文回应变样",
+      "onboard_time": 1775172439,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 412037,
+      "num": 179349,
       "word": "伊朗称250年历史无法威胁6000年文明",
       "onboard_time": 1775148918,
       "rank": 38,
       "category": "国际时政"
     },
     {
-      "raw_hot": 378283,
-      "num": 164431,
+      "raw_hot": 395452,
+      "num": 178358,
       "word": "优思益代言人",
       "onboard_time": 1775145862,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286286,
+      "num": 756993,
+      "word": "嘴唇发紫博主称一直以为身体正常",
+      "onboard_time": 1775143642,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283195,
+      "num": 180451,
+      "word": "唐艺昕陶昕然 宝娟我的嗓子",
+      "onboard_time": 1775140224,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 280061,
@@ -75,44 +99,20 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 278475,
-      "num": 158726,
-      "word": "张天爱发文回应变样",
-      "onboard_time": 1775172439,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 267725,
-      "num": 162468,
-      "word": "伊朗强硬回应特朗普",
-      "onboard_time": 1775145862,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 262271,
-      "num": 180451,
-      "word": "唐艺昕陶昕然 宝娟我的嗓子",
-      "onboard_time": 1775140224,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 261584,
-      "num": 261584,
+      "raw_hot": 270280,
+      "num": 270280,
       "word": "伊朗标志性大桥遭袭",
       "onboard_time": 1775144602,
       "rank": 6,
       "category": "国际时政"
     },
     {
-      "raw_hot": 258961,
-      "num": 661492,
-      "word": "嘴唇发紫博主称一直以为身体正常",
-      "onboard_time": 1775143642,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 267725,
+      "num": 177985,
+      "word": "伊朗强硬回应特朗普",
+      "onboard_time": 1775145862,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234495,
@@ -123,11 +123,43 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199277,
-      "num": 199277,
+      "raw_hot": 231996,
+      "num": 231996,
       "word": "美国头大了",
       "onboard_time": 1775137103,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 200663,
+      "num": 143207,
+      "word": "谢娜回应乘风直播节奏慢",
+      "onboard_time": 1775172379,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195237,
+      "num": 177382,
+      "word": "伊朗再袭巴林的亚马逊云计算中心",
+      "onboard_time": 1775172801,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 180486,
+      "num": 180486,
+      "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
+      "onboard_time": 1775139865,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177110,
+      "num": 177110,
+      "word": "伊朗真正意义上的核武器",
+      "onboard_time": 1775172980,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -147,12 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146226,
-      "num": 170006,
-      "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
-      "onboard_time": 1775139865,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 148336,
+      "num": 139159,
+      "word": "肖战十日终焉第一个官方路透",
+      "onboard_time": 1775172439,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147083,
+      "num": 147083,
+      "word": "这种天然青霉素就在你家餐桌上",
+      "onboard_time": 1775172319,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139647,
@@ -171,28 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133147,
-      "num": 126894,
-      "word": "谢娜回应乘风直播节奏慢",
-      "onboard_time": 1775172379,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129387,
-      "num": 129387,
-      "word": "这种天然青霉素就在你家餐桌上",
-      "onboard_time": 1775172319,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 123569,
-      "num": 123569,
-      "word": "肖战十日终焉第一个官方路透",
-      "onboard_time": 1775172439,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 125657,
+      "num": 180208,
+      "word": "国乒女队伦敦世乒赛名单已确定",
+      "onboard_time": 1775172619,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 120988,
@@ -203,11 +227,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115198,
+      "raw_hot": 117229,
       "num": 154580,
       "word": "老式水果为什么消失了",
       "onboard_time": 1775129241,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115935,
+      "num": 88653,
+      "word": "男子出轨染病给女友同意赔50万又后悔",
+      "onboard_time": 1775173941,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -219,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114651,
+      "num": 114651,
+      "word": "马天宇不然别人又说我耍大牌了",
+      "onboard_time": 1775172500,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107183,
+      "num": 87773,
+      "word": "美撤换陆军参谋长",
+      "onboard_time": 1775172619,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 103166,
       "num": 75486,
       "word": "迪丽热巴陈飞宇共创",
@@ -228,19 +276,11 @@
     },
     {
       "raw_hot": 102725,
-      "num": 75515,
+      "num": 86889,
       "word": "第一次见买家秀和卖家秀反着来的",
       "onboard_time": 1775172319,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99900,
-      "num": 74845,
-      "word": "国乒女队伦敦世乒赛名单已确定",
-      "onboard_time": 1775172619,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 98655,
@@ -252,11 +292,27 @@
     },
     {
       "raw_hot": 96331,
-      "num": 79295,
+      "num": 95549,
       "word": "张凌赫后面还有两部待播将军剧",
       "onboard_time": 1775139985,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90148,
+      "num": 90148,
+      "word": "人鱼",
+      "onboard_time": 1775173760,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 85688,
+      "num": 85688,
+      "word": "保时捷女销售否认年薪200万",
+      "onboard_time": 1775174241,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82660,
@@ -275,12 +331,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80547,
-      "num": 80547,
-      "word": "伊朗再袭巴林的亚马逊云计算中心",
-      "onboard_time": 1775172801,
-      "rank": 25,
-      "category": "军事"
+      "raw_hot": 80681,
+      "num": 80681,
+      "word": "黄金白银全部下跌",
+      "onboard_time": 1775172980,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 79994,
+      "num": 79994,
+      "word": "北京一老人翻窗从27楼爬到21楼",
+      "onboard_time": 1775173642,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79006,
+      "num": 79006,
+      "word": "白鹿素颜做饭自拍",
+      "onboard_time": 1775137344,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 78300,
@@ -289,6 +361,22 @@
       "onboard_time": 1775143581,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77940,
+      "num": 79079,
+      "word": "女子20万买170g金条藏豆瓣酱里",
+      "onboard_time": 1775136143,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77696,
+      "num": 616979,
+      "word": "多城实施住房公积金新政",
+      "onboard_time": 1775134283,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76239,
@@ -315,23 +403,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 74800,
-      "num": 74800,
-      "word": "马天宇不然别人又说我耍大牌了",
-      "onboard_time": 1775172500,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 72850,
+      "num": 72850,
+      "word": "小警犬刚到警局就被全体同事的围观了",
+      "onboard_time": 1775173819,
+      "rank": 40,
+      "category": "幽默"
     },
     {
-      "raw_hot": 73026,
-      "num": 75306,
-      "word": "白鹿素颜做饭自拍",
-      "onboard_time": 1775137344,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 71552,
+      "raw_hot": 71984,
       "num": 75288,
       "word": "李现逛街偶遇粉丝",
       "onboard_time": 1775144841,
@@ -347,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70903,
+      "num": 70903,
+      "word": "月鳞绮纪优酷热度破9000",
+      "onboard_time": 1775174061,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70684,
       "num": 75588,
       "word": "iPhone18Pro模具偷跑",
@@ -355,36 +443,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 68292,
-      "num": 75054,
-      "word": "女子20万买170g金条藏豆瓣酱里",
-      "onboard_time": 1775136143,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 69712,
+      "num": 168593,
+      "word": "孙颖莎2比7落后完成逆转",
+      "onboard_time": 1775132543,
+      "rank": 49,
+      "category": "体育"
     },
     {
-      "raw_hot": 67217,
-      "num": 67217,
-      "word": "黄金白银全部下跌",
-      "onboard_time": 1775172980,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 66974,
-      "num": 66974,
-      "word": "伊朗真正意义上的核武器",
-      "onboard_time": 1775172980,
-      "rank": 38,
+      "raw_hot": 68987,
+      "num": 68987,
+      "word": "特朗普讲话遭到美国舆论花式吐槽",
+      "onboard_time": 1775173700,
+      "rank": 44,
       "category": "国际时政"
     },
     {
-      "raw_hot": 66911,
-      "num": 534806,
-      "word": "多城实施住房公积金新政",
-      "onboard_time": 1775134283,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 66769,
+      "num": 75175,
+      "word": "与辉同行致歉",
+      "onboard_time": 1775132303,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66528,
@@ -395,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63748,
+      "num": 63748,
+      "word": "郑强说张雪这一跑不亚于10块奥运金牌",
+      "onboard_time": 1775173642,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61846,
+      "num": 61846,
+      "word": "王曼昱看过詹青云打辩论",
+      "onboard_time": 1775174122,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61584,
       "num": 61584,
       "word": "白日提灯待遇",
@@ -403,36 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60230,
-      "num": 168593,
-      "word": "孙颖莎2比7落后完成逆转",
-      "onboard_time": 1775132543,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59689,
-      "num": 75175,
-      "word": "与辉同行致歉",
-      "onboard_time": 1775132303,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57638,
       "num": 57638,
       "word": "张杰在鸟巢喊歌迷上车",
       "onboard_time": 1775171958,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53423,
-      "num": 53423,
-      "word": "美撤换陆军参谋长",
-      "onboard_time": 1775172619,
-      "rank": 42,
-      "category": "军事"
     },
     {
       "raw_hot": 49506,
