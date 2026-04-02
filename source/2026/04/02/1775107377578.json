@@ -1,0 +1,410 @@
+{
+  "runTime": 1775107377578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939561,
+        "num": 1150329,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368803,
+        "num": 831840,
+        "word": "日本终于露出獠牙",
+        "onboard_time": 1775089824,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 654824,
+        "word": "天宫画展再上新",
+        "onboard_time": 1775098700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343023,
+        "num": 343023,
+        "word": "优思益营销策划公司被立案调查",
+        "onboard_time": 1775101941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306232,
+        "num": 306232,
+        "word": "特朗普话音刚落伊朗导弹袭向以色列",
+        "onboard_time": 1775097920,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 610609,
+        "num": 301959,
+        "word": "陈光标回应张雪要卖车",
+        "onboard_time": 1775104702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345007,
+        "num": 301470,
+        "word": "怪不得上大学老了这么多",
+        "onboard_time": 1775100622,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294202,
+        "num": 294202,
+        "word": "张雪",
+        "onboard_time": 1775106981,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285928,
+        "num": 285928,
+        "word": "乘风一口气官宣34位送考人",
+        "onboard_time": 1775105963,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162412,
+        "num": 281859,
+        "word": "张雪机车夺冠含金量",
+        "onboard_time": 1775089824,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796680,
+        "num": 277031,
+        "word": "李若彤发布致歉声明",
+        "onboard_time": 1775100982,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 317846,
+        "num": 275601,
+        "word": "金价瀑布式下跌",
+        "onboard_time": 1775104162,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301034,
+        "num": 271476,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267995,
+        "num": 267995,
+        "word": "肖战正式进组十日终焉",
+        "onboard_time": 1775105543,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206771,
+        "num": 206771,
+        "word": "黄金",
+        "onboard_time": 1775097680,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42451,
+        "num": 205398,
+        "word": "华为旗舰标准智界V9不计成本投入",
+        "onboard_time": 1775102841,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205324,
+        "num": 205324,
+        "word": "多位明星发布优思益事件处理说明",
+        "onboard_time": 1775100982,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 26268,
+        "num": 205128,
+        "word": "领克900大五座万物皆可装",
+        "onboard_time": 1775104463,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170067,
+        "num": 203568,
+        "word": "主播陆续回应优思益售后",
+        "onboard_time": 1775098700,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85945,
+        "num": 202474,
+        "word": "田曦薇骨相清冷美",
+        "onboard_time": 1775104463,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427844,
+        "num": 201751,
+        "word": "张柏芝晒二儿子打球正脸",
+        "onboard_time": 1775103621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210289,
+        "num": 201267,
+        "word": "男孩捡50g金条咬了一口竟是真的",
+        "onboard_time": 1775105782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200386,
+        "num": 200386,
+        "word": "曝短剧男顶忘本",
+        "onboard_time": 1775098520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198549,
+        "num": 198549,
+        "word": "董宇辉曾说产品上播10天前有人试吃",
+        "onboard_time": 1775106383,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175121,
+        "num": 175121,
+        "word": "收到了去世好友的微信回复",
+        "onboard_time": 1775055624,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "银行回应老人存10万变7万",
+        "onboard_time": 1775105601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135852,
+        "num": 135852,
+        "word": "肖战网文五大热门ip集齐四个",
+        "onboard_time": 1775106921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26335,
+        "num": 134929,
+        "word": "梅姨曾多次催人贩子拐孩子",
+        "onboard_time": 1775107162,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 134125,
+        "word": "三亚一海滩露出尖锐钢筋",
+        "onboard_time": 1775104881,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78593,
+        "num": 133006,
+        "word": "为上香港幼儿园13名家长入狱",
+        "onboard_time": 1775106084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73932,
+        "num": 132982,
+        "word": "电子爸妈因亲生女儿出镜被拉黑",
+        "onboard_time": 1775106084,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165623,
+        "num": 132982,
+        "word": "胡彦斌连夜关闭了人脸支付",
+        "onboard_time": 1775107042,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132967,
+        "num": 132967,
+        "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
+        "onboard_time": 1775089402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131784,
+        "num": 131784,
+        "word": "女入殓师三十年只为女性料理白事",
+        "onboard_time": 1775104881,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128310,
+        "num": 128310,
+        "word": "正义女神",
+        "onboard_time": 1775103861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127667,
+        "num": 127667,
+        "word": "鞋子太臭真的会燃起来",
+        "onboard_time": 1775104042,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127073,
+        "num": 127073,
+        "word": "汪苏泷郑州演唱会抢票",
+        "onboard_time": 1775107223,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126617,
+        "num": 126617,
+        "word": "说唱歌手JCole加盟CBA",
+        "onboard_time": 1775103321,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 122209,
+        "num": 122209,
+        "word": "今麦郎手打擦边20年不能停产就完了",
+        "onboard_time": 1775106682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118153,
+        "num": 121488,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1775106921,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118949,
+        "num": 121325,
+        "word": "智界CEO官宣",
+        "onboard_time": 1775106921,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102359,
+        "num": 121275,
+        "word": "张雪机车商标被恶意抢注",
+        "onboard_time": 1775105963,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121258,
+        "num": 121258,
+        "word": "严屹宽称妆造张凌赫的决策权有限",
+        "onboard_time": 1775101402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119522,
+        "num": 119522,
+        "word": "王菲俞飞鸿聚餐",
+        "onboard_time": 1775098820,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114221,
+        "num": 114221,
+        "word": "小区花20万加装电梯只通向其中一层",
+        "onboard_time": 1775104763,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114218,
+        "num": 114218,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108954,
+        "num": 108954,
+        "word": "尹锡悦看守所内吸金12亿韩元",
+        "onboard_time": 1775106801,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108236,
+        "num": 108236,
+        "word": "乘风2026乘风送考人",
+        "onboard_time": 1775100921,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106016,
+        "num": 106016,
+        "word": "疯狂动物城2预约人数近千万",
+        "onboard_time": 1775100081,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105641,
+        "num": 105641,
+        "word": "王艺迪获伦敦世乒赛参赛资格",
+        "onboard_time": 1775107162,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

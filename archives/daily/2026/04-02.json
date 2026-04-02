@@ -1,6 +1,6 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775106660912,
+  "endTime": 1775107377578,
   "band_list": [
     {
       "raw_hot": 1003961,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 610609,
+      "num": 846456,
+      "word": "陈光标回应张雪要卖车",
+      "onboard_time": 1775104702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580649,
       "num": 392859,
       "word": "杨紫 没人通知我啊",
@@ -89,14 +97,6 @@
       "onboard_time": 1775085080,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 458694,
-      "num": 846456,
-      "word": "陈光标回应张雪要卖车",
-      "onboard_time": 1775104702,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 450371,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317846,
+      "num": 278980,
+      "word": "金价瀑布式下跌",
+      "onboard_time": 1775104162,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 316039,
       "num": 316039,
       "word": "伊朗10分钟5波导弹袭击以色列",
@@ -195,20 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294202,
+      "num": 294202,
+      "word": "张雪",
+      "onboard_time": 1775106981,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285928,
+      "num": 285928,
+      "word": "乘风一口气官宣34位送考人",
+      "onboard_time": 1775105963,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280795,
       "num": 280795,
       "word": "肖战正式进组十日终焉",
       "onboard_time": 1775105543,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278980,
-      "num": 278980,
-      "word": "金价瀑布式下跌",
-      "onboard_time": 1775104162,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 277962,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 222980,
-      "num": 280468,
+      "num": 281859,
       "word": "张雪机车夺冠含金量",
       "onboard_time": 1775089824,
       "rank": 4,
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222024,
-      "num": 222024,
-      "word": "乘风一口气官宣34位送考人",
-      "onboard_time": 1775105963,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217683,
       "num": 217683,
       "word": "4个炒菜习惯或让致癌物翻倍",
@@ -339,11 +347,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210289,
+      "num": 240549,
+      "word": "男孩捡50g金条咬了一口竟是真的",
+      "onboard_time": 1775105782,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210081,
       "num": 210081,
       "word": "无需粉底液这才是军人本色",
       "onboard_time": 1775049803,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198549,
+      "num": 198549,
+      "word": "董宇辉曾说产品上播10天前有人试吃",
+      "onboard_time": 1775106383,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194179,
-      "num": 240549,
-      "word": "男孩捡50g金条咬了一口竟是真的",
-      "onboard_time": 1775105782,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "特朗普称未来两三周更猛烈打击伊朗",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 182347,
-      "num": 182347,
+      "num": 203568,
       "word": "主播陆续回应优思益售后",
       "onboard_time": 1775098700,
       "rank": 16,
@@ -425,6 +441,14 @@
       "onboard_time": 1775054905,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 165623,
+      "num": 132982,
+      "word": "胡彦斌连夜关闭了人脸支付",
+      "onboard_time": 1775107042,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 162399,
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149618,
+      "num": 149618,
+      "word": "银行回应老人存10万变7万",
+      "onboard_time": 1775105601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148580,
       "num": 148580,
       "word": "美国男子两次试图将陌生人推下轻轨",
@@ -504,14 +536,6 @@
       "word": "赵一鸣零食店回应不给学生发薪",
       "onboard_time": 1775099481,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144400,
-      "num": 144400,
-      "word": "银行回应老人存10万变7万",
-      "onboard_time": 1775105601,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135852,
+      "num": 135852,
+      "word": "肖战网文五大热门ip集齐四个",
+      "onboard_time": 1775106921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132383,
       "num": 220670,
       "word": "张凌赫新华社讲述星星的孩子",
@@ -571,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128310,
+      "num": 128310,
+      "word": "正义女神",
+      "onboard_time": 1775103861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128173,
       "num": 128173,
       "word": "说唱歌手JCole加盟CBA",
@@ -579,12 +619,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 126684,
-      "num": 126684,
-      "word": "董宇辉曾说产品上播10天前有人试吃",
-      "onboard_time": 1775106383,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 127073,
+      "num": 127073,
+      "word": "汪苏泷郑州演唱会抢票",
+      "onboard_time": 1775107223,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 125778,
@@ -609,6 +649,14 @@
       "onboard_time": 1775049803,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122209,
+      "num": 122209,
+      "word": "今麦郎手打擦边20年不能停产就完了",
+      "onboard_time": 1775106682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121217,
@@ -643,12 +691,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118949,
+      "num": 121325,
+      "word": "智界CEO官宣",
+      "onboard_time": 1775106921,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118539,
       "num": 400463,
       "word": "你的公积金悄悄变多了",
       "onboard_time": 1775028922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118153,
+      "num": 121488,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1775106921,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117030,
@@ -659,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "正义女神",
-      "onboard_time": 1775103861,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 108954,
+      "num": 108954,
+      "word": "尹锡悦看守所内吸金12亿韩元",
+      "onboard_time": 1775106801,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108723,
@@ -691,12 +755,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105641,
+      "num": 105641,
+      "word": "王艺迪获伦敦世乒赛参赛资格",
+      "onboard_time": 1775107162,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103574,
       "num": 103574,
       "word": "阿信寸头",
       "onboard_time": 1775055204,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102359,
+      "num": 244602,
+      "word": "张雪机车商标被恶意抢注",
+      "onboard_time": 1775105963,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102077,
@@ -851,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85945,
+      "num": 251999,
+      "word": "田曦薇骨相清冷美",
+      "onboard_time": 1775104463,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85428,
       "num": 159038,
       "word": "夫妻出卖5名亲生子女被判刑",
@@ -883,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80559,
-      "num": 251999,
-      "word": "田曦薇骨相清冷美",
-      "onboard_time": 1775104463,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 79559,
       "num": 79559,
       "word": "公安发声支持张雪机车新手禁令",
@@ -907,12 +987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78593,
+      "num": 247575,
+      "word": "为上香港幼儿园13名家长入狱",
+      "onboard_time": 1775106084,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75560,
       "num": 75560,
       "word": "张雪与湖南卫视立下新承诺",
       "onboard_time": 1775091084,
       "rank": 46,
       "category": "综艺,民生新闻"
+    },
+    {
+      "raw_hot": 73932,
+      "num": 246114,
+      "word": "电子爸妈因亲生女儿出镜被拉黑",
+      "onboard_time": 1775106084,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72609,
@@ -963,28 +1059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64564,
-      "num": 247575,
-      "word": "为上香港幼儿园13名家长入狱",
-      "onboard_time": 1775106084,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64366,
       "num": 64366,
       "word": "白敬亭也在用有线耳机",
       "onboard_time": 1775057245,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63620,
-      "num": 246114,
-      "word": "电子爸妈因亲生女儿出镜被拉黑",
-      "onboard_time": 1775106084,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62980,
@@ -1147,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36535,
-      "num": 244602,
-      "word": "张雪机车商标被恶意抢注",
-      "onboard_time": 1775105963,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35042,
       "num": 45931,
       "word": "这是我的西游",
@@ -1203,20 +1275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26335,
+      "num": 134929,
+      "word": "梅姨曾多次催人贩子拐孩子",
+      "onboard_time": 1775107162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26268,
+      "num": 250940,
+      "word": "领克900大五座万物皆可装",
+      "onboard_time": 1775104463,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25204,
       "num": 33786,
       "word": "杨紫直播",
       "onboard_time": 1775049864,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24893,
-      "num": 250940,
-      "word": "领克900大五座万物皆可装",
-      "onboard_time": 1775104463,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 21477,

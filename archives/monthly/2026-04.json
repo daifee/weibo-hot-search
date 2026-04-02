@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775106660912,
+  "endTime": 1775107377578,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610609,
+      "num": 846456,
+      "word": "陈光标回应张雪要卖车",
+      "onboard_time": 1775104702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607475,
       "num": 172036,
       "word": "网易云封号",
@@ -313,14 +321,6 @@
       "onboard_time": 1774998619,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 458694,
-      "num": 846456,
-      "word": "陈光标回应张雪要卖车",
-      "onboard_time": 1775104702,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454598,
@@ -611,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317846,
+      "num": 278980,
+      "word": "金价瀑布式下跌",
+      "onboard_time": 1775104162,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 316039,
       "num": 316039,
       "word": "伊朗10分钟5波导弹袭击以色列",
@@ -675,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294202,
+      "num": 294202,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294151,
       "num": 174576,
       "word": "伊朗打击美军指挥中心",
@@ -707,6 +723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285928,
+      "num": 285928,
+      "word": "乘风一口气官宣34位送考人",
+      "onboard_time": 1775105963,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282240,
       "num": 193889,
       "word": "有线耳机穿搭火了",
@@ -721,14 +745,6 @@
       "onboard_time": 1775105543,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278980,
-      "num": 278980,
-      "word": "金价瀑布式下跌",
-      "onboard_time": 1775104162,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 275814,
@@ -1004,19 +1020,11 @@
     },
     {
       "raw_hot": 222980,
-      "num": 280468,
+      "num": 281859,
       "word": "张雪机车夺冠含金量",
       "onboard_time": 1775089824,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222024,
-      "num": 222024,
-      "word": "乘风一口气官宣34位送考人",
-      "onboard_time": 1775105963,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 217683,
@@ -1091,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210289,
+      "num": 240549,
+      "word": "男孩捡50g金条咬了一口竟是真的",
+      "onboard_time": 1775105782,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203984,
       "num": 424556,
       "word": "伊朗总统说遵从最高领袖指示",
@@ -1139,6 +1155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198549,
+      "num": 198549,
+      "word": "董宇辉曾说产品上播10天前有人试吃",
+      "onboard_time": 1775106383,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198250,
       "num": 198250,
       "word": "浪姐7人气排名",
@@ -1179,28 +1203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194179,
-      "num": 240549,
-      "word": "男孩捡50g金条咬了一口竟是真的",
-      "onboard_time": 1775105782,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "特朗普称未来两三周更猛烈打击伊朗",
       "onboard_time": 1775094501,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193451,
-      "num": 192069,
-      "word": "张雪",
-      "onboard_time": 1774943063,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 192512,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 182347,
-      "num": 182347,
+      "num": 203568,
       "word": "主播陆续回应优思益售后",
       "onboard_time": 1775098700,
       "rank": 16,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1775040203,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165623,
+      "num": 132982,
+      "word": "胡彦斌连夜关闭了人脸支付",
+      "onboard_time": 1775107042,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 165253,
@@ -1491,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149618,
+      "num": 149618,
+      "word": "银行回应老人存10万变7万",
+      "onboard_time": 1775105601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149412,
       "num": 149412,
       "word": "一中国人涉及超7亿房产在英被冻结",
@@ -1544,14 +1568,6 @@
       "word": "赵一鸣零食店回应不给学生发薪",
       "onboard_time": 1775099481,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144400,
-      "num": 144400,
-      "word": "银行回应老人存10万变7万",
-      "onboard_time": 1775105601,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1651,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135852,
+      "num": 135852,
+      "word": "肖战网文五大热门ip集齐四个",
+      "onboard_time": 1775106921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135325,
       "num": 135325,
       "word": "全球股市史诗级暴涨",
@@ -1747,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128310,
+      "num": 128310,
+      "word": "正义女神",
+      "onboard_time": 1775103861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128173,
       "num": 128173,
       "word": "说唱歌手JCole加盟CBA",
@@ -1763,20 +1795,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127073,
+      "num": 127073,
+      "word": "汪苏泷郑州演唱会抢票",
+      "onboard_time": 1775107223,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126907,
       "num": 230236,
       "word": "王者荣耀",
       "onboard_time": 1775030305,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126684,
-      "num": 126684,
-      "word": "董宇辉曾说产品上播10天前有人试吃",
-      "onboard_time": 1775106383,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126634,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1775056703,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122209,
+      "num": 122209,
+      "word": "今麦郎手打擦边20年不能停产就完了",
+      "onboard_time": 1775106682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121558,
@@ -1931,12 +1971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118949,
+      "num": 121325,
+      "word": "智界CEO官宣",
+      "onboard_time": 1775106921,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118309,
       "num": 118309,
       "word": "特朗普称将很快撤出伊朗战事",
       "onboard_time": 1775054365,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118153,
+      "num": 121488,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1775106921,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117620,
@@ -2051,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "正义女神",
-      "onboard_time": 1775103861,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110175,
       "num": 110175,
       "word": "白日提灯追剧团",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1775029523,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108954,
+      "num": 108954,
+      "word": "尹锡悦看守所内吸金12亿韩元",
+      "onboard_time": 1775106801,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108723,
@@ -2155,6 +2211,14 @@
       "category": "议题讨论,互联网"
     },
     {
+      "raw_hot": 105641,
+      "num": 105641,
+      "word": "王艺迪获伦敦世乒赛参赛资格",
+      "onboard_time": 1775107162,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105444,
       "num": 105444,
       "word": "19岁的张雪",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1775040443,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102359,
+      "num": 244602,
+      "word": "张雪机车商标被恶意抢注",
+      "onboard_time": 1775105963,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101827,
@@ -2707,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85945,
+      "num": 251999,
+      "word": "田曦薇骨相清冷美",
+      "onboard_time": 1775104463,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85860,
       "num": 85860,
       "word": "白日提灯直播",
@@ -2899,14 +2979,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 80559,
-      "num": 251999,
-      "word": "田曦薇骨相清冷美",
-      "onboard_time": 1775104463,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 80231,
       "num": 80231,
       "word": "钧正平报告81192",
@@ -2953,6 +3025,14 @@
       "onboard_time": 1775009181,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78593,
+      "num": 247575,
+      "word": "为上香港幼儿园13名家长入狱",
+      "onboard_time": 1775106084,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78563,
@@ -3081,6 +3161,14 @@
       "onboard_time": 1774998800,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73932,
+      "num": 246114,
+      "word": "电子爸妈因亲生女儿出镜被拉黑",
+      "onboard_time": 1775106084,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73592,
@@ -3251,14 +3339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64564,
-      "num": 247575,
-      "word": "为上香港幼儿园13名家长入狱",
-      "onboard_time": 1775106084,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -3289,14 +3369,6 @@
       "onboard_time": 1775034142,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63620,
-      "num": 246114,
-      "word": "电子爸妈因亲生女儿出镜被拉黑",
-      "onboard_time": 1775106084,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62980,
@@ -3651,14 +3723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36535,
-      "num": 244602,
-      "word": "张雪机车商标被恶意抢注",
-      "onboard_time": 1775105963,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35385,
       "num": 178018,
       "word": "青岛一大爷骑电动车进地铁车厢",
@@ -3771,7 +3835,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24893,
+      "raw_hot": 26335,
+      "num": 134929,
+      "word": "梅姨曾多次催人贩子拐孩子",
+      "onboard_time": 1775107162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26268,
       "num": 250940,
       "word": "领克900大五座万物皆可装",
       "onboard_time": 1775104463,
