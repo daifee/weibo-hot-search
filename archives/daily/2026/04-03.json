@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775149484314,
+  "endTime": 1775150185819,
   "band_list": [
     {
       "raw_hot": 488382,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 444889,
-      "num": 318661,
+      "num": 358812,
       "word": "孙怡马天宇镜头被切",
       "onboard_time": 1775145081,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 379578,
-      "num": 301746,
+      "num": 369565,
       "word": "王濛 安崎没满30不能淘汰",
       "onboard_time": 1775146401,
       "rank": 4,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66813,
+      "num": 62048,
+      "word": "孙怡说我看那玩意儿干啥啊",
+      "onboard_time": 1775149997,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66528,
       "num": 75549,
       "word": "佛山鸡煲太火爆老板开小号黑自己",
@@ -251,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53883,
+      "num": 75164,
+      "word": "伊朗称250年历史无法威胁6000年文明",
+      "onboard_time": 1775148918,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52015,
       "num": 75360,
       "word": "张雪一家三口13年前视频",
       "onboard_time": 1775143581,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49506,
+      "num": 74947,
+      "word": "怦然心动20岁",
+      "onboard_time": 1775146581,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 49025,
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38670,
-      "num": 75164,
-      "word": "伊朗称250年历史无法威胁6000年文明",
-      "onboard_time": 1775148918,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 36967,
+      "num": 75054,
+      "word": "女子20万买170g金条藏豆瓣酱里",
+      "onboard_time": 1775136143,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36409,
@@ -337,14 +361,6 @@
       "onboard_time": 1775139445,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32754,
-      "num": 75054,
-      "word": "女子20万买170g金条藏豆瓣酱里",
-      "onboard_time": 1775136143,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32233,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 30982,
-      "num": 323284,
+      "num": 370445,
       "word": "多城实施住房公积金新政",
       "onboard_time": 1775134283,
       "rank": 2,
@@ -387,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27453,
-      "num": 74947,
-      "word": "怦然心动20岁",
-      "onboard_time": 1775146581,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 28109,
+      "num": 51503,
+      "word": "陈妍希方致歉",
+      "onboard_time": 1775135244,
+      "rank": 49,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 26820,
