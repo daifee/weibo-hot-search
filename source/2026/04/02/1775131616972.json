@@ -1,0 +1,410 @@
+{
+  "runTime": 1775131616972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 526641,
+        "num": 1084262,
+        "word": "三部门约谈抖音淘天小红书",
+        "onboard_time": 1775130261,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 344135,
+        "num": 787549,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23093,
+        "num": 665393,
+        "word": "又是赏花好时节",
+        "onboard_time": 1775113701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657057,
+        "num": 657057,
+        "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+        "onboard_time": 1775128762,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649643,
+        "num": 649643,
+        "word": "乘风初见面直播",
+        "onboard_time": 1775128462,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408615,
+        "num": 408615,
+        "word": "迪丽热巴 古偶",
+        "onboard_time": 1775130261,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225346,
+        "num": 225346,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1775124561,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275002,
+        "num": 223715,
+        "word": "你好1983结局",
+        "onboard_time": 1775127621,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220753,
+        "num": 220753,
+        "word": "王曼昱挑战TTR失败",
+        "onboard_time": 1775130261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220743,
+        "num": 220743,
+        "word": "已吃两瓶优思益消费者发声",
+        "onboard_time": 1775123662,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474601,
+        "num": 220401,
+        "word": "iPhone18Pro模具偷跑",
+        "onboard_time": 1775129182,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 432923,
+        "num": 219135,
+        "word": "印度65岁大象死亡生前被涂粉色颜料",
+        "onboard_time": 1775123782,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385398,
+        "num": 218311,
+        "word": "刘嘉玲 医美",
+        "onboard_time": 1775130081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360136,
+        "num": 216419,
+        "word": "李荣浩方否认恋人抄袭",
+        "onboard_time": 1775121861,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327179,
+        "num": 215438,
+        "word": "泰国女星近乎昏迷时遭救护员性侵",
+        "onboard_time": 1775125522,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215128,
+        "num": 215128,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1775116342,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305544,
+        "num": 212498,
+        "word": "离职守恒定律",
+        "onboard_time": 1775124681,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43735,
+        "num": 205308,
+        "word": "女生就读殡葬专业就业前景光明",
+        "onboard_time": 1775131282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36379,
+        "num": 200482,
+        "word": "珠海一大厦有人名下163套房",
+        "onboard_time": 1775131222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39560,
+        "num": 191718,
+        "word": "美国载人绕月首日任务修厕所",
+        "onboard_time": 1775131102,
+        "rank": 19,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 262260,
+        "num": 187665,
+        "word": "王传君齐溪带孩子出游",
+        "onboard_time": 1775130081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185439,
+        "num": 185439,
+        "word": "女子104000元买80g金条店员报警",
+        "onboard_time": 1775116342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174540,
+        "num": 174540,
+        "word": "张杰回应张凌赫送花篮",
+        "onboard_time": 1775115082,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170695,
+        "num": 170695,
+        "word": "林依晨43岁状态",
+        "onboard_time": 1775126722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162630,
+        "num": 162630,
+        "word": "2026款小鹏MONA大大大大大升级",
+        "onboard_time": 1775128282,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165677,
+        "num": 159851,
+        "word": "张元英下巴",
+        "onboard_time": 1775130803,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137799,
+        "num": 137799,
+        "word": "女子赠侄子旧手机致出轨照外泄",
+        "onboard_time": 1775129963,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134283,
+        "num": 134283,
+        "word": "古巨基二胎儿子正面照公开",
+        "onboard_time": 1775127801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128806,
+        "num": 128806,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126954,
+        "num": 126954,
+        "word": "老式水果为什么消失了",
+        "onboard_time": 1775129241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191807,
+        "num": 125947,
+        "word": "夏克立回应再婚生女",
+        "onboard_time": 1775131461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33921,
+        "num": 124026,
+        "word": "10分钟10枚弹道导弹砸向以色列",
+        "onboard_time": 1775131042,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124000,
+        "num": 124000,
+        "word": "魏晨 老辈子就是会疼人",
+        "onboard_time": 1775130741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117816,
+        "num": 117816,
+        "word": "孙颖莎蒯曼都更换球衣",
+        "onboard_time": 1775131222,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114768,
+        "num": 114768,
+        "word": "三年后狗近视得找不到饭盆",
+        "onboard_time": 1775122641,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "王安宇 宽肩窄腰",
+        "onboard_time": 1775129423,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108110,
+        "num": 108110,
+        "word": "男子趁妻子去厕所上台相亲",
+        "onboard_time": 1775119461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11751,
+        "num": 107920,
+        "word": "还以为许光汉没穿",
+        "onboard_time": 1775131163,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25466,
+        "num": 107779,
+        "word": "男子让8岁儿子开车还发视频炫耀",
+        "onboard_time": 1775131222,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12043,
+        "num": 107737,
+        "word": "入殓师谈全新太空骨灰计划",
+        "onboard_time": 1775131222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107734,
+        "num": 107734,
+        "word": "董宇辉评论区被追问优思益售后方案",
+        "onboard_time": 1775130502,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104193,
+        "num": 104193,
+        "word": "孙颖莎蒯曼3局打到爆分",
+        "onboard_time": 1775130921,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104129,
+        "num": 104129,
+        "word": "高圆圆赵又廷女儿长这么大了",
+        "onboard_time": 1775125462,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99726,
+        "num": 99726,
+        "word": "特斯拉小米",
+        "onboard_time": 1775130441,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95960,
+        "num": 95960,
+        "word": "以色列遭到开战以来最大规模导弹袭击",
+        "onboard_time": 1775125042,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94357,
+        "num": 94357,
+        "word": "刘亦菲几乎没有法令纹",
+        "onboard_time": 1775130863,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93914,
+        "num": 93914,
+        "word": "乘风2026立意片来了",
+        "onboard_time": 1775128041,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87459,
+        "num": 87459,
+        "word": "伊朗袭击美军隐秘据点致37人死亡",
+        "onboard_time": 1775131102,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90677,
+        "num": 86932,
+        "word": "汪苏泷胜诉",
+        "onboard_time": 1775129963,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86009,
+        "num": 86009,
+        "word": "白日提灯",
+        "onboard_time": 1775126480,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}

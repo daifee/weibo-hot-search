@@ -1,6 +1,6 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775130924696,
+  "endTime": 1775131616972,
   "band_list": [
     {
       "raw_hot": 1485358,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 730921,
-      "num": 303178,
+      "num": 649643,
       "word": "乘风初见面直播",
       "onboard_time": 1775128462,
       "rank": 5,
@@ -113,6 +113,14 @@
       "onboard_time": 1775114241,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 657057,
+      "num": 657057,
+      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+      "onboard_time": 1775128762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 653788,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526641,
+      "num": 1084262,
+      "word": "三部门约谈抖音淘天小红书",
+      "onboard_time": 1775130261,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 514152,
       "num": 1057420,
       "word": "与辉同行卖优思益销售额超千万",
@@ -227,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 474601,
+      "num": 222316,
+      "word": "iPhone18Pro模具偷跑",
+      "onboard_time": 1775129182,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 450371,
       "num": 243692,
       "word": "张柏芝晒二儿子打球正脸",
@@ -251,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 431714,
-      "num": 222316,
-      "word": "iPhone18Pro模具偷跑",
-      "onboard_time": 1775129182,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 427626,
       "num": 427626,
       "word": "优思益营销策划公司被立案调查",
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415350,
-      "num": 1066456,
-      "word": "三部门约谈抖音淘天小红书",
+      "raw_hot": 408615,
+      "num": 408615,
+      "word": "迪丽热巴 古偶",
       "onboard_time": 1775130261,
-      "rank": 0,
-      "category": "互联网"
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 408421,
@@ -299,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 385398,
+      "num": 218311,
+      "word": "刘嘉玲 医美",
+      "onboard_time": 1775130081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373107,
       "num": 283059,
       "word": "严屹宽鼓励张凌赫接受质疑",
@@ -313,14 +337,6 @@
       "onboard_time": 1775092521,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 356297,
-      "num": 356297,
-      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
-      "onboard_time": 1775128762,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355449,
@@ -441,6 +457,14 @@
       "onboard_time": 1775055324,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262260,
+      "num": 187665,
+      "word": "王传君齐溪带孩子出游",
+      "onboard_time": 1775130081,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 260271,
@@ -611,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220753,
+      "num": 220753,
+      "word": "王曼昱挑战TTR失败",
+      "onboard_time": 1775130261,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219518,
       "num": 797734,
       "word": "中方回应特朗普鼓动各国抢石油",
@@ -683,20 +715,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191807,
+      "num": 125947,
+      "word": "夏克立回应再婚生女",
+      "onboard_time": 1775131461,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188900,
       "num": 122209,
       "word": "今麦郎手打擦边20年不能停产就完了",
       "onboard_time": 1775106682,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188884,
-      "num": 188884,
-      "word": "王曼昱挑战TTR失败",
-      "onboard_time": 1775130261,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 186033,
@@ -755,14 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171008,
-      "num": 168859,
-      "word": "王传君齐溪带孩子出游",
-      "onboard_time": 1775130081,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169484,
       "num": 126419,
       "word": "被易烊千玺骗到了",
@@ -787,14 +811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168369,
-      "num": 168369,
-      "word": "刘嘉玲 医美",
-      "onboard_time": 1775130081,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166672,
       "num": 415383,
       "word": "优思益声明",
@@ -811,6 +827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 165677,
+      "num": 159851,
+      "word": "张元英下巴",
+      "onboard_time": 1775130803,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165389,
       "num": 165389,
       "word": "Wayward曝369休息原因",
@@ -819,12 +843,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165368,
-      "num": 165368,
-      "word": "迪丽热巴 古偶",
-      "onboard_time": 1775130261,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 162630,
+      "num": 162630,
+      "word": "2026款小鹏MONA大大大大大升级",
+      "onboard_time": 1775128282,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 162399,
@@ -955,12 +979,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137870,
-      "num": 137870,
-      "word": "2026款小鹏MONA大大大大大升级",
-      "onboard_time": 1775128282,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "女子赠侄子旧手机致出轨照外泄",
+      "onboard_time": 1775129963,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136696,
@@ -1067,8 +1091,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126524,
-      "num": 126524,
+      "raw_hot": 126954,
+      "num": 126954,
       "word": "老式水果为什么消失了",
       "onboard_time": 1775129241,
       "rank": 29,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1775099961,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 124000,
+      "num": 124000,
+      "word": "魏晨 老辈子就是会疼人",
+      "onboard_time": 1775130741,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 123616,
@@ -1203,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117816,
+      "num": 117816,
+      "word": "孙颖莎蒯曼都更换球衣",
+      "onboard_time": 1775131222,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117030,
       "num": 220962,
       "word": "加油站开业请模特穿紧身短裙搞促销",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1775112921,
       "rank": 24,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 111360,
+      "num": 111360,
+      "word": "王安宇 宽肩窄腰",
+      "onboard_time": 1775129423,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 111076,
@@ -1307,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107734,
+      "num": 107734,
+      "word": "董宇辉评论区被追问优思益售后方案",
+      "onboard_time": 1775130502,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107604,
       "num": 103480,
       "word": "周杰伦白西装昆凌黑羽绒服",
@@ -1323,14 +1379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 106005,
-      "num": 95559,
-      "word": "王安宇 宽肩窄腰",
-      "onboard_time": 1775129423,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105641,
       "num": 105641,
       "word": "王艺迪获伦敦世乒赛参赛资格",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1775116882,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104193,
+      "num": 104193,
+      "word": "孙颖莎蒯曼3局打到爆分",
+      "onboard_time": 1775130921,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 103574,
@@ -1499,6 +1555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94357,
+      "num": 94357,
+      "word": "刘亦菲几乎没有法令纹",
+      "onboard_time": 1775130863,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93961,
       "num": 93961,
       "word": "感觉迪丽热巴从头到脚都香香的",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1775105423,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 90998,
-      "num": 90998,
-      "word": "董宇辉评论区被追问优思益售后方案",
-      "onboard_time": 1775130502,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90928,
@@ -1675,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87459,
+      "num": 87459,
+      "word": "伊朗袭击美军隐秘据点致37人死亡",
+      "onboard_time": 1775131102,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86924,
       "num": 124845,
       "word": "中国把数据中心搬进大海",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1775130561,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82491,
-      "num": 82491,
-      "word": "魏晨 老辈子就是会疼人",
-      "onboard_time": 1775130741,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 82273,
@@ -2075,14 +2131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69536,
-      "num": 87056,
-      "word": "女子赠侄子旧手机致出轨照外泄",
-      "onboard_time": 1775129963,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69242,
       "num": 69242,
       "word": "宿迁文旅把项羽虞姬都请了",
@@ -2363,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43735,
+      "num": 205308,
+      "word": "女生就读殡葬专业就业前景光明",
+      "onboard_time": 1775131282,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43324,
       "num": 83010,
       "word": "谁给丞磊挑的内搭",
@@ -2411,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40021,
-      "num": 83323,
-      "word": "刘亦菲几乎没有法令纹",
-      "onboard_time": 1775130863,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39889,
       "num": 83583,
       "word": "特朗普的讲话是给谁看的",
@@ -2427,20 +2475,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39560,
+      "num": 191718,
+      "word": "美国载人绕月首日任务修厕所",
+      "onboard_time": 1775131102,
+      "rank": 19,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 38486,
       "num": 180331,
       "word": "猪肉价格接近姜蒜",
       "onboard_time": 1775128221,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38483,
-      "num": 88329,
-      "word": "张元英下巴",
-      "onboard_time": 1775130803,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 38372,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1775050524,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36379,
+      "num": 200482,
+      "word": "珠海一大厦有人名下163套房",
+      "onboard_time": 1775131222,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35042,
@@ -2481,6 +2537,14 @@
       "onboard_time": 1775056703,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33921,
+      "num": 124026,
+      "word": "10分钟10枚弹道导弹砸向以色列",
+      "onboard_time": 1775131042,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33706,
@@ -2563,6 +2627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25466,
+      "num": 107779,
+      "word": "男子让8岁儿子开车还发视频炫耀",
+      "onboard_time": 1775131222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25204,
       "num": 33786,
       "word": "杨紫直播",
@@ -2619,12 +2691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12043,
+      "num": 107737,
+      "word": "入殓师谈全新太空骨灰计划",
+      "onboard_time": 1775131222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11829,
       "num": 612113,
       "word": "十五五我们躬身加油干",
       "onboard_time": 1775048124,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11751,
+      "num": 107920,
+      "word": "还以为许光汉没穿",
+      "onboard_time": 1775131163,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 11194,
