@@ -1,13 +1,21 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775169639902,
+  "endTime": 1775170811967,
   "band_list": [
     {
       "raw_hot": 488382,
-      "num": 95793,
+      "num": 127028,
       "word": "张天爱变样了",
       "onboard_time": 1775131882,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 459430,
+      "num": 334262,
+      "word": "孙怡说我看那玩意儿干啥啊",
+      "onboard_time": 1775149997,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -27,20 +35,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321751,
-      "num": 267532,
-      "word": "孙怡说我看那玩意儿干啥啊",
-      "onboard_time": 1775149997,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 354031,
+      "num": 127729,
+      "word": "伊朗称250年历史无法威胁6000年文明",
+      "onboard_time": 1775148918,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 283747,
-      "num": 91308,
+      "raw_hot": 310412,
+      "num": 127563,
       "word": "优思益代言人",
       "onboard_time": 1775145862,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296464,
+      "num": 603701,
+      "word": "宝妈投诉蛋糕店未果反助店家爆单",
+      "onboard_time": 1775141665,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280061,
@@ -51,11 +67,11 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 263471,
-      "num": 90549,
-      "word": "伊朗称250年历史无法威胁6000年文明",
-      "onboard_time": 1775148918,
-      "rank": 38,
+      "raw_hot": 242297,
+      "num": 127139,
+      "word": "伊朗强硬回应特朗普",
+      "onboard_time": 1775145862,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -67,24 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212757,
-      "num": 88190,
-      "word": "伊朗强硬回应特朗普",
-      "onboard_time": 1775145862,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 209256,
-      "num": 477925,
-      "word": "宝妈投诉蛋糕店未果反助店家爆单",
-      "onboard_time": 1775141665,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200014,
-      "num": 128486,
+      "num": 180451,
       "word": "唐艺昕陶昕然 宝娟我的嗓子",
       "onboard_time": 1775140224,
       "rank": 13,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 177266,
-      "num": 348315,
+      "num": 430323,
       "word": "嘴唇发紫博主称一直以为身体正常",
       "onboard_time": 1775143642,
       "rank": 7,
@@ -113,6 +113,14 @@
       "onboard_time": 1775132423,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147175,
+      "num": 147175,
+      "word": "美国头大了",
+      "onboard_time": 1775137103,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139647,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125421,
-      "num": 125421,
-      "word": "美国头大了",
-      "onboard_time": 1775137103,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114918,
       "num": 114918,
       "word": "优思益",
@@ -155,6 +155,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99269,
+      "num": 99269,
+      "word": "女子离婚多年名字被刻上前婆婆墓碑",
+      "onboard_time": 1775141306,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98655,
+      "num": 73755,
+      "word": "王俊凯乘风直播状态",
+      "onboard_time": 1775151077,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96331,
       "num": 75470,
       "word": "张凌赫后面还有两部待播将军剧",
@@ -163,20 +179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95321,
+      "num": 95321,
+      "word": "以色列遭到开战以来最大规模导弹袭击",
+      "onboard_time": 1775125042,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90613,
+      "num": 127814,
+      "word": "老式水果为什么消失了",
+      "onboard_time": 1775129241,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84802,
+      "num": 84802,
+      "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
+      "onboard_time": 1775139865,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82660,
       "num": 75434,
       "word": "李荣浩方否认恋人抄袭",
       "onboard_time": 1775121861,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 78878,
-      "num": 78878,
-      "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
-      "onboard_time": 1775139865,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76239,
@@ -203,19 +235,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 75358,
-      "num": 55819,
-      "word": "王俊凯乘风直播状态",
-      "onboard_time": 1775151077,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 71077,
-      "num": 93483,
-      "word": "老式水果为什么消失了",
-      "onboard_time": 1775129241,
-      "rank": 18,
+      "raw_hot": 74992,
+      "num": 75360,
+      "word": "张雪一家三口13年前视频",
+      "onboard_time": 1775143581,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -235,14 +259,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 69484,
-      "num": 75443,
-      "word": "女子离婚多年名字被刻上前婆婆墓碑",
-      "onboard_time": 1775141306,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66528,
       "num": 75549,
       "word": "佛山鸡煲太火爆老板开小号黑自己",
@@ -251,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65605,
-      "num": 75235,
-      "word": "以色列遭到开战以来最大规模导弹袭击",
-      "onboard_time": 1775125042,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 64375,
+      "num": 75232,
+      "word": "夏克立回应再婚生女",
+      "onboard_time": 1775131461,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 59338,
@@ -275,20 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54622,
-      "num": 75232,
-      "word": "夏克立回应再婚生女",
-      "onboard_time": 1775131461,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 52015,
-      "num": 75360,
-      "word": "张雪一家三口13年前视频",
-      "onboard_time": 1775143581,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 50775,
+      "num": 74946,
+      "word": "孙颖莎2比7落后完成逆转",
+      "onboard_time": 1775132543,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 49506,
@@ -299,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49431,
+      "num": 75054,
+      "word": "女子20万买170g金条藏豆瓣酱里",
+      "onboard_time": 1775136143,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49025,
       "num": 75352,
       "word": "海警烈士谯禾林牺牲时执法画面公开",
       "onboard_time": 1775145561,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49017,
+      "num": 75175,
+      "word": "与辉同行致歉",
+      "onboard_time": 1775132303,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47108,
@@ -331,20 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42212,
-      "num": 75175,
-      "word": "与辉同行致歉",
-      "onboard_time": 1775132303,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41087,
-      "num": 74946,
-      "word": "孙颖莎2比7落后完成逆转",
-      "onboard_time": 1775132543,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 41934,
+      "num": 370445,
+      "word": "多城实施住房公积金新政",
+      "onboard_time": 1775134283,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39534,
@@ -353,14 +369,6 @@
       "onboard_time": 1775141784,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38437,
-      "num": 75054,
-      "word": "女子20万买170g金条藏豆瓣酱里",
-      "onboard_time": 1775136143,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36409,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 34304,
-      "num": 39394,
+      "num": 42786,
       "word": "特朗普发表讲话谈伊朗战事",
       "onboard_time": 1775151976,
       "rank": 28,
@@ -385,6 +393,14 @@
       "onboard_time": 1775139445,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33474,
+      "num": 42787,
+      "word": "白日提灯待遇",
+      "onboard_time": 1775168656,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32233,
@@ -401,14 +417,6 @@
       "onboard_time": 1775133082,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31941,
-      "num": 370445,
-      "word": "多城实施住房公积金新政",
-      "onboard_time": 1775134283,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31258,
@@ -435,12 +443,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 22087,
-      "num": 25888,
-      "word": "白日提灯待遇",
-      "onboard_time": 1775168656,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 17126,
+      "num": 42668,
+      "word": "2026款小鹏MONA大大大大大升级",
+      "onboard_time": 1775128282,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 15813,
