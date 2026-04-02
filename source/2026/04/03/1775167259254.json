@@ -1,0 +1,410 @@
+{
+  "runTime": 1775167259254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88469,
+        "num": 264155,
+        "word": "宝妈投诉蛋糕店未果反助店家爆单",
+        "onboard_time": 1775141665,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66796,
+        "num": 191360,
+        "word": "嘴唇发紫博主称一直以为身体正常",
+        "onboard_time": 1775143642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15459,
+        "num": 149153,
+        "word": "多城实施住房公积金新政",
+        "onboard_time": 1775134283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138925,
+        "num": 138925,
+        "word": "孙怡说我看那玩意儿干啥啊",
+        "onboard_time": 1775149997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99000,
+        "num": 99000,
+        "word": "王濛 安崎没满30不能淘汰",
+        "onboard_time": 1775146401,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67450,
+        "num": 97673,
+        "word": "美国头大了",
+        "onboard_time": 1775137103,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65829,
+        "num": 96264,
+        "word": "伊朗标志性大桥遭袭",
+        "onboard_time": 1775144602,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58799,
+        "num": 95696,
+        "word": "唐艺昕陶昕然 宝娟我的嗓子",
+        "onboard_time": 1775140224,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35362,
+        "num": 93483,
+        "word": "老式水果为什么消失了",
+        "onboard_time": 1775129241,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57809,
+        "num": 92888,
+        "word": "王濛 浪姐直播太磨叽了",
+        "onboard_time": 1775137163,
+        "rank": 9,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 136820,
+        "num": 90549,
+        "word": "伊朗称250年历史无法威胁6000年文明",
+        "onboard_time": 1775148918,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89951,
+        "num": 89951,
+        "word": "张天爱变样了",
+        "onboard_time": 1775131882,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86062,
+        "num": 86062,
+        "word": "伊朗强硬回应特朗普",
+        "onboard_time": 1775145862,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84046,
+        "num": 84046,
+        "word": "优思益代言人",
+        "onboard_time": 1775145862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78163,
+        "num": 78163,
+        "word": "孙怡马天宇镜头被切",
+        "onboard_time": 1775145081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52502,
+        "num": 52502,
+        "word": "阚清子出场",
+        "onboard_time": 1775144424,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49658,
+        "num": 49658,
+        "word": "以色列遭到开战以来最大规模导弹袭击",
+        "onboard_time": 1775125042,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36159,
+        "num": 36159,
+        "word": "女子离婚多年名字被刻上前婆婆墓碑",
+        "onboard_time": 1775141306,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33519,
+        "num": 33519,
+        "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
+        "onboard_time": 1775139865,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 30800,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43143,
+        "num": 30761,
+        "word": "王俊凯乘风直播状态",
+        "onboard_time": 1775151077,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30398,
+        "num": 30398,
+        "word": "迪丽热巴 古偶",
+        "onboard_time": 1775130261,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27515,
+        "num": 27515,
+        "word": "特朗普发表讲话谈伊朗战事",
+        "onboard_time": 1775151976,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26259,
+        "num": 26259,
+        "word": "张凌赫后面还有两部待播将军剧",
+        "onboard_time": 1775139985,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25184,
+        "num": 25184,
+        "word": "夏克立回应再婚生女",
+        "onboard_time": 1775131461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24557,
+        "num": 24557,
+        "word": "怦然心动20岁",
+        "onboard_time": 1775146581,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24994,
+        "num": 24148,
+        "word": "迪丽热巴陈飞宇共创",
+        "onboard_time": 1775144960,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23339,
+        "num": 23339,
+        "word": "与辉同行致歉",
+        "onboard_time": 1775132303,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23211,
+        "num": 23211,
+        "word": "三部门约谈抖音淘天小红书",
+        "onboard_time": 1775130261,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22121,
+        "num": 22121,
+        "word": "白鹿素颜做饭自拍",
+        "onboard_time": 1775137344,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 21507,
+        "word": "张雪一家三口13年前视频",
+        "onboard_time": 1775143581,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21496,
+        "num": 21496,
+        "word": "iPhone18Pro模具偷跑",
+        "onboard_time": 1775129182,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21336,
+        "num": 21336,
+        "word": "女子20万买170g金条藏豆瓣酱里",
+        "onboard_time": 1775136143,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21058,
+        "num": 21058,
+        "word": "王俊凯送考徐洁儿",
+        "onboard_time": 1775132423,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20089,
+        "num": 20089,
+        "word": "海警烈士谯禾林牺牲时执法画面公开",
+        "onboard_time": 1775145561,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19162,
+        "num": 19162,
+        "word": "邓凯要还车贷交社保把自己说生气了",
+        "onboard_time": 1775138904,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18009,
+        "num": 19161,
+        "word": "李现逛街偶遇粉丝",
+        "onboard_time": 1775144841,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17905,
+        "num": 19159,
+        "word": "伊朗一体育馆遭袭21名青少年死亡",
+        "onboard_time": 1775145202,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17716,
+        "num": 19153,
+        "word": "孙颖莎2比7落后完成逆转",
+        "onboard_time": 1775132543,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15802,
+        "num": 19151,
+        "word": "张雪为了家庭哭着去工厂上班",
+        "onboard_time": 1775147720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15566,
+        "num": 19149,
+        "word": "张元英下巴",
+        "onboard_time": 1775130803,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15345,
+        "num": 19147,
+        "word": "刘亦菲几乎没有法令纹",
+        "onboard_time": 1775130863,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13737,
+        "num": 19144,
+        "word": "博主嘴唇发紫粉丝隔空诊出心脏病",
+        "onboard_time": 1775132964,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13728,
+        "num": 19141,
+        "word": "李荣浩方否认恋人抄袭",
+        "onboard_time": 1775121861,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13671,
+        "num": 19137,
+        "word": "佛山鸡煲太火爆老板开小号黑自己",
+        "onboard_time": 1775136443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13222,
+        "num": 19134,
+        "word": "发明这个咖啡喝法的简直是天才",
+        "onboard_time": 1775131643,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13038,
+        "num": 19132,
+        "word": "阿瑟不卖的时候反耳嗑到了",
+        "onboard_time": 1775133082,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12800,
+        "num": 19129,
+        "word": "与檀健次共赴光影之约",
+        "onboard_time": 1775154196,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12393,
+        "num": 19127,
+        "word": "张桂源15宫格",
+        "onboard_time": 1775143524,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11716,
+        "num": 19124,
+        "word": "隐身的名字",
+        "onboard_time": 1775154016,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}
