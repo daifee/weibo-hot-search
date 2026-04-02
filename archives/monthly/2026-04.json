@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775125912309,
+  "endTime": 1775127617760,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612112,
+      "num": 227289,
+      "word": "离职守恒定律",
+      "onboard_time": 1775124681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 610609,
       "num": 846456,
       "word": "陈光标回应张雪要卖车",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 549073,
-      "num": 549073,
+      "num": 799492,
       "word": "印度65岁大象死亡生前被涂粉色颜料",
       "onboard_time": 1775123782,
       "rank": 4,
@@ -345,6 +353,14 @@
       "onboard_time": 1775115022,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 542824,
+      "num": 1086851,
+      "word": "已吃两瓶优思益消费者发声",
+      "onboard_time": 1775123662,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541150,
@@ -401,14 +417,6 @@
       "onboard_time": 1775109862,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 507789,
-      "num": 1081246,
-      "word": "已吃两瓶优思益消费者发声",
-      "onboard_time": 1775123662,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483317,
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324313,
+      "num": 324313,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1775124561,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317846,
       "num": 278980,
       "word": "金价瀑布式下跌",
@@ -881,6 +897,14 @@
       "onboard_time": 1775105543,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279022,
+      "num": 225694,
+      "word": "伊朗公布最新战果",
+      "onboard_time": 1775122461,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275814,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 242679,
-      "num": 107532,
+      "num": 177965,
       "word": "男子趁妻子去厕所上台相亲",
       "onboard_time": 1775119461,
       "rank": 21,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1775056344,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237761,
+      "num": 237761,
+      "word": "三年后狗近视得找不到饭盆",
+      "onboard_time": 1775122641,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 236458,
@@ -1139,14 +1171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228583,
-      "num": 202008,
-      "word": "伊朗公布最新战果",
-      "onboard_time": 1775122461,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "张凌赫改了自动回复",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1775032823,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225197,
-      "num": 89790,
-      "word": "三年后狗近视得找不到饭盆",
-      "onboard_time": 1775122641,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 223057,
@@ -1339,6 +1355,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 202137,
+      "num": 202137,
+      "word": "泰国女星近乎昏迷时遭救护员性侵",
+      "onboard_time": 1775125522,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201891,
       "num": 153916,
       "word": "虞书欣愚人节被骗",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1775019566,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 198660,
-      "num": 198660,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1775124561,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 198250,
@@ -1460,7 +1476,7 @@
     },
     {
       "raw_hot": 185938,
-      "num": 98866,
+      "num": 144777,
       "word": "曾舜晞工作室致歉",
       "onboard_time": 1775121201,
       "rank": 21,
@@ -1699,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154154,
+      "num": 154154,
+      "word": "高圆圆赵又廷女儿长这么大了",
+      "onboard_time": 1775125462,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "金价银价大跌了",
@@ -1729,14 +1753,6 @@
       "onboard_time": 1775110102,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150688,
-      "num": 88866,
-      "word": "离职守恒定律",
-      "onboard_time": 1775124681,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 150410,
@@ -1868,7 +1884,7 @@
     },
     {
       "raw_hot": 140891,
-      "num": 140891,
+      "num": 221892,
       "word": "乘风2026",
       "onboard_time": 1775100020,
       "rank": 28,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138550,
+      "num": 138550,
+      "word": "林依晨43岁状态",
+      "onboard_time": 1775126722,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 137821,
@@ -1964,7 +1988,7 @@
     },
     {
       "raw_hot": 133533,
-      "num": 133533,
+      "num": 139268,
       "word": "火旺 宋威龙",
       "onboard_time": 1775119523,
       "rank": 8,
@@ -2107,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125797,
+      "num": 141204,
+      "word": "董宇辉称商品上架前会完成相关检测",
+      "onboard_time": 1775123123,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125778,
       "num": 125778,
       "word": "4岁女孩买汉堡遭女子踢踹母亲发声",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1775059701,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121192,
+      "num": 121192,
+      "word": "TOP全员感冒",
+      "onboard_time": 1775126361,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 121023,
@@ -2369,6 +2409,14 @@
       "onboard_time": 1774946664,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115304,
+      "num": 234269,
+      "word": "以色列遭到开战以来最大规模导弹袭击",
+      "onboard_time": 1775125042,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115225,
@@ -2683,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100884,
+      "num": 100884,
+      "word": "孙颖莎11比4蒯曼",
+      "onboard_time": 1775127202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100754,
       "num": 100754,
       "word": "伊朗以色列同时大规模互袭",
@@ -2779,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98865,
+      "num": 98865,
+      "word": "白日提灯",
+      "onboard_time": 1775126480,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98582,
       "num": 98582,
       "word": "张凌赫丁程鑫你俩有点暧昧",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1775025562,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96146,
+      "num": 96146,
+      "word": "性侵泰国女星嫌疑人已承认指控",
+      "onboard_time": 1775123302,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95838,
@@ -2995,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92123,
-      "num": 92123,
-      "word": "董宇辉称商品上架前会完成相关检测",
-      "onboard_time": 1775123123,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 92023,
       "num": 92023,
       "word": "下次租房我就这样问",
@@ -3020,7 +3084,7 @@
     },
     {
       "raw_hot": 90928,
-      "num": 90928,
+      "num": 133028,
       "word": "同事离职显得我很命苦",
       "onboard_time": 1775122940,
       "rank": 27,
@@ -3283,6 +3347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86256,
+      "num": 105905,
+      "word": "张雪谈夺冠那一刻",
+      "onboard_time": 1775127501,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86090,
       "num": 86090,
       "word": "带娃一个月终于懂了妈妈的月子病",
@@ -3491,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82037,
+      "num": 82037,
+      "word": "孙颖莎蒯曼争八强",
+      "onboard_time": 1775127441,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82012,
       "num": 82012,
       "word": "帕梅拉 你是我带过最差的一届",
@@ -3505,6 +3585,14 @@
       "onboard_time": 1775081296,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81798,
+      "num": 204939,
+      "word": "毛晓彤花神妆",
+      "onboard_time": 1775124561,
+      "rank": 17,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 81657,
@@ -3561,14 +3649,6 @@
       "onboard_time": 1775120720,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79666,
-      "num": 107463,
-      "word": "毛晓彤花神妆",
-      "onboard_time": 1775124561,
-      "rank": 17,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 79559,
@@ -3675,6 +3755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76899,
+      "num": 76899,
+      "word": "不卡牙的金针菇来了",
+      "onboard_time": 1775127021,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76375,
       "num": 83809,
       "word": "收到了1岁到28岁的礼物",
@@ -3705,14 +3793,6 @@
       "onboard_time": 1775033243,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 76020,
-      "num": 76020,
-      "word": "性侵泰国女星嫌疑人已承认指控",
-      "onboard_time": 1775123302,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75914,
@@ -3793,6 +3873,14 @@
       "onboard_time": 1775021006,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74391,
+      "num": 74391,
+      "word": "NS零封DK",
+      "onboard_time": 1775127501,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 74302,
@@ -3899,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71647,
+      "num": 71647,
+      "word": "带货优思益明星或担连带责任",
+      "onboard_time": 1775124921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "王者愚人节限时玩法",
@@ -3929,6 +4025,14 @@
       "onboard_time": 1775118022,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70710,
+      "num": 70710,
+      "word": "14岁男孩与猫狗同吃同睡双眼险失明",
+      "onboard_time": 1775127322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70668,
@@ -3987,20 +4091,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69974,
-      "num": 69974,
-      "word": "带货优思益明星或担连带责任",
-      "onboard_time": 1775124921,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69377,
       "num": 83153,
       "word": "中国机器人有了肌腱",
       "onboard_time": 1775009301,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 69242,
+      "num": 69242,
+      "word": "宿迁文旅把项羽虞姬都请了",
+      "onboard_time": 1775124201,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 69199,
@@ -4017,6 +4121,14 @@
       "onboard_time": 1775056344,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68387,
+      "num": 68387,
+      "word": "智界CEO谈亏本卖车",
+      "onboard_time": 1775127082,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 67542,
@@ -4051,28 +4163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66245,
-      "num": 66245,
-      "word": "宿迁文旅把项羽虞姬都请了",
-      "onboard_time": 1775124201,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 66133,
       "num": 66133,
       "word": "鞠婧祎角色热度优酷年冠",
       "onboard_time": 1775061678,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65928,
-      "num": 65928,
-      "word": "泰国女星近乎昏迷时遭救护员性侵",
-      "onboard_time": 1775125522,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65810,
@@ -4089,6 +4185,14 @@
       "onboard_time": 1775125702,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65138,
+      "num": 65138,
+      "word": "张俪回应二搭迪丽热巴",
+      "onboard_time": 1775126722,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 64132,
@@ -4387,14 +4491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50105,
-      "num": 66080,
-      "word": "高圆圆赵又廷女儿长这么大了",
-      "onboard_time": 1775125462,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49981,
       "num": 54799,
       "word": "美军进攻伊朗岛屿将变成活靶子",
@@ -4521,6 +4617,14 @@
       "onboard_time": 1775012004,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41635,
+      "num": 72999,
+      "word": "乘风2026初舞台pk",
+      "onboard_time": 1775119941,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41074,
@@ -4899,6 +5003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11194,
+      "num": 96758,
+      "word": "直击鸟中大熊猫青头潜鸭野化放飞",
+      "onboard_time": 1775127441,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8658,
       "num": 90721,
       "word": "男子臆想妻子迷信害自己将妻子杀害",
@@ -4913,6 +5025,14 @@
       "onboard_time": 1775098041,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7027,
+      "num": 69351,
+      "word": "深圳高铁站台禁烟",
+      "onboard_time": 1775127562,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
