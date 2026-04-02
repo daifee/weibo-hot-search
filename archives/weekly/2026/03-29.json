@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775150185819,
+  "endTime": 1775153352042,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -2489,6 +2489,14 @@
       "onboard_time": 1775027723,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291515,
+      "num": 117899,
+      "word": "孙怡说我看那玩意儿干啥啊",
+      "onboard_time": 1775149997,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 291335,
@@ -11779,14 +11787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66813,
-      "num": 62048,
-      "word": "孙怡说我看那玩意儿干啥啊",
-      "onboard_time": 1775149997,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66742,
       "num": 82361,
       "word": "金价急速飙涨",
@@ -13395,6 +13395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33121,
+      "num": 39347,
+      "word": "王俊凯乘风直播状态",
+      "onboard_time": 1775151077,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32495,
       "num": 251344,
       "word": "郑丽文访陆遭台陆委会恫吓",
@@ -13697,6 +13705,14 @@
       "onboard_time": 1775131222,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25283,
+      "num": 39394,
+      "word": "特朗普发表讲话谈伊朗战事",
+      "onboard_time": 1775151976,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24968,

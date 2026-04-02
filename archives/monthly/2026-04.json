@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775150185819,
+  "endTime": 1775153352042,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1775027723,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291515,
+      "num": 117899,
+      "word": "孙怡说我看那玩意儿干啥啊",
+      "onboard_time": 1775149997,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 290194,
@@ -4971,14 +4979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66813,
-      "num": 62048,
-      "word": "孙怡说我看那玩意儿干啥啊",
-      "onboard_time": 1775149997,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66133,
       "num": 66133,
       "word": "鞠婧祎角色热度优酷年冠",
@@ -5675,6 +5675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33121,
+      "num": 39347,
+      "word": "王俊凯乘风直播状态",
+      "onboard_time": 1775151077,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32264,
       "num": 53769,
       "word": "特朗普被曝希望快速结束战争",
@@ -5817,6 +5825,14 @@
       "onboard_time": 1775131222,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25283,
+      "num": 39394,
+      "word": "特朗普发表讲话谈伊朗战事",
+      "onboard_time": 1775151976,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23579,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/04/03 01:16:25
+本榜单时间：2026/03/29 00:43:57 ~ 2026/04/03 02:09:12
 </p>
 </blockquote>
 <p>
@@ -1877,6 +1877,12 @@ TES对战AL（热度：305100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E6%BC%94%E6%8A%80%23" target="weibo">
 鞠婧祎月鳞绮纪演技（热度：291775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E6%88%91%E7%9C%8B%E9%82%A3%E7%8E%A9%E6%84%8F%E5%84%BF%E5%B9%B2%E5%95%A5%E5%95%8A%23" target="weibo">
+孙怡说我看那玩意儿干啥啊（热度：291515）
 </a>
 </li>
 
@@ -8847,12 +8853,6 @@ Milkway澄清假赛（热度：67713）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E6%88%91%E7%9C%8B%E9%82%A3%E7%8E%A9%E6%84%8F%E5%84%BF%E5%B9%B2%E5%95%A5%E5%95%8A%23" target="weibo">
-孙怡说我看那玩意儿干啥啊（热度：66813）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8%23" target="weibo">
 金价急速飙涨（热度：66742）
 </a>
@@ -10059,6 +10059,12 @@ DYG纪录片（热度：34056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B9%98%E9%A3%8E%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
+王俊凯乘风直播状态（热度：33121）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E9%99%86%E9%81%AD%E5%8F%B0%E9%99%86%E5%A7%94%E4%BC%9A%E6%81%AB%E5%90%93%23" target="weibo">
 郑丽文访陆遭台陆委会恫吓（热度：32495）
 </a>
@@ -10283,6 +10289,12 @@ KPL（热度：26077）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%A98%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E8%BD%A6%E8%BF%98%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%23" target="weibo">
 男子让8岁儿子开车还发视频炫耀（热度：25466）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23" target="weibo">
+特朗普发表讲话谈伊朗战事（热度：25283）
 </a>
 </li>
 
