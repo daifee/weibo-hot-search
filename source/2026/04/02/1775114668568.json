@@ -1,0 +1,410 @@
+{
+  "runTime": 1775114668568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 766810,
+        "num": 1122689,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508916,
+        "num": 830865,
+        "word": "美国一婴儿光天化日在街头被枪杀",
+        "onboard_time": 1775109862,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32990,
+        "num": 665517,
+        "word": "又是赏花好时节",
+        "onboard_time": 1775113701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443103,
+        "num": 443103,
+        "word": "刘晓艳网课现场没有学生一个人聊嗨了",
+        "onboard_time": 1775107402,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258268,
+        "num": 258268,
+        "word": "优思益营销策划公司被立案调查",
+        "onboard_time": 1775101941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227056,
+        "num": 227056,
+        "word": "许昕说国家队大门永远给所有人打开",
+        "onboard_time": 1775112081,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209464,
+        "num": 209464,
+        "word": "肖战网文五大热门ip集齐四个",
+        "onboard_time": 1775106921,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206230,
+        "num": 206230,
+        "word": "乘风一口气官宣34位送考人",
+        "onboard_time": 1775105963,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203338,
+        "num": 203338,
+        "word": "银行回应老人存10万变7万",
+        "onboard_time": 1775105601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182079,
+        "num": 182079,
+        "word": "张雪师父牙哥发声",
+        "onboard_time": 1775113461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653788,
+        "num": 181974,
+        "word": "张雪说被资本搞懵了",
+        "onboard_time": 1775108123,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441311,
+        "num": 181393,
+        "word": "金价",
+        "onboard_time": 1775110223,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317946,
+        "num": 180220,
+        "word": "胡彦斌连夜关闭了人脸支付",
+        "onboard_time": 1775107042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261582,
+        "num": 179764,
+        "word": "李若彤发布致歉声明",
+        "onboard_time": 1775100982,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 233482,
+        "num": 179229,
+        "word": "董宇辉曾说产品上播10天前有人试吃",
+        "onboard_time": 1775106383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 178301,
+        "word": "这个代言是时团自己谈下来的吧",
+        "onboard_time": 1775111782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185814,
+        "num": 178191,
+        "word": "张雪",
+        "onboard_time": 1775106981,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177599,
+        "num": 177599,
+        "word": "特朗普话音刚落伊朗导弹袭向以色列",
+        "onboard_time": 1775097920,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168843,
+        "num": 168843,
+        "word": "阿花花酱 优思益",
+        "onboard_time": 1775109682,
+        "rank": 18,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 146001,
+        "num": 146001,
+        "word": "刘亦菲老钱风大片",
+        "onboard_time": 1775110102,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158412,
+        "num": 143457,
+        "word": "男孩捡50g金条咬了一口竟是真的",
+        "onboard_time": 1775105782,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135867,
+        "num": 135867,
+        "word": "张凌赫科普自闭症不是心理疾病",
+        "onboard_time": 1775114062,
+        "rank": 21,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 133896,
+        "num": 133896,
+        "word": "主播陆续回应优思益售后",
+        "onboard_time": 1775098700,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116917,
+        "num": 116917,
+        "word": "多位明星曾直播卖优思益",
+        "onboard_time": 1775111542,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 111663,
+        "num": 111663,
+        "word": "伊能静方致歉",
+        "onboard_time": 1775112921,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 110555,
+        "num": 110555,
+        "word": "Wayward曝369休息原因",
+        "onboard_time": 1775107882,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108602,
+        "num": 108602,
+        "word": "日本股市暴跌1200点",
+        "onboard_time": 1775112681,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104709,
+        "num": 104709,
+        "word": "严屹宽曝张凌赫挨鞭子真打了108次",
+        "onboard_time": 1775109922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95053,
+        "num": 95053,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89549,
+        "num": 89549,
+        "word": "师父说曾数十次借钱给张雪",
+        "onboard_time": 1775113461,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114256,
+        "num": 89544,
+        "word": "导师和导员都沉默了",
+        "onboard_time": 1775114241,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112944,
+        "num": 89544,
+        "word": "官方通报天湖医院解聘全体职工",
+        "onboard_time": 1775113102,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91488,
+        "num": 89544,
+        "word": "今麦郎手打擦边20年不能停产就完了",
+        "onboard_time": 1775106682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89493,
+        "num": 89493,
+        "word": "敦煌一半沙漠一半花海太绝了",
+        "onboard_time": 1775114602,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 89367,
+        "num": 89367,
+        "word": "肖战现身青岛",
+        "onboard_time": 1775111661,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "日本终于露出獠牙",
+        "onboard_time": 1775089824,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44881,
+        "num": 88815,
+        "word": "12岁男孩提到写作业1天呕吐10次",
+        "onboard_time": 1775113222,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60726,
+        "num": 87422,
+        "word": "丈夫离婚前挥霍百万算作已分得财产",
+        "onboard_time": 1775113222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27502,
+        "num": 85202,
+        "word": "三部门开展猪肉收储",
+        "onboard_time": 1775113222,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39889,
+        "num": 83583,
+        "word": "特朗普的讲话是给谁看的",
+        "onboard_time": 1775113521,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83194,
+        "num": 83194,
+        "word": "宝珠",
+        "onboard_time": 1775099481,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82753,
+        "num": 82753,
+        "word": "怪不得上大学老了这么多",
+        "onboard_time": 1775100622,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41074,
+        "num": 81768,
+        "word": "余宇涵什么族 TF家族",
+        "onboard_time": 1775114602,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81428,
+        "num": 81674,
+        "word": "撸了一只认错人的猫",
+        "onboard_time": 1775112263,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81645,
+        "num": 81645,
+        "word": "学完蒙语就可以凭肉眼配钥匙了",
+        "onboard_time": 1775114421,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81542,
+        "num": 81542,
+        "word": "法国车手34岁夺冠感谢张雪机车圆梦",
+        "onboard_time": 1775110701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77214,
+        "num": 77214,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74565,
+        "num": 74565,
+        "word": "清明拼假4天休9天",
+        "onboard_time": 1775114062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74162,
+        "num": 74162,
+        "word": "黄杨钿甜新剧被鞭刑梦回小楚乔",
+        "onboard_time": 1775111782,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73843,
+        "num": 73843,
+        "word": "吴佩孚公馆转卖背后的隐秘交易",
+        "onboard_time": 1775112023,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}
