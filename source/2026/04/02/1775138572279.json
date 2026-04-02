@@ -1,0 +1,410 @@
+{
+  "runTime": 1775138572279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800476,
+        "num": 1128076,
+        "word": "乘风直播节奏好慢",
+        "onboard_time": 1775133564,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268197,
+        "num": 798859,
+        "word": "与辉同行致歉",
+        "onboard_time": 1775132303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122057,
+        "num": 645854,
+        "word": "多城实施住房公积金新政",
+        "onboard_time": 1775134283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1899779,
+        "num": 593237,
+        "word": "张天爱变样了",
+        "onboard_time": 1775131882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271954,
+        "num": 271954,
+        "word": "伊朗航空航天部队司令巡视地下导弹基地",
+        "onboard_time": 1775133744,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514957,
+        "num": 246500,
+        "word": "谢娜控场能力",
+        "onboard_time": 1775131763,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220690,
+        "num": 220690,
+        "word": "三部门约谈抖音淘天小红书",
+        "onboard_time": 1775130261,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200497,
+        "num": 200497,
+        "word": "美国头大了",
+        "onboard_time": 1775137103,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "博主嘴唇发紫粉丝隔空诊出心脏病",
+        "onboard_time": 1775132964,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164429,
+        "num": 194559,
+        "word": "孙颖莎2比7落后完成逆转",
+        "onboard_time": 1775132543,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 790577,
+        "num": 193548,
+        "word": "迪丽热巴 古偶",
+        "onboard_time": 1775130261,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 638305,
+        "num": 191618,
+        "word": "王俊凯送考徐洁儿",
+        "onboard_time": 1775132423,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205742,
+        "num": 188648,
+        "word": "伊朗袭击美军隐秘据点致37人死亡",
+        "onboard_time": 1775131102,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 496586,
+        "num": 187961,
+        "word": "黄灿灿问范玮琪有版权吗",
+        "onboard_time": 1775133923,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223146,
+        "num": 185193,
+        "word": "李荣浩方否认恋人抄袭",
+        "onboard_time": 1775121861,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184951,
+        "num": 184951,
+        "word": "iPhone18Pro模具偷跑",
+        "onboard_time": 1775129182,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 432946,
+        "num": 179479,
+        "word": "王濛 浪姐直播太磨叽了",
+        "onboard_time": 1775137163,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 168774,
+        "num": 168774,
+        "word": "特朗普说宴会厅都建不了算什么国王",
+        "onboard_time": 1775135904,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "佛山鸡煲太火爆老板开小号黑自己",
+        "onboard_time": 1775136443,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105446,
+        "num": 155973,
+        "word": "王艺迪vs张本美和",
+        "onboard_time": 1775134463,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574090,
+        "num": 150690,
+        "word": "张元英下巴",
+        "onboard_time": 1775130803,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300225,
+        "num": 149939,
+        "word": "夏克立回应再婚生女",
+        "onboard_time": 1775131461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421220,
+        "num": 141665,
+        "word": "女子赠侄子旧手机致出轨照外泄",
+        "onboard_time": 1775129963,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17686,
+        "num": 137526,
+        "word": "中介3万元就能办澳洲5类保健品商标",
+        "onboard_time": 1775138304,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212148,
+        "num": 134113,
+        "word": "刘亦菲几乎没有法令纹",
+        "onboard_time": 1775130863,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198063,
+        "num": 129697,
+        "word": "白鹿素颜做饭自拍",
+        "onboard_time": 1775137344,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127394,
+        "num": 127394,
+        "word": "金价持续大蹦极",
+        "onboard_time": 1775137522,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182456,
+        "num": 126074,
+        "word": "陈妍希方致歉",
+        "onboard_time": 1775135244,
+        "rank": 27,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 119211,
+        "num": 119211,
+        "word": "老式水果为什么消失了",
+        "onboard_time": 1775129241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117330,
+        "num": 117330,
+        "word": "阿瑟不卖的时候反耳嗑到了",
+        "onboard_time": 1775133082,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102521,
+        "num": 102521,
+        "word": "KSG对战DYG",
+        "onboard_time": 1775128401,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101843,
+        "num": 101843,
+        "word": "曾沛慈好高",
+        "onboard_time": 1775137944,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93684,
+        "num": 93684,
+        "word": "发明这个咖啡喝法的简直是天才",
+        "onboard_time": 1775131643,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93521,
+        "num": 93521,
+        "word": "乘风直播时长",
+        "onboard_time": 1775136503,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90027,
+        "num": 90027,
+        "word": "汉堡店踢踹4岁女孩女子已道歉",
+        "onboard_time": 1775136863,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 89322,
+        "word": "女子104000元买80g金条店员报警",
+        "onboard_time": 1775116342,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86802,
+        "num": 86802,
+        "word": "已吃两瓶优思益消费者发声",
+        "onboard_time": 1775123662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 84793,
+        "word": "小猫会自己打开小床晒太阳",
+        "onboard_time": 1775132902,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80610,
+        "num": 80610,
+        "word": "你好1983结局",
+        "onboard_time": 1775127621,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 78760,
+        "word": "林依晨43岁状态",
+        "onboard_time": 1775126722,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77147,
+        "num": 77147,
+        "word": "理想比亚迪车主斗气致小米车主撞伤",
+        "onboard_time": 1775137944,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76764,
+        "num": 76764,
+        "word": "魏晨 老辈子就是会疼人",
+        "onboard_time": 1775130741,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76625,
+        "num": 76625,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1775116342,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76482,
+        "num": 76482,
+        "word": "以色列遭到开战以来最大规模导弹袭击",
+        "onboard_time": 1775125042,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76155,
+        "num": 76155,
+        "word": "孙颖莎蒯曼都更换球衣",
+        "onboard_time": 1775131222,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75012,
+        "num": 75012,
+        "word": "离职守恒定律",
+        "onboard_time": 1775124681,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65878,
+        "num": 75012,
+        "word": "38岁毛晓彤状态",
+        "onboard_time": 1775138244,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65470,
+        "num": 74993,
+        "word": "日本启动第19次核污染水排海",
+        "onboard_time": 1775134945,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61848,
+        "num": 74969,
+        "word": "李若彤与辉同行等要为优思益担责吗",
+        "onboard_time": 1775137043,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60695,
+        "num": 74959,
+        "word": "女子20万买170g金条藏豆瓣酱里",
+        "onboard_time": 1775136143,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}
