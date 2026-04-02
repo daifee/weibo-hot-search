@@ -1,7 +1,15 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775131616972,
+  "endTime": 1775136595703,
   "band_list": [
+    {
+      "raw_hot": 2232440,
+      "num": 541857,
+      "word": "张天爱变样了",
+      "onboard_time": 1775131882,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1485358,
       "num": 1485358,
@@ -83,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808466,
+      "num": 1129354,
+      "word": "乘风直播节奏好慢",
+      "onboard_time": 1775133564,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787450,
       "num": 595234,
       "word": "以色列遭开战以来最大规模导弹袭击",
       "onboard_time": 1775062099,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 785134,
+      "num": 339574,
+      "word": "王俊凯送考徐洁儿",
+      "onboard_time": 1775132423,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 730921,
@@ -121,6 +145,14 @@
       "onboard_time": 1775128762,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654278,
+      "num": 408615,
+      "word": "迪丽热巴 古偶",
+      "onboard_time": 1775130261,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 653788,
@@ -179,6 +211,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 602094,
+      "num": 159851,
+      "word": "张元英下巴",
+      "onboard_time": 1775130803,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 584393,
+      "num": 156379,
+      "word": "谢娜控场能力",
+      "onboard_time": 1775131763,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580649,
       "num": 392859,
       "word": "杨紫 没人通知我啊",
@@ -201,6 +249,14 @@
       "onboard_time": 1775123662,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530516,
+      "num": 155125,
+      "word": "黄灿灿问范玮琪有版权吗",
+      "onboard_time": 1775133923,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 526641,
@@ -291,20 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408615,
-      "num": 408615,
-      "word": "迪丽热巴 古偶",
-      "onboard_time": 1775130261,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408421,
       "num": 768809,
       "word": "孙颖莎vs蒯曼",
       "onboard_time": 1775124561,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389553,
+      "num": 139905,
+      "word": "夏克立回应再婚生女",
+      "onboard_time": 1775131461,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 388472,
@@ -355,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345046,
+      "num": 345046,
+      "word": "女子赠侄子旧手机致出轨照外泄",
+      "onboard_time": 1775129963,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337323,
+      "num": 838955,
+      "word": "与辉同行致歉",
+      "onboard_time": 1775132303,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334779,
       "num": 156039,
       "word": "王菲俞飞鸿聚餐",
@@ -369,6 +441,14 @@
       "onboard_time": 1775107042,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324815,
+      "num": 155482,
+      "word": "伊朗袭击美军隐秘据点致37人死亡",
+      "onboard_time": 1775131102,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317846,
@@ -457,6 +537,14 @@
       "onboard_time": 1775055324,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268915,
+      "num": 153908,
+      "word": "陈妍希方致歉",
+      "onboard_time": 1775135244,
+      "rank": 14,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 262260,
@@ -659,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213711,
+      "num": 134933,
+      "word": "刘亦菲几乎没有法令纹",
+      "onboard_time": 1775130863,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213464,
       "num": 187223,
       "word": "乘风2026立意片来了",
@@ -699,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197455,
+      "num": 197455,
+      "word": "KSG对战DYG",
+      "onboard_time": 1775128401,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196627,
       "num": 166988,
       "word": "女子瞒重病订婚向男友索600万治病",
@@ -715,12 +819,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191807,
-      "num": 125947,
-      "word": "夏克立回应再婚生女",
-      "onboard_time": 1775131461,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 192451,
+      "num": 192451,
+      "word": "孙颖莎2比7落后完成逆转",
+      "onboard_time": 1775132543,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 188900,
@@ -827,14 +931,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165677,
-      "num": 159851,
-      "word": "张元英下巴",
-      "onboard_time": 1775130803,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165389,
       "num": 165389,
       "word": "Wayward曝369休息原因",
@@ -873,6 +969,14 @@
       "onboard_time": 1775100081,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158036,
+      "num": 158036,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1775134463,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 157076,
@@ -921,6 +1025,14 @@
       "onboard_time": 1775110102,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151259,
+      "num": 151259,
+      "word": "孙颖莎蒯曼都更换球衣",
+      "onboard_time": 1775131222,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 150410,
@@ -979,12 +1091,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137799,
-      "num": 137799,
-      "word": "女子赠侄子旧手机致出轨照外泄",
-      "onboard_time": 1775129963,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 136954,
+      "num": 136954,
+      "word": "伊朗航空航天部队司令巡视地下导弹基地",
+      "onboard_time": 1775133744,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136696,
@@ -1033,6 +1145,14 @@
       "onboard_time": 1775101341,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130861,
+      "num": 130861,
+      "word": "博主嘴唇发紫粉丝隔空诊出心脏病",
+      "onboard_time": 1775132964,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129267,
@@ -1123,6 +1243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 125687,
+      "num": 125687,
+      "word": "阿瑟不卖的时候反耳嗑到了",
+      "onboard_time": 1775133082,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124000,
       "num": 124000,
       "word": "魏晨 老辈子就是会疼人",
@@ -1137,14 +1265,6 @@
       "onboard_time": 1775049803,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 123245,
-      "num": 123245,
-      "word": "KSG对战DYG",
-      "onboard_time": 1775128401,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 121657,
@@ -1235,12 +1355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117816,
-      "num": 117816,
-      "word": "孙颖莎蒯曼都更换球衣",
-      "onboard_time": 1775131222,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 117396,
+      "num": 117396,
+      "word": "小猫会自己打开小床晒太阳",
+      "onboard_time": 1775132902,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 117030,
@@ -1265,6 +1385,14 @@
       "onboard_time": 1775111542,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 114258,
+      "num": 114258,
+      "word": "王俊凯徐洁儿复刻重生之门名场面",
+      "onboard_time": 1775135423,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 113261,
@@ -1411,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103235,
+      "num": 103235,
+      "word": "发明这个咖啡喝法的简直是天才",
+      "onboard_time": 1775131643,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102359,
       "num": 244602,
       "word": "张雪机车商标被恶意抢注",
@@ -1433,6 +1569,14 @@
       "onboard_time": 1775098041,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101707,
+      "num": 101707,
+      "word": "王艺迪11比7张本美和",
+      "onboard_time": 1775136443,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 100884,
@@ -1465,6 +1609,14 @@
       "onboard_time": 1775117421,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100183,
+      "num": 100183,
+      "word": "佛山鸡煲太火爆老板开小号黑自己",
+      "onboard_time": 1775136443,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99666,
@@ -1555,14 +1707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94357,
-      "num": 94357,
-      "word": "刘亦菲几乎没有法令纹",
-      "onboard_time": 1775130863,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93961,
       "num": 93961,
       "word": "感觉迪丽热巴从头到脚都香香的",
@@ -1601,6 +1745,14 @@
       "onboard_time": 1775105423,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91223,
+      "num": 627523,
+      "word": "多城实施住房公积金新政",
+      "onboard_time": 1775134283,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90928,
@@ -1729,14 +1881,6 @@
       "onboard_time": 1775098581,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 87459,
-      "num": 87459,
-      "word": "伊朗袭击美军隐秘据点致37人死亡",
-      "onboard_time": 1775131102,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86924,
@@ -1899,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79058,
+      "num": 79058,
+      "word": "孙颖莎说也有过要输的闪念",
+      "onboard_time": 1775135483,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78593,
       "num": 247575,
       "word": "为上香港幼儿园13名家长入狱",
@@ -1937,6 +2089,14 @@
       "onboard_time": 1775127021,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76731,
+      "num": 76731,
+      "word": "乘风直播时长",
+      "onboard_time": 1775136503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 76641,
@@ -2067,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71692,
+      "num": 71692,
+      "word": "曝TOP5大厂有两家在接洽豆包",
+      "onboard_time": 1775134405,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71674,
       "num": 71674,
       "word": "小时候睡凉席的我",
@@ -2131,6 +2299,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69830,
+      "num": 69830,
+      "word": "孙颖莎蒯曼大战了72分钟",
+      "onboard_time": 1775136204,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69249,
+      "num": 69249,
+      "word": "刘耀文兄弟你的神图来了",
+      "onboard_time": 1775136204,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69242,
       "num": 69242,
       "word": "宿迁文旅把项羽虞姬都请了",
@@ -2145,6 +2329,14 @@
       "onboard_time": 1775125341,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68388,
+      "num": 68388,
+      "word": "日本启动第19次核污染水排海",
+      "onboard_time": 1775134945,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68387,
@@ -2420,7 +2612,7 @@
     },
     {
       "raw_hot": 43324,
-      "num": 83010,
+      "num": 85954,
       "word": "谁给丞磊挑的内搭",
       "onboard_time": 1775130142,
       "rank": 42,
@@ -2521,6 +2713,14 @@
       "onboard_time": 1775068816,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34717,
+      "num": 142479,
+      "word": "特朗普说宴会厅都建不了算什么国王",
+      "onboard_time": 1775135904,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34214,
@@ -2748,6 +2948,9 @@
     },
     {
       "word": "#习近平种下栋梁之材#"
+    },
+    {
+      "word": "#总书记这样要求狠抓落实定下来的事#"
     }
   ]
 }

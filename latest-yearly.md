@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/02 20:06:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/02 21:29:55
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8F%98%E6%A0%B7%E4%BA%86%23" target="weibo">
+张天爱变样了（热度：2232440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 逐玉大结局（热度：2232360）
 </a>
@@ -1805,12 +1811,6 @@ JYP考公上岸了（热度：1803914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%81%87%E5%94%B1%23" target="weibo">
 李一桐 假唱（热度：1799156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A9%AC%E5%B9%B4%E5%85%A8%E6%98%8E%E6%98%9F%E8%A1%A8%E6%BC%94%E8%B5%9B%23" target="weibo">
-王者荣耀马年全明星表演赛（热度：1793500）
 </a>
 </li>
 
