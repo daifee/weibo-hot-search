@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775107377578,
+  "endTime": 1775112527377,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648918,
+      "num": 579060,
+      "word": "刘晓艳网课现场没有学生一个人聊嗨了",
+      "onboard_time": 1775107402,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 626216,
       "num": 285773,
       "word": "被易烊千玺骗到了",
@@ -291,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 510797,
+      "num": 212012,
+      "word": "金价",
+      "onboard_time": 1775110223,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 510256,
       "num": 510256,
       "word": "甲骨文凌晨6点突发裁员3万人",
@@ -353,6 +369,22 @@
       "onboard_time": 1775100622,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 443113,
+      "num": 780710,
+      "word": "张雪说被资本搞懵了",
+      "onboard_time": 1775108123,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433081,
+      "num": 433081,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 432547,
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329098,
+      "num": 209344,
+      "word": "胡彦斌连夜关闭了人脸支付",
+      "onboard_time": 1775107042,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325367,
       "num": 325367,
       "word": "无需粉底液这才是军人本色",
@@ -683,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294202,
-      "num": 294202,
-      "word": "张雪",
-      "onboard_time": 1774943063,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294151,
       "num": 174576,
       "word": "伊朗打击美军指挥中心",
@@ -729,6 +761,14 @@
       "onboard_time": 1775105963,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283074,
+      "num": 205034,
+      "word": "董宇辉曾说产品上播10天前有人试吃",
+      "onboard_time": 1775106383,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282240,
@@ -785,6 +825,14 @@
       "onboard_time": 1775095280,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258308,
+      "num": 258308,
+      "word": "肖战网文五大热门ip集齐四个",
+      "onboard_time": 1775106921,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258212,
@@ -1027,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221384,
+      "num": 221384,
+      "word": "银行回应老人存10万变7万",
+      "onboard_time": 1775105601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217683,
       "num": 217683,
       "word": "4个炒菜习惯或让致癌物翻倍",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1774954824,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213759,
+      "num": 213759,
+      "word": "美国一婴儿光天化日在街头被枪杀",
+      "onboard_time": 1775109862,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 213415,
@@ -1155,14 +1219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 198549,
-      "num": 198549,
-      "word": "董宇辉曾说产品上播10天前有人试吃",
-      "onboard_time": 1775106383,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198250,
       "num": 198250,
       "word": "浪姐7人气排名",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1775008402,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188900,
+      "num": 122209,
+      "word": "今麦郎手打擦边20年不能停产就完了",
+      "onboard_time": 1775106682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186256,
@@ -1331,12 +1395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165623,
-      "num": 132982,
-      "word": "胡彦斌连夜关闭了人脸支付",
-      "onboard_time": 1775107042,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 165389,
+      "num": 165389,
+      "word": "Wayward曝369休息原因",
+      "onboard_time": 1775107882,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 165253,
@@ -1475,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "刘亦菲老钱风大片",
+      "onboard_time": 1775110102,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150410,
       "num": 150410,
       "word": "小区花20万加装电梯只通向其中一层",
@@ -1505,14 +1577,6 @@
       "onboard_time": 1775039721,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149618,
-      "num": 149618,
-      "word": "银行回应老人存10万变7万",
-      "onboard_time": 1775105601,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149412,
@@ -1619,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "严屹宽曝张凌赫挨鞭子真打了108次",
+      "onboard_time": 1775109922,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140292,
       "num": 140292,
       "word": "4月最吸金的星座",
@@ -1667,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135852,
-      "num": 135852,
-      "word": "肖战网文五大热门ip集齐四个",
-      "onboard_time": 1775106921,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135325,
       "num": 135325,
       "word": "全球股市史诗级暴涨",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1775030723,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133854,
+      "num": 131555,
+      "word": "阿花花酱 优思益",
+      "onboard_time": 1775109682,
+      "rank": 24,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 133047,
@@ -1769,6 +1841,14 @@
       "onboard_time": 1775000602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128580,
+      "num": 128580,
+      "word": "法国车手34岁夺冠感谢张雪机车圆梦",
+      "onboard_time": 1775110701,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 128310,
@@ -1865,14 +1945,6 @@
       "onboard_time": 1775056703,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122209,
-      "num": 122209,
-      "word": "今麦郎手打擦边20年不能停产就完了",
-      "onboard_time": 1775106682,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121558,
@@ -1987,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118163,
+      "num": 118163,
+      "word": "当我凌晨5点去健身",
+      "onboard_time": 1775112023,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118153,
       "num": 121488,
       "word": "王曼昱vs伊藤美诚",
@@ -2083,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113261,
+      "num": 113261,
+      "word": "教师被AI造谣猥亵入狱10年",
+      "onboard_time": 1775109622,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113061,
       "num": 197894,
       "word": "王者荣耀新赛季",
@@ -2147,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109065,
+      "num": 109065,
+      "word": "肖战现身青岛",
+      "onboard_time": 1775111661,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108954,
       "num": 108954,
       "word": "尹锡悦看守所内吸金12亿韩元",
@@ -2177,6 +2273,14 @@
       "onboard_time": 1775020525,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107863,
+      "num": 107863,
+      "word": "临终老人怕拖累子女恳求医生想早走",
+      "onboard_time": 1775110821,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107817,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1774975280,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104828,
+      "num": 104828,
+      "word": "多位明星曾直播卖优思益",
+      "onboard_time": 1775111542,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 104554,
@@ -2603,6 +2715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 90850,
+      "num": 90850,
+      "word": "接变成气血很足月经规律的女人",
+      "onboard_time": 1775107582,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90733,
       "num": 90733,
       "word": "领克宣布全国销售放1天春假",
@@ -2643,6 +2763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89413,
+      "num": 89413,
+      "word": "黄杨钿甜新剧被鞭刑梦回小楚乔",
+      "onboard_time": 1775111782,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89107,
       "num": 98048,
       "word": "网易云回应账号突然被封禁",
@@ -2665,6 +2793,14 @@
       "onboard_time": 1775020705,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89031,
+      "num": 76966,
+      "word": "LPL守护星星行动",
+      "onboard_time": 1775112141,
+      "rank": 43,
+      "category": "电竞,民生新闻"
     },
     {
       "raw_hot": 88797,
@@ -2875,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84285,
+      "num": 84285,
+      "word": "撸了一只认错人的猫",
+      "onboard_time": 1775112263,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84151,
       "num": 84151,
       "word": "金价或创2008年来最大单月跌幅",
@@ -2963,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81812,
+      "num": 81812,
+      "word": "许昕说国家队大门永远给所有人打开",
+      "onboard_time": 1775112081,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81657,
       "num": 81657,
       "word": "谢楠发芒果跳刀马",
@@ -2977,6 +3129,14 @@
       "onboard_time": 1774967245,
       "rank": 18,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 80725,
+      "num": 80725,
+      "word": "全球资产再度巨震",
+      "onboard_time": 1775112263,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 80231,
@@ -3043,6 +3203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78395,
+      "num": 78395,
+      "word": "乘风2026舞台总监张铃",
+      "onboard_time": 1775109502,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78237,
       "num": 78237,
       "word": "左奇函摔倒",
@@ -3059,11 +3227,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77140,
+      "num": 77140,
+      "word": "赖伟明宝珠首个大男主",
+      "onboard_time": 1775107282,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77067,
       "num": 97007,
       "word": "黄金年内回撤达26%",
       "onboard_time": 1775041161,
       "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 76989,
+      "num": 76989,
+      "word": "多家银行4月1日起下调存款利率",
+      "onboard_time": 1775109922,
+      "rank": 42,
       "category": "财经"
     },
     {
@@ -3203,6 +3387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72258,
+      "num": 72258,
+      "word": "上班有三到",
+      "onboard_time": 1775111722,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71992,
       "num": 71992,
       "word": "黄金六轮史诗级跳水",
@@ -3241,6 +3433,14 @@
       "onboard_time": 1775094200,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70502,
+      "num": 70502,
+      "word": "浙江用9000万元换来10多亿",
+      "onboard_time": 1775108601,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70427,
@@ -3611,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49279,
+      "num": 158815,
+      "word": "这个代言是时团自己谈下来的吧",
+      "onboard_time": 1775111782,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48595,
       "num": 48595,
       "word": "日本边喊销毁核武器边囤核原料",
@@ -3649,6 +3857,14 @@
       "onboard_time": 1774976898,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45853,
+      "num": 152942,
+      "word": "吴佩孚公馆转卖背后的隐秘交易",
+      "onboard_time": 1775112023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45607,

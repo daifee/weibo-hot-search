@@ -1,0 +1,410 @@
+{
+  "runTime": 1775112527377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715694,
+        "num": 1114511,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443113,
+        "num": 780710,
+        "word": "张雪说被资本搞懵了",
+        "onboard_time": 1775108123,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28196,
+        "num": 617635,
+        "word": "天宫画展再上新",
+        "onboard_time": 1775098700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648918,
+        "num": 579060,
+        "word": "刘晓艳网课现场没有学生一个人聊嗨了",
+        "onboard_time": 1775107402,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433081,
+        "num": 433081,
+        "word": "张雪",
+        "onboard_time": 1775106981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258308,
+        "num": 258308,
+        "word": "肖战网文五大热门ip集齐四个",
+        "onboard_time": 1775106921,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242826,
+        "num": 242826,
+        "word": "乘风一口气官宣34位送考人",
+        "onboard_time": 1775105963,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234214,
+        "num": 234214,
+        "word": "优思益营销策划公司被立案调查",
+        "onboard_time": 1775101941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221384,
+        "num": 221384,
+        "word": "银行回应老人存10万变7万",
+        "onboard_time": 1775105601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213759,
+        "num": 213759,
+        "word": "美国一婴儿光天化日在街头被枪杀",
+        "onboard_time": 1775109862,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 510797,
+        "num": 212012,
+        "word": "金价",
+        "onboard_time": 1775110223,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329098,
+        "num": 209344,
+        "word": "胡彦斌连夜关闭了人脸支付",
+        "onboard_time": 1775107042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306728,
+        "num": 208872,
+        "word": "李若彤发布致歉声明",
+        "onboard_time": 1775100982,
+        "rank": 12,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 283074,
+        "num": 205034,
+        "word": "董宇辉曾说产品上播10天前有人试吃",
+        "onboard_time": 1775106383,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204616,
+        "num": 204616,
+        "word": "特朗普话音刚落伊朗导弹袭向以色列",
+        "onboard_time": 1775097920,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165389,
+        "num": 165389,
+        "word": "Wayward曝369休息原因",
+        "onboard_time": 1775107882,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49279,
+        "num": 158815,
+        "word": "这个代言是时团自己谈下来的吧",
+        "onboard_time": 1775111782,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154188,
+        "num": 154188,
+        "word": "日本终于露出獠牙",
+        "onboard_time": 1775089824,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152943,
+        "num": 152943,
+        "word": "刘亦菲老钱风大片",
+        "onboard_time": 1775110102,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45853,
+        "num": 152942,
+        "word": "吴佩孚公馆转卖背后的隐秘交易",
+        "onboard_time": 1775112023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167355,
+        "num": 152941,
+        "word": "男孩捡50g金条咬了一口竟是真的",
+        "onboard_time": 1775105782,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152941,
+        "num": 152940,
+        "word": "杨紫 没人通知我啊",
+        "onboard_time": 1775054723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140304,
+        "num": 140304,
+        "word": "严屹宽曝张凌赫挨鞭子真打了108次",
+        "onboard_time": 1775109922,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131882,
+        "num": 131882,
+        "word": "主播陆续回应优思益售后",
+        "onboard_time": 1775098700,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133854,
+        "num": 131555,
+        "word": "阿花花酱 优思益",
+        "onboard_time": 1775109682,
+        "rank": 24,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 128580,
+        "word": "法国车手34岁夺冠感谢张雪机车圆梦",
+        "onboard_time": 1775110701,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118163,
+        "num": 118163,
+        "word": "当我凌晨5点去健身",
+        "onboard_time": 1775112023,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113261,
+        "num": 113261,
+        "word": "教师被AI造谣猥亵入狱10年",
+        "onboard_time": 1775109622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109065,
+        "num": 109065,
+        "word": "肖战现身青岛",
+        "onboard_time": 1775111661,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "临终老人怕拖累子女恳求医生想早走",
+        "onboard_time": 1775110821,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 107589,
+        "word": "今麦郎手打擦边20年不能停产就完了",
+        "onboard_time": 1775106682,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106963,
+        "num": 106963,
+        "word": "怪不得上大学老了这么多",
+        "onboard_time": 1775100622,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104828,
+        "num": 104828,
+        "word": "多位明星曾直播卖优思益",
+        "onboard_time": 1775111542,
+        "rank": 32,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 102401,
+        "num": 102401,
+        "word": "张柏芝晒二儿子打球正脸",
+        "onboard_time": 1775103621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90850,
+        "num": 90850,
+        "word": "接变成气血很足月经规律的女人",
+        "onboard_time": 1775107582,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91459,
+        "num": 90789,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89413,
+        "num": 89413,
+        "word": "黄杨钿甜新剧被鞭刑梦回小楚乔",
+        "onboard_time": 1775111782,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84285,
+        "num": 84285,
+        "word": "撸了一只认错人的猫",
+        "onboard_time": 1775112263,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81812,
+        "num": 81812,
+        "word": "许昕说国家队大门永远给所有人打开",
+        "onboard_time": 1775112081,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80725,
+        "num": 80725,
+        "word": "全球资产再度巨震",
+        "onboard_time": 1775112263,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78395,
+        "num": 78395,
+        "word": "乘风2026舞台总监张铃",
+        "onboard_time": 1775109502,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77140,
+        "num": 77140,
+        "word": "赖伟明宝珠首个大男主",
+        "onboard_time": 1775107282,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76989,
+        "num": 76989,
+        "word": "多家银行4月1日起下调存款利率",
+        "onboard_time": 1775109922,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89031,
+        "num": 76966,
+        "word": "LPL守护星星行动",
+        "onboard_time": 1775112141,
+        "rank": 43,
+        "category": "电竞,民生新闻"
+      },
+      {
+        "raw_hot": 76469,
+        "num": 76469,
+        "word": "说唱歌手JCole加盟CBA",
+        "onboard_time": 1775103321,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 74463,
+        "num": 74463,
+        "word": "尹锡悦看守所内吸金12亿韩元",
+        "onboard_time": 1775106801,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74166,
+        "num": 74166,
+        "word": "黄金",
+        "onboard_time": 1775097680,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72529,
+        "num": 72529,
+        "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
+        "onboard_time": 1775089402,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72258,
+        "num": 72258,
+        "word": "上班有三到",
+        "onboard_time": 1775111722,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70502,
+        "num": 70502,
+        "word": "浙江用9000万元换来10多亿",
+        "onboard_time": 1775108601,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

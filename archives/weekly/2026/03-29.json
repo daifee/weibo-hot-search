@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775107377578,
+  "endTime": 1775112527377,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648918,
+      "num": 579060,
+      "word": "刘晓艳网课现场没有学生一个人聊嗨了",
+      "onboard_time": 1775107402,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 641752,
       "num": 976155,
       "word": "D3665列车乘客称多人疑似晕厥",
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510797,
+      "num": 212012,
+      "word": "金价",
+      "onboard_time": 1775110223,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 510256,
       "num": 510256,
       "word": "甲骨文凌晨6点突发裁员3万人",
@@ -1195,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443113,
+      "num": 780710,
+      "word": "张雪说被资本搞懵了",
+      "onboard_time": 1775108123,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442454,
       "num": 242919,
       "word": "AI演员 拼尸块",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1774781848,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 433081,
+      "num": 792506,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 432547,
@@ -1763,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336040,
-      "num": 792506,
-      "word": "张雪",
-      "onboard_time": 1774943063,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335529,
       "num": 335529,
       "word": "俄方拒绝给日本供油",
@@ -1832,6 +1856,14 @@
       "word": "丁程鑫发了严浩翔",
       "onboard_time": 1775035944,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329098,
+      "num": 209344,
+      "word": "胡彦斌连夜关闭了人脸支付",
+      "onboard_time": 1775107042,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2243,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283074,
+      "num": 205034,
+      "word": "董宇辉曾说产品上播10天前有人试吃",
+      "onboard_time": 1775106383,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282434,
       "num": 320092,
       "word": "瑞幸新品椰子蛋遭网友吐槽",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1774784728,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258308,
+      "num": 258308,
+      "word": "肖战网文五大热门ip集齐四个",
+      "onboard_time": 1775106921,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258212,
@@ -3211,6 +3259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221384,
+      "num": 221384,
+      "word": "银行回应老人存10万变7万",
+      "onboard_time": 1775105601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220813,
       "num": 220813,
       "word": "电动车涨价原因",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1774844366,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213759,
+      "num": 213759,
+      "word": "美国一婴儿光天化日在街头被枪杀",
+      "onboard_time": 1775109862,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 213733,
@@ -3579,14 +3643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198549,
-      "num": 198549,
-      "word": "董宇辉曾说产品上播10天前有人试吃",
-      "onboard_time": 1775106383,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198270,
       "num": 91235,
       "word": "全红婵体重变化原因",
@@ -3824,6 +3880,14 @@
       "word": "蔡磊感觉最对不起的就是妻子",
       "onboard_time": 1774788806,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188900,
+      "num": 122209,
+      "word": "今麦郎手打擦边20年不能停产就完了",
+      "onboard_time": 1775106682,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -4259,12 +4323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165623,
-      "num": 132982,
-      "word": "胡彦斌连夜关闭了人脸支付",
-      "onboard_time": 1775107042,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 165389,
+      "num": 165389,
+      "word": "Wayward曝369休息原因",
+      "onboard_time": 1775107882,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 165253,
@@ -4643,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "刘亦菲老钱风大片",
+      "onboard_time": 1775110102,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152428,
       "num": 152428,
       "word": "伊朗警告袭击地区内美以大学",
@@ -4721,14 +4793,6 @@
       "onboard_time": 1774855763,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149618,
-      "num": 149618,
-      "word": "银行回应老人存10万变7万",
-      "onboard_time": 1775105601,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149412,
@@ -4945,6 +5009,14 @@
       "onboard_time": 1774960284,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "严屹宽曝张凌赫挨鞭子真打了108次",
+      "onboard_time": 1775109922,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 140292,
@@ -5171,14 +5243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135852,
-      "num": 135852,
-      "word": "肖战网文五大热门ip集齐四个",
-      "onboard_time": 1775106921,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135843,
       "num": 559197,
       "word": "伊朗反向威胁美方",
@@ -5249,6 +5313,14 @@
       "onboard_time": 1774883785,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133854,
+      "num": 131555,
+      "word": "阿花花酱 优思益",
+      "onboard_time": 1775109682,
+      "rank": 24,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 133559,
@@ -5473,6 +5545,14 @@
       "onboard_time": 1775000602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128580,
+      "num": 128580,
+      "word": "法国车手34岁夺冠感谢张雪机车圆梦",
+      "onboard_time": 1775110701,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 128421,
@@ -5747,14 +5827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122209,
-      "num": 122209,
-      "word": "今麦郎手打擦边20年不能停产就完了",
-      "onboard_time": 1775106682,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122195,
       "num": 122195,
       "word": "张雪说要赠送尹正机车",
@@ -5995,6 +6067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118163,
+      "num": 118163,
+      "word": "当我凌晨5点去健身",
+      "onboard_time": 1775112023,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118153,
       "num": 121488,
       "word": "王曼昱vs伊藤美诚",
@@ -6225,6 +6305,14 @@
       "onboard_time": 1774847246,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113261,
+      "num": 113261,
+      "word": "教师被AI造谣猥亵入狱10年",
+      "onboard_time": 1775109622,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113122,
@@ -6499,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109065,
+      "num": 109065,
+      "word": "肖战现身青岛",
+      "onboard_time": 1775111661,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108954,
       "num": 108954,
       "word": "尹锡悦看守所内吸金12亿韩元",
@@ -6617,6 +6713,14 @@
       "onboard_time": 1774892297,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107863,
+      "num": 107863,
+      "word": "临终老人怕拖累子女恳求医生想早走",
+      "onboard_time": 1775110821,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107817,
@@ -6849,6 +6953,14 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104828,
+      "num": 104828,
+      "word": "多位明星曾直播卖优思益",
+      "onboard_time": 1775111542,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 104646,
@@ -7955,6 +8067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 90850,
+      "num": 90850,
+      "word": "接变成气血很足月经规律的女人",
+      "onboard_time": 1775107582,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90733,
       "num": 90733,
       "word": "领克宣布全国销售放1天春假",
@@ -8123,6 +8243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89413,
+      "num": 89413,
+      "word": "黄杨钿甜新剧被鞭刑梦回小楚乔",
+      "onboard_time": 1775111782,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89403,
       "num": 569048,
       "word": "内存条价格下跌原因",
@@ -8193,6 +8321,14 @@
       "onboard_time": 1775020705,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89031,
+      "num": 76966,
+      "word": "LPL守护星星行动",
+      "onboard_time": 1775112141,
+      "rank": 43,
+      "category": "电竞,民生新闻"
     },
     {
       "raw_hot": 88956,
@@ -8739,6 +8875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84285,
+      "num": 84285,
+      "word": "撸了一只认错人的猫",
+      "onboard_time": 1775112263,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84185,
       "num": 145358,
       "word": "鲍威尔讲话",
@@ -9003,6 +9147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81812,
+      "num": 81812,
+      "word": "许昕说国家队大门永远给所有人打开",
+      "onboard_time": 1775112081,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81790,
       "num": 81790,
       "word": "合肥00后研发的机器人能夹豆腐",
@@ -9065,6 +9217,14 @@
       "onboard_time": 1774757901,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80725,
+      "num": 80725,
+      "word": "全球资产再度巨震",
+      "onboard_time": 1775112263,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 80576,
@@ -9323,6 +9483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78395,
+      "num": 78395,
+      "word": "乘风2026舞台总监张铃",
+      "onboard_time": 1775109502,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78237,
       "num": 78237,
       "word": "左奇函摔倒",
@@ -9419,6 +9587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77140,
+      "num": 77140,
+      "word": "赖伟明宝珠首个大男主",
+      "onboard_time": 1775107282,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77067,
       "num": 97007,
       "word": "黄金年内回撤达26%",
@@ -9441,6 +9617,14 @@
       "onboard_time": 1774762402,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76989,
+      "num": 76989,
+      "word": "多家银行4月1日起下调存款利率",
+      "onboard_time": 1775109922,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 76986,
@@ -9803,6 +9987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72258,
+      "num": 72258,
+      "word": "上班有三到",
+      "onboard_time": 1775111722,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72131,
       "num": 72131,
       "word": "狸花猫带给人类亿点点震撼",
@@ -9937,6 +10129,14 @@
       "onboard_time": 1775094200,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70502,
+      "num": 70502,
+      "word": "浙江用9000万元换来10多亿",
+      "onboard_time": 1775108601,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70441,
@@ -10995,6 +11195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49279,
+      "num": 158815,
+      "word": "这个代言是时团自己谈下来的吧",
+      "onboard_time": 1775111782,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49111,
       "num": 511337,
       "word": "酒类女性消费者崛起",
@@ -11089,6 +11297,14 @@
       "onboard_time": 1774976898,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45853,
+      "num": 152942,
+      "word": "吴佩孚公馆转卖背后的隐秘交易",
+      "onboard_time": 1775112023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45638,
