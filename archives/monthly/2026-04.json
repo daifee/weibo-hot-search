@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775138572279,
+  "endTime": 1775142291089,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -49,6 +49,14 @@
       "onboard_time": 1775115442,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1353956,
+      "num": 1353956,
+      "word": "王濛 浪姐直播太磨叽了",
+      "onboard_time": 1775137163,
+      "rank": 16,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 1332536,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750285,
+      "num": 618308,
+      "word": "谢娜一直不停地拉着袁咏仪说话",
+      "onboard_time": 1775139205,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 730921,
       "num": 649643,
       "word": "乘风初见面直播",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 602094,
-      "num": 159851,
+      "num": 161032,
       "word": "张元英下巴",
       "onboard_time": 1775130803,
       "rank": 38,
@@ -409,6 +425,14 @@
       "onboard_time": 1775034022,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549108,
+      "num": 409559,
+      "word": "唐艺昕陶昕然 宝娟我的嗓子",
+      "onboard_time": 1775140224,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 544443,
@@ -499,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 507684,
+      "num": 168269,
+      "word": "曾沛慈好高",
+      "onboard_time": 1775137944,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483317,
       "num": 1077330,
       "word": "高市早苗对马克龙施展龟派气功",
@@ -571,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432946,
-      "num": 179479,
-      "word": "王濛 浪姐直播太磨叽了",
-      "onboard_time": 1775137163,
-      "rank": 16,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 432547,
       "num": 215677,
       "word": "严浩翔发的是刘耀文",
@@ -617,6 +641,14 @@
       "onboard_time": 1775098520,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412525,
+      "num": 412525,
+      "word": "美国头大了",
+      "onboard_time": 1775137103,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 408421,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 389553,
-      "num": 149939,
+      "num": 160935,
       "word": "夏克立回应再婚生女",
       "onboard_time": 1775131461,
       "rank": 30,
@@ -705,6 +737,14 @@
       "onboard_time": 1775020826,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379297,
+      "num": 170019,
+      "word": "张凌赫后面还有两部待播将军剧",
+      "onboard_time": 1775139985,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 378664,
@@ -816,6 +856,14 @@
       "word": "泰国女星近乎昏迷时遭救护员性侵",
       "onboard_time": 1775125522,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343498,
+      "num": 886961,
+      "word": "佛山鸡煲太火爆老板开小号黑自己",
+      "onboard_time": 1775136443,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1011,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288166,
+      "num": 160985,
+      "word": "白鹿素颜做饭自拍",
+      "onboard_time": 1775137344,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285928,
       "num": 285928,
       "word": "乘风一口气官宣34位送考人",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1775016685,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256724,
+      "num": 160975,
+      "word": "齐思钧唱够爱吓曾沛慈一跳",
+      "onboard_time": 1775139505,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 255402,
@@ -1476,7 +1540,7 @@
     },
     {
       "raw_hot": 213711,
-      "num": 134933,
+      "num": 137811,
       "word": "刘亦菲几乎没有法令纹",
       "onboard_time": 1775130863,
       "rank": 41,
@@ -1587,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200497,
-      "num": 200497,
-      "word": "美国头大了",
-      "onboard_time": 1775137103,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 198948,
       "num": 198948,
       "word": "韩国夜店98年前出生顾客禁止入场",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1775059221,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198063,
-      "num": 129697,
-      "word": "白鹿素颜做饭自拍",
-      "onboard_time": 1775137344,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 197953,
@@ -1752,6 +1800,14 @@
       "word": "张雪师父牙哥发声",
       "onboard_time": 1775113461,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181355,
+      "num": 172836,
+      "word": "老式水果为什么消失了",
+      "onboard_time": 1775129241,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1955,20 +2011,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160859,
+      "num": 160859,
+      "word": "徐洁儿工作室出图",
+      "onboard_time": 1775141184,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160577,
       "num": 160577,
       "word": "疯狂动物城2预约人数近千万",
       "onboard_time": 1775100081,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159702,
-      "num": 159702,
-      "word": "佛山鸡煲太火爆老板开小号黑自己",
-      "onboard_time": 1775136443,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158560,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1775006603,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142916,
+      "num": 142916,
+      "word": "邓凯要还车贷交社保把自己说生气了",
+      "onboard_time": 1775138904,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 141810,
@@ -2420,7 +2484,7 @@
     },
     {
       "raw_hot": 127394,
-      "num": 127394,
+      "num": 161012,
       "word": "金价持续大蹦极",
       "onboard_time": 1775137522,
       "rank": 26,
@@ -2435,20 +2499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126954,
-      "num": 126954,
-      "word": "老式水果为什么消失了",
-      "onboard_time": 1775129241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126907,
       "num": 230236,
       "word": "王者荣耀",
       "onboard_time": 1775030305,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126764,
+      "num": 126764,
+      "word": "范玮琪对王俊凯说你也唱过我的歌",
+      "onboard_time": 1775138784,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 126634,
@@ -2532,7 +2596,7 @@
     },
     {
       "raw_hot": 122057,
-      "num": 645854,
+      "num": 676789,
       "word": "多城实施住房公积金新政",
       "onboard_time": 1775134283,
       "rank": 2,
@@ -2843,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111994,
+      "num": 160948,
+      "word": "宝妈投诉蛋糕店未果反助店家爆单",
+      "onboard_time": 1775141665,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111710,
       "num": 195110,
       "word": "孙颖莎vs梅谢芙",
@@ -3076,7 +3148,7 @@
     },
     {
       "raw_hot": 103235,
-      "num": 103235,
+      "num": 121810,
       "word": "发明这个咖啡喝法的简直是天才",
       "onboard_time": 1775131643,
       "rank": 31,
@@ -3097,14 +3169,6 @@
       "onboard_time": 1775105963,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101843,
-      "num": 101843,
-      "word": "曾沛慈好高",
-      "onboard_time": 1775137944,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 101827,
@@ -3209,6 +3273,14 @@
       "onboard_time": 1775117421,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100181,
+      "num": 126315,
+      "word": "乘风直播时长",
+      "onboard_time": 1775136503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 100120,
@@ -3371,6 +3443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95986,
+      "num": 126765,
+      "word": "女子离婚多年名字被刻上前婆婆墓碑",
+      "onboard_time": 1775141306,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95838,
       "num": 95838,
       "word": "日本地震东京震感强烈",
@@ -3435,12 +3515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93521,
-      "num": 93521,
-      "word": "乘风直播时长",
-      "onboard_time": 1775136503,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 93500,
+      "num": 123791,
+      "word": "网友医院急诊偶遇李一桐",
+      "onboard_time": 1775141784,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 93455,
@@ -3491,12 +3571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92647,
+      "num": 125588,
+      "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
+      "onboard_time": 1775139865,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92297,
       "num": 92297,
       "word": "TFBOYS我们的少年时代未公开照",
       "onboard_time": 1775022742,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92249,
+      "num": 125377,
+      "word": "女子20万买170g金条藏豆瓣酱里",
+      "onboard_time": 1775136143,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92206,
@@ -3611,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89540,
+      "num": 123025,
+      "word": "李若彤与辉同行等要为优思益担责吗",
+      "onboard_time": 1775137043,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89493,
       "num": 89493,
       "word": "敦煌一半沙漠一半花海太绝了",
@@ -3665,6 +3769,14 @@
       "onboard_time": 1774975999,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88705,
+      "num": 122833,
+      "word": "喜临门一字跌停",
+      "onboard_time": 1775141124,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 88570,
@@ -4075,6 +4187,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 81177,
+      "num": 121243,
+      "word": "向鱼哭了",
+      "onboard_time": 1775140705,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80725,
       "num": 80725,
       "word": "全球资产再度巨震",
@@ -4427,6 +4547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 72414,
+      "num": 120430,
+      "word": "师父发现张雪没赛车天赋让他造车",
+      "onboard_time": 1775138665,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72315,
       "num": 72315,
       "word": "十日终焉三羊开泰",
@@ -4481,6 +4609,14 @@
       "onboard_time": 1775125702,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71761,
+      "num": 119360,
+      "word": "水泥涨价原因",
+      "onboard_time": 1775141425,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 71692,
@@ -4545,6 +4681,14 @@
       "onboard_time": 1775126001,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70669,
+      "num": 118552,
+      "word": "浪姐初见面万千惠第一个出场",
+      "onboard_time": 1775139325,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 70668,
@@ -4803,14 +4947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61848,
-      "num": 74969,
-      "word": "李若彤与辉同行等要为优思益担责吗",
-      "onboard_time": 1775137043,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61279,
       "num": 61279,
       "word": "文班亚马41分18篮板",
@@ -4840,14 +4976,6 @@
       "word": "丈夫离婚前挥霍百万算作已分得财产",
       "onboard_time": 1775113222,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60695,
-      "num": 74959,
-      "word": "女子20万买170g金条藏豆瓣酱里",
-      "onboard_time": 1775136143,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -5099,6 +5227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48385,
+      "num": 177130,
+      "word": "婚礼还有一个月酒店说办不了",
+      "onboard_time": 1775141724,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47983,
       "num": 116665,
       "word": "美以难阻伊朗导弹反击",
@@ -5129,6 +5265,14 @@
       "onboard_time": 1774976898,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46332,
+      "num": 161062,
+      "word": "保健品带货佣金被曝50%起步",
+      "onboard_time": 1775141004,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45962,
@@ -5385,6 +5529,14 @@
       "onboard_time": 1775033661,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29736,
+      "num": 161078,
+      "word": "美国形象崩塌从夯到拉",
+      "onboard_time": 1775141903,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29321,
