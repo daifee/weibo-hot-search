@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/03 01:04:44 ~ 2026/04/03 02:09:12
+本榜单时间：2026/04/03 01:04:44 ~ 2026/04/03 03:07:00
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,18 @@ DYG纪录片（热度：34056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23" target="weibo">
 特朗普发表讲话谈伊朗战事（热度：25283）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E7%B3%96%E6%9E%9C%E5%B0%8F%E7%8C%AA%E9%81%87%E4%B8%8A%E5%BD%A9%E8%89%B2%E6%B0%94%E7%90%83%23" target="weibo">
+陈浚铭糖果小猪遇上彩色气球（热度：15813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%AA%80%E5%81%A5%E6%AC%A1%E5%85%B1%E8%B5%B4%E5%85%89%E5%BD%B1%E4%B9%8B%E7%BA%A6%23" target="weibo">
+与檀健次共赴光影之约（热度：13887）
 </a>
 </li>
 

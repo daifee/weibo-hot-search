@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/04/03 02:09:12
+本榜单时间：2026/03/29 00:43:57 ~ 2026/04/03 03:07:00
 </p>
 </blockquote>
 <p>
@@ -10593,6 +10593,12 @@ vivo称V单是影像新物种（热度：24968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E7%B3%96%E6%9E%9C%E5%B0%8F%E7%8C%AA%E9%81%87%E4%B8%8A%E5%BD%A9%E8%89%B2%E6%B0%94%E7%90%83%23" target="weibo">
+陈浚铭糖果小猪遇上彩色气球（热度：15813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E6%96%B0%E6%89%8B%E4%B9%B0820RR%23" target="weibo">
 张雪回应禁止新手买820RR（热度：15755）
 </a>
@@ -10649,6 +10655,12 @@ QQ音乐巅峰之夜（热度：14649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%94%B0%E5%9C%B0%E7%AB%99%E8%B5%B7%E6%9D%A5%E5%BF%AB%E9%80%9F%E5%8F%91%E5%B0%84%23" target="weibo">
 中国火箭唰地站起来快速发射（热度：14346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%AA%80%E5%81%A5%E6%AC%A1%E5%85%B1%E8%B5%B4%E5%85%89%E5%BD%B1%E4%B9%8B%E7%BA%A6%23" target="weibo">
+与檀健次共赴光影之约（热度：13887）
 </a>
 </li>
 

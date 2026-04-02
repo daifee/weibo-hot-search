@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/03 02:09:12
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/03 03:07:00
 </p>
 </blockquote>
 <p>
@@ -4473,6 +4473,12 @@ DYG纪录片（热度：34056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E7%B3%96%E6%9E%9C%E5%B0%8F%E7%8C%AA%E9%81%87%E4%B8%8A%E5%BD%A9%E8%89%B2%E6%B0%94%E7%90%83%23" target="weibo">
+陈浚铭糖果小猪遇上彩色气球（热度：15813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E6%96%B0%E6%89%8B%E4%B9%B0820RR%23" target="weibo">
 张雪回应禁止新手买820RR（热度：15755）
 </a>
@@ -4493,6 +4499,12 @@ DYG纪录片（热度：34056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%87%BA%E5%9C%BA%E9%95%9C%E5%A4%B4%23" target="weibo">
 曾舜晞月鳞绮纪出场镜头（热度：14598）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%AA%80%E5%81%A5%E6%AC%A1%E5%85%B1%E8%B5%B4%E5%85%89%E5%BD%B1%E4%B9%8B%E7%BA%A6%23" target="weibo">
+与檀健次共赴光影之约（热度：13887）
 </a>
 </li>
 
