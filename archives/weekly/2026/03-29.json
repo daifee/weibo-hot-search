@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775129257611,
+  "endTime": 1775130924696,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -587,6 +587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 730921,
+      "num": 303178,
+      "word": "乘风初见面直播",
+      "onboard_time": 1775128462,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720310,
       "num": 505446,
       "word": "陈牧驰回应与吴楚一相关争议",
@@ -1075,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509422,
-      "num": 303178,
-      "word": "乘风初见面直播",
-      "onboard_time": 1775128462,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 509202,
       "num": 271266,
       "word": "江山大同阵容官宣",
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431714,
+      "num": 222316,
+      "word": "iPhone18Pro模具偷跑",
+      "onboard_time": 1775129182,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 428577,
       "num": 1027154,
       "word": "DeepSeek崩了",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1775098520,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415350,
+      "num": 1066456,
+      "word": "三部门约谈抖音淘天小红书",
+      "onboard_time": 1775130261,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 414118,
@@ -1819,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356297,
+      "num": 356297,
+      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+      "onboard_time": 1775128762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355449,
       "num": 220658,
       "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
@@ -1868,7 +1892,7 @@
     },
     {
       "raw_hot": 349237,
-      "num": 202137,
+      "num": 219046,
       "word": "泰国女星近乎昏迷时遭救护员性侵",
       "onboard_time": 1775125522,
       "rank": 48,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1774918942,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 314154,
+      "num": 280930,
+      "word": "你好1983结局",
+      "onboard_time": 1775127621,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 313703,
@@ -3667,14 +3699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210731,
-      "num": 210731,
-      "word": "你好1983结局",
-      "onboard_time": 1775127621,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210289,
       "num": 240549,
       "word": "男孩捡50g金条咬了一口竟是真的",
@@ -4099,6 +4123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188884,
+      "num": 188884,
+      "word": "王曼昱挑战TTR失败",
+      "onboard_time": 1775130261,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188847,
       "num": 161943,
       "word": "张凌赫直播",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1775029702,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186033,
+      "num": 186033,
+      "word": "特斯拉小米",
+      "onboard_time": 1775130441,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 185938,
@@ -4427,6 +4467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171008,
+      "num": 168859,
+      "word": "王传君齐溪带孩子出游",
+      "onboard_time": 1775130081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170041,
       "num": 170041,
       "word": "伊朗导弹高速突破以色列拦截",
@@ -4507,6 +4555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168369,
+      "num": 168369,
+      "word": "刘嘉玲 医美",
+      "onboard_time": 1775130081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168137,
       "num": 154503,
       "word": "孔雪儿 俞浅浅你终于自由了",
@@ -4577,6 +4633,14 @@
       "onboard_time": 1775107882,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165368,
+      "num": 165368,
+      "word": "迪丽热巴 古偶",
+      "onboard_time": 1775130261,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 165253,
@@ -5403,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137870,
+      "num": 137870,
+      "word": "2026款小鹏MONA大大大大大升级",
+      "onboard_time": 1775128282,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
@@ -5952,6 +6024,14 @@
       "word": "流量退去之后再访晓华理发店",
       "onboard_time": 1774922844,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126524,
+      "num": 126524,
+      "word": "老式水果为什么消失了",
+      "onboard_time": 1775129241,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -6811,6 +6891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111076,
+      "num": 111076,
+      "word": "汪苏泷胜诉",
+      "onboard_time": 1775129963,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110941,
       "num": 99136,
       "word": "现货黄金再失守4440",
@@ -7219,6 +7307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 106005,
+      "num": 95559,
+      "word": "王安宇 宽肩窄腰",
+      "onboard_time": 1775129423,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105992,
       "num": 105992,
       "word": "迪丽热巴的胆子也太大了吧",
@@ -7505,14 +7601,6 @@
       "onboard_time": 1774875743,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101217,
-      "num": 101217,
-      "word": "iPhone18Pro模具偷跑",
-      "onboard_time": 1775129182,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 101135,
@@ -7977,6 +8065,14 @@
       "onboard_time": 1775025562,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96313,
+      "num": 96313,
+      "word": "投资被骗后竟取现35万约骗子见面",
+      "onboard_time": 1775129062,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96146,
@@ -8449,6 +8545,14 @@
       "onboard_time": 1774947203,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90998,
+      "num": 90998,
+      "word": "董宇辉评论区被追问优思益售后方案",
+      "onboard_time": 1775130502,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90990,
@@ -9043,6 +9147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86924,
+      "num": 124845,
+      "word": "中国把数据中心搬进大海",
+      "onboard_time": 1775128221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86876,
       "num": 86876,
       "word": "芬兰人设",
@@ -9539,6 +9651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82939,
+      "num": 82939,
+      "word": "孩子打篮球踩到对方鞋被索赔500元",
+      "onboard_time": 1775130561,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82829,
       "num": 500033,
       "word": "万千惠选三宝的歌不担心版权",
@@ -9561,6 +9681,14 @@
       "onboard_time": 1774750400,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 82491,
+      "num": 82491,
+      "word": "魏晨 老辈子就是会疼人",
+      "onboard_time": 1775130741,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 82456,
@@ -10227,6 +10355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76641,
+      "num": 70274,
+      "word": "大侦探一期两案横跨10年",
+      "onboard_time": 1775130621,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76574,
       "num": 83508,
       "word": "伊朗称无人机大规模打击以色列目标",
@@ -10281,14 +10417,6 @@
       "onboard_time": 1775033243,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 75925,
-      "num": 124845,
-      "word": "中国把数据中心搬进大海",
-      "onboard_time": 1775128221,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75914,
@@ -10675,14 +10803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72046,
-      "num": 72046,
-      "word": "2026款小鹏MONA大大大大大升级",
-      "onboard_time": 1775128282,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72027,
       "num": 286470,
       "word": "白鹿说范丞丞现在变了",
@@ -10904,6 +11024,14 @@
       "word": "7人小区一楼烧纸被住户吹风机吹灭",
       "onboard_time": 1775007562,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69536,
+      "num": 87056,
+      "word": "女子赠侄子旧手机致出轨照外泄",
+      "onboard_time": 1775129963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -11603,6 +11731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58858,
+      "num": 70347,
+      "word": "王玉雯游戏建模身材",
+      "onboard_time": 1775130142,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58845,
       "num": 72093,
       "word": "邱少云牺牲前把鞋后面全蹬烂了",
@@ -12219,6 +12355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43324,
+      "num": 83010,
+      "word": "谁给丞磊挑的内搭",
+      "onboard_time": 1775130142,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42759,
       "num": 249985,
       "word": "华为旗舰标准智界V9不计成本投入",
@@ -12371,6 +12515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40021,
+      "num": 83323,
+      "word": "刘亦菲几乎没有法令纹",
+      "onboard_time": 1775130863,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39978,
       "num": 188243,
       "word": "新能源汽车安全没有上限",
@@ -12433,6 +12585,14 @@
       "onboard_time": 1775128221,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38483,
+      "num": 88329,
+      "word": "张元英下巴",
+      "onboard_time": 1775130803,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 38372,
@@ -12577,14 +12737,6 @@
       "onboard_time": 1774980435,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31988,
-      "num": 81515,
-      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
-      "onboard_time": 1775128762,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31836,
@@ -12915,6 +13067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23530,
+      "num": 169792,
+      "word": "蔡磊将赔偿款捐给贫困患者",
+      "onboard_time": 1775129902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23238,
       "num": 82933,
       "word": "送别李昌钰送别口供为王的时代",
@@ -13192,14 +13352,6 @@
       "word": "神21乘组在轨vlog又上新了",
       "onboard_time": 1774786287,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16661,
-      "num": 83897,
-      "word": "投资被骗后竟取现35万约骗子见面",
-      "onboard_time": 1775129062,
-      "rank": 35,
       "category": "民生新闻"
     },
     {

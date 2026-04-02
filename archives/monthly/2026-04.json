@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775129257611,
+  "endTime": 1775130924696,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -201,6 +201,14 @@
       "onboard_time": 1775062099,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 730921,
+      "num": 303178,
+      "word": "乘风初见面直播",
+      "onboard_time": 1775128462,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 713342,
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509422,
-      "num": 303178,
-      "word": "乘风初见面直播",
-      "onboard_time": 1775128462,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 508916,
       "num": 830865,
       "word": "美国一婴儿光天化日在街头被枪杀",
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431714,
+      "num": 222316,
+      "word": "iPhone18Pro模具偷跑",
+      "onboard_time": 1775129182,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 427626,
       "num": 427626,
       "word": "优思益营销策划公司被立案调查",
@@ -521,6 +529,14 @@
       "onboard_time": 1775098520,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415350,
+      "num": 1066456,
+      "word": "三部门约谈抖音淘天小红书",
+      "onboard_time": 1775130261,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 408421,
@@ -683,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356297,
+      "num": 356297,
+      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+      "onboard_time": 1775128762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355449,
       "num": 220658,
       "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 349237,
-      "num": 202137,
+      "num": 219046,
       "word": "泰国女星近乎昏迷时遭救护员性侵",
       "onboard_time": 1775125522,
       "rank": 48,
@@ -785,6 +809,14 @@
       "onboard_time": 1775086339,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 314154,
+      "num": 280930,
+      "word": "你好1983结局",
+      "onboard_time": 1775127621,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 309321,
@@ -1355,14 +1387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210731,
-      "num": 210731,
-      "word": "你好1983结局",
-      "onboard_time": 1775127621,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210289,
       "num": 240549,
       "word": "男孩捡50g金条咬了一口竟是真的",
@@ -1499,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188884,
+      "num": 188884,
+      "word": "王曼昱挑战TTR失败",
+      "onboard_time": 1775130261,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186256,
       "num": 186256,
       "word": "女子遭屠夫儿子杀害时被十余人目睹",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1775029702,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186033,
+      "num": 186033,
+      "word": "特斯拉小米",
+      "onboard_time": 1775130441,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 185938,
@@ -1603,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171008,
+      "num": 168859,
+      "word": "王传君齐溪带孩子出游",
+      "onboard_time": 1775130081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169908,
       "num": 169908,
       "word": "金价急跌急涨",
@@ -1635,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168369,
+      "num": 168369,
+      "word": "刘嘉玲 医美",
+      "onboard_time": 1775130081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "周深新歌禁止用于AI训练",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1775107882,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165368,
+      "num": 165368,
+      "word": "迪丽热巴 古偶",
+      "onboard_time": 1775130261,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 165253,
@@ -1971,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137870,
+      "num": 137870,
+      "word": "2026款小鹏MONA大大大大大升级",
+      "onboard_time": 1775128282,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137821,
       "num": 137821,
       "word": "销冠澳洲优思益竟是假进口",
@@ -2185,6 +2257,14 @@
       "onboard_time": 1775012664,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126524,
+      "num": 126524,
+      "word": "老式水果为什么消失了",
+      "onboard_time": 1775129241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125797,
@@ -2555,6 +2635,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 111076,
+      "num": 111076,
+      "word": "汪苏泷胜诉",
+      "onboard_time": 1775129963,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110175,
       "num": 110175,
       "word": "白日提灯追剧团",
@@ -2691,6 +2779,14 @@
       "category": "议题讨论,互联网"
     },
     {
+      "raw_hot": 106005,
+      "num": 95559,
+      "word": "王安宇 宽肩窄腰",
+      "onboard_time": 1775129423,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105641,
       "num": 105641,
       "word": "王艺迪获伦敦世乒赛参赛资格",
@@ -2793,14 +2889,6 @@
       "onboard_time": 1774969762,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101217,
-      "num": 101217,
-      "word": "iPhone18Pro模具偷跑",
-      "onboard_time": 1775129182,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 101135,
@@ -3003,6 +3091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96313,
+      "num": 96313,
+      "word": "投资被骗后竟取现35万约骗子见面",
+      "onboard_time": 1775129062,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96146,
       "num": 96146,
       "word": "性侵泰国女星嫌疑人已承认指控",
@@ -3152,6 +3248,14 @@
       "word": "有商家把不能听歌的有线耳机当项链卖",
       "onboard_time": 1775051724,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90998,
+      "num": 90998,
+      "word": "董宇辉评论区被追问优思益售后方案",
+      "onboard_time": 1775130502,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3387,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86924,
+      "num": 124845,
+      "word": "中国把数据中心搬进大海",
+      "onboard_time": 1775128221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86645,
       "num": 86645,
       "word": "张雪机车泰安店试驾车都快跑冒烟了",
@@ -3601,6 +3713,22 @@
       "onboard_time": 1775128341,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82939,
+      "num": 82939,
+      "word": "孩子打篮球踩到对方鞋被索赔500元",
+      "onboard_time": 1775130561,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82491,
+      "num": 82491,
+      "word": "魏晨 老辈子就是会疼人",
+      "onboard_time": 1775130741,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 82313,
@@ -3827,6 +3955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76641,
+      "num": 70274,
+      "word": "大侦探一期两案横跨10年",
+      "onboard_time": 1775130621,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76375,
       "num": 83809,
       "word": "收到了1岁到28岁的礼物",
@@ -3857,14 +3993,6 @@
       "onboard_time": 1775033243,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 75925,
-      "num": 124845,
-      "word": "中国把数据中心搬进大海",
-      "onboard_time": 1775128221,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75914,
@@ -4059,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72046,
-      "num": 72046,
-      "word": "2026款小鹏MONA大大大大大升级",
-      "onboard_time": 1775128282,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 71992,
       "num": 71992,
       "word": "黄金六轮史诗级跳水",
@@ -4192,6 +4312,14 @@
       "word": "7人小区一楼烧纸被住户吹风机吹灭",
       "onboard_time": 1775007562,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69536,
+      "num": 87056,
+      "word": "女子赠侄子旧手机致出轨照外泄",
+      "onboard_time": 1775129963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4441,6 +4569,14 @@
       "onboard_time": 1775119341,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58858,
+      "num": 70347,
+      "word": "王玉雯游戏建模身材",
+      "onboard_time": 1775130142,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 58737,
@@ -4707,6 +4843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43324,
+      "num": 83010,
+      "word": "谁给丞磊挑的内搭",
+      "onboard_time": 1775130142,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42759,
       "num": 249985,
       "word": "华为旗舰标准智界V9不计成本投入",
@@ -4747,6 +4891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40021,
+      "num": 83323,
+      "word": "刘亦菲几乎没有法令纹",
+      "onboard_time": 1775130863,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39889,
       "num": 83583,
       "word": "特朗普的讲话是给谁看的",
@@ -4785,6 +4937,14 @@
       "onboard_time": 1775128221,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38483,
+      "num": 88329,
+      "word": "张元英下巴",
+      "onboard_time": 1775130803,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 38372,
@@ -4849,14 +5009,6 @@
       "onboard_time": 1774980435,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31988,
-      "num": 81515,
-      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
-      "onboard_time": 1775128762,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31836,
@@ -4987,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23530,
+      "num": 169792,
+      "word": "蔡磊将赔偿款捐给贫困患者",
+      "onboard_time": 1775129902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22599,
       "num": 95009,
       "word": "你知道被裁员怎么和HR谈判吗",
@@ -5056,14 +5216,6 @@
       "word": "西湖景区回应游客和保安互吐口水",
       "onboard_time": 1775030063,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16661,
-      "num": 83897,
-      "word": "投资被骗后竟取现35万约骗子见面",
-      "onboard_time": 1775129062,
-      "rank": 35,
       "category": "民生新闻"
     },
     {

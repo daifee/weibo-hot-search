@@ -1,0 +1,410 @@
+{
+  "runTime": 1775130924696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415350,
+        "num": 1066456,
+        "word": "三部门约谈抖音淘天小红书",
+        "onboard_time": 1775130261,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306995,
+        "num": 761547,
+        "word": "优思益",
+        "onboard_time": 1775102601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24764,
+        "num": 614849,
+        "word": "又是赏花好时节",
+        "onboard_time": 1775113701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356297,
+        "num": 356297,
+        "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+        "onboard_time": 1775128762,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302393,
+        "num": 302393,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1775124561,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730921,
+        "num": 289845,
+        "word": "乘风初见面直播",
+        "onboard_time": 1775128462,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314154,
+        "num": 280930,
+        "word": "你好1983结局",
+        "onboard_time": 1775127621,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253863,
+        "num": 253863,
+        "word": "已吃两瓶优思益消费者发声",
+        "onboard_time": 1775123662,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224353,
+        "num": 224353,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1775116342,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 448006,
+        "num": 223017,
+        "word": "印度65岁大象死亡生前被涂粉色颜料",
+        "onboard_time": 1775123782,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 431714,
+        "num": 222316,
+        "word": "iPhone18Pro模具偷跑",
+        "onboard_time": 1775129182,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401199,
+        "num": 220685,
+        "word": "离职守恒定律",
+        "onboard_time": 1775124681,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346597,
+        "num": 219046,
+        "word": "泰国女星近乎昏迷时遭救护员性侵",
+        "onboard_time": 1775125522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265073,
+        "num": 218065,
+        "word": "李荣浩方否认恋人抄袭",
+        "onboard_time": 1775121861,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217434,
+        "num": 217434,
+        "word": "女子104000元买80g金条店员报警",
+        "onboard_time": 1775116342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188884,
+        "num": 188884,
+        "word": "王曼昱挑战TTR失败",
+        "onboard_time": 1775130261,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186033,
+        "num": 186033,
+        "word": "特斯拉小米",
+        "onboard_time": 1775130441,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174452,
+        "num": 174452,
+        "word": "张杰回应张凌赫送花篮",
+        "onboard_time": 1775115082,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170108,
+        "num": 170108,
+        "word": "乘风2026",
+        "onboard_time": 1775100020,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 169792,
+        "word": "蔡磊将赔偿款捐给贫困患者",
+        "onboard_time": 1775129902,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191303,
+        "num": 169646,
+        "word": "林依晨43岁状态",
+        "onboard_time": 1775126722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171008,
+        "num": 168859,
+        "word": "王传君齐溪带孩子出游",
+        "onboard_time": 1775130081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138198,
+        "num": 168663,
+        "word": "三年后狗近视得找不到饭盆",
+        "onboard_time": 1775122641,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168369,
+        "num": 168369,
+        "word": "刘嘉玲 医美",
+        "onboard_time": 1775130081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165368,
+        "num": 165368,
+        "word": "迪丽热巴 古偶",
+        "onboard_time": 1775130261,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137870,
+        "num": 137870,
+        "word": "2026款小鹏MONA大大大大大升级",
+        "onboard_time": 1775128282,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144939,
+        "num": 135560,
+        "word": "古巨基二胎儿子正面照公开",
+        "onboard_time": 1775127801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128836,
+        "num": 128836,
+        "word": "乘风2026立意片来了",
+        "onboard_time": 1775128041,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126844,
+        "num": 126844,
+        "word": "男子趁妻子去厕所上台相亲",
+        "onboard_time": 1775119461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 126524,
+        "word": "老式水果为什么消失了",
+        "onboard_time": 1775129241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124668,
+        "num": 124668,
+        "word": "以色列遭到开战以来最大规模导弹袭击",
+        "onboard_time": 1775125042,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121867,
+        "num": 121867,
+        "word": "高圆圆赵又廷女儿长这么大了",
+        "onboard_time": 1775125462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111076,
+        "num": 111076,
+        "word": "汪苏泷胜诉",
+        "onboard_time": 1775129963,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96313,
+        "num": 96313,
+        "word": "投资被骗后竟取现35万约骗子见面",
+        "onboard_time": 1775129062,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106005,
+        "num": 95559,
+        "word": "王安宇 宽肩窄腰",
+        "onboard_time": 1775129423,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102319,
+        "num": 95150,
+        "word": "白日提灯",
+        "onboard_time": 1775126480,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94394,
+        "num": 94394,
+        "word": "孙颖莎蒯曼争八强",
+        "onboard_time": 1775127441,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90998,
+        "num": 90998,
+        "word": "董宇辉评论区被追问优思益售后方案",
+        "onboard_time": 1775130502,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38483,
+        "num": 88329,
+        "word": "张元英下巴",
+        "onboard_time": 1775130803,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69536,
+        "num": 87056,
+        "word": "女子赠侄子旧手机致出轨照外泄",
+        "onboard_time": 1775129963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86924,
+        "num": 86924,
+        "word": "中国把数据中心搬进大海",
+        "onboard_time": 1775128221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40021,
+        "num": 83323,
+        "word": "刘亦菲几乎没有法令纹",
+        "onboard_time": 1775130863,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43324,
+        "num": 83010,
+        "word": "谁给丞磊挑的内搭",
+        "onboard_time": 1775130142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82939,
+        "num": 82939,
+        "word": "孩子打篮球踩到对方鞋被索赔500元",
+        "onboard_time": 1775130561,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82491,
+        "num": 82491,
+        "word": "魏晨 老辈子就是会疼人",
+        "onboard_time": 1775130741,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77621,
+        "num": 77621,
+        "word": "TOP全员感冒",
+        "onboard_time": 1775126361,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72861,
+        "num": 72861,
+        "word": "蒯曼12比10孙颖莎",
+        "onboard_time": 1775129182,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58858,
+        "num": 70347,
+        "word": "王玉雯游戏建模身材",
+        "onboard_time": 1775130142,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76641,
+        "num": 70274,
+        "word": "大侦探一期两案横跨10年",
+        "onboard_time": 1775130621,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70165,
+        "num": 70165,
+        "word": "KSG对战DYG",
+        "onboard_time": 1775128401,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平种下栋梁之材#"
+    }
+  }
+}
