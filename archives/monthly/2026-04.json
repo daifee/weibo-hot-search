@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775127617760,
+  "endTime": 1775129257611,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 608154,
+      "num": 1097304,
+      "word": "印度65岁大象死亡生前被涂粉色颜料",
+      "onboard_time": 1775123782,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 607475,
       "num": 172036,
       "word": "网易云封号",
@@ -337,14 +345,6 @@
       "onboard_time": 1775034022,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549073,
-      "num": 799492,
-      "word": "印度65岁大象死亡生前被涂粉色颜料",
-      "onboard_time": 1775123782,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 544443,
@@ -409,6 +409,14 @@
       "onboard_time": 1775014348,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 509422,
+      "num": 303178,
+      "word": "乘风初见面直播",
+      "onboard_time": 1775128462,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 508916,
@@ -513,6 +521,14 @@
       "onboard_time": 1775098520,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408421,
+      "num": 768809,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1775124561,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 407582,
@@ -683,6 +699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 349237,
+      "num": 202137,
+      "word": "泰国女星近乎昏迷时遭救护员性侵",
+      "onboard_time": 1775125522,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337735,
       "num": 234885,
       "word": "妹妹看到姐姐遗体惨状当场崩溃",
@@ -745,14 +769,6 @@
       "onboard_time": 1775014466,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324313,
-      "num": 324313,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1775124561,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 317846,
@@ -944,6 +960,14 @@
       "word": "何穗带娃看小动物",
       "onboard_time": 1775095280,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260061,
+      "num": 175762,
+      "word": "林依晨43岁状态",
+      "onboard_time": 1775126722,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1171,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228873,
+      "num": 228873,
+      "word": "乘风2026",
+      "onboard_time": 1775100020,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "张凌赫改了自动回复",
@@ -1275,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213464,
+      "num": 187223,
+      "word": "乘风2026立意片来了",
+      "onboard_time": 1775128041,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213415,
       "num": 213415,
       "word": "男子遗产大半留给妻儿母亲弟弟不服",
@@ -1315,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210731,
+      "num": 210731,
+      "word": "你好1983结局",
+      "onboard_time": 1775127621,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210289,
       "num": 240549,
       "word": "男孩捡50g金条咬了一口竟是真的",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1775119162,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 202137,
-      "num": 202137,
-      "word": "泰国女星近乎昏迷时遭救护员性侵",
-      "onboard_time": 1775125522,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201891,
@@ -1531,12 +1571,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 173763,
+      "num": 173763,
+      "word": "古巨基二胎儿子正面照公开",
+      "onboard_time": 1775127801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172621,
       "num": 172621,
       "word": "水木年华维权",
       "onboard_time": 1775016805,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171856,
+      "num": 234269,
+      "word": "以色列遭到开战以来最大规模导弹袭击",
+      "onboard_time": 1775125042,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171755,
@@ -1883,14 +1939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140891,
-      "num": 221892,
-      "word": "乘风2026",
-      "onboard_time": 1775100020,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "严屹宽曝张凌赫挨鞭子真打了108次",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1775009181,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138550,
-      "num": 138550,
-      "word": "林依晨43岁状态",
-      "onboard_time": 1775126722,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 137821,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1775002885,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132600,
+      "num": 132600,
+      "word": "孙颖莎蒯曼争八强",
+      "onboard_time": 1775127441,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 132383,
@@ -2107,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127606,
+      "num": 112835,
+      "word": "蒯曼12比10孙颖莎",
+      "onboard_time": 1775129182,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127073,
       "num": 127073,
       "word": "汪苏泷郑州演唱会抢票",
@@ -2171,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123245,
+      "num": 123245,
+      "word": "KSG对战DYG",
+      "onboard_time": 1775128401,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122514,
       "num": 116839,
       "word": "美国男子失踪23年后断腿惊现海滩",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1775056703,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121657,
+      "num": 121657,
+      "word": "白日提灯",
+      "onboard_time": 1775126480,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 121558,
@@ -2379,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117022,
+      "num": 204939,
+      "word": "毛晓彤花神妆",
+      "onboard_time": 1775124561,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 116917,
       "num": 116917,
       "word": "多位明星曾直播卖优思益",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1774946664,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115304,
-      "num": 234269,
-      "word": "以色列遭到开战以来最大规模导弹袭击",
-      "onboard_time": 1775125042,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115225,
@@ -2723,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101217,
+      "num": 101217,
+      "word": "iPhone18Pro模具偷跑",
+      "onboard_time": 1775129182,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101135,
       "num": 101135,
       "word": "暖阳七连MVP",
@@ -2833,14 +2913,6 @@
       "onboard_time": 1775061200,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98865,
-      "num": 98865,
-      "word": "白日提灯",
-      "onboard_time": 1775126480,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 98582,
@@ -3523,6 +3595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82975,
+      "num": 82975,
+      "word": "逐玉白日提灯月鳞绮纪云合前三",
+      "onboard_time": 1775128341,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82313,
       "num": 82313,
       "word": "武汉多辆萝卜快跑出故障",
@@ -3563,14 +3643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82037,
-      "num": 82037,
-      "word": "孙颖莎蒯曼争八强",
-      "onboard_time": 1775127441,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82012,
       "num": 82012,
       "word": "帕梅拉 你是我带过最差的一届",
@@ -3585,14 +3657,6 @@
       "onboard_time": 1775081296,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81798,
-      "num": 204939,
-      "word": "毛晓彤花神妆",
-      "onboard_time": 1775124561,
-      "rank": 17,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 81657,
@@ -3795,6 +3859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 75925,
+      "num": 124845,
+      "word": "中国把数据中心搬进大海",
+      "onboard_time": 1775128221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75914,
       "num": 75914,
       "word": "罗晋连续16年缅怀张国荣",
@@ -3915,6 +3987,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 73501,
+      "num": 73501,
+      "word": "14岁男孩与猫狗同吃同睡双眼险失明",
+      "onboard_time": 1775127322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73423,
+      "num": 72018,
+      "word": "张俪回应二搭迪丽热巴",
+      "onboard_time": 1775126722,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72808,
       "num": 62355,
       "word": "Ruler可能面临禁赛",
@@ -3971,12 +4059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72046,
+      "num": 72046,
+      "word": "2026款小鹏MONA大大大大大升级",
+      "onboard_time": 1775128282,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71992,
       "num": 71992,
       "word": "黄金六轮史诗级跳水",
       "onboard_time": 1774970963,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71792,
+      "num": 71792,
+      "word": "上班真的很耽误事",
+      "onboard_time": 1775125702,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71674,
@@ -4027,12 +4131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70710,
-      "num": 70710,
-      "word": "14岁男孩与猫狗同吃同睡双眼险失明",
-      "onboard_time": 1775127322,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 70765,
+      "num": 70765,
+      "word": "假性带娃",
+      "onboard_time": 1775126001,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 70668,
@@ -4123,12 +4227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68429,
+      "num": 68429,
+      "word": "现货黄金",
+      "onboard_time": 1775125341,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68387,
       "num": 68387,
       "word": "智界CEO谈亏本卖车",
       "onboard_time": 1775127082,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68373,
+      "num": 68373,
+      "word": "优思益带货主播仅赔15%遭吐槽",
+      "onboard_time": 1775129122,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67542,
@@ -4177,22 +4297,6 @@
       "onboard_time": 1775033661,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65141,
-      "num": 65141,
-      "word": "上班真的很耽误事",
-      "onboard_time": 1775125702,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 65138,
-      "num": 65138,
-      "word": "张俪回应二搭迪丽热巴",
-      "onboard_time": 1775126722,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 64132,
@@ -4675,6 +4779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38486,
+      "num": 180331,
+      "word": "猪肉价格接近姜蒜",
+      "onboard_time": 1775128221,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38372,
       "num": 118252,
       "word": "美国为何只绕月不登月",
@@ -4715,6 +4827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33676,
+      "num": 81520,
+      "word": "王灿晒女儿近照称不想二胎",
+      "onboard_time": 1775128221,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33624,
       "num": 674893,
       "word": "天宫画展再上新",
@@ -4729,6 +4849,14 @@
       "onboard_time": 1774980435,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31988,
+      "num": 81515,
+      "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
+      "onboard_time": 1775128762,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31836,
@@ -4875,6 +5003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20992,
+      "num": 178592,
+      "word": "女子争车位摔倒身亡被告判赔14.9万",
+      "onboard_time": 1775128702,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18840,
       "num": 43545,
       "word": "月鳞绮纪定档0401",
@@ -4920,6 +5056,14 @@
       "word": "西湖景区回应游客和保安互吐口水",
       "onboard_time": 1775030063,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16661,
+      "num": 83897,
+      "word": "投资被骗后竟取现35万约骗子见面",
+      "onboard_time": 1775129062,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
