@@ -1,6 +1,6 @@
 {
   "startTime": 1775063126025,
-  "endTime": 1775118958748,
+  "endTime": 1775120939676,
   "band_list": [
     {
       "raw_hot": 1485358,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 856337,
+      "num": 608042,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1775116342,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 839389,
       "num": 841134,
       "word": "张雪想卖陈光标赠送豪车给嫣然捐款",
@@ -99,20 +107,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 638035,
+      "num": 1102085,
+      "word": "女子104000元买80g金条店员报警",
+      "onboard_time": 1775116342,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610609,
       "num": 846456,
       "word": "陈光标回应张雪要卖车",
       "onboard_time": 1775104702,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 608042,
-      "num": 608042,
-      "word": "被时代淘汰的水果",
-      "onboard_time": 1775116342,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 602425,
@@ -129,14 +137,6 @@
       "onboard_time": 1775054723,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 566759,
-      "num": 924944,
-      "word": "女子104000元买80g金条店员报警",
-      "onboard_time": 1775116342,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 544443,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268215,
+      "num": 109093,
+      "word": "曝顶帅男演员被富婆大闹片场",
+      "onboard_time": 1775120243,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260271,
       "num": 260271,
       "word": "何穗带娃看小动物",
@@ -403,6 +411,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 242679,
+      "num": 107532,
+      "word": "男子趁妻子去厕所上台相亲",
+      "onboard_time": 1775119461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236458,
       "num": 236458,
       "word": "宝珠",
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219518,
+      "num": 797734,
+      "word": "中方回应特朗普鼓动各国抢石油",
+      "onboard_time": 1775118201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217683,
       "num": 217683,
       "word": "4个炒菜习惯或让致癌物翻倍",
@@ -505,6 +529,14 @@
       "onboard_time": 1775094501,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191927,
+      "num": 191927,
+      "word": "张雪机车夺冠车手发声",
+      "onboard_time": 1775118741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188900,
@@ -723,6 +755,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "火旺 宋威龙",
+      "onboard_time": 1775119523,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132383,
       "num": 220670,
       "word": "张凌赫新华社讲述星星的孩子",
@@ -737,6 +777,14 @@
       "onboard_time": 1775101341,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "比papi更像苏菲玛索的人找到了",
+      "onboard_time": 1775115323,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129238,
@@ -955,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107704,
-      "num": 107704,
-      "word": "比papi更像苏菲玛索的人找到了",
-      "onboard_time": 1775115323,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 107604,
       "num": 103480,
       "word": "周杰伦白西装昆凌黑羽绒服",
@@ -985,6 +1025,14 @@
       "onboard_time": 1775107162,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105425,
+      "num": 105425,
+      "word": "糯米藕",
+      "onboard_time": 1775116882,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 103574,
@@ -1035,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100230,
+      "num": 100230,
+      "word": "女子哭诉3个兄妹不照顾92岁母亲",
+      "onboard_time": 1775117421,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 99666,
       "num": 99666,
       "word": "美以伊地面战一触即发",
@@ -1073,6 +1129,22 @@
       "onboard_time": 1775114841,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97043,
+      "num": 85742,
+      "word": "月鳞绮纪第三",
+      "onboard_time": 1775120123,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95261,
+      "num": 95261,
+      "word": "山西一饭店发现3人死亡",
+      "onboard_time": 1775118501,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94994,
@@ -1115,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93426,
-      "num": 93426,
-      "word": "张雪机车夺冠车手发声",
-      "onboard_time": 1775118741,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93212,
       "num": 93212,
       "word": "教体局回应小学要求早上6点40到校",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1775105423,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 91730,
-      "num": 91730,
-      "word": "女子哭诉3个兄妹不照顾92岁母亲",
-      "onboard_time": 1775117421,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 90850,
@@ -1259,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86090,
+      "num": 86090,
+      "word": "带娃一个月终于懂了妈妈的月子病",
+      "onboard_time": 1775118741,
+      "rank": 40,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 85945,
       "num": 251999,
       "word": "田曦薇骨相清冷美",
@@ -1283,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83770,
+      "num": 83770,
+      "word": "王楚钦说香港总决赛受伤呼吸都疼",
+      "onboard_time": 1775117722,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82273,
       "num": 82273,
       "word": "凯越机车致歉",
@@ -1291,20 +1363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82234,
+      "num": 82234,
+      "word": "法国冠军车手谈张雪",
+      "onboard_time": 1775120782,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81916,
       "num": 81916,
       "word": "英首相回应特朗普贬损英国军力",
       "onboard_time": 1775081296,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81786,
-      "num": 81786,
-      "word": "糯米藕",
-      "onboard_time": 1775116882,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 81657,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1775112263,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80273,
-      "num": 80273,
-      "word": "带娃一个月终于懂了妈妈的月子病",
-      "onboard_time": 1775118741,
-      "rank": 40,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 79559,
@@ -1403,12 +1467,28 @@
       "category": "综艺,民生新闻"
     },
     {
+      "raw_hot": 74865,
+      "num": 74865,
+      "word": "黄金白银大跌特跌",
+      "onboard_time": 1775119402,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74565,
       "num": 74565,
       "word": "清明拼假4天休9天",
       "onboard_time": 1775114062,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74304,
+      "num": 74304,
+      "word": "警方通报司机猥亵后排女乘客",
+      "onboard_time": 1775119162,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 73932,
@@ -1435,12 +1515,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 72314,
-      "num": 72314,
-      "word": "山西一饭店发现3人死亡",
-      "onboard_time": 1775118501,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 72261,
+      "num": 72261,
+      "word": "当我把压力说给单位的花听",
+      "onboard_time": 1775119702,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 72258,
@@ -1467,11 +1547,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70880,
-      "num": 179827,
-      "word": "中方回应特朗普鼓动各国抢石油",
-      "onboard_time": 1775118201,
-      "rank": 9,
+      "raw_hot": 70926,
+      "num": 113770,
+      "word": "美军主力机型损失惨重",
+      "onboard_time": 1775118022,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -1507,20 +1587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70371,
-      "num": 78159,
-      "word": "王楚钦说香港总决赛受伤呼吸都疼",
-      "onboard_time": 1775117722,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67369,
       "num": 67369,
       "word": "张凌赫田曦薇对戏花絮",
       "onboard_time": 1775091861,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66917,
+      "num": 66917,
+      "word": "汪顺喊潘展乐徐嘉余接球",
+      "onboard_time": 1775120902,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 66133,
@@ -1547,6 +1627,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62124,
+      "num": 62124,
+      "word": "某国领馆人员违规搜集我农作物情况",
+      "onboard_time": 1775117601,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61279,
+      "num": 61279,
+      "word": "文班亚马41分18篮板",
+      "onboard_time": 1775119222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60923,
+      "num": 109691,
+      "word": "警方通报女子被网约车司机骚扰",
+      "onboard_time": 1775119762,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 60726,
       "num": 87422,
       "word": "丈夫离婚前挥霍百万算作已分得财产",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1775061979,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59841,
+      "num": 59841,
+      "word": "A股再险守3900点",
+      "onboard_time": 1775119341,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 55113,
@@ -1627,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49864,
+      "num": 132637,
+      "word": "伊称霍尔木兹海峡将对敌人永久关闭",
+      "onboard_time": 1775120361,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48703,
       "num": 48703,
       "word": "以色列决定报复法国",
@@ -1683,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45962,
+      "num": 82564,
+      "word": "15国外长联合声明",
+      "onboard_time": 1775119582,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44881,
       "num": 88815,
       "word": "12岁男孩提到写作业1天呕吐10次",
@@ -1697,14 +1825,6 @@
       "onboard_time": 1775102841,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 41642,
-      "num": 113770,
-      "word": "美军主力机型损失惨重",
-      "onboard_time": 1775118022,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41074,
@@ -1801,6 +1921,14 @@
       "onboard_time": 1775043502,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30985,
+      "num": 98317,
+      "word": "浙江宣传谈张雪说一个子都没有",
+      "onboard_time": 1775120720,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29292,
