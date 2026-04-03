@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775174347538,
+  "endTime": 1775184799986,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -273,6 +273,14 @@
       "onboard_time": 1774768047,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1207957,
+      "num": 1207957,
+      "word": "韩国40岁导演遭围殴致死引众怒",
+      "onboard_time": 1775180480,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1186471,
@@ -553,6 +561,14 @@
       "onboard_time": 1775133564,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797426,
+      "num": 797426,
+      "word": "同事被炼化了",
+      "onboard_time": 1775179461,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 795143,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498640,
+      "num": 208472,
+      "word": "会计的噩梦",
+      "onboard_time": 1775181501,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 498162,
       "num": 877003,
       "word": "网友买安眠药后收到注销驾驶证短信",
@@ -1484,7 +1508,7 @@
     },
     {
       "raw_hot": 436573,
-      "num": 177854,
+      "num": 799318,
       "word": "张天爱发文回应变样",
       "onboard_time": 1775172439,
       "rank": 17,
@@ -1592,6 +1616,14 @@
       "word": "孙艺珍庆祝与玄彬结婚四周年",
       "onboard_time": 1774962804,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417363,
+      "num": 163659,
+      "word": "陈畅说李小冉靠一张脸在北舞躺平七年",
+      "onboard_time": 1775178861,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2427,6 +2459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304600,
+      "num": 177194,
+      "word": "王楚然突发身体不适",
+      "onboard_time": 1775181620,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303831,
       "num": 303831,
       "word": "鞠婧祎问看月鳞绮纪了吗",
@@ -2731,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277694,
+      "num": 841172,
+      "word": "特斯拉再度产销失衡",
+      "onboard_time": 1775181501,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 277267,
       "num": 1000732,
       "word": "逐玉",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1774713202,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270718,
+      "num": 797667,
+      "word": "伊朗袭击美甲骨文和亚马逊数据中心",
+      "onboard_time": 1775174482,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270484,
@@ -3051,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258155,
+      "num": 258155,
+      "word": "狗子误咬女主人被一顿胖揍",
+      "onboard_time": 1775180541,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257846,
       "num": 257846,
       "word": "美以伊地面战一触即发",
@@ -3195,6 +3259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247784,
+      "num": 247784,
+      "word": "贵州一县委书记闭幕致辞火了",
+      "onboard_time": 1775175382,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247543,
       "num": 154654,
       "word": "马嘉祺月鳞绮纪OST",
@@ -3296,6 +3368,14 @@
       "word": "男子趁妻子去厕所上台相亲",
       "onboard_time": 1775119461,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242413,
+      "num": 242413,
+      "word": "女子流清水鼻涕20天竟是脑脊液",
+      "onboard_time": 1775175503,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4275,6 +4355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 195531,
+      "num": 163531,
+      "word": "jennie比基尼大片",
+      "onboard_time": 1775178381,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195381,
       "num": 575158,
       "word": "对粉底液将军反感是上纲上线吗",
@@ -4747,6 +4835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173852,
+      "num": 162387,
+      "word": "人鱼",
+      "onboard_time": 1775173760,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173763,
       "num": 173763,
       "word": "古巨基二胎儿子正面照公开",
@@ -5019,6 +5115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "小米调价",
+      "onboard_time": 1775184320,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164133,
       "num": 164133,
       "word": "蔡磊进入渐冻症终末期",
@@ -5091,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162582,
+      "num": 162582,
+      "word": "25岁海警被走私艇冲撞牺牲画面",
+      "onboard_time": 1775175200,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162577,
       "num": 162577,
       "word": "特朗普认真考虑美退出北约",
@@ -5121,6 +5233,14 @@
       "onboard_time": 1775056223,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161814,
+      "num": 161814,
+      "word": "温峥嵘回应海清献血请她吃烤鸭",
+      "onboard_time": 1775180301,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 161801,
@@ -5643,6 +5763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144510,
+      "num": 130969,
+      "word": "黄灿灿浪姐直播闯祸",
+      "onboard_time": 1775184681,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144305,
       "num": 136714,
       "word": "43岁产妇遇产科死神羊水栓塞",
@@ -5923,6 +6051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137613,
+      "num": 69220,
+      "word": "孙怡镜头",
+      "onboard_time": 1775175923,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137309,
       "num": 571729,
       "word": "文旅局回应宠物友好酒店推荐吃狗肉",
@@ -6171,6 +6307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131440,
+      "num": 131440,
+      "word": "男子出轨染病给女友同意赔50万又后悔",
+      "onboard_time": 1775173941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131151,
       "num": 146502,
       "word": "不是正剧就不用较真粉底液将军吗",
@@ -6241,6 +6385,14 @@
       "onboard_time": 1774970245,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129749,
+      "num": 129749,
+      "word": "张国荣祖居被发现",
+      "onboard_time": 1775181141,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 129632,
@@ -6353,6 +6505,14 @@
       "onboard_time": 1775103321,
       "rank": 39,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 128145,
+      "num": 128145,
+      "word": "现在才读懂孔雀东南飞",
+      "onboard_time": 1775174362,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 128088,
@@ -6660,7 +6820,7 @@
     },
     {
       "raw_hot": 122057,
-      "num": 676789,
+      "num": 801423,
       "word": "多城实施住房公积金新政",
       "onboard_time": 1775134283,
       "rank": 2,
@@ -6696,6 +6856,14 @@
       "word": "三部门对优思益展开调查",
       "onboard_time": 1775027543,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121223,
+      "num": 121223,
+      "word": "职工拒接离职同事工作被解雇",
+      "onboard_time": 1775178201,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6809,6 +6977,14 @@
       "onboard_time": 1774874603,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119599,
+      "num": 119599,
+      "word": "美防长要求陆军参谋长辞职并立即退休",
+      "onboard_time": 1775180541,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119487,
@@ -7081,14 +7257,6 @@
       "onboard_time": 1774945582,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115935,
-      "num": 88653,
-      "word": "男子出轨染病给女友同意赔50万又后悔",
-      "onboard_time": 1775173941,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115587,
@@ -7545,6 +7713,14 @@
       "onboard_time": 1774749079,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108800,
+      "num": 108800,
+      "word": "陈飞宇是迪丽热巴第一位共创的男主",
+      "onboard_time": 1775179581,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 108783,
@@ -8115,6 +8291,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 101495,
+      "num": 101495,
+      "word": "在不该读书的年纪读懂了英语",
+      "onboard_time": 1775181921,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101490,
       "num": 130882,
       "word": "网约车 风琴脚",
@@ -8137,6 +8321,14 @@
       "onboard_time": 1774875743,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101220,
+      "num": 101220,
+      "word": "张雪回应浙创投投资9000万",
+      "onboard_time": 1775183421,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 101135,
@@ -9259,14 +9451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90148,
-      "num": 90148,
-      "word": "人鱼",
-      "onboard_time": 1775173760,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90084,
       "num": 90084,
       "word": "薛之谦TFBOYS同框",
@@ -9785,6 +9969,22 @@
       "onboard_time": 1775043623,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86585,
+      "num": 86585,
+      "word": "蔡徐坤 周末见",
+      "onboard_time": 1775183001,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86512,
+      "num": 86512,
+      "word": "小孩哥春游发现罂粟秒报警",
+      "onboard_time": 1775180360,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86509,
@@ -11003,6 +11203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76733,
+      "num": 76733,
+      "word": "局地有10级以上雷暴大风",
+      "onboard_time": 1775183661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76713,
       "num": 76713,
       "word": "DeepSeek升级模型",
@@ -11139,6 +11347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75326,
+      "num": 75326,
+      "word": "俄罗斯重新将28名日本人列为战犯",
+      "onboard_time": 1775184561,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75023,
       "num": 425994,
       "word": "vivo发布了一款民用哈勃",
@@ -11227,6 +11443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74305,
+      "num": 74305,
+      "word": "92岁老人住养老院4个孩子内讧",
+      "onboard_time": 1775182520,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74302,
       "num": 74302,
       "word": "意大利不敌波黑",
@@ -11307,6 +11531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73510,
+      "num": 73510,
+      "word": "小警犬刚到警局就被全体同事的围观了",
+      "onboard_time": 1775173819,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73501,
       "num": 73501,
       "word": "14岁男孩与猫狗同吃同睡双眼险失明",
@@ -11345,14 +11577,6 @@
       "onboard_time": 1774773629,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72850,
-      "num": 72850,
-      "word": "小警犬刚到警局就被全体同事的围观了",
-      "onboard_time": 1775173819,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 72808,
@@ -11499,6 +11723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71986,
+      "num": 71986,
+      "word": "张雪妻子晒账本",
+      "onboard_time": 1775180541,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71984,
       "num": 75288,
       "word": "李现逛街偶遇粉丝",
@@ -11585,6 +11817,14 @@
       "onboard_time": 1774762882,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71343,
+      "num": 71343,
+      "word": "伊朗称霍尔木兹不会回到战前状态",
+      "onboard_time": 1775178681,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71337,
@@ -11755,6 +11995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69677,
+      "num": 69677,
+      "word": "有线耳机为啥能翻红",
+      "onboard_time": 1775180179,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69377,
       "num": 83153,
       "word": "中国机器人有了肌腱",
@@ -11809,6 +12057,14 @@
       "onboard_time": 1774768410,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68722,
+      "num": 68722,
+      "word": "25岁海警牺牲前一天刚递交结婚申请",
+      "onboard_time": 1775184561,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68689,
@@ -11921,6 +12177,14 @@
       "onboard_time": 1775024243,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67500,
+      "num": 67500,
+      "word": "八旬奶奶开无人机帮孙子种地",
+      "onboard_time": 1775184681,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67438,
@@ -12585,6 +12849,14 @@
       "onboard_time": 1775171958,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57280,
+      "num": 162119,
+      "word": "充电宝新国标出台",
+      "onboard_time": 1775184021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57019,
@@ -13273,6 +13545,14 @@
       "onboard_time": 1774741217,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41194,
+      "num": 239030,
+      "word": "移动电源强制性国家标准发布",
+      "onboard_time": 1775184021,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41074,
