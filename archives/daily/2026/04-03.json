@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775222337158,
+  "endTime": 1775223827301,
   "band_list": [
     {
       "raw_hot": 2418500,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1441608,
-      "num": 294501,
+      "num": 309950,
       "word": "乘风初舞台直播",
       "onboard_time": 1775215342,
       "rank": 5,
@@ -75,6 +75,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949121,
+      "num": 294934,
+      "word": "代斯票数",
+      "onboard_time": 1775221402,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 932334,
+      "num": 467339,
+      "word": "阚清子唱哭了",
+      "onboard_time": 1775223503,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 920547,
       "num": 362981,
       "word": "孙怡 垫音",
@@ -97,14 +113,6 @@
       "onboard_time": 1775197403,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 818889,
-      "num": 247477,
-      "word": "代斯票数",
-      "onboard_time": 1775221402,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 797426,
@@ -131,6 +139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 775077,
+      "num": 466850,
+      "word": "当你过午不食六个月",
+      "onboard_time": 1775219123,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 772187,
       "num": 183722,
       "word": "特步二公主生娃",
@@ -147,20 +163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 713594,
+      "num": 307196,
+      "word": "温峥嵘 二重唱",
+      "onboard_time": 1775220804,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709734,
       "num": 403173,
       "word": "AG对战狼队",
       "onboard_time": 1775214263,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 697202,
-      "num": 242876,
-      "word": "温峥嵘 二重唱",
-      "onboard_time": 1775220804,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 695645,
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 660590,
-      "num": 351224,
-      "word": "当你过午不食六个月",
-      "onboard_time": 1775219123,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 654987,
       "num": 780865,
       "word": "优思益称无力售后",
@@ -203,11 +211,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 646450,
+      "num": 283357,
+      "word": "阚清子 尊重游戏规则",
+      "onboard_time": 1775223503,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639685,
       "num": 234934,
       "word": "江语晨 跑调",
       "onboard_time": 1775219603,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 637483,
+      "num": 157174,
+      "word": "万千惠 实力派",
+      "onboard_time": 1775223685,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611396,
+      "num": 819129,
+      "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+      "onboard_time": 1775221583,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 598426,
       "num": 162870,
       "word": "王橹杰画的咴",
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 587935,
-      "num": 231832,
+      "num": 283261,
       "word": "张凌赫因为帅被同学偷拍",
       "onboard_time": 1775216722,
       "rank": 27,
@@ -353,6 +385,14 @@
       "onboard_time": 1775181501,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 497930,
+      "num": 286582,
+      "word": "孙怡 好美的洋娃娃",
+      "onboard_time": 1775220984,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 488382,
@@ -555,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313723,
+      "num": 313723,
+      "word": "狼队零封AG晋级决赛",
+      "onboard_time": 1775222603,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 309426,
       "num": 309426,
       "word": "红果全面下架桃花簪",
@@ -595,14 +643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 302380,
-      "num": 205037,
-      "word": "孙怡 好美的洋娃娃",
-      "onboard_time": 1775220984,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294114,
       "num": 183823,
       "word": "伊朗800公斤弹头砸向美军基地",
@@ -633,6 +673,14 @@
       "onboard_time": 1775210541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285877,
+      "num": 285877,
+      "word": "伊媒称美军试图救出遭击落战机飞行员",
+      "onboard_time": 1775220864,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 283195,
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 274412,
-      "num": 208757,
+      "num": 255734,
       "word": "男子发私照让豆包测评身材被封号",
       "onboard_time": 1775213361,
       "rank": 42,
@@ -819,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240832,
-      "num": 240832,
-      "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
-      "onboard_time": 1775221583,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239334,
       "num": 126441,
       "word": "学霸辞职读研",
@@ -929,14 +969,6 @@
       "onboard_time": 1775213003,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201829,
-      "num": 201829,
-      "word": "伊媒称美军试图救出遭击落战机飞行员",
-      "onboard_time": 1775220864,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 200663,
@@ -1147,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158537,
+      "num": 158537,
+      "word": "兰州大学惊现虐猫房车",
+      "onboard_time": 1775222122,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154245,
       "num": 75532,
       "word": "王俊凯送考徐洁儿",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1775195181,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149909,
+      "num": 149909,
+      "word": "我许可",
+      "onboard_time": 1775222903,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 148987,
@@ -1755,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101773,
+      "num": 101773,
+      "word": "邱鼎杰直播",
+      "onboard_time": 1775222364,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101495,
       "num": 101495,
       "word": "在不该读书的年纪读懂了英语",
@@ -1907,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95472,
+      "num": 95472,
+      "word": "在图书馆被要联系方式了",
+      "onboard_time": 1775220804,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95357,
       "num": 102101,
       "word": "6秒致辞县委书记清华毕业要求去基层",
@@ -2027,6 +2091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89863,
+      "num": 89863,
+      "word": "郭焱说王楚钦太牛了",
+      "onboard_time": 1775223564,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89740,
       "num": 112696,
       "word": "8问充电宝新规",
@@ -2056,14 +2128,6 @@
       "word": "女子不愿被男消防员搀扶5人抬下山",
       "onboard_time": 1775218943,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89172,
-      "num": 89172,
-      "word": "兰州大学惊现虐猫房车",
-      "onboard_time": 1775222122,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85883,
+      "num": 85883,
+      "word": "齐思钧吊威亚出场",
+      "onboard_time": 1775223746,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85763,
       "num": 85763,
       "word": "工作忙到这种程度",
@@ -2235,6 +2307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84222,
+      "num": 84222,
+      "word": "赵今麦又进循环了",
+      "onboard_time": 1775223324,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84032,
       "num": 84032,
       "word": "好命苦的布置",
@@ -2249,6 +2329,14 @@
       "onboard_time": 1775217802,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83383,
+      "num": 83383,
+      "word": "斗罗2双强cp越看越带感",
+      "onboard_time": 1775222663,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 83104,
@@ -2361,6 +2449,14 @@
       "onboard_time": 1775134283,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77690,
+      "num": 77690,
+      "word": "肖战花絮照",
+      "onboard_time": 1775221943,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 76733,
@@ -2792,6 +2888,14 @@
       "word": "张雪为了家庭哭着去工厂上班",
       "onboard_time": 1775147720,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30687,
+      "num": 635909,
+      "word": "赏花踏青特色主题专列来了",
+      "onboard_time": 1775222724,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

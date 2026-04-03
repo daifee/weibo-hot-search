@@ -1,0 +1,410 @@
+{
+  "runTime": 1775223827301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634087,
+        "num": 1101454,
+        "word": "王楚钦11比13F勒布伦",
+        "onboard_time": 1775220263,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611396,
+        "num": 819129,
+        "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+        "onboard_time": 1775221583,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30687,
+        "num": 635909,
+        "word": "赏花踏青特色主题专列来了",
+        "onboard_time": 1775222724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004281,
+        "num": 586885,
+        "word": "代斯跳舞 女团味",
+        "onboard_time": 1775221283,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472092,
+        "num": 472092,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932334,
+        "num": 467339,
+        "word": "阚清子唱哭了",
+        "onboard_time": 1775223503,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775077,
+        "num": 466850,
+        "word": "当你过午不食六个月",
+        "onboard_time": 1775219123,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456163,
+        "num": 456163,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 7,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 328168,
+        "num": 328168,
+        "word": "马兴瑞被查",
+        "onboard_time": 1775210841,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313723,
+        "num": 313723,
+        "word": "狼队零封AG晋级决赛",
+        "onboard_time": 1775222603,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1272879,
+        "num": 309950,
+        "word": "乘风初舞台直播",
+        "onboard_time": 1775215342,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713594,
+        "num": 307196,
+        "word": "温峥嵘 二重唱",
+        "onboard_time": 1775220804,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374522,
+        "num": 299100,
+        "word": "AG对战狼队",
+        "onboard_time": 1775214263,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 949121,
+        "num": 294934,
+        "word": "代斯票数",
+        "onboard_time": 1775221402,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497930,
+        "num": 286582,
+        "word": "孙怡 好美的洋娃娃",
+        "onboard_time": 1775220984,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285877,
+        "num": 285877,
+        "word": "伊媒称美军试图救出遭击落战机飞行员",
+        "onboard_time": 1775220864,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 646450,
+        "num": 283357,
+        "word": "阚清子 尊重游戏规则",
+        "onboard_time": 1775223503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445978,
+        "num": 283261,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276377,
+        "num": 276377,
+        "word": "上海夫妇被假将军女儿骗走近半亿",
+        "onboard_time": 1775218820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255734,
+        "num": 255734,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663544,
+        "num": 236492,
+        "word": "孙怡 垫音",
+        "onboard_time": 1775219903,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164305,
+        "num": 164305,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158537,
+        "num": 158537,
+        "word": "兰州大学惊现虐猫房车",
+        "onboard_time": 1775222122,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637483,
+        "num": 157174,
+        "word": "万千惠 实力派",
+        "onboard_time": 1775223685,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149909,
+        "num": 149909,
+        "word": "我许可",
+        "onboard_time": 1775222903,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39804,
+        "num": 129524,
+        "word": "这波时团应援给到夯",
+        "onboard_time": 1775221765,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123654,
+        "num": 123654,
+        "word": "狼队十年五进春决",
+        "onboard_time": 1775221283,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126861,
+        "num": 123346,
+        "word": "王橹杰画的咴",
+        "onboard_time": 1775215342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126576,
+        "num": 123077,
+        "word": "疑似李马克退团的原因",
+        "onboard_time": 1775217082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122745,
+        "num": 122745,
+        "word": "王楚钦黄牌",
+        "onboard_time": 1775220322,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125970,
+        "num": 120607,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775216243,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125628,
+        "num": 120392,
+        "word": "环球影城偶遇黄磊二女儿",
+        "onboard_time": 1775218703,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117015,
+        "num": 117015,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122861,
+        "num": 116078,
+        "word": "王俊凯直播国风造型",
+        "onboard_time": 1775218521,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106944,
+        "num": 106944,
+        "word": "医保卡只能本人使用",
+        "onboard_time": 1775219123,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104497,
+        "num": 104497,
+        "word": "17岁小伙体内藏了根十多年的缝衣针",
+        "onboard_time": 1775215462,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101773,
+        "num": 101773,
+        "word": "邱鼎杰直播",
+        "onboard_time": 1775222364,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95472,
+        "num": 95472,
+        "word": "在图书馆被要联系方式了",
+        "onboard_time": 1775220804,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91154,
+        "num": 91154,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1775211502,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90945,
+        "num": 90945,
+        "word": "王楚钦晋级八强",
+        "onboard_time": 1775219663,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89863,
+        "num": 89863,
+        "word": "郭焱说王楚钦太牛了",
+        "onboard_time": 1775223564,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85883,
+        "num": 85883,
+        "word": "齐思钧吊威亚出场",
+        "onboard_time": 1775223746,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84984,
+        "num": 84984,
+        "word": "女子不愿被男消防员搀扶5人抬下山",
+        "onboard_time": 1775218943,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84222,
+        "num": 84222,
+        "word": "赵今麦又进循环了",
+        "onboard_time": 1775223324,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83837,
+        "num": 83837,
+        "word": "时代少年团物料重新上传",
+        "onboard_time": 1775211982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83383,
+        "num": 83383,
+        "word": "斗罗2双强cp越看越带感",
+        "onboard_time": 1775222663,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 83330,
+        "num": 83330,
+        "word": "旅游拍照三个动作就够了",
+        "onboard_time": 1775221165,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 82488,
+        "num": 82488,
+        "word": "男子卖玩具枪被关279天获国赔",
+        "onboard_time": 1775217623,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79198,
+        "num": 79198,
+        "word": "韩国遭围殴致死导演儿子目睹全程",
+        "onboard_time": 1775215222,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77690,
+        "num": 77690,
+        "word": "肖战花絮照",
+        "onboard_time": 1775221943,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中最闪亮的坐标#"
+    }
+  }
+}
