@@ -1,0 +1,410 @@
+{
+  "runTime": 1775260645192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 278653,
+        "num": 1011529,
+        "word": "与辉同行宣布全额退款",
+        "onboard_time": 1775229864,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142388,
+        "num": 725013,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 592438,
+        "word": "赏花踏青特色主题专列来了",
+        "onboard_time": 1775222724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557555,
+        "num": 557555,
+        "word": "男子拔掉祖坟旁槟榔苗被判刑",
+        "onboard_time": 1775259319,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 500798,
+        "num": 500798,
+        "word": "倪萍真的给人看力竭了",
+        "onboard_time": 1775258239,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371529,
+        "num": 371529,
+        "word": "章小蕙让阚清子放下过去",
+        "onboard_time": 1775229263,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308296,
+        "num": 308296,
+        "word": "好多人装修没有去家务化的意识",
+        "onboard_time": 1775258358,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230025,
+        "num": 230025,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 7,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 674046,
+        "num": 221105,
+        "word": "女生午睡5小时被领导警告发视频哭诉",
+        "onboard_time": 1775231723,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "王楚钦直言0比2落后真没机会",
+        "onboard_time": 1775224465,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674785,
+        "num": 132041,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248218,
+        "num": 130749,
+        "word": "浪姐排名",
+        "onboard_time": 1775223984,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209562,
+        "num": 130308,
+        "word": "伊朗国产防空系统vs美战机",
+        "onboard_time": 1775258297,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246338,
+        "num": 129832,
+        "word": "黄灿灿表情",
+        "onboard_time": 1775258599,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205376,
+        "num": 129077,
+        "word": "美战机在伊朗坠毁美军展开搜救",
+        "onboard_time": 1775230882,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 186390,
+        "num": 128232,
+        "word": "林沐然疑似有女友",
+        "onboard_time": 1775233162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174811,
+        "num": 127078,
+        "word": "当你过午不食六个月",
+        "onboard_time": 1775219123,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174418,
+        "num": 126870,
+        "word": "阚清子 尊重游戏规则",
+        "onboard_time": 1775223503,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153726,
+        "num": 125614,
+        "word": "伊朗被曝实施打了就跑战术",
+        "onboard_time": 1775259500,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 125533,
+        "word": "肖战十日终焉爆剧玄学",
+        "onboard_time": 1775225664,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544852,
+        "num": 125471,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167028,
+        "num": 125070,
+        "word": "有结节的人要在春天做4件事",
+        "onboard_time": 1775257337,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162989,
+        "num": 124981,
+        "word": "三甲医院医生建议重病有三不治",
+        "onboard_time": 1775258657,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124498,
+        "num": 124498,
+        "word": "浪姐改赛制",
+        "onboard_time": 1775228664,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92162,
+        "num": 92162,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91299,
+        "num": 91299,
+        "word": "何宣林 黑马",
+        "onboard_time": 1775228364,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87033,
+        "num": 87033,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86364,
+        "num": 86364,
+        "word": "美军黑鹰直升机疑似被伊朗击中",
+        "onboard_time": 1775258539,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79167,
+        "num": 79167,
+        "word": "鞠婧祎演完笑了一个小时吧",
+        "onboard_time": 1775259859,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78247,
+        "num": 78247,
+        "word": "以色列铁穹被伊朗击穿",
+        "onboard_time": 1775226504,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96096,
+        "num": 78067,
+        "word": "发现小猫长牙齿之后天天都要看",
+        "onboard_time": 1775258778,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77711,
+        "num": 77711,
+        "word": "何宣林 给短人争气",
+        "onboard_time": 1775231542,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76766,
+        "num": 76766,
+        "word": "冯提莫回应腋下管理",
+        "onboard_time": 1775232142,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76429,
+        "num": 76429,
+        "word": "老爸评测涉多起纠纷",
+        "onboard_time": 1775231481,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 73678,
+        "num": 73678,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71224,
+        "num": 71224,
+        "word": "喜人在张杰鸟巢演唱会团建",
+        "onboard_time": 1775258599,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 68289,
+        "word": "张雪机车烟台店把展厅卖空了",
+        "onboard_time": 1775258657,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65994,
+        "num": 65994,
+        "word": "马兴瑞涉嫌严重违纪违法",
+        "onboard_time": 1775237717,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82137,
+        "num": 65701,
+        "word": "谁来救救代斯",
+        "onboard_time": 1775230762,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65163,
+        "num": 65163,
+        "word": "89岁奶奶翻窗从27楼外墙爬到21楼",
+        "onboard_time": 1775235018,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80418,
+        "num": 64926,
+        "word": "浪姐今晚不淘汰",
+        "onboard_time": 1775228664,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62760,
+        "num": 62760,
+        "word": "伊朗导弹高速俯冲击中以色列目标",
+        "onboard_time": 1775259439,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62649,
+        "num": 62649,
+        "word": "东部战区发布海报为了这个省",
+        "onboard_time": 1775227645,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60163,
+        "num": 60163,
+        "word": "伊朗导弹击中以色列中部城市",
+        "onboard_time": 1775259439,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57341,
+        "num": 57341,
+        "word": "被伊朗击落美战机一飞行员已获救",
+        "onboard_time": 1775260399,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56931,
+        "num": 56931,
+        "word": "女演员三平台破万剧盘点",
+        "onboard_time": 1775235259,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56232,
+        "num": 56232,
+        "word": "上海夫妇被假将军女儿骗走近半亿",
+        "onboard_time": 1775218820,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52468,
+        "num": 52468,
+        "word": "清华学霸一开口就把人点醒了",
+        "onboard_time": 1775234060,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49456,
+        "num": 49456,
+        "word": "特朗普社媒接连发帖威胁伊朗",
+        "onboard_time": 1775260519,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48498,
+        "num": 48498,
+        "word": "张凌赫早期颜值",
+        "onboard_time": 1775260339,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中最闪亮的坐标#"
+    }
+  }
+}
