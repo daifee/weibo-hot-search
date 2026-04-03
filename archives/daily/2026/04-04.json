@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775246408814,
+  "endTime": 1775249145482,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -587,19 +587,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16635,
+      "num": 20648,
+      "word": "张雪说真男人说到做到",
+      "onboard_time": 1775245274,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16199,
       "num": 19776,
       "word": "优思益为何盈利有力售后无力",
       "onboard_time": 1775245634,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15329,
-      "num": 20648,
-      "word": "张雪说真男人说到做到",
-      "onboard_time": 1775245274,
-      "rank": 48,
       "category": "民生新闻"
     }
   ],
