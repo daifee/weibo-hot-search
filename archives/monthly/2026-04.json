@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775187256432,
+  "endTime": 1775193201847,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1454661,
+      "num": 217646,
+      "word": "白宫紧急下架特朗普讲话视频",
+      "onboard_time": 1775190743,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1353956,
       "num": 1353956,
       "word": "王濛 浪姐直播太磨叽了",
@@ -89,6 +97,14 @@
       "onboard_time": 1775180480,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1188710,
+      "num": 1190193,
+      "word": "原来身份证不是全国统一的",
+      "onboard_time": 1775188281,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1174653,
@@ -611,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 482335,
+      "num": 482335,
+      "word": "秦岚说沈月确实漂亮",
+      "onboard_time": 1775188522,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478549,
       "num": 1076567,
       "word": "国乒男线对德国3连败",
@@ -633,6 +657,14 @@
       "onboard_time": 1775129182,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 455602,
+      "num": 455602,
+      "word": "半个娱乐圈为它道歉谁该负责",
+      "onboard_time": 1775188821,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454598,
@@ -939,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366679,
+      "num": 366679,
+      "word": "老爸评测就优思益事件道歉",
+      "onboard_time": 1775185460,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366112,
       "num": 366112,
       "word": "伊朗愿意结束战争",
@@ -987,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343838,
+      "num": 343838,
+      "word": "张凌赫待播剧一个是医生一个是草根",
+      "onboard_time": 1775189542,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343498,
       "num": 886961,
       "word": "佛山鸡煲太火爆老板开小号黑自己",
@@ -1032,6 +1080,14 @@
       "word": "凯越机车致歉",
       "onboard_time": 1775049744,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331358,
+      "num": 331358,
+      "word": "李亚鹏回应张雪卖车捐款嫣然",
+      "onboard_time": 1775191222,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274335,
+      "num": 190630,
+      "word": "王濛李小冉小声蛐蛐全被拍了",
+      "onboard_time": 1775189182,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271954,
       "num": 271954,
       "word": "伊朗航空航天部队司令巡视地下导弹基地",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1775039243,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 244181,
+      "num": 244181,
+      "word": "涠洲岛20余艘观鲸船围堵鲸鱼",
+      "onboard_time": 1775189542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243865,
@@ -1745,14 +1817,6 @@
       "onboard_time": 1775092821,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 217013,
-      "num": 217013,
-      "word": "老爸评测就优思益事件道歉",
-      "onboard_time": 1775185460,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216150,
@@ -2011,6 +2075,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190651,
+      "num": 190651,
+      "word": "五角大楼被曝紧急采购",
+      "onboard_time": 1775187260,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 190552,
+      "num": 190552,
+      "word": "天龙三号",
+      "onboard_time": 1775190142,
+      "rank": 16,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 188900,
       "num": 122209,
       "word": "今麦郎手打擦边20年不能停产就完了",
@@ -2057,6 +2137,14 @@
       "onboard_time": 1775098700,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182340,
+      "num": 182340,
+      "word": "石破茂公开评价特朗普喜欢被奉承",
+      "onboard_time": 1775191462,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182079,
@@ -2395,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "何润东回应不参加综艺",
+      "onboard_time": 1775190743,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "高圆圆赵又廷女儿长这么大了",
@@ -2667,12 +2763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137125,
+      "num": 137125,
+      "word": "范丞丞赵今麦 绝命循环",
+      "onboard_time": 1775192841,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136696,
       "num": 136696,
       "word": "严屹宽称妆造张凌赫的决策权有限",
       "onboard_time": 1775101402,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136476,
+      "num": 136476,
+      "word": "冰湖重生OST歌词被指抄袭",
+      "onboard_time": 1775191402,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 135867,
@@ -2753,6 +2865,14 @@
       "onboard_time": 1775173941,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131073,
+      "num": 136555,
+      "word": "合资一发力车机TOP1",
+      "onboard_time": 1775191162,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 131016,
@@ -2841,6 +2961,14 @@
       "onboard_time": 1775103861,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128299,
+      "num": 128299,
+      "word": "18岁缉毒烈士牺牲时姿势让人破防",
+      "onboard_time": 1775189482,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128173,
@@ -2971,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122910,
+      "num": 122910,
+      "word": "美国被曝想用停火换霍尔木兹海峡通航",
+      "onboard_time": 1775190743,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122514,
       "num": 116839,
       "word": "美国男子失踪23年后断腿惊现海滩",
@@ -3075,6 +3211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120037,
+      "num": 117939,
+      "word": "边牧在公路被抛弃遇到了真正的主人",
+      "onboard_time": 1775192003,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119852,
       "num": 119852,
       "word": "有线耳机被淘汰10年翻红 销量暴涨",
@@ -3161,6 +3305,22 @@
       "onboard_time": 1775120123,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117979,
+      "num": 117979,
+      "word": "受不了声音大情绪太外化的人",
+      "onboard_time": 1775189963,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117661,
+      "num": 117661,
+      "word": "东契奇无对抗受伤",
+      "onboard_time": 1775187741,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 117620,
@@ -3283,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114187,
+      "num": 114187,
+      "word": "这个部位的脂肪可能是癌症推手",
+      "onboard_time": 1775192182,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "陈飞宇 陈凯歌基因显化中",
@@ -3393,6 +3561,14 @@
       "onboard_time": 1775050763,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109417,
+      "num": 109417,
+      "word": "老虎伍兹被捕现场",
+      "onboard_time": 1775189482,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109210,
@@ -3859,6 +4035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98101,
+      "num": 98101,
+      "word": "骑行交警等红灯被男子窜出殴打",
+      "onboard_time": 1775188642,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97973,
       "num": 97973,
       "word": "瘫痪小孩为拿手机奇迹站立",
@@ -3947,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96313,
+      "num": 96313,
+      "word": "伊军方称一旦发动地面战绝不留活口",
+      "onboard_time": 1775191643,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96146,
       "num": 96146,
       "word": "性侵泰国女星嫌疑人已承认指控",
@@ -3961,6 +4153,14 @@
       "onboard_time": 1775186840,
       "rank": 36,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 95856,
+      "num": 95856,
+      "word": "充电宝新国标发布",
+      "onboard_time": 1775192241,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 95838,
@@ -3985,6 +4185,14 @@
       "onboard_time": 1775088322,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94972,
+      "num": 94972,
+      "word": "亲密关系里保持中立是一种冷漠",
+      "onboard_time": 1775190022,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 94775,
@@ -4105,6 +4313,22 @@
       "onboard_time": 1775031263,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91989,
+      "num": 91989,
+      "word": "张凌赫待播剧人设反差拉满",
+      "onboard_time": 1775191702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91347,
+      "num": 91347,
+      "word": "詹姆斯自评生涯三大高光时刻",
+      "onboard_time": 1775191824,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 91241,
@@ -4315,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88067,
+      "num": 88067,
+      "word": "采茶阿姨哭诉饮用水质差",
+      "onboard_time": 1775193082,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88033,
       "num": 88033,
       "word": "梁靖崑两战皆墨",
@@ -4337,6 +4569,14 @@
       "onboard_time": 1775118922,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87936,
+      "num": 87936,
+      "word": "陈幸同迪亚兹连续四局爆分",
+      "onboard_time": 1775192482,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87880,
@@ -4649,6 +4889,14 @@
       "onboard_time": 1775130561,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82922,
+      "num": 82922,
+      "word": "重仓黄金的人怎么样了",
+      "onboard_time": 1775187321,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82313,
@@ -5017,6 +5265,14 @@
       "onboard_time": 1775033243,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76064,
+      "num": 83480,
+      "word": "512存储飙涨4倍涨幅约1500元",
+      "onboard_time": 1775189361,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 75914,
@@ -5611,6 +5867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65023,
+      "num": 95865,
+      "word": "张柏芝被英歌舞小孩姐帅到",
+      "onboard_time": 1775192961,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -6027,6 +6291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47604,
+      "num": 95883,
+      "word": "贵阳突降冰雹市民称堆到车门高度",
+      "onboard_time": 1775192422,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 47130,
       "num": 168211,
       "word": "印尼马鲁古海峡7.4级地震",
@@ -6311,6 +6583,14 @@
       "num": 674893,
       "word": "天宫画展再上新",
       "onboard_time": 1775098700,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33525,
+      "num": 704332,
+      "word": "致敬所有隐蔽战线的无名英雄",
+      "onboard_time": 1775187620,
       "rank": 2,
       "category": "国内时政"
     },
