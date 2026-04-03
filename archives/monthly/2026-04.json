@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775250225742,
+  "endTime": 1775252590948,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -8995,19 +8995,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17208,
+      "num": 19776,
+      "word": "优思益为何盈利有力售后无力",
+      "onboard_time": 1775245634,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16924,
       "num": 99803,
       "word": "西湖景区回应游客和保安互吐口水",
       "onboard_time": 1775030063,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16199,
-      "num": 19776,
-      "word": "优思益为何盈利有力售后无力",
-      "onboard_time": 1775245634,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -9065,6 +9065,14 @@
       "onboard_time": 1775200162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13231,
+      "num": 17475,
+      "word": "虞书欣云初策棋纵握一掌间",
+      "onboard_time": 1775250674,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13122,
