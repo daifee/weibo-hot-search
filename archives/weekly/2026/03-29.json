@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775207121883,
+  "endTime": 1775207818809,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -667,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 772187,
+      "num": 183722,
+      "word": "特步二公主生娃",
+      "onboard_time": 1775205562,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 766811,
       "num": 971499,
       "word": "薛之谦演唱会",
@@ -739,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 695645,
+      "num": 1096613,
+      "word": "张雪为何不用中国车手",
+      "onboard_time": 1775205441,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694885,
       "num": 482572,
       "word": "孟子义 从全世界的战斗中路过",
@@ -785,6 +801,14 @@
       "onboard_time": 1774863502,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 662265,
+      "num": 1105962,
+      "word": "优思益发布海外工厂情况声明",
+      "onboard_time": 1775206042,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 661483,
@@ -969,14 +993,6 @@
       "onboard_time": 1775031682,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 603834,
-      "num": 1096613,
-      "word": "张雪为何不用中国车手",
-      "onboard_time": 1775205441,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 602425,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1774949124,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514636,
+      "num": 514636,
+      "word": "鞠婧祎5万剧宣红包",
+      "onboard_time": 1775206764,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 514152,
@@ -1691,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430534,
-      "num": 430534,
-      "word": "鞠婧祎5万剧宣红包",
-      "onboard_time": 1775206764,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 428577,
       "num": 1027154,
       "word": "DeepSeek崩了",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1775043502,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425480,
-      "num": 183722,
-      "word": "特步二公主生娃",
-      "onboard_time": 1775205562,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424188,
@@ -2059,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381475,
+      "num": 159667,
+      "word": "NCT成员回复李马克",
+      "onboard_time": 1775207062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381172,
       "num": 381172,
       "word": "DYG战胜TTG",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1774767082,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 374550,
-      "num": 374550,
-      "word": "优思益发布海外工厂情况声明",
-      "onboard_time": 1775206042,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 373790,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363583,
+      "num": 363583,
+      "word": "父女双尸案女儿去世时仅重24公斤",
+      "onboard_time": 1775206822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361366,
       "num": 182721,
       "word": "黄子韬自曝不拍戏原因",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1774849943,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344145,
-      "num": 146108,
-      "word": "NCT成员回复李马克",
-      "onboard_time": 1775207062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 343838,
@@ -2953,6 +2961,14 @@
       "onboard_time": 1774844005,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283306,
+      "num": 148151,
+      "word": "迪丽热巴素人婚纱模特时期",
+      "onboard_time": 1775205741,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 283274,
@@ -3908,7 +3924,7 @@
     },
     {
       "raw_hot": 230058,
-      "num": 140856,
+      "num": 145730,
       "word": "猫 回避依恋型人格",
       "onboard_time": 1775204424,
       "rank": 20,
@@ -4380,7 +4396,7 @@
     },
     {
       "raw_hot": 212469,
-      "num": 138070,
+      "num": 141177,
       "word": "心疼朴志晟",
       "onboard_time": 1775202082,
       "rank": 41,
@@ -4545,14 +4561,6 @@
       "onboard_time": 1774800623,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 204167,
-      "num": 136738,
-      "word": "迪丽热巴素人婚纱模特时期",
-      "onboard_time": 1775205741,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 203984,
@@ -5075,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182796,
+      "num": 182796,
+      "word": "红果全面下架桃花簪",
+      "onboard_time": 1775206281,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182347,
       "num": 203568,
       "word": "主播陆续回应优思益售后",
@@ -5579,14 +5595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 163563,
-      "num": 134977,
-      "word": "红果全面下架桃花簪",
-      "onboard_time": 1775206281,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163536,
       "num": 132036,
       "word": "鞠婧祎你在不在高音",
@@ -5737,6 +5745,14 @@
       "onboard_time": 1775141184,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160748,
+      "num": 160748,
+      "word": "董宇辉近30天掉粉超14万",
+      "onboard_time": 1775206042,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 160577,
@@ -6411,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139957,
+      "num": 139957,
+      "word": "GEN对战KT",
+      "onboard_time": 1775207722,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139909,
       "num": 920450,
       "word": "白日提灯",
@@ -6611,14 +6635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136433,
-      "num": 136433,
-      "word": "董宇辉近30天掉粉超14万",
-      "onboard_time": 1775206042,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 136231,
       "num": 136231,
       "word": "婴儿险窒息爸爸玩手机近1分钟未发觉",
@@ -6731,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133165,
+      "num": 133165,
+      "word": "黄灿灿罗予彤大学男友同届同班",
+      "onboard_time": 1775202743,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133056,
       "num": 130960,
       "word": "冰湖重生剧方道歉",
@@ -6785,14 +6809,6 @@
       "onboard_time": 1774739657,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132438,
-      "num": 132438,
-      "word": "父女双尸案女儿去世时仅重24公斤",
-      "onboard_time": 1775206822,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132383,
@@ -7195,6 +7211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126148,
+      "num": 126148,
+      "word": "iPhone18Pro深红配色",
+      "onboard_time": 1775205082,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126064,
       "num": 126064,
       "word": "事业编B类",
@@ -7531,6 +7555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120263,
+      "num": 120263,
+      "word": "田嘉瑞破万发红包",
+      "onboard_time": 1775207722,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120060,
       "num": 843311,
       "word": "张杰从云端唱到人海",
@@ -7707,14 +7739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117789,
-      "num": 117789,
-      "word": "iPhone18Pro深红配色",
-      "onboard_time": 1775205082,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 117771,
       "num": 117771,
       "word": "郭敬明终于能睡着了",
@@ -7753,14 +7777,6 @@
       "onboard_time": 1775047884,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117480,
-      "num": 117480,
-      "word": "黄灿灿罗予彤大学男友同届同班",
-      "onboard_time": 1775202743,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 117396,
@@ -7937,6 +7953,14 @@
       "onboard_time": 1774945823,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114401,
+      "num": 114401,
+      "word": "女演员裙子着火一路奔跑跳进水中",
+      "onboard_time": 1775206882,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114258,
@@ -8561,6 +8585,14 @@
       "onboard_time": 1774874663,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107204,
+      "num": 151479,
+      "word": "华人父女双尸案细节曝光",
+      "onboard_time": 1775206822,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107183,
@@ -9891,6 +9923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93685,
+      "num": 93685,
+      "word": "被衣服报复了",
+      "onboard_time": 1775206222,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93455,
       "num": 93455,
       "word": "与辉同行回应带货产品被曝假进口",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1775191702,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91928,
+      "num": 91928,
+      "word": "优思益称整体处于崩溃边缘",
+      "onboard_time": 1775207002,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91905,
@@ -10337,14 +10385,6 @@
       "onboard_time": 1775018905,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90075,
-      "num": 90075,
-      "word": "被衣服报复了",
-      "onboard_time": 1775206222,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 90064,
@@ -10651,6 +10691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88421,
+      "num": 88421,
+      "word": "RIIZE 不会忘记forever",
+      "onboard_time": 1775207062,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88418,
       "num": 88418,
       "word": "飞天茅台酒自营体系涨价至1539",
@@ -10697,6 +10745,14 @@
       "onboard_time": 1774954523,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88184,
+      "num": 108047,
+      "word": "女子把XXXXL号搁浅皇带鱼推回大海",
+      "onboard_time": 1775206642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88163,
@@ -10865,6 +10921,14 @@
       "onboard_time": 1774851324,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87042,
+      "num": 87042,
+      "word": "美国博主中国游后抵达印度被惊呆",
+      "onboard_time": 1775207722,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87012,
@@ -11347,14 +11411,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 83655,
-      "num": 83655,
-      "word": "女演员裙子着火一路奔跑跳进水中",
-      "onboard_time": 1775206882,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83634,
       "num": 83634,
       "word": "无畏 缘神",
@@ -11691,14 +11747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81001,
-      "num": 81001,
-      "word": "优思益称整体处于崩溃边缘",
-      "onboard_time": 1775207002,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80725,
       "num": 80725,
       "word": "全球资产再度巨震",
@@ -11929,14 +11977,6 @@
       "onboard_time": 1775029583,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78933,
-      "num": 78933,
-      "word": "RIIZE 不会忘记forever",
-      "onboard_time": 1775207062,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 78931,
@@ -14163,6 +14203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51784,
+      "num": 155404,
+      "word": "用三星手机的人都懂",
+      "onboard_time": 1775204541,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51763,
       "num": 60075,
       "word": "小车停车库半年车身写满留言",
@@ -14291,14 +14339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49033,
-      "num": 141244,
-      "word": "用三星手机的人都懂",
-      "onboard_time": 1775204541,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49025,
       "num": 75352,
       "word": "海警烈士谯禾林牺牲时执法画面公开",
@@ -14353,14 +14393,6 @@
       "onboard_time": 1775064496,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47952,
-      "num": 108047,
-      "word": "女子把XXXXL号搁浅皇带鱼推回大海",
-      "onboard_time": 1775206642,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47604,
@@ -14664,14 +14696,6 @@
       "word": "官方通报纯牛奶倒出透明苦水",
       "onboard_time": 1774971084,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40684,
-      "num": 139846,
-      "word": "华人父女双尸案细节曝光",
-      "onboard_time": 1775206822,
-      "rank": 21,
       "category": "民生新闻"
     },
     {

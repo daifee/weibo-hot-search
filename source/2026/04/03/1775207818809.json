@@ -1,0 +1,410 @@
+{
+  "runTime": 1775207818809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 662265,
+        "num": 1105962,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 494765,
+        "num": 801870,
+        "word": "中方不认同伊朗对海合会国家攻击",
+        "onboard_time": 1775202322,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18191,
+        "num": 631084,
+        "word": "致敬所有隐蔽战线的无名英雄",
+        "onboard_time": 1775187620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514636,
+        "num": 514636,
+        "word": "鞠婧祎5万剧宣红包",
+        "onboard_time": 1775206764,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363583,
+        "num": 363583,
+        "word": "父女双尸案女儿去世时仅重24公斤",
+        "onboard_time": 1775206822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302427,
+        "num": 302427,
+        "word": "霸王茶姬疑似被日本抄袭",
+        "onboard_time": 1775197403,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271658,
+        "num": 271658,
+        "word": "原来身份证不是全国统一的",
+        "onboard_time": 1775188281,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234890,
+        "num": 234890,
+        "word": "伊朗媒体发布美国F35残骸照",
+        "onboard_time": 1775202862,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194498,
+        "num": 194498,
+        "word": "国乒男线仅剩王楚钦",
+        "onboard_time": 1775199742,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182796,
+        "num": 182796,
+        "word": "红果全面下架桃花簪",
+        "onboard_time": 1775206281,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772187,
+        "num": 181497,
+        "word": "特步二公主生娃",
+        "onboard_time": 1775205562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727834,
+        "num": 177703,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695645,
+        "num": 172659,
+        "word": "张雪为何不用中国车手",
+        "onboard_time": 1775205441,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541982,
+        "num": 166056,
+        "word": "月鳞绮纪破万",
+        "onboard_time": 1775204541,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376794,
+        "num": 163436,
+        "word": "娱乐圈姓李的有点说法",
+        "onboard_time": 1775199921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160748,
+        "num": 160748,
+        "word": "董宇辉近30天掉粉超14万",
+        "onboard_time": 1775206042,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 381475,
+        "num": 159667,
+        "word": "NCT成员回复李马克",
+        "onboard_time": 1775207062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290719,
+        "num": 157870,
+        "word": "时代峰峻高会声明",
+        "onboard_time": 1775193922,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51784,
+        "num": 155404,
+        "word": "用三星手机的人都懂",
+        "onboard_time": 1775204541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107204,
+        "num": 151479,
+        "word": "华人父女双尸案细节曝光",
+        "onboard_time": 1775206822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283306,
+        "num": 148151,
+        "word": "迪丽热巴素人婚纱模特时期",
+        "onboard_time": 1775205741,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205836,
+        "num": 145730,
+        "word": "猫 回避依恋型人格",
+        "onboard_time": 1775204424,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 143420,
+        "word": "袁咏仪说浪姐请不到我李心洁请到",
+        "onboard_time": 1775194702,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165525,
+        "num": 141177,
+        "word": "心疼朴志晟",
+        "onboard_time": 1775202082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139957,
+        "num": 139957,
+        "word": "GEN对战KT",
+        "onboard_time": 1775207722,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139736,
+        "num": 139736,
+        "word": "爆火鸡煲店的鸡最多还能吃2个月",
+        "onboard_time": 1775205201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133165,
+        "num": 133165,
+        "word": "黄灿灿罗予彤大学男友同届同班",
+        "onboard_time": 1775202743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130220,
+        "num": 130220,
+        "word": "张凌赫待播剧一个是医生一个是草根",
+        "onboard_time": 1775189542,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126148,
+        "num": 126148,
+        "word": "iPhone18Pro深红配色",
+        "onboard_time": 1775205082,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122503,
+        "num": 122503,
+        "word": "老爸评测就优思益事件道歉",
+        "onboard_time": 1775185460,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120263,
+        "num": 120263,
+        "word": "田嘉瑞破万发红包",
+        "onboard_time": 1775207722,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119983,
+        "num": 119983,
+        "word": "烈士墓前全屏马赛克",
+        "onboard_time": 1775202381,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115024,
+        "num": 115024,
+        "word": "云合",
+        "onboard_time": 1775205861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114401,
+        "num": 114401,
+        "word": "女演员裙子着火一路奔跑跳进水中",
+        "onboard_time": 1775206882,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112263,
+        "num": 112263,
+        "word": "李永钦 退团瓜",
+        "onboard_time": 1775199803,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111769,
+        "num": 111769,
+        "word": "冰湖重生剧方道歉",
+        "onboard_time": 1775202202,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109279,
+        "num": 109279,
+        "word": "猪精液制成的眼药水可治疗眼肿瘤",
+        "onboard_time": 1775195542,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99505,
+        "num": 99505,
+        "word": "王楚钦今晚独扛国乒大旗",
+        "onboard_time": 1775206701,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88184,
+        "num": 96354,
+        "word": "女子把XXXXL号搁浅皇带鱼推回大海",
+        "onboard_time": 1775206642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95393,
+        "num": 95393,
+        "word": "范丞丞赵今麦 绝命循环",
+        "onboard_time": 1775192841,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93685,
+        "num": 93685,
+        "word": "被衣服报复了",
+        "onboard_time": 1775206222,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93644,
+        "num": 93644,
+        "word": "香港女星在珠海买房",
+        "onboard_time": 1775201541,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91928,
+        "num": 91928,
+        "word": "优思益称整体处于崩溃边缘",
+        "onboard_time": 1775207002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91367,
+        "num": 91367,
+        "word": "Manner涨价原因",
+        "onboard_time": 1775202921,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90986,
+        "num": 90986,
+        "word": "王力宏巡回演唱会官宣",
+        "onboard_time": 1775203402,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88421,
+        "num": 88421,
+        "word": "RIIZE 不会忘记forever",
+        "onboard_time": 1775207062,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87042,
+        "num": 87042,
+        "word": "美国博主中国游后抵达印度被惊呆",
+        "onboard_time": 1775207722,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87684,
+        "num": 86800,
+        "word": "乘风2026",
+        "onboard_time": 1775189122,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85198,
+        "num": 85198,
+        "word": "容易想太多的人有救了",
+        "onboard_time": 1775205562,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83895,
+        "num": 83895,
+        "word": "中方回应美军摧毁伊朗民用桥梁",
+        "onboard_time": 1775205082,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}
