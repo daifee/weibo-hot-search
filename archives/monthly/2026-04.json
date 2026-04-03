@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775217638532,
+  "endTime": 1775222337158,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -163,6 +163,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 1043131,
+      "num": 626454,
+      "word": "代斯跳舞 女团味",
+      "onboard_time": 1775221283,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003961,
       "num": 1160633,
       "word": "优思益",
@@ -217,6 +225,14 @@
       "onboard_time": 1775097680,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 920547,
+      "num": 362981,
+      "word": "孙怡 垫音",
+      "onboard_time": 1775219903,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 904575,
@@ -281,6 +297,14 @@
       "onboard_time": 1775050883,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818889,
+      "num": 247477,
+      "word": "代斯票数",
+      "onboard_time": 1775221402,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 808466,
@@ -371,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713867,
+      "num": 1114218,
+      "word": "王楚钦11比13F勒布伦",
+      "onboard_time": 1775220263,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 713342,
       "num": 638589,
       "word": "特朗普话音刚落伊朗导弹袭向以色列",
       "onboard_time": 1775097920,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 709734,
+      "num": 403173,
+      "word": "AG对战狼队",
+      "onboard_time": 1775214263,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 707076,
@@ -393,6 +433,14 @@
       "onboard_time": 1775038522,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 697202,
+      "num": 242876,
+      "word": "温峥嵘 二重唱",
+      "onboard_time": 1775220804,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 695645,
@@ -427,11 +475,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660590,
+      "num": 351224,
+      "word": "当你过午不食六个月",
+      "onboard_time": 1775219123,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 657057,
       "num": 657057,
       "word": "弟弟悄办父亲丧事墓碑漏刻姐姐名字",
       "onboard_time": 1775128762,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654987,
+      "num": 780865,
+      "word": "优思益称无力售后",
+      "onboard_time": 1775216363,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -457,6 +521,14 @@
       "onboard_time": 1775107402,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 639685,
+      "num": 234934,
+      "word": "江语晨 跑调",
+      "onboard_time": 1775219603,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 638035,
@@ -556,11 +628,19 @@
     },
     {
       "raw_hot": 598426,
-      "num": 129054,
+      "num": 162870,
       "word": "王橹杰画的咴",
       "onboard_time": 1775215342,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596315,
+      "num": 206490,
+      "word": "范玮琪太紧张了",
+      "onboard_time": 1775218883,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 589987,
@@ -568,6 +648,14 @@
       "word": "胡先煦顶级的愚人节愚人手法",
       "onboard_time": 1775035463,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 587935,
+      "num": 231832,
+      "word": "张凌赫因为帅被同学偷拍",
+      "onboard_time": 1775216722,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1019,14 +1107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 403173,
-      "num": 403173,
-      "word": "AG对战狼队",
-      "onboard_time": 1775214263,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 401896,
       "num": 248605,
       "word": "迪丽热巴问白日提灯固屏去哪了",
@@ -1403,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316582,
+      "num": 316582,
+      "word": "上海夫妇被假将军女儿骗走近半亿",
+      "onboard_time": 1775218820,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316039,
       "num": 316039,
       "word": "伊朗10分钟5波导弹袭击以色列",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1775043204,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302380,
+      "num": 205037,
+      "word": "孙怡 好美的洋娃娃",
+      "onboard_time": 1775220984,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 301900,
@@ -1676,7 +1772,7 @@
     },
     {
       "raw_hot": 274412,
-      "num": 131037,
+      "num": 208757,
       "word": "男子发私照让豆包测评身材被封号",
       "onboard_time": 1775213361,
       "rank": 42,
@@ -1851,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256377,
+      "num": 256377,
+      "word": "狼队十年五进春决",
+      "onboard_time": 1775221283,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255995,
       "num": 255995,
       "word": "袁泉拍戏真做了胃镜",
@@ -2017,6 +2121,14 @@
       "onboard_time": 1775208921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240832,
+      "num": 240832,
+      "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+      "onboard_time": 1775221583,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 240193,
@@ -2220,7 +2332,7 @@
     },
     {
       "raw_hot": 221086,
-      "num": 118654,
+      "num": 175683,
       "word": "疑似李马克退团的原因",
       "onboard_time": 1775217082,
       "rank": 29,
@@ -2339,14 +2451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 212370,
-      "num": 212370,
-      "word": "优思益称无力售后",
-      "onboard_time": 1775216363,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211862,
       "num": 436622,
       "word": "中国无人机蜂群突击铺天盖地",
@@ -2435,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201829,
+      "num": 201829,
+      "word": "伊媒称美军试图救出遭击落战机飞行员",
+      "onboard_time": 1775220864,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200663,
       "num": 143207,
       "word": "谢娜回应乘风直播节奏慢",
@@ -2457,14 +2569,6 @@
       "onboard_time": 1775019566,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 198447,
-      "num": 122349,
-      "word": "张凌赫因为帅被同学偷拍",
-      "onboard_time": 1775216722,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 198250,
@@ -2537,6 +2641,14 @@
       "onboard_time": 1775021365,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194905,
+      "num": 194905,
+      "word": "王楚钦晋级八强",
+      "onboard_time": 1775219663,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193879,
@@ -2673,6 +2785,14 @@
       "onboard_time": 1775129241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181188,
+      "num": 181188,
+      "word": "王楚钦黄牌",
+      "onboard_time": 1775220322,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 180486,
@@ -3163,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148987,
+      "num": 135536,
+      "word": "环球影城偶遇黄磊二女儿",
+      "onboard_time": 1775218703,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "受不了声音大情绪太外化的人",
@@ -3267,6 +3395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143506,
+      "num": 135477,
+      "word": "王俊凯直播国风造型",
+      "onboard_time": 1775218521,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142916,
       "num": 152822,
       "word": "邓凯要还车贷交社保把自己说生气了",
@@ -3323,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140783,
+      "num": 139290,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1775216243,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "严屹宽曝张凌赫挨鞭子真打了108次",
@@ -3363,12 +3507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139290,
-      "num": 139290,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1775216243,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 139171,
+      "num": 139171,
+      "word": "男子卖玩具枪被关279天获国赔",
+      "onboard_time": 1775217623,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137821,
@@ -3819,6 +3963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122367,
+      "num": 117844,
+      "word": "江语晨 举手不是选我是想上厕所",
+      "onboard_time": 1775220083,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122289,
       "num": 220025,
       "word": "乒乓球世界杯",
@@ -3953,6 +4105,14 @@
       "onboard_time": 1775013864,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119653,
+      "num": 119653,
+      "word": "医保卡只能本人使用",
+      "onboard_time": 1775219123,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119599,
@@ -4963,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97552,
+      "num": 92878,
+      "word": "贺思慕强吻段胥",
+      "onboard_time": 1775218521,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97379,
       "num": 97379,
       "word": "卢伟冰回应小米宣布涨价",
@@ -5491,6 +5659,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89282,
+      "num": 89282,
+      "word": "女子不愿被男消防员搀扶5人抬下山",
+      "onboard_time": 1775218943,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89172,
+      "num": 89172,
+      "word": "兰州大学惊现虐猫房车",
+      "onboard_time": 1775222122,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89107,
       "num": 98048,
       "word": "网易云回应账号突然被封禁",
@@ -5603,6 +5787,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 88009,
+      "num": 88009,
+      "word": "旅游拍照三个动作就够了",
+      "onboard_time": 1775221165,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 87983,
       "num": 87983,
       "word": "华谊兄弟34个银行账号被冻结",
@@ -5689,6 +5881,14 @@
       "onboard_time": 1775186480,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86965,
+      "num": 86965,
+      "word": "女子参加丧礼被砸死遗体停放半年多",
+      "onboard_time": 1775220023,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86924,
@@ -5859,12 +6059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85405,
+      "num": 85405,
+      "word": "脂肪肝是否可以逆转",
+      "onboard_time": 1775217741,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85267,
       "num": 85267,
       "word": "洛克王国世界轮椅精灵",
       "onboard_time": 1775051364,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85237,
+      "num": 87455,
+      "word": "建议执着于被爱的女性去看毛姆作品",
+      "onboard_time": 1775221644,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 85220,
@@ -5969,6 +6185,14 @@
       "onboard_time": 1775212942,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83883,
+      "num": 83883,
+      "word": "孙颖莎礼仪标兵",
+      "onboard_time": 1775217802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83770,
@@ -7331,6 +7555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53012,
+      "num": 89412,
+      "word": "男粉被王嘉尔拥抱后爆哭",
+      "onboard_time": 1775220864,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52519,
       "num": 52519,
       "word": "刚刚愚人节活动",
@@ -7624,6 +7856,14 @@
       "word": "余宇涵什么族 TF家族",
       "onboard_time": 1775114602,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40597,
+      "num": 202696,
+      "word": "这波时团应援给到夯",
+      "onboard_time": 1775221765,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -8195,6 +8435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11946,
+      "num": 631186,
+      "word": "回家的军号声响了",
+      "onboard_time": 1775222184,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11883,
       "num": 100265,
       "word": "打的是田嘉瑞疼的是鞠婧祎",
@@ -8289,6 +8537,9 @@
     },
     {
       "word": "#总书记讲述的英雄事迹#"
+    },
+    {
+      "word": "#习近平心中最闪亮的坐标#"
     }
   ]
 }

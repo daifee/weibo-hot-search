@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775217638532,
+  "endTime": 1775222337158,
   "band_list": [
     {
       "raw_hot": 2418500,
@@ -67,6 +67,22 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 1043131,
+      "num": 626454,
+      "word": "代斯跳舞 女团味",
+      "onboard_time": 1775221283,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 920547,
+      "num": 362981,
+      "word": "孙怡 垫音",
+      "onboard_time": 1775219903,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 889023,
       "num": 363583,
       "word": "父女双尸案女儿去世时仅重24公斤",
@@ -81,6 +97,14 @@
       "onboard_time": 1775197403,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818889,
+      "num": 247477,
+      "word": "代斯票数",
+      "onboard_time": 1775221402,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 797426,
@@ -115,6 +139,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713867,
+      "num": 1114218,
+      "word": "王楚钦11比13F勒布伦",
+      "onboard_time": 1775220263,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 709734,
+      "num": 403173,
+      "word": "AG对战狼队",
+      "onboard_time": 1775214263,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 697202,
+      "num": 242876,
+      "word": "温峥嵘 二重唱",
+      "onboard_time": 1775220804,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695645,
       "num": 1096613,
       "word": "张雪为何不用中国车手",
@@ -131,12 +179,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660590,
+      "num": 351224,
+      "word": "当你过午不食六个月",
+      "onboard_time": 1775219123,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 654987,
+      "num": 780865,
+      "word": "优思益称无力售后",
+      "onboard_time": 1775216363,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651875,
       "num": 813988,
       "word": "小米调价",
       "onboard_time": 1775184320,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 639685,
+      "num": 234934,
+      "word": "江语晨 跑调",
+      "onboard_time": 1775219603,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 636255,
@@ -164,10 +236,26 @@
     },
     {
       "raw_hot": 598426,
-      "num": 129054,
+      "num": 162870,
       "word": "王橹杰画的咴",
       "onboard_time": 1775215342,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 596315,
+      "num": 206490,
+      "word": "范玮琪太紧张了",
+      "onboard_time": 1775218883,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 587935,
+      "num": 231832,
+      "word": "张凌赫因为帅被同学偷拍",
+      "onboard_time": 1775216722,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -355,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 403173,
-      "num": 403173,
-      "word": "AG对战狼队",
-      "onboard_time": 1775214263,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 395452,
       "num": 178358,
       "word": "优思益代言人",
@@ -459,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316582,
+      "num": 316582,
+      "word": "上海夫妇被假将军女儿骗走近半亿",
+      "onboard_time": 1775218820,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314143,
       "num": 301513,
       "word": "范丞丞赵今麦 绝命循环",
@@ -505,6 +593,14 @@
       "onboard_time": 1775195542,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302380,
+      "num": 205037,
+      "word": "孙怡 好美的洋娃娃",
+      "onboard_time": 1775220984,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 294114,
@@ -580,7 +676,7 @@
     },
     {
       "raw_hot": 274412,
-      "num": 131037,
+      "num": 208757,
       "word": "男子发私照让豆包测评身材被封号",
       "onboard_time": 1775213361,
       "rank": 42,
@@ -659,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256377,
+      "num": 256377,
+      "word": "狼队十年五进春决",
+      "onboard_time": 1775221283,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255995,
       "num": 255995,
       "word": "袁泉拍戏真做了胃镜",
@@ -713,6 +817,14 @@
       "onboard_time": 1775208921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240832,
+      "num": 240832,
+      "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+      "onboard_time": 1775221583,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 239334,
@@ -772,7 +884,7 @@
     },
     {
       "raw_hot": 221086,
-      "num": 118654,
+      "num": 175683,
       "word": "疑似李马克退团的原因",
       "onboard_time": 1775217082,
       "rank": 29,
@@ -793,14 +905,6 @@
       "onboard_time": 1775202082,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212370,
-      "num": 212370,
-      "word": "优思益称无力售后",
-      "onboard_time": 1775216363,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208980,
@@ -827,20 +931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201829,
+      "num": 201829,
+      "word": "伊媒称美军试图救出遭击落战机飞行员",
+      "onboard_time": 1775220864,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200663,
       "num": 143207,
       "word": "谢娜回应乘风直播节奏慢",
       "onboard_time": 1775172379,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198447,
-      "num": 122349,
-      "word": "张凌赫因为帅被同学偷拍",
-      "onboard_time": 1775216722,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 196501,
@@ -865,6 +969,14 @@
       "onboard_time": 1775172801,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 194905,
+      "num": 194905,
+      "word": "王楚钦晋级八强",
+      "onboard_time": 1775219663,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193348,
@@ -905,6 +1017,14 @@
       "onboard_time": 1775191462,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181188,
+      "num": 181188,
+      "word": "王楚钦黄牌",
+      "onboard_time": 1775220322,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 180486,
@@ -1051,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148987,
+      "num": 135536,
+      "word": "环球影城偶遇黄磊二女儿",
+      "onboard_time": 1775218703,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "受不了声音大情绪太外化的人",
@@ -1091,6 +1219,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 143506,
+      "num": 135477,
+      "word": "王俊凯直播国风造型",
+      "onboard_time": 1775218521,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142181,
       "num": 142181,
       "word": "烈士墓前全屏马赛克",
@@ -1105,6 +1241,14 @@
       "onboard_time": 1775185221,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140783,
+      "num": 139290,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1775216243,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 139957,
@@ -1123,12 +1267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139290,
-      "num": 139290,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1775216243,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 139171,
+      "num": 139171,
+      "word": "男子卖玩具枪被关279天获国赔",
+      "onboard_time": 1775217623,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137906,
@@ -1291,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122367,
+      "num": 117844,
+      "word": "江语晨 举手不是选我是想上厕所",
+      "onboard_time": 1775220083,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121422,
       "num": 121422,
       "word": "老校长回应徒步祭英烈被指没苦硬吃",
@@ -1329,6 +1481,14 @@
       "onboard_time": 1775207722,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119653,
+      "num": 119653,
+      "word": "医保卡只能本人使用",
+      "onboard_time": 1775219123,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119599,
@@ -1667,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97552,
+      "num": 92878,
+      "word": "贺思慕强吻段胥",
+      "onboard_time": 1775218521,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97379,
       "num": 97379,
       "word": "卢伟冰回应小米宣布涨价",
@@ -1883,6 +2051,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89282,
+      "num": 89282,
+      "word": "女子不愿被男消防员搀扶5人抬下山",
+      "onboard_time": 1775218943,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89172,
+      "num": 89172,
+      "word": "兰州大学惊现虐猫房车",
+      "onboard_time": 1775222122,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "优思益代工厂曾38次抽检均合格",
@@ -1905,6 +2089,14 @@
       "onboard_time": 1775184201,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88009,
+      "num": 88009,
+      "word": "旅游拍照三个动作就够了",
+      "onboard_time": 1775221165,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 87936,
@@ -1937,6 +2129,14 @@
       "onboard_time": 1775186480,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86965,
+      "num": 86965,
+      "word": "女子参加丧礼被砸死遗体停放半年多",
+      "onboard_time": 1775220023,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86585,
@@ -2003,6 +2203,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85405,
+      "num": 85405,
+      "word": "脂肪肝是否可以逆转",
+      "onboard_time": 1775217741,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85237,
+      "num": 87455,
+      "word": "建议执着于被爱的女性去看毛姆作品",
+      "onboard_time": 1775221644,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 84422,
       "num": 84422,
       "word": "沧元图",
@@ -2025,6 +2241,14 @@
       "onboard_time": 1775212942,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83883,
+      "num": 83883,
+      "word": "孙颖莎礼仪标兵",
+      "onboard_time": 1775217802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83104,
@@ -2379,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53012,
+      "num": 89412,
+      "word": "男粉被王嘉尔拥抱后爆哭",
+      "onboard_time": 1775220864,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51784,
       "num": 155404,
       "word": "用三星手机的人都懂",
@@ -2465,6 +2697,14 @@
       "onboard_time": 1775184021,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40597,
+      "num": 202696,
+      "word": "这波时团应援给到夯",
+      "onboard_time": 1775221765,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 39534,
@@ -2649,6 +2889,14 @@
       "onboard_time": 1775154016,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11946,
+      "num": 631186,
+      "word": "回家的军号声响了",
+      "onboard_time": 1775222184,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2663,6 +2911,9 @@
     },
     {
       "word": "#总书记讲述的英雄事迹#"
+    },
+    {
+      "word": "#习近平心中最闪亮的坐标#"
     }
   ]
 }

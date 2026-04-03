@@ -1,0 +1,410 @@
+{
+  "runTime": 1775222337158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 713867,
+        "num": 1114218,
+        "word": "王楚钦11比13F勒布伦",
+        "onboard_time": 1775220263,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654987,
+        "num": 780865,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11946,
+        "num": 631186,
+        "word": "回家的军号声响了",
+        "onboard_time": 1775222184,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043131,
+        "num": 626454,
+        "word": "代斯跳舞 女团味",
+        "onboard_time": 1775221283,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388233,
+        "num": 388233,
+        "word": "马兴瑞被查",
+        "onboard_time": 1775210841,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 920547,
+        "num": 362981,
+        "word": "孙怡 垫音",
+        "onboard_time": 1775219903,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660590,
+        "num": 351224,
+        "word": "当你过午不食六个月",
+        "onboard_time": 1775219123,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540537,
+        "num": 347733,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 7,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 316582,
+        "num": 316582,
+        "word": "上海夫妇被假将军女儿骗走近半亿",
+        "onboard_time": 1775218820,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256377,
+        "num": 256377,
+        "word": "狼队十年五进春决",
+        "onboard_time": 1775221283,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1198599,
+        "num": 252876,
+        "word": "乘风初舞台直播",
+        "onboard_time": 1775215342,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709734,
+        "num": 251677,
+        "word": "AG对战狼队",
+        "onboard_time": 1775214263,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 818889,
+        "num": 247477,
+        "word": "代斯票数",
+        "onboard_time": 1775221402,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697202,
+        "num": 242876,
+        "word": "温峥嵘 二重唱",
+        "onboard_time": 1775220804,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240832,
+        "num": 240832,
+        "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+        "onboard_time": 1775221583,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639685,
+        "num": 234934,
+        "word": "江语晨 跑调",
+        "onboard_time": 1775219603,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587935,
+        "num": 231832,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208757,
+        "num": 208757,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26577,
+        "num": 207349,
+        "word": "不知道你是谁但知道你为了谁",
+        "onboard_time": 1775209102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596315,
+        "num": 206490,
+        "word": "范玮琪太紧张了",
+        "onboard_time": 1775218883,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302380,
+        "num": 205037,
+        "word": "孙怡 好美的洋娃娃",
+        "onboard_time": 1775220984,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40597,
+        "num": 202696,
+        "word": "这波时团应援给到夯",
+        "onboard_time": 1775221765,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201829,
+        "num": 201829,
+        "word": "伊媒称美军试图救出遭击落战机飞行员",
+        "onboard_time": 1775220864,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201420,
+        "num": 201420,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1775211502,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194905,
+        "num": 194905,
+        "word": "王楚钦晋级八强",
+        "onboard_time": 1775219663,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181188,
+        "num": 181188,
+        "word": "王楚钦黄牌",
+        "onboard_time": 1775220322,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175683,
+        "num": 175683,
+        "word": "疑似李马克退团的原因",
+        "onboard_time": 1775217082,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162870,
+        "num": 162870,
+        "word": "王橹杰画的咴",
+        "onboard_time": 1775215342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139171,
+        "num": 139171,
+        "word": "男子卖玩具枪被关279天获国赔",
+        "onboard_time": 1775217623,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148987,
+        "num": 135536,
+        "word": "环球影城偶遇黄磊二女儿",
+        "onboard_time": 1775218703,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 135477,
+        "word": "王俊凯直播国风造型",
+        "onboard_time": 1775218521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129480,
+        "num": 129480,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 128618,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140783,
+        "num": 125031,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775216243,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119653,
+        "num": 119653,
+        "word": "医保卡只能本人使用",
+        "onboard_time": 1775219123,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122367,
+        "num": 117844,
+        "word": "江语晨 举手不是选我是想上厕所",
+        "onboard_time": 1775220083,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114324,
+        "num": 114324,
+        "word": "韩国遭围殴致死导演儿子目睹全程",
+        "onboard_time": 1775215222,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107551,
+        "num": 107551,
+        "word": "朴志晟泡泡发长文",
+        "onboard_time": 1775216841,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101144,
+        "num": 101144,
+        "word": "迪丽热巴素人婚纱模特时期",
+        "onboard_time": 1775205741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93815,
+        "num": 93815,
+        "word": "17岁小伙体内藏了根十多年的缝衣针",
+        "onboard_time": 1775215462,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97552,
+        "num": 92878,
+        "word": "贺思慕强吻段胥",
+        "onboard_time": 1775218521,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91347,
+        "num": 91347,
+        "word": "时代少年团物料重新上传",
+        "onboard_time": 1775211982,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53012,
+        "num": 89412,
+        "word": "男粉被王嘉尔拥抱后爆哭",
+        "onboard_time": 1775220864,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89282,
+        "num": 89282,
+        "word": "女子不愿被男消防员搀扶5人抬下山",
+        "onboard_time": 1775218943,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89172,
+        "num": 89172,
+        "word": "兰州大学惊现虐猫房车",
+        "onboard_time": 1775222122,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88009,
+        "num": 88009,
+        "word": "旅游拍照三个动作就够了",
+        "onboard_time": 1775221165,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 85237,
+        "num": 87455,
+        "word": "建议执着于被爱的女性去看毛姆作品",
+        "onboard_time": 1775221644,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 86965,
+        "num": 86965,
+        "word": "女子参加丧礼被砸死遗体停放半年多",
+        "onboard_time": 1775220023,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85405,
+        "num": 85405,
+        "word": "脂肪肝是否可以逆转",
+        "onboard_time": 1775217741,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83883,
+        "num": 83883,
+        "word": "孙颖莎礼仪标兵",
+        "onboard_time": 1775217802,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中最闪亮的坐标#"
+    }
+  }
+}
