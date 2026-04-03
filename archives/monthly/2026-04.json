@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775195880801,
+  "endTime": 1775200861832,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2023989,
+      "num": 521682,
+      "word": "李马克解约退团",
+      "onboard_time": 1775196742,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1939640,
       "num": 212588,
       "word": "丝芭起诉月鳞绮纪承制方",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1454661,
-      "num": 217646,
+      "num": 521425,
       "word": "白宫紧急下架特朗普讲话视频",
       "onboard_time": 1775190743,
       "rank": 10,
@@ -211,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 848014,
+      "num": 580732,
+      "word": "霸王茶姬疑似被日本抄袭",
+      "onboard_time": 1775197403,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839389,
       "num": 841134,
       "word": "张雪想卖陈光标赠送豪车给嫣然捐款",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 793523,
-      "num": 167073,
+      "num": 521039,
       "word": "时代峰峻高会声明",
       "onboard_time": 1775193922,
       "rank": 11,
@@ -385,6 +401,14 @@
       "onboard_time": 1775116342,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636255,
+      "num": 287237,
+      "word": "李马克退团手写信",
+      "onboard_time": 1775197462,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 631701,
@@ -563,6 +587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 524106,
+      "num": 524106,
+      "word": "男子趁老婆上厕所称自己离异上台相亲",
+      "onboard_time": 1775194762,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514152,
       "num": 1057420,
       "word": "与辉同行卖优思益销售额超千万",
@@ -633,6 +665,14 @@
       "onboard_time": 1775181501,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 487386,
+      "num": 487386,
+      "word": "李永钦 退团瓜",
+      "onboard_time": 1775199803,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 483317,
@@ -1139,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323693,
+      "num": 521927,
+      "word": "袁咏仪说浪姐请不到我李心洁请到",
+      "onboard_time": 1775194702,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318638,
       "num": 186461,
       "word": "医保政策调整",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1775127621,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314143,
+      "num": 301513,
+      "word": "范丞丞赵今麦 绝命循环",
+      "onboard_time": 1775192841,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 309321,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1775057063,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302950,
+      "num": 302950,
+      "word": "猪精液制成的眼药水可治疗眼肿瘤",
+      "onboard_time": 1775195542,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302523,
@@ -1331,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279806,
+      "num": 279806,
+      "word": "乐华新男团将5人出道",
+      "onboard_time": 1775197283,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279022,
       "num": 225694,
       "word": "伊朗公布最新战果",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1775181501,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 277081,
+      "num": 813786,
+      "word": "国乒男线仅剩王楚钦",
+      "onboard_time": 1775199742,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 275814,
@@ -1417,14 +1497,6 @@
       "onboard_time": 1775024124,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262886,
-      "num": 262886,
-      "word": "袁咏仪说浪姐请不到我李心洁请到",
-      "onboard_time": 1775194702,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 262760,
@@ -1611,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243620,
+      "num": 243620,
+      "word": "kpop七人团魔咒还在发力",
+      "onboard_time": 1775198662,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243176,
       "num": 243176,
       "word": "浙江宣传锐评县委书记6秒发言",
@@ -1660,7 +1740,7 @@
     },
     {
       "raw_hot": 239334,
-      "num": 116311,
+      "num": 126441,
       "word": "学霸辞职读研",
       "onboard_time": 1775195001,
       "rank": 30,
@@ -1763,14 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228648,
-      "num": 166130,
-      "word": "范丞丞赵今麦 绝命循环",
-      "onboard_time": 1775192841,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "张凌赫改了自动回复",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1775089824,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222116,
+      "num": 222116,
+      "word": "nctdream 小拇指",
+      "onboard_time": 1775200101,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 221384,
@@ -1945,6 +2025,22 @@
       "onboard_time": 1775105782,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208980,
+      "num": 524016,
+      "word": "小伙网恋因一顿外卖15天闪婚",
+      "onboard_time": 1775194161,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207477,
+      "num": 289864,
+      "word": "温瑞博vs林昀儒",
+      "onboard_time": 1775198063,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 203984,
@@ -2091,14 +2187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 193413,
-      "num": 166465,
-      "word": "男子趁老婆上厕所称自己离异上台相亲",
-      "onboard_time": 1775194762,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192512,
       "num": 192512,
       "word": "英格兰0比1日本",
@@ -2123,6 +2211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191152,
+      "num": 523270,
+      "word": "伊朗再称击落美军F35战机",
+      "onboard_time": 1775195181,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190651,
       "num": 190651,
       "word": "五角大楼被曝紧急采购",
@@ -2137,14 +2233,6 @@
       "onboard_time": 1775190142,
       "rank": 16,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 190538,
-      "num": 165768,
-      "word": "小伙网恋因一顿外卖15天闪婚",
-      "onboard_time": 1775194161,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188900,
@@ -2187,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184583,
+      "num": 523176,
+      "word": "粉笔字为什么越写越往上飘",
+      "onboard_time": 1775198184,
+      "rank": 7,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 182347,
       "num": 203568,
       "word": "主播陆续回应优思益售后",
@@ -2211,12 +2307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181676,
+      "num": 522696,
+      "word": "乒协提案避免王楚钦球拍受损重演",
+      "onboard_time": 1775199383,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181355,
       "num": 172836,
       "word": "老式水果为什么消失了",
       "onboard_time": 1775129241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181096,
+      "num": 181096,
+      "word": "找工作烦了我就这样刻薄",
+      "onboard_time": 1775195362,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 180486,
@@ -2595,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150631,
+      "num": 150631,
+      "word": "手掌太红大批网友提醒张雪及时就医",
+      "onboard_time": 1775195181,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150410,
       "num": 150410,
       "word": "小区花20万加装电梯只通向其中一层",
@@ -2875,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133780,
+      "num": 133780,
+      "word": "跳完这舞身上滑溜溜的",
+      "onboard_time": 1775200342,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133533,
       "num": 139268,
       "word": "火旺 宋威龙",
@@ -2923,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131281,
+      "num": 131281,
+      "word": "A股超4500家个股下跌",
+      "onboard_time": 1775200101,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131073,
       "num": 136555,
       "word": "合资一发力车机TOP1",
@@ -2961,6 +3097,14 @@
       "onboard_time": 1774970245,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129866,
+      "num": 129866,
+      "word": "俄罗斯不会向日本等不友好国家供油",
+      "onboard_time": 1775196380,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129749,
@@ -3137,6 +3281,14 @@
       "onboard_time": 1774981036,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124605,
+      "num": 124605,
+      "word": "李荣浩 哈尔滨见",
+      "onboard_time": 1775199682,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 124000,
@@ -3329,6 +3481,14 @@
       "onboard_time": 1775106921,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118563,
+      "num": 118563,
+      "word": "广电总局批部分剧集演员妆容过重",
+      "onboard_time": 1775200223,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118309,
@@ -3595,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109758,
+      "num": 109758,
+      "word": "10岁男孩被超速车辆撞死判定同责",
+      "onboard_time": 1775197764,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109491,
       "num": 109491,
       "word": "输液后身亡患儿已尸检",
@@ -3771,6 +3939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105345,
+      "num": 105345,
+      "word": "高校殡葬专业学生没毕业就被抢空",
+      "onboard_time": 1775199383,
+      "rank": 37,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 105336,
       "num": 153005,
       "word": "网友医院急诊偶遇李一桐",
@@ -3811,12 +3987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104014,
-      "num": 104014,
-      "word": "手掌太红大批网友提醒张雪及时就医",
-      "onboard_time": 1775195181,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 103956,
+      "num": 103956,
+      "word": "A股再度跌破3900点",
+      "onboard_time": 1775199082,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 103738,
@@ -3859,20 +4035,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103157,
-      "num": 103157,
-      "word": "伊朗再称击落美军F35战机",
-      "onboard_time": 1775195181,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 103086,
-      "num": 103086,
-      "word": "找工作烦了我就这样刻薄",
-      "onboard_time": 1775195362,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 103100,
+      "num": 103100,
+      "word": "温瑞博止步16强",
+      "onboard_time": 1775200523,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102725,
@@ -4019,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100145,
+      "num": 100145,
+      "word": "伊朗称12小时内击落2架美战机",
+      "onboard_time": 1775199921,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100120,
       "num": 95180,
       "word": "黄金又突然暴涨",
@@ -4137,14 +4313,6 @@
       "onboard_time": 1775044283,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97879,
-      "num": 97879,
-      "word": "猪精液制成的眼药水可治疗眼肿瘤",
-      "onboard_time": 1775195542,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 97786,
@@ -4451,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91283,
+      "num": 91283,
+      "word": "刘昇彦加入AND2BLE",
+      "onboard_time": 1775199082,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91241,
       "num": 91241,
       "word": "有商家把不能听歌的有线耳机当项链卖",
@@ -4537,6 +4713,14 @@
       "onboard_time": 1775039062,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89612,
+      "num": 89612,
+      "word": "南京警方侦破32年前命案",
+      "onboard_time": 1775199621,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89597,
@@ -4747,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87012,
+      "num": 87012,
+      "word": "小S为范玮琪浪姐打call",
+      "onboard_time": 1775186480,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86924,
       "num": 124845,
       "word": "中国把数据中心搬进大海",
@@ -4865,6 +5057,14 @@
       "onboard_time": 1775030063,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85569,
+      "num": 85569,
+      "word": "雷军祝福福特",
+      "onboard_time": 1775200822,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 85428,
@@ -7057,6 +7257,14 @@
       "onboard_time": 1775067795,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14502,
+      "num": 259281,
+      "word": "胡友平倒地离世前最后画面公布",
+      "onboard_time": 1775200162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13122,
