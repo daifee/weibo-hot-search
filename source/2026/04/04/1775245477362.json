@@ -1,0 +1,410 @@
+{
+  "runTime": 1775245477362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146345,
+        "num": 146345,
+        "word": "女生午睡5小时被领导警告发视频哭诉",
+        "onboard_time": 1775231723,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64186,
+        "num": 64186,
+        "word": "马兴瑞涉嫌严重违纪违法",
+        "onboard_time": 1775237717,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9573,
+        "num": 55382,
+        "word": "赏花踏青特色主题专列来了",
+        "onboard_time": 1775222724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53015,
+        "num": 53015,
+        "word": "何宣林 给短人争气",
+        "onboard_time": 1775231542,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43182,
+        "num": 43182,
+        "word": "当你过午不食六个月",
+        "onboard_time": 1775219123,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53646,
+        "num": 42505,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 5,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 41060,
+        "num": 41060,
+        "word": "与辉同行宣布全额退款",
+        "onboard_time": 1775229864,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40664,
+        "num": 40664,
+        "word": "孟村杀妻案金昊已被执行死刑",
+        "onboard_time": 1775235558,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38637,
+        "num": 38637,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33329,
+        "num": 38615,
+        "word": "美战机在伊朗坠毁美军展开搜救",
+        "onboard_time": 1775230882,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156742,
+        "num": 38219,
+        "word": "林沐然疑似有女友",
+        "onboard_time": 1775233162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125404,
+        "num": 38070,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90503,
+        "num": 37863,
+        "word": "浪姐改赛制",
+        "onboard_time": 1775228664,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37670,
+        "num": 37670,
+        "word": "冯提莫回应腋下管理",
+        "onboard_time": 1775232142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80523,
+        "num": 37552,
+        "word": "阚清子 尊重游戏规则",
+        "onboard_time": 1775223503,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32935,
+        "num": 32935,
+        "word": "以色列铁穹被伊朗击穿",
+        "onboard_time": 1775226504,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76626,
+        "num": 32181,
+        "word": "浪姐排名",
+        "onboard_time": 1775223984,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31327,
+        "num": 31327,
+        "word": "女演员三平台破万剧盘点",
+        "onboard_time": 1775235259,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28597,
+        "num": 28597,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 25916,
+        "word": "马兴瑞被查",
+        "onboard_time": 1775210841,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120489,
+        "num": 25900,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60992,
+        "num": 25355,
+        "word": "浪姐今晚不淘汰",
+        "onboard_time": 1775228664,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34064,
+        "num": 25224,
+        "word": "黄灿灿赢了何宣林",
+        "onboard_time": 1775228364,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40879,
+        "num": 24960,
+        "word": "阚清子唱哭了",
+        "onboard_time": 1775223503,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24657,
+        "num": 24657,
+        "word": "AG回应0比4狼队",
+        "onboard_time": 1775232142,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30342,
+        "num": 23164,
+        "word": "谁来救救代斯",
+        "onboard_time": 1775230762,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29841,
+        "num": 23130,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28112,
+        "num": 22728,
+        "word": "谢娜李小冉亲了",
+        "onboard_time": 1775231723,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21514,
+        "num": 21514,
+        "word": "老爸评测涉多起纠纷",
+        "onboard_time": 1775231481,
+        "rank": 28,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 21216,
+        "num": 21216,
+        "word": "清华学霸一开口就把人点醒了",
+        "onboard_time": 1775234060,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23869,
+        "num": 21182,
+        "word": "月鳞绮纪白日提灯谁能笑到最后",
+        "onboard_time": 1775233522,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21277,
+        "num": 21167,
+        "word": "肖战十日终焉爆剧玄学",
+        "onboard_time": 1775225664,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21134,
+        "num": 21134,
+        "word": "金银再跌油价大涨",
+        "onboard_time": 1775232742,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20669,
+        "num": 20669,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19773,
+        "num": 20669,
+        "word": "孙怡 好美的洋娃娃",
+        "onboard_time": 1775220984,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19287,
+        "num": 20667,
+        "word": "cpb减肥法",
+        "onboard_time": 1775227464,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 20665,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 20663,
+        "word": "温峥嵘 二重唱",
+        "onboard_time": 1775220804,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17740,
+        "num": 20662,
+        "word": "伊朗施工者说遭袭大桥就像自家孩子",
+        "onboard_time": 1775239096,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17390,
+        "num": 20660,
+        "word": "东部战区发布海报为了这个省",
+        "onboard_time": 1775227645,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 20659,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775216243,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17409,
+        "num": 20657,
+        "word": "在你灿烂的季节",
+        "onboard_time": 1775237297,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 20657,
+        "word": "王楚钦11比13F勒布伦",
+        "onboard_time": 1775220263,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16851,
+        "num": 20656,
+        "word": "没有一诺的AG",
+        "onboard_time": 1775226863,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16582,
+        "num": 20654,
+        "word": "王橹杰画的咴",
+        "onboard_time": 1775215342,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 20652,
+        "word": "温峥嵘赢了代斯100票",
+        "onboard_time": 1775230821,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15492,
+        "num": 20651,
+        "word": "王楚钦直言0比2落后真没机会",
+        "onboard_time": 1775224465,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14603,
+        "num": 20649,
+        "word": "陈奕恒海边花絮",
+        "onboard_time": 1775232621,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14375,
+        "num": 20648,
+        "word": "张雪说真男人说到做到",
+        "onboard_time": 1775245274,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13961,
+        "num": 20647,
+        "word": "89岁奶奶翻窗从27楼外墙爬到21楼",
+        "onboard_time": 1775235018,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中最闪亮的坐标#"
+    }
+  }
+}

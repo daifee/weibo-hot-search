@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 03:12:53
+本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 03:44:37
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ AG对战狼队（热度：84054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%B7%B2%E7%A0%B4%E4%B8%87%23" target="weibo">
 月鳞绮纪已破万（热度：18664）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%AF%B4%E7%9C%9F%E7%94%B7%E4%BA%BA%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%23" target="weibo">
+张雪说真男人说到做到（热度：14375）
 </a>
 </li>
 
