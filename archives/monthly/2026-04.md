@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 01:42:20
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 02:01:11
 </p>
 </blockquote>
 <p>
@@ -3177,6 +3177,12 @@ A股超4500家个股下跌（热度：131281）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+孟村杀妻案金昊已被执行死刑（热度：123857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%83%B3%E7%94%A8%E5%81%9C%E7%81%AB%E6%8D%A2%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%88%AA%23" target="weibo">
 美国被曝想用停火换霍尔木兹海峡通航（热度：122910）
 </a>
@@ -4473,12 +4479,6 @@ TFBOYS我们的少年时代未公开照（热度：92297）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-孟村杀妻案金昊已被执行死刑（热度：90710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E5%86%8D%E8%BF%8E%E5%A4%A7%E6%B6%A8%23" target="weibo">
 金银再迎大涨（热度：90529）
 </a>
@@ -4715,6 +4715,12 @@ A股光概念大涨原因（热度：87562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%A6%96%E4%BD%8D%E6%BC%94%E5%91%98%E7%83%AD%E5%BA%A6%E5%80%BC%E5%AE%9A%E6%A1%A3%E7%A0%B49800%E4%B8%87%23" target="weibo">
 鞠婧祎首位演员热度值定档破9800万（热度：87322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
+马兴瑞涉嫌严重违纪违法（热度：87122）
 </a>
 </li>
 
@@ -5729,12 +5735,6 @@ Claude Code源码意外泄露（热度：70427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A4%A7%E8%91%B1%E6%B2%B9%E9%A5%BC%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A%23" target="weibo">
 阿大葱油饼宣布暂停营业（热度：69199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
-马兴瑞涉嫌严重违纪违法（热度：69082）
 </a>
 </li>
 

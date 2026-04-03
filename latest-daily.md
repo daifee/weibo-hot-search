@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 01:42:20
+本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 02:01:11
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ cpb减肥法（热度：157339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+孟村杀妻案金昊已被执行死刑（热度：123857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9D%A0%E6%AF%81%E7%BE%8E%E5%86%9B%E5%B1%95%E5%BC%80%E6%90%9C%E6%95%91%23" target="weibo">
 美战机在伊朗坠毁美军展开搜救（热度：122179）
 </a>
@@ -255,12 +261,6 @@ AG回应0比4狼队（热度：103744）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-孟村杀妻案金昊已被执行死刑（热度：90710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 周杰伦演唱会（热度：90387）
 </a>
@@ -275,6 +275,12 @@ AG回应0比4狼队（热度：103744）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E7%9A%84%E6%97%A5%E6%9C%AC%E5%A5%B6%E8%8C%B6%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%8C%B6%E5%B7%A5%E8%89%BA%23" target="weibo">
 被指抄袭的日本奶茶用中国制茶工艺（热度：88064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
+马兴瑞涉嫌严重违纪违法（热度：87122）
 </a>
 </li>
 
@@ -329,12 +335,6 @@ AG对战狼队（热度：84054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AF%81%E5%AE%9E%E4%B8%80%E6%9E%B6%E6%88%98%E6%96%97%E6%9C%BA%E5%9C%A8%E4%BC%8A%E5%A2%83%E5%86%85%E8%A2%AB%E5%87%BB%E8%90%BD%23" target="weibo">
 美证实一架战斗机在伊境内被击落（热度：69644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
-马兴瑞涉嫌严重违纪违法（热度：69082）
 </a>
 </li>
 
