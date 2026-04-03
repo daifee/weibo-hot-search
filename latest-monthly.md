@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 01:04:57
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 01:42:20
 </p>
 </blockquote>
 <p>
@@ -4473,6 +4473,12 @@ TFBOYS我们的少年时代未公开照（热度：92297）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+孟村杀妻案金昊已被执行死刑（热度：90710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E5%86%8D%E8%BF%8E%E5%A4%A7%E6%B6%A8%23" target="weibo">
 金银再迎大涨（热度：90529）
 </a>
@@ -5727,6 +5733,12 @@ Claude Code源码意外泄露（热度：70427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
+马兴瑞涉嫌严重违纪违法（热度：69082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E9%81%AD%E5%88%B0%E7%BE%8E%E5%9B%BD%E8%88%86%E8%AE%BA%E8%8A%B1%E5%BC%8F%E5%90%90%E6%A7%BD%23" target="weibo">
 特朗普讲话遭到美国舆论花式吐槽（热度：68987）
 </a>
@@ -5999,18 +6011,6 @@ A股再险守3900点（热度：59841）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E7%BB%88%E4%BA%8E%E8%83%BD%E7%9D%A1%E7%9D%80%E4%BA%86%23" target="weibo">
 郭敬明终于能睡着了（热度：57690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9C%A8%E9%B8%9F%E5%B7%A2%E5%96%8A%E6%AD%8C%E8%BF%B7%E4%B8%8A%E8%BD%A6%23" target="weibo">
-张杰在鸟巢喊歌迷上车（热度：57638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E4%BA%BA%E6%B0%94%23" target="weibo">
-唐艺昕人气（热度：57166）
 </a>
 </li>
 

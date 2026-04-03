@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/04/04 01:04:57
+本榜单时间：2026/03/29 00:43:57 ~ 2026/04/04 01:42:20
 </p>
 </blockquote>
 <p>
@@ -8481,6 +8481,12 @@ DeepSeek被做成纸扎了（热度：91160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+孟村杀妻案金昊已被执行死刑（热度：90710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E6%9C%AC%E5%90%8D%E5%B5%87%E5%98%89%E7%A6%BE%23" target="weibo">
 锤娜丽莎本名嵇嘉禾（热度：90629）
 </a>
@@ -10761,6 +10767,12 @@ Claude Code源码意外泄露（热度：70427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
+马兴瑞涉嫌严重违纪违法（热度：69082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%E5%8F%91%E6%96%87%E7%BC%85%E6%80%80%E6%9D%8E%E6%98%8C%E9%92%B0%23" target="weibo">
 李昌钰再婚妻子发文缅怀李昌钰（热度：69049）
 </a>
@@ -11769,12 +11781,6 @@ DOTA2（热度：48123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-孟村杀妻案金昊已被执行死刑（热度：48058）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD1983%23" target="weibo">
 你好1983（热度：48049）
 </a>
@@ -12147,6 +12153,12 @@ Patagonia回应要收地球使用费（热度：40094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E7%85%B2%E5%BA%97%E8%80%81%E6%9D%BF%E5%96%8A%E8%AF%9D%E5%88%98%E9%9B%A8%E9%91%AB%E6%8E%A2%E5%BA%97%E5%85%B6%E4%BB%96%E7%BE%8E%E9%A3%9F%23" target="weibo">
+鸡煲店老板喊话刘雨鑫探店其他美食（热度：37479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B0%A2%E5%8D%B4%E5%B1%B1%E5%AE%B6%E4%B8%BB%E6%B0%94%E5%9C%BA%23" target="weibo">
 檀健次谢却山家主气场（热度：37438）
 </a>
@@ -12191,6 +12203,12 @@ Patagonia回应要收地球使用费（热度：40094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B6%8A%E6%8F%8F%E8%B6%8A%E9%BB%91%23" target="weibo">
 高市早苗越描越黑（热度：35260）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%A0%E7%81%BF%E7%83%82%E7%9A%84%E5%AD%A3%E8%8A%82%23" target="weibo">
+在你灿烂的季节（热度：35044）
 </a>
 </li>
 
@@ -12269,6 +12287,12 @@ DYG纪录片（热度：34056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902280%E5%85%83%E7%BD%91%E8%B4%AD18K%E9%A1%B9%E9%93%BE%E5%90%AB%E9%93%9C70%25%23" target="weibo">
 女子2280元网购18K项链含铜70%（热度：33210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%B5%B7%E8%BE%B9%E8%8A%B1%E7%B5%AE%23" target="weibo">
+陈奕恒海边花絮（热度：33079）
 </a>
 </li>
 

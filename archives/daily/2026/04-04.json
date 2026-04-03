@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775235897196,
+  "endTime": 1775238140882,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -323,6 +323,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 90710,
+      "num": 90710,
+      "word": "孟村杀妻案金昊已被执行死刑",
+      "onboard_time": 1775235558,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90387,
       "num": 84008,
       "word": "周杰伦演唱会",
@@ -417,6 +425,14 @@
       "onboard_time": 1775228004,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69082,
+      "num": 69082,
+      "word": "马兴瑞涉嫌严重违纪违法",
+      "onboard_time": 1775237717,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68459,
@@ -515,12 +531,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48058,
-      "num": 81325,
-      "word": "孟村杀妻案金昊已被执行死刑",
-      "onboard_time": 1775235558,
+      "raw_hot": 37479,
+      "num": 54903,
+      "word": "鸡煲店老板喊话刘雨鑫探店其他美食",
+      "onboard_time": 1775234242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35044,
+      "num": 54787,
+      "word": "在你灿烂的季节",
+      "onboard_time": 1775237297,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33079,
+      "num": 54717,
+      "word": "陈奕恒海边花絮",
+      "onboard_time": 1775232621,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 20318,

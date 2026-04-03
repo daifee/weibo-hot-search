@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 01:04:57
+本榜单时间：2026/04/04 00:01:17 ~ 2026/04/04 01:42:20
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ AG回应0比4狼队（热度：103744）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+孟村杀妻案金昊已被执行死刑（热度：90710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 周杰伦演唱会（热度：90387）
 </a>
@@ -323,6 +329,12 @@ AG对战狼队（热度：84054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AF%81%E5%AE%9E%E4%B8%80%E6%9E%B6%E6%88%98%E6%96%97%E6%9C%BA%E5%9C%A8%E4%BC%8A%E5%A2%83%E5%86%85%E8%A2%AB%E5%87%BB%E8%90%BD%23" target="weibo">
 美证实一架战斗机在伊境内被击落（热度：69644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
+马兴瑞涉嫌严重违纪违法（热度：69082）
 </a>
 </li>
 
@@ -399,8 +411,20 @@ AG对战狼队（热度：84054）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%9D%91%E6%9D%80%E5%A6%BB%E6%A1%88%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-孟村杀妻案金昊已被执行死刑（热度：48058）
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E7%85%B2%E5%BA%97%E8%80%81%E6%9D%BF%E5%96%8A%E8%AF%9D%E5%88%98%E9%9B%A8%E9%91%AB%E6%8E%A2%E5%BA%97%E5%85%B6%E4%BB%96%E7%BE%8E%E9%A3%9F%23" target="weibo">
+鸡煲店老板喊话刘雨鑫探店其他美食（热度：37479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%A0%E7%81%BF%E7%83%82%E7%9A%84%E5%AD%A3%E8%8A%82%23" target="weibo">
+在你灿烂的季节（热度：35044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%B5%B7%E8%BE%B9%E8%8A%B1%E7%B5%AE%23" target="weibo">
+陈奕恒海边花絮（热度：33079）
 </a>
 </li>
 
