@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775239271099,
+  "endTime": 1775242706639,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104094,
+      "num": 210229,
+      "word": "马兴瑞涉嫌严重违纪违法",
+      "onboard_time": 1775237717,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103744,
       "num": 103744,
       "word": "AG回应0比4狼队",
@@ -353,14 +361,6 @@
       "onboard_time": 1775228185,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87122,
-      "num": 210229,
-      "word": "马兴瑞涉嫌严重违纪违法",
-      "onboard_time": 1775237717,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85760,
@@ -555,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20324,
+      "num": 32842,
+      "word": "钢铁森林开播",
+      "onboard_time": 1775240417,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20318,
       "num": 618858,
       "word": "赏花踏青特色主题专列来了",
       "onboard_time": 1775222724,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19883,
+      "num": 33186,
+      "word": "伊朗施工者说遭袭大桥就像自家孩子",
+      "onboard_time": 1775239096,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
