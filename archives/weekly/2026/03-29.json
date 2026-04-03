@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775213583477,
+  "endTime": 1775214679727,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -251,7 +251,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1371428,
+      "raw_hot": 1409750,
       "num": 132701,
       "word": "曝IU李钟硕分手",
       "onboard_time": 1775211023,
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 547099,
-      "num": 180514,
+      "num": 192058,
       "word": "鸭嘴钳",
       "onboard_time": 1775210841,
       "rank": 11,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1774763301,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483324,
+      "num": 992259,
+      "word": "工信部紧急提醒苹果用户",
+      "onboard_time": 1775211921,
+      "rank": 3,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 483317,
@@ -1947,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 403173,
+      "num": 403173,
+      "word": "AG对战狼队",
+      "onboard_time": 1775214263,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 401990,
       "num": 401990,
       "word": "米饭拌白糖",
@@ -2083,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384084,
+      "num": 130853,
+      "word": "时代少年团物料重新上传",
+      "onboard_time": 1775211982,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382446,
       "num": 770756,
       "word": "张雪身价上亿还在用两千多块钱坏手机",
@@ -2161,14 +2185,6 @@
       "onboard_time": 1774767082,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 374621,
-      "num": 126306,
-      "word": "时代少年团物料重新上传",
-      "onboard_time": 1775211982,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 373790,
@@ -2401,14 +2417,6 @@
       "onboard_time": 1775136443,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342771,
-      "num": 342771,
-      "word": "工信部紧急提醒苹果用户",
-      "onboard_time": 1775211921,
-      "rank": 3,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 339335,
@@ -2892,7 +2900,7 @@
     },
     {
       "raw_hot": 294114,
-      "num": 176574,
+      "num": 183823,
       "word": "伊朗800公斤弹头砸向美军基地",
       "onboard_time": 1775208203,
       "rank": 22,
@@ -3004,7 +3012,7 @@
     },
     {
       "raw_hot": 286250,
-      "num": 111201,
+      "num": 128095,
       "word": "曝李马克签了李泳知公司",
       "onboard_time": 1775210541,
       "rank": 26,
@@ -4043,6 +4051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229797,
+      "num": 229797,
+      "word": "云初令全阵容发布",
+      "onboard_time": 1775212102,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229557,
       "num": 220992,
       "word": "美国50多年来首次载人飞向月球",
@@ -4561,6 +4577,14 @@
       "onboard_time": 1774766721,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211243,
+      "num": 131037,
+      "word": "男子发私照让豆包测评身材被封号",
+      "onboard_time": 1775213361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210975,
@@ -5259,14 +5283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179384,
-      "num": 179384,
-      "word": "云初令全阵容发布",
-      "onboard_time": 1775212102,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179231,
       "num": 179231,
       "word": "美军福特号航母抵港克罗地亚维修",
@@ -5643,6 +5659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166448,
+      "num": 166448,
+      "word": "谢楠让谢娜回去主持",
+      "onboard_time": 1775212102,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165843,
       "num": 154565,
       "word": "王俊凯回应拿错奖杯了",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1774931126,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158398,
+      "num": 158398,
+      "word": "莫氏鸡煲老板累趴全村动起来了",
+      "onboard_time": 1775213003,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158036,
@@ -6363,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145000,
+      "num": 145000,
+      "word": "鞠婧祎优酷平台双破万一番女主",
+      "onboard_time": 1775214381,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144808,
       "num": 165786,
       "word": "女子花上万办卡被按摩到癌细胞扩散",
@@ -6651,14 +6691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137973,
-      "num": 137973,
-      "word": "谢楠让谢娜回去主持",
-      "onboard_time": 1775212102,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
@@ -6875,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133539,
+      "num": 133539,
+      "word": "TOP崔胜铉新专辑",
+      "onboard_time": 1775210483,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133533,
       "num": 139268,
       "word": "火旺 宋威龙",
@@ -7019,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131107,
+      "num": 120749,
+      "word": "袁泉拍戏真做了胃镜",
+      "onboard_time": 1775213242,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131073,
       "num": 136555,
       "word": "合资一发力车机TOP1",
@@ -7081,6 +7129,14 @@
       "onboard_time": 1775138784,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1775211502,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129873,
@@ -7201,14 +7257,6 @@
       "onboard_time": 1774948526,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128366,
-      "num": 116425,
-      "word": "TOP崔胜铉新专辑",
-      "onboard_time": 1775210483,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 128310,
@@ -7356,7 +7404,7 @@
     },
     {
       "raw_hot": 126237,
-      "num": 106650,
+      "num": 121830,
       "word": "虞书欣云初令海报",
       "onboard_time": 1775212702,
       "rank": 33,
@@ -7577,14 +7625,6 @@
       "onboard_time": 1774933106,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122079,
-      "num": 122079,
-      "word": "莫氏鸡煲老板累趴全村动起来了",
-      "onboard_time": 1775213003,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122057,
@@ -7843,6 +7883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118932,
+      "num": 118932,
+      "word": "张雪专门去查肝",
+      "onboard_time": 1775214442,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118831,
       "num": 118831,
       "word": "美特种部队数百人抵达中东",
@@ -8009,6 +8057,14 @@
       "onboard_time": 1775111542,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 116887,
+      "num": 121950,
+      "word": "3岁女儿确诊孤独症父亲关掉公司陪伴",
+      "onboard_time": 1775210301,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116879,
@@ -9043,6 +9099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104179,
+      "num": 104179,
+      "word": "KT战胜GEN",
+      "onboard_time": 1775214263,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103984,
       "num": 129972,
       "word": "王楚钦直言比赛密集",
@@ -9441,14 +9505,6 @@
       "onboard_time": 1774957765,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99803,
-      "num": 99803,
-      "word": "袁泉拍戏真做了胃镜",
-      "onboard_time": 1775213242,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 99689,
@@ -9985,14 +10041,6 @@
       "onboard_time": 1775088322,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94984,
-      "num": 94984,
-      "word": "男子发私照让豆包测评身材被封号",
-      "onboard_time": 1775213361,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94972,
@@ -10673,14 +10721,6 @@
       "onboard_time": 1774941262,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 89648,
-      "num": 89648,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1775211502,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 89612,
@@ -15387,6 +15427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30199,
+      "num": 132921,
+      "word": "司机让行5分钟获上千名学生打招呼",
+      "onboard_time": 1775214023,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30062,
       "num": 121783,
       "word": "优思益单平台月销售额近2500万",
@@ -15625,6 +15673,14 @@
       "onboard_time": 1774869441,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24261,
+      "num": 107072,
+      "word": "古巴反帝游行现场视频",
+      "onboard_time": 1775214023,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23960,
