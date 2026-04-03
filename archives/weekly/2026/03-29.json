@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775228987982,
+  "endTime": 1775231157922,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2889183,
-      "num": 736475,
+      "raw_hot": 3534322,
+      "num": 3534322,
       "word": "浪姐改赛制",
       "onboard_time": 1775228664,
       "rank": 3,
@@ -353,6 +353,14 @@
       "onboard_time": 1774768047,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1212357,
+      "num": 171383,
+      "word": "张若昀发唐艺昕直拍",
+      "onboard_time": 1775228364,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207957,
@@ -819,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 763970,
+      "num": 763970,
+      "word": "浪姐今晚不淘汰",
+      "onboard_time": 1775228664,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750285,
       "num": 618308,
       "word": "谢娜一直不停地拉着袁咏仪说话",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1775124681,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 611875,
+      "num": 160153,
+      "word": "金昊已被执行死刑",
+      "onboard_time": 1775229564,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 611762,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1774869262,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470148,
+      "num": 470148,
+      "word": "谁来救救代斯",
+      "onboard_time": 1775230762,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 468930,
@@ -2507,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364587,
-      "num": 135626,
-      "word": "张若昀发唐艺昕直拍",
-      "onboard_time": 1775228364,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 361366,
       "num": 182721,
       "word": "黄子韬自曝不拍戏原因",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1775214442,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319433,
+      "num": 551370,
+      "word": "与辉同行宣布全额退款",
+      "onboard_time": 1775229864,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 318638,
@@ -7035,6 +7067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139631,
+      "num": 106434,
+      "word": "乌兰图雅骑着马上台接受采访",
+      "onboard_time": 1775228185,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139474,
       "num": 256697,
       "word": "春假",
@@ -7105,6 +7145,14 @@
       "onboard_time": 1774942823,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138219,
+      "num": 138219,
+      "word": "cpb减肥法",
+      "onboard_time": 1775227464,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 138187,
@@ -8529,14 +8577,6 @@
       "onboard_time": 1774926866,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 116723,
-      "num": 106434,
-      "word": "乌兰图雅骑着马上台接受采访",
-      "onboard_time": 1775228185,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 116583,
@@ -10747,6 +10787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93431,
+      "num": 162806,
+      "word": "被指抄袭的日本奶茶用中国制茶工艺",
+      "onboard_time": 1775228185,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93331,
       "num": 93331,
       "word": "向佐好像追星成功郭碧婷",
@@ -11761,14 +11809,6 @@
       "onboard_time": 1774744819,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87419,
-      "num": 87419,
-      "word": "cpb减肥法",
-      "onboard_time": 1775227464,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 87322,
@@ -13083,6 +13123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78344,
+      "num": 78344,
+      "word": "你外出的八小时在猫眼里是多久",
+      "onboard_time": 1775230342,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78300,
       "num": 77097,
       "word": "张雪一家三口13年前视频",
@@ -13635,6 +13683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73548,
+      "num": 73548,
+      "word": "张雪年轻时设计摩托车至今还畅销",
+      "onboard_time": 1775230223,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73510,
       "num": 73510,
       "word": "小警犬刚到警局就被全体同事的围观了",
@@ -13843,6 +13899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71932,
+      "num": 164263,
+      "word": "女子称猫咪被卡自动猫砂盆死亡",
+      "onboard_time": 1775228664,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71878,
       "num": 71878,
       "word": "鞠婧祎获巅峰流行女歌手",
@@ -14003,12 +14067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70832,
+      "num": 70832,
+      "word": "石明鑫脑王",
+      "onboard_time": 1775231001,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70765,
       "num": 70765,
       "word": "假性带娃",
       "onboard_time": 1775126001,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70755,
+      "num": 70755,
+      "word": "美战机在伊朗坠毁美军展开搜救",
+      "onboard_time": 1775230882,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 70669,
@@ -14672,14 +14752,6 @@
       "word": "某国领馆人员违规搜集我农作物情况",
       "onboard_time": 1775117601,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62091,
-      "num": 164263,
-      "word": "女子称猫咪被卡自动猫砂盆死亡",
-      "onboard_time": 1775228664,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -16633,14 +16705,6 @@
       "onboard_time": 1774957226,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20974,
-      "num": 162806,
-      "word": "被指抄袭的日本奶茶用中国制茶工艺",
-      "onboard_time": 1775228185,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20506,

@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775228987982,
+  "endTime": 1775231157922,
   "band_list": [
     {
       "raw_hot": 4712004,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2889183,
-      "num": 736475,
+      "raw_hot": 3534322,
+      "num": 3534322,
       "word": "浪姐改赛制",
       "onboard_time": 1775228664,
       "rank": 3,
@@ -81,6 +81,14 @@
       "onboard_time": 1775211023,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1212357,
+      "num": 171383,
+      "word": "张若昀发唐艺昕直拍",
+      "onboard_time": 1775228364,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207957,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 763970,
+      "num": 763970,
+      "word": "浪姐今晚不淘汰",
+      "onboard_time": 1775228664,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713867,
       "num": 1114218,
       "word": "王楚钦11比13F勒布伦",
@@ -305,6 +321,14 @@
       "onboard_time": 1775225664,
       "rank": 3,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 611875,
+      "num": 160153,
+      "word": "金昊已被执行死刑",
+      "onboard_time": 1775229564,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 611762,
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470148,
+      "num": 470148,
+      "word": "谁来救救代斯",
+      "onboard_time": 1775230762,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455602,
       "num": 455602,
       "word": "半个娱乐圈为它道歉谁该负责",
@@ -579,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364587,
-      "num": 135626,
-      "word": "张若昀发唐艺昕直拍",
-      "onboard_time": 1775228364,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 343838,
       "num": 343838,
       "word": "张凌赫待播剧一个是医生一个是草根",
@@ -625,6 +649,14 @@
       "onboard_time": 1775214442,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319433,
+      "num": 551370,
+      "word": "与辉同行宣布全额退款",
+      "onboard_time": 1775229864,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 318638,
@@ -1435,12 +1467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139631,
+      "num": 106434,
+      "word": "乌兰图雅骑着马上台接受采访",
+      "onboard_time": 1775228185,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139171,
       "num": 139171,
       "word": "男子卖玩具枪被关279天获国赔",
       "onboard_time": 1775217623,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138219,
+      "num": 138219,
+      "word": "cpb减肥法",
+      "onboard_time": 1775227464,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 137906,
@@ -1713,14 +1761,6 @@
       "onboard_time": 1775210301,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116723,
-      "num": 106434,
-      "word": "乌兰图雅骑着马上台接受采访",
-      "onboard_time": 1775228185,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 114918,
@@ -2195,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93431,
+      "num": 162806,
+      "word": "被指抄袭的日本奶茶用中国制茶工艺",
+      "onboard_time": 1775228185,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93246,
       "num": 93246,
       "word": "采茶阿姨哭诉饮用水质差",
@@ -2377,14 +2425,6 @@
       "onboard_time": 1775201601,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87419,
-      "num": 87419,
-      "word": "cpb减肥法",
-      "onboard_time": 1775227464,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 87012,
@@ -2643,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78344,
+      "num": 78344,
+      "word": "你外出的八小时在猫眼里是多久",
+      "onboard_time": 1775230342,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78300,
       "num": 77097,
       "word": "张雪一家三口13年前视频",
@@ -2755,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73548,
+      "num": 73548,
+      "word": "张雪年轻时设计摩托车至今还畅销",
+      "onboard_time": 1775230223,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73510,
       "num": 73510,
       "word": "小警犬刚到警局就被全体同事的围观了",
@@ -2777,6 +2833,14 @@
       "onboard_time": 1775144841,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71932,
+      "num": 164263,
+      "word": "女子称猫咪被卡自动猫砂盆死亡",
+      "onboard_time": 1775228664,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71383,
@@ -2809,6 +2873,22 @@
       "onboard_time": 1775174061,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70832,
+      "num": 70832,
+      "word": "石明鑫脑王",
+      "onboard_time": 1775231001,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 70755,
+      "num": 70755,
+      "word": "美战机在伊朗坠毁美军展开搜救",
+      "onboard_time": 1775230882,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 70684,
@@ -2905,14 +2985,6 @@
       "onboard_time": 1775173642,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62091,
-      "num": 164263,
-      "word": "女子称猫咪被卡自动猫砂盆死亡",
-      "onboard_time": 1775228664,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61846,
@@ -3209,14 +3281,6 @@
       "onboard_time": 1775201362,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20974,
-      "num": 162806,
-      "word": "被指抄袭的日本奶茶用中国制茶工艺",
-      "onboard_time": 1775228185,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17126,

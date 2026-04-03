@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775228987982,
+  "endTime": 1775231157922,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -971,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3534322,
+      "num": 3534322,
+      "word": "浪姐改赛制",
+      "onboard_time": 1775228664,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3500523,
       "num": 199323,
       "word": "几杯去世",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1769777545,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2889183,
-      "num": 736475,
-      "word": "浪姐改赛制",
-      "onboard_time": 1775228664,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2857817,

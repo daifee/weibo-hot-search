@@ -1,0 +1,410 @@
+{
+  "runTime": 1775231157922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3534322,
+        "num": 3534322,
+        "word": "浪姐改赛制",
+        "onboard_time": 1775228664,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248083,
+        "num": 1112926,
+        "word": "马兴瑞被查",
+        "onboard_time": 1775210841,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19472,
+        "num": 932137,
+        "word": "赏花踏青特色主题专列来了",
+        "onboard_time": 1775222724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763970,
+        "num": 763970,
+        "word": "浪姐今晚不淘汰",
+        "onboard_time": 1775228664,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319433,
+        "num": 551370,
+        "word": "与辉同行宣布全额退款",
+        "onboard_time": 1775229864,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 470148,
+        "num": 470148,
+        "word": "谁来救救代斯",
+        "onboard_time": 1775230762,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331823,
+        "num": 331823,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 6,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 230005,
+        "num": 230005,
+        "word": "当你过午不食六个月",
+        "onboard_time": 1775219123,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201135,
+        "num": 201135,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94606,
+        "num": 190531,
+        "word": "没有一诺的AG",
+        "onboard_time": 1775226863,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2896694,
+        "num": 189501,
+        "word": "浪姐排名",
+        "onboard_time": 1775223984,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1212357,
+        "num": 171383,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611875,
+        "num": 160153,
+        "word": "金昊已被执行死刑",
+        "onboard_time": 1775229564,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61012,
+        "num": 147004,
+        "word": "王俊凯东方公子",
+        "onboard_time": 1775226863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146075,
+        "num": 146075,
+        "word": "以色列铁穹被伊朗击穿",
+        "onboard_time": 1775226504,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1010109,
+        "num": 145633,
+        "word": "黄灿灿赢了何宣林",
+        "onboard_time": 1775228364,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874102,
+        "num": 144562,
+        "word": "阚清子 尊重游戏规则",
+        "onboard_time": 1775223503,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 142772,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138219,
+        "num": 138219,
+        "word": "cpb减肥法",
+        "onboard_time": 1775227464,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110321,
+        "num": 110321,
+        "word": "AG对战狼队",
+        "onboard_time": 1775214263,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 851717,
+        "num": 109795,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774978,
+        "num": 108886,
+        "word": "何宣林 黑马",
+        "onboard_time": 1775228364,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107073,
+        "num": 107073,
+        "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
+        "onboard_time": 1775221583,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440606,
+        "num": 104601,
+        "word": "阚清子唱哭了",
+        "onboard_time": 1775223503,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206539,
+        "num": 104509,
+        "word": "孙怡 好美的洋娃娃",
+        "onboard_time": 1775220984,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "兰州大学惊现虐猫房车",
+        "onboard_time": 1775222122,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196125,
+        "num": 99025,
+        "word": "温峥嵘 二重唱",
+        "onboard_time": 1775220804,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164369,
+        "num": 98707,
+        "word": "肖战十日终焉爆剧玄学",
+        "onboard_time": 1775225664,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 95858,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 95761,
+        "num": 95761,
+        "word": "王楚钦直言0比2落后真没机会",
+        "onboard_time": 1775224465,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93431,
+        "num": 93431,
+        "word": "被指抄袭的日本奶茶用中国制茶工艺",
+        "onboard_time": 1775228185,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162847,
+        "num": 92850,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 92444,
+        "word": "乌兰图雅骑着马上台接受采访",
+        "onboard_time": 1775228185,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341024,
+        "num": 92318,
+        "word": "浪姐人情世故太明显了",
+        "onboard_time": 1775228605,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91763,
+        "num": 91763,
+        "word": "王楚钦11比13F勒布伦",
+        "onboard_time": 1775220263,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106752,
+        "num": 91250,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 90119,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775216243,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100393,
+        "num": 88899,
+        "word": "孩子一张口身份证掉出来了",
+        "onboard_time": 1775225966,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 87347,
+        "word": "东部战区发布海报为了这个省",
+        "onboard_time": 1775227645,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33805,
+        "num": 87101,
+        "word": "庄法 钢管舞倒立飙高音",
+        "onboard_time": 1775226444,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97003,
+        "num": 85608,
+        "word": "王橹杰画的咴",
+        "onboard_time": 1775215342,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84780,
+        "num": 84780,
+        "word": "美证实一架战斗机在伊境内被击落",
+        "onboard_time": 1775228004,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85514,
+        "num": 82616,
+        "word": "宋雨琦迪士尼公主",
+        "onboard_time": 1775227103,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78344,
+        "num": 78344,
+        "word": "你外出的八小时在猫眼里是多久",
+        "onboard_time": 1775230342,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73548,
+        "num": 73548,
+        "word": "张雪年轻时设计摩托车至今还畅销",
+        "onboard_time": 1775230223,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72265,
+        "num": 72265,
+        "word": "上海夫妇被假将军女儿骗走近半亿",
+        "onboard_time": 1775218820,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71932,
+        "num": 71932,
+        "word": "女子称猫咪被卡自动猫砂盆死亡",
+        "onboard_time": 1775228664,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70832,
+        "num": 70832,
+        "word": "石明鑫脑王",
+        "onboard_time": 1775231001,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70755,
+        "num": 70755,
+        "word": "美战机在伊朗坠毁美军展开搜救",
+        "onboard_time": 1775230882,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 63833,
+        "num": 63833,
+        "word": "赵本山女儿回应被骂网络乞丐",
+        "onboard_time": 1775226383,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中最闪亮的坐标#"
+    }
+  }
+}
