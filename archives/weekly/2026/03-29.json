@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775211006308,
+  "endTime": 1775213583477,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -105,6 +105,14 @@
       "onboard_time": 1774883184,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2418500,
+      "num": 2418500,
+      "word": "马兴瑞被查",
+      "onboard_time": 1775210841,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2407334,
@@ -241,6 +249,14 @@
       "onboard_time": 1775190743,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1371428,
+      "num": 132701,
+      "word": "曝IU李钟硕分手",
+      "onboard_time": 1775211023,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1359514,
@@ -1171,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547099,
+      "num": 180514,
+      "word": "鸭嘴钳",
+      "onboard_time": 1775210841,
+      "rank": 11,
+      "category": "健康医疗,电影"
+    },
+    {
       "raw_hot": 546889,
       "num": 931766,
       "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1774998560,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 541021,
-      "num": 541021,
-      "word": "马兴瑞被查",
-      "onboard_time": 1775210841,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 540329,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1774925306,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457776,
-      "num": 180514,
-      "word": "鸭嘴钳",
-      "onboard_time": 1775210841,
-      "rank": 11,
-      "category": "健康医疗,电影"
     },
     {
       "raw_hot": 455602,
@@ -2155,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374621,
+      "num": 126306,
+      "word": "时代少年团物料重新上传",
+      "onboard_time": 1775211982,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373790,
       "num": 932429,
       "word": "鸭嘴钳是无数女性做检查时的噩梦",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1775136443,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342771,
+      "num": 342771,
+      "word": "工信部紧急提醒苹果用户",
+      "onboard_time": 1775211921,
+      "rank": 3,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 339335,
@@ -2867,6 +2891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 294114,
+      "num": 176574,
+      "word": "伊朗800公斤弹头砸向美军基地",
+      "onboard_time": 1775208203,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 292229,
       "num": 895679,
       "word": "郝蕾说的是谁好难猜啊",
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 286250,
-      "num": 106092,
+      "num": 111201,
       "word": "曝李马克签了李泳知公司",
       "onboard_time": 1775210541,
       "rank": 26,
@@ -4307,14 +4339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220390,
-      "num": 121362,
-      "word": "伊朗800公斤弹头砸向美军基地",
-      "onboard_time": 1775208203,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 220115,
       "num": 115302,
       "word": "迪丽热巴女鬼一来了",
@@ -4337,6 +4361,14 @@
       "onboard_time": 1774773629,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218723,
+      "num": 218723,
+      "word": "云初令",
+      "onboard_time": 1775212344,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 217683,
@@ -5225,6 +5257,14 @@
       "onboard_time": 1774832186,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179384,
+      "num": 179384,
+      "word": "云初令全阵容发布",
+      "onboard_time": 1775212102,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 179231,
@@ -6611,6 +6651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137973,
+      "num": 137973,
+      "word": "谢楠让谢娜回去主持",
+      "onboard_time": 1775212102,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
@@ -7155,6 +7203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128366,
+      "num": 116425,
+      "word": "TOP崔胜铉新专辑",
+      "onboard_time": 1775210483,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128310,
       "num": 128310,
       "word": "正义女神",
@@ -7297,6 +7353,14 @@
       "onboard_time": 1774778428,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126237,
+      "num": 106650,
+      "word": "虞书欣云初令海报",
+      "onboard_time": 1775212702,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126064,
@@ -7513,6 +7577,14 @@
       "onboard_time": 1774933106,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122079,
+      "num": 122079,
+      "word": "莫氏鸡煲老板累趴全村动起来了",
+      "onboard_time": 1775213003,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122057,
@@ -8715,6 +8787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106884,
+      "num": 106884,
+      "word": "生娃后奶粉要AA女子后悔闪婚",
+      "onboard_time": 1775210663,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 106757,
       "num": 106757,
       "word": "很少用top来形容一个土豆",
@@ -9363,6 +9443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "袁泉拍戏真做了胃镜",
+      "onboard_time": 1775213242,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99689,
       "num": 155419,
       "word": "国乒澳门世界杯首场失利",
@@ -9771,14 +9859,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96071,
-      "num": 96071,
-      "word": "TOP崔胜铉新专辑",
-      "onboard_time": 1775210483,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 96002,
       "num": 98701,
       "word": "狗狗消费降级后脸色都变了",
@@ -9867,6 +9947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95357,
+      "num": 102101,
+      "word": "6秒致辞县委书记清华毕业要求去基层",
+      "onboard_time": 1775211082,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95261,
       "num": 95261,
       "word": "山西一饭店发现3人死亡",
@@ -9897,6 +9985,14 @@
       "onboard_time": 1775088322,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94984,
+      "num": 94984,
+      "word": "男子发私照让豆包测评身材被封号",
+      "onboard_time": 1775213361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94972,
@@ -9945,6 +10041,14 @@
       "onboard_time": 1774878746,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94245,
+      "num": 94245,
+      "word": "姆巴佩说梅西强的可怕",
+      "onboard_time": 1775213361,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 94192,
@@ -10201,6 +10305,14 @@
       "onboard_time": 1774741460,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92252,
+      "num": 92252,
+      "word": "耳帝谈苏运莹",
+      "onboard_time": 1775212642,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 92249,
@@ -10531,14 +10643,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 89779,
-      "num": 89779,
-      "word": "生娃后奶粉要AA女子后悔闪婚",
-      "onboard_time": 1775210663,
-      "rank": 35,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 89762,
       "num": 97579,
       "word": "食贫道饼叔被韩国夜店卡了三次颜",
@@ -10569,6 +10673,14 @@
       "onboard_time": 1774941262,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89648,
+      "num": 89648,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1775211502,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 89612,
@@ -10665,6 +10777,14 @@
       "onboard_time": 1774787907,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89358,
+      "num": 89358,
+      "word": "突然发现全家生命力最强的是爷爷",
+      "onboard_time": 1775213421,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89315,
@@ -11497,6 +11617,14 @@
       "onboard_time": 1774787968,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84032,
+      "num": 84032,
+      "word": "好命苦的布置",
+      "onboard_time": 1775212942,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83894,
@@ -14171,6 +14299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55075,
+      "num": 136712,
+      "word": "TF绝色之夜顶级名利场",
+      "onboard_time": 1775213183,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55060,
       "num": 146668,
       "word": "黑龙江坍塌楼房附近居民发声",
@@ -15027,6 +15163,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 35788,
+      "num": 820710,
+      "word": "不知道你是谁但知道你为了谁",
+      "onboard_time": 1775209102,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35385,
       "num": 178018,
       "word": "青岛一大爷骑电动车进地铁车厢",
@@ -15065,14 +15209,6 @@
       "onboard_time": 1774895596,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34371,
-      "num": 627902,
-      "word": "不知道你是谁但知道你为了谁",
-      "onboard_time": 1775209102,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34304,
@@ -15152,6 +15288,14 @@
       "word": "女子2280元网购18K项链含铜70%",
       "onboard_time": 1774926923,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32983,
+      "num": 99826,
+      "word": "清明前夕发现姥爷坟头被民政局推平",
+      "onboard_time": 1775212462,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -15513,6 +15657,14 @@
       "onboard_time": 1774947863,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23550,
+      "num": 134816,
+      "word": "达人带货保健品佣金高至80%",
+      "onboard_time": 1775212462,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23547,
