@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775232077615,
+  "endTime": 1775235146906,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -1459,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541314,
+      "num": 706766,
+      "word": "女生午睡5小时被领导警告发视频哭诉",
+      "onboard_time": 1775231723,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541150,
       "num": 934518,
       "word": "意大利连续3届无缘世界杯",
@@ -2163,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411809,
+      "num": 346234,
+      "word": "何宣林 给短人争气",
+      "onboard_time": 1775231542,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410041,
       "num": 410041,
       "word": "麻辣烫里最夯的是啥菜",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1774767082,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374661,
+      "num": 104499,
+      "word": "林沐然疑似有女友",
+      "onboard_time": 1775233162,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 373790,
@@ -2827,14 +2851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 324694,
-      "num": 107826,
-      "word": "何宣林 给短人争气",
-      "onboard_time": 1775231542,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1775207842,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320563,
+      "num": 97294,
+      "word": "冯提莫回应腋下管理",
+      "onboard_time": 1775232142,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 319897,
@@ -3609,6 +3633,14 @@
       "onboard_time": 1774767322,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269357,
+      "num": 164833,
+      "word": "谢娜李小冉亲了",
+      "onboard_time": 1775231723,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 268915,
@@ -9083,14 +9115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109349,
-      "num": 86168,
-      "word": "谢娜李小冉亲了",
-      "onboard_time": 1775231723,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109210,
       "num": 109210,
       "word": "迪丽热巴回复陈飞宇",
@@ -9737,6 +9761,14 @@
       "onboard_time": 1775172319,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102724,
+      "num": 102724,
+      "word": "美战机在伊朗坠毁美军展开搜救",
+      "onboard_time": 1775230882,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 102706,
@@ -10979,6 +11011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92252,
+      "num": 92252,
+      "word": "老爸评测涉多起纠纷",
+      "onboard_time": 1775231481,
+      "rank": 49,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 92249,
       "num": 153039,
       "word": "女子20万买170g金条藏豆瓣酱里",
@@ -11099,6 +11139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91340,
+      "num": 107316,
+      "word": "清华学霸一开口就把人点醒了",
+      "onboard_time": 1775234060,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91283,
       "num": 91283,
       "word": "刘昇彦加入AND2BLE",
@@ -11209,6 +11257,14 @@
       "onboard_time": 1775107582,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90827,
+      "num": 79490,
+      "word": "月鳞绮纪白日提灯谁能笑到最后",
+      "onboard_time": 1775233522,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 90733,
@@ -12451,6 +12507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83515,
+      "num": 79393,
+      "word": "温峥嵘赢了代斯100票",
+      "onboard_time": 1775230821,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83467,
       "num": 83467,
       "word": "迪丽热巴洛克巴比妆",
@@ -12849,6 +12913,14 @@
       "onboard_time": 1774789347,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80294,
+      "num": 80294,
+      "word": "AG回应0比4狼队",
+      "onboard_time": 1775232142,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 80278,
@@ -13731,14 +13803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73459,
-      "num": 73459,
-      "word": "女生午睡5小时被领导警告发视频哭诉",
-      "onboard_time": 1775231723,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73423,
       "num": 72018,
       "word": "张俪回应二搭迪丽热巴",
@@ -14105,14 +14169,6 @@
       "onboard_time": 1775126001,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70755,
-      "num": 70755,
-      "word": "美战机在伊朗坠毁美军展开搜救",
-      "onboard_time": 1775230882,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 70669,
@@ -14531,6 +14587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65642,
+      "num": 79109,
+      "word": "万千惠科班出身",
+      "onboard_time": 1775232861,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65630,
       "num": 65630,
       "word": "5岁男孩患病从小瘫痪突然站立",
@@ -14705,14 +14769,6 @@
       "onboard_time": 1775173642,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63731,
-      "num": 63731,
-      "word": "老爸评测涉多起纠纷",
-      "onboard_time": 1775231481,
-      "rank": 49,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 63414,
@@ -15035,6 +15091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59268,
+      "num": 79625,
+      "word": "王楚钦肩负独守重任累到干呕",
+      "onboard_time": 1775232202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58919,
       "num": 727833,
       "word": "洛克王国玩鸣式梗",
@@ -15307,6 +15371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54002,
+      "num": 79104,
+      "word": "清清又有决赛可以打了",
+      "onboard_time": 1775234839,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53800,
       "num": 83724,
       "word": "白鹿留洋大小姐造型",
@@ -15361,6 +15433,14 @@
       "onboard_time": 1774976180,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52177,
+      "num": 79076,
+      "word": "瞿颖点赞孙怡头身比",
+      "onboard_time": 1775231241,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 52039,
@@ -15515,12 +15595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49304,
+      "num": 79069,
+      "word": "89岁奶奶翻窗从27楼外墙爬到21楼",
+      "onboard_time": 1775235018,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49111,
       "num": 511337,
       "word": "酒类女性消费者崛起",
       "onboard_time": 1774784008,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49083,
+      "num": 79064,
+      "word": "王楚钦战胜F勒布伦",
+      "onboard_time": 1775234180,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 49025,
@@ -15545,6 +15641,14 @@
       "onboard_time": 1774857622,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48186,
+      "num": 79061,
+      "word": "金银再跌油价大涨",
+      "onboard_time": 1775232742,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 48123,
