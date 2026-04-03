@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775207818809,
+  "endTime": 1775211006308,
   "band_list": [
     {
       "raw_hot": 2023989,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889023,
+      "num": 363583,
+      "word": "父女双尸案女儿去世时仅重24公斤",
+      "onboard_time": 1775206822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848014,
       "num": 580732,
       "word": "霸王茶姬疑似被日本抄袭",
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785841,
+      "num": 1125734,
+      "word": "优思益发布海外工厂情况声明",
+      "onboard_time": 1775206042,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 772187,
       "num": 183722,
       "word": "特步二公主生娃",
@@ -81,14 +97,6 @@
       "onboard_time": 1775184681,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 662265,
-      "num": 1105962,
-      "word": "优思益发布海外工厂情况声明",
-      "onboard_time": 1775206042,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 651875,
@@ -131,11 +139,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568843,
+      "num": 817717,
+      "word": "女子把XXXXL号搁浅皇带鱼推回大海",
+      "onboard_time": 1775206642,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546490,
       "num": 814112,
       "word": "中方不认同伊朗对海合会国家攻击",
       "onboard_time": 1775202322,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 541021,
+      "num": 541021,
+      "word": "马兴瑞被查",
+      "onboard_time": 1775210841,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -209,6 +233,14 @@
       "onboard_time": 1775188522,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457776,
+      "num": 180514,
+      "word": "鸭嘴钳",
+      "onboard_time": 1775210841,
+      "rank": 11,
+      "category": "健康医疗,电影"
     },
     {
       "raw_hot": 455602,
@@ -307,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363583,
-      "num": 363583,
-      "word": "父女双尸案女儿去世时仅重24公斤",
-      "onboard_time": 1775206822,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343838,
       "num": 343838,
       "word": "张凌赫待播剧一个是医生一个是草根",
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321576,
+      "num": 180056,
+      "word": "方博回应国家队大门敞开",
+      "onboard_time": 1775207842,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318638,
       "num": 186461,
       "word": "医保政策调整",
@@ -339,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317093,
+      "num": 148151,
+      "word": "迪丽热巴素人婚纱模特时期",
+      "onboard_time": 1775205741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314143,
       "num": 301513,
       "word": "范丞丞赵今麦 绝命循环",
       "onboard_time": 1775192841,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309426,
+      "num": 309426,
+      "word": "红果全面下架桃花簪",
+      "onboard_time": 1775206281,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 304970,
@@ -387,11 +435,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283306,
-      "num": 148151,
-      "word": "迪丽热巴素人婚纱模特时期",
-      "onboard_time": 1775205741,
-      "rank": 23,
+      "raw_hot": 286250,
+      "num": 106092,
+      "word": "曝李马克签了李泳知公司",
+      "onboard_time": 1775210541,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -483,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261760,
+      "num": 261760,
+      "word": "陈都灵5万红包",
+      "onboard_time": 1775208383,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258155,
       "num": 258155,
       "word": "狗子误咬女主人被一顿胖揍",
@@ -531,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241904,
+      "num": 115857,
+      "word": "金道英发长文",
+      "onboard_time": 1775208921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239334,
       "num": 126441,
       "word": "学霸辞职读研",
@@ -555,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "女演员裙子着火一路奔跑跳进水中",
+      "onboard_time": 1775206882,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231996,
       "num": 231996,
       "word": "美国头大了",
@@ -577,6 +649,14 @@
       "onboard_time": 1775198184,
       "rank": 7,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 220390,
+      "num": 121362,
+      "word": "伊朗800公斤弹头砸向美军基地",
+      "onboard_time": 1775208203,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212469,
@@ -667,14 +747,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 182796,
-      "num": 182796,
-      "word": "红果全面下架桃花簪",
-      "onboard_time": 1775206281,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182340,
       "num": 182340,
       "word": "石破茂公开评价特朗普喜欢被奉承",
@@ -715,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172664,
+      "num": 172664,
+      "word": "我许可 性教育科普",
+      "onboard_time": 1775208203,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172061,
       "num": 172061,
       "word": "谢娜 真人秀直播是全新的尝试",
@@ -729,6 +809,14 @@
       "onboard_time": 1775201062,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164468,
+      "num": 164468,
+      "word": "云合",
+      "onboard_time": 1775205861,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 162582,
@@ -769,14 +857,6 @@
       "onboard_time": 1775132423,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152529,
-      "num": 134408,
-      "word": "云合",
-      "onboard_time": 1775205861,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 150631,
@@ -865,6 +945,14 @@
       "onboard_time": 1775130803,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137724,
+      "num": 126148,
+      "word": "iPhone18Pro深红配色",
+      "onboard_time": 1775205082,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 137613,
@@ -971,14 +1059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126148,
-      "num": 126148,
-      "word": "iPhone18Pro深红配色",
-      "onboard_time": 1775205082,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125657,
       "num": 180208,
       "word": "国乒女队伦敦世乒赛名单已确定",
@@ -1073,14 +1153,6 @@
       "onboard_time": 1775172500,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114401,
-      "num": 114401,
-      "word": "女演员裙子着火一路奔跑跳进水中",
-      "onboard_time": 1775206882,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114187,
@@ -1243,12 +1315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102041,
+      "num": 102041,
+      "word": "三甲医生回应张雪手掌太红了",
+      "onboard_time": 1775209824,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101495,
       "num": 101495,
       "word": "在不该读书的年纪读懂了英语",
       "onboard_time": 1775181921,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "美国博主中国游后抵达印度被惊呆",
+      "onboard_time": 1775207722,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101041,
@@ -1315,6 +1403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96737,
+      "num": 96737,
+      "word": "银河左岸音乐节阵容",
+      "onboard_time": 1775210422,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96357,
       "num": 96357,
       "word": "男子被诈骗8600元后自杀",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1775191643,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96071,
+      "num": 96071,
+      "word": "TOP崔胜铉新专辑",
+      "onboard_time": 1775210483,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 95927,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1775206222,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93562,
+      "num": 93562,
+      "word": "张雪14岁儿子已是专业级越野赛车手",
+      "onboard_time": 1775205501,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93246,
@@ -1435,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89779,
+      "num": 89779,
+      "word": "生娃后奶粉要AA女子后悔闪婚",
+      "onboard_time": 1775210663,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 89740,
       "num": 112696,
       "word": "8问充电宝新规",
@@ -1459,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88905,
-      "num": 88905,
-      "word": "张雪14岁儿子已是专业级越野赛车手",
-      "onboard_time": 1775205501,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88421,
       "num": 88421,
       "word": "RIIZE 不会忘记forever",
@@ -1483,19 +1595,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88184,
-      "num": 108047,
-      "word": "女子把XXXXL号搁浅皇带鱼推回大海",
-      "onboard_time": 1775206642,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87936,
       "num": 87936,
       "word": "陈幸同迪亚兹连续四局爆分",
       "onboard_time": 1775192482,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87711,
+      "num": 87711,
+      "word": "樊振东阿玛尼帅气版头",
+      "onboard_time": 1775209824,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1505,14 +1617,6 @@
       "onboard_time": 1775201601,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87042,
-      "num": 87042,
-      "word": "美国博主中国游后抵达印度被惊呆",
-      "onboard_time": 1775207722,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87012,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1775180360,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85763,
+      "num": 85763,
+      "word": "工作忙到这种程度",
+      "onboard_time": 1775210782,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 85688,
@@ -1713,6 +1825,14 @@
       "onboard_time": 1775130261,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 75470,
+      "num": 75470,
+      "word": "国乒男队世界杯战绩下滑3年",
+      "onboard_time": 1775210002,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 75326,
@@ -1907,6 +2027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49672,
+      "num": 129187,
+      "word": "医保新规全面叫停代刷代买",
+      "onboard_time": 1775209882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49506,
       "num": 74947,
       "word": "怦然心动20岁",
@@ -1993,6 +2121,14 @@
       "onboard_time": 1775173341,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34371,
+      "num": 627902,
+      "word": "不知道你是谁但知道你为了谁",
+      "onboard_time": 1775209102,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34304,
@@ -2124,6 +2260,9 @@
     },
     {
       "word": "#家国永念#"
+    },
+    {
+      "word": "#总书记讲述的英雄事迹#"
     }
   ]
 }
