@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775228020349,
+  "endTime": 1775228987982,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4712004,
+      "num": 4712004,
+      "word": "浪姐排名",
+      "onboard_time": 1775223984,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4682490,
       "num": 917891,
       "word": "JYP从JYP辞职了",
@@ -913,14 +921,6 @@
       "onboard_time": 1773233542,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3586207,
-      "num": 3586207,
-      "word": "浪姐排名",
-      "onboard_time": 1775223984,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3580894,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1769777545,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2889183,
+      "num": 736475,
+      "word": "浪姐改赛制",
+      "onboard_time": 1775228664,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2857817,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769680945,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1821754,
-      "num": 1821754,
-      "word": "伊朗正准备毁灭性报复行动",
-      "onboard_time": 1772265144,
-      "rank": 1,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
