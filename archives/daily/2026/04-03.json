@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775193201847,
+  "endTime": 1775195880801,
   "band_list": [
     {
       "raw_hot": 1454661,
@@ -35,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 793523,
+      "num": 167073,
+      "word": "时代峰峻高会声明",
+      "onboard_time": 1775193922,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667764,
       "num": 581844,
       "word": "黄灿灿浪姐直播闯祸",
@@ -65,6 +73,14 @@
       "onboard_time": 1775172379,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538091,
+      "num": 792806,
+      "word": "李亚鹏回应张雪卖车捐款嫣然",
+      "onboard_time": 1775191222,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505199,
@@ -187,20 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331358,
-      "num": 331358,
-      "word": "李亚鹏回应张雪卖车捐款嫣然",
-      "onboard_time": 1775191222,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318638,
       "num": 186461,
       "word": "医保政策调整",
       "onboard_time": 1775184801,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304940,
+      "num": 304940,
+      "word": "边牧在公路被抛弃遇到了真正的主人",
+      "onboard_time": 1775192003,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 304600,
@@ -275,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262886,
+      "num": 262886,
+      "word": "袁咏仪说浪姐请不到我李心洁请到",
+      "onboard_time": 1775194702,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261939,
       "num": 223400,
       "word": "谢娜终于结束了脚已麻",
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239334,
+      "num": 116311,
+      "word": "学霸辞职读研",
+      "onboard_time": 1775195001,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "阚清子出场",
@@ -337,6 +369,14 @@
       "onboard_time": 1775137103,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228648,
+      "num": 166130,
+      "word": "范丞丞赵今麦 绝命循环",
+      "onboard_time": 1775192841,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 200663,
@@ -371,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193413,
+      "num": 166465,
+      "word": "男子趁老婆上厕所称自己离异上台相亲",
+      "onboard_time": 1775194762,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190651,
       "num": 190651,
       "word": "五角大楼被曝紧急采购",
@@ -387,6 +435,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190538,
+      "num": 165768,
+      "word": "小伙网恋因一顿外卖15天闪婚",
+      "onboard_time": 1775194161,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182340,
       "num": 182340,
       "word": "石破茂公开评价特朗普喜欢被奉承",
@@ -401,6 +457,14 @@
       "onboard_time": 1775139865,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178714,
+      "num": 164912,
+      "word": "何润东回应不参加综艺",
+      "onboard_time": 1775190743,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 177110,
@@ -451,20 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155334,
-      "num": 155334,
-      "word": "何润东回应不参加综艺",
-      "onboard_time": 1775190743,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154245,
       "num": 75532,
       "word": "王俊凯送考徐洁儿",
       "onboard_time": 1775132423,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148927,
+      "num": 148927,
+      "word": "受不了声音大情绪太外化的人",
+      "onboard_time": 1775189963,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 148336,
@@ -513,14 +577,6 @@
       "onboard_time": 1775175923,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137125,
-      "num": 137125,
-      "word": "范丞丞赵今麦 绝命循环",
-      "onboard_time": 1775192841,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 136476,
@@ -603,12 +659,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120037,
-      "num": 117939,
-      "word": "边牧在公路被抛弃遇到了真正的主人",
-      "onboard_time": 1775192003,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 120414,
+      "num": 120414,
+      "word": "曝孔雪儿邓凯在谈三搭",
+      "onboard_time": 1775194161,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 119599,
@@ -617,14 +673,6 @@
       "onboard_time": 1775180541,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117979,
-      "num": 117979,
-      "word": "受不了声音大情绪太外化的人",
-      "onboard_time": 1775189963,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 117661,
@@ -699,6 +747,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 105071,
+      "num": 105071,
+      "word": "湖人惨败雷霆43分",
+      "onboard_time": 1775193681,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104513,
       "num": 104513,
       "word": "张雪回应浙创投投资9000万",
@@ -707,12 +763,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104014,
+      "num": 104014,
+      "word": "手掌太红大批网友提醒张雪及时就医",
+      "onboard_time": 1775195181,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103166,
       "num": 75486,
       "word": "迪丽热巴陈飞宇共创",
       "onboard_time": 1775144960,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103157,
+      "num": 103157,
+      "word": "伊朗再称击落美军F35战机",
+      "onboard_time": 1775195181,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103086,
+      "num": 103086,
+      "word": "找工作烦了我就这样刻薄",
+      "onboard_time": 1775195362,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 102725,
@@ -739,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98913,
+      "num": 98913,
+      "word": "苹果天价扫荡全球手机内存",
+      "onboard_time": 1775193801,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98655,
       "num": 73755,
       "word": "王俊凯乘风直播状态",
@@ -755,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97879,
+      "num": 97879,
+      "word": "猪精液制成的眼药水可治疗眼肿瘤",
+      "onboard_time": 1775195542,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97786,
       "num": 97786,
       "word": "当星星的孩子老了",
@@ -769,6 +865,14 @@
       "onboard_time": 1775186120,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96357,
+      "num": 96357,
+      "word": "男子被诈骗8600元后自杀",
+      "onboard_time": 1775194702,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96331,
@@ -803,12 +907,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95807,
+      "num": 95807,
+      "word": "中国中产还是lululemon的救命稻草吗",
+      "onboard_time": 1775194041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94972,
       "num": 94972,
       "word": "亲密关系里保持中立是一种冷漠",
       "onboard_time": 1775190022,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93246,
+      "num": 93246,
+      "word": "采茶阿姨哭诉饮用水质差",
+      "onboard_time": 1775193082,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91989,
@@ -843,19 +963,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89077,
+      "num": 89077,
+      "word": "优思益代工厂曾38次抽检均合格",
+      "onboard_time": 1775195841,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88353,
       "num": 88353,
       "word": "花花揉肚杀",
       "onboard_time": 1775184201,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88067,
-      "num": 88067,
-      "word": "采茶阿姨哭诉饮用水质差",
-      "onboard_time": 1775193082,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -889,6 +1009,14 @@
       "onboard_time": 1775174241,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84422,
+      "num": 84422,
+      "word": "沧元图",
+      "onboard_time": 1775193741,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 83104,
@@ -929,6 +1057,14 @@
       "onboard_time": 1775172980,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80520,
+      "num": 80520,
+      "word": "洛克王国世界给我打电话了",
+      "onboard_time": 1775195721,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 79994,
@@ -1211,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50154,
+      "num": 165579,
+      "word": "一汽大众全新纯电SUV谍照曝光",
+      "onboard_time": 1775193201,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49506,
       "num": 74947,
       "word": "怦然心动20岁",
@@ -1257,6 +1401,14 @@
       "onboard_time": 1775130863,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41730,
+      "num": 165126,
+      "word": "电池安全标准不止于国标",
+      "onboard_time": 1775193922,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 41194,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1775195880801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737660,
+        "num": 1118025,
+        "word": "原来身份证不是全国统一的",
+        "onboard_time": 1775188281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538091,
+        "num": 792806,
+        "word": "李亚鹏回应张雪卖车捐款嫣然",
+        "onboard_time": 1775191222,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29517,
+        "num": 660321,
+        "word": "致敬所有隐蔽战线的无名英雄",
+        "onboard_time": 1775187620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341662,
+        "num": 341662,
+        "word": "半个娱乐圈为它道歉谁该负责",
+        "onboard_time": 1775188821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328923,
+        "num": 328923,
+        "word": "韩国40岁导演遭围殴致死引众怒",
+        "onboard_time": 1775180480,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304940,
+        "num": 304940,
+        "word": "边牧在公路被抛弃遇到了真正的主人",
+        "onboard_time": 1775192003,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277984,
+        "num": 277984,
+        "word": "老爸评测就优思益事件道歉",
+        "onboard_time": 1775185460,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262886,
+        "num": 262886,
+        "word": "袁咏仪说浪姐请不到我李心洁请到",
+        "onboard_time": 1775194702,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248557,
+        "num": 248557,
+        "word": "张凌赫待播剧一个是医生一个是草根",
+        "onboard_time": 1775189542,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167466,
+        "num": 167466,
+        "word": "小米调价",
+        "onboard_time": 1775184320,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1036525,
+        "num": 167242,
+        "word": "白宫紧急下架特朗普讲话视频",
+        "onboard_time": 1775190743,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 793523,
+        "num": 167073,
+        "word": "时代峰峻高会声明",
+        "onboard_time": 1775193922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400219,
+        "num": 166862,
+        "word": "秦岚说沈月确实漂亮",
+        "onboard_time": 1775188522,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193413,
+        "num": 166465,
+        "word": "男子趁老婆上厕所称自己离异上台相亲",
+        "onboard_time": 1775194762,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397483,
+        "num": 166228,
+        "word": "黄灿灿浪姐直播闯祸",
+        "onboard_time": 1775184681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228648,
+        "num": 166130,
+        "word": "范丞丞赵今麦 绝命循环",
+        "onboard_time": 1775192841,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190538,
+        "num": 165768,
+        "word": "小伙网恋因一顿外卖15天闪婚",
+        "onboard_time": 1775194161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50154,
+        "num": 165579,
+        "word": "一汽大众全新纯电SUV谍照曝光",
+        "onboard_time": 1775193201,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266951,
+        "num": 165348,
+        "word": "张天爱变样了",
+        "onboard_time": 1775131882,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41730,
+        "num": 165126,
+        "word": "电池安全标准不止于国标",
+        "onboard_time": 1775193922,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178714,
+        "num": 164912,
+        "word": "何润东回应不参加综艺",
+        "onboard_time": 1775190743,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "王濛李小冉小声蛐蛐全被拍了",
+        "onboard_time": 1775189182,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163030,
+        "num": 163030,
+        "word": "涠洲岛20余艘观鲸船围堵鲸鱼",
+        "onboard_time": 1775189542,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222325,
+        "num": 162740,
+        "word": "张天爱发文回应变样",
+        "onboard_time": 1775172439,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148927,
+        "num": 148927,
+        "word": "受不了声音大情绪太外化的人",
+        "onboard_time": 1775189963,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139277,
+        "num": 139277,
+        "word": "乘风2026",
+        "onboard_time": 1775189122,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102085,
+        "num": 131422,
+        "word": "合资一发力车机TOP1",
+        "onboard_time": 1775191162,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126000,
+        "num": 126000,
+        "word": "会计的噩梦",
+        "onboard_time": 1775181501,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120414,
+        "num": 120414,
+        "word": "曝孔雪儿邓凯在谈三搭",
+        "onboard_time": 1775194161,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117975,
+        "num": 117975,
+        "word": "美国被曝想用停火换霍尔木兹海峡通航",
+        "onboard_time": 1775190743,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239334,
+        "num": 116311,
+        "word": "学霸辞职读研",
+        "onboard_time": 1775195001,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105071,
+        "num": 105071,
+        "word": "湖人惨败雷霆43分",
+        "onboard_time": 1775193681,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104014,
+        "num": 104014,
+        "word": "手掌太红大批网友提醒张雪及时就医",
+        "onboard_time": 1775195181,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103157,
+        "num": 103157,
+        "word": "伊朗再称击落美军F35战机",
+        "onboard_time": 1775195181,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103086,
+        "num": 103086,
+        "word": "找工作烦了我就这样刻薄",
+        "onboard_time": 1775195362,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100117,
+        "num": 100117,
+        "word": "18岁缉毒烈士牺牲时姿势让人破防",
+        "onboard_time": 1775189482,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98913,
+        "num": 98913,
+        "word": "苹果天价扫荡全球手机内存",
+        "onboard_time": 1775193801,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 97879,
+        "word": "猪精液制成的眼药水可治疗眼肿瘤",
+        "onboard_time": 1775195542,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96746,
+        "num": 96746,
+        "word": "医保政策调整",
+        "onboard_time": 1775184801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96408,
+        "num": 96408,
+        "word": "天龙三号",
+        "onboard_time": 1775190142,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96357,
+        "num": 96357,
+        "word": "男子被诈骗8600元后自杀",
+        "onboard_time": 1775194702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96085,
+        "num": 96085,
+        "word": "老虎伍兹被捕现场",
+        "onboard_time": 1775189482,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95807,
+        "num": 95807,
+        "word": "中国中产还是lululemon的救命稻草吗",
+        "onboard_time": 1775194041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93246,
+        "num": 93246,
+        "word": "采茶阿姨哭诉饮用水质差",
+        "onboard_time": 1775193082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89077,
+        "num": 89077,
+        "word": "优思益代工厂曾38次抽检均合格",
+        "onboard_time": 1775195841,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88286,
+        "num": 88286,
+        "word": "石破茂公开评价特朗普喜欢被奉承",
+        "onboard_time": 1775191462,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85943,
+        "num": 85943,
+        "word": "这个部位的脂肪可能是癌症推手",
+        "onboard_time": 1775192182,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84422,
+        "num": 84422,
+        "word": "沧元图",
+        "onboard_time": 1775193741,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 80520,
+        "num": 80520,
+        "word": "洛克王国世界给我打电话了",
+        "onboard_time": 1775195721,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73289,
+        "num": 73289,
+        "word": "冰湖重生OST歌词被指抄袭",
+        "onboard_time": 1775191402,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}
