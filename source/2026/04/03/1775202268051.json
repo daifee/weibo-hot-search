@@ -1,0 +1,410 @@
+{
+  "runTime": 1775202268051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478251,
+        "num": 1076520,
+        "word": "原来身份证不是全国统一的",
+        "onboard_time": 1775188281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415564,
+        "num": 788148,
+        "word": "国乒男线仅剩王楚钦",
+        "onboard_time": 1775199742,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24900,
+        "num": 621142,
+        "word": "致敬所有隐蔽战线的无名英雄",
+        "onboard_time": 1775187620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633964,
+        "num": 523690,
+        "word": "霸王茶姬疑似被日本抄袭",
+        "onboard_time": 1775197403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193348,
+        "num": 388949,
+        "word": "乒协提案避免王楚钦球拍受损重演",
+        "onboard_time": 1775199383,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366162,
+        "num": 366162,
+        "word": "男子趁老婆上厕所称自己离异上台相亲",
+        "onboard_time": 1775194762,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236870,
+        "num": 236870,
+        "word": "找工作烦了我就这样刻薄",
+        "onboard_time": 1775195362,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224891,
+        "num": 224891,
+        "word": "粉笔字为什么越写越往上飘",
+        "onboard_time": 1775198184,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140932,
+        "num": 140932,
+        "word": "老爸评测就优思益事件道歉",
+        "onboard_time": 1775185460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "伊朗再称击落美军F35战机",
+        "onboard_time": 1775195181,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1743373,
+        "num": 136141,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515374,
+        "num": 135362,
+        "word": "李永钦 退团瓜",
+        "onboard_time": 1775199803,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341503,
+        "num": 134759,
+        "word": "白宫紧急下架特朗普讲话视频",
+        "onboard_time": 1775190743,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380290,
+        "num": 133521,
+        "word": "时代峰峻高会声明",
+        "onboard_time": 1775193922,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304970,
+        "num": 133015,
+        "word": "广电总局批部分剧集演员妆容过重",
+        "onboard_time": 1775200223,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193942,
+        "num": 132176,
+        "word": "猪精液制成的眼药水可治疗眼肿瘤",
+        "onboard_time": 1775195542,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461460,
+        "num": 131756,
+        "word": "李马克退团手写信",
+        "onboard_time": 1775197462,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303105,
+        "num": 131138,
+        "word": "袁咏仪说浪姐请不到我李心洁请到",
+        "onboard_time": 1775194702,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130622,
+        "num": 130622,
+        "word": "跳完这舞身上滑溜溜的",
+        "onboard_time": 1775200342,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22125,
+        "num": 129762,
+        "word": "马克龙回应被特朗普调侃婚姻",
+        "onboard_time": 1775201362,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296606,
+        "num": 128407,
+        "word": "范丞丞赵今麦 绝命循环",
+        "onboard_time": 1775192841,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281089,
+        "num": 127310,
+        "word": "nctdream 小拇指",
+        "onboard_time": 1775200101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 127161,
+        "word": "高校殡葬专业学生没毕业就被抢空",
+        "onboard_time": 1775199383,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 211806,
+        "num": 126030,
+        "word": "乐华新男团将5人出道",
+        "onboard_time": 1775197283,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197896,
+        "num": 124681,
+        "word": "娱乐圈姓李的有点说法",
+        "onboard_time": 1775199921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123857,
+        "num": 123857,
+        "word": "韩国40岁导演遭围殴致死引众怒",
+        "onboard_time": 1775180480,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172020,
+        "num": 123689,
+        "word": "李楷灿 双队并行",
+        "onboard_time": 1775201062,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137556,
+        "num": 123408,
+        "word": "kpop七人团魔咒还在发力",
+        "onboard_time": 1775198662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122767,
+        "num": 122767,
+        "word": "手掌太红大批网友提醒张雪及时就医",
+        "onboard_time": 1775195181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131982,
+        "num": 121905,
+        "word": "张凌赫待播剧一个是医生一个是草根",
+        "onboard_time": 1775189542,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 121348,
+        "word": "香港女星在珠海买房",
+        "onboard_time": 1775201541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99872,
+        "num": 120909,
+        "word": "10岁男孩被超速车辆撞死判定同责",
+        "onboard_time": 1775197764,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120563,
+        "num": 120563,
+        "word": "李荣浩 哈尔滨见",
+        "onboard_time": 1775199682,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116819,
+        "num": 116819,
+        "word": "秦岚说沈月确实漂亮",
+        "onboard_time": 1775188522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89740,
+        "num": 112696,
+        "word": "8问充电宝新规",
+        "onboard_time": 1775202202,
+        "rank": 34,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 110702,
+        "num": 110702,
+        "word": "赵一博 受伤",
+        "onboard_time": 1775197524,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108228,
+        "num": 108228,
+        "word": "王濛李小冉小声蛐蛐全被拍了",
+        "onboard_time": 1775189182,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87562,
+        "num": 108028,
+        "word": "A股光概念大涨原因",
+        "onboard_time": 1775201601,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107998,
+        "num": 107998,
+        "word": "TOP铁了心要进步",
+        "onboard_time": 1775201183,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102449,
+        "num": 102449,
+        "word": "黄灿灿浪姐直播闯祸",
+        "onboard_time": 1775184681,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85875,
+        "num": 102413,
+        "word": "温瑞博vs林昀儒",
+        "onboard_time": 1775198063,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102381,
+        "num": 102381,
+        "word": "心疼朴志晟",
+        "onboard_time": 1775202082,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90503,
+        "num": 90503,
+        "word": "乘风2026",
+        "onboard_time": 1775189122,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85849,
+        "num": 85849,
+        "word": "半个娱乐圈为它道歉谁该负责",
+        "onboard_time": 1775188821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83424,
+        "num": 83424,
+        "word": "苹果天价扫荡全球手机内存",
+        "onboard_time": 1775193801,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82560,
+        "num": 82560,
+        "word": "A股超4500家个股下跌",
+        "onboard_time": 1775200101,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198116,
+        "num": 81944,
+        "word": "小伙网恋因一顿外卖15天闪婚",
+        "onboard_time": 1775194161,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79412,
+        "num": 79412,
+        "word": "冰湖重生剧方道歉",
+        "onboard_time": 1775202202,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78206,
+        "num": 78206,
+        "word": "俄罗斯不会向日本等不友好国家供油",
+        "onboard_time": 1775196380,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77323,
+        "num": 77323,
+        "word": "学霸辞职读研",
+        "onboard_time": 1775195001,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}

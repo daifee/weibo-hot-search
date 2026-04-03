@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775200861832,
+  "endTime": 1775202268051,
   "band_list": [
     {
       "raw_hot": 2023989,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515374,
+      "num": 487386,
+      "word": "李永钦 退团瓜",
+      "onboard_time": 1775199803,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505199,
       "num": 1064234,
       "word": "宝妈投诉蛋糕店未果反助店家爆单",
@@ -145,14 +153,6 @@
       "onboard_time": 1775131882,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 487386,
-      "num": 487386,
-      "word": "李永钦 退团瓜",
-      "onboard_time": 1775199803,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 482335,
@@ -201,6 +201,14 @@
       "onboard_time": 1775178861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415564,
+      "num": 813786,
+      "word": "国乒男线仅剩王楚钦",
+      "onboard_time": 1775199742,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 412037,
@@ -267,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304970,
+      "num": 133015,
+      "word": "广电总局批部分剧集演员妆容过重",
+      "onboard_time": 1775200223,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304940,
       "num": 304940,
       "word": "边牧在公路被抛弃遇到了真正的主人",
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281089,
+      "num": 222116,
+      "word": "nctdream 小拇指",
+      "onboard_time": 1775200101,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280061,
       "num": 582587,
       "word": "王濛 浪姐直播太磨叽了",
@@ -329,14 +353,6 @@
       "onboard_time": 1775181501,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 277081,
-      "num": 813786,
-      "word": "国乒男线仅剩王楚钦",
-      "onboard_time": 1775199742,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 274335,
@@ -435,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236870,
+      "num": 236870,
+      "word": "找工作烦了我就这样刻薄",
+      "onboard_time": 1775195362,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "阚清子出场",
@@ -451,12 +475,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222116,
-      "num": 222116,
-      "word": "nctdream 小拇指",
-      "onboard_time": 1775200101,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 224891,
+      "num": 523176,
+      "word": "粉笔字为什么越写越往上飘",
+      "onboard_time": 1775198184,
+      "rank": 7,
+      "category": "休闲"
     },
     {
       "raw_hot": 208980,
@@ -483,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197896,
+      "num": 124681,
+      "word": "娱乐圈姓李的有点说法",
+      "onboard_time": 1775199921,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196501,
       "num": 189605,
       "word": "乘风2026",
@@ -505,6 +537,14 @@
       "onboard_time": 1775172801,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 193348,
+      "num": 522696,
+      "word": "乒协提案避免王楚钦球拍受损重演",
+      "onboard_time": 1775199383,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 191152,
@@ -531,36 +571,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 184583,
-      "num": 523176,
-      "word": "粉笔字为什么越写越往上飘",
-      "onboard_time": 1775198184,
-      "rank": 7,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 182340,
       "num": 182340,
       "word": "石破茂公开评价特朗普喜欢被奉承",
       "onboard_time": 1775191462,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 181676,
-      "num": 522696,
-      "word": "乒协提案避免王楚钦球拍受损重演",
-      "onboard_time": 1775199383,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 181096,
-      "num": 181096,
-      "word": "找工作烦了我就这样刻薄",
-      "onboard_time": 1775195362,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 180486,
@@ -601,6 +617,14 @@
       "onboard_time": 1775186181,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172020,
+      "num": 123689,
+      "word": "李楷灿 双队并行",
+      "onboard_time": 1775201062,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 162582,
@@ -665,6 +689,14 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144197,
+      "num": 127161,
+      "word": "高校殡葬专业学生没毕业就被抢空",
+      "onboard_time": 1775199383,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 141735,
@@ -755,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128553,
+      "num": 121348,
+      "word": "香港女星在珠海买房",
+      "onboard_time": 1775201541,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128299,
       "num": 128299,
       "word": "18岁缉毒烈士牺牲时姿势让人破防",
@@ -827,14 +867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118563,
-      "num": 118563,
-      "word": "广电总局批部分剧集演员妆容过重",
-      "onboard_time": 1775200223,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 117661,
       "num": 117661,
       "word": "东契奇无对抗受伤",
@@ -883,8 +915,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110702,
+      "num": 110702,
+      "word": "赵一博 受伤",
+      "onboard_time": 1775197524,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109758,
-      "num": 109758,
+      "num": 120909,
       "word": "10岁男孩被超速车辆撞死判定同责",
       "onboard_time": 1775197764,
       "rank": 35,
@@ -907,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107998,
+      "num": 107998,
+      "word": "TOP铁了心要进步",
+      "onboard_time": 1775201183,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107183,
       "num": 87773,
       "word": "美撤换陆军参谋长",
       "onboard_time": 1775172619,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 105345,
-      "num": 105345,
-      "word": "高校殡葬专业学生没毕业就被抢空",
-      "onboard_time": 1775199383,
-      "rank": 37,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 105071,
@@ -977,6 +1017,14 @@
       "onboard_time": 1775186600,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102381,
+      "num": 102381,
+      "word": "心疼朴志晟",
+      "onboard_time": 1775202082,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 101495,
@@ -1139,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89740,
+      "num": 112696,
+      "word": "8问充电宝新规",
+      "onboard_time": 1775202202,
+      "rank": 34,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 89612,
       "num": 89612,
       "word": "南京警方侦破32年前命案",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1775192482,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87562,
+      "num": 108028,
+      "word": "A股光概念大涨原因",
+      "onboard_time": 1775201601,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 87012,
@@ -1281,6 +1345,14 @@
       "onboard_time": 1775185160,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79412,
+      "num": 79412,
+      "word": "冰湖重生剧方道歉",
+      "onboard_time": 1775202202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79285,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1775186721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22125,
+      "num": 129762,
+      "word": "马克龙回应被特朗普调侃婚姻",
+      "onboard_time": 1775201362,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17126,
