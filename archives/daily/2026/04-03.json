@@ -1,6 +1,6 @@
 {
   "startTime": 1775149484314,
-  "endTime": 1775214679727,
+  "endTime": 1775216684944,
   "band_list": [
     {
       "raw_hot": 2418500,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1057645,
+      "num": 1057645,
+      "word": "工信部紧急提醒苹果用户",
+      "onboard_time": 1775211921,
+      "rank": 3,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 889023,
       "num": 363583,
       "word": "父女双尸案女儿去世时仅重24公斤",
@@ -65,6 +73,14 @@
       "onboard_time": 1775197403,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 801345,
+      "num": 294501,
+      "word": "乘风初舞台直播",
+      "onboard_time": 1775215342,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 797426,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598426,
+      "num": 109474,
+      "word": "王橹杰画的咴",
+      "onboard_time": 1775215342,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575681,
       "num": 372170,
       "word": "月鳞绮纪破万",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 547099,
-      "num": 192058,
+      "num": 216963,
       "word": "鸭嘴钳",
       "onboard_time": 1775210841,
       "rank": 11,
@@ -241,14 +265,6 @@
       "onboard_time": 1775131882,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 483324,
-      "num": 992259,
-      "word": "工信部紧急提醒苹果用户",
-      "onboard_time": 1775211921,
-      "rank": 3,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 482335,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347379,
+      "num": 239922,
+      "word": "未婚 妇科检查",
+      "onboard_time": 1775214681,
+      "rank": 10,
+      "category": "电影,健康医疗"
+    },
+    {
       "raw_hot": 343838,
       "num": 343838,
       "word": "张凌赫待播剧一个是医生一个是草根",
@@ -467,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292308,
+      "num": 292308,
+      "word": "云初令全阵容发布",
+      "onboard_time": 1775212102,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286286,
       "num": 756993,
       "word": "嘴唇发紫博主称一直以为身体正常",
@@ -521,6 +553,14 @@
       "onboard_time": 1775181501,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 274412,
+      "num": 131037,
+      "word": "男子发私照让豆包测评身材被封号",
+      "onboard_time": 1775213361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274335,
@@ -579,12 +619,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259865,
+      "num": 259865,
+      "word": "张雪专门去查肝",
+      "onboard_time": 1775214442,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258155,
       "num": 258155,
       "word": "狗子误咬女主人被一顿胖揍",
       "onboard_time": 1775180541,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255995,
+      "num": 255995,
+      "word": "袁泉拍戏真做了胃镜",
+      "onboard_time": 1775213242,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 250351,
+      "num": 250351,
+      "word": "凤梨这样削皮有点奢侈了吧",
+      "onboard_time": 1775213843,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 247784,
@@ -683,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229797,
-      "num": 229797,
-      "word": "云初令全阵容发布",
-      "onboard_time": 1775212102,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224891,
       "num": 523176,
       "word": "粉笔字为什么越写越往上飘",
@@ -707,20 +763,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217992,
+      "num": 217992,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1775211502,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212469,
       "num": 141177,
       "word": "心疼朴志晟",
       "onboard_time": 1775202082,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211243,
-      "num": 131037,
-      "word": "男子发私照让豆包测评身材被封号",
-      "onboard_time": 1775213361,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208980,
@@ -737,6 +793,14 @@
       "onboard_time": 1775198063,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "莫氏鸡煲老板累趴全村动起来了",
+      "onboard_time": 1775213003,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200663,
@@ -883,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162787,
+      "num": 162787,
+      "word": "鞠婧祎优酷平台双破万一番女主",
+      "onboard_time": 1775214381,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162582,
       "num": 162582,
       "word": "25岁海警被走私艇冲撞牺牲画面",
@@ -913,14 +985,6 @@
       "onboard_time": 1775206042,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 158398,
-      "num": 158398,
-      "word": "莫氏鸡煲老板累趴全村动起来了",
-      "onboard_time": 1775213003,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154245,
@@ -969,14 +1033,6 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145000,
-      "num": 145000,
-      "word": "鞠婧祎优酷平台双破万一番女主",
-      "onboard_time": 1775214381,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 144197,
@@ -1099,28 +1155,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131107,
-      "num": 120749,
-      "word": "袁泉拍戏真做了胃镜",
-      "onboard_time": 1775213242,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131073,
       "num": 136555,
       "word": "合资一发力车机TOP1",
       "onboard_time": 1775191162,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 130027,
-      "num": 130027,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1775211502,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 129866,
@@ -1235,14 +1275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118932,
-      "num": 118932,
-      "word": "张雪专门去查肝",
-      "onboard_time": 1775214442,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117661,
       "num": 117661,
       "word": "东契奇无对抗受伤",
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "韩国遭围殴致死导演儿子目睹全程",
+      "onboard_time": 1775215222,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109758,
       "num": 120909,
       "word": "10岁男孩被超速车辆撞死判定同责",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1775201183,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107872,
+      "num": 107872,
+      "word": "17岁小伙体内藏了根十多年的缝衣针",
+      "onboard_time": 1775215462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107829,
@@ -1403,6 +1451,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 105258,
+      "num": 105258,
+      "word": "KT战胜GEN",
+      "onboard_time": 1775214263,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105071,
       "num": 105071,
       "word": "湖人惨败雷霆43分",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1775183421,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104179,
-      "num": 104179,
-      "word": "KT战胜GEN",
-      "onboard_time": 1775214263,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 103956,
@@ -1635,12 +1683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93943,
+      "num": 132921,
+      "word": "司机让行5分钟获上千名学生打招呼",
+      "onboard_time": 1775214023,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93685,
       "num": 93685,
       "word": "被衣服报复了",
       "onboard_time": 1775206222,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93644,
+      "num": 90034,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1775216243,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 93562,
@@ -1683,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91568,
+      "num": 91568,
+      "word": "老校长回应徒步祭英烈被指没苦硬吃",
+      "onboard_time": 1775215222,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91347,
       "num": 91347,
       "word": "詹姆斯自评生涯三大高光时刻",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1775182940,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90005,
+      "num": 90005,
+      "word": "优思益称无力售后",
+      "onboard_time": 1775216363,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89740,
@@ -1809,6 +1889,30 @@
       "onboard_time": 1775180360,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86419,
+      "num": 86419,
+      "word": "金正恩携妻女视察宠物店",
+      "onboard_time": 1775216243,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86227,
+      "num": 86227,
+      "word": "孙俪演的时候也咯噔了一下",
+      "onboard_time": 1775215462,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85938,
+      "num": 85938,
+      "word": "中方表态以色列通过死刑法案",
+      "onboard_time": 1775214982,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85763,
@@ -2371,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30199,
-      "num": 132921,
-      "word": "司机让行5分钟获上千名学生打招呼",
-      "onboard_time": 1775214023,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28560,
       "num": 74985,
       "word": "博主嘴唇发紫粉丝隔空诊出心脏病",
@@ -2425,6 +2521,14 @@
       "onboard_time": 1775201362,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19881,
+      "num": 90839,
+      "word": "女子称前夫离世遗产被其兄妹瓜分",
+      "onboard_time": 1775216422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17126,
