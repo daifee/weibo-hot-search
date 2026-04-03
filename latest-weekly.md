@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/04/04 02:58:26
+本榜单时间：2026/03/29 00:43:57 ~ 2026/04/04 03:12:53
 </p>
 </blockquote>
 <p>
@@ -12755,6 +12755,12 @@ vivo称V单是影像新物种（热度：24968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%AE%9A%E6%A1%A30401%23" target="weibo">
 月鳞绮纪定档0401（热度：18840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%B7%B2%E7%A0%B4%E4%B8%87%23" target="weibo">
+月鳞绮纪已破万（热度：18664）
 </a>
 </li>
 

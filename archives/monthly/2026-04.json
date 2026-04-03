@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775242706639,
+  "endTime": 1775243573452,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -8936,6 +8936,14 @@
       "word": "月鳞绮纪定档0401",
       "onboard_time": 1774981516,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18664,
+      "num": 30002,
+      "word": "月鳞绮纪已破万",
+      "onboard_time": 1775242755,
+      "rank": 44,
       "category": "剧集"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775242706639,
+  "endTime": 1775243573452,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -577,6 +577,14 @@
       "onboard_time": 1775239096,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18664,
+      "num": 30002,
+      "word": "月鳞绮纪已破万",
+      "onboard_time": 1775242755,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
