@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775231157922,
+  "endTime": 1775232077615,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1327693,
+      "num": 177817,
+      "word": "张若昀发唐艺昕直拍",
+      "onboard_time": 1775228364,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1311509,
       "num": 277603,
       "word": "汪东城愚人节退圈",
@@ -161,14 +169,6 @@
       "onboard_time": 1775054723,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1212357,
-      "num": 171383,
-      "word": "张若昀发唐艺昕直拍",
-      "onboard_time": 1775228364,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1207957,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 763970,
-      "num": 763970,
+      "num": 1110050,
       "word": "浪姐今晚不淘汰",
       "onboard_time": 1775228664,
       "rank": 3,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 627512,
+      "num": 170372,
+      "word": "金昊已被执行死刑",
+      "onboard_time": 1775229564,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626833,
       "num": 626833,
       "word": "王濛 我爱你中国",
@@ -665,14 +673,6 @@
       "onboard_time": 1775124681,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 611875,
-      "num": 160153,
-      "word": "金昊已被执行死刑",
-      "onboard_time": 1775229564,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 611762,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1775013024,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453543,
+      "num": 826313,
+      "word": "与辉同行宣布全额退款",
+      "onboard_time": 1775229864,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 451454,
@@ -1555,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 324694,
+      "num": 107826,
+      "word": "何宣林 给短人争气",
+      "onboard_time": 1775231542,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1775214442,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319433,
-      "num": 551370,
-      "word": "与辉同行宣布全额退款",
-      "onboard_time": 1775229864,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 318638,
@@ -3347,6 +3355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157339,
+      "num": 157339,
+      "word": "cpb减肥法",
+      "onboard_time": 1775227464,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157076,
       "num": 157076,
       "word": "鞋子太臭真的会燃起来",
@@ -3721,14 +3737,6 @@
       "onboard_time": 1775217623,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138219,
-      "num": 138219,
-      "word": "cpb减肥法",
-      "onboard_time": 1775227464,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 137821,
@@ -4729,6 +4737,14 @@
       "onboard_time": 1775189482,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109349,
+      "num": 86168,
+      "word": "谢娜李小冉亲了",
+      "onboard_time": 1775231723,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 109210,
@@ -6331,6 +6347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85760,
+      "num": 76698,
+      "word": "石明鑫脑王",
+      "onboard_time": 1775231001,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85688,
       "num": 85688,
       "word": "保时捷女销售否认年薪200万",
@@ -7179,6 +7203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73459,
+      "num": 73459,
+      "word": "女生午睡5小时被领导警告发视频哭诉",
+      "onboard_time": 1775231723,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73423,
       "num": 72018,
       "word": "张俪回应二搭迪丽热巴",
@@ -7379,14 +7411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70832,
-      "num": 70832,
-      "word": "石明鑫脑王",
-      "onboard_time": 1775231001,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70765,
       "num": 70765,
       "word": "假性带娃",
@@ -7417,6 +7441,14 @@
       "onboard_time": 1775094200,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70587,
+      "num": 70587,
+      "word": "范玮琪416票",
+      "onboard_time": 1775231902,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 70502,
@@ -7667,6 +7699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64437,
+      "num": 64437,
+      "word": "油价突然暴涨原因",
+      "onboard_time": 1775231723,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -7705,6 +7745,14 @@
       "onboard_time": 1775173642,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63731,
+      "num": 63731,
+      "word": "老爸评测涉多起纠纷",
+      "onboard_time": 1775231481,
+      "rank": 49,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 62980,
