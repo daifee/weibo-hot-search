@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 05:57:53
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/04 06:42:33
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ A股超4500家个股下跌（热度：131281）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9D%A0%E6%AF%81%E7%BE%8E%E5%86%9B%E5%B1%95%E5%BC%80%E6%90%9C%E6%95%91%23" target="weibo">
+美战机在伊朗坠毁美军展开搜救（热度：124797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E5%93%88%E5%B0%94%E6%BB%A8%E8%A7%81%23" target="weibo">
 李荣浩 哈尔滨见（热度：124605）
 </a>
@@ -3203,12 +3209,6 @@ A股超4500家个股下跌（热度：131281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 乒乓球世界杯（热度：122289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%9D%A0%E6%AF%81%E7%BE%8E%E5%86%9B%E5%B1%95%E5%BC%80%E6%90%9C%E6%95%91%23" target="weibo">
-美战机在伊朗坠毁美军展开搜救（热度：122179）
 </a>
 </li>
 

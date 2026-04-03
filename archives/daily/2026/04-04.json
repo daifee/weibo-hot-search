@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775253473401,
+  "endTime": 1775256153333,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124797,
+      "num": 124797,
+      "word": "美战机在伊朗坠毁美军展开搜救",
+      "onboard_time": 1775230882,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124516,
       "num": 97315,
       "word": "肖战十日终焉爆剧玄学",
@@ -233,14 +241,6 @@
       "onboard_time": 1775235558,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122179,
-      "num": 122179,
-      "word": "美战机在伊朗坠毁美军展开搜救",
-      "onboard_time": 1775230882,
-      "rank": 15,
-      "category": "军事"
     },
     {
       "raw_hot": 117836,
@@ -555,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30611,
+      "num": 33186,
+      "word": "伊朗施工者说遭袭大桥就像自家孩子",
+      "onboard_time": 1775239096,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20711,
+      "num": 29655,
+      "word": "优思益为何盈利有力售后无力",
+      "onboard_time": 1775245634,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20324,
       "num": 32842,
       "word": "钢铁森林开播",
@@ -571,20 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20004,
-      "num": 20004,
-      "word": "优思益为何盈利有力售后无力",
-      "onboard_time": 1775245634,
-      "rank": 41,
+      "raw_hot": 19683,
+      "num": 29644,
+      "word": "张雪说真男人说到做到",
+      "onboard_time": 1775245274,
+      "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19883,
-      "num": 33186,
-      "word": "伊朗施工者说遭袭大桥就像自家孩子",
-      "onboard_time": 1775239096,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18664,
@@ -595,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17512,
-      "num": 20648,
-      "word": "张雪说真男人说到做到",
-      "onboard_time": 1775245274,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14172,
-      "num": 19946,
+      "raw_hot": 17894,
+      "num": 29619,
       "word": "虞书欣云初策棋纵握一掌间",
       "onboard_time": 1775250674,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17020,
+      "num": 29611,
+      "word": "我的妈耶",
+      "onboard_time": 1775256076,
+      "rank": 49,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
