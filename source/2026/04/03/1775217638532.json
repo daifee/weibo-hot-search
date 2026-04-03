@@ -1,0 +1,410 @@
+{
+  "runTime": 1775217638532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051544,
+        "num": 1168247,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 0,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 812543,
+        "num": 848124,
+        "word": "马兴瑞被查",
+        "onboard_time": 1775210841,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29700,
+        "num": 687713,
+        "word": "不知道你是谁但知道你为了谁",
+        "onboard_time": 1775209102,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499945,
+        "num": 499945,
+        "word": "韩国遭围殴致死导演儿子目睹全程",
+        "onboard_time": 1775215222,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335733,
+        "num": 335733,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1775211502,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274033,
+        "num": 274033,
+        "word": "优思益发布海外工厂情况声明",
+        "onboard_time": 1775206042,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1441608,
+        "num": 269190,
+        "word": "乘风初舞台直播",
+        "onboard_time": 1775215342,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260887,
+        "num": 260887,
+        "word": "凤梨这样削皮有点奢侈了吧",
+        "onboard_time": 1775213843,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212370,
+        "num": 212370,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188651,
+        "num": 188651,
+        "word": "莫氏鸡煲老板累趴全村动起来了",
+        "onboard_time": 1775213003,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444409,
+        "num": 181753,
+        "word": "未婚 妇科检查",
+        "onboard_time": 1775214681,
+        "rank": 10,
+        "category": "电影,健康医疗"
+      },
+      {
+        "raw_hot": 255552,
+        "num": 178862,
+        "word": "袁泉拍戏真做了胃镜",
+        "onboard_time": 1775213242,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230516,
+        "num": 168214,
+        "word": "AG对战狼队",
+        "onboard_time": 1775214263,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251043,
+        "num": 158535,
+        "word": "云初令全阵容发布",
+        "onboard_time": 1775212102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150718,
+        "num": 150718,
+        "word": "浪姐赛制",
+        "onboard_time": 1775216962,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143066,
+        "num": 143066,
+        "word": "原来身份证不是全国统一的",
+        "onboard_time": 1775188281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141685,
+        "num": 141685,
+        "word": "红果全面下架桃花簪",
+        "onboard_time": 1775206281,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319897,
+        "num": 141571,
+        "word": "张雪专门去查肝",
+        "onboard_time": 1775214442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139290,
+        "num": 139290,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775216243,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129984,
+        "num": 129984,
+        "word": "乘风2026",
+        "onboard_time": 1775189122,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254962,
+        "num": 129648,
+        "word": "男子发私照让豆包测评身材被封号",
+        "onboard_time": 1775213361,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997510,
+        "num": 129290,
+        "word": "曝IU李钟硕分手",
+        "onboard_time": 1775211023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469416,
+        "num": 129054,
+        "word": "王橹杰画的咴",
+        "onboard_time": 1775215342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127129,
+        "num": 127129,
+        "word": "女子把XXXXL号搁浅皇带鱼推回大海",
+        "onboard_time": 1775206642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276637,
+        "num": 125459,
+        "word": "李马克解约退团",
+        "onboard_time": 1775196742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213120,
+        "num": 124496,
+        "word": "时代少年团物料重新上传",
+        "onboard_time": 1775211982,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123082,
+        "num": 123082,
+        "word": "董宇辉近30天掉粉超14万",
+        "onboard_time": 1775206042,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198447,
+        "num": 122349,
+        "word": "张凌赫因为帅被同学偷拍",
+        "onboard_time": 1775216722,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121422,
+        "num": 121422,
+        "word": "老校长回应徒步祭英烈被指没苦硬吃",
+        "onboard_time": 1775215222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221086,
+        "num": 118654,
+        "word": "疑似李马克退团的原因",
+        "onboard_time": 1775217082,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160410,
+        "num": 117260,
+        "word": "朴志晟泡泡发长文",
+        "onboard_time": 1775216841,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109537,
+        "num": 115666,
+        "word": "17岁小伙体内藏了根十多年的缝衣针",
+        "onboard_time": 1775215462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "云初令",
+        "onboard_time": 1775212344,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109923,
+        "num": 109923,
+        "word": "迪丽热巴素人婚纱模特时期",
+        "onboard_time": 1775205741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103932,
+        "num": 103932,
+        "word": "黄金大幅回调",
+        "onboard_time": 1775216901,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103316,
+        "num": 103316,
+        "word": "谢楠让谢娜回去主持",
+        "onboard_time": 1775212102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101838,
+        "num": 101838,
+        "word": "田曦薇陈星旭毕雯珺伪骄阳似我",
+        "onboard_time": 1775217203,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91654,
+        "num": 91654,
+        "word": "沧元图水墨打戏爽飞了",
+        "onboard_time": 1775217501,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97367,
+        "num": 91368,
+        "word": "尹子维录节目现场发飙",
+        "onboard_time": 1775215762,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28760,
+        "num": 91156,
+        "word": "女子称前夫离世遗产被其兄妹瓜分",
+        "onboard_time": 1775216422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88053,
+        "num": 90723,
+        "word": "KT战胜GEN",
+        "onboard_time": 1775214263,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23198,
+        "num": 90238,
+        "word": "TF绝色之夜顶级名利场",
+        "onboard_time": 1775213183,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90204,
+        "num": 90204,
+        "word": "时代峰峻高会声明",
+        "onboard_time": 1775193922,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84258,
+        "num": 88368,
+        "word": "菠萝排骨",
+        "onboard_time": 1775217383,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88093,
+        "num": 88093,
+        "word": "白日提灯",
+        "onboard_time": 1775213303,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86340,
+        "num": 86340,
+        "word": "心疼朴志晟",
+        "onboard_time": 1775202082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82765,
+        "num": 82765,
+        "word": "生娃后奶粉要AA女子后悔闪婚",
+        "onboard_time": 1775210663,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 80733,
+        "num": 80733,
+        "word": "方博回应国家队大门敞开",
+        "onboard_time": 1775207842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83336,
+        "num": 80610,
+        "word": "虞书欣云初令海报",
+        "onboard_time": 1775212702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81859,
+        "num": 80097,
+        "word": "美国第五舰队基地遭袭画面",
+        "onboard_time": 1775217563,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的英雄事迹#"
+    }
+  }
+}

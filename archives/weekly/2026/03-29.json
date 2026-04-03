@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775216684944,
+  "endTime": 1775217638532,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -251,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1441608,
+      "num": 294501,
+      "word": "乘风初舞台直播",
+      "onboard_time": 1775215342,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1409750,
       "num": 132701,
       "word": "曝IU李钟硕分手",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 1057645,
-      "num": 1057645,
+      "num": 1168247,
       "word": "工信部紧急提醒苹果用户",
       "onboard_time": 1775211921,
       "rank": 3,
@@ -624,14 +632,6 @@
       "word": "乘风直播节奏好慢",
       "onboard_time": 1775133564,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 801345,
-      "num": 294501,
-      "word": "乘风初舞台直播",
-      "onboard_time": 1775215342,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 598426,
-      "num": 109474,
+      "num": 129054,
       "word": "王橹杰画的咴",
       "onboard_time": 1775215342,
       "rank": 22,
@@ -1459,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499945,
+      "num": 499945,
+      "word": "韩国遭围殴致死导演儿子目睹全程",
+      "onboard_time": 1775215222,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 498640,
       "num": 440960,
       "word": "会计的噩梦",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1774940483,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 444409,
+      "num": 239922,
+      "word": "未婚 妇科检查",
+      "onboard_time": 1775214681,
+      "rank": 10,
+      "category": "电影,健康医疗"
     },
     {
       "raw_hot": 444338,
@@ -2411,14 +2427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 347379,
-      "num": 239922,
-      "word": "未婚 妇科检查",
-      "onboard_time": 1775214681,
-      "rank": 10,
-      "category": "电影,健康医疗"
-    },
-    {
       "raw_hot": 345518,
       "num": 1055282,
       "word": "黑龙江海林楼房坍塌致7死",
@@ -2473,6 +2481,14 @@
       "onboard_time": 1775132303,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335733,
+      "num": 335733,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1775211502,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 335529,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1775207842,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319897,
+      "num": 259865,
+      "word": "张雪专门去查肝",
+      "onboard_time": 1775214442,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318638,
@@ -3507,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260887,
+      "num": 260887,
+      "word": "凤梨这样削皮有点奢侈了吧",
+      "onboard_time": 1775213843,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260271,
       "num": 260271,
       "word": "何穗带娃看小动物",
@@ -3521,14 +3553,6 @@
       "onboard_time": 1775126722,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259865,
-      "num": 259865,
-      "word": "张雪专门去查肝",
-      "onboard_time": 1775214442,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259588,
@@ -3673,14 +3697,6 @@
       "onboard_time": 1774752321,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250351,
-      "num": 250351,
-      "word": "凤梨这样削皮有点奢侈了吧",
-      "onboard_time": 1775213843,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 250169,
@@ -4387,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221086,
+      "num": 118654,
+      "word": "疑似李马克退团的原因",
+      "onboard_time": 1775217082,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220979,
       "num": 220979,
       "word": "乘风每年邀请一个周杰伦前任",
@@ -4441,14 +4465,6 @@
       "onboard_time": 1775212344,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217992,
-      "num": 217992,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1775211502,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 217683,
@@ -4601,6 +4617,14 @@
       "onboard_time": 1775045121,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212370,
+      "num": 212370,
+      "word": "优思益称无力售后",
+      "onboard_time": 1775216363,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212328,
@@ -4857,6 +4881,14 @@
       "onboard_time": 1774843224,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198447,
+      "num": 122349,
+      "word": "张凌赫因为帅被同学偷拍",
+      "onboard_time": 1775216722,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 198270,
@@ -5987,6 +6019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160410,
+      "num": 117260,
+      "word": "朴志晟泡泡发长文",
+      "onboard_time": 1775216841,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159933,
       "num": 159933,
       "word": "森林北自曝曾抑制身高",
@@ -6257,6 +6297,14 @@
       "onboard_time": 1775131222,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150718,
+      "num": 150718,
+      "word": "浪姐赛制",
+      "onboard_time": 1775216962,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 150643,
@@ -6689,6 +6737,14 @@
       "onboard_time": 1774688241,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139290,
+      "num": 139290,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1775216243,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 139188,
@@ -7691,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121422,
+      "num": 121422,
+      "word": "老校长回应徒步祭英烈被指没苦硬吃",
+      "onboard_time": 1775215222,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121293,
       "num": 155594,
       "word": "男子逛妈祖庙偷走妈祖9190元金耳环",
@@ -8491,14 +8555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110426,
-      "num": 110426,
-      "word": "韩国遭围殴致死导演儿子目睹全程",
-      "onboard_time": 1775215222,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 110288,
       "num": 114768,
       "word": "4月5月6月每个月都有假",
@@ -8561,6 +8617,14 @@
       "onboard_time": 1774944682,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109537,
+      "num": 115666,
+      "word": "17岁小伙体内藏了根十多年的缝衣针",
+      "onboard_time": 1775215462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109491,
@@ -8777,14 +8841,6 @@
       "onboard_time": 1774892297,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 107872,
-      "num": 107872,
-      "word": "17岁小伙体内藏了根十多年的缝衣针",
-      "onboard_time": 1775215462,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107863,
@@ -9171,6 +9227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103932,
+      "num": 103932,
+      "word": "黄金大幅回调",
+      "onboard_time": 1775216901,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103922,
       "num": 103922,
       "word": "月鳞绮纪全员be",
@@ -9281,6 +9345,14 @@
       "onboard_time": 1775209824,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101838,
+      "num": 101838,
+      "word": "田曦薇陈星旭毕雯珺伪骄阳似我",
+      "onboard_time": 1775217203,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 101827,
@@ -9819,6 +9891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97367,
+      "num": 91368,
+      "word": "尹子维录节目现场发飙",
+      "onboard_time": 1775215762,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97347,
       "num": 97347,
       "word": "美军为在伊朗数周地面行动做准备",
@@ -10243,14 +10323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93644,
-      "num": 90034,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1775216243,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 93562,
       "num": 93562,
       "word": "张雪14岁儿子已是专业级越野赛车手",
@@ -10507,12 +10579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91568,
-      "num": 91568,
-      "word": "老校长回应徒步祭英烈被指没苦硬吃",
-      "onboard_time": 1775215222,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 91654,
+      "num": 91654,
+      "word": "沧元图水墨打戏爽飞了",
+      "onboard_time": 1775217501,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 91558,
@@ -10744,14 +10816,6 @@
       "word": "汉堡店踢踹4岁女孩女子已道歉",
       "onboard_time": 1775136863,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90005,
-      "num": 90005,
-      "word": "优思益称无力售后",
-      "onboard_time": 1775216363,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -11723,6 +11787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84258,
+      "num": 88368,
+      "word": "菠萝排骨",
+      "onboard_time": 1775217383,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84185,
       "num": 145358,
       "word": "鲍威尔讲话",
@@ -12041,6 +12113,14 @@
       "onboard_time": 1774857622,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81859,
+      "num": 80097,
+      "word": "美国第五舰队基地遭袭画面",
+      "onboard_time": 1775217563,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81790,
@@ -15595,6 +15675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28760,
+      "num": 91156,
+      "word": "女子称前夫离世遗产被其兄妹瓜分",
+      "onboard_time": 1775216422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28394,
       "num": 159687,
       "word": "全面开展国有馆藏文物盘库清点",
@@ -15968,14 +16056,6 @@
       "word": "原来你是这样的河南",
       "onboard_time": 1774701563,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19881,
-      "num": 90839,
-      "word": "女子称前夫离世遗产被其兄妹瓜分",
-      "onboard_time": 1775216422,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
