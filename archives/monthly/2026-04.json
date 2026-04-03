@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775223827301,
+  "endTime": 1775228020349,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -17,6 +17,14 @@
       "onboard_time": 1775049564,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3586207,
+      "num": 3586207,
+      "word": "浪姐排名",
+      "onboard_time": 1775223984,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2418500,
@@ -57,6 +65,14 @@
       "onboard_time": 1775023404,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1866507,
+      "num": 283357,
+      "word": "阚清子 尊重游戏规则",
+      "onboard_time": 1775223503,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1485358,
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1134245,
+      "num": 294934,
+      "word": "代斯票数",
+      "onboard_time": 1775221402,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1057645,
       "num": 1168247,
       "word": "工信部紧急提醒苹果用户",
@@ -185,14 +209,6 @@
       "onboard_time": 1775055624,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 949121,
-      "num": 294934,
-      "word": "代斯票数",
-      "onboard_time": 1775221402,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 948860,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 932334,
-      "num": 467339,
+      "num": 577035,
       "word": "阚清子唱哭了",
       "onboard_time": 1775223503,
       "rank": 5,
@@ -531,14 +547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 646450,
-      "num": 283357,
-      "word": "阚清子 尊重游戏规则",
-      "onboard_time": 1775223503,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 639685,
       "num": 234934,
       "word": "江语晨 跑调",
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626833,
+      "num": 626833,
+      "word": "王濛 我爱你中国",
+      "onboard_time": 1775225664,
+      "rank": 3,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 626216,
       "num": 285773,
       "word": "被易烊千玺骗到了",
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 611396,
-      "num": 819129,
+      "num": 1132112,
       "word": "王楚钦说不应该因比赛成绩嘲笑运动员",
       "onboard_time": 1775221583,
       "rank": 14,
@@ -705,6 +721,14 @@
       "onboard_time": 1774963464,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576456,
+      "num": 190313,
+      "word": "唐艺昕因皮肤原因4年未拍戏",
+      "onboard_time": 1775227344,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 575681,
@@ -1651,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301193,
+      "num": 131327,
+      "word": "肖战十日终焉爆剧玄学",
+      "onboard_time": 1775225664,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295160,
       "num": 328817,
       "word": "公安部力挺张雪新手禁令",
@@ -2579,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201700,
+      "num": 201700,
+      "word": "以色列铁穹被伊朗击穿",
+      "onboard_time": 1775226504,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200663,
       "num": 143207,
       "word": "谢娜回应乘风直播节奏慢",
@@ -2787,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184507,
+      "num": 131367,
+      "word": "王楚钦直言0比2落后真没机会",
+      "onboard_time": 1775224465,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182347,
       "num": 203568,
       "word": "主播陆续回应优思益售后",
@@ -2873,6 +2921,14 @@
       "onboard_time": 1775047583,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176676,
+      "num": 125316,
+      "word": "唐艺昕豆包造型",
+      "onboard_time": 1775227824,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 175350,
@@ -3025,6 +3081,14 @@
       "onboard_time": 1775020525,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165155,
+      "num": 118763,
+      "word": "王楚钦打完比赛又去加练",
+      "onboard_time": 1775227403,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 164468,
@@ -3193,6 +3257,14 @@
       "onboard_time": 1775056645,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157419,
+      "num": 157419,
+      "word": "没有一诺的AG",
+      "onboard_time": 1775226863,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 157076,
@@ -3563,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139079,
+      "num": 117556,
+      "word": "孩子一张口身份证掉出来了",
+      "onboard_time": 1775225966,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137821,
       "num": 137821,
       "word": "销冠澳洲优思益竟是假进口",
@@ -3721,6 +3801,14 @@
       "onboard_time": 1775173941,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131429,
+      "num": 131429,
+      "word": "Able队夺冠",
+      "onboard_time": 1775227524,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 131281,
@@ -4027,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122123,
+      "num": 116636,
+      "word": "油价暴涨背后原因",
+      "onboard_time": 1775227824,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122057,
       "num": 801423,
       "word": "多城实施住房公积金新政",
@@ -4185,6 +4281,14 @@
       "onboard_time": 1775057245,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118998,
+      "num": 118998,
+      "word": "东部战区发布海报为了这个省",
+      "onboard_time": 1775227645,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118972,
@@ -4755,12 +4859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104613,
+      "num": 104613,
+      "word": "宋雨琦迪士尼公主",
+      "onboard_time": 1775227103,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104554,
       "num": 104554,
       "word": "美博主称中国小学生胜过美国大学生",
       "onboard_time": 1774996397,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104516,
+      "num": 104516,
+      "word": "C罗梅西世纪同框",
+      "onboard_time": 1775225063,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 104513,
@@ -5547,6 +5667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91881,
+      "num": 91881,
+      "word": "赵本山女儿回应被骂网络乞丐",
+      "onboard_time": 1775226383,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91744,
+      "num": 91744,
+      "word": "最强大脑",
+      "onboard_time": 1775224044,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91654,
       "num": 91654,
       "word": "沧元图水墨打戏爽飞了",
@@ -5931,6 +6067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87419,
+      "num": 87419,
+      "word": "cpb减肥法",
+      "onboard_time": 1775227464,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 87322,
       "num": 97460,
       "word": "鞠婧祎首位演员热度值定档破9800万",
@@ -6161,6 +6305,14 @@
       "onboard_time": 1775052504,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85033,
+      "num": 85033,
+      "word": "王楚钦孙逊复盘比赛",
+      "onboard_time": 1775227583,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 84900,
@@ -6467,6 +6619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80459,
+      "num": 80459,
+      "word": "林孝埈最害怕的事",
+      "onboard_time": 1775225783,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80278,
       "num": 80278,
       "word": "马面裙当床帘",
@@ -6617,6 +6777,14 @@
       "onboard_time": 1775014466,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78013,
+      "num": 78013,
+      "word": "Paraboy独狼吃鸡",
+      "onboard_time": 1775227765,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 77690,
@@ -7731,6 +7899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50068,
+      "num": 157842,
+      "word": "王俊凯东方公子",
+      "onboard_time": 1775226863,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49981,
       "num": 54799,
       "word": "美军进攻伊朗岛屿将变成活靶子",
@@ -7889,6 +8065,14 @@
       "onboard_time": 1775113222,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44011,
+      "num": 98896,
+      "word": "揭秘日本为何提前部署远程导弹",
+      "onboard_time": 1775226444,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43735,
@@ -8180,7 +8364,7 @@
     },
     {
       "raw_hot": 30687,
-      "num": 635909,
+      "num": 867288,
       "word": "赏花踏青特色主题专列来了",
       "onboard_time": 1775222724,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775223827301,
+  "endTime": 1775228020349,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -913,6 +913,14 @@
       "onboard_time": 1773233542,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3586207,
+      "num": 3586207,
+      "word": "浪姐排名",
+      "onboard_time": 1775223984,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3580894,
@@ -2299,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1866507,
+      "num": 283357,
+      "word": "阚清子 尊重游戏规则",
+      "onboard_time": 1775223503,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1858016,
       "num": 2853494,
       "word": "千问",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1772265144,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1809688,
-      "num": 378264,
-      "word": "苏新皓哭了",
-      "onboard_time": 1769927840,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 1807451,
-      "num": 265373,
-      "word": "逐玉 爱奇艺",
-      "onboard_time": 1774098864,
-      "rank": 13,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
