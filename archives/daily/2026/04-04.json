@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775289254959,
+  "endTime": 1775289871271,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -315,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309666,
+      "num": 347654,
+      "word": "杨紫看了黄灿灿初舞台",
+      "onboard_time": 1775288239,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308296,
       "num": 477205,
       "word": "好多人装修没有去家务化的意识",
       "onboard_time": 1775258358,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306213,
+      "num": 439041,
+      "word": "美国提议停火48小时",
+      "onboard_time": 1775286920,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304753,
@@ -331,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301107,
-      "num": 439041,
-      "word": "美国提议停火48小时",
-      "onboard_time": 1775286920,
-      "rank": 3,
-      "category": "国际时政"
+      "raw_hot": 297523,
+      "num": 167987,
+      "word": "李倩月到死都不知道凶手是男友",
+      "onboard_time": 1775287701,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281690,
@@ -363,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251289,
-      "num": 347654,
-      "word": "杨紫看了黄灿灿初舞台",
-      "onboard_time": 1775288239,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 267555,
+      "num": 105416,
+      "word": "黄磊12岁二女儿身高",
+      "onboard_time": 1775287582,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 246338,
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225596,
+      "num": 262440,
+      "word": "逼出最强孙颖莎的高达才17岁",
+      "onboard_time": 1775287520,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219218,
       "num": 219218,
       "word": "孙颖莎把高达打无奈了",
@@ -425,6 +449,14 @@
       "onboard_time": 1775273060,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213846,
+      "num": 1034215,
+      "word": "十日终焉",
+      "onboard_time": 1775283800,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 213097,
@@ -515,14 +547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188834,
-      "num": 99790,
-      "word": "黄磊12岁二女儿身高",
-      "onboard_time": 1775287582,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182429,
       "num": 182429,
       "word": "美国教师为性侵学生与其母亲交往",
@@ -571,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167987,
-      "num": 167987,
-      "word": "李倩月到死都不知道凶手是男友",
-      "onboard_time": 1775287701,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167133,
       "num": 95784,
       "word": "温峥嵘 二重唱",
@@ -592,14 +608,6 @@
       "word": "孙颖莎5比11高达",
       "onboard_time": 1775283800,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 163425,
-      "num": 262440,
-      "word": "逼出最强孙颖莎的高达才17岁",
-      "onboard_time": 1775287520,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -617,14 +625,6 @@
       "onboard_time": 1775275100,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158086,
-      "num": 1025293,
-      "word": "十日终焉",
-      "onboard_time": 1775283800,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 158071,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 152354,
-      "num": 730537,
+      "num": 732662,
       "word": "孙颖莎4比3高达",
       "onboard_time": 1775284460,
       "rank": 27,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136736,
+      "num": 129437,
+      "word": "穆祉丞身后有整个家族撑腰",
+      "onboard_time": 1775287340,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136536,
       "num": 125533,
       "word": "肖战十日终焉爆剧玄学",
@@ -755,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131770,
+      "num": 131770,
+      "word": "孙颖莎说高达没防住",
+      "onboard_time": 1775289321,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131493,
       "num": 117328,
       "word": "孔令奇再办婚礼",
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127062,
+      "num": 127062,
+      "word": "TES对战iG",
+      "onboard_time": 1775288540,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125053,
       "num": 87274,
       "word": "乌兰图雅骑着马上台接受采访",
@@ -793,14 +817,6 @@
       "onboard_time": 1775267420,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122593,
-      "num": 122593,
-      "word": "穆祉丞身后有整个家族撑腰",
-      "onboard_time": 1775287340,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 121246,
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97743,
+      "num": 92635,
+      "word": "郭焱解说孙颖莎4比3高达",
+      "onboard_time": 1775288122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97546,
       "num": 97546,
       "word": "第一次走红毯的angelababy",
@@ -987,20 +1011,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92635,
-      "num": 92635,
-      "word": "郭焱解说孙颖莎4比3高达",
-      "onboard_time": 1775288122,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92252,
       "num": 101660,
       "word": "老爸评测涉多起纠纷",
       "onboard_time": 1775231481,
       "rank": 49,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 91624,
+      "num": 93057,
+      "word": "黄金大幅回落",
+      "onboard_time": 1775285961,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 90387,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1775196742,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89240,
+      "num": 84812,
+      "word": "何宣林回应是孟子义班主任",
+      "onboard_time": 1775289799,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 88471,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1775275460,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83556,
-      "num": 93057,
-      "word": "黄金大幅回落",
-      "onboard_time": 1775285961,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 83515,
@@ -1339,20 +1363,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69096,
+      "num": 69096,
+      "word": "郭焱说孙颖莎太牛了",
+      "onboard_time": 1775289261,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68459,
       "num": 68459,
       "word": "宋雨琦迪士尼公主",
       "onboard_time": 1775227103,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68447,
-      "num": 68447,
-      "word": "TES对战iG",
-      "onboard_time": 1775288540,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 68289,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1775284641,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66098,
+      "num": 66098,
+      "word": "爆火鸡煲店老板称用的冰冻鸡",
+      "onboard_time": 1775289799,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65942,
@@ -1483,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64063,
+      "num": 64063,
+      "word": "米饭冰淇淋",
+      "onboard_time": 1775287461,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 63859,
       "num": 63859,
       "word": "赵本山女儿回应被骂网络乞丐",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1775281220,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63225,
+      "num": 63225,
+      "word": "给小狗录鼻纹",
+      "onboard_time": 1775289381,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 62760,
@@ -1515,20 +1563,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62418,
+      "num": 62418,
+      "word": "对方的童年遇上了对方的未来",
+      "onboard_time": 1775289501,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61830,
       "num": 61830,
       "word": "温特首进世界杯4强",
       "onboard_time": 1775277920,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61803,
-      "num": 61803,
-      "word": "米饭冰淇淋",
-      "onboard_time": 1775287461,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 61595,
@@ -1755,6 +1803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 38289,
+      "num": 592273,
+      "word": "多巴胺花海惊艳上线",
+      "onboard_time": 1775287640,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37479,
       "num": 64085,
       "word": "鸡煲店老板喊话刘雨鑫探店其他美食",
@@ -1787,14 +1843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33227,
-      "num": 573241,
-      "word": "多巴胺花海惊艳上线",
-      "onboard_time": 1775287640,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33079,
       "num": 54717,
       "word": "陈奕恒海边花絮",
@@ -1819,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25947,
+      "num": 73858,
+      "word": "印度女子好心给水喝反遭强奸",
+      "onboard_time": 1775289080,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24644,
       "num": 51653,
       "word": "优思益为何盈利有力售后无力",
@@ -1832,6 +1888,14 @@
       "word": "赏花踏青特色主题专列来了",
       "onboard_time": 1775222724,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23706,
+      "num": 108528,
+      "word": "90后立遗嘱把压岁钱游戏账号给朋友",
+      "onboard_time": 1775288900,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1851,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19837,
-      "num": 100709,
-      "word": "90后立遗嘱把压岁钱游戏账号给朋友",
-      "onboard_time": 1775288900,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18664,
       "num": 30002,
       "word": "月鳞绮纪已破万",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1775250674,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11324,
-      "num": 73858,
-      "word": "印度女子好心给水喝反遭强奸",
-      "onboard_time": 1775289080,
-      "rank": 39,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
