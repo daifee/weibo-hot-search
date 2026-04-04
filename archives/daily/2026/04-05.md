@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 04:58:00
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 05:40:08
 </p>
 </blockquote>
 <p>
@@ -351,14 +351,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%92%B4%23" target="weibo">
-王橹杰咴（热度：26700）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%B8%80%E5%A4%A92%E6%9E%B6%E6%88%98%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%23" target="weibo">
+美军一天2架战机被伊朗击落（热度：28839）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%B8%80%E5%A4%A92%E6%9E%B6%E6%88%98%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%23" target="weibo">
-美军一天2架战机被伊朗击落（热度：25530）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%92%B4%23" target="weibo">
+王橹杰咴（热度：26700）
 </a>
 </li>
 
