@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775278724759,
+  "endTime": 1775279432455,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -131,12 +131,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 411929,
+      "num": 1065908,
+      "word": "清明上山扫墓却发现母亲的墓不见了",
+      "onboard_time": 1775276121,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411809,
       "num": 361736,
       "word": "何宣林 给短人争气",
       "onboard_time": 1775231542,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404277,
+      "num": 267972,
+      "word": "因为自制力差一下午赚了七千",
+      "onboard_time": 1775272220,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 402372,
@@ -163,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392315,
-      "num": 145801,
-      "word": "因为自制力差一下午赚了七千",
-      "onboard_time": 1775272220,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 380506,
+      "num": 380506,
+      "word": "凡人修仙传",
+      "onboard_time": 1775277440,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 371529,
@@ -203,14 +219,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 326345,
-      "num": 326345,
-      "word": "凡人修仙传",
-      "onboard_time": 1775277440,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 322995,
       "num": 1051679,
       "word": "华裔女子西安刚下飞机就被历史暴击",
@@ -227,19 +235,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 321910,
-      "num": 321910,
-      "word": "清明上山扫墓却发现母亲的墓不见了",
-      "onboard_time": 1775276121,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320563,
       "num": 159029,
       "word": "冯提莫回应腋下管理",
       "onboard_time": 1775232142,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316444,
+      "num": 263864,
+      "word": "王传君给陈赫送的花篮上叫他贤哥",
+      "onboard_time": 1775276540,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -251,20 +259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290947,
-      "num": 143296,
-      "word": "王传君给陈赫送的花篮上叫他贤哥",
-      "onboard_time": 1775276540,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 285527,
-      "num": 142837,
+      "raw_hot": 304753,
+      "num": 260938,
       "word": "南京被害女大学生父亲现状",
       "onboard_time": 1775274260,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281690,
+      "num": 281690,
+      "word": "原来真有人住的房子这么大",
+      "onboard_time": 1775274861,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 269357,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254292,
-      "num": 254292,
-      "word": "原来真有人住的房子这么大",
-      "onboard_time": 1775274861,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
@@ -291,8 +291,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233618,
-      "num": 138325,
+      "raw_hot": 239873,
+      "num": 239873,
       "word": "四月不能叫四月",
       "onboard_time": 1775276600,
       "rank": 15,
@@ -305,6 +305,14 @@
       "onboard_time": 1775219123,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214925,
+      "num": 155053,
+      "word": "午睡时间超1小时死亡风险增加30%",
+      "onboard_time": 1775273060,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213097,
@@ -363,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190342,
+      "num": 318701,
+      "word": "TXT新专 万妮达",
+      "onboard_time": 1775277319,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182429,
       "num": 182429,
       "word": "美国教师为性侵学生与其母亲交往",
@@ -377,14 +393,6 @@
       "onboard_time": 1775274920,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175986,
-      "num": 123533,
-      "word": "午睡时间超1小时死亡风险增加30%",
-      "onboard_time": 1775273060,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175602,
@@ -427,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159320,
+      "num": 277485,
+      "word": "何宣林的wink是专属李兰迪的",
+      "onboard_time": 1775275100,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158071,
       "num": 91782,
       "word": "孙怡 好美的洋娃娃",
@@ -444,19 +460,19 @@
     },
     {
       "raw_hot": 149070,
-      "num": 149070,
+      "num": 269921,
       "word": "入伍2年返校发现专业没了",
       "onboard_time": 1775274080,
       "rank": 8,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145847,
-      "num": 145847,
-      "word": "TXT新专 万妮达",
-      "onboard_time": 1775277319,
-      "rank": 9,
-      "category": "音乐"
+      "raw_hot": 147394,
+      "num": 257814,
+      "word": "孙颖莎vs高达",
+      "onboard_time": 1775278280,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 143271,
@@ -465,14 +481,6 @@
       "onboard_time": 1775234060,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142279,
-      "num": 142279,
-      "word": "何宣林的wink是专属李兰迪的",
-      "onboard_time": 1775275100,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 139863,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 131493,
-      "num": 116589,
+      "num": 117328,
       "word": "孔令奇再办婚礼",
       "onboard_time": 1775275880,
       "rank": 24,
@@ -603,20 +611,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 117006,
-      "num": 117006,
-      "word": "孙颖莎vs高达",
-      "onboard_time": 1775278280,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114907,
       "num": 114907,
       "word": "终于知道销冠为什么是销冠了",
       "onboard_time": 1775272279,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112261,
+      "num": 155065,
+      "word": "美军经历开战以来最黑暗24小时",
+      "onboard_time": 1775278521,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111225,
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104877,
+      "num": 104877,
+      "word": "钟辰乐泡泡",
+      "onboard_time": 1775275880,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104094,
       "num": 210229,
       "word": "马兴瑞涉嫌严重违纪违法",
@@ -659,14 +675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102862,
-      "num": 102862,
-      "word": "钟辰乐泡泡",
-      "onboard_time": 1775275880,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "东部战区发布海报为了这个省",
@@ -681,6 +689,14 @@
       "onboard_time": 1775215342,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97961,
+      "num": 97961,
+      "word": "林昀儒4比1张本智和",
+      "onboard_time": 1775279120,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 96096,
@@ -763,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88036,
+      "num": 88036,
+      "word": "94岁爷爷吃饭神似年迈的兔子",
+      "onboard_time": 1775275400,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87381,
       "num": 87381,
       "word": "特朗普计划拨款1.52亿重启恶魔岛",
@@ -771,20 +795,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86870,
-      "num": 86870,
-      "word": "94岁爷爷吃饭神似年迈的兔子",
-      "onboard_time": 1775275400,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86364,
       "num": 86364,
       "word": "美军黑鹰直升机疑似被伊朗击中",
       "onboard_time": 1775258539,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86138,
+      "num": 86138,
+      "word": "炒菜放盐时机有多重要",
+      "onboard_time": 1775277561,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 85760,
@@ -867,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80090,
+      "num": 80090,
+      "word": "五哈",
+      "onboard_time": 1775274981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79167,
       "num": 79167,
       "word": "鞠婧祎演完笑了一个小时吧",
@@ -905,22 +937,6 @@
       "onboard_time": 1775278280,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74305,
-      "num": 74305,
-      "word": "炒菜放盐时机有多重要",
-      "onboard_time": 1775277561,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 71947,
-      "num": 71947,
-      "word": "五哈",
-      "onboard_time": 1775274981,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 71224,
@@ -1059,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64780,
-      "num": 115433,
-      "word": "美军经历开战以来最黑暗24小时",
-      "onboard_time": 1775278521,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64658,
       "num": 64658,
       "word": "张雪一个子儿都没有的真相",
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61468,
+      "num": 61468,
+      "word": "世界上最高的种族南苏丹丁卡人",
+      "onboard_time": 1775274680,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60482,
       "num": 60482,
       "word": "东契奇将申请破例参与奖项评选",
@@ -1137,6 +1153,30 @@
       "onboard_time": 1775259439,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59988,
+      "num": 59988,
+      "word": "林昀儒晋级世界杯四强",
+      "onboard_time": 1775279061,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59597,
+      "num": 59597,
+      "word": "3岁萌娃第一次见到29岁烈士爷爷",
+      "onboard_time": 1775275280,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59471,
+      "num": 59471,
+      "word": "小狗刚长出的牙",
+      "onboard_time": 1775279360,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 59281,
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 36416,
-      "num": 631862,
+      "num": 632383,
       "word": "属于中国人的清明仪式感",
       "onboard_time": 1775271979,
       "rank": 2,

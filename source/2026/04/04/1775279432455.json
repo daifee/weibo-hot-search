@@ -1,0 +1,410 @@
+{
+  "runTime": 1775279432455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 411929,
+        "num": 1065908,
+        "word": "清明上山扫墓却发现母亲的墓不见了",
+        "onboard_time": 1775276121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285767,
+        "num": 762430,
+        "word": "华裔女子西安刚下飞机就被历史暴击",
+        "onboard_time": 1775272879,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30875,
+        "num": 632383,
+        "word": "属于中国人的清明仪式感",
+        "onboard_time": 1775271979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380506,
+        "num": 380506,
+        "word": "凡人修仙传",
+        "onboard_time": 1775277440,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190342,
+        "num": 318701,
+        "word": "TXT新专 万妮达",
+        "onboard_time": 1775277319,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281690,
+        "num": 281690,
+        "word": "原来真有人住的房子这么大",
+        "onboard_time": 1775274861,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180574,
+        "num": 279913,
+        "word": "美军2架黑鹰直升机被伊朗击中",
+        "onboard_time": 1775268679,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159320,
+        "num": 277485,
+        "word": "何宣林的wink是专属李兰迪的",
+        "onboard_time": 1775275100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158756,
+        "num": 273488,
+        "word": "王艺迪0比4温特",
+        "onboard_time": 1775274920,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147608,
+        "num": 269921,
+        "word": "入伍2年返校发现专业没了",
+        "onboard_time": 1775274080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404277,
+        "num": 267972,
+        "word": "因为自制力差一下午赚了七千",
+        "onboard_time": 1775272220,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316444,
+        "num": 263864,
+        "word": "王传君给陈赫送的花篮上叫他贤哥",
+        "onboard_time": 1775276540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304753,
+        "num": 260938,
+        "word": "南京被害女大学生父亲现状",
+        "onboard_time": 1775274260,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147394,
+        "num": 257814,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1775278280,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257607,
+        "num": 257607,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255104,
+        "num": 255104,
+        "word": "月鳞绮纪疑似不足1广",
+        "onboard_time": 1775272279,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239873,
+        "num": 239873,
+        "word": "四月不能叫四月",
+        "onboard_time": 1775276600,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232593,
+        "num": 232593,
+        "word": "何宣林是孟子义的大学班主任",
+        "onboard_time": 1775270721,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159503,
+        "num": 159503,
+        "word": "金典和浪姐分手了",
+        "onboard_time": 1775269400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112261,
+        "num": 155065,
+        "word": "美军经历开战以来最黑暗24小时",
+        "onboard_time": 1775278521,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340372,
+        "num": 155064,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214925,
+        "num": 155053,
+        "word": "午睡时间超1小时死亡风险增加30%",
+        "onboard_time": 1775273060,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154999,
+        "num": 154999,
+        "word": "阿娇首部短剧",
+        "onboard_time": 1775272220,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "孔令奇再办婚礼",
+        "onboard_time": 1775275880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115079,
+        "num": 115079,
+        "word": "1层3户只有1家被贴满小广告",
+        "onboard_time": 1775276840,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113323,
+        "num": 113323,
+        "word": "吴世勋solo单曲MV",
+        "onboard_time": 1775276481,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104877,
+        "num": 104877,
+        "word": "钟辰乐泡泡",
+        "onboard_time": 1775275880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100202,
+        "num": 100202,
+        "word": "终于知道销冠为什么是销冠了",
+        "onboard_time": 1775272279,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104809,
+        "num": 99437,
+        "word": "阚清子说很感谢倪萍",
+        "onboard_time": 1775269641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97961,
+        "num": 97961,
+        "word": "林昀儒4比1张本智和",
+        "onboard_time": 1775279120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215152,
+        "num": 97855,
+        "word": "女生午睡5小时被领导警告发视频哭诉",
+        "onboard_time": 1775231723,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97091,
+        "num": 97091,
+        "word": "塞车把周杰伦女儿急坏了",
+        "onboard_time": 1775268020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92140,
+        "num": 92140,
+        "word": "优思益",
+        "onboard_time": 1775271260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88036,
+        "num": 88036,
+        "word": "94岁爷爷吃饭神似年迈的兔子",
+        "onboard_time": 1775275400,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86138,
+        "num": 86138,
+        "word": "炒菜放盐时机有多重要",
+        "onboard_time": 1775277561,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81209,
+        "num": 81209,
+        "word": "张凌赫是在致敬罗晋给唐嫣拿糖吗",
+        "onboard_time": 1775262561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80090,
+        "num": 80090,
+        "word": "五哈",
+        "onboard_time": 1775274981,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73859,
+        "num": 73859,
+        "word": "美国教师为性侵学生与其母亲交往",
+        "onboard_time": 1775261300,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72728,
+        "num": 72728,
+        "word": "杨瀚森苦苦支撑",
+        "onboard_time": 1775276900,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70549,
+        "num": 70549,
+        "word": "19岁少女柬埔寨失联事件迎反转",
+        "onboard_time": 1775270540,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70353,
+        "num": 70353,
+        "word": "弗拉格空砍51分",
+        "onboard_time": 1775275941,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67866,
+        "num": 67866,
+        "word": "王楚钦说我敢说没有什么球能拉死我",
+        "onboard_time": 1775275460,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63618,
+        "num": 63618,
+        "word": "钢铁森林",
+        "onboard_time": 1775271260,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63015,
+        "num": 63015,
+        "word": "张雪一个子儿都没有的真相",
+        "onboard_time": 1775273179,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62121,
+        "num": 62121,
+        "word": "中国机器人公司日薪50万招人",
+        "onboard_time": 1775275581,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61468,
+        "num": 61468,
+        "word": "世界上最高的种族南苏丹丁卡人",
+        "onboard_time": 1775274680,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61114,
+        "num": 61114,
+        "word": "养猫的人没有私人空间",
+        "onboard_time": 1775278341,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59988,
+        "num": 59988,
+        "word": "林昀儒晋级世界杯四强",
+        "onboard_time": 1775279061,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59597,
+        "num": 59597,
+        "word": "3岁萌娃第一次见到29岁烈士爷爷",
+        "onboard_time": 1775275280,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59471,
+        "num": 59471,
+        "word": "小狗刚长出的牙",
+        "onboard_time": 1775279360,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情讲述的英雄故事#"
+    }
+  }
+}

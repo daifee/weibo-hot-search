@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775278724759,
+  "endTime": 1775279432455,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -2211,6 +2211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411929,
+      "num": 1065908,
+      "word": "清明上山扫墓却发现母亲的墓不见了",
+      "onboard_time": 1775276121,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411809,
       "num": 361736,
       "word": "何宣林 给短人争气",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1775039302,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 404277,
+      "num": 267972,
+      "word": "因为自制力差一下午赚了七千",
+      "onboard_time": 1775272220,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 401990,
@@ -2345,14 +2361,6 @@
       "onboard_time": 1775050344,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392315,
-      "num": 145801,
-      "word": "因为自制力差一下午赚了七千",
-      "onboard_time": 1775272220,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 392165,
@@ -2465,6 +2473,14 @@
       "onboard_time": 1774965805,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380506,
+      "num": 380506,
+      "word": "凡人修仙传",
+      "onboard_time": 1775277440,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 380160,
@@ -2899,14 +2915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326345,
-      "num": 326345,
-      "word": "凡人修仙传",
-      "onboard_time": 1775277440,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 326016,
       "num": 186561,
       "word": "吴楚一把陈牧驰还的钱捐了",
@@ -2968,14 +2976,6 @@
       "word": "上海交大校庆宣传片引争议",
       "onboard_time": 1774960885,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321910,
-      "num": 321910,
-      "word": "清明上山扫墓却发现母亲的墓不见了",
-      "onboard_time": 1775276121,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -3057,6 +3057,14 @@
       "onboard_time": 1775218820,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316444,
+      "num": 263864,
+      "word": "王传君给陈赫送的花篮上叫他贤哥",
+      "onboard_time": 1775276540,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 316039,
@@ -3217,6 +3225,14 @@
       "onboard_time": 1775192003,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304753,
+      "num": 260938,
+      "word": "南京被害女大学生父亲现状",
+      "onboard_time": 1775274260,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304600,
@@ -3387,14 +3403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290947,
-      "num": 143296,
-      "word": "王传君给陈赫送的花篮上叫他贤哥",
-      "onboard_time": 1775276540,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290691,
       "num": 290691,
       "word": "央视调查烧秸秆屡禁不止",
@@ -3483,14 +3491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 285527,
-      "num": 142837,
-      "word": "南京被害女大学生父亲现状",
-      "onboard_time": 1775274260,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285250,
       "num": 211177,
       "word": "王俊凯怎么哪里都有你",
@@ -3553,6 +3553,14 @@
       "onboard_time": 1775005882,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 281690,
+      "num": 281690,
+      "word": "原来真有人住的房子这么大",
+      "onboard_time": 1775274861,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 281089,
@@ -4091,14 +4099,6 @@
       "category": "民生新闻,作品衍生"
     },
     {
-      "raw_hot": 254292,
-      "num": 254292,
-      "word": "原来真有人住的房子这么大",
-      "onboard_time": 1775274861,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 252129,
       "num": 590830,
       "word": "广州高铁",
@@ -4371,6 +4371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 239873,
+      "num": 239873,
+      "word": "四月不能叫四月",
+      "onboard_time": 1775276600,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239593,
       "num": 930501,
       "word": "田曦薇直播",
@@ -4497,14 +4505,6 @@
       "onboard_time": 1774770749,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233618,
-      "num": 138325,
-      "word": "四月不能叫四月",
-      "onboard_time": 1775276600,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 233059,
@@ -4969,6 +4969,14 @@
       "onboard_time": 1774854682,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214925,
+      "num": 155053,
+      "word": "午睡时间超1小时死亡风险增加30%",
+      "onboard_time": 1775273060,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214163,
@@ -5675,6 +5683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190342,
+      "num": 318701,
+      "word": "TXT新专 万妮达",
+      "onboard_time": 1775277319,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190314,
       "num": 146431,
       "word": "张奕然参加艺考",
@@ -5969,14 +5985,6 @@
       "onboard_time": 1774861343,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175986,
-      "num": 123533,
-      "word": "午睡时间超1小时死亡风险增加30%",
-      "onboard_time": 1775273060,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175938,
@@ -6627,6 +6635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159320,
+      "num": 277485,
+      "word": "何宣林的wink是专属李兰迪的",
+      "onboard_time": 1775275100,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158856,
       "num": 158856,
       "word": "河南一高中近半历史老师无学生可教",
@@ -6996,7 +7012,7 @@
     },
     {
       "raw_hot": 149070,
-      "num": 149070,
+      "num": 269921,
       "word": "入伍2年返校发现专业没了",
       "onboard_time": 1775274080,
       "rank": 8,
@@ -7067,6 +7083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147394,
+      "num": 257814,
+      "word": "孙颖莎vs高达",
+      "onboard_time": 1775278280,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147154,
       "num": 109471,
       "word": "成都一凶宅96.6万成交后买家悔拍",
@@ -7089,14 +7113,6 @@
       "onboard_time": 1774756221,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145847,
-      "num": 145847,
-      "word": "TXT新专 万妮达",
-      "onboard_time": 1775277319,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 145767,
@@ -7225,14 +7241,6 @@
       "onboard_time": 1774744099,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 142279,
-      "num": 142279,
-      "word": "何宣林的wink是专属李兰迪的",
-      "onboard_time": 1775275100,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 142181,
@@ -7860,7 +7868,7 @@
     },
     {
       "raw_hot": 131493,
-      "num": 116589,
+      "num": 117328,
       "word": "孔令奇再办婚礼",
       "onboard_time": 1775275880,
       "rank": 24,
@@ -8939,14 +8947,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 117006,
-      "num": 117006,
-      "word": "孙颖莎vs高达",
-      "onboard_time": 1775278280,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116971,
       "num": 142669,
       "word": "初中毕业的张雪凭什么造出顶级发动机",
@@ -9225,6 +9225,14 @@
       "onboard_time": 1774752561,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112261,
+      "num": 155065,
+      "word": "美军经历开战以来最黑暗24小时",
+      "onboard_time": 1775278521,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112252,
@@ -9979,6 +9987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104877,
+      "num": 104877,
+      "word": "钟辰乐泡泡",
+      "onboard_time": 1775275880,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "许嵩第九张专辑 盛夏见",
@@ -10145,14 +10161,6 @@
       "onboard_time": 1775200523,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102862,
-      "num": 102862,
-      "word": "钟辰乐泡泡",
-      "onboard_time": 1775275880,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 102806,
@@ -10705,6 +10713,14 @@
       "onboard_time": 1775044283,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97961,
+      "num": 97961,
+      "word": "林昀儒4比1张本智和",
+      "onboard_time": 1775279120,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 97848,
@@ -12155,6 +12171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88036,
+      "num": 88036,
+      "word": "94岁爷爷吃饭神似年迈的兔子",
+      "onboard_time": 1775275400,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88033,
       "num": 88033,
       "word": "梁靖崑两战皆墨",
@@ -12363,14 +12387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86870,
-      "num": 86870,
-      "word": "94岁爷爷吃饭神似年迈的兔子",
-      "onboard_time": 1775275400,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86779,
       "num": 86779,
       "word": "广州塔暴雨中接闪电",
@@ -12465,6 +12481,14 @@
       "onboard_time": 1775215462,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86138,
+      "num": 86138,
+      "word": "炒菜放盐时机有多重要",
+      "onboard_time": 1775277561,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 86090,
@@ -13419,6 +13443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80090,
+      "num": 80090,
+      "word": "五哈",
+      "onboard_time": 1775274981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80026,
       "num": 98317,
       "word": "浙江宣传谈张雪说一个子都没有",
@@ -14203,14 +14235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74305,
-      "num": 74305,
-      "word": "炒菜放盐时机有多重要",
-      "onboard_time": 1775277561,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 74302,
       "num": 74302,
       "word": "意大利不敌波黑",
@@ -14505,14 +14529,6 @@
       "onboard_time": 1775144841,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71947,
-      "num": 71947,
-      "word": "五哈",
-      "onboard_time": 1775274981,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 71932,
@@ -15275,14 +15291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64780,
-      "num": 115433,
-      "word": "美军经历开战以来最黑暗24小时",
-      "onboard_time": 1775278521,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64764,
       "num": 135174,
       "word": "孙俪拍戏前找了心理医生",
@@ -15563,6 +15571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61468,
+      "num": 61468,
+      "word": "世界上最高的种族南苏丹丁卡人",
+      "onboard_time": 1775274680,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61370,
       "num": 144889,
       "word": "黑龙江海林一楼房坍塌9人被困",
@@ -15731,6 +15747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59988,
+      "num": 59988,
+      "word": "林昀儒晋级世界杯四强",
+      "onboard_time": 1775279061,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59961,
       "num": 130540,
       "word": "伊朗最高领袖哀悼革命卫队海军司令",
@@ -15761,6 +15785,22 @@
       "onboard_time": 1774913299,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59597,
+      "num": 59597,
+      "word": "3岁萌娃第一次见到29岁烈士爷爷",
+      "onboard_time": 1775275280,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59471,
+      "num": 59471,
+      "word": "小狗刚长出的牙",
+      "onboard_time": 1775279360,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 59281,
@@ -16940,7 +16980,7 @@
     },
     {
       "raw_hot": 36416,
-      "num": 631862,
+      "num": 632383,
       "word": "属于中国人的清明仪式感",
       "onboard_time": 1775271979,
       "rank": 2,
