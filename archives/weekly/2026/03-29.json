@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775293587931,
+  "endTime": 1775296129888,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -1643,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 512217,
+      "num": 1081954,
+      "word": "白日提灯反派骂女主台词",
+      "onboard_time": 1775291481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511307,
       "num": 511307,
       "word": "金典和浪姐分手了",
@@ -2096,6 +2104,14 @@
       "word": "娱乐圈姓李的有点说法",
       "onboard_time": 1775199921,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 439551,
+      "num": 97366,
+      "word": "虞书欣香水",
+      "onboard_time": 1775293881,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -2867,6 +2883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338459,
+      "num": 271631,
+      "word": "狗 爷爷这么做一定有他的道理",
+      "onboard_time": 1775291181,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337735,
       "num": 234885,
       "word": "妹妹看到姐姐遗体惨状当场崩溃",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1775211502,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335630,
+      "num": 335630,
+      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+      "onboard_time": 1775293641,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335529,
@@ -3081,6 +3113,14 @@
       "onboard_time": 1775232142,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320035,
+      "num": 320035,
+      "word": "莫氏鸡煲老板娘直呼生无可恋",
+      "onboard_time": 1775293340,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319897,
@@ -5091,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218352,
+      "num": 218352,
+      "word": "iG战胜TES",
+      "onboard_time": 1775294362,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217683,
       "num": 217683,
       "word": "4个炒菜习惯或让致癌物翻倍",
@@ -5105,6 +5153,14 @@
       "onboard_time": 1774857862,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216507,
+      "num": 94929,
+      "word": "刘耀文举宋亚轩路透",
+      "onboard_time": 1775294001,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 216150,
@@ -5907,6 +5963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189864,
+      "num": 189864,
+      "word": "埃及一航班行李全部丢失",
+      "onboard_time": 1775294183,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 189288,
       "num": 989883,
       "word": "蔡磊感觉最对不起的就是妻子",
@@ -6089,14 +6153,6 @@
       "onboard_time": 1775220322,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181168,
-      "num": 181168,
-      "word": "白日提灯反派骂女主台词",
-      "onboard_time": 1775291481,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 180705,
@@ -6555,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166082,
+      "num": 85008,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165843,
       "num": 154565,
       "word": "王俊凯回应拿错奖杯了",
@@ -6601,14 +6665,6 @@
       "onboard_time": 1775227403,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165083,
-      "num": 180984,
-      "word": "狗 爷爷这么做一定有他的道理",
-      "onboard_time": 1775291181,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 164637,
@@ -6705,6 +6761,14 @@
       "onboard_time": 1774966586,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 162669,
+      "num": 84858,
+      "word": "韩国男子将女友制成木乃伊藏尸",
+      "onboard_time": 1775293100,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162630,
@@ -8227,6 +8291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130629,
+      "num": 130629,
+      "word": "嫌顾客消费86元太少商家被处罚",
+      "onboard_time": 1775294001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130406,
       "num": 130406,
       "word": "裴珠泫回归",
@@ -9267,6 +9339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116787,
+      "num": 108549,
+      "word": "范玮琪希望网友不要被舆论带偏",
+      "onboard_time": 1775292079,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116757,
       "num": 116757,
       "word": "苹果3月下架14款设备",
@@ -9707,6 +9787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110147,
+      "num": 110147,
+      "word": "汉娜高达创造历史",
+      "onboard_time": 1775294541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110049,
       "num": 110049,
       "word": "真正好的关系结束也是体面的",
@@ -9889,14 +9977,6 @@
       "onboard_time": 1775112681,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108549,
-      "num": 108549,
-      "word": "范玮琪希望网友不要被舆论带偏",
-      "onboard_time": 1775292079,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 108475,
@@ -10545,6 +10625,14 @@
       "onboard_time": 1775105963,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102065,
+      "num": 102065,
+      "word": "1099元内衣外穿年轻人买单吗",
+      "onboard_time": 1775294240,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 102041,
@@ -12819,6 +12907,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 86436,
+      "num": 86436,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86419,
       "num": 86419,
       "word": "金正恩携妻女视察宠物店",
@@ -13403,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83347,
+      "num": 83347,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 83249,
       "num": 500405,
       "word": "韩网曝Ruler税务问题",
@@ -13579,6 +13683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82209,
+      "num": 82209,
+      "word": "伊朗用重火力回应美临时停火建议",
+      "onboard_time": 1775293100,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82207,
       "num": 82207,
       "word": "郭晶晶谈什么是好家风",
@@ -13715,14 +13827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81386,
-      "num": 81386,
-      "word": "韩国男子将女友制成木乃伊藏尸",
-      "onboard_time": 1775293100,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 81334,
       "num": 81334,
       "word": "浙江人的老式早餐",
@@ -13825,6 +13929,14 @@
       "onboard_time": 1774789347,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80296,
+      "num": 80296,
+      "word": "土耳其狂抛近120吨黄金",
+      "onboard_time": 1775294779,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 80278,
@@ -15083,6 +15195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71405,
+      "num": 71405,
+      "word": "JackeyLove零击杀",
+      "onboard_time": 1775295740,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71396,
       "num": 71396,
       "word": "乘风2026投票",
@@ -15153,6 +15273,14 @@
       "onboard_time": 1774968446,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71012,
+      "num": 126220,
+      "word": "瑞幸一门店被调侃像公厕",
+      "onboard_time": 1775292979,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70956,
@@ -15265,14 +15393,6 @@
       "onboard_time": 1775291362,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70158,
-      "num": 70158,
-      "word": "解决了辣条的油腻和减脂餐的清淡",
-      "onboard_time": 1775292501,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 70134,
@@ -15443,12 +15563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68666,
-      "num": 68666,
-      "word": "莫氏鸡煲老板娘直呼生无可恋",
-      "onboard_time": 1775293340,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 68638,
+      "num": 68638,
+      "word": "葛夕分享do鼻子经验",
+      "onboard_time": 1775293881,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 68550,
@@ -15931,6 +16051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64168,
+      "num": 64168,
+      "word": "猫是铁饭是钢",
+      "onboard_time": 1775295860,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64139,
       "num": 64139,
       "word": "广东人有自己的广东辣",
@@ -16091,6 +16219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62500,
+      "num": 62420,
+      "word": "烧纸钱会不会导致阴间通胀",
+      "onboard_time": 1775295199,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62441,
       "num": 62441,
       "word": "林允王彦霖撤回一个床戏",
@@ -16113,6 +16249,14 @@
       "onboard_time": 1774947924,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62269,
+      "num": 62269,
+      "word": "TOP演唱会首次公开销量",
+      "onboard_time": 1775295801,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 62231,
@@ -17153,14 +17297,6 @@
       "onboard_time": 1775057603,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46625,
-      "num": 126220,
-      "word": "瑞幸一门店被调侃像公厕",
-      "onboard_time": 1775292979,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46386,
@@ -18275,6 +18411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23625,
+      "num": 97885,
+      "word": "00后白事唢呐师称不愿让孩子接班",
+      "onboard_time": 1775295380,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23550,
       "num": 134816,
       "word": "达人带货保健品佣金高至80%",
@@ -18539,6 +18683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18099,
+      "num": 627343,
+      "word": "文旅共绘诗与远方新画卷",
+      "onboard_time": 1775287400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17971,
       "num": 22060,
       "word": "王俊凯无人乐园首秀live",
@@ -18785,14 +18937,6 @@
       "onboard_time": 1774731975,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12906,
-      "num": 615931,
-      "word": "文旅共绘诗与远方新画卷",
-      "onboard_time": 1775287400,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12198,

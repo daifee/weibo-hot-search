@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775293587931,
+  "endTime": 1775296129888,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512217,
+      "num": 1081954,
+      "word": "白日提灯反派骂女主台词",
+      "onboard_time": 1775291481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511307,
       "num": 511307,
       "word": "金典和浪姐分手了",
@@ -201,6 +209,14 @@
       "onboard_time": 1775289799,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439551,
+      "num": 97366,
+      "word": "虞书欣香水",
+      "onboard_time": 1775293881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 411809,
@@ -299,6 +315,22 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 338459,
+      "num": 271631,
+      "word": "狗 爷爷这么做一定有他的道理",
+      "onboard_time": 1775291181,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 335630,
+      "num": 335630,
+      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+      "onboard_time": 1775293641,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335006,
       "num": 335006,
       "word": "当你以为回县城老家是退路时",
@@ -329,6 +361,14 @@
       "onboard_time": 1775232142,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320035,
+      "num": 320035,
+      "word": "莫氏鸡煲老板娘直呼生无可恋",
+      "onboard_time": 1775293340,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316982,
@@ -467,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218352,
+      "num": 218352,
+      "word": "iG战胜TES",
+      "onboard_time": 1775294362,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218298,
       "num": 195602,
       "word": "当你过午不食六个月",
       "onboard_time": 1775219123,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216507,
+      "num": 94929,
+      "word": "刘耀文举宋亚轩路透",
+      "onboard_time": 1775294001,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 214925,
@@ -587,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189864,
+      "num": 189864,
+      "word": "埃及一航班行李全部丢失",
+      "onboard_time": 1775294183,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182429,
       "num": 182429,
       "word": "美国教师为性侵学生与其母亲交往",
@@ -601,14 +665,6 @@
       "onboard_time": 1775274920,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181168,
-      "num": 181168,
-      "word": "白日提灯反派骂女主台词",
-      "onboard_time": 1775291481,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 180364,
@@ -659,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165083,
-      "num": 180984,
-      "word": "狗 爷爷这么做一定有他的道理",
-      "onboard_time": 1775291181,
+      "raw_hot": 166082,
+      "num": 85008,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
       "rank": 30,
-      "category": "幽默"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164448,
@@ -673,6 +729,14 @@
       "onboard_time": 1775283800,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162669,
+      "num": 84858,
+      "word": "韩国男子将女友制成木乃伊藏尸",
+      "onboard_time": 1775293100,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160242,
@@ -835,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130629,
+      "num": 130629,
+      "word": "嫌顾客消费86元太少商家被处罚",
+      "onboard_time": 1775294001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129506,
       "num": 121146,
       "word": "张凌赫是在致敬罗晋给唐嫣拿糖吗",
@@ -907,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116787,
+      "num": 108549,
+      "word": "范玮琪希望网友不要被舆论带偏",
+      "onboard_time": 1775292079,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114907,
       "num": 114907,
       "word": "终于知道销冠为什么是销冠了",
@@ -955,12 +1035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108549,
-      "num": 108549,
-      "word": "范玮琪希望网友不要被舆论带偏",
-      "onboard_time": 1775292079,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 110147,
+      "num": 110147,
+      "word": "汉娜高达创造历史",
+      "onboard_time": 1775294541,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 107919,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1775280141,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102065,
+      "num": 102065,
+      "word": "1099元内衣外穿年轻人买单吗",
+      "onboard_time": 1775294240,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 100821,
@@ -1179,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86436,
+      "num": 86436,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86364,
       "num": 86364,
       "word": "美军黑鹰直升机疑似被伊朗击中",
@@ -1259,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83347,
+      "num": 83347,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "郭富城小女儿近照",
@@ -1275,20 +1379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82209,
+      "num": 82209,
+      "word": "伊朗用重火力回应美临时停火建议",
+      "onboard_time": 1775293100,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81711,
       "num": 81711,
       "word": "孩子一张口身份证掉出来了",
       "onboard_time": 1775225966,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81386,
-      "num": 81386,
-      "word": "韩国男子将女友制成木乃伊藏尸",
-      "onboard_time": 1775293100,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 80892,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1775270600,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80296,
+      "num": 80296,
+      "word": "土耳其狂抛近120吨黄金",
+      "onboard_time": 1775294779,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 80090,
@@ -1427,12 +1539,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71405,
+      "num": 71405,
+      "word": "JackeyLove零击杀",
+      "onboard_time": 1775295740,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71224,
       "num": 71224,
       "word": "喜人在张杰鸟巢演唱会团建",
       "onboard_time": 1775258599,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71012,
+      "num": 126220,
+      "word": "瑞幸一门店被调侃像公厕",
+      "onboard_time": 1775292979,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70587,
@@ -1457,14 +1585,6 @@
       "onboard_time": 1775291362,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70158,
-      "num": 70158,
-      "word": "解决了辣条的油腻和减脂餐的清淡",
-      "onboard_time": 1775292501,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 69774,
@@ -1507,12 +1627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68666,
-      "num": 68666,
-      "word": "莫氏鸡煲老板娘直呼生无可恋",
-      "onboard_time": 1775293340,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 68638,
+      "num": 68638,
+      "word": "葛夕分享do鼻子经验",
+      "onboard_time": 1775293881,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 68459,
@@ -1675,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64168,
+      "num": 64168,
+      "word": "猫是铁饭是钢",
+      "onboard_time": 1775295860,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64139,
       "num": 64139,
       "word": "广东人有自己的广东辣",
@@ -1731,12 +1859,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62500,
+      "num": 62420,
+      "word": "烧纸钱会不会导致阴间通胀",
+      "onboard_time": 1775295199,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62418,
       "num": 62418,
       "word": "对方的童年遇上了对方的未来",
       "onboard_time": 1775289501,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62269,
+      "num": 62269,
+      "word": "TOP演唱会首次公开销量",
+      "onboard_time": 1775295801,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 61875,
@@ -1971,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46625,
-      "num": 126220,
-      "word": "瑞幸一门店被调侃像公厕",
-      "onboard_time": 1775292979,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45343,
       "num": 53986,
       "word": "洛阳牡丹花太美了",
@@ -2091,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23625,
+      "num": 97885,
+      "word": "00后白事唢呐师称不愿让孩子接班",
+      "onboard_time": 1775295380,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21745,
       "num": 51642,
       "word": "张雪说真男人说到做到",
@@ -2115,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18099,
+      "num": 627343,
+      "word": "文旅共绘诗与远方新画卷",
+      "onboard_time": 1775287400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17894,
       "num": 29619,
       "word": "虞书欣云初策棋纵握一掌间",
@@ -2129,14 +2281,6 @@
       "onboard_time": 1775291780,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12906,
-      "num": 615931,
-      "word": "文旅共绘诗与远方新画卷",
-      "onboard_time": 1775287400,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

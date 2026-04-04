@@ -1,0 +1,410 @@
+{
+  "runTime": 1775296129888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512217,
+        "num": 1081954,
+        "word": "白日提灯反派骂女主台词",
+        "onboard_time": 1775291481,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421469,
+        "num": 776887,
+        "word": "爆火鸡煲店老板称用的冰冻鸡",
+        "onboard_time": 1775289799,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18099,
+        "num": 627343,
+        "word": "文旅共绘诗与远方新画卷",
+        "onboard_time": 1775287400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335630,
+        "num": 335630,
+        "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+        "onboard_time": 1775293641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320035,
+        "num": 320035,
+        "word": "莫氏鸡煲老板娘直呼生无可恋",
+        "onboard_time": 1775293340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338459,
+        "num": 271631,
+        "word": "狗 爷爷这么做一定有他的道理",
+        "onboard_time": 1775291181,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218352,
+        "num": 218352,
+        "word": "iG战胜TES",
+        "onboard_time": 1775294362,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189864,
+        "num": 189864,
+        "word": "埃及一航班行李全部丢失",
+        "onboard_time": 1775294183,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137534,
+        "num": 137534,
+        "word": "美国提议停火48小时",
+        "onboard_time": 1775286920,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "嫌顾客消费86元太少商家被处罚",
+        "onboard_time": 1775294001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397133,
+        "num": 130604,
+        "word": "虞书欣签售会",
+        "onboard_time": 1775287280,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364721,
+        "num": 129599,
+        "word": "何宣林回应是孟子义班主任",
+        "onboard_time": 1775289799,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198091,
+        "num": 128589,
+        "word": "印度女子好心给水喝反遭强奸",
+        "onboard_time": 1775289080,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133918,
+        "num": 128075,
+        "word": "杨紫看了黄灿灿初舞台",
+        "onboard_time": 1775288239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 127482,
+        "word": "孙颖莎说高达没防住",
+        "onboard_time": 1775289321,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127099,
+        "num": 127099,
+        "word": "十日终焉",
+        "onboard_time": 1775283800,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118736,
+        "num": 118736,
+        "word": "TES对战iG",
+        "onboard_time": 1775288540,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110147,
+        "num": 110147,
+        "word": "汉娜高达创造历史",
+        "onboard_time": 1775294541,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102065,
+        "num": 102065,
+        "word": "1099元内衣外穿年轻人买单吗",
+        "onboard_time": 1775294240,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 23625,
+        "num": 97885,
+        "word": "00后白事唢呐师称不愿让孩子接班",
+        "onboard_time": 1775295380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633966,
+        "num": 97719,
+        "word": "王传君和爱情公寓和解了",
+        "onboard_time": 1775284100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439551,
+        "num": 97366,
+        "word": "虞书欣香水",
+        "onboard_time": 1775293881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95444,
+        "num": 95444,
+        "word": "午睡时间超1小时死亡风险增加30%",
+        "onboard_time": 1775273060,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216507,
+        "num": 94929,
+        "word": "刘耀文举宋亚轩路透",
+        "onboard_time": 1775294001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193297,
+        "num": 94774,
+        "word": "黄磊12岁二女儿身高",
+        "onboard_time": 1775287582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94144,
+        "num": 94144,
+        "word": "李倩月到死都不知道凶手是男友",
+        "onboard_time": 1775287701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124479,
+        "num": 90934,
+        "word": "谢霆锋戴与王菲26年前定情手镯",
+        "onboard_time": 1775280021,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94912,
+        "num": 89258,
+        "word": "董思成吐槽尹子维脾气大",
+        "onboard_time": 1775291780,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86436,
+        "num": 86436,
+        "word": "逼出最强孙颖莎的高达才18岁",
+        "onboard_time": 1775287520,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116787,
+        "num": 85858,
+        "word": "范玮琪希望网友不要被舆论带偏",
+        "onboard_time": 1775292079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166082,
+        "num": 85008,
+        "word": "无人继承的巨额遗产或在拖垮日本",
+        "onboard_time": 1775295021,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162669,
+        "num": 84858,
+        "word": "韩国男子将女友制成木乃伊藏尸",
+        "onboard_time": 1775293100,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102144,
+        "num": 83908,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83347,
+        "num": 83347,
+        "word": "解决了辣条的油腻和减脂餐的清淡",
+        "onboard_time": 1775292501,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83124,
+        "num": 83124,
+        "word": "这几类人建议尽快做一次胃镜",
+        "onboard_time": 1775290280,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82209,
+        "num": 82209,
+        "word": "伊朗用重火力回应美临时停火建议",
+        "onboard_time": 1775293100,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80296,
+        "num": 80296,
+        "word": "土耳其狂抛近120吨黄金",
+        "onboard_time": 1775294779,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72258,
+        "num": 72258,
+        "word": "T1迎战HLE",
+        "onboard_time": 1775292620,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71405,
+        "num": 71405,
+        "word": "JackeyLove零击杀",
+        "onboard_time": 1775295740,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71012,
+        "num": 71012,
+        "word": "瑞幸一门店被调侃像公厕",
+        "onboard_time": 1775292979,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70400,
+        "num": 70400,
+        "word": "王橹杰 锁骨连肩",
+        "onboard_time": 1775282001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68638,
+        "num": 68638,
+        "word": "葛夕分享do鼻子经验",
+        "onboard_time": 1775293881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64168,
+        "num": 64168,
+        "word": "猫是铁饭是钢",
+        "onboard_time": 1775295860,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64060,
+        "num": 64060,
+        "word": "高达哭了",
+        "onboard_time": 1775285902,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62987,
+        "num": 62987,
+        "word": "AG下班不打伞",
+        "onboard_time": 1775293280,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62851,
+        "num": 62851,
+        "word": "大学生清明放假现状",
+        "onboard_time": 1775293399,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62439,
+        "num": 62439,
+        "word": "第一次走红毯的angelababy",
+        "onboard_time": 1775282661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62500,
+        "num": 62420,
+        "word": "烧纸钱会不会导致阴间通胀",
+        "onboard_time": 1775295199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62269,
+        "num": 62269,
+        "word": "TOP演唱会首次公开销量",
+        "onboard_time": 1775295801,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61085,
+        "num": 61085,
+        "word": "女生回应午睡5小时被领导警告",
+        "onboard_time": 1775281641,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}
