@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775279432455,
+  "endTime": 1775282677246,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529203,
+      "num": 97303,
+      "word": "谢霆锋戴与王菲26年前定情手镯",
+      "onboard_time": 1775280021,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526641,
       "num": 1084262,
       "word": "三部门约谈抖音淘天小红书",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1775129182,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 472603,
+      "num": 1075616,
+      "word": "清明上山扫墓却发现母亲的墓不见了",
+      "onboard_time": 1775276121,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470148,
@@ -1267,14 +1283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411929,
-      "num": 1065908,
-      "word": "清明上山扫墓却发现母亲的墓不见了",
-      "onboard_time": 1775276121,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411809,
       "num": 361736,
       "word": "何宣林 给短人争气",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1774967605,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 397069,
+      "num": 773165,
+      "word": "1层3户只有1家被贴满小广告",
+      "onboard_time": 1775276840,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395452,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1775089402,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351768,
+      "num": 155065,
+      "word": "美军经历开战以来最黑暗24小时",
+      "onboard_time": 1775278521,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 350998,
@@ -2011,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283671,
+      "num": 283671,
+      "word": "孙颖莎vs高达",
+      "onboard_time": 1775278280,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283274,
       "num": 283274,
       "word": "张雪机车夺冠车手发声",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1775100982,
       "rank": 21,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 242967,
+      "num": 242967,
+      "word": "李兰迪回应何宣林wink",
+      "onboard_time": 1775281342,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 242679,
@@ -3723,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151931,
+      "num": 151931,
+      "word": "林昀儒4比1张本智和",
+      "onboard_time": 1775279120,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151259,
       "num": 151259,
       "word": "孙颖莎蒯曼都更换球衣",
@@ -3849,14 +3897,6 @@
       "onboard_time": 1775055864,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147394,
-      "num": 257814,
-      "word": "孙颖莎vs高达",
-      "onboard_time": 1775278280,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 147154,
@@ -4411,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128249,
+      "num": 98836,
+      "word": "浪姐改赛制给齐思钧苦得都掐眉头了",
+      "onboard_time": 1775281281,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128173,
       "num": 128173,
       "word": "说唱歌手JCole加盟CBA",
@@ -4481,14 +4529,6 @@
       "onboard_time": 1775212702,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126054,
-      "num": 126054,
-      "word": "1层3户只有1家被贴满小广告",
-      "onboard_time": 1775276840,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125797,
@@ -4971,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114270,
+      "num": 82557,
+      "word": "孙颖莎高达首局爆分",
+      "onboard_time": 1775280980,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114258,
       "num": 114258,
       "word": "王俊凯徐洁儿复刻重生之门名场面",
@@ -5011,6 +5059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112962,
+      "num": 81652,
+      "word": "女生回应午睡5小时被领导警告",
+      "onboard_time": 1775281641,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112944,
       "num": 89544,
       "word": "官方通报天湖医院解聘全体职工",
@@ -5033,14 +5089,6 @@
       "onboard_time": 1774970123,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112261,
-      "num": 155065,
-      "word": "美军经历开战以来最黑暗24小时",
-      "onboard_time": 1775278521,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111908,
@@ -5755,6 +5803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99165,
+      "num": 99165,
+      "word": "孙颖莎13比11高达",
+      "onboard_time": 1775280621,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99076,
       "num": 99076,
       "word": "美军布什号航母启程赴中东",
@@ -5835,14 +5891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97961,
-      "num": 97961,
-      "word": "林昀儒4比1张本智和",
-      "onboard_time": 1775279120,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97786,
       "num": 97786,
       "word": "当星星的孩子老了",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1775050826,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97565,
+      "num": 80309,
+      "word": "孙颖莎14比16高达",
+      "onboard_time": 1775282361,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 97552,
@@ -6200,6 +6256,14 @@
       "word": "张凌赫素人时期照片还在更新",
       "onboard_time": 1775012302,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92836,
+      "num": 92836,
+      "word": "刘亦菲G社最严厉的母亲",
+      "onboard_time": 1775282060,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -6555,6 +6619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88433,
+      "num": 88433,
+      "word": "94岁爷爷吃饭神似年迈的兔子",
+      "onboard_time": 1775275400,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88421,
       "num": 88421,
       "word": "RIIZE 不会忘记forever",
@@ -6575,14 +6647,6 @@
       "num": 88069,
       "word": "优思益总销量与辉同行占了近40%",
       "onboard_time": 1775124441,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88036,
-      "num": 88036,
-      "word": "94岁爷爷吃饭神似年迈的兔子",
-      "onboard_time": 1775275400,
       "rank": 34,
       "category": "民生新闻"
     },
@@ -6987,6 +7051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84765,
+      "num": 84765,
+      "word": "谢依霖自曝酒后和老公狂恋",
+      "onboard_time": 1775280560,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84587,
       "num": 84587,
       "word": "张雪通勤摩托只有一个后视镜",
@@ -7307,6 +7379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80286,
+      "num": 80286,
+      "word": "歌不是谁唱火的谁有版权",
+      "onboard_time": 1775281342,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80278,
       "num": 80278,
       "word": "马面裙当床帘",
@@ -7539,6 +7619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77002,
+      "num": 77002,
+      "word": "AG状态下滑原因",
+      "onboard_time": 1775282181,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76989,
       "num": 76989,
       "word": "多家银行4月1日起下调存款利率",
@@ -7563,12 +7651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76656,
+      "num": 76656,
+      "word": "汪蜂出现了",
+      "onboard_time": 1775280141,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76641,
       "num": 70274,
       "word": "大侦探一期两案横跨10年",
       "onboard_time": 1775130621,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76444,
+      "num": 76444,
+      "word": "王橹杰 锁骨连肩",
+      "onboard_time": 1775282001,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 76375,
@@ -7633,6 +7737,14 @@
       "onboard_time": 1775023162,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75910,
+      "num": 75910,
+      "word": "双高胎抢票",
+      "onboard_time": 1775280560,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 75683,
@@ -7817,6 +7929,14 @@
       "onboard_time": 1775126722,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73322,
+      "num": 73322,
+      "word": "杨瀚森20分7板2助2帽",
+      "onboard_time": 1775281281,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72808,
@@ -8131,6 +8251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 69525,
+      "num": 69525,
+      "word": "养猫的人没有私人空间",
+      "onboard_time": 1775278341,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69377,
       "num": 83153,
       "word": "中国机器人有了肌腱",
@@ -8363,14 +8491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65159,
-      "num": 65159,
-      "word": "养猫的人没有私人空间",
-      "onboard_time": 1775278341,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65023,
       "num": 95865,
       "word": "张柏芝被英歌舞小孩姐帅到",
@@ -8400,6 +8520,14 @@
       "word": "张雪一个子儿都没有的真相",
       "onboard_time": 1775273179,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64554,
+      "num": 64554,
+      "word": "俩游客花86元就餐店家嫌消费太少",
+      "onboard_time": 1775280560,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -8449,6 +8577,14 @@
       "onboard_time": 1775173642,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63278,
+      "num": 63278,
+      "word": "我妈以为的早熟vs实际上",
+      "onboard_time": 1775281220,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 62980,
@@ -8649,6 +8785,14 @@
       "onboard_time": 1775119341,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59696,
+      "num": 59696,
+      "word": "美军战机残骸有F15专用电子战设备",
+      "onboard_time": 1775281880,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59597,
@@ -9308,7 +9452,7 @@
     },
     {
       "raw_hot": 36416,
-      "num": 632383,
+      "num": 636695,
       "word": "属于中国人的清明仪式感",
       "onboard_time": 1775271979,
       "rank": 2,
