@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775302655737,
+  "endTime": 1775303599969,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811246,
+      "num": 1129799,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1775302101,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 808466,
       "num": 1129354,
       "word": "乘风直播节奏好慢",
@@ -475,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735707,
+      "num": 1116222,
+      "word": "陈幸同0比11申裕斌",
+      "onboard_time": 1775302164,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 730921,
       "num": 649643,
       "word": "乘风初见面直播",
       "onboard_time": 1775128462,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 726390,
-      "num": 1116222,
-      "word": "陈幸同0比11申裕斌",
-      "onboard_time": 1775302164,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 713867,
@@ -879,6 +887,14 @@
       "num": 409559,
       "word": "唐艺昕陶昕然 宝娟我的嗓子",
       "onboard_time": 1775140224,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 548974,
+      "num": 365657,
+      "word": "乘风初舞台第二场",
+      "onboard_time": 1775302281,
       "rank": 5,
       "category": "综艺"
     },
@@ -1403,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408806,
-      "num": 408806,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1775302101,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408421,
       "num": 768809,
       "word": "孙颖莎vs蒯曼",
@@ -1523,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 388228,
+      "num": 388228,
+      "word": "酒店员工提醒小孩别玩门家长报警",
+      "onboard_time": 1775299041,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385398,
       "num": 218311,
       "word": "刘嘉玲 医美",
@@ -1547,28 +1563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382202,
-      "num": 365657,
-      "word": "乘风初舞台第二场",
-      "onboard_time": 1775302281,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381475,
       "num": 159667,
       "word": "NCT成员回复李马克",
       "onboard_time": 1775207062,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380541,
-      "num": 380541,
-      "word": "酒店员工提醒小孩别玩门家长报警",
-      "onboard_time": 1775299041,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380506,
@@ -2819,6 +2819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234552,
+      "num": 93414,
+      "word": "虞书欣签售妆是一枝南南画的",
+      "onboard_time": 1775303062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "阚清子出场",
@@ -2832,6 +2840,14 @@
       "word": "女演员裙子着火一路奔跑跳进水中",
       "onboard_time": 1775206882,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233004,
+      "num": 226999,
+      "word": "易军怒斥张雪机车被无底线消费",
+      "onboard_time": 1775297782,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2921,14 +2937,6 @@
       "onboard_time": 1775112081,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226999,
-      "num": 226999,
-      "word": "易军怒斥张雪机车被无底线消费",
-      "onboard_time": 1775297782,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226856,
@@ -3419,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "广东仅珠海仍全域禁止电动自行车",
+      "onboard_time": 1775299461,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193879,
       "num": 193879,
       "word": "特朗普称未来两三周更猛烈打击伊朗",
@@ -3753,14 +3769,6 @@
       "onboard_time": 1775026882,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171705,
-      "num": 171705,
-      "word": "广东仅珠海仍全域禁止电动自行车",
-      "onboard_time": 1775299461,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169908,
@@ -4427,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142642,
+      "num": 191260,
+      "word": "五哈只有一个小时",
+      "onboard_time": 1775300901,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142181,
       "num": 142181,
       "word": "烈士墓前全屏马赛克",
@@ -5027,14 +5043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126342,
-      "num": 126342,
-      "word": "五哈只有一个小时",
-      "onboard_time": 1775300901,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126237,
       "num": 121830,
       "word": "虞书欣云初令海报",
@@ -5057,6 +5065,14 @@
       "onboard_time": 1775095220,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125771,
+      "num": 189478,
+      "word": "高达赛后发孙颖莎",
+      "onboard_time": 1775302943,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 125712,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1775023762,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 120806,
+      "num": 186027,
+      "word": "迪丽热巴眼神转换好牛",
+      "onboard_time": 1775302641,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 120467,
@@ -5649,6 +5673,14 @@
       "onboard_time": 1775112921,
       "rank": 24,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 111421,
+      "num": 87893,
+      "word": "王楚钦11比4约奇克",
+      "onboard_time": 1775302824,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 111360,
@@ -6137,6 +6169,14 @@
       "onboard_time": 1775200523,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102861,
+      "num": 87524,
+      "word": "金饰克价一夜又跌11元",
+      "onboard_time": 1775303002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 102725,
@@ -6963,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91737,
+      "num": 91737,
+      "word": "女子减肥过度导致心跳骤停",
+      "onboard_time": 1775303423,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91654,
       "num": 91654,
       "word": "沧元图水墨打戏爽飞了",
@@ -7401,6 +7449,14 @@
       "onboard_time": 1775037802,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87257,
+      "num": 87257,
+      "word": "多功能智齿",
+      "onboard_time": 1775303002,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 87012,
@@ -7851,6 +7907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83143,
+      "num": 83143,
+      "word": "冯提莫自曝身高体重",
+      "onboard_time": 1775303481,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83104,
       "num": 83104,
       "word": "ShowMaker被打爆",
@@ -7897,6 +7961,14 @@
       "onboard_time": 1775289080,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82347,
+      "num": 94905,
+      "word": "WB对战KSG",
+      "onboard_time": 1775301681,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 82313,
@@ -7971,6 +8043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81798,
+      "num": 87301,
+      "word": "中国人6千年前就用上蒸锅了",
+      "onboard_time": 1775303302,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81657,
       "num": 81657,
       "word": "谢楠发芒果跳刀马",
@@ -8008,14 +8088,6 @@
       "word": "向鱼哭了",
       "onboard_time": 1775140705,
       "rank": 45,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 81002,
-      "num": 81002,
-      "word": "WB对战KSG",
-      "onboard_time": 1775301681,
-      "rank": 38,
       "category": "电竞"
     },
     {
@@ -8579,6 +8651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74822,
+      "num": 74822,
+      "word": "张函瑞粉色卫衣",
+      "onboard_time": 1775303002,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74667,
       "num": 177685,
       "word": "日本动向十分危险",
@@ -8657,6 +8737,14 @@
       "onboard_time": 1775112023,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73761,
+      "num": 69448,
+      "word": "小说里一个人单挑整个宗门的大师姐",
+      "onboard_time": 1775301920,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 73592,
@@ -8777,6 +8865,14 @@
       "onboard_time": 1775124081,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72026,
+      "num": 72026,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1775303002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 71992,
@@ -9193,6 +9289,14 @@
       "onboard_time": 1775258657,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68213,
+      "num": 68213,
+      "word": "收藏了一堆垃圾之书",
+      "onboard_time": 1775303542,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68042,
@@ -10291,6 +10395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44211,
+      "num": 95756,
+      "word": "新疆一中学走廊秒变健身房",
+      "onboard_time": 1775303243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44011,
       "num": 98896,
       "word": "揭秘日本为何提前部署远程导弹",
@@ -10940,7 +11052,7 @@
     },
     {
       "raw_hot": 18099,
-      "num": 664752,
+      "num": 671629,
       "word": "文旅共绘诗与远方新画卷",
       "onboard_time": 1775287400,
       "rank": 2,

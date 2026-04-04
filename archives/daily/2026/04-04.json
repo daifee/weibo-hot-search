@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775302655737,
+  "endTime": 1775303599969,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 811246,
+      "num": 1129799,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1775302101,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 777048,
       "num": 457070,
       "word": "唐艺昕因皮肤原因4年未拍戏",
@@ -51,7 +59,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 726390,
+      "raw_hot": 735707,
       "num": 1116222,
       "word": "陈幸同0比11申裕斌",
       "onboard_time": 1775302164,
@@ -137,6 +145,14 @@
       "onboard_time": 1775259319,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 548974,
+      "num": 365657,
+      "word": "乘风初舞台第二场",
+      "onboard_time": 1775302281,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 529203,
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408806,
-      "num": 408806,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1775302101,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404277,
       "num": 267972,
       "word": "因为自制力差一下午赚了七千",
@@ -315,16 +323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382202,
-      "num": 365657,
-      "word": "乘风初舞台第二场",
-      "onboard_time": 1775302281,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 380541,
-      "num": 380541,
+      "raw_hot": 388228,
+      "num": 388228,
       "word": "酒店员工提醒小孩别玩门家长报警",
       "onboard_time": 1775299041,
       "rank": 33,
@@ -587,20 +587,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234552,
+      "num": 93414,
+      "word": "虞书欣签售妆是一枝南南画的",
+      "onboard_time": 1775303062,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233004,
+      "num": 226999,
+      "word": "易军怒斥张雪机车被无底线消费",
+      "onboard_time": 1775297782,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227602,
       "num": 227602,
       "word": "TES对战iG",
       "onboard_time": 1775288540,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226999,
-      "num": 226999,
-      "word": "易军怒斥张雪机车被无底线消费",
-      "onboard_time": 1775297782,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219218,
@@ -747,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "广东仅珠海仍全域禁止电动自行车",
+      "onboard_time": 1775299461,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190404,
       "num": 267546,
       "word": "松岛辉空4比0莫雷加德",
@@ -809,14 +825,6 @@
       "onboard_time": 1775258657,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 171705,
-      "num": 171705,
-      "word": "广东仅珠海仍全域禁止电动自行车",
-      "onboard_time": 1775299461,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169828,
@@ -961,6 +969,14 @@
       "onboard_time": 1775234060,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142642,
+      "num": 191260,
+      "word": "五哈只有一个小时",
+      "onboard_time": 1775300901,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 141631,
@@ -1115,12 +1131,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126342,
-      "num": 126342,
-      "word": "五哈只有一个小时",
-      "onboard_time": 1775300901,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 125771,
+      "num": 189478,
+      "word": "高达赛后发孙颖莎",
+      "onboard_time": 1775302943,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 125053,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1775266581,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120806,
+      "num": 186027,
+      "word": "迪丽热巴眼神转换好牛",
+      "onboard_time": 1775302641,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 117836,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1775281342,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111421,
+      "num": 87893,
+      "word": "王楚钦11比4约奇克",
+      "onboard_time": 1775302824,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 111225,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1775280141,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102861,
+      "num": 87524,
+      "word": "金饰克价一夜又跌11元",
+      "onboard_time": 1775303002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 101709,
@@ -1427,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91737,
+      "num": 91737,
+      "word": "女子减肥过度导致心跳骤停",
+      "onboard_time": 1775303423,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90994,
       "num": 90994,
       "word": "AG周决荣都吃鸡",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1775272519,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87257,
+      "num": 87257,
+      "word": "多功能智齿",
+      "onboard_time": 1775303002,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 86863,
@@ -1595,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83143,
+      "num": 83143,
+      "word": "冯提莫自曝身高体重",
+      "onboard_time": 1775303481,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "郭富城小女儿近照",
@@ -1611,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82347,
+      "num": 94905,
+      "word": "WB对战KSG",
+      "onboard_time": 1775301681,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82209,
       "num": 82209,
       "word": "伊朗用重火力回应美临时停火建议",
@@ -1619,20 +1691,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81798,
+      "num": 87301,
+      "word": "中国人6千年前就用上蒸锅了",
+      "onboard_time": 1775303302,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81711,
       "num": 81711,
       "word": "孩子一张口身份证掉出来了",
       "onboard_time": 1775225966,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81002,
-      "num": 81002,
-      "word": "WB对战KSG",
-      "onboard_time": 1775301681,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 80892,
@@ -1803,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74822,
+      "num": 74822,
+      "word": "张函瑞粉色卫衣",
+      "onboard_time": 1775303002,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74568,
       "num": 74568,
       "word": "WBG对战AL",
@@ -1819,6 +1899,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73761,
+      "num": 69448,
+      "word": "小说里一个人单挑整个宗门的大师姐",
+      "onboard_time": 1775301920,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73322,
       "num": 73322,
       "word": "杨瀚森20分7板2助2帽",
@@ -1832,6 +1920,14 @@
       "word": "孙颖莎决胜局2比6落后惊天逆转",
       "onboard_time": 1775285421,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72026,
+      "num": 72026,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1775303002,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1961,6 +2057,14 @@
       "onboard_time": 1775258657,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68213,
+      "num": 68213,
+      "word": "收藏了一堆垃圾之书",
+      "onboard_time": 1775303542,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68042,
@@ -2459,6 +2563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 44211,
+      "num": 95756,
+      "word": "新疆一中学走廊秒变健身房",
+      "onboard_time": 1775303243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38289,
       "num": 592273,
       "word": "多巴胺花海惊艳上线",
@@ -2588,7 +2700,7 @@
     },
     {
       "raw_hot": 18099,
-      "num": 664752,
+      "num": 671629,
       "word": "文旅共绘诗与远方新画卷",
       "onboard_time": 1775287400,
       "rank": 2,
