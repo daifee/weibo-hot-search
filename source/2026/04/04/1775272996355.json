@@ -1,0 +1,410 @@
+{
+  "runTime": 1775272996355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 345016,
+        "num": 1055202,
+        "word": "月鳞绮纪疑似不足1广",
+        "onboard_time": 1775272279,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170174,
+        "num": 773624,
+        "word": "与辉同行宣布全额退款",
+        "onboard_time": 1775229864,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36416,
+        "num": 631862,
+        "word": "属于中国人的清明仪式感",
+        "onboard_time": 1775271979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526233,
+        "num": 526233,
+        "word": "何宣林是孟子义的大学班主任",
+        "onboard_time": 1775270721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322787,
+        "num": 518398,
+        "word": "美军2架黑鹰直升机被伊朗击中",
+        "onboard_time": 1775268679,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 511307,
+        "num": 511307,
+        "word": "金典和浪姐分手了",
+        "onboard_time": 1775269400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160105,
+        "num": 501080,
+        "word": "华裔女子西安刚下飞机就被历史暴击",
+        "onboard_time": 1775272879,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111583,
+        "num": 491160,
+        "word": "优思益称无力售后",
+        "onboard_time": 1775216363,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99904,
+        "num": 477205,
+        "word": "好多人装修没有去家务化的意识",
+        "onboard_time": 1775258358,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84928,
+        "num": 465023,
+        "word": "Uzi谈下一届乌兹杯",
+        "onboard_time": 1775270660,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 457070,
+        "num": 457070,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209642,
+        "num": 209642,
+        "word": "阚清子说很感谢倪萍",
+        "onboard_time": 1775269641,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197719,
+        "num": 197719,
+        "word": "19岁少女柬埔寨失联事件迎反转",
+        "onboard_time": 1775270540,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208965,
+        "num": 193610,
+        "word": "孙俪新剧就这样官宣了",
+        "onboard_time": 1775269040,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164212,
+        "num": 164212,
+        "word": "男子拔掉祖坟旁槟榔苗被判刑",
+        "onboard_time": 1775259319,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 151604,
+        "word": "美国教师为性侵学生与其母亲交往",
+        "onboard_time": 1775261300,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139863,
+        "num": 139863,
+        "word": "范闲 你也给祺贵人打电话吗",
+        "onboard_time": 1775260760,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134550,
+        "num": 134550,
+        "word": "阿娇首部短剧",
+        "onboard_time": 1775272220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123467,
+        "num": 123467,
+        "word": "伊朗被曝实施打了就跑战术",
+        "onboard_time": 1775259500,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92285,
+        "num": 123276,
+        "word": "带师生徒步祭英烈校领导步数76000",
+        "onboard_time": 1775266581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484518,
+        "num": 122964,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293599,
+        "num": 122514,
+        "word": "塞车把周杰伦女儿急坏了",
+        "onboard_time": 1775268020,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124218,
+        "num": 121986,
+        "word": "冰箱里的冻肉超过这个时间直接扔",
+        "onboard_time": 1775267420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233717,
+        "num": 121516,
+        "word": "何宣林是北影表演系班主任",
+        "onboard_time": 1775266519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129506,
+        "num": 121146,
+        "word": "张凌赫是在致敬罗晋给唐嫣拿糖吗",
+        "onboard_time": 1775262561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111032,
+        "num": 120916,
+        "word": "优思益",
+        "onboard_time": 1775271260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120709,
+        "num": 120709,
+        "word": "倪萍真的给人看力竭了",
+        "onboard_time": 1775258239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "浪姐排名",
+        "onboard_time": 1775223984,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78220,
+        "num": 109006,
+        "word": "工信部紧急提醒苹果用户",
+        "onboard_time": 1775211921,
+        "rank": 28,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 102889,
+        "num": 102889,
+        "word": "阚清子 尊重游戏规则",
+        "onboard_time": 1775223503,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268951,
+        "num": 102681,
+        "word": "女生午睡5小时被领导警告发视频哭诉",
+        "onboard_time": 1775231723,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28270,
+        "num": 102414,
+        "word": "王艺迪vs温特",
+        "onboard_time": 1775272879,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114743,
+        "num": 102365,
+        "word": "因为自制力差一下午赚了七千",
+        "onboard_time": 1775272220,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 102290,
+        "word": "李煜东高会",
+        "onboard_time": 1775262020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87381,
+        "num": 87381,
+        "word": "特朗普计划拨款1.52亿重启恶魔岛",
+        "onboard_time": 1775272519,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80378,
+        "num": 80378,
+        "word": "伊朗悬赏活捉美军飞行员",
+        "onboard_time": 1775270600,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79880,
+        "num": 79880,
+        "word": "终于知道销冠为什么是销冠了",
+        "onboard_time": 1775272279,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73009,
+        "num": 73009,
+        "word": "黄灿灿表情",
+        "onboard_time": 1775258599,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69437,
+        "num": 69437,
+        "word": "三甲医院医生建议重病有三不治",
+        "onboard_time": 1775258657,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67540,
+        "num": 67540,
+        "word": "张雪820型摩托车发货",
+        "onboard_time": 1775271680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67509,
+        "num": 67509,
+        "word": "齐思钧在谢娜旁边承担了何炅功能",
+        "onboard_time": 1775265860,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66910,
+        "num": 66910,
+        "word": "爷爷给小狗缝了很多刷牙指套",
+        "onboard_time": 1775272580,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65942,
+        "num": 65942,
+        "word": "黄灿灿听到结果后自己都懵了",
+        "onboard_time": 1775271320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65894,
+        "num": 65894,
+        "word": "鞠婧祎破万视频",
+        "onboard_time": 1775271799,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62814,
+        "num": 62814,
+        "word": "有结节的人要在春天做4件事",
+        "onboard_time": 1775257337,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59281,
+        "num": 59281,
+        "word": "美伊都在找一名跳伞美军",
+        "onboard_time": 1775271680,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58314,
+        "num": 58314,
+        "word": "40岁男子AI成瘾无法接受版本更新",
+        "onboard_time": 1775266581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58136,
+        "num": 58136,
+        "word": "冯提莫回应腋下管理",
+        "onboard_time": 1775232142,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57490,
+        "num": 57490,
+        "word": "谁来救救代斯",
+        "onboard_time": 1775230762,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56055,
+        "num": 56055,
+        "word": "伊媒称美提议停火48小时",
+        "onboard_time": 1775261120,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情讲述的英雄故事#"
+    }
+  }
+}
