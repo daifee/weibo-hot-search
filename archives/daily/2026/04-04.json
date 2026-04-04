@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775313730062,
+  "endTime": 1775314858450,
   "band_list": [
     {
       "raw_hot": 3837292,
@@ -23,6 +23,14 @@
       "num": 557858,
       "word": "张月505票",
       "onboard_time": 1775308943,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1934011,
+      "num": 585369,
+      "word": "李小冉安崎 票数",
+      "onboard_time": 1775314225,
       "rank": 3,
       "category": "综艺"
     },
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1009750,
+      "num": 190482,
+      "word": "谁能看出来李小冉50了",
+      "onboard_time": 1775313747,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929190,
       "num": 1148670,
       "word": "浪姐第二场和第一场不是一个节目",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 780158,
-      "num": 169739,
+      "num": 186535,
       "word": "安崎节目太短了",
       "onboard_time": 1775312964,
       "rank": 10,
@@ -184,6 +200,14 @@
       "word": "浪姐今晚不淘汰",
       "onboard_time": 1775228664,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 684629,
+      "num": 186141,
+      "word": "叶一茜 05超女的含金量",
+      "onboard_time": 1775313925,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -313,6 +337,14 @@
       "onboard_time": 1775298021,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478890,
+      "num": 478890,
+      "word": "陈泽被黑客入侵",
+      "onboard_time": 1775311524,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 477517,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 398813,
-      "num": 831141,
+      "num": 835630,
       "word": "莫氏鸡煲周边商户发声",
       "onboard_time": 1775307444,
       "rank": 30,
@@ -529,14 +561,6 @@
       "onboard_time": 1775309182,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357776,
-      "num": 357776,
-      "word": "陈泽被黑客入侵",
-      "onboard_time": 1775311524,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 351768,
@@ -683,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309407,
+      "num": 309407,
+      "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
+      "onboard_time": 1775312125,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308296,
       "num": 477205,
       "word": "好多人装修没有去家务化的意识",
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287298,
+      "num": 145705,
+      "word": "黄晓明晒和儿子春日骑行照",
+      "onboard_time": 1775312964,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285522,
       "num": 179734,
       "word": "印度女子好心给水喝反遭强奸",
@@ -747,7 +787,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283980,
+      "raw_hot": 285096,
       "num": 150994,
       "word": "文淇第一次做妇科检查的不适感受",
       "onboard_time": 1775310984,
@@ -811,12 +851,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 261263,
-      "num": 143676,
-      "word": "黄晓明晒和儿子春日骑行照",
-      "onboard_time": 1775312964,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 260744,
+      "num": 136179,
+      "word": "者来女轮空",
+      "onboard_time": 1775314826,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 254161,
@@ -827,20 +867,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250136,
+      "num": 250136,
+      "word": "王楚钦赛后缓了好一会儿",
+      "onboard_time": 1775311164,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
       "onboard_time": 1775258599,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244692,
-      "num": 244692,
-      "word": "王楚钦赛后缓了好一会儿",
-      "onboard_time": 1775311164,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 243486,
@@ -1036,7 +1076,7 @@
     },
     {
       "raw_hot": 206747,
-      "num": 159782,
+      "num": 185123,
       "word": "海关截获18厘米长活体帝王蝎",
       "onboard_time": 1775311284,
       "rank": 17,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1775299461,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192381,
+      "num": 192381,
+      "word": "许昕说一直有人希望王楚钦输",
+      "onboard_time": 1775313864,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 190404,
@@ -1163,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170117,
-      "num": 170117,
-      "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
-      "onboard_time": 1775312125,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169828,
       "num": 169828,
       "word": "1099元内衣外穿年轻人买单吗",
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 166377,
-      "num": 130074,
+      "num": 132654,
       "word": "好六下期是孔雪儿邓凯",
       "onboard_time": 1775311945,
       "rank": 33,
@@ -1291,6 +1331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 157284,
+      "num": 157284,
+      "word": "曝伊朗国产防空武器无法被美锁定",
+      "onboard_time": 1775312844,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154672,
       "num": 148442,
       "word": "赵子琪回应浪姐唯一人脉",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153496,
+      "num": 153496,
+      "word": "澳门世界杯女单四强出炉",
+      "onboard_time": 1775312184,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 152354,
@@ -1337,14 +1393,6 @@
       "onboard_time": 1775283562,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149292,
-      "num": 149292,
-      "word": "澳门世界杯女单四强出炉",
-      "onboard_time": 1775312184,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 149070,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1775260760,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 139303,
+      "word": "小伙家住46楼免费看周杰伦演唱会",
+      "onboard_time": 1775313625,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138624,
@@ -1451,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132907,
+      "num": 132907,
+      "word": "我国过敏性鼻炎患者数量攀升",
+      "onboard_time": 1775310744,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132901,
       "num": 100156,
       "word": "张凌赫因为帅被同学偷拍",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1775265860,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132371,
+      "num": 132371,
+      "word": "雨果晋级世界杯四强",
+      "onboard_time": 1775314285,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 132138,
@@ -1531,20 +1603,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128547,
-      "num": 128547,
-      "word": "曝伊朗国产防空武器无法被美锁定",
-      "onboard_time": 1775312844,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128393,
       "num": 124112,
       "word": "刘亦菲G社最严厉的母亲",
       "onboard_time": 1775282060,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128040,
+      "num": 191844,
+      "word": "六大行房贷减少7100亿",
+      "onboard_time": 1775313684,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127201,
@@ -1579,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122665,
+      "num": 122665,
+      "word": "王楚钦突然双手撑地",
+      "onboard_time": 1775314044,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122603,
       "num": 127799,
       "word": "王楚钦大逆转太燃了",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1775308943,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120238,
-      "num": 109304,
-      "word": "我国过敏性鼻炎患者数量攀升",
-      "onboard_time": 1775310744,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117899,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1775308705,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112939,
+      "num": 112939,
+      "word": "王曼昱谈轮换发球法",
+      "onboard_time": 1775314105,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112232,
@@ -2163,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84939,
+      "num": 84939,
+      "word": "王曼昱比赛打到数板",
+      "onboard_time": 1775314105,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84928,
       "num": 465023,
       "word": "Uzi谈下一届乌兹杯",
@@ -2347,12 +2435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78370,
+      "num": 121378,
+      "word": "女子坠崖爱犬独守原地整整7天",
+      "onboard_time": 1775313324,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78326,
       "num": 78326,
       "word": "新款AirPodsPro曝光",
       "onboard_time": 1775284401,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78037,
+      "num": 78037,
+      "word": "meiko赛后发文",
+      "onboard_time": 1775313747,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 77550,
@@ -3027,14 +3131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56336,
-      "num": 127450,
-      "word": "六大行房贷减少7100亿",
-      "onboard_time": 1775313684,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56232,
       "num": 56232,
       "word": "上海夫妇被假将军女儿骗走近半亿",
@@ -3115,14 +3211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51095,
-      "num": 121378,
-      "word": "女子坠崖爱犬独守原地整整7天",
-      "onboard_time": 1775313324,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50688,
       "num": 54001,
       "word": "东契奇常规赛报销",
@@ -3179,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41905,
+      "num": 151834,
+      "word": "宁波98岁老人40年慈善捐出6000万",
+      "onboard_time": 1775313684,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 38289,
       "num": 592273,
       "word": "多巴胺花海惊艳上线",
@@ -3193,14 +3289,6 @@
       "onboard_time": 1775234242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36610,
-      "num": 121454,
-      "word": "宁波98岁老人40年慈善捐出6000万",
-      "onboard_time": 1775313684,
-      "rank": 38,
-      "category": "正能量"
     },
     {
       "raw_hot": 36416,
@@ -3241,6 +3329,14 @@
       "onboard_time": 1775232621,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32267,
+      "num": 119465,
+      "word": "00后入殓师称曾遇打车点外卖难题",
+      "onboard_time": 1775314826,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32159,
