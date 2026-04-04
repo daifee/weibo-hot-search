@@ -1,0 +1,410 @@
+{
+  "runTime": 1775297006811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645655,
+        "num": 1103304,
+        "word": "白日提灯反派骂女主台词",
+        "onboard_time": 1775291481,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591032,
+        "num": 797792,
+        "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+        "onboard_time": 1775293641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15955,
+        "num": 658370,
+        "word": "文旅共绘诗与远方新画卷",
+        "onboard_time": 1775287400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 348055,
+        "num": 348055,
+        "word": "莫氏鸡煲老板娘直呼生无可恋",
+        "onboard_time": 1775293340,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331200,
+        "num": 331200,
+        "word": "爆火鸡煲店老板称用的冰冻鸡",
+        "onboard_time": 1775289799,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270021,
+        "num": 270021,
+        "word": "狗 爷爷这么做一定有他的道理",
+        "onboard_time": 1775291181,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269787,
+        "num": 269787,
+        "word": "埃及一航班行李全部丢失",
+        "onboard_time": 1775294183,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 161986,
+        "word": "iG战胜TES",
+        "onboard_time": 1775294362,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154544,
+        "num": 154544,
+        "word": "1099元内衣外穿年轻人买单吗",
+        "onboard_time": 1775294240,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131541,
+        "num": 131541,
+        "word": "美国提议停火48小时",
+        "onboard_time": 1775286920,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330574,
+        "num": 131465,
+        "word": "何宣林回应是孟子义班主任",
+        "onboard_time": 1775289799,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328659,
+        "num": 131211,
+        "word": "虞书欣签售会",
+        "onboard_time": 1775287280,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 131211,
+        "word": "印度女子好心给水喝反遭强奸",
+        "onboard_time": 1775289080,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130711,
+        "num": 130711,
+        "word": "逼出最强孙颖莎的高达才18岁",
+        "onboard_time": 1775287520,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127295,
+        "num": 127295,
+        "word": "杨紫看了黄灿灿初舞台",
+        "onboard_time": 1775288239,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126042,
+        "num": 126042,
+        "word": "汉娜高达创造历史",
+        "onboard_time": 1775294541,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123081,
+        "num": 123081,
+        "word": "十日终焉",
+        "onboard_time": 1775283800,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 121073,
+        "word": "孙颖莎说高达没防住",
+        "onboard_time": 1775289321,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120833,
+        "num": 120833,
+        "word": "嫌顾客消费86元太少商家被处罚",
+        "onboard_time": 1775294001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111326,
+        "num": 111326,
+        "word": "T1迎战HLE",
+        "onboard_time": 1775292620,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 636406,
+        "num": 110764,
+        "word": "王传君和爱情公寓和解了",
+        "onboard_time": 1775284100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469544,
+        "num": 110016,
+        "word": "虞书欣香水",
+        "onboard_time": 1775293881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109268,
+        "num": 109268,
+        "word": "辽宁铁人2比1北京国安",
+        "onboard_time": 1775296941,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198888,
+        "num": 108660,
+        "word": "刘耀文举宋亚轩路透",
+        "onboard_time": 1775294001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166902,
+        "num": 107109,
+        "word": "黄磊12岁二女儿身高",
+        "onboard_time": 1775287582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104433,
+        "num": 104433,
+        "word": "解决了辣条的油腻和减脂餐的清淡",
+        "onboard_time": 1775292501,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95217,
+        "num": 95217,
+        "word": "韩国男子将女友制成木乃伊藏尸",
+        "onboard_time": 1775293100,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111902,
+        "num": 94014,
+        "word": "范玮琪希望网友不要被舆论带偏",
+        "onboard_time": 1775292079,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99302,
+        "num": 93437,
+        "word": "谢霆锋戴与王菲26年前定情手镯",
+        "onboard_time": 1775280021,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92099,
+        "num": 92099,
+        "word": "JackeyLove零击杀",
+        "onboard_time": 1775295740,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185698,
+        "num": 91977,
+        "word": "无人继承的巨额遗产或在拖垮日本",
+        "onboard_time": 1775295021,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97364,
+        "num": 91897,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91143,
+        "num": 91143,
+        "word": "午睡时间超1小时死亡风险增加30%",
+        "onboard_time": 1775273060,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82882,
+        "num": 82882,
+        "word": "李倩月到死都不知道凶手是男友",
+        "onboard_time": 1775287701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80859,
+        "num": 80859,
+        "word": "00后白事唢呐师称不愿让孩子接班",
+        "onboard_time": 1775295380,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80114,
+        "num": 80114,
+        "word": "TES对战iG",
+        "onboard_time": 1775288540,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75539,
+        "num": 75539,
+        "word": "葛夕分享do鼻子经验",
+        "onboard_time": 1775293881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74367,
+        "num": 74367,
+        "word": "重庆广阳岛一飞行器坠落",
+        "onboard_time": 1775294423,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 73615,
+        "num": 73615,
+        "word": "董思成吐槽尹子维脾气大",
+        "onboard_time": 1775291780,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30528,
+        "num": 70873,
+        "word": "歌不是谁唱火的谁有版权",
+        "onboard_time": 1775281342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70431,
+        "num": 70431,
+        "word": "第一次走红毯的angelababy",
+        "onboard_time": 1775282661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69993,
+        "num": 69993,
+        "word": "这几类人建议尽快做一次胃镜",
+        "onboard_time": 1775290280,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69877,
+        "num": 69877,
+        "word": "王橹杰 锁骨连肩",
+        "onboard_time": 1775282001,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69693,
+        "num": 69693,
+        "word": "伊朗用重火力回应美临时停火建议",
+        "onboard_time": 1775293100,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68246,
+        "num": 68246,
+        "word": "伊朗驻华大使馆发布战果",
+        "onboard_time": 1775296642,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67127,
+        "num": 67127,
+        "word": "烧纸钱会不会导致阴间通胀",
+        "onboard_time": 1775295199,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66936,
+        "num": 66936,
+        "word": "TOP演唱会首次公开销量",
+        "onboard_time": 1775295801,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65625,
+        "num": 65625,
+        "word": "瑞幸一门店被调侃像公厕",
+        "onboard_time": 1775292979,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64443,
+        "num": 64443,
+        "word": "AG下班不打伞",
+        "onboard_time": 1775293280,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61547,
+        "num": 61547,
+        "word": "刘琳琳拍的虞书欣",
+        "onboard_time": 1775296941,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}

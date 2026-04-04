@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775296129888,
+  "endTime": 1775297006811,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645655,
+      "num": 1103304,
+      "word": "白日提灯反派骂女主台词",
+      "onboard_time": 1775291481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 627512,
       "num": 170372,
       "word": "金昊已被执行死刑",
@@ -105,6 +113,14 @@
       "onboard_time": 1775278280,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 591032,
+      "num": 797792,
+      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+      "onboard_time": 1775293641,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557555,
@@ -131,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 512217,
-      "num": 1081954,
-      "word": "白日提灯反派骂女主台词",
-      "onboard_time": 1775291481,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 511307,
       "num": 511307,
       "word": "金典和浪姐分手了",
@@ -161,6 +169,14 @@
       "onboard_time": 1775276121,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469544,
+      "num": 110016,
+      "word": "虞书欣香水",
+      "onboard_time": 1775293881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 468175,
@@ -209,14 +225,6 @@
       "onboard_time": 1775289799,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439551,
-      "num": 97366,
-      "word": "虞书欣香水",
-      "onboard_time": 1775293881,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 411809,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348055,
+      "num": 348055,
+      "word": "莫氏鸡煲老板娘直呼生无可恋",
+      "onboard_time": 1775293340,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345016,
       "num": 1055202,
       "word": "月鳞绮纪疑似不足1广",
@@ -321,14 +337,6 @@
       "onboard_time": 1775291181,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 335630,
-      "num": 335630,
-      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
-      "onboard_time": 1775293641,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335006,
@@ -361,14 +369,6 @@
       "onboard_time": 1775232142,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320035,
-      "num": 320035,
-      "word": "莫氏鸡煲老板娘直呼生无可恋",
-      "onboard_time": 1775293340,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316982,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269787,
+      "num": 269787,
+      "word": "埃及一航班行李全部丢失",
+      "onboard_time": 1775294183,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 269357,
       "num": 220775,
       "word": "谢娜李小冉亲了",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 216507,
-      "num": 94929,
+      "num": 108660,
       "word": "刘耀文举宋亚轩路透",
       "onboard_time": 1775294001,
       "rank": 23,
@@ -643,11 +651,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189864,
-      "num": 189864,
-      "word": "埃及一航班行李全部丢失",
-      "onboard_time": 1775294183,
-      "rank": 7,
+      "raw_hot": 185698,
+      "num": 91977,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -715,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166082,
-      "num": 85008,
-      "word": "无人继承的巨额遗产或在拖垮日本",
-      "onboard_time": 1775295021,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164448,
       "num": 104137,
       "word": "孙颖莎5比11高达",
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 162669,
-      "num": 84858,
+      "num": 95217,
       "word": "韩国男子将女友制成木乃伊藏尸",
       "onboard_time": 1775293100,
       "rank": 35,
@@ -777,6 +777,14 @@
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154544,
+      "num": 154544,
+      "word": "1099元内衣外穿年轻人买单吗",
+      "onboard_time": 1775294240,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 152354,
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130711,
+      "num": 130711,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130629,
       "num": 130629,
       "word": "嫌顾客消费86元太少商家被处罚",
@@ -929,6 +945,14 @@
       "onboard_time": 1775285961,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126042,
+      "num": 126042,
+      "word": "汉娜高达创造历史",
+      "onboard_time": 1775294541,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 125053,
@@ -1035,11 +1059,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110147,
-      "num": 110147,
-      "word": "汉娜高达创造历史",
-      "onboard_time": 1775294541,
-      "rank": 17,
+      "raw_hot": 109268,
+      "num": 109268,
+      "word": "辽宁铁人2比1北京国安",
+      "onboard_time": 1775296941,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104433,
+      "num": 104433,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104094,
       "num": 210229,
       "word": "马兴瑞涉嫌严重违纪违法",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1775280141,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102065,
-      "num": 102065,
-      "word": "1099元内衣外穿年轻人买单吗",
-      "onboard_time": 1775294240,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 100821,
@@ -1195,6 +1219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 92099,
+      "num": 92099,
+      "word": "JackeyLove零击杀",
+      "onboard_time": 1775295740,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90925,
       "num": 105939,
       "word": "这几类人建议尽快做一次胃镜",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1775287461,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86436,
-      "num": 86436,
-      "word": "逼出最强孙颖莎的高达才18岁",
-      "onboard_time": 1775287520,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 86364,
@@ -1355,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83347,
-      "num": 83347,
-      "word": "解决了辣条的油腻和减脂餐的清淡",
-      "onboard_time": 1775292501,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "郭富城小女儿近照",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1775284340,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80859,
+      "num": 97885,
+      "word": "00后白事唢呐师称不愿让孩子接班",
+      "onboard_time": 1775295380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80585,
@@ -1499,12 +1523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75539,
+      "num": 75539,
+      "word": "葛夕分享do鼻子经验",
+      "onboard_time": 1775293881,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74873,
       "num": 74873,
       "word": "天才游戏",
       "onboard_time": 1775278280,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74367,
+      "num": 74367,
+      "word": "重庆广阳岛一飞行器坠落",
+      "onboard_time": 1775294423,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 73322,
@@ -1535,14 +1575,6 @@
       "num": 71670,
       "word": "AG下班不打伞",
       "onboard_time": 1775293280,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 71405,
-      "num": 71405,
-      "word": "JackeyLove零击杀",
-      "onboard_time": 1775295740,
       "rank": 38,
       "category": "电竞"
     },
@@ -1627,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68638,
-      "num": 68638,
-      "word": "葛夕分享do鼻子经验",
-      "onboard_time": 1775293881,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68459,
       "num": 68459,
       "word": "宋雨琦迪士尼公主",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1775258657,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68246,
+      "num": 68246,
+      "word": "伊朗驻华大使馆发布战果",
+      "onboard_time": 1775296642,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68042,
@@ -1689,6 +1721,22 @@
       "onboard_time": 1775293280,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67127,
+      "num": 67127,
+      "word": "烧纸钱会不会导致阴间通胀",
+      "onboard_time": 1775295199,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66936,
+      "num": 66936,
+      "word": "TOP演唱会首次公开销量",
+      "onboard_time": 1775295801,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 66910,
@@ -1859,28 +1907,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62500,
-      "num": 62420,
-      "word": "烧纸钱会不会导致阴间通胀",
-      "onboard_time": 1775295199,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62418,
       "num": 62418,
       "word": "对方的童年遇上了对方的未来",
       "onboard_time": 1775289501,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62269,
-      "num": 62269,
-      "word": "TOP演唱会首次公开销量",
-      "onboard_time": 1775295801,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 61875,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1775289140,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61547,
+      "num": 61547,
+      "word": "刘琳琳拍的虞书欣",
+      "onboard_time": 1775296941,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 61519,
@@ -2227,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23625,
-      "num": 97885,
-      "word": "00后白事唢呐师称不愿让孩子接班",
-      "onboard_time": 1775295380,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21745,
       "num": 51642,
       "word": "张雪说真男人说到做到",
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 18099,
-      "num": 627343,
+      "num": 658370,
       "word": "文旅共绘诗与远方新画卷",
       "onboard_time": 1775287400,
       "rank": 2,

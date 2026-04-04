@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775296129888,
+  "endTime": 1775297006811,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -627,6 +627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 645655,
+      "num": 1103304,
+      "word": "白日提灯反派骂女主台词",
+      "onboard_time": 1775291481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639685,
       "num": 234934,
       "word": "江语晨 跑调",
@@ -785,6 +793,14 @@
       "onboard_time": 1775218883,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591032,
+      "num": 797792,
+      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+      "onboard_time": 1775293641,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589987,
@@ -987,14 +1003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 512217,
-      "num": 1081954,
-      "word": "白日提灯反派骂女主台词",
-      "onboard_time": 1775291481,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 511307,
       "num": 511307,
       "word": "金典和浪姐分手了",
@@ -1139,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469544,
+      "num": 110016,
+      "word": "虞书欣香水",
+      "onboard_time": 1775293881,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468175,
       "num": 786968,
       "word": "张雪称5亿设计logo害死哪吒",
@@ -1256,14 +1272,6 @@
       "word": "娱乐圈姓李的有点说法",
       "onboard_time": 1775199921,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 439551,
-      "num": 97366,
-      "word": "虞书欣香水",
-      "onboard_time": 1775293881,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1667,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348055,
+      "num": 348055,
+      "word": "莫氏鸡煲老板娘直呼生无可恋",
+      "onboard_time": 1775293340,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345016,
       "num": 1055202,
       "word": "月鳞绮纪疑似不足1广",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1775211502,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335630,
-      "num": 335630,
-      "word": "高铁站禁烟仅1天男子当众吸烟被拍",
-      "onboard_time": 1775293641,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335006,
@@ -1841,14 +1849,6 @@
       "onboard_time": 1775232142,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320035,
-      "num": 320035,
-      "word": "莫氏鸡煲老板娘直呼生无可恋",
-      "onboard_time": 1775293340,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319897,
@@ -2305,6 +2305,14 @@
       "onboard_time": 1775144602,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269787,
+      "num": 269787,
+      "word": "埃及一航班行李全部丢失",
+      "onboard_time": 1775294183,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 269357,
@@ -2940,7 +2948,7 @@
     },
     {
       "raw_hot": 216507,
-      "num": 94929,
+      "num": 108660,
       "word": "刘耀文举宋亚轩路透",
       "onboard_time": 1775294001,
       "rank": 23,
@@ -3379,14 +3387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189864,
-      "num": 189864,
-      "word": "埃及一航班行李全部丢失",
-      "onboard_time": 1775294183,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 188900,
       "num": 122209,
       "word": "今麦郎手打擦边20年不能停产就完了",
@@ -3425,6 +3425,14 @@
       "onboard_time": 1775121201,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185698,
+      "num": 91977,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184507,
@@ -3707,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166082,
-      "num": 85008,
-      "word": "无人继承的巨额遗产或在拖垮日本",
-      "onboard_time": 1775295021,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 165389,
       "num": 165389,
       "word": "Wayward曝369休息原因",
@@ -3796,7 +3796,7 @@
     },
     {
       "raw_hot": 162669,
-      "num": 84858,
+      "num": 95217,
       "word": "韩国男子将女友制成木乃伊藏尸",
       "onboard_time": 1775293100,
       "rank": 35,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154544,
+      "num": 154544,
+      "word": "1099元内衣外穿年轻人买单吗",
+      "onboard_time": 1775294240,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 154154,
@@ -4651,6 +4659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130711,
+      "num": 130711,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130629,
       "num": 130629,
       "word": "嫌顾客消费86元太少商家被处罚",
@@ -4849,6 +4865,14 @@
       "onboard_time": 1775212702,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126042,
+      "num": 126042,
+      "word": "汉娜高达创造历史",
+      "onboard_time": 1775294541,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 125797,
@@ -5499,14 +5523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110147,
-      "num": 110147,
-      "word": "汉娜高达创造历史",
-      "onboard_time": 1775294541,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109889,
       "num": 109889,
       "word": "醉驾拖行女教师多人下车查看后驶离",
@@ -5553,6 +5569,14 @@
       "onboard_time": 1775189482,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109268,
+      "num": 109268,
+      "word": "辽宁铁人2比1北京国安",
+      "onboard_time": 1775296941,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 109210,
@@ -5827,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104433,
+      "num": 104433,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104193,
       "num": 104193,
       "word": "孙颖莎蒯曼3局打到爆分",
@@ -5953,14 +5985,6 @@
       "onboard_time": 1775105963,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102065,
-      "num": 102065,
-      "word": "1099元内衣外穿年轻人买单吗",
-      "onboard_time": 1775294240,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 102041,
@@ -6699,6 +6723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92099,
+      "num": 92099,
+      "word": "JackeyLove零击杀",
+      "onboard_time": 1775295740,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92023,
       "num": 92023,
       "word": "下次租房我就这样问",
@@ -7235,14 +7267,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 86436,
-      "num": 86436,
-      "word": "逼出最强孙颖莎的高达才18岁",
-      "onboard_time": 1775287520,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86419,
       "num": 86419,
       "word": "金正恩携妻女视察宠物店",
@@ -7603,14 +7627,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83347,
-      "num": 83347,
-      "word": "解决了辣条的油腻和减脂餐的清淡",
-      "onboard_time": 1775292501,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 83151,
       "num": 83151,
       "word": "2026LCK",
@@ -7785,6 +7801,14 @@
       "onboard_time": 1775284340,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80859,
+      "num": 97885,
+      "word": "00后白事唢呐师称不愿让孩子接班",
+      "onboard_time": 1775295380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80725,
@@ -8227,6 +8251,14 @@
       "category": "综艺,民生新闻"
     },
     {
+      "raw_hot": 75539,
+      "num": 75539,
+      "word": "葛夕分享do鼻子经验",
+      "onboard_time": 1775293881,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75470,
       "num": 75470,
       "word": "国乒男队世界杯战绩下滑3年",
@@ -8313,6 +8345,14 @@
       "onboard_time": 1775127501,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74367,
+      "num": 74367,
+      "word": "重庆广阳岛一飞行器坠落",
+      "onboard_time": 1775294423,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 74305,
@@ -8571,14 +8611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71405,
-      "num": 71405,
-      "word": "JackeyLove零击杀",
-      "onboard_time": 1775295740,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 71383,
       "num": 75868,
       "word": "墨江文旅局长被人怼脸抹黑",
@@ -8827,14 +8859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68638,
-      "num": 68638,
-      "word": "葛夕分享do鼻子经验",
-      "onboard_time": 1775293881,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68550,
       "num": 122426,
       "word": "车祸住院11天电子病历被改30次",
@@ -8881,6 +8905,14 @@
       "onboard_time": 1775258657,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68246,
+      "num": 68246,
+      "word": "伊朗驻华大使馆发布战果",
+      "onboard_time": 1775296642,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68042,
@@ -8955,12 +8987,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67127,
+      "num": 67127,
+      "word": "烧纸钱会不会导致阴间通胀",
+      "onboard_time": 1775295199,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67071,
       "num": 67071,
       "word": "应激性开花",
       "onboard_time": 1775124441,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 66936,
+      "num": 66936,
+      "word": "TOP演唱会首次公开销量",
+      "onboard_time": 1775295801,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 66917,
@@ -9227,28 +9275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62500,
-      "num": 62420,
-      "word": "烧纸钱会不会导致阴间通胀",
-      "onboard_time": 1775295199,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62418,
       "num": 62418,
       "word": "对方的童年遇上了对方的未来",
       "onboard_time": 1775289501,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62269,
-      "num": 62269,
-      "word": "TOP演唱会首次公开销量",
-      "onboard_time": 1775295801,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 62124,
@@ -9305,6 +9337,14 @@
       "onboard_time": 1775168656,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61547,
+      "num": 61547,
+      "word": "刘琳琳拍的虞书欣",
+      "onboard_time": 1775296941,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 61519,
@@ -10475,14 +10515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23625,
-      "num": 97885,
-      "word": "00后白事唢呐师称不愿让孩子接班",
-      "onboard_time": 1775295380,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23579,
       "num": 53669,
       "word": "孟晚舟华为年报致辞谈战略聚焦",
@@ -10612,7 +10644,7 @@
     },
     {
       "raw_hot": 18099,
-      "num": 627343,
+      "num": 658370,
       "word": "文旅共绘诗与远方新画卷",
       "onboard_time": 1775287400,
       "rank": 2,
