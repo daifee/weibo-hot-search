@@ -1,17 +1,17 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775321118731,
+  "endTime": 1775322224196,
   "band_list": [
     {
-      "raw_hot": 746450,
-      "num": 786376,
+      "raw_hot": 789060,
+      "num": 789060,
       "word": "瞿颖 作为西班牙人",
       "onboard_time": 1775318542,
       "rank": 0,
       "category": "综艺"
     },
     {
-      "raw_hot": 594535,
+      "raw_hot": 655567,
       "num": 396629,
       "word": "乘风Queen",
       "onboard_time": 1775319260,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 203178,
-      "num": 129584,
+      "num": 200203,
       "word": "谢娜看到李小冉票数后哭了",
       "onboard_time": 1775319981,
       "rank": 16,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 150402,
-      "num": 68807,
+      "num": 79381,
       "word": "陈瑶好甜",
       "onboard_time": 1775312544,
       "rank": 32,
@@ -153,6 +153,14 @@
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99221,
+      "num": 78689,
+      "word": "徐梦洁 不太好听",
+      "onboard_time": 1775309304,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 95096,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 65705,
-      "num": 76567,
+      "num": 78547,
       "word": "我国过敏性鼻炎患者数量攀升",
       "onboard_time": 1775310744,
       "rank": 28,
@@ -299,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57290,
+      "num": 80056,
+      "word": "江坂丽奈美甲",
+      "onboard_time": 1775320398,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 57265,
       "num": 68813,
       "word": "酒店员工提醒小孩别玩门家长报警",
       "onboard_time": 1775299041,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56800,
+      "num": 79714,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56331,
@@ -331,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53298,
+      "num": 59027,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1775317523,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51166,
       "num": 64355,
       "word": "鞠婧祎露芜衣夕阳下跳舞",
@@ -345,22 +377,6 @@
       "onboard_time": 1775306364,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50731,
-      "num": 64676,
-      "word": "江坂丽奈美甲",
-      "onboard_time": 1775320398,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 50265,
-      "num": 64504,
-      "word": "无人继承的巨额遗产或在拖垮日本",
-      "onboard_time": 1775295021,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 48848,
@@ -379,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46748,
+      "num": 63986,
+      "word": "张雪凡尔赛式总结20年",
+      "onboard_time": 1775320940,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46043,
       "num": 64021,
       "word": "男子骑车途中电池爆燃妻子全身烧伤",
@@ -387,11 +411,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42611,
-      "num": 63986,
-      "word": "张雪凡尔赛式总结20年",
-      "onboard_time": 1775320940,
-      "rank": 49,
+      "raw_hot": 38640,
+      "num": 58313,
+      "word": "12306回应男子高铁站抽烟无人管",
+      "onboard_time": 1775322199,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
