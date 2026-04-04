@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775297006811,
+  "endTime": 1775299378108,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 916197,
-      "num": 249487,
+      "num": 519122,
       "word": "王传君和爱情公寓和解了",
       "onboard_time": 1775284100,
       "rank": 11,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 591032,
-      "num": 797792,
+      "num": 1077254,
       "word": "高铁站禁烟仅1天男子当众吸烟被拍",
       "onboard_time": 1775293641,
       "rank": 3,
@@ -1148,7 +1148,7 @@
     },
     {
       "raw_hot": 469544,
-      "num": 110016,
+      "num": 125581,
       "word": "虞书欣香水",
       "onboard_time": 1775293881,
       "rank": 21,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1775282781,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467215,
+      "num": 130355,
+      "word": "刘琳琳拍的虞书欣",
+      "onboard_time": 1775296941,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 458833,
@@ -1803,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 324401,
+      "num": 250264,
+      "word": "张艺上 下次争取只美不崩溃",
+      "onboard_time": 1775298021,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1775002703,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289381,
+      "num": 798598,
+      "word": "五哈6开播",
+      "onboard_time": 1775297782,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 288798,
@@ -2907,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220184,
+      "num": 141318,
+      "word": "伊朗驻华大使馆发布战果",
+      "onboard_time": 1775296642,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219518,
       "num": 797734,
       "word": "中方回应特朗普鼓动各国抢石油",
@@ -2948,7 +2980,7 @@
     },
     {
       "raw_hot": 216507,
-      "num": 108660,
+      "num": 119171,
       "word": "刘耀文举宋亚轩路透",
       "onboard_time": 1775294001,
       "rank": 23,
@@ -3428,11 +3460,19 @@
     },
     {
       "raw_hot": 185698,
-      "num": 91977,
+      "num": 104424,
       "word": "无人继承的巨额遗产或在拖垮日本",
       "onboard_time": 1775295021,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184906,
+      "num": 124195,
+      "word": "红果多部短剧AI角色撞脸易烊千玺",
+      "onboard_time": 1775297901,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 184507,
@@ -3651,6 +3691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169828,
+      "num": 169828,
+      "word": "1099元内衣外穿年轻人买单吗",
+      "onboard_time": 1775294240,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 169619,
       "num": 169619,
       "word": "阿娇首部短剧",
@@ -3796,7 +3844,7 @@
     },
     {
       "raw_hot": 162669,
-      "num": 95217,
+      "num": 119684,
       "word": "韩国男子将女友制成木乃伊藏尸",
       "onboard_time": 1775293100,
       "rank": 35,
@@ -3995,20 +4043,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154672,
+      "num": 140440,
+      "word": "赵子琪回应浪姐唯一人脉",
+      "onboard_time": 1775298561,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154583,
       "num": 154583,
       "word": "未成年画师疑被父母送戒网瘾学校",
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154544,
-      "num": 154544,
-      "word": "1099元内衣外穿年轻人买单吗",
-      "onboard_time": 1775294240,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 154154,
@@ -4219,6 +4267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146609,
+      "num": 140286,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145501,
       "num": 140742,
       "word": "Angelababy海边拍摄MV",
@@ -4323,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141631,
+      "num": 141631,
+      "word": "汉娜高达创造历史",
+      "onboard_time": 1775294541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141490,
       "num": 141490,
       "word": "张国荣",
@@ -4377,6 +4441,14 @@
       "onboard_time": 1775207722,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "易军怒斥张雪机车被无底线消费",
+      "onboard_time": 1775297782,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139863,
@@ -4659,12 +4731,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130711,
-      "num": 130711,
-      "word": "逼出最强孙颖莎的高达才18岁",
-      "onboard_time": 1775287520,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 130700,
+      "num": 130700,
+      "word": "鞠婧祎露芜衣夕阳下跳舞",
+      "onboard_time": 1775298622,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 130629,
@@ -4737,6 +4809,14 @@
       "onboard_time": 1775062220,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128679,
+      "num": 128679,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 128610,
@@ -4865,14 +4945,6 @@
       "onboard_time": 1775212702,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126042,
-      "num": 126042,
-      "word": "汉娜高达创造历史",
-      "onboard_time": 1775294541,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 125797,
@@ -5355,6 +5427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115117,
+      "num": 115117,
+      "word": "许昕说孙颖莎赢得侥幸",
+      "onboard_time": 1775299160,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114907,
       "num": 114907,
       "word": "终于知道销冠为什么是销冠了",
@@ -5747,6 +5827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106704,
+      "num": 106704,
+      "word": "归墟5A级景区观光团",
+      "onboard_time": 1775294001,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106526,
       "num": 106526,
       "word": "AI短片纸手机火了",
@@ -5853,10 +5941,10 @@
     {
       "raw_hot": 104433,
       "num": 104433,
-      "word": "解决了辣条的油腻和减脂餐的清淡",
-      "onboard_time": 1775292501,
-      "rank": 46,
-      "category": "美食"
+      "word": "汉娜高达看孙颖莎200多场比赛录像",
+      "onboard_time": 1775297121,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 104193,
@@ -6745,6 +6833,14 @@
       "onboard_time": 1775191702,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91931,
+      "num": 91931,
+      "word": "酒店员工提醒小孩别玩门家长报警",
+      "onboard_time": 1775299041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91928,
@@ -8155,6 +8251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76639,
+      "num": 75868,
+      "word": "陈都灵雾妄言角色热度破亿",
+      "onboard_time": 1775298080,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76375,
       "num": 83809,
       "word": "收到了1岁到28岁的礼物",
@@ -8225,6 +8329,14 @@
       "onboard_time": 1775280560,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75834,
+      "num": 75834,
+      "word": "曝iPhone18标准版设计没变",
+      "onboard_time": 1775298741,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 75683,
@@ -8907,14 +9019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68246,
-      "num": 68246,
-      "word": "伊朗驻华大使馆发布战果",
-      "onboard_time": 1775296642,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68042,
       "num": 104632,
       "word": "美军战机残骸有F15专用电子战设备",
@@ -9001,6 +9105,14 @@
       "onboard_time": 1775124441,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 66955,
+      "num": 66955,
+      "word": "T.O.P新歌官方翻译歌词",
+      "onboard_time": 1775298442,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 66936,
@@ -9339,14 +9451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61547,
-      "num": 61547,
-      "word": "刘琳琳拍的虞书欣",
-      "onboard_time": 1775296941,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61519,
       "num": 61519,
       "word": "向家里人官宣小猫咪",
@@ -9465,6 +9569,14 @@
       "onboard_time": 1775061979,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60044,
+      "num": 60044,
+      "word": "国企董事长上门打人最新进展",
+      "onboard_time": 1775296700,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59988,
