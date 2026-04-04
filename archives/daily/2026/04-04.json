@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775289871271,
+  "endTime": 1775292803175,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 702985,
-      "num": 237886,
+      "num": 526608,
       "word": "虞书欣签售会",
       "onboard_time": 1775287280,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 529203,
-      "num": 107346,
+      "num": 120023,
       "word": "谢霆锋戴与王菲26年前定情手镯",
       "onboard_time": 1775280021,
       "rank": 20,
@@ -171,12 +171,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457753,
+      "num": 248036,
+      "word": "何宣林回应是孟子义班主任",
+      "onboard_time": 1775289799,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453543,
       "num": 1031568,
       "word": "与辉同行宣布全额退款",
       "onboard_time": 1775229864,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 449809,
+      "num": 1071969,
+      "word": "逼出最强孙颖莎的高达才17岁",
+      "onboard_time": 1775287520,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414094,
+      "num": 801642,
+      "word": "爆火鸡煲店老板称用的冰冻鸡",
+      "onboard_time": 1775289799,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411809,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316982,
+      "num": 120925,
+      "word": "黄磊12岁二女儿身高",
+      "onboard_time": 1775287582,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316444,
       "num": 263864,
       "word": "王传君给陈赫送的花篮上叫他贤哥",
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285522,
+      "num": 150675,
+      "word": "印度女子好心给水喝反遭强奸",
+      "onboard_time": 1775289080,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 281690,
       "num": 281690,
       "word": "原来真有人住的房子这么大",
@@ -377,14 +417,6 @@
       "onboard_time": 1775231723,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267555,
-      "num": 105416,
-      "word": "黄磊12岁二女儿身高",
-      "onboard_time": 1775287582,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 246338,
@@ -417,14 +449,6 @@
       "onboard_time": 1775276600,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225596,
-      "num": 262440,
-      "word": "逼出最强孙颖莎的高达才17岁",
-      "onboard_time": 1775287520,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 219218,
@@ -521,6 +545,14 @@
       "onboard_time": 1775269040,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208373,
+      "num": 208373,
+      "word": "孙颖莎说高达没防住",
+      "onboard_time": 1775289321,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 197719,
@@ -691,6 +723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141290,
+      "num": 141290,
+      "word": "董思成吐槽尹子维脾气大",
+      "onboard_time": 1775291780,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139863,
       "num": 139863,
       "word": "范闲 你也给祺贵人打电话吗",
@@ -763,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131770,
-      "num": 131770,
-      "word": "孙颖莎说高达没防住",
-      "onboard_time": 1775289321,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131493,
       "num": 117328,
       "word": "孔令奇再办婚礼",
@@ -795,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127201,
+      "num": 127201,
+      "word": "黄金大幅回落",
+      "onboard_time": 1775285961,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127062,
       "num": 127062,
       "word": "TES对战iG",
@@ -817,6 +857,14 @@
       "onboard_time": 1775267420,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123547,
+      "num": 123547,
+      "word": "白日提灯反派骂女主台词",
+      "onboard_time": 1775291481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 121246,
@@ -859,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114089,
+      "num": 114089,
+      "word": "优思益营销公司客户还有雀巢雅迪",
+      "onboard_time": 1775290161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112232,
       "num": 103184,
       "word": "歌不是谁唱火的谁有版权",
@@ -888,6 +944,14 @@
       "word": "海南一沙滩现巨型搁浅皇带鱼",
       "onboard_time": 1775263400,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104928,
+      "num": 104928,
+      "word": "曹操墓前放布洛芬李白墓前放名酒",
+      "onboard_time": 1775290100,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97513,
+      "num": 97513,
+      "word": "狗 爷爷这么做一定有他的道理",
+      "onboard_time": 1775291181,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96096,
       "num": 78067,
       "word": "发现小猫长牙齿之后天天都要看",
@@ -1019,14 +1091,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 91624,
-      "num": 93057,
-      "word": "黄金大幅回落",
-      "onboard_time": 1775285961,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90387,
       "num": 84008,
       "word": "周杰伦演唱会",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1775196742,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89240,
-      "num": 84812,
-      "word": "何宣林回应是孟子义班主任",
-      "onboard_time": 1775289799,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 88471,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1775287461,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86780,
+      "num": 98148,
+      "word": "这几类人建议尽快做一次胃镜",
+      "onboard_time": 1775290280,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86364,
@@ -1259,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77381,
+      "num": 77381,
+      "word": "范玮琪希望网友不要被舆论带偏",
+      "onboard_time": 1775292079,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77315,
       "num": 77315,
       "word": "东契奇无限期休战",
@@ -1275,12 +1347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76423,
+      "num": 76423,
+      "word": "张雪机车投资方已猛赚500%",
+      "onboard_time": 1775291420,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75910,
       "num": 75910,
       "word": "双高胎抢票",
       "onboard_time": 1775280560,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75864,
+      "num": 75864,
+      "word": "T1迎战HLE",
+      "onboard_time": 1775292620,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 75582,
@@ -1315,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71843,
+      "num": 71843,
+      "word": "孙颖莎退场时2次亲吻球拍",
+      "onboard_time": 1775292561,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71224,
       "num": 71224,
       "word": "喜人在张杰鸟巢演唱会团建",
@@ -1339,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70232,
+      "num": 97580,
+      "word": "伊朗准备猎杀敌方五代机",
+      "onboard_time": 1775291362,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69774,
       "num": 69774,
       "word": "遮天首部剧场版今日开播",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1775278341,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69220,
+      "num": 69220,
+      "word": "孙颖莎赛后仍感觉没打完",
+      "onboard_time": 1775291961,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 69096,
@@ -1427,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66098,
-      "num": 66098,
-      "word": "爆火鸡煲店老板称用的冰冻鸡",
-      "onboard_time": 1775289799,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65942,
       "num": 65942,
       "word": "黄灿灿听到结果后自己都懵了",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1775232861,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65592,
+      "num": 65592,
+      "word": "郝帅辟谣炮轰孙颖莎",
+      "onboard_time": 1775292620,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 65528,
@@ -1523,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 64015,
+      "num": 64015,
+      "word": "解决了辣条的油腻和减脂餐的清淡",
+      "onboard_time": 1775292501,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 63859,
       "num": 63859,
       "word": "赵本山女儿回应被骂网络乞丐",
@@ -1569,6 +1689,14 @@
       "onboard_time": 1775289501,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61875,
+      "num": 61875,
+      "word": "许昕精准预言孙颖莎换球衣",
+      "onboard_time": 1775291060,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 61830,
@@ -1867,12 +1995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25947,
-      "num": 73858,
-      "word": "印度女子好心给水喝反遭强奸",
-      "onboard_time": 1775289080,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 27549,
+      "num": 637513,
+      "word": "致敬缅怀奋进",
+      "onboard_time": 1775291780,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24644,
@@ -1896,6 +2024,14 @@
       "word": "90后立遗嘱把压岁钱游戏账号给朋友",
       "onboard_time": 1775288900,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23275,
+      "num": 156568,
+      "word": "袁隆平墓前摆满稻穗鲜花",
+      "onboard_time": 1775291900,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1929,6 +2065,14 @@
       "onboard_time": 1775250674,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14076,
+      "num": 122409,
+      "word": "少女否认被骗电诈园父母疑其遭胁迫",
+      "onboard_time": 1775291780,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
