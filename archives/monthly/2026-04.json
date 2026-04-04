@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775284663394,
+  "endTime": 1775289254959,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 916197,
+      "num": 249487,
+      "word": "王传君和爱情公寓和解了",
+      "onboard_time": 1775284100,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 904575,
       "num": 279599,
       "word": "李若彤发布致歉声明",
@@ -529,6 +537,14 @@
       "onboard_time": 1775038522,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 702985,
+      "num": 237886,
+      "word": "虞书欣签售会",
+      "onboard_time": 1775287280,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 695645,
@@ -1667,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335006,
+      "num": 335006,
+      "word": "当你以为回县城老家是退路时",
+      "onboard_time": 1775284222,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334779,
       "num": 156039,
       "word": "王菲俞飞鸿聚餐",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1775225664,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301107,
+      "num": 439041,
+      "word": "美国提议停火48小时",
+      "onboard_time": 1775286920,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295160,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1775033603,
       "rank": 8,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 251289,
+      "num": 347654,
+      "word": "杨紫看了黄灿灿初舞台",
+      "onboard_time": 1775288239,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 250169,
@@ -2875,6 +2915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212126,
+      "num": 107134,
+      "word": "王橹杰 锁骨连肩",
+      "onboard_time": 1775282001,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211862,
       "num": 436622,
       "word": "中国无人机蜂群突击铺天盖地",
@@ -2889,6 +2937,14 @@
       "onboard_time": 1774973483,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 210589,
+      "num": 210589,
+      "word": "高达哭了",
+      "onboard_time": 1775285902,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 210289,
@@ -3179,6 +3235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190404,
+      "num": 267546,
+      "word": "松岛辉空4比0莫雷加德",
+      "onboard_time": 1775287701,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190342,
       "num": 318701,
       "word": "TXT新专 万妮达",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1775106682,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188834,
+      "num": 99790,
+      "word": "黄磊12岁二女儿身高",
+      "onboard_time": 1775287582,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 186256,
@@ -3224,14 +3296,6 @@
       "word": "曾舜晞工作室致歉",
       "onboard_time": 1775121201,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185463,
-      "num": 160506,
-      "word": "王传君和爱情公寓和解了",
-      "onboard_time": 1775284100,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -3499,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167987,
+      "num": 167987,
+      "word": "李倩月到死都不知道凶手是男友",
+      "onboard_time": 1775287701,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166448,
       "num": 166448,
       "word": "谢楠让谢娜回去主持",
@@ -3561,6 +3633,14 @@
       "onboard_time": 1775005882,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163425,
+      "num": 262440,
+      "word": "逼出最强孙颖莎的高达才17岁",
+      "onboard_time": 1775287520,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 163072,
@@ -3723,6 +3803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158086,
+      "num": 1025293,
+      "word": "十日终焉",
+      "onboard_time": 1774951282,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158036,
       "num": 158036,
       "word": "王艺迪vs张本美和",
@@ -3779,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154583,
+      "num": 154583,
+      "word": "未成年画师疑被父母送戒网瘾学校",
+      "onboard_time": 1775285181,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "高圆圆赵又廷女儿长这么大了",
@@ -3817,6 +3913,14 @@
       "onboard_time": 1775110102,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152354,
+      "num": 730537,
+      "word": "孙颖莎4比3高达",
+      "onboard_time": 1775284460,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 151931,
@@ -3977,14 +4081,6 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146768,
-      "num": 107134,
-      "word": "王橹杰 锁骨连肩",
-      "onboard_time": 1775282001,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 145501,
@@ -4508,7 +4604,7 @@
     },
     {
       "raw_hot": 128393,
-      "num": 106971,
+      "num": 124112,
       "word": "刘亦菲G社最严厉的母亲",
       "onboard_time": 1775282060,
       "rank": 24,
@@ -4689,6 +4785,14 @@
       "onboard_time": 1775190743,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122593,
+      "num": 122593,
+      "word": "穆祉丞身后有整个家族撑腰",
+      "onboard_time": 1775287340,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 122514,
@@ -5057,14 +5161,6 @@
       "onboard_time": 1774946664,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115896,
-      "num": 105806,
-      "word": "十日终焉",
-      "onboard_time": 1774951282,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 115225,
@@ -5441,14 +5537,6 @@
       "onboard_time": 1775210663,
       "rank": 35,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 106839,
-      "num": 106839,
-      "word": "孙颖莎4比3高达",
-      "onboard_time": 1775284460,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 106757,
@@ -6371,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92635,
+      "num": 92635,
+      "word": "郭焱解说孙颖莎4比3高达",
+      "onboard_time": 1775288122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92297,
       "num": 92297,
       "word": "TFBOYS我们的少年时代未公开照",
@@ -6883,6 +6979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86863,
+      "num": 86863,
+      "word": "特朗普破防开怼欧洲领导人",
+      "onboard_time": 1775287461,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86645,
       "num": 86645,
       "word": "张雪机车泰安店试驾车都快跑冒烟了",
@@ -7267,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83556,
+      "num": 93057,
+      "word": "黄金大幅回落",
+      "onboard_time": 1775285961,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83515,
       "num": 81115,
       "word": "温峥嵘赢了代斯100票",
@@ -7321,6 +7433,22 @@
       "onboard_time": 1775187321,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82808,
+      "num": 82808,
+      "word": "郭富城小女儿近照",
+      "onboard_time": 1775288480,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82607,
+      "num": 82607,
+      "word": "松岛辉空晋级世界杯四强",
+      "onboard_time": 1775289080,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 82313,
@@ -7755,14 +7883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 76757,
-      "num": 76757,
-      "word": "当你以为回县城老家是退路时",
-      "onboard_time": 1775284222,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76733,
       "num": 76733,
       "word": "局地有10级以上雷暴大风",
@@ -8040,6 +8160,14 @@
       "word": "杨瀚森20分7板2助2帽",
       "onboard_time": 1775281281,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72964,
+      "num": 72964,
+      "word": "孙颖莎决胜局2比6落后惊天逆转",
+      "onboard_time": 1775285421,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -8419,6 +8547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68447,
+      "num": 68447,
+      "word": "TES对战iG",
+      "onboard_time": 1775288540,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68429,
       "num": 68429,
       "word": "现货黄金",
@@ -8659,6 +8795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64139,
+      "num": 64139,
+      "word": "广东人有自己的广东辣",
+      "onboard_time": 1775288239,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -8771,12 +8915,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61803,
+      "num": 61803,
+      "word": "米饭冰淇淋",
+      "onboard_time": 1775287461,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 61595,
+      "num": 61595,
+      "word": "孙颖莎马琳复盘比赛",
+      "onboard_time": 1775289140,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61584,
       "num": 61584,
       "word": "白日提灯待遇",
       "onboard_time": 1775168656,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61519,
+      "num": 61519,
+      "word": "向家里人官宣小猫咪",
+      "onboard_time": 1775288840,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 61468,
@@ -8801,6 +8969,14 @@
       "onboard_time": 1775001503,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61063,
+      "num": 61063,
+      "word": "刚放假就开始听反方向的钟了",
+      "onboard_time": 1775287221,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 60923,
@@ -8929,6 +9105,14 @@
       "onboard_time": 1775271680,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58972,
+      "num": 58972,
+      "word": "深圳清明暴雨天黑到要开灯",
+      "onboard_time": 1775287880,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58858,
@@ -9683,6 +9867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33227,
+      "num": 573241,
+      "word": "多巴胺花海惊艳上线",
+      "onboard_time": 1775287640,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33079,
       "num": 54717,
       "word": "陈奕恒海边花絮",
@@ -9979,6 +10171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19837,
+      "num": 100709,
+      "word": "90后立遗嘱把压岁钱游戏账号给朋友",
+      "onboard_time": 1775288900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19394,
       "num": 163368,
       "word": "办不成事专窗何以走红",
@@ -10193,6 +10393,14 @@
       "onboard_time": 1774965805,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11324,
+      "num": 73858,
+      "word": "印度女子好心给水喝反遭强奸",
+      "onboard_time": 1775289080,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11194,
