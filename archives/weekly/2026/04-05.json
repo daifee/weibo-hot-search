@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775329767042,
+  "endTime": 1775331527062,
   "band_list": [
     {
       "raw_hot": 789060,
@@ -459,7 +459,7 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 22747,
+      "raw_hot": 25530,
       "num": 35829,
       "word": "美军一天2架战机被伊朗击落",
       "onboard_time": 1775319500,
@@ -488,6 +488,14 @@
       "word": "鞠婧祎露芜衣晋江演技",
       "onboard_time": 1775329515,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18266,
+      "num": 18808,
+      "word": "鞠婧祎这几个小挑眉好灵",
+      "onboard_time": 1775330174,
+      "rank": 41,
       "category": "剧集"
     },
     {
