@@ -1,0 +1,410 @@
+{
+  "runTime": 1775302655737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726390,
+        "num": 1116222,
+        "word": "陈幸同0比11申裕斌",
+        "onboard_time": 1775302164,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477517,
+        "num": 826060,
+        "word": "许昕说孙颖莎赢得侥幸",
+        "onboard_time": 1775299160,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14227,
+        "num": 664752,
+        "word": "文旅共绘诗与远方新画卷",
+        "onboard_time": 1775287400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408806,
+        "num": 408806,
+        "word": "王楚钦vs约奇克",
+        "onboard_time": 1775302101,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380541,
+        "num": 380541,
+        "word": "酒店员工提醒小孩别玩门家长报警",
+        "onboard_time": 1775299041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382202,
+        "num": 365657,
+        "word": "乘风初舞台第二场",
+        "onboard_time": 1775302281,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172341,
+        "num": 329320,
+        "word": "陈幸同vs申裕斌",
+        "onboard_time": 1775299702,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497954,
+        "num": 267014,
+        "word": "张艺上 下次争取只美不崩溃",
+        "onboard_time": 1775298021,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434524,
+        "num": 238840,
+        "word": "王传君和爱情公寓和解了",
+        "onboard_time": 1775284100,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226999,
+        "num": 226999,
+        "word": "易军怒斥张雪机车被无底线消费",
+        "onboard_time": 1775297782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257236,
+        "num": 226761,
+        "word": "伊朗驻华大使馆发布战果",
+        "onboard_time": 1775296642,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224559,
+        "num": 224559,
+        "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+        "onboard_time": 1775293641,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224056,
+        "num": 224056,
+        "word": "五哈6开播",
+        "onboard_time": 1775297782,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197874,
+        "num": 197874,
+        "word": "白日提灯反派骂女主台词",
+        "onboard_time": 1775291481,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195985,
+        "num": 195985,
+        "word": "泰国女星遭假急救人员侵犯",
+        "onboard_time": 1775300841,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171705,
+        "num": 171705,
+        "word": "广东仅珠海仍全域禁止电动自行车",
+        "onboard_time": 1775299461,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166390,
+        "num": 166390,
+        "word": "狗 爷爷这么做一定有他的道理",
+        "onboard_time": 1775291181,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153664,
+        "num": 153664,
+        "word": "莫氏鸡煲老板娘直呼生无可恋",
+        "onboard_time": 1775293340,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144986,
+        "num": 144986,
+        "word": "何宣林回应是孟子义班主任",
+        "onboard_time": 1775289799,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126531,
+        "num": 126531,
+        "word": "AL战胜WBG",
+        "onboard_time": 1775301620,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380681,
+        "num": 126510,
+        "word": "刘琳琳拍的虞书欣",
+        "onboard_time": 1775296941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191316,
+        "num": 126462,
+        "word": "红果多部短剧AI角色撞脸易烊千玺",
+        "onboard_time": 1775297901,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131122,
+        "num": 126424,
+        "word": "无人继承的巨额遗产或在拖垮日本",
+        "onboard_time": 1775295021,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126376,
+        "num": 126376,
+        "word": "鞠婧祎露芜衣夕阳下跳舞",
+        "onboard_time": 1775298622,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126342,
+        "num": 126342,
+        "word": "五哈只有一个小时",
+        "onboard_time": 1775300901,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115436,
+        "num": 115436,
+        "word": "埃及一航班行李全部丢失",
+        "onboard_time": 1775294183,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 113911,
+        "word": "虞书欣香水",
+        "onboard_time": 1775293881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 111030,
+        "word": "赵子琪回应浪姐唯一人脉",
+        "onboard_time": 1775298561,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104526,
+        "num": 104526,
+        "word": "爆火鸡煲店老板称用的冰冻鸡",
+        "onboard_time": 1775289799,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70364,
+        "num": 102797,
+        "word": "1099元内衣外穿年轻人买单吗",
+        "onboard_time": 1775294240,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 254161,
+        "num": 102754,
+        "word": "马兴瑞被查新疆表态",
+        "onboard_time": 1775301381,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109677,
+        "num": 102732,
+        "word": "鹿晗真破音",
+        "onboard_time": 1775301562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102662,
+        "num": 102662,
+        "word": "逼出最强孙颖莎的高达才18岁",
+        "onboard_time": 1775287520,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101709,
+        "num": 101709,
+        "word": "79岁老人花2千多买塑身内衣穿",
+        "onboard_time": 1775300841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97791,
+        "num": 97791,
+        "word": "申裕斌晋级世界杯四强",
+        "onboard_time": 1775302101,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90994,
+        "num": 90994,
+        "word": "AG周决荣都吃鸡",
+        "onboard_time": 1775302101,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89887,
+        "num": 89887,
+        "word": "印度女子好心给水喝反遭强奸",
+        "onboard_time": 1775289080,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85061,
+        "num": 85061,
+        "word": "呼吸哥说LPL不如Uzi杯",
+        "onboard_time": 1775302164,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81002,
+        "num": 81002,
+        "word": "WB对战KSG",
+        "onboard_time": 1775301681,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78488,
+        "num": 78488,
+        "word": "五哈 下饭",
+        "onboard_time": 1775301920,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76000,
+        "num": 76000,
+        "word": "陈幸同无缘世界杯四强",
+        "onboard_time": 1775302101,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75934,
+        "num": 75934,
+        "word": "陈幸同申裕斌34板极限相持",
+        "onboard_time": 1775300482,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75157,
+        "num": 75157,
+        "word": "范玮琪希望网友不要被舆论带偏",
+        "onboard_time": 1775292079,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74568,
+        "num": 74568,
+        "word": "WBG对战AL",
+        "onboard_time": 1775300841,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74065,
+        "num": 74065,
+        "word": "杨紫看了黄灿灿初舞台",
+        "onboard_time": 1775288239,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72581,
+        "num": 72581,
+        "word": "十日终焉",
+        "onboard_time": 1775283800,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66953,
+        "num": 71399,
+        "word": "iG战胜TES",
+        "onboard_time": 1775294362,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70668,
+        "num": 70668,
+        "word": "刘耀文举宋亚轩路透",
+        "onboard_time": 1775294001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70457,
+        "num": 70457,
+        "word": "T.O.P新歌官方翻译歌词",
+        "onboard_time": 1775298442,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63621,
+        "num": 70334,
+        "word": "解决了辣条的油腻和减脂餐的清淡",
+        "onboard_time": 1775292501,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}

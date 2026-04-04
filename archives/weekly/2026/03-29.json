@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775300444798,
+  "endTime": 1775302655737,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -865,6 +865,14 @@
       "onboard_time": 1775128462,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 726390,
+      "num": 1116222,
+      "word": "陈幸同0比11申裕斌",
+      "onboard_time": 1775302164,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 720310,
@@ -1771,6 +1779,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 497954,
+      "num": 267014,
+      "word": "张艺上 下次争取只美不崩溃",
+      "onboard_time": 1775298021,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497930,
       "num": 286582,
       "word": "孙怡 好美的洋娃娃",
@@ -1848,6 +1864,14 @@
       "word": "国乒男线对德国3连败",
       "onboard_time": 1775055324,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 477517,
+      "num": 826060,
+      "word": "许昕说孙颖莎赢得侥幸",
+      "onboard_time": 1775299160,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2347,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408806,
+      "num": 408806,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1775302101,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408421,
       "num": 768809,
       "word": "孙颖莎vs蒯曼",
@@ -2433,14 +2465,6 @@
       "onboard_time": 1775145862,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395307,
-      "num": 250264,
-      "word": "张艺上 下次争取只美不崩溃",
-      "onboard_time": 1775298021,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 393893,
@@ -2563,6 +2587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 382202,
+      "num": 365657,
+      "word": "乘风初舞台第二场",
+      "onboard_time": 1775302281,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382201,
       "num": 382201,
       "word": "网传张凌赫赵今麦一念江南",
@@ -2585,6 +2617,14 @@
       "onboard_time": 1774965805,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380541,
+      "num": 380541,
+      "word": "酒店员工提醒小孩别玩门家长报警",
+      "onboard_time": 1775299041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380506,
@@ -4052,7 +4092,7 @@
     },
     {
       "raw_hot": 266526,
-      "num": 178722,
+      "num": 226761,
       "word": "伊朗驻华大使馆发布战果",
       "onboard_time": 1775296642,
       "rank": 44,
@@ -4321,6 +4361,14 @@
       "onboard_time": 1775045302,
       "rank": 5,
       "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 254161,
+      "num": 102754,
+      "word": "马兴瑞被查新疆表态",
+      "onboard_time": 1775301381,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252129,
@@ -4937,6 +4985,14 @@
       "onboard_time": 1775112081,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226999,
+      "num": 226999,
+      "word": "易军怒斥张雪机车被无底线消费",
+      "onboard_time": 1775297782,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226856,
@@ -5755,6 +5811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195985,
+      "num": 195985,
+      "word": "泰国女星遭假急救人员侵犯",
+      "onboard_time": 1775300841,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195831,
       "num": 135981,
       "word": "代旭 男主剧",
@@ -6024,14 +6088,6 @@
       "word": "蔡磊感觉最对不起的就是妻子",
       "onboard_time": 1774788806,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189237,
-      "num": 189237,
-      "word": "易军怒斥张雪机车被无底线消费",
-      "onboard_time": 1775297782,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6475,14 +6531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172311,
-      "num": 181398,
-      "word": "酒店员工提醒小孩别玩门家长报警",
-      "onboard_time": 1775299041,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172071,
       "num": 922371,
       "word": "李莎旻子救场",
@@ -6521,6 +6569,14 @@
       "onboard_time": 1775026882,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171705,
+      "num": 171705,
+      "word": "广东仅珠海仍全域禁止电动自行车",
+      "onboard_time": 1775299461,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170041,
@@ -6881,14 +6937,6 @@
       "onboard_time": 1775095161,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161998,
-      "num": 161998,
-      "word": "许昕说孙颖莎赢得侥幸",
-      "onboard_time": 1775299160,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 161995,
@@ -8731,12 +8779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126531,
+      "num": 126531,
+      "word": "AL战胜WBG",
+      "onboard_time": 1775301620,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126348,
       "num": 126348,
       "word": "中国石油拟分红457.6亿元",
       "onboard_time": 1774778428,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126342,
+      "num": 126342,
+      "word": "五哈只有一个小时",
+      "onboard_time": 1775300901,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 126237,
@@ -9955,6 +10019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109677,
+      "num": 102732,
+      "word": "鹿晗真破音",
+      "onboard_time": 1775301562,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109537,
       "num": 115666,
       "word": "17岁小伙体内藏了根十多年的缝衣针",
@@ -10353,14 +10425,6 @@
       "onboard_time": 1775012004,
       "rank": 32,
       "category": "议题讨论,互联网"
-    },
-    {
-      "raw_hot": 106461,
-      "num": 106461,
-      "word": "广东仅珠海仍全域禁止电动自行车",
-      "onboard_time": 1775299461,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106419,
@@ -10817,6 +10881,14 @@
       "onboard_time": 1775222364,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101709,
+      "num": 101709,
+      "word": "79岁老人花2千多买塑身内衣穿",
+      "onboard_time": 1775300841,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101707,
@@ -11297,6 +11369,14 @@
       "onboard_time": 1774778187,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97791,
+      "num": 97791,
+      "word": "申裕斌晋级世界杯四强",
+      "onboard_time": 1775302101,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 97786,
@@ -12209,6 +12289,14 @@
       "onboard_time": 1775187021,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90994,
+      "num": 90994,
+      "word": "AG周决荣都吃鸡",
+      "onboard_time": 1775302101,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 90990,
@@ -13323,6 +13411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85061,
+      "num": 85061,
+      "word": "呼吸哥说LPL不如Uzi杯",
+      "onboard_time": 1775302164,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85033,
       "num": 85033,
       "word": "王楚钦孙逊复盘比赛",
@@ -13987,6 +14083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81002,
+      "num": 81002,
+      "word": "WB对战KSG",
+      "onboard_time": 1775301681,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80892,
       "num": 80892,
       "word": "小猫从质疑到相信只用了一秒",
@@ -14387,6 +14491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78488,
+      "num": 78488,
+      "word": "五哈 下饭",
+      "onboard_time": 1775301920,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78453,
       "num": 78453,
       "word": "张雪解释自己为何没考汽车驾照",
@@ -14755,6 +14867,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76000,
+      "num": 76000,
+      "word": "陈幸同无缘世界杯四强",
+      "onboard_time": 1775302101,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75934,
+      "num": 75934,
+      "word": "陈幸同申裕斌34板极限相持",
+      "onboard_time": 1775300482,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75914,
       "num": 75914,
       "word": "罗晋连续16年缅怀张国荣",
@@ -14921,6 +15049,14 @@
       "onboard_time": 1774713682,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74568,
+      "num": 74568,
+      "word": "WBG对战AL",
+      "onboard_time": 1775300841,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 74565,
@@ -15531,6 +15667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70457,
+      "num": 70457,
+      "word": "T.O.P新歌官方翻译歌词",
+      "onboard_time": 1775298442,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70441,
       "num": 76337,
       "word": "老板养到真旺财了",
@@ -15937,14 +16081,6 @@
       "onboard_time": 1775124441,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 66955,
-      "num": 66955,
-      "word": "T.O.P新歌官方翻译歌词",
-      "onboard_time": 1775298442,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 66936,
@@ -18876,7 +19012,7 @@
     },
     {
       "raw_hot": 18099,
-      "num": 658370,
+      "num": 664752,
       "word": "文旅共绘诗与远方新画卷",
       "onboard_time": 1775287400,
       "rank": 2,
