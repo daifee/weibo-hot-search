@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775318163364,
+  "endTime": 1775321118731,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746450,
+      "num": 786376,
+      "word": "瞿颖 作为西班牙人",
+      "onboard_time": 1775318542,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736329,
       "num": 210715,
       "word": "张月好飒",
@@ -928,6 +936,14 @@
       "word": "范玮琪太紧张了",
       "onboard_time": 1775218883,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 594535,
+      "num": 396629,
+      "word": "乘风Queen",
+      "onboard_time": 1775319260,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -3123,6 +3139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238768,
+      "num": 238768,
+      "word": "伊朗无人机大规模打击本古里安机场",
+      "onboard_time": 1775319260,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 238632,
       "num": 238632,
       "word": "家属公布输液后去世男童生化报告",
@@ -3643,12 +3667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205518,
+      "num": 152610,
+      "word": "曾沛慈回应夯爆了",
+      "onboard_time": 1775317042,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203984,
       "num": 424556,
       "word": "伊朗总统说遵从最高领袖指示",
       "onboard_time": 1775048603,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203178,
+      "num": 129584,
+      "word": "谢娜看到李小冉票数后哭了",
+      "onboard_time": 1775319981,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 203011,
@@ -4665,14 +4705,6 @@
       "onboard_time": 1775110102,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152610,
-      "num": 152610,
-      "word": "曾沛慈回应夯爆了",
-      "onboard_time": 1775317042,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 152354,
@@ -9219,6 +9251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76530,
+      "num": 110839,
+      "word": "爱上台女是我的宿命",
+      "onboard_time": 1775318002,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76375,
       "num": 83809,
       "word": "收到了1岁到28岁的礼物",
@@ -9835,6 +9875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70551,
+      "num": 70551,
+      "word": "浪姐到底在哪投票",
+      "onboard_time": 1775318182,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70529,
       "num": 70529,
       "word": "A股1年跑出541只翻倍股",
@@ -9889,6 +9937,14 @@
       "onboard_time": 1775291362,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70141,
+      "num": 123810,
+      "word": "马略卡vs皇马",
+      "onboard_time": 1775317462,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 70128,
@@ -10169,6 +10225,14 @@
       "onboard_time": 1775295801,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66923,
+      "num": 66923,
+      "word": "朴志晟发博",
+      "onboard_time": 1775317701,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 66917,
@@ -10507,14 +10571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61559,
-      "num": 110839,
-      "word": "爱上台女是我的宿命",
-      "onboard_time": 1775318002,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61519,
       "num": 61519,
       "word": "向家里人官宣小猫咪",
@@ -10691,6 +10747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59369,
+      "num": 64531,
+      "word": "迪丽热巴白日提灯热度登顶",
+      "onboard_time": 1775316921,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59281,
       "num": 59281,
       "word": "美伊都在找一名跳伞美军",
@@ -10779,6 +10843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55654,
+      "num": 65643,
+      "word": "雨果说再战王楚钦是很大挑战",
+      "onboard_time": 1775318601,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55113,
       "num": 60050,
       "word": "优思益问题被调查",
@@ -10865,14 +10937,6 @@
       "onboard_time": 1775234839,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 53775,
-      "num": 111542,
-      "word": "马略卡vs皇马",
-      "onboard_time": 1775317462,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 53410,
@@ -10969,6 +11033,14 @@
       "onboard_time": 1774973483,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50731,
+      "num": 64676,
+      "word": "江坂丽奈美甲",
+      "onboard_time": 1775320398,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 50725,
@@ -11096,6 +11168,14 @@
       "word": "日本边喊销毁核武器边囤核原料",
       "onboard_time": 1775062759,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48246,
+      "num": 64085,
+      "word": "伊朗发起第93波打击",
+      "onboard_time": 1775318962,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -11249,6 +11329,14 @@
       "onboard_time": 1775102841,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42611,
+      "num": 63986,
+      "word": "张雪凡尔赛式总结20年",
+      "onboard_time": 1775320940,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42466,
