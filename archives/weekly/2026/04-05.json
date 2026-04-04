@@ -1,10 +1,10 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775343492157,
+  "endTime": 1775346011592,
   "band_list": [
     {
-      "raw_hot": 789060,
-      "num": 789060,
+      "raw_hot": 844818,
+      "num": 967827,
       "word": "瞿颖 作为西班牙人",
       "onboard_time": 1775318542,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1775319260,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339756,
+      "num": 339756,
+      "word": "伊朗无人机大规模打击本古里安机场",
+      "onboard_time": 1775319260,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 335594,
@@ -35,20 +43,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 298887,
-      "num": 298887,
-      "word": "伊朗无人机大规模打击本古里安机场",
-      "onboard_time": 1775319260,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 265966,
       "num": 122349,
       "word": "黄晓明晒和儿子春日骑行照",
       "onboard_time": 1775312964,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254497,
+      "num": 254497,
+      "word": "谢娜看到李小冉票数后哭了",
+      "onboard_time": 1775319981,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 229360,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 218899,
-      "num": 554598,
+      "num": 700350,
       "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
       "onboard_time": 1775312125,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217169,
+      "num": 217169,
+      "word": "曝熊黛林做全职妈妈后被老公嫌弃",
+      "onboard_time": 1775306483,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205518,
@@ -72,14 +88,6 @@
       "word": "曾沛慈回应夯爆了",
       "onboard_time": 1775317042,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203178,
-      "num": 200203,
-      "word": "谢娜看到李小冉票数后哭了",
-      "onboard_time": 1775319981,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -123,20 +131,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127299,
-      "num": 127299,
-      "word": "曝熊黛林做全职妈妈后被老公嫌弃",
-      "onboard_time": 1775306483,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 120543,
+      "raw_hot": 139772,
       "num": 120543,
       "word": "张凌赫脱稿演讲六分半的含金量",
       "onboard_time": 1775309602,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126289,
+      "num": 126289,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124070,
+      "num": 125788,
+      "word": "海关截获18厘米长活体帝王蝎",
+      "onboard_time": 1775311284,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115883,
@@ -145,6 +161,14 @@
       "onboard_time": 1775315365,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109686,
+      "num": 42852,
+      "word": "张月回应第一",
+      "onboard_time": 1775345478,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 103865,
@@ -179,12 +203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93857,
-      "num": 93857,
-      "word": "无人继承的巨额遗产或在拖垮日本",
-      "onboard_time": 1775295021,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 94628,
+      "num": 94628,
+      "word": "伊朗击落2架美战机击中2架黑鹰",
+      "onboard_time": 1775344636,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87554,
@@ -193,6 +217,14 @@
       "onboard_time": 1775305104,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87467,
+      "num": 87467,
+      "word": "酒店员工提醒小孩别玩门家长报警",
+      "onboard_time": 1775299041,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83056,
@@ -208,14 +240,6 @@
       "word": "六大行房贷减少7100亿",
       "onboard_time": 1775313684,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77522,
-      "num": 125788,
-      "word": "海关截获18厘米长活体帝王蝎",
-      "onboard_time": 1775311284,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -307,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63568,
-      "num": 68813,
-      "word": "酒店员工提醒小孩别玩门家长报警",
-      "onboard_time": 1775299041,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59369,
       "num": 64531,
       "word": "迪丽热巴白日提灯热度登顶",
@@ -329,6 +345,14 @@
       "onboard_time": 1775311945,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56434,
+      "num": 56434,
+      "word": "美军一天2架战机被伊朗击落",
+      "onboard_time": 1775319500,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56331,
@@ -355,8 +379,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53831,
+      "num": 44332,
+      "word": "约奇克说王楚钦赢得实至名归",
+      "onboard_time": 1775344757,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53428,
+      "num": 44321,
+      "word": "以军空袭伊朗石化设施",
+      "onboard_time": 1775344937,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53358,
-      "num": 49780,
+      "num": 49802,
       "word": "李小冉拉票 老实人豁出去了",
       "onboard_time": 1775319681,
       "rank": 31,
@@ -443,20 +483,84 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45936,
-      "num": 45936,
-      "word": "美军一天2架战机被伊朗击落",
-      "onboard_time": 1775319500,
-      "rank": 46,
+      "raw_hot": 44958,
+      "num": 44958,
+      "word": "伊朗一核电站附近遭袭致1死",
+      "onboard_time": 1775344757,
+      "rank": 28,
       "category": "国际时政"
     },
     {
+      "raw_hot": 44772,
+      "num": 44772,
+      "word": "萧蔷初舞台第一名",
+      "onboard_time": 1775345958,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43783,
+      "num": 43783,
+      "word": "鞠婧祎这几个小挑眉好灵",
+      "onboard_time": 1775330174,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 42851,
+      "word": "冯提莫自曝身高体重",
+      "onboard_time": 1775303481,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 42844,
+      "word": "陈凯琳老公是郑嘉颖",
+      "onboard_time": 1775312066,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32878,
+      "num": 42840,
+      "word": "房主任体重200斤膝盖积液",
+      "onboard_time": 1775345958,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32361,
-      "num": 35900,
+      "num": 42835,
       "word": "我欲乘风",
       "onboard_time": 1775308884,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29165,
+      "num": 42842,
+      "word": "赵心童8比0领先希金斯",
+      "onboard_time": 1775315365,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29098,
+      "num": 42838,
+      "word": "李清明  清明节myday",
+      "onboard_time": 1775345657,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27959,
+      "num": 42838,
+      "word": "女子坠崖被送医爱犬独守原地7天",
+      "onboard_time": 1775327536,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26700,
@@ -465,14 +569,6 @@
       "onboard_time": 1775328555,
       "rank": 41,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 25787,
-      "num": 31479,
-      "word": "鞠婧祎这几个小挑眉好灵",
-      "onboard_time": 1775330174,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 20580,
@@ -499,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18151,
-      "num": 31431,
-      "word": "女子坠崖被送医爱犬独守原地7天",
-      "onboard_time": 1775327536,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 16827,
       "num": 25572,
       "word": "浪姐票数",
@@ -521,6 +609,14 @@
       "onboard_time": 1775335694,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11332,
+      "num": 535244,
+      "word": "清明假期叠加春假激发经济新活力",
+      "onboard_time": 1775310324,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8916,
