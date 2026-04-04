@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775339743533,
+  "endTime": 1775342359514,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -11491,6 +11491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37787,
+      "num": 37787,
+      "word": "美军一天2架战机被伊朗击落",
+      "onboard_time": 1775319500,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37479,
       "num": 64085,
       "word": "鸡煲店老板喊话刘雨鑫探店其他美食",
@@ -11689,14 +11697,6 @@
       "onboard_time": 1774979475,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31506,
-      "num": 35829,
-      "word": "美军一天2架战机被伊朗击落",
-      "onboard_time": 1775319500,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31258,
@@ -11987,6 +11987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20449,
+      "num": 25616,
+      "word": "鞠婧祎这几个小挑眉好灵",
+      "onboard_time": 1775330174,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20406,
       "num": 35783,
       "word": "王楚钦大逆转晋级太燃了",
@@ -12009,6 +12017,14 @@
       "onboard_time": 1775143104,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18956,
+      "num": 25928,
+      "word": "鞠婧祎露芜衣晋江演技",
+      "onboard_time": 1775329515,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 18840,
@@ -12041,22 +12057,6 @@
       "onboard_time": 1775029523,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18339,
-      "num": 25928,
-      "word": "鞠婧祎露芜衣晋江演技",
-      "onboard_time": 1775329515,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18266,
-      "num": 19603,
-      "word": "鞠婧祎这几个小挑眉好灵",
-      "onboard_time": 1775330174,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 18151,
@@ -12113,6 +12113,14 @@
       "onboard_time": 1775030063,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16827,
+      "num": 25572,
+      "word": "浪姐票数",
+      "onboard_time": 1775339354,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 15813,
@@ -12177,14 +12185,6 @@
       "onboard_time": 1775200162,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14445,
-      "num": 17876,
-      "word": "浪姐票数",
-      "onboard_time": 1775339354,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 14076,
