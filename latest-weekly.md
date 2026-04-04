@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 04:42:07
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 04:58:00
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%A0%E5%B4%96%E8%A2%AB%E9%80%81%E5%8C%BB%E7%88%B1%E7%8A%AC%E7%8B%AC%E5%AE%88%E5%8E%9F%E5%9C%B07%E5%A4%A9%23" target="weibo">
 女子坠崖被送医爱犬独守原地7天（热度：18151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E6%8A%95%E7%A5%A8%23" target="weibo">
+乘风2026投票（热度：15763）
 </a>
 </li>
 
