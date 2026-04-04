@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775303599969,
+  "endTime": 1775308247483,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -25,6 +25,14 @@
       "onboard_time": 1775049564,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3837292,
+      "num": 286200,
+      "word": "曾沛慈夯爆了",
+      "onboard_time": 1775305764,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 3534322,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1411477,
+      "num": 211128,
+      "word": "倪萍直播道歉",
+      "onboard_time": 1775304143,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1409750,
       "num": 132701,
       "word": "曝IU李钟硕分手",
@@ -208,6 +224,22 @@
       "word": "代斯票数",
       "onboard_time": 1775221402,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1128411,
+      "num": 209624,
+      "word": "浪姐直播",
+      "onboard_time": 1775304143,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1069523,
+      "num": 496156,
+      "word": "徐洁儿张月原地成团",
+      "onboard_time": 1775307384,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -480,6 +512,14 @@
       "word": "谢娜一直不停地拉着袁咏仪说话",
       "onboard_time": 1775139205,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 736329,
+      "num": 210715,
+      "word": "张月好飒",
+      "onboard_time": 1775307384,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -808,6 +848,14 @@
       "word": "范玮琪太紧张了",
       "onboard_time": 1775218883,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 592407,
+      "num": 1094785,
+      "word": "淡淡舞台 完全女团",
+      "onboard_time": 1775306125,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -1177,6 +1225,14 @@
       "onboard_time": 1775276121,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470857,
+      "num": 206119,
+      "word": "瞿颖 我上个世纪还是顶流的时候",
+      "onboard_time": 1775304563,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 470148,
@@ -1731,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348690,
+      "num": 86323,
+      "word": "穆祉丞转发区",
+      "onboard_time": 1775304201,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348055,
       "num": 348055,
       "word": "莫氏鸡煲老板娘直呼生无可恋",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1775299702,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339630,
+      "num": 210071,
+      "word": "中俄法反对武力打通霍尔木兹海峡",
+      "onboard_time": 1775304923,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338459,
@@ -2147,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297133,
+      "num": 163190,
+      "word": "瞿颖太好笑了",
+      "onboard_time": 1775304683,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295160,
       "num": 328817,
       "word": "公安部力挺张雪新手禁令",
@@ -2211,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286404,
+      "num": 286404,
+      "word": "王楚钦撕掉肌贴",
+      "onboard_time": 1775306724,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286286,
       "num": 756993,
       "word": "嘴唇发紫博主称一直以为身体正常",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1775289080,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285349,
+      "num": 285349,
+      "word": "王楚钦晋级四强",
+      "onboard_time": 1775304864,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 283274,
@@ -2331,6 +2427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 277532,
+      "num": 209363,
+      "word": "田曦薇嫁金钗杀青",
+      "onboard_time": 1775305104,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275814,
       "num": 275814,
       "word": "369休息",
@@ -2409,6 +2513,14 @@
       "onboard_time": 1775145862,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267222,
+      "num": 163792,
+      "word": "曝熊黛林做全职妈妈后被老公嫌弃",
+      "onboard_time": 1775306483,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 266583,
@@ -2803,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235421,
+      "num": 235421,
+      "word": "高达赛后发孙颖莎",
+      "onboard_time": 1775302943,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235344,
       "num": 107518,
       "word": "孙俪演的生理厌恶太真实了",
@@ -2820,7 +2940,7 @@
     },
     {
       "raw_hot": 234552,
-      "num": 93414,
+      "num": 158475,
       "word": "虞书欣签售妆是一枝南南画的",
       "onboard_time": 1775303062,
       "rank": 25,
@@ -3161,6 +3281,14 @@
       "onboard_time": 1774968685,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 211334,
+      "num": 211334,
+      "word": "王楚钦回应极限逆转达科",
+      "onboard_time": 1775306843,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 210975,
@@ -3771,6 +3899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170421,
+      "num": 170421,
+      "word": "WB对战KSG",
+      "onboard_time": 1775301681,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169908,
       "num": 169908,
       "word": "金价急跌急涨",
@@ -3907,6 +4043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 163573,
+      "num": 153071,
+      "word": "李心洁 好听",
+      "onboard_time": 1775304264,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163072,
       "num": 147033,
       "word": "杨幂拼豆庆祝绿苑二十周年",
@@ -4019,6 +4163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160602,
+      "num": 160602,
+      "word": "进价15元镜片竟卖799元",
+      "onboard_time": 1775304264,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160577,
       "num": 160577,
       "word": "疯狂动物城2预约人数近千万",
@@ -4097,6 +4249,14 @@
       "onboard_time": 1775226863,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157408,
+      "num": 135394,
+      "word": "淡淡不愧是舞台总监",
+      "onboard_time": 1775306602,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 157339,
@@ -4523,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140285,
+      "num": 126494,
+      "word": "莫氏鸡煲周边商户发声",
+      "onboard_time": 1775307444,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140206,
       "num": 140206,
       "word": "金鹤龙给迪丽热巴化的美神灵主妆",
@@ -4633,6 +4801,14 @@
       "onboard_time": 1775101402,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136588,
+      "num": 130754,
+      "word": "虞书欣晒签售会plog",
+      "onboard_time": 1775306364,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 136476,
@@ -5067,14 +5243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125771,
-      "num": 189478,
-      "word": "高达赛后发孙颖莎",
-      "onboard_time": 1775302943,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125712,
       "num": 125712,
       "word": "侮辱赵丽颖的汪诚公开道歉",
@@ -5139,12 +5307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123145,
+      "num": 123145,
+      "word": "嫁金钗",
+      "onboard_time": 1775306364,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122910,
       "num": 122910,
       "word": "美国被曝想用停火换霍尔木兹海峡通航",
       "onboard_time": 1775190743,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122603,
+      "num": 127799,
+      "word": "王楚钦大逆转太燃了",
+      "onboard_time": 1775306304,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 122514,
@@ -5995,6 +6179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105356,
+      "num": 105356,
+      "word": "花300万建的轮滑馆一夜被强拆",
+      "onboard_time": 1775304442,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105336,
       "num": 153005,
       "word": "网友医院急诊偶遇李一桐",
@@ -6283,6 +6475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101494,
+      "num": 101494,
+      "word": "冯提莫自曝身高体重",
+      "onboard_time": 1775303481,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101466,
       "num": 101466,
       "word": "美国博主中国游后抵达印度被惊呆",
@@ -6521,6 +6721,14 @@
       "onboard_time": 1775044283,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97938,
+      "num": 97163,
+      "word": "谢楠好紧张",
+      "onboard_time": 1775304264,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 97791,
@@ -6763,12 +6971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94832,
+      "num": 94832,
+      "word": "黄婷婷放弃偶像转型4年没工作",
+      "onboard_time": 1775305881,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94775,
       "num": 94775,
       "word": "顾客称外卖油麦菜里现30余只虫子",
       "onboard_time": 1775056943,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94668,
+      "num": 94668,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1775303002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 94648,
@@ -7459,6 +7683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87078,
+      "num": 87078,
+      "word": "苏新皓信号中心",
+      "onboard_time": 1775307204,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87012,
       "num": 87012,
       "word": "小S为范玮琪浪姐打call",
@@ -7835,6 +8067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84146,
+      "num": 84146,
+      "word": "男子骑车途中电池爆燃妻子全身烧伤",
+      "onboard_time": 1775305463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84131,
       "num": 84131,
       "word": "王曼昱晋级淘汰赛",
@@ -7907,14 +8147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83143,
-      "num": 83143,
-      "word": "冯提莫自曝身高体重",
-      "onboard_time": 1775303481,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83104,
       "num": 83104,
       "word": "ShowMaker被打爆",
@@ -7961,14 +8193,6 @@
       "onboard_time": 1775289080,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82347,
-      "num": 94905,
-      "word": "WB对战KSG",
-      "onboard_time": 1775301681,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 82313,
@@ -8315,6 +8539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78535,
+      "num": 78535,
+      "word": "iG真不一样了",
+      "onboard_time": 1775307925,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78488,
       "num": 78488,
       "word": "五哈 下饭",
@@ -8393,6 +8625,14 @@
       "onboard_time": 1775271260,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77349,
+      "num": 77349,
+      "word": "王楚钦12比10约奇克",
+      "onboard_time": 1775307503,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77315,
@@ -8521,6 +8761,14 @@
       "onboard_time": 1775189361,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76034,
+      "num": 76034,
+      "word": "澳门乒乓球世界杯",
+      "onboard_time": 1775305944,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76000,
@@ -8865,14 +9113,6 @@
       "onboard_time": 1775124081,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72026,
-      "num": 72026,
-      "word": "曼城vs利物浦",
-      "onboard_time": 1775303002,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 71992,
@@ -10115,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52176,
+      "num": 94835,
+      "word": "清明是怎么变成节日的",
+      "onboard_time": 1775306843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51942,
       "num": 80517,
       "word": "师傅称打算用张雪的820做航空发动机",
@@ -10867,6 +11115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27101,
+      "num": 80443,
+      "word": "放生博主一口气扔上百只甲鱼",
+      "onboard_time": 1775306663,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26708,
       "num": 88616,
       "word": "榜一大姐给男主播转160万后被分手",
@@ -10968,6 +11224,14 @@
       "word": "你知道被裁员怎么和HR谈判吗",
       "onboard_time": 1775045183,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22235,
+      "num": 133907,
+      "word": "中国孔子学院对外交流中心被打假",
+      "onboard_time": 1775308044,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
