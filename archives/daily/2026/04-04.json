@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775260645192,
+  "endTime": 1775270637030,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 777048,
-      "num": 159860,
+      "num": 211543,
       "word": "唐艺昕因皮肤原因4年未拍戏",
       "onboard_time": 1775227344,
       "rank": 16,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 453543,
-      "num": 1011529,
+      "num": 1031568,
       "word": "与辉同行宣布全额退款",
       "onboard_time": 1775229864,
       "rank": 1,
@@ -139,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401686,
+      "num": 101466,
+      "word": "何宣林是北影表演系班主任",
+      "onboard_time": 1775266519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371529,
       "num": 371529,
       "word": "章小蕙让阚清子放下过去",
       "onboard_time": 1775229263,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349421,
+      "num": 97359,
+      "word": "塞车把周杰伦女儿急坏了",
+      "onboard_time": 1775268020,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 342151,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223198,
+      "num": 223198,
+      "word": "美军2架黑鹰直升机被伊朗击中",
+      "onboard_time": 1775268679,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218298,
       "num": 195602,
       "word": "当你过午不食六个月",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 213097,
-      "num": 725013,
+      "num": 744953,
       "word": "优思益称无力售后",
       "onboard_time": 1775216363,
       "rank": 3,
@@ -227,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182429,
+      "num": 182429,
+      "word": "美国教师为性侵学生与其母亲交往",
+      "onboard_time": 1775261300,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175602,
       "num": 125070,
       "word": "有结节的人要在春天做4件事",
@@ -251,6 +283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160242,
+      "num": 160242,
+      "word": "伊朗被曝实施打了就跑战术",
+      "onboard_time": 1775259500,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 158669,
+      "num": 223159,
+      "word": "金典和浪姐分手了",
+      "onboard_time": 1775269400,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158071,
       "num": 91782,
       "word": "孙怡 好美的洋娃娃",
@@ -267,12 +315,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 153726,
-      "num": 125614,
-      "word": "伊朗被曝实施打了就跑战术",
-      "onboard_time": 1775259500,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 154159,
+      "num": 220979,
+      "word": "阚清子说很感谢倪萍",
+      "onboard_time": 1775269641,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 143271,
@@ -281,6 +329,14 @@
       "onboard_time": 1775234060,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139192,
+      "num": 139192,
+      "word": "范闲 你也给祺贵人打电话吗",
+      "onboard_time": 1775260760,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138308,
@@ -299,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136297,
+      "num": 136297,
+      "word": "李煜东高会",
+      "onboard_time": 1775262020,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132901,
       "num": 100156,
       "word": "张凌赫因为帅被同学偷拍",
@@ -307,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132714,
+      "num": 216943,
+      "word": "齐思钧在谢娜旁边承担了何炅功能",
+      "onboard_time": 1775265860,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132138,
-      "num": 132138,
+      "num": 213584,
       "word": "王楚钦直言0比2落后真没机会",
       "onboard_time": 1775224465,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "孙俪新剧就这样官宣了",
+      "onboard_time": 1775269040,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 125053,
@@ -321,6 +401,14 @@
       "onboard_time": 1775228185,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121246,
+      "num": 214889,
+      "word": "带师生徒步祭英烈校领导步数76000",
+      "onboard_time": 1775266581,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117836,
@@ -347,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110066,
+      "num": 73633,
+      "word": "张凌赫是在致敬罗晋给唐嫣拿糖吗",
+      "onboard_time": 1775262561,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107919,
+      "num": 136707,
+      "word": "海南一沙滩现巨型搁浅皇带鱼",
+      "onboard_time": 1775263400,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104094,
       "num": 210229,
       "word": "马兴瑞涉嫌严重违纪违法",
@@ -369,6 +473,14 @@
       "onboard_time": 1775227645,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98918,
+      "num": 98918,
+      "word": "冰箱里的冻肉超过这个时间直接扔",
+      "onboard_time": 1775267420,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98185,
@@ -515,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77315,
+      "num": 77315,
+      "word": "东契奇无限期休战",
+      "onboard_time": 1775265081,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71224,
       "num": 71224,
       "word": "喜人在张杰鸟巢演唱会团建",
@@ -529,6 +649,14 @@
       "onboard_time": 1775231902,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70500,
+      "num": 70500,
+      "word": "40岁男子AI成瘾无法接受版本更新",
+      "onboard_time": 1775266581,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69644,
@@ -579,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64890,
+      "num": 64890,
+      "word": "清明前一天出发的大聪明堵在高速上",
+      "onboard_time": 1775266161,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64437,
       "num": 64437,
       "word": "油价突然暴涨原因",
@@ -601,6 +737,22 @@
       "onboard_time": 1775259439,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62564,
+      "num": 74430,
+      "word": "伊媒称美提议停火48小时",
+      "onboard_time": 1775261120,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60482,
+      "num": 60482,
+      "word": "东契奇将申请破例参与奖项评选",
+      "onboard_time": 1775268201,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 60280,
@@ -635,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54982,
+      "num": 54982,
+      "word": "张凌赫早期颜值",
+      "onboard_time": 1775260339,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54413,
       "num": 93113,
       "word": "王俊凯东方公子",
@@ -643,12 +803,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54377,
+      "num": 54377,
+      "word": "在北京赶飞机不用提前两小时傻等了",
+      "onboard_time": 1775263341,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54152,
+      "num": 54152,
+      "word": "疑柬埔寨失联女孩露面自称曾遭猥亵",
+      "onboard_time": 1775270479,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54002,
       "num": 79104,
       "word": "清清又有决赛可以打了",
       "onboard_time": 1775234839,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 52337,
+      "num": 54015,
+      "word": "19岁少女柬埔寨失联事件迎反转",
+      "onboard_time": 1775270540,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52177,
@@ -665,6 +849,38 @@
       "onboard_time": 1775258960,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51154,
+      "num": 54031,
+      "word": "市委书记随行学生徒步祭英烈",
+      "onboard_time": 1775270000,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50758,
+      "num": 54010,
+      "word": "伊朗悬赏活捉美军飞行员",
+      "onboard_time": 1775270600,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50688,
+      "num": 54001,
+      "word": "东契奇常规赛报销",
+      "onboard_time": 1775270540,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50059,
+      "num": 53996,
+      "word": "最强大脑13双脑王",
+      "onboard_time": 1775268919,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 49456,
@@ -691,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48498,
-      "num": 48498,
-      "word": "张凌赫早期颜值",
-      "onboard_time": 1775260339,
+      "raw_hot": 45343,
+      "num": 53986,
+      "word": "洛阳牡丹花太美了",
+      "onboard_time": 1775268621,
       "rank": 49,
-      "category": "作品衍生"
+      "category": "旅游"
     },
     {
       "raw_hot": 37479,
