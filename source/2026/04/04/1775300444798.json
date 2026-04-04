@@ -1,0 +1,410 @@
+{
+  "runTime": 1775300444798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 397242,
+        "num": 1063558,
+        "word": "高铁站禁烟仅1天男子当众吸烟被拍",
+        "onboard_time": 1775293641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342016,
+        "num": 795544,
+        "word": "陈幸同vs申裕斌",
+        "onboard_time": 1775299702,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16143,
+        "num": 616177,
+        "word": "文旅共绘诗与远方新画卷",
+        "onboard_time": 1775287400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492953,
+        "num": 492953,
+        "word": "王传君和爱情公寓和解了",
+        "onboard_time": 1775284100,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315299,
+        "num": 315299,
+        "word": "五哈6开播",
+        "onboard_time": 1775297782,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205134,
+        "num": 205134,
+        "word": "莫氏鸡煲老板娘直呼生无可恋",
+        "onboard_time": 1775293340,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395307,
+        "num": 202106,
+        "word": "张艺上 下次争取只美不崩溃",
+        "onboard_time": 1775298021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189237,
+        "num": 189237,
+        "word": "易军怒斥张雪机车被无底线消费",
+        "onboard_time": 1775297782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188259,
+        "num": 188259,
+        "word": "埃及一航班行李全部丢失",
+        "onboard_time": 1775294183,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172311,
+        "num": 181398,
+        "word": "酒店员工提醒小孩别玩门家长报警",
+        "onboard_time": 1775299041,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346629,
+        "num": 179648,
+        "word": "白日提灯反派骂女主台词",
+        "onboard_time": 1775291481,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266526,
+        "num": 178722,
+        "word": "伊朗驻华大使馆发布战果",
+        "onboard_time": 1775296642,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177666,
+        "num": 177666,
+        "word": "虞书欣签售会",
+        "onboard_time": 1775287280,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174080,
+        "num": 174080,
+        "word": "何宣林回应是孟子义班主任",
+        "onboard_time": 1775289799,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 172824,
+        "word": "狗 爷爷这么做一定有他的道理",
+        "onboard_time": 1775291181,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162735,
+        "num": 162735,
+        "word": "爆火鸡煲店老板称用的冰冻鸡",
+        "onboard_time": 1775289799,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "许昕说孙颖莎赢得侥幸",
+        "onboard_time": 1775299160,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152001,
+        "num": 152001,
+        "word": "逼出最强孙颖莎的高达才18岁",
+        "onboard_time": 1775287520,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148442,
+        "num": 148442,
+        "word": "赵子琪回应浪姐唯一人脉",
+        "onboard_time": 1775298561,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134929,
+        "num": 134929,
+        "word": "1099元内衣外穿年轻人买单吗",
+        "onboard_time": 1775294240,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 456721,
+        "num": 134813,
+        "word": "刘琳琳拍的虞书欣",
+        "onboard_time": 1775296941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227245,
+        "num": 134499,
+        "word": "虞书欣香水",
+        "onboard_time": 1775293881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158616,
+        "num": 134092,
+        "word": "无人继承的巨额遗产或在拖垮日本",
+        "onboard_time": 1775295021,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202552,
+        "num": 133915,
+        "word": "红果多部短剧AI角色撞脸易烊千玺",
+        "onboard_time": 1775297901,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133798,
+        "num": 133798,
+        "word": "T1战胜HLE",
+        "onboard_time": 1775299461,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127794,
+        "num": 127794,
+        "word": "鞠婧祎露芜衣夕阳下跳舞",
+        "onboard_time": 1775298622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122757,
+        "num": 122757,
+        "word": "汉娜高达创造历史",
+        "onboard_time": 1775294541,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121527,
+        "num": 121527,
+        "word": "印度女子好心给水喝反遭强奸",
+        "onboard_time": 1775289080,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109626,
+        "num": 109626,
+        "word": "解决了辣条的油腻和减脂餐的清淡",
+        "onboard_time": 1775292501,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106461,
+        "num": 106461,
+        "word": "广东仅珠海仍全域禁止电动自行车",
+        "onboard_time": 1775299461,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102358,
+        "num": 102358,
+        "word": "刘耀文举宋亚轩路透",
+        "onboard_time": 1775294001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97828,
+        "num": 97828,
+        "word": "韩国男子将女友制成木乃伊藏尸",
+        "onboard_time": 1775293100,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 91431,
+        "word": "汉娜高达看孙颖莎200多场比赛录像",
+        "onboard_time": 1775297121,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81348,
+        "num": 81348,
+        "word": "范玮琪希望网友不要被舆论带偏",
+        "onboard_time": 1775292079,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80632,
+        "num": 80632,
+        "word": "iG战胜TES",
+        "onboard_time": 1775294362,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80515,
+        "num": 80515,
+        "word": "陈都灵雾妄言角色热度破亿",
+        "onboard_time": 1775298080,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77308,
+        "num": 77308,
+        "word": "杨紫看了黄灿灿初舞台",
+        "onboard_time": 1775288239,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73147,
+        "num": 73147,
+        "word": "嫌顾客消费86元太少商家被处罚",
+        "onboard_time": 1775294001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72050,
+        "num": 72050,
+        "word": "十日终焉",
+        "onboard_time": 1775283800,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71768,
+        "num": 71768,
+        "word": "JackeyLove零击杀",
+        "onboard_time": 1775295740,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70120,
+        "num": 70120,
+        "word": "檀健次卢昱晓片场好抽象",
+        "onboard_time": 1775298861,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68839,
+        "num": 68839,
+        "word": "黄磊12岁二女儿身高",
+        "onboard_time": 1775287582,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66378,
+        "num": 66378,
+        "word": "曝iPhone18标准版设计没变",
+        "onboard_time": 1775298741,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64457,
+        "num": 64457,
+        "word": "T.O.P新歌官方翻译歌词",
+        "onboard_time": 1775298442,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51099,
+        "num": 63284,
+        "word": "归墟5A级景区观光团",
+        "onboard_time": 1775294001,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62403,
+        "num": 62403,
+        "word": "午睡时间超1小时死亡风险增加30%",
+        "onboard_time": 1775273060,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62383,
+        "num": 62383,
+        "word": "一等功臣杨全吉逝世",
+        "onboard_time": 1775297001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61134,
+        "num": 61134,
+        "word": "TOP演唱会首次公开销量",
+        "onboard_time": 1775295801,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58955,
+        "num": 58955,
+        "word": "鸡煲爆火后排位从10桌涨到300号",
+        "onboard_time": 1775300001,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56530,
+        "num": 56530,
+        "word": "国企董事长上门打人最新进展",
+        "onboard_time": 1775296700,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}

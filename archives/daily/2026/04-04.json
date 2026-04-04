@@ -1,6 +1,6 @@
 {
   "startTime": 1775232077615,
-  "endTime": 1775299378108,
+  "endTime": 1775300444798,
   "band_list": [
     {
       "raw_hot": 2670916,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 469544,
-      "num": 125581,
+      "num": 134499,
       "word": "虞书欣香水",
       "onboard_time": 1775293881,
       "rank": 21,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 467215,
-      "num": 130355,
+      "num": 134813,
       "word": "刘琳琳拍的虞书欣",
       "onboard_time": 1775296941,
       "rank": 49,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395307,
+      "num": 250264,
+      "word": "张艺上 下次争取只美不崩溃",
+      "onboard_time": 1775298021,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380506,
       "num": 380506,
       "word": "凡人修仙传",
@@ -339,6 +347,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 342016,
+      "num": 795544,
+      "word": "陈幸同vs申裕斌",
+      "onboard_time": 1775299702,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338459,
       "num": 271631,
       "word": "狗 爷爷这么做一定有他的道理",
@@ -353,14 +369,6 @@
       "onboard_time": 1775284222,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324401,
-      "num": 250264,
-      "word": "张艺上 下次争取只美不崩溃",
-      "onboard_time": 1775298021,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 322995,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315299,
+      "num": 798598,
+      "word": "五哈6开播",
+      "onboard_time": 1775297782,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309666,
       "num": 347654,
       "word": "杨紫看了黄灿灿初舞台",
@@ -441,14 +457,6 @@
       "onboard_time": 1775287701,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289381,
-      "num": 798598,
-      "word": "五哈6开播",
-      "onboard_time": 1775297782,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 285522,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266526,
+      "num": 178722,
+      "word": "伊朗驻华大使馆发布战果",
+      "onboard_time": 1775296642,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
@@ -529,14 +545,6 @@
       "onboard_time": 1775288540,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220184,
-      "num": 141318,
-      "word": "伊朗驻华大使馆发布战果",
-      "onboard_time": 1775296642,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219218,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202552,
+      "num": 133915,
+      "word": "红果多部短剧AI角色撞脸易烊千玺",
+      "onboard_time": 1775297901,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197719,
       "num": 197719,
       "word": "19岁少女柬埔寨失联事件迎反转",
@@ -683,20 +699,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189237,
+      "num": 189237,
+      "word": "易军怒斥张雪机车被无底线消费",
+      "onboard_time": 1775297782,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185698,
-      "num": 104424,
+      "num": 134092,
       "word": "无人继承的巨额遗产或在拖垮日本",
       "onboard_time": 1775295021,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 184906,
-      "num": 124195,
-      "word": "红果多部短剧AI角色撞脸易烊千玺",
-      "onboard_time": 1775297901,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 182429,
@@ -737,6 +753,14 @@
       "onboard_time": 1775258657,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172311,
+      "num": 181398,
+      "word": "酒店员工提醒小孩别玩门家长报警",
+      "onboard_time": 1775299041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169828,
@@ -787,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161998,
+      "num": 161998,
+      "word": "许昕说孙颖莎赢得侥幸",
+      "onboard_time": 1775299160,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160242,
       "num": 160242,
       "word": "伊朗被曝实施打了就跑战术",
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 154672,
-      "num": 140440,
+      "num": 148442,
       "word": "赵子琪回应浪姐唯一人脉",
       "onboard_time": 1775298561,
       "rank": 15,
@@ -840,6 +872,14 @@
       "word": "孙颖莎4比3高达",
       "onboard_time": 1775284460,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152001,
+      "num": 152001,
+      "word": "逼出最强孙颖莎的高达才18岁",
+      "onboard_time": 1775287520,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -867,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146609,
-      "num": 140286,
-      "word": "逼出最强孙颖莎的高达才18岁",
-      "onboard_time": 1775287520,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143271,
       "num": 162192,
       "word": "清华学霸一开口就把人点醒了",
@@ -889,14 +921,6 @@
       "onboard_time": 1775294541,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139893,
-      "num": 139893,
-      "word": "易军怒斥张雪机车被无底线消费",
-      "onboard_time": 1775297782,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139863,
@@ -945,6 +969,14 @@
       "onboard_time": 1775262020,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133798,
+      "num": 133798,
+      "word": "T1战胜HLE",
+      "onboard_time": 1775299461,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 132901,
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115117,
-      "num": 115117,
-      "word": "许昕说孙颖莎赢得侥幸",
-      "onboard_time": 1775299160,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114907,
       "num": 114907,
       "word": "终于知道销冠为什么是销冠了",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1775294001,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106461,
+      "num": 106461,
+      "word": "广东仅珠海仍全域禁止电动自行车",
+      "onboard_time": 1775299461,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104928,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1775295740,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91931,
-      "num": 91931,
-      "word": "酒店员工提醒小孩别玩门家长报警",
-      "onboard_time": 1775299041,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90925,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80515,
+      "num": 80515,
+      "word": "陈都灵雾妄言角色热度破亿",
+      "onboard_time": 1775298080,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80378,
       "num": 80378,
       "word": "伊朗悬赏活捉美军飞行员",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1775282181,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76639,
-      "num": 75868,
-      "word": "陈都灵雾妄言角色热度破亿",
-      "onboard_time": 1775298080,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 75910,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1775291362,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70120,
+      "num": 70120,
+      "word": "檀健次卢昱晓片场好抽象",
+      "onboard_time": 1775298861,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 69774,
@@ -2027,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62383,
+      "num": 62383,
+      "word": "一等功臣杨全吉逝世",
+      "onboard_time": 1775297001,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61875,
       "num": 61875,
       "word": "许昕精准预言孙颖莎换球衣",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1775287880,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58955,
+      "num": 58955,
+      "word": "鸡煲爆火后排位从10桌涨到300号",
+      "onboard_time": 1775300001,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 57341,
