@@ -1,0 +1,410 @@
+{
+  "runTime": 1775335327690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126355,
+        "num": 126355,
+        "word": "瞿颖 作为西班牙人",
+        "onboard_time": 1775318542,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34133,
+        "num": 42608,
+        "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
+        "onboard_time": 1775312125,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7402,
+        "num": 33491,
+        "word": "致敬缅怀奋进",
+        "onboard_time": 1775291780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66376,
+        "num": 33220,
+        "word": "伊朗无人机大规模打击本古里安机场",
+        "onboard_time": 1775319260,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62054,
+        "num": 31890,
+        "word": "乘风Queen",
+        "onboard_time": 1775319260,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29814,
+        "num": 29814,
+        "word": "许昕说一直有人希望王楚钦输",
+        "onboard_time": 1775313864,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45066,
+        "num": 29808,
+        "word": "谢娜看到李小冉票数后哭了",
+        "onboard_time": 1775319981,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 29785,
+        "word": "曝熊黛林做全职妈妈后被老公嫌弃",
+        "onboard_time": 1775306483,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22235,
+        "num": 22235,
+        "word": "美军一天2架战机被伊朗击落",
+        "onboard_time": 1775319500,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21910,
+        "num": 21910,
+        "word": "无人继承的巨额遗产或在拖垮日本",
+        "onboard_time": 1775295021,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54360,
+        "num": 21910,
+        "word": "文淇第一次做妇科检查的不适感受",
+        "onboard_time": 1775310984,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30868,
+        "num": 21893,
+        "word": "张凌赫脱稿演讲六分半的含金量",
+        "onboard_time": 1775309602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29323,
+        "num": 21883,
+        "word": "伊朗驻华大使馆发布战果",
+        "onboard_time": 1775296642,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25950,
+        "num": 21867,
+        "word": "海关截获18厘米长活体帝王蝎",
+        "onboard_time": 1775311284,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23553,
+        "num": 21862,
+        "word": "莫氏鸡煲周边商户发声",
+        "onboard_time": 1775307444,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21853,
+        "num": 21853,
+        "word": "酒店员工提醒小孩别玩门家长报警",
+        "onboard_time": 1775299041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20471,
+        "num": 20471,
+        "word": "叶一茜 05超女的含金量",
+        "onboard_time": 1775313925,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19119,
+        "num": 19119,
+        "word": "易烊千玺方发维权声明",
+        "onboard_time": 1775323517,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18852,
+        "num": 18852,
+        "word": "小伙家住46楼免费看周杰伦演唱会",
+        "onboard_time": 1775313625,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18305,
+        "num": 18305,
+        "word": "曝伊朗国产防空武器无法被美锁定",
+        "onboard_time": 1775312844,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23802,
+        "num": 18289,
+        "word": "黄晓明晒和儿子春日骑行照",
+        "onboard_time": 1775312964,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19887,
+        "num": 18248,
+        "word": "徐梦洁没选安崎",
+        "onboard_time": 1775308465,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18143,
+        "num": 18143,
+        "word": "浪姐到底在哪投票",
+        "onboard_time": 1775318182,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18117,
+        "num": 18117,
+        "word": "王橹杰又画了小咴",
+        "onboard_time": 1775312844,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17905,
+        "num": 17905,
+        "word": "张雪凡尔赛式总结20年",
+        "onboard_time": 1775320940,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17518,
+        "num": 17518,
+        "word": "鞠婧祎这几个小挑眉好灵",
+        "onboard_time": 1775330174,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 16923,
+        "word": "我欲乘风",
+        "onboard_time": 1775308884,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16899,
+        "num": 16899,
+        "word": "徐梦洁 不太好听",
+        "onboard_time": 1775309304,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16572,
+        "num": 16572,
+        "word": "12306回应男子高铁站抽烟无人管",
+        "onboard_time": 1775322199,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16441,
+        "num": 16441,
+        "word": "我国过敏性鼻炎患者数量攀升",
+        "onboard_time": 1775310744,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16226,
+        "num": 16441,
+        "word": "十日终焉作者谈青岛出现血月",
+        "onboard_time": 1775315365,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15894,
+        "num": 16439,
+        "word": "李小冉拉票 老实人豁出去了",
+        "onboard_time": 1775319681,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15787,
+        "num": 16438,
+        "word": "伊朗发起第93波打击",
+        "onboard_time": 1775318962,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15112,
+        "num": 16437,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1775317523,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14565,
+        "num": 16436,
+        "word": "六大行房贷减少7100亿",
+        "onboard_time": 1775313684,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15094,
+        "num": 16434,
+        "word": "王橹杰咴",
+        "onboard_time": 1775328555,
+        "rank": 35,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 14121,
+        "num": 16434,
+        "word": "男子骑车途中电池爆燃妻子全身烧伤",
+        "onboard_time": 1775305463,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13750,
+        "num": 16433,
+        "word": "陈瑶好甜",
+        "onboard_time": 1775312544,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13668,
+        "num": 16432,
+        "word": "女子坠崖爱犬独守原地整整7天",
+        "onboard_time": 1775313324,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13107,
+        "num": 16431,
+        "word": "江坂丽奈美甲",
+        "onboard_time": 1775320398,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 16430,
+        "word": "田曦薇嫁金钗杀青",
+        "onboard_time": 1775305104,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12891,
+        "num": 16429,
+        "word": "桥本帆乃香哭了",
+        "onboard_time": 1775316683,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 16428,
+        "word": "鞠婧祎露芜衣晋江演技",
+        "onboard_time": 1775329515,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12116,
+        "num": 16427,
+        "word": "虞书欣晒签售会plog",
+        "onboard_time": 1775306364,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11720,
+        "num": 16426,
+        "word": "王楚钦大逆转晋级太燃了",
+        "onboard_time": 1775325075,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11708,
+        "num": 16424,
+        "word": "王楚钦vs约奇克",
+        "onboard_time": 1775302101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11349,
+        "num": 16423,
+        "word": "曾沛慈回应夯爆了",
+        "onboard_time": 1775317042,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11187,
+        "num": 16421,
+        "word": "陈幸同0比11申裕斌",
+        "onboard_time": 1775302164,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11664,
+        "num": 16421,
+        "word": "虞书欣签售妆是一枝南南画的",
+        "onboard_time": 1775303062,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10727,
+        "num": 16420,
+        "word": "雨果说再战王楚钦是很大挑战",
+        "onboard_time": 1775318601,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河记得你#"
+    }
+  }
+}
