@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775338808848,
+  "endTime": 1775339743533,
   "band_list": [
     {
       "raw_hot": 789060,
@@ -451,7 +451,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28839,
+      "raw_hot": 31506,
       "num": 35829,
       "word": "美军一天2架战机被伊朗击落",
       "onboard_time": 1775319500,
@@ -512,6 +512,14 @@
       "word": "乘风2026投票",
       "onboard_time": 1775335694,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14445,
+      "num": 17876,
+      "word": "浪姐票数",
+      "onboard_time": 1775339354,
+      "rank": 48,
       "category": "综艺"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 05:40:08
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 05:55:43
 </p>
 </blockquote>
 <p>
@@ -352,7 +352,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%B8%80%E5%A4%A92%E6%9E%B6%E6%88%98%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%23" target="weibo">
-美军一天2架战机被伊朗击落（热度：28839）
+美军一天2架战机被伊朗击落（热度：31506）
 </a>
 </li>
 
@@ -395,6 +395,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E6%8A%95%E7%A5%A8%23" target="weibo">
 乘风2026投票（热度：15763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%A5%A8%E6%95%B0%23" target="weibo">
+浪姐票数（热度：14445）
 </a>
 </li>
 

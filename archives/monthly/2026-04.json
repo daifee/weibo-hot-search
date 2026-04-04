@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775338808848,
+  "endTime": 1775339743533,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -11691,6 +11691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31506,
+      "num": 35829,
+      "word": "美军一天2架战机被伊朗击落",
+      "onboard_time": 1775319500,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31258,
       "num": 75003,
       "word": "张雪为了家庭哭着去工厂上班",
@@ -11761,14 +11769,6 @@
       "onboard_time": 1775105543,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28839,
-      "num": 35829,
-      "word": "美军一天2架战机被伊朗击落",
-      "onboard_time": 1775319500,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28760,
@@ -12177,6 +12177,14 @@
       "onboard_time": 1775200162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14445,
+      "num": 17876,
+      "word": "浪姐票数",
+      "onboard_time": 1775339354,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 14076,
