@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1775282677246,
+  "endTime": 1775284663394,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -1179,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611805,
+      "num": 1097888,
+      "word": "孙颖莎vs高达",
+      "onboard_time": 1775278280,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611762,
       "num": 611762,
       "word": "唐艺昕上浪姐用张若昀的助理",
@@ -1532,7 +1540,7 @@
     },
     {
       "raw_hot": 529203,
-      "num": 97303,
+      "num": 107346,
       "word": "谢霆锋戴与王菲26年前定情手镯",
       "onboard_time": 1775280021,
       "rank": 20,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1774749739,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 468175,
+      "num": 786968,
+      "word": "张雪称5亿设计logo害死哪吒",
+      "onboard_time": 1775282781,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467601,
@@ -2724,7 +2740,7 @@
     },
     {
       "raw_hot": 351768,
-      "num": 155065,
+      "num": 163099,
       "word": "美军经历开战以来最黑暗24小时",
       "onboard_time": 1775278521,
       "rank": 25,
@@ -3539,14 +3555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283671,
-      "num": 283671,
-      "word": "孙颖莎vs高达",
-      "onboard_time": 1775278280,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 283412,
       "num": 283412,
       "word": "我跳一天200他坐一天400",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1775105543,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280132,
+      "num": 280132,
+      "word": "孙颖莎14比16高达",
+      "onboard_time": 1775282361,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 279993,
@@ -4307,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243486,
+      "num": 243486,
+      "word": "浪姐改赛制给齐思钧苦得都掐眉头了",
+      "onboard_time": 1775281281,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243434,
       "num": 997695,
       "word": "很多食物都是面朝下更好吃",
@@ -4945,6 +4969,14 @@
       "onboard_time": 1775118201,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219218,
+      "num": 219218,
+      "word": "孙颖莎把高达打无奈了",
+      "onboard_time": 1775282840,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 218857,
@@ -5819,6 +5851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185463,
+      "num": 160506,
+      "word": "王传君和爱情公寓和解了",
+      "onboard_time": 1775284100,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185332,
       "num": 200753,
       "word": "太原火灾已致3死23伤",
@@ -5944,6 +5984,14 @@
       "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
       "onboard_time": 1775139865,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180364,
+      "num": 107172,
+      "word": "女生回应午睡5小时被领导警告",
+      "onboard_time": 1775281641,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -6441,6 +6489,14 @@
       "onboard_time": 1775205861,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164448,
+      "num": 104137,
+      "word": "孙颖莎5比11高达",
+      "onboard_time": 1775283800,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 164133,
@@ -7011,6 +7067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150063,
+      "num": 150063,
+      "word": "肖战十日终焉剧版超话开通",
+      "onboard_time": 1775283562,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149962,
       "num": 149962,
       "word": "统一后台湾同胞再也无需抢购塑料袋",
@@ -7145,6 +7209,14 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146768,
+      "num": 107134,
+      "word": "王橹杰 锁骨连肩",
+      "onboard_time": 1775282001,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 145995,
@@ -8147,6 +8219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128393,
+      "num": 106971,
+      "word": "刘亦菲G社最严厉的母亲",
+      "onboard_time": 1775282060,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128310,
       "num": 128310,
       "word": "正义女神",
@@ -8169,14 +8249,6 @@
       "onboard_time": 1774878444,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128249,
-      "num": 98836,
-      "word": "浪姐改赛制给齐思钧苦得都掐眉头了",
-      "onboard_time": 1775281281,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 128173,
@@ -9203,14 +9275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112962,
-      "num": 81652,
-      "word": "女生回应午睡5小时被领导警告",
-      "onboard_time": 1775281641,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112944,
       "num": 89544,
       "word": "官方通报天湖医院解聘全体职工",
@@ -9288,6 +9352,14 @@
       "word": "五哈6开始就玩这么大吗",
       "onboard_time": 1774928605,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112232,
+      "num": 103184,
+      "word": "歌不是谁唱火的谁有版权",
+      "onboard_time": 1775281342,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -9835,6 +9907,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 106839,
+      "num": 106839,
+      "word": "孙颖莎4比3高达",
+      "onboard_time": 1775284460,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106757,
       "num": 106757,
       "word": "很少用top来形容一个土豆",
@@ -10161,6 +10241,14 @@
       "onboard_time": 1775232142,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103480,
+      "num": 103480,
+      "word": "汪蜂出现了",
+      "onboard_time": 1775280141,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 103284,
@@ -10811,14 +10899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97565,
-      "num": 80309,
-      "word": "孙颖莎14比16高达",
-      "onboard_time": 1775282361,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97552,
       "num": 92878,
       "word": "贺思慕强吻段胥",
@@ -10833,6 +10913,14 @@
       "onboard_time": 1774781370,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97546,
+      "num": 97546,
+      "word": "第一次走红毯的angelababy",
+      "onboard_time": 1775282661,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 97409,
@@ -11275,6 +11363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93879,
+      "num": 93879,
+      "word": "谢娜乘风临场反应",
+      "onboard_time": 1775283741,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93828,
       "num": 178301,
       "word": "这个代言是时团自己谈下来的吧",
@@ -11433,14 +11529,6 @@
       "onboard_time": 1774794689,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92836,
-      "num": 92836,
-      "word": "刘亦菲G社最严厉的母亲",
-      "onboard_time": 1775282060,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 92695,
@@ -13411,6 +13499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80892,
+      "num": 80892,
+      "word": "小猫从质疑到相信只用了一秒",
+      "onboard_time": 1775284340,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80725,
       "num": 80725,
       "word": "全球资产再度巨震",
@@ -13480,14 +13576,6 @@
       "word": "万千惠来给浪姐省钱了",
       "onboard_time": 1774789347,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 80286,
-      "num": 80286,
-      "word": "歌不是谁唱火的谁有版权",
-      "onboard_time": 1775281342,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -13608,6 +13696,14 @@
       "word": "公安发声支持张雪机车新手禁令",
       "onboard_time": 1775066535,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79512,
+      "num": 79512,
+      "word": "俩游客花86元就餐店家嫌消费太少",
+      "onboard_time": 1775280560,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -13809,6 +13905,14 @@
       "onboard_time": 1775230342,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78326,
+      "num": 78326,
+      "word": "新款AirPodsPro曝光",
+      "onboard_time": 1775284401,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 78300,
@@ -14035,6 +14139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76757,
+      "num": 76757,
+      "word": "当你以为回县城老家是退路时",
+      "onboard_time": 1775284222,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76733,
       "num": 76733,
       "word": "局地有10级以上雷暴大风",
@@ -14049,14 +14161,6 @@
       "onboard_time": 1774847845,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76656,
-      "num": 76656,
-      "word": "汪蜂出现了",
-      "onboard_time": 1775280141,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 76641,
@@ -14089,14 +14193,6 @@
       "onboard_time": 1774769247,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76444,
-      "num": 76444,
-      "word": "王橹杰 锁骨连肩",
-      "onboard_time": 1775282001,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 76375,
@@ -14955,6 +15051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69774,
+      "num": 69774,
+      "word": "遮天首部剧场版今日开播",
+      "onboard_time": 1775283381,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 69677,
       "num": 69677,
       "word": "有线耳机为啥能翻红",
@@ -15107,6 +15211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68042,
+      "num": 104632,
+      "word": "美军战机残骸有F15专用电子战设备",
+      "onboard_time": 1775281880,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68031,
       "num": 70022,
       "word": "校长说警惕学校变无菌室",
@@ -15233,6 +15345,14 @@
       "onboard_time": 1774691420,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66712,
+      "num": 66712,
+      "word": "高桥无缘八强",
+      "onboard_time": 1775284641,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66699,
@@ -15424,14 +15544,6 @@
       "word": "张雪一个子儿都没有的真相",
       "onboard_time": 1775273179,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64554,
-      "num": 64554,
-      "word": "俩游客花86元就餐店家嫌消费太少",
-      "onboard_time": 1775280560,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -15921,14 +16033,6 @@
       "onboard_time": 1774913299,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59696,
-      "num": 59696,
-      "word": "美军战机残骸有F15专用电子战设备",
-      "onboard_time": 1775281880,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 59597,

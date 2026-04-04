@@ -1,0 +1,410 @@
+{
+  "runTime": 1775284663394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 611805,
+        "num": 1097888,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1775278280,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468175,
+        "num": 786968,
+        "word": "张雪称5亿设计logo害死哪吒",
+        "onboard_time": 1775282781,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31132,
+        "num": 634293,
+        "word": "属于中国人的清明仪式感",
+        "onboard_time": 1775271979,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280132,
+        "num": 280132,
+        "word": "孙颖莎14比16高达",
+        "onboard_time": 1775282361,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329282,
+        "num": 272799,
+        "word": "清明上山扫墓却发现母亲的墓不见了",
+        "onboard_time": 1775276121,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243486,
+        "num": 243486,
+        "word": "浪姐改赛制给齐思钧苦得都掐眉头了",
+        "onboard_time": 1775281281,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219218,
+        "num": 219218,
+        "word": "孙颖莎把高达打无奈了",
+        "onboard_time": 1775282840,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212086,
+        "num": 212086,
+        "word": "1层3户只有1家被贴满小广告",
+        "onboard_time": 1775276840,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192400,
+        "num": 192400,
+        "word": "原来真有人住的房子这么大",
+        "onboard_time": 1775274861,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164762,
+        "num": 164762,
+        "word": "凡人修仙传",
+        "onboard_time": 1775277440,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 311949,
+        "num": 163099,
+        "word": "美军经历开战以来最黑暗24小时",
+        "onboard_time": 1775278521,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185463,
+        "num": 160506,
+        "word": "王传君和爱情公寓和解了",
+        "onboard_time": 1775284100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176100,
+        "num": 159038,
+        "word": "唐艺昕因皮肤原因4年未拍戏",
+        "onboard_time": 1775227344,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 156058,
+        "word": "南京被害女大学生父亲现状",
+        "onboard_time": 1775274260,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153915,
+        "num": 153915,
+        "word": "李兰迪回应何宣林wink",
+        "onboard_time": 1775281342,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150063,
+        "num": 150063,
+        "word": "肖战十日终焉剧版超话开通",
+        "onboard_time": 1775283562,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134147,
+        "num": 146124,
+        "word": "因为自制力差一下午赚了七千",
+        "onboard_time": 1775272220,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144366,
+        "num": 144366,
+        "word": "月鳞绮纪疑似不足1广",
+        "onboard_time": 1775272279,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143750,
+        "num": 143750,
+        "word": "王传君给陈赫送的花篮上叫他贤哥",
+        "onboard_time": 1775276540,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107357,
+        "num": 107357,
+        "word": "四月不能叫四月",
+        "onboard_time": 1775276600,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477711,
+        "num": 107346,
+        "word": "谢霆锋戴与王菲26年前定情手镯",
+        "onboard_time": 1775280021,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231595,
+        "num": 107260,
+        "word": "张若昀发唐艺昕直拍",
+        "onboard_time": 1775228364,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 107172,
+        "word": "女生回应午睡5小时被领导警告",
+        "onboard_time": 1775281641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146768,
+        "num": 107134,
+        "word": "王橹杰 锁骨连肩",
+        "onboard_time": 1775282001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131696,
+        "num": 107024,
+        "word": "午睡时间超1小时死亡风险增加30%",
+        "onboard_time": 1775273060,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 106971,
+        "word": "刘亦菲G社最严厉的母亲",
+        "onboard_time": 1775282060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125286,
+        "num": 106856,
+        "word": "何宣林是孟子义的大学班主任",
+        "onboard_time": 1775270721,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106839,
+        "num": 106839,
+        "word": "孙颖莎4比3高达",
+        "onboard_time": 1775284460,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115896,
+        "num": 105806,
+        "word": "十日终焉",
+        "onboard_time": 1775283800,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68042,
+        "num": 104632,
+        "word": "美军战机残骸有F15专用电子战设备",
+        "onboard_time": 1775281880,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 104137,
+        "word": "孙颖莎5比11高达",
+        "onboard_time": 1775283800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103480,
+        "num": 103480,
+        "word": "汪蜂出现了",
+        "onboard_time": 1775280141,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112232,
+        "num": 103184,
+        "word": "歌不是谁唱火的谁有版权",
+        "onboard_time": 1775281342,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105629,
+        "num": 102606,
+        "word": "TXT新专 万妮达",
+        "onboard_time": 1775277319,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100764,
+        "num": 100764,
+        "word": "林昀儒4比1张本智和",
+        "onboard_time": 1775279120,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97998,
+        "num": 97998,
+        "word": "女生午睡5小时被领导警告发视频哭诉",
+        "onboard_time": 1775231723,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97546,
+        "num": 97546,
+        "word": "第一次走红毯的angelababy",
+        "onboard_time": 1775282661,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93879,
+        "num": 93879,
+        "word": "谢娜乘风临场反应",
+        "onboard_time": 1775283741,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81525,
+        "num": 81525,
+        "word": "孙颖莎13比11高达",
+        "onboard_time": 1775280621,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80892,
+        "num": 80892,
+        "word": "小猫从质疑到相信只用了一秒",
+        "onboard_time": 1775284340,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80303,
+        "num": 80303,
+        "word": "华裔女子西安刚下飞机就被历史暴击",
+        "onboard_time": 1775272879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79512,
+        "num": 79512,
+        "word": "俩游客花86元就餐店家嫌消费太少",
+        "onboard_time": 1775280560,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78326,
+        "num": 78326,
+        "word": "新款AirPodsPro曝光",
+        "onboard_time": 1775284401,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76757,
+        "num": 76757,
+        "word": "当你以为回县城老家是退路时",
+        "onboard_time": 1775284222,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69774,
+        "num": 69774,
+        "word": "遮天首部剧场版今日开播",
+        "onboard_time": 1775283381,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 69288,
+        "num": 69288,
+        "word": "94岁爷爷吃饭神似年迈的兔子",
+        "onboard_time": 1775275400,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69277,
+        "num": 69277,
+        "word": "优思益",
+        "onboard_time": 1775271260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69245,
+        "num": 69245,
+        "word": "双高胎抢票",
+        "onboard_time": 1775280560,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66712,
+        "num": 66712,
+        "word": "高桥无缘八强",
+        "onboard_time": 1775284641,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66559,
+        "num": 66559,
+        "word": "谢依霖自曝酒后和老公狂恋",
+        "onboard_time": 1775280560,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平深情讲述的英雄故事#"
+    }
+  }
+}
