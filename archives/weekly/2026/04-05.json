@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775328896426,
+  "endTime": 1775329767042,
   "band_list": [
     {
       "raw_hot": 789060,
@@ -451,8 +451,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23331,
-      "num": 23331,
+      "raw_hot": 26700,
+      "num": 26700,
       "word": "王橹杰咴",
       "onboard_time": 1775328555,
       "rank": 41,
@@ -483,8 +483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18339,
+      "num": 25928,
+      "word": "鞠婧祎露芜衣晋江演技",
+      "onboard_time": 1775329515,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18151,
-      "num": 24585,
+      "num": 25928,
       "word": "女子坠崖被送医爱犬独守原地7天",
       "onboard_time": 1775327536,
       "rank": 39,

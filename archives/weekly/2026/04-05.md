@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 02:54:56
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/05 03:09:27
 </p>
 </blockquote>
 <p>
@@ -352,7 +352,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%92%B4%23" target="weibo">
-王橹杰咴（热度：23331）
+王橹杰咴（热度：26700）
 </a>
 </li>
 
@@ -371,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E7%BA%A6%E5%A5%87%E5%85%8B%23" target="weibo">
 王楚钦vs约奇克（热度：19787）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%9C%B2%E8%8A%9C%E8%A1%A3%E6%99%8B%E6%B1%9F%E6%BC%94%E6%8A%80%23" target="weibo">
+鞠婧祎露芜衣晋江演技（热度：18339）
 </a>
 </li>
 
