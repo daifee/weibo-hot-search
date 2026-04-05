@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775389122072,
+  "endTime": 1775390047276,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3683627,
+      "num": 127440,
+      "word": "黄晓明已去交警部门接受处罚",
+      "onboard_time": 1775385800,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3680249,
       "num": 216828,
       "word": "闫学晶发文道歉",
@@ -969,14 +977,6 @@
       "onboard_time": 1774065984,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3540542,
-      "num": 127440,
-      "word": "黄晓明已去交警部门接受处罚",
-      "onboard_time": 1775385800,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 3534737,

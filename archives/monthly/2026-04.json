@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775389122072,
+  "endTime": 1775390047276,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -35,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3540542,
+      "raw_hot": 3683627,
       "num": 127440,
       "word": "黄晓明已去交警部门接受处罚",
       "onboard_time": 1775385800,
@@ -723,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 707737,
+      "num": 1113238,
+      "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+      "onboard_time": 1775388803,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 707076,
       "num": 277064,
       "word": "导师和导员都沉默了",
@@ -1076,7 +1084,7 @@
     },
     {
       "raw_hot": 587119,
-      "num": 99965,
+      "num": 99982,
       "word": "黄晓明带9岁娃骑行再温馨也违法",
       "onboard_time": 1775381422,
       "rank": 26,
@@ -2107,19 +2115,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368287,
+      "num": 1058635,
+      "word": "女子开车撞劫匪致1死2伤被判无罪",
+      "onboard_time": 1775375180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366679,
       "num": 366679,
       "word": "老爸评测就优思益事件道歉",
       "onboard_time": 1775185460,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366473,
-      "num": 1058635,
-      "word": "女子开车撞劫匪致1死2伤被判无罪",
-      "onboard_time": 1775375180,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -2201,6 +2209,14 @@
       "onboard_time": 1775054905,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 350180,
+      "num": 752511,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1775387661,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 349968,
@@ -2795,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296554,
-      "num": 296554,
-      "word": "妈妈不知儿子去世跟AI儿子聊了1年",
-      "onboard_time": 1775388803,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295160,
       "num": 328817,
       "word": "公安部力挺张雪新手禁令",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1775126722,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258865,
+      "num": 258865,
+      "word": "白日提灯",
+      "onboard_time": 1775126480,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 258308,
@@ -4083,6 +4099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 211610,
+      "num": 91201,
+      "word": "唐艺昕露背身材",
+      "onboard_time": 1775388562,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211334,
       "num": 211334,
       "word": "王楚钦回应极限逆转达科",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1775317042,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204222,
+      "num": 163498,
+      "word": "老人称养大4个子女晚年却无人陪伴",
+      "onboard_time": 1775386582,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 203984,
@@ -5027,14 +5059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163686,
-      "num": 752511,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1775387661,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163573,
       "num": 153071,
       "word": "李心洁 好听",
@@ -5220,7 +5244,7 @@
     },
     {
       "raw_hot": 159425,
-      "num": 159425,
+      "num": 298205,
       "word": "王楚钦把雨果打笑了",
       "onboard_time": 1775385800,
       "rank": 43,
@@ -5233,14 +5257,6 @@
       "onboard_time": 1775275100,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159204,
-      "num": 163498,
-      "word": "老人称养大4个子女晚年却无人陪伴",
-      "onboard_time": 1775386582,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 158560,
@@ -5337,14 +5353,6 @@
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154369,
-      "num": 91201,
-      "word": "唐艺昕露背身材",
-      "onboard_time": 1775388562,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 154154,
@@ -5769,6 +5777,14 @@
       "onboard_time": 1775294541,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141538,
+      "num": 89981,
+      "word": "佟丽娅给小酒窝朵朵听写作业",
+      "onboard_time": 1775387123,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 141490,
@@ -6411,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127231,
+      "num": 86918,
+      "word": "王玉雯拿到了宋威龙的应援登机牌",
+      "onboard_time": 1775387542,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127201,
       "num": 127201,
       "word": "黄金大幅回落",
@@ -6611,14 +6635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 122434,
-      "num": 89981,
-      "word": "佟丽娅给小酒窝朵朵听写作业",
-      "onboard_time": 1775387123,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122367,
       "num": 117844,
       "word": "江语晨 举手不是选我是想上厕所",
@@ -6665,14 +6681,6 @@
       "onboard_time": 1775385562,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121657,
-      "num": 121657,
-      "word": "白日提灯",
-      "onboard_time": 1775126480,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 121558,
@@ -7571,14 +7579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106988,
-      "num": 86163,
-      "word": "王玉雯拿到了宋威龙的应援登机牌",
-      "onboard_time": 1775387542,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106884,
       "num": 106884,
       "word": "生娃后奶粉要AA女子后悔闪婚",
@@ -7891,20 +7891,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102431,
+      "num": 102431,
+      "word": "仙逆",
+      "onboard_time": 1775387123,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102359,
       "num": 244602,
       "word": "张雪机车商标被恶意抢注",
       "onboard_time": 1775105963,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102341,
-      "num": 102341,
-      "word": "仙逆",
-      "onboard_time": 1775387123,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 102041,
@@ -8697,6 +8697,14 @@
       "onboard_time": 1775228185,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93385,
+      "num": 86019,
+      "word": "咪其实是一只虎",
+      "onboard_time": 1775389223,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 93246,
@@ -9824,6 +9832,14 @@
       "word": "王曼昱晋级淘汰赛",
       "onboard_time": 1775045362,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84050,
+      "num": 84050,
+      "word": "重庆铜梁龙",
+      "onboard_time": 1775389283,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -11644,7 +11660,7 @@
     },
     {
       "raw_hot": 68276,
-      "num": 68276,
+      "num": 73680,
       "word": "广东广西人不吃苹果但爱买苹果",
       "onboard_time": 1775386702,
       "rank": 44,
@@ -11971,6 +11987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64139,
+      "num": 73991,
+      "word": "加勒比海淀",
+      "onboard_time": 1775389401,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64132,
       "num": 64132,
       "word": "北控绝杀广州",
@@ -12179,6 +12203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61832,
+      "num": 73007,
+      "word": "危险关系",
+      "onboard_time": 1775389763,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61830,
       "num": 61830,
       "word": "温特首进世界杯4强",
@@ -12192,6 +12224,14 @@
       "word": "雨果扳回一局",
       "onboard_time": 1775374281,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61663,
+      "num": 72700,
+      "word": "女棋手求合影卡尔森拍完立马举报",
+      "onboard_time": 1775389100,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -12473,6 +12513,14 @@
       "onboard_time": 1775271680,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59222,
+      "num": 72349,
+      "word": "腌了六年的咸金桔",
+      "onboard_time": 1775389223,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 58972,
@@ -14129,6 +14177,14 @@
       "onboard_time": 1775154016,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12697,
+      "num": 88496,
+      "word": "张雪回应有顾客投诉被店长辱骂",
+      "onboard_time": 1775389824,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12558,
