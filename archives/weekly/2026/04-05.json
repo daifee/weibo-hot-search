@@ -1,7 +1,15 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775359176114,
+  "endTime": 1775360688334,
   "band_list": [
+    {
+      "raw_hot": 914125,
+      "num": 270764,
+      "word": "原来软柿子在人群里这么明显",
+      "onboard_time": 1775356822,
+      "rank": 5,
+      "category": "情感"
+    },
     {
       "raw_hot": 844818,
       "num": 967827,
@@ -11,20 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 776985,
-      "num": 261851,
-      "word": "原来软柿子在人群里这么明显",
-      "onboard_time": 1775356822,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
       "onboard_time": 1775319260,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 545998,
+      "num": 171988,
+      "word": "美国前参议员表示特朗普已经住院",
+      "onboard_time": 1775358680,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 416054,
@@ -43,12 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353432,
-      "num": 254751,
+      "raw_hot": 383520,
+      "num": 383520,
       "word": "张月曾沛慈 评级人数",
       "onboard_time": 1775354000,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345923,
+      "num": 1055347,
+      "word": "张雪回应一个子儿没有言论",
+      "onboard_time": 1775356100,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339756,
@@ -83,15 +99,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294882,
-      "num": 173885,
-      "word": "黄婷婷没去浪姐去了演综",
-      "onboard_time": 1775356880,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 278589,
+      "raw_hot": 308487,
       "num": 1044574,
       "word": "美5名顶尖科学家离奇失踪或死亡",
       "onboard_time": 1775353759,
@@ -99,20 +107,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 272982,
-      "num": 272982,
-      "word": "张雪回应一个子儿没有言论",
-      "onboard_time": 1775356100,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272402,
-      "num": 98459,
+      "raw_hot": 308189,
+      "num": 119431,
       "word": "飞机 烟灰缸",
       "onboard_time": 1775355260,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302846,
+      "num": 260620,
+      "word": "郝蕾说张昊唯废了",
+      "onboard_time": 1775359100,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301540,
+      "num": 301540,
+      "word": "孙颖莎vs温特",
+      "onboard_time": 1775356760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294882,
+      "num": 173885,
+      "word": "黄婷婷没去浪姐去了演综",
+      "onboard_time": 1775356880,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 267913,
@@ -155,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236363,
+      "num": 165501,
+      "word": "网友爸爸曾在昆明石林偶遇张国荣",
+      "onboard_time": 1775357840,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229360,
       "num": 229360,
       "word": "维妮娜浪花团0票",
@@ -172,19 +204,11 @@
     },
     {
       "raw_hot": 223121,
-      "num": 159607,
+      "num": 164957,
       "word": "李小冉曾自曝给谢娜收拾脱的脏衣服",
       "onboard_time": 1775354420,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222649,
-      "num": 75726,
-      "word": "美国前参议员表示特朗普已经住院",
-      "onboard_time": 1775358680,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 218899,
@@ -211,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183507,
-      "num": 183507,
-      "word": "孙颖莎vs温特",
-      "onboard_time": 1775356760,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 195684,
+      "num": 168318,
+      "word": "黄金大买家狂抛",
+      "onboard_time": 1775357360,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 177005,
@@ -235,8 +259,24 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165203,
+      "num": 165203,
+      "word": "特朗普一直呆在白宫",
+      "onboard_time": 1775358860,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164069,
+      "num": 164069,
+      "word": "嘴甜羞耻症",
+      "onboard_time": 1775359520,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161705,
-      "num": 161705,
+      "num": 173551,
       "word": "伊媒称美军试图炸死在伊失联飞行员",
       "onboard_time": 1775356880,
       "rank": 12,
@@ -249,14 +289,6 @@
       "onboard_time": 1775314044,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158746,
-      "num": 158746,
-      "word": "黄金大买家狂抛",
-      "onboard_time": 1775357360,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 153883,
@@ -315,28 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126289,
-      "num": 126289,
-      "word": "无人继承的巨额遗产或在拖垮日本",
-      "onboard_time": 1775295021,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 127355,
+      "num": 119132,
+      "word": "中国电车全球爆火",
+      "onboard_time": 1775359220,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 125394,
-      "num": 125394,
+      "raw_hot": 126792,
+      "num": 126792,
       "word": "迪丽热巴陈飞宇白日提灯热度涨幅",
       "onboard_time": 1775355318,
       "rank": 16,
       "category": "剧集"
     },
     {
-      "raw_hot": 124902,
-      "num": 124902,
-      "word": "网友爸爸曾在昆明石林偶遇张国荣",
-      "onboard_time": 1775357840,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 126289,
+      "num": 126289,
+      "word": "无人继承的巨额遗产或在拖垮日本",
+      "onboard_time": 1775295021,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124278,
@@ -363,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112789,
+      "num": 83016,
+      "word": "毛新宇携家人到杨开慧烈士陵园祭扫",
+      "onboard_time": 1775356939,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109686,
       "num": 42852,
       "word": "张月回应第一",
@@ -371,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106048,
-      "num": 75535,
-      "word": "毛新宇携家人到杨开慧烈士陵园祭扫",
-      "onboard_time": 1775356939,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 107539,
+      "num": 107539,
+      "word": "全红婵快乐成长吧",
+      "onboard_time": 1775358680,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 103865,
@@ -427,6 +467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 97643,
+      "num": 97643,
+      "word": "刘雨鑫探店莫氏鸡煲视频点赞超130万",
+      "onboard_time": 1775359220,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96843,
       "num": 96843,
       "word": "酒店员工提醒小孩别玩门家长报警",
@@ -441,6 +489,38 @@
       "onboard_time": 1775296642,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93859,
+      "num": 93859,
+      "word": "孙颖莎11比6温特",
+      "onboard_time": 1775360539,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91837,
+      "num": 82834,
+      "word": "男子拿祖宗骨灰坛回家进门就打碎了",
+      "onboard_time": 1775360539,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91279,
+      "num": 91279,
+      "word": "美议员称公开外星人简报会让国家混乱",
+      "onboard_time": 1775359520,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88475,
+      "num": 88475,
+      "word": "疯狂动物城2原设定有狐兔鼻尖糖",
+      "onboard_time": 1775355380,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 87554,
@@ -467,20 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83687,
+      "num": 82188,
+      "word": "手机壳比手机还贵",
+      "onboard_time": 1775360059,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83626,
       "num": 83626,
       "word": "以军空袭伊朗石化设施",
       "onboard_time": 1775344937,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83589,
-      "num": 83589,
-      "word": "疯狂动物城2原设定有狐兔鼻尖糖",
-      "onboard_time": 1775355380,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 83056,
@@ -507,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81032,
-      "num": 75496,
-      "word": "特朗普一直呆在白宫",
-      "onboard_time": 1775358860,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80565,
       "num": 53194,
       "word": "萧蔷初舞台第一名",
@@ -523,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78853,
-      "num": 75378,
-      "word": "全红婵快乐成长吧",
-      "onboard_time": 1775358680,
+      "raw_hot": 79334,
+      "num": 79334,
+      "word": "熬夜时最害怕听见的声音",
+      "onboard_time": 1775359701,
       "rank": 34,
-      "category": "体育"
+      "category": "幽默"
     },
     {
       "raw_hot": 76530,
@@ -536,6 +608,14 @@
       "word": "爱上台女是我的宿命",
       "onboard_time": 1775318002,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76096,
+      "num": 76096,
+      "word": "浪姐垫音",
+      "onboard_time": 1775359400,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -553,14 +633,6 @@
       "onboard_time": 1775355982,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75014,
-      "num": 75014,
-      "word": "郝蕾说张昊唯废了",
-      "onboard_time": 1775359100,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 74074,
@@ -707,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61654,
+      "num": 61654,
+      "word": "监狱版浪姐",
+      "onboard_time": 1775359400,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59460,
       "num": 59460,
       "word": "约奇克说王楚钦赢得实至名归",
@@ -801,6 +881,14 @@
       "onboard_time": 1775312066,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54768,
+      "num": 54768,
+      "word": "杨紫每个角色都有花的特质",
+      "onboard_time": 1775360600,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53358,
@@ -961,6 +1049,14 @@
       "onboard_time": 1775327536,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27703,
+      "num": 630724,
+      "word": "清明假期新业态解锁新体验",
+      "onboard_time": 1775359339,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26700,
