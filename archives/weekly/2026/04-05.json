@@ -1,10 +1,10 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775374720591,
+  "endTime": 1775379327681,
   "band_list": [
     {
       "raw_hot": 2229781,
-      "num": 135906,
+      "num": 136282,
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
       "rank": 20,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728086,
+      "num": 230755,
+      "word": "谢娜抚养权判给谁了",
+      "onboard_time": 1775371641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
       "onboard_time": 1775319260,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 654557,
-      "num": 230755,
-      "word": "谢娜抚养权判给谁了",
-      "onboard_time": 1775371641,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 631665,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 538452,
+      "num": 538452,
+      "word": "美炸毁2架执行救援故障运输机",
+      "onboard_time": 1775373202,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 487603,
       "num": 487603,
       "word": "陈都灵曾舜晞 戏份",
@@ -113,6 +121,22 @@
       "onboard_time": 1775364141,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434806,
+      "num": 192008,
+      "word": "文淇称妇科检查时医生对其有敌意",
+      "onboard_time": 1775372840,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 428179,
+      "num": 1068508,
+      "word": "王楚钦淘汰卫冕冠军",
+      "onboard_time": 1775375239,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 416054,
@@ -219,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316742,
+      "num": 191961,
+      "word": "网传白玉兰最佳女主初选投票",
+      "onboard_time": 1775373501,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313324,
       "num": 145234,
       "word": "文淇第一次做妇科检查的不适感受",
@@ -267,28 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299491,
-      "num": 170437,
-      "word": "文淇称妇科检查时医生对其有敌意",
-      "onboard_time": 1775372840,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 294882,
       "num": 173885,
       "word": "黄婷婷没去浪姐去了演综",
       "onboard_time": 1775356880,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290707,
-      "num": 167435,
-      "word": "网传白玉兰最佳女主初选投票",
-      "onboard_time": 1775373501,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 287742,
@@ -313,6 +329,14 @@
       "onboard_time": 1775361259,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269999,
+      "num": 795480,
+      "word": "王楚钦说我也是第一次进世界杯决赛",
+      "onboard_time": 1775375121,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 267913,
@@ -344,6 +368,14 @@
       "word": "女孩2岁确诊孤独症父母花100万求医",
       "onboard_time": 1775354959,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246899,
+      "num": 246899,
+      "word": "女子开车撞劫匪致1死2伤被判无罪",
+      "onboard_time": 1775375180,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220417,
+      "num": 220417,
+      "word": "伊朗媒体发布被击落美军机图像",
+      "onboard_time": 1775376922,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218899,
       "num": 738355,
       "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203385,
+      "num": 203385,
+      "word": "快递遭血液污染暴露顺丰两大硬伤",
+      "onboard_time": 1775372059,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202736,
       "num": 171590,
       "word": "叶一茜 05超女的含金量",
@@ -475,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196431,
+      "num": 196431,
+      "word": "桃花坞",
+      "onboard_time": 1775376621,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195684,
       "num": 168318,
       "word": "黄金大买家狂抛",
@@ -483,12 +539,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 181465,
-      "num": 181465,
-      "word": "美炸毁2架执行救援故障运输机",
-      "onboard_time": 1775373202,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "叔叔无儿女临终给三侄儿每人留5千",
+      "onboard_time": 1775371700,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191102,
+      "num": 191102,
+      "word": "陈光标捐给嫣然医院1000万",
+      "onboard_time": 1775378601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177327,
@@ -539,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163377,
+      "num": 163377,
+      "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
+      "onboard_time": 1775373261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161705,
       "num": 173551,
       "word": "伊媒称美军试图炸死在伊失联飞行员",
@@ -553,22 +625,6 @@
       "onboard_time": 1775314044,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158597,
-      "num": 158597,
-      "word": "快递遭血液污染暴露顺丰两大硬伤",
-      "onboard_time": 1775372059,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157919,
-      "num": 157919,
-      "word": "叔叔无儿女临终给三侄儿每人留5千",
-      "onboard_time": 1775371700,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153883,
@@ -619,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144745,
+      "num": 136335,
+      "word": "张凌赫拍的云",
+      "onboard_time": 1775372840,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143371,
       "num": 143371,
       "word": "莫氏鸡煲店家人均痛苦面具",
@@ -665,6 +729,14 @@
       "onboard_time": 1775346018,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136378,
+      "num": 136378,
+      "word": "王楚钦雨果爆分",
+      "onboard_time": 1775376201,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 132105,
@@ -723,14 +795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126267,
-      "num": 124331,
-      "word": "张凌赫拍的云",
-      "onboard_time": 1775372840,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125903,
       "num": 125903,
       "word": "王曼昱说很开心与莎莎会师决赛",
@@ -779,12 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116751,
-      "num": 116751,
-      "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
-      "onboard_time": 1775373261,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 120109,
+      "num": 120109,
+      "word": "李楷灿ins直播",
+      "onboard_time": 1775377881,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118921,
+      "num": 118921,
+      "word": "以色列民众先破防了",
+      "onboard_time": 1775376561,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115883,
@@ -820,7 +892,7 @@
     },
     {
       "raw_hot": 109076,
-      "num": 97860,
+      "num": 105943,
       "word": "五哈6观后感",
       "onboard_time": 1775373442,
       "rank": 46,
@@ -881,6 +953,14 @@
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100035,
+      "num": 100035,
+      "word": "小英自曝给女儿剪短发的原因",
+      "onboard_time": 1775374763,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 99663,
@@ -1011,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89740,
+      "num": 89740,
+      "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
+      "onboard_time": 1775378422,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89545,
       "num": 89545,
       "word": "申裕斌回应铜牌",
       "onboard_time": 1775369241,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88815,
+      "num": 88815,
+      "word": "考古张月",
+      "onboard_time": 1775378660,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 88475,
@@ -1041,6 +1137,14 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85159,
+      "num": 85159,
+      "word": "伊朗称美试图杀害被击落美战机飞行员",
+      "onboard_time": 1775373083,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84771,
@@ -1107,20 +1211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81387,
+      "num": 81387,
+      "word": "两广地区的祭祖有多夸张",
+      "onboard_time": 1775377161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81262,
       "num": 81262,
       "word": "王楚钦11比3雨果",
       "onboard_time": 1775372723,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80757,
-      "num": 80757,
-      "word": "伊朗称美试图杀害被击落美战机飞行员",
-      "onboard_time": 1775373083,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80565,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1775366601,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77750,
+      "num": 77750,
+      "word": "吴京夸谢楠飒",
+      "onboard_time": 1775375841,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 77513,
@@ -1243,6 +1355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 73099,
+      "num": 136284,
+      "word": "陈光标将送张雪豪车变现捐赠嫣然",
+      "onboard_time": 1775378660,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72859,
       "num": 72859,
       "word": "吴镇宇说黄婷婷退团是正确的",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1775354420,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68973,
+      "num": 68973,
+      "word": "伊朗山民参与搜寻失踪美军飞行员",
+      "onboard_time": 1775379023,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68757,
@@ -1403,6 +1531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64113,
+      "num": 64113,
+      "word": "沈月核心好强",
+      "onboard_time": 1775374822,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63631,
+      "num": 63631,
+      "word": "广西男子清明要拜十几座山",
+      "onboard_time": 1775377221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63508,
       "num": 63508,
       "word": "粉丝要求红果下架易烊千玺AI短剧",
@@ -1443,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61418,
+      "num": 61418,
+      "word": "被成都高铁大屏的表白硬控了",
+      "onboard_time": 1775376081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60476,
       "num": 60476,
       "word": "耶耶不耶时被摸头后变成萨摩耶了",
@@ -1457,6 +1609,14 @@
       "onboard_time": 1775374640,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59940,
+      "num": 59940,
+      "word": "王灿晒与婆婆合影",
+      "onboard_time": 1775379023,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 59460,
@@ -1491,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57982,
+      "num": 57982,
+      "word": "黄灿灿好像刷子",
+      "onboard_time": 1775378061,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57896,
       "num": 67133,
       "word": "12306回应男子高铁站抽烟无人管",
@@ -1513,6 +1681,14 @@
       "onboard_time": 1775319500,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56373,
+      "num": 54745,
+      "word": "我许可",
+      "onboard_time": 1775377041,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 56331,
@@ -1555,12 +1731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54989,
+      "num": 54989,
+      "word": "戒掉解释自己的毛病",
+      "onboard_time": 1775375662,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54768,
       "num": 54768,
       "word": "杨紫每个角色都有花的特质",
       "onboard_time": 1775360600,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53727,
+      "num": 53727,
+      "word": "郭焱说王楚钦半决赛打得堪称完美",
+      "onboard_time": 1775376201,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53358,
@@ -1779,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21379,
+      "num": 634711,
+      "word": "清明时节一起敬读碑文",
+      "onboard_time": 1775374341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20580,
       "num": 31458,
       "word": "鞠婧祎露芜衣晋江演技",
@@ -1801,14 +2001,6 @@
       "onboard_time": 1775302101,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18261,
-      "num": 608835,
-      "word": "清明时节一起敬读碑文",
-      "onboard_time": 1775374341,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16827,
