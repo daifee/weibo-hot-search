@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775421819222,
+  "endTime": 1775422784692,
   "band_list": [
     {
       "raw_hot": 743122,
@@ -475,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19846,
+      "num": 33040,
+      "word": "考古曾沛慈",
+      "onboard_time": 1775418016,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19804,
       "num": 33042,
       "word": "孙权张辽千年宿敌祭品中实现和解",
@@ -505,14 +513,6 @@
       "onboard_time": 1775408659,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18317,
-      "num": 33040,
-      "word": "考古曾沛慈",
-      "onboard_time": 1775418016,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 18258,
