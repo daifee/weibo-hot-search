@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/06 00:46:26 ~ 2026/04/06 01:57:59
+本榜单时间：2026/04/06 00:46:26 ~ 2026/04/06 02:56:56
 </p>
 </blockquote>
 <p>
@@ -333,14 +333,14 @@ Tian哭了（热度：47752）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E7%85%A7%23" target="weibo">
-蔡徐坤洛杉矶演唱会舞台照（热度：31756）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
+被伊朗击落美军机现场画面（热度：34656）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
-被伊朗击落美军机现场画面（热度：31616）
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E7%85%A7%23" target="weibo">
+蔡徐坤洛杉矶演唱会舞台照（热度：31756）
 </a>
 </li>
 
@@ -363,6 +363,12 @@ Tian哭了（热度：47752）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%83%E5%BC%A0%E8%BE%BD%E5%8D%83%E5%B9%B4%E5%AE%BF%E6%95%8C%E7%A5%AD%E5%93%81%E4%B8%AD%E5%AE%9E%E7%8E%B0%E5%92%8C%E8%A7%A3%23" target="weibo">
+孙权张辽千年宿敌祭品中实现和解（热度：19804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%85%B1%E5%90%8C%E8%BF%BD%E7%9A%84%E6%98%9F%23" target="weibo">
 他们是中国人共同追的星（热度：19366）
 </a>
@@ -371,6 +377,12 @@ Tian哭了（热度：47752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%90%8C%E6%A1%86%E6%95%AC%E7%A4%BC%E7%A5%AD%E5%A5%A0%E5%85%88%E7%83%88%23" target="weibo">
 三代人同框敬礼祭奠先烈（热度：19315）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%23" target="weibo">
+美国和伊朗继续搜寻美军飞行员（热度：17629）
 </a>
 </li>
 

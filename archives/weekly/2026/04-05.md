@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/06 01:57:59
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/06 02:56:56
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
+被伊朗击落美军机现场画面（热度：34656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E%23" target="weibo">
 我欲乘风（热度：32361）
 </a>
@@ -2471,12 +2477,6 @@ BLG对战JDG（热度：60797）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E7%85%A7%23" target="weibo">
 蔡徐坤洛杉矶演唱会舞台照（热度：31756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
-被伊朗击落美军机现场画面（热度：31616）
 </a>
 </li>
 
@@ -2583,6 +2583,12 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%83%E5%BC%A0%E8%BE%BD%E5%8D%83%E5%B9%B4%E5%AE%BF%E6%95%8C%E7%A5%AD%E5%93%81%E4%B8%AD%E5%AE%9E%E7%8E%B0%E5%92%8C%E8%A7%A3%23" target="weibo">
+孙权张辽千年宿敌祭品中实现和解（热度：19804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E7%BA%A6%E5%A5%87%E5%85%8B%23" target="weibo">
 王楚钦vs约奇克（热度：19787）
 </a>
@@ -2597,6 +2603,12 @@ BLG对战JDG（热度：60797）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%B4%E5%B9%B4%E5%B8%A6%E9%B2%9C%E8%8A%B1%E5%92%8C%E9%85%92%E7%A5%AD%E6%89%AB%E6%97%A0%E5%90%8D%E7%83%88%E5%A3%AB%E5%A2%93%23" target="weibo">
 男子年年带鲜花和酒祭扫无名烈士墓（热度：18681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%23" target="weibo">
+美国和伊朗继续搜寻美军飞行员（热度：17629）
 </a>
 </li>
 

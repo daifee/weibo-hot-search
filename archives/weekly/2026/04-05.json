@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775411879706,
+  "endTime": 1775415416548,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -3267,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34656,
+      "num": 62856,
+      "word": "被伊朗击落美军机现场画面",
+      "onboard_time": 1775410758,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 32361,
       "num": 42835,
       "word": "我欲乘风",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1775410997,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31616,
-      "num": 62856,
-      "word": "被伊朗击落美军机现场画面",
-      "onboard_time": 1775410758,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 30342,
@@ -3427,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19804,
+      "num": 30597,
+      "word": "孙权张辽千年宿敌祭品中实现和解",
+      "onboard_time": 1775414175,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19787,
       "num": 44395,
       "word": "王楚钦vs约奇克",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1775388023,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17629,
+      "num": 30516,
+      "word": "美国和伊朗继续搜寻美军飞行员",
+      "onboard_time": 1775408659,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16827,
