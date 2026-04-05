@@ -1,18 +1,26 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775390047276,
+  "endTime": 1775394771361,
   "band_list": [
     {
       "raw_hot": 3683627,
-      "num": 127440,
+      "num": 211904,
       "word": "黄晓明已去交警部门接受处罚",
       "onboard_time": 1775385800,
       "rank": 42,
       "category": "艺人"
     },
     {
+      "raw_hot": 2550619,
+      "num": 2550619,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1775393124,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2398966,
-      "num": 102253,
+      "num": 207441,
       "word": "黄晓明就带娃骑行道歉",
       "onboard_time": 1775384122,
       "rank": 20,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2229781,
-      "num": 136282,
+      "num": 188535,
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
       "rank": 20,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1725217,
-      "num": 125499,
+      "num": 209424,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
@@ -43,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096639,
+      "num": 1096639,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1775387661,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1043300,
       "num": 681568,
       "word": "曝姐姐们集体抗议浪姐直播",
@@ -51,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 994998,
+      "num": 994998,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1775393723,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 914125,
       "num": 270764,
       "word": "原来软柿子在人群里这么明显",
       "onboard_time": 1775356822,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 850827,
+      "num": 211103,
+      "word": "SEVENTEEN全员续约",
+      "onboard_time": 1775392823,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 844818,
@@ -155,6 +187,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 531525,
+      "num": 210105,
+      "word": "200万火锅店营业额990",
+      "onboard_time": 1775390183,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514607,
+      "num": 514607,
+      "word": "陈赫女儿是鹿晗干女儿",
+      "onboard_time": 1775390543,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501899,
       "num": 192008,
       "word": "文淇称妇科检查时医生对其有敌意",
@@ -235,6 +283,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378589,
+      "num": 378589,
+      "word": "AG对战KSG",
+      "onboard_time": 1775387962,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 375926,
+      "num": 375926,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1775392524,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 374414,
+      "num": 374414,
+      "word": "孙颖莎三连冠",
+      "onboard_time": 1775393723,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368287,
       "num": 1058635,
       "word": "女子开车撞劫匪致1死2伤被判无罪",
@@ -257,14 +329,6 @@
       "onboard_time": 1775366422,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350180,
-      "num": 752511,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1775387661,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 349968,
@@ -324,7 +388,7 @@
     },
     {
       "raw_hot": 322343,
-      "num": 147916,
+      "num": 206792,
       "word": "女子长期虐待2岁儿子还拍视频",
       "onboard_time": 1775386643,
       "rank": 16,
@@ -401,6 +465,14 @@
       "onboard_time": 1775380159,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291723,
+      "num": 185383,
+      "word": "孙俪回应梅婷发文",
+      "onboard_time": 1775391983,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 287742,
@@ -571,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221159,
-      "num": 221159,
-      "word": "AG对战KSG",
-      "onboard_time": 1775387962,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 220417,
       "num": 220417,
       "word": "伊朗媒体发布被击落美军机图像",
@@ -611,8 +675,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211963,
+      "num": 211963,
+      "word": "孙颖莎创造历史",
+      "onboard_time": 1775394503,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211610,
-      "num": 91201,
+      "num": 174646,
       "word": "唐艺昕露背身材",
       "onboard_time": 1775388562,
       "rank": 33,
@@ -723,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181807,
+      "num": 181807,
+      "word": "伊媒称多名美军士兵在营救行动中身亡",
+      "onboard_time": 1775393065,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177327,
       "num": 177327,
       "word": "男子拔329株槟榔苗护祖坟获刑",
@@ -777,6 +857,22 @@
       "onboard_time": 1775359520,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163824,
+      "num": 163824,
+      "word": "裴珠泫回归退步",
+      "onboard_time": 1775390543,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163454,
+      "num": 163454,
+      "word": "世界杯",
+      "onboard_time": 1775393604,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 163377,
@@ -899,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140027,
+      "num": 140027,
+      "word": "美要求台湾开放转基因食品进校园",
+      "onboard_time": 1775393065,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139772,
       "num": 120543,
       "word": "张凌赫脱稿演讲六分半的含金量",
@@ -929,6 +1033,14 @@
       "onboard_time": 1775373861,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137790,
+      "num": 137790,
+      "word": "印度一摩天轮超载倒塌超30人受伤",
+      "onboard_time": 1775393426,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137016,
@@ -969,6 +1081,22 @@
       "onboard_time": 1775366422,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131095,
+      "num": 131095,
+      "word": "胖东来鸡蛋事件情况说明",
+      "onboard_time": 1775392403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130669,
+      "num": 130669,
+      "word": "让孙颖莎瞅瞅",
+      "onboard_time": 1775392524,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 130405,
@@ -1059,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122432,
+      "num": 122432,
+      "word": "俄罗斯摄影师粉染母象致死",
+      "onboard_time": 1775390303,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 122218,
       "num": 122218,
       "word": "林昀儒vs松岛辉空",
@@ -1083,12 +1219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120679,
+      "num": 120679,
+      "word": "孙颖莎11比9王曼昱",
+      "onboard_time": 1775391562,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120109,
       "num": 120109,
       "word": "李楷灿ins直播",
       "onboard_time": 1775377881,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118391,
+      "num": 118391,
+      "word": "Bin采访",
+      "onboard_time": 1775391203,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 115883,
@@ -1139,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107292,
+      "num": 107292,
+      "word": "王楚钦6次交手松岛辉空",
+      "onboard_time": 1775388502,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107207,
       "num": 107207,
       "word": "田嘉瑞荧幕初吻是鞠婧祎",
       "onboard_time": 1775370800,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107151,
+      "num": 107151,
+      "word": "孙颖莎夺冠后比3",
+      "onboard_time": 1775394685,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 106797,
@@ -1155,11 +1323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106594,
-      "num": 92861,
-      "word": "王楚钦6次交手松岛辉空",
-      "onboard_time": 1775388502,
-      "rank": 32,
+      "raw_hot": 106454,
+      "num": 106454,
+      "word": "松岛辉空年仅18岁",
+      "onboard_time": 1775392104,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1209,6 +1377,22 @@
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101610,
+      "num": 101610,
+      "word": "张馨予天天被喊妈妈喊习惯了",
+      "onboard_time": 1775392641,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100849,
+      "num": 100849,
+      "word": "危险关系",
+      "onboard_time": 1775389763,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100035,
@@ -1315,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94846,
+      "num": 94846,
+      "word": "重庆吃轻轨名场面再上新",
+      "onboard_time": 1775392283,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93859,
       "num": 93859,
       "word": "孙颖莎11比6温特",
@@ -1355,6 +1547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "王楚钦世排第1VS松岛辉空世排第8",
+      "onboard_time": 1775393904,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91279,
       "num": 91279,
       "word": "美议员称公开外星人简报会让国家混乱",
@@ -1385,6 +1585,14 @@
       "onboard_time": 1775369241,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88846,
+      "num": 88846,
+      "word": "AL对战TES",
+      "onboard_time": 1775393723,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 88815,
@@ -1987,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61832,
-      "num": 73007,
-      "word": "危险关系",
-      "onboard_time": 1775389763,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61721,
       "num": 61721,
       "word": "雨果扳回一局",
@@ -2235,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53781,
+      "num": 199827,
+      "word": "男子把墓园当小区每天给墓主问好",
+      "onboard_time": 1775394024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53727,
       "num": 53727,
       "word": "郭焱说王楚钦半决赛打得堪称完美",
@@ -2347,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46886,
+      "num": 202017,
+      "word": "贾浅浅论文把米芾写成米蒂",
+      "onboard_time": 1775394024,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46884,
       "num": 64021,
       "word": "男子骑车途中电池爆燃妻子全身烧伤",
@@ -2419,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31716,
+      "num": 167564,
+      "word": "地震学副教授讲炒股引热议",
+      "onboard_time": 1775394626,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 30342,
       "num": 557643,
       "word": "清明假期叠加春假激发经济新活力",
@@ -2475,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25500,
+      "num": 111194,
+      "word": "男孩偷车被抓家长反怼格局小",
+      "onboard_time": 1775394564,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25325,
       "num": 84939,
       "word": "当地连夜搭文旅地图为莫氏鸡煲分流",
@@ -2497,6 +2729,14 @@
       "onboard_time": 1775359040,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23803,
+      "num": 95027,
+      "word": "先辈给我们的留言",
+      "onboard_time": 1775393364,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21379,
@@ -2555,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14207,
+      "num": 121451,
+      "word": "他们是中国人共同追的星",
+      "onboard_time": 1775394323,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12697,
       "num": 88496,
       "word": "张雪回应有顾客投诉被店长辱骂",
@@ -2567,6 +2815,14 @@
       "num": 595725,
       "word": "在慎终追远中感受精神力量",
       "onboard_time": 1775358979,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12494,
+      "num": 1014793,
+      "word": "三代人同框敬礼祭奠先烈",
+      "onboard_time": 1775394446,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -2588,6 +2844,9 @@
     },
     {
       "word": "#总书记讲述的英雄故事荡气回肠#"
+    },
+    {
+      "word": "#永远铭记烈士们的牺牲和奉献#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/05 19:54:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/05 21:12:51
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ YSL 撞衫（热度：2608306）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B%23" target="weibo">
+孙颖莎冠军（热度：2550619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
 阿Sa官宣恋情（热度：2536475）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
 檀健次直播（热度：1854135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E7%BA%A2%E5%94%87%E5%A4%A9%E6%89%8D%23" target="weibo">
-杨幂 红唇天才（热度：1848020）
 </a>
 </li>
 
