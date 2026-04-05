@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775419014121,
+  "endTime": 1775421819222,
   "band_list": [
     {
       "raw_hot": 743122,
@@ -507,20 +507,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18317,
+      "num": 33040,
+      "word": "考古曾沛慈",
+      "onboard_time": 1775418016,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18258,
       "num": 33040,
       "word": "鞠婧祎露芜衣狐系图鉴",
       "onboard_time": 1775415555,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16112,
-      "num": 33040,
-      "word": "考古曾沛慈",
-      "onboard_time": 1775418016,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 15875,
@@ -531,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14095,
-      "num": 19314,
+      "raw_hot": 14545,
+      "num": 20696,
       "word": "你会选择用AI复活逝去的亲人吗",
       "onboard_time": 1775414535,
       "rank": 44,

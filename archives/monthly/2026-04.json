@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775419014121,
+  "endTime": 1775421819222,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -14979,6 +14979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18317,
+      "num": 33040,
+      "word": "考古曾沛慈",
+      "onboard_time": 1775418016,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18258,
       "num": 33040,
       "word": "鞠婧祎露芜衣狐系图鉴",
@@ -15039,14 +15047,6 @@
       "num": 25572,
       "word": "浪姐票数",
       "onboard_time": 1775339354,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 16112,
-      "num": 33040,
-      "word": "考古曾沛慈",
-      "onboard_time": 1775418016,
       "rank": 48,
       "category": "综艺"
     },
@@ -15115,20 +15115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14545,
+      "num": 20696,
+      "word": "你会选择用AI复活逝去的亲人吗",
+      "onboard_time": 1775414535,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 14502,
       "num": 259281,
       "word": "胡友平倒地离世前最后画面公布",
       "onboard_time": 1775200162,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14095,
-      "num": 19314,
-      "word": "你会选择用AI复活逝去的亲人吗",
-      "onboard_time": 1775414535,
-      "rank": 44,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 14076,
