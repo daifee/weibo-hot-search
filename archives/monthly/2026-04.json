@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775396188002,
+  "endTime": 1775400182887,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -9,6 +9,14 @@
       "onboard_time": 1775013504,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 7199686,
+      "num": 8449686,
+      "word": "王楚钦夺冠",
+      "onboard_time": 1775398886,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4712004,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 3683627,
-      "num": 372096,
+      "num": 430949,
       "word": "黄晓明已去交警部门接受处罚",
       "onboard_time": 1775385800,
       "rank": 42,
@@ -49,6 +57,14 @@
       "onboard_time": 1775228664,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2702500,
+      "num": 2702500,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1775393723,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2550619,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 2229781,
-      "num": 188535,
+      "num": 255525,
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
       "rank": 20,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1887586,
+      "num": 435160,
+      "word": "白宫回应特朗普病重住院传闻",
+      "onboard_time": 1775398886,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1866507,
       "num": 283357,
       "word": "阚清子 尊重游戏规则",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 1725217,
-      "num": 291211,
+      "num": 349735,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
@@ -219,14 +243,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 1341270,
-      "num": 1341270,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1775393723,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1332536,
       "num": 251994,
       "word": "芭乐 早知道烂地里了",
@@ -251,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1290802,
+      "num": 1290802,
+      "word": "郭艾伦被诈骗近千万",
+      "onboard_time": 1775395405,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1277053,
       "num": 392859,
       "word": "杨紫 没人通知我啊",
       "onboard_time": 1775054723,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1263456,
+      "num": 1263456,
+      "word": "周杰伦3小时演唱会实唱不足90分钟",
+      "onboard_time": 1775397685,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 1207957,
@@ -611,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793508,
+      "num": 793508,
+      "word": "孙怡浪姐把脚踩在椅子上",
+      "onboard_time": 1775397264,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790577,
       "num": 408615,
       "word": "迪丽热巴 古偶",
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 744906,
-      "num": 230755,
+      "num": 264656,
       "word": "谢娜抚养权判给谁了",
       "onboard_time": 1775371641,
       "rank": 10,
@@ -1235,6 +1275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 545928,
+      "num": 545928,
+      "word": "孙颖莎创造历史",
+      "onboard_time": 1775394503,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 544443,
       "num": 179780,
       "word": "美国不管霍尔木兹海峡了",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1775133923,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 529746,
-      "num": 529746,
-      "word": "孙颖莎创造历史",
-      "onboard_time": 1775394503,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 529203,
@@ -1739,11 +1779,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438250,
-      "num": 438250,
-      "word": "郭艾伦被诈骗近千万",
-      "onboard_time": 1775395405,
-      "rank": 6,
+      "raw_hot": 438504,
+      "num": 438504,
+      "word": "孙颖莎填补长达53年空白",
+      "onboard_time": 1775396364,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1801,6 +1841,14 @@
       "onboard_time": 1775043502,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425128,
+      "num": 425128,
+      "word": "王楚钦松岛辉空大爆分",
+      "onboard_time": 1775397985,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 421220,
@@ -2956,7 +3004,7 @@
     },
     {
       "raw_hot": 291723,
-      "num": 185383,
+      "num": 194344,
       "word": "孙俪回应梅婷发文",
       "onboard_time": 1775391983,
       "rank": 21,
@@ -3467,6 +3515,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 254687,
+      "num": 254687,
+      "word": "王楚钦9比11松岛辉空",
+      "onboard_time": 1775396125,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254161,
       "num": 102754,
       "word": "马兴瑞被查新疆表态",
@@ -3481,6 +3537,14 @@
       "onboard_time": 1775050524,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251494,
+      "num": 251494,
+      "word": "kspo栏杆",
+      "onboard_time": 1775398164,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 251362,
@@ -3601,6 +3665,14 @@
       "onboard_time": 1775281281,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243383,
+      "num": 243383,
+      "word": "女生托闺蜜照顾5只猫不料全被饿死",
+      "onboard_time": 1775396484,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243176,
@@ -4003,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220592,
+      "num": 220592,
+      "word": "王楚钦这一球全体起立",
+      "onboard_time": 1775400147,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220417,
       "num": 220417,
       "word": "伊朗媒体发布被击落美军机图像",
@@ -4091,6 +4171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214467,
+      "num": 214467,
+      "word": "王楚钦18比16松岛辉空",
+      "onboard_time": 1775397145,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214027,
       "num": 214027,
       "word": "南方夏天不要穿纯棉",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1775049624,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213360,
+      "num": 213360,
+      "word": "AG纪录片",
+      "onboard_time": 1775399246,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 213221,
@@ -4257,6 +4353,14 @@
       "onboard_time": 1775384900,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209129,
+      "num": 437123,
+      "word": "王楚钦澳门世界杯首冠",
+      "onboard_time": 1775399007,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 208980,
@@ -4483,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196245,
+      "num": 196245,
+      "word": "王楚钦赢下关键分松岛辉空气的跺脚",
+      "onboard_time": 1775398407,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195985,
       "num": 195985,
       "word": "泰国女星遭假急救人员侵犯",
@@ -4505,6 +4617,14 @@
       "onboard_time": 1775178381,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195516,
+      "num": 195516,
+      "word": "Tian哭了",
+      "onboard_time": 1775399607,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 195372,
@@ -4587,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192493,
+      "num": 192493,
+      "word": "孙颖莎说世乒赛是今年最重要的比赛",
+      "onboard_time": 1775398528,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192451,
       "num": 194559,
       "word": "孙颖莎2比7落后完成逆转",
@@ -4649,6 +4777,14 @@
       "onboard_time": 1775277319,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190075,
+      "num": 190075,
+      "word": "孙颖莎直接回答英文提问",
+      "onboard_time": 1775399846,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189634,
@@ -4729,6 +4865,14 @@
       "onboard_time": 1775224465,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183446,
+      "num": 183446,
+      "word": "AL对战TES",
+      "onboard_time": 1775393723,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 182429,
@@ -4979,6 +5123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171549,
+      "num": 171549,
+      "word": "食客拆台莫氏鸡煲鸡带毛冷冻",
+      "onboard_time": 1775396785,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 170969,
       "num": 195868,
       "word": "男子骑车途中电池爆燃妻子全身烧伤",
@@ -5201,6 +5353,14 @@
       "onboard_time": 1775018965,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162797,
+      "num": 162797,
+      "word": "游客滞留玉龙雪山山顶致呕吐失温",
+      "onboard_time": 1775397564,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162787,
@@ -5627,6 +5787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149928,
+      "num": 149928,
+      "word": "缓解内耗的解药",
+      "onboard_time": 1775395344,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149909,
       "num": 149909,
       "word": "我许可",
@@ -6019,6 +6187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139059,
+      "num": 139059,
+      "word": "TES举报宁王",
+      "onboard_time": 1775396427,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138650,
       "num": 105943,
       "word": "五哈6观后感",
@@ -6161,6 +6337,14 @@
       "onboard_time": 1775114062,
       "rank": 21,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 135589,
+      "num": 135589,
+      "word": "年轻人扫墓主打一个祭品硬核",
+      "onboard_time": 1775398649,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135325,
@@ -6417,6 +6601,14 @@
       "onboard_time": 1775294001,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130583,
+      "num": 130583,
+      "word": "白玉兰方否认网传名单",
+      "onboard_time": 1775399428,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 130064,
@@ -6843,20 +7035,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121989,
-      "num": 121989,
-      "word": "AL对战TES",
-      "onboard_time": 1775393723,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121763,
       "num": 121763,
       "word": "最好的蛋糕翻车案例",
       "onboard_time": 1775385562,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121701,
+      "num": 121701,
+      "word": "迪士尼入园排队3公里",
+      "onboard_time": 1775398467,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 121558,
@@ -7049,6 +7241,14 @@
       "onboard_time": 1775180541,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119188,
+      "num": 119188,
+      "word": "小俞状态",
+      "onboard_time": 1775398106,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 119035,
@@ -7299,6 +7499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114682,
+      "num": 114682,
+      "word": "中国奥委会祝贺孙颖莎三连冠",
+      "onboard_time": 1775396845,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114670,
       "num": 112996,
       "word": "者来女失去搓澡自由",
@@ -7403,6 +7611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112790,
+      "num": 112790,
+      "word": "王楚钦8比11松岛辉空",
+      "onboard_time": 1775400027,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112789,
       "num": 83016,
       "word": "毛新宇携家人到杨开慧烈士陵园祭扫",
@@ -7425,6 +7641,14 @@
       "onboard_time": 1775281342,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112010,
+      "num": 112010,
+      "word": "TES战胜AL",
+      "onboard_time": 1775398886,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 111908,
@@ -7505,14 +7729,6 @@
       "onboard_time": 1775308884,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110334,
-      "num": 110334,
-      "word": "缓解内耗的解药",
-      "onboard_time": 1775395344,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 110175,
@@ -8865,14 +9081,6 @@
       "onboard_time": 1775097380,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94437,
-      "num": 94437,
-      "word": "王楚钦9比11松岛辉空",
-      "onboard_time": 1775396125,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 94245,
@@ -10417,6 +10625,14 @@
       "onboard_time": 1775140705,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81007,
+      "num": 195612,
+      "word": "博物馆回应曹操墓前摆满布洛芬",
+      "onboard_time": 1775398886,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80959,
@@ -13771,6 +13987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35162,
+      "num": 1461828,
+      "word": "三代人同框敬礼祭奠先烈",
+      "onboard_time": 1775394446,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35044,
       "num": 61576,
       "word": "在你灿烂的季节",
@@ -13913,14 +14137,6 @@
       "onboard_time": 1774979475,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31441,
-      "num": 1014793,
-      "word": "三代人同框敬礼祭奠先烈",
-      "onboard_time": 1775394446,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31258,
