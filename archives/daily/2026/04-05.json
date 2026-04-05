@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775382540483,
+  "endTime": 1775383441539,
   "band_list": [
     {
       "raw_hot": 2229781,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1502643,
+      "raw_hot": 1725217,
       "num": 101268,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733936,
+      "num": 733936,
+      "word": "散粉高反",
+      "onboard_time": 1775379861,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
       "onboard_time": 1775319260,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 650689,
-      "num": 650689,
-      "word": "散粉高反",
-      "onboard_time": 1775379861,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 631665,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 494558,
+      "num": 94771,
+      "word": "黄晓明带9岁娃骑行再温馨也违法",
+      "onboard_time": 1775381422,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487603,
       "num": 487603,
       "word": "陈都灵曾舜晞 戏份",
@@ -145,14 +153,6 @@
       "onboard_time": 1775364141,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429124,
-      "num": 94771,
-      "word": "黄晓明带9岁娃骑行再温馨也违法",
-      "onboard_time": 1775381422,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 428179,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268691,
+      "num": 734010,
+      "word": "美军营救行动致伊朗5死8伤",
+      "onboard_time": 1775380159,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267913,
       "num": 254497,
       "word": "谢娜看到李小冉票数后哭了",
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223136,
+      "num": 733971,
+      "word": "张月陈瑶徐梦洁一组",
+      "onboard_time": 1775380461,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223121,
       "num": 164957,
       "word": "李小冉曾自曝给谢娜收拾脱的脏衣服",
@@ -505,6 +521,14 @@
       "onboard_time": 1775372241,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216760,
+      "num": 216760,
+      "word": "孙俪 当bro以为自己很有影响力",
+      "onboard_time": 1775382321,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 214027,
@@ -555,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200006,
-      "num": 668189,
-      "word": "美军营救行动致伊朗5死8伤",
-      "onboard_time": 1775380159,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199657,
       "num": 143216,
       "word": "吴京点赞吐槽浪姐博文",
@@ -593,14 +609,6 @@
       "onboard_time": 1775371700,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189779,
-      "num": 650693,
-      "word": "张月陈瑶徐梦洁一组",
-      "onboard_time": 1775380461,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 177327,
@@ -787,6 +795,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 136864,
+      "num": 81351,
+      "word": "青岛仅25平米小酒馆月营业额六七万元",
+      "onboard_time": 1775383162,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136378,
       "num": 136378,
       "word": "王楚钦雨果爆分",
@@ -833,6 +849,14 @@
       "onboard_time": 1775359220,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126959,
+      "num": 105943,
+      "word": "五哈6观后感",
+      "onboard_time": 1775373442,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126792,
@@ -899,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121833,
-      "num": 121833,
-      "word": "孙俪 当bro以为自己很有影响力",
-      "onboard_time": 1775382321,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121028,
       "num": 176849,
       "word": "王楚钦松岛辉空争冠",
@@ -947,19 +963,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111793,
+      "num": 111793,
+      "word": "网传浪姐7一公分组名单",
+      "onboard_time": 1775383281,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109686,
       "num": 42852,
       "word": "张月回应第一",
       "onboard_time": 1775345478,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109076,
-      "num": 105943,
-      "word": "五哈6观后感",
-      "onboard_time": 1775373442,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1275,6 +1291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82921,
+      "num": 77622,
+      "word": "松岛辉空并非首次情绪失控",
+      "onboard_time": 1775383102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82386,
       "num": 82386,
       "word": "我国过敏性鼻炎患者数量攀升",
@@ -1371,8 +1395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77367,
-      "num": 77367,
+      "raw_hot": 77453,
+      "num": 77453,
       "word": "不要酱选成了不要鸡腿",
       "onboard_time": 1775382202,
       "rank": 38,
@@ -1603,8 +1627,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65930,
-      "num": 60547,
+      "raw_hot": 66038,
+      "num": 66038,
       "word": "杏干刨冰",
       "onboard_time": 1775381301,
       "rank": 46,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1775376081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60866,
+      "num": 60866,
+      "word": "摸不过来真的摸不过来",
+      "onboard_time": 1775380401,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 60797,
@@ -1883,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54593,
+      "num": 69008,
+      "word": "金价卷到老祖宗那边了吗",
+      "onboard_time": 1775383402,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53899,
       "num": 53899,
       "word": "孙颖莎笑眯眯路过混采区",
@@ -1923,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52256,
+      "num": 102447,
+      "word": "美军战机被击落意味着冲突大幅升级",
+      "onboard_time": 1775382142,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51166,
       "num": 64355,
       "word": "鞠婧祎露芜衣夕阳下跳舞",
@@ -1952,6 +2000,14 @@
       "word": "以军大规模打击伊朗基础设施",
       "onboard_time": 1775346018,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50086,
+      "num": 102995,
+      "word": "伊朗称若局势升级地区将变地狱",
+      "onboard_time": 1775382142,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -2035,15 +2091,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32361,
-      "num": 42835,
-      "word": "我欲乘风",
-      "onboard_time": 1775308884,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32032,
+      "raw_hot": 39427,
       "num": 76204,
       "word": "能不能祝人清明节快乐",
       "onboard_time": 1775382202,
@@ -2051,12 +2099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31111,
-      "num": 102447,
-      "word": "美军战机被击落意味着冲突大幅升级",
-      "onboard_time": 1775382142,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 32361,
+      "num": 42835,
+      "word": "我欲乘风",
+      "onboard_time": 1775308884,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 30342,
@@ -2115,12 +2163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25735,
-      "num": 102995,
-      "word": "伊朗称若局势升级地区将变地狱",
-      "onboard_time": 1775382142,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 25325,
+      "num": 84939,
+      "word": "当地连夜搭文旅地图为莫氏鸡煲分流",
+      "onboard_time": 1775383221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24683,
@@ -2140,7 +2188,7 @@
     },
     {
       "raw_hot": 21379,
-      "num": 693190,
+      "num": 735095,
       "word": "清明时节一起敬读碑文",
       "onboard_time": 1775374341,
       "rank": 2,
