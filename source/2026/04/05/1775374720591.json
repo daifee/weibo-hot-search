@@ -1,0 +1,410 @@
+{
+  "runTime": 1775374720591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 466130,
+        "num": 1074580,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1775368221,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335894,
+        "num": 784071,
+        "word": "新婚妻子孕期被骗43万丈夫崩溃",
+        "onboard_time": 1775371460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18261,
+        "num": 608835,
+        "word": "清明时节一起敬读碑文",
+        "onboard_time": 1775374341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043300,
+        "num": 492117,
+        "word": "曝姐姐们集体抗议浪姐直播",
+        "onboard_time": 1775372541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313244,
+        "num": 313244,
+        "word": "陈都灵曾舜晞 戏份",
+        "onboard_time": 1775366899,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312415,
+        "num": 312415,
+        "word": "蓝色果然抑制食欲",
+        "onboard_time": 1775369839,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187803,
+        "num": 187803,
+        "word": "松岛辉空摔拍",
+        "onboard_time": 1775370919,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181465,
+        "num": 181465,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176898,
+        "num": 176898,
+        "word": "男子清明祭祖发现坟墓上长了竹子",
+        "onboard_time": 1775369782,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121028,
+        "num": 176849,
+        "word": "王楚钦松岛辉空争冠",
+        "onboard_time": 1775373742,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876685,
+        "num": 174980,
+        "word": "梦到已故儿子脚被扎父亲来墓前拔刺",
+        "onboard_time": 1775369241,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654557,
+        "num": 173091,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299491,
+        "num": 170437,
+        "word": "文淇称妇科检查时医生对其有敌意",
+        "onboard_time": 1775372840,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "申裕斌创造韩国女乒历史",
+        "onboard_time": 1775367979,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290707,
+        "num": 167435,
+        "word": "网传白玉兰最佳女主初选投票",
+        "onboard_time": 1775373501,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "伊朗籍男子在日本被殴打致死",
+        "onboard_time": 1775362100,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158597,
+        "num": 158597,
+        "word": "快递遭血液污染暴露顺丰两大硬伤",
+        "onboard_time": 1775372059,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157919,
+        "num": 157919,
+        "word": "叔叔无儿女临终给三侄儿每人留5千",
+        "onboard_time": 1775371700,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147329,
+        "num": 147329,
+        "word": "王楚钦11比7雨果",
+        "onboard_time": 1775372241,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "王楚钦4比1胜雨果",
+        "onboard_time": 1775373861,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2229781,
+        "num": 135906,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130861,
+        "num": 130861,
+        "word": "唐艺昕回应阚清子",
+        "onboard_time": 1775364141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "油价暴涨金价大跌",
+        "onboard_time": 1775371220,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126267,
+        "num": 124331,
+        "word": "张凌赫拍的云",
+        "onboard_time": 1775372840,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116751,
+        "num": 116751,
+        "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
+        "onboard_time": 1775373261,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99820,
+        "num": 99820,
+        "word": "全网最不想火鸡煲店老板称准备倒闭了",
+        "onboard_time": 1775365221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109076,
+        "num": 97860,
+        "word": "五哈6观后感",
+        "onboard_time": 1775373442,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92176,
+        "num": 92176,
+        "word": "浪姐今日直播暂停",
+        "onboard_time": 1775360960,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91311,
+        "num": 91311,
+        "word": "南方夏天不要穿纯棉",
+        "onboard_time": 1775366719,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90599,
+        "num": 90599,
+        "word": "浪姐美帝",
+        "onboard_time": 1775365881,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89545,
+        "num": 89545,
+        "word": "申裕斌回应铜牌",
+        "onboard_time": 1775369241,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89195,
+        "num": 89195,
+        "word": "外籍女子上海街头遇男按摩拉客",
+        "onboard_time": 1775366422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84803,
+        "num": 84803,
+        "word": "田嘉瑞荧幕初吻是鞠婧祎",
+        "onboard_time": 1775370800,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84718,
+        "num": 84718,
+        "word": "裤子买长这样改简单又好看",
+        "onboard_time": 1775369298,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 84655,
+        "num": 84655,
+        "word": "特朗普称已救回飞行员",
+        "onboard_time": 1775364742,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82050,
+        "num": 82050,
+        "word": "全世界倒数第一聪明的狗",
+        "onboard_time": 1775370320,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80757,
+        "num": 80757,
+        "word": "伊朗称美试图杀害被击落美战机飞行员",
+        "onboard_time": 1775373083,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77784,
+        "num": 77784,
+        "word": "乘风2026",
+        "onboard_time": 1775362761,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76848,
+        "num": 76848,
+        "word": "中国散户又出手了",
+        "onboard_time": 1775371100,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72277,
+        "num": 72277,
+        "word": "王曼昱申裕斌爆分",
+        "onboard_time": 1775364320,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24683,
+        "num": 71147,
+        "word": "清明致敬永不褪色的忠魂",
+        "onboard_time": 1775373982,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70299,
+        "num": 70299,
+        "word": "吴京点赞吐槽浪姐博文",
+        "onboard_time": 1775361740,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69233,
+        "num": 69233,
+        "word": "王楚钦打的太聪明了",
+        "onboard_time": 1775373861,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68457,
+        "num": 68457,
+        "word": "雾妄言武拾光圆房",
+        "onboard_time": 1775366121,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65026,
+        "num": 65026,
+        "word": "这种东西身上寄生虫多达6000条",
+        "onboard_time": 1775374640,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64286,
+        "num": 64286,
+        "word": "王曼昱回应再次对战孙颖莎",
+        "onboard_time": 1775374102,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63080,
+        "num": 63080,
+        "word": "美持续升级战争与声称谈判相矛盾",
+        "onboard_time": 1775355800,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61721,
+        "num": 61721,
+        "word": "雨果扳回一局",
+        "onboard_time": 1775374281,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60476,
+        "num": 60476,
+        "word": "耶耶不耶时被摸头后变成萨摩耶了",
+        "onboard_time": 1775374699,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60459,
+        "num": 60459,
+        "word": "伊朗回击特朗普称地狱之门为你敞开",
+        "onboard_time": 1775374640,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的英雄故事荡气回肠#"
+    }
+  }
+}

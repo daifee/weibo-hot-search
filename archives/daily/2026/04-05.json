@@ -1,10 +1,10 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775373493856,
+  "endTime": 1775374720591,
   "band_list": [
     {
-      "raw_hot": 2222856,
-      "num": 126446,
+      "raw_hot": 2229781,
+      "num": 135906,
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
       "rank": 20,
@@ -17,6 +17,14 @@
       "onboard_time": 1775369241,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1043300,
+      "num": 681568,
+      "word": "曝姐姐们集体抗议浪姐直播",
+      "onboard_time": 1775372541,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 914125,
@@ -35,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 747685,
-      "num": 681568,
-      "word": "曝姐姐们集体抗议浪姐直播",
-      "onboard_time": 1775372541,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
@@ -51,8 +51,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654557,
+      "num": 230755,
+      "word": "谢娜抚养权判给谁了",
+      "onboard_time": 1775371641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631665,
-      "num": 869985,
+      "num": 1074580,
       "word": "王楚钦vs雨果",
       "onboard_time": 1775368221,
       "rank": 18,
@@ -97,14 +105,6 @@
       "onboard_time": 1775366899,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486070,
-      "num": 230755,
-      "word": "谢娜抚养权判给谁了",
-      "onboard_time": 1775371641,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 444264,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 335894,
+      "num": 784071,
+      "word": "新婚妻子孕期被骗43万丈夫崩溃",
+      "onboard_time": 1775371460,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335594,
       "num": 142907,
       "word": "谁能看出来李小冉50了",
@@ -259,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299491,
+      "num": 170437,
+      "word": "文淇称妇科检查时医生对其有敌意",
+      "onboard_time": 1775372840,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294882,
       "num": 173885,
       "word": "黄婷婷没去浪姐去了演综",
       "onboard_time": 1775356880,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290707,
+      "num": 167435,
+      "word": "网传白玉兰最佳女主初选投票",
+      "onboard_time": 1775373501,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287742,
@@ -281,14 +305,6 @@
       "onboard_time": 1775366121,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277261,
-      "num": 277261,
-      "word": "新婚妻子孕期被骗43万丈夫崩溃",
-      "onboard_time": 1775371460,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273216,
@@ -467,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181465,
+      "num": 181465,
+      "word": "美炸毁2架执行救援故障运输机",
+      "onboard_time": 1775373202,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177327,
       "num": 177327,
       "word": "男子拔329株槟榔苗护祖坟获刑",
@@ -481,6 +505,14 @@
       "onboard_time": 1775344636,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176898,
+      "num": 176898,
+      "word": "男子清明祭祖发现坟墓上长了竹子",
+      "onboard_time": 1775369782,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175840,
@@ -521,6 +553,22 @@
       "onboard_time": 1775314044,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "快递遭血液污染暴露顺丰两大硬伤",
+      "onboard_time": 1775372059,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157919,
+      "num": 157919,
+      "word": "叔叔无儿女临终给三侄儿每人留5千",
+      "onboard_time": 1775371700,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153883,
@@ -571,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146260,
-      "num": 146260,
-      "word": "男子清明祭祖发现坟墓上长了竹子",
-      "onboard_time": 1775369782,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143371,
       "num": 143371,
       "word": "莫氏鸡煲店家人均痛苦面具",
@@ -611,28 +651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137903,
+      "num": 137903,
+      "word": "王楚钦4比1胜雨果",
+      "onboard_time": 1775373861,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "多方回应快递沾染血迹被更换包装",
       "onboard_time": 1775346018,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 134548,
-      "num": 134548,
-      "word": "快递遭血液污染暴露顺丰两大硬伤",
-      "onboard_time": 1775372059,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133476,
-      "num": 100373,
-      "word": "叔叔无儿女临终给三侄儿每人留5千",
-      "onboard_time": 1775371700,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132105,
@@ -649,14 +681,6 @@
       "onboard_time": 1775366422,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130769,
-      "num": 130769,
-      "word": "文淇称妇科检查时医生对其有敌意",
-      "onboard_time": 1775372840,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 130405,
@@ -699,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126267,
+      "num": 124331,
+      "word": "张凌赫拍的云",
+      "onboard_time": 1775372840,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125903,
       "num": 125903,
       "word": "王曼昱说很开心与莎莎会师决赛",
@@ -707,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125662,
+      "num": 125662,
+      "word": "油价暴涨金价大跌",
+      "onboard_time": 1775371220,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124278,
       "num": 98483,
       "word": "周杰伦演唱会大屏上的昆凌",
       "onboard_time": 1775351420,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123899,
-      "num": 123899,
-      "word": "油价暴涨金价大跌",
-      "onboard_time": 1775371220,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 122815,
@@ -737,6 +769,22 @@
       "onboard_time": 1775365581,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121028,
+      "num": 176849,
+      "word": "王楚钦松岛辉空争冠",
+      "onboard_time": 1775373742,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116751,
+      "num": 116751,
+      "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
+      "onboard_time": 1775373261,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 115883,
@@ -768,6 +816,14 @@
       "word": "张月回应第一",
       "onboard_time": 1775345478,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109076,
+      "num": 97860,
+      "word": "五哈6观后感",
+      "onboard_time": 1775373442,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -955,12 +1011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88805,
-      "num": 88805,
-      "word": "张凌赫拍的云",
-      "onboard_time": 1775372840,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 89545,
+      "num": 89545,
+      "word": "申裕斌回应铜牌",
+      "onboard_time": 1775369241,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 88475,
@@ -985,14 +1041,6 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85647,
-      "num": 85647,
-      "word": "申裕斌回应铜牌",
-      "onboard_time": 1775369241,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 84771,
@@ -1043,14 +1091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 82243,
-      "num": 82243,
-      "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
-      "onboard_time": 1775373261,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82195,
       "num": 82195,
       "word": "曝浪姐真人秀录到凌晨4点",
@@ -1075,11 +1115,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80784,
-      "num": 80784,
-      "word": "美炸毁2架执行救援故障运输机",
-      "onboard_time": 1775373202,
-      "rank": 41,
+      "raw_hot": 80757,
+      "num": 80757,
+      "word": "伊朗称美试图杀害被击落美战机飞行员",
+      "onboard_time": 1775373083,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1129,6 +1169,14 @@
       "onboard_time": 1775368040,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76848,
+      "num": 76848,
+      "word": "中国散户又出手了",
+      "onboard_time": 1775371100,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 76632,
@@ -1259,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69233,
+      "num": 69233,
+      "word": "王楚钦打的太聪明了",
+      "onboard_time": 1775373861,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69043,
       "num": 69043,
       "word": "高速救人发生二次事故被定责",
@@ -1323,12 +1379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64810,
-      "num": 64810,
-      "word": "中国散户又出手了",
-      "onboard_time": 1775371100,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 65026,
+      "num": 65026,
+      "word": "这种东西身上寄生虫多达6000条",
+      "onboard_time": 1775374640,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 64599,
@@ -1339,12 +1395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63864,
-      "num": 63864,
-      "word": "五哈6观后感",
-      "onboard_time": 1775373442,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 64286,
+      "num": 64286,
+      "word": "王曼昱回应再次对战孙颖莎",
+      "onboard_time": 1775374102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 63508,
@@ -1371,12 +1427,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61721,
+      "num": 61721,
+      "word": "雨果扳回一局",
+      "onboard_time": 1775374281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61654,
       "num": 61654,
       "word": "监狱版浪姐",
       "onboard_time": 1775359400,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 60476,
+      "num": 60476,
+      "word": "耶耶不耶时被摸头后变成萨摩耶了",
+      "onboard_time": 1775374699,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60459,
+      "num": 60459,
+      "word": "伊朗回击特朗普称地狱之门为你敞开",
+      "onboard_time": 1775374640,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59460,
@@ -1683,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24683,
+      "num": 71147,
+      "word": "清明致敬永不褪色的忠魂",
+      "onboard_time": 1775373982,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24634,
       "num": 70686,
       "word": "张月妆造",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1775302101,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18261,
+      "num": 608835,
+      "word": "清明时节一起敬读碑文",
+      "onboard_time": 1775374341,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16827,
@@ -1753,6 +1849,9 @@
     },
     {
       "word": "#跟着总书记一起缅怀英烈#"
+    },
+    {
+      "word": "#总书记讲述的英雄故事荡气回肠#"
     }
   ]
 }
