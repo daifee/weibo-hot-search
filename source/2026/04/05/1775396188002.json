@@ -1,0 +1,410 @@
+{
+  "runTime": 1775396188002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341270,
+        "num": 1341270,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1775393723,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1274138,
+        "num": 1274138,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1775393124,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31441,
+        "num": 720652,
+        "word": "三代人同框敬礼祭奠先烈",
+        "onboard_time": 1775394446,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1448123,
+        "num": 718091,
+        "word": "李小冉我P都不敢P这么白",
+        "onboard_time": 1775395163,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529746,
+        "num": 529746,
+        "word": "孙颖莎创造历史",
+        "onboard_time": 1775394503,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480396,
+        "num": 480396,
+        "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+        "onboard_time": 1775388803,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438250,
+        "num": 438250,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432702,
+        "num": 432702,
+        "word": "陈赫女儿是鹿晗干女儿",
+        "onboard_time": 1775390543,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421945,
+        "num": 421945,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1775387661,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382450,
+        "num": 382450,
+        "word": "孙颖莎三连冠",
+        "onboard_time": 1775393723,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2410422,
+        "num": 372096,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607424,
+        "num": 353239,
+        "word": "SEVENTEEN全员续约",
+        "onboard_time": 1775392823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455383,
+        "num": 301591,
+        "word": "200万火锅店营业额990",
+        "onboard_time": 1775390183,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544145,
+        "num": 291211,
+        "word": "新加坡偶遇唐嫣罗晋一家三口",
+        "onboard_time": 1775380760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427873,
+        "num": 251087,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 420507,
+        "num": 219837,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214544,
+        "num": 214544,
+        "word": "AG对战KSG",
+        "onboard_time": 1775387962,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188099,
+        "num": 188099,
+        "word": "女子长期虐待2岁儿子还拍视频",
+        "onboard_time": 1775386643,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175949,
+        "num": 175949,
+        "word": "黄晓明就带娃骑行道歉",
+        "onboard_time": 1775384122,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67831,
+        "num": 163205,
+        "word": "广东鸡煲店老板说杀气太重不行",
+        "onboard_time": 1775395825,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302056,
+        "num": 163047,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279367,
+        "num": 162955,
+        "word": "孙俪回应梅婷发文",
+        "onboard_time": 1775391983,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162667,
+        "num": 162667,
+        "word": "孙颖莎黄牌",
+        "onboard_time": 1775392524,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151447,
+        "num": 151447,
+        "word": "唐艺昕露背身材",
+        "onboard_time": 1775388562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145948,
+        "num": 145948,
+        "word": "男子把墓园当小区每天给墓主问好",
+        "onboard_time": 1775394024,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 141727,
+        "word": "美要求台湾开放转基因食品进校园",
+        "onboard_time": 1775393065,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135069,
+        "num": 135069,
+        "word": "王楚钦世排第1VS松岛辉空世排第8",
+        "onboard_time": 1775393904,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123195,
+        "num": 123195,
+        "word": "裴珠泫回归退步",
+        "onboard_time": 1775390543,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122793,
+        "num": 122793,
+        "word": "印度一摩天轮超载倒塌超30人受伤",
+        "onboard_time": 1775393426,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121989,
+        "num": 121989,
+        "word": "AL对战TES",
+        "onboard_time": 1775393723,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212725,
+        "num": 120360,
+        "word": "曝姐姐们集体抗议浪姐直播",
+        "onboard_time": 1775372541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117218,
+        "num": 117218,
+        "word": "伊媒称多名美军士兵在营救行动中身亡",
+        "onboard_time": 1775393065,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115656,
+        "num": 115656,
+        "word": "胖东来鸡蛋事件情况说明",
+        "onboard_time": 1775392403,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112856,
+        "num": 112856,
+        "word": "白日提灯",
+        "onboard_time": 1775387843,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111970,
+        "num": 111970,
+        "word": "文淇称妇科检查时医生对其有敌意",
+        "onboard_time": 1775372840,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 110334,
+        "word": "缓解内耗的解药",
+        "onboard_time": 1775395344,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "俄罗斯摄影师粉染母象致死",
+        "onboard_time": 1775390303,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 105701,
+        "num": 105701,
+        "word": "危险关系",
+        "onboard_time": 1775389763,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104165,
+        "num": 104165,
+        "word": "白日提灯迪丽热巴亲哭陈飞宇",
+        "onboard_time": 1775393124,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103494,
+        "num": 103494,
+        "word": "王楚钦6次交手松岛辉空",
+        "onboard_time": 1775388502,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99823,
+        "num": 99823,
+        "word": "张馨予天天被喊妈妈喊习惯了",
+        "onboard_time": 1775392641,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98898,
+        "num": 98898,
+        "word": "金毛起床第一件事就是去吸小猫",
+        "onboard_time": 1775395524,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96255,
+        "num": 96255,
+        "word": "散粉高反",
+        "onboard_time": 1775379861,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95784,
+        "num": 95784,
+        "word": "曾沛慈黄灿灿组队",
+        "onboard_time": 1775395583,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94437,
+        "num": 94437,
+        "word": "王楚钦9比11松岛辉空",
+        "onboard_time": 1775396125,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91394,
+        "num": 91394,
+        "word": "孙颖莎之前未有女选手实现单打三连冠",
+        "onboard_time": 1775396063,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91158,
+        "num": 91158,
+        "word": "马思纯锤娜丽莎别试探了有市场",
+        "onboard_time": 1775393544,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88707,
+        "num": 88707,
+        "word": "贾浅浅论文把米芾写成米蒂",
+        "onboard_time": 1775394024,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58274,
+        "num": 86365,
+        "word": "地震学副教授讲炒股引热议",
+        "onboard_time": 1775394626,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 85480,
+        "num": 85480,
+        "word": "松岛辉空年仅18岁",
+        "onboard_time": 1775392104,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记烈士们的牺牲和奉献#"
+    }
+  }
+}

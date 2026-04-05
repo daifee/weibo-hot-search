@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775394771361,
+  "endTime": 1775396188002,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3683627,
-      "num": 211904,
+      "num": 372096,
       "word": "黄晓明已去交警部门接受处罚",
       "onboard_time": 1775385800,
       "rank": 42,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1725217,
-      "num": 209424,
+      "num": 291211,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
@@ -169,6 +169,14 @@
       "onboard_time": 1775190743,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1448123,
+      "num": 718091,
+      "word": "李小冉我P都不敢P这么白",
+      "onboard_time": 1775395163,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1441608,
@@ -209,6 +217,14 @@
       "onboard_time": 1775137163,
       "rank": 16,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 1341270,
+      "num": 1341270,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1775393723,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1332536,
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 994998,
-      "num": 994998,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1775393723,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 971762,
       "num": 447231,
       "word": "收到了去世好友的微信回复",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 850827,
-      "num": 211103,
+      "num": 353239,
       "word": "SEVENTEEN全员续约",
       "onboard_time": 1775392823,
       "rank": 11,
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 531525,
-      "num": 210105,
+      "num": 301591,
       "word": "200万火锅店营业额990",
       "onboard_time": 1775390183,
       "rank": 12,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1775133923,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529746,
+      "num": 529746,
+      "word": "孙颖莎创造历史",
+      "onboard_time": 1775394503,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 529203,
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438250,
+      "num": 438250,
+      "word": "郭艾伦被诈骗近千万",
+      "onboard_time": 1775395405,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436573,
       "num": 799318,
       "word": "张天爱发文回应变样",
@@ -2051,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382450,
+      "num": 382450,
+      "word": "孙颖莎三连冠",
+      "onboard_time": 1775393723,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382446,
       "num": 770756,
       "word": "张雪身价上亿还在用两千多块钱坏手机",
@@ -2104,14 +2136,6 @@
       "word": "孙颖莎黄牌",
       "onboard_time": 1775392524,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 374414,
-      "num": 374414,
-      "word": "孙颖莎三连冠",
-      "onboard_time": 1775393723,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -4155,14 +4179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211963,
-      "num": 211963,
-      "word": "孙颖莎创造历史",
-      "onboard_time": 1775394503,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211862,
       "num": 436622,
       "word": "中国无人机蜂群突击铺天盖地",
@@ -5715,6 +5731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145948,
+      "num": 199827,
+      "word": "男子把墓园当小区每天给墓主问好",
+      "onboard_time": 1775394024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145501,
       "num": 140742,
       "word": "Angelababy海边拍摄MV",
@@ -5867,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141727,
+      "num": 141727,
+      "word": "美要求台湾开放转基因食品进校园",
+      "onboard_time": 1775393065,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141631,
       "num": 141631,
       "word": "汉娜高达创造历史",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1775050103,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140027,
-      "num": 140027,
-      "word": "美要求台湾开放转基因食品进校园",
-      "onboard_time": 1775393065,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139957,
@@ -6145,6 +6169,14 @@
       "onboard_time": 1775039902,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135069,
+      "num": 135069,
+      "word": "王楚钦世排第1VS松岛辉空世排第8",
+      "onboard_time": 1775393904,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134510,
@@ -6811,6 +6843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121989,
+      "num": 121989,
+      "word": "AL对战TES",
+      "onboard_time": 1775393723,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121763,
       "num": 121763,
       "word": "最好的蛋糕翻车案例",
@@ -7467,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110334,
+      "num": 110334,
+      "word": "缓解内耗的解药",
+      "onboard_time": 1775395344,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110175,
       "num": 110175,
       "word": "白日提灯追剧团",
@@ -7795,6 +7843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105701,
+      "num": 105701,
+      "word": "危险关系",
+      "onboard_time": 1775389763,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105641,
       "num": 105641,
       "word": "王艺迪获伦敦世乒赛参赛资格",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1775130921,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104165,
+      "num": 104165,
+      "word": "白日提灯迪丽热巴亲哭陈飞宇",
+      "onboard_time": 1775393124,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 104094,
@@ -8211,14 +8275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100849,
-      "num": 100849,
-      "word": "危险关系",
-      "onboard_time": 1775389763,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100754,
       "num": 100754,
       "word": "伊朗以色列同时大规模互袭",
@@ -8369,6 +8425,14 @@
       "onboard_time": 1775193801,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98898,
+      "num": 98898,
+      "word": "金毛起床第一件事就是去吸小猫",
+      "onboard_time": 1775395524,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 98874,
@@ -8715,6 +8779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95784,
+      "num": 95784,
+      "word": "曾沛慈黄灿灿组队",
+      "onboard_time": 1775395583,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95472,
       "num": 95472,
       "word": "在图书馆被要联系方式了",
@@ -8793,6 +8865,14 @@
       "onboard_time": 1775097380,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94437,
+      "num": 94437,
+      "word": "王楚钦9比11松岛辉空",
+      "onboard_time": 1775396125,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 94245,
@@ -9075,19 +9155,19 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 91394,
+      "num": 91394,
+      "word": "孙颖莎之前未有女选手实现单打三连冠",
+      "onboard_time": 1775396063,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91347,
       "num": 91347,
       "word": "詹姆斯自评生涯三大高光时刻",
       "onboard_time": 1775191824,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 91340,
-      "num": 91340,
-      "word": "王楚钦世排第1VS松岛辉空世排第8",
-      "onboard_time": 1775393904,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -9113,6 +9193,14 @@
       "onboard_time": 1775051724,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91158,
+      "num": 91158,
+      "word": "马思纯锤娜丽莎别试探了有市场",
+      "onboard_time": 1775393544,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 91022,
@@ -9371,14 +9459,6 @@
       "category": "电竞,民生新闻"
     },
     {
-      "raw_hot": 88846,
-      "num": 88846,
-      "word": "AL对战TES",
-      "onboard_time": 1775393723,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88815,
       "num": 88815,
       "word": "考古张月",
@@ -9393,6 +9473,14 @@
       "onboard_time": 1774975999,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88707,
+      "num": 202017,
+      "word": "贾浅浅论文把米芾写成米蒂",
+      "onboard_time": 1775394024,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 88705,
@@ -11907,6 +11995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67831,
+      "num": 163205,
+      "word": "广东鸡煲店老板说杀气太重不行",
+      "onboard_time": 1775395825,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67812,
       "num": 156568,
       "word": "袁隆平墓前摆满稻穗鲜花",
@@ -12755,6 +12851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58274,
+      "num": 167564,
+      "word": "地震学副教授讲炒股引热议",
+      "onboard_time": 1775394626,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 58221,
       "num": 58221,
       "word": "曝creme不想和Tian打比赛",
@@ -12985,14 +13089,6 @@
       "onboard_time": 1775380040,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53781,
-      "num": 199827,
-      "word": "男子把墓园当小区每天给墓主问好",
-      "onboard_time": 1775394024,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53727,
@@ -13321,14 +13417,6 @@
       "onboard_time": 1775057603,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46886,
-      "num": 202017,
-      "word": "贾浅浅论文把米芾写成米蒂",
-      "onboard_time": 1775394024,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 46818,
@@ -13827,12 +13915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31716,
-      "num": 167564,
-      "word": "地震学副教授讲炒股引热议",
-      "onboard_time": 1775394626,
-      "rank": 24,
-      "category": "民生新闻,教育"
+      "raw_hot": 31441,
+      "num": 1014793,
+      "word": "三代人同框敬礼祭奠先烈",
+      "onboard_time": 1775394446,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31258,
@@ -14439,14 +14527,6 @@
       "num": 595725,
       "word": "在慎终追远中感受精神力量",
       "onboard_time": 1775358979,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12494,
-      "num": 1014793,
-      "word": "三代人同框敬礼祭奠先烈",
-      "onboard_time": 1775394446,
       "rank": 2,
       "category": "民生新闻"
     },
