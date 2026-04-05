@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 01:03:55
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 01:40:38
 </p>
 </blockquote>
 <p>
@@ -5019,6 +5019,12 @@ Able队夺冠（热度：131429）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%A2%E5%90%8E%E5%BC%80%E8%BD%A6%E6%92%9E%E5%8A%AB%E5%8C%AA%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
+女子回应被抢后开车撞劫匪致1死2伤（热度：131374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B6%854500%E5%AE%B6%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C%23" target="weibo">
 A股超4500家个股下跌（热度：131281）
 </a>
@@ -6005,12 +6011,6 @@ JDG遗憾止步春季赛（热度：109453）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%B0%E8%BA%AB%E9%9D%92%E5%B2%9B%23" target="weibo">
 肖战现身青岛（热度：109065）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%87%A1%20%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%9E%9C%E7%84%B6%E4%B8%8D%E5%85%BB%E9%97%B2%E4%BA%BA%23" target="weibo">
-张艺凡 时代峰峻果然不养闲人（热度：108992）
 </a>
 </li>
 

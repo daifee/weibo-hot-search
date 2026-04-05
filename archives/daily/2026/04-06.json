@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775408635671,
+  "endTime": 1775410838702,
   "band_list": [
     {
       "raw_hot": 743122,
@@ -107,6 +107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131374,
+      "num": 131374,
+      "word": "女子回应被抢后开车撞劫匪致1死2伤",
+      "onboard_time": 1775405962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125975,
       "num": 102780,
       "word": "撒贝宁 章子怡",
@@ -163,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102185,
+      "num": 102185,
+      "word": "快递食品被血污染换箱在掩盖什么",
+      "onboard_time": 1775404462,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99143,
       "num": 99143,
       "word": "女生托闺蜜照顾5只猫不料全被饿死",
@@ -185,22 +201,6 @@
       "onboard_time": 1775392823,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 95400,
-      "num": 95400,
-      "word": "快递食品被血污染换箱在掩盖什么",
-      "onboard_time": 1775404462,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93346,
-      "num": 93346,
-      "word": "女子回应被抢后开车撞劫匪致1死2伤",
-      "onboard_time": 1775405962,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90661,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54088,
+      "num": 77117,
+      "word": "200万火锅店营业额990",
+      "onboard_time": 1775390183,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53222,
       "num": 77236,
       "word": "当你开始注意用脑卫生",
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51876,
-      "num": 77117,
-      "word": "200万火锅店营业额990",
-      "onboard_time": 1775390183,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51825,
       "num": 77099,
       "word": "AL对战TES",
@@ -353,6 +353,14 @@
       "onboard_time": 1775406441,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49220,
+      "num": 49220,
+      "word": "张凌赫工作室郑重声明",
+      "onboard_time": 1775409619,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 47752,
@@ -403,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43544,
+      "num": 49212,
+      "word": "李现张婧仪雾里青4月底开机",
+      "onboard_time": 1775409078,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33491,
+      "num": 49182,
+      "word": "伊朗称美军营救飞行员任务失败",
+      "onboard_time": 1775409978,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31579,
       "num": 76862,
       "word": "白玉兰方否认网传名单",
@@ -411,10 +435,34 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26642,
+      "num": 49147,
+      "word": "很难不被鞠婧祎萌到",
+      "onboard_time": 1775410758,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26395,
+      "num": 49143,
+      "word": "被伊朗击落美军机现场画面",
+      "onboard_time": 1775410758,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 19315,
       "num": 425767,
       "word": "三代人同框敬礼祭奠先烈",
       "onboard_time": 1775394446,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17678,
+      "num": 210638,
+      "word": "他们是中国人共同追的星",
+      "onboard_time": 1775394323,
       "rank": 2,
       "category": "民生新闻"
     }
