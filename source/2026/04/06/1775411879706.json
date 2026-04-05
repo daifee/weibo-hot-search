@@ -1,0 +1,410 @@
+{
+  "runTime": 1775411879706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235952,
+        "num": 300408,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191050,
+        "num": 222725,
+        "word": "王楚钦夺冠",
+        "onboard_time": 1775398886,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19366,
+        "num": 177154,
+        "word": "他们是中国人共同追的星",
+        "onboard_time": 1775394323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354083,
+        "num": 166727,
+        "word": "周杰伦3小时演唱会实唱不足90分钟",
+        "onboard_time": 1775397685,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134114,
+        "num": 134114,
+        "word": "孙怡浪姐把脚踩在椅子上",
+        "onboard_time": 1775397264,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129124,
+        "num": 129124,
+        "word": "女子回应被抢后开车撞劫匪致1死2伤",
+        "onboard_time": 1775405962,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 100337,
+        "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+        "onboard_time": 1775388803,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89733,
+        "num": 89733,
+        "word": "王楚钦距大满贯只差奥运冠军",
+        "onboard_time": 1775402364,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85695,
+        "num": 85695,
+        "word": "快递食品被血污染换箱在掩盖什么",
+        "onboard_time": 1775404462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77345,
+        "num": 77345,
+        "word": "孙俪吴慷仁演技 高手过招",
+        "onboard_time": 1775404402,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274934,
+        "num": 75777,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79239,
+        "num": 75622,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73637,
+        "num": 73637,
+        "word": "TES举报宁王",
+        "onboard_time": 1775396427,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73494,
+        "num": 73494,
+        "word": "网传浪姐7一公选曲歌单",
+        "onboard_time": 1775403684,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71716,
+        "num": 71716,
+        "word": "特朗普透露美军营救飞行员细节",
+        "onboard_time": 1775404282,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66656,
+        "num": 66656,
+        "word": "新加坡偶遇唐嫣罗晋一家三口",
+        "onboard_time": 1775380760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65038,
+        "num": 65038,
+        "word": "食客拆台莫氏鸡煲鸡带毛冷冻",
+        "onboard_time": 1775396785,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55333,
+        "num": 63912,
+        "word": "陈赫女儿是鹿晗干女儿",
+        "onboard_time": 1775390543,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47934,
+        "num": 63047,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1775393124,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45241,
+        "num": 63046,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1775393723,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63046,
+        "num": 63045,
+        "word": "女生托闺蜜照顾5只猫不料全被饿死",
+        "onboard_time": 1775396484,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56821,
+        "num": 63040,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46365,
+        "num": 63020,
+        "word": "孙俪回应梅婷发文",
+        "onboard_time": 1775391983,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45514,
+        "num": 63012,
+        "word": "SEVENTEEN全员续约",
+        "onboard_time": 1775392823,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44906,
+        "num": 63000,
+        "word": "李现张婧仪雾里青4月底开机",
+        "onboard_time": 1775409078,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44206,
+        "num": 62984,
+        "word": "伊朗称美军营救飞行员任务失败",
+        "onboard_time": 1775409978,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44077,
+        "num": 62964,
+        "word": "博物馆回应曹操墓前摆满布洛芬",
+        "onboard_time": 1775398886,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40926,
+        "num": 62958,
+        "word": "缓解内耗的解药",
+        "onboard_time": 1775395344,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36673,
+        "num": 62938,
+        "word": "女子长期虐待2岁儿子还拍视频",
+        "onboard_time": 1775386643,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33822,
+        "num": 62931,
+        "word": "200万火锅店营业额990",
+        "onboard_time": 1775390183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33382,
+        "num": 62919,
+        "word": "王楚钦孙颖莎世界杯冠军合影",
+        "onboard_time": 1775402844,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32244,
+        "num": 62902,
+        "word": "孙颖莎填补长达53年空白",
+        "onboard_time": 1775396364,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32123,
+        "num": 62882,
+        "word": "女子晒婆婆升级当奶奶后三天变化",
+        "onboard_time": 1775401465,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31756,
+        "num": 62877,
+        "word": "蔡徐坤洛杉矶演唱会舞台照",
+        "onboard_time": 1775410997,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31616,
+        "num": 62856,
+        "word": "被伊朗击落美军机现场画面",
+        "onboard_time": 1775410758,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 30730,
+        "num": 62848,
+        "word": "黄晓明就带娃骑行道歉",
+        "onboard_time": 1775384122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30728,
+        "num": 62835,
+        "word": "孙颖莎王楚钦顶峰相见",
+        "onboard_time": 1775407880,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29489,
+        "num": 62819,
+        "word": "张凌赫工作室郑重声明",
+        "onboard_time": 1775409619,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29436,
+        "num": 62803,
+        "word": "很难不被鞠婧祎萌到",
+        "onboard_time": 1775410758,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29199,
+        "num": 62800,
+        "word": "AL对战TES",
+        "onboard_time": 1775393723,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29111,
+        "num": 62776,
+        "word": "AG对战KSG",
+        "onboard_time": 1775387962,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28178,
+        "num": 62768,
+        "word": "kspo栏杆",
+        "onboard_time": 1775398164,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27849,
+        "num": 62755,
+        "word": "挽救计划",
+        "onboard_time": 1775406441,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26507,
+        "num": 62738,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25881,
+        "num": 62726,
+        "word": "邱天自曝进组十日终焉",
+        "onboard_time": 1775400987,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 62715,
+        "word": "伊朗发动对美以第96波打击",
+        "onboard_time": 1775403323,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25017,
+        "num": 62693,
+        "word": "徐洁儿李心洁一组",
+        "onboard_time": 1775411537,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24213,
+        "num": 62681,
+        "word": "毛东东毛甜懿在陵园发言",
+        "onboard_time": 1775403384,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23935,
+        "num": 62675,
+        "word": "白玉兰方否认网传名单",
+        "onboard_time": 1775399428,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23870,
+        "num": 62658,
+        "word": "Tian哭了",
+        "onboard_time": 1775399607,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记烈士们的牺牲和奉献#"
+    }
+  }
+}

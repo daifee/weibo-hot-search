@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775410838702,
+  "endTime": 1775411879706,
   "band_list": [
     {
       "raw_hot": 743122,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 49220,
-      "num": 49220,
+      "num": 62819,
       "word": "张凌赫工作室郑重声明",
       "onboard_time": 1775409619,
       "rank": 26,
@@ -411,20 +411,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43544,
-      "num": 49212,
+      "raw_hot": 44906,
+      "num": 63000,
       "word": "李现张婧仪雾里青4月底开机",
       "onboard_time": 1775409078,
       "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 33491,
-      "num": 49182,
+      "raw_hot": 44206,
+      "num": 62984,
       "word": "伊朗称美军营救飞行员任务失败",
       "onboard_time": 1775409978,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31756,
+      "num": 62877,
+      "word": "蔡徐坤洛杉矶演唱会舞台照",
+      "onboard_time": 1775410997,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 31616,
+      "num": 62856,
+      "word": "被伊朗击落美军机现场画面",
+      "onboard_time": 1775410758,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 31579,
@@ -435,34 +451,34 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26642,
-      "num": 49147,
+      "raw_hot": 29436,
+      "num": 62803,
       "word": "很难不被鞠婧祎萌到",
       "onboard_time": 1775410758,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 26395,
-      "num": 49143,
-      "word": "被伊朗击落美军机现场画面",
-      "onboard_time": 1775410758,
+      "raw_hot": 25017,
+      "num": 62693,
+      "word": "徐洁儿李心洁一组",
+      "onboard_time": 1775411537,
       "rank": 46,
-      "category": "军事"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19366,
+      "num": 210638,
+      "word": "他们是中国人共同追的星",
+      "onboard_time": 1775394323,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19315,
       "num": 425767,
       "word": "三代人同框敬礼祭奠先烈",
       "onboard_time": 1775394446,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17678,
-      "num": 210638,
-      "word": "他们是中国人共同追的星",
-      "onboard_time": 1775394323,
       "rank": 2,
       "category": "民生新闻"
     }
