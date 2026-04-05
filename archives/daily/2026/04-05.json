@@ -1,12 +1,20 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775380092753,
+  "endTime": 1775382540483,
   "band_list": [
     {
       "raw_hot": 2229781,
       "num": 136282,
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1502643,
+      "num": 101268,
+      "word": "新加坡偶遇唐嫣罗晋一家三口",
+      "onboard_time": 1775380760,
       "rank": 20,
       "category": "艺人"
     },
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650689,
+      "num": 650689,
+      "word": "散粉高反",
+      "onboard_time": 1775379861,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 631665,
       "num": 1074580,
       "word": "王楚钦vs雨果",
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 553279,
+      "num": 553279,
+      "word": "美炸毁2架执行救援故障运输机",
+      "onboard_time": 1775373202,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 545998,
       "num": 171988,
       "word": "美国前参议员表示特朗普已经住院",
@@ -97,14 +121,6 @@
       "onboard_time": 1775362100,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 538452,
-      "num": 538452,
-      "word": "美炸毁2架执行救援故障运输机",
-      "onboard_time": 1775373202,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 501899,
@@ -129,6 +145,14 @@
       "onboard_time": 1775364141,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429124,
+      "num": 94771,
+      "word": "黄晓明带9岁娃骑行再温馨也违法",
+      "onboard_time": 1775381422,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 428179,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 290878,
-      "num": 290878,
+      "num": 760959,
       "word": "女子开车撞劫匪致1死2伤被判无罪",
       "onboard_time": 1775375180,
       "rank": 6,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200006,
+      "num": 668189,
+      "word": "美军营救行动致伊朗5死8伤",
+      "onboard_time": 1775380159,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199657,
       "num": 143216,
       "word": "吴京点赞吐槽浪姐博文",
@@ -561,6 +593,14 @@
       "onboard_time": 1775371700,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189779,
+      "num": 650693,
+      "word": "张月陈瑶徐梦洁一组",
+      "onboard_time": 1775380461,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 177327,
@@ -859,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121833,
+      "num": 121833,
+      "word": "孙俪 当bro以为自己很有影响力",
+      "onboard_time": 1775382321,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121028,
       "num": 176849,
       "word": "王楚钦松岛辉空争冠",
@@ -1059,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96346,
+      "num": 96346,
+      "word": "张雪机车严正声明",
+      "onboard_time": 1775379861,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95096,
       "num": 127581,
       "word": "伊朗驻华大使馆发布战果",
@@ -1111,6 +1167,14 @@
       "num": 90144,
       "word": "松岛辉空4比3林昀儒",
       "onboard_time": 1775370020,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89986,
+      "num": 89986,
+      "word": "王楚钦滑到劈叉",
+      "onboard_time": 1775379500,
       "rank": 34,
       "category": "体育"
     },
@@ -1171,14 +1235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84790,
-      "num": 84790,
-      "word": "散粉高反",
-      "onboard_time": 1775379861,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 84771,
       "num": 84771,
       "word": "美军被曝把导弹对准了自己人",
@@ -1219,14 +1275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82650,
-      "num": 82650,
-      "word": "王楚钦滑到劈叉",
-      "onboard_time": 1775379500,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82386,
       "num": 82386,
       "word": "我国过敏性鼻炎患者数量攀升",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1775313684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81438,
+      "num": 81438,
+      "word": "孙颖莎指挥马琳扔毛巾",
+      "onboard_time": 1775381301,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 81262,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1775368040,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77367,
+      "num": 77367,
+      "word": "不要酱选成了不要鸡腿",
+      "onboard_time": 1775382202,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 76848,
@@ -1539,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65930,
+      "num": 60547,
+      "word": "杏干刨冰",
+      "onboard_time": 1775381301,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 65026,
       "num": 65026,
       "word": "这种东西身上寄生虫多达6000条",
@@ -1627,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60797,
+      "num": 60797,
+      "word": "BLG对战JDG",
+      "onboard_time": 1775381061,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60476,
       "num": 60476,
       "word": "耶耶不耶时被摸头后变成萨摩耶了",
@@ -1643,12 +1723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60279,
+      "num": 60279,
+      "word": "我许可",
+      "onboard_time": 1775377041,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60222,
       "num": 60222,
       "word": "多名游客称被困玉龙雪山山顶",
       "onboard_time": 1775379500,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60195,
+      "num": 60195,
+      "word": "人形机器人自主完成家务",
+      "onboard_time": 1775381301,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 59460,
@@ -1699,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56872,
+      "num": 56872,
+      "word": "张雪30万年薪招工程师",
+      "onboard_time": 1775378902,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56746,
       "num": 56746,
       "word": "赵心童10比1希金斯",
@@ -1713,14 +1817,6 @@
       "onboard_time": 1775319500,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56373,
-      "num": 54745,
-      "word": "我许可",
-      "onboard_time": 1775377041,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 56331,
@@ -1947,6 +2043,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32032,
+      "num": 76204,
+      "word": "能不能祝人清明节快乐",
+      "onboard_time": 1775382202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31111,
+      "num": 102447,
+      "word": "美军战机被击落意味着冲突大幅升级",
+      "onboard_time": 1775382142,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30342,
       "num": 557643,
       "word": "清明假期叠加春假激发经济新活力",
@@ -2003,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25735,
+      "num": 102995,
+      "word": "伊朗称若局势升级地区将变地狱",
+      "onboard_time": 1775382142,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24683,
       "num": 71147,
       "word": "清明致敬永不褪色的忠魂",
@@ -2020,7 +2140,7 @@
     },
     {
       "raw_hot": 21379,
-      "num": 634711,
+      "num": 693190,
       "word": "清明时节一起敬读碑文",
       "onboard_time": 1775374341,
       "rank": 2,
@@ -2065,14 +2185,6 @@
       "onboard_time": 1775335694,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13774,
-      "num": 88534,
-      "word": "张雪机车严正声明",
-      "onboard_time": 1775379861,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12558,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/05 17:08:12
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/05 17:49:00
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%B5%A2%E4%BA%86%E4%BD%95%E5%AE%A3%E6%9E%97%23" target="weibo">
 黄灿灿赢了何宣林（热度：1609619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%81%B6%E9%81%87%E5%94%90%E5%AB%A3%E7%BD%97%E6%99%8B%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%23" target="weibo">
+新加坡偶遇唐嫣罗晋一家三口（热度：1502643）
 </a>
 </li>
 
@@ -615,6 +621,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%A3%E7%B2%89%E9%AB%98%E5%8F%8D%23" target="weibo">
+散粉高反（热度：650689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E8%89%B3%E7%BD%91%E8%AF%BE%E7%8E%B0%E5%9C%BA%E6%B2%A1%E6%9C%89%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%81%8A%E5%97%A8%E4%BA%86%23" target="weibo">
 刘晓艳网课现场没有学生一个人聊嗨了（热度：648918）
 </a>
@@ -837,6 +849,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%82%B8%E6%AF%812%E6%9E%B6%E6%89%A7%E8%A1%8C%E6%95%91%E6%8F%B4%E6%95%85%E9%9A%9C%E8%BF%90%E8%BE%93%E6%9C%BA%23" target="weibo">
+美炸毁2架执行救援故障运输机（热度：553279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E9%99%B6%E6%98%95%E7%84%B6%20%E5%AE%9D%E5%A8%9F%E6%88%91%E7%9A%84%E5%97%93%E5%AD%90%23" target="weibo">
 唐艺昕陶昕然 宝娟我的嗓子（热度：549108）
 </a>
@@ -893,12 +911,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%A7%B04%E6%9C%884%E6%97%A5%E4%BA%94%E5%93%88%E6%92%AD%E4%B8%8D%E4%BA%86%E4%BA%86%23" target="weibo">
 邓超称4月4日五哈播不了了（热度：540329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%82%B8%E6%AF%812%E6%9E%B6%E6%89%A7%E8%A1%8C%E6%95%91%E6%8F%B4%E6%95%85%E9%9A%9C%E8%BF%90%E8%BE%93%E6%9C%BA%23" target="weibo">
-美炸毁2架执行救援故障运输机（热度：538452）
 </a>
 </li>
 
@@ -1247,6 +1259,12 @@ iPhone18Pro模具偷跑（热度：474601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%8F%91%E7%9A%84%E6%98%AF%E5%88%98%E8%80%80%E6%96%87%23" target="weibo">
 严浩翔发的是刘耀文（热度：432547）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A69%E5%B2%81%E5%A8%83%E9%AA%91%E8%A1%8C%E5%86%8D%E6%B8%A9%E9%A6%A8%E4%B9%9F%E8%BF%9D%E6%B3%95%23" target="weibo">
+黄晓明带9岁娃骑行再温馨也违法（热度：429124）
 </a>
 </li>
 
@@ -3153,6 +3171,12 @@ iG战胜TES（热度：218352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%90%A5%E6%95%91%E8%A1%8C%E5%8A%A8%E8%87%B4%E4%BC%8A%E6%9C%975%E6%AD%BB8%E4%BC%A4%23" target="weibo">
+美军营救行动致伊朗5死8伤（热度：200006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%82%B9%E8%B5%9E%E5%90%90%E6%A7%BD%E6%B5%AA%E5%A7%90%E5%8D%9A%E6%96%87%23" target="weibo">
 吴京点赞吐槽浪姐博文（热度：199657）
 </a>
@@ -3317,6 +3341,12 @@ jennie比基尼大片（热度：195531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TXT%E6%96%B0%E4%B8%93%20%E4%B8%87%E5%A6%AE%E8%BE%BE%23" target="weibo">
 TXT新专 万妮达（热度：190342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E9%99%88%E7%91%B6%E5%BE%90%E6%A2%A6%E6%B4%81%E4%B8%80%E7%BB%84%23" target="weibo">
+张月陈瑶徐梦洁一组（热度：189779）
 </a>
 </li>
 
@@ -4863,6 +4893,12 @@ AL战胜WBG（热度：126531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%20%E5%BD%93bro%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%BE%88%E6%9C%89%E5%BD%B1%E5%93%8D%E5%8A%9B%23" target="weibo">
+孙俪 当bro以为自己很有影响力（热度：121833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%23" target="weibo">
 白日提灯（热度：121657）
 </a>
@@ -5975,42 +6011,6 @@ NCTWISH 最尊重愚人节的团（热度：100723）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%B8%83%E4%BB%80%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%90%AF%E7%A8%8B%E8%B5%B4%E4%B8%AD%E4%B8%9C%23" target="weibo">
 美军布什号航母启程赴中东（热度：99076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%A9%E4%BB%B7%E6%89%AB%E8%8D%A1%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98%23" target="weibo">
-苹果天价扫荡全球手机内存（热度：98913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E6%89%AD%E5%88%B0%E6%88%91%E5%BF%83%E5%B7%B4%E4%B8%8A%E4%BA%86%23" target="weibo">
-迪丽热巴真的扭到我心巴上了（热度：98874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B9%98%E9%A3%8E%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
-王俊凯乘风直播状态（热度：98655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%81%E7%A8%8B%E9%91%AB%E4%BD%A0%E4%BF%A9%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%23" target="weibo">
-张凌赫丁程鑫你俩有点暧昧（热度：98582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
-吉林省考成绩（热度：98535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%937%E6%9D%A1%E9%B1%BC%E8%8E%B7%E5%88%A950%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
-男子钓7条鱼获利50元被判刑（热度：98501）
 </a>
 </li>
 
