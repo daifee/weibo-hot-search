@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775360688334,
+  "endTime": 1775368188297,
   "band_list": [
     {
       "raw_hot": 914125,
@@ -27,6 +27,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590193,
+      "num": 174110,
+      "word": "浪姐今日直播暂停",
+      "onboard_time": 1775360960,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 566194,
+      "num": 566194,
+      "word": "夫妻AI写公众号年赚200万",
+      "onboard_time": 1775364861,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545998,
       "num": 171988,
       "word": "美国前参议员表示特朗普已经住院",
@@ -35,11 +51,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 543160,
+      "num": 1086905,
+      "word": "伊朗籍男子在日本被殴打致死",
+      "onboard_time": 1775362100,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 441609,
+      "num": 441609,
+      "word": "唐艺昕回应阚清子",
+      "onboard_time": 1775364141,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416054,
       "num": 257441,
       "word": "给老祖宗上坟熊孩子把钱顺回来了",
       "onboard_time": 1775353459,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393104,
+      "num": 132099,
+      "word": "女孩高铁换胰岛素被警察发现",
+      "onboard_time": 1775364861,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -57,6 +97,14 @@
       "onboard_time": 1775354000,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360291,
+      "num": 150298,
+      "word": "浪姐美帝",
+      "onboard_time": 1775365881,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345923,
@@ -81,6 +129,14 @@
       "onboard_time": 1775313747,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328959,
+      "num": 813239,
+      "word": "王曼昱申裕斌爆分",
+      "onboard_time": 1775364320,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 313324,
@@ -131,12 +187,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295562,
+      "num": 295562,
+      "word": "特朗普称已救回飞行员",
+      "onboard_time": 1775364742,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 294882,
       "num": 173885,
       "word": "黄婷婷没去浪姐去了演综",
       "onboard_time": 1775356880,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287742,
+      "num": 287742,
+      "word": "王曼昱世界杯进决赛",
+      "onboard_time": 1775366061,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 277106,
+      "num": 164601,
+      "word": "鞠婧祎田嘉瑞吻戏",
+      "onboard_time": 1775366121,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273216,
+      "num": 131883,
+      "word": "黄磊二女儿长得好像黄磊",
+      "onboard_time": 1775361259,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 267913,
@@ -160,6 +248,14 @@
       "word": "女孩2岁确诊孤独症父母花100万求医",
       "onboard_time": 1775354959,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254242,
+      "num": 254242,
+      "word": "全网最不想火鸡煲店老板称准备倒闭了",
+      "onboard_time": 1775365221,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -219,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218141,
+      "num": 103643,
+      "word": "外籍女子上海街头遇男按摩拉客",
+      "onboard_time": 1775366422,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207531,
+      "num": 207531,
+      "word": "张月听了陈昊宇建议",
+      "onboard_time": 1775363960,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205518,
       "num": 148838,
       "word": "曾沛慈回应夯爆了",
@@ -235,12 +347,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202676,
+      "num": 81359,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775363060,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199657,
+      "num": 143216,
+      "word": "吴京点赞吐槽浪姐博文",
+      "onboard_time": 1775361740,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195684,
       "num": 168318,
       "word": "黄金大买家狂抛",
       "onboard_time": 1775357360,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 177327,
+      "num": 177327,
+      "word": "男子拔329株槟榔苗护祖坟获刑",
+      "onboard_time": 1775366481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177005,
@@ -291,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154816,
+      "num": 154816,
+      "word": "南方夏天不要穿纯棉",
+      "onboard_time": 1775366719,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153883,
       "num": 153883,
       "word": "张雪说logo是淘宝600块做的",
@@ -323,6 +467,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144858,
+      "num": 144858,
+      "word": "陈都灵曾舜晞 戏份",
+      "onboard_time": 1775366899,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143371,
+      "num": 143371,
+      "word": "莫氏鸡煲店家人均痛苦面具",
+      "onboard_time": 1775362701,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140156,
+      "num": 131791,
+      "word": "雾妄言武拾光圆房",
+      "onboard_time": 1775366121,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139772,
       "num": 120543,
       "word": "张凌赫脱稿演讲六分半的含金量",
@@ -339,11 +507,35 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 132105,
+      "num": 132105,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1775361019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131643,
+      "num": 131643,
+      "word": "美官员说失踪美军飞行员被找到",
+      "onboard_time": 1775366422,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130405,
       "num": 125788,
       "word": "海关截获18厘米长活体帝王蝎",
       "onboard_time": 1775311284,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127544,
+      "num": 127544,
+      "word": "27岁女博士暂停学业开女工维修公司",
+      "onboard_time": 1775362281,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -379,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122815,
+      "num": 122815,
+      "word": "文章马伊琍女儿小名叫文爱马",
+      "onboard_time": 1775360779,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "十日终焉作者谈青岛出现血月",
@@ -411,12 +611,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109474,
+      "num": 109474,
+      "word": "王曼昱说很开心与莎莎会师决赛",
+      "onboard_time": 1775367560,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108561,
+      "num": 108561,
+      "word": "王曼昱说和莎莎经历了不同程度的困难",
+      "onboard_time": 1775367740,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107539,
       "num": 107539,
       "word": "全红婵快乐成长吧",
       "onboard_time": 1775358680,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105575,
+      "num": 105575,
+      "word": "董璇说小酒窝不反对张维伊当爸",
+      "onboard_time": 1775365942,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103978,
+      "num": 103978,
+      "word": "乘风2026",
+      "onboard_time": 1775362761,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 103865,
@@ -433,6 +665,14 @@
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101229,
+      "num": 101229,
+      "word": "我家那小子",
+      "onboard_time": 1775367441,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 99468,
@@ -467,12 +707,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 97871,
+      "num": 97871,
+      "word": "申裕斌回应2比4王曼昱",
+      "onboard_time": 1775367679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97643,
       "num": 97643,
       "word": "刘雨鑫探店莫氏鸡煲视频点赞超130万",
       "onboard_time": 1775359220,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96855,
+      "num": 96855,
+      "word": "孙颖莎说相信王曼昱能赢半决赛",
+      "onboard_time": 1775364921,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 96843,
@@ -523,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87699,
+      "num": 87699,
+      "word": "日本警方回应伊朗籍男子被殴致死",
+      "onboard_time": 1775367079,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87554,
       "num": 87554,
       "word": "田曦薇嫁金钗杀青",
@@ -537,6 +801,14 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84771,
+      "num": 84771,
+      "word": "美军被曝把导弹对准了自己人",
+      "onboard_time": 1775365399,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84413,
@@ -563,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83337,
+      "num": 83337,
+      "word": "刘畊宏曾向周杰伦反收版权费用",
+      "onboard_time": 1775366241,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83056,
       "num": 148570,
       "word": "曝伊朗国产防空武器无法被美锁定",
@@ -587,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81003,
+      "num": 81003,
+      "word": "申裕斌创造韩国女乒历史",
+      "onboard_time": 1775367979,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80565,
       "num": 53194,
       "word": "萧蔷初舞台第一名",
@@ -595,12 +883,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79840,
+      "num": 79840,
+      "word": "林昀儒vs松岛辉空",
+      "onboard_time": 1775365581,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79630,
+      "num": 79630,
+      "word": "国乒提前包揽世界杯女单冠亚军",
+      "onboard_time": 1775368040,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79334,
       "num": 79334,
       "word": "熬夜时最害怕听见的声音",
       "onboard_time": 1775359701,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78164,
+      "num": 78164,
+      "word": "狗子你倒是撸呀",
+      "onboard_time": 1775366601,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77513,
+      "num": 77513,
+      "word": "申裕斌说王曼昱没有任何弱点",
+      "onboard_time": 1775368040,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76632,
+      "num": 76632,
+      "word": "喝水时身体里的细胞成群结队跳舞",
+      "onboard_time": 1775367860,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 76530,
@@ -635,8 +963,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74074,
-      "num": 74074,
+      "raw_hot": 74266,
+      "num": 74266,
       "word": "美持续升级战争与声称谈判相矛盾",
       "onboard_time": 1775355800,
       "rank": 37,
@@ -1017,6 +1345,14 @@
       "onboard_time": 1775303481,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41059,
+      "num": 81516,
+      "word": "解说称孙颖莎球商太厉害了",
+      "onboard_time": 1775367441,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 32361,
