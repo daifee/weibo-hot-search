@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/06 03:41:03
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/06 03:56:54
 </p>
 </blockquote>
 <p>
@@ -2607,14 +2607,14 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%B4%E5%B9%B4%E5%B8%A6%E9%B2%9C%E8%8A%B1%E5%92%8C%E9%85%92%E7%A5%AD%E6%89%AB%E6%97%A0%E5%90%8D%E7%83%88%E5%A3%AB%E5%A2%93%23" target="weibo">
-男子年年带鲜花和酒祭扫无名烈士墓（热度：18681）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%23" target="weibo">
+美国和伊朗继续搜寻美军飞行员（热度：19091）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%23" target="weibo">
-美国和伊朗继续搜寻美军飞行员（热度：18595）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B9%B4%E5%B9%B4%E5%B8%A6%E9%B2%9C%E8%8A%B1%E5%92%8C%E9%85%92%E7%A5%AD%E6%89%AB%E6%97%A0%E5%90%8D%E7%83%88%E5%A3%AB%E5%A2%93%23" target="weibo">
+男子年年带鲜花和酒祭扫无名烈士墓（热度：18681）
 </a>
 </li>
 
@@ -2631,6 +2631,12 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E6%9B%BE%E6%B2%9B%E6%85%88%23" target="weibo">
+考古曾沛慈（热度：16112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%8A%BD%E7%A9%BA%E6%99%92%E6%99%92%E5%A4%AA%E9%98%B3%23" target="weibo">
 朱志鑫抽空晒晒太阳（热度：15875）
 </a>
@@ -2643,8 +2649,8 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E6%9B%BE%E6%B2%9B%E6%85%88%23" target="weibo">
-考古曾沛慈（热度：14201）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BA%B2%E4%BA%BA%E5%90%97%23" target="weibo">
+你会选择用AI复活逝去的亲人吗（热度：14095）
 </a>
 </li>
 

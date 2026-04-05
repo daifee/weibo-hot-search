@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775418063044,
+  "endTime": 1775419014121,
   "band_list": [
     {
       "raw_hot": 743122,
@@ -499,7 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18595,
+      "raw_hot": 19091,
       "num": 33057,
       "word": "美国和伊朗继续搜寻美军飞行员",
       "onboard_time": 1775408659,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16112,
+      "num": 33040,
+      "word": "考古曾沛慈",
+      "onboard_time": 1775418016,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15875,
       "num": 33046,
       "word": "朱志鑫抽空晒晒太阳",
@@ -523,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14201,
-      "num": 33040,
-      "word": "考古曾沛慈",
-      "onboard_time": 1775418016,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 14095,
+      "num": 19314,
+      "word": "你会选择用AI复活逝去的亲人吗",
+      "onboard_time": 1775414535,
+      "rank": 44,
+      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [
