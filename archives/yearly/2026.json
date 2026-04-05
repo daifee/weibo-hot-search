@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775385824147,
+  "endTime": 1775387008007,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2398966,
+      "num": 95875,
+      "word": "黄晓明就带娃骑行道歉",
+      "onboard_time": 1775384122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2391408,
       "num": 1680243,
       "word": "太原火灾",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1772456367,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2307153,
-      "num": 88849,
-      "word": "黄晓明就带娃骑行道歉",
-      "onboard_time": 1775384122,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2304718,

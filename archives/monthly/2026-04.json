@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775385824147,
+  "endTime": 1775387008007,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -59,8 +59,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2307153,
-      "num": 88849,
+      "raw_hot": 2398966,
+      "num": 95875,
       "word": "黄晓明就带娃骑行道歉",
       "onboard_time": 1775384122,
       "rank": 20,
@@ -128,6 +128,14 @@
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1681898,
+      "num": 95761,
+      "word": "黄晓明已去交警部门接受处罚",
+      "onboard_time": 1775385800,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1131,7 +1139,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 553279,
+      "raw_hot": 555653,
       "num": 553279,
       "word": "美炸毁2架执行救援故障运输机",
       "onboard_time": 1775373202,
@@ -2099,20 +2107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366473,
+      "num": 1058635,
+      "word": "女子开车撞劫匪致1死2伤被判无罪",
+      "onboard_time": 1775375180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366112,
       "num": 366112,
       "word": "伊朗愿意结束战争",
       "onboard_time": 1775006003,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 364939,
-      "num": 1058390,
-      "word": "女子开车撞劫匪致1死2伤被判无罪",
-      "onboard_time": 1775375180,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364036,
@@ -2304,6 +2312,14 @@
       "word": "妹妹看到姐姐遗体惨状当场崩溃",
       "onboard_time": 1775041823,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337699,
+      "num": 776944,
+      "word": "曹操墓前是布洛芬诸葛亮是高铁票",
+      "onboard_time": 1775383583,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3403,14 +3419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247689,
-      "num": 247689,
-      "word": "曹操墓前是布洛芬诸葛亮是高铁票",
-      "onboard_time": 1775383583,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
@@ -4460,7 +4468,7 @@
     },
     {
       "raw_hot": 190635,
-      "num": 190635,
+      "num": 254934,
       "word": "金价卷到老祖宗那边了吗",
       "onboard_time": 1775383402,
       "rank": 42,
@@ -4521,6 +4529,14 @@
       "onboard_time": 1775048363,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186207,
+      "num": 163890,
+      "word": "吴优贴脸开大周冬雨",
+      "onboard_time": 1775385921,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 186050,
@@ -5113,6 +5129,14 @@
       "onboard_time": 1775206042,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160627,
+      "num": 160627,
+      "word": "孙怡紧急撤回一个盘腿",
+      "onboard_time": 1775384900,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 160602,
@@ -5860,7 +5884,7 @@
     },
     {
       "raw_hot": 136864,
-      "num": 84757,
+      "num": 95803,
       "word": "青岛仅25平米小酒馆月营业额六七万元",
       "onboard_time": 1775383162,
       "rank": 27,
@@ -7299,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109025,
+      "num": 163498,
+      "word": "老人称养大4个子女晚年却无人陪伴",
+      "onboard_time": 1775386582,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108954,
       "num": 108954,
       "word": "尹锡悦看守所内吸金12亿韩元",
@@ -7577,6 +7609,22 @@
       "onboard_time": 1775275880,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104795,
+      "num": 104795,
+      "word": "我欲乘风领衔主演田曦薇王弘毅",
+      "onboard_time": 1775385622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104736,
+      "num": 133656,
+      "word": "女子长期虐待2岁儿子还拍视频",
+      "onboard_time": 1775386643,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104613,
@@ -8363,6 +8411,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 95901,
+      "num": 95901,
+      "word": "王楚钦把雨果打笑了",
+      "onboard_time": 1775385800,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95856,
       "num": 95856,
       "word": "充电宝新国标发布",
@@ -8403,19 +8459,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95282,
-      "num": 95282,
-      "word": "孙怡紧急撤回一个盘腿",
-      "onboard_time": 1775384900,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95261,
       "num": 95261,
       "word": "山西一饭店发现3人死亡",
       "onboard_time": 1775118501,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95063,
+      "num": 95063,
+      "word": "毛新宇绕毛主席铜像一周",
+      "onboard_time": 1775384601,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -9387,6 +9443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86225,
+      "num": 86225,
+      "word": "苏州一彩民喜中6715万大奖",
+      "onboard_time": 1775385381,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 86138,
       "num": 86138,
       "word": "炒菜放盐时机有多重要",
@@ -9963,6 +10027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80959,
+      "num": 89498,
+      "word": "74岁老太给儿媳上坟引发山火获刑",
+      "onboard_time": 1775384841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80892,
       "num": 80892,
       "word": "小猫从质疑到相信只用了一秒",
@@ -9977,6 +10049,14 @@
       "onboard_time": 1775295380,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80750,
+      "num": 80750,
+      "word": "很多美食已经是六耳猕猴版本",
+      "onboard_time": 1775384722,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 80725,
@@ -10041,14 +10121,6 @@
       "onboard_time": 1775270600,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 80340,
-      "num": 78342,
-      "word": "很多美食已经是六耳猕猴版本",
-      "onboard_time": 1775384722,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 80296,
@@ -10403,14 +10475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77114,
-      "num": 77114,
-      "word": "毛新宇绕毛主席铜像一周",
-      "onboard_time": 1775384601,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77067,
       "num": 97007,
       "word": "黄金年内回撤达26%",
@@ -10449,6 +10513,14 @@
       "onboard_time": 1775371100,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76844,
+      "num": 76844,
+      "word": "陈光标回应捐给嫣然医院1000万",
+      "onboard_time": 1775386942,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76733,
@@ -10595,14 +10667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75875,
-      "num": 75875,
-      "word": "我欲乘风领衔主演田曦薇王弘毅",
-      "onboard_time": 1775385622,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75834,
       "num": 75834,
       "word": "曝iPhone18标准版设计没变",
@@ -10681,6 +10745,14 @@
       "onboard_time": 1775184561,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75258,
+      "num": 75258,
+      "word": "最好的蛋糕翻车案例",
+      "onboard_time": 1775385562,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 74873,
@@ -11099,6 +11171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71493,
+      "num": 71493,
+      "word": "张艺凡 时代峰峻果然不养闲人",
+      "onboard_time": 1775386822,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71412,
       "num": 71412,
       "word": "王灿晒与婆婆合影",
@@ -11233,14 +11313,6 @@
       "onboard_time": 1775266581,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70478,
-      "num": 70478,
-      "word": "苏州一彩民喜中6715万大奖",
-      "onboard_time": 1775385381,
-      "rank": 40,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 70457,
@@ -11499,12 +11571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68276,
+      "num": 68276,
+      "word": "广东广西人不吃苹果但爱买苹果",
+      "onboard_time": 1775386702,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68213,
       "num": 68213,
       "word": "收藏了一堆垃圾之书",
       "onboard_time": 1775303542,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68044,
+      "num": 68044,
+      "word": "松岛辉空说目标是金牌",
+      "onboard_time": 1775386643,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 68042,
@@ -11529,14 +11617,6 @@
       "onboard_time": 1775291900,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67733,
-      "num": 67733,
-      "word": "黄晓明已去交警部门接受处罚",
-      "onboard_time": 1775385800,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 67542,
@@ -11641,14 +11721,6 @@
       "onboard_time": 1775272580,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 66906,
-      "num": 66906,
-      "word": "王楚钦把雨果打笑了",
-      "onboard_time": 1775385800,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 66712,
@@ -12033,14 +12105,6 @@
       "onboard_time": 1775277920,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61749,
-      "num": 61749,
-      "word": "最好的蛋糕翻车案例",
-      "onboard_time": 1775385562,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 61721,
@@ -12891,6 +12955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47836,
+      "num": 95139,
+      "word": "莫氏鸡煲有人排队7天拿不到号",
+      "onboard_time": 1775386822,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47604,
       "num": 95883,
       "word": "贵阳突降冰雹市民称堆到车门高度",
@@ -13145,14 +13217,6 @@
       "onboard_time": 1775113521,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39878,
-      "num": 89498,
-      "word": "74岁老太给儿媳上坟引发山火获刑",
-      "onboard_time": 1775384841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39560,

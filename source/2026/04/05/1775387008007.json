@@ -1,0 +1,410 @@
+{
+  "runTime": 1775387008007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 366473,
+        "num": 1058635,
+        "word": "女子开车撞劫匪致1死2伤被判无罪",
+        "onboard_time": 1775375180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337699,
+        "num": 776944,
+        "word": "曹操墓前是布洛芬诸葛亮是高铁票",
+        "onboard_time": 1775383583,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15741,
+        "num": 585814,
+        "word": "清明时节一起敬读碑文",
+        "onboard_time": 1775374341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177531,
+        "num": 397279,
+        "word": "王楚钦淘汰卫冕冠军",
+        "onboard_time": 1775375239,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172623,
+        "num": 254934,
+        "word": "金价卷到老祖宗那边了吗",
+        "onboard_time": 1775383402,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230665,
+        "num": 230665,
+        "word": "网传浪姐7一公分组名单",
+        "onboard_time": 1775383281,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201279,
+        "num": 201279,
+        "word": "孙俪 当bro以为自己很有影响力",
+        "onboard_time": 1775382321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163982,
+        "num": 163982,
+        "word": "蓝色果然抑制食欲",
+        "onboard_time": 1775369839,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186207,
+        "num": 163890,
+        "word": "吴优贴脸开大周冬雨",
+        "onboard_time": 1775385921,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109025,
+        "num": 163498,
+        "word": "老人称养大4个子女晚年却无人陪伴",
+        "onboard_time": 1775386582,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 555653,
+        "num": 162867,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416931,
+        "num": 162106,
+        "word": "散粉高反",
+        "onboard_time": 1775379861,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 302829,
+        "num": 161893,
+        "word": "曝姐姐们集体抗议浪姐直播",
+        "onboard_time": 1775372541,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217486,
+        "num": 161196,
+        "word": "美军营救行动致伊朗5死8伤",
+        "onboard_time": 1775380159,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166691,
+        "num": 160893,
+        "word": "文淇称妇科检查时医生对其有敌意",
+        "onboard_time": 1775372840,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160627,
+        "num": 160627,
+        "word": "孙怡紧急撤回一个盘腿",
+        "onboard_time": 1775384900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104736,
+        "num": 133656,
+        "word": "女子长期虐待2岁儿子还拍视频",
+        "onboard_time": 1775386643,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127432,
+        "num": 127432,
+        "word": "张月陈瑶徐梦洁一组",
+        "onboard_time": 1775380461,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104795,
+        "num": 104795,
+        "word": "我欲乘风领衔主演田曦薇王弘毅",
+        "onboard_time": 1775385622,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 95901,
+        "word": "王楚钦把雨果打笑了",
+        "onboard_time": 1775385800,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2398966,
+        "num": 95875,
+        "word": "黄晓明就带娃骑行道歉",
+        "onboard_time": 1775384122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1093423,
+        "num": 95847,
+        "word": "新加坡偶遇唐嫣罗晋一家三口",
+        "onboard_time": 1775380760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102092,
+        "num": 95803,
+        "word": "青岛仅25平米小酒馆月营业额六七万元",
+        "onboard_time": 1775383162,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 643913,
+        "num": 95796,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95767,
+        "num": 95767,
+        "word": "王楚钦说我也是第一次进世界杯决赛",
+        "onboard_time": 1775375121,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1681898,
+        "num": 95761,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456861,
+        "num": 95427,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75507,
+        "num": 95258,
+        "word": "以色列民众先破防了",
+        "onboard_time": 1775376561,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47836,
+        "num": 95139,
+        "word": "莫氏鸡煲有人排队7天拿不到号",
+        "onboard_time": 1775386822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95063,
+        "num": 95063,
+        "word": "毛新宇绕毛主席铜像一周",
+        "onboard_time": 1775384601,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386750,
+        "num": 91537,
+        "word": "黄晓明带9岁娃骑行再温馨也违法",
+        "onboard_time": 1775381422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152874,
+        "num": 90206,
+        "word": "网传白玉兰最佳女主初选投票",
+        "onboard_time": 1775373501,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86225,
+        "num": 86225,
+        "word": "苏州一彩民喜中6715万大奖",
+        "onboard_time": 1775385381,
+        "rank": 32,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 123215,
+        "num": 85557,
+        "word": "五哈6观后感",
+        "onboard_time": 1775373442,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111873,
+        "num": 85139,
+        "word": "张凌赫拍的云",
+        "onboard_time": 1775372840,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84382,
+        "num": 84382,
+        "word": "快递遭血液污染暴露顺丰两大硬伤",
+        "onboard_time": 1775372059,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91658,
+        "num": 83763,
+        "word": "陈都灵曾舜晞 戏份",
+        "onboard_time": 1775366899,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82977,
+        "num": 82977,
+        "word": "叔叔无儿女临终给三侄儿每人留5千",
+        "onboard_time": 1775371700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80959,
+        "num": 80959,
+        "word": "74岁老太给儿媳上坟引发山火获刑",
+        "onboard_time": 1775384841,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80750,
+        "num": 80750,
+        "word": "很多美食已经是六耳猕猴版本",
+        "onboard_time": 1775384722,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76844,
+        "num": 76844,
+        "word": "陈光标回应捐给嫣然医院1000万",
+        "onboard_time": 1775386942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75258,
+        "num": 75258,
+        "word": "最好的蛋糕翻车案例",
+        "onboard_time": 1775385562,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71644,
+        "num": 71644,
+        "word": "村民祭祖烧纸赔了70万还判了3年",
+        "onboard_time": 1775385622,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71493,
+        "num": 71493,
+        "word": "张艺凡 时代峰峻果然不养闲人",
+        "onboard_time": 1775386822,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68276,
+        "num": 68276,
+        "word": "广东广西人不吃苹果但爱买苹果",
+        "onboard_time": 1775386702,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68044,
+        "num": 68044,
+        "word": "松岛辉空说目标是金牌",
+        "onboard_time": 1775386643,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67011,
+        "num": 67011,
+        "word": "迪丽热巴陈飞宇鬼新娘转场",
+        "onboard_time": 1775379621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64037,
+        "num": 64037,
+        "word": "桃花坞",
+        "onboard_time": 1775376621,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62935,
+        "num": 62935,
+        "word": "油价暴涨金价大跌",
+        "onboard_time": 1775371220,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62265,
+        "num": 62265,
+        "word": "乘风2026",
+        "onboard_time": 1775362761,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的英雄故事荡气回肠#"
+    }
+  }
+}
