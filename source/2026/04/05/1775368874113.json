@@ -1,0 +1,410 @@
+{
+  "runTime": 1775368874113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 500965,
+        "num": 1080154,
+        "word": "伊朗籍男子在日本被殴打致死",
+        "onboard_time": 1775362100,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342373,
+        "num": 765173,
+        "word": "王曼昱申裕斌爆分",
+        "onboard_time": 1775364320,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20876,
+        "num": 616788,
+        "word": "清明假期新业态解锁新体验",
+        "onboard_time": 1775359339,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529256,
+        "num": 529256,
+        "word": "夫妻AI写公众号年赚200万",
+        "onboard_time": 1775364861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444264,
+        "num": 444264,
+        "word": "唐艺昕回应阚清子",
+        "onboard_time": 1775364141,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349968,
+        "num": 349968,
+        "word": "特朗普称已救回飞行员",
+        "onboard_time": 1775364742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264958,
+        "num": 264958,
+        "word": "全网最不想火鸡煲店老板称准备倒闭了",
+        "onboard_time": 1775365221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257900,
+        "num": 257900,
+        "word": "陈都灵曾舜晞 戏份",
+        "onboard_time": 1775366899,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214027,
+        "num": 214027,
+        "word": "南方夏天不要穿纯棉",
+        "onboard_time": 1775366719,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168477,
+        "num": 168477,
+        "word": "男子拔329株槟榔苗护祖坟获刑",
+        "onboard_time": 1775366481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551689,
+        "num": 168131,
+        "word": "浪姐今日直播暂停",
+        "onboard_time": 1775360960,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282874,
+        "num": 166993,
+        "word": "鞠婧祎田嘉瑞吻戏",
+        "onboard_time": 1775366121,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165657,
+        "num": 165657,
+        "word": "王曼昱世界杯进决赛",
+        "onboard_time": 1775366061,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349234,
+        "num": 164342,
+        "word": "浪姐美帝",
+        "onboard_time": 1775365881,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190268,
+        "num": 156799,
+        "word": "张月听了陈昊宇建议",
+        "onboard_time": 1775363960,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139673,
+        "num": 139673,
+        "word": "王曼昱说和莎莎经历了不同程度的困难",
+        "onboard_time": 1775367740,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192890,
+        "num": 138620,
+        "word": "吴京点赞吐槽浪姐博文",
+        "onboard_time": 1775361740,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150146,
+        "num": 135336,
+        "word": "雾妄言武拾光圆房",
+        "onboard_time": 1775366121,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129994,
+        "num": 129994,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1775368221,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127223,
+        "num": 127223,
+        "word": "美5名顶尖科学家离奇失踪或死亡",
+        "onboard_time": 1775353759,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357642,
+        "num": 127109,
+        "word": "女孩高铁换胰岛素被警察发现",
+        "onboard_time": 1775364861,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238208,
+        "num": 126637,
+        "word": "黄磊二女儿长得好像黄磊",
+        "onboard_time": 1775361259,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140632,
+        "num": 126624,
+        "word": "我家那小子",
+        "onboard_time": 1775367441,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125903,
+        "num": 125903,
+        "word": "王曼昱说很开心与莎莎会师决赛",
+        "onboard_time": 1775367560,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137548,
+        "num": 125244,
+        "word": "张月曾沛慈 评级人数",
+        "onboard_time": 1775354000,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122218,
+        "num": 122218,
+        "word": "林昀儒vs松岛辉空",
+        "onboard_time": 1775365581,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120363,
+        "num": 120363,
+        "word": "莫氏鸡煲店家人均痛苦面具",
+        "onboard_time": 1775362701,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106797,
+        "num": 106797,
+        "word": "董璇说小酒窝不反对张维伊当爸",
+        "onboard_time": 1775365942,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100162,
+        "num": 100162,
+        "word": "文章马伊琍女儿小名叫文爱马",
+        "onboard_time": 1775360779,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98677,
+        "num": 98677,
+        "word": "27岁女博士暂停学业开女工维修公司",
+        "onboard_time": 1775362281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356532,
+        "num": 98606,
+        "word": "外籍女子上海街头遇男按摩拉客",
+        "onboard_time": 1775366422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151060,
+        "num": 98418,
+        "word": "申裕斌回应2比4王曼昱",
+        "onboard_time": 1775367679,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120435,
+        "num": 98042,
+        "word": "申裕斌创造韩国女乒历史",
+        "onboard_time": 1775367979,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103427,
+        "num": 97892,
+        "word": "日本警方回应伊朗籍男子被殴致死",
+        "onboard_time": 1775367079,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97807,
+        "num": 97807,
+        "word": "董宇辉曾说销量好的选品会去验厂",
+        "onboard_time": 1775368459,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "刘畊宏曾向周杰伦反收版权费用",
+        "onboard_time": 1775366241,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85999,
+        "num": 85999,
+        "word": "何炅没开口维嘉就哭了",
+        "onboard_time": 1775353459,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83457,
+        "num": 83457,
+        "word": "孙颖莎说相信王曼昱能赢半决赛",
+        "onboard_time": 1775364921,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85555,
+        "num": 83367,
+        "word": "乘风2026",
+        "onboard_time": 1775362761,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82214,
+        "num": 82214,
+        "word": "美官员说失踪美军飞行员被找到",
+        "onboard_time": 1775366422,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81155,
+        "num": 81155,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1775361019,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81096,
+        "num": 81096,
+        "word": "网友爸爸曾在昆明石林偶遇张国荣",
+        "onboard_time": 1775357840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80250,
+        "num": 80250,
+        "word": "上了年龄就自动解锁的动作",
+        "onboard_time": 1775368521,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76758,
+        "num": 76758,
+        "word": "嘴甜羞耻症",
+        "onboard_time": 1775359520,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73502,
+        "num": 73502,
+        "word": "美军被曝把导弹对准了自己人",
+        "onboard_time": 1775365399,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72491,
+        "num": 72491,
+        "word": "王曼昱展望对战孙颖莎",
+        "onboard_time": 1775368640,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69799,
+        "num": 69799,
+        "word": "国乒提前包揽世界杯女单冠亚军",
+        "onboard_time": 1775368040,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69774,
+        "num": 69774,
+        "word": "全红婵快乐成长吧",
+        "onboard_time": 1775358680,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68708,
+        "num": 68708,
+        "word": "申裕斌说王曼昱没有任何弱点",
+        "onboard_time": 1775368040,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68509,
+        "num": 68509,
+        "word": "伊朗称击落一架美军搜救飞机",
+        "onboard_time": 1775365942,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起缅怀英烈#"
+    }
+  }
+}

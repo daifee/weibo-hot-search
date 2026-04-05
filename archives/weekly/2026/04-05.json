@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775368188297,
+  "endTime": 1775368874113,
   "band_list": [
     {
       "raw_hot": 914125,
@@ -59,8 +59,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 441609,
-      "num": 441609,
+      "raw_hot": 444264,
+      "num": 444264,
       "word": "唐艺昕回应阚清子",
       "onboard_time": 1775364141,
       "rank": 4,
@@ -100,11 +100,27 @@
     },
     {
       "raw_hot": 360291,
-      "num": 150298,
+      "num": 164342,
       "word": "浪姐美帝",
       "onboard_time": 1775365881,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 356532,
+      "num": 103643,
+      "word": "外籍女子上海街头遇男按摩拉客",
+      "onboard_time": 1775366422,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349968,
+      "num": 349968,
+      "word": "特朗普称已救回飞行员",
+      "onboard_time": 1775364742,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 345923,
@@ -113,6 +129,14 @@
       "onboard_time": 1775356100,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342373,
+      "num": 813239,
+      "word": "王曼昱申裕斌爆分",
+      "onboard_time": 1775364320,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 339756,
@@ -129,14 +153,6 @@
       "onboard_time": 1775313747,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328959,
-      "num": 813239,
-      "word": "王曼昱申裕斌爆分",
-      "onboard_time": 1775364320,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 313324,
@@ -187,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295562,
-      "num": 295562,
-      "word": "特朗普称已救回飞行员",
-      "onboard_time": 1775364742,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 294882,
       "num": 173885,
       "word": "黄婷婷没去浪姐去了演综",
@@ -211,8 +219,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277106,
-      "num": 164601,
+      "raw_hot": 282874,
+      "num": 166993,
       "word": "鞠婧祎田嘉瑞吻戏",
       "onboard_time": 1775366121,
       "rank": 11,
@@ -243,19 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264958,
+      "num": 264958,
+      "word": "全网最不想火鸡煲店老板称准备倒闭了",
+      "onboard_time": 1775365221,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257900,
+      "num": 257900,
+      "word": "陈都灵曾舜晞 戏份",
+      "onboard_time": 1775366899,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255584,
       "num": 741519,
       "word": "女孩2岁确诊孤独症父母花100万求医",
       "onboard_time": 1775354959,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254242,
-      "num": 254242,
-      "word": "全网最不想火鸡煲店老板称准备倒闭了",
-      "onboard_time": 1775365221,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -315,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218141,
-      "num": 103643,
-      "word": "外籍女子上海街头遇男按摩拉客",
-      "onboard_time": 1775366422,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 214027,
+      "num": 214027,
+      "word": "南方夏天不要穿纯棉",
+      "onboard_time": 1775366719,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 207531,
@@ -427,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154816,
-      "num": 154816,
-      "word": "南方夏天不要穿纯棉",
-      "onboard_time": 1775366719,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153883,
       "num": 153883,
       "word": "张雪说logo是淘宝600块做的",
@@ -449,6 +457,14 @@
       "onboard_time": 1775307444,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151060,
+      "num": 98418,
+      "word": "申裕斌回应2比4王曼昱",
+      "onboard_time": 1775367679,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 150748,
@@ -467,11 +483,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144858,
-      "num": 144858,
-      "word": "陈都灵曾舜晞 戏份",
-      "onboard_time": 1775366899,
-      "rank": 14,
+      "raw_hot": 150146,
+      "num": 135336,
+      "word": "雾妄言武拾光圆房",
+      "onboard_time": 1775366121,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -483,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140156,
-      "num": 131791,
-      "word": "雾妄言武拾光圆房",
-      "onboard_time": 1775366121,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 140632,
+      "num": 126624,
+      "word": "我家那小子",
+      "onboard_time": 1775367441,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 139772,
@@ -497,6 +513,14 @@
       "onboard_time": 1775309602,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139673,
+      "num": 139673,
+      "word": "王曼昱说和莎莎经历了不同程度的困难",
+      "onboard_time": 1775367740,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 137016,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129994,
+      "num": 129994,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1775368221,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127544,
       "num": 127544,
       "word": "27岁女博士暂停学业开女工维修公司",
@@ -563,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125903,
+      "num": 125903,
+      "word": "王曼昱说很开心与莎莎会师决赛",
+      "onboard_time": 1775367560,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124278,
       "num": 98483,
       "word": "周杰伦演唱会大屏上的昆凌",
@@ -577,6 +617,22 @@
       "onboard_time": 1775360779,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122218,
+      "num": 122218,
+      "word": "林昀儒vs松岛辉空",
+      "onboard_time": 1775365581,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120435,
+      "num": 98042,
+      "word": "申裕斌创造韩国女乒历史",
+      "onboard_time": 1775367979,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115883,
@@ -611,22 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109474,
-      "num": 109474,
-      "word": "王曼昱说很开心与莎莎会师决赛",
-      "onboard_time": 1775367560,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 108561,
-      "num": 108561,
-      "word": "王曼昱说和莎莎经历了不同程度的困难",
-      "onboard_time": 1775367740,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107539,
       "num": 107539,
       "word": "全红婵快乐成长吧",
@@ -635,8 +675,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105575,
-      "num": 105575,
+      "raw_hot": 106797,
+      "num": 106797,
       "word": "董璇说小酒窝不反对张维伊当爸",
       "onboard_time": 1775365942,
       "rank": 28,
@@ -659,20 +699,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103427,
+      "num": 97892,
+      "word": "日本警方回应伊朗籍男子被殴致死",
+      "onboard_time": 1775367079,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101615,
       "num": 153936,
       "word": "小伙家住46楼免费看周杰伦演唱会",
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101229,
-      "num": 101229,
-      "word": "我家那小子",
-      "onboard_time": 1775367441,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 99468,
@@ -707,12 +747,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 97871,
-      "num": 97871,
-      "word": "申裕斌回应2比4王曼昱",
-      "onboard_time": 1775367679,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 97807,
+      "num": 97807,
+      "word": "董宇辉曾说销量好的选品会去验厂",
+      "onboard_time": 1775368459,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 97643,
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93617,
+      "num": 93617,
+      "word": "刘畊宏曾向周杰伦反收版权费用",
+      "onboard_time": 1775366241,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91837,
       "num": 82834,
       "word": "男子拿祖宗骨灰坛回家进门就打碎了",
@@ -777,14 +825,6 @@
       "onboard_time": 1775355380,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87699,
-      "num": 87699,
-      "word": "日本警方回应伊朗籍男子被殴致死",
-      "onboard_time": 1775367079,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87554,
@@ -835,14 +875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83337,
-      "num": 83337,
-      "word": "刘畊宏曾向周杰伦反收版权费用",
-      "onboard_time": 1775366241,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83056,
       "num": 148570,
       "word": "曝伊朗国产防空武器无法被美锁定",
@@ -867,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81003,
-      "num": 81003,
-      "word": "申裕斌创造韩国女乒历史",
-      "onboard_time": 1775367979,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80565,
       "num": 53194,
       "word": "萧蔷初舞台第一名",
@@ -883,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79840,
-      "num": 79840,
-      "word": "林昀儒vs松岛辉空",
-      "onboard_time": 1775365581,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 80250,
+      "num": 80250,
+      "word": "上了年龄就自动解锁的动作",
+      "onboard_time": 1775368521,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 79630,
@@ -995,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 72491,
+      "num": 72491,
+      "word": "王曼昱展望对战孙颖莎",
+      "onboard_time": 1775368640,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70843,
       "num": 70843,
       "word": "食客睡车里等全网最不想红鸡煲开门",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1775314403,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68509,
+      "num": 68509,
+      "word": "伊朗称击落一架美军搜救飞机",
+      "onboard_time": 1775365942,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67395,
