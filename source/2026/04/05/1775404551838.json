@@ -1,0 +1,410 @@
+{
+  "runTime": 1775404551838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1660005,
+        "num": 1660005,
+        "word": "王楚钦夺冠",
+        "onboard_time": 1775398886,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 870051,
+        "num": 931450,
+        "word": "王楚钦孙颖莎世界杯冠军合影",
+        "onboard_time": 1775402844,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26213,
+        "num": 808522,
+        "word": "三代人同框敬礼祭奠先烈",
+        "onboard_time": 1775394446,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1105670,
+        "num": 781844,
+        "word": "周杰伦3小时演唱会实唱不足90分钟",
+        "onboard_time": 1775397685,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 725605,
+        "num": 725605,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433451,
+        "num": 433451,
+        "word": "孙怡浪姐把脚踩在椅子上",
+        "onboard_time": 1775397264,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413497,
+        "num": 413497,
+        "word": "王楚钦距大满贯只差奥运冠军",
+        "onboard_time": 1775402364,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398240,
+        "num": 398240,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1775393124,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331173,
+        "num": 331173,
+        "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+        "onboard_time": 1775388803,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315187,
+        "num": 315187,
+        "word": "世界杯颁奖仪式",
+        "onboard_time": 1775401285,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1230437,
+        "num": 310854,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329540,
+        "num": 308873,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283928,
+        "num": 283928,
+        "word": "食客拆台莫氏鸡煲鸡带毛冷冻",
+        "onboard_time": 1775396785,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 289501,
+        "num": 282257,
+        "word": "新加坡偶遇唐嫣罗晋一家三口",
+        "onboard_time": 1775380760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259944,
+        "num": 259944,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1775393723,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186087,
+        "num": 186087,
+        "word": "年轻人扫墓主打一个祭品硬核",
+        "onboard_time": 1775398649,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184820,
+        "num": 184820,
+        "word": "孙颖莎填补长达53年空白",
+        "onboard_time": 1775396364,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181606,
+        "num": 181606,
+        "word": "kspo栏杆",
+        "onboard_time": 1775398164,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179317,
+        "num": 179317,
+        "word": "陈赫女儿是鹿晗干女儿",
+        "onboard_time": 1775390543,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153635,
+        "num": 153635,
+        "word": "博物馆回应曹操墓前摆满布洛芬",
+        "onboard_time": 1775398886,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222935,
+        "num": 153614,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186785,
+        "num": 153535,
+        "word": "女子晒婆婆升级当奶奶后三天变化",
+        "onboard_time": 1775401465,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170906,
+        "num": 153503,
+        "word": "孙颖莎主动走向邱贻可握手",
+        "onboard_time": 1775402665,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168983,
+        "num": 153411,
+        "word": "SEVENTEEN全员续约",
+        "onboard_time": 1775392823,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160238,
+        "num": 153351,
+        "word": "女生托闺蜜照顾5只猫不料全被饿死",
+        "onboard_time": 1775396484,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "网传浪姐7一公选曲歌单",
+        "onboard_time": 1775403684,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136259,
+        "num": 136259,
+        "word": "王皓对王楚钦说你做到了",
+        "onboard_time": 1775403024,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132874,
+        "num": 132874,
+        "word": "孙颖莎被球迷喊害羞了",
+        "onboard_time": 1775401465,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130028,
+        "num": 130028,
+        "word": "孙俪回应梅婷发文",
+        "onboard_time": 1775391983,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122933,
+        "num": 122933,
+        "word": "女子长期虐待2岁儿子还拍视频",
+        "onboard_time": 1775386643,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111221,
+        "num": 111221,
+        "word": "王楚钦三大赛单打第2冠",
+        "onboard_time": 1775400987,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107143,
+        "num": 107143,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106528,
+        "num": 106528,
+        "word": "埃文斯杯首度刻上王楚钦名字",
+        "onboard_time": 1775401465,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103880,
+        "num": 103880,
+        "word": "AG对战KSG",
+        "onboard_time": 1775387962,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98500,
+        "num": 98500,
+        "word": "游客滞留玉龙雪山山顶致呕吐失温",
+        "onboard_time": 1775397564,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96274,
+        "num": 96274,
+        "word": "王楚钦这一球全体起立",
+        "onboard_time": 1775400147,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95963,
+        "num": 95963,
+        "word": "莎头分别夺冠",
+        "onboard_time": 1775403024,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90671,
+        "num": 90671,
+        "word": "Tian哭了",
+        "onboard_time": 1775399607,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89253,
+        "num": 89253,
+        "word": "200万火锅店营业额990",
+        "onboard_time": 1775390183,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87070,
+        "num": 87070,
+        "word": "孙俪吴慷仁演技 高手过招",
+        "onboard_time": 1775404402,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84716,
+        "num": 84716,
+        "word": "邱天自曝进组十日终焉",
+        "onboard_time": 1775400987,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83698,
+        "num": 83698,
+        "word": "当你开始注意用脑卫生",
+        "onboard_time": 1775402426,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84007,
+        "num": 83657,
+        "word": "何宣林一公分组",
+        "onboard_time": 1775402065,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83566,
+        "num": 83566,
+        "word": "伊朗发动对美以第96波打击",
+        "onboard_time": 1775403323,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81876,
+        "num": 81876,
+        "word": "毛东东毛甜懿在陵园发言",
+        "onboard_time": 1775403384,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79848,
+        "num": 79848,
+        "word": "特朗普透露美军营救飞行员细节",
+        "onboard_time": 1775404282,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79721,
+        "num": 79721,
+        "word": "王楚钦将质疑碎片拼成王冠",
+        "onboard_time": 1775403924,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78243,
+        "num": 78243,
+        "word": "中国诗词大会年度总冠军",
+        "onboard_time": 1775403625,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72337,
+        "num": 72337,
+        "word": "轩染挑杯",
+        "onboard_time": 1775400926,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72204,
+        "num": 72204,
+        "word": "AL对战TES",
+        "onboard_time": 1775393723,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记烈士们的牺牲和奉献#"
+    }
+  }
+}
