@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/05 19:03:28
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/05 19:38:42
 </p>
 </blockquote>
 <p>
@@ -737,6 +737,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%9F%90%E6%9F%90%E5%B0%B1%E6%98%AF%E6%A2%85%E5%A7%A8%23" target="weibo">
 谢某某就是梅姨（热度：3546158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B7%B2%E5%8E%BB%E4%BA%A4%E8%AD%A6%E9%83%A8%E9%97%A8%E6%8E%A5%E5%8F%97%E5%A4%84%E7%BD%9A%23" target="weibo">
+黄晓明已去交警部门接受处罚（热度：3540542）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E7%BA%A2%E5%94%87%E5%A4%A9%E6%89%8D%23" target="weibo">
 杨幂 红唇天才（热度：1848020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%BC%BA%E5%A5%B8%E6%80%A7%E4%BE%B560%E5%90%8D%E5%A5%B3%E6%80%A7%23" target="weibo">
-3名美国富豪强奸性侵60名女性（热度：1845842）
 </a>
 </li>
 

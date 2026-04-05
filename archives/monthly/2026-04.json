@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775387008007,
+  "endTime": 1775389122072,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3540542,
+      "num": 127440,
+      "word": "黄晓明已去交警部门接受处罚",
+      "onboard_time": 1775385800,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3534322,
       "num": 3534322,
       "word": "浪姐改赛制",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2398966,
-      "num": 95875,
+      "num": 102253,
       "word": "黄晓明就带娃骑行道歉",
       "onboard_time": 1775384122,
       "rank": 20,
@@ -124,18 +132,10 @@
     },
     {
       "raw_hot": 1725217,
-      "num": 101268,
+      "num": 125499,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1681898,
-      "num": 95761,
-      "word": "黄晓明已去交警部门接受处罚",
-      "onboard_time": 1775385800,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 587119,
-      "num": 94771,
+      "num": 99965,
       "word": "黄晓明带9岁娃骑行再温馨也违法",
       "onboard_time": 1775381422,
       "rank": 26,
@@ -1689,6 +1689,14 @@
       "onboard_time": 1775035944,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430160,
+      "num": 776944,
+      "word": "曹操墓前是布洛芬诸葛亮是高铁票",
+      "onboard_time": 1775383583,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428179,
@@ -2315,14 +2323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337699,
-      "num": 776944,
-      "word": "曹操墓前是布洛芬诸葛亮是高铁票",
-      "onboard_time": 1775383583,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 337439,
       "num": 204126,
       "word": "阿信寸头",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1775268679,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 322343,
+      "num": 147916,
+      "word": "女子长期虐待2岁儿子还拍视频",
+      "onboard_time": 1775386643,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321842,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1775304683,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296554,
+      "num": 296554,
+      "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+      "onboard_time": 1775388803,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295160,
@@ -3851,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221159,
+      "num": 221159,
+      "word": "AG对战KSG",
+      "onboard_time": 1775387962,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221086,
       "num": 175683,
       "word": "疑似李马克退团的原因",
@@ -4113,6 +4137,14 @@
       "onboard_time": 1775258297,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209399,
+      "num": 160627,
+      "word": "孙怡紧急撤回一个盘腿",
+      "onboard_time": 1775384900,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 208980,
@@ -4532,7 +4564,7 @@
     },
     {
       "raw_hot": 186207,
-      "num": 163890,
+      "num": 171281,
       "word": "吴优贴脸开大周冬雨",
       "onboard_time": 1775385921,
       "rank": 8,
@@ -4763,6 +4795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173146,
+      "num": 173146,
+      "word": "我欲乘风领衔主演田曦薇王弘毅",
+      "onboard_time": 1775385622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172664,
       "num": 172664,
       "word": "我许可 性教育科普",
@@ -4987,6 +5027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163686,
+      "num": 752511,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1775387661,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163573,
       "num": 153071,
       "word": "李心洁 好听",
@@ -5131,14 +5179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 160627,
-      "num": 160627,
-      "word": "孙怡紧急撤回一个盘腿",
-      "onboard_time": 1775384900,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160602,
       "num": 160602,
       "word": "进价15元镜片竟卖799元",
@@ -5179,12 +5219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159425,
+      "num": 159425,
+      "word": "王楚钦把雨果打笑了",
+      "onboard_time": 1775385800,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159320,
       "num": 277485,
       "word": "何宣林的wink是专属李兰迪的",
       "onboard_time": 1775275100,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159204,
+      "num": 163498,
+      "word": "老人称养大4个子女晚年却无人陪伴",
+      "onboard_time": 1775386582,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 158560,
@@ -5281,6 +5337,14 @@
       "onboard_time": 1775285181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154369,
+      "num": 91201,
+      "word": "唐艺昕露背身材",
+      "onboard_time": 1775388562,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 154154,
@@ -6547,6 +6611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122434,
+      "num": 89981,
+      "word": "佟丽娅给小酒窝朵朵听写作业",
+      "onboard_time": 1775387123,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122367,
       "num": 117844,
       "word": "江语晨 举手不是选我是想上厕所",
@@ -6585,6 +6657,14 @@
       "onboard_time": 1775134283,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121763,
+      "num": 121763,
+      "word": "最好的蛋糕翻车案例",
+      "onboard_time": 1775385562,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 121657,
@@ -7323,12 +7403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109025,
-      "num": 163498,
-      "word": "老人称养大4个子女晚年却无人陪伴",
-      "onboard_time": 1775386582,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 108992,
+      "num": 88340,
+      "word": "张艺凡 时代峰峻果然不养闲人",
+      "onboard_time": 1775386822,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 108954,
@@ -7491,6 +7571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106988,
+      "num": 86163,
+      "word": "王玉雯拿到了宋威龙的应援登机牌",
+      "onboard_time": 1775387542,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106884,
       "num": 106884,
       "word": "生娃后奶粉要AA女子后悔闪婚",
@@ -7521,6 +7609,14 @@
       "onboard_time": 1775294001,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106594,
+      "num": 92861,
+      "word": "王楚钦6次交手松岛辉空",
+      "onboard_time": 1775388502,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 106526,
@@ -7609,22 +7705,6 @@
       "onboard_time": 1775275880,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104795,
-      "num": 104795,
-      "word": "我欲乘风领衔主演田曦薇王弘毅",
-      "onboard_time": 1775385622,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 104736,
-      "num": 133656,
-      "word": "女子长期虐待2岁儿子还拍视频",
-      "onboard_time": 1775386643,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104613,
@@ -7817,6 +7897,14 @@
       "onboard_time": 1775105963,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102341,
+      "num": 102341,
+      "word": "仙逆",
+      "onboard_time": 1775387123,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 102041,
@@ -8411,14 +8499,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 95901,
-      "num": 95901,
-      "word": "王楚钦把雨果打笑了",
-      "onboard_time": 1775385800,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95856,
       "num": 95856,
       "word": "充电宝新国标发布",
@@ -8433,6 +8513,14 @@
       "onboard_time": 1775007382,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95835,
+      "num": 95835,
+      "word": "毛新宇绕毛主席铜像一周",
+      "onboard_time": 1775384601,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95807,
@@ -8464,14 +8552,6 @@
       "word": "山西一饭店发现3人死亡",
       "onboard_time": 1775118501,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95063,
-      "num": 95063,
-      "word": "毛新宇绕毛主席铜像一周",
-      "onboard_time": 1775384601,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -10251,6 +10331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79139,
+      "num": 79139,
+      "word": "曹操墓前为何全是布洛芬",
+      "onboard_time": 1775388683,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79058,
       "num": 79058,
       "word": "孙颖莎说也有过要输的闪念",
@@ -10747,14 +10835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75258,
-      "num": 75258,
-      "word": "最好的蛋糕翻车案例",
-      "onboard_time": 1775385562,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74873,
       "num": 74873,
       "word": "湖人战胜骑士",
@@ -11169,14 +11249,6 @@
       "onboard_time": 1775022505,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71493,
-      "num": 71493,
-      "word": "张艺凡 时代峰峻果然不养闲人",
-      "onboard_time": 1775386822,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 71412,
@@ -11929,6 +12001,14 @@
       "onboard_time": 1775287461,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 63953,
+      "num": 63953,
+      "word": "孙颖莎王曼昱历史交手战绩",
+      "onboard_time": 1775385500,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 63897,
@@ -13881,6 +13961,14 @@
       "onboard_time": 1774981516,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18681,
+      "num": 127777,
+      "word": "男子年年带鲜花和酒祭扫无名烈士墓",
+      "onboard_time": 1775388023,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 18664,
