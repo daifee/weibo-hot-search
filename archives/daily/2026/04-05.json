@@ -1,7 +1,23 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775368874113,
+  "endTime": 1775373493856,
   "band_list": [
+    {
+      "raw_hot": 2222856,
+      "num": 126446,
+      "word": "撒贝宁 章子怡",
+      "onboard_time": 1775370381,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1188728,
+      "num": 1190196,
+      "word": "梦到已故儿子脚被扎父亲来墓前拔刺",
+      "onboard_time": 1775369241,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 914125,
       "num": 270764,
@@ -19,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747685,
+      "num": 681568,
+      "word": "曝姐姐们集体抗议浪姐直播",
+      "onboard_time": 1775372541,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
@@ -27,8 +51,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631665,
+      "num": 869985,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1775368221,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 590193,
-      "num": 174110,
+      "num": 187572,
       "word": "浪姐今日直播暂停",
       "onboard_time": 1775360960,
       "rank": 10,
@@ -57,6 +89,22 @@
       "onboard_time": 1775362100,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 487603,
+      "num": 487603,
+      "word": "陈都灵曾舜晞 戏份",
+      "onboard_time": 1775366899,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 486070,
+      "num": 230755,
+      "word": "谢娜抚养权判给谁了",
+      "onboard_time": 1775371641,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 444264,
@@ -108,7 +156,7 @@
     },
     {
       "raw_hot": 356532,
-      "num": 103643,
+      "num": 132538,
       "word": "外籍女子上海街头遇男按摩拉客",
       "onboard_time": 1775366422,
       "rank": 30,
@@ -153,6 +201,14 @@
       "onboard_time": 1775313747,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327158,
+      "num": 327158,
+      "word": "蓝色果然抑制食欲",
+      "onboard_time": 1775369839,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 313324,
@@ -227,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277261,
+      "num": 277261,
+      "word": "新婚妻子孕期被骗43万丈夫崩溃",
+      "onboard_time": 1775371460,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273216,
       "num": 131883,
       "word": "黄磊二女儿长得好像黄磊",
@@ -257,14 +321,6 @@
       "onboard_time": 1775365221,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257900,
-      "num": 257900,
-      "word": "陈都灵曾舜晞 戏份",
-      "onboard_time": 1775366899,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 255584,
@@ -299,6 +355,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234309,
+      "num": 234309,
+      "word": "松岛辉空摔拍",
+      "onboard_time": 1775370919,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232317,
+      "num": 232317,
+      "word": "申裕斌创造韩国女乒历史",
+      "onboard_time": 1775367979,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229360,
       "num": 229360,
       "word": "维妮娜浪花团0票",
@@ -329,6 +401,14 @@
       "onboard_time": 1775312125,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217289,
+      "num": 217289,
+      "word": "王楚钦11比7雨果",
+      "onboard_time": 1775372241,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 214027,
@@ -491,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "男子清明祭祖发现坟墓上长了竹子",
+      "onboard_time": 1775369782,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143371,
       "num": 143371,
       "word": "莫氏鸡煲店家人均痛苦面具",
@@ -531,6 +619,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 134548,
+      "num": 134548,
+      "word": "快递遭血液污染暴露顺丰两大硬伤",
+      "onboard_time": 1775372059,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133476,
+      "num": 100373,
+      "word": "叔叔无儿女临终给三侄儿每人留5千",
+      "onboard_time": 1775371700,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132105,
       "num": 132105,
       "word": "王曼昱vs申裕斌",
@@ -547,20 +651,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130769,
+      "num": 130769,
+      "word": "文淇称妇科检查时医生对其有敌意",
+      "onboard_time": 1775372840,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130405,
       "num": 125788,
       "word": "海关截获18厘米长活体帝王蝎",
       "onboard_time": 1775311284,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129994,
-      "num": 129994,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1775368221,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 127544,
@@ -611,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "油价暴涨金价大跌",
+      "onboard_time": 1775371220,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122815,
       "num": 122815,
       "word": "文章马伊琍女儿小名叫文爱马",
@@ -624,14 +736,6 @@
       "word": "林昀儒vs松岛辉空",
       "onboard_time": 1775365581,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 120435,
-      "num": 98042,
-      "word": "申裕斌创造韩国女乒历史",
-      "onboard_time": 1775367979,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -675,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107207,
+      "num": 107207,
+      "word": "田嘉瑞荧幕初吻是鞠婧祎",
+      "onboard_time": 1775370800,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106797,
       "num": 106797,
       "word": "董璇说小酒窝不反对张维伊当爸",
@@ -713,6 +825,14 @@
       "onboard_time": 1775313625,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99663,
+      "num": 99663,
+      "word": "全世界倒数第一聪明的狗",
+      "onboard_time": 1775370320,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 99468,
@@ -811,12 +931,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91619,
+      "num": 91619,
+      "word": "裤子买长这样改简单又好看",
+      "onboard_time": 1775369298,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 91279,
       "num": 91279,
       "word": "美议员称公开外星人简报会让国家混乱",
       "onboard_time": 1775359520,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90144,
+      "num": 90144,
+      "word": "松岛辉空4比3林昀儒",
+      "onboard_time": 1775370020,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88805,
+      "num": 88805,
+      "word": "张凌赫拍的云",
+      "onboard_time": 1775372840,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 88475,
@@ -841,6 +985,14 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85647,
+      "num": 85647,
+      "word": "申裕斌回应铜牌",
+      "onboard_time": 1775369241,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 84771,
@@ -891,12 +1043,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82243,
+      "num": 82243,
+      "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
+      "onboard_time": 1775373261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82195,
+      "num": 82195,
+      "word": "曝浪姐真人秀录到凌晨4点",
+      "onboard_time": 1775367379,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82029,
       "num": 145438,
       "word": "六大行房贷减少7100亿",
       "onboard_time": 1775313684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81262,
+      "num": 81262,
+      "word": "王楚钦11比3雨果",
+      "onboard_time": 1775372723,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80784,
+      "num": 80784,
+      "word": "美炸毁2架执行救援故障运输机",
+      "onboard_time": 1775373202,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80565,
@@ -1009,6 +1193,14 @@
       "onboard_time": 1775320398,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 72859,
+      "num": 72859,
+      "word": "吴镇宇说黄婷婷退团是正确的",
+      "onboard_time": 1775372121,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 72503,
@@ -1131,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64810,
+      "num": 64810,
+      "word": "中国散户又出手了",
+      "onboard_time": 1775371100,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64599,
       "num": 64599,
       "word": "虞书欣签售妆是一枝南南画的",
@@ -1139,12 +1339,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63864,
+      "num": 63864,
+      "word": "五哈6观后感",
+      "onboard_time": 1775373442,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63508,
+      "num": 63508,
+      "word": "粉丝要求红果下架易烊千玺AI短剧",
+      "onboard_time": 1775369540,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62756,
       "num": 62756,
       "word": "我的清明假期belike",
       "onboard_time": 1775358259,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62388,
+      "num": 62388,
+      "word": "现在提前还房贷划算吗",
+      "onboard_time": 1775369782,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61654,
@@ -1428,10 +1652,18 @@
     },
     {
       "raw_hot": 27703,
-      "num": 630724,
+      "num": 696009,
       "word": "清明假期新业态解锁新体验",
       "onboard_time": 1775359339,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26920,
+      "num": 81397,
+      "word": "16岁少女闻父亲二手烟患肺癌",
+      "onboard_time": 1775372421,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
