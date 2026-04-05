@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775383441539,
+  "endTime": 1775385824147,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1603,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2307153,
+      "num": 88849,
+      "word": "黄晓明就带娃骑行道歉",
+      "onboard_time": 1775384122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2304718,
       "num": 734303,
       "word": "临榆炸鸡腿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1773236061,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1839108,
-      "num": 599158,
-      "word": "肯德基崩了",
-      "onboard_time": 1769079320,
-      "rank": 3,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

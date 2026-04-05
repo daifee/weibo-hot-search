@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775383441539,
+  "endTime": 1775385824147,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -57,6 +57,14 @@
       "onboard_time": 1775210841,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2307153,
+      "num": 88849,
+      "word": "黄晓明就带娃骑行道歉",
+      "onboard_time": 1775384122,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2232440,
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587119,
+      "num": 94771,
+      "word": "黄晓明带9岁娃骑行再温馨也违法",
+      "onboard_time": 1775381422,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584393,
       "num": 246500,
       "word": "谢娜控场能力",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1775220984,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494558,
-      "num": 94771,
-      "word": "黄晓明带9岁娃骑行再温馨也违法",
-      "onboard_time": 1775381422,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 487603,
@@ -2099,6 +2107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 364939,
+      "num": 1058390,
+      "word": "女子开车撞劫匪致1死2伤被判无罪",
+      "onboard_time": 1775375180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364036,
       "num": 180853,
       "word": "张慧雯整个大E人",
@@ -2787,6 +2803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292919,
+      "num": 734010,
+      "word": "美军营救行动致伊朗5死8伤",
+      "onboard_time": 1775380159,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 292308,
       "num": 292308,
       "word": "云初令全阵容发布",
@@ -2801,14 +2825,6 @@
       "onboard_time": 1775027723,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290878,
-      "num": 760959,
-      "word": "女子开车撞劫匪致1死2伤被判无罪",
-      "onboard_time": 1775375180,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290194,
@@ -3107,14 +3123,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 268691,
-      "num": 734010,
-      "word": "美军营救行动致伊朗5死8伤",
-      "onboard_time": 1775380159,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 267913,
       "num": 254497,
       "word": "谢娜看到李小冉票数后哭了",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1775024124,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262791,
+      "num": 559328,
+      "word": "孙俪 当bro以为自己很有影响力",
+      "onboard_time": 1775382321,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 262760,
@@ -3387,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247689,
+      "num": 247689,
+      "word": "曹操墓前是布洛芬诸葛亮是高铁票",
+      "onboard_time": 1775383583,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1775122641,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237557,
+      "num": 237557,
+      "word": "网传浪姐7一公分组名单",
+      "onboard_time": 1775383281,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 237284,
@@ -3897,14 +3929,6 @@
       "onboard_time": 1775372241,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216760,
-      "num": 216760,
-      "word": "孙俪 当bro以为自己很有影响力",
-      "onboard_time": 1775382321,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 216507,
@@ -4433,6 +4457,14 @@
       "onboard_time": 1775187260,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190635,
+      "num": 190635,
+      "word": "金价卷到老祖宗那边了吗",
+      "onboard_time": 1775383402,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190552,
@@ -5755,6 +5787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138650,
+      "num": 105943,
+      "word": "五哈6观后感",
+      "onboard_time": 1775373442,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138624,
       "num": 118822,
       "word": "吴世勋solo单曲MV",
@@ -5820,7 +5860,7 @@
     },
     {
       "raw_hot": 136864,
-      "num": 81351,
+      "num": 84757,
       "word": "青岛仅25平米小酒馆月营业额六七万元",
       "onboard_time": 1775383162,
       "rank": 27,
@@ -6297,14 +6337,6 @@
       "onboard_time": 1775107223,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126959,
-      "num": 105943,
-      "word": "五哈6观后感",
-      "onboard_time": 1775373442,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 126907,
@@ -7097,14 +7129,6 @@
       "onboard_time": 1775206701,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111793,
-      "num": 111793,
-      "word": "网传浪姐7一公分组名单",
-      "onboard_time": 1775383281,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 111710,
@@ -8377,6 +8401,14 @@
       "onboard_time": 1775211082,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95282,
+      "num": 95282,
+      "word": "孙怡紧急撤回一个盘腿",
+      "onboard_time": 1775384900,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 95261,
@@ -10011,6 +10043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80340,
+      "num": 78342,
+      "word": "很多美食已经是六耳猕猴版本",
+      "onboard_time": 1775384722,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80296,
       "num": 80296,
       "word": "土耳其狂抛近120吨黄金",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1775359701,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79299,
+      "num": 79299,
+      "word": "村民祭祖烧纸赔了70万还判了3年",
+      "onboard_time": 1775385622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79285,
@@ -10355,6 +10403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77114,
+      "num": 77114,
+      "word": "毛新宇绕毛主席铜像一周",
+      "onboard_time": 1775384601,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77067,
       "num": 97007,
       "word": "黄金年内回撤达26%",
@@ -10537,6 +10593,14 @@
       "onboard_time": 1775280560,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75875,
+      "num": 75875,
+      "word": "我欲乘风领衔主演田曦薇王弘毅",
+      "onboard_time": 1775385622,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 75834,
@@ -11171,6 +11235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70478,
+      "num": 70478,
+      "word": "苏州一彩民喜中6715万大奖",
+      "onboard_time": 1775385381,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 70457,
       "num": 70457,
       "word": "T.O.P新歌官方翻译歌词",
@@ -11459,6 +11531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67733,
+      "num": 67733,
+      "word": "黄晓明已去交警部门接受处罚",
+      "onboard_time": 1775385800,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67542,
       "num": 67542,
       "word": "丝芭称鞠婧祎出演月鳞绮纪违约",
@@ -11561,6 +11641,14 @@
       "onboard_time": 1775272580,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66906,
+      "num": 66906,
+      "word": "王楚钦把雨果打笑了",
+      "onboard_time": 1775385800,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 66712,
@@ -11811,6 +11899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63374,
+      "num": 63374,
+      "word": "Bin要全胜晋级MSI",
+      "onboard_time": 1775383520,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63278,
       "num": 63278,
       "word": "我妈以为的早熟vs实际上",
@@ -11865,6 +11961,14 @@
       "onboard_time": 1775261120,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62423,
+      "num": 61530,
+      "word": "国乒冲击澳门世界杯双冠",
+      "onboard_time": 1775385742,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62418,
@@ -11929,6 +12033,14 @@
       "onboard_time": 1775277920,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61749,
+      "num": 61749,
+      "word": "最好的蛋糕翻车案例",
+      "onboard_time": 1775385562,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 61721,
@@ -12441,14 +12553,6 @@
       "onboard_time": 1774978217,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54593,
-      "num": 69008,
-      "word": "金价卷到老祖宗那边了吗",
-      "onboard_time": 1775383402,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54377,
@@ -13041,6 +13145,14 @@
       "onboard_time": 1775113521,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39878,
+      "num": 89498,
+      "word": "74岁老太给儿媳上坟引发山火获刑",
+      "onboard_time": 1775384841,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39560,
