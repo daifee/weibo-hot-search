@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/06 00:46:26 ~ 2026/04/06 04:59:44
+本榜单时间：2026/04/06 00:46:26 ~ 2026/04/06 05:41:26
 </p>
 </blockquote>
 <p>
@@ -369,8 +369,14 @@ Tian哭了（热度：47752）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E8%AF%B4%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B0%9A%E6%9C%AA%E8%84%B1%E9%99%A9%23" target="weibo">
+美官员说失踪飞行员尚未脱险（热度：21051）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E6%9B%BE%E6%B2%9B%E6%85%88%23" target="weibo">
-考古曾沛慈（热度：19846）
+考古曾沛慈（热度：20831）
 </a>
 </li>
 
@@ -413,6 +419,18 @@ Tian哭了（热度：47752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BA%B2%E4%BA%BA%E5%90%97%23" target="weibo">
 你会选择用AI复活逝去的亲人吗（热度：14545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%88%E8%BE%88%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E7%95%99%E8%A8%80%23" target="weibo">
+先辈给我们的留言（热度：13720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BF%9D%E6%9C%89%E6%95%B0%E5%8D%83%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%23" target="weibo">
+伊朗保有数千架无人机（热度：11408）
 </a>
 </li>
 
