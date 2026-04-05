@@ -1,0 +1,410 @@
+{
+  "runTime": 1775432595872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 351078,
+        "num": 911797,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264369,
+        "num": 673111,
+        "word": "王楚钦夺冠",
+        "onboard_time": 1775398886,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19671,
+        "num": 518441,
+        "word": "先辈给我们的留言",
+        "onboard_time": 1775393364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462105,
+        "num": 462105,
+        "word": "周杰伦3小时演唱会实唱不足90分钟",
+        "onboard_time": 1775397685,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161754,
+        "num": 161754,
+        "word": "女子回应被抢后开车撞劫匪致1死2伤",
+        "onboard_time": 1775405962,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248115,
+        "num": 154689,
+        "word": "孙俪回应梅婷发文",
+        "onboard_time": 1775391983,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145169,
+        "num": 145169,
+        "word": "妈妈不知儿子去世跟AI儿子聊了1年",
+        "onboard_time": 1775388803,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142476,
+        "num": 142476,
+        "word": "博物馆回应曹操墓前摆满布洛芬",
+        "onboard_time": 1775398886,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120310,
+        "num": 120310,
+        "word": "快递食品被血污染换箱在掩盖什么",
+        "onboard_time": 1775404462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112851,
+        "num": 112851,
+        "word": "伊朗打击以色列能源设施",
+        "onboard_time": 1775431398,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344817,
+        "num": 111408,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159446,
+        "num": 111394,
+        "word": "孙怡浪姐把脚踩在椅子上",
+        "onboard_time": 1775397264,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 110818,
+        "word": "特朗普透露美军营救飞行员细节",
+        "onboard_time": 1775404282,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106091,
+        "num": 106091,
+        "word": "赵心童单赛季四冠王",
+        "onboard_time": 1775431817,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100527,
+        "num": 100527,
+        "word": "食客拆台莫氏鸡煲鸡带毛冷冻",
+        "onboard_time": 1775396785,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 97419,
+        "num": 97419,
+        "word": "王楚钦距大满贯只差奥运冠军",
+        "onboard_time": 1775402364,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96984,
+        "num": 96984,
+        "word": "缓解内耗的解药",
+        "onboard_time": 1775395344,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92418,
+        "num": 92418,
+        "word": "美官员说失踪飞行员尚未脱险",
+        "onboard_time": 1775423834,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 88922,
+        "num": 88922,
+        "word": "孙颖莎王楚钦顶峰相见",
+        "onboard_time": 1775407880,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80624,
+        "num": 80624,
+        "word": "陕西地震",
+        "onboard_time": 1775430557,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94680,
+        "num": 80617,
+        "word": "男子用AI写歌仅版权赚了5位数",
+        "onboard_time": 1775430196,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80582,
+        "num": 80582,
+        "word": "女生托闺蜜照顾5只猫不料全被饿死",
+        "onboard_time": 1775396484,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74932,
+        "num": 74932,
+        "word": "女子晒婆婆升级当奶奶后三天变化",
+        "onboard_time": 1775401465,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71879,
+        "num": 71879,
+        "word": "新加坡偶遇唐嫣罗晋一家三口",
+        "onboard_time": 1775380760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71689,
+        "num": 71689,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67955,
+        "num": 67955,
+        "word": "女子长期虐待2岁儿子还拍视频",
+        "onboard_time": 1775386643,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58913,
+        "num": 58913,
+        "word": "孙俪吴慷仁演技 高手过招",
+        "onboard_time": 1775404402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58092,
+        "num": 58092,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52603,
+        "num": 52603,
+        "word": "TES举报宁王",
+        "onboard_time": 1775396427,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51156,
+        "num": 51156,
+        "word": "陈赫女儿是鹿晗干女儿",
+        "onboard_time": 1775390543,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60316,
+        "num": 50371,
+        "word": "美军试图炸死在伊朗失联飞行员",
+        "onboard_time": 1775430258,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51405,
+        "num": 50173,
+        "word": "伊朗称美军为遮羞轰炸被击落军机",
+        "onboard_time": 1775430918,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 48565,
+        "num": 48565,
+        "word": "李现张婧仪雾里青4月底开机",
+        "onboard_time": 1775409078,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48340,
+        "num": 48340,
+        "word": "赵心童vs特鲁姆普",
+        "onboard_time": 1775400805,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45795,
+        "num": 45795,
+        "word": "200万火锅店营业额990",
+        "onboard_time": 1775390183,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4743,
+        "num": 44168,
+        "word": "有电瓶车门店销量下滑40%",
+        "onboard_time": 1775432478,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43734,
+        "num": 43734,
+        "word": "伊朗称美军营救飞行员任务失败",
+        "onboard_time": 1775409978,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43281,
+        "num": 43281,
+        "word": "美逃生飞行员被曝处境凶险",
+        "onboard_time": 1775431879,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41819,
+        "num": 41819,
+        "word": "孙颖莎王楚钦合照",
+        "onboard_time": 1775432297,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40390,
+        "num": 40390,
+        "word": "伊朗发动对美以第96波打击",
+        "onboard_time": 1775403323,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39131,
+        "num": 39131,
+        "word": "被伊朗击落美军机现场画面",
+        "onboard_time": 1775410758,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 38576,
+        "num": 38576,
+        "word": "钢铁森林",
+        "onboard_time": 1775431338,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36736,
+        "num": 36736,
+        "word": "邱天自曝进组十日终焉",
+        "onboard_time": 1775400987,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36246,
+        "num": 36246,
+        "word": "王楚钦孙颖莎合照",
+        "onboard_time": 1775432239,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34914,
+        "num": 34914,
+        "word": "鞠婧祎露芜衣新媒体指数破9",
+        "onboard_time": 1775431759,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34733,
+        "num": 34733,
+        "word": "美军营救行动细节曝光",
+        "onboard_time": 1775431637,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34251,
+        "num": 34251,
+        "word": "孙颖莎填补长达53年空白",
+        "onboard_time": 1775396364,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33642,
+        "num": 33642,
+        "word": "网传浪姐7一公选曲歌单",
+        "onboard_time": 1775403684,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33322,
+        "num": 33322,
+        "word": "黄晓明就带娃骑行道歉",
+        "onboard_time": 1775384122,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 32904,
+        "word": "伊朗发动第96波攻势",
+        "onboard_time": 1775431158,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#永远铭记烈士们的牺牲和奉献#"
+    }
+  }
+}

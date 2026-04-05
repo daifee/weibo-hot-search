@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775430018459,
+  "endTime": 1775432595872,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -1155,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161754,
+      "num": 161754,
+      "word": "女子回应被抢后开车撞劫匪致1死2伤",
+      "onboard_time": 1775405962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161705,
       "num": 173551,
       "word": "伊媒称美军试图炸死在伊失联飞行员",
@@ -1427,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133510,
-      "num": 133510,
-      "word": "女子回应被抢后开车撞劫匪致1死2伤",
-      "onboard_time": 1775405962,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132968,
       "num": 132968,
       "word": "creme",
@@ -1603,6 +1603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121267,
+      "num": 110818,
+      "word": "特朗普透露美军营救飞行员细节",
+      "onboard_time": 1775404282,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121028,
       "num": 176849,
       "word": "王楚钦松岛辉空争冠",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1775391562,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120310,
+      "num": 120310,
+      "word": "快递食品被血污染换箱在掩盖什么",
+      "onboard_time": 1775404462,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120109,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1775396845,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112851,
+      "num": 112851,
+      "word": "伊朗打击以色列能源设施",
+      "onboard_time": 1775431398,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112790,
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106091,
+      "num": 106091,
+      "word": "赵心童单赛季四冠王",
+      "onboard_time": 1775431817,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105701,
       "num": 105701,
       "word": "危险关系",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1775387123,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102185,
-      "num": 102185,
-      "word": "快递食品被血污染换箱在掩盖什么",
-      "onboard_time": 1775404462,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101615,
@@ -2011,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94680,
+      "num": 80617,
+      "word": "男子用AI写歌仅版权赚了5位数",
+      "onboard_time": 1775430196,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93859,
       "num": 93859,
       "word": "孙颖莎11比6温特",
@@ -2099,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88922,
+      "num": 88922,
+      "word": "孙颖莎王楚钦顶峰相见",
+      "onboard_time": 1775407880,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88815,
       "num": 88815,
       "word": "考古张月",
@@ -2163,14 +2203,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 85415,
-      "num": 85415,
-      "word": "特朗普透露美军营救飞行员细节",
-      "onboard_time": 1775404282,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85159,
       "num": 85159,
       "word": "伊朗称美试图杀害被击落美战机飞行员",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1775346858,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84121,
-      "num": 84121,
-      "word": "孙颖莎王楚钦顶峰相见",
-      "onboard_time": 1775407880,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 84050,
@@ -2321,6 +2345,14 @@
       "onboard_time": 1775384722,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80624,
+      "num": 80624,
+      "word": "陕西地震",
+      "onboard_time": 1775430557,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 80565,
@@ -2843,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60316,
+      "num": 50371,
+      "word": "美军试图炸死在伊朗失联飞行员",
+      "onboard_time": 1775430258,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60279,
       "num": 60279,
       "word": "我许可",
@@ -3083,6 +3123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51405,
+      "num": 50173,
+      "word": "伊朗称美军为遮羞轰炸被击落军机",
+      "onboard_time": 1775430918,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 51166,
       "num": 64355,
       "word": "鞠婧祎露芜衣夕阳下跳舞",
@@ -3155,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48565,
+      "num": 63000,
+      "word": "李现张婧仪雾里青4月底开机",
+      "onboard_time": 1775409078,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48246,
       "num": 64085,
       "word": "伊朗发起第93波打击",
@@ -3211,14 +3267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 44906,
-      "num": 63000,
-      "word": "李现张婧仪雾里青4月底开机",
-      "onboard_time": 1775409078,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44206,
       "num": 62984,
       "word": "伊朗称美军营救飞行员任务失败",
@@ -3241,6 +3289,22 @@
       "onboard_time": 1775303481,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43281,
+      "num": 43281,
+      "word": "美逃生飞行员被曝处境凶险",
+      "onboard_time": 1775431879,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41819,
+      "num": 41819,
+      "word": "孙颖莎王楚钦合照",
+      "onboard_time": 1775432297,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 41326,
@@ -3267,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38576,
+      "num": 38576,
+      "word": "钢铁森林",
+      "onboard_time": 1775431338,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38346,
       "num": 32332,
       "word": "伊朗保有数千架无人机",
@@ -3283,12 +3355,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36246,
+      "num": 36246,
+      "word": "王楚钦孙颖莎合照",
+      "onboard_time": 1775432239,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35162,
       "num": 1461828,
       "word": "三代人同框敬礼祭奠先烈",
       "onboard_time": 1775394446,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34914,
+      "num": 34914,
+      "word": "鞠婧祎露芜衣新媒体指数破9",
+      "onboard_time": 1775431759,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34733,
+      "num": 34733,
+      "word": "美军营救行动细节曝光",
+      "onboard_time": 1775431637,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32904,
+      "num": 32904,
+      "word": "伊朗发动第96波攻势",
+      "onboard_time": 1775431158,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32361,
@@ -3428,7 +3532,7 @@
     },
     {
       "raw_hot": 23803,
-      "num": 327980,
+      "num": 518441,
       "word": "先辈给我们的留言",
       "onboard_time": 1775393364,
       "rank": 46,
@@ -3560,6 +3664,14 @@
       "word": "致敬缅怀奋进",
       "onboard_time": 1775291780,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4743,
+      "num": 44168,
+      "word": "有电瓶车门店销量下滑40%",
+      "onboard_time": 1775432478,
+      "rank": 35,
       "category": "民生新闻"
     }
   ],
