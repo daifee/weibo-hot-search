@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775379327681,
+  "endTime": 1775380092753,
   "band_list": [
     {
       "raw_hot": 2229781,
@@ -43,7 +43,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 728086,
+      "raw_hot": 744906,
       "num": 230755,
       "word": "谢娜抚养权判给谁了",
       "onboard_time": 1775371641,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 501899,
+      "num": 192008,
+      "word": "文淇称妇科检查时医生对其有敌意",
+      "onboard_time": 1775372840,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 487603,
       "num": 487603,
       "word": "陈都灵曾舜晞 戏份",
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434806,
-      "num": 192008,
-      "word": "文淇称妇科检查时医生对其有敌意",
-      "onboard_time": 1775372840,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 428179,
       "num": 1068508,
       "word": "王楚钦淘汰卫冕冠军",
@@ -144,6 +144,14 @@
       "word": "给老祖宗上坟熊孩子把钱顺回来了",
       "onboard_time": 1775353459,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398426,
+      "num": 767507,
+      "word": "陈光标捐给嫣然医院1000万",
+      "onboard_time": 1775378601,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290878,
+      "num": 290878,
+      "word": "女子开车撞劫匪致1死2伤被判无罪",
+      "onboard_time": 1775375180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287742,
       "num": 287742,
       "word": "王曼昱世界杯进决赛",
@@ -363,19 +379,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262157,
+      "num": 262157,
+      "word": "桃花坞",
+      "onboard_time": 1775376621,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255584,
       "num": 741519,
       "word": "女孩2岁确诊孤独症父母花100万求医",
       "onboard_time": 1775354959,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246899,
-      "num": 246899,
-      "word": "女子开车撞劫匪致1死2伤被判无罪",
-      "onboard_time": 1775375180,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196431,
-      "num": 196431,
-      "word": "桃花坞",
-      "onboard_time": 1775376621,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195684,
       "num": 168318,
       "word": "黄金大买家狂抛",
@@ -539,19 +547,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193447,
+      "num": 193447,
+      "word": "陈光标将送张雪豪车变现捐赠嫣然",
+      "onboard_time": 1775378660,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192777,
       "num": 192777,
       "word": "叔叔无儿女临终给三侄儿每人留5千",
       "onboard_time": 1775371700,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191102,
-      "num": 191102,
-      "word": "陈光标捐给嫣然医院1000万",
-      "onboard_time": 1775378601,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 144745,
-      "num": 136335,
+      "num": 143071,
       "word": "张凌赫拍的云",
       "onboard_time": 1775372840,
       "rank": 35,
@@ -689,6 +697,14 @@
       "onboard_time": 1775362701,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142016,
+      "num": 124351,
+      "word": "以色列民众先破防了",
+      "onboard_time": 1775376561,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140632,
@@ -819,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123495,
+      "num": 123495,
+      "word": "迪丽热巴陈飞宇鬼新娘转场",
+      "onboard_time": 1775379621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122815,
       "num": 122815,
       "word": "文章马伊琍女儿小名叫文爱马",
@@ -849,14 +873,6 @@
       "onboard_time": 1775377881,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118921,
-      "num": 118921,
-      "word": "以色列民众先破防了",
-      "onboard_time": 1775376561,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115883,
@@ -921,6 +937,14 @@
       "onboard_time": 1775365942,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105040,
+      "num": 105040,
+      "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
+      "onboard_time": 1775378422,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103978,
@@ -1091,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89740,
-      "num": 89740,
-      "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
-      "onboard_time": 1775378422,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89545,
       "num": 89545,
       "word": "申裕斌回应铜牌",
@@ -1131,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87528,
+      "num": 87528,
+      "word": "两广地区的祭祖有多夸张",
+      "onboard_time": 1775377161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87418,
       "num": 87418,
       "word": "10后眼里的90后",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1775373083,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84790,
+      "num": 84790,
+      "word": "散粉高反",
+      "onboard_time": 1775379861,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 84771,
@@ -1187,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82650,
+      "num": 82650,
+      "word": "王楚钦滑到劈叉",
+      "onboard_time": 1775379500,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82386,
       "num": 82386,
       "word": "我国过敏性鼻炎患者数量攀升",
@@ -1208,14 +1248,6 @@
       "word": "六大行房贷减少7100亿",
       "onboard_time": 1775313684,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81387,
-      "num": 81387,
-      "word": "两广地区的祭祖有多夸张",
-      "onboard_time": 1775377161,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1355,14 +1387,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 73099,
-      "num": 136284,
-      "word": "陈光标将送张雪豪车变现捐赠嫣然",
-      "onboard_time": 1775378660,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72859,
       "num": 72859,
       "word": "吴镇宇说黄婷婷退团是正确的",
@@ -1385,6 +1409,22 @@
       "onboard_time": 1775368640,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71616,
+      "num": 71616,
+      "word": "伊朗山民参与搜寻失踪美军飞行员",
+      "onboard_time": 1775379023,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 71412,
+      "num": 71412,
+      "word": "王灿晒与婆婆合影",
+      "onboard_time": 1775379023,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 70843,
@@ -1441,14 +1481,6 @@
       "onboard_time": 1775354420,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68973,
-      "num": 68973,
-      "word": "伊朗山民参与搜寻失踪美军飞行员",
-      "onboard_time": 1775379023,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68757,
@@ -1611,12 +1643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59940,
-      "num": 59940,
-      "word": "王灿晒与婆婆合影",
-      "onboard_time": 1775379023,
+      "raw_hot": 60222,
+      "num": 60222,
+      "word": "多名游客称被困玉龙雪山山顶",
+      "onboard_time": 1775379500,
       "rank": 43,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59460,
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56091,
+      "num": 56091,
+      "word": "镜头是爱意的具象化",
+      "onboard_time": 1775377520,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55654,
       "num": 65643,
       "word": "雨果说再战王楚钦是很大挑战",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1775360600,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53899,
+      "num": 53899,
+      "word": "孙颖莎笑眯眯路过混采区",
+      "onboard_time": 1775380040,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 53727,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1775335694,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13774,
+      "num": 88534,
+      "word": "张雪机车严正声明",
+      "onboard_time": 1775379861,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12558,

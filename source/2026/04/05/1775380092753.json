@@ -1,0 +1,410 @@
+{
+  "runTime": 1775380092753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 405831,
+        "num": 1064933,
+        "word": "王楚钦淘汰卫冕冠军",
+        "onboard_time": 1775375239,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398426,
+        "num": 767507,
+        "word": "陈光标捐给嫣然医院1000万",
+        "onboard_time": 1775378601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18646,
+        "num": 594985,
+        "word": "清明时节一起敬读碑文",
+        "onboard_time": 1775374341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500467,
+        "num": 500467,
+        "word": "美炸毁2架执行救援故障运输机",
+        "onboard_time": 1775373202,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290878,
+        "num": 290878,
+        "word": "女子开车撞劫匪致1死2伤被判无罪",
+        "onboard_time": 1775375180,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289513,
+        "num": 289513,
+        "word": "蓝色果然抑制食欲",
+        "onboard_time": 1775369839,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262157,
+        "num": 262157,
+        "word": "桃花坞",
+        "onboard_time": 1775376621,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237417,
+        "num": 237417,
+        "word": "王楚钦说我也是第一次进世界杯决赛",
+        "onboard_time": 1775375121,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195663,
+        "num": 195663,
+        "word": "伊朗媒体发布被击落美军机图像",
+        "onboard_time": 1775376922,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193447,
+        "num": 193447,
+        "word": "陈光标将送张雪豪车变现捐赠嫣然",
+        "onboard_time": 1775378660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883430,
+        "num": 189266,
+        "word": "曝姐姐们集体抗议浪姐直播",
+        "onboard_time": 1775372541,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744906,
+        "num": 188820,
+        "word": "谢娜抚养权判给谁了",
+        "onboard_time": 1775371641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184666,
+        "num": 184666,
+        "word": "叔叔无儿女临终给三侄儿每人留5千",
+        "onboard_time": 1775371700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501899,
+        "num": 182868,
+        "word": "文淇称妇科检查时医生对其有敌意",
+        "onboard_time": 1775372840,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271853,
+        "num": 181435,
+        "word": "网传白玉兰最佳女主初选投票",
+        "onboard_time": 1775373501,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178427,
+        "num": 178427,
+        "word": "快递遭血液污染暴露顺丰两大硬伤",
+        "onboard_time": 1775372059,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157575,
+        "num": 157575,
+        "word": "陈都灵曾舜晞 戏份",
+        "onboard_time": 1775366899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143071,
+        "num": 143071,
+        "word": "张凌赫拍的云",
+        "onboard_time": 1775372840,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126976,
+        "num": 126976,
+        "word": "伊朗籍男子在日本被殴打致死",
+        "onboard_time": 1775362100,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141376,
+        "num": 125678,
+        "word": "吴镇宇说张伦硕认识钟丽缇不工作了",
+        "onboard_time": 1775373261,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1366391,
+        "num": 124792,
+        "word": "撒贝宁 章子怡",
+        "onboard_time": 1775370381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142016,
+        "num": 124351,
+        "word": "以色列民众先破防了",
+        "onboard_time": 1775376561,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123495,
+        "num": 123495,
+        "word": "迪丽热巴陈飞宇鬼新娘转场",
+        "onboard_time": 1775379621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105040,
+        "num": 105040,
+        "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
+        "onboard_time": 1775378422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99699,
+        "num": 99699,
+        "word": "小英自曝给女儿剪短发的原因",
+        "onboard_time": 1775374763,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 97463,
+        "word": "李楷灿ins直播",
+        "onboard_time": 1775377881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96992,
+        "num": 96992,
+        "word": "王楚钦雨果爆分",
+        "onboard_time": 1775376201,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 92383,
+        "word": "松岛辉空摔拍",
+        "onboard_time": 1775370919,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13774,
+        "num": 88534,
+        "word": "张雪机车严正声明",
+        "onboard_time": 1775379861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87972,
+        "num": 87972,
+        "word": "油价暴涨金价大跌",
+        "onboard_time": 1775371220,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87528,
+        "num": 87528,
+        "word": "两广地区的祭祖有多夸张",
+        "onboard_time": 1775377161,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86646,
+        "num": 86646,
+        "word": "五哈6观后感",
+        "onboard_time": 1775373442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85682,
+        "num": 85682,
+        "word": "考古张月",
+        "onboard_time": 1775378660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84790,
+        "num": 84790,
+        "word": "散粉高反",
+        "onboard_time": 1775379861,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 82650,
+        "num": 82650,
+        "word": "王楚钦滑到劈叉",
+        "onboard_time": 1775379500,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82558,
+        "num": 82558,
+        "word": "申裕斌创造韩国女乒历史",
+        "onboard_time": 1775367979,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76025,
+        "num": 76025,
+        "word": "浪姐美帝",
+        "onboard_time": 1775365881,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73824,
+        "num": 73824,
+        "word": "南方夏天不要穿纯棉",
+        "onboard_time": 1775366719,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74007,
+        "num": 73661,
+        "word": "乘风2026",
+        "onboard_time": 1775362761,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72583,
+        "num": 72583,
+        "word": "伊朗称美试图杀害被击落美战机飞行员",
+        "onboard_time": 1775373083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71616,
+        "num": 71616,
+        "word": "伊朗山民参与搜寻失踪美军飞行员",
+        "onboard_time": 1775379023,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71412,
+        "num": 71412,
+        "word": "王灿晒与婆婆合影",
+        "onboard_time": 1775379023,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70151,
+        "num": 70151,
+        "word": "吴京夸谢楠飒",
+        "onboard_time": 1775375841,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60222,
+        "num": 60222,
+        "word": "多名游客称被困玉龙雪山山顶",
+        "onboard_time": 1775379500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59013,
+        "num": 59013,
+        "word": "沈月核心好强",
+        "onboard_time": 1775374822,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58760,
+        "num": 58760,
+        "word": "这种东西身上寄生虫多达6000条",
+        "onboard_time": 1775374640,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56091,
+        "num": 56091,
+        "word": "镜头是爱意的具象化",
+        "onboard_time": 1775377520,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54815,
+        "num": 54815,
+        "word": "被成都高铁大屏的表白硬控了",
+        "onboard_time": 1775376081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53899,
+        "num": 53899,
+        "word": "孙颖莎笑眯眯路过混采区",
+        "onboard_time": 1775380040,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52754,
+        "num": 52754,
+        "word": "美持续升级战争与声称谈判相矛盾",
+        "onboard_time": 1775355800,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述的英雄故事荡气回肠#"
+    }
+  }
+}
