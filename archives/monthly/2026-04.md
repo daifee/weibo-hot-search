@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 06:40:53
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 07:00:18
 </p>
 </blockquote>
 <p>
@@ -4929,6 +4929,12 @@ TOP崔胜铉新专辑（热度：133539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%A2%E5%90%8E%E5%BC%80%E8%BD%A6%E6%92%9E%E5%8A%AB%E5%8C%AA%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
+女子回应被抢后开车撞劫匪致1死2伤（热度：133510）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E7%BD%97%E4%BA%88%E5%BD%A4%E5%A4%A7%E5%AD%A6%E7%94%B7%E5%8F%8B%E5%90%8C%E5%B1%8A%E5%90%8C%E7%8F%AD%23" target="weibo">
 黄灿灿罗予彤大学男友同届同班（热度：133165）
 </a>
@@ -5015,12 +5021,6 @@ creme（热度：132968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Able%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
 Able队夺冠（热度：131429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%A2%E5%90%8E%E5%BC%80%E8%BD%A6%E6%92%9E%E5%8A%AB%E5%8C%AA%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
-女子回应被抢后开车撞劫匪致1死2伤（热度：131374）
 </a>
 </li>
 
@@ -5949,6 +5949,12 @@ iPhone18Pro黑色款或继续缺席（热度：111148）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E8%AF%B4%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B0%9A%E6%9C%AA%E8%84%B1%E9%99%A9%23" target="weibo">
+美官员说失踪飞行员尚未脱险（热度：109783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B6%85%E9%80%9F%E8%BD%A6%E8%BE%86%E6%92%9E%E6%AD%BB%E5%88%A4%E5%AE%9A%E5%90%8C%E8%B4%A3%23" target="weibo">
 10岁男孩被超速车辆撞死判定同责（热度：109758）
 </a>
@@ -6005,12 +6011,6 @@ JDG遗憾止步春季赛（热度：109453）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%A4%8D%E9%99%88%E9%A3%9E%E5%AE%87%23" target="weibo">
 迪丽热巴回复陈飞宇（热度：109210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%8E%B0%E8%BA%AB%E9%9D%92%E5%B2%9B%23" target="weibo">
-肖战现身青岛（热度：109065）
 </a>
 </li>
 
