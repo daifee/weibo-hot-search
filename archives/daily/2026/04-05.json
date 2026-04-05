@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775346978320,
+  "endTime": 1775359176114,
   "band_list": [
     {
       "raw_hot": 844818,
@@ -11,11 +11,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 776985,
+      "num": 261851,
+      "word": "原来软柿子在人群里这么明显",
+      "onboard_time": 1775356822,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 655567,
       "num": 999433,
       "word": "乘风Queen",
       "onboard_time": 1775319260,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 416054,
+      "num": 257441,
+      "word": "给老祖宗上坟熊孩子把钱顺回来了",
+      "onboard_time": 1775353459,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384819,
+      "num": 384819,
+      "word": "谢娜的话筒一直是在冲着李小冉的",
+      "onboard_time": 1775355739,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 353432,
+      "num": 254751,
+      "word": "张月曾沛慈 评级人数",
+      "onboard_time": 1775354000,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -43,6 +75,46 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311433,
+      "num": 177327,
+      "word": "何炅没开口维嘉就哭了",
+      "onboard_time": 1775353459,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294882,
+      "num": 173885,
+      "word": "黄婷婷没去浪姐去了演综",
+      "onboard_time": 1775356880,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278589,
+      "num": 1044574,
+      "word": "美5名顶尖科学家离奇失踪或死亡",
+      "onboard_time": 1775353759,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 272982,
+      "num": 272982,
+      "word": "张雪回应一个子儿没有言论",
+      "onboard_time": 1775356100,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272402,
+      "num": 98459,
+      "word": "飞机 烟灰缸",
+      "onboard_time": 1775355260,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267913,
       "num": 254497,
       "word": "谢娜看到李小冉票数后哭了",
@@ -59,6 +131,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255584,
+      "num": 741519,
+      "word": "女孩2岁确诊孤独症父母花100万求医",
+      "onboard_time": 1775354959,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239977,
+      "num": 160230,
+      "word": "李清明  清明节myday",
+      "onboard_time": 1775345657,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238653,
+      "num": 238653,
+      "word": "以色列被曝正等待美国开绿灯",
+      "onboard_time": 1775356880,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229360,
       "num": 229360,
       "word": "维妮娜浪花团0票",
@@ -73,6 +169,22 @@
       "onboard_time": 1775306483,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223121,
+      "num": 159607,
+      "word": "李小冉曾自曝给谢娜收拾脱的脏衣服",
+      "onboard_time": 1775354420,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222649,
+      "num": 75726,
+      "word": "美国前参议员表示特朗普已经住院",
+      "onboard_time": 1775358680,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 218899,
@@ -99,11 +211,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183507,
+      "num": 183507,
+      "word": "孙颖莎vs温特",
+      "onboard_time": 1775356760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177005,
       "num": 177005,
       "word": "伊朗击落2架美战机击中2架黑鹰",
       "onboard_time": 1775344636,
       "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 175840,
+      "num": 75700,
+      "word": "董宇辉遭遇回旋镖",
+      "onboard_time": 1775347701,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "伊媒称美军试图炸死在伊失联飞行员",
+      "onboard_time": 1775356880,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -113,6 +249,14 @@
       "onboard_time": 1775314044,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158746,
+      "num": 158746,
+      "word": "黄金大买家狂抛",
+      "onboard_time": 1775357360,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 153883,
@@ -179,6 +323,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125394,
+      "num": 125394,
+      "word": "迪丽热巴陈飞宇白日提灯热度涨幅",
+      "onboard_time": 1775355318,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124902,
+      "num": 124902,
+      "word": "网友爸爸曾在昆明石林偶遇张国荣",
+      "onboard_time": 1775357840,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124278,
+      "num": 98483,
+      "word": "周杰伦演唱会大屏上的昆凌",
+      "onboard_time": 1775351420,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115883,
       "num": 115883,
       "word": "十日终焉作者谈青岛出现血月",
@@ -187,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115819,
+      "num": 98421,
+      "word": "乘风Queen前三",
+      "onboard_time": 1775349978,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109686,
       "num": 42852,
       "word": "张月回应第一",
       "onboard_time": 1775345478,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106048,
+      "num": 75535,
+      "word": "毛新宇携家人到杨开慧烈士陵园祭扫",
+      "onboard_time": 1775356939,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103865,
@@ -211,12 +395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99468,
+      "num": 98371,
+      "word": "何炅告白维嘉",
+      "onboard_time": 1775357900,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99221,
       "num": 172056,
       "word": "徐梦洁 不太好听",
       "onboard_time": 1775309304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98501,
+      "num": 98501,
+      "word": "男子钓7条鱼获利50元被判刑",
+      "onboard_time": 1775351480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98361,
+      "num": 98361,
+      "word": "为什么人到中年要坚持运动",
+      "onboard_time": 1775350640,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96843,
@@ -243,12 +451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87418,
+      "num": 87418,
+      "word": "10后眼里的90后",
+      "onboard_time": 1775356822,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 84413,
+      "num": 84413,
+      "word": "清明节",
+      "onboard_time": 1775346858,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83626,
       "num": 83626,
       "word": "以军空袭伊朗石化设施",
       "onboard_time": 1775344937,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83589,
+      "num": 83589,
+      "word": "疯狂动物城2原设定有狐兔鼻尖糖",
+      "onboard_time": 1775355380,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 83056,
@@ -275,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81032,
+      "num": 75496,
+      "word": "特朗普一直呆在白宫",
+      "onboard_time": 1775358860,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80565,
       "num": 53194,
       "word": "萧蔷初舞台第一名",
       "onboard_time": 1775345958,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78853,
+      "num": 75378,
+      "word": "全红婵快乐成长吧",
+      "onboard_time": 1775358680,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 76530,
@@ -299,12 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74785,
-      "num": 74785,
-      "word": "李清明  清明节myday",
-      "onboard_time": 1775345657,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 75343,
+      "num": 75343,
+      "word": "医生回应女童假死3天奇迹生还",
+      "onboard_time": 1775355982,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75014,
+      "num": 75014,
+      "word": "郝蕾说张昊唯废了",
+      "onboard_time": 1775359100,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74074,
+      "num": 74074,
+      "word": "美持续升级战争与声称谈判相矛盾",
+      "onboard_time": 1775355800,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73663,
@@ -347,12 +611,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70151,
+      "num": 70151,
+      "word": "四川一索道有游客从缆车掉入防护网",
+      "onboard_time": 1775358560,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70141,
       "num": 123810,
       "word": "马略卡vs皇马",
       "onboard_time": 1775317462,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69491,
+      "num": 69491,
+      "word": "白日提灯热度涨幅",
+      "onboard_time": 1775356581,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69043,
+      "num": 69043,
+      "word": "高速救人发生二次事故被定责",
+      "onboard_time": 1775354420,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68757,
@@ -369,6 +657,14 @@
       "onboard_time": 1775306364,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67100,
+      "num": 67100,
+      "word": "王楚钦约奇克收视率",
+      "onboard_time": 1775358560,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 66923,
@@ -395,20 +691,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64748,
-      "num": 64748,
-      "word": "清明节",
-      "onboard_time": 1775346858,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64599,
       "num": 64599,
       "word": "虞书欣签售妆是一枝南南画的",
       "onboard_time": 1775303062,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62756,
+      "num": 62756,
+      "word": "我的清明假期belike",
+      "onboard_time": 1775358259,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 59460,
@@ -433,6 +729,14 @@
       "onboard_time": 1775311945,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58221,
+      "num": 58221,
+      "word": "曝creme不想和Tian打比赛",
+      "onboard_time": 1775349919,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 57896,
@@ -667,6 +971,22 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 26230,
+      "num": 98405,
+      "word": "缅怀先烈祭奠忠魂",
+      "onboard_time": 1775358619,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24634,
+      "num": 70686,
+      "word": "张月妆造",
+      "onboard_time": 1775359040,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20580,
       "num": 31458,
       "word": "鞠婧祎露芜衣晋江演技",
@@ -707,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12558,
+      "num": 595725,
+      "word": "在慎终追远中感受精神力量",
+      "onboard_time": 1775358979,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8916,
       "num": 450231,
       "word": "致敬缅怀奋进",
@@ -718,6 +1046,9 @@
   "hotgov_list": [
     {
       "word": "#山河记得你#"
+    },
+    {
+      "word": "#跟着总书记一起缅怀英烈#"
     }
   ]
 }

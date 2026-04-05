@@ -1,0 +1,410 @@
+{
+  "runTime": 1775359176114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 278589,
+        "num": 1044574,
+        "word": "美5名顶尖科学家离奇失踪或死亡",
+        "onboard_time": 1775353759,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255584,
+        "num": 741519,
+        "word": "女孩2岁确诊孤独症父母花100万求医",
+        "onboard_time": 1775354959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12558,
+        "num": 595725,
+        "word": "在慎终追远中感受精神力量",
+        "onboard_time": 1775358979,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384819,
+        "num": 384819,
+        "word": "谢娜的话筒一直是在冲着李小冉的",
+        "onboard_time": 1775355739,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272982,
+        "num": 272982,
+        "word": "张雪回应一个子儿没有言论",
+        "onboard_time": 1775356100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776985,
+        "num": 261851,
+        "word": "原来软柿子在人群里这么明显",
+        "onboard_time": 1775356822,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416054,
+        "num": 257441,
+        "word": "给老祖宗上坟熊孩子把钱顺回来了",
+        "onboard_time": 1775353459,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353432,
+        "num": 254751,
+        "word": "张月曾沛慈 评级人数",
+        "onboard_time": 1775354000,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238653,
+        "num": 238653,
+        "word": "以色列被曝正等待美国开绿灯",
+        "onboard_time": 1775356880,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183507,
+        "num": 183507,
+        "word": "孙颖莎vs温特",
+        "onboard_time": 1775356760,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311433,
+        "num": 177327,
+        "word": "何炅没开口维嘉就哭了",
+        "onboard_time": 1775353459,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294882,
+        "num": 173885,
+        "word": "黄婷婷没去浪姐去了演综",
+        "onboard_time": 1775356880,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161705,
+        "num": 161705,
+        "word": "伊媒称美军试图炸死在伊失联飞行员",
+        "onboard_time": 1775356880,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239977,
+        "num": 160230,
+        "word": "李清明  清明节myday",
+        "onboard_time": 1775345657,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223121,
+        "num": 159607,
+        "word": "李小冉曾自曝给谢娜收拾脱的脏衣服",
+        "onboard_time": 1775354420,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158746,
+        "num": 158746,
+        "word": "黄金大买家狂抛",
+        "onboard_time": 1775357360,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125394,
+        "num": 125394,
+        "word": "迪丽热巴陈飞宇白日提灯热度涨幅",
+        "onboard_time": 1775355318,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "网友爸爸曾在昆明石林偶遇张国荣",
+        "onboard_time": 1775357840,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108742,
+        "num": 108742,
+        "word": "多方回应快递沾染血迹被更换包装",
+        "onboard_time": 1775346018,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98501,
+        "num": 98501,
+        "word": "男子钓7条鱼获利50元被判刑",
+        "onboard_time": 1775351480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 98483,
+        "word": "周杰伦演唱会大屏上的昆凌",
+        "onboard_time": 1775351420,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272402,
+        "num": 98459,
+        "word": "飞机 烟灰缸",
+        "onboard_time": 1775355260,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 98421,
+        "word": "乘风Queen前三",
+        "onboard_time": 1775349978,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26230,
+        "num": 98405,
+        "word": "缅怀先烈祭奠忠魂",
+        "onboard_time": 1775358619,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99468,
+        "num": 98371,
+        "word": "何炅告白维嘉",
+        "onboard_time": 1775357900,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98361,
+        "num": 98361,
+        "word": "为什么人到中年要坚持运动",
+        "onboard_time": 1775350640,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87418,
+        "num": 87418,
+        "word": "10后眼里的90后",
+        "onboard_time": 1775356822,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84413,
+        "num": 84413,
+        "word": "清明节",
+        "onboard_time": 1775346858,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83589,
+        "num": 83589,
+        "word": "疯狂动物城2原设定有狐兔鼻尖糖",
+        "onboard_time": 1775355380,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75790,
+        "num": 75790,
+        "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
+        "onboard_time": 1775312125,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222649,
+        "num": 75726,
+        "word": "美国前参议员表示特朗普已经住院",
+        "onboard_time": 1775358680,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175840,
+        "num": 75700,
+        "word": "董宇辉遭遇回旋镖",
+        "onboard_time": 1775347701,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106048,
+        "num": 75535,
+        "word": "毛新宇携家人到杨开慧烈士陵园祭扫",
+        "onboard_time": 1775356939,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81032,
+        "num": 75496,
+        "word": "特朗普一直呆在白宫",
+        "onboard_time": 1775358860,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78853,
+        "num": 75378,
+        "word": "全红婵快乐成长吧",
+        "onboard_time": 1775358680,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75343,
+        "num": 75343,
+        "word": "医生回应女童假死3天奇迹生还",
+        "onboard_time": 1775355982,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75014,
+        "num": 75014,
+        "word": "郝蕾说张昊唯废了",
+        "onboard_time": 1775359100,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74074,
+        "num": 74074,
+        "word": "美持续升级战争与声称谈判相矛盾",
+        "onboard_time": 1775355800,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71221,
+        "num": 71221,
+        "word": "文淇第一次做妇科检查的不适感受",
+        "onboard_time": 1775310984,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24634,
+        "num": 70686,
+        "word": "张月妆造",
+        "onboard_time": 1775359040,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70151,
+        "num": 70151,
+        "word": "四川一索道有游客从缆车掉入防护网",
+        "onboard_time": 1775358560,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69491,
+        "num": 69491,
+        "word": "白日提灯热度涨幅",
+        "onboard_time": 1775356581,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69043,
+        "num": 69043,
+        "word": "高速救人发生二次事故被定责",
+        "onboard_time": 1775354420,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67100,
+        "num": 67100,
+        "word": "王楚钦约奇克收视率",
+        "onboard_time": 1775358560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64821,
+        "num": 64821,
+        "word": "伊朗击落2架美战机击中2架黑鹰",
+        "onboard_time": 1775344636,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62756,
+        "num": 62756,
+        "word": "我的清明假期belike",
+        "onboard_time": 1775358259,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58221,
+        "num": 58221,
+        "word": "曝creme不想和Tian打比赛",
+        "onboard_time": 1775349919,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57827,
+        "num": 57827,
+        "word": "有些东西你看不见不代表它不存在",
+        "onboard_time": 1775346137,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56360,
+        "num": 56360,
+        "word": "海关截获18厘米长活体帝王蝎",
+        "onboard_time": 1775311284,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54422,
+        "num": 54422,
+        "word": "十日终焉作者谈青岛出现血月",
+        "onboard_time": 1775315365,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起缅怀英烈#"
+    }
+  }
+}
