@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 06:00:26
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 06:45:29
 </p>
 </blockquote>
 <p>
@@ -2625,6 +2625,12 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%BF%90%E8%BE%93%E6%9C%BA%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%81%97%E4%BD%93%23" target="weibo">
+美军运输机残骸中发现一美士兵遗体（热度：287493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8D%9A%E4%B8%BB%E7%A7%B0%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E8%BA%AB%E4%BD%93%E6%AD%A3%E5%B8%B8%23" target="weibo">
 嘴唇发紫博主称一直以为身体正常（热度：286286）
 </a>
@@ -3029,12 +3035,6 @@ SuperJunior致歉（热度：267660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%8D%81%E5%B9%B4%E4%BA%94%E8%BF%9B%E6%98%A5%E5%86%B3%23" target="weibo">
 狼队十年五进春决（热度：256377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%BF%90%E8%BE%93%E6%9C%BA%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%81%97%E4%BD%93%23" target="weibo">
-美军运输机残骸中发现一美士兵遗体（热度：256093）
 </a>
 </li>
 
