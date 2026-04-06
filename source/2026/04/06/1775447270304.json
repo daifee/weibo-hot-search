@@ -1,0 +1,410 @@
+{
+  "runTime": 1775447270304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485800,
+        "num": 1077728,
+        "word": "知情人透露郭艾伦被骗细节",
+        "onboard_time": 1775444421,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345037,
+        "num": 775893,
+        "word": "借笔友1200元30年后还2万被拒",
+        "onboard_time": 1775441301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23753,
+        "num": 602413,
+        "word": "4月草木中都是思念",
+        "onboard_time": 1775443041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210909,
+        "num": 210909,
+        "word": "女子6.8万新买紫貂遭朋友擅自穿毁",
+        "onboard_time": 1775439980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204715,
+        "num": 204715,
+        "word": "欧洲开始清醒",
+        "onboard_time": 1775441240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "北京警方提醒苹果手机用户",
+        "onboard_time": 1775433679,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162089,
+        "num": 162089,
+        "word": "伊称特朗普的鲁莽正将美国拖入地狱",
+        "onboard_time": 1775438902,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158134,
+        "num": 158134,
+        "word": "王皓偷偷抹泪",
+        "onboard_time": 1775440760,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157845,
+        "num": 157845,
+        "word": "游客称被困玉龙雪山冻到失温呕吐",
+        "onboard_time": 1775443941,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103789,
+        "num": 157472,
+        "word": "美以空袭伊朗谢里夫理工大学",
+        "onboard_time": 1775446101,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 743850,
+        "num": 156484,
+        "word": "网友扫墓看到李副官演员墓碑",
+        "onboard_time": 1775440880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683559,
+        "num": 155550,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 507683,
+        "num": 154619,
+        "word": "女主持人也得乘风破浪吗",
+        "onboard_time": 1775439380,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281590,
+        "num": 153964,
+        "word": "李副官扮演者15年前因癌症离世",
+        "onboard_time": 1775444781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189536,
+        "num": 153326,
+        "word": "六旬老人花119万整容后觉得没效果",
+        "onboard_time": 1775440880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230361,
+        "num": 151919,
+        "word": "月鳞绮纪又称aespa四秒表",
+        "onboard_time": 1775444001,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172819,
+        "num": 151412,
+        "word": "周杰伦3小时演唱会实唱不足90分钟",
+        "onboard_time": 1775397685,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150855,
+        "num": 150855,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153477,
+        "num": 148288,
+        "word": "偶遇张杰王源一起打高尔夫",
+        "onboard_time": 1775445980,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21638,
+        "num": 145645,
+        "word": "机票高铁双双涨价",
+        "onboard_time": 1775446821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258989,
+        "num": 140378,
+        "word": "Rookie和新女友一起逛街",
+        "onboard_time": 1775433078,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181351,
+        "num": 138207,
+        "word": "金银再下跌",
+        "onboard_time": 1775439501,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134713,
+        "num": 134713,
+        "word": "嗯哼快和霍思燕一样高了",
+        "onboard_time": 1775439622,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128602,
+        "num": 128602,
+        "word": "许昕说王楚钦是国乒一号没人能撼动",
+        "onboard_time": 1775446582,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112806,
+        "num": 112806,
+        "word": "NINEPERCENT出道八周年",
+        "onboard_time": 1775439862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110132,
+        "num": 110132,
+        "word": "莫氏鸡煲爆火鸡没断货酒先没了",
+        "onboard_time": 1775446582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104462,
+        "num": 104462,
+        "word": "赵心童6冠并列史上第17位",
+        "onboard_time": 1775443222,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99912,
+        "num": 99912,
+        "word": "日本整形医生趁麻醉性侵21名女性",
+        "onboard_time": 1775432838,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98502,
+        "num": 98502,
+        "word": "李马克泡泡",
+        "onboard_time": 1775441601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "为什么茶花都是一朵朵地掉",
+        "onboard_time": 1775442620,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104577,
+        "num": 96724,
+        "word": "女子住酒店发现装饰画后是门",
+        "onboard_time": 1775446641,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93101,
+        "num": 93101,
+        "word": "库里复出",
+        "onboard_time": 1775444720,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91772,
+        "num": 91772,
+        "word": "吴慷仁演技",
+        "onboard_time": 1775445682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91401,
+        "num": 91401,
+        "word": "陕西地震",
+        "onboard_time": 1775430557,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 89756,
+        "num": 89756,
+        "word": "俄呼吁美放弃使用最后通牒式措辞",
+        "onboard_time": 1775446700,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84141,
+        "num": 84141,
+        "word": "张朝阳手算NASA载人绕月轨道",
+        "onboard_time": 1775447121,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83753,
+        "num": 83753,
+        "word": "清明徒步大军堵死南太行",
+        "onboard_time": 1775445682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83741,
+        "num": 83741,
+        "word": "王楚钦首夺男单冠军的含金量有多高",
+        "onboard_time": 1775435661,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83268,
+        "num": 83268,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16227,
+        "num": 83083,
+        "word": "清明有人开了12小时还没出广东",
+        "onboard_time": 1775446522,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83059,
+        "num": 83059,
+        "word": "孙颖莎与王曼昱颁奖典礼上热聊",
+        "onboard_time": 1775443881,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78128,
+        "num": 78128,
+        "word": "伊朗议长发文评论美国营救行动",
+        "onboard_time": 1775445801,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78106,
+        "num": 78106,
+        "word": "王腾祝小米16周岁生日快乐",
+        "onboard_time": 1775447241,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78085,
+        "num": 78085,
+        "word": "周杰伦曾问有觉得我的嗓子怪怪的吗",
+        "onboard_time": 1775442381,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78085,
+        "num": 78085,
+        "word": "王楚钦开启左手将黄金时代",
+        "onboard_time": 1775447181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77730,
+        "num": 77730,
+        "word": "猫牛式拉伸",
+        "onboard_time": 1775447001,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 77675,
+        "num": 77675,
+        "word": "猫咪占了一半称",
+        "onboard_time": 1775447001,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76876,
+        "num": 76876,
+        "word": "莫氏鸡煲连夜安排200只活鸡补货",
+        "onboard_time": 1775445861,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75468,
+        "num": 75468,
+        "word": "英国北洋水师墓前摆中国航母模型",
+        "onboard_time": 1775445801,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72750,
+        "num": 72750,
+        "word": "老詹看着弗拉格满眼是当年的自己",
+        "onboard_time": 1775444961,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河记得你#"
+    }
+  }
+}

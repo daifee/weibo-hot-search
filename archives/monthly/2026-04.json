@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775445764746,
+  "endTime": 1775447270304,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 891971,
-      "num": 127211,
+      "num": 156484,
       "word": "网友扫墓看到李副官演员墓碑",
       "onboard_time": 1775440880,
       "rank": 11,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 704633,
-      "num": 126708,
+      "num": 155550,
       "word": "桃黑黑道歉",
       "onboard_time": 1775437519,
       "rank": 12,
@@ -1260,7 +1260,7 @@
     },
     {
       "raw_hot": 550232,
-      "num": 126491,
+      "num": 154619,
       "word": "女主持人也得乘风破浪吗",
       "onboard_time": 1775439380,
       "rank": 13,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1775366899,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485800,
+      "num": 1077728,
+      "word": "知情人透露郭艾伦被骗细节",
+      "onboard_time": 1775444421,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 483317,
@@ -2636,7 +2644,7 @@
     },
     {
       "raw_hot": 327597,
-      "num": 122976,
+      "num": 140378,
       "word": "Rookie和新女友一起逛街",
       "onboard_time": 1775433078,
       "rank": 20,
@@ -3257,6 +3265,14 @@
       "onboard_time": 1775274861,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281590,
+      "num": 153964,
+      "word": "李副官扮演者15年前因癌症离世",
+      "onboard_time": 1775444781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 281089,
@@ -4012,7 +4028,7 @@
     },
     {
       "raw_hot": 232808,
-      "num": 122528,
+      "num": 138207,
       "word": "金银再下跌",
       "onboard_time": 1775439501,
       "rank": 21,
@@ -4041,6 +4057,14 @@
       "onboard_time": 1775028444,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230361,
+      "num": 151919,
+      "word": "月鳞绮纪又称aespa四秒表",
+      "onboard_time": 1775444001,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 230058,
@@ -4124,7 +4148,7 @@
     },
     {
       "raw_hot": 225481,
-      "num": 124946,
+      "num": 153326,
       "word": "六旬老人花119万整容后觉得没效果",
       "onboard_time": 1775440880,
       "rank": 16,
@@ -4145,14 +4169,6 @@
       "onboard_time": 1775198184,
       "rank": 7,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 224622,
-      "num": 124743,
-      "word": "月鳞绮纪又称aespa四秒表",
-      "onboard_time": 1775444001,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 223136,
@@ -4915,6 +4931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192626,
+      "num": 192626,
+      "word": "北京警方提醒苹果手机用户",
+      "onboard_time": 1775433679,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192512,
       "num": 192512,
       "word": "英格兰0比1日本",
@@ -5203,14 +5227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178778,
-      "num": 178778,
-      "word": "北京警方提醒苹果手机用户",
-      "onboard_time": 1775433679,
-      "rank": 5,
-      "category": "数码"
-    },
-    {
       "raw_hot": 178714,
       "num": 164912,
       "word": "何润东回应不参加综艺",
@@ -5284,7 +5300,7 @@
     },
     {
       "raw_hot": 175537,
-      "num": 122400,
+      "num": 134713,
       "word": "嗯哼快和霍思燕一样高了",
       "onboard_time": 1775439622,
       "rank": 22,
@@ -5675,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162089,
+      "num": 162089,
+      "word": "伊称特朗普的鲁莽正将美国拖入地狱",
+      "onboard_time": 1775438902,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161995,
       "num": 161995,
       "word": "乘风2026乘风送考人",
@@ -5851,6 +5875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157845,
+      "num": 157845,
+      "word": "游客称被困玉龙雪山冻到失温呕吐",
+      "onboard_time": 1775443941,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157419,
       "num": 277808,
       "word": "没有一诺的AG",
@@ -5947,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153477,
+      "num": 148288,
+      "word": "偶遇张杰王源一起打高尔夫",
+      "onboard_time": 1775445980,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153431,
       "num": 153431,
       "word": "金价银价大跌了",
@@ -6041,14 +6081,6 @@
       "onboard_time": 1775104763,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150378,
-      "num": 150378,
-      "word": "知情人透露郭艾伦被骗细节",
-      "onboard_time": 1775444421,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 150153,
@@ -6211,14 +6243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145494,
-      "num": 121133,
-      "word": "李副官扮演者15年前因癌症离世",
-      "onboard_time": 1775444781,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145418,
       "num": 145023,
       "word": "白日提灯热度",
@@ -6249,14 +6273,6 @@
       "onboard_time": 1775372840,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144498,
-      "num": 144498,
-      "word": "伊称特朗普的鲁莽正将美国拖入地狱",
-      "onboard_time": 1775438902,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144368,
@@ -7043,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128602,
+      "num": 128602,
+      "word": "许昕说王楚钦是国乒一号没人能撼动",
+      "onboard_time": 1775446582,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128580,
       "num": 128580,
       "word": "法国车手34岁夺冠感谢张雪机车圆梦",
@@ -7057,14 +7081,6 @@
       "onboard_time": 1775201541,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128453,
-      "num": 128453,
-      "word": "游客称被困玉龙雪山冻到失温呕吐",
-      "onboard_time": 1775443941,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128393,
@@ -8003,6 +8019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112806,
+      "num": 112806,
+      "word": "NINEPERCENT出道八周年",
+      "onboard_time": 1775439862,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112790,
       "num": 112790,
       "word": "王楚钦8比11松岛辉空",
@@ -8137,6 +8161,14 @@
       "onboard_time": 1775024483,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110132,
+      "num": 110132,
+      "word": "莫氏鸡煲爆火鸡没断货酒先没了",
+      "onboard_time": 1775446582,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109889,
@@ -8595,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104577,
+      "num": 96724,
+      "word": "女子住酒店发现装饰画后是门",
+      "onboard_time": 1775446641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104554,
       "num": 104554,
       "word": "美博主称中国小学生胜过美国大学生",
@@ -8616,6 +8656,14 @@
       "word": "张雪回应浙创投投资9000万",
       "onboard_time": 1775183421,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104462,
+      "num": 104462,
+      "word": "赵心童6冠并列史上第17位",
+      "onboard_time": 1775443222,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -8681,6 +8729,14 @@
       "onboard_time": 1775216901,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103789,
+      "num": 157472,
+      "word": "美以空袭伊朗谢里夫理工大学",
+      "onboard_time": 1775446101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103744,
@@ -9065,14 +9121,6 @@
       "onboard_time": 1775097801,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99202,
-      "num": 99202,
-      "word": "赵心童6冠并列史上第17位",
-      "onboard_time": 1775443222,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 99185,
@@ -9827,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91772,
+      "num": 91772,
+      "word": "吴慷仁演技",
+      "onboard_time": 1775445682,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91744,
       "num": 91744,
       "word": "最强大脑",
@@ -10041,6 +10097,14 @@
       "onboard_time": 1775039062,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89756,
+      "num": 89756,
+      "word": "俄呼吁美放弃使用最后通牒式措辞",
+      "onboard_time": 1775446700,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89740,
@@ -10867,6 +10931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84141,
+      "num": 84141,
+      "word": "张朝阳手算NASA载人绕月轨道",
+      "onboard_time": 1775447121,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84131,
       "num": 84131,
       "word": "王曼昱晋级淘汰赛",
@@ -10905,6 +10977,14 @@
       "onboard_time": 1775117722,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83753,
+      "num": 83753,
+      "word": "清明徒步大军堵死南太行",
+      "onboard_time": 1775445682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83687,
@@ -11579,6 +11659,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78128,
+      "num": 78128,
+      "word": "伊朗议长发文评论美国营救行动",
+      "onboard_time": 1775445801,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 78106,
+      "num": 78106,
+      "word": "王腾祝小米16周岁生日快乐",
+      "onboard_time": 1775447241,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 78085,
+      "num": 78085,
+      "word": "王楚钦开启左手将黄金时代",
+      "onboard_time": 1775447181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78080,
       "num": 78080,
       "word": "宠物冥币",
@@ -11627,12 +11731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77730,
+      "num": 77730,
+      "word": "猫牛式拉伸",
+      "onboard_time": 1775447001,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 77690,
       "num": 77690,
       "word": "肖战花絮照",
       "onboard_time": 1775221943,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77675,
+      "num": 77675,
+      "word": "猫咪占了一半称",
+      "onboard_time": 1775447001,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 77550,
@@ -11721,6 +11841,14 @@
       "onboard_time": 1775127021,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76876,
+      "num": 76876,
+      "word": "莫氏鸡煲连夜安排200只活鸡补货",
+      "onboard_time": 1775445861,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76848,
@@ -11891,14 +12019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75725,
-      "num": 75725,
-      "word": "吴慷仁演技",
-      "onboard_time": 1775445682,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75683,
       "num": 74563,
       "word": "网红小徐自曝财产",
@@ -11937,6 +12057,14 @@
       "onboard_time": 1775210002,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75468,
+      "num": 75468,
+      "word": "英国北洋水师墓前摆中国航母模型",
+      "onboard_time": 1775445801,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75442,
@@ -12217,6 +12345,14 @@
       "onboard_time": 1775034982,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72750,
+      "num": 72750,
+      "word": "老詹看着弗拉格满眼是当年的自己",
+      "onboard_time": 1775444961,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72503,
@@ -14539,14 +14675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43468,
-      "num": 79490,
-      "word": "清明徒步大军堵死南太行",
-      "onboard_time": 1775445682,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43324,
       "num": 85954,
       "word": "谁给丞磊挑的内搭",
@@ -15196,7 +15324,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 597593,
+      "num": 602413,
       "word": "4月草木中都是思念",
       "onboard_time": 1775443041,
       "rank": 2,
@@ -15376,6 +15504,14 @@
       "word": "张雪说真男人说到做到",
       "onboard_time": 1775245274,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21638,
+      "num": 145645,
+      "word": "机票高铁双双涨价",
+      "onboard_time": 1775446821,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15561,6 +15697,14 @@
       "onboard_time": 1775339354,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16227,
+      "num": 83083,
+      "word": "清明有人开了12小时还没出广东",
+      "onboard_time": 1775446522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15875,
