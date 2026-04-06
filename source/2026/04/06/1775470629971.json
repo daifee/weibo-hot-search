@@ -1,0 +1,410 @@
+{
+  "runTime": 1775470629971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553391,
+        "num": 1088542,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508073,
+        "num": 776023,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55753,
+        "num": 651357,
+        "word": "2030年的中国什么样",
+        "onboard_time": 1775463561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408290,
+        "num": 408290,
+        "word": "iPhone18Pro配色前瞻",
+        "onboard_time": 1775468300,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 367213,
+        "num": 367213,
+        "word": "张雪回应陈光标捐款1000万",
+        "onboard_time": 1775468061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238825,
+        "num": 238825,
+        "word": "王楚钦晒世界杯大合照",
+        "onboard_time": 1775466142,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209946,
+        "num": 209946,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204794,
+        "num": 204794,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186025,
+        "num": 186025,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174153,
+        "num": 174153,
+        "word": "唐艺昕李小冉都被对方的美貌迷住了",
+        "onboard_time": 1775465960,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740507,
+        "num": 171965,
+        "word": "特朗普发文飙脏话",
+        "onboard_time": 1775467461,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 642713,
+        "num": 168013,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181357,
+        "num": 165240,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 153134,
+        "num": 153134,
+        "word": "江山大同杨幂路透",
+        "onboard_time": 1775469262,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151567,
+        "num": 151567,
+        "word": "洗衣液是需要反应时间的",
+        "onboard_time": 1775458341,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145970,
+        "num": 145970,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144668,
+        "num": 144668,
+        "word": "恋与深空",
+        "onboard_time": 1775469142,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126019,
+        "num": 126019,
+        "word": "王濛练心愿便利贴要疯了",
+        "onboard_time": 1775456843,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114075,
+        "num": 114075,
+        "word": "当租到烟民退租的房",
+        "onboard_time": 1775462002,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10426,
+        "num": 95370,
+        "word": "小伙入职第2天外派越南机场被拦下",
+        "onboard_time": 1775470100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350856,
+        "num": 94325,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202726,
+        "num": 92690,
+        "word": "郭敬明又拍出了鞠婧祎的神级回首",
+        "onboard_time": 1775465421,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89838,
+        "num": 89838,
+        "word": "被收养的小猫看见妈妈还在流浪",
+        "onboard_time": 1775462602,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200724,
+        "num": 89649,
+        "word": "朵朵和陈思诚共用一张脸",
+        "onboard_time": 1775464402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170525,
+        "num": 89514,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88723,
+        "num": 88723,
+        "word": "湖南永州一交通事故致3死3伤",
+        "onboard_time": 1775467820,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122294,
+        "num": 85949,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109123,
+        "num": 84509,
+        "word": "短发李一桐 芭比娃娃",
+        "onboard_time": 1775469802,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81283,
+        "num": 81283,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82583,
+        "num": 81230,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87937,
+        "num": 81078,
+        "word": "39岁离异姑姑独自带大5个孩子",
+        "onboard_time": 1775468183,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80802,
+        "num": 80802,
+        "word": "张月队完颜团",
+        "onboard_time": 1775466921,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76199,
+        "num": 76199,
+        "word": "红果短剧公告",
+        "onboard_time": 1775463741,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74519,
+        "num": 74519,
+        "word": "11岁男孩偷拿钥匙开车出车位就撞了",
+        "onboard_time": 1775465301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75480,
+        "num": 72057,
+        "word": "青岛已经进入肖战频道",
+        "onboard_time": 1775464700,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68889,
+        "num": 68889,
+        "word": "澳门世界杯决赛收视率登顶",
+        "onboard_time": 1775469201,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62718,
+        "num": 62718,
+        "word": "远看大肥鱼近看肥鱼大",
+        "onboard_time": 1775469741,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296762,
+        "num": 62713,
+        "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
+        "onboard_time": 1775464700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255687,
+        "num": 62522,
+        "word": "金价",
+        "onboard_time": 1775463020,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33838,
+        "num": 62251,
+        "word": "直播假期返程高峰",
+        "onboard_time": 1775469142,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62235,
+        "num": 62235,
+        "word": "接下来几个月都有假",
+        "onboard_time": 1775463561,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62060,
+        "num": 62060,
+        "word": "伊朗革命卫队情报机构负责人身亡",
+        "onboard_time": 1775464402,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60922,
+        "num": 60922,
+        "word": "我们的少年时代2",
+        "onboard_time": 1775463201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60499,
+        "num": 60499,
+        "word": "中国新能源车出口彻底爆发",
+        "onboard_time": 1775466022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59402,
+        "num": 59402,
+        "word": "管晨辰说天天都能见到汪顺",
+        "onboard_time": 1775467580,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58573,
+        "num": 58573,
+        "word": "现货黄金上破4700美元",
+        "onboard_time": 1775469741,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58388,
+        "num": 58388,
+        "word": "伊朗逼美国做选择",
+        "onboard_time": 1775456540,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58056,
+        "num": 58056,
+        "word": "李小冉想补偿唐艺昕",
+        "onboard_time": 1775462002,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56661,
+        "num": 56661,
+        "word": "月鳞绮纪海外热度",
+        "onboard_time": 1775470161,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51991,
+        "num": 51991,
+        "word": "ZARA离快时尚越来越远了",
+        "onboard_time": 1775466440,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}

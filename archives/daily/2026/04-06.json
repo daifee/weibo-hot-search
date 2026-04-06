@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775468933711,
+  "endTime": 1775470629971,
   "band_list": [
     {
       "raw_hot": 1185320,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 941602,
-      "num": 160335,
+      "num": 171965,
       "word": "特朗普发文飙脏话",
       "onboard_time": 1775467461,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 508073,
+      "num": 776023,
+      "word": "埃及航班行李全部丢失中国乘客发声",
+      "onboard_time": 1775468902,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485800,
       "num": 1077728,
       "word": "知情人透露郭艾伦被骗细节",
@@ -129,6 +137,14 @@
       "onboard_time": 1775449940,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408290,
+      "num": 408290,
+      "word": "iPhone18Pro配色前瞻",
+      "onboard_time": 1775468300,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 404902,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367213,
+      "num": 367213,
+      "word": "张雪回应陈光标捐款1000万",
+      "onboard_time": 1775468061,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366438,
       "num": 366438,
       "word": "王濛练心愿便利贴要疯了",
@@ -201,6 +225,14 @@
       "onboard_time": 1775448741,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350856,
+      "num": 95328,
+      "word": "Angelababy家里摆满了粉丝的礼物",
+      "onboard_time": 1775468061,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 348202,
@@ -241,6 +273,14 @@
       "onboard_time": 1775397264,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296762,
+      "num": 268126,
+      "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
+      "onboard_time": 1775464700,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292119,
@@ -291,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268126,
-      "num": 268126,
-      "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
-      "onboard_time": 1775464700,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267852,
       "num": 112217,
       "word": "朵朵和陈思诚共用一张脸",
@@ -337,14 +369,6 @@
       "onboard_time": 1775391983,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238869,
-      "num": 88838,
-      "word": "张雪回应陈光标捐款1000万",
-      "onboard_time": 1775468061,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238152,
@@ -435,6 +459,14 @@
       "category": "海外新闻,演出"
     },
     {
+      "raw_hot": 209946,
+      "num": 209946,
+      "word": "孕妇在飞纽约航班上高空产子",
+      "onboard_time": 1775468183,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206631,
       "num": 190213,
       "word": "王楚钦点赞任达华",
@@ -481,14 +513,6 @@
       "onboard_time": 1775433679,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192376,
-      "num": 95328,
-      "word": "Angelababy家里摆满了粉丝的礼物",
-      "onboard_time": 1775468061,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 190998,
@@ -569,6 +593,14 @@
       "onboard_time": 1775439622,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174153,
+      "num": 174153,
+      "word": "唐艺昕李小冉都被对方的美貌迷住了",
+      "onboard_time": 1775465960,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 171270,
@@ -675,20 +707,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153134,
+      "num": 153134,
+      "word": "江山大同杨幂路透",
+      "onboard_time": 1775469262,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145970,
+      "num": 145970,
+      "word": "台湾春卷中毒人数增至134人",
+      "onboard_time": 1775467761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144668,
+      "num": 144668,
+      "word": "恋与深空",
+      "onboard_time": 1775469142,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142385,
       "num": 198072,
       "word": "王楚钦掌镜下的孙颖莎",
       "onboard_time": 1775449880,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140440,
-      "num": 134088,
-      "word": "唐艺昕李小冉都被对方的美貌迷住了",
-      "onboard_time": 1775465960,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 136769,
@@ -731,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127169,
-      "num": 127169,
-      "word": "iPhone18Pro配色前瞻",
-      "onboard_time": 1775468300,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125975,
       "num": 102780,
       "word": "撒贝宁 章子怡",
@@ -777,6 +817,14 @@
       "onboard_time": 1775457503,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122294,
+      "num": 85949,
+      "word": "时代峰峻的销冠都在这了",
+      "onboard_time": 1775469622,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 121267,
@@ -905,6 +953,14 @@
       "onboard_time": 1775423834,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 109123,
+      "num": 84509,
+      "word": "短发李一桐 芭比娃娃",
+      "onboard_time": 1775469802,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 108703,
@@ -1163,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88723,
+      "num": 165315,
+      "word": "湖南永州一交通事故致3死3伤",
+      "onboard_time": 1775467820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88718,
       "num": 88718,
       "word": "管晨辰说天天都能见到汪顺",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1775396427,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86531,
-      "num": 115742,
-      "word": "台湾春卷中毒人数增至134人",
-      "onboard_time": 1775467761,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86193,
@@ -1419,14 +1475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75414,
-      "num": 126985,
-      "word": "孕妇在飞纽约航班上高空产子",
-      "onboard_time": 1775468183,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75044,
       "num": 75044,
       "word": "俄一男子与列车员争执将其推下铁轨",
@@ -1555,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68889,
+      "num": 68889,
+      "word": "澳门世界杯决赛收视率登顶",
+      "onboard_time": 1775469201,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68792,
       "num": 68792,
       "word": "独行侠战胜湖人",
@@ -1675,6 +1731,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62718,
+      "num": 62718,
+      "word": "远看大肥鱼近看肥鱼大",
+      "onboard_time": 1775469741,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60922,
+      "num": 60922,
+      "word": "我们的少年时代2",
+      "onboard_time": 1775463201,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60316,
       "num": 53611,
       "word": "美军试图炸死在伊朗失联飞行员",
@@ -1707,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58573,
+      "num": 58573,
+      "word": "现货黄金上破4700美元",
+      "onboard_time": 1775469741,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58019,
       "num": 58019,
       "word": "周杰伦来杭州不喝奶茶喝龙井",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1775464402,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56661,
+      "num": 56661,
+      "word": "月鳞绮纪海外热度",
+      "onboard_time": 1775470161,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 54088,
@@ -1779,12 +1867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52340,
-      "num": 165315,
-      "word": "湖南永州一交通事故致3死3伤",
-      "onboard_time": 1775467820,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 51991,
+      "num": 51991,
+      "word": "ZARA离快时尚越来越远了",
+      "onboard_time": 1775466440,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 51825,
@@ -1947,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33838,
+      "num": 62251,
+      "word": "直播假期返程高峰",
+      "onboard_time": 1775469142,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32904,
       "num": 32904,
       "word": "伊朗发动第96波攻势",
@@ -1969,14 +2065,6 @@
       "onboard_time": 1775399428,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31233,
-      "num": 62146,
-      "word": "埃及航班行李全部丢失中国乘客发声",
-      "onboard_time": 1775468902,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29436,
@@ -2105,6 +2193,14 @@
       "onboard_time": 1775414535,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 10426,
+      "num": 95370,
+      "word": "小伙入职第2天外派越南机场被拦下",
+      "onboard_time": 1775470100,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
