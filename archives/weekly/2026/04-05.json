@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775516712713,
+  "endTime": 1775519105611,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -113,6 +113,14 @@
       "onboard_time": 1775459601,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1098452,
+      "num": 525828,
+      "word": "美军特种兵潜入伊朗救人场面失控",
+      "onboard_time": 1775517738,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1096639,
@@ -521,6 +529,14 @@
       "onboard_time": 1775474540,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 425430,
+      "num": 939180,
+      "word": "老夫妻近3万买戒指后被店家跟踪",
+      "onboard_time": 1775484442,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425128,
@@ -939,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297390,
-      "num": 630849,
-      "word": "老夫妻近3万买戒指后被店家跟踪",
-      "onboard_time": 1775484442,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296762,
       "num": 268126,
       "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
@@ -969,6 +977,14 @@
       "onboard_time": 1775489841,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293310,
+      "num": 671220,
+      "word": "日乒队员看王楚钦夺冠时的表情",
+      "onboard_time": 1775517019,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 292919,
@@ -1179,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256725,
+      "num": 155851,
+      "word": "伊朗的棋越下越大",
+      "onboard_time": 1775487322,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255584,
       "num": 741519,
       "word": "女孩2岁确诊孤独症父母花100万求医",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1775453062,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235268,
-      "num": 139239,
-      "word": "伊朗的棋越下越大",
-      "onboard_time": 1775487322,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234309,
@@ -1587,20 +1603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "三星家族549亿元遗产税尾款",
+      "onboard_time": 1775517379,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 351191,
+      "word": "伊朗拒绝停火强调须永久结束战争",
+      "onboard_time": 1775490561,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199657,
       "num": 143216,
       "word": "吴京点赞吐槽浪姐博文",
       "onboard_time": 1775361740,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198986,
-      "num": 351191,
-      "word": "伊朗拒绝停火强调须永久结束战争",
-      "onboard_time": 1775490561,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 198256,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1775440760,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193551,
+      "num": 153371,
+      "word": "特朗普正面临重大抉择",
+      "onboard_time": 1775518338,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193447,
@@ -1819,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179263,
+      "num": 179263,
+      "word": "中信银行人均薪酬60万",
+      "onboard_time": 1775518279,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178180,
       "num": 112272,
       "word": "日本整形医生趁麻醉性侵21名女性",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1775385622,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171584,
+      "num": 171584,
+      "word": "阚清子参加浪姐瘦了一圈",
+      "onboard_time": 1775518879,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 171450,
@@ -2515,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127726,
+      "num": 306157,
+      "word": "安徽女童失联地后面是一片田地",
+      "onboard_time": 1775493498,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127544,
       "num": 127544,
       "word": "27岁女博士暂停学业开女工维修公司",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1775387542,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127131,
-      "num": 306157,
-      "word": "安徽女童失联地后面是一片田地",
-      "onboard_time": 1775493498,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126792,
@@ -2617,6 +2665,14 @@
       "onboard_time": 1775475621,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122937,
+      "num": 122937,
+      "word": "人民日报谈明星带货翻车",
+      "onboard_time": 1775507774,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122815,
@@ -3011,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104709,
+      "num": 118505,
+      "word": "卫生巾或通过减量不加价隐性涨价",
+      "onboard_time": 1775490980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104462,
       "num": 104462,
       "word": "赵心童6冠并列史上第17位",
@@ -3347,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93612,
+      "num": 93612,
+      "word": "迪丽热巴陈飞宇牵手奔跑",
+      "onboard_time": 1775517198,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93385,
       "num": 86019,
       "word": "咪其实是一只虎",
@@ -3361,6 +3433,14 @@
       "onboard_time": 1775454921,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92822,
+      "num": 92822,
+      "word": "我们的爸爸2重组家庭太难了",
+      "onboard_time": 1775518397,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 91837,
@@ -3483,14 +3563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89531,
-      "num": 118505,
-      "word": "卫生巾或通过减量不加价隐性涨价",
-      "onboard_time": 1775490980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89208,
       "num": 89208,
       "word": "11岁男孩偷拿钥匙开车出车位就撞了",
@@ -3553,14 +3625,6 @@
       "onboard_time": 1775355380,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88077,
-      "num": 88077,
-      "word": "人民日报谈明星带货翻车",
-      "onboard_time": 1775507774,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87983,
@@ -3907,6 +3971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80971,
+      "num": 118314,
+      "word": "曾舜晞陈都灵角色cp超话登顶",
+      "onboard_time": 1775493259,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80959,
       "num": 89498,
       "word": "74岁老太给儿媳上坟引发山火获刑",
@@ -4227,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75991,
+      "num": 66243,
+      "word": "伊朗说美营救飞行员或意在偷浓缩铀",
+      "onboard_time": 1775517978,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75980,
       "num": 97239,
       "word": "清明是念念不忘也是生生不息",
@@ -4425,14 +4505,6 @@
       "onboard_time": 1775441482,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70430,
-      "num": 118314,
-      "word": "曾舜晞陈都灵角色cp超话登顶",
-      "onboard_time": 1775493259,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 70248,
@@ -4737,6 +4809,14 @@
       "onboard_time": 1775303062,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 64593,
+      "num": 64593,
+      "word": "田嘉瑞月鳞绮纪",
+      "onboard_time": 1775518579,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 64591,
@@ -5163,6 +5243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57390,
+      "num": 117528,
+      "word": "早点吃晚餐有多重要",
+      "onboard_time": 1775493438,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57254,
       "num": 57254,
       "word": "阚清子乘风一公队长",
@@ -5257,14 +5345,6 @@
       "onboard_time": 1775316083,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55456,
-      "num": 117528,
-      "word": "早点吃晚餐有多重要",
-      "onboard_time": 1775493438,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 55422,
@@ -5379,6 +5459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52616,
+      "num": 52616,
+      "word": "李若嘉被查出桥本病",
+      "onboard_time": 1775518821,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52256,
       "num": 102447,
       "word": "美军战机被击落意味着冲突大幅升级",
@@ -5483,6 +5571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49231,
+      "num": 49231,
+      "word": "天下足球意大利特辑看哭了",
+      "onboard_time": 1775518279,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49220,
       "num": 62819,
       "word": "张凌赫工作室郑重声明",
@@ -5523,6 +5619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48085,
+      "num": 48085,
+      "word": "伊朗第98波打击",
+      "onboard_time": 1775518038,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47836,
       "num": 95139,
       "word": "莫氏鸡煲有人排队7天拿不到号",
@@ -5555,12 +5659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45729,
+      "num": 45729,
+      "word": "伊朗称石油化工厂遭敌军袭击",
+      "onboard_time": 1775518338,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45466,
       "num": 45466,
       "word": "王曼昱谈战胜桥本帆乃香技术细节",
       "onboard_time": 1775346678,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45407,
+      "num": 45407,
+      "word": "黄金白银又开始涨了",
+      "onboard_time": 1775518279,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 45175,
@@ -5600,6 +5720,14 @@
       "word": "鞠婧祎这几个小挑眉好灵",
       "onboard_time": 1775330174,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43557,
+      "num": 43557,
+      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
+      "onboard_time": 1775496676,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -5691,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35694,
+      "num": 536061,
+      "word": "清明假期预计跨区域流动8.4亿人次",
+      "onboard_time": 1775479701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35162,
       "num": 1461828,
       "word": "三代人同框敬礼祭奠先烈",
@@ -5745,14 +5881,6 @@
       "onboard_time": 1775410997,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31075,
-      "num": 33177,
-      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
-      "onboard_time": 1775496676,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 30342,
@@ -5897,14 +6025,6 @@
       "onboard_time": 1775359040,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24224,
-      "num": 367020,
-      "word": "清明假期预计跨区域流动8.4亿人次",
-      "onboard_time": 1775479701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24088,
