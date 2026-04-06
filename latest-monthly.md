@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 23:13:30
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/06 23:57:35
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ iPhone18Pro模具偷跑（热度：474601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E6%9D%8E%E7%BB%B4%E5%98%89KTV%E7%85%A7%23" target="weibo">
+何炅谢娜李维嘉KTV照（热度：439419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A1%AB%E8%A1%A5%E9%95%BF%E8%BE%BE53%E5%B9%B4%E7%A9%BA%E7%99%BD%23" target="weibo">
 孙颖莎填补长达53年空白（热度：438504）
 </a>
@@ -1853,6 +1859,12 @@ AG对战KSG（热度：378589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%BB%84%E7%89%8C%23" target="weibo">
 孙颖莎黄牌（热度：375926）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23" target="weibo">
+公司用AI复刻离职员工继续工作（热度：375742）
 </a>
 </li>
 
@@ -2249,6 +2261,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%A4%A7%E9%97%A8%E6%95%9E%E5%BC%80%23" target="weibo">
 方博回应国家队大门敞开（热度：321576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%A7%E5%86%B0%E6%96%AD%E5%AE%B6%E5%8A%A1%E4%BA%8B%E7%9A%84%E4%B8%89%E8%A7%82%E7%BB%99%E5%BE%81%E6%9C%8D%23" target="weibo">
+被大冰断家务事的三观给征服（热度：321195）
 </a>
 </li>
 
@@ -2889,6 +2907,12 @@ SuperJunior致歉（热度：267660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%96%AF%E5%8F%91%E4%BA%86%E5%92%8C%E5%BC%A0%E6%9C%88%E9%99%88%E7%91%B6%E5%BE%90%E6%A2%A6%E6%B4%81%E5%90%88%E7%85%A7%23" target="weibo">
+代斯发了和张月陈瑶徐梦洁合照（热度：263350）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%20%E5%BD%93bro%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%BE%88%E6%9C%89%E5%BD%B1%E5%93%8D%E5%8A%9B%23" target="weibo">
 孙俪 当bro以为自己很有影响力（热度：262791）
 </a>
@@ -2951,6 +2975,12 @@ SuperJunior致歉（热度：267660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%975%E5%90%8D%E6%95%99%E6%8E%8860%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
 伊朗5名教授60多名大学生遭袭身亡（热度：259445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%81%9C%E6%88%98%E6%8F%90%E8%AE%AE%23" target="weibo">
+伊朗回应美方停战提议（热度：259038）
 </a>
 </li>
 
@@ -3275,6 +3305,12 @@ kpop七人团魔咒还在发力（热度：243620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%BC%94%E7%9A%84%E7%94%9F%E7%90%86%E5%8E%8C%E6%81%B6%E5%A4%AA%E7%9C%9F%E5%AE%9E%E4%BA%86%23" target="weibo">
 孙俪演的生理厌恶太真实了（热度：235344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%A3%8B%E8%B6%8A%E4%B8%8B%E8%B6%8A%E5%A4%A7%23" target="weibo">
+伊朗的棋越下越大（热度：235268）
 </a>
 </li>
 
@@ -4293,12 +4329,6 @@ AL对战TES（热度：183446）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%A3%8B%E8%B6%8A%E4%B8%8B%E8%B6%8A%E5%A4%A7%23" target="weibo">
-伊朗的棋越下越大（热度：181098）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%8D%96%E9%99%88%E5%85%89%E6%A0%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E6%8D%90%E6%AC%BE%E5%A4%A9%E4%BD%BF%E5%AB%A3%E7%84%B6%23" target="weibo">
 张雪称卖陈光标劳斯莱斯捐款天使嫣然（热度：180486）
 </a>
@@ -4739,12 +4769,6 @@ Wayward曝369休息原因（热度：165389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E7%9C%9F%E8%80%83%E8%99%91%E7%BE%8E%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23" target="weibo">
 特朗普认真考虑美退出北约（热度：162577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%A7%E5%86%B0%E6%96%AD%E5%AE%B6%E5%8A%A1%E4%BA%8B%E7%9A%84%E4%B8%89%E8%A7%82%E7%BB%99%E5%BE%81%E6%9C%8D%23" target="weibo">
-被大冰断家务事的三观给征服（热度：162419）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ AL战胜WBG（热度：126531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E4%BB%A4%E6%B5%B7%E6%8A%A5%23" target="weibo">
 虞书欣云初令海报（热度：126237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%BE%88%E5%BC%80%E5%BF%83%E4%B8%8E%E8%8E%8E%E8%8E%8E%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B%23" target="weibo">
-王曼昱说很开心与莎莎会师决赛（热度：125903）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E5%95%86%E5%93%81%E4%B8%8A%E6%9E%B6%E5%89%8D%E4%BC%9A%E5%AE%8C%E6%88%90%E7%9B%B8%E5%85%B3%E6%A3%80%E6%B5%8B%23" target="weibo">
-董宇辉称商品上架前会完成相关检测（热度：125797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B9%B0%E6%B1%89%E5%A0%A1%E9%81%AD%E5%A5%B3%E5%AD%90%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-4岁女孩买汉堡遭女子踢踹母亲发声（热度：125778）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AE%E8%BE%B1%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E6%B1%AA%E8%AF%9A%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-侮辱赵丽颖的汪诚公开道歉（热度：125712）
 </a>
 </li>
 
