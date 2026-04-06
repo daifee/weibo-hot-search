@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/07 00:09:11 ~ 2026/04/07 05:03:42
+本榜单时间：2026/04/07 00:09:11 ~ 2026/04/07 05:45:19
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ i人佟丽娅生了个e人儿子（热度：36557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
+人民日报谈明星带货翻车（热度：25726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%B4%A0%E9%A2%9C%E9%A5%AD%E6%92%92%23" target="weibo">
 田曦薇素颜饭撒（热度：24624）
 </a>
@@ -388,19 +394,13 @@ i人佟丽娅生了个e人儿子（热度：36557）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%92%E5%BC%9F%E8%AF%B4%E8%B4%BA%E5%A8%87%E9%BE%99%E5%8E%BB%E4%B8%96%E6%97%B6%E6%89%8D40%E5%85%AC%E6%96%A4%23" target="weibo">
-徒弟说贺娇龙去世时才40公斤（热度：23110）
+徒弟说贺娇龙去世时才40公斤（热度：23485）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%99%88%E9%83%BD%E7%81%B5%20%E6%88%91%E6%98%AF%E5%A7%90%E5%A7%90%E4%BA%B2%E6%89%8B%E5%85%BB%E5%A4%A7%E7%9A%84%23" target="weibo">
 鞠婧祎陈都灵 我是姐姐亲手养大的（热度：18392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
-人民日报谈明星带货翻车（热度：16636）
 </a>
 </li>
 
