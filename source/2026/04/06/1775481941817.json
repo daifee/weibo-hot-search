@@ -1,0 +1,410 @@
+{
+  "runTime": 1775481941817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 525951,
+        "num": 1084152,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406002,
+        "num": 761530,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21445,
+        "num": 610775,
+        "word": "解锁神二十一乘组最新工作周记",
+        "onboard_time": 1775479941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820108,
+        "num": 583631,
+        "word": "曝柠萌影视怕剧本写完檀健次不演",
+        "onboard_time": 1775477481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234047,
+        "num": 234047,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427927,
+        "num": 231520,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276533,
+        "num": 204292,
+        "word": "贺思慕血洗二十四殿",
+        "onboard_time": 1775479160,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264921,
+        "num": 186828,
+        "word": "我竟然在看到礼物的一瞬间对比价格",
+        "onboard_time": 1775476582,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166386,
+        "num": 166386,
+        "word": "校园周边毒玩具泛滥",
+        "onboard_time": 1775478140,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149576,
+        "num": 149576,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592067,
+        "num": 148916,
+        "word": "百词斩把忮忌加上了",
+        "onboard_time": 1775476822,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 420792,
+        "num": 147193,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235155,
+        "num": 144702,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203480,
+        "num": 143292,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185020,
+        "num": 140473,
+        "word": "王楚钦回复许昕大脑处于宕机状态了",
+        "onboard_time": 1775475322,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172746,
+        "num": 138723,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156715,
+        "num": 135976,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135883,
+        "num": 135883,
+        "word": "王濛 别让武将干这个",
+        "onboard_time": 1775481263,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "安崎选人",
+        "onboard_time": 1775480541,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125645,
+        "num": 125645,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353619,
+        "num": 125180,
+        "word": "佟丽娅看朵朵饭撒的眼神",
+        "onboard_time": 1775477001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132348,
+        "num": 124993,
+        "word": "男子故意绊服务员面汤洒顾客身上",
+        "onboard_time": 1775480482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123554,
+        "num": 123554,
+        "word": "卫生巾价格或上涨3%至8%",
+        "onboard_time": 1775471362,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119613,
+        "num": 119613,
+        "word": "特别讨厌食堂的标语",
+        "onboard_time": 1775478501,
+        "rank": 23,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 119007,
+        "num": 119007,
+        "word": "徒弟说贺娇龙去世时才40公斤",
+        "onboard_time": 1775479701,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112546,
+        "num": 112546,
+        "word": "短发李一桐 芭比娃娃",
+        "onboard_time": 1775469802,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101801,
+        "num": 101801,
+        "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+        "onboard_time": 1775475741,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84827,
+        "num": 84827,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84440,
+        "num": 84440,
+        "word": "家事法庭",
+        "onboard_time": 1775479160,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78910,
+        "num": 78910,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72941,
+        "num": 72941,
+        "word": "王楚钦世排第1林诗栋第5",
+        "onboard_time": 1775476401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72917,
+        "num": 72917,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70822,
+        "num": 70822,
+        "word": "蔡徐坤演唱会中场休息不到30秒",
+        "onboard_time": 1775478021,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69186,
+        "num": 69186,
+        "word": "刘宇直播",
+        "onboard_time": 1775481082,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67653,
+        "num": 67653,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66999,
+        "num": 66999,
+        "word": "李心洁情商",
+        "onboard_time": 1775480722,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66979,
+        "num": 66979,
+        "word": "莫氏鸡煲老板爆火前vs爆火后",
+        "onboard_time": 1775479461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29656,
+        "num": 65162,
+        "word": "保姆盗窃雇主80万奢侈品获利19万",
+        "onboard_time": 1775480541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64397,
+        "num": 64397,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18252,
+        "num": 64096,
+        "word": "太平年里赛足球吴越风采看嘉兴",
+        "onboard_time": 1775477481,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63863,
+        "num": 63863,
+        "word": "TF家族8名新生代演员全员上线",
+        "onboard_time": 1775475621,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63694,
+        "num": 63694,
+        "word": "北海公园海棠花瀑美到窒息",
+        "onboard_time": 1775481860,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63143,
+        "num": 63143,
+        "word": "BLG赛后聚餐",
+        "onboard_time": 1775481141,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62987,
+        "num": 62987,
+        "word": "郑钦文世界排名下滑至第37",
+        "onboard_time": 1775480722,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60719,
+        "num": 60719,
+        "word": "山东男篮vs广东男篮",
+        "onboard_time": 1775481381,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59287,
+        "num": 59287,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58532,
+        "num": 58532,
+        "word": "王楚钦晒世界杯大合照",
+        "onboard_time": 1775466142,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57317,
+        "num": 57317,
+        "word": "多位艺人工作室发布短剧侵权声明",
+        "onboard_time": 1775481441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56844,
+        "num": 56844,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56168,
+        "num": 56168,
+        "word": "邱贻可恭喜孙颖莎三连冠",
+        "onboard_time": 1775475381,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}

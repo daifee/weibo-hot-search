@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775477173948,
+  "endTime": 1775481941817,
   "band_list": [
     {
       "raw_hot": 1185320,
@@ -33,6 +33,14 @@
       "onboard_time": 1775452882,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820108,
+      "num": 583631,
+      "word": "曝柠萌影视怕剧本写完檀健次不演",
+      "onboard_time": 1775477481,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 753241,
@@ -75,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 592067,
+      "num": 148916,
+      "word": "百词斩把忮忌加上了",
+      "onboard_time": 1775476822,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 550232,
       "num": 154619,
       "word": "女主持人也得乘风破浪吗",
@@ -89,6 +105,14 @@
       "onboard_time": 1775440760,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525951,
+      "num": 1084152,
+      "word": "猎罪图鉴",
+      "onboard_time": 1775470640,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 524163,
@@ -139,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460893,
-      "num": 801835,
-      "word": "猎罪图鉴",
-      "onboard_time": 1775470640,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452728,
       "num": 153855,
       "word": "时代峰峻的销冠都在这了",
@@ -161,6 +177,14 @@
       "onboard_time": 1775398886,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427927,
+      "num": 384453,
+      "word": "一世鹰名毁于伊弹",
+      "onboard_time": 1775474540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 424121,
@@ -227,14 +251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 384453,
-      "num": 384453,
-      "word": "一世鹰名毁于伊弹",
-      "onboard_time": 1775474540,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 376271,
       "num": 1039026,
       "word": "郭艾伦被诈骗近千万",
@@ -281,6 +297,14 @@
       "onboard_time": 1775448741,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353619,
+      "num": 125180,
+      "word": "佟丽娅看朵朵饭撒的眼神",
+      "onboard_time": 1775477001,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 350856,
@@ -371,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276533,
+      "num": 204292,
+      "word": "贺思慕血洗二十四殿",
+      "onboard_time": 1775479160,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275552,
       "num": 275552,
       "word": "伊能静说还想再生一个",
@@ -401,6 +433,14 @@
       "onboard_time": 1775450423,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264921,
+      "num": 186828,
+      "word": "我竟然在看到礼物的一瞬间对比价格",
+      "onboard_time": 1775476582,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 259445,
@@ -643,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185020,
+      "num": 140473,
+      "word": "王楚钦回复许昕大脑处于宕机状态了",
+      "onboard_time": 1775475322,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180240,
       "num": 180240,
       "word": "男子用AI写歌仅版权赚了5位数",
@@ -737,6 +785,14 @@
       "onboard_time": 1775462002,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166386,
+      "num": 166386,
+      "word": "校园周边毒玩具泛滥",
+      "onboard_time": 1775478140,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 165115,
@@ -851,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135883,
+      "num": 135883,
+      "word": "王濛 别让武将干这个",
+      "onboard_time": 1775481263,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134634,
       "num": 134634,
       "word": "被收养的小猫看见妈妈还在流浪",
@@ -873,6 +937,14 @@
       "onboard_time": 1775405423,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132348,
+      "num": 124993,
+      "word": "男子故意绊服务员面汤洒顾客身上",
+      "onboard_time": 1775480482,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132326,
@@ -905,6 +977,14 @@
       "onboard_time": 1775475381,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126931,
+      "num": 126931,
+      "word": "安崎选人",
+      "onboard_time": 1775480541,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 125975,
@@ -987,6 +1067,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119613,
+      "num": 119613,
+      "word": "特别讨厌食堂的标语",
+      "onboard_time": 1775478501,
+      "rank": 23,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 119007,
+      "num": 119007,
+      "word": "徒弟说贺娇龙去世时才40公斤",
+      "onboard_time": 1775479701,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119001,
       "num": 119001,
       "word": "陈赫女儿是鹿晗干女儿",
@@ -1009,14 +1105,6 @@
       "onboard_time": 1775455341,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113873,
-      "num": 113873,
-      "word": "王楚钦回复许昕大脑处于宕机状态了",
-      "onboard_time": 1775475322,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 113273,
@@ -1113,14 +1201,6 @@
       "onboard_time": 1775462121,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106131,
-      "num": 99240,
-      "word": "我竟然在看到礼物的一瞬间对比价格",
-      "onboard_time": 1775476582,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 105565,
@@ -1387,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88145,
-      "num": 88145,
-      "word": "佟丽娅看朵朵饭撒的眼神",
-      "onboard_time": 1775477001,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86750,
       "num": 86750,
       "word": "者来女喊乌兰图雅妈妈",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1775466921,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84440,
+      "num": 84440,
+      "word": "家事法庭",
+      "onboard_time": 1775479160,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 84141,
@@ -1731,20 +1811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71934,
-      "num": 71934,
-      "word": "百词斩把忮忌加上了",
-      "onboard_time": 1775476822,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 71857,
       "num": 71857,
       "word": "赵心童赛前有和王楚钦聊天",
       "onboard_time": 1775444180,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70822,
+      "num": 70822,
+      "word": "蔡徐坤演唱会中场休息不到30秒",
+      "onboard_time": 1775478021,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 70551,
@@ -1777,6 +1857,14 @@
       "onboard_time": 1775456601,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69186,
+      "num": 69186,
+      "word": "刘宇直播",
+      "onboard_time": 1775481082,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 69180,
@@ -1883,6 +1971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66999,
+      "num": 66999,
+      "word": "李心洁情商",
+      "onboard_time": 1775480722,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 66979,
+      "num": 66979,
+      "word": "莫氏鸡煲老板爆火前vs爆火后",
+      "onboard_time": 1775479461,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64736,
       "num": 64736,
       "word": "无法上牌的布加迪威航竟拍出1305万",
@@ -1897,6 +2001,14 @@
       "onboard_time": 1775463561,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63694,
+      "num": 63694,
+      "word": "北海公园海棠花瀑美到窒息",
+      "onboard_time": 1775481860,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63679,
@@ -1915,12 +2027,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63143,
+      "num": 63143,
+      "word": "BLG赛后聚餐",
+      "onboard_time": 1775481141,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63028,
       "num": 112864,
       "word": "北大医学部最小的大体老师仅29天",
       "onboard_time": 1775432720,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62987,
+      "num": 62987,
+      "word": "郑钦文世界排名下滑至第37",
+      "onboard_time": 1775480722,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 62754,
@@ -1953,6 +2081,14 @@
       "onboard_time": 1775463201,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60719,
+      "num": 60719,
+      "word": "山东男篮vs广东男篮",
+      "onboard_time": 1775481381,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 60316,
@@ -2033,6 +2169,14 @@
       "onboard_time": 1775464222,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57317,
+      "num": 57317,
+      "word": "多位艺人工作室发布短剧侵权声明",
+      "onboard_time": 1775481441,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57254,
@@ -2331,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29656,
+      "num": 65162,
+      "word": "保姆盗窃雇主80万奢侈品获利19万",
+      "onboard_time": 1775480541,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29436,
       "num": 62803,
       "word": "很难不被鞠婧祎萌到",
@@ -2377,6 +2529,14 @@
       "onboard_time": 1775415795,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21445,
+      "num": 610775,
+      "word": "解锁神二十一乘组最新工作周记",
+      "onboard_time": 1775479941,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21155,
@@ -2433,6 +2593,14 @@
       "onboard_time": 1775415555,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18252,
+      "num": 64096,
+      "word": "太平年里赛足球吴越风采看嘉兴",
+      "onboard_time": 1775477481,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16227,
