@@ -1,0 +1,410 @@
+{
+  "runTime": 1775468933711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660575,
+        "num": 1105692,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509257,
+        "num": 799612,
+        "word": "上坟发现墓碑被贴欠费通知单",
+        "onboard_time": 1775463682,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63547,
+        "num": 640646,
+        "word": "2030年的中国什么样",
+        "onboard_time": 1775463561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310428,
+        "num": 310428,
+        "word": "王楚钦晒世界杯大合照",
+        "onboard_time": 1775466142,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274166,
+        "num": 274166,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268126,
+        "num": 268126,
+        "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
+        "onboard_time": 1775464700,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217226,
+        "num": 217226,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192327,
+        "num": 192327,
+        "word": "洗衣液是需要反应时间的",
+        "onboard_time": 1775458341,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 166420,
+        "num": 166420,
+        "word": "当租到烟民退租的房",
+        "onboard_time": 1775462002,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52340,
+        "num": 165315,
+        "word": "湖南永州一交通事故致3死3伤",
+        "onboard_time": 1775467820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941602,
+        "num": 160335,
+        "word": "特朗普发文飙脏话",
+        "onboard_time": 1775467461,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 753241,
+        "num": 152141,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389024,
+        "num": 145332,
+        "word": "金价",
+        "onboard_time": 1775463020,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218682,
+        "num": 141830,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 177530,
+        "num": 137974,
+        "word": "王濛练心愿便利贴要疯了",
+        "onboard_time": 1775456843,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134634,
+        "num": 134634,
+        "word": "被收养的小猫看见妈妈还在流浪",
+        "onboard_time": 1775462602,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140440,
+        "num": 134088,
+        "word": "唐艺昕李小冉都被对方的美貌迷住了",
+        "onboard_time": 1775465960,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127169,
+        "num": 127169,
+        "word": "iPhone18Pro配色前瞻",
+        "onboard_time": 1775468300,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75414,
+        "num": 126985,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86531,
+        "num": 115742,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267852,
+        "num": 112217,
+        "word": "朵朵和陈思诚共用一张脸",
+        "onboard_time": 1775464402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238152,
+        "num": 104233,
+        "word": "郭敬明又拍出了鞠婧祎的神级回首",
+        "onboard_time": 1775465421,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98345,
+        "num": 98345,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215698,
+        "num": 95508,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192376,
+        "num": 95328,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91612,
+        "num": 91612,
+        "word": "伊朗革命卫队情报机构负责人身亡",
+        "onboard_time": 1775464402,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95295,
+        "num": 91280,
+        "word": "李小冉想补偿唐艺昕",
+        "onboard_time": 1775462002,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89208,
+        "num": 89208,
+        "word": "11岁男孩偷拿钥匙开车出车位就撞了",
+        "onboard_time": 1775465301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90672,
+        "num": 89084,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88916,
+        "num": 88916,
+        "word": "青岛已经进入肖战频道",
+        "onboard_time": 1775464700,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238869,
+        "num": 88838,
+        "word": "张雪回应陈光标捐款1000万",
+        "onboard_time": 1775468061,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95003,
+        "num": 88784,
+        "word": "39岁离异姑姑独自带大5个孩子",
+        "onboard_time": 1775468183,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88718,
+        "num": 88718,
+        "word": "管晨辰说天天都能见到汪顺",
+        "onboard_time": 1775467580,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85475,
+        "num": 85475,
+        "word": "张月队完颜团",
+        "onboard_time": 1775466921,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83283,
+        "num": 83283,
+        "word": "以色列本土不安全了",
+        "onboard_time": 1775463561,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 82392,
+        "num": 82392,
+        "word": "红果短剧公告",
+        "onboard_time": 1775463741,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81641,
+        "num": 81641,
+        "word": "Angelababy 年上姐姐会疼人",
+        "onboard_time": 1775464342,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77947,
+        "num": 77947,
+        "word": "伊朗逼美国做选择",
+        "onboard_time": 1775456540,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76478,
+        "num": 76478,
+        "word": "接下来几个月都有假",
+        "onboard_time": 1775463561,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72332,
+        "num": 72332,
+        "word": "中国新能源车出口彻底爆发",
+        "onboard_time": 1775466022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64736,
+        "num": 64736,
+        "word": "无法上牌的布加迪威航竟拍出1305万",
+        "onboard_time": 1775466081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63271,
+        "num": 63271,
+        "word": "汪顺说管晨辰长高了",
+        "onboard_time": 1775467941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62827,
+        "num": 62827,
+        "word": "正午阳光首部正统武侠剧雨霖铃",
+        "onboard_time": 1775449041,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31233,
+        "num": 62146,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61507,
+        "num": 61507,
+        "word": "杨幂宋祖儿周也王楚然 全女穿越",
+        "onboard_time": 1775461101,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59403,
+        "num": 59403,
+        "word": "这么毛绒绒的小狗居然有两只",
+        "onboard_time": 1775468541,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58699,
+        "num": 58699,
+        "word": "伊朗5名教授60多名大学生遭袭身亡",
+        "onboard_time": 1775448981,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58019,
+        "num": 58019,
+        "word": "周杰伦来杭州不喝奶茶喝龙井",
+        "onboard_time": 1775468601,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57819,
+        "num": 57819,
+        "word": "地球online评分",
+        "onboard_time": 1775464222,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57254,
+        "num": 57254,
+        "word": "阚清子乘风一公队长",
+        "onboard_time": 1775464402,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}
