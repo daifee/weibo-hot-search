@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775455468061,
+  "endTime": 1775456228939,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 348202,
+      "num": 758372,
+      "word": "女子住酒店发现装饰画后是门",
+      "onboard_time": 1775446641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345923,
       "num": 1055347,
       "word": "张雪回应一个子儿没有言论",
@@ -585,14 +593,6 @@
       "onboard_time": 1775313747,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331717,
-      "num": 758372,
-      "word": "女子住酒店发现装饰画后是门",
-      "onboard_time": 1775446641,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327597,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235911,
+      "num": 235911,
+      "word": "莫氏鸡煲爆火后的离谱现状",
+      "onboard_time": 1775453062,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234309,
       "num": 234309,
       "word": "松岛辉空摔拍",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1775372241,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216912,
+      "num": 168108,
+      "word": "温峥嵘爆灯被拒",
+      "onboard_time": 1775453841,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 214467,
@@ -1163,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199450,
-      "num": 199450,
-      "word": "莫氏鸡煲爆火后的离谱现状",
-      "onboard_time": 1775453062,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "年轻人扫墓主打一个祭品硬核",
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189095,
+      "num": 161987,
+      "word": "王濛真要唱心愿便利贴",
+      "onboard_time": 1775455280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188887,
       "num": 188887,
       "word": "张月陈瑶双向奔赴",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1775430196,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179611,
+      "num": 179611,
+      "word": "王楚钦夺冠彻底撕碎依赖队友标签",
+      "onboard_time": 1775453960,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 178180,
@@ -1497,14 +1521,6 @@
       "onboard_time": 1775314044,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159695,
-      "num": 159695,
-      "word": "温峥嵘爆灯被拒",
-      "onboard_time": 1775453841,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 159425,
@@ -1915,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125405,
+      "num": 120373,
+      "word": "张月陈瑶 头发是彼此衣服的颜色",
+      "onboard_time": 1775454022,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124278,
       "num": 98483,
       "word": "周杰伦演唱会大屏上的昆凌",
@@ -1995,12 +2019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120909,
-      "num": 120909,
-      "word": "王楚钦夺冠彻底撕碎依赖队友标签",
-      "onboard_time": 1775453960,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 120690,
+      "num": 120690,
+      "word": "岳云鹏已经瘦了8斤了",
+      "onboard_time": 1775453721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 120679,
@@ -2027,28 +2051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119658,
-      "num": 119658,
-      "word": "岳云鹏已经瘦了8斤了",
-      "onboard_time": 1775453721,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119188,
       "num": 119188,
       "word": "小俞状态",
       "onboard_time": 1775398106,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119055,
-      "num": 119055,
-      "word": "张月陈瑶 头发是彼此衣服的颜色",
-      "onboard_time": 1775454022,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 118435,
@@ -2091,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114303,
+      "num": 114303,
+      "word": "晴天曝Kanavi耍大牌",
+      "onboard_time": 1775455341,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112806,
       "num": 112806,
       "word": "NINEPERCENT出道八周年",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1775443881,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111081,
-      "num": 104079,
-      "word": "王濛真要唱心愿便利贴",
-      "onboard_time": 1775455280,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 110718,
@@ -2209,14 +2217,6 @@
       "onboard_time": 1775358680,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107366,
-      "num": 107366,
-      "word": "晴天曝Kanavi耍大牌",
-      "onboard_time": 1775455341,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 107292,
@@ -2555,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93926,
+      "num": 88566,
+      "word": "贺娇龙摄影师还没走出来",
+      "onboard_time": 1775455341,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93887,
       "num": 93887,
       "word": "小红马听到肖战的名字就会有反应",
@@ -2795,20 +2803,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85519,
+      "num": 85279,
+      "word": "乘风直播风味录播",
+      "onboard_time": 1775450181,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85159,
       "num": 85159,
       "word": "伊朗称美试图杀害被击落美战机飞行员",
       "onboard_time": 1775373083,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84931,
-      "num": 84931,
-      "word": "乘风直播风味录播",
-      "onboard_time": 1775450181,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 84771,
@@ -2904,6 +2912,14 @@
       "word": "松岛辉空并非首次情绪失控",
       "onboard_time": 1775383102,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82865,
+      "num": 82865,
+      "word": "申京绝杀勇士",
+      "onboard_time": 1775455280,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3147,14 +3163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 77215,
-      "num": 86206,
-      "word": "贺娇龙摄影师还没走出来",
-      "onboard_time": 1775455341,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77109,
       "num": 77109,
       "word": "何卓佳大合影一个没蹲住",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1775355982,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75044,
+      "num": 75044,
+      "word": "俄一男子与列车员争执将其推下铁轨",
+      "onboard_time": 1775455642,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74885,
@@ -3419,12 +3435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68878,
-      "num": 68878,
-      "word": "申京绝杀勇士",
-      "onboard_time": 1775455280,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 68881,
+      "num": 68881,
+      "word": "小时候睡觉前都要关机",
+      "onboard_time": 1775456001,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 68792,
@@ -3537,6 +3553,14 @@
       "onboard_time": 1775381301,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 65238,
+      "num": 65238,
+      "word": "媒体人称郭艾伦被骗似有隐情",
+      "onboard_time": 1775455521,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 65026,
@@ -4308,7 +4332,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 607899,
+      "num": 631573,
       "word": "4月草木中都是思念",
       "onboard_time": 1775443041,
       "rank": 2,

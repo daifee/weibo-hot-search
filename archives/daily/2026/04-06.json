@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775455468061,
+  "endTime": 1775456228939,
   "band_list": [
     {
       "raw_hot": 891971,
@@ -139,20 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348202,
+      "num": 758372,
+      "word": "女子住酒店发现装饰画后是门",
+      "onboard_time": 1775446641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335797,
       "num": 768977,
       "word": "王楚钦问孙颖莎你的奖杯帽呢",
       "onboard_time": 1775432778,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 331717,
-      "num": 758372,
-      "word": "女子住酒店发现装饰画后是门",
-      "onboard_time": 1775446641,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327597,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235911,
+      "num": 235911,
+      "word": "莫氏鸡煲爆火后的离谱现状",
+      "onboard_time": 1775453062,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232808,
       "num": 138207,
       "word": "金银再下跌",
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216912,
+      "num": 168108,
+      "word": "温峥嵘爆灯被拒",
+      "onboard_time": 1775453841,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210921,
       "num": 210921,
       "word": "网传浪姐7一公选曲歌单",
@@ -296,14 +312,6 @@
       "word": "妈妈不知儿子去世跟AI儿子聊了1年",
       "onboard_time": 1775388803,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199450,
-      "num": 199450,
-      "word": "莫氏鸡煲爆火后的离谱现状",
-      "onboard_time": 1775453062,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189095,
+      "num": 161987,
+      "word": "王濛真要唱心愿便利贴",
+      "onboard_time": 1775455280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188887,
       "num": 188887,
       "word": "张月陈瑶双向奔赴",
@@ -361,6 +377,14 @@
       "onboard_time": 1775430196,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179611,
+      "num": 179611,
+      "word": "王楚钦夺冠彻底撕碎依赖队友标签",
+      "onboard_time": 1775453960,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 178180,
@@ -435,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159695,
-      "num": 159695,
-      "word": "温峥嵘爆灯被拒",
-      "onboard_time": 1775453841,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157961,
       "num": 157961,
       "word": "博物馆回应曹操墓前摆满布洛芬",
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125405,
+      "num": 120373,
+      "word": "张月陈瑶 头发是彼此衣服的颜色",
+      "onboard_time": 1775454022,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124636,
       "num": 124636,
       "word": "孙颖莎冠军",
@@ -531,12 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120909,
-      "num": 120909,
-      "word": "王楚钦夺冠彻底撕碎依赖队友标签",
-      "onboard_time": 1775453960,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 120690,
+      "num": 120690,
+      "word": "岳云鹏已经瘦了8斤了",
+      "onboard_time": 1775453721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 120310,
@@ -547,28 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119658,
-      "num": 119658,
-      "word": "岳云鹏已经瘦了8斤了",
-      "onboard_time": 1775453721,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 119055,
-      "num": 119055,
-      "word": "张月陈瑶 头发是彼此衣服的颜色",
-      "onboard_time": 1775454022,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119001,
       "num": 119001,
       "word": "陈赫女儿是鹿晗干女儿",
       "onboard_time": 1775390543,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114303,
+      "num": 114303,
+      "word": "晴天曝Kanavi耍大牌",
+      "onboard_time": 1775455341,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 113273,
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111081,
-      "num": 104079,
-      "word": "王濛真要唱心愿便利贴",
-      "onboard_time": 1775455280,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110718,
       "num": 110718,
       "word": "妻子被骗43万丈夫帮还后两人闹离婚",
@@ -657,14 +665,6 @@
       "onboard_time": 1775442620,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107366,
-      "num": 107366,
-      "word": "晴天曝Kanavi耍大牌",
-      "onboard_time": 1775455341,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 105565,
@@ -771,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93926,
+      "num": 88566,
+      "word": "贺娇龙摄影师还没走出来",
+      "onboard_time": 1775455341,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93887,
       "num": 93887,
       "word": "小红马听到肖战的名字就会有反应",
@@ -867,8 +875,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84931,
-      "num": 84931,
+      "raw_hot": 85519,
+      "num": 85279,
       "word": "乘风直播风味录播",
       "onboard_time": 1775450181,
       "rank": 44,
@@ -897,6 +905,14 @@
       "onboard_time": 1775432838,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82865,
+      "num": 82865,
+      "word": "申京绝杀勇士",
+      "onboard_time": 1775455280,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82352,
@@ -987,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77215,
-      "num": 86206,
-      "word": "贺娇龙摄影师还没走出来",
-      "onboard_time": 1775455341,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77109,
       "num": 77109,
       "word": "何卓佳大合影一个没蹲住",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1775445801,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75044,
+      "num": 75044,
+      "word": "俄一男子与列车员争执将其推下铁轨",
+      "onboard_time": 1775455642,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74912,
@@ -1099,12 +1115,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68878,
-      "num": 68878,
-      "word": "申京绝杀勇士",
-      "onboard_time": 1775455280,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 68881,
+      "num": 68881,
+      "word": "小时候睡觉前都要关机",
+      "onboard_time": 1775456001,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 68792,
@@ -1151,6 +1167,14 @@
       "num": 69415,
       "word": "老詹单核带队",
       "onboard_time": 1775445081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65238,
+      "num": 65238,
+      "word": "媒体人称郭艾伦被骗似有隐情",
+      "onboard_time": 1775455521,
       "rank": 46,
       "category": "体育"
     },
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 607899,
+      "num": 631573,
       "word": "4月草木中都是思念",
       "onboard_time": 1775443041,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1775456228939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 427789,
+        "num": 1068446,
+        "word": "正午阳光首部正统武侠剧雨霖铃",
+        "onboard_time": 1775449041,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348202,
+        "num": 753745,
+        "word": "女子住酒店发现装饰画后是门",
+        "onboard_time": 1775446641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19607,
+        "num": 631573,
+        "word": "4月草木中都是思念",
+        "onboard_time": 1775443041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347342,
+        "num": 434601,
+        "word": "李小冉拒绝万千惠",
+        "onboard_time": 1775451621,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242578,
+        "num": 427214,
+        "word": "伊朗5名教授60多名大学生遭袭身亡",
+        "onboard_time": 1775448981,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422433,
+        "num": 422433,
+        "word": "两个魔丸生了个灵珠",
+        "onboard_time": 1775449940,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235911,
+        "num": 235911,
+        "word": "莫氏鸡煲爆火后的离谱现状",
+        "onboard_time": 1775453062,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231766,
+        "num": 231766,
+        "word": "伊能静说还想再生一个",
+        "onboard_time": 1775451382,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187737,
+        "num": 187737,
+        "word": "知情人透露郭艾伦被骗细节",
+        "onboard_time": 1775444421,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179611,
+        "num": 179611,
+        "word": "王楚钦夺冠彻底撕碎依赖队友标签",
+        "onboard_time": 1775453960,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590204,
+        "num": 179162,
+        "word": "TEN李永钦不续约",
+        "onboard_time": 1775452882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393578,
+        "num": 175822,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 318616,
+        "num": 172496,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216912,
+        "num": 168108,
+        "word": "温峥嵘爆灯被拒",
+        "onboard_time": 1775453841,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167792,
+        "num": 167792,
+        "word": "被酒店标记成水牛了",
+        "onboard_time": 1775447121,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211245,
+        "num": 162088,
+        "word": "SuperJunior致歉",
+        "onboard_time": 1775450423,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189095,
+        "num": 161987,
+        "word": "王濛真要唱心愿便利贴",
+        "onboard_time": 1775455280,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155954,
+        "num": 155954,
+        "word": "机票高铁双双涨价",
+        "onboard_time": 1775446821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151964,
+        "num": 151964,
+        "word": "伊朗称或将封锁曼德海峡",
+        "onboard_time": 1775449281,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140174,
+        "num": 140174,
+        "word": "王楚钦点赞任达华",
+        "onboard_time": 1775452282,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163266,
+        "num": 139292,
+        "word": "张月陈瑶双向奔赴",
+        "onboard_time": 1775451742,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159378,
+        "num": 134834,
+        "word": "赵丽颖高月香的舞蹈训练图",
+        "onboard_time": 1775450241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130063,
+        "num": 130063,
+        "word": "王楚钦掌镜下的孙颖莎",
+        "onboard_time": 1775449880,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121795,
+        "num": 121795,
+        "word": "六旬老人花119万整容后觉得没效果",
+        "onboard_time": 1775440880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120690,
+        "num": 120690,
+        "word": "岳云鹏已经瘦了8斤了",
+        "onboard_time": 1775453721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125405,
+        "num": 120373,
+        "word": "张月陈瑶 头发是彼此衣服的颜色",
+        "onboard_time": 1775454022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114303,
+        "num": 114303,
+        "word": "晴天曝Kanavi耍大牌",
+        "onboard_time": 1775455341,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 110860,
+        "word": "微信宣布这项功能将全面停运",
+        "onboard_time": 1775450241,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100311,
+        "num": 100311,
+        "word": "Rookie和新女友一起逛街",
+        "onboard_time": 1775433078,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88594,
+        "num": 88594,
+        "word": "小红马听到肖战的名字就会有反应",
+        "onboard_time": 1775452701,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107776,
+        "num": 88584,
+        "word": "女士用衣服救了娘俩",
+        "onboard_time": 1775452042,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93926,
+        "num": 88566,
+        "word": "贺娇龙摄影师还没走出来",
+        "onboard_time": 1775455341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88547,
+        "num": 88547,
+        "word": "孙颖莎夸照得真好看",
+        "onboard_time": 1775452882,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86288,
+        "num": 86288,
+        "word": "女主持人也得乘风破浪吗",
+        "onboard_time": 1775439380,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85429,
+        "num": 85429,
+        "word": "狗狗像端菜一样被端上来了",
+        "onboard_time": 1775448621,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85519,
+        "num": 85279,
+        "word": "乘风直播风味录播",
+        "onboard_time": 1775450181,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85118,
+        "num": 85118,
+        "word": "伊称特朗普的鲁莽正将美国拖入地狱",
+        "onboard_time": 1775438902,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82865,
+        "num": 82865,
+        "word": "申京绝杀勇士",
+        "onboard_time": 1775455280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80187,
+        "num": 80187,
+        "word": "阚清子 我把增高鞋垫拿出来",
+        "onboard_time": 1775453481,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78766,
+        "num": 78766,
+        "word": "妻子被骗43万丈夫帮还后两人闹离婚",
+        "onboard_time": 1775450901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78024,
+        "num": 78024,
+        "word": "偶遇张杰王源一起打高尔夫",
+        "onboard_time": 1775445980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75044,
+        "num": 75044,
+        "word": "俄一男子与列车员争执将其推下铁轨",
+        "onboard_time": 1775455642,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70931,
+        "num": 70931,
+        "word": "李马克泡泡",
+        "onboard_time": 1775441601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68881,
+        "num": 68881,
+        "word": "小时候睡觉前都要关机",
+        "onboard_time": 1775456001,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68604,
+        "num": 68604,
+        "word": "NINEPERCENT出道八周年",
+        "onboard_time": 1775439862,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68297,
+        "num": 68297,
+        "word": "这是浪姐还是非诚勿扰",
+        "onboard_time": 1775452221,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65238,
+        "num": 65238,
+        "word": "媒体人称郭艾伦被骗似有隐情",
+        "onboard_time": 1775455521,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66929,
+        "num": 65149,
+        "word": "者来女喊乌兰图雅妈妈",
+        "onboard_time": 1775453721,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64895,
+        "num": 64895,
+        "word": "什么村子啊又有王俊凯又有易烊千玺",
+        "onboard_time": 1775451020,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63627,
+        "num": 63627,
+        "word": "金银再下跌",
+        "onboard_time": 1775439501,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河记得你#"
+    }
+  }
+}
