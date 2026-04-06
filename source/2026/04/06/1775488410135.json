@@ -1,0 +1,410 @@
+{
+  "runTime": 1775488410135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 368167,
+        "num": 1058906,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313734,
+        "num": 756752,
+        "word": "今年白玉兰视帝入围预测",
+        "onboard_time": 1775484562,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17690,
+        "num": 631440,
+        "word": "解锁神二十一乘组最新工作周记",
+        "onboard_time": 1775479941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1489997,
+        "num": 617355,
+        "word": "安徽6岁失联女童确认遇害",
+        "onboard_time": 1775484984,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293534,
+        "num": 293534,
+        "word": "老夫妻近3万买戒指后被店家跟踪",
+        "onboard_time": 1775484442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434836,
+        "num": 287469,
+        "word": "14枚导弹命中以色列人口密集区",
+        "onboard_time": 1775483183,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271997,
+        "num": 271997,
+        "word": "曝柠萌影视怕剧本写完檀健次不演",
+        "onboard_time": 1775477481,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178676,
+        "num": 178676,
+        "word": "11岁女孩患肝衰竭和白血病双眼变绿",
+        "onboard_time": 1775485703,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176564,
+        "num": 176564,
+        "word": "许昕说我会回国家队",
+        "onboard_time": 1775482462,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162956,
+        "num": 162956,
+        "word": "易中天获奖励20万元",
+        "onboard_time": 1775483122,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 885893,
+        "num": 162690,
+        "word": "大学生高铁怒吼熊孩子到底是谁错了",
+        "onboard_time": 1775483663,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374608,
+        "num": 162658,
+        "word": "王濛 别让武将干这个",
+        "onboard_time": 1775481263,
+        "rank": 11,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 323781,
+        "num": 162285,
+        "word": "文章和女儿合照被说像明星",
+        "onboard_time": 1775483481,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161478,
+        "num": 161478,
+        "word": "侯宇浪姐直播睡觉",
+        "onboard_time": 1775483542,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131920,
+        "num": 131920,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162419,
+        "num": 131156,
+        "word": "被大冰断家务事的三观给征服",
+        "onboard_time": 1775487024,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152022,
+        "num": 130899,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130113,
+        "num": 130113,
+        "word": "父亲问儿子要2000元投资款被拒",
+        "onboard_time": 1775482462,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146280,
+        "num": 125712,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52208,
+        "num": 121610,
+        "word": "官方通报一饭店宠物狗上桌就餐",
+        "onboard_time": 1775487503,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143889,
+        "num": 111144,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132780,
+        "num": 105523,
+        "word": "贺思慕血洗二十四殿",
+        "onboard_time": 1775479160,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103119,
+        "num": 103119,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124453,
+        "num": 102341,
+        "word": "i人佟丽娅生了个e人儿子",
+        "onboard_time": 1775482883,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100958,
+        "num": 100958,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87165,
+        "num": 87165,
+        "word": "再上18天班休5天",
+        "onboard_time": 1775486784,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86116,
+        "num": 86116,
+        "word": "女孩趁妈妈吹头发横穿马路被车撞倒",
+        "onboard_time": 1775483962,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83247,
+        "num": 83247,
+        "word": "伊朗打击美军的黎波里号两栖攻击舰",
+        "onboard_time": 1775482642,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81964,
+        "num": 81964,
+        "word": "张婧仪方AI短剧侵权维权",
+        "onboard_time": 1775486483,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79865,
+        "num": 79865,
+        "word": "尤长靖直播",
+        "onboard_time": 1775487503,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181098,
+        "num": 79802,
+        "word": "伊朗的棋越下越大",
+        "onboard_time": 1775487322,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108298,
+        "num": 79405,
+        "word": "中国男生在宿舍做的风铃在iG上爆火",
+        "onboard_time": 1775485043,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 93825,
+        "num": 79264,
+        "word": "黄金强势涨破4700美元",
+        "onboard_time": 1775487803,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78875,
+        "num": 78875,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77953,
+        "num": 77953,
+        "word": "陈宝仓潜伏身份证明首次公开",
+        "onboard_time": 1775486363,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77924,
+        "num": 77924,
+        "word": "男子故意绊服务员面汤洒顾客身上",
+        "onboard_time": 1775480482,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75645,
+        "num": 75645,
+        "word": "佟丽娅看朵朵饭撒的眼神",
+        "onboard_time": 1775477001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71635,
+        "num": 71635,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71280,
+        "num": 71280,
+        "word": "伊朗称美营救行动或为窃取浓缩铀",
+        "onboard_time": 1775485822,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69844,
+        "num": 69844,
+        "word": "徒弟说贺娇龙去世时才40公斤",
+        "onboard_time": 1775479701,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69155,
+        "num": 69155,
+        "word": "王楚钦回复许昕大脑处于宕机状态了",
+        "onboard_time": 1775475322,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67096,
+        "num": 67096,
+        "word": "月鳞绮纪角色cp",
+        "onboard_time": 1775487983,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64853,
+        "num": 64853,
+        "word": "热巴贺思慕腾讯首个破2亿女性角色",
+        "onboard_time": 1775487383,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64246,
+        "num": 64246,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63097,
+        "num": 63097,
+        "word": "猫爪开门可爱瞬间",
+        "onboard_time": 1775488042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63017,
+        "num": 63017,
+        "word": "安崎轮空",
+        "onboard_time": 1775486541,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61793,
+        "num": 61793,
+        "word": "美军长途奔袭伊朗靠兴奋剂提神",
+        "onboard_time": 1775485103,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61719,
+        "num": 61719,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60903,
+        "num": 60903,
+        "word": "我竟然在看到礼物的一瞬间对比价格",
+        "onboard_time": 1775476582,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60471,
+        "num": 60471,
+        "word": "大批游客徒步南太行后逛胖东来",
+        "onboard_time": 1775486303,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#天地英雄气千秋尚凛然#"
+    }
+  }
+}

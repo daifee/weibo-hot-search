@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775487477417,
+  "endTime": 1775488410135,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1453020,
-      "num": 515676,
+      "raw_hot": 1489997,
+      "num": 617355,
       "word": "安徽6岁失联女童确认遇害",
       "onboard_time": 1775484984,
       "rank": 3,
@@ -153,6 +153,14 @@
       "onboard_time": 1775440880,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 885893,
+      "num": 181841,
+      "word": "大学生高铁怒吼熊孩子到底是谁错了",
+      "onboard_time": 1775483663,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 870051,
@@ -265,14 +273,6 @@
       "onboard_time": 1775319260,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 650103,
-      "num": 181841,
-      "word": "大学生高铁怒吼熊孩子到底是谁错了",
-      "onboard_time": 1775483663,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 631665,
@@ -1739,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181098,
+      "num": 86712,
+      "word": "伊朗的棋越下越大",
+      "onboard_time": 1775487322,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180240,
       "num": 180240,
       "word": "男子用AI写歌仅版权赚了5位数",
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 169492,
-      "num": 142717,
+      "num": 161478,
       "word": "侯宇浪姐直播睡觉",
       "onboard_time": 1775483542,
       "rank": 22,
@@ -1947,12 +1955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162956,
+      "num": 162956,
+      "word": "易中天获奖励20万元",
+      "onboard_time": 1775483122,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 162797,
       "num": 162797,
       "word": "游客滞留玉龙雪山山顶致呕吐失温",
       "onboard_time": 1775397564,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162419,
+      "num": 131156,
+      "word": "被大冰断家务事的三观给征服",
+      "onboard_time": 1775487024,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 162089,
@@ -2683,14 +2707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117343,
-      "num": 109960,
-      "word": "易中天获奖励20万元",
-      "onboard_time": 1775483122,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 116877,
       "num": 116877,
       "word": "人民日报评多人带货优思益翻车",
@@ -2899,14 +2915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106755,
-      "num": 86712,
-      "word": "伊朗的棋越下越大",
-      "onboard_time": 1775487322,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106454,
       "num": 106454,
       "word": "松岛辉空年仅18岁",
@@ -3049,14 +3057,6 @@
       "onboard_time": 1775462181,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101561,
-      "num": 86706,
-      "word": "被大冰断家务事的三观给征服",
-      "onboard_time": 1775487024,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 101471,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1775360539,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93825,
+      "num": 79264,
+      "word": "黄金强势涨破4700美元",
+      "onboard_time": 1775487803,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 93617,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87165,
+      "num": 87165,
+      "word": "再上18天班休5天",
+      "onboard_time": 1775486784,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86750,
@@ -3859,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79865,
+      "num": 79865,
+      "word": "尤长靖直播",
+      "onboard_time": 1775487503,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79721,
       "num": 79721,
       "word": "王楚钦将质疑碎片拼成王冠",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1775447181,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77953,
+      "num": 185281,
+      "word": "陈宝仓潜伏身份证明首次公开",
+      "onboard_time": 1775486363,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77885,
@@ -4073,14 +4105,6 @@
       "onboard_time": 1775318002,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76518,
-      "num": 76518,
-      "word": "再上18天班休5天",
-      "onboard_time": 1775486784,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76478,
@@ -4515,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67096,
+      "num": 67096,
+      "word": "月鳞绮纪角色cp",
+      "onboard_time": 1775487983,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66999,
       "num": 66999,
       "word": "李心洁情商",
@@ -4569,6 +4601,14 @@
       "onboard_time": 1775374640,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 64853,
+      "num": 64853,
+      "word": "热巴贺思慕腾讯首个破2亿女性角色",
+      "onboard_time": 1775487383,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 64736,
@@ -4643,14 +4683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63689,
-      "num": 63689,
-      "word": "热巴贺思慕腾讯首个破2亿女性角色",
-      "onboard_time": 1775487383,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63631,
       "num": 63631,
       "word": "广西男子清明要拜十几座山",
@@ -4689,6 +4721,14 @@
       "onboard_time": 1775481141,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63097,
+      "num": 63097,
+      "word": "猫爪开门可爱瞬间",
+      "onboard_time": 1775488042,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 63028,
@@ -4841,6 +4881,14 @@
       "onboard_time": 1775374699,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60471,
+      "num": 141078,
+      "word": "大批游客徒步南太行后逛胖东来",
+      "onboard_time": 1775486303,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60459,
@@ -5001,14 +5049,6 @@
       "onboard_time": 1775464222,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57319,
-      "num": 141078,
-      "word": "大批游客徒步南太行后逛胖东来",
-      "onboard_time": 1775486303,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57254,
@@ -5225,6 +5265,14 @@
       "onboard_time": 1775382142,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52208,
+      "num": 121610,
+      "word": "官方通报一饭店宠物狗上桌就餐",
+      "onboard_time": 1775487503,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 51991,
@@ -5483,14 +5531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38941,
-      "num": 185281,
-      "word": "陈宝仓潜伏身份证明首次公开",
-      "onboard_time": 1775486363,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38346,
       "num": 32332,
       "word": "伊朗保有数千架无人机",
@@ -5708,7 +5748,7 @@
     },
     {
       "raw_hot": 21445,
-      "num": 625857,
+      "num": 631440,
       "word": "解锁神二十一乘组最新工作周记",
       "onboard_time": 1775479941,
       "rank": 2,
