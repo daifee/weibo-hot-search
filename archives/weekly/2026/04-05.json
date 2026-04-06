@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775504231416,
+  "endTime": 1775508380445,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -6067,12 +6067,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15333,
+      "num": 15333,
+      "word": "我当小学老师就许可这样",
+      "onboard_time": 1775504594,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14682,
+      "num": 14682,
+      "word": "人民日报谈明星带货翻车",
+      "onboard_time": 1775507774,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14545,
       "num": 20772,
       "word": "你会选择用AI复活逝去的亲人吗",
       "onboard_time": 1775414535,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 13836,
+      "num": 16190,
+      "word": "伊朗发动第97波打击",
+      "onboard_time": 1775493019,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12697,
@@ -6089,14 +6113,6 @@
       "onboard_time": 1775358979,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12415,
-      "num": 16190,
-      "word": "伊朗发动第97波打击",
-      "onboard_time": 1775493019,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10426,

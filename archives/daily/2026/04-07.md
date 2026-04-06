@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/07 00:09:11 ~ 2026/04/07 03:37:11
+本榜单时间：2026/04/07 00:09:11 ~ 2026/04/07 04:46:20
 </p>
 </blockquote>
 <p>
@@ -417,8 +417,20 @@ i人佟丽娅生了个e人儿子（热度：36557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BD%93%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E5%B0%B1%E8%AE%B8%E5%8F%AF%E8%BF%99%E6%A0%B7%23" target="weibo">
+我当小学老师就许可这样（热度：15333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
+人民日报谈明星带货翻车（热度：14682）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%AC%AC97%E6%B3%A2%E6%89%93%E5%87%BB%23" target="weibo">
-伊朗发动第97波打击（热度：12415）
+伊朗发动第97波打击（热度：13836）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775504231416,
+  "endTime": 1775508380445,
   "band_list": [
     {
       "raw_hot": 805454,
@@ -539,7 +539,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12415,
+      "raw_hot": 15333,
+      "num": 15333,
+      "word": "我当小学老师就许可这样",
+      "onboard_time": 1775504594,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14682,
+      "num": 14682,
+      "word": "人民日报谈明星带货翻车",
+      "onboard_time": 1775507774,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13836,
       "num": 16190,
       "word": "伊朗发动第97波打击",
       "onboard_time": 1775493019,
