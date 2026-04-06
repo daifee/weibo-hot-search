@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775476490298,
+  "endTime": 1775477173948,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -227,8 +227,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 683135,
-      "num": 145193,
+      "raw_hot": 696451,
+      "num": 158486,
       "word": "伊能静曝和秦昊结婚原因",
       "onboard_time": 1775474780,
       "rank": 24,
@@ -403,8 +403,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454835,
-      "num": 364787,
+      "raw_hot": 461974,
+      "num": 1073915,
+      "word": "莫氏鸡煲被传遭文旅施压开门营业",
+      "onboard_time": 1775473161,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460893,
+      "num": 801835,
       "word": "猎罪图鉴",
       "onboard_time": 1775470640,
       "rank": 5,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 452728,
-      "num": 140030,
+      "num": 153855,
       "word": "时代峰峻的销冠都在这了",
       "onboard_time": 1775469622,
       "rank": 26,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 415063,
-      "num": 348117,
+      "num": 353278,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1775472082,
       "rank": 6,
@@ -505,14 +513,6 @@
       "onboard_time": 1775468300,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 407708,
-      "num": 756431,
-      "word": "莫氏鸡煲被传遭文旅施压开门营业",
-      "onboard_time": 1775473161,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404902,
@@ -569,6 +569,14 @@
       "onboard_time": 1775355739,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384453,
+      "num": 384453,
+      "word": "一世鹰名毁于伊弹",
+      "onboard_time": 1775474540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 383520,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 350856,
-      "num": 139999,
+      "num": 146766,
       "word": "Angelababy家里摆满了粉丝的礼物",
       "onboard_time": 1775468061,
       "rank": 24,
@@ -1059,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245117,
-      "num": 373039,
-      "word": "一世鹰名毁于伊弹",
-      "onboard_time": 1775474540,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 239977,
       "num": 160230,
       "word": "李清明  清明节myday",
@@ -1148,7 +1148,7 @@
     },
     {
       "raw_hot": 230348,
-      "num": 139549,
+      "num": 140097,
       "word": "短发李一桐 芭比娃娃",
       "onboard_time": 1775469802,
       "rank": 27,
@@ -1260,7 +1260,7 @@
     },
     {
       "raw_hot": 215698,
-      "num": 95508,
+      "num": 101886,
       "word": "田曦薇素颜饭撒",
       "onboard_time": 1775464942,
       "rank": 23,
@@ -2164,7 +2164,7 @@
     },
     {
       "raw_hot": 134354,
-      "num": 111312,
+      "num": 115496,
       "word": "美宇航员太空中意外半裸出镜",
       "onboard_time": 1775473221,
       "rank": 30,
@@ -2185,6 +2185,14 @@
       "onboard_time": 1775405423,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132326,
+      "num": 132326,
+      "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+      "onboard_time": 1775475741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132105,
@@ -2252,7 +2260,7 @@
     },
     {
       "raw_hot": 127826,
-      "num": 91593,
+      "num": 99933,
       "word": "邱贻可恭喜孙颖莎三连冠",
       "onboard_time": 1775475381,
       "rank": 30,
@@ -2483,8 +2491,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116814,
-      "num": 116814,
+      "raw_hot": 116877,
+      "num": 116877,
       "word": "人民日报评多人带货优思益翻车",
       "onboard_time": 1775475201,
       "rank": 20,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1775455341,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113873,
+      "num": 113873,
+      "word": "王楚钦回复许昕大脑处于宕机状态了",
+      "onboard_time": 1775475322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112806,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1775392104,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106131,
+      "num": 99240,
+      "word": "我竟然在看到礼物的一瞬间对比价格",
+      "onboard_time": 1775476582,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 105701,
@@ -3003,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95010,
+      "num": 95010,
+      "word": "杜海涛开车接机沈梦辰",
+      "onboard_time": 1775471362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94846,
       "num": 94846,
       "word": "重庆吃轻轨名场面再上新",
@@ -3131,6 +3163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91192,
+      "num": 91192,
+      "word": "月鳞绮纪云合S加剧集",
+      "onboard_time": 1775474299,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91158,
       "num": 91158,
       "word": "马思纯锤娜丽莎别试探了有市场",
@@ -3153,14 +3193,6 @@
       "onboard_time": 1775370020,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90050,
-      "num": 90050,
-      "word": "杜海涛开车接机沈梦辰",
-      "onboard_time": 1775471362,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 89986,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1775355380,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88145,
+      "num": 88145,
+      "word": "佟丽娅看朵朵饭撒的眼神",
+      "onboard_time": 1775477001,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 87983,
@@ -3507,14 +3547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81363,
-      "num": 81363,
-      "word": "月鳞绮纪云合S加剧集",
-      "onboard_time": 1775474299,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81262,
       "num": 81262,
       "word": "王楚钦11比3雨果",
@@ -3641,14 +3673,6 @@
       "onboard_time": 1775366601,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78158,
-      "num": 78158,
-      "word": "王楚钦回复许昕大脑处于宕机状态了",
-      "onboard_time": 1775475322,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 78128,
@@ -3851,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75141,
+      "num": 75141,
+      "word": "王楚钦世排第1林诗栋第5",
+      "onboard_time": 1775476401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75044,
       "num": 75044,
       "word": "俄一男子与列车员争执将其推下铁轨",
@@ -3947,12 +3979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72205,
-      "num": 72205,
-      "word": "王楚钦世排第1林诗栋第5",
-      "onboard_time": 1775476401,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 71934,
+      "num": 71934,
+      "word": "百词斩把忮忌加上了",
+      "onboard_time": 1775476822,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 71857,
@@ -4411,6 +4443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60987,
+      "num": 60987,
+      "word": "许昕评论王楚钦累的标题都不起",
+      "onboard_time": 1775476761,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60922,
       "num": 60922,
       "word": "我们的少年时代2",
@@ -4523,6 +4563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59147,
+      "num": 119339,
+      "word": "育婴师喂水致宝宝被呛进ICU",
+      "onboard_time": 1775476941,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58766,
       "num": 64373,
       "word": "好六下期是孔雪儿邓凯",
@@ -4537,6 +4585,14 @@
       "onboard_time": 1775469741,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58363,
+      "num": 58363,
+      "word": "孙颖莎世界杯三连冠夺冠时刻",
+      "onboard_time": 1775476102,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 58274,
@@ -4585,14 +4641,6 @@
       "onboard_time": 1775464222,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57684,
-      "num": 57684,
-      "word": "孙颖莎世界杯三连冠夺冠时刻",
-      "onboard_time": 1775476102,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 57254,
@@ -5025,14 +5073,6 @@
       "onboard_time": 1775410758,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 41218,
-      "num": 119939,
-      "word": "咖啡店摆700字须知内含禁乱扔丝袜",
-      "onboard_time": 1775475741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41059,
