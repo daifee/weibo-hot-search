@@ -1,7 +1,15 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775483584431,
+  "endTime": 1775487477417,
   "band_list": [
+    {
+      "raw_hot": 1453020,
+      "num": 515676,
+      "word": "安徽6岁失联女童确认遇害",
+      "onboard_time": 1775484984,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1185320,
       "num": 1189651,
@@ -91,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 650103,
+      "num": 181841,
+      "word": "大学生高铁怒吼熊孩子到底是谁错了",
+      "onboard_time": 1775483663,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592067,
       "num": 148916,
       "word": "百词斩把忮忌加上了",
@@ -137,6 +153,14 @@
       "onboard_time": 1775463682,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 496095,
+      "num": 332694,
+      "word": "14枚导弹命中以色列人口密集区",
+      "onboard_time": 1775483183,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 486428,
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363006,
+      "num": 178735,
+      "word": "文章和女儿合照被说像明星",
+      "onboard_time": 1775483481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361024,
       "num": 361024,
       "word": "伊朗打击以色列能源设施",
@@ -347,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317541,
+      "num": 794552,
+      "word": "今年白玉兰视帝入围预测",
+      "onboard_time": 1775484562,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310428,
       "num": 310428,
       "word": "王楚钦晒世界杯大合照",
@@ -361,6 +401,14 @@
       "onboard_time": 1775397264,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297390,
+      "num": 297390,
+      "word": "老夫妻近3万买戒指后被店家跟踪",
+      "onboard_time": 1775484442,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296762,
@@ -595,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208182,
+      "num": 196848,
+      "word": "特别讨厌食堂的标语",
+      "onboard_time": 1775478501,
+      "rank": 23,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 206631,
       "num": 190213,
       "word": "王楚钦点赞任达华",
@@ -619,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196848,
-      "num": 196848,
-      "word": "特别讨厌食堂的标语",
-      "onboard_time": 1775478501,
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "许昕说我会回国家队",
+      "onboard_time": 1775482462,
       "rank": 23,
-      "category": "议题讨论"
+      "category": "体育"
     },
     {
       "raw_hot": 196284,
@@ -689,6 +745,14 @@
       "onboard_time": 1775451742,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187026,
+      "num": 187026,
+      "word": "11岁女孩患肝衰竭和白血病双眼变绿",
+      "onboard_time": 1775485703,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185612,
@@ -771,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171450,
+      "num": 140405,
+      "word": "i人佟丽娅生了个e人儿子",
+      "onboard_time": 1775482883,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171270,
       "num": 133542,
       "word": "国内金饰价格大跌",
@@ -793,6 +865,14 @@
       "onboard_time": 1775450241,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169492,
+      "num": 142717,
+      "word": "侯宇浪姐直播睡觉",
+      "onboard_time": 1775483542,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 168752,
@@ -939,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138210,
-      "num": 127325,
-      "word": "侯宇浪姐直播睡觉",
-      "onboard_time": 1775483542,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136769,
       "num": 136769,
       "word": "赵心童单赛季四冠王",
@@ -1011,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126860,
-      "num": 126860,
-      "word": "许昕说我会回国家队",
-      "onboard_time": 1775482462,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125975,
       "num": 102780,
       "word": "撒贝宁 章子怡",
@@ -1067,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122672,
+      "num": 86768,
+      "word": "中国男生在宿舍做的风铃在iG上爆火",
+      "onboard_time": 1775485043,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 121267,
       "num": 110818,
       "word": "特朗普透露美军营救飞行员细节",
@@ -1089,14 +1161,6 @@
       "onboard_time": 1775453721,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120566,
-      "num": 86824,
-      "word": "14枚导弹命中以色列人口密集区",
-      "onboard_time": 1775483183,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120310,
@@ -1124,7 +1188,7 @@
     },
     {
       "raw_hot": 117343,
-      "num": 86558,
+      "num": 109960,
       "word": "易中天获奖励20万元",
       "onboard_time": 1775483122,
       "rank": 31,
@@ -1243,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106755,
+      "num": 86712,
+      "word": "伊朗的棋越下越大",
+      "onboard_time": 1775487322,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105565,
       "num": 105565,
       "word": "李马克泡泡",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1775462181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101561,
+      "num": 86706,
+      "word": "被大冰断家务事的三观给征服",
+      "onboard_time": 1775487024,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 101471,
@@ -1523,6 +1603,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86626,
+      "num": 86626,
+      "word": "女孩趁妈妈吹头发横穿马路被车撞倒",
+      "onboard_time": 1775483962,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86423,
+      "num": 86423,
+      "word": "张婧仪方AI短剧侵权维权",
+      "onboard_time": 1775486483,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86193,
       "num": 86193,
       "word": "什么村子啊又有王俊凯又有易烊千玺",
@@ -1536,6 +1632,14 @@
       "word": "美逃生飞行员被曝处境凶险",
       "onboard_time": 1775431879,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85853,
+      "num": 130436,
+      "word": "伊朗打击美军的黎波里号两栖攻击舰",
+      "onboard_time": 1775482642,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1619,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82067,
+      "num": 82067,
+      "word": "美军长途奔袭伊朗靠兴奋剂提神",
+      "onboard_time": 1775485103,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81641,
       "num": 81641,
       "word": "Angelababy 年上姐姐会疼人",
@@ -1627,12 +1739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81358,
-      "num": 81358,
-      "word": "i人佟丽娅生了个e人儿子",
-      "onboard_time": 1775482883,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 81322,
+      "num": 81322,
+      "word": "伊朗称美营救行动或为窃取浓缩铀",
+      "onboard_time": 1775485822,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81026,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1775455521,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80414,
+      "num": 80414,
+      "word": "多位艺人工作室发布短剧侵权声明",
+      "onboard_time": 1775481441,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79314,
@@ -1763,19 +1883,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76518,
+      "num": 76518,
+      "word": "再上18天班休5天",
+      "onboard_time": 1775486784,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76478,
       "num": 76478,
       "word": "接下来几个月都有假",
       "onboard_time": 1775463561,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76260,
-      "num": 76260,
-      "word": "多位艺人工作室发布短剧侵权声明",
-      "onboard_time": 1775481441,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1800,14 +1920,6 @@
       "word": "英国北洋水师墓前摆中国航母模型",
       "onboard_time": 1775445801,
       "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 75405,
-      "num": 130436,
-      "word": "伊朗打击美军的黎波里号两栖攻击舰",
-      "onboard_time": 1775482642,
-      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1857,6 +1969,14 @@
       "onboard_time": 1775386643,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74503,
+      "num": 74503,
+      "word": "安崎轮空",
+      "onboard_time": 1775486541,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 73977,
@@ -2067,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64591,
+      "num": 64591,
+      "word": "美军营救飞行员内幕曝光",
+      "onboard_time": 1775482823,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64358,
       "num": 694698,
       "word": "2030年的中国什么样",
@@ -2075,20 +2203,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64150,
-      "num": 64150,
-      "word": "文章和女儿合照被说像明星",
-      "onboard_time": 1775483481,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63694,
       "num": 63694,
       "word": "北海公园海棠花瀑美到窒息",
       "onboard_time": 1775481860,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63689,
+      "num": 63689,
+      "word": "热巴贺思慕腾讯首个破2亿女性角色",
+      "onboard_time": 1775487383,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 63679,
@@ -2153,14 +2281,6 @@
       "onboard_time": 1775482342,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62147,
-      "num": 62147,
-      "word": "美军营救飞行员内幕曝光",
-      "onboard_time": 1775482823,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 60987,
@@ -2275,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57319,
+      "num": 141078,
+      "word": "大批游客徒步南太行后逛胖东来",
+      "onboard_time": 1775486303,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57254,
       "num": 57254,
       "word": "阚清子乘风一公队长",
@@ -2289,6 +2417,14 @@
       "onboard_time": 1775483542,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56833,
+      "num": 63654,
+      "word": "WTT太原站明日打响",
+      "onboard_time": 1775487202,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 56661,
@@ -2531,6 +2667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38941,
+      "num": 185281,
+      "word": "陈宝仓潜伏身份证明首次公开",
+      "onboard_time": 1775486363,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38346,
       "num": 32332,
       "word": "伊朗保有数千架无人机",
@@ -2751,6 +2895,9 @@
     },
     {
       "word": "#总书记讲述过的英烈故事#"
+    },
+    {
+      "word": "#天地英雄气千秋尚凛然#"
     }
   ]
 }
