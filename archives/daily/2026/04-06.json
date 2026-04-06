@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775474917445,
+  "endTime": 1775476490298,
   "band_list": [
     {
       "raw_hot": 1185320,
@@ -57,6 +57,14 @@
       "onboard_time": 1775437519,
       "rank": 12,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 683135,
+      "num": 145193,
+      "word": "伊能静曝和秦昊结婚原因",
+      "onboard_time": 1775474780,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 664236,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 454835,
-      "num": 236789,
+      "num": 364787,
       "word": "猎罪图鉴",
       "onboard_time": 1775470640,
       "rank": 5,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 415063,
-      "num": 216931,
+      "num": 348117,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1775472082,
       "rank": 6,
@@ -177,6 +185,14 @@
       "onboard_time": 1775468300,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 407708,
+      "num": 756431,
+      "word": "莫氏鸡煲被传遭文旅施压开门营业",
+      "onboard_time": 1775473161,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404902,
@@ -411,20 +427,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245117,
+      "num": 373039,
+      "word": "一世鹰名毁于伊弹",
+      "onboard_time": 1775474540,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 238152,
       "num": 104233,
       "word": "郭敬明又拍出了鞠婧祎的神级回首",
       "onboard_time": 1775465421,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237222,
-      "num": 237222,
-      "word": "莫氏鸡煲被传遭文旅施压开门营业",
-      "onboard_time": 1775473161,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235911,
@@ -449,6 +465,14 @@
       "onboard_time": 1775444001,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230348,
+      "num": 139549,
+      "word": "短发李一桐 芭比娃娃",
+      "onboard_time": 1775469802,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 225481,
@@ -521,14 +545,6 @@
       "onboard_time": 1775468183,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209232,
-      "num": 139549,
-      "word": "短发李一桐 芭比娃娃",
-      "onboard_time": 1775469802,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 206631,
@@ -649,14 +665,6 @@
       "onboard_time": 1775432838,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 177630,
-      "num": 139473,
-      "word": "伊能静曝和秦昊结婚原因",
-      "onboard_time": 1775474780,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 175697,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 134354,
-      "num": 82191,
+      "num": 111312,
       "word": "美宇航员太空中意外半裸出镜",
       "onboard_time": 1775473221,
       "rank": 30,
@@ -880,6 +888,14 @@
       "word": "许昕说王楚钦是国乒一号没人能撼动",
       "onboard_time": 1775446582,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127826,
+      "num": 91593,
+      "word": "邱贻可恭喜孙颖莎三连冠",
+      "onboard_time": 1775475381,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -913,6 +929,14 @@
       "onboard_time": 1775450241,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123410,
+      "num": 123410,
+      "word": "TF家族8名新生代演员全员上线",
+      "onboard_time": 1775475621,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 122721,
@@ -961,6 +985,14 @@
       "onboard_time": 1775390543,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116814,
+      "num": 116814,
+      "word": "人民日报评多人带货优思益翻车",
+      "onboard_time": 1775475201,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 114303,
@@ -1267,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90050,
+      "num": 90050,
+      "word": "杜海涛开车接机沈梦辰",
+      "onboard_time": 1775471362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89756,
       "num": 89756,
       "word": "俄呼吁美放弃使用最后通牒式措辞",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1775467580,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87244,
-      "num": 87244,
-      "word": "杜海涛开车接机沈梦辰",
-      "onboard_time": 1775471362,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 86750,
@@ -1427,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81363,
+      "num": 81363,
+      "word": "月鳞绮纪云合S加剧集",
+      "onboard_time": 1775474299,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81026,
       "num": 81026,
       "word": "媒体人称郭艾伦被骗似有隐情",
@@ -1449,6 +1489,22 @@
       "onboard_time": 1775452100,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78481,
+      "num": 82266,
+      "word": "被已婚男骗交往女子得知后抑郁",
+      "onboard_time": 1775470760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78158,
+      "num": 78158,
+      "word": "王楚钦回复许昕大脑处于宕机状态了",
+      "onboard_time": 1775475322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 78128,
@@ -1547,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76277,
-      "num": 82266,
-      "word": "被已婚男骗交往女子得知后抑郁",
-      "onboard_time": 1775470760,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76057,
       "num": 76057,
       "word": "捡的海螺可能是本地人吃剩的",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1775466022,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72205,
+      "num": 72205,
+      "word": "王楚钦世排第1林诗栋第5",
+      "onboard_time": 1775476401,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 71857,
@@ -1787,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67343,
-      "num": 67343,
-      "word": "月鳞绮纪云合S加剧集",
-      "onboard_time": 1775474299,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67272,
       "num": 67272,
       "word": "小猫以为没人偷偷的在唱歌",
@@ -1811,20 +1859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64358,
+      "num": 694698,
+      "word": "2030年的中国什么样",
+      "onboard_time": 1775463561,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63679,
       "num": 77467,
       "word": "伊朗发动对美以第96波打击",
       "onboard_time": 1775403323,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63547,
-      "num": 694698,
-      "word": "2030年的中国什么样",
-      "onboard_time": 1775463561,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63271,
@@ -1875,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60136,
+      "num": 60136,
+      "word": "吴越杯嘉兴队首胜",
+      "onboard_time": 1775476401,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59862,
       "num": 77373,
       "word": "美炸毁2架执行救援故障运输机",
@@ -1923,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57684,
+      "num": 57684,
+      "word": "孙颖莎世界杯三连冠夺冠时刻",
+      "onboard_time": 1775476102,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57254,
       "num": 57254,
       "word": "阚清子乘风一公队长",
@@ -1947,12 +2011,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 54881,
-      "num": 54881,
+      "raw_hot": 55359,
+      "num": 55359,
       "word": "摩友追到海南跟张雪喝酒入职张雪机车",
       "onboard_time": 1775473280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54841,
+      "num": 54841,
+      "word": "有一种惊艳叫贵州马路边",
+      "onboard_time": 1775475262,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 54088,
@@ -2155,6 +2227,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 41218,
+      "num": 119939,
+      "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+      "onboard_time": 1775475741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40703,
       "num": 133088,
       "word": "美航天局长称外星人存在几率相当高",
@@ -2337,14 +2417,6 @@
       "onboard_time": 1775414535,
       "rank": 44,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 12991,
-      "num": 140120,
-      "word": "一世鹰名毁于伊弹",
-      "onboard_time": 1775474540,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10426,

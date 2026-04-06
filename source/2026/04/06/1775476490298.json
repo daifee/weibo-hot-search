@@ -1,0 +1,410 @@
+{
+  "runTime": 1775476490298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409246,
+        "num": 1065479,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407708,
+        "num": 756431,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64358,
+        "num": 639167,
+        "word": "2030年的中国什么样",
+        "onboard_time": 1775463561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401788,
+        "num": 401788,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245117,
+        "num": 373039,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429212,
+        "num": 364787,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348117,
+        "num": 348117,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186032,
+        "num": 186032,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177206,
+        "num": 177206,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145722,
+        "num": 145722,
+        "word": "存在感低 吃瓜体质",
+        "onboard_time": 1775471362,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 683135,
+        "num": 145193,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370967,
+        "num": 144192,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274335,
+        "num": 143150,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194158,
+        "num": 141662,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 159045,
+        "num": 139412,
+        "word": "江山大同杨幂路透",
+        "onboard_time": 1775469262,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139345,
+        "num": 139345,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137015,
+        "num": 137015,
+        "word": "美营救飞行员附近炸出约28个弹坑",
+        "onboard_time": 1775472622,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124172,
+        "num": 124172,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123410,
+        "num": 123410,
+        "word": "TF家族8名新生代演员全员上线",
+        "onboard_time": 1775475621,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41218,
+        "num": 119939,
+        "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+        "onboard_time": 1775475741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116814,
+        "num": 116814,
+        "word": "人民日报评多人带货优思益翻车",
+        "onboard_time": 1775475201,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 427575,
+        "num": 115843,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264237,
+        "num": 114561,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135332,
+        "num": 113526,
+        "word": "卫生巾价格或上涨3%至8%",
+        "onboard_time": 1775471362,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 112761,
+        "word": "短发李一桐 芭比娃娃",
+        "onboard_time": 1775469802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117832,
+        "num": 111312,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110712,
+        "num": 110712,
+        "word": "最全的布洛芬品种都在曹操墓前了",
+        "onboard_time": 1775470760,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108477,
+        "num": 108477,
+        "word": "王楚钦晒世界杯大合照",
+        "onboard_time": 1775466142,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107041,
+        "num": 107041,
+        "word": "洗衣液是需要反应时间的",
+        "onboard_time": 1775458341,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 92229,
+        "num": 92229,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127826,
+        "num": 91593,
+        "word": "邱贻可恭喜孙颖莎三连冠",
+        "onboard_time": 1775475381,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90050,
+        "num": 90050,
+        "word": "杜海涛开车接机沈梦辰",
+        "onboard_time": 1775471362,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82899,
+        "num": 82899,
+        "word": "39岁离异姑姑独自带大5个孩子",
+        "onboard_time": 1775468183,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81363,
+        "num": 81363,
+        "word": "月鳞绮纪云合S加剧集",
+        "onboard_time": 1775474299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80284,
+        "num": 80284,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78481,
+        "num": 78481,
+        "word": "被已婚男骗交往女子得知后抑郁",
+        "onboard_time": 1775470760,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78158,
+        "num": 78158,
+        "word": "王楚钦回复许昕大脑处于宕机状态了",
+        "onboard_time": 1775475322,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73924,
+        "num": 73924,
+        "word": "文淇 真命天子先不要来找我",
+        "onboard_time": 1775470640,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72205,
+        "num": 72205,
+        "word": "王楚钦世排第1林诗栋第5",
+        "onboard_time": 1775476401,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69458,
+        "num": 69458,
+        "word": "客人走后服务员单独笑了半小时",
+        "onboard_time": 1775474601,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63526,
+        "num": 63526,
+        "word": "11岁男孩偷拿钥匙开车出车位就撞了",
+        "onboard_time": 1775465301,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62192,
+        "num": 62192,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61161,
+        "num": 61161,
+        "word": "青岛已经进入肖战频道",
+        "onboard_time": 1775464700,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60136,
+        "num": 60136,
+        "word": "吴越杯嘉兴队首胜",
+        "onboard_time": 1775476401,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60166,
+        "num": 59788,
+        "word": "唐艺昕李小冉都被对方的美貌迷住了",
+        "onboard_time": 1775465960,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57812,
+        "num": 57812,
+        "word": "中国新能源车出口彻底爆发",
+        "onboard_time": 1775466022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57684,
+        "num": 57684,
+        "word": "孙颖莎世界杯三连冠夺冠时刻",
+        "onboard_time": 1775476102,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55811,
+        "num": 55811,
+        "word": "王濛练心愿便利贴要疯了",
+        "onboard_time": 1775456843,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55359,
+        "num": 55359,
+        "word": "摩友追到海南跟张雪喝酒入职张雪机车",
+        "onboard_time": 1775473280,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54841,
+        "num": 54841,
+        "word": "有一种惊艳叫贵州马路边",
+        "onboard_time": 1775475262,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}
