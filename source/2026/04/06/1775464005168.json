@@ -1,0 +1,410 @@
+{
+  "runTime": 1775464005168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185320,
+        "num": 1189651,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489590,
+        "num": 865895,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28798,
+        "num": 694698,
+        "word": "2030年的中国什么样",
+        "onboard_time": 1775463561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392495,
+        "num": 392495,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323874,
+        "num": 323874,
+        "word": "王濛练心愿便利贴要疯了",
+        "onboard_time": 1775456843,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364203,
+        "num": 303154,
+        "word": "洗衣液是需要反应时间的",
+        "onboard_time": 1775458341,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 275262,
+        "num": 275262,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237784,
+        "num": 237784,
+        "word": "伊朗逼美国做选择",
+        "onboard_time": 1775456540,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204708,
+        "num": 204708,
+        "word": "李小冉想补偿唐艺昕",
+        "onboard_time": 1775462002,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159131,
+        "num": 159131,
+        "word": "96岁姐弟恋夫妻77年没吵过架",
+        "onboard_time": 1775456422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212018,
+        "num": 154231,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 194267,
+        "num": 153427,
+        "word": "正午阳光首部正统武侠剧雨霖铃",
+        "onboard_time": 1775449041,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 151272,
+        "word": "伊朗军方公布战果",
+        "onboard_time": 1775459901,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 148633,
+        "num": 148633,
+        "word": "温峥嵘爆灯被拒",
+        "onboard_time": 1775453841,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147996,
+        "num": 147996,
+        "word": "小时候睡觉前都要关机",
+        "onboard_time": 1775456001,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 147242,
+        "word": "金价",
+        "onboard_time": 1775463020,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141415,
+        "num": 141415,
+        "word": "知情人透露郭艾伦被骗细节",
+        "onboard_time": 1775444421,
+        "rank": 16,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 140592,
+        "num": 140592,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136260,
+        "num": 136260,
+        "word": "伊朗5名教授60多名大学生遭袭身亡",
+        "onboard_time": 1775448981,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72114,
+        "num": 133934,
+        "word": "上坟发现墓碑被贴欠费通知单",
+        "onboard_time": 1775463682,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171270,
+        "num": 133542,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131912,
+        "num": 131912,
+        "word": "食客打差评鸡煲店老板更开心",
+        "onboard_time": 1775461341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130868,
+        "num": 130868,
+        "word": "结婚登记当日得知女友患精神分裂",
+        "onboard_time": 1775461281,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120792,
+        "num": 120792,
+        "word": "红果短剧公告",
+        "onboard_time": 1775463741,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113008,
+        "num": 113008,
+        "word": "王楚钦夺冠彻底撕碎依赖队友标签",
+        "onboard_time": 1775453960,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105363,
+        "num": 105363,
+        "word": "杨幂宋祖儿周也王楚然 全女穿越",
+        "onboard_time": 1775461101,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104771,
+        "num": 104771,
+        "word": "李小冉拒绝万千惠",
+        "onboard_time": 1775451621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92660,
+        "num": 92660,
+        "word": "伊朗称霍尔木兹海峡再也回不到从前",
+        "onboard_time": 1775457503,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86600,
+        "num": 86600,
+        "word": "TEN李永钦不续约",
+        "onboard_time": 1775452882,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84934,
+        "num": 84934,
+        "word": "女子住酒店发现装饰画后是门",
+        "onboard_time": 1775446641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104609,
+        "num": 84840,
+        "word": "被收养的小猫看见妈妈还在流浪",
+        "onboard_time": 1775462602,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103021,
+        "num": 84659,
+        "word": "当租到烟民退租的房",
+        "onboard_time": 1775462002,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101602,
+        "num": 84573,
+        "word": "刘诗雯晒与孙颖莎王曼昱等合照",
+        "onboard_time": 1775462181,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84447,
+        "num": 84447,
+        "word": "美军炸毁运输机地点已成打卡点",
+        "onboard_time": 1775459901,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81921,
+        "num": 81921,
+        "word": "我们的少年时代2开播倒计时",
+        "onboard_time": 1775459601,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74414,
+        "num": 74414,
+        "word": "李昀锐差点摔下马",
+        "onboard_time": 1775462121,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74235,
+        "num": 74235,
+        "word": "填补了馒头没有毒的空白",
+        "onboard_time": 1775457200,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73693,
+        "num": 73693,
+        "word": "接下来几个月都有假",
+        "onboard_time": 1775463561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73254,
+        "num": 73254,
+        "word": "以色列本土不安全了",
+        "onboard_time": 1775463561,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 72964,
+        "num": 72964,
+        "word": "赵丽颖高月香的舞蹈训练图",
+        "onboard_time": 1775450241,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70048,
+        "num": 70048,
+        "word": "原来孙颖莎每年都要看一眼",
+        "onboard_time": 1775463382,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69180,
+        "num": 69180,
+        "word": "微信公关总监回应关停支付有优惠",
+        "onboard_time": 1775460800,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68865,
+        "num": 68865,
+        "word": "岳云鹏已经瘦了8斤了",
+        "onboard_time": 1775453721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 68696,
+        "word": "王濛真要唱心愿便利贴",
+        "onboard_time": 1775455280,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67720,
+        "num": 67720,
+        "word": "第一次见茶里茶气的狗子",
+        "onboard_time": 1775463621,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21155,
+        "num": 67580,
+        "word": "铁路出行迎返程高峰",
+        "onboard_time": 1775463442,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67535,
+        "num": 67535,
+        "word": "我国又解决一项世界级难题",
+        "onboard_time": 1775461281,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67351,
+        "num": 67351,
+        "word": "我假装学习就这样",
+        "onboard_time": 1775462960,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67272,
+        "num": 67272,
+        "word": "小猫以为没人偷偷的在唱歌",
+        "onboard_time": 1775462902,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65461,
+        "num": 65461,
+        "word": "两个魔丸生了个灵珠",
+        "onboard_time": 1775449940,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}

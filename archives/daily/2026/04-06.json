@@ -1,10 +1,10 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775463079936,
+  "endTime": 1775464005168,
   "band_list": [
     {
-      "raw_hot": 1105574,
-      "num": 1176891,
+      "raw_hot": 1185320,
+      "num": 1189651,
       "word": "香港飞香港的航班",
       "onboard_time": 1775459601,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489590,
+      "num": 865895,
+      "word": "林宇辉 猎罪图鉴3不拍了",
+      "onboard_time": 1775462902,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485800,
       "num": 1077728,
       "word": "知情人透露郭艾伦被骗细节",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 389341,
-      "num": 249369,
+      "num": 303154,
       "word": "洗衣液是需要反应时间的",
       "onboard_time": 1775458341,
       "rank": 5,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275262,
+      "num": 275262,
+      "word": "美伊停火协议或将于6日生效",
+      "onboard_time": 1775462121,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267660,
       "num": 191517,
       "word": "SuperJunior致歉",
@@ -353,6 +369,14 @@
       "onboard_time": 1775452282,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204708,
+      "num": 204708,
+      "word": "李小冉想补偿唐艺昕",
+      "onboard_time": 1775462002,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 200758,
@@ -467,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170698,
-      "num": 170698,
-      "word": "李小冉想补偿唐艺昕",
-      "onboard_time": 1775462002,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 171270,
+      "num": 133542,
+      "word": "国内金饰价格大跌",
+      "onboard_time": 1775463323,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 170304,
@@ -497,6 +521,14 @@
       "onboard_time": 1775380760,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166833,
+      "num": 151272,
+      "word": "伊朗军方公布战果",
+      "onboard_time": 1775459901,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 165115,
@@ -547,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155173,
-      "num": 155173,
-      "word": "林宇辉 猎罪图鉴3不拍了",
-      "onboard_time": 1775462902,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153477,
       "num": 148288,
       "word": "偶遇张杰王源一起打高尔夫",
@@ -563,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148410,
-      "num": 148410,
-      "word": "伊朗军方公布战果",
-      "onboard_time": 1775459901,
-      "rank": 15,
-      "category": "军事"
+      "raw_hot": 147242,
+      "num": 147242,
+      "word": "金价",
+      "onboard_time": 1775463020,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 142385,
@@ -595,20 +619,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131912,
+      "num": 131912,
+      "word": "食客打差评鸡煲店老板更开心",
+      "onboard_time": 1775461341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128602,
       "num": 128602,
       "word": "许昕说王楚钦是国乒一号没人能撼动",
       "onboard_time": 1775446582,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126690,
-      "num": 126690,
-      "word": "食客打差评鸡煲店老板更开心",
-      "onboard_time": 1775461341,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125975,
@@ -657,6 +681,14 @@
       "onboard_time": 1775404282,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "红果短剧公告",
+      "onboard_time": 1775463741,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 120690,
@@ -795,6 +827,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105363,
+      "num": 105363,
+      "word": "杨幂宋祖儿周也王楚然 全女穿越",
+      "onboard_time": 1775461101,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104609,
+      "num": 84857,
+      "word": "被收养的小猫看见妈妈还在流浪",
+      "onboard_time": 1775462602,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104462,
       "num": 104462,
       "word": "赵心童6冠并列史上第17位",
@@ -827,12 +875,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103021,
+      "num": 84659,
+      "word": "当租到烟民退租的房",
+      "onboard_time": 1775462002,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102034,
       "num": 97172,
       "word": "我们的少年时代2开播倒计时",
       "onboard_time": 1775459601,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101602,
+      "num": 96493,
+      "word": "刘诗雯晒与孙颖莎王曼昱等合照",
+      "onboard_time": 1775462181,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 101471,
@@ -907,22 +971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96493,
-      "num": 96493,
-      "word": "刘诗雯晒与孙颖莎王曼昱等合照",
-      "onboard_time": 1775462181,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 94581,
-      "num": 94581,
-      "word": "杨幂宋祖儿周也王楚然 全女穿越",
-      "onboard_time": 1775461101,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93926,
       "num": 88566,
       "word": "贺娇龙摄影师还没走出来",
@@ -987,14 +1035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89068,
-      "num": 89068,
-      "word": "美伊停火协议或将于6日生效",
-      "onboard_time": 1775462121,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "孙颖莎王楚钦顶峰相见",
@@ -1043,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84857,
-      "num": 84857,
-      "word": "被收养的小猫看见妈妈还在流浪",
-      "onboard_time": 1775462602,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84141,
       "num": 84141,
       "word": "张朝阳手算NASA载人绕月轨道",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1775444660,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81965,
-      "num": 81965,
-      "word": "当租到烟民退租的房",
-      "onboard_time": 1775462002,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 81026,
@@ -1275,12 +1299,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73693,
+      "num": 73693,
+      "word": "接下来几个月都有假",
+      "onboard_time": 1775463561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73254,
+      "num": 73254,
+      "word": "以色列本土不安全了",
+      "onboard_time": 1775463561,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 72750,
       "num": 72750,
       "word": "老詹看着弗拉格满眼是当年的自己",
       "onboard_time": 1775444961,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72114,
+      "num": 133934,
+      "word": "上坟发现墓碑被贴欠费通知单",
+      "onboard_time": 1775463682,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 71857,
@@ -1307,12 +1355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70048,
+      "num": 70048,
+      "word": "原来孙颖莎每年都要看一眼",
+      "onboard_time": 1775463382,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69868,
       "num": 69868,
       "word": "把椰奶当作冰袋扔了",
       "onboard_time": 1775456601,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69180,
+      "num": 69180,
+      "word": "微信公关总监回应关停支付有优惠",
+      "onboard_time": 1775460800,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 69091,
@@ -1379,24 +1443,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65091,
-      "num": 65091,
-      "word": "金价",
-      "onboard_time": 1775463020,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 67720,
+      "num": 67720,
+      "word": "第一次见茶里茶气的狗子",
+      "onboard_time": 1775463621,
+      "rank": 44,
+      "category": "幽默"
     },
     {
-      "raw_hot": 65039,
-      "num": 65039,
+      "raw_hot": 67351,
+      "num": 67351,
       "word": "我假装学习就这样",
       "onboard_time": 1775462960,
       "rank": 46,
       "category": "幽默"
     },
     {
-      "raw_hot": 64118,
-      "num": 64118,
+      "raw_hot": 67272,
+      "num": 67272,
       "word": "小猫以为没人偷偷的在唱歌",
       "onboard_time": 1775462902,
       "rank": 47,
@@ -1691,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28798,
+      "num": 694698,
+      "word": "2030年的中国什么样",
+      "onboard_time": 1775463561,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25916,
       "num": 676427,
       "word": "4月草木中都是思念",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1775415795,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21155,
+      "num": 67580,
+      "word": "铁路出行迎返程高峰",
+      "onboard_time": 1775463442,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20200,
@@ -1812,6 +1892,9 @@
     },
     {
       "word": "#山河记得你#"
+    },
+    {
+      "word": "#总书记讲述过的英烈故事#"
     }
   ]
 }

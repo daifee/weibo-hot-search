@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775463079936,
+  "endTime": 1775464005168,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1105574,
-      "num": 1176891,
+      "raw_hot": 1185320,
+      "num": 1189651,
       "word": "香港飞香港的航班",
       "onboard_time": 1775459601,
       "rank": 0,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 489590,
+      "num": 865895,
+      "word": "林宇辉 猎罪图鉴3不拍了",
+      "onboard_time": 1775462902,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487603,
       "num": 487603,
       "word": "陈都灵曾舜晞 戏份",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 389341,
-      "num": 249369,
+      "num": 303154,
       "word": "洗衣液是需要反应时间的",
       "onboard_time": 1775458341,
       "rank": 5,
@@ -785,6 +793,14 @@
       "onboard_time": 1775451382,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275262,
+      "num": 275262,
+      "word": "美伊停火协议或将于6日生效",
+      "onboard_time": 1775462121,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273216,
@@ -1187,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204708,
+      "num": 204708,
+      "word": "李小冉想补偿唐艺昕",
+      "onboard_time": 1775462002,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204222,
       "num": 163498,
       "word": "老人称养大4个子女晚年却无人陪伴",
@@ -1467,12 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170698,
-      "num": 170698,
-      "word": "李小冉想补偿唐艺昕",
-      "onboard_time": 1775462002,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 171270,
+      "num": 133542,
+      "word": "国内金饰价格大跌",
+      "onboard_time": 1775463323,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 170304,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1775403024,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166833,
+      "num": 151272,
+      "word": "伊朗军方公布战果",
+      "onboard_time": 1775459901,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 165203,
@@ -1627,14 +1659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155173,
-      "num": 155173,
-      "word": "林宇辉 猎罪图鉴3不拍了",
-      "onboard_time": 1775462902,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153883,
       "num": 153883,
       "word": "张雪说logo是淘宝600块做的",
@@ -1699,12 +1723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148410,
-      "num": 148410,
-      "word": "伊朗军方公布战果",
-      "onboard_time": 1775459901,
-      "rank": 15,
-      "category": "军事"
+      "raw_hot": 147242,
+      "num": 147242,
+      "word": "金价",
+      "onboard_time": 1775463020,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 145948,
@@ -1915,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131912,
+      "num": 131912,
+      "word": "食客打差评鸡煲店老板更开心",
+      "onboard_time": 1775461341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131643,
       "num": 131643,
       "word": "美官员说失踪美军飞行员被找到",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1775355318,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126690,
-      "num": 126690,
-      "word": "食客打差评鸡煲店老板更开心",
-      "onboard_time": 1775461341,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126289,
@@ -2121,6 +2145,14 @@
       "onboard_time": 1775373742,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "红果短剧公告",
+      "onboard_time": 1775463741,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 120690,
@@ -2403,12 +2435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105363,
+      "num": 105363,
+      "word": "杨幂宋祖儿周也王楚然 全女穿越",
+      "onboard_time": 1775461101,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105040,
       "num": 105040,
       "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
       "onboard_time": 1775378422,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104609,
+      "num": 84857,
+      "word": "被收养的小猫看见妈妈还在流浪",
+      "onboard_time": 1775462602,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 104462,
@@ -2475,6 +2523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103021,
+      "num": 84659,
+      "word": "当租到烟民退租的房",
+      "onboard_time": 1775462002,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102431,
       "num": 102431,
       "word": "仙逆",
@@ -2505,6 +2561,14 @@
       "onboard_time": 1775392641,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101602,
+      "num": 96493,
+      "word": "刘诗雯晒与孙颖莎王曼昱等合照",
+      "onboard_time": 1775462181,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 101471,
@@ -2643,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96493,
-      "num": 96493,
-      "word": "刘诗雯晒与孙颖莎王曼昱等合照",
-      "onboard_time": 1775462181,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96346,
       "num": 96346,
       "word": "张雪机车严正声明",
@@ -2697,14 +2753,6 @@
       "onboard_time": 1775403625,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94581,
-      "num": 94581,
-      "word": "杨幂宋祖儿周也王楚然 全女穿越",
-      "onboard_time": 1775461101,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 93926,
@@ -2859,14 +2907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89068,
-      "num": 89068,
-      "word": "美伊停火协议或将于6日生效",
-      "onboard_time": 1775462121,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "孙颖莎王楚钦顶峰相见",
@@ -2977,14 +3017,6 @@
       "onboard_time": 1775373083,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84857,
-      "num": 84857,
-      "word": "被收养的小猫看见妈妈还在流浪",
-      "onboard_time": 1775462602,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 84771,
@@ -3121,14 +3153,6 @@
       "onboard_time": 1775313684,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81965,
-      "num": 81965,
-      "word": "当租到烟民退租的房",
-      "onboard_time": 1775462002,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 81876,
@@ -3483,12 +3507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73693,
+      "num": 73693,
+      "word": "接下来几个月都有假",
+      "onboard_time": 1775463561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73663,
       "num": 73663,
       "word": "面部八段锦养出好气色",
       "onboard_time": 1775346137,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73254,
+      "num": 73254,
+      "word": "以色列本土不安全了",
+      "onboard_time": 1775463561,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 73165,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1775368640,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72114,
+      "num": 133934,
+      "word": "上坟发现墓碑被贴欠费通知单",
+      "onboard_time": 1775463682,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 71857,
@@ -3603,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70048,
+      "num": 70048,
+      "word": "原来孙颖莎每年都要看一眼",
+      "onboard_time": 1775463382,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69868,
       "num": 69868,
       "word": "把椰奶当作冰袋扔了",
@@ -3625,6 +3681,14 @@
       "onboard_time": 1775373861,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69180,
+      "num": 69180,
+      "word": "微信公关总监回应关停支付有优惠",
+      "onboard_time": 1775460800,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 69091,
@@ -3715,12 +3779,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67720,
+      "num": 67720,
+      "word": "第一次见茶里茶气的狗子",
+      "onboard_time": 1775463621,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67395,
       "num": 67395,
       "word": "虞书欣晒签售会plog",
       "onboard_time": 1775306364,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67351,
+      "num": 67351,
+      "word": "我假装学习就这样",
+      "onboard_time": 1775462960,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67272,
+      "num": 67272,
+      "word": "小猫以为没人偷偷的在唱歌",
+      "onboard_time": 1775462902,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 67100,
@@ -3763,22 +3851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 65091,
-      "num": 65091,
-      "word": "金价",
-      "onboard_time": 1775463020,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 65039,
-      "num": 65039,
-      "word": "我假装学习就这样",
-      "onboard_time": 1775462960,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65026,
       "num": 65026,
       "word": "这种东西身上寄生虫多达6000条",
@@ -3809,14 +3881,6 @@
       "onboard_time": 1775389401,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 64118,
-      "num": 64118,
-      "word": "小猫以为没人偷偷的在唱歌",
-      "onboard_time": 1775462902,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 64113,
@@ -4539,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28798,
+      "num": 694698,
+      "word": "2030年的中国什么样",
+      "onboard_time": 1775463561,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27959,
       "num": 42838,
       "word": "女子坠崖被送医爱犬独守原地7天",
@@ -4664,6 +4736,14 @@
       "word": "清明时节一起敬读碑文",
       "onboard_time": 1775374341,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21155,
+      "num": 67580,
+      "word": "铁路出行迎返程高峰",
+      "onboard_time": 1775463442,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -4810,6 +4890,9 @@
     },
     {
       "word": "#家国永念#"
+    },
+    {
+      "word": "#总书记讲述过的英烈故事#"
     }
   ]
 }
