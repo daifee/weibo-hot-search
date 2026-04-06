@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775481941817,
+  "endTime": 1775483584431,
   "band_list": [
     {
       "raw_hot": 1185320,
@@ -35,12 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 820108,
+      "raw_hot": 848542,
       "num": 583631,
       "word": "曝柠萌影视怕剧本写完檀健次不演",
       "onboard_time": 1775477481,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758596,
+      "num": 1121375,
+      "word": "王濛 别让武将干这个",
+      "onboard_time": 1775481263,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 753241,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 696451,
-      "num": 158486,
+      "num": 184301,
       "word": "伊能静曝和秦昊结婚原因",
       "onboard_time": 1775474780,
       "rank": 24,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 452728,
-      "num": 153855,
+      "num": 164876,
       "word": "时代峰峻的销冠都在这了",
       "onboard_time": 1775469622,
       "rank": 26,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 353619,
-      "num": 125180,
+      "num": 128912,
       "word": "佟丽娅看朵朵饭撒的眼神",
       "onboard_time": 1775477001,
       "rank": 36,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 350856,
-      "num": 146766,
+      "num": 157388,
       "word": "Angelababy家里摆满了粉丝的礼物",
       "onboard_time": 1775468061,
       "rank": 24,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 276533,
-      "num": 204292,
+      "num": 206575,
       "word": "贺思慕血洗二十四殿",
       "onboard_time": 1775479160,
       "rank": 6,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 264921,
-      "num": 186828,
+      "num": 201194,
       "word": "我竟然在看到礼物的一瞬间对比价格",
       "onboard_time": 1775476582,
       "rank": 31,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196848,
+      "num": 196848,
+      "word": "特别讨厌食堂的标语",
+      "onboard_time": 1775478501,
+      "rank": 23,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 196284,
       "num": 152636,
       "word": "谢娜抚养权判给谁了",
@@ -684,11 +700,19 @@
     },
     {
       "raw_hot": 185020,
-      "num": 140473,
+      "num": 157263,
       "word": "王楚钦回复许昕大脑处于宕机状态了",
       "onboard_time": 1775475322,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183888,
+      "num": 183888,
+      "word": "父亲问儿子要2000元投资款被拒",
+      "onboard_time": 1775482462,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180240,
@@ -729,6 +753,14 @@
       "onboard_time": 1775439622,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174208,
+      "num": 174208,
+      "word": "校园周边毒玩具泛滥",
+      "onboard_time": 1775478140,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 174153,
@@ -787,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166386,
-      "num": 166386,
-      "word": "校园周边毒玩具泛滥",
-      "onboard_time": 1775478140,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 165115,
       "num": 165115,
       "word": "食客拆台莫氏鸡煲鸡带毛冷冻",
@@ -851,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "安崎选人",
+      "onboard_time": 1775480541,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153477,
       "num": 148288,
       "word": "偶遇张杰王源一起打高尔夫",
@@ -864,6 +896,14 @@
       "word": "39岁离异姑姑独自带大5个孩子",
       "onboard_time": 1775468183,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150017,
+      "num": 127938,
+      "word": "男子故意绊服务员面汤洒顾客身上",
+      "onboard_time": 1775480482,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -899,19 +939,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138210,
+      "num": 127325,
+      "word": "侯宇浪姐直播睡觉",
+      "onboard_time": 1775483542,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136769,
       "num": 136769,
       "word": "赵心童单赛季四冠王",
       "onboard_time": 1775431817,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135883,
-      "num": 135883,
-      "word": "王濛 别让武将干这个",
-      "onboard_time": 1775481263,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -937,14 +977,6 @@
       "onboard_time": 1775405423,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132348,
-      "num": 124993,
-      "word": "男子故意绊服务员面汤洒顾客身上",
-      "onboard_time": 1775480482,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132326,
@@ -979,12 +1011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126931,
-      "num": 126931,
-      "word": "安崎选人",
-      "onboard_time": 1775480541,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 126860,
+      "num": 126860,
+      "word": "许昕说我会回国家队",
+      "onboard_time": 1775482462,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 125975,
@@ -1059,20 +1091,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120566,
+      "num": 86824,
+      "word": "14枚导弹命中以色列人口密集区",
+      "onboard_time": 1775483183,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120310,
       "num": 120310,
       "word": "快递食品被血污染换箱在掩盖什么",
       "onboard_time": 1775404462,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119613,
-      "num": 119613,
-      "word": "特别讨厌食堂的标语",
-      "onboard_time": 1775478501,
-      "rank": 23,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 119007,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1775390543,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117343,
+      "num": 86558,
+      "word": "易中天获奖励20万元",
+      "onboard_time": 1775483122,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 116877,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85390,
+      "num": 85390,
+      "word": "刘国正谈王楚钦世界杯夺冠含金量",
+      "onboard_time": 1775482703,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84440,
       "num": 84440,
       "word": "家事法庭",
@@ -1576,6 +1624,14 @@
       "word": "Angelababy 年上姐姐会疼人",
       "onboard_time": 1775464342,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81358,
+      "num": 81358,
+      "word": "i人佟丽娅生了个e人儿子",
+      "onboard_time": 1775482883,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1699,11 +1755,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76614,
+      "num": 76614,
+      "word": "蔡徐坤演唱会中场休息不到30秒",
+      "onboard_time": 1775478021,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 76478,
       "num": 76478,
       "word": "接下来几个月都有假",
       "onboard_time": 1775463561,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76260,
+      "num": 76260,
+      "word": "多位艺人工作室发布短剧侵权声明",
+      "onboard_time": 1775481441,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1728,6 +1800,14 @@
       "word": "英国北洋水师墓前摆中国航母模型",
       "onboard_time": 1775445801,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75405,
+      "num": 130436,
+      "word": "伊朗打击美军的黎波里号两栖攻击舰",
+      "onboard_time": 1775482642,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1817,14 +1897,6 @@
       "onboard_time": 1775444180,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70822,
-      "num": 70822,
-      "word": "蔡徐坤演唱会中场休息不到30秒",
-      "onboard_time": 1775478021,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 70551,
@@ -2003,6 +2075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64150,
+      "num": 64150,
+      "word": "文章和女儿合照被说像明星",
+      "onboard_time": 1775483481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63694,
       "num": 63694,
       "word": "北海公园海棠花瀑美到窒息",
@@ -2067,6 +2147,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62707,
+      "num": 62707,
+      "word": "不愧是老祖宗严选的小狗",
+      "onboard_time": 1775482342,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62147,
+      "num": 62147,
+      "word": "美军营救飞行员内幕曝光",
+      "onboard_time": 1775482823,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60987,
       "num": 60987,
       "word": "许昕评论王楚钦累的标题都不起",
@@ -2089,6 +2185,14 @@
       "onboard_time": 1775481381,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60665,
+      "num": 60665,
+      "word": "文俊辉樱花照",
+      "onboard_time": 1775482941,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 60316,
@@ -2171,20 +2275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57317,
-      "num": 57317,
-      "word": "多位艺人工作室发布短剧侵权声明",
-      "onboard_time": 1775481441,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57254,
       "num": 57254,
       "word": "阚清子乘风一公队长",
       "onboard_time": 1775464402,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56994,
+      "num": 56994,
+      "word": "终于找到懒人的遛猫方式",
+      "onboard_time": 1775483542,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 56661,
@@ -2532,7 +2636,7 @@
     },
     {
       "raw_hot": 21445,
-      "num": 610775,
+      "num": 625857,
       "word": "解锁神二十一乘组最新工作周记",
       "onboard_time": 1775479941,
       "rank": 2,

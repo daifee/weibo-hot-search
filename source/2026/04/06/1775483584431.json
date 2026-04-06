@@ -1,0 +1,410 @@
+{
+  "runTime": 1775483584431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758596,
+        "num": 1121375,
+        "word": "王濛 别让武将干这个",
+        "onboard_time": 1775481263,
+        "rank": 0,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 379334,
+        "num": 795558,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20758,
+        "num": 625857,
+        "word": "解锁神二十一乘组最新工作周记",
+        "onboard_time": 1775479941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848542,
+        "num": 467999,
+        "word": "曝柠萌影视怕剧本写完檀健次不演",
+        "onboard_time": 1775477481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206575,
+        "num": 206575,
+        "word": "贺思慕血洗二十四殿",
+        "onboard_time": 1775479160,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309840,
+        "num": 203250,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375646,
+        "num": 202334,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248722,
+        "num": 201194,
+        "word": "我竟然在看到礼物的一瞬间对比价格",
+        "onboard_time": 1775476582,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196848,
+        "num": 196848,
+        "word": "特别讨厌食堂的标语",
+        "onboard_time": 1775478501,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 184384,
+        "num": 184384,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291032,
+        "num": 184301,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205776,
+        "num": 184242,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183888,
+        "num": 183888,
+        "word": "父亲问儿子要2000元投资款被拒",
+        "onboard_time": 1775482462,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174208,
+        "num": 174208,
+        "word": "校园周边毒玩具泛滥",
+        "onboard_time": 1775478140,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 164876,
+        "num": 164876,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157388,
+        "num": 157388,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157263,
+        "num": 157263,
+        "word": "王楚钦回复许昕大脑处于宕机状态了",
+        "onboard_time": 1775475322,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156856,
+        "num": 156856,
+        "word": "安崎选人",
+        "onboard_time": 1775480541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130658,
+        "num": 130658,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75405,
+        "num": 130436,
+        "word": "伊朗打击美军的黎波里号两栖攻击舰",
+        "onboard_time": 1775482642,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253383,
+        "num": 128912,
+        "word": "佟丽娅看朵朵饭撒的眼神",
+        "onboard_time": 1775477001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150017,
+        "num": 127938,
+        "word": "男子故意绊服务员面汤洒顾客身上",
+        "onboard_time": 1775480482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138210,
+        "num": 127325,
+        "word": "侯宇浪姐直播睡觉",
+        "onboard_time": 1775483542,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "许昕说我会回国家队",
+        "onboard_time": 1775482462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114406,
+        "num": 114406,
+        "word": "徒弟说贺娇龙去世时才40公斤",
+        "onboard_time": 1775479701,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110763,
+        "num": 110763,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104514,
+        "num": 104514,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100857,
+        "num": 100857,
+        "word": "卫生巾价格或上涨3%至8%",
+        "onboard_time": 1775471362,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95131,
+        "num": 95131,
+        "word": "短发李一桐 芭比娃娃",
+        "onboard_time": 1775469802,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86998,
+        "num": 86998,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120566,
+        "num": 86824,
+        "word": "14枚导弹命中以色列人口密集区",
+        "onboard_time": 1775483183,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117343,
+        "num": 86558,
+        "word": "易中天获奖励20万元",
+        "onboard_time": 1775483122,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 85390,
+        "num": 85390,
+        "word": "刘国正谈王楚钦世界杯夺冠含金量",
+        "onboard_time": 1775482703,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81916,
+        "num": 81916,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81358,
+        "num": 81358,
+        "word": "i人佟丽娅生了个e人儿子",
+        "onboard_time": 1775482883,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79045,
+        "num": 79045,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77686,
+        "num": 77686,
+        "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+        "onboard_time": 1775475741,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77305,
+        "num": 77305,
+        "word": "家事法庭",
+        "onboard_time": 1775479160,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76614,
+        "num": 76614,
+        "word": "蔡徐坤演唱会中场休息不到30秒",
+        "onboard_time": 1775478021,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76260,
+        "num": 76260,
+        "word": "多位艺人工作室发布短剧侵权声明",
+        "onboard_time": 1775481441,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71590,
+        "num": 71590,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67290,
+        "num": 67290,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64817,
+        "num": 64817,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64150,
+        "num": 64150,
+        "word": "文章和女儿合照被说像明星",
+        "onboard_time": 1775483481,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62707,
+        "num": 62707,
+        "word": "不愧是老祖宗严选的小狗",
+        "onboard_time": 1775482342,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62147,
+        "num": 62147,
+        "word": "美军营救飞行员内幕曝光",
+        "onboard_time": 1775482823,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60665,
+        "num": 60665,
+        "word": "文俊辉樱花照",
+        "onboard_time": 1775482941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59321,
+        "num": 59321,
+        "word": "TF家族8名新生代演员全员上线",
+        "onboard_time": 1775475621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59236,
+        "num": 59236,
+        "word": "莫氏鸡煲老板爆火前vs爆火后",
+        "onboard_time": 1775479461,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56994,
+        "num": 56994,
+        "word": "终于找到懒人的遛猫方式",
+        "onboard_time": 1775483542,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}
