@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775494800639,
+  "endTime": 1775495725064,
   "band_list": [
     {
       "raw_hot": 805454,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105347,
+      "num": 306157,
+      "word": "安徽女童失联地后面是一片田地",
+      "onboard_time": 1775493498,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99108,
       "num": 267700,
       "word": "中国男生在宿舍做的风铃在iG上爆火",
@@ -144,14 +152,6 @@
       "word": "卫生巾或通过减量不加价隐性涨价",
       "onboard_time": 1775490980,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87379,
-      "num": 306157,
-      "word": "安徽女童失联地后面是一片田地",
-      "onboard_time": 1775493498,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68275,
+      "num": 118314,
+      "word": "曾舜晞陈都灵角色cp超话登顶",
+      "onboard_time": 1775493259,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67887,
       "num": 116044,
       "word": "再上18天班休5天",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59790,
+      "num": 118393,
+      "word": "天才游戏票房破3000万",
+      "onboard_time": 1775492180,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59579,
       "num": 116969,
       "word": "伊发动第98波攻势",
@@ -297,14 +313,6 @@
       "onboard_time": 1775462902,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58654,
-      "num": 118393,
-      "word": "天才游戏票房破3000万",
-      "onboard_time": 1775492180,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 56205,
@@ -332,18 +340,10 @@
     },
     {
       "raw_hot": 54261,
-      "num": 54261,
+      "num": 64847,
       "word": "热巴贺思慕腾讯首个破2亿女性角色",
       "onboard_time": 1775487383,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 53878,
-      "num": 118314,
-      "word": "曾舜晞陈都灵角色cp超话登顶",
-      "onboard_time": 1775493259,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 45812,
-      "num": 45812,
+      "num": 64804,
       "word": "孙颖莎长文总结世界杯",
       "onboard_time": 1775472082,
       "rank": 45,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37555,
+      "num": 116825,
+      "word": "我竟然在看到礼物的一瞬间对比价格",
+      "onboard_time": 1775476582,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36557,
       "num": 116840,
       "word": "i人佟丽娅生了个e人儿子",
@@ -443,19 +451,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32848,
-      "num": 116825,
-      "word": "我竟然在看到礼物的一瞬间对比价格",
-      "onboard_time": 1775476582,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 32457,
+      "raw_hot": 34432,
       "num": 116674,
       "word": "龚俊方发维权声明",
       "onboard_time": 1775492059,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27410,
+      "num": 64876,
+      "word": "阿尔忒弥斯2号任务绕月返回轨道解析",
+      "onboard_time": 1775494938,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27408,
+      "num": 64867,
+      "word": "马思纯白客路演现场发喜糖",
+      "onboard_time": 1775495536,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24624,
+      "num": 64831,
+      "word": "田曦薇素颜饭撒",
+      "onboard_time": 1775464942,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -475,7 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13076,
+      "raw_hot": 15753,
       "num": 352412,
       "word": "清明假期预计跨区域流动8.4亿人次",
       "onboard_time": 1775479701,
