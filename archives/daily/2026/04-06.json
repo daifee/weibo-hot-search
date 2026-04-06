@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775470629971,
+  "endTime": 1775474917445,
   "band_list": [
     {
       "raw_hot": 1185320,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524163,
+      "num": 776023,
+      "word": "埃及航班行李全部丢失中国乘客发声",
+      "onboard_time": 1775468902,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509257,
       "num": 799612,
       "word": "上坟发现墓碑被贴欠费通知单",
@@ -91,12 +99,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 508073,
-      "num": 776023,
-      "word": "埃及航班行李全部丢失中国乘客发声",
-      "onboard_time": 1775468902,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 486428,
+      "num": 1077828,
+      "word": "孙颖莎长文总结世界杯",
+      "onboard_time": 1775472082,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 485800,
@@ -113,6 +121,22 @@
       "onboard_time": 1775449041,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454835,
+      "num": 236789,
+      "word": "猎罪图鉴",
+      "onboard_time": 1775470640,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452728,
+      "num": 140030,
+      "word": "时代峰峻的销冠都在这了",
+      "onboard_time": 1775469622,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 448189,
@@ -137,6 +161,14 @@
       "onboard_time": 1775449940,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 415063,
+      "num": 216931,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1775472082,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 408290,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 350856,
-      "num": 95328,
+      "num": 139999,
       "word": "Angelababy家里摆满了粉丝的礼物",
       "onboard_time": 1775468061,
       "rank": 24,
@@ -371,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249719,
+      "num": 249719,
+      "word": "台湾春卷中毒人数增至134人",
+      "onboard_time": 1775467761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238152,
       "num": 104233,
       "word": "郭敬明又拍出了鞠婧祎的神级回首",
       "onboard_time": 1775465421,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237222,
+      "num": 237222,
+      "word": "莫氏鸡煲被传遭文旅施压开门营业",
+      "onboard_time": 1775473161,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235911,
@@ -435,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214066,
+      "num": 195504,
+      "word": "江山大同杨幂路透",
+      "onboard_time": 1775469262,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212706,
       "num": 212706,
       "word": "96岁姐弟恋夫妻77年没吵过架",
@@ -465,6 +521,14 @@
       "onboard_time": 1775468183,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209232,
+      "num": 139549,
+      "word": "短发李一桐 芭比娃娃",
+      "onboard_time": 1775469802,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206631,
@@ -513,6 +577,14 @@
       "onboard_time": 1775433679,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192565,
+      "num": 192565,
+      "word": "存在感低 吃瓜体质",
+      "onboard_time": 1775471362,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 190998,
@@ -577,6 +649,14 @@
       "onboard_time": 1775432838,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177630,
+      "num": 139473,
+      "word": "伊能静曝和秦昊结婚原因",
+      "onboard_time": 1775474780,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 175697,
@@ -675,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161356,
+      "num": 161356,
+      "word": "最全的布洛芬品种都在曹操墓前了",
+      "onboard_time": 1775470760,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159908,
       "num": 159908,
       "word": "小时候睡觉前都要关机",
@@ -707,19 +795,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153134,
-      "num": 153134,
-      "word": "江山大同杨幂路透",
-      "onboard_time": 1775469262,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145970,
-      "num": 145970,
-      "word": "台湾春卷中毒人数增至134人",
-      "onboard_time": 1775467761,
-      "rank": 19,
+      "raw_hot": 151137,
+      "num": 151137,
+      "word": "39岁离异姑姑独自带大5个孩子",
+      "onboard_time": 1775468183,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -739,6 +819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "美营救飞行员附近炸出约28个弹坑",
+      "onboard_time": 1775472622,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139934,
+      "num": 139934,
+      "word": "卫生巾价格或上涨3%至8%",
+      "onboard_time": 1775471362,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136769,
       "num": 136769,
       "word": "赵心童单赛季四冠王",
@@ -753,6 +849,14 @@
       "onboard_time": 1775462602,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134354,
+      "num": 82191,
+      "word": "美宇航员太空中意外半裸出镜",
+      "onboard_time": 1775473221,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132968,
@@ -817,14 +921,6 @@
       "onboard_time": 1775457503,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122294,
-      "num": 85949,
-      "word": "时代峰峻的销冠都在这了",
-      "onboard_time": 1775469622,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 121267,
@@ -953,14 +1049,6 @@
       "onboard_time": 1775423834,
       "rank": 22,
       "category": "军事"
-    },
-    {
-      "raw_hot": 109123,
-      "num": 84509,
-      "word": "短发李一桐 芭比娃娃",
-      "onboard_time": 1775469802,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 108703,
@@ -1115,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95003,
-      "num": 88784,
-      "word": "39岁离异姑姑独自带大5个孩子",
-      "onboard_time": 1775468183,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93926,
       "num": 88566,
       "word": "贺娇龙摄影师还没走出来",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1775467580,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87244,
+      "num": 87244,
+      "word": "杜海涛开车接机沈梦辰",
+      "onboard_time": 1775471362,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 86750,
@@ -1419,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77466,
+      "num": 77466,
+      "word": "文淇 真命天子先不要来找我",
+      "onboard_time": 1775470640,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77437,
       "num": 77612,
       "word": "毛东东毛甜懿在陵园发言",
@@ -1451,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76277,
+      "num": 82266,
+      "word": "被已婚男骗交往女子得知后抑郁",
+      "onboard_time": 1775470760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76057,
       "num": 76057,
       "word": "捡的海螺可能是本地人吃剩的",
@@ -1473,6 +1577,14 @@
       "onboard_time": 1775445801,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75158,
+      "num": 75158,
+      "word": "客人走后服务员单独笑了半小时",
+      "onboard_time": 1775474601,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 75044,
@@ -1675,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67343,
+      "num": 67343,
+      "word": "月鳞绮纪云合S加剧集",
+      "onboard_time": 1775474299,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67272,
       "num": 67272,
       "word": "小猫以为没人偷偷的在唱歌",
@@ -1819,6 +1939,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55553,
+      "num": 55553,
+      "word": "不要小瞧小孩的攻击力",
+      "onboard_time": 1775473882,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 54881,
+      "num": 54881,
+      "word": "摩友追到海南跟张雪喝酒入职张雪机车",
+      "onboard_time": 1775473280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54088,
       "num": 77117,
       "word": "200万火锅店营业额990",
@@ -1881,6 +2017,14 @@
       "onboard_time": 1775393723,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51734,
+      "num": 51734,
+      "word": "王源天津抢票",
+      "onboard_time": 1775470701,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 51469,
@@ -2193,6 +2337,14 @@
       "onboard_time": 1775414535,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 12991,
+      "num": 140120,
+      "word": "一世鹰名毁于伊弹",
+      "onboard_time": 1775474540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10426,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1775474917445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 486428,
+        "num": 1077828,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359812,
+        "num": 799684,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60019,
+        "num": 615505,
+        "word": "2030年的中国什么样",
+        "onboard_time": 1775463561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249719,
+        "num": 249719,
+        "word": "台湾春卷中毒人数增至134人",
+        "onboard_time": 1775467761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237222,
+        "num": 237222,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454835,
+        "num": 236789,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415063,
+        "num": 216931,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196211,
+        "num": 196211,
+        "word": "美伊停火协议或将于6日生效",
+        "onboard_time": 1775462121,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 524163,
+        "num": 195873,
+        "word": "埃及航班行李全部丢失中国乘客发声",
+        "onboard_time": 1775468902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214066,
+        "num": 195504,
+        "word": "江山大同杨幂路透",
+        "onboard_time": 1775469262,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378683,
+        "num": 194345,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192565,
+        "num": 192565,
+        "word": "存在感低 吃瓜体质",
+        "onboard_time": 1775471362,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180277,
+        "num": 180277,
+        "word": "樊振东23岁成就世界杯四冠王",
+        "onboard_time": 1775457441,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174006,
+        "num": 174006,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 165586,
+        "num": 165586,
+        "word": "孕妇在飞纽约航班上高空产子",
+        "onboard_time": 1775468183,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "最全的布洛芬品种都在曹操墓前了",
+        "onboard_time": 1775470760,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151137,
+        "num": 151137,
+        "word": "39岁离异姑姑独自带大5个孩子",
+        "onboard_time": 1775468183,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148131,
+        "num": 148131,
+        "word": "洗衣液是需要反应时间的",
+        "onboard_time": 1775458341,
+        "rank": 17,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 140987,
+        "num": 140987,
+        "word": "美营救飞行员附近炸出约28个弹坑",
+        "onboard_time": 1775472622,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12991,
+        "num": 140120,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 452728,
+        "num": 140030,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303231,
+        "num": 139999,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "卫生巾价格或上涨3%至8%",
+        "onboard_time": 1775471362,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209232,
+        "num": 139549,
+        "word": "短发李一桐 芭比娃娃",
+        "onboard_time": 1775469802,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177630,
+        "num": 139473,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138054,
+        "num": 138054,
+        "word": "王楚钦晒世界杯大合照",
+        "onboard_time": 1775466142,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106976,
+        "num": 106976,
+        "word": "国内金饰价格大跌",
+        "onboard_time": 1775463323,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87244,
+        "num": 87244,
+        "word": "杜海涛开车接机沈梦辰",
+        "onboard_time": 1775471362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82904,
+        "num": 82904,
+        "word": "田曦薇素颜饭撒",
+        "onboard_time": 1775464942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76277,
+        "num": 82266,
+        "word": "被已婚男骗交往女子得知后抑郁",
+        "onboard_time": 1775470760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134354,
+        "num": 82191,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82059,
+        "num": 82059,
+        "word": "唐艺昕李小冉都被对方的美貌迷住了",
+        "onboard_time": 1775465960,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77466,
+        "num": 77466,
+        "word": "文淇 真命天子先不要来找我",
+        "onboard_time": 1775470640,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75158,
+        "num": 75158,
+        "word": "客人走后服务员单独笑了半小时",
+        "onboard_time": 1775474601,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72224,
+        "num": 72224,
+        "word": "王濛练心愿便利贴要疯了",
+        "onboard_time": 1775456843,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69288,
+        "num": 69288,
+        "word": "恋与深空",
+        "onboard_time": 1775469142,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67343,
+        "num": 67343,
+        "word": "月鳞绮纪云合S加剧集",
+        "onboard_time": 1775474299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65605,
+        "num": 65605,
+        "word": "乘风2026一公选歌组队",
+        "onboard_time": 1775448741,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62012,
+        "num": 62012,
+        "word": "11岁男孩偷拿钥匙开车出车位就撞了",
+        "onboard_time": 1775465301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60513,
+        "num": 60513,
+        "word": "青岛已经进入肖战频道",
+        "onboard_time": 1775464700,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59562,
+        "num": 59562,
+        "word": "中国新能源车出口彻底爆发",
+        "onboard_time": 1775466022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55553,
+        "num": 55553,
+        "word": "不要小瞧小孩的攻击力",
+        "onboard_time": 1775473882,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54881,
+        "num": 54881,
+        "word": "摩友追到海南跟张雪喝酒入职张雪机车",
+        "onboard_time": 1775473280,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54747,
+        "num": 54747,
+        "word": "张月队完颜团",
+        "onboard_time": 1775466921,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54740,
+        "num": 54740,
+        "word": "当租到烟民退租的房",
+        "onboard_time": 1775462002,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54585,
+        "num": 54585,
+        "word": "朵朵和陈思诚共用一张脸",
+        "onboard_time": 1775464402,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52034,
+        "num": 52034,
+        "word": "月鳞绮纪海外热度",
+        "onboard_time": 1775470161,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51755,
+        "num": 51755,
+        "word": "被收养的小猫看见妈妈还在流浪",
+        "onboard_time": 1775462602,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51734,
+        "num": 51734,
+        "word": "王源天津抢票",
+        "onboard_time": 1775470701,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50513,
+        "num": 50513,
+        "word": "我们的少年时代2",
+        "onboard_time": 1775463201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河记得你#"
+    }
+  }
+}
