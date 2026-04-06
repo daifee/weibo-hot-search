@@ -1,0 +1,410 @@
+{
+  "runTime": 1775491751763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391941,
+        "num": 997155,
+        "word": "公司用AI复刻离职员工继续工作",
+        "onboard_time": 1775488702,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225031,
+        "num": 721816,
+        "word": "香港飞香港的航班",
+        "onboard_time": 1775459601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16128,
+        "num": 572504,
+        "word": "解锁神二十一乘组最新工作周记",
+        "onboard_time": 1775479941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805454,
+        "num": 452831,
+        "word": "安徽6岁失联女童确认遇害",
+        "onboard_time": 1775484984,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294404,
+        "num": 294404,
+        "word": "代斯发了和张月陈瑶徐梦洁合照",
+        "onboard_time": 1775489841,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276044,
+        "num": 276044,
+        "word": "14枚导弹命中以色列人口密集区",
+        "onboard_time": 1775483183,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253235,
+        "num": 253235,
+        "word": "伊朗回应美方停战提议",
+        "onboard_time": 1775488462,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199134,
+        "num": 199134,
+        "word": "老夫妻近3万买戒指后被店家跟踪",
+        "onboard_time": 1775484442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99108,
+        "num": 99108,
+        "word": "中国男生在宿舍做的风铃在iG上爆火",
+        "onboard_time": 1775485043,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 96686,
+        "word": "曝柠萌影视怕剧本写完檀健次不演",
+        "onboard_time": 1775477481,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449504,
+        "num": 95841,
+        "word": "何炅谢娜李维嘉KTV照",
+        "onboard_time": 1775488462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210310,
+        "num": 92840,
+        "word": "伊朗的棋越下越大",
+        "onboard_time": 1775487322,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373979,
+        "num": 90535,
+        "word": "被大冰断家务事的三观给征服",
+        "onboard_time": 1775487024,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238583,
+        "num": 86981,
+        "word": "文章和女儿合照被说像明星",
+        "onboard_time": 1775483481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85881,
+        "num": 85881,
+        "word": "父亲问儿子要2000元投资款被拒",
+        "onboard_time": 1775482462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155552,
+        "num": 82612,
+        "word": "王濛 别让武将干这个",
+        "onboard_time": 1775481263,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 124541,
+        "num": 82259,
+        "word": "今年白玉兰视帝入围预测",
+        "onboard_time": 1775484562,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78106,
+        "num": 79461,
+        "word": "许昕说我会回国家队",
+        "onboard_time": 1775482462,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78678,
+        "num": 78678,
+        "word": "迪丽热巴形容陈飞宇是老辈子",
+        "onboard_time": 1775490080,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73268,
+        "num": 78466,
+        "word": "莫氏鸡煲被传遭文旅施压开门营业",
+        "onboard_time": 1775473161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81263,
+        "num": 78466,
+        "word": "卫生巾或通过减量不加价隐性涨价",
+        "onboard_time": 1775490980,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78444,
+        "num": 78444,
+        "word": "伊能静曝和秦昊结婚原因",
+        "onboard_time": 1775474780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78285,
+        "num": 78285,
+        "word": "猎罪图鉴",
+        "onboard_time": 1775470640,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73282,
+        "num": 73282,
+        "word": "男子故意绊服务员面汤洒顾客身上",
+        "onboard_time": 1775480482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72487,
+        "num": 72487,
+        "word": "伊朗拒绝停火强调须永久结束战争",
+        "onboard_time": 1775490561,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70761,
+        "num": 70761,
+        "word": "时代峰峻的销冠都在这了",
+        "onboard_time": 1775469622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70402,
+        "num": 70402,
+        "word": "Angelababy家里摆满了粉丝的礼物",
+        "onboard_time": 1775468061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67887,
+        "num": 67887,
+        "word": "再上18天班休5天",
+        "onboard_time": 1775486784,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69394,
+        "num": 67836,
+        "word": "贺思慕血洗二十四殿",
+        "onboard_time": 1775479160,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66916,
+        "num": 66916,
+        "word": "易中天获奖励20万元",
+        "onboard_time": 1775483122,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 64535,
+        "num": 64535,
+        "word": "一世鹰名毁于伊弹",
+        "onboard_time": 1775474540,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 64010,
+        "word": "张婧仪方AI短剧侵权维权",
+        "onboard_time": 1775486483,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62757,
+        "num": 62757,
+        "word": "月鳞绮纪角色cp",
+        "onboard_time": 1775487983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59579,
+        "num": 59579,
+        "word": "伊发动第98波攻势",
+        "onboard_time": 1775490440,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61724,
+        "num": 59482,
+        "word": "尤长靖直播",
+        "onboard_time": 1775487503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59314,
+        "num": 59314,
+        "word": "林宇辉 猎罪图鉴3不拍了",
+        "onboard_time": 1775462902,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56205,
+        "num": 56205,
+        "word": "美宇航员太空中意外半裸出镜",
+        "onboard_time": 1775473221,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55582,
+        "num": 55582,
+        "word": "侯宇浪姐直播睡觉",
+        "onboard_time": 1775483542,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55335,
+        "num": 55335,
+        "word": "美军运输机残骸中发现一美士兵遗体",
+        "onboard_time": 1775491579,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54261,
+        "num": 54261,
+        "word": "热巴贺思慕腾讯首个破2亿女性角色",
+        "onboard_time": 1775487383,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52479,
+        "num": 52479,
+        "word": "伊朗称美营救行动或为窃取浓缩铀",
+        "onboard_time": 1775485822,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49349,
+        "num": 49349,
+        "word": "蔡徐坤演唱会中场休息不到30秒",
+        "onboard_time": 1775478021,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48411,
+        "num": 48411,
+        "word": "家事法庭",
+        "onboard_time": 1775479160,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48098,
+        "num": 48098,
+        "word": "女孩趁妈妈吹头发横穿马路被车撞倒",
+        "onboard_time": 1775483962,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46566,
+        "num": 46566,
+        "word": "猫爪开门可爱瞬间",
+        "onboard_time": 1775488042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45812,
+        "num": 45812,
+        "word": "孙颖莎长文总结世界杯",
+        "onboard_time": 1775472082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45042,
+        "num": 45042,
+        "word": "官方通报一饭店宠物狗上桌就餐",
+        "onboard_time": 1775487503,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43788,
+        "num": 43788,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1775472082,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43736,
+        "num": 43736,
+        "word": "伊朗打击美军的黎波里号两栖攻击舰",
+        "onboard_time": 1775482642,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40939,
+        "num": 40939,
+        "word": "勇士确定参加附加赛",
+        "onboard_time": 1775490800,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记讲述过的英烈故事#"
+    }
+  }
+}
