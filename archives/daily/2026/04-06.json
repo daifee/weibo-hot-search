@@ -1,7 +1,15 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775456228939,
+  "endTime": 1775463079936,
   "band_list": [
+    {
+      "raw_hot": 1105574,
+      "num": 1176891,
+      "word": "香港飞香港的航班",
+      "onboard_time": 1775459601,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 891971,
       "num": 156484,
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424121,
+      "num": 833393,
+      "word": "樊振东23岁成就世界杯四冠王",
+      "onboard_time": 1775457441,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423000,
       "num": 423000,
       "word": "两个魔丸生了个灵珠",
@@ -107,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389341,
+      "num": 249369,
+      "word": "洗衣液是需要反应时间的",
+      "onboard_time": 1775458341,
+      "rank": 5,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 376271,
       "num": 1039026,
       "word": "郭艾伦被诈骗近千万",
       "onboard_time": 1775395405,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366438,
+      "num": 366438,
+      "word": "王濛练心愿便利贴要疯了",
+      "onboard_time": 1775456843,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 363762,
@@ -193,6 +225,14 @@
       "onboard_time": 1775444781,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276592,
+      "num": 276592,
+      "word": "伊朗逼美国做选择",
+      "onboard_time": 1775456540,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275552,
@@ -283,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212706,
+      "num": 212706,
+      "word": "96岁姐弟恋夫妻77年没吵过架",
+      "onboard_time": 1775456422,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210921,
       "num": 210921,
       "word": "网传浪姐7一公选曲歌单",
@@ -337,6 +385,14 @@
       "onboard_time": 1775433679,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190998,
+      "num": 156366,
+      "word": "结婚登记当日得知女友患精神分裂",
+      "onboard_time": 1775461281,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189300,
@@ -411,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170698,
+      "num": 170698,
+      "word": "李小冉想补偿唐艺昕",
+      "onboard_time": 1775462002,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170304,
       "num": 170304,
       "word": "伊朗称或将封锁曼德海峡",
@@ -459,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159908,
+      "num": 159908,
+      "word": "小时候睡觉前都要关机",
+      "onboard_time": 1775456001,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157961,
       "num": 157961,
       "word": "博物馆回应曹操墓前摆满布洛芬",
@@ -475,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155173,
+      "num": 155173,
+      "word": "林宇辉 猎罪图鉴3不拍了",
+      "onboard_time": 1775462902,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153477,
       "num": 148288,
       "word": "偶遇张杰王源一起打高尔夫",
       "onboard_time": 1775445980,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148410,
+      "num": 148410,
+      "word": "伊朗军方公布战果",
+      "onboard_time": 1775459901,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 142385,
@@ -515,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126690,
+      "num": 126690,
+      "word": "食客打差评鸡煲店老板更开心",
+      "onboard_time": 1775461341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125975,
       "num": 102780,
       "word": "撒贝宁 章子怡",
@@ -545,6 +641,14 @@
       "onboard_time": 1775450241,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122721,
+      "num": 122721,
+      "word": "伊朗称霍尔木兹海峡再也回不到从前",
+      "onboard_time": 1775457503,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121267,
@@ -627,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110976,
+      "num": 110976,
+      "word": "美军炸毁运输机地点已成打卡点",
+      "onboard_time": 1775459901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110718,
       "num": 110718,
       "word": "妻子被骗43万丈夫帮还后两人闹离婚",
@@ -667,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107920,
+      "num": 107920,
+      "word": "李昀锐差点摔下马",
+      "onboard_time": 1775462121,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105565,
       "num": 105565,
       "word": "李马克泡泡",
@@ -705,6 +825,14 @@
       "onboard_time": 1775448621,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102034,
+      "num": 97172,
+      "word": "我们的少年时代2开播倒计时",
+      "onboard_time": 1775459601,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 101471,
@@ -763,12 +891,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97459,
+      "num": 97459,
+      "word": "填补了馒头没有毒的空白",
+      "onboard_time": 1775457200,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96984,
       "num": 96984,
       "word": "缓解内耗的解药",
       "onboard_time": 1775395344,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96493,
+      "num": 96493,
+      "word": "刘诗雯晒与孙颖莎王曼昱等合照",
+      "onboard_time": 1775462181,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94581,
+      "num": 94581,
+      "word": "杨幂宋祖儿周也王楚然 全女穿越",
+      "onboard_time": 1775461101,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 93926,
@@ -835,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89068,
+      "num": 89068,
+      "word": "美伊停火协议或将于6日生效",
+      "onboard_time": 1775462121,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "孙颖莎王楚钦顶峰相见",
@@ -883,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84857,
+      "num": 84857,
+      "word": "被收养的小猫看见妈妈还在流浪",
+      "onboard_time": 1775462602,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84141,
       "num": 84141,
       "word": "张朝阳手算NASA载人绕月轨道",
@@ -921,6 +1089,22 @@
       "onboard_time": 1775444660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81965,
+      "num": 81965,
+      "word": "当租到烟民退租的房",
+      "onboard_time": 1775462002,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81026,
+      "num": 81026,
+      "word": "媒体人称郭艾伦被骗似有隐情",
+      "onboard_time": 1775455521,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 79314,
@@ -1019,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76057,
+      "num": 76057,
+      "word": "捡的海螺可能是本地人吃剩的",
+      "onboard_time": 1775459303,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76022,
       "num": 76022,
       "word": "这是浪姐还是非诚勿扰",
@@ -1075,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73901,
+      "num": 73901,
+      "word": "美媒称调解方正争取美伊停火45天",
+      "onboard_time": 1775458640,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72750,
       "num": 72750,
       "word": "老詹看着弗拉格满眼是当年的自己",
@@ -1107,20 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69868,
+      "num": 69868,
+      "word": "把椰奶当作冰袋扔了",
+      "onboard_time": 1775456601,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69091,
+      "num": 69091,
+      "word": "我国又解决一项世界级难题",
+      "onboard_time": 1775461281,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 68890,
       "num": 68890,
       "word": "SJ承诺对坠落3人提供治疗支持",
       "onboard_time": 1775439380,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 68881,
-      "num": 68881,
-      "word": "小时候睡觉前都要关机",
-      "onboard_time": 1775456001,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 68792,
@@ -1171,12 +1379,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65238,
-      "num": 65238,
-      "word": "媒体人称郭艾伦被骗似有隐情",
-      "onboard_time": 1775455521,
+      "raw_hot": 65091,
+      "num": 65091,
+      "word": "金价",
+      "onboard_time": 1775463020,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 65039,
+      "num": 65039,
+      "word": "我假装学习就这样",
+      "onboard_time": 1775462960,
       "rank": 46,
-      "category": "体育"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 64118,
+      "num": 64118,
+      "word": "小猫以为没人偷偷的在唱歌",
+      "onboard_time": 1775462902,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 63679,
@@ -1193,6 +1417,14 @@
       "onboard_time": 1775432720,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62754,
+      "num": 62754,
+      "word": "粉丝否认周杰伦3小时只唱了90分钟",
+      "onboard_time": 1775457503,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 60316,
@@ -1387,12 +1619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41451,
+      "num": 96747,
+      "word": "俄罗斯伊朗外长通电话",
+      "onboard_time": 1775461761,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41326,
       "num": 62856,
       "word": "被伊朗击落美军机现场画面",
       "onboard_time": 1775410758,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 40703,
+      "num": 133088,
+      "word": "美航天局长称外星人存在几率相当高",
+      "onboard_time": 1775462483,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38346,
@@ -1444,7 +1692,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 631573,
+      "num": 676427,
       "word": "4月草木中都是思念",
       "onboard_time": 1775443041,
       "rank": 2,
