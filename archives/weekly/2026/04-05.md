@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/07 05:45:19
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/07 06:00:26
 </p>
 </blockquote>
 <p>
@@ -4317,6 +4317,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
+人民日报谈明星带货翻车（热度：30944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B%23" target="weibo">
 清明假期叠加春假激发经济新活力（热度：30342）
 </a>
@@ -4385,12 +4391,6 @@ ZARA离快时尚越来越远了（热度：51991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E6%9C%88%E8%8D%89%E6%9C%A8%E4%B8%AD%E9%83%BD%E6%98%AF%E6%80%9D%E5%BF%B5%23" target="weibo">
 4月草木中都是思念（热度：25916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
-人民日报谈明星带货翻车（热度：25726）
 </a>
 </li>
 
