@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/07 04:46:20
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/07 05:03:42
 </p>
 </blockquote>
 <p>
@@ -4533,6 +4533,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
+人民日报谈明星带货翻车（热度：16636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%9C%89%E4%BA%BA%E5%BC%80%E4%BA%8612%E5%B0%8F%E6%97%B6%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B9%BF%E4%B8%9C%23" target="weibo">
 清明有人开了12小时还没出广东（热度：16227）
 </a>
@@ -4569,12 +4575,6 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%BF%BB%E8%BD%A6%23" target="weibo">
-人民日报谈明星带货翻车（热度：14682）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BA%B2%E4%BA%BA%E5%90%97%23" target="weibo">
 你会选择用AI复活逝去的亲人吗（热度：14545）
 </a>
@@ -4582,7 +4582,7 @@ ZARA离快时尚越来越远了（热度：51991）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%AC%AC97%E6%B3%A2%E6%89%93%E5%87%BB%23" target="weibo">
-伊朗发动第97波打击（热度：13836）
+伊朗发动第97波打击（热度：13943）
 </a>
 </li>
 
