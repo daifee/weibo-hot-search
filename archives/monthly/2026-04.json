@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775498216402,
+  "endTime": 1775499146772,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -17473,6 +17473,14 @@
       "onboard_time": 1775029523,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 29408,
+      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
+      "onboard_time": 1775496676,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 18258,
