@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775515529679,
+  "endTime": 1775516712713,
   "band_list": [
     {
       "raw_hot": 805454,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377295,
+      "num": 256093,
+      "word": "美军运输机残骸中发现一美士兵遗体",
+      "onboard_time": 1775491579,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373979,
       "num": 184330,
       "word": "被大冰断家务事的三观给征服",
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287493,
-      "num": 256093,
-      "word": "美军运输机残骸中发现一美士兵遗体",
-      "onboard_time": 1775491579,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 276044,
       "num": 276044,
       "word": "14枚导弹命中以色列人口密集区",
       "onboard_time": 1775483183,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269195,
+      "num": 630849,
+      "word": "老夫妻近3万买戒指后被店家跟踪",
+      "onboard_time": 1775484442,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253235,
@@ -91,12 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199134,
-      "num": 497494,
-      "word": "老夫妻近3万买戒指后被店家跟踪",
-      "onboard_time": 1775484442,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 198986,
+      "num": 351191,
+      "word": "伊朗拒绝停火强调须永久结束战争",
+      "onboard_time": 1775490561,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170183,
@@ -107,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166328,
-      "num": 351191,
-      "word": "伊朗拒绝停火强调须永久结束战争",
-      "onboard_time": 1775490561,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155552,
       "num": 118631,
       "word": "王濛 别让武将干这个",
@@ -123,20 +123,28 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 146147,
+      "num": 449288,
+      "word": "父亲问儿子要2000元投资款被拒",
+      "onboard_time": 1775482462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127131,
+      "num": 306157,
+      "word": "安徽女童失联地后面是一片田地",
+      "onboard_time": 1775493498,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124541,
       "num": 118027,
       "word": "今年白玉兰视帝入围预测",
       "onboard_time": 1775484562,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105347,
-      "num": 306157,
-      "word": "安徽女童失联地后面是一片田地",
-      "onboard_time": 1775493498,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99108,
@@ -155,6 +163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88077,
+      "num": 88077,
+      "word": "人民日报谈明星带货翻车",
+      "onboard_time": 1775507774,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86749,
+      "num": 117684,
+      "word": "易中天获奖励20万元",
+      "onboard_time": 1775483122,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 86556,
       "num": 202703,
       "word": "天才游戏票房破3000万",
@@ -163,27 +187,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85881,
-      "num": 358008,
-      "word": "父亲问儿子要2000元投资款被拒",
-      "onboard_time": 1775482462,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80421,
       "num": 290212,
       "word": "莫氏鸡煲被传遭文旅施压开门营业",
       "onboard_time": 1775473161,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79369,
-      "num": 79369,
-      "word": "人民日报谈明星带货翻车",
-      "onboard_time": 1775507774,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -227,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70876,
+      "num": 58023,
+      "word": "伊朗导弹密集突破以色列防空",
+      "onboard_time": 1775496736,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70761,
       "num": 118121,
       "word": "时代峰峻的销冠都在这了",
       "onboard_time": 1775469622,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70430,
+      "num": 118314,
+      "word": "曾舜晞陈都灵角色cp超话登顶",
+      "onboard_time": 1775493259,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 70402,
@@ -243,19 +267,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69678,
+      "num": 117218,
+      "word": "一世鹰名毁于伊弹",
+      "onboard_time": 1775474540,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69394,
       "num": 117109,
       "word": "贺思慕血洗二十四殿",
       "onboard_time": 1775479160,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 68275,
-      "num": 118314,
-      "word": "曾舜晞陈都灵角色cp超话登顶",
-      "onboard_time": 1775493259,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -265,30 +289,6 @@
       "onboard_time": 1775486784,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66916,
-      "num": 117684,
-      "word": "易中天获奖励20万元",
-      "onboard_time": 1775483122,
-      "rank": 29,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 64631,
-      "num": 45358,
-      "word": "伊朗导弹密集突破以色列防空",
-      "onboard_time": 1775496736,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 64535,
-      "num": 117218,
-      "word": "一世鹰名毁于伊弹",
-      "onboard_time": 1775474540,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64010,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34968,
+      "num": 34968,
+      "word": "徒弟说贺娇龙去世时才40公斤",
+      "onboard_time": 1775479701,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34432,
       "num": 116674,
       "word": "龚俊方发维权声明",
@@ -475,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29811,
-      "num": 29811,
-      "word": "徒弟说贺娇龙去世时才40公斤",
-      "onboard_time": 1775479701,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 31075,
+      "num": 33177,
+      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
+      "onboard_time": 1775496676,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 27410,
@@ -499,20 +507,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25018,
-      "num": 29408,
-      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
-      "onboard_time": 1775496676,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24624,
       "num": 64831,
       "word": "田曦薇素颜饭撒",
       "onboard_time": 1775464942,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24224,
+      "num": 367020,
+      "word": "清明假期预计跨区域流动8.4亿人次",
+      "onboard_time": 1775479701,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23792,
@@ -524,19 +532,11 @@
     },
     {
       "raw_hot": 21841,
-      "num": 23970,
+      "num": 33163,
       "word": "伊朗发动第97波打击",
       "onboard_time": 1775493019,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21143,
-      "num": 352412,
-      "word": "清明假期预计跨区域流动8.4亿人次",
-      "onboard_time": 1775479701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16128,
