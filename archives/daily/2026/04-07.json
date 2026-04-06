@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775499146772,
+  "endTime": 1775502772496,
   "band_list": [
     {
       "raw_hot": 805454,
@@ -537,6 +537,14 @@
       "onboard_time": 1775479701,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12415,
+      "num": 16190,
+      "word": "伊朗发动第97波打击",
+      "onboard_time": 1775493019,
+      "rank": 45,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
