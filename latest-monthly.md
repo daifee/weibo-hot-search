@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 00:09:11
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 01:00:00
 </p>
 </blockquote>
 <p>
@@ -3033,6 +3033,12 @@ SuperJunior致歉（热度：267660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%BF%90%E8%BE%93%E6%9C%BA%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%81%97%E4%BD%93%23" target="weibo">
+美军运输机残骸中发现一美士兵遗体（热度：256093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B3%89%E6%8B%8D%E6%88%8F%E7%9C%9F%E5%81%9A%E4%BA%86%E8%83%83%E9%95%9C%23" target="weibo">
 袁泉拍戏真做了胃镜（热度：255995）
 </a>
@@ -4635,6 +4641,12 @@ i人佟丽娅生了个e人儿子（热度：171450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E5%81%9C%E7%81%AB%E5%BC%BA%E8%B0%83%E9%A1%BB%E6%B0%B8%E4%B9%85%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%23" target="weibo">
+伊朗拒绝停火强调须永久结束战争（热度：166328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E4%BD%9C%E8%80%85%E8%B0%88%E9%9D%92%E5%B2%9B%E5%87%BA%E7%8E%B0%E8%A1%80%E6%9C%88%23" target="weibo">
 十日终焉作者谈青岛出现血月（热度：165491）
 </a>
@@ -5999,18 +6011,6 @@ A股超4500家个股下跌（热度：131281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9F%E7%88%B1%E4%BD%9C%E8%AF%8D%E4%BA%BA%E6%8B%92%E7%BB%9D%E6%8E%88%E6%9D%83%E6%9B%BE%E6%B2%9B%E6%85%88%E6%BC%94%E5%94%B1%23" target="weibo">
 够爱作词人拒绝授权曾沛慈演唱（热度：126634）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CWBG%23" target="weibo">
-AL战胜WBG（热度：126531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E4%BB%A4%E6%B5%B7%E6%8A%A5%23" target="weibo">
-虞书欣云初令海报（热度：126237）
 </a>
 </li>
 
