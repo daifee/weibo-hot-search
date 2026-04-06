@@ -1,6 +1,6 @@
 {
   "startTime": 1775407586994,
-  "endTime": 1775447270304,
+  "endTime": 1775455468061,
   "band_list": [
     {
       "raw_hot": 891971,
@@ -8,6 +8,14 @@
       "word": "网友扫墓看到李副官演员墓碑",
       "onboard_time": 1775440880,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 868167,
+      "num": 197281,
+      "word": "TEN李永钦不续约",
+      "onboard_time": 1775452882,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 704633,
-      "num": 155550,
+      "num": 195140,
       "word": "桃黑黑道歉",
       "onboard_time": 1775437519,
       "rank": 12,
@@ -59,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470798,
+      "num": 1075327,
+      "word": "正午阳光首部正统武侠剧雨霖铃",
+      "onboard_time": 1775449041,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448189,
       "num": 731866,
       "word": "王楚钦夺冠",
@@ -67,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423000,
+      "num": 423000,
+      "word": "两个魔丸生了个灵珠",
+      "onboard_time": 1775449940,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404902,
       "num": 127690,
       "word": "孕35周狂吃炸鸡汉堡母婴同进ICU",
       "onboard_time": 1775442681,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398636,
+      "num": 462163,
+      "word": "李小冉拒绝万千惠",
+      "onboard_time": 1775451621,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 376271,
@@ -99,12 +131,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357225,
+      "num": 193359,
+      "word": "乘风2026一公选歌组队",
+      "onboard_time": 1775448741,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335797,
       "num": 768977,
       "word": "王楚钦问孙颖莎你的奖杯帽呢",
       "onboard_time": 1775432778,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331717,
+      "num": 758372,
+      "word": "女子住酒店发现装饰画后是门",
+      "onboard_time": 1775446641,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327597,
@@ -145,6 +193,30 @@
       "onboard_time": 1775444781,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275552,
+      "num": 275552,
+      "word": "伊能静说还想再生一个",
+      "onboard_time": 1775451382,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267660,
+      "num": 191517,
+      "word": "SuperJunior致歉",
+      "onboard_time": 1775450423,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259445,
+      "num": 427762,
+      "word": "伊朗5名教授60多名大学生遭袭身亡",
+      "onboard_time": 1775448981,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258597,
@@ -211,11 +283,27 @@
       "category": "海外新闻,演出"
     },
     {
+      "raw_hot": 206631,
+      "num": 190213,
+      "word": "王楚钦点赞任达华",
+      "onboard_time": 1775452282,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200758,
       "num": 200758,
       "word": "妈妈不知儿子去世跟AI儿子聊了1年",
       "onboard_time": 1775388803,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199450,
+      "num": 199450,
+      "word": "莫氏鸡煲爆火后的离谱现状",
+      "onboard_time": 1775453062,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -251,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "张月陈瑶双向奔赴",
+      "onboard_time": 1775451742,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185612,
+      "num": 185612,
+      "word": "被酒店标记成水牛了",
+      "onboard_time": 1775447121,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180240,
       "num": 180240,
       "word": "男子用AI写歌仅版权赚了5位数",
@@ -267,11 +371,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175697,
+      "num": 175697,
+      "word": "机票高铁双双涨价",
+      "onboard_time": 1775446821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175537,
       "num": 134713,
       "word": "嗯哼快和霍思燕一样高了",
       "onboard_time": 1775439622,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170304,
+      "num": 170304,
+      "word": "伊朗称或将封锁曼德海峡",
+      "onboard_time": 1775449281,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170117,
+      "num": 170117,
+      "word": "赵丽颖高月香的舞蹈训练图",
+      "onboard_time": 1775450241,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -307,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "温峥嵘爆灯被拒",
+      "onboard_time": 1775453841,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157961,
       "num": 157961,
       "word": "博物馆回应曹操墓前摆满布洛芬",
@@ -329,6 +465,14 @@
       "onboard_time": 1775445980,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142385,
+      "num": 198072,
+      "word": "王楚钦掌镜下的孙颖莎",
+      "onboard_time": 1775449880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 136769,
@@ -371,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124260,
+      "num": 124260,
+      "word": "微信宣布这项功能将全面停运",
+      "onboard_time": 1775450241,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121267,
       "num": 110818,
       "word": "特朗普透露美军营救飞行员细节",
@@ -379,12 +531,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120909,
+      "num": 120909,
+      "word": "王楚钦夺冠彻底撕碎依赖队友标签",
+      "onboard_time": 1775453960,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120310,
       "num": 120310,
       "word": "快递食品被血污染换箱在掩盖什么",
       "onboard_time": 1775404462,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119658,
+      "num": 119658,
+      "word": "岳云鹏已经瘦了8斤了",
+      "onboard_time": 1775453721,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119055,
+      "num": 119055,
+      "word": "张月陈瑶 头发是彼此衣服的颜色",
+      "onboard_time": 1775454022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 119001,
@@ -435,6 +611,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111081,
+      "num": 104079,
+      "word": "王濛真要唱心愿便利贴",
+      "onboard_time": 1775455280,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110718,
+      "num": 110718,
+      "word": "妻子被骗43万丈夫帮还后两人闹离婚",
+      "onboard_time": 1775450901,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110310,
+      "num": 103830,
+      "word": "女士用衣服救了娘俩",
+      "onboard_time": 1775452042,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110132,
       "num": 110132,
       "word": "莫氏鸡煲爆火鸡没断货酒先没了",
@@ -459,20 +659,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107366,
+      "num": 107366,
+      "word": "晴天曝Kanavi耍大牌",
+      "onboard_time": 1775455341,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105565,
       "num": 105565,
       "word": "李马克泡泡",
       "onboard_time": 1775441601,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104577,
-      "num": 96724,
-      "word": "女子住酒店发现装饰画后是门",
-      "onboard_time": 1775446641,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104462,
@@ -499,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103429,
+      "num": 103429,
+      "word": "狗狗像端菜一样被端上来了",
+      "onboard_time": 1775448621,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101471,
       "num": 101471,
       "word": "伊朗称美军为遮羞轰炸被击落军机",
@@ -521,6 +729,14 @@
       "onboard_time": 1775430557,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 98365,
+      "num": 98365,
+      "word": "孙颖莎夸照得真好看",
+      "onboard_time": 1775452882,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 98211,
@@ -555,6 +771,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93887,
+      "num": 93887,
+      "word": "小红马听到肖战的名字就会有反应",
+      "onboard_time": 1775452701,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93318,
+      "num": 93318,
+      "word": "网友上海偶遇黄景瑜骑车",
+      "onboard_time": 1775454921,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91772,
       "num": 91772,
       "word": "吴慷仁演技",
@@ -569,6 +801,22 @@
       "onboard_time": 1775442381,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91310,
+      "num": 91038,
+      "word": "阚清子 我把增高鞋垫拿出来",
+      "onboard_time": 1775453481,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90937,
+      "num": 90937,
+      "word": "徐洁儿没有人亮灯",
+      "onboard_time": 1775453481,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 89756,
@@ -587,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86750,
+      "num": 86750,
+      "word": "者来女喊乌兰图雅妈妈",
+      "onboard_time": 1775453721,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86732,
       "num": 103174,
       "word": "TES举报宁王",
@@ -595,12 +851,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86193,
+      "num": 86193,
+      "word": "什么村子啊又有王俊凯又有易烊千玺",
+      "onboard_time": 1775451020,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85925,
       "num": 85925,
       "word": "美逃生飞行员被曝处境凶险",
       "onboard_time": 1775431879,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84931,
+      "num": 84931,
+      "word": "乘风直播风味录播",
+      "onboard_time": 1775450181,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 84141,
@@ -641,6 +913,14 @@
       "onboard_time": 1775443461,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78717,
+      "num": 88272,
+      "word": "金饰价跌到1364元",
+      "onboard_time": 1775452100,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 78128,
@@ -707,12 +987,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77215,
+      "num": 86206,
+      "word": "贺娇龙摄影师还没走出来",
+      "onboard_time": 1775455341,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77109,
+      "num": 77109,
+      "word": "何卓佳大合影一个没蹲住",
+      "onboard_time": 1775455042,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76876,
       "num": 76876,
       "word": "莫氏鸡煲连夜安排200只活鸡补货",
       "onboard_time": 1775445861,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76022,
+      "num": 76022,
+      "word": "这是浪姐还是非诚勿扰",
+      "onboard_time": 1775452221,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 75468,
@@ -745,6 +1049,14 @@
       "onboard_time": 1775386643,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73977,
+      "num": 76394,
+      "word": "刷牙满屋子乱走",
+      "onboard_time": 1775447540,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 72750,
@@ -785,6 +1097,14 @@
       "onboard_time": 1775439380,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68878,
+      "num": 68878,
+      "word": "申京绝杀勇士",
+      "onboard_time": 1775455280,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68792,
@@ -1100,7 +1420,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 602413,
+      "num": 607899,
       "word": "4月草木中都是思念",
       "onboard_time": 1775443041,
       "rank": 2,
@@ -1137,14 +1457,6 @@
       "onboard_time": 1775415795,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21638,
-      "num": 145645,
-      "word": "机票高铁双双涨价",
-      "onboard_time": 1775446821,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20200,
