@@ -1,0 +1,410 @@
+{
+  "runTime": 1775445764746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 363762,
+        "num": 1058201,
+        "word": "借笔友1200元30年后还2万被拒",
+        "onboard_time": 1775441301,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223119,
+        "num": 784869,
+        "word": "女子6.8万新买紫貂遭朋友擅自穿毁",
+        "onboard_time": 1775439980,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 597593,
+        "word": "4月草木中都是思念",
+        "onboard_time": 1775443041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258597,
+        "num": 258597,
+        "word": "欧洲开始清醒",
+        "onboard_time": 1775441240,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194036,
+        "num": 194036,
+        "word": "王皓偷偷抹泪",
+        "onboard_time": 1775440760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178778,
+        "num": 178778,
+        "word": "北京警方提醒苹果手机用户",
+        "onboard_time": 1775433679,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150378,
+        "num": 150378,
+        "word": "知情人透露郭艾伦被骗细节",
+        "onboard_time": 1775444421,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 144498,
+        "word": "伊称特朗普的鲁莽正将美国拖入地狱",
+        "onboard_time": 1775438902,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "游客称被困玉龙雪山冻到失温呕吐",
+        "onboard_time": 1775443941,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111116,
+        "num": 128433,
+        "word": "孙颖莎与王曼昱颁奖典礼上热聊",
+        "onboard_time": 1775443881,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404902,
+        "num": 127690,
+        "word": "孕35周狂吃炸鸡汉堡母婴同进ICU",
+        "onboard_time": 1775442681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891971,
+        "num": 127211,
+        "word": "网友扫墓看到李副官演员墓碑",
+        "onboard_time": 1775440880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704633,
+        "num": 126708,
+        "word": "桃黑黑道歉",
+        "onboard_time": 1775437519,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 550232,
+        "num": 126491,
+        "word": "女主持人也得乘风破浪吗",
+        "onboard_time": 1775439380,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545946,
+        "num": 126132,
+        "word": "食客在莫氏鸡煲到吃完花了七小时",
+        "onboard_time": 1775440760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290497,
+        "num": 125678,
+        "word": "伊朗2天击落12架美军战机",
+        "onboard_time": 1775438840,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 225481,
+        "num": 124946,
+        "word": "六旬老人花119万整容后觉得没效果",
+        "onboard_time": 1775440880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224622,
+        "num": 124743,
+        "word": "月鳞绮纪又称aespa四秒表",
+        "onboard_time": 1775444001,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211746,
+        "num": 123891,
+        "word": "周杰伦3小时演唱会实唱不足90分钟",
+        "onboard_time": 1775397685,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48267,
+        "num": 123620,
+        "word": "怪异装修房屋疑存骨灰被邻居抵制",
+        "onboard_time": 1775444481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260826,
+        "num": 122976,
+        "word": "Rookie和新女友一起逛街",
+        "onboard_time": 1775433078,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232808,
+        "num": 122528,
+        "word": "金银再下跌",
+        "onboard_time": 1775439501,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175537,
+        "num": 122400,
+        "word": "嗯哼快和霍思燕一样高了",
+        "onboard_time": 1775439622,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145855,
+        "num": 121742,
+        "word": "郭艾伦被诈骗近千万",
+        "onboard_time": 1775395405,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145494,
+        "num": 121133,
+        "word": "李副官扮演者15年前因癌症离世",
+        "onboard_time": 1775444781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121062,
+        "num": 121062,
+        "word": "黄晓明已去交警部门接受处罚",
+        "onboard_time": 1775385800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112272,
+        "num": 112272,
+        "word": "日本整形医生趁麻醉性侵21名女性",
+        "onboard_time": 1775432838,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108703,
+        "num": 108703,
+        "word": "为什么茶花都是一朵朵地掉",
+        "onboard_time": 1775442620,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105565,
+        "num": 105565,
+        "word": "李马克泡泡",
+        "onboard_time": 1775441601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104342,
+        "num": 104342,
+        "word": "库里复出",
+        "onboard_time": 1775444720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99202,
+        "num": 99202,
+        "word": "赵心童6冠并列史上第17位",
+        "onboard_time": 1775443222,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99019,
+        "num": 99019,
+        "word": "陕西地震",
+        "onboard_time": 1775430557,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 97463,
+        "word": "王楚钦首夺男单冠军的含金量有多高",
+        "onboard_time": 1775435661,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93776,
+        "num": 93776,
+        "word": "SJ首尔演唱会栏杆断裂粉丝坠落",
+        "onboard_time": 1775432778,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91495,
+        "num": 91495,
+        "word": "周杰伦曾问有觉得我的嗓子怪怪的吗",
+        "onboard_time": 1775442381,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79314,
+        "num": 86130,
+        "word": "赵心童说王楚钦这个冠军拿的非常不容易",
+        "onboard_time": 1775443461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85777,
+        "num": 85777,
+        "word": "孙怡浪姐把脚踩在椅子上",
+        "onboard_time": 1775397264,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "wannaone校服入场",
+        "onboard_time": 1775444660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43468,
+        "num": 79490,
+        "word": "清明徒步大军堵死南太行",
+        "onboard_time": 1775445682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77885,
+        "num": 77885,
+        "word": "原来蜜蜂抱花可能代表生命到了尽头",
+        "onboard_time": 1775445440,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77766,
+        "num": 77766,
+        "word": "情侣在莫氏鸡煲从白天吃到晚上",
+        "onboard_time": 1775445141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75725,
+        "num": 75725,
+        "word": "吴慷仁演技",
+        "onboard_time": 1775445682,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74885,
+        "num": 74885,
+        "word": "故宫海棠配红墙太出片了",
+        "onboard_time": 1775444961,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 71857,
+        "num": 71857,
+        "word": "赵心童赛前有和王楚钦聊天",
+        "onboard_time": 1775444180,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70551,
+        "num": 70551,
+        "word": "一枚炮弹击中伊拉克美国领事馆",
+        "onboard_time": 1775441482,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70248,
+        "num": 70248,
+        "word": "范丞丞出道8周年营业",
+        "onboard_time": 1775441661,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67935,
+        "num": 69415,
+        "word": "老詹单核带队",
+        "onboard_time": 1775445081,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68890,
+        "num": 68890,
+        "word": "SJ承诺对坠落3人提供治疗支持",
+        "onboard_time": 1775439380,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68792,
+        "num": 68792,
+        "word": "独行侠战胜湖人",
+        "onboard_time": 1775444901,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68309,
+        "num": 68309,
+        "word": "热乎的漂亮饭到底什么味",
+        "onboard_time": 1775445740,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#家国永念#"
+    }
+  }
+}
