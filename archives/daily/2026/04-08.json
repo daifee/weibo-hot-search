@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775586854440,
+  "endTime": 1775589354925,
   "band_list": [
     {
       "raw_hot": 285499,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92968,
+      "num": 61441,
+      "word": "直播涉黄牛奶品牌为中华老字号",
+      "onboard_time": 1775573003,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92423,
       "num": 92423,
       "word": "身体有慢性炎症可以多吃这些水果",
@@ -227,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57759,
+      "num": 30652,
+      "word": "伊朗威胁切断美国及其盟友石油供应",
+      "onboard_time": 1775584276,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 56109,
       "num": 56109,
       "word": "女子称休完产假公司没了",
@@ -241,14 +257,6 @@
       "onboard_time": 1775578159,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52977,
-      "num": 52977,
-      "word": "直播涉黄牛奶品牌为中华老字号",
-      "onboard_time": 1775573003,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52798,
@@ -411,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30652,
-      "num": 30652,
-      "word": "伊朗威胁切断美国及其盟友石油供应",
-      "onboard_time": 1775584276,
-      "rank": 26,
-      "category": "军事"
-    },
-    {
       "raw_hot": 29699,
       "num": 29699,
       "word": "不要跟不熟的人互关",
@@ -449,6 +449,22 @@
       "onboard_time": 1775585715,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15983,
+      "num": 19994,
+      "word": "官方通报网传都江堰现800克狗头金",
+      "onboard_time": 1775586916,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 13991,
+      "num": 19981,
+      "word": "华境S全维安全王中王",
+      "onboard_time": 1775571264,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [

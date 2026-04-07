@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/08 02:34:14
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/08 03:15:54
 </p>
 </blockquote>
 <p>
@@ -5691,6 +5691,12 @@ BLG对战JDG（热度：60797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23" target="weibo">
+伊朗威胁切断美国及其盟友石油供应（热度：57759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%9B%B4%E7%81%AB%E4%BA%86%23" target="weibo">
 外国人来中国旅游更火了（热度：57542）
 </a>
@@ -6285,12 +6291,6 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23" target="weibo">
-伊朗威胁切断美国及其盟友石油供应（热度：30652）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B%23" target="weibo">
 清明假期叠加春假激发经济新活力（热度：30342）
 </a>
@@ -6605,6 +6605,12 @@ NX8带你一起告别通勤焦虑（热度：18773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%83%AD%E8%A1%80%E5%BC%80%E5%9C%BA%23" target="weibo">
 张杰热血开场（热度：16015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E9%83%BD%E6%B1%9F%E5%A0%B0%E7%8E%B0800%E5%85%8B%E7%8B%97%E5%A4%B4%E9%87%91%23" target="weibo">
+官方通报网传都江堰现800克狗头金（热度：15983）
 </a>
 </li>
 
