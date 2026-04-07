@@ -1,7 +1,15 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775530570503,
+  "endTime": 1775533150358,
   "band_list": [
+    {
+      "raw_hot": 4270695,
+      "num": 1120252,
+      "word": "陈丽华逝世",
+      "onboard_time": 1775530039,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1437079,
       "num": 585702,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 878127,
-      "num": 177766,
+      "num": 206770,
       "word": "找到邓家佳不来浪姐的原因了",
       "onboard_time": 1775526860,
       "rank": 10,
@@ -27,14 +35,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 751577,
-      "num": 1120252,
-      "word": "陈丽华逝世",
-      "onboard_time": 1775530039,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 717661,
       "num": 534751,
       "word": "阚清子参加浪姐瘦了一圈",
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 704794,
-      "num": 249343,
+      "num": 266120,
       "word": "亮灯取件方式",
       "onboard_time": 1775523261,
       "rank": 5,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 549762,
-      "num": 177550,
+      "num": 202558,
       "word": "江语晨急寻律师",
       "onboard_time": 1775524220,
       "rank": 11,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 548019,
-      "num": 788617,
+      "num": 1102314,
       "word": "车祸截瘫女子起诉肇事失联男友",
       "onboard_time": 1775527460,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539149,
+      "num": 204034,
+      "word": "谢依霖用郭碧婷送的杯子装酱油",
+      "onboard_time": 1775530641,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 532348,
@@ -75,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497846,
+      "num": 205474,
+      "word": "金卡戴珊汉密尔顿承认恋情",
+      "onboard_time": 1775531542,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449504,
       "num": 220240,
       "word": "何炅谢娜李维嘉KTV照",
       "onboard_time": 1775488462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432218,
+      "num": 817693,
+      "word": "陈丽华生平",
+      "onboard_time": 1775531423,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425430,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 400891,
-      "num": 177333,
+      "num": 203141,
       "word": "桃黑黑直播打嘴抽脸",
       "onboard_time": 1775519600,
       "rank": 31,
@@ -156,11 +180,19 @@
     },
     {
       "raw_hot": 283967,
-      "num": 176617,
+      "num": 193350,
       "word": "台媒曝曾敬骅恋情",
       "onboard_time": 1775528719,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282078,
+      "num": 282078,
+      "word": "雪饼猴一句老太太让何赛飞破防了",
+      "onboard_time": 1775530582,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 276971,
@@ -179,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275360,
+      "num": 197833,
+      "word": "张元英穿搭基础身材就不基础",
+      "onboard_time": 1775530341,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256725,
       "num": 203219,
       "word": "伊朗的棋越下越大",
@@ -188,7 +228,7 @@
     },
     {
       "raw_hot": 254447,
-      "num": 176306,
+      "num": 194922,
       "word": "曝IZNA前成员尹智允退团真相",
       "onboard_time": 1775529020,
       "rank": 16,
@@ -201,6 +241,14 @@
       "onboard_time": 1775488462,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 244201,
+      "num": 244201,
+      "word": "陈丽华身家470亿元",
+      "onboard_time": 1775532922,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227262,
@@ -219,12 +267,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205847,
-      "num": 205847,
+      "raw_hot": 220919,
+      "num": 220919,
       "word": "以色列总理警告特朗普勿仓促停火",
       "onboard_time": 1775520981,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220753,
+      "num": 195631,
+      "word": "被特朗普言论震惊了",
+      "onboard_time": 1775529080,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 207899,
+      "num": 207899,
+      "word": "莫氏鸡煲公主称被嫌慢嫌贵",
+      "onboard_time": 1775531724,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202397,
@@ -251,11 +315,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193110,
+      "num": 193110,
+      "word": "听说又有千万网红探店鸡煲老板跑了",
+      "onboard_time": 1775532982,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192479,
       "num": 192479,
       "word": "九旬老太遗产全给干儿子被法院驳回",
       "onboard_time": 1775520200,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190514,
+      "num": 190514,
+      "word": "男子频繁掏耳朵致耳道发霉长白毛",
+      "onboard_time": 1775529739,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -265,6 +345,14 @@
       "onboard_time": 1775520620,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181453,
+      "num": 181453,
+      "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
+      "onboard_time": 1775532562,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179987,
@@ -291,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173619,
+      "num": 173619,
+      "word": "伊朗称以放弃北部城市承认了失败",
+      "onboard_time": 1775531962,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170183,
       "num": 121063,
       "word": "曝柠萌影视怕剧本写完檀健次不演",
@@ -305,6 +401,14 @@
       "onboard_time": 1775518821,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158543,
+      "num": 145855,
+      "word": "陈丽华曾倒追唐僧演员迟重瑞",
+      "onboard_time": 1775532982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158260,
@@ -331,6 +435,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155042,
+      "num": 155042,
+      "word": "领克10极速充电1秒2公里",
+      "onboard_time": 1775532922,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 145624,
+      "num": 207472,
+      "word": "孙颖莎在每张大合影中都笑的不一样",
+      "onboard_time": 1775531241,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143127,
       "num": 341979,
       "word": "我们的爸爸2重组家庭太难了",
@@ -347,12 +467,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138675,
-      "num": 138675,
-      "word": "被特朗普言论震惊了",
-      "onboard_time": 1775529080,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 135684,
+      "num": 135684,
+      "word": "刘宇宁 可口可乐",
+      "onboard_time": 1775530221,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134190,
+      "num": 134190,
+      "word": "王楚钦的大合影华点被发现了",
+      "onboard_time": 1775531363,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131736,
+      "num": 131736,
+      "word": "应届生摩友在张雪面前求职被录取",
+      "onboard_time": 1775531301,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130661,
+      "num": 130661,
+      "word": "700多万二手房一夜跳涨50万",
+      "onboard_time": 1775532982,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127726,
@@ -385,6 +529,14 @@
       "onboard_time": 1775528839,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119175,
+      "num": 119175,
+      "word": "人的心气是能重新养回来的",
+      "onboard_time": 1775532202,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 118912,
@@ -427,19 +579,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110480,
+      "num": 110480,
+      "word": "多国央行开始卖黄金了",
+      "onboard_time": 1775522121,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104709,
       "num": 118505,
       "word": "卫生巾或通过减量不加价隐性涨价",
       "onboard_time": 1775490980,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104483,
-      "num": 104483,
-      "word": "男子频繁掏耳朵致耳道发霉长白毛",
-      "onboard_time": 1775529739,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -451,6 +603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100452,
+      "num": 100452,
+      "word": "江语晨前夫是美籍",
+      "onboard_time": 1775531062,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100421,
+      "num": 142353,
+      "word": "开车致女友截瘫后失联男子首发声",
+      "onboard_time": 1775532982,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99108,
       "num": 267700,
       "word": "中国男生在宿舍做的风铃在iG上爆火",
@@ -459,12 +627,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 96768,
-      "num": 96768,
-      "word": "多国央行开始卖黄金了",
-      "onboard_time": 1775522121,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 98695,
+      "num": 98695,
+      "word": "巴拿马发生巨大爆炸",
+      "onboard_time": 1775532503,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95432,
@@ -483,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94209,
+      "num": 94209,
+      "word": "爱在海边捡贝壳的人天塌了",
+      "onboard_time": 1775533043,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93630,
       "num": 93630,
       "word": "男子扫墓时被墓碑砸成十级伤残",
@@ -497,6 +673,22 @@
       "onboard_time": 1775528000,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90406,
+      "num": 90406,
+      "word": "以防你没见过芒果核内部",
+      "onboard_time": 1775532742,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89557,
+      "num": 89557,
+      "word": "原来一人吃饱全家不饿是这个意思",
+      "onboard_time": 1775531602,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88776,
@@ -531,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85213,
+      "num": 156608,
+      "word": "医院回应胸痛硬扛1小时才知是心梗",
+      "onboard_time": 1775531841,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84991,
       "num": 67611,
       "word": "恩利叫秦昊小昊哥哥",
@@ -545,14 +745,6 @@
       "onboard_time": 1775517978,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81839,
-      "num": 81839,
-      "word": "刘宇宁 可口可乐",
-      "onboard_time": 1775530221,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 80971,
@@ -609,14 +801,6 @@
       "onboard_time": 1775522061,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75054,
-      "num": 75054,
-      "word": "张元英穿搭基础身材就不基础",
-      "onboard_time": 1775530341,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 73282,
@@ -867,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49460,
+      "num": 641684,
+      "word": "清明文旅市场三线齐热",
+      "onboard_time": 1775528299,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48411,
       "num": 116099,
       "word": "家事法庭",
@@ -937,14 +1129,6 @@
       "onboard_time": 1775472082,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42640,
-      "num": 641684,
-      "word": "清明文旅市场三线齐热",
-      "onboard_time": 1775528299,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40939,
@@ -1043,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22889,
+      "num": 121280,
+      "word": "没想到那些X战警已经这么老了",
+      "onboard_time": 1775530881,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21841,
       "num": 33163,
       "word": "伊朗发动第97波打击",
@@ -1073,6 +1265,14 @@
       "onboard_time": 1775504594,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10458,
+      "num": 121256,
+      "word": "女生心跳呼吸全无救治3天奇迹苏醒",
+      "onboard_time": 1775532982,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

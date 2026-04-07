@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775530570503,
+  "endTime": 1775533150358,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -817,6 +817,14 @@
       "onboard_time": 1770556402,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4270695,
+      "num": 1120252,
+      "word": "陈丽华逝世",
+      "onboard_time": 1775530039,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4128569,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774423222,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1866507,
-      "num": 283357,
-      "word": "阚清子 尊重游戏规则",
-      "onboard_time": 1775223503,
-      "rank": 16,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

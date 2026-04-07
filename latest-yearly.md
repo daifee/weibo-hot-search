@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/07 10:56:10
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/07 11:39:10
 </p>
 </blockquote>
 <p>
@@ -623,6 +623,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%87%91%E7%89%8C%23" target="weibo">
 孙颖莎金牌（热度：4318292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E9%80%9D%E4%B8%96%23" target="weibo">
+陈丽华逝世（热度：4270695）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A6%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%9A%84%E7%94%9F%E6%84%8F%E4%B8%8E%E4%BA%89%E8%AE%AE%23" target="weibo">
 张雪峰离世留下的生意与争议（热度：1866736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%B0%8A%E9%87%8D%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%23" target="weibo">
-阚清子 尊重游戏规则（热度：1866507）
 </a>
 </li>
 
