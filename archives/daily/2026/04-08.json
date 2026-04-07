@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775596267150,
+  "endTime": 1775598778219,
   "band_list": [
     {
       "raw_hot": 285499,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 185377,
-      "num": 107613,
+      "num": 115980,
       "word": "伊朗称若局势失控曼德海峡也将关闭",
       "onboard_time": 1775573783,
       "rank": 15,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104895,
+      "num": 104895,
+      "word": "直播涉黄牛奶品牌为中华老字号",
+      "onboard_time": 1775573003,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104760,
       "num": 104760,
       "word": "上海女子爬树压塌20年樱花树",
@@ -153,14 +161,6 @@
       "onboard_time": 1775567483,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92968,
-      "num": 65050,
-      "word": "直播涉黄牛奶品牌为中华老字号",
-      "onboard_time": 1775573003,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92423,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 57759,
-      "num": 30652,
+      "num": 33389,
       "word": "伊朗威胁切断美国及其盟友石油供应",
       "onboard_time": 1775584276,
       "rank": 26,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47606,
+      "num": 38427,
+      "word": "以军空袭伊朗铁路和桥梁",
+      "onboard_time": 1775573182,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46429,
       "num": 46429,
       "word": "伊朗人这样做回应特朗普恐吓",
@@ -411,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38427,
-      "num": 38427,
-      "word": "以军空袭伊朗铁路和桥梁",
-      "onboard_time": 1775573182,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 35476,
+      "num": 35476,
+      "word": "欧冠联赛",
+      "onboard_time": 1775597115,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 30902,
@@ -451,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20459,
+      "num": 20459,
+      "word": "张雪母亲发文叫儿子鬼灵精",
+      "onboard_time": 1775592734,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19485,
+      "num": 19485,
+      "word": "迟重瑞陈丽华结婚36年从没红过脸",
+      "onboard_time": 1775590634,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19229,
       "num": 25391,
       "word": "周深演唱苏超MV",
@@ -459,20 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19144,
-      "num": 19144,
-      "word": "迟重瑞陈丽华结婚36年从没红过脸",
-      "onboard_time": 1775590634,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18433,
-      "num": 17991,
-      "word": "张雪母亲发文叫儿子鬼灵精",
-      "onboard_time": 1775592734,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 18598,
+      "num": 18598,
+      "word": "伊朗不再对打击目标设限",
+      "onboard_time": 1775576722,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 15983,
@@ -481,14 +497,6 @@
       "onboard_time": 1775586916,
       "rank": 46,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 15466,
-      "num": 17326,
-      "word": "伊朗不再对打击目标设限",
-      "onboard_time": 1775576722,
-      "rank": 41,
-      "category": "军事"
     },
     {
       "raw_hot": 13991,
