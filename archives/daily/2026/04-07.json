@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775563808398,
+  "endTime": 1775569572375,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -9,6 +9,14 @@
       "onboard_time": 1775530039,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1626888,
+      "num": 189215,
+      "word": "特朗普威胁伊朗整个文明将消亡",
+      "onboard_time": 1775566403,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1492285,
@@ -57,6 +65,14 @@
       "onboard_time": 1775551882,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1071991,
+      "num": 1171518,
+      "word": "上海女子爬树压塌20年樱花树",
+      "onboard_time": 1775566041,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1029713,
@@ -139,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796928,
+      "num": 796928,
+      "word": "华晨宇的民宿定价3块钱",
+      "onboard_time": 1775563521,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763047,
       "num": 238905,
       "word": "瞿颖 肉毒起作用了",
       "onboard_time": 1775547563,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742750,
+      "num": 742750,
+      "word": "美以袭击哈尔克岛",
+      "onboard_time": 1775564001,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 741793,
@@ -185,6 +217,30 @@
       "onboard_time": 1775533462,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641205,
+      "num": 179413,
+      "word": "向太自曝曾多次拆散向佐恋情",
+      "onboard_time": 1775564360,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 634625,
+      "num": 178431,
+      "word": "刘耀文 耳洞",
+      "onboard_time": 1775566943,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 620972,
+      "num": 620972,
+      "word": "联合国警告特朗普",
+      "onboard_time": 1775564481,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 582989,
@@ -355,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383889,
+      "num": 383889,
+      "word": "曾沛慈热度断层第一",
+      "onboard_time": 1775563040,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377295,
       "num": 256093,
       "word": "美军运输机残骸中发现一美士兵遗体",
@@ -411,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343061,
+      "num": 186562,
+      "word": "韩国回应特朗普",
+      "onboard_time": 1775567483,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340697,
       "num": 719703,
       "word": "伊朗总统说已准备好牺牲",
       "onboard_time": 1775553502,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 339715,
+      "num": 175803,
+      "word": "裴珍映 假体",
+      "onboard_time": 1775563461,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 338255,
@@ -443,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319110,
+      "num": 185890,
+      "word": "iPhone三款新机机模出炉",
+      "onboard_time": 1775565922,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 317885,
       "num": 317885,
       "word": "马思纯走出抑郁后的状态",
@@ -459,12 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307872,
+      "num": 185057,
+      "word": "孟子义 现偶",
+      "onboard_time": 1775563641,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307076,
       "num": 307076,
       "word": "文章和女儿合照被说像明星",
       "onboard_time": 1775483481,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306897,
+      "num": 470506,
+      "word": "开心消消乐",
+      "onboard_time": 1775561240,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 298934,
@@ -505,6 +609,14 @@
       "onboard_time": 1775518338,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289874,
+      "num": 867431,
+      "word": "教育具有长期性和滞后性",
+      "onboard_time": 1775562502,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 284172,
@@ -715,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213095,
+      "num": 181502,
+      "word": "伊朗说克制已结束",
+      "onboard_time": 1775567303,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208684,
       "num": 208684,
       "word": "迟重瑞说全家人每天必须一起吃晚饭",
@@ -745,6 +865,14 @@
       "onboard_time": 1775531724,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207500,
+      "num": 175196,
+      "word": "中方表态特朗普威胁伊朗最后期限",
+      "onboard_time": 1775567784,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203624,
@@ -883,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174775,
+      "num": 174775,
+      "word": "王楚钦称跟樊振东打出了自己的问题",
+      "onboard_time": 1775568863,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174641,
       "num": 174641,
       "word": "女生写论文仅睡4小时锻炼时倒下",
@@ -912,6 +1048,14 @@
       "word": "曝柠萌影视怕剧本写完檀健次不演",
       "onboard_time": 1775477481,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168624,
+      "num": 168624,
+      "word": "我见迪丽热巴就这样",
+      "onboard_time": 1775566702,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -971,6 +1115,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 157275,
+      "num": 147924,
+      "word": "迟重瑞说不畏惧陈丽华的强",
+      "onboard_time": 1775568743,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155552,
       "num": 118631,
       "word": "王濛 别让武将干这个",
@@ -1011,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151446,
-      "num": 470506,
-      "word": "开心消消乐",
-      "onboard_time": 1775561240,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149933,
       "num": 149933,
       "word": "你愿意为车内的仪式感买单吗",
@@ -1041,6 +1185,14 @@
       "onboard_time": 1775531241,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144836,
+      "num": 144836,
+      "word": "莫氏鸡煲真的干不动了",
+      "onboard_time": 1775567483,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144606,
@@ -1075,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139288,
+      "num": 139288,
+      "word": "1元公交雨中喷水乘客说体谅体谅",
+      "onboard_time": 1775567722,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138782,
       "num": 175981,
       "word": "曾舜晞陈都灵或将主演不醒",
@@ -1104,6 +1264,14 @@
       "word": "刘宇宁 可口可乐",
       "onboard_time": 1775530221,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135385,
+      "num": 135385,
+      "word": "葛夕自曝与爸爸二十年没联系",
+      "onboard_time": 1775568263,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1219,6 +1387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123565,
+      "num": 123565,
+      "word": "237平独居视频破1100万",
+      "onboard_time": 1775567661,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123384,
+      "num": 123384,
+      "word": "长沙一女子获7天带薪雨假",
+      "onboard_time": 1775567183,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 122937,
       "num": 122937,
       "word": "人民日报谈明星带货翻车",
@@ -1307,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116239,
+      "num": 116239,
+      "word": "唐嫣好有气质",
+      "onboard_time": 1775563942,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116209,
       "num": 99994,
       "word": "张纪中吐槽妻子",
@@ -1347,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110979,
+      "num": 110979,
+      "word": "孙颖莎神图",
+      "onboard_time": 1775563822,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110870,
       "num": 110870,
       "word": "baby的睫毛",
@@ -1371,14 +1571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110507,
-      "num": 110507,
-      "word": "裴珍映 假体",
-      "onboard_time": 1775563461,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110480,
       "num": 110480,
       "word": "多国央行开始卖黄金了",
@@ -1387,12 +1579,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109720,
-      "num": 97405,
-      "word": "曾沛慈热度断层第一",
-      "onboard_time": 1775563040,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 108180,
+      "num": 108180,
+      "word": "陈光标称捐千万嫣然感谢信未明确",
+      "onboard_time": 1775566041,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107630,
@@ -1475,12 +1667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100593,
+      "num": 100593,
+      "word": "学生亲手点燃镁条的时代正在消失",
+      "onboard_time": 1775565983,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "江语晨前夫是美籍",
       "onboard_time": 1775531062,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99995,
+      "num": 99995,
+      "word": "危险关系",
+      "onboard_time": 1775564180,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 99830,
@@ -1531,22 +1739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 97596,
-      "num": 97596,
-      "word": "孟子义 现偶",
-      "onboard_time": 1775563641,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 97288,
-      "num": 97288,
-      "word": "华晨宇的民宿定价3块钱",
-      "onboard_time": 1775563521,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96519,
       "num": 96519,
       "word": "陈光标痛悼陈丽华",
@@ -1555,12 +1747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96372,
+      "num": 95441,
+      "word": "把易梦玲认成了柳智敏",
+      "onboard_time": 1775568983,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96299,
       "num": 337963,
       "word": "浪姐录播 无字幕",
       "onboard_time": 1775555361,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95574,
+      "num": 95574,
+      "word": "小米称YU7将支持车外语音泊出",
+      "onboard_time": 1775569343,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 95432,
@@ -1731,14 +1939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 87971,
-      "num": 246042,
-      "word": "教育具有长期性和滞后性",
-      "onboard_time": 1775562502,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 86881,
       "num": 86881,
       "word": "庄达菲陈昊宇合照",
@@ -1761,6 +1961,14 @@
       "onboard_time": 1775492180,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85802,
+      "num": 85802,
+      "word": "陈丽华的紫檀展品从未卖过一件",
+      "onboard_time": 1775567183,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85213,
@@ -2291,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51126,
+      "num": 823585,
+      "word": "外国人来中国旅游更火了",
+      "onboard_time": 1775566763,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50388,
       "num": 117855,
       "word": "蔡徐坤演唱会中场休息不到30秒",
@@ -2313,6 +2529,14 @@
       "onboard_time": 1775528299,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48483,
+      "num": 140332,
+      "word": "官方回应女子攀爬压倒樱花树",
+      "onboard_time": 1775568144,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48411,
@@ -2499,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33782,
+      "num": 116744,
+      "word": "李小冉唐艺昕拿到了王濛说明书",
+      "onboard_time": 1775569102,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31414,
       "num": 851888,
       "word": "电商要更好服务实体经济",
@@ -2625,6 +2857,14 @@
       "onboard_time": 1775549422,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17176,
+      "num": 180090,
+      "word": "男子失踪358天家属悬赏10万寻线索",
+      "onboard_time": 1775568503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16814,
