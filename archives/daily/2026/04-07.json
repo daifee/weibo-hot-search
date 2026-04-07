@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775539098311,
+  "endTime": 1775541905166,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -11,6 +11,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1492285,
+      "num": 568181,
+      "word": "周杰伦 江语晨",
+      "onboard_time": 1775537602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1437079,
       "num": 585702,
       "word": "美军特种兵潜入伊朗救人场面失控",
@@ -19,12 +27,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1360178,
-      "num": 568181,
-      "word": "周杰伦 江语晨",
-      "onboard_time": 1775537602,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1295084,
+      "num": 693784,
+      "word": "曝某牛奶直播间涉黄涉低俗",
+      "onboard_time": 1775538323,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1122144,
+      "num": 1179543,
+      "word": "郭艾伦否认被骗",
+      "onboard_time": 1775540900,
+      "rank": 0,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 1029713,
@@ -59,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821531,
+      "num": 543902,
+      "word": "陈丽华叫迟重瑞迟先生",
+      "onboard_time": 1775536224,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805454,
       "num": 452831,
       "word": "安徽6岁失联女童确认遇害",
@@ -81,14 +105,6 @@
       "onboard_time": 1775523261,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 698771,
-      "num": 543902,
-      "word": "陈丽华叫迟重瑞迟先生",
-      "onboard_time": 1775536224,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 671245,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472825,
-      "num": 693784,
-      "word": "曝某牛奶直播间涉黄涉低俗",
-      "onboard_time": 1775538323,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 454204,
       "num": 645796,
       "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429241,
+      "num": 429241,
+      "word": "金莎孙丞潇上夫妻综艺了",
+      "onboard_time": 1775539162,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425430,
       "num": 939180,
       "word": "老夫妻近3万买戒指后被店家跟踪",
@@ -203,6 +219,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 395187,
+      "num": 395187,
+      "word": "情侣因换座与女乘客发生争执",
+      "onboard_time": 1775538922,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391941,
       "num": 997155,
       "word": "公司用AI复刻离职员工继续工作",
@@ -217,6 +241,14 @@
       "onboard_time": 1775491579,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 375626,
+      "num": 375626,
+      "word": "郑丽文率团抵达",
+      "onboard_time": 1775539701,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 373979,
@@ -299,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280332,
+      "num": 172541,
+      "word": "金莎孙丞潇已经结婚了吗",
+      "onboard_time": 1775540421,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279633,
       "num": 231467,
       "word": "松岛辉空拒绝和王楚钦握手",
@@ -376,6 +416,14 @@
       "word": "朋友对陈丽华比迟重瑞大10岁感到震惊",
       "onboard_time": 1775537783,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231798,
+      "num": 172275,
+      "word": "女子住酒店在浴巾发现用过的伟哥",
+      "onboard_time": 1775539522,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -475,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188628,
+      "num": 128767,
+      "word": "多方回应截瘫女子车祸时坐姿",
+      "onboard_time": 1775539341,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184515,
       "num": 176311,
       "word": "黄一鸣被执行55万",
@@ -520,6 +576,14 @@
       "word": "女生写论文仅睡4小时锻炼时倒下",
       "onboard_time": 1775538084,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "迟重瑞说全家人每天必须一起吃晚饭",
+      "onboard_time": 1775541022,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -587,6 +651,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150949,
+      "num": 150949,
+      "word": "鞠婧祎 你是不是想陷害姐姐",
+      "onboard_time": 1775538443,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149933,
+      "num": 149933,
+      "word": "你愿意为车内的仪式感买单吗",
+      "onboard_time": 1775540063,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 148167,
+      "num": 148167,
+      "word": "郭艾伦将追责",
+      "onboard_time": 1775541802,
+      "rank": 26,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 145624,
       "num": 207472,
       "word": "孙颖莎在每张大合影中都笑的不一样",
@@ -611,28 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "鞠婧祎 你是不是想陷害姐姐",
-      "onboard_time": 1775538443,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139772,
-      "num": 139772,
-      "word": "情侣因换座与女乘客发生争执",
-      "onboard_time": 1775538922,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138782,
       "num": 175981,
       "word": "曾舜晞陈都灵或将主演不醒",
       "onboard_time": 1775527399,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136922,
+      "num": 128421,
+      "word": "日本一老人咬陌生人手臂被捕后死亡",
+      "onboard_time": 1775540362,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135684,
@@ -681,6 +761,14 @@
       "onboard_time": 1775493498,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127507,
+      "num": 127507,
+      "word": "伊朗若同意停火战争或再次爆发",
+      "onboard_time": 1775540421,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124541,
@@ -787,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107632,
+      "num": 107632,
+      "word": "桃晚安回应",
+      "onboard_time": 1775541022,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105493,
       "num": 105493,
       "word": "IU边佑锡谈10年后再合作",
@@ -849,6 +945,14 @@
       "onboard_time": 1775532503,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98616,
+      "num": 98616,
+      "word": "迟重瑞陈丽华已结婚36年",
+      "onboard_time": 1775538262,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98346,
@@ -931,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90289,
-      "num": 90289,
-      "word": "迟重瑞陈丽华已结婚36年",
-      "onboard_time": 1775538262,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89974,
       "num": 89974,
       "word": "入职即可免费使用厕所",
@@ -953,6 +1049,14 @@
       "onboard_time": 1775530341,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88552,
+      "num": 88552,
+      "word": "日媒曝近500名日本老人死于家人侵害",
+      "onboard_time": 1775541802,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86881,
@@ -995,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84636,
+      "num": 172976,
+      "word": "非法薅羊毛12万网警出手",
+      "onboard_time": 1775539642,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84258,
       "num": 84258,
       "word": "伊朗说美营救飞行员或意在偷浓缩铀",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1775473161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80165,
+      "num": 80165,
+      "word": "浪姐 魔鬼训练营",
+      "onboard_time": 1775540602,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 78678,
@@ -1049,6 +1169,14 @@
       "onboard_time": 1775482462,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77375,
+      "num": 79231,
+      "word": "美甲可能会传染HPV",
+      "onboard_time": 1775540542,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75655,
@@ -1315,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49327,
+      "num": 99058,
+      "word": "魏建军说卖车要带着良心",
+      "onboard_time": 1775541802,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48411,
       "num": 116099,
       "word": "家事法庭",
@@ -1507,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16814,
+      "num": 172613,
+      "word": "银行业是高薪创高产吗",
+      "onboard_time": 1775541381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16128,
       "num": 572504,
       "word": "解锁神二十一乘组最新工作周记",
@@ -1537,6 +1681,14 @@
       "onboard_time": 1775532982,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9536,
+      "num": 652916,
+      "word": "电商要更好服务实体经济",
+      "onboard_time": 1775527939,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

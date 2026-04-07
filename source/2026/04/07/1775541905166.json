@@ -1,0 +1,410 @@
+{
+  "runTime": 1775541905166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122144,
+        "num": 1179543,
+        "word": "郭艾伦否认被骗",
+        "onboard_time": 1775540900,
+        "rank": 0,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 752391,
+        "num": 866341,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9536,
+        "num": 652916,
+        "word": "电商要更好服务实体经济",
+        "onboard_time": 1775527939,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295084,
+        "num": 629386,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471265,
+        "num": 471265,
+        "word": "妻子的浪漫旅行嘉宾阵容",
+        "onboard_time": 1775534662,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480828,
+        "num": 470887,
+        "word": "原来这叫软孤立啊",
+        "onboard_time": 1775533403,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429241,
+        "num": 429241,
+        "word": "金莎孙丞潇上夫妻综艺了",
+        "onboard_time": 1775539162,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395187,
+        "num": 395187,
+        "word": "情侣因换座与女乘客发生争执",
+        "onboard_time": 1775538922,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375626,
+        "num": 375626,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258151,
+        "num": 360160,
+        "word": "伊朗称以放弃北部城市承认了失败",
+        "onboard_time": 1775531962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1492285,
+        "num": 355476,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821531,
+        "num": 355315,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350488,
+        "num": 350488,
+        "word": "余茵暴瘦",
+        "onboard_time": 1775533762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328226,
+        "num": 328226,
+        "word": "陈丽华身家470亿元",
+        "onboard_time": 1775532922,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187987,
+        "num": 187987,
+        "word": "潘玮柏女儿5岁近照",
+        "onboard_time": 1775533161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445115,
+        "num": 186065,
+        "word": "江语晨说才刚离婚别这样",
+        "onboard_time": 1775533462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173012,
+        "num": 173012,
+        "word": "迟重瑞说全家人每天必须一起吃晚饭",
+        "onboard_time": 1775541022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84636,
+        "num": 172976,
+        "word": "非法薅羊毛12万网警出手",
+        "onboard_time": 1775539642,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175153,
+        "num": 172768,
+        "word": "张豆豆没头脑孙杨不高兴",
+        "onboard_time": 1775534782,
+        "rank": 18,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 16814,
+        "num": 172613,
+        "word": "银行业是高薪创高产吗",
+        "onboard_time": 1775541381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280332,
+        "num": 172541,
+        "word": "金莎孙丞潇已经结婚了吗",
+        "onboard_time": 1775540421,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231798,
+        "num": 172275,
+        "word": "女子住酒店在浴巾发现用过的伟哥",
+        "onboard_time": 1775539522,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172256,
+        "num": 172256,
+        "word": "金卡戴珊汉密尔顿承认恋情",
+        "onboard_time": 1775531542,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154938,
+        "num": 154938,
+        "word": "女生写论文仅睡4小时锻炼时倒下",
+        "onboard_time": 1775538084,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150949,
+        "num": 150949,
+        "word": "鞠婧祎 你是不是想陷害姐姐",
+        "onboard_time": 1775538443,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "你愿意为车内的仪式感买单吗",
+        "onboard_time": 1775540063,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148167,
+        "num": 148167,
+        "word": "郭艾伦将追责",
+        "onboard_time": 1775541802,
+        "rank": 26,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 144610,
+        "num": 144610,
+        "word": "找到邓家佳不来浪姐的原因了",
+        "onboard_time": 1775526860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133020,
+        "num": 133020,
+        "word": "黄一鸣被执行55万",
+        "onboard_time": 1775537602,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129597,
+        "num": 129597,
+        "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
+        "onboard_time": 1775532562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188628,
+        "num": 128767,
+        "word": "多方回应截瘫女子车祸时坐姿",
+        "onboard_time": 1775539341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 128421,
+        "word": "日本一老人咬陌生人手臂被捕后死亡",
+        "onboard_time": 1775540362,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127507,
+        "num": 127507,
+        "word": "伊朗若同意停火战争或再次爆发",
+        "onboard_time": 1775540421,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125842,
+        "num": 125842,
+        "word": "开车致女友截瘫后失联男子首发声",
+        "onboard_time": 1775532982,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107632,
+        "num": 107632,
+        "word": "桃晚安回应",
+        "onboard_time": 1775541022,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49327,
+        "num": 99058,
+        "word": "魏建军说卖车要带着良心",
+        "onboard_time": 1775541802,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98616,
+        "num": 98616,
+        "word": "迟重瑞陈丽华已结婚36年",
+        "onboard_time": 1775538262,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97753,
+        "num": 97753,
+        "word": "卫生巾会立即涨价吗",
+        "onboard_time": 1775538084,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97517,
+        "num": 97517,
+        "word": "月鳞绮纪微博追剧团",
+        "onboard_time": 1775537783,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96397,
+        "num": 96397,
+        "word": "朋友对陈丽华比迟重瑞大10岁感到震惊",
+        "onboard_time": 1775537783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93037,
+        "num": 93037,
+        "word": "原来一人吃饱全家不饿是这个意思",
+        "onboard_time": 1775531602,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89477,
+        "num": 89477,
+        "word": "月鳞绮纪",
+        "onboard_time": 1775535263,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88552,
+        "num": 88552,
+        "word": "日媒曝近500名日本老人死于家人侵害",
+        "onboard_time": 1775541802,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87436,
+        "num": 87436,
+        "word": "桃黑黑直播打嘴抽脸",
+        "onboard_time": 1775519600,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 84728,
+        "num": 84728,
+        "word": "TF五代数据组替小孩道歉",
+        "onboard_time": 1775537303,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82743,
+        "num": 82743,
+        "word": "莫氏鸡煲公主称被嫌慢嫌贵",
+        "onboard_time": 1775531724,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81756,
+        "num": 81756,
+        "word": "月鳞绮纪四位主演直播生图",
+        "onboard_time": 1775535924,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80165,
+        "num": 80165,
+        "word": "浪姐 魔鬼训练营",
+        "onboard_time": 1775540602,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77375,
+        "num": 79231,
+        "word": "美甲可能会传染HPV",
+        "onboard_time": 1775540542,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78541,
+        "num": 78541,
+        "word": "张元英穿搭基础身材就不基础",
+        "onboard_time": 1775530341,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民是历史的创造者是真正的英雄#"
+    }
+  }
+}

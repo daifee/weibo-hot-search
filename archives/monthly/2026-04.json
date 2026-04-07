@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775539098311,
+  "endTime": 1775541905166,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1492285,
+      "num": 568181,
+      "word": "周杰伦 江语晨",
+      "onboard_time": 1775537602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1489997,
       "num": 617355,
       "word": "安徽6岁失联女童确认遇害",
@@ -267,14 +275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1360178,
-      "num": 568181,
-      "word": "周杰伦 江语晨",
-      "onboard_time": 1775537602,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1353956,
       "num": 1353956,
       "word": "王濛 浪姐直播太磨叽了",
@@ -305,6 +305,14 @@
       "onboard_time": 1775009242,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1295084,
+      "num": 693784,
+      "word": "曝某牛奶直播间涉黄涉低俗",
+      "onboard_time": 1775538323,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1290802,
@@ -393,6 +401,14 @@
       "onboard_time": 1775304143,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1122144,
+      "num": 1179543,
+      "word": "郭艾伦否认被骗",
+      "onboard_time": 1775540900,
+      "rank": 0,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 1107944,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821531,
+      "num": 543902,
+      "word": "陈丽华叫迟重瑞迟先生",
+      "onboard_time": 1775536224,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811246,
       "num": 1129799,
       "word": "王楚钦vs约奇克",
@@ -993,14 +1017,6 @@
       "onboard_time": 1775287280,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698771,
-      "num": 543902,
-      "word": "陈丽华叫迟重瑞迟先生",
-      "onboard_time": 1775536224,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 697606,
@@ -1923,14 +1939,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 472825,
-      "num": 693784,
-      "word": "曝某牛奶直播间涉黄涉低俗",
-      "onboard_time": 1775538323,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 472603,
       "num": 1075616,
       "word": "清明上山扫墓却发现母亲的墓不见了",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1775383583,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429241,
+      "num": 429241,
+      "word": "金莎孙丞潇上夫妻综艺了",
+      "onboard_time": 1775539162,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 428179,
@@ -2483,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395187,
+      "num": 395187,
+      "word": "情侣因换座与女乘客发生争执",
+      "onboard_time": 1775538922,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393423,
       "num": 219224,
       "word": "马君妍马杨得女",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1775392524,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375626,
+      "num": 375626,
+      "word": "郑丽文率团抵达",
+      "onboard_time": 1775539701,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 373979,
@@ -3851,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280332,
+      "num": 172541,
+      "word": "金莎孙丞潇已经结婚了吗",
+      "onboard_time": 1775540421,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280132,
       "num": 280132,
       "word": "孙颖莎14比16高达",
@@ -4768,6 +4808,14 @@
       "word": "婚前立遗嘱小伙称房子掏空父母积蓄",
       "onboard_time": 1775034022,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231798,
+      "num": 172275,
+      "word": "女子住酒店在浴巾发现用过的伟哥",
+      "onboard_time": 1775539522,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -5971,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188628,
+      "num": 128767,
+      "word": "多方回应截瘫女子车祸时坐姿",
+      "onboard_time": 1775539341,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187026,
       "num": 187026,
       "word": "11岁女孩患肝衰竭和白血病双眼变绿",
@@ -6377,6 +6433,14 @@
       "onboard_time": 1775385622,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "迟重瑞说全家人每天必须一起吃晚饭",
+      "onboard_time": 1775541022,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172664,
@@ -7227,6 +7291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150949,
+      "num": 150949,
+      "word": "鞠婧祎 你是不是想陷害姐姐",
+      "onboard_time": 1775538443,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150718,
       "num": 150718,
       "word": "浪姐赛制",
@@ -7289,6 +7361,14 @@
       "onboard_time": 1775018364,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149933,
+      "num": 149933,
+      "word": "你愿意为车内的仪式感买单吗",
+      "onboard_time": 1775540063,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 149928,
@@ -7377,6 +7457,14 @@
       "onboard_time": 1775313684,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148167,
+      "num": 148167,
+      "word": "郭艾伦将追责",
+      "onboard_time": 1775541802,
+      "rank": 26,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 147500,
@@ -7699,14 +7787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "鞠婧祎 你是不是想陷害姐姐",
-      "onboard_time": 1775538443,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139934,
       "num": 139934,
       "word": "卫生巾价格或上涨3%至8%",
@@ -7721,14 +7801,6 @@
       "onboard_time": 1775260760,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139772,
-      "num": 139772,
-      "word": "情侣因换座与女乘客发生争执",
-      "onboard_time": 1775538922,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139678,
@@ -7857,6 +7929,14 @@
       "onboard_time": 1775346018,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136922,
+      "num": 128421,
+      "word": "日本一老人咬陌生人手臂被捕后死亡",
+      "onboard_time": 1775540362,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136864,
@@ -8481,6 +8561,14 @@
       "onboard_time": 1775362281,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127507,
+      "num": 127507,
+      "word": "伊朗若同意停火战争或再次爆发",
+      "onboard_time": 1775540421,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127394,
@@ -9947,6 +10035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107632,
+      "num": 107632,
+      "word": "桃晚安回应",
+      "onboard_time": 1775541022,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107604,
       "num": 103480,
       "word": "周杰伦白西装昆凌黑羽绒服",
@@ -10809,6 +10905,14 @@
       "onboard_time": 1775151077,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98616,
+      "num": 98616,
+      "word": "迟重瑞陈丽华已结婚36年",
+      "onboard_time": 1775538262,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98582,
@@ -11835,14 +11939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90289,
-      "num": 90289,
-      "word": "迟重瑞陈丽华已结婚36年",
-      "onboard_time": 1775538262,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90144,
       "num": 90144,
       "word": "松岛辉空4比3林昀儒",
@@ -12129,6 +12225,14 @@
       "onboard_time": 1775097624,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88552,
+      "num": 88552,
+      "word": "日媒曝近500名日本老人死于家人侵害",
+      "onboard_time": 1775541802,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88482,
@@ -12811,6 +12915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84636,
+      "num": 172976,
+      "word": "非法薅羊毛12万网警出手",
+      "onboard_time": 1775539642,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84587,
       "num": 84587,
       "word": "张雪通勤摩托只有一个后视镜",
@@ -13435,6 +13547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80165,
+      "num": 80165,
+      "word": "浪姐 魔鬼训练营",
+      "onboard_time": 1775540602,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80090,
       "num": 80090,
       "word": "五哈",
@@ -13849,6 +13969,14 @@
       "onboard_time": 1775382202,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77375,
+      "num": 79231,
+      "word": "美甲可能会传染HPV",
+      "onboard_time": 1775540542,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77349,
@@ -17067,6 +17195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49327,
+      "num": 99058,
+      "word": "魏建军说卖车要带着良心",
+      "onboard_time": 1775541802,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49308,
       "num": 81486,
       "word": "金银再跌油价大涨",
@@ -18515,6 +18651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16814,
+      "num": 172613,
+      "word": "银行业是高薪创高产吗",
+      "onboard_time": 1775541381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16227,
       "num": 83083,
       "word": "清明有人开了12小时还没出广东",
@@ -18745,6 +18889,14 @@
       "onboard_time": 1775470100,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9536,
+      "num": 652916,
+      "word": "电商要更好服务实体经济",
+      "onboard_time": 1775527939,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8658,
