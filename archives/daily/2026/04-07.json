@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775533150358,
+  "endTime": 1775539098311,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -19,8 +19,40 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1360178,
+      "num": 568181,
+      "word": "周杰伦 江语晨",
+      "onboard_time": 1775537602,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1029713,
+      "num": 1164754,
+      "word": "5月放假12天",
+      "onboard_time": 1775533641,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002928,
+      "num": 553142,
+      "word": "陈丽华身家470亿元",
+      "onboard_time": 1775532922,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 979603,
+      "num": 651244,
+      "word": "原来这叫软孤立啊",
+      "onboard_time": 1775533403,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 878127,
-      "num": 206770,
+      "num": 227899,
       "word": "找到邓家佳不来浪姐的原因了",
       "onboard_time": 1775526860,
       "rank": 10,
@@ -49,6 +81,30 @@
       "onboard_time": 1775523261,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 698771,
+      "num": 543902,
+      "word": "陈丽华叫迟重瑞迟先生",
+      "onboard_time": 1775536224,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 671245,
+      "num": 823616,
+      "word": "妻子的浪漫旅行嘉宾阵容",
+      "onboard_time": 1775534662,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 660427,
+      "num": 445663,
+      "word": "江语晨说才刚离婚别这样",
+      "onboard_time": 1775533462,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 549762,
@@ -83,12 +139,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517997,
+      "num": 517997,
+      "word": "余茵暴瘦",
+      "onboard_time": 1775533762,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497846,
-      "num": 205474,
+      "num": 267639,
       "word": "金卡戴珊汉密尔顿承认恋情",
       "onboard_time": 1775531542,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472825,
+      "num": 693784,
+      "word": "曝某牛奶直播间涉黄涉低俗",
+      "onboard_time": 1775538323,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454204,
+      "num": 645796,
+      "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
+      "onboard_time": 1775532562,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449504,
@@ -147,6 +227,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 345004,
+      "num": 345004,
+      "word": "潘玮柏女儿5岁近照",
+      "onboard_time": 1775533161,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 338255,
+      "num": 671181,
+      "word": "伊朗称以放弃北部城市承认了失败",
+      "onboard_time": 1775531962,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 324018,
+      "num": 617301,
+      "word": "被特朗普言论震惊了",
+      "onboard_time": 1775529080,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 307076,
       "num": 307076,
       "word": "文章和女儿合照被说像明星",
@@ -195,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279633,
+      "num": 231467,
+      "word": "松岛辉空拒绝和王楚钦握手",
+      "onboard_time": 1775537543,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276971,
       "num": 276971,
       "word": "朝鲜回应李在明",
@@ -217,6 +329,22 @@
       "onboard_time": 1775530341,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272046,
+      "num": 601073,
+      "word": "张豆豆没头脑孙杨不高兴",
+      "onboard_time": 1775534782,
+      "rank": 8,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 269700,
+      "num": 526989,
+      "word": "开车致女友截瘫后失联男子首发声",
+      "onboard_time": 1775532982,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256725,
@@ -243,11 +371,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244201,
-      "num": 244201,
-      "word": "陈丽华身家470亿元",
-      "onboard_time": 1775532922,
-      "rank": 6,
+      "raw_hot": 235021,
+      "num": 140331,
+      "word": "朋友对陈丽华比迟重瑞大10岁感到震惊",
+      "onboard_time": 1775537783,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -275,20 +403,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220753,
-      "num": 195631,
-      "word": "被特朗普言论震惊了",
-      "onboard_time": 1775529080,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207899,
-      "num": 207899,
+      "num": 233976,
       "word": "莫氏鸡煲公主称被嫌慢嫌贵",
       "onboard_time": 1775531724,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203508,
+      "num": 366720,
+      "word": "原来一人吃饱全家不饿是这个意思",
+      "onboard_time": 1775531602,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 202397,
@@ -339,20 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189851,
+      "num": 189851,
+      "word": "月鳞绮纪微博追剧团",
+      "onboard_time": 1775537783,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184515,
+      "num": 176311,
+      "word": "黄一鸣被执行55万",
+      "onboard_time": 1775537602,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183497,
       "num": 157112,
       "word": "五次退网的辛巴再收徒",
       "onboard_time": 1775520620,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 181453,
-      "num": 181453,
-      "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
-      "onboard_time": 1775532562,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179987,
@@ -379,12 +515,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173619,
-      "num": 173619,
-      "word": "伊朗称以放弃北部城市承认了失败",
-      "onboard_time": 1775531962,
+      "raw_hot": 174641,
+      "num": 174641,
+      "word": "女生写论文仅睡4小时锻炼时倒下",
+      "onboard_time": 1775538084,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170370,
+      "num": 170370,
+      "word": "男友肇事致截瘫女子疼到像凌迟",
+      "onboard_time": 1775535084,
       "rank": 26,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170183,
@@ -459,6 +603,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142206,
+      "num": 142206,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775535263,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139944,
+      "num": 139944,
+      "word": "鞠婧祎 你是不是想陷害姐姐",
+      "onboard_time": 1775538443,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139772,
+      "num": 139772,
+      "word": "情侣因换座与女乘客发生争执",
+      "onboard_time": 1775538922,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138782,
       "num": 175981,
       "word": "曾舜晞陈都灵或将主演不醒",
@@ -481,6 +649,14 @@
       "onboard_time": 1775531363,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "妻子点单丈夫2月偷会员超市上万商品",
+      "onboard_time": 1775535382,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131736,
@@ -521,6 +697,14 @@
       "onboard_time": 1775507774,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122907,
+      "num": 122907,
+      "word": "月鳞绮纪四位主演直播生图",
+      "onboard_time": 1775535924,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 121035,
@@ -579,12 +763,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110526,
+      "num": 110526,
+      "word": "TF五代数据组替小孩道歉",
+      "onboard_time": 1775537303,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110522,
+      "num": 110522,
+      "word": "建议大家早点建立自己的早睡系统",
+      "onboard_time": 1775536404,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110480,
       "num": 110480,
       "word": "多国央行开始卖黄金了",
       "onboard_time": 1775522121,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105493,
+      "num": 105493,
+      "word": "IU边佑锡谈10年后再合作",
+      "onboard_time": 1775538623,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 104709,
@@ -603,20 +811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102488,
+      "num": 102488,
+      "word": "本周上四就休二",
+      "onboard_time": 1775536584,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "江语晨前夫是美籍",
       "onboard_time": 1775531062,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100421,
-      "num": 142353,
-      "word": "开车致女友截瘫后失联男子首发声",
-      "onboard_time": 1775532982,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99108,
@@ -627,6 +835,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 99055,
+      "num": 158575,
+      "word": "郑丽文今日启程访陆",
+      "onboard_time": 1775530099,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98695,
       "num": 98695,
       "word": "巴拿马发生巨大爆炸",
@@ -635,12 +851,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98346,
+      "num": 585757,
+      "word": "卫生巾会立即涨价吗",
+      "onboard_time": 1775538084,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 96519,
+      "num": 96519,
+      "word": "陈光标痛悼陈丽华",
+      "onboard_time": 1775537663,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95432,
       "num": 95432,
       "word": "伊朗数百公斤弹头仍留在海法废墟下",
       "onboard_time": 1775528899,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95351,
+      "num": 95351,
+      "word": "张峻豪官宣成都演唱会",
+      "onboard_time": 1775536525,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 94289,
@@ -657,6 +897,14 @@
       "onboard_time": 1775533043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93940,
+      "num": 96959,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1775538623,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 93630,
@@ -683,10 +931,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89557,
-      "num": 89557,
-      "word": "原来一人吃饱全家不饿是这个意思",
-      "onboard_time": 1775531602,
+      "raw_hot": 90289,
+      "num": 90289,
+      "word": "迟重瑞陈丽华已结婚36年",
+      "onboard_time": 1775538262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89974,
+      "num": 89974,
+      "word": "入职即可免费使用厕所",
+      "onboard_time": 1775535624,
       "rank": 49,
       "category": "幽默"
     },
@@ -1052,7 +1308,7 @@
     },
     {
       "raw_hot": 49460,
-      "num": 641684,
+      "num": 695805,
       "word": "清明文旅市场三线齐热",
       "onboard_time": 1775528299,
       "rank": 2,
@@ -1171,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34725,
+      "num": 110870,
+      "word": "多品牌回应卫生巾涨价",
+      "onboard_time": 1775538984,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34432,
       "num": 116674,
       "word": "龚俊方发维权声明",
@@ -1187,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28458,
+      "num": 140463,
+      "word": "北京侨商会悼念陈丽华",
+      "onboard_time": 1775537783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27410,
       "num": 64876,
       "word": "阿尔忒弥斯2号任务绕月返回轨道解析",
@@ -1201,14 +1473,6 @@
       "onboard_time": 1775495536,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26462,
-      "num": 158575,
-      "word": "郑丽文今日启程访陆",
-      "onboard_time": 1775530099,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24624,
