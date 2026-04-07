@@ -1,0 +1,410 @@
+{
+  "runTime": 1775561449876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 269087,
+        "num": 1043053,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219643,
+        "num": 741361,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18838,
+        "num": 730305,
+        "word": "天舟十号飞行任务标识正式发布",
+        "onboard_time": 1775550440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525989,
+        "num": 721534,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249305,
+        "num": 719703,
+        "word": "伊朗总统说已准备好牺牲",
+        "onboard_time": 1775553502,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 719642,
+        "num": 719642,
+        "word": "浪姐取消直播后被喊话退钱",
+        "onboard_time": 1775556741,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429653,
+        "num": 719392,
+        "word": "警方通报车辆坠河致5死",
+        "onboard_time": 1775558183,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137319,
+        "num": 708331,
+        "word": "两位小米联合创始人退出小米科技",
+        "onboard_time": 1775560460,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121783,
+        "num": 699357,
+        "word": "张本智和近距离感受国乒队魂",
+        "onboard_time": 1775554401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103549,
+        "num": 694888,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 687667,
+        "num": 687667,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 559237,
+        "num": 559237,
+        "word": "十日终焉最新阵容",
+        "onboard_time": 1775555421,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487335,
+        "num": 487335,
+        "word": "不要跟不熟的人互关",
+        "onboard_time": 1775557520,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298934,
+        "num": 487169,
+        "word": "张雪撞了人母亲赔3万多没责骂一句",
+        "onboard_time": 1775557039,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294492,
+        "num": 484066,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275826,
+        "num": 480359,
+        "word": "日本撞人族被抓后鞠躬道歉",
+        "onboard_time": 1775553860,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216999,
+        "num": 477873,
+        "word": "九尾的新发型",
+        "onboard_time": 1775560941,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203624,
+        "num": 474856,
+        "word": "陈丽华是叶赫那拉氏第八代后裔",
+        "onboard_time": 1775559260,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187779,
+        "num": 471613,
+        "word": "浪姐一公小考取消直播",
+        "onboard_time": 1775550561,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151446,
+        "num": 470506,
+        "word": "开心消消乐",
+        "onboard_time": 1775561240,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468517,
+        "num": 468517,
+        "word": "迟重瑞为陈丽华光头36年",
+        "onboard_time": 1775555361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394383,
+        "num": 394383,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136670,
+        "num": 349674,
+        "word": "韩国人称为吃地瓜条专门来中国",
+        "onboard_time": 1775550621,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95336,
+        "num": 337963,
+        "word": "浪姐录播 无字幕",
+        "onboard_time": 1775555361,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329911,
+        "num": 329911,
+        "word": "鞠婧祎含泪拥抱十年老粉",
+        "onboard_time": 1775557820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131708,
+        "num": 236920,
+        "word": "专家回应健身的人老了死得干脆",
+        "onboard_time": 1775558661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235017,
+        "num": 235017,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92436,
+        "num": 183390,
+        "word": "华为Pura90系列曝光",
+        "onboard_time": 1775560761,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154891,
+        "num": 154891,
+        "word": "宋祖儿帽子比脸大了一圈",
+        "onboard_time": 1775553261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137942,
+        "num": 137942,
+        "word": "小徐谈研究生有多挣钱",
+        "onboard_time": 1775556502,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184642,
+        "num": 135217,
+        "word": "泰国知名高校情侣双亡墙上血书遗言",
+        "onboard_time": 1775560761,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "严浩翔新专概念世界",
+        "onboard_time": 1775558901,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112045,
+        "num": 112045,
+        "word": "虞书欣和Jennie同款发型",
+        "onboard_time": 1775548583,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97248,
+        "num": 111647,
+        "word": "极氪8X官宣4月17日正式上市",
+        "onboard_time": 1775559561,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111389,
+        "num": 111389,
+        "word": "时代少年团年度最好笑物料",
+        "onboard_time": 1775560701,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105702,
+        "num": 105702,
+        "word": "孙俪小助理好爱她",
+        "onboard_time": 1775560041,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99168,
+        "num": 99168,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 98571,
+        "word": "陈丽华育有一儿二女",
+        "onboard_time": 1775551460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91587,
+        "num": 91587,
+        "word": "魏大勋青岛进组十日终焉",
+        "onboard_time": 1775548583,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89527,
+        "num": 89527,
+        "word": "反诈老陈连续4年晒纳税",
+        "onboard_time": 1775557460,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72968,
+        "num": 88199,
+        "word": "京城大师赛",
+        "onboard_time": 1775561362,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87704,
+        "num": 87704,
+        "word": "黄晓明现身交警队",
+        "onboard_time": 1775555058,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20750,
+        "num": 78086,
+        "word": "奥迪登顶亚洲山脊赛道最速SUV",
+        "onboard_time": 1775556801,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76123,
+        "num": 76123,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1775548220,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74081,
+        "num": 74081,
+        "word": "张凌赫锁骨伤太对味了",
+        "onboard_time": 1775552720,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 72335,
+        "word": "黄金或面临长期盘整",
+        "onboard_time": 1775550561,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71405,
+        "num": 71405,
+        "word": "陈丽华儿子担任富华国际集团总裁",
+        "onboard_time": 1775544200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70789,
+        "num": 70789,
+        "word": "五指毛桃的花语",
+        "onboard_time": 1775557761,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 71236,
+        "num": 69966,
+        "word": "鞠婧祎怎么变成小鸭子啦",
+        "onboard_time": 1775552842,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67949,
+        "num": 67949,
+        "word": "外交部回应郑丽文率团访问大陆",
+        "onboard_time": 1775554040,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}
