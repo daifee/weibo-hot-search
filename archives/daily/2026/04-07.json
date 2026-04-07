@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775570937198,
+  "endTime": 1775575092500,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -31,6 +31,14 @@
       "num": 585702,
       "word": "美军特种兵潜入伊朗救人场面失控",
       "onboard_time": 1775517738,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1329606,
+      "num": 633591,
+      "word": "伊朗关闭与美国所有外交渠道",
+      "onboard_time": 1775571563,
       "rank": 3,
       "category": "国际时政"
     },
@@ -73,6 +81,14 @@
       "onboard_time": 1775551882,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1065912,
+      "num": 229087,
+      "word": "思文当妈",
+      "onboard_time": 1775570722,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1029713,
@@ -163,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779190,
+      "num": 742750,
+      "word": "美以袭击哈尔克岛",
+      "onboard_time": 1775564001,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 763047,
       "num": 238905,
       "word": "瞿颖 肉毒起作用了",
       "onboard_time": 1775547563,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744949,
-      "num": 742750,
-      "word": "美以袭击哈尔克岛",
-      "onboard_time": 1775564001,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 741793,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 641205,
-      "num": 205827,
+      "num": 221342,
       "word": "向太自曝曾多次拆散向佐恋情",
       "onboard_time": 1775564360,
       "rank": 20,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 634625,
-      "num": 209297,
+      "num": 221843,
       "word": "刘耀文 耳洞",
       "onboard_time": 1775566943,
       "rank": 21,
@@ -315,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479793,
+      "num": 248798,
+      "word": "伊朗说克制已结束",
+      "onboard_time": 1775567303,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 470059,
+      "num": 1075209,
+      "word": "王楚钦称跟樊振东打出了自己的问题",
+      "onboard_time": 1775568863,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468517,
       "num": 468517,
       "word": "迟重瑞为陈丽华光头36年",
@@ -371,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411745,
-      "num": 248798,
-      "word": "伊朗说克制已结束",
-      "onboard_time": 1775567303,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 407367,
       "num": 471613,
       "word": "浪姐一公小考取消直播",
@@ -403,12 +427,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 398918,
-      "num": 1063827,
-      "word": "王楚钦称跟樊振东打出了自己的问题",
-      "onboard_time": 1775568863,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 395897,
+      "num": 226912,
+      "word": "鞠婧祎生图",
+      "onboard_time": 1775572583,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395187,
@@ -731,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257404,
+      "num": 224556,
+      "word": "伊朗称若局势失控曼德海峡也将关闭",
+      "onboard_time": 1775573783,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256725,
       "num": 203219,
       "word": "伊朗的棋越下越大",
@@ -769,6 +801,14 @@
       "onboard_time": 1775562200,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240139,
+      "num": 223408,
+      "word": "时隔近一年郭艾伦再向周深道歉",
+      "onboard_time": 1775570364,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 235021,
@@ -899,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202883,
+      "num": 202883,
+      "word": "直播涉黄牛奶品牌为中华老字号",
+      "onboard_time": 1775573003,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202397,
       "num": 466935,
       "word": "三星家族549亿元遗产税尾款",
@@ -921,6 +969,14 @@
       "onboard_time": 1775528839,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199242,
+      "num": 139877,
+      "word": "以军空袭伊朗铁路和桥梁",
+      "onboard_time": 1775573182,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194625,
@@ -961,6 +1017,14 @@
       "onboard_time": 1775537783,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185371,
+      "num": 185371,
+      "word": "迟重瑞永远站在陈丽华身后半步",
+      "onboard_time": 1775571624,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184642,
@@ -1235,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140105,
+      "num": 140105,
+      "word": "危险关系 恐怖片",
+      "onboard_time": 1775572822,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139288,
       "num": 139288,
       "word": "1元公交雨中喷水乘客说体谅体谅",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1775556502,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 137796,
+      "num": 137796,
+      "word": "44岁女子用冷冻13年胚胎怀上二胎",
+      "onboard_time": 1775572765,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136922,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1775493498,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125844,
+      "num": 125844,
+      "word": "过三月和过四月的速度不一样",
+      "onboard_time": 1775571442,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 124901,
@@ -1603,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109071,
-      "num": 109071,
-      "word": "思文当妈",
-      "onboard_time": 1775570722,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107630,
       "num": 107630,
       "word": "重庆一业主40万卖房后被判赔80万",
@@ -1625,6 +1705,22 @@
       "onboard_time": 1775551702,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106070,
+      "num": 106070,
+      "word": "陈都灵晒追剧团合照",
+      "onboard_time": 1775573364,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106025,
+      "num": 97531,
+      "word": "曾舜晞差点复刻经典头纱吻",
+      "onboard_time": 1775573424,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 105493,
@@ -1769,14 +1865,6 @@
       "onboard_time": 1775538084,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97788,
-      "num": 97788,
-      "word": "时隔近一年郭艾伦再向周深道歉",
-      "onboard_time": 1775570364,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 97735,
@@ -2019,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85749,
+      "num": 93927,
+      "word": "黄金为何跌下神坛",
+      "onboard_time": 1775571744,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85213,
       "num": 156608,
       "word": "医院回应胸痛硬扛1小时才知是心梗",
@@ -2057,6 +2153,14 @@
       "onboard_time": 1775517978,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84006,
+      "num": 84006,
+      "word": "欧美股市集体跳水翻绿",
+      "onboard_time": 1775573003,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 83742,
@@ -2185,6 +2289,14 @@
       "onboard_time": 1775540542,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77160,
+      "num": 83656,
+      "word": "压倒樱花树女子认错愿赔偿",
+      "onboard_time": 1775573123,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76767,
@@ -2832,6 +2944,14 @@
       "word": "中国力量定义下一代混动",
       "onboard_time": 1775558480,
       "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 24949,
+      "num": 226414,
+      "word": "华境S全维安全王中王",
+      "onboard_time": 1775571264,
+      "rank": 14,
       "category": "汽车"
     },
     {
