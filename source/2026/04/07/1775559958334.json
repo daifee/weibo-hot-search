@@ -1,0 +1,410 @@
+{
+  "runTime": 1775559958334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 305861,
+        "num": 1048937,
+        "word": "警方通报车辆坠河致5死",
+        "onboard_time": 1775558183,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 289999,
+        "num": 770413,
+        "word": "张雪撞了人母亲赔3万多没责骂一句",
+        "onboard_time": 1775557039,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19258,
+        "num": 603844,
+        "word": "天舟十号飞行任务标识正式发布",
+        "onboard_time": 1775550440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483236,
+        "num": 483236,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298032,
+        "num": 298032,
+        "word": "伊朗总统说已准备好牺牲",
+        "onboard_time": 1775553502,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268406,
+        "num": 268406,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815352,
+        "num": 251556,
+        "word": "浪姐取消直播后被喊话退钱",
+        "onboard_time": 1775556741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741793,
+        "num": 236904,
+        "word": "十日终焉最新阵容",
+        "onboard_time": 1775555421,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209604,
+        "num": 209604,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159764,
+        "num": 159764,
+        "word": "张本智和近距离感受国乒队魂",
+        "onboard_time": 1775554401,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705755,
+        "num": 159759,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 401891,
+        "num": 158371,
+        "word": "日本撞人族被抓后鞠躬道歉",
+        "onboard_time": 1775553860,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 315701,
+        "num": 157595,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184288,
+        "num": 156951,
+        "word": "浪姐一公小考取消直播",
+        "onboard_time": 1775550561,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182346,
+        "num": 155847,
+        "word": "不要跟不熟的人互关",
+        "onboard_time": 1775557520,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155340,
+        "num": 155340,
+        "word": "韩国人称为吃地瓜条专门来中国",
+        "onboard_time": 1775550621,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115091,
+        "num": 115091,
+        "word": "职场微信礼仪",
+        "onboard_time": 1775553800,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22529,
+        "num": 110737,
+        "word": "奥迪登顶亚洲山脊赛道最速SUV",
+        "onboard_time": 1775556801,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108976,
+        "num": 108976,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38660,
+        "num": 108934,
+        "word": "美真能4小时炸毁伊朗发电厂和桥梁吗",
+        "onboard_time": 1775559501,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 488375,
+        "num": 108655,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460588,
+        "num": 108518,
+        "word": "迟重瑞为陈丽华光头36年",
+        "onboard_time": 1775555361,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113968,
+        "num": 108301,
+        "word": "专家回应健身的人老了死得干脆",
+        "onboard_time": 1775558661,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294167,
+        "num": 108096,
+        "word": "鞠婧祎含泪拥抱十年老粉",
+        "onboard_time": 1775557820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269358,
+        "num": 108077,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107904,
+        "num": 107904,
+        "word": "陈丽华是叶赫那拉氏第八代后裔",
+        "onboard_time": 1775559260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160328,
+        "num": 107695,
+        "word": "宋祖儿帽子比脸大了一圈",
+        "onboard_time": 1775553261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149857,
+        "num": 106786,
+        "word": "严浩翔新专概念世界",
+        "onboard_time": 1775558901,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105592,
+        "num": 105592,
+        "word": "陈丽华儿子担任富华国际集团总裁",
+        "onboard_time": 1775544200,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131679,
+        "num": 105145,
+        "word": "小徐谈研究生有多挣钱",
+        "onboard_time": 1775556502,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225609,
+        "num": 103382,
+        "word": "极氪8X官宣4月17日正式上市",
+        "onboard_time": 1775559561,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120988,
+        "num": 102434,
+        "word": "黄晓明现身交警队",
+        "onboard_time": 1775555058,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119761,
+        "num": 99596,
+        "word": "虞书欣和Jennie同款发型",
+        "onboard_time": 1775548583,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93188,
+        "num": 98252,
+        "word": "陈丽华育有一儿二女",
+        "onboard_time": 1775551460,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98010,
+        "num": 98010,
+        "word": "张凌赫锁骨伤太对味了",
+        "onboard_time": 1775552720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96299,
+        "num": 96299,
+        "word": "浪姐录播 无字幕",
+        "onboard_time": 1775555361,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87506,
+        "num": 94531,
+        "word": "黄金或面临长期盘整",
+        "onboard_time": 1775550561,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93146,
+        "num": 93146,
+        "word": "反诈老陈连续4年晒纳税",
+        "onboard_time": 1775557460,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20860,
+        "num": 93078,
+        "word": "用AI起草涉密材料1人被处理",
+        "onboard_time": 1775559800,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27213,
+        "num": 92817,
+        "word": "客运站饮水机满是污垢被斥恶心",
+        "onboard_time": 1775559800,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25124,
+        "num": 92487,
+        "word": "中国力量定义下一代混动",
+        "onboard_time": 1775558480,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84542,
+        "num": 92307,
+        "word": "外交部回应郑丽文率团访问大陆",
+        "onboard_time": 1775554040,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92228,
+        "num": 92228,
+        "word": "魏大勋青岛进组十日终焉",
+        "onboard_time": 1775548583,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85349,
+        "num": 85349,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1775548220,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80867,
+        "num": 80867,
+        "word": "终于有人吐槽住酒店化妆难了",
+        "onboard_time": 1775552421,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81239,
+        "num": 80011,
+        "word": "曾舜晞情商",
+        "onboard_time": 1775554761,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77874,
+        "num": 77874,
+        "word": "中方回应是否延长对俄罗斯免签",
+        "onboard_time": 1775557881,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80073,
+        "num": 77179,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75657,
+        "num": 75657,
+        "word": "十日终焉",
+        "onboard_time": 1775553081,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73978,
+        "num": 73978,
+        "word": "为什么俄罗斯的城市不搞冰雪大世界",
+        "onboard_time": 1775557162,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}

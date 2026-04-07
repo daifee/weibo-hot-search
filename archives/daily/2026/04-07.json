@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775555076409,
+  "endTime": 1775559958334,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 815352,
+      "num": 251556,
+      "word": "浪姐取消直播后被喊话退钱",
+      "onboard_time": 1775556741,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805454,
       "num": 452831,
       "word": "安徽6岁失联女童确认遇害",
@@ -137,6 +145,14 @@
       "onboard_time": 1775547563,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 741793,
+      "num": 236904,
+      "word": "十日终焉最新阵容",
+      "onboard_time": 1775555421,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 717661,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460588,
+      "num": 108518,
+      "word": "迟重瑞为陈丽华光头36年",
+      "onboard_time": 1775555361,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454204,
       "num": 645796,
       "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
@@ -273,6 +297,14 @@
       "onboard_time": 1775550561,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401891,
+      "num": 158371,
+      "word": "日本撞人族被抓后鞠躬道歉",
+      "onboard_time": 1775553860,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 400891,
@@ -411,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305861,
+      "num": 1048937,
+      "word": "警方通报车辆坠河致5死",
+      "onboard_time": 1775558183,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 294404,
       "num": 331348,
       "word": "代斯发了和张月陈瑶徐梦洁合照",
       "onboard_time": 1775489841,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294167,
+      "num": 108096,
+      "word": "鞠婧祎含泪拥抱十年老粉",
+      "onboard_time": 1775557820,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 294038,
@@ -441,6 +489,14 @@
       "onboard_time": 1775518338,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289999,
+      "num": 770413,
+      "word": "张雪撞了人母亲赔3万多没责骂一句",
+      "onboard_time": 1775557039,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284172,
@@ -595,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225609,
+      "num": 103382,
+      "word": "极氪8X官宣4月17日正式上市",
+      "onboard_time": 1775559561,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 225031,
       "num": 721816,
       "word": "香港飞香港的航班",
@@ -617,14 +681,6 @@
       "onboard_time": 1775548220,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223421,
-      "num": 104732,
-      "word": "日本撞人族被抓后鞠躬道歉",
-      "onboard_time": 1775553860,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 220919,
@@ -731,6 +787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 182346,
+      "num": 155847,
+      "word": "不要跟不熟的人互关",
+      "onboard_time": 1775557520,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179987,
       "num": 156175,
       "word": "晒太阳时身体会经历哪些变化",
@@ -801,6 +865,22 @@
       "onboard_time": 1775548461,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160328,
+      "num": 107695,
+      "word": "宋祖儿帽子比脸大了一圈",
+      "onboard_time": 1775553261,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159764,
+      "num": 159764,
+      "word": "张本智和近距离感受国乒队魂",
+      "onboard_time": 1775554401,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 158908,
@@ -883,6 +963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149857,
+      "num": 106786,
+      "word": "严浩翔新专概念世界",
+      "onboard_time": 1775558901,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145624,
       "num": 207472,
       "word": "孙颖莎在每张大合影中都笑的不一样",
@@ -905,14 +993,6 @@
       "onboard_time": 1775535263,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139222,
-      "num": 106172,
-      "word": "宋祖儿帽子比脸大了一圈",
-      "onboard_time": 1775553261,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 138782,
@@ -985,6 +1065,14 @@
       "onboard_time": 1775531301,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131679,
+      "num": 105145,
+      "word": "小徐谈研究生有多挣钱",
+      "onboard_time": 1775556502,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 130661,
@@ -1067,6 +1155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120988,
+      "num": 102434,
+      "word": "黄晓明现身交警队",
+      "onboard_time": 1775555058,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119175,
       "num": 119175,
       "word": "人的心气是能重新养回来的",
@@ -1131,12 +1227,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115091,
+      "num": 115091,
+      "word": "职场微信礼仪",
+      "onboard_time": 1775553800,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114232,
       "num": 104108,
       "word": "张凌赫锁骨伤太对味了",
       "onboard_time": 1775552720,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 108301,
+      "word": "专家回应健身的人老了死得干脆",
+      "onboard_time": 1775558661,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110870,
@@ -1171,6 +1283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107904,
+      "num": 107904,
+      "word": "陈丽华是叶赫那拉氏第八代后裔",
+      "onboard_time": 1775559260,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107630,
       "num": 107630,
       "word": "重庆一业主40万卖房后被判赔80万",
@@ -1201,14 +1321,6 @@
       "onboard_time": 1775546361,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105052,
-      "num": 105052,
-      "word": "张本智和近距离感受国乒队魂",
-      "onboard_time": 1775554401,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 104918,
@@ -1249,14 +1361,6 @@
       "onboard_time": 1775544262,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102665,
-      "num": 102665,
-      "word": "职场微信礼仪",
-      "onboard_time": 1775553800,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 102488,
@@ -1331,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96299,
+      "num": 96299,
+      "word": "浪姐录播 无字幕",
+      "onboard_time": 1775555361,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95432,
       "num": 95432,
       "word": "伊朗数百公斤弹头仍留在海法废墟下",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1775523081,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93146,
+      "num": 93146,
+      "word": "反诈老陈连续4年晒纳税",
+      "onboard_time": 1775557460,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 93123,
@@ -1603,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80073,
+      "num": 77179,
+      "word": "伊朗对美以发动第99波打击",
+      "onboard_time": 1775559861,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79331,
       "num": 79331,
       "word": "想出用棉被隔音的简直天才",
@@ -1643,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77874,
+      "num": 77874,
+      "word": "中方回应是否延长对俄罗斯免签",
+      "onboard_time": 1775557881,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77375,
       "num": 79231,
       "word": "美甲可能会传染HPV",
@@ -1665,6 +1801,14 @@
       "onboard_time": 1775554401,
       "rank": 42,
       "category": "海外新闻,旅游"
+    },
+    {
+      "raw_hot": 73978,
+      "num": 73978,
+      "word": "为什么俄罗斯的城市不搞冰雪大世界",
+      "onboard_time": 1775557162,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 73282,
@@ -2091,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38660,
+      "num": 108934,
+      "word": "美真能4小时炸毁伊朗发电厂和桥梁吗",
+      "onboard_time": 1775559501,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36823,
       "num": 611973,
       "word": "清明假期预计跨区域流动8.4亿人次",
@@ -2179,6 +2331,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27213,
+      "num": 92817,
+      "word": "客运站饮水机满是污垢被斥恶心",
+      "onboard_time": 1775559800,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25124,
+      "num": 92487,
+      "word": "中国力量定义下一代混动",
+      "onboard_time": 1775558480,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24624,
       "num": 64831,
       "word": "田曦薇素颜饭撒",
@@ -2203,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22529,
+      "num": 110737,
+      "word": "奥迪登顶亚洲山脊赛道最速SUV",
+      "onboard_time": 1775556801,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22048,
       "num": 173552,
       "word": "截瘫女子称男友说会结婚反手拉黑",
@@ -2217,6 +2393,14 @@
       "onboard_time": 1775493019,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20860,
+      "num": 93078,
+      "word": "用AI起草涉密材料1人被处理",
+      "onboard_time": 1775559800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19964,
