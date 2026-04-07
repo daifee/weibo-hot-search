@@ -1,10 +1,10 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775519105611,
+  "endTime": 1775520004774,
   "band_list": [
     {
-      "raw_hot": 1098452,
-      "num": 525828,
+      "raw_hot": 1437079,
+      "num": 585702,
       "word": "美军特种兵潜入伊朗救人场面失控",
       "onboard_time": 1775517738,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1775484984,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 717661,
+      "num": 534751,
+      "word": "阚清子参加浪姐瘦了一圈",
+      "onboard_time": 1775518879,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 449504,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 373979,
-      "num": 184330,
+      "num": 235083,
       "word": "被大冰断家务事的三观给征服",
       "onboard_time": 1775487024,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 307076,
+      "num": 307076,
+      "word": "文章和女儿合照被说像明星",
+      "onboard_time": 1775483481,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 294404,
@@ -68,23 +84,23 @@
     },
     {
       "raw_hot": 293310,
-      "num": 671220,
+      "num": 1036163,
       "word": "日乒队员看王楚钦夺冠时的表情",
       "onboard_time": 1775517019,
       "rank": 1,
       "category": "体育"
     },
     {
-      "raw_hot": 283247,
-      "num": 157042,
-      "word": "文章和女儿合照被说像明星",
-      "onboard_time": 1775483481,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 291494,
+      "num": 291494,
+      "word": "特朗普正面临重大抉择",
+      "onboard_time": 1775518338,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276044,
-      "num": 276044,
+      "num": 435869,
       "word": "14枚导弹命中以色列人口密集区",
       "onboard_time": 1775483183,
       "rank": 5,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 256725,
-      "num": 155851,
+      "num": 203219,
       "word": "伊朗的棋越下越大",
       "onboard_time": 1775487322,
       "rank": 11,
@@ -107,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227262,
+      "num": 524718,
+      "word": "中信银行人均薪酬60万",
+      "onboard_time": 1775518279,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225031,
       "num": 721816,
       "word": "香港飞香港的航班",
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 202397,
-      "num": 202397,
+      "num": 466935,
       "word": "三星家族549亿元遗产税尾款",
       "onboard_time": 1775517379,
       "rank": 4,
@@ -124,35 +148,11 @@
     },
     {
       "raw_hot": 201146,
-      "num": 351191,
+      "num": 380719,
       "word": "伊朗拒绝停火强调须永久结束战争",
       "onboard_time": 1775490561,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193551,
-      "num": 153371,
-      "word": "特朗普正面临重大抉择",
-      "onboard_time": 1775518338,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 179263,
-      "num": 179263,
-      "word": "中信银行人均薪酬60万",
-      "onboard_time": 1775518279,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 171584,
-      "num": 171584,
-      "word": "阚清子参加浪姐瘦了一圈",
-      "onboard_time": 1775518879,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 170183,
@@ -161,6 +161,14 @@
       "onboard_time": 1775477481,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158908,
+      "num": 158908,
+      "word": "李若嘉被查出桥本病",
+      "onboard_time": 1775518821,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 158260,
@@ -177,6 +185,14 @@
       "onboard_time": 1775481263,
       "rank": 15,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 143127,
+      "num": 341979,
+      "word": "我们的爸爸2重组家庭太难了",
+      "onboard_time": 1775518397,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 127726,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117094,
+      "num": 93612,
+      "word": "迪丽热巴陈飞宇牵手奔跑",
+      "onboard_time": 1775517198,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104709,
       "num": 118505,
       "word": "卫生巾或通过减量不加价隐性涨价",
@@ -219,20 +243,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 93612,
-      "num": 93612,
-      "word": "迪丽热巴陈飞宇牵手奔跑",
-      "onboard_time": 1775517198,
-      "rank": 19,
+      "raw_hot": 94289,
+      "num": 87084,
+      "word": "田嘉瑞月鳞绮纪",
+      "onboard_time": 1775518579,
+      "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92822,
-      "num": 92822,
-      "word": "我们的爸爸2重组家庭太难了",
-      "onboard_time": 1775518397,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 86749,
@@ -249,6 +265,22 @@
       "onboard_time": 1775492180,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84991,
+      "num": 67611,
+      "word": "恩利叫秦昊小昊哥哥",
+      "onboard_time": 1775519300,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84258,
+      "num": 84258,
+      "word": "伊朗说美营救飞行员或意在偷浓缩铀",
+      "onboard_time": 1775517978,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80971,
@@ -299,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75991,
-      "num": 66243,
-      "word": "伊朗说美营救飞行员或意在偷浓缩铀",
-      "onboard_time": 1775517978,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73282,
       "num": 118238,
       "word": "男子故意绊服务员面汤洒顾客身上",
@@ -315,8 +339,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70886,
+      "num": 70886,
+      "word": "天下足球意大利特辑看哭了",
+      "onboard_time": 1775518279,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70876,
-      "num": 58023,
+      "num": 64564,
       "word": "伊朗导弹密集突破以色列防空",
       "onboard_time": 1775496736,
       "rank": 19,
@@ -363,12 +395,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64593,
-      "num": 64593,
-      "word": "田嘉瑞月鳞绮纪",
-      "onboard_time": 1775518579,
+      "raw_hot": 67612,
+      "num": 117528,
+      "word": "早点吃晚餐有多重要",
+      "onboard_time": 1775493438,
       "rank": 31,
-      "category": "剧集"
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67514,
+      "num": 67514,
+      "word": "桃黑黑直播打嘴抽脸",
+      "onboard_time": 1775519600,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 66410,
+      "num": 116840,
+      "word": "i人佟丽娅生了个e人儿子",
+      "onboard_time": 1775482883,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 64010,
@@ -411,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57390,
-      "num": 117528,
-      "word": "早点吃晚餐有多重要",
-      "onboard_time": 1775493438,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 56205,
       "num": 118771,
       "word": "美宇航员太空中意外半裸出镜",
@@ -435,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54492,
+      "num": 64821,
+      "word": "咖啡店摆700字须知内含禁乱扔丝袜",
+      "onboard_time": 1775475741,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54261,
       "num": 64847,
       "word": "热巴贺思慕腾讯首个破2亿女性角色",
       "onboard_time": 1775487383,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52616,
-      "num": 52616,
-      "word": "李若嘉被查出桥本病",
-      "onboard_time": 1775518821,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 52479,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 51903,
-      "num": 51903,
+      "num": 64324,
       "word": "女孩趁妈妈吹头发横穿马路被车撞倒",
       "onboard_time": 1775483962,
       "rank": 43,
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 51626,
-      "num": 51626,
+      "num": 64447,
       "word": "伊朗打击美军的黎波里号两栖攻击舰",
       "onboard_time": 1775482642,
       "rank": 48,
@@ -483,12 +523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49231,
-      "num": 49231,
-      "word": "天下足球意大利特辑看哭了",
-      "onboard_time": 1775518279,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 49583,
+      "num": 64714,
+      "word": "伊朗称石油化工厂遭敌军袭击",
+      "onboard_time": 1775518338,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48411,
@@ -523,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45729,
-      "num": 45729,
-      "word": "伊朗称石油化工厂遭敌军袭击",
-      "onboard_time": 1775518338,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45591,
       "num": 116825,
       "word": "我竟然在看到礼物的一瞬间对比价格",
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 45407,
-      "num": 45407,
+      "num": 64031,
       "word": "黄金白银又开始涨了",
       "onboard_time": 1775518279,
       "rank": 43,
@@ -555,20 +587,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 44060,
+      "num": 64275,
+      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
+      "onboard_time": 1775496676,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43788,
       "num": 116230,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1775472082,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43557,
-      "num": 43557,
-      "word": "鞠婧祎陈都灵 我是姐姐亲手养大的",
-      "onboard_time": 1775496676,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 40939,
@@ -595,16 +627,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36557,
-      "num": 116840,
-      "word": "i人佟丽娅生了个e人儿子",
-      "onboard_time": 1775482883,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35694,
-      "num": 536061,
+      "raw_hot": 36823,
+      "num": 611973,
       "word": "清明假期预计跨区域流动8.4亿人次",
       "onboard_time": 1775479701,
       "rank": 2,
@@ -625,6 +649,14 @@
       "onboard_time": 1775492059,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34277,
+      "num": 64023,
+      "word": "钢铁森林",
+      "onboard_time": 1775517618,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 27410,
