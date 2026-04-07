@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775541905166,
+  "endTime": 1775547007671,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1295084,
-      "num": 693784,
+      "num": 850290,
       "word": "曝某牛奶直播间涉黄涉低俗",
       "onboard_time": 1775538323,
       "rank": 3,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 893125,
+      "num": 1142900,
+      "word": "陈丽华儿子担任富华国际集团总裁",
+      "onboard_time": 1775544200,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878127,
       "num": 227899,
       "word": "找到邓家佳不来浪姐的原因了",
@@ -88,6 +96,14 @@
       "word": "安徽6岁失联女童确认遇害",
       "onboard_time": 1775484984,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791149,
+      "num": 853790,
+      "word": "国家继续出手调控油价",
+      "onboard_time": 1775545761,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -121,6 +137,14 @@
       "onboard_time": 1775533462,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582989,
+      "num": 582989,
+      "word": "张雪的妈妈是厦大中文系毕业的",
+      "onboard_time": 1775544262,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549762,
@@ -443,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224195,
+      "num": 224195,
+      "word": "多方回应截瘫女子车祸时坐姿",
+      "onboard_time": 1775539341,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220919,
       "num": 220919,
       "word": "以色列总理警告特朗普勿仓促停火",
       "onboard_time": 1775520981,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208684,
+      "num": 208684,
+      "word": "迟重瑞说全家人每天必须一起吃晚饭",
+      "onboard_time": 1775541022,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207899,
@@ -523,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188628,
-      "num": 128767,
-      "word": "多方回应截瘫女子车祸时坐姿",
-      "onboard_time": 1775539341,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184515,
       "num": 176311,
       "word": "黄一鸣被执行55万",
@@ -571,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175072,
+      "num": 242396,
+      "word": "桃晚安回应",
+      "onboard_time": 1775541022,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174641,
       "num": 174641,
       "word": "女生写论文仅睡4小时锻炼时倒下",
@@ -579,12 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173012,
-      "num": 173012,
-      "word": "迟重瑞说全家人每天必须一起吃晚饭",
-      "onboard_time": 1775541022,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 172251,
+      "num": 172251,
+      "word": "电影青铜葵花定档",
+      "onboard_time": 1775542641,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 170370,
@@ -619,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158406,
+      "num": 158406,
+      "word": "马思纯走出抑郁后的状态",
+      "onboard_time": 1775546001,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158260,
       "num": 449288,
       "word": "父亲问儿子要2000元投资款被拒",
       "onboard_time": 1775482462,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157433,
+      "num": 157433,
+      "word": "郭艾伦将追责",
+      "onboard_time": 1775541802,
+      "rank": 26,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 155552,
@@ -651,8 +707,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 150949,
-      "num": 150949,
+      "raw_hot": 153331,
+      "num": 153331,
       "word": "鞠婧祎 你是不是想陷害姐姐",
       "onboard_time": 1775538443,
       "rank": 31,
@@ -665,14 +721,6 @@
       "onboard_time": 1775540063,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 148167,
-      "num": 148167,
-      "word": "郭艾伦将追责",
-      "onboard_time": 1775541802,
-      "rank": 26,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 145624,
@@ -731,6 +779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133473,
+      "num": 133473,
+      "word": "郭艾伦工作室声明",
+      "onboard_time": 1775545761,
+      "rank": 28,
+      "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "危险关系 房思琪",
+      "onboard_time": 1775543842,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132178,
       "num": 132178,
       "word": "妻子点单丈夫2月偷会员超市上万商品",
@@ -747,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130740,
+      "num": 129192,
+      "word": "关晓彤比例 没有拉腿的义务",
+      "onboard_time": 1775545941,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130661,
       "num": 130661,
       "word": "700多万二手房一夜跳涨50万",
@@ -755,20 +827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129356,
+      "num": 129356,
+      "word": "伊朗若同意停火战争或再次爆发",
+      "onboard_time": 1775540421,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127726,
       "num": 306157,
       "word": "安徽女童失联地后面是一片田地",
       "onboard_time": 1775493498,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127507,
-      "num": 127507,
-      "word": "伊朗若同意停火战争或再次爆发",
-      "onboard_time": 1775540421,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124541,
@@ -875,12 +947,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107632,
-      "num": 107632,
-      "word": "桃晚安回应",
-      "onboard_time": 1775541022,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 107630,
+      "num": 107630,
+      "word": "重庆一业主40万卖房后被判赔80万",
+      "onboard_time": 1775544262,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105493,
@@ -889,6 +961,14 @@
       "onboard_time": 1775538623,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105284,
+      "num": 105284,
+      "word": "迟重瑞用身体为陈丽华挡马蜂",
+      "onboard_time": 1775546361,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104709,
@@ -905,6 +985,14 @@
       "onboard_time": 1775528241,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102997,
+      "num": 102997,
+      "word": "大学生西湖边当陪拍日赚1800",
+      "onboard_time": 1775544262,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102488,
@@ -1019,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93123,
+      "num": 124281,
+      "word": "魏建军说卖车要带着良心",
+      "onboard_time": 1775541802,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90843,
       "num": 90843,
       "word": "福建一车辆发生事故坠河5人死亡",
@@ -1083,11 +1179,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85496,
+      "num": 85496,
+      "word": "baby的睫毛",
+      "onboard_time": 1775546662,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85213,
       "num": 156608,
       "word": "医院回应胸痛硬扛1小时才知是心梗",
       "onboard_time": 1775531841,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85123,
+      "num": 85123,
+      "word": "嫣然医院回应陈光标捐款1000万",
+      "onboard_time": 1775546542,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1107,12 +1219,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84259,
+      "num": 84259,
+      "word": "一定要买明天就能穿的衣服",
+      "onboard_time": 1775545281,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84258,
       "num": 84258,
       "word": "伊朗说美营救飞行员或意在偷浓缩铀",
       "onboard_time": 1775517978,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82396,
+      "num": 82396,
+      "word": "赵丽颖欧豪孙千来给陈宇宙撑场面了",
+      "onboard_time": 1775541682,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81161,
+      "num": 81161,
+      "word": "揭秘海河牛奶低俗直播背后公司",
+      "onboard_time": 1775546842,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80971,
@@ -1137,6 +1273,14 @@
       "onboard_time": 1775540602,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79331,
+      "num": 79331,
+      "word": "想出用棉被隔音的简直天才",
+      "onboard_time": 1775546901,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 78678,
@@ -1443,19 +1587,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49327,
-      "num": 99058,
-      "word": "魏建军说卖车要带着良心",
-      "onboard_time": 1775541802,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 48411,
       "num": 116099,
       "word": "家事法庭",
       "onboard_time": 1775479160,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48128,
+      "num": 86245,
+      "word": "八千里路云和月开播",
+      "onboard_time": 1775546721,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1523,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43546,
+      "num": 158168,
+      "word": "新加坡前外长说美国极度危险",
+      "onboard_time": 1775545761,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40939,
       "num": 40939,
       "word": "勇士确定参加附加赛",
@@ -1537,6 +1689,14 @@
       "onboard_time": 1775494099,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40590,
+      "num": 84285,
+      "word": "邓超孙俪鱼腥草真爱粉",
+      "onboard_time": 1775546600,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 39925,
@@ -1587,11 +1747,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31414,
+      "num": 851888,
+      "word": "电商要更好服务实体经济",
+      "onboard_time": 1775527939,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28458,
       "num": 140463,
       "word": "北京侨商会悼念陈丽华",
       "onboard_time": 1775537783,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28215,
+      "num": 84261,
+      "word": "海河乳品回应有直播间涉低俗",
+      "onboard_time": 1775546961,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1681,14 +1857,6 @@
       "onboard_time": 1775532982,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9536,
-      "num": 652916,
-      "word": "电商要更好服务实体经济",
-      "onboard_time": 1775527939,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

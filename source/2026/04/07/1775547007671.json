@@ -1,0 +1,410 @@
+{
+  "runTime": 1775547007671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893125,
+        "num": 1142900,
+        "word": "陈丽华儿子担任富华国际集团总裁",
+        "onboard_time": 1775544200,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791149,
+        "num": 853790,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31414,
+        "num": 851888,
+        "word": "电商要更好服务实体经济",
+        "onboard_time": 1775527939,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850290,
+        "num": 850290,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676583,
+        "num": 676583,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582989,
+        "num": 582989,
+        "word": "张雪的妈妈是厦大中文系毕业的",
+        "onboard_time": 1775544262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368542,
+        "num": 368542,
+        "word": "情侣因换座与女乘客发生争执",
+        "onboard_time": 1775538922,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349434,
+        "num": 349434,
+        "word": "金莎孙丞潇上夫妻综艺了",
+        "onboard_time": 1775539162,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299431,
+        "num": 299431,
+        "word": "原来这叫软孤立啊",
+        "onboard_time": 1775533403,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368446,
+        "num": 284194,
+        "word": "郭艾伦否认被骗",
+        "onboard_time": 1775540900,
+        "rank": 9,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 1042894,
+        "num": 267818,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301101,
+        "num": 263051,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175072,
+        "num": 242396,
+        "word": "桃晚安回应",
+        "onboard_time": 1775541022,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234659,
+        "num": 234659,
+        "word": "余茵暴瘦",
+        "onboard_time": 1775533762,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224195,
+        "num": 224195,
+        "word": "多方回应截瘫女子车祸时坐姿",
+        "onboard_time": 1775539341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442158,
+        "num": 219900,
+        "word": "江语晨说才刚离婚别这样",
+        "onboard_time": 1775533462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213535,
+        "num": 213535,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208856,
+        "num": 208856,
+        "word": "妻子的浪漫旅行嘉宾阵容",
+        "onboard_time": 1775534662,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208684,
+        "num": 208684,
+        "word": "迟重瑞说全家人每天必须一起吃晚饭",
+        "onboard_time": 1775541022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185932,
+        "num": 185932,
+        "word": "伊朗称以放弃北部城市承认了失败",
+        "onboard_time": 1775531962,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174910,
+        "num": 174910,
+        "word": "陈丽华身家470亿元",
+        "onboard_time": 1775532922,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172251,
+        "num": 172251,
+        "word": "电影青铜葵花定档",
+        "onboard_time": 1775542641,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158406,
+        "num": 158406,
+        "word": "马思纯走出抑郁后的状态",
+        "onboard_time": 1775546001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43546,
+        "num": 158168,
+        "word": "新加坡前外长说美国极度危险",
+        "onboard_time": 1775545761,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 158037,
+        "word": "女子住酒店在浴巾发现用过的伟哥",
+        "onboard_time": 1775539522,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157433,
+        "num": 157433,
+        "word": "郭艾伦将追责",
+        "onboard_time": 1775541802,
+        "rank": 25,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 154321,
+        "num": 154321,
+        "word": "金莎孙丞潇已经结婚了吗",
+        "onboard_time": 1775540421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153331,
+        "num": 153331,
+        "word": "鞠婧祎 你是不是想陷害姐姐",
+        "onboard_time": 1775538443,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133473,
+        "num": 133473,
+        "word": "郭艾伦工作室声明",
+        "onboard_time": 1775545761,
+        "rank": 28,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 133766,
+        "num": 133263,
+        "word": "金卡戴珊汉密尔顿承认恋情",
+        "onboard_time": 1775531542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133024,
+        "num": 133024,
+        "word": "危险关系 房思琪",
+        "onboard_time": 1775543842,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129356,
+        "num": 129356,
+        "word": "伊朗若同意停火战争或再次爆发",
+        "onboard_time": 1775540421,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130740,
+        "num": 129192,
+        "word": "关晓彤比例 没有拉腿的义务",
+        "onboard_time": 1775545941,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93123,
+        "num": 124281,
+        "word": "魏建军说卖车要带着良心",
+        "onboard_time": 1775541802,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122162,
+        "num": 122162,
+        "word": "找到邓家佳不来浪姐的原因了",
+        "onboard_time": 1775526860,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107630,
+        "num": 107630,
+        "word": "重庆一业主40万卖房后被判赔80万",
+        "onboard_time": 1775544262,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105284,
+        "num": 105284,
+        "word": "迟重瑞用身体为陈丽华挡马蜂",
+        "onboard_time": 1775546361,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 102997,
+        "word": "大学生西湖边当陪拍日赚1800",
+        "onboard_time": 1775544262,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 99140,
+        "word": "张豆豆没头脑孙杨不高兴",
+        "onboard_time": 1775534782,
+        "rank": 38,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 90417,
+        "num": 90417,
+        "word": "日本一老人咬陌生人手臂被捕后死亡",
+        "onboard_time": 1775540362,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48128,
+        "num": 86245,
+        "word": "八千里路云和月开播",
+        "onboard_time": 1775546721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85496,
+        "num": 85496,
+        "word": "baby的睫毛",
+        "onboard_time": 1775546662,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85123,
+        "num": 85123,
+        "word": "嫣然医院回应陈光标捐款1000万",
+        "onboard_time": 1775546542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40590,
+        "num": 84285,
+        "word": "邓超孙俪鱼腥草真爱粉",
+        "onboard_time": 1775546600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28215,
+        "num": 84261,
+        "word": "海河乳品回应有直播间涉低俗",
+        "onboard_time": 1775546961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84259,
+        "num": 84259,
+        "word": "一定要买明天就能穿的衣服",
+        "onboard_time": 1775545281,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84119,
+        "num": 84119,
+        "word": "黄一鸣被执行55万",
+        "onboard_time": 1775537602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82396,
+        "num": 82396,
+        "word": "赵丽颖欧豪孙千来给陈宇宙撑场面了",
+        "onboard_time": 1775541682,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81161,
+        "num": 81161,
+        "word": "揭秘海河牛奶低俗直播背后公司",
+        "onboard_time": 1775546842,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79331,
+        "num": 79331,
+        "word": "想出用棉被隔音的简直天才",
+        "onboard_time": 1775546901,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民是历史的创造者是真正的英雄#"
+    }
+  }
+}
