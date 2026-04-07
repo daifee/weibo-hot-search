@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775592465036,
+  "endTime": 1775595490251,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -19163,6 +19163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38897,
+      "num": 28362,
+      "word": "张雪母亲发声",
+      "onboard_time": 1775591894,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 38720,
       "num": 38720,
       "word": "孟子义何与百花杀周年合照",
@@ -20203,14 +20211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18583,
-      "num": 18583,
-      "word": "张雪母亲发声",
-      "onboard_time": 1775591894,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 18559,
       "num": 19760,
       "word": "乘风",
@@ -20225,6 +20225,14 @@
       "onboard_time": 1775029523,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18433,
+      "num": 17991,
+      "word": "张雪母亲发文叫儿子鬼灵精",
+      "onboard_time": 1775592734,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18258,
