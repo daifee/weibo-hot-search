@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775603242882,
+  "endTime": 1775605530556,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -25,6 +25,22 @@
       "onboard_time": 1775385800,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2873544,
+      "num": 696753,
+      "word": "特朗普同意停火2周",
+      "onboard_time": 1775603119,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2855459,
+      "num": 681188,
+      "word": "伊朗接受停火提议",
+      "onboard_time": 1775603420,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2702500,
@@ -539,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 595823,
+      "num": 595823,
+      "word": "直播涉黄牛奶品牌为中华老字号",
+      "onboard_time": 1775573003,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592067,
       "num": 148916,
       "word": "百词斩把忮忌加上了",
@@ -793,6 +817,14 @@
       "onboard_time": 1775567303,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472883,
+      "num": 1318979,
+      "word": "乘风2026一公小考倒数第一",
+      "onboard_time": 1775578641,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 470798,
@@ -1155,14 +1187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 374724,
-      "num": 660580,
-      "word": "乘风2026一公小考倒数第一",
-      "onboard_time": 1775578641,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373979,
       "num": 235083,
       "word": "被大冰断家务事的三观给征服",
@@ -1184,14 +1208,6 @@
       "word": "张雪回应陈光标捐款1000万",
       "onboard_time": 1775468061,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367080,
-      "num": 367080,
-      "word": "直播涉黄牛奶品牌为中华老字号",
-      "onboard_time": 1775573003,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1289,6 +1305,14 @@
       "onboard_time": 1775364742,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349118,
+      "num": 965456,
+      "word": "仅一户报名摇号的房子第二天售罄",
+      "onboard_time": 1775577741,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348202,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1775548583,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312361,
-      "num": 467504,
-      "word": "仅一户报名摇号的房子第二天售罄",
-      "onboard_time": 1775577741,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311433,
@@ -1779,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274797,
+      "num": 77554,
+      "word": "中方称涉伊朗决议草案极不平衡",
+      "onboard_time": 1775604618,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 273216,
       "num": 131883,
       "word": "黄磊二女儿长得好像黄磊",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1775529020,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252383,
+      "num": 77043,
+      "word": "泽连斯基向俄方提出能源休战提议",
+      "onboard_time": 1775604200,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252242,
@@ -2187,7 +2219,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222156,
+      "raw_hot": 222918,
       "num": 537059,
       "word": "美绕月飞船1.5亿厕所已瘫痪",
       "onboard_time": 1775576661,
@@ -2539,14 +2571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197740,
-      "num": 197740,
-      "word": "特朗普同意停火2周",
-      "onboard_time": 1775603119,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "年轻人扫墓主打一个祭品硬核",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1775399607,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194933,
+      "num": 170040,
+      "word": "身体有慢性炎症可以多吃这些水果",
+      "onboard_time": 1775580377,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194625,
@@ -2859,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177768,
+      "num": 156921,
+      "word": "海河乳品致歉",
+      "onboard_time": 1775604079,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177327,
       "num": 177327,
       "word": "男子拔329株槟榔苗护祖坟获刑",
@@ -3017,6 +3057,14 @@
       "onboard_time": 1775450241,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169845,
+      "num": 154502,
+      "word": "猪八戒扮演者马德华将送别陈丽华",
+      "onboard_time": 1775565324,
+      "rank": 44,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 169492,
@@ -3251,6 +3299,22 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 157262,
+      "num": 76107,
+      "word": "伊朗代表感谢中俄",
+      "onboard_time": 1775605220,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157125,
+      "num": 157125,
+      "word": "皇马1比2拜仁",
+      "onboard_time": 1775603600,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156856,
       "num": 156856,
       "word": "安崎选人",
@@ -3273,6 +3337,14 @@
       "onboard_time": 1775532922,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154387,
+      "num": 154387,
+      "word": "女子称休完产假公司没了",
+      "onboard_time": 1775576602,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153883,
@@ -3329,6 +3401,14 @@
       "onboard_time": 1775545941,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152824,
+      "num": 118514,
+      "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
+      "onboard_time": 1775604800,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152067,
@@ -3409,14 +3489,6 @@
       "onboard_time": 1775558901,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147102,
-      "num": 170040,
-      "word": "身体有慢性炎症可以多吃这些水果",
-      "onboard_time": 1775580377,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145948,
@@ -3712,6 +3784,14 @@
       "word": "刘宇宁 可口可乐",
       "onboard_time": 1775530221,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135215,
+      "num": 124858,
+      "word": "陈少荣只给江语晨写过歌",
+      "onboard_time": 1775584634,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -4715,14 +4795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105083,
-      "num": 98291,
-      "word": "陈少荣只给江语晨写过歌",
-      "onboard_time": 1775584634,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105040,
       "num": 105040,
       "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
@@ -4745,6 +4817,14 @@
       "onboard_time": 1775490980,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104501,
+      "num": 99532,
+      "word": "肖战手握3部待播剧",
+      "onboard_time": 1775577020,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104462,
@@ -4865,6 +4945,14 @@
       "onboard_time": 1775459601,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101806,
+      "num": 101806,
+      "word": "女子人肉占车位被司机强行顶开",
+      "onboard_time": 1775582478,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101615,
@@ -5043,28 +5131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97915,
-      "num": 97915,
-      "word": "女子称休完产假公司没了",
-      "onboard_time": 1775576602,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97807,
       "num": 97807,
       "word": "董宇辉曾说销量好的选品会去验厂",
       "onboard_time": 1775368459,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 97735,
-      "num": 92866,
-      "word": "猪八戒扮演者马德华将送别陈丽华",
-      "onboard_time": 1775565324,
-      "rank": 44,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 97643,
@@ -5177,6 +5249,14 @@
       "onboard_time": 1775576722,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95160,
+      "num": 95160,
+      "word": "高盛预计金价有望冲击6100美元",
+      "onboard_time": 1775604920,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 95096,
@@ -5419,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90856,
+      "num": 90856,
+      "word": "李嘉格说美对Angelababy太单一化了",
+      "onboard_time": 1775604800,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90843,
       "num": 90843,
       "word": "福建一车辆发生事故坠河5人死亡",
@@ -5449,14 +5537,6 @@
       "onboard_time": 1775532742,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90276,
-      "num": 90276,
-      "word": "女子人肉占车位被司机强行顶开",
-      "onboard_time": 1775582478,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90144,
@@ -5497,14 +5577,6 @@
       "onboard_time": 1775446700,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 89618,
-      "num": 89618,
-      "word": "肖战手握3部待播剧",
-      "onboard_time": 1775577020,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 89585,
@@ -6259,6 +6331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78211,
+      "num": 78211,
+      "word": "伊朗说伊美谈判4月10日开始",
+      "onboard_time": 1775604861,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78164,
       "num": 78164,
       "word": "狗子你倒是撸呀",
@@ -6289,6 +6369,14 @@
       "onboard_time": 1775447181,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78051,
+      "num": 75809,
+      "word": "联合国未通过谴责伊朗相关决议草案",
+      "onboard_time": 1775605400,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77953,
@@ -6872,6 +6960,14 @@
       "word": "把椰奶当作冰袋扔了",
       "onboard_time": 1775456601,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69562,
+      "num": 69562,
+      "word": "萨摩耶绝育后哭声响彻整个医院",
+      "onboard_time": 1775605160,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -7697,6 +7793,14 @@
       "onboard_time": 1775470161,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56627,
+      "num": 56627,
+      "word": "葡萄牙体育0比1阿森纳",
+      "onboard_time": 1775603659,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 56434,
