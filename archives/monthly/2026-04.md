@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 23:55:02
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 01:11:08
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E4%B9%8B%E5%90%8E%23" target="weibo">
+特朗普最后通牒之后（热度：285499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
 王楚钦晋级四强（热度：285349）
 </a>
@@ -4125,6 +4131,12 @@ TES对战iG（热度：227602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%95%E6%9C%88%E9%A3%9E%E8%88%B91.5%E4%BA%BF%E5%8E%95%E6%89%80%E5%B7%B2%E7%98%AB%E7%97%AA%23" target="weibo">
+美绕月飞船1.5亿厕所已瘫痪（热度：220771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8C%91%E6%88%98TTR%E5%A4%B1%E8%B4%A5%23" target="weibo">
 王曼昱挑战TTR失败（热度：220753）
 </a>
@@ -4487,6 +4499,12 @@ SJ首尔演唱会栏杆断裂粉丝坠落（热度：209953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E5%A4%AF%E7%88%86%E4%BA%86%23" target="weibo">
 曾沛慈回应夯爆了（热度：205518）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E4%B8%80%E5%85%AC%E5%B0%8F%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%23" target="weibo">
+乘风2026一公小考倒数第一（热度：204709）
 </a>
 </li>
 
@@ -4913,6 +4931,12 @@ WB对战KSG（热度：189634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%82%A3%E8%82%9D%E8%A1%B0%E7%AB%AD%E5%92%8C%E7%99%BD%E8%A1%80%E7%97%85%E5%8F%8C%E7%9C%BC%E5%8F%98%E7%BB%BF%23" target="weibo">
 11岁女孩患肝衰竭和白血病双眼变绿（热度：187026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E4%B8%80%E6%88%B7%E6%8A%A5%E5%90%8D%E6%91%87%E5%8F%B7%E7%9A%84%E6%88%BF%E5%AD%90%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%94%AE%E7%BD%84%23" target="weibo">
+仅一户报名摇号的房子第二天售罄（热度：186844）
 </a>
 </li>
 
@@ -5889,6 +5913,12 @@ cpb减肥法（热度：157339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%85%B7%E4%BB%81%E6%BC%94%E6%8A%80%23" target="weibo">
+吴慷仁演技（热度：153248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%B8%80%E6%B5%B7%E6%BB%A9%E9%9C%B2%E5%87%BA%E5%B0%96%E9%94%90%E9%92%A2%E7%AD%8B%23" target="weibo">
 三亚一海滩露出尖锐钢筋（热度：153001）
 </a>
@@ -5981,36 +6011,6 @@ Uzi队遭陪玩队零封（热度：150153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F%E7%BB%8A%E6%9C%8D%E5%8A%A1%E5%91%98%E9%9D%A2%E6%B1%A4%E6%B4%92%E9%A1%BE%E5%AE%A2%E8%BA%AB%E4%B8%8A%23" target="weibo">
 男子故意绊服务员面汤洒顾客身上（热度：150017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%90%8E%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E5%86%8D%E4%B9%9F%E6%97%A0%E9%9C%80%E6%8A%A2%E8%B4%AD%E5%A1%91%E6%96%99%E8%A2%8B%23" target="weibo">
-统一后台湾同胞再也无需抢购塑料袋（热度：149962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E8%BD%A6%E5%86%85%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%B9%B0%E5%8D%95%E5%90%97%23" target="weibo">
-你愿意为车内的仪式感买单吗（热度：149933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%93%E8%A7%A3%E5%86%85%E8%80%97%E7%9A%84%E8%A7%A3%E8%8D%AF%23" target="weibo">
-缓解内耗的解药（热度：149928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%AE%B8%E5%8F%AF%23" target="weibo">
-我许可（热度：149909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E4%B8%96%E7%95%8C%23" target="weibo">
-严浩翔新专概念世界（热度：149857）
 </a>
 </li>
 
