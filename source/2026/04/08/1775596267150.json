@@ -1,0 +1,410 @@
+{
+  "runTime": 1775596267150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 54782,
+        "num": 93834,
+        "word": "美绕月飞船1.5亿厕所已瘫痪",
+        "onboard_time": 1775576661,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52478,
+        "num": 69103,
+        "word": "乘风2026一公小考倒数第一",
+        "onboard_time": 1775578641,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9899,
+        "num": 65152,
+        "word": "外国人来中国旅游更火了",
+        "onboard_time": 1775566763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75500,
+        "num": 65131,
+        "word": "伊朗称若局势失控曼德海峡也将关闭",
+        "onboard_time": 1775573783,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73860,
+        "num": 65050,
+        "word": "直播涉黄牛奶品牌为中华老字号",
+        "onboard_time": 1775573003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64872,
+        "num": 64872,
+        "word": "张雪母亲发声",
+        "onboard_time": 1775591894,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 64182,
+        "num": 64182,
+        "word": "伊朗民众组成人链保护发电厂和桥梁",
+        "onboard_time": 1775575223,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33329,
+        "num": 33329,
+        "word": "仅一户报名摇号的房子第二天售罄",
+        "onboard_time": 1775577741,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24951,
+        "num": 24951,
+        "word": "开心消消乐",
+        "onboard_time": 1775561240,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24088,
+        "num": 24088,
+        "word": "身体有慢性炎症可以多吃这些水果",
+        "onboard_time": 1775580377,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90086,
+        "num": 24065,
+        "word": "特朗普最后通牒之后",
+        "onboard_time": 1775577322,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61143,
+        "num": 24020,
+        "word": "美以大规模轰炸计划被曝已准备就绪",
+        "onboard_time": 1775575702,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58578,
+        "num": 23916,
+        "word": "伊朗关闭与美国所有外交渠道",
+        "onboard_time": 1775571563,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23715,
+        "num": 23715,
+        "word": "华晨宇的民宿定价3块钱",
+        "onboard_time": 1775563521,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54889,
+        "num": 23578,
+        "word": "美以袭击哈尔克岛",
+        "onboard_time": 1775564001,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41559,
+        "num": 23523,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35175,
+        "num": 23388,
+        "word": "伊朗人这样做回应特朗普恐吓",
+        "onboard_time": 1775578460,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31865,
+        "num": 23153,
+        "word": "联合国警告特朗普",
+        "onboard_time": 1775564481,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31244,
+        "num": 22985,
+        "word": "韩国回应特朗普",
+        "onboard_time": 1775567483,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29265,
+        "num": 22943,
+        "word": "伊朗威胁切断美国及其盟友石油供应",
+        "onboard_time": 1775584276,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31760,
+        "num": 22804,
+        "word": "向太自曝曾多次拆散向佐恋情",
+        "onboard_time": 1775564360,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30637,
+        "num": 22581,
+        "word": "以军空袭伊朗铁路和桥梁",
+        "onboard_time": 1775573182,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23870,
+        "num": 22485,
+        "word": "陈少荣只给江语晨写过歌",
+        "onboard_time": 1775584634,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22392,
+        "num": 22392,
+        "word": "张雪推荐网友买国内品牌踏板摩托",
+        "onboard_time": 1775581038,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21452,
+        "num": 21452,
+        "word": "时隔近一年郭艾伦再向周深道歉",
+        "onboard_time": 1775570364,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 20198,
+        "word": "上海女子爬树压塌20年樱花树",
+        "onboard_time": 1775566041,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19989,
+        "num": 19989,
+        "word": "王楚钦称跟樊振东打出了自己的问题",
+        "onboard_time": 1775568863,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19721,
+        "num": 19721,
+        "word": "央行抛售引发金价地震",
+        "onboard_time": 1775562200,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 19712,
+        "word": "曾沛慈热度断层第一",
+        "onboard_time": 1775563040,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18532,
+        "num": 18532,
+        "word": "女子称休完产假公司没了",
+        "onboard_time": 1775576602,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23657,
+        "num": 18531,
+        "word": "美国若袭击伊朗民用设施或将涉战争罪",
+        "onboard_time": 1775577681,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18288,
+        "num": 18288,
+        "word": "中方表态特朗普威胁伊朗最后期限",
+        "onboard_time": 1775567784,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17597,
+        "num": 17597,
+        "word": "伊朗议长说愿为国家捐躯",
+        "onboard_time": 1775581158,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17021,
+        "num": 17021,
+        "word": "吴慷仁演技",
+        "onboard_time": 1775577561,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16899,
+        "num": 16899,
+        "word": "迟重瑞陈丽华结婚36年从没红过脸",
+        "onboard_time": 1775590634,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16858,
+        "num": 16858,
+        "word": "伊朗军方回应小女孩粉色导弹请求",
+        "onboard_time": 1775579779,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16824,
+        "num": 16824,
+        "word": "卡塔尔警告中东接近失控临界点",
+        "onboard_time": 1775575461,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16773,
+        "num": 16773,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16725,
+        "num": 16725,
+        "word": "张雪母亲发文叫儿子鬼灵精",
+        "onboard_time": 1775592734,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16034,
+        "num": 16034,
+        "word": "辛巴朋友圈吐槽被五次退网",
+        "onboard_time": 1775576061,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 16019,
+        "word": "网传浪姐一公小考结果",
+        "onboard_time": 1775575641,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15670,
+        "num": 15670,
+        "word": "伊朗说克制已结束",
+        "onboard_time": 1775567303,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15662,
+        "num": 15662,
+        "word": "女子人肉占车位被司机强行顶开",
+        "onboard_time": 1775582478,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15577,
+        "num": 15577,
+        "word": "危险关系",
+        "onboard_time": 1775564180,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14893,
+        "num": 14893,
+        "word": "伊朗不再对打击目标设限",
+        "onboard_time": 1775576722,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 14057,
+        "num": 14891,
+        "word": "虞书欣跳了进行曲",
+        "onboard_time": 1775577860,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13579,
+        "num": 14889,
+        "word": "周深演唱苏超MV",
+        "onboard_time": 1775585715,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13328,
+        "num": 14889,
+        "word": "官方通报网传都江堰现800克狗头金",
+        "onboard_time": 1775586916,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 13079,
+        "num": 14885,
+        "word": "刘耀文 耳洞",
+        "onboard_time": 1775566943,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12523,
+        "num": 14885,
+        "word": "华境S全维安全王中王",
+        "onboard_time": 1775571264,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}

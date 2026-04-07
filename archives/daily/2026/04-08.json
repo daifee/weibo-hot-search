@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775595490251,
+  "endTime": 1775596267150,
   "band_list": [
     {
       "raw_hot": 285499,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 92968,
-      "num": 61441,
+      "num": 65050,
       "word": "直播涉黄牛奶品牌为中华老字号",
       "onboard_time": 1775573003,
       "rank": 31,
@@ -201,6 +201,14 @@
       "onboard_time": 1775579000,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64872,
+      "num": 64872,
+      "word": "张雪母亲发声",
+      "onboard_time": 1775591894,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 64062,
@@ -393,14 +401,6 @@
       "onboard_time": 1775575101,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38897,
-      "num": 28362,
-      "word": "张雪母亲发声",
-      "onboard_time": 1775591894,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 38720,

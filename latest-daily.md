@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/08 01:11:08 ~ 2026/04/08 04:58:10
+本榜单时间：2026/04/08 01:11:08 ~ 2026/04/08 05:11:07
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+张雪母亲发声（热度：64872）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B8%89%E6%AC%BE%E6%96%B0%E6%9C%BA%E6%9C%BA%E6%A8%A1%E5%87%BA%E7%82%89%23" target="weibo">
 iPhone三款新机机模出炉（热度：64062）
 </a>
@@ -305,12 +311,6 @@ Fendi晚宴的唐嫣孟子义（热度：55605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%BD2%E4%B8%87%E6%96%A4%E6%A9%99%E5%AD%90%E8%B4%A7%E8%BD%A6%E7%BF%BB%E6%BB%9A%E5%9D%A0%E5%B4%96%23" target="weibo">
 载2万斤橙子货车翻滚坠崖（热度：39016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-张雪母亲发声（热度：38897）
 </a>
 </li>
 
