@@ -1,0 +1,410 @@
+{
+  "runTime": 1775563808398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 293143,
+        "num": 1046902,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208548,
+        "num": 747391,
+        "word": "两位小米联合创始人退出小米科技",
+        "onboard_time": 1775560460,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17294,
+        "num": 611953,
+        "word": "天舟十号飞行任务标识正式发布",
+        "onboard_time": 1775550440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208732,
+        "num": 570115,
+        "word": "伊朗总统说已准备好牺牲",
+        "onboard_time": 1775553502,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208206,
+        "num": 568804,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 568786,
+        "num": 568786,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194625,
+        "num": 564832,
+        "word": "孙俪小助理好爱她",
+        "onboard_time": 1775560041,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142314,
+        "num": 559165,
+        "word": "陈赫曝爱情公寓每天拍16个小时",
+        "onboard_time": 1775561481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103308,
+        "num": 553421,
+        "word": "张本智和近距离感受国乒队魂",
+        "onboard_time": 1775554401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88446,
+        "num": 547240,
+        "word": "华为Pura90系列曝光",
+        "onboard_time": 1775560761,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 544678,
+        "num": 544678,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 521239,
+        "num": 521239,
+        "word": "不要跟不熟的人互关",
+        "onboard_time": 1775557520,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442476,
+        "num": 442476,
+        "word": "迟重瑞为陈丽华光头36年",
+        "onboard_time": 1775555361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399654,
+        "num": 399654,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361306,
+        "num": 361306,
+        "word": "十日终焉最新阵容",
+        "onboard_time": 1775555421,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344027,
+        "num": 344027,
+        "word": "鞠婧祎含泪拥抱十年老粉",
+        "onboard_time": 1775557820,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173238,
+        "num": 282559,
+        "word": "日本撞人族被抓后鞠躬道歉",
+        "onboard_time": 1775553860,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263836,
+        "num": 263836,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87971,
+        "num": 246042,
+        "word": "教育具有长期性和滞后性",
+        "onboard_time": 1775562502,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124901,
+        "num": 245331,
+        "word": "中国车的高端局从原创开始",
+        "onboard_time": 1775563401,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 245056,
+        "num": 245056,
+        "word": "央行抛售引发金价地震",
+        "onboard_time": 1775562200,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191155,
+        "num": 191155,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155929,
+        "num": 155929,
+        "word": "浪姐一公小考取消直播",
+        "onboard_time": 1775550561,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 139352,
+        "word": "张维伊馒头汉堡减肥法",
+        "onboard_time": 1775562621,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117082,
+        "num": 117082,
+        "word": "专家回应健身的人老了死得干脆",
+        "onboard_time": 1775558661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114263,
+        "num": 114263,
+        "word": "宋祖儿帽子比脸大了一圈",
+        "onboard_time": 1775553261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 112949,
+        "word": "韩国人称为吃地瓜条专门来中国",
+        "onboard_time": 1775550621,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112358,
+        "num": 112358,
+        "word": "时代少年团年度最好笑物料",
+        "onboard_time": 1775560701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110507,
+        "num": 110507,
+        "word": "裴珍映 假体",
+        "onboard_time": 1775563461,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96841,
+        "num": 103238,
+        "word": "陈丽华育有一儿二女",
+        "onboard_time": 1775551460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610083,
+        "num": 102904,
+        "word": "浪姐取消直播后被喊话退钱",
+        "onboard_time": 1775556741,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97596,
+        "num": 97596,
+        "word": "孟子义 现偶",
+        "onboard_time": 1775563641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62059,
+        "num": 97435,
+        "word": "极氪8X官宣4月17日正式上市",
+        "onboard_time": 1775559561,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109720,
+        "num": 97405,
+        "word": "曾沛慈热度断层第一",
+        "onboard_time": 1775563040,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97288,
+        "num": 97288,
+        "word": "华晨宇的民宿定价3块钱",
+        "onboard_time": 1775563521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90829,
+        "num": 90829,
+        "word": "伊媒称哈尔克岛发生爆炸",
+        "onboard_time": 1775562741,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80120,
+        "num": 90723,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90618,
+        "num": 90618,
+        "word": "iPhone斜挎包",
+        "onboard_time": 1775561541,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90120,
+        "num": 90120,
+        "word": "严浩翔新专概念世界",
+        "onboard_time": 1775558901,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85286,
+        "num": 85286,
+        "word": "小徐谈研究生有多挣钱",
+        "onboard_time": 1775556502,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82685,
+        "num": 82685,
+        "word": "开心消消乐",
+        "onboard_time": 1775561240,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132355,
+        "num": 82637,
+        "word": "九尾的新发型",
+        "onboard_time": 1775560941,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82548,
+        "num": 82548,
+        "word": "虞书欣和Jennie同款发型",
+        "onboard_time": 1775548583,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80390,
+        "num": 80390,
+        "word": "魏大勋青岛进组十日终焉",
+        "onboard_time": 1775548583,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37455,
+        "num": 78075,
+        "word": "赵丽颖宣传八千里路云和月",
+        "onboard_time": 1775557520,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76767,
+        "num": 76767,
+        "word": "面馆老板回应男子故意伸腿绊服务员",
+        "onboard_time": 1775562200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76221,
+        "num": 76221,
+        "word": "曝小米18将用国产相机传感器",
+        "onboard_time": 1775563521,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71486,
+        "num": 71486,
+        "word": "大妈面馆吃面顺走大半罐花椒",
+        "onboard_time": 1775562200,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71332,
+        "num": 71332,
+        "word": "第五人格优化",
+        "onboard_time": 1775562801,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}

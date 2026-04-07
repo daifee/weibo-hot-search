@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 19:30:49
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/07 20:10:08
 </p>
 </blockquote>
 <p>
@@ -1323,6 +1323,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B8%8D%E7%86%9F%E7%9A%84%E4%BA%BA%E4%BA%92%E5%85%B3%23" target="weibo">
+不要跟不熟的人互关（热度：521239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E8%8C%B5%E6%9A%B4%E7%98%A6%23" target="weibo">
 余茵暴瘦（热度：517997）
 </a>
@@ -1463,12 +1469,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%9B%BE%E8%88%9C%E6%99%9E%20%E6%88%8F%E4%BB%BD%23" target="weibo">
 陈都灵曾舜晞 戏份（热度：487603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B8%8D%E7%86%9F%E7%9A%84%E4%BA%BA%E4%BA%92%E5%85%B3%23" target="weibo">
-不要跟不熟的人互关（热度：487335）
 </a>
 </li>
 
@@ -2373,6 +2373,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%8D%81%E5%B9%B4%E8%80%81%E7%B2%89%23" target="weibo">
+鞠婧祎含泪拥抱十年老粉（热度：344027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BE%85%E6%92%AD%E5%89%A7%E4%B8%80%E4%B8%AA%E6%98%AF%E5%8C%BB%E7%94%9F%E4%B8%80%E4%B8%AA%E6%98%AF%E8%8D%89%E6%A0%B9%23" target="weibo">
 张凌赫待播剧一个是医生一个是草根（热度：343838）
 </a>
@@ -2483,12 +2489,6 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%23" target="weibo">
 Faker回应马斯克（热度：331940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%8D%81%E5%B9%B4%E8%80%81%E7%B2%89%23" target="weibo">
-鞠婧祎含泪拥抱十年老粉（热度：329911）
 </a>
 </li>
 
@@ -3549,6 +3549,12 @@ JDG对战WB（热度：248725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23" target="weibo">
+央行抛售引发金价地震（热度：245056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23" target="weibo">
 美国TikTok禁令演不下去了吗（热度：244696）
 </a>
@@ -4269,8 +4275,20 @@ SJ首尔演唱会栏杆断裂粉丝坠落（热度：209953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23" target="weibo">
+两位小米联合创始人退出小米科技（热度：208548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E9%AB%98%E8%BE%BE%E6%B2%A1%E9%98%B2%E4%BD%8F%23" target="weibo">
 孙颖莎说高达没防住（热度：208373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E4%BB%A5%E5%8F%91%E5%8A%A8%E7%AC%AC99%E6%B3%A2%E6%89%93%E5%87%BB%23" target="weibo">
+伊朗对美以发动第99波打击（热度：208206）
 </a>
 </li>
 
@@ -4547,6 +4565,12 @@ Tian哭了（热度：195516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BB%85%E7%8F%A0%E6%B5%B7%E4%BB%8D%E5%85%A8%E5%9F%9F%E7%A6%81%E6%AD%A2%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%23" target="weibo">
 广东仅珠海仍全域禁止电动自行车（热度：194715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%B0%8F%E5%8A%A9%E7%90%86%E5%A5%BD%E7%88%B1%E5%A5%B9%23" target="weibo">
+孙俪小助理好爱她（热度：194625）
 </a>
 </li>
 
@@ -5919,6 +5943,12 @@ Angelababy海边拍摄MV（热度：145501）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E9%A6%92%E5%A4%B4%E6%B1%89%E5%A0%A1%E5%87%8F%E8%82%A5%E6%B3%95%23" target="weibo">
+张维伊馒头汉堡减肥法（热度：144606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99%E5%93%AD%E4%BA%86%23" target="weibo">
 桥本帆乃香哭了（热度：144368）
 </a>
@@ -5981,36 +6011,6 @@ Angelababy海边拍摄MV（热度：145501）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 五哈只有一个小时（热度：142642）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8E%8C%E9%95%9C%E4%B8%8B%E7%9A%84%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-王楚钦掌镜下的孙颖莎（热度：142385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E5%A3%AB%E5%A2%93%E5%89%8D%E5%85%A8%E5%B1%8F%E9%A9%AC%E8%B5%9B%E5%85%8B%23" target="weibo">
-烈士墓前全屏马赛克（热度：142181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%B0%91%E4%BC%97%E5%85%88%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
-以色列民众先破防了（热度：142016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%95%85%20%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%AF%BC%E6%BC%94%23" target="weibo">
-陈畅 许我耀眼导演（热度：141886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%AF%B9%E6%8E%A5%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%BD%95%E8%B7%91%E7%94%B7%23" target="weibo">
-宋雨琦对接回应不录跑男（热度：141810）
 </a>
 </li>
 
