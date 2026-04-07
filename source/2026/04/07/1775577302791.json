@@ -1,0 +1,410 @@
+{
+  "runTime": 1775577302791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 355577,
+        "num": 1056892,
+        "word": "王楚钦称跟樊振东打出了自己的问题",
+        "onboard_time": 1775568863,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320668,
+        "num": 776963,
+        "word": "网传浪姐一公小考结果",
+        "onboard_time": 1775575641,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45213,
+        "num": 596273,
+        "word": "外国人来中国旅游更火了",
+        "onboard_time": 1775566763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908403,
+        "num": 590716,
+        "word": "伊朗民众组成人链保护发电厂和桥梁",
+        "onboard_time": 1775575223,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 891238,
+        "num": 581639,
+        "word": "伊朗关闭与美国所有外交渠道",
+        "onboard_time": 1775571563,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478517,
+        "num": 478517,
+        "word": "华晨宇的民宿定价3块钱",
+        "onboard_time": 1775563521,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318701,
+        "num": 318701,
+        "word": "时隔近一年郭艾伦再向周深道歉",
+        "onboard_time": 1775570364,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307969,
+        "num": 307969,
+        "word": "上海女子爬树压塌20年樱花树",
+        "onboard_time": 1775566041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207625,
+        "num": 207625,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190225,
+        "num": 190225,
+        "word": "教育具有长期性和滞后性",
+        "onboard_time": 1775562502,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 524616,
+        "num": 189820,
+        "word": "联合国警告特朗普",
+        "onboard_time": 1775564481,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 513166,
+        "num": 188735,
+        "word": "美以袭击哈尔克岛",
+        "onboard_time": 1775564001,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422908,
+        "num": 186830,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309332,
+        "num": 186448,
+        "word": "伊朗称若局势失控曼德海峡也将关闭",
+        "onboard_time": 1775573783,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278568,
+        "num": 184792,
+        "word": "伊朗说克制已结束",
+        "onboard_time": 1775567303,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266271,
+        "num": 183920,
+        "word": "美以大规模轰炸计划被曝已准备就绪",
+        "onboard_time": 1775575702,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210957,
+        "num": 182123,
+        "word": "韩国回应特朗普",
+        "onboard_time": 1775567483,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181981,
+        "num": 181981,
+        "word": "载2万斤橙子货车翻滚坠崖",
+        "onboard_time": 1775575101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100167,
+        "num": 181391,
+        "word": "美绕月飞船1.5亿厕所已瘫痪",
+        "onboard_time": 1775576661,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22095,
+        "num": 177340,
+        "word": "打卡羊圈旁的水库美景1人收3元",
+        "onboard_time": 1775576542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285050,
+        "num": 174144,
+        "word": "向太自曝曾多次拆散向佐恋情",
+        "onboard_time": 1775564360,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224636,
+        "num": 169398,
+        "word": "刘耀文 耳洞",
+        "onboard_time": 1775566943,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 166908,
+        "word": "央行抛售引发金价地震",
+        "onboard_time": 1775562200,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162822,
+        "num": 162822,
+        "word": "曾沛慈热度断层第一",
+        "onboard_time": 1775563040,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153787,
+        "num": 153787,
+        "word": "130元拆盲勺里面全是废绳手机壳",
+        "onboard_time": 1775575524,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83876,
+        "num": 145023,
+        "word": "辛巴朋友圈吐槽被五次退网",
+        "onboard_time": 1775576061,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143508,
+        "num": 143508,
+        "word": "危险关系 恐怖片",
+        "onboard_time": 1775572822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135081,
+        "num": 135081,
+        "word": "iPhone三款新机机模出炉",
+        "onboard_time": 1775565922,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 406206,
+        "num": 135061,
+        "word": "鞠婧祎生图",
+        "onboard_time": 1775572583,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 134677,
+        "word": "开心消消乐",
+        "onboard_time": 1775561240,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130396,
+        "num": 130396,
+        "word": "直播涉黄牛奶品牌为中华老字号",
+        "onboard_time": 1775573003,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127707,
+        "num": 127707,
+        "word": "以军空袭伊朗铁路和桥梁",
+        "onboard_time": 1775573182,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110313,
+        "num": 110313,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108332,
+        "num": 108332,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106769,
+        "num": 106769,
+        "word": "肖战魏大勋十日终焉前期是对手",
+        "onboard_time": 1775575702,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100666,
+        "num": 100666,
+        "word": "卡塔尔警告中东接近失控临界点",
+        "onboard_time": 1775575461,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "中方表态特朗普威胁伊朗最后期限",
+        "onboard_time": 1775567784,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93162,
+        "num": 93162,
+        "word": "过三月和过四月的速度不一样",
+        "onboard_time": 1775571442,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48265,
+        "num": 91502,
+        "word": "女子称休完产假公司没了",
+        "onboard_time": 1775576602,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35095,
+        "num": 91293,
+        "word": "我们为什么不敢接陌生电话了",
+        "onboard_time": 1775577201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 91204,
+        "word": "迟重瑞为陈丽华光头36年",
+        "onboard_time": 1775555361,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95246,
+        "num": 90990,
+        "word": "百花杀啥情况",
+        "onboard_time": 1775576722,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78839,
+        "num": 88553,
+        "word": "偏爱女性的桥本病要不要治",
+        "onboard_time": 1775576900,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88495,
+        "num": 88495,
+        "word": "曾舜晞差点复刻经典头纱吻",
+        "onboard_time": 1775573424,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88100,
+        "num": 88100,
+        "word": "孟子义 现偶",
+        "onboard_time": 1775563641,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76224,
+        "num": 85849,
+        "word": "不要跟不熟的人互关",
+        "onboard_time": 1775557520,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85775,
+        "num": 85775,
+        "word": "裴珍映 假体",
+        "onboard_time": 1775563461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78819,
+        "num": 78819,
+        "word": "浪姐取消直播后被喊话退钱",
+        "onboard_time": 1775556741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73490,
+        "num": 73490,
+        "word": "伊朗不再对打击目标设限",
+        "onboard_time": 1775576722,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 74627,
+        "num": 73482,
+        "word": "肖战手握3部待播剧",
+        "onboard_time": 1775577020,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺四所交通大学建校130周年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775575092500,
+  "endTime": 1775577302791,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -649,6 +649,14 @@
       "onboard_time": 1775356822,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 908403,
+      "num": 590716,
+      "word": "伊朗民众组成人链保护发电厂和桥梁",
+      "onboard_time": 1775575223,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 904575,
@@ -2587,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406206,
+      "num": 226912,
+      "word": "鞠婧祎生图",
+      "onboard_time": 1775572583,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 405946,
       "num": 405946,
       "word": "以色列决定报复法国",
@@ -2697,14 +2713,6 @@
       "onboard_time": 1775276840,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395897,
-      "num": 226912,
-      "word": "鞠婧祎生图",
-      "onboard_time": 1775572583,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 395452,
@@ -3555,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320668,
+      "num": 776963,
+      "word": "网传浪姐一公小考结果",
+      "onboard_time": 1775575641,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320563,
       "num": 159029,
       "word": "冯提莫回应腋下管理",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1775214442,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318701,
+      "num": 318701,
+      "word": "时隔近一年郭艾伦再向周深道歉",
+      "onboard_time": 1775570364,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 318638,
@@ -3729,6 +3753,14 @@
       "onboard_time": 1775206281,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309332,
+      "num": 224556,
+      "word": "伊朗称若局势失控曼德海峡也将关闭",
+      "onboard_time": 1775573783,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 309321,
@@ -4523,6 +4555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266271,
+      "num": 183920,
+      "word": "美以大规模轰炸计划被曝已准备就绪",
+      "onboard_time": 1775575702,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265866,
       "num": 265866,
       "word": "伊朗媒体发布美国F35残骸照",
@@ -4697,14 +4737,6 @@
       "onboard_time": 1775016685,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257404,
-      "num": 224556,
-      "word": "伊朗称若局势失控曼德海峡也将关闭",
-      "onboard_time": 1775573783,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 256725,
@@ -5001,14 +5033,6 @@
       "onboard_time": 1775046142,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 240139,
-      "num": 223408,
-      "word": "时隔近一年郭艾伦再向周深道歉",
-      "onboard_time": 1775570364,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 239977,
@@ -6675,6 +6699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181981,
+      "num": 181981,
+      "word": "载2万斤橙子货车翻滚坠崖",
+      "onboard_time": 1775575101,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181807,
       "num": 181807,
       "word": "伊媒称多名美军士兵在营救行动中身亡",
@@ -7755,6 +7787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153787,
+      "num": 153787,
+      "word": "130元拆盲勺里面全是废绳手机壳",
+      "onboard_time": 1775575524,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153496,
       "num": 153496,
       "word": "澳门世界杯女单四强出炉",
@@ -8179,6 +8219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143508,
+      "num": 143508,
+      "word": "危险关系 恐怖片",
+      "onboard_time": 1775572822,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143506,
       "num": 135477,
       "word": "王俊凯直播国风造型",
@@ -8369,14 +8417,6 @@
       "onboard_time": 1775050103,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140105,
-      "num": 140105,
-      "word": "危险关系 恐怖片",
-      "onboard_time": 1775572822,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 139957,
@@ -10947,6 +10987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106769,
+      "num": 106769,
+      "word": "肖战魏大勋十日终焉前期是对手",
+      "onboard_time": 1775575702,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106757,
       "num": 106757,
       "word": "很少用top来形容一个土豆",
@@ -11587,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100666,
+      "num": 100666,
+      "word": "卡塔尔警告中东接近失控临界点",
+      "onboard_time": 1775575461,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100593,
       "num": 100593,
       "word": "学生亲手点燃镁条的时代正在消失",
@@ -11641,6 +11697,14 @@
       "onboard_time": 1775136503,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100167,
+      "num": 181391,
+      "word": "美绕月飞船1.5亿厕所已瘫痪",
+      "onboard_time": 1775576661,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100145,
@@ -12249,6 +12313,14 @@
       "onboard_time": 1775118501,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95246,
+      "num": 90990,
+      "word": "百花杀啥情况",
+      "onboard_time": 1775576722,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 95010,
@@ -14075,6 +14147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83876,
+      "num": 145023,
+      "word": "辛巴朋友圈吐槽被五次退网",
+      "onboard_time": 1775576061,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 83770,
       "num": 83770,
       "word": "王楚钦说香港总决赛受伤呼吸都疼",
@@ -14793,6 +14873,14 @@
       "onboard_time": 1775021545,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78839,
+      "num": 88553,
+      "word": "偏爱女性的桥本病要不要治",
+      "onboard_time": 1775576900,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78717,
@@ -15539,6 +15627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74627,
+      "num": 73482,
+      "word": "肖战手握3部待播剧",
+      "onboard_time": 1775577020,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74568,
       "num": 74568,
       "word": "WBG对战AL",
@@ -15721,6 +15817,14 @@
       "onboard_time": 1775127322,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73490,
+      "num": 73490,
+      "word": "伊朗不再对打击目标设限",
+      "onboard_time": 1775576722,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 73423,
@@ -18491,6 +18595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48265,
+      "num": 91502,
+      "word": "女子称休完产假公司没了",
+      "onboard_time": 1775576602,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48246,
       "num": 64085,
       "word": "伊朗发起第93波打击",
@@ -19072,6 +19184,14 @@
       "word": "三代人同框敬礼祭奠先烈",
       "onboard_time": 1775394446,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35095,
+      "num": 91293,
+      "word": "我们为什么不敢接陌生电话了",
+      "onboard_time": 1775577201,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -19761,6 +19881,14 @@
       "onboard_time": 1775201362,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22095,
+      "num": 177340,
+      "word": "打卡羊圈旁的水库美景1人收3元",
+      "onboard_time": 1775576542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22048,
