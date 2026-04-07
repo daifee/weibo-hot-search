@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775553231894,
+  "endTime": 1775555076409,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -169,6 +169,14 @@
       "onboard_time": 1775387661,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1091601,
+      "num": 324832,
+      "word": "把蓝莓当消炎药吃",
+      "onboard_time": 1775551882,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 1043300,
@@ -409,14 +417,6 @@
       "onboard_time": 1775534662,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 661525,
-      "num": 221831,
-      "word": "把蓝莓当消炎药吃",
-      "onboard_time": 1775551882,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 660427,
@@ -907,6 +907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 387699,
+      "num": 828177,
+      "word": "十日终焉",
+      "onboard_time": 1775553081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384819,
       "num": 384819,
       "word": "谢娜的话筒一直是在冲着李小冉的",
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355378,
+      "num": 355378,
+      "word": "汽车坠桥致5死疑监控画面曝光",
+      "onboard_time": 1775552302,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353619,
       "num": 128912,
       "word": "佟丽娅看朵朵饭撒的眼神",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1775364320,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340697,
+      "num": 340697,
+      "word": "伊朗总统说已准备好牺牲",
+      "onboard_time": 1775553502,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 339756,
@@ -1748,7 +1772,7 @@
     },
     {
       "raw_hot": 232173,
-      "num": 232173,
+      "num": 335260,
       "word": "黄金或面临长期盘整",
       "onboard_time": 1775550561,
       "rank": 8,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1775306483,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223421,
+      "num": 104732,
+      "word": "日本撞人族被抓后鞠躬道歉",
+      "onboard_time": 1775553860,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 223136,
@@ -3043,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139222,
+      "num": 106172,
+      "word": "宋祖儿帽子比脸大了一圈",
+      "onboard_time": 1775553261,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139059,
       "num": 139059,
       "word": "TES举报宁王",
@@ -3227,14 +3267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132865,
-      "num": 132865,
-      "word": "汽车坠桥致5死疑监控画面曝光",
-      "onboard_time": 1775552302,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132326,
       "num": 132326,
       "word": "咖啡店摆700字须知内含禁乱扔丝袜",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1775311284,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129442,
+      "num": 105862,
+      "word": "曾舜晞情商",
+      "onboard_time": 1775554761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 129356,
@@ -3513,6 +3553,14 @@
       "onboard_time": 1775365581,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121787,
+      "num": 330735,
+      "word": "外交部回应郑丽文率团访问大陆",
+      "onboard_time": 1775554040,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121763,
@@ -3729,6 +3777,14 @@
       "onboard_time": 1775455341,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114232,
+      "num": 104108,
+      "word": "张凌赫锁骨伤太对味了",
+      "onboard_time": 1775552720,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112806,
@@ -3995,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105052,
+      "num": 105052,
+      "word": "张本智和近距离感受国乒队魂",
+      "onboard_time": 1775554401,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105040,
       "num": 105040,
       "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
@@ -4075,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103445,
+      "num": 103445,
+      "word": "终于有人吐槽住酒店化妆难了",
+      "onboard_time": 1775552421,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103429,
       "num": 103429,
       "word": "狗狗像端菜一样被端上来了",
@@ -4097,6 +4169,14 @@
       "onboard_time": 1775544262,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102665,
+      "num": 102665,
+      "word": "职场微信礼仪",
+      "onboard_time": 1775553800,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 102488,
@@ -4153,14 +4233,6 @@
       "onboard_time": 1775430918,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 100676,
-      "num": 100676,
-      "word": "终于有人吐槽住酒店化妆难了",
-      "onboard_time": 1775552421,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 100452,
@@ -4345,14 +4417,6 @@
       "onboard_time": 1775537663,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96415,
-      "num": 96415,
-      "word": "张凌赫锁骨伤太对味了",
-      "onboard_time": 1775552720,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 96346,
@@ -4707,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89163,
+      "num": 89163,
+      "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
+      "onboard_time": 1775552123,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "孙颖莎王楚钦顶峰相见",
@@ -4915,14 +4987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85226,
-      "num": 85226,
-      "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
-      "onboard_time": 1775552123,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85213,
       "num": 156608,
       "word": "医院回应胸痛硬扛1小时才知是心梗",
@@ -5027,6 +5091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83742,
+      "num": 83742,
+      "word": "忽然有一种古人也是人的感觉",
+      "onboard_time": 1775554521,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83687,
       "num": 82188,
       "word": "手机壳比手机还贵",
@@ -5105,14 +5177,6 @@
       "onboard_time": 1775553081,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82449,
-      "num": 79903,
-      "word": "十日终焉",
-      "onboard_time": 1775553081,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 82396,
@@ -5651,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74299,
+      "num": 74299,
+      "word": "日本人谈在上海旅游的感受",
+      "onboard_time": 1775554401,
+      "rank": 42,
+      "category": "海外新闻,旅游"
+    },
+    {
       "raw_hot": 74266,
       "num": 74266,
       "word": "美持续升级战争与声称谈判相矛盾",
@@ -5867,6 +5939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69975,
+      "num": 69975,
+      "word": "四所交通大学共迎建校130周年",
+      "onboard_time": 1775553740,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69868,
       "num": 69868,
       "word": "把椰奶当作冰袋扔了",
@@ -5897,6 +5977,14 @@
       "onboard_time": 1775481082,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69184,
+      "num": 69184,
+      "word": "郭晶晶霍启刚带娃游广西",
+      "onboard_time": 1775554640,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 69180,
@@ -5963,6 +6051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68402,
+      "num": 68402,
+      "word": "泰国征兵这几天太热闹了",
+      "onboard_time": 1775554701,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68309,
       "num": 68309,
       "word": "热乎的漂亮饭到底什么味",
@@ -5985,6 +6081,14 @@
       "onboard_time": 1775386643,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67980,
+      "num": 67980,
+      "word": "建议大家养猫就养全自动的",
+      "onboard_time": 1775555002,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 67935,
@@ -7275,6 +7379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31081,
+      "num": 120700,
+      "word": "为弟追凶24年案即将二审",
+      "onboard_time": 1775554161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30342,
       "num": 557643,
       "word": "清明假期叠加春假激发经济新活力",
@@ -7531,7 +7643,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19940,
+      "raw_hot": 19964,
       "num": 627941,
       "word": "天舟十号飞行任务标识正式发布",
       "onboard_time": 1775550440,

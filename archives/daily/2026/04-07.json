@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775553231894,
+  "endTime": 1775555076409,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -49,6 +49,14 @@
       "onboard_time": 1775540900,
       "rank": 0,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 1091601,
+      "num": 324832,
+      "word": "把蓝莓当消炎药吃",
+      "onboard_time": 1775551882,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 1029713,
@@ -153,14 +161,6 @@
       "onboard_time": 1775534662,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 661525,
-      "num": 221831,
-      "word": "把蓝莓当消炎药吃",
-      "onboard_time": 1775551882,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 660427,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387699,
+      "num": 828177,
+      "word": "十日终焉",
+      "onboard_time": 1775553081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377295,
       "num": 256093,
       "word": "美军运输机残骸中发现一美士兵遗体",
@@ -323,6 +331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 355378,
+      "num": 355378,
+      "word": "汽车坠桥致5死疑监控画面曝光",
+      "onboard_time": 1775552302,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351498,
       "num": 231647,
       "word": "虞书欣紫色新中式造型",
@@ -337,6 +353,14 @@
       "onboard_time": 1775533161,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340697,
+      "num": 340697,
+      "word": "伊朗总统说已准备好牺牲",
+      "onboard_time": 1775553502,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338255,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 232173,
-      "num": 232173,
+      "num": 335260,
       "word": "黄金或面临长期盘整",
       "onboard_time": 1775550561,
       "rank": 8,
@@ -593,6 +617,14 @@
       "onboard_time": 1775548220,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223421,
+      "num": 104732,
+      "word": "日本撞人族被抓后鞠躬道歉",
+      "onboard_time": 1775553860,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220919,
@@ -875,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139222,
+      "num": 106172,
+      "word": "宋祖儿帽子比脸大了一圈",
+      "onboard_time": 1775553261,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138782,
       "num": 175981,
       "word": "曾舜晞陈都灵或将主演不醒",
@@ -931,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132865,
-      "num": 132865,
-      "word": "汽车坠桥致5死疑监控画面曝光",
-      "onboard_time": 1775552302,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132178,
       "num": 132178,
       "word": "妻子点单丈夫2月偷会员超市上万商品",
@@ -961,6 +993,14 @@
       "onboard_time": 1775532982,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129442,
+      "num": 105862,
+      "word": "曾舜晞情商",
+      "onboard_time": 1775554761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 129356,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1775535924,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121787,
+      "num": 330735,
+      "word": "外交部回应郑丽文率团访问大陆",
+      "onboard_time": 1775554040,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121035,
@@ -1083,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114232,
+      "num": 104108,
+      "word": "张凌赫锁骨伤太对味了",
+      "onboard_time": 1775552720,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110870,
       "num": 110870,
       "word": "baby的睫毛",
@@ -1147,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105052,
+      "num": 105052,
+      "word": "张本智和近距离感受国乒队魂",
+      "onboard_time": 1775554401,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104918,
       "num": 100141,
       "word": "曹格前妻吴速玲47岁状态",
@@ -1171,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103445,
+      "num": 103445,
+      "word": "终于有人吐槽住酒店化妆难了",
+      "onboard_time": 1775552421,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102997,
       "num": 102997,
       "word": "大学生西湖边当陪拍日赚1800",
@@ -1179,20 +1251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102665,
+      "num": 102665,
+      "word": "职场微信礼仪",
+      "onboard_time": 1775553800,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102488,
       "num": 102488,
       "word": "本周上四就休二",
       "onboard_time": 1775536584,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100676,
-      "num": 100676,
-      "word": "终于有人吐槽住酒店化妆难了",
-      "onboard_time": 1775552421,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 100452,
@@ -1257,14 +1329,6 @@
       "onboard_time": 1775537663,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96415,
-      "num": 96415,
-      "word": "张凌赫锁骨伤太对味了",
-      "onboard_time": 1775552720,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 95432,
@@ -1379,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89163,
+      "num": 89163,
+      "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
+      "onboard_time": 1775552123,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88776,
       "num": 88776,
       "word": "苏林当选越南国家主席",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1775492180,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 85226,
-      "num": 85226,
-      "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
-      "onboard_time": 1775552123,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 85213,
@@ -1467,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83742,
+      "num": 83742,
+      "word": "忽然有一种古人也是人的感觉",
+      "onboard_time": 1775554521,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83249,
       "num": 82345,
       "word": "王鸥和张天爱是邻居",
@@ -1481,14 +1553,6 @@
       "onboard_time": 1775553081,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82449,
-      "num": 79903,
-      "word": "十日终焉",
-      "onboard_time": 1775553081,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 82396,
@@ -1595,6 +1659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74299,
+      "num": 74299,
+      "word": "日本人谈在上海旅游的感受",
+      "onboard_time": 1775554401,
+      "rank": 42,
+      "category": "海外新闻,旅游"
+    },
+    {
       "raw_hot": 73282,
       "num": 118238,
       "word": "男子故意绊服务员面汤洒顾客身上",
@@ -1675,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69975,
+      "num": 69975,
+      "word": "四所交通大学共迎建校130周年",
+      "onboard_time": 1775553740,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69678,
       "num": 117218,
       "word": "一世鹰名毁于伊弹",
@@ -1689,6 +1769,30 @@
       "onboard_time": 1775479160,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69184,
+      "num": 69184,
+      "word": "郭晶晶霍启刚带娃游广西",
+      "onboard_time": 1775554640,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68402,
+      "num": 68402,
+      "word": "泰国征兵这几天太热闹了",
+      "onboard_time": 1775554701,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67980,
+      "num": 67980,
+      "word": "建议大家养猫就养全自动的",
+      "onboard_time": 1775555002,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 67887,
@@ -2043,6 +2147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31081,
+      "num": 120700,
+      "word": "为弟追凶24年案即将二审",
+      "onboard_time": 1775554161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28458,
       "num": 140463,
       "word": "北京侨商会悼念陈丽华",
@@ -2107,7 +2219,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19940,
+      "raw_hot": 19964,
       "num": 627941,
       "word": "天舟十号飞行任务标识正式发布",
       "onboard_time": 1775550440,
