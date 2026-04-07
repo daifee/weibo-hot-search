@@ -1,0 +1,410 @@
+{
+  "runTime": 1775570937198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398918,
+        "num": 1063827,
+        "word": "王楚钦称跟樊振东打出了自己的问题",
+        "onboard_time": 1775568863,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306487,
+        "num": 760004,
+        "word": "教育具有长期性和滞后性",
+        "onboard_time": 1775562502,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57542,
+        "num": 626476,
+        "word": "外国人来中国旅游更火了",
+        "onboard_time": 1775566763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819610,
+        "num": 566169,
+        "word": "华晨宇的民宿定价3块钱",
+        "onboard_time": 1775563521,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 744949,
+        "num": 537116,
+        "word": "美以袭击哈尔克岛",
+        "onboard_time": 1775564001,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1133922,
+        "num": 512012,
+        "word": "上海女子爬树压塌20年樱花树",
+        "onboard_time": 1775566041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473127,
+        "num": 473127,
+        "word": "联合国警告特朗普",
+        "onboard_time": 1775564481,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453945,
+        "num": 453945,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353364,
+        "num": 353364,
+        "word": "曾沛慈热度断层第一",
+        "onboard_time": 1775563040,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255852,
+        "num": 255852,
+        "word": "开心消消乐",
+        "onboard_time": 1775561240,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 681119,
+        "num": 254389,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1382161,
+        "num": 253715,
+        "word": "特朗普威胁伊朗整个文明将消亡",
+        "onboard_time": 1775566403,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 568438,
+        "num": 250936,
+        "word": "韩国回应特朗普",
+        "onboard_time": 1775567483,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411745,
+        "num": 248798,
+        "word": "伊朗说克制已结束",
+        "onboard_time": 1775567303,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337848,
+        "num": 247033,
+        "word": "iPhone三款新机机模出炉",
+        "onboard_time": 1775565922,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322716,
+        "num": 245799,
+        "word": "迟重瑞为陈丽华光头36年",
+        "onboard_time": 1775555361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279304,
+        "num": 243141,
+        "word": "中方表态特朗普威胁伊朗最后期限",
+        "onboard_time": 1775567784,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265186,
+        "num": 242445,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240634,
+        "num": 240634,
+        "word": "孟子义 现偶",
+        "onboard_time": 1775563641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161519,
+        "num": 213336,
+        "word": "伊朗总统说已准备好牺牲",
+        "onboard_time": 1775553502,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 592682,
+        "num": 209297,
+        "word": "刘耀文 耳洞",
+        "onboard_time": 1775566943,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566588,
+        "num": 205827,
+        "word": "向太自曝曾多次拆散向佐恋情",
+        "onboard_time": 1775564360,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200178,
+        "num": 200178,
+        "word": "央行抛售引发金价地震",
+        "onboard_time": 1775562200,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245211,
+        "num": 186857,
+        "word": "裴珍映 假体",
+        "onboard_time": 1775563461,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173044,
+        "num": 173044,
+        "word": "葛夕自曝与爸爸二十年没联系",
+        "onboard_time": 1775568263,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160332,
+        "num": 160332,
+        "word": "伊朗对美以发动第99波打击",
+        "onboard_time": 1775559861,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171752,
+        "num": 160151,
+        "word": "迟重瑞说不畏惧陈丽华的强",
+        "onboard_time": 1775568743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152008,
+        "num": 152008,
+        "word": "两位小米联合创始人退出小米科技",
+        "onboard_time": 1775560460,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144157,
+        "num": 144157,
+        "word": "我见迪丽热巴就这样",
+        "onboard_time": 1775566702,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136546,
+        "num": 136546,
+        "word": "237平独居视频破1100万",
+        "onboard_time": 1775567661,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161141,
+        "num": 135330,
+        "word": "浪姐取消直播后被喊话退钱",
+        "onboard_time": 1775556741,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133934,
+        "num": 133934,
+        "word": "十日终焉最新阵容",
+        "onboard_time": 1775555421,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 122580,
+        "word": "长沙一女子获7天带薪雨假",
+        "onboard_time": 1775567183,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116765,
+        "num": 116765,
+        "word": "不要跟不熟的人互关",
+        "onboard_time": 1775557520,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114855,
+        "num": 114855,
+        "word": "伊朗哈尔克岛再次遭袭",
+        "onboard_time": 1775569581,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114792,
+        "num": 114792,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109796,
+        "num": 109796,
+        "word": "把易梦玲认成了柳智敏",
+        "onboard_time": 1775568983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109715,
+        "num": 109715,
+        "word": "陈光标称捐千万嫣然感谢信未明确",
+        "onboard_time": 1775566041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109071,
+        "num": 109071,
+        "word": "思文当妈",
+        "onboard_time": 1775570722,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103530,
+        "num": 103530,
+        "word": "危险关系",
+        "onboard_time": 1775564180,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97027,
+        "num": 102857,
+        "word": "1元公交雨中喷水乘客说体谅体谅",
+        "onboard_time": 1775567722,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102480,
+        "num": 102480,
+        "word": "孙俪越长越像邓超了",
+        "onboard_time": 1775569763,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97788,
+        "num": 97788,
+        "word": "时隔近一年郭艾伦再向周深道歉",
+        "onboard_time": 1775570364,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94240,
+        "num": 94240,
+        "word": "莫氏鸡煲真的干不动了",
+        "onboard_time": 1775567483,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97735,
+        "num": 92866,
+        "word": "猪八戒扮演者马德华将送别陈丽华",
+        "onboard_time": 1775565324,
+        "rank": 44,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 96577,
+        "num": 92084,
+        "word": "唐嫣好有气质",
+        "onboard_time": 1775563942,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89516,
+        "num": 89516,
+        "word": "老师笑了半天才决定放过你",
+        "onboard_time": 1775570063,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87553,
+        "num": 87553,
+        "word": "陈丽华的紫檀展品从未卖过一件",
+        "onboard_time": 1775567183,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83603,
+        "num": 83603,
+        "word": "张维伊馒头汉堡减肥法",
+        "onboard_time": 1775562621,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81468,
+        "num": 81468,
+        "word": "孙颖莎神图",
+        "onboard_time": 1775563822,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺四所交通大学建校130周年#"
+    }
+  }
+}
