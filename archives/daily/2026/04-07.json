@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775548630338,
+  "endTime": 1775553231894,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 895244,
+      "num": 222930,
+      "word": "虞书欣工作室 审美",
+      "onboard_time": 1775548761,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893125,
       "num": 1142900,
       "word": "陈丽华儿子担任富华国际集团总裁",
@@ -89,6 +97,14 @@
       "onboard_time": 1775526860,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838077,
+      "num": 1134092,
+      "word": "39岁男子考研落榜举报复试第一考生",
+      "onboard_time": 1775549962,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 821531,
@@ -137,6 +153,14 @@
       "onboard_time": 1775534662,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661525,
+      "num": 221831,
+      "word": "把蓝莓当消炎药吃",
+      "onboard_time": 1775551882,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 660427,
@@ -243,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407367,
+      "num": 407367,
+      "word": "浪姐一公小考取消直播",
+      "onboard_time": 1775550561,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400891,
       "num": 203141,
       "word": "桃黑黑直播打嘴抽脸",
@@ -339,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313165,
+      "num": 218848,
+      "word": "虞书欣和Jennie同款发型",
+      "onboard_time": 1775548583,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307076,
       "num": 307076,
       "word": "文章和女儿合照被说像明星",
@@ -355,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294038,
+      "num": 294038,
+      "word": "华东师大复试第一考生被指违规翻材料",
+      "onboard_time": 1775550021,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293310,
       "num": 1036163,
       "word": "日乒队员看王楚钦夺冠时的表情",
@@ -368,6 +416,14 @@
       "word": "特朗普正面临重大抉择",
       "onboard_time": 1775518338,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 284172,
+      "num": 217592,
+      "word": "特朗普夫人称开战是为了伊朗儿童",
+      "onboard_time": 1775548881,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -435,6 +491,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 271924,
+      "num": 271924,
+      "word": "魏大勋青岛进组十日终焉",
+      "onboard_time": 1775548583,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269700,
       "num": 526989,
       "word": "开车致女友截瘫后失联男子首发声",
@@ -467,12 +531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252242,
+      "num": 216225,
+      "word": "韩国人称为吃地瓜条专门来中国",
+      "onboard_time": 1775550621,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235021,
       "num": 140331,
       "word": "朋友对陈丽华比迟重瑞大10岁感到震惊",
       "onboard_time": 1775537783,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232173,
+      "num": 232173,
+      "word": "黄金或面临长期盘整",
+      "onboard_time": 1775550561,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 231798,
@@ -505,6 +585,14 @@
       "onboard_time": 1775539341,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223892,
+      "num": 223892,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1775548220,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 220919,
@@ -675,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164418,
+      "num": 164418,
+      "word": "曾沛慈赵丽颖是互关",
+      "onboard_time": 1775548461,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158908,
       "num": 158908,
       "word": "李若嘉被查出桥本病",
@@ -755,22 +851,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 148886,
-      "num": 148886,
-      "word": "魏大勋青岛进组十日终焉",
-      "onboard_time": 1775548583,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145811,
-      "num": 145811,
-      "word": "虞书欣和Jennie同款发型",
-      "onboard_time": 1775548583,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145624,
       "num": 207472,
       "word": "孙颖莎在每张大合影中都笑的不一样",
@@ -827,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "人肉占车位反被车顶开谁更过分",
+      "onboard_time": 1775549360,
+      "rank": 25,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 133473,
       "num": 133473,
       "word": "郭艾伦工作室声明",
@@ -835,20 +923,20 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 133199,
-      "num": 133199,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1775548220,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133024,
       "num": 133024,
       "word": "危险关系 房思琪",
       "onboard_time": 1775543842,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132865,
+      "num": 132865,
+      "word": "汽车坠桥致5死疑监控画面曝光",
+      "onboard_time": 1775552302,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132178,
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116209,
+      "num": 99994,
+      "word": "张纪中吐槽妻子",
+      "onboard_time": 1775550922,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116105,
       "num": 116105,
       "word": "A股100股涨停",
@@ -1027,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107388,
+      "num": 107388,
+      "word": "抗拒流量的鸡煲老板开始接广告了",
+      "onboard_time": 1775551702,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105493,
       "num": 105493,
       "word": "IU边佑锡谈10年后再合作",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1775546361,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104918,
+      "num": 100141,
+      "word": "曹格前妻吴速玲47岁状态",
+      "onboard_time": 1775548700,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 104709,
@@ -1075,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100676,
+      "num": 100676,
+      "word": "终于有人吐槽住酒店化妆难了",
+      "onboard_time": 1775552421,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "江语晨前夫是美籍",
       "onboard_time": 1775531062,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99830,
+      "num": 99830,
+      "word": "陈丽华育有一儿二女",
+      "onboard_time": 1775551460,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99108,
@@ -1129,6 +1257,14 @@
       "onboard_time": 1775537663,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96415,
+      "num": 96415,
+      "word": "张凌赫锁骨伤太对味了",
+      "onboard_time": 1775552720,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 95432,
@@ -1185,14 +1321,6 @@
       "onboard_time": 1775541802,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 91887,
-      "num": 91887,
-      "word": "曾沛慈赵丽颖是互关",
-      "onboard_time": 1775548461,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 91464,
@@ -1291,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85226,
+      "num": 85226,
+      "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
+      "onboard_time": 1775552123,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85213,
       "num": 156608,
       "word": "医院回应胸痛硬扛1小时才知是心梗",
@@ -1331,12 +1467,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83249,
+      "num": 82345,
+      "word": "王鸥和张天爱是邻居",
+      "onboard_time": 1775549902,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82681,
+      "num": 82681,
+      "word": "发现人事一直监控大家上班",
+      "onboard_time": 1775553081,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 79903,
+      "word": "十日终焉",
+      "onboard_time": 1775553081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82396,
       "num": 82396,
       "word": "赵丽颖欧豪孙千来给陈宇宙撑场面了",
       "onboard_time": 1775541682,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81718,
+      "num": 81718,
+      "word": "日本女游客在印度遭5男子性骚扰",
+      "onboard_time": 1775549482,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81161,
@@ -1441,6 +1609,14 @@
       "onboard_time": 1775523439,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71981,
+      "num": 86245,
+      "word": "八千里路云和月开播",
+      "onboard_time": 1775546721,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 71897,
@@ -1699,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48128,
-      "num": 86245,
-      "word": "八千里路云和月开播",
-      "onboard_time": 1775546721,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48085,
       "num": 48085,
       "word": "伊朗第98波打击",
@@ -1763,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43908,
+      "num": 80312,
+      "word": "女子疑攀爬樱花树拍照致树木压倒",
+      "onboard_time": 1775551762,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43788,
       "num": 116230,
       "word": "本周做什么都顺的星座",
@@ -1816,6 +1992,14 @@
       "word": "清明假期预计跨区域流动8.4亿人次",
       "onboard_time": 1775479701,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36741,
+      "num": 135807,
+      "word": "中国紫檀博物馆今日免票参观",
+      "onboard_time": 1775552962,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1923,6 +2107,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19940,
+      "num": 627941,
+      "word": "天舟十号飞行任务标识正式发布",
+      "onboard_time": 1775550440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18773,
+      "num": 214721,
+      "word": "NX8带你一起告别通勤焦虑",
+      "onboard_time": 1775549422,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 16814,
       "num": 172613,
       "word": "银行业是高薪创高产吗",
@@ -1980,6 +2180,9 @@
     },
     {
       "word": "#人民是历史的创造者是真正的英雄#"
+    },
+    {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
     }
   ]
 }

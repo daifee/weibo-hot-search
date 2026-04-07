@@ -1,0 +1,410 @@
+{
+  "runTime": 1775553231894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 838077,
+        "num": 1134092,
+        "word": "39岁男子考研落榜举报复试第一考生",
+        "onboard_time": 1775549962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473127,
+        "num": 837973,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19940,
+        "num": 627941,
+        "word": "天舟十号飞行任务标识正式发布",
+        "onboard_time": 1775550440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516896,
+        "num": 516896,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407367,
+        "num": 407367,
+        "word": "浪姐一公小考取消直播",
+        "onboard_time": 1775550561,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396418,
+        "num": 396418,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294038,
+        "num": 294038,
+        "word": "华东师大复试第一考生被指违规翻材料",
+        "onboard_time": 1775550021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271924,
+        "num": 271924,
+        "word": "魏大勋青岛进组十日终焉",
+        "onboard_time": 1775548583,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232173,
+        "num": 232173,
+        "word": "黄金或面临长期盘整",
+        "onboard_time": 1775550561,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223892,
+        "num": 223892,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1775548220,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 895244,
+        "num": 222930,
+        "word": "虞书欣工作室 审美",
+        "onboard_time": 1775548761,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661525,
+        "num": 221831,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 568716,
+        "num": 221046,
+        "word": "陈丽华儿子担任富华国际集团总裁",
+        "onboard_time": 1775544200,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502189,
+        "num": 219862,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313165,
+        "num": 218848,
+        "word": "虞书欣和Jennie同款发型",
+        "onboard_time": 1775548583,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284172,
+        "num": 217592,
+        "word": "特朗普夫人称开战是为了伊朗儿童",
+        "onboard_time": 1775548881,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328656,
+        "num": 216793,
+        "word": "Faker回应马斯克",
+        "onboard_time": 1775547682,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252242,
+        "num": 216225,
+        "word": "韩国人称为吃地瓜条专门来中国",
+        "onboard_time": 1775550621,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18773,
+        "num": 214721,
+        "word": "NX8带你一起告别通勤焦虑",
+        "onboard_time": 1775549422,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214052,
+        "num": 214052,
+        "word": "江语晨说才刚离婚别这样",
+        "onboard_time": 1775533462,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196540,
+        "num": 196540,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "曾沛慈赵丽颖是互关",
+        "onboard_time": 1775548461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "原来这叫软孤立啊",
+        "onboard_time": 1775533403,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36741,
+        "num": 135807,
+        "word": "中国紫檀博物馆今日免票参观",
+        "onboard_time": 1775552962,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133533,
+        "num": 133533,
+        "word": "人肉占车位反被车顶开谁更过分",
+        "onboard_time": 1775549360,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 133299,
+        "num": 133299,
+        "word": "郭艾伦否认被骗",
+        "onboard_time": 1775540900,
+        "rank": 26,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "汽车坠桥致5死疑监控画面曝光",
+        "onboard_time": 1775552302,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129764,
+        "num": 129764,
+        "word": "余茵暴瘦",
+        "onboard_time": 1775533762,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107388,
+        "num": 107388,
+        "word": "抗拒流量的鸡煲老板开始接广告了",
+        "onboard_time": 1775551702,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102710,
+        "num": 102710,
+        "word": "金莎孙丞潇已经结婚了吗",
+        "onboard_time": 1775540421,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100676,
+        "num": 100676,
+        "word": "终于有人吐槽住酒店化妆难了",
+        "onboard_time": 1775552421,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100249,
+        "num": 100249,
+        "word": "女子住酒店在浴巾发现用过的伟哥",
+        "onboard_time": 1775539522,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104918,
+        "num": 100141,
+        "word": "曹格前妻吴速玲47岁状态",
+        "onboard_time": 1775548700,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116209,
+        "num": 99994,
+        "word": "张纪中吐槽妻子",
+        "onboard_time": 1775550922,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "陈丽华育有一儿二女",
+        "onboard_time": 1775551460,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 96865,
+        "word": "情侣因换座与女乘客发生争执",
+        "onboard_time": 1775538922,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96415,
+        "num": 96415,
+        "word": "张凌赫锁骨伤太对味了",
+        "onboard_time": 1775552720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91566,
+        "num": 91566,
+        "word": "伊朗若同意停火战争或再次爆发",
+        "onboard_time": 1775540421,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86595,
+        "num": 86595,
+        "word": "关晓彤比例 没有拉腿的义务",
+        "onboard_time": 1775545941,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 85226,
+        "word": "乌兰图雅 半永久嬉皮笑脸都累没了",
+        "onboard_time": 1775552123,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82681,
+        "num": 82681,
+        "word": "发现人事一直监控大家上班",
+        "onboard_time": 1775553081,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83249,
+        "num": 82345,
+        "word": "王鸥和张天爱是邻居",
+        "onboard_time": 1775549902,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71981,
+        "num": 81865,
+        "word": "八千里路云和月开播",
+        "onboard_time": 1775546721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37053,
+        "num": 81722,
+        "word": "赵丽颖欧豪孙千来给陈宇宙撑场面了",
+        "onboard_time": 1775541682,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81718,
+        "num": 81718,
+        "word": "日本女游客在印度遭5男子性骚扰",
+        "onboard_time": 1775549482,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43908,
+        "num": 80312,
+        "word": "女子疑攀爬樱花树拍照致树木压倒",
+        "onboard_time": 1775551762,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82449,
+        "num": 79903,
+        "word": "十日终焉",
+        "onboard_time": 1775553081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78923,
+        "num": 78923,
+        "word": "桃晚安回应",
+        "onboard_time": 1775541022,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78226,
+        "num": 78226,
+        "word": "鞠婧祎 你是不是想陷害姐姐",
+        "onboard_time": 1775538443,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}
