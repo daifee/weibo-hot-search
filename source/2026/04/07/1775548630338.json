@@ -1,0 +1,410 @@
+{
+  "runTime": 1775548630338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155383,
+        "num": 1184861,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1775545761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 870464,
+        "num": 870464,
+        "word": "陈丽华儿子担任富华国际集团总裁",
+        "onboard_time": 1775544200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26773,
+        "num": 704269,
+        "word": "电商要更好服务实体经济",
+        "onboard_time": 1775527939,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709557,
+        "num": 628802,
+        "word": "曝某牛奶直播间涉黄涉低俗",
+        "onboard_time": 1775538323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478761,
+        "num": 478761,
+        "word": "5月放假12天",
+        "onboard_time": 1775533641,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331940,
+        "num": 331940,
+        "word": "Faker回应马斯克",
+        "onboard_time": 1775547682,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317885,
+        "num": 317885,
+        "word": "马思纯走出抑郁后的状态",
+        "onboard_time": 1775546001,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276819,
+        "num": 276819,
+        "word": "原来这叫软孤立啊",
+        "onboard_time": 1775533403,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246719,
+        "num": 246719,
+        "word": "金莎孙丞潇上夫妻综艺了",
+        "onboard_time": 1775539162,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494733,
+        "num": 243304,
+        "word": "张雪的妈妈是厦大中文系毕业的",
+        "onboard_time": 1775544262,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912617,
+        "num": 241513,
+        "word": "周杰伦 江语晨",
+        "onboard_time": 1775537602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763047,
+        "num": 238905,
+        "word": "瞿颖 肉毒起作用了",
+        "onboard_time": 1775547563,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233484,
+        "num": 233484,
+        "word": "郭艾伦否认被骗",
+        "onboard_time": 1775540900,
+        "rank": 12,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 351498,
+        "num": 231647,
+        "word": "虞书欣紫色新中式造型",
+        "onboard_time": 1775547021,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223025,
+        "num": 223025,
+        "word": "陈丽华叫迟重瑞迟先生",
+        "onboard_time": 1775536224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370392,
+        "num": 219074,
+        "word": "江语晨说才刚离婚别这样",
+        "onboard_time": 1775533462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207787,
+        "num": 207787,
+        "word": "余茵暴瘦",
+        "onboard_time": 1775533762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204365,
+        "num": 204365,
+        "word": "情侣因换座与女乘客发生争执",
+        "onboard_time": 1775538922,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181113,
+        "num": 181113,
+        "word": "郑丽文率团抵达",
+        "onboard_time": 1775539701,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22048,
+        "num": 173552,
+        "word": "截瘫女子称男友说会结婚反手拉黑",
+        "onboard_time": 1775548161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169479,
+        "num": 169479,
+        "word": "伊朗称以放弃北部城市承认了失败",
+        "onboard_time": 1775531962,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163455,
+        "num": 163455,
+        "word": "多方回应截瘫女子车祸时坐姿",
+        "onboard_time": 1775539341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152872,
+        "num": 152872,
+        "word": "关晓彤比例 没有拉腿的义务",
+        "onboard_time": 1775545941,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148886,
+        "num": 148886,
+        "word": "魏大勋青岛进组十日终焉",
+        "onboard_time": 1775548583,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140490,
+        "num": 145960,
+        "word": "女子住酒店在浴巾发现用过的伟哥",
+        "onboard_time": 1775539522,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145811,
+        "num": 145811,
+        "word": "虞书欣和Jennie同款发型",
+        "onboard_time": 1775548583,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143550,
+        "num": 143550,
+        "word": "妻子的浪漫旅行嘉宾阵容",
+        "onboard_time": 1775534662,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137743,
+        "num": 137743,
+        "word": "桃晚安回应",
+        "onboard_time": 1775541022,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135825,
+        "num": 135825,
+        "word": "迟重瑞说全家人每天必须一起吃晚饭",
+        "onboard_time": 1775541022,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133199,
+        "num": 133199,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1775548220,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128860,
+        "num": 128860,
+        "word": "褶皱消失术",
+        "onboard_time": 1775547321,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 125896,
+        "word": "金莎孙丞潇已经结婚了吗",
+        "onboard_time": 1775540421,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77850,
+        "num": 124963,
+        "word": "魏建军说卖车要带着良心",
+        "onboard_time": 1775541802,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124386,
+        "num": 124386,
+        "word": "陈丽华身家470亿元",
+        "onboard_time": 1775532922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121041,
+        "num": 121041,
+        "word": "伊朗若同意停火战争或再次爆发",
+        "onboard_time": 1775540421,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119900,
+        "num": 119900,
+        "word": "电影青铜葵花定档",
+        "onboard_time": 1775542641,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116105,
+        "num": 116105,
+        "word": "A股100股涨停",
+        "onboard_time": 1775547682,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113750,
+        "num": 113750,
+        "word": "鞠婧祎 你是不是想陷害姐姐",
+        "onboard_time": 1775538443,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110870,
+        "num": 110870,
+        "word": "baby的睫毛",
+        "onboard_time": 1775546662,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 108426,
+        "word": "邓超孙俪鱼腥草真爱粉",
+        "onboard_time": 1775546600,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91289,
+        "num": 106272,
+        "word": "6小时都没找到儿子墓碑老人急哭",
+        "onboard_time": 1775547200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106227,
+        "num": 106227,
+        "word": "郭艾伦将追责",
+        "onboard_time": 1775541802,
+        "rank": 41,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 101657,
+        "num": 101657,
+        "word": "危险关系 房思琪",
+        "onboard_time": 1775543842,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15675,
+        "num": 95866,
+        "word": "越来越多特朗普支持者后悔投票",
+        "onboard_time": 1775548583,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94561,
+        "num": 94561,
+        "word": "重庆一业主40万卖房后被判赔80万",
+        "onboard_time": 1775544262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91887,
+        "num": 91887,
+        "word": "曾沛慈赵丽颖是互关",
+        "onboard_time": 1775548461,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91464,
+        "num": 91464,
+        "word": "这个动作可能让耳朵长脚气",
+        "onboard_time": 1775548522,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89585,
+        "num": 89585,
+        "word": "海河乳品回应有直播间涉低俗",
+        "onboard_time": 1775546961,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89849,
+        "num": 89565,
+        "word": "嫣然医院回应陈光标捐款1000万",
+        "onboard_time": 1775546542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63625,
+        "num": 89507,
+        "word": "魔卡少女樱票选第一",
+        "onboard_time": 1775544801,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民是历史的创造者是真正的英雄#"
+    }
+  }
+}

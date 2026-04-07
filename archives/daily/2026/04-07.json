@@ -1,6 +1,6 @@
 {
   "startTime": 1775491751763,
-  "endTime": 1775547007671,
+  "endTime": 1775548630338,
   "band_list": [
     {
       "raw_hot": 4270695,
@@ -32,6 +32,14 @@
       "word": "曝某牛奶直播间涉黄涉低俗",
       "onboard_time": 1775538323,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1155383,
+      "num": 1184861,
+      "word": "国家继续出手调控油价",
+      "onboard_time": 1775545761,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 791149,
-      "num": 853790,
-      "word": "国家继续出手调控油价",
-      "onboard_time": 1775545761,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 763047,
+      "num": 238905,
+      "word": "瞿颖 肉毒起作用了",
+      "onboard_time": 1775547563,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 717661,
@@ -283,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 351498,
+      "num": 231647,
+      "word": "虞书欣紫色新中式造型",
+      "onboard_time": 1775547021,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345004,
       "num": 345004,
       "word": "潘玮柏女儿5岁近照",
@@ -299,12 +315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331940,
+      "num": 331940,
+      "word": "Faker回应马斯克",
+      "onboard_time": 1775547682,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324018,
       "num": 617301,
       "word": "被特朗普言论震惊了",
       "onboard_time": 1775529080,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 317885,
+      "num": 317885,
+      "word": "马思纯走出抑郁后的状态",
+      "onboard_time": 1775546001,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 307076,
@@ -659,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158406,
-      "num": 158406,
-      "word": "马思纯走出抑郁后的状态",
-      "onboard_time": 1775546001,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158260,
       "num": 449288,
       "word": "父亲问儿子要2000元投资款被拒",
@@ -715,12 +739,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152872,
+      "num": 152872,
+      "word": "关晓彤比例 没有拉腿的义务",
+      "onboard_time": 1775545941,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149933,
       "num": 149933,
       "word": "你愿意为车内的仪式感买单吗",
       "onboard_time": 1775540063,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148886,
+      "num": 148886,
+      "word": "魏大勋青岛进组十日终焉",
+      "onboard_time": 1775548583,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145811,
+      "num": 145811,
+      "word": "虞书欣和Jennie同款发型",
+      "onboard_time": 1775548583,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 145624,
@@ -787,6 +835,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 133199,
+      "num": 133199,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1775548220,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133024,
       "num": 133024,
       "word": "危险关系 房思琪",
@@ -811,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130740,
-      "num": 129192,
-      "word": "关晓彤比例 没有拉腿的义务",
-      "onboard_time": 1775545941,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130661,
       "num": 130661,
       "word": "700多万二手房一夜跳涨50万",
@@ -833,6 +881,14 @@
       "onboard_time": 1775540421,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128860,
+      "num": 128860,
+      "word": "褶皱消失术",
+      "onboard_time": 1775547321,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 127726,
@@ -921,6 +977,22 @@
       "onboard_time": 1775528899,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116105,
+      "num": 116105,
+      "word": "A股100股涨停",
+      "onboard_time": 1775547682,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110870,
+      "num": 110870,
+      "word": "baby的睫毛",
+      "onboard_time": 1775546662,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 110526,
@@ -1108,11 +1180,35 @@
     },
     {
       "raw_hot": 93123,
-      "num": 124281,
+      "num": 124963,
       "word": "魏建军说卖车要带着良心",
       "onboard_time": 1775541802,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91887,
+      "num": 91887,
+      "word": "曾沛慈赵丽颖是互关",
+      "onboard_time": 1775548461,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91464,
+      "num": 91464,
+      "word": "这个动作可能让耳朵长脚气",
+      "onboard_time": 1775548522,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 106272,
+      "word": "6小时都没找到儿子墓碑老人急哭",
+      "onboard_time": 1775547200,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90843,
@@ -1137,6 +1233,22 @@
       "onboard_time": 1775535624,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89849,
+      "num": 89565,
+      "word": "嫣然医院回应陈光标捐款1000万",
+      "onboard_time": 1775546542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89585,
+      "num": 89585,
+      "word": "海河乳品回应有直播间涉低俗",
+      "onboard_time": 1775546961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88776,
@@ -1179,27 +1291,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85496,
-      "num": 85496,
-      "word": "baby的睫毛",
-      "onboard_time": 1775546662,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85213,
       "num": 156608,
       "word": "医院回应胸痛硬扛1小时才知是心梗",
       "onboard_time": 1775531841,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85123,
-      "num": 85123,
-      "word": "嫣然医院回应陈光标捐款1000万",
-      "onboard_time": 1775546542,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1467,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63625,
+      "num": 89507,
+      "word": "魔卡少女樱票选第一",
+      "onboard_time": 1775544801,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 62757,
       "num": 116578,
       "word": "月鳞绮纪角色cp",
@@ -1692,7 +1796,7 @@
     },
     {
       "raw_hot": 40590,
-      "num": 84285,
+      "num": 108426,
       "word": "邓超孙俪鱼腥草真爱粉",
       "onboard_time": 1775546600,
       "rank": 43,
@@ -1763,14 +1867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28215,
-      "num": 84261,
-      "word": "海河乳品回应有直播间涉低俗",
-      "onboard_time": 1775546961,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27410,
       "num": 64876,
       "word": "阿尔忒弥斯2号任务绕月返回轨道解析",
@@ -1811,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22048,
+      "num": 173552,
+      "word": "截瘫女子称男友说会结婚反手拉黑",
+      "onboard_time": 1775548161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21841,
       "num": 33163,
       "word": "伊朗发动第97波打击",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1775497755,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15675,
+      "num": 95866,
+      "word": "越来越多特朗普支持者后悔投票",
+      "onboard_time": 1775548583,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15333,
