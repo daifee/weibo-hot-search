@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/08 01:11:08 ~ 2026/04/08 01:33:56
+本榜单时间：2026/04/08 01:11:08 ~ 2026/04/08 02:34:14
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ Fendi晚宴的唐嫣孟子义（热度：55605）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E8%8D%A3%E5%8F%AA%E7%BB%99%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%86%99%E8%BF%87%E6%AD%8C%23" target="weibo">
+陈少荣只给江语晨写过歌（热度：45985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E8%AD%A6%E5%91%8A%E4%B8%AD%E4%B8%9C%E6%8E%A5%E8%BF%91%E5%A4%B1%E6%8E%A7%E4%B8%B4%E7%95%8C%E7%82%B9%23" target="weibo">
 卡塔尔警告中东接近失控临界点（热度：44401）
 </a>
@@ -315,6 +321,12 @@ Fendi晚宴的唐嫣孟子义（热度：55605）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23" target="weibo">
+伊朗威胁切断美国及其盟友石油供应（热度：30652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%B7%9F%E4%B8%8D%E7%86%9F%E7%9A%84%E4%BA%BA%E4%BA%92%E5%85%B3%23" target="weibo">
 不要跟不熟的人互关（热度：29699）
 </a>
@@ -323,6 +335,18 @@ Fendi晚宴的唐嫣孟子义（热度：55605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%9B%B4%E7%81%AB%E4%BA%86%23" target="weibo">
 外国人来中国旅游更火了（热度：27304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%BA%E8%82%89%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%BC%BA%E8%A1%8C%E9%A1%B6%E5%BC%80%23" target="weibo">
+女子人肉占车位被司机强行顶开（热度：23132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E8%8B%8F%E8%B6%85MV%23" target="weibo">
+周深演唱苏超MV（热度：19229）
 </a>
 </li>
 
@@ -335,6 +359,12 @@ Fendi晚宴的唐嫣孟子义（热度：55605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E8%B4%BA%E5%9B%9B%E6%89%80%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%BB%BA%E6%A0%A1130%E5%91%A8%E5%B9%B4%23%23" target="weibo">
 #习近平祝贺四所交通大学建校130周年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E7%BB%8F%E5%BE%97%E8%B5%B7%E5%AE%9E%E8%B7%B5%E4%BA%BA%E6%B0%91%E5%8E%86%E5%8F%B2%E6%A3%80%E9%AA%8C%E7%9A%84%E5%AE%9E%E7%BB%A9%23%23" target="weibo">
+#努力创造经得起实践人民历史检验的实绩#
 </a>
 </li>
 

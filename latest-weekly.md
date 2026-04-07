@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/08 01:33:56
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/08 02:34:14
 </p>
 </blockquote>
 <p>
@@ -6033,6 +6033,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%91%E8%8D%A3%E5%8F%AA%E7%BB%99%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%86%99%E8%BF%87%E6%AD%8C%23" target="weibo">
+陈少荣只给江语晨写过歌（热度：45985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%B0%88%E6%88%98%E8%83%9C%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82%23" target="weibo">
 王曼昱谈战胜桥本帆乃香技术细节（热度：45466）
 </a>
@@ -6279,6 +6285,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%88%87%E6%96%AD%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%23" target="weibo">
+伊朗威胁切断美国及其盟友石油供应（热度：30652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B%23" target="weibo">
 清明假期叠加春假激发经济新活力（热度：30342）
 </a>
@@ -6429,6 +6441,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%BA%E8%82%89%E5%8D%A0%E8%BD%A6%E4%BD%8D%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%BC%BA%E8%A1%8C%E9%A1%B6%E5%BC%80%23" target="weibo">
+女子人肉占车位被司机强行顶开（热度：23132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%82%A3%E4%BA%9BX%E6%88%98%E8%AD%A6%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E8%80%81%E4%BA%86%23" target="weibo">
 没想到那些X战警已经这么老了（热度：22889）
 </a>
@@ -6527,6 +6545,12 @@ ZARA离快时尚越来越远了（热度：51991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%85%B1%E5%90%8C%E8%BF%BD%E7%9A%84%E6%98%9F%23" target="weibo">
 他们是中国人共同追的星（热度：19366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E8%8B%8F%E8%B6%85MV%23" target="weibo">
+周深演唱苏超MV（热度：19229）
 </a>
 </li>
 
