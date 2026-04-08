@@ -1,0 +1,410 @@
+{
+  "runTime": 1775650229424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 240748,
+        "num": 1038519,
+        "word": "哪吒2票房升至全球第4",
+        "onboard_time": 1775639062,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 759500,
+        "word": "大熊猫家美大崽去世",
+        "onboard_time": 1775641643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6740,
+        "num": 607617,
+        "word": "美国年轻人为何被锁死一生",
+        "onboard_time": 1775650102,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430003,
+        "num": 430003,
+        "word": "阚清子团未脱稿被赵兆狠批",
+        "onboard_time": 1775645781,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323064,
+        "num": 323064,
+        "word": "伊朗拉万炼油厂发生爆炸",
+        "onboard_time": 1775639784,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250949,
+        "num": 250949,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 350433,
+        "num": 246891,
+        "word": "中方回应促使伊朗同意停火",
+        "onboard_time": 1775645721,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228978,
+        "num": 228978,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223963,
+        "num": 223963,
+        "word": "电费刺客找到了",
+        "onboard_time": 1775640861,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187878,
+        "num": 187878,
+        "word": "B站将上线播放页暂停广告",
+        "onboard_time": 1775641101,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 659165,
+        "num": 187814,
+        "word": "物业大撤退",
+        "onboard_time": 1775636601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468291,
+        "num": 187538,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17977,
+        "num": 187112,
+        "word": "春假撞怀清明春日消费火力全开",
+        "onboard_time": 1775632643,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393344,
+        "num": 186690,
+        "word": "12人花30万买月薪2500的高铁工作",
+        "onboard_time": 1775632883,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73627,
+        "num": 186382,
+        "word": "莫氏鸡煲爆火周边摊主1天最多卖800元",
+        "onboard_time": 1775644943,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380519,
+        "num": 186150,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55700,
+        "num": 185774,
+        "word": "男子为杀发小蹲守两月多次模拟",
+        "onboard_time": 1775649023,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84999,
+        "num": 185719,
+        "word": "停火生效后伊朗两处岛屿发生数次爆炸",
+        "onboard_time": 1775649023,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337135,
+        "num": 185330,
+        "word": "麻辣烫里最拉的菜",
+        "onboard_time": 1775640023,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27862,
+        "num": 185084,
+        "word": "饲养员悼念大熊猫家美大崽",
+        "onboard_time": 1775649682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454834,
+        "num": 184547,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287463,
+        "num": 184302,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268632,
+        "num": 184172,
+        "word": "伊朗称已发动100波打击行动",
+        "onboard_time": 1775648301,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244778,
+        "num": 183773,
+        "word": "特朗普称能轻易恢复对伊朗动武",
+        "onboard_time": 1775646082,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233361,
+        "num": 183573,
+        "word": "开心消消乐第一万关的含金量",
+        "onboard_time": 1775642483,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229357,
+        "num": 183303,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203161,
+        "num": 182996,
+        "word": "迪丽热巴花魁造型",
+        "onboard_time": 1775646380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182725,
+        "num": 182725,
+        "word": "悉尼偶遇侯佩岑一家四口",
+        "onboard_time": 1775645961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 175616,
+        "word": "剑来",
+        "onboard_time": 1775649321,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99411,
+        "num": 171639,
+        "word": "男婴出生4天被抢母亲头部中刀",
+        "onboard_time": 1775646201,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169406,
+        "num": 169406,
+        "word": "王濛 组内唯一大vocal",
+        "onboard_time": 1775634263,
+        "rank": 30,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 148029,
+        "num": 148029,
+        "word": "刘宇宁直播",
+        "onboard_time": 1775649141,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132573,
+        "num": 132573,
+        "word": "阿里全员信",
+        "onboard_time": 1775649141,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142424,
+        "num": 128327,
+        "word": "TF四代 进入R1SE的6个2大时代",
+        "onboard_time": 1775648542,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115297,
+        "num": 115297,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105517,
+        "num": 113012,
+        "word": "人民币上有个哭出来的笑脸",
+        "onboard_time": 1775648481,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74310,
+        "num": 112075,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111704,
+        "num": 111704,
+        "word": "任敏拍过鹿晗勋章MV",
+        "onboard_time": 1775647762,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13354,
+        "num": 109546,
+        "word": "留学生刚出国10天被骗40万生活费",
+        "onboard_time": 1775649682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73477,
+        "num": 109350,
+        "word": "莫氏鸡煲少当家被抓回来宰鸡",
+        "onboard_time": 1775646501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 109317,
+        "word": "最适合我们读的书出现了",
+        "onboard_time": 1775649321,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104302,
+        "num": 104302,
+        "word": "T1对战GEN",
+        "onboard_time": 1775646920,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96522,
+        "num": 96522,
+        "word": "钢铁森林 不删戏份不魔改小说",
+        "onboard_time": 1775649742,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92197,
+        "num": 92197,
+        "word": "芒果音乐节阵容",
+        "onboard_time": 1775646920,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87753,
+        "num": 87753,
+        "word": "原来焦虑症是这么来的",
+        "onboard_time": 1775641222,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91479,
+        "num": 87554,
+        "word": "唐艺昕李小冉练歌快疯了",
+        "onboard_time": 1775649801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87171,
+        "num": 87171,
+        "word": "孙怡 幼态脸高妹",
+        "onboard_time": 1775634381,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47350,
+        "num": 86805,
+        "word": "石宇奇再现石一劈",
+        "onboard_time": 1775646920,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86725,
+        "num": 86725,
+        "word": "穆祉丞 代言",
+        "onboard_time": 1775636964,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85953,
+        "num": 85953,
+        "word": "李羲承改活动名",
+        "onboard_time": 1775641523,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}

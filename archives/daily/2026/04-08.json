@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775647900563,
+  "endTime": 1775650229424,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -243,6 +243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468291,
+      "num": 187538,
+      "word": "失业的人可以从大冰这个角度找到机会",
+      "onboard_time": 1775647582,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 454834,
+      "num": 184547,
+      "word": "金子涵说的是谁",
+      "onboard_time": 1775646143,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453721,
       "num": 1067905,
       "word": "779元滴眼液暴涨至3382元",
@@ -257,6 +273,14 @@
       "onboard_time": 1775625923,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430003,
+      "num": 430003,
+      "word": "阚清子团未脱稿被赵兆狠批",
+      "onboard_time": 1775645781,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 426997,
@@ -321,14 +345,6 @@
       "onboard_time": 1775629881,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378609,
-      "num": 378609,
-      "word": "阚清子团未脱稿被赵兆狠批",
-      "onboard_time": 1775645781,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 378323,
@@ -443,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329982,
-      "num": 184092,
-      "word": "金子涵说的是谁",
-      "onboard_time": 1775646143,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325362,
       "num": 285525,
       "word": "美国杀人分尸19岁少年专杀性犯罪者",
@@ -537,6 +545,14 @@
       "onboard_time": 1775620641,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268632,
+      "num": 184172,
+      "word": "伊朗称已发动100波打击行动",
+      "onboard_time": 1775648301,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 268160,
@@ -635,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244778,
+      "num": 192780,
+      "word": "特朗普称能轻易恢复对伊朗动武",
+      "onboard_time": 1775646082,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243066,
       "num": 243066,
       "word": "鹿晗任敏认识十一年了",
@@ -691,6 +715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229357,
+      "num": 183303,
+      "word": "婆媳长期一起生活接连患乳腺癌",
+      "onboard_time": 1775648542,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228978,
+      "num": 228978,
+      "word": "肖战十日终焉三季连拍",
+      "onboard_time": 1775644521,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228662,
       "num": 228662,
       "word": "女子称休完产假公司没了",
@@ -707,14 +747,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 225844,
-      "num": 225844,
-      "word": "肖战十日终焉三季连拍",
-      "onboard_time": 1775644521,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222918,
       "num": 537059,
       "word": "美绕月飞船1.5亿厕所已瘫痪",
@@ -729,6 +761,14 @@
       "onboard_time": 1775626583,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203161,
+      "num": 182996,
+      "word": "迪丽热巴花魁造型",
+      "onboard_time": 1775646380,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 202849,
@@ -755,28 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192780,
-      "num": 192780,
-      "word": "特朗普称能轻易恢复对伊朗动武",
-      "onboard_time": 1775646082,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190924,
       "num": 162295,
       "word": "央行抛售引发金价地震",
       "onboard_time": 1775562200,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 190700,
-      "num": 109885,
-      "word": "失业的人可以从大冰这个角度找到机会",
-      "onboard_time": 1775647582,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 188595,
@@ -817,6 +841,14 @@
       "onboard_time": 1775621122,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182725,
+      "num": 182725,
+      "word": "悉尼偶遇侯佩岑一家四口",
+      "onboard_time": 1775645961,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 182115,
@@ -883,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165037,
-      "num": 165037,
-      "word": "迪丽热巴花魁造型",
-      "onboard_time": 1775646380,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164729,
       "num": 144342,
       "word": "网传一公淘汰张艺上温峥嵘",
@@ -929,14 +953,6 @@
       "onboard_time": 1775613260,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156063,
-      "num": 156063,
-      "word": "悉尼偶遇侯佩岑一家四口",
-      "onboard_time": 1775645961,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 154707,
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148029,
+      "num": 148029,
+      "word": "刘宇宁直播",
+      "onboard_time": 1775649141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147375,
       "num": 147375,
       "word": "泰国女子向19岁女同事泼滚烫热油",
@@ -1008,6 +1032,14 @@
       "word": "田曦薇飞吻",
       "onboard_time": 1775634921,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142424,
+      "num": 128327,
+      "word": "TF四代 进入R1SE的6个2大时代",
+      "onboard_time": 1775648542,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1073,6 +1105,14 @@
       "onboard_time": 1775564360,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132573,
+      "num": 132573,
+      "word": "阿里全员信",
+      "onboard_time": 1775649141,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 132194,
@@ -1235,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118531,
+      "num": 175616,
+      "word": "剑来",
+      "onboard_time": 1775649321,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 117832,
       "num": 117832,
       "word": "神器认主镜头是迪丽热巴想的",
@@ -1259,8 +1307,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115297,
+      "num": 115297,
+      "word": "江语晨 抚养权官司",
+      "onboard_time": 1775649861,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115086,
-      "num": 158329,
+      "num": 186382,
       "word": "莫氏鸡煲爆火周边摊主1天最多卖800元",
       "onboard_time": 1775644943,
       "rank": 24,
@@ -1299,6 +1355,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111704,
+      "num": 111704,
+      "word": "任敏拍过鹿晗勋章MV",
+      "onboard_time": 1775647762,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109317,
+      "num": 109317,
+      "word": "最适合我们读的书出现了",
+      "onboard_time": 1775649321,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109293,
       "num": 109293,
       "word": "五哈后期已经学会用AI做特效了",
@@ -1331,6 +1403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 105517,
+      "num": 113012,
+      "word": "人民币上有个哭出来的笑脸",
+      "onboard_time": 1775648481,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105387,
       "num": 105387,
       "word": "浪姐小考 集体丧失表情管理",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1775640142,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104302,
+      "num": 104302,
+      "word": "T1对战GEN",
+      "onboard_time": 1775646920,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 103828,
@@ -1393,14 +1481,6 @@
       "onboard_time": 1775646322,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100586,
-      "num": 100586,
-      "word": "T1对战GEN",
-      "onboard_time": 1775646920,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 100533,
@@ -1467,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96522,
+      "num": 96522,
+      "word": "钢铁森林 不删戏份不魔改小说",
+      "onboard_time": 1775649742,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95918,
       "num": 95918,
       "word": "美媒称伊朗阿曼将收霍尔木兹通行费",
@@ -1500,7 +1588,7 @@
     },
     {
       "raw_hot": 94042,
-      "num": 94042,
+      "num": 109350,
       "word": "莫氏鸡煲少当家被抓回来宰鸡",
       "onboard_time": 1775646501,
       "rank": 35,
@@ -1579,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91479,
+      "num": 87554,
+      "word": "唐艺昕李小冉练歌快疯了",
+      "onboard_time": 1775649801,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89973,
       "num": 89973,
       "word": "冰湖重生 楚乔传",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1775634563,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84999,
+      "num": 185719,
+      "word": "停火生效后伊朗两处岛屿发生数次爆炸",
+      "onboard_time": 1775649023,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84519,
@@ -1883,12 +1987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73340,
-      "num": 73340,
-      "word": "任敏拍过鹿晗勋章MV",
-      "onboard_time": 1775647762,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 74310,
+      "num": 112075,
+      "word": "晒娃被网友催赶紧去医院宝妈发声",
+      "onboard_time": 1775650102,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72098,
@@ -2067,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55700,
+      "num": 185774,
+      "word": "男子为杀发小蹲守两月多次模拟",
+      "onboard_time": 1775649023,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55605,
       "num": 55605,
       "word": "Fendi晚宴的唐嫣孟子义",
@@ -2137,6 +2249,14 @@
       "onboard_time": 1775548761,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47350,
+      "num": 184797,
+      "word": "石宇奇再现石一劈",
+      "onboard_time": 1775646920,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 46848,
@@ -2331,20 +2451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27862,
+      "num": 185084,
+      "word": "饲养员悼念大熊猫家美大崽",
+      "onboard_time": 1775649682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26623,
       "num": 665420,
       "word": "春假撞怀清明春日消费火力全开",
       "onboard_time": 1775632643,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26022,
-      "num": 184797,
-      "word": "石宇奇再现石一劈",
-      "onboard_time": 1775646920,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 20746,
@@ -2379,12 +2499,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 13354,
+      "num": 109546,
+      "word": "留学生刚出国10天被骗40万生活费",
+      "onboard_time": 1775649682,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10313,
       "num": 192937,
       "word": "王楚钦忆亚锦赛决不能输张本智和",
       "onboard_time": 1775638942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6740,
+      "num": 607617,
+      "word": "美国年轻人为何被锁死一生",
+      "onboard_time": 1775650102,
+      "rank": 2,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
