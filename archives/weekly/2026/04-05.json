@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775635206005,
+  "endTime": 1775639591058,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -169,6 +169,14 @@
       "onboard_time": 1775397685,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1358856,
+      "num": 625549,
+      "word": "物业大撤退",
+      "onboard_time": 1775636601,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1329606,
@@ -649,6 +657,14 @@
       "onboard_time": 1775564481,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 620761,
+      "num": 620761,
+      "word": "住酒店不带毛巾的人天塌了",
+      "onboard_time": 1775633602,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 595823,
@@ -1299,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390468,
-      "num": 390468,
-      "word": "住酒店不带毛巾的人天塌了",
-      "onboard_time": 1775633602,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 389341,
       "num": 303154,
       "word": "洗衣液是需要反应时间的",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1775604079,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371388,
+      "num": 203052,
+      "word": "金虔佑暂停活动",
+      "onboard_time": 1775638462,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 368287,
@@ -1635,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340054,
+      "num": 340054,
+      "word": "杀害发小男子称认罪但不后悔",
+      "onboard_time": 1775634624,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339756,
       "num": 339756,
       "word": "伊朗无人机大规模打击本古里安机场",
@@ -1723,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325362,
+      "num": 186238,
+      "word": "美国杀人分尸19岁少年专杀性犯罪者",
+      "onboard_time": 1775635043,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 324018,
       "num": 617301,
       "word": "被特朗普言论震惊了",
@@ -1779,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316334,
+      "num": 316334,
+      "word": "王濛 组内唯一大vocal",
+      "onboard_time": 1775634263,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316293,
       "num": 171646,
       "word": "好仙的刘诗诗",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1775466142,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310201,
+      "num": 205064,
+      "word": "假名媛弄坏真千金68000元的紫貂皮草",
+      "onboard_time": 1775636601,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308487,
@@ -2032,6 +2080,14 @@
       "word": "李副官扮演者15年前因癌症离世",
       "onboard_time": 1775444781,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281227,
+      "num": 199682,
+      "word": "孙怡 幼态脸高妹",
+      "onboard_time": 1775634381,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2675,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217464,
+      "num": 217464,
+      "word": "婚前房产婚后加名离婚时能对半分吗",
+      "onboard_time": 1775636002,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217289,
       "num": 217289,
       "word": "王楚钦11比7雨果",
@@ -2785,14 +2849,6 @@
       "onboard_time": 1775468183,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209554,
-      "num": 147674,
-      "word": "孙怡 幼态脸高妹",
-      "onboard_time": 1775634381,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 209399,
@@ -2993,6 +3049,14 @@
       "onboard_time": 1775482462,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197591,
+      "num": 197591,
+      "word": "低血糖假性饥饿",
+      "onboard_time": 1775634143,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197322,
@@ -3347,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178609,
+      "num": 178609,
+      "word": "哪吒2票房升至全球第4",
+      "onboard_time": 1775639062,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178180,
       "num": 112272,
       "word": "日本整形医生趁麻醉性侵21名女性",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1775366481,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177069,
-      "num": 146416,
-      "word": "王濛 组内唯一大vocal",
-      "onboard_time": 1775634263,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 177005,
@@ -3433,6 +3497,14 @@
       "onboard_time": 1775541022,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174880,
+      "num": 174880,
+      "word": "以军宣布暂停打击伊朗",
+      "onboard_time": 1775635881,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174641,
@@ -3851,6 +3923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154707,
+      "num": 154707,
+      "word": "穆祉丞 代言",
+      "onboard_time": 1775636964,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154041,
       "num": 154041,
       "word": "papi酱 pa女郎",
@@ -4041,6 +4121,14 @@
       "onboard_time": 1775531241,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145193,
+      "num": 145193,
+      "word": "田曦薇飞吻",
+      "onboard_time": 1775634921,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 144836,
@@ -4651,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126316,
+      "num": 126316,
+      "word": "特朗普提出停火或是脱身之计",
+      "onboard_time": 1775632821,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126289,
       "num": 126289,
       "word": "无人继承的巨额遗产或在拖垮日本",
@@ -4681,14 +4777,6 @@
       "onboard_time": 1775371220,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125578,
-      "num": 125578,
-      "word": "特朗普提出停火或是脱身之计",
-      "onboard_time": 1775632821,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125405,
@@ -4729,14 +4817,6 @@
       "onboard_time": 1775450241,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 123940,
-      "num": 123940,
-      "word": "杀害发小男子称认罪但不后悔",
-      "onboard_time": 1775634624,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123687,
@@ -4857,6 +4937,22 @@
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121515,
+      "num": 121515,
+      "word": "小米官宣6款充电宝新品",
+      "onboard_time": 1775638642,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 121330,
+      "num": 121330,
+      "word": "中方回应伊朗拒绝解封霍尔木兹海峡",
+      "onboard_time": 1775635582,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121267,
@@ -5043,14 +5139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116427,
-      "num": 116427,
-      "word": "低血糖假性饥饿",
-      "onboard_time": 1775634143,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116423,
       "num": 116423,
       "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
@@ -5123,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "十日终焉动了",
+      "onboard_time": 1775638164,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114303,
       "num": 114303,
       "word": "晴天曝Kanavi耍大牌",
@@ -5137,6 +5233,14 @@
       "onboard_time": 1775552720,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113035,
+      "num": 215895,
+      "word": "国资委成立境外国资工作局",
+      "onboard_time": 1775638702,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112806,
@@ -5233,14 +5337,6 @@
       "onboard_time": 1775450901,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110709,
-      "num": 110709,
-      "word": "田曦薇飞吻",
-      "onboard_time": 1775634921,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 110526,
@@ -5835,14 +5931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98893,
-      "num": 98893,
-      "word": "美国杀人分尸19岁少年专杀性犯罪者",
-      "onboard_time": 1775635043,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98695,
       "num": 98695,
       "word": "巴拿马发生巨大爆炸",
@@ -5865,6 +5953,14 @@
       "onboard_time": 1775351480,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98379,
+      "num": 80128,
+      "word": "北冰洋NFC葡萄汁含量十万分之五",
+      "onboard_time": 1775637922,
+      "rank": 48,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 98365,
@@ -6075,6 +6171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94310,
+      "num": 94310,
+      "word": "最离谱的上班缺卡理由",
+      "onboard_time": 1775638223,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94289,
       "num": 87084,
       "word": "田嘉瑞月鳞绮纪",
@@ -6249,6 +6353,14 @@
       "onboard_time": 1775360539,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91688,
+      "num": 91688,
+      "word": "美媒称伊朗阿曼将收霍尔木兹通行费",
+      "onboard_time": 1775637381,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91619,
@@ -6531,6 +6643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88338,
+      "num": 88338,
+      "word": "河北省考成绩",
+      "onboard_time": 1775638822,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88201,
       "num": 88201,
       "word": "国际油价盘中暴跌近20%",
@@ -6777,6 +6897,14 @@
       "onboard_time": 1775539642,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84519,
+      "num": 84519,
+      "word": "救护车截单延误抢救致病人死亡",
+      "onboard_time": 1775637322,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84440,
@@ -7035,6 +7163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81585,
+      "num": 81585,
+      "word": "被不锈钢餐具背刺了",
+      "onboard_time": 1775639480,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81487,
       "num": 81487,
       "word": "男子逆行堵死单行道后潇洒吃饭",
@@ -7153,6 +7289,14 @@
       "onboard_time": 1775481441,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80407,
+      "num": 80407,
+      "word": "咪很不高兴为您服务",
+      "onboard_time": 1775637742,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 80271,
@@ -7321,6 +7465,14 @@
       "onboard_time": 1775366601,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78142,
+      "num": 78142,
+      "word": "A股放量8201亿",
+      "onboard_time": 1775637563,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 78128,
@@ -9019,6 +9171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54388,
+      "num": 195109,
+      "word": "拼多多为何西藏买垃圾袋也能包邮",
+      "onboard_time": 1775639002,
+      "rank": 17,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 54180,
       "num": 142819,
       "word": "猪价跌至7年新低",
@@ -9491,6 +9651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39299,
+      "num": 93179,
+      "word": "便利店4.9元价签9小到看不见",
+      "onboard_time": 1775638822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38720,
       "num": 38720,
       "word": "孟子义何与百花杀周年合照",
@@ -9683,6 +9851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30414,
+      "num": 188509,
+      "word": "羊汤店后厨惊现老鼠上桌啃肉",
+      "onboard_time": 1775638521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30342,
       "num": 557643,
       "word": "清明假期叠加春假激发经济新活力",
@@ -9795,20 +9971,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 26623,
+      "num": 665420,
+      "word": "春假撞怀清明春日消费火力全开",
+      "onboard_time": 1775632643,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26230,
       "num": 98405,
       "word": "缅怀先烈祭奠忠魂",
       "onboard_time": 1775358619,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26191,
-      "num": 665420,
-      "word": "春假撞怀清明春日消费火力全开",
-      "onboard_time": 1775632643,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25916,
@@ -10193,6 +10369,14 @@
       "onboard_time": 1775470100,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10313,
+      "num": 192937,
+      "word": "王楚钦忆亚锦赛决不能输张本智和",
+      "onboard_time": 1775638942,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 8916,
