@@ -1,7 +1,15 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775619616624,
+  "endTime": 1775625670939,
   "band_list": [
+    {
+      "raw_hot": 9077666,
+      "num": 10327666,
+      "word": "全红婵已报警",
+      "onboard_time": 1775624123,
+      "rank": 0,
+      "category": "民生新闻,体育"
+    },
     {
       "raw_hot": 2961322,
       "num": 681188,
@@ -17,6 +25,14 @@
       "onboard_time": 1775603119,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2264804,
+      "num": 280427,
+      "word": "金子涵 再逼我就把所有的都说出来",
+      "onboard_time": 1775621001,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1454340,
@@ -49,6 +65,14 @@
       "onboard_time": 1775618422,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 654428,
+      "num": 278796,
+      "word": "女子孕期得知丈夫出轨20余人",
+      "onboard_time": 1775622323,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 626293,
@@ -99,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484275,
+      "num": 1748394,
+      "word": "浪姐一公小考",
+      "onboard_time": 1775621062,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481466,
       "num": 1318979,
       "word": "乘风2026一公小考倒数第一",
@@ -107,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453721,
+      "num": 453721,
+      "word": "779元滴眼液暴涨至3382元",
+      "onboard_time": 1775621242,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426997,
       "num": 378634,
       "word": "伊朗称若局势失控曼德海峡也将关闭",
       "onboard_time": 1775573783,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 403595,
+      "num": 403595,
+      "word": "粉色蓝莓",
+      "onboard_time": 1775620461,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 402190,
@@ -153,6 +201,14 @@
       "onboard_time": 1775614999,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 363152,
+      "num": 363152,
+      "word": "吴镇宇 王格格你是来炫耀的吗",
+      "onboard_time": 1775619859,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 362945,
@@ -203,6 +259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286687,
+      "num": 286687,
+      "word": "午睡悲伤综合征",
+      "onboard_time": 1775619021,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 269139,
+      "num": 269139,
+      "word": "王艳19岁儿子时尚感",
+      "onboard_time": 1775620641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268160,
       "num": 111399,
       "word": "网传浪姐一公小考结果",
@@ -217,6 +289,14 @@
       "onboard_time": 1775605701,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264826,
+      "num": 285676,
+      "word": "唐艺昕说小考前有人想跑路了",
+      "onboard_time": 1775623882,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 261237,
@@ -267,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236565,
+      "num": 236565,
+      "word": "讨好型人格小时候",
+      "onboard_time": 1775620881,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 235040,
+      "num": 235040,
+      "word": "认母期认成狗了",
+      "onboard_time": 1775621062,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234782,
       "num": 117956,
       "word": "伊朗关闭与美国所有外交渠道",
@@ -296,6 +392,14 @@
       "word": "美绕月飞船1.5亿厕所已瘫痪",
       "onboard_time": 1775576661,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 209187,
+      "num": 150923,
+      "word": "以色列电视台倒计时轰炸等来停火",
+      "onboard_time": 1775624722,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -345,6 +449,22 @@
       "onboard_time": 1775605400,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184923,
+      "num": 236858,
+      "word": "日本网红在印度被泼粪水致高烧入院",
+      "onboard_time": 1775621122,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175283,
+      "num": 281109,
+      "word": "余承东猛批团队设计不高级",
+      "onboard_time": 1775624483,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 170305,
@@ -411,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154041,
+      "num": 154041,
+      "word": "papi酱 pa女郎",
+      "onboard_time": 1775620521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153248,
       "num": 153248,
       "word": "吴慷仁演技",
@@ -425,6 +553,22 @@
       "onboard_time": 1775591894,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 152126,
+      "num": 152126,
+      "word": "徐轸轸发长文控诉前经纪人",
+      "onboard_time": 1775623522,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150341,
+      "num": 150341,
+      "word": "女子回应孕期得知丈夫出轨20余人",
+      "onboard_time": 1775622562,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147375,
@@ -459,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138364,
+      "num": 138364,
+      "word": "冰湖重生直播",
+      "onboard_time": 1775621904,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135215,
       "num": 124858,
       "word": "陈少荣只给江语晨写过歌",
@@ -473,14 +625,6 @@
       "onboard_time": 1775564360,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130660,
-      "num": 105269,
-      "word": "午睡悲伤综合征",
-      "onboard_time": 1775619021,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 129372,
@@ -499,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127096,
+      "num": 127096,
+      "word": "什么是假性暗恋",
+      "onboard_time": 1775619980,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "王楚钦称跟樊振东打出了自己的问题",
@@ -507,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123687,
+      "num": 167821,
+      "word": "压塌20年樱花树女子认错愿赔偿",
+      "onboard_time": 1775621122,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121652,
       "num": 105903,
       "word": "虞书欣跳了进行曲",
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120088,
+      "num": 120088,
+      "word": "咏春小考",
+      "onboard_time": 1775625324,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 119824,
@@ -531,12 +699,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118758,
+      "num": 118758,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775622682,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117832,
+      "num": 117832,
+      "word": "神器认主镜头是迪丽热巴想的",
+      "onboard_time": 1775624602,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116423,
       "num": 116423,
       "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
       "onboard_time": 1775614579,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "日本疯狂售卖军火",
+      "onboard_time": 1775623822,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112273,
@@ -587,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101429,
+      "num": 151034,
+      "word": "同事敲窗致女子心律失常被判赔偿",
+      "onboard_time": 1775624783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100533,
       "num": 100533,
       "word": "高盛预计金价有望冲击6100美元",
@@ -611,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98657,
+      "num": 98657,
+      "word": "浪姐小考 完全小品",
+      "onboard_time": 1775625564,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98116,
       "num": 98116,
       "word": "粉丝不知道自己抱的就是陈丽君",
@@ -625,6 +833,38 @@
       "onboard_time": 1775605942,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93856,
+      "num": 93856,
+      "word": "抗炎食物的黄金组合",
+      "onboard_time": 1775623283,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93444,
+      "num": 93444,
+      "word": "以色列公布巴勒斯坦人质处境视频",
+      "onboard_time": 1775624063,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 92032,
+      "word": "空调一直开和反复开关哪个更费电",
+      "onboard_time": 1775625263,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 92697,
+      "num": 92697,
+      "word": "恋与深空 没有5200积分",
+      "onboard_time": 1775622323,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 88628,
@@ -739,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77238,
+      "num": 91362,
+      "word": "江西省考成绩",
+      "onboard_time": 1775622263,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77115,
       "num": 77115,
       "word": "过度提醒就是提前指责",
@@ -819,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68448,
+      "num": 166999,
+      "word": "新科技旗舰小鹏GX来了",
+      "onboard_time": 1775619621,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67564,
       "num": 98449,
       "word": "曝某牛奶直播间涉黄涉低俗",
@@ -867,6 +1123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 63860,
+      "num": 273745,
+      "word": "男子写代码截胡医院号源获利57万",
+      "onboard_time": 1775624423,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 63834,
       "num": 63834,
       "word": "涉霍尔木兹海峡决议在安理会遭否决",
@@ -897,6 +1161,14 @@
       "onboard_time": 1775605760,
       "rank": 47,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 58670,
+      "num": 166889,
+      "word": "谁懂我的五一不想将就住",
+      "onboard_time": 1775621062,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 58407,
@@ -979,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44476,
+      "num": 118268,
+      "word": "因二胎儿子随妻姓丈夫起诉离婚",
+      "onboard_time": 1775624783,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43891,
       "num": 737917,
       "word": "外国人来中国旅游更火了",
@@ -1020,7 +1300,7 @@
     },
     {
       "raw_hot": 39640,
-      "num": 683998,
+      "num": 1395179,
       "word": "从超3亿元退费看民生保障力度",
       "onboard_time": 1775616501,
       "rank": 2,
@@ -1089,6 +1369,14 @@
       "onboard_time": 1775563641,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30868,
+      "num": 236655,
+      "word": "拒绝猥亵被杀害藏尸家属发声",
+      "onboard_time": 1775624722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29699,

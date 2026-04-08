@@ -1,7 +1,15 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775619616624,
+  "endTime": 1775625670939,
   "band_list": [
+    {
+      "raw_hot": 9077666,
+      "num": 10327666,
+      "word": "全红婵已报警",
+      "onboard_time": 1775624123,
+      "rank": 0,
+      "category": "民生新闻,体育"
+    },
     {
       "raw_hot": 7199686,
       "num": 8449686,
@@ -64,6 +72,14 @@
       "word": "黄晓明就带娃骑行道歉",
       "onboard_time": 1775384122,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2264804,
+      "num": 280427,
+      "word": "金子涵 再逼我就把所有的都说出来",
+      "onboard_time": 1775621001,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654428,
+      "num": 278796,
+      "word": "女子孕期得知丈夫出轨20余人",
+      "onboard_time": 1775622323,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641205,
       "num": 221342,
       "word": "向太自曝曾多次拆散向佐恋情",
@@ -875,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484275,
+      "num": 1748394,
+      "word": "浪姐一公小考",
+      "onboard_time": 1775621062,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481466,
       "num": 1318979,
       "word": "乘风2026一公小考倒数第一",
@@ -928,6 +960,14 @@
       "word": "陈丽华是唐僧扮演者迟重瑞的妻子",
       "onboard_time": 1775532562,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453721,
+      "num": 453721,
+      "word": "779元滴眼液暴涨至3382元",
+      "onboard_time": 1775621242,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1105,6 +1145,14 @@
       "onboard_time": 1775442681,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403595,
+      "num": 403595,
+      "word": "粉色蓝莓",
+      "onboard_time": 1775620461,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 402190,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1775441301,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363152,
+      "num": 363152,
+      "word": "吴镇宇 王格格你是来炫耀的吗",
+      "onboard_time": 1775619859,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 363006,
@@ -1803,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286687,
+      "num": 286687,
+      "word": "午睡悲伤综合征",
+      "onboard_time": 1775619021,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284172,
       "num": 217592,
       "word": "特朗普夫人称开战是为了伊朗儿童",
@@ -1963,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269139,
+      "num": 269139,
+      "word": "王艳19岁儿子时尚感",
+      "onboard_time": 1775620641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267913,
       "num": 254497,
       "word": "谢娜看到李小冉票数后哭了",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1775476582,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264826,
+      "num": 285676,
+      "word": "唐艺昕说小考前有人想跑路了",
+      "onboard_time": 1775623882,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 262791,
@@ -2203,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236565,
+      "num": 236565,
+      "word": "讨好型人格小时候",
+      "onboard_time": 1775620881,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236363,
       "num": 165501,
       "word": "网友爸爸曾在昆明石林偶遇张国荣",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1775453062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235040,
+      "num": 235040,
+      "word": "认母期认成狗了",
+      "onboard_time": 1775621062,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 235021,
@@ -2553,6 +2649,14 @@
       "onboard_time": 1775384900,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209187,
+      "num": 150923,
+      "word": "以色列电视台倒计时轰炸等来停火",
+      "onboard_time": 1775624722,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209129,
@@ -2987,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184923,
+      "num": 236858,
+      "word": "日本网红在印度被泼粪水致高烧入院",
+      "onboard_time": 1775621122,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184642,
       "num": 135217,
       "word": "泰国知名高校情侣双亡墙上血书遗言",
@@ -3137,6 +3249,14 @@
       "onboard_time": 1775439622,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175283,
+      "num": 281109,
+      "word": "余承东猛批团队设计不高级",
+      "onboard_time": 1775624483,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 175072,
@@ -3547,6 +3667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154041,
+      "num": 154041,
+      "word": "papi酱 pa女郎",
+      "onboard_time": 1775620521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153883,
       "num": 153883,
       "word": "张雪说logo是淘宝600块做的",
@@ -3603,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152126,
+      "num": 152126,
+      "word": "徐轸轸发长文控诉前经纪人",
+      "onboard_time": 1775623522,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152067,
       "num": 131715,
       "word": "莫氏鸡煲周边商户发声",
@@ -3641,6 +3777,14 @@
       "onboard_time": 1775312544,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150341,
+      "num": 150341,
+      "word": "女子回应孕期得知丈夫出轨20余人",
+      "onboard_time": 1775622562,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150146,
@@ -3905,6 +4049,14 @@
       "onboard_time": 1775373442,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138364,
+      "num": 138364,
+      "word": "冰湖重生直播",
+      "onboard_time": 1775621904,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 137942,
@@ -4179,14 +4331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130660,
-      "num": 105269,
-      "word": "午睡悲伤综合征",
-      "onboard_time": 1775619021,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130583,
       "num": 130583,
       "word": "白玉兰方否认网传名单",
@@ -4275,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127096,
+      "num": 127096,
+      "word": "什么是假性暗恋",
+      "onboard_time": 1775619980,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126792,
       "num": 126792,
       "word": "迪丽热巴陈飞宇白日提灯热度涨幅",
@@ -4345,6 +4497,14 @@
       "onboard_time": 1775450241,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123687,
+      "num": 167821,
+      "word": "压塌20年樱花树女子认错愿赔偿",
+      "onboard_time": 1775621122,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123495,
@@ -4531,6 +4691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120088,
+      "num": 120088,
+      "word": "咏春小考",
+      "onboard_time": 1775625324,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119188,
       "num": 119188,
       "word": "小俞状态",
@@ -4601,6 +4769,14 @@
       "onboard_time": 1775391203,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117832,
+      "num": 117832,
+      "word": "神器认主镜头是迪丽热巴想的",
+      "onboard_time": 1775624602,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 117094,
@@ -4745,6 +4921,14 @@
       "onboard_time": 1775560701,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "日本疯狂售卖军火",
+      "onboard_time": 1775623822,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112010,
@@ -5251,6 +5435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 101429,
+      "num": 151034,
+      "word": "同事敲窗致女子心律失常被判赔偿",
+      "onboard_time": 1775624783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "卡塔尔警告中东接近失控临界点",
@@ -5369,6 +5561,14 @@
       "onboard_time": 1775532503,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98657,
+      "num": 98657,
+      "word": "浪姐小考 完全小品",
+      "onboard_time": 1775625564,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 98616,
@@ -5635,6 +5835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93856,
+      "num": 93856,
+      "word": "抗炎食物的黄金组合",
+      "onboard_time": 1775623283,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93825,
       "num": 79264,
       "word": "黄金强势涨破4700美元",
@@ -5659,12 +5867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93444,
+      "num": 93444,
+      "word": "以色列公布巴勒斯坦人质处境视频",
+      "onboard_time": 1775624063,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93385,
       "num": 86019,
       "word": "咪其实是一只虎",
       "onboard_time": 1775389223,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 92032,
+      "word": "空调一直开和反复开关哪个更费电",
+      "onboard_time": 1775625263,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 93318,
@@ -5689,6 +5913,14 @@
       "onboard_time": 1775541802,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92697,
+      "num": 92697,
+      "word": "恋与深空 没有5200积分",
+      "onboard_time": 1775622323,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 92436,
@@ -6835,6 +7067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77238,
+      "num": 91362,
+      "word": "江西省考成绩",
+      "onboard_time": 1775622263,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77160,
       "num": 83656,
       "word": "压倒樱花树女子认错愿赔偿",
@@ -7491,6 +7731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68448,
+      "num": 166999,
+      "word": "新科技旗舰小鹏GX来了",
+      "onboard_time": 1775619621,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68402,
       "num": 68402,
       "word": "泰国征兵这几天太热闹了",
@@ -7777,6 +8025,14 @@
       "onboard_time": 1775385500,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63860,
+      "num": 273745,
+      "word": "男子写代码截胡医院号源获利57万",
+      "onboard_time": 1775624423,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 63834,
@@ -8129,6 +8385,14 @@
       "onboard_time": 1775311945,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58670,
+      "num": 166889,
+      "word": "谁懂我的五一不想将就住",
+      "onboard_time": 1775621062,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 58573,
@@ -8691,6 +8955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44476,
+      "num": 118268,
+      "word": "因二胎儿子随妻姓丈夫起诉离婚",
+      "onboard_time": 1775624783,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44206,
       "num": 62984,
       "word": "伊朗称美军营救飞行员任务失败",
@@ -8820,7 +9092,7 @@
     },
     {
       "raw_hot": 39640,
-      "num": 683998,
+      "num": 1395179,
       "word": "从超3亿元退费看民生保障力度",
       "onboard_time": 1775616501,
       "rank": 2,
@@ -8999,6 +9271,14 @@
       "num": 120700,
       "word": "为弟追凶24年案即将二审",
       "onboard_time": 1775554161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30868,
+      "num": 236655,
+      "word": "拒绝猥亵被杀害藏尸家属发声",
+      "onboard_time": 1775624722,
       "rank": 19,
       "category": "民生新闻"
     },

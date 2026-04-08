@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/08 11:40:16
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/08 13:21:10
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%91%A2%20%E5%8F%88%E8%83%BD%E6%80%8E%23" target="weibo">
 如何呢 又能怎（热度：9171745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
+全红婵已报警（热度：9077666）
 </a>
 </li>
 
@@ -1329,6 +1335,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%20%E5%86%8D%E9%80%BC%E6%88%91%E5%B0%B1%E6%8A%8A%E6%89%80%E6%9C%89%E7%9A%84%E9%83%BD%E8%AF%B4%E5%87%BA%E6%9D%A5%23" target="weibo">
+金子涵 再逼我就把所有的都说出来（热度：2264804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
 交警否认网传金晨驾车监控信息（热度：2232636）
 </a>
@@ -1799,18 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E5%B0%98%E7%99%BD%E7%A6%81%E5%8C%BA%23" target="weibo">
 中国邮政 尘白禁区（热度：1873376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%23" target="weibo">
-黄金跳水（热度：1873095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%AC%E5%A5%A5%E9%93%B6%E7%89%8C%23" target="weibo">
-谷爱凌冬奥银牌（热度：1872190）
 </a>
 </li>
 
