@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775625670939,
+  "endTime": 1775628375043,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -851,6 +851,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 507913,
+      "num": 507913,
+      "word": "以色列电视台倒计时轰炸等来停火",
+      "onboard_time": 1775624722,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 501899,
       "num": 192008,
       "word": "文淇称妇科检查时医生对其有敌意",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 453721,
-      "num": 453721,
+      "num": 1067905,
       "word": "779元滴眼液暴涨至3382元",
       "onboard_time": 1775621242,
       "rank": 3,
@@ -993,6 +1001,14 @@
       "onboard_time": 1775364141,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440988,
+      "num": 440988,
+      "word": "女方猝死遗产继承权亲儿子仅占八分之一",
+      "onboard_time": 1775625923,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438504,
@@ -1147,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404492,
+      "num": 404492,
+      "word": "江语晨小考突然离场",
+      "onboard_time": 1775625683,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403595,
       "num": 403595,
       "word": "粉色蓝莓",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1775607382,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 401917,
+      "num": 797605,
+      "word": "浪姐小考 完全小品",
+      "onboard_time": 1775625564,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 401891,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1775483481,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362927,
+      "num": 362927,
+      "word": "大艺术家 不敢听",
+      "onboard_time": 1775626164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 361024,
@@ -1851,6 +1891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 289675,
+      "num": 237646,
+      "word": "刘思维当爸爸了",
+      "onboard_time": 1775627602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287742,
       "num": 287742,
       "word": "王曼昱世界杯进决赛",
@@ -2163,12 +2211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256873,
+      "num": 281109,
+      "word": "余承东猛批团队设计不高级",
+      "onboard_time": 1775624483,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 256725,
       "num": 203219,
       "word": "伊朗的棋越下越大",
       "onboard_time": 1775487322,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256634,
+      "num": 168649,
+      "word": "冰湖重生开局0广",
+      "onboard_time": 1775627062,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 255584,
@@ -2297,6 +2361,14 @@
       "onboard_time": 1775357840,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236222,
+      "num": 236222,
+      "word": "赵今麦超短发大片",
+      "onboard_time": 1775626643,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235911,
@@ -2651,14 +2723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209187,
-      "num": 150923,
-      "word": "以色列电视台倒计时轰炸等来停火",
-      "onboard_time": 1775624722,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 209129,
       "num": 437123,
       "word": "王楚钦澳门世界杯首冠",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1775386582,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203664,
+      "num": 149992,
+      "word": "曾沛慈一半一半转音",
+      "onboard_time": 1775626583,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203624,
@@ -3139,6 +3211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182115,
+      "num": 143610,
+      "word": "阚清子小考哭了",
+      "onboard_time": 1775626883,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181981,
       "num": 181981,
       "word": "载2万斤橙子货车翻滚坠崖",
@@ -3249,14 +3329,6 @@
       "onboard_time": 1775439622,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175283,
-      "num": 281109,
-      "word": "余承东猛批团队设计不高级",
-      "onboard_time": 1775624483,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 175072,
@@ -3521,6 +3593,14 @@
       "onboard_time": 1775438902,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161991,
+      "num": 142622,
+      "word": "雨爱小考第一",
+      "onboard_time": 1775627902,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 161754,
@@ -4273,6 +4353,14 @@
       "onboard_time": 1775361019,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132090,
+      "num": 132090,
+      "word": "因二胎儿子随妻姓丈夫起诉离婚",
+      "onboard_time": 1775624783,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131912,
@@ -5315,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103828,
+      "num": 103828,
+      "word": "A股港股飙涨原因",
+      "onboard_time": 1775627362,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103789,
       "num": 157472,
       "word": "美以空袭伊朗谢里夫理工大学",
@@ -5436,7 +5532,7 @@
     },
     {
       "raw_hot": 101429,
-      "num": 151034,
+      "num": 154632,
       "word": "同事敲窗致女子心律失常被判赔偿",
       "onboard_time": 1775624783,
       "rank": 29,
@@ -5563,14 +5659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 98657,
-      "num": 98657,
-      "word": "浪姐小考 完全小品",
-      "onboard_time": 1775625564,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98616,
       "num": 98616,
       "word": "迟重瑞陈丽华已结婚36年",
@@ -5657,6 +5745,14 @@
       "onboard_time": 1775457200,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97278,
+      "num": 144029,
+      "word": "全球股市集体爆发",
+      "onboard_time": 1775626164,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 96855,
@@ -5929,6 +6025,14 @@
       "onboard_time": 1775560761,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91924,
+      "num": 91924,
+      "word": "从2019聊到2026还没下单的客户",
+      "onboard_time": 1775627602,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 91837,
@@ -6803,6 +6907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80440,
+      "num": 80440,
+      "word": "擦窗机器人卖爆了",
+      "onboard_time": 1775626223,
+      "rank": 47,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 80414,
       "num": 80414,
       "word": "多位艺人工作室发布短剧侵权声明",
@@ -6833,6 +6945,22 @@
       "onboard_time": 1775540602,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80151,
+      "num": 80151,
+      "word": "亚锦赛李诗沣首轮出局",
+      "onboard_time": 1775628262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79935,
+      "num": 79935,
+      "word": "猫不舒服的时候会自己找草药吃",
+      "onboard_time": 1775628322,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79865,
@@ -8627,6 +8755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54612,
+      "num": 97291,
+      "word": "超燃青春的合唱我要验人",
+      "onboard_time": 1775621302,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54180,
       "num": 142819,
       "word": "猪价跌至7年新低",
@@ -8955,14 +9091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 44476,
-      "num": 118268,
-      "word": "因二胎儿子随妻姓丈夫起诉离婚",
-      "onboard_time": 1775624783,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44206,
       "num": 62984,
       "word": "伊朗称美军营救飞行员任务失败",
@@ -9139,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37139,
+      "num": 150489,
+      "word": "海南高温已影响荔枝香蕉生长",
+      "onboard_time": 1775627122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36823,
       "num": 611973,
       "word": "清明假期预计跨区域流动8.4亿人次",
@@ -9313,6 +9449,14 @@
       "onboard_time": 1775315365,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29010,
+      "num": 96278,
+      "word": "婴儿脑损伤家属往返两地常年奔波",
+      "onboard_time": 1775628023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28458,

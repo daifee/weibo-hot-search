@@ -1,0 +1,410 @@
+{
+  "runTime": 1775628375043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 424412,
+        "num": 1067905,
+        "word": "779元滴眼液暴涨至3382元",
+        "onboard_time": 1775621242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401917,
+        "num": 797605,
+        "word": "浪姐小考 完全小品",
+        "onboard_time": 1775625564,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29027,
+        "num": 634692,
+        "word": "从超3亿元退费看民生保障力度",
+        "onboard_time": 1775616501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 507913,
+        "num": 507913,
+        "word": "以色列电视台倒计时轰炸等来停火",
+        "onboard_time": 1775624722,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440988,
+        "num": 440988,
+        "word": "女方猝死遗产继承权亲儿子仅占八分之一",
+        "onboard_time": 1775625923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404492,
+        "num": 404492,
+        "word": "江语晨小考突然离场",
+        "onboard_time": 1775625683,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362927,
+        "num": 362927,
+        "word": "大艺术家 不敢听",
+        "onboard_time": 1775626164,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259475,
+        "num": 259475,
+        "word": "午睡悲伤综合征",
+        "onboard_time": 1775619021,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256873,
+        "num": 256873,
+        "word": "余承东猛批团队设计不高级",
+        "onboard_time": 1775624483,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241040,
+        "num": 241040,
+        "word": "粉色蓝莓",
+        "onboard_time": 1775620461,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1669368,
+        "num": 240505,
+        "word": "金子涵 再逼我就把所有的都说出来",
+        "onboard_time": 1775621001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511630,
+        "num": 240332,
+        "word": "女子孕期得知丈夫出轨20余人",
+        "onboard_time": 1775622323,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401659,
+        "num": 239676,
+        "word": "徐艺洋回应黄子韬身体状况",
+        "onboard_time": 1775611580,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289841,
+        "num": 238847,
+        "word": "浪姐一公小考",
+        "onboard_time": 1775621062,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272504,
+        "num": 238125,
+        "word": "店主回应因博主吃12个汉堡报警",
+        "onboard_time": 1775614281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289675,
+        "num": 237646,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237199,
+        "num": 237199,
+        "word": "海湾多国遭袭",
+        "onboard_time": 1775618422,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236222,
+        "num": 236222,
+        "word": "赵今麦超短发大片",
+        "onboard_time": 1775626643,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201570,
+        "num": 201570,
+        "word": "伊朗接受停火提议",
+        "onboard_time": 1775603420,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142480,
+        "num": 179466,
+        "word": "日本网红在印度被泼粪水致高烧入院",
+        "onboard_time": 1775621122,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256634,
+        "num": 168649,
+        "word": "冰湖重生开局0广",
+        "onboard_time": 1775627062,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212272,
+        "num": 166122,
+        "word": "吴镇宇 王格格你是来炫耀的吗",
+        "onboard_time": 1775619859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "讨好型人格小时候",
+        "onboard_time": 1775620881,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211056,
+        "num": 157701,
+        "word": "唐艺昕说小考前有人想跑路了",
+        "onboard_time": 1775623882,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93167,
+        "num": 154632,
+        "word": "同事敲窗致女子心律失常被判赔偿",
+        "onboard_time": 1775624783,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37139,
+        "num": 150489,
+        "word": "海南高温已影响荔枝香蕉生长",
+        "onboard_time": 1775627122,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203664,
+        "num": 149992,
+        "word": "曾沛慈一半一半转音",
+        "onboard_time": 1775626583,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 147718,
+        "word": "王艳19岁儿子时尚感",
+        "onboard_time": 1775620641,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145755,
+        "num": 145755,
+        "word": "认母期认成狗了",
+        "onboard_time": 1775621062,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97278,
+        "num": 144029,
+        "word": "全球股市集体爆发",
+        "onboard_time": 1775626164,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182115,
+        "num": 143610,
+        "word": "阚清子小考哭了",
+        "onboard_time": 1775626883,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143009,
+        "num": 143009,
+        "word": "伊美双方停火生效",
+        "onboard_time": 1775607382,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161991,
+        "num": 142622,
+        "word": "雨爱小考第一",
+        "onboard_time": 1775627902,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132090,
+        "num": 132090,
+        "word": "因二胎儿子随妻姓丈夫起诉离婚",
+        "onboard_time": 1775624783,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130867,
+        "num": 130867,
+        "word": "倪虹洁1个人要赡养5个老人",
+        "onboard_time": 1775610622,
+        "rank": 34,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "郑丽文率中国国民党访问团拜谒中山陵",
+        "onboard_time": 1775614999,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83304,
+        "num": 107115,
+        "word": "压塌20年樱花树女子认错愿赔偿",
+        "onboard_time": 1775621122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 103828,
+        "word": "A股港股飙涨原因",
+        "onboard_time": 1775627362,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54612,
+        "num": 97291,
+        "word": "超燃青春的合唱我要验人",
+        "onboard_time": 1775621302,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29010,
+        "num": 96278,
+        "word": "婴儿脑损伤家属往返两地常年奔波",
+        "onboard_time": 1775628023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96273,
+        "num": 96273,
+        "word": "徐轸轸发长文控诉前经纪人",
+        "onboard_time": 1775623522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95110,
+        "num": 95110,
+        "word": "日本疯狂售卖军火",
+        "onboard_time": 1775623822,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95109,
+        "num": 95109,
+        "word": "肖战魏大勋胡先煦十日终焉F3",
+        "onboard_time": 1775613920,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94164,
+        "num": 94164,
+        "word": "神器认主镜头是迪丽热巴想的",
+        "onboard_time": 1775624602,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91924,
+        "num": 91924,
+        "word": "从2019聊到2026还没下单的客户",
+        "onboard_time": 1775627602,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86806,
+        "num": 86806,
+        "word": "伊朗代表感谢中俄",
+        "onboard_time": 1775605220,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84823,
+        "num": 84823,
+        "word": "恋与深空 没有5200积分",
+        "onboard_time": 1775622323,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80440,
+        "num": 80440,
+        "word": "擦窗机器人卖爆了",
+        "onboard_time": 1775626223,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 80151,
+        "num": 80151,
+        "word": "亚锦赛李诗沣首轮出局",
+        "onboard_time": 1775628262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79935,
+        "num": 79935,
+        "word": "猫不舒服的时候会自己找草药吃",
+        "onboard_time": 1775628322,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺苏林#"
+    }
+  }
+}
