@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775605530556,
+  "endTime": 1775606562181,
   "band_list": [
     {
       "raw_hot": 7199686,
@@ -27,19 +27,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2961322,
+      "num": 681188,
+      "word": "伊朗接受停火提议",
+      "onboard_time": 1775603420,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2873544,
       "num": 696753,
       "word": "特朗普同意停火2周",
       "onboard_time": 1775603119,
       "rank": 7,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 2855459,
-      "num": 681188,
-      "word": "伊朗接受停火提议",
-      "onboard_time": 1775603420,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -264,6 +264,14 @@
       "word": "特朗普发文飙脏话",
       "onboard_time": 1775467461,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 934868,
+      "num": 627925,
+      "word": "伊朗代表感谢中俄",
+      "onboard_time": 1775605220,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 626293,
+      "num": 187459,
+      "word": "中方称涉伊朗决议草案极不平衡",
+      "onboard_time": 1775604618,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 620972,
       "num": 620972,
       "word": "联合国警告特朗普",
@@ -811,20 +827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481466,
+      "num": 1318979,
+      "word": "乘风2026一公小考倒数第一",
+      "onboard_time": 1775578641,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479793,
       "num": 248798,
       "word": "伊朗说克制已结束",
       "onboard_time": 1775567303,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 472883,
-      "num": 1318979,
-      "word": "乘风2026一公小考倒数第一",
-      "onboard_time": 1775578641,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 470798,
@@ -1187,12 +1203,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 374108,
+      "num": 965456,
+      "word": "仅一户报名摇号的房子第二天售罄",
+      "onboard_time": 1775577741,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373979,
       "num": 235083,
       "word": "被大冰断家务事的三观给征服",
       "onboard_time": 1775487024,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 373513,
+      "num": 373513,
+      "word": "海河乳品致歉",
+      "onboard_time": 1775604079,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368287,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1775364742,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 349118,
-      "num": 965456,
-      "word": "仅一户报名摇号的房子第二天售罄",
-      "onboard_time": 1775577741,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348202,
@@ -1795,14 +1819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274797,
-      "num": 77554,
-      "word": "中方称涉伊朗决议草案极不平衡",
-      "onboard_time": 1775604618,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 273216,
       "num": 131883,
       "word": "黄磊二女儿长得好像黄磊",
@@ -1988,7 +2004,7 @@
     },
     {
       "raw_hot": 252383,
-      "num": 77043,
+      "num": 99838,
       "word": "泽连斯基向俄方提出能源休战提议",
       "onboard_time": 1775604200,
       "rank": 32,
@@ -2017,6 +2033,14 @@
       "onboard_time": 1775467761,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245994,
+      "num": 187300,
+      "word": "Angelababy邓超去看陈赫话剧",
+      "onboard_time": 1775605701,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 245056,
@@ -2299,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216740,
+      "num": 216740,
+      "word": "女子称休完产假公司没了",
+      "onboard_time": 1775576602,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215698,
       "num": 101886,
       "word": "田曦薇素颜饭撒",
@@ -2507,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202849,
+      "num": 187016,
+      "word": "伊朗说伊美谈判4月10日开始",
+      "onboard_time": 1775604861,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202736,
       "num": 171590,
       "word": "叶一茜 05超女的含金量",
@@ -2579,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196556,
+      "num": 186915,
+      "word": "身体有慢性炎症可以多吃这些水果",
+      "onboard_time": 1775580377,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196245,
       "num": 196245,
       "word": "王楚钦赢下关键分松岛辉空气的跺脚",
@@ -2601,14 +2649,6 @@
       "onboard_time": 1775399607,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194933,
-      "num": 170040,
-      "word": "身体有慢性炎症可以多吃这些水果",
-      "onboard_time": 1775580377,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 194625,
@@ -2747,12 +2787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187539,
+      "num": 187539,
+      "word": "皇马1比2拜仁",
+      "onboard_time": 1775603600,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187026,
       "num": 187026,
       "word": "11岁女孩患肝衰竭和白血病双眼变绿",
       "onboard_time": 1775485703,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186721,
+      "num": 186721,
+      "word": "联合国未通过谴责伊朗相关决议草案",
+      "onboard_time": 1775605400,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186348,
@@ -2889,14 +2945,6 @@
       "onboard_time": 1775528839,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177768,
-      "num": 156921,
-      "word": "海河乳品致歉",
-      "onboard_time": 1775604079,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177327,
@@ -3099,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166835,
+      "num": 155412,
+      "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
+      "onboard_time": 1775604800,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166833,
       "num": 151272,
       "word": "伊朗军方公布战果",
@@ -3299,22 +3355,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 157262,
-      "num": 76107,
-      "word": "伊朗代表感谢中俄",
-      "onboard_time": 1775605220,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157125,
-      "num": 157125,
-      "word": "皇马1比2拜仁",
-      "onboard_time": 1775603600,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156856,
       "num": 156856,
       "word": "安崎选人",
@@ -3337,14 +3377,6 @@
       "onboard_time": 1775532922,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 154387,
-      "num": 154387,
-      "word": "女子称休完产假公司没了",
-      "onboard_time": 1775576602,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153883,
@@ -3401,14 +3433,6 @@
       "onboard_time": 1775545941,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152824,
-      "num": 118514,
-      "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
-      "onboard_time": 1775604800,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152067,
@@ -4339,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118862,
+      "num": 118862,
+      "word": "肖战手握3部待播剧",
+      "onboard_time": 1775577020,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "4名伊朗军官对抗美军搜救行动时阵亡",
@@ -4819,14 +4851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104501,
-      "num": 99532,
-      "word": "肖战手握3部待播剧",
-      "onboard_time": 1775577020,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104462,
       "num": 104462,
       "word": "赵心童6冠并列史上第17位",
@@ -5003,11 +5027,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100533,
+      "num": 100533,
+      "word": "高盛预计金价有望冲击6100美元",
+      "onboard_time": 1775604920,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "江语晨前夫是美籍",
       "onboard_time": 1775531062,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100080,
+      "num": 100080,
+      "word": "李嘉格说美对Angelababy太单一化了",
+      "onboard_time": 1775604800,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -5251,14 +5291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95160,
-      "num": 95160,
-      "word": "高盛预计金价有望冲击6100美元",
-      "onboard_time": 1775604920,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95096,
       "num": 127581,
       "word": "伊朗驻华大使馆发布战果",
@@ -5305,6 +5337,14 @@
       "onboard_time": 1775533043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94003,
+      "num": 94003,
+      "word": "杨汝晴在节目里立遗嘱",
+      "onboard_time": 1775605942,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 93940,
@@ -5497,14 +5537,6 @@
       "onboard_time": 1775453481,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90856,
-      "num": 90856,
-      "word": "李嘉格说美对Angelababy太单一化了",
-      "onboard_time": 1775604800,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 90843,
@@ -5753,6 +5785,14 @@
       "onboard_time": 1775453721,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86683,
+      "num": 86683,
+      "word": "莫氏鸡煲现场惊现超级大公鸡",
+      "onboard_time": 1775606543,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86626,
@@ -6107,6 +6147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81748,
+      "num": 81748,
+      "word": "萨摩耶绝育后哭声响彻整个医院",
+      "onboard_time": 1775605160,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81718,
       "num": 81718,
       "word": "日本女游客在印度遭5男子性骚扰",
@@ -6331,14 +6379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78211,
-      "num": 78211,
-      "word": "伊朗说伊美谈判4月10日开始",
-      "onboard_time": 1775604861,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78164,
       "num": 78164,
       "word": "狗子你倒是撸呀",
@@ -6369,14 +6409,6 @@
       "onboard_time": 1775447181,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78051,
-      "num": 75809,
-      "word": "联合国未通过谴责伊朗相关决议草案",
-      "onboard_time": 1775605400,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77953,
@@ -6963,14 +6995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69562,
-      "num": 69562,
-      "word": "萨摩耶绝育后哭声响彻整个医院",
-      "onboard_time": 1775605160,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69491,
       "num": 69491,
       "word": "白日提灯热度涨幅",
@@ -7347,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63834,
+      "num": 63834,
+      "word": "涉霍尔木兹海峡决议在安理会遭否决",
+      "onboard_time": 1775606481,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63694,
       "num": 63694,
       "word": "北海公园海棠花瀑美到窒息",
@@ -7475,6 +7507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62245,
+      "num": 62245,
+      "word": "王楚钦说现在自己角色转变了",
+      "onboard_time": 1775606120,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61721,
       "num": 61721,
       "word": "雨果扳回一局",
@@ -7545,6 +7585,14 @@
       "onboard_time": 1775381061,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60752,
+      "num": 60752,
+      "word": "全国仅存1只的百岁斑鳖现身",
+      "onboard_time": 1775606422,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60719,
@@ -7625,6 +7673,14 @@
       "onboard_time": 1775476401,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59745,
+      "num": 59745,
+      "word": "三星电子一季度狂赚2600亿",
+      "onboard_time": 1775605760,
+      "rank": 47,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 59460,
@@ -7737,6 +7793,14 @@
       "onboard_time": 1775464222,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57626,
+      "num": 57626,
+      "word": "霍尔木兹海峡将开放2周",
+      "onboard_time": 1775606481,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57542,

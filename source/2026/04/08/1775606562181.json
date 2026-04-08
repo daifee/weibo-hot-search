@@ -1,0 +1,410 @@
+{
+  "runTime": 1775606562181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481466,
+        "num": 1077034,
+        "word": "乘风2026一公小考倒数第一",
+        "onboard_time": 1775578641,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374108,
+        "num": 771213,
+        "word": "仅一户报名摇号的房子第二天售罄",
+        "onboard_time": 1775577741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42155,
+        "num": 633605,
+        "word": "外国人来中国旅游更火了",
+        "onboard_time": 1775566763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934868,
+        "num": 627925,
+        "word": "伊朗代表感谢中俄",
+        "onboard_time": 1775605220,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577135,
+        "num": 577135,
+        "word": "直播涉黄牛奶品牌为中华老字号",
+        "onboard_time": 1775573003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2961322,
+        "num": 522351,
+        "word": "伊朗接受停火提议",
+        "onboard_time": 1775603420,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373513,
+        "num": 373513,
+        "word": "海河乳品致歉",
+        "onboard_time": 1775604079,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238400,
+        "num": 238400,
+        "word": "上海女子爬树压塌20年樱花树",
+        "onboard_time": 1775566041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216740,
+        "num": 216740,
+        "word": "女子称休完产假公司没了",
+        "onboard_time": 1775576602,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187539,
+        "num": 187539,
+        "word": "皇马1比2拜仁",
+        "onboard_time": 1775603600,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626293,
+        "num": 187459,
+        "word": "中方称涉伊朗决议草案极不平衡",
+        "onboard_time": 1775604618,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337172,
+        "num": 187396,
+        "word": "把蓝莓当消炎药吃",
+        "onboard_time": 1775551882,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245994,
+        "num": 187300,
+        "word": "Angelababy邓超去看陈赫话剧",
+        "onboard_time": 1775605701,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198074,
+        "num": 187141,
+        "word": "美绕月飞船1.5亿厕所已瘫痪",
+        "onboard_time": 1775576661,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202849,
+        "num": 187016,
+        "word": "伊朗说伊美谈判4月10日开始",
+        "onboard_time": 1775604861,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196556,
+        "num": 186915,
+        "word": "身体有慢性炎症可以多吃这些水果",
+        "onboard_time": 1775580377,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195946,
+        "num": 186722,
+        "word": "伊朗民众组成人链保护发电厂和桥梁",
+        "onboard_time": 1775575223,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186721,
+        "num": 186721,
+        "word": "联合国未通过谴责伊朗相关决议草案",
+        "onboard_time": 1775605400,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168676,
+        "num": 168676,
+        "word": "时隔近一年郭艾伦再向周深道歉",
+        "onboard_time": 1775570364,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166829,
+        "num": 166829,
+        "word": "华晨宇的民宿定价3块钱",
+        "onboard_time": 1775563521,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190924,
+        "num": 162295,
+        "word": "央行抛售引发金价地震",
+        "onboard_time": 1775562200,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166835,
+        "num": 155412,
+        "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
+        "onboard_time": 1775604800,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148251,
+        "num": 148251,
+        "word": "猪八戒扮演者马德华将送别陈丽华",
+        "onboard_time": 1775565324,
+        "rank": 22,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 129261,
+        "num": 129261,
+        "word": "向太自曝曾多次拆散向佐恋情",
+        "onboard_time": 1775564360,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124475,
+        "num": 124475,
+        "word": "张雪母亲发声",
+        "onboard_time": 1775591894,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123128,
+        "num": 123128,
+        "word": "王楚钦称跟樊振东打出了自己的问题",
+        "onboard_time": 1775568863,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "陈少荣只给江语晨写过歌",
+        "onboard_time": 1775584634,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "肖战手握3部待播剧",
+        "onboard_time": 1775577020,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100533,
+        "num": 100533,
+        "word": "高盛预计金价有望冲击6100美元",
+        "onboard_time": 1775604920,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100080,
+        "num": 100080,
+        "word": "李嘉格说美对Angelababy太单一化了",
+        "onboard_time": 1775604800,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200092,
+        "num": 99838,
+        "word": "泽连斯基向俄方提出能源休战提议",
+        "onboard_time": 1775604200,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95928,
+        "num": 95928,
+        "word": "女子人肉占车位被司机强行顶开",
+        "onboard_time": 1775582478,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94003,
+        "num": 94003,
+        "word": "杨汝晴在节目里立遗嘱",
+        "onboard_time": 1775605942,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86683,
+        "num": 86683,
+        "word": "莫氏鸡煲现场惊现超级大公鸡",
+        "onboard_time": 1775606543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86178,
+        "num": 86178,
+        "word": "迟重瑞说不畏惧陈丽华的强",
+        "onboard_time": 1775568743,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81748,
+        "num": 81748,
+        "word": "萨摩耶绝育后哭声响彻整个医院",
+        "onboard_time": 1775605160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77020,
+        "num": 77020,
+        "word": "刘耀文 耳洞",
+        "onboard_time": 1775566943,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66366,
+        "num": 66366,
+        "word": "网传浪姐一公小考结果",
+        "onboard_time": 1775575641,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64440,
+        "num": 64440,
+        "word": "韩国回应特朗普",
+        "onboard_time": 1775567483,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65396,
+        "num": 64405,
+        "word": "辛巴朋友圈吐槽被五次退网",
+        "onboard_time": 1775576061,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63834,
+        "num": 63834,
+        "word": "涉霍尔木兹海峡决议在安理会遭否决",
+        "onboard_time": 1775606481,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62339,
+        "num": 62339,
+        "word": "吴慷仁演技",
+        "onboard_time": 1775577561,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62245,
+        "num": 62245,
+        "word": "王楚钦说现在自己角色转变了",
+        "onboard_time": 1775606120,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61814,
+        "num": 61814,
+        "word": "iPhone三款新机机模出炉",
+        "onboard_time": 1775565922,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 61687,
+        "num": 61687,
+        "word": "联合国警告特朗普",
+        "onboard_time": 1775564481,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60752,
+        "num": 60752,
+        "word": "全国仅存1只的百岁斑鳖现身",
+        "onboard_time": 1775606422,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60244,
+        "num": 60244,
+        "word": "曾沛慈热度断层第一",
+        "onboard_time": 1775563040,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59745,
+        "num": 59745,
+        "word": "三星电子一季度狂赚2600亿",
+        "onboard_time": 1775605760,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 58447,
+        "num": 58447,
+        "word": "张雪推荐网友买国内品牌踏板摩托",
+        "onboard_time": 1775581038,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57626,
+        "num": 57626,
+        "word": "霍尔木兹海峡将开放2周",
+        "onboard_time": 1775606481,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力创造经得起实践人民历史检验的实绩#"
+    }
+  }
+}
