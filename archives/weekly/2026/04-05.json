@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775670020774,
+  "endTime": 1775676502036,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -4008,6 +4008,14 @@
       "word": "赵丽颖高月香的舞蹈训练图",
       "onboard_time": 1775450241,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170026,
+      "num": 18541,
+      "word": "金子涵手臂",
+      "onboard_time": 1775672534,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -11377,6 +11385,22 @@
       "onboard_time": 1775477481,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17862,
+      "num": 17313,
+      "word": "中方回应是否直接参与达成停火协议",
+      "onboard_time": 1775670137,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17356,
+      "num": 17356,
+      "word": "张真源说呼安和名字一样能睡",
+      "onboard_time": 1775675955,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 17176,
