@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 05:53:32
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 06:07:59
 </p>
 </blockquote>
 <p>
@@ -5193,6 +5193,12 @@ SJ首尔演唱会栏杆断裂粉丝坠落（热度：209953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A989%E6%AD%BB722%E4%BC%A4%23" target="weibo">
+以军大规模空袭致黎巴嫩89死722伤（热度：203638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E6%98%AF%E5%8F%B6%E8%B5%AB%E9%82%A3%E6%8B%89%E6%B0%8F%E7%AC%AC%E5%85%AB%E4%BB%A3%E5%90%8E%E8%A3%94%23" target="weibo">
 陈丽华是叶赫那拉氏第八代后裔（热度：203624）
 </a>
@@ -6005,12 +6011,6 @@ AL对战TES（热度：183446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%8B%E5%BC%98%E6%AF%85%23" target="weibo">
 我欲乘风领衔主演田曦薇王弘毅（热度：173146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E8%87%AA%E6%9B%9D%E4%B8%8E%E7%88%B8%E7%88%B8%E4%BA%8C%E5%8D%81%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%23" target="weibo">
-葛夕自曝与爸爸二十年没联系（热度：173044）
 </a>
 </li>
 
