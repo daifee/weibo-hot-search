@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775661565198,
+  "endTime": 1775663725186,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828046,
+      "num": 159186,
+      "word": "特朗普认为是中国促使伊朗同意停火",
+      "onboard_time": 1775660303,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 822267,
       "num": 595757,
       "word": "12人花30万买月薪2500的高铁工作",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1775481263,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 756582,
-      "num": 159186,
-      "word": "特朗普认为是中国促使伊朗同意停火",
-      "onboard_time": 1775660303,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 753241,
@@ -1555,6 +1555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 615372,
+      "num": 1098459,
+      "word": "浪姐倒数第一竞争太激烈了",
+      "onboard_time": 1775657062,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612112,
       "num": 227289,
       "word": "离职守恒定律",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1775614880,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 566852,
-      "num": 1090696,
-      "word": "浪姐倒数第一竞争太激烈了",
-      "onboard_time": 1775657062,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 566194,
@@ -2195,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510854,
+      "num": 510854,
+      "word": "不假唱 不怯场 不做作 不好听",
+      "onboard_time": 1775659702,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510797,
       "num": 212012,
       "word": "金价",
@@ -2531,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465865,
-      "num": 337442,
-      "word": "不假唱 不怯场 不做作 不好听",
-      "onboard_time": 1775659702,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461974,
       "num": 1073915,
       "word": "莫氏鸡煲被传遭文旅施压开门营业",
@@ -2761,6 +2761,14 @@
       "onboard_time": 1775531423,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432099,
+      "num": 158089,
+      "word": "金靖说明显感觉到张凌赫太火了",
+      "onboard_time": 1775660783,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 430160,
@@ -3147,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395472,
+      "num": 395472,
+      "word": "以色列空袭黎首都",
+      "onboard_time": 1775659463,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 395452,
       "num": 178358,
       "word": "优思益代言人",
@@ -3431,6 +3447,14 @@
       "num": 313551,
       "word": "杨紫直播",
       "onboard_time": 1775049864,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372369,
+      "num": 149941,
+      "word": "NCT",
+      "onboard_time": 1775661683,
       "rank": 15,
       "category": "艺人"
     },
@@ -4273,6 +4297,14 @@
       "onboard_time": 1775297782,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315298,
+      "num": 802912,
+      "word": "副县长出轨致人怀孕已调乡镇上班",
+      "onboard_time": 1775661561,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 314154,
@@ -5273,14 +5305,6 @@
       "onboard_time": 1775024124,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263665,
-      "num": 158089,
-      "word": "金靖说明显感觉到张凌赫太火了",
-      "onboard_time": 1775660783,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 262791,
@@ -6651,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210360,
+      "num": 210360,
+      "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
+      "onboard_time": 1775660663,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210289,
       "num": 240549,
       "word": "男孩捡50g金条咬了一口竟是真的",
@@ -6721,14 +6753,6 @@
       "onboard_time": 1775194161,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208968,
-      "num": 111890,
-      "word": "以色列空袭黎首都",
-      "onboard_time": 1775659463,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 208965,
@@ -7265,6 +7289,14 @@
       "onboard_time": 1775371700,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192751,
+      "num": 144615,
+      "word": "NCT十周年预告",
+      "onboard_time": 1775661862,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 192626,
@@ -8475,6 +8507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161906,
+      "num": 148673,
+      "word": "徐若晗拍的沈月",
+      "onboard_time": 1775663180,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161895,
       "num": 161895,
       "word": "夏之光站了鞠婧祎陈都灵中间我站哪",
@@ -8593,14 +8633,6 @@
       "onboard_time": 1775259500,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160074,
-      "num": 160074,
-      "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
-      "onboard_time": 1775660663,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159961,
@@ -9185,6 +9217,14 @@
       "onboard_time": 1775313684,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148072,
+      "num": 148072,
+      "word": "美伊都宣称赢了那谁输了",
+      "onboard_time": 1775661624,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148029,
@@ -12843,6 +12883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103875,
+      "num": 103875,
+      "word": "以色列希望战事再持续至少1个月",
+      "onboard_time": 1775662103,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103828,
       "num": 103828,
       "word": "A股港股飙涨原因",
@@ -13617,6 +13665,14 @@
       "onboard_time": 1775404402,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98118,
+      "num": 98118,
+      "word": "伊媒称伊朗或因黎遭袭结束临时停火",
+      "onboard_time": 1775663300,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98116,
@@ -14915,6 +14971,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 89703,
+      "num": 89703,
+      "word": "蔡依林听了连夜收回版权",
+      "onboard_time": 1775661083,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89612,
       "num": 89612,
       "word": "南京警方侦破32年前命案",
@@ -16105,14 +16169,6 @@
       "onboard_time": 1775576061,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 83781,
-      "num": 83110,
-      "word": "蔡依林听了连夜收回版权",
-      "onboard_time": 1775661083,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 83770,
@@ -17433,6 +17489,14 @@
       "onboard_time": 1775478021,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76593,
+      "num": 76593,
+      "word": "五哈6口碑",
+      "onboard_time": 1775663061,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 76530,
@@ -19363,6 +19427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64370,
+      "num": 83129,
+      "word": "万斯演讲现场给特朗普打电话",
+      "onboard_time": 1775660242,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64358,
       "num": 694698,
       "word": "2030年的中国什么样",
@@ -19731,6 +19803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61761,
+      "num": 61761,
+      "word": "不吃晚饭长胖风险提高近7成",
+      "onboard_time": 1775662164,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61721,
       "num": 61721,
       "word": "雨果扳回一局",
@@ -19841,6 +19921,14 @@
       "onboard_time": 1775463201,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60915,
+      "num": 61235,
+      "word": "小猫在零下十度中暑",
+      "onboard_time": 1775663660,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 60890,
@@ -20473,6 +20561,14 @@
       "onboard_time": 1775360600,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54753,
+      "num": 78410,
+      "word": "康师傅再来一瓶被指无法兑奖",
+      "onboard_time": 1775662642,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54668,
@@ -21475,14 +21571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39042,
-      "num": 83129,
-      "word": "万斯演讲现场给特朗普打电话",
-      "onboard_time": 1775660242,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38720,
       "num": 38720,
       "word": "孟子义何与百花杀周年合照",
@@ -21601,6 +21689,14 @@
       "onboard_time": 1775400207,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36279,
+      "num": 144706,
+      "word": "女子称举报富二代丈夫重婚遭报复",
+      "onboard_time": 1775662823,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36102,
@@ -21799,6 +21895,14 @@
       "num": 674893,
       "word": "天宫画展再上新",
       "onboard_time": 1775098700,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33561,
+      "num": 606048,
+      "word": "清明假期文旅成绩单出炉",
+      "onboard_time": 1775652322,
       "rank": 2,
       "category": "国内时政"
     },

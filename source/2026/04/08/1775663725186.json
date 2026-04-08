@@ -1,0 +1,410 @@
+{
+  "runTime": 1775663725186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 615372,
+        "num": 1098459,
+        "word": "浪姐倒数第一竞争太激烈了",
+        "onboard_time": 1775657062,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315298,
+        "num": 802912,
+        "word": "副县长出轨致人怀孕已调乡镇上班",
+        "onboard_time": 1775661561,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33561,
+        "num": 606048,
+        "word": "清明假期文旅成绩单出炉",
+        "onboard_time": 1775652322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510854,
+        "num": 510854,
+        "word": "不假唱 不怯场 不做作 不好听",
+        "onboard_time": 1775659702,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395472,
+        "num": 395472,
+        "word": "以色列空袭黎首都",
+        "onboard_time": 1775659463,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328349,
+        "num": 328349,
+        "word": "楚乔传",
+        "onboard_time": 1775659223,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283617,
+        "num": 283617,
+        "word": "樊振东放弃伦敦世乒赛资格",
+        "onboard_time": 1775650461,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210360,
+        "num": 210360,
+        "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
+        "onboard_time": 1775660663,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155422,
+        "num": 155422,
+        "word": "中方回应朝鲜连续2天发射弹道导弹",
+        "onboard_time": 1775658443,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130006,
+        "num": 154779,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 828046,
+        "num": 154129,
+        "word": "特朗普认为是中国促使伊朗同意停火",
+        "onboard_time": 1775660303,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 569220,
+        "num": 153465,
+        "word": "李佳琦说可能缺席两个季度直播",
+        "onboard_time": 1775658862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432099,
+        "num": 152858,
+        "word": "金靖说明显感觉到张凌赫太火了",
+        "onboard_time": 1775660783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170353,
+        "num": 151813,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396304,
+        "num": 151097,
+        "word": "浪姐白买版权",
+        "onboard_time": 1775651421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372369,
+        "num": 149941,
+        "word": "NCT",
+        "onboard_time": 1775661683,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156846,
+        "num": 149541,
+        "word": "小狗近视主人花800元给定制眼镜",
+        "onboard_time": 1775658263,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161906,
+        "num": 148673,
+        "word": "徐若晗拍的沈月",
+        "onboard_time": 1775663180,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148072,
+        "num": 148072,
+        "word": "美伊都宣称赢了那谁输了",
+        "onboard_time": 1775661624,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36279,
+        "num": 144706,
+        "word": "女子称举报富二代丈夫重婚遭报复",
+        "onboard_time": 1775662823,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192751,
+        "num": 144615,
+        "word": "NCT十周年预告",
+        "onboard_time": 1775661862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143457,
+        "num": 143457,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135090,
+        "num": 135090,
+        "word": "黄金涨跌逻辑变了",
+        "onboard_time": 1775653942,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133731,
+        "num": 133731,
+        "word": "时代峰峻声明",
+        "onboard_time": 1775652022,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125170,
+        "num": 125170,
+        "word": "赵丽颖版楚乔传",
+        "onboard_time": 1775655621,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409156,
+        "num": 114886,
+        "word": "刘耀文流口水 AI生成",
+        "onboard_time": 1775652862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103875,
+        "num": 103875,
+        "word": "以色列希望战事再持续至少1个月",
+        "onboard_time": 1775662103,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98118,
+        "num": 98118,
+        "word": "伊媒称伊朗或因黎遭袭结束临时停火",
+        "onboard_time": 1775663300,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97489,
+        "num": 97489,
+        "word": "女子海景房择菜听到了鲸鱼叫",
+        "onboard_time": 1775658142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93547,
+        "num": 93547,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91363,
+        "num": 91363,
+        "word": "长大后才意识到父母有多厉害",
+        "onboard_time": 1775656823,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90845,
+        "num": 90845,
+        "word": "大麦发了王俊凯",
+        "onboard_time": 1775657964,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89703,
+        "num": 89703,
+        "word": "蔡依林听了连夜收回版权",
+        "onboard_time": 1775661083,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82185,
+        "num": 82185,
+        "word": "美伊宣布停火后伊朗称一炼油厂遭袭",
+        "onboard_time": 1775658683,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81393,
+        "num": 81393,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 80374,
+        "num": 80374,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79580,
+        "num": 79580,
+        "word": "吃了会肠胃胀气的食物",
+        "onboard_time": 1775654303,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79298,
+        "num": 79298,
+        "word": "日本73岁老人来中国求职",
+        "onboard_time": 1775650821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54753,
+        "num": 78410,
+        "word": "康师傅再来一瓶被指无法兑奖",
+        "onboard_time": 1775662642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77525,
+        "num": 77525,
+        "word": "以色列被曝不愿停火",
+        "onboard_time": 1775660124,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77083,
+        "num": 77083,
+        "word": "中俄提出霍尔木兹海峡问题决议草案",
+        "onboard_time": 1775659942,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 76593,
+        "word": "五哈6口碑",
+        "onboard_time": 1775663061,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68622,
+        "num": 68622,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64370,
+        "num": 64370,
+        "word": "万斯演讲现场给特朗普打电话",
+        "onboard_time": 1775660242,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67412,
+        "num": 63472,
+        "word": "杨幂冯湮儿路透",
+        "onboard_time": 1775655203,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61761,
+        "num": 61761,
+        "word": "不吃晚饭长胖风险提高近7成",
+        "onboard_time": 1775662164,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61508,
+        "num": 61508,
+        "word": "周杰伦给王俊凯杨迪变魔术",
+        "onboard_time": 1775654843,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61287,
+        "num": 61287,
+        "word": "浪姐",
+        "onboard_time": 1775652922,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60915,
+        "num": 61235,
+        "word": "小猫在零下十度中暑",
+        "onboard_time": 1775663660,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}
