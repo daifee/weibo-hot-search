@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775639591058,
+  "endTime": 1775641536912,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -155,6 +155,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 536983,
+      "num": 1085917,
+      "word": "哪吒2票房升至全球第4",
+      "onboard_time": 1775639062,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522462,
       "num": 144549,
       "word": "特朗普最后通牒之后",
@@ -193,6 +201,14 @@
       "onboard_time": 1775578641,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476293,
+      "num": 476293,
+      "word": "麻辣烫里最拉的菜",
+      "onboard_time": 1775640023,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 453721,
@@ -411,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303202,
+      "num": 303202,
+      "word": "伊朗拉万炼油厂发生爆炸",
+      "onboard_time": 1775639784,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302752,
       "num": 302752,
       "word": "代露娃赖伟明宝珠开机",
@@ -427,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287500,
+      "num": 761932,
+      "word": "婚前房产婚后加名离婚时能对半分吗",
+      "onboard_time": 1775636002,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286687,
       "num": 286687,
       "word": "午睡悲伤综合征",
@@ -441,6 +473,14 @@
       "onboard_time": 1775634381,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271107,
+      "num": 250190,
+      "word": "低血糖假性饥饿",
+      "onboard_time": 1775634143,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269139,
@@ -507,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251125,
+      "num": 251125,
+      "word": "B站官宣暂停广告",
+      "onboard_time": 1775641101,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 250651,
       "num": 250651,
       "word": "秋瓷炫儿子要学中英韩三门语言",
@@ -521,6 +569,14 @@
       "onboard_time": 1775610381,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 243066,
+      "num": 243066,
+      "word": "鹿晗任敏认识十一年了",
+      "onboard_time": 1775640921,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 238400,
@@ -595,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217464,
-      "num": 217464,
-      "word": "婚前房产婚后加名离婚时能对半分吗",
-      "onboard_time": 1775636002,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203664,
       "num": 149992,
       "word": "曾沛慈一半一半转音",
@@ -617,14 +665,6 @@
       "onboard_time": 1775604861,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197591,
-      "num": 197591,
-      "word": "低血糖假性饥饿",
-      "onboard_time": 1775634143,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196556,
@@ -689,14 +729,6 @@
       "onboard_time": 1775626883,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178609,
-      "num": 178609,
-      "word": "哪吒2票房升至全球第4",
-      "onboard_time": 1775639062,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 174880,
@@ -883,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139370,
+      "num": 215895,
+      "word": "国资委成立境外国资工作局",
+      "onboard_time": 1775638702,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139366,
       "num": 99257,
       "word": "伊朗威胁切断美国及其盟友石油供应",
@@ -987,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124753,
+      "num": 124753,
+      "word": "十日终焉官微 用户1231",
+      "onboard_time": 1775641342,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123687,
       "num": 167821,
       "word": "压塌20年樱花树女子认错愿赔偿",
@@ -995,20 +1043,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122525,
+      "num": 122525,
+      "word": "小米官宣6款充电宝新品",
+      "onboard_time": 1775638642,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121652,
       "num": 105903,
       "word": "虞书欣跳了进行曲",
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121515,
-      "num": 121515,
-      "word": "小米官宣6款充电宝新品",
-      "onboard_time": 1775638642,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 121330,
@@ -1059,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117351,
+      "num": 117351,
+      "word": "老爸过生日人脉硬到一个个不吱声",
+      "onboard_time": 1775640502,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116423,
       "num": 116423,
       "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1775638164,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113035,
-      "num": 215895,
-      "word": "国资委成立境外国资工作局",
-      "onboard_time": 1775638702,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112293,
@@ -1147,12 +1195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104607,
+      "num": 104607,
+      "word": "ALD1 七人团",
+      "onboard_time": 1775640142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103828,
       "num": 103828,
       "word": "A股港股飙涨原因",
       "onboard_time": 1775627362,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102181,
+      "num": 102181,
+      "word": "河北省考成绩",
+      "onboard_time": 1775638822,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 101806,
@@ -1187,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99839,
+      "num": 195109,
+      "word": "拼多多为何西藏买垃圾袋也能包邮",
+      "onboard_time": 1775639002,
+      "rank": 17,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 99417,
       "num": 99417,
       "word": "思虑过重的人一定要自救",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1775626164,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95918,
+      "num": 95918,
+      "word": "美媒称伊朗阿曼将收霍尔木兹通行费",
+      "onboard_time": 1775637381,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95895,
@@ -1283,20 +1363,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92656,
+      "num": 92656,
+      "word": "原来焦虑症是这么来的",
+      "onboard_time": 1775641222,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91924,
       "num": 91924,
       "word": "从2019聊到2026还没下单的客户",
       "onboard_time": 1775627602,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91688,
-      "num": 91688,
-      "word": "美媒称伊朗阿曼将收霍尔木兹通行费",
-      "onboard_time": 1775637381,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89973,
@@ -1313,14 +1393,6 @@
       "onboard_time": 1775566943,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88338,
-      "num": 88338,
-      "word": "河北省考成绩",
-      "onboard_time": 1775638822,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 88201,
@@ -1355,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86499,
+      "num": 88283,
+      "word": "电费刺客找到了",
+      "onboard_time": 1775640861,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85536,
       "num": 85536,
       "word": "霍尔木兹海峡将开放2周",
       "onboard_time": 1775606481,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85133,
+      "num": 85133,
+      "word": "霍尔木兹海峡开放后油价走势",
+      "onboard_time": 1775640441,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 85000,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1775613620,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81065,
+      "num": 81065,
+      "word": "美国袭击伊朗哈尔克岛上50余个军事目标",
+      "onboard_time": 1775640081,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80782,
@@ -1513,6 +1609,14 @@
       "onboard_time": 1775630661,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77541,
+      "num": 77541,
+      "word": "TF四代一班不会以演员身份出道",
+      "onboard_time": 1775640681,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 77238,
@@ -1747,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54388,
-      "num": 195109,
-      "word": "拼多多为何西藏买垃圾袋也能包邮",
-      "onboard_time": 1775639002,
-      "rank": 17,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 53610,
       "num": 54510,
       "word": "开心消消乐",
@@ -1923,6 +2019,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 34778,
+      "num": 134920,
+      "word": "伊朗议长将率团与美国谈判",
+      "onboard_time": 1775641160,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33995,
       "num": 52925,
       "word": "迟重瑞陈丽华结婚36年从没红过脸",
@@ -1995,12 +2099,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20746,
+      "num": 89878,
+      "word": "喜人真来桃花坞团建了",
+      "onboard_time": 1775640023,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19229,
       "num": 25391,
       "word": "周深演唱苏超MV",
       "onboard_time": 1775585715,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14598,
+      "num": 134211,
+      "word": "海关证实网红汤普森护肝片成分虚标",
+      "onboard_time": 1775640921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13991,
