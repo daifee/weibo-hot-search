@@ -1,10 +1,10 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775686079750,
+  "endTime": 1775688737351,
   "band_list": [
     {
       "raw_hot": 1801292,
-      "num": 44004,
+      "num": 44500,
       "word": "金子涵直播疑似求救",
       "onboard_time": 1775669296,
       "rank": 20,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479333,
+      "num": 286379,
+      "word": "以军大规模空袭致黎巴嫩89死722伤",
+      "onboard_time": 1775668397,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 307641,
-      "num": 246667,
+      "num": 251144,
       "word": "伊媒称伊朗或因黎遭袭结束临时停火",
       "onboard_time": 1775663300,
       "rank": 3,
@@ -36,23 +44,15 @@
     },
     {
       "raw_hot": 224653,
-      "num": 520128,
+      "num": 533236,
       "word": "不假唱 不怯场 不做作 不好听",
       "onboard_time": 1775659702,
       "rank": 0,
       "category": "综艺"
     },
     {
-      "raw_hot": 203638,
-      "num": 152835,
-      "word": "以军大规模空袭致黎巴嫩89死722伤",
-      "onboard_time": 1775668397,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 170026,
-      "num": 23004,
+      "raw_hot": 215887,
+      "num": 40589,
       "word": "金子涵手臂",
       "onboard_time": 1775672534,
       "rank": 25,
@@ -75,12 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128725,
+      "num": 87086,
+      "word": "以色列希望战事再持续至少1个月",
+      "onboard_time": 1775662103,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128319,
       "num": 367864,
       "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
       "onboard_time": 1775660663,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117654,
+      "num": 374362,
+      "word": "中方回应朝鲜连续2天发射弹道导弹",
+      "onboard_time": 1775658443,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115290,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96568,
+      "num": 50845,
+      "word": "婆媳长期一起生活接连患乳腺癌",
+      "onboard_time": 1775648542,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95066,
       "num": 95066,
       "word": "失业的人可以从大冰这个角度找到机会",
@@ -147,12 +171,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87086,
-      "num": 87086,
-      "word": "以色列希望战事再持续至少1个月",
-      "onboard_time": 1775662103,
-      "rank": 16,
+      "raw_hot": 92476,
+      "num": 36150,
+      "word": "中俄提出霍尔木兹海峡问题决议草案",
+      "onboard_time": 1775659942,
+      "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79085,
+      "num": 79085,
+      "word": "上报78亿实际到账不足1亿",
+      "onboard_time": 1775655981,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72182,
@@ -163,6 +195,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68685,
+      "num": 61944,
+      "word": "小狗近视主人花800元给定制眼镜",
+      "onboard_time": 1775658263,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68198,
+      "num": 68198,
+      "word": "肖战十日终焉开通官方账号",
+      "onboard_time": 1775669536,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67752,
+      "num": 45126,
+      "word": "女子海景房择菜听到了鲸鱼叫",
+      "onboard_time": 1775658142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66188,
       "num": 51065,
       "word": "NCT十周年预告",
@@ -171,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64144,
-      "num": 211901,
-      "word": "中方回应朝鲜连续2天发射弹道导弹",
-      "onboard_time": 1775658443,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 61601,
+      "num": 61601,
+      "word": "国际油价暴跌",
+      "onboard_time": 1775666896,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 58846,
@@ -187,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57185,
-      "num": 50845,
-      "word": "婆媳长期一起生活接连患乳腺癌",
-      "onboard_time": 1775648542,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 55357,
+      "num": 55357,
+      "word": "美伊都宣称赢了那谁输了",
+      "onboard_time": 1775661624,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51862,
@@ -200,14 +256,6 @@
       "word": "日本73岁老人来中国求职",
       "onboard_time": 1775650821,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51346,
-      "num": 51346,
-      "word": "小狗近视主人花800元给定制眼镜",
-      "onboard_time": 1775658263,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -225,6 +273,14 @@
       "onboard_time": 1775652022,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47635,
+      "num": 47635,
+      "word": "晒娃被网友催赶紧去医院宝妈发声",
+      "onboard_time": 1775650102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46922,
@@ -251,44 +307,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 44779,
-      "num": 51321,
-      "word": "美伊都宣称赢了那谁输了",
-      "onboard_time": 1775661624,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 44418,
-      "num": 44418,
-      "word": "上报78亿实际到账不足1亿",
-      "onboard_time": 1775655981,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 43486,
       "num": 43486,
       "word": "赵丽颖版楚乔传",
       "onboard_time": 1775655621,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 45126,
-      "word": "女子海景房择菜听到了鲸鱼叫",
-      "onboard_time": 1775658142,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42486,
-      "num": 42486,
-      "word": "国际油价暴跌",
-      "onboard_time": 1775666896,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 41784,
@@ -299,20 +323,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 41483,
-      "num": 35182,
-      "word": "中俄提出霍尔木兹海峡问题决议草案",
-      "onboard_time": 1775659942,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40916,
       "num": 47017,
       "word": "长大后才意识到父母有多厉害",
       "onboard_time": 1775656823,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39340,
+      "num": 294058,
+      "word": "清明假期文旅成绩单出炉",
+      "onboard_time": 1775652322,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39043,
@@ -323,20 +347,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38860,
+      "num": 38860,
+      "word": "美伊宣布停火后伊朗称一炼油厂遭袭",
+      "onboard_time": 1775658683,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38717,
       "num": 38717,
       "word": "蔡依林听了连夜收回版权",
       "onboard_time": 1775661083,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37362,
-      "num": 37362,
-      "word": "晒娃被网友催赶紧去医院宝妈发声",
-      "onboard_time": 1775650102,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35950,
@@ -361,6 +385,14 @@
       "onboard_time": 1775652922,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34590,
+      "num": 34590,
+      "word": "中方回应是否直接参与达成停火协议",
+      "onboard_time": 1775670137,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34516,
@@ -419,30 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28092,
-      "num": 28092,
-      "word": "肖战十日终焉开通官方账号",
-      "onboard_time": 1775669536,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28062,
-      "num": 28062,
-      "word": "美伊宣布停火后伊朗称一炼油厂遭袭",
-      "onboard_time": 1775658683,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26505,
-      "num": 290824,
-      "word": "清明假期文旅成绩单出炉",
-      "onboard_time": 1775652322,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26268,
       "num": 26268,
       "word": "桃花坞",
@@ -451,16 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22542,
-      "num": 18551,
-      "word": "中方回应是否直接参与达成停火协议",
-      "onboard_time": 1775670137,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17587,
-      "num": 17587,
+      "raw_hot": 19740,
+      "num": 31661,
       "word": "家事法庭",
       "onboard_time": 1775670736,
       "rank": 27,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 17356,
-      "num": 17407,
+      "num": 31660,
       "word": "张真源说呼安和名字一样能睡",
       "onboard_time": 1775675955,
       "rank": 29,
