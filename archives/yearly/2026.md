@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 07:08:52
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 07:46:42
 </p>
 </blockquote>
 <p>
@@ -1797,6 +1797,12 @@ TES上报Naiyou不正当行为（热度：2048848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23" target="weibo">
+金子涵直播疑似求救（热度：1899688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%20%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%23" target="weibo">
 林允 速效救心丸（热度：1878190）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%B9%BF%E6%99%97%E5%95%86%E5%8A%A1%E5%BD%92%E9%9B%B6%23" target="weibo">
 曝鹿晗商务归零（热度：1875992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%8C%E6%88%BF4%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%E7%94%B7%E5%AD%90%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%23" target="weibo">
-与女友同房4天后死亡男子家属索赔（热度：1874899）
 </a>
 </li>
 
