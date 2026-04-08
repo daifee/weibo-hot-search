@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/09 01:14:32 ~ 2026/04/09 03:47:27
+本榜单时间：2026/04/09 01:14:32 ~ 2026/04/09 04:55:51
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,18 @@ NCT十周年预告（热度：66188）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%8A%E5%AE%A3%E5%B8%83%E5%81%9C%E7%81%AB%E5%90%8E%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E9%81%AD%E8%A2%AD%23" target="weibo">
 美伊宣布停火后伊朗称一炼油厂遭袭（热度：17181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%BA%BA%E9%97%B4%E8%B5%B0%E4%B8%80%E6%97%A5%E6%94%B6%E8%8E%B7%E6%BB%A1%E6%BB%A1%E7%99%BB%E7%99%BB%23" target="weibo">
+鞠婧祎人间走一日收获满满登登（热度：11863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E8%BF%99%E4%B8%80%E6%AC%A1%E8%AE%A9%E7%88%B1%E5%A4%A7%E5%A3%B0%E8%AF%B4%E5%87%BA%E5%8F%A3%23" target="weibo">
+登陆少年这一次让爱大声说出口（热度：11053）
 </a>
 </li>
 

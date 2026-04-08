@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775677647036,
+  "endTime": 1775681751042,
   "band_list": [
     {
       "raw_hot": 1801292,
@@ -473,6 +473,22 @@
       "onboard_time": 1775658683,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11863,
+      "num": 13625,
+      "word": "鞠婧祎人间走一日收获满满登登",
+      "onboard_time": 1775671935,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11053,
+      "num": 13624,
+      "word": "登陆少年这一次让爱大声说出口",
+      "onboard_time": 1775678834,
+      "rank": 43,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
