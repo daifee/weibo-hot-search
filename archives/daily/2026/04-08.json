@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775606562181,
+  "endTime": 1775617030326,
   "band_list": [
     {
       "raw_hot": 2961322,
@@ -19,12 +19,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1454340,
+      "num": 158972,
+      "word": "徐艺洋回应黄子韬身体状况",
+      "onboard_time": 1775611580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934868,
       "num": 627925,
       "word": "伊朗代表感谢中俄",
       "onboard_time": 1775605220,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 908154,
+      "num": 1145304,
+      "word": "店主回应因博主吃12个汉堡报警",
+      "onboard_time": 1775614281,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 626293,
@@ -41,6 +57,14 @@
       "onboard_time": 1775573003,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554428,
+      "num": 155667,
+      "word": "倪虹洁1个人要赡养5个老人",
+      "onboard_time": 1775610622,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 522462,
@@ -67,6 +91,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 402190,
+      "num": 402190,
+      "word": "伊美双方停火生效",
+      "onboard_time": 1775607382,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 392261,
+      "num": 154425,
+      "word": "以色列仍在持续打击伊朗",
+      "onboard_time": 1775612841,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 374108,
       "num": 965456,
       "word": "仅一户报名摇号的房子第二天售罄",
@@ -81,6 +121,14 @@
       "onboard_time": 1775604079,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365140,
+      "num": 851805,
+      "word": "郑丽文率中国国民党访问团拜谒中山陵",
+      "onboard_time": 1775614999,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362945,
@@ -99,12 +147,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 322114,
+      "num": 322114,
+      "word": "妻子称上班11天死亡丈夫不抱怨工作",
+      "onboard_time": 1775614880,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292338,
+      "num": 292338,
+      "word": "贝多芬止痛药",
+      "onboard_time": 1775612362,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268160,
       "num": 111399,
       "word": "网传浪姐一公小考结果",
       "onboard_time": 1775575641,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265771,
+      "num": 187300,
+      "word": "Angelababy邓超去看陈赫话剧",
+      "onboard_time": 1775605701,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 261237,
@@ -131,12 +203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 245994,
-      "num": 187300,
-      "word": "Angelababy邓超去看陈赫话剧",
-      "onboard_time": 1775605701,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 247025,
+      "num": 151698,
+      "word": "伊朗公布10项停战条款主要内容",
+      "onboard_time": 1775610381,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238400,
@@ -147,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236072,
+      "num": 149429,
+      "word": "高铁上感受世界的参差",
+      "onboard_time": 1775614999,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234782,
       "num": 117956,
       "word": "伊朗关闭与美国所有外交渠道",
@@ -155,20 +235,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228662,
+      "num": 228662,
+      "word": "女子称休完产假公司没了",
+      "onboard_time": 1775576602,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226088,
+      "num": 148098,
+      "word": "肖战魏大勋胡先煦十日终焉F3",
+      "onboard_time": 1775613920,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222918,
       "num": 537059,
       "word": "美绕月飞船1.5亿厕所已瘫痪",
       "onboard_time": 1775576661,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216740,
-      "num": 216740,
-      "word": "女子称休完产假公司没了",
-      "onboard_time": 1775576602,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202849,
@@ -211,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170305,
+      "num": 147360,
+      "word": "黄金",
+      "onboard_time": 1775606782,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169845,
       "num": 154502,
       "word": "猪八戒扮演者马德华将送别陈丽华",
@@ -243,6 +339,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164729,
+      "num": 144342,
+      "word": "网传一公淘汰张艺上温峥嵘",
+      "onboard_time": 1775607081,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163567,
+      "num": 143321,
+      "word": "全国仅存1只的百岁斑鳖现身",
+      "onboard_time": 1775606422,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161419,
+      "num": 141765,
+      "word": "秋瓷炫儿子要学中英韩三门语言",
+      "onboard_time": 1775615782,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160486,
+      "num": 160486,
+      "word": "一种很新的种瓜得瓜种豆得豆",
+      "onboard_time": 1775613260,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153248,
       "num": 153248,
       "word": "吴慷仁演技",
@@ -259,12 +387,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 140487,
+      "num": 140487,
+      "word": "思文老公",
+      "onboard_time": 1775607922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139366,
       "num": 99257,
       "word": "伊朗威胁切断美国及其盟友石油供应",
       "onboard_time": 1775584276,
       "rank": 26,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139196,
+      "num": 139196,
+      "word": "男子性骚扰遭反抗后杀人抛尸",
+      "onboard_time": 1775606901,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135215,
@@ -307,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122797,
+      "num": 122797,
+      "word": "代露娃赖伟明宝珠开机",
+      "onboard_time": 1775616920,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121652,
       "num": 105903,
       "word": "虞书欣跳了进行曲",
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120320,
+      "num": 97823,
+      "word": "泰国女子向19岁女同事泼滚烫热油",
+      "onboard_time": 1775616501,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119824,
@@ -336,6 +496,14 @@
       "word": "迟重瑞说不畏惧陈丽华的强",
       "onboard_time": 1775568743,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107403,
+      "num": 107403,
+      "word": "阚清子初舞台后狂炫麻辣烫",
+      "onboard_time": 1775612720,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -363,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98116,
+      "num": 98116,
+      "word": "粉丝不知道自己抱的就是陈丽君",
+      "onboard_time": 1775610202,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94003,
       "num": 94003,
       "word": "杨汝晴在节目里立遗嘱",
       "onboard_time": 1775605942,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89872,
+      "num": 89872,
+      "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
+      "onboard_time": 1775614579,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88628,
@@ -379,12 +563,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88201,
+      "num": 88201,
+      "word": "国际油价盘中暴跌近20%",
+      "onboard_time": 1775614522,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 87546,
+      "num": 87546,
+      "word": "中乌签署乌克兰小麦粉输华议定书",
+      "onboard_time": 1775613081,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86683,
       "num": 86683,
       "word": "莫氏鸡煲现场惊现超级大公鸡",
       "onboard_time": 1775606543,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86673,
+      "num": 86673,
+      "word": "五哈后期已经学会用AI做特效了",
+      "onboard_time": 1775614522,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85416,
+      "num": 85416,
+      "word": "思虑过重的人一定要自救",
+      "onboard_time": 1775611641,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82865,
+      "num": 145418,
+      "word": "伊朗说对美国完全不信任",
+      "onboard_time": 1775616200,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82533,
+      "num": 82533,
+      "word": "中国军号发硬核视频",
+      "onboard_time": 1775615899,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 81748,
@@ -395,12 +627,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81332,
+      "num": 81332,
+      "word": "为弟追凶近30年姐姐对女儿很愧疚",
+      "onboard_time": 1775613620,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79799,
       "num": 79799,
       "word": "欧冠联赛",
       "onboard_time": 1775597115,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77703,
+      "num": 77703,
+      "word": "男子逆行堵死单行道后潇洒吃饭",
+      "onboard_time": 1775616260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76013,
+      "num": 76013,
+      "word": "女乘客光脚踩扶手箱对司机说洗过了",
+      "onboard_time": 1775610381,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 75932,
+      "num": 75932,
+      "word": "感觉这个世界真的有bug",
+      "onboard_time": 1775614522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 72098,
@@ -411,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71481,
+      "num": 71481,
+      "word": "A股港股猛涨",
+      "onboard_time": 1775613861,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71467,
       "num": 57926,
       "word": "伊朗军方回应小女孩粉色导弹请求",
@@ -419,12 +691,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70449,
+      "num": 70449,
+      "word": "霍尔木兹海峡将开放2周",
+      "onboard_time": 1775606481,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69519,
+      "num": 69519,
+      "word": "万一是小猫抓回来自己晒的呢",
+      "onboard_time": 1775612481,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69352,
       "num": 69352,
       "word": "伊朗人这样做回应特朗普恐吓",
       "onboard_time": 1775578460,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68797,
+      "num": 68797,
+      "word": "网传孔雪儿我消失的第十年女主",
+      "onboard_time": 1775609483,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 67564,
@@ -443,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65681,
+      "num": 65681,
+      "word": "伊朗提交给美国的核心内容",
+      "onboard_time": 1775608523,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65396,
       "num": 64405,
       "word": "辛巴朋友圈吐槽被五次退网",
       "onboard_time": 1775576061,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 65340,
+      "num": 65340,
+      "word": "王皓儿子隔屏投喂王楚钦",
+      "onboard_time": 1775616200,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 64062,
@@ -475,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60752,
-      "num": 60752,
-      "word": "全国仅存1只的百岁斑鳖现身",
-      "onboard_time": 1775606422,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60244,
       "num": 60244,
       "word": "曾沛慈热度断层第一",
@@ -504,14 +808,6 @@
       "word": "伊朗对美以发动第99波打击",
       "onboard_time": 1775559861,
       "rank": 27,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 57626,
-      "num": 57626,
-      "word": "霍尔木兹海峡将开放2周",
-      "onboard_time": 1775606481,
-      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -555,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51517,
+      "num": 159960,
+      "word": "游客吐槽洛阳售卖牙签固定断头牡丹",
+      "onboard_time": 1775616320,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50002,
       "num": 52939,
       "word": "卡塔尔警告中东接近失控临界点",
@@ -577,6 +881,14 @@
       "onboard_time": 1775548761,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46848,
+      "num": 65268,
+      "word": "中国成功发射一箭18星",
+      "onboard_time": 1775574622,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43891,
@@ -699,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20588,
+      "num": 683998,
+      "word": "从超3亿元退费看民生保障力度",
+      "onboard_time": 1775616501,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19229,
       "num": 25391,
       "word": "周深演唱苏超MV",
@@ -721,6 +1041,9 @@
     },
     {
       "word": "#努力创造经得起实践人民历史检验的实绩#"
+    },
+    {
+      "word": "#习近平致电祝贺苏林#"
     }
   ]
 }

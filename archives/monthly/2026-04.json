@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775606562181,
+  "endTime": 1775617030326,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -241,6 +241,14 @@
       "onboard_time": 1775190743,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1454340,
+      "num": 158972,
+      "word": "徐艺洋回应黄子韬身体状况",
+      "onboard_time": 1775611580,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1448123,
@@ -681,6 +689,14 @@
       "onboard_time": 1775575223,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 908154,
+      "num": 1145304,
+      "word": "店主回应因博主吃12个汉堡报警",
+      "onboard_time": 1775614281,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 904575,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1775373202,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554428,
+      "num": 155667,
+      "word": "倪虹洁1个人要赡养5个老人",
+      "onboard_time": 1775610622,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 550232,
@@ -2699,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402190,
+      "num": 402190,
+      "word": "伊美双方停火生效",
+      "onboard_time": 1775607382,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 402185,
       "num": 174835,
       "word": "芒果去买够爱版权吧",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1775364861,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392261,
+      "num": 154425,
+      "word": "以色列仍在持续打击伊朗",
+      "onboard_time": 1775612841,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392165,
@@ -3137,6 +3177,14 @@
       "onboard_time": 1775006003,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 365140,
+      "num": 851805,
+      "word": "郑丽文率中国国民党访问团拜谒中山陵",
+      "onboard_time": 1775614999,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364036,
@@ -3616,6 +3664,14 @@
       "word": "女子长期虐待2岁儿子还拍视频",
       "onboard_time": 1775386643,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322114,
+      "num": 322114,
+      "word": "妻子称上班11天死亡丈夫不抱怨工作",
+      "onboard_time": 1775614880,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -4105,6 +4161,14 @@
       "onboard_time": 1775380159,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292338,
+      "num": 292338,
+      "word": "贝多芬止痛药",
+      "onboard_time": 1775612362,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 292308,
@@ -4643,6 +4707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265771,
+      "num": 187300,
+      "word": "Angelababy邓超去看陈赫话剧",
+      "onboard_time": 1775605701,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264958,
       "num": 264958,
       "word": "全网最不想火鸡煲店老板称准备倒闭了",
@@ -4987,20 +5059,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247025,
+      "num": 151698,
+      "word": "伊朗公布10项停战条款主要内容",
+      "onboard_time": 1775610381,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246338,
       "num": 129832,
       "word": "黄灿灿表情",
       "onboard_time": 1775258599,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245994,
-      "num": 187300,
-      "word": "Angelababy邓超去看陈赫话剧",
-      "onboard_time": 1775605701,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 245056,
@@ -5219,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236072,
+      "num": 149429,
+      "word": "高铁上感受世界的参差",
+      "onboard_time": 1775614999,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235911,
       "num": 235911,
       "word": "莫氏鸡煲爆火后的离谱现状",
@@ -5403,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228662,
+      "num": 228662,
+      "word": "女子称休完产假公司没了",
+      "onboard_time": 1775576602,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "张凌赫改了自动回复",
@@ -5449,6 +5537,14 @@
       "onboard_time": 1775017706,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226088,
+      "num": 148098,
+      "word": "肖战魏大勋胡先煦十日终焉F3",
+      "onboard_time": 1775613920,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 225609,
@@ -5689,14 +5785,6 @@
       "onboard_time": 1775453841,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216740,
-      "num": 216740,
-      "word": "女子称休完产假公司没了",
-      "onboard_time": 1775576602,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216507,
@@ -7419,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164729,
+      "num": 144342,
+      "word": "网传一公淘汰张艺上温峥嵘",
+      "onboard_time": 1775607081,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164468,
       "num": 164468,
       "word": "云合",
@@ -7473,6 +7569,14 @@
       "onboard_time": 1775304264,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163567,
+      "num": 143321,
+      "word": "全国仅存1只的百岁斑鳖现身",
+      "onboard_time": 1775606422,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163454,
@@ -7627,6 +7731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161419,
+      "num": 141765,
+      "word": "秋瓷炫儿子要学中英韩三门语言",
+      "onboard_time": 1775615782,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161356,
       "num": 161356,
       "word": "最全的布洛芬品种都在曹操墓前了",
@@ -7673,6 +7785,14 @@
       "onboard_time": 1775100081,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160486,
+      "num": 160486,
+      "word": "一种很新的种瓜得瓜种豆得豆",
+      "onboard_time": 1775613260,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 160410,
@@ -8555,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140487,
+      "num": 140487,
+      "word": "思文老公",
+      "onboard_time": 1775607922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140304,
       "num": 140304,
       "word": "严屹宽曝张凌赫挨鞭子真打了108次",
@@ -8640,6 +8768,14 @@
       "word": "1元公交雨中喷水乘客说体谅体谅",
       "onboard_time": 1775567722,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139196,
+      "num": 139196,
+      "word": "男子性骚扰遭反抗后杀人抛尸",
+      "onboard_time": 1775606901,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -9739,6 +9875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122797,
+      "num": 122797,
+      "word": "代露娃赖伟明宝珠开机",
+      "onboard_time": 1775616920,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122721,
       "num": 122721,
       "word": "伊朗称霍尔木兹海峡再也回不到从前",
@@ -10033,6 +10177,14 @@
       "onboard_time": 1775194161,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120320,
+      "num": 97823,
+      "word": "泰国女子向19岁女同事泼滚烫热油",
+      "onboard_time": 1775616501,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120310,
@@ -11099,6 +11251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107403,
+      "num": 107403,
+      "word": "阚清子初舞台后狂炫麻辣烫",
+      "onboard_time": 1775612720,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107388,
       "num": 107388,
       "word": "抗拒流量的鸡煲老板开始接广告了",
@@ -12145,6 +12305,14 @@
       "onboard_time": 1775404402,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98116,
+      "num": 98116,
+      "word": "粉丝不知道自己抱的就是陈丽君",
+      "onboard_time": 1775610202,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 98101,
@@ -13227,6 +13395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89872,
+      "num": 89872,
+      "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
+      "onboard_time": 1775614579,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89863,
       "num": 89863,
       "word": "郭焱说王楚钦太牛了",
@@ -13563,6 +13739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88201,
+      "num": 88201,
+      "word": "国际油价盘中暴跌近20%",
+      "onboard_time": 1775614522,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88178,
       "num": 130306,
       "word": "女子坠崖爱犬独守原地整整7天",
@@ -13691,6 +13875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87546,
+      "num": 87546,
+      "word": "中乌签署乌克兰小麦粉输华议定书",
+      "onboard_time": 1775613081,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87528,
       "num": 87528,
       "word": "两广地区的祭祖有多夸张",
@@ -13801,6 +13993,14 @@
       "onboard_time": 1775606543,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86673,
+      "num": 86673,
+      "word": "五哈后期已经学会用AI做特效了",
+      "onboard_time": 1775614522,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 86645,
@@ -14073,6 +14273,14 @@
       "onboard_time": 1775099781,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85416,
+      "num": 85416,
+      "word": "思虑过重的人一定要自救",
+      "onboard_time": 1775611641,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 85405,
@@ -14523,6 +14731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82865,
+      "num": 145418,
+      "word": "伊朗说对美国完全不信任",
+      "onboard_time": 1775616200,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "郭富城小女儿近照",
@@ -14545,6 +14761,14 @@
       "onboard_time": 1775289080,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82533,
+      "num": 82533,
+      "word": "中国军号发硬核视频",
+      "onboard_time": 1775615899,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 82396,
@@ -14721,6 +14945,14 @@
       "onboard_time": 1775381301,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81332,
+      "num": 81332,
+      "word": "为弟追凶近30年姐姐对女儿很愧疚",
+      "onboard_time": 1775613620,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81322,
@@ -15331,6 +15563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 77703,
+      "num": 77703,
+      "word": "男子逆行堵死单行道后潇洒吃饭",
+      "onboard_time": 1775616260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77690,
       "num": 77690,
       "word": "肖战花絮照",
@@ -15643,6 +15883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76013,
+      "num": 76013,
+      "word": "女乘客光脚踩扶手箱对司机说洗过了",
+      "onboard_time": 1775610381,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 76000,
       "num": 76000,
       "word": "陈幸同无缘世界杯四强",
@@ -15665,6 +15913,14 @@
       "onboard_time": 1775300482,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75932,
+      "num": 75932,
+      "word": "感觉这个世界真的有bug",
+      "onboard_time": 1775614522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 75914,
@@ -16347,6 +16603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71481,
+      "num": 71481,
+      "word": "A股港股猛涨",
+      "onboard_time": 1775613861,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71467,
       "num": 57926,
       "word": "伊朗军方回应小女孩粉色导弹请求",
@@ -16555,6 +16819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70449,
+      "num": 70449,
+      "word": "霍尔木兹海峡将开放2周",
+      "onboard_time": 1775606481,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70427,
       "num": 70427,
       "word": "Claude Code源码意外泄露",
@@ -16707,6 +16979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69519,
+      "num": 69519,
+      "word": "万一是小猫抓回来自己晒的呢",
+      "onboard_time": 1775612481,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69491,
       "num": 69491,
       "word": "白日提灯热度涨幅",
@@ -16841,6 +17121,14 @@
       "onboard_time": 1775469201,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68797,
+      "num": 68797,
+      "word": "网传孔雪儿我消失的第十年女主",
+      "onboard_time": 1775609483,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 68792,
@@ -17235,6 +17523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65681,
+      "num": 65681,
+      "word": "伊朗提交给美国的核心内容",
+      "onboard_time": 1775608523,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65642,
       "num": 82033,
       "word": "万千惠科班出身",
@@ -17265,6 +17561,14 @@
       "onboard_time": 1775226863,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65340,
+      "num": 65340,
+      "word": "王皓儿子隔屏投喂王楚钦",
+      "onboard_time": 1775616200,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65163,
@@ -17851,14 +18155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60752,
-      "num": 60752,
-      "word": "全国仅存1只的百岁斑鳖现身",
-      "onboard_time": 1775606422,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60726,
       "num": 87422,
       "word": "丈夫离婚前挥霍百万算作已分得财产",
@@ -18225,14 +18521,6 @@
       "onboard_time": 1775171958,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57626,
-      "num": 57626,
-      "word": "霍尔木兹海峡将开放2周",
-      "onboard_time": 1775606481,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57542,
@@ -18675,6 +18963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51517,
+      "num": 159960,
+      "word": "游客吐槽洛阳售卖牙签固定断头牡丹",
+      "onboard_time": 1775616320,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51154,
       "num": 54031,
       "word": "市委书记随行学生徒步祭英烈",
@@ -18969,6 +19265,14 @@
       "onboard_time": 1775405302,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46848,
+      "num": 65268,
+      "word": "中国成功发射一箭18星",
+      "onboard_time": 1775574622,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46818,
@@ -20315,6 +20619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20588,
+      "num": 683998,
+      "word": "从超3亿元退费看民生保障力度",
+      "onboard_time": 1775616501,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20580,
       "num": 31458,
       "word": "鞠婧祎露芜衣晋江演技",
@@ -20858,6 +21170,9 @@
     },
     {
       "word": "#习近平祝贺四所交通大学建校130周年#"
+    },
+    {
+      "word": "#习近平致电祝贺苏林#"
     }
   ]
 }
