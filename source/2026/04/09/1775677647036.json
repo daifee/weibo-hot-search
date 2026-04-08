@@ -1,0 +1,410 @@
+{
+  "runTime": 1775677647036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 44529,
+        "num": 45170,
+        "word": "不假唱 不怯场 不做作 不好听",
+        "onboard_time": 1775659702,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34858,
+        "num": 34858,
+        "word": "樊振东放弃伦敦世乒赛资格",
+        "onboard_time": 1775650461,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12484,
+        "num": 30356,
+        "word": "清明假期文旅成绩单出炉",
+        "onboard_time": 1775652322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 30266,
+        "word": "以军大规模空袭致黎巴嫩89死722伤",
+        "onboard_time": 1775668397,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56726,
+        "num": 29445,
+        "word": "伊媒称伊朗或因黎遭袭结束临时停火",
+        "onboard_time": 1775663300,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27998,
+        "num": 27998,
+        "word": "中方回应朝鲜连续2天发射弹道导弹",
+        "onboard_time": 1775658443,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27522,
+        "num": 27522,
+        "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
+        "onboard_time": 1775660663,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23474,
+        "num": 23474,
+        "word": "浪姐倒数第一竞争太激烈了",
+        "onboard_time": 1775657062,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22803,
+        "num": 22803,
+        "word": "楚乔传",
+        "onboard_time": 1775659223,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22070,
+        "num": 22070,
+        "word": "日本73岁老人来中国求职",
+        "onboard_time": 1775650821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53147,
+        "num": 22069,
+        "word": "金靖说明显感觉到张凌赫太火了",
+        "onboard_time": 1775660783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34257,
+        "num": 22068,
+        "word": "以色列空袭黎首都",
+        "onboard_time": 1775659463,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33455,
+        "num": 22068,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33316,
+        "num": 22067,
+        "word": "以色列希望战事再持续至少1个月",
+        "onboard_time": 1775662103,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28680,
+        "num": 22067,
+        "word": "李佳琦说可能缺席两个季度直播",
+        "onboard_time": 1775658862,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24187,
+        "num": 22066,
+        "word": "以色列空袭致黎数百人死伤",
+        "onboard_time": 1775668697,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 22065,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 19372,
+        "word": "上报78亿实际到账不足1亿",
+        "onboard_time": 1775655981,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19031,
+        "num": 19031,
+        "word": "国际油价暴跌",
+        "onboard_time": 1775666896,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18456,
+        "num": 18456,
+        "word": "浪姐白买版权",
+        "onboard_time": 1775651421,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555848,
+        "num": 18403,
+        "word": "金子涵直播疑似求救",
+        "onboard_time": 1775669296,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22409,
+        "num": 18334,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 18266,
+        "word": "女子海景房择菜听到了鲸鱼叫",
+        "onboard_time": 1775658142,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18068,
+        "num": 18068,
+        "word": "NCT",
+        "onboard_time": 1775661683,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16965,
+        "num": 16965,
+        "word": "时代峰峻声明",
+        "onboard_time": 1775652022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139240,
+        "num": 16940,
+        "word": "金子涵手臂",
+        "onboard_time": 1775672534,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16641,
+        "num": 16641,
+        "word": "家事法庭",
+        "onboard_time": 1775670736,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16051,
+        "num": 16051,
+        "word": "钢铁森林",
+        "onboard_time": 1775657303,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15988,
+        "num": 15988,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15967,
+        "num": 15967,
+        "word": "田曦薇活动发言",
+        "onboard_time": 1775665459,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20077,
+        "num": 15963,
+        "word": "中俄提出霍尔木兹海峡问题决议草案",
+        "onboard_time": 1775659942,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15774,
+        "num": 15945,
+        "word": "美伊都宣称赢了那谁输了",
+        "onboard_time": 1775661624,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16594,
+        "num": 15921,
+        "word": "中方回应是否直接参与达成停火协议",
+        "onboard_time": 1775670137,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16066,
+        "num": 15888,
+        "word": "美国一女副市长被枪杀",
+        "onboard_time": 1775663722,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15887,
+        "num": 15887,
+        "word": "美伊宣布停火后伊朗称一炼油厂遭袭",
+        "onboard_time": 1775658683,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15822,
+        "num": 15822,
+        "word": "浪姐",
+        "onboard_time": 1775652922,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15131,
+        "num": 15820,
+        "word": "小狗近视主人花800元给定制眼镜",
+        "onboard_time": 1775658263,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14798,
+        "num": 15816,
+        "word": "黄金涨跌逻辑变了",
+        "onboard_time": 1775653942,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14730,
+        "num": 15808,
+        "word": "大麦发了王俊凯",
+        "onboard_time": 1775657964,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14488,
+        "num": 15803,
+        "word": "五哈6口碑",
+        "onboard_time": 1775663061,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14345,
+        "num": 15795,
+        "word": "NCT十周年预告",
+        "onboard_time": 1775661862,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14203,
+        "num": 15789,
+        "word": "多地有10级雷暴大风",
+        "onboard_time": 1775664860,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13638,
+        "num": 15781,
+        "word": "长大后才意识到父母有多厉害",
+        "onboard_time": 1775656823,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13590,
+        "num": 15781,
+        "word": "吃了会肠胃胀气的食物",
+        "onboard_time": 1775654303,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13218,
+        "num": 15772,
+        "word": "张真源说呼安和名字一样能睡",
+        "onboard_time": 1775675955,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12475,
+        "num": 15765,
+        "word": "杨幂冯湮儿路透",
+        "onboard_time": 1775655203,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12337,
+        "num": 15762,
+        "word": "肖战十日终焉开通官方账号",
+        "onboard_time": 1775669536,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12155,
+        "num": 15756,
+        "word": "桃花坞",
+        "onboard_time": 1775651120,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11956,
+        "num": 15751,
+        "word": "徐若晗拍的沈月",
+        "onboard_time": 1775663180,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11498,
+        "num": 15743,
+        "word": "荣耀张雪机车战略合作",
+        "onboard_time": 1775656402,
+        "rank": 49,
+        "category": "数码,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#以崭新政治面貌迎接建军一百周年#"
+    }
+  }
+}
