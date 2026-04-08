@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 17:45:36
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 19:06:41
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E6%9C%80%E6%8B%89%E7%9A%84%E8%8F%9C%23" target="weibo">
+麻辣烫里最拉的菜（热度：640403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%20%E8%B7%91%E8%B0%83%23" target="weibo">
 江语晨 跑调（热度：639685）
 </a>
@@ -1161,6 +1167,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%AE%98%E5%BE%AE%20%E7%94%A8%E6%88%B71231%23" target="weibo">
+十日终焉官微 用户1231（热度：610813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%85%89%E6%A0%87%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E8%A6%81%E5%8D%96%E8%BD%A6%23" target="weibo">
 陈光标回应张雪要卖车（热度：610609）
 </a>
@@ -1241,6 +1253,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%84%9A%E4%BA%BA%E8%8A%82%E6%84%9A%E4%BA%BA%E6%89%8B%E6%B3%95%23" target="weibo">
 胡先煦顶级的愚人节愚人手法（热度：589987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+电费刺客找到了（热度：589987）
 </a>
 </li>
 
@@ -1331,6 +1349,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%99%B9%E6%B4%811%E4%B8%AA%E4%BA%BA%E8%A6%81%E8%B5%A1%E5%85%BB5%E4%B8%AA%E8%80%81%E4%BA%BA%23" target="weibo">
 倪虹洁1个人要赡养5个老人（热度：554428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%E7%AC%AC%E4%B8%80%E4%B8%87%E5%85%B3%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+开心消消乐第一万关的含金量（热度：554301）
 </a>
 </li>
 
@@ -1523,6 +1547,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E8%8C%B5%E6%9A%B4%E7%98%A6%23" target="weibo">
 余茵暴瘦（热度：517997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%89%E4%B8%87%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
+伊朗拉万炼油厂发生爆炸（热度：515651）
 </a>
 </li>
 
@@ -1739,12 +1769,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%23" target="weibo">
 蓝莓（热度：476330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E6%9C%80%E6%8B%89%E7%9A%84%E8%8F%9C%23" target="weibo">
-麻辣烫里最拉的菜（热度：476293）
 </a>
 </li>
 
@@ -3225,12 +3249,6 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%89%E4%B8%87%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
-伊朗拉万炼油厂发生爆炸（热度：303202）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E7%B2%BE%E6%B6%B2%E5%88%B6%E6%88%90%E7%9A%84%E7%9C%BC%E8%8D%AF%E6%B0%B4%E5%8F%AF%E6%B2%BB%E7%96%97%E7%9C%BC%E8%82%BF%E7%98%A4%23" target="weibo">
 猪精液制成的眼药水可治疗眼肿瘤（热度：302950）
 </a>
@@ -3921,6 +3939,12 @@ Angelababy邓超去看陈赫话剧（热度：265771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B0%86%E4%B8%8A%E7%BA%BF%E6%92%AD%E6%94%BE%E9%A1%B5%E6%9A%82%E5%81%9C%E5%B9%BF%E5%91%8A%23" target="weibo">
+B站将上线播放页暂停广告（热度：257616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9D%90%E4%B8%80%E5%A4%A9400%E4%BB%96%E8%BA%BA%E4%B8%80%E5%A4%A9500%23" target="weibo">
 我坐一天400他躺一天500（热度：257574）
 </a>
@@ -4067,6 +4091,12 @@ JDG对战WB（热度：248725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%8F%8C%23" target="weibo">
 王者荣耀无双（热度：247995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%AE%B6%E7%BE%8E%E5%A4%A7%E5%B4%BD%E5%8E%BB%E4%B8%96%23" target="weibo">
+大熊猫家美大崽去世（热度：247928）
 </a>
 </li>
 
@@ -4535,6 +4565,12 @@ TES对战iG（热度：227602）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%95%E6%9C%88%E9%A3%9E%E8%88%B91.5%E4%BA%BF%E5%8E%95%E6%89%80%E5%B7%B2%E7%98%AB%E7%97%AA%23" target="weibo">
 美绕月飞船1.5亿厕所已瘫痪（热度：222918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E4%B8%89%E5%AD%A3%E8%BF%9E%E6%8B%8D%23" target="weibo">
+肖战十日终焉三季连拍（热度：221543）
 </a>
 </li>
 
@@ -5193,6 +5229,12 @@ Tian哭了（热度：195516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%B2%E6%89%BF%E6%94%B9%E6%B4%BB%E5%8A%A8%E5%90%8D%23" target="weibo">
+李羲承改活动名（热度：194183）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%81%B7%E5%81%B7%E6%8A%B9%E6%B3%AA%23" target="weibo">
 王皓偷偷抹泪（热度：194036）
 </a>
@@ -5363,6 +5405,12 @@ WB对战KSG（热度：189634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AC%ACN%E6%AC%A1%E5%9B%BD%E9%99%85%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%81%A5%E5%B0%86%23" target="weibo">
 王楚钦孙颖莎第N次国际级运动健将（热度：188595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%A2%E6%9C%AA%E8%84%B1%E7%A8%BF%E8%A2%AB%E8%B5%B5%E5%85%86%E7%8B%A0%E6%89%B9%23" target="weibo">
+阚清子团未脱稿被赵兆狠批（热度：188468）
 </a>
 </li>
 
@@ -5963,54 +6011,6 @@ Wayward曝369休息原因（热度：165389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E7%AB%99%E4%BD%8D%23" target="weibo">
 月鳞绮纪站位（热度：165187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%89%93%E5%AE%8C%E6%AF%94%E8%B5%9B%E5%8F%88%E5%8E%BB%E5%8A%A0%E7%BB%83%23" target="weibo">
-王楚钦打完比赛又去加练（热度：165155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%85%AC%E6%B7%98%E6%B1%B0%E5%BC%A0%E8%89%BA%E4%B8%8A%E6%B8%A9%E5%B3%A5%E5%B5%98%23" target="weibo">
-网传一公淘汰张艺上温峥嵘（热度：164729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%90%88%23" target="weibo">
-云合（热度：164468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E5%E6%AF%9411%E9%AB%98%E8%BE%BE%23" target="weibo">
-孙颖莎5比11高达（热度：164448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%AF%E4%BA%92%E5%85%B3%23" target="weibo">
-曾沛慈赵丽颖是互关（热度：164418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23" target="weibo">
-蔡磊进入渐冻症终末期（热度：164133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%B4%E7%94%9C%E7%BE%9E%E8%80%BB%E7%97%87%23" target="weibo">
-嘴甜羞耻症（热度：164069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%8F%A0%E6%B3%AB%E5%9B%9E%E5%BD%92%E9%80%80%E6%AD%A5%23" target="weibo">
-裴珠泫回归退步（热度：163824）
 </a>
 </li>
 
