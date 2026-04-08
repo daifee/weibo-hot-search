@@ -1,0 +1,410 @@
+{
+  "runTime": 1775668472731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 224653,
+        "num": 520128,
+        "word": "不假唱 不怯场 不做作 不好听",
+        "onboard_time": 1775659702,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128319,
+        "num": 367864,
+        "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
+        "onboard_time": 1775660663,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26505,
+        "num": 290824,
+        "word": "清明假期文旅成绩单出炉",
+        "onboard_time": 1775652322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307641,
+        "num": 246667,
+        "word": "伊媒称伊朗或因黎遭袭结束临时停火",
+        "onboard_time": 1775663300,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "以色列空袭黎首都",
+        "onboard_time": 1775659463,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147115,
+        "num": 147115,
+        "word": "浪姐倒数第一竞争太激烈了",
+        "onboard_time": 1775657062,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110170,
+        "num": 110170,
+        "word": "多地有10级雷暴大风",
+        "onboard_time": 1775664860,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "楚乔传",
+        "onboard_time": 1775659223,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105768,
+        "num": 105768,
+        "word": "樊振东放弃伦敦世乒赛资格",
+        "onboard_time": 1775650461,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64144,
+        "num": 105533,
+        "word": "中方回应朝鲜连续2天发射弹道导弹",
+        "onboard_time": 1775658443,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291454,
+        "num": 105122,
+        "word": "金靖说明显感觉到张凌赫太火了",
+        "onboard_time": 1775660783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115290,
+        "num": 104876,
+        "word": "李佳琦说可能缺席两个季度直播",
+        "onboard_time": 1775658862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108862,
+        "num": 104593,
+        "word": "浪姐白买版权",
+        "onboard_time": 1775651421,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104450,
+        "num": 104450,
+        "word": "田曦薇活动发言",
+        "onboard_time": 1775665459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98003,
+        "num": 98003,
+        "word": "NCT",
+        "onboard_time": 1775661683,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95066,
+        "num": 95066,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87086,
+        "num": 87086,
+        "word": "以色列希望战事再持续至少1个月",
+        "onboard_time": 1775662103,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51862,
+        "num": 51862,
+        "word": "日本73岁老人来中国求职",
+        "onboard_time": 1775650821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51346,
+        "num": 51346,
+        "word": "小狗近视主人花800元给定制眼镜",
+        "onboard_time": 1775658263,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44779,
+        "num": 51321,
+        "word": "美伊都宣称赢了那谁输了",
+        "onboard_time": 1775661624,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 680739,
+        "num": 51203,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72182,
+        "num": 51124,
+        "word": "徐若晗拍的沈月",
+        "onboard_time": 1775663180,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66188,
+        "num": 51065,
+        "word": "NCT十周年预告",
+        "onboard_time": 1775661862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58846,
+        "num": 50904,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57185,
+        "num": 50845,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50809,
+        "num": 50809,
+        "word": "王安宇去音综了",
+        "onboard_time": 1775666538,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50452,
+        "num": 50452,
+        "word": "时代峰峻声明",
+        "onboard_time": 1775652022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46922,
+        "num": 46922,
+        "word": "五哈6口碑",
+        "onboard_time": 1775663061,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45401,
+        "num": 45401,
+        "word": "吃了会肠胃胀气的食物",
+        "onboard_time": 1775654303,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43337,
+        "num": 45126,
+        "word": "女子海景房择菜听到了鲸鱼叫",
+        "onboard_time": 1775658142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71582,
+        "num": 45072,
+        "word": "以军大规模空袭致黎巴嫩89死722伤",
+        "onboard_time": 1775668397,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44881,
+        "num": 44881,
+        "word": "美国一女副市长被枪杀",
+        "onboard_time": 1775663722,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43486,
+        "num": 43486,
+        "word": "赵丽颖版楚乔传",
+        "onboard_time": 1775655621,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42486,
+        "num": 42486,
+        "word": "国际油价暴跌",
+        "onboard_time": 1775666896,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41784,
+        "num": 41784,
+        "word": "黄金涨跌逻辑变了",
+        "onboard_time": 1775653942,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40916,
+        "num": 40916,
+        "word": "长大后才意识到父母有多厉害",
+        "onboard_time": 1775656823,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39043,
+        "num": 39043,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38717,
+        "num": 38717,
+        "word": "蔡依林听了连夜收回版权",
+        "onboard_time": 1775661083,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37362,
+        "num": 37362,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35950,
+        "num": 35950,
+        "word": "大麦发了王俊凯",
+        "onboard_time": 1775657964,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35907,
+        "num": 35907,
+        "word": "范玮琪和声",
+        "onboard_time": 1775667739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35182,
+        "num": 35182,
+        "word": "中俄提出霍尔木兹海峡问题决议草案",
+        "onboard_time": 1775659942,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34751,
+        "num": 34751,
+        "word": "浪姐",
+        "onboard_time": 1775652922,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34516,
+        "num": 34516,
+        "word": "康师傅再来一瓶被指无法兑奖",
+        "onboard_time": 1775662642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34438,
+        "num": 34438,
+        "word": "杨幂冯湮儿路透",
+        "onboard_time": 1775655203,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33475,
+        "num": 33475,
+        "word": "荣耀张雪机车战略合作",
+        "onboard_time": 1775656402,
+        "rank": 45,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 32813,
+        "num": 32813,
+        "word": "钢铁森林",
+        "onboard_time": 1775657303,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32680,
+        "num": 32680,
+        "word": "周杰伦给王俊凯杨迪变魔术",
+        "onboard_time": 1775654843,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31997,
+        "num": 31997,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31075,
+        "num": 31075,
+        "word": "上报78亿实际到账不足1亿",
+        "onboard_time": 1775655981,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}

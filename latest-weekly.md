@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/05 00:45:18 ~ 2026/04/08 23:55:25
+本榜单时间：2026/04/05 00:45:18 ~ 2026/04/09 01:14:32
 </p>
 </blockquote>
 <p>
@@ -483,6 +483,12 @@ SEVENTEEN全员续约（热度：850827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+金子涵说的是谁（热度：680739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%A4%9A%E5%9B%BD%E9%81%AD%E8%A2%AD%23" target="weibo">
 海湾多国遭袭（热度：677627）
 </a>
@@ -881,12 +887,6 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%A2%AB%E4%BC%A0%E9%81%AD%E6%96%87%E6%97%85%E6%96%BD%E5%8E%8B%E5%BC%80%E9%97%A8%E8%90%A5%E4%B8%9A%23" target="weibo">
 莫氏鸡煲被传遭文旅施压开门营业（热度：461974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
-金子涵说的是谁（热度：454834）
 </a>
 </li>
 
@@ -1607,6 +1607,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E7%8E%B0%E5%81%B6%23" target="weibo">
 孟子义 现偶（热度：307872）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%96%E5%9B%A0%E9%BB%8E%E9%81%AD%E8%A2%AD%E7%BB%93%E6%9D%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB%23" target="weibo">
+伊媒称伊朗或因黎遭袭结束临时停火（热度：307641）
 </a>
 </li>
 
@@ -4473,6 +4479,12 @@ TF五代数据组替小孩道歉（热度：110526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%9C%8910%E7%BA%A7%E9%9B%B7%E6%9A%B4%E5%A4%A7%E9%A3%8E%23" target="weibo">
+多地有10级雷暴大风（热度：110170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E7%88%86%E7%81%AB%E9%B8%A1%E6%B2%A1%E6%96%AD%E8%B4%A7%E9%85%92%E5%85%88%E6%B2%A1%E4%BA%86%23" target="weibo">
 莫氏鸡煲爆火鸡没断货酒先没了（热度：110132）
 </a>
@@ -4709,6 +4721,12 @@ ALD1 七人团（热度：104607）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%BF%83%E7%AB%A56%E5%86%A0%E5%B9%B6%E5%88%97%E5%8F%B2%E4%B8%8A%E7%AC%AC17%E4%BD%8D%23" target="weibo">
 赵心童6冠并列史上第17位（热度：104462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%B4%BB%E5%8A%A8%E5%8F%91%E8%A8%80%23" target="weibo">
+田曦薇活动发言（热度：104450）
 </a>
 </li>
 
@@ -5033,12 +5051,6 @@ B站董事长曾承诺新番无广告（热度：100945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%90%B4%E6%85%B7%E4%BB%81%E6%BC%94%E6%8A%80%20%E9%AB%98%E6%89%8B%E8%BF%87%E6%8B%9B%23" target="weibo">
 孙俪吴慷仁演技 高手过招（热度：98211）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%96%E5%9B%A0%E9%BB%8E%E9%81%AD%E8%A2%AD%E7%BB%93%E6%9D%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB%23" target="weibo">
-伊媒称伊朗或因黎遭袭结束临时停火（热度：98118）
 </a>
 </li>
 
@@ -6663,6 +6675,12 @@ iPhoneFold再曝渲染图（热度：75655）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A989%E6%AD%BB722%E4%BC%A4%23" target="weibo">
+以军大规模空袭致黎巴嫩89死722伤（热度：71582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E9%9D%A2%E9%A6%86%E5%90%83%E9%9D%A2%E9%A1%BA%E8%B5%B0%E5%A4%A7%E5%8D%8A%E7%BD%90%E8%8A%B1%E6%A4%92%23" target="weibo">
 大妈面馆吃面顺走大半罐花椒（热度：71486）
 </a>
@@ -7701,6 +7719,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8E%BB%E9%9F%B3%E7%BB%BC%E4%BA%86%23" target="weibo">
+王安宇去音综了（热度：50809）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B9%E5%8F%91%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23" target="weibo">
 易烊千玺方发维权声明（热度：50661）
 </a>
@@ -7875,6 +7899,12 @@ ZARA离快时尚越来越远了（热度：51991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A5%B3%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E6%9E%AA%E6%9D%80%23" target="weibo">
+美国一女副市长被枪杀（热度：44881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%90%A5%E6%95%91%E9%A3%9E%E8%A1%8C%E5%91%98%E4%BB%BB%E5%8A%A1%E5%A4%B1%E8%B4%A5%23" target="weibo">
 伊朗称美军营救飞行员任务失败（热度：44206）
 </a>
@@ -7907,6 +7937,12 @@ ZARA离快时尚越来越远了（热度：51991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E6%8F%90%E8%8E%AB%E8%87%AA%E6%9B%9D%E8%BA%AB%E9%AB%98%E4%BD%93%E9%87%8D%23" target="weibo">
 冯提莫自曝身高体重（热度：43344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C%23" target="weibo">
+国际油价暴跌（热度：42486）
 </a>
 </li>
 
@@ -8051,6 +8087,12 @@ ZARA离快时尚越来越远了（热度：51991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%BE%E6%8A%A5%E5%AF%8C%E4%BA%8C%E4%BB%A3%E4%B8%88%E5%A4%AB%E9%87%8D%E5%A9%9A%E9%81%AD%E6%8A%A5%E5%A4%8D%23" target="weibo">
 女子称举报富二代丈夫重婚遭报复（热度：36279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E5%92%8C%E5%A3%B0%23" target="weibo">
+范玮琪和声（热度：35907）
 </a>
 </li>
 

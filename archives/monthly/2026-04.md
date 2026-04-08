@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 23:55:25
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 01:14:32
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+金子涵说的是谁（热度：680739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%A4%9A%E5%9B%BD%E9%81%AD%E8%A2%AD%23" target="weibo">
 海湾多国遭袭（热度：677627）
 </a>
@@ -1937,12 +1943,6 @@ iPhone18Pro模具偷跑（热度：474601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E4%B8%BA%E5%AE%83%E9%81%93%E6%AD%89%E8%B0%81%E8%AF%A5%E8%B4%9F%E8%B4%A3%23" target="weibo">
 半个娱乐圈为它道歉谁该负责（热度：455602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
-金子涵说的是谁（热度：454834）
 </a>
 </li>
 
@@ -3329,6 +3329,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E7%8E%B0%E5%81%B6%23" target="weibo">
 孟子义 现偶（热度：307872）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%96%E5%9B%A0%E9%BB%8E%E9%81%AD%E8%A2%AD%E7%BB%93%E6%9D%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB%23" target="weibo">
+伊媒称伊朗或因黎遭袭结束临时停火（热度：307641）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AL对战TES（热度：183446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%AE%B8%E5%8F%AF%20%E6%80%A7%E6%95%99%E8%82%B2%E7%A7%91%E6%99%AE%23" target="weibo">
 我许可 性教育科普（热度：172664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9C%A8%E5%B9%B4%E5%8D%8E%E7%BB%B4%E6%9D%83%23" target="weibo">
-水木年华维权（热度：172621）
 </a>
 </li>
 
