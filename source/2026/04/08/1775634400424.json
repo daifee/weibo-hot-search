@@ -1,0 +1,410 @@
+{
+  "runTime": 1775634400424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775321,
+        "num": 1124051,
+        "word": "宇文玥捞上来了",
+        "onboard_time": 1775631682,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396414,
+        "num": 805384,
+        "word": "美军大批F35将入驻日本三泽基地",
+        "onboard_time": 1775631202,
+        "rank": 1,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 25132,
+        "num": 629086,
+        "word": "春假撞怀清明春日消费火力全开",
+        "onboard_time": 1775632643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595757,
+        "num": 595757,
+        "word": "12人花30万买月薪2500的高铁工作",
+        "onboard_time": 1775632883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1551121,
+        "num": 510528,
+        "word": "伊朗向全体人民祝贺胜利",
+        "onboard_time": 1775632643,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378323,
+        "num": 378323,
+        "word": "冰湖重生开局0广",
+        "onboard_time": 1775627062,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400438,
+        "num": 372426,
+        "word": "以色列电视台倒计时轰炸等来停火",
+        "onboard_time": 1775624722,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341203,
+        "num": 341203,
+        "word": "浪姐史上最难听的小考",
+        "onboard_time": 1775629701,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274068,
+        "num": 274068,
+        "word": "779元滴眼液暴涨至3382元",
+        "onboard_time": 1775621242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171887,
+        "num": 171887,
+        "word": "粉色蓝莓",
+        "onboard_time": 1775620461,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1178588,
+        "num": 171859,
+        "word": "金子涵 再逼我就把所有的都说出来",
+        "onboard_time": 1775621001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838699,
+        "num": 171832,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230427,
+        "num": 171784,
+        "word": "医院回应太平间招搬尸工要笔试面试",
+        "onboard_time": 1775629642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373619,
+        "num": 171773,
+        "word": "黄杨钿甜新剧开播前发千字文",
+        "onboard_time": 1775629881,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242894,
+        "num": 171722,
+        "word": "徐艺洋回应黄子韬身体状况",
+        "onboard_time": 1775611580,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195492,
+        "num": 171684,
+        "word": "伊朗接受停火提议",
+        "onboard_time": 1775603420,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231462,
+        "num": 171646,
+        "word": "好仙的刘诗诗",
+        "onboard_time": 1775633722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194092,
+        "num": 171605,
+        "word": "伊美双方停火生效",
+        "onboard_time": 1775607382,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173587,
+        "num": 171605,
+        "word": "女方猝死遗产继承权亲儿子仅占八分之一",
+        "onboard_time": 1775625923,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38500,
+        "num": 171540,
+        "word": "为弟追凶27年案择期宣判",
+        "onboard_time": 1775634082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211128,
+        "num": 171502,
+        "word": "女子孕期得知丈夫出轨20余人",
+        "onboard_time": 1775622323,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187110,
+        "num": 171472,
+        "word": "孙怡高情商",
+        "onboard_time": 1775628862,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171464,
+        "num": 171464,
+        "word": "江语晨小考突然离场",
+        "onboard_time": 1775625683,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163526,
+        "num": 163526,
+        "word": "伊朗伊拉克民众上街庆祝",
+        "onboard_time": 1775631981,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162010,
+        "num": 162010,
+        "word": "赵今麦超短发大片",
+        "onboard_time": 1775626643,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153094,
+        "num": 153094,
+        "word": "午睡悲伤综合征",
+        "onboard_time": 1775619021,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149776,
+        "num": 149776,
+        "word": "谢楠表情 母爱如山",
+        "onboard_time": 1775633181,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131010,
+        "num": 131010,
+        "word": "大艺术家 不敢听",
+        "onboard_time": 1775626164,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121276,
+        "num": 127353,
+        "word": "人民币汇率也大涨",
+        "onboard_time": 1775633002,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127075,
+        "num": 127075,
+        "word": "王濛 组内唯一大vocal",
+        "onboard_time": 1775634263,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152681,
+        "num": 127022,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125115,
+        "num": 125115,
+        "word": "浪姐小考 抗抑郁视频",
+        "onboard_time": 1775631922,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124272,
+        "num": 124272,
+        "word": "吴磊成首登祖国杂志封面艺人",
+        "onboard_time": 1775632462,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117496,
+        "num": 117496,
+        "word": "余承东猛批团队设计不高级",
+        "onboard_time": 1775624483,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116004,
+        "num": 116004,
+        "word": "因二胎儿子随妻姓丈夫起诉离婚",
+        "onboard_time": 1775624783,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112534,
+        "num": 112534,
+        "word": "讨好型人格小时候",
+        "onboard_time": 1775620881,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111705,
+        "num": 111705,
+        "word": "你们都笑冉 实则冉偷偷努力",
+        "onboard_time": 1775631322,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95895,
+        "num": 95895,
+        "word": "朱亚文两个女儿腿长",
+        "onboard_time": 1775630962,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94791,
+        "num": 94791,
+        "word": "低血糖假性饥饿",
+        "onboard_time": 1775634143,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90405,
+        "num": 90405,
+        "word": "日本网红在印度被泼粪水致高烧入院",
+        "onboard_time": 1775621122,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111647,
+        "num": 90236,
+        "word": "浪姐小考 完全小品",
+        "onboard_time": 1775625564,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93494,
+        "num": 90171,
+        "word": "店主回应因博主吃12个汉堡报警",
+        "onboard_time": 1775614281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89973,
+        "num": 89973,
+        "word": "冰湖重生 楚乔传",
+        "onboard_time": 1775632282,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89967,
+        "num": 89967,
+        "word": "特朗普提出停火或是脱身之计",
+        "onboard_time": 1775632821,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87183,
+        "num": 87183,
+        "word": "认母期认成狗了",
+        "onboard_time": 1775621062,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87110,
+        "num": 87110,
+        "word": "郑丽文率中国国民党访问团拜谒中山陵",
+        "onboard_time": 1775614999,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82202,
+        "num": 82202,
+        "word": "孙怡 幼态脸高妹",
+        "onboard_time": 1775634381,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79616,
+        "num": 79616,
+        "word": "上班偷看浪姐小考",
+        "onboard_time": 1775633962,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78105,
+        "num": 78105,
+        "word": "温氏市值涨超9亿总裁喊话送1000只鸡",
+        "onboard_time": 1775630661,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75761,
+        "num": 75761,
+        "word": "黄金这波能涨多久",
+        "onboard_time": 1775632162,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}

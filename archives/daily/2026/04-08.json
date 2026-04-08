@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775628375043,
+  "endTime": 1775634400424,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551121,
+      "num": 510528,
+      "word": "伊朗向全体人民祝贺胜利",
+      "onboard_time": 1775632643,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1454340,
       "num": 289280,
       "word": "徐艺洋回应黄子韬身体状况",
@@ -57,6 +65,22 @@
       "onboard_time": 1775605220,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 838699,
+      "num": 237646,
+      "word": "刘思维当爸爸了",
+      "onboard_time": 1775627602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 775321,
+      "num": 1124051,
+      "word": "宇文玥捞上来了",
+      "onboard_time": 1775631682,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 677627,
@@ -88,6 +112,14 @@
       "word": "直播涉黄牛奶品牌为中华老字号",
       "onboard_time": 1775573003,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595757,
+      "num": 595757,
+      "word": "12人花30万买月薪2500的高铁工作",
+      "onboard_time": 1775632883,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -203,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396414,
+      "num": 805384,
+      "word": "美军大批F35将入驻日本三泽基地",
+      "onboard_time": 1775631202,
+      "rank": 1,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 392261,
       "num": 256412,
       "word": "以色列仍在持续打击伊朗",
@@ -211,12 +251,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 378323,
+      "num": 378323,
+      "word": "冰湖重生开局0广",
+      "onboard_time": 1775627062,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374108,
       "num": 965456,
       "word": "仅一户报名摇号的房子第二天售罄",
       "onboard_time": 1775577741,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373619,
+      "num": 171773,
+      "word": "黄杨钿甜新剧开播前发千字文",
+      "onboard_time": 1775629881,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 373513,
@@ -267,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341203,
+      "num": 341203,
+      "word": "浪姐史上最难听的小考",
+      "onboard_time": 1775629701,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337172,
       "num": 187396,
       "word": "把蓝莓当消炎药吃",
@@ -297,14 +361,6 @@
       "onboard_time": 1775612362,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289675,
-      "num": 237646,
-      "word": "刘思维当爸爸了",
-      "onboard_time": 1775627602,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 286687,
@@ -371,14 +427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 256634,
-      "num": 168649,
-      "word": "冰湖重生开局0广",
-      "onboard_time": 1775627062,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252383,
       "num": 99838,
       "word": "泽连斯基向俄方提出能源休战提议",
@@ -441,6 +489,22 @@
       "onboard_time": 1775571563,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231462,
+      "num": 171646,
+      "word": "好仙的刘诗诗",
+      "onboard_time": 1775633722,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230427,
+      "num": 171784,
+      "word": "医院回应太平间招搬尸工要笔试面试",
+      "onboard_time": 1775629642,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228662,
@@ -513,6 +577,14 @@
       "onboard_time": 1775603600,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187110,
+      "num": 171472,
+      "word": "孙怡高情商",
+      "onboard_time": 1775628862,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 186721,
@@ -595,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163526,
+      "num": 163526,
+      "word": "伊朗伊拉克民众上街庆祝",
+      "onboard_time": 1775631981,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161991,
       "num": 142622,
       "word": "雨爱小考第一",
@@ -635,6 +715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 152681,
+      "num": 127022,
+      "word": "住酒店不带毛巾的人天塌了",
+      "onboard_time": 1775633602,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 152126,
       "num": 152126,
       "word": "徐轸轸发长文控诉前经纪人",
@@ -649,6 +737,14 @@
       "onboard_time": 1775622562,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149776,
+      "num": 149776,
+      "word": "谢楠表情 母爱如山",
+      "onboard_time": 1775633181,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 147375,
@@ -739,12 +835,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127075,
+      "num": 127075,
+      "word": "王濛 组内唯一大vocal",
+      "onboard_time": 1775634263,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125115,
+      "num": 125115,
+      "word": "浪姐小考 抗抑郁视频",
+      "onboard_time": 1775631922,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "王楚钦称跟樊振东打出了自己的问题",
       "onboard_time": 1775568863,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124272,
+      "num": 124272,
+      "word": "吴磊成首登祖国杂志封面艺人",
+      "onboard_time": 1775632462,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 123687,
@@ -761,6 +881,14 @@
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121276,
+      "num": 127353,
+      "word": "人民币汇率也大涨",
+      "onboard_time": 1775633002,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 120088,
@@ -825,6 +953,14 @@
       "onboard_time": 1775568743,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "你们都笑冉 实则冉偷偷努力",
+      "onboard_time": 1775631322,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 109293,
@@ -923,6 +1059,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95895,
+      "num": 95895,
+      "word": "朱亚文两个女儿腿长",
+      "onboard_time": 1775630962,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94791,
+      "num": 94791,
+      "word": "低血糖假性饥饿",
+      "onboard_time": 1775634143,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94003,
       "num": 94003,
       "word": "杨汝晴在节目里立遗嘱",
@@ -969,6 +1121,22 @@
       "onboard_time": 1775627602,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89973,
+      "num": 89973,
+      "word": "冰湖重生 楚乔传",
+      "onboard_time": 1775632282,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89967,
+      "num": 89967,
+      "word": "特朗普提出停火或是脱身之计",
+      "onboard_time": 1775632821,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88628,
@@ -1025,6 +1193,14 @@
       "onboard_time": 1775616200,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82202,
+      "num": 82202,
+      "word": "孙怡 幼态脸高妹",
+      "onboard_time": 1775634381,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 81748,
@@ -1099,12 +1275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79616,
+      "num": 79616,
+      "word": "上班偷看浪姐小考",
+      "onboard_time": 1775633962,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78556,
       "num": 78556,
       "word": "感觉这个世界真的有bug",
       "onboard_time": 1775614522,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78105,
+      "num": 78105,
+      "word": "温氏市值涨超9亿总裁喊话送1000只鸡",
+      "onboard_time": 1775630661,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77238,
@@ -1137,6 +1329,14 @@
       "onboard_time": 1775610381,
       "rank": 40,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 75761,
+      "num": 75761,
+      "word": "黄金这波能涨多久",
+      "onboard_time": 1775632162,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 72098,
@@ -1459,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38500,
+      "num": 171540,
+      "word": "为弟追凶27年案择期宣判",
+      "onboard_time": 1775634082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37139,
       "num": 150489,
       "word": "海南高温已影响荔枝香蕉生长",
@@ -1539,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25132,
+      "num": 629086,
+      "word": "春假撞怀清明春日消费火力全开",
+      "onboard_time": 1775632643,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19229,
       "num": 25391,
       "word": "周深演唱苏超MV",
@@ -1564,6 +1780,9 @@
     },
     {
       "word": "#习近平致电祝贺苏林#"
+    },
+    {
+      "word": "#努力开创服务业高质量发展新局面#"
     }
   ]
 }
