@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775634400424,
+  "endTime": 1775635206005,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1959242,
+      "num": 510528,
+      "word": "伊朗向全体人民祝贺胜利",
+      "onboard_time": 1775632643,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1725217,
       "num": 349735,
       "word": "新加坡偶遇唐嫣罗晋一家三口",
@@ -112,14 +120,6 @@
       "word": "特朗普威胁伊朗整个文明将消亡",
       "onboard_time": 1775566403,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1551121,
-      "num": 510528,
-      "word": "伊朗向全体人民祝贺胜利",
-      "onboard_time": 1775632643,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 822267,
+      "num": 595757,
+      "word": "12人花30万买月薪2500的高铁工作",
+      "onboard_time": 1775632883,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 821531,
       "num": 543902,
       "word": "陈丽华叫迟重瑞迟先生",
@@ -459,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 791194,
+      "num": 1126591,
+      "word": "宇文玥捞上来了",
+      "onboard_time": 1775631682,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779190,
       "num": 742750,
       "word": "美以袭击哈尔克岛",
       "onboard_time": 1775564001,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 775321,
-      "num": 1124051,
-      "word": "宇文玥捞上来了",
-      "onboard_time": 1775631682,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 763047,
@@ -648,14 +656,6 @@
       "word": "直播涉黄牛奶品牌为中华老字号",
       "onboard_time": 1775573003,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 595757,
-      "num": 595757,
-      "word": "12人花30万买月薪2500的高铁工作",
-      "onboard_time": 1775632883,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1155,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413608,
+      "num": 831266,
+      "word": "美军大批F35将入驻日本三泽基地",
+      "onboard_time": 1775631202,
+      "rank": 1,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 413497,
       "num": 413497,
       "word": "王楚钦距大满贯只差奥运冠军",
@@ -1259,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396414,
-      "num": 805384,
-      "word": "美军大批F35将入驻日本三泽基地",
-      "onboard_time": 1775631202,
-      "rank": 1,
-      "category": "国际时政,军事"
-    },
-    {
       "raw_hot": 395187,
       "num": 395187,
       "word": "情侣因换座与女乘客发生争执",
@@ -1297,6 +1297,14 @@
       "onboard_time": 1775488702,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390468,
+      "num": 390468,
+      "word": "住酒店不带毛巾的人天塌了",
+      "onboard_time": 1775633602,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 389341,
@@ -1355,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379130,
+      "num": 171773,
+      "word": "黄杨钿甜新剧开播前发千字文",
+      "onboard_time": 1775629881,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378589,
       "num": 378589,
       "word": "AG对战KSG",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1775487024,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 373619,
-      "num": 171773,
-      "word": "黄杨钿甜新剧开播前发千字文",
-      "onboard_time": 1775629881,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 373513,
@@ -1595,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344152,
+      "num": 344152,
+      "word": "浪姐史上最难听的小考",
+      "onboard_time": 1775629701,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344027,
       "num": 344027,
       "word": "鞠婧祎含泪拥抱十年老粉",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1775364320,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341203,
-      "num": 341203,
-      "word": "浪姐史上最难听的小考",
-      "onboard_time": 1775629701,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 340697,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1775373501,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316293,
+      "num": 171646,
+      "word": "好仙的刘诗诗",
+      "onboard_time": 1775633722,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 313324,
@@ -2483,16 +2499,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231462,
-      "num": 171646,
-      "word": "好仙的刘诗诗",
-      "onboard_time": 1775633722,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230427,
-      "num": 171784,
+      "num": 177931,
       "word": "医院回应太平间招搬尸工要笔试面试",
       "onboard_time": 1775629642,
       "rank": 12,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1775468183,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209554,
+      "num": 147674,
+      "word": "孙怡 幼态脸高妹",
+      "onboard_time": 1775634381,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 209399,
@@ -3355,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177069,
+      "num": 146416,
+      "word": "王濛 组内唯一大vocal",
+      "onboard_time": 1775634263,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177005,
       "num": 177005,
       "word": "伊朗击落2架美战机击中2架黑鹰",
@@ -3891,14 +3915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152681,
-      "num": 127022,
-      "word": "住酒店不带毛巾的人天塌了",
-      "onboard_time": 1775633602,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 152126,
       "num": 152126,
       "word": "徐轸轸发长文控诉前经纪人",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1775367679,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151026,
+      "num": 149776,
+      "word": "谢楠表情 母爱如山",
+      "onboard_time": 1775633181,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150748,
@@ -3993,14 +4017,6 @@
       "onboard_time": 1775558901,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149776,
-      "num": 149776,
-      "word": "谢楠表情 母爱如山",
-      "onboard_time": 1775633181,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 147375,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1775561481,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142096,
+      "num": 142096,
+      "word": "人民币汇率也大涨",
+      "onboard_time": 1775633002,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 142016,
@@ -4587,6 +4611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127397,
+      "num": 127397,
+      "word": "吴磊成首登祖国杂志封面艺人",
+      "onboard_time": 1775632462,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127355,
       "num": 119132,
       "word": "中国电车全球爆火",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1775619980,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127075,
-      "num": 127075,
-      "word": "王濛 组内唯一大vocal",
-      "onboard_time": 1775634263,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 126792,
@@ -4659,6 +4683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "特朗普提出停火或是脱身之计",
+      "onboard_time": 1775632821,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125405,
       "num": 120373,
       "word": "张月陈瑶 头发是彼此衣服的颜色",
@@ -4691,20 +4723,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124272,
-      "num": 124272,
-      "word": "吴磊成首登祖国杂志封面艺人",
-      "onboard_time": 1775632462,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "微信宣布这项功能将全面停运",
       "onboard_time": 1775450241,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123940,
+      "num": 123940,
+      "word": "杀害发小男子称认罪但不后悔",
+      "onboard_time": 1775634624,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123687,
@@ -4825,14 +4857,6 @@
       "onboard_time": 1775577860,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121276,
-      "num": 127353,
-      "word": "人民币汇率也大涨",
-      "onboard_time": 1775633002,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 121267,
@@ -5019,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116427,
+      "num": 116427,
+      "word": "低血糖假性饥饿",
+      "onboard_time": 1775634143,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116423,
       "num": 116423,
       "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
@@ -5201,6 +5233,14 @@
       "onboard_time": 1775450901,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110709,
+      "num": 110709,
+      "word": "田曦薇飞吻",
+      "onboard_time": 1775634921,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 110526,
@@ -5457,6 +5497,14 @@
       "onboard_time": 1775538623,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105387,
+      "num": 105387,
+      "word": "浪姐小考 集体丧失表情管理",
+      "onboard_time": 1775634442,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 105363,
@@ -5787,6 +5835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98893,
+      "num": 98893,
+      "word": "美国杀人分尸19岁少年专杀性犯罪者",
+      "onboard_time": 1775635043,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98695,
       "num": 98695,
       "word": "巴拿马发生巨大爆炸",
@@ -6011,14 +6067,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 94791,
-      "num": 94791,
-      "word": "低血糖假性饥饿",
-      "onboard_time": 1775634143,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94713,
       "num": 94713,
       "word": "中国诗词大会年度总冠军",
@@ -6057,6 +6105,14 @@
       "onboard_time": 1775538623,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93935,
+      "num": 93935,
+      "word": "杨紫cha复仇摇",
+      "onboard_time": 1775634983,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 93926,
@@ -6347,14 +6403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89967,
-      "num": 89967,
-      "word": "特朗普提出停火或是脱身之计",
-      "onboard_time": 1775632821,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 89849,
       "num": 89565,
       "word": "嫣然医院回应陈光标捐款1000万",
@@ -6489,6 +6537,14 @@
       "onboard_time": 1775614522,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88092,
+      "num": 88092,
+      "word": "建议飞机托运带黑色行李箱",
+      "onboard_time": 1775634624,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 87983,
@@ -6681,6 +6737,14 @@
       "onboard_time": 1775373083,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85000,
+      "num": 85000,
+      "word": "12岁误吞体温计32岁时取出",
+      "onboard_time": 1775634563,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84991,
@@ -6912,14 +6976,6 @@
       "word": "wannaone校服入场",
       "onboard_time": 1775444660,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 82202,
-      "num": 82202,
-      "word": "孙怡 幼态脸高妹",
-      "onboard_time": 1775634381,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -9747,6 +9803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26191,
+      "num": 665420,
+      "word": "春假撞怀清明春日消费火力全开",
+      "onboard_time": 1775632643,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25916,
       "num": 676427,
       "word": "4月草木中都是思念",
@@ -9777,14 +9841,6 @@
       "onboard_time": 1775383221,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25132,
-      "num": 629086,
-      "word": "春假撞怀清明春日消费火力全开",
-      "onboard_time": 1775632643,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25124,
