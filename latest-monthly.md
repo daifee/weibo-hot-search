@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 01:14:32
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 01:40:20
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%B0%8A%E9%87%8D%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%23" target="weibo">
 阚清子 尊重游戏规则（热度：1866507）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23" target="weibo">
+金子涵直播疑似求救（热度：1801292）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AL对战TES（热度：183446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E8%87%AA%E6%9B%9D%E4%B8%8E%E7%88%B8%E7%88%B8%E4%BA%8C%E5%8D%81%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%23" target="weibo">
 葛夕自曝与爸爸二十年没联系（热度：173044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%AE%B8%E5%8F%AF%20%E6%80%A7%E6%95%99%E8%82%B2%E7%A7%91%E6%99%AE%23" target="weibo">
-我许可 性教育科普（热度：172664）
 </a>
 </li>
 
