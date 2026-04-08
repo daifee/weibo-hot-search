@@ -1,0 +1,410 @@
+{
+  "runTime": 1775656101676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 988190,
+        "num": 1158110,
+        "word": "浪姐白买版权",
+        "onboard_time": 1775651421,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710527,
+        "num": 824095,
+        "word": "樊振东放弃伦敦世乒赛资格",
+        "onboard_time": 1775650461,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80189,
+        "num": 653488,
+        "word": "美国年轻人为何被锁死一生",
+        "onboard_time": 1775650102,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382867,
+        "num": 382867,
+        "word": "张萌冰湖重生直播哭了",
+        "onboard_time": 1775654061,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273262,
+        "num": 273262,
+        "word": "黄金涨跌逻辑变了",
+        "onboard_time": 1775653942,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249966,
+        "num": 249966,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 244716,
+        "num": 244716,
+        "word": "秦志戬回应伦敦世乒赛名单",
+        "onboard_time": 1775650883,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232620,
+        "num": 232620,
+        "word": "日本73岁老人来中国求职",
+        "onboard_time": 1775650821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211177,
+        "num": 211177,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199932,
+        "num": 199932,
+        "word": "吃12个汉堡被拉黑女子不接受道歉",
+        "onboard_time": 1775653642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 989637,
+        "num": 198249,
+        "word": "刘耀文流口水 AI生成",
+        "onboard_time": 1775652862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589402,
+        "num": 194899,
+        "word": "时代峰峻声明",
+        "onboard_time": 1775652022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491773,
+        "num": 193213,
+        "word": "特朗普威胁对向伊朗供武的国家加税",
+        "onboard_time": 1775652743,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39472,
+        "num": 189758,
+        "word": "大大大五座NX8售14.99万起",
+        "onboard_time": 1775651722,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 499987,
+        "num": 188788,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389225,
+        "num": 184332,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231063,
+        "num": 180794,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46003,
+        "num": 178636,
+        "word": "新阿维塔12重新定义时代好车",
+        "onboard_time": 1775653462,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177878,
+        "num": 177878,
+        "word": "哪吒2票房升至全球第4",
+        "onboard_time": 1775639062,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 175414,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209971,
+        "num": 173355,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113714,
+        "num": 168846,
+        "word": "上报78亿实际到账不足1亿",
+        "onboard_time": 1775655981,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 210913,
+        "num": 168340,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167650,
+        "num": 167650,
+        "word": "赵丽颖版楚乔传",
+        "onboard_time": 1775655621,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153088,
+        "num": 153088,
+        "word": "伊朗拉万炼油厂发生爆炸",
+        "onboard_time": 1775639784,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151504,
+        "num": 151504,
+        "word": "吃了会肠胃胀气的食物",
+        "onboard_time": 1775654303,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150778,
+        "num": 150778,
+        "word": "浪姐",
+        "onboard_time": 1775652922,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140429,
+        "num": 140429,
+        "word": "桃花坞",
+        "onboard_time": 1775651120,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108176,
+        "num": 108176,
+        "word": "电费刺客找到了",
+        "onboard_time": 1775640861,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135213,
+        "num": 106854,
+        "word": "刘宇宁直播",
+        "onboard_time": 1775649141,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 106536,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104609,
+        "num": 104609,
+        "word": "快递 涨价",
+        "onboard_time": 1775655621,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128470,
+        "num": 100236,
+        "word": "周杰伦给王俊凯杨迪变魔术",
+        "onboard_time": 1775654843,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116948,
+        "num": 98217,
+        "word": "杨幂冯湮儿路透",
+        "onboard_time": 1775655203,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92487,
+        "num": 92487,
+        "word": "世乒赛国乒男团卫冕难度空前",
+        "onboard_time": 1775654363,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 91120,
+        "word": "阚清子团未脱稿被赵兆狠批",
+        "onboard_time": 1775645781,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109119,
+        "num": 90629,
+        "word": "邓凯直播",
+        "onboard_time": 1775655443,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89706,
+        "num": 89706,
+        "word": "尖扎黄河特大桥事故致13死3失联",
+        "onboard_time": 1775654303,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75780,
+        "num": 89660,
+        "word": "莫氏鸡煲老板说自己养的鸡早卖完了",
+        "onboard_time": 1775656042,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24571,
+        "num": 89367,
+        "word": "以军对真主党发动本轮冲突以来最大空袭",
+        "onboard_time": 1775656042,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273853,
+        "num": 89279,
+        "word": "伊朗称已发动100波打击行动",
+        "onboard_time": 1775648301,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41101,
+        "num": 88983,
+        "word": "河南舞阳77亿省外资金全靠编",
+        "onboard_time": 1775656042,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107723,
+        "num": 88719,
+        "word": "迪丽热巴花魁造型",
+        "onboard_time": 1775646380,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62327,
+        "num": 88622,
+        "word": "都到医院了还被医托骗进黑诊所",
+        "onboard_time": 1775654422,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99007,
+        "num": 88403,
+        "word": "车银优已补缴税款",
+        "onboard_time": 1775651301,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88237,
+        "num": 88237,
+        "word": "穆祉丞 代言",
+        "onboard_time": 1775636964,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86171,
+        "num": 86171,
+        "word": "阿里全员信",
+        "onboard_time": 1775649141,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82573,
+        "num": 82573,
+        "word": "王濛 组内唯一大vocal",
+        "onboard_time": 1775634263,
+        "rank": 47,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 80103,
+        "num": 80103,
+        "word": "TF四代 进入R1SE的6个2大时代",
+        "onboard_time": 1775648542,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74983,
+        "num": 74983,
+        "word": "当代年轻人的减肥现状",
+        "onboard_time": 1775655562,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以崭新政治面貌迎接建军一百周年#"
+    }
+  }
+}
