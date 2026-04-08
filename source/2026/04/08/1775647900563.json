@@ -1,0 +1,410 @@
+{
+  "runTime": 1775647900563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241895,
+        "num": 1038703,
+        "word": "B站将上线播放页暂停广告",
+        "onboard_time": 1775641101,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193645,
+        "num": 777355,
+        "word": "大熊猫家美大崽去世",
+        "onboard_time": 1775641643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19078,
+        "num": 588308,
+        "word": "春假撞怀清明春日消费火力全开",
+        "onboard_time": 1775632643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491832,
+        "num": 491832,
+        "word": "物业大撤退",
+        "onboard_time": 1775636601,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431512,
+        "num": 431512,
+        "word": "开心消消乐第一万关的含金量",
+        "onboard_time": 1775642483,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 475592,
+        "num": 425358,
+        "word": "麻辣烫里最拉的菜",
+        "onboard_time": 1775640023,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403573,
+        "num": 403573,
+        "word": "伊朗拉万炼油厂发生爆炸",
+        "onboard_time": 1775639784,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378609,
+        "num": 378609,
+        "word": "阚清子团未脱稿被赵兆狠批",
+        "onboard_time": 1775645781,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361733,
+        "num": 361733,
+        "word": "电费刺客找到了",
+        "onboard_time": 1775640861,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351606,
+        "num": 351606,
+        "word": "中方回应促使伊朗同意停火",
+        "onboard_time": 1775645721,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 528684,
+        "num": 341587,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325026,
+        "num": 325026,
+        "word": "哪吒2票房升至全球第4",
+        "onboard_time": 1775639062,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232210,
+        "num": 232210,
+        "word": "12人花30万买月薪2500的高铁工作",
+        "onboard_time": 1775632883,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228088,
+        "num": 228088,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 52977,
+        "num": 226687,
+        "word": "拼多多为何西藏买垃圾袋也能包邮",
+        "onboard_time": 1775639002,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 225844,
+        "num": 225844,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192780,
+        "num": 192780,
+        "word": "特朗普称能轻易恢复对伊朗动武",
+        "onboard_time": 1775646082,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187840,
+        "num": 187840,
+        "word": "美国杀人分尸19岁少年专杀性犯罪者",
+        "onboard_time": 1775635043,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185263,
+        "num": 185263,
+        "word": "低血糖假性饥饿",
+        "onboard_time": 1775634143,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26022,
+        "num": 184797,
+        "word": "石宇奇再现石一劈",
+        "onboard_time": 1775646920,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329982,
+        "num": 184092,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329294,
+        "num": 182256,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132194,
+        "num": 181575,
+        "word": "男婴出生4天被抢母亲头部中刀",
+        "onboard_time": 1775646201,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181155,
+        "num": 181155,
+        "word": "王濛 组内唯一大vocal",
+        "onboard_time": 1775634263,
+        "rank": 23,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "迪丽热巴花魁造型",
+        "onboard_time": 1775646380,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115086,
+        "num": 158329,
+        "word": "莫氏鸡煲爆火周边摊主1天最多卖800元",
+        "onboard_time": 1775644943,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156063,
+        "num": 156063,
+        "word": "悉尼偶遇侯佩岑一家四口",
+        "onboard_time": 1775645961,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129198,
+        "num": 129198,
+        "word": "李羲承改活动名",
+        "onboard_time": 1775641523,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113802,
+        "num": 113802,
+        "word": "原来焦虑症是这么来的",
+        "onboard_time": 1775641222,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 113139,
+        "word": "周冬雨 我就是一般人的长相",
+        "onboard_time": 1775643201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190700,
+        "num": 109885,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102443,
+        "num": 102443,
+        "word": "孙怡 幼态脸高妹",
+        "onboard_time": 1775634381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100945,
+        "num": 100945,
+        "word": "B站董事长曾承诺新番无广告",
+        "onboard_time": 1775646322,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "T1对战GEN",
+        "onboard_time": 1775646920,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100122,
+        "num": 100122,
+        "word": "芒果音乐节阵容",
+        "onboard_time": 1775646920,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94042,
+        "num": 94042,
+        "word": "莫氏鸡煲少当家被抓回来宰鸡",
+        "onboard_time": 1775646501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90987,
+        "num": 90987,
+        "word": "好仙的刘诗诗",
+        "onboard_time": 1775633722,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86149,
+        "num": 86149,
+        "word": "穆祉丞 代言",
+        "onboard_time": 1775636964,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86064,
+        "num": 86064,
+        "word": "小米官宣6款充电宝新品",
+        "onboard_time": 1775638642,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83930,
+        "num": 83930,
+        "word": "面试工作被HR耍了",
+        "onboard_time": 1775644702,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83928,
+        "num": 83928,
+        "word": "老爸过生日人脉硬到一个个不吱声",
+        "onboard_time": 1775640502,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82588,
+        "num": 82588,
+        "word": "十日终焉 齐夏传",
+        "onboard_time": 1775646981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82415,
+        "num": 82415,
+        "word": "美伊停火后首批船只通过霍尔木兹",
+        "onboard_time": 1775646082,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81953,
+        "num": 81953,
+        "word": "梁朝伟像走失老人在求救",
+        "onboard_time": 1775642121,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79820,
+        "num": 79820,
+        "word": "美伊同意停火后伊朗驻华大使首发声",
+        "onboard_time": 1775642841,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78513,
+        "num": 78513,
+        "word": "浪姐史上最难听的小考",
+        "onboard_time": 1775629701,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73746,
+        "num": 73746,
+        "word": "小米18将首发高通2nm处理器",
+        "onboard_time": 1775646260,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73587,
+        "num": 73587,
+        "word": "婚前房产婚后加名离婚时能对半分吗",
+        "onboard_time": 1775636002,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73568,
+        "num": 73568,
+        "word": "澳国家英雄杀残疾人拿义肢当酒杯",
+        "onboard_time": 1775642963,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73340,
+        "num": 73340,
+        "word": "任敏拍过鹿晗勋章MV",
+        "onboard_time": 1775647762,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 19:06:41
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/08 19:31:40
 </p>
 </blockquote>
 <p>
@@ -2433,6 +2433,12 @@ NCT成员回复李马克（热度：381475）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%A2%E6%9C%AA%E8%84%B1%E7%A8%BF%E8%A2%AB%E8%B5%B5%E5%85%86%E7%8B%A0%E6%89%B9%23" target="weibo">
+阚清子团未脱稿被赵兆狠批（热度：378609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98KSG%23" target="weibo">
 AG对战KSG（热度：378589）
 </a>
@@ -2679,6 +2685,12 @@ AG对战KSG（热度：378589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BF%83%E4%BD%BF%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%23" target="weibo">
+中方回应促使伊朗同意停火（热度：351606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%B4%AB%E8%89%B2%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%80%A0%E5%9E%8B%23" target="weibo">
 虞书欣紫色新中式造型（热度：351498）
 </a>
@@ -2897,6 +2909,12 @@ Faker回应马斯克（热度：331940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%84%9F%E5%8F%97%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%82%E5%B7%AE%23" target="weibo">
 高铁上感受世界的参差（热度：331363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+金子涵说的是谁（热度：329982）
 </a>
 </li>
 
@@ -4497,6 +4515,12 @@ TES对战iG（热度：227602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E4%B8%89%E5%AD%A3%E8%BF%9E%E6%8B%8D%23" target="weibo">
+肖战十日终焉三季连拍（热度：225844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA8X%E5%AE%98%E5%AE%A34%E6%9C%8817%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82%23" target="weibo">
 极氪8X官宣4月17日正式上市（热度：225609）
 </a>
@@ -4565,12 +4589,6 @@ TES对战iG（热度：227602）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%95%E6%9C%88%E9%A3%9E%E8%88%B91.5%E4%BA%BF%E5%8E%95%E6%89%80%E5%B7%B2%E7%98%AB%E7%97%AA%23" target="weibo">
 美绕月飞船1.5亿厕所已瘫痪（热度：222918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E4%B8%89%E5%AD%A3%E8%BF%9E%E6%8B%8D%23" target="weibo">
-肖战十日终焉三季连拍（热度：221543）
 </a>
 </li>
 
@@ -5265,6 +5283,12 @@ Tian哭了（热度：195516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%83%BD%E8%BD%BB%E6%98%93%E6%81%A2%E5%A4%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%23" target="weibo">
+特朗普称能轻易恢复对伊朗动武（热度：192780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%94%E5%8F%94%E6%97%A0%E5%84%BF%E5%A5%B3%E4%B8%B4%E7%BB%88%E7%BB%99%E4%B8%89%E4%BE%84%E5%84%BF%E6%AF%8F%E4%BA%BA%E7%95%995%E5%8D%83%23" target="weibo">
 叔叔无儿女临终给三侄儿每人留5千（热度：192777）
 </a>
@@ -5321,6 +5345,12 @@ Tian哭了（热度：195516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BD%93%E6%97%A5%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%8F%8B%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%23" target="weibo">
 结婚登记当日得知女友患精神分裂（热度：190998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%BB%8E%E5%A4%A7%E5%86%B0%E8%BF%99%E4%B8%AA%E8%A7%92%E5%BA%A6%E6%89%BE%E5%88%B0%E6%9C%BA%E4%BC%9A%23" target="weibo">
+失业的人可以从大冰这个角度找到机会（热度：190700）
 </a>
 </li>
 
@@ -5405,12 +5435,6 @@ WB对战KSG（热度：189634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AC%ACN%E6%AC%A1%E5%9B%BD%E9%99%85%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%81%A5%E5%B0%86%23" target="weibo">
 王楚钦孙颖莎第N次国际级运动健将（热度：188595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%A2%E6%9C%AA%E8%84%B1%E7%A8%BF%E8%A2%AB%E8%B5%B5%E5%85%86%E7%8B%A0%E6%89%B9%23" target="weibo">
-阚清子团未脱稿被赵兆狠批（热度：188468）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ i人佟丽娅生了个e人儿子（热度：171450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E4%BD%9C%E8%80%85%E8%B0%88%E9%9D%92%E5%B2%9B%E5%87%BA%E7%8E%B0%E8%A1%80%E6%9C%88%23" target="weibo">
 十日终焉作者谈青岛出现血月（热度：165491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Wayward%E6%9B%9D369%E4%BC%91%E6%81%AF%E5%8E%9F%E5%9B%A0%23" target="weibo">
-Wayward曝369休息原因（热度：165389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%AE%8B%E5%B0%8F%E8%8A%B1%23" target="weibo">
-宋亚轩宋小花（热度：165253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E7%9B%B4%E5%91%86%E5%9C%A8%E7%99%BD%E5%AE%AB%23" target="weibo">
-特朗普一直呆在白宫（热度：165203）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E7%AB%99%E4%BD%8D%23" target="weibo">
-月鳞绮纪站位（热度：165187）
 </a>
 </li>
 

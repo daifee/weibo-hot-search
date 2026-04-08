@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775646401475,
+  "endTime": 1775647900563,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378609,
+      "num": 378609,
+      "word": "阚清子团未脱稿被赵兆狠批",
+      "onboard_time": 1775645781,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378323,
       "num": 378323,
       "word": "冰湖重生开局0广",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351606,
+      "num": 351606,
+      "word": "中方回应促使伊朗同意停火",
+      "onboard_time": 1775645721,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344152,
       "num": 344152,
       "word": "浪姐史上最难听的小考",
@@ -425,6 +441,14 @@
       "onboard_time": 1775614999,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329982,
+      "num": 184092,
+      "word": "金子涵说的是谁",
+      "onboard_time": 1775646143,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 325362,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 247928,
-      "num": 741446,
+      "num": 777355,
       "word": "大熊猫家美大崽去世",
       "onboard_time": 1775641643,
       "rank": 1,
@@ -683,20 +707,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 225844,
+      "num": 225844,
+      "word": "肖战十日终焉三季连拍",
+      "onboard_time": 1775644521,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222918,
       "num": 537059,
       "word": "美绕月飞船1.5亿厕所已瘫痪",
       "onboard_time": 1775576661,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 221543,
-      "num": 221543,
-      "word": "肖战十日终焉三季连拍",
-      "onboard_time": 1775644521,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 203664,
@@ -724,11 +748,19 @@
     },
     {
       "raw_hot": 194183,
-      "num": 108365,
+      "num": 129198,
       "word": "李羲承改活动名",
       "onboard_time": 1775641523,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192780,
+      "num": 192780,
+      "word": "特朗普称能轻易恢复对伊朗动武",
+      "onboard_time": 1775646082,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190924,
@@ -739,20 +771,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190700,
+      "num": 109885,
+      "word": "失业的人可以从大冰这个角度找到机会",
+      "onboard_time": 1775647582,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188595,
       "num": 300404,
       "word": "王楚钦孙颖莎第N次国际级运动健将",
       "onboard_time": 1775617100,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188468,
-      "num": 188468,
-      "word": "阚清子团未脱稿被赵兆狠批",
-      "onboard_time": 1775645781,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 187539,
@@ -851,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165037,
+      "num": 165037,
+      "word": "迪丽热巴花魁造型",
+      "onboard_time": 1775646380,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164729,
       "num": 144342,
       "word": "网传一公淘汰张艺上温峥嵘",
@@ -889,6 +929,14 @@
       "onboard_time": 1775613260,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156063,
+      "num": 156063,
+      "word": "悉尼偶遇侯佩岑一家四口",
+      "onboard_time": 1775645961,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 154707,
@@ -1027,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132194,
+      "num": 181575,
+      "word": "男婴出生4天被抢母亲头部中刀",
+      "onboard_time": 1775646201,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132090,
       "num": 132090,
       "word": "因二胎儿子随妻姓丈夫起诉离婚",
@@ -1036,7 +1092,7 @@
     },
     {
       "raw_hot": 131784,
-      "num": 107806,
+      "num": 113139,
       "word": "周冬雨 我就是一般人的长相",
       "onboard_time": 1775643201,
       "rank": 25,
@@ -1100,7 +1156,7 @@
     },
     {
       "raw_hot": 124030,
-      "num": 103550,
+      "num": 113802,
       "word": "原来焦虑症是这么来的",
       "onboard_time": 1775641222,
       "rank": 37,
@@ -1203,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115086,
+      "num": 158329,
+      "word": "莫氏鸡煲爆火周边摊主1天最多卖800元",
+      "onboard_time": 1775644943,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114607,
       "num": 114607,
       "word": "十日终焉动了",
@@ -1249,14 +1313,6 @@
       "onboard_time": 1775617160,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108080,
-      "num": 108080,
-      "word": "莫氏鸡煲爆火周边摊主1天最多卖800元",
-      "onboard_time": 1775644943,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107403,
@@ -1331,12 +1387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100945,
+      "num": 100945,
+      "word": "B站董事长曾承诺新番无广告",
+      "onboard_time": 1775646322,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "T1对战GEN",
+      "onboard_time": 1775646920,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100533,
       "num": 100533,
       "word": "高盛预计金价有望冲击6100美元",
       "onboard_time": 1775604920,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100122,
+      "num": 100122,
+      "word": "芒果音乐节阵容",
+      "onboard_time": 1775646920,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 100080,
@@ -1348,7 +1428,7 @@
     },
     {
       "raw_hot": 99839,
-      "num": 195109,
+      "num": 226687,
       "word": "拼多多为何西藏买垃圾袋也能包邮",
       "onboard_time": 1775639002,
       "rank": 17,
@@ -1417,6 +1497,14 @@
       "onboard_time": 1775638223,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94042,
+      "num": 94042,
+      "word": "莫氏鸡煲少当家被抓回来宰鸡",
+      "onboard_time": 1775646501,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94003,
@@ -1491,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90605,
-      "num": 90605,
-      "word": "金子涵说的是谁",
-      "onboard_time": 1775646143,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89973,
       "num": 89973,
       "word": "冰湖重生 楚乔传",
@@ -1531,14 +1611,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 88051,
-      "num": 74044,
-      "word": "B站董事长曾承诺新番无广告",
-      "onboard_time": 1775646322,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 87546,
       "num": 87546,
       "word": "中乌签署乌克兰小麦粉输华议定书",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1775606543,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86220,
-      "num": 86220,
-      "word": "特朗普称能轻易恢复对伊朗动武",
-      "onboard_time": 1775646082,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85536,
@@ -1603,12 +1667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83259,
-      "num": 83259,
-      "word": "悉尼偶遇侯佩岑一家四口",
-      "onboard_time": 1775645961,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 83930,
+      "num": 83930,
+      "word": "面试工作被HR耍了",
+      "onboard_time": 1775644702,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 82865,
@@ -1616,6 +1680,22 @@
       "word": "伊朗说对美国完全不信任",
       "onboard_time": 1775616200,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82588,
+      "num": 82588,
+      "word": "十日终焉 齐夏传",
+      "onboard_time": 1775646981,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82415,
+      "num": 82415,
+      "word": "美伊停火后首批船只通过霍尔木兹",
+      "onboard_time": 1775646082,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -1689,22 +1769,6 @@
       "onboard_time": 1775637742,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80307,
-      "num": 80002,
-      "word": "迪丽热巴花魁造型",
-      "onboard_time": 1775646380,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 80191,
-      "num": 80191,
-      "word": "美伊停火后首批船只通过霍尔木兹",
-      "onboard_time": 1775646082,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80151,
@@ -1787,14 +1851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 76487,
-      "num": 76487,
-      "word": "男婴出生4天被抢母亲头部中刀",
-      "onboard_time": 1775646201,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76354,
       "num": 76354,
       "word": "雷霆vs湖人",
@@ -1827,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73340,
+      "num": 73340,
+      "word": "任敏拍过鹿晗勋章MV",
+      "onboard_time": 1775647762,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72098,
       "num": 72098,
       "word": "张雪推荐网友买国内品牌踏板摩托",
@@ -1849,14 +1913,6 @@
       "onboard_time": 1775579779,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 71010,
-      "num": 74161,
-      "word": "面试工作被HR耍了",
-      "onboard_time": 1775644702,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 69519,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1775579000,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66465,
-      "num": 116131,
-      "word": "中方回应促使伊朗同意停火",
-      "onboard_time": 1775645721,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65927,
@@ -2289,6 +2337,14 @@
       "onboard_time": 1775632643,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26022,
+      "num": 184797,
+      "word": "石宇奇再现石一劈",
+      "onboard_time": 1775646920,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 20746,
