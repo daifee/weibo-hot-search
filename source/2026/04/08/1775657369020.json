@@ -1,0 +1,410 @@
+{
+  "runTime": 1775657369020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150971,
+        "num": 1184155,
+        "word": "浪姐白买版权",
+        "onboard_time": 1775651421,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737357,
+        "num": 888010,
+        "word": "快递 涨价",
+        "onboard_time": 1775655621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13660,
+        "num": 655729,
+        "word": "春日经济新图景",
+        "onboard_time": 1775651902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619237,
+        "num": 619237,
+        "word": "樊振东放弃伦敦世乒赛资格",
+        "onboard_time": 1775650461,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439816,
+        "num": 439816,
+        "word": "张萌冰湖重生直播哭了",
+        "onboard_time": 1775654061,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351074,
+        "num": 351074,
+        "word": "赵丽颖版楚乔传",
+        "onboard_time": 1775655621,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320338,
+        "num": 320338,
+        "word": "黄金涨跌逻辑变了",
+        "onboard_time": 1775653942,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 284075,
+        "num": 284075,
+        "word": "晒娃被网友催赶紧去医院宝妈发声",
+        "onboard_time": 1775650102,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265661,
+        "num": 265661,
+        "word": "住酒店不带毛巾的人天塌了",
+        "onboard_time": 1775633602,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 215280,
+        "num": 215280,
+        "word": "秦志戬回应伦敦世乒赛名单",
+        "onboard_time": 1775650883,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007182,
+        "num": 214034,
+        "word": "刘耀文流口水 AI生成",
+        "onboard_time": 1775652862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534793,
+        "num": 211755,
+        "word": "特朗普威胁对向伊朗供武的国家加税",
+        "onboard_time": 1775652743,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 479835,
+        "num": 207840,
+        "word": "时代峰峻声明",
+        "onboard_time": 1775652022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452242,
+        "num": 205456,
+        "word": "江语晨 抚养权官司",
+        "onboard_time": 1775649861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352352,
+        "num": 204013,
+        "word": "失业的人可以从大冰这个角度找到机会",
+        "onboard_time": 1775647582,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28086,
+        "num": 201347,
+        "word": "新阿维塔12重新定义时代好车",
+        "onboard_time": 1775653462,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215779,
+        "num": 197787,
+        "word": "十日终焉官微 用户1231",
+        "onboard_time": 1775641342,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196775,
+        "num": 196775,
+        "word": "日本73岁老人来中国求职",
+        "onboard_time": 1775650821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185675,
+        "num": 185675,
+        "word": "吃12个汉堡被拉黑女子不接受道歉",
+        "onboard_time": 1775653642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161899,
+        "num": 161899,
+        "word": "伊朗拉万炼油厂发生爆炸",
+        "onboard_time": 1775639784,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222228,
+        "num": 156750,
+        "word": "婆媳长期一起生活接连患乳腺癌",
+        "onboard_time": 1775648542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216096,
+        "num": 152771,
+        "word": "吃了会肠胃胀气的食物",
+        "onboard_time": 1775654303,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177289,
+        "num": 149291,
+        "word": "金子涵说的是谁",
+        "onboard_time": 1775646143,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145507,
+        "num": 145507,
+        "word": "刘思维当爸爸了",
+        "onboard_time": 1775627602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129049,
+        "num": 139168,
+        "word": "上报78亿实际到账不足1亿",
+        "onboard_time": 1775655981,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "哪吒2票房升至全球第4",
+        "onboard_time": 1775639062,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58601,
+        "num": 136999,
+        "word": "以军对真主党发动本轮冲突以来最大空袭",
+        "onboard_time": 1775656042,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 136139,
+        "word": "莫氏鸡煲老板说自己养的鸡早卖完了",
+        "onboard_time": 1775656042,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48082,
+        "num": 135989,
+        "word": "河南舞阳77亿省外资金全靠编",
+        "onboard_time": 1775656042,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135954,
+        "num": 135954,
+        "word": "杨幂冯湮儿路透",
+        "onboard_time": 1775655203,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134717,
+        "num": 134717,
+        "word": "浪姐",
+        "onboard_time": 1775652922,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120384,
+        "num": 120384,
+        "word": "长大后才意识到父母有多厉害",
+        "onboard_time": 1775656823,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131291,
+        "num": 119572,
+        "word": "周杰伦给王俊凯杨迪变魔术",
+        "onboard_time": 1775654843,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117506,
+        "num": 117506,
+        "word": "肖战十日终焉三季连拍",
+        "onboard_time": 1775644521,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103737,
+        "num": 117403,
+        "word": "美国年轻人为何被锁死一生",
+        "onboard_time": 1775650102,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 117344,
+        "word": "油价跳水金价上涨股市上涨",
+        "onboard_time": 1775657062,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106935,
+        "num": 106935,
+        "word": "桃花坞",
+        "onboard_time": 1775651120,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106153,
+        "num": 106153,
+        "word": "浪姐倒数第一竞争太激烈了",
+        "onboard_time": 1775657062,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33120,
+        "num": 105777,
+        "word": "洲际酒店的霸王条款该收场了",
+        "onboard_time": 1775657243,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33773,
+        "num": 105644,
+        "word": "超市2小时接到7笔五粮液订单报警",
+        "onboard_time": 1775656823,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105592,
+        "num": 105592,
+        "word": "迪丽热巴花魁造型",
+        "onboard_time": 1775646380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103704,
+        "num": 103704,
+        "word": "刘宇宁直播",
+        "onboard_time": 1775649141,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101112,
+        "num": 101112,
+        "word": "尖扎黄河特大桥事故致13死3失联",
+        "onboard_time": 1775654303,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100036,
+        "num": 100036,
+        "word": "电费刺客找到了",
+        "onboard_time": 1775640861,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103361,
+        "num": 100028,
+        "word": "邓凯直播",
+        "onboard_time": 1775655443,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98763,
+        "num": 98763,
+        "word": "荣耀张雪机车战略合作",
+        "onboard_time": 1775656402,
+        "rank": 45,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 96318,
+        "num": 96318,
+        "word": "世乒赛国乒男团卫冕难度空前",
+        "onboard_time": 1775654363,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96581,
+        "num": 96077,
+        "word": "张雪第一次捧起世界冠军奖杯",
+        "onboard_time": 1775656462,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95797,
+        "num": 95797,
+        "word": "钢铁森林",
+        "onboard_time": 1775657303,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94169,
+        "num": 94169,
+        "word": "阚清子团未脱稿被赵兆狠批",
+        "onboard_time": 1775645781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力开创服务业高质量发展新局面#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1775581868941,
-  "endTime": 1775656101676,
+  "endTime": 1775657369020,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1150971,
+      "num": 1184155,
+      "word": "浪姐白买版权",
+      "onboard_time": 1775651421,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1025224,
       "num": 1164035,
       "word": "店主回应因博主吃12个汉堡报警",
@@ -67,20 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 989637,
-      "num": 198249,
+      "raw_hot": 1007182,
+      "num": 214034,
       "word": "刘耀文流口水 AI生成",
       "onboard_time": 1775652862,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 988190,
-      "num": 1158110,
-      "word": "浪姐白买版权",
-      "onboard_time": 1775651421,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 934868,
@@ -113,6 +113,14 @@
       "onboard_time": 1775631682,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737357,
+      "num": 888010,
+      "word": "快递 涨价",
+      "onboard_time": 1775655621,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 710527,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 589402,
-      "num": 194899,
+      "num": 207840,
       "word": "时代峰峻声明",
       "onboard_time": 1775652022,
       "rank": 11,
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 534793,
+      "num": 211755,
+      "word": "特朗普威胁对向伊朗供武的国家加税",
+      "onboard_time": 1775652743,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 522462,
       "num": 144549,
       "word": "特朗普最后通牒之后",
@@ -260,19 +276,11 @@
     },
     {
       "raw_hot": 499987,
-      "num": 188788,
+      "num": 205456,
       "word": "江语晨 抚养权官司",
       "onboard_time": 1775649861,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491773,
-      "num": 193213,
-      "word": "特朗普威胁对向伊朗供武的国家加税",
-      "onboard_time": 1775652743,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 484275,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 468291,
-      "num": 187538,
+      "num": 204013,
       "word": "失业的人可以从大冰这个角度找到机会",
       "onboard_time": 1775647582,
       "rank": 30,
@@ -321,6 +329,14 @@
       "onboard_time": 1775625923,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439816,
+      "num": 439816,
+      "word": "张萌冰湖重生直播哭了",
+      "onboard_time": 1775654061,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 430003,
@@ -385,14 +401,6 @@
       "onboard_time": 1775612841,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 382867,
-      "num": 382867,
-      "word": "张萌冰湖重生直播哭了",
-      "onboard_time": 1775654061,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 379130,
@@ -483,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 351074,
+      "num": 351074,
+      "word": "赵丽颖版楚乔传",
+      "onboard_time": 1775655621,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344152,
       "num": 344152,
       "word": "浪姐史上最难听的小考",
@@ -521,6 +537,14 @@
       "onboard_time": 1775635043,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320338,
+      "num": 320338,
+      "word": "黄金涨跌逻辑变了",
+      "onboard_time": 1775653942,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 316334,
@@ -579,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284075,
+      "num": 284075,
+      "word": "晒娃被网友催赶紧去医院宝妈发声",
+      "onboard_time": 1775650102,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281227,
       "num": 199682,
       "word": "孙怡 幼态脸高妹",
@@ -593,14 +625,6 @@
       "onboard_time": 1775648301,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 273262,
-      "num": 273262,
-      "word": "黄金涨跌逻辑变了",
-      "onboard_time": 1775653942,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 271107,
@@ -835,12 +859,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 211177,
-      "num": 211177,
-      "word": "晒娃被网友催赶紧去医院宝妈发声",
-      "onboard_time": 1775650102,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 216096,
+      "num": 152771,
+      "word": "吃了会肠胃胀气的食物",
+      "onboard_time": 1775654303,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203664,
@@ -987,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167650,
-      "num": 167650,
-      "word": "赵丽颖版楚乔传",
-      "onboard_time": 1775655621,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166835,
       "num": 155412,
       "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1775623522,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151504,
-      "num": 151504,
-      "word": "吃了会肠胃胀气的食物",
-      "onboard_time": 1775654303,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 151026,
@@ -1219,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135954,
+      "num": 135954,
+      "word": "杨幂冯湮儿路透",
+      "onboard_time": 1775655203,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135215,
       "num": 124858,
       "word": "陈少荣只给江语晨写过歌",
@@ -1267,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131291,
+      "num": 119572,
+      "word": "周杰伦给王俊凯杨迪变魔术",
+      "onboard_time": 1775654843,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129372,
       "num": 98950,
       "word": "以军空袭伊朗铁路和桥梁",
@@ -1275,12 +1299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128470,
-      "num": 100236,
-      "word": "周杰伦给王俊凯杨迪变魔术",
-      "onboard_time": 1775654843,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 129049,
+      "num": 168846,
+      "word": "上报78亿实际到账不足1亿",
+      "onboard_time": 1775655981,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 127844,
@@ -1379,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120384,
+      "num": 120384,
+      "word": "长大后才意识到父母有多厉害",
+      "onboard_time": 1775656823,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120088,
       "num": 120088,
       "word": "咏春小考",
@@ -1435,12 +1467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116948,
-      "num": 98217,
-      "word": "杨幂冯湮儿路透",
-      "onboard_time": 1775655203,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 117344,
+      "num": 117344,
+      "word": "油价跳水金价上涨股市上涨",
+      "onboard_time": 1775657062,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 116423,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1775638164,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113714,
-      "num": 168846,
-      "word": "上报78亿实际到账不足1亿",
-      "onboard_time": 1775655981,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 112293,
@@ -1524,7 +1548,7 @@
     },
     {
       "raw_hot": 109119,
-      "num": 90629,
+      "num": 100028,
       "word": "邓凯直播",
       "onboard_time": 1775655443,
       "rank": 36,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1775612720,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106153,
+      "num": 106153,
+      "word": "浪姐倒数第一竞争太激烈了",
+      "onboard_time": 1775657062,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 105784,
@@ -1571,11 +1603,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104609,
-      "num": 104609,
-      "word": "快递 涨价",
-      "onboard_time": 1775655621,
-      "rank": 31,
+      "raw_hot": 105373,
+      "num": 136139,
+      "word": "莫氏鸡煲老板说自己养的鸡早卖完了",
+      "onboard_time": 1775656042,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1601,6 +1633,14 @@
       "onboard_time": 1775627362,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103737,
+      "num": 653488,
+      "word": "美国年轻人为何被锁死一生",
+      "onboard_time": 1775650102,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102181,
@@ -1632,6 +1672,14 @@
       "word": "同事敲窗致女子心律失常被判赔偿",
       "onboard_time": 1775624783,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101112,
+      "num": 101112,
+      "word": "尖扎黄河特大桥事故致13死3失联",
+      "onboard_time": 1775654303,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1691,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98763,
+      "num": 98763,
+      "word": "荣耀张雪机车战略合作",
+      "onboard_time": 1775656402,
+      "rank": 45,
+      "category": "数码,汽车"
+    },
+    {
       "raw_hot": 98379,
       "num": 80128,
       "word": "北冰洋NFC葡萄汁含量十万分之五",
@@ -1715,12 +1771,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96581,
+      "num": 96077,
+      "word": "张雪第一次捧起世界冠军奖杯",
+      "onboard_time": 1775656462,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "钢铁森林 不删戏份不魔改小说",
       "onboard_time": 1775649742,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96318,
+      "num": 96318,
+      "word": "世乒赛国乒男团卫冕难度空前",
+      "onboard_time": 1775654363,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 95918,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1775630962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95797,
+      "num": 95797,
+      "word": "钢铁森林",
+      "onboard_time": 1775657303,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 95517,
@@ -1827,14 +1907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92487,
-      "num": 92487,
-      "word": "世乒赛国乒男团卫冕难度空前",
-      "onboard_time": 1775654363,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91924,
       "num": 91924,
       "word": "从2019聊到2026还没下单的客户",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1775632282,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89706,
-      "num": 89706,
-      "word": "尖扎黄河特大桥事故致13死3失联",
-      "onboard_time": 1775654303,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88628,
@@ -2059,14 +2123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80189,
-      "num": 653488,
-      "word": "美国年轻人为何被锁死一生",
-      "onboard_time": 1775650102,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80151,
       "num": 80151,
       "word": "亚锦赛李诗沣首轮出局",
@@ -2161,14 +2217,6 @@
       "onboard_time": 1775610381,
       "rank": 40,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 75780,
-      "num": 89660,
-      "word": "莫氏鸡煲老板说自己养的鸡早卖完了",
-      "onboard_time": 1775656042,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75761,
@@ -2363,6 +2411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58601,
+      "num": 136999,
+      "word": "以军对真主党发动本轮冲突以来最大空袭",
+      "onboard_time": 1775656042,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58407,
       "num": 58407,
       "word": "伊朗对美以发动第99波打击",
@@ -2459,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48082,
+      "num": 135989,
+      "word": "河南舞阳77亿省外资金全靠编",
+      "onboard_time": 1775656042,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47350,
       "num": 184797,
       "word": "石宇奇再现石一劈",
@@ -2476,7 +2540,7 @@
     },
     {
       "raw_hot": 46003,
-      "num": 178636,
+      "num": 201347,
       "word": "新阿维塔12重新定义时代好车",
       "onboard_time": 1775653462,
       "rank": 17,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1775567303,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41101,
-      "num": 88983,
-      "word": "河南舞阳77亿省外资金全靠编",
-      "onboard_time": 1775656042,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40551,
@@ -2627,12 +2683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33773,
+      "num": 105644,
+      "word": "超市2小时接到7笔五粮液订单报警",
+      "onboard_time": 1775656823,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33651,
       "num": 52920,
       "word": "官方通报网传都江堰现800克狗头金",
       "onboard_time": 1775586916,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 33120,
+      "num": 105777,
+      "word": "洲际酒店的霸王条款该收场了",
+      "onboard_time": 1775657243,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30902,
@@ -2699,14 +2771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24571,
-      "num": 89367,
-      "word": "以军对真主党发动本轮冲突以来最大空袭",
-      "onboard_time": 1775656042,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20746,
       "num": 89878,
       "word": "喜人真来桃花坞团建了",
@@ -2737,6 +2801,14 @@
       "onboard_time": 1775571264,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 13660,
+      "num": 655729,
+      "word": "春日经济新图景",
+      "onboard_time": 1775651902,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13354,
