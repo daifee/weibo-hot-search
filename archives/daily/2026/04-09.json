@@ -1,10 +1,18 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775692843105,
+  "endTime": 1775703117462,
   "band_list": [
     {
+      "raw_hot": 2390144,
+      "num": 161066,
+      "word": "金子涵否认是秦岚",
+      "onboard_time": 1775701762,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2012664,
-      "num": 103418,
+      "num": 126449,
       "word": "金子涵直播疑似求救",
       "onboard_time": 1775669296,
       "rank": 20,
@@ -35,12 +43,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 627163,
+      "num": 627163,
+      "word": "以色列政坛集体破防",
+      "onboard_time": 1775701280,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 503867,
+      "num": 1080618,
+      "word": "宁波男篮当场裁掉外援",
+      "onboard_time": 1775699720,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474646,
+      "num": 136222,
+      "word": "秦岚工作室声明",
+      "onboard_time": 1775701101,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 418919,
+      "num": 183165,
+      "word": "深圳通报救护车截单延误抢救致死",
+      "onboard_time": 1775696243,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380745,
-      "num": 129104,
+      "num": 160327,
       "word": "金靖说明显感觉到张凌赫太火了",
       "onboard_time": 1775660783,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372322,
+      "num": 270238,
+      "word": "以空袭黎巴嫩致254死1165伤",
+      "onboard_time": 1775695703,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 335661,
@@ -49,6 +97,14 @@
       "onboard_time": 1775659702,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319752,
+      "num": 125462,
+      "word": "疑似林凡发长文谈陆柯燃",
+      "onboard_time": 1775693902,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 307641,
@@ -60,7 +116,7 @@
     },
     {
       "raw_hot": 306999,
-      "num": 306999,
+      "num": 781085,
       "word": "杭州西湖将连续一周撒7吨漂白粉",
       "onboard_time": 1775691801,
       "rank": 30,
@@ -72,6 +128,14 @@
       "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
       "onboard_time": 1775660663,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294835,
+      "num": 294835,
+      "word": "杀发小男子因儿时手指被炸断积怨",
+      "onboard_time": 1775697801,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -91,12 +155,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201283,
+      "num": 121133,
+      "word": "吴世勋减重十斤",
+      "onboard_time": 1775695883,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197296,
       "num": 197296,
       "word": "哪吒2全球票房离第三不到一亿",
       "onboard_time": 1775690179,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "卤菜店使用四姐二字被索赔50万",
+      "onboard_time": 1775700861,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195148,
@@ -113,6 +193,14 @@
       "onboard_time": 1775658443,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189395,
+      "num": 151755,
+      "word": "吴克群人民日报撰文",
+      "onboard_time": 1775696603,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 175635,
@@ -139,6 +227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160164,
+      "num": 147333,
+      "word": "李小冉疑似手滑点赞",
+      "onboard_time": 1775698941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156582,
+      "num": 156582,
+      "word": "央视曝光黑中医馆骗局",
+      "onboard_time": 1775694922,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153830,
       "num": 153830,
       "word": "以色列空袭黎首都",
@@ -155,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131550,
+      "num": 131550,
+      "word": "贾平凹女儿被指论文抄袭",
+      "onboard_time": 1775700141,
+      "rank": 17,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 131396,
       "num": 125697,
       "word": "小狗近视主人花800元给定制眼镜",
       "onboard_time": 1775658263,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130842,
+      "num": 161287,
+      "word": "丹麦改台湾人居留证国籍为中国",
+      "onboard_time": 1775701940,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129286,
@@ -192,6 +312,14 @@
       "word": "女子海景房择菜听到了鲸鱼叫",
       "onboard_time": 1775658142,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120347,
+      "num": 120347,
+      "word": "副县长被举报出轨致孕女方发声",
+      "onboard_time": 1775701280,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -235,12 +363,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104688,
+      "num": 104688,
+      "word": "对网传贾某某论文抄袭等启动调查",
+      "onboard_time": 1775697562,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104450,
       "num": 104450,
       "word": "田曦薇活动发言",
       "onboard_time": 1775665459,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103741,
+      "num": 103741,
+      "word": "鹿晗勋章MV好多老熟人",
+      "onboard_time": 1775693723,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 103273,
+      "num": 103273,
+      "word": "胡先煦正式进组十日终焉",
+      "onboard_time": 1775697921,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102849,
+      "num": 100062,
+      "word": "霍尔木兹海峡再度关闭",
+      "onboard_time": 1775701101,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101895,
+      "num": 101895,
+      "word": "填补了晒被子时不能盖被子的空白",
+      "onboard_time": 1775699780,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 101771,
@@ -267,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97690,
+      "num": 97690,
+      "word": "香港艺人萧键铿去世",
+      "onboard_time": 1775700441,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97183,
+      "num": 97183,
+      "word": "赵丽颖楚乔打戏",
+      "onboard_time": 1775700620,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95565,
       "num": 95565,
       "word": "以色列支持特朗普停火决定",
@@ -281,6 +465,14 @@
       "onboard_time": 1775654303,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95421,
+      "num": 95421,
+      "word": "武汉暴雨",
+      "onboard_time": 1775692521,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94688,
@@ -299,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93449,
+      "num": 93449,
+      "word": "偶遇宋威龙泉州夜跑",
+      "onboard_time": 1775702301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92712,
       "num": 82678,
       "word": "中俄提出霍尔木兹海峡问题决议草案",
@@ -307,12 +507,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89079,
+      "num": 89079,
+      "word": "中国黄金第一家人流减少",
+      "onboard_time": 1775698280,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88141,
+      "num": 88141,
+      "word": "方博曾说被告知不允许打了",
+      "onboard_time": 1775697204,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87596,
       "num": 87596,
       "word": "肖战十日终焉开通官方账号",
       "onboard_time": 1775669536,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86795,
+      "num": 86795,
+      "word": "网剧宝珠",
+      "onboard_time": 1775700741,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86576,
+      "num": 86576,
+      "word": "211毕业生当保安后续",
+      "onboard_time": 1775699780,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85530,
@@ -331,11 +563,43 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82465,
-      "num": 82465,
-      "word": "武汉暴雨",
-      "onboard_time": 1775692521,
-      "rank": 34,
+      "raw_hot": 83445,
+      "num": 123190,
+      "word": "美伊临时停火或因以色列破裂",
+      "onboard_time": 1775701882,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77333,
+      "num": 77333,
+      "word": "TES回应现场观众不当应援",
+      "onboard_time": 1775700500,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 75127,
+      "num": 75127,
+      "word": "迪士尼计划裁员至多1000人",
+      "onboard_time": 1775702841,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 74481,
+      "num": 74481,
+      "word": "CBA联赛",
+      "onboard_time": 1775702780,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73727,
+      "num": 73727,
+      "word": "陈丽华告别仪式",
+      "onboard_time": 1775703021,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -345,6 +609,22 @@
       "onboard_time": 1775666896,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73320,
+      "num": 73320,
+      "word": "陆虎回应歌单",
+      "onboard_time": 1775698581,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72715,
+      "num": 72715,
+      "word": "中央气象台四个预警齐发",
+      "onboard_time": 1775699601,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72182,
@@ -363,12 +643,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71608,
+      "num": 72928,
+      "word": "特朗普见北约秘书长表达强烈不满",
+      "onboard_time": 1775700741,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71062,
       "num": 71062,
       "word": "长大后才意识到父母有多厉害",
       "onboard_time": 1775656823,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70958,
+      "num": 70958,
+      "word": "马嘉祺一千一万朵上线",
+      "onboard_time": 1775701221,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 69877,
@@ -401,6 +697,14 @@
       "onboard_time": 1775661862,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62701,
+      "num": 128701,
+      "word": "成都一卤菜店名用四姐被索赔50万",
+      "onboard_time": 1775701940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59002,
@@ -587,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30523,
+      "num": 86685,
+      "word": "男子求爱遭拒坠亡家属向女方索赔",
+      "onboard_time": 1775701940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26476,
       "num": 40536,
       "word": "家事法庭",
@@ -601,6 +913,14 @@
       "onboard_time": 1775651120,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23686,
+      "num": 129869,
+      "word": "卫星互联网低轨21组卫星发射成功",
+      "onboard_time": 1775695522,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19617,
@@ -641,6 +961,14 @@
       "onboard_time": 1775678834,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7527,
+      "num": 643084,
+      "word": "体验式消费点亮春日经济",
+      "onboard_time": 1775703021,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -649,6 +977,9 @@
     },
     {
       "word": "#以崭新政治面貌迎接建军一百周年#"
+    },
+    {
+      "word": "#总书记为服务业未来发展指明方向#"
     }
   ]
 }
