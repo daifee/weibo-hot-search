@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775720939516,
+  "endTime": 1775721742717,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2347,6 +2347,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 1919095,
+      "num": 198465,
+      "word": "薛之谦满头斑秃和水泡",
+      "onboard_time": 1775720241,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1918219,
       "num": 542362,
       "word": "逐玉双平台破万",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774968446,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1899886,
-      "num": 1025256,
-      "word": "春晚大赏",
-      "onboard_time": 1771204220,
-      "rank": 5,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

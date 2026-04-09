@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 15:48:59
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 16:02:22
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ TES上报Naiyou不正当行为（热度：2048848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%A1%E5%A4%B4%E6%96%91%E7%A7%83%E5%92%8C%E6%B0%B4%E6%B3%A1%23" target="weibo">
+薛之谦满头斑秃和水泡（热度：1919095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E5%8F%8C%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%23" target="weibo">
 逐玉双平台破万（热度：1918219）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B%23" target="weibo">
 单依纯拉黑网友（热度：1903871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%A4%A7%E8%B5%8F%23" target="weibo">
-春晚大赏（热度：1899886）
 </a>
 </li>
 
