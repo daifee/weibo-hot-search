@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775764025727,
+  "endTime": 1775768459005,
   "band_list": [
     {
       "raw_hot": 1488588,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39345,
+      "num": 14034,
+      "word": "伊朗表示不会对以侵略行为保持沉默",
+      "onboard_time": 1775764933,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34942,
       "num": 34942,
       "word": "孙杨3比0姚钧涛",
@@ -547,12 +555,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12495,
+      "raw_hot": 12687,
       "num": 16731,
       "word": "男二被防爆 当观众坐第一排",
       "onboard_time": 1775737222,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12137,
+      "num": 16731,
+      "word": "就贾浅浅涉嫌抄袭问题启动调查",
+      "onboard_time": 1775754497,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11823,
@@ -571,20 +587,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11291,
-      "num": 16731,
-      "word": "就贾浅浅涉嫌抄袭问题启动调查",
-      "onboard_time": 1775754497,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11055,
       "num": 16721,
       "word": "鞠婧祎想狐的风还是吹到了大漠",
       "onboard_time": 1775757196,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9227,
+      "num": 13017,
+      "word": "被现实版莫奈花园美哭了",
+      "onboard_time": 1775764874,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 8917,
