@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 10:51:57
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 11:35:43
 </p>
 </blockquote>
 <p>
@@ -587,6 +587,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%BB%84%E6%88%90%E4%BA%BA%E9%93%BE%E4%BF%9D%E6%8A%A4%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E6%A1%A5%E6%A2%81%23" target="weibo">
 伊朗民众组成人链保护发电厂和桥梁（热度：908403）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E9%9B%86%E4%BD%93%E7%A0%B4%E9%98%B2%23" target="weibo">
+以色列政坛集体破防（热度：905434）
 </a>
 </li>
 
@@ -1175,12 +1181,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 金昊已被执行死刑（热度：627512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E9%9B%86%E4%BD%93%E7%A0%B4%E9%98%B2%23" target="weibo">
-以色列政坛集体破防（热度：627163）
 </a>
 </li>
 
@@ -2315,6 +2315,12 @@ iPhone18Pro配色前瞻（热度：408290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%94%9F%E5%9B%BE%23" target="weibo">
 鞠婧祎生图（热度：406206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E8%8F%9C%E5%BA%97%E4%BD%BF%E7%94%A8%E5%9B%9B%E5%A7%90%E4%BA%8C%E5%AD%97%E8%A2%AB%E7%B4%A2%E8%B5%9450%E4%B8%87%23" target="weibo">
+卤菜店使用四姐二字被索赔50万（热度：406137）
 </a>
 </li>
 
@@ -4419,6 +4425,12 @@ kpop七人团魔咒还在发力（热度：243620）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%9B%E7%A6%BD%E9%A3%9E%E5%85%A5%E5%A5%B3%E5%AD%90%E6%80%80%E9%87%8C%E4%BE%9D%E5%81%8E%E7%8C%AB%E5%92%AA%E9%9C%87%E6%83%8A%23" target="weibo">
+猛禽飞入女子怀里依偎猫咪震惊（热度：243442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E9%94%90%E8%AF%84%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B06%E7%A7%92%E5%8F%91%E8%A8%80%23" target="weibo">
 浙江宣传锐评县委书记6秒发言（热度：243176）
 </a>
@@ -5481,12 +5493,6 @@ KSG对战DYG（热度：197455）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A4%E8%8F%9C%E5%BA%97%E4%BD%BF%E7%94%A8%E5%9B%9B%E5%A7%90%E4%BA%8C%E5%AD%97%E8%A2%AB%E7%B4%A2%E8%B5%9450%E4%B8%87%23" target="weibo">
-卤菜店使用四姐二字被索赔50万（热度：195845）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E4%B9%B0%E5%AE%B6%E7%8B%82%E6%8A%9B%23" target="weibo">
 黄金大买家狂抛（热度：195684）
 </a>
@@ -5637,6 +5643,12 @@ NCT十周年预告（热度：192751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAAI%E7%9C%BC%E9%95%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23" target="weibo">
+华为AI眼镜即将发布（热度：191989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
 内存条价格大跳水（热度：191172）
 </a>
@@ -5699,6 +5711,12 @@ TXT新专 万妮达（热度：190342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%BE%AE%E5%8D%9A%E8%BF%BD%E5%89%A7%E5%9B%A2%23" target="weibo">
 月鳞绮纪微博追剧团（热度：189851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%8D%E5%BA%A6%E5%85%B3%E9%97%AD%23" target="weibo">
+霍尔木兹海峡再度关闭（热度：189771）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ AL对战TES（热度：183446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E7%94%9C%E7%88%86%E4%BA%86%23" target="weibo">
 申裕斌甜爆了（热度：177924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%94329%E6%A0%AA%E6%A7%9F%E6%A6%94%E8%8B%97%E6%8A%A4%E7%A5%96%E5%9D%9F%E8%8E%B7%E5%88%91%23" target="weibo">
-男子拔329株槟榔苗护祖坟获刑（热度：177327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9C%9F%E6%AD%A3%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E6%A0%B8%E6%AD%A6%E5%99%A8%23" target="weibo">
-伊朗真正意义上的核武器（热度：177110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD2%E6%9E%B6%E7%BE%8E%E6%88%98%E6%9C%BA%E5%87%BB%E4%B8%AD2%E6%9E%B6%E9%BB%91%E9%B9%B0%23" target="weibo">
-伊朗击落2架美战机击中2架黑鹰（热度：177005）
 </a>
 </li>
 

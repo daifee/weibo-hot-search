@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775703117462,
+  "endTime": 1775705743576,
   "band_list": [
     {
       "raw_hot": 2390144,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2012664,
-      "num": 126449,
+      "num": 128220,
       "word": "金子涵直播疑似求救",
       "onboard_time": 1775669296,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 905434,
+      "num": 627163,
+      "word": "以色列政坛集体破防",
+      "onboard_time": 1775701280,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 864471,
@@ -43,14 +51,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 627163,
-      "num": 627163,
-      "word": "以色列政坛集体破防",
-      "onboard_time": 1775701280,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 503867,
       "num": 1080618,
       "word": "宁波男篮当场裁掉外援",
@@ -72,6 +72,14 @@
       "word": "深圳通报救护车截单延误抢救致死",
       "onboard_time": 1775696243,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406137,
+      "num": 1064981,
+      "word": "卤菜店使用四姐二字被索赔50万",
+      "onboard_time": 1775700861,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 319752,
-      "num": 125462,
+      "num": 128196,
       "word": "疑似林凡发长文谈陆柯燃",
       "onboard_time": 1775693902,
       "rank": 21,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243442,
+      "num": 243442,
+      "word": "猛禽飞入女子怀里依偎猫咪震惊",
+      "onboard_time": 1775703502,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224889,
       "num": 126149,
       "word": "以色列希望战事再持续至少1个月",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 201283,
-      "num": 121133,
+      "num": 127935,
       "word": "吴世勋减重十斤",
       "onboard_time": 1775695883,
       "rank": 23,
@@ -171,20 +187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195845,
-      "num": 195845,
-      "word": "卤菜店使用四姐二字被索赔50万",
-      "onboard_time": 1775700861,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195148,
       "num": 195148,
       "word": "黄灿灿用QQ秀打开乘风2026",
       "onboard_time": 1775690299,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191989,
+      "num": 128141,
+      "word": "华为AI眼镜即将发布",
+      "onboard_time": 1775703860,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 189802,
@@ -195,12 +211,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189771,
+      "num": 128067,
+      "word": "霍尔木兹海峡再度关闭",
+      "onboard_time": 1775701101,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189395,
       "num": 151755,
       "word": "吴克群人民日报撰文",
       "onboard_time": 1775696603,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176785,
+      "num": 116625,
+      "word": "店主称已再三致歉吃12个汉堡女子",
+      "onboard_time": 1775705240,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175635,
@@ -211,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175061,
+      "num": 175061,
+      "word": "丹麦改台湾人居留证国籍为中国",
+      "onboard_time": 1775701940,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170623,
       "num": 170623,
       "word": "上报78亿实际到账不足1亿",
       "onboard_time": 1775655981,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 170434,
+      "num": 127995,
+      "word": "肠胃不好的人吃水果要有选择",
+      "onboard_time": 1775705120,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163514,
@@ -259,6 +307,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136746,
+      "num": 136746,
+      "word": "男子求爱遭拒坠亡家属向女方索赔",
+      "onboard_time": 1775701940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132653,
+      "num": 127982,
+      "word": "翻斗花园还有一个名字叫汤臣一品",
+      "onboard_time": 1775703741,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131643,
+      "num": 129218,
+      "word": "NCT十周年预告",
+      "onboard_time": 1775661862,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131550,
       "num": 131550,
       "word": "贾平凹女儿被指论文抄袭",
@@ -275,12 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130842,
-      "num": 161287,
-      "word": "丹麦改台湾人居留证国籍为中国",
-      "onboard_time": 1775701940,
+      "raw_hot": 130485,
+      "num": 130485,
+      "word": "以色列搅局",
+      "onboard_time": 1775703621,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 130387,
+      "num": 136551,
+      "word": "乒乓顶流为上海乒乓球嘉年华打call",
+      "onboard_time": 1775703980,
       "rank": 9,
-      "category": "国内时政"
+      "category": "体育"
     },
     {
       "raw_hot": 129286,
@@ -288,6 +368,14 @@
       "word": "樊振东放弃伦敦世乒赛资格",
       "onboard_time": 1775650461,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127883,
+      "num": 127883,
+      "word": "如何看待樊振东自愿放弃",
+      "onboard_time": 1775704580,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -323,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112160,
+      "num": 112160,
+      "word": "胃不好的人每天belike",
+      "onboard_time": 1775705182,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110170,
       "num": 110170,
       "word": "多地有10级雷暴大风",
@@ -355,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106972,
+      "num": 106972,
+      "word": "偶遇宋威龙泉州夜跑",
+      "onboard_time": 1775702301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106639,
+      "num": 106639,
+      "word": "陈丽华告别仪式",
+      "onboard_time": 1775703021,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106173,
       "num": 106173,
       "word": "刘宇宁曾一晚连跳8次依赖摇",
@@ -379,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103864,
+      "num": 103864,
+      "word": "陈思诚新片10间敢死队定档",
+      "onboard_time": 1775703140,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103741,
       "num": 103741,
       "word": "鹿晗勋章MV好多老熟人",
@@ -393,14 +513,6 @@
       "onboard_time": 1775697921,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102849,
-      "num": 100062,
-      "word": "霍尔木兹海峡再度关闭",
-      "onboard_time": 1775701101,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101895,
@@ -419,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101575,
+      "num": 101575,
+      "word": "康师傅无法兑奖消费者发声",
+      "onboard_time": 1775704822,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100442,
       "num": 100442,
       "word": "家长怒斥小学附近卖针头捏捏乐",
@@ -427,12 +547,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 99366,
+      "num": 99366,
+      "word": "孕28周镜面人成功生下宝宝",
+      "onboard_time": 1775705539,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98367,
+      "num": 98367,
+      "word": "教育局回应学生乱丢垃圾被大屏批评",
+      "onboard_time": 1775703860,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98003,
       "num": 98003,
       "word": "NCT",
       "onboard_time": 1775661683,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97894,
+      "num": 97894,
+      "word": "白宫称美方接受的是伊朗修改后的新方案",
+      "onboard_time": 1775703439,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97690,
@@ -491,12 +635,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93449,
-      "num": 93449,
-      "word": "偶遇宋威龙泉州夜跑",
-      "onboard_time": 1775702301,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 93708,
+      "num": 617872,
+      "word": "虚假摆拍深山救助流浪女3人被查",
+      "onboard_time": 1775703381,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92712,
@@ -507,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90024,
+      "num": 90024,
+      "word": "当老师上课时突然想上厕所",
+      "onboard_time": 1775705482,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89079,
       "num": 89079,
       "word": "中国黄金第一家人流减少",
@@ -515,12 +667,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89002,
+      "num": 89002,
+      "word": "樊振东自愿放弃不该被阴谋论解读",
+      "onboard_time": 1775705423,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88141,
       "num": 88141,
       "word": "方博曾说被告知不允许打了",
       "onboard_time": 1775697204,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88104,
+      "num": 88104,
+      "word": "消促会曝婴儿手口湿巾藏重金属锑",
+      "onboard_time": 1775704101,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87596,
@@ -571,6 +739,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82274,
+      "num": 82274,
+      "word": "以色列议员公开辱骂特朗普",
+      "onboard_time": 1775705661,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 78809,
+      "num": 78809,
+      "word": "李嘉诚一边卖电网一边囤石油",
+      "onboard_time": 1775704702,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77333,
       "num": 77333,
       "word": "TES回应现场观众不当应援",
@@ -593,14 +777,6 @@
       "onboard_time": 1775702780,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73727,
-      "num": 73727,
-      "word": "陈丽华告别仪式",
-      "onboard_time": 1775703021,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73698,
@@ -683,20 +859,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67333,
+      "num": 128263,
+      "word": "中专生带手机入校被罚回家待到毕业",
+      "onboard_time": 1775704822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67220,
       "num": 67220,
       "word": "日本73岁老人来中国求职",
       "onboard_time": 1775650821,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66188,
-      "num": 53432,
-      "word": "NCT十周年预告",
-      "onboard_time": 1775661862,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 62701,
@@ -889,14 +1065,6 @@
       "onboard_time": 1775644521,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30523,
-      "num": 86685,
-      "word": "男子求爱遭拒坠亡家属向女方索赔",
-      "onboard_time": 1775701940,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26476,

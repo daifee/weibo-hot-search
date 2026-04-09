@@ -1,0 +1,410 @@
+{
+  "runTime": 1775705743576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 406137,
+        "num": 1064981,
+        "word": "卤菜店使用四姐二字被索赔50万",
+        "onboard_time": 1775700861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391221,
+        "num": 750454,
+        "word": "宁波男篮当场裁掉外援",
+        "onboard_time": 1775699720,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93708,
+        "num": 617872,
+        "word": "虚假摆拍深山救助流浪女3人被查",
+        "onboard_time": 1775703381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 905434,
+        "num": 540490,
+        "word": "以色列政坛集体破防",
+        "onboard_time": 1775701280,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243442,
+        "num": 243442,
+        "word": "猛禽飞入女子怀里依偎猫咪震惊",
+        "onboard_time": 1775703502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339825,
+        "num": 229606,
+        "word": "以空袭黎巴嫩致254死1165伤",
+        "onboard_time": 1775695703,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200910,
+        "num": 200910,
+        "word": "杭州西湖将连续一周撒7吨漂白粉",
+        "onboard_time": 1775691801,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175061,
+        "num": 175061,
+        "word": "丹麦改台湾人居留证国籍为中国",
+        "onboard_time": 1775701940,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136746,
+        "num": 136746,
+        "word": "男子求爱遭拒坠亡家属向女方索赔",
+        "onboard_time": 1775701940,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130387,
+        "num": 136551,
+        "word": "乒乓顶流为上海乒乓球嘉年华打call",
+        "onboard_time": 1775703980,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1723887,
+        "num": 136312,
+        "word": "金子涵否认是秦岚",
+        "onboard_time": 1775701762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245602,
+        "num": 135823,
+        "word": "深圳通报救护车截单延误抢救致死",
+        "onboard_time": 1775696243,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213688,
+        "num": 135632,
+        "word": "金靖说明显感觉到张凌赫太火了",
+        "onboard_time": 1775660783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135499,
+        "num": 135499,
+        "word": "吴克群人民日报撰文",
+        "onboard_time": 1775696603,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130485,
+        "num": 130485,
+        "word": "以色列搅局",
+        "onboard_time": 1775703621,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316992,
+        "num": 129459,
+        "word": "秦岚工作室声明",
+        "onboard_time": 1775701101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131643,
+        "num": 129218,
+        "word": "NCT十周年预告",
+        "onboard_time": 1775661862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208267,
+        "num": 128977,
+        "word": "杀发小男子因儿时手指被炸断积怨",
+        "onboard_time": 1775697801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128301,
+        "num": 128301,
+        "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
+        "onboard_time": 1775660663,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67333,
+        "num": 128263,
+        "word": "中专生带手机入校被罚回家待到毕业",
+        "onboard_time": 1775704822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1198716,
+        "num": 128220,
+        "word": "金子涵直播疑似求救",
+        "onboard_time": 1775669296,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258929,
+        "num": 128196,
+        "word": "疑似林凡发长文谈陆柯燃",
+        "onboard_time": 1775693902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191989,
+        "num": 128141,
+        "word": "华为AI眼镜即将发布",
+        "onboard_time": 1775703860,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189771,
+        "num": 128067,
+        "word": "霍尔木兹海峡再度关闭",
+        "onboard_time": 1775701101,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170434,
+        "num": 127995,
+        "word": "肠胃不好的人吃水果要有选择",
+        "onboard_time": 1775705120,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132653,
+        "num": 127982,
+        "word": "翻斗花园还有一个名字叫汤臣一品",
+        "onboard_time": 1775703741,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130378,
+        "num": 127935,
+        "word": "吴世勋减重十斤",
+        "onboard_time": 1775695883,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127883,
+        "num": 127883,
+        "word": "如何看待樊振东自愿放弃",
+        "onboard_time": 1775704580,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121239,
+        "num": 121239,
+        "word": "贾平凹女儿被指论文抄袭",
+        "onboard_time": 1775700141,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 117411,
+        "num": 117411,
+        "word": "副县长被举报出轨致孕女方发声",
+        "onboard_time": 1775701280,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176785,
+        "num": 116625,
+        "word": "店主称已再三致歉吃12个汉堡女子",
+        "onboard_time": 1775705240,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112160,
+        "num": 112160,
+        "word": "胃不好的人每天belike",
+        "onboard_time": 1775705182,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106972,
+        "num": 106972,
+        "word": "偶遇宋威龙泉州夜跑",
+        "onboard_time": 1775702301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106639,
+        "num": 106639,
+        "word": "陈丽华告别仪式",
+        "onboard_time": 1775703021,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103864,
+        "num": 103864,
+        "word": "陈思诚新片10间敢死队定档",
+        "onboard_time": 1775703140,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "康师傅无法兑奖消费者发声",
+        "onboard_time": 1775704822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99366,
+        "num": 99366,
+        "word": "孕28周镜面人成功生下宝宝",
+        "onboard_time": 1775705539,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98367,
+        "num": 98367,
+        "word": "教育局回应学生乱丢垃圾被大屏批评",
+        "onboard_time": 1775703860,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97894,
+        "num": 97894,
+        "word": "白宫称美方接受的是伊朗修改后的新方案",
+        "onboard_time": 1775703439,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92829,
+        "num": 92829,
+        "word": "李小冉疑似手滑点赞",
+        "onboard_time": 1775698941,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90024,
+        "num": 90024,
+        "word": "当老师上课时突然想上厕所",
+        "onboard_time": 1775705482,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89002,
+        "num": 89002,
+        "word": "樊振东自愿放弃不该被阴谋论解读",
+        "onboard_time": 1775705423,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88169,
+        "num": 88169,
+        "word": "鹿晗勋章MV好多老熟人",
+        "onboard_time": 1775693723,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88104,
+        "num": 88104,
+        "word": "消促会曝婴儿手口湿巾藏重金属锑",
+        "onboard_time": 1775704101,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82274,
+        "num": 82274,
+        "word": "以色列议员公开辱骂特朗普",
+        "onboard_time": 1775705661,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80755,
+        "num": 80755,
+        "word": "赵丽颖楚乔打戏",
+        "onboard_time": 1775700620,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78809,
+        "num": 78809,
+        "word": "李嘉诚一边卖电网一边囤石油",
+        "onboard_time": 1775704702,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76267,
+        "num": 76267,
+        "word": "武汉暴雨",
+        "onboard_time": 1775692521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75292,
+        "num": 75292,
+        "word": "香港艺人萧键铿去世",
+        "onboard_time": 1775700441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74769,
+        "num": 74769,
+        "word": "央视曝光黑中医馆骗局",
+        "onboard_time": 1775694922,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为服务业未来发展指明方向#"
+    }
+  }
+}
