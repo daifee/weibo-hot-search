@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 17:48:30
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 19:07:30
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A1%B6%E5%B8%85%E7%94%B7%E6%BC%94%E5%91%98%E8%A2%AB%E5%AF%8C%E5%A9%86%E5%A4%A7%E9%97%B9%E7%89%87%E5%9C%BA%23" target="weibo">
 曝顶帅男演员被富婆大闹片场（热度：1174653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%AB%A0%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BA%86%23" target="weibo">
+文章开饭店了（热度：1160785）
 </a>
 </li>
 
@@ -1485,6 +1491,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%B7%B2%E4%B8%8E%E4%BA%BA%E7%B1%BB%E6%8E%A5%E8%A7%A6%23" target="weibo">
+美议员称外星人已与人类接触（热度：554692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%99%B9%E6%B4%811%E4%B8%AA%E4%BA%BA%E8%A6%81%E8%B5%A1%E5%85%BB5%E4%B8%AA%E8%80%81%E4%BA%BA%23" target="weibo">
 倪虹洁1个人要赡养5个老人（热度：554428）
 </a>
@@ -2187,6 +2199,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E6%9B%BE%E8%80%83%E8%99%91%E6%8D%A2%E8%84%B8%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%23" target="weibo">
+张萌曾考虑换脸黄杨钿甜（热度：442901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%8C%9D%E6%AD%BB%E9%81%97%E4%BA%A7%E7%BB%A7%E6%89%BF%E6%9D%83%E4%BA%B2%E5%84%BF%E5%AD%90%E4%BB%85%E5%8D%A0%E5%85%AB%E5%88%86%E4%B9%8B%E4%B8%80%23" target="weibo">
 女方猝死遗产继承权亲儿子仅占八分之一（热度：440988）
 </a>
@@ -2403,6 +2421,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8D%9616000%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%AD%99%E5%A5%B3%E6%89%93%E8%B5%8F%E7%BB%99%E4%B8%BB%E6%92%AD%23" target="weibo">
+爷爷卖16000个烧饼孙女打赏给主播（热度：413049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%B4%E5%A4%A7%E4%BA%86%23" target="weibo">
 美国头大了（热度：412525）
 </a>
@@ -2579,12 +2603,6 @@ iPhone18Pro配色前瞻（热度：408290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B3%E8%85%BA%E7%99%8C%E6%97%A9%E6%9C%9F%E7%9A%845%E4%B8%AA%E8%AD%A6%E7%A4%BA%E7%97%87%E7%8A%B6%23" target="weibo">
 乳腺癌早期的5个警示症状（热度：397069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%8D%9616000%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%AD%99%E5%A5%B3%E6%89%93%E8%B5%8F%E7%BB%99%E4%B8%BB%E6%92%AD%23" target="weibo">
-爷爷卖16000个烧饼孙女打赏给主播（热度：396327）
 </a>
 </li>
 
@@ -3075,6 +3093,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E6%B9%96%E9%87%8D%E7%94%9F%E6%B7%B3%E5%84%BF%E5%8F%97%E8%BE%B1%E6%88%8F%23" target="weibo">
+冰湖重生淳儿受辱戏（热度：346715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E6%B2%A1%E6%9C%89%E8%A8%80%E8%AE%BA%23" target="weibo">
 张雪回应一个子儿没有言论（热度：345923）
 </a>
@@ -3287,6 +3311,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%89%B2%E6%9E%9C%E7%84%B6%E6%8A%91%E5%88%B6%E9%A3%9F%E6%AC%B2%23" target="weibo">
 蓝色果然抑制食欲（热度：327158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%9B%9E%E5%BA%94%E8%8C%83%E7%8E%AE%E7%90%AA%E6%B5%AA%E5%A7%90%E5%88%9D%E8%88%9E%E5%8F%B0%23" target="weibo">
+小S回应范玮琪浪姐初舞台（热度：326825）
 </a>
 </li>
 
@@ -4209,6 +4239,12 @@ nctdream 小拇指（热度：281089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E4%B8%8D%E5%8A%9E%E5%A9%9A%E7%A4%BC%E4%B8%8D%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
+李纯马頔不办婚礼不拍婚纱照（热度：268784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2381%E5%B2%81%E7%9A%84%E6%BD%98%E8%BF%8E%E7%B4%AB%23" target="weibo">
 81岁的潘迎紫（热度：268370）
 </a>
@@ -4565,6 +4601,12 @@ JDG对战WB（热度：248725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BC%98%E6%80%9D%E7%9B%8A%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%23" target="weibo">
 央视曝光优思益多平台下架（热度：248656）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%94%B6%E5%85%A5%E6%9B%9D%E5%85%89%23" target="weibo">
+权志龙收入曝光（热度：248206）
 </a>
 </li>
 
@@ -5063,6 +5105,12 @@ TES对战iG（热度：227602）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%23" target="weibo">
 喜人奇妙夜（热度：223892）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E6%AD%A2%E6%AD%A5%E5%A4%AA%E5%8E%9F%E7%AB%99%E7%94%B7%E5%8D%95%E9%A6%96%E8%BD%AE%23" target="weibo">
+向鹏止步太原站男单首轮（热度：223496）
 </a>
 </li>
 
@@ -5963,54 +6011,6 @@ NCT十周年预告（热度：192751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%9B%9D%E7%B4%A7%E6%80%A5%E9%87%87%E8%B4%AD%23" target="weibo">
 五角大楼被曝紧急采购（热度：190651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8D%B7%E5%88%B0%E8%80%81%E7%A5%96%E5%AE%97%E9%82%A3%E8%BE%B9%E4%BA%86%E5%90%97%23" target="weibo">
-金价卷到老祖宗那边了吗（热度：190635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%23" target="weibo">
-天龙三号（热度：190552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%A2%91%E7%B9%81%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%87%B4%E8%80%B3%E9%81%93%E5%8F%91%E9%9C%89%E9%95%BF%E7%99%BD%E6%AF%9B%23" target="weibo">
-男子频繁掏耳朵致耳道发霉长白毛（热度：190514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA4%E6%AF%940%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%23" target="weibo">
-松岛辉空4比0莫雷加德（热度：190404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TXT%E6%96%B0%E4%B8%93%20%E4%B8%87%E5%A6%AE%E8%BE%BE%23" target="weibo">
-TXT新专 万妮达（热度：190342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9B%B4%E6%8E%A5%E5%9B%9E%E7%AD%94%E8%8B%B1%E6%96%87%E6%8F%90%E9%97%AE%23" target="weibo">
-孙颖莎直接回答英文提问（热度：190075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%BE%AE%E5%8D%9A%E8%BF%BD%E5%89%A7%E5%9B%A2%23" target="weibo">
-月鳞绮纪微博追剧团（热度：189851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%8D%E5%BA%A6%E5%85%B3%E9%97%AD%23" target="weibo">
-霍尔木兹海峡再度关闭（热度：189771）
 </a>
 </li>
 

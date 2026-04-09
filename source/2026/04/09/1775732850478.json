@@ -1,0 +1,410 @@
+{
+  "runTime": 1775732850478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 554692,
+        "num": 1088750,
+        "word": "美议员称外星人已与人类接触",
+        "onboard_time": 1775728882,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413049,
+        "num": 779382,
+        "word": "爷爷卖16000个烧饼孙女打赏给主播",
+        "onboard_time": 1775726001,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56888,
+        "num": 609931,
+        "word": "最新暴雨强对流预警",
+        "onboard_time": 1775721142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 530037,
+        "word": "多次试管流产后夫妻因生育起分歧",
+        "onboard_time": 1775725280,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123162,
+        "num": 508253,
+        "word": "女孩玩拼豆不幸触电离世",
+        "onboard_time": 1775708182,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506272,
+        "num": 506272,
+        "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+        "onboard_time": 1775721803,
+        "rank": 5,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 346715,
+        "num": 346715,
+        "word": "冰湖重生淳儿受辱戏",
+        "onboard_time": 1775729540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200079,
+        "num": 333161,
+        "word": "男子被保时捷车主当交警面威胁",
+        "onboard_time": 1775720542,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326825,
+        "num": 326825,
+        "word": "小S回应范玮琪浪姐初舞台",
+        "onboard_time": 1775731881,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100657,
+        "num": 249422,
+        "word": "樊振东不参赛为何令人难以接受",
+        "onboard_time": 1775731822,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442901,
+        "num": 249116,
+        "word": "张萌曾考虑换脸黄杨钿甜",
+        "onboard_time": 1775729601,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223496,
+        "num": 223496,
+        "word": "向鹏止步太原站男单首轮",
+        "onboard_time": 1775731161,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185018,
+        "num": 185018,
+        "word": "美国的停火谈判被以色列加了备注",
+        "onboard_time": 1775717241,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174739,
+        "num": 174739,
+        "word": "金莎回应质疑",
+        "onboard_time": 1775726962,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137459,
+        "num": 137459,
+        "word": "民勤种树女生遭恶意凝视引众怒",
+        "onboard_time": 1775723902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195306,
+        "num": 133965,
+        "word": "张萌曾找过楚乔传原班人马",
+        "onboard_time": 1775722582,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117740,
+        "num": 117740,
+        "word": "黄金再反转",
+        "onboard_time": 1775723361,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109614,
+        "num": 109614,
+        "word": "胃癌真的是拖出来的",
+        "onboard_time": 1775717424,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108601,
+        "num": 108601,
+        "word": "伊朗外长说美国必须二选一",
+        "onboard_time": 1775714363,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108067,
+        "num": 108067,
+        "word": "穿普拉达的女王2",
+        "onboard_time": 1775732362,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17406,
+        "num": 107914,
+        "word": "女子靠转弯让直行碰瓷30余起被刑拘",
+        "onboard_time": 1775732482,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1160785,
+        "num": 107141,
+        "word": "文章开饭店了",
+        "onboard_time": 1775729722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556243,
+        "num": 105956,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133214,
+        "num": 105423,
+        "word": "恋与深空",
+        "onboard_time": 1775731040,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274084,
+        "num": 104927,
+        "word": "papi酱已退出papitube",
+        "onboard_time": 1775726062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16913,
+        "num": 104300,
+        "word": "女子推迟婚礼捐骨髓8年后双方相见",
+        "onboard_time": 1775732482,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19004,
+        "num": 103008,
+        "word": "2947人投资群2946人是托",
+        "onboard_time": 1775732482,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268784,
+        "num": 102386,
+        "word": "李纯马頔不办婚礼不拍婚纱照",
+        "onboard_time": 1775718501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248206,
+        "num": 101466,
+        "word": "权志龙收入曝光",
+        "onboard_time": 1775727381,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101421,
+        "num": 101421,
+        "word": "中国军队有足够的能力反制威胁挑衅",
+        "onboard_time": 1775722341,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 97789,
+        "word": "孙杨张豆豆有孩子了",
+        "onboard_time": 1775722041,
+        "rank": 30,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 160276,
+        "num": 97401,
+        "word": "曝当红男艺人曾阻止男二出席剧宣",
+        "onboard_time": 1775726062,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93606,
+        "num": 93606,
+        "word": "重生之我是Hero久诚",
+        "onboard_time": 1775727082,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123584,
+        "num": 92625,
+        "word": "迟重瑞现身陈丽华告别仪式",
+        "onboard_time": 1775727321,
+        "rank": 33,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 91485,
+        "num": 91485,
+        "word": "武汉暴雨大桥再现雨帘瀑布",
+        "onboard_time": 1775730741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88782,
+        "num": 88782,
+        "word": "35岁孕妇吃冰箱剩菜后去世",
+        "onboard_time": 1775708363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87982,
+        "num": 87982,
+        "word": "金子涵直播疑似求救",
+        "onboard_time": 1775669296,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82025,
+        "num": 82025,
+        "word": "薛之谦青岛抢票",
+        "onboard_time": 1775729300,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79349,
+        "num": 79349,
+        "word": "一杯咸奶茶相当于直接吃下一块腐乳",
+        "onboard_time": 1775730741,
+        "rank": 38,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 25748,
+        "num": 77566,
+        "word": "男子出差脑出血身亡家属索赔宾馆",
+        "onboard_time": 1775732482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76166,
+        "num": 76166,
+        "word": "钎城拍摄日记vlog",
+        "onboard_time": 1775732601,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 75946,
+        "word": "金子涵称后脑勺伤疤是植发手术留下的",
+        "onboard_time": 1775715803,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75296,
+        "num": 75296,
+        "word": "郑合惠子签约杨幂新公司",
+        "onboard_time": 1775711723,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 73804,
+        "word": "顺德又一饭店被刘雨鑫带火",
+        "onboard_time": 1775732601,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72457,
+        "num": 72457,
+        "word": "霍思燕回应爱犬在泰国夺冠",
+        "onboard_time": 1775724083,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71886,
+        "num": 71886,
+        "word": "迪丽热巴不知道市面上有什么剧本",
+        "onboard_time": 1775716820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68559,
+        "num": 68559,
+        "word": "最无力的年纪遇到最无理取闹的妈",
+        "onboard_time": 1775732301,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71527,
+        "num": 68330,
+        "word": "楚乔传云合上榜",
+        "onboard_time": 1775732420,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67990,
+        "num": 67990,
+        "word": "等我老了才不会玩这些梗",
+        "onboard_time": 1775727802,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70776,
+        "num": 67638,
+        "word": "霍思燕的另一只狗也夺冠了",
+        "onboard_time": 1775730203,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强科技自主创新和人才自主培养#"
+    }
+  }
+}
