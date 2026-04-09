@@ -1,0 +1,410 @@
+{
+  "runTime": 1775720939516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329515,
+        "num": 1052722,
+        "word": "房贷年利率3.8变8.7五年才发现",
+        "onboard_time": 1775710703,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113496,
+        "num": 765529,
+        "word": "20元中6715万彩票店老板发声",
+        "onboard_time": 1775705841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20194,
+        "num": 629140,
+        "word": "中国第42次南极考察队凯旋",
+        "onboard_time": 1775720842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552756,
+        "num": 552756,
+        "word": "李纯马𬱖不办婚礼不拍婚纱照",
+        "onboard_time": 1775718501,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463623,
+        "num": 463623,
+        "word": "美国的停火谈判被以色列加了备注",
+        "onboard_time": 1775717241,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 506053,
+        "num": 453936,
+        "word": "迪丽热巴不知道市面上有什么剧本",
+        "onboard_time": 1775716820,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427437,
+        "num": 427437,
+        "word": "伊朗外长说美国必须二选一",
+        "onboard_time": 1775714363,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307351,
+        "num": 307351,
+        "word": "女孩玩拼豆不幸触电离世",
+        "onboard_time": 1775708182,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216939,
+        "num": 216939,
+        "word": "王者峡谷变色了",
+        "onboard_time": 1775718742,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207632,
+        "num": 207632,
+        "word": "十万头猪拱进沙漠治沙真成了",
+        "onboard_time": 1775709682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1690961,
+        "num": 202076,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671057,
+        "num": 198465,
+        "word": "薛之谦满头斑秃和水泡",
+        "onboard_time": 1775720241,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332627,
+        "num": 198306,
+        "word": "胃癌真的是拖出来的",
+        "onboard_time": 1775717424,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194230,
+        "num": 194230,
+        "word": "蓝莓价格几乎腰斩",
+        "onboard_time": 1775714723,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21170,
+        "num": 193330,
+        "word": "一镜到底看109项重大工程",
+        "onboard_time": 1775720423,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254626,
+        "num": 190135,
+        "word": "张豆豆回应孙杨被说妈宝男",
+        "onboard_time": 1775715563,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306233,
+        "num": 187383,
+        "word": "郑合惠子签约杨幂新公司",
+        "onboard_time": 1775711723,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 183662,
+        "word": "以色列政坛集体破防",
+        "onboard_time": 1775701280,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 396074,
+        "num": 181594,
+        "word": "金莎孙丞潇已完成婚前财产公证",
+        "onboard_time": 1775712205,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279846,
+        "num": 179120,
+        "word": "孙俪回应危险关系收视率不好",
+        "onboard_time": 1775716102,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176307,
+        "num": 176307,
+        "word": "35岁孕妇吃冰箱剩菜后去世",
+        "onboard_time": 1775708363,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331441,
+        "num": 173350,
+        "word": "金子涵直播疑似求救",
+        "onboard_time": 1775669296,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163976,
+        "num": 163976,
+        "word": "张萌谈冰湖重生为什么没换角",
+        "onboard_time": 1775715142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137752,
+        "num": 137752,
+        "word": "女子空腹半斤蓝莓连吃两天患胃石症",
+        "onboard_time": 1775715622,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116523,
+        "num": 126954,
+        "word": "男子被保时捷车主当交警面威胁",
+        "onboard_time": 1775720542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123147,
+        "num": 123147,
+        "word": "乳腺癌早期的5个警示症状",
+        "onboard_time": 1775706862,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239139,
+        "num": 123018,
+        "word": "金子涵称后脑勺伤疤是植发手术留下的",
+        "onboard_time": 1775715803,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122883,
+        "num": 122883,
+        "word": "用了很久的苹果手机才发现的功能",
+        "onboard_time": 1775716581,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103541,
+        "num": 103541,
+        "word": "女子顺手买18元彩票中814万",
+        "onboard_time": 1775715023,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103403,
+        "num": 103403,
+        "word": "胃不好的人每天belike",
+        "onboard_time": 1775705182,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129160,
+        "num": 103310,
+        "word": "9位乳腺癌患者自述早期信号",
+        "onboard_time": 1775720181,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 103102,
+        "word": "曝穆祉丞将演十日终焉金元勋",
+        "onboard_time": 1775720423,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100962,
+        "num": 100962,
+        "word": "洲际酒店回应被约谈",
+        "onboard_time": 1775718742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67298,
+        "num": 99239,
+        "word": "伊朗击落敌方一架先进战斗机",
+        "onboard_time": 1775720781,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98653,
+        "num": 98653,
+        "word": "81岁的潘迎紫",
+        "onboard_time": 1775710824,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89121,
+        "num": 89121,
+        "word": "垫底辣孩回应恋情",
+        "onboard_time": 1775707881,
+        "rank": 35,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 87876,
+        "num": 87876,
+        "word": "金价跌破4700",
+        "onboard_time": 1775716641,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85745,
+        "num": 85745,
+        "word": "KPL",
+        "onboard_time": 1775718381,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85421,
+        "num": 85421,
+        "word": "黄金店年薪45万抢空乘",
+        "onboard_time": 1775716761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84935,
+        "num": 84935,
+        "word": "多国齐声谴责以色列",
+        "onboard_time": 1775706381,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82355,
+        "num": 82355,
+        "word": "优衣库被曝靠偷拍消费者防盗",
+        "onboard_time": 1775718742,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82226,
+        "num": 82226,
+        "word": "17部影片定档2026五一档",
+        "onboard_time": 1775706922,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78317,
+        "num": 78317,
+        "word": "特朗普称美伊停火不包括黎巴嫩",
+        "onboard_time": 1775720481,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76979,
+        "num": 76979,
+        "word": "35岁女子身高154cm腹围159cm",
+        "onboard_time": 1775710283,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74210,
+        "num": 74210,
+        "word": "峰学蔚来恢复常态化直播",
+        "onboard_time": 1775720842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69927,
+        "num": 69927,
+        "word": "徐良成都抢票",
+        "onboard_time": 1775720300,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67003,
+        "num": 67003,
+        "word": "莫氏鸡煲老板发声",
+        "onboard_time": 1775720423,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66633,
+        "num": 66633,
+        "word": "妈妈帮女儿相亲赚了200多万",
+        "onboard_time": 1775710763,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64016,
+        "num": 64016,
+        "word": "曝吴宣仪要转型",
+        "onboard_time": 1775719641,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65157,
+        "num": 63930,
+        "word": "李小冉又在哪儿闯祸呢",
+        "onboard_time": 1775718682,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强科技自主创新和人才自主培养#"
+    }
+  }
+}
