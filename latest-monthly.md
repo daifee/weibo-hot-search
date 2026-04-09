@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 07:46:42
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 08:00:43
 </p>
 </blockquote>
 <p>
@@ -141,6 +141,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23" target="weibo">
+金子涵直播疑似求救（热度：2012664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB%23" target="weibo">
 白宫回应特朗普病重住院传闻（热度：1974723）
 </a>
@@ -161,12 +167,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%AE%89%E5%B4%8E%20%E7%A5%A8%E6%95%B0%23" target="weibo">
 李小冉安崎 票数（热度：1934011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23" target="weibo">
-金子涵直播疑似求救（热度：1899688）
 </a>
 </li>
 
@@ -657,6 +657,12 @@ TEN李永钦不续约（热度：868167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%B2%B9%E8%BD%AE%E9%80%9A%E8%A1%8C%23" target="weibo">
+伊朗已叫停霍尔木兹海峡油轮通行（热度：864471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%20%E9%BB%91%E9%A9%AC%23" target="weibo">
 何宣林 黑马（热度：864034）
 </a>
@@ -713,12 +719,6 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%9E%E5%A4%9C%E6%8B%9B%E4%BA%BA%E6%95%B4%E6%94%B9%23" target="weibo">
 陈都灵工作室连夜招人整改（热度：833266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%B2%B9%E8%BD%AE%E9%80%9A%E8%A1%8C%23" target="weibo">
-伊朗已叫停霍尔木兹海峡油轮通行（热度：833104）
 </a>
 </li>
 
@@ -1089,6 +1089,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A989%E6%AD%BB722%E4%BC%A4%23" target="weibo">
+以军大规模空袭致黎巴嫩89死722伤（热度：649741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E8%89%B3%E7%BD%91%E8%AF%BE%E7%8E%B0%E5%9C%BA%E6%B2%A1%E6%9C%89%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%81%8A%E5%97%A8%E4%BA%86%23" target="weibo">
 刘晓艳网课现场没有学生一个人聊嗨了（热度：648918）
 </a>
@@ -1127,12 +1133,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%83%A0%20%E5%AE%9E%E5%8A%9B%E6%B4%BE%23" target="weibo">
 万千惠 实力派（热度：637483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A989%E6%AD%BB722%E4%BC%A4%23" target="weibo">
-以军大规模空袭致黎巴嫩89死722伤（热度：636314）
 </a>
 </li>
 
@@ -3357,6 +3357,12 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E4%B8%80%E5%91%A8%E6%92%927%E5%90%A8%E6%BC%82%E7%99%BD%E7%B2%89%23" target="weibo">
+杭州西湖将连续一周撒7吨漂白粉（热度：306999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90%23" target="weibo">
 开心消消乐（热度：306897）
 </a>
@@ -3461,6 +3467,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E7%88%86%E5%89%A7%E7%8E%84%E5%AD%A6%23" target="weibo">
 肖战十日终焉爆剧玄学（热度：301193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BD%AC%E8%A1%8C%E6%91%86%E6%91%8A%E5%8D%96%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A55%E4%B8%87%23" target="weibo">
+35岁程序员转行摆摊卖肉蛋堡月入5万（热度：299662）
 </a>
 </li>
 
@@ -3965,12 +3977,6 @@ nctdream 小拇指（热度：281089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SuperJunior%E8%87%B4%E6%AD%89%23" target="weibo">
 SuperJunior致歉（热度：267660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BD%AC%E8%A1%8C%E6%91%86%E6%91%8A%E5%8D%96%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A55%E4%B8%87%23" target="weibo">
-35岁程序员转行摆摊卖肉蛋堡月入5万（热度：267617）
 </a>
 </li>
 
@@ -4743,6 +4749,12 @@ TES对战iG（热度：227602）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B8%8C%E6%9C%9B%E6%88%98%E4%BA%8B%E5%86%8D%E6%8C%81%E7%BB%AD%E8%87%B3%E5%B0%911%E4%B8%AA%E6%9C%88%23" target="weibo">
+以色列希望战事再持续至少1个月（热度：224889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E6%88%AA%E7%98%AB%E5%A5%B3%E5%AD%90%E8%BD%A6%E7%A5%B8%E6%97%B6%E5%9D%90%E5%A7%BF%23" target="weibo">
 多方回应截瘫女子车祸时坐姿（热度：224195）
 </a>
@@ -4967,12 +4979,6 @@ iG战胜TES（热度：218352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E7%AB%8B%E6%84%8F%E7%89%87%E6%9D%A5%E4%BA%86%23" target="weibo">
 乘风2026立意片来了（热度：213464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B8%8C%E6%9C%9B%E6%88%98%E4%BA%8B%E5%86%8D%E6%8C%81%E7%BB%AD%E8%87%B3%E5%B0%911%E4%B8%AA%E6%9C%88%23" target="weibo">
-以色列希望战事再持续至少1个月（热度：213451）
 </a>
 </li>
 
@@ -5447,6 +5453,12 @@ Tian哭了（热度：195516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%8D%E8%A2%AD%E5%B7%B4%E6%9E%97%E7%9A%84%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E8%AE%A1%E7%AE%97%E4%B8%AD%E5%BF%83%23" target="weibo">
 伊朗再袭巴林的亚马逊云计算中心（热度：195237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E7%94%A8QQ%E7%A7%80%E6%89%93%E5%BC%80%E4%B9%98%E9%A3%8E2026%23" target="weibo">
+黄灿灿用QQ秀打开乘风2026（热度：195148）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ AL对战TES（热度：183446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%23" target="weibo">
 以军宣布暂停打击伊朗（热度：174880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%86%99%E8%AE%BA%E6%96%87%E4%BB%85%E7%9D%A14%E5%B0%8F%E6%97%B6%E9%94%BB%E7%82%BC%E6%97%B6%E5%80%92%E4%B8%8B%23" target="weibo">
-女生写论文仅睡4小时锻炼时倒下（热度：174641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%9B%AD%E5%91%A8%E8%BE%B9%E6%AF%92%E7%8E%A9%E5%85%B7%E6%B3%9B%E6%BB%A5%23" target="weibo">
-校园周边毒玩具泛滥（热度：174208）
 </a>
 </li>
 
