@@ -1,0 +1,410 @@
+{
+  "runTime": 1775736723955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249689,
+        "num": 1039950,
+        "word": "女子靠转弯让直行碰瓷30余起被刑拘",
+        "onboard_time": 1775732482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142615,
+        "num": 728064,
+        "word": "女子推迟婚礼捐骨髓8年后双方相见",
+        "onboard_time": 1775732482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57752,
+        "num": 583951,
+        "word": "最新暴雨强对流预警",
+        "onboard_time": 1775721142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301134,
+        "num": 301134,
+        "word": "白日提灯第28集无广",
+        "onboard_time": 1775735181,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256063,
+        "num": 256063,
+        "word": "巴基斯坦总理明确说停火包括黎巴嫩",
+        "onboard_time": 1775733622,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173869,
+        "num": 173869,
+        "word": "sbti测试爆火",
+        "onboard_time": 1775735481,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145199,
+        "num": 145199,
+        "word": "张元英看BTS演唱会",
+        "onboard_time": 1775735602,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143187,
+        "num": 143187,
+        "word": "NIP战胜WBG",
+        "onboard_time": 1775735602,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126505,
+        "num": 126505,
+        "word": "男子被保时捷车主当交警面威胁",
+        "onboard_time": 1775720542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20811,
+        "num": 126401,
+        "word": "国防部回应日部署远程导弹",
+        "onboard_time": 1775735962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 882300,
+        "num": 124078,
+        "word": "内娱嘴亲烂了都拍不出这样汹涌的爱意",
+        "onboard_time": 1775735302,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554416,
+        "num": 122457,
+        "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+        "onboard_time": 1775721803,
+        "rank": 11,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 372415,
+        "num": 120610,
+        "word": "美议员称外星人已与人类接触",
+        "onboard_time": 1775728882,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 411381,
+        "num": 117082,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362339,
+        "num": 115598,
+        "word": "刘畊宏再晒王俊凯小泡芙合照",
+        "onboard_time": 1775733441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301528,
+        "num": 114701,
+        "word": "爷爷卖16000个烧饼孙女打赏给主播",
+        "onboard_time": 1775726001,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183621,
+        "num": 111942,
+        "word": "papi酱已退出papitube",
+        "onboard_time": 1775726062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147261,
+        "num": 110119,
+        "word": "穿普拉达的女王2",
+        "onboard_time": 1775732362,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109454,
+        "num": 109454,
+        "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
+        "onboard_time": 1775734462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 104210,
+        "word": "美国的停火谈判被以色列加了备注",
+        "onboard_time": 1775717241,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176341,
+        "num": 103883,
+        "word": "孙杨张豆豆有孩子了",
+        "onboard_time": 1775722041,
+        "rank": 20,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 156461,
+        "num": 103452,
+        "word": "胃病拖成胃癌会经历5个阶段",
+        "onboard_time": 1775733681,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136382,
+        "num": 102224,
+        "word": "BTS演唱会",
+        "onboard_time": 1775734342,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112294,
+        "num": 102124,
+        "word": "张萌曾找过楚乔传原班人马",
+        "onboard_time": 1775722582,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54506,
+        "num": 101314,
+        "word": "男子开路虎加油500元后逃单",
+        "onboard_time": 1775736501,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110774,
+        "num": 100725,
+        "word": "三个内娱神奇工作室",
+        "onboard_time": 1775736202,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100208,
+        "num": 100208,
+        "word": "迟重瑞现身陈丽华告别仪式",
+        "onboard_time": 1775727321,
+        "rank": 26,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 99330,
+        "num": 99330,
+        "word": "NIP对战WBG",
+        "onboard_time": 1775731941,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161289,
+        "num": 99256,
+        "word": "多次试管流产后夫妻因生育起分歧",
+        "onboard_time": 1775725280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97404,
+        "num": 97404,
+        "word": "女孩玩拼豆不幸触电离世",
+        "onboard_time": 1775708182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94695,
+        "num": 94695,
+        "word": "民勤种树女生遭恶意凝视引众怒",
+        "onboard_time": 1775723902,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133293,
+        "num": 94124,
+        "word": "5人坠河遇难女孩刚搬入新房读书",
+        "onboard_time": 1775734641,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93487,
+        "num": 93487,
+        "word": "伊朗威胁退出停火",
+        "onboard_time": 1775733861,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87393,
+        "num": 92409,
+        "word": "顺德又一饭店被刘雨鑫带火",
+        "onboard_time": 1775732601,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92182,
+        "num": 92182,
+        "word": "伊朗为黎巴嫩硬刚美国",
+        "onboard_time": 1775735842,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91465,
+        "num": 91465,
+        "word": "黄金再反转",
+        "onboard_time": 1775723361,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89560,
+        "num": 89560,
+        "word": "李纯马頔不办婚礼不拍婚纱照",
+        "onboard_time": 1775718501,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86060,
+        "num": 86060,
+        "word": "金莎回应质疑",
+        "onboard_time": 1775726962,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82641,
+        "num": 82641,
+        "word": "花生配可乐",
+        "onboard_time": 1775735241,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81898,
+        "num": 81898,
+        "word": "郭敬明拍的九尾妖狐月下变身",
+        "onboard_time": 1775735842,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79207,
+        "num": 79207,
+        "word": "恋与深空",
+        "onboard_time": 1775731040,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86836,
+        "num": 79124,
+        "word": "曝某大厂超大杯手机停更",
+        "onboard_time": 1775736621,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75603,
+        "num": 75603,
+        "word": "向鹏止步太原站男单首轮",
+        "onboard_time": 1775731161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73678,
+        "num": 73678,
+        "word": "姐姐们演我看王俊凯",
+        "onboard_time": 1775736261,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71169,
+        "num": 71169,
+        "word": "胃癌真的是拖出来的",
+        "onboard_time": 1775717424,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70400,
+        "num": 70400,
+        "word": "戛纳",
+        "onboard_time": 1775734282,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68502,
+        "num": 68502,
+        "word": "乒协主席曾说希望樊振东为国征战",
+        "onboard_time": 1775734821,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68315,
+        "num": 68315,
+        "word": "一杯咸奶茶相当于直接吃下一块腐乳",
+        "onboard_time": 1775730741,
+        "rank": 47,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 67539,
+        "num": 67539,
+        "word": "语数英老师笑了半天不知道谁教的",
+        "onboard_time": 1775736681,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67163,
+        "num": 67163,
+        "word": "已婚女子回应男同学逼其离婚",
+        "onboard_time": 1775736081,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强科技自主创新和人才自主培养#"
+    }
+  }
+}

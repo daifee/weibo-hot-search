@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775734373647,
+  "endTime": 1775736723955,
   "band_list": [
     {
       "raw_hot": 3943174,
@@ -65,6 +65,14 @@
       "onboard_time": 1775701280,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 882300,
+      "num": 124078,
+      "word": "内娱嘴亲烂了都拍不出这样汹涌的爱意",
+      "onboard_time": 1775735302,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 864471,
@@ -339,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 362339,
+      "num": 148534,
+      "word": "刘畊宏再晒王俊凯小泡芙合照",
+      "onboard_time": 1775733441,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346715,
       "num": 346715,
       "word": "冰湖重生淳儿受辱戏",
@@ -409,6 +425,14 @@
       "onboard_time": 1775691801,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301134,
+      "num": 301134,
+      "word": "白日提灯第28集无广",
+      "onboard_time": 1775735181,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 299662,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256063,
+      "num": 256063,
+      "word": "巴基斯坦总理明确说停火包括黎巴嫩",
+      "onboard_time": 1775733622,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254626,
       "num": 190135,
       "word": "张豆豆回应孙杨被说妈宝男",
@@ -504,6 +536,14 @@
       "word": "男子求复合遭女友拒绝次日坠楼身亡",
       "onboard_time": 1775706322,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249689,
+      "num": 1039950,
+      "word": "女子靠转弯让直行碰瓷30余起被刑拘",
+      "onboard_time": 1775732482,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -755,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173869,
+      "num": 173869,
+      "word": "sbti测试爆火",
+      "onboard_time": 1775735481,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173666,
       "num": 173666,
       "word": "35岁女子身高154cm腹围159cm",
@@ -835,20 +883,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158972,
-      "num": 811361,
-      "word": "女子靠转弯让直行碰瓷30余起被刑拘",
-      "onboard_time": 1775732482,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156582,
       "num": 156582,
       "word": "央视曝光黑中医馆骗局",
       "onboard_time": 1775694922,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156461,
+      "num": 103452,
+      "word": "胃病拖成胃癌会经历5个阶段",
+      "onboard_time": 1775733681,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153830,
@@ -867,12 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148534,
-      "num": 148534,
-      "word": "刘畊宏再晒王俊凯小泡芙合照",
-      "onboard_time": 1775733441,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 147261,
+      "num": 270785,
+      "word": "穿普拉达的女王2",
+      "onboard_time": 1775732362,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 147115,
@@ -891,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "张元英看BTS演唱会",
+      "onboard_time": 1775735602,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143260,
       "num": 143260,
       "word": "官方通报不必回避贾浅浅的名字",
@@ -899,12 +955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143187,
+      "num": 143187,
+      "word": "NIP战胜WBG",
+      "onboard_time": 1775735602,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142998,
       "num": 142998,
       "word": "张予曦毕雯珺官宣新综艺",
       "onboard_time": 1775711425,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142615,
+      "num": 728064,
+      "word": "女子推迟婚礼捐骨髓8年后双方相见",
+      "onboard_time": 1775732482,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140686,
@@ -945,6 +1017,22 @@
       "onboard_time": 1775723361,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136382,
+      "num": 102224,
+      "word": "BTS演唱会",
+      "onboard_time": 1775734342,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133293,
+      "num": 94124,
+      "word": "5人坠河遇难女孩刚搬入新房读书",
+      "onboard_time": 1775734641,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133214,
@@ -1060,7 +1148,7 @@
     },
     {
       "raw_hot": 123584,
-      "num": 95688,
+      "num": 100208,
       "word": "迟重瑞现身陈丽华告别仪式",
       "onboard_time": 1775727321,
       "rank": 39,
@@ -1091,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118688,
-      "num": 270785,
-      "word": "穿普拉达的女王2",
-      "onboard_time": 1775732362,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117850,
       "num": 117850,
       "word": "张雪宣布捐赠嫣然加码",
@@ -1115,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116692,
-      "num": 85228,
-      "word": "巴基斯坦总理明确说停火包括黎巴嫩",
-      "onboard_time": 1775733622,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114864,
       "num": 114864,
       "word": "曝穆祉丞将演十日终焉金元勋",
@@ -1131,11 +1203,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110774,
+      "num": 100725,
+      "word": "三个内娱神奇工作室",
+      "onboard_time": 1775736202,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110170,
       "num": 110170,
       "word": "多地有10级雷暴大风",
       "onboard_time": 1775664860,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109454,
+      "num": 109454,
+      "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
+      "onboard_time": 1775734462,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1177,14 +1265,6 @@
       "onboard_time": 1775659223,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107051,
-      "num": 207433,
-      "word": "女子推迟婚礼捐骨髓8年后双方相见",
-      "onboard_time": 1775732482,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107041,
@@ -1379,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99330,
+      "num": 99330,
+      "word": "NIP对战WBG",
+      "onboard_time": 1775731941,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98398,
       "num": 98398,
       "word": "张予曦毕雯珺合伙人海报站位",
@@ -1507,6 +1595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93487,
+      "num": 93487,
+      "word": "伊朗威胁退出停火",
+      "onboard_time": 1775733861,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93082,
       "num": 93082,
       "word": "孙杨处理婆媳关系",
@@ -1531,6 +1627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92182,
+      "num": 92182,
+      "word": "伊朗为黎巴嫩硬刚美国",
+      "onboard_time": 1775735842,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91943,
       "num": 91943,
       "word": "小时候吃的蘑古力居然是盗版",
@@ -1548,7 +1652,7 @@
     },
     {
       "raw_hot": 91175,
-      "num": 91175,
+      "num": 92409,
       "word": "顺德又一饭店被刘雨鑫带火",
       "onboard_time": 1775732601,
       "rank": 43,
@@ -1643,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86836,
+      "num": 79124,
+      "word": "曝某大厂超大杯手机停更",
+      "onboard_time": 1775736621,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86795,
       "num": 86795,
       "word": "网剧宝珠",
@@ -1731,12 +1843,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82849,
-      "num": 82849,
-      "word": "胃病拖成胃癌会经历5个阶段",
-      "onboard_time": 1775733681,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 82641,
+      "num": 82641,
+      "word": "花生配可乐",
+      "onboard_time": 1775735241,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 82025,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1775720781,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81898,
+      "num": 81898,
+      "word": "郭敬明拍的九尾妖狐月下变身",
+      "onboard_time": 1775735842,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79352,
@@ -1875,6 +1995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73678,
+      "num": 73678,
+      "word": "姐姐们演我看王俊凯",
+      "onboard_time": 1775736261,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73320,
       "num": 73320,
       "word": "陆虎回应歌单",
@@ -1963,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70400,
+      "num": 70400,
+      "word": "戛纳",
+      "onboard_time": 1775734282,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69927,
       "num": 69927,
       "word": "徐良成都抢票",
@@ -2003,6 +2139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68502,
+      "num": 68502,
+      "word": "乒协主席曾说希望樊振东为国征战",
+      "onboard_time": 1775734821,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67539,
+      "num": 67539,
+      "word": "语数英老师笑了半天不知道谁教的",
+      "onboard_time": 1775736681,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67333,
       "num": 128263,
       "word": "中专生带手机入校被罚回家待到毕业",
@@ -2019,12 +2171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66960,
-      "num": 66960,
-      "word": "伊朗威胁退出停火",
-      "onboard_time": 1775733861,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 67163,
+      "num": 67163,
+      "word": "已婚女子回应男同学逼其离婚",
+      "onboard_time": 1775736081,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65157,
@@ -2051,14 +2203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62063,
-      "num": 62063,
-      "word": "戛纳",
-      "onboard_time": 1775734282,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 60535,
       "num": 60223,
       "word": "TOP二开",
@@ -2073,14 +2217,6 @@
       "onboard_time": 1775733801,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60064,
-      "num": 60064,
-      "word": "BTS演唱会",
-      "onboard_time": 1775734342,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 59002,
@@ -2121,6 +2257,14 @@
       "onboard_time": 1775691680,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54506,
+      "num": 101314,
+      "word": "男子开路虎加油500元后逃单",
+      "onboard_time": 1775736501,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54456,
@@ -2385,6 +2529,14 @@
       "onboard_time": 1775720423,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20811,
+      "num": 126401,
+      "word": "国防部回应日部署远程导弹",
+      "onboard_time": 1775735962,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20194,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 19:32:53
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 20:12:03
 </p>
 </blockquote>
 <p>
@@ -671,6 +671,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B4%E5%8F%AF%E8%83%BD%E7%BC%BA%E5%B8%AD%E4%B8%A4%E4%B8%AA%E5%AD%A3%E5%BA%A6%E7%9B%B4%E6%92%AD%23" target="weibo">
 李佳琦说可能缺席两个季度直播（热度：884624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%98%B4%E4%BA%B2%E7%83%82%E4%BA%86%E9%83%BD%E6%8B%8D%E4%B8%8D%E5%87%BA%E8%BF%99%E6%A0%B7%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%88%B1%E6%84%8F%23" target="weibo">
+内娱嘴亲烂了都拍不出这样汹涌的爱意（热度：882300）
 </a>
 </li>
 
@@ -2961,6 +2967,12 @@ NCT（热度：372369）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%86%8D%E6%99%92%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%8F%E6%B3%A1%E8%8A%99%E5%90%88%E7%85%A7%23" target="weibo">
+刘畊宏再晒王俊凯小泡芙合照（热度：362339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%87%AA%E6%9B%9D%E4%B8%8D%E6%8B%8D%E6%88%8F%E5%8E%9F%E5%9B%A0%23" target="weibo">
 黄子韬自曝不拍戏原因（热度：361366）
 </a>
@@ -3729,6 +3741,12 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%AC%AC28%E9%9B%86%E6%97%A0%E5%B9%BF%23" target="weibo">
+白日提灯第28集无广（热度：301134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BD%AC%E8%A1%8C%E6%91%86%E6%91%8A%E5%8D%96%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A55%E4%B8%87%23" target="weibo">
 35岁程序员转行摆摊卖肉蛋堡月入5万（热度：299662）
 </a>
@@ -4479,6 +4497,12 @@ B站将上线播放页暂停广告（热度：257616）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E6%98%8E%E7%A1%AE%E8%AF%B4%E5%81%9C%E7%81%AB%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%23" target="weibo">
+巴基斯坦总理明确说停火包括黎巴嫩（热度：256063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B3%89%E6%8B%8D%E6%88%8F%E7%9C%9F%E5%81%9A%E4%BA%86%E8%83%83%E9%95%9C%23" target="weibo">
 袁泉拍戏真做了胃镜（热度：255995）
 </a>
@@ -4583,6 +4607,12 @@ B站官宣暂停广告（热度：251125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%A5%E5%8D%B7%E4%B8%AD%E6%AF%92%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B3134%E4%BA%BA%23" target="weibo">
 台湾春卷中毒人数增至134人（热度：249719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9D%A0%E8%BD%AC%E5%BC%AF%E8%AE%A9%E7%9B%B4%E8%A1%8C%E7%A2%B0%E7%93%B730%E4%BD%99%E8%B5%B7%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+女子靠转弯让直行碰瓷30余起被刑拘（热度：249689）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ NCT十周年预告（热度：192751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E2%E6%AF%947%E8%90%BD%E5%90%8E%E5%AE%8C%E6%88%90%E9%80%86%E8%BD%AC%23" target="weibo">
 孙颖莎2比7落后完成逆转（热度：192451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAAI%E7%9C%BC%E9%95%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23" target="weibo">
-华为AI眼镜即将发布（热度：191989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C%23" target="weibo">
-妻子的浪漫旅行（热度：191312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
-内存条价格大跳水（热度：191172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%8D%E7%A7%B0%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA%23" target="weibo">
-伊朗再称击落美军F35战机（热度：191152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BD%93%E6%97%A5%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%8F%8B%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%23" target="weibo">
-结婚登记当日得知女友患精神分裂（热度：190998）
 </a>
 </li>
 
