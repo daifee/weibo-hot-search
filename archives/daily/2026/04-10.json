@@ -1,10 +1,10 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775775194272,
+  "endTime": 1775776106913,
   "band_list": [
     {
       "raw_hot": 1488588,
-      "num": 80703,
+      "num": 80754,
       "word": "sbti测试是啥",
       "onboard_time": 1775750900,
       "rank": 10,
@@ -27,7 +27,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421111,
+      "raw_hot": 506415,
       "num": 288418,
       "word": "一条生命换一张7.6万元罚单",
       "onboard_time": 1775749401,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 349446,
+      "raw_hot": 423518,
       "num": 1039314,
       "word": "武汉有轨电车与电动车相撞",
       "onboard_time": 1775746104,
@@ -43,8 +43,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 314740,
-      "num": 314740,
+      "raw_hot": 371734,
+      "num": 371734,
       "word": "美以或对伊朗采取割草模式",
       "onboard_time": 1775747663,
       "rank": 21,
@@ -155,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153540,
+      "num": 475952,
+      "word": "男子卖房为母治病打赏女主播22.5万",
+      "onboard_time": 1775744364,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146048,
       "num": 188526,
       "word": "陈哲远少上点网吧",
       "onboard_time": 1775745325,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144732,
+      "num": 80620,
+      "word": "海湾国家慌了",
+      "onboard_time": 1775775798,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138164,
@@ -179,8 +195,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100439,
-      "num": 53242,
+      "raw_hot": 110296,
+      "num": 80424,
+      "word": "伊朗表示不会对以侵略行为保持沉默",
+      "onboard_time": 1775764933,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108448,
+      "num": 80715,
       "word": "白宫称美伊将于11日上午举行首轮会谈",
       "onboard_time": 1775754915,
       "rank": 44,
@@ -193,14 +217,6 @@
       "onboard_time": 1775736202,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98930,
-      "num": 409127,
-      "word": "男子卖房为母治病打赏女主播22.5万",
-      "onboard_time": 1775744364,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98815,
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85911,
+      "num": 80233,
+      "word": "贾浅浅仍保持沉默",
+      "onboard_time": 1775750900,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85464,
       "num": 85464,
       "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
@@ -235,20 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81224,
+      "num": 80582,
+      "word": "开心消消乐程序员写给女友的情书",
+      "onboard_time": 1775755337,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80691,
+      "num": 80691,
+      "word": "李纯吐槽自己妈妈没苦硬吃",
+      "onboard_time": 1775773996,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79013,
-      "num": 45459,
+      "num": 80464,
       "word": "阚清子只睡了两个小时",
       "onboard_time": 1775751379,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78516,
-      "num": 34230,
-      "word": "伊朗表示不会对以侵略行为保持沉默",
-      "onboard_time": 1775764933,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77278,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 74288,
-      "num": 74288,
+      "num": 80574,
       "word": "平台将助力瘫痪女孩看邓紫棋演唱会",
       "onboard_time": 1775746823,
       "rank": 28,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 66398,
-      "num": 66398,
+      "num": 80286,
       "word": "美议员称外星人已与人类接触",
       "onboard_time": 1775728882,
       "rank": 33,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 63097,
-      "num": 63097,
+      "num": 80315,
       "word": "小米YU7入门级版本",
       "onboard_time": 1775742383,
       "rank": 35,
@@ -348,23 +380,15 @@
     },
     {
       "raw_hot": 58556,
-      "num": 58556,
+      "num": 80081,
       "word": "丁俊晖发长文回信球迷",
       "onboard_time": 1775750542,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 57955,
-      "num": 57955,
-      "word": "贾浅浅仍保持沉默",
-      "onboard_time": 1775750900,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 57361,
-      "num": 57361,
+      "num": 80113,
       "word": "乘风2026",
       "onboard_time": 1775740883,
       "rank": 41,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 55977,
-      "num": 67562,
+      "num": 80291,
       "word": "洋葱飞船音乐节 取消",
       "onboard_time": 1775750001,
       "rank": 43,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 52717,
-      "num": 52717,
+      "num": 80508,
       "word": "浑身是血的美军上校15分钟被转移",
       "onboard_time": 1775741183,
       "rank": 48,
@@ -419,60 +443,76 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 51103,
-      "num": 52743,
-      "word": "白日提灯第28集无广",
-      "onboard_time": 1775735181,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 48726,
-      "num": 48726,
-      "word": "李纯吐槽自己妈妈没苦硬吃",
-      "onboard_time": 1775773996,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48416,
-      "num": 48416,
-      "word": "开心消消乐程序员写给女友的情书",
-      "onboard_time": 1775755337,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 43397,
-      "num": 43397,
+      "raw_hot": 51753,
+      "num": 80639,
       "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
       "onboard_time": 1775734462,
       "rank": 35,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51103,
+      "num": 80172,
+      "word": "白日提灯第28集无广",
+      "onboard_time": 1775735181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40456,
+      "num": 80482,
+      "word": "男二被防爆 当观众坐第一排",
+      "onboard_time": 1775737222,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38574,
-      "num": 38574,
+      "num": 80227,
       "word": "王毅同朝鲜外相崔善姬举行会谈",
       "onboard_time": 1775761754,
       "rank": 46,
       "category": "国际时政"
     },
     {
+      "raw_hot": 37885,
+      "num": 80404,
+      "word": "父亲回应平台全额退瘫痪女儿票钱",
+      "onboard_time": 1775758816,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36097,
-      "num": 36097,
+      "num": 80185,
       "word": "鞠婧祎一念从容",
       "onboard_time": 1775755036,
       "rank": 25,
       "category": "剧集"
     },
     {
+      "raw_hot": 35447,
+      "num": 80377,
+      "word": "黎巴嫩首都遭以军密集空袭",
+      "onboard_time": 1775775918,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34942,
-      "num": 34942,
+      "num": 80260,
       "word": "孙杨3比0姚钧涛",
       "onboard_time": 1775753537,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34056,
+      "num": 80356,
+      "word": "美议员称外星人已与人类会面",
+      "onboard_time": 1775757315,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34030,
@@ -483,36 +523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32493,
-      "num": 32493,
-      "word": "男二被防爆 当观众坐第一排",
-      "onboard_time": 1775737222,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32203,
-      "num": 32203,
-      "word": "美议员称外星人已与人类会面",
-      "onboard_time": 1775757315,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28856,
       "num": 28856,
       "word": "学生对贾浅浅评价较好",
       "onboard_time": 1775752939,
       "rank": 39,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 28138,
-      "num": 31733,
-      "word": "父亲回应平台全额退瘫痪女儿票钱",
-      "onboard_time": 1775758816,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26861,
@@ -539,12 +555,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24595,
+      "num": 80117,
+      "word": "你好1983收官",
+      "onboard_time": 1775756776,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24551,
       "num": 25744,
       "word": "陈哲远张婧仪你好星期六上班路透",
       "onboard_time": 1775755936,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23051,
+      "num": 80139,
+      "word": "被现实版莫奈花园美哭了",
+      "onboard_time": 1775764874,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 21277,
@@ -555,16 +587,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 20947,
-      "num": 31177,
-      "word": "被现实版莫奈花园美哭了",
-      "onboard_time": 1775764874,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 19300,
-      "num": 31111,
+      "raw_hot": 20074,
+      "num": 80071,
       "word": "美伊谈判三大分歧",
       "onboard_time": 1775756418,
       "rank": 36,
@@ -587,16 +611,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17351,
-      "num": 30860,
-      "word": "你好1983收官",
-      "onboard_time": 1775756776,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13477,
-      "num": 333832,
+      "raw_hot": 17851,
+      "num": 383148,
       "word": "春日经济活力的关键何在",
       "onboard_time": 1775739621,
       "rank": 2,
