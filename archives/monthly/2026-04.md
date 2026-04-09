@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 19:07:30
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/09 19:32:53
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%9B%9E%E5%BA%94%E8%8C%83%E7%8E%AE%E7%90%AA%E6%B5%AA%E5%A7%90%E5%88%9D%E8%88%9E%E5%8F%B0%23" target="weibo">
+小S回应范玮琪浪姐初舞台（热度：408357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%85%8D%E8%89%B2%E5%89%8D%E7%9E%BB%23" target="weibo">
 iPhone18Pro配色前瞻（热度：408290）
 </a>
@@ -3311,12 +3317,6 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%89%B2%E6%9E%9C%E7%84%B6%E6%8A%91%E5%88%B6%E9%A3%9F%E6%AC%B2%23" target="weibo">
 蓝色果然抑制食欲（热度：327158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%9B%9E%E5%BA%94%E8%8C%83%E7%8E%AE%E7%90%AA%E6%B5%AA%E5%A7%90%E5%88%9D%E8%88%9E%E5%8F%B0%23" target="weibo">
-小S回应范玮琪浪姐初舞台（热度：326825）
 </a>
 </li>
 
@@ -5283,6 +5283,12 @@ iG战胜TES（热度：218352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E5%9B%A0%E4%B9%B0%E5%AE%B6%E5%85%B7%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
+李纯马頔因买家具起争执（热度：216499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23" target="weibo">
 男子靠AI开一人公司年营收达150万（热度：216150）
 </a>
@@ -6005,12 +6011,6 @@ NCT十周年预告（热度：192751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%BD%93%E6%97%A5%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%8F%8B%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%23" target="weibo">
 结婚登记当日得知女友患精神分裂（热度：190998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E6%9B%9D%E7%B4%A7%E6%80%A5%E9%87%87%E8%B4%AD%23" target="weibo">
-五角大楼被曝紧急采购（热度：190651）
 </a>
 </li>
 
