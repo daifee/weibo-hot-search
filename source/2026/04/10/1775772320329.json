@@ -1,0 +1,410 @@
+{
+  "runTime": 1775772320329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134214,
+        "num": 288418,
+        "word": "一条生命换一张7.6万元罚单",
+        "onboard_time": 1775749401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87959,
+        "num": 210488,
+        "word": "武汉有轨电车与电动车相撞",
+        "onboard_time": 1775746104,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 9398,
+        "num": 171812,
+        "word": "春日经济活力的关键何在",
+        "onboard_time": 1775739621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124540,
+        "num": 124540,
+        "word": "美以或对伊朗采取割草模式",
+        "onboard_time": 1775747663,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49546,
+        "num": 49546,
+        "word": "以色列总理对美国提要求",
+        "onboard_time": 1775741783,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39880,
+        "num": 39880,
+        "word": "男子卖房为母治病打赏女主播22.5万",
+        "onboard_time": 1775744364,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36008,
+        "num": 36008,
+        "word": "降至300元的降脂针被纳入医保",
+        "onboard_time": 1775738542,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32238,
+        "num": 32238,
+        "word": "莫氏鸡煲评论区发声明",
+        "onboard_time": 1775749401,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31906,
+        "num": 31906,
+        "word": "将门独后",
+        "onboard_time": 1775746883,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27476,
+        "num": 27476,
+        "word": "大疆Pocket4",
+        "onboard_time": 1775740221,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188565,
+        "num": 27083,
+        "word": "sbti测试是啥",
+        "onboard_time": 1775750900,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58359,
+        "num": 26843,
+        "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+        "onboard_time": 1775721803,
+        "rank": 11,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 47655,
+        "num": 26104,
+        "word": "测sbti要笑晕了",
+        "onboard_time": 1775747902,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45141,
+        "num": 25231,
+        "word": "白宫称美伊将于11日上午举行首轮会谈",
+        "onboard_time": 1775754915,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42694,
+        "num": 24550,
+        "word": "离异父母均拒接孩子司机当场怒斥",
+        "onboard_time": 1775745443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33543,
+        "num": 24249,
+        "word": "伊朗谈判条件今非昔比",
+        "onboard_time": 1775744123,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31579,
+        "num": 23632,
+        "word": "陈添祥长文道歉",
+        "onboard_time": 1775738302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23244,
+        "num": 23244,
+        "word": "平台将助力瘫痪女孩看邓紫棋演唱会",
+        "onboard_time": 1775746823,
+        "rank": 17,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 22898,
+        "num": 22898,
+        "word": "贾浅浅仍保持沉默",
+        "onboard_time": 1775750900,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22527,
+        "num": 22527,
+        "word": "王毅同朝鲜外相崔善姬举行会谈",
+        "onboard_time": 1775761754,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34783,
+        "num": 22525,
+        "word": "开心消消乐程序员写给女友的情书",
+        "onboard_time": 1775755337,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32056,
+        "num": 22520,
+        "word": "人民日报评吴克群",
+        "onboard_time": 1775744664,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 22501,
+        "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
+        "onboard_time": 1775734462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21800,
+        "num": 21800,
+        "word": "鞠婧祎一念从容",
+        "onboard_time": 1775755036,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21587,
+        "num": 21587,
+        "word": "阚清子只睡了两个小时",
+        "onboard_time": 1775751379,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21342,
+        "num": 21342,
+        "word": "迪丽热巴待播剧",
+        "onboard_time": 1775747663,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20299,
+        "num": 20299,
+        "word": "刘强东和章泽天新公司叫天强",
+        "onboard_time": 1775742442,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20253,
+        "num": 20253,
+        "word": "浑身是血的美军上校15分钟被转移",
+        "onboard_time": 1775741183,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19951,
+        "num": 19951,
+        "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
+        "onboard_time": 1775741482,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19325,
+        "num": 19325,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38986,
+        "num": 18750,
+        "word": "伊朗表示不会对以侵略行为保持沉默",
+        "onboard_time": 1775764933,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17852,
+        "num": 17852,
+        "word": "赵丽颖楚乔传城墙爆破花絮",
+        "onboard_time": 1775747483,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17353,
+        "num": 17353,
+        "word": "美伊谈判三大分歧",
+        "onboard_time": 1775756418,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17266,
+        "num": 17266,
+        "word": "美议员称外星人已与人类会面",
+        "onboard_time": 1775757315,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15793,
+        "num": 17265,
+        "word": "就贾浅浅涉嫌抄袭问题启动调查",
+        "onboard_time": 1775754497,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15076,
+        "num": 17264,
+        "word": "男二被防爆 当观众坐第一排",
+        "onboard_time": 1775737222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14520,
+        "num": 17263,
+        "word": "多情者",
+        "onboard_time": 1775747603,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14401,
+        "num": 17262,
+        "word": "小米YU7入门级版本",
+        "onboard_time": 1775742383,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13813,
+        "num": 17260,
+        "word": "孙杨3比0姚钧涛",
+        "onboard_time": 1775753537,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13691,
+        "num": 17258,
+        "word": "父亲回应平台全额退瘫痪女儿票钱",
+        "onboard_time": 1775758816,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13152,
+        "num": 17257,
+        "word": "乘风2026",
+        "onboard_time": 1775740883,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13020,
+        "num": 17254,
+        "word": "美议员称外星人已与人类接触",
+        "onboard_time": 1775728882,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12862,
+        "num": 17254,
+        "word": "丁俊晖发长文回信球迷",
+        "onboard_time": 1775750542,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12247,
+        "num": 17253,
+        "word": "洋葱飞船音乐节 取消",
+        "onboard_time": 1775750001,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11550,
+        "num": 17251,
+        "word": "被现实版莫奈花园美哭了",
+        "onboard_time": 1775764874,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 11456,
+        "num": 17249,
+        "word": "你好1983收官",
+        "onboard_time": 1775756776,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11412,
+        "num": 17248,
+        "word": "鞠婧祎想狐的风还是吹到了大漠",
+        "onboard_time": 1775757196,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11264,
+        "num": 17247,
+        "word": "刘畊宏再晒王俊凯小泡芙合照",
+        "onboard_time": 1775733441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11151,
+        "num": 17244,
+        "word": "薛之谦单曲顽疾",
+        "onboard_time": 1775760373,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10273,
+        "num": 17243,
+        "word": "白日提灯第28集无广",
+        "onboard_time": 1775735181,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些关心事与服务业发展相关#"
+    }
+  }
+}
