@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/10 07:08:26
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/10 07:44:20
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%84%9A%E4%BA%BA%E8%8A%82%E9%80%80%E5%9C%88%23" target="weibo">
 汪东城愚人节退圈（热度：1311509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23sbti%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95%23" target="weibo">
+sbti人格测试（热度：1299588）
 </a>
 </li>
 
@@ -743,6 +749,12 @@ TEN李永钦不续约（热度：868167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%20%E9%BB%91%E9%A9%AC%23" target="weibo">
 何宣林 黑马（热度：864034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E6%85%8C%E4%BA%86%23" target="weibo">
+海湾国家慌了（热度：857170）
 </a>
 </li>
 
@@ -1821,6 +1833,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E%23" target="weibo">
+武汉有轨电车与电动车相撞（热度：513837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%BE%8E%E5%87%BA%E7%94%9F%E5%8D%B3%E5%85%AC%E6%B0%91%E6%88%96%E5%BD%BB%E5%BA%95%E7%BB%88%E7%BB%93%23" target="weibo">
 在美出生即公民或彻底终结（热度：513593）
 </a>
@@ -2433,12 +2451,6 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E%23" target="weibo">
-武汉有轨电车与电动车相撞（热度：423518）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%AD%94%E4%B8%B8%E7%94%9F%E4%BA%86%E4%B8%AA%E7%81%B5%E7%8F%A0%23" target="weibo">
 两个魔丸生了个灵珠（热度：423000）
 </a>
@@ -2745,6 +2757,12 @@ iPhone18Pro配色前瞻（热度：408290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E6%88%96%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E5%89%B2%E8%8D%89%E6%A8%A1%E5%BC%8F%23" target="weibo">
+美以或对伊朗采取割草模式（热度：391053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%85%8B%E7%AB%8B%E5%9B%9E%E5%BA%94%E5%86%8D%E5%A9%9A%E7%94%9F%E5%A5%B3%23" target="weibo">
 夏克立回应再婚生女（热度：389553）
 </a>
@@ -2933,12 +2951,6 @@ NCT（热度：372369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B%23" target="weibo">
 单依纯拉黑网友（热度：372160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E6%88%96%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E5%89%B2%E8%8D%89%E6%A8%A1%E5%BC%8F%23" target="weibo">
-美以或对伊朗采取割草模式（热度：371734）
 </a>
 </li>
 
@@ -4413,6 +4425,12 @@ SuperJunior致歉（热度：267660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%23" target="weibo">
+李纯吐槽自己妈妈没苦硬吃（热度：267221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E4%BA%BA%E6%B0%94%23" target="weibo">
 张慧雯人气（热度：266583）
 </a>
@@ -4809,6 +4827,12 @@ JDG对战WB（热度：248725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%96%E6%88%BF%E4%B8%BA%E6%AF%8D%E6%B2%BB%E7%97%85%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD22.5%E4%B8%87%23" target="weibo">
+男子卖房为母治病打赏女主播22.5万（热度：245954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23" target="weibo">
 央行抛售引发金价地震（热度：245056）
 </a>
@@ -5147,6 +5171,12 @@ kpop七人团魔咒还在发力（热度：243620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%8F%91%E6%9D%8E%E4%B8%80%E6%A1%90%20%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83%23" target="weibo">
 短发李一桐 芭比娃娃（热度：230348）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%8C%E5%85%A8%E5%85%B3%E9%97%AD%23" target="weibo">
+霍尔木兹海峡完全关闭（热度：230100）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ KSG对战DYG（热度：197455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%89%AB%E5%A2%93%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%A5%AD%E5%93%81%E7%A1%AC%E6%A0%B8%23" target="weibo">
 年轻人扫墓主打一个祭品硬核（热度：197322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E7%A6%BB%E7%AC%AC%E4%B8%89%E4%B8%8D%E5%88%B0%E4%B8%80%E4%BA%BF%23" target="weibo">
-哪吒2全球票房离第三不到一亿（热度：197296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%9C%89%E6%85%A2%E6%80%A7%E7%82%8E%E7%97%87%E5%8F%AF%E4%BB%A5%E5%A4%9A%E5%90%83%E8%BF%99%E4%BA%9B%E6%B0%B4%E6%9E%9C%23" target="weibo">
-身体有慢性炎症可以多吃这些水果（热度：196556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%8B%AC%E8%87%AA%E4%B9%B0%E6%B1%89%E5%A0%A1%E9%81%AD%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E8%B8%A2%E8%B8%B9%23" target="weibo">
-4岁女孩独自买汉堡遭陌生女子踢踹（热度：196406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B5%A2%E4%B8%8B%E5%85%B3%E9%94%AE%E5%88%86%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E6%B0%94%E7%9A%84%E8%B7%BA%E8%84%9A%23" target="weibo">
-王楚钦赢下关键分松岛辉空气的跺脚（热度：196245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E9%81%AD%E5%81%87%E6%80%A5%E6%95%91%E4%BA%BA%E5%91%98%E4%BE%B5%E7%8A%AF%23" target="weibo">
-泰国女星遭假急救人员侵犯（热度：195985）
 </a>
 </li>
 

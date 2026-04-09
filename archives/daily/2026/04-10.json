@@ -1,12 +1,20 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775776106913,
+  "endTime": 1775778260373,
   "band_list": [
     {
       "raw_hot": 1488588,
-      "num": 80754,
+      "num": 114007,
       "word": "sbti测试是啥",
       "onboard_time": 1775750900,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1299588,
+      "num": 114182,
+      "word": "sbti人格测试",
+      "onboard_time": 1775776338,
       "rank": 10,
       "category": "情感"
     },
@@ -19,12 +27,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 857170,
+      "num": 461632,
+      "word": "海湾国家慌了",
+      "onboard_time": 1775775798,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 575373,
       "num": 196674,
       "word": "测sbti要笑晕了",
       "onboard_time": 1775747902,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513837,
+      "num": 1039314,
+      "word": "武汉有轨电车与电动车相撞",
+      "onboard_time": 1775746104,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 506415,
@@ -35,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423518,
-      "num": 1039314,
-      "word": "武汉有轨电车与电动车相撞",
-      "onboard_time": 1775746104,
-      "rank": 0,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 371734,
-      "num": 371734,
+      "raw_hot": 391053,
+      "num": 391053,
       "word": "美以或对伊朗采取割草模式",
       "onboard_time": 1775747663,
       "rank": 21,
@@ -67,6 +83,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 267221,
+      "num": 267221,
+      "word": "李纯吐槽自己妈妈没苦硬吃",
+      "onboard_time": 1775773996,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245954,
+      "num": 669810,
+      "word": "男子卖房为母治病打赏女主播22.5万",
+      "onboard_time": 1775744364,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240292,
       "num": 240292,
       "word": "伊朗谈判条件今非昔比",
@@ -81,6 +113,14 @@
       "onboard_time": 1775744723,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230100,
+      "num": 113794,
+      "word": "霍尔木兹海峡完全关闭",
+      "onboard_time": 1775776998,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 220745,
@@ -123,8 +163,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182553,
+      "num": 113415,
+      "word": "尤物",
+      "onboard_time": 1775776758,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171904,
-      "num": 98148,
+      "num": 112622,
       "word": "人民日报评吴克群",
       "onboard_time": 1775744664,
       "rank": 20,
@@ -155,28 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153540,
-      "num": 475952,
-      "word": "男子卖房为母治病打赏女主播22.5万",
-      "onboard_time": 1775744364,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146048,
       "num": 188526,
       "word": "陈哲远少上点网吧",
       "onboard_time": 1775745325,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144732,
-      "num": 80620,
-      "word": "海湾国家慌了",
-      "onboard_time": 1775775798,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138164,
@@ -187,16 +219,40 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115748,
-      "num": 115748,
+      "raw_hot": 136329,
+      "num": 136329,
+      "word": "sbti 孤儿",
+      "onboard_time": 1775776578,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135789,
+      "num": 112856,
+      "word": "金子涵的收藏",
+      "onboard_time": 1775778080,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126498,
+      "num": 126498,
       "word": "降至300元的降脂针被纳入医保",
       "onboard_time": 1775738542,
       "rank": 16,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112335,
+      "num": 112335,
+      "word": "李小冉我每天吃一个唐僧",
+      "onboard_time": 1775778140,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110296,
-      "num": 80424,
+      "num": 95936,
       "word": "伊朗表示不会对以侵略行为保持沉默",
       "onboard_time": 1775764933,
       "rank": 30,
@@ -235,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "美以伊停火全是戏",
+      "onboard_time": 1775777660,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86478,
+      "num": 113424,
+      "word": "伊朗最高领袖提出三点主张",
+      "onboard_time": 1775777180,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85911,
       "num": 80233,
       "word": "贾浅浅仍保持沉默",
@@ -267,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80691,
-      "num": 80691,
-      "word": "李纯吐槽自己妈妈没苦硬吃",
-      "onboard_time": 1775773996,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79013,
       "num": 80464,
       "word": "阚清子只睡了两个小时",
@@ -297,6 +361,14 @@
       "onboard_time": 1775747483,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76021,
+      "num": 76021,
+      "word": "sbti妈妈",
+      "onboard_time": 1775776758,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 74288,
@@ -331,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66232,
+      "num": 80639,
+      "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
+      "onboard_time": 1775734462,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64229,
       "num": 64229,
       "word": "奔跑吧ins关注tws",
@@ -355,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59961,
+      "num": 80377,
+      "word": "黎巴嫩首都遭以军密集空袭",
+      "onboard_time": 1775775918,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59598,
       "num": 59598,
       "word": "陈哲远玩陈飞宇我的最爱梗",
@@ -369,6 +457,14 @@
       "onboard_time": 1775750361,
       "rank": 38,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 58630,
+      "num": 80482,
+      "word": "男二被防爆 当观众坐第一排",
+      "onboard_time": 1775737222,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 58599,
@@ -443,14 +539,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 51753,
-      "num": 80639,
-      "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
-      "onboard_time": 1775734462,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51103,
       "num": 80172,
       "word": "白日提灯第28集无广",
@@ -459,20 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40456,
-      "num": 80482,
-      "word": "男二被防爆 当观众坐第一排",
-      "onboard_time": 1775737222,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38574,
+      "raw_hot": 45522,
       "num": 80227,
       "word": "王毅同朝鲜外相崔善姬举行会谈",
       "onboard_time": 1775761754,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44015,
+      "num": 74482,
+      "word": "胃病癌变前的6个求救信号",
+      "onboard_time": 1775777420,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40549,
+      "num": 74474,
+      "word": "李昀锐面部生理性颤抖",
+      "onboard_time": 1775778080,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 37885,
@@ -483,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36910,
+      "num": 80356,
+      "word": "美议员称外星人已与人类会面",
+      "onboard_time": 1775757315,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36097,
       "num": 80185,
       "word": "鞠婧祎一念从容",
       "onboard_time": 1775755036,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35447,
-      "num": 80377,
-      "word": "黎巴嫩首都遭以军密集空袭",
-      "onboard_time": 1775775918,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34942,
@@ -507,20 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34056,
-      "num": 80356,
-      "word": "美议员称外星人已与人类会面",
-      "onboard_time": 1775757315,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 34030,
       "num": 34030,
       "word": "张元英看BTS演唱会",
       "onboard_time": 1775735602,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31617,
+      "num": 74467,
+      "word": "拿捏者",
+      "onboard_time": 1775778199,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 28856,
@@ -587,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 20535,
+      "num": 522497,
+      "word": "春日经济活力的关键何在",
+      "onboard_time": 1775739621,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20074,
       "num": 80071,
       "word": "美伊谈判三大分歧",
@@ -609,14 +713,6 @@
       "onboard_time": 1775758217,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17851,
-      "num": 383148,
-      "word": "春日经济活力的关键何在",
-      "onboard_time": 1775739621,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11823,
