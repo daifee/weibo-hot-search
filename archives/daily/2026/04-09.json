@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775736723955,
+  "endTime": 1775743168574,
   "band_list": [
     {
       "raw_hot": 3943174,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 882300,
-      "num": 124078,
+      "num": 132941,
       "word": "内娱嘴亲烂了都拍不出这样汹涌的爱意",
       "onboard_time": 1775735302,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 703943,
+      "num": 1112631,
+      "word": "大疆Pocket4",
+      "onboard_time": 1775740221,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 688029,
       "num": 688029,
       "word": "郑合惠子签约杨幂新公司",
@@ -129,6 +137,22 @@
       "onboard_time": 1775668397,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 616535,
+      "num": 167657,
+      "word": "偶遇王承渲在咖啡店打工",
+      "onboard_time": 1775741360,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 587463,
+      "num": 167305,
+      "word": "陈添祥长文道歉",
+      "onboard_time": 1775738302,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 581646,
@@ -201,6 +225,14 @@
       "onboard_time": 1775721741,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491525,
+      "num": 164020,
+      "word": "孔雪儿邓凯将门独后路透",
+      "onboard_time": 1775741425,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 476690,
@@ -331,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 393955,
+      "num": 156056,
+      "word": "王楚然折成这样了肚子没挤出一丝肉",
+      "onboard_time": 1775741963,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380745,
       "num": 176590,
       "word": "金靖说明显感觉到张凌赫太火了",
@@ -441,6 +481,14 @@
       "onboard_time": 1775660663,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299497,
+      "num": 141439,
+      "word": "三个内娱神奇工作室",
+      "onboard_time": 1775736202,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 294835,
@@ -571,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242048,
+      "num": 812123,
+      "word": "男子开路虎加油500元后逃单",
+      "onboard_time": 1775736501,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 239139,
       "num": 140017,
       "word": "金子涵称后脑勺伤疤是植发手术留下的",
       "onboard_time": 1775715803,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233860,
+      "num": 233860,
+      "word": "降至300元的降脂针被纳入医保",
+      "onboard_time": 1775738542,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224889,
@@ -627,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208524,
+      "num": 208524,
+      "word": "公众号批量删除AI写作文章",
+      "onboard_time": 1775739082,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "樊振东不该承受输赢都不行的处境",
       "onboard_time": 1775712025,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206289,
+      "num": 206289,
+      "word": "伊朗威胁退出停火",
+      "onboard_time": 1775733861,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201639,
@@ -673,6 +753,14 @@
       "onboard_time": 1775690179,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196842,
+      "num": 196842,
+      "word": "乘风2026",
+      "onboard_time": 1775740883,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 195148,
@@ -763,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180076,
+      "num": 180076,
+      "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
+      "onboard_time": 1775741482,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178320,
       "num": 530037,
       "word": "多次试管流产后夫妻因生育起分歧",
@@ -777,6 +873,14 @@
       "onboard_time": 1775705240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176583,
+      "num": 176583,
+      "word": "蔚来ES9",
+      "onboard_time": 1775739203,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 175635,
@@ -915,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148076,
+      "num": 148076,
+      "word": "伊朗为黎巴嫩硬刚美国",
+      "onboard_time": 1775735842,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147261,
       "num": 270785,
       "word": "穿普拉达的女王2",
@@ -971,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142945,
+      "num": 121398,
+      "word": "少女就该少女演",
+      "onboard_time": 1775740221,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142615,
       "num": 728064,
       "word": "女子推迟婚礼捐骨髓8年后双方相见",
       "onboard_time": 1775732482,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142521,
+      "num": 118732,
+      "word": "迪丽热巴是陈飞宇铁粉了",
+      "onboard_time": 1775742323,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 140686,
@@ -1147,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123810,
+      "num": 123810,
+      "word": "刘强东和章泽天新公司叫天强",
+      "onboard_time": 1775742442,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123584,
       "num": 100208,
       "word": "迟重瑞现身陈丽华告别仪式",
@@ -1179,6 +1315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118746,
+      "num": 118746,
+      "word": "以色列总理对美国提要求",
+      "onboard_time": 1775741783,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118491,
+      "num": 118491,
+      "word": "被送错医院死亡家属曾下跪求转院",
+      "onboard_time": 1775740763,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117850,
       "num": 117850,
       "word": "张雪宣布捐赠嫣然加码",
@@ -1203,12 +1355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110774,
-      "num": 100725,
-      "word": "三个内娱神奇工作室",
-      "onboard_time": 1775736202,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 114481,
+      "num": 114481,
+      "word": "小米YU7入门级版本",
+      "onboard_time": 1775742383,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 110170,
@@ -1257,6 +1409,14 @@
       "onboard_time": 1775647582,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107827,
+      "num": 107827,
+      "word": "钢铁森林 好看",
+      "onboard_time": 1775742503,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 107149,
@@ -1539,6 +1699,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95708,
+      "num": 91712,
+      "word": "男二被防爆 当观众坐第一排",
+      "onboard_time": 1775737222,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95692,
+      "num": 95692,
+      "word": "猫咪浑身带火冲进店铺求助",
+      "onboard_time": 1775737462,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95565,
       "num": 95565,
       "word": "以色列支持特朗普停火决定",
@@ -1595,14 +1771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 93487,
-      "num": 93487,
-      "word": "伊朗威胁退出停火",
-      "onboard_time": 1775733861,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93082,
       "num": 93082,
       "word": "孙杨处理婆媳关系",
@@ -1627,14 +1795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92182,
-      "num": 92182,
-      "word": "伊朗为黎巴嫩硬刚美国",
-      "onboard_time": 1775735842,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91943,
       "num": 91943,
       "word": "小时候吃的蘑古力居然是盗版",
@@ -1649,6 +1809,14 @@
       "onboard_time": 1775730741,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91380,
+      "num": 84998,
+      "word": "孙颖莎学队医姐姐说话",
+      "onboard_time": 1775738542,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 91175,
@@ -1689,6 +1857,14 @@
       "onboard_time": 1775716641,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89792,
+      "num": 130080,
+      "word": "蔚来ES9中国元素",
+      "onboard_time": 1775739863,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 89079,
@@ -1787,6 +1963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85821,
+      "num": 85821,
+      "word": "李亚鹏心疼张雪加码捐赠嫣然",
+      "onboard_time": 1775737942,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85745,
       "num": 85745,
       "word": "KPL",
@@ -1843,6 +2027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83234,
+      "num": 83234,
+      "word": "语数英老师笑了半天不知道谁教的",
+      "onboard_time": 1775736681,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82641,
       "num": 82641,
       "word": "花生配可乐",
@@ -1883,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79318,
+      "num": 79318,
+      "word": "郑丽文参观国产大飞机",
+      "onboard_time": 1775741360,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79092,
       "num": 344482,
       "word": "第五人格COA9出征海报",
@@ -1913,6 +2113,14 @@
       "onboard_time": 1775721562,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77998,
+      "num": 77998,
+      "word": "周迅 奖运",
+      "onboard_time": 1775737522,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 77333,
@@ -1953,6 +2161,14 @@
       "onboard_time": 1775702841,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74740,
+      "num": 74740,
+      "word": "有时候人被猫咬是自找的",
+      "onboard_time": 1775742743,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 74670,
@@ -2147,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67539,
-      "num": 67539,
-      "word": "语数英老师笑了半天不知道谁教的",
-      "onboard_time": 1775736681,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 67333,
       "num": 128263,
       "word": "中专生带手机入校被罚回家待到毕业",
@@ -2187,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64606,
+      "num": 64606,
+      "word": "BLG对战WE",
+      "onboard_time": 1775739141,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64016,
       "num": 64016,
       "word": "曝吴宣仪要转型",
@@ -2203,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62341,
+      "num": 64576,
+      "word": "韩国一动物园内一公狼挖洞越狱",
+      "onboard_time": 1775741003,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60535,
       "num": 60223,
       "word": "TOP二开",
@@ -2216,6 +2440,14 @@
       "word": "男子凌晨在家中持刀刺死一男子",
       "onboard_time": 1775733801,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59669,
+      "num": 64435,
+      "word": "被保时捷车主威胁男子获道歉赔偿",
+      "onboard_time": 1775738483,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2257,14 +2489,6 @@
       "onboard_time": 1775691680,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 54506,
-      "num": 101314,
-      "word": "男子开路虎加油500元后逃单",
-      "onboard_time": 1775736501,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 54456,
@@ -2385,6 +2609,14 @@
       "onboard_time": 1775726540,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36186,
+      "num": 624886,
+      "word": "13条举措加快建设分级诊疗体系",
+      "onboard_time": 1775739802,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35907,
@@ -2615,6 +2847,9 @@
     },
     {
       "word": "#加强科技自主创新和人才自主培养#"
+    },
+    {
+      "word": "#总书记这些关心事与服务业发展相关#"
     }
   ]
 }

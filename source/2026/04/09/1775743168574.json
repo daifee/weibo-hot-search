@@ -1,0 +1,410 @@
+{
+  "runTime": 1775743168574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 703943,
+        "num": 1112631,
+        "word": "大疆Pocket4",
+        "onboard_time": 1775740221,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242048,
+        "num": 812123,
+        "word": "男子开路虎加油500元后逃单",
+        "onboard_time": 1775736501,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36186,
+        "num": 624886,
+        "word": "13条举措加快建设分级诊疗体系",
+        "onboard_time": 1775739802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233860,
+        "num": 233860,
+        "word": "降至300元的降脂针被纳入医保",
+        "onboard_time": 1775738542,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208524,
+        "num": 208524,
+        "word": "公众号批量删除AI写作文章",
+        "onboard_time": 1775739082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206289,
+        "num": 206289,
+        "word": "伊朗威胁退出停火",
+        "onboard_time": 1775733861,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196842,
+        "num": 196842,
+        "word": "乘风2026",
+        "onboard_time": 1775740883,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180076,
+        "num": 180076,
+        "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
+        "onboard_time": 1775741482,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176583,
+        "num": 176583,
+        "word": "蔚来ES9",
+        "onboard_time": 1775739203,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131152,
+        "num": 168508,
+        "word": "女子靠转弯让直行碰瓷30余起被刑拘",
+        "onboard_time": 1775732482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616535,
+        "num": 167657,
+        "word": "偶遇王承渲在咖啡店打工",
+        "onboard_time": 1775741360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587463,
+        "num": 167305,
+        "word": "陈添祥长文道歉",
+        "onboard_time": 1775738302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166562,
+        "num": 166562,
+        "word": "美议员称外星人已与人类接触",
+        "onboard_time": 1775728882,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491525,
+        "num": 164020,
+        "word": "孔雪儿邓凯将门独后路透",
+        "onboard_time": 1775741425,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393955,
+        "num": 156056,
+        "word": "王楚然折成这样了肚子没挤出一丝肉",
+        "onboard_time": 1775741963,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148076,
+        "num": 148076,
+        "word": "伊朗为黎巴嫩硬刚美国",
+        "onboard_time": 1775735842,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299497,
+        "num": 141439,
+        "word": "三个内娱神奇工作室",
+        "onboard_time": 1775736202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278956,
+        "num": 139001,
+        "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+        "onboard_time": 1775721803,
+        "rank": 17,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 133899,
+        "num": 133899,
+        "word": "巴基斯坦总理明确说停火包括黎巴嫩",
+        "onboard_time": 1775733622,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 813344,
+        "num": 132941,
+        "word": "内娱嘴亲烂了都拍不出这样汹涌的爱意",
+        "onboard_time": 1775735302,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 130080,
+        "word": "蔚来ES9中国元素",
+        "onboard_time": 1775739863,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221623,
+        "num": 127298,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195721,
+        "num": 124249,
+        "word": "孙杨张豆豆有孩子了",
+        "onboard_time": 1775722041,
+        "rank": 22,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 123810,
+        "num": 123810,
+        "word": "刘强东和章泽天新公司叫天强",
+        "onboard_time": 1775742442,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183998,
+        "num": 122935,
+        "word": "刘畊宏再晒王俊凯小泡芙合照",
+        "onboard_time": 1775733441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 121398,
+        "word": "少女就该少女演",
+        "onboard_time": 1775740221,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118746,
+        "num": 118746,
+        "word": "以色列总理对美国提要求",
+        "onboard_time": 1775741783,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142521,
+        "num": 118732,
+        "word": "迪丽热巴是陈飞宇铁粉了",
+        "onboard_time": 1775742323,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136593,
+        "num": 118612,
+        "word": "白日提灯第28集无广",
+        "onboard_time": 1775735181,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 118491,
+        "word": "被送错医院死亡家属曾下跪求转院",
+        "onboard_time": 1775740763,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114481,
+        "num": 114481,
+        "word": "小米YU7入门级版本",
+        "onboard_time": 1775742383,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107827,
+        "num": 107827,
+        "word": "钢铁森林 好看",
+        "onboard_time": 1775742503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100244,
+        "num": 100244,
+        "word": "张元英看BTS演唱会",
+        "onboard_time": 1775735602,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97602,
+        "num": 97602,
+        "word": "胃病拖成胃癌会经历5个阶段",
+        "onboard_time": 1775733681,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95825,
+        "num": 95825,
+        "word": "女子头痛硬扛7天昏迷确诊李斯特菌",
+        "onboard_time": 1775734462,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95692,
+        "num": 95692,
+        "word": "猫咪浑身带火冲进店铺求助",
+        "onboard_time": 1775737462,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95708,
+        "num": 91712,
+        "word": "男二被防爆 当观众坐第一排",
+        "onboard_time": 1775737222,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85821,
+        "num": 85821,
+        "word": "李亚鹏心疼张雪加码捐赠嫣然",
+        "onboard_time": 1775737942,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91380,
+        "num": 84998,
+        "word": "孙颖莎学队医姐姐说话",
+        "onboard_time": 1775738542,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84026,
+        "num": 84026,
+        "word": "爷爷卖16000个烧饼孙女打赏给主播",
+        "onboard_time": 1775726001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83234,
+        "num": 83234,
+        "word": "语数英老师笑了半天不知道谁教的",
+        "onboard_time": 1775736681,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81679,
+        "num": 81679,
+        "word": "迟重瑞现身陈丽华告别仪式",
+        "onboard_time": 1775727321,
+        "rank": 41,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 80539,
+        "num": 80539,
+        "word": "黄金再反转",
+        "onboard_time": 1775723361,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79318,
+        "num": 79318,
+        "word": "郑丽文参观国产大飞机",
+        "onboard_time": 1775741360,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77998,
+        "num": 77998,
+        "word": "周迅 奖运",
+        "onboard_time": 1775737522,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74740,
+        "num": 74740,
+        "word": "有时候人被猫咬是自找的",
+        "onboard_time": 1775742743,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71745,
+        "num": 71745,
+        "word": "郭敬明拍的九尾妖狐月下变身",
+        "onboard_time": 1775735842,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64606,
+        "num": 64606,
+        "word": "BLG对战WE",
+        "onboard_time": 1775739141,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62341,
+        "num": 64576,
+        "word": "韩国一动物园内一公狼挖洞越狱",
+        "onboard_time": 1775741003,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59669,
+        "num": 64435,
+        "word": "被保时捷车主威胁男子获道歉赔偿",
+        "onboard_time": 1775738483,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些关心事与服务业发展相关#"
+    }
+  }
+}
