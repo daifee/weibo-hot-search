@@ -1,10 +1,18 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775705743576,
+  "endTime": 1775711949514,
   "band_list": [
     {
+      "raw_hot": 3943174,
+      "num": 329784,
+      "word": "金莎孙丞潇领证",
+      "onboard_time": 1775710644,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2390144,
-      "num": 161066,
+      "num": 329439,
       "word": "金子涵否认是秦岚",
       "onboard_time": 1775701762,
       "rank": 10,
@@ -12,11 +20,19 @@
     },
     {
       "raw_hot": 2012664,
-      "num": 128220,
+      "num": 195358,
       "word": "金子涵直播疑似求救",
       "onboard_time": 1775669296,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1003381,
+      "num": 1160540,
+      "word": "女孩玩拼豆不幸触电离世",
+      "onboard_time": 1775708182,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905434,
@@ -33,6 +49,14 @@
       "onboard_time": 1775690059,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 735810,
+      "num": 193941,
+      "word": "垫底辣孩回应恋情",
+      "onboard_time": 1775707881,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 680739,
@@ -59,6 +83,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503082,
+      "num": 103644,
+      "word": "50岁大妈被女儿27岁男同学骚扰",
+      "onboard_time": 1775709203,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476690,
+      "num": 858830,
+      "word": "35岁孕妇吃冰箱剩菜后去世",
+      "onboard_time": 1775708363,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474646,
       "num": 136222,
       "word": "秦岚工作室声明",
@@ -75,6 +115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416859,
+      "num": 416859,
+      "word": "20元中6715万彩票店老板发声",
+      "onboard_time": 1775705841,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409422,
+      "num": 409422,
+      "word": "多国齐声谴责以色列",
+      "onboard_time": 1775706381,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406137,
       "num": 1064981,
       "word": "卤菜店使用四姐二字被索赔50万",
@@ -83,8 +139,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397069,
+      "num": 327738,
+      "word": "乳腺癌早期的5个警示症状",
+      "onboard_time": 1775706862,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 380745,
-      "num": 160327,
+      "num": 176590,
       "word": "金靖说明显感觉到张凌赫太火了",
       "onboard_time": 1775660783,
       "rank": 10,
@@ -99,12 +163,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 367585,
+      "num": 367585,
+      "word": "房贷年利率3.8变8.7五年才发现",
+      "onboard_time": 1775710703,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340500,
+      "num": 340500,
+      "word": "范世錡从5个月前埋梗角色",
+      "onboard_time": 1775710044,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335661,
       "num": 1053705,
       "word": "不假唱 不怯场 不做作 不好听",
       "onboard_time": 1775659702,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333869,
+      "num": 333869,
+      "word": "17部影片定档2026五一档",
+      "onboard_time": 1775706922,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 331412,
+      "num": 331412,
+      "word": "十万头猪拱进沙漠治沙真成了",
+      "onboard_time": 1775709682,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327122,
+      "num": 327122,
+      "word": "郑合惠子签约杨幂新公司",
+      "onboard_time": 1775711723,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 319752,
@@ -155,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249812,
+      "num": 249812,
+      "word": "男子求复合遭女友拒绝次日坠楼身亡",
+      "onboard_time": 1775706322,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246206,
+      "num": 188954,
+      "word": "35岁孕妇吃冰箱剩菜不幸去世",
+      "onboard_time": 1775708963,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243442,
       "num": 243442,
       "word": "猛禽飞入女子怀里依偎猫咪震惊",
@@ -169,6 +289,22 @@
       "onboard_time": 1775662103,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216903,
+      "num": 216903,
+      "word": "胃不好的人每天belike",
+      "onboard_time": 1775705182,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201639,
+      "num": 201639,
+      "word": "贾浅浅的论文是如何一路通关的",
+      "onboard_time": 1775706682,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201283,
@@ -219,12 +355,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189525,
+      "num": 331352,
+      "word": "樊振东说现阶段没有强大的抗压能力",
+      "onboard_time": 1775709562,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189395,
       "num": 151755,
       "word": "吴克群人民日报撰文",
       "onboard_time": 1775696603,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188426,
+      "num": 188426,
+      "word": "月鳞绮纪胡闹了一天后的cp榜",
+      "onboard_time": 1775706862,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181601,
+      "num": 258124,
+      "word": "别让舆论逼垮樊振东",
+      "onboard_time": 1775709682,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180157,
+      "num": 180157,
+      "word": "以色列议员公开辱骂特朗普",
+      "onboard_time": 1775705661,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176785,
@@ -251,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173666,
+      "num": 173666,
+      "word": "35岁女子身高154cm腹围159cm",
+      "onboard_time": 1775710283,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170623,
       "num": 170623,
       "word": "上报78亿实际到账不足1亿",
@@ -265,6 +441,14 @@
       "onboard_time": 1775705120,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170409,
+      "num": 170409,
+      "word": "六小龄童马德华吊唁陈丽华",
+      "onboard_time": 1775707820,
+      "rank": 27,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 163514,
@@ -305,6 +489,38 @@
       "onboard_time": 1775657062,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145878,
+      "num": 145878,
+      "word": "男子骚扰已婚初中同学要求对方离婚",
+      "onboard_time": 1775710044,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145349,
+      "num": 145349,
+      "word": "妈妈帮女儿相亲赚了200多万",
+      "onboard_time": 1775710763,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142998,
+      "num": 142998,
+      "word": "张予曦毕雯珺官宣新综艺",
+      "onboard_time": 1775711425,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "乳腺结节有3个特征更易癌变",
+      "onboard_time": 1775711425,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136746,
@@ -387,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125679,
+      "num": 125679,
+      "word": "张含韵37岁状态",
+      "onboard_time": 1775710522,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123243,
       "num": 123243,
       "word": "河南省考成绩",
@@ -411,12 +635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112160,
-      "num": 112160,
-      "word": "胃不好的人每天belike",
-      "onboard_time": 1775705182,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 116943,
+      "num": 115741,
+      "word": "包文婧说对第二胎没那么上心",
+      "onboard_time": 1775709083,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112921,
+      "num": 112921,
+      "word": "81岁的潘迎紫",
+      "onboard_time": 1775710824,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 110170,
@@ -433,6 +665,14 @@
       "onboard_time": 1775651421,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108586,
+      "num": 108586,
+      "word": "NASA发布有史以来最清晰的月球照片",
+      "onboard_time": 1775709142,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 108451,
@@ -473,6 +713,14 @@
       "onboard_time": 1775690179,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105510,
+      "num": 105510,
+      "word": "小学生的大问题 大学生的小问题",
+      "onboard_time": 1775708542,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 104688,
@@ -587,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97687,
+      "num": 97687,
+      "word": "张镇麟回应宁波男篮当场解约外援",
+      "onboard_time": 1775710224,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97183,
       "num": 97183,
       "word": "赵丽颖楚乔打戏",
@@ -649,6 +905,30 @@
       "onboard_time": 1775659942,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92398,
+      "num": 92398,
+      "word": "小米手机步入2nm时代",
+      "onboard_time": 1775708481,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 90390,
+      "num": 90390,
+      "word": "长汀车辆坠河事故家属发声",
+      "onboard_time": 1775708242,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90276,
+      "num": 90276,
+      "word": "贾浅浅的贾平凹依赖症何时休",
+      "onboard_time": 1775711543,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90024,
@@ -736,14 +1016,6 @@
       "word": "美伊临时停火或因以色列破裂",
       "onboard_time": 1775701882,
       "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 82274,
-      "num": 82274,
-      "word": "以色列议员公开辱骂特朗普",
-      "onboard_time": 1775705661,
-      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -987,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38825,
+      "num": 200029,
+      "word": "美军计划在菲律宾新建战备仓库",
+      "onboard_time": 1775710883,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38717,
       "num": 38717,
       "word": "蔡依林听了连夜收回版权",
       "onboard_time": 1775661083,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37237,
+      "num": 111750,
+      "word": "曾舜晞的松弛感",
+      "onboard_time": 1775707401,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 35907,
@@ -1099,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18573,
+      "num": 643084,
+      "word": "体验式消费点亮春日经济",
+      "onboard_time": 1775703021,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17922,
       "num": 40526,
       "word": "阿维塔发布会",
@@ -1129,14 +1425,6 @@
       "onboard_time": 1775678834,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7527,
-      "num": 643084,
-      "word": "体验式消费点亮春日经济",
-      "onboard_time": 1775703021,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

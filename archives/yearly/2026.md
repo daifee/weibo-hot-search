@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 11:35:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/09 13:19:09
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1%23" target="weibo">
 张雪峰曾回应如何面对死亡（热度：3960942）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E9%A2%86%E8%AF%81%23" target="weibo">
+金莎孙丞潇领证（热度：3943174）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%A4%A7%E8%B5%8F%23" target="weibo">
 春晚大赏（热度：1899886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%20%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%23" target="weibo">
-林允 速效救心丸（热度：1878190）
 </a>
 </li>
 
