@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775743168574,
+  "endTime": 1775744463014,
   "band_list": [
     {
       "raw_hot": 3943174,
@@ -43,6 +43,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1267966,
+      "num": 259463,
+      "word": "sbti mbti",
+      "onboard_time": 1775743582,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1160785,
       "num": 107141,
       "word": "文章开饭店了",
@@ -83,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 834233,
+      "num": 195901,
+      "word": "王楚然折成这样了肚子没挤出一丝肉",
+      "onboard_time": 1775741963,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793447,
       "num": 224620,
       "word": "金莎孙丞潇已完成婚前财产公证",
@@ -99,6 +115,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 742729,
+      "num": 1118836,
+      "word": "大疆Pocket4",
+      "onboard_time": 1775740221,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 735810,
       "num": 193941,
       "word": "垫底辣孩回应恋情",
@@ -107,12 +131,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 703943,
-      "num": 1112631,
-      "word": "大疆Pocket4",
-      "onboard_time": 1775740221,
-      "rank": 0,
-      "category": "数码"
+      "raw_hot": 726991,
+      "num": 194112,
+      "word": "偶遇王承渲在咖啡店打工",
+      "onboard_time": 1775741360,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 688029,
@@ -139,16 +163,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 616535,
-      "num": 167657,
-      "word": "偶遇王承渲在咖啡店打工",
-      "onboard_time": 1775741360,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 587463,
-      "num": 167305,
+      "num": 170676,
       "word": "陈添祥长文道歉",
       "onboard_time": 1775738302,
       "rank": 11,
@@ -161,6 +177,14 @@
       "onboard_time": 1775718501,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569427,
+      "num": 177528,
+      "word": "孔雪儿邓凯将门独后路透",
+      "onboard_time": 1775741425,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 554692,
@@ -225,14 +249,6 @@
       "onboard_time": 1775721741,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 491525,
-      "num": 164020,
-      "word": "孔雪儿邓凯将门独后路透",
-      "onboard_time": 1775741425,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 476690,
@@ -363,14 +379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 393955,
-      "num": 156056,
-      "word": "王楚然折成这样了肚子没挤出一丝肉",
-      "onboard_time": 1775741963,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380745,
       "num": 176590,
       "word": "金靖说明显感觉到张凌赫太火了",
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304350,
+      "num": 829726,
+      "word": "降至300元的降脂针被纳入医保",
+      "onboard_time": 1775738542,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301134,
       "num": 301134,
       "word": "白日提灯第28集无广",
@@ -484,11 +500,19 @@
     },
     {
       "raw_hot": 299497,
-      "num": 141439,
+      "num": 154164,
       "word": "三个内娱神奇工作室",
       "onboard_time": 1775736202,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297377,
+      "num": 297377,
+      "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
+      "onboard_time": 1775741482,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 294835,
@@ -555,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 264436,
+      "num": 264436,
+      "word": "以色列总理对美国提要求",
+      "onboard_time": 1775741783,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262329,
       "num": 199655,
       "word": "霍思燕回应爱犬在泰国夺冠",
@@ -576,6 +608,14 @@
       "word": "张豆豆回应孙杨被说妈宝男",
       "onboard_time": 1775715563,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252522,
+      "num": 252522,
+      "word": "乘风2026",
+      "onboard_time": 1775740883,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -635,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233860,
-      "num": 233860,
-      "word": "降至300元的降脂针被纳入医保",
-      "onboard_time": 1775738542,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224889,
       "num": 126149,
       "word": "以色列希望战事再持续至少1个月",
@@ -657,6 +689,22 @@
       "onboard_time": 1775731161,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220858,
+      "num": 220858,
+      "word": "公众号批量删除AI写作文章",
+      "onboard_time": 1775739082,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217539,
+      "num": 217539,
+      "word": "被送错医院死亡家属曾下跪求转院",
+      "onboard_time": 1775740763,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216939,
@@ -689,14 +737,6 @@
       "onboard_time": 1775733322,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208524,
-      "num": 208524,
-      "word": "公众号批量删除AI写作文章",
-      "onboard_time": 1775739082,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207269,
@@ -753,14 +793,6 @@
       "onboard_time": 1775690179,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196842,
-      "num": 196842,
-      "word": "乘风2026",
-      "onboard_time": 1775740883,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 195148,
@@ -843,19 +875,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180389,
+      "num": 180389,
+      "word": "小米YU7入门级版本",
+      "onboard_time": 1775742383,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180157,
       "num": 180157,
       "word": "以色列议员公开辱骂特朗普",
       "onboard_time": 1775705661,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 180076,
-      "num": 180076,
-      "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
-      "onboard_time": 1775741482,
-      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -987,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157691,
+      "num": 145260,
+      "word": "少女就该少女演",
+      "onboard_time": 1775740221,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156582,
       "num": 156582,
       "word": "央视曝光黑中医馆骗局",
@@ -1019,12 +1059,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150228,
+      "num": 150228,
+      "word": "刘强东和章泽天新公司叫天强",
+      "onboard_time": 1775742442,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 149701,
+      "num": 137617,
+      "word": "陈哲远玩陈飞宇我的最爱梗",
+      "onboard_time": 1775743523,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148076,
       "num": 148076,
       "word": "伊朗为黎巴嫩硬刚美国",
       "onboard_time": 1775735842,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147947,
+      "num": 118732,
+      "word": "迪丽热巴是陈飞宇铁粉了",
+      "onboard_time": 1775742323,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 147261,
@@ -1083,28 +1147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142945,
-      "num": 121398,
-      "word": "少女就该少女演",
-      "onboard_time": 1775740221,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142615,
       "num": 728064,
       "word": "女子推迟婚礼捐骨髓8年后双方相见",
       "onboard_time": 1775732482,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142521,
-      "num": 118732,
-      "word": "迪丽热巴是陈飞宇铁粉了",
-      "onboard_time": 1775742323,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 140686,
@@ -1251,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126558,
+      "num": 126558,
+      "word": "王彦霖 让宇文怀复活是什么意思",
+      "onboard_time": 1775743823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126307,
       "num": 126307,
       "word": "巴萨0比2马竞",
@@ -1273,14 +1329,6 @@
       "onboard_time": 1775711543,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123810,
-      "num": 123810,
-      "word": "刘强东和章泽天新公司叫天强",
-      "onboard_time": 1775742442,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 123584,
@@ -1315,22 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118746,
-      "num": 118746,
-      "word": "以色列总理对美国提要求",
-      "onboard_time": 1775741783,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 118491,
-      "num": 118491,
-      "word": "被送错医院死亡家属曾下跪求转院",
-      "onboard_time": 1775740763,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117850,
       "num": 117850,
       "word": "张雪宣布捐赠嫣然加码",
@@ -1347,20 +1379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115009,
+      "num": 107827,
+      "word": "钢铁森林 好看",
+      "onboard_time": 1775742503,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114864,
       "num": 114864,
       "word": "曝穆祉丞将演十日终焉金元勋",
       "onboard_time": 1775720423,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114481,
-      "num": 114481,
-      "word": "小米YU7入门级版本",
-      "onboard_time": 1775742383,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 110170,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1775647582,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107827,
-      "num": 107827,
-      "word": "钢铁森林 好看",
-      "onboard_time": 1775742503,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 107149,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1775661683,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97971,
+      "num": 97971,
+      "word": "BLG战胜WE",
+      "onboard_time": 1775744123,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 97894,
@@ -2011,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84581,
+      "num": 84581,
+      "word": "奔驰一季度中国销量暴跌27%",
+      "onboard_time": 1775744123,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83839,
       "num": 83839,
       "word": "多位艺人成名前都当过爱格模特",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1775735842,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81080,
+      "num": 85057,
+      "word": "伊朗谈判条件今非昔比",
+      "onboard_time": 1775744123,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79352,
@@ -2131,6 +2179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77294,
+      "num": 77294,
+      "word": "有时候人被猫咬是自找的",
+      "onboard_time": 1775742743,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76617,
       "num": 76617,
       "word": "莫氏鸡煲老板发声",
@@ -2163,14 +2219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74740,
-      "num": 74740,
-      "word": "有时候人被猫咬是自找的",
-      "onboard_time": 1775742743,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74670,
       "num": 74670,
       "word": "林诗栋回应近期状态",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1775718021,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74100,
+      "num": 74100,
+      "word": "韩国一动物园内一公狼挖洞越狱",
+      "onboard_time": 1775741003,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73698,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1775663180,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71936,
+      "num": 71936,
+      "word": "男子卖房为母治病打赏女主播22.5万",
+      "onboard_time": 1775744364,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71638,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1775720300,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69896,
+      "num": 69896,
+      "word": "浑身是血的美军上校15分钟被转移",
+      "onboard_time": 1775741183,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69877,
@@ -2417,14 +2489,6 @@
       "onboard_time": 1775701940,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62341,
-      "num": 64576,
-      "word": "韩国一动物园内一公狼挖洞越狱",
-      "onboard_time": 1775741003,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 60535,
@@ -2612,7 +2676,7 @@
     },
     {
       "raw_hot": 36186,
-      "num": 624886,
+      "num": 633707,
       "word": "13条举措加快建设分级诊疗体系",
       "onboard_time": 1775739802,
       "rank": 2,
@@ -2704,6 +2768,14 @@
       "word": "超千名游客被困玉龙雪山亲历者发声",
       "onboard_time": 1775733741,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27924,
+      "num": 85045,
+      "word": "男子拿母亲治病钱22.5万打赏女主播",
+      "onboard_time": 1775744004,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
