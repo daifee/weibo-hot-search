@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/10 06:05:20
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/10 06:53:14
 </p>
 </blockquote>
 <p>
@@ -2439,6 +2439,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E7%94%9F%E5%91%BD%E6%8D%A2%E4%B8%80%E5%BC%A07.6%E4%B8%87%E5%85%83%E7%BD%9A%E5%8D%95%23" target="weibo">
+一条生命换一张7.6万元罚单（热度：421111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB%23" target="weibo">
 深圳通报救护车截单延误抢救致死（热度：418919）
 </a>
@@ -3605,6 +3611,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%8E%BF%E9%95%BF%E5%87%BA%E8%BD%A8%E8%87%B4%E4%BA%BA%E6%80%80%E5%AD%95%E5%B7%B2%E8%B0%83%E4%B9%A1%E9%95%87%E4%B8%8A%E7%8F%AD%23" target="weibo">
 副县长出轨致人怀孕已调乡镇上班（热度：315298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E6%88%96%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E5%89%B2%E8%8D%89%E6%A8%A1%E5%BC%8F%23" target="weibo">
+美以或对伊朗采取割草模式（热度：314740）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ KSG对战DYG（热度：197455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E9%81%AD%E5%81%87%E6%80%A5%E6%95%91%E4%BA%BA%E5%91%98%E4%BE%B5%E7%8A%AF%23" target="weibo">
 泰国女星遭假急救人员侵犯（热度：195985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E8%BF%91%E8%A7%86%E4%B8%BB%E4%BA%BA%E8%8A%B1800%E5%85%83%E7%BB%99%E5%AE%9A%E5%88%B6%E7%9C%BC%E9%95%9C%23" target="weibo">
-小狗近视主人花800元给定制眼镜（热度：195848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E4%B9%B0%E5%AE%B6%E7%8B%82%E6%8A%9B%23" target="weibo">
-黄金大买家狂抛（热度：195684）
 </a>
 </li>
 
