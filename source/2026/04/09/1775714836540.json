@@ -1,0 +1,410 @@
+{
+  "runTime": 1775714836540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497788,
+        "num": 1079646,
+        "word": "房贷年利率3.8变8.7五年才发现",
+        "onboard_time": 1775710703,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270912,
+        "num": 799654,
+        "word": "20元中6715万彩票店老板发声",
+        "onboard_time": 1775705841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25133,
+        "num": 793969,
+        "word": "体验式消费点亮春日经济",
+        "onboard_time": 1775703021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 630893,
+        "num": 778474,
+        "word": "女孩玩拼豆不幸触电离世",
+        "onboard_time": 1775708182,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438268,
+        "num": 774092,
+        "word": "十万头猪拱进沙漠治沙真成了",
+        "onboard_time": 1775709682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310804,
+        "num": 761730,
+        "word": "男子骚扰已婚初中同学要求对方离婚",
+        "onboard_time": 1775710044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232751,
+        "num": 742901,
+        "word": "多国齐声谴责以色列",
+        "onboard_time": 1775706381,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216823,
+        "num": 729291,
+        "word": "樊振东说现阶段没有强大的抗压能力",
+        "onboard_time": 1775709562,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191312,
+        "num": 721961,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1775713702,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24298,
+        "num": 705453,
+        "word": "福建致5死6伤火灾调查报告公布",
+        "onboard_time": 1775714004,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3470437,
+        "num": 690837,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688029,
+        "num": 688029,
+        "word": "郑合惠子签约杨幂新公司",
+        "onboard_time": 1775711723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295249,
+        "num": 295249,
+        "word": "以色列政坛集体破防",
+        "onboard_time": 1775701280,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 268370,
+        "word": "81岁的潘迎紫",
+        "onboard_time": 1775710824,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225788,
+        "num": 225788,
+        "word": "乳腺癌早期的5个警示症状",
+        "onboard_time": 1775706862,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 793447,
+        "num": 224620,
+        "word": "金莎孙丞潇已完成婚前财产公证",
+        "onboard_time": 1775712205,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207269,
+        "num": 207269,
+        "word": "樊振东不该承受输赢都不行的处境",
+        "onboard_time": 1775712025,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169199,
+        "num": 169199,
+        "word": "爱格",
+        "onboard_time": 1775712684,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 165153,
+        "num": 165153,
+        "word": "17部影片定档2026五一档",
+        "onboard_time": 1775706922,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138193,
+        "num": 138193,
+        "word": "男子求复合遭女友拒绝次日坠楼身亡",
+        "onboard_time": 1775706322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606106,
+        "num": 137920,
+        "word": "金子涵直播疑似求救",
+        "onboard_time": 1775669296,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420723,
+        "num": 137912,
+        "word": "35岁孕妇吃冰箱剩菜后去世",
+        "onboard_time": 1775708363,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350496,
+        "num": 137832,
+        "word": "垫底辣孩回应恋情",
+        "onboard_time": 1775707881,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 136695,
+        "word": "妈妈帮女儿相亲赚了200多万",
+        "onboard_time": 1775710763,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134026,
+        "num": 134026,
+        "word": "金靖说明显感觉到张凌赫太火了",
+        "onboard_time": 1775660783,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443096,
+        "num": 132650,
+        "word": "金子涵后脑勺",
+        "onboard_time": 1775696243,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130304,
+        "num": 130304,
+        "word": "35岁女子身高154cm腹围159cm",
+        "onboard_time": 1775710283,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123944,
+        "num": 123944,
+        "word": "贾浅浅的贾平凹依赖症何时休",
+        "onboard_time": 1775711543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121533,
+        "num": 121533,
+        "word": "胃不好的人每天belike",
+        "onboard_time": 1775705182,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117850,
+        "num": 117850,
+        "word": "张雪宣布捐赠嫣然加码",
+        "onboard_time": 1775714242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130024,
+        "num": 115366,
+        "word": "乳腺结节有3个特征更易癌变",
+        "onboard_time": 1775711425,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111382,
+        "num": 111382,
+        "word": "六小龄童马德华吊唁陈丽华",
+        "onboard_time": 1775707820,
+        "rank": 31,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 109449,
+        "num": 109449,
+        "word": "伊朗外长说美国必须二选一",
+        "onboard_time": 1775714363,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108719,
+        "num": 108719,
+        "word": "月鳞绮纪胡闹了一天后的cp榜",
+        "onboard_time": 1775706862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107870,
+        "num": 107870,
+        "word": "肠胃不好的人吃水果要有选择",
+        "onboard_time": 1775705120,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107041,
+        "num": 107041,
+        "word": "李马克再次道歉",
+        "onboard_time": 1775713463,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106375,
+        "num": 106375,
+        "word": "三丽鸥明星人气评选",
+        "onboard_time": 1775714482,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105228,
+        "num": 105228,
+        "word": "偶遇黄子韬徐艺洋吃螺蛳粉",
+        "onboard_time": 1775712804,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104729,
+        "num": 104729,
+        "word": "张含韵37岁状态",
+        "onboard_time": 1775710522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104724,
+        "num": 104724,
+        "word": "A股大涨原因",
+        "onboard_time": 1775714423,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101065,
+        "num": 101065,
+        "word": "肖战十日终焉人物设定曝光",
+        "onboard_time": 1775713284,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100794,
+        "num": 100794,
+        "word": "NASA发布有史以来最清晰的月球照片",
+        "onboard_time": 1775709142,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98416,
+        "num": 99420,
+        "word": "35岁孕妇吃冰箱剩菜不幸去世",
+        "onboard_time": 1775708963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99126,
+        "num": 99126,
+        "word": "小学生的大问题 大学生的小问题",
+        "onboard_time": 1775708542,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90462,
+        "num": 90462,
+        "word": "蓝莓价格几乎腰斩",
+        "onboard_time": 1775714723,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88269,
+        "num": 88269,
+        "word": "张予曦毕雯珺官宣新综艺",
+        "onboard_time": 1775711425,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84670,
+        "num": 84670,
+        "word": "王楚钦说一道乒乓乓响",
+        "onboard_time": 1775714242,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76186,
+        "num": 76186,
+        "word": "小金毛偷偷咬主人被发现后",
+        "onboard_time": 1775712684,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75986,
+        "num": 75986,
+        "word": "包文婧说对第二胎没那么上心",
+        "onboard_time": 1775709083,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75928,
+        "num": 75928,
+        "word": "以色列议员公开辱骂特朗普",
+        "onboard_time": 1775705661,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为服务业未来发展指明方向#"
+    }
+  }
+}
