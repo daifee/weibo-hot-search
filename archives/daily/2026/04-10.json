@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775768976621,
+  "endTime": 1775771764130,
   "band_list": [
     {
       "raw_hot": 1488588,
@@ -163,20 +163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115643,
+      "num": 248103,
+      "word": "一条生命换一张7.6万元罚单",
+      "onboard_time": 1775749401,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113918,
       "num": 113918,
       "word": "美以或对伊朗采取割草模式",
       "onboard_time": 1775747663,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109277,
-      "num": 109277,
-      "word": "一条生命换一张7.6万元罚单",
-      "onboard_time": 1775749401,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100023,
@@ -404,10 +404,18 @@
     },
     {
       "raw_hot": 42952,
-      "num": 14231,
+      "num": 17828,
       "word": "伊朗表示不会对以侵略行为保持沉默",
       "onboard_time": 1775764933,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39199,
+      "num": 30006,
+      "word": "白宫称美伊将于11日上午举行首轮会谈",
+      "onboard_time": 1775754915,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -441,14 +449,6 @@
       "onboard_time": 1775755036,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31101,
-      "num": 30006,
-      "word": "白宫称美伊将于11日上午举行首轮会谈",
-      "onboard_time": 1775754915,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30332,
@@ -516,10 +516,18 @@
     },
     {
       "raw_hot": 19916,
-      "num": 16761,
+      "num": 17824,
       "word": "美议员称外星人已与人类会面",
       "onboard_time": 1775757315,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19498,
+      "num": 19498,
+      "word": "王毅同朝鲜外相崔善姬举行会谈",
+      "onboard_time": 1775761754,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -532,15 +540,23 @@
     },
     {
       "raw_hot": 16453,
-      "num": 16759,
+      "num": 17809,
       "word": "你好1983收官",
       "onboard_time": 1775756776,
       "rank": 27,
       "category": "剧集"
     },
     {
+      "raw_hot": 15808,
+      "num": 17827,
+      "word": "就贾浅浅涉嫌抄袭问题启动调查",
+      "onboard_time": 1775754497,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15696,
-      "num": 16745,
+      "num": 17813,
       "word": "父亲回应平台全额退瘫痪女儿票钱",
       "onboard_time": 1775758816,
       "rank": 32,
@@ -548,55 +564,39 @@
     },
     {
       "raw_hot": 15495,
-      "num": 16764,
+      "num": 17821,
       "word": "美伊谈判三大分歧",
       "onboard_time": 1775756418,
       "rank": 36,
       "category": "国际时政"
     },
     {
-      "raw_hot": 12988,
-      "num": 16731,
+      "raw_hot": 14439,
+      "num": 17822,
       "word": "男二被防爆 当观众坐第一排",
       "onboard_time": 1775737222,
       "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 12137,
-      "num": 16731,
-      "word": "就贾浅浅涉嫌抄袭问题启动调查",
-      "onboard_time": 1775754497,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11823,
-      "num": 16738,
+      "num": 17810,
       "word": "薛之谦单曲顽疾",
       "onboard_time": 1775760373,
       "rank": 47,
       "category": "音乐"
     },
     {
-      "raw_hot": 11522,
-      "num": 16720,
-      "word": "王毅同朝鲜外相崔善姬举行会谈",
-      "onboard_time": 1775761754,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11055,
-      "num": 16721,
+      "raw_hot": 11327,
+      "num": 17812,
       "word": "鞠婧祎想狐的风还是吹到了大漠",
       "onboard_time": 1775757196,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 9323,
-      "num": 13017,
+      "raw_hot": 10064,
+      "num": 17806,
       "word": "被现实版莫奈花园美哭了",
       "onboard_time": 1775764874,
       "rank": 49,
