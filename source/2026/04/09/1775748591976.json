@@ -1,0 +1,410 @@
+{
+  "runTime": 1775748591976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440883,
+        "num": 1070541,
+        "word": "被送错医院死亡家属曾下跪求转院",
+        "onboard_time": 1775740763,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427181,
+        "num": 773815,
+        "word": "大疆Pocket4",
+        "onboard_time": 1775740221,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31427,
+        "num": 608374,
+        "word": "13条举措加快建设分级诊疗体系",
+        "onboard_time": 1775739802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335808,
+        "num": 335808,
+        "word": "孟子义在浪姐成形容词了",
+        "onboard_time": 1775744723,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287164,
+        "num": 287164,
+        "word": "以色列总理对美国提要求",
+        "onboard_time": 1775741783,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2397402,
+        "num": 285787,
+        "word": "sbti人格大全",
+        "onboard_time": 1775745504,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207871,
+        "num": 282972,
+        "word": "伊朗谈判条件今非昔比",
+        "onboard_time": 1775744123,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 280472,
+        "word": "武汉有轨电车与电动车相撞",
+        "onboard_time": 1775746104,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 153603,
+        "num": 277644,
+        "word": "将门独后",
+        "onboard_time": 1775746883,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146787,
+        "num": 276350,
+        "word": "降至300元的降脂针被纳入医保",
+        "onboard_time": 1775738542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874384,
+        "num": 273363,
+        "word": "王楚然折成这样了肚子没挤出一丝肉",
+        "onboard_time": 1775741963,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632838,
+        "num": 270987,
+        "word": "IMSB人格",
+        "onboard_time": 1775746942,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347826,
+        "num": 267662,
+        "word": "王彦霖 让宇文怀复活是什么意思",
+        "onboard_time": 1775743823,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321103,
+        "num": 264647,
+        "word": "孔雪儿邓凯将门独后路透",
+        "onboard_time": 1775741425,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264542,
+        "num": 264542,
+        "word": "测sbti要笑晕了",
+        "onboard_time": 1775747902,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247710,
+        "num": 247710,
+        "word": "刘强东和章泽天新公司叫天强",
+        "onboard_time": 1775742442,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211363,
+        "num": 211363,
+        "word": "陈添祥长文道歉",
+        "onboard_time": 1775738302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195556,
+        "num": 195556,
+        "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+        "onboard_time": 1775721803,
+        "rank": 17,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 152659,
+        "num": 152659,
+        "word": "离异父母均拒接孩子司机当场怒斥",
+        "onboard_time": 1775745443,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154473,
+        "num": 147888,
+        "word": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
+        "onboard_time": 1775741482,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195392,
+        "num": 144699,
+        "word": "人民日报评吴克群",
+        "onboard_time": 1775744664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90856,
+        "num": 136564,
+        "word": "ES9公布43项技术首创",
+        "onboard_time": 1775745384,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136276,
+        "num": 136276,
+        "word": "多情者",
+        "onboard_time": 1775747603,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128214,
+        "num": 128214,
+        "word": "陈哲远少上点网吧",
+        "onboard_time": 1775745325,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127267,
+        "num": 127267,
+        "word": "刘畊宏再晒王俊凯小泡芙合照",
+        "onboard_time": 1775733441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110502,
+        "num": 110502,
+        "word": "男子开路虎加油500元后逃单",
+        "onboard_time": 1775736501,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 108718,
+        "word": "金莎孙丞潇领证",
+        "onboard_time": 1775710644,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106624,
+        "num": 106624,
+        "word": "男子卖房为母治病打赏女主播22.5万",
+        "onboard_time": 1775744364,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100253,
+        "num": 100253,
+        "word": "三个内娱神奇工作室",
+        "onboard_time": 1775736202,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97804,
+        "num": 97804,
+        "word": "乘风2026",
+        "onboard_time": 1775740883,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44153,
+        "num": 96562,
+        "word": "穆杰塔巴发文纪念伊朗已故最高领袖",
+        "onboard_time": 1775747303,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95771,
+        "num": 95771,
+        "word": "钢铁森林 好看",
+        "onboard_time": 1775742503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93003,
+        "num": 93003,
+        "word": "陈飞宇直播",
+        "onboard_time": 1775747842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92389,
+        "num": 92389,
+        "word": "美议员称外星人已与人类接触",
+        "onboard_time": 1775728882,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90538,
+        "num": 90538,
+        "word": "公众号批量删除AI写作文章",
+        "onboard_time": 1775739082,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89386,
+        "num": 89386,
+        "word": "少女就该少女演",
+        "onboard_time": 1775740221,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88870,
+        "num": 88870,
+        "word": "迪丽热巴待播剧",
+        "onboard_time": 1775747663,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13352,
+        "num": 87690,
+        "word": "起底青少年购药滥用灰色链条",
+        "onboard_time": 1775748502,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92698,
+        "num": 87594,
+        "word": "陈哲远玩陈飞宇我的最爱梗",
+        "onboard_time": 1775743523,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86942,
+        "num": 86942,
+        "word": "赵丽颖楚乔传城墙爆破花絮",
+        "onboard_time": 1775747483,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83092,
+        "num": 83092,
+        "word": "小米YU7入门级版本",
+        "onboard_time": 1775742383,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81810,
+        "num": 81810,
+        "word": "金莎劝孟佳姐弟恋",
+        "onboard_time": 1775745923,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81334,
+        "num": 81334,
+        "word": "平台将助力瘫痪女孩看邓紫棋演唱会",
+        "onboard_time": 1775746823,
+        "rank": 42,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 79152,
+        "num": 79152,
+        "word": "美以或对伊朗采取割草模式",
+        "onboard_time": 1775747663,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74764,
+        "num": 74764,
+        "word": "白日提灯第28集无广",
+        "onboard_time": 1775735181,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73678,
+        "num": 73678,
+        "word": "原来孙怡声音这么好听",
+        "onboard_time": 1775747423,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73360,
+        "num": 73360,
+        "word": "Xiaohu燃尽了",
+        "onboard_time": 1775745504,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72086,
+        "num": 72086,
+        "word": "奔跑吧ins关注tws",
+        "onboard_time": 1775744783,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71067,
+        "num": 71067,
+        "word": "盛李豪射击世界杯第二金",
+        "onboard_time": 1775747182,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68853,
+        "num": 68853,
+        "word": "AI大模型概念股爆发",
+        "onboard_time": 1775746704,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些关心事与服务业发展相关#"
+    }
+  }
+}

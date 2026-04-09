@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775744463014,
+  "endTime": 1775748591976,
   "band_list": [
     {
       "raw_hot": 3943174,
@@ -9,6 +9,14 @@
       "onboard_time": 1775710644,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2397402,
+      "num": 285787,
+      "word": "sbti人格大全",
+      "onboard_time": 1775745504,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 2390144,
@@ -83,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 874384,
+      "num": 273363,
+      "word": "王楚然折成这样了肚子没挤出一丝肉",
+      "onboard_time": 1775741963,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864471,
       "num": 526834,
       "word": "伊朗已叫停霍尔木兹海峡油轮通行",
       "onboard_time": 1775690059,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 834233,
-      "num": 195901,
-      "word": "王楚然折成这样了肚子没挤出一丝肉",
-      "onboard_time": 1775741963,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 793447,
@@ -163,8 +171,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 632838,
+      "num": 270987,
+      "word": "IMSB人格",
+      "onboard_time": 1775746942,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 587463,
-      "num": 170676,
+      "num": 211363,
       "word": "陈添祥长文道歉",
       "onboard_time": 1775738302,
       "rank": 11,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 569427,
-      "num": 177528,
+      "num": 264647,
       "word": "孔雪儿邓凯将门独后路透",
       "onboard_time": 1775741425,
       "rank": 13,
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440883,
+      "num": 1070541,
+      "word": "被送错医院死亡家属曾下跪求转院",
+      "onboard_time": 1775740763,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438268,
       "num": 774092,
       "word": "十万头猪拱进沙漠治沙真成了",
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347826,
+      "num": 267662,
+      "word": "王彦霖 让宇文怀复活是什么意思",
+      "onboard_time": 1775743823,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346715,
       "num": 346715,
       "word": "冰湖重生淳儿受辱戏",
@@ -417,6 +449,14 @@
       "onboard_time": 1775710044,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335808,
+      "num": 335808,
+      "word": "孟子义在浪姐成形容词了",
+      "onboard_time": 1775744723,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 335661,
@@ -523,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287164,
+      "num": 287164,
+      "word": "以色列总理对美国提要求",
+      "onboard_time": 1775741783,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279846,
       "num": 179120,
       "word": "孙俪回应危险关系收视率不好",
@@ -579,12 +627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 264436,
-      "num": 264436,
-      "word": "以色列总理对美国提要求",
-      "onboard_time": 1775741783,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 264542,
+      "num": 264542,
+      "word": "测sbti要笑晕了",
+      "onboard_time": 1775747902,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 262329,
@@ -643,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247710,
+      "num": 247710,
+      "word": "刘强东和章泽天新公司叫天强",
+      "onboard_time": 1775742442,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 246206,
       "num": 188954,
       "word": "35岁孕妇吃冰箱剩菜不幸去世",
@@ -699,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217539,
-      "num": 217539,
-      "word": "被送错医院死亡家属曾下跪求转院",
-      "onboard_time": 1775740763,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216939,
       "num": 216939,
       "word": "王者峡谷变色了",
@@ -737,6 +785,14 @@
       "onboard_time": 1775733322,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207871,
+      "num": 282972,
+      "word": "伊朗谈判条件今非昔比",
+      "onboard_time": 1775744123,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207269,
@@ -793,6 +849,22 @@
       "onboard_time": 1775690179,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195392,
+      "num": 144699,
+      "word": "人民日报评吴克群",
+      "onboard_time": 1775744664,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195248,
+      "num": 280472,
+      "word": "武汉有轨电车与电动车相撞",
+      "onboard_time": 1775746104,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 195148,
@@ -1051,20 +1123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153603,
+      "num": 277644,
+      "word": "将门独后",
+      "onboard_time": 1775746883,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152659,
+      "num": 152659,
+      "word": "离异父母均拒接孩子司机当场怒斥",
+      "onboard_time": 1775745443,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152050,
       "num": 141051,
       "word": "女子空腹半斤蓝莓连吃两天患胃石症",
       "onboard_time": 1775715622,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150228,
-      "num": 150228,
-      "word": "刘强东和章泽天新公司叫天强",
-      "onboard_time": 1775742442,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 149701,
@@ -1203,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136276,
+      "num": 136276,
+      "word": "多情者",
+      "onboard_time": 1775747603,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133293,
       "num": 94124,
       "word": "5人坠河遇难女孩刚搬入新房读书",
@@ -1283,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128214,
+      "num": 128214,
+      "word": "陈哲远少上点网吧",
+      "onboard_time": 1775745325,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127995,
       "num": 185194,
       "word": "20元套中鹦鹉感染鹦鹉热花超18万",
@@ -1297,14 +1393,6 @@
       "onboard_time": 1775704580,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126558,
-      "num": 126558,
-      "word": "王彦霖 让宇文怀复活是什么意思",
-      "onboard_time": 1775743823,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 126307,
@@ -1472,6 +1560,14 @@
       "word": "陈丽华告别仪式",
       "onboard_time": 1775703021,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106624,
+      "num": 106624,
+      "word": "男子卖房为母治病打赏女主播22.5万",
+      "onboard_time": 1775744364,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1811,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93003,
+      "num": 93003,
+      "word": "陈飞宇直播",
+      "onboard_time": 1775747842,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92712,
       "num": 82678,
       "word": "中俄提出霍尔木兹海峡问题决议草案",
@@ -1867,6 +1971,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 90856,
+      "num": 136564,
+      "word": "ES9公布43项技术首创",
+      "onboard_time": 1775745384,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90390,
       "num": 90390,
       "word": "长汀车辆坠河事故家属发声",
@@ -1915,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "迪丽热巴待播剧",
+      "onboard_time": 1775747663,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88858,
       "num": 88858,
       "word": "小S说现在的生活很健康",
@@ -1952,6 +2072,14 @@
       "word": "肖战十日终焉开通官方账号",
       "onboard_time": 1775669536,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86942,
+      "num": 86942,
+      "word": "赵丽颖楚乔传城墙爆破花絮",
+      "onboard_time": 1775747483,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2107,12 +2235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81080,
-      "num": 85057,
-      "word": "伊朗谈判条件今非昔比",
-      "onboard_time": 1775744123,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 81810,
+      "num": 81810,
+      "word": "金莎劝孟佳姐弟恋",
+      "onboard_time": 1775745923,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81334,
+      "num": 81334,
+      "word": "平台将助力瘫痪女孩看邓紫棋演唱会",
+      "onboard_time": 1775746823,
+      "rank": 42,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 79352,
@@ -2129,6 +2265,14 @@
       "onboard_time": 1775741360,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79152,
+      "num": 79152,
+      "word": "美以或对伊朗采取割草模式",
+      "onboard_time": 1775747663,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79092,
@@ -2275,6 +2419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73678,
+      "num": 73678,
+      "word": "原来孙怡声音这么好听",
+      "onboard_time": 1775747423,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73360,
+      "num": 73360,
+      "word": "Xiaohu燃尽了",
+      "onboard_time": 1775745504,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73320,
       "num": 73320,
       "word": "陆虎回应歌单",
@@ -2307,12 +2467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71936,
-      "num": 71936,
-      "word": "男子卖房为母治病打赏女主播22.5万",
-      "onboard_time": 1775744364,
+      "raw_hot": 72086,
+      "num": 72086,
+      "word": "奔跑吧ins关注tws",
+      "onboard_time": 1775744783,
       "rank": 47,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 71638,
@@ -2337,6 +2497,14 @@
       "onboard_time": 1775732420,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71067,
+      "num": 71067,
+      "word": "盛李豪射击世界杯第二金",
+      "onboard_time": 1775747182,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 71062,
@@ -2416,6 +2584,14 @@
       "word": "黄金涨跌逻辑变了",
       "onboard_time": 1775653942,
       "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 68853,
+      "num": 68853,
+      "word": "AI大模型概念股爆发",
+      "onboard_time": 1775746704,
+      "rank": 49,
       "category": "财经"
     },
     {
@@ -2608,6 +2784,14 @@
       "word": "中方回应是否直接参与达成停火协议",
       "onboard_time": 1775670137,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44153,
+      "num": 96562,
+      "word": "穆杰塔巴发文纪念伊朗已故最高领袖",
+      "onboard_time": 1775747303,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -2889,6 +3073,14 @@
       "onboard_time": 1775675955,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13352,
+      "num": 87690,
+      "word": "起底青少年购药滥用灰色链条",
+      "onboard_time": 1775748502,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 13319,

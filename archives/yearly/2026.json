@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775744463014,
+  "endTime": 1775748591976,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2397402,
+      "num": 285787,
+      "word": "sbti人格大全",
+      "onboard_time": 1775745504,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2391408,
       "num": 1680243,
       "word": "太原火灾",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767748102,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1903871,
-      "num": 221996,
-      "word": "单依纯拉黑网友",
-      "onboard_time": 1774968446,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
