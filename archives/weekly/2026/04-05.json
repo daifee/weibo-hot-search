@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775726345726,
+  "endTime": 1775728110716,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1919095,
-      "num": 200585,
+      "num": 204567,
       "word": "薛之谦满头斑秃和水泡",
       "onboard_time": 1775720241,
       "rank": 11,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1352631,
-      "num": 624431,
+      "num": 635647,
       "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
       "onboard_time": 1775721803,
       "rank": 3,
@@ -1331,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469038,
+      "num": 469038,
+      "word": "安妮海瑟薇在韩国收到绣花高跟鞋",
+      "onboard_time": 1775724802,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468517,
       "num": 468517,
       "word": "迟重瑞为陈丽华光头36年",
@@ -1348,7 +1356,7 @@
     },
     {
       "raw_hot": 463623,
-      "num": 463623,
+      "num": 471498,
       "word": "美国的停火谈判被以色列加了备注",
       "onboard_time": 1775717241,
       "rank": 4,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1775473161,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454692,
+      "num": 128302,
+      "word": "papi酱已退出papitube",
+      "onboard_time": 1775726062,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 454204,
@@ -1723,6 +1739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 396327,
+      "num": 746454,
+      "word": "爷爷卖16000个烧饼孙女打赏给主播",
+      "onboard_time": 1775726001,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395472,
       "num": 395472,
       "word": "以色列空袭黎首都",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1775487024,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 373604,
-      "num": 201685,
-      "word": "安妮海瑟薇在韩国收到绣花高跟鞋",
-      "onboard_time": 1775724802,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 373513,
@@ -2851,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268919,
+      "num": 127913,
+      "word": "金莎回应质疑",
+      "onboard_time": 1775726962,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268370,
       "num": 268370,
       "word": "81岁的潘迎紫",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1775605701,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265714,
+      "num": 201028,
+      "word": "重生之我是Hero久诚",
+      "onboard_time": 1775727082,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 264958,
@@ -3851,6 +3883,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201135,
+      "num": 128140,
+      "word": "曝孙杨张豆豆2岁孩子身高96cm",
+      "onboard_time": 1775725882,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200523,
+      "num": 200523,
+      "word": "民勤种树女生遭恶意凝视引众怒",
+      "onboard_time": 1775723902,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200191,
       "num": 200191,
       "word": "短线交易新规来了",
@@ -3873,14 +3921,6 @@
       "onboard_time": 1775361740,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199481,
-      "num": 199481,
-      "word": "民勤种树女生遭恶意凝视引众怒",
-      "onboard_time": 1775723902,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199242,
@@ -4201,6 +4241,14 @@
       "onboard_time": 1775605400,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186575,
+      "num": 127788,
+      "word": "曝当红男艺人曾阻止男二出席剧宣",
+      "onboard_time": 1775726062,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186348,
@@ -4667,6 +4715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 166671,
+      "num": 122680,
+      "word": "权志龙收入曝光",
+      "onboard_time": 1775727381,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166420,
       "num": 166420,
       "word": "当租到烟民退租的房",
@@ -4876,7 +4932,7 @@
     },
     {
       "raw_hot": 159802,
-      "num": 129235,
+      "num": 149796,
       "word": "车辆坠河致5死遇难者暂未下葬",
       "onboard_time": 1775723902,
       "rank": 30,
@@ -5283,6 +5339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143260,
+      "num": 143260,
+      "word": "官方通报不必回避贾浅浅的名字",
+      "onboard_time": 1775726363,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143127,
       "num": 341979,
       "word": "我们的爸爸2重组家庭太难了",
@@ -5393,14 +5457,6 @@
       "onboard_time": 1775607922,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140305,
-      "num": 128140,
-      "word": "曝孙杨张豆豆2岁孩子身高96cm",
-      "onboard_time": 1775725882,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 139979,
@@ -5939,6 +5995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128548,
+      "num": 189657,
+      "word": "多次试管流产后夫妻因生育起分歧",
+      "onboard_time": 1775725280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127995,
+      "num": 185194,
+      "word": "20元套中鹦鹉感染鹦鹉热花超18万",
+      "onboard_time": 1775725521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127883,
       "num": 127883,
       "word": "如何看待樊振东自愿放弃",
@@ -5968,14 +6040,6 @@
       "word": "安徽女童失联地后面是一片田地",
       "onboard_time": 1775493498,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127630,
-      "num": 189657,
-      "word": "多次试管流产后夫妻因生育起分歧",
-      "onboard_time": 1775725280,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6779,14 +6843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 110466,
-      "num": 110466,
-      "word": "papi酱已退出papitube",
-      "onboard_time": 1775726062,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110310,
       "num": 103830,
       "word": "女士用衣服救了娘俩",
@@ -7291,6 +7347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103788,
+      "num": 103788,
+      "word": "sbti测试网站崩了",
+      "onboard_time": 1775725940,
+      "rank": 40,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 103741,
       "num": 103741,
       "word": "鹿晗勋章MV好多老熟人",
@@ -7699,6 +7763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98398,
+      "num": 98398,
+      "word": "张予曦毕雯珺合伙人海报站位",
+      "onboard_time": 1775725641,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98379,
       "num": 80128,
       "word": "北冰洋NFC葡萄汁含量十万分之五",
@@ -7987,6 +8059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95407,
+      "num": 95407,
+      "word": "等我老了才不会玩这些梗",
+      "onboard_time": 1775727802,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95351,
       "num": 95351,
       "word": "张峻豪官宣成都演唱会",
@@ -8243,6 +8323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93082,
+      "num": 93082,
+      "word": "孙杨处理婆媳关系",
+      "onboard_time": 1775727862,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92697,
       "num": 92697,
       "word": "恋与深空 没有5200积分",
@@ -8379,6 +8467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91013,
+      "num": 203826,
+      "word": "美宜佳通报处置进展",
+      "onboard_time": 1775725761,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 90937,
       "num": 90937,
       "word": "徐洁儿没有人亮灯",
@@ -8401,14 +8497,6 @@
       "onboard_time": 1775562741,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90723,
-      "num": 90723,
-      "word": "sbti测试网站崩了",
-      "onboard_time": 1775725940,
-      "rank": 40,
-      "category": "情感,互联网"
     },
     {
       "raw_hot": 90618,
@@ -8579,6 +8667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88858,
+      "num": 88858,
+      "word": "小S说现在的生活很健康",
+      "onboard_time": 1775727682,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88815,
       "num": 88815,
       "word": "考古张月",
@@ -8617,14 +8713,6 @@
       "onboard_time": 1775394024,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 88702,
-      "num": 88702,
-      "word": "张予曦毕雯珺合伙人海报站位",
-      "onboard_time": 1775725641,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 88552,
@@ -8817,6 +8905,14 @@
       "onboard_time": 1775451020,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85975,
+      "num": 91075,
+      "word": "800斤黄牛坠洞主人营救4天无奈放弃",
+      "onboard_time": 1775726842,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85925,
@@ -11067,14 +11163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62813,
-      "num": 203826,
-      "word": "美宜佳通报处置进展",
-      "onboard_time": 1775725761,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 62756,
       "num": 62756,
       "word": "我的清明假期belike",
@@ -11577,14 +11665,6 @@
       "onboard_time": 1775578159,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55584,
-      "num": 184185,
-      "word": "爷爷卖16000个烧饼孙女打赏给主播",
-      "onboard_time": 1775726001,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55553,
@@ -12195,6 +12275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39509,
+      "num": 96222,
+      "word": "失眠如何快速入睡",
+      "onboard_time": 1775728042,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 39472,
       "num": 189758,
       "word": "大大大五座NX8售14.99万起",
@@ -12305,6 +12393,14 @@
       "onboard_time": 1775400207,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 80765,
+      "word": "伊朗称已做好长期战争的准备",
+      "onboard_time": 1775726540,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36279,
@@ -12491,12 +12587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30213,
+      "num": 95688,
+      "word": "迟重瑞现身陈丽华告别仪式",
+      "onboard_time": 1775727321,
+      "rank": 39,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 29656,
       "num": 65162,
       "word": "保姆盗窃雇主80万奢侈品获利19万",
       "onboard_time": 1775480541,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29490,
+      "num": 205649,
+      "word": "解放军反分裂反干涉手段越来越丰富",
+      "onboard_time": 1775727023,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29436,
@@ -12721,14 +12833,6 @@
       "onboard_time": 1775418016,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23846,
-      "num": 185194,
-      "word": "20元套中鹦鹉感染鹦鹉热花超18万",
-      "onboard_time": 1775725521,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23803,

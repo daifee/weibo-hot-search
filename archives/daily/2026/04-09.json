@@ -1,6 +1,6 @@
 {
   "startTime": 1775668472731,
-  "endTime": 1775726345726,
+  "endTime": 1775728110716,
   "band_list": [
     {
       "raw_hot": 3943174,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1919095,
-      "num": 200585,
+      "num": 204567,
       "word": "薛之谦满头斑秃和水泡",
       "onboard_time": 1775720241,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1352631,
-      "num": 624431,
+      "num": 635647,
       "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
       "onboard_time": 1775721803,
       "rank": 3,
@@ -195,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469038,
+      "num": 469038,
+      "word": "安妮海瑟薇在韩国收到绣花高跟鞋",
+      "onboard_time": 1775724802,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 463623,
-      "num": 463623,
+      "num": 471498,
       "word": "美国的停火谈判被以色列加了备注",
       "onboard_time": 1775717241,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 454692,
+      "num": 128302,
+      "word": "papi酱已退出papitube",
+      "onboard_time": 1775726062,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 443096,
@@ -267,20 +283,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 396327,
+      "num": 746454,
+      "word": "爷爷卖16000个烧饼孙女打赏给主播",
+      "onboard_time": 1775726001,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380745,
       "num": 176590,
       "word": "金靖说明显感觉到张凌赫太火了",
       "onboard_time": 1775660783,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373604,
-      "num": 201685,
-      "word": "安妮海瑟薇在韩国收到绣花高跟鞋",
-      "onboard_time": 1775724802,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 372322,
@@ -395,12 +411,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268919,
+      "num": 127913,
+      "word": "金莎回应质疑",
+      "onboard_time": 1775726962,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268370,
       "num": 268370,
       "word": "81岁的潘迎紫",
       "onboard_time": 1775710824,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265714,
+      "num": 201028,
+      "word": "重生之我是Hero久诚",
+      "onboard_time": 1775727082,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 262329,
@@ -507,8 +539,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199481,
-      "num": 199481,
+      "raw_hot": 201135,
+      "num": 128140,
+      "word": "曝孙杨张豆豆2岁孩子身高96cm",
+      "onboard_time": 1775725882,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200523,
+      "num": 200523,
       "word": "民勤种树女生遭恶意凝视引众怒",
       "onboard_time": 1775723902,
       "rank": 15,
@@ -585,6 +625,14 @@
       "onboard_time": 1775706862,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186575,
+      "num": 127788,
+      "word": "曝当红男艺人曾阻止男二出席剧宣",
+      "onboard_time": 1775726062,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 181601,
@@ -667,6 +715,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166671,
+      "num": 122680,
+      "word": "权志龙收入曝光",
+      "onboard_time": 1775727381,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163976,
       "num": 163976,
       "word": "张萌谈冰湖重生为什么没换角",
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 159802,
-      "num": 129235,
+      "num": 149796,
       "word": "车辆坠河致5死遇难者暂未下葬",
       "onboard_time": 1775723902,
       "rank": 30,
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143260,
+      "num": 143260,
+      "word": "官方通报不必回避贾浅浅的名字",
+      "onboard_time": 1775726363,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142998,
       "num": 142998,
       "word": "张予曦毕雯珺官宣新综艺",
@@ -761,14 +825,6 @@
       "onboard_time": 1775716581,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 140305,
-      "num": 128140,
-      "word": "曝孙杨张豆豆2岁孩子身高96cm",
-      "onboard_time": 1775725882,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 139979,
@@ -867,20 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128548,
+      "num": 189657,
+      "word": "多次试管流产后夫妻因生育起分歧",
+      "onboard_time": 1775725280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127995,
+      "num": 185194,
+      "word": "20元套中鹦鹉感染鹦鹉热花超18万",
+      "onboard_time": 1775725521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127883,
       "num": 127883,
       "word": "如何看待樊振东自愿放弃",
       "onboard_time": 1775704580,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127630,
-      "num": 189657,
-      "word": "多次试管流产后夫妻因生育起分歧",
-      "onboard_time": 1775725280,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126307,
@@ -953,14 +1017,6 @@
       "onboard_time": 1775720423,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110466,
-      "num": 110466,
-      "word": "papi酱已退出papitube",
-      "onboard_time": 1775726062,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 110170,
@@ -1107,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103788,
+      "num": 103788,
+      "word": "sbti测试网站崩了",
+      "onboard_time": 1775725940,
+      "rank": 40,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 103741,
       "num": 103741,
       "word": "鹿晗勋章MV好多老熟人",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1775705539,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98398,
+      "num": 98398,
+      "word": "张予曦毕雯珺合伙人海报站位",
+      "onboard_time": 1775725641,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 98367,
@@ -1275,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95407,
+      "num": 95407,
+      "word": "等我老了才不会玩这些梗",
+      "onboard_time": 1775727802,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94688,
       "num": 83486,
       "word": "女生小区捡猫开出SSR隐藏款",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1775703381,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93082,
+      "num": 93082,
+      "word": "孙杨处理婆媳关系",
+      "onboard_time": 1775727862,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 92712,
@@ -1323,12 +1411,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 90723,
-      "num": 90723,
-      "word": "sbti测试网站崩了",
-      "onboard_time": 1775725940,
-      "rank": 40,
-      "category": "情感,互联网"
+      "raw_hot": 91013,
+      "num": 203826,
+      "word": "美宜佳通报处置进展",
+      "onboard_time": 1775725761,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90390,
@@ -1371,12 +1459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88702,
-      "num": 88702,
-      "word": "张予曦毕雯珺合伙人海报站位",
-      "onboard_time": 1775725641,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 88858,
+      "num": 88858,
+      "word": "小S说现在的生活很健康",
+      "onboard_time": 1775727682,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 88141,
@@ -1416,6 +1504,14 @@
       "word": "211毕业生当保安后续",
       "onboard_time": 1775699780,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85975,
+      "num": 91075,
+      "word": "800斤黄牛坠洞主人营救4天无奈放弃",
+      "onboard_time": 1775726842,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1723,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62813,
-      "num": 203826,
-      "word": "美宜佳通报处置进展",
-      "onboard_time": 1775725761,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 62701,
       "num": 128701,
       "word": "成都一卤菜店名用四姐被索赔50万",
@@ -1777,14 +1865,6 @@
       "onboard_time": 1775691680,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55584,
-      "num": 184185,
-      "word": "爷爷卖16000个烧饼孙女打赏给主播",
-      "onboard_time": 1775726001,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54456,
@@ -1851,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39509,
+      "num": 96222,
+      "word": "失眠如何快速入睡",
+      "onboard_time": 1775728042,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 39043,
       "num": 39043,
       "word": "十日终焉官微 用户1231",
@@ -1881,6 +1969,14 @@
       "onboard_time": 1775707401,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 80765,
+      "word": "伊朗称已做好长期战争的准备",
+      "onboard_time": 1775726540,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35907,
@@ -1955,6 +2051,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30213,
+      "num": 95688,
+      "word": "迟重瑞现身陈丽华告别仪式",
+      "onboard_time": 1775727321,
+      "rank": 39,
+      "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 29490,
+      "num": 205649,
+      "word": "解放军反分裂反干涉手段越来越丰富",
+      "onboard_time": 1775727023,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27596,
       "num": 179398,
       "word": "央视揭AI仿声乱象",
@@ -1992,14 +2104,6 @@
       "word": "福建致5死6伤火灾调查报告公布",
       "onboard_time": 1775714004,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23846,
-      "num": 185194,
-      "word": "20元套中鹦鹉感染鹦鹉热花超18万",
-      "onboard_time": 1775725521,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
