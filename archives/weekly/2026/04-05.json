@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775816079720,
+  "endTime": 1775820436484,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -587,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 864587,
+      "num": 864587,
+      "word": "浪姐一公直播",
+      "onboard_time": 1775818281,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864471,
       "num": 526834,
       "word": "伊朗已叫停霍尔木兹海峡油轮通行",
       "onboard_time": 1775690059,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 851987,
+      "num": 1136318,
+      "word": "莫氏鸡煲公开秘方",
+      "onboard_time": 1775816121,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 850827,
@@ -872,6 +888,14 @@
       "word": "海湾多国遭袭",
       "onboard_time": 1775618422,
       "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 676018,
+      "num": 118215,
+      "word": "特朗普对鲤鱼宣战",
+      "onboard_time": 1775814921,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 426026,
-      "num": 790084,
+      "num": 921324,
       "word": "女子睡觉被15斤猫咪压致手腕骨折",
       "onboard_time": 1775810540,
       "rank": 3,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1775563040,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383815,
+      "num": 950971,
+      "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
+      "onboard_time": 1775818281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383520,
@@ -4027,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233184,
+      "num": 233184,
+      "word": "发现了辛苦了这句话的最佳回复",
+      "onboard_time": 1775816662,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232808,
       "num": 138207,
       "word": "金银再下跌",
@@ -4699,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202527,
+      "num": 116613,
+      "word": "刘诗诗送朴宝剑宝瓶花",
+      "onboard_time": 1775814621,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202397,
       "num": 466935,
       "word": "三星家族549亿元遗产税尾款",
@@ -4825,6 +4873,14 @@
       "onboard_time": 1775580377,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 93746,
+      "word": "张晋蔡少芬6岁儿子近照",
+      "onboard_time": 1775818700,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 196245,
@@ -5305,6 +5361,14 @@
       "onboard_time": 1775524882,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179696,
+      "num": 1109402,
+      "word": "打压遏制中国到了疯狂的程度",
+      "onboard_time": 1775814682,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179611,
@@ -7635,6 +7699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119880,
+      "num": 89354,
+      "word": "丁程鑫张真源因行程原因未能同游",
+      "onboard_time": 1775819602,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119420,
       "num": 119420,
       "word": "从王者到王者荣耀世界",
@@ -7665,14 +7737,6 @@
       "onboard_time": 1775791222,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119040,
-      "num": 116613,
-      "word": "刘诗诗送朴宝剑宝瓶花",
-      "onboard_time": 1775814621,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 119007,
@@ -7939,6 +8003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113112,
+      "num": 113112,
+      "word": "以色列向美国施压",
+      "onboard_time": 1775816722,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112858,
       "num": 112858,
       "word": "女子吐槽逛商场遇无隔断厕所",
@@ -8009,6 +8081,14 @@
       "onboard_time": 1775647762,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111411,
+      "num": 111411,
+      "word": "穿普拉达的女王2中国首映礼",
+      "onboard_time": 1775818281,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 111116,
@@ -8595,20 +8675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104326,
-      "num": 104326,
-      "word": "打压遏制中国到了疯狂的程度",
-      "onboard_time": 1775814682,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 104302,
       "num": 104302,
       "word": "T1对战GEN",
       "onboard_time": 1775646920,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104188,
+      "num": 104188,
+      "word": "小米食堂说冰淇淋机快冒烟了",
+      "onboard_time": 1775816061,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104165,
@@ -9259,6 +9339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97613,
+      "num": 97613,
+      "word": "周也亮相穿普拉达的女王2首映",
+      "onboard_time": 1775819480,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97463,
       "num": 97463,
       "word": "王楚钦首夺男单冠军的含金量有多高",
@@ -9329,6 +9417,14 @@
       "onboard_time": 1775299041,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96705,
+      "num": 88215,
+      "word": "杨洋为了升金V发博",
+      "onboard_time": 1775819602,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 96581,
@@ -9609,6 +9705,14 @@
       "onboard_time": 1775638223,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94304,
+      "num": 94304,
+      "word": "每天揉3分钟肝血充足眼睛明亮",
+      "onboard_time": 1775817502,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94289,
@@ -9985,6 +10089,14 @@
       "onboard_time": 1775393544,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91068,
+      "num": 79626,
+      "word": "王安宇 高端的帅哥只需简单的黑T",
+      "onboard_time": 1775817502,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 91013,
@@ -10939,14 +11051,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83394,
-      "num": 118215,
-      "word": "特朗普对鲤鱼宣战",
-      "onboard_time": 1775814921,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83283,
       "num": 83283,
       "word": "以色列本土不安全了",
@@ -11369,6 +11473,14 @@
       "onboard_time": 1775628262,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79977,
+      "num": 79977,
+      "word": "被柳絮攻击",
+      "onboard_time": 1775819961,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 79935,
@@ -12203,6 +12315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74224,
+      "num": 74224,
+      "word": "复刻莫氏鸡煲",
+      "onboard_time": 1775818640,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74197,
       "num": 171729,
       "word": "叶一茜说不如第一季就来浪姐",
@@ -12217,6 +12337,14 @@
       "onboard_time": 1775741003,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 74067,
+      "num": 74067,
+      "word": "十日终焉海报细节",
+      "onboard_time": 1775818101,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 73978,
@@ -12297,6 +12425,14 @@
       "onboard_time": 1775801781,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73515,
+      "num": 73515,
+      "word": "王橹杰大V领 是好男孩吗",
+      "onboard_time": 1775819421,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 73490,
@@ -12385,6 +12521,14 @@
       "onboard_time": 1775699601,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72679,
+      "num": 79246,
+      "word": "山西省考成绩",
+      "onboard_time": 1775817742,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 72503,
@@ -12675,6 +12819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70364,
+      "num": 70364,
+      "word": "53条中日航线3月取消全部航班",
+      "onboard_time": 1775819121,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70248,
       "num": 70248,
       "word": "范丞丞出道8周年营业",
@@ -12763,6 +12915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69822,
+      "num": 69822,
+      "word": "将主板风险警示股票涨跌幅调整为10%",
+      "onboard_time": 1775817021,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69534,
       "num": 69534,
       "word": "T1战胜DNS",
@@ -12793,6 +12953,14 @@
       "onboard_time": 1775797044,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69441,
+      "num": 69441,
+      "word": "特斯拉ModelY再登国内销量冠军",
+      "onboard_time": 1775817801,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 69352,
@@ -13291,6 +13459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64284,
+      "num": 64284,
+      "word": "孔雪儿邓凯好六借位吻",
+      "onboard_time": 1775816962,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64139,
       "num": 73991,
       "word": "加勒比海淀",
@@ -13593,6 +13769,14 @@
       "onboard_time": 1775799443,
       "rank": 41,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 61251,
+      "num": 61251,
+      "word": "女生买衣服一定要学会看细节",
+      "onboard_time": 1775817441,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 60987,
@@ -13955,6 +14139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57985,
+      "num": 57985,
+      "word": "拼豆已进入3D打印时代",
+      "onboard_time": 1775819480,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57982,
       "num": 57982,
       "word": "黄灿灿好像刷子",
@@ -14049,6 +14241,14 @@
       "onboard_time": 1775378902,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56852,
+      "num": 56852,
+      "word": "王毅祭扫江东郡志愿军烈士陵园",
+      "onboard_time": 1775817141,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56833,
@@ -15267,6 +15467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29823,
+      "num": 56811,
+      "word": "强拉病人致死医院是莆田系",
+      "onboard_time": 1775818880,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29656,
       "num": 65162,
       "word": "保姆盗窃雇主80万奢侈品获利19万",
@@ -15492,7 +15700,7 @@
     },
     {
       "raw_hot": 25209,
-      "num": 630906,
+      "num": 1040387,
       "word": "高质量发展中国行",
       "onboard_time": 1775806220,
       "rank": 2,
