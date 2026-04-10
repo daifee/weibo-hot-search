@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/10 07:44:20
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/10 08:02:04
 </p>
 </blockquote>
 <p>
@@ -1449,6 +1449,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23sbti%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95%23" target="weibo">
+sbti人格测试（热度：2169731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E6%9E%97%E5%9B%9B%E4%BE%A0%E5%BD%BB%E5%BA%95be%E4%BA%86%23" target="weibo">
 竹林四侠彻底be了（热度：2167253）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
 自由式滑雪女子空中技巧决赛（热度：1906624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23" target="weibo">
-委内瑞拉发布讣告（热度：1906595）
 </a>
 </li>
 

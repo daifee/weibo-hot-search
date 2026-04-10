@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/10 00:02:44 ~ 2026/04/10 07:44:20
+本榜单时间：2026/04/10 00:02:44 ~ 2026/04/10 08:02:04
 </p>
 </blockquote>
 <p>
@@ -15,26 +15,26 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23sbti%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95%23" target="weibo">
+sbti人格测试（热度：2169731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23sbti%E6%B5%8B%E8%AF%95%E6%98%AF%E5%95%A5%23" target="weibo">
 sbti测试是啥（热度：1488588）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23sbti%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95%23" target="weibo">
-sbti人格测试（热度：1299588）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E6%85%8C%E4%BA%86%23" target="weibo">
+海湾国家慌了（热度：950699）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IMSB%E4%BA%BA%E6%A0%BC%23" target="weibo">
 IMSB人格（热度：892803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E6%85%8C%E4%BA%86%23" target="weibo">
-海湾国家慌了（热度：857170）
 </a>
 </li>
 
@@ -57,8 +57,38 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%8C%E5%85%A8%E5%85%B3%E9%97%AD%23" target="weibo">
+霍尔木兹海峡完全关闭（热度：444213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0%23" target="weibo">
+伊朗最高领袖提出三点主张（热度：417766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23sbti%20%E5%AD%A4%E5%84%BF%23" target="weibo">
+sbti 孤儿（热度：407534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E6%88%96%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E5%89%B2%E8%8D%89%E6%A8%A1%E5%BC%8F%23" target="weibo">
 美以或对伊朗采取割草模式（热度：391053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9A%84%E6%94%B6%E8%97%8F%23" target="weibo">
+金子涵的收藏（热度：362677）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%88%91%E6%AF%8F%E5%A4%A9%E5%90%83%E4%B8%80%E4%B8%AA%E5%94%90%E5%83%A7%23" target="weibo">
+李小冉我每天吃一个唐僧（热度：350706）
 </a>
 </li>
 
@@ -76,13 +106,19 @@ IMSB人格（热度：892803）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E5%A6%88%E5%A6%88%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%23" target="weibo">
-李纯吐槽自己妈妈没苦硬吃（热度：267221）
+李纯吐槽自己妈妈没苦硬吃（热度：281055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23" target="weibo">
+微信回应夫妻用AI写公众号年赚200万（热度：276416）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%96%E6%88%BF%E4%B8%BA%E6%AF%8D%E6%B2%BB%E7%97%85%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD22.5%E4%B8%87%23" target="weibo">
-男子卖房为母治病打赏女主播22.5万（热度：245954）
+男子卖房为母治病打赏女主播22.5万（热度：248806）
 </a>
 </li>
 
@@ -99,8 +135,8 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%8C%E5%85%A8%E5%85%B3%E9%97%AD%23" target="weibo">
-霍尔木兹海峡完全关闭（热度：230100）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E7%89%A9%23" target="weibo">
+尤物（热度：224291）
 </a>
 </li>
 
@@ -135,12 +171,6 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%A4%E7%89%A9%23" target="weibo">
-尤物（热度：182553）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%90%B4%E5%85%8B%E7%BE%A4%23" target="weibo">
 人民日报评吴克群（热度：171904）
 </a>
@@ -171,20 +201,20 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%81%9C%E7%81%AB%E5%85%A8%E6%98%AF%E6%88%8F%23" target="weibo">
+美以伊停火全是戏（热度：144484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8F%A4%E6%B3%95%E7%94%9F%E8%82%B2%E5%BD%B1%E5%93%8D%E5%A9%B4%E5%84%BF%E6%99%BA%E5%8A%9B%E5%8F%91%E8%82%B2%23" target="weibo">
+专家称古法生育影响婴儿智力发育（热度：142129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%92%8C%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%96%B0%E5%85%AC%E5%8F%B8%E5%8F%AB%E5%A4%A9%E5%BC%BA%23" target="weibo">
 刘强东和章泽天新公司叫天强（热度：138164）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23sbti%20%E5%AD%A4%E5%84%BF%23" target="weibo">
-sbti 孤儿（热度：136329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9A%84%E6%94%B6%E8%97%8F%23" target="weibo">
-金子涵的收藏（热度：135789）
 </a>
 </li>
 
@@ -195,8 +225,14 @@ sbti 孤儿（热度：136329）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%88%91%E6%AF%8F%E5%A4%A9%E5%90%83%E4%B8%80%E4%B8%AA%E5%94%90%E5%83%A7%23" target="weibo">
-李小冉我每天吃一个唐僧（热度：112335）
+<a href="https://s.weibo.com/weibo?q=%23sbti%E5%A6%88%E5%A6%88%23" target="weibo">
+sbti妈妈（热度：122819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E9%9D%A2%E9%83%A8%E7%94%9F%E7%90%86%E6%80%A7%E9%A2%A4%E6%8A%96%23" target="weibo">
+李昀锐面部生理性颤抖（热度：111073）
 </a>
 </li>
 
@@ -209,6 +245,18 @@ sbti 孤儿（热度：136329）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B0%86%E4%BA%8E11%E6%97%A5%E4%B8%8A%E5%8D%88%E4%B8%BE%E8%A1%8C%E9%A6%96%E8%BD%AE%E4%BC%9A%E8%B0%88%23" target="weibo">
 白宫称美伊将于11日上午举行首轮会谈（热度：108448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23" target="weibo">
+十日终焉（热度：107389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SBTI%E5%9B%9E%E5%BA%94MBTI%23" target="weibo">
+SBTI回应MBTI（热度：102477）
 </a>
 </li>
 
@@ -227,18 +275,6 @@ sbti 孤儿（热度：136329）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E9%A2%86%E8%AF%81%23" target="weibo">
 金莎孙丞潇领证（热度：91946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%81%9C%E7%81%AB%E5%85%A8%E6%98%AF%E6%88%8F%23" target="weibo">
-美以伊停火全是戏（热度：90363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0%23" target="weibo">
-伊朗最高领袖提出三点主张（热度：86478）
 </a>
 </li>
 
@@ -285,12 +321,6 @@ sbti 孤儿（热度：136329）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23sbti%E5%A6%88%E5%A6%88%23" target="weibo">
-sbti妈妈（热度：76021）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B0%86%E5%8A%A9%E5%8A%9B%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E7%9C%8B%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 平台将助力瘫痪女孩看邓紫棋演唱会（热度：74288）
 </a>
@@ -305,6 +335,12 @@ sbti妈妈（热度：76021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E7%9B%B4%E6%92%AD%23" target="weibo">
 陈飞宇直播（热度：70696）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD%E9%81%AD%E4%BB%A5%E5%86%9B%E5%AF%86%E9%9B%86%E7%A9%BA%E8%A2%AD%23" target="weibo">
+黎巴嫩首都遭以军密集空袭（热度：67912）
 </a>
 </li>
 
@@ -339,8 +375,8 @@ sbti妈妈（热度：76021）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD%E9%81%AD%E4%BB%A5%E5%86%9B%E5%AF%86%E9%9B%86%E7%A9%BA%E8%A2%AD%23" target="weibo">
-黎巴嫩首都遭以军密集空袭（热度：59961）
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E7%99%8C%E5%8F%98%E5%89%8D%E7%9A%846%E4%B8%AA%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7%23" target="weibo">
+胃病癌变前的6个求救信号（热度：59813）
 </a>
 </li>
 
@@ -423,26 +459,26 @@ sbti妈妈（热度：76021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%89%A7%E5%9C%BA%E7%89%88M30%23" target="weibo">
+柯南剧场版M30（热度：47560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%8D%8F%E8%80%85%23" target="weibo">
+拿捏者（热度：46932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%8C%E6%9C%9D%E9%B2%9C%E5%A4%96%E7%9B%B8%E5%B4%94%E5%96%84%E5%A7%AC%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23" target="weibo">
 王毅同朝鲜外相崔善姬举行会谈（热度：45522）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E7%99%8C%E5%8F%98%E5%89%8D%E7%9A%846%E4%B8%AA%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7%23" target="weibo">
-胃病癌变前的6个求救信号（热度：44015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E9%9D%A2%E9%83%A8%E7%94%9F%E7%90%86%E6%80%A7%E9%A2%A4%E6%8A%96%23" target="weibo">
-李昀锐面部生理性颤抖（热度：40549）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%A2%9D%E9%80%80%E7%98%AB%E7%97%AA%E5%A5%B3%E5%84%BF%E7%A5%A8%E9%92%B1%23" target="weibo">
-父亲回应平台全额退瘫痪女儿票钱（热度：37885）
+父亲回应平台全额退瘫痪女儿票钱（热度：38072）
 </a>
 </li>
 
@@ -467,12 +503,6 @@ sbti妈妈（热度：76021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%9C%8BBTS%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张元英看BTS演唱会（热度：34030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%8D%8F%E8%80%85%23" target="weibo">
-拿捏者（热度：31617）
 </a>
 </li>
 
@@ -526,7 +556,7 @@ sbti妈妈（热度：76021）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E7%9A%84%E5%85%B3%E9%94%AE%E4%BD%95%E5%9C%A8%23" target="weibo">
-春日经济活力的关键何在（热度：20535）
+春日经济活力的关键何在（热度：21100）
 </a>
 </li>
 
