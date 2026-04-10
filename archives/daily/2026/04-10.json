@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775820436484,
+  "endTime": 1775822140058,
   "band_list": [
     {
       "raw_hot": 2169731,
@@ -16,6 +16,14 @@
       "word": "马頔说李纯很假",
       "onboard_time": 1775790621,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1517860,
+      "num": 864587,
+      "word": "浪姐一公直播",
+      "onboard_time": 1775818281,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -67,14 +75,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 864587,
-      "num": 864587,
-      "word": "浪姐一公直播",
-      "onboard_time": 1775818281,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 851987,
       "num": 1136318,
       "word": "莫氏鸡煲公开秘方",
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 571031,
+      "num": 214493,
+      "word": "韩国卫生巾 免费",
+      "onboard_time": 1775820682,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 539948,
       "num": 412291,
       "word": "男子杀害4岁女儿后报溺水假警",
@@ -161,6 +169,14 @@
       "onboard_time": 1775802502,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 470681,
+      "num": 950971,
+      "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
+      "onboard_time": 1775818281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469765,
@@ -273,14 +289,6 @@
       "onboard_time": 1775747663,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 383815,
-      "num": 950971,
-      "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
-      "onboard_time": 1775818281,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375676,
@@ -499,12 +507,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 265180,
+      "num": 106298,
+      "word": "张晋蔡少芬6岁儿子近照",
+      "onboard_time": 1775818700,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262889,
       "num": 191713,
       "word": "王承渲多次在社交平台发文想离开",
       "onboard_time": 1775786001,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255466,
+      "num": 255466,
+      "word": "周也亮相穿普拉达的女王2首映",
+      "onboard_time": 1775819480,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 255116,
@@ -555,20 +579,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237982,
+      "num": 237982,
+      "word": "发现了辛苦了这句话的最佳回复",
+      "onboard_time": 1775816662,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233201,
       "num": 54121,
       "word": "孟子义在浪姐成形容词了",
       "onboard_time": 1775744723,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233184,
-      "num": 233184,
-      "word": "发现了辛苦了这句话的最佳回复",
-      "onboard_time": 1775816662,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 231362,
@@ -619,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219838,
+      "num": 791119,
+      "word": "男子微信群多次侮辱全红婵被拘",
+      "onboard_time": 1775822063,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 219775,
       "num": 219775,
       "word": "一蓄电池企业让员工体检前吃排铅药",
@@ -649,6 +681,14 @@
       "onboard_time": 1775800822,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204382,
+      "num": 204382,
+      "word": "穿普拉达的女王2中国首映礼",
+      "onboard_time": 1775818281,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 203905,
@@ -683,14 +723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 196377,
-      "num": 93746,
-      "word": "张晋蔡少芬6岁儿子近照",
-      "onboard_time": 1775818700,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195938,
       "num": 170131,
       "word": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
@@ -705,6 +737,14 @@
       "onboard_time": 1775747663,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192566,
+      "num": 192566,
+      "word": "957报名考编",
+      "onboard_time": 1775820922,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 189115,
@@ -753,6 +793,14 @@
       "onboard_time": 1775812821,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175281,
+      "num": 106169,
+      "word": "丁程鑫张真源因行程原因未能同游",
+      "onboard_time": 1775819602,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 171904,
@@ -824,6 +872,14 @@
       "word": "美以伊停火全是戏",
       "onboard_time": 1775777660,
       "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 143718,
+      "num": 273454,
+      "word": "以色列向美国施压",
+      "onboard_time": 1775816722,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -899,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129078,
+      "num": 103259,
+      "word": "杨洋为了升金V发博",
+      "onboard_time": 1775819602,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128296,
       "num": 115522,
       "word": "StrayKids全员身高超过170",
       "onboard_time": 1775786180,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127122,
+      "num": 127122,
+      "word": "金正恩会见王毅",
+      "onboard_time": 1775820801,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126876,
@@ -947,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 119880,
-      "num": 89354,
-      "word": "丁程鑫张真源因行程原因未能同游",
-      "onboard_time": 1775819602,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119420,
       "num": 119420,
       "word": "从王者到王者荣耀世界",
@@ -971,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118555,
+      "num": 169648,
+      "word": "浪姐",
+      "onboard_time": 1775791041,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117337,
       "num": 177423,
       "word": "刘琳琳回应长得像张凌赫",
@@ -979,28 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113112,
-      "num": 113112,
-      "word": "以色列向美国施压",
-      "onboard_time": 1775816722,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112858,
       "num": 112858,
       "word": "女子吐槽逛商场遇无隔断厕所",
       "onboard_time": 1775791342,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111411,
-      "num": 111411,
-      "word": "穿普拉达的女王2中国首映礼",
-      "onboard_time": 1775818281,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 111073,
@@ -1051,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107179,
+      "num": 107179,
+      "word": "小米食堂说冰淇淋机快冒烟了",
+      "onboard_time": 1775816061,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106684,
       "num": 106684,
       "word": "奔驰客服回应奔驰疑似被当陪葬品",
@@ -1067,12 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104188,
-      "num": 104188,
-      "word": "小米食堂说冰淇淋机快冒烟了",
-      "onboard_time": 1775816061,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 104765,
+      "num": 104765,
+      "word": "每天揉3分钟肝血充足眼睛明亮",
+      "onboard_time": 1775817502,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103211,
@@ -1155,22 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98484,
-      "num": 169648,
-      "word": "浪姐",
-      "onboard_time": 1775791041,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 97613,
-      "num": 97613,
-      "word": "周也亮相穿普拉达的女王2首映",
-      "onboard_time": 1775819480,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97420,
       "num": 97420,
       "word": "刘畊宏孩子都这么大了王俊凯还这么嫩",
@@ -1187,20 +1235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96942,
+      "num": 96942,
+      "word": "婴儿出生9斤一个月瘦到7斤",
+      "onboard_time": 1775821883,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96912,
       "num": 176374,
       "word": "肖战十日终焉台词",
       "onboard_time": 1775796146,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96705,
-      "num": 88215,
-      "word": "杨洋为了升金V发博",
-      "onboard_time": 1775819602,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 96251,
@@ -1233,14 +1281,6 @@
       "onboard_time": 1775801002,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94304,
-      "num": 94304,
-      "word": "每天揉3分钟肝血充足眼睛明亮",
-      "onboard_time": 1775817502,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 92995,
@@ -1276,7 +1316,7 @@
     },
     {
       "raw_hot": 91068,
-      "num": 79626,
+      "num": 89445,
       "word": "王安宇 高端的帅哥只需简单的黑T",
       "onboard_time": 1775817502,
       "rank": 28,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1775814983,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86549,
+      "num": 83780,
+      "word": "为什么穿睡衣那么显瘦",
+      "onboard_time": 1775821462,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 86146,
@@ -1459,6 +1507,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 80223,
+      "num": 80223,
+      "word": "陶喆将在巡演100场后收官",
+      "onboard_time": 1775820861,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79977,
       "num": 79977,
       "word": "被柳絮攻击",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1775780002,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79452,
+      "num": 79452,
+      "word": "53条中日航线3月取消全部航班",
+      "onboard_time": 1775819121,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79194,
@@ -1572,7 +1636,7 @@
     },
     {
       "raw_hot": 76593,
-      "num": 76593,
+      "num": 78186,
       "word": "中产家长开始抛弃国际学校了",
       "onboard_time": 1775815041,
       "rank": 43,
@@ -1779,20 +1843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70364,
-      "num": 70364,
-      "word": "53条中日航线3月取消全部航班",
-      "onboard_time": 1775819121,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69822,
       "num": 69822,
       "word": "将主板风险警示股票涨跌幅调整为10%",
       "onboard_time": 1775817021,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69591,
+      "num": 69591,
+      "word": "救助猫因主人猝逝躲床单",
+      "onboard_time": 1775819060,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 69534,
@@ -2155,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56447,
+      "num": 56447,
+      "word": "亚锦赛梁王不敌任何遭淘汰",
+      "onboard_time": 1775821822,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56263,
       "num": 56263,
       "word": "曝iPhone18Pro简化相机按键",
@@ -2208,6 +2280,22 @@
       "word": "360万人涌入峰学蔚来直播间",
       "onboard_time": 1775747242,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53942,
+      "num": 53942,
+      "word": "猪肉价格又跌了",
+      "onboard_time": 1775821762,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 53194,
+      "num": 53194,
+      "word": "莫氏鸡煲夫妻曾和鸡睡一起几个月",
+      "onboard_time": 1775821041,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
