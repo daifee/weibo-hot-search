@@ -1,7 +1,15 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775822826162,
+  "endTime": 1775827591800,
   "band_list": [
+    {
+      "raw_hot": 3512092,
+      "num": 3512092,
+      "word": "浪姐直播 对口型",
+      "onboard_time": 1775823022,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2487931,
       "num": 864587,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1143965,
+      "num": 1143965,
+      "word": "孙怡组真唱",
+      "onboard_time": 1775826562,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 950699,
       "num": 615621,
       "word": "海湾国家慌了",
@@ -123,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 671510,
+      "num": 181008,
+      "word": "一半一半",
+      "onboard_time": 1775825122,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580035,
       "num": 239088,
       "word": "边伯贤离开INB100",
@@ -145,6 +169,22 @@
       "onboard_time": 1775802621,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529090,
+      "num": 177997,
+      "word": "周杰伦方回应演唱会划水",
+      "onboard_time": 1775824162,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 526572,
+      "num": 526572,
+      "word": "冰湖重生官微删博",
+      "onboard_time": 1775822902,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 513837,
@@ -187,6 +227,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 487381,
+      "num": 154425,
+      "word": "浪姐 预录",
+      "onboard_time": 1775824882,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 485708,
+      "num": 152867,
+      "word": "城北的花 如听仙乐耳暂明",
+      "onboard_time": 1775827342,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469765,
       "num": 1075162,
       "word": "AI写作年赚200万夫妻被封号",
@@ -203,12 +259,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 449981,
+      "num": 136243,
+      "word": "丈夫杀4岁女儿妻子回应不离婚",
+      "onboard_time": 1775825122,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448493,
       "num": 448493,
       "word": "胡先煦官宣十日终焉",
       "onboard_time": 1775798244,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444396,
+      "num": 444396,
+      "word": "婴儿出生9斤一个月瘦到7斤",
+      "onboard_time": 1775821883,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444213,
@@ -345,6 +417,14 @@
       "onboard_time": 1775788039,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356024,
+      "num": 136156,
+      "word": "男子杀4岁女儿说白化病该安乐死",
+      "onboard_time": 1775824462,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355749,
@@ -547,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254967,
+      "num": 153860,
+      "word": "奔跑吧ins取关TWS",
+      "onboard_time": 1775823683,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250867,
       "num": 792263,
       "word": "十日终焉欢迎来到终焉之地",
@@ -593,6 +681,14 @@
       "onboard_time": 1775744123,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237357,
+      "num": 237357,
+      "word": "张雪拍卖1分钟结束",
+      "onboard_time": 1775825482,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233201,
@@ -803,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176501,
+      "num": 142847,
+      "word": "快乐家族在张杰演唱会团建",
+      "onboard_time": 1775827164,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175281,
       "num": 126639,
       "word": "丁程鑫张真源因行程原因未能同游",
@@ -817,14 +921,6 @@
       "onboard_time": 1775744664,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167477,
-      "num": 125887,
-      "word": "婴儿出生9斤一个月瘦到7斤",
-      "onboard_time": 1775821883,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165548,
@@ -864,6 +960,30 @@
       "word": "离异父母均拒接孩子司机当场怒斥",
       "onboard_time": 1775745443,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155201,
+      "num": 155201,
+      "word": "为什么穿睡衣那么显瘦",
+      "onboard_time": 1775821462,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155025,
+      "num": 139311,
+      "word": "填埋奔驰车祭祀当事人致歉",
+      "onboard_time": 1775825962,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "母亲隐忍不离婚4岁女儿终遭毒手",
+      "onboard_time": 1775827463,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134426,
+      "num": 134426,
+      "word": "这些品牌竟然都是假洋牌",
+      "onboard_time": 1775826322,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131312,
       "num": 176313,
       "word": "民政局回应用真奔驰车陪葬",
@@ -977,6 +1105,14 @@
       "onboard_time": 1775779521,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129879,
+      "num": 122135,
+      "word": "张雪冠军复刻赛车和奖杯45秒拍出",
+      "onboard_time": 1775826263,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 129078,
@@ -996,7 +1132,7 @@
     },
     {
       "raw_hot": 127692,
-      "num": 127692,
+      "num": 152999,
       "word": "金正恩会见王毅",
       "onboard_time": 1775820801,
       "rank": 16,
@@ -1033,6 +1169,14 @@
       "onboard_time": 1775776758,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122782,
+      "num": 122782,
+      "word": "赵丽颖工作室疑似表达对捆绑的不满",
+      "onboard_time": 1775827523,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 122476,
@@ -1075,20 +1219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "穆祉丞去看张杰演唱会了",
+      "onboard_time": 1775822363,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 116338,
+      "num": 153533,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1775826562,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112858,
       "num": 112858,
       "word": "女子吐槽逛商场遇无隔断厕所",
       "onboard_time": 1775791342,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111109,
-      "num": 111109,
-      "word": "穆祉丞去看张杰演唱会了",
-      "onboard_time": 1775822363,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 111073,
@@ -1105,14 +1257,6 @@
       "onboard_time": 1775787680,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110721,
-      "num": 122351,
-      "word": "为什么穿睡衣那么显瘦",
-      "onboard_time": 1775821462,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 110296,
@@ -1185,6 +1329,14 @@
       "onboard_time": 1775788460,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103176,
+      "num": 103176,
+      "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
+      "onboard_time": 1775824702,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102652,
@@ -1411,6 +1563,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86652,
+      "num": 86652,
+      "word": "乒乓外交",
+      "onboard_time": 1775827043,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86556,
       "num": 86556,
       "word": "莫氏鸡煲终于放假了",
@@ -1483,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83961,
+      "num": 83961,
+      "word": "95后女生回村养6万条蛇年入百万",
+      "onboard_time": 1775824642,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83953,
       "num": 89054,
       "word": "央视曝光越南相亲真相",
@@ -1539,6 +1707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 80190,
+      "num": 80141,
+      "word": "安妮海瑟薇裙子出自中国设计师之手",
+      "onboard_time": 1775825122,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79977,
       "num": 79977,
       "word": "被柳絮攻击",
@@ -1593,6 +1769,14 @@
       "onboard_time": 1775801302,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77584,
+      "num": 148738,
+      "word": "一秒看透极氪安全黑科技",
+      "onboard_time": 1775826263,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 77542,
@@ -1883,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70130,
+      "num": 134870,
+      "word": "新易盛1年涨超830%",
+      "onboard_time": 1775826382,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69822,
       "num": 69822,
       "word": "将主板风险警示股票涨跌幅调整为10%",
@@ -1931,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68121,
+      "num": 80033,
+      "word": "不然辟谣回归",
+      "onboard_time": 1775826923,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67912,
       "num": 96745,
       "word": "黎巴嫩首都遭以军密集空袭",
@@ -1961,6 +2161,14 @@
       "onboard_time": 1775815821,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67106,
+      "num": 80088,
+      "word": "疑似涉伊朗战事内幕交易被曝",
+      "onboard_time": 1775827463,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66398,
@@ -2713,6 +2921,22 @@
       "onboard_time": 1775815402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9789,
+      "num": 154651,
+      "word": "中国将探测月面永久阴影坑",
+      "onboard_time": 1775827164,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5414,
+      "num": 1164167,
+      "word": "新设一批适应新技术新业态学科专业",
+      "onboard_time": 1775827463,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2724,6 +2948,9 @@
     },
     {
       "word": "#习近平在京会见郑丽文#"
+    },
+    {
+      "word": "#两岸同胞走到一起的大潮流不会变#"
     }
   ]
 }

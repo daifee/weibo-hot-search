@@ -1,0 +1,410 @@
+{
+  "runTime": 1775827591800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3512092,
+        "num": 3512092,
+        "word": "浪姐直播 对口型",
+        "onboard_time": 1775823022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1229880,
+        "num": 1229880,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 1,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 5414,
+        "num": 1164167,
+        "word": "新设一批适应新技术新业态学科专业",
+        "onboard_time": 1775827463,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1143965,
+        "num": 1143965,
+        "word": "孙怡组真唱",
+        "onboard_time": 1775826562,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526572,
+        "num": 526572,
+        "word": "冰湖重生官微删博",
+        "onboard_time": 1775822902,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444396,
+        "num": 444396,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237357,
+        "num": 237357,
+        "word": "张雪拍卖1分钟结束",
+        "onboard_time": 1775825482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193472,
+        "num": 193472,
+        "word": "莫氏鸡煲公开秘方",
+        "onboard_time": 1775816121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671510,
+        "num": 181008,
+        "word": "一半一半",
+        "onboard_time": 1775825122,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529090,
+        "num": 177997,
+        "word": "周杰伦方回应演唱会划水",
+        "onboard_time": 1775824162,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155201,
+        "num": 155201,
+        "word": "为什么穿睡衣那么显瘦",
+        "onboard_time": 1775821462,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1364573,
+        "num": 155114,
+        "word": "浪姐一公直播",
+        "onboard_time": 1775818281,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9789,
+        "num": 154651,
+        "word": "中国将探测月面永久阴影坑",
+        "onboard_time": 1775827164,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487381,
+        "num": 154425,
+        "word": "浪姐 预录",
+        "onboard_time": 1775824882,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254967,
+        "num": 153860,
+        "word": "奔跑吧ins取关TWS",
+        "onboard_time": 1775823683,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116338,
+        "num": 153533,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1775826562,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101661,
+        "num": 152999,
+        "word": "金正恩会见王毅",
+        "onboard_time": 1775820801,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152994,
+        "num": 152994,
+        "word": "母亲隐忍不离婚4岁女儿终遭毒手",
+        "onboard_time": 1775827463,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485708,
+        "num": 152867,
+        "word": "城北的花 如听仙乐耳暂明",
+        "onboard_time": 1775827342,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77584,
+        "num": 148738,
+        "word": "一秒看透极氪安全黑科技",
+        "onboard_time": 1775826263,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197016,
+        "num": 144717,
+        "word": "赵丽颖工作室发楚乔传采访",
+        "onboard_time": 1775814320,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176501,
+        "num": 142847,
+        "word": "快乐家族在张杰演唱会团建",
+        "onboard_time": 1775827164,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155025,
+        "num": 139311,
+        "word": "填埋奔驰车祭祀当事人致歉",
+        "onboard_time": 1775825962,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "发现了辛苦了这句话的最佳回复",
+        "onboard_time": 1775816662,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449981,
+        "num": 136243,
+        "word": "丈夫杀4岁女儿妻子回应不离婚",
+        "onboard_time": 1775825122,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356024,
+        "num": 136156,
+        "word": "男子杀4岁女儿说白化病该安乐死",
+        "onboard_time": 1775824462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70130,
+        "num": 134870,
+        "word": "新易盛1年涨超830%",
+        "onboard_time": 1775826382,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134426,
+        "num": 134426,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122782,
+        "num": 122782,
+        "word": "赵丽颖工作室疑似表达对捆绑的不满",
+        "onboard_time": 1775827523,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129879,
+        "num": 122135,
+        "word": "张雪冠军复刻赛车和奖杯45秒拍出",
+        "onboard_time": 1775826263,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117047,
+        "num": 117047,
+        "word": "穆祉丞去看张杰演唱会了",
+        "onboard_time": 1775822363,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103176,
+        "num": 103176,
+        "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
+        "onboard_time": 1775824702,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101965,
+        "num": 101965,
+        "word": "957报名考编",
+        "onboard_time": 1775820922,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99285,
+        "num": 99285,
+        "word": "十日终焉开机",
+        "onboard_time": 1775796386,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96919,
+        "num": 96919,
+        "word": "中方回应日本降级中日关系",
+        "onboard_time": 1775809823,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89928,
+        "num": 89928,
+        "word": "冰湖重生",
+        "onboard_time": 1775822180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88615,
+        "num": 88615,
+        "word": "原来王楚然早期长这样啊",
+        "onboard_time": 1775813361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86652,
+        "num": 86652,
+        "word": "乒乓外交",
+        "onboard_time": 1775827043,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14833,
+        "num": 86635,
+        "word": "高质量发展中国行",
+        "onboard_time": 1775806220,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86634,
+        "num": 86634,
+        "word": "周也亮相穿普拉达的女王2首映",
+        "onboard_time": 1775819480,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83961,
+        "num": 83961,
+        "word": "95后女生回村养6万条蛇年入百万",
+        "onboard_time": 1775824642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83101,
+        "num": 83101,
+        "word": "李晟十日终焉选角好贴脸",
+        "onboard_time": 1775804420,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82771,
+        "num": 82771,
+        "word": "杨洋为了升金V发博",
+        "onboard_time": 1775819602,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80169,
+        "num": 80169,
+        "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
+        "onboard_time": 1775818281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80190,
+        "num": 80141,
+        "word": "安妮海瑟薇裙子出自中国设计师之手",
+        "onboard_time": 1775825122,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70843,
+        "num": 80124,
+        "word": "雷军回应小米冰淇淋",
+        "onboard_time": 1775810181,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67106,
+        "num": 80088,
+        "word": "疑似涉伊朗战事内幕交易被曝",
+        "onboard_time": 1775827463,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77227,
+        "num": 80057,
+        "word": "刘诗诗送朴宝剑宝瓶花",
+        "onboard_time": 1775814621,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68121,
+        "num": 80033,
+        "word": "不然辟谣回归",
+        "onboard_time": 1775826923,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65889,
+        "num": 79999,
+        "word": "丁程鑫张真源因行程原因未能同游",
+        "onboard_time": 1775819602,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸同胞走到一起的大潮流不会变#"
+    }
+  }
+}
