@@ -1,0 +1,410 @@
+{
+  "runTime": 1775864676508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329151,
+        "num": 916014,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 0,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 234807,
+        "num": 645750,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32601,
+        "num": 516945,
+        "word": "我国海水直接制氢取得研究新突破",
+        "onboard_time": 1775827762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926421,
+        "num": 365924,
+        "word": "李小冉拉王濛起来被甩开",
+        "onboard_time": 1775835864,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177054,
+        "num": 177054,
+        "word": "各方同意以伊方十点方案为谈判基础",
+        "onboard_time": 1775840958,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354687,
+        "num": 172485,
+        "word": "芒果居然想让孙怡宣布赵子琪淘汰",
+        "onboard_time": 1775863220,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156628,
+        "num": 156628,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132699,
+        "num": 132699,
+        "word": "中国科学家揭示左撇子真相",
+        "onboard_time": 1775831305,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116809,
+        "num": 116809,
+        "word": "浪姐排名",
+        "onboard_time": 1775831124,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86042,
+        "num": 86042,
+        "word": "饭圈乱象成影响体育事业的重大风险",
+        "onboard_time": 1775856734,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473739,
+        "num": 85302,
+        "word": "网友提醒刘芸注意儿子内八问题",
+        "onboard_time": 1775863097,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337392,
+        "num": 84464,
+        "word": "夸克 海外剧",
+        "onboard_time": 1775834723,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141144,
+        "num": 82517,
+        "word": "男子杀害女儿5个月前买了意外险",
+        "onboard_time": 1775833405,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329868,
+        "num": 80714,
+        "word": "温峥嵘",
+        "onboard_time": 1775832264,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181793,
+        "num": 79803,
+        "word": "周杰伦方回应演唱会划水",
+        "onboard_time": 1775824162,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110788,
+        "num": 77126,
+        "word": "以军当学生面打死加沙小女孩",
+        "onboard_time": 1775833225,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258086,
+        "num": 76230,
+        "word": "孙怡爆哭",
+        "onboard_time": 1775832324,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163179,
+        "num": 74149,
+        "word": "网红一栗小莎子因癌症剃光头",
+        "onboard_time": 1775830044,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73681,
+        "num": 73681,
+        "word": "被害女医学生母亲频繁吐血",
+        "onboard_time": 1775838023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151529,
+        "num": 73363,
+        "word": "肖战说的话只能信一半",
+        "onboard_time": 1775862017,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149508,
+        "num": 72936,
+        "word": "张慧雯情商",
+        "onboard_time": 1775864599,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 72753,
+        "word": "这个酷似感冒的病进入高发季",
+        "onboard_time": 1775861896,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134796,
+        "num": 72156,
+        "word": "秦昊和伊能静首次见面时非单身",
+        "onboard_time": 1775863999,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119757,
+        "num": 71853,
+        "word": "江苏一女子逛商场上厕所零隔断",
+        "onboard_time": 1775863577,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97095,
+        "num": 71502,
+        "word": "肖战再见蓝盈莹已是一番大男主",
+        "onboard_time": 1775864058,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71118,
+        "num": 71118,
+        "word": "美伊今天在巴基斯坦谈判",
+        "onboard_time": 1775862738,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69880,
+        "num": 69880,
+        "word": "交警回应私家车遭运钞车别车",
+        "onboard_time": 1775831904,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65595,
+        "num": 65595,
+        "word": "美国海滩连环命案华人男尸身着女装",
+        "onboard_time": 1775836043,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63143,
+        "num": 63143,
+        "word": "赵丽颖工作室疑似表达对捆绑的不满",
+        "onboard_time": 1775827523,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61602,
+        "num": 61602,
+        "word": "魏大勋胡先煦十日终焉开机照",
+        "onboard_time": 1775834004,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70977,
+        "num": 59762,
+        "word": "以军在教室开枪打死9岁加沙女孩",
+        "onboard_time": 1775863278,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55539,
+        "num": 55539,
+        "word": "张雪机车拍卖98次出价记录",
+        "onboard_time": 1775836642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51441,
+        "num": 51441,
+        "word": "黄瓜拌菠萝火了",
+        "onboard_time": 1775827823,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50242,
+        "num": 50242,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1775829563,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49498,
+        "num": 49498,
+        "word": "张凌赫新剧这一秒过火路透",
+        "onboard_time": 1775828365,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98024,
+        "num": 49481,
+        "word": "赵子琪淘汰",
+        "onboard_time": 1775831066,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49457,
+        "num": 49457,
+        "word": "伊朗谈判代表团心怀善意但不信美国",
+        "onboard_time": 1775864538,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48643,
+        "num": 48643,
+        "word": "张雪请李亚鹏监督捐款用在孩子身上",
+        "onboard_time": 1775840059,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47687,
+        "num": 47687,
+        "word": "美伊和黎以两场谈判将走向何方",
+        "onboard_time": 1775863999,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46674,
+        "num": 46674,
+        "word": "阚清子团选择曾沛慈团",
+        "onboard_time": 1775846116,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46642,
+        "num": 46642,
+        "word": "月鳞绮纪",
+        "onboard_time": 1775863638,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46614,
+        "num": 46614,
+        "word": "伊斯兰堡已进入红色警戒",
+        "onboard_time": 1775833943,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44570,
+        "num": 44570,
+        "word": "警方通报父母离婚不接年幼乘客",
+        "onboard_time": 1775829806,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43371,
+        "num": 43371,
+        "word": "冰湖重生官微删博",
+        "onboard_time": 1775822902,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41251,
+        "num": 41251,
+        "word": "刘浩存中国电影盛典舞蹈",
+        "onboard_time": 1775832984,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41058,
+        "num": 41058,
+        "word": "黎以同意在美讨论停火",
+        "onboard_time": 1775864358,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39260,
+        "num": 41054,
+        "word": "钢铁森林",
+        "onboard_time": 1775864178,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36898,
+        "num": 41043,
+        "word": "十日终焉导演许宏宇编剧蒋峰",
+        "onboard_time": 1775864599,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36751,
+        "num": 41037,
+        "word": "伦敦世乒赛种子位参赛名单",
+        "onboard_time": 1775833104,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25067,
+        "num": 41028,
+        "word": "华为Pura90系列配色",
+        "onboard_time": 1775830103,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记说到了这些共同#"
+    }
+  }
+}

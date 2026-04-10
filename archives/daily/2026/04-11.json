@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775862289600,
+  "endTime": 1775864676508,
   "band_list": [
     {
       "raw_hot": 1389964,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 604395,
-      "num": 800418,
+      "num": 916014,
       "word": "男子微信群多次侮辱全红婵被拘",
       "onboard_time": 1775822243,
       "rank": 1,
@@ -75,12 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473739,
+      "num": 85302,
+      "word": "网友提醒刘芸注意儿子内八问题",
+      "onboard_time": 1775863097,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460540,
       "num": 179916,
       "word": "网红一栗小莎子因癌症剃光头",
       "onboard_time": 1775830044,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 354687,
+      "num": 172485,
+      "word": "芒果居然想让孙怡宣布赵子琪淘汰",
+      "onboard_time": 1775863220,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 309160,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 263880,
-      "num": 464411,
+      "num": 645750,
       "word": "这些品牌竟然都是假洋牌",
       "onboard_time": 1775826322,
       "rank": 4,
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181793,
+      "num": 179790,
+      "word": "周杰伦方回应演唱会划水",
+      "onboard_time": 1775824162,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180091,
       "num": 180091,
       "word": "中国科学家揭示左撇子真相",
@@ -131,12 +155,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 179790,
-      "num": 179790,
-      "word": "周杰伦方回应演唱会划水",
-      "onboard_time": 1775824162,
-      "rank": 20,
-      "category": "演出"
+      "raw_hot": 177054,
+      "num": 177054,
+      "word": "各方同意以伊方十点方案为谈判基础",
+      "onboard_time": 1775840958,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173407,
@@ -147,12 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168866,
-      "num": 168866,
-      "word": "各方同意以伊方十点方案为谈判基础",
-      "onboard_time": 1775840958,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 151529,
+      "num": 73959,
+      "word": "肖战说的话只能信一半",
+      "onboard_time": 1775862017,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149508,
+      "num": 72936,
+      "word": "张慧雯情商",
+      "onboard_time": 1775864599,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 144756,
@@ -179,12 +211,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141144,
+      "num": 93883,
+      "word": "男子杀害女儿5个月前买了意外险",
+      "onboard_time": 1775833405,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136850,
       "num": 179966,
       "word": "伦敦世乒赛种子位参赛名单",
       "onboard_time": 1775833104,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134796,
+      "num": 72156,
+      "word": "秦昊和伊能静首次见面时非单身",
+      "onboard_time": 1775863999,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133968,
+      "num": 72753,
+      "word": "这个酷似感冒的病进入高发季",
+      "onboard_time": 1775861896,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133953,
@@ -217,6 +273,14 @@
       "onboard_time": 1775832804,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119757,
+      "num": 71853,
+      "word": "江苏一女子逛商场上厕所零隔断",
+      "onboard_time": 1775863577,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118915,
@@ -259,28 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107162,
-      "num": 93883,
-      "word": "男子杀害女儿5个月前买了意外险",
-      "onboard_time": 1775833405,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101393,
-      "num": 73959,
-      "word": "肖战说的话只能信一半",
-      "onboard_time": 1775862017,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99623,
       "num": 169458,
       "word": "交警回应私家车遭运钞车别车",
       "onboard_time": 1775831904,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97095,
+      "num": 71502,
+      "word": "肖战再见蓝盈莹已是一番大男主",
+      "onboard_time": 1775864058,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95997,
@@ -305,6 +361,14 @@
       "onboard_time": 1775821462,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86042,
+      "num": 86042,
+      "word": "饭圈乱象成影响体育事业的重大风险",
+      "onboard_time": 1775856734,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 85202,
@@ -347,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71118,
+      "num": 71118,
+      "word": "美伊今天在巴基斯坦谈判",
+      "onboard_time": 1775862738,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 70977,
+      "num": 59762,
+      "word": "以军在教室开枪打死9岁加沙女孩",
+      "onboard_time": 1775863278,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68864,
       "num": 106880,
       "word": "95后女生回村养6万条蛇年入百万",
@@ -379,20 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67342,
-      "num": 75972,
-      "word": "饭圈乱象成影响体育事业的重大风险",
-      "onboard_time": 1775856734,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66461,
       "num": 66461,
       "word": "阚清子团选择曾沛慈团",
       "onboard_time": 1775846116,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65595,
+      "num": 105827,
+      "word": "美国海滩连环命案华人男尸身着女装",
+      "onboard_time": 1775836043,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62761,
@@ -427,20 +507,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47012,
-      "num": 105827,
-      "word": "美国海滩连环命案华人男尸身着女装",
-      "onboard_time": 1775836043,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 50242,
+      "num": 83511,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1775829563,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 46508,
-      "num": 36567,
-      "word": "这个酷似感冒的病进入高发季",
-      "onboard_time": 1775861896,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 49457,
+      "num": 49457,
+      "word": "伊朗谈判代表团心怀善意但不信美国",
+      "onboard_time": 1775864538,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48643,
+      "num": 84495,
+      "word": "张雪请李亚鹏监督捐款用在孩子身上",
+      "onboard_time": 1775840059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47687,
+      "num": 47687,
+      "word": "美伊和黎以两场谈判将走向何方",
+      "onboard_time": 1775863999,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46642,
+      "num": 46642,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775863638,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 46478,
@@ -451,20 +555,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43359,
-      "num": 84495,
-      "word": "张雪请李亚鹏监督捐款用在孩子身上",
-      "onboard_time": 1775840059,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41621,
       "num": 103958,
       "word": "Tarzan被Junjia刷绝食",
       "onboard_time": 1775833943,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41058,
+      "num": 41058,
+      "word": "黎以同意在美讨论停火",
+      "onboard_time": 1775864358,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39260,
+      "num": 41054,
+      "word": "钢铁森林",
+      "onboard_time": 1775864178,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36898,
+      "num": 41043,
+      "word": "十日终焉导演许宏宇编剧蒋峰",
+      "onboard_time": 1775864599,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 36620,
@@ -521,14 +641,6 @@
       "onboard_time": 1775830103,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 29828,
-      "num": 83511,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1775829563,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 29494,
