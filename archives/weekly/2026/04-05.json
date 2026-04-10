@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775791411700,
+  "endTime": 1775792892781,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -169,6 +169,14 @@
       "onboard_time": 1775566403,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1549641,
+      "num": 587597,
+      "word": "马頔说李纯很假",
+      "onboard_time": 1775790621,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1492285,
@@ -995,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587597,
-      "num": 587597,
-      "word": "马頔说李纯很假",
-      "onboard_time": 1775790621,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 587463,
       "num": 211363,
       "word": "陈添祥长文道歉",
@@ -1491,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469765,
+      "num": 1075162,
+      "word": "AI写作年赚200万夫妻被封号",
+      "onboard_time": 1775786661,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469038,
       "num": 469038,
       "word": "安妮海瑟薇在韩国收到绣花高跟鞋",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1775647582,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 466418,
-      "num": 1074626,
-      "word": "AI写作年赚200万夫妻被封号",
-      "onboard_time": 1775786661,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463623,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 368174,
-      "num": 119201,
+      "num": 163426,
       "word": "疑似李楷灿恋爱",
       "onboard_time": 1775788880,
       "rank": 21,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1775613920,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353256,
+      "num": 185267,
+      "word": "黄子韬最新回应嘴唇发紫",
+      "onboard_time": 1775792306,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 351606,
@@ -3099,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277840,
+      "num": 277840,
+      "word": "院长猥亵女员工后称分寸感没把握好",
+      "onboard_time": 1775790381,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277347,
       "num": 785499,
       "word": "中国军队有足够的能力反制威胁挑衅",
@@ -3444,7 +3460,7 @@
     },
     {
       "raw_hot": 255116,
-      "num": 117779,
+      "num": 162974,
       "word": "郑钧送15岁儿子出国上学",
       "onboard_time": 1775784141,
       "rank": 22,
@@ -3513,6 +3529,14 @@
       "onboard_time": 1775641101,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250867,
+      "num": 792263,
+      "word": "十日终焉欢迎来到终焉之地",
+      "onboard_time": 1775792425,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 250651,
@@ -3603,6 +3627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 244934,
+      "num": 244934,
+      "word": "大疆pocket4新品盲拍",
+      "onboard_time": 1775790743,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244778,
       "num": 192780,
       "word": "特朗普称能轻易恢复对伊朗动武",
@@ -3689,14 +3721,6 @@
       "onboard_time": 1775383281,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236797,
-      "num": 236797,
-      "word": "院长猥亵女员工后称分寸感没把握好",
-      "onboard_time": 1775790381,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236565,
@@ -3985,6 +4009,14 @@
       "onboard_time": 1775782642,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221116,
+      "num": 221116,
+      "word": "不要可怜任何一只被栓起来的猫",
+      "onboard_time": 1775786600,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 220919,
@@ -4891,6 +4923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183639,
+      "num": 183639,
+      "word": "黄景瑜工作室 只是朋友间正常聚会",
+      "onboard_time": 1775792425,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183497,
       "num": 157112,
       "word": "五次退网的辛巴再收徒",
@@ -4988,7 +5028,7 @@
     },
     {
       "raw_hot": 179488,
-      "num": 179488,
+      "num": 184757,
       "word": "普京宣布停火32小时",
       "onboard_time": 1775780541,
       "rank": 14,
@@ -5401,14 +5441,6 @@
       "onboard_time": 1775631981,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163509,
-      "num": 163509,
-      "word": "不要可怜任何一只被栓起来的猫",
-      "onboard_time": 1775786600,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 163454,
@@ -6915,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125204,
+      "num": 112725,
+      "word": "用人民币感受日本物价",
+      "onboard_time": 1775792002,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125115,
       "num": 125115,
       "word": "浪姐小考 抗抑郁视频",
@@ -7243,6 +7283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119154,
+      "num": 112338,
+      "word": "当你不小心坐了商场按摩椅",
+      "onboard_time": 1775791222,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119007,
       "num": 119007,
       "word": "徒弟说贺娇龙去世时才40公斤",
@@ -7483,14 +7531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114378,
-      "num": 114378,
-      "word": "大疆pocket4新品盲拍",
-      "onboard_time": 1775790743,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 114303,
       "num": 114303,
       "word": "晴天曝Kanavi耍大牌",
@@ -7505,6 +7545,14 @@
       "onboard_time": 1775552720,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112858,
+      "num": 112858,
+      "word": "女子吐槽逛商场遇无隔断厕所",
+      "onboard_time": 1775791342,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112806,
@@ -7801,6 +7849,14 @@
       "onboard_time": 1775754915,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108348,
+      "num": 108348,
+      "word": "秦彻肆雨照夜",
+      "onboard_time": 1775792484,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 107920,
@@ -8260,7 +8316,7 @@
     },
     {
       "raw_hot": 102652,
-      "num": 116751,
+      "num": 183783,
       "word": "把山搬进厂里是疯了还是清醒",
       "onboard_time": 1775790743,
       "rank": 23,
@@ -8288,6 +8344,14 @@
       "word": "SBTI回应MBTI",
       "onboard_time": 1775779160,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 102462,
+      "num": 92364,
+      "word": "SBTI酒鬼",
+      "onboard_time": 1775791401,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -9163,6 +9227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93506,
+      "num": 89285,
+      "word": "刘琳琳回应长得像张凌赫",
+      "onboard_time": 1775792664,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93444,
       "num": 93444,
       "word": "以色列公布巴勒斯坦人质处境视频",
@@ -9233,6 +9305,14 @@
       "onboard_time": 1775747842,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92995,
+      "num": 92995,
+      "word": "手指出现这个症状警惕心肺疾病",
+      "onboard_time": 1775792063,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92697,
@@ -9673,14 +9753,6 @@
       "onboard_time": 1775394024,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 88591,
-      "num": 88591,
-      "word": "女子吐槽逛商场遇无隔断厕所",
-      "onboard_time": 1775791342,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88552,
@@ -10707,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79737,
+      "num": 79737,
+      "word": "孙颖莎满满一裤兜",
+      "onboard_time": 1775791581,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79721,
       "num": 79721,
       "word": "王楚钦将质疑碎片拼成王冠",
@@ -10729,6 +10809,14 @@
       "onboard_time": 1775633962,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79461,
+      "num": 79461,
+      "word": "日本自卫队420人登上菲律宾",
+      "onboard_time": 1775780002,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79352,
@@ -10971,14 +11059,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 77695,
-      "num": 77695,
-      "word": "当你不小心坐了商场按摩椅",
-      "onboard_time": 1775791222,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77675,
       "num": 77675,
       "word": "猫咪占了一半称",
@@ -11091,6 +11171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76913,
+      "num": 76913,
+      "word": "黎真主党贴脸开打以军地面部队",
+      "onboard_time": 1775792184,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76876,
       "num": 76876,
       "word": "莫氏鸡煲连夜安排200只活鸡补货",
@@ -11121,6 +11209,14 @@
       "onboard_time": 1775562200,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76669,
+      "num": 76669,
+      "word": "人工智能纳入教资考试内容",
+      "onboard_time": 1775789540,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 76632,
@@ -11177,6 +11273,14 @@
       "onboard_time": 1775463561,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76455,
+      "num": 76455,
+      "word": "巴萨正式向欧足联申诉",
+      "onboard_time": 1775792002,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 76354,
@@ -11251,6 +11355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75957,
+      "num": 83965,
+      "word": "夫妻7万买男婴为上户伪造弃婴",
+      "onboard_time": 1775792306,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75761,
       "num": 75761,
       "word": "黄金这波能涨多久",
@@ -11265,14 +11377,6 @@
       "onboard_time": 1775522061,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75571,
-      "num": 75571,
-      "word": "日本自卫队420人登上菲律宾",
-      "onboard_time": 1775780002,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75468,
@@ -11505,6 +11609,14 @@
       "onboard_time": 1775576722,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 73477,
+      "num": 73477,
+      "word": "已经到了高血糖的年龄了",
+      "onboard_time": 1775792845,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 73360,
@@ -12129,6 +12241,14 @@
       "onboard_time": 1775775918,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67893,
+      "num": 87372,
+      "word": "工地大叔中629万兑奖时全程淡定",
+      "onboard_time": 1775792243,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67831,
@@ -14556,7 +14676,7 @@
     },
     {
       "raw_hot": 21029,
-      "num": 612588,
+      "num": 633942,
       "word": "赏花经济开出四季春",
       "onboard_time": 1775790321,
       "rank": 2,
@@ -14913,6 +15033,14 @@
       "onboard_time": 1775757196,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11384,
+      "num": 164350,
+      "word": "消费者网购维权可以起诉谁",
+      "onboard_time": 1775792484,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10458,
