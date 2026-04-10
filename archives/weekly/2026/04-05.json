@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775827591800,
+  "endTime": 1775829382994,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -419,6 +419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1073556,
+      "num": 703218,
+      "word": "谢娜裙摆被踩掉了",
+      "onboard_time": 1775828303,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1065912,
       "num": 229087,
       "word": "思文当妈",
@@ -721,6 +729,14 @@
       "onboard_time": 1775788160,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 794626,
+      "num": 257582,
+      "word": "城北的花 如听仙乐耳暂明",
+      "onboard_time": 1775827342,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 793508,
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 529090,
-      "num": 177997,
+      "num": 257020,
       "word": "周杰伦方回应演唱会划水",
       "onboard_time": 1775824162,
       "rank": 9,
@@ -1507,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 500871,
+      "num": 256710,
+      "word": "曾沛慈团904票",
+      "onboard_time": 1775825001,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499987,
       "num": 205456,
       "word": "江语晨 抚养权官司",
@@ -1555,6 +1579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 490247,
+      "num": 998934,
+      "word": "婴儿出生9斤一个月瘦到7斤",
+      "onboard_time": 1775821883,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 487603,
       "num": 487603,
       "word": "陈都灵曾舜晞 戏份",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1775444421,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 485708,
-      "num": 152867,
-      "word": "城北的花 如听仙乐耳暂明",
-      "onboard_time": 1775827342,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 484275,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1775798244,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 444396,
-      "num": 444396,
-      "word": "婴儿出生9斤一个月瘦到7斤",
-      "onboard_time": 1775821883,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 444264,
@@ -2224,6 +2240,14 @@
       "word": "情侣因换座与女乘客发生争执",
       "onboard_time": 1775538922,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394777,
+      "num": 394777,
+      "word": "张雪拍卖1分钟结束",
+      "onboard_time": 1775825482,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3003,6 +3027,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 313623,
+      "num": 257426,
+      "word": "母亲隐忍不离婚4岁女儿终遭毒手",
+      "onboard_time": 1775827463,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313324,
       "num": 145234,
       "word": "文淇第一次做妇科检查的不适感受",
@@ -3208,6 +3240,14 @@
       "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
       "onboard_time": 1775464700,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296602,
+      "num": 296602,
+      "word": "这些品牌竟然都是假洋牌",
+      "onboard_time": 1775826322,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3795,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257766,
+      "num": 257766,
+      "word": "疑似涉伊朗战事内幕交易被曝",
+      "onboard_time": 1775827463,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257616,
       "num": 1041218,
       "word": "B站将上线播放页暂停广告",
@@ -3817,6 +3865,14 @@
       "onboard_time": 1775487322,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256703,
+      "num": 256703,
+      "word": "赵丽颖工作室疑似表达对捆绑的不满",
+      "onboard_time": 1775827523,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 256063,
@@ -3852,7 +3908,7 @@
     },
     {
       "raw_hot": 254967,
-      "num": 153860,
+      "num": 245536,
       "word": "奔跑吧ins取关TWS",
       "onboard_time": 1775823683,
       "rank": 14,
@@ -4091,6 +4147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240063,
+      "num": 240063,
+      "word": "快乐家族在张杰演唱会团建",
+      "onboard_time": 1775827164,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239977,
       "num": 160230,
       "word": "李清明  清明节myday",
@@ -4129,14 +4193,6 @@
       "onboard_time": 1775383281,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237357,
-      "num": 237357,
-      "word": "张雪拍卖1分钟结束",
-      "onboard_time": 1775825482,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236565,
@@ -4419,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221386,
+      "num": 221386,
+      "word": "白鹿晒晚餐",
+      "onboard_time": 1775828123,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221190,
       "num": 221190,
       "word": "小女孩被离异父母双双拒收后续",
@@ -4488,6 +4552,14 @@
       "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
       "onboard_time": 1775312125,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218554,
+      "num": 139311,
+      "word": "填埋奔驰车祭祀当事人致歉",
+      "onboard_time": 1775825962,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -4601,6 +4673,14 @@
       "onboard_time": 1775785580,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214737,
+      "num": 214737,
+      "word": "黄瓜拌菠萝火了",
+      "onboard_time": 1775827823,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 214599,
@@ -5307,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187238,
+      "num": 97904,
+      "word": "张月充满野心的一个ending",
+      "onboard_time": 1775829324,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187110,
       "num": 171472,
       "word": "孙怡高情商",
@@ -5601,14 +5689,6 @@
       "onboard_time": 1775739203,
       "rank": 8,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 176501,
-      "num": 142847,
-      "word": "快乐家族在张杰演唱会团建",
-      "onboard_time": 1775827164,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 175877,
@@ -6251,14 +6331,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 155025,
-      "num": 139311,
-      "word": "填埋奔驰车祭祀当事人致歉",
-      "onboard_time": 1775825962,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154707,
       "num": 154707,
       "word": "穆祉丞 代言",
@@ -6321,14 +6393,6 @@
       "onboard_time": 1775591894,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 152994,
-      "num": 152994,
-      "word": "母亲隐忍不离婚4岁女儿终遭毒手",
-      "onboard_time": 1775827463,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152889,
@@ -7107,14 +7171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134426,
-      "num": 134426,
-      "word": "这些品牌竟然都是假洋牌",
-      "onboard_time": 1775826322,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134354,
       "num": 118771,
       "word": "美宇航员太空中意外半裸出镜",
@@ -7619,6 +7675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 124584,
+      "num": 245634,
+      "word": "JDG对战AL",
+      "onboard_time": 1775827582,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124278,
       "num": 98483,
       "word": "周杰伦演唱会大屏上的昆凌",
@@ -7729,14 +7793,6 @@
       "onboard_time": 1775360779,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122782,
-      "num": 122782,
-      "word": "赵丽颖工作室疑似表达对捆绑的不满",
-      "onboard_time": 1775827523,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 122721,
@@ -7897,6 +7953,14 @@
       "onboard_time": 1775391562,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120387,
+      "num": 120387,
+      "word": "张凌赫新剧这一秒过火路透",
+      "onboard_time": 1775828365,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 120384,
@@ -9185,6 +9249,14 @@
       "onboard_time": 1775462181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101592,
+      "num": 101592,
+      "word": "95后女生回村养6万条蛇年入百万",
+      "onboard_time": 1775824642,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101575,
@@ -10731,6 +10803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87128,
+      "num": 87128,
+      "word": "吴世勋西装金丝眼镜",
+      "onboard_time": 1775828843,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86942,
       "num": 95620,
       "word": "赵丽颖楚乔传城墙爆破花絮",
@@ -11193,14 +11273,6 @@
       "onboard_time": 1775789119,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83961,
-      "num": 83961,
-      "word": "95后女生回村养6万条蛇年入百万",
-      "onboard_time": 1775824642,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83953,
@@ -12068,7 +12140,7 @@
     },
     {
       "raw_hot": 77584,
-      "num": 148738,
+      "num": 173308,
       "word": "一秒看透极氪安全黑科技",
       "onboard_time": 1775826263,
       "rank": 19,
@@ -13555,14 +13627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67106,
-      "num": 80088,
-      "word": "疑似涉伊朗战事内幕交易被曝",
-      "onboard_time": 1775827463,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67100,
       "num": 67100,
       "word": "王楚钦约奇克收视率",
@@ -13899,6 +13963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63206,
+      "num": 74131,
+      "word": "张怡宁马龙热聊",
+      "onboard_time": 1775828545,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63177,
       "num": 64512,
       "word": "A股收复4000点关口",
@@ -13945,6 +14017,14 @@
       "onboard_time": 1775660423,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62849,
+      "num": 73246,
+      "word": "洪知秀直播",
+      "onboard_time": 1775827882,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 62756,
@@ -14033,6 +14113,14 @@
       "onboard_time": 1775807361,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62184,
+      "num": 74119,
+      "word": "波兰国家队助教晨跑时晕倒去世",
+      "onboard_time": 1775828723,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61876,
@@ -15633,6 +15721,14 @@
       "onboard_time": 1775667739,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35202,
+      "num": 768988,
+      "word": "我国海水直接制氢取得研究新突破",
+      "onboard_time": 1775827762,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35162,

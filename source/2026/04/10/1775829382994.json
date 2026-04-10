@@ -1,0 +1,410 @@
+{
+  "runTime": 1775829382994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2107276,
+        "num": 2107276,
+        "word": "浪姐直播 对口型",
+        "onboard_time": 1775823022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490247,
+        "num": 998934,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35202,
+        "num": 768988,
+        "word": "我国海水直接制氢取得研究新突破",
+        "onboard_time": 1775827762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073556,
+        "num": 703218,
+        "word": "谢娜裙摆被踩掉了",
+        "onboard_time": 1775828303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438466,
+        "num": 438466,
+        "word": "冰湖重生官微删博",
+        "onboard_time": 1775822902,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394777,
+        "num": 394777,
+        "word": "张雪拍卖1分钟结束",
+        "onboard_time": 1775825482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296602,
+        "num": 296602,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257766,
+        "num": 257766,
+        "word": "疑似涉伊朗战事内幕交易被曝",
+        "onboard_time": 1775827463,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 923375,
+        "num": 257694,
+        "word": "孙怡组真唱",
+        "onboard_time": 1775826562,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794626,
+        "num": 257582,
+        "word": "城北的花 如听仙乐耳暂明",
+        "onboard_time": 1775827342,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313623,
+        "num": 257426,
+        "word": "母亲隐忍不离婚4岁女儿终遭毒手",
+        "onboard_time": 1775827463,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078784,
+        "num": 257260,
+        "word": "浪姐一公直播",
+        "onboard_time": 1775818281,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500698,
+        "num": 257020,
+        "word": "周杰伦方回应演唱会划水",
+        "onboard_time": 1775824162,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161959,
+        "num": 256924,
+        "word": "莫氏鸡煲公开秘方",
+        "onboard_time": 1775816121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500871,
+        "num": 256710,
+        "word": "曾沛慈团904票",
+        "onboard_time": 1775825001,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256703,
+        "num": 256703,
+        "word": "赵丽颖工作室疑似表达对捆绑的不满",
+        "onboard_time": 1775827523,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124584,
+        "num": 245634,
+        "word": "JDG对战AL",
+        "onboard_time": 1775827582,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245536,
+        "num": 245536,
+        "word": "奔跑吧ins取关TWS",
+        "onboard_time": 1775823683,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240063,
+        "num": 240063,
+        "word": "快乐家族在张杰演唱会团建",
+        "onboard_time": 1775827164,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117314,
+        "num": 223597,
+        "word": "发现了辛苦了这句话的最佳回复",
+        "onboard_time": 1775816662,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221386,
+        "num": 221386,
+        "word": "白鹿晒晚餐",
+        "onboard_time": 1775828123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214737,
+        "num": 214737,
+        "word": "黄瓜拌菠萝火了",
+        "onboard_time": 1775827823,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72604,
+        "num": 173308,
+        "word": "一秒看透极氪安全黑科技",
+        "onboard_time": 1775826263,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132707,
+        "num": 132707,
+        "word": "赵丽颖工作室发楚乔传采访",
+        "onboard_time": 1775814320,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127416,
+        "num": 127416,
+        "word": "十日终焉开机",
+        "onboard_time": 1775796386,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120387,
+        "num": 120387,
+        "word": "张凌赫新剧这一秒过火路透",
+        "onboard_time": 1775828365,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104822,
+        "num": 104822,
+        "word": "为什么穿睡衣那么显瘦",
+        "onboard_time": 1775821462,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101592,
+        "num": 101592,
+        "word": "95后女生回村养6万条蛇年入百万",
+        "onboard_time": 1775824642,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 99029,
+        "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
+        "onboard_time": 1775824702,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73079,
+        "num": 97920,
+        "word": "金正恩会见王毅",
+        "onboard_time": 1775820801,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187238,
+        "num": 97904,
+        "word": "张月充满野心的一个ending",
+        "onboard_time": 1775829324,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97889,
+        "num": 97889,
+        "word": "穆祉丞去看张杰演唱会了",
+        "onboard_time": 1775822363,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83093,
+        "num": 92062,
+        "word": "中方回应日本降级中日关系",
+        "onboard_time": 1775809823,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88087,
+        "num": 88087,
+        "word": "原来王楚然早期长这样啊",
+        "onboard_time": 1775813361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87128,
+        "num": 87128,
+        "word": "吴世勋西装金丝眼镜",
+        "onboard_time": 1775828843,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78649,
+        "num": 78649,
+        "word": "957报名考编",
+        "onboard_time": 1775820922,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82213,
+        "num": 77862,
+        "word": "冰湖重生",
+        "onboard_time": 1775822180,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76942,
+        "num": 76942,
+        "word": "周也亮相穿普拉达的女王2首映",
+        "onboard_time": 1775819480,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64186,
+        "num": 74543,
+        "word": "乒乓外交",
+        "onboard_time": 1775827043,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74358,
+        "num": 74358,
+        "word": "杨洋为了升金V发博",
+        "onboard_time": 1775819602,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74167,
+        "num": 74167,
+        "word": "安妮海瑟薇裙子出自中国设计师之手",
+        "onboard_time": 1775825122,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63206,
+        "num": 74131,
+        "word": "张怡宁马龙热聊",
+        "onboard_time": 1775828545,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62184,
+        "num": 74119,
+        "word": "波兰国家队助教晨跑时晕倒去世",
+        "onboard_time": 1775828723,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42764,
+        "num": 74114,
+        "word": "雷军回应小米冰淇淋",
+        "onboard_time": 1775810181,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74114,
+        "num": 74113,
+        "word": "刘诗诗王安宇孙千同框",
+        "onboard_time": 1775821883,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66759,
+        "num": 74070,
+        "word": "刘诗诗送朴宝剑宝瓶花",
+        "onboard_time": 1775814621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63051,
+        "num": 73659,
+        "word": "丁程鑫张真源因行程原因未能同游",
+        "onboard_time": 1775819602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62849,
+        "num": 73246,
+        "word": "洪知秀直播",
+        "onboard_time": 1775827882,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218554,
+        "num": 72740,
+        "word": "填埋奔驰车祭祀当事人致歉",
+        "onboard_time": 1775825962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61402,
+        "num": 72215,
+        "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
+        "onboard_time": 1775818281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸同胞走到一起的大潮流不会变#"
+    }
+  }
+}
