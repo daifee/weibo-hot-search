@@ -1,0 +1,410 @@
+{
+  "runTime": 1775857670198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 90901,
+        "num": 213311,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 0,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 47243,
+        "num": 150099,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10594,
+        "num": 126614,
+        "word": "我国海水直接制氢取得研究新突破",
+        "onboard_time": 1775827762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207302,
+        "num": 114034,
+        "word": "李小冉拉王濛起来被甩开",
+        "onboard_time": 1775835864,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80333,
+        "num": 80333,
+        "word": "各方同意以伊方十点方案为谈判基础",
+        "onboard_time": 1775840958,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84849,
+        "num": 61745,
+        "word": "温峥嵘",
+        "onboard_time": 1775832264,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 38842,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44935,
+        "num": 37549,
+        "word": "浪姐排名",
+        "onboard_time": 1775831124,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33379,
+        "num": 33379,
+        "word": "中国科学家揭示左撇子真相",
+        "onboard_time": 1775831305,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29182,
+        "num": 33352,
+        "word": "美伊谈判倒计时",
+        "onboard_time": 1775846594,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74554,
+        "num": 33198,
+        "word": "夸克 海外剧",
+        "onboard_time": 1775834723,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64045,
+        "num": 33066,
+        "word": "孙怡爆哭",
+        "onboard_time": 1775832324,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48564,
+        "num": 32860,
+        "word": "周杰伦方回应演唱会划水",
+        "onboard_time": 1775824162,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34397,
+        "num": 32758,
+        "word": "以军当学生面打死加沙小女孩",
+        "onboard_time": 1775833225,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 32633,
+        "word": "男子杀害女儿5个月前买了意外险",
+        "onboard_time": 1775833405,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30313,
+        "num": 30313,
+        "word": "赵子琪淘汰",
+        "onboard_time": 1775831066,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28516,
+        "num": 28516,
+        "word": "阚清子团选择曾沛慈团",
+        "onboard_time": 1775846116,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28044,
+        "num": 28044,
+        "word": "被害女医学生母亲频繁吐血",
+        "onboard_time": 1775838023,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26385,
+        "num": 26385,
+        "word": "张雪机车拍卖98次出价记录",
+        "onboard_time": 1775836642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21325,
+        "num": 21325,
+        "word": "交警回应私家车遭运钞车别车",
+        "onboard_time": 1775831904,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21264,
+        "num": 21264,
+        "word": "肖战十日终焉无限流大ip",
+        "onboard_time": 1775843776,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26225,
+        "num": 21191,
+        "word": "阚清子团比孙怡团票数高",
+        "onboard_time": 1775831124,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20930,
+        "num": 20930,
+        "word": "冰湖重生",
+        "onboard_time": 1775822180,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19322,
+        "num": 19322,
+        "word": "伊斯兰堡已进入红色警戒",
+        "onboard_time": 1775833943,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 18969,
+        "word": "赵丽颖工作室疑似表达对捆绑的不满",
+        "onboard_time": 1775827523,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17605,
+        "num": 17605,
+        "word": "魏大勋胡先煦十日终焉开机照",
+        "onboard_time": 1775834004,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17322,
+        "num": 17322,
+        "word": "冰湖重生官微删博",
+        "onboard_time": 1775822902,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16707,
+        "num": 16707,
+        "word": "警方通报父母离婚不接年幼乘客",
+        "onboard_time": 1775829806,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16645,
+        "num": 16645,
+        "word": "黄瓜拌菠萝火了",
+        "onboard_time": 1775827823,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16530,
+        "num": 16530,
+        "word": "张雪请李亚鹏监督捐款用在孩子身上",
+        "onboard_time": 1775840059,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39467,
+        "num": 16438,
+        "word": "若以继续袭击黎巴嫩伊美谈判就暂停",
+        "onboard_time": 1775856674,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22108,
+        "num": 16311,
+        "word": "饭圈乱象成影响体育事业的重大风险",
+        "onboard_time": 1775856734,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16165,
+        "num": 16165,
+        "word": "刘浩存中国电影盛典舞蹈",
+        "onboard_time": 1775832984,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15941,
+        "num": 15941,
+        "word": "杨紫创平台女性角色历史最高",
+        "onboard_time": 1775848815,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15902,
+        "num": 15902,
+        "word": "美国海滩连环命案华人男尸身着女装",
+        "onboard_time": 1775836043,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15596,
+        "num": 15596,
+        "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
+        "onboard_time": 1775824702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14957,
+        "num": 15596,
+        "word": "莫氏鸡煲公开秘方",
+        "onboard_time": 1775816121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14628,
+        "num": 15595,
+        "word": "奔跑吧ins取关TWS",
+        "onboard_time": 1775823683,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14344,
+        "num": 15595,
+        "word": "伦敦世乒赛种子位参赛名单",
+        "onboard_time": 1775833104,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14080,
+        "num": 15595,
+        "word": "IU新剧开播",
+        "onboard_time": 1775835623,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13560,
+        "num": 15595,
+        "word": "95后女生回村养6万条蛇年入百万",
+        "onboard_time": 1775824642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13105,
+        "num": 15594,
+        "word": "两岸同胞共同书写了中国历史",
+        "onboard_time": 1775856734,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13069,
+        "num": 15594,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1775829563,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13051,
+        "num": 15594,
+        "word": "十日终焉官宣物料",
+        "onboard_time": 1775850915,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12782,
+        "num": 15594,
+        "word": "穆祉丞 我爱杰哥",
+        "onboard_time": 1775831783,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12638,
+        "num": 15594,
+        "word": "4岁女童遭生父溺亡家属发声",
+        "onboard_time": 1775836222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12159,
+        "num": 15593,
+        "word": "伊朗武装部队称随时准备开火",
+        "onboard_time": 1775831904,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12058,
+        "num": 15593,
+        "word": "为什么穿睡衣那么显瘦",
+        "onboard_time": 1775821462,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11896,
+        "num": 15593,
+        "word": "华为Pura90系列配色",
+        "onboard_time": 1775830103,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11846,
+        "num": 15592,
+        "word": "音你而来直播",
+        "onboard_time": 1775849533,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸同胞走到一起的大潮流不会变#"
+    }
+  }
+}
