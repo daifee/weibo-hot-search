@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775808506244,
+  "endTime": 1775809559524,
   "band_list": [
     {
       "raw_hot": 2169731,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 580035,
-      "num": 201840,
+      "num": 239088,
       "word": "边伯贤离开INB100",
       "onboard_time": 1775807122,
       "rank": 10,
@@ -195,6 +195,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403679,
+      "num": 773264,
+      "word": "男子追求女技师被拒举报浴场涉黄",
+      "onboard_time": 1775805743,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398139,
+      "num": 236998,
+      "word": "猪的抑郁症表现行为",
+      "onboard_time": 1775805562,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 396960,
       "num": 396960,
       "word": "李晟十日终焉选角好贴脸",
@@ -233,14 +249,6 @@
       "onboard_time": 1775788880,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366488,
-      "num": 773264,
-      "word": "男子追求女技师被拒举报浴场涉黄",
-      "onboard_time": 1775805743,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362677,
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311073,
-      "num": 195566,
-      "word": "猪的抑郁症表现行为",
-      "onboard_time": 1775805562,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 307306,
       "num": 196618,
       "word": "被送错医院死亡家属曾下跪求转院",
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278231,
+      "num": 201560,
+      "word": "毛晓慧领衔主演十日终焉",
+      "onboard_time": 1775807782,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277840,
       "num": 277840,
       "word": "院长猥亵女员工后称分寸感没把握好",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 273298,
-      "num": 167252,
+      "num": 200369,
       "word": "边伯贤金珉锡金钟大解约",
       "onboard_time": 1775807541,
       "rank": 16,
@@ -532,11 +540,19 @@
     },
     {
       "raw_hot": 207368,
-      "num": 207368,
+      "num": 269215,
       "word": "伊朗最高领袖发表最新声明",
       "onboard_time": 1775800822,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203905,
+      "num": 203905,
+      "word": "罗永浩谈奔驰豪车被当陪葬品",
+      "onboard_time": 1775805921,
+      "rank": 30,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 199056,
@@ -545,6 +561,14 @@
       "onboard_time": 1775746883,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198958,
+      "num": 198958,
+      "word": "研究发现血型和疾病的发生有相关性",
+      "onboard_time": 1775801781,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195938,
@@ -560,14 +584,6 @@
       "word": "迪丽热巴待播剧",
       "onboard_time": 1775747663,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190099,
-      "num": 190099,
-      "word": "毛晓慧领衔主演十日终焉",
-      "onboard_time": 1775807782,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1775744664,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168505,
-      "num": 168505,
-      "word": "研究发现血型和疾病的发生有相关性",
-      "onboard_time": 1775801781,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 165548,
@@ -731,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131312,
+      "num": 176313,
+      "word": "民政局回应用真奔驰车陪葬",
+      "onboard_time": 1775806825,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131298,
       "num": 131298,
       "word": "逐玉没播前就定了将门独后副cp",
@@ -747,12 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127315,
-      "num": 85212,
-      "word": "罗永浩谈奔驰豪车被当陪葬品",
-      "onboard_time": 1775805921,
-      "rank": 30,
-      "category": "互联网,民生新闻"
+      "raw_hot": 126876,
+      "num": 126876,
+      "word": "莫氏鸡煲员工吃了10多天外卖",
+      "onboard_time": 1775806522,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126498,
@@ -760,14 +776,6 @@
       "word": "降至300元的降脂针被纳入医保",
       "onboard_time": 1775738542,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125480,
-      "num": 125480,
-      "word": "莫氏鸡煲员工吃了10多天外卖",
-      "onboard_time": 1775806522,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -891,14 +899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101626,
-      "num": 101626,
-      "word": "民政局回应用真奔驰车陪葬",
-      "onboard_time": 1775806825,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100714,
       "num": 177051,
       "word": "黄景瑜王玉雯是王子奇介绍的吗",
@@ -955,8 +955,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96148,
-      "num": 96148,
+      "raw_hot": 96251,
+      "num": 96251,
       "word": "李现帮我拍了拍立得",
       "onboard_time": 1775805743,
       "rank": 26,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1775789779,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84117,
+      "num": 84117,
+      "word": "小猫反复确认能不能出去玩",
+      "onboard_time": 1775806640,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 84006,
@@ -1323,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73755,
+      "num": 129140,
+      "word": "鱼油瓶身全英文客服电话却以400开头",
+      "onboard_time": 1775808081,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73583,
       "num": 173996,
       "word": "DFM对战北京WBG",
@@ -1347,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73219,
-      "num": 73219,
-      "word": "小猫反复确认能不能出去玩",
-      "onboard_time": 1775806640,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72991,
       "num": 72991,
       "word": "杨紫在腾讯破三万率100%",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1775787860,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 71587,
+      "num": 71587,
+      "word": "沈月大波浪红唇造型",
+      "onboard_time": 1775808801,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70696,
@@ -1411,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67813,
+      "num": 67813,
+      "word": "张维伊吃汉堡馒头4天减2.6斤",
+      "onboard_time": 1775807720,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66398,
       "num": 80286,
       "word": "美议员称外星人已与人类接触",
       "onboard_time": 1775728882,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66282,
+      "num": 162889,
+      "word": "奥迪E7X媒体闭门沟通会泄密",
+      "onboard_time": 1775807541,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 66232,
@@ -1427,8 +1459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65030,
-      "num": 65030,
+      "raw_hot": 65379,
+      "num": 65379,
       "word": "巴基斯坦称安保已全部安排到位",
       "onboard_time": 1775808441,
       "rank": 39,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1775808441,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 63262,
-      "num": 162889,
-      "word": "奥迪E7X媒体闭门沟通会泄密",
-      "onboard_time": 1775807541,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 63177,
@@ -1483,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62244,
+      "num": 62244,
+      "word": "秦彻肆雨生花",
+      "onboard_time": 1775807361,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61873,
       "num": 171303,
       "word": "打击伊朗期间美军消耗约760万杯咖啡",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1775796865,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60227,
-      "num": 60227,
-      "word": "张维伊吃汉堡馒头4天减2.6斤",
-      "onboard_time": 1775807720,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 60047,
@@ -1588,7 +1612,7 @@
     },
     {
       "raw_hot": 58312,
-      "num": 58312,
+      "num": 62181,
       "word": "种地吧",
       "onboard_time": 1775800763,
       "rank": 48,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1775808441,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57972,
+      "num": 62215,
+      "word": "谢谢AI成功让我笑了出来",
+      "onboard_time": 1775809281,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 57811,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1775740883,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56614,
+      "num": 62203,
+      "word": "迪丽热巴女性角色热度前十揽三",
+      "onboard_time": 1775808921,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56263,
@@ -1691,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52609,
+      "num": 62150,
+      "word": "谢娜剧透张杰演唱会有惊喜",
+      "onboard_time": 1775803341,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52252,
       "num": 52252,
       "word": "男子开路虎加油500元后逃单",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1775735181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50348,
+      "num": 62123,
+      "word": "安徽省考",
+      "onboard_time": 1775806401,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 48968,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1775778199,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46880,
+      "num": 75200,
+      "word": "你的养老账户结算了多少利息",
+      "onboard_time": 1775809341,
+      "rank": 32,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 45522,
@@ -1787,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34896,
+      "num": 164919,
+      "word": "女销售遭爱尔眼科院长猥亵丈夫发声",
+      "onboard_time": 1775808500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34030,
       "num": 34030,
       "word": "张元英看BTS演唱会",
@@ -1828,7 +1900,7 @@
     },
     {
       "raw_hot": 25209,
-      "num": 603211,
+      "num": 630906,
       "word": "高质量发展中国行",
       "onboard_time": 1775806220,
       "rank": 2,
@@ -1849,14 +1921,6 @@
       "onboard_time": 1775755936,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24020,
-      "num": 129140,
-      "word": "鱼油瓶身全英文客服电话却以400开头",
-      "onboard_time": 1775808081,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23549,
