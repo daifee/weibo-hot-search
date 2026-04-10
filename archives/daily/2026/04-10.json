@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775814437728,
+  "endTime": 1775816079720,
   "band_list": [
     {
       "raw_hot": 2169731,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 687355,
+      "num": 1109976,
+      "word": "官方通报填埋奔驰车祭祀",
+      "onboard_time": 1775812639,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580035,
       "num": 239088,
       "word": "边伯贤离开INB100",
@@ -131,14 +139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 479949,
-      "num": 766009,
-      "word": "官方通报填埋奔驰车祭祀",
-      "onboard_time": 1775812639,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 469765,
       "num": 1075162,
       "word": "AI写作年赚200万夫妻被封号",
@@ -177,6 +177,14 @@
       "onboard_time": 1775788221,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 426026,
+      "num": 790084,
+      "word": "女子睡觉被15斤猫咪压致手腕骨折",
+      "onboard_time": 1775810540,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418312,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392573,
-      "num": 392573,
-      "word": "女子睡觉被15斤猫咪压致手腕骨折",
-      "onboard_time": 1775810540,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 391053,
       "num": 391053,
       "word": "美以或对伊朗采取割草模式",
@@ -257,6 +257,14 @@
       "onboard_time": 1775804541,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373293,
+      "num": 373293,
+      "word": "赵丽颖工作室发楚乔传采访",
+      "onboard_time": 1775814320,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 372165,
@@ -321,6 +329,14 @@
       "onboard_time": 1775778140,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347417,
+      "num": 347417,
+      "word": "雷军回应小米冰淇淋",
+      "onboard_time": 1775810181,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 333715,
@@ -432,6 +448,14 @@
       "word": "边伯贤金珉锡金钟大解约",
       "onboard_time": 1775807541,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267293,
+      "num": 117676,
+      "word": "原来王楚然早期长这样啊",
+      "onboard_time": 1775813361,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -627,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193713,
-      "num": 115973,
-      "word": "原来王楚然早期长这样啊",
-      "onboard_time": 1775813361,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189115,
       "num": 172904,
       "word": "王玉雯方否认和黄景瑜恋情",
@@ -667,20 +683,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178824,
+      "num": 152010,
+      "word": "曝祯娘传改回家业",
+      "onboard_time": 1775812821,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171904,
       "num": 119534,
       "word": "人民日报评吴克群",
       "onboard_time": 1775744664,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166993,
-      "num": 166993,
-      "word": "雷军回应小米冰淇淋",
-      "onboard_time": 1775810181,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 165548,
@@ -721,14 +737,6 @@
       "onboard_time": 1775779521,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152010,
-      "num": 152010,
-      "word": "曝祯娘传改回家业",
-      "onboard_time": 1775812821,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 146223,
@@ -868,11 +876,19 @@
     },
     {
       "raw_hot": 122456,
-      "num": 103396,
+      "num": 114740,
       "word": "肚子总是鼓鼓的可以练这个改善腹压",
       "onboard_time": 1775810241,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119420,
+      "num": 119420,
+      "word": "从王者到王者荣耀世界",
+      "onboard_time": 1775815522,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 119154,
@@ -881,6 +897,14 @@
       "onboard_time": 1775791222,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119040,
+      "num": 116613,
+      "word": "刘诗诗送朴宝剑宝瓶花",
+      "onboard_time": 1775814621,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 117337,
@@ -945,6 +969,30 @@
       "onboard_time": 1775792484,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "奔驰客服回应奔驰疑似被当陪葬品",
+      "onboard_time": 1775813062,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104819,
+      "num": 106975,
+      "word": "男子抽蒜苔累到喊话请人上门偷",
+      "onboard_time": 1775814200,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104326,
+      "num": 104326,
+      "word": "打压遏制中国到了疯狂的程度",
+      "onboard_time": 1775814682,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103211,
@@ -1067,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95386,
+      "num": 95386,
+      "word": "十日终焉固屏弹窗",
+      "onboard_time": 1775814983,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94764,
       "num": 186871,
       "word": "莫氏鸡煲老板说一天只花20发财没用",
@@ -1163,6 +1219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86556,
+      "num": 86556,
+      "word": "莫氏鸡煲终于放假了",
+      "onboard_time": 1775814983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86146,
       "num": 116686,
       "word": "填埋奔驰车祭祀当事人将整改",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1775805022,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83394,
+      "num": 118215,
+      "word": "特朗普对鲤鱼宣战",
+      "onboard_time": 1775814921,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82776,
@@ -1355,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76930,
+      "num": 76930,
+      "word": "教资将考AI",
+      "onboard_time": 1775813361,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76913,
       "num": 76913,
       "word": "黎真主党贴脸开打以军地面部队",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1775787741,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76593,
+      "num": 76593,
+      "word": "中产家长开始抛弃国际学校了",
+      "onboard_time": 1775815041,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 76551,
@@ -1459,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73882,
-      "num": 73882,
-      "word": "赵丽颖工作室发楚乔传采访",
-      "onboard_time": 1775814320,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73755,
       "num": 129140,
       "word": "鱼油瓶身全英文客服电话却以400开头",
@@ -1539,12 +1619,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71283,
+      "num": 71283,
+      "word": "A股本轮上涨能到多少点",
+      "onboard_time": 1775812701,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70696,
       "num": 70696,
       "word": "陈飞宇直播",
       "onboard_time": 1775747842,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69534,
+      "num": 69534,
+      "word": "T1战胜DNS",
+      "onboard_time": 1775815340,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 69468,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1775812639,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67251,
+      "num": 67251,
+      "word": "压力大的时候想想图书馆的垃圾桶",
+      "onboard_time": 1775815821,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 66398,
@@ -1707,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60057,
-      "num": 64586,
-      "word": "奔驰客服回应奔驰疑似被当陪葬品",
-      "onboard_time": 1775813062,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60047,
       "num": 167940,
       "word": "安徽就不参与南北之争了",
@@ -1825,14 +1921,6 @@
       "onboard_time": 1775808202,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57570,
-      "num": 57570,
-      "word": "教资将考AI",
-      "onboard_time": 1775813361,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 57470,
@@ -1971,14 +2059,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 49475,
-      "num": 55734,
-      "word": "A股本轮上涨能到多少点",
-      "onboard_time": 1775812701,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 48968,
       "num": 105848,
       "word": "官方回应奔驰豪车被当陪葬品",
@@ -2027,12 +2107,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42806,
-      "num": 106975,
-      "word": "男子抽蒜苔累到喊话请人上门偷",
-      "onboard_time": 1775814200,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 44842,
+      "num": 109919,
+      "word": "伊斯兰堡部署上万人保障美伊会谈",
+      "onboard_time": 1775814741,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39552,
@@ -2115,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26406,
+      "num": 104343,
+      "word": "永辉超市线上买鱼被指缺斤少两",
+      "onboard_time": 1775815882,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25237,
       "num": 25614,
       "word": "在张杰演唱会偶遇余宇涵",
@@ -2131,6 +2219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25173,
+      "num": 88416,
+      "word": "环保部门称土葬百万奔驰匪夷所思",
+      "onboard_time": 1775815941,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24595,
       "num": 80117,
       "word": "你好1983收官",
@@ -2145,6 +2241,14 @@
       "onboard_time": 1775755936,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24153,
+      "num": 140908,
+      "word": "嫦娥七号腿式行走",
+      "onboard_time": 1775815160,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23549,
@@ -2239,6 +2343,14 @@
       "num": 164350,
       "word": "消费者网购维权可以起诉谁",
       "onboard_time": 1775792484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11361,
+      "num": 117816,
+      "word": "伴娘神反应手动撤回了个抢喜大妈",
+      "onboard_time": 1775815402,
       "rank": 19,
       "category": "民生新闻"
     }

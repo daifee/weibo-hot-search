@@ -1,0 +1,410 @@
+{
+  "runTime": 1775816079720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 687355,
+        "num": 1109976,
+        "word": "官方通报填埋奔驰车祭祀",
+        "onboard_time": 1775812639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426026,
+        "num": 790084,
+        "word": "女子睡觉被15斤猫咪压致手腕骨折",
+        "onboard_time": 1775810540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21419,
+        "num": 616272,
+        "word": "高质量发展中国行",
+        "onboard_time": 1775806220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373293,
+        "num": 373293,
+        "word": "赵丽颖工作室发楚乔传采访",
+        "onboard_time": 1775814320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347417,
+        "num": 347417,
+        "word": "雷军回应小米冰淇淋",
+        "onboard_time": 1775810181,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 339336,
+        "num": 339336,
+        "word": "中方回应日本降级中日关系",
+        "onboard_time": 1775809823,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226148,
+        "num": 226148,
+        "word": "李晟十日终焉选角好贴脸",
+        "onboard_time": 1775804420,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "冰湖重生癫剧",
+        "onboard_time": 1775810481,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140978,
+        "num": 140978,
+        "word": "我奶的联系人备注",
+        "onboard_time": 1775803161,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24153,
+        "num": 140908,
+        "word": "嫦娥七号腿式行走",
+        "onboard_time": 1775815160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301525,
+        "num": 138959,
+        "word": "十日终焉开机",
+        "onboard_time": 1775796386,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 138356,
+        "word": "曝祯娘传改回家业",
+        "onboard_time": 1775812821,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161420,
+        "num": 136811,
+        "word": "日本外交蓝皮书降级中日关系",
+        "onboard_time": 1775804541,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198028,
+        "num": 134996,
+        "word": "毛晓慧领衔主演十日终焉",
+        "onboard_time": 1775807782,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134564,
+        "num": 134564,
+        "word": "伊朗最高领袖发表最新声明",
+        "onboard_time": 1775800822,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133185,
+        "num": 133185,
+        "word": "小米食堂发布小米冰激凌",
+        "onboard_time": 1775802502,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126738,
+        "num": 126738,
+        "word": "一蓄电池企业让员工体检前吃排铅药",
+        "onboard_time": 1775810540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119420,
+        "num": 119420,
+        "word": "从王者到王者荣耀世界",
+        "onboard_time": 1775815522,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83394,
+        "num": 118215,
+        "word": "特朗普对鲤鱼宣战",
+        "onboard_time": 1775814921,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11361,
+        "num": 117816,
+        "word": "伴娘神反应手动撤回了个抢喜大妈",
+        "onboard_time": 1775815402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267293,
+        "num": 117676,
+        "word": "原来王楚然早期长这样啊",
+        "onboard_time": 1775813361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117434,
+        "num": 117434,
+        "word": "猪的抑郁症表现行为",
+        "onboard_time": 1775805562,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154352,
+        "num": 117392,
+        "word": "肖战毛晓慧合作十日终焉",
+        "onboard_time": 1775804181,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121750,
+        "num": 117149,
+        "word": "边伯贤离开INB100",
+        "onboard_time": 1775807122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116640,
+        "num": 116640,
+        "word": "研究发现血型和疾病的发生有相关性",
+        "onboard_time": 1775801781,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119040,
+        "num": 116613,
+        "word": "刘诗诗送朴宝剑宝瓶花",
+        "onboard_time": 1775814621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114740,
+        "num": 114740,
+        "word": "肚子总是鼓鼓的可以练这个改善腹压",
+        "onboard_time": 1775810241,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44842,
+        "num": 109919,
+        "word": "伊斯兰堡部署上万人保障美伊会谈",
+        "onboard_time": 1775814741,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106684,
+        "num": 106684,
+        "word": "奔驰客服回应奔驰疑似被当陪葬品",
+        "onboard_time": 1775813062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104819,
+        "num": 104819,
+        "word": "男子抽蒜苔累到喊话请人上门偷",
+        "onboard_time": 1775814200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26406,
+        "num": 104343,
+        "word": "永辉超市线上买鱼被指缺斤少两",
+        "onboard_time": 1775815882,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104326,
+        "num": 104326,
+        "word": "打压遏制中国到了疯狂的程度",
+        "onboard_time": 1775814682,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95386,
+        "num": 95386,
+        "word": "十日终焉固屏弹窗",
+        "onboard_time": 1775814983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93860,
+        "num": 93860,
+        "word": "胡彦斌说终于有人为我身高发声",
+        "onboard_time": 1775810300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89141,
+        "num": 89141,
+        "word": "痔疮手术9天后死亡医院只赔1万",
+        "onboard_time": 1775804541,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25173,
+        "num": 88416,
+        "word": "环保部门称土葬百万奔驰匪夷所思",
+        "onboard_time": 1775815941,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91289,
+        "num": 88409,
+        "word": "宋亚轩回中戏",
+        "onboard_time": 1775812581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88184,
+        "num": 88184,
+        "word": "杭州灵隐寺偶遇李现",
+        "onboard_time": 1775812221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87052,
+        "num": 87052,
+        "word": "男子追求女技师被拒举报浴场涉黄",
+        "onboard_time": 1775805743,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86556,
+        "num": 86556,
+        "word": "莫氏鸡煲终于放假了",
+        "onboard_time": 1775814983,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79496,
+        "num": 79496,
+        "word": "十日终焉",
+        "onboard_time": 1775778260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76930,
+        "num": 76930,
+        "word": "教资将考AI",
+        "onboard_time": 1775813361,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76863,
+        "num": 76863,
+        "word": "浪姐",
+        "onboard_time": 1775791041,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 76593,
+        "word": "中产家长开始抛弃国际学校了",
+        "onboard_time": 1775815041,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73242,
+        "num": 73242,
+        "word": "医生分析黄子韬嘴唇发紫原因",
+        "onboard_time": 1775799202,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71556,
+        "num": 71556,
+        "word": "刘畊宏孩子都这么大了王俊凯还这么嫩",
+        "onboard_time": 1775811622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71283,
+        "num": 71283,
+        "word": "A股本轮上涨能到多少点",
+        "onboard_time": 1775812701,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69534,
+        "num": 69534,
+        "word": "T1战胜DNS",
+        "onboard_time": 1775815340,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67251,
+        "num": 67251,
+        "word": "压力大的时候想想图书馆的垃圾桶",
+        "onboard_time": 1775815821,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64347,
+        "num": 64347,
+        "word": "李现帮我拍了拍立得",
+        "onboard_time": 1775805743,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在京会见郑丽文#"
+    }
+  }
+}
