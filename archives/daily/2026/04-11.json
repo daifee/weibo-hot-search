@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775837754460,
+  "endTime": 1775840647261,
   "band_list": [
     {
       "raw_hot": 1389964,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106209,
+      "num": 152292,
+      "word": "张雪机车拍卖98次出价记录",
+      "onboard_time": 1775836642,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99623,
       "num": 169458,
       "word": "交警回应私家车遭运钞车别车",
@@ -256,14 +264,6 @@
       "word": "警方通报父母离婚不接年幼乘客",
       "onboard_time": 1775829806,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90515,
-      "num": 111537,
-      "word": "张雪机车拍卖98次出价记录",
-      "onboard_time": 1775836642,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62221,
+      "num": 93883,
+      "word": "男子杀害女儿5个月前买了意外险",
+      "onboard_time": 1775833405,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61268,
       "num": 104624,
       "word": "张凌赫新剧这一秒过火路透",
@@ -363,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60150,
+      "num": 90815,
+      "word": "被害女医学生母亲频繁吐血",
+      "onboard_time": 1775838023,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59422,
-      "num": 61265,
+      "num": 84738,
       "word": "孙燕姿演唱会花车巡场",
       "onboard_time": 1775830765,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52990,
-      "num": 67899,
-      "word": "男子杀害女儿5个月前买了意外险",
-      "onboard_time": 1775833405,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47012,
@@ -403,6 +411,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35734,
+      "num": 86215,
+      "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
+      "onboard_time": 1775824702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35643,
+      "num": 85972,
+      "word": "运钞车加塞别车司机被批评处罚",
+      "onboard_time": 1775838023,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33586,
+      "num": 85195,
+      "word": "吴世勋西装金丝眼镜",
+      "onboard_time": 1775828843,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33197,
       "num": 637811,
       "word": "我国海水直接制氢取得研究新突破",
@@ -417,6 +449,30 @@
       "onboard_time": 1775830103,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 29185,
+      "num": 84495,
+      "word": "张雪请李亚鹏监督捐款用在孩子身上",
+      "onboard_time": 1775840059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26189,
+      "num": 83948,
+      "word": "运钞车高架上加塞别车司机已找到",
+      "onboard_time": 1775835562,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25212,
+      "num": 83511,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1775829563,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
