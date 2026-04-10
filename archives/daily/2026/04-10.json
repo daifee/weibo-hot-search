@@ -1,6 +1,6 @@
 {
   "startTime": 1775750564954,
-  "endTime": 1775809559524,
+  "endTime": 1775814437728,
   "band_list": [
     {
       "raw_hot": 2169731,
@@ -107,6 +107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 509893,
+      "num": 1081582,
+      "word": "中方回应日本降级中日关系",
+      "onboard_time": 1775809823,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 506415,
       "num": 288418,
       "word": "一条生命换一张7.6万元罚单",
@@ -121,6 +129,14 @@
       "onboard_time": 1775802502,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 479949,
+      "num": 766009,
+      "word": "官方通报填埋奔驰车祭祀",
+      "onboard_time": 1775812639,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469765,
@@ -217,6 +233,14 @@
       "onboard_time": 1775804420,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392573,
+      "num": 392573,
+      "word": "女子睡觉被15斤猫咪压致手腕骨折",
+      "onboard_time": 1775810540,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391053,
@@ -363,20 +387,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289465,
+      "num": 289465,
+      "word": "冰湖重生癫剧",
+      "onboard_time": 1775810481,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284324,
+      "num": 284324,
+      "word": "毛晓慧领衔主演十日终焉",
+      "onboard_time": 1775807782,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281055,
       "num": 437734,
       "word": "李纯吐槽自己妈妈没苦硬吃",
       "onboard_time": 1775773996,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278231,
-      "num": 201560,
-      "word": "毛晓慧领衔主演十日终焉",
-      "onboard_time": 1775807782,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 277840,
@@ -523,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219775,
+      "num": 219775,
+      "word": "一蓄电池企业让员工体检前吃排铅药",
+      "onboard_time": 1775810540,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215519,
       "num": 215519,
       "word": "大疆创始人汪滔谈离职潮",
@@ -587,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193713,
+      "num": 115973,
+      "word": "原来王楚然早期长这样啊",
+      "onboard_time": 1775813361,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189115,
       "num": 172904,
       "word": "王玉雯方否认和黄景瑜恋情",
@@ -627,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166993,
+      "num": 166993,
+      "word": "雷军回应小米冰淇淋",
+      "onboard_time": 1775810181,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165548,
       "num": 165548,
       "word": "陈添祥长文道歉",
@@ -665,6 +721,14 @@
       "onboard_time": 1775779521,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152010,
+      "num": 152010,
+      "word": "曝祯娘传改回家业",
+      "onboard_time": 1775812821,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 146223,
@@ -721,6 +785,14 @@
       "onboard_time": 1775742442,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137557,
+      "num": 104642,
+      "word": "胡彦斌说终于有人为我身高发声",
+      "onboard_time": 1775810300,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 135660,
@@ -793,6 +865,14 @@
       "onboard_time": 1775801302,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122456,
+      "num": 103396,
+      "word": "肚子总是鼓鼓的可以练这个改善腹压",
+      "onboard_time": 1775810241,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119154,
@@ -899,11 +979,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102456,
+      "num": 102456,
+      "word": "杭州灵隐寺偶遇李现",
+      "onboard_time": 1775812221,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100714,
       "num": 177051,
       "word": "黄景瑜王玉雯是王子奇介绍的吗",
       "onboard_time": 1775794705,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100464,
+      "num": 100464,
+      "word": "宋亚轩回中戏",
+      "onboard_time": 1775812581,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -937,6 +1033,14 @@
       "onboard_time": 1775791041,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97420,
+      "num": 97420,
+      "word": "刘畊宏孩子都这么大了王俊凯还这么嫩",
+      "onboard_time": 1775811622,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 97400,
@@ -1059,6 +1163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86146,
+      "num": 116686,
+      "word": "填埋奔驰车祭祀当事人将整改",
+      "onboard_time": 1775812762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86110,
       "num": 86110,
       "word": "金子涵想拥有自己的家庭",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1775789779,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84154,
+      "num": 84154,
+      "word": "张维伊吃汉堡馒头4天减2.6斤",
+      "onboard_time": 1775807720,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 84117,
@@ -1177,6 +1297,14 @@
       "onboard_time": 1775780002,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79194,
+      "num": 79194,
+      "word": "卓沅 种地吧录制",
+      "onboard_time": 1775812042,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 79013,
@@ -1331,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73882,
+      "num": 73882,
+      "word": "赵丽颖工作室发楚乔传采访",
+      "onboard_time": 1775814320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73755,
       "num": 129140,
       "word": "鱼油瓶身全英文客服电话却以400开头",
@@ -1387,6 +1523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72021,
+      "num": 72021,
+      "word": "陈赫是不是知道嘬腮显瘦",
+      "onboard_time": 1775812401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71587,
       "num": 71587,
       "word": "沈月大波浪红唇造型",
@@ -1427,12 +1571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67813,
-      "num": 67813,
-      "word": "张维伊吃汉堡馒头4天减2.6斤",
-      "onboard_time": 1775807720,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 67617,
+      "num": 97972,
+      "word": "伊朗放话以色列的账算美国头上",
+      "onboard_time": 1775812639,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66398,
@@ -1483,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63283,
+      "num": 84188,
+      "word": "当四岁小朋友一个人去吃烧烤",
+      "onboard_time": 1775813000,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63177,
       "num": 64512,
       "word": "A股收复4000点关口",
@@ -1505,6 +1657,14 @@
       "onboard_time": 1775740221,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62438,
+      "num": 74921,
+      "word": "四川相当于又多了一座金山",
+      "onboard_time": 1775813540,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 62244,
@@ -1536,6 +1696,22 @@
       "word": "开封一卫生院员工上班时间化妆追剧",
       "onboard_time": 1775796865,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60232,
+      "num": 70262,
+      "word": "没有樊振东的国乒还是国乒吗",
+      "onboard_time": 1775811263,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60057,
+      "num": 64586,
+      "word": "奔驰客服回应奔驰疑似被当陪葬品",
+      "onboard_time": 1775813062,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1619,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58289,
+      "num": 57505,
+      "word": "余宇涵 青春饭还没吃够呢",
+      "onboard_time": 1775814081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58109,
       "num": 58109,
       "word": "中国资产又迎爆发",
@@ -1643,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57570,
+      "num": 57570,
+      "word": "教资将考AI",
+      "onboard_time": 1775813361,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 57470,
       "num": 167450,
       "word": "梁文锋回应DeepSeekV4发布时间",
@@ -1657,6 +1849,14 @@
       "onboard_time": 1775740883,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56927,
+      "num": 56927,
+      "word": "小猫喝奶差点溺亡了",
+      "onboard_time": 1775812581,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 56614,
@@ -1689,6 +1889,14 @@
       "onboard_time": 1775806522,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55680,
+      "num": 55680,
+      "word": "世界真的越来越安静了",
+      "onboard_time": 1775813361,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 54854,
@@ -1763,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49475,
+      "num": 55734,
+      "word": "A股本轮上涨能到多少点",
+      "onboard_time": 1775812701,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48968,
       "num": 105848,
       "word": "官方回应奔驰豪车被当陪葬品",
@@ -1809,6 +2025,14 @@
       "onboard_time": 1775761754,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42806,
+      "num": 106975,
+      "word": "男子抽蒜苔累到喊话请人上门偷",
+      "onboard_time": 1775814200,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39552,

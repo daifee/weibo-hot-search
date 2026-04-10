@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775809559524,
+  "endTime": 1775814437728,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -1347,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509893,
+      "num": 1081582,
+      "word": "中方回应日本降级中日关系",
+      "onboard_time": 1775809823,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 509257,
       "num": 799612,
       "word": "上坟发现墓碑被贴欠费通知单",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1775578641,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479949,
+      "num": 766009,
+      "word": "官方通报填埋奔驰车祭祀",
+      "onboard_time": 1775812639,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479793,
@@ -2088,6 +2104,14 @@
       "word": "女孩高铁换胰岛素被警察发现",
       "onboard_time": 1775364861,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392573,
+      "num": 392573,
+      "word": "女子睡觉被15斤猫咪压致手腕骨折",
+      "onboard_time": 1775810540,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3123,6 +3147,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 289465,
+      "num": 289465,
+      "word": "冰湖重生癫剧",
+      "onboard_time": 1775810481,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287742,
       "num": 287742,
       "word": "王曼昱世界杯进决赛",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1775619021,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284324,
+      "num": 284324,
+      "word": "毛晓慧领衔主演十日终焉",
+      "onboard_time": 1775807782,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 284172,
@@ -3265,14 +3305,6 @@
       "onboard_time": 1775672534,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278231,
-      "num": 201560,
-      "word": "毛晓慧领衔主演十日终焉",
-      "onboard_time": 1775807782,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 277840,
@@ -4251,6 +4283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219775,
+      "num": 219775,
+      "word": "一蓄电池企业让员工体检前吃排铅药",
+      "onboard_time": 1775810540,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218899,
       "num": 738355,
       "word": "3岁女童被毒蛇咬伤假死3天奇迹生还",
@@ -4857,6 +4897,14 @@
       "onboard_time": 1775440760,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193713,
+      "num": 115973,
+      "word": "原来王楚然早期长这样啊",
+      "onboard_time": 1775813361,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 193447,
@@ -5571,6 +5619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166993,
+      "num": 166993,
+      "word": "雷军回应小米冰淇淋",
+      "onboard_time": 1775810181,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166835,
       "num": 155412,
       "word": "女子孕22周诞下仅矿泉水瓶重婴儿",
@@ -6041,6 +6097,14 @@
       "onboard_time": 1775715622,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152010,
+      "num": 152010,
+      "word": "曝祯娘传改回家业",
+      "onboard_time": 1775812821,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 151137,
@@ -6617,6 +6681,14 @@
       "onboard_time": 1775393426,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137557,
+      "num": 104642,
+      "word": "胡彦斌说终于有人为我身高发声",
+      "onboard_time": 1775810300,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 137016,
@@ -7385,6 +7457,14 @@
       "onboard_time": 1775801302,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122456,
+      "num": 103396,
+      "word": "肚子总是鼓鼓的可以练这个改善腹压",
+      "onboard_time": 1775810241,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122432,
@@ -8651,6 +8731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102456,
+      "num": 102456,
+      "word": "杭州灵隐寺偶遇李现",
+      "onboard_time": 1775812221,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102431,
       "num": 102431,
       "word": "仙逆",
@@ -8825,6 +8913,14 @@
       "onboard_time": 1775604920,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100464,
+      "num": 100464,
+      "word": "宋亚轩回中戏",
+      "onboard_time": 1775812581,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 100452,
@@ -9129,6 +9225,14 @@
       "onboard_time": 1775457200,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97420,
+      "num": 97420,
+      "word": "刘畊宏孩子都这么大了王俊凯还这么嫩",
+      "onboard_time": 1775811622,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 97400,
@@ -10347,6 +10451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86146,
+      "num": 116686,
+      "word": "填埋奔驰车祭祀当事人将整改",
+      "onboard_time": 1775812762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86110,
       "num": 86110,
       "word": "金子涵想拥有自己的家庭",
@@ -10625,6 +10737,14 @@
       "onboard_time": 1775617341,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84154,
+      "num": 84154,
+      "word": "张维伊吃汉堡馒头4天减2.6斤",
+      "onboard_time": 1775807720,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 84141,
@@ -11289,6 +11409,14 @@
       "onboard_time": 1775385622,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79194,
+      "num": 79194,
+      "word": "卓沅 种地吧录制",
+      "onboard_time": 1775812042,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 79139,
@@ -12027,6 +12155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73882,
+      "num": 73882,
+      "word": "赵丽颖工作室发楚乔传采访",
+      "onboard_time": 1775814320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73755,
       "num": 129140,
       "word": "鱼油瓶身全英文客服电话却以400开头",
@@ -12225,6 +12361,14 @@
       "onboard_time": 1775744783,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72021,
+      "num": 72021,
+      "word": "陈赫是不是知道嘬腮显瘦",
+      "onboard_time": 1775812401,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 72007,
@@ -12771,20 +12915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67813,
-      "num": 67813,
-      "word": "张维伊吃汉堡馒头4天减2.6斤",
-      "onboard_time": 1775807720,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67720,
       "num": 67720,
       "word": "第一次见茶里茶气的狗子",
       "onboard_time": 1775463621,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67617,
+      "num": 97972,
+      "word": "伊朗放话以色列的账算美国头上",
+      "onboard_time": 1775812639,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67612,
@@ -13139,6 +13283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63283,
+      "num": 84188,
+      "word": "当四岁小朋友一个人去吃烧烤",
+      "onboard_time": 1775813000,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63271,
       "num": 63271,
       "word": "汪顺说管晨辰长高了",
@@ -13233,6 +13385,14 @@
       "onboard_time": 1775701940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62438,
+      "num": 74921,
+      "word": "四川相当于又多了一座金山",
+      "onboard_time": 1775813540,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 62423,
@@ -13459,6 +13619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60232,
+      "num": 70262,
+      "word": "没有樊振东的国乒还是国乒吗",
+      "onboard_time": 1775811263,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60222,
       "num": 60222,
       "word": "多名游客称被困玉龙雪山山顶",
@@ -13481,6 +13649,14 @@
       "onboard_time": 1775476401,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60057,
+      "num": 64586,
+      "word": "奔驰客服回应奔驰疑似被当陪葬品",
+      "onboard_time": 1775813062,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60047,
@@ -13643,6 +13819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58289,
+      "num": 57505,
+      "word": "余宇涵 青春饭还没吃够呢",
+      "onboard_time": 1775814081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58274,
       "num": 167564,
       "word": "地震学副教授讲炒股引热议",
@@ -13715,6 +13899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57570,
+      "num": 57570,
+      "word": "教资将考AI",
+      "onboard_time": 1775813361,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 57542,
       "num": 823585,
       "word": "外国人来中国旅游更火了",
@@ -13744,6 +13936,14 @@
       "word": "终于找到懒人的遛猫方式",
       "onboard_time": 1775483542,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56927,
+      "num": 56927,
+      "word": "小猫喝奶差点溺亡了",
+      "onboard_time": 1775812581,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -13857,6 +14057,14 @@
       "onboard_time": 1775649023,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55680,
+      "num": 55680,
+      "word": "世界真的越来越安静了",
+      "onboard_time": 1775813361,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 55654,
@@ -14203,6 +14411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49475,
+      "num": 55734,
+      "word": "A股本轮上涨能到多少点",
+      "onboard_time": 1775812701,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49460,
       "num": 695805,
       "word": "清明文旅市场三线齐热",
@@ -14497,6 +14713,14 @@
       "onboard_time": 1775303481,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42806,
+      "num": 106975,
+      "word": "男子抽蒜苔累到喊话请人上门偷",
+      "onboard_time": 1775814200,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41956,
