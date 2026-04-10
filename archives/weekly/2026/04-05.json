@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775829382994,
+  "endTime": 1775833016294,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -17,6 +17,14 @@
       "onboard_time": 1775398886,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4616241,
+      "num": 590386,
+      "word": "阚清子团比孙怡团票数高",
+      "onboard_time": 1775831124,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 4270695,
@@ -185,6 +193,14 @@
       "onboard_time": 1775380760,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1703363,
+      "num": 280316,
+      "word": "赵子琪淘汰",
+      "onboard_time": 1775831066,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1626888,
@@ -779,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 771476,
+      "num": 242767,
+      "word": "孙怡爆哭",
+      "onboard_time": 1775832324,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 763047,
       "num": 238905,
       "word": "瞿颖 肉毒起作用了",
@@ -849,6 +873,14 @@
       "onboard_time": 1775379861,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 732978,
+      "num": 1273426,
+      "word": "浪姐排名",
+      "onboard_time": 1775831124,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 726991,
@@ -1027,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629939,
+      "num": 241962,
+      "word": "温峥嵘",
+      "onboard_time": 1775832264,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626293,
       "num": 187459,
       "word": "中方称涉伊朗决议草案极不平衡",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1775614880,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567331,
+      "num": 241590,
+      "word": "网红一栗小莎子因癌症剃光头",
+      "onboard_time": 1775830044,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 566194,
@@ -1803,6 +1851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443813,
+      "num": 256703,
+      "word": "赵丽颖工作室疑似表达对捆绑的不满",
+      "onboard_time": 1775827523,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443096,
       "num": 132650,
       "word": "金子涵后脑勺",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1775705841,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416472,
+      "num": 241193,
+      "word": "白鹿晒晚餐",
+      "onboard_time": 1775828123,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 416054,
@@ -2387,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375224,
+      "num": 257766,
+      "word": "疑似涉伊朗战事内幕交易被曝",
+      "onboard_time": 1775827463,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 374108,
       "num": 965456,
       "word": "仅一户报名摇号的房子第二天售罄",
@@ -2681,6 +2753,14 @@
       "onboard_time": 1775364742,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349143,
+      "num": 240949,
+      "word": "穆祉丞 我爱杰哥",
+      "onboard_time": 1775831783,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 348202,
@@ -3163,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303032,
+      "num": 303032,
+      "word": "这些品牌竟然都是假洋牌",
+      "onboard_time": 1775826322,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302846,
       "num": 260620,
       "word": "郝蕾说张昊唯废了",
@@ -3240,14 +3328,6 @@
       "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
       "onboard_time": 1775464700,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296602,
-      "num": 296602,
-      "word": "这些品牌竟然都是假洋牌",
-      "onboard_time": 1775826322,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3835,14 +3915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257766,
-      "num": 257766,
-      "word": "疑似涉伊朗战事内幕交易被曝",
-      "onboard_time": 1775827463,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257616,
       "num": 1041218,
       "word": "B站将上线播放页暂停广告",
@@ -3865,14 +3937,6 @@
       "onboard_time": 1775487322,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 256703,
-      "num": 256703,
-      "word": "赵丽颖工作室疑似表达对捆绑的不满",
-      "onboard_time": 1775827523,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 256063,
@@ -4123,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243032,
+      "num": 243032,
+      "word": "JDG战胜AL",
+      "onboard_time": 1775831664,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242371,
       "num": 237982,
       "word": "发现了辛苦了这句话的最佳回复",
@@ -4193,6 +4265,14 @@
       "onboard_time": 1775383281,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237098,
+      "num": 237098,
+      "word": "孔刘老了",
+      "onboard_time": 1775829924,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 236565,
@@ -4475,14 +4555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221386,
-      "num": 221386,
-      "word": "白鹿晒晚餐",
-      "onboard_time": 1775828123,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221190,
       "num": 221190,
       "word": "小女孩被离异父母双双拒收后续",
@@ -4676,7 +4748,7 @@
     },
     {
       "raw_hot": 214737,
-      "num": 214737,
+      "num": 238580,
       "word": "黄瓜拌菠萝火了",
       "onboard_time": 1775827823,
       "rank": 21,
@@ -5041,6 +5113,14 @@
       "onboard_time": 1775653642,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199851,
+      "num": 199851,
+      "word": "田曦薇这肌肉居然不是p的",
+      "onboard_time": 1775831426,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 199657,
@@ -6075,6 +6155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 162818,
+      "num": 162818,
+      "word": "张慧雯哭成了何悯鸿",
+      "onboard_time": 1775832443,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162797,
       "num": 162797,
       "word": "游客滞留玉龙雪山山顶致呕吐失温",
@@ -6945,6 +7033,14 @@
       "onboard_time": 1775657964,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138785,
+      "num": 240727,
+      "word": "警方通报父母离婚不接年幼乘客",
+      "onboard_time": 1775829806,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138782,
@@ -8107,6 +8203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117859,
+      "num": 240448,
+      "word": "买车为什么一定要有动力冗余",
+      "onboard_time": 1775830465,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117850,
       "num": 117850,
       "word": "张雪宣布捐赠嫣然加码",
@@ -9003,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104071,
+      "num": 104071,
+      "word": "中国科学家揭示左撇子真相",
+      "onboard_time": 1775831305,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103865,
       "num": 103865,
       "word": "王橹杰又画了小咴",
@@ -9252,7 +9364,7 @@
     },
     {
       "raw_hot": 101592,
-      "num": 101592,
+      "num": 104324,
       "word": "95后女生回村养6万条蛇年入百万",
       "onboard_time": 1775824642,
       "rank": 40,
@@ -10019,6 +10131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94287,
+      "num": 90989,
+      "word": "孙燕姿演唱会花车巡场",
+      "onboard_time": 1775830765,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94209,
       "num": 94209,
       "word": "爱在海边捡贝壳的人天塌了",
@@ -10376,6 +10496,14 @@
       "word": "顺德又一饭店被刘雨鑫带火",
       "onboard_time": 1775732601,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91165,
+      "num": 91165,
+      "word": "交警回应私家车遭运钞车别车",
+      "onboard_time": 1775831904,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -11051,6 +11179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85482,
+      "num": 85482,
+      "word": "刘诗诗王安宇孙千同框",
+      "onboard_time": 1775821883,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85475,
       "num": 85475,
       "word": "张月队完颜团",
@@ -11419,6 +11555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82863,
+      "num": 82863,
+      "word": "EXO开场唱MAMA",
+      "onboard_time": 1775832804,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82776,
       "num": 82776,
       "word": "银行网点招人要求男185cm女175cm",
@@ -11665,6 +11809,14 @@
       "onboard_time": 1775782161,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 81036,
+      "num": 81036,
+      "word": "阚清子团全员晋级",
+      "onboard_time": 1775831664,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 81026,
@@ -12443,14 +12595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76135,
-      "num": 76135,
-      "word": "刘诗诗王安宇孙千同框",
-      "onboard_time": 1775821883,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76096,
       "num": 76096,
       "word": "浪姐垫音",
@@ -12489,6 +12633,14 @@
       "onboard_time": 1775346737,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75861,
+      "num": 75861,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1775829563,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 75761,
@@ -13323,6 +13475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69399,
+      "num": 75857,
+      "word": "刘浩存中国电影盛典舞蹈",
+      "onboard_time": 1775832984,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69352,
       "num": 69352,
       "word": "伊朗人这样做回应特朗普恐吓",
@@ -13497,6 +13657,14 @@
       "onboard_time": 1775386702,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68224,
+      "num": 75736,
+      "word": "武汉雨后10斤鲤鱼上岸目击者发声",
+      "onboard_time": 1775830885,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68121,
@@ -13689,6 +13857,14 @@
       "onboard_time": 1775530401,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66504,
+      "num": 79182,
+      "word": "JDG压制AL",
+      "onboard_time": 1775832024,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 66377,
@@ -14067,6 +14243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62646,
+      "num": 232983,
+      "word": "中信证券爆发原因",
+      "onboard_time": 1775832324,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62438,
       "num": 74921,
       "word": "四川相当于又多了一座金山",
@@ -14435,6 +14619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59137,
+      "num": 79084,
+      "word": "伊朗武装部队称随时准备开火",
+      "onboard_time": 1775831904,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59130,
       "num": 76048,
       "word": "孙千的头不恐高吗",
@@ -14753,6 +14945,14 @@
       "onboard_time": 1775750001,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55931,
+      "num": 79049,
+      "word": "华为Pura90系列配色",
+      "onboard_time": 1775830103,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 55836,
@@ -15443,6 +15643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43168,
+      "num": 768988,
+      "word": "我国海水直接制氢取得研究新突破",
+      "onboard_time": 1775827762,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41956,
       "num": 81220,
       "word": "合伙人定档官宣",
@@ -15721,14 +15929,6 @@
       "onboard_time": 1775667739,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35202,
-      "num": 768988,
-      "word": "我国海水直接制氢取得研究新突破",
-      "onboard_time": 1775827762,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35162,
