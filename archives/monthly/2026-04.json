@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775801055224,
+  "endTime": 1775801837588,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -427,6 +427,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1337382,
+      "num": 181037,
+      "word": "程晓玥回应当年分手",
+      "onboard_time": 1775799623,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1332536,
       "num": 251994,
       "word": "芭乐 早知道烂地里了",
@@ -513,14 +521,6 @@
       "onboard_time": 1775188281,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1186888,
-      "num": 181037,
-      "word": "程晓玥回应当年分手",
-      "onboard_time": 1775799623,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1185320,
@@ -4251,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355749,
+      "num": 874162,
+      "word": "李在明转发以色列士兵虐童视频",
+      "onboard_time": 1775795124,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 355449,
       "num": 220658,
       "word": "老爸收入不敌女儿卖拼豆直呼崩溃",
@@ -4489,14 +4497,6 @@
       "onboard_time": 1775299702,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340853,
-      "num": 874162,
-      "word": "李在明转发以色列士兵虐童视频",
-      "onboard_time": 1775795124,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 340697,
@@ -4811,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321601,
+      "num": 321601,
+      "word": "婆婆得知儿子被海葬状告儿媳孙女",
+      "onboard_time": 1775796324,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321576,
       "num": 180056,
       "word": "方博回应国家队大门敞开",
@@ -4880,14 +4888,6 @@
       "word": "医保政策调整",
       "onboard_time": 1775184801,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318244,
-      "num": 318244,
-      "word": "婆婆得知儿子被海葬状告儿媳孙女",
-      "onboard_time": 1775796324,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -5187,6 +5187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305184,
+      "num": 305184,
+      "word": "男子杀害22岁前女友藏床底开冷气",
+      "onboard_time": 1775798543,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304970,
       "num": 133015,
       "word": "广电总局批部分剧集演员妆容过重",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1775557039,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298765,
+      "num": 298765,
+      "word": "浪姐曾邀请孟子义被拒绝了",
+      "onboard_time": 1775798903,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 297523,
@@ -5593,14 +5609,6 @@
       "onboard_time": 1775304864,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285132,
-      "num": 285132,
-      "word": "男子杀害22岁前女友藏床底开冷气",
-      "onboard_time": 1775798543,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284172,
@@ -6115,6 +6123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265898,
+      "num": 265898,
+      "word": "李斌称闪充再快也比换电慢",
+      "onboard_time": 1775799383,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 265866,
       "num": 265866,
       "word": "伊朗媒体发布美国F35残骸照",
@@ -6609,6 +6625,14 @@
       "onboard_time": 1775641643,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247847,
+      "num": 202394,
+      "word": "医生分析黄子韬嘴唇发紫原因",
+      "onboard_time": 1775799202,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 247784,
@@ -7451,14 +7475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220152,
-      "num": 220152,
-      "word": "李斌称闪充再快也比换电慢",
-      "onboard_time": 1775799383,
-      "rank": 6,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 219738,
       "num": 286843,
       "word": "曝伊朗国产防空武器无法被美锁定",
@@ -7641,14 +7657,6 @@
       "onboard_time": 1775397145,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214105,
-      "num": 214105,
-      "word": "浪姐曾邀请孟子义被拒绝了",
-      "onboard_time": 1775798903,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 214066,
@@ -8121,14 +8129,6 @@
       "onboard_time": 1775517379,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 202394,
-      "num": 202394,
-      "word": "医生分析黄子韬嘴唇发紫原因",
-      "onboard_time": 1775799202,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 201891,
@@ -12771,6 +12771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122476,
+      "num": 122476,
+      "word": "王者荣耀世界开服曲上线",
+      "onboard_time": 1775801302,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122432,
       "num": 122432,
       "word": "俄罗斯摄影师粉染母象致死",
@@ -13097,6 +13105,14 @@
       "onboard_time": 1775625324,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119892,
+      "num": 172635,
+      "word": "伊朗最高领袖发表最新声明",
+      "onboard_time": 1775800822,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119852,
@@ -14265,6 +14281,14 @@
       "onboard_time": 1775709142,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 108496,
+      "num": 195670,
+      "word": "班费一年三四千还说家长是自愿的",
+      "onboard_time": 1775798183,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108475,
@@ -16467,6 +16491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94764,
+      "num": 186871,
+      "word": "莫氏鸡煲老板说一天只花20发财没用",
+      "onboard_time": 1775800162,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94713,
       "num": 94713,
       "word": "中国诗词大会年度总冠军",
@@ -16857,6 +16889,14 @@
       "onboard_time": 1775012302,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92779,
+      "num": 92779,
+      "word": "老人生前埋20万现金叮嘱留儿女",
+      "onboard_time": 1775801722,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92697,
@@ -18067,6 +18107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86815,
+      "num": 175383,
+      "word": "初三女生被5名舍友殴打校长被停职",
+      "onboard_time": 1775798963,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 86795,
       "num": 86795,
       "word": "网剧宝珠",
@@ -18763,14 +18811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84102,
-      "num": 195670,
-      "word": "班费一年三四千还说家长是自愿的",
-      "onboard_time": 1775798183,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84050,
       "num": 84050,
       "word": "重庆铜梁龙",
@@ -19403,6 +19443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80869,
+      "num": 77956,
+      "word": "全军第一支常规弹道导弹部队",
+      "onboard_time": 1775801302,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 80859,
       "num": 97885,
       "word": "00后白事唢呐师称不愿让孩子接班",
@@ -19811,14 +19859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78841,
-      "num": 186871,
-      "word": "莫氏鸡煲老板说一天只花20发财没用",
-      "onboard_time": 1775800162,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78839,
       "num": 88553,
       "word": "偏爱女性的桥本病要不要治",
@@ -20081,6 +20121,14 @@
       "onboard_time": 1775557881,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77773,
+      "num": 77773,
+      "word": "黄友政2比3普卡",
+      "onboard_time": 1775801302,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 77766,
@@ -20393,6 +20441,14 @@
       "onboard_time": 1775663061,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76551,
+      "num": 176673,
+      "word": "卫健委回应卫生院工作人员上班化妆",
+      "onboard_time": 1775794645,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76530,
@@ -21051,12 +21107,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 73583,
+      "num": 173996,
+      "word": "DFM对战北京WBG",
+      "onboard_time": 1775797284,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73548,
       "num": 73548,
       "word": "张雪年轻时设计摩托车至今还畅销",
       "onboard_time": 1775230223,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73530,
+      "num": 73530,
+      "word": "稳定币概念异动拉升",
+      "onboard_time": 1775801781,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 73510,
@@ -21496,14 +21568,6 @@
       "word": "墨江文旅局长被人怼脸抹黑",
       "onboard_time": 1775187200,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71350,
-      "num": 176673,
-      "word": "卫健委回应卫生院工作人员上班化妆",
-      "onboard_time": 1775794645,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -22097,14 +22161,6 @@
       "onboard_time": 1775444901,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68725,
-      "num": 175383,
-      "word": "初三女生被5名舍友殴打校长被停职",
-      "onboard_time": 1775798963,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 68559,
@@ -22707,14 +22763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64375,
-      "num": 172635,
-      "word": "伊朗最高领袖发表最新声明",
-      "onboard_time": 1775800822,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64370,
       "num": 83129,
       "word": "万斯演讲现场给特朗普打电话",
@@ -22915,6 +22963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63177,
+      "num": 64512,
+      "word": "A股收复4000点关口",
+      "onboard_time": 1775801422,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 63143,
       "num": 63143,
       "word": "BLG赛后聚餐",
@@ -22961,14 +23017,6 @@
       "onboard_time": 1775660423,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62798,
-      "num": 173996,
-      "word": "DFM对战北京WBG",
-      "onboard_time": 1775797284,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 62760,
@@ -23193,6 +23241,14 @@
       "onboard_time": 1775376081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61285,
+      "num": 170125,
+      "word": "国家将为大家开发AI慕课",
+      "onboard_time": 1775799443,
+      "rank": 41,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 61279,
@@ -23555,6 +23611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59340,
+      "num": 59340,
+      "word": "新世纪福音战士",
+      "onboard_time": 1775801422,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 59312,
+      "num": 59312,
+      "word": "研究发现血型和疾病的发生有相关性",
+      "onboard_time": 1775801781,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59281,
       "num": 59281,
       "word": "美伊都在找一名跳伞美军",
@@ -23665,6 +23737,14 @@
       "onboard_time": 1775476102,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58312,
+      "num": 58312,
+      "word": "种地吧",
+      "onboard_time": 1775800763,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 58274,
@@ -24195,14 +24275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52363,
-      "num": 170125,
-      "word": "国家将为大家开发AI慕课",
-      "onboard_time": 1775799443,
-      "rank": 41,
-      "category": "教育,互联网"
-    },
-    {
       "raw_hot": 52256,
       "num": 102447,
       "word": "美军战机被击落意味着冲突大幅升级",
@@ -24489,6 +24561,14 @@
       "onboard_time": 1775145561,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48968,
+      "num": 105848,
+      "word": "官方回应奔驰豪车被当陪葬品",
+      "onboard_time": 1775801360,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48595,
@@ -26217,6 +26297,14 @@
       "onboard_time": 1775186721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23279,
+      "num": 106451,
+      "word": "母亲成植物人获赔116万兄弟起争执",
+      "onboard_time": 1775801422,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23051,
