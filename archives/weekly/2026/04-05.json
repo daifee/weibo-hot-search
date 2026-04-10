@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775833016294,
+  "endTime": 1775834085415,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1703363,
-      "num": 280316,
+      "num": 281249,
       "word": "赵子琪淘汰",
       "onboard_time": 1775831066,
       "rank": 5,
@@ -435,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1077365,
+      "num": 273191,
+      "word": "温峥嵘",
+      "onboard_time": 1775832264,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1073556,
       "num": 703218,
       "word": "谢娜裙摆被踩掉了",
@@ -449,6 +457,14 @@
       "onboard_time": 1775570722,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062089,
+      "num": 270006,
+      "word": "孙怡爆哭",
+      "onboard_time": 1775832324,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1043300,
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 833663,
+      "num": 1273426,
+      "word": "浪姐排名",
+      "onboard_time": 1775831124,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828046,
       "num": 159186,
       "word": "特朗普认为是中国促使伊朗同意停火",
@@ -795,14 +819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 771476,
-      "num": 242767,
-      "word": "孙怡爆哭",
-      "onboard_time": 1775832324,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 763047,
       "num": 238905,
       "word": "瞿颖 肉毒起作用了",
@@ -873,14 +889,6 @@
       "onboard_time": 1775379861,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 732978,
-      "num": 1273426,
-      "word": "浪姐排名",
-      "onboard_time": 1775831124,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 726991,
@@ -1059,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 629939,
-      "num": 241962,
-      "word": "温峥嵘",
-      "onboard_time": 1775832264,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626293,
       "num": 187459,
       "word": "中方称涉伊朗决议草案极不平衡",
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 567331,
-      "num": 241590,
+      "num": 262786,
       "word": "网红一栗小莎子因癌症剃光头",
       "onboard_time": 1775830044,
       "rank": 14,
@@ -2076,7 +2076,7 @@
     },
     {
       "raw_hot": 416472,
-      "num": 241193,
+      "num": 250146,
       "word": "白鹿晒晚餐",
       "onboard_time": 1775828123,
       "rank": 20,
@@ -2337,6 +2337,14 @@
       "onboard_time": 1775488702,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391078,
+      "num": 258330,
+      "word": "穆祉丞 我爱杰哥",
+      "onboard_time": 1775831783,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 391053,
@@ -2753,14 +2761,6 @@
       "onboard_time": 1775364742,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 349143,
-      "num": 240949,
-      "word": "穆祉丞 我爱杰哥",
-      "onboard_time": 1775831783,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 348202,
@@ -4188,7 +4188,7 @@
     },
     {
       "raw_hot": 243032,
-      "num": 243032,
+      "num": 276698,
       "word": "JDG战胜AL",
       "onboard_time": 1775831664,
       "rank": 7,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1775453062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235765,
+      "num": 235765,
+      "word": "田曦薇这肌肉居然不是p的",
+      "onboard_time": 1775831426,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 235040,
@@ -5113,14 +5121,6 @@
       "onboard_time": 1775653642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199851,
-      "num": 199851,
-      "word": "田曦薇这肌肉居然不是p的",
-      "onboard_time": 1775831426,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 199657,
@@ -7036,7 +7036,7 @@
     },
     {
       "raw_hot": 138785,
-      "num": 240727,
+      "num": 259006,
       "word": "警方通报父母离婚不接年幼乘客",
       "onboard_time": 1775829806,
       "rank": 18,
@@ -7811,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123806,
+      "num": 123806,
+      "word": "EXO开场唱MAMA",
+      "onboard_time": 1775832804,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123687,
       "num": 167821,
       "word": "压塌20年樱花树女子认错愿赔偿",
@@ -7897,6 +7905,14 @@
       "onboard_time": 1775457503,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122689,
+      "num": 122689,
+      "word": "虞书欣Ins更新",
+      "onboard_time": 1775833225,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 122672,
@@ -8467,6 +8483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112259,
+      "num": 240975,
+      "word": "中国科学家揭示左撇子真相",
+      "onboard_time": 1775831305,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112010,
       "num": 112010,
       "word": "TES战胜AL",
@@ -8569,6 +8593,14 @@
       "onboard_time": 1775522121,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110366,
+      "num": 251223,
+      "word": "以军当学生面打死加沙小女孩",
+      "onboard_time": 1775833225,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110310,
@@ -9107,14 +9139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104071,
-      "num": 104071,
-      "word": "中国科学家揭示左撇子真相",
-      "onboard_time": 1775831305,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 103865,
       "num": 103865,
       "word": "王橹杰又画了小咴",
@@ -9499,6 +9523,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 100234,
+      "num": 100234,
+      "word": "交警回应私家车遭运钞车别车",
+      "onboard_time": 1775831904,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100122,
       "num": 100122,
       "word": "芒果音乐节阵容",
@@ -9657,6 +9689,14 @@
       "onboard_time": 1775351480,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98470,
+      "num": 98470,
+      "word": "Tarzan被Junjia刷绝食",
+      "onboard_time": 1775833943,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 98398,
@@ -9889,6 +9929,14 @@
       "onboard_time": 1775379861,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96337,
+      "num": 96337,
+      "word": "孙燕姿演唱会花车巡场",
+      "onboard_time": 1775830765,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 96318,
@@ -10129,14 +10177,6 @@
       "onboard_time": 1775518579,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94287,
-      "num": 90989,
-      "word": "孙燕姿演唱会花车巡场",
-      "onboard_time": 1775830765,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 94209,
@@ -10496,14 +10536,6 @@
       "word": "顺德又一饭店被刘雨鑫带火",
       "onboard_time": 1775732601,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91165,
-      "num": 91165,
-      "word": "交警回应私家车遭运钞车别车",
-      "onboard_time": 1775831904,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -11555,14 +11587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82863,
-      "num": 82863,
-      "word": "EXO开场唱MAMA",
-      "onboard_time": 1775832804,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 82776,
       "num": 82776,
       "word": "银行网点招人要求男185cm女175cm",
@@ -12097,6 +12121,14 @@
       "onboard_time": 1775726301,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79016,
+      "num": 79016,
+      "word": "伦敦世乒赛种子位参赛名单",
+      "onboard_time": 1775833104,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 79013,
@@ -12803,6 +12835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74310,
+      "num": 75857,
+      "word": "刘浩存中国电影盛典舞蹈",
+      "onboard_time": 1775832984,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74299,
       "num": 74299,
       "word": "日本人谈在上海旅游的感受",
@@ -13291,6 +13331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70661,
+      "num": 75736,
+      "word": "武汉雨后10斤鲤鱼上岸目击者发声",
+      "onboard_time": 1775830885,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70600,
       "num": 70600,
       "word": "文班亚马肋骨挫伤",
@@ -13475,14 +13523,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 69399,
-      "num": 75857,
-      "word": "刘浩存中国电影盛典舞蹈",
-      "onboard_time": 1775832984,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 69352,
       "num": 69352,
       "word": "伊朗人这样做回应特朗普恐吓",
@@ -13659,20 +13699,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 68224,
-      "num": 75736,
-      "word": "武汉雨后10斤鲤鱼上岸目击者发声",
-      "onboard_time": 1775830885,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68121,
       "num": 80033,
       "word": "不然辟谣回归",
       "onboard_time": 1775826923,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68079,
+      "num": 76641,
+      "word": "孙怡安慰张慧雯",
+      "onboard_time": 1775829924,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 68044,
@@ -13833,6 +13873,14 @@
       "onboard_time": 1775480722,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66989,
+      "num": 66989,
+      "word": "张函瑞空降给粉丝唱歌",
+      "onboard_time": 1775833643,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 66979,
@@ -14620,7 +14668,7 @@
     },
     {
       "raw_hot": 59137,
-      "num": 79084,
+      "num": 191851,
       "word": "伊朗武装部队称随时准备开火",
       "onboard_time": 1775831904,
       "rank": 42,
@@ -14931,6 +14979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56135,
+      "num": 63755,
+      "word": "男子杀害女儿5个月前买了意外险",
+      "onboard_time": 1775833405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56091,
       "num": 56091,
       "word": "镜头是爱意的具象化",
@@ -15129,6 +15185,14 @@
       "onboard_time": 1775380040,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53847,
+      "num": 71989,
+      "word": "伊斯兰堡已进入红色警戒",
+      "onboard_time": 1775833943,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53727,
@@ -17076,6 +17140,9 @@
     },
     {
       "word": "#两岸同胞走到一起的大潮流不会变#"
+    },
+    {
+      "word": "#习近平总书记说到了这些共同#"
     }
   ]
 }
