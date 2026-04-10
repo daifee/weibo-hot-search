@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/11 00:02:44 ~ 2026/04/11 04:03:33
+本榜单时间：2026/04/11 00:02:44 ~ 2026/04/11 04:49:21
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@ Tarzan被Junjia刷绝食（热度：41621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%AE%98%E5%AE%A3%E7%89%A9%E6%96%99%23" target="weibo">
 十日终焉官宣物料（热度：14976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%BD%A0%E8%80%8C%E6%9D%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
+音你而来直播（热度：11090）
 </a>
 </li>
 
