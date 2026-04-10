@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775858607112,
+  "endTime": 1775861196666,
   "band_list": [
     {
       "raw_hot": 1389964,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 263880,
-      "num": 263880,
+      "num": 370662,
       "word": "这些品牌竟然都是假洋牌",
       "onboard_time": 1775826322,
       "rank": 4,
@@ -145,6 +145,14 @@
       "onboard_time": 1775831426,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144859,
+      "num": 144859,
+      "word": "各方同意以伊方十点方案为谈判基础",
+      "onboard_time": 1775840958,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144756,
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93180,
-      "num": 93180,
-      "word": "各方同意以伊方十点方案为谈判基础",
-      "onboard_time": 1775840958,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88602,
       "num": 107591,
       "word": "魏大勋胡先煦十日终焉开机照",
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64220,
+      "num": 90815,
+      "word": "被害女医学生母亲频繁吐血",
+      "onboard_time": 1775838023,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62761,
       "num": 105035,
       "word": "刘浩存中国电影盛典舞蹈",
@@ -387,20 +395,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60150,
-      "num": 90815,
-      "word": "被害女医学生母亲频繁吐血",
-      "onboard_time": 1775838023,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59422,
       "num": 84738,
       "word": "孙燕姿演唱会花车巡场",
       "onboard_time": 1775830765,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54249,
+      "num": 43337,
+      "word": "饭圈乱象成影响体育事业的重大风险",
+      "onboard_time": 1775856734,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52582,
+      "num": 52582,
+      "word": "若以继续袭击黎巴嫩伊美谈判就暂停",
+      "onboard_time": 1775856674,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47012,
@@ -427,12 +443,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39467,
-      "num": 38040,
-      "word": "若以继续袭击黎巴嫩伊美谈判就暂停",
-      "onboard_time": 1775856674,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 36864,
+      "num": 84495,
+      "word": "张雪请李亚鹏监督捐款用在孩子身上",
+      "onboard_time": 1775840059,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35734,
@@ -440,14 +456,6 @@
       "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
       "onboard_time": 1775824702,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35732,
-      "num": 84495,
-      "word": "张雪请李亚鹏监督捐款用在孩子身上",
-      "onboard_time": 1775840059,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -483,20 +491,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32312,
+      "num": 39118,
+      "word": "肖战十日终焉无限流大ip",
+      "onboard_time": 1775843776,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31781,
       "num": 105631,
       "word": "华为Pura90系列配色",
       "onboard_time": 1775830103,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 31645,
-      "num": 19089,
-      "word": "饭圈乱象成影响体育事业的重大风险",
-      "onboard_time": 1775856734,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 29828,
@@ -515,11 +523,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27326,
-      "num": 39118,
-      "word": "肖战十日终焉无限流大ip",
-      "onboard_time": 1775843776,
-      "rank": 31,
+      "raw_hot": 22105,
+      "num": 23605,
+      "word": "杨紫创平台女性角色历史最高",
+      "onboard_time": 1775848815,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -529,6 +537,14 @@
       "onboard_time": 1775846594,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20394,
+      "num": 23603,
+      "word": "两岸同胞共同书写了中国历史",
+      "onboard_time": 1775856734,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18645,
@@ -547,20 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16568,
-      "num": 21817,
-      "word": "杨紫创平台女性角色历史最高",
-      "onboard_time": 1775848815,
-      "rank": 37,
+      "raw_hot": 15513,
+      "num": 23602,
+      "word": "十日终焉官宣物料",
+      "onboard_time": 1775850915,
+      "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15809,
-      "num": 15809,
-      "word": "两岸同胞共同书写了中国历史",
-      "onboard_time": 1775856734,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15055,
@@ -568,14 +576,6 @@
       "word": "鞠婧祎连续7天在播剧角色热度第一",
       "onboard_time": 1775850735,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14976,
-      "num": 17959,
-      "word": "十日终焉官宣物料",
-      "onboard_time": 1775850915,
-      "rank": 33,
       "category": "剧集"
     },
     {
