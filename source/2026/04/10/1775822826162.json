@@ -1,0 +1,410 @@
+{
+  "runTime": 1775822826162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1943806,
+        "num": 1943806,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 0,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 563463,
+        "num": 927645,
+        "word": "莫氏鸡煲公开秘方",
+        "onboard_time": 1775816121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17533,
+        "num": 765105,
+        "word": "高质量发展中国行",
+        "onboard_time": 1775806220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245997,
+        "num": 245997,
+        "word": "周也亮相穿普拉达的女王2首映",
+        "onboard_time": 1775819480,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215648,
+        "num": 215648,
+        "word": "浪姐",
+        "onboard_time": 1775791041,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242371,
+        "num": 214304,
+        "word": "发现了辛苦了这句话的最佳回复",
+        "onboard_time": 1775816662,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169178,
+        "num": 169178,
+        "word": "穿普拉达的女王2中国首映礼",
+        "onboard_time": 1775818281,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164953,
+        "num": 164953,
+        "word": "中方回应日本降级中日关系",
+        "onboard_time": 1775809823,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147398,
+        "num": 147398,
+        "word": "以色列向美国施压",
+        "onboard_time": 1775816722,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137172,
+        "num": 137172,
+        "word": "雷军回应小米冰淇淋",
+        "onboard_time": 1775810181,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2487931,
+        "num": 136323,
+        "word": "浪姐一公直播",
+        "onboard_time": 1775818281,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780144,
+        "num": 135478,
+        "word": "韩国卫生巾 免费",
+        "onboard_time": 1775820682,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507771,
+        "num": 133114,
+        "word": "儿子离世被媳孙善意隐瞒老人索赔50万",
+        "onboard_time": 1775818281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236743,
+        "num": 131811,
+        "word": "赵丽颖工作室发楚乔传采访",
+        "onboard_time": 1775814320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216744,
+        "num": 131679,
+        "word": "957报名考编",
+        "onboard_time": 1775820922,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172365,
+        "num": 129942,
+        "word": "十日终焉开机",
+        "onboard_time": 1775796386,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165035,
+        "num": 128849,
+        "word": "阚清子选择曾沛慈团",
+        "onboard_time": 1775822602,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127692,
+        "num": 127692,
+        "word": "金正恩会见王毅",
+        "onboard_time": 1775820801,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171919,
+        "num": 127531,
+        "word": "李晟十日终焉选角好贴脸",
+        "onboard_time": 1775804420,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101809,
+        "num": 126994,
+        "word": "打压遏制中国到了疯狂的程度",
+        "onboard_time": 1775814682,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149732,
+        "num": 126639,
+        "word": "丁程鑫张真源因行程原因未能同游",
+        "onboard_time": 1775819602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178939,
+        "num": 126569,
+        "word": "张晋蔡少芬6岁儿子近照",
+        "onboard_time": 1775818700,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167477,
+        "num": 125887,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125857,
+        "num": 125857,
+        "word": "冰湖重生",
+        "onboard_time": 1775822180,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125404,
+        "num": 125404,
+        "word": "杨洋为了升金V发博",
+        "onboard_time": 1775819602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110721,
+        "num": 122351,
+        "word": "为什么穿睡衣那么显瘦",
+        "onboard_time": 1775821462,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120186,
+        "num": 120186,
+        "word": "原来王楚然早期长这样啊",
+        "onboard_time": 1775813361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116455,
+        "num": 116455,
+        "word": "刘诗诗送朴宝剑宝瓶花",
+        "onboard_time": 1775814621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96205,
+        "num": 111350,
+        "word": "小米食堂说冰淇淋机快冒烟了",
+        "onboard_time": 1775816061,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "穆祉丞去看张杰演唱会了",
+        "onboard_time": 1775822363,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110216,
+        "num": 110216,
+        "word": "肖战毛晓慧合作十日终焉",
+        "onboard_time": 1775804181,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95933,
+        "num": 95933,
+        "word": "每天揉3分钟肝血充足眼睛明亮",
+        "onboard_time": 1775817502,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92154,
+        "num": 92154,
+        "word": "陶喆将在巡演100场后收官",
+        "onboard_time": 1775820861,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78449,
+        "num": 78449,
+        "word": "53条中日航线3月取消全部航班",
+        "onboard_time": 1775819121,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76291,
+        "num": 76291,
+        "word": "学会了蔡依林演唱会作弊式穿搭",
+        "onboard_time": 1775821883,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76135,
+        "num": 76135,
+        "word": "刘诗诗王安宇孙千同框",
+        "onboard_time": 1775821883,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69066,
+        "num": 76133,
+        "word": "救助猫因主人猝逝躲床单",
+        "onboard_time": 1775819060,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69262,
+        "num": 76122,
+        "word": "阚清子一公造型",
+        "onboard_time": 1775822662,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68610,
+        "num": 76116,
+        "word": "日本外交蓝皮书降级中日关系",
+        "onboard_time": 1775804541,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61876,
+        "num": 76110,
+        "word": "亚锦赛梁王不敌任何遭淘汰",
+        "onboard_time": 1775821822,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74743,
+        "num": 76103,
+        "word": "王安宇 高端的帅哥只需简单的黑T",
+        "onboard_time": 1775817502,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67590,
+        "num": 76089,
+        "word": "毛晓慧领衔主演十日终焉",
+        "onboard_time": 1775807782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64304,
+        "num": 76088,
+        "word": "极氪发布会",
+        "onboard_time": 1775822123,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60460,
+        "num": 76075,
+        "word": "中产家长开始抛弃国际学校了",
+        "onboard_time": 1775815041,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63042,
+        "num": 76073,
+        "word": "边伯贤离开INB100",
+        "onboard_time": 1775807122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61926,
+        "num": 76064,
+        "word": "王橹杰大V领 是好男孩吗",
+        "onboard_time": 1775819421,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57407,
+        "num": 76056,
+        "word": "我奶的联系人备注",
+        "onboard_time": 1775803161,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59130,
+        "num": 76048,
+        "word": "孙千的头不恐高吗",
+        "onboard_time": 1775822542,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55752,
+        "num": 76038,
+        "word": "伊朗最高领袖发表最新声明",
+        "onboard_time": 1775800822,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50162,
+        "num": 76032,
+        "word": "山西省考成绩",
+        "onboard_time": 1775817742,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在京会见郑丽文#"
+    }
+  }
+}
