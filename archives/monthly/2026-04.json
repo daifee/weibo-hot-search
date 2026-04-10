@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775854161182,
+  "endTime": 1775855058363,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -28851,6 +28851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11474,
+      "num": 17464,
+      "word": "音你而来直播",
+      "onboard_time": 1775849533,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11412,
       "num": 17812,
       "word": "鞠婧祎想狐的风还是吹到了大漠",
@@ -28881,14 +28889,6 @@
       "onboard_time": 1775127441,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11090,
-      "num": 14304,
-      "word": "音你而来直播",
-      "onboard_time": 1775849533,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 10458,
