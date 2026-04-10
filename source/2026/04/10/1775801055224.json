@@ -1,0 +1,410 @@
+{
+  "runTime": 1775801055224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172343,
+        "num": 1187574,
+        "word": "十日终焉开机",
+        "onboard_time": 1775796386,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340853,
+        "num": 874162,
+        "word": "李在明转发以色列士兵虐童视频",
+        "onboard_time": 1775795124,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16761,
+        "num": 682771,
+        "word": "赏花经济开出四季春",
+        "onboard_time": 1775790321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448493,
+        "num": 448493,
+        "word": "胡先煦官宣十日终焉",
+        "onboard_time": 1775798244,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318244,
+        "num": 318244,
+        "word": "婆婆得知儿子被海葬状告儿媳孙女",
+        "onboard_time": 1775796324,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285132,
+        "num": 285132,
+        "word": "男子杀害22岁前女友藏床底开冷气",
+        "onboard_time": 1775798543,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220152,
+        "num": 220152,
+        "word": "李斌称闪充再快也比换电慢",
+        "onboard_time": 1775799383,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214105,
+        "num": 214105,
+        "word": "浪姐曾邀请孟子义被拒绝了",
+        "onboard_time": 1775798903,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142137,
+        "num": 213636,
+        "word": "用人民币感受日本物价",
+        "onboard_time": 1775792002,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140546,
+        "num": 211593,
+        "word": "詹姆斯罚球线内一步暴扣",
+        "onboard_time": 1775796386,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418312,
+        "num": 209794,
+        "word": "十日终焉首发阵容",
+        "onboard_time": 1775796865,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372165,
+        "num": 208138,
+        "word": "拜登儿子约战特朗普儿子",
+        "onboard_time": 1775795784,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356033,
+        "num": 207903,
+        "word": "十日终焉",
+        "onboard_time": 1775778260,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328740,
+        "num": 206082,
+        "word": "单依纯工作室巡演版权说明",
+        "onboard_time": 1775796026,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135660,
+        "num": 204774,
+        "word": "夫妻7万买男婴为上户伪造弃婴",
+        "onboard_time": 1775792306,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203575,
+        "num": 203575,
+        "word": "马頔说李纯很假",
+        "onboard_time": 1775790621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202394,
+        "num": 202394,
+        "word": "医生分析黄子韬嘴唇发紫原因",
+        "onboard_time": 1775799202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104611,
+        "num": 201923,
+        "word": "AI写作年赚200万夫妻被封号",
+        "onboard_time": 1775786661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84102,
+        "num": 195670,
+        "word": "班费一年三四千还说家长是自愿的",
+        "onboard_time": 1775798183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78841,
+        "num": 186871,
+        "word": "莫氏鸡煲老板说一天只花20发财没用",
+        "onboard_time": 1775800162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186888,
+        "num": 181037,
+        "word": "程晓玥回应当年分手",
+        "onboard_time": 1775799623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178125,
+        "num": 178125,
+        "word": "黄子韬最新回应嘴唇发紫",
+        "onboard_time": 1775792306,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73718,
+        "num": 177804,
+        "word": "当你不小心坐了商场按摩椅",
+        "onboard_time": 1775791222,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117337,
+        "num": 177423,
+        "word": "刘琳琳回应长得像张凌赫",
+        "onboard_time": 1775792664,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100714,
+        "num": 177051,
+        "word": "黄景瑜王玉雯是王子奇介绍的吗",
+        "onboard_time": 1775794705,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71350,
+        "num": 176673,
+        "word": "卫健委回应卫生院工作人员上班化妆",
+        "onboard_time": 1775794645,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 176374,
+        "word": "肖战十日终焉台词",
+        "onboard_time": 1775796146,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87476,
+        "num": 175780,
+        "word": "杨紫小夭女性角色热度TOP1",
+        "onboard_time": 1775796506,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68725,
+        "num": 175383,
+        "word": "初三女生被5名舍友殴打校长被停职",
+        "onboard_time": 1775798963,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 56587,
+        "num": 175150,
+        "word": "霍尔木兹海峡完全关闭",
+        "onboard_time": 1775776998,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88478,
+        "num": 174439,
+        "word": "留学生吐槽欧洲比二手烟更严重的问题",
+        "onboard_time": 1775796026,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94502,
+        "num": 174182,
+        "word": "肖战十日终焉十面皆杀",
+        "onboard_time": 1775801002,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62798,
+        "num": 173996,
+        "word": "DFM对战北京WBG",
+        "onboard_time": 1775797284,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86817,
+        "num": 173394,
+        "word": "亲爱的客栈全员晒8年前照片",
+        "onboard_time": 1775797824,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 172904,
+        "word": "王玉雯方否认和黄景瑜恋情",
+        "onboard_time": 1775795845,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64375,
+        "num": 172635,
+        "word": "伊朗最高领袖发表最新声明",
+        "onboard_time": 1775800822,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82434,
+        "num": 172272,
+        "word": "楚乔传",
+        "onboard_time": 1775800162,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74197,
+        "num": 171729,
+        "word": "叶一茜说不如第一季就来浪姐",
+        "onboard_time": 1775793625,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61873,
+        "num": 171303,
+        "word": "打击伊朗期间美军消耗约760万杯咖啡",
+        "onboard_time": 1775793145,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70490,
+        "num": 171101,
+        "word": "疑似李楷灿恋爱",
+        "onboard_time": 1775788880,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69468,
+        "num": 170624,
+        "word": "张凌赫的夯爆时刻还在持续",
+        "onboard_time": 1775797044,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52363,
+        "num": 170125,
+        "word": "国家将为大家开发AI慕课",
+        "onboard_time": 1775799443,
+        "rank": 41,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 63774,
+        "num": 169648,
+        "word": "浪姐",
+        "onboard_time": 1775791041,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63132,
+        "num": 169271,
+        "word": "逐玉庆功宴真要来了",
+        "onboard_time": 1775783722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60792,
+        "num": 169042,
+        "word": "开封一卫生院员工上班时间化妆追剧",
+        "onboard_time": 1775796865,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60960,
+        "num": 168596,
+        "word": "郑钧送15岁儿子出国上学",
+        "onboard_time": 1775784141,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60047,
+        "num": 167940,
+        "word": "安徽就不参与南北之争了",
+        "onboard_time": 1775796683,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57470,
+        "num": 167450,
+        "word": "梁文锋回应DeepSeekV4发布时间",
+        "onboard_time": 1775799742,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54854,
+        "num": 167200,
+        "word": "五月天鸟巢演唱会抢票",
+        "onboard_time": 1775797465,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54398,
+        "num": 166921,
+        "word": "春季的穿衣法则被网友拿捏了",
+        "onboard_time": 1775798963,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈为民造福是最大政绩#"
+    }
+  }
+}
