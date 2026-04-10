@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775847921263,
+  "endTime": 1775849320033,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -23907,6 +23907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66461,
+      "num": 66461,
+      "word": "阚清子团选择曾沛慈团",
+      "onboard_time": 1775846116,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66282,
       "num": 162889,
       "word": "奥迪E7X媒体闭门沟通会泄密",
@@ -25979,14 +25987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51522,
-      "num": 51522,
-      "word": "阚清子团选择曾沛慈团",
-      "onboard_time": 1775846116,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51154,
       "num": 54031,
       "word": "市委书记随行学生徒步祭英烈",
@@ -27427,6 +27427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31083,
+      "num": 26200,
+      "word": "美伊谈判倒计时",
+      "onboard_time": 1775846594,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31081,
       "num": 120700,
       "word": "为弟追凶24年案即将二审",
@@ -27641,14 +27649,6 @@
       "onboard_time": 1775744004,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27907,
-      "num": 26200,
-      "word": "美伊谈判倒计时",
-      "onboard_time": 1775846594,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27862,
@@ -28601,6 +28601,14 @@
       "onboard_time": 1775069835,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15693,
+      "num": 21817,
+      "word": "杨紫创平台女性角色历史最高",
+      "onboard_time": 1775848815,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 15675,

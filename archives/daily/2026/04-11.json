@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775847921263,
+  "endTime": 1775849320033,
   "band_list": [
     {
       "raw_hot": 1389964,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66461,
+      "num": 66461,
+      "word": "阚清子团选择曾沛慈团",
+      "onboard_time": 1775846116,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62761,
       "num": 105035,
       "word": "刘浩存中国电影盛典舞蹈",
@@ -393,14 +401,6 @@
       "onboard_time": 1775830765,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51522,
-      "num": 51522,
-      "word": "阚清子团选择曾沛慈团",
-      "onboard_time": 1775846116,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 47012,
@@ -475,6 +475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31083,
+      "num": 26200,
+      "word": "美伊谈判倒计时",
+      "onboard_time": 1775846594,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29828,
       "num": 83511,
       "word": "21世纪大君夫人",
@@ -489,14 +497,6 @@
       "onboard_time": 1775835562,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27907,
-      "num": 26200,
-      "word": "美伊谈判倒计时",
-      "onboard_time": 1775846594,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27326,
@@ -529,6 +529,14 @@
       "onboard_time": 1775831904,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15693,
+      "num": 21817,
+      "word": "杨紫创平台女性角色历史最高",
+      "onboard_time": 1775848815,
+      "rank": 37,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
