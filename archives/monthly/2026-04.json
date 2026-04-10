@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775779324607,
+  "endTime": 1775791411700,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -521,6 +521,14 @@
       "onboard_time": 1775120243,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1165178,
+      "num": 1034215,
+      "word": "十日终焉",
+      "onboard_time": 1774951282,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 1160785,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1775133564,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797685,
+      "num": 75505,
+      "word": "SBTI测试结果被指随机生成",
+      "onboard_time": 1775788160,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 797426,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1775216722,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587597,
+      "num": 587597,
+      "word": "马頔说李纯很假",
+      "onboard_time": 1775790621,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 587463,
@@ -2875,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466418,
+      "num": 1074626,
+      "word": "AI写作年赚200万夫妻被封号",
+      "onboard_time": 1775786661,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463623,
       "num": 471498,
       "word": "美国的停火谈判被以色列加了备注",
@@ -3121,6 +3153,14 @@
       "onboard_time": 1775172439,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434557,
+      "num": 75172,
+      "word": "sbti图鉴",
+      "onboard_time": 1775788221,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 433081,
@@ -3731,14 +3771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387699,
-      "num": 1034215,
-      "word": "十日终焉",
-      "onboard_time": 1774951282,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386934,
       "num": 260504,
       "word": "张凌赫脱稿演讲六分半的含金量",
@@ -4011,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368174,
+      "num": 119201,
+      "word": "疑似李楷灿恋爱",
+      "onboard_time": 1775788880,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367213,
       "num": 367213,
       "word": "张雪回应陈光标捐款1000万",
@@ -4153,6 +4193,14 @@
       "onboard_time": 1775021305,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 356669,
+      "num": 75286,
+      "word": "SBTI送钱者",
+      "onboard_time": 1775788039,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 356532,
@@ -4545,6 +4593,14 @@
       "onboard_time": 1775706922,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 333715,
+      "num": 752836,
+      "word": "保时捷车主当交警面威胁或被拘留",
+      "onboard_time": 1775785223,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332882,
@@ -5017,6 +5073,14 @@
       "onboard_time": 1775561240,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306723,
+      "num": 198443,
+      "word": "美国第一夫人声明",
+      "onboard_time": 1775785939,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 306487,
@@ -6019,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262889,
+      "num": 191713,
+      "word": "王承渲多次在社交平台发文想离开",
+      "onboard_time": 1775786001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262791,
       "num": 559328,
       "word": "孙俪 当bro以为自己很有影响力",
@@ -6241,6 +6313,14 @@
       "onboard_time": 1775045302,
       "rank": 5,
       "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 255116,
+      "num": 117779,
+      "word": "郑钧送15岁儿子出国上学",
+      "onboard_time": 1775784141,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 254687,
@@ -6731,6 +6811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236797,
+      "num": 236797,
+      "word": "院长猥亵女员工后称分寸感没把握好",
+      "onboard_time": 1775790381,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236565,
       "num": 236565,
       "word": "讨好型人格小时候",
@@ -6897,6 +6985,14 @@
       "onboard_time": 1775539522,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231362,
+      "num": 185448,
+      "word": "马頔主动向李纯道歉",
+      "onboard_time": 1775781381,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 230971,
@@ -7163,11 +7259,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222069,
+      "num": 222069,
+      "word": "逐玉庆功宴真要来了",
+      "onboard_time": 1775783722,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221384,
       "num": 221384,
       "word": "银行回应老人存10万变7万",
       "onboard_time": 1775105601,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221190,
+      "num": 221190,
+      "word": "小女孩被离异父母双双拒收后续",
+      "onboard_time": 1775782642,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -7387,12 +7499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215519,
+      "num": 215519,
+      "word": "大疆创始人汪滔谈离职潮",
+      "onboard_time": 1775785580,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 214925,
       "num": 155053,
       "word": "午睡时间超1小时死亡风险增加30%",
       "onboard_time": 1775273060,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214599,
+      "num": 214599,
+      "word": "山西一49岁环保局长办公室内离世",
+      "onboard_time": 1775787141,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214467,
@@ -8835,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179488,
+      "num": 179488,
+      "word": "普京宣布停火32小时",
+      "onboard_time": 1775780541,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179027,
       "num": 179027,
       "word": "新浪娱乐头像换成毅朱瞻基",
@@ -9523,6 +9659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163509,
+      "num": 163509,
+      "word": "不要可怜任何一只被栓起来的猫",
+      "onboard_time": 1775786600,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163454,
       "num": 163454,
       "word": "世界杯",
@@ -10163,6 +10307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152889,
+      "num": 152889,
+      "word": "女子晒手指被劝去医院果然查出问题",
+      "onboard_time": 1775779521,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152872,
       "num": 152872,
       "word": "关晓彤比例 没有拉腿的义务",
@@ -10505,6 +10657,14 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146223,
+      "num": 146223,
+      "word": "十日终焉官博隐藏了一条视频",
+      "onboard_time": 1775791283,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 146048,
@@ -11675,6 +11835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131298,
+      "num": 131298,
+      "word": "逐玉没播前就定了将门独后副cp",
+      "onboard_time": 1775779521,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131291,
       "num": 119572,
       "word": "周杰伦给王俊凯杨迪变魔术",
@@ -11945,6 +12113,14 @@
       "onboard_time": 1775189482,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128296,
+      "num": 115522,
+      "word": "StrayKids全员身高超过170",
+      "onboard_time": 1775786180,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 128173,
@@ -13291,6 +13467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114378,
+      "num": 114378,
+      "word": "大疆pocket4新品盲拍",
+      "onboard_time": 1775790743,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114303,
       "num": 114303,
       "word": "晴天曝Kanavi耍大牌",
@@ -13569,6 +13753,14 @@
       "onboard_time": 1775459901,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110967,
+      "num": 75164,
+      "word": "SBTI爆火不只是一次简单解构",
+      "onboard_time": 1775787680,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 110870,
@@ -14667,6 +14859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103211,
+      "num": 75193,
+      "word": "测到SBTI尤物网友发声",
+      "onboard_time": 1775788460,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103175,
       "num": 103175,
       "word": "雇两个擦玻璃小工仅需1根猫条",
@@ -14713,6 +14913,14 @@
       "onboard_time": 1775172319,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102652,
+      "num": 116751,
+      "word": "把山搬进厂里是疯了还是清醒",
+      "onboard_time": 1775790743,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 102604,
@@ -15289,6 +15497,14 @@
       "onboard_time": 1775651301,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98980,
+      "num": 98980,
+      "word": "10后对90后的暴击",
+      "onboard_time": 1775790079,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 98913,
@@ -16483,6 +16699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92236,
+      "num": 85137,
+      "word": "记者实测SBTI测试结果太真实",
+      "onboard_time": 1775790923,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92206,
       "num": 92206,
       "word": "火箭少女101为徐梦洁打call",
@@ -17227,6 +17451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88591,
+      "num": 88591,
+      "word": "女子吐槽逛商场遇无隔断厕所",
+      "onboard_time": 1775791342,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88570,
       "num": 88570,
       "word": "张雪机车比赛中换轮胎一幕",
@@ -17273,6 +17505,14 @@
       "onboard_time": 1775275400,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88428,
+      "num": 75226,
+      "word": "sbti多情者",
+      "onboard_time": 1775788640,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 88421,
@@ -18083,6 +18323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84845,
+      "num": 84845,
+      "word": "61岁老太闪婚闪离30万彩礼判获10万",
+      "onboard_time": 1775789779,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84797,
       "num": 84797,
       "word": "李荣浩汪苏泷可以畅聊一晚上",
@@ -18297,6 +18545,14 @@
       "onboard_time": 1775573003,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84006,
+      "num": 84006,
+      "word": "腾讯视频剧集女性角色热度TOP10",
+      "onboard_time": 1775789119,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 83930,
@@ -18857,6 +19113,14 @@
       "onboard_time": 1775640081,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81056,
+      "num": 81056,
+      "word": "柯南M30预告新一小兰",
+      "onboard_time": 1775782161,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 81026,
@@ -19571,6 +19835,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 77695,
+      "num": 77695,
+      "word": "当你不小心坐了商场按摩椅",
+      "onboard_time": 1775791222,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77690,
       "num": 77690,
       "word": "肖战花絮照",
@@ -19617,6 +19889,14 @@
       "onboard_time": 1775382202,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77387,
+      "num": 77387,
+      "word": "华为Pura系列发布会定档",
+      "onboard_time": 1775784920,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 77375,
@@ -19801,6 +20081,14 @@
       "onboard_time": 1775367860,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 76626,
+      "num": 76626,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1775787741,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 76617,
@@ -20051,6 +20339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75571,
+      "num": 75571,
+      "word": "日本自卫队420人登上菲律宾",
+      "onboard_time": 1775780002,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75560,
       "num": 75560,
       "word": "张雪与湖南卫视立下新承诺",
@@ -20115,11 +20411,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75230,
+      "num": 75230,
+      "word": "76人vs火箭",
+      "onboard_time": 1775790982,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75158,
       "num": 75158,
       "word": "客人走后服务员单独笑了半小时",
       "onboard_time": 1775474601,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75144,
+      "num": 75144,
+      "word": "小猫每天睡16小时凭睡姿出圈",
+      "onboard_time": 1775785520,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -20145,6 +20457,14 @@
       "onboard_time": 1775455642,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75023,
+      "num": 212521,
+      "word": "王者荣耀世界上线",
+      "onboard_time": 1775790321,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 74994,
@@ -20217,6 +20537,14 @@
       "onboard_time": 1775033843,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74571,
+      "num": 74571,
+      "word": "多位书记省长会见一位外企高管",
+      "onboard_time": 1775788400,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74568,
@@ -20649,6 +20977,14 @@
       "onboard_time": 1775581038,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72097,
+      "num": 72097,
+      "word": "湖北省考成绩",
+      "onboard_time": 1775787860,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 72086,
@@ -23859,6 +24195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47177,
+      "num": 75450,
+      "word": "女子称逛商场遇零隔断女厕",
+      "onboard_time": 1775790982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47130,
       "num": 168211,
       "word": "印尼马鲁古海峡7.4级地震",
@@ -24321,6 +24665,14 @@
       "onboard_time": 1775131102,
       "rank": 19,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 39552,
+      "num": 85138,
+      "word": "降脂针进医保医生称无打针暴瘦案例",
+      "onboard_time": 1775790079,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39517,
@@ -25435,6 +25787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 23549,
+      "num": 75387,
+      "word": "去年全国每8个新生儿有1个来自广东",
+      "onboard_time": 1775791283,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23547,
       "num": 53663,
       "word": "檀健次何不同舟渡喝酒路透",
@@ -25601,6 +25961,14 @@
       "onboard_time": 1775739621,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21029,
+      "num": 612588,
+      "word": "赏花经济开出四季春",
+      "onboard_time": 1775790321,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20992,
@@ -26340,6 +26708,9 @@
     },
     {
       "word": "#总书记这些关心事与服务业发展相关#"
+    },
+    {
+      "word": "#总书记谈为民造福是最大政绩#"
     }
   ]
 }
