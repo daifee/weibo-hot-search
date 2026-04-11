@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775897796541,
+  "endTime": 1775898519178,
   "band_list": [
     {
       "raw_hot": 1595728,
@@ -99,20 +99,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624247,
+      "num": 624247,
+      "word": "谢娜右边臀腿瞬间凉凉透风",
+      "onboard_time": 1775896822,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604395,
       "num": 1045528,
       "word": "男子微信群多次侮辱全红婵被拘",
       "onboard_time": 1775822243,
       "rank": 1,
       "category": "辟谣/通报,体育"
-    },
-    {
-      "raw_hot": 566802,
-      "num": 566802,
-      "word": "谢娜右边臀腿瞬间凉凉透风",
-      "onboard_time": 1775896822,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 556202,
@@ -131,6 +131,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 528962,
+      "num": 176818,
+      "word": "周渝民妻子宣布复出",
+      "onboard_time": 1775894421,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524418,
       "num": 273841,
       "word": "疑似何与朋友点赞吐槽虞书欣言论",
@@ -145,14 +153,6 @@
       "onboard_time": 1775882840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 519029,
-      "num": 161820,
-      "word": "周渝民妻子宣布复出",
-      "onboard_time": 1775894421,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 509606,
@@ -185,6 +185,14 @@
       "onboard_time": 1775830044,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 451495,
+      "num": 176677,
+      "word": "张靓颖怒斥工作人员泄露未发行作品",
+      "onboard_time": 1775897181,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 443902,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 333451,
-      "num": 170202,
+      "num": 175707,
       "word": "张婉婷风波后首发文",
       "onboard_time": 1775889380,
       "rank": 38,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 317871,
-      "num": 161622,
+      "num": 176000,
       "word": "何超莲樱花照 窦骁视角",
       "onboard_time": 1775894181,
       "rank": 46,
@@ -377,6 +385,14 @@
       "onboard_time": 1775831783,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307852,
+      "num": 176477,
+      "word": "孙怡说以后不当队长了",
+      "onboard_time": 1775897723,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 305571,
@@ -451,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 277980,
-      "num": 161498,
-      "word": "张靓颖怒斥工作人员泄露未发行作品",
-      "onboard_time": 1775897181,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276080,
       "num": 161451,
       "word": "唐艺昕趴在李小冉腿上",
@@ -491,20 +499,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 259278,
+      "num": 259278,
+      "word": "原来我真能花100万",
+      "onboard_time": 1775892741,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247266,
       "num": 88823,
       "word": "秦昊和伊能静首次见面时非单身",
       "onboard_time": 1775863999,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241462,
-      "num": 241462,
-      "word": "原来我真能花100万",
-      "onboard_time": 1775892741,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 240548,
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177086,
+      "num": 323882,
+      "word": "汉堡馒头减肥法",
+      "onboard_time": 1775894481,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 177054,
       "num": 401438,
       "word": "各方同意以伊方十点方案为谈判基础",
@@ -691,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162040,
-      "num": 323882,
-      "word": "汉堡馒头减肥法",
-      "onboard_time": 1775894481,
-      "rank": 9,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 161534,
       "num": 177055,
       "word": "医生回应9斤婴儿出生1月瘦到7斤",
@@ -737,14 +745,6 @@
       "onboard_time": 1775862017,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146005,
-      "num": 146005,
-      "word": "孙怡说以后不当队长了",
-      "onboard_time": 1775897723,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 145424,
@@ -867,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126198,
+      "num": 111254,
+      "word": "终于知道北京人为什么不爱出门了",
+      "onboard_time": 1775898381,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124726,
       "num": 124726,
       "word": "男孩给太爷爷烧纸猫后竟收到真猫",
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 115311,
-      "num": 161186,
+      "num": 176190,
       "word": "林高远说身后都是10后大家一起加油",
       "onboard_time": 1775894960,
       "rank": 17,
@@ -985,6 +993,14 @@
       "onboard_time": 1775836642,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111064,
+      "num": 111064,
+      "word": "神魂颠倒",
+      "onboard_time": 1775895622,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 110906,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1775882180,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105224,
+      "num": 105224,
+      "word": "左航直播看不了",
+      "onboard_time": 1775898381,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 104849,
@@ -1123,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99507,
-      "num": 99507,
-      "word": "神魂颠倒",
-      "onboard_time": 1775895622,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99348,
       "num": 99348,
       "word": "左航提醒大家带外套",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 97739,
-      "num": 94361,
+      "num": 96762,
       "word": "邓超陈赫看到女嘉宾全选鹿晗的反应",
       "onboard_time": 1775894722,
       "rank": 40,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 94058,
-      "num": 94058,
+      "num": 102000,
       "word": "小米正式调价",
       "onboard_time": 1775893220,
       "rank": 49,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1775890940,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91555,
+      "num": 91555,
+      "word": "反向选大学",
+      "onboard_time": 1775897541,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 90544,
@@ -1291,20 +1315,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 88796,
+      "num": 88796,
+      "word": "无畏空降KPL快闪",
+      "onboard_time": 1775895380,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88602,
       "num": 107591,
       "word": "魏大勋胡先煦十日终焉开机照",
       "onboard_time": 1775834004,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88499,
-      "num": 88499,
-      "word": "无畏空降KPL快闪",
-      "onboard_time": 1775895380,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 88449,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1775875760,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87807,
-      "num": 87807,
-      "word": "反向选大学",
-      "onboard_time": 1775897541,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 87374,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1775823683,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84839,
+      "num": 84839,
+      "word": "网友致歉称与何与不熟",
+      "onboard_time": 1775882541,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 83963,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1775877739,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77429,
+      "num": 77429,
+      "word": "八段锦养生操",
+      "onboard_time": 1775897661,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 77369,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1775816662,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71033,
+      "num": 71033,
+      "word": "张慧雯回应争议",
+      "onboard_time": 1775898381,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 71006,
@@ -1811,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60150,
+      "num": 176105,
+      "word": "我国卫星拍下最大冰山最后一程",
+      "onboard_time": 1775897302,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59809,
       "num": 59809,
       "word": "张雪机车和买家共同捐赠拍卖款",
@@ -1963,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39703,
+      "num": 175855,
+      "word": "408名村民困危山下说雨季来了只能等死",
+      "onboard_time": 1775898080,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 39260,
       "num": 41054,
       "word": "钢铁森林",
@@ -2051,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28599,
-      "num": 160623,
-      "word": "我国卫星拍下最大冰山最后一程",
-      "onboard_time": 1775897302,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28484,
       "num": 93111,
       "word": "海鲜炒饭没蟹排商家赔偿500元",
@@ -2075,7 +2123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26297,
+      "raw_hot": 26632,
       "num": 747207,
       "word": "这支短片名叫问勇",
       "onboard_time": 1775891482,

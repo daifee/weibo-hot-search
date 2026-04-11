@@ -1,0 +1,410 @@
+{
+  "runTime": 1775898519178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 576275,
+        "num": 1092204,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314685,
+        "num": 783092,
+        "word": "女子从日本带回244本淫秽漫画获刑",
+        "onboard_time": 1775892200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26632,
+        "num": 651798,
+        "word": "这支短片名叫问勇",
+        "onboard_time": 1775891482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624247,
+        "num": 624247,
+        "word": "谢娜右边臀腿瞬间凉凉透风",
+        "onboard_time": 1775896822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325174,
+        "num": 325174,
+        "word": "wbti",
+        "onboard_time": 1775893461,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345773,
+        "num": 324689,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319200,
+        "num": 319200,
+        "word": "李想朋友圈飙脏话",
+        "onboard_time": 1775895501,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 259278,
+        "num": 259278,
+        "word": "原来我真能花100万",
+        "onboard_time": 1775892741,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226663,
+        "num": 226663,
+        "word": "原来冲锋衣是胶水粘的",
+        "onboard_time": 1775890221,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177086,
+        "num": 177086,
+        "word": "汉堡馒头减肥法",
+        "onboard_time": 1775894481,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 583256,
+        "num": 176983,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528962,
+        "num": 176818,
+        "word": "周渝民妻子宣布复出",
+        "onboard_time": 1775894421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210940,
+        "num": 176718,
+        "word": "美股巨震",
+        "onboard_time": 1775891540,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451495,
+        "num": 176677,
+        "word": "张靓颖怒斥工作人员泄露未发行作品",
+        "onboard_time": 1775897181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307852,
+        "num": 176477,
+        "word": "孙怡说以后不当队长了",
+        "onboard_time": 1775897723,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200428,
+        "num": 176345,
+        "word": "单身久了越来越像甲方",
+        "onboard_time": 1775892862,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114586,
+        "num": 176190,
+        "word": "林高远说身后都是10后大家一起加油",
+        "onboard_time": 1775894960,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60150,
+        "num": 176105,
+        "word": "我国卫星拍下最大冰山最后一程",
+        "onboard_time": 1775897302,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288199,
+        "num": 176000,
+        "word": "何超莲樱花照 窦骁视角",
+        "onboard_time": 1775894181,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39703,
+        "num": 175855,
+        "word": "408名村民困危山下说雨季来了只能等死",
+        "onboard_time": 1775898080,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 189781,
+        "num": 175707,
+        "word": "张婉婷风波后首发文",
+        "onboard_time": 1775889380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175608,
+        "num": 175608,
+        "word": "美国一海滩藏发现11具遗体",
+        "onboard_time": 1775890280,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171041,
+        "num": 171041,
+        "word": "宁艺卓祝福柳智敏",
+        "onboard_time": 1775887281,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157175,
+        "num": 157175,
+        "word": "爸爸出门上班5个月孩子独自留家",
+        "onboard_time": 1775885420,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148895,
+        "num": 148895,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124149,
+        "num": 124149,
+        "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
+        "onboard_time": 1775888661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119510,
+        "num": 119510,
+        "word": "陶昕然叫邓超姐夫",
+        "onboard_time": 1775893640,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1775878820,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99491,
+        "num": 112830,
+        "word": "以军士兵摆拍互动孩子不停颤抖",
+        "onboard_time": 1775885961,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111304,
+        "num": 111304,
+        "word": "朴宝剑拍的刘诗诗王安宇孙千",
+        "onboard_time": 1775884581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126198,
+        "num": 111254,
+        "word": "终于知道北京人为什么不爱出门了",
+        "onboard_time": 1775898381,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111064,
+        "num": 111064,
+        "word": "神魂颠倒",
+        "onboard_time": 1775895622,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98331,
+        "num": 108956,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108818,
+        "num": 108818,
+        "word": "sakee开火THOME",
+        "onboard_time": 1775896462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105224,
+        "num": 105224,
+        "word": "左航直播看不了",
+        "onboard_time": 1775898381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93023,
+        "num": 102000,
+        "word": "小米正式调价",
+        "onboard_time": 1775893220,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101032,
+        "num": 101032,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96762,
+        "num": 96762,
+        "word": "邓超陈赫看到女嘉宾全选鹿晗的反应",
+        "onboard_time": 1775894722,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33658,
+        "num": 93659,
+        "word": "伊美今天谈判",
+        "onboard_time": 1775896521,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91555,
+        "num": 91555,
+        "word": "反向选大学",
+        "onboard_time": 1775897541,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88796,
+        "num": 88796,
+        "word": "无畏空降KPL快闪",
+        "onboard_time": 1775895380,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84839,
+        "num": 84839,
+        "word": "网友致歉称与何与不熟",
+        "onboard_time": 1775882541,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 84227,
+        "word": "鹿晗是扁头",
+        "onboard_time": 1775885001,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79184,
+        "num": 83005,
+        "word": "87岁老人摔倒后在地上躺了一整夜",
+        "onboard_time": 1775893284,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82617,
+        "num": 82617,
+        "word": "一栗小莎子已化疗4次还有8次",
+        "onboard_time": 1775883441,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82579,
+        "num": 82579,
+        "word": "TOP演唱会人气",
+        "onboard_time": 1775888603,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77429,
+        "num": 77429,
+        "word": "八段锦养生操",
+        "onboard_time": 1775897661,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72640,
+        "num": 72640,
+        "word": "左航提醒大家带外套",
+        "onboard_time": 1775890881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71033,
+        "num": 71033,
+        "word": "张慧雯回应争议",
+        "onboard_time": 1775898381,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69314,
+        "num": 69314,
+        "word": "哪个省能撑起一月游",
+        "onboard_time": 1775897723,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引两岸关系发展#"
+    }
+  }
+}
