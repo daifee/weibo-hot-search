@@ -1,0 +1,410 @@
+{
+  "runTime": 1775904242974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 544539,
+        "num": 1087126,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231721,
+        "num": 810632,
+        "word": "女子从日本带回244本淫秽漫画获刑",
+        "onboard_time": 1775892200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26068,
+        "num": 610091,
+        "word": "这支短片名叫问勇",
+        "onboard_time": 1775891482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1896606,
+        "num": 570515,
+        "word": "曝曾沛慈退出浪姐",
+        "onboard_time": 1775900122,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258145,
+        "num": 258145,
+        "word": "狼队对战KSG",
+        "onboard_time": 1775901143,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 487244,
+        "num": 252462,
+        "word": "孙怡 赵子琪淘汰发布会",
+        "onboard_time": 1775897122,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240122,
+        "num": 240122,
+        "word": "月租万元小区房成为研究生宿舍",
+        "onboard_time": 1775901622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230787,
+        "num": 230787,
+        "word": "原来我真能花100万",
+        "onboard_time": 1775892741,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225445,
+        "num": 225445,
+        "word": "果然冷脸后世界顺多了",
+        "onboard_time": 1775903181,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183568,
+        "num": 183568,
+        "word": "李想朋友圈飙脏话",
+        "onboard_time": 1775895501,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 378934,
+        "num": 183039,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353467,
+        "num": 181692,
+        "word": "马嘉祺高会",
+        "onboard_time": 1775901143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208796,
+        "num": 181411,
+        "word": "郑丽文参观故宫",
+        "onboard_time": 1775902823,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346593,
+        "num": 179734,
+        "word": "十日终焉长安二十四计海报",
+        "onboard_time": 1775900182,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260522,
+        "num": 178801,
+        "word": "谢娜右边臀腿瞬间凉凉透风",
+        "onboard_time": 1775896822,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178473,
+        "num": 178473,
+        "word": "美国一海滩藏发现11具遗体",
+        "onboard_time": 1775890280,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252864,
+        "num": 167787,
+        "word": "张慧雯回应争议",
+        "onboard_time": 1775898381,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203073,
+        "num": 156633,
+        "word": "张靓颖怒斥工作人员泄露未发行作品",
+        "onboard_time": 1775897181,
+        "rank": 17,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 140753,
+        "num": 140753,
+        "word": "原来冲锋衣是胶水粘的",
+        "onboard_time": 1775890221,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198595,
+        "num": 136948,
+        "word": "张予曦毕雯珺合伙人形同陌路",
+        "onboard_time": 1775903483,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158291,
+        "num": 136383,
+        "word": "终于知道北京人为什么不爱出门了",
+        "onboard_time": 1775898381,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153597,
+        "num": 134519,
+        "word": "TOP演唱会听到哨子声就把音乐调大",
+        "onboard_time": 1775902223,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132064,
+        "num": 132064,
+        "word": "美股巨震",
+        "onboard_time": 1775891540,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "孙怡说以后不当队长了",
+        "onboard_time": 1775897723,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123127,
+        "num": 123127,
+        "word": "苏超",
+        "onboard_time": 1775881642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115074,
+        "num": 115074,
+        "word": "wbti",
+        "onboard_time": 1775893461,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114848,
+        "num": 114848,
+        "word": "30多岁程序员熬夜喝咖啡确诊帕金森",
+        "onboard_time": 1775901921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114143,
+        "num": 114143,
+        "word": "张婉婷风波后首发文",
+        "onboard_time": 1775889380,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112912,
+        "num": 112912,
+        "word": "郑丽文收到机器手礼物秒变郑三岁",
+        "onboard_time": 1775900722,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111941,
+        "num": 111941,
+        "word": "美国已同意解冻伊朗海外资产",
+        "onboard_time": 1775899881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134170,
+        "num": 109556,
+        "word": "苏超常州vs南通首发名单",
+        "onboard_time": 1775904020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103837,
+        "num": 103837,
+        "word": "爸爸出门上班5个月孩子独自留家",
+        "onboard_time": 1775885420,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 103367,
+        "word": "周渝民妻子宣布复出",
+        "onboard_time": 1775894421,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95826,
+        "num": 95826,
+        "word": "终于有人能把上班的累描述出来了",
+        "onboard_time": 1775900842,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94369,
+        "num": 94369,
+        "word": "老夫妻捡到铁疙瘩上交竟是国宝",
+        "onboard_time": 1775903541,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90850,
+        "num": 90850,
+        "word": "苏超直播",
+        "onboard_time": 1775904202,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 90264,
+        "word": "导演温成林突发心梗去世",
+        "onboard_time": 1775900422,
+        "rank": 36,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 88051,
+        "num": 88051,
+        "word": "莫式鸡煲又迎来了外国百万网红",
+        "onboard_time": 1775901081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84801,
+        "num": 84801,
+        "word": "朴宝剑拍的刘诗诗王安宇孙千",
+        "onboard_time": 1775884581,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82920,
+        "num": 82920,
+        "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
+        "onboard_time": 1775888661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81962,
+        "num": 81962,
+        "word": "网友致歉称与何与不熟",
+        "onboard_time": 1775882541,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81282,
+        "num": 81282,
+        "word": "宁艺卓祝福柳智敏",
+        "onboard_time": 1775887281,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71687,
+        "num": 71687,
+        "word": "刘雨鑫说遇上了真诚的莫氏鸡煲",
+        "onboard_time": 1775904142,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76262,
+        "num": 71597,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71465,
+        "num": 71465,
+        "word": "我们好像变成了无聊的大人",
+        "onboard_time": 1775900661,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71414,
+        "num": 71414,
+        "word": "408名村民困危山下说雨季来了只能等死",
+        "onboard_time": 1775898080,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 70877,
+        "num": 70877,
+        "word": "老夫妻收废品捡到千年国宝",
+        "onboard_time": 1775904202,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69527,
+        "num": 69527,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69252,
+        "num": 69252,
+        "word": "被富养的流浪狗",
+        "onboard_time": 1775904202,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61792,
+        "num": 68492,
+        "word": "仅靠卖车企业已经无法盈利了",
+        "onboard_time": 1775900480,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引两岸关系发展#"
+    }
+  }
+}
