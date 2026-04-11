@@ -1,7 +1,15 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775898519178,
+  "endTime": 1775901135186,
   "band_list": [
+    {
+      "raw_hot": 1962483,
+      "num": 496474,
+      "word": "曝曾沛慈退出浪姐",
+      "onboard_time": 1775900122,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1595728,
       "num": 1595728,
@@ -187,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 454211,
+      "num": 298699,
+      "word": "孙怡 赵子琪淘汰发布会",
+      "onboard_time": 1775897122,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451495,
       "num": 176677,
       "word": "张靓颖怒斥工作人员泄露未发行作品",
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348013,
+      "num": 176477,
+      "word": "孙怡说以后不当队长了",
+      "onboard_time": 1775897723,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338819,
       "num": 827157,
       "word": "女子从日本带回244本淫秽漫画获刑",
@@ -387,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307852,
-      "num": 176477,
-      "word": "孙怡说以后不当队长了",
-      "onboard_time": 1775897723,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305571,
       "num": 305571,
       "word": "美股巨震",
@@ -409,6 +425,14 @@
       "onboard_time": 1775888603,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 300176,
+      "num": 162400,
+      "word": "张慧雯回应争议",
+      "onboard_time": 1775898381,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 299506,
@@ -731,6 +755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154751,
+      "num": 154751,
+      "word": "终于知道北京人为什么不爱出门了",
+      "onboard_time": 1775898381,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154625,
+      "num": 154625,
+      "word": "十日终焉长安二十四计海报",
+      "onboard_time": 1775900182,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152700,
       "num": 545253,
       "word": "19岁高中生复刻贝克汉姆惊天吊射",
@@ -745,6 +785,14 @@
       "onboard_time": 1775862017,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "仅靠卖车企业已经无法盈利了",
+      "onboard_time": 1775900480,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 145424,
@@ -851,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128870,
+      "num": 175855,
+      "word": "408名村民困危山下说雨季来了只能等死",
+      "onboard_time": 1775898080,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 127407,
       "num": 75565,
       "word": "江苏一女子逛商场上厕所零隔断",
@@ -865,14 +921,6 @@
       "onboard_time": 1775829924,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126198,
-      "num": 111254,
-      "word": "终于知道北京人为什么不爱出门了",
-      "onboard_time": 1775898381,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 124726,
@@ -929,6 +977,14 @@
       "onboard_time": 1775832804,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121772,
+      "num": 121772,
+      "word": "美国已同意解冻伊朗海外资产",
+      "onboard_time": 1775899881,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118915,
@@ -1123,6 +1179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 100388,
+      "num": 159651,
+      "word": "恋与深空",
+      "onboard_time": 1775900543,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100053,
       "num": 100053,
       "word": "郑丽文说看到了台湾的未来",
@@ -1211,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94145,
+      "num": 94145,
+      "word": "导演温成林突发心梗去世",
+      "onboard_time": 1775900422,
+      "rank": 33,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 94058,
       "num": 102000,
       "word": "小米正式调价",
@@ -1243,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92288,
+      "num": 92288,
+      "word": "孙颖莎接受央视采访",
+      "onboard_time": 1775900061,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92191,
       "num": 92191,
       "word": "小孩问外国游客美国人是不是吃人",
@@ -1251,12 +1331,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91584,
+      "num": 91584,
+      "word": "莫式鸡煲又迎来了外国百万网红",
+      "onboard_time": 1775901081,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91555,
       "num": 91555,
       "word": "反向选大学",
       "onboard_time": 1775897541,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91253,
+      "num": 91253,
+      "word": "刁蛮公主逍遥王导演逝世",
+      "onboard_time": 1775900480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 90544,
@@ -1371,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87005,
+      "num": 87005,
+      "word": "终于有人能把上班的累描述出来了",
+      "onboard_time": 1775900842,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86328,
       "num": 86328,
       "word": "苏新皓1000平包店人气",
@@ -1411,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84343,
+      "num": 84343,
+      "word": "我们好像变成了无聊的大人",
+      "onboard_time": 1775900661,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83963,
       "num": 118575,
       "word": "黄瓜拌菠萝火了",
@@ -1441,6 +1553,22 @@
       "onboard_time": 1775836043,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79732,
+      "num": 176105,
+      "word": "我国卫星拍下最大冰山最后一程",
+      "onboard_time": 1775897302,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78823,
+      "num": 78823,
+      "word": "美以伊停火中方做了多方工作",
+      "onboard_time": 1775899702,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78774,
@@ -1497,6 +1625,14 @@
       "onboard_time": 1775870841,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76777,
+      "num": 76777,
+      "word": "李想朋友圈再发文",
+      "onboard_time": 1775900601,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 76671,
@@ -1603,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72504,
+      "num": 152080,
+      "word": "在澳门看到半个文博圈",
+      "onboard_time": 1775898861,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 71926,
       "num": 71926,
       "word": "胡先煦十日终焉狼尾发型",
@@ -1617,14 +1761,6 @@
       "onboard_time": 1775816662,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71033,
-      "num": 71033,
-      "word": "张慧雯回应争议",
-      "onboard_time": 1775898381,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 71006,
@@ -1851,14 +1987,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 60150,
-      "num": 176105,
-      "word": "我国卫星拍下最大冰山最后一程",
-      "onboard_time": 1775897302,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59809,
       "num": 59809,
       "word": "张雪机车和买家共同捐赠拍卖款",
@@ -2011,14 +2139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39703,
-      "num": 175855,
-      "word": "408名村民困危山下说雨季来了只能等死",
-      "onboard_time": 1775898080,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 39260,
       "num": 41054,
       "word": "钢铁森林",
@@ -2113,6 +2233,14 @@
       "onboard_time": 1775877681,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28328,
+      "num": 109066,
+      "word": "郑丽文收到机器手礼物秒变郑三岁",
+      "onboard_time": 1775900722,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27954,

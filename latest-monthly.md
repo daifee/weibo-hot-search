@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/11 17:08:39
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/11 17:52:15
 </p>
 </blockquote>
 <p>
@@ -191,6 +191,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB%23" target="weibo">
 白宫回应特朗普病重住院传闻（热度：1974723）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9B%BE%E6%B2%9B%E6%85%88%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%90%23" target="weibo">
+曝曾沛慈退出浪姐（热度：1962483）
 </a>
 </li>
 
@@ -2499,6 +2505,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%20%E8%B5%B5%E5%AD%90%E7%90%AA%E6%B7%98%E6%B1%B0%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+孙怡 赵子琪淘汰发布会（热度：454211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E6%98%AF%E5%94%90%E5%83%A7%E6%89%AE%E6%BC%94%E8%80%85%E8%BF%9F%E9%87%8D%E7%91%9E%E7%9A%84%E5%A6%BB%E5%AD%90%23" target="weibo">
 陈丽华是唐僧扮演者迟重瑞的妻子（热度：454204）
 </a>
@@ -3753,6 +3765,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%B8%8D%E5%BD%93%E9%98%9F%E9%95%BF%E4%BA%86%23" target="weibo">
+孙怡说以后不当队长了（热度：348013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BD%A6%E9%9C%96%20%E8%AE%A9%E5%AE%87%E6%96%87%E6%80%80%E5%A4%8D%E6%B4%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23" target="weibo">
 王彦霖 让宇文怀复活是什么意思（热度：347826）
 </a>
@@ -4359,12 +4377,6 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%B8%8D%E5%BD%93%E9%98%9F%E9%95%BF%E4%BA%86%23" target="weibo">
-孙怡说以后不当队长了（热度：307852）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%96%E5%9B%A0%E9%BB%8E%E9%81%AD%E8%A2%AD%E7%BB%93%E6%9D%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB%23" target="weibo">
 伊媒称伊朗或因黎遭袭结束临时停火（热度：307641）
 </a>
@@ -4523,6 +4535,12 @@ TOP演唱会人气（热度：302471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%AC%AC28%E9%9B%86%E6%97%A0%E5%B9%BF%23" target="weibo">
 白日提灯第28集无广（热度：301134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+张慧雯回应争议（热度：300176）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ JDG战胜AL（热度：243032）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC73%E5%B2%81%E8%80%81%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B1%82%E8%81%8C%23" target="weibo">
 日本73岁老人来中国求职（热度：232620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E5%88%9B%E9%80%A0%E9%9F%A9%E5%9B%BD%E5%A5%B3%E4%B9%92%E5%8E%86%E5%8F%B2%23" target="weibo">
-申裕斌创造韩国女乒历史（热度：232317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%88%96%E9%9D%A2%E4%B8%B4%E9%95%BF%E6%9C%9F%E7%9B%98%E6%95%B4%23" target="weibo">
-黄金或面临长期盘整（热度：232173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E7%AB%8B%E9%81%97%E5%98%B1%E5%B0%8F%E4%BC%99%E7%A7%B0%E6%88%BF%E5%AD%90%E6%8E%8F%E7%A9%BA%E7%88%B6%E6%AF%8D%E7%A7%AF%E8%93%84%23" target="weibo">
-婚前立遗嘱小伙称房子掏空父母积蓄（热度：232095）
 </a>
 </li>
 

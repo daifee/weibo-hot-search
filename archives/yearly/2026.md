@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 17:08:39
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 17:52:15
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ TES上报Naiyou不正当行为（热度：2048848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9B%BE%E6%B2%9B%E6%85%88%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%90%23" target="weibo">
+曝曾沛慈退出浪姐（热度：1962483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E5%85%A8%E4%BD%93%E4%BA%BA%E6%B0%91%E7%A5%9D%E8%B4%BA%E8%83%9C%E5%88%A9%23" target="weibo">
 伊朗向全体人民祝贺胜利（热度：1959242）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A6%E6%9C%AF%20%E5%AE%87%E6%A0%91%E6%97%A0%E6%95%8C%23" target="weibo">
 机器人武术 宇树无敌（热度：1919749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%A1%E5%A4%B4%E6%96%91%E7%A7%83%E5%92%8C%E6%B0%B4%E6%B3%A1%23" target="weibo">
-薛之谦满头斑秃和水泡（热度：1919095）
 </a>
 </li>
 
