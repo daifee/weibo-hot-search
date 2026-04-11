@@ -1,0 +1,410 @@
+{
+  "runTime": 1775883795676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443902,
+        "num": 1071024,
+        "word": "湖南一路段插满白事灯笼",
+        "onboard_time": 1775873781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340265,
+        "num": 768609,
+        "word": "邓超发五哈新阵容照",
+        "onboard_time": 1775880559,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29126,
+        "num": 611300,
+        "word": "嫦娥七号计划下半年发射",
+        "onboard_time": 1775876120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1142829,
+        "num": 576763,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280045,
+        "num": 280045,
+        "word": "黄瓜拌菠萝",
+        "onboard_time": 1775879902,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319633,
+        "num": 279798,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1775878820,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270085,
+        "num": 270085,
+        "word": "天生没有四肢的母亲用嘴养活三个孩子",
+        "onboard_time": 1775880620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265974,
+        "num": 265974,
+        "word": "四川地震",
+        "onboard_time": 1775883081,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 235854,
+        "num": 235854,
+        "word": "官方回应湖南一道路插满奠字灯笼",
+        "onboard_time": 1775880080,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141646,
+        "num": 225291,
+        "word": "19岁高中生复刻贝克汉姆惊天吊射",
+        "onboard_time": 1775881223,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 912935,
+        "num": 224492,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300963,
+        "num": 224057,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221147,
+        "num": 221147,
+        "word": "每天做三顿饭肺癌风险高2.1倍",
+        "onboard_time": 1775876480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234195,
+        "num": 220141,
+        "word": "白鹿晚餐吃水煮菜",
+        "onboard_time": 1775873362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216348,
+        "num": 216348,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130648,
+        "num": 208008,
+        "word": "Gr对战Xteam",
+        "onboard_time": 1775883321,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 373451,
+        "num": 205305,
+        "word": "赵子琪回应被指茶言茶语",
+        "onboard_time": 1775879480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157434,
+        "num": 202942,
+        "word": "伊朗谈判代表团命名米纳卜168",
+        "onboard_time": 1775876061,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202271,
+        "num": 202271,
+        "word": "温峥嵘下班也一直在哭着饭撒",
+        "onboard_time": 1775870360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 187345,
+        "word": "范丞丞新中式帅得我有心事了",
+        "onboard_time": 1775880559,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172123,
+        "num": 180017,
+        "word": "莫氏鸡煲连夜装上空调",
+        "onboard_time": 1775881821,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255420,
+        "num": 179902,
+        "word": "疑似何与朋友点赞吐槽虞书欣言论",
+        "onboard_time": 1775882541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179776,
+        "num": 179776,
+        "word": "赵达结婚",
+        "onboard_time": 1775879362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161534,
+        "num": 177055,
+        "word": "医生回应9斤婴儿出生1月瘦到7斤",
+        "onboard_time": 1775876480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176458,
+        "num": 176458,
+        "word": "陈昊宇点赞训粉博文",
+        "onboard_time": 1775876301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165735,
+        "num": 165735,
+        "word": "张慧雯掀翻刘昊然",
+        "onboard_time": 1775880203,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127858,
+        "num": 151706,
+        "word": "阿尔忒弥斯2号",
+        "onboard_time": 1775870360,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148941,
+        "num": 148941,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "朴宝剑刘诗诗王安宇孙千人生四格",
+        "onboard_time": 1775882301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 104188,
+        "word": "小猫被亲一口感觉世界都亮了",
+        "onboard_time": 1775873781,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 181163,
+        "num": 102614,
+        "word": "突然意识到敲门好像不用抬手",
+        "onboard_time": 1775881701,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116536,
+        "num": 102101,
+        "word": "一栗小莎子已化疗4次还有8次",
+        "onboard_time": 1775883441,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109497,
+        "num": 100874,
+        "word": "李楷灿疑似恋爱",
+        "onboard_time": 1775875039,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99165,
+        "num": 99165,
+        "word": "猫妈妈自留款",
+        "onboard_time": 1775878281,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106440,
+        "num": 98712,
+        "word": "孙俪和小花看五哈",
+        "onboard_time": 1775882180,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98134,
+        "num": 98134,
+        "word": "郑丽文想带机器人回台湾",
+        "onboard_time": 1775882120,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97434,
+        "num": 97434,
+        "word": "科切拉",
+        "onboard_time": 1775880980,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95893,
+        "num": 95893,
+        "word": "唐艺昕趴在李小冉腿上",
+        "onboard_time": 1775873900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 94311,
+        "word": "保护眼睛的简单方法",
+        "onboard_time": 1775881520,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88275,
+        "num": 88275,
+        "word": "伊朗代表飞行同伴照片令人动容",
+        "onboard_time": 1775878640,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87408,
+        "num": 87408,
+        "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
+        "onboard_time": 1775882901,
+        "rank": 40,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 87067,
+        "num": 87067,
+        "word": "苏超",
+        "onboard_time": 1775881642,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81116,
+        "num": 81116,
+        "word": "苏新皓1000平包店人气",
+        "onboard_time": 1775881460,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80336,
+        "num": 80336,
+        "word": "被盗声太乙真人配音演员合作被取消",
+        "onboard_time": 1775872941,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74011,
+        "num": 74011,
+        "word": "KPL",
+        "onboard_time": 1775883681,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80995,
+        "num": 73905,
+        "word": "刘雨鑫又带火了南沙10元自助粥锅店",
+        "onboard_time": 1775874740,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75060,
+        "num": 73867,
+        "word": "张峻豪个人演唱会",
+        "onboard_time": 1775881223,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73683,
+        "num": 73683,
+        "word": "以为贺峻霖在吹牛 原来是实话",
+        "onboard_time": 1775880261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73541,
+        "num": 73541,
+        "word": "狗狗不语只是一味打双闪",
+        "onboard_time": 1775880203,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61829,
+        "num": 73013,
+        "word": "曝华为全新大阔折陆续到店",
+        "onboard_time": 1775880440,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就两岸关系发展提出4点意见#"
+    }
+  }
+}
