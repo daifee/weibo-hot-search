@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775904242974,
+  "endTime": 1775905440656,
   "band_list": [
     {
       "raw_hot": 2213684,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351170,
+      "num": 179734,
+      "word": "十日终焉长安二十四计海报",
+      "onboard_time": 1775900182,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350146,
       "num": 220141,
       "word": "白鹿晚餐吃水煮菜",
@@ -337,14 +345,6 @@
       "onboard_time": 1775897723,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346593,
-      "num": 179734,
-      "word": "十日终焉长安二十四计海报",
-      "onboard_time": 1775900182,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 338819,
@@ -385,6 +385,14 @@
       "onboard_time": 1775895501,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 319719,
+      "num": 156935,
+      "word": "张予曦毕雯珺合伙人零互动",
+      "onboard_time": 1775903483,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 319633,
@@ -507,12 +515,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 279494,
+      "num": 781407,
+      "word": "郑丽文参观故宫",
+      "onboard_time": 1775902823,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 276080,
       "num": 161451,
       "word": "唐艺昕趴在李小冉腿上",
       "onboard_time": 1775873900,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270630,
+      "num": 270630,
+      "word": "月租万元小区房成为研究生宿舍",
+      "onboard_time": 1775901622,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264255,
@@ -555,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256671,
+      "num": 165363,
+      "word": "Danielle更新iG",
+      "onboard_time": 1775904562,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247266,
       "num": 88823,
       "word": "秦昊和伊能静首次见面时非单身",
@@ -569,14 +601,6 @@
       "onboard_time": 1775833225,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 240122,
-      "num": 240122,
-      "word": "月租万元小区房成为研究生宿舍",
-      "onboard_time": 1775901622,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235854,
@@ -651,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208796,
-      "num": 181411,
-      "word": "郑丽文参观故宫",
-      "onboard_time": 1775902823,
-      "rank": 12,
-      "category": "国内时政"
+      "raw_hot": 207896,
+      "num": 207896,
+      "word": "苏超直播",
+      "onboard_time": 1775904202,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 199228,
@@ -681,6 +705,14 @@
       "onboard_time": 1775882301,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195915,
+      "num": 142862,
+      "word": "TOP演唱会听到哨子声就把音乐调大",
+      "onboard_time": 1775902223,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 186105,
@@ -827,20 +859,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156460,
+      "num": 156460,
+      "word": "苏超",
+      "onboard_time": 1775881642,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156017,
       "num": 175855,
       "word": "408名村民困危山下说雨季来了只能等死",
       "onboard_time": 1775898080,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 153597,
-      "num": 134519,
-      "word": "TOP演唱会听到哨子声就把音乐调大",
-      "onboard_time": 1775902223,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 152700,
@@ -920,6 +952,14 @@
       "word": "男子杀害女儿5个月前买了意外险",
       "onboard_time": 1775833405,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140278,
+      "num": 140278,
+      "word": "30多岁程序员熬夜喝咖啡确诊帕金森",
+      "onboard_time": 1775901921,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1035,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123127,
-      "num": 123127,
-      "word": "苏超",
-      "onboard_time": 1775881642,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "李楷灿疑似恋爱",
@@ -1083,20 +1115,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117798,
+      "num": 117798,
+      "word": "老夫妻捡到铁疙瘩上交竟是国宝",
+      "onboard_time": 1775903541,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 115311,
       "num": 176190,
       "word": "林高远说身后都是10后大家一起加油",
       "onboard_time": 1775894960,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114848,
-      "num": 114848,
-      "word": "30多岁程序员熬夜喝咖啡确诊帕金森",
-      "onboard_time": 1775901921,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113670,
@@ -1179,20 +1211,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108871,
+      "num": 108871,
+      "word": "莫式鸡煲又迎来了外国百万网红",
+      "onboard_time": 1775901081,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108541,
       "num": 108541,
       "word": "我们好像变成了无聊的大人",
       "onboard_time": 1775900661,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108122,
-      "num": 108122,
-      "word": "莫式鸡煲又迎来了外国百万网红",
-      "onboard_time": 1775901081,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106997,
@@ -1371,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96594,
+      "num": 96594,
+      "word": "终于有人能把上班的累描述出来了",
+      "onboard_time": 1775900842,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95997,
       "num": 119198,
       "word": "警方通报父母离婚不接年幼乘客",
@@ -1387,14 +1427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95826,
-      "num": 95826,
-      "word": "终于有人能把上班的累描述出来了",
-      "onboard_time": 1775900842,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94949,
       "num": 94949,
       "word": "朝鲜支持中国在台湾等问题上的立场",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1775894481,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94369,
-      "num": 94369,
-      "word": "老夫妻捡到铁疙瘩上交竟是国宝",
-      "onboard_time": 1775903541,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 94058,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1775897541,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90850,
-      "num": 90850,
-      "word": "苏超直播",
-      "onboard_time": 1775904202,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 90544,
@@ -1643,6 +1659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83689,
+      "num": 83689,
+      "word": "女高管自制Excel表及时发现乳腺癌",
+      "onboard_time": 1775905102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83389,
       "num": 83389,
       "word": "湖人锁定西部前四",
@@ -1659,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81475,
+      "num": 81475,
+      "word": "曾沛慈回应人气断层第一",
+      "onboard_time": 1775904381,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80660,
       "num": 105827,
       "word": "美国海滩连环命案华人男尸身着女装",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1775897302,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79728,
+      "num": 79728,
+      "word": "钢铁森林",
+      "onboard_time": 1775864178,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 78823,
@@ -1979,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67792,
+      "num": 77289,
+      "word": "湖人末轮升第3仅一种可能",
+      "onboard_time": 1775905220,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67543,
       "num": 67543,
       "word": "单亲妈妈回应工地扛楼月入过万",
@@ -2275,14 +2323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39260,
-      "num": 41054,
-      "word": "钢铁森林",
-      "onboard_time": 1775864178,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36620,
       "num": 39118,
       "word": "肖战十日终焉无限流大ip",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1775848815,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24011,
+      "num": 96639,
+      "word": "公司让3名员工抓阄决定谁被裁",
+      "onboard_time": 1775905282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22094,
