@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775936505800,
+  "endTime": 1775937476669,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -31659,6 +31659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15890,
+      "num": 21644,
+      "word": "无限超越班",
+      "onboard_time": 1775934734,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15875,
       "num": 33046,
       "word": "朱志鑫抽空晒晒太阳",
@@ -31705,14 +31713,6 @@
       "onboard_time": 1775099781,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15623,
-      "num": 21644,
-      "word": "无限超越班",
-      "onboard_time": 1775934734,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 15547,

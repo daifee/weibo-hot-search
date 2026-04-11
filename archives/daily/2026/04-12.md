@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/12 03:41:45
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/12 03:57:56
 </p>
 </blockquote>
 <p>
@@ -430,7 +430,7 @@ SK教练（热度：52402）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E8%BF%AB%E4%BD%BF%E7%BE%8E%E5%86%9B%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%94%E8%88%AA%23" target="weibo">
-伊朗称已迫使美军驱逐舰返航（热度：17761）
+伊朗称已迫使美军驱逐舰返航（热度：17884）
 </a>
 </li>
 
@@ -441,8 +441,14 @@ SK教练（热度：52402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%23" target="weibo">
+怦然心动20岁（热度：16389）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%23" target="weibo">
-无限超越班（热度：15623）
+无限超越班（热度：15890）
 </a>
 </li>
 
@@ -455,12 +461,6 @@ SK教练（热度：52402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B1%90%E8%BD%A6%E9%81%93%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E5%A4%AA%E4%B8%9D%E6%BB%91%23" target="weibo">
 潮汐车道自动切换太丝滑（热度：14954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%23" target="weibo">
-怦然心动20岁（热度：13599）
 </a>
 </li>
 
