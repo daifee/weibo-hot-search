@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775929221220,
+  "endTime": 1775930294532,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -28931,6 +28931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49519,
+      "num": 174241,
+      "word": "浪姐版傲慢与偏见",
+      "onboard_time": 1775926819,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49506,
       "num": 74947,
       "word": "怦然心动20岁",
@@ -29105,14 +29113,6 @@
       "onboard_time": 1775863999,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47624,
-      "num": 174241,
-      "word": "浪姐版傲慢与偏见",
-      "onboard_time": 1775926819,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 47604,
@@ -29691,6 +29691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39857,
+      "num": 53168,
+      "word": "伊朗警告美驱逐舰",
+      "onboard_time": 1775927360,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39768,
       "num": 39768,
       "word": "伊朗议长说愿为国家捐躯",
@@ -30105,14 +30113,6 @@
       "onboard_time": 1775538984,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34638,
-      "num": 53168,
-      "word": "伊朗警告美驱逐舰",
-      "onboard_time": 1775927360,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34432,
@@ -30555,12 +30555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28307,
+      "num": 53133,
+      "word": "公司当场辞退晕倒女主播违法",
+      "onboard_time": 1775928976,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28270,
       "num": 102414,
       "word": "王艺迪vs温特",
       "onboard_time": 1775272879,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28256,
+      "num": 45408,
+      "word": "美伊巴举行面对面会谈",
+      "onboard_time": 1775929997,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28241,
@@ -30665,6 +30681,14 @@
       "onboard_time": 1775495536,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27368,
+      "num": 45373,
+      "word": "杨千嬅演唱会",
+      "onboard_time": 1775929396,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 27213,
@@ -30808,14 +30832,6 @@
       "word": "男子让8岁儿子开车还发视频炫耀",
       "onboard_time": 1775131222,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25326,
-      "num": 53133,
-      "word": "公司当场辞退晕倒女主播违法",
-      "onboard_time": 1775928976,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
