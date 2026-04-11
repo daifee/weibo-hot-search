@@ -1,0 +1,410 @@
+{
+  "runTime": 1775887922423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465495,
+        "num": 1074479,
+        "word": "爸爸出门上班5个月孩子独自留家",
+        "onboard_time": 1775885420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 800835,
+        "word": "湖南一路段插满白事灯笼",
+        "onboard_time": 1775873781,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23022,
+        "num": 618260,
+        "word": "嫦娥七号计划下半年发射",
+        "onboard_time": 1775876120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1322586,
+        "num": 475401,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202231,
+        "num": 202231,
+        "word": "天生没有四肢的母亲用嘴养活三个孩子",
+        "onboard_time": 1775880620,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724135,
+        "num": 195245,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520461,
+        "num": 191210,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171155,
+        "num": 171155,
+        "word": "四川地震",
+        "onboard_time": 1775883081,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 170062,
+        "num": 170062,
+        "word": "第五人格",
+        "onboard_time": 1775886560,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97157,
+        "num": 170039,
+        "word": "19岁高中生复刻贝克汉姆惊天吊射",
+        "onboard_time": 1775881223,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495618,
+        "num": 169997,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406144,
+        "num": 169964,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 169955,
+        "word": "以军士兵摆拍互动孩子不停颤抖",
+        "onboard_time": 1775885961,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382330,
+        "num": 169902,
+        "word": "鹿晗是扁头",
+        "onboard_time": 1775885001,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371942,
+        "num": 169874,
+        "word": "郑钧感谢全网为jagger操碎了心",
+        "onboard_time": 1775883801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122805,
+        "num": 169850,
+        "word": "伊朗谈判代表团命名米纳卜168",
+        "onboard_time": 1775876061,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313684,
+        "num": 169824,
+        "word": "朴宝剑拍的刘诗诗王安宇孙千",
+        "onboard_time": 1775884581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287815,
+        "num": 169777,
+        "word": "一栗小莎子已化疗4次还有8次",
+        "onboard_time": 1775883441,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120988,
+        "num": 169729,
+        "word": "用奔驰陪葬当事人被批评教育",
+        "onboard_time": 1775886860,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258915,
+        "num": 169721,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1775878820,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 469587,
+        "num": 169665,
+        "word": "疑似何与朋友点赞吐槽虞书欣言论",
+        "onboard_time": 1775882541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174748,
+        "num": 169656,
+        "word": "突然意识到敲门好像不用抬手",
+        "onboard_time": 1775881701,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 169596,
+        "word": "朴宝剑刘诗诗王安宇孙千人生四格",
+        "onboard_time": 1775882301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169593,
+        "num": 169593,
+        "word": "久坐真的会毁掉一个屁股",
+        "onboard_time": 1775884761,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 159477,
+        "word": "赵子琪回应被指茶言茶语",
+        "onboard_time": 1775879480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157217,
+        "num": 157217,
+        "word": "宁艺卓祝福柳智敏",
+        "onboard_time": 1775887281,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103393,
+        "num": 139784,
+        "word": "第五人格赛事",
+        "onboard_time": 1775884941,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138451,
+        "num": 138451,
+        "word": "邓超发五哈新阵容照",
+        "onboard_time": 1775880559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142160,
+        "num": 137519,
+        "word": "白鹿晚餐吃水煮菜",
+        "onboard_time": 1775873362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97805,
+        "num": 127648,
+        "word": "每天做三顿饭肺癌风险高2.1倍",
+        "onboard_time": 1775876480,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127453,
+        "num": 127453,
+        "word": "韩国人称被叫小韩感觉不适",
+        "onboard_time": 1775887641,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36009,
+        "num": 123549,
+        "word": "俄罗斯食客5点排队吃莫氏鸡煲",
+        "onboard_time": 1775886620,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123347,
+        "num": 123347,
+        "word": "IU新剧女王级别",
+        "onboard_time": 1775887341,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34366,
+        "num": 104907,
+        "word": "湖南一小学生在学校附近被撞身亡",
+        "onboard_time": 1775887821,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98222,
+        "num": 98222,
+        "word": "众星祝贺赵达杨小夕结婚",
+        "onboard_time": 1775886921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94949,
+        "num": 94949,
+        "word": "朝鲜支持中国在台湾等问题上的立场",
+        "onboard_time": 1775887101,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94161,
+        "num": 94161,
+        "word": "保护眼睛的简单方法",
+        "onboard_time": 1775881520,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89953,
+        "num": 89953,
+        "word": "爸爸回应上班把5个月孩子独自留家",
+        "onboard_time": 1775885843,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89299,
+        "num": 89299,
+        "word": "鞠婧祎 素衣绣蓝",
+        "onboard_time": 1775885661,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87374,
+        "num": 87374,
+        "word": "美伊谈崩了怎么办",
+        "onboard_time": 1775886441,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83389,
+        "num": 83389,
+        "word": "湖人锁定西部前四",
+        "onboard_time": 1775887040,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78779,
+        "num": 78779,
+        "word": "科切拉",
+        "onboard_time": 1775880980,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78358,
+        "num": 78358,
+        "word": "黄瓜拌菠萝",
+        "onboard_time": 1775879902,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75223,
+        "num": 75223,
+        "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
+        "onboard_time": 1775882901,
+        "rank": 43,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 73745,
+        "num": 73745,
+        "word": "美代表团抵达巴基斯坦",
+        "onboard_time": 1775886441,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70659,
+        "num": 70659,
+        "word": "李楷灿疑似恋爱",
+        "onboard_time": 1775875039,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69456,
+        "num": 69456,
+        "word": "孙俪和小花看五哈",
+        "onboard_time": 1775882180,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69384,
+        "num": 69384,
+        "word": "小猫想进被窝被拒绝了",
+        "onboard_time": 1775887521,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67543,
+        "num": 67543,
+        "word": "单亲妈妈回应工地扛楼月入过万",
+        "onboard_time": 1775886323,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41121,
+        "num": 66133,
+        "word": "华为PuraXMax曝光",
+        "onboard_time": 1775878581,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就两岸关系发展提出4点意见#"
+    }
+  }
+}

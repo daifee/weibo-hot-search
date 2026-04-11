@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775884439008,
+  "endTime": 1775887922423,
   "band_list": [
     {
       "raw_hot": 1595728,
@@ -24,6 +24,14 @@
       "word": "孙怡爆哭",
       "onboard_time": 1775832324,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1322586,
+      "num": 475401,
+      "word": "马頔 我还要生孩子呢",
+      "onboard_time": 1775883023,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 752476,
-      "num": 316438,
-      "word": "马頔 我还要生孩子呢",
-      "onboard_time": 1775883023,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 604395,
       "num": 1045528,
       "word": "男子微信群多次侮辱全红婵被拘",
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520461,
+      "num": 311986,
+      "word": "海底捞礼物 员工罚款购入",
+      "onboard_time": 1775882840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509606,
       "num": 179935,
       "word": "赵子琪淘汰",
@@ -121,6 +129,14 @@
       "onboard_time": 1775863097,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465495,
+      "num": 1074479,
+      "word": "爸爸出门上班5个月孩子独自留家",
+      "onboard_time": 1775885420,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460540,
@@ -139,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406144,
+      "num": 239945,
+      "word": "向太说存款没有200万别买车",
+      "onboard_time": 1775883141,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 382330,
+      "num": 169902,
+      "word": "鹿晗是扁头",
+      "onboard_time": 1775885001,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378005,
       "num": 378005,
       "word": "芒果居然想让孙怡宣布赵子琪淘汰",
@@ -155,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371942,
+      "num": 169874,
+      "word": "郑钧感谢全网为jagger操碎了心",
+      "onboard_time": 1775883801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370482,
       "num": 785119,
       "word": "邓超发五哈新阵容照",
       "onboard_time": 1775880559,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368288,
-      "num": 311986,
-      "word": "海底捞礼物 员工罚款购入",
-      "onboard_time": 1775882840,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350146,
@@ -211,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313684,
+      "num": 169824,
+      "word": "朴宝剑拍的刘诗诗王安宇孙千",
+      "onboard_time": 1775884581,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310087,
       "num": 201657,
       "word": "阿尔忒弥斯2号",
@@ -241,6 +281,14 @@
       "onboard_time": 1775880620,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287815,
+      "num": 169777,
+      "word": "一栗小莎子已化疗4次还有8次",
+      "onboard_time": 1775883441,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 286705,
@@ -307,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 239945,
-      "num": 239945,
-      "word": "向太说存款没有200万别买车",
-      "onboard_time": 1775883141,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235854,
       "num": 235854,
       "word": "官方回应湖南一道路插满奠字灯笼",
@@ -363,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196694,
+      "num": 173090,
+      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
+      "onboard_time": 1775882301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186105,
       "num": 57814,
       "word": "赵子琪淘汰后节目组不让取包",
@@ -379,16 +427,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181453,
-      "num": 173090,
-      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
-      "onboard_time": 1775882301,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181163,
-      "num": 163779,
+      "num": 169656,
       "word": "突然意识到敲门好像不用抬手",
       "onboard_time": 1775881701,
       "rank": 30,
@@ -427,14 +467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176618,
-      "num": 166923,
-      "word": "郑钧感谢全网为jagger操碎了心",
-      "onboard_time": 1775883801,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "田曦薇这肌肉居然不是p的",
@@ -443,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171622,
-      "num": 160282,
-      "word": "一栗小莎子已化疗4次还有8次",
-      "onboard_time": 1775883441,
-      "rank": 31,
-      "category": "网红"
+      "raw_hot": 170062,
+      "num": 170062,
+      "word": "第五人格",
+      "onboard_time": 1775886560,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169593,
+      "num": 169593,
+      "word": "久坐真的会毁掉一个屁股",
+      "onboard_time": 1775884761,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165735,
@@ -483,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157217,
+      "num": 157217,
+      "word": "宁艺卓祝福柳智敏",
+      "onboard_time": 1775887281,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156790,
       "num": 187345,
       "word": "范丞丞新中式帅得我有心事了",
@@ -505,6 +553,14 @@
       "onboard_time": 1775862017,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148414,
+      "num": 169955,
+      "word": "以军士兵摆拍互动孩子不停颤抖",
+      "onboard_time": 1775885961,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145424,
@@ -603,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127453,
+      "num": 127453,
+      "word": "韩国人称被叫小韩感觉不适",
+      "onboard_time": 1775887641,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127407,
       "num": 75565,
       "word": "江苏一女子逛商场上厕所零隔断",
@@ -635,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123347,
+      "num": 123347,
+      "word": "IU新剧女王级别",
+      "onboard_time": 1775887341,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "李楷灿疑似恋爱",
@@ -649,6 +721,14 @@
       "onboard_time": 1775832804,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120988,
+      "num": 169729,
+      "word": "用奔驰陪葬当事人被批评教育",
+      "onboard_time": 1775886860,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118915,
@@ -763,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103393,
+      "num": 139784,
+      "word": "第五人格赛事",
+      "onboard_time": 1775884941,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99963,
       "num": 170078,
       "word": "毛血旺里的毛到底是啥",
@@ -785,6 +873,14 @@
       "onboard_time": 1775878281,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98222,
+      "num": 98222,
+      "word": "众星祝贺赵达杨小夕结婚",
+      "onboard_time": 1775886921,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 98134,
@@ -811,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94949,
+      "num": 94949,
+      "word": "朝鲜支持中国在台湾等问题上的立场",
+      "onboard_time": 1775887101,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93106,
       "num": 57096,
       "word": "特朗普在通话后改口",
@@ -819,12 +923,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89953,
+      "num": 89953,
+      "word": "爸爸回应上班把5个月孩子独自留家",
+      "onboard_time": 1775885843,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89866,
       "num": 89866,
       "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
       "onboard_time": 1775882901,
       "rank": 40,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 89299,
+      "num": 89299,
+      "word": "鞠婧祎 素衣绣蓝",
+      "onboard_time": 1775885661,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 88602,
@@ -859,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87374,
+      "num": 87374,
+      "word": "美伊谈崩了怎么办",
+      "onboard_time": 1775886441,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87067,
       "num": 87067,
       "word": "苏超",
@@ -889,6 +1017,14 @@
       "onboard_time": 1775827823,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83389,
+      "num": 83389,
+      "word": "湖人锁定西部前四",
+      "onboard_time": 1775887040,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 81116,
@@ -1011,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73745,
+      "num": 73745,
+      "word": "美代表团抵达巴基斯坦",
+      "onboard_time": 1775886441,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73683,
       "num": 73683,
       "word": "以为贺峻霖在吹牛 原来是实话",
@@ -1059,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69384,
+      "num": 69384,
+      "word": "小猫想进被窝被拒绝了",
+      "onboard_time": 1775887521,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69277,
       "num": 69277,
       "word": "很多人的代谢不知不觉被拖垮了",
@@ -1105,6 +1257,14 @@
       "onboard_time": 1775833643,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67543,
+      "num": 67543,
+      "word": "单亲妈妈回应工地扛楼月入过万",
+      "onboard_time": 1775886323,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67072,
@@ -1387,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36009,
+      "num": 123549,
+      "word": "俄罗斯食客5点排队吃莫氏鸡煲",
+      "onboard_time": 1775886620,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35734,
       "num": 86215,
       "word": "鸡煲老板遇撞脸刘雨鑫记者场面失控",
@@ -1400,6 +1568,14 @@
       "word": "运钞车加塞别车司机被批评处罚",
       "onboard_time": 1775838023,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34366,
+      "num": 104907,
+      "word": "湖南一小学生在学校附近被撞身亡",
+      "onboard_time": 1775887821,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
