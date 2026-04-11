@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775894222905,
+  "endTime": 1775894697456,
   "band_list": [
     {
       "raw_hot": 1595728,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 685420,
-      "num": 1109667,
+      "raw_hot": 722501,
+      "num": 1115600,
       "word": "妻子发现丈夫藏200多枚金币气炸",
       "onboard_time": 1775891482,
       "rank": 0,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418855,
+      "num": 418855,
+      "word": "原来冲锋衣是胶水粘的",
+      "onboard_time": 1775890221,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406144,
       "num": 273597,
       "word": "向太说存款没有200万别买车",
@@ -192,14 +200,6 @@
       "word": "韩国人称被叫小韩感觉不适",
       "onboard_time": 1775887641,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 397387,
-      "num": 397387,
-      "word": "原来冲锋衣是胶水粘的",
-      "onboard_time": 1775890221,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 333451,
-      "num": 152850,
+      "num": 170202,
       "word": "张婉婷风波后首发文",
       "onboard_time": 1775889380,
       "rank": 38,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305571,
+      "num": 305571,
+      "word": "美股巨震",
+      "onboard_time": 1775891540,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302471,
       "num": 302471,
       "word": "TOP演唱会人气",
@@ -347,16 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299367,
-      "num": 294147,
-      "word": "美股巨震",
-      "onboard_time": 1775891540,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 297867,
-      "num": 297867,
+      "num": 801961,
       "word": "女子从日本带回244本淫秽漫画获刑",
       "onboard_time": 1775892200,
       "rank": 7,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220222,
+      "num": 220222,
+      "word": "单身久了越来越像甲方",
+      "onboard_time": 1775892862,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220089,
       "num": 160763,
       "word": "被盗声太乙真人配音演员合作被取消",
@@ -497,6 +505,14 @@
       "onboard_time": 1775864058,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217296,
+      "num": 217296,
+      "word": "陶昕然叫邓超姐夫",
+      "onboard_time": 1775893640,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 213933,
@@ -521,6 +537,14 @@
       "onboard_time": 1775882301,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190462,
+      "num": 190462,
+      "word": "wbti",
+      "onboard_time": 1775893461,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 186105,
@@ -579,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175205,
-      "num": 175205,
-      "word": "单身久了越来越像甲方",
-      "onboard_time": 1775892862,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "田曦薇这肌肉居然不是p的",
@@ -603,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169864,
+      "num": 169864,
+      "word": "原来我真能花100万",
+      "onboard_time": 1775892741,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169593,
       "num": 169593,
       "word": "久坐真的会毁掉一个屁股",
@@ -617,14 +641,6 @@
       "onboard_time": 1775880203,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165698,
-      "num": 165698,
-      "word": "陶昕然叫邓超姐夫",
-      "onboard_time": 1775893640,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 162849,
@@ -779,14 +795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129617,
-      "num": 129617,
-      "word": "原来我真能花100万",
-      "onboard_time": 1775892741,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127407,
       "num": 75565,
       "word": "江苏一女子逛商场上厕所零隔断",
@@ -851,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119293,
+      "num": 119293,
+      "word": "周渝民妻子宣布复出",
+      "onboard_time": 1775894421,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118915,
       "num": 118915,
       "word": "虞书欣Ins更新",
@@ -883,6 +899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113175,
+      "num": 113175,
+      "word": "TOP演唱会",
+      "onboard_time": 1775890580,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113047,
       "num": 92239,
       "word": "以军在教室开枪打死9岁加沙女孩",
@@ -913,14 +937,6 @@
       "onboard_time": 1775835623,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108066,
-      "num": 108066,
-      "word": "wbti",
-      "onboard_time": 1775893461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 106997,
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105066,
+      "num": 105066,
+      "word": "何超莲樱花照 窦骁视角",
+      "onboard_time": 1775894181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104849,
       "num": 104849,
       "word": "闪迪股价1年暴涨2500%",
@@ -995,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102699,
+      "num": 101907,
+      "word": "五哈是王影璐第一次录综艺",
+      "onboard_time": 1775892141,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102614,
       "num": 102614,
       "word": "武艺说沈月净化了我的眼睛",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1775893401,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 100053,
+      "num": 100053,
+      "word": "郑丽文说看到了台湾的未来",
+      "onboard_time": 1775894540,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99963,
@@ -1033,22 +1073,6 @@
       "onboard_time": 1775878281,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99115,
-      "num": 99115,
-      "word": "五哈是王影璐第一次录综艺",
-      "onboard_time": 1775892141,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 98210,
-      "num": 98210,
-      "word": "TOP演唱会",
-      "onboard_time": 1775890580,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 98134,
@@ -1091,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92924,
+      "num": 92924,
+      "word": "朱志鑫澳门演唱会花墙",
+      "onboard_time": 1775886501,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92191,
       "num": 92191,
       "word": "小孩问外国游客美国人是不是吃人",
@@ -1115,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90347,
+      "num": 85172,
+      "word": "朱志鑫solo告白弹唱",
+      "onboard_time": 1775893284,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90232,
       "num": 90232,
       "word": "收纳届来了个天才",
@@ -1128,6 +1168,14 @@
       "word": "湖南一小学生在学校附近被撞身亡",
       "onboard_time": 1775887821,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90004,
+      "num": 111809,
+      "word": "丈夫9万网购200多块金币妻子气炸",
+      "onboard_time": 1775894601,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1195,11 +1243,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86963,
-      "num": 86963,
-      "word": "朱志鑫澳门演唱会花墙",
-      "onboard_time": 1775886501,
-      "rank": 46,
+      "raw_hot": 86328,
+      "num": 86328,
+      "word": "苏新皓1000平包店人气",
+      "onboard_time": 1775881460,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -1211,28 +1259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85523,
+      "num": 85523,
+      "word": "十日终焉藏海传同一海报团队",
+      "onboard_time": 1775892021,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85202,
       "num": 107121,
       "word": "奔跑吧ins取关TWS",
       "onboard_time": 1775823683,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85009,
-      "num": 85009,
-      "word": "何超莲樱花照 窦骁视角",
-      "onboard_time": 1775894181,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84216,
-      "num": 84216,
-      "word": "十日终焉藏海传同一海报团队",
-      "onboard_time": 1775892021,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 83963,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1775887040,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81116,
-      "num": 81116,
-      "word": "苏新皓1000平包店人气",
-      "onboard_time": 1775881460,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 80660,
@@ -1507,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67647,
+      "num": 85034,
+      "word": "小米正式调价",
+      "onboard_time": 1775893220,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67543,
       "num": 67543,
       "word": "单亲妈妈回应工地扛楼月入过万",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1775832984,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62543,
+      "num": 323882,
+      "word": "汉堡馒头减肥法",
+      "onboard_time": 1775894481,
+      "rank": 9,
+      "category": "运动健身"
     },
     {
       "raw_hot": 61912,
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 56764,
-      "num": 153445,
+      "num": 171845,
       "word": "华为PuraXMax曝光",
       "onboard_time": 1775878581,
       "rank": 49,
@@ -1708,7 +1756,7 @@
     },
     {
       "raw_hot": 54448,
-      "num": 108079,
+      "num": 120105,
       "word": "为什么四月要去荣成吃海鲜",
       "onboard_time": 1775891240,
       "rank": 29,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1775865319,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52334,
+      "num": 170246,
+      "word": "郑丽文说终于找到了答案",
+      "onboard_time": 1775894481,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52177,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1775836222,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43974,
-      "num": 82784,
-      "word": "小米正式调价",
-      "onboard_time": 1775893220,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 43632,

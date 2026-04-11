@@ -1,0 +1,410 @@
+{
+  "runTime": 1775894697456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 722501,
+        "num": 1115600,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292542,
+        "num": 801961,
+        "word": "女子从日本带回244本淫秽漫画获刑",
+        "onboard_time": 1775892200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26105,
+        "num": 655477,
+        "word": "这支短片名叫问勇",
+        "onboard_time": 1775891482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435685,
+        "num": 435685,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418855,
+        "num": 418855,
+        "word": "原来冲锋衣是胶水粘的",
+        "onboard_time": 1775890221,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 680671,
+        "num": 414833,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282145,
+        "num": 393173,
+        "word": "爸爸出门上班5个月孩子独自留家",
+        "onboard_time": 1775885420,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495353,
+        "num": 359195,
+        "word": "王濛 性格耿直又见不得美人儿落泪",
+        "onboard_time": 1775888179,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 63973,
+        "num": 329280,
+        "word": "第五人格",
+        "onboard_time": 1775886560,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62543,
+        "num": 323882,
+        "word": "汉堡馒头减肥法",
+        "onboard_time": 1775894481,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 305571,
+        "num": 305571,
+        "word": "美股巨震",
+        "onboard_time": 1775891540,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300460,
+        "num": 300460,
+        "word": "宁艺卓祝福柳智敏",
+        "onboard_time": 1775887281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268796,
+        "num": 268796,
+        "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
+        "onboard_time": 1775888661,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259095,
+        "num": 259095,
+        "word": "美国一海滩藏发现11具遗体",
+        "onboard_time": 1775890280,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227137,
+        "num": 227137,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220222,
+        "num": 220222,
+        "word": "单身久了越来越像甲方",
+        "onboard_time": 1775892862,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217296,
+        "num": 217296,
+        "word": "陶昕然叫邓超姐夫",
+        "onboard_time": 1775893640,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190462,
+        "num": 190462,
+        "word": "wbti",
+        "onboard_time": 1775893461,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175921,
+        "num": 175921,
+        "word": "鹿晗是扁头",
+        "onboard_time": 1775885001,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55511,
+        "num": 171845,
+        "word": "华为PuraXMax曝光",
+        "onboard_time": 1775878581,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52334,
+        "num": 170246,
+        "word": "郑丽文说终于找到了答案",
+        "onboard_time": 1775894481,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319429,
+        "num": 170202,
+        "word": "张婉婷风波后首发文",
+        "onboard_time": 1775889380,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169864,
+        "num": 169864,
+        "word": "原来我真能花100万",
+        "onboard_time": 1775892741,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 161172,
+        "word": "朴宝剑拍的刘诗诗王安宇孙千",
+        "onboard_time": 1775884581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152144,
+        "num": 152144,
+        "word": "疑似何与朋友点赞吐槽虞书欣言论",
+        "onboard_time": 1775882541,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131093,
+        "num": 148329,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145475,
+        "num": 145475,
+        "word": "TOP演唱会人气",
+        "onboard_time": 1775888603,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114273,
+        "num": 139094,
+        "word": "年锦生气",
+        "onboard_time": 1775889022,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138040,
+        "num": 138040,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55210,
+        "num": 135251,
+        "word": "19岁高中生复刻贝克汉姆惊天吊射",
+        "onboard_time": 1775881223,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132682,
+        "num": 132682,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1775878820,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50048,
+        "num": 120105,
+        "word": "为什么四月要去荣成吃海鲜",
+        "onboard_time": 1775891240,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119293,
+        "num": 119293,
+        "word": "周渝民妻子宣布复出",
+        "onboard_time": 1775894421,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113175,
+        "num": 113175,
+        "word": "TOP演唱会",
+        "onboard_time": 1775890580,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90004,
+        "num": 111809,
+        "word": "丈夫9万网购200多块金币妻子气炸",
+        "onboard_time": 1775894601,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111542,
+        "num": 111542,
+        "word": "一栗小莎子已化疗4次还有8次",
+        "onboard_time": 1775883441,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105204,
+        "num": 105204,
+        "word": "以军士兵摆拍互动孩子不停颤抖",
+        "onboard_time": 1775885961,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105066,
+        "num": 105066,
+        "word": "何超莲樱花照 窦骁视角",
+        "onboard_time": 1775894181,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104814,
+        "num": 104814,
+        "word": "郑钧感谢全网为jagger操碎了心",
+        "onboard_time": 1775883801,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 102177,
+        "word": "闪迪股价1年暴涨2500%",
+        "onboard_time": 1775894121,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102699,
+        "num": 101907,
+        "word": "五哈是王影璐第一次录综艺",
+        "onboard_time": 1775892141,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100053,
+        "num": 100053,
+        "word": "郑丽文说看到了台湾的未来",
+        "onboard_time": 1775894540,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92924,
+        "num": 92924,
+        "word": "朱志鑫澳门演唱会花墙",
+        "onboard_time": 1775886501,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87984,
+        "num": 87984,
+        "word": "韩国遮瑕就买三个品牌",
+        "onboard_time": 1775893401,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 86328,
+        "num": 86328,
+        "word": "苏新皓1000平包店人气",
+        "onboard_time": 1775881460,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85523,
+        "num": 85523,
+        "word": "十日终焉藏海传同一海报团队",
+        "onboard_time": 1775892021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85419,
+        "num": 85419,
+        "word": "小孩问外国游客美国人是不是吃人",
+        "onboard_time": 1775890940,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90347,
+        "num": 85172,
+        "word": "朱志鑫solo告白弹唱",
+        "onboard_time": 1775893284,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67647,
+        "num": 85034,
+        "word": "小米正式调价",
+        "onboard_time": 1775893220,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84908,
+        "num": 84908,
+        "word": "白鹿晚餐吃水煮菜",
+        "onboard_time": 1775873362,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引两岸关系发展#"
+    }
+  }
+}
