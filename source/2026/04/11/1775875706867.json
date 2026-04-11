@@ -1,0 +1,410 @@
+{
+  "runTime": 1775875706867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 284554,
+        "num": 1045528,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 0,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 189186,
+        "num": 733158,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22979,
+        "num": 613861,
+        "word": "我国海水直接制氢取得研究新突破",
+        "onboard_time": 1775827762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1270016,
+        "num": 569724,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262717,
+        "num": 262717,
+        "word": "小猫被亲一口感觉世界都亮了",
+        "onboard_time": 1775873781,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 319195,
+        "num": 230314,
+        "word": "温峥嵘下班也一直在哭着饭撒",
+        "onboard_time": 1775870360,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310087,
+        "num": 201657,
+        "word": "阿尔忒弥斯2号",
+        "onboard_time": 1775870360,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171118,
+        "num": 171118,
+        "word": "王濛 搞体育的最见不得这种",
+        "onboard_time": 1775875401,
+        "rank": 7,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 106464,
+        "num": 170915,
+        "word": "内存条价格过山车",
+        "onboard_time": 1775868021,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93849,
+        "num": 169449,
+        "word": "毛血旺里的毛到底是啥",
+        "onboard_time": 1775867360,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349247,
+        "num": 167639,
+        "word": "白鹿晚餐吃水煮菜",
+        "onboard_time": 1775873362,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281413,
+        "num": 165012,
+        "word": "芒果居然想让孙怡宣布赵子琪淘汰",
+        "onboard_time": 1775863220,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179703,
+        "num": 163521,
+        "word": "小学生给老师起外号被扇四耳光",
+        "onboard_time": 1775870541,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162849,
+        "num": 162849,
+        "word": "巴拿马向中国放完狠话又求饶",
+        "onboard_time": 1775871140,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276080,
+        "num": 161451,
+        "word": "唐艺昕趴在李小冉腿上",
+        "onboard_time": 1775873900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220089,
+        "num": 160763,
+        "word": "被盗声太乙真人配音演员合作被取消",
+        "onboard_time": 1775872941,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 157668,
+        "word": "道士给弟子教针灸收到10万罚单",
+        "onboard_time": 1775873599,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188974,
+        "num": 155444,
+        "word": "肖战再见蓝盈莹已是一番大男主",
+        "onboard_time": 1775864058,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67072,
+        "num": 153724,
+        "word": "斗罗2有自己的史密斯夫妇",
+        "onboard_time": 1775875039,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11485,
+        "num": 152319,
+        "word": "湖南一道路现奠字灯笼绵延百米",
+        "onboard_time": 1775875160,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 151278,
+        "word": "网友提醒刘芸注意儿子内八问题",
+        "onboard_time": 1775863097,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145424,
+        "num": 145424,
+        "word": "孙怡自责爆哭谢娜不停安慰",
+        "onboard_time": 1775868141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136394,
+        "num": 136394,
+        "word": "湖南一路段插满白事灯笼",
+        "onboard_time": 1775873781,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132291,
+        "num": 132291,
+        "word": "张慧雯情商",
+        "onboard_time": 1775864599,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124211,
+        "num": 124211,
+        "word": "肖战已集齐9部大男主剧",
+        "onboard_time": 1775874980,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113559,
+        "num": 113559,
+        "word": "华为大阔折设计图曝光",
+        "onboard_time": 1775875339,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106997,
+        "num": 106997,
+        "word": "老板带280名员工抢下张雪夺冠复刻车",
+        "onboard_time": 1775874559,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "何老师请大家继续永远支持张杰",
+        "onboard_time": 1775871981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103614,
+        "num": 103614,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89321,
+        "num": 89321,
+        "word": "网红一栗小莎子因癌症剃光头",
+        "onboard_time": 1775830044,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89836,
+        "num": 88289,
+        "word": "刘雨鑫又带火了南沙10元自助粥锅店",
+        "onboard_time": 1775874740,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86500,
+        "num": 86500,
+        "word": "秦昊和伊能静首次见面时非单身",
+        "onboard_time": 1775863999,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83053,
+        "num": 83053,
+        "word": "李楷灿疑似恋爱",
+        "onboard_time": 1775875039,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79299,
+        "num": 79299,
+        "word": "汉堡馒头减肥法火了",
+        "onboard_time": 1775875039,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 77913,
+        "num": 77913,
+        "word": "谢娜回家缝裙子去了",
+        "onboard_time": 1775870181,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77354,
+        "num": 77354,
+        "word": "深圳人近期不要吃这些贝类",
+        "onboard_time": 1775870841,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76002,
+        "num": 76002,
+        "word": "5岁女童餐厅坠亡母亲担责3成",
+        "onboard_time": 1775867842,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75773,
+        "num": 75773,
+        "word": "苏超还没开始常州先把梗瞄住了",
+        "onboard_time": 1775875101,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75664,
+        "num": 75664,
+        "word": "湖南一山发现400多株冥界之花水晶兰",
+        "onboard_time": 1775866580,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71926,
+        "num": 71926,
+        "word": "胡先煦十日终焉狼尾发型",
+        "onboard_time": 1775867360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70642,
+        "num": 70642,
+        "word": "滴露回应幼猫死亡疑因用宠物消毒液",
+        "onboard_time": 1775869282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69277,
+        "num": 69277,
+        "word": "很多人的代谢不知不觉被拖垮了",
+        "onboard_time": 1775865980,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66729,
+        "num": 66729,
+        "word": "美载人绕月飞船返回地球",
+        "onboard_time": 1775869761,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65534,
+        "num": 65534,
+        "word": "崔然竣 我漂亮吗",
+        "onboard_time": 1775874559,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64260,
+        "num": 64260,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1775874319,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63125,
+        "num": 63125,
+        "word": "不内耗的人脑子里是怎么想的",
+        "onboard_time": 1775868021,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61287,
+        "num": 61287,
+        "word": "美载人绕月飞船溅落在预定海域",
+        "onboard_time": 1775875639,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56368,
+        "num": 56368,
+        "word": "美国打了一圈伊朗反而更硬了",
+        "onboard_time": 1775867480,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56115,
+        "num": 56115,
+        "word": "刚睡醒的小狗晒被子",
+        "onboard_time": 1775872160,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53828,
+        "num": 53828,
+        "word": "江苏一女子逛商场上厕所零隔断",
+        "onboard_time": 1775863577,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两岸同胞走到一起的大潮流不会变#"
+    }
+  }
+}
