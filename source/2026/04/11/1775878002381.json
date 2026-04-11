@@ -1,0 +1,410 @@
+{
+  "runTime": 1775878002381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1595728,
+        "num": 1595728,
+        "word": "王濛 搞体育的最见不得这种",
+        "onboard_time": 1775875401,
+        "rank": 0,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 231471,
+        "num": 936076,
+        "word": "湖南一路段插满白事灯笼",
+        "onboard_time": 1775873781,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29896,
+        "num": 929859,
+        "word": "嫦娥七号计划下半年发射",
+        "onboard_time": 1775876120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928881,
+        "num": 928881,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284813,
+        "num": 284813,
+        "word": "小猫被亲一口感觉世界都亮了",
+        "onboard_time": 1775873781,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 663622,
+        "num": 251288,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203951,
+        "num": 203951,
+        "word": "男子微信群多次侮辱全红婵被拘",
+        "onboard_time": 1775822243,
+        "rank": 6,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 172046,
+        "num": 172046,
+        "word": "每天做三顿饭肺癌风险高2.1倍",
+        "onboard_time": 1775876480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99963,
+        "num": 170078,
+        "word": "毛血旺里的毛到底是啥",
+        "onboard_time": 1775867360,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77675,
+        "num": 167839,
+        "word": "太阳vs湖人",
+        "onboard_time": 1775876422,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350146,
+        "num": 160495,
+        "word": "白鹿晚餐吃水煮菜",
+        "onboard_time": 1775873362,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332485,
+        "num": 158455,
+        "word": "赵子琪推掉剧组来乘风",
+        "onboard_time": 1775876840,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198009,
+        "num": 151738,
+        "word": "阿尔忒弥斯2号",
+        "onboard_time": 1775870360,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 314180,
+        "num": 148480,
+        "word": "温峥嵘下班也一直在哭着饭撒",
+        "onboard_time": 1775870360,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259401,
+        "num": 144196,
+        "word": "唐艺昕趴在李小冉腿上",
+        "onboard_time": 1775873900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142780,
+        "num": 142780,
+        "word": "道士给弟子教针灸收到10万罚单",
+        "onboard_time": 1775873599,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163294,
+        "num": 142741,
+        "word": "被盗声太乙真人配音演员合作被取消",
+        "onboard_time": 1775872941,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137553,
+        "num": 137553,
+        "word": "肖战再见蓝盈莹已是一番大男主",
+        "onboard_time": 1775864058,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55515,
+        "num": 132622,
+        "word": "美国进口保健品海外地址是共享办公室",
+        "onboard_time": 1775876660,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129240,
+        "num": 129240,
+        "word": "医生回应9斤婴儿出生1月瘦到7斤",
+        "onboard_time": 1775876480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286705,
+        "num": 126959,
+        "word": "陈昊宇点赞训粉博文",
+        "onboard_time": 1775876301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 126221,
+        "word": "刘雨鑫又带火了南沙10元自助粥锅店",
+        "onboard_time": 1775874740,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123058,
+        "num": 123058,
+        "word": "李楷灿疑似恋爱",
+        "onboard_time": 1775875039,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110906,
+        "num": 110906,
+        "word": "汉堡馒头减肥法火了",
+        "onboard_time": 1775875039,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100791,
+        "num": 100791,
+        "word": "这些品牌竟然都是假洋牌",
+        "onboard_time": 1775826322,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97840,
+        "num": 97840,
+        "word": "伊朗谈判代表团命名米纳卜168",
+        "onboard_time": 1775876061,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97466,
+        "num": 97466,
+        "word": "小学生给老师起外号被扇四耳光",
+        "onboard_time": 1775870541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28484,
+        "num": 93111,
+        "word": "海鲜炒饭没蟹排商家赔偿500元",
+        "onboard_time": 1775877681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92835,
+        "num": 92835,
+        "word": "肖战已集齐9部大男主剧",
+        "onboard_time": 1775874980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91609,
+        "num": 91609,
+        "word": "巴拿马向中国放完狠话又求饶",
+        "onboard_time": 1775871140,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89250,
+        "num": 89250,
+        "word": "网友提醒刘芸注意儿子内八问题",
+        "onboard_time": 1775863097,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87922,
+        "num": 87922,
+        "word": "中岛裕翔新木优子结婚",
+        "onboard_time": 1775875760,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85516,
+        "num": 85516,
+        "word": "老板带280名员工抢下张雪夺冠复刻车",
+        "onboard_time": 1775874559,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87891,
+        "num": 84057,
+        "word": "何老师请大家继续永远支持张杰",
+        "onboard_time": 1775871981,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77446,
+        "num": 77446,
+        "word": "文班亚马40分13篮板",
+        "onboard_time": 1775877739,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77269,
+        "num": 77269,
+        "word": "张慧雯情商",
+        "onboard_time": 1775864599,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73873,
+        "num": 73873,
+        "word": "2026KPL春决首发名单",
+        "onboard_time": 1775876719,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69173,
+        "num": 69173,
+        "word": "不内耗的人脑子里是怎么想的",
+        "onboard_time": 1775868021,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67425,
+        "num": 67425,
+        "word": "内存条价格过山车",
+        "onboard_time": 1775868021,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66548,
+        "num": 66548,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1775874319,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65515,
+        "num": 65515,
+        "word": "人有猫瘾猫也有人瘾",
+        "onboard_time": 1775877502,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63611,
+        "num": 63611,
+        "word": "AI被投毒引发宝妈湿巾焦虑",
+        "onboard_time": 1775877981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62490,
+        "num": 62490,
+        "word": "婴儿出生9斤一个月瘦到7斤",
+        "onboard_time": 1775821883,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60328,
+        "num": 60328,
+        "word": "河北一馒头铺惊现超高笼屉",
+        "onboard_time": 1775877860,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60180,
+        "num": 60180,
+        "word": "OpenAI奥特曼住所遭袭",
+        "onboard_time": 1775877860,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59809,
+        "num": 59809,
+        "word": "张雪机车和买家共同捐赠拍卖款",
+        "onboard_time": 1775877141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59198,
+        "num": 59198,
+        "word": "网红一栗小莎子因癌症剃光头",
+        "onboard_time": 1775830044,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58926,
+        "num": 58926,
+        "word": "湖南一山发现400多株冥界之花水晶兰",
+        "onboard_time": 1775866580,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58538,
+        "num": 58538,
+        "word": "华为大阔折设计图曝光",
+        "onboard_time": 1775875339,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57785,
+        "num": 57785,
+        "word": "苏超还没开始常州先把梗瞄住了",
+        "onboard_time": 1775875101,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就两岸关系发展提出4点意见#"
+    }
+  }
+}
