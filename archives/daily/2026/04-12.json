@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775930294532,
+  "endTime": 1775933855243,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -363,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51552,
+      "num": 174241,
+      "word": "浪姐版傲慢与偏见",
+      "onboard_time": 1775926819,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50801,
       "num": 174473,
       "word": "一笙三冠辅助",
@@ -376,14 +384,6 @@
       "word": "赖伟明 好六",
       "onboard_time": 1775926461,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 49519,
-      "num": 174241,
-      "word": "浪姐版傲慢与偏见",
-      "onboard_time": 1775926819,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38838,
+      "num": 38838,
+      "word": "我发现心愿便利贴静音特别好听",
+      "onboard_time": 1775910564,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34348,
       "num": 181082,
       "word": "美前国务卿说攻击伊朗是以总理梦想",
@@ -497,6 +505,54 @@
       "onboard_time": 1775928858,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21602,
+      "num": 28438,
+      "word": "天大图书馆留言板火了",
+      "onboard_time": 1775931976,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 20933,
+      "num": 28434,
+      "word": "美伊谈判开始",
+      "onboard_time": 1775931556,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19931,
+      "num": 28418,
+      "word": "张杰演唱会",
+      "onboard_time": 1775921243,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18828,
+      "num": 28406,
+      "word": "苏超直接把马术秀搬上场",
+      "onboard_time": 1775933595,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17976,
+      "num": 28397,
+      "word": "伊媒称伊斯兰堡谈判有可能延长一天",
+      "onboard_time": 1775926819,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17761,
+      "num": 28394,
+      "word": "伊朗称已迫使美军驱逐舰返航",
+      "onboard_time": 1775916025,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14954,
