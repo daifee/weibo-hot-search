@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775907542849,
+  "endTime": 1775908476598,
   "band_list": [
     {
       "raw_hot": 2213684,
@@ -104,6 +104,14 @@
       "word": "李小冉唐艺昕一公造型",
       "onboard_time": 1775906001,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 642928,
+      "num": 642928,
+      "word": "浪姐直播",
+      "onboard_time": 1775906721,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415695,
+      "num": 147477,
+      "word": "韩女团成员牙疼因没空治疗直接拔了",
+      "onboard_time": 1775906601,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406144,
       "num": 273597,
       "word": "向太说存款没有200万别买车",
@@ -339,16 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355935,
-      "num": 355935,
-      "word": "浪姐直播",
-      "onboard_time": 1775906721,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355511,
-      "num": 375610,
+      "raw_hot": 357840,
+      "num": 668584,
       "word": "女高管自制Excel表及时发现乳腺癌",
       "onboard_time": 1775905102,
       "rank": 41,
@@ -377,6 +385,14 @@
       "onboard_time": 1775873362,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349586,
+      "num": 144976,
+      "word": "姜贞羽差点高位截瘫",
+      "onboard_time": 1775907621,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 348013,
@@ -507,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295608,
+      "num": 295608,
+      "word": "狼队对战KSG",
+      "onboard_time": 1775901143,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293974,
       "num": 310918,
       "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
       "onboard_time": 1775888661,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291204,
+      "num": 291204,
+      "word": "苏超",
+      "onboard_time": 1775881642,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 287815,
@@ -571,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266978,
-      "num": 266978,
-      "word": "狼队对战KSG",
-      "onboard_time": 1775901143,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 264255,
       "num": 227740,
       "word": "婴儿出生9斤一个月瘦到7斤",
@@ -625,14 +649,6 @@
       "onboard_time": 1775863999,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242326,
-      "num": 242326,
-      "word": "苏超",
-      "onboard_time": 1775881642,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 240548,
@@ -715,20 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215416,
-      "num": 126934,
-      "word": "韩女团成员牙疼因没空治疗直接拔了",
-      "onboard_time": 1775906601,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213933,
       "num": 179827,
       "word": "赵丽颖工作室疑似表达对捆绑的不满",
       "onboard_time": 1775827523,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209184,
+      "num": 209184,
+      "word": "钱天一官宣结婚后读博",
+      "onboard_time": 1775907681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199228,
@@ -825,6 +841,14 @@
       "onboard_time": 1775831426,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172602,
+      "num": 111203,
+      "word": "孙怡有种老实人被气疯了的感觉",
+      "onboard_time": 1775906901,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172069,
@@ -929,6 +953,14 @@
       "onboard_time": 1775862017,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "伊朗取得两大战略性收益",
+      "onboard_time": 1775906542,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150567,
@@ -1059,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132414,
+      "num": 132414,
+      "word": "莫氏鸡煲要大变样了",
+      "onboard_time": 1775907621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130648,
       "num": 208008,
       "word": "Gr对战Xteam",
@@ -1155,14 +1195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119091,
-      "num": 111203,
-      "word": "孙怡有种老实人被气疯了的感觉",
-      "onboard_time": 1775906901,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118915,
       "num": 118915,
       "word": "虞书欣Ins更新",
@@ -1243,14 +1275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111169,
-      "num": 111169,
-      "word": "伊朗取得两大战略性收益",
-      "onboard_time": 1775906542,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111104,
       "num": 111104,
       "word": "导演温成林突发心梗去世",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1775835623,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109176,
+      "num": 109176,
+      "word": "男子自带茅台就餐发现味道不对报警",
+      "onboard_time": 1775907621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108871,
@@ -1395,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103280,
+      "num": 103280,
+      "word": "斗破苍穹",
+      "onboard_time": 1775907982,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102699,
       "num": 101907,
       "word": "五哈是王影璐第一次录综艺",
@@ -1483,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97026,
+      "num": 97026,
+      "word": "歌手周深苏超开幕式献唱",
+      "onboard_time": 1775908102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96911,
       "num": 96911,
       "word": "刁蛮公主逍遥王导演逝世",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1775893220,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93596,
+      "num": 93596,
+      "word": "为什么大陆的留学生能力都那么强",
+      "onboard_time": 1775907562,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 93200,
@@ -1660,7 +1716,7 @@
     },
     {
       "raw_hot": 88650,
-      "num": 111408,
+      "num": 123204,
       "word": "深大回应研究生入住月租万元小区",
       "onboard_time": 1775907261,
       "rank": 26,
@@ -1971,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73645,
+      "num": 73419,
+      "word": "感觉哑光的哑这个字很妙",
+      "onboard_time": 1775908282,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 73541,
       "num": 73541,
       "word": "狗狗不语只是一味打双闪",
@@ -1979,12 +2043,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73443,
+      "num": 73443,
+      "word": "美伊为什么在巴基斯坦谈判",
+      "onboard_time": 1775908223,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72924,
       "num": 72924,
       "word": "月鳞绮纪好虐",
       "onboard_time": 1775888242,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72521,
+      "num": 72521,
+      "word": "苏超开幕式排面拉满了",
+      "onboard_time": 1775908402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72504,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1775880980,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70006,
+      "num": 802945,
+      "word": "潮汐车道自动切换太丝滑",
+      "onboard_time": 1775906901,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69384,
@@ -2475,14 +2563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33346,
-      "num": 794320,
-      "word": "潮汐车道自动切换太丝滑",
-      "onboard_time": 1775906901,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33197,
       "num": 637811,
       "word": "我国海水直接制氢取得研究新突破",
@@ -2587,6 +2667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17803,
+      "num": 711537,
+      "word": "国风BGM打开中国舰也太燃了",
+      "onboard_time": 1775891362,
+      "rank": 2,
+      "category": "民生新闻,军事"
+    },
+    {
       "raw_hot": 15513,
       "num": 23602,
       "word": "十日终焉官宣物料",
@@ -2601,14 +2689,6 @@
       "onboard_time": 1775850735,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13885,
-      "num": 629900,
-      "word": "国风BGM打开中国舰也太燃了",
-      "onboard_time": 1775891362,
-      "rank": 2,
-      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 12095,

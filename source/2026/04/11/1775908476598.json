@@ -1,0 +1,410 @@
+{
+  "runTime": 1775908476598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522717,
+        "num": 1083634,
+        "word": "苏超直播",
+        "onboard_time": 1775904202,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70006,
+        "num": 802945,
+        "word": "潮汐车道自动切换太丝滑",
+        "onboard_time": 1775906901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17803,
+        "num": 711537,
+        "word": "国风BGM打开中国舰也太燃了",
+        "onboard_time": 1775891362,
+        "rank": 2,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 357840,
+        "num": 668584,
+        "word": "女高管自制Excel表及时发现乳腺癌",
+        "onboard_time": 1775905102,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352619,
+        "num": 655419,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642928,
+        "num": 642928,
+        "word": "浪姐直播",
+        "onboard_time": 1775906721,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295608,
+        "num": 295608,
+        "word": "狼队对战KSG",
+        "onboard_time": 1775901143,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291204,
+        "num": 291204,
+        "word": "苏超",
+        "onboard_time": 1775881642,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209184,
+        "num": 209184,
+        "word": "钱天一官宣结婚后读博",
+        "onboard_time": 1775907681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170624,
+        "num": 170624,
+        "word": "原来我真能花100万",
+        "onboard_time": 1775892741,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1280028,
+        "num": 164143,
+        "word": "曝曾沛慈退出浪姐",
+        "onboard_time": 1775900122,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489545,
+        "num": 157448,
+        "word": "张予曦毕雯珺合伙人零互动",
+        "onboard_time": 1775903483,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150712,
+        "num": 150712,
+        "word": "伊朗取得两大战略性收益",
+        "onboard_time": 1775906542,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 552111,
+        "num": 149912,
+        "word": "李小冉唐艺昕一公造型",
+        "onboard_time": 1775906001,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148867,
+        "num": 148867,
+        "word": "月租万元小区房成为研究生宿舍",
+        "onboard_time": 1775901622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415695,
+        "num": 147477,
+        "word": "韩女团成员牙疼因没空治疗直接拔了",
+        "onboard_time": 1775906601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349586,
+        "num": 144976,
+        "word": "姜贞羽差点高位截瘫",
+        "onboard_time": 1775907621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142419,
+        "num": 142419,
+        "word": "女子从日本带回244本淫秽漫画获刑",
+        "onboard_time": 1775892200,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132414,
+        "num": 132414,
+        "word": "莫氏鸡煲要大变样了",
+        "onboard_time": 1775907621,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60288,
+        "num": 123204,
+        "word": "深大回应研究生入住月租万元小区",
+        "onboard_time": 1775907261,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282864,
+        "num": 122673,
+        "word": "孙怡 赵子琪淘汰发布会",
+        "onboard_time": 1775897122,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279180,
+        "num": 121963,
+        "word": "十日终焉长安二十四计海报",
+        "onboard_time": 1775900182,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120831,
+        "num": 120831,
+        "word": "Danielle更新iG",
+        "onboard_time": 1775904562,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232431,
+        "num": 118714,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209116,
+        "num": 117420,
+        "word": "TOP演唱会听到哨子声就把音乐调大",
+        "onboard_time": 1775902223,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "男子自带茅台就餐发现味道不对报警",
+        "onboard_time": 1775907621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172602,
+        "num": 108582,
+        "word": "孙怡有种老实人被气疯了的感觉",
+        "onboard_time": 1775906901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161004,
+        "num": 108470,
+        "word": "周深苏超现场首唱热烈盛开",
+        "onboard_time": 1775907261,
+        "rank": 27,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 103280,
+        "num": 103280,
+        "word": "斗破苍穹",
+        "onboard_time": 1775907982,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96296,
+        "num": 102228,
+        "word": "美国一海滩藏发现11具遗体",
+        "onboard_time": 1775890280,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156664,
+        "num": 101705,
+        "word": "谢娜右边臀腿瞬间凉凉透风",
+        "onboard_time": 1775896822,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 100236,
+        "word": "马嘉祺高会",
+        "onboard_time": 1775901143,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151312,
+        "num": 99178,
+        "word": "郑丽文参观故宫",
+        "onboard_time": 1775902823,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98943,
+        "num": 98943,
+        "word": "苏超常州vs南通首发名单",
+        "onboard_time": 1775904020,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110525,
+        "num": 98227,
+        "word": "种地吧直播",
+        "onboard_time": 1775906662,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105807,
+        "num": 97815,
+        "word": "张靓颖怒斥工作人员泄露未发行作品",
+        "onboard_time": 1775897181,
+        "rank": 35,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 97026,
+        "num": 97026,
+        "word": "歌手周深苏超开幕式献唱",
+        "onboard_time": 1775908102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96555,
+        "num": 96555,
+        "word": "终于知道北京人为什么不爱出门了",
+        "onboard_time": 1775898381,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94649,
+        "num": 94649,
+        "word": "30多岁程序员熬夜喝咖啡确诊帕金森",
+        "onboard_time": 1775901921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93596,
+        "num": 93596,
+        "word": "为什么大陆的留学生能力都那么强",
+        "onboard_time": 1775907562,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91921,
+        "num": 91921,
+        "word": "苏超刚开赛名场面就来了",
+        "onboard_time": 1775906601,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90859,
+        "num": 90859,
+        "word": "钢铁森林",
+        "onboard_time": 1775904501,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 82791,
+        "word": "原来冲锋衣是胶水粘的",
+        "onboard_time": 1775890221,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79049,
+        "num": 79049,
+        "word": "张慧雯回应争议",
+        "onboard_time": 1775898381,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76934,
+        "num": 76934,
+        "word": "wbti",
+        "onboard_time": 1775893461,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73443,
+        "num": 73443,
+        "word": "美伊为什么在巴基斯坦谈判",
+        "onboard_time": 1775908223,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73645,
+        "num": 73419,
+        "word": "感觉哑光的哑这个字很妙",
+        "onboard_time": 1775908282,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 72577,
+        "num": 72577,
+        "word": "郑丽文收到机器手礼物秒变郑三岁",
+        "onboard_time": 1775900722,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72521,
+        "num": 72521,
+        "word": "苏超开幕式排面拉满了",
+        "onboard_time": 1775908402,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45657,
+        "num": 72248,
+        "word": "小米正式调价",
+        "onboard_time": 1775893220,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引两岸关系发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775907542849,
+  "endTime": 1775908476598,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1775668397,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 642928,
+      "num": 642928,
+      "word": "浪姐直播",
+      "onboard_time": 1775906721,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 641205,
@@ -2291,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415695,
+      "num": 147477,
+      "word": "韩女团成员牙疼因没空治疗直接拔了",
+      "onboard_time": 1775906601,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415063,
       "num": 353278,
       "word": "本周做什么都顺的星座",
@@ -2915,6 +2931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357840,
+      "num": 668584,
+      "word": "女高管自制Excel表及时发现乳腺癌",
+      "onboard_time": 1775905102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357225,
       "num": 193359,
       "word": "乘风2026一公选歌组队",
@@ -2947,28 +2971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 355935,
-      "num": 355935,
-      "word": "浪姐直播",
-      "onboard_time": 1775906721,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 355749,
       "num": 874162,
       "word": "李在明转发以色列士兵虐童视频",
       "onboard_time": 1775795124,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 355511,
-      "num": 375610,
-      "word": "女高管自制Excel表及时发现乳腺癌",
-      "onboard_time": 1775905102,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355378,
@@ -3081,6 +3089,14 @@
       "onboard_time": 1775364742,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349586,
+      "num": 144976,
+      "word": "姜贞羽差点高位截瘫",
+      "onboard_time": 1775907621,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 348202,
@@ -3771,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295608,
+      "num": 295608,
+      "word": "狼队对战KSG",
+      "onboard_time": 1775901143,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 294882,
       "num": 173885,
       "word": "黄婷婷没去浪姐去了演综",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1775518338,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291204,
+      "num": 291204,
+      "word": "苏超",
+      "onboard_time": 1775881642,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 290497,
@@ -4273,14 +4305,6 @@
       "onboard_time": 1775813361,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266978,
-      "num": 266978,
-      "word": "狼队对战KSG",
-      "onboard_time": 1775901143,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 266271,
@@ -4745,14 +4769,6 @@
       "onboard_time": 1775816662,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 242326,
-      "num": 242326,
-      "word": "苏超",
-      "onboard_time": 1775881642,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 242048,
@@ -5387,14 +5403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 215416,
-      "num": 126934,
-      "word": "韩女团成员牙疼因没空治疗直接拔了",
-      "onboard_time": 1775906601,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214737,
       "num": 238580,
       "word": "黄瓜拌菠萝火了",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1775384900,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209184,
+      "num": 209184,
+      "word": "钱天一官宣结婚后读博",
+      "onboard_time": 1775907681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209129,
@@ -6611,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172602,
+      "num": 111203,
+      "word": "孙怡有种老实人被气疯了的感觉",
+      "onboard_time": 1775906901,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172251,
       "num": 172251,
       "word": "电影青铜葵花定档",
@@ -7377,6 +7401,14 @@
       "onboard_time": 1775313864,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "伊朗取得两大战略性收益",
+      "onboard_time": 1775906542,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150567,
@@ -8267,6 +8299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132414,
+      "num": 132414,
+      "word": "莫氏鸡煲要大变样了",
+      "onboard_time": 1775907621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132326,
       "num": 132326,
       "word": "咖啡店摆700字须知内含禁乱扔丝袜",
@@ -9147,14 +9187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119091,
-      "num": 111203,
-      "word": "孙怡有种老实人被气疯了的感觉",
-      "onboard_time": 1775906901,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119007,
       "num": 119007,
       "word": "徒弟说贺娇龙去世时才40公斤",
@@ -9579,14 +9611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111169,
-      "num": 111169,
-      "word": "伊朗取得两大战略性收益",
-      "onboard_time": 1775906542,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111116,
       "num": 128433,
       "word": "孙颖莎与王曼昱颁奖典礼上热聊",
@@ -9801,6 +9825,14 @@
       "onboard_time": 1775614522,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109176,
+      "num": 109176,
+      "word": "男子自带茅台就餐发现味道不对报警",
+      "onboard_time": 1775907621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109119,
@@ -10441,6 +10473,14 @@
       "onboard_time": 1775884941,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103280,
+      "num": 103280,
+      "word": "斗破苍穹",
+      "onboard_time": 1775907982,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 103273,
@@ -11147,6 +11187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97026,
+      "num": 97026,
+      "word": "歌手周深苏超开幕式献唱",
+      "onboard_time": 1775908102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96912,
       "num": 176374,
       "word": "肖战十日终焉台词",
@@ -11609,6 +11657,14 @@
       "onboard_time": 1775366241,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93596,
+      "num": 93596,
+      "word": "为什么大陆的留学生能力都那么强",
+      "onboard_time": 1775907562,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 93444,
@@ -12276,7 +12332,7 @@
     },
     {
       "raw_hot": 88650,
-      "num": 111408,
+      "num": 123204,
       "word": "深大回应研究生入住月租万元小区",
       "onboard_time": 1775907261,
       "rank": 26,
@@ -14667,6 +14723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73645,
+      "num": 73419,
+      "word": "感觉哑光的哑这个字很妙",
+      "onboard_time": 1775908282,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 73583,
       "num": 173996,
       "word": "DFM对战北京WBG",
@@ -14713,6 +14777,14 @@
       "onboard_time": 1775792845,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73443,
+      "num": 73443,
+      "word": "美伊为什么在巴基斯坦谈判",
+      "onboard_time": 1775908223,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73360,
@@ -14801,6 +14873,14 @@
       "onboard_time": 1775817742,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 72521,
+      "num": 72521,
+      "word": "苏超开幕式排面拉满了",
+      "onboard_time": 1775908402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72504,
@@ -15193,6 +15273,14 @@
       "onboard_time": 1775463382,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70006,
+      "num": 802945,
+      "word": "潮汐车道自动切换太丝滑",
+      "onboard_time": 1775906901,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69975,
@@ -18211,14 +18299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33346,
-      "num": 794320,
-      "word": "潮汐车道自动切换太丝滑",
-      "onboard_time": 1775906901,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33120,
       "num": 105777,
       "word": "洲际酒店的霸王条款该收场了",
@@ -19051,6 +19131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17803,
+      "num": 711537,
+      "word": "国风BGM打开中国舰也太燃了",
+      "onboard_time": 1775891362,
+      "rank": 2,
+      "category": "民生新闻,军事"
+    },
+    {
       "raw_hot": 17356,
       "num": 31660,
       "word": "张真源说呼安和名字一样能睡",
@@ -19161,14 +19249,6 @@
       "onboard_time": 1775414535,
       "rank": 44,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 13885,
-      "num": 629900,
-      "word": "国风BGM打开中国舰也太燃了",
-      "onboard_time": 1775891362,
-      "rank": 2,
-      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 13660,
