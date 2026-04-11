@@ -1,10 +1,10 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775901135186,
+  "endTime": 1775901914101,
   "band_list": [
     {
-      "raw_hot": 1962483,
-      "num": 496474,
+      "raw_hot": 2213684,
+      "num": 619484,
       "word": "曝曾沛慈退出浪姐",
       "onboard_time": 1775900122,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "辟谣/通报,体育"
     },
     {
+      "raw_hot": 561005,
+      "num": 298699,
+      "word": "孙怡 赵子琪淘汰发布会",
+      "onboard_time": 1775897122,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556202,
       "num": 179998,
       "word": "txt",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 528962,
-      "num": 176818,
+      "num": 178522,
       "word": "周渝民妻子宣布复出",
       "onboard_time": 1775894421,
       "rank": 32,
@@ -195,16 +203,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 454211,
-      "num": 298699,
-      "word": "孙怡 赵子琪淘汰发布会",
-      "onboard_time": 1775897122,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451495,
-      "num": 176677,
+      "num": 194741,
       "word": "张靓颖怒斥工作人员泄露未发行作品",
       "onboard_time": 1775897181,
       "rank": 14,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 348013,
-      "num": 176477,
+      "num": 182923,
       "word": "孙怡说以后不当队长了",
       "onboard_time": 1775897723,
       "rank": 26,
@@ -337,6 +337,14 @@
       "onboard_time": 1775892200,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338609,
+      "num": 197484,
+      "word": "张慧雯回应争议",
+      "onboard_time": 1775898381,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 333451,
@@ -425,14 +433,6 @@
       "onboard_time": 1775888603,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 300176,
-      "num": 162400,
-      "word": "张慧雯回应争议",
-      "onboard_time": 1775898381,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 299506,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215913,
+      "num": 172154,
+      "word": "十日终焉长安二十四计海报",
+      "onboard_time": 1775900182,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213933,
       "num": 179827,
       "word": "赵丽颖工作室疑似表达对捆绑的不满",
@@ -699,6 +707,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172069,
+      "num": 172069,
+      "word": "终于知道北京人为什么不爱出门了",
+      "onboard_time": 1775898381,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170969,
+      "num": 170969,
+      "word": "马嘉祺高会",
+      "onboard_time": 1775901143,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170062,
       "num": 507475,
       "word": "第五人格",
@@ -713,6 +737,14 @@
       "onboard_time": 1775884761,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169525,
+      "num": 201140,
+      "word": "美国已同意解冻伊朗海外资产",
+      "onboard_time": 1775899881,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165735,
@@ -755,20 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154751,
-      "num": 154751,
-      "word": "终于知道北京人为什么不爱出门了",
-      "onboard_time": 1775898381,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 154625,
-      "num": 154625,
-      "word": "十日终焉长安二十四计海报",
-      "onboard_time": 1775900182,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 156017,
+      "num": 175855,
+      "word": "408名村民困危山下说雨季来了只能等死",
+      "onboard_time": 1775898080,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 152700,
@@ -825,6 +849,14 @@
       "onboard_time": 1775827164,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143594,
+      "num": 203546,
+      "word": "恋与深空",
+      "onboard_time": 1775900543,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 142780,
@@ -899,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128870,
-      "num": 175855,
-      "word": "408名村民困危山下说雨季来了只能等死",
-      "onboard_time": 1775898080,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 127407,
       "num": 75565,
       "word": "江苏一女子逛商场上厕所零隔断",
@@ -979,14 +1003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121772,
-      "num": 121772,
-      "word": "美国已同意解冻伊朗海外资产",
-      "onboard_time": 1775899881,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 118915,
       "num": 118915,
       "word": "虞书欣Ins更新",
@@ -1051,6 +1067,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111354,
+      "num": 111354,
+      "word": "月租万元小区房成为研究生宿舍",
+      "onboard_time": 1775901622,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111104,
+      "num": 111104,
+      "word": "导演温成林突发心梗去世",
+      "onboard_time": 1775900422,
+      "rank": 33,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 111064,
       "num": 111064,
       "word": "神魂颠倒",
@@ -1073,6 +1105,22 @@
       "onboard_time": 1775835623,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108541,
+      "num": 108541,
+      "word": "我们好像变成了无聊的大人",
+      "onboard_time": 1775900661,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108122,
+      "num": 108122,
+      "word": "莫式鸡煲又迎来了外国百万网红",
+      "onboard_time": 1775901081,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106997,
@@ -1115,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106402,
+      "num": 89091,
+      "word": "一诺宫廷风",
+      "onboard_time": 1775901562,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105224,
       "num": 105224,
       "word": "左航直播看不了",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1775871981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103472,
+      "num": 103472,
+      "word": "狼队对战KSG",
+      "onboard_time": 1775901143,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 103407,
@@ -1177,14 +1241,6 @@
       "onboard_time": 1775893401,
       "rank": 35,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 100388,
-      "num": 159651,
-      "word": "恋与深空",
-      "onboard_time": 1775900543,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 100053,
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96911,
+      "num": 96911,
+      "word": "刁蛮公主逍遥王导演逝世",
+      "onboard_time": 1775900480,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95997,
       "num": 119198,
       "word": "警方通报父母离婚不接年幼乘客",
@@ -1273,14 +1337,6 @@
       "onboard_time": 1775894481,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94145,
-      "num": 94145,
-      "word": "导演温成林突发心梗去世",
-      "onboard_time": 1775900422,
-      "rank": 33,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 94058,
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 92288,
-      "num": 92288,
+      "num": 93194,
       "word": "孙颖莎接受央视采访",
       "onboard_time": 1775900061,
       "rank": 35,
@@ -1331,28 +1387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91584,
-      "num": 91584,
-      "word": "莫式鸡煲又迎来了外国百万网红",
-      "onboard_time": 1775901081,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91555,
       "num": 91555,
       "word": "反向选大学",
       "onboard_time": 1775897541,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91253,
-      "num": 91253,
-      "word": "刁蛮公主逍遥王导演逝世",
-      "onboard_time": 1775900480,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 90544,
@@ -1411,6 +1451,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 88920,
+      "num": 88920,
+      "word": "终于有人能把上班的累描述出来了",
+      "onboard_time": 1775900842,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88796,
       "num": 88796,
       "word": "无畏空降KPL快闪",
@@ -1443,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88242,
+      "num": 88242,
+      "word": "网友致歉称与何与不熟",
+      "onboard_time": 1775882541,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87922,
       "num": 87922,
       "word": "中岛裕翔新木优子结婚",
@@ -1459,20 +1515,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87144,
+      "num": 87144,
+      "word": "蒸架买到了高锰钢",
+      "onboard_time": 1775901562,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87067,
       "num": 87067,
       "word": "苏超",
       "onboard_time": 1775881642,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87005,
-      "num": 87005,
-      "word": "终于有人能把上班的累描述出来了",
-      "onboard_time": 1775900842,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 86328,
@@ -1505,22 +1561,6 @@
       "onboard_time": 1775823683,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84839,
-      "num": 84839,
-      "word": "网友致歉称与何与不熟",
-      "onboard_time": 1775882541,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84343,
-      "num": 84343,
-      "word": "我们好像变成了无聊的大人",
-      "onboard_time": 1775900661,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 83963,
@@ -1740,7 +1780,7 @@
     },
     {
       "raw_hot": 72504,
-      "num": 152080,
+      "num": 156040,
       "word": "在澳门看到半个文博圈",
       "onboard_time": 1775898861,
       "rank": 23,
@@ -2051,6 +2091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 53709,
+      "num": 172161,
+      "word": "郑丽文收到机器手礼物秒变郑三岁",
+      "onboard_time": 1775900722,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53389,
       "num": 83511,
       "word": "21世纪大君夫人",
@@ -2233,14 +2281,6 @@
       "onboard_time": 1775877681,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28328,
-      "num": 109066,
-      "word": "郑丽文收到机器手礼物秒变郑三岁",
-      "onboard_time": 1775900722,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27954,

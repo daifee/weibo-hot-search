@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775901135186,
+  "endTime": 1775901914101,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1867,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2213684,
+      "num": 619484,
+      "word": "曝曾沛慈退出浪姐",
+      "onboard_time": 1775900122,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2213531,
       "num": 1002614,
       "word": "金价",
@@ -2281,14 +2289,6 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1962483,
-      "num": 496474,
-      "word": "曝曾沛慈退出浪姐",
-      "onboard_time": 1775900122,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1959242,
