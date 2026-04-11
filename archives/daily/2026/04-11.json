@@ -1,10 +1,10 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775864676508,
+  "endTime": 1775865635230,
   "band_list": [
     {
       "raw_hot": 1389964,
-      "num": 414203,
+      "num": 574760,
       "word": "李小冉拉王濛起来被甩开",
       "onboard_time": 1775835864,
       "rank": 5,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 604395,
-      "num": 916014,
+      "num": 1043669,
       "word": "男子微信群多次侮辱全红婵被拘",
       "onboard_time": 1775822243,
       "rank": 1,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 473739,
-      "num": 85302,
+      "num": 94489,
       "word": "网友提醒刘芸注意儿子内八问题",
       "onboard_time": 1775863097,
       "rank": 10,
@@ -91,8 +91,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 354687,
-      "num": 172485,
+      "raw_hot": 378005,
+      "num": 378005,
       "word": "芒果居然想让孙怡宣布赵子琪淘汰",
       "onboard_time": 1775863220,
       "rank": 5,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 299506,
+      "num": 86533,
+      "word": "张慧雯情商",
+      "onboard_time": 1775864599,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264255,
       "num": 227740,
       "word": "婴儿出生9斤一个月瘦到7斤",
@@ -116,11 +124,19 @@
     },
     {
       "raw_hot": 263880,
-      "num": 645750,
+      "num": 764439,
       "word": "这些品牌竟然都是假洋牌",
       "onboard_time": 1775826322,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247266,
+      "num": 88823,
+      "word": "秦昊和伊能静首次见面时非单身",
+      "onboard_time": 1775863999,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 240548,
@@ -131,12 +147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219271,
+      "num": 83738,
+      "word": "肖战再见蓝盈莹已是一番大男主",
+      "onboard_time": 1775864058,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213933,
       "num": 179827,
       "word": "赵丽颖工作室疑似表达对捆绑的不满",
       "onboard_time": 1775827523,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186105,
+      "num": 57814,
+      "word": "赵子琪淘汰后节目组不让取包",
+      "onboard_time": 1775865439,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 181793,
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 177054,
-      "num": 177054,
+      "num": 401438,
       "word": "各方同意以伊方十点方案为谈判基础",
       "onboard_time": 1775840958,
       "rank": 39,
@@ -177,14 +209,6 @@
       "onboard_time": 1775862017,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149508,
-      "num": 72936,
-      "word": "张慧雯情商",
-      "onboard_time": 1775864599,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 144756,
@@ -227,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134796,
-      "num": 72156,
-      "word": "秦昊和伊能静首次见面时非单身",
-      "onboard_time": 1775863999,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133968,
       "num": 72753,
       "word": "这个酷似感冒的病进入高发季",
@@ -248,6 +264,14 @@
       "word": "莫氏鸡煲公开秘方",
       "onboard_time": 1775816121,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127407,
+      "num": 75565,
+      "word": "江苏一女子逛商场上厕所零隔断",
+      "onboard_time": 1775863577,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119757,
-      "num": 71853,
-      "word": "江苏一女子逛商场上厕所零隔断",
-      "onboard_time": 1775863577,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118915,
       "num": 118915,
       "word": "虞书欣Ins更新",
@@ -307,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113047,
+      "num": 92239,
+      "word": "以军在教室开枪打死9岁加沙女孩",
+      "onboard_time": 1775863278,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113029,
       "num": 152292,
       "word": "张雪机车拍卖98次出价记录",
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106959,
+      "num": 57158,
+      "word": "高市早苗被当面怒批",
+      "onboard_time": 1775865080,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99623,
       "num": 169458,
       "word": "交警回应私家车遭运钞车别车",
@@ -331,20 +363,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97095,
-      "num": 71502,
-      "word": "肖战再见蓝盈莹已是一番大男主",
-      "onboard_time": 1775864058,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95997,
       "num": 119198,
       "word": "警方通报父母离婚不接年幼乘客",
       "onboard_time": 1775829806,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95836,
+      "num": 95836,
+      "word": "美伊今天在巴基斯坦谈判",
+      "onboard_time": 1775862738,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93106,
+      "num": 57096,
+      "word": "特朗普在通话后改口",
+      "onboard_time": 1775864779,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88602,
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 86042,
-      "num": 86042,
+      "num": 95653,
       "word": "饭圈乱象成影响体育事业的重大风险",
       "onboard_time": 1775856734,
       "rank": 31,
@@ -385,6 +425,14 @@
       "onboard_time": 1775827823,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80660,
+      "num": 105827,
+      "word": "美国海滩连环命案华人男尸身着女装",
+      "onboard_time": 1775836043,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74085,
@@ -409,22 +457,6 @@
       "onboard_time": 1775816662,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71118,
-      "num": 71118,
-      "word": "美伊今天在巴基斯坦谈判",
-      "onboard_time": 1775862738,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 70977,
-      "num": 59762,
-      "word": "以军在教室开枪打死9岁加沙女孩",
-      "onboard_time": 1775863278,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68864,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67031,
+      "num": 67031,
+      "word": "月鳞绮纪",
+      "onboard_time": 1775863638,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66461,
       "num": 66461,
       "word": "阚清子团选择曾沛慈团",
@@ -467,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65595,
-      "num": 105827,
-      "word": "美国海滩连环命案华人男尸身着女装",
-      "onboard_time": 1775836043,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 62761,
       "num": 105035,
       "word": "刘浩存中国电影盛典舞蹈",
       "onboard_time": 1775832984,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 61912,
+      "num": 56371,
+      "word": "伊朗谈判代表团心怀善意但不信美国",
+      "onboard_time": 1775864538,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61268,
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60771,
+      "num": 56151,
+      "word": "十日终焉导演许宏宇编剧蒋峰",
+      "onboard_time": 1775864599,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59422,
       "num": 84738,
       "word": "孙燕姿演唱会花车巡场",
@@ -507,7 +555,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50242,
+      "raw_hot": 54727,
+      "num": 54727,
+      "word": "填埋奔驰车事件系祭拜活动",
+      "onboard_time": 1775865379,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53389,
       "num": 83511,
       "word": "21世纪大君夫人",
       "onboard_time": 1775829563,
@@ -515,12 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49457,
-      "num": 49457,
-      "word": "伊朗谈判代表团心怀善意但不信美国",
-      "onboard_time": 1775864538,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 52390,
+      "num": 52390,
+      "word": "家业",
+      "onboard_time": 1775865319,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52177,
+      "num": 52177,
+      "word": "警方已查到路虎加500元油逃单嫌疑人",
+      "onboard_time": 1775865259,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48643,
@@ -537,14 +601,6 @@
       "onboard_time": 1775863999,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46642,
-      "num": 46642,
-      "word": "月鳞绮纪",
-      "onboard_time": 1775863638,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 46478,
@@ -576,14 +632,6 @@
       "word": "钢铁森林",
       "onboard_time": 1775864178,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 36898,
-      "num": 41043,
-      "word": "十日终焉导演许宏宇编剧蒋峰",
-      "onboard_time": 1775864599,
-      "rank": 47,
       "category": "剧集"
     },
     {
