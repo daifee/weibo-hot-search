@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775894697456,
+  "endTime": 1775897796541,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -2291,6 +2291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 566802,
+      "num": 566802,
+      "word": "谢娜右边臀腿瞬间凉凉透风",
+      "onboard_time": 1775896822,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566194,
       "num": 566194,
       "word": "夫妻AI写公众号年赚200万",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1775882840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519029,
+      "num": 161820,
+      "word": "周渝民妻子宣布复出",
+      "onboard_time": 1775894421,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 517997,
@@ -4419,6 +4435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375470,
+      "num": 375470,
+      "word": "wbti",
+      "onboard_time": 1775893461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375224,
       "num": 257766,
       "word": "疑似涉伊朗战事内幕交易被曝",
@@ -5107,6 +5131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 338819,
+      "num": 827157,
+      "word": "女子从日本带回244本淫秽漫画获刑",
+      "onboard_time": 1775892200,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338459,
       "num": 271631,
       "word": "狗 爷爷这么做一定有他的道理",
@@ -5289,6 +5321,14 @@
       "onboard_time": 1775796026,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 328342,
+      "num": 328342,
+      "word": "李想朋友圈飙脏话",
+      "onboard_time": 1775895501,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 327597,
@@ -5496,6 +5536,14 @@
       "word": "马思纯走出抑郁后的状态",
       "onboard_time": 1775546001,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317871,
+      "num": 161622,
+      "word": "何超莲樱花照 窦骁视角",
+      "onboard_time": 1775894181,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5993,14 +6041,6 @@
       "onboard_time": 1775798903,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297867,
-      "num": 801961,
-      "word": "女子从日本带回244本淫秽漫画获刑",
-      "onboard_time": 1775892200,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297523,
@@ -6520,6 +6560,14 @@
       "word": "金子涵手臂",
       "onboard_time": 1775672534,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277980,
+      "num": 161498,
+      "word": "张靓颖怒斥工作人员泄露未发行作品",
+      "onboard_time": 1775897181,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -7633,6 +7681,14 @@
       "onboard_time": 1775208921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241462,
+      "num": 241462,
+      "word": "原来我真能花100万",
+      "onboard_time": 1775892741,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 240548,
@@ -9635,14 +9691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190462,
-      "num": 190462,
-      "word": "wbti",
-      "onboard_time": 1775893461,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190404,
       "num": 267546,
       "word": "松岛辉空4比0莫雷加德",
@@ -10587,14 +10635,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169864,
-      "num": 169864,
-      "word": "原来我真能花100万",
-      "onboard_time": 1775892741,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 169845,
       "num": 154502,
       "word": "猪八戒扮演者马德华将送别陈丽华",
@@ -11041,6 +11081,14 @@
       "onboard_time": 1775438902,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162040,
+      "num": 323882,
+      "word": "汉堡馒头减肥法",
+      "onboard_time": 1775894481,
+      "rank": 9,
+      "category": "运动健身"
     },
     {
       "raw_hot": 161995,
@@ -11992,6 +12040,14 @@
       "word": "陈哲远少上点网吧",
       "onboard_time": 1775745325,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146005,
+      "num": 146005,
+      "word": "孙怡说以后不当队长了",
+      "onboard_time": 1775897723,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -14115,6 +14171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122904,
+      "num": 122904,
+      "word": "sakee开火THOME",
+      "onboard_time": 1775896462,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122819,
       "num": 96950,
       "word": "sbti妈妈",
@@ -14571,14 +14635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119293,
-      "num": 119293,
-      "word": "周渝民妻子宣布复出",
-      "onboard_time": 1775894421,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119188,
       "num": 119188,
       "word": "小俞状态",
@@ -15033,6 +15089,14 @@
       "onboard_time": 1775349978,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115311,
+      "num": 161186,
+      "word": "林高远说身后都是10后大家一起加油",
+      "onboard_time": 1775894960,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 115225,
@@ -16315,14 +16379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105066,
-      "num": 105066,
-      "word": "何超莲樱花照 窦骁视角",
-      "onboard_time": 1775894181,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105040,
       "num": 105040,
       "word": "鸡煲店媳妇双手因拔鸡毛剁鸡已发白",
@@ -16356,7 +16412,7 @@
     },
     {
       "raw_hot": 104849,
-      "num": 104849,
+      "num": 114994,
       "word": "闪迪股价1年暴涨2500%",
       "onboard_time": 1775894121,
       "rank": 33,
@@ -17331,6 +17387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99507,
+      "num": 99507,
+      "word": "神魂颠倒",
+      "onboard_time": 1775895622,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99502,
       "num": 99502,
       "word": "王楚钦晋级淘汰赛",
@@ -17369,6 +17433,14 @@
       "onboard_time": 1775097801,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99348,
+      "num": 99348,
+      "word": "左航提醒大家带外套",
+      "onboard_time": 1775890881,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 99330,
@@ -17689,6 +17761,14 @@
       "onboard_time": 1775288122,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97739,
+      "num": 94361,
+      "word": "邓超陈赫看到女嘉宾全选鹿晗的反应",
+      "onboard_time": 1775894722,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 97690,
@@ -18315,6 +18395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94562,
+      "num": 170246,
+      "word": "郑丽文说终于找到了答案",
+      "onboard_time": 1775894481,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94530,
       "num": 83195,
       "word": "狗妈妈生着生着就没墨了",
@@ -18361,6 +18449,14 @@
       "onboard_time": 1775533043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94058,
+      "num": 94058,
+      "word": "小米正式调价",
+      "onboard_time": 1775893220,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 94042,
@@ -18584,6 +18680,14 @@
       "word": "教体局回应小学要求早上6点40到校",
       "onboard_time": 1775097380,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93200,
+      "num": 93200,
+      "word": "87岁老人摔倒后在地上躺了一整夜",
+      "onboard_time": 1775893284,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -19001,14 +19105,6 @@
       "onboard_time": 1775393544,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91131,
-      "num": 91131,
-      "word": "87岁老人摔倒后在地上躺了一整夜",
-      "onboard_time": 1775893284,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91068,
@@ -19619,6 +19715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88499,
+      "num": 88499,
+      "word": "无畏空降KPL快闪",
+      "onboard_time": 1775895380,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88482,
       "num": 98153,
       "word": "中方回应日本强行部署远程导弹",
@@ -19809,6 +19913,14 @@
       "onboard_time": 1775021963,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 87807,
+      "num": 87807,
+      "word": "反向选大学",
+      "onboard_time": 1775897541,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 87751,
@@ -21299,6 +21411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 81786,
+      "num": 160713,
+      "word": "平台回应老人9万买2斤金币砸手里",
+      "onboard_time": 1775895920,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81748,
       "num": 81748,
       "word": "萨摩耶绝育后哭声响彻整个医院",
@@ -22545,6 +22665,14 @@
       "onboard_time": 1775183661,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76671,
+      "num": 85823,
+      "word": "哪个省能撑起一月游",
+      "onboard_time": 1775897723,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 76669,
@@ -24867,14 +24995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67647,
-      "num": 85034,
-      "word": "小米正式调价",
-      "onboard_time": 1775893220,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 67617,
       "num": 97972,
       "word": "伊朗放话以色列的账算美国头上",
@@ -25761,14 +25881,6 @@
       "onboard_time": 1775261120,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62543,
-      "num": 323882,
-      "word": "汉堡馒头减肥法",
-      "onboard_time": 1775894481,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 62438,
@@ -27259,14 +27371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52334,
-      "num": 170246,
-      "word": "郑丽文说终于找到了答案",
-      "onboard_time": 1775894481,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52256,
       "num": 102447,
       "word": "美军战机被击落意味着冲突大幅升级",
@@ -28147,6 +28251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40952,
+      "num": 124165,
+      "word": "伊美今天谈判",
+      "onboard_time": 1775896521,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40703,
       "num": 133088,
       "word": "美航天局长称外星人存在几率相当高",
@@ -29008,6 +29120,14 @@
       "word": "女子称前夫离世遗产被其兄妹瓜分",
       "onboard_time": 1775216422,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28599,
+      "num": 160623,
+      "word": "我国卫星拍下最大冰山最后一程",
+      "onboard_time": 1775897302,
+      "rank": 21,
       "category": "民生新闻"
     },
     {

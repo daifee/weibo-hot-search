@@ -1,0 +1,410 @@
+{
+  "runTime": 1775897796541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 654040,
+        "num": 1104646,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338819,
+        "num": 827157,
+        "word": "女子从日本带回244本淫秽漫画获刑",
+        "onboard_time": 1775892200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25714,
+        "num": 649376,
+        "word": "这支短片名叫问勇",
+        "onboard_time": 1775891482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566802,
+        "num": 566802,
+        "word": "谢娜右边臀腿瞬间凉凉透风",
+        "onboard_time": 1775896822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375470,
+        "num": 375470,
+        "word": "wbti",
+        "onboard_time": 1775893461,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390872,
+        "num": 356251,
+        "word": "孙怡送了一个白眼给芒果",
+        "onboard_time": 1775876900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328342,
+        "num": 328342,
+        "word": "李想朋友圈飙脏话",
+        "onboard_time": 1775895501,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248729,
+        "num": 248729,
+        "word": "原来冲锋衣是胶水粘的",
+        "onboard_time": 1775890221,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241462,
+        "num": 241462,
+        "word": "原来我真能花100万",
+        "onboard_time": 1775892741,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162040,
+        "num": 162040,
+        "word": "汉堡馒头减肥法",
+        "onboard_time": 1775894481,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 660971,
+        "num": 161983,
+        "word": "马頔 我还要生孩子呢",
+        "onboard_time": 1775883023,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519029,
+        "num": 161820,
+        "word": "周渝民妻子宣布复出",
+        "onboard_time": 1775894421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233337,
+        "num": 161728,
+        "word": "美股巨震",
+        "onboard_time": 1775891540,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317871,
+        "num": 161622,
+        "word": "何超莲樱花照 窦骁视角",
+        "onboard_time": 1775894181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277980,
+        "num": 161498,
+        "word": "张靓颖怒斥工作人员泄露未发行作品",
+        "onboard_time": 1775897181,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206074,
+        "num": 161410,
+        "word": "单身久了越来越像甲方",
+        "onboard_time": 1775892862,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191315,
+        "num": 161284,
+        "word": "美国一海滩藏发现11具遗体",
+        "onboard_time": 1775890280,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115311,
+        "num": 161186,
+        "word": "林高远说身后都是10后大家一起加油",
+        "onboard_time": 1775894960,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189611,
+        "num": 161057,
+        "word": "宁艺卓祝福柳智敏",
+        "onboard_time": 1775887281,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166000,
+        "num": 160859,
+        "word": "爸爸出门上班5个月孩子独自留家",
+        "onboard_time": 1775885420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81786,
+        "num": 160713,
+        "word": "平台回应老人9万买2斤金币砸手里",
+        "onboard_time": 1775895920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28599,
+        "num": 160623,
+        "word": "我国卫星拍下最大冰山最后一程",
+        "onboard_time": 1775897302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252343,
+        "num": 160514,
+        "word": "张婉婷风波后首发文",
+        "onboard_time": 1775889380,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187458,
+        "num": 160371,
+        "word": "赵子琪不会再来浪姐",
+        "onboard_time": 1775868201,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 160249,
+        "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
+        "onboard_time": 1775888661,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160230,
+        "num": 160230,
+        "word": "陶昕然叫邓超姐夫",
+        "onboard_time": 1775893640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146005,
+        "num": 146005,
+        "word": "孙怡说以后不当队长了",
+        "onboard_time": 1775897723,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106063,
+        "num": 136509,
+        "word": "海底捞礼物 员工罚款购入",
+        "onboard_time": 1775882840,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127337,
+        "num": 127337,
+        "word": "朴宝剑拍的刘诗诗王安宇孙千",
+        "onboard_time": 1775884581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40952,
+        "num": 124165,
+        "word": "伊美今天谈判",
+        "onboard_time": 1775896521,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 123324,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1775878820,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 122904,
+        "word": "sakee开火THOME",
+        "onboard_time": 1775896462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101010,
+        "num": 114994,
+        "word": "闪迪股价1年暴涨2500%",
+        "onboard_time": 1775894121,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111966,
+        "num": 111966,
+        "word": "向太说存款没有200万别买车",
+        "onboard_time": 1775883141,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105695,
+        "num": 105695,
+        "word": "鹿晗是扁头",
+        "onboard_time": 1775885001,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100893,
+        "num": 100893,
+        "word": "以军士兵摆拍互动孩子不停颤抖",
+        "onboard_time": 1775885961,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99507,
+        "num": 99507,
+        "word": "神魂颠倒",
+        "onboard_time": 1775895622,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99348,
+        "num": 99348,
+        "word": "左航提醒大家带外套",
+        "onboard_time": 1775890881,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94562,
+        "num": 94562,
+        "word": "郑丽文说终于找到了答案",
+        "onboard_time": 1775894481,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97861,
+        "num": 94534,
+        "word": "TOP演唱会人气",
+        "onboard_time": 1775888603,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97739,
+        "num": 94361,
+        "word": "邓超陈赫看到女嘉宾全选鹿晗的反应",
+        "onboard_time": 1775894722,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94058,
+        "num": 94058,
+        "word": "小米正式调价",
+        "onboard_time": 1775893220,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93200,
+        "num": 93200,
+        "word": "87岁老人摔倒后在地上躺了一整夜",
+        "onboard_time": 1775893284,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88499,
+        "num": 88499,
+        "word": "无畏空降KPL快闪",
+        "onboard_time": 1775895380,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87807,
+        "num": 87807,
+        "word": "反向选大学",
+        "onboard_time": 1775897541,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86626,
+        "num": 86626,
+        "word": "TOP演唱会",
+        "onboard_time": 1775890580,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86197,
+        "num": 86197,
+        "word": "一栗小莎子已化疗4次还有8次",
+        "onboard_time": 1775883441,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76671,
+        "num": 85823,
+        "word": "哪个省能撑起一月游",
+        "onboard_time": 1775897723,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85629,
+        "num": 85629,
+        "word": "郑钧感谢全网为jagger操碎了心",
+        "onboard_time": 1775883801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76839,
+        "num": 76839,
+        "word": "五哈是王影璐第一次录综艺",
+        "onboard_time": 1775892141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引两岸关系发展#"
+    }
+  }
+}
