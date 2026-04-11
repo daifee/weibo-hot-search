@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775943727916,
+  "endTime": 1775944664794,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -523,11 +523,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21693,
+      "raw_hot": 25084,
       "num": 28434,
       "word": "美伊谈判开始",
       "onboard_time": 1775931556,
       "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22181,
+      "num": 28397,
+      "word": "伊媒称伊斯兰堡谈判有可能延长一天",
+      "onboard_time": 1775926819,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -555,15 +563,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17976,
-      "num": 28397,
-      "word": "伊媒称伊斯兰堡谈判有可能延长一天",
-      "onboard_time": 1775926819,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17884,
+      "raw_hot": 17907,
       "num": 28394,
       "word": "伊朗称已迫使美军驱逐舰返航",
       "onboard_time": 1775916025,
@@ -617,6 +617,14 @@
       "onboard_time": 1775940133,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13766,
+      "num": 21330,
+      "word": "彩虹的微笑票数",
+      "onboard_time": 1775942293,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1775944664794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 91680,
+        "num": 252325,
+        "word": "海底捞已通知一千多家门店内部排查",
+        "onboard_time": 1775914463,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68866,
+        "num": 182570,
+        "word": "直播晕倒被辞退女主播发声",
+        "onboard_time": 1775925800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11460,
+        "num": 150774,
+        "word": "我国经济一季度交出亮眼答卷",
+        "onboard_time": 1775910084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67847,
+        "num": 67847,
+        "word": "女子1天爬2次华山收到景区问候",
+        "onboard_time": 1775922142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63017,
+        "num": 63017,
+        "word": "齐思钧主持能力",
+        "onboard_time": 1775924061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47392,
+        "num": 47392,
+        "word": "美媒称数艘美军舰通过霍尔木兹",
+        "onboard_time": 1775913264,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49264,
+        "num": 44663,
+        "word": "维妮娜淘汰",
+        "onboard_time": 1775918487,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38645,
+        "num": 38645,
+        "word": "伊朗警告美驱逐舰",
+        "onboard_time": 1775927360,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28644,
+        "num": 28644,
+        "word": "生命树取景地接待超15万人次",
+        "onboard_time": 1775923162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28456,
+        "num": 28456,
+        "word": "白日提灯",
+        "onboard_time": 1775937975,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43908,
+        "num": 28445,
+        "word": "印媒称印度眼睁睁看自己被边缘化",
+        "onboard_time": 1775923342,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33764,
+        "num": 28423,
+        "word": "谢娜直播官宣演唱会",
+        "onboard_time": 1775914765,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30755,
+        "num": 28421,
+        "word": "浪姐版傲慢与偏见",
+        "onboard_time": 1775926819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29440,
+        "num": 28397,
+        "word": "江语晨胜诉浪姐后台哭成一片",
+        "onboard_time": 1775915602,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28389,
+        "num": 28389,
+        "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
+        "onboard_time": 1775916205,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25560,
+        "num": 25560,
+        "word": "赵子琪 浪姐",
+        "onboard_time": 1775923522,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25084,
+        "num": 25084,
+        "word": "美伊谈判开始",
+        "onboard_time": 1775931556,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25061,
+        "num": 25061,
+        "word": "庄法萧蔷 不该pk",
+        "onboard_time": 1775920042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22446,
+        "num": 22446,
+        "word": "苏超常州3比0南通",
+        "onboard_time": 1775918186,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21801,
+        "num": 21801,
+        "word": "李小冉口误喊赵兆老公",
+        "onboard_time": 1775915362,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23640,
+        "num": 21591,
+        "word": "心愿便利贴 不好听但溺爱了",
+        "onboard_time": 1775911344,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22635,
+        "num": 21561,
+        "word": "35岁是癌症风险关键分水岭",
+        "onboard_time": 1775913863,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21353,
+        "num": 21353,
+        "word": "清清",
+        "onboard_time": 1775916446,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17907,
+        "num": 21353,
+        "word": "伊朗称已迫使美军驱逐舰返航",
+        "onboard_time": 1775916025,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 21351,
+        "word": "浪姐排名",
+        "onboard_time": 1775918966,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16781,
+        "num": 21351,
+        "word": "李小冉团赢了庄法团",
+        "onboard_time": 1775912004,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 21349,
+        "word": "怦然心动20岁",
+        "onboard_time": 1775936474,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16357,
+        "num": 21349,
+        "word": "巴基斯坦官员说伊美谈判进程慢于预期",
+        "onboard_time": 1775921182,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16294,
+        "num": 21347,
+        "word": "KSG冠军",
+        "onboard_time": 1775912664,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16194,
+        "num": 21346,
+        "word": "美伊巴举行面对面会谈",
+        "onboard_time": 1775929997,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22181,
+        "num": 21346,
+        "word": "伊媒称伊斯兰堡谈判有可能延长一天",
+        "onboard_time": 1775926819,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19438,
+        "num": 21345,
+        "word": "苏超50台机器人雨中齐舞",
+        "onboard_time": 1775925441,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18156,
+        "num": 21344,
+        "word": "金饰开始拼促销最高克减360",
+        "onboard_time": 1775926699,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16585,
+        "num": 21343,
+        "word": "美伊伊斯兰堡谈判开始",
+        "onboard_time": 1775935216,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15638,
+        "num": 21342,
+        "word": "KSG零封狼队",
+        "onboard_time": 1775912664,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15200,
+        "num": 21341,
+        "word": "苏超直接把马术秀搬上场",
+        "onboard_time": 1775933595,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14866,
+        "num": 21339,
+        "word": "我英语水平 乌兰图雅",
+        "onboard_time": 1775916083,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14854,
+        "num": 21339,
+        "word": "我发现心愿便利贴静音特别好听",
+        "onboard_time": 1775910564,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14758,
+        "num": 21338,
+        "word": "赵子琪置顶是藏海传",
+        "onboard_time": 1775924421,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14641,
+        "num": 21337,
+        "word": "天大图书馆留言板火了",
+        "onboard_time": 1775931976,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13737,
+        "num": 21335,
+        "word": "无限超越班",
+        "onboard_time": 1775934734,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13626,
+        "num": 21334,
+        "word": "李荣浩太原演唱会",
+        "onboard_time": 1775926400,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13217,
+        "num": 21333,
+        "word": "张杰演唱会",
+        "onboard_time": 1775921243,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12949,
+        "num": 21333,
+        "word": "明日方舟终末地",
+        "onboard_time": 1775930956,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12380,
+        "num": 21332,
+        "word": "一笙三冠辅助",
+        "onboard_time": 1775915123,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13766,
+        "num": 21330,
+        "word": "彩虹的微笑票数",
+        "onboard_time": 1775942293,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12195,
+        "num": 21330,
+        "word": "庄法萧蔷pk",
+        "onboard_time": 1775935694,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11547,
+        "num": 21328,
+        "word": "鸡煲老板透露汤底可补肾后又反悔",
+        "onboard_time": 1775919084,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11155,
+        "num": 21327,
+        "word": "张予曦毕雯珺合伙人零互动",
+        "onboard_time": 1775903483,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10828,
+        "num": 21326,
+        "word": "赖伟明 好六",
+        "onboard_time": 1775926461,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
+    }
+  }
+}
