@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 22:43:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 23:03:27
 </p>
 </blockquote>
 <p>
@@ -605,6 +605,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%A2%E6%AF%94%E5%AD%99%E6%80%A1%E5%9B%A2%E7%A5%A8%E6%95%B0%E9%AB%98%23" target="weibo">
 阚清子团比孙怡团票数高（热度：4616241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%A6%AE%E5%A8%9C%E6%B7%98%E6%B1%B0%23" target="weibo">
+维妮娜淘汰（热度：4473420）
 </a>
 </li>
 
@@ -1551,6 +1557,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%A6%AE%E5%A8%9C%20%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+维妮娜 我不知道评分标准是什么（热度：2119685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BD%93%E4%BC%97%E6%89%87%E5%BE%90%E8%89%BA%E6%B4%8B%E5%B7%B4%E6%8E%8C%23" target="weibo">
 黄子韬当众扇徐艺洋巴掌（热度：2118955）
 </a>
@@ -1799,18 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%BE%B3%E9%97%A8%E8%BE%93%E6%8E%89%E5%8D%81%E5%87%A0%E4%BA%BF%23" target="weibo">
 黄晓明回应在澳门输掉十几亿（热度：1928940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
-金晨鼻子（热度：1928217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E5%B7%B2%E7%BB%8F%E5%A1%8C%E6%97%A0%E5%8F%AF%E5%A1%8C%E4%BA%86%23" target="weibo">
-老坛酸菜已经塌无可塌了（热度：1924560）
 </a>
 </li>
 

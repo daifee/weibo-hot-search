@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1775918631126,
+  "endTime": 1775919807982,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -792,6 +792,14 @@
       "word": "阚清子团比孙怡团票数高",
       "onboard_time": 1775831124,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4473420,
+      "num": 789197,
+      "word": "维妮娜淘汰",
+      "onboard_time": 1775918487,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 2119685,
+      "num": 396579,
+      "word": "维妮娜 我不知道评分标准是什么",
+      "onboard_time": 1775918424,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2118955,
       "num": 208697,
       "word": "黄子韬当众扇徐艺洋巴掌",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771650199,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1928217,
-      "num": 1774274,
-      "word": "金晨鼻子",
-      "onboard_time": 1769768847,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1924560,
-      "num": 616633,
-      "word": "老坛酸菜已经塌无可塌了",
-      "onboard_time": 1769058561,
-      "rank": 3,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

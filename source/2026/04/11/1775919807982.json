@@ -1,0 +1,410 @@
+{
+  "runTime": 1775919807982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 921414,
+        "num": 1354986,
+        "word": "心疼庄法团",
+        "onboard_time": 1775917886,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758628,
+        "num": 1012978,
+        "word": "海底捞已通知一千多家门店内部排查",
+        "onboard_time": 1775914463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41061,
+        "num": 792639,
+        "word": "我国经济一季度交出亮眼答卷",
+        "onboard_time": 1775910084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4473420,
+        "num": 789197,
+        "word": "维妮娜淘汰",
+        "onboard_time": 1775918487,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580406,
+        "num": 580406,
+        "word": "浪姐排名",
+        "onboard_time": 1775918966,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397309,
+        "num": 397309,
+        "word": "KSG零封狼队",
+        "onboard_time": 1775912664,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273384,
+        "num": 397209,
+        "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
+        "onboard_time": 1775916205,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251099,
+        "num": 397094,
+        "word": "苏超比分",
+        "onboard_time": 1775912004,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219710,
+        "num": 396826,
+        "word": "美媒称数艘美军舰通过霍尔木兹",
+        "onboard_time": 1775913264,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167592,
+        "num": 396672,
+        "word": "苏超常州3比0南通",
+        "onboard_time": 1775918186,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2119685,
+        "num": 396579,
+        "word": "维妮娜 我不知道评分标准是什么",
+        "onboard_time": 1775918424,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819893,
+        "num": 396386,
+        "word": "李小冉团赢了庄法团",
+        "onboard_time": 1775912004,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178213,
+        "num": 396189,
+        "word": "特朗普称美方开始清理霍尔木兹海峡",
+        "onboard_time": 1775915302,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1053009,
+        "num": 396067,
+        "word": "乌兰图雅团第一",
+        "onboard_time": 1775916504,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487814,
+        "num": 395945,
+        "word": "浪姐 投票标准",
+        "onboard_time": 1775913863,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128362,
+        "num": 395824,
+        "word": "给老师起外号被扇耳光小学生家长发声",
+        "onboard_time": 1775916205,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24144,
+        "num": 395629,
+        "word": "潮汐车道自动切换太丝滑",
+        "onboard_time": 1775906901,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 955016,
+        "num": 395458,
+        "word": "谢娜直播官宣演唱会",
+        "onboard_time": 1775914765,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600343,
+        "num": 395305,
+        "word": "我英语水平 乌兰图雅",
+        "onboard_time": 1775916083,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482458,
+        "num": 395120,
+        "word": "雨爱 这才是全开麦",
+        "onboard_time": 1775914645,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178842,
+        "num": 394882,
+        "word": "每天练15分钟八段锦效果好",
+        "onboard_time": 1775918546,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125843,
+        "num": 394863,
+        "word": "KSG冠军",
+        "onboard_time": 1775912664,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 910875,
+        "num": 394621,
+        "word": "江语晨胜诉浪姐后台哭成一片",
+        "onboard_time": 1775915602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394555,
+        "num": 394555,
+        "word": "李小冉口误喊赵兆老公",
+        "onboard_time": 1775915362,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135230,
+        "num": 385746,
+        "word": "35岁是癌症风险关键分水岭",
+        "onboard_time": 1775913863,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123276,
+        "num": 381100,
+        "word": "狼队对战KSG",
+        "onboard_time": 1775901143,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 655910,
+        "num": 381098,
+        "word": "浪姐直播",
+        "onboard_time": 1775906721,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380789,
+        "num": 380789,
+        "word": "浪姐太虐了",
+        "onboard_time": 1775918124,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110313,
+        "num": 302975,
+        "word": "苏超太湖三傻爆改太湖三霸",
+        "onboard_time": 1775918665,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99655,
+        "num": 294155,
+        "word": "伊朗称已迫使美军驱逐舰返航",
+        "onboard_time": 1775916025,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287195,
+        "num": 287195,
+        "word": "心愿便利贴 不好听但溺爱了",
+        "onboard_time": 1775911344,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283618,
+        "num": 283618,
+        "word": "我听心愿便利贴belike曾沛慈",
+        "onboard_time": 1775915183,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105038,
+        "num": 262373,
+        "word": "狼队超话大文豪",
+        "onboard_time": 1775917705,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260251,
+        "num": 260251,
+        "word": "江语晨前夫",
+        "onboard_time": 1775908823,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250888,
+        "num": 250888,
+        "word": "是你",
+        "onboard_time": 1775917824,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 219599,
+        "word": "清清",
+        "onboard_time": 1775916446,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217940,
+        "num": 217940,
+        "word": "者来父就这么宠爱地看着",
+        "onboard_time": 1775917465,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188791,
+        "num": 188791,
+        "word": "徐洁儿为什么会没人选",
+        "onboard_time": 1775918785,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95559,
+        "num": 186707,
+        "word": "用奔驰车陪葬事件当事人致歉",
+        "onboard_time": 1775918844,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186675,
+        "num": 186675,
+        "word": "安崎 天生爱豆",
+        "onboard_time": 1775913502,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162654,
+        "num": 162654,
+        "word": "萧蔷 文化工作者还是要有文化",
+        "onboard_time": 1775914043,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93136,
+        "num": 145648,
+        "word": "SK教练",
+        "onboard_time": 1775915780,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "这个家没有万千惠得散",
+        "onboard_time": 1775916924,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 130670,
+        "word": "王橹杰库存照",
+        "onboard_time": 1775919743,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92654,
+        "num": 128783,
+        "word": "鸡煲老板透露汤底可补肾后又反悔",
+        "onboard_time": 1775919084,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84978,
+        "num": 128781,
+        "word": "苏超裁判通过VAR给了南通队红牌",
+        "onboard_time": 1775918124,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128780,
+        "num": 128780,
+        "word": "汪苏泷应援棒遗失补偿",
+        "onboard_time": 1775916329,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129660,
+        "num": 128666,
+        "word": "一栗小莎子得的是霍奇金淋巴瘤",
+        "onboard_time": 1775919623,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90249,
+        "num": 127938,
+        "word": "苏超直播",
+        "onboard_time": 1775904202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136989,
+        "num": 127612,
+        "word": "萧蔷团794票",
+        "onboard_time": 1775914344,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
+    }
+  }
+}

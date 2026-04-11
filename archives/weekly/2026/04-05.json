@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775918631126,
+  "endTime": 1775919807982,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -24,6 +24,14 @@
       "word": "阚清子团比孙怡团票数高",
       "onboard_time": 1775831124,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4473420,
+      "num": 789197,
+      "word": "维妮娜淘汰",
+      "onboard_time": 1775918487,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1775776338,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2119685,
+      "num": 396579,
+      "word": "维妮娜 我不知道评分标准是什么",
+      "onboard_time": 1775918424,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 2012664,
@@ -675,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 921414,
+      "num": 1354986,
+      "word": "心疼庄法团",
+      "onboard_time": 1775917886,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914125,
       "num": 270764,
       "word": "原来软柿子在人群里这么明显",
@@ -827,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 850209,
-      "num": 850209,
-      "word": "心疼庄法团",
-      "onboard_time": 1775917886,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 848542,
       "num": 583631,
       "word": "曝柠萌影视怕剧本写完檀健次不演",
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 827945,
-      "num": 273868,
+      "num": 287195,
       "word": "心愿便利贴 不好听但溺爱了",
       "onboard_time": 1775911344,
       "rank": 20,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758628,
+      "num": 1012978,
+      "word": "海底捞已通知一千多家门店内部排查",
+      "onboard_time": 1775914463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758596,
       "num": 1121375,
       "word": "王濛 别让武将干这个",
@@ -1075,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 719781,
-      "num": 719781,
-      "word": "维妮娜淘汰",
-      "onboard_time": 1775918487,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 717661,
       "num": 534751,
       "word": "阚清子参加浪姐瘦了一圈",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1775474780,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695562,
-      "num": 360207,
-      "word": "维妮娜 我不知道评分标准是什么",
-      "onboard_time": 1775918424,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 688029,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1775659702,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510689,
-      "num": 850190,
-      "word": "海底捞已通知一千多家门店内部排查",
-      "onboard_time": 1775914463,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 510081,
@@ -2857,6 +2857,14 @@
       "onboard_time": 1775885001,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380789,
+      "num": 380789,
+      "word": "浪姐太虐了",
+      "onboard_time": 1775918124,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 379523,
@@ -4451,6 +4459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273384,
+      "num": 849684,
+      "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
+      "onboard_time": 1775916205,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273298,
       "num": 200369,
       "word": "边伯贤金珉锡金钟大解约",
@@ -4657,14 +4673,6 @@
       "onboard_time": 1775623882,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264138,
-      "num": 849684,
-      "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
-      "onboard_time": 1775916205,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262889,
@@ -4899,6 +4907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 250888,
+      "num": 250888,
+      "word": "是你",
+      "onboard_time": 1775917824,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250867,
       "num": 792263,
       "word": "十日终焉欢迎来到终焉之地",
@@ -4977,14 +4993,6 @@
       "onboard_time": 1775742442,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 247277,
-      "num": 247277,
-      "word": "浪姐太虐了",
-      "onboard_time": 1775918124,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 247266,
@@ -5627,6 +5635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217940,
+      "num": 217940,
+      "word": "者来父就这么宠爱地看着",
+      "onboard_time": 1775917465,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217891,
       "num": 196782,
       "word": "孙颖莎主动走向邱贻可握手",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1775827823,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 214736,
-      "num": 214736,
-      "word": "者来父就这么宠爱地看着",
-      "onboard_time": 1775917465,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 214599,
@@ -6483,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188791,
+      "num": 188791,
+      "word": "徐洁儿为什么会没人选",
+      "onboard_time": 1775918785,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188595,
       "num": 300404,
       "word": "王楚钦孙颖莎第N次国际级运动健将",
@@ -6699,14 +6715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180951,
-      "num": 180951,
-      "word": "是你",
-      "onboard_time": 1775917824,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180726,
       "num": 161467,
       "word": "全糖半糖无糖",
@@ -6793,6 +6801,14 @@
       "onboard_time": 1775780541,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178842,
+      "num": 394882,
+      "word": "每天练15分钟八段锦效果好",
+      "onboard_time": 1775918546,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 178824,
@@ -7172,7 +7188,7 @@
     },
     {
       "raw_hot": 168777,
-      "num": 360237,
+      "num": 385746,
       "word": "35岁是癌症风险关键分水岭",
       "onboard_time": 1775913863,
       "rank": 30,
@@ -7192,6 +7208,14 @@
       "word": "莎头分别夺冠",
       "onboard_time": 1775403024,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167592,
+      "num": 396672,
+      "word": "苏超常州3比0南通",
+      "onboard_time": 1775918186,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -7361,6 +7385,14 @@
       "onboard_time": 1775397564,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162654,
+      "num": 162654,
+      "word": "萧蔷 文化工作者还是要有文化",
+      "onboard_time": 1775914043,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 162111,
@@ -8315,14 +8347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140436,
-      "num": 306000,
-      "word": "苏超常州3比0南通",
-      "onboard_time": 1775918186,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140278,
       "num": 140278,
       "word": "30多岁程序员熬夜喝咖啡确诊帕金森",
@@ -8915,6 +8939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130670,
+      "num": 130670,
+      "word": "王橹杰库存照",
+      "onboard_time": 1775919743,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130669,
       "num": 130669,
       "word": "让孙颖莎瞅瞅",
@@ -8993,6 +9025,14 @@
       "onboard_time": 1775906662,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129660,
+      "num": 128666,
+      "word": "一栗小莎子得的是霍奇金淋巴瘤",
+      "onboard_time": 1775919623,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 129442,
@@ -9955,14 +9995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114948,
-      "num": 217583,
-      "word": "每天练15分钟八段锦效果好",
-      "onboard_time": 1775918546,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 114864,
       "num": 114864,
       "word": "曝穆祉丞将演十日终焉金元勋",
@@ -10249,6 +10281,14 @@
       "onboard_time": 1775522121,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110313,
+      "num": 302975,
+      "word": "苏超太湖三傻爆改太湖三霸",
+      "onboard_time": 1775918665,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 110310,
@@ -10779,6 +10819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105038,
+      "num": 262373,
+      "word": "狼队超话大文豪",
+      "onboard_time": 1775917705,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104918,
       "num": 100141,
       "word": "曹格前妻吴速玲47岁状态",
@@ -11267,6 +11315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 100832,
+      "num": 219599,
+      "word": "清清",
+      "onboard_time": 1775916446,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100760,
       "num": 100760,
       "word": "韩国遮瑕就买三个品牌",
@@ -11337,14 +11393,6 @@
       "onboard_time": 1775691861,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 100317,
-      "num": 148176,
-      "word": "狼队超话大文豪",
-      "onboard_time": 1775917705,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 100234,
@@ -11939,6 +11987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95559,
+      "num": 186707,
+      "word": "用奔驰车陪葬事件当事人致歉",
+      "onboard_time": 1775918844,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95517,
       "num": 95517,
       "word": "美伊同意停火后伊朗驻华大使首发声",
@@ -12337,6 +12393,14 @@
       "onboard_time": 1775622323,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92654,
+      "num": 128783,
+      "word": "鸡煲老板透露汤底可补肾后又反悔",
+      "onboard_time": 1775919084,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92436,
@@ -13417,6 +13481,14 @@
       "onboard_time": 1775519300,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84978,
+      "num": 734646,
+      "word": "苏超裁判通过VAR给了南通队红牌",
+      "onboard_time": 1775918124,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 84845,
@@ -14521,14 +14593,6 @@
       "onboard_time": 1775826263,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 77553,
-      "num": 734646,
-      "word": "苏超裁判通过VAR给了南通队红牌",
-      "onboard_time": 1775918124,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 77542,
