@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775933855243,
+  "endTime": 1775934728645,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -28067,6 +28067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57530,
+      "num": 174241,
+      "word": "浪姐版傲慢与偏见",
+      "onboard_time": 1775926819,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57470,
       "num": 167450,
       "word": "梁文锋回应DeepSeekV4发布时间",
@@ -28761,14 +28769,6 @@
       "onboard_time": 1775470701,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51552,
-      "num": 174241,
-      "word": "浪姐版傲慢与偏见",
-      "onboard_time": 1775926819,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 51154,
@@ -30811,6 +30811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25583,
+      "num": 31828,
+      "word": "天大图书馆留言板火了",
+      "onboard_time": 1775931976,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25564,
       "num": 33057,
       "word": "美国和伊朗继续搜寻美军飞行员",
@@ -31177,14 +31185,6 @@
       "onboard_time": 1775245274,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21602,
-      "num": 28438,
-      "word": "天大图书馆留言板火了",
-      "onboard_time": 1775931976,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 21548,
@@ -31689,6 +31689,14 @@
       "onboard_time": 1775099781,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15547,
+      "num": 24870,
+      "word": "明日方舟终末地",
+      "onboard_time": 1775930956,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 15513,
