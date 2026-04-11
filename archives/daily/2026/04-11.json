@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775908476598,
+  "endTime": 1775913241084,
   "band_list": [
     {
       "raw_hot": 2213684,
@@ -11,12 +11,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1741031,
+      "num": 626163,
+      "word": "李小冉团赢了庄法团",
+      "onboard_time": 1775912004,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1595728,
       "num": 1595728,
       "word": "王濛 搞体育的最见不得这种",
       "onboard_time": 1775875401,
       "rank": 7,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 1543643,
+      "num": 1543643,
+      "word": "我发现心愿便利贴静音特别好听",
+      "onboard_time": 1775910564,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1500156,
+      "num": 564111,
+      "word": "KSG零封狼队",
+      "onboard_time": 1775912664,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1389964,
@@ -33,6 +57,14 @@
       "onboard_time": 1775832324,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1331266,
+      "num": 295608,
+      "word": "狼队对战KSG",
+      "onboard_time": 1775901143,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 1322586,
@@ -59,11 +91,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1256749,
+      "num": 515103,
+      "word": "KSG冠军",
+      "onboard_time": 1775912664,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1142829,
       "num": 610588,
       "word": "孙怡送了一个白眼给芒果",
       "onboard_time": 1775876900,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1065663,
+      "num": 642928,
+      "word": "浪姐直播",
+      "onboard_time": 1775906721,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 989135,
+      "num": 233275,
+      "word": "李小冉一开口我就笑了",
+      "onboard_time": 1775910983,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -81,6 +137,14 @@
       "onboard_time": 1775834723,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 827945,
+      "num": 223056,
+      "word": "心愿便利贴 不好听但溺爱了",
+      "onboard_time": 1775911344,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 792865,
@@ -104,14 +168,6 @@
       "word": "李小冉唐艺昕一公造型",
       "onboard_time": 1775906001,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 642928,
-      "num": 642928,
-      "word": "浪姐直播",
-      "onboard_time": 1775906721,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -147,6 +203,22 @@
       "category": "辟谣/通报,体育"
     },
     {
+      "raw_hot": 599565,
+      "num": 227875,
+      "word": "江语晨前夫",
+      "onboard_time": 1775908823,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 598255,
+      "num": 224964,
+      "word": "大艺术家",
+      "onboard_time": 1775909723,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561005,
       "num": 298699,
       "word": "孙怡 赵子琪淘汰发布会",
@@ -160,6 +232,14 @@
       "word": "txt",
       "onboard_time": 1775835442,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555068,
+      "num": 221825,
+      "word": "刘芸郑钧回应儿子走路内八",
+      "onboard_time": 1775909783,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -211,12 +291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507085,
+      "num": 217854,
+      "word": "心愿便利贴",
+      "onboard_time": 1775911042,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505290,
       "num": 505290,
       "word": "宁艺卓祝福柳智敏",
       "onboard_time": 1775887281,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501975,
+      "num": 878871,
+      "word": "常州进球",
+      "onboard_time": 1775910864,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 473739,
@@ -260,7 +356,7 @@
     },
     {
       "raw_hot": 415695,
-      "num": 147477,
+      "num": 196392,
       "word": "韩女团成员牙疼因没空治疗直接拔了",
       "onboard_time": 1775906601,
       "rank": 21,
@@ -289,6 +385,14 @@
       "onboard_time": 1775883081,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 384573,
+      "num": 211358,
+      "word": "江语晨小考前一晚被前夫告了",
+      "onboard_time": 1775908762,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 382330,
@@ -337,6 +441,14 @@
       "onboard_time": 1775880559,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369966,
+      "num": 208597,
+      "word": "杨幂给何泓姗送了蛋糕和花",
+      "onboard_time": 1775911042,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 367816,
@@ -388,7 +500,7 @@
     },
     {
       "raw_hot": 349586,
-      "num": 144976,
+      "num": 179671,
       "word": "姜贞羽差点高位截瘫",
       "onboard_time": 1775907621,
       "rank": 16,
@@ -441,6 +553,14 @@
       "onboard_time": 1775895501,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 326238,
+      "num": 199297,
+      "word": "大艺术家舞台换装",
+      "onboard_time": 1775909603,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 319633,
@@ -515,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298341,
+      "num": 230926,
+      "word": "流浪太帅了",
+      "onboard_time": 1775910745,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 296348,
       "num": 296348,
       "word": "天生没有四肢的母亲用嘴养活三个孩子",
       "onboard_time": 1775880620,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295608,
-      "num": 295608,
-      "word": "狼队对战KSG",
-      "onboard_time": 1775901143,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 293974,
@@ -595,11 +715,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275917,
+      "num": 191401,
+      "word": "曝浪姐今晚不淘汰",
+      "onboard_time": 1775909483,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270630,
       "num": 270630,
       "word": "月租万元小区房成为研究生宿舍",
       "onboard_time": 1775901622,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267959,
+      "num": 267959,
+      "word": "莫氏鸡煲要大变样了",
+      "onboard_time": 1775907621,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -651,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245106,
+      "num": 189366,
+      "word": "曾沛慈说会在浪姐继续挑战",
+      "onboard_time": 1775912785,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240548,
       "num": 180029,
       "word": "以军当学生面打死加沙小女孩",
@@ -665,6 +809,22 @@
       "onboard_time": 1775880080,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 234723,
+      "num": 234723,
+      "word": "心疼清清",
+      "onboard_time": 1775912604,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 229663,
+      "num": 205188,
+      "word": "流浪安琪拉抢龙",
+      "onboard_time": 1775912785,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 228660,
@@ -739,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211781,
+      "num": 180216,
+      "word": "王濛夹起来了",
+      "onboard_time": 1775912123,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209184,
       "num": 209184,
       "word": "钱天一官宣结婚后读博",
@@ -769,6 +937,14 @@
       "onboard_time": 1775882301,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195584,
+      "num": 195584,
+      "word": "苏超比分",
+      "onboard_time": 1775912004,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 186105,
@@ -915,11 +1091,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161467,
+      "num": 161467,
+      "word": "全糖半糖无糖",
+      "onboard_time": 1775912485,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157434,
       "num": 202942,
       "word": "伊朗谈判代表团命名米纳卜168",
       "onboard_time": 1775876061,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157386,
+      "num": 229731,
+      "word": "伊朗取得两大战略性收益",
+      "onboard_time": 1775906542,
+      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -939,6 +1131,30 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 153077,
+      "num": 128189,
+      "word": "庄法团824票",
+      "onboard_time": 1775912062,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153040,
+      "num": 153040,
+      "word": "男子自带茅台就餐发现味道不对报警",
+      "onboard_time": 1775907621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152759,
+      "num": 152759,
+      "word": "无言好牛",
+      "onboard_time": 1775910443,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152700,
       "num": 545253,
       "word": "19岁高中生复刻贝克汉姆惊天吊射",
@@ -955,11 +1171,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150712,
-      "num": 150712,
-      "word": "伊朗取得两大战略性收益",
-      "onboard_time": 1775906542,
-      "rank": 32,
+      "raw_hot": 151081,
+      "num": 214345,
+      "word": "美伊代表团举行谈判",
+      "onboard_time": 1775911642,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -1027,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141714,
+      "num": 141714,
+      "word": "苏超常州1比0南通",
+      "onboard_time": 1775913086,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141144,
       "num": 93883,
       "word": "男子杀害女儿5个月前买了意外险",
@@ -1083,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133807,
+      "num": 133807,
+      "word": "田曦薇直播",
+      "onboard_time": 1775908522,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133314,
       "num": 349698,
       "word": "年锦生气",
@@ -1091,12 +1323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132414,
-      "num": 132414,
-      "word": "莫氏鸡煲要大变样了",
-      "onboard_time": 1775907621,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 131209,
+      "num": 131209,
+      "word": "KPL",
+      "onboard_time": 1775883681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 130648,
@@ -1121,6 +1353,22 @@
       "onboard_time": 1775906662,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128777,
+      "num": 128777,
+      "word": "一口价黄金降价",
+      "onboard_time": 1775911704,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 128258,
+      "num": 128258,
+      "word": "万斯与巴基斯坦总理会谈",
+      "onboard_time": 1775909543,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127407,
@@ -1313,14 +1561,6 @@
       "onboard_time": 1775835623,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109176,
-      "num": 109176,
-      "word": "男子自带茅台就餐发现味道不对报警",
-      "onboard_time": 1775907621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108871,
@@ -1580,7 +1820,7 @@
     },
     {
       "raw_hot": 94058,
-      "num": 102000,
+      "num": 127478,
       "word": "小米正式调价",
       "onboard_time": 1775893220,
       "rank": 49,
@@ -1873,14 +2113,6 @@
       "onboard_time": 1775899702,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78774,
-      "num": 78774,
-      "word": "KPL",
-      "onboard_time": 1775883681,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 77913,
@@ -2411,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54558,
+      "num": 156240,
+      "word": "章若楠还当过美瞳模特",
+      "onboard_time": 1775912123,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54448,
       "num": 120105,
       "word": "为什么四月要去荣成吃海鲜",
@@ -2457,6 +2697,14 @@
       "onboard_time": 1775863999,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46899,
+      "num": 694449,
+      "word": "我国经济一季度交出亮眼答卷",
+      "onboard_time": 1775910084,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46768,
@@ -2619,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26212,
+      "num": 226567,
+      "word": "服务员掉包客人高档白酒低价转卖",
+      "onboard_time": 1775912604,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24295,
       "num": 29086,
       "word": "杨紫创平台女性角色历史最高",
@@ -2665,6 +2921,14 @@
       "onboard_time": 1775831904,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17809,
+      "num": 225649,
+      "word": "全网最不想火自助粥锅店老板诞生了",
+      "onboard_time": 1775912963,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17803,
@@ -2719,6 +2983,9 @@
     },
     {
       "word": "#习近平指引两岸关系发展#"
+    },
+    {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
     }
   ]
 }
