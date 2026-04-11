@@ -1,6 +1,6 @@
 {
   "startTime": 1775321118731,
-  "endTime": 1775883795676,
+  "endTime": 1775884439008,
   "band_list": [
     {
       "raw_hot": 9077666,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1142829,
-      "num": 576763,
+      "num": 610588,
       "word": "孙怡送了一个白眼给芒果",
       "onboard_time": 1775876900,
       "rank": 5,
@@ -881,6 +881,14 @@
       "onboard_time": 1775462902,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 752476,
+      "num": 316438,
+      "word": "马頔 我还要生孩子呢",
+      "onboard_time": 1775883023,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 744906,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1775470640,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524418,
+      "num": 179902,
+      "word": "疑似何与朋友点赞吐槽虞书欣言论",
+      "onboard_time": 1775882541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 524163,
@@ -2611,6 +2627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370482,
+      "num": 785119,
+      "word": "邓超发五哈新阵容照",
+      "onboard_time": 1775880559,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368288,
+      "num": 311986,
+      "word": "海底捞礼物 员工罚款购入",
+      "onboard_time": 1775882840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368287,
       "num": 1058635,
       "word": "女子开车撞劫匪致1死2伤被判无罪",
@@ -2947,14 +2979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340265,
-      "num": 768609,
-      "word": "邓超发五哈新阵容照",
-      "onboard_time": 1775880559,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340054,
       "num": 340054,
       "word": "杀害发小男子称认罪但不后悔",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1775878820,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319200,
+      "num": 319200,
+      "word": "四川地震",
+      "onboard_time": 1775883081,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 319195,
@@ -3411,14 +3443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300963,
-      "num": 224057,
-      "word": "马頔 我还要生孩子呢",
-      "onboard_time": 1775883023,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299662,
       "num": 754219,
       "word": "35岁程序员转行摆摊卖肉蛋堡月入5万",
@@ -3472,6 +3496,14 @@
       "word": "男子扫墓发现祖坟旁有近百枚鸭蛋",
       "onboard_time": 1775464700,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296348,
+      "num": 296348,
+      "word": "天生没有四肢的母亲用嘴养活三个孩子",
+      "onboard_time": 1775880620,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3867,14 +3899,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 270085,
-      "num": 270085,
-      "word": "天生没有四肢的母亲用嘴养活三个孩子",
-      "onboard_time": 1775880620,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269999,
       "num": 795480,
       "word": "王楚钦说我也是第一次进世界杯决赛",
@@ -3961,14 +3985,6 @@
       "onboard_time": 1775575702,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265974,
-      "num": 265974,
-      "word": "四川地震",
-      "onboard_time": 1775883081,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 265966,
@@ -4153,14 +4169,6 @@
       "onboard_time": 1775819480,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255420,
-      "num": 179902,
-      "word": "疑似何与朋友点赞吐槽虞书欣言论",
-      "onboard_time": 1775882541,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 255116,
@@ -4448,6 +4456,14 @@
       "word": "李清明  清明节myday",
       "onboard_time": 1775345657,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239945,
+      "num": 239945,
+      "word": "向太说存款没有200万别买车",
+      "onboard_time": 1775883141,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -4971,14 +4987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216348,
-      "num": 216348,
-      "word": "海底捞礼物 员工罚款购入",
-      "onboard_time": 1775882840,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216096,
       "num": 152771,
       "word": "吃了会肠胃胀气的食物",
@@ -5393,6 +5401,14 @@
       "onboard_time": 1775573182,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199228,
+      "num": 241255,
+      "word": "莫氏鸡煲连夜装上空调",
+      "onboard_time": 1775881821,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199056,
@@ -5907,8 +5923,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181453,
+      "num": 173090,
+      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
+      "onboard_time": 1775882301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181163,
-      "num": 102614,
+      "num": 163779,
       "word": "突然意识到敲门好像不用抬手",
       "onboard_time": 1775881701,
       "rank": 30,
@@ -6067,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176618,
+      "num": 166923,
+      "word": "郑钧感谢全网为jagger操碎了心",
+      "onboard_time": 1775883801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176583,
       "num": 176583,
       "word": "蔚来ES9",
@@ -6203,20 +6235,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172123,
-      "num": 180017,
-      "word": "莫氏鸡煲连夜装上空调",
-      "onboard_time": 1775881821,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171752,
       "num": 160151,
       "word": "迟重瑞说不畏惧陈丽华的强",
       "onboard_time": 1775568743,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171622,
+      "num": 160282,
+      "word": "一栗小莎子已化疗4次还有8次",
+      "onboard_time": 1775883441,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 171450,
@@ -6851,6 +6883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152700,
+      "num": 253758,
+      "word": "19岁高中生复刻贝克汉姆惊天吊射",
+      "onboard_time": 1775881223,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152126,
       "num": 152126,
       "word": "徐轸轸发长文控诉前经纪人",
@@ -6979,14 +7019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148941,
-      "num": 148941,
-      "word": "向太说存款没有200万别买车",
-      "onboard_time": 1775883141,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148076,
       "num": 148076,
       "word": "伊朗为黎巴嫩硬刚美国",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1775732362,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146732,
-      "num": 146732,
-      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
-      "onboard_time": 1775882301,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 146223,
@@ -7305,14 +7329,6 @@
       "onboard_time": 1775393065,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141646,
-      "num": 225291,
-      "word": "19岁高中生复刻贝克汉姆惊天吊射",
-      "onboard_time": 1775881223,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 141538,
@@ -7969,6 +7985,14 @@
       "onboard_time": 1775703980,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130107,
+      "num": 107078,
+      "word": "科切拉",
+      "onboard_time": 1775880980,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 129879,
@@ -8795,14 +8819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116536,
-      "num": 102101,
-      "word": "一栗小莎子已化疗4次还有8次",
-      "onboard_time": 1775883441,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 116423,
       "num": 116423,
       "word": "网友真把顺德文旅喊过来帮忙斩鸡了",
@@ -9451,8 +9467,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106445,
+      "num": 106445,
+      "word": "保护眼睛的简单方法",
+      "onboard_time": 1775881520,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106440,
-      "num": 98712,
+      "num": 103229,
       "word": "孙俪和小花看五哈",
       "onboard_time": 1775882180,
       "rank": 34,
@@ -10411,14 +10435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97434,
-      "num": 97434,
-      "word": "科切拉",
-      "onboard_time": 1775880980,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97420,
       "num": 97420,
       "word": "刘畊宏孩子都这么大了王俊凯还这么嫩",
@@ -10761,14 +10777,6 @@
       "onboard_time": 1775801002,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94311,
-      "num": 94311,
-      "word": "保护眼睛的简单方法",
-      "onboard_time": 1775881520,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94310,
@@ -11283,6 +11291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89866,
+      "num": 89866,
+      "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
+      "onboard_time": 1775882901,
+      "rank": 40,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 89849,
       "num": 89565,
       "word": "嫣然医院回应陈光标捐款1000万",
@@ -11593,14 +11609,6 @@
       "onboard_time": 1775356822,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87408,
-      "num": 87408,
-      "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
-      "onboard_time": 1775882901,
-      "rank": 40,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 87165,
@@ -13587,6 +13595,14 @@
       "category": "海外新闻,旅游"
     },
     {
+      "raw_hot": 74268,
+      "num": 74268,
+      "word": "时代少年团新团歌",
+      "onboard_time": 1775883921,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 74266,
       "num": 74266,
       "word": "美持续升级战争与声称谈判相矛盾",
@@ -14144,6 +14160,14 @@
       "word": "一枚炮弹击中伊拉克美国领事馆",
       "onboard_time": 1775441482,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 70464,
+      "num": 70464,
+      "word": "美以袭击致伊朗344名学生教师遇害",
+      "onboard_time": 1775880980,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -16219,6 +16243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52662,
+      "num": 70030,
+      "word": "华为PuraXMax曝光",
+      "onboard_time": 1775878581,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52660,
       "num": 77066,
       "word": "王楚钦孙颖莎顶峰相见可爱互让",
@@ -16673,6 +16705,14 @@
       "onboard_time": 1775330174,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43632,
+      "num": 78202,
+      "word": "徐梦洁说习惯边缘化了",
+      "onboard_time": 1775876601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 43546,

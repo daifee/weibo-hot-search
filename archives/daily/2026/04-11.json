@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775883795676,
+  "endTime": 1775884439008,
   "band_list": [
     {
       "raw_hot": 1595728,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1142829,
-      "num": 576763,
+      "num": 610588,
       "word": "孙怡送了一个白眼给芒果",
       "onboard_time": 1775876900,
       "rank": 5,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752476,
+      "num": 316438,
+      "word": "马頔 我还要生孩子呢",
+      "onboard_time": 1775883023,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604395,
       "num": 1045528,
       "word": "男子微信群多次侮辱全红婵被拘",
@@ -88,6 +96,14 @@
       "word": "txt",
       "onboard_time": 1775835442,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524418,
+      "num": 179902,
+      "word": "疑似何与朋友点赞吐槽虞书欣言论",
+      "onboard_time": 1775882541,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -139,20 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370482,
+      "num": 785119,
+      "word": "邓超发五哈新阵容照",
+      "onboard_time": 1775880559,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 368288,
+      "num": 311986,
+      "word": "海底捞礼物 员工罚款购入",
+      "onboard_time": 1775882840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350146,
       "num": 220141,
       "word": "白鹿晚餐吃水煮菜",
       "onboard_time": 1775873362,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340265,
-      "num": 768609,
-      "word": "邓超发五哈新阵容照",
-      "onboard_time": 1775880559,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 332485,
@@ -169,6 +193,14 @@
       "onboard_time": 1775878820,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319200,
+      "num": 319200,
+      "word": "四川地震",
+      "onboard_time": 1775883081,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 319195,
@@ -195,20 +227,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300963,
-      "num": 224057,
-      "word": "马頔 我还要生孩子呢",
-      "onboard_time": 1775883023,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299506,
       "num": 132291,
       "word": "张慧雯情商",
       "onboard_time": 1775864599,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296348,
+      "num": 296348,
+      "word": "天生没有四肢的母亲用嘴养活三个孩子",
+      "onboard_time": 1775880620,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286705,
@@ -243,22 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270085,
-      "num": 270085,
-      "word": "天生没有四肢的母亲用嘴养活三个孩子",
-      "onboard_time": 1775880620,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265974,
-      "num": 265974,
-      "word": "四川地震",
-      "onboard_time": 1775883081,
-      "rank": 7,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 264255,
       "num": 227740,
       "word": "婴儿出生9斤一个月瘦到7斤",
@@ -275,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255420,
-      "num": 179902,
-      "word": "疑似何与朋友点赞吐槽虞书欣言论",
-      "onboard_time": 1775882541,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247266,
       "num": 88823,
       "word": "秦昊和伊能静首次见面时非单身",
@@ -297,6 +305,14 @@
       "onboard_time": 1775833225,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239945,
+      "num": 239945,
+      "word": "向太说存款没有200万别买车",
+      "onboard_time": 1775883141,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 235854,
@@ -331,20 +347,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216348,
-      "num": 216348,
-      "word": "海底捞礼物 员工罚款购入",
-      "onboard_time": 1775882840,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213933,
       "num": 179827,
       "word": "赵丽颖工作室疑似表达对捆绑的不满",
       "onboard_time": 1775827523,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199228,
+      "num": 241255,
+      "word": "莫氏鸡煲连夜装上空调",
+      "onboard_time": 1775881821,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186105,
@@ -363,8 +379,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181453,
+      "num": 173090,
+      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
+      "onboard_time": 1775882301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181163,
-      "num": 102614,
+      "num": 163779,
       "word": "突然意识到敲门好像不用抬手",
       "onboard_time": 1775881701,
       "rank": 30,
@@ -403,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176618,
+      "num": 166923,
+      "word": "郑钧感谢全网为jagger操碎了心",
+      "onboard_time": 1775883801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173407,
       "num": 173407,
       "word": "田曦薇这肌肉居然不是p的",
@@ -411,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172123,
-      "num": 180017,
-      "word": "莫氏鸡煲连夜装上空调",
-      "onboard_time": 1775881821,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 171622,
+      "num": 160282,
+      "word": "一栗小莎子已化疗4次还有8次",
+      "onboard_time": 1775883441,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 165735,
@@ -459,27 +491,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152700,
+      "num": 253758,
+      "word": "19岁高中生复刻贝克汉姆惊天吊射",
+      "onboard_time": 1775881223,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151529,
       "num": 73959,
       "word": "肖战说的话只能信一半",
       "onboard_time": 1775862017,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148941,
-      "num": 148941,
-      "word": "向太说存款没有200万别买车",
-      "onboard_time": 1775883141,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 146732,
-      "num": 146732,
-      "word": "朴宝剑刘诗诗王安宇孙千人生四格",
-      "onboard_time": 1775882301,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -521,14 +545,6 @@
       "onboard_time": 1775873599,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141646,
-      "num": 225291,
-      "word": "19岁高中生复刻贝克汉姆惊天吊射",
-      "onboard_time": 1775881223,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 141144,
@@ -577,6 +593,14 @@
       "onboard_time": 1775883321,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130107,
+      "num": 107078,
+      "word": "科切拉",
+      "onboard_time": 1775880980,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 127407,
@@ -641,14 +665,6 @@
       "onboard_time": 1775836163,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116536,
-      "num": 102101,
-      "word": "一栗小莎子已化疗4次还有8次",
-      "onboard_time": 1775883441,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 113670,
@@ -723,8 +739,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106445,
+      "num": 106445,
+      "word": "保护眼睛的简单方法",
+      "onboard_time": 1775881520,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106440,
-      "num": 98712,
+      "num": 103229,
       "word": "孙俪和小花看五哈",
       "onboard_time": 1775882180,
       "rank": 34,
@@ -771,14 +795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97434,
-      "num": 97434,
-      "word": "科切拉",
-      "onboard_time": 1775880980,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95997,
       "num": 119198,
       "word": "警方通报父母离婚不接年幼乘客",
@@ -795,20 +811,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94311,
-      "num": 94311,
-      "word": "保护眼睛的简单方法",
-      "onboard_time": 1775881520,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93106,
       "num": 57096,
       "word": "特朗普在通话后改口",
       "onboard_time": 1775864779,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89866,
+      "num": 89866,
+      "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
+      "onboard_time": 1775882901,
+      "rank": 40,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 88602,
@@ -841,14 +857,6 @@
       "onboard_time": 1775875760,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87408,
-      "num": 87408,
-      "word": "刘雨鑫来完后自助粥锅店老板大吐苦水",
-      "onboard_time": 1775882901,
-      "rank": 40,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 87067,
@@ -897,6 +905,14 @@
       "onboard_time": 1775836043,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78774,
+      "num": 78774,
+      "word": "KPL",
+      "onboard_time": 1775883681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 77913,
@@ -963,20 +979,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74268,
+      "num": 74268,
+      "word": "时代少年团新团歌",
+      "onboard_time": 1775883921,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 74085,
       "num": 104209,
       "word": "冰湖重生",
       "onboard_time": 1775822180,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74011,
-      "num": 74011,
-      "word": "KPL",
-      "onboard_time": 1775883681,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 73873,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1775869282,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70464,
+      "num": 70464,
+      "word": "美以袭击致伊朗344名学生教师遇害",
+      "onboard_time": 1775880980,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69277,
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52662,
+      "num": 70030,
+      "word": "华为PuraXMax曝光",
+      "onboard_time": 1775878581,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52390,
       "num": 52390,
       "word": "家业",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1775836222,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43632,
+      "num": 78202,
+      "word": "徐梦洁说习惯边缘化了",
+      "onboard_time": 1775876601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 41621,
