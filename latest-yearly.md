@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 21:14:01
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/11 21:37:27
 </p>
 </blockquote>
 <p>
@@ -1209,6 +1209,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KSG%E9%9B%B6%E5%B0%81%E7%8B%BC%E9%98%9F%23" target="weibo">
+KSG零封狼队（热度：2440831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%BC%80%E6%9C%BA%23" target="weibo">
 将门独后开机（热度：2433550）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E5%B7%B2%E7%BB%8F%E5%A1%8C%E6%97%A0%E5%8F%AF%E5%A1%8C%E4%BA%86%23" target="weibo">
 老坛酸菜已经塌无可塌了（热度：1924560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A6%E6%9C%AF%20%E5%AE%87%E6%A0%91%E6%97%A0%E6%95%8C%23" target="weibo">
-机器人武术 宇树无敌（热度：1919749）
 </a>
 </li>
 

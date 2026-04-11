@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775913241084,
+  "endTime": 1775914647394,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -145,6 +145,14 @@
       "onboard_time": 1775308943,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2440831,
+      "num": 2440831,
+      "word": "KSG零封狼队",
+      "onboard_time": 1775912664,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 2418500,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 1741031,
-      "num": 626163,
+      "num": 938459,
       "word": "李小冉团赢了庄法团",
       "onboard_time": 1775912004,
       "rank": 3,
@@ -361,14 +369,6 @@
       "onboard_time": 1775910564,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1500156,
-      "num": 564111,
-      "word": "KSG零封狼队",
-      "onboard_time": 1775912664,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 1492285,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1331266,
-      "num": 295608,
+      "num": 313940,
       "word": "狼队对战KSG",
       "onboard_time": 1775901143,
       "rank": 35,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 1256749,
-      "num": 515103,
+      "num": 843653,
       "word": "KSG冠军",
       "onboard_time": 1775912664,
       "rank": 5,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1128411,
-      "num": 642928,
+      "num": 870267,
       "word": "浪姐直播",
       "onboard_time": 1775304143,
       "rank": 13,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 989135,
-      "num": 233275,
+      "num": 283473,
       "word": "李小冉一开口我就笑了",
       "onboard_time": 1775910983,
       "rank": 11,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1775050883,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 830094,
+      "num": 291086,
+      "word": "雨爱太好听了",
+      "onboard_time": 1775913863,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 828046,
@@ -2107,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611354,
+      "num": 878871,
+      "word": "常州进球",
+      "onboard_time": 1775910864,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 610813,
       "num": 538684,
       "word": "十日终焉官微 用户1231",
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 599565,
-      "num": 227875,
+      "num": 242241,
       "word": "江语晨前夫",
       "onboard_time": 1775908823,
       "rank": 16,
@@ -2667,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533832,
+      "num": 246650,
+      "word": "萧蔷情商",
+      "onboard_time": 1775913324,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533548,
       "num": 181029,
       "word": "张予曦毕雯珺合伙人零互动",
@@ -3025,14 +3049,6 @@
       "onboard_time": 1775709203,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501975,
-      "num": 878871,
-      "word": "常州进球",
-      "onboard_time": 1775910864,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 501899,
@@ -3859,6 +3875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421164,
+      "num": 206327,
+      "word": "安崎 天生爱豆",
+      "onboard_time": 1775913502,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418919,
       "num": 183165,
       "word": "深圳通报救护车截单延误抢救致死",
@@ -4515,6 +4539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 379523,
+      "num": 208597,
+      "word": "杨幂给何泓姗送了蛋糕和花",
+      "onboard_time": 1775911042,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379297,
       "num": 170019,
       "word": "张凌赫后面还有两部待播将军剧",
@@ -4761,14 +4793,6 @@
       "onboard_time": 1775880559,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369966,
-      "num": 208597,
-      "word": "杨幂给何泓姗送了蛋糕和花",
-      "onboard_time": 1775911042,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 368975,
@@ -5451,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334717,
+      "num": 171722,
+      "word": "萧蔷团794票",
+      "onboard_time": 1775914344,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333869,
       "num": 333869,
       "word": "17部影片定档2026五一档",
@@ -5529,6 +5561,14 @@
       "onboard_time": 1775107042,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329029,
+      "num": 329029,
+      "word": "苏超比分",
+      "onboard_time": 1775912004,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 328740,
@@ -5737,6 +5777,14 @@
       "onboard_time": 1775870360,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318857,
+      "num": 318857,
+      "word": "美媒称数艘美军舰通过霍尔木兹",
+      "onboard_time": 1775913264,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 318701,
@@ -7531,6 +7579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254765,
+      "num": 254765,
+      "word": "心疼清清",
+      "onboard_time": 1775912604,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254687,
       "num": 254687,
       "word": "王楚钦9比11松岛辉空",
@@ -8083,6 +8139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237190,
+      "num": 237190,
+      "word": "流浪FMVP",
+      "onboard_time": 1775913562,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237098,
       "num": 237098,
       "word": "孔刘老了",
@@ -8193,14 +8257,6 @@
       "onboard_time": 1775537783,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234723,
-      "num": 234723,
-      "word": "心疼清清",
-      "onboard_time": 1775912604,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 234552,
@@ -9211,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208728,
+      "num": 157967,
+      "word": "浪姐 投票标准",
+      "onboard_time": 1775913863,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208684,
       "num": 208684,
       "word": "迟重瑞说全家人每天必须一起吃晚饭",
@@ -9737,14 +9801,6 @@
       "onboard_time": 1775357360,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195584,
-      "num": 195584,
-      "word": "苏超比分",
-      "onboard_time": 1775912004,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 195531,
@@ -10451,6 +10507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180726,
+      "num": 161467,
+      "word": "全糖半糖无糖",
+      "onboard_time": 1775912485,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180486,
       "num": 180486,
       "word": "张雪称卖陈光标劳斯莱斯捐款天使嫣然",
@@ -10859,6 +10923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172531,
+      "num": 214345,
+      "word": "美伊代表团举行谈判",
+      "onboard_time": 1775911642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172251,
       "num": 172251,
       "word": "电影青铜葵花定档",
@@ -11073,6 +11145,14 @@
       "onboard_time": 1775109682,
       "rank": 24,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 168777,
+      "num": 168777,
+      "word": "35岁是癌症风险关键分水岭",
+      "onboard_time": 1775913863,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168774,
@@ -11537,14 +11617,6 @@
       "onboard_time": 1775876480,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161467,
-      "num": 161467,
-      "word": "全糖半糖无糖",
-      "onboard_time": 1775912485,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 161461,
@@ -12171,14 +12243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151081,
-      "num": 214345,
-      "word": "美伊代表团举行谈判",
-      "onboard_time": 1775911642,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151060,
       "num": 98418,
       "word": "申裕斌回应2比4王曼昱",
@@ -12305,6 +12369,14 @@
       "onboard_time": 1775558901,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "曾沛慈清唱遗憾",
+      "onboard_time": 1775909303,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 149796,
@@ -14068,7 +14140,7 @@
     },
     {
       "raw_hot": 128777,
-      "num": 128777,
+      "num": 135250,
       "word": "一口价黄金降价",
       "onboard_time": 1775911704,
       "rank": 46,
@@ -14497,6 +14569,14 @@
       "onboard_time": 1775199682,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124587,
+      "num": 150788,
+      "word": "三角洲",
+      "onboard_time": 1775914163,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 124584,
@@ -15971,6 +16051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111291,
+      "num": 137597,
+      "word": "海底捞已通知一千多家门店内部排查",
+      "onboard_time": 1775914463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111192,
       "num": 245979,
       "word": "王曼昱比赛打到数板",
@@ -17153,6 +17241,14 @@
       "onboard_time": 1775199082,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103946,
+      "num": 136007,
+      "word": "上班穿的衣服能有多便宜",
+      "onboard_time": 1775910864,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 103932,
@@ -19052,7 +19148,7 @@
     },
     {
       "raw_hot": 94058,
-      "num": 127478,
+      "num": 136380,
       "word": "小米正式调价",
       "onboard_time": 1775893220,
       "rank": 49,
@@ -28243,6 +28339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50783,
+      "num": 961411,
+      "word": "我国经济一季度交出亮眼答卷",
+      "onboard_time": 1775910084,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50725,
       "num": 97731,
       "word": "马嘉祺教邵兵玩手机",
@@ -28601,14 +28705,6 @@
       "onboard_time": 1775778199,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46899,
-      "num": 694449,
-      "word": "我国经济一季度交出亮眼答卷",
-      "onboard_time": 1775910084,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46880,
@@ -30017,6 +30113,14 @@
       "onboard_time": 1775113222,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27448,
+      "num": 169203,
+      "word": "邓亚萍为任子威杨倩颁奖",
+      "onboard_time": 1775913442,
+      "rank": 29,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 27410,

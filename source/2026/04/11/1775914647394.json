@@ -1,0 +1,410 @@
+{
+  "runTime": 1775914647394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2440831,
+        "num": 2440831,
+        "word": "KSG零封狼队",
+        "onboard_time": 1775912664,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1063838,
+        "num": 1063838,
+        "word": "我发现心愿便利贴静音特别好听",
+        "onboard_time": 1775910564,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50783,
+        "num": 961411,
+        "word": "我国经济一季度交出亮眼答卷",
+        "onboard_time": 1775910084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1588067,
+        "num": 938459,
+        "word": "李小冉团赢了庄法团",
+        "onboard_time": 1775912004,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870267,
+        "num": 870267,
+        "word": "浪姐直播",
+        "onboard_time": 1775906721,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843653,
+        "num": 843653,
+        "word": "KSG冠军",
+        "onboard_time": 1775912664,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 611354,
+        "num": 611354,
+        "word": "常州进球",
+        "onboard_time": 1775910864,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447533,
+        "num": 447533,
+        "word": "苏超直播",
+        "onboard_time": 1775904202,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329029,
+        "num": 329029,
+        "word": "苏超比分",
+        "onboard_time": 1775912004,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318857,
+        "num": 318857,
+        "word": "美媒称数艘美军舰通过霍尔木兹",
+        "onboard_time": 1775913264,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 840252,
+        "num": 313940,
+        "word": "狼队对战KSG",
+        "onboard_time": 1775901143,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 830094,
+        "num": 291086,
+        "word": "雨爱太好听了",
+        "onboard_time": 1775913863,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652227,
+        "num": 283473,
+        "word": "李小冉一开口我就笑了",
+        "onboard_time": 1775910983,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254765,
+        "num": 254765,
+        "word": "心疼清清",
+        "onboard_time": 1775912604,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 533832,
+        "num": 246650,
+        "word": "萧蔷情商",
+        "onboard_time": 1775913324,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434727,
+        "num": 242241,
+        "word": "江语晨前夫",
+        "onboard_time": 1775908823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237190,
+        "num": 237190,
+        "word": "流浪FMVP",
+        "onboard_time": 1775913562,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43550,
+        "num": 207937,
+        "word": "潮汐车道自动切换太丝滑",
+        "onboard_time": 1775906901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421164,
+        "num": 206327,
+        "word": "安崎 天生爱豆",
+        "onboard_time": 1775913502,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189026,
+        "num": 189026,
+        "word": "莫氏鸡煲要大变样了",
+        "onboard_time": 1775907621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379523,
+        "num": 184307,
+        "word": "杨幂给何泓姗送了蛋糕和花",
+        "onboard_time": 1775911042,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359569,
+        "num": 182232,
+        "word": "大艺术家",
+        "onboard_time": 1775909723,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172531,
+        "num": 172531,
+        "word": "美伊代表团举行谈判",
+        "onboard_time": 1775911642,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350211,
+        "num": 171726,
+        "word": "心愿便利贴 不好听但溺爱了",
+        "onboard_time": 1775911344,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334717,
+        "num": 171722,
+        "word": "萧蔷团794票",
+        "onboard_time": 1775914344,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170862,
+        "num": 170862,
+        "word": "苏超",
+        "onboard_time": 1775881642,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269058,
+        "num": 170588,
+        "word": "刘芸郑钧回应儿子走路内八",
+        "onboard_time": 1775909783,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249160,
+        "num": 169941,
+        "word": "江语晨小考前一晚被前夫告了",
+        "onboard_time": 1775908762,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143427,
+        "num": 169593,
+        "word": "女高管自制Excel表及时发现乳腺癌",
+        "onboard_time": 1775905102,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27448,
+        "num": 169203,
+        "word": "邓亚萍为任子威杨倩颁奖",
+        "onboard_time": 1775913442,
+        "rank": 29,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 168777,
+        "num": 168777,
+        "word": "35岁是癌症风险关键分水岭",
+        "onboard_time": 1775913863,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231635,
+        "num": 162502,
+        "word": "心愿便利贴",
+        "onboard_time": 1775911042,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208728,
+        "num": 157967,
+        "word": "浪姐 投票标准",
+        "onboard_time": 1775913863,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151643,
+        "num": 151643,
+        "word": "无言好牛",
+        "onboard_time": 1775910443,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221299,
+        "num": 151621,
+        "word": "曾沛慈说会在浪姐继续挑战",
+        "onboard_time": 1775912785,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189261,
+        "num": 151207,
+        "word": "韩女团成员牙疼因没空治疗直接拔了",
+        "onboard_time": 1775906601,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124587,
+        "num": 150788,
+        "word": "三角洲",
+        "onboard_time": 1775914163,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 150432,
+        "word": "大艺术家舞台换装",
+        "onboard_time": 1775909603,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180726,
+        "num": 150382,
+        "word": "全糖半糖无糖",
+        "onboard_time": 1775912485,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 150044,
+        "word": "妻子发现丈夫藏200多枚金币气炸",
+        "onboard_time": 1775891482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149800,
+        "num": 149800,
+        "word": "曾沛慈清唱遗憾",
+        "onboard_time": 1775909303,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144747,
+        "num": 144747,
+        "word": "王濛夹起来了",
+        "onboard_time": 1775912123,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111675,
+        "num": 141000,
+        "word": "男子自带茅台就餐发现味道不对报警",
+        "onboard_time": 1775907621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140785,
+        "num": 140785,
+        "word": "姜贞羽差点高位截瘫",
+        "onboard_time": 1775907621,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137984,
+        "num": 137984,
+        "word": "十日终焉长安二十四计海报",
+        "onboard_time": 1775900182,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111291,
+        "num": 137597,
+        "word": "海底捞已通知一千多家门店内部排查",
+        "onboard_time": 1775914463,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106729,
+        "num": 136911,
+        "word": "伊朗取得两大战略性收益",
+        "onboard_time": 1775906542,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28716,
+        "num": 136380,
+        "word": "小米正式调价",
+        "onboard_time": 1775893220,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103946,
+        "num": 136007,
+        "word": "上班穿的衣服能有多便宜",
+        "onboard_time": 1775910864,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103573,
+        "num": 135250,
+        "word": "一口价黄金降价",
+        "onboard_time": 1775911704,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
+    }
+  }
+}

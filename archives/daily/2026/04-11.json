@@ -1,7 +1,15 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775913241084,
+  "endTime": 1775914647394,
   "band_list": [
+    {
+      "raw_hot": 2440831,
+      "num": 2440831,
+      "word": "KSG零封狼队",
+      "onboard_time": 1775912664,
+      "rank": 4,
+      "category": "电竞"
+    },
     {
       "raw_hot": 2213684,
       "num": 619484,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1741031,
-      "num": 626163,
+      "num": 938459,
       "word": "李小冉团赢了庄法团",
       "onboard_time": 1775912004,
       "rank": 3,
@@ -35,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1500156,
-      "num": 564111,
-      "word": "KSG零封狼队",
-      "onboard_time": 1775912664,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1389964,
       "num": 574760,
       "word": "李小冉拉王濛起来被甩开",
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1331266,
-      "num": 295608,
+      "num": 313940,
       "word": "狼队对战KSG",
       "onboard_time": 1775901143,
       "rank": 35,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1256749,
-      "num": 515103,
+      "num": 843653,
       "word": "KSG冠军",
       "onboard_time": 1775912664,
       "rank": 5,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1065663,
-      "num": 642928,
+      "num": 870267,
       "word": "浪姐直播",
       "onboard_time": 1775906721,
       "rank": 5,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 989135,
-      "num": 233275,
+      "num": 283473,
       "word": "李小冉一开口我就笑了",
       "onboard_time": 1775910983,
       "rank": 11,
@@ -137,6 +137,14 @@
       "onboard_time": 1775834723,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 830094,
+      "num": 291086,
+      "word": "雨爱太好听了",
+      "onboard_time": 1775913863,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 827945,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611354,
+      "num": 878871,
+      "word": "常州进球",
+      "onboard_time": 1775910864,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604395,
       "num": 1045528,
       "word": "男子微信群多次侮辱全红婵被拘",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 599565,
-      "num": 227875,
+      "num": 242241,
       "word": "江语晨前夫",
       "onboard_time": 1775908823,
       "rank": 16,
@@ -249,6 +265,14 @@
       "onboard_time": 1775888179,
       "rank": 15,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 533832,
+      "num": 246650,
+      "word": "萧蔷情商",
+      "onboard_time": 1775913324,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 533548,
@@ -307,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501975,
-      "num": 878871,
-      "word": "常州进球",
-      "onboard_time": 1775910864,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473739,
       "num": 151278,
       "word": "网友提醒刘芸注意儿子内八问题",
@@ -345,6 +361,14 @@
       "onboard_time": 1775873781,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421164,
+      "num": 206327,
+      "word": "安崎 天生爱豆",
+      "onboard_time": 1775913502,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 418855,
@@ -403,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379523,
+      "num": 208597,
+      "word": "杨幂给何泓姗送了蛋糕和花",
+      "onboard_time": 1775911042,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378005,
       "num": 378005,
       "word": "芒果居然想让孙怡宣布赵子琪淘汰",
@@ -441,14 +473,6 @@
       "onboard_time": 1775880559,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369966,
-      "num": 208597,
-      "word": "杨幂给何泓姗送了蛋糕和花",
-      "onboard_time": 1775911042,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 367816,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334717,
+      "num": 171722,
+      "word": "萧蔷团794票",
+      "onboard_time": 1775914344,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333451,
       "num": 175707,
       "word": "张婉婷风波后首发文",
@@ -545,6 +577,14 @@
       "onboard_time": 1775876840,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329029,
+      "num": 329029,
+      "word": "苏超比分",
+      "onboard_time": 1775912004,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 328342,
@@ -585,6 +625,14 @@
       "onboard_time": 1775870360,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318857,
+      "num": 318857,
+      "word": "美媒称数艘美军舰通过霍尔木兹",
+      "onboard_time": 1775913264,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317871,
@@ -779,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254765,
+      "num": 254765,
+      "word": "心疼清清",
+      "onboard_time": 1775912604,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247266,
       "num": 88823,
       "word": "秦昊和伊能静首次见面时非单身",
@@ -803,20 +859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237190,
+      "num": 237190,
+      "word": "流浪FMVP",
+      "onboard_time": 1775913562,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235854,
       "num": 235854,
       "word": "官方回应湖南一道路插满奠字灯笼",
       "onboard_time": 1775880080,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 234723,
-      "num": 234723,
-      "word": "心疼清清",
-      "onboard_time": 1775912604,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 229663,
@@ -915,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208728,
+      "num": 157967,
+      "word": "浪姐 投票标准",
+      "onboard_time": 1775913863,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199228,
       "num": 241255,
       "word": "莫氏鸡煲连夜装上空调",
@@ -939,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195584,
-      "num": 195584,
-      "word": "苏超比分",
-      "onboard_time": 1775912004,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186105,
       "num": 57814,
       "word": "赵子琪淘汰后节目组不让取包",
@@ -969,6 +1025,14 @@
       "onboard_time": 1775881701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180726,
+      "num": 161467,
+      "word": "全糖半糖无糖",
+      "onboard_time": 1775912485,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 180091,
@@ -1027,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172531,
+      "num": 214345,
+      "word": "美伊代表团举行谈判",
+      "onboard_time": 1775911642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172069,
       "num": 172069,
       "word": "终于知道北京人为什么不爱出门了",
@@ -1059,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168777,
+      "num": 168777,
+      "word": "35岁是癌症风险关键分水岭",
+      "onboard_time": 1775913863,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165735,
       "num": 165735,
       "word": "张慧雯掀翻刘昊然",
@@ -1089,14 +1169,6 @@
       "onboard_time": 1775876480,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161467,
-      "num": 161467,
-      "word": "全糖半糖无糖",
-      "onboard_time": 1775912485,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 157434,
@@ -1171,20 +1243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151081,
-      "num": 214345,
-      "word": "美伊代表团举行谈判",
-      "onboard_time": 1775911642,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150567,
       "num": 150567,
       "word": "仅靠卖车企业已经无法盈利了",
       "onboard_time": 1775900480,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "曾沛慈清唱遗憾",
+      "onboard_time": 1775909303,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 145543,
@@ -1356,7 +1428,7 @@
     },
     {
       "raw_hot": 128777,
-      "num": 128777,
+      "num": 135250,
       "word": "一口价黄金降价",
       "onboard_time": 1775911704,
       "rank": 46,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1775888661,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124587,
+      "num": 150788,
+      "word": "三角洲",
+      "onboard_time": 1775914163,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 124211,
@@ -1523,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111291,
+      "num": 137597,
+      "word": "海底捞已通知一千多家门店内部排查",
+      "onboard_time": 1775914463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111104,
       "num": 111104,
       "word": "导演温成林突发心梗去世",
@@ -1641,6 +1729,14 @@
       "onboard_time": 1775894121,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103946,
+      "num": 136007,
+      "word": "上班穿的衣服能有多便宜",
+      "onboard_time": 1775910864,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 103751,
@@ -1820,7 +1916,7 @@
     },
     {
       "raw_hot": 94058,
-      "num": 127478,
+      "num": 136380,
       "word": "小米正式调价",
       "onboard_time": 1775893220,
       "rank": 49,
@@ -2683,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50783,
+      "num": 961411,
+      "word": "我国经济一季度交出亮眼答卷",
+      "onboard_time": 1775910084,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48643,
       "num": 84495,
       "word": "张雪请李亚鹏监督捐款用在孩子身上",
@@ -2697,14 +2801,6 @@
       "onboard_time": 1775863999,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46899,
-      "num": 694449,
-      "word": "我国经济一季度交出亮眼答卷",
-      "onboard_time": 1775910084,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46768,
@@ -2857,6 +2953,14 @@
       "onboard_time": 1775889501,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27448,
+      "num": 169203,
+      "word": "邓亚萍为任子威杨倩颁奖",
+      "onboard_time": 1775913442,
+      "rank": 29,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 26632,
