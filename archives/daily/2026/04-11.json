@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775889554050,
+  "endTime": 1775894222905,
   "band_list": [
     {
       "raw_hot": 1595728,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1322586,
-      "num": 639366,
+      "num": 690601,
       "word": "马頔 我还要生孩子呢",
       "onboard_time": 1775883023,
       "rank": 11,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685420,
+      "num": 1109667,
+      "word": "妻子发现丈夫藏200多枚金币气炸",
+      "onboard_time": 1775891482,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626349,
       "num": 1100215,
       "word": "爸爸出门上班5个月孩子独自留家",
@@ -105,6 +113,14 @@
       "onboard_time": 1775835442,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536171,
+      "num": 824551,
+      "word": "王濛 性格耿直又见不得美人儿落泪",
+      "onboard_time": 1775888179,
+      "rank": 15,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 524418,
@@ -176,6 +192,14 @@
       "word": "韩国人称被叫小韩感觉不适",
       "onboard_time": 1775887641,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 397387,
+      "num": 397387,
+      "word": "原来冲锋衣是胶水粘的",
+      "onboard_time": 1775890221,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -251,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346938,
-      "num": 346938,
-      "word": "王濛 性格耿直又见不得美人儿落泪",
-      "onboard_time": 1775888179,
-      "rank": 15,
-      "category": "综艺,体育"
+      "raw_hot": 333451,
+      "num": 152850,
+      "word": "张婉婷风波后首发文",
+      "onboard_time": 1775889380,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 332485,
@@ -323,11 +347,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299367,
+      "num": 294147,
+      "word": "美股巨震",
+      "onboard_time": 1775891540,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 297867,
+      "num": 297867,
+      "word": "女子从日本带回244本淫秽漫画获刑",
+      "onboard_time": 1775892200,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296348,
       "num": 296348,
       "word": "天生没有四肢的母亲用嘴养活三个孩子",
       "onboard_time": 1775880620,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293974,
+      "num": 310918,
+      "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
+      "onboard_time": 1775888661,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -385,6 +433,14 @@
       "onboard_time": 1775826322,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261845,
+      "num": 261845,
+      "word": "美国一海滩藏发现11具遗体",
+      "onboard_time": 1775890280,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 247266,
@@ -515,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178718,
-      "num": 310918,
-      "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
-      "onboard_time": 1775888661,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177054,
       "num": 401438,
       "word": "各方同意以伊方十点方案为谈判基础",
       "onboard_time": 1775840958,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175205,
+      "num": 175205,
+      "word": "单身久了越来越像甲方",
+      "onboard_time": 1775892862,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 173407,
@@ -561,6 +617,14 @@
       "onboard_time": 1775880203,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165698,
+      "num": 165698,
+      "word": "陶昕然叫邓超姐夫",
+      "onboard_time": 1775893640,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 162849,
@@ -691,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133314,
+      "num": 349698,
+      "word": "年锦生气",
+      "onboard_time": 1775889022,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130648,
       "num": 208008,
       "word": "Gr对战Xteam",
@@ -705,6 +777,14 @@
       "onboard_time": 1775880980,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "原来我真能花100万",
+      "onboard_time": 1775892741,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 127407,
@@ -835,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108066,
+      "num": 108066,
+      "word": "wbti",
+      "onboard_time": 1775893461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106997,
       "num": 106997,
       "word": "老板带280名员工抢下张雪夺冠复刻车",
@@ -875,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104849,
+      "num": 104849,
+      "word": "闪迪股价1年暴涨2500%",
+      "onboard_time": 1775894121,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103751,
       "num": 103751,
       "word": "何老师请大家继续永远支持张杰",
@@ -899,6 +995,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102614,
+      "num": 102614,
+      "word": "武艺说沈月净化了我的眼睛",
+      "onboard_time": 1775892682,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100760,
+      "num": 100760,
+      "word": "韩国遮瑕就买三个品牌",
+      "onboard_time": 1775893401,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 99963,
       "num": 170078,
       "word": "毛血旺里的毛到底是啥",
@@ -921,6 +1033,22 @@
       "onboard_time": 1775878281,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99115,
+      "num": 99115,
+      "word": "五哈是王影璐第一次录综艺",
+      "onboard_time": 1775892141,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98210,
+      "num": 98210,
+      "word": "TOP演唱会",
+      "onboard_time": 1775890580,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 98134,
@@ -963,12 +1091,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92191,
+      "num": 92191,
+      "word": "小孩问外国游客美国人是不是吃人",
+      "onboard_time": 1775890940,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91131,
+      "num": 91131,
+      "word": "87岁老人摔倒后在地上躺了一整夜",
+      "onboard_time": 1775893284,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90544,
       "num": 89702,
       "word": "鞠婧祎 素衣绣蓝",
       "onboard_time": 1775885661,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90232,
+      "num": 90232,
+      "word": "收纳届来了个天才",
+      "onboard_time": 1775892619,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 90124,
@@ -993,22 +1145,6 @@
       "onboard_time": 1775882901,
       "rank": 40,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 89613,
-      "num": 89613,
-      "word": "张婉婷风波后首发文",
-      "onboard_time": 1775889380,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 88748,
-      "num": 349698,
-      "word": "年锦生气",
-      "onboard_time": 1775889022,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 88602,
@@ -1059,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86963,
+      "num": 86963,
+      "word": "朱志鑫澳门演唱会花墙",
+      "onboard_time": 1775886501,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86042,
       "num": 95653,
       "word": "饭圈乱象成影响体育事业的重大风险",
@@ -1073,6 +1217,22 @@
       "onboard_time": 1775823683,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85009,
+      "num": 85009,
+      "word": "何超莲樱花照 窦骁视角",
+      "onboard_time": 1775894181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84216,
+      "num": 84216,
+      "word": "十日终焉藏海传同一海报团队",
+      "onboard_time": 1775892021,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83963,
@@ -1201,14 +1361,6 @@
       "onboard_time": 1775822180,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73926,
-      "num": 73926,
-      "word": "朱志鑫澳门演唱会花墙",
-      "onboard_time": 1775886501,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 73873,
@@ -1515,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56764,
+      "num": 153445,
+      "word": "华为PuraXMax曝光",
+      "onboard_time": 1775878581,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56368,
       "num": 56368,
       "word": "美国打了一圈伊朗反而更硬了",
@@ -1547,20 +1707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54448,
+      "num": 108079,
+      "word": "为什么四月要去荣成吃海鲜",
+      "onboard_time": 1775891240,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 53389,
       "num": 83511,
       "word": "21世纪大君夫人",
       "onboard_time": 1775829563,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52662,
-      "num": 70589,
-      "word": "华为PuraXMax曝光",
-      "onboard_time": 1775878581,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 52390,
@@ -1601,6 +1761,14 @@
       "onboard_time": 1775836222,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43974,
+      "num": 82784,
+      "word": "小米正式调价",
+      "onboard_time": 1775893220,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 43632,
@@ -1739,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26297,
+      "num": 747207,
+      "word": "这支短片名叫问勇",
+      "onboard_time": 1775891482,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24295,
       "num": 29086,
       "word": "杨紫创平台女性角色历史最高",
@@ -1820,6 +1996,9 @@
     },
     {
       "word": "#习近平就两岸关系发展提出4点意见#"
+    },
+    {
+      "word": "#习近平指引两岸关系发展#"
     }
   ]
 }
