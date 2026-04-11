@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775951055735,
+  "endTime": 1775951961682,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 739275,
-      "num": 451425,
+      "raw_hot": 895530,
+      "num": 526948,
       "word": "孙怡阚清子直播零互动",
       "onboard_time": 1775949736,
       "rank": 3,
@@ -35,8 +35,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596833,
+      "num": 188057,
+      "word": "曝同一个艺人四部剧都没过会",
+      "onboard_time": 1775950578,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580565,
-      "num": 746293,
+      "num": 772182,
       "word": "海底捞已通知一千多家门店内部排查",
       "onboard_time": 1775914463,
       "rank": 0,
@@ -59,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443180,
-      "num": 188057,
-      "word": "曝同一个艺人四部剧都没过会",
+      "raw_hot": 468612,
+      "num": 181311,
+      "word": "恭喜那些洗袜子不翻面的人",
       "onboard_time": 1775950578,
-      "rank": 10,
-      "category": "艺人"
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403803,
@@ -84,19 +92,27 @@
     },
     {
       "raw_hot": 351437,
-      "num": 911903,
+      "num": 1032494,
       "word": "女子1天爬2次华山收到景区问候",
       "onboard_time": 1775922142,
       "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327720,
-      "num": 181311,
-      "word": "恭喜那些洗袜子不翻面的人",
-      "onboard_time": 1775950578,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 335899,
+      "num": 126925,
+      "word": "郭碧婷劝小鹿不要生二胎",
+      "onboard_time": 1775950819,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331414,
+      "num": 264799,
+      "word": "谢娜成都演唱会票价",
+      "onboard_time": 1775950878,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 310005,
@@ -113,6 +129,14 @@
       "onboard_time": 1775915602,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279615,
+      "num": 279615,
+      "word": "美伊第三轮谈判结束",
+      "onboard_time": 1775949977,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 264934,
@@ -171,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172739,
-      "num": 172739,
-      "word": "谢娜成都演唱会票价",
-      "onboard_time": 1775950878,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 170607,
+      "num": 131657,
+      "word": "7岁男童冲出马路被撞交警判全责",
+      "onboard_time": 1775950757,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161458,
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137982,
+      "num": 73994,
+      "word": "张婉婷回应宋宁峰借钱还网贷",
+      "onboard_time": 1775950757,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128905,
       "num": 175179,
       "word": "浪姐太虐了",
@@ -208,14 +240,6 @@
       "word": "乌兰图雅团第一",
       "onboard_time": 1775916504,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 126925,
-      "num": 126925,
-      "word": "郭碧婷劝小鹿不要生二胎",
-      "onboard_time": 1775950819,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -267,14 +291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111977,
-      "num": 203619,
-      "word": "美伊第三轮谈判结束",
-      "onboard_time": 1775949977,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111194,
       "num": 179636,
       "word": "部分商家承认120W是充电器商标",
@@ -323,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101472,
-      "num": 131657,
-      "word": "7岁男童冲出马路被撞交警判全责",
-      "onboard_time": 1775950757,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "江语晨前夫",
       "onboard_time": 1775908823,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96387,
+      "num": 72185,
+      "word": "无忧渡",
+      "onboard_time": 1775950219,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 96063,
@@ -347,7 +363,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87981,
+      "raw_hot": 91170,
       "num": 87981,
       "word": "美伊谈判最新进展",
       "onboard_time": 1775948956,
@@ -361,6 +377,14 @@
       "onboard_time": 1775918186,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82335,
+      "num": 68558,
+      "word": "巴基斯坦总理分别会见伊美谈判成员",
+      "onboard_time": 1775949138,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82262,
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73994,
-      "num": 73994,
-      "word": "张婉婷回应宋宁峰借钱还网贷",
-      "onboard_time": 1775950757,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73518,
       "num": 174611,
       "word": "张予曦毕雯珺合伙人零互动",
@@ -427,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66268,
-      "num": 66268,
-      "word": "无忧渡",
-      "onboard_time": 1775950219,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 67851,
+      "num": 67851,
+      "word": "莫氏鸡煲老板原本是中医",
+      "onboard_time": 1775950997,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 64671,
@@ -465,6 +481,22 @@
       "onboard_time": 1775901143,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54992,
+      "num": 194687,
+      "word": "天大图书馆留言板火了",
+      "onboard_time": 1775931976,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 54041,
+      "num": 54041,
+      "word": "美国答应伊朗先决条件的可能性有多大",
+      "onboard_time": 1775950158,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53411,
@@ -507,14 +539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50465,
-      "num": 194687,
-      "word": "天大图书馆留言板火了",
-      "onboard_time": 1775931976,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 50044,
       "num": 174424,
       "word": "赖伟明 好六",
@@ -531,12 +555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48691,
+      "num": 48691,
+      "word": "陶昕然表现",
+      "onboard_time": 1775951898,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48635,
       "num": 48635,
       "word": "杨紫生命树登上新闻联播",
       "onboard_time": 1775950457,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48545,
+      "num": 174151,
+      "word": "金饰开始拼促销最高克减360",
+      "onboard_time": 1775926699,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 48520,
@@ -555,20 +595,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48161,
-      "num": 174151,
-      "word": "金饰开始拼促销最高克减360",
-      "onboard_time": 1775926699,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 47801,
       "num": 47801,
       "word": "你好星期六下期巅峰喜剧节",
       "onboard_time": 1775944574,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47762,
+      "num": 47762,
+      "word": "适合减脂期吃的水油焖菜",
+      "onboard_time": 1775951357,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 47635,
+      "num": 193194,
+      "word": "伊美谈判延长1天",
+      "onboard_time": 1775950457,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47468,
+      "num": 47468,
+      "word": "每天喝2杯咖啡的好处",
+      "onboard_time": 1775951779,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 45216,
+      "num": 45216,
+      "word": "伊谈判代表团抵达巴基斯坦",
+      "onboard_time": 1775951599,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45114,
@@ -579,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44827,
+      "num": 44827,
+      "word": "浪姐连着两天淘汰两个央视前主持人",
+      "onboard_time": 1775951719,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44065,
       "num": 53161,
       "word": "周深发了153个啊描述苏超氛围",
@@ -587,20 +659,20 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 41703,
-      "num": 41703,
-      "word": "美国答应伊朗先决条件的可能性有多大",
-      "onboard_time": 1775950158,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41079,
       "num": 41079,
       "word": "伊媒称伊斯兰堡谈判有可能延长一天",
       "onboard_time": 1775926819,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40598,
+      "num": 40598,
+      "word": "男子因针灸四肢瘫痪诊所被判赔241万",
+      "onboard_time": 1775951839,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40041,
@@ -619,28 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39324,
-      "num": 38734,
-      "word": "莫氏鸡煲老板原本是中医",
-      "onboard_time": 1775950997,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 38838,
       "num": 41037,
       "word": "我发现心愿便利贴静音特别好听",
       "onboard_time": 1775910564,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37637,
-      "num": 193194,
-      "word": "伊美谈判延长1天",
-      "onboard_time": 1775950457,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37590,
@@ -668,7 +724,7 @@
     },
     {
       "raw_hot": 31367,
-      "num": 541183,
+      "num": 608212,
       "word": "我国经济一季度交出亮眼答卷",
       "onboard_time": 1775910084,
       "rank": 2,
@@ -819,7 +875,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10432,
+      "raw_hot": 12797,
       "num": 41019,
       "word": "存储还能涨多久",
       "onboard_time": 1775948417,
