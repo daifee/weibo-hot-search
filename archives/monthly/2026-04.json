@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775919807982,
+  "endTime": 1775922120684,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -971,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 975741,
+      "num": 1156118,
+      "word": "海底捞已通知一千多家门店内部排查",
+      "onboard_time": 1775914463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971762,
       "num": 447231,
       "word": "收到了去世好友的微信回复",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1775547563,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758628,
-      "num": 1012978,
-      "word": "海底捞已通知一千多家门店内部排查",
-      "onboard_time": 1775914463,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 758596,
@@ -3968,6 +3968,14 @@
       "word": "安崎 天生爱豆",
       "onboard_time": 1775913502,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 420361,
+      "num": 291317,
+      "word": "庄法萧蔷 不该pk",
+      "onboard_time": 1775920042,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -6593,6 +6601,14 @@
       "onboard_time": 1775881642,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291199,
+      "num": 291199,
+      "word": "李楷灿 仁川机场",
+      "onboard_time": 1775921542,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 290497,
@@ -9609,6 +9625,14 @@
       "onboard_time": 1775023645,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202953,
+      "num": 202953,
+      "word": "一栗小莎子得的是霍奇金淋巴瘤",
+      "onboard_time": 1775919623,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 202950,
@@ -13379,6 +13403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138658,
+      "num": 138658,
+      "word": "吴京好好在家带孩子",
+      "onboard_time": 1775921542,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138650,
       "num": 105943,
       "word": "五哈6观后感",
@@ -14288,14 +14320,6 @@
       "word": "张国荣祖居被发现",
       "onboard_time": 1775181141,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129660,
-      "num": 128666,
-      "word": "一栗小莎子得的是霍奇金淋巴瘤",
-      "onboard_time": 1775919623,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -15723,6 +15747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117171,
+      "num": 117171,
+      "word": "时代少年团广州演唱会批文",
+      "onboard_time": 1775921962,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117169,
       "num": 117169,
       "word": "王皓疯狂庆祝",
@@ -15897,6 +15929,14 @@
       "onboard_time": 1775349978,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115649,
+      "num": 291279,
+      "word": "狼队超话大文豪",
+      "onboard_time": 1775917705,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 115311,
@@ -16513,6 +16553,14 @@
       "onboard_time": 1775423834,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 109766,
+      "num": 285023,
+      "word": "用奔驰车陪葬事件当事人致歉",
+      "onboard_time": 1775918844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109758,
@@ -17289,14 +17337,6 @@
       "onboard_time": 1775378422,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105038,
-      "num": 262373,
-      "word": "狼队超话大文豪",
-      "onboard_time": 1775917705,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 104928,
@@ -19171,11 +19211,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95559,
-      "num": 186707,
-      "word": "用奔驰车陪葬事件当事人致歉",
-      "onboard_time": 1775918844,
-      "rank": 38,
+      "raw_hot": 95554,
+      "num": 217709,
+      "word": "鸡煲老板透露汤底可补肾后又反悔",
+      "onboard_time": 1775919084,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -19785,14 +19825,6 @@
       "onboard_time": 1775226383,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92654,
-      "num": 128783,
-      "word": "鸡煲老板透露汤底可补肾后又反悔",
-      "onboard_time": 1775919084,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92436,
@@ -23043,6 +23075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79236,
+      "num": 134374,
+      "word": "巴基斯坦官员说伊美谈判进程慢于预期",
+      "onboard_time": 1775921182,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79194,
       "num": 79194,
       "word": "卓沅 种地吧录制",
@@ -24227,6 +24267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74913,
+      "num": 124160,
+      "word": "部分商家承认120W是充电器商标",
+      "onboard_time": 1775922082,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74885,
       "num": 74885,
       "word": "故宫海棠配红墙太出片了",
@@ -24433,6 +24481,14 @@
       "onboard_time": 1775793625,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74187,
+      "num": 113103,
+      "word": "新闻联播报道生命树旅游路线",
+      "onboard_time": 1775922082,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 74175,
@@ -24745,6 +24801,14 @@
       "onboard_time": 1775888242,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72863,
+      "num": 112480,
+      "word": "狼队回应不敌KSG",
+      "onboard_time": 1775921662,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 72859,
@@ -26000,6 +26064,14 @@
       "word": "张雪机车烟台店把展厅卖空了",
       "onboard_time": 1775258657,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68280,
+      "num": 112824,
+      "word": "莫氏鸡煲老板从愁容到笑逐颜开",
+      "onboard_time": 1775921003,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -29793,6 +29865,14 @@
       "onboard_time": 1775209102,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35709,
+      "num": 133838,
+      "word": "林俊杰我懂你了",
+      "onboard_time": 1775920822,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 35643,
