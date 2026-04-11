@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775926041008,
+  "endTime": 1775927130161,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 555719,
+      "raw_hot": 567307,
       "num": 292213,
       "word": "齐思钧主持能力",
       "onboard_time": 1775924061,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310005,
+      "num": 176180,
+      "word": "赵子琪 浪姐",
+      "onboard_time": 1775923522,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281047,
       "num": 182594,
       "word": "江语晨胜诉浪姐后台哭成一片",
@@ -88,14 +96,6 @@
       "word": "庄法萧蔷 不该pk",
       "onboard_time": 1775920042,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 237557,
-      "num": 149186,
-      "word": "赵子琪 浪姐",
-      "onboard_time": 1775923522,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151310,
+      "num": 184227,
+      "word": "直播晕倒被辞退女主播发声",
+      "onboard_time": 1775925800,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143441,
       "num": 143441,
       "word": "吴京好好在家带孩子",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 128905,
-      "num": 128905,
+      "num": 175179,
       "word": "浪姐太虐了",
       "onboard_time": 1775918124,
       "rank": 29,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 127349,
-      "num": 127349,
+      "num": 174961,
       "word": "乌兰图雅团第一",
       "onboard_time": 1775916504,
       "rank": 30,
@@ -179,20 +187,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115804,
+      "num": 174990,
+      "word": "心愿便利贴 不好听但溺爱了",
+      "onboard_time": 1775911344,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115681,
       "num": 186883,
       "word": "美媒称数艘美军舰通过霍尔木兹",
       "onboard_time": 1775913264,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114701,
-      "num": 114701,
-      "word": "心愿便利贴 不好听但溺爱了",
-      "onboard_time": 1775911344,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 111194,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 109834,
-      "num": 103682,
+      "num": 174696,
       "word": "我英语水平 乌兰图雅",
       "onboard_time": 1775916083,
       "rank": 35,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 106491,
-      "num": 106491,
+      "num": 174844,
       "word": "雨爱 这才是全开麦",
       "onboard_time": 1775914645,
       "rank": 33,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 102809,
-      "num": 102809,
+      "num": 174921,
       "word": "李小冉口误喊赵兆老公",
       "onboard_time": 1775915362,
       "rank": 36,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 84580,
-      "num": 149679,
+      "num": 174794,
       "word": "苏超常州3比0南通",
       "onboard_time": 1775918186,
       "rank": 25,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 79668,
-      "num": 134628,
+      "num": 174824,
       "word": "KSG冠军",
       "onboard_time": 1775912664,
       "rank": 28,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 79020,
-      "num": 79020,
+      "num": 174678,
       "word": "时代少年团广州演唱会批文",
       "onboard_time": 1775921962,
       "rank": 39,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 75012,
-      "num": 75012,
+      "num": 174518,
       "word": "徐洁儿为什么会没人选",
       "onboard_time": 1775918785,
       "rank": 41,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 73518,
-      "num": 73518,
+      "num": 174611,
       "word": "张予曦毕雯珺合伙人零互动",
       "onboard_time": 1775903483,
       "rank": 42,
@@ -292,23 +300,23 @@
     },
     {
       "raw_hot": 73236,
-      "num": 73236,
+      "num": 174564,
       "word": "我听心愿便利贴belike曾沛慈",
       "onboard_time": 1775915183,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 62402,
-      "num": 118406,
-      "word": "直播晕倒被辞退女主播发声",
-      "onboard_time": 1775925800,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 61672,
+      "num": 174640,
+      "word": "李荣浩太原演唱会",
+      "onboard_time": 1775926400,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 56043,
-      "num": 104184,
+      "num": 174487,
       "word": "狼队对战KSG",
       "onboard_time": 1775901143,
       "rank": 34,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 53929,
-      "num": 99407,
+      "num": 174732,
       "word": "生命树取景地接待超15万人次",
       "onboard_time": 1775923162,
       "rank": 37,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 53411,
-      "num": 75557,
+      "num": 174166,
       "word": "巴基斯坦官员说伊美谈判进程慢于预期",
       "onboard_time": 1775921182,
       "rank": 40,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 53253,
-      "num": 73265,
+      "num": 174196,
       "word": "35岁是癌症风险关键分水岭",
       "onboard_time": 1775913863,
       "rank": 43,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 52402,
-      "num": 68234,
+      "num": 174274,
       "word": "SK教练",
       "onboard_time": 1775915780,
       "rank": 47,
@@ -356,27 +364,75 @@
     },
     {
       "raw_hot": 50801,
-      "num": 64837,
+      "num": 174473,
       "word": "一笙三冠辅助",
       "onboard_time": 1775915123,
       "rank": 48,
       "category": "电竞"
     },
     {
+      "raw_hot": 50044,
+      "num": 174424,
+      "word": "赖伟明 好六",
+      "onboard_time": 1775926461,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48520,
+      "num": 183041,
+      "word": "问界M6预订量突破10万台",
+      "onboard_time": 1775924663,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 48177,
+      "num": 174306,
+      "word": "安崎 天生爱豆",
+      "onboard_time": 1775913502,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47624,
+      "num": 174241,
+      "word": "浪姐版傲慢与偏见",
+      "onboard_time": 1775926819,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45114,
-      "num": 63562,
+      "num": 174082,
       "word": "苏超比分",
       "onboard_time": 1775912004,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 31944,
-      "num": 183041,
-      "word": "问界M6预订量突破10万台",
-      "onboard_time": 1775924663,
-      "rank": 16,
-      "category": "汽车"
+      "raw_hot": 44476,
+      "num": 174151,
+      "word": "金饰开始拼促销最高克减360",
+      "onboard_time": 1775926699,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 40041,
+      "num": 174397,
+      "word": "陈凯琳吃了普通话的亏",
+      "onboard_time": 1775925501,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34348,
+      "num": 181082,
+      "word": "美前国务卿说攻击伊朗是以总理梦想",
+      "onboard_time": 1775925321,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31367,
@@ -387,20 +443,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28323,
+      "num": 174329,
+      "word": "邓亚萍架起文化交流桥梁",
+      "onboard_time": 1775926221,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14954,
       "num": 69083,
       "word": "潮汐车道自动切换太丝滑",
       "onboard_time": 1775906901,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14909,
-      "num": 181082,
-      "word": "美前国务卿说攻击伊朗是以总理梦想",
-      "onboard_time": 1775925321,
-      "rank": 19,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

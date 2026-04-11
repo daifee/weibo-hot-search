@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/12 00:47:21
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/12 01:05:30
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E4%B8%BB%E6%8C%81%E8%83%BD%E5%8A%9B%23" target="weibo">
-齐思钧主持能力（热度：555719）
+齐思钧主持能力（热度：567307）
 </a>
 </li>
 
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%20%E6%B5%AA%E5%A7%90%23" target="weibo">
+赵子琪 浪姐（热度：310005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E8%83%9C%E8%AF%89%E6%B5%AA%E5%A7%90%E5%90%8E%E5%8F%B0%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87%23" target="weibo">
 江语晨胜诉浪姐后台哭成一片（热度：281047）
 </a>
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E6%B3%95%E8%90%A7%E8%94%B7%20%E4%B8%8D%E8%AF%A5pk%23" target="weibo">
 庄法萧蔷 不该pk（热度：254115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%20%E6%B5%AA%E5%A7%90%23" target="weibo">
-赵子琪 浪姐（热度：237557）
 </a>
 </li>
 
@@ -107,6 +107,12 @@ KSG零封狼队（热度：188250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%97%E5%B0%8F%E8%8E%8E%E5%AD%90%E5%BE%97%E7%9A%84%E6%98%AF%E9%9C%8D%E5%A5%87%E9%87%91%E6%B7%8B%E5%B7%B4%E7%98%A4%23" target="weibo">
 一栗小莎子得的是霍奇金淋巴瘤（热度：161458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%99%95%E5%80%92%E8%A2%AB%E8%BE%9E%E9%80%80%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E5%A3%B0%23" target="weibo">
+直播晕倒被辞退女主播发声（热度：151310）
 </a>
 </li>
 
@@ -147,14 +153,14 @@ KSG零封狼队（热度：188250）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E6%95%B0%E8%89%98%E7%BE%8E%E5%86%9B%E8%88%B0%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23" target="weibo">
-美媒称数艘美军舰通过霍尔木兹（热度：115681）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%20%E4%B8%8D%E5%A5%BD%E5%90%AC%E4%BD%86%E6%BA%BA%E7%88%B1%E4%BA%86%23" target="weibo">
+心愿便利贴 不好听但溺爱了（热度：115804）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%20%E4%B8%8D%E5%A5%BD%E5%90%AC%E4%BD%86%E6%BA%BA%E7%88%B1%E4%BA%86%23" target="weibo">
-心愿便利贴 不好听但溺爱了（热度：114701）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E6%95%B0%E8%89%98%E7%BE%8E%E5%86%9B%E8%88%B0%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23" target="weibo">
+美媒称数艘美军舰通过霍尔木兹（热度：115681）
 </a>
 </li>
 
@@ -237,8 +243,8 @@ KSG冠军（热度：79668）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%99%95%E5%80%92%E8%A2%AB%E8%BE%9E%E9%80%80%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%8F%91%E5%A3%B0%23" target="weibo">
-直播晕倒被辞退女主播发声（热度：62402）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+李荣浩太原演唱会（热度：61672）
 </a>
 </li>
 
@@ -285,14 +291,50 @@ SK教练（热度：52402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E4%BC%9F%E6%98%8E%20%E5%A5%BD%E5%85%AD%23" target="weibo">
+赖伟明 好六（热度：50044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E9%A2%84%E8%AE%A2%E9%87%8F%E7%AA%81%E7%A0%B410%E4%B8%87%E5%8F%B0%23" target="weibo">
+问界M6预订量突破10万台（热度：48520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%20%E5%A4%A9%E7%94%9F%E7%88%B1%E8%B1%86%23" target="weibo">
+安崎 天生爱豆（热度：48177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%89%88%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81%23" target="weibo">
+浪姐版傲慢与偏见（热度：47624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%AF%94%E5%88%86%23" target="weibo">
 苏超比分（热度：45114）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E9%A2%84%E8%AE%A2%E9%87%8F%E7%AA%81%E7%A0%B410%E4%B8%87%E5%8F%B0%23" target="weibo">
-问界M6预订量突破10万台（热度：31944）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%BC%80%E5%A7%8B%E6%8B%BC%E4%BF%83%E9%94%80%E6%9C%80%E9%AB%98%E5%85%8B%E5%87%8F360%23" target="weibo">
+金饰开始拼促销最高克减360（热度：44476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E7%90%B3%E5%90%83%E4%BA%86%E6%99%AE%E9%80%9A%E8%AF%9D%E7%9A%84%E4%BA%8F%23" target="weibo">
+陈凯琳吃了普通话的亏（热度：40041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%8D%E5%9B%BD%E5%8A%A1%E5%8D%BF%E8%AF%B4%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E6%98%AF%E4%BB%A5%E6%80%BB%E7%90%86%E6%A2%A6%E6%83%B3%23" target="weibo">
+美前国务卿说攻击伊朗是以总理梦想（热度：34348）
 </a>
 </li>
 
@@ -303,14 +345,14 @@ SK教练（热度：52402）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B1%90%E8%BD%A6%E9%81%93%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E5%A4%AA%E4%B8%9D%E6%BB%91%23" target="weibo">
-潮汐车道自动切换太丝滑（热度：14954）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E6%9E%B6%E8%B5%B7%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E6%A1%A5%E6%A2%81%23" target="weibo">
+邓亚萍架起文化交流桥梁（热度：28323）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%8D%E5%9B%BD%E5%8A%A1%E5%8D%BF%E8%AF%B4%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E6%98%AF%E4%BB%A5%E6%80%BB%E7%90%86%E6%A2%A6%E6%83%B3%23" target="weibo">
-美前国务卿说攻击伊朗是以总理梦想（热度：14909）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B1%90%E8%BD%A6%E9%81%93%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E5%A4%AA%E4%B8%9D%E6%BB%91%23" target="weibo">
+潮汐车道自动切换太丝滑（热度：14954）
 </a>
 </li>
 
