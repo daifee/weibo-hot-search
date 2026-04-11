@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775940228368,
+  "endTime": 1775941264063,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29719,
+      "num": 29719,
+      "word": "白日提灯",
+      "onboard_time": 1775937975,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28323,
       "num": 174329,
       "word": "邓亚萍架起文化交流桥梁",
@@ -505,14 +513,6 @@
       "onboard_time": 1775929396,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25878,
-      "num": 25878,
-      "word": "白日提灯",
-      "onboard_time": 1775937975,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 25306,
@@ -611,7 +611,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10391,
+      "raw_hot": 13956,
       "num": 20242,
       "word": "微博文化交流之夜舞台",
       "onboard_time": 1775940133,
