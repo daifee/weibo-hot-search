@@ -1,6 +1,6 @@
 {
   "startTime": 1775836964168,
-  "endTime": 1775922120684,
+  "endTime": 1775922995486,
   "band_list": [
     {
       "raw_hot": 4473420,
@@ -155,27 +155,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 989135,
-      "num": 283473,
-      "word": "李小冉一开口我就笑了",
-      "onboard_time": 1775910983,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 975741,
-      "num": 1156118,
+      "raw_hot": 1020182,
+      "num": 1163229,
       "word": "海底捞已通知一千多家门店内部排查",
       "onboard_time": 1775914463,
       "rank": 45,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 956294,
+      "raw_hot": 1015146,
       "num": 1118542,
       "word": "浪姐排名",
       "onboard_time": 1775831124,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 989135,
+      "num": 283473,
+      "word": "李小冉一开口我就笑了",
+      "onboard_time": 1775910983,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -249,6 +249,14 @@
       "onboard_time": 1775913324,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 663100,
+      "num": 298009,
+      "word": "李楷灿 仁川机场",
+      "onboard_time": 1775921542,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 661862,
@@ -827,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291199,
-      "num": 291199,
-      "word": "李楷灿 仁川机场",
-      "onboard_time": 1775921542,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287815,
       "num": 203229,
       "word": "一栗小莎子已化疗4次还有8次",
@@ -1123,8 +1123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202953,
-      "num": 202953,
+      "raw_hot": 209084,
+      "num": 209084,
       "word": "一栗小莎子得的是霍奇金淋巴瘤",
       "onboard_time": 1775919623,
       "rank": 47,
@@ -1323,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167181,
+      "num": 167181,
+      "word": "吴京好好在家带孩子",
+      "onboard_time": 1775921542,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165735,
       "num": 165735,
       "word": "张慧雯掀翻刘昊然",
@@ -1395,6 +1403,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 155779,
+      "num": 309482,
+      "word": "狼队超话大文豪",
+      "onboard_time": 1775917705,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153077,
       "num": 128189,
       "word": "庄法团824票",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1775881223,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152122,
+      "num": 285023,
+      "word": "用奔驰车陪葬事件当事人致歉",
+      "onboard_time": 1775918844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151529,
@@ -1555,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138658,
-      "num": 138658,
-      "word": "吴京好好在家带孩子",
-      "onboard_time": 1775921542,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137931,
       "num": 126221,
       "word": "刘雨鑫又带火了南沙10元自助粥锅店",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1775916025,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135005,
+      "num": 293533,
+      "word": "鸡煲老板透露汤底可补肾后又反悔",
+      "onboard_time": 1775919084,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134170,
@@ -1763,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119738,
+      "num": 278168,
+      "word": "女子1天爬2次华山收到景区问候",
+      "onboard_time": 1775922142,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118915,
       "num": 118915,
       "word": "虞书欣Ins更新",
@@ -1795,12 +1827,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115649,
-      "num": 291279,
-      "word": "狼队超话大文豪",
-      "onboard_time": 1775917705,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 117167,
+      "num": 223995,
+      "word": "部分商家承认120W是充电器商标",
+      "onboard_time": 1775922082,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115311,
@@ -1921,14 +1953,6 @@
       "onboard_time": 1775835623,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109766,
-      "num": 285023,
-      "word": "用奔驰车陪葬事件当事人致歉",
-      "onboard_time": 1775918844,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108871,
@@ -2203,14 +2227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95554,
-      "num": 217709,
-      "word": "鸡煲老板透露汤底可补肾后又反悔",
-      "onboard_time": 1775919084,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94949,
       "num": 94949,
       "word": "朝鲜支持中国在台湾等问题上的立场",
@@ -2451,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85478,
+      "num": 134374,
+      "word": "巴基斯坦官员说伊美谈判进程慢于预期",
+      "onboard_time": 1775921182,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85202,
       "num": 107121,
       "word": "奔跑吧ins取关TWS",
@@ -2523,12 +2547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79236,
-      "num": 134374,
-      "word": "巴基斯坦官员说伊美谈判进程慢于预期",
-      "onboard_time": 1775921182,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 79264,
+      "num": 113103,
+      "word": "新闻联播报道生命树旅游路线",
+      "onboard_time": 1775922082,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 78823,
@@ -2603,6 +2627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 76582,
+      "num": 133838,
+      "word": "林俊杰我懂你了",
+      "onboard_time": 1775920822,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 76002,
       "num": 76002,
       "word": "5岁女童餐厅坠亡母亲担责3成",
@@ -2635,28 +2667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74913,
-      "num": 124160,
-      "word": "部分商家承认120W是充电器商标",
-      "onboard_time": 1775922082,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74268,
       "num": 74268,
       "word": "时代少年团新团歌",
       "onboard_time": 1775883921,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74187,
-      "num": 113103,
-      "word": "新闻联播报道生命树旅游路线",
-      "onboard_time": 1775922082,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 74085,
@@ -3249,14 +3265,6 @@
       "onboard_time": 1775824702,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35709,
-      "num": 133838,
-      "word": "林俊杰我懂你了",
-      "onboard_time": 1775920822,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 35643,
