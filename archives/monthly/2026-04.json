@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775999777831,
+  "endTime": 1776001242683,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -368,6 +368,14 @@
       "word": "新加坡偶遇唐嫣罗晋一家三口",
       "onboard_time": 1775380760,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1722013,
+      "num": 174096,
+      "word": "朴宝剑探班王安宇",
+      "onboard_time": 1775998522,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -760,14 +768,6 @@
       "word": "曝顶帅男演员被富婆大闹片场",
       "onboard_time": 1775120243,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1172847,
-      "num": 174096,
-      "word": "朴宝剑探班王安宇",
-      "onboard_time": 1775998522,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2537,6 +2537,14 @@
       "onboard_time": 1775306483,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 589143,
+      "num": 155311,
+      "word": "网红迪士尼直播美颜掉了",
+      "onboard_time": 1775998460,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 587935,
@@ -5172,7 +5180,7 @@
     },
     {
       "raw_hot": 371486,
-      "num": 805681,
+      "num": 1052447,
       "word": "楚乔传 知否",
       "onboard_time": 1775994021,
       "rank": 47,
@@ -6281,6 +6289,14 @@
       "onboard_time": 1775878820,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 319435,
+      "num": 319435,
+      "word": "妈妈辅导作业被气到引爆脑瘤",
+      "onboard_time": 1775995941,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319200,
@@ -7715,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269125,
+      "num": 772626,
+      "word": "官方回应为什么不能把杨柳树都砍了",
+      "onboard_time": 1775998460,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268919,
       "num": 292756,
       "word": "金莎回应质疑",
@@ -7977,14 +8001,6 @@
       "onboard_time": 1775213843,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 260879,
-      "num": 260879,
-      "word": "妈妈辅导作业被气到引爆脑瘤",
-      "onboard_time": 1775995941,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260271,
@@ -8947,6 +8963,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233932,
+      "num": 233932,
+      "word": "央视曝光AI造黄产业链",
+      "onboard_time": 1775999782,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 233274,
+      "num": 233274,
+      "word": "莫氏老板未收温氏1000只赠鸡",
+      "onboard_time": 1775998162,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 233059,
       "num": 233059,
       "word": "女演员裙子着火一路奔跑跳进水中",
@@ -9689,14 +9721,6 @@
       "onboard_time": 1775785580,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 215227,
-      "num": 215227,
-      "word": "莫氏老板未收温氏1000只赠鸡",
-      "onboard_time": 1775998162,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 214925,
@@ -13003,14 +13027,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 154712,
-      "num": 154712,
-      "word": "网红迪士尼直播美颜掉了",
-      "onboard_time": 1775998460,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 154707,
       "num": 154707,
       "word": "穆祉丞 代言",
@@ -14009,14 +14025,6 @@
       "onboard_time": 1774966825,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141751,
-      "num": 175619,
-      "word": "官方回应为什么不能把杨柳树都砍了",
-      "onboard_time": 1775998460,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141735,
@@ -17147,6 +17155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113915,
+      "num": 113915,
+      "word": "多款AI应用存在涉黄生成漏洞",
+      "onboard_time": 1775999782,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 113829,
       "num": 182800,
       "word": "国乒无缘太原站女单决赛",
@@ -17513,6 +17529,14 @@
       "onboard_time": 1775546662,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110860,
+      "num": 110860,
+      "word": "BLG对战WBG",
+      "onboard_time": 1775998761,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 110729,
@@ -20531,6 +20555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95202,
+      "num": 95202,
+      "word": "K甲镜像对决",
+      "onboard_time": 1775999361,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95010,
       "num": 95010,
       "word": "杜海涛开车接机沈梦辰",
@@ -20779,6 +20811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93901,
+      "num": 93901,
+      "word": "辽宁铁岭一风力发电机断裂坠地",
+      "onboard_time": 1776000562,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 93887,
       "num": 93887,
       "word": "小红马听到肖战的名字就会有反应",
@@ -21003,6 +21043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93048,
+      "num": 93048,
+      "word": "钢铁森林水下吻神图",
+      "onboard_time": 1775999001,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93003,
       "num": 93003,
       "word": "陈飞宇直播",
@@ -21089,6 +21137,14 @@
       "onboard_time": 1775226383,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92646,
+      "num": 92646,
+      "word": "Wolves对战AXIZ",
+      "onboard_time": 1776000683,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 92436,
@@ -21635,14 +21691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90136,
-      "num": 106732,
-      "word": "BLG对战WBG",
-      "onboard_time": 1775998761,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90124,
       "num": 104907,
       "word": "湖南一小学生在学校附近被撞身亡",
@@ -22073,14 +22121,6 @@
       "onboard_time": 1775141124,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88672,
-      "num": 91350,
-      "word": "K甲镜像对决",
-      "onboard_time": 1775999361,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 88650,
@@ -22691,6 +22731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86455,
+      "num": 86455,
+      "word": "奥迪加油逃单司机应全额承担632元",
+      "onboard_time": 1775999482,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86423,
       "num": 116393,
       "word": "张婧仪方AI短剧侵权维权",
@@ -22945,6 +22993,14 @@
       "onboard_time": 1775571744,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85743,
+      "num": 85743,
+      "word": "王伟回应",
+      "onboard_time": 1776000862,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 85688,
@@ -23307,6 +23363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84512,
+      "num": 84512,
+      "word": "上海市副市长给许昕颁奖",
+      "onboard_time": 1776000683,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84422,
       "num": 84422,
       "word": "沧元图",
@@ -23481,6 +23545,14 @@
       "onboard_time": 1775576061,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 83850,
+      "num": 165745,
+      "word": "阿联酋阿布扎比王储访华",
+      "onboard_time": 1775998460,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83839,
@@ -24107,14 +24179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81257,
-      "num": 80807,
-      "word": "钢铁森林水下吻神图",
-      "onboard_time": 1775999001,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81224,
       "num": 96608,
       "word": "开心消消乐程序员写给女友的情书",
@@ -24539,6 +24603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79477,
+      "num": 79477,
+      "word": "造谣王石被抓博主或被行拘",
+      "onboard_time": 1775999600,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79461,
       "num": 79461,
       "word": "日本自卫队420人登上菲律宾",
@@ -24953,6 +25025,14 @@
       "onboard_time": 1775014466,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78071,
+      "num": 78071,
+      "word": "王橹杰杀青",
+      "onboard_time": 1776001163,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 78037,
@@ -26417,14 +26497,6 @@
       "onboard_time": 1775126722,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73408,
-      "num": 75432,
-      "word": "造谣王石被抓博主或被行拘",
-      "onboard_time": 1775999600,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73360,
@@ -28035,14 +28107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67474,
-      "num": 165745,
-      "word": "阿联酋阿布扎比王储访华",
-      "onboard_time": 1775998460,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 67369,
       "num": 67369,
       "word": "张凌赫田曦薇对戏花絮",
@@ -28641,6 +28705,14 @@
       "onboard_time": 1775719641,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63958,
+      "num": 79502,
+      "word": "13家A股公司净利预增上限超500%",
+      "onboard_time": 1776000023,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 63953,
@@ -31953,6 +32025,14 @@
       "onboard_time": 1775739802,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36160,
+      "num": 87685,
+      "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
+      "onboard_time": 1776000562,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 36102,

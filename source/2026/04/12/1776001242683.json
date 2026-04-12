@@ -1,0 +1,410 @@
+{
+  "runTime": 1776001242683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327796,
+        "num": 1052447,
+        "word": "楚乔传 知否",
+        "onboard_time": 1775994021,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269125,
+        "num": 772626,
+        "word": "官方回应为什么不能把杨柳树都砍了",
+        "onboard_time": 1775998460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34035,
+        "num": 601333,
+        "word": "中国航天不断刷新宇宙级精彩",
+        "onboard_time": 1775996962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319435,
+        "num": 319435,
+        "word": "妈妈辅导作业被气到引爆脑瘤",
+        "onboard_time": 1775995941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233932,
+        "num": 233932,
+        "word": "央视曝光AI造黄产业链",
+        "onboard_time": 1775999782,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 361457,
+        "num": 233768,
+        "word": "王石否认被抓",
+        "onboard_time": 1775994381,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 278625,
+        "num": 233632,
+        "word": "脑雾",
+        "onboard_time": 1775994201,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233274,
+        "num": 233274,
+        "word": "莫氏老板未收温氏1000只赠鸡",
+        "onboard_time": 1775998162,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "浪姐封神舞台",
+        "onboard_time": 1775988681,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161113,
+        "num": 161113,
+        "word": "田朴珺回应网传王石被抓",
+        "onboard_time": 1775991981,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1722013,
+        "num": 159754,
+        "word": "朴宝剑探班王安宇",
+        "onboard_time": 1775998522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884583,
+        "num": 158686,
+        "word": "李荣浩真转我五百了",
+        "onboard_time": 1775990481,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528200,
+        "num": 157643,
+        "word": "果然领导一眼就能看出来是领导",
+        "onboard_time": 1775994861,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 589143,
+        "num": 155311,
+        "word": "网红迪士尼直播美颜掉了",
+        "onboard_time": 1775998460,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 551373,
+        "num": 154598,
+        "word": "赵子琪硬刚浪姐",
+        "onboard_time": 1775980582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399713,
+        "num": 152043,
+        "word": "王石 秦枫",
+        "onboard_time": 1775994802,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222304,
+        "num": 150560,
+        "word": "被绳割断气管男孩家境很不好",
+        "onboard_time": 1775993001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214936,
+        "num": 149001,
+        "word": "业内称平台不再相信演员能单扛了",
+        "onboard_time": 1775987961,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214277,
+        "num": 148621,
+        "word": "老人私栓绳子致男孩气管全断裂",
+        "onboard_time": 1775983102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 145756,
+        "word": "王濛公司大部分是退役运动员",
+        "onboard_time": 1775983700,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 412119,
+        "num": 145585,
+        "word": "何超蕸去世",
+        "onboard_time": 1775975301,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 142553,
+        "word": "迪丽热巴补偿去巴黎的粉丝",
+        "onboard_time": 1775990602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142500,
+        "num": 142500,
+        "word": "你们俩是要毁了芒果吗",
+        "onboard_time": 1775968641,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132982,
+        "num": 132982,
+        "word": "女子离婚3天后再婚前夫净身出户",
+        "onboard_time": 1775986760,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 125226,
+        "word": "逐玉集均7500了",
+        "onboard_time": 1775995762,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125071,
+        "num": 125071,
+        "word": "钢铁森林 删吻戏",
+        "onboard_time": 1775992040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116235,
+        "num": 116235,
+        "word": "赌王何鸿燊17名子女已有3人离世",
+        "onboard_time": 1775986521,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121661,
+        "num": 116086,
+        "word": "浪姐",
+        "onboard_time": 1775997382,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113915,
+        "num": 113915,
+        "word": "多款AI应用存在涉黄生成漏洞",
+        "onboard_time": 1775999782,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72883,
+        "num": 111320,
+        "word": "A股交易重要调整来了",
+        "onboard_time": 1775981602,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 110860,
+        "word": "BLG对战WBG",
+        "onboard_time": 1775998761,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108198,
+        "num": 108198,
+        "word": "杨天真吐槽很多很红的明星漂亮无脑",
+        "onboard_time": 1775984781,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102112,
+        "num": 102112,
+        "word": "李小冉唐艺昕后台玩手机",
+        "onboard_time": 1775986521,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95202,
+        "num": 95202,
+        "word": "K甲镜像对决",
+        "onboard_time": 1775999361,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97161,
+        "num": 94824,
+        "word": "郭碧婷生一胎的时候没备孕",
+        "onboard_time": 1775989521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93901,
+        "num": 93901,
+        "word": "辽宁铁岭一风力发电机断裂坠地",
+        "onboard_time": 1776000562,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90990,
+        "num": 93124,
+        "word": "百妖谱 刘些宁",
+        "onboard_time": 1775991742,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "钢铁森林水下吻神图",
+        "onboard_time": 1775999001,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92646,
+        "num": 92646,
+        "word": "Wolves对战AXIZ",
+        "onboard_time": 1776000683,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36160,
+        "num": 87685,
+        "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
+        "onboard_time": 1776000562,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92851,
+        "num": 87357,
+        "word": "三甲医生回应郭碧婷二胎生育损伤",
+        "onboard_time": 1775990181,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86455,
+        "num": 86455,
+        "word": "奥迪加油逃单司机应全额承担632元",
+        "onboard_time": 1775999482,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89436,
+        "num": 86278,
+        "word": "王橹杰语音好可爱",
+        "onboard_time": 1775988380,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85743,
+        "num": 85743,
+        "word": "王伟回应",
+        "onboard_time": 1776000862,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84512,
+        "num": 84512,
+        "word": "上海市副市长给许昕颁奖",
+        "onboard_time": 1776000683,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83850,
+        "num": 83850,
+        "word": "阿联酋阿布扎比王储访华",
+        "onboard_time": 1775998460,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75868,
+        "num": 80215,
+        "word": "罗永浩是怎么被蒸馏的",
+        "onboard_time": 1775998460,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63958,
+        "num": 79502,
+        "word": "13家A股公司净利预增上限超500%",
+        "onboard_time": 1776000023,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79477,
+        "num": 79477,
+        "word": "造谣王石被抓博主或被行拘",
+        "onboard_time": 1775999600,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78071,
+        "num": 78071,
+        "word": "王橹杰杀青",
+        "onboard_time": 1776001163,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席寄望中美青年#"
+    }
+  }
+}

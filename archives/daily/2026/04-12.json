@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775999777831,
+  "endTime": 1776001242683,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -35,6 +35,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1722013,
+      "num": 174096,
+      "word": "朴宝剑探班王安宇",
+      "onboard_time": 1775998522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1677471,
       "num": 1677471,
       "word": "王石否认被抓",
@@ -49,14 +57,6 @@
       "onboard_time": 1775991981,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1172847,
-      "num": 174096,
-      "word": "朴宝剑探班王安宇",
-      "onboard_time": 1775998522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1137928,
@@ -177,6 +177,14 @@
       "onboard_time": 1775961022,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 589143,
+      "num": 155311,
+      "word": "网红迪士尼直播美颜掉了",
+      "onboard_time": 1775998460,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 581009,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 371486,
-      "num": 805681,
+      "num": 1052447,
       "word": "楚乔传 知否",
       "onboard_time": 1775994021,
       "rank": 47,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319435,
+      "num": 319435,
+      "word": "妈妈辅导作业被气到引爆脑瘤",
+      "onboard_time": 1775995941,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316749,
       "num": 752502,
       "word": "王濛公司大部分是退役运动员",
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269125,
+      "num": 772626,
+      "word": "官方回应为什么不能把杨柳树都砍了",
+      "onboard_time": 1775998460,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266849,
       "num": 164265,
       "word": "钢铁森林 删吻戏",
@@ -529,14 +553,6 @@
       "onboard_time": 1775918424,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260879,
-      "num": 260879,
-      "word": "妈妈辅导作业被气到引爆脑瘤",
-      "onboard_time": 1775995941,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260090,
@@ -587,6 +603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233932,
+      "num": 233932,
+      "word": "央视曝光AI造黄产业链",
+      "onboard_time": 1775999782,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 233274,
+      "num": 233274,
+      "word": "莫氏老板未收温氏1000只赠鸡",
+      "onboard_time": 1775998162,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 232502,
       "num": 180268,
       "word": "赵子琪置顶是藏海传",
@@ -625,14 +657,6 @@
       "onboard_time": 1775991742,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215227,
-      "num": 215227,
-      "word": "莫氏老板未收温氏1000只赠鸡",
-      "onboard_time": 1775998162,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 214053,
@@ -891,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154712,
-      "num": 154712,
-      "word": "网红迪士尼直播美颜掉了",
-      "onboard_time": 1775998460,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -953,14 +969,6 @@
       "onboard_time": 1775981722,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141751,
-      "num": 175619,
-      "word": "官方回应为什么不能把杨柳树都砍了",
-      "onboard_time": 1775998460,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140742,
@@ -1187,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113915,
+      "num": 113915,
+      "word": "多款AI应用存在涉黄生成漏洞",
+      "onboard_time": 1775999782,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 113669,
       "num": 113669,
       "word": "宋浩然又做医美了",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1775953460,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110860,
+      "num": 110860,
+      "word": "BLG对战WBG",
+      "onboard_time": 1775998761,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 110658,
@@ -1459,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95202,
+      "num": 95202,
+      "word": "K甲镜像对决",
+      "onboard_time": 1775999361,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94790,
       "num": 94790,
       "word": "一男子血管堵塞99%仍要飞",
@@ -1475,6 +1507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93901,
+      "num": 93901,
+      "word": "辽宁铁岭一风力发电机断裂坠地",
+      "onboard_time": 1776000562,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 93048,
+      "num": 93048,
+      "word": "钢铁森林水下吻神图",
+      "onboard_time": 1775999001,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92765,
       "num": 92765,
       "word": "高校拟租套均800万豪宅当学生宿舍",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1775980343,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92646,
+      "num": 92646,
+      "word": "Wolves对战AXIZ",
+      "onboard_time": 1776000683,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 92089,
@@ -1547,28 +1603,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 90136,
-      "num": 106732,
-      "word": "BLG对战WBG",
-      "onboard_time": 1775998761,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88952,
       "num": 88952,
       "word": "男子十几天猥亵7人被判8个月",
       "onboard_time": 1775986521,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88672,
-      "num": 91350,
-      "word": "K甲镜像对决",
-      "onboard_time": 1775999361,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 88589,
@@ -1611,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86455,
+      "num": 86455,
+      "word": "奥迪加油逃单司机应全额承担632元",
+      "onboard_time": 1775999482,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86129,
       "num": 97842,
       "word": "小猫自己用牙刷刷牙",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1775988080,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85743,
+      "num": 85743,
+      "word": "王伟回应",
+      "onboard_time": 1776000862,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 85393,
@@ -1665,6 +1721,22 @@
       "onboard_time": 1775956941,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84512,
+      "num": 84512,
+      "word": "上海市副市长给许昕颁奖",
+      "onboard_time": 1776000683,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83850,
+      "num": 165745,
+      "word": "阿联酋阿布扎比王储访华",
+      "onboard_time": 1775998460,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83048,
@@ -1755,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81257,
-      "num": 80807,
-      "word": "钢铁森林水下吻神图",
-      "onboard_time": 1775999001,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80871,
       "num": 97811,
       "word": "DFM对战TE",
@@ -1785,6 +1849,14 @@
       "onboard_time": 1775955440,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79477,
+      "num": 79477,
+      "word": "造谣王石被抓博主或被行拘",
+      "onboard_time": 1775999600,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79361,
@@ -1825,6 +1897,14 @@
       "onboard_time": 1775984301,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78071,
+      "num": 78071,
+      "word": "王橹杰杀青",
+      "onboard_time": 1776001163,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 77572,
@@ -1947,14 +2027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73408,
-      "num": 75432,
-      "word": "造谣王石被抓博主或被行拘",
-      "onboard_time": 1775999600,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73236,
       "num": 174564,
       "word": "我听心愿便利贴belike曾沛慈",
@@ -2067,14 +2139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67474,
-      "num": 165745,
-      "word": "阿联酋阿布扎比王储访华",
-      "onboard_time": 1775998460,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66644,
       "num": 75516,
       "word": "老莫称没收温氏送的1000只鸡",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1775990841,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63958,
+      "num": 79502,
+      "word": "13家A股公司净利预增上限超500%",
+      "onboard_time": 1776000023,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 63512,
@@ -2497,6 +2569,14 @@
       "onboard_time": 1775996962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36160,
+      "num": 87685,
+      "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
+      "onboard_time": 1776000562,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 34348,
