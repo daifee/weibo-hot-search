@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775990919300,
+  "endTime": 1775992034499,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -19,12 +19,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1493102,
+      "num": 122031,
+      "word": "王石",
+      "onboard_time": 1775991981,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1137928,
       "num": 1182068,
       "word": "你们俩是要毁了芒果吗",
       "onboard_time": 1775968641,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1015878,
+      "num": 181327,
+      "word": "李荣浩真转我五百了",
+      "onboard_time": 1775990481,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 990055,
@@ -259,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376851,
+      "num": 166801,
+      "word": "迪丽热巴补偿去巴黎的粉丝",
+      "onboard_time": 1775990602,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366413,
       "num": 366413,
       "word": "张杰力挺谢娜演唱会",
@@ -329,6 +353,14 @@
       "onboard_time": 1775984301,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323696,
+      "num": 167940,
+      "word": "业内称平台不再相信演员能单扛了",
+      "onboard_time": 1775987961,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 320478,
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 242639,
-      "num": 242639,
+      "num": 752502,
       "word": "王濛公司大部分是退役运动员",
       "onboard_time": 1775983700,
       "rank": 30,
@@ -515,14 +547,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 213389,
-      "num": 167940,
-      "word": "业内称平台不再相信演员能单扛了",
-      "onboard_time": 1775987961,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213340,
       "num": 213340,
       "word": "仙逆",
@@ -579,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190862,
-      "num": 166801,
-      "word": "迪丽热巴补偿去巴黎的粉丝",
-      "onboard_time": 1775990602,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
@@ -611,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181327,
-      "num": 181327,
-      "word": "李荣浩真转我五百了",
-      "onboard_time": 1775990481,
-      "rank": 9,
-      "category": "演出"
+      "raw_hot": 181725,
+      "num": 155995,
+      "word": "郭碧婷生一胎的时候没备孕",
+      "onboard_time": 1775989521,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 181115,
@@ -657,6 +673,14 @@
       "onboard_time": 1775978721,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173521,
+      "num": 150164,
+      "word": "女子离婚3天后再婚前夫净身出户",
+      "onboard_time": 1775986760,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170607,
@@ -731,27 +755,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155995,
-      "num": 155995,
-      "word": "郭碧婷生一胎的时候没备孕",
-      "onboard_time": 1775989521,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155698,
       "num": 147179,
       "word": "男子住48元宾馆身亡家属索赔40万",
       "onboard_time": 1775981602,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153120,
-      "num": 150164,
-      "word": "女子离婚3天后再婚前夫净身出户",
-      "onboard_time": 1775986760,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 143025,
-      "num": 135009,
+      "num": 135155,
       "word": "浪姐封神舞台",
       "onboard_time": 1775988681,
       "rank": 24,
@@ -987,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115388,
+      "num": 99241,
+      "word": "阚清子二公分组",
+      "onboard_time": 1775990362,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115080,
       "num": 115080,
       "word": "马思纯发了黎吧啦",
@@ -1008,6 +1024,14 @@
       "word": "宋浩然又做医美了",
       "onboard_time": 1775964680,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113457,
+      "num": 99233,
+      "word": "三甲医生回应郭碧婷二胎生育损伤",
+      "onboard_time": 1775990181,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1195,12 +1219,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99233,
-      "num": 99233,
-      "word": "三甲医生回应郭碧婷二胎生育损伤",
-      "onboard_time": 1775990181,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 99014,
+      "num": 99014,
+      "word": "蜜雪冰城南美首店开业多位华人发声",
+      "onboard_time": 1775987722,
+      "rank": 43,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 97808,
@@ -1411,12 +1435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83102,
-      "num": 88372,
-      "word": "蜜雪冰城南美首店开业多位华人发声",
-      "onboard_time": 1775987722,
-      "rank": 43,
-      "category": "民生新闻,美食"
+      "raw_hot": 84465,
+      "num": 84465,
+      "word": "我轻断食2个小时后",
+      "onboard_time": 1775990240,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83048,
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77698,
+      "num": 77698,
+      "word": "百妖谱 刘些宁",
+      "onboard_time": 1775991742,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77572,
       "num": 77572,
       "word": "伊媒称美国过分要求阻碍协议达成",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1775979802,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76111,
-      "num": 76111,
-      "word": "阚清子二公分组",
-      "onboard_time": 1775990362,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 75666,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1775981063,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70944,
+      "num": 70944,
+      "word": "一直以为谈恋爱都是朋友转对象",
+      "onboard_time": 1775991200,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 70701,
@@ -2339,6 +2371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18930,
+      "num": 599241,
+      "word": "卫星互联网技术试验卫星发射任务圆满成功",
+      "onboard_time": 1775975961,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18828,
       "num": 28406,
       "word": "苏超直接把马术秀搬上场",
@@ -2417,14 +2457,6 @@
       "onboard_time": 1775972422,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10298,
-      "num": 590851,
-      "word": "卫星互联网技术试验卫星发射任务圆满成功",
-      "onboard_time": 1775975961,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
