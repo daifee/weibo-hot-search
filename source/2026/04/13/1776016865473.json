@@ -1,0 +1,410 @@
+{
+  "runTime": 1776016865473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 271621,
+        "num": 293459,
+        "word": "员工中了1500万彩票后直接离职",
+        "onboard_time": 1776006923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176573,
+        "num": 206771,
+        "word": "网传浪姐7一公个人喜爱度排名",
+        "onboard_time": 1776006983,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16717,
+        "num": 165688,
+        "word": "中国航天不断刷新宇宙级精彩",
+        "onboard_time": 1775996962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69261,
+        "num": 69261,
+        "word": "伊朗称美国找借口退出谈判",
+        "onboard_time": 1776013397,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57039,
+        "num": 57039,
+        "word": "伊朗伊斯兰革命卫队海军发出警告",
+        "onboard_time": 1776007344,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51826,
+        "num": 51826,
+        "word": "张雪机车竞拍者拒绝加价500万转售",
+        "onboard_time": 1776006923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50884,
+        "num": 50884,
+        "word": "IU新剧向男主求婚这段",
+        "onboard_time": 1776013696,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47394,
+        "num": 47394,
+        "word": "钢铁森林大结局",
+        "onboard_time": 1776007042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46047,
+        "num": 46047,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1776008601,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45180,
+        "num": 45180,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1776007103,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197780,
+        "num": 45178,
+        "word": "女子遭法官猥亵16分钟录音曝光",
+        "onboard_time": 1776007283,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93458,
+        "num": 45152,
+        "word": "李荣浩真转我五百了",
+        "onboard_time": 1775990481,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 45126,
+        "word": "赵子琪硬刚浪姐",
+        "onboard_time": 1775980582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45753,
+        "num": 45109,
+        "word": "楚乔传热度",
+        "onboard_time": 1776015795,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47152,
+        "num": 45083,
+        "word": "王石 秦枫",
+        "onboard_time": 1775994802,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45082,
+        "num": 45082,
+        "word": "王石否认被抓",
+        "onboard_time": 1775994381,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39978,
+        "num": 39978,
+        "word": "境外涉黄AI软件绕过监管流入国内",
+        "onboard_time": 1776005363,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38435,
+        "num": 38435,
+        "word": "浪姐二公分组曲目",
+        "onboard_time": 1776008002,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37575,
+        "num": 37575,
+        "word": "官方回应为什么不能把杨柳树都砍了",
+        "onboard_time": 1775998460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33895,
+        "num": 36958,
+        "word": "点点回复钎城高仿号",
+        "onboard_time": 1776007581,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54951,
+        "num": 36736,
+        "word": "脑雾",
+        "onboard_time": 1775994201,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48741,
+        "num": 36187,
+        "word": "男子住48元宾馆身亡家属索赔被驳回",
+        "onboard_time": 1776009921,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46722,
+        "num": 35390,
+        "word": "何超蕸去世",
+        "onboard_time": 1775975301,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35107,
+        "num": 35107,
+        "word": "孙子怕爷爷去世每天偷偷带肉回家",
+        "onboard_time": 1776005243,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33250,
+        "num": 35086,
+        "word": "柳致敏",
+        "onboard_time": 1776006563,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33083,
+        "num": 35059,
+        "word": "王濛的底气",
+        "onboard_time": 1776001462,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32322,
+        "num": 35045,
+        "word": "王橹杰杀青",
+        "onboard_time": 1776001163,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31082,
+        "num": 35001,
+        "word": "浪姐",
+        "onboard_time": 1775997382,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29233,
+        "num": 34983,
+        "word": "伊朗接连回怼美国",
+        "onboard_time": 1776003743,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26959,
+        "num": 34958,
+        "word": "脑雾到底是个啥",
+        "onboard_time": 1776010221,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26885,
+        "num": 34936,
+        "word": "热刺 降级",
+        "onboard_time": 1776005483,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26406,
+        "num": 34903,
+        "word": "钢铁森林 删吻戏",
+        "onboard_time": 1775992040,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26235,
+        "num": 34861,
+        "word": "TTG对战KSG",
+        "onboard_time": 1776003983,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26034,
+        "num": 34845,
+        "word": "张杰给鸟巢造了星空顶",
+        "onboard_time": 1776009861,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25943,
+        "num": 34805,
+        "word": "央视曝光AI造黄产业链",
+        "onboard_time": 1775999782,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25045,
+        "num": 34796,
+        "word": "老人私栓绳子致男孩气管全断裂",
+        "onboard_time": 1775983102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24974,
+        "num": 34772,
+        "word": "伊朗称拦截美舰进入霍尔木兹海峡",
+        "onboard_time": 1776009621,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24624,
+        "num": 34724,
+        "word": "BLG战胜WBG",
+        "onboard_time": 1776003142,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24459,
+        "num": 34692,
+        "word": "法官被曝在办公室猥亵离婚案当事人",
+        "onboard_time": 1776012437,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23444,
+        "num": 34676,
+        "word": "郑丽文试乘小米汽车",
+        "onboard_time": 1776002602,
+        "rank": 39,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 22193,
+        "num": 34649,
+        "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
+        "onboard_time": 1776001462,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21317,
+        "num": 34622,
+        "word": "罗永浩是怎么被蒸馏的",
+        "onboard_time": 1775998460,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21237,
+        "num": 34587,
+        "word": "妈妈辅导作业被气到引爆脑瘤",
+        "onboard_time": 1775995941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20961,
+        "num": 34553,
+        "word": "郭碧婷生一胎的时候没备孕",
+        "onboard_time": 1775989521,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20761,
+        "num": 34521,
+        "word": "DRG 备战2027",
+        "onboard_time": 1776014237,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20022,
+        "num": 34504,
+        "word": "AG打RW",
+        "onboard_time": 1776003683,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19917,
+        "num": 34489,
+        "word": "花海阿豆抽签",
+        "onboard_time": 1776005483,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19307,
+        "num": 34458,
+        "word": "JDG DYG",
+        "onboard_time": 1776005124,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19257,
+        "num": 34416,
+        "word": "辛纳首夺蒙特卡洛冠军",
+        "onboard_time": 1776009861,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18699,
+        "num": 34401,
+        "word": "女当事人回应被法官猥亵",
+        "onboard_time": 1776016636,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席寄望中美青年#"
+    }
+  }
+}

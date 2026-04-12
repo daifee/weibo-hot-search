@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776015789822,
+  "endTime": 1776016865473,
   "band_list": [
     {
       "raw_hot": 1492815,
@@ -331,6 +331,14 @@
       "category": "国内时政,汽车"
     },
     {
+      "raw_hot": 69261,
+      "num": 69261,
+      "word": "伊朗称美国找借口退出谈判",
+      "onboard_time": 1776013397,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67543,
       "num": 130403,
       "word": "AG打RW",
@@ -361,14 +369,6 @@
       "onboard_time": 1775999001,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62537,
-      "num": 62537,
-      "word": "伊朗称美国找借口退出谈判",
-      "onboard_time": 1776013397,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61431,
@@ -435,8 +435,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50661,
-      "num": 50661,
+      "raw_hot": 50884,
+      "num": 50884,
       "word": "IU新剧向男主求婚这段",
       "onboard_time": 1776013696,
       "rank": 14,
@@ -449,6 +449,14 @@
       "onboard_time": 1776012437,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45753,
+      "num": 45109,
+      "word": "楚乔传热度",
+      "onboard_time": 1776015795,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 42666,
@@ -528,6 +536,14 @@
       "word": "论整活还是得看常州",
       "onboard_time": 1776014657,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18699,
+      "num": 34401,
+      "word": "女当事人回应被法官猥亵",
+      "onboard_time": 1776016636,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],
