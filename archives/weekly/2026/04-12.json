@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776006326281,
+  "endTime": 1776008654565,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -56,6 +56,14 @@
       "word": "王石",
       "onboard_time": 1775991981,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1470734,
+      "num": 1470734,
+      "word": "员工中了1500万彩票后直接离职",
+      "onboard_time": 1776006923,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -225,6 +233,14 @@
       "onboard_time": 1775994861,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546428,
+      "num": 923186,
+      "word": "网传浪姐7一公个人喜爱度排名",
+      "onboard_time": 1776006983,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 510451,
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307207,
+      "num": 307207,
+      "word": "女子遭法官猥亵16分钟录音曝光",
+      "onboard_time": 1776007283,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307197,
       "num": 173848,
       "word": "伊朗代表团全员黑衣",
@@ -835,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184321,
+      "num": 147995,
+      "word": "点点回复钎城高仿号",
+      "onboard_time": 1776007581,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183547,
       "num": 152114,
       "word": "刘耀文高会更新",
@@ -963,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166538,
+      "num": 166538,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1776007103,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165126,
       "num": 153428,
       "word": "美军宣布在霍尔木兹海峡扫雷",
@@ -1019,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154580,
+      "num": 145567,
+      "word": "钢铁森林大结局",
+      "onboard_time": 1776007042,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -1043,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149768,
+      "num": 149768,
+      "word": "阿尔卡拉斯vs辛纳",
+      "onboard_time": 1776004703,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149743,
       "num": 149743,
       "word": "朴宝剑王安宇怎么认识的",
@@ -1052,19 +1108,11 @@
     },
     {
       "raw_hot": 148968,
-      "num": 148968,
+      "num": 149694,
       "word": "花海阿豆抽签",
       "onboard_time": 1776005483,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143935,
-      "num": 143935,
-      "word": "阿尔卡拉斯vs辛纳",
-      "onboard_time": 1776004703,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 143780,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1775997382,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131101,
+      "num": 131101,
+      "word": "柳致敏",
+      "onboard_time": 1776006563,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 130553,
@@ -1419,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112525,
+      "num": 112525,
+      "word": "伊朗伊斯兰革命卫队海军发出警告",
+      "onboard_time": 1776007344,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111194,
       "num": 179636,
       "word": "部分商家承认120W是充电器商标",
@@ -1595,6 +1659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101607,
+      "num": 101607,
+      "word": "张雪机车竞拍者拒绝加价500万转售",
+      "onboard_time": 1776006923,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -1699,12 +1771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96042,
+      "num": 96042,
+      "word": "浪姐二公分组曲目",
+      "onboard_time": 1776008002,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95611,
       "num": 178881,
       "word": "LPL和LCK变天了",
       "onboard_time": 1775955379,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95314,
+      "num": 95314,
+      "word": "桑德兰1比0热刺",
+      "onboard_time": 1776006923,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 95202,
@@ -1960,6 +2048,14 @@
       "word": "上海市副市长给许昕颁奖",
       "onboard_time": 1776000683,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84389,
+      "num": 84389,
+      "word": "刘诗雯谢谢大家的爱和祝福",
+      "onboard_time": 1776007821,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2227,6 +2323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73853,
+      "num": 73853,
+      "word": "普京和伊朗总统通话",
+      "onboard_time": 1776007163,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73551,
       "num": 76078,
       "word": "大冰说我这两年的直播是刀尖上行走",
@@ -2321,6 +2425,14 @@
       "onboard_time": 1775994501,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69715,
+      "num": 69715,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1776008601,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 69403,
@@ -2788,7 +2900,7 @@
     },
     {
       "raw_hot": 37225,
-      "num": 610713,
+      "num": 683074,
       "word": "中国航天不断刷新宇宙级精彩",
       "onboard_time": 1775996962,
       "rank": 2,
