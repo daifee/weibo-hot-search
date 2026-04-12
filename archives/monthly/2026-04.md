@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 17:12:38
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 17:55:21
 </p>
 </blockquote>
 <p>
@@ -2733,6 +2733,12 @@ AI写作年赚200万夫妻被封号（热度：469765）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%90%90%E6%A7%BD%E5%BE%88%E5%A4%9A%E5%BE%88%E7%BA%A2%E7%9A%84%E6%98%8E%E6%98%9F%E6%BC%82%E4%BA%AE%E6%97%A0%E8%84%91%23" target="weibo">
+杨天真吐槽很多很红的明星漂亮无脑（热度：468329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%BB%8E%E5%A4%A7%E5%86%B0%E8%BF%99%E4%B8%AA%E8%A7%92%E5%BA%A6%E6%89%BE%E5%88%B0%E6%9C%BA%E4%BC%9A%23" target="weibo">
 失业的人可以从大冰这个角度找到机会（热度：468291）
 </a>
@@ -4533,6 +4539,12 @@ Rookie和新女友一起逛街（热度：327597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%A6%81%E5%8D%96%E6%B1%A4%E5%BA%95%E8%8D%AF%E5%8C%85%E4%BA%86%23" target="weibo">
+莫氏鸡煲要卖汤底药包了（热度：322868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B2%E6%9E%B6%E9%BB%91%E9%B9%B0%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E4%B8%AD%23" target="weibo">
 美军2架黑鹰直升机被伊朗击中（热度：322787）
 </a>
@@ -5721,6 +5733,12 @@ nctdream 小拇指（热度：281089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%8E%8B%E4%BD%95%E9%B8%BF%E7%87%8A17%E5%90%8D%E5%AD%90%E5%A5%B3%E5%B7%B2%E6%9C%893%E4%BA%BA%E7%A6%BB%E4%B8%96%23" target="weibo">
+赌王何鸿燊17名子女已有3人离世（热度：267692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SuperJunior%E8%87%B4%E6%AD%89%23" target="weibo">
 SuperJunior致歉（热度：267660）
 </a>
@@ -5993,24 +6011,6 @@ Danielle更新iG（热度：256671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B3%89%E6%8B%8D%E6%88%8F%E7%9C%9F%E5%81%9A%E4%BA%86%E8%83%83%E9%95%9C%23" target="weibo">
 袁泉拍戏真做了胃镜（热度：255995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A92%E5%B2%81%E7%A1%AE%E8%AF%8A%E5%AD%A4%E7%8B%AC%E7%97%87%E7%88%B6%E6%AF%8D%E8%8A%B1100%E4%B8%87%E6%B1%82%E5%8C%BB%23" target="weibo">
-女孩2岁确诊孤独症父母花100万求医（热度：255584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E4%BA%AE%E7%9B%B8%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E9%A6%96%E6%98%A0%23" target="weibo">
-周也亮相穿普拉达的女王2首映（热度：255466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E6%BC%94%E5%BC%A0%E9%9B%AA%23" target="weibo">
-谁能演张雪（热度：255402）
 </a>
 </li>
 
