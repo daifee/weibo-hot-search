@@ -1,7 +1,15 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775974271474,
+  "endTime": 1775978972217,
   "band_list": [
+    {
+      "raw_hot": 3389918,
+      "num": 3779837,
+      "word": "何超蕸去世",
+      "onboard_time": 1775975301,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1137928,
       "num": 1182068,
@@ -57,6 +65,14 @@
       "onboard_time": 1775963180,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658587,
+      "num": 658587,
+      "word": "韩国机场缉毒犬吃掉可疑蛋糕",
+      "onboard_time": 1775975481,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 628809,
@@ -123,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501625,
+      "num": 161377,
+      "word": "王濛剪蕾丝",
+      "onboard_time": 1775976382,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468612,
       "num": 181311,
       "word": "恭喜那些洗袜子不翻面的人",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 409692,
-      "num": 144298,
+      "num": 145522,
       "word": "杨超越 虎鲸",
       "onboard_time": 1775972780,
       "rank": 15,
@@ -153,6 +177,14 @@
       "onboard_time": 1775914765,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366413,
+      "num": 366413,
+      "word": "张杰力挺谢娜演唱会",
+      "onboard_time": 1775975001,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 365063,
@@ -251,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275200,
+      "num": 139626,
+      "word": "常州暂时改名常洲",
+      "onboard_time": 1775976862,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264934,
       "num": 180902,
       "word": "维妮娜 我不知道评分标准是什么",
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246165,
+      "num": 153433,
+      "word": "何宣林二公分组",
+      "onboard_time": 1775976441,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240935,
       "num": 192236,
       "word": "女孩追星被骗爸爸受伤家有4个孩子",
@@ -291,7 +339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222253,
+      "raw_hot": 225796,
       "num": 853268,
       "word": "95后姑娘养6万多条毒蛇年入百万",
       "onboard_time": 1775971462,
@@ -355,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201481,
+      "num": 139806,
+      "word": "宁艺卓 我再也不玩抽象了",
+      "onboard_time": 1775972901,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
       "onboard_time": 1775912664,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185703,
+      "num": 185703,
+      "word": "妈妈替女儿申请不上早读",
+      "onboard_time": 1775974940,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 181115,
@@ -403,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169139,
-      "num": 130958,
-      "word": "宁艺卓 我再也不玩抽象了",
-      "onboard_time": 1775972901,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 165126,
+      "num": 153428,
+      "word": "美军宣布在霍尔木兹海峡扫雷",
+      "onboard_time": 1775971161,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162361,
@@ -443,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153428,
-      "num": 153428,
-      "word": "美军宣布在霍尔木兹海峡扫雷",
-      "onboard_time": 1775971161,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -481,6 +537,22 @@
       "onboard_time": 1775960840,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139830,
+      "num": 139830,
+      "word": "逃单奥迪车驾驶人已被拘留",
+      "onboard_time": 1775975001,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139553,
+      "num": 139553,
+      "word": "A股全面适用盘后固定价格交易",
+      "onboard_time": 1775975901,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 137982,
@@ -571,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116984,
+      "num": 116984,
+      "word": "成都赵公山发现一具男性遗体",
+      "onboard_time": 1775975122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115895,
       "num": 187578,
       "word": "狼队超话大文豪",
@@ -617,6 +697,14 @@
       "onboard_time": 1775964680,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112738,
+      "num": 107505,
+      "word": "王婆说媒现场21男嘉宾抢1女嘉宾",
+      "onboard_time": 1775975301,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112574,
@@ -675,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108145,
+      "num": 108145,
+      "word": "马思纯发了黎吧啦",
+      "onboard_time": 1775978721,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106787,
       "num": 106787,
       "word": "葛荟婕自曝从未支付过女儿抚养费",
       "onboard_time": 1775964740,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106567,
+      "num": 106567,
+      "word": "护住周深的常州保安火了",
+      "onboard_time": 1775971640,
+      "rank": 42,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 106491,
@@ -723,14 +827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101729,
-      "num": 101729,
-      "word": "护住周深的常州保安火了",
-      "onboard_time": 1775971640,
-      "rank": 42,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -745,6 +841,14 @@
       "onboard_time": 1775971341,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100440,
+      "num": 185260,
+      "word": "东北阿姨煮泡面情绪价值拉满",
+      "onboard_time": 1775975842,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 97808,
@@ -769,6 +873,14 @@
       "onboard_time": 1775916205,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95955,
+      "num": 95955,
+      "word": "建议洗澡时不要总弯腰洗头",
+      "onboard_time": 1775978721,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95611,
@@ -883,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83048,
+      "num": 83048,
+      "word": "苏新皓飞吻",
+      "onboard_time": 1775975961,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82878,
       "num": 82878,
       "word": "用Excel记录十年乳腺体检结果救了命",
       "onboard_time": 1775965761,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82696,
+      "num": 82696,
+      "word": "TOP登陆少年演唱会第二场",
+      "onboard_time": 1775978003,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 82335,
@@ -947,6 +1075,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79162,
+      "num": 79162,
+      "word": "为什么辞职前会犹豫很久",
+      "onboard_time": 1775977702,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78685,
+      "num": 78685,
+      "word": "何超蕸临终前家人陪伴在侧",
+      "onboard_time": 1775978901,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -969,6 +1113,14 @@
       "onboard_time": 1775965580,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75666,
+      "num": 75666,
+      "word": "txt直播",
+      "onboard_time": 1775977042,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 75638,
@@ -1027,6 +1179,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72142,
+      "num": 72142,
+      "word": "孙颖莎蝴蝶飞呀",
+      "onboard_time": 1775978721,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69403,
+      "num": 69403,
+      "word": "我家那小子",
+      "onboard_time": 1775974580,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68967,
       "num": 77043,
       "word": "每天喝2杯咖啡的好处",
@@ -1059,6 +1227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 63274,
+      "num": 66589,
+      "word": "70多款机器人跑姿大赏",
+      "onboard_time": 1775978721,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61672,
       "num": 174640,
       "word": "李荣浩太原演唱会",
@@ -1072,6 +1248,14 @@
       "word": "生命树取景地接待超15万人次",
       "onboard_time": 1775923162,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57895,
+      "num": 82698,
+      "word": "深大租豪宅小区作宿舍引业主反对",
+      "onboard_time": 1775978901,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1123,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52629,
+      "num": 175261,
+      "word": "70多款机器人深夜竞速",
+      "onboard_time": 1775969302,
+      "rank": 17,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 52402,
       "num": 174274,
       "word": "SK教练",
@@ -1161,6 +1353,14 @@
       "onboard_time": 1775965100,
       "rank": 46,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 49005,
+      "num": 861129,
+      "word": "这个大国重器够重",
+      "onboard_time": 1775976680,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48856,
@@ -1233,6 +1433,14 @@
       "onboard_time": 1775950457,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47324,
+      "num": 139769,
+      "word": "R星回应数据泄露",
+      "onboard_time": 1775978423,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 45216,
@@ -1347,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35738,
-      "num": 142163,
-      "word": "70多款机器人深夜竞速",
-      "onboard_time": 1775969302,
-      "rank": 17,
-      "category": "互联网,体育"
-    },
-    {
       "raw_hot": 34348,
       "num": 181082,
       "word": "美前国务卿说攻击伊朗是以总理梦想",
@@ -1393,6 +1593,14 @@
       "onboard_time": 1775910084,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31273,
+      "num": 82704,
+      "word": "澳门听到藏海传主题曲了",
+      "onboard_time": 1775975781,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 31085,
@@ -1456,6 +1664,14 @@
       "word": "alin又来修音响了",
       "onboard_time": 1775971699,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26284,
+      "num": 139728,
+      "word": "这才是音乐节该有的样子",
+      "onboard_time": 1775976323,
+      "rank": 18,
       "category": "演出"
     },
     {

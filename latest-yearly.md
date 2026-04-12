@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/12 14:11:11
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/12 15:29:32
 </p>
 </blockquote>
 <p>
@@ -851,6 +851,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 微博之夜阵容官宣（热度：3419891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%95%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
+何超蕸去世（热度：3389918）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
 阿Sa蔡卓妍官宣恋情（热度：1932998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%BE%B3%E9%97%A8%E8%BE%93%E6%8E%89%E5%8D%81%E5%87%A0%E4%BA%BF%23" target="weibo">
-黄晓明回应在澳门输掉十几亿（热度：1928940）
 </a>
 </li>
 

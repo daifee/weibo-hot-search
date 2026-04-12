@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 14:11:11
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 15:29:32
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%20%E5%AF%B9%E5%8F%A3%E5%9E%8B%23" target="weibo">
 浪姐直播 对口型（热度：3512092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%95%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
+何超蕸去世（热度：3389918）
 </a>
 </li>
 
@@ -1497,6 +1503,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%9C%BA%E7%BC%89%E6%AF%92%E7%8A%AC%E5%90%83%E6%8E%89%E5%8F%AF%E7%96%91%E8%9B%8B%E7%B3%95%23" target="weibo">
+韩国机场缉毒犬吃掉可疑蛋糕（热度：658587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E6%82%84%E5%8A%9E%E7%88%B6%E4%BA%B2%E4%B8%A7%E4%BA%8B%E5%A2%93%E7%A2%91%E6%BC%8F%E5%88%BB%E5%A7%90%E5%A7%90%E5%90%8D%E5%AD%97%23" target="weibo">
 弟弟悄办父亲丧事墓碑漏刻姐姐名字（热度：657057）
 </a>
@@ -2447,6 +2459,12 @@ txt（热度：556202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E8%AF%84%E6%B5%8B%E5%A3%B0%E6%98%8E%E4%BC%98%E6%80%9D%E7%9B%8A%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%AF%E9%80%80%E4%B8%80%E8%B5%94%E4%B8%89%23" target="weibo">
 老爸评测声明优思益消费者可退一赔三（热度：501693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%89%AA%E8%95%BE%E4%B8%9D%23" target="weibo">
+王濛剪蕾丝（热度：501625）
 </a>
 </li>
 
@@ -3827,6 +3845,12 @@ NCT（热度：372369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%BB%83%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%E8%A6%81%E7%96%AF%E4%BA%86%23" target="weibo">
 王濛练心愿便利贴要疯了（热度：366438）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%8A%9B%E6%8C%BA%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+张杰力挺谢娜演唱会（热度：366413）
 </a>
 </li>
 
@@ -5487,6 +5511,12 @@ nctdream 小拇指（热度：281089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E6%9A%82%E6%97%B6%E6%94%B9%E5%90%8D%E5%B8%B8%E6%B4%B2%23" target="weibo">
+常州暂时改名常洲（热度：275200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%A7%81%E7%85%A7%E8%AE%A9%E8%B1%86%E5%8C%85%E6%B5%8B%E8%AF%84%E8%BA%AB%E6%9D%90%E8%A2%AB%E5%B0%81%E5%8F%B7%23" target="weibo">
 男子发私照让豆包测评身材被封号（热度：274412）
 </a>
@@ -5981,36 +6011,6 @@ Danielle更新iG（热度：256671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%23" target="weibo">
 乘风2026（热度：252522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%91%E4%BF%84%E6%96%B9%E6%8F%90%E5%87%BA%E8%83%BD%E6%BA%90%E4%BC%91%E6%88%98%E6%8F%90%E8%AE%AE%23" target="weibo">
-泽连斯基向俄方提出能源休战提议（热度：252383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A7%B0%E4%B8%BA%E5%90%83%E5%9C%B0%E7%93%9C%E6%9D%A1%E4%B8%93%E9%97%A8%E6%9D%A5%E4%B8%AD%E5%9B%BD%23" target="weibo">
-韩国人称为吃地瓜条专门来中国（热度：252242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23WB%E6%88%98%E8%83%9CJDG%23" target="weibo">
-WB战胜JDG（热度：252014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23kspo%E6%A0%8F%E6%9D%86%23" target="weibo">
-kspo栏杆（热度：251494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%88%86%E5%8D%95%E4%BA%86%23" target="weibo">
-张雪机车爆单了（热度：251362）
 </a>
 </li>
 
