@@ -1,0 +1,410 @@
+{
+  "runTime": 1775990919300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 432778,
+        "num": 1069244,
+        "word": "赌王何鸿燊17名子女已有3人离世",
+        "onboard_time": 1775986521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388860,
+        "num": 785880,
+        "word": "朱苏 第三个吻痕",
+        "onboard_time": 1775988621,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10298,
+        "num": 590851,
+        "word": "卫星互联网技术试验卫星发射任务圆满成功",
+        "onboard_time": 1775975961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389091,
+        "num": 389091,
+        "word": "李小冉唐艺昕后台玩手机",
+        "onboard_time": 1775986521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319096,
+        "num": 319096,
+        "word": "常州暂时改名常洲",
+        "onboard_time": 1775976862,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309930,
+        "num": 309930,
+        "word": "何超蕸终身未婚",
+        "onboard_time": 1775986400,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220615,
+        "num": 220615,
+        "word": "莫氏鸡煲要卖汤底药包了",
+        "onboard_time": 1775984301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217012,
+        "num": 217012,
+        "word": "王濛公司大部分是退役运动员",
+        "onboard_time": 1775983700,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213340,
+        "num": 213340,
+        "word": "仙逆",
+        "onboard_time": 1775990122,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181327,
+        "num": 181327,
+        "word": "李荣浩真转我五百了",
+        "onboard_time": 1775990481,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1003344,
+        "num": 180762,
+        "word": "赵子琪硬刚浪姐",
+        "onboard_time": 1775980582,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337690,
+        "num": 176492,
+        "word": "老人私栓绳子致男孩气管全断裂",
+        "onboard_time": 1775983102,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394062,
+        "num": 175145,
+        "word": "杨天真吐槽很多很红的明星漂亮无脑",
+        "onboard_time": 1775984781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366889,
+        "num": 171248,
+        "word": "你们俩是要毁了芒果吗",
+        "onboard_time": 1775968641,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170424,
+        "num": 170424,
+        "word": "洛克王国",
+        "onboard_time": 1775987480,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213389,
+        "num": 167940,
+        "word": "业内称平台不再相信演员能单扛了",
+        "onboard_time": 1775987961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190862,
+        "num": 166801,
+        "word": "迪丽热巴补偿去巴黎的粉丝",
+        "onboard_time": 1775990602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163327,
+        "num": 163327,
+        "word": "雪碧拌面",
+        "onboard_time": 1775987661,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182422,
+        "num": 161013,
+        "word": "王橹杰语音好可爱",
+        "onboard_time": 1775988380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124802,
+        "num": 158465,
+        "word": "A股交易重要调整来了",
+        "onboard_time": 1775981602,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 856040,
+        "num": 158053,
+        "word": "何超蕸去世",
+        "onboard_time": 1775975301,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155995,
+        "num": 155995,
+        "word": "郭碧婷生一胎的时候没备孕",
+        "onboard_time": 1775989521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150164,
+        "num": 150164,
+        "word": "女子离婚3天后再婚前夫净身出户",
+        "onboard_time": 1775986760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139676,
+        "num": 139676,
+        "word": "男子住48元宾馆身亡家属索赔40万",
+        "onboard_time": 1775981602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143025,
+        "num": 135009,
+        "word": "浪姐封神舞台",
+        "onboard_time": 1775988681,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109702,
+        "num": 109702,
+        "word": "妈妈替女儿申请不上早读",
+        "onboard_time": 1775974940,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100327,
+        "num": 100327,
+        "word": "钢铁森林",
+        "onboard_time": 1775972660,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100310,
+        "num": 100310,
+        "word": "莫氏鸡煲日均营业额不低于6万",
+        "onboard_time": 1775987542,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99611,
+        "num": 99611,
+        "word": "RW 卖队",
+        "onboard_time": 1775981901,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79348,
+        "num": 99359,
+        "word": "伊朗代表团离开巴基斯坦",
+        "onboard_time": 1775979980,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140742,
+        "num": 99302,
+        "word": "何超琼偕弟妹哀告",
+        "onboard_time": 1775987722,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99233,
+        "num": 99233,
+        "word": "三甲医生回应郭碧婷二胎生育损伤",
+        "onboard_time": 1775990181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97550,
+        "num": 97550,
+        "word": "iPhone17系列最新销量",
+        "onboard_time": 1775985742,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94439,
+        "num": 94439,
+        "word": "张凌赫今天素颜好性感",
+        "onboard_time": 1775981722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91223,
+        "num": 91223,
+        "word": "朱志鑫solo舞台音响故障",
+        "onboard_time": 1775986400,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83102,
+        "num": 88372,
+        "word": "蜜雪冰城南美首店开业多位华人发声",
+        "onboard_time": 1775987722,
+        "rank": 35,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 85902,
+        "num": 85902,
+        "word": "马嘉祺 杨柳絮别飘了",
+        "onboard_time": 1775988080,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83664,
+        "num": 83664,
+        "word": "王濛剪蕾丝",
+        "onboard_time": 1775976382,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82977,
+        "num": 82977,
+        "word": "一男子血管堵塞99%仍要飞",
+        "onboard_time": 1775987542,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 83475,
+        "num": 82859,
+        "word": "比伯嗓子太好了",
+        "onboard_time": 1775981602,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82569,
+        "num": 82569,
+        "word": "西班牙小镇炸毁内塔尼亚胡塑像",
+        "onboard_time": 1775990541,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79323,
+        "num": 79323,
+        "word": "尼泊尔珠峰发生超1亿元骗保大案",
+        "onboard_time": 1775988681,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76111,
+        "num": 76111,
+        "word": "阚清子二公分组",
+        "onboard_time": 1775990362,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75711,
+        "num": 75711,
+        "word": "罗生门",
+        "onboard_time": 1775980403,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66962,
+        "num": 66962,
+        "word": "温瑞博李和宸夺冠",
+        "onboard_time": 1775988322,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68799,
+        "num": 66694,
+        "word": "张杰力挺谢娜演唱会",
+        "onboard_time": 1775975001,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64711,
+        "num": 64711,
+        "word": "王者世界野区逛不完",
+        "onboard_time": 1775990780,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32004,
+        "num": 64437,
+        "word": "这个大国重器够重",
+        "onboard_time": 1775976680,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64212,
+        "num": 64212,
+        "word": "双高胎抢票",
+        "onboard_time": 1775990841,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61149,
+        "num": 61149,
+        "word": "徐洁儿回应自己没人选",
+        "onboard_time": 1775988080,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775988479227,
+  "endTime": 1775990919300,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1809617,
-      "num": 175879,
+      "num": 180762,
       "word": "赵子琪硬刚浪姐",
       "onboard_time": 1775980582,
       "rank": 10,
@@ -3268,7 +3268,7 @@
     },
     {
       "raw_hot": 505156,
-      "num": 144623,
+      "num": 175145,
       "word": "杨天真吐槽很多很红的明星漂亮无脑",
       "onboard_time": 1775984781,
       "rank": 24,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1774943063,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432778,
+      "num": 1069244,
+      "word": "赌王何鸿燊17名子女已有3人离世",
+      "onboard_time": 1775986521,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432547,
@@ -4715,6 +4723,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 389091,
+      "num": 389091,
+      "word": "李小冉唐艺昕后台玩手机",
+      "onboard_time": 1775986521,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388860,
+      "num": 785880,
+      "word": "朱苏 第三个吻痕",
+      "onboard_time": 1775988621,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 388582,
       "num": 252022,
       "word": "特朗普放炸桥视频施压伊朗",
@@ -5289,14 +5313,6 @@
       "onboard_time": 1775365881,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359648,
-      "num": 359648,
-      "word": "李小冉唐艺昕后台玩手机",
-      "onboard_time": 1775986521,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 357840,
@@ -7105,14 +7121,6 @@
       "onboard_time": 1775528719,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283941,
-      "num": 283941,
-      "word": "赌王何鸿燊17名子女已有3人离世",
-      "onboard_time": 1775986521,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283928,
@@ -9667,12 +9675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213389,
+      "num": 167940,
+      "word": "业内称平台不再相信演员能单扛了",
+      "onboard_time": 1775987961,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213360,
       "num": 213360,
       "word": "AG纪录片",
       "onboard_time": 1775399246,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213340,
+      "num": 213340,
+      "word": "仙逆",
+      "onboard_time": 1775387123,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 213221,
@@ -10699,6 +10723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190862,
+      "num": 166801,
+      "word": "迪丽热巴补偿去巴黎的粉丝",
+      "onboard_time": 1775990602,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190651,
       "num": 190651,
       "word": "五角大楼被曝紧急采购",
@@ -11083,6 +11115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 182422,
+      "num": 161013,
+      "word": "王橹杰语音好可爱",
+      "onboard_time": 1775988380,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182347,
       "num": 203568,
       "word": "主播陆续回应优思益售后",
@@ -11153,6 +11193,14 @@
       "onboard_time": 1775129241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181327,
+      "num": 181327,
+      "word": "李荣浩真转我五百了",
+      "onboard_time": 1775990481,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 181188,
@@ -12187,6 +12235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163327,
+      "num": 163327,
+      "word": "雪碧拌面",
+      "onboard_time": 1775987661,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163072,
       "num": 147033,
       "word": "杨幂拼豆庆祝绿苑二十周年",
@@ -12747,6 +12803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 155995,
+      "num": 155995,
+      "word": "郭碧婷生一胎的时候没备孕",
+      "onboard_time": 1775989521,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155779,
       "num": 309482,
       "word": "狼队超话大文豪",
@@ -12908,7 +12972,7 @@
     },
     {
       "raw_hot": 153120,
-      "num": 120068,
+      "num": 150164,
       "word": "女子离婚3天后再婚前夫净身出户",
       "onboard_time": 1775986760,
       "rank": 23,
@@ -13659,6 +13723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143025,
+      "num": 135009,
+      "word": "浪姐封神舞台",
+      "onboard_time": 1775988681,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142998,
       "num": 142998,
       "word": "张予曦毕雯珺官宣新综艺",
@@ -13873,6 +13945,14 @@
       "onboard_time": 1775216243,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140742,
+      "num": 99302,
+      "word": "何超琼偕弟妹哀告",
+      "onboard_time": 1775987722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140686,
@@ -18043,14 +18123,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
-      "word": "王橹杰语音好可爱",
-      "onboard_time": 1775988380,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106173,
       "num": 106173,
       "word": "刘宇宁曾一晚连跳8次依赖摇",
@@ -18771,14 +18843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102431,
-      "num": 102431,
-      "word": "仙逆",
-      "onboard_time": 1775387123,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 102359,
       "num": 244602,
       "word": "张雪机车商标被恶意抢注",
@@ -19179,6 +19243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100327,
+      "num": 100327,
+      "word": "钢铁森林",
+      "onboard_time": 1775271260,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100257,
       "num": 100257,
       "word": "又被老祖宗的黄衣服审美硬控了",
@@ -19363,6 +19435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "三甲医生回应郭碧婷二胎生育损伤",
+      "onboard_time": 1775990181,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99185,
       "num": 99185,
       "word": "俄方拒绝给日本供油",
@@ -19513,14 +19593,6 @@
       "onboard_time": 1775833943,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98427,
-      "num": 98427,
-      "word": "业内称平台不再相信演员能单扛了",
-      "onboard_time": 1775987961,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 98414,
@@ -19723,14 +19795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97662,
-      "num": 97662,
-      "word": "钢铁森林",
-      "onboard_time": 1775271260,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97643,
       "num": 97643,
       "word": "刘雨鑫探店莫氏鸡煲视频点赞超130万",
@@ -19745,6 +19809,14 @@
       "onboard_time": 1775218521,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97550,
+      "num": 121255,
+      "word": "iPhone17系列最新销量",
+      "onboard_time": 1775985742,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 97546,
@@ -20361,14 +20433,6 @@
       "onboard_time": 1775097380,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94646,
-      "num": 121255,
-      "word": "iPhone17系列最新销量",
-      "onboard_time": 1775985742,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 94565,
@@ -22555,6 +22619,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85902,
+      "num": 85902,
+      "word": "马嘉祺 杨柳絮别飘了",
+      "onboard_time": 1775988080,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85883,
       "num": 85883,
       "word": "齐思钧吊威亚出场",
@@ -23315,6 +23387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83102,
+      "num": 88372,
+      "word": "蜜雪冰城南美首店开业多位华人发声",
+      "onboard_time": 1775987722,
+      "rank": 43,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 83048,
       "num": 83048,
       "word": "苏新皓飞吻",
@@ -23441,6 +23521,14 @@
       "onboard_time": 1775646981,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82569,
+      "num": 82569,
+      "word": "西班牙小镇炸毁内塔尼亚胡塑像",
+      "onboard_time": 1775990541,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82415,
@@ -23707,14 +23795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81526,
-      "num": 81526,
-      "word": "马嘉祺 杨柳絮别飘了",
-      "onboard_time": 1775988080,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 81511,
       "num": 177130,
       "word": "婚礼还有一个月酒店说办不了",
@@ -23849,14 +23929,6 @@
       "onboard_time": 1775493259,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80963,
-      "num": 80963,
-      "word": "雪碧拌面",
-      "onboard_time": 1775987661,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 80959,
@@ -24267,6 +24339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79323,
+      "num": 79323,
+      "word": "尼泊尔珠峰发生超1亿元骗保大案",
+      "onboard_time": 1775988681,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79318,
       "num": 79318,
       "word": "郑丽文参观国产大飞机",
@@ -24344,14 +24424,6 @@
       "word": "曹操墓前为何全是布洛芬",
       "onboard_time": 1775388683,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79131,
-      "num": 79131,
-      "word": "何超琼偕弟妹哀告",
-      "onboard_time": 1775987722,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -25235,6 +25307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76111,
+      "num": 76111,
+      "word": "阚清子二公分组",
+      "onboard_time": 1775990362,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76096,
       "num": 76096,
       "word": "浪姐垫音",
@@ -25361,14 +25441,6 @@
       "onboard_time": 1775298741,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75787,
-      "num": 75787,
-      "word": "蜜雪冰城南美首店开业多位华人发声",
-      "onboard_time": 1775987722,
-      "rank": 43,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 75773,
@@ -28099,6 +28171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64711,
+      "num": 64711,
+      "word": "王者世界野区逛不完",
+      "onboard_time": 1775990780,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64658,
       "num": 64658,
       "word": "张雪一个子儿都没有的真相",
@@ -28793,6 +28873,14 @@
       "onboard_time": 1775834303,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61149,
+      "num": 61149,
+      "word": "徐洁儿回应自己没人选",
+      "onboard_time": 1775988080,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 61077,
@@ -33689,6 +33777,14 @@
       "onboard_time": 1775638942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10298,
+      "num": 590851,
+      "word": "卫星互联网技术试验卫星发射任务圆满成功",
+      "onboard_time": 1775975961,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9789,
