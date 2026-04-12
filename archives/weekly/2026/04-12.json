@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775984374763,
+  "endTime": 1775985158591,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1809617,
-      "num": 145611,
+      "num": 175879,
       "word": "赵子琪硬刚浪姐",
       "onboard_time": 1775980582,
       "rank": 10,
@@ -91,6 +91,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623122,
+      "num": 179968,
+      "word": "吴京真在家带娃了",
+      "onboard_time": 1775983042,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 619955,
+      "num": 177063,
+      "word": "老人私栓绳子致男孩气管全断裂",
+      "onboard_time": 1775983102,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597331,
       "num": 597331,
       "word": "赵子琪 一分钟不多呆",
@@ -139,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 550742,
-      "num": 144371,
-      "word": "吴京真在家带娃了",
-      "onboard_time": 1775983042,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510451,
       "num": 191182,
       "word": "孟子义突发身体不适",
@@ -169,14 +177,6 @@
       "onboard_time": 1775918966,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484622,
-      "num": 145423,
-      "word": "老人私栓绳子致男孩气管全断裂",
-      "onboard_time": 1775983102,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 468612,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416887,
+      "num": 1066702,
+      "word": "常州暂时改名常洲",
+      "onboard_time": 1775976862,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409692,
       "num": 197973,
       "word": "杨超越 虎鲸",
@@ -217,14 +225,6 @@
       "onboard_time": 1775914765,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390678,
-      "num": 1062508,
-      "word": "常州暂时改名常洲",
-      "onboard_time": 1775976862,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 366413,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 307197,
-      "num": 143783,
+      "num": 173848,
       "word": "伊朗代表团全员黑衣",
       "onboard_time": 1775981063,
       "rank": 13,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180710,
+      "num": 180710,
+      "word": "莫氏鸡煲要卖汤底药包了",
+      "onboard_time": 1775984301,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179369,
       "num": 179369,
       "word": "李小冉团赢了庄法团",
@@ -561,6 +569,22 @@
       "onboard_time": 1775950757,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170214,
+      "num": 170214,
+      "word": "比伯嗓子太好了",
+      "onboard_time": 1775981602,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169485,
+      "num": 171007,
+      "word": "A股交易重要调整来了",
+      "onboard_time": 1775981602,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 165126,
@@ -603,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153926,
-      "num": 142491,
-      "word": "比伯嗓子太好了",
-      "onboard_time": 1775981602,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -651,12 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142491,
-      "num": 142491,
-      "word": "A股交易重要调整来了",
-      "onboard_time": 1775981602,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 142786,
+      "num": 93402,
+      "word": "王濛公司大部分是退役运动员",
+      "onboard_time": 1775983700,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 142307,
@@ -739,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120361,
+      "num": 120361,
+      "word": "杨天真吐槽很多很红的明星漂亮无脑",
+      "onboard_time": 1775984781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118415,
       "num": 116700,
       "word": "采茶女",
@@ -769,6 +793,14 @@
       "onboard_time": 1775975122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116877,
+      "num": 102872,
+      "word": "郑丽文结束大陆参访离京返台",
+      "onboard_time": 1775979742,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115895,
@@ -905,14 +937,6 @@
       "onboard_time": 1775948417,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108727,
-      "num": 102872,
-      "word": "郑丽文结束大陆参访离京返台",
-      "onboard_time": 1775979742,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108184,
@@ -1059,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93402,
-      "num": 93402,
-      "word": "王濛公司大部分是退役运动员",
-      "onboard_time": 1775983700,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92765,
       "num": 92765,
       "word": "高校拟租套均800万豪宅当学生宿舍",
@@ -1083,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92049,
+      "num": 88392,
+      "word": "杨超越的资源",
+      "onboard_time": 1775984961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91785,
       "num": 116950,
       "word": "奥迪车加油632元后逃单",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1775954721,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91210,
-      "num": 91210,
-      "word": "莫氏鸡煲要卖汤底药包了",
-      "onboard_time": 1775984301,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91170,
@@ -1291,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79361,
+      "num": 79361,
+      "word": "美国伊朗为什么没谈成",
+      "onboard_time": 1775984661,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79162,
       "num": 79162,
       "word": "为什么辞职前会犹豫很久",
@@ -1379,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73551,
+      "num": 76078,
+      "word": "大冰说我这两年的直播是刀尖上行走",
+      "onboard_time": 1775982922,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73518,
       "num": 174611,
       "word": "张予曦毕雯珺合伙人零互动",
@@ -1419,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71460,
+      "num": 71460,
+      "word": "郑丽文此行打脸台当局三个选择",
+      "onboard_time": 1775981063,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70701,
       "num": 70701,
       "word": "太原街头16一盘的的沾片子",
@@ -1443,20 +1483,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 67711,
-      "num": 67711,
-      "word": "郑丽文此行打脸台当局三个选择",
-      "onboard_time": 1775981063,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 66816,
-      "num": 66816,
-      "word": "大冰说我这两年的直播是刀尖上行走",
-      "onboard_time": 1775982922,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 66024,
+      "num": 66024,
+      "word": "TOP节目单",
+      "onboard_time": 1775984062,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 65928,
@@ -1484,7 +1516,7 @@
     },
     {
       "raw_hot": 63274,
-      "num": 66656,
+      "num": 67064,
       "word": "70多款机器人跑姿大赏",
       "onboard_time": 1775978721,
       "rank": 49,
