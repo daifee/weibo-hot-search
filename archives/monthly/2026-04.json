@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776001242683,
+  "endTime": 1776005332166,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1809617,
-      "num": 180762,
+      "num": 192315,
       "word": "赵子琪硬刚浪姐",
       "onboard_time": 1775980582,
       "rank": 10,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1767766,
-      "num": 181327,
+      "num": 194657,
       "word": "李荣浩真转我五百了",
       "onboard_time": 1775990481,
       "rank": 9,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1722013,
-      "num": 174096,
+      "num": 199167,
       "word": "朴宝剑探班王安宇",
       "onboard_time": 1775998522,
       "rank": 10,
@@ -1955,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678290,
+      "num": 196732,
+      "word": "小酒窝和爸爸逛面包节",
+      "onboard_time": 1776002123,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677627,
       "num": 677627,
       "word": "海湾多国遭袭",
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 619955,
-      "num": 177063,
+      "num": 183847,
       "word": "老人私栓绳子致男孩气管全断裂",
       "onboard_time": 1775983102,
       "rank": 11,
@@ -3564,7 +3572,7 @@
     },
     {
       "raw_hot": 478635,
-      "num": 172238,
+      "num": 193735,
       "word": "王石 秦枫",
       "onboard_time": 1775994802,
       "rank": 35,
@@ -3737,6 +3745,14 @@
       "onboard_time": 1775296941,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466974,
+      "num": 1074715,
+      "word": "官方回应为什么不能把杨柳树都砍了",
+      "onboard_time": 1775998460,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463623,
@@ -4753,6 +4769,14 @@
       "onboard_time": 1775364861,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392792,
+      "num": 392792,
+      "word": "TTG对战KSG",
+      "onboard_time": 1776003983,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 392261,
@@ -6147,6 +6171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 324496,
+      "num": 797473,
+      "word": "央视曝光AI造黄产业链",
+      "onboard_time": 1775999782,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -6339,6 +6371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318433,
+      "num": 190403,
+      "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
+      "onboard_time": 1776000562,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 317885,
       "num": 317885,
       "word": "马思纯走出抑郁后的状态",
@@ -6507,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311978,
+      "num": 311978,
+      "word": "JDG DYG",
+      "onboard_time": 1776005124,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 311433,
       "num": 177327,
       "word": "何炅没开口维嘉就哭了",
@@ -6601,6 +6649,14 @@
       "onboard_time": 1775353759,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 308476,
+      "num": 197381,
+      "word": "王濛的底气",
+      "onboard_time": 1776001462,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 308296,
@@ -7729,14 +7785,6 @@
       "onboard_time": 1775620641,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269125,
-      "num": 772626,
-      "word": "官方回应为什么不能把杨柳树都砍了",
-      "onboard_time": 1775998460,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268919,
@@ -8963,14 +9011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233932,
-      "num": 233932,
-      "word": "央视曝光AI造黄产业链",
-      "onboard_time": 1775999782,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 233274,
       "num": 233274,
       "word": "莫氏老板未收温氏1000只赠鸡",
@@ -9025,6 +9065,14 @@
       "onboard_time": 1775367979,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232230,
+      "num": 188767,
+      "word": "挑杯抽签",
+      "onboard_time": 1776003323,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 232173,
@@ -9369,6 +9417,14 @@
       "onboard_time": 1775576661,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222162,
+      "num": 186015,
+      "word": "王橹杰杀青",
+      "onboard_time": 1776001163,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 222069,
@@ -10395,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201106,
+      "num": 201106,
+      "word": "AG打RW",
+      "onboard_time": 1776003683,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200663,
       "num": 143207,
       "word": "谢娜回应乘风直播节奏慢",
@@ -11227,6 +11291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184379,
+      "num": 184379,
+      "word": "孙子怕爷爷去世每天偷偷带肉回家",
+      "onboard_time": 1776005243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183888,
       "num": 449288,
       "word": "父亲问儿子要2000元投资款被拒",
@@ -11651,6 +11723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176420,
+      "num": 176420,
+      "word": "郑丽文试乘小米汽车",
+      "onboard_time": 1776002602,
+      "rank": 23,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 175877,
       "num": 175877,
       "word": "高敏感不擅长社交但擅长看穿",
@@ -11937,6 +12017,14 @@
       "onboard_time": 1775305463,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170635,
+      "num": 122056,
+      "word": "AXIZ战胜Wolves",
+      "onboard_time": 1776005183,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 170623,
@@ -12971,6 +13059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156467,
+      "num": 156467,
+      "word": "西班牙首相和夫人参观颐和园",
+      "onboard_time": 1776003743,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156461,
       "num": 103452,
       "word": "胃病拖成胃癌会经历5个阶段",
@@ -13456,6 +13552,14 @@
       "word": "王子邱胜翊涉嫌逃兵役被捕",
       "onboard_time": 1775039721,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149743,
+      "num": 149743,
+      "word": "朴宝剑王安宇怎么认识的",
+      "onboard_time": 1776003443,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -15003,6 +15107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 131506,
+      "num": 121993,
+      "word": "阿尔卡拉斯vs辛纳",
+      "onboard_time": 1776004703,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131493,
       "num": 117328,
       "word": "孔令奇再办婚礼",
@@ -15579,6 +15691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126710,
+      "num": 187942,
+      "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
+      "onboard_time": 1776001462,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126634,
       "num": 126634,
       "word": "够爱作词人拒绝授权曾沛慈演唱",
@@ -15913,6 +16033,14 @@
       "onboard_time": 1775887341,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123253,
+      "num": 123253,
+      "word": "伊朗接连回怼美国",
+      "onboard_time": 1776003743,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123243,
@@ -16627,6 +16755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117872,
+      "num": 114691,
+      "word": "刘耀文高会更新",
+      "onboard_time": 1776005243,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117859,
       "num": 240448,
       "word": "买车为什么一定要有动力冗余",
@@ -17313,6 +17449,14 @@
       "onboard_time": 1775975301,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112731,
+      "num": 112731,
+      "word": "辽宁铁岭一风力发电机断裂坠地",
+      "onboard_time": 1776000562,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 112574,
@@ -18219,6 +18363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106747,
+      "num": 106747,
+      "word": "陈楚生直播",
+      "onboard_time": 1776003683,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106704,
       "num": 106704,
       "word": "归墟5A级景区观光团",
@@ -18417,6 +18569,14 @@
       "onboard_time": 1775708542,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105498,
+      "num": 105498,
+      "word": "广西4名学生下河游泳溺亡",
+      "onboard_time": 1776004584,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105493,
@@ -19168,6 +19328,14 @@
       "word": "韩媒就Ruler报道道歉",
       "onboard_time": 1775038162,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101677,
+      "num": 101677,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1776003142,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -19931,6 +20099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97928,
+      "num": 97928,
+      "word": "韦世豪绝杀",
+      "onboard_time": 1776004883,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97894,
       "num": 97894,
       "word": "白宫称美方接受的是伊朗修改后的新方案",
@@ -20241,6 +20417,14 @@
       "onboard_time": 1775034562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96448,
+      "num": 96448,
+      "word": "耗资24亿大庸古城空城迎转机",
+      "onboard_time": 1776003743,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 96447,
@@ -20809,14 +20993,6 @@
       "onboard_time": 1775455341,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93901,
-      "num": 93901,
-      "word": "辽宁铁岭一风力发电机断裂坠地",
-      "onboard_time": 1776000562,
-      "rank": 35,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 93887,
@@ -25025,14 +25201,6 @@
       "onboard_time": 1775014466,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78071,
-      "num": 78071,
-      "word": "王橹杰杀青",
-      "onboard_time": 1776001163,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 78037,
@@ -32027,14 +32195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36160,
-      "num": 87685,
-      "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
-      "onboard_time": 1776000562,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 36102,
       "num": 47744,
       "word": "鞠婧祎角色热度破一亿",
@@ -32176,6 +32336,14 @@
       "word": "多品牌回应卫生巾涨价",
       "onboard_time": 1775538984,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34661,
+      "num": 122353,
+      "word": "1元批发上千张live图造人设",
+      "onboard_time": 1776003863,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -32777,6 +32945,14 @@
       "onboard_time": 1775291780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27533,
+      "num": 98184,
+      "word": "网购50件测醛仪都测不准",
+      "onboard_time": 1776003804,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27502,
