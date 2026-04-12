@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/13 01:05:56
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/13 01:43:09
 </p>
 </blockquote>
 <p>
@@ -1941,6 +1941,12 @@ TOP节目单（热度：66024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%80%9F%E5%8F%A3%E9%80%80%E5%87%BA%E8%B0%88%E5%88%A4%23" target="weibo">
+伊朗称美国找借口退出谈判（热度：62537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 李荣浩太原演唱会（热度：61672）
 </a>
@@ -2039,6 +2045,12 @@ SK教练（热度：52402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%99%E4%B8%89%E5%86%A0%E8%BE%85%E5%8A%A9%23" target="weibo">
 一笙三冠辅助（热度：50801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23IU%E6%96%B0%E5%89%A7%E5%90%91%E7%94%B7%E4%B8%BB%E6%B1%82%E5%A9%9A%E8%BF%99%E6%AE%B5%23" target="weibo">
+IU新剧向男主求婚这段（热度：50661）
 </a>
 </li>
 
@@ -2349,6 +2361,12 @@ Tabe回应不敌TES（热度：38722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DRG%20%E5%A4%87%E6%88%982027%23" target="weibo">
+DRG 备战2027（热度：27035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23alin%E5%8F%88%E6%9D%A5%E4%BF%AE%E9%9F%B3%E5%93%8D%E4%BA%86%23" target="weibo">
 alin又来修音响了（热度：26584）
 </a>
@@ -2363,6 +2381,12 @@ alin又来修音响了（热度：26584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%9F%B3%E4%B9%90%E8%8A%82%E8%AF%A5%E6%9C%89%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 这才是音乐节该有的样子（热度：26284）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%BA%E6%95%B4%E6%B4%BB%E8%BF%98%E6%98%AF%E5%BE%97%E7%9C%8B%E5%B8%B8%E5%B7%9E%23" target="weibo">
+论整活还是得看常州（热度：25656）
 </a>
 </li>
 
