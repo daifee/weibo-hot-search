@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776008654565,
+  "endTime": 1776009628850,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -59,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1470734,
-      "num": 1470734,
+      "raw_hot": 1492815,
+      "num": 1492815,
       "word": "员工中了1500万彩票后直接离职",
       "onboard_time": 1776006923,
       "rank": 0,
@@ -137,6 +137,14 @@
       "onboard_time": 1775975481,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 632015,
+      "num": 923186,
+      "word": "网传浪姐7一公个人喜爱度排名",
+      "onboard_time": 1776006983,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 628809,
@@ -233,14 +241,6 @@
       "onboard_time": 1775994861,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 546428,
-      "num": 923186,
-      "word": "网传浪姐7一公个人喜爱度排名",
-      "onboard_time": 1776006983,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 510451,
@@ -353,6 +353,14 @@
       "onboard_time": 1775972780,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406618,
+      "num": 406618,
+      "word": "女子遭法官猥亵16分钟录音曝光",
+      "onboard_time": 1776007283,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403803,
@@ -561,14 +569,6 @@
       "onboard_time": 1776001462,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307207,
-      "num": 307207,
-      "word": "女子遭法官猥亵16分钟录音曝光",
-      "onboard_time": 1776007283,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307197,
@@ -827,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196463,
+      "num": 196463,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1776007103,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191087,
       "num": 191087,
       "word": "伊朗代表团离开巴基斯坦",
       "onboard_time": 1775979980,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190068,
+      "num": 190068,
+      "word": "钢铁森林大结局",
+      "onboard_time": 1776007042,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 188250,
@@ -995,14 +1011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166538,
-      "num": 166538,
-      "word": "白桃星座一周运势",
-      "onboard_time": 1776007103,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165126,
       "num": 153428,
       "word": "美军宣布在霍尔木兹海峡扫雷",
@@ -1059,14 +1067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 154580,
-      "num": 145567,
-      "word": "钢铁森林大结局",
-      "onboard_time": 1776007042,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 149768,
-      "num": 149768,
+      "num": 156292,
       "word": "阿尔卡拉斯vs辛纳",
       "onboard_time": 1776004703,
       "rank": 32,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 148968,
-      "num": 149694,
+      "num": 155195,
       "word": "花海阿豆抽签",
       "onboard_time": 1776005483,
       "rank": 25,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1775919084,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125155,
+      "num": 125155,
+      "word": "伊朗伊斯兰革命卫队海军发出警告",
+      "onboard_time": 1776007344,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124572,
@@ -1451,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112981,
+      "num": 112981,
+      "word": "境外涉黄AI软件绕过监管流入国内",
+      "onboard_time": 1776005363,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 112738,
       "num": 107505,
       "word": "王婆说媒现场21男嘉宾抢1女嘉宾",
@@ -1475,12 +1491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112525,
-      "num": 112525,
-      "word": "伊朗伊斯兰革命卫队海军发出警告",
-      "onboard_time": 1776007344,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 112015,
+      "num": 112015,
+      "word": "张雪机车竞拍者拒绝加价500万转售",
+      "onboard_time": 1776006923,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111194,
@@ -1659,14 +1675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101607,
-      "num": 101607,
-      "word": "张雪机车竞拍者拒绝加价500万转售",
-      "onboard_time": 1776006923,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1775985742,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96990,
+      "num": 96990,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1776008601,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 96890,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1775957780,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93527,
-      "num": 93527,
-      "word": "境外涉黄AI软件绕过监管流入国内",
-      "onboard_time": 1776005363,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 93048,
@@ -2427,14 +2435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69715,
-      "num": 69715,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1776008601,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 69403,
       "num": 69403,
       "word": "我家那小子",
@@ -2577,6 +2577,14 @@
       "onboard_time": 1775923162,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58868,
+      "num": 58868,
+      "word": "张翅直播",
+      "onboard_time": 1776009501,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 56043,
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 37225,
-      "num": 683074,
+      "num": 701536,
       "word": "中国航天不断刷新宇宙级精彩",
       "onboard_time": 1775996962,
       "rank": 2,
