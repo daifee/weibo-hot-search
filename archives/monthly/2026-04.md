@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 17:55:21
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 18:07:59
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%90%90%E6%A7%BD%E5%BE%88%E5%A4%9A%E5%BE%88%E7%BA%A2%E7%9A%84%E6%98%8E%E6%98%9F%E6%BC%82%E4%BA%AE%E6%97%A0%E8%84%91%23" target="weibo">
+杨天真吐槽很多很红的明星漂亮无脑（热度：505156）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%94%9F%E9%97%A8%23" target="weibo">
 罗生门（热度：504348）
 </a>
@@ -2729,12 +2735,6 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9F%E9%87%8D%E7%91%9E%E4%B8%BA%E9%99%88%E4%B8%BD%E5%8D%8E%E5%85%89%E5%A4%B436%E5%B9%B4%23" target="weibo">
 迟重瑞为陈丽华光头36年（热度：468517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%90%90%E6%A7%BD%E5%BE%88%E5%A4%9A%E5%BE%88%E7%BA%A2%E7%9A%84%E6%98%8E%E6%98%9F%E6%BC%82%E4%BA%AE%E6%97%A0%E8%84%91%23" target="weibo">
-杨天真吐槽很多很红的明星漂亮无脑（热度：468329）
 </a>
 </li>
 
@@ -3981,6 +3981,12 @@ NCT（热度：372369）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%94%90%E8%89%BA%E6%98%95%E5%90%8E%E5%8F%B0%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
+李小冉唐艺昕后台玩手机（热度：359648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%AB%98%E7%AE%A1%E8%87%AA%E5%88%B6Excel%E8%A1%A8%E5%8F%8A%E6%97%B6%E5%8F%91%E7%8E%B0%E4%B9%B3%E8%85%BA%E7%99%8C%23" target="weibo">
 女高管自制Excel表及时发现乳腺癌（热度：357840）
 </a>
@@ -4311,6 +4317,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%95%B8%E7%BB%88%E8%BA%AB%E6%9C%AA%E5%A9%9A%23" target="weibo">
+何超蕸终身未婚（热度：338676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
 张慧雯回应争议（热度：338609）
 </a>
@@ -4443,6 +4455,12 @@ iPhone三款新机机模出炉（热度：337848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%A6%81%E5%8D%96%E6%B1%A4%E5%BA%95%E8%8D%AF%E5%8C%85%E4%BA%86%23" target="weibo">
+莫氏鸡煲要卖汤底药包了（热度：332384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%23" target="weibo">
 Faker回应马斯克（热度：331940）
 </a>
@@ -4535,12 +4553,6 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A3%94%E5%A5%B3%E5%AD%90%E8%A5%BF%E5%AE%89%E5%88%9A%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%B0%B1%E8%A2%AB%E5%8E%86%E5%8F%B2%E6%9A%B4%E5%87%BB%23" target="weibo">
 华裔女子西安刚下飞机就被历史暴击（热度：322995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%A6%81%E5%8D%96%E6%B1%A4%E5%BA%95%E8%8D%AF%E5%8C%85%E4%BA%86%23" target="weibo">
-莫氏鸡煲要卖汤底药包了（热度：322868）
 </a>
 </li>
 
@@ -5331,6 +5343,12 @@ TOP演唱会人气（热度：302471）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%8E%8B%E4%BD%95%E9%B8%BF%E7%87%8A17%E5%90%8D%E5%AD%90%E5%A5%B3%E5%B7%B2%E6%9C%893%E4%BA%BA%E7%A6%BB%E4%B8%96%23" target="weibo">
+赌王何鸿燊17名子女已有3人离世（热度：283941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9F%E5%AE%A2%E6%8B%86%E5%8F%B0%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E9%B8%A1%E5%B8%A6%E6%AF%9B%E5%86%B7%E5%86%BB%23" target="weibo">
 食客拆台莫氏鸡煲鸡带毛冷冻（热度：283928）
 </a>
@@ -5733,12 +5751,6 @@ nctdream 小拇指（热度：281089）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%8E%8B%E4%BD%95%E9%B8%BF%E7%87%8A17%E5%90%8D%E5%AD%90%E5%A5%B3%E5%B7%B2%E6%9C%893%E4%BA%BA%E7%A6%BB%E4%B8%96%23" target="weibo">
-赌王何鸿燊17名子女已有3人离世（热度：267692）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23SuperJunior%E8%87%B4%E6%AD%89%23" target="weibo">
 SuperJunior致歉（热度：267660）
 </a>
@@ -5999,18 +6011,6 @@ Danielle更新iG（热度：256671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%8D%81%E5%B9%B4%E4%BA%94%E8%BF%9B%E6%98%A5%E5%86%B3%23" target="weibo">
 狼队十年五进春决（热度：256377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E6%98%8E%E7%A1%AE%E8%AF%B4%E5%81%9C%E7%81%AB%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%23" target="weibo">
-巴基斯坦总理明确说停火包括黎巴嫩（热度：256063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B3%89%E6%8B%8D%E6%88%8F%E7%9C%9F%E5%81%9A%E4%BA%86%E8%83%83%E9%95%9C%23" target="weibo">
-袁泉拍戏真做了胃镜（热度：255995）
 </a>
 </li>
 

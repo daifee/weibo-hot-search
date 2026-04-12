@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775987721359,
+  "endTime": 1775988479227,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505156,
+      "num": 144623,
+      "word": "杨天真吐槽很多很红的明星漂亮无脑",
+      "onboard_time": 1775984781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504348,
       "num": 504348,
       "word": "罗生门",
@@ -185,14 +193,6 @@
       "onboard_time": 1775950578,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468329,
-      "num": 144623,
-      "word": "杨天真吐槽很多很红的明星漂亮无脑",
-      "onboard_time": 1775984781,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 456815,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359648,
+      "num": 359648,
+      "word": "李小冉唐艺昕后台玩手机",
+      "onboard_time": 1775986521,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351529,
       "num": 187075,
       "word": "伊媒曝出伊朗提出的谈判前提条件",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338676,
+      "num": 784560,
+      "word": "何超蕸终身未婚",
+      "onboard_time": 1775986400,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335899,
       "num": 169581,
       "word": "郭碧婷劝小鹿不要生二胎",
@@ -291,7 +307,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 322868,
+      "raw_hot": 332384,
       "num": 749687,
       "word": "莫氏鸡煲要卖汤底药包了",
       "onboard_time": 1775984301,
@@ -339,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283941,
+      "num": 283941,
+      "word": "赌王何鸿燊17名子女已有3人离世",
+      "onboard_time": 1775986521,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281392,
       "num": 281392,
       "word": "赵子琪回应和张慧雯争论视频",
@@ -361,14 +385,6 @@
       "onboard_time": 1775949977,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 267692,
-      "num": 106481,
-      "word": "赌王何鸿燊17名子女已有3人离世",
-      "onboard_time": 1775986521,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264934,
@@ -417,6 +433,14 @@
       "onboard_time": 1775976441,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242639,
+      "num": 242639,
+      "word": "王濛公司大部分是退役运动员",
+      "onboard_time": 1775983700,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 240935,
@@ -483,14 +507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 211602,
-      "num": 211602,
-      "word": "何超蕸终身未婚",
-      "onboard_time": 1775986400,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208303,
       "num": 175651,
       "word": "祝绪丹一亲嘴家里盆都端冒烟了",
@@ -531,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194901,
-      "num": 194901,
-      "word": "李小冉唐艺昕后台玩手机",
-      "onboard_time": 1775986521,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191087,
       "num": 191087,
       "word": "伊朗代表团离开巴基斯坦",
@@ -553,6 +561,14 @@
       "onboard_time": 1775912664,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187217,
+      "num": 187217,
+      "word": "洛克王国",
+      "onboard_time": 1775987480,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 181115,
@@ -593,14 +609,6 @@
       "onboard_time": 1775978721,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175643,
-      "num": 175643,
-      "word": "王濛公司大部分是退役运动员",
-      "onboard_time": 1775983700,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 170607,
@@ -667,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155698,
+      "num": 147179,
+      "word": "男子住48元宾馆身亡家属索赔40万",
+      "onboard_time": 1775981602,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153120,
       "num": 120068,
       "word": "女子离婚3天后再婚前夫净身出户",
@@ -699,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147179,
-      "num": 147179,
-      "word": "男子住48元宾馆身亡家属索赔40万",
-      "onboard_time": 1775981602,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143441,
       "num": 143441,
       "word": "吴京好好在家带孩子",
@@ -729,14 +737,6 @@
       "onboard_time": 1775981722,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141975,
-      "num": 141975,
-      "word": "洛克王国",
-      "onboard_time": 1775987480,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 139830,
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106647,
+      "num": 106647,
+      "word": "莫氏鸡煲日均营业额不低于6万",
+      "onboard_time": 1775987542,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106567,
       "num": 106567,
       "word": "护住周深的常州保安火了",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1775952559,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106198,
+      "num": 106198,
+      "word": "王橹杰语音好可爱",
+      "onboard_time": 1775988380,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 106056,
@@ -1099,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98427,
+      "num": 98427,
+      "word": "业内称平台不再相信演员能单扛了",
+      "onboard_time": 1775987961,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "江语晨前夫",
@@ -1137,6 +1161,22 @@
       "onboard_time": 1775955379,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94790,
+      "num": 94790,
+      "word": "一男子血管堵塞99%仍要飞",
+      "onboard_time": 1775987542,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 94646,
+      "num": 121255,
+      "word": "iPhone17系列最新销量",
+      "onboard_time": 1775985742,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 94453,
@@ -1195,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88952,
+      "num": 88952,
+      "word": "男子十几天猥亵7人被判8个月",
+      "onboard_time": 1775986521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88589,
       "num": 88589,
       "word": "安洗莹首摘亚锦赛冠军",
@@ -1211,12 +1259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87774,
-      "num": 120447,
-      "word": "iPhone17系列最新销量",
-      "onboard_time": 1775985742,
-      "rank": 18,
-      "category": "数码"
+      "raw_hot": 87060,
+      "num": 87060,
+      "word": "钢铁森林",
+      "onboard_time": 1775972660,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86904,
@@ -1248,14 +1296,6 @@
       "word": "19岁女孩回家奔丧买错车票崩溃大哭",
       "onboard_time": 1775953340,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85980,
-      "num": 85980,
-      "word": "莫氏鸡煲日均营业额不低于6万",
-      "onboard_time": 1775987542,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1305,6 +1345,14 @@
       "onboard_time": 1775965761,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82735,
+      "num": 82735,
+      "word": "温瑞博李和宸夺冠",
+      "onboard_time": 1775988322,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 82696,
@@ -1363,6 +1411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81526,
+      "num": 81526,
+      "word": "马嘉祺 杨柳絮别飘了",
+      "onboard_time": 1775988080,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 80963,
+      "num": 80963,
+      "word": "雪碧拌面",
+      "onboard_time": 1775987661,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80871,
       "num": 97811,
       "word": "DFM对战TE",
@@ -1403,20 +1467,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79131,
+      "num": 79131,
+      "word": "何超琼偕弟妹哀告",
+      "onboard_time": 1775987722,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
       "onboard_time": 1775953280,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78437,
-      "num": 81523,
-      "word": "钢铁森林",
-      "onboard_time": 1775972660,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 78256,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1775979802,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75787,
+      "num": 75787,
+      "word": "蜜雪冰城南美首店开业多位华人发声",
+      "onboard_time": 1775987722,
+      "rank": 43,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 75666,
@@ -1483,22 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74435,
-      "num": 74435,
-      "word": "雪碧拌面",
-      "onboard_time": 1775987661,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 74205,
-      "num": 74205,
-      "word": "一男子血管堵塞99%仍要飞",
-      "onboard_time": 1775987542,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 73898,
       "num": 73898,
       "word": "25岁猫咪全记录",
@@ -1515,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73544,
+      "num": 73544,
+      "word": "泼水节",
+      "onboard_time": 1775987902,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73518,
       "num": 174611,
       "word": "张予曦毕雯珺合伙人零互动",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1775915183,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73026,
+      "num": 73026,
+      "word": "何超蕸一生献给了赌王家族事业",
+      "onboard_time": 1775988322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73015,
@@ -1603,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67873,
+      "num": 120333,
+      "word": "特朗普政府将打击赴美生子",
+      "onboard_time": 1775986641,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66024,
       "num": 66024,
       "word": "TOP节目单",
@@ -1657,14 +1737,6 @@
       "onboard_time": 1775923162,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58517,
-      "num": 120333,
-      "word": "特朗普政府将打击赴美生子",
-      "onboard_time": 1775986641,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56043,
@@ -2043,14 +2115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30013,
-      "num": 74592,
-      "word": "男子十几天猥亵7人被判8个月",
-      "onboard_time": 1775986521,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29951,
       "num": 42331,
       "word": "谢娜演唱会准备十首唱跳舞台",
@@ -2092,7 +2156,7 @@
     },
     {
       "raw_hot": 27488,
-      "num": 66360,
+      "num": 67154,
       "word": "张雪说夺冠底气来自中国制造",
       "onboard_time": 1775986760,
       "rank": 49,
@@ -2177,6 +2241,14 @@
       "onboard_time": 1775933595,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17882,
+      "num": 116152,
+      "word": "丁业现被查",
+      "onboard_time": 1775987782,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16450,

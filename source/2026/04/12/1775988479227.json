@@ -1,0 +1,410 @@
+{
+  "runTime": 1775988479227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 365359,
+        "num": 1058457,
+        "word": "常州暂时改名常洲",
+        "onboard_time": 1775976862,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338676,
+        "num": 784560,
+        "word": "何超蕸终身未婚",
+        "onboard_time": 1775986400,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35840,
+        "num": 621005,
+        "word": "这个大国重器够重",
+        "onboard_time": 1775976680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359648,
+        "num": 359648,
+        "word": "李小冉唐艺昕后台玩手机",
+        "onboard_time": 1775986521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332384,
+        "num": 332384,
+        "word": "莫氏鸡煲要卖汤底药包了",
+        "onboard_time": 1775984301,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283941,
+        "num": 283941,
+        "word": "赌王何鸿燊17名子女已有3人离世",
+        "onboard_time": 1775986521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242639,
+        "num": 242639,
+        "word": "王濛公司大部分是退役运动员",
+        "onboard_time": 1775983700,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187217,
+        "num": 187217,
+        "word": "洛克王国",
+        "onboard_time": 1775987480,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161085,
+        "num": 161085,
+        "word": "RW 卖队",
+        "onboard_time": 1775981901,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144535,
+        "num": 144535,
+        "word": "赵子琪回应和张慧雯争论视频",
+        "onboard_time": 1775981722,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505156,
+        "num": 144168,
+        "word": "杨天真吐槽很多很红的明星漂亮无脑",
+        "onboard_time": 1775984781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468367,
+        "num": 138964,
+        "word": "老人私栓绳子致男孩气管全断裂",
+        "onboard_time": 1775983102,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435776,
+        "num": 134815,
+        "word": "你们俩是要毁了芒果吗",
+        "onboard_time": 1775968641,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155698,
+        "num": 133269,
+        "word": "男子住48元宾馆身亡家属索赔40万",
+        "onboard_time": 1775981602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1203358,
+        "num": 130826,
+        "word": "赵子琪硬刚浪姐",
+        "onboard_time": 1775980582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146211,
+        "num": 126843,
+        "word": "A股交易重要调整来了",
+        "onboard_time": 1775981602,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124248,
+        "num": 124248,
+        "word": "比伯嗓子太好了",
+        "onboard_time": 1775981602,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121383,
+        "num": 121383,
+        "word": "妈妈替女儿申请不上早读",
+        "onboard_time": 1775974940,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94646,
+        "num": 121255,
+        "word": "iPhone17系列最新销量",
+        "onboard_time": 1775985742,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17882,
+        "num": 116152,
+        "word": "丁业现被查",
+        "onboard_time": 1775987782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034847,
+        "num": 113451,
+        "word": "何超蕸去世",
+        "onboard_time": 1775975301,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 110826,
+        "word": "女子离婚3天后再婚前夫净身出户",
+        "onboard_time": 1775986760,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107855,
+        "num": 107855,
+        "word": "罗生门",
+        "onboard_time": 1775980403,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107407,
+        "num": 107407,
+        "word": "张凌赫今天素颜好性感",
+        "onboard_time": 1775981722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106647,
+        "num": 106647,
+        "word": "莫氏鸡煲日均营业额不低于6万",
+        "onboard_time": 1775987542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106198,
+        "num": 106198,
+        "word": "王橹杰语音好可爱",
+        "onboard_time": 1775988380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101335,
+        "num": 101335,
+        "word": "何超蕸被赌王称为最能帮忙的女儿",
+        "onboard_time": 1775980403,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100872,
+        "num": 100872,
+        "word": "朱志鑫solo舞台音响故障",
+        "onboard_time": 1775986400,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77219,
+        "num": 98738,
+        "word": "伊朗代表团离开巴基斯坦",
+        "onboard_time": 1775979980,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89564,
+        "num": 98462,
+        "word": "张雪问记者可以说吗",
+        "onboard_time": 1775985800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98427,
+        "num": 98427,
+        "word": "业内称平台不再相信演员能单扛了",
+        "onboard_time": 1775987961,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 94790,
+        "word": "一男子血管堵塞99%仍要飞",
+        "onboard_time": 1775987542,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 93679,
+        "num": 93679,
+        "word": "王濛剪蕾丝",
+        "onboard_time": 1775976382,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93411,
+        "num": 93411,
+        "word": "任敏吃蚂蚁",
+        "onboard_time": 1775986701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88952,
+        "num": 88952,
+        "word": "男子十几天猥亵7人被判8个月",
+        "onboard_time": 1775986521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87765,
+        "num": 87765,
+        "word": "张杰力挺谢娜演唱会",
+        "onboard_time": 1775975001,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87060,
+        "num": 87060,
+        "word": "钢铁森林",
+        "onboard_time": 1775972660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82735,
+        "num": 82735,
+        "word": "温瑞博李和宸夺冠",
+        "onboard_time": 1775988322,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81526,
+        "num": 81526,
+        "word": "马嘉祺 杨柳絮别飘了",
+        "onboard_time": 1775988080,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81141,
+        "num": 81141,
+        "word": "杨超越的资源",
+        "onboard_time": 1775984961,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80963,
+        "num": 80963,
+        "word": "雪碧拌面",
+        "onboard_time": 1775987661,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81059,
+        "num": 80132,
+        "word": "孙怡阚清子直播零互动",
+        "onboard_time": 1775949736,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79131,
+        "num": 79131,
+        "word": "何超琼偕弟妹哀告",
+        "onboard_time": 1775987722,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75787,
+        "num": 75787,
+        "word": "蜜雪冰城南美首店开业多位华人发声",
+        "onboard_time": 1775987722,
+        "rank": 43,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 80572,
+        "num": 75701,
+        "word": "杨超越 虎鲸",
+        "onboard_time": 1775972780,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73544,
+        "num": 73544,
+        "word": "泼水节",
+        "onboard_time": 1775987902,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73026,
+        "num": 73026,
+        "word": "何超蕸一生献给了赌王家族事业",
+        "onboard_time": 1775988322,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70253,
+        "num": 70253,
+        "word": "郑丽文结束大陆参访离京返台",
+        "onboard_time": 1775979742,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67873,
+        "num": 67873,
+        "word": "特朗普政府将打击赴美生子",
+        "onboard_time": 1775986641,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15428,
+        "num": 67154,
+        "word": "张雪说夺冠底气来自中国制造",
+        "onboard_time": 1775986760,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#把两岸关系未来掌握在中国人自己手中#"
+    }
+  }
+}
