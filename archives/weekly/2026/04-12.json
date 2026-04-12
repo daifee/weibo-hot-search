@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775978972217,
+  "endTime": 1775980296191,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596057,
+      "num": 209801,
+      "word": "王濛剪蕾丝",
+      "onboard_time": 1775976382,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 593931,
       "num": 593931,
       "word": "美向伊朗提出最终方案",
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 501625,
-      "num": 161377,
-      "word": "王濛剪蕾丝",
-      "onboard_time": 1775976382,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 468612,
       "num": 181311,
       "word": "恭喜那些洗袜子不翻面的人",
@@ -163,8 +163,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426409,
+      "num": 782001,
+      "word": "何超蕸临终前家人陪伴在侧",
+      "onboard_time": 1775978901,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409692,
-      "num": 145522,
+      "num": 197973,
       "word": "杨超越 虎鲸",
       "onboard_time": 1775972780,
       "rank": 15,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 275200,
-      "num": 139626,
+      "num": 143611,
       "word": "常州暂时改名常洲",
       "onboard_time": 1775976862,
       "rank": 20,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 246165,
-      "num": 153433,
+      "num": 219307,
       "word": "何宣林二公分组",
       "onboard_time": 1775976441,
       "rank": 11,
@@ -337,6 +345,14 @@
       "onboard_time": 1775924421,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231429,
+      "num": 231429,
+      "word": "妈妈替女儿申请不上早读",
+      "onboard_time": 1775974940,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 225796,
@@ -404,11 +420,19 @@
     },
     {
       "raw_hot": 201481,
-      "num": 139806,
+      "num": 141209,
       "word": "宁艺卓 我再也不玩抽象了",
       "onboard_time": 1775972901,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196954,
+      "num": 203386,
+      "word": "何超蕸曾罕见谈与父亲何鸿燊相处",
+      "onboard_time": 1775979383,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188250,
@@ -417,14 +441,6 @@
       "onboard_time": 1775912664,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185703,
-      "num": 185703,
-      "word": "妈妈替女儿申请不上早读",
-      "onboard_time": 1775974940,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 181115,
@@ -457,6 +473,14 @@
       "onboard_time": 1775962700,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177591,
+      "num": 142804,
+      "word": "建议洗澡时不要总弯腰洗头",
+      "onboard_time": 1775978721,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170607,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150308,
+      "num": 150308,
+      "word": "A股全面适用盘后固定价格交易",
+      "onboard_time": 1775975901,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143441,
       "num": 143441,
       "word": "吴京好好在家带孩子",
@@ -545,14 +577,6 @@
       "onboard_time": 1775975001,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139553,
-      "num": 139553,
-      "word": "A股全面适用盘后固定价格交易",
-      "onboard_time": 1775975901,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 137982,
@@ -691,12 +715,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115080,
+      "num": 115080,
+      "word": "马思纯发了黎吧啦",
+      "onboard_time": 1775978721,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114683,
+      "num": 114683,
+      "word": "张极左航唱恋人未满",
+      "onboard_time": 1775979441,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113669,
       "num": 113669,
       "word": "宋浩然又做医美了",
       "onboard_time": 1775964680,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113191,
+      "num": 144638,
+      "word": "何超蕸生平",
+      "onboard_time": 1775979503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112738,
@@ -761,14 +809,6 @@
       "onboard_time": 1775970622,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108145,
-      "num": 108145,
-      "word": "马思纯发了黎吧啦",
-      "onboard_time": 1775978721,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 106787,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 100440,
-      "num": 185260,
+      "num": 217681,
       "word": "东北阿姨煮泡面情绪价值拉满",
       "onboard_time": 1775975842,
       "rank": 8,
@@ -867,20 +907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96890,
+      "num": 96890,
+      "word": "深大租豪宅小区作宿舍引业主反对",
+      "onboard_time": 1775978901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96063,
       "num": 182102,
       "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
       "onboard_time": 1775916205,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95955,
-      "num": 95955,
-      "word": "建议洗澡时不要总弯腰洗头",
-      "onboard_time": 1775978721,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95611,
@@ -1059,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80293,
+      "num": 80293,
+      "word": "郑丽文结束大陆参访离京返台",
+      "onboard_time": 1775979742,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79668,
       "num": 174824,
       "word": "KSG冠军",
@@ -1083,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78685,
-      "num": 78685,
-      "word": "何超蕸临终前家人陪伴在侧",
-      "onboard_time": 1775978901,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -1107,11 +1147,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78205,
+      "num": 78205,
+      "word": "伊朗代表团离开巴基斯坦",
+      "onboard_time": 1775979980,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77572,
       "num": 77572,
       "word": "伊媒称美国过分要求阻碍协议达成",
       "onboard_time": 1775965580,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76328,
+      "num": 76328,
+      "word": "特朗普转发海军封锁伊朗的文章",
+      "onboard_time": 1775979802,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -1172,7 +1228,7 @@
     },
     {
       "raw_hot": 72174,
-      "num": 81231,
+      "num": 145352,
       "word": "光与夜之恋",
       "onboard_time": 1775968700,
       "rank": 48,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1775978721,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70701,
+      "num": 70701,
+      "word": "太原街头16一盘的的沾片子",
+      "onboard_time": 1775979144,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 69403,
@@ -1251,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57895,
-      "num": 82698,
-      "word": "深大租豪宅小区作宿舍引业主反对",
-      "onboard_time": 1775978901,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56043,
       "num": 174487,
       "word": "狼队对战KSG",
@@ -1291,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53611,
+      "num": 861129,
+      "word": "这个大国重器够重",
+      "onboard_time": 1775976680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53411,
       "num": 174166,
       "word": "巴基斯坦官员说伊美谈判进程慢于预期",
@@ -1308,7 +1372,7 @@
     },
     {
       "raw_hot": 52629,
-      "num": 175261,
+      "num": 213472,
       "word": "70多款机器人深夜竞速",
       "onboard_time": 1775969302,
       "rank": 17,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1775965100,
       "rank": 46,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 49005,
-      "num": 861129,
-      "word": "这个大国重器够重",
-      "onboard_time": 1775976680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48856,
@@ -1481,6 +1537,22 @@
       "onboard_time": 1775926819,
       "rank": 33,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 43841,
+      "num": 79894,
+      "word": "官方通报男子反映路灯不亮被威胁",
+      "onboard_time": 1775979562,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42375,
+      "num": 139258,
+      "word": "高昉洁说没世界冠军又何妨",
+      "onboard_time": 1775979441,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 41079,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1775928976,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27985,
+      "num": 79915,
+      "word": "赵子琪火力全开",
+      "onboard_time": 1775980042,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 27368,
