@@ -1,0 +1,410 @@
+{
+  "runTime": 1775974271474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097869,
+        "num": 1175659,
+        "word": "你们俩是要毁了芒果吗",
+        "onboard_time": 1775968641,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222253,
+        "num": 853268,
+        "word": "95后姑娘养6万多条毒蛇年入百万",
+        "onboard_time": 1775971462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32618,
+        "num": 691482,
+        "word": "中国船舶出品真的一屏放不下",
+        "onboard_time": 1775959039,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597331,
+        "num": 597331,
+        "word": "赵子琪 一分钟不多呆",
+        "onboard_time": 1775969722,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197534,
+        "num": 197534,
+        "word": "野生母狼怀孕后主动到保护站待产",
+        "onboard_time": 1775960601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430360,
+        "num": 191979,
+        "word": "孙怡直播啃火腿肠",
+        "onboard_time": 1775968700,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171146,
+        "num": 171146,
+        "word": "90后女子后背疼9分钟完成心梗自救",
+        "onboard_time": 1775969540,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153428,
+        "num": 153428,
+        "word": "美军宣布在霍尔木兹海峡扫雷",
+        "onboard_time": 1775971161,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45927,
+        "num": 141219,
+        "word": "大英赛",
+        "onboard_time": 1775964019,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35738,
+        "num": 140408,
+        "word": "70多款机器人深夜竞速",
+        "onboard_time": 1775969302,
+        "rank": 9,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 409692,
+        "num": 140362,
+        "word": "杨超越 虎鲸",
+        "onboard_time": 1775972780,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "不要穿浅色去做妆造",
+        "onboard_time": 1775961080,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407947,
+        "num": 139910,
+        "word": "孙怡阚清子直播零互动",
+        "onboard_time": 1775949736,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272740,
+        "num": 139818,
+        "word": "胡先煦十日终焉被曝1天杀青",
+        "onboard_time": 1775962640,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221363,
+        "num": 139115,
+        "word": "美向伊朗提出最终方案",
+        "onboard_time": 1775961022,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260090,
+        "num": 138922,
+        "word": "郭碧婷生二胎后花好几年才瘦下来",
+        "onboard_time": 1775970681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225069,
+        "num": 138611,
+        "word": "王濛 色令智昏",
+        "onboard_time": 1775963180,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72320,
+        "num": 138329,
+        "word": "王曼昱我再启航",
+        "onboard_time": 1775970500,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224316,
+        "num": 137995,
+        "word": "孟子义突发身体不适",
+        "onboard_time": 1775961261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40485,
+        "num": 137341,
+        "word": "烟草局查获美宜佳涉案卷烟306万支",
+        "onboard_time": 1775973680,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190639,
+        "num": 136988,
+        "word": "高三学生学习困难去医院测出智障",
+        "onboard_time": 1775964500,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207502,
+        "num": 136639,
+        "word": "大冰告诫年轻人不要在单位聊私事",
+        "onboard_time": 1775968641,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183596,
+        "num": 136341,
+        "word": "曝旺仔小乔要复出了",
+        "onboard_time": 1775967501,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136221,
+        "num": 136221,
+        "word": "网约车司机车内卖现磨咖啡",
+        "onboard_time": 1775966239,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169139,
+        "num": 127797,
+        "word": "宁艺卓 我再也不玩抽象了",
+        "onboard_time": 1775972901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117583,
+        "num": 117583,
+        "word": "37岁男子癌症去世留下一双儿女",
+        "onboard_time": 1775972959,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112810,
+        "num": 112810,
+        "word": "伊朗媒体公布伊美谈判过程",
+        "onboard_time": 1775970622,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108184,
+        "num": 108184,
+        "word": "郝蕾说演员没工作都扎堆短剧了",
+        "onboard_time": 1775970622,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107839,
+        "num": 107839,
+        "word": "张凌赫小狗塑是田曦薇的限定款",
+        "onboard_time": 1775965761,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72068,
+        "num": 102065,
+        "word": "允许引进精良台湾电视剧在大陆播出",
+        "onboard_time": 1775971699,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101729,
+        "num": 101729,
+        "word": "护住周深的常州保安火了",
+        "onboard_time": 1775971640,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 101018,
+        "num": 101018,
+        "word": "朱志鑫 师傅你快走啊",
+        "onboard_time": 1775971341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100692,
+        "num": 100692,
+        "word": "男子肝癌去世妹妹一人带5个娃",
+        "onboard_time": 1775969900,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94570,
+        "num": 94570,
+        "word": "采茶女",
+        "onboard_time": 1775965160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94233,
+        "num": 94233,
+        "word": "鹿晗卖家秀邓超买家秀",
+        "onboard_time": 1775963840,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30264,
+        "num": 93686,
+        "word": "大英赛答案",
+        "onboard_time": 1775973561,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26584,
+        "num": 93545,
+        "word": "alin又来修音响了",
+        "onboard_time": 1775971699,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93473,
+        "num": 93473,
+        "word": "好美 好难听",
+        "onboard_time": 1775962700,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 92765,
+        "word": "高校拟租套均800万豪宅当学生宿舍",
+        "onboard_time": 1775973440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10766,
+        "num": 88734,
+        "word": "张艺凡不愧是时代峰峻大小姐",
+        "onboard_time": 1775972422,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88264,
+        "num": 88264,
+        "word": "成毅饰演的谢淮安穿越到了2026年了",
+        "onboard_time": 1775973981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85393,
+        "num": 85393,
+        "word": "张万森 下柳絮了",
+        "onboard_time": 1775973440,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87740,
+        "num": 83691,
+        "word": "吴镇宇说科班演员吃不了短剧苦",
+        "onboard_time": 1775968460,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81671,
+        "num": 81671,
+        "word": "十日终焉",
+        "onboard_time": 1775966719,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73015,
+        "num": 81643,
+        "word": "美宜佳涉案卷烟306万支被查获",
+        "onboard_time": 1775972901,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78437,
+        "num": 81523,
+        "word": "钢铁森林",
+        "onboard_time": 1775972660,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25693,
+        "num": 81488,
+        "word": "宇树机器人百米冲刺10米每秒",
+        "onboard_time": 1775952559,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76441,
+        "num": 81314,
+        "word": "心愿便利贴 万通筋骨贴",
+        "onboard_time": 1775961740,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63792,
+        "num": 81231,
+        "word": "光与夜之恋",
+        "onboard_time": 1775968700,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63512,
+        "num": 81214,
+        "word": "看过牡丹盛放懂了国色天香",
+        "onboard_time": 1775974101,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民之心#"
+    }
+  }
+}

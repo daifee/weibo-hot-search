@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775973618584,
+  "endTime": 1775974271474,
   "band_list": [
     {
       "raw_hot": 1137928,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597331,
+      "num": 597331,
+      "word": "赵子琪 一分钟不多呆",
+      "onboard_time": 1775969722,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596833,
       "num": 188057,
       "word": "曝同一个艺人四部剧都没过会",
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540385,
-      "num": 540385,
-      "word": "赵子琪 一分钟不多呆",
-      "onboard_time": 1775969722,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 510451,
       "num": 191182,
       "word": "孟子义突发身体不适",
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 456815,
-      "num": 180638,
+      "num": 191979,
       "word": "孙怡直播啃火腿肠",
       "onboard_time": 1775968700,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409692,
+      "num": 144298,
+      "word": "杨超越 虎鲸",
+      "onboard_time": 1775972780,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 403803,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260090,
+      "num": 138922,
+      "word": "郭碧婷生二胎后花好几年才瘦下来",
+      "onboard_time": 1775970681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254115,
       "num": 183987,
       "word": "庄法萧蔷 不该pk",
@@ -275,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227106,
-      "num": 144298,
-      "word": "杨超越 虎鲸",
-      "onboard_time": 1775972780,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 222253,
+      "num": 853268,
+      "word": "95后姑娘养6万多条毒蛇年入百万",
+      "onboard_time": 1775971462,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216583,
@@ -323,20 +339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207502,
+      "num": 136787,
+      "word": "大冰告诫年轻人不要在单位聊私事",
+      "onboard_time": 1775968641,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 206928,
       "num": 206928,
       "word": "直播晕倒被辞退女主播发声",
       "onboard_time": 1775925800,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199588,
-      "num": 138021,
-      "word": "郭碧婷生二胎后花好几年才瘦下来",
-      "onboard_time": 1775970681,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 188250,
@@ -352,14 +368,6 @@
       "word": "90后女子后背疼9分钟完成心梗自救",
       "onboard_time": 1775969540,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179809,
-      "num": 179809,
-      "word": "95后姑娘养6万多条毒蛇年入百万",
-      "onboard_time": 1775971462,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -387,20 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173157,
-      "num": 136787,
-      "word": "大冰告诫年轻人不要在单位聊私事",
-      "onboard_time": 1775968641,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 170607,
       "num": 131657,
       "word": "7岁男童冲出马路被撞交警判全责",
       "onboard_time": 1775950757,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169139,
+      "num": 130958,
+      "word": "宁艺卓 我再也不玩抽象了",
+      "onboard_time": 1775972901,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 162361,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153428,
+      "num": 153428,
+      "word": "美军宣布在霍尔木兹海峡扫雷",
+      "onboard_time": 1775971161,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152281,
       "num": 117048,
       "word": "鹿晗卖家秀邓超买家秀",
@@ -465,14 +481,6 @@
       "onboard_time": 1775960840,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141266,
-      "num": 130958,
-      "word": "宁艺卓 我再也不玩抽象了",
-      "onboard_time": 1775972901,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 137982,
@@ -547,20 +555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117583,
+      "num": 117583,
+      "word": "37岁男子癌症去世留下一双儿女",
+      "onboard_time": 1775972959,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117277,
       "num": 117277,
       "word": "萧蔷58岁身材",
       "onboard_time": 1775944995,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116969,
-      "num": 134006,
-      "word": "美军宣布在霍尔木兹海峡扫雷",
-      "onboard_time": 1775971161,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115895,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108184,
+      "num": 108184,
+      "word": "郝蕾说演员没工作都扎堆短剧了",
+      "onboard_time": 1775970622,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106787,
       "num": 106787,
       "word": "葛荟婕自曝从未支付过女儿抚养费",
@@ -707,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101729,
+      "num": 101729,
+      "word": "护住周深的常州保安火了",
+      "onboard_time": 1775971640,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -715,12 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99578,
-      "num": 99578,
-      "word": "郝蕾说演员没工作都扎堆短剧了",
-      "onboard_time": 1775970622,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 101018,
+      "num": 101018,
+      "word": "朱志鑫 师傅你快走啊",
+      "onboard_time": 1775971341,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 97808,
@@ -747,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96054,
-      "num": 96054,
-      "word": "朱志鑫 师傅你快走啊",
-      "onboard_time": 1775971341,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95611,
       "num": 178881,
       "word": "LPL和LCK变天了",
@@ -769,6 +785,14 @@
       "onboard_time": 1775957780,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92765,
+      "num": 92765,
+      "word": "高校拟租套均800万豪宅当学生宿舍",
+      "onboard_time": 1775973440,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91785,
@@ -795,12 +819,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89213,
-      "num": 89213,
-      "word": "护住周深的常州保安火了",
-      "onboard_time": 1775971640,
-      "rank": 42,
-      "category": "艺人,体育"
+      "raw_hot": 88264,
+      "num": 88264,
+      "word": "成毅饰演的谢淮安穿越到了2026年了",
+      "onboard_time": 1775973981,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 86793,
@@ -827,8 +851,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85393,
+      "num": 90156,
+      "word": "张万森 下柳絮了",
+      "onboard_time": 1775973440,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84881,
-      "num": 94565,
+      "num": 138329,
       "word": "王曼昱我再启航",
       "onboard_time": 1775970500,
       "rank": 38,
@@ -859,14 +891,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 82641,
-      "num": 90156,
-      "word": "张万森 下柳絮了",
-      "onboard_time": 1775973440,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82335,
       "num": 68558,
       "word": "巴基斯坦总理分别会见伊美谈判成员",
@@ -891,8 +915,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81036,
-      "num": 77338,
+      "raw_hot": 81671,
+      "num": 81671,
       "word": "十日终焉",
       "onboard_time": 1775966719,
       "rank": 46,
@@ -923,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79601,
-      "num": 79601,
-      "word": "高校拟租套均800万豪宅当学生宿舍",
-      "onboard_time": 1775973440,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -939,20 +955,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78437,
+      "num": 81523,
+      "word": "钢铁森林",
+      "onboard_time": 1775972660,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77572,
       "num": 77572,
       "word": "伊媒称美国过分要求阻碍协议达成",
       "onboard_time": 1775965580,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 75733,
-      "num": 75733,
-      "word": "钢铁森林",
-      "onboard_time": 1775972660,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 75638,
@@ -995,8 +1011,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73015,
+      "num": 81643,
+      "word": "美宜佳涉案卷烟306万支被查获",
+      "onboard_time": 1775972901,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72174,
-      "num": 72174,
+      "num": 81231,
       "word": "光与夜之恋",
       "onboard_time": 1775968700,
       "rank": 48,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1775913863,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63512,
+      "num": 81214,
+      "word": "看过牡丹盛放懂了国色天香",
+      "onboard_time": 1775974101,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 61672,
@@ -1259,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40485,
+      "num": 137341,
+      "word": "烟草局查获美宜佳涉案卷烟306万支",
+      "onboard_time": 1775973680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40041,
       "num": 174397,
       "word": "陈凯琳吃了普通话的亏",
@@ -1307,7 +1347,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35052,
+      "raw_hot": 35738,
       "num": 142163,
       "word": "70多款机器人深夜竞速",
       "onboard_time": 1775969302,
@@ -1411,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26584,
+      "num": 98112,
+      "word": "alin又来修音响了",
+      "onboard_time": 1775971699,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25306,
       "num": 53131,
       "word": "英超联赛",
@@ -1456,14 +1504,6 @@
       "word": "张杰演唱会",
       "onboard_time": 1775921243,
       "rank": 42,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19592,
-      "num": 98112,
-      "word": "alin又来修音响了",
-      "onboard_time": 1775971699,
-      "rank": 33,
       "category": "演出"
     },
     {
@@ -1529,6 +1569,14 @@
       "onboard_time": 1775961381,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10766,
+      "num": 88734,
+      "word": "张艺凡不愧是时代峰峻大小姐",
+      "onboard_time": 1775972422,
+      "rank": 39,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
