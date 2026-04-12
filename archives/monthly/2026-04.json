@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776005332166,
+  "endTime": 1776006326281,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -8315,6 +8315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253958,
+      "num": 184379,
+      "word": "孙子怕爷爷去世每天偷偷带肉回家",
+      "onboard_time": 1776005243,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252522,
       "num": 252522,
       "word": "乘风2026",
@@ -11291,14 +11299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184379,
-      "num": 184379,
-      "word": "孙子怕爷爷去世每天偷偷带肉回家",
-      "onboard_time": 1776005243,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183888,
       "num": 449288,
       "word": "父亲问儿子要2000元投资款被拒",
@@ -11312,6 +11312,14 @@
       "word": "黄景瑜工作室 只是朋友间正常聚会",
       "onboard_time": 1775792425,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183547,
+      "num": 152114,
+      "word": "刘耀文高会更新",
+      "onboard_time": 1776005243,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -13595,6 +13603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148968,
+      "num": 148968,
+      "word": "花海阿豆抽签",
+      "onboard_time": 1776005483,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148927,
       "num": 148927,
       "word": "受不了声音大情绪太外化的人",
@@ -13907,12 +13923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143935,
+      "num": 143935,
+      "word": "阿尔卡拉斯vs辛纳",
+      "onboard_time": 1776004703,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143830,
       "num": 310927,
       "word": "华人夫妇美国豪宅离奇失踪一年",
       "onboard_time": 1775006603,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143780,
+      "num": 187942,
+      "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
+      "onboard_time": 1776001462,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143604,
@@ -14121,6 +14153,14 @@
       "onboard_time": 1775142445,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141845,
+      "num": 154601,
+      "word": "挑杯第一阶段抽签结果",
+      "onboard_time": 1776005183,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 141810,
@@ -14755,6 +14795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134797,
+      "num": 134797,
+      "word": "LGD签运",
+      "onboard_time": 1776005424,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134729,
       "num": 134729,
       "word": "樊振东弃赛不是退缩是规划",
@@ -15107,14 +15155,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 131506,
-      "num": 121993,
-      "word": "阿尔卡拉斯vs辛纳",
-      "onboard_time": 1776004703,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131493,
       "num": 117328,
       "word": "孔令奇再办婚礼",
@@ -15289,6 +15329,14 @@
       "onboard_time": 1775399428,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130553,
+      "num": 130553,
+      "word": "言雪",
+      "onboard_time": 1776005843,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 130485,
@@ -15691,14 +15739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126710,
-      "num": 187942,
-      "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
-      "onboard_time": 1776001462,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126634,
       "num": 126634,
       "word": "够爱作词人拒绝授权曾沛慈演唱",
@@ -15995,6 +16035,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 123509,
+      "num": 135360,
+      "word": "伊朗接连回怼美国",
+      "onboard_time": 1776003743,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123495,
       "num": 123495,
       "word": "迪丽热巴陈飞宇鬼新娘转场",
@@ -16033,14 +16081,6 @@
       "onboard_time": 1775887341,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123253,
-      "num": 123253,
-      "word": "伊朗接连回怼美国",
-      "onboard_time": 1776003743,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123243,
@@ -16755,14 +16795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117872,
-      "num": 114691,
-      "word": "刘耀文高会更新",
-      "onboard_time": 1776005243,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117859,
       "num": 240448,
       "word": "买车为什么一定要有动力冗余",
@@ -17009,6 +17041,14 @@
       "onboard_time": 1775292620,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116843,
+      "num": 116843,
+      "word": "热刺 降级",
+      "onboard_time": 1776005483,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 116787,
@@ -19267,6 +19307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101858,
+      "num": 101858,
+      "word": "韦世豪绝杀",
+      "onboard_time": 1776004883,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101838,
       "num": 101838,
       "word": "田曦薇陈星旭毕雯珺伪骄阳似我",
@@ -20097,14 +20145,6 @@
       "onboard_time": 1775304264,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97928,
-      "num": 97928,
-      "word": "韦世豪绝杀",
-      "onboard_time": 1776004883,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 97894,
@@ -21089,6 +21129,14 @@
       "onboard_time": 1775205501,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93527,
+      "num": 93527,
+      "word": "境外涉黄AI软件绕过监管流入国内",
+      "onboard_time": 1776005363,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 93455,
@@ -23353,6 +23401,14 @@
       "onboard_time": 1775640441,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85062,
+      "num": 85062,
+      "word": "山西猥亵当事人法官被停职",
+      "onboard_time": 1776005424,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85061,
