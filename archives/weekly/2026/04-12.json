@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776035061894,
+  "endTime": 1776037476486,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 547546,
+      "num": 406618,
+      "word": "女子遭法官猥亵16分钟录音曝光",
+      "onboard_time": 1776007283,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510451,
       "num": 191182,
       "word": "孟子义突发身体不适",
@@ -347,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415244,
+      "num": 415244,
+      "word": "欧尔班承认败选",
+      "onboard_time": 1776035778,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 409692,
       "num": 197973,
       "word": "杨超越 虎鲸",
       "onboard_time": 1775972780,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406618,
-      "num": 406618,
-      "word": "女子遭法官猥亵16分钟录音曝光",
-      "onboard_time": 1776007283,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403803,
@@ -723,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228292,
+      "num": 228292,
+      "word": "伊朗公布驱离美军舰视频",
+      "onboard_time": 1776035719,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225796,
       "num": 853268,
       "word": "95后姑娘养6万多条毒蛇年入百万",
@@ -947,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178232,
+      "num": 178232,
+      "word": "境外涉黄AI软件绕过监管流入国内",
+      "onboard_time": 1776005363,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 177969,
       "num": 132278,
       "word": "好美 好难听",
@@ -985,6 +1009,14 @@
       "onboard_time": 1775987661,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170810,
+      "num": 111250,
+      "word": "男子掉14颗牙剩下14颗也得全拔掉",
+      "onboard_time": 1776036439,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170635,
@@ -1115,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149766,
+      "num": 149766,
+      "word": "A股交易将迎重要调整",
+      "onboard_time": 1776034877,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149743,
       "num": 149743,
       "word": "朴宝剑王安宇怎么认识的",
@@ -1131,8 +1171,24 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148616,
+      "num": 148616,
+      "word": "匈牙利",
+      "onboard_time": 1776036258,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146078,
+      "num": 107814,
+      "word": "郑恺晒女儿全英文对话",
+      "onboard_time": 1776036559,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145547,
-      "num": 145547,
+      "num": 150530,
       "word": "伊朗伊斯兰革命卫队海军发出警告",
       "onboard_time": 1776007344,
       "rank": 29,
@@ -1187,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141020,
+      "num": 141020,
+      "word": "张雪机车竞拍者拒绝加价500万转售",
+      "onboard_time": 1776006923,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140742,
       "num": 99302,
       "word": "何超琼偕弟妹哀告",
@@ -1235,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137345,
-      "num": 137345,
-      "word": "境外涉黄AI软件绕过监管流入国内",
-      "onboard_time": 1776005363,
-      "rank": 42,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 134797,
       "num": 134797,
       "word": "LGD签运",
@@ -1259,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132021,
-      "num": 132021,
-      "word": "张雪机车竞拍者拒绝加价500万转售",
-      "onboard_time": 1776006923,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130553,
       "num": 130553,
       "word": "言雪",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1775918124,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127870,
+      "num": 127870,
+      "word": "男子住48元宾馆身亡家属索赔被驳回",
+      "onboard_time": 1776009921,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 127532,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1775913264,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115613,
+      "num": 115613,
+      "word": "王石已第4次被传失联被抓",
+      "onboard_time": 1776023594,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115571,
@@ -1667,6 +1731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104197,
+      "num": 104197,
+      "word": "时代少年团与循规蹈矩唱反调",
+      "onboard_time": 1776034818,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102904,
+      "num": 175954,
+      "word": "楚乔传热度",
+      "onboard_time": 1776015795,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102809,
       "num": 174921,
       "word": "李小冉口误喊赵兆老公",
@@ -1843,14 +1923,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 94733,
-      "num": 67149,
-      "word": "王石已第4次被传失联被抓",
-      "onboard_time": 1776023594,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94453,
       "num": 94453,
       "word": "网传浪姐二公分组",
@@ -1921,14 +1993,6 @@
       "onboard_time": 1775954721,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91481,
-      "num": 88636,
-      "word": "男子住48元宾馆身亡家属索赔被驳回",
-      "onboard_time": 1776009921,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 91170,
@@ -2283,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76518,
-      "num": 66626,
-      "word": "时代少年团与循规蹈矩唱反调",
-      "onboard_time": 1776034818,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76328,
       "num": 76328,
       "word": "特朗普转发海军封锁伊朗的文章",
@@ -2363,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74189,
+      "num": 99938,
+      "word": "匈牙利国会选举蒂萨党领先",
+      "onboard_time": 1776035899,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73898,
       "num": 73898,
       "word": "25岁猫咪全记录",
@@ -2425,14 +2489,6 @@
       "onboard_time": 1775972901,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72435,
-      "num": 66443,
-      "word": "A股交易将迎重要调整",
-      "onboard_time": 1776034877,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 72232,
@@ -2523,12 +2579,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67664,
-      "num": 67664,
-      "word": "楚乔传热度",
-      "onboard_time": 1776015795,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 67706,
+      "num": 98357,
+      "word": "箱包女王破产后卖包子重启人生",
+      "onboard_time": 1776036918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66671,
+      "num": 98020,
+      "word": "北京逐步替换杨柳树雌株",
+      "onboard_time": 1776024793,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66644,
@@ -2643,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57747,
+      "num": 171849,
+      "word": "高三学生学习困难测出智障",
+      "onboard_time": 1776036739,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 56817,
       "num": 63230,
       "word": "脑雾到底是个啥",
@@ -2699,14 +2771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53243,
-      "num": 63401,
-      "word": "北京逐步替换杨柳树雌株",
-      "onboard_time": 1776024793,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52966,
       "num": 72832,
       "word": "苏超50台机器人雨中齐舞",
@@ -2731,6 +2795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52425,
+      "num": 165181,
+      "word": "切尔西0比3曼城",
+      "onboard_time": 1776035958,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52402,
       "num": 174274,
       "word": "SK教练",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1775927360,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51565,
+      "num": 97160,
+      "word": "仙逆王林",
+      "onboard_time": 1776036678,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 50884,
@@ -2827,6 +2907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47894,
+      "num": 96280,
+      "word": "伊朗谈判代表团启程回国",
+      "onboard_time": 1776036377,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47801,
       "num": 47801,
       "word": "你好星期六下期巅峰喜剧节",
@@ -2867,12 +2955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46288,
+      "num": 95276,
+      "word": "短剧剧宣误入豪门少夫人聚会局",
+      "onboard_time": 1776036918,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45216,
       "num": 45216,
       "word": "伊谈判代表团抵达巴基斯坦",
       "onboard_time": 1775951599,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45175,
+      "num": 94354,
+      "word": "苹果AI眼镜细节曝光",
+      "onboard_time": 1776037039,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 45114,
@@ -2931,8 +3035,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42008,
+      "num": 92832,
+      "word": "美军称将封锁伊港口海上交通",
+      "onboard_time": 1776036198,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41802,
-      "num": 63372,
+      "num": 92208,
       "word": "全球航司被迫涨价",
       "onboard_time": 1776018195,
       "rank": 30,
@@ -3027,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35554,
+      "num": 91739,
+      "word": "王橹杰小咴故事原型",
+      "onboard_time": 1776037338,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34850,
       "num": 62964,
       "word": "辛纳首夺蒙特卡洛冠军",
@@ -3073,6 +3193,14 @@
       "onboard_time": 1775952919,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32728,
+      "num": 90964,
+      "word": "12306回应静音车厢售货不叫卖",
+      "onboard_time": 1776037400,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32702,
