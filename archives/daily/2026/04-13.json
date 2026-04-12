@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776023300130,
+  "endTime": 1776023997538,
   "band_list": [
     {
       "raw_hot": 1492815,
@@ -585,6 +585,14 @@
       "onboard_time": 1776018014,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10322,
+      "num": 20207,
+      "word": "王石已第4次被传失联被抓",
+      "onboard_time": 1776023594,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

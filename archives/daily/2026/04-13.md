@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/13 00:00:28 ~ 2026/04/13 03:48:20
+本榜单时间：2026/04/13 00:00:28 ~ 2026/04/13 03:59:57
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ DRG 备战2027（热度：27035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E6%80%BB%E7%BB%93%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 苏新皓总结浪漫主义演唱会（热度：11174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9F%B3%E5%B7%B2%E7%AC%AC4%E6%AC%A1%E8%A2%AB%E4%BC%A0%E5%A4%B1%E8%81%94%E8%A2%AB%E6%8A%93%23" target="weibo">
+王石已第4次被传失联被抓（热度：10322）
 </a>
 </li>
 
