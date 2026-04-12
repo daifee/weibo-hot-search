@@ -1,0 +1,410 @@
+{
+  "runTime": 1775965952699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 501656,
+        "num": 1080265,
+        "word": "野生母狼怀孕后主动到保护站待产",
+        "onboard_time": 1775960601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365063,
+        "num": 807818,
+        "word": "心愿便利贴 万通筋骨贴",
+        "onboard_time": 1775961740,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35208,
+        "num": 712307,
+        "word": "中国船舶出品真的一屏放不下",
+        "onboard_time": 1775959039,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684862,
+        "num": 684862,
+        "word": "胡先煦十日终焉被曝1天杀青",
+        "onboard_time": 1775962640,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593931,
+        "num": 593931,
+        "word": "美向伊朗提出最终方案",
+        "onboard_time": 1775961022,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314385,
+        "num": 314385,
+        "word": "谢娜成都演唱会票价",
+        "onboard_time": 1775950878,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310367,
+        "num": 310367,
+        "word": "不要穿浅色去做妆造",
+        "onboard_time": 1775961080,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170828,
+        "num": 170828,
+        "word": "伊朗通报谈判进展",
+        "onboard_time": 1775957600,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124572,
+        "num": 124572,
+        "word": "莫氏鸡煲老板原本是中医",
+        "onboard_time": 1775950997,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108683,
+        "num": 124513,
+        "word": "大英赛",
+        "onboard_time": 1775964019,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 885758,
+        "num": 123690,
+        "word": "孙怡阚清子直播零互动",
+        "onboard_time": 1775949736,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420857,
+        "num": 123201,
+        "word": "孟子义突发身体不适",
+        "onboard_time": 1775961261,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240935,
+        "num": 122424,
+        "word": "女孩追星被骗爸爸受伤家有4个孩子",
+        "onboard_time": 1775954721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652994,
+        "num": 121751,
+        "word": "王濛 色令智昏",
+        "onboard_time": 1775963180,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178456,
+        "num": 120895,
+        "word": "以军袭击致黎巴嫩2020人死6436人伤",
+        "onboard_time": 1775952980,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275464,
+        "num": 120255,
+        "word": "浪姐 剧本",
+        "onboard_time": 1775954901,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106395,
+        "num": 119421,
+        "word": "宇树机器人百米冲刺10米每秒",
+        "onboard_time": 1775952559,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94854,
+        "num": 119121,
+        "word": "LPL和LCK变天了",
+        "onboard_time": 1775955379,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161327,
+        "num": 118428,
+        "word": "奥迪逃单加油站员工垫付4天工资",
+        "onboard_time": 1775963240,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117965,
+        "num": 117965,
+        "word": "女子1天爬2次华山收到景区问候",
+        "onboard_time": 1775922142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266150,
+        "num": 117945,
+        "word": "芒果 改口癖",
+        "onboard_time": 1775956040,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167612,
+        "num": 117672,
+        "word": "高三学生学习困难去医院测出智障",
+        "onboard_time": 1775964500,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244878,
+        "num": 117112,
+        "word": "曾沛慈对王濛贴脸开大",
+        "onboard_time": 1775960539,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152281,
+        "num": 117048,
+        "word": "鹿晗卖家秀邓超买家秀",
+        "onboard_time": 1775963840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118415,
+        "num": 116700,
+        "word": "采茶女",
+        "onboard_time": 1775965160,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148180,
+        "num": 116517,
+        "word": "郭碧婷劝小鹿不要生二胎",
+        "onboard_time": 1775950819,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147973,
+        "num": 116121,
+        "word": "张凌赫肖战待播剧角色热度前三",
+        "onboard_time": 1775957421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143097,
+        "num": 115687,
+        "word": "小狗也是会洗头的",
+        "onboard_time": 1775960840,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138173,
+        "num": 115567,
+        "word": "祝绪丹一亲嘴家里盆都端冒烟了",
+        "onboard_time": 1775959580,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91871,
+        "num": 115164,
+        "word": "海底捞已通知一千多家门店内部排查",
+        "onboard_time": 1775914463,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32702,
+        "num": 114871,
+        "word": "汪东城曾沛慈平行时空同框",
+        "onboard_time": 1775963721,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134658,
+        "num": 114779,
+        "word": "恭喜那些洗袜子不翻面的人",
+        "onboard_time": 1775950578,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124096,
+        "num": 114287,
+        "word": "谢娜演唱会用张杰的团队",
+        "onboard_time": 1775954481,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29431,
+        "num": 114166,
+        "word": "章子怡来看谢霆锋演唱会",
+        "onboard_time": 1775959340,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 113950,
+        "word": "美国逮捕伊朗前副总统儿子",
+        "onboard_time": 1775963001,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113669,
+        "num": 113669,
+        "word": "宋浩然又做医美了",
+        "onboard_time": 1775964680,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113207,
+        "num": 113207,
+        "word": "无忧渡",
+        "onboard_time": 1775950219,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85973,
+        "num": 112849,
+        "word": "泰柬边境一电诈园内部环境曝光",
+        "onboard_time": 1775954721,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112574,
+        "num": 112574,
+        "word": "张柏芝晒与小儿子迪士尼游玩vlog",
+        "onboard_time": 1775965160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106787,
+        "num": 106787,
+        "word": "葛荟婕自曝从未支付过女儿抚养费",
+        "onboard_time": 1775964740,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83466,
+        "num": 104377,
+        "word": "19岁女孩回家奔丧买错车票崩溃大哭",
+        "onboard_time": 1775953340,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102481,
+        "num": 102481,
+        "word": "时代少年团广州演唱会批文",
+        "onboard_time": 1775921962,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85044,
+        "num": 85044,
+        "word": "张凌赫小狗塑是田曦薇的限定款",
+        "onboard_time": 1775965761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82878,
+        "num": 82878,
+        "word": "用Excel记录十年乳腺体检结果救了命",
+        "onboard_time": 1775965761,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77572,
+        "num": 77572,
+        "word": "伊媒称美国过分要求阻碍协议达成",
+        "onboard_time": 1775965580,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65928,
+        "num": 76444,
+        "word": "2026人形机器人半马",
+        "onboard_time": 1775965460,
+        "rank": 45,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 49644,
+        "num": 76352,
+        "word": "宇树科技H1机器人短跑达10米每秒",
+        "onboard_time": 1775965100,
+        "rank": 46,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 76340,
+        "word": "好美 好难听",
+        "onboard_time": 1775962700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76285,
+        "num": 76285,
+        "word": "李楷灿绯闻女友疑似出现在nctwish物料里",
+        "onboard_time": 1775955440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75293,
+        "num": 75293,
+        "word": "奥迪车加油632元后逃单",
+        "onboard_time": 1775953220,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民之心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775964434991,
+  "endTime": 1775965952699,
   "band_list": [
     {
       "raw_hot": 990055,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684862,
+      "num": 684862,
+      "word": "胡先煦十日终焉被曝1天杀青",
+      "onboard_time": 1775962640,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663401,
       "num": 195891,
       "word": "王濛 色令智昏",
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593931,
+      "num": 593931,
+      "word": "美向伊朗提出最终方案",
+      "onboard_time": 1775961022,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 580565,
       "num": 772182,
       "word": "海底捞已通知一千多家门店内部排查",
@@ -73,22 +89,6 @@
       "onboard_time": 1775924061,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540140,
-      "num": 540140,
-      "word": "美向伊朗提出最终方案",
-      "onboard_time": 1775961022,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 532642,
-      "num": 532642,
-      "word": "胡先煦十日终焉被曝1天杀青",
-      "onboard_time": 1775962640,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 510451,
@@ -120,6 +120,14 @@
       "word": "谢娜直播官宣演唱会",
       "onboard_time": 1775914765,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365063,
+      "num": 813617,
+      "word": "心愿便利贴 万通筋骨贴",
+      "onboard_time": 1775961740,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -179,20 +187,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310367,
+      "num": 310367,
+      "word": "不要穿浅色去做妆造",
+      "onboard_time": 1775961080,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310005,
       "num": 176180,
       "word": "赵子琪 浪姐",
       "onboard_time": 1775923522,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304435,
-      "num": 304435,
-      "word": "不要穿浅色去做妆造",
-      "onboard_time": 1775961080,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 281047,
@@ -219,20 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258154,
-      "num": 813617,
-      "word": "心愿便利贴 万通筋骨贴",
-      "onboard_time": 1775961740,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254115,
       "num": 183987,
       "word": "庄法萧蔷 不该pk",
       "onboard_time": 1775920042,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240935,
+      "num": 192236,
+      "word": "女孩追星被骗爸爸受伤家有4个孩子",
+      "onboard_time": 1775954721,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232502,
@@ -275,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192236,
-      "num": 192236,
-      "word": "女孩追星被骗爸爸受伤家有4个孩子",
-      "onboard_time": 1775954721,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
@@ -299,7 +299,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175587,
+      "raw_hot": 178456,
       "num": 175587,
       "word": "以军袭击致黎巴嫩2020人死6436人伤",
       "onboard_time": 1775952980,
@@ -307,11 +307,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177969,
+      "num": 132278,
+      "word": "好美 好难听",
+      "onboard_time": 1775962700,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170607,
       "num": 131657,
       "word": "7岁男童冲出马路被撞交警判全责",
       "onboard_time": 1775950757,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167612,
+      "num": 117672,
+      "word": "高三学生学习困难去医院测出智障",
+      "onboard_time": 1775964500,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -331,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161327,
+      "num": 118742,
+      "word": "奥迪逃单加油站员工垫付4天工资",
+      "onboard_time": 1775963240,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159919,
       "num": 159919,
       "word": "张凌赫肖战待播剧角色热度前三",
       "onboard_time": 1775957421,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152281,
+      "num": 117048,
+      "word": "鹿晗卖家秀邓超买家秀",
+      "onboard_time": 1775963840,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 143441,
@@ -347,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143097,
+      "num": 116787,
+      "word": "小狗也是会洗头的",
+      "onboard_time": 1775960840,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137982,
       "num": 73994,
       "word": "张婉婷回应宋宁峰借钱还网贷",
       "onboard_time": 1775950757,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132278,
-      "num": 132278,
-      "word": "好美 好难听",
-      "onboard_time": 1775962700,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 128905,
@@ -395,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124572,
+      "num": 213700,
+      "word": "莫氏鸡煲老板原本是中医",
+      "onboard_time": 1775950997,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124383,
       "num": 124383,
       "word": "谢娜演唱会用张杰的团队",
@@ -403,19 +443,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122033,
-      "num": 116787,
-      "word": "小狗也是会洗头的",
-      "onboard_time": 1775960840,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 118742,
-      "num": 118742,
-      "word": "奥迪逃单加油站员工垫付4天工资",
-      "onboard_time": 1775963240,
-      "rank": 28,
+      "raw_hot": 118415,
+      "num": 116700,
+      "word": "采茶女",
+      "onboard_time": 1775965160,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -459,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113713,
-      "num": 213700,
-      "word": "莫氏鸡煲老板原本是中医",
-      "onboard_time": 1775950997,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 113669,
+      "num": 113669,
+      "word": "宋浩然又做医美了",
+      "onboard_time": 1775964680,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112574,
+      "num": 112574,
+      "word": "张柏芝晒与小儿子迪士尼游玩vlog",
+      "onboard_time": 1775965160,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 111194,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 110556,
-      "num": 110556,
+      "num": 113950,
       "word": "美国逮捕伊朗前副总统儿子",
       "onboard_time": 1775963001,
       "rank": 34,
@@ -507,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107744,
-      "num": 107744,
-      "word": "鹿晗卖家秀邓超买家秀",
-      "onboard_time": 1775963840,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 106787,
+      "num": 106787,
+      "word": "葛荟婕自曝从未支付过女儿抚养费",
+      "onboard_time": 1775964740,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 106491,
@@ -523,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106395,
+      "num": 207309,
+      "word": "宇树机器人百米冲刺10米每秒",
+      "onboard_time": 1775952559,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106056,
       "num": 183307,
       "word": "清清",
@@ -531,20 +579,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104556,
-      "num": 207309,
-      "word": "宇树机器人百米冲刺10米每秒",
-      "onboard_time": 1775952559,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 102809,
       "num": 174921,
       "word": "李小冉口误喊赵兆老公",
       "onboard_time": 1775915362,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102481,
+      "num": 174678,
+      "word": "时代少年团广州演唱会批文",
+      "onboard_time": 1775921962,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 97808,
@@ -588,7 +636,7 @@
     },
     {
       "raw_hot": 91496,
-      "num": 91496,
+      "num": 112849,
       "word": "泰柬边境一电诈园内部环境曝光",
       "onboard_time": 1775954721,
       "rank": 37,
@@ -612,11 +660,19 @@
     },
     {
       "raw_hot": 86031,
-      "num": 86031,
+      "num": 104377,
       "word": "19岁女孩回家奔丧买错车票崩溃大哭",
       "onboard_time": 1775953340,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85044,
+      "num": 85044,
+      "word": "张凌赫小狗塑是田曦薇的限定款",
+      "onboard_time": 1775965761,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 84580,
@@ -633,6 +689,14 @@
       "onboard_time": 1775956941,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82878,
+      "num": 82878,
+      "word": "用Excel记录十年乳腺体检结果救了命",
+      "onboard_time": 1775965761,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82335,
@@ -667,20 +731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79020,
-      "num": 174678,
-      "word": "时代少年团广州演唱会批文",
-      "onboard_time": 1775921962,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
       "onboard_time": 1775953280,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77572,
+      "num": 77572,
+      "word": "伊媒称美国过分要求阻碍协议达成",
+      "onboard_time": 1775965580,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75638,
@@ -729,6 +793,14 @@
       "onboard_time": 1775951779,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 65928,
+      "num": 76444,
+      "word": "2026人形机器人半马",
+      "onboard_time": 1775965460,
+      "rank": 45,
+      "category": "体育,数码"
     },
     {
       "raw_hot": 64671,
@@ -827,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49644,
+      "num": 76352,
+      "word": "宇树科技H1机器人短跑达10米每秒",
+      "onboard_time": 1775965100,
+      "rank": 46,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 48856,
       "num": 48856,
       "word": "霍尔木兹成美伊谈判矛盾核心",
@@ -916,7 +996,7 @@
     },
     {
       "raw_hot": 45009,
-      "num": 620965,
+      "num": 712307,
       "word": "中国船舶出品真的一屏放不下",
       "onboard_time": 1775959039,
       "rank": 2,
@@ -1003,6 +1083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32702,
+      "num": 114871,
+      "word": "汪东城曾沛慈平行时空同框",
+      "onboard_time": 1775963721,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 31693,
       "num": 109306,
       "word": "李斌称新车迭代太快造成浪费",
@@ -1040,6 +1128,14 @@
       "word": "谢娜演唱会准备十首唱跳舞台",
       "onboard_time": 1775945595,
       "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29431,
+      "num": 114166,
+      "word": "章子怡来看谢霆锋演唱会",
+      "onboard_time": 1775959340,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -1121,14 +1217,6 @@
       "onboard_time": 1775933595,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16486,
-      "num": 110577,
-      "word": "汪东城曾沛慈平行时空同框",
-      "onboard_time": 1775963721,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 16450,
