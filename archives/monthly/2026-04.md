@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 19:56:53
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 21:16:17
 </p>
 </blockquote>
 <p>
@@ -581,6 +581,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A1%B6%E5%B8%85%E7%94%B7%E6%BC%94%E5%91%98%E8%A2%AB%E5%AF%8C%E5%A9%86%E5%A4%A7%E9%97%B9%E7%89%87%E5%9C%BA%23" target="weibo">
 曝顶帅男演员被富婆大闹片场（热度：1174653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%9D%E5%89%91%E6%8E%A2%E7%8F%AD%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
+朴宝剑探班王安宇（热度：1172847）
 </a>
 </li>
 
@@ -2019,6 +2025,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E9%A2%86%E5%AF%BC%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%E6%98%AF%E9%A2%86%E5%AF%BC%23" target="weibo">
+果然领导一眼就能看出来是领导（热度：566346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BBAI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23" target="weibo">
 夫妻AI写公众号年赚200万（热度：566194）
 </a>
@@ -2667,6 +2679,12 @@ sbti测试（热度：495899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9F%B3%20%E7%A7%A6%E6%9E%AB%23" target="weibo">
+王石 秦枫（热度：478635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E7%BA%BF%E5%AF%B9%E5%BE%B7%E5%9B%BD3%E8%BF%9E%E8%B4%A5%23" target="weibo">
 国乒男线对德国3连败（热度：478549）
 </a>
@@ -3155,6 +3173,12 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%AD%94%E4%B8%B8%E7%94%9F%E4%BA%86%E4%B8%AA%E7%81%B5%E7%8F%A0%23" target="weibo">
 两个魔丸生了个灵珠（热度：423000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%91%E9%9B%BE%23" target="weibo">
+脑雾（热度：421533）
 </a>
 </li>
 
@@ -3863,6 +3887,12 @@ NCT（热度：372369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%B0%8F%E8%95%99%E8%AE%A9%E9%98%9A%E6%B8%85%E5%AD%90%E6%94%BE%E4%B8%8B%E8%BF%87%E5%8E%BB%23" target="weibo">
 章小蕙让阚清子放下过去（热度：371529）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%20%E7%9F%A5%E5%90%A6%23" target="weibo">
+楚乔传 知否（热度：371486）
 </a>
 </li>
 
@@ -4589,6 +4619,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E5%BC%80%E6%92%AD%23" target="weibo">
 月鳞绮纪开播（热度：324315）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BB%B3%E5%89%B2%E6%96%AD%E6%B0%94%E7%AE%A1%E7%94%B7%E5%AD%A9%E5%AE%B6%E5%A2%83%E5%BE%88%E4%B8%8D%E5%A5%BD%23" target="weibo">
+被绳割断气管男孩家境很不好（热度：324146）
 </a>
 </li>
 
@@ -5961,6 +5997,12 @@ Angelababy邓超去看陈赫话剧（热度：265771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%23" target="weibo">
+妈妈辅导作业被气到引爆脑瘤（热度：260879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A9%97%E5%B8%A6%E5%A8%83%E7%9C%8B%E5%B0%8F%E5%8A%A8%E7%89%A9%23" target="weibo">
 何穗带娃看小动物（热度：260271）
 </a>
@@ -5969,48 +6011,6 @@ Angelababy邓超去看陈赫话剧（热度：265771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%89%98%E9%97%BA%E8%9C%9C%E7%85%A7%E9%A1%BE5%E5%8F%AA%E7%8C%AB%E4%B8%8D%E6%96%99%E5%85%A8%E8%A2%AB%E9%A5%BF%E6%AD%BB%23" target="weibo">
 女生托闺蜜照顾5只猫不料全被饿死（热度：260154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%94%9F%E4%BA%8C%E8%83%8E%E5%90%8E%E8%8A%B1%E5%A5%BD%E5%87%A0%E5%B9%B4%E6%89%8D%E7%98%A6%E4%B8%8B%E6%9D%A5%23" target="weibo">
-郭碧婷生二胎后花好几年才瘦下来（热度：260090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A843%E5%B2%81%E7%8A%B6%E6%80%81%23" target="weibo">
-林依晨43岁状态（热度：260061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%95%B8%E8%A2%AB%E8%B5%8C%E7%8E%8B%E7%A7%B0%E4%B8%BA%E6%9C%80%E8%83%BD%E5%B8%AE%E5%BF%99%E7%9A%84%E5%A5%B3%E5%84%BF%23" target="weibo">
-何超蕸被赌王称为最能帮忙的女儿（热度：260051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%975%E5%90%8D%E6%95%99%E6%8E%8860%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-伊朗5名教授60多名大学生遭袭身亡（热度：259445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%91%E7%9C%9F%E8%83%BD%E8%8A%B1100%E4%B8%87%23" target="weibo">
-原来我真能花100万（热度：259278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%81%9C%E6%88%98%E6%8F%90%E8%AE%AE%23" target="weibo">
-伊朗回应美方停战提议（热度：259038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%23" target="weibo">
-白日提灯（热度：258865）
 </a>
 </li>
 
@@ -6227,6 +6227,12 @@ Angelababy邓超去看陈赫话剧（热度：265771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%BF%83%23%23" target="weibo">
 #人民之心#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%AF%84%E6%9C%9B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%23%23" target="weibo">
+#习近平主席寄望中美青年#
 </a>
 </li>
 
