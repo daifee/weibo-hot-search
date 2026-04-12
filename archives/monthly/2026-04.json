@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775965952699,
+  "endTime": 1775973618584,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -776,6 +776,14 @@
       "word": "孙怡送了一个白眼给芒果",
       "onboard_time": 1775876900,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1137928,
+      "num": 1182068,
+      "word": "你们俩是要毁了芒果吗",
+      "onboard_time": 1775968641,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -2787,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540385,
+      "num": 540385,
+      "word": "赵子琪 一分钟不多呆",
+      "onboard_time": 1775969722,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540329,
       "num": 540329,
       "word": "邓超称4月4日五哈播不了了",
@@ -3616,6 +3632,14 @@
       "word": "何宣林回应是孟子义班主任",
       "onboard_time": 1775289799,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 456815,
+      "num": 180638,
+      "word": "孙怡直播啃火腿肠",
+      "onboard_time": 1775968700,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -8819,6 +8843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227106,
+      "num": 144298,
+      "word": "杨超越 虎鲸",
+      "onboard_time": 1775972780,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227056,
       "num": 227056,
       "word": "许昕说国家队大门永远给所有人打开",
@@ -9363,6 +9395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214053,
+      "num": 143579,
+      "word": "高三学生学习困难去医院测出智障",
+      "onboard_time": 1775964500,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214046,
       "num": 214046,
       "word": "伊朗通报谈判进展",
@@ -9385,6 +9425,14 @@
       "onboard_time": 1775020226,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213787,
+      "num": 140412,
+      "word": "曝旺仔小乔要复出了",
+      "onboard_time": 1775967501,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 213785,
@@ -10001,6 +10049,14 @@
       "onboard_time": 1775361740,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199588,
+      "num": 138021,
+      "word": "郭碧婷生二胎后花好几年才瘦下来",
+      "onboard_time": 1775970681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 199242,
@@ -10891,6 +10947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181115,
+      "num": 181115,
+      "word": "90后女子后背疼9分钟完成心梗自救",
+      "onboard_time": 1775969540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180726,
       "num": 161467,
       "word": "全糖半糖无糖",
@@ -10961,6 +11025,14 @@
       "onboard_time": 1775524882,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179809,
+      "num": 179809,
+      "word": "95后姑娘养6万多条毒蛇年入百万",
+      "onboard_time": 1775971462,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179776,
@@ -11289,6 +11361,14 @@
       "onboard_time": 1775710283,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173157,
+      "num": 136787,
+      "word": "大冰告诫年轻人不要在单位聊私事",
+      "onboard_time": 1775968641,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 173146,
@@ -11625,14 +11705,6 @@
       "onboard_time": 1775040203,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167612,
-      "num": 117672,
-      "word": "高三学生学习困难去医院测出智障",
-      "onboard_time": 1775964500,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167592,
@@ -12715,6 +12787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151851,
+      "num": 151851,
+      "word": "网约车司机车内卖现磨咖啡",
+      "onboard_time": 1775966239,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151529,
       "num": 73959,
       "word": "肖战说的话只能信一半",
@@ -13497,6 +13577,14 @@
       "onboard_time": 1775104881,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141266,
+      "num": 130958,
+      "word": "宁艺卓 我再也不玩抽象了",
+      "onboard_time": 1775972901,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 141144,
@@ -14875,6 +14963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127532,
+      "num": 127532,
+      "word": "张凌赫小狗塑是田曦薇的限定款",
+      "onboard_time": 1775965761,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127407,
       "num": 75565,
       "word": "江苏一女子逛商场上厕所零隔断",
@@ -16171,6 +16267,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 116969,
+      "num": 134006,
+      "word": "美军宣布在霍尔木兹海峡扫雷",
+      "onboard_time": 1775971161,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116943,
       "num": 115741,
       "word": "包文婧说对第二胎没那么上心",
@@ -16305,6 +16409,14 @@
       "onboard_time": 1775950219,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115544,
+      "num": 115544,
+      "word": "伊朗媒体公布伊美谈判过程",
+      "onboard_time": 1775970622,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115311,
@@ -18539,6 +18651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101018,
+      "num": 120711,
+      "word": "男子肝癌去世妹妹一人带5个娃",
+      "onboard_time": 1775969900,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100962,
       "num": 100962,
       "word": "洲际酒店回应被约谈",
@@ -18785,6 +18905,14 @@
       "onboard_time": 1775370320,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99578,
+      "num": 99578,
+      "word": "郝蕾说演员没工作都扎堆短剧了",
+      "onboard_time": 1775970622,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 99502,
@@ -19145,6 +19273,14 @@
       "onboard_time": 1775185160,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97781,
+      "num": 97781,
+      "word": "吴镇宇说科班演员吃不了短剧苦",
+      "onboard_time": 1775968460,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 97743,
@@ -19513,6 +19649,14 @@
       "onboard_time": 1775258778,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96054,
+      "num": 96054,
+      "word": "朱志鑫 师傅你快走啊",
+      "onboard_time": 1775971341,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 95929,
@@ -21011,6 +21155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89213,
+      "num": 89213,
+      "word": "护住周深的常州保安火了",
+      "onboard_time": 1775971640,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 89208,
       "num": 89208,
       "word": "11岁男孩偷拿钥匙开车出车位就撞了",
@@ -21851,6 +22003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 86129,
+      "num": 97842,
+      "word": "小猫自己用牙刷刷牙",
+      "onboard_time": 1775972182,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86110,
       "num": 86110,
       "word": "金子涵想拥有自己的家庭",
@@ -22179,14 +22339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85044,
-      "num": 85044,
-      "word": "张凌赫小狗塑是田曦薇的限定款",
-      "onboard_time": 1775965761,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85033,
       "num": 85033,
       "word": "王楚钦孙逊复盘比赛",
@@ -22241,6 +22393,14 @@
       "onboard_time": 1775000781,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84881,
+      "num": 94565,
+      "word": "王曼昱我再启航",
+      "onboard_time": 1775970500,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 84845,
@@ -22771,6 +22931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82641,
+      "num": 90156,
+      "word": "张万森 下柳絮了",
+      "onboard_time": 1775973440,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82607,
       "num": 82607,
       "word": "松岛辉空晋级世界杯四强",
@@ -22995,6 +23163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81709,
+      "num": 116029,
+      "word": "允许引进精良台湾电视剧在大陆播出",
+      "onboard_time": 1775971699,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81657,
       "num": 81657,
       "word": "谢楠发芒果跳刀马",
@@ -23177,6 +23353,14 @@
       "onboard_time": 1775284340,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80871,
+      "num": 97811,
+      "word": "DFM对战TE",
+      "onboard_time": 1775973141,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 80869,
@@ -23497,6 +23681,14 @@
       "onboard_time": 1775955440,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79601,
+      "num": 79601,
+      "word": "高校拟租套均800万豪宅当学生宿舍",
+      "onboard_time": 1775973440,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79559,
@@ -25497,6 +25689,14 @@
       "onboard_time": 1775118922,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72174,
+      "num": 72174,
+      "word": "光与夜之恋",
+      "onboard_time": 1775968700,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 72104,
@@ -28875,6 +29075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54929,
+      "num": 72121,
+      "word": "常州高兴得不知天地为何物了",
+      "onboard_time": 1775966479,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54854,
       "num": 167200,
       "word": "五月天鸟巢演唱会抢票",
@@ -30395,6 +30603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38722,
+      "num": 151678,
+      "word": "Tabe回应不敌TES",
+      "onboard_time": 1775970802,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38720,
       "num": 38720,
       "word": "孟子义何与百花杀周年合照",
@@ -30449,6 +30665,14 @@
       "onboard_time": 1775287640,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38217,
+      "num": 150100,
+      "word": "大英赛答案",
+      "onboard_time": 1775973561,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 38072,
@@ -30649,6 +30873,14 @@
       "onboard_time": 1775577201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35052,
+      "num": 142163,
+      "word": "70多款机器人深夜竞速",
+      "onboard_time": 1775969302,
+      "rank": 17,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 35044,
@@ -32033,6 +32265,14 @@
       "onboard_time": 1775689698,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19592,
+      "num": 98112,
+      "word": "alin又来修音响了",
+      "onboard_time": 1775971699,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 19394,

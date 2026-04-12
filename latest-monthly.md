@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 11:52:32
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/12 14:00:18
 </p>
 </blockquote>
 <p>
@@ -593,6 +593,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%80%81%E4%BA%86%E4%B8%80%E4%B8%AA%E7%99%BD%E7%9C%BC%E7%BB%99%E8%8A%92%E6%9E%9C%23" target="weibo">
 孙怡送了一个白眼给芒果（热度：1142829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E4%BF%A9%E6%98%AF%E8%A6%81%E6%AF%81%E4%BA%86%E8%8A%92%E6%9E%9C%E5%90%97%23" target="weibo">
+你们俩是要毁了芒果吗（热度：1137928）
 </a>
 </li>
 
@@ -2103,6 +2109,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%20%E4%B8%80%E5%88%86%E9%92%9F%E4%B8%8D%E5%A4%9A%E5%91%86%23" target="weibo">
+赵子琪 一分钟不多呆（热度：540385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%A7%B04%E6%9C%884%E6%97%A5%E4%BA%94%E5%93%88%E6%92%AD%E4%B8%8D%E4%BA%86%E4%BA%86%23" target="weibo">
 邓超称4月4日五哈播不了了（热度：540329）
 </a>
@@ -2723,6 +2735,12 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%E5%9B%9E%E5%BA%94%E6%98%AF%E5%AD%9F%E5%AD%90%E4%B9%89%E7%8F%AD%E4%B8%BB%E4%BB%BB%23" target="weibo">
 何宣林回应是孟子义班主任（热度：458789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E7%9B%B4%E6%92%AD%E5%95%83%E7%81%AB%E8%85%BF%E8%82%A0%23" target="weibo">
+孙怡直播啃火腿肠（热度：456815）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ B站官宣暂停广告（热度：251125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%BD%A0%23" target="weibo">
 是你（热度：250888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BB%88%E7%84%89%E4%B9%8B%E5%9C%B0%23" target="weibo">
-十日终焉欢迎来到终焉之地（热度：250867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%84%BF%E5%AD%90%E8%A6%81%E5%AD%A6%E4%B8%AD%E8%8B%B1%E9%9F%A9%E4%B8%89%E9%97%A8%E8%AF%AD%E8%A8%80%23" target="weibo">
-秋瓷炫儿子要学中英韩三门语言（热度：250651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E5%8F%91%E9%9D%92%E5%B2%9B%23" target="weibo">
-肖战出发青岛（热度：250169）
 </a>
 </li>
 

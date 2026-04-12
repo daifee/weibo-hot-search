@@ -1,7 +1,15 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1775965952699,
+  "endTime": 1775973618584,
   "band_list": [
+    {
+      "raw_hot": 1137928,
+      "num": 1182068,
+      "word": "你们俩是要毁了芒果吗",
+      "onboard_time": 1775968641,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 990055,
       "num": 186482,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540385,
+      "num": 540385,
+      "word": "赵子琪 一分钟不多呆",
+      "onboard_time": 1775969722,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510451,
       "num": 191182,
       "word": "孟子义突发身体不适",
@@ -113,6 +129,14 @@
       "onboard_time": 1775950578,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456815,
+      "num": 180638,
+      "word": "孙怡直播啃火腿肠",
+      "onboard_time": 1775968700,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 403803,
@@ -251,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227106,
+      "num": 144298,
+      "word": "杨超越 虎鲸",
+      "onboard_time": 1775972780,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216583,
       "num": 108761,
       "word": "小狗洗澡洗得太干净主人懵了",
@@ -259,12 +291,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214053,
+      "num": 143579,
+      "word": "高三学生学习困难去医院测出智障",
+      "onboard_time": 1775964500,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214046,
       "num": 214046,
       "word": "伊朗通报谈判进展",
       "onboard_time": 1775957600,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213787,
+      "num": 140412,
+      "word": "曝旺仔小乔要复出了",
+      "onboard_time": 1775967501,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 208303,
@@ -283,12 +331,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199588,
+      "num": 138021,
+      "word": "郭碧婷生二胎后花好几年才瘦下来",
+      "onboard_time": 1775970681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
       "onboard_time": 1775912664,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181115,
+      "num": 181115,
+      "word": "90后女子后背疼9分钟完成心梗自救",
+      "onboard_time": 1775969540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179809,
+      "num": 179809,
+      "word": "95后姑娘养6万多条毒蛇年入百万",
+      "onboard_time": 1775971462,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179369,
@@ -315,19 +387,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173157,
+      "num": 136787,
+      "word": "大冰告诫年轻人不要在单位聊私事",
+      "onboard_time": 1775968641,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170607,
       "num": 131657,
       "word": "7岁男童冲出马路被撞交警判全责",
       "onboard_time": 1775950757,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167612,
-      "num": 117672,
-      "word": "高三学生学习困难去医院测出智障",
-      "onboard_time": 1775964500,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -371,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151851,
+      "num": 151851,
+      "word": "网约车司机车内卖现磨咖啡",
+      "onboard_time": 1775966239,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143441,
       "num": 143441,
       "word": "吴京好好在家带孩子",
@@ -387,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141266,
+      "num": 130958,
+      "word": "宁艺卓 我再也不玩抽象了",
+      "onboard_time": 1775972901,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137982,
       "num": 73994,
       "word": "张婉婷回应宋宁峰借钱还网贷",
@@ -401,6 +489,14 @@
       "onboard_time": 1775918124,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127532,
+      "num": 127532,
+      "word": "张凌赫小狗塑是田曦薇的限定款",
+      "onboard_time": 1775965761,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127349,
@@ -459,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116969,
+      "num": 134006,
+      "word": "美军宣布在霍尔木兹海峡扫雷",
+      "onboard_time": 1775971161,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115895,
       "num": 187578,
       "word": "狼队超话大文豪",
@@ -489,6 +593,14 @@
       "onboard_time": 1775950219,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115544,
+      "num": 115544,
+      "word": "伊朗媒体公布伊美谈判过程",
+      "onboard_time": 1775970622,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113669,
@@ -595,6 +707,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101018,
+      "num": 120711,
+      "word": "男子肝癌去世妹妹一人带5个娃",
+      "onboard_time": 1775969900,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99578,
+      "num": 99578,
+      "word": "郝蕾说演员没工作都扎堆短剧了",
+      "onboard_time": 1775970622,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "江语晨前夫",
@@ -603,12 +731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97781,
+      "num": 97781,
+      "word": "吴镇宇说科班演员吃不了短剧苦",
+      "onboard_time": 1775968460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96063,
       "num": 182102,
       "word": "俩弟弟长得像妈妈哥哥却长得像爸爸",
       "onboard_time": 1775916205,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96054,
+      "num": 96054,
+      "word": "朱志鑫 师傅你快走啊",
+      "onboard_time": 1775971341,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 95611,
@@ -651,11 +795,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89213,
+      "num": 89213,
+      "word": "护住周深的常州保安火了",
+      "onboard_time": 1775971640,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 86793,
       "num": 86793,
       "word": "异瞳三花麒麟尾小猫",
       "onboard_time": 1775964140,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86129,
+      "num": 97842,
+      "word": "小猫自己用牙刷刷牙",
+      "onboard_time": 1775972182,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -667,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85044,
-      "num": 85044,
-      "word": "张凌赫小狗塑是田曦薇的限定款",
-      "onboard_time": 1775965761,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 84881,
+      "num": 94565,
+      "word": "王曼昱我再启航",
+      "onboard_time": 1775970500,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 84580,
@@ -699,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82641,
+      "num": 90156,
+      "word": "张万森 下柳絮了",
+      "onboard_time": 1775973440,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82335,
       "num": 68558,
       "word": "巴基斯坦总理分别会见伊美谈判成员",
@@ -713,6 +881,30 @@
       "onboard_time": 1775947516,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81709,
+      "num": 116029,
+      "word": "允许引进精良台湾电视剧在大陆播出",
+      "onboard_time": 1775971699,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81036,
+      "num": 77338,
+      "word": "十日终焉",
+      "onboard_time": 1775966719,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80871,
+      "num": 97811,
+      "word": "DFM对战TE",
+      "onboard_time": 1775973141,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 79668,
@@ -731,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79601,
+      "num": 79601,
+      "word": "高校拟租套均800万豪宅当学生宿舍",
+      "onboard_time": 1775973440,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -745,6 +945,14 @@
       "onboard_time": 1775965580,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75733,
+      "num": 75733,
+      "word": "钢铁森林",
+      "onboard_time": 1775972660,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 75638,
@@ -785,6 +993,14 @@
       "onboard_time": 1775915183,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72174,
+      "num": 72174,
+      "word": "光与夜之恋",
+      "onboard_time": 1775968700,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 68967,
@@ -841,6 +1057,14 @@
       "onboard_time": 1775931976,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 54929,
+      "num": 72121,
+      "word": "常州高兴得不知天地为何物了",
+      "onboard_time": 1775966479,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 54041,
@@ -1059,12 +1283,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38722,
+      "num": 151678,
+      "word": "Tabe回应不敌TES",
+      "onboard_time": 1775970802,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 38217,
+      "num": 150100,
+      "word": "大英赛答案",
+      "onboard_time": 1775973561,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 37590,
       "num": 37590,
       "word": "孙怡有种老实人被气疯了的感觉",
       "onboard_time": 1775906901,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35052,
+      "num": 142163,
+      "word": "70多款机器人深夜竞速",
+      "onboard_time": 1775969302,
+      "rank": 17,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 34348,
@@ -1208,6 +1456,14 @@
       "word": "张杰演唱会",
       "onboard_time": 1775921243,
       "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 19592,
+      "num": 98112,
+      "word": "alin又来修音响了",
+      "onboard_time": 1775971699,
+      "rank": 33,
       "category": "演出"
     },
     {

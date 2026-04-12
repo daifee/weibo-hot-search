@@ -1,0 +1,410 @@
+{
+  "runTime": 1775973618584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137928,
+        "num": 1182068,
+        "word": "你们俩是要毁了芒果吗",
+        "onboard_time": 1775968641,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232685,
+        "num": 850020,
+        "word": "野生母狼怀孕后主动到保护站待产",
+        "onboard_time": 1775960601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 652775,
+        "word": "中国船舶出品真的一屏放不下",
+        "onboard_time": 1775959039,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540385,
+        "num": 540385,
+        "word": "赵子琪 一分钟不多呆",
+        "onboard_time": 1775969722,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181115,
+        "num": 181115,
+        "word": "90后女子后背疼9分钟完成心梗自救",
+        "onboard_time": 1775969540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456815,
+        "num": 180638,
+        "word": "孙怡直播啃火腿肠",
+        "onboard_time": 1775968700,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179809,
+        "num": 179809,
+        "word": "95后姑娘养6万多条毒蛇年入百万",
+        "onboard_time": 1775971462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151851,
+        "num": 151851,
+        "word": "网约车司机车内卖现磨咖啡",
+        "onboard_time": 1775966239,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38722,
+        "num": 151678,
+        "word": "Tabe回应不敌TES",
+        "onboard_time": 1775970802,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38217,
+        "num": 150100,
+        "word": "大英赛答案",
+        "onboard_time": 1775973561,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404897,
+        "num": 148844,
+        "word": "孙怡阚清子直播零互动",
+        "onboard_time": 1775949736,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298704,
+        "num": 148716,
+        "word": "胡先煦十日终焉被曝1天杀青",
+        "onboard_time": 1775962640,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229253,
+        "num": 146816,
+        "word": "美向伊朗提出最终方案",
+        "onboard_time": 1775961022,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37315,
+        "num": 146626,
+        "word": "大英赛",
+        "onboard_time": 1775964019,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239344,
+        "num": 145617,
+        "word": "孟子义突发身体不适",
+        "onboard_time": 1775961261,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227106,
+        "num": 144298,
+        "word": "杨超越 虎鲸",
+        "onboard_time": 1775972780,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214053,
+        "num": 143579,
+        "word": "高三学生学习困难去医院测出智障",
+        "onboard_time": 1775964500,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35052,
+        "num": 142163,
+        "word": "70多款机器人深夜竞速",
+        "onboard_time": 1775969302,
+        "rank": 17,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 226853,
+        "num": 140605,
+        "word": "王濛 色令智昏",
+        "onboard_time": 1775963180,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213787,
+        "num": 140412,
+        "word": "曝旺仔小乔要复出了",
+        "onboard_time": 1775967501,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139485,
+        "num": 139485,
+        "word": "不要穿浅色去做妆造",
+        "onboard_time": 1775961080,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199588,
+        "num": 138021,
+        "word": "郭碧婷生二胎后花好几年才瘦下来",
+        "onboard_time": 1775970681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173157,
+        "num": 136787,
+        "word": "大冰告诫年轻人不要在单位聊私事",
+        "onboard_time": 1775968641,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116969,
+        "num": 134006,
+        "word": "美军宣布在霍尔木兹海峡扫雷",
+        "onboard_time": 1775971161,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141266,
+        "num": 130958,
+        "word": "宁艺卓 我再也不玩抽象了",
+        "onboard_time": 1775972901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129874,
+        "num": 129874,
+        "word": "好美 好难听",
+        "onboard_time": 1775962700,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32428,
+        "num": 128407,
+        "word": "宇树机器人百米冲刺10米每秒",
+        "onboard_time": 1775952559,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127532,
+        "num": 127532,
+        "word": "张凌赫小狗塑是田曦薇的限定款",
+        "onboard_time": 1775965761,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101018,
+        "num": 120711,
+        "word": "男子肝癌去世妹妹一人带5个娃",
+        "onboard_time": 1775969900,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81709,
+        "num": 116029,
+        "word": "允许引进精良台湾电视剧在大陆播出",
+        "onboard_time": 1775971699,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115544,
+        "num": 115544,
+        "word": "伊朗媒体公布伊美谈判过程",
+        "onboard_time": 1775970622,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104402,
+        "num": 104402,
+        "word": "采茶女",
+        "onboard_time": 1775965160,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99578,
+        "num": 99578,
+        "word": "郝蕾说演员没工作都扎堆短剧了",
+        "onboard_time": 1775970622,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19592,
+        "num": 98112,
+        "word": "alin又来修音响了",
+        "onboard_time": 1775971699,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86129,
+        "num": 97842,
+        "word": "小猫自己用牙刷刷牙",
+        "onboard_time": 1775972182,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80871,
+        "num": 97811,
+        "word": "DFM对战TE",
+        "onboard_time": 1775973141,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97781,
+        "num": 97781,
+        "word": "吴镇宇说科班演员吃不了短剧苦",
+        "onboard_time": 1775968460,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96054,
+        "num": 96054,
+        "word": "朱志鑫 师傅你快走啊",
+        "onboard_time": 1775971341,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84881,
+        "num": 94565,
+        "word": "王曼昱我再启航",
+        "onboard_time": 1775970500,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94409,
+        "num": 94409,
+        "word": "心愿便利贴 万通筋骨贴",
+        "onboard_time": 1775961740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92478,
+        "num": 92478,
+        "word": "鹿晗卖家秀邓超买家秀",
+        "onboard_time": 1775963840,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82641,
+        "num": 90156,
+        "word": "张万森 下柳絮了",
+        "onboard_time": 1775973440,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89213,
+        "num": 89213,
+        "word": "护住周深的常州保安火了",
+        "onboard_time": 1775971640,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85936,
+        "num": 85936,
+        "word": "谢娜演唱会用张杰的团队",
+        "onboard_time": 1775954481,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79601,
+        "num": 79601,
+        "word": "高校拟租套均800万豪宅当学生宿舍",
+        "onboard_time": 1775973440,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77376,
+        "num": 77376,
+        "word": "女孩追星被骗爸爸受伤家有4个孩子",
+        "onboard_time": 1775954721,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81036,
+        "num": 77338,
+        "word": "十日终焉",
+        "onboard_time": 1775966719,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75733,
+        "num": 75733,
+        "word": "钢铁森林",
+        "onboard_time": 1775972660,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72174,
+        "num": 72174,
+        "word": "光与夜之恋",
+        "onboard_time": 1775968700,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54929,
+        "num": 72121,
+        "word": "常州高兴得不知天地为何物了",
+        "onboard_time": 1775966479,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民之心#"
+    }
+  }
+}
