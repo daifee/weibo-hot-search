@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776009628850,
+  "endTime": 1776012677423,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -675,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242709,
+      "num": 126036,
+      "word": "井柏然胡巴妈",
+      "onboard_time": 1776010221,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240935,
       "num": 192236,
       "word": "女孩追星被骗爸爸受伤家有4个孩子",
@@ -1115,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145547,
+      "num": 145547,
+      "word": "伊朗伊斯兰革命卫队海军发出警告",
+      "onboard_time": 1776007344,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143780,
       "num": 187942,
       "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
@@ -1171,6 +1187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140334,
+      "num": 140334,
+      "word": "柳致敏",
+      "onboard_time": 1776006563,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140074,
+      "num": 140074,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1776008601,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139830,
       "num": 139830,
       "word": "逃单奥迪车驾驶人已被拘留",
@@ -1211,12 +1243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131101,
-      "num": 131101,
-      "word": "柳致敏",
-      "onboard_time": 1776006563,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 132021,
+      "num": 132021,
+      "word": "张雪机车竞拍者拒绝加价500万转售",
+      "onboard_time": 1776006923,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130553,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1775919084,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125155,
-      "num": 125155,
-      "word": "伊朗伊斯兰革命卫队海军发出警告",
-      "onboard_time": 1776007344,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124572,
@@ -1491,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112015,
-      "num": 112015,
-      "word": "张雪机车竞拍者拒绝加价500万转售",
-      "onboard_time": 1776006923,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111194,
       "num": 179636,
       "word": "部分商家承认120W是充电器商标",
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 101677,
-      "num": 101677,
+      "num": 131638,
       "word": "BLG战胜WBG",
       "onboard_time": 1776003142,
       "rank": 42,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1775985742,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96990,
-      "num": 96990,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1776008601,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 96890,
@@ -2323,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73927,
+      "num": 73927,
+      "word": "男子住48元宾馆身亡家属索赔被驳回",
+      "onboard_time": 1776009921,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 73898,
       "num": 73898,
       "word": "25岁猫咪全记录",
@@ -2651,6 +2667,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 52489,
+      "num": 52489,
+      "word": "张杰给鸟巢造了星空顶",
+      "onboard_time": 1776009861,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52402,
       "num": 174274,
       "word": "SK教练",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1775927360,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51986,
+      "num": 51986,
+      "word": "脑雾到底是个啥",
+      "onboard_time": 1776010221,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 50801,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1775978423,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46945,
+      "num": 46945,
+      "word": "法官被曝在办公室猥亵离婚案当事人",
+      "onboard_time": 1776012437,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45216,
@@ -2905,6 +2945,14 @@
       "onboard_time": 1775906901,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37286,
+      "num": 43776,
+      "word": "伊朗称拦截美舰进入霍尔木兹海峡",
+      "onboard_time": 1776009621,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37225,
