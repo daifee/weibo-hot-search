@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1775992034499,
+  "endTime": 1775994066394,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -331,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1832312,
+      "num": 990407,
+      "word": "田朴珺回应网传王石被抓",
+      "onboard_time": 1775991981,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1809617,
       "num": 180762,
       "word": "赵子琪硬刚浪姐",
       "onboard_time": 1775980582,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1767766,
+      "num": 181327,
+      "word": "李荣浩真转我五百了",
+      "onboard_time": 1775990481,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 1741031,
@@ -953,14 +969,6 @@
       "onboard_time": 1775914463,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1015878,
-      "num": 181327,
-      "word": "李荣浩真转我五百了",
-      "onboard_time": 1775990481,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 1009750,
@@ -3307,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503735,
+      "num": 503735,
+      "word": "逝者托梦家属投诉入殓师未脱纸尿裤",
+      "onboard_time": 1775992761,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503082,
       "num": 103644,
       "word": "50岁大妈被女儿27岁男同学骚扰",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1775397985,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425086,
+      "num": 167940,
+      "word": "业内称平台不再相信演员能单扛了",
+      "onboard_time": 1775987961,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 424121,
@@ -6083,14 +6107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 323696,
-      "num": 167940,
-      "word": "业内称平台不再相信演员能单扛了",
-      "onboard_time": 1775987961,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323693,
       "num": 521927,
       "word": "袁咏仪说浪姐请不到我李心洁请到",
@@ -6665,6 +6681,14 @@
       "onboard_time": 1775057063,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303749,
+      "num": 752502,
+      "word": "王濛公司大部分是退役运动员",
+      "onboard_time": 1775983700,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 303032,
@@ -8411,6 +8435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 244810,
+      "num": 118001,
+      "word": "钢铁森林 删吻戏",
+      "onboard_time": 1775992040,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244778,
       "num": 192780,
       "word": "特朗普称能轻易恢复对伊朗动武",
@@ -8537,14 +8569,6 @@
       "onboard_time": 1775119461,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242639,
-      "num": 752502,
-      "word": "王濛公司大部分是退役运动员",
-      "onboard_time": 1775983700,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 242413,
@@ -8921,6 +8945,14 @@
       "onboard_time": 1775539522,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231604,
+      "num": 231604,
+      "word": "浪姐封神舞台",
+      "onboard_time": 1775988681,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 231429,
@@ -9716,7 +9748,7 @@
     },
     {
       "raw_hot": 213340,
-      "num": 213340,
+      "num": 526693,
       "word": "仙逆",
       "onboard_time": 1775387123,
       "rank": 25,
@@ -10089,6 +10121,14 @@
       "onboard_time": 1775048603,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203912,
+      "num": 114831,
+      "word": "百妖谱 刘些宁",
+      "onboard_time": 1775991742,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 203905,
@@ -11771,6 +11811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171377,
+      "num": 171377,
+      "word": "雪碧拌面",
+      "onboard_time": 1775987661,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171270,
       "num": 133542,
       "word": "国内金饰价格大跌",
@@ -12257,14 +12305,6 @@
       "onboard_time": 1775373261,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163327,
-      "num": 163327,
-      "word": "雪碧拌面",
-      "onboard_time": 1775987661,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 163072,
@@ -13731,14 +13771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143025,
-      "num": 135155,
-      "word": "浪姐封神舞台",
-      "onboard_time": 1775988681,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142998,
       "num": 142998,
       "word": "张予曦毕雯珺官宣新综艺",
@@ -14161,6 +14193,14 @@
       "onboard_time": 1775527399,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138755,
+      "num": 118685,
+      "word": "石宇奇首夺亚锦赛冠军",
+      "onboard_time": 1775992703,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 138650,
@@ -15035,6 +15075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130165,
+      "num": 111123,
+      "word": "被绳割断气管男孩家境很不好",
+      "onboard_time": 1775993001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130107,
       "num": 107078,
       "word": "科切拉",
@@ -15825,6 +15873,14 @@
       "onboard_time": 1775457503,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122713,
+      "num": 122713,
+      "word": "我轻断食2个小时后",
+      "onboard_time": 1775990240,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122689,
@@ -16812,7 +16868,7 @@
     },
     {
       "raw_hot": 115388,
-      "num": 99241,
+      "num": 108596,
       "word": "阚清子二公分组",
       "onboard_time": 1775990362,
       "rank": 42,
@@ -17012,7 +17068,7 @@
     },
     {
       "raw_hot": 113457,
-      "num": 99233,
+      "num": 107641,
       "word": "三甲医生回应郭碧婷二胎生育损伤",
       "onboard_time": 1775990181,
       "rank": 31,
@@ -17385,6 +17441,14 @@
       "onboard_time": 1775197524,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110658,
+      "num": 110658,
+      "word": "莫氏鸡煲老板终于是闲下来了",
+      "onboard_time": 1775992761,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110626,
@@ -22947,6 +23011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84975,
+      "num": 116785,
+      "word": "错换人生28年姚策养母索赔被驳回",
+      "onboard_time": 1775992761,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84928,
       "num": 465023,
       "word": "Uzi谈下一届乌兹杯",
@@ -23081,14 +23153,6 @@
       "onboard_time": 1775637322,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84465,
-      "num": 84465,
-      "word": "我轻断食2个小时后",
-      "onboard_time": 1775990240,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84422,
@@ -24819,14 +24883,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 77698,
-      "num": 77698,
-      "word": "百妖谱 刘些宁",
-      "onboard_time": 1775991742,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77690,
       "num": 77690,
       "word": "肖战花絮照",
@@ -25579,6 +25635,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 75402,
+      "num": 107792,
+      "word": "一直以为谈恋爱都是朋友转对象",
+      "onboard_time": 1775991200,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75347,
       "num": 96681,
       "word": "比亚迪3月销量夺冠中国车企",
@@ -25745,6 +25809,14 @@
       "onboard_time": 1775033843,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74644,
+      "num": 74644,
+      "word": "杨怡女儿6岁了",
+      "onboard_time": 1775992703,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 74571,
@@ -26777,14 +26849,6 @@
       "onboard_time": 1775701221,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70944,
-      "num": 70944,
-      "word": "一直以为谈恋爱都是朋友转对象",
-      "onboard_time": 1775991200,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 70926,
@@ -28067,6 +28131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65705,
+      "num": 65705,
+      "word": "莫叔说鸡煲店未必做到五一",
+      "onboard_time": 1775992881,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65681,
       "num": 65681,
       "word": "伊朗提交给美国的核心内容",
@@ -28459,6 +28531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63417,
+      "num": 63417,
+      "word": "楚乔传 知否",
+      "onboard_time": 1775994021,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63374,
       "num": 63374,
       "word": "Bin要全胜晋级MSI",
@@ -28529,6 +28609,14 @@
       "onboard_time": 1775481141,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63104,
+      "num": 61805,
+      "word": "五大联赛首位女性主教练",
+      "onboard_time": 1775992343,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63097,
@@ -32739,6 +32827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24206,
+      "num": 82004,
+      "word": "伊朗议长说美国未能赢得伊朗信任",
+      "onboard_time": 1775994021,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24153,
       "num": 140908,
       "word": "嫦娥七号腿式行走",
@@ -33539,6 +33635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14567,
+      "num": 113385,
+      "word": "吕梁中院一法官被指猥亵女当事人",
+      "onboard_time": 1775993841,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14545,
       "num": 20772,
       "word": "你会选择用AI复活逝去的亲人吗",
@@ -33817,6 +33921,14 @@
       "onboard_time": 1775638942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9983,
+      "num": 117211,
+      "word": "纽约地铁站发生持刀伤人",
+      "onboard_time": 1775993541,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9789,
