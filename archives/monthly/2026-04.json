@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776020497871,
+  "endTime": 1776021269945,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -33067,6 +33067,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 28843,
+      "num": 22863,
+      "word": "全球航司被迫涨价",
+      "onboard_time": 1776018195,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 28760,
       "num": 91156,
       "word": "女子称前夫离世遗产被其兄妹瓜分",
@@ -33297,14 +33305,6 @@
       "onboard_time": 1776014237,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26971,
-      "num": 22863,
-      "word": "全球航司被迫涨价",
-      "onboard_time": 1776018195,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 26920,
@@ -34081,6 +34081,14 @@
       "onboard_time": 1775933595,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18791,
+      "num": 18791,
+      "word": "王橹杰画的小小咴",
+      "onboard_time": 1776020834,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 18773,
