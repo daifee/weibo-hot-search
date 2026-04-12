@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776027791674,
+  "endTime": 1776030218032,
   "band_list": [
     {
       "raw_hot": 1492815,
@@ -467,20 +467,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42136,
+      "num": 42136,
+      "word": "王石已第4次被传失联被抓",
+      "onboard_time": 1776023594,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41165,
       "num": 41707,
       "word": "郭碧婷生一胎的时候没备孕",
       "onboard_time": 1775989521,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39224,
-      "num": 39224,
-      "word": "王石已第4次被传失联被抓",
-      "onboard_time": 1776023594,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37286,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 28843,
-      "num": 22863,
+      "num": 24432,
       "word": "全球航司被迫涨价",
       "onboard_time": 1776018195,
       "rank": 30,
@@ -555,15 +555,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18791,
-      "num": 22130,
-      "word": "王橹杰画的小小咴",
-      "onboard_time": 1776020834,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 21854,
+      "num": 24422,
+      "word": "北京逐步替换杨柳树雌株",
+      "onboard_time": 1776024793,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 18699,
+      "raw_hot": 19976,
       "num": 34401,
       "word": "女当事人回应被法官猥亵",
       "onboard_time": 1776016636,
@@ -571,44 +571,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18791,
+      "num": 24381,
+      "word": "王橹杰画的小小咴",
+      "onboard_time": 1776020834,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16616,
-      "num": 22826,
+      "num": 25121,
       "word": "山西一法官猥亵当事人纪检部门介入",
       "onboard_time": 1776010280,
       "rank": 42,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16137,
-      "num": 18068,
-      "word": "北京逐步替换杨柳树雌株",
-      "onboard_time": 1776024793,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15282,
-      "num": 22836,
+      "num": 24317,
       "word": "律师解读法官被指猥亵当事人",
       "onboard_time": 1776019275,
       "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11174,
-      "num": 22014,
-      "word": "苏新皓总结浪漫主义演唱会",
-      "onboard_time": 1776018014,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 10350,
-      "num": 17903,
+      "raw_hot": 13787,
+      "num": 24398,
       "word": "西班牙首相逛完鼓楼逛颐和园",
       "onboard_time": 1776025814,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11257,
+      "num": 24332,
+      "word": "苏新皓总结浪漫主义演唱会",
+      "onboard_time": 1776018014,
+      "rank": 43,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
