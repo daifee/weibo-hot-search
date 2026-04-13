@@ -1,0 +1,410 @@
+{
+  "runTime": 1776071222077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 396955,
+        "num": 1063512,
+        "word": "醉酒男子叫代驾到村口留置车内死亡",
+        "onboard_time": 1776065000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301952,
+        "num": 770659,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55771,
+        "num": 699861,
+        "word": "文旅消费迎来新爆发",
+        "onboard_time": 1776065181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655883,
+        "num": 655883,
+        "word": "孙燕姿演唱会官宣六站",
+        "onboard_time": 1776069741,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329988,
+        "num": 329988,
+        "word": "肠胃不好的人吃早餐belike",
+        "onboard_time": 1776065961,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599472,
+        "num": 329554,
+        "word": "三代禁学计算机",
+        "onboard_time": 1776067101,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269508,
+        "num": 269508,
+        "word": "李小冉 北舞已经是上个世纪的事了",
+        "onboard_time": 1776052641,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251734,
+        "num": 251734,
+        "word": "西班牙首相试坐小米汽车",
+        "onboard_time": 1776067700,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239170,
+        "num": 239170,
+        "word": "突然觉得小学老师好厉害",
+        "onboard_time": 1776064281,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170196,
+        "num": 170196,
+        "word": "车上放香皂",
+        "onboard_time": 1776054143,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1160459,
+        "num": 169556,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651344,
+        "num": 168382,
+        "word": "黄灿灿为防恶剪每天换发型",
+        "onboard_time": 1776062539,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296531,
+        "num": 166261,
+        "word": "钱天一论文提到孙颖莎",
+        "onboard_time": 1776070642,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487425,
+        "num": 163902,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375129,
+        "num": 162072,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183982,
+        "num": 161194,
+        "word": "伊朗对美国发出新警告",
+        "onboard_time": 1776064521,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352030,
+        "num": 158989,
+        "word": "继EXO的E不发音后陈也不发音",
+        "onboard_time": 1776067101,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158385,
+        "num": 158385,
+        "word": "西宁一面馆标语是对女性的直接冒犯",
+        "onboard_time": 1776067762,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48723,
+        "num": 155093,
+        "word": "华为PuraXMax",
+        "onboard_time": 1776049101,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26908,
+        "num": 153312,
+        "word": "梦龙关联芭蕾舞鞋广告已删除",
+        "onboard_time": 1776070642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323197,
+        "num": 148610,
+        "word": "宿迁真给何润东请来了",
+        "onboard_time": 1776067821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298720,
+        "num": 145138,
+        "word": "kimi都这么大了",
+        "onboard_time": 1776050900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162435,
+        "num": 143174,
+        "word": "美军舰距离被彻底摧毁仅差数分钟",
+        "onboard_time": 1776068901,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236521,
+        "num": 136744,
+        "word": "小S给林志玲擦泪",
+        "onboard_time": 1776067221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227008,
+        "num": 133299,
+        "word": "文章上海面馆价格",
+        "onboard_time": 1776053002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132270,
+        "num": 132270,
+        "word": "杨瀚森NBA首个赛季数据",
+        "onboard_time": 1776060682,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218543,
+        "num": 131810,
+        "word": "ally整容模版是迪丽热巴",
+        "onboard_time": 1776069261,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143214,
+        "num": 130714,
+        "word": "逐玉庆功宴",
+        "onboard_time": 1776052281,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129228,
+        "num": 129228,
+        "word": "女孩被拐后因长相被多次转卖",
+        "onboard_time": 1776071000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114854,
+        "num": 114854,
+        "word": "医院回应患者被吊仪器上1小时无人管",
+        "onboard_time": 1776068001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157957,
+        "num": 114422,
+        "word": "官俊臣 成绩",
+        "onboard_time": 1776059420,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139367,
+        "num": 113631,
+        "word": "TXT回归",
+        "onboard_time": 1776066261,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112383,
+        "num": 112383,
+        "word": "老人私栓绳致男孩被锁喉警方已介入",
+        "onboard_time": 1776069440,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 111118,
+        "word": "1991年跳舞的李小冉",
+        "onboard_time": 1776065841,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131092,
+        "num": 108392,
+        "word": "内娱开始反向播剧了",
+        "onboard_time": 1776070761,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99392,
+        "num": 105038,
+        "word": "3岁男童每晚睡前补营养体重仅21斤",
+        "onboard_time": 1776066981,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104760,
+        "num": 104760,
+        "word": "初代跑男曾经站位合影",
+        "onboard_time": 1776069921,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104482,
+        "num": 104482,
+        "word": "BIGBANG科切拉",
+        "onboard_time": 1776058939,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83116,
+        "num": 98347,
+        "word": "小猫舔毛时会帮你舔任何东西",
+        "onboard_time": 1776070880,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92619,
+        "num": 92619,
+        "word": "陆俊昊北电表演专业全国第一",
+        "onboard_time": 1776065662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90553,
+        "num": 90553,
+        "word": "时代少年团高会官宣演唱会",
+        "onboard_time": 1776054802,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82634,
+        "num": 82634,
+        "word": "中1500万彩票离职事件是真是假",
+        "onboard_time": 1776055822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82134,
+        "num": 82134,
+        "word": "男子结婚3年不公开关系称母亲反对",
+        "onboard_time": 1776068600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79407,
+        "num": 79407,
+        "word": "艾米艺考北电第三",
+        "onboard_time": 1776053964,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74790,
+        "num": 74790,
+        "word": "开拓者主帅谈杨瀚森首个赛季表现",
+        "onboard_time": 1776069560,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73794,
+        "num": 73794,
+        "word": "陈赫 短剧",
+        "onboard_time": 1776048980,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71058,
+        "num": 71058,
+        "word": "老师承诺爷爷离世后会抚养9岁男孩",
+        "onboard_time": 1776065361,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70708,
+        "num": 70708,
+        "word": "迪丽热巴花魁妆火到AI界了",
+        "onboard_time": 1776070521,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26230,
+        "num": 70102,
+        "word": "张雪离开凯越机车辞职信曝光",
+        "onboard_time": 1776052221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69728,
+        "num": 69728,
+        "word": "徐洁儿一公倒数第一",
+        "onboard_time": 1776060261,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#要致力于推进合作共赢的共同开放#"
+    }
+  }
+}

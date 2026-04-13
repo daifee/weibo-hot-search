@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776069075949,
+  "endTime": 1776071222077,
   "band_list": [
     {
       "raw_hot": 1742247,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1458149,
-      "num": 150213,
+      "num": 169556,
       "word": "楚乔传 全员下场",
       "onboard_time": 1776062901,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 855000,
-      "num": 149410,
+      "num": 168382,
       "word": "黄灿灿为防恶剪每天换发型",
       "onboard_time": 1776062539,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 695157,
-      "num": 748358,
+      "num": 770659,
       "word": "钟南山妻子正式进入篮球名人堂",
       "onboard_time": 1776059180,
       "rank": 30,
@@ -81,6 +81,14 @@
       "onboard_time": 1776067101,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 655883,
+      "num": 655883,
+      "word": "孙燕姿演唱会官宣六站",
+      "onboard_time": 1776069741,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 649416,
@@ -139,6 +147,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 487425,
+      "num": 163902,
+      "word": "眉姐姐斓曦怎么了",
+      "onboard_time": 1776070341,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481975,
       "num": 292911,
       "word": "霍思燕最争气的是她自己",
@@ -177,6 +193,14 @@
       "onboard_time": 1776036258,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 396955,
+      "num": 1063512,
+      "word": "醉酒男子叫代驾到村口留置车内死亡",
+      "onboard_time": 1776065000,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395951,
@@ -235,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352030,
+      "num": 158989,
+      "word": "继EXO的E不发音后陈也不发音",
+      "onboard_time": 1776067101,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349553,
       "num": 291413,
       "word": "灯花笑 田曦薇",
@@ -251,6 +283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 329988,
+      "num": 329988,
+      "word": "肠胃不好的人吃早餐belike",
+      "onboard_time": 1776065961,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324458,
       "num": 144788,
       "word": "赵子琪硬刚浪姐",
@@ -259,20 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323797,
-      "num": 1051807,
-      "word": "醉酒男子叫代驾到村口留置车内死亡",
-      "onboard_time": 1776065000,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 323338,
       "num": 289654,
       "word": "61岁男子手术后在飞机上身亡",
       "onboard_time": 1776048500,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323197,
+      "num": 148610,
+      "word": "宿迁真给何润东请来了",
+      "onboard_time": 1776067821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 321840,
@@ -315,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296531,
+      "num": 166261,
+      "word": "钱天一论文提到孙颖莎",
+      "onboard_time": 1776070642,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286437,
       "num": 286437,
       "word": "徐艺洋竟然和孙怡合作过",
@@ -323,16 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278967,
-      "num": 278967,
-      "word": "肠胃不好的人吃早餐belike",
-      "onboard_time": 1776065961,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278558,
-      "num": 148399,
+      "num": 251734,
       "word": "西班牙首相试坐小米汽车",
       "onboard_time": 1776067700,
       "rank": 13,
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 269261,
-      "num": 150889,
+      "num": 161194,
       "word": "伊朗对美国发出新警告",
       "onboard_time": 1776064521,
       "rank": 10,
@@ -395,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236521,
+      "num": 136744,
+      "word": "小S给林志玲擦泪",
+      "onboard_time": 1776067221,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235322,
       "num": 235322,
       "word": "伊朗曝美方要均分霍尔木兹收益",
@@ -441,6 +489,14 @@
       "onboard_time": 1775975301,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218543,
+      "num": 131810,
+      "word": "ally整容模版是迪丽热巴",
+      "onboard_time": 1776069261,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 216372,
@@ -523,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185494,
-      "num": 108810,
-      "word": "宿迁真给何润东请来了",
-      "onboard_time": 1776067821,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182550,
       "num": 121479,
       "word": "孙子怕爷爷去世每天偷偷带肉回家",
@@ -571,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162435,
+      "num": 143174,
+      "word": "美军舰距离被彻底摧毁仅差数分钟",
+      "onboard_time": 1776068901,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161648,
       "num": 161648,
       "word": "被老鼠咬10天后确诊鼠咬热",
@@ -585,6 +641,14 @@
       "onboard_time": 1776052341,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158385,
+      "num": 158385,
+      "word": "西宁一面馆标语是对女性的直接冒犯",
+      "onboard_time": 1776067762,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 156823,
@@ -643,28 +707,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145510,
-      "num": 103350,
-      "word": "小S给林志玲擦泪",
-      "onboard_time": 1776067221,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145339,
       "num": 145339,
       "word": "IU新剧首播收视率",
       "onboard_time": 1776043998,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144795,
-      "num": 100867,
-      "word": "继EXO的E不发音后陈也不发音",
-      "onboard_time": 1776067101,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 144275,
@@ -715,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139367,
+      "num": 113631,
+      "word": "TXT回归",
+      "onboard_time": 1776066261,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136609,
       "num": 107340,
       "word": "晒衣服偏心",
@@ -763,11 +819,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131092,
+      "num": 108392,
+      "word": "内娱开始反向播剧了",
+      "onboard_time": 1776070761,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "男子地铁上辱骂老年乘客又脏又臭",
       "onboard_time": 1776045741,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "女孩被拐后因长相被多次转卖",
+      "onboard_time": 1776071000,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -819,12 +891,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114854,
+      "num": 134619,
+      "word": "医院回应患者被吊仪器上1小时无人管",
+      "onboard_time": 1776068001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114502,
       "num": 114502,
       "word": "时代少年团新歌",
       "onboard_time": 1776038662,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112383,
+      "num": 112383,
+      "word": "老人私栓绳致男孩被锁喉警方已介入",
+      "onboard_time": 1776069440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111552,
@@ -857,6 +945,14 @@
       "onboard_time": 1776015795,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104760,
+      "num": 104760,
+      "word": "初代跑男曾经站位合影",
+      "onboard_time": 1776069921,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 104491,
@@ -907,14 +1003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101026,
-      "num": 101026,
-      "word": "西宁一面馆标语是对女性的直接冒犯",
-      "onboard_time": 1776067762,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 100643,
       "num": 100643,
       "word": "匈牙利选举结果的国际影响",
@@ -929,6 +1017,14 @@
       "onboard_time": 1776052341,
       "rank": 35,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 99392,
+      "num": 105038,
+      "word": "3岁男童每晚睡前补营养体重仅21斤",
+      "onboard_time": 1776066981,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98804,
@@ -1051,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92619,
+      "num": 92619,
+      "word": "陆俊昊北电表演专业全国第一",
+      "onboard_time": 1776065662,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91939,
       "num": 91939,
       "word": "男子结婚3年不公开关系称母亲反对",
@@ -1067,27 +1171,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91185,
-      "num": 91185,
-      "word": "陆俊昊北电表演专业全国第一",
-      "onboard_time": 1776065662,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90204,
       "num": 91884,
       "word": "伊朗民众眼中的美伊谈判",
       "onboard_time": 1776049401,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 89206,
-      "num": 89206,
-      "word": "美军舰距离被彻底摧毁仅差数分钟",
-      "onboard_time": 1776068901,
-      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1171,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83116,
+      "num": 98347,
+      "word": "小猫舔毛时会帮你舔任何东西",
+      "onboard_time": 1776070880,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82284,
       "num": 73843,
       "word": "钢铁森林 删吻戏",
@@ -1201,14 +1297,6 @@
       "onboard_time": 1775994201,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 80073,
-      "num": 80073,
-      "word": "3岁男童每晚睡前补营养体重仅21斤",
-      "onboard_time": 1776066981,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78737,
@@ -1291,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74790,
+      "num": 74790,
+      "word": "开拓者主帅谈杨瀚森首个赛季表现",
+      "onboard_time": 1776069560,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74189,
       "num": 99938,
       "word": "匈牙利国会选举蒂萨党领先",
@@ -1355,14 +1451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72877,
-      "num": 134619,
-      "word": "医院回应患者被吊仪器上1小时无人管",
-      "onboard_time": 1776068001,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72669,
       "num": 72669,
       "word": "刘诗雯谢谢大家的爱和祝福",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1776057802,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70708,
+      "num": 70708,
+      "word": "迪丽热巴花魁妆火到AI界了",
+      "onboard_time": 1776070521,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 70020,
@@ -1753,6 +1849,14 @@
       "onboard_time": 1776014237,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26908,
+      "num": 153312,
+      "word": "梦龙关联芭蕾舞鞋广告已删除",
+      "onboard_time": 1776070642,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25656,
