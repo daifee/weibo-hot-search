@@ -1,6 +1,6 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776109705289,
+  "endTime": 1776114242626,
   "band_list": [
     {
       "raw_hot": 457136,
@@ -451,20 +451,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15063,
+      "num": 23995,
+      "word": "蜜语纪",
+      "onboard_time": 1776102017,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14917,
       "num": 20397,
       "word": "男孩被绳锁喉的肇事方或被追究刑责",
       "onboard_time": 1776108973,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14870,
-      "num": 23995,
-      "word": "蜜语纪",
-      "onboard_time": 1776102017,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 13895,
@@ -475,7 +475,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 10490,
+      "raw_hot": 10551,
       "num": 20290,
       "word": "银行招聘被指萝卜岗后撤争议条款",
       "onboard_time": 1776092362,

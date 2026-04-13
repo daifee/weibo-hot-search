@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776109705289,
+  "endTime": 1776114242626,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -36795,6 +36795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15063,
+      "num": 23995,
+      "word": "蜜语纪",
+      "onboard_time": 1776102017,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15055,
       "num": 17961,
       "word": "鞠婧祎连续7天在播剧角色热度第一",
@@ -36809,14 +36817,6 @@
       "onboard_time": 1776108973,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14870,
-      "num": 23995,
-      "word": "蜜语纪",
-      "onboard_time": 1776102017,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 14733,

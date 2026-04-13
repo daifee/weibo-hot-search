@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776109705289,
+  "endTime": 1776114242626,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -5747,6 +5747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15063,
+      "num": 23995,
+      "word": "蜜语纪",
+      "onboard_time": 1776102017,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14954,
       "num": 69083,
       "word": "潮汐车道自动切换太丝滑",
@@ -5761,14 +5769,6 @@
       "onboard_time": 1776108973,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14870,
-      "num": 23995,
-      "word": "蜜语纪",
-      "onboard_time": 1776102017,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 14116,
