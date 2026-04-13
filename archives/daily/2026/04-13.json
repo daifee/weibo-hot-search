@@ -1,7 +1,15 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776051215055,
+  "endTime": 1776052780518,
   "band_list": [
+    {
+      "raw_hot": 1742247,
+      "num": 172525,
+      "word": "kimi都这么大了",
+      "onboard_time": 1776050900,
+      "rank": 24,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1492815,
       "num": 1492815,
@@ -11,15 +19,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 804106,
-      "num": 862525,
-      "word": "9岁男孩偷偷给爷爷带肉当地已介入",
-      "onboard_time": 1776047599,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 682316,
+      "raw_hot": 979008,
       "num": 682316,
       "word": "陈赫 短剧",
       "onboard_time": 1776048980,
@@ -27,8 +27,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 804106,
+      "num": 1126271,
+      "word": "9岁男孩偷偷给爷爷带肉当地已介入",
+      "onboard_time": 1776047599,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 649416,
-      "num": 561834,
+      "num": 842790,
       "word": "何猷君晒与何超蕸合照",
       "onboard_time": 1776046580,
       "rank": 5,
@@ -48,6 +56,14 @@
       "word": "美将封锁霍尔木兹海峡",
       "onboard_time": 1776048258,
       "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 548628,
+      "num": 548628,
+      "word": "特朗普称今晚10点封锁伊朗",
+      "onboard_time": 1776050900,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -99,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374287,
+      "num": 225257,
+      "word": "张凌赫逐玉庆功宴路透",
+      "onboard_time": 1776051081,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367249,
       "num": 367249,
       "word": "伊朗公布驱离美军舰视频",
@@ -107,20 +131,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 363298,
+      "num": 363298,
+      "word": "女子单独坐过夜火车被乘警拉进群",
+      "onboard_time": 1776049822,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349553,
       "num": 291413,
       "word": "灯花笑 田曦薇",
       "onboard_time": 1776049279,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348884,
-      "num": 348884,
-      "word": "女子单独坐过夜火车被乘警拉进群",
-      "onboard_time": 1776049822,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332869,
@@ -161,6 +185,14 @@
       "onboard_time": 1776050120,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309529,
+      "num": 309529,
+      "word": "比亚迪财务总监年薪1013万元",
+      "onboard_time": 1776051561,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 308457,
@@ -251,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188129,
+      "num": 294836,
+      "word": "超级巨星孙颖莎",
+      "onboard_time": 1776050481,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188031,
       "num": 188031,
       "word": "在中国我们不说玩腻了分手吧",
       "onboard_time": 1776043100,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183463,
-      "num": 183463,
-      "word": "张凌赫逐玉庆功宴路透",
-      "onboard_time": 1776051081,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 182550,
@@ -283,6 +315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 172213,
+      "num": 172213,
+      "word": "被央视曝光涉黄AI软件未下架",
+      "onboard_time": 1776051081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170810,
       "num": 113098,
       "word": "男子掉14颗牙剩下14颗也得全拔掉",
@@ -291,12 +331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167561,
+      "num": 167561,
+      "word": "乌兰被双开",
+      "onboard_time": 1776051380,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161648,
       "num": 161648,
       "word": "被老鼠咬10天后确诊鼠咬热",
       "onboard_time": 1776040041,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160550,
+      "num": 160550,
+      "word": "华为大阔折太阔了",
+      "onboard_time": 1776052341,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 156823,
@@ -371,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140419,
+      "num": 140419,
+      "word": "逐玉庆功宴",
+      "onboard_time": 1776052281,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140334,
       "num": 140334,
       "word": "柳致敏",
@@ -387,20 +451,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139893,
-      "num": 294836,
-      "word": "超级巨星孙颖莎",
-      "onboard_time": 1776050481,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139807,
       "num": 93428,
       "word": "张雪谈妹妹拿买房钱支持自己创业",
       "onboard_time": 1776044660,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136609,
+      "num": 107340,
+      "word": "晒衣服偏心",
+      "onboard_time": 1776051263,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 136590,
@@ -427,20 +491,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 132537,
+      "num": 132537,
+      "word": "曝浪姐二公赛制",
+      "onboard_time": 1776051921,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "男子地铁上辱骂老年乘客又脏又臭",
       "onboard_time": 1776045741,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129155,
-      "num": 129155,
-      "word": "kimi都这么大了",
-      "onboard_time": 1776050900,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 128218,
@@ -491,6 +555,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105950,
+      "num": 105950,
+      "word": "烘焙界唯一无油低糖",
+      "onboard_time": 1776051800,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 105324,
+      "num": 105324,
+      "word": "NBA西部季后赛对阵出炉",
+      "onboard_time": 1776051263,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104998,
       "num": 175954,
       "word": "楚乔传热度",
@@ -507,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104032,
+      "num": 104032,
+      "word": "湖人火箭双向奔赴",
+      "onboard_time": 1776051800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103650,
       "num": 156292,
       "word": "阿尔卡拉斯vs辛纳",
@@ -521,6 +609,14 @@
       "onboard_time": 1776005243,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100534,
+      "num": 100534,
+      "word": "装修最棒的决定",
+      "onboard_time": 1776052341,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 98804,
@@ -555,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96112,
+      "num": 96112,
+      "word": "广州日报官宣时代少年团演唱会",
+      "onboard_time": 1776050600,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95061,
       "num": 95061,
       "word": "赵丽颖林更新楚乔传百指",
@@ -587,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91595,
-      "num": 91595,
-      "word": "广州日报官宣时代少年团演唱会",
-      "onboard_time": 1776050600,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 91459,
       "num": 91459,
       "word": "朴宝剑王安宇怎么认识的",
@@ -603,20 +699,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91036,
-      "num": 91036,
-      "word": "被央视曝光涉黄AI软件未下架",
-      "onboard_time": 1776051081,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90204,
       "num": 91884,
       "word": "伊朗民众眼中的美伊谈判",
       "onboard_time": 1776049401,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88706,
+      "num": 88706,
+      "word": "A股多只业绩高增股涨停",
+      "onboard_time": 1776051921,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 88455,
@@ -651,6 +747,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86359,
+      "num": 86359,
+      "word": "李小冉 北舞已经是上个世纪的事了",
+      "onboard_time": 1776052641,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84105,
+      "num": 107966,
+      "word": "贵州烤鱼辣椒致死量",
+      "onboard_time": 1776051441,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84046,
       "num": 100203,
       "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
@@ -675,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76407,
+      "num": 76407,
+      "word": "神经系统 快速识人",
+      "onboard_time": 1776052402,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75460,
       "num": 94026,
       "word": "伊朗接连回怼美国",
@@ -689,14 +809,6 @@
       "onboard_time": 1776041242,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74856,
-      "num": 74856,
-      "word": "特朗普称今晚10点封锁伊朗",
-      "onboard_time": 1776050900,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74792,
@@ -755,6 +867,14 @@
       "category": "国内时政,汽车"
     },
     {
+      "raw_hot": 70020,
+      "num": 70020,
+      "word": "韩占武严重违纪违法",
+      "onboard_time": 1776052522,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69654,
       "num": 69654,
       "word": "伊朗称美国荒唐可笑",
@@ -777,6 +897,14 @@
       "onboard_time": 1776049880,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68652,
+      "num": 68652,
+      "word": "这才是真正的防窥屏",
+      "onboard_time": 1776052763,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 67593,
@@ -873,6 +1001,14 @@
       "onboard_time": 1775988681,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58405,
+      "num": 172744,
+      "word": "产妇遭医院擅自二次开腹致女儿脑瘫",
+      "onboard_time": 1776051982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58304,
@@ -1107,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16736,
+      "num": 665713,
+      "word": "中国经济开门红成色十足",
+      "onboard_time": 1776052042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15282,
       "num": 54173,
       "word": "律师解读法官被指猥亵当事人",
@@ -1126,6 +1270,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主席寄望中美青年#"
+    },
+    {
+      "word": "#要记得政府前面人民二字#"
     }
   ]
 }
