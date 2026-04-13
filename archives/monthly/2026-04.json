@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776088572631,
+  "endTime": 1776089765730,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2221110,
-      "num": 166543,
+      "num": 177774,
       "word": "张凌赫田曦薇经纪人敬酒",
       "onboard_time": 1776086243,
       "rank": 10,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1775139205,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745765,
+      "num": 170114,
+      "word": "迪丽热巴工作室 审美",
+      "onboard_time": 1776086962,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 744906,
@@ -3561,14 +3569,6 @@
       "onboard_time": 1775984781,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504547,
-      "num": 165626,
-      "word": "迪丽热巴工作室 审美",
-      "onboard_time": 1776086962,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 504348,
@@ -7803,6 +7803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284206,
+      "num": 284206,
+      "word": "刘冲去了逐玉庆功宴",
+      "onboard_time": 1776087622,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284172,
       "num": 217592,
       "word": "特朗普夫人称开战是为了伊朗儿童",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1775532982,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269513,
+      "num": 128614,
+      "word": "仇一代已和解 仇二代请二搭",
+      "onboard_time": 1776088463,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 269357,
@@ -10275,6 +10291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219001,
+      "num": 130966,
+      "word": "董力8岁儿子都这么高了",
+      "onboard_time": 1776086783,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218723,
       "num": 218723,
       "word": "云初令",
@@ -11595,14 +11619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192990,
-      "num": 139516,
-      "word": "刘冲去了逐玉庆功宴",
-      "onboard_time": 1776087622,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192777,
       "num": 192777,
       "word": "叔叔无儿女临终给三侄儿每人留5千",
@@ -12377,6 +12393,14 @@
       "onboard_time": 1775453960,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179562,
+      "num": 114881,
+      "word": "向太给儿媳花钱用的是自己零用钱",
+      "onboard_time": 1776087983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 179488,
@@ -14059,14 +14083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153715,
-      "num": 130966,
-      "word": "董力8岁儿子都这么高了",
-      "onboard_time": 1776086783,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153496,
       "num": 153496,
       "word": "澳门世界杯女单四强出炉",
@@ -14681,6 +14697,14 @@
       "onboard_time": 1775745325,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146011,
+      "num": 114491,
+      "word": "官俊臣艺考 没报机构",
+      "onboard_time": 1776088883,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 145948,
@@ -15603,6 +15627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137105,
+      "num": 160441,
+      "word": "北京最火饺子馆开始喂AI龙虾",
+      "onboard_time": 1776083781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "多方回应快递沾染血迹被更换包装",
@@ -15785,6 +15817,14 @@
       "onboard_time": 1776036918,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135400,
+      "num": 114793,
+      "word": "伊朗曾准备稀释450公斤浓缩铀",
+      "onboard_time": 1776088764,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135325,
@@ -16827,14 +16867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126438,
-      "num": 160441,
-      "word": "北京最火饺子馆开始喂AI龙虾",
-      "onboard_time": 1776083781,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126316,
       "num": 126316,
       "word": "特朗普提出停火或是脱身之计",
@@ -17585,6 +17617,14 @@
       "onboard_time": 1775040623,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120467,
+      "num": 120467,
+      "word": "车圈已经癫成这样了",
+      "onboard_time": 1776089123,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 120432,
@@ -19099,6 +19139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109570,
+      "num": 114604,
+      "word": "被拐后因长相被多次转卖女孩发声",
+      "onboard_time": 1776089484,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109537,
       "num": 115666,
       "word": "17岁小伙体内藏了根十多年的缝衣针",
@@ -19392,6 +19440,14 @@
       "word": "董宇辉评论区被追问优思益售后方案",
       "onboard_time": 1775130502,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107659,
+      "num": 107659,
+      "word": "海底捞CEO向贴钱员工致歉",
+      "onboard_time": 1776087983,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -21137,14 +21193,6 @@
       "onboard_time": 1776066981,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99388,
-      "num": 99388,
-      "word": "仇一代已和解 仇二代请二搭",
-      "onboard_time": 1776088463,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 99366,
@@ -23387,6 +23435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90091,
+      "num": 90091,
+      "word": "微信表情手机端也能上架了",
+      "onboard_time": 1776089664,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90084,
       "num": 90084,
       "word": "薛之谦TFBOYS同框",
@@ -23409,14 +23465,6 @@
       "onboard_time": 1775705482,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90017,
-      "num": 87701,
-      "word": "向太给儿媳花钱用的是自己零用钱",
-      "onboard_time": 1776087983,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 90004,
@@ -26379,6 +26427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79908,
+      "num": 157838,
+      "word": "中国混动油耗打破世界纪录",
+      "onboard_time": 1776087323,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79865,
       "num": 79865,
       "word": "尤长靖直播",
@@ -28043,6 +28099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74513,
+      "num": 132634,
+      "word": "中国有哪些技术被全球抢着要",
+      "onboard_time": 1776089064,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74503,
       "num": 74503,
       "word": "安崎轮空",
@@ -29065,6 +29129,14 @@
       "onboard_time": 1775187200,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71381,
+      "num": 77148,
+      "word": "多国就匈牙利国会选举结果表态",
+      "onboard_time": 1776088103,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71343,
@@ -30129,14 +30201,6 @@
       "onboard_time": 1775905220,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67792,
-      "num": 67792,
-      "word": "海底捞CEO向贴钱员工致歉",
-      "onboard_time": 1776087983,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67720,
@@ -32545,14 +32609,6 @@
       "onboard_time": 1775912123,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54521,
-      "num": 157838,
-      "word": "中国混动油耗打破世界纪录",
-      "onboard_time": 1776087323,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 54448,

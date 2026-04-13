@@ -1,0 +1,410 @@
+{
+  "runTime": 1776089765730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372628,
+        "num": 1059620,
+        "word": "男子无偿献血十年要求免诊查费遭拒",
+        "onboard_time": 1776078503,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290281,
+        "num": 777747,
+        "word": "大麦崩了",
+        "onboard_time": 1776082761,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19460,
+        "num": 583280,
+        "word": "2026世界互联网大会亚太峰会",
+        "onboard_time": 1776083662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357122,
+        "num": 357122,
+        "word": "洛克王国 补偿",
+        "onboard_time": 1776085162,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284206,
+        "num": 284206,
+        "word": "刘冲去了逐玉庆功宴",
+        "onboard_time": 1776087622,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241954,
+        "num": 241954,
+        "word": "卢洋洋去拍短剧了",
+        "onboard_time": 1776085282,
+        "rank": 5,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 223832,
+        "num": 223832,
+        "word": "男子闯黄灯撞死无证闯红灯老人",
+        "onboard_time": 1776081742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196374,
+        "num": 196374,
+        "word": "伊朗总统称准备达成平衡公平协议",
+        "onboard_time": 1776073762,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185721,
+        "num": 185721,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184743,
+        "num": 184743,
+        "word": "韩国中学生在上海观光廊大声打闹",
+        "onboard_time": 1776083062,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1918888,
+        "num": 177774,
+        "word": "张凌赫田曦薇经纪人敬酒",
+        "onboard_time": 1776086243,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745765,
+        "num": 170114,
+        "word": "迪丽热巴工作室 审美",
+        "onboard_time": 1776086962,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272137,
+        "num": 158980,
+        "word": "长春姐弟俩被遗留在托管班两年",
+        "onboard_time": 1776077122,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392570,
+        "num": 149658,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321561,
+        "num": 141744,
+        "word": "肖战 高配得感",
+        "onboard_time": 1776086062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137105,
+        "num": 137105,
+        "word": "北京最火饺子馆开始喂AI龙虾",
+        "onboard_time": 1776083781,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555871,
+        "num": 136981,
+        "word": "张凌赫逐玉庆功宴发言",
+        "onboard_time": 1776082641,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298910,
+        "num": 136122,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113485,
+        "num": 135202,
+        "word": "莫氏鸡煲迎来成群TVB老戏骨",
+        "onboard_time": 1776075861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79908,
+        "num": 134557,
+        "word": "中国混动油耗打破世界纪录",
+        "onboard_time": 1776087323,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1349097,
+        "num": 134206,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1776081381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287364,
+        "num": 133414,
+        "word": "杨紫直播",
+        "onboard_time": 1776086902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74513,
+        "num": 132634,
+        "word": "中国有哪些技术被全球抢着要",
+        "onboard_time": 1776089064,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 278655,
+        "num": 131921,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131588,
+        "num": 131588,
+        "word": "1岁宝宝被排队摸脸萌化了",
+        "onboard_time": 1776081501,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 269513,
+        "num": 128614,
+        "word": "仇一代已和解 仇二代请二搭",
+        "onboard_time": 1776088463,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120467,
+        "num": 120467,
+        "word": "车圈已经癫成这样了",
+        "onboard_time": 1776089123,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115192,
+        "num": 115192,
+        "word": "患者被吊1小时医院多专利已无效",
+        "onboard_time": 1776082220,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 219001,
+        "num": 115157,
+        "word": "董力8岁儿子都这么高了",
+        "onboard_time": 1776086783,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47159,
+        "num": 115107,
+        "word": "美国越谈伊朗越疑",
+        "onboard_time": 1776084322,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190800,
+        "num": 114955,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1776083002,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179562,
+        "num": 114881,
+        "word": "向太给儿媳花钱用的是自己零用钱",
+        "onboard_time": 1776087983,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135400,
+        "num": 114793,
+        "word": "伊朗曾准备稀释450公斤浓缩铀",
+        "onboard_time": 1776088764,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177668,
+        "num": 114704,
+        "word": "黄灿灿为防恶剪每天换发型",
+        "onboard_time": 1776062539,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167170,
+        "num": 114689,
+        "word": "王晓晨吃药引发心悸",
+        "onboard_time": 1776076340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109570,
+        "num": 114604,
+        "word": "被拐后因长相被多次转卖女孩发声",
+        "onboard_time": 1776089484,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146011,
+        "num": 114491,
+        "word": "官俊臣艺考 没报机构",
+        "onboard_time": 1776088883,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82232,
+        "num": 114380,
+        "word": "中方回应特朗普威胁加征关税",
+        "onboard_time": 1776083362,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114365,
+        "num": 114365,
+        "word": "逐玉庆功宴",
+        "onboard_time": 1776052281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106183,
+        "num": 112804,
+        "word": "开发商就喷辣椒水驱散购房人群致歉",
+        "onboard_time": 1776082882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112304,
+        "num": 112304,
+        "word": "没人知道马頔要把家装修成什么样",
+        "onboard_time": 1776083482,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107659,
+        "num": 107659,
+        "word": "海底捞CEO向贴钱员工致歉",
+        "onboard_time": 1776087983,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106533,
+        "num": 106533,
+        "word": "李小冉只是长得年轻",
+        "onboard_time": 1776078922,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101104,
+        "num": 101104,
+        "word": "网友一句提醒外卖小哥查出尿毒症",
+        "onboard_time": 1776077961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90091,
+        "num": 90091,
+        "word": "微信表情手机端也能上架了",
+        "onboard_time": 1776089664,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87070,
+        "num": 87070,
+        "word": "孙燕姿演唱会官宣六站",
+        "onboard_time": 1776069741,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85695,
+        "num": 85695,
+        "word": "时代少年团正式官宣广州站",
+        "onboard_time": 1776077661,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77157,
+        "num": 77157,
+        "word": "JDG让一追二BLG",
+        "onboard_time": 1776082521,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83677,
+        "num": 77152,
+        "word": "TF五代高会免费",
+        "onboard_time": 1776076281,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71381,
+        "num": 77148,
+        "word": "多国就匈牙利国会选举结果表态",
+        "onboard_time": 1776088103,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}

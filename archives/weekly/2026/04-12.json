@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776088572631,
+  "endTime": 1776089765730,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2221110,
-      "num": 166543,
+      "num": 177774,
       "word": "张凌赫田曦薇经纪人敬酒",
       "onboard_time": 1776086243,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1776072203,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 745765,
+      "num": 170114,
+      "word": "迪丽热巴工作室 审美",
+      "onboard_time": 1776086962,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 733221,
@@ -457,14 +465,6 @@
       "onboard_time": 1775984781,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504547,
-      "num": 165626,
-      "word": "迪丽热巴工作室 审美",
-      "onboard_time": 1776086962,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 504348,
@@ -1059,6 +1059,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 287364,
+      "num": 157218,
+      "word": "杨紫直播",
+      "onboard_time": 1776086902,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287092,
       "num": 134054,
       "word": "ally整容模版是迪丽热巴",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1776040161,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284206,
+      "num": 284206,
+      "word": "刘冲去了逐玉庆功宴",
+      "onboard_time": 1776087622,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 281392,
@@ -1107,20 +1123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278600,
-      "num": 157218,
-      "word": "杨紫直播",
-      "onboard_time": 1776086902,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278558,
       "num": 251734,
       "word": "西班牙首相试坐小米汽车",
       "onboard_time": 1776067700,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269513,
+      "num": 128614,
+      "word": "仇一代已和解 仇二代请二搭",
+      "onboard_time": 1776088463,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 269261,
@@ -1395,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219001,
+      "num": 130966,
+      "word": "董力8岁儿子都这么高了",
+      "onboard_time": 1776086783,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216583,
       "num": 108761,
       "word": "小狗洗澡洗得太干净主人懵了",
@@ -1563,14 +1587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192990,
-      "num": 139516,
-      "word": "刘冲去了逐玉庆功宴",
-      "onboard_time": 1776087622,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191087,
       "num": 191087,
       "word": "伊朗代表团离开巴基斯坦",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1775969540,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179562,
+      "num": 114881,
+      "word": "向太给儿媳花钱用的是自己零用钱",
+      "onboard_time": 1776087983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 179369,
@@ -1891,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153715,
-      "num": 130966,
-      "word": "董力8岁儿子都这么高了",
-      "onboard_time": 1776086783,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152866,
       "num": 152866,
       "word": "老百姓看病应该多留个心眼",
@@ -1984,6 +2000,14 @@
       "word": "甜馨回应给贾乃亮做蛋糕",
       "onboard_time": 1776054262,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146011,
+      "num": 114491,
+      "word": "官俊臣艺考 没报机构",
+      "onboard_time": 1776088883,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2163,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137105,
+      "num": 160441,
+      "word": "北京最火饺子馆开始喂AI龙虾",
+      "onboard_time": 1776083781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136609,
       "num": 107340,
       "word": "晒衣服偏心",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1776036918,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135400,
+      "num": 114793,
+      "word": "伊朗曾准备稀释450公斤浓缩铀",
+      "onboard_time": 1776088764,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134797,
@@ -2275,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126438,
-      "num": 160441,
-      "word": "北京最火饺子馆开始喂AI龙虾",
-      "onboard_time": 1776083781,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "男子回应彩票中奖1011万",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1775985800,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120467,
+      "num": 120467,
+      "word": "车圈已经癫成这样了",
+      "onboard_time": 1776089123,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 119923,
@@ -2659,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109570,
+      "num": 114604,
+      "word": "被拐后因长相被多次转卖女孩发声",
+      "onboard_time": 1776089484,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109125,
       "num": 109125,
       "word": "维妮娜是央视前主持人",
@@ -2673,6 +2721,14 @@
       "onboard_time": 1775970622,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107659,
+      "num": 107659,
+      "word": "海底捞CEO向贴钱员工致歉",
+      "onboard_time": 1776087983,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106787,
@@ -2945,14 +3001,6 @@
       "onboard_time": 1776066981,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99388,
-      "num": 99388,
-      "word": "仇一代已和解 仇二代请二搭",
-      "onboard_time": 1776088463,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 99050,
@@ -3307,12 +3355,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 90017,
-      "num": 87701,
-      "word": "向太给儿媳花钱用的是自己零用钱",
-      "onboard_time": 1776087983,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 90091,
+      "num": 90091,
+      "word": "微信表情手机端也能上架了",
+      "onboard_time": 1776089664,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 89797,
@@ -3723,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79908,
+      "num": 157838,
+      "word": "中国混动油耗打破世界纪录",
+      "onboard_time": 1776087323,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79668,
       "num": 174824,
       "word": "KSG冠军",
@@ -3955,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74513,
+      "num": 132634,
+      "word": "中国有哪些技术被全球抢着要",
+      "onboard_time": 1776089064,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74189,
       "num": 99938,
       "word": "匈牙利国会选举蒂萨党领先",
@@ -4131,6 +4195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71381,
+      "num": 77148,
+      "word": "多国就匈牙利国会选举结果表态",
+      "onboard_time": 1776088103,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70708,
       "num": 70708,
       "word": "迪丽热巴花魁妆火到AI界了",
@@ -4233,14 +4305,6 @@
       "onboard_time": 1775986641,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67792,
-      "num": 67792,
-      "word": "海底捞CEO向贴钱员工致歉",
-      "onboard_time": 1776087983,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67675,
@@ -4489,14 +4553,6 @@
       "onboard_time": 1775966479,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54521,
-      "num": 157838,
-      "word": "中国混动油耗打破世界纪录",
-      "onboard_time": 1776087323,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 54041,
