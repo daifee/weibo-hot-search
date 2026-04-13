@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776075350683,
+  "endTime": 1776079459091,
   "band_list": [
     {
       "raw_hot": 1742247,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521982,
+      "num": 155609,
+      "word": "王晓晨吃药引发心悸",
+      "onboard_time": 1776076340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520023,
       "num": 520023,
       "word": "车上放香皂",
@@ -163,12 +171,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 485131,
+      "raw_hot": 497180,
       "num": 485131,
       "word": "没认出这是章子怡",
       "onboard_time": 1776072800,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 489256,
+      "num": 1078281,
+      "word": "长春姐弟俩被遗留在托管班两年",
+      "onboard_time": 1776077122,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481975,
@@ -209,6 +225,14 @@
       "onboard_time": 1776072742,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 419553,
+      "num": 777406,
+      "word": "莫氏鸡煲迎来成群TVB老戏骨",
+      "onboard_time": 1776075861,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410579,
@@ -299,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355107,
+      "num": 255625,
+      "word": "越南综艺 心愿便利贴",
+      "onboard_time": 1776076041,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352030,
       "num": 158989,
       "word": "继EXO的E不发音后陈也不发音",
@@ -313,6 +345,14 @@
       "onboard_time": 1776049279,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338548,
+      "num": 338548,
+      "word": "成都GG对战Xteam",
+      "onboard_time": 1776075801,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 332869,
@@ -387,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298833,
+      "num": 141668,
+      "word": "时代少年团正式官宣广州站",
+      "onboard_time": 1776077661,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296695,
       "num": 296695,
       "word": "十日终焉防代拍",
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 287092,
-      "num": 131810,
+      "num": 134054,
       "word": "ally整容模版是迪丽热巴",
       "onboard_time": 1776069261,
       "rank": 26,
@@ -427,8 +475,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266596,
+      "num": 138919,
+      "word": "TF五代高会免费",
+      "onboard_time": 1776076281,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266399,
-      "num": 133410,
+      "num": 138289,
       "word": "女孩被拐后因长相被多次转卖",
       "onboard_time": 1776071000,
       "rank": 28,
@@ -449,6 +505,14 @@
       "onboard_time": 1776057740,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261554,
+      "num": 261554,
+      "word": "伊朗总统称准备达成平衡公平协议",
+      "onboard_time": 1776073762,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261103,
@@ -531,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224940,
+      "num": 135837,
+      "word": "孙怡的发量",
+      "onboard_time": 1776076222,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223291,
       "num": 123664,
       "word": "何超蕸去世",
@@ -611,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189842,
-      "num": 116289,
-      "word": "伊朗总统称准备达成平衡公平协议",
-      "onboard_time": 1776073762,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188129,
       "num": 294836,
       "word": "超级巨星孙颖莎",
@@ -697,6 +761,14 @@
       "onboard_time": 1776052341,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157613,
+      "num": 157613,
+      "word": "科大讯飞有员工中奖但非1500万",
+      "onboard_time": 1776076762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156823,
@@ -811,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139958,
+      "num": 133975,
+      "word": "李小冉只是长得年轻",
+      "onboard_time": 1776078922,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139807,
       "num": 93428,
       "word": "张雪谈妹妹拿买房钱支持自己创业",
@@ -867,6 +947,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 134052,
+      "num": 134052,
+      "word": "眼睛短短十秒瞎了三次",
+      "onboard_time": 1776078441,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132537,
       "num": 132537,
       "word": "曝浪姐二公赛制",
@@ -913,6 +1001,14 @@
       "onboard_time": 1776072920,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124128,
+      "num": 124128,
+      "word": "独生子小猫出生17天胖成猪咪了",
+      "onboard_time": 1776078141,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 123191,
@@ -971,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "网友一句提醒外卖小哥查出尿毒症",
+      "onboard_time": 1776077961,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114502,
       "num": 114502,
       "word": "时代少年团新歌",
@@ -993,6 +1097,14 @@
       "onboard_time": 1776060261,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110252,
+      "num": 134063,
+      "word": "认人识人是AI智能体的照妖镜",
+      "onboard_time": 1776078261,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 105950,
@@ -1275,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89797,
+      "num": 89797,
+      "word": "中国机器人在波兰街头驱赶野猪",
+      "onboard_time": 1776074062,
+      "rank": 48,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 88706,
       "num": 88706,
       "word": "A股多只业绩高增股涨停",
@@ -1307,6 +1427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88118,
+      "num": 88118,
+      "word": "给张根硕吓得老了好几岁",
+      "onboard_time": 1776078441,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87339,
+      "num": 87339,
+      "word": "小米18Pro电池设定曝光",
+      "onboard_time": 1776079341,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87240,
       "num": 87240,
       "word": "布里奇斯只打23秒延续出战纪录",
@@ -1329,6 +1465,14 @@
       "onboard_time": 1776065542,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86445,
+      "num": 86445,
+      "word": "BLG对战JDG",
+      "onboard_time": 1776075440,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 86065,
@@ -1387,6 +1531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83541,
+      "num": 83541,
+      "word": "我的社交三板斧",
+      "onboard_time": 1776078681,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82284,
       "num": 73843,
       "word": "钢铁森林 删吻戏",
@@ -1408,6 +1560,14 @@
       "word": "鹿晗工作室预告",
       "onboard_time": 1776061881,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80680,
+      "num": 80680,
+      "word": "李飞 粉色娇嫩你如今几岁了",
+      "onboard_time": 1776078441,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1433,14 +1593,6 @@
       "onboard_time": 1776059481,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77477,
-      "num": 77477,
-      "word": "中国机器人在波兰街头驱赶野猪",
-      "onboard_time": 1776074062,
-      "rank": 48,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 76844,
@@ -1585,6 +1737,14 @@
       "onboard_time": 1776007821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72367,
+      "num": 80073,
+      "word": "在日本汤凉了他们会提供一块热石头",
+      "onboard_time": 1776079101,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72089,
@@ -1803,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56987,
+      "num": 89841,
+      "word": "男子戴隐形眼镜半年未摘",
+      "onboard_time": 1776078322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56817,
       "num": 63230,
       "word": "脑雾到底是个啥",
@@ -1859,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46964,
+      "num": 145314,
+      "word": "遭绳子锁喉13岁男孩已转诊",
+      "onboard_time": 1776078503,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46945,
       "num": 63427,
       "word": "法官被曝在办公室猥亵离婚案当事人",
@@ -1881,6 +2057,14 @@
       "onboard_time": 1776068001,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45779,
+      "num": 142495,
+      "word": "男子无偿献血十年要求免诊查费遭拒",
+      "onboard_time": 1776078503,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42008,
