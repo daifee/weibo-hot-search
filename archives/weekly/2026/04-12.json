@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776061944582,
+  "endTime": 1776069075949,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1458149,
+      "num": 150213,
+      "word": "楚乔传 全员下场",
+      "onboard_time": 1776062901,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1317443,
       "num": 260241,
       "word": "Angelababy郑恺陈赫李晨合影",
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855000,
+      "num": 149410,
+      "word": "黄灿灿为防恶剪每天换发型",
+      "onboard_time": 1776062539,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830169,
       "num": 740048,
       "word": "李小冉 北舞已经是上个世纪的事了",
@@ -148,11 +164,19 @@
     },
     {
       "raw_hot": 695157,
-      "num": 108874,
+      "num": 748358,
       "word": "钟南山妻子正式进入篮球名人堂",
       "onboard_time": 1776059180,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691785,
+      "num": 691785,
+      "word": "三代禁学计算机",
+      "onboard_time": 1776067101,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 684862,
@@ -491,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395951,
+      "num": 395951,
+      "word": "突然觉得小学老师好厉害",
+      "onboard_time": 1776064281,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392792,
       "num": 392792,
       "word": "TTG对战KSG",
@@ -675,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323797,
+      "num": 1051807,
+      "word": "醉酒男子叫代驾到村口留置车内死亡",
+      "onboard_time": 1776065000,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323338,
       "num": 289654,
       "word": "61岁男子手术后在飞机上身亡",
@@ -835,6 +875,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278967,
+      "num": 278967,
+      "word": "肠胃不好的人吃早餐belike",
+      "onboard_time": 1776065961,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278558,
+      "num": 148399,
+      "word": "西班牙首相试坐小米汽车",
+      "onboard_time": 1776067700,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 269261,
+      "num": 150889,
+      "word": "伊朗对美国发出新警告",
+      "onboard_time": 1776064521,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266849,
       "num": 164265,
       "word": "钢铁森林 删吻戏",
@@ -865,6 +929,14 @@
       "onboard_time": 1776057740,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261103,
+      "num": 121060,
+      "word": "1991年跳舞的李小冉",
+      "onboard_time": 1776065841,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 260090,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1775974940,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229929,
+      "num": 144620,
+      "word": "被绳锁喉男孩成绩全校前三",
+      "onboard_time": 1776063022,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228522,
@@ -1225,6 +1305,14 @@
       "onboard_time": 1775990240,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185494,
+      "num": 108810,
+      "word": "宿迁真给何润东请来了",
+      "onboard_time": 1776067821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 184321,
@@ -1547,12 +1635,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145510,
+      "num": 103350,
+      "word": "小S给林志玲擦泪",
+      "onboard_time": 1776067221,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145339,
       "num": 145339,
       "word": "IU新剧首播收视率",
       "onboard_time": 1776043998,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144795,
+      "num": 100867,
+      "word": "继EXO的E不发音后陈也不发音",
+      "onboard_time": 1776067101,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144275,
+      "num": 235493,
+      "word": "杨瀚森NBA首个赛季数据",
+      "onboard_time": 1776060682,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 143982,
@@ -1761,14 +1873,6 @@
       "onboard_time": 1775916504,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126844,
-      "num": 235493,
-      "word": "杨瀚森NBA首个赛季数据",
-      "onboard_time": 1776060682,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 125573,
@@ -2195,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104491,
+      "num": 104491,
+      "word": "老师承诺爷爷离世后会抚养9岁男孩",
+      "onboard_time": 1776065361,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104197,
       "num": 104197,
       "word": "时代少年团与循规蹈矩唱反调",
@@ -2251,6 +2363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101026,
+      "num": 101026,
+      "word": "西宁一面馆标语是对女性的直接冒犯",
+      "onboard_time": 1776067762,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -2265,6 +2385,14 @@
       "onboard_time": 1775971341,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100643,
+      "num": 100643,
+      "word": "匈牙利选举结果的国际影响",
+      "onboard_time": 1776066441,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100534,
@@ -2547,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91939,
+      "num": 91939,
+      "word": "男子结婚3年不公开关系称母亲反对",
+      "onboard_time": 1776068600,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91785,
       "num": 116950,
       "word": "奥迪车加油632元后逃单",
@@ -2561,6 +2697,14 @@
       "onboard_time": 1775954721,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91185,
+      "num": 91185,
+      "word": "陆俊昊北电表演专业全国第一",
+      "onboard_time": 1776065662,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 91170,
@@ -2593,6 +2737,14 @@
       "onboard_time": 1775994861,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89206,
+      "num": 89206,
+      "word": "美军舰距离被彻底摧毁仅差数分钟",
+      "onboard_time": 1776068901,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88952,
@@ -2665,6 +2817,14 @@
       "onboard_time": 1776051140,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86932,
+      "num": 86932,
+      "word": "黄景瑜徒手抓蛇路透",
+      "onboard_time": 1776065542,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 86904,
@@ -2803,6 +2963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83693,
+      "num": 77653,
+      "word": "权志龙状态太顶了",
+      "onboard_time": 1776062241,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83048,
       "num": 83048,
       "word": "苏新皓飞吻",
@@ -2913,6 +3081,14 @@
       "onboard_time": 1776061881,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80073,
+      "num": 80073,
+      "word": "3岁男童每晚睡前补营养体重仅21斤",
+      "onboard_time": 1776066981,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79668,
@@ -3155,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73948,
+      "num": 73948,
+      "word": "多方资本领投涉黄AI软件",
+      "onboard_time": 1776066082,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 73898,
       "num": 73898,
       "word": "25岁猫咪全记录",
@@ -3219,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73217,
+      "num": 73217,
+      "word": "医生回应2天吃1斤蓝莓胃堵成石墙",
+      "onboard_time": 1776062001,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73026,
       "num": 73026,
       "word": "何超蕸一生献给了赌王家族事业",
@@ -3241,6 +3433,14 @@
       "onboard_time": 1776038299,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72877,
+      "num": 134619,
+      "word": "医院回应患者被吊仪器上1小时无人管",
+      "onboard_time": 1776068001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72232,
@@ -3427,6 +3627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64514,
+      "num": 64514,
+      "word": "楚乔传 冰湖重生",
+      "onboard_time": 1776068960,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64212,
       "num": 64212,
       "word": "双高胎抢票",
@@ -3449,6 +3657,14 @@
       "onboard_time": 1776050960,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63813,
+      "num": 712416,
+      "word": "文旅消费迎来新爆发",
+      "onboard_time": 1776065181,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63512,
@@ -3497,6 +3713,14 @@
       "onboard_time": 1775988080,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61047,
+      "num": 61047,
+      "word": "迷你版大小周",
+      "onboard_time": 1776068300,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 59885,
@@ -3777,6 +4001,14 @@
       "onboard_time": 1776012437,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45922,
+      "num": 151887,
+      "word": "外交部回应美伊未达成协议",
+      "onboard_time": 1776068001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45216,
@@ -4307,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14116,
+      "num": 86952,
+      "word": "西安149平住宅1元起拍后撤回",
+      "onboard_time": 1776068122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13956,
       "num": 20242,
       "word": "微博文化交流之夜舞台",
@@ -4367,6 +4607,9 @@
     },
     {
       "word": "#要记得政府前面人民二字#"
+    },
+    {
+      "word": "#要致力于推进合作共赢的共同开放#"
     }
   ]
 }
