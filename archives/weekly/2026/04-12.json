@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776061411293,
+  "endTime": 1776061944582,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1317443,
+      "num": 260241,
+      "word": "Angelababy郑恺陈赫李晨合影",
+      "onboard_time": 1776060741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1137928,
       "num": 1182068,
       "word": "你们俩是要毁了芒果吗",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 830169,
-      "num": 562041,
+      "num": 740048,
       "word": "李小冉 北舞已经是上个世纪的事了",
       "onboard_time": 1776052641,
       "rank": 40,
@@ -129,14 +137,6 @@
       "onboard_time": 1775918487,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 711509,
-      "num": 260241,
-      "word": "Angelababy郑恺陈赫李晨合影",
-      "onboard_time": 1776060741,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 698085,
@@ -419,7 +419,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 445065,
+      "raw_hot": 449986,
       "num": 255963,
       "word": "官俊臣 成绩",
       "onboard_time": 1776059420,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 228522,
-      "num": 748658,
+      "num": 766941,
       "word": "中1500万彩票离职事件是真是假",
       "onboard_time": 1776055822,
       "rank": 1,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 214237,
-      "num": 159167,
+      "num": 209135,
       "word": "艾米艺考北电第三",
       "onboard_time": 1776053964,
       "rank": 22,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1775990122,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211165,
+      "num": 211165,
+      "word": "徐洁儿一公倒数第一",
+      "onboard_time": 1776060261,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 208303,
@@ -1667,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137835,
-      "num": 137835,
-      "word": "徐洁儿一公倒数第一",
-      "onboard_time": 1776060261,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136609,
       "num": 107340,
       "word": "晒衣服偏心",
@@ -1761,6 +1761,14 @@
       "onboard_time": 1775916504,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126844,
+      "num": 235493,
+      "word": "杨瀚森NBA首个赛季数据",
+      "onboard_time": 1776060682,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 125573,
@@ -2235,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101646,
+      "num": 132047,
+      "word": "以军坦克冲撞联合国维和人员车辆",
+      "onboard_time": 1776058101,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -2419,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95211,
+      "num": 95211,
+      "word": "快递手感不对快递小哥果断报警",
+      "onboard_time": 1776059901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95202,
       "num": 95202,
       "word": "K甲镜像对决",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1776037579,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95027,
-      "num": 132047,
-      "word": "以军坦克冲撞联合国维和人员车辆",
-      "onboard_time": 1776058101,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94871,
@@ -2488,6 +2504,14 @@
       "word": "高校拟租套均800万豪宅当学生宿舍",
       "onboard_time": 1775973440,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92713,
+      "num": 92713,
+      "word": "香港最严控烟令对游客一视同仁",
+      "onboard_time": 1776059782,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2627,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87844,
-      "num": 87844,
-      "word": "香港最严控烟令对游客一视同仁",
-      "onboard_time": 1776059782,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87240,
       "num": 87240,
       "word": "布里奇斯只打23秒延续出战纪录",
@@ -2763,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84468,
-      "num": 84468,
-      "word": "快递手感不对快递小哥果断报警",
-      "onboard_time": 1776059901,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84389,
       "num": 84389,
       "word": "刘诗雯谢谢大家的爱和祝福",
@@ -2809,14 +2817,6 @@
       "onboard_time": 1775965761,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 82852,
-      "num": 82852,
-      "word": "杨瀚森NBA首个赛季数据",
-      "onboard_time": 1776060682,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 82735,
@@ -2891,12 +2891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81251,
+      "num": 81251,
+      "word": "刷牙出血是掉牙的早期信号",
+      "onboard_time": 1776060622,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 80871,
       "num": 97811,
       "word": "DFM对战TE",
       "onboard_time": 1775973141,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80858,
+      "num": 80858,
+      "word": "鹿晗工作室预告",
+      "onboard_time": 1776061881,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 79668,
@@ -2945,6 +2961,14 @@
       "onboard_time": 1775977702,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78737,
+      "num": 141536,
+      "word": "场子姐告小三道歉案二审开庭",
+      "onboard_time": 1776060081,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78466,
@@ -3011,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75846,
+      "num": 75846,
+      "word": "陶喆看到天津盘头笑成这样",
+      "onboard_time": 1776061581,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75666,
       "num": 75666,
       "word": "txt直播",
@@ -3067,20 +3099,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 75156,
-      "num": 75156,
-      "word": "刷牙出血是掉牙的早期信号",
-      "onboard_time": 1776060622,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75012,
       "num": 174518,
       "word": "徐洁儿为什么会没人选",
       "onboard_time": 1775918785,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75002,
+      "num": 83334,
+      "word": "莫氏鸡煲老板爆火前的佛系人生",
+      "onboard_time": 1776061101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74982,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1776035899,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74152,
+      "num": 74152,
+      "word": "男孩被私拴绳子锁喉已筹款48万元",
+      "onboard_time": 1776060141,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73898,
@@ -3161,6 +3201,14 @@
       "onboard_time": 1776042500,
       "rank": 42,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 73449,
+      "num": 73449,
+      "word": "今天的快乐被粉色海豚承包了",
+      "onboard_time": 1776061822,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 73236,
@@ -3225,14 +3273,6 @@
       "onboard_time": 1776057802,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71562,
-      "num": 83334,
-      "word": "莫氏鸡煲老板爆火前的佛系人生",
-      "onboard_time": 1776061101,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71460,
@@ -4027,7 +4067,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28377,
+      "raw_hot": 29349,
       "num": 72043,
       "word": "张雪离开凯越机车辞职信曝光",
       "onboard_time": 1776052221,
@@ -4048,14 +4088,6 @@
       "word": "公司当场辞退晕倒女主播违法",
       "onboard_time": 1775928976,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28029,
-      "num": 141536,
-      "word": "场子姐告小三道歉案二审开庭",
-      "onboard_time": 1776060081,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -4131,6 +4163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25628,
+      "num": 750581,
+      "word": "中国经济开门红成色十足",
+      "onboard_time": 1776052042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25495,
       "num": 117211,
       "word": "纽约地铁站发生持刀伤人",
@@ -4145,14 +4185,6 @@
       "onboard_time": 1775928858,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25246,
-      "num": 665713,
-      "word": "中国经济开门红成色十足",
-      "onboard_time": 1776052042,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25195,
