@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776095789755,
+  "endTime": 1776100424869,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -545,6 +545,14 @@
       "onboard_time": 1776085162,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 457136,
+      "num": 99577,
+      "word": "田曦薇发言",
+      "onboard_time": 1776095900,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 456815,
@@ -1619,6 +1627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199052,
+      "num": 516032,
+      "word": "演出服遭集体退货家属称表演取消",
+      "onboard_time": 1776093624,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197543,
       "num": 197543,
       "word": "BLG对战JDG",
@@ -1644,7 +1660,7 @@
     },
     {
       "raw_hot": 191673,
-      "num": 94650,
+      "num": 379963,
       "word": "嫣然医院不再续租",
       "onboard_time": 1776093982,
       "rank": 30,
@@ -2603,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115556,
+      "num": 115556,
+      "word": "特朗普警告伊朗攻击艇勿靠近封锁线",
+      "onboard_time": 1776094280,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115544,
       "num": 115544,
       "word": "伊朗媒体公布伊美谈判过程",
@@ -3019,6 +3043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101089,
+      "num": 101089,
+      "word": "美若封锁霍尔木兹就将失去曼德海峡",
+      "onboard_time": 1776098537,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101018,
       "num": 120711,
       "word": "男子肝癌去世妹妹一人带5个娃",
@@ -3315,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94061,
+      "num": 101008,
+      "word": "多校鼓励博士生读硕士",
+      "onboard_time": 1776092783,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93795,
       "num": 93795,
       "word": "JDG让一追二BLG",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1776065662,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92436,
-      "num": 132760,
-      "word": "演出服遭集体退货家属称表演取消",
-      "onboard_time": 1776093624,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92269,
@@ -3545,14 +3577,6 @@
       "onboard_time": 1776078441,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87946,
-      "num": 101008,
-      "word": "多校鼓励博士生读硕士",
-      "onboard_time": 1776092783,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 87339,
@@ -3996,7 +4020,7 @@
     },
     {
       "raw_hot": 77288,
-      "num": 84646,
+      "num": 85821,
       "word": "让你一整天都保持清醒的方法",
       "onboard_time": 1776091763,
       "rank": 44,
@@ -4564,7 +4588,7 @@
     },
     {
       "raw_hot": 63885,
-      "num": 63885,
+      "num": 76366,
       "word": "西宁一面馆冒犯女性标语已撤下",
       "onboard_time": 1776094101,
       "rank": 43,
@@ -4713,14 +4737,6 @@
       "onboard_time": 1775901143,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 55607,
-      "num": 55607,
-      "word": "特朗普警告伊朗攻击艇勿靠近封锁线",
-      "onboard_time": 1776094280,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54992,
@@ -5043,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43186,
+      "num": 86323,
+      "word": "莫氏鸡煲黄牛号已炒至200元",
+      "onboard_time": 1776098778,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42375,
       "num": 139258,
       "word": "高昉洁说没世界冠军又何妨",
@@ -5115,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39414,
+      "num": 84531,
+      "word": "龚俊能不能再拍个现偶",
+      "onboard_time": 1776097459,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38838,
       "num": 41037,
       "word": "我发现心愿便利贴静音特别好听",
@@ -5147,6 +5179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 38067,
+      "num": 83433,
+      "word": "月鳞绮纪",
+      "onboard_time": 1776099617,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37590,
       "num": 37590,
       "word": "孙怡有种老实人被气疯了的感觉",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1775996962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35267,
+      "num": 82528,
+      "word": "权志龙科切拉怼脸拍",
+      "onboard_time": 1776097519,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 35102,
@@ -5192,6 +5240,14 @@
       "word": "美前国务卿说攻击伊朗是以总理梦想",
       "onboard_time": 1775925321,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34247,
+      "num": 81733,
+      "word": "英国称不参与霍尔木兹海峡封锁",
+      "onboard_time": 1776099856,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -5281,6 +5337,14 @@
       "onboard_time": 1775931556,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30655,
+      "num": 81242,
+      "word": "外交部回应美方将封锁霍尔木兹海峡",
+      "onboard_time": 1776099617,
+      "rank": 31,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 29970,
@@ -5379,11 +5443,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26800,
+      "num": 79713,
+      "word": "被绳割喉男孩网上筹款已超50万元",
+      "onboard_time": 1776100037,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26722,
+      "num": 79234,
+      "word": "中国79岁奶奶获国际大奖",
+      "onboard_time": 1776095361,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26584,
       "num": 98112,
       "word": "alin又来修音响了",
       "onboard_time": 1775971699,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26413,
+      "num": 78421,
+      "word": "TXT团队戒指",
+      "onboard_time": 1776097580,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -5401,6 +5489,14 @@
       "onboard_time": 1775976323,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26066,
+      "num": 77701,
+      "word": "商场过亿会放的音乐原来是这个调",
+      "onboard_time": 1776099678,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 25656,
@@ -5472,6 +5568,38 @@
       "word": "山西一法官猥亵当事人纪检部门介入",
       "onboard_time": 1776010280,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23158,
+      "num": 76556,
+      "word": "伊朗强硬回应特朗普封锁威胁",
+      "onboard_time": 1776090082,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22684,
+      "num": 75817,
+      "word": "中方反对无根据抹黑",
+      "onboard_time": 1776099856,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22156,
+      "num": 75611,
+      "word": "蔡皋获国际安徒生奖",
+      "onboard_time": 1776099617,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20256,
+      "num": 74831,
+      "word": "被遗留在托管班的姐弟俩能上学了",
+      "onboard_time": 1776099617,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
