@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/13 08:01:35
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/13 11:33:35
 </p>
 </blockquote>
 <p>
@@ -1143,6 +1143,12 @@ SEVENTEEN全员续约（热度：850827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%81%B7%E7%BB%99%E7%88%B7%E7%88%B7%E5%B8%A6%E8%82%89%E5%BD%93%E5%9C%B0%E5%B7%B2%E4%BB%8B%E5%85%A5%23" target="weibo">
+9岁男孩偷偷给爷爷带肉当地已介入（热度：804106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SBTI%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E8%A2%AB%E6%8C%87%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%23" target="weibo">
 SBTI测试结果被指随机生成（热度：797685）
 </a>
@@ -1479,6 +1485,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%20%E7%9F%AD%E5%89%A7%23" target="weibo">
+陈赫 短剧（热度：682316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%AF%B4%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
 金子涵说的是谁（热度：680739）
 </a>
@@ -1595,6 +1607,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A989%E6%AD%BB722%E4%BC%A4%23" target="weibo">
 以军大规模空袭致黎巴嫩89死722伤（热度：649741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8E%E4%BD%95%E8%B6%85%E8%95%B8%E5%90%88%E7%85%A7%23" target="weibo">
+何猷君晒与何超蕸合照（热度：649416）
 </a>
 </li>
 
@@ -1955,6 +1973,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A69%E5%B2%81%E5%A8%83%E9%AA%91%E8%A1%8C%E5%86%8D%E6%B8%A9%E9%A6%A8%E4%B9%9F%E8%BF%9D%E6%B3%95%23" target="weibo">
 黄晓明带9岁娃骑行再温馨也违法（热度：587119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
+美将封锁霍尔木兹海峡（热度：586300）
 </a>
 </li>
 
@@ -2687,6 +2711,12 @@ sbti测试（热度：495899）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%AF%B4%E6%B2%88%E6%9C%88%E7%A1%AE%E5%AE%9E%E6%BC%82%E4%BA%AE%23" target="weibo">
 秦岚说沈月确实漂亮（热度：482335）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E6%9C%80%E4%BA%89%E6%B0%94%E7%9A%84%E6%98%AF%E5%A5%B9%E8%87%AA%E5%B7%B1%23" target="weibo">
+霍思燕最争气的是她自己（热度：481975）
 </a>
 </li>
 
@@ -4299,6 +4329,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%AF%E8%8A%B1%E7%AC%91%20%E7%94%B0%E6%9B%A6%E8%96%87%23" target="weibo">
+灯花笑 田曦薇（热度：349553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E8%BD%A6%E6%8A%8A%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A5%B3%E5%84%BF%E6%80%A5%E5%9D%8F%E4%BA%86%23" target="weibo">
 塞车把周杰伦女儿急坏了（热度：349421）
 </a>
@@ -4307,6 +4343,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E8%BF%91%E4%B9%8E%E6%98%8F%E8%BF%B7%E6%97%B6%E9%81%AD%E6%95%91%E6%8A%A4%E5%91%98%E6%80%A7%E4%BE%B5%23" target="weibo">
 泰国女星近乎昏迷时遭救护员性侵（热度：349237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%95%E7%8B%AC%E5%9D%90%E8%BF%87%E5%A4%9C%E7%81%AB%E8%BD%A6%E8%A2%AB%E4%B9%98%E8%AD%A6%E6%8B%89%E8%BF%9B%E7%BE%A4%23" target="weibo">
+女子单独坐过夜火车被乘警拉进群（热度：348884）
 </a>
 </li>
 
@@ -4587,6 +4629,12 @@ iPhone三款新机机模出炉（热度：337848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPuraXMax%23" target="weibo">
+华为PuraXMax（热度：332869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%8B%96%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
 胃癌真的是拖出来的（热度：332627）
 </a>
@@ -4703,6 +4751,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%92%8F%E4%BB%AA%E8%AF%B4%E6%B5%AA%E5%A7%90%E8%AF%B7%E4%B8%8D%E5%88%B0%E6%88%91%E6%9D%8E%E5%BF%83%E6%B4%81%E8%AF%B7%E5%88%B0%23" target="weibo">
 袁咏仪说浪姐请不到我李心洁请到（热度：323693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2361%E5%B2%81%E7%94%B7%E5%AD%90%E6%89%8B%E6%9C%AF%E5%90%8E%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%BA%AB%E4%BA%A1%23" target="weibo">
+61岁男子手术后在飞机上身亡（热度：323338）
 </a>
 </li>
 
@@ -4859,6 +4913,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%B8%9D%E5%85%A5%E5%9B%B4%E9%A2%84%E6%B5%8B%23" target="weibo">
 今年白玉兰视帝入围预测（热度：317541）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%B8%BB%E6%BC%94%E9%93%81%E8%AF%81%23" target="weibo">
+孙红雷刘宇宁王玉雯主演铁证（热度：317209）
 </a>
 </li>
 
@@ -5295,6 +5355,12 @@ TOP演唱会人气（热度：302471）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B2%E4%BB%A3%E6%8B%8D%23" target="weibo">
+十日终焉防代拍（热度：296695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%94%9F%E6%B2%A1%E6%9C%89%E5%9B%9B%E8%82%A2%E7%9A%84%E6%AF%8D%E4%BA%B2%E7%94%A8%E5%98%B4%E5%85%BB%E6%B4%BB%E4%B8%89%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
 天生没有四肢的母亲用嘴养活三个孩子（热度：296348）
 </a>
@@ -5465,6 +5531,12 @@ TOP演唱会人气（热度：302471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%88%E7%9D%A1%E6%82%B2%E4%BC%A4%E7%BB%BC%E5%90%88%E5%BE%81%23" target="weibo">
 午睡悲伤综合征（热度：286687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E7%AB%9F%E7%84%B6%E5%92%8C%E5%AD%99%E6%80%A1%E5%90%88%E4%BD%9C%E8%BF%87%23" target="weibo">
+徐艺洋竟然和孙怡合作过（热度：286437）
 </a>
 </li>
 
@@ -5939,78 +6011,6 @@ nctdream 小拇指（热度：281089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 伊朗强硬回应特朗普（热度：267725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23SuperJunior%E8%87%B4%E6%AD%89%23" target="weibo">
-SuperJunior致歉（热度：267660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E6%9C%9F%E9%95%BF%E8%BF%99%E6%A0%B7%E5%95%8A%23" target="weibo">
-原来王楚然早期长这样啊（热度：267293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97%20%E5%88%A0%E5%90%BB%E6%88%8F%23" target="weibo">
-钢铁森林 删吻戏（热度：266849）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E4%BA%BA%E6%B0%94%23" target="weibo">
-张慧雯人气（热度：266583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E6%88%98%E6%9E%9C%23" target="weibo">
-伊朗驻华大使馆发布战果（热度：266526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%BD%B0%E7%82%B8%E8%AE%A1%E5%88%92%E8%A2%AB%E6%9B%9D%E5%B7%B2%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%23" target="weibo">
-美以大规模轰炸计划被曝已准备就绪（热度：266271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%8C%E7%A7%B0%E9%97%AA%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%AF%94%E6%8D%A2%E7%94%B5%E6%85%A2%23" target="weibo">
-李斌称闪充再快也比换电慢（热度：265898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E7%BE%8E%E5%9B%BDF35%E6%AE%8B%E9%AA%B8%E7%85%A7%23" target="weibo">
-伊朗媒体发布美国F35残骸照（热度：265866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E9%82%93%E8%B6%85%E5%8E%BB%E7%9C%8B%E9%99%88%E8%B5%AB%E8%AF%9D%E5%89%A7%23" target="weibo">
-Angelababy邓超去看陈赫话剧（热度：265771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E6%98%AFHero%E4%B9%85%E8%AF%9A%23" target="weibo">
-重生之我是Hero久诚（热度：265714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%8B%E8%94%A1%E5%B0%91%E8%8A%AC6%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%23" target="weibo">
-张晋蔡少芬6岁儿子近照（热度：265180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E4%B8%8D%E6%83%B3%E7%81%AB%E9%B8%A1%E7%85%B2%E5%BA%97%E8%80%81%E6%9D%BF%E7%A7%B0%E5%87%86%E5%A4%87%E5%80%92%E9%97%AD%E4%BA%86%23" target="weibo">
-全网最不想火鸡煲店老板称准备倒闭了（热度：264958）
 </a>
 </li>
 

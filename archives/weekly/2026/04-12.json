@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776038495067,
+  "endTime": 1776051215055,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804106,
+      "num": 862525,
+      "word": "9岁男孩偷偷给爷爷带肉当地已介入",
+      "onboard_time": 1776047599,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 733221,
       "num": 403147,
       "word": "维妮娜淘汰",
@@ -112,6 +120,14 @@
       "word": "胡先煦十日终焉被曝1天杀青",
       "onboard_time": 1775962640,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 682316,
+      "num": 682316,
+      "word": "陈赫 短剧",
+      "onboard_time": 1776048980,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -137,6 +153,14 @@
       "onboard_time": 1775975481,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 649416,
+      "num": 561834,
+      "word": "何猷君晒与何超蕸合照",
+      "onboard_time": 1776046580,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 632015,
@@ -211,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 586300,
+      "num": 586300,
+      "word": "美将封锁霍尔木兹海峡",
+      "onboard_time": 1776048258,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 581009,
       "num": 503735,
       "word": "逝者托梦家属投诉入殓师未脱纸尿裤",
@@ -281,6 +313,14 @@
       "onboard_time": 1775918966,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 481975,
+      "num": 292911,
+      "word": "霍思燕最争气的是她自己",
+      "onboard_time": 1776047120,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 478635,
@@ -467,6 +507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349553,
+      "num": 291413,
+      "word": "灯花笑 田曦薇",
+      "onboard_time": 1776049279,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348884,
+      "num": 348884,
+      "word": "女子单独坐过夜火车被乘警拉进群",
+      "onboard_time": 1776049822,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346553,
       "num": 181640,
       "word": "浪姐 剧本",
@@ -499,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 332869,
+      "num": 332869,
+      "word": "华为PuraXMax",
+      "onboard_time": 1776049101,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 332384,
       "num": 749687,
       "word": "莫氏鸡煲要卖汤底药包了",
@@ -520,6 +584,14 @@
       "word": "被绳割断气管男孩家境很不好",
       "onboard_time": 1775993001,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323338,
+      "num": 289654,
+      "word": "61岁男子手术后在飞机上身亡",
+      "onboard_time": 1776048500,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -553,6 +625,14 @@
       "onboard_time": 1776000562,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317209,
+      "num": 288379,
+      "word": "孙红雷刘宇宁王玉雯主演铁证",
+      "onboard_time": 1776050120,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 316749,
@@ -609,6 +689,22 @@
       "onboard_time": 1775981063,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296695,
+      "num": 296695,
+      "word": "十日终焉防代拍",
+      "onboard_time": 1776047840,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286437,
+      "num": 286437,
+      "word": "徐艺洋竟然和孙怡合作过",
+      "onboard_time": 1776040161,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 281392,
@@ -723,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235322,
+      "num": 235322,
+      "word": "伊朗曝美方要均分霍尔木兹收益",
+      "onboard_time": 1776037700,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233274,
       "num": 233274,
       "word": "莫氏老板未收温氏1000只赠鸡",
@@ -740,7 +844,7 @@
     },
     {
       "raw_hot": 232437,
-      "num": 97605,
+      "num": 152558,
       "word": "女子连吃两天蓝莓胃里堵成石墙",
       "onboard_time": 1776038120,
       "rank": 21,
@@ -915,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188031,
+      "num": 188031,
+      "word": "在中国我们不说玩腻了分手吧",
+      "onboard_time": 1776043100,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187217,
       "num": 187217,
       "word": "洛克王国",
@@ -945,6 +1057,14 @@
       "onboard_time": 1776005243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183463,
+      "num": 183463,
+      "word": "张凌赫逐玉庆功宴路透",
+      "onboard_time": 1776051081,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 182422,
@@ -1036,7 +1156,7 @@
     },
     {
       "raw_hot": 170810,
-      "num": 111250,
+      "num": 113098,
       "word": "男子掉14颗牙剩下14颗也得全拔掉",
       "onboard_time": 1776036439,
       "rank": 20,
@@ -1099,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161648,
+      "num": 161648,
+      "word": "被老鼠咬10天后确诊鼠咬热",
+      "onboard_time": 1776040041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "一栗小莎子得的是霍奇金淋巴瘤",
@@ -1137,6 +1265,14 @@
       "onboard_time": 1776003743,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152866,
+      "num": 152866,
+      "word": "老百姓看病应该多留个心眼",
+      "onboard_time": 1776040223,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152281,
@@ -1201,6 +1337,14 @@
       "onboard_time": 1776007344,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145339,
+      "num": 145339,
+      "word": "IU新剧首播收视率",
+      "onboard_time": 1776043998,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 143982,
@@ -1291,11 +1435,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139893,
+      "num": 294836,
+      "word": "超级巨星孙颖莎",
+      "onboard_time": 1776050481,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139830,
       "num": 139830,
       "word": "逃单奥迪车驾驶人已被拘留",
       "onboard_time": 1775975001,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139807,
+      "num": 93428,
+      "word": "张雪谈妹妹拿买房钱支持自己创业",
+      "onboard_time": 1776044660,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1339,20 +1499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131934,
-      "num": 131934,
-      "word": "伊朗曝美方要均分霍尔木兹收益",
-      "onboard_time": 1776037700,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130553,
       "num": 130553,
       "word": "言雪",
       "onboard_time": 1776005843,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129564,
+      "num": 129564,
+      "word": "男子地铁上辱骂老年乘客又脏又臭",
+      "onboard_time": 1776045741,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129155,
+      "num": 129155,
+      "word": "kimi都这么大了",
+      "onboard_time": 1776050900,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 128905,
@@ -1561,6 +1729,14 @@
       "onboard_time": 1775979441,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114502,
+      "num": 114502,
+      "word": "时代少年团新歌",
+      "onboard_time": 1776038662,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 113915,
@@ -1979,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94315,
+      "num": 94315,
+      "word": "合肥今年大乐透无人中1500万",
+      "onboard_time": 1776049460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93048,
       "num": 93048,
       "word": "钢铁森林水下吻神图",
@@ -2035,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91595,
+      "num": 91595,
+      "word": "广州日报官宣时代少年团演唱会",
+      "onboard_time": 1776050600,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91496,
       "num": 112849,
       "word": "泰柬边境一电诈园内部环境曝光",
@@ -2057,6 +2249,22 @@
       "onboard_time": 1775994681,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91036,
+      "num": 91036,
+      "word": "被央视曝光涉黄AI软件未下架",
+      "onboard_time": 1776051081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90204,
+      "num": 91884,
+      "word": "伊朗民众眼中的美伊谈判",
+      "onboard_time": 1776049401,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90171,
@@ -2091,12 +2299,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88314,
+      "num": 88314,
+      "word": "京洛再无佳人 吴磊",
+      "onboard_time": 1776040402,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88264,
       "num": 88264,
       "word": "成毅饰演的谢淮安穿越到了2026年了",
       "onboard_time": 1775973981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87240,
+      "num": 87240,
+      "word": "布里奇斯只打23秒延续出战纪录",
+      "onboard_time": 1776050361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86985,
+      "num": 86985,
+      "word": "现货黄金急跌原因",
+      "onboard_time": 1776051140,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 86904,
@@ -2451,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75253,
+      "num": 74840,
+      "word": "宋亚轩 没副歌",
+      "onboard_time": 1776041242,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75012,
       "num": 174518,
       "word": "徐洁儿为什么会没人选",
@@ -2465,6 +2705,22 @@
       "onboard_time": 1775926819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74856,
+      "num": 74856,
+      "word": "特朗普称今晚10点封锁伊朗",
+      "onboard_time": 1776050900,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 74792,
+      "num": 74792,
+      "word": "张雪问了自己3个问题后辞职",
+      "onboard_time": 1776041482,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74644,
@@ -2521,6 +2777,14 @@
       "onboard_time": 1775903483,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73491,
+      "num": 73491,
+      "word": "刘雨鑫回应称暂不回广东砍鸡",
+      "onboard_time": 1776042500,
+      "rank": 42,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 73236,
@@ -2619,6 +2883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69466,
+      "num": 69466,
+      "word": "Daeny和Knight十指紧扣",
+      "onboard_time": 1776049880,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69403,
       "num": 69403,
       "word": "我家那小子",
@@ -2657,6 +2929,14 @@
       "onboard_time": 1775986641,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67593,
+      "num": 67593,
+      "word": "演员郑雷去世",
+      "onboard_time": 1776040282,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 66644,
@@ -2715,6 +2995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63854,
+      "num": 63854,
+      "word": "直到爷爷掏出仨口琴",
+      "onboard_time": 1776050960,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63512,
       "num": 81214,
       "word": "看过牡丹盛放懂了国色天香",
@@ -2729,6 +3017,14 @@
       "onboard_time": 1775978721,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63116,
+      "num": 63116,
+      "word": "人民币对美元汇率创三年新高",
+      "onboard_time": 1776045441,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 63104,
