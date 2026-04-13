@@ -1,0 +1,410 @@
+{
+  "runTime": 1776038495067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 980276,
+        "num": 1156844,
+        "word": "员工中了1500万彩票后直接离职",
+        "onboard_time": 1776006923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320903,
+        "num": 844491,
+        "word": "网传浪姐7一公个人喜爱度排名",
+        "onboard_time": 1776006983,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27727,
+        "num": 642340,
+        "word": "中国航天不断刷新宇宙级精彩",
+        "onboard_time": 1775996962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455851,
+        "num": 455851,
+        "word": "欧尔班承认败选",
+        "onboard_time": 1776035778,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 367249,
+        "num": 367249,
+        "word": "伊朗公布驱离美军舰视频",
+        "onboard_time": 1776035719,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201873,
+        "num": 201873,
+        "word": "官方回应为什么不能把杨柳树都砍了",
+        "onboard_time": 1775998460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159838,
+        "num": 159838,
+        "word": "境外涉黄AI软件绕过监管流入国内",
+        "onboard_time": 1776005363,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135588,
+        "num": 159130,
+        "word": "短剧剧宣误入豪门少夫人聚会局",
+        "onboard_time": 1776036918,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94871,
+        "num": 155185,
+        "word": "仙逆王林",
+        "onboard_time": 1776036678,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 51606,
+        "num": 154741,
+        "word": "张帅夺林茨赛女双冠军",
+        "onboard_time": 1776038061,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483596,
+        "num": 151910,
+        "word": "女子遭法官猥亵16分钟录音曝光",
+        "onboard_time": 1776007283,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410579,
+        "num": 148449,
+        "word": "匈牙利",
+        "onboard_time": 1776036258,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 145738,
+        "word": "朴宝剑探班王安宇",
+        "onboard_time": 1775998522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144557,
+        "num": 144557,
+        "word": "A股交易将迎重要调整",
+        "onboard_time": 1776034877,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141710,
+        "num": 141710,
+        "word": "张雪机车竞拍者拒绝加价500万转售",
+        "onboard_time": 1776006923,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50911,
+        "num": 140571,
+        "word": "切尔西0比3曼城",
+        "onboard_time": 1776035958,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140235,
+        "num": 140235,
+        "word": "赵子琪硬刚浪姐",
+        "onboard_time": 1775980582,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131934,
+        "num": 131934,
+        "word": "伊朗曝美方要均分霍尔木兹收益",
+        "onboard_time": 1776037700,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104998,
+        "num": 104998,
+        "word": "楚乔传热度",
+        "onboard_time": 1776015795,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98246,
+        "num": 98246,
+        "word": "伊朗称美国找借口退出谈判",
+        "onboard_time": 1776013397,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321840,
+        "num": 98075,
+        "word": "郑恺晒女儿全英文对话",
+        "onboard_time": 1776036559,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232437,
+        "num": 97605,
+        "word": "女子连吃两天蓝莓胃里堵成石墙",
+        "onboard_time": 1776038120,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163071,
+        "num": 97095,
+        "word": "男子掉14颗牙剩下14颗也得全拔掉",
+        "onboard_time": 1776036439,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143982,
+        "num": 96462,
+        "word": "男子住48元宾馆身亡家属索赔被驳回",
+        "onboard_time": 1776009921,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96351,
+        "num": 96351,
+        "word": "箱包女王破产后卖包子重启人生",
+        "onboard_time": 1776036918,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95061,
+        "num": 95061,
+        "word": "赵丽颖林更新楚乔传百指",
+        "onboard_time": 1776037579,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88455,
+        "num": 88455,
+        "word": "北京逐步替换杨柳树雌株",
+        "onboard_time": 1776024793,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84203,
+        "num": 84203,
+        "word": "伊朗伊斯兰革命卫队海军发出警告",
+        "onboard_time": 1776007344,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83736,
+        "num": 83736,
+        "word": "时代少年团与循规蹈矩唱反调",
+        "onboard_time": 1776034818,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81156,
+        "num": 81156,
+        "word": "王石 秦枫",
+        "onboard_time": 1775994802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80724,
+        "num": 80724,
+        "word": "孙子怕爷爷去世每天偷偷带肉回家",
+        "onboard_time": 1776005243,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80692,
+        "num": 80692,
+        "word": "李荣浩真转我五百了",
+        "onboard_time": 1775990481,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51169,
+        "num": 80076,
+        "word": "苹果AI眼镜细节曝光",
+        "onboard_time": 1776037039,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79682,
+        "num": 79682,
+        "word": "王石已第4次被传失联被抓",
+        "onboard_time": 1776023594,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76086,
+        "num": 76086,
+        "word": "妈妈辅导作业被气到引爆脑瘤",
+        "onboard_time": 1775995941,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75985,
+        "num": 75985,
+        "word": "王濛的底气",
+        "onboard_time": 1776001462,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72936,
+        "num": 72936,
+        "word": "北京野生动物园豚豚情绪稳定消灭杨絮",
+        "onboard_time": 1776038299,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72876,
+        "num": 72876,
+        "word": "何超蕸去世",
+        "onboard_time": 1775975301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71548,
+        "num": 71548,
+        "word": "小酒窝和爸爸逛面包节",
+        "onboard_time": 1776002123,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69911,
+        "num": 69911,
+        "word": "匈牙利国会选举蒂萨党领先",
+        "onboard_time": 1776035899,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69654,
+        "num": 69654,
+        "word": "伊朗称美国荒唐可笑",
+        "onboard_time": 1776038120,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 69506,
+        "num": 69506,
+        "word": "伊朗谈判代表团启程回国",
+        "onboard_time": 1776036377,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68552,
+        "num": 68552,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1776007103,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59345,
+        "num": 59345,
+        "word": "脑雾",
+        "onboard_time": 1775994201,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58304,
+        "num": 58304,
+        "word": "王橹杰小咴故事原型",
+        "onboard_time": 1776037338,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51873,
+        "num": 51873,
+        "word": "央视曝光AI造黄产业链",
+        "onboard_time": 1775999782,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51804,
+        "num": 51804,
+        "word": "12306回应静音车厢售货不叫卖",
+        "onboard_time": 1776037400,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51549,
+        "num": 51549,
+        "word": "热刺 降级",
+        "onboard_time": 1776005483,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48682,
+        "num": 48682,
+        "word": "钢铁森林大结局",
+        "onboard_time": 1776007042,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40081,
+        "num": 48607,
+        "word": "IU新剧向男主求婚这段",
+        "onboard_time": 1776013696,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席寄望中美青年#"
+    }
+  }
+}

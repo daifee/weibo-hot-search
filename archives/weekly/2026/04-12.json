@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776037476486,
+  "endTime": 1776038495067,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455851,
+      "num": 455851,
+      "word": "欧尔班承认败选",
+      "onboard_time": 1776035778,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 432778,
       "num": 1069244,
       "word": "赌王何鸿燊17名子女已有3人离世",
@@ -355,11 +363,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415244,
-      "num": 415244,
-      "word": "欧尔班承认败选",
-      "onboard_time": 1776035778,
-      "rank": 3,
+      "raw_hot": 410579,
+      "num": 148616,
+      "word": "匈牙利",
+      "onboard_time": 1776036258,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1775994021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367249,
+      "num": 367249,
+      "word": "伊朗公布驱离美军舰视频",
+      "onboard_time": 1776035719,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366413,
@@ -505,6 +521,14 @@
       "onboard_time": 1775993001,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321840,
+      "num": 107814,
+      "word": "郑恺晒女儿全英文对话",
+      "onboard_time": 1776036559,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 320478,
@@ -715,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232437,
+      "num": 97605,
+      "word": "女子连吃两天蓝莓胃里堵成石墙",
+      "onboard_time": 1776038120,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232230,
       "num": 188767,
       "word": "挑杯抽签",
@@ -729,14 +761,6 @@
       "onboard_time": 1775974940,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228292,
-      "num": 228292,
-      "word": "伊朗公布驱离美军舰视频",
-      "onboard_time": 1776035719,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225796,
@@ -1171,28 +1195,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148616,
-      "num": 148616,
-      "word": "匈牙利",
-      "onboard_time": 1776036258,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 146078,
-      "num": 107814,
-      "word": "郑恺晒女儿全英文对话",
-      "onboard_time": 1776036559,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145547,
       "num": 150530,
       "word": "伊朗伊斯兰革命卫队海军发出警告",
       "onboard_time": 1776007344,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143982,
+      "num": 127870,
+      "word": "男子住48元宾馆身亡家属索赔被驳回",
+      "onboard_time": 1776009921,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 143780,
@@ -1243,8 +1259,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141020,
-      "num": 141020,
+      "raw_hot": 141710,
+      "num": 141710,
       "word": "张雪机车竞拍者拒绝加价500万转售",
       "onboard_time": 1776006923,
       "rank": 32,
@@ -1299,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135588,
+      "num": 159130,
+      "word": "短剧剧宣误入豪门少夫人聚会局",
+      "onboard_time": 1776036918,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134797,
       "num": 134797,
       "word": "LGD签运",
@@ -1315,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131934,
+      "num": 131934,
+      "word": "伊朗曝美方要均分霍尔木兹收益",
+      "onboard_time": 1776037700,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130553,
       "num": 130553,
       "word": "言雪",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1775918124,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127870,
-      "num": 127870,
-      "word": "男子住48元宾馆身亡家属索赔被驳回",
-      "onboard_time": 1776009921,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 127532,
@@ -1731,20 +1755,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104998,
+      "num": 175954,
+      "word": "楚乔传热度",
+      "onboard_time": 1776015795,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104197,
       "num": 104197,
       "word": "时代少年团与循规蹈矩唱反调",
       "onboard_time": 1776034818,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102904,
-      "num": 175954,
-      "word": "楚乔传热度",
-      "onboard_time": 1776015795,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 102809,
@@ -1867,6 +1891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96351,
+      "num": 98357,
+      "word": "箱包女王破产后卖包子重启人生",
+      "onboard_time": 1776036918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96264,
       "num": 125345,
       "word": "罗永浩是怎么被蒸馏的",
@@ -1913,6 +1945,22 @@
       "onboard_time": 1775999361,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95061,
+      "num": 95061,
+      "word": "赵丽颖林更新楚乔传百指",
+      "onboard_time": 1776037579,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94871,
+      "num": 155185,
+      "word": "仙逆王林",
+      "onboard_time": 1776036678,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 94790,
@@ -2033,6 +2081,14 @@
       "onboard_time": 1775983162,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88455,
+      "num": 98020,
+      "word": "北京逐步替换杨柳树雌株",
+      "onboard_time": 1776024793,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88264,
@@ -2491,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72936,
+      "num": 72936,
+      "word": "北京野生动物园豚豚情绪稳定消灭杨絮",
+      "onboard_time": 1776038299,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72232,
       "num": 72232,
       "word": "莫叔说鸡煲店未必做到五一",
@@ -2539,6 +2603,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69654,
+      "num": 69654,
+      "word": "伊朗称美国荒唐可笑",
+      "onboard_time": 1776038120,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 69506,
+      "num": 96280,
+      "word": "伊朗谈判代表团启程回国",
+      "onboard_time": 1776036377,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69403,
       "num": 69403,
       "word": "我家那小子",
@@ -2577,22 +2657,6 @@
       "onboard_time": 1775986641,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67706,
-      "num": 98357,
-      "word": "箱包女王破产后卖包子重启人生",
-      "onboard_time": 1776036918,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66671,
-      "num": 98020,
-      "word": "北京逐步替换杨柳树雌株",
-      "onboard_time": 1776024793,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66644,
@@ -2704,6 +2768,14 @@
       "word": "张翅直播",
       "onboard_time": 1776009501,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58304,
+      "num": 91739,
+      "word": "王橹杰小咴故事原型",
+      "onboard_time": 1776037338,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2819,12 +2891,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51565,
-      "num": 97160,
-      "word": "仙逆王林",
-      "onboard_time": 1776036678,
-      "rank": 37,
-      "category": "动漫"
+      "raw_hot": 51804,
+      "num": 90964,
+      "word": "12306回应静音车厢售货不叫卖",
+      "onboard_time": 1776037400,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51606,
+      "num": 154741,
+      "word": "张帅夺林茨赛女双冠军",
+      "onboard_time": 1776038061,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51169,
+      "num": 94354,
+      "word": "苹果AI眼镜细节曝光",
+      "onboard_time": 1776037039,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 50884,
@@ -2907,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47894,
-      "num": 96280,
-      "word": "伊朗谈判代表团启程回国",
-      "onboard_time": 1776036377,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47801,
       "num": 47801,
       "word": "你好星期六下期巅峰喜剧节",
@@ -2955,28 +3035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46288,
-      "num": 95276,
-      "word": "短剧剧宣误入豪门少夫人聚会局",
-      "onboard_time": 1776036918,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45216,
       "num": 45216,
       "word": "伊谈判代表团抵达巴基斯坦",
       "onboard_time": 1775951599,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45175,
-      "num": 94354,
-      "word": "苹果AI眼镜细节曝光",
-      "onboard_time": 1776037039,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 45114,
@@ -3139,14 +3203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35554,
-      "num": 91739,
-      "word": "王橹杰小咴故事原型",
-      "onboard_time": 1776037338,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34850,
       "num": 62964,
       "word": "辛纳首夺蒙特卡洛冠军",
@@ -3193,14 +3249,6 @@
       "onboard_time": 1775952919,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 32728,
-      "num": 90964,
-      "word": "12306回应静音车厢售货不叫卖",
-      "onboard_time": 1776037400,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32702,
