@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776081044606,
+  "endTime": 1776088572631,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -9,6 +9,14 @@
       "onboard_time": 1775975301,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2221110,
+      "num": 166543,
+      "word": "张凌赫田曦薇经纪人敬酒",
+      "onboard_time": 1776086243,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1832312,
@@ -81,6 +89,14 @@
       "onboard_time": 1776062901,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1403067,
+      "num": 150611,
+      "word": "王晓晨 俞灏明",
+      "onboard_time": 1776081381,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1317443,
@@ -200,6 +216,14 @@
       "word": "胡先煦十日终焉被曝1天杀青",
       "onboard_time": 1775962640,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 683936,
+      "num": 683936,
+      "word": "张凌赫逐玉庆功宴发言",
+      "onboard_time": 1776082641,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504547,
+      "num": 165626,
+      "word": "迪丽热巴工作室 审美",
+      "onboard_time": 1776086962,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504348,
       "num": 504348,
       "word": "罗生门",
@@ -489,6 +521,14 @@
       "onboard_time": 1775998460,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459756,
+      "num": 459756,
+      "word": "洛克王国 补偿",
+      "onboard_time": 1776085162,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 456815,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 391690,
-      "num": 774719,
+      "num": 1062097,
       "word": "男子无偿献血十年要求免诊查费遭拒",
       "onboard_time": 1776078503,
       "rank": 19,
@@ -787,6 +827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338030,
+      "num": 161502,
+      "word": "肖战 高配得感",
+      "onboard_time": 1776086062,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336328,
+      "num": 782515,
+      "word": "大麦崩了",
+      "onboard_time": 1776082761,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335899,
       "num": 169581,
       "word": "郭碧婷劝小鹿不要生二胎",
@@ -923,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315002,
+      "num": 159893,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1776083002,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311978,
       "num": 311978,
       "word": "JDG DYG",
@@ -987,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291897,
+      "num": 291897,
+      "word": "卢洋洋去拍短剧了",
+      "onboard_time": 1776085282,
+      "rank": 5,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 287092,
       "num": 134054,
       "word": "ally整容模版是迪丽热巴",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1775988681,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278600,
+      "num": 157218,
+      "word": "杨紫直播",
+      "onboard_time": 1776086902,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 278558,
@@ -1160,6 +1240,22 @@
       "word": "孙子怕爷爷去世每天偷偷带肉回家",
       "onboard_time": 1776005243,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247793,
+      "num": 247793,
+      "word": "韩国中学生在上海观光廊大声打闹",
+      "onboard_time": 1776083062,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246458,
+      "num": 246458,
+      "word": "男子闯黄灯撞死无证闯红灯老人",
+      "onboard_time": 1776081742,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1465,6 +1561,14 @@
       "onboard_time": 1776007103,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192990,
+      "num": 139516,
+      "word": "刘冲去了逐玉庆功宴",
+      "onboard_time": 1776087622,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191087,
@@ -1779,6 +1883,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155385,
+      "num": 155385,
+      "word": "开发商就喷辣椒水驱散购房人群致歉",
+      "onboard_time": 1776082882,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153715,
+      "num": 130966,
+      "word": "董力8岁儿子都这么高了",
+      "onboard_time": 1776086783,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152866,
       "num": 152866,
       "word": "老百姓看病应该多留个心眼",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1776005483,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148745,
+      "num": 71434,
+      "word": "张桂源语音聊天",
+      "onboard_time": 1776087142,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 146604,
@@ -1945,6 +2073,14 @@
       "onboard_time": 1776005183,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141740,
+      "num": 141740,
+      "word": "1岁宝宝被排队摸脸萌化了",
+      "onboard_time": 1776081501,
+      "rank": 23,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 141710,
@@ -2051,6 +2187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133101,
+      "num": 133101,
+      "word": "患者被吊1小时医院多专利已无效",
+      "onboard_time": 1776082220,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 132795,
       "num": 132795,
       "word": "浪姐",
@@ -2121,6 +2265,22 @@
       "onboard_time": 1775916504,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127112,
+      "num": 112878,
+      "word": "没人知道马頔要把家装修成什么样",
+      "onboard_time": 1776083482,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126438,
+      "num": 160441,
+      "word": "北京最火饺子馆开始喂AI龙虾",
+      "onboard_time": 1776083781,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126156,
@@ -2233,6 +2393,14 @@
       "onboard_time": 1775975122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116969,
+      "num": 116969,
+      "word": "油价六连涨换油混还是继续扛",
+      "onboard_time": 1776083301,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 116877,
@@ -2555,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 106094,
+      "num": 131659,
+      "word": "中方回应特朗普威胁加征关税",
+      "onboard_time": 1776083362,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106056,
       "num": 183307,
       "word": "清清",
@@ -2771,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99388,
+      "num": 99388,
+      "word": "仇一代已和解 仇二代请二搭",
+      "onboard_time": 1776088463,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99050,
       "num": 99050,
       "word": "半年前体检正常半年后肺癌晚期",
@@ -2979,6 +3163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93795,
+      "num": 93795,
+      "word": "JDG让一追二BLG",
+      "onboard_time": 1776082521,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93287,
+      "num": 93287,
+      "word": "黄星邱鼎杰方辟谣聊天记录",
+      "onboard_time": 1776082402,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93048,
       "num": 93048,
       "word": "钢铁森林水下吻神图",
@@ -3105,6 +3305,14 @@
       "onboard_time": 1775994861,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90017,
+      "num": 87701,
+      "word": "向太给儿媳花钱用的是自己零用钱",
+      "onboard_time": 1776087983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 89797,
@@ -3899,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72077,
+      "num": 72077,
+      "word": "你还说不是保护伞公司",
+      "onboard_time": 1776087983,
+      "rank": 44,
+      "category": "舆论监督,游戏"
+    },
+    {
       "raw_hot": 72071,
       "num": 72071,
       "word": "时代少年团演唱会",
@@ -4017,6 +4233,22 @@
       "onboard_time": 1775986641,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67792,
+      "num": 67792,
+      "word": "海底捞CEO向贴钱员工致歉",
+      "onboard_time": 1776087983,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67675,
+      "num": 67675,
+      "word": "Bin倒了",
+      "onboard_time": 1776085221,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 67593,
@@ -4227,6 +4459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56425,
+      "num": 132687,
+      "word": "美国越谈伊朗越疑",
+      "onboard_time": 1776084322,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56043,
       "num": 174487,
       "word": "狼队对战KSG",
@@ -4249,6 +4489,14 @@
       "onboard_time": 1775966479,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54521,
+      "num": 157838,
+      "word": "中国混动油耗打破世界纪录",
+      "onboard_time": 1776087323,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 54041,
@@ -4457,6 +4705,14 @@
       "onboard_time": 1775978423,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46998,
+      "num": 67659,
+      "word": "以媒称以总理预告停火或即将结束",
+      "onboard_time": 1776087742,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46964,
@@ -4995,6 +5251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19771,
+      "num": 692124,
+      "word": "2026世界互联网大会亚太峰会",
+      "onboard_time": 1776083662,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19211,
       "num": 62926,
       "word": "王橹杰画的小小咴",
@@ -5138,6 +5402,9 @@
     },
     {
       "word": "#要致力于推进合作共赢的共同开放#"
+    },
+    {
+      "word": "#总书记引领强国之路#"
     }
   ]
 }
