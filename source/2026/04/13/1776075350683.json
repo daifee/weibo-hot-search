@@ -1,0 +1,410 @@
+{
+  "runTime": 1776075350683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 797847,
+        "num": 1127655,
+        "word": "科大讯飞回应网传员工中1500万",
+        "onboard_time": 1776072203,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 428042,
+        "num": 807964,
+        "word": "马斯克版微信",
+        "onboard_time": 1776072742,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63850,
+        "num": 668113,
+        "word": "文旅消费迎来新爆发",
+        "onboard_time": 1776065181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485131,
+        "num": 485131,
+        "word": "没认出这是章子怡",
+        "onboard_time": 1776072800,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209724,
+        "num": 209724,
+        "word": "西宁一面馆标语是对女性的直接冒犯",
+        "onboard_time": 1776067762,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 362663,
+        "num": 209237,
+        "word": "孙燕姿演唱会官宣六站",
+        "onboard_time": 1776069741,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207168,
+        "num": 207168,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188903,
+        "num": 188903,
+        "word": "突然觉得小学老师好厉害",
+        "onboard_time": 1776064281,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 151909,
+        "word": "肠胃不好的人吃早餐belike",
+        "onboard_time": 1776065961,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138831,
+        "num": 138831,
+        "word": "中方回应向伊朗提供武器说法",
+        "onboard_time": 1776071660,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 983413,
+        "num": 138505,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794002,
+        "num": 137384,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363568,
+        "num": 136197,
+        "word": "钱天一论文提到孙颖莎",
+        "onboard_time": 1776070642,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395299,
+        "num": 135638,
+        "word": "黄灿灿为防恶剪每天换发型",
+        "onboard_time": 1776062539,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371311,
+        "num": 135140,
+        "word": "miumiu拍赵今麦 欲扬先抑",
+        "onboard_time": 1776072623,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266399,
+        "num": 133410,
+        "word": "女孩被拐后因长相被多次转卖",
+        "onboard_time": 1776071000,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215081,
+        "num": 132994,
+        "word": "美军舰距离被彻底摧毁仅差数分钟",
+        "onboard_time": 1776068901,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287092,
+        "num": 131799,
+        "word": "ally整容模版是迪丽热巴",
+        "onboard_time": 1776069261,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265915,
+        "num": 130750,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62962,
+        "num": 130021,
+        "word": "官方回应网传茅台总经理王莉被查",
+        "onboard_time": 1776074301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251839,
+        "num": 128964,
+        "word": "李小冉 北舞已经是上个世纪的事了",
+        "onboard_time": 1776052641,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230528,
+        "num": 128548,
+        "word": "醉酒男子叫代驾到村口留置车内死亡",
+        "onboard_time": 1776065000,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221321,
+        "num": 127153,
+        "word": "kimi都这么大了",
+        "onboard_time": 1776050900,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220287,
+        "num": 126450,
+        "word": "文章上海面馆价格",
+        "onboard_time": 1776053002,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126156,
+        "num": 126156,
+        "word": "男子回应彩票中奖1011万",
+        "onboard_time": 1776072920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142380,
+        "num": 125799,
+        "word": "王彦霖 翻红",
+        "onboard_time": 1776072800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129282,
+        "num": 125612,
+        "word": "内娱开始反向播剧了",
+        "onboard_time": 1776070761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123191,
+        "num": 123191,
+        "word": "小猫舔毛时会帮你舔任何东西",
+        "onboard_time": 1776070880,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68146,
+        "num": 116414,
+        "word": "西班牙首相试坐小米汽车",
+        "onboard_time": 1776067700,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125167,
+        "num": 116374,
+        "word": "逐玉庆功宴",
+        "onboard_time": 1776052281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189842,
+        "num": 116289,
+        "word": "伊朗总统称准备达成平衡公平协议",
+        "onboard_time": 1776073762,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115001,
+        "num": 115001,
+        "word": "继EXO的E不发音后陈也不发音",
+        "onboard_time": 1776067101,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110000,
+        "num": 110000,
+        "word": "官俊臣 成绩",
+        "onboard_time": 1776059420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100450,
+        "num": 100450,
+        "word": "花三十块钱在海边买了个笑话",
+        "onboard_time": 1776072920,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100592,
+        "num": 98922,
+        "word": "赵丽颖曾遗憾只拍了楚乔传一本半",
+        "onboard_time": 1776073942,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94464,
+        "num": 94464,
+        "word": "做牵引双腿被吊超1小时无人管",
+        "onboard_time": 1776071720,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91575,
+        "num": 91575,
+        "word": "车上放香皂",
+        "onboard_time": 1776054143,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 38240,
+        "num": 89016,
+        "word": "伊朗视舰船靠近霍尔木兹为违反停火",
+        "onboard_time": 1776073881,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86638,
+        "num": 86638,
+        "word": "白鹿打方向盘 老公姐",
+        "onboard_time": 1776059782,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86208,
+        "num": 86208,
+        "word": "BIGBANG科切拉",
+        "onboard_time": 1776058939,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86065,
+        "num": 86065,
+        "word": "无言应援NexT1DE",
+        "onboard_time": 1776075320,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86186,
+        "num": 85926,
+        "word": "小S给林志玲擦泪",
+        "onboard_time": 1776067221,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85481,
+        "num": 85481,
+        "word": "忽然意识到自己已经绝版了",
+        "onboard_time": 1776072680,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84440,
+        "num": 84440,
+        "word": "西班牙首相和雷军自拍",
+        "onboard_time": 1776074721,
+        "rank": 43,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 83973,
+        "num": 83973,
+        "word": "她真的很认真地在教我吵架",
+        "onboard_time": 1776075081,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79614,
+        "num": 79614,
+        "word": "3岁男童每晚睡前补营养体重仅21斤",
+        "onboard_time": 1776066981,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79488,
+        "num": 79488,
+        "word": "时代少年团高会官宣演唱会",
+        "onboard_time": 1776054802,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35102,
+        "num": 77921,
+        "word": "华为AI眼镜4月20日发布",
+        "onboard_time": 1776073101,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77477,
+        "num": 77477,
+        "word": "中国机器人在波兰街头驱赶野猪",
+        "onboard_time": 1776074062,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 67633,
+        "num": 77465,
+        "word": "杨瀚森NBA首个赛季数据",
+        "onboard_time": 1776060682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要致力于推进合作共赢的共同开放#"
+    }
+  }
+}
