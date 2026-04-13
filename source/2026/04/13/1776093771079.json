@@ -1,0 +1,410 @@
+{
+  "runTime": 1776093771079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 477866,
+        "num": 1076458,
+        "word": "男子得知儿子被欺凌猝死在校调解室",
+        "onboard_time": 1776092064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267714,
+        "num": 789082,
+        "word": "刘冲去了逐玉庆功宴",
+        "onboard_time": 1776087622,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18752,
+        "num": 609586,
+        "word": "2026世界互联网大会亚太峰会",
+        "onboard_time": 1776083662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254468,
+        "num": 254468,
+        "word": "男子闯黄灯撞死无证闯红灯老人",
+        "onboard_time": 1776081742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210839,
+        "num": 210839,
+        "word": "洛克王国 补偿",
+        "onboard_time": 1776085162,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 542243,
+        "num": 204758,
+        "word": "张凌赫田曦薇庆功宴合影",
+        "onboard_time": 1776091404,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163996,
+        "num": 163996,
+        "word": "西班牙首相在清华握手握不过来了",
+        "onboard_time": 1776091522,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160059,
+        "num": 160059,
+        "word": "卢洋洋去拍短剧了",
+        "onboard_time": 1776085282,
+        "rank": 7,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 148816,
+        "num": 148816,
+        "word": "韩国中学生在上海观光廊大声打闹",
+        "onboard_time": 1776083062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 148805,
+        "word": "论樊振东如何在2分钟里拿到11分",
+        "onboard_time": 1776092064,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1100112,
+        "num": 148763,
+        "word": "张凌赫田曦薇经纪人敬酒",
+        "onboard_time": 1776086243,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 762606,
+        "num": 148695,
+        "word": "迪丽热巴工作室 审美",
+        "onboard_time": 1776086962,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371982,
+        "num": 148658,
+        "word": "男子无偿献血十年要求免诊查费遭拒",
+        "onboard_time": 1776078503,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 360296,
+        "num": 148623,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351432,
+        "num": 148536,
+        "word": "官俊臣艺考 没报机构",
+        "onboard_time": 1776088883,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274418,
+        "num": 148528,
+        "word": "伊朗曾准备稀释450公斤浓缩铀",
+        "onboard_time": 1776088764,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338410,
+        "num": 148443,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67108,
+        "num": 148425,
+        "word": "北京最火饺子馆开始喂AI龙虾",
+        "onboard_time": 1776083781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322855,
+        "num": 148353,
+        "word": "北电艺考的全国前五名",
+        "onboard_time": 1776089843,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31030,
+        "num": 148327,
+        "word": "被遗留托管班姐弟说仍然很爱爸爸",
+        "onboard_time": 1776092901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1125209,
+        "num": 148278,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1776081381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245259,
+        "num": 148197,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214532,
+        "num": 148193,
+        "word": "瘦肚子超好的行为",
+        "onboard_time": 1776090324,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187711,
+        "num": 148110,
+        "word": "肖战 高配得感",
+        "onboard_time": 1776086062,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172087,
+        "num": 148068,
+        "word": "仇一代已和解 仇二代请二搭",
+        "onboard_time": 1776088463,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148051,
+        "num": 148051,
+        "word": "长春姐弟俩被遗留在托管班两年",
+        "onboard_time": 1776077122,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146977,
+        "num": 146977,
+        "word": "李小冉只是长得年轻",
+        "onboard_time": 1776078922,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115604,
+        "num": 137397,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128570,
+        "num": 128570,
+        "word": "男子无症状查出肠癌多亏按时体检",
+        "onboard_time": 1776091343,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91465,
+        "num": 126988,
+        "word": "伊朗总统称准备达成平衡公平协议",
+        "onboard_time": 1776073762,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131701,
+        "num": 126986,
+        "word": "向太给儿媳花钱用的是自己零用钱",
+        "onboard_time": 1776087983,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126979,
+        "num": 126979,
+        "word": "黄灿灿为防恶剪每天换发型",
+        "onboard_time": 1776062539,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "海底捞CEO向贴钱员工致歉",
+        "onboard_time": 1776087983,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125719,
+        "num": 118783,
+        "word": "大冰说一定要动起来",
+        "onboard_time": 1776090444,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118360,
+        "num": 118360,
+        "word": "杨紫 这不又来上班了吗",
+        "onboard_time": 1776092901,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101423,
+        "num": 106214,
+        "word": "莫氏鸡煲迎来成群TVB老戏骨",
+        "onboard_time": 1776075861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105652,
+        "num": 105652,
+        "word": "齐思钧已确诊为中年疲惫",
+        "onboard_time": 1776093682,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102226,
+        "num": 102226,
+        "word": "王晓晨吃药引发心悸",
+        "onboard_time": 1776076340,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96595,
+        "num": 96595,
+        "word": "女子宫外孕被误诊月经不调痛到晕厥",
+        "onboard_time": 1776090383,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87946,
+        "num": 87946,
+        "word": "多校鼓励博士生读硕士",
+        "onboard_time": 1776092783,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90066,
+        "num": 87221,
+        "word": "美军开始拦截进出霍尔木兹海峡船只",
+        "onboard_time": 1776093501,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83289,
+        "num": 83289,
+        "word": "网友一句提醒外卖小哥查出尿毒症",
+        "onboard_time": 1776077961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80239,
+        "num": 80239,
+        "word": "董力8岁儿子都这么高了",
+        "onboard_time": 1776086783,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78182,
+        "num": 78182,
+        "word": "演出服遭集体退货家属称表演取消",
+        "onboard_time": 1776093624,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77288,
+        "num": 77288,
+        "word": "让你一整天都保持清醒的方法",
+        "onboard_time": 1776091763,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74558,
+        "num": 74558,
+        "word": "周翊然和沙一汀打瓦",
+        "onboard_time": 1776091223,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72445,
+        "num": 72445,
+        "word": "陈奕恒 卷毛小狗",
+        "onboard_time": 1776093144,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70712,
+        "num": 70712,
+        "word": "1岁宝宝被排队摸脸萌化了",
+        "onboard_time": 1776081501,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 69392,
+        "num": 69392,
+        "word": "AL战胜WBG",
+        "onboard_time": 1776092783,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20040,
+        "num": 68107,
+        "word": "问界M6辅助驾驶实测",
+        "onboard_time": 1776091882,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
