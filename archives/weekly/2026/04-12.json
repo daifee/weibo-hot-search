@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776118226816,
+  "endTime": 1776120860229,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 457136,
-      "num": 99577,
+      "num": 124721,
       "word": "田曦薇发言",
       "onboard_time": 1776095900,
       "rank": 5,
@@ -849,6 +849,14 @@
       "onboard_time": 1775954901,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338782,
+      "num": 573805,
+      "word": "嫣然医院不再续租",
+      "onboard_time": 1776093982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338676,
@@ -1419,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231700,
+      "num": 516032,
+      "word": "演出服遭集体退货家属称表演取消",
+      "onboard_time": 1776093624,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231429,
       "num": 231429,
       "word": "妈妈替女儿申请不上早读",
@@ -1627,14 +1643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199052,
-      "num": 516032,
-      "word": "演出服遭集体退货家属称表演取消",
-      "onboard_time": 1776093624,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197543,
       "num": 197543,
       "word": "BLG对战JDG",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1776007103,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191673,
-      "num": 379963,
-      "word": "嫣然医院不再续租",
-      "onboard_time": 1776093982,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191087,
@@ -2123,6 +2123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 143847,
+      "num": 64059,
+      "word": "李小冉凡尔赛式谈身材管理",
+      "onboard_time": 1776102316,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143780,
       "num": 187942,
       "word": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1776083781,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136882,
+      "num": 136882,
+      "word": "特朗普警告伊朗攻击艇勿靠近封锁线",
+      "onboard_time": 1776094280,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136609,
@@ -2625,14 +2641,6 @@
       "onboard_time": 1775950219,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115556,
-      "num": 115556,
-      "word": "特朗普警告伊朗攻击艇勿靠近封锁线",
-      "onboard_time": 1776094280,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115544,
@@ -3619,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86861,
+      "num": 86861,
+      "word": "伊朗强硬回应特朗普封锁威胁",
+      "onboard_time": 1776090082,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86793,
       "num": 86793,
       "word": "异瞳三花麒麟尾小猫",
@@ -4179,6 +4195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74431,
+      "num": 81242,
+      "word": "外交部回应美方将封锁霍尔木兹海峡",
+      "onboard_time": 1776099617,
+      "rank": 31,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 74189,
       "num": 99938,
       "word": "匈牙利国会选举蒂萨党领先",
@@ -4699,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58052,
+      "num": 79713,
+      "word": "被绳割喉男孩网上筹款已超50万元",
+      "onboard_time": 1776100037,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57747,
       "num": 171849,
       "word": "高三学生学习困难测出智障",
@@ -4729,14 +4761,6 @@
       "onboard_time": 1776084322,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56412,
-      "num": 32660,
-      "word": "李小冉凡尔赛式谈身材管理",
-      "onboard_time": 1776102316,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 56043,
@@ -5083,14 +5107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42448,
-      "num": 81242,
-      "word": "外交部回应美方将封锁霍尔木兹海峡",
-      "onboard_time": 1776099617,
-      "rank": 31,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 42375,
       "num": 139258,
       "word": "高昉洁说没世界冠军又何妨",
@@ -5219,14 +5235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37499,
-      "num": 79713,
-      "word": "被绳割喉男孩网上筹款已超50万元",
-      "onboard_time": 1776100037,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 37225,
       "num": 701536,
       "word": "中国航天不断刷新宇宙级精彩",
@@ -5283,14 +5291,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 33763,
-      "num": 76556,
-      "word": "伊朗强硬回应特朗普封锁威胁",
-      "onboard_time": 1776090082,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33333,
       "num": 63359,
       "word": "女当事人回应被法官猥亵",
@@ -5305,6 +5305,14 @@
       "onboard_time": 1775952919,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32960,
+      "num": 58022,
+      "word": "蜜语纪",
+      "onboard_time": 1776102017,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 32702,
@@ -5329,6 +5337,14 @@
       "onboard_time": 1775948417,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31455,
+      "num": 58011,
+      "word": "檀健次这透屏而来的杀气不像演的",
+      "onboard_time": 1776105494,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 31367,
@@ -5475,7 +5491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26722,
+      "raw_hot": 26870,
       "num": 79234,
       "word": "中国79岁奶奶获国际大奖",
       "onboard_time": 1776095361,
@@ -5603,16 +5619,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21479,
-      "num": 25327,
-      "word": "蜜语纪",
-      "onboard_time": 1776102017,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20423,
-      "num": 25260,
+      "num": 57915,
       "word": "欧尔班16年执政生涯将落幕",
       "onboard_time": 1776108074,
       "rank": 30,
@@ -5633,6 +5641,14 @@
       "onboard_time": 1775934734,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20163,
+      "num": 57923,
+      "word": "闪迪大涨3.8%",
+      "onboard_time": 1776118575,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 20040,
@@ -5667,14 +5683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19557,
-      "num": 25294,
-      "word": "檀健次这透屏而来的杀气不像演的",
-      "onboard_time": 1776105494,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19211,
       "num": 62926,
       "word": "王橹杰画的小小咴",
@@ -5707,6 +5715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18670,
+      "num": 57901,
+      "word": "解锁鸡腿的新吃法",
+      "onboard_time": 1776120437,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 18297,
       "num": 53751,
       "word": "WBG 对线",
@@ -5721,6 +5737,30 @@
       "onboard_time": 1775987782,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17593,
+      "num": 57892,
+      "word": "男孩被绳锁喉的肇事方或被追究刑责",
+      "onboard_time": 1776108973,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17290,
+      "num": 57888,
+      "word": "粉海豚出水打招呼",
+      "onboard_time": 1776103816,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 16782,
+      "num": 57877,
+      "word": "周深演唱会",
+      "onboard_time": 1776106935,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 16450,
@@ -5747,27 +5787,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15200,
-      "num": 25062,
-      "word": "周深演唱会",
-      "onboard_time": 1776106935,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 14954,
       "num": 69083,
       "word": "潮汐车道自动切换太丝滑",
       "onboard_time": 1775906901,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14917,
-      "num": 25070,
-      "word": "男孩被绳锁喉的肇事方或被追究刑责",
-      "onboard_time": 1776108973,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -5785,14 +5809,6 @@
       "onboard_time": 1775940133,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13895,
-      "num": 25109,
-      "word": "粉海豚出水打招呼",
-      "onboard_time": 1776103816,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 13766,
