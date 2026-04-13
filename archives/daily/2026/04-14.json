@@ -1,6 +1,6 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776100424869,
+  "endTime": 1776101961716,
   "band_list": [
     {
       "raw_hot": 457136,
@@ -43,19 +43,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133262,
+      "num": 133262,
+      "word": "美若封锁霍尔木兹就将失去曼德海峡",
+      "onboard_time": 1776098537,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115556,
       "num": 115556,
       "word": "特朗普警告伊朗攻击艇勿靠近封锁线",
       "onboard_time": 1776094280,
       "rank": 3,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 101089,
-      "num": 101089,
-      "word": "美若封锁霍尔木兹就将失去曼德海峡",
-      "onboard_time": 1776098537,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45911,
+      "num": 82528,
+      "word": "权志龙科切拉怼脸拍",
+      "onboard_time": 1776097519,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45200,
       "num": 86931,
       "word": "韩国中学生在上海观光廊大声打闹",
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39641,
+      "num": 83433,
+      "word": "月鳞绮纪",
+      "onboard_time": 1776099617,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39635,
       "num": 85659,
       "word": "网约车司机迎来强制8小时工作制",
@@ -195,12 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38067,
-      "num": 83433,
-      "word": "月鳞绮纪",
+      "raw_hot": 38017,
+      "num": 81242,
+      "word": "外交部回应美方将封锁霍尔木兹海峡",
       "onboard_time": 1776099617,
-      "rank": 25,
-      "category": "剧集"
+      "rank": 31,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 37499,
+      "num": 79713,
+      "word": "被绳割喉男孩网上筹款已超50万元",
+      "onboard_time": 1776100037,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36298,
@@ -209,14 +233,6 @@
       "onboard_time": 1776077961,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35267,
-      "num": 82528,
-      "word": "权志龙科切拉怼脸拍",
-      "onboard_time": 1776097519,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 34391,
@@ -243,12 +259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30655,
-      "num": 81242,
-      "word": "外交部回应美方将封锁霍尔木兹海峡",
-      "onboard_time": 1776099617,
-      "rank": 31,
-      "category": "国内时政,国际时政"
+      "raw_hot": 31118,
+      "num": 77701,
+      "word": "商场过亿会放的音乐原来是这个调",
+      "onboard_time": 1776099678,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29688,
+      "num": 56236,
+      "word": "张凌赫逐玉庆功宴发言",
+      "onboard_time": 1776082641,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 29520,
@@ -273,14 +297,6 @@
       "onboard_time": 1776083482,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26800,
-      "num": 79713,
-      "word": "被绳割喉男孩网上筹款已超50万元",
-      "onboard_time": 1776100037,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26722,
@@ -315,14 +331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26066,
-      "num": 77701,
-      "word": "商场过亿会放的音乐原来是这个调",
-      "onboard_time": 1776099678,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 24617,
       "num": 77403,
       "word": "伊朗总统称准备达成平衡公平协议",
@@ -337,6 +345,14 @@
       "onboard_time": 1776077661,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23758,
+      "num": 55109,
+      "word": "钟南山妻子正式进入篮球名人堂",
+      "onboard_time": 1776059180,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 23158,
@@ -393,6 +409,14 @@
       "onboard_time": 1776081501,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 18297,
+      "num": 53751,
+      "word": "WBG 对线",
+      "onboard_time": 1776099678,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 9610,
