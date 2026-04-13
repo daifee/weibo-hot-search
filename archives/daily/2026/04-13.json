@@ -1,6 +1,6 @@
 {
   "startTime": 1776009628850,
-  "endTime": 1776079459091,
+  "endTime": 1776081044606,
   "band_list": [
     {
       "raw_hot": 1742247,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1458149,
-      "num": 169556,
+      "num": 208347,
       "word": "楚乔传 全员下场",
       "onboard_time": 1776062901,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 983413,
-      "num": 163902,
+      "num": 197094,
       "word": "眉姐姐斓曦怎么了",
       "onboard_time": 1776070341,
       "rank": 13,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 855000,
-      "num": 168382,
+      "num": 193455,
       "word": "黄灿灿为防恶剪每天换发型",
       "onboard_time": 1776062539,
       "rank": 12,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 646283,
+      "num": 1103405,
+      "word": "长春姐弟俩被遗留在托管班两年",
+      "onboard_time": 1776077122,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632015,
       "num": 899520,
       "word": "网传浪姐7一公个人喜爱度排名",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551049,
+      "num": 338548,
+      "word": "成都GG对战Xteam",
+      "onboard_time": 1776075801,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 548628,
       "num": 548628,
       "word": "特朗普称今晚10点封锁伊朗",
@@ -155,8 +171,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 521982,
-      "num": 155609,
+      "raw_hot": 544420,
+      "num": 206124,
       "word": "王晓晨吃药引发心悸",
       "onboard_time": 1776076340,
       "rank": 11,
@@ -171,20 +187,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 506069,
+      "num": 506069,
+      "word": "成都GG 民间队",
+      "onboard_time": 1776079882,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 497180,
       "num": 485131,
       "word": "没认出这是章子怡",
       "onboard_time": 1776072800,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 489256,
-      "num": 1078281,
-      "word": "长春姐弟俩被遗留在托管班两年",
-      "onboard_time": 1776077122,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481975,
@@ -227,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 422796,
+      "num": 255625,
+      "word": "越南综艺 心愿便利贴",
+      "onboard_time": 1776076041,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419553,
       "num": 777406,
       "word": "莫氏鸡煲迎来成群TVB老戏骨",
@@ -257,6 +281,14 @@
       "onboard_time": 1776064281,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 391690,
+      "num": 774719,
+      "word": "男子无偿献血十年要求免诊查费遭拒",
+      "onboard_time": 1776078503,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 384396,
@@ -323,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355107,
-      "num": 255625,
-      "word": "越南综艺 心愿便利贴",
-      "onboard_time": 1776076041,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352030,
       "num": 158989,
       "word": "继EXO的E不发音后陈也不发音",
@@ -347,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338548,
-      "num": 338548,
-      "word": "成都GG对战Xteam",
-      "onboard_time": 1776075801,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 332869,
       "num": 332869,
       "word": "华为PuraXMax",
@@ -368,6 +384,14 @@
       "word": "肠胃不好的人吃早餐belike",
       "onboard_time": 1776065961,
       "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 329923,
+      "num": 329923,
+      "word": "眼睛短短十秒瞎了三次",
+      "onboard_time": 1776078441,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 298833,
-      "num": 141668,
+      "num": 188942,
       "word": "时代少年团正式官宣广州站",
       "onboard_time": 1776077661,
       "rank": 20,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 266596,
-      "num": 138919,
+      "num": 190166,
       "word": "TF五代高会免费",
       "onboard_time": 1776076281,
       "rank": 21,
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230073,
+      "num": 191250,
+      "word": "孙怡的发量",
+      "onboard_time": 1776076222,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229929,
       "num": 144620,
       "word": "被绳锁喉男孩成绩全校前三",
@@ -593,14 +625,6 @@
       "onboard_time": 1776055822,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224940,
-      "num": 135837,
-      "word": "孙怡的发量",
-      "onboard_time": 1776076222,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223291,
@@ -643,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212389,
+      "num": 212389,
+      "word": "科大讯飞有员工中奖但非1500万",
+      "onboard_time": 1776076762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211165,
       "num": 211165,
       "word": "徐洁儿一公倒数第一",
@@ -665,6 +697,14 @@
       "onboard_time": 1775998460,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197543,
+      "num": 197543,
+      "word": "BLG对战JDG",
+      "onboard_time": 1776075440,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 196463,
@@ -705,6 +745,14 @@
       "onboard_time": 1776055163,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183745,
+      "num": 183745,
+      "word": "李小冉只是长得年轻",
+      "onboard_time": 1776078922,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182550,
@@ -763,14 +811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 157613,
-      "num": 157613,
-      "word": "科大讯飞有员工中奖但非1500万",
-      "onboard_time": 1776076762,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156823,
       "num": 156823,
       "word": "央视曝光AI造黄产业链",
@@ -809,6 +849,14 @@
       "onboard_time": 1776034877,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149543,
+      "num": 149543,
+      "word": "书山 桃李不言下自成蹊",
+      "onboard_time": 1776080842,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 146604,
@@ -883,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139958,
-      "num": 133975,
-      "word": "李小冉只是长得年轻",
-      "onboard_time": 1776078922,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139807,
       "num": 93428,
       "word": "张雪谈妹妹拿买房钱支持自己创业",
@@ -945,14 +985,6 @@
       "onboard_time": 1775994381,
       "rank": 15,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 134052,
-      "num": 134052,
-      "word": "眼睛短短十秒瞎了三次",
-      "onboard_time": 1776078441,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 132537,
@@ -1059,19 +1091,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115243,
+      "num": 115243,
+      "word": "网友一句提醒外卖小哥查出尿毒症",
+      "onboard_time": 1776077961,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114854,
       "num": 134619,
       "word": "医院回应患者被吊仪器上1小时无人管",
       "onboard_time": 1776068001,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114650,
-      "num": 114650,
-      "word": "网友一句提醒外卖小哥查出尿毒症",
-      "onboard_time": 1776077961,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 110252,
-      "num": 134063,
+      "num": 176453,
       "word": "认人识人是AI智能体的照妖镜",
       "onboard_time": 1776078261,
       "rank": 26,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1776015795,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104810,
+      "num": 93027,
+      "word": "九尾戴上假发了",
+      "onboard_time": 1776080062,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104760,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1776004703,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102638,
+      "num": 102638,
+      "word": "阴阳师",
+      "onboard_time": 1776079521,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 101827,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1776066981,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99050,
+      "num": 99050,
+      "word": "半年前体检正常半年后肺癌晚期",
+      "onboard_time": 1776080302,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 98804,
@@ -1363,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92269,
+      "num": 92269,
+      "word": "楚乔传剧组低山臭水遇知音",
+      "onboard_time": 1776080722,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91939,
       "num": 91939,
       "word": "男子结婚3年不公开关系称母亲反对",
@@ -1427,8 +1491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88118,
-      "num": 88118,
+      "raw_hot": 88137,
+      "num": 88137,
       "word": "给张根硕吓得老了好几岁",
       "onboard_time": 1776078441,
       "rank": 42,
@@ -1436,7 +1500,7 @@
     },
     {
       "raw_hot": 87339,
-      "num": 87339,
+      "num": 189608,
       "word": "小米18Pro电池设定曝光",
       "onboard_time": 1776079341,
       "rank": 43,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1776065542,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86445,
-      "num": 86445,
-      "word": "BLG对战JDG",
-      "onboard_time": 1776075440,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 86065,
@@ -1843,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65236,
+      "num": 98565,
+      "word": "一季度人民币存款增加13.73万亿元",
+      "onboard_time": 1776080181,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64514,
       "num": 64514,
       "word": "楚乔传 冰湖重生",
@@ -2051,20 +2115,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46609,
+      "num": 168856,
+      "word": "律师解读村民拴绳致男孩气管全断裂",
+      "onboard_time": 1776079701,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45922,
       "num": 151887,
       "word": "外交部回应美伊未达成协议",
       "onboard_time": 1776068001,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45779,
-      "num": 142495,
-      "word": "男子无偿献血十年要求免诊查费遭拒",
-      "onboard_time": 1776078503,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 42008,
@@ -2155,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29970,
+      "num": 98547,
+      "word": "男孩被绳子锁喉肇事方系七旬老人",
+      "onboard_time": 1776080181,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29445,
       "num": 41365,
       "word": "广西4名学生下河游泳溺亡",
@@ -2219,6 +2291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 24096,
+      "num": 176553,
+      "word": "伊朗称美国人很快会怀念现在的油价",
+      "onboard_time": 1776080542,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23564,
       "num": 63028,
       "word": "山西一法官猥亵当事人纪检部门介入",
@@ -2241,6 +2321,14 @@
       "onboard_time": 1776020834,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18812,
+      "num": 194795,
+      "word": "女子做牵引被吊超1小时院方致歉",
+      "onboard_time": 1776080542,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15282,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1776081044606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 646283,
+        "num": 1103405,
+        "word": "长春姐弟俩被遗留在托管班两年",
+        "onboard_time": 1776077122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391690,
+        "num": 774719,
+        "word": "男子无偿献血十年要求免诊查费遭拒",
+        "onboard_time": 1776078503,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48276,
+        "num": 622820,
+        "word": "文旅消费迎来新爆发",
+        "onboard_time": 1776065181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506069,
+        "num": 506069,
+        "word": "成都GG 民间队",
+        "onboard_time": 1776079882,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384160,
+        "num": 384160,
+        "word": "莫氏鸡煲迎来成群TVB老戏骨",
+        "onboard_time": 1776075861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329923,
+        "num": 329923,
+        "word": "眼睛短短十秒瞎了三次",
+        "onboard_time": 1776078441,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259631,
+        "num": 259631,
+        "word": "伊朗总统称准备达成平衡公平协议",
+        "onboard_time": 1776073762,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 551049,
+        "num": 238210,
+        "word": "成都GG对战Xteam",
+        "onboard_time": 1776075801,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 422796,
+        "num": 236096,
+        "word": "越南综艺 心愿便利贴",
+        "onboard_time": 1776076041,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212389,
+        "num": 212389,
+        "word": "科大讯飞有员工中奖但非1500万",
+        "onboard_time": 1776076762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588623,
+        "num": 208347,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544420,
+        "num": 206124,
+        "word": "王晓晨吃药引发心悸",
+        "onboard_time": 1776076340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197543,
+        "num": 197543,
+        "word": "BLG对战JDG",
+        "onboard_time": 1776075440,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 434739,
+        "num": 197094,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337971,
+        "num": 196245,
+        "word": "没认出这是章子怡",
+        "onboard_time": 1776072800,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18812,
+        "num": 194795,
+        "word": "女子做牵引被吊超1小时院方致歉",
+        "onboard_time": 1776080542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324772,
+        "num": 194576,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318910,
+        "num": 193455,
+        "word": "黄灿灿为防恶剪每天换发型",
+        "onboard_time": 1776062539,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161268,
+        "num": 192240,
+        "word": "突然觉得小学老师好厉害",
+        "onboard_time": 1776064281,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230073,
+        "num": 191250,
+        "word": "孙怡的发量",
+        "onboard_time": 1776076222,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229041,
+        "num": 190166,
+        "word": "TF五代高会免费",
+        "onboard_time": 1776076281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64638,
+        "num": 189608,
+        "word": "小米18Pro电池设定曝光",
+        "onboard_time": 1776079341,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "时代少年团正式官宣广州站",
+        "onboard_time": 1776077661,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183745,
+        "num": 183745,
+        "word": "李小冉只是长得年轻",
+        "onboard_time": 1776078922,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143055,
+        "num": 177452,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24096,
+        "num": 176553,
+        "word": "伊朗称美国人很快会怀念现在的油价",
+        "onboard_time": 1776080542,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26594,
+        "num": 176453,
+        "word": "认人识人是AI智能体的照妖镜",
+        "onboard_time": 1776078261,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176435,
+        "num": 176435,
+        "word": "孙燕姿演唱会官宣六站",
+        "onboard_time": 1776069741,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46609,
+        "num": 168856,
+        "word": "律师解读村民拴绳致男孩气管全断裂",
+        "onboard_time": 1776079701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167130,
+        "num": 167130,
+        "word": "逐玉庆功宴",
+        "onboard_time": 1776052281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "书山 桃李不言下自成蹊",
+        "onboard_time": 1776080842,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141505,
+        "num": 141505,
+        "word": "李小冉 北舞已经是上个世纪的事了",
+        "onboard_time": 1776052641,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133143,
+        "num": 133143,
+        "word": "miumiu拍赵今麦 欲扬先抑",
+        "onboard_time": 1776072623,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115285,
+        "num": 115285,
+        "word": "女孩被拐后因长相被多次转卖",
+        "onboard_time": 1776071000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 115243,
+        "word": "网友一句提醒外卖小哥查出尿毒症",
+        "onboard_time": 1776077961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126228,
+        "num": 109140,
+        "word": "ally整容模版是迪丽热巴",
+        "onboard_time": 1776069261,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102638,
+        "num": 102638,
+        "word": "阴阳师",
+        "onboard_time": 1776079521,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "半年前体检正常半年后肺癌晚期",
+        "onboard_time": 1776080302,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 65236,
+        "num": 98565,
+        "word": "一季度人民币存款增加13.73万亿元",
+        "onboard_time": 1776080181,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29970,
+        "num": 98547,
+        "word": "男孩被绳子锁喉肇事方系七旬老人",
+        "onboard_time": 1776080181,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98547,
+        "num": 98546,
+        "word": "王彦霖 翻红",
+        "onboard_time": 1776072800,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "文章上海面馆价格",
+        "onboard_time": 1776053002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104810,
+        "num": 93027,
+        "word": "九尾戴上假发了",
+        "onboard_time": 1776080062,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92269,
+        "num": 92269,
+        "word": "楚乔传剧组低山臭水遇知音",
+        "onboard_time": 1776080722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91162,
+        "num": 91162,
+        "word": "中方回应向伊朗提供武器说法",
+        "onboard_time": 1776071660,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88137,
+        "num": 88137,
+        "word": "给张根硕吓得老了好几岁",
+        "onboard_time": 1776078441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82181,
+        "num": 82181,
+        "word": "官俊臣 成绩",
+        "onboard_time": 1776059420,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80317,
+        "num": 80317,
+        "word": "独生子小猫出生17天胖成猪咪了",
+        "onboard_time": 1776078141,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26142,
+        "num": 79509,
+        "word": "华为PuraXMax",
+        "onboard_time": 1776049101,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81945,
+        "num": 79451,
+        "word": "kimi都这么大了",
+        "onboard_time": 1776050900,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要致力于推进合作共赢的共同开放#"
+    }
+  }
+}
