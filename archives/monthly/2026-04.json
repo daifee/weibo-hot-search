@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776052780518,
+  "endTime": 1776061411293,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1742247,
-      "num": 172525,
+      "num": 179608,
       "word": "kimi都这么大了",
       "onboard_time": 1776050900,
       "rank": 24,
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830169,
+      "num": 562041,
+      "word": "李小冉 北舞已经是上个世纪的事了",
+      "onboard_time": 1776052641,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830094,
       "num": 291086,
       "word": "雨爱太好听了",
@@ -1843,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711509,
+      "num": 260241,
+      "word": "Angelababy郑恺陈赫李晨合影",
+      "onboard_time": 1776060741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710527,
       "num": 824095,
       "word": "樊振东放弃伦敦世乒赛资格",
@@ -1936,6 +1952,14 @@
       "word": "张雪为何不用中国车手",
       "onboard_time": 1775205441,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 695157,
+      "num": 108874,
+      "word": "钟南山妻子正式进入篮球名人堂",
+      "onboard_time": 1776059180,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2771,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564885,
+      "num": 258681,
+      "word": "文章上海面馆价格",
+      "onboard_time": 1776053002,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561005,
       "num": 298699,
       "word": "孙怡 赵子琪淘汰发布会",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1775882840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520023,
+      "num": 520023,
+      "word": "车上放香皂",
+      "onboard_time": 1776054143,
+      "rank": 4,
+      "category": "休闲"
     },
     {
       "raw_hot": 517997,
@@ -4001,6 +4041,14 @@
       "onboard_time": 1775798244,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445065,
+      "num": 255963,
+      "word": "官俊臣 成绩",
+      "onboard_time": 1776059420,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 444889,
@@ -5115,6 +5163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 378512,
+      "num": 378512,
+      "word": "BIGBANG科切拉",
+      "onboard_time": 1776058939,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378323,
       "num": 378323,
       "word": "冰湖重生开局0广",
@@ -5521,6 +5577,14 @@
       "onboard_time": 1775626164,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362842,
+      "num": 1058054,
+      "word": "逐玉庆功宴",
+      "onboard_time": 1776052281,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 362677,
@@ -8115,6 +8179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265642,
+      "num": 257836,
+      "word": "厕所前面的头为什么不见了",
+      "onboard_time": 1776056662,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265180,
       "num": 126569,
       "word": "张晋蔡少芬6岁儿子近照",
@@ -8153,6 +8225,14 @@
       "onboard_time": 1775024124,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264542,
+      "num": 264542,
+      "word": "北电出成绩",
+      "onboard_time": 1776057740,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 262889,
@@ -8417,6 +8497,14 @@
       "onboard_time": 1775354959,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255499,
+      "num": 255499,
+      "word": "巩立姣已减重40斤",
+      "onboard_time": 1776060261,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 255466,
@@ -8745,6 +8833,14 @@
       "onboard_time": 1775976441,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246041,
+      "num": 246041,
+      "word": "产妇遭医院擅自二次开腹致女儿脑瘫",
+      "onboard_time": 1776051982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245106,
@@ -9243,6 +9339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233004,
+      "num": 233004,
+      "word": "艾米姓陈",
+      "onboard_time": 1776055764,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232808,
       "num": 138207,
       "word": "金银再下跌",
@@ -9433,6 +9537,14 @@
       "onboard_time": 1775885961,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228522,
+      "num": 748658,
+      "word": "中1500万彩票离职事件是真是假",
+      "onboard_time": 1776055822,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228183,
@@ -9947,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216372,
+      "num": 216372,
+      "word": "时代少年团高会官宣演唱会",
+      "onboard_time": 1776054802,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216150,
       "num": 754806,
       "word": "男子靠AI开一人公司年营收达150万",
@@ -10025,6 +10145,14 @@
       "onboard_time": 1775397145,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214237,
+      "num": 159167,
+      "word": "艾米艺考北电第三",
+      "onboard_time": 1776053964,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 214066,
@@ -11363,6 +11491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187590,
+      "num": 264150,
+      "word": "霍尔木兹海峡再次完全中断",
+      "onboard_time": 1776055163,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187539,
       "num": 187539,
       "word": "皇马1比2拜仁",
@@ -12556,7 +12692,7 @@
     },
     {
       "raw_hot": 167561,
-      "num": 167561,
+      "num": 260852,
       "word": "乌兰被双开",
       "onboard_time": 1776051380,
       "rank": 23,
@@ -14075,6 +14211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146604,
+      "num": 146604,
+      "word": "甜馨回应给贾乃亮做蛋糕",
+      "onboard_time": 1776054262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146223,
       "num": 146223,
       "word": "十日终焉官博隐藏了一条视频",
@@ -14643,14 +14787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140419,
-      "num": 140419,
-      "word": "逐玉庆功宴",
-      "onboard_time": 1776052281,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140334,
       "num": 140334,
       "word": "柳致敏",
@@ -14921,6 +15057,14 @@
       "onboard_time": 1775373861,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137835,
+      "num": 137835,
+      "word": "徐洁儿一公倒数第一",
+      "onboard_time": 1776060261,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 137821,
@@ -15593,6 +15737,14 @@
       "onboard_time": 1775806825,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131312,
+      "num": 131312,
+      "word": "白鹿打方向盘 老公姐",
+      "onboard_time": 1776059782,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 131298,
@@ -17539,6 +17691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116051,
+      "num": 116051,
+      "word": "赵丽颖工作室发沈璃",
+      "onboard_time": 1776056243,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115819,
       "num": 98421,
       "word": "乘风Queen前三",
@@ -18017,6 +18177,14 @@
       "onboard_time": 1775112921,
       "rank": 24,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 111552,
+      "num": 149380,
+      "word": "刘雨鑫近30天涨粉78万",
+      "onboard_time": 1776060261,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111421,
@@ -20451,6 +20619,14 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 98719,
+      "num": 98719,
+      "word": "太急是一种很强的负能量",
+      "onboard_time": 1776053062,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98695,
       "num": 98695,
       "word": "巴拿马发生巨大爆炸",
@@ -20561,6 +20737,14 @@
       "onboard_time": 1775538084,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98272,
+      "num": 98272,
+      "word": "露芜衣心脏是雾妄言的",
+      "onboard_time": 1776060622,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 98264,
@@ -20793,6 +20977,14 @@
       "onboard_time": 1775626164,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97259,
+      "num": 97259,
+      "word": "杨瀚森登场受全场欢呼",
+      "onboard_time": 1776059002,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 97183,
@@ -21305,6 +21497,14 @@
       "onboard_time": 1776037579,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 132047,
+      "word": "以军坦克冲撞联合国维和人员车辆",
+      "onboard_time": 1776058101,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95010,
@@ -23011,6 +23211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88324,
+      "num": 88324,
+      "word": "原来大家都是这样撑过低谷期的",
+      "onboard_time": 1776056243,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88314,
       "num": 88314,
       "word": "京洛再无佳人 吴磊",
@@ -23153,6 +23361,14 @@
       "onboard_time": 1775021963,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 87844,
+      "num": 87844,
+      "word": "香港最严控烟令对游客一视同仁",
+      "onboard_time": 1776059782,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87751,
@@ -23561,14 +23777,6 @@
       "onboard_time": 1775258539,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86359,
-      "num": 86359,
-      "word": "李小冉 北舞已经是上个世纪的事了",
-      "onboard_time": 1776052641,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 86328,
@@ -24187,6 +24395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84468,
+      "num": 84468,
+      "word": "快递手感不对快递小哥果断报警",
+      "onboard_time": 1776059901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84422,
       "num": 84422,
       "word": "沧元图",
@@ -24601,6 +24817,14 @@
       "onboard_time": 1775616200,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82852,
+      "num": 82852,
+      "word": "杨瀚森NBA首个赛季数据",
+      "onboard_time": 1776060682,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 82808,
@@ -25915,6 +26139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77787,
+      "num": 77787,
+      "word": "A股首位年薪破千万财务掌门人",
+      "onboard_time": 1776059481,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77773,
       "num": 77773,
       "word": "黄友政2比3普卡",
@@ -26249,6 +26481,14 @@
       "onboard_time": 1775386942,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76844,
+      "num": 76844,
+      "word": "美国被伊朗看穿了",
+      "onboard_time": 1776052881,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 76777,
@@ -26659,6 +26899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75621,
+      "num": 75621,
+      "word": "武汉一男子杀害四岁女儿骗保",
+      "onboard_time": 1776060622,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75582,
       "num": 75582,
       "word": "弗拉格空砍51分",
@@ -26777,6 +27025,14 @@
       "onboard_time": 1775474601,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75156,
+      "num": 75156,
+      "word": "刷牙出血是掉牙的早期信号",
+      "onboard_time": 1776060622,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75144,
@@ -27667,6 +27923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72071,
+      "num": 72071,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1776057802,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72021,
       "num": 72021,
       "word": "陈赫是不是知道嘬腮显瘦",
@@ -27849,6 +28113,14 @@
       "onboard_time": 1775808801,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71562,
+      "num": 83334,
+      "word": "莫氏鸡煲老板爆火前的佛系人生",
+      "onboard_time": 1776061101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71527,
@@ -30761,14 +31033,6 @@
       "onboard_time": 1775750542,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58405,
-      "num": 172744,
-      "word": "产妇遭医院擅自二次开腹致女儿脑瘫",
-      "onboard_time": 1776051982,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58363,
@@ -33771,6 +34035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28377,
+      "num": 72043,
+      "word": "张雪离开凯越机车辞职信曝光",
+      "onboard_time": 1776052221,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28323,
       "num": 174329,
       "word": "邓亚萍架起文化交流桥梁",
@@ -33800,6 +34072,14 @@
       "word": "超千名游客被困玉龙雪山亲历者发声",
       "onboard_time": 1775733741,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28029,
+      "num": 141536,
+      "word": "场子姐告小三道歉案二审开庭",
+      "onboard_time": 1776060081,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -34137,6 +34417,14 @@
       "onboard_time": 1775928858,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25246,
+      "num": 665713,
+      "word": "中国经济开门红成色十足",
+      "onboard_time": 1776052042,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25237,
@@ -34945,14 +35233,6 @@
       "onboard_time": 1775541381,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16736,
-      "num": 665713,
-      "word": "中国经济开门红成色十足",
-      "onboard_time": 1776052042,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16450,

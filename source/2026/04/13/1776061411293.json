@@ -1,0 +1,410 @@
+{
+  "runTime": 1776061411293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 362842,
+        "num": 1058054,
+        "word": "逐玉庆功宴",
+        "onboard_time": 1776052281,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228522,
+        "num": 748658,
+        "word": "中1500万彩票离职事件是真是假",
+        "onboard_time": 1776055822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25246,
+        "num": 593773,
+        "word": "中国经济开门红成色十足",
+        "onboard_time": 1776052042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830169,
+        "num": 562041,
+        "word": "李小冉 北舞已经是上个世纪的事了",
+        "onboard_time": 1776052641,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520023,
+        "num": 520023,
+        "word": "车上放香皂",
+        "onboard_time": 1776054143,
+        "rank": 4,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 378512,
+        "num": 378512,
+        "word": "BIGBANG科切拉",
+        "onboard_time": 1776058939,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264542,
+        "num": 264542,
+        "word": "北电出成绩",
+        "onboard_time": 1776057740,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187590,
+        "num": 264150,
+        "word": "霍尔木兹海峡再次完全中断",
+        "onboard_time": 1776055163,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119307,
+        "num": 263249,
+        "word": "女子单独坐过夜火车被乘警拉进群",
+        "onboard_time": 1776049822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 260852,
+        "word": "乌兰被双开",
+        "onboard_time": 1776051380,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711509,
+        "num": 260241,
+        "word": "Angelababy郑恺陈赫李晨合影",
+        "onboard_time": 1776060741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564885,
+        "num": 258681,
+        "word": "文章上海面馆价格",
+        "onboard_time": 1776053002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265642,
+        "num": 257836,
+        "word": "厕所前面的头为什么不见了",
+        "onboard_time": 1776056662,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445065,
+        "num": 255963,
+        "word": "官俊臣 成绩",
+        "onboard_time": 1776059420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255499,
+        "num": 255499,
+        "word": "巩立姣已减重40斤",
+        "onboard_time": 1776060261,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246041,
+        "num": 246041,
+        "word": "产妇遭医院擅自二次开腹致女儿脑瘫",
+        "onboard_time": 1776051982,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233004,
+        "num": 233004,
+        "word": "艾米姓陈",
+        "onboard_time": 1776055764,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81502,
+        "num": 218537,
+        "word": "华为PuraXMax",
+        "onboard_time": 1776049101,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216372,
+        "num": 216372,
+        "word": "时代少年团高会官宣演唱会",
+        "onboard_time": 1776054802,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195731,
+        "num": 195731,
+        "word": "陈赫 短剧",
+        "onboard_time": 1776048980,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 191583,
+        "word": "61岁男子手术后在飞机上身亡",
+        "onboard_time": 1776048500,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726017,
+        "num": 179608,
+        "word": "kimi都这么大了",
+        "onboard_time": 1776050900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214237,
+        "num": 159167,
+        "word": "艾米艺考北电第三",
+        "onboard_time": 1776053964,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111552,
+        "num": 149380,
+        "word": "刘雨鑫近30天涨粉78万",
+        "onboard_time": 1776060261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146604,
+        "num": 146604,
+        "word": "甜馨回应给贾乃亮做蛋糕",
+        "onboard_time": 1776054262,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 141536,
+        "word": "场子姐告小三道歉案二审开庭",
+        "onboard_time": 1776060081,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137835,
+        "num": 137835,
+        "word": "徐洁儿一公倒数第一",
+        "onboard_time": 1776060261,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95027,
+        "num": 132047,
+        "word": "以军坦克冲撞联合国维和人员车辆",
+        "onboard_time": 1776058101,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131312,
+        "num": 131312,
+        "word": "白鹿打方向盘 老公姐",
+        "onboard_time": 1776059782,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116051,
+        "num": 116051,
+        "word": "赵丽颖工作室发沈璃",
+        "onboard_time": 1776056243,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695157,
+        "num": 108874,
+        "word": "钟南山妻子正式进入篮球名人堂",
+        "onboard_time": 1776059180,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98719,
+        "num": 98719,
+        "word": "太急是一种很强的负能量",
+        "onboard_time": 1776053062,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98272,
+        "num": 98272,
+        "word": "露芜衣心脏是雾妄言的",
+        "onboard_time": 1776060622,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97633,
+        "num": 97633,
+        "word": "科切拉",
+        "onboard_time": 1776058341,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97259,
+        "num": 97259,
+        "word": "杨瀚森登场受全场欢呼",
+        "onboard_time": 1776059002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93354,
+        "num": 93354,
+        "word": "灯花笑 田曦薇",
+        "onboard_time": 1776049279,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88324,
+        "num": 88324,
+        "word": "原来大家都是这样撑过低谷期的",
+        "onboard_time": 1776056243,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87844,
+        "num": 87844,
+        "word": "香港最严控烟令对游客一视同仁",
+        "onboard_time": 1776059782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84468,
+        "num": 84468,
+        "word": "快递手感不对快递小哥果断报警",
+        "onboard_time": 1776059901,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71562,
+        "num": 83334,
+        "word": "莫氏鸡煲老板爆火前的佛系人生",
+        "onboard_time": 1776061101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82852,
+        "num": 82852,
+        "word": "杨瀚森NBA首个赛季数据",
+        "onboard_time": 1776060682,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77787,
+        "num": 77787,
+        "word": "A股首位年薪破千万财务掌门人",
+        "onboard_time": 1776059481,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76947,
+        "num": 76947,
+        "word": "何猷君晒与何超蕸合照",
+        "onboard_time": 1776046580,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76844,
+        "num": 76844,
+        "word": "美国被伊朗看穿了",
+        "onboard_time": 1776052881,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 76750,
+        "num": 76750,
+        "word": "霍思燕最争气的是她自己",
+        "onboard_time": 1776047120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75621,
+        "num": 75621,
+        "word": "武汉一男子杀害四岁女儿骗保",
+        "onboard_time": 1776060622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75156,
+        "num": 75156,
+        "word": "刷牙出血是掉牙的早期信号",
+        "onboard_time": 1776060622,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72298,
+        "num": 72298,
+        "word": "孙红雷刘宇宁王玉雯主演铁证",
+        "onboard_time": 1776050120,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72071,
+        "num": 72071,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1776057802,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28377,
+        "num": 72043,
+        "word": "张雪离开凯越机车辞职信曝光",
+        "onboard_time": 1776052221,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要记得政府前面人民二字#"
+    }
+  }
+}
