@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776190305684,
+  "endTime": 1776196209677,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -7723,6 +7723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29332,
+      "num": 26891,
+      "word": "者来家族扩大",
+      "onboard_time": 1776193395,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28383,
       "num": 134312,
       "word": "曝华为PuraXMax顶配售价过万",
@@ -8027,6 +8035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20075,
+      "num": 20075,
+      "word": "伊朗誓言确保霍尔木兹海峡控制权",
+      "onboard_time": 1776192914,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20040,
       "num": 68107,
       "word": "问界M6辅助驾驶实测",
@@ -8091,6 +8107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18509,
+      "num": 16655,
+      "word": "女子习惯饭后吃水果血糖30险截肢",
+      "onboard_time": 1776190396,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18400,
       "num": 25145,
       "word": "Kznk 状态",
@@ -8129,6 +8153,14 @@
       "onboard_time": 1776106935,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16669,
+      "num": 16669,
+      "word": "鞠婧祎露芜衣连续9天霸榜",
+      "onboard_time": 1776190334,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 16575,
@@ -8243,6 +8275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 12502,
+      "num": 16652,
+      "word": "龚俊家事法庭收官视频",
+      "onboard_time": 1776194354,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12157,
       "num": 78478,
       "word": "2026怎么还在光晞不行他不能捐",
@@ -8267,18 +8307,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 6693,
-      "num": 628351,
-      "word": "1季度我国货物进出口同比增长15%",
-      "onboard_time": 1776154161,
+      "raw_hot": 6707,
+      "num": 203523,
+      "word": "赏花经济点亮乡村振兴新图景",
+      "onboard_time": 1776173003,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6484,
-      "num": 203523,
-      "word": "赏花经济点亮乡村振兴新图景",
-      "onboard_time": 1776173003,
+      "raw_hot": 6693,
+      "num": 628351,
+      "word": "1季度我国货物进出口同比增长15%",
+      "onboard_time": 1776154161,
       "rank": 2,
       "category": "民生新闻"
     }
