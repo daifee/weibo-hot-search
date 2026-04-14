@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776188612024,
+  "endTime": 1776190305684,
   "band_list": [
     {
       "raw_hot": 689983,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163652,
+      "num": 148535,
+      "word": "上万美军正封锁进出伊朗港口船只",
+      "onboard_time": 1776185779,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 156885,
       "num": 100056,
       "word": "张晚意个体户只能亲自辟谣",
@@ -89,14 +97,6 @@
       "onboard_time": 1776177203,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148535,
-      "num": 148535,
-      "word": "上万美军正封锁进出伊朗港口船只",
-      "onboard_time": 1776185779,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 148013,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50154,
+      "num": 50154,
+      "word": "广东将再次迎来暴雨",
+      "onboard_time": 1776186017,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49130,
       "num": 88815,
       "word": "苏新皓solo舞台全站第一",
@@ -403,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39558,
-      "num": 39558,
-      "word": "广东将再次迎来暴雨",
-      "onboard_time": 1776186017,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 39444,
+      "num": 39444,
+      "word": "肖战提名亚洲艺术电影节最佳男主",
+      "onboard_time": 1776189495,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 37661,
@@ -427,8 +435,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 27941,
-      "num": 27941,
+      "raw_hot": 29474,
+      "num": 29474,
       "word": "民航局回应一航班发生重着陆弹跳",
       "onboard_time": 1776184519,
       "rank": 19,
@@ -467,12 +475,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22733,
+      "raw_hot": 24285,
       "num": 25368,
       "word": "男子打赌输了被拍受辱视频后抑郁",
       "onboard_time": 1776187097,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20987,
+      "num": 20987,
+      "word": "鞠婧祎狐妖衣闻录第八回",
+      "onboard_time": 1776189375,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 18793,
@@ -547,7 +563,23 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 5981,
+      "raw_hot": 13500,
+      "num": 20796,
+      "word": "什么是AI幻觉",
+      "onboard_time": 1776189615,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13254,
+      "num": 20795,
+      "word": "卖千元黄樱桃超市4根炸虾标价48元",
+      "onboard_time": 1776188176,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6484,
       "num": 203523,
       "word": "赏花经济点亮乡村振兴新图景",
       "onboard_time": 1776173003,
