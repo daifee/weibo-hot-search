@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/15 00:15:48 ~ 2026/04/15 04:11:00
+本榜单时间：2026/04/15 00:15:48 ~ 2026/04/15 05:14:49
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Jasper打球 以为哪吒上场了（热度：50578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%A0%E6%83%AF%E9%A5%AD%E5%90%8E%E5%90%83%E6%B0%B4%E6%9E%9C%E8%A1%80%E7%B3%9630%E9%99%A9%E6%88%AA%E8%82%A2%23" target="weibo">
+女子习惯饭后吃水果血糖30险截肢（热度：25510）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E8%B5%8C%E8%BE%93%E4%BA%86%E8%A2%AB%E6%8B%8D%E5%8F%97%E8%BE%B1%E8%A7%86%E9%A2%91%E5%90%8E%E6%8A%91%E9%83%81%23" target="weibo">
 男子打赌输了被拍受辱视频后抑郁（热度：24285）
 </a>
@@ -389,12 +395,6 @@ Jasper打球 以为哪吒上场了（热度：50578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AA%93%E8%A8%80%E7%A1%AE%E4%BF%9D%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%8E%A7%E5%88%B6%E6%9D%83%23" target="weibo">
 伊朗誓言确保霍尔木兹海峡控制权（热度：20075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%A0%E6%83%AF%E9%A5%AD%E5%90%8E%E5%90%83%E6%B0%B4%E6%9E%9C%E8%A1%80%E7%B3%9630%E9%99%A9%E6%88%AA%E8%82%A2%23" target="weibo">
-女子习惯饭后吃水果血糖30险截肢（热度：19910）
 </a>
 </li>
 
@@ -478,7 +478,7 @@ Kznk 状态（热度：18400）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%8F%E8%8A%B1%E7%BB%8F%E6%B5%8E%E7%82%B9%E4%BA%AE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%96%B0%E5%9B%BE%E6%99%AF%23" target="weibo">
-赏花经济点亮乡村振兴新图景（热度：6707）
+赏花经济点亮乡村振兴新图景（热度：6943）
 </a>
 </li>
 
