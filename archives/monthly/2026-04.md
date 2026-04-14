@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/15 06:11:54
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/15 06:55:01
 </p>
 </blockquote>
 <p>
@@ -3519,6 +3519,12 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AD%A3%E5%B0%81%E9%94%81%E8%BF%9B%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E8%88%B9%E5%8F%AA%23" target="weibo">
+上万美军正封锁进出伊朗港口船只（热度：428649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B7%98%E6%B1%B0%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B%23" target="weibo">
 王楚钦淘汰卫冕冠军（热度：428179）
 </a>
@@ -6005,12 +6011,6 @@ TOP演唱会人气（热度：302471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%AB%E5%A2%93%E5%8F%91%E7%8E%B0%E7%A5%96%E5%9D%9F%E6%97%81%E6%9C%89%E8%BF%91%E7%99%BE%E6%9E%9A%E9%B8%AD%E8%9B%8B%23" target="weibo">
 男子扫墓发现祖坟旁有近百枚鸭蛋（热度：296762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B2%E4%BB%A3%E6%8B%8D%23" target="weibo">
-十日终焉防代拍（热度：296695）
 </a>
 </li>
 
