@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776207301224,
+  "endTime": 1776208308523,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546693,
+      "num": 385935,
+      "word": "上万美军正封锁进出伊朗港口船只",
+      "onboard_time": 1776185779,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 544420,
       "num": 206124,
       "word": "王晓晨吃药引发心悸",
@@ -833,14 +841,6 @@
       "onboard_time": 1775987961,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428649,
-      "num": 306913,
-      "word": "上万美军正封锁进出伊朗港口船只",
-      "onboard_time": 1776185779,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 428141,
@@ -1147,6 +1147,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 354369,
+      "num": 520356,
+      "word": "B太回应18万帮扶被骗",
+      "onboard_time": 1776204075,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352030,
       "num": 158989,
       "word": "继EXO的E不发音后陈也不发音",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1775984301,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332208,
+      "num": 332208,
+      "word": "伊朗看透了",
+      "onboard_time": 1776181042,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329988,
@@ -1819,14 +1835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 264271,
-      "num": 264271,
-      "word": "伊朗看透了",
-      "onboard_time": 1776181042,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 261554,
       "num": 261554,
       "word": "伊朗总统称准备达成平衡公平协议",
@@ -2187,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221620,
+      "num": 165866,
+      "word": "女子习惯饭后吃水果血糖30险截肢",
+      "onboard_time": 1776190396,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221336,
       "num": 160248,
       "word": "文章回应开面馆",
@@ -2321,14 +2337,6 @@
       "onboard_time": 1776060261,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211068,
-      "num": 421803,
-      "word": "B太回应18万帮扶被骗",
-      "onboard_time": 1776204075,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209724,
@@ -2859,14 +2867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165866,
-      "num": 165866,
-      "word": "女子习惯饭后吃水果血糖30险截肢",
-      "onboard_time": 1776190396,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165126,
       "num": 153428,
       "word": "美军宣布在霍尔木兹海峡扫雷",
@@ -2995,6 +2995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156224,
+      "num": 89458,
+      "word": "中方回应美封锁伊海上交通",
+      "onboard_time": 1776183201,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155385,
       "num": 155385,
       "word": "开发商就喷辣椒水驱散购房人群致歉",
@@ -3017,6 +3025,14 @@
       "onboard_time": 1776160942,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153403,
+      "num": 79487,
+      "word": "特朗普说伊朗没牌了遭北约盟友打脸",
+      "onboard_time": 1776183740,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152866,
@@ -3683,14 +3699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121644,
-      "num": 79487,
-      "word": "特朗普说伊朗没牌了遭北约盟友打脸",
-      "onboard_time": 1776183740,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120583,
       "num": 134036,
       "word": "鞠婧祎演技",
@@ -4051,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111661,
+      "num": 145784,
+      "word": "班主任猥亵女学生被调到做后勤工作",
+      "onboard_time": 1776179243,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111552,
       "num": 149380,
       "word": "刘雨鑫近30天涨粉78万",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1776122840,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107636,
-      "num": 89458,
-      "word": "中方回应美封锁伊海上交通",
-      "onboard_time": 1776183201,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107471,
@@ -4547,6 +4555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99993,
+      "num": 99993,
+      "word": "肖战提名亚洲艺术电影节最佳男主",
+      "onboard_time": 1776189495,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99956,
       "num": 99956,
       "word": "明川有知夏官宣开机",
@@ -4787,20 +4803,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95730,
+      "num": 147782,
+      "word": "尹锡悦夫妇法庭相见细节曝光",
+      "onboard_time": 1776177262,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95611,
       "num": 178881,
       "word": "LPL和LCK变天了",
       "onboard_time": 1775955379,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95379,
-      "num": 147782,
-      "word": "尹锡悦夫妇法庭相见细节曝光",
-      "onboard_time": 1776177262,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95326,
@@ -4857,14 +4873,6 @@
       "onboard_time": 1775987542,
       "rank": 41,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 94549,
-      "num": 94549,
-      "word": "肖战提名亚洲艺术电影节最佳男主",
-      "onboard_time": 1776189495,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 94464,
@@ -5273,6 +5281,14 @@
       "onboard_time": 1776078441,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 87768,
+      "word": "欧冠联赛",
+      "onboard_time": 1776206116,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 87755,
@@ -5739,14 +5755,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 79782,
-      "num": 79782,
-      "word": "欧冠联赛",
-      "onboard_time": 1776206116,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79668,
       "num": 174824,
       "word": "KSG冠军",
@@ -5905,14 +5913,6 @@
       "onboard_time": 1776183259,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 76527,
-      "num": 145784,
-      "word": "班主任猥亵女学生被调到做后勤工作",
-      "onboard_time": 1776179243,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76407,
@@ -6339,6 +6339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70719,
+      "num": 70719,
+      "word": "十日终焉外景",
+      "onboard_time": 1776184519,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70708,
       "num": 70708,
       "word": "迪丽热巴花魁妆火到AI界了",
@@ -6699,14 +6707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63786,
-      "num": 63786,
-      "word": "十日终焉外景",
-      "onboard_time": 1776184519,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63714,
       "num": 63714,
       "word": "于正说浪姐有复活赛",
@@ -6971,6 +6971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54663,
+      "num": 54663,
+      "word": "者来家族扩大",
+      "onboard_time": 1776193395,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54439,
       "num": 54439,
       "word": "甲骨文涨超12%",
@@ -7105,6 +7113,22 @@
       "onboard_time": 1776037039,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51019,
+      "num": 51019,
+      "word": "陈哲远是泰国泼水节最大赢家吧",
+      "onboard_time": 1776207797,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50937,
+      "num": 50937,
+      "word": "医生回应每年体检突然查出中晚期肝癌",
+      "onboard_time": 1776186496,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50884,
@@ -7459,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38862,
-      "num": 30140,
-      "word": "医生回应每年体检突然查出中晚期肝癌",
-      "onboard_time": 1776186496,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38838,
       "num": 41037,
       "word": "我发现心愿便利贴静音特别好听",
@@ -7523,12 +7539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37135,
-      "num": 37135,
-      "word": "者来家族扩大",
-      "onboard_time": 1776193395,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 36762,
+      "num": 36762,
+      "word": "民航局回应一航班发生重着陆弹跳",
+      "onboard_time": 1776184519,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36540,
@@ -7547,7 +7563,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35524,
+      "raw_hot": 35604,
       "num": 100907,
       "word": "7个亿的农业实训基地没基地",
       "onboard_time": 1776182061,
@@ -7601,6 +7617,14 @@
       "onboard_time": 1776099856,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34059,
+      "num": 34059,
+      "word": "糖尿病与牙周炎双向影响",
+      "onboard_time": 1776207737,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33932,
@@ -7731,14 +7755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29474,
-      "num": 29474,
-      "word": "民航局回应一航班发生重着陆弹跳",
-      "onboard_time": 1776184519,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29431,
       "num": 114166,
       "word": "章子怡来看谢霆锋演唱会",
@@ -7844,7 +7860,7 @@
     },
     {
       "raw_hot": 26886,
-      "num": 26886,
+      "num": 33312,
       "word": "鞠婧祎露芜衣连续9天霸榜",
       "onboard_time": 1776190334,
       "rank": 19,
@@ -8187,6 +8203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17922,
+      "num": 401195,
+      "word": "赏花经济点亮乡村振兴新图景",
+      "onboard_time": 1776173003,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17882,
       "num": 116152,
       "word": "丁业现被查",
@@ -8297,14 +8321,6 @@
       "onboard_time": 1776189615,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13365,
-      "num": 327857,
-      "word": "赏花经济点亮乡村振兴新图景",
-      "onboard_time": 1776173003,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12797,
