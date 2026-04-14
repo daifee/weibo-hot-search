@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776203947161,
+  "endTime": 1776204714732,
   "band_list": [
     {
       "raw_hot": 689983,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205544,
+      "num": 186433,
+      "word": "上万美军正封锁进出伊朗港口船只",
+      "onboard_time": 1776185779,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 198918,
       "num": 100269,
       "word": "沈清曝王阳杀青宴被指着鼻子骂",
       "onboard_time": 1776166642,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163652,
-      "num": 148535,
-      "word": "上万美军正封锁进出伊朗港口船只",
-      "onboard_time": 1776185779,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 156885,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 136948,
-      "num": 99386,
+      "num": 123021,
       "word": "伊朗看透了",
       "onboard_time": 1776181042,
       "rank": 22,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66870,
+      "num": 66870,
+      "word": "女子习惯饭后吃水果血糖30险截肢",
+      "onboard_time": 1776190396,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66274,
       "num": 266724,
       "word": "41岁男子戴隐形眼镜睡一夜后失明",
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59405,
+      "num": 89458,
+      "word": "中方回应美封锁伊海上交通",
+      "onboard_time": 1776183201,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58116,
       "num": 58116,
       "word": "十日终焉外景",
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53573,
+      "num": 53573,
+      "word": "肖战提名亚洲艺术电影节最佳男主",
+      "onboard_time": 1776189495,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51088,
       "num": 90697,
       "word": "苏新皓头像换饼图",
@@ -363,28 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50701,
-      "num": 50701,
-      "word": "女子习惯饭后吃水果血糖30险截肢",
-      "onboard_time": 1776190396,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50578,
       "num": 89860,
       "word": "Jasper打球 以为哪吒上场了",
       "onboard_time": 1776179302,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50520,
-      "num": 89458,
-      "word": "中方回应美封锁伊海上交通",
-      "onboard_time": 1776183201,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50154,
@@ -419,16 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40575,
-      "num": 40575,
-      "word": "肖战提名亚洲艺术电影节最佳男主",
-      "onboard_time": 1776189495,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 38904,
-      "num": 194731,
+      "raw_hot": 41963,
+      "num": 230204,
       "word": "网友给拼豆店提建议被老板一一反驳",
       "onboard_time": 1776169701,
       "rank": 24,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27328,
+      "num": 21900,
+      "word": "B太回应18万帮扶被骗",
+      "onboard_time": 1776204075,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26442,
       "num": 88069,
       "word": "以防你不知道手机发展得有多快",
@@ -500,15 +508,23 @@
     },
     {
       "raw_hot": 20987,
-      "num": 20987,
+      "num": 21888,
       "word": "鞠婧祎狐妖衣闻录第八回",
       "onboard_time": 1776189375,
       "rank": 27,
       "category": "剧集"
     },
     {
+      "raw_hot": 20474,
+      "num": 21907,
+      "word": "鞠婧祎露芜衣连续9天霸榜",
+      "onboard_time": 1776190334,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20075,
-      "num": 20075,
+      "num": 21904,
       "word": "伊朗誓言确保霍尔木兹海峡控制权",
       "onboard_time": 1776192914,
       "rank": 13,
@@ -521,14 +537,6 @@
       "onboard_time": 1776170482,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18779,
-      "num": 18779,
-      "word": "鞠婧祎露芜衣连续9天霸榜",
-      "onboard_time": 1776190334,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 18400,
@@ -596,30 +604,30 @@
     },
     {
       "raw_hot": 13500,
-      "num": 20796,
+      "num": 21876,
       "word": "什么是AI幻觉",
       "onboard_time": 1776189615,
       "rank": 47,
       "category": "情感"
     },
     {
-      "raw_hot": 13254,
-      "num": 20795,
-      "word": "卖千元黄樱桃超市4根炸虾标价48元",
-      "onboard_time": 1776188176,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12730,
-      "num": 18671,
+      "raw_hot": 13489,
+      "num": 21883,
       "word": "龚俊家事法庭收官视频",
       "onboard_time": 1776194354,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 7350,
+      "raw_hot": 13254,
+      "num": 21874,
+      "word": "卖千元黄樱桃超市4根炸虾标价48元",
+      "onboard_time": 1776188176,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10171,
       "num": 203523,
       "word": "赏花经济点亮乡村振兴新图景",
       "onboard_time": 1776173003,
