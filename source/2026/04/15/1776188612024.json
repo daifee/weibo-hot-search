@@ -1,0 +1,410 @@
+{
+  "runTime": 1776188612024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210248,
+        "num": 364264,
+        "word": "4人合伙买彩票中500万后起纠纷",
+        "onboard_time": 1776179482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66274,
+        "num": 266724,
+        "word": "41岁男子戴隐形眼镜睡一夜后失明",
+        "onboard_time": 1776182000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5981,
+        "num": 203523,
+        "word": "赏花经济点亮乡村振兴新图景",
+        "onboard_time": 1776173003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148535,
+        "num": 148535,
+        "word": "上万美军正封锁进出伊朗港口船只",
+        "onboard_time": 1776185779,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 60288,
+        "num": 60288,
+        "word": "五一飞往东南亚航班大规模取消",
+        "onboard_time": 1776170243,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58116,
+        "num": 58116,
+        "word": "十日终焉外景",
+        "onboard_time": 1776184519,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55182,
+        "num": 55182,
+        "word": "公司连亏6年股价却暴涨10倍",
+        "onboard_time": 1776177683,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53335,
+        "num": 53335,
+        "word": "长期饭后吃水果或诱发糖尿病",
+        "onboard_time": 1776183259,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45717,
+        "num": 45717,
+        "word": "卖不完的果切都去哪了",
+        "onboard_time": 1776163881,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45610,
+        "num": 45610,
+        "word": "蜜语纪热度",
+        "onboard_time": 1776181341,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76812,
+        "num": 44371,
+        "word": "特朗普说伊朗没牌了遭北约盟友打脸",
+        "onboard_time": 1776183740,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58178,
+        "num": 42747,
+        "word": "网传虞书欣邓为主演神仙肉",
+        "onboard_time": 1776182000,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40212,
+        "num": 40212,
+        "word": "外卖员说最不能点的外卖是黄焖鸡",
+        "onboard_time": 1776178044,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39558,
+        "num": 39558,
+        "word": "广东将再次迎来暴雨",
+        "onboard_time": 1776186017,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38284,
+        "num": 38284,
+        "word": "尹锡悦夫妇法庭相见细节曝光",
+        "onboard_time": 1776177262,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37217,
+        "num": 37217,
+        "word": "中方从不承认所谓阿鲁纳恰尔邦",
+        "onboard_time": 1776163160,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32209,
+        "num": 32209,
+        "word": "胖东来多宝鱼被指吃出溯源标签",
+        "onboard_time": 1776166162,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29613,
+        "num": 29613,
+        "word": "33岁抗癌博主去世",
+        "onboard_time": 1776165502,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28110,
+        "num": 28110,
+        "word": "微信余额没三五百元不给面试引争议",
+        "onboard_time": 1776177802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27941,
+        "num": 27941,
+        "word": "民航局回应一航班发生重着陆弹跳",
+        "onboard_time": 1776184519,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43377,
+        "num": 27623,
+        "word": "lululemon中国市场成救命稻草",
+        "onboard_time": 1776169942,
+        "rank": 20,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 40015,
+        "num": 27606,
+        "word": "伊朗看透了",
+        "onboard_time": 1776181042,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27241,
+        "num": 27241,
+        "word": "杨幂 越素越美",
+        "onboard_time": 1776170542,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27147,
+        "num": 27147,
+        "word": "孙颖莎megastar的含金量",
+        "onboard_time": 1776181522,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26658,
+        "num": 26658,
+        "word": "网友给拼豆店提建议被老板一一反驳",
+        "onboard_time": 1776169701,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25824,
+        "num": 25824,
+        "word": "外交部回应韩国标注中国台湾",
+        "onboard_time": 1776167062,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25400,
+        "num": 25400,
+        "word": "牛排店被查唯一干净的竟是喂狗碗",
+        "onboard_time": 1776175404,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23957,
+        "num": 25380,
+        "word": "十日终焉移动大棚",
+        "onboard_time": 1776177203,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22733,
+        "num": 25368,
+        "word": "男子打赌输了被拍受辱视频后抑郁",
+        "onboard_time": 1776187097,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22683,
+        "num": 25351,
+        "word": "苏新皓solo舞台全站第一",
+        "onboard_time": 1776177323,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41809,
+        "num": 25329,
+        "word": "中方回应美封锁伊海上交通",
+        "onboard_time": 1776183201,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27470,
+        "num": 25304,
+        "word": "医生回应每年体检突然查出中晚期肝癌",
+        "onboard_time": 1776186496,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22039,
+        "num": 25269,
+        "word": "谁懂这次换手机的意义",
+        "onboard_time": 1776166043,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21530,
+        "num": 25249,
+        "word": "萨尔布吕肯将为樊振东办告别仪式",
+        "onboard_time": 1776182960,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20040,
+        "num": 25237,
+        "word": "7个亿的农业实训基地没基地",
+        "onboard_time": 1776182061,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18793,
+        "num": 25195,
+        "word": "IG战胜TES",
+        "onboard_time": 1776170482,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18712,
+        "num": 25180,
+        "word": "班主任猥亵女学生被调到做后勤工作",
+        "onboard_time": 1776179243,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18516,
+        "num": 25164,
+        "word": "郭敬明的剧连演员本人都看不懂",
+        "onboard_time": 1776155181,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18400,
+        "num": 25145,
+        "word": "Kznk 状态",
+        "onboard_time": 1776186017,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17965,
+        "num": 25121,
+        "word": "林丹认证石宇奇是超一流",
+        "onboard_time": 1776186017,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17960,
+        "num": 25082,
+        "word": "以防你不知道手机发展得有多快",
+        "onboard_time": 1776169341,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17468,
+        "num": 25077,
+        "word": "尹锡悦夫妇时隔9个月法庭相见",
+        "onboard_time": 1776180741,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15965,
+        "num": 25031,
+        "word": "以黎代表在华盛顿举行会谈",
+        "onboard_time": 1776182240,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 25023,
+        "word": "66岁男子吸烟失火与87岁母亲身亡",
+        "onboard_time": 1776179902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14646,
+        "num": 24992,
+        "word": "原神布伦妮",
+        "onboard_time": 1776180501,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14151,
+        "num": 24968,
+        "word": "2026美加墨世界杯球衣翻车",
+        "onboard_time": 1776179002,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14085,
+        "num": 24940,
+        "word": "孙怡 者来姨",
+        "onboard_time": 1776166342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13961,
+        "num": 24932,
+        "word": "花海Cat亚运会教练",
+        "onboard_time": 1776174323,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13334,
+        "num": 24895,
+        "word": "曝等风热吻你两组主演",
+        "onboard_time": 1776163042,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13219,
+        "num": 24878,
+        "word": "马頔为了装修李乃文为了什么",
+        "onboard_time": 1776165982,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中西双方要共谋创新发展#"
+    }
+  }
+}
