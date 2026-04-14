@@ -1,0 +1,410 @@
+{
+  "runTime": 1776181800965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 321388,
+        "num": 1051422,
+        "word": "五一飞往东南亚航班大规模取消",
+        "onboard_time": 1776170243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291238,
+        "num": 780664,
+        "word": "4人合伙买彩票中500万后起纠纷",
+        "onboard_time": 1776179482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20389,
+        "num": 626893,
+        "word": "一季度进出口创新高",
+        "onboard_time": 1776173243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223045,
+        "num": 223045,
+        "word": "十日终焉移动大棚",
+        "onboard_time": 1776177203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202142,
+        "num": 202142,
+        "word": "公司连亏6年股价却暴涨10倍",
+        "onboard_time": 1776177683,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195579,
+        "num": 195579,
+        "word": "胖东来多宝鱼被指吃出溯源标签",
+        "onboard_time": 1776166162,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187940,
+        "num": 187940,
+        "word": "微信余额没三五百元不给面试引争议",
+        "onboard_time": 1776177802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "卖不完的果切都去哪了",
+        "onboard_time": 1776163881,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157267,
+        "num": 163932,
+        "word": "74岁老太杀73岁老太藏尸案宣判",
+        "onboard_time": 1776179062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118614,
+        "num": 163334,
+        "word": "杨幂 越素越美",
+        "onboard_time": 1776170542,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772276,
+        "num": 162405,
+        "word": "田馥甄回应拒绝浪姐邀约",
+        "onboard_time": 1776178522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134941,
+        "num": 162066,
+        "word": "33岁抗癌博主去世",
+        "onboard_time": 1776165502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626878,
+        "num": 160974,
+        "word": "文章面馆 周一不见",
+        "onboard_time": 1776172462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418622,
+        "num": 160656,
+        "word": "TOP更新站位",
+        "onboard_time": 1776169102,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132590,
+        "num": 159847,
+        "word": "66岁男子吸烟失火与87岁母亲身亡",
+        "onboard_time": 1776179902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359174,
+        "num": 159163,
+        "word": "朱珠把女儿当女士来养",
+        "onboard_time": 1776174203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249953,
+        "num": 158289,
+        "word": "张晚意个体户只能亲自辟谣",
+        "onboard_time": 1776176182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115291,
+        "num": 157863,
+        "word": "谁懂这次换手机的意义",
+        "onboard_time": 1776166043,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96392,
+        "num": 156841,
+        "word": "蜜语纪热度",
+        "onboard_time": 1776181341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92256,
+        "num": 156397,
+        "word": "孙颖莎megastar的含金量",
+        "onboard_time": 1776181522,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196380,
+        "num": 155457,
+        "word": "沈清曝王阳杀青宴被指着鼻子骂",
+        "onboard_time": 1776166642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184649,
+        "num": 154507,
+        "word": "lululemon中国市场成救命稻草",
+        "onboard_time": 1776169942,
+        "rank": 21,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 131910,
+        "num": 153962,
+        "word": "杨清柠新恋情",
+        "onboard_time": 1776176602,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118211,
+        "num": 153638,
+        "word": "TOP换头像",
+        "onboard_time": 1776170303,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98012,
+        "num": 152621,
+        "word": "上海至重庆一航班重着陆有乘客尖叫",
+        "onboard_time": 1776178763,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117327,
+        "num": 152031,
+        "word": "阿Sa被名医诊断出轻微中风",
+        "onboard_time": 1776171264,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107315,
+        "num": 151284,
+        "word": "朴宝剑 费大厨",
+        "onboard_time": 1776165982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95591,
+        "num": 150586,
+        "word": "中方从不承认所谓阿鲁纳恰尔邦",
+        "onboard_time": 1776163160,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85603,
+        "num": 149386,
+        "word": "郭敬明的剧连演员本人都看不懂",
+        "onboard_time": 1776155181,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83458,
+        "num": 149254,
+        "word": "伊朗看透了",
+        "onboard_time": 1776181042,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95246,
+        "num": 148394,
+        "word": "牛排店被查唯一干净的竟是喂狗碗",
+        "onboard_time": 1776175404,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95379,
+        "num": 147782,
+        "word": "尹锡悦夫妇法庭相见细节曝光",
+        "onboard_time": 1776177262,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75840,
+        "num": 146574,
+        "word": "朱志鑫 黑猫天使",
+        "onboard_time": 1776169881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73648,
+        "num": 145784,
+        "word": "班主任猥亵女学生被调到做后勤工作",
+        "onboard_time": 1776179243,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55315,
+        "num": 145771,
+        "word": "马頔为了装修李乃文为了什么",
+        "onboard_time": 1776165982,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73540,
+        "num": 144952,
+        "word": "等张泽禹张极换头像",
+        "onboard_time": 1776172462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71040,
+        "num": 144192,
+        "word": "外卖员说最不能点的外卖是黄焖鸡",
+        "onboard_time": 1776178044,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70319,
+        "num": 143602,
+        "word": "一口价黄金价格",
+        "onboard_time": 1776179002,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69411,
+        "num": 142210,
+        "word": "宋亚轩再多上几节课都大小脸了",
+        "onboard_time": 1776172342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68670,
+        "num": 141762,
+        "word": "花海Cat亚运会教练",
+        "onboard_time": 1776174323,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68516,
+        "num": 141372,
+        "word": "品牌一口价金饰跌了285元",
+        "onboard_time": 1776181282,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63200,
+        "num": 140422,
+        "word": "Jasper打球 以为哪吒上场了",
+        "onboard_time": 1776179302,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61034,
+        "num": 139814,
+        "word": "尹锡悦夫妇时隔9个月法庭相见",
+        "onboard_time": 1776180741,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59974,
+        "num": 138980,
+        "word": "原神布伦妮",
+        "onboard_time": 1776180501,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56285,
+        "num": 137928,
+        "word": "苏新皓头像换饼图",
+        "onboard_time": 1776170000,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55960,
+        "num": 137492,
+        "word": "曝等风热吻你两组主演",
+        "onboard_time": 1776163042,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53968,
+        "num": 136776,
+        "word": "出生4天被秤砣砸中女婴父亲很自责",
+        "onboard_time": 1776181702,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45826,
+        "num": 135851,
+        "word": "孙怡 者来姨",
+        "onboard_time": 1776166342,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27721,
+        "num": 135204,
+        "word": "唐诡2造型指导致歉承认侵权",
+        "onboard_time": 1776168321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55802,
+        "num": 134546,
+        "word": "苏新皓solo舞台全站第一",
+        "onboard_time": 1776177323,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就中东和平稳定提出4点主张#"
+    }
+  }
+}
