@@ -1,0 +1,410 @@
+{
+  "runTime": 1776125218686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 569499,
+        "num": 1091119,
+        "word": "嫣然医院不再续租",
+        "onboard_time": 1776093982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438257,
+        "num": 802037,
+        "word": "演出服遭集体退货家属称表演取消",
+        "onboard_time": 1776093624,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13886,
+        "num": 617933,
+        "word": "2026世界互联网大会亚太峰会",
+        "onboard_time": 1776083662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357195,
+        "num": 357195,
+        "word": "老莫因1000只鸡没地方放拒绝温氏",
+        "onboard_time": 1776122719,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 288882,
+        "num": 288882,
+        "word": "田曦薇逐玉庆功宴的发言",
+        "onboard_time": 1776125181,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225122,
+        "num": 225122,
+        "word": "美若封锁霍尔木兹就将失去曼德海峡",
+        "onboard_time": 1776098537,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174777,
+        "num": 174777,
+        "word": "让你一整天都保持清醒的方法",
+        "onboard_time": 1776091763,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141582,
+        "num": 174556,
+        "word": "多校鼓励博士生读硕士",
+        "onboard_time": 1776092783,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103091,
+        "num": 172283,
+        "word": "李小冉只是长得年轻",
+        "onboard_time": 1776078922,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393766,
+        "num": 172121,
+        "word": "田曦薇发言",
+        "onboard_time": 1776095900,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350071,
+        "num": 170624,
+        "word": "内塔尼亚胡说与伊停火可能很快结束",
+        "onboard_time": 1776122358,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246586,
+        "num": 169654,
+        "word": "伊朗要求五个中东国家赔偿损失",
+        "onboard_time": 1776123919,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242740,
+        "num": 167629,
+        "word": "马斯克版微信XChat将上线",
+        "onboard_time": 1776122719,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94092,
+        "num": 166196,
+        "word": "松岛美空用孙颖莎合影做头像",
+        "onboard_time": 1776123679,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246166,
+        "num": 165239,
+        "word": "李小冉凡尔赛式谈身材管理",
+        "onboard_time": 1776102316,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164701,
+        "num": 164701,
+        "word": "男乘客疑拍打空姐臀部被带离机舱",
+        "onboard_time": 1776122719,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147380,
+        "num": 147380,
+        "word": "男子无偿献血十年要求免诊查费遭拒",
+        "onboard_time": 1776078503,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 146360,
+        "num": 146360,
+        "word": "迪丽热巴工作室 审美",
+        "onboard_time": 1776086962,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144993,
+        "num": 144993,
+        "word": "特朗普称或对古巴采取行动",
+        "onboard_time": 1776122598,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135929,
+        "num": 135929,
+        "word": "眉姐姐斓曦怎么了",
+        "onboard_time": 1776070341,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798287,
+        "num": 135882,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1776081381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135672,
+        "num": 135672,
+        "word": "银行招聘被指萝卜岗后撤争议条款",
+        "onboard_time": 1776092362,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328936,
+        "num": 135176,
+        "word": "向涵之吸烟路透",
+        "onboard_time": 1776123679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133665,
+        "num": 133665,
+        "word": "男子开车碾死大伯已被刑拘",
+        "onboard_time": 1776122840,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265567,
+        "num": 133449,
+        "word": "文章面馆排长队顾客发声",
+        "onboard_time": 1776122840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122225,
+        "num": 122225,
+        "word": "瘦肚子超好的行为",
+        "onboard_time": 1776090324,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107813,
+        "num": 107813,
+        "word": "致男孩气管断裂老人该承担什么责任",
+        "onboard_time": 1776122840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105896,
+        "num": 105896,
+        "word": "伊朗曾准备稀释450公斤浓缩铀",
+        "onboard_time": 1776088764,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104030,
+        "num": 104030,
+        "word": "楚乔传 全员下场",
+        "onboard_time": 1776062901,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 99595,
+        "word": "无偿献血一千毫升终身免费用血",
+        "onboard_time": 1776122898,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98424,
+        "num": 98424,
+        "word": "男子无症状查出肠癌多亏按时体检",
+        "onboard_time": 1776091343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98202,
+        "num": 98202,
+        "word": "肖战 高配得感",
+        "onboard_time": 1776086062,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97492,
+        "num": 97492,
+        "word": "董力8岁儿子都这么高了",
+        "onboard_time": 1776086783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92150,
+        "num": 92150,
+        "word": "海底捞称乱象产生根源在董事会",
+        "onboard_time": 1776124340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91932,
+        "num": 91932,
+        "word": "患者被吊1小时医院多专利已无效",
+        "onboard_time": 1776082220,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72442,
+        "num": 72442,
+        "word": "被绳割喉男孩网上筹款已超50万元",
+        "onboard_time": 1776100037,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72363,
+        "num": 72363,
+        "word": "网友一句提醒外卖小哥查出尿毒症",
+        "onboard_time": 1776077961,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71278,
+        "num": 71278,
+        "word": "北电艺考的全国前五名",
+        "onboard_time": 1776089843,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69958,
+        "num": 69958,
+        "word": "两大稀土巨头价格七连涨",
+        "onboard_time": 1776122658,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57321,
+        "num": 69313,
+        "word": "肖战新剧将登央视",
+        "onboard_time": 1776123439,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69002,
+        "num": 69002,
+        "word": "巴基斯坦伊朗过境走廊开通",
+        "onboard_time": 1776123319,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65817,
+        "num": 65817,
+        "word": "内塔尼亚胡或面临10年监禁",
+        "onboard_time": 1776124939,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64366,
+        "num": 64366,
+        "word": "刘宇宁新剧铁证开启预约",
+        "onboard_time": 1776124519,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63898,
+        "num": 63898,
+        "word": "迪丽热巴戴墨镜走秀",
+        "onboard_time": 1776124280,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61384,
+        "num": 63719,
+        "word": "以色列的备战地图上全是箭头",
+        "onboard_time": 1776122358,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58450,
+        "num": 63340,
+        "word": "35岁3胎孕妈胎盘粘住膀胱堵死宫颈",
+        "onboard_time": 1776124459,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57278,
+        "num": 63062,
+        "word": "长春姐弟俩被遗留在托管班两年",
+        "onboard_time": 1776077122,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51210,
+        "num": 62884,
+        "word": "没人知道马頔要把家装修成什么样",
+        "onboard_time": 1776083482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49025,
+        "num": 62629,
+        "word": "论樊振东如何在2分钟里拿到11分",
+        "onboard_time": 1776092064,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57143,
+        "num": 62217,
+        "word": "外交部回应美方将封锁霍尔木兹海峡",
+        "onboard_time": 1776099617,
+        "rank": 49,
+        "category": "国内时政,国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}

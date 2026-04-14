@@ -1,10 +1,10 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776124450894,
+  "endTime": 1776125218686,
   "band_list": [
     {
-      "raw_hot": 730567,
-      "num": 109535,
+      "raw_hot": 798287,
+      "num": 135882,
       "word": "王晓晨 俞灏明",
       "onboard_time": 1776081381,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 580997,
-      "num": 1035476,
+      "num": 1091119,
       "word": "嫣然医院不再续租",
       "onboard_time": 1776093982,
       "rank": 1,
@@ -28,11 +28,35 @@
     },
     {
       "raw_hot": 450384,
-      "num": 755338,
+      "num": 802037,
       "word": "演出服遭集体退货家属称表演取消",
       "onboard_time": 1776093624,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357195,
+      "num": 357195,
+      "word": "老莫因1000只鸡没地方放拒绝温氏",
+      "onboard_time": 1776122719,
+      "rank": 6,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 350071,
+      "num": 170624,
+      "word": "内塔尼亚胡说与伊停火可能很快结束",
+      "onboard_time": 1776122358,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 328936,
+      "num": 135176,
+      "word": "向涵之吸烟路透",
+      "onboard_time": 1776123679,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 313895,
@@ -43,16 +67,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313523,
-      "num": 116491,
-      "word": "内塔尼亚胡说与伊停火可能很快结束",
-      "onboard_time": 1776122358,
-      "rank": 10,
-      "category": "国际时政"
+      "raw_hot": 288882,
+      "num": 288882,
+      "word": "田曦薇逐玉庆功宴的发言",
+      "onboard_time": 1776125181,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 278569,
-      "num": 108353,
+      "num": 133449,
       "word": "文章面馆排长队顾客发声",
       "onboard_time": 1776122840,
       "rank": 21,
@@ -60,14 +84,22 @@
     },
     {
       "raw_hot": 247240,
-      "num": 123245,
+      "num": 165239,
       "word": "李小冉凡尔赛式谈身材管理",
       "onboard_time": 1776102316,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 232074,
+      "raw_hot": 246586,
+      "num": 169654,
+      "word": "伊朗要求五个中东国家赔偿损失",
+      "onboard_time": 1776123919,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 242740,
       "num": 232074,
       "word": "马斯克版微信XChat将上线",
       "onboard_time": 1776122719,
@@ -75,8 +107,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 211560,
-      "num": 211560,
+      "raw_hot": 225122,
+      "num": 225122,
       "word": "美若封锁霍尔木兹就将失去曼德海峡",
       "onboard_time": 1776098537,
       "rank": 4,
@@ -91,68 +123,84 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 169881,
-      "num": 169881,
-      "word": "老莫因1000只鸡没地方放拒绝温氏",
-      "onboard_time": 1776122719,
-      "rank": 6,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 165673,
-      "num": 114677,
-      "word": "男子无偿献血十年要求免诊查费遭拒",
-      "onboard_time": 1776078503,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 162275,
-      "num": 162275,
+      "raw_hot": 174777,
+      "num": 174777,
       "word": "让你一整天都保持清醒的方法",
       "onboard_time": 1776091763,
       "rank": 18,
       "category": "情感"
     },
     {
-      "raw_hot": 160084,
-      "num": 108043,
-      "word": "向涵之吸烟路透",
-      "onboard_time": 1776123679,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 165673,
+      "num": 147380,
+      "word": "男子无偿献血十年要求免诊查费遭拒",
+      "onboard_time": 1776078503,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 164701,
+      "num": 164701,
+      "word": "男乘客疑拍打空姐臀部被带离机舱",
+      "onboard_time": 1776122719,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155181,
-      "num": 135422,
+      "num": 135672,
       "word": "银行招聘被指萝卜岗后撤争议条款",
       "onboard_time": 1776092362,
       "rank": 47,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146360,
+      "num": 146360,
+      "word": "迪丽热巴工作室 审美",
+      "onboard_time": 1776086962,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145588,
-      "num": 112923,
+      "num": 135929,
       "word": "眉姐姐斓曦怎么了",
       "onboard_time": 1776070341,
       "rank": 15,
       "category": "艺人"
     },
     {
+      "raw_hot": 144993,
+      "num": 144993,
+      "word": "特朗普称或对古巴采取行动",
+      "onboard_time": 1776122598,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 141582,
+      "num": 174556,
+      "word": "多校鼓励博士生读硕士",
+      "onboard_time": 1776092783,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138766,
-      "num": 94177,
+      "num": 104030,
       "word": "楚乔传 全员下场",
       "onboard_time": 1776062901,
       "rank": 11,
       "category": "剧集"
     },
     {
-      "raw_hot": 134679,
-      "num": 110998,
-      "word": "迪丽热巴工作室 审美",
-      "onboard_time": 1776086962,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 133665,
+      "num": 133665,
+      "word": "男子开车碾死大伯已被刑拘",
+      "onboard_time": 1776122840,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129083,
@@ -163,20 +211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125326,
-      "num": 110380,
-      "word": "男乘客疑拍打空姐臀部被带离机舱",
-      "onboard_time": 1776122719,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117389,
-      "num": 130821,
-      "word": "多校鼓励博士生读硕士",
-      "onboard_time": 1776092783,
-      "rank": 6,
-      "category": "教育"
+      "raw_hot": 122225,
+      "num": 122225,
+      "word": "瘦肚子超好的行为",
+      "onboard_time": 1776090324,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111982,
@@ -195,20 +235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108150,
-      "num": 108150,
-      "word": "瘦肚子超好的行为",
-      "onboard_time": 1776090324,
-      "rank": 20,
-      "category": "运动健身"
+      "raw_hot": 107813,
+      "num": 107813,
+      "word": "致男孩气管断裂老人该承担什么责任",
+      "onboard_time": 1776122840,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 107837,
-      "num": 107837,
-      "word": "男子开车碾死大伯已被刑拘",
-      "onboard_time": 1776122840,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 103091,
+      "num": 172283,
+      "word": "李小冉只是长得年轻",
+      "onboard_time": 1776078922,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 100783,
@@ -227,19 +267,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98385,
-      "num": 133091,
-      "word": "李小冉只是长得年轻",
-      "onboard_time": 1776078922,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 99595,
+      "num": 99595,
+      "word": "无偿献血一千毫升终身免费用血",
+      "onboard_time": 1776122898,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 94761,
-      "num": 85948,
-      "word": "致男孩气管断裂老人该承担什么责任",
-      "onboard_time": 1776122840,
-      "rank": 30,
+      "raw_hot": 97492,
+      "num": 97492,
+      "word": "董力8岁儿子都这么高了",
+      "onboard_time": 1776086783,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94092,
+      "num": 166196,
+      "word": "松岛美空用孙颖莎合影做头像",
+      "onboard_time": 1776123679,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92150,
+      "num": 92150,
+      "word": "海底捞称乱象产生根源在董事会",
+      "onboard_time": 1776124340,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -259,36 +315,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86627,
-      "num": 86627,
-      "word": "特朗普称或对古巴采取行动",
-      "onboard_time": 1776122598,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 85268,
-      "num": 85268,
-      "word": "无偿献血一千毫升终身免费用血",
-      "onboard_time": 1776122898,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82871,
       "num": 86034,
       "word": "外交部回应美方将封锁霍尔木兹海峡",
       "onboard_time": 1776099617,
       "rank": 31,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 82201,
-      "num": 82201,
-      "word": "董力8岁儿子都这么高了",
-      "onboard_time": 1776086783,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 81784,
@@ -323,52 +355,52 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75548,
-      "num": 75548,
-      "word": "伊朗要求五个中东国家赔偿损失",
-      "onboard_time": 1776123919,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 72442,
+      "num": 82521,
+      "word": "被绳割喉男孩网上筹款已超50万元",
+      "onboard_time": 1776100037,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
-      "raw_hot": 71270,
-      "num": 109823,
-      "word": "松岛美空用孙颖莎合影做头像",
-      "onboard_time": 1776123679,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 68212,
-      "num": 68212,
+      "raw_hot": 71278,
+      "num": 71278,
       "word": "北电艺考的全国前五名",
       "onboard_time": 1776089843,
       "rank": 38,
       "category": "艺人"
     },
     {
-      "raw_hot": 64493,
-      "num": 64493,
-      "word": "海底捞称乱象产生根源在董事会",
-      "onboard_time": 1776124340,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62941,
-      "num": 62941,
-      "word": "以色列的备战地图上全是箭头",
-      "onboard_time": 1776122358,
+      "raw_hot": 65817,
+      "num": 65817,
+      "word": "内塔尼亚胡或面临10年监禁",
+      "onboard_time": 1776124939,
       "rank": 41,
       "category": "国际时政"
     },
     {
-      "raw_hot": 62896,
-      "num": 82521,
-      "word": "被绳割喉男孩网上筹款已超50万元",
-      "onboard_time": 1776100037,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 64366,
+      "num": 64366,
+      "word": "刘宇宁新剧铁证开启预约",
+      "onboard_time": 1776124519,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63898,
+      "num": 63898,
+      "word": "迪丽热巴戴墨镜走秀",
+      "onboard_time": 1776124280,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62941,
+      "num": 63719,
+      "word": "以色列的备战地图上全是箭头",
+      "onboard_time": 1776122358,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58936,
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58450,
+      "num": 63340,
+      "word": "35岁3胎孕妈胎盘粘住膀胱堵死宫颈",
+      "onboard_time": 1776124459,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57934,
       "num": 87229,
       "word": "黄灿灿为防恶剪每天换发型",
@@ -395,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55256,
-      "num": 55256,
+      "raw_hot": 57321,
+      "num": 69313,
       "word": "肖战新剧将登央视",
       "onboard_time": 1776123439,
       "rank": 45,
@@ -417,14 +457,6 @@
       "onboard_time": 1776123980,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53747,
-      "num": 49322,
-      "word": "迪丽热巴戴墨镜走秀",
-      "onboard_time": 1776124280,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 46086,
@@ -708,7 +740,7 @@
     },
     {
       "raw_hot": 13997,
-      "num": 592178,
+      "num": 617933,
       "word": "2026世界互联网大会亚太峰会",
       "onboard_time": 1776083662,
       "rank": 2,
