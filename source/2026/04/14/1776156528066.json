@@ -1,0 +1,410 @@
+{
+  "runTime": 1776156528066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020109,
+        "num": 1163217,
+        "word": "Lululemon被调查",
+        "onboard_time": 1776154701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414826,
+        "num": 822297,
+        "word": "天安门挂起中西越三国国旗",
+        "onboard_time": 1776153202,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16301,
+        "num": 655084,
+        "word": "中国式现代化万千气象看江西",
+        "onboard_time": 1776154341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302822,
+        "num": 302822,
+        "word": "多地新能源车牌绿色变白色",
+        "onboard_time": 1776142882,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289764,
+        "num": 289764,
+        "word": "爷爷的微信运动少了一个人点赞",
+        "onboard_time": 1776150501,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279682,
+        "num": 279682,
+        "word": "盛世天下女帝篇",
+        "onboard_time": 1776155060,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268271,
+        "num": 268271,
+        "word": "银行招聘被骂上热搜不能怪网友",
+        "onboard_time": 1776144443,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254113,
+        "num": 254113,
+        "word": "陈芋汐将搭档崔家溪双人10米台",
+        "onboard_time": 1776151941,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211482,
+        "num": 211482,
+        "word": "田嘉瑞月鳞绮纪里面造型神似刘亦菲",
+        "onboard_time": 1776150801,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118220,
+        "num": 211345,
+        "word": "怦然心动20岁 七月潘纬轩",
+        "onboard_time": 1776149901,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684018,
+        "num": 210105,
+        "word": "全红婵缺席跳水世界杯总决赛",
+        "onboard_time": 1776154881,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 789991,
+        "num": 209249,
+        "word": "罗志祥方否认猝死传闻",
+        "onboard_time": 1776142582,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557372,
+        "num": 208492,
+        "word": "郭敬明的剧连演员本人都看不懂",
+        "onboard_time": 1776155181,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112994,
+        "num": 207582,
+        "word": "怦然心动20岁",
+        "onboard_time": 1776152121,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202633,
+        "num": 206227,
+        "word": "特朗普在白宫摆拍点外卖",
+        "onboard_time": 1776153321,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331443,
+        "num": 205028,
+        "word": "胡巴每年都给井柏然过母亲节",
+        "onboard_time": 1776149240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310244,
+        "num": 204605,
+        "word": "孙怡你知道的我从金依蓓时候就跟你了",
+        "onboard_time": 1776154281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185393,
+        "num": 203124,
+        "word": "突然意识到长辈从没独居过",
+        "onboard_time": 1776155481,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200403,
+        "num": 202551,
+        "word": "王星和女友回应不结婚的原因",
+        "onboard_time": 1776148401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78105,
+        "num": 201907,
+        "word": "被央视曝光的涉黄AI软件致歉",
+        "onboard_time": 1776151642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727324,
+        "num": 200235,
+        "word": "宋祖儿被男粉求婚",
+        "onboard_time": 1776146062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285627,
+        "num": 199383,
+        "word": "恒大集团恒大地产及许家印案一审开庭",
+        "onboard_time": 1776139343,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197425,
+        "num": 198500,
+        "word": "王晓晨曾回应已婚留言称我头昏",
+        "onboard_time": 1776147022,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182117,
+        "num": 197927,
+        "word": "伊朗放重磅信号",
+        "onboard_time": 1776143244,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169817,
+        "num": 196986,
+        "word": "张凌赫 杀死另世我",
+        "onboard_time": 1776151700,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 195575,
+        "word": "毛肚草莓火锅把四川人整沉默了",
+        "onboard_time": 1776149362,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136373,
+        "num": 194931,
+        "word": "何穗做了面部提升针灸",
+        "onboard_time": 1776146902,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 193729,
+        "word": "朴信惠怀二胎了",
+        "onboard_time": 1776133401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127412,
+        "num": 192783,
+        "word": "女子称出130斤生气踩爆体重秤",
+        "onboard_time": 1776148882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116088,
+        "num": 191888,
+        "word": "印度男孩遭蛇咬伤被父母浸入恒河",
+        "onboard_time": 1776141563,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112634,
+        "num": 191166,
+        "word": "博主花18万帮助大山女孩竟被骗",
+        "onboard_time": 1776140902,
+        "rank": 30,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 111123,
+        "num": 190181,
+        "word": "12306积分转让成了一门生意",
+        "onboard_time": 1776152901,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104168,
+        "num": 189411,
+        "word": "泰国海岸惊现被斩首美人鱼",
+        "onboard_time": 1776136942,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102974,
+        "num": 188300,
+        "word": "唐艺昕李小冉王濛自拍",
+        "onboard_time": 1776153622,
+        "rank": 33,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 101118,
+        "num": 187052,
+        "word": "父亲调解室猝死遭欺凌儿子今年中考",
+        "onboard_time": 1776153740,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94637,
+        "num": 186293,
+        "word": "向太晒第一次为郭碧婷拍的照片",
+        "onboard_time": 1776156382,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93950,
+        "num": 185694,
+        "word": "深圳开发商喷辣椒水驱散买房人群",
+        "onboard_time": 1776155421,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 91859,
+        "num": 184389,
+        "word": "电商复刻莫氏鸡煲同款两天狂卖千单",
+        "onboard_time": 1776153740,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91444,
+        "num": 183689,
+        "word": "明日方舟",
+        "onboard_time": 1776156262,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122522,
+        "num": 183215,
+        "word": "张本智和觉得中日男队五五开",
+        "onboard_time": 1776155602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91126,
+        "num": 181615,
+        "word": "王安宇王玉雯我们三个人很暧昧",
+        "onboard_time": 1776150440,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90062,
+        "num": 181052,
+        "word": "当地回应女婴遭秤砣砸伤",
+        "onboard_time": 1776152362,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83615,
+        "num": 179806,
+        "word": "教育局回应家长在中学调解室猝死",
+        "onboard_time": 1776155361,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79111,
+        "num": 178755,
+        "word": "印度女生拒嫁艾滋男被注射毒血报复",
+        "onboard_time": 1776156441,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78184,
+        "num": 178264,
+        "word": "内塔尼亚胡指责二战后欧洲道德沦丧",
+        "onboard_time": 1776154941,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77295,
+        "num": 177408,
+        "word": "狮子因配偶去世数十日未正常进食",
+        "onboard_time": 1776149001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74445,
+        "num": 176088,
+        "word": "阚清子新妆造",
+        "onboard_time": 1776146182,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67506,
+        "num": 174982,
+        "word": "时代少年团 错票无法入场",
+        "onboard_time": 1776137961,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54004,
+        "num": 174434,
+        "word": "量子计算机9分钟破解比特币",
+        "onboard_time": 1776154041,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53319,
+        "num": 173437,
+        "word": "李梦演小三看起来好难对付",
+        "onboard_time": 1776136520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见阿联酋阿布扎比王储哈立德#"
+    }
+  }
+}
