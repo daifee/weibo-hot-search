@@ -1,0 +1,410 @@
+{
+  "runTime": 1776146799627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717758,
+        "num": 1114841,
+        "word": "印度男孩遭蛇咬伤被父母浸入恒河",
+        "onboard_time": 1776141563,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456762,
+        "num": 815027,
+        "word": "多地新能源车牌绿色变白色",
+        "onboard_time": 1776142882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24381,
+        "num": 650910,
+        "word": "春日里的中国花经济",
+        "onboard_time": 1776134540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283567,
+        "num": 283567,
+        "word": "离职要的就是这个瞬间",
+        "onboard_time": 1776138262,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250142,
+        "num": 250142,
+        "word": "原来人小了做这些也会心酸",
+        "onboard_time": 1776140543,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409536,
+        "num": 241818,
+        "word": "恒大集团恒大地产及许家印案一审开庭",
+        "onboard_time": 1776139343,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189975,
+        "num": 189975,
+        "word": "时代少年团 错票无法入场",
+        "onboard_time": 1776137961,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163907,
+        "num": 163907,
+        "word": "李梦演小三看起来好难对付",
+        "onboard_time": 1776136520,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103667,
+        "num": 163403,
+        "word": "隔夜菜不是指放了一夜的菜",
+        "onboard_time": 1776133340,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72924,
+        "num": 163060,
+        "word": "央媒曝光青少年矫正机构暴力乱象",
+        "onboard_time": 1776140362,
+        "rank": 9,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 1399675,
+        "num": 161869,
+        "word": "罗志祥方否认猝死传闻",
+        "onboard_time": 1776142582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576929,
+        "num": 161066,
+        "word": "博主花18万帮助大山女孩竟被骗",
+        "onboard_time": 1776140902,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 256941,
+        "num": 160957,
+        "word": "泰国海岸惊现被斩首美人鱼",
+        "onboard_time": 1776136942,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571287,
+        "num": 160241,
+        "word": "幸运咖 迪丽热巴",
+        "onboard_time": 1776141862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276965,
+        "num": 159425,
+        "word": "向太说向佑只想一夜暴富",
+        "onboard_time": 1776142582,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 158696,
+        "word": "奶奶帮我打印的身份证复印件",
+        "onboard_time": 1776133520,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221336,
+        "num": 157720,
+        "word": "文章回应开面馆",
+        "onboard_time": 1776138561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112447,
+        "num": 156880,
+        "word": "王安宇王玉雯新片海报",
+        "onboard_time": 1776134540,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94703,
+        "num": 156669,
+        "word": "卫健局回应女子双腿被吊超1小时",
+        "onboard_time": 1776140062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48589,
+        "num": 155828,
+        "word": "iPhoneFold首年销量预计",
+        "onboard_time": 1776142342,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 342080,
+        "num": 155010,
+        "word": "朴信惠怀二胎了",
+        "onboard_time": 1776133401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290218,
+        "num": 154005,
+        "word": "宋祖儿被男粉求婚",
+        "onboard_time": 1776146062,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196910,
+        "num": 153803,
+        "word": "银行招聘被骂上热搜不能怪网友",
+        "onboard_time": 1776144443,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 153072,
+        "word": "北大还行撒贝宁 我很爱吃李小冉",
+        "onboard_time": 1776140123,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154397,
+        "num": 152169,
+        "word": "宋祖儿后援会暂停运营",
+        "onboard_time": 1776125362,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144488,
+        "num": 151192,
+        "word": "伊朗放重磅信号",
+        "onboard_time": 1776143244,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 151013,
+        "word": "朴信惠 崔泰俊",
+        "onboard_time": 1776136820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109227,
+        "num": 149697,
+        "word": "阚清子新妆造",
+        "onboard_time": 1776146182,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98020,
+        "num": 149287,
+        "word": "大批榴莲来了",
+        "onboard_time": 1776144381,
+        "rank": 28,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 91044,
+        "num": 148515,
+        "word": "十倍大牛股一字跌停",
+        "onboard_time": 1776145221,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117668,
+        "num": 147586,
+        "word": "朱珠这个气质怎么看都不会是保洁",
+        "onboard_time": 1776137301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112001,
+        "num": 146829,
+        "word": "文章面馆1天限号200个",
+        "onboard_time": 1776144622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86578,
+        "num": 146164,
+        "word": "哈啰拒不改正将被处罚",
+        "onboard_time": 1776142582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104268,
+        "num": 145715,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1776081381,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103991,
+        "num": 144764,
+        "word": "明道2岁女儿正脸照",
+        "onboard_time": 1776141862,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84923,
+        "num": 144491,
+        "word": "比亚迪回应深圳车库火灾",
+        "onboard_time": 1776131600,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84518,
+        "num": 143295,
+        "word": "王一博GQ封面预告",
+        "onboard_time": 1776143001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83736,
+        "num": 142748,
+        "word": "儿子被欺凌家长猝死校调解室谁担责",
+        "onboard_time": 1776143601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83508,
+        "num": 141821,
+        "word": "张凌赫说和小田一起拍情感戏很温馨",
+        "onboard_time": 1776144021,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81099,
+        "num": 141077,
+        "word": "北约先跑了",
+        "onboard_time": 1776134721,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78502,
+        "num": 140315,
+        "word": "田雨谈庆余年3",
+        "onboard_time": 1776132560,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75610,
+        "num": 140116,
+        "word": "女子称在香港打车放行李被索赔300",
+        "onboard_time": 1776144142,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18221,
+        "num": 139001,
+        "word": "出生9天婴儿经历紧急换血救命",
+        "onboard_time": 1776146302,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10481,
+        "num": 138199,
+        "word": "茅台总经理王莉回应被传失联",
+        "onboard_time": 1776144862,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73360,
+        "num": 138091,
+        "word": "这3种网红鞋可能正在毁掉你的脚",
+        "onboard_time": 1776140663,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72294,
+        "num": 136769,
+        "word": "吉赛尔说中文我很有钱你又丑又穷",
+        "onboard_time": 1776144142,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71137,
+        "num": 136176,
+        "word": "猪价跌穿5元排骨为何还20元",
+        "onboard_time": 1776144381,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66841,
+        "num": 135921,
+        "word": "陈芋汐五一假期亮相水立方",
+        "onboard_time": 1776144443,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61603,
+        "num": 134595,
+        "word": "乘风训练室",
+        "onboard_time": 1776141143,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28383,
+        "num": 134312,
+        "word": "曝华为PuraXMax顶配售价过万",
+        "onboard_time": 1776139882,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民之心#"
+    }
+  }
+}
