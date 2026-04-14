@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776201289317,
+  "endTime": 1776203947161,
   "band_list": [
     {
       "raw_hot": 689983,
@@ -363,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50701,
+      "num": 50701,
+      "word": "女子习惯饭后吃水果血糖30险截肢",
+      "onboard_time": 1776190396,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50578,
       "num": 89860,
       "word": "Jasper打球 以为哪吒上场了",
       "onboard_time": 1776179302,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50520,
+      "num": 89458,
+      "word": "中方回应美封锁伊海上交通",
+      "onboard_time": 1776183201,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50154,
@@ -387,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48391,
-      "num": 89458,
-      "word": "中方回应美封锁伊海上交通",
-      "onboard_time": 1776183201,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44315,
       "num": 88947,
       "word": "曝等风热吻你两组主演",
@@ -411,8 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39444,
-      "num": 39444,
+      "raw_hot": 40575,
+      "num": 40575,
       "word": "肖战提名亚洲艺术电影节最佳男主",
       "onboard_time": 1776189495,
       "rank": 7,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 38904,
-      "num": 73944,
+      "num": 194731,
       "word": "网友给拼豆店提建议被老板一一反驳",
       "onboard_time": 1776169701,
       "rank": 24,
@@ -483,14 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25510,
-      "num": 25510,
-      "word": "女子习惯饭后吃水果血糖30险截肢",
-      "onboard_time": 1776190396,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24285,
       "num": 25368,
       "word": "男子打赌输了被拍受辱视频后抑郁",
@@ -523,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18779,
+      "num": 18779,
+      "word": "鞠婧祎露芜衣连续9天霸榜",
+      "onboard_time": 1776190334,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18400,
       "num": 25145,
       "word": "Kznk 状态",
@@ -545,14 +553,6 @@
       "onboard_time": 1776180741,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16669,
-      "num": 16669,
-      "word": "鞠婧祎露芜衣连续9天霸榜",
-      "onboard_time": 1776190334,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 15707,
@@ -611,15 +611,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12502,
-      "num": 16652,
+      "raw_hot": 12730,
+      "num": 18671,
       "word": "龚俊家事法庭收官视频",
       "onboard_time": 1776194354,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 6943,
+      "raw_hot": 7350,
       "num": 203523,
       "word": "赏花经济点亮乡村振兴新图景",
       "onboard_time": 1776173003,
