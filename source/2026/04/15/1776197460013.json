@@ -1,0 +1,410 @@
+{
+  "runTime": 1776197460013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66784,
+        "num": 66784,
+        "word": "4人合伙买彩票中500万后起纠纷",
+        "onboard_time": 1776179482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35585,
+        "num": 35585,
+        "word": "网友给拼豆店提建议被老板一一反驳",
+        "onboard_time": 1776169701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6560,
+        "num": 31549,
+        "word": "赏花经济点亮乡村振兴新图景",
+        "onboard_time": 1776173003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78829,
+        "num": 31485,
+        "word": "上万美军正封锁进出伊朗港口船只",
+        "onboard_time": 1776185779,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 44466,
+        "num": 31475,
+        "word": "伊朗看透了",
+        "onboard_time": 1776181042,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30538,
+        "num": 30538,
+        "word": "者来家族扩大",
+        "onboard_time": 1776193395,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26898,
+        "num": 26898,
+        "word": "公司连亏6年股价却暴涨10倍",
+        "onboard_time": 1776177683,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25621,
+        "num": 25621,
+        "word": "长期饭后吃水果或诱发糖尿病",
+        "onboard_time": 1776183259,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24361,
+        "num": 24361,
+        "word": "肖战提名亚洲艺术电影节最佳男主",
+        "onboard_time": 1776189495,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21162,
+        "num": 21162,
+        "word": "尹锡悦夫妇法庭相见细节曝光",
+        "onboard_time": 1776177262,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37662,
+        "num": 20817,
+        "word": "特朗普说伊朗没牌了遭北约盟友打脸",
+        "onboard_time": 1776183740,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19862,
+        "num": 19862,
+        "word": "五一飞往东南亚航班大规模取消",
+        "onboard_time": 1776170243,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19685,
+        "num": 19685,
+        "word": "伊朗誓言确保霍尔木兹海峡控制权",
+        "onboard_time": 1776192914,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19387,
+        "num": 19387,
+        "word": "41岁男子戴隐形眼镜睡一夜后失明",
+        "onboard_time": 1776182000,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18784,
+        "num": 18784,
+        "word": "中方从不承认所谓阿鲁纳恰尔邦",
+        "onboard_time": 1776163160,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 17821,
+        "word": "微信余额没三五百元不给面试引争议",
+        "onboard_time": 1776177802,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 17814,
+        "word": "网传虞书欣邓为主演神仙肉",
+        "onboard_time": 1776182000,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17693,
+        "num": 17693,
+        "word": "牛排店被查唯一干净的竟是喂狗碗",
+        "onboard_time": 1776175404,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17534,
+        "num": 17534,
+        "word": "十日终焉外景",
+        "onboard_time": 1776184519,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15836,
+        "num": 15836,
+        "word": "鞠婧祎露芜衣连续9天霸榜",
+        "onboard_time": 1776190334,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19207,
+        "num": 15635,
+        "word": "lululemon中国市场成救命稻草",
+        "onboard_time": 1776169942,
+        "rank": 20,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 15369,
+        "num": 15369,
+        "word": "7个亿的农业实训基地没基地",
+        "onboard_time": 1776182061,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14210,
+        "num": 15369,
+        "word": "33岁抗癌博主去世",
+        "onboard_time": 1776165502,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13957,
+        "num": 15368,
+        "word": "胖东来多宝鱼被指吃出溯源标签",
+        "onboard_time": 1776166162,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13822,
+        "num": 15367,
+        "word": "班主任猥亵女学生被调到做后勤工作",
+        "onboard_time": 1776179243,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13769,
+        "num": 15364,
+        "word": "外卖员说最不能点的外卖是黄焖鸡",
+        "onboard_time": 1776178044,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13701,
+        "num": 15364,
+        "word": "外交部回应韩国标注中国台湾",
+        "onboard_time": 1776167062,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13145,
+        "num": 15362,
+        "word": "鞠婧祎狐妖衣闻录第八回",
+        "onboard_time": 1776189375,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12555,
+        "num": 15361,
+        "word": "什么是AI幻觉",
+        "onboard_time": 1776189615,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12530,
+        "num": 15359,
+        "word": "广东将再次迎来暴雨",
+        "onboard_time": 1776186017,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31382,
+        "num": 15358,
+        "word": "中方回应美封锁伊海上交通",
+        "onboard_time": 1776183201,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19910,
+        "num": 15356,
+        "word": "女子习惯饭后吃水果血糖30险截肢",
+        "onboard_time": 1776190396,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12232,
+        "num": 15354,
+        "word": "以黎代表在华盛顿举行会谈",
+        "onboard_time": 1776182240,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12123,
+        "num": 15354,
+        "word": "男子打赌输了被拍受辱视频后抑郁",
+        "onboard_time": 1776187097,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12123,
+        "num": 15353,
+        "word": "龚俊家事法庭收官视频",
+        "onboard_time": 1776194354,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12088,
+        "num": 15351,
+        "word": "苏新皓solo舞台全站第一",
+        "onboard_time": 1776177323,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11791,
+        "num": 15349,
+        "word": "尹锡悦夫妇时隔9个月法庭相见",
+        "onboard_time": 1776180741,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11657,
+        "num": 15348,
+        "word": "民航局回应一航班发生重着陆弹跳",
+        "onboard_time": 1776184519,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11573,
+        "num": 15347,
+        "word": "萨尔布吕肯将为樊振东办告别仪式",
+        "onboard_time": 1776182960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11412,
+        "num": 15345,
+        "word": "孙颖莎megastar的含金量",
+        "onboard_time": 1776181522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11038,
+        "num": 15344,
+        "word": "杨幂 越素越美",
+        "onboard_time": 1776170542,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10989,
+        "num": 15343,
+        "word": "以防你不知道手机发展得有多快",
+        "onboard_time": 1776169341,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10766,
+        "num": 15342,
+        "word": "蜜语纪热度",
+        "onboard_time": 1776181341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10710,
+        "num": 15341,
+        "word": "谁懂这次换手机的意义",
+        "onboard_time": 1776166043,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10592,
+        "num": 15339,
+        "word": "66岁男子吸烟失火与87岁母亲身亡",
+        "onboard_time": 1776179902,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10253,
+        "num": 15337,
+        "word": "卖不完的果切都去哪了",
+        "onboard_time": 1776163881,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10248,
+        "num": 15336,
+        "word": "医生回应每年体检突然查出中晚期肝癌",
+        "onboard_time": 1776186496,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9927,
+        "num": 15335,
+        "word": "IG战胜TES",
+        "onboard_time": 1776170482,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8894,
+        "num": 15332,
+        "word": "2026美加墨世界杯球衣翻车",
+        "onboard_time": 1776179002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8821,
+        "num": 15332,
+        "word": "卖千元黄樱桃超市4根炸虾标价48元",
+        "onboard_time": 1776188176,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中西双方要共谋创新发展#"
+    }
+  }
+}

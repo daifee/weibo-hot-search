@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776196209677,
+  "endTime": 1776197460013,
   "band_list": [
     {
       "raw_hot": 689983,
@@ -443,20 +443,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30538,
+      "num": 30538,
+      "word": "者来家族扩大",
+      "onboard_time": 1776193395,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29474,
       "num": 29474,
       "word": "民航局回应一航班发生重着陆弹跳",
       "onboard_time": 1776184519,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29332,
-      "num": 26891,
-      "word": "者来家族扩大",
-      "onboard_time": 1776193395,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 27470,
@@ -507,20 +507,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19910,
+      "num": 16655,
+      "word": "女子习惯饭后吃水果血糖30险截肢",
+      "onboard_time": 1776190396,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18793,
       "num": 25195,
       "word": "IG战胜TES",
       "onboard_time": 1776170482,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18509,
-      "num": 16655,
-      "word": "女子习惯饭后吃水果血糖30险截肢",
-      "onboard_time": 1776190396,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18400,
