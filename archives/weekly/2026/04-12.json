@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776136998085,
+  "endTime": 1776138617031,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1403067,
-      "num": 150611,
+      "num": 168852,
       "word": "王晓晨 俞灏明",
       "onboard_time": 1776081381,
       "rank": 21,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 995764,
-      "num": 112398,
+      "num": 174490,
       "word": "朴信惠怀二胎了",
       "onboard_time": 1776133401,
       "rank": 20,
@@ -153,6 +153,14 @@
       "onboard_time": 1775949736,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875455,
+      "num": 205279,
+      "word": "泰国海岸惊现被斩首美人鱼",
+      "onboard_time": 1776136942,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 855000,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372706,
+      "num": 784067,
+      "word": "莫氏鸡煲爆火帮工一周就扛不住了",
+      "onboard_time": 1776132200,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371486,
       "num": 1052447,
       "word": "楚乔传 知否",
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 361693,
-      "num": 108578,
+      "num": 170677,
       "word": "宋祖儿后援会暂停运营",
       "onboard_time": 1776125362,
       "rank": 22,
@@ -929,6 +945,22 @@
       "onboard_time": 1775954901,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342361,
+      "num": 342361,
+      "word": "北约先跑了",
+      "onboard_time": 1776134721,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 341306,
+      "num": 341306,
+      "word": "李梦演小三看起来好难对付",
+      "onboard_time": 1776136520,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 338676,
@@ -1008,6 +1040,14 @@
       "word": "向涵之吸烟路透",
       "onboard_time": 1776123679,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328064,
+      "num": 202673,
+      "word": "朴信惠 崔泰俊",
+      "onboard_time": 1776136820,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1121,14 +1161,6 @@
       "onboard_time": 1776083002,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314241,
-      "num": 770941,
-      "word": "莫氏鸡煲爆火帮工一周就扛不住了",
-      "onboard_time": 1776132200,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311978,
@@ -1379,14 +1411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 263898,
-      "num": 99736,
-      "word": "泰国海岸惊现被斩首美人鱼",
-      "onboard_time": 1776136942,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 261554,
       "num": 261554,
       "word": "伊朗总统称准备达成平衡公平协议",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1775980403,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258130,
+      "num": 196799,
+      "word": "朱珠这个气质怎么看都不会是保洁",
+      "onboard_time": 1776137301,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 255499,
@@ -1523,6 +1555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239162,
+      "num": 239162,
+      "word": "隔夜菜不是指放了一夜的菜",
+      "onboard_time": 1776133340,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 238935,
+      "num": 180837,
+      "word": "时代少年团 错票无法入场",
+      "onboard_time": 1776137961,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236521,
       "num": 136744,
       "word": "小S给林志玲擦泪",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1776098537,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223159,
-      "num": 180730,
-      "word": "李梦演小三看起来好难对付",
-      "onboard_time": 1776136520,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 222162,
@@ -1787,16 +1827,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205700,
-      "num": 179091,
-      "word": "北约先跑了",
-      "onboard_time": 1776134721,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 206137,
+      "num": 206137,
+      "word": "XChat 阅后即焚",
+      "onboard_time": 1776137481,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 204196,
-      "num": 176754,
+      "num": 178287,
       "word": "郑州胖东来最新进展",
       "onboard_time": 1776134001,
       "rank": 12,
@@ -1804,7 +1844,7 @@
     },
     {
       "raw_hot": 201866,
-      "num": 172554,
+      "num": 186453,
       "word": "官方通报深圳比亚迪火灾",
       "onboard_time": 1776127463,
       "rank": 13,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1775988380,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181757,
-      "num": 181757,
-      "word": "隔夜菜不是指放了一夜的菜",
-      "onboard_time": 1776133340,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 181725,
@@ -2348,7 +2380,7 @@
     },
     {
       "raw_hot": 148297,
-      "num": 105690,
+      "num": 115359,
       "word": "两类肉吃太多增加肠癌风险",
       "onboard_time": 1776133939,
       "rank": 24,
@@ -2579,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135230,
+      "num": 135230,
+      "word": "钟汉良感谢李小冉",
+      "onboard_time": 1776135379,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134797,
       "num": 134797,
       "word": "LGD签运",
@@ -2588,7 +2628,7 @@
     },
     {
       "raw_hot": 133986,
-      "num": 103398,
+      "num": 119185,
       "word": "莫氏鸡煲临时帮工发声",
       "onboard_time": 1776134721,
       "rank": 26,
@@ -2600,6 +2640,14 @@
       "word": "男子开车碾死大伯已被刑拘",
       "onboard_time": 1776122840,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133463,
+      "num": 175311,
+      "word": "调解时猝死家长妻子称没人会用AED",
+      "onboard_time": 1776137481,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2625,14 +2673,6 @@
       "onboard_time": 1776051921,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132435,
-      "num": 101366,
-      "word": "钟汉良感谢李小冉",
-      "onboard_time": 1776135379,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 131312,
@@ -3052,7 +3092,7 @@
     },
     {
       "raw_hot": 112515,
-      "num": 112515,
+      "num": 177782,
       "word": "Chovy力挺Bin",
       "onboard_time": 1776134660,
       "rank": 19,
@@ -3168,6 +3208,14 @@
       "word": "致男孩气管断裂老人该承担什么责任",
       "onboard_time": 1776122840,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107471,
+      "num": 107471,
+      "word": "12306回应被陌生人冒用身份乘车",
+      "onboard_time": 1776136942,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3483,6 +3531,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 98738,
+      "num": 98738,
+      "word": "莫氏鸡煲少东家发声",
+      "onboard_time": 1776137002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98719,
       "num": 98719,
       "word": "太急是一种很强的负能量",
@@ -3627,14 +3683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95467,
-      "num": 95467,
-      "word": "朴信惠 崔泰俊",
-      "onboard_time": 1776136820,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95314,
       "num": 95314,
       "word": "桑德兰1比0热刺",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1775999001,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92832,
+      "num": 92832,
+      "word": "油价金价齐跌",
+      "onboard_time": 1776138081,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 92765,
@@ -3873,6 +3929,14 @@
       "onboard_time": 1775994861,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90113,
+      "num": 90113,
+      "word": "要学会在亲密关系中张嘴",
+      "onboard_time": 1776138201,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 90091,
@@ -4331,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80264,
+      "num": 82878,
+      "word": "离职要的就是这个瞬间",
+      "onboard_time": 1776138262,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79908,
       "num": 157838,
       "word": "中国混动油耗打破世界纪录",
@@ -4443,6 +4515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76778,
+      "num": 76778,
+      "word": "文章回应开面馆",
+      "onboard_time": 1776138561,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76407,
       "num": 76407,
       "word": "神经系统 快速识人",
@@ -4545,6 +4625,14 @@
       "onboard_time": 1775991200,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75256,
+      "num": 75256,
+      "word": "夏天第一次开空调要这么做",
+      "onboard_time": 1776137842,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 75253,
@@ -5163,6 +5251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61808,
+      "num": 74478,
+      "word": "东契奇本周与湖人会合",
+      "onboard_time": 1776138502,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61672,
       "num": 174640,
       "word": "李荣浩太原演唱会",
@@ -5257,6 +5353,14 @@
       "onboard_time": 1776084322,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56308,
+      "num": 176882,
+      "word": "新娘感冒输液后昏迷近3个月未醒",
+      "onboard_time": 1776137540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56043,
@@ -5988,7 +6092,7 @@
     },
     {
       "raw_hot": 27156,
-      "num": 590258,
+      "num": 600316,
       "word": "春日里的中国花经济",
       "onboard_time": 1776134540,
       "rank": 2,
@@ -6296,14 +6400,6 @@
       "word": "律师解读法官被指猥亵当事人",
       "onboard_time": 1776019275,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15194,
-      "num": 77062,
-      "word": "12306回应被陌生人冒用身份乘车",
-      "onboard_time": 1776136942,
-      "rank": 42,
       "category": "民生新闻"
     },
     {

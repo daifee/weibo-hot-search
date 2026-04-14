@@ -1,0 +1,410 @@
+{
+  "runTime": 1776138617031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381090,
+        "num": 1060974,
+        "word": "垃圾真的不够烧",
+        "onboard_time": 1776132081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372706,
+        "num": 784067,
+        "word": "莫氏鸡煲爆火帮工一周就扛不住了",
+        "onboard_time": 1776132200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24112,
+        "num": 600316,
+        "word": "春日里的中国花经济",
+        "onboard_time": 1776134540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394597,
+        "num": 394597,
+        "word": "奶奶帮我打印的身份证复印件",
+        "onboard_time": 1776133520,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342361,
+        "num": 342361,
+        "word": "北约先跑了",
+        "onboard_time": 1776134721,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341306,
+        "num": 341306,
+        "word": "李梦演小三看起来好难对付",
+        "onboard_time": 1776136520,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322313,
+        "num": 322313,
+        "word": "比亚迪回应深圳车库火灾",
+        "onboard_time": 1776131600,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311590,
+        "num": 311590,
+        "word": "王安宇王玉雯新片海报",
+        "onboard_time": 1776134540,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239162,
+        "num": 239162,
+        "word": "隔夜菜不是指放了一夜的菜",
+        "onboard_time": 1776133340,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206137,
+        "num": 206137,
+        "word": "XChat 阅后即焚",
+        "onboard_time": 1776137481,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 875455,
+        "num": 205279,
+        "word": "泰国海岸惊现被斩首美人鱼",
+        "onboard_time": 1776136942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328064,
+        "num": 202673,
+        "word": "朴信惠 崔泰俊",
+        "onboard_time": 1776136820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258130,
+        "num": 196799,
+        "word": "朱珠这个气质怎么看都不会是保洁",
+        "onboard_time": 1776137301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186453,
+        "num": 186453,
+        "word": "官方通报深圳比亚迪火灾",
+        "onboard_time": 1776127463,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251743,
+        "num": 182637,
+        "word": "田雨谈庆余年3",
+        "onboard_time": 1776132560,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238935,
+        "num": 180837,
+        "word": "时代少年团 错票无法入场",
+        "onboard_time": 1776137961,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178287,
+        "num": 178287,
+        "word": "郑州胖东来最新进展",
+        "onboard_time": 1776134001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98842,
+        "num": 177782,
+        "word": "Chovy力挺Bin",
+        "onboard_time": 1776134660,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56308,
+        "num": 176882,
+        "word": "新娘感冒输液后昏迷近3个月未醒",
+        "onboard_time": 1776137540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133463,
+        "num": 175311,
+        "word": "调解时猝死家长妻子称没人会用AED",
+        "onboard_time": 1776137481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768444,
+        "num": 174490,
+        "word": "朴信惠怀二胎了",
+        "onboard_time": 1776133401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 173492,
+        "word": "日本警方再次逮捕村田晃大",
+        "onboard_time": 1776134780,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304367,
+        "num": 170677,
+        "word": "宋祖儿后援会暂停运营",
+        "onboard_time": 1776125362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294296,
+        "num": 168852,
+        "word": "王晓晨 俞灏明",
+        "onboard_time": 1776081381,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160649,
+        "num": 160649,
+        "word": "演出服遭集体退货店家曝演出视频",
+        "onboard_time": 1776122658,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156836,
+        "num": 156836,
+        "word": "伊朗要求五个中东国家赔偿损失",
+        "onboard_time": 1776123919,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135230,
+        "num": 135230,
+        "word": "钟汉良感谢李小冉",
+        "onboard_time": 1776135379,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124383,
+        "num": 124383,
+        "word": "多校鼓励博士生读硕士",
+        "onboard_time": 1776092783,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "莫氏鸡煲临时帮工发声",
+        "onboard_time": 1776134721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118079,
+        "num": 118079,
+        "word": "迪丽热巴造型师是闵塔鲨",
+        "onboard_time": 1776133761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115359,
+        "num": 115359,
+        "word": "两类肉吃太多增加肠癌风险",
+        "onboard_time": 1776133939,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 113241,
+        "word": "钟汉良吻出了成年人的拉扯",
+        "onboard_time": 1776126262,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107471,
+        "num": 107471,
+        "word": "12306回应被陌生人冒用身份乘车",
+        "onboard_time": 1776136942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100272,
+        "num": 100272,
+        "word": "为什么刷完牙不要立刻漱口",
+        "onboard_time": 1776129681,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98738,
+        "num": 98738,
+        "word": "莫氏鸡煲少东家发声",
+        "onboard_time": 1776137002,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98730,
+        "num": 98730,
+        "word": "女子名下多出一套上海房产却苦恼不已",
+        "onboard_time": 1776127463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97966,
+        "num": 97966,
+        "word": "14岁初中生自学微积分造航空发动机",
+        "onboard_time": 1776133883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97196,
+        "num": 97196,
+        "word": "向涵之吸烟路透",
+        "onboard_time": 1776123679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92832,
+        "num": 92832,
+        "word": "油价金价齐跌",
+        "onboard_time": 1776138081,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90113,
+        "num": 90113,
+        "word": "要学会在亲密关系中张嘴",
+        "onboard_time": 1776138201,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85371,
+        "num": 85371,
+        "word": "心愿便利贴原唱称李小冉组表演可爱",
+        "onboard_time": 1776126502,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84533,
+        "num": 84533,
+        "word": "俞灏明曾高调示爱王晓晨",
+        "onboard_time": 1776122778,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80264,
+        "num": 82878,
+        "word": "离职要的就是这个瞬间",
+        "onboard_time": 1776138262,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82381,
+        "num": 82381,
+        "word": "张凌赫田曦薇曾庆杰一起切蛋糕",
+        "onboard_time": 1776129382,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80819,
+        "num": 80819,
+        "word": "文章面馆排长队顾客发声",
+        "onboard_time": 1776122840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79306,
+        "num": 79306,
+        "word": "8天胖8斤博主打卡莫氏鸡煲被劝退",
+        "onboard_time": 1776132380,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78143,
+        "num": 78143,
+        "word": "明川有知夏官宣开机",
+        "onboard_time": 1776133640,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76778,
+        "num": 76778,
+        "word": "文章回应开面馆",
+        "onboard_time": 1776138561,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75256,
+        "num": 75256,
+        "word": "夏天第一次开空调要这么做",
+        "onboard_time": 1776137842,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 61808,
+        "num": 74478,
+        "word": "东契奇本周与湖人会合",
+        "onboard_time": 1776138502,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民之心#"
+    }
+  }
+}
