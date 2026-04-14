@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776168219137,
+  "endTime": 1776175780734,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1194171,
+      "num": 167836,
+      "word": "文章面馆 周一不见",
+      "onboard_time": 1776172462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1137928,
       "num": 1182068,
       "word": "你们俩是要毁了芒果吗",
       "onboard_time": 1775968641,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1136385,
+      "num": 1181821,
+      "word": "遭割喉男孩仍有一段气管未找到",
+      "onboard_time": 1776172943,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1020109,
@@ -233,6 +249,14 @@
       "onboard_time": 1776086962,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 733534,
+      "num": 163450,
+      "word": "TOP更新站位",
+      "onboard_time": 1776169102,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 733221,
@@ -352,6 +376,14 @@
       "word": "长春姐弟俩被遗留在托管班两年",
       "onboard_time": 1776077122,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641004,
+      "num": 641004,
+      "word": "B太可撤销对大山女孩的18万捐赠",
+      "onboard_time": 1776174385,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -705,6 +737,14 @@
       "onboard_time": 1776095900,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456855,
+      "num": 155730,
+      "word": "朱珠把女儿当女士来养",
+      "onboard_time": 1776174203,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 456815,
@@ -1347,12 +1387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318436,
+      "num": 827487,
+      "word": "胖东来多宝鱼被指吃出溯源标签",
+      "onboard_time": 1776166162,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318433,
       "num": 190403,
       "word": "瑶一瑶妈妈晒与老公恋爱时的照片",
       "onboard_time": 1776000562,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317494,
+      "num": 317494,
+      "word": "杨幂 越素越美",
+      "onboard_time": 1776170542,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 317209,
@@ -1451,6 +1507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306599,
+      "num": 152712,
+      "word": "阿Sa被名医诊断出轻微中风",
+      "onboard_time": 1776171264,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300516,
       "num": 774965,
       "word": "怦然心动20岁",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1776085282,
       "rank": 5,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 291500,
+      "num": 291500,
+      "word": "五一飞往东南亚航班大规模取消",
+      "onboard_time": 1776170243,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290085,
@@ -1835,12 +1907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246889,
-      "num": 246889,
-      "word": "胖东来多宝鱼被指吃出溯源标签",
-      "onboard_time": 1776166162,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 246997,
+      "num": 149392,
+      "word": "TOP换头像",
+      "onboard_time": 1776170303,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 246586,
@@ -2355,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191160,
+      "num": 148235,
+      "word": "等张泽禹张极换头像",
+      "onboard_time": 1776172462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191087,
       "num": 191087,
       "word": "伊朗代表团离开巴基斯坦",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1776007581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183756,
+      "num": 183756,
+      "word": "白日提灯 be味",
+      "onboard_time": 1776170662,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 183745,
@@ -2819,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153018,
+      "num": 153018,
+      "word": "lululemon中国市场成救命稻草",
+      "onboard_time": 1776169942,
+      "rank": 15,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 152866,
       "num": 152866,
       "word": "老百姓看病应该多留个心眼",
@@ -2841,6 +2937,14 @@
       "onboard_time": 1775966239,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150625,
+      "num": 147277,
+      "word": "朱志鑫 黑猫天使",
+      "onboard_time": 1776169881,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 150308,
@@ -2963,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144145,
+      "num": 152131,
+      "word": "桃黑黑 胖蛋军团让三追四",
+      "onboard_time": 1776175044,
+      "rank": 17,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 143982,
       "num": 127870,
       "word": "男子住48元宾馆身亡家属索赔被驳回",
@@ -3027,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141925,
+      "num": 145801,
+      "word": "宋亚轩再多上几节课都大小脸了",
+      "onboard_time": 1776172342,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141845,
       "num": 154601,
       "word": "挑杯第一阶段抽签结果",
@@ -3057,6 +3177,14 @@
       "onboard_time": 1775987722,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140631,
+      "num": 143120,
+      "word": "娜扎说我人就漂亮",
+      "onboard_time": 1776172702,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 140334,
@@ -3427,6 +3555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120023,
+      "num": 142313,
+      "word": "吴慷仁直播",
+      "onboard_time": 1776173303,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119951,
       "num": 119951,
       "word": "14岁初中生自学微积分造航空发动机",
@@ -3491,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117416,
+      "num": 143687,
+      "word": "网友给拼豆店提建议被老板一一反驳",
+      "onboard_time": 1776169701,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117277,
       "num": 117277,
       "word": "萧蔷58岁身材",
@@ -3548,7 +3692,7 @@
     },
     {
       "raw_hot": 116402,
-      "num": 103610,
+      "num": 130854,
       "word": "男女点同一份外卖分量却差一半",
       "onboard_time": 1776166642,
       "rank": 47,
@@ -3640,6 +3784,14 @@
       "word": "马思纯发了黎吧啦",
       "onboard_time": 1775978721,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114964,
+      "num": 140809,
+      "word": "孟子义颜选缤果Pro有多懂女生",
+      "onboard_time": 1776175462,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -3787,6 +3939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110690,
+      "num": 141978,
+      "word": "宝妈从146斤减到96斤说像重生",
+      "onboard_time": 1776175462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110658,
       "num": 110658,
       "word": "莫氏鸡煲老板终于是闲下来了",
@@ -3883,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107413,
+      "num": 140737,
+      "word": "IG战胜TES",
+      "onboard_time": 1776170482,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106787,
       "num": 106787,
       "word": "葛荟婕自曝从未支付过女儿抚养费",
@@ -3972,7 +4140,7 @@
     },
     {
       "raw_hot": 105815,
-      "num": 105815,
+      "num": 133465,
       "word": "马頔为了装修李乃文为了什么",
       "onboard_time": 1776165982,
       "rank": 36,
@@ -4067,6 +4235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103226,
+      "num": 139752,
+      "word": "遭秤砣砸中女婴已完成超声检查",
+      "onboard_time": 1776175404,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103156,
+      "num": 138151,
+      "word": "苏新皓头像换饼图",
+      "onboard_time": 1776170000,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102809,
       "num": 174921,
       "word": "李小冉口误喊赵兆老公",
@@ -4089,6 +4273,22 @@
       "onboard_time": 1775921962,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101997,
+      "num": 134036,
+      "word": "鞠婧祎演技",
+      "onboard_time": 1776175284,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101935,
+      "num": 130031,
+      "word": "罗志祥 谁在蛐蛐我",
+      "onboard_time": 1776175404,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101858,
@@ -4307,6 +4507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97536,
+      "num": 138975,
+      "word": "AG一诺回归",
+      "onboard_time": 1776169341,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "阿嬷手作新品定价48元引争议",
@@ -4321,6 +4529,14 @@
       "onboard_time": 1776059002,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96927,
+      "num": 150923,
+      "word": "伊朗正考虑暂停霍尔木兹海峡航运",
+      "onboard_time": 1776174444,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96890,
@@ -4419,6 +4635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95326,
+      "num": 137370,
+      "word": "花海Cat亚运会教练",
+      "onboard_time": 1776174323,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95314,
       "num": 95314,
       "word": "桑德兰1比0热刺",
@@ -4465,6 +4689,14 @@
       "onboard_time": 1775987542,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 94721,
+      "num": 252598,
+      "word": "外交部回应韩国标注中国台湾",
+      "onboard_time": 1776167062,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94464,
@@ -4819,6 +5051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88471,
+      "num": 136120,
+      "word": "牛排店被查唯一干净的竟是喂狗碗",
+      "onboard_time": 1776175404,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88455,
       "num": 98020,
       "word": "北京逐步替换杨柳树雌株",
@@ -4849,6 +5089,14 @@
       "onboard_time": 1775973981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88175,
+      "num": 135974,
+      "word": "人社局回应查看微信余额才能进面试",
+      "onboard_time": 1776173543,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88137,
@@ -5043,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84648,
+      "num": 134960,
+      "word": "养了7年的猎犬咬死19岁女主人",
+      "onboard_time": 1776162501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84580,
       "num": 197901,
       "word": "苏超常州3比0南通",
@@ -5105,14 +5361,6 @@
       "onboard_time": 1776075081,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83971,
-      "num": 101843,
-      "word": "养了7年的猎犬咬死19岁女主人",
-      "onboard_time": 1776162501,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83850,
@@ -6331,14 +6579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58943,
-      "num": 252598,
-      "word": "外交部回应韩国标注中国台湾",
-      "onboard_time": 1776167062,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58868,
       "num": 58868,
       "word": "张翅直播",
@@ -6481,6 +6721,14 @@
       "onboard_time": 1776154041,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53928,
+      "num": 132704,
+      "word": "以防你不知道手机发展得有多快",
+      "onboard_time": 1776169341,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 53748,
@@ -7387,6 +7635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22647,
+      "num": 674294,
+      "word": "一季度进出口创新高",
+      "onboard_time": 1776173243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22156,
       "num": 75611,
       "word": "蔡皋获国际安徒生奖",
@@ -7675,6 +7931,9 @@
     },
     {
       "word": "#习近平会见桑切斯#"
+    },
+    {
+      "word": "#中西双方要共谋创新发展#"
     }
   ]
 }
