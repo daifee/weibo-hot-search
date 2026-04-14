@@ -1,6 +1,6 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776162154632,
+  "endTime": 1776166690847,
   "band_list": [
     {
       "raw_hot": 1399675,
@@ -8,6 +8,14 @@
       "word": "罗志祥方否认猝死传闻",
       "onboard_time": 1776142582,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1262397,
+      "num": 123216,
+      "word": "田馥甄回应和周杰伦绯闻",
+      "onboard_time": 1776163461,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530295,
+      "num": 530295,
+      "word": "中方从不承认所谓阿鲁纳恰尔邦",
+      "onboard_time": 1776163160,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 478643,
       "num": 478643,
       "word": "突然意识到长辈从没独居过",
@@ -201,6 +217,14 @@
       "onboard_time": 1776157462,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385134,
+      "num": 385134,
+      "word": "曝等风热吻你两组主演",
+      "onboard_time": 1776163042,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 375823,
@@ -307,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323922,
+      "num": 385806,
+      "word": "33岁抗癌博主去世",
+      "onboard_time": 1776165502,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323264,
       "num": 186255,
       "word": "印度女生拒嫁艾滋男被注射毒血报复",
@@ -345,6 +377,14 @@
       "onboard_time": 1776152121,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290085,
+      "num": 194233,
+      "word": "朴宝剑 茶姬卖场在哪",
+      "onboard_time": 1776163761,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 288882,
@@ -395,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278024,
+      "num": 137569,
+      "word": "朴宝剑 费大厨",
+      "onboard_time": 1776165982,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269661,
       "num": 269661,
       "word": "日本警方再次逮捕村田晃大",
       "onboard_time": 1776134780,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 263261,
+      "num": 263261,
+      "word": "卖不完的果切都去哪了",
+      "onboard_time": 1776163881,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 258130,
@@ -475,12 +531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238028,
+      "num": 165853,
+      "word": "张钧甯不去浪姐的原因",
+      "onboard_time": 1776165442,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229152,
       "num": 194931,
       "word": "何穗做了面部提升针灸",
       "onboard_time": 1776146902,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228829,
+      "num": 228829,
+      "word": "家里三口人有57把雨伞",
+      "onboard_time": 1776161122,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 228145,
@@ -515,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211622,
+      "num": 211622,
+      "word": "Faker被举报逃税",
+      "onboard_time": 1776162322,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211482,
       "num": 211482,
       "word": "田嘉瑞月鳞绮纪里面造型神似刘亦菲",
@@ -523,12 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209594,
+      "num": 120670,
+      "word": "于适对接否认退团传闻",
+      "onboard_time": 1776161901,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206137,
       "num": 206137,
       "word": "XChat 阅后即焚",
       "onboard_time": 1776137481,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 204215,
+      "num": 113227,
+      "word": "时代少年团直播",
+      "onboard_time": 1776165080,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 204196,
@@ -659,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169163,
+      "num": 169163,
+      "word": "出生4天女婴被秤砣砸伤母亲发声",
+      "onboard_time": 1776164722,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166270,
       "num": 166270,
       "word": "演出服遭集体退货店家曝演出视频",
@@ -723,7 +827,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154054,
+      "raw_hot": 154236,
       "num": 183359,
       "word": "体检肝功能都正常怎么就肝癌了",
       "onboard_time": 1776160942,
@@ -737,6 +841,14 @@
       "onboard_time": 1776153622,
       "rank": 37,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 149154,
+      "num": 111295,
+      "word": "王濛李小冉回复唐艺昕",
+      "onboard_time": 1776162802,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 148297,
@@ -771,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142356,
+      "num": 142356,
+      "word": "胖东来多宝鱼被指吃出溯源标签",
+      "onboard_time": 1776166162,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138766,
       "num": 104030,
       "word": "楚乔传 全员下场",
@@ -803,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133702,
+      "num": 179983,
+      "word": "演出服遭集体退货家长已支付费用",
+      "onboard_time": 1776160043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133665,
       "num": 133665,
       "word": "男子开车碾死大伯已被刑拘",
@@ -819,20 +947,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131088,
-      "num": 194597,
-      "word": "家里三口人有57把雨伞",
-      "onboard_time": 1776161122,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129083,
       "num": 125968,
       "word": "伊朗曾准备稀释450公斤浓缩铀",
       "onboard_time": 1776088764,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127308,
+      "num": 115246,
+      "word": "孙怡 者来姨",
+      "onboard_time": 1776166342,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126227,
+      "num": 126227,
+      "word": "谁懂这次换手机的意义",
+      "onboard_time": 1776166043,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 125861,
@@ -1011,6 +1147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103057,
+      "num": 103057,
+      "word": "马頔为了装修李乃文为了什么",
+      "onboard_time": 1776165982,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101296,
+      "num": 101296,
+      "word": "小区有人疑往窗外撒100多万港币",
+      "onboard_time": 1776162501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101118,
       "num": 187052,
       "word": "父亲调解室猝死遭欺凌儿子今年中考",
@@ -1025,6 +1177,14 @@
       "onboard_time": 1776082220,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100762,
+      "num": 100762,
+      "word": "54岁班主任猥亵15岁女孩被拘十天",
+      "onboard_time": 1776164842,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100425,
@@ -1059,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97533,
-      "num": 179983,
-      "word": "演出服遭集体退货家长已支付费用",
-      "onboard_time": 1776160043,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97492,
       "num": 97492,
       "word": "董力8岁儿子都这么高了",
@@ -1075,12 +1227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97415,
+      "num": 97415,
+      "word": "阿嬷手作新品定价48元引争议",
+      "onboard_time": 1776162981,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96758,
       "num": 96758,
       "word": "8天胖8斤博主打卡莫氏鸡煲被劝退",
       "onboard_time": 1776132380,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96378,
+      "num": 96378,
+      "word": "沈清曝王阳杀青宴被指着鼻子骂",
+      "onboard_time": 1776166642,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 96298,
@@ -1275,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86529,
+      "num": 86529,
+      "word": "阿Sa感谢浪姐",
+      "onboard_time": 1776164662,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85385,
       "num": 153560,
       "word": "张凌赫说和小田一起拍情感戏很温馨",
@@ -1291,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84557,
+      "num": 84557,
+      "word": "贾国龙新店50元焖面不够两个男人吃",
+      "onboard_time": 1776166282,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84518,
       "num": 143295,
       "word": "王一博GQ封面预告",
@@ -1299,11 +1483,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83971,
+      "num": 83971,
+      "word": "养了7年的猎犬咬死19岁女主人",
+      "onboard_time": 1776162501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83736,
       "num": 142748,
       "word": "儿子被欺凌家长猝死校调解室谁担责",
       "onboard_time": 1776143601,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83728,
+      "num": 83728,
+      "word": "男女点同一份外卖分量却差一半",
+      "onboard_time": 1776166642,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1321,6 +1521,14 @@
       "onboard_time": 1776144381,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83536,
+      "num": 77640,
+      "word": "莫氏鸡煲一天营业额5万元",
+      "onboard_time": 1776162201,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82889,
@@ -1377,6 +1585,14 @@
       "onboard_time": 1776151642,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78041,
+      "num": 78041,
+      "word": "陈芋汐携新搭档冲击世界杯五连冠",
+      "onboard_time": 1776164783,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77188,
@@ -1513,6 +1729,22 @@
       "onboard_time": 1776132800,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67212,
+      "num": 125717,
+      "word": "受困霍尔木兹海峡船员已有精神问题",
+      "onboard_time": 1776163401,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 67165,
+      "num": 114068,
+      "word": "澳大利亚超市惊现胖东来122元月饼",
+      "onboard_time": 1776166462,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65817,
@@ -1771,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36540,
+      "num": 101555,
+      "word": "Lululemon客服回应",
+      "onboard_time": 1776164842,
+      "rank": 37,
+      "category": "时尚,民生新闻"
+    },
+    {
       "raw_hot": 35859,
       "num": 173146,
       "word": "王鹤棣剧宣第一天就告状",
@@ -1849,6 +2089,14 @@
       "onboard_time": 1776099678,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30650,
+      "num": 116878,
+      "word": "离职员工被训练出AI分身继续上班",
+      "onboard_time": 1776166222,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30245,
@@ -1993,6 +2241,14 @@
       "onboard_time": 1776118575,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 21013,
+      "num": 100765,
+      "word": "酒吧取名摆烂被要求整改",
+      "onboard_time": 1776165982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20778,
