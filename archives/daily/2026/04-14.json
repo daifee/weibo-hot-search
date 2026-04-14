@@ -1,10 +1,10 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776147484739,
+  "endTime": 1776154359291,
   "band_list": [
     {
       "raw_hot": 1399675,
-      "num": 170180,
+      "num": 177902,
       "word": "罗志祥方否认猝死传闻",
       "onboard_time": 1776142582,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 926242,
-      "num": 163346,
+      "num": 169521,
       "word": "宋祖儿被男粉求婚",
       "onboard_time": 1776146062,
       "rank": 21,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452770,
+      "num": 241818,
+      "word": "恒大集团恒大地产及许家印案一审开庭",
+      "onboard_time": 1776139343,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 450384,
       "num": 802037,
       "word": "演出服遭集体退货家属称表演取消",
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422584,
-      "num": 241818,
-      "word": "恒大集团恒大地产及许家印案一审开庭",
-      "onboard_time": 1776139343,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 422023,
       "num": 422023,
       "word": "王安宇王玉雯新片海报",
       "onboard_time": 1776134540,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 418977,
+      "num": 177242,
+      "word": "胡巴每年都给井柏然过母亲节",
+      "onboard_time": 1776149240,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 375823,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358368,
+      "num": 358368,
+      "word": "爷爷的微信运动少了一个人点赞",
+      "onboard_time": 1776150501,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357195,
       "num": 357195,
       "word": "老莫因1000只鸡没地方放拒绝温氏",
@@ -169,6 +185,14 @@
       "onboard_time": 1776122358,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 344090,
+      "num": 168177,
+      "word": "王星和女友回应不结婚的原因",
+      "onboard_time": 1776148401,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 342361,
@@ -219,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312214,
+      "num": 790652,
+      "word": "银行招聘被骂上热搜不能怪网友",
+      "onboard_time": 1776144443,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 288882,
       "num": 288882,
       "word": "田曦薇逐玉庆功宴的发言",
       "onboard_time": 1776125181,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288711,
+      "num": 163412,
+      "word": "折叠屏iPhone外观实锤",
+      "onboard_time": 1776148820,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 283567,
@@ -291,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243499,
+      "num": 243499,
+      "word": "伊朗放重磅信号",
+      "onboard_time": 1776143244,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242740,
       "num": 232074,
       "word": "马斯克版微信XChat将上线",
@@ -315,12 +363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229152,
+      "num": 166995,
+      "word": "何穗做了面部提升针灸",
+      "onboard_time": 1776146902,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225122,
       "num": 225122,
       "word": "美若封锁霍尔木兹就将失去曼德海峡",
       "onboard_time": 1776098537,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223662,
+      "num": 223662,
+      "word": "毛肚草莓火锅把四川人整沉默了",
+      "onboard_time": 1776149362,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 221336,
@@ -355,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200127,
+      "num": 165201,
+      "word": "张凌赫 杀死另世我",
+      "onboard_time": 1776151700,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199471,
       "num": 199471,
       "word": "多校鼓励博士生读硕士",
@@ -363,12 +435,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 199309,
-      "num": 161985,
-      "word": "银行招聘被骂上热搜不能怪网友",
-      "onboard_time": 1776144443,
-      "rank": 22,
-      "category": "舆论监督"
+      "raw_hot": 190512,
+      "num": 166633,
+      "word": "女子称出130斤生气踩爆体重秤",
+      "onboard_time": 1776148882,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186544,
+      "num": 174372,
+      "word": "我承认之前对格力声音有点大了",
+      "onboard_time": 1776150261,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 184335,
+      "num": 184335,
+      "word": "王安宇王玉雯我们三个人很暧昧",
+      "onboard_time": 1776150440,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179827,
+      "num": 179827,
+      "word": "怦然心动20岁 七月潘纬轩",
+      "onboard_time": 1776149901,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 179785,
@@ -401,14 +497,6 @@
       "onboard_time": 1776126262,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166692,
-      "num": 158675,
-      "word": "何穗做了面部提升针灸",
-      "onboard_time": 1776146902,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 166270,
@@ -467,12 +555,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152538,
+      "num": 179276,
+      "word": "陈芋汐将搭档崔家溪双人10米台",
+      "onboard_time": 1776151941,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149913,
+      "num": 158568,
+      "word": "王晓晨曾回应已婚留言称我头昏",
+      "onboard_time": 1776147022,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149195,
+      "num": 157166,
+      "word": "唐艺昕李小冉王濛自拍",
+      "onboard_time": 1776153622,
+      "rank": 37,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 148297,
       "num": 115359,
       "word": "两类肉吃太多增加肠癌风险",
       "onboard_time": 1776133939,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147110,
+      "num": 178785,
+      "word": "天安门挂起中西越三国国旗",
+      "onboard_time": 1776153202,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146360,
@@ -491,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145085,
-      "num": 160032,
-      "word": "伊朗放重磅信号",
-      "onboard_time": 1776143244,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144993,
       "num": 144993,
       "word": "特朗普称或对古巴采取行动",
@@ -507,20 +619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 143450,
-      "num": 158568,
-      "word": "王晓晨曾回应已婚留言称我头昏",
-      "onboard_time": 1776147022,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138766,
       "num": 104030,
       "word": "楚乔传 全员下场",
       "onboard_time": 1776062901,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135749,
+      "num": 171850,
+      "word": "狮子因配偶去世数十日未正常进食",
+      "onboard_time": 1776149001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135230,
@@ -563,6 +675,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127630,
+      "num": 175945,
+      "word": "田嘉瑞月鳞绮纪里面造型神似刘亦菲",
+      "onboard_time": 1776150801,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123046,
+      "num": 158532,
+      "word": "特朗普在白宫摆拍点外卖",
+      "onboard_time": 1776153321,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122840,
       "num": 100986,
       "word": "为什么刷完牙不要立刻漱口",
@@ -585,6 +713,22 @@
       "onboard_time": 1776133883,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116471,
+      "num": 156552,
+      "word": "公司招聘要求余额超300称防闹事",
+      "onboard_time": 1776149840,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114911,
+      "num": 147376,
+      "word": "打工人长时间盯屏幕怎么护眼",
+      "onboard_time": 1776153802,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112515,
@@ -616,6 +760,22 @@
       "word": "网友一句提醒外卖小哥查出尿毒症",
       "onboard_time": 1776077961,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 175106,
+      "word": "12306积分转让成了一门生意",
+      "onboard_time": 1776152901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108601,
+      "num": 153513,
+      "word": "被横绳割伤13岁男孩脱离生命危险",
+      "onboard_time": 1776153981,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -652,7 +812,7 @@
     },
     {
       "raw_hot": 103991,
-      "num": 148902,
+      "num": 155133,
       "word": "明道2岁女儿正脸照",
       "onboard_time": 1776141862,
       "rank": 34,
@@ -739,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93277,
+      "num": 153267,
+      "word": "张小泉股价5日大涨45.65%",
+      "onboard_time": 1776151642,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92832,
       "num": 92832,
       "word": "油价金价齐跌",
       "onboard_time": 1776138081,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92327,
+      "num": 152209,
+      "word": "孙怡你知道的我从金依蓓时候就跟你了",
+      "onboard_time": 1776154281,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 92182,
@@ -761,6 +937,14 @@
       "onboard_time": 1776124340,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91673,
+      "num": 151645,
+      "word": "罗志祥更新",
+      "onboard_time": 1776151102,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 91464,
@@ -891,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81637,
+      "num": 150689,
+      "word": "当地回应女婴遭秤砣砸伤",
+      "onboard_time": 1776152362,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80386,
       "num": 144384,
       "word": "吉赛尔说中文我很有钱你又丑又穷",
@@ -979,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70828,
+      "num": 176641,
+      "word": "被央视曝光的涉黄AI软件致歉",
+      "onboard_time": 1776151642,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69245,
       "num": 69245,
       "word": "隔辈亲 父母看到了儿时的你",
@@ -992,6 +1192,14 @@
       "word": "乌兰图雅团二公小考vocal组第一",
       "onboard_time": 1776132800,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67220,
+      "num": 148574,
+      "word": "怦然心动20岁",
+      "onboard_time": 1776152121,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1080,6 +1288,14 @@
       "word": "35岁3胎孕妈胎盘粘住膀胱堵死宫颈",
       "onboard_time": 1776124459,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58330,
+      "num": 172595,
+      "word": "父亲调解室猝死遭欺凌儿子今年中考",
+      "onboard_time": 1776153740,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1339,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26082,
+      "num": 170713,
+      "word": "电商复刻莫氏鸡煲同款两天狂卖千单",
+      "onboard_time": 1776153740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24978,
       "num": 75313,
       "word": "解锁鸡腿的新吃法",
@@ -1435,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19143,
+      "num": 169863,
+      "word": "我国外贸起势有力开局良好",
+      "onboard_time": 1776153862,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18297,
       "num": 53751,
       "word": "WBG 对线",
@@ -1465,6 +1697,22 @@
       "onboard_time": 1776083662,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13617,
+      "num": 173171,
+      "word": "女子河南爬山问路光明顶小哥秒接戏",
+      "onboard_time": 1776153501,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6693,
+      "num": 628351,
+      "word": "1季度我国货物进出口同比增长15%",
+      "onboard_time": 1776154161,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1473,6 +1721,9 @@
     },
     {
       "word": "#人民之心#"
+    },
+    {
+      "word": "#习近平会见阿联酋阿布扎比王储哈立德#"
     }
   ]
 }
