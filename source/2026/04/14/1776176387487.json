@@ -1,0 +1,410 @@
+{
+  "runTime": 1776176387487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816585,
+        "num": 1130653,
+        "word": "B太可撤销对大山女孩的18万捐赠",
+        "onboard_time": 1776174385,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301930,
+        "num": 807758,
+        "word": "胖东来多宝鱼被指吃出溯源标签",
+        "onboard_time": 1776166162,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23678,
+        "num": 649164,
+        "word": "一季度进出口创新高",
+        "onboard_time": 1776173243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276228,
+        "num": 276228,
+        "word": "杨幂 越素越美",
+        "onboard_time": 1776170542,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1183525,
+        "num": 272103,
+        "word": "遭割喉男孩仍有一段气管未找到",
+        "onboard_time": 1776172943,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258214,
+        "num": 258214,
+        "word": "五一飞往东南亚航班大规模取消",
+        "onboard_time": 1776170243,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223589,
+        "num": 223589,
+        "word": "Lululemon被调查",
+        "onboard_time": 1776154701,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223181,
+        "num": 223181,
+        "word": "卖不完的果切都去哪了",
+        "onboard_time": 1776163881,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170375,
+        "num": 170375,
+        "word": "白日提灯 be味",
+        "onboard_time": 1776170662,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157212,
+        "num": 157212,
+        "word": "谁懂这次换手机的意义",
+        "onboard_time": 1776166043,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1266256,
+        "num": 156596,
+        "word": "文章面馆 周一不见",
+        "onboard_time": 1776172462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697067,
+        "num": 151692,
+        "word": "TOP更新站位",
+        "onboard_time": 1776169102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204553,
+        "num": 143811,
+        "word": "33岁抗癌博主去世",
+        "onboard_time": 1776165502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511354,
+        "num": 140034,
+        "word": "朱珠把女儿当女士来养",
+        "onboard_time": 1776174203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445377,
+        "num": 137787,
+        "word": "沈清曝王阳杀青宴被指着鼻子骂",
+        "onboard_time": 1776166642,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134267,
+        "num": 134267,
+        "word": "lululemon中国市场成救命稻草",
+        "onboard_time": 1776169942,
+        "rank": 15,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 309839,
+        "num": 133200,
+        "word": "阿Sa被名医诊断出轻微中风",
+        "onboard_time": 1776171264,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144981,
+        "num": 132465,
+        "word": "郭敬明的剧连演员本人都看不懂",
+        "onboard_time": 1776155181,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128618,
+        "num": 128618,
+        "word": "桃黑黑 胖蛋军团让三追四",
+        "onboard_time": 1776175044,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 98951,
+        "num": 128338,
+        "word": "伊朗正考虑暂停霍尔木兹海峡航运",
+        "onboard_time": 1776174444,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245646,
+        "num": 128003,
+        "word": "朴宝剑 费大厨",
+        "onboard_time": 1776165982,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 127689,
+        "word": "孟子义颜选缤果Pro有多懂女生",
+        "onboard_time": 1776175462,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140118,
+        "num": 127069,
+        "word": "体检肝功能都正常怎么就肝癌了",
+        "onboard_time": 1776160942,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215058,
+        "num": 126735,
+        "word": "TOP换头像",
+        "onboard_time": 1776170303,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183918,
+        "num": 126133,
+        "word": "等张泽禹张极换头像",
+        "onboard_time": 1776172462,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126021,
+        "num": 126021,
+        "word": "中方从不承认所谓阿鲁纳恰尔邦",
+        "onboard_time": 1776163160,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95248,
+        "num": 111665,
+        "word": "曝等风热吻你两组主演",
+        "onboard_time": 1776163042,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83234,
+        "num": 111400,
+        "word": "马頔为了装修李乃文为了什么",
+        "onboard_time": 1776165982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111376,
+        "num": 111376,
+        "word": "网友给拼豆店提建议被老板一一反驳",
+        "onboard_time": 1776169701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95918,
+        "num": 110830,
+        "word": "外交部回应韩国标注中国台湾",
+        "onboard_time": 1776167062,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177301,
+        "num": 108929,
+        "word": "张晚意个体户只能亲自辟谣",
+        "onboard_time": 1776176182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 107857,
+        "word": "遭秤砣砸中女婴已完成超声检查",
+        "onboard_time": 1776175404,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 107345,
+        "word": "罗志祥 谁在蛐蛐我",
+        "onboard_time": 1776175404,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143773,
+        "num": 106124,
+        "word": "宋亚轩再多上几节课都大小脸了",
+        "onboard_time": 1776172342,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105183,
+        "num": 105183,
+        "word": "牛排店被查唯一干净的竟是喂狗碗",
+        "onboard_time": 1776175404,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 104854,
+        "word": "娜扎说我人就漂亮",
+        "onboard_time": 1776172702,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136958,
+        "num": 103981,
+        "word": "朱志鑫 黑猫天使",
+        "onboard_time": 1776169881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102948,
+        "num": 102948,
+        "word": "印度女生拒嫁艾滋男被注射毒血报复",
+        "onboard_time": 1776156441,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120583,
+        "num": 102947,
+        "word": "鞠婧祎演技",
+        "onboard_time": 1776175284,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102943,
+        "num": 102943,
+        "word": "IG战胜TES",
+        "onboard_time": 1776170482,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91143,
+        "num": 91143,
+        "word": "花海Cat亚运会教练",
+        "onboard_time": 1776174323,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86285,
+        "num": 86285,
+        "word": "人社局回应查看微信余额才能进面试",
+        "onboard_time": 1776173543,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86173,
+        "num": 86173,
+        "word": "养了7年的猎犬咬死19岁女主人",
+        "onboard_time": 1776162501,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83124,
+        "num": 83124,
+        "word": "AG一诺回归",
+        "onboard_time": 1776169341,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74180,
+        "num": 82951,
+        "word": "男女点同一份外卖分量却差一半",
+        "onboard_time": 1776166642,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67998,
+        "num": 82708,
+        "word": "孙怡 者来姨",
+        "onboard_time": 1776166342,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117246,
+        "num": 82456,
+        "word": "吴慷仁直播",
+        "onboard_time": 1776173303,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51646,
+        "num": 82332,
+        "word": "以防你不知道手机发展得有多快",
+        "onboard_time": 1776169341,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60333,
+        "num": 82129,
+        "word": "怦然心动20岁",
+        "onboard_time": 1776152121,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47885,
+        "num": 81804,
+        "word": "唐诡2造型指导致歉承认侵权",
+        "onboard_time": 1776168321,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中西双方要共谋创新发展#"
+    }
+  }
+}

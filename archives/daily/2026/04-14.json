@@ -1,12 +1,20 @@
 {
   "startTime": 1776100424869,
-  "endTime": 1776175780734,
+  "endTime": 1776176387487,
   "band_list": [
     {
       "raw_hot": 1399675,
       "num": 267536,
       "word": "罗志祥方否认猝死传闻",
       "onboard_time": 1776142582,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1266256,
+      "num": 167836,
+      "word": "文章面馆 周一不见",
+      "onboard_time": 1776172462,
       "rank": 10,
       "category": "艺人"
     },
@@ -19,15 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194171,
-      "num": 167836,
-      "word": "文章面馆 周一不见",
-      "onboard_time": 1776172462,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1136385,
+      "raw_hot": 1183525,
       "num": 1181821,
       "word": "遭割喉男孩仍有一段气管未找到",
       "onboard_time": 1776172943,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 816585,
+      "num": 1130653,
+      "word": "B太可撤销对大山女孩的18万捐赠",
+      "onboard_time": 1776174385,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 798287,
       "num": 168852,
       "word": "王晓晨 俞灏明",
@@ -97,14 +105,6 @@
       "onboard_time": 1776154881,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 641004,
-      "num": 641004,
-      "word": "B太可撤销对大山女孩的18万捐赠",
-      "onboard_time": 1776174385,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 620276,
@@ -179,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511354,
+      "num": 155730,
+      "word": "朱珠把女儿当女士来养",
+      "onboard_time": 1776174203,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501046,
       "num": 249980,
       "word": "沈清曝王阳杀青宴被指着鼻子骂",
@@ -201,14 +209,6 @@
       "onboard_time": 1776095900,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 456855,
-      "num": 155730,
-      "word": "朱珠把女儿当女士来养",
-      "onboard_time": 1776174203,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 452770,
@@ -459,7 +459,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306599,
+      "raw_hot": 309839,
       "num": 152712,
       "word": "阿Sa被名医诊断出轻微中风",
       "onboard_time": 1776171264,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189430,
+      "num": 140809,
+      "word": "孟子义颜选缤果Pro有多懂女生",
+      "onboard_time": 1776175462,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186544,
       "num": 174372,
       "word": "我承认之前对格力声音有点大了",
@@ -857,6 +865,14 @@
       "onboard_time": 1776146182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177301,
+      "num": 108929,
+      "word": "张晚意个体户只能亲自辟谣",
+      "onboard_time": 1776176182,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 174824,
@@ -913,6 +929,14 @@
       "onboard_time": 1776133761,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160752,
+      "num": 139752,
+      "word": "遭秤砣砸中女婴已完成超声检查",
+      "onboard_time": 1776175404,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159224,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145364,
+      "num": 130031,
+      "word": "罗志祥 谁在蛐蛐我",
+      "onboard_time": 1776175404,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144993,
       "num": 144993,
       "word": "特朗普称或对古巴采取行动",
@@ -1027,7 +1059,7 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 141925,
+      "raw_hot": 143773,
       "num": 145801,
       "word": "宋亚轩再多上几节课都大小脸了",
       "onboard_time": 1776172342,
@@ -1155,6 +1187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 120583,
+      "num": 134036,
+      "word": "鞠婧祎演技",
+      "onboard_time": 1776175284,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120023,
       "num": 142313,
       "word": "吴慷仁直播",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1776166642,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114964,
-      "num": 140809,
-      "word": "孟子义颜选缤果Pro有多懂女生",
-      "onboard_time": 1776175462,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 114911,
@@ -1347,20 +1379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105183,
+      "num": 136120,
+      "word": "牛排店被查唯一干净的竟是喂狗碗",
+      "onboard_time": 1776175404,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103991,
       "num": 155133,
       "word": "明道2岁女儿正脸照",
       "onboard_time": 1776141862,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103226,
-      "num": 139752,
-      "word": "遭秤砣砸中女婴已完成超声检查",
-      "onboard_time": 1776175404,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103156,
@@ -1377,22 +1409,6 @@
       "onboard_time": 1776078922,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101997,
-      "num": 134036,
-      "word": "鞠婧祎演技",
-      "onboard_time": 1776175284,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101935,
-      "num": 130031,
-      "word": "罗志祥 谁在蛐蛐我",
-      "onboard_time": 1776175404,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 101296,
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98951,
+      "num": 150923,
+      "word": "伊朗正考虑暂停霍尔木兹海峡航运",
+      "onboard_time": 1776174444,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98738,
       "num": 98738,
       "word": "莫氏鸡煲少东家发声",
@@ -1483,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96927,
-      "num": 150923,
-      "word": "伊朗正考虑暂停霍尔木兹海峡航运",
-      "onboard_time": 1776174444,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96758,
       "num": 96758,
       "word": "8天胖8斤博主打卡莫氏鸡煲被劝退",
@@ -1515,20 +1531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95918,
+      "num": 252598,
+      "word": "外交部回应韩国标注中国台湾",
+      "onboard_time": 1776167062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95326,
       "num": 137370,
       "word": "花海Cat亚运会教练",
       "onboard_time": 1776174323,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94721,
-      "num": 252598,
-      "word": "外交部回应韩国标注中国台湾",
-      "onboard_time": 1776167062,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94092,
@@ -1683,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88471,
-      "num": 136120,
-      "word": "牛排店被查唯一干净的竟是喂狗碗",
-      "onboard_time": 1776175404,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88175,
       "num": 135974,
       "word": "人社局回应查看微信余额才能进面试",
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86173,
+      "num": 134960,
+      "word": "养了7年的猎犬咬死19岁女主人",
+      "onboard_time": 1776162501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85385,
       "num": 153560,
       "word": "张凌赫说和小田一起拍情感戏很温馨",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1776126021,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84648,
-      "num": 134960,
-      "word": "养了7年的猎犬咬死19岁女主人",
-      "onboard_time": 1776162501,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84518,
@@ -2211,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47885,
+      "num": 81804,
+      "word": "唐诡2造型指导致歉承认侵权",
+      "onboard_time": 1776168321,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46086,
       "num": 86931,
       "word": "韩国中学生在上海观光廊大声打闹",
@@ -2491,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23678,
+      "num": 674294,
+      "word": "一季度进出口创新高",
+      "onboard_time": 1776173243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22866,
       "num": 76366,
       "word": "西宁一面馆冒犯女性标语已撤下",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1776099856,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22647,
-      "num": 674294,
-      "word": "一季度进出口创新高",
-      "onboard_time": 1776173243,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22156,

@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776175780734,
+  "endTime": 1776176387487,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1266256,
+      "num": 167836,
+      "word": "文章面馆 周一不见",
+      "onboard_time": 1776172462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1262397,
       "num": 163953,
       "word": "田馥甄回应和周杰伦绯闻",
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1194171,
-      "num": 167836,
-      "word": "文章面馆 周一不见",
-      "onboard_time": 1776172462,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1183525,
+      "num": 1181821,
+      "word": "遭割喉男孩仍有一段气管未找到",
+      "onboard_time": 1776172943,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1137928,
@@ -137,14 +145,6 @@
       "onboard_time": 1775968641,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1136385,
-      "num": 1181821,
-      "word": "遭割喉男孩仍有一段气管未找到",
-      "onboard_time": 1776172943,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1020109,
@@ -225,6 +225,14 @@
       "onboard_time": 1776052641,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816585,
+      "num": 1130653,
+      "word": "B太可撤销对大山女孩的18万捐赠",
+      "onboard_time": 1776174385,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 804106,
@@ -376,14 +384,6 @@
       "word": "长春姐弟俩被遗留在托管班两年",
       "onboard_time": 1776077122,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641004,
-      "num": 641004,
-      "word": "B太可撤销对大山女孩的18万捐赠",
-      "onboard_time": 1776174385,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -627,6 +627,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 511354,
+      "num": 155730,
+      "word": "朱珠把女儿当女士来养",
+      "onboard_time": 1776174203,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510451,
       "num": 191182,
       "word": "孟子义突发身体不适",
@@ -737,14 +745,6 @@
       "onboard_time": 1776095900,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 456855,
-      "num": 155730,
-      "word": "朱珠把女儿当女士来养",
-      "onboard_time": 1776174203,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 456815,
@@ -1483,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309839,
+      "num": 152712,
+      "word": "阿Sa被名医诊断出轻微中风",
+      "onboard_time": 1776171264,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309529,
       "num": 309529,
       "word": "比亚迪财务总监年薪1013万元",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1775981063,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 306599,
-      "num": 152712,
-      "word": "阿Sa被名医诊断出轻微中风",
-      "onboard_time": 1776171264,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 300516,
@@ -2459,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189430,
+      "num": 140809,
+      "word": "孟子义颜选缤果Pro有多懂女生",
+      "onboard_time": 1776175462,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
@@ -2643,6 +2651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177301,
+      "num": 108929,
+      "word": "张晚意个体户只能亲自辟谣",
+      "onboard_time": 1776176182,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176420,
       "num": 176420,
       "word": "郑丽文试乘小米汽车",
@@ -2824,6 +2840,14 @@
       "word": "奥迪逃单加油站员工垫付4天工资",
       "onboard_time": 1775963240,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160752,
+      "num": 139752,
+      "word": "遭秤砣砸中女婴已完成超声检查",
+      "onboard_time": 1776175404,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3043,6 +3067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145364,
+      "num": 130031,
+      "word": "罗志祥 谁在蛐蛐我",
+      "onboard_time": 1776175404,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145339,
       "num": 145339,
       "word": "IU新剧首播收视率",
@@ -3091,6 +3123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143773,
+      "num": 145801,
+      "word": "宋亚轩再多上几节课都大小脸了",
+      "onboard_time": 1776172342,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143441,
       "num": 143441,
       "word": "吴京好好在家带孩子",
@@ -3136,14 +3176,6 @@
       "word": "张凌赫今天素颜好性感",
       "onboard_time": 1775981722,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141925,
-      "num": 145801,
-      "word": "宋亚轩再多上几节课都大小脸了",
-      "onboard_time": 1776172342,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -3539,6 +3571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120583,
+      "num": 134036,
+      "word": "鞠婧祎演技",
+      "onboard_time": 1776175284,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120524,
       "num": 120524,
       "word": "张雪问记者可以说吗",
@@ -3784,14 +3824,6 @@
       "word": "马思纯发了黎吧啦",
       "onboard_time": 1775978721,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 114964,
-      "num": 140809,
-      "word": "孟子义颜选缤果Pro有多懂女生",
-      "onboard_time": 1776175462,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -4179,6 +4211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105183,
+      "num": 136120,
+      "word": "牛排店被查唯一干净的竟是喂狗碗",
+      "onboard_time": 1776175404,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104998,
       "num": 175954,
       "word": "楚乔传热度",
@@ -4235,14 +4275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103226,
-      "num": 139752,
-      "word": "遭秤砣砸中女婴已完成超声检查",
-      "onboard_time": 1776175404,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103156,
       "num": 138151,
       "word": "苏新皓头像换饼图",
@@ -4273,22 +4305,6 @@
       "onboard_time": 1775921962,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101997,
-      "num": 134036,
-      "word": "鞠婧祎演技",
-      "onboard_time": 1776175284,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101935,
-      "num": 130031,
-      "word": "罗志祥 谁在蛐蛐我",
-      "onboard_time": 1776175404,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 101858,
@@ -4451,6 +4467,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 98951,
+      "num": 150923,
+      "word": "伊朗正考虑暂停霍尔木兹海峡航运",
+      "onboard_time": 1776174444,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98738,
       "num": 98738,
       "word": "莫氏鸡煲少东家发声",
@@ -4529,14 +4553,6 @@
       "onboard_time": 1776059002,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96927,
-      "num": 150923,
-      "word": "伊朗正考虑暂停霍尔木兹海峡航运",
-      "onboard_time": 1776174444,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96890,
@@ -4627,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95918,
+      "num": 252598,
+      "word": "外交部回应韩国标注中国台湾",
+      "onboard_time": 1776167062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95611,
       "num": 178881,
       "word": "LPL和LCK变天了",
@@ -4689,14 +4713,6 @@
       "onboard_time": 1775987542,
       "rank": 41,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 94721,
-      "num": 252598,
-      "word": "外交部回应韩国标注中国台湾",
-      "onboard_time": 1776167062,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94464,
@@ -5051,14 +5067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88471,
-      "num": 136120,
-      "word": "牛排店被查唯一干净的竟是喂狗碗",
-      "onboard_time": 1776175404,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88455,
       "num": 98020,
       "word": "北京逐步替换杨柳树雌株",
@@ -5203,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86173,
+      "num": 134960,
+      "word": "养了7年的猎犬咬死19岁女主人",
+      "onboard_time": 1776162501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86129,
       "num": 97842,
       "word": "小猫自己用牙刷刷牙",
@@ -5289,14 +5305,6 @@
       "onboard_time": 1775970500,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84648,
-      "num": 134960,
-      "word": "养了7年的猎犬咬死19岁女主人",
-      "onboard_time": 1776162501,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84580,
@@ -6907,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47885,
+      "num": 81804,
+      "word": "唐诡2造型指导致歉承认侵权",
+      "onboard_time": 1776168321,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47801,
       "num": 47801,
       "word": "你好星期六下期巅峰喜剧节",
@@ -7619,6 +7635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23678,
+      "num": 674294,
+      "word": "一季度进出口创新高",
+      "onboard_time": 1776173243,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23564,
       "num": 63028,
       "word": "山西一法官猥亵当事人纪检部门介入",
@@ -7633,14 +7657,6 @@
       "onboard_time": 1776099856,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22647,
-      "num": 674294,
-      "word": "一季度进出口创新高",
-      "onboard_time": 1776173243,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22156,
