@@ -1,0 +1,411 @@
+{
+  "startTime": 1776183348174,
+  "endTime": 1776183348174,
+  "band_list": [
+    {
+      "raw_hot": 689983,
+      "num": 112150,
+      "word": "田馥甄回应拒绝浪姐邀约",
+      "onboard_time": 1776178522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 533338,
+      "num": 964240,
+      "word": "4人合伙买彩票中500万后起纠纷",
+      "onboard_time": 1776179482,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450475,
+      "num": 110304,
+      "word": "文章面馆 周一不见",
+      "onboard_time": 1776172462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390860,
+      "num": 106345,
+      "word": "TOP更新站位",
+      "onboard_time": 1776169102,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320588,
+      "num": 320588,
+      "word": "74岁老太杀73岁老太藏尸案宣判",
+      "onboard_time": 1776179062,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253881,
+      "num": 103696,
+      "word": "朱珠把女儿当女士来养",
+      "onboard_time": 1776174203,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212103,
+      "num": 702008,
+      "word": "五一飞往东南亚航班大规模取消",
+      "onboard_time": 1776170243,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198918,
+      "num": 100269,
+      "word": "沈清曝王阳杀青宴被指着鼻子骂",
+      "onboard_time": 1776166642,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156885,
+      "num": 100056,
+      "word": "张晚意个体户只能亲自辟谣",
+      "onboard_time": 1776176182,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151520,
+      "num": 98965,
+      "word": "等张泽禹张极换头像",
+      "onboard_time": 1776172462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149400,
+      "num": 149400,
+      "word": "十日终焉移动大棚",
+      "onboard_time": 1776177203,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148013,
+      "num": 102178,
+      "word": "网传虞书欣邓为主演神仙肉",
+      "onboard_time": 1776182000,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143086,
+      "num": 143086,
+      "word": "蜜语纪热度",
+      "onboard_time": 1776181341,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142688,
+      "num": 142688,
+      "word": "公司连亏6年股价却暴涨10倍",
+      "onboard_time": 1776177683,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 136948,
+      "num": 99386,
+      "word": "伊朗看透了",
+      "onboard_time": 1776181042,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 123813,
+      "num": 123813,
+      "word": "胖东来多宝鱼被指吃出溯源标签",
+      "onboard_time": 1776166162,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121771,
+      "num": 98498,
+      "word": "lululemon中国市场成救命稻草",
+      "onboard_time": 1776169942,
+      "rank": 24,
+      "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 120988,
+      "num": 108518,
+      "word": "微信余额没三五百元不给面试引争议",
+      "onboard_time": 1776177802,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116225,
+      "num": 116225,
+      "word": "卖不完的果切都去哪了",
+      "onboard_time": 1776163881,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 114184,
+      "num": 98087,
+      "word": "TOP换头像",
+      "onboard_time": 1776170303,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102228,
+      "num": 102228,
+      "word": "66岁男子吸烟失火与87岁母亲身亡",
+      "onboard_time": 1776179902,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96264,
+      "num": 97408,
+      "word": "杨清柠新恋情",
+      "onboard_time": 1776176602,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94456,
+      "num": 96270,
+      "word": "33岁抗癌博主去世",
+      "onboard_time": 1776165502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92768,
+      "num": 96747,
+      "word": "杨幂 越素越美",
+      "onboard_time": 1776170542,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89253,
+      "num": 96107,
+      "word": "上海至重庆一航班重着陆有乘客尖叫",
+      "onboard_time": 1776178763,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88320,
+      "num": 95466,
+      "word": "朴宝剑 费大厨",
+      "onboard_time": 1776165982,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77786,
+      "num": 97818,
+      "word": "外卖员说最不能点的外卖是黄焖鸡",
+      "onboard_time": 1776178044,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76686,
+      "num": 94928,
+      "word": "长期饭后吃水果或诱发糖尿病",
+      "onboard_time": 1776183259,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76523,
+      "num": 101428,
+      "word": "谁懂这次换手机的意义",
+      "onboard_time": 1776166043,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 73983,
+      "num": 94569,
+      "word": "阿Sa被名医诊断出轻微中风",
+      "onboard_time": 1776171264,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73671,
+      "num": 94434,
+      "word": "中方从不承认所谓阿鲁纳恰尔邦",
+      "onboard_time": 1776163160,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70038,
+      "num": 93893,
+      "word": "宋亚轩再多上几节课都大小脸了",
+      "onboard_time": 1776172342,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69700,
+      "num": 93580,
+      "word": "遭割喉男孩母亲承诺退还剩余善款",
+      "onboard_time": 1776182120,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69602,
+      "num": 92913,
+      "word": "朱志鑫 黑猫天使",
+      "onboard_time": 1776169881,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65558,
+      "num": 92590,
+      "word": "尹锡悦夫妇法庭相见细节曝光",
+      "onboard_time": 1776177262,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65341,
+      "num": 92036,
+      "word": "牛排店被查唯一干净的竟是喂狗碗",
+      "onboard_time": 1776175404,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61786,
+      "num": 91795,
+      "word": "郭敬明的剧连演员本人都看不懂",
+      "onboard_time": 1776155181,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54608,
+      "num": 100979,
+      "word": "孙颖莎megastar的含金量",
+      "onboard_time": 1776181522,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53773,
+      "num": 91229,
+      "word": "班主任猥亵女学生被调到做后勤工作",
+      "onboard_time": 1776179243,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51088,
+      "num": 90697,
+      "word": "苏新皓头像换饼图",
+      "onboard_time": 1776170000,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50796,
+      "num": 90435,
+      "word": "萨尔布吕肯将为樊振东办告别仪式",
+      "onboard_time": 1776182960,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50578,
+      "num": 89860,
+      "word": "Jasper打球 以为哪吒上场了",
+      "onboard_time": 1776179302,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49130,
+      "num": 88815,
+      "word": "苏新皓solo舞台全站第一",
+      "onboard_time": 1776177323,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 48391,
+      "num": 89458,
+      "word": "中方回应美封锁伊海上交通",
+      "onboard_time": 1776183201,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44315,
+      "num": 88947,
+      "word": "曝等风热吻你两组主演",
+      "onboard_time": 1776163042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42168,
+      "num": 87704,
+      "word": "马頔为了装修李乃文为了什么",
+      "onboard_time": 1776165982,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37661,
+      "num": 114135,
+      "word": "以黎代表在华盛顿举行会谈",
+      "onboard_time": 1776182240,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35524,
+      "num": 100907,
+      "word": "7个亿的农业实训基地没基地",
+      "onboard_time": 1776182061,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26442,
+      "num": 88069,
+      "word": "以防你不知道手机发展得有多快",
+      "onboard_time": 1776169341,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 15707,
+      "num": 569644,
+      "word": "一季度进出口创新高",
+      "onboard_time": 1776173243,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平就中东和平稳定提出4点主张#"
+    }
+  ]
+}
