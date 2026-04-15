@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776248584601,
+  "endTime": 1776252934300,
   "band_list": [
     {
       "raw_hot": 920174,
@@ -89,6 +89,14 @@
       "onboard_time": 1776241520,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595618,
+      "num": 1095299,
+      "word": "法国罕见全票通过文物归还法案",
+      "onboard_time": 1776247342,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 575076,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369028,
+      "num": 93065,
+      "word": "王星越开保时捷上班",
+      "onboard_time": 1776250701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368099,
       "num": 156569,
       "word": "叶舒华ins评论区",
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365591,
+      "num": 154481,
+      "word": "孟子义李昀锐 等风热吻你",
+      "onboard_time": 1776251541,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344833,
       "num": 124790,
       "word": "朱珠把女儿当女士来养",
@@ -385,6 +409,14 @@
       "onboard_time": 1776243921,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 338055,
+      "num": 338055,
+      "word": "白日提灯 双结局",
+      "onboard_time": 1776250521,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 335411,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317286,
+      "num": 141571,
+      "word": "上万美军封锁霍尔木兹海峡",
+      "onboard_time": 1776246681,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312735,
       "num": 312735,
       "word": "卧床吸烟致母子二人葬身火海",
@@ -457,6 +497,14 @@
       "onboard_time": 1776245361,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301866,
+      "num": 118929,
+      "word": "唐禹哲承认逃兵役",
+      "onboard_time": 1776248001,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293438,
@@ -547,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243843,
+      "num": 442183,
+      "word": "香港14岁男学生成黑社会骨干",
+      "onboard_time": 1776247281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241456,
       "num": 241456,
       "word": "曝何与辞演神仙肉",
       "onboard_time": 1776213560,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237578,
+      "num": 95627,
+      "word": "朱一龙直播",
+      "onboard_time": 1776251121,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 237327,
@@ -667,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164873,
+      "num": 95500,
+      "word": "白日提灯大结局",
+      "onboard_time": 1776248482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164025,
       "num": 124519,
       "word": "冰湖重生降级",
@@ -689,6 +761,14 @@
       "onboard_time": 1776176182,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156349,
+      "num": 92313,
+      "word": "张凌赫还当过爱格的模特",
+      "onboard_time": 1776249921,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156224,
@@ -915,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122602,
+      "num": 88371,
+      "word": "中国三胞胎的视频在推特上火了",
+      "onboard_time": 1776251961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121771,
       "num": 98498,
       "word": "lululemon中国市场成救命稻草",
@@ -929,14 +1017,6 @@
       "onboard_time": 1776177802,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119985,
-      "num": 84951,
-      "word": "唐禹哲承认逃兵役",
-      "onboard_time": 1776248001,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 118773,
@@ -979,19 +1059,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114477,
-      "num": 93199,
-      "word": "法国罕见全票通过文物归还法案",
-      "onboard_time": 1776247342,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114184,
       "num": 98087,
       "word": "TOP换头像",
       "onboard_time": 1776170303,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113500,
+      "num": 87757,
+      "word": "何润东 资源从天而降",
+      "onboard_time": 1776250161,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1017,6 +1097,14 @@
       "onboard_time": 1776179243,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110411,
+      "num": 91363,
+      "word": "李小冉肉眼可见的越来越累",
+      "onboard_time": 1776249800,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 109854,
@@ -1091,14 +1179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 105428,
-      "num": 141571,
-      "word": "上万美军封锁霍尔木兹海峡",
-      "onboard_time": 1776246681,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104300,
       "num": 104300,
       "word": "向太全款买地写郭碧婷名下",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1776209179,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103616,
+      "num": 86431,
+      "word": "沈腾你干脆躺马丽怀里得了呗",
+      "onboard_time": 1776252739,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 103560,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1776176602,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95981,
+      "num": 157490,
+      "word": "小米上线电池升级服务",
+      "onboard_time": 1776246741,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 95730,
@@ -1275,20 +1371,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93512,
-      "num": 157490,
-      "word": "小米上线电池升级服务",
-      "onboard_time": 1776246741,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 92768,
       "num": 103921,
       "word": "杨幂 越素越美",
       "onboard_time": 1776170542,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 92241,
+      "word": "莫氏鸡煲少当家成中年富二代",
+      "onboard_time": 1776250641,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91976,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1776240680,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 90292,
+      "num": 79707,
+      "word": "李小冉比温峥嵘还大两岁",
+      "onboard_time": 1776251301,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 90278,
@@ -1379,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85919,
+      "num": 66930,
+      "word": "张柏芝开灯瞬间 惊艳",
+      "onboard_time": 1776250161,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85670,
       "num": 170001,
       "word": "班主任猥亵女学生后竟转岗后勤不合法规",
@@ -1419,14 +1531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82553,
-      "num": 82553,
-      "word": "香港14岁男学生成黑社会骨干",
-      "onboard_time": 1776247281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82337,
       "num": 82337,
       "word": "阿吉向B太承认虚构苦情人设",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1776208879,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80551,
+      "num": 94456,
+      "word": "小鹏GX把四大安全测试场搬到发布会",
+      "onboard_time": 1776251361,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 80433,
@@ -1659,6 +1771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70991,
+      "num": 70991,
+      "word": "当你是公司最小的员工",
+      "onboard_time": 1776248602,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70979,
       "num": 70979,
       "word": "医生谈女子宫缩剧痛2小时不打无痛",
@@ -1689,14 +1809,6 @@
       "onboard_time": 1776172342,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69966,
-      "num": 69966,
-      "word": "白日提灯大结局",
-      "onboard_time": 1776248482,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 69905,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1776245421,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67394,
+      "num": 67394,
+      "word": "KT对战DK",
+      "onboard_time": 1776252802,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 67175,
@@ -1883,12 +2003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64275,
+      "num": 64275,
+      "word": "真正放下一个人的样子be like",
+      "onboard_time": 1776251421,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64166,
       "num": 136602,
       "word": "原来小猫是这样进来的",
       "onboard_time": 1776247039,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63968,
+      "num": 69346,
+      "word": "松岛教练直言输王楚钦无解",
+      "onboard_time": 1776246920,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 61786,
@@ -1915,20 +2051,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60338,
+      "num": 60338,
+      "word": "峰学蔚来负责人回应公司近况",
+      "onboard_time": 1776250161,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59437,
       "num": 59437,
       "word": "特朗普称美伊或在巴基斯坦复谈",
       "onboard_time": 1776209057,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56566,
-      "num": 69346,
-      "word": "松岛教练直言输王楚钦无解",
-      "onboard_time": 1776246920,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 55432,
@@ -2017,6 +2153,14 @@
       "onboard_time": 1776210020,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47284,
+      "num": 60699,
+      "word": "张月浪姐vlog",
+      "onboard_time": 1776250521,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 47240,
@@ -2169,6 +2313,14 @@
       "onboard_time": 1776240080,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27939,
+      "num": 88911,
+      "word": "当地文旅呼吁不得借泼水之名骚扰",
+      "onboard_time": 1776251002,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26886,

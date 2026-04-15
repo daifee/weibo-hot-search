@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776248584601,
+  "endTime": 1776252934300,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -537,6 +537,14 @@
       "onboard_time": 1775976382,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595618,
+      "num": 1095299,
+      "word": "法国罕见全票通过文物归还法案",
+      "onboard_time": 1776247342,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 593931,
@@ -1371,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369028,
+      "num": 93065,
+      "word": "王星越开保时捷上班",
+      "onboard_time": 1776250701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368099,
       "num": 156569,
       "word": "叶舒华ins评论区",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1775975001,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 365591,
+      "num": 154481,
+      "word": "孟子义李昀锐 等风热吻你",
+      "onboard_time": 1776251541,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 365063,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1775986400,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338055,
+      "num": 338055,
+      "word": "白日提灯 双结局",
+      "onboard_time": 1776250521,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 338030,
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317286,
+      "num": 141571,
+      "word": "上万美军封锁霍尔木兹海峡",
+      "onboard_time": 1776246681,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317209,
       "num": 288379,
       "word": "孙红雷刘宇宁王玉雯主演铁证",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1776245361,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301866,
+      "num": 118929,
+      "word": "唐禹哲承认逃兵役",
+      "onboard_time": 1776248001,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 300516,
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243843,
+      "num": 442183,
+      "word": "香港14岁男学生成黑社会骨干",
+      "onboard_time": 1776247281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243499,
       "num": 243499,
       "word": "伊朗放重磅信号",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1776137961,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237578,
+      "num": 95627,
+      "word": "朱一龙直播",
+      "onboard_time": 1776251121,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 237327,
@@ -3443,6 +3507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164873,
+      "num": 95500,
+      "word": "白日提灯大结局",
+      "onboard_time": 1776248482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164701,
       "num": 164701,
       "word": "男乘客疑拍打空姐臀部被带离机舱",
@@ -3577,6 +3649,14 @@
       "onboard_time": 1776003743,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156349,
+      "num": 92313,
+      "word": "张凌赫还当过爱格的模特",
+      "onboard_time": 1776249921,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156224,
@@ -4419,6 +4499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122602,
+      "num": 88371,
+      "word": "中国三胞胎的视频在推特上火了",
+      "onboard_time": 1776251961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122522,
       "num": 183215,
       "word": "张本智和觉得中日男队五五开",
@@ -4464,14 +4552,6 @@
       "word": "吴慷仁直播",
       "onboard_time": 1776173303,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 119985,
-      "num": 84951,
-      "word": "唐禹哲承认逃兵役",
-      "onboard_time": 1776248001,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -4763,14 +4843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114477,
-      "num": 93199,
-      "word": "法国罕见全票通过文物归还法案",
-      "onboard_time": 1776247342,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113915,
       "num": 113915,
       "word": "多款AI应用存在涉黄生成漏洞",
@@ -4784,6 +4856,14 @@
       "word": "宋浩然又做医美了",
       "onboard_time": 1775964680,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113500,
+      "num": 87757,
+      "word": "何润东 资源从天而降",
+      "onboard_time": 1776250161,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -4929,6 +5009,14 @@
       "onboard_time": 1775963001,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110411,
+      "num": 91363,
+      "word": "李小冉肉眼可见的越来越累",
+      "onboard_time": 1776249800,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 110401,
@@ -5211,14 +5299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105428,
-      "num": 141571,
-      "word": "上万美军封锁霍尔木兹海峡",
-      "onboard_time": 1776246681,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105324,
       "num": 105324,
       "word": "NBA西部季后赛对阵出炉",
@@ -5305,6 +5385,14 @@
       "onboard_time": 1776209179,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103616,
+      "num": 86431,
+      "word": "沈腾你干脆躺马丽怀里得了呗",
+      "onboard_time": 1776252739,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 103560,
@@ -5731,6 +5819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95981,
+      "num": 157490,
+      "word": "小米上线电池升级服务",
+      "onboard_time": 1776246741,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95918,
       "num": 252598,
       "word": "外交部回应韩国标注中国台湾",
@@ -5923,14 +6019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93512,
-      "num": 157490,
-      "word": "小米上线电池升级服务",
-      "onboard_time": 1776246741,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93287,
       "num": 93287,
       "word": "黄星邱鼎杰方辟谣聊天记录",
@@ -6017,6 +6105,14 @@
       "onboard_time": 1776181522,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 92241,
+      "word": "莫氏鸡煲少当家成中年富二代",
+      "onboard_time": 1776250641,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92182,
@@ -6169,6 +6265,14 @@
       "onboard_time": 1776159742,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90292,
+      "num": 79707,
+      "word": "李小冉比温峥嵘还大两岁",
+      "onboard_time": 1776251301,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 90278,
@@ -6491,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85919,
+      "num": 66930,
+      "word": "张柏芝开灯瞬间 惊艳",
+      "onboard_time": 1776250161,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85902,
       "num": 85902,
       "word": "马嘉祺 杨柳絮别飘了",
@@ -6771,14 +6883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82553,
-      "num": 82553,
-      "word": "香港14岁男学生成黑社会骨干",
-      "onboard_time": 1776247281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82337,
       "num": 82337,
       "word": "阿吉向B太承认虚构苦情人设",
@@ -6873,6 +6977,14 @@
       "onboard_time": 1776208879,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80551,
+      "num": 94456,
+      "word": "小鹏GX把四大安全测试场搬到发布会",
+      "onboard_time": 1776251361,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 80433,
@@ -7651,6 +7763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70991,
+      "num": 70991,
+      "word": "当你是公司最小的员工",
+      "onboard_time": 1776248602,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70979,
       "num": 70979,
       "word": "医生谈女子宫缩剧痛2小时不打无痛",
@@ -7713,14 +7833,6 @@
       "onboard_time": 1776052522,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 69966,
-      "num": 69966,
-      "word": "白日提灯大结局",
-      "onboard_time": 1776248482,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 69907,
@@ -7939,6 +8051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67394,
+      "num": 67394,
+      "word": "KT对战DK",
+      "onboard_time": 1776252802,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67258,
       "num": 125516,
       "word": "网约车司机迎来强制8小时工作制",
@@ -8147,6 +8267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64275,
+      "num": 64275,
+      "word": "真正放下一个人的样子be like",
+      "onboard_time": 1776251421,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64212,
       "num": 64212,
       "word": "双高胎抢票",
@@ -8161,6 +8289,14 @@
       "onboard_time": 1776247039,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63968,
+      "num": 69346,
+      "word": "松岛教练直言输王楚钦无解",
+      "onboard_time": 1776246920,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 63958,
@@ -8331,6 +8467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60338,
+      "num": 60338,
+      "word": "峰学蔚来负责人回应公司近况",
+      "onboard_time": 1776250161,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59974,
       "num": 138980,
       "word": "原神布伦妮",
@@ -8417,14 +8561,6 @@
       "onboard_time": 1776010221,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 56566,
-      "num": 69346,
-      "word": "松岛教练直言输王楚钦无解",
-      "onboard_time": 1776246920,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 56425,
@@ -8809,6 +8945,14 @@
       "onboard_time": 1775978423,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47284,
+      "num": 60699,
+      "word": "张月浪姐vlog",
+      "onboard_time": 1776250521,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 47240,
@@ -9441,6 +9585,14 @@
       "onboard_time": 1775980042,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27939,
+      "num": 88911,
+      "word": "当地文旅呼吁不得借泼水之名骚扰",
+      "onboard_time": 1776251002,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27533,
