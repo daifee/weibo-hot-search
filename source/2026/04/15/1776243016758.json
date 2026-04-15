@@ -1,0 +1,410 @@
+{
+  "runTime": 1776243016758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 426106,
+        "num": 1068177,
+        "word": "第1天入职第2天就出国",
+        "onboard_time": 1776238101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226552,
+        "num": 776885,
+        "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+        "onboard_time": 1776223699,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43943,
+        "num": 640559,
+        "word": "网民平均每人每天刷视频超200分钟",
+        "onboard_time": 1776237681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560879,
+        "num": 560879,
+        "word": "2026中国大学排名",
+        "onboard_time": 1776237261,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553304,
+        "num": 553304,
+        "word": "谢娜演唱会门票秒罄",
+        "onboard_time": 1776236120,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 451935,
+        "num": 451935,
+        "word": "钟汉良居然抱过小时候的郭晓婷",
+        "onboard_time": 1776240320,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274231,
+        "num": 274231,
+        "word": "成都凶宅第三次拍卖拍出98.6万",
+        "onboard_time": 1776237500,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214277,
+        "num": 214277,
+        "word": "王者荣耀",
+        "onboard_time": 1776234920,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170070,
+        "num": 170070,
+        "word": "霍尔木兹堵不住中国",
+        "onboard_time": 1776229402,
+        "rank": 8,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 138743,
+        "num": 138743,
+        "word": "张雪回应交警打鸡血质问",
+        "onboard_time": 1776232941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467447,
+        "num": 138527,
+        "word": "74岁老太杀害73岁老太后曾误导办案",
+        "onboard_time": 1776237801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446349,
+        "num": 137964,
+        "word": "痞幼胖了17斤",
+        "onboard_time": 1776238041,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278497,
+        "num": 137692,
+        "word": "魏晨儿子都这么大了",
+        "onboard_time": 1776225561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136419,
+        "num": 136419,
+        "word": "A股",
+        "onboard_time": 1776235641,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276852,
+        "num": 134430,
+        "word": "孙红雷连夜关闭了人脸支付",
+        "onboard_time": 1776227721,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196691,
+        "num": 133980,
+        "word": "张婉婷自曝妈妈不是亲生母亲",
+        "onboard_time": 1776237320,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "特朗普震惊意大利总理不帮美国",
+        "onboard_time": 1776237920,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190968,
+        "num": 130043,
+        "word": "罗志祥举日期为自己辟谣",
+        "onboard_time": 1776241520,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144215,
+        "num": 129755,
+        "word": "李小冉 舞蹈界失去了一个无关紧要的人",
+        "onboard_time": 1776226282,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56772,
+        "num": 129401,
+        "word": "三星阔屏三折叠手机曝光",
+        "onboard_time": 1776242241,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197091,
+        "num": 129293,
+        "word": "首发叶舒华恋情者已道歉",
+        "onboard_time": 1776240441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172560,
+        "num": 128898,
+        "word": "何润东cos项羽",
+        "onboard_time": 1776233600,
+        "rank": 21,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 138707,
+        "num": 128466,
+        "word": "肝癌症状常常被误以为是太累",
+        "onboard_time": 1776239661,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136382,
+        "num": 128115,
+        "word": "谢娜发文说手抖",
+        "onboard_time": 1776241881,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 128021,
+        "word": "哪个艺人授权AI了",
+        "onboard_time": 1776239720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106027,
+        "num": 116790,
+        "word": "女装模特能不能多用些普通人",
+        "onboard_time": 1776237080,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116362,
+        "num": 116362,
+        "word": "马嘉祺点到发现重名",
+        "onboard_time": 1776238581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "曾沛慈 毛巾包头",
+        "onboard_time": 1776242181,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89976,
+        "num": 113368,
+        "word": "Yami 抱头痛哭",
+        "onboard_time": 1776240860,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87008,
+        "num": 112879,
+        "word": "B太帮扶大山女孩用苹果手机",
+        "onboard_time": 1776229821,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112600,
+        "num": 112600,
+        "word": "韩国存储芯片重大风险",
+        "onboard_time": 1776241822,
+        "rank": 30,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 111491,
+        "num": 111491,
+        "word": "森碟18岁了",
+        "onboard_time": 1776225801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108634,
+        "num": 108634,
+        "word": "李昀锐关晓彤牵手剧宣",
+        "onboard_time": 1776228143,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83054,
+        "num": 104602,
+        "word": "三国是外国人最认的中国ip",
+        "onboard_time": 1776242662,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 104300,
+        "word": "向太全款买地写郭碧婷名下",
+        "onboard_time": 1776239180,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103560,
+        "num": 103560,
+        "word": "蜜语纪",
+        "onboard_time": 1776241941,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80534,
+        "num": 94860,
+        "word": "民政局回应博主帮扶凉山女孩",
+        "onboard_time": 1776239420,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91165,
+        "num": 91165,
+        "word": "k总要当爸爸了",
+        "onboard_time": 1776240680,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90923,
+        "num": 90923,
+        "word": "何润东接上王者荣耀商务了",
+        "onboard_time": 1776242721,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 79980,
+        "num": 79980,
+        "word": "加拿大等10国联合声明",
+        "onboard_time": 1776239241,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80087,
+        "num": 79353,
+        "word": "文章面馆周边餐厅店长发声",
+        "onboard_time": 1776237980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77972,
+        "num": 77972,
+        "word": "我旅游不跟三种人出去",
+        "onboard_time": 1776241580,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73108,
+        "num": 73108,
+        "word": "金立创始人被曝在印尼卖家具",
+        "onboard_time": 1776234261,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57879,
+        "num": 71133,
+        "word": "郑丽文访陆返台后真情流露",
+        "onboard_time": 1776242721,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33182,
+        "num": 70992,
+        "word": "2女子遭高压水枪狂喷官方将调查",
+        "onboard_time": 1776242300,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70927,
+        "num": 70927,
+        "word": "TFBOYS的前缀还在",
+        "onboard_time": 1776238642,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66267,
+        "num": 68717,
+        "word": "五一档电影",
+        "onboard_time": 1776238519,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48581,
+        "num": 67779,
+        "word": "韩国存储芯片面临重大风险",
+        "onboard_time": 1776242961,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 67766,
+        "num": 67766,
+        "word": "洛阳这牡丹长得菜里菜气",
+        "onboard_time": 1776242961,
+        "rank": 48,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 67718,
+        "num": 67718,
+        "word": "你以为吃的是素菜其实全是油脂",
+        "onboard_time": 1776220700,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这两场会见传递一种声音#"
+    }
+  }
+}
