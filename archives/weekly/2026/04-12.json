@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776210765798,
+  "endTime": 1776211643122,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -651,6 +651,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 519988,
+      "num": 1083198,
+      "word": "央视曝光投资7亿农业基地不干农业",
+      "onboard_time": 1776208518,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511354,
       "num": 159163,
       "word": "朱珠把女儿当女士来养",
@@ -715,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485189,
+      "num": 485189,
+      "word": "lululemon或与不孕等风险相关",
+      "onboard_time": 1776208999,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481975,
       "num": 292911,
       "word": "霍思燕最争气的是她自己",
@@ -747,19 +763,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467405,
+      "num": 122624,
+      "word": "15岁女生被班主任开房猥亵服药轻生",
+      "onboard_time": 1776210980,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466974,
       "num": 1074715,
       "word": "官方回应为什么不能把杨柳树都砍了",
       "onboard_time": 1775998460,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 460068,
-      "num": 735500,
-      "word": "央视曝光投资7亿农业基地不干农业",
-      "onboard_time": 1776208518,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -769,14 +785,6 @@
       "onboard_time": 1776085162,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 459389,
-      "num": 459389,
-      "word": "lululemon或与不孕等风险相关",
-      "onboard_time": 1776208999,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457136,
@@ -945,6 +953,14 @@
       "onboard_time": 1776153202,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 411952,
+      "num": 411952,
+      "word": "特朗普称对伊朗战争结束",
+      "onboard_time": 1776210860,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 410579,
@@ -1307,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335411,
+      "num": 120713,
+      "word": "鸡煲公主爆火前后反差",
+      "onboard_time": 1776210920,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333980,
       "num": 333980,
       "word": "谢娜成都演唱会票价",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1776170542,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317467,
+      "num": 120381,
+      "word": "文章粉丝",
+      "onboard_time": 1776209421,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 317209,
@@ -2019,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244214,
+      "num": 133241,
+      "word": "滴露要求5幼猫死亡主人举证",
+      "onboard_time": 1776208579,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243499,
       "num": 243499,
       "word": "伊朗放重磅信号",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1776098537,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223792,
+      "num": 116905,
+      "word": "10年前的孟子义",
+      "onboard_time": 1776210440,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 223662,
@@ -2907,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164025,
+      "num": 124519,
+      "word": "冰湖重生降级",
+      "onboard_time": 1776208518,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163996,
       "num": 163996,
       "word": "西班牙首相在清华握手握不过来了",
@@ -3059,14 +3115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153131,
-      "num": 124519,
-      "word": "冰湖重生降级",
-      "onboard_time": 1776208518,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152866,
       "num": 152866,
       "word": "老百姓看病应该多留个心眼",
@@ -3180,7 +3228,7 @@
     },
     {
       "raw_hot": 148013,
-      "num": 102178,
+      "num": 109488,
       "word": "网传虞书欣邓为主演神仙肉",
       "onboard_time": 1776182000,
       "rank": 16,
@@ -3507,14 +3555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133241,
-      "num": 133241,
-      "word": "滴露要求5幼猫死亡主人举证",
-      "onboard_time": 1776208579,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133101,
       "num": 133101,
       "word": "患者被吊1小时医院多专利已无效",
@@ -3633,6 +3673,14 @@
       "onboard_time": 1776072920,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125950,
+      "num": 434581,
+      "word": "马竞1比2巴萨",
+      "onboard_time": 1776209600,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 125861,
@@ -3809,6 +3857,14 @@
       "onboard_time": 1776159082,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118773,
+      "num": 112995,
+      "word": "小金豆价格下跌",
+      "onboard_time": 1776211041,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 118415,
@@ -4091,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112067,
+      "num": 116085,
+      "word": "金银飙涨",
+      "onboard_time": 1776208518,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112001,
       "num": 150423,
       "word": "文章面馆1天限号200个",
@@ -4113,14 +4177,6 @@
       "onboard_time": 1776060261,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111431,
-      "num": 111431,
-      "word": "文章粉丝",
-      "onboard_time": 1776209421,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 111194,
@@ -4460,7 +4516,7 @@
     },
     {
       "raw_hot": 103719,
-      "num": 103719,
+      "num": 111306,
       "word": "女孩太想念老人睡墓碑旁不愿走",
       "onboard_time": 1776209179,
       "rank": 27,
@@ -4553,6 +4609,14 @@
       "onboard_time": 1775971341,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100850,
+      "num": 111733,
+      "word": "史上最受宠小孩的头饰能有多惊艳",
+      "onboard_time": 1776210980,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100762,
@@ -4691,14 +4755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98444,
-      "num": 98444,
-      "word": "金银飙涨",
-      "onboard_time": 1776208518,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98272,
       "num": 98272,
       "word": "露芜衣心脏是雾妄言的",
@@ -4715,14 +4771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97848,
-      "num": 434581,
-      "word": "马竞1比2巴萨",
-      "onboard_time": 1776209600,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "江语晨前夫",
@@ -4737,6 +4785,14 @@
       "onboard_time": 1775968460,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97653,
+      "num": 110821,
+      "word": "黎以直接谈判",
+      "onboard_time": 1776211340,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97633,
@@ -4905,6 +4961,14 @@
       "onboard_time": 1776006923,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95282,
+      "num": 125818,
+      "word": "十日终焉外景",
+      "onboard_time": 1776184519,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 95211,
@@ -5284,7 +5348,7 @@
     },
     {
       "raw_hot": 89403,
-      "num": 89403,
+      "num": 107440,
       "word": "谢娜要每天发一首发行过的歌",
       "onboard_time": 1776183798,
       "rank": 31,
@@ -5747,14 +5811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82442,
-      "num": 82442,
-      "word": "10年前的孟子义",
-      "onboard_time": 1776210440,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82335,
       "num": 68558,
       "word": "巴基斯坦总理分别会见伊美谈判成员",
@@ -5835,12 +5891,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80672,
+      "num": 108779,
+      "word": "女子利用7天无理由发泄心情翻车了",
+      "onboard_time": 1776208879,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80640,
+      "num": 108671,
+      "word": "两女子泼水节被多人用高压水枪喷射",
+      "onboard_time": 1776211041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80386,
       "num": 144384,
       "word": "吉赛尔说中文我很有钱你又丑又穷",
       "onboard_time": 1776144142,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 80141,
+      "num": 404389,
+      "word": "黎以美三方会谈结束",
+      "onboard_time": 1776209479,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79908,
@@ -5937,14 +6017,6 @@
       "onboard_time": 1776154941,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78117,
-      "num": 125424,
-      "word": "十日终焉外景",
-      "onboard_time": 1776184519,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 78105,
@@ -6099,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75611,
-      "num": 75611,
-      "word": "女子利用7天无理由发泄心情翻车了",
-      "onboard_time": 1776208879,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75472,
       "num": 75472,
       "word": "张凌赫上了英语试卷",
@@ -6227,6 +6291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74175,
+      "num": 106729,
+      "word": "减脂水果从夯到拉",
+      "onboard_time": 1776211400,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74152,
       "num": 74152,
       "word": "男孩被私拴绳子锁喉已筹款48万元",
@@ -6320,6 +6392,14 @@
       "word": "医生回应2天吃1斤蓝莓胃堵成石墙",
       "onboard_time": 1776062001,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73183,
+      "num": 106079,
+      "word": "女子把生姜当水果吃每日1盆",
+      "onboard_time": 1776211581,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -6435,6 +6515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71727,
+      "num": 124569,
+      "word": "糖尿病与牙周炎双向影响",
+      "onboard_time": 1776207737,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71460,
       "num": 71460,
       "word": "郑丽文此行打脸台当局三个选择",
@@ -6449,6 +6537,14 @@
       "onboard_time": 1776088103,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71375,
+      "num": 105142,
+      "word": "半夜醒来千万不要看时间",
+      "onboard_time": 1776211400,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 70708,
@@ -6668,7 +6764,7 @@
     },
     {
       "raw_hot": 66512,
-      "num": 66512,
+      "num": 101970,
       "word": "欧冠",
       "onboard_time": 1776208459,
       "rank": 37,
@@ -7011,14 +7107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56872,
-      "num": 404389,
-      "word": "黎以美三方会谈结束",
-      "onboard_time": 1776209479,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56837,
       "num": 166934,
       "word": "iPhoneFold首年销量预计",
@@ -7105,14 +7193,6 @@
       "onboard_time": 1775966479,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54918,
-      "num": 54918,
-      "word": "糖尿病与牙周炎双向影响",
-      "onboard_time": 1776207737,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 54821,
@@ -8315,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18304,
+      "num": 618944,
+      "word": "赏花经济点亮乡村振兴新图景",
+      "onboard_time": 1776173003,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18297,
       "num": 53751,
       "word": "WBG 对线",
@@ -8329,14 +8417,6 @@
       "onboard_time": 1776186017,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17922,
-      "num": 575977,
-      "word": "赏花经济点亮乡村振兴新图景",
-      "onboard_time": 1776173003,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17882,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1776211643122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519988,
+        "num": 1083198,
+        "word": "央视曝光投资7亿农业基地不干农业",
+        "onboard_time": 1776208518,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486461,
+        "num": 773050,
+        "word": "4人合伙买彩票中500万后起纠纷",
+        "onboard_time": 1776179482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18304,
+        "num": 618944,
+        "word": "赏花经济点亮乡村振兴新图景",
+        "onboard_time": 1776173003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485189,
+        "num": 485189,
+        "word": "lululemon或与不孕等风险相关",
+        "onboard_time": 1776208999,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411952,
+        "num": 411952,
+        "word": "特朗普称对伊朗战争结束",
+        "onboard_time": 1776210860,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125950,
+        "num": 125950,
+        "word": "马竞1比2巴萨",
+        "onboard_time": 1776209600,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95282,
+        "num": 125818,
+        "word": "十日终焉外景",
+        "onboard_time": 1776184519,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85514,
+        "num": 125376,
+        "word": "肖战提名亚洲艺术电影节最佳男主",
+        "onboard_time": 1776189495,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71727,
+        "num": 124569,
+        "word": "糖尿病与牙周炎双向影响",
+        "onboard_time": 1776207737,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338029,
+        "num": 124114,
+        "word": "伊朗看透了",
+        "onboard_time": 1776181042,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 534639,
+        "num": 123365,
+        "word": "文章面馆 周一不见",
+        "onboard_time": 1776172462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467405,
+        "num": 122624,
+        "word": "15岁女生被班主任开房猥亵服药轻生",
+        "onboard_time": 1776210980,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435815,
+        "num": 122179,
+        "word": "田馥甄回应拒绝浪姐邀约",
+        "onboard_time": 1776178522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361841,
+        "num": 121709,
+        "word": "上万美军正封锁进出伊朗港口船只",
+        "onboard_time": 1776185779,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 341786,
+        "num": 121040,
+        "word": "沈清曝王阳杀青宴被指着鼻子骂",
+        "onboard_time": 1776166642,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335411,
+        "num": 120713,
+        "word": "鸡煲公主爆火前后反差",
+        "onboard_time": 1776210920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317467,
+        "num": 120381,
+        "word": "文章粉丝",
+        "onboard_time": 1776209421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244214,
+        "num": 119597,
+        "word": "滴露要求5幼猫死亡主人举证",
+        "onboard_time": 1776208579,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74043,
+        "num": 119097,
+        "word": "者来家族扩大",
+        "onboard_time": 1776193395,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 118368,
+        "word": "谁懂这次换手机的意义",
+        "onboard_time": 1776166043,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385301,
+        "num": 117903,
+        "word": "B太回应18万帮扶被骗",
+        "onboard_time": 1776204075,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344833,
+        "num": 117601,
+        "word": "朱珠把女儿当女士来养",
+        "onboard_time": 1776174203,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223792,
+        "num": 116905,
+        "word": "10年前的孟子义",
+        "onboard_time": 1776210440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112067,
+        "num": 116085,
+        "word": "金银飙涨",
+        "onboard_time": 1776208518,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220348,
+        "num": 115580,
+        "word": "陈哲远是泰国泼水节最大赢家吧",
+        "onboard_time": 1776207797,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164025,
+        "num": 115027,
+        "word": "冰湖重生降级",
+        "onboard_time": 1776208518,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109716,
+        "num": 114488,
+        "word": "中方回应美封锁伊海上交通",
+        "onboard_time": 1776183201,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 113828,
+        "word": "TOP更新站位",
+        "onboard_time": 1776169102,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127321,
+        "num": 113249,
+        "word": "阿Sa被名医诊断出轻微中风",
+        "onboard_time": 1776171264,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 112995,
+        "word": "小金豆价格下跌",
+        "onboard_time": 1776211041,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103487,
+        "num": 112486,
+        "word": "女子习惯饭后吃水果血糖30险截肢",
+        "onboard_time": 1776190396,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100850,
+        "num": 111733,
+        "word": "史上最受宠小孩的头饰能有多惊艳",
+        "onboard_time": 1776210980,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100686,
+        "num": 111306,
+        "word": "女孩太想念老人睡墓碑旁不愿走",
+        "onboard_time": 1776209179,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97653,
+        "num": 110821,
+        "word": "黎以直接谈判",
+        "onboard_time": 1776211340,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95397,
+        "num": 109921,
+        "word": "特朗普说伊朗没牌了遭北约盟友打脸",
+        "onboard_time": 1776183740,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66677,
+        "num": 109488,
+        "word": "网传虞书欣邓为主演神仙肉",
+        "onboard_time": 1776182000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80672,
+        "num": 108779,
+        "word": "女子利用7天无理由发泄心情翻车了",
+        "onboard_time": 1776208879,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80640,
+        "num": 108671,
+        "word": "两女子泼水节被多人用高压水枪喷射",
+        "onboard_time": 1776211041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80141,
+        "num": 107901,
+        "word": "黎以美三方会谈结束",
+        "onboard_time": 1776209479,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78392,
+        "num": 107440,
+        "word": "谢娜要每天发一首发行过的歌",
+        "onboard_time": 1776183798,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74175,
+        "num": 106729,
+        "word": "减脂水果从夯到拉",
+        "onboard_time": 1776211400,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73183,
+        "num": 106079,
+        "word": "女子把生姜当水果吃每日1盆",
+        "onboard_time": 1776211581,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55634,
+        "num": 105703,
+        "word": "欧冠联赛",
+        "onboard_time": 1776206116,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71375,
+        "num": 105142,
+        "word": "半夜醒来千万不要看时间",
+        "onboard_time": 1776211400,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71249,
+        "num": 104538,
+        "word": "尹锡悦夫妇法庭相见细节曝光",
+        "onboard_time": 1776177262,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42112,
+        "num": 103921,
+        "word": "杨幂 越素越美",
+        "onboard_time": 1776170542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33008,
+        "num": 103638,
+        "word": "以防你不知道手机发展得有多快",
+        "onboard_time": 1776169341,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68861,
+        "num": 102667,
+        "word": "五一飞往东南亚航班大规模取消",
+        "onboard_time": 1776170243,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31508,
+        "num": 102098,
+        "word": "蜜语纪热度",
+        "onboard_time": 1776181341,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57975,
+        "num": 101970,
+        "word": "欧冠",
+        "onboard_time": 1776208459,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中西双方要共谋创新发展#"
+    }
+  }
+}
