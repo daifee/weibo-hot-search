@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776211643122,
+  "endTime": 1776223290150,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672036,
+      "num": 672036,
+      "word": "你以为吃的是素菜其实全是油脂",
+      "onboard_time": 1776220700,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 663401,
       "num": 195891,
       "word": "王濛 色令智昏",
@@ -619,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538045,
+      "num": 538045,
+      "word": "女子生产坚持不打无痛老公苦苦哀求",
+      "onboard_time": 1776215420,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533338,
       "num": 1017790,
       "word": "4人合伙买彩票中500万后起纠纷",
@@ -737,6 +753,14 @@
       "onboard_time": 1776047120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481041,
+      "num": 481041,
+      "word": "苹果官方发文提醒",
+      "onboard_time": 1776216320,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 478643,
@@ -979,6 +1003,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408985,
+      "num": 1065437,
+      "word": "神仙肉",
+      "onboard_time": 1776221720,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 406729,
+      "num": 182506,
+      "word": "孙颖莎代言白象",
+      "onboard_time": 1776222919,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403835,
       "num": 265474,
       "word": "迪丽热巴工作室回应审美争议",
@@ -1011,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393745,
+      "num": 232342,
+      "word": "10年前的孟子义",
+      "onboard_time": 1776210440,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392792,
       "num": 392792,
       "word": "TTG对战KSG",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1775988621,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 386549,
+      "num": 767129,
+      "word": "云南泼水节车前喷水小鸡袭击路人",
+      "onboard_time": 1776217100,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385134,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1776072623,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369601,
+      "num": 225405,
+      "word": "何润东逐玉的红利",
+      "onboard_time": 1776218420,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 367249,
@@ -1324,7 +1388,7 @@
     },
     {
       "raw_hot": 335411,
-      "num": 120713,
+      "num": 178528,
       "word": "鸡煲公主爆火前后反差",
       "onboard_time": 1776210920,
       "rank": 15,
@@ -1547,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312735,
+      "num": 312735,
+      "word": "卧床吸烟致母子二人葬身火海",
+      "onboard_time": 1776218180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312214,
       "num": 790652,
       "word": "银行招聘被骂上热搜不能怪网友",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1775981063,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304649,
+      "num": 304649,
+      "word": "军工人员疯狂泄密却被开空头支票",
+      "onboard_time": 1776222019,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300516,
@@ -2051,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245136,
+      "num": 222531,
+      "word": "三球附加赛加时绝杀热火",
+      "onboard_time": 1776222019,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244214,
       "num": 133241,
       "word": "滴露要求5幼猫死亡主人举证",
@@ -2081,6 +2169,14 @@
       "onboard_time": 1776010221,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241456,
+      "num": 241456,
+      "word": "曝何与辞演神仙肉",
+      "onboard_time": 1776213560,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 240935,
@@ -2233,14 +2329,6 @@
       "onboard_time": 1776098537,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223792,
-      "num": 116905,
-      "word": "10年前的孟子义",
-      "onboard_time": 1776210440,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 223662,
@@ -2603,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190499,
+      "num": 190499,
+      "word": "半夜醒来千万不要看时间",
+      "onboard_time": 1776211400,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190068,
       "num": 190068,
       "word": "钢铁森林大结局",
@@ -2617,6 +2713,14 @@
       "onboard_time": 1776175462,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189173,
+      "num": 189173,
+      "word": "普京提议帮伊朗管理浓缩铀",
+      "onboard_time": 1776217040,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188250,
@@ -2729,6 +2833,14 @@
       "onboard_time": 1776005243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "张伦硕说钟丽缇把财产给女儿没意见",
+      "onboard_time": 1776216141,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 182422,
@@ -2875,6 +2987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171231,
+      "num": 171231,
+      "word": "教体局称猥亵女孩老师已降最低等级",
+      "onboard_time": 1776222380,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170810,
       "num": 113098,
       "word": "男子掉14颗牙剩下14颗也得全拔掉",
@@ -2929,6 +3049,14 @@
       "onboard_time": 1776051380,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166739,
+      "num": 166739,
+      "word": "卫健委回应卫生院用杆秤称新生儿",
+      "onboard_time": 1776220700,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166270,
@@ -3235,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147915,
+      "num": 147915,
+      "word": "女子把生姜当水果吃每日1盆",
+      "onboard_time": 1776211581,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146604,
       "num": 146604,
       "word": "甜馨回应给贾乃亮做蛋糕",
@@ -3411,6 +3547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140470,
+      "num": 140470,
+      "word": "TFBOYS十二周年",
+      "onboard_time": 1776216559,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140407,
+      "num": 140407,
+      "word": "杨紫官方后援会致歉",
+      "onboard_time": 1776216199,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140334,
       "num": 140334,
       "word": "柳致敏",
@@ -3432,6 +3584,14 @@
       "word": "逃单奥迪车驾驶人已被拘留",
       "onboard_time": 1775975001,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "两女子泼水节被多人用高压水枪喷射",
+      "onboard_time": 1776211041,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3697,6 +3857,14 @@
       "onboard_time": 1776090444,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 125649,
+      "num": 125649,
+      "word": "减脂水果从夯到拉",
+      "onboard_time": 1776211400,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 125573,
@@ -3985,6 +4153,14 @@
       "onboard_time": 1775911344,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115778,
+      "num": 115778,
+      "word": "蜜语纪 霸总爱上离婚做保洁的我",
+      "onboard_time": 1776211881,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 115681,
@@ -4363,6 +4539,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 106536,
+      "num": 106536,
+      "word": "于正为吴谨言许凯宣传新剧",
+      "onboard_time": 1776222860,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106491,
       "num": 174844,
       "word": "雨爱 这才是全开麦",
@@ -4513,6 +4697,14 @@
       "onboard_time": 1776141862,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103905,
+      "num": 103905,
+      "word": "尽量别用微波炉加热液体",
+      "onboard_time": 1776222019,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103719,
@@ -4899,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96116,
+      "num": 96116,
+      "word": "王健林孙喜双等需支付超38亿元",
+      "onboard_time": 1776220999,
+      "rank": 32,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 96112,
       "num": 96112,
       "word": "广州日报官宣时代少年团演唱会",
@@ -5043,12 +5243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94180,
+      "num": 94180,
+      "word": "苹果AppStore下架两款违规应用",
+      "onboard_time": 1776220880,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94092,
       "num": 166196,
       "word": "松岛美空用孙颖莎合影做头像",
       "onboard_time": 1776123679,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94021,
+      "num": 94021,
+      "word": "女子在澳遭小孩挑衅后被其母殴打",
+      "onboard_time": 1776220219,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93950,
@@ -5899,12 +6115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80640,
-      "num": 108671,
-      "word": "两女子泼水节被多人用高压水枪喷射",
-      "onboard_time": 1776211041,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "以色列被曝想抢伊朗浓缩铀",
+      "onboard_time": 1776215120,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80386,
@@ -5947,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79603,
+      "num": 79603,
+      "word": "17国外长联合声明",
+      "onboard_time": 1776220519,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79519,
       "num": 143360,
       "word": "陈芋汐五一假期亮相水立方",
@@ -5977,6 +6201,14 @@
       "onboard_time": 1775988681,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79190,
+      "num": 79190,
+      "word": "GQ四月王一博封面",
+      "onboard_time": 1776221239,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79162,
@@ -6035,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77809,
+      "num": 77809,
+      "word": "多方回应中国女子在澳遇袭",
+      "onboard_time": 1776221301,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77787,
       "num": 77787,
       "word": "A股首位年薪破千万财务掌门人",
@@ -6073,6 +6313,14 @@
       "onboard_time": 1776157821,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76866,
+      "num": 76866,
+      "word": "山东临沂成立联合调查组",
+      "onboard_time": 1776217339,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76844,
@@ -6243,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74959,
+      "num": 74959,
+      "word": "被AI不雅视频造黄谣大学生发声",
+      "onboard_time": 1776217819,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74792,
       "num": 74792,
       "word": "张雪问了自己3个问题后辞职",
@@ -6267,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74621,
+      "num": 74621,
+      "word": "开拓者vs太阳",
+      "onboard_time": 1776222800,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74558,
       "num": 74558,
       "word": "周翊然和沙一汀打瓦",
@@ -6289,14 +6553,6 @@
       "onboard_time": 1776035899,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74175,
-      "num": 106729,
-      "word": "减脂水果从夯到拉",
-      "onboard_time": 1776211400,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 74152,
@@ -6392,14 +6648,6 @@
       "word": "医生回应2天吃1斤蓝莓胃堵成石墙",
       "onboard_time": 1776062001,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73183,
-      "num": 106079,
-      "word": "女子把生姜当水果吃每日1盆",
-      "onboard_time": 1776211581,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -6539,12 +6787,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71375,
-      "num": 105142,
-      "word": "半夜醒来千万不要看时间",
-      "onboard_time": 1776211400,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 70979,
+      "num": 70979,
+      "word": "医生谈女子宫缩剧痛2小时不打无痛",
+      "onboard_time": 1776216799,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70708,
@@ -6683,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68665,
+      "num": 68665,
+      "word": "英雄联盟S2万魔殿",
+      "onboard_time": 1776221061,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68652,
       "num": 68652,
       "word": "这才是真正的防窥屏",
@@ -6771,11 +7027,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66366,
+      "num": 66366,
+      "word": "秦昊带伊能静品尝他的一生挚爱",
+      "onboard_time": 1776219440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66274,
       "num": 266724,
       "word": "41岁男子戴隐形眼镜睡一夜后失明",
       "onboard_time": 1776182000,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66089,
+      "num": 174456,
+      "word": "永辉超市仲裁胜诉",
+      "onboard_time": 1776222260,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6801,6 +7073,14 @@
       "onboard_time": 1776124939,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65624,
+      "num": 65624,
+      "word": "电影一个男人和一个女人定档",
+      "onboard_time": 1776222680,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 65468,
@@ -6835,6 +7115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64810,
+      "num": 64810,
+      "word": "A股又现千万年薪CFO",
+      "onboard_time": 1776220459,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64711,
       "num": 64711,
       "word": "王者世界野区逛不完",
@@ -6865,6 +7153,14 @@
       "onboard_time": 1776124519,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64347,
+      "num": 64347,
+      "word": "鲍尔绝杀热火",
+      "onboard_time": 1776222680,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 64212,
@@ -7241,6 +7537,14 @@
       "onboard_time": 1776169341,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53778,
+      "num": 240236,
+      "word": "美军称已完全切断伊朗海上进出口贸易",
+      "onboard_time": 1776220760,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53748,
@@ -7673,6 +7977,14 @@
       "onboard_time": 1776099617,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39530,
+      "num": 676155,
+      "word": "全民国家安全教育日",
+      "onboard_time": 1776222260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39423,
@@ -8601,6 +8913,9 @@
     },
     {
       "word": "#习近平就中东和平稳定提出4点主张#"
+    },
+    {
+      "word": "#习主席这两场会见传递一种声音#"
     }
   ]
 }
