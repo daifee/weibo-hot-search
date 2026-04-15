@@ -1,0 +1,410 @@
+{
+  "runTime": 1776248584601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 670143,
+        "num": 1107222,
+        "word": "骗B太大山女孩被百万网红长期资助",
+        "onboard_time": 1776243741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388399,
+        "num": 812130,
+        "word": "俄方提出帮助中国弥补能源短缺",
+        "onboard_time": 1776245480,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16717,
+        "num": 631524,
+        "word": "家国长安宁全民共守护",
+        "onboard_time": 1776243860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347289,
+        "num": 347289,
+        "word": "我旅游不跟三种人出去",
+        "onboard_time": 1776241580,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333179,
+        "num": 333179,
+        "word": "谢娜演唱会门票秒罄",
+        "onboard_time": 1776236120,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326272,
+        "num": 326272,
+        "word": "皮蛋黄瓜汤",
+        "onboard_time": 1776244581,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304454,
+        "num": 304454,
+        "word": "灵隐寺严正声明",
+        "onboard_time": 1776245361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197892,
+        "num": 197892,
+        "word": "2026中国大学排名",
+        "onboard_time": 1776237261,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178333,
+        "num": 178333,
+        "word": "钟汉良居然抱过小时候的郭晓婷",
+        "onboard_time": 1776240320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163963,
+        "num": 163963,
+        "word": "第1天入职第2天就出国",
+        "onboard_time": 1776238101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512188,
+        "num": 163854,
+        "word": "网红炫迈妹子被猫误伤毁容",
+        "onboard_time": 1776244460,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 498707,
+        "num": 161463,
+        "word": "罗志祥举日期为自己辟谣",
+        "onboard_time": 1776241520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223414,
+        "num": 159907,
+        "word": "北京文旅一觉醒来天塌了",
+        "onboard_time": 1776243921,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237327,
+        "num": 157363,
+        "word": "何润东接上王者荣耀商务了",
+        "onboard_time": 1776242721,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 180926,
+        "num": 156283,
+        "word": "痞幼胖了17斤",
+        "onboard_time": 1776238041,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154398,
+        "num": 154398,
+        "word": "王者荣耀",
+        "onboard_time": 1776234920,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175557,
+        "num": 132079,
+        "word": "曾沛慈 毛巾包头",
+        "onboard_time": 1776242181,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157796,
+        "num": 130392,
+        "word": "魏晨儿子都这么大了",
+        "onboard_time": 1776225561,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93512,
+        "num": 93512,
+        "word": "小米上线电池升级服务",
+        "onboard_time": 1776246741,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114477,
+        "num": 93199,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372362,
+        "num": 92131,
+        "word": "姚安娜代言华为",
+        "onboard_time": 1776246379,
+        "rank": 20,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 267437,
+        "num": 91584,
+        "word": "叶舒华ins评论区",
+        "onboard_time": 1776244100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147335,
+        "num": 90702,
+        "word": "男子杀害怀孕女友全家被判死刑",
+        "onboard_time": 1776244340,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 89627,
+        "word": "孙红雷连夜关闭了人脸支付",
+        "onboard_time": 1776227721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43823,
+        "num": 88960,
+        "word": "村民反映六盘水山体开裂最宽处一米多",
+        "onboard_time": 1776247281,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143513,
+        "num": 88257,
+        "word": "男子半夜打47次110让警察帮管儿子",
+        "onboard_time": 1776244340,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130802,
+        "num": 87144,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130281,
+        "num": 85950,
+        "word": "张真源暂时缺席录制跑男",
+        "onboard_time": 1776247641,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123916,
+        "num": 85511,
+        "word": "霍尔木兹堵不住中国",
+        "onboard_time": 1776229402,
+        "rank": 28,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 84975,
+        "num": 84975,
+        "word": "李昀锐关晓彤牵手剧宣",
+        "onboard_time": 1776228143,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119985,
+        "num": 84951,
+        "word": "唐禹哲承认逃兵役",
+        "onboard_time": 1776248001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105428,
+        "num": 84940,
+        "word": "上万美军封锁霍尔木兹海峡",
+        "onboard_time": 1776246681,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104813,
+        "num": 84888,
+        "word": "何润东cos项羽",
+        "onboard_time": 1776233600,
+        "rank": 32,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 103627,
+        "num": 84870,
+        "word": "郑丽文访陆返台后真情流露",
+        "onboard_time": 1776242721,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98823,
+        "num": 84852,
+        "word": "莫氏鸡煲第1家分店五一前开业",
+        "onboard_time": 1776243441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92148,
+        "num": 84825,
+        "word": "肝癌症状常常被误以为是太累",
+        "onboard_time": 1776239661,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91310,
+        "num": 84789,
+        "word": "出生4天被秤砣砸中女婴3次尿血",
+        "onboard_time": 1776246801,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89112,
+        "num": 84757,
+        "word": "美军承认价值16亿无人机坠毁",
+        "onboard_time": 1776243921,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84740,
+        "num": 84740,
+        "word": "迪丽热巴谈性格敏感",
+        "onboard_time": 1776244282,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82553,
+        "num": 82553,
+        "word": "香港14岁男学生成黑社会骨干",
+        "onboard_time": 1776247281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80419,
+        "num": 80419,
+        "word": "Lululemon涉嫌致癌消费者发声",
+        "onboard_time": 1776247103,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77364,
+        "num": 77364,
+        "word": "张婉婷自曝妈妈不是亲生母亲",
+        "onboard_time": 1776237320,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76088,
+        "num": 76088,
+        "word": "中方回应日本冲绳部署防空导弹部队",
+        "onboard_time": 1776243621,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30952,
+        "num": 72896,
+        "word": "内蒙古一研究院1200元就能办院士证",
+        "onboard_time": 1776248541,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72472,
+        "num": 72472,
+        "word": "A股",
+        "onboard_time": 1776235641,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72339,
+        "num": 72339,
+        "word": "谢娜回应很多朋友没抢上票",
+        "onboard_time": 1776246981,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69966,
+        "num": 69966,
+        "word": "白日提灯大结局",
+        "onboard_time": 1776248482,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56566,
+        "num": 69346,
+        "word": "松岛教练直言输王楚钦无解",
+        "onboard_time": 1776246920,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69343,
+        "num": 69343,
+        "word": "蜜语纪",
+        "onboard_time": 1776241941,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38951,
+        "num": 69173,
+        "word": "三星阔屏三折叠手机曝光",
+        "onboard_time": 1776242241,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系的稳定性确定性尤为宝贵#"
+    }
+  }
+}

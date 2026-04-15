@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776247063822,
+  "endTime": 1776248584601,
   "band_list": [
     {
       "raw_hot": 920174,
@@ -139,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512188,
+      "num": 184685,
+      "word": "网红炫迈妹子被猫误伤毁容",
+      "onboard_time": 1776244460,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491643,
       "num": 1078663,
       "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
       "onboard_time": 1776223699,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 490908,
-      "num": 184685,
-      "word": "网红炫迈妹子被猫误伤毁容",
-      "onboard_time": 1776244460,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 486598,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388399,
+      "num": 812130,
+      "word": "俄方提出帮助中国弥补能源短缺",
+      "onboard_time": 1776245480,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 386549,
       "num": 767129,
       "word": "云南泼水节车前喷水小鸡袭击路人",
@@ -329,6 +337,14 @@
       "onboard_time": 1776181042,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 372362,
+      "num": 155456,
+      "word": "姚安娜代言华为",
+      "onboard_time": 1776246379,
+      "rank": 23,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 369601,
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326272,
+      "num": 326272,
+      "word": "皮蛋黄瓜汤",
+      "onboard_time": 1776244581,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 320588,
       "num": 320588,
       "word": "74岁老太杀73岁老太藏尸案宣判",
@@ -424,6 +448,14 @@
       "word": "婚事谈崩男子杀害怀孕女友一家3口",
       "onboard_time": 1776232039,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304454,
+      "num": 304454,
+      "word": "灵隐寺严正声明",
+      "onboard_time": 1776245361,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -523,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237327,
+      "num": 161183,
+      "word": "何润东接上王者荣耀商务了",
+      "onboard_time": 1776242721,
+      "rank": 38,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 235291,
       "num": 170324,
       "word": "曾沛慈 毛巾包头",
@@ -531,27 +571,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231239,
-      "num": 155456,
-      "word": "姚安娜代言华为",
-      "onboard_time": 1776246379,
-      "rank": 23,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 221620,
       "num": 165866,
       "word": "女子习惯饭后吃水果血糖30险截肢",
       "onboard_time": 1776190396,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221146,
-      "num": 221146,
-      "word": "灵隐寺严正声明",
-      "onboard_time": 1776245361,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -593,22 +617,6 @@
       "onboard_time": 1776240441,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195229,
-      "num": 161183,
-      "word": "何润东接上王者荣耀商务了",
-      "onboard_time": 1776242721,
-      "rank": 38,
-      "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 192163,
-      "num": 192163,
-      "word": "俄方提出帮助中国弥补能源短缺",
-      "onboard_time": 1776245480,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 190499,
@@ -747,6 +755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147335,
+      "num": 154677,
+      "word": "男子杀害怀孕女友全家被判死刑",
+      "onboard_time": 1776244340,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143513,
+      "num": 159022,
+      "word": "男子半夜打47次110让警察帮管儿子",
+      "onboard_time": 1776244340,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143086,
       "num": 143086,
       "word": "蜜语纪热度",
@@ -803,20 +827,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133549,
-      "num": 154677,
-      "word": "男子杀害怀孕女友全家被判死刑",
-      "onboard_time": 1776244340,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130880,
       "num": 130880,
       "word": "民政局回应博主帮扶凉山女孩",
       "onboard_time": 1776239420,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130802,
+      "num": 151822,
+      "word": "在德读硕中国小伙多次下药迷奸女友",
+      "onboard_time": 1776245541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130281,
+      "num": 85950,
+      "word": "张真源暂时缺席录制跑男",
+      "onboard_time": 1776247641,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 130264,
@@ -883,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122981,
-      "num": 151822,
-      "word": "在德读硕中国小伙多次下药迷奸女友",
-      "onboard_time": 1776245541,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121771,
       "num": 98498,
       "word": "lululemon中国市场成救命稻草",
@@ -905,6 +929,14 @@
       "onboard_time": 1776177802,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119985,
+      "num": 84951,
+      "word": "唐禹哲承认逃兵役",
+      "onboard_time": 1776248001,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 118773,
@@ -945,6 +977,14 @@
       "onboard_time": 1776211881,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114477,
+      "num": 93199,
+      "word": "法国罕见全票通过文物归还法案",
+      "onboard_time": 1776247342,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114184,
@@ -1051,12 +1091,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 104880,
-      "num": 147213,
-      "word": "皮蛋黄瓜汤",
-      "onboard_time": 1776244581,
-      "rank": 34,
-      "category": "美食"
+      "raw_hot": 105428,
+      "num": 141571,
+      "word": "上万美军封锁霍尔木兹海峡",
+      "onboard_time": 1776246681,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104300,
@@ -1235,6 +1275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93512,
+      "num": 157490,
+      "word": "小米上线电池升级服务",
+      "onboard_time": 1776246741,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92768,
       "num": 103921,
       "word": "杨幂 越素越美",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1776223820,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91310,
+      "num": 143638,
+      "word": "出生4天被秤砣砸中女婴3次尿血",
+      "onboard_time": 1776246801,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91165,
@@ -1363,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82553,
+      "num": 82553,
+      "word": "香港14岁男学生成黑社会骨干",
+      "onboard_time": 1776247281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82337,
       "num": 82337,
       "word": "阿吉向B太承认虚构苦情人设",
@@ -1387,20 +1451,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80419,
+      "num": 80419,
+      "word": "Lululemon涉嫌致癌消费者发声",
+      "onboard_time": 1776247103,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80141,
       "num": 404389,
       "word": "黎以美三方会谈结束",
       "onboard_time": 1776209479,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 80094,
-      "num": 157490,
-      "word": "小米上线电池升级服务",
-      "onboard_time": 1776246741,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 79980,
@@ -1499,20 +1563,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76088,
+      "num": 76088,
+      "word": "中方回应日本冲绳部署防空导弹部队",
+      "onboard_time": 1776243621,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75921,
       "num": 75921,
       "word": "女子拧断30多克金饰不买不赔",
       "onboard_time": 1776239780,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75629,
-      "num": 141571,
-      "word": "上万美军封锁霍尔木兹海峡",
-      "onboard_time": 1776246681,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74959,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1776223281,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72339,
+      "num": 140049,
+      "word": "谢娜回应很多朋友没抢上票",
+      "onboard_time": 1776246981,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 72239,
@@ -1611,20 +1683,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70074,
-      "num": 140049,
-      "word": "谢娜回应很多朋友没抢上票",
-      "onboard_time": 1776246981,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 70038,
       "num": 93893,
       "word": "宋亚轩再多上几节课都大小脸了",
       "onboard_time": 1776172342,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69966,
+      "num": 69966,
+      "word": "白日提灯大结局",
+      "onboard_time": 1776248482,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 69905,
@@ -1851,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56566,
+      "num": 69346,
+      "word": "松岛教练直言输王楚钦无解",
+      "onboard_time": 1776246920,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55432,
       "num": 55432,
       "word": "医生回应每年体检突然查出中晚期肝癌",
@@ -1939,14 +2019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47538,
-      "num": 143638,
-      "word": "出生4天被秤砣砸中女婴3次尿血",
-      "onboard_time": 1776246801,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47240,
       "num": 154063,
       "word": "vivo长焦下的鸟类图鉴",
@@ -1969,6 +2041,14 @@
       "onboard_time": 1776237681,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43823,
+      "num": 88960,
+      "word": "村民反映六盘水山体开裂最宽处一米多",
+      "onboard_time": 1776247281,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 43061,
@@ -2009,14 +2089,6 @@
       "onboard_time": 1776222260,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38854,
-      "num": 159022,
-      "word": "男子半夜打47次110让警察帮管儿子",
-      "onboard_time": 1776244340,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38591,
@@ -2073,6 +2145,14 @@
       "onboard_time": 1776242300,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30952,
+      "num": 72896,
+      "word": "内蒙古一研究院1200元就能办院士证",
+      "onboard_time": 1776248541,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 29981,
@@ -2287,6 +2367,9 @@
     },
     {
       "word": "#习近平同苏林举行会谈#"
+    },
+    {
+      "word": "#中俄关系的稳定性确定性尤为宝贵#"
     }
   ]
 }
