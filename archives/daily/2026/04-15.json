@@ -1,7 +1,15 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776223290150,
+  "endTime": 1776224919603,
   "band_list": [
+    {
+      "raw_hot": 920174,
+      "num": 1147227,
+      "word": "军工人员疯狂泄密却被开空头支票",
+      "onboard_time": 1776222019,
+      "rank": 7,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 689983,
       "num": 374324,
@@ -17,6 +25,22 @@
       "onboard_time": 1776220700,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 643851,
+      "num": 193682,
+      "word": "教体局称猥亵女孩老师已降最低等级",
+      "onboard_time": 1776222380,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575076,
+      "num": 1065437,
+      "word": "神仙肉",
+      "onboard_time": 1776221720,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 546693,
@@ -91,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413828,
+      "num": 413828,
+      "word": "于正为吴谨言许凯宣传新剧",
+      "onboard_time": 1776222860,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411952,
       "num": 411952,
       "word": "特朗普称对伊朗战争结束",
@@ -99,16 +131,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 408985,
-      "num": 1065437,
-      "word": "神仙肉",
-      "onboard_time": 1776221720,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 406729,
-      "num": 182506,
+      "num": 188813,
       "word": "孙颖莎代言白象",
       "onboard_time": 1776222919,
       "rank": 17,
@@ -144,6 +168,14 @@
       "word": "云南泼水节车前喷水小鸡袭击路人",
       "onboard_time": 1776217100,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376845,
+      "num": 376845,
+      "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+      "onboard_time": 1776223699,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -203,11 +235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304649,
-      "num": 304649,
-      "word": "军工人员疯狂泄密却被开空头支票",
-      "onboard_time": 1776222019,
-      "rank": 7,
+      "raw_hot": 293438,
+      "num": 190914,
+      "word": "卫健委回应卫生院用杆秤称新生儿",
+      "onboard_time": 1776220700,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -275,27 +307,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182952,
-      "num": 182952,
+      "raw_hot": 187841,
+      "num": 187841,
       "word": "张伦硕说钟丽缇把财产给女儿没意见",
       "onboard_time": 1776216141,
       "rank": 16,
       "category": "综艺"
     },
     {
-      "raw_hot": 171231,
-      "num": 171231,
-      "word": "教体局称猥亵女孩老师已降最低等级",
-      "onboard_time": 1776222380,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166739,
-      "num": 166739,
-      "word": "卫健委回应卫生院用杆秤称新生儿",
-      "onboard_time": 1776220700,
-      "rank": 21,
+      "raw_hot": 166439,
+      "num": 166439,
+      "word": "尽量别用微波炉加热液体",
+      "onboard_time": 1776222019,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -419,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125944,
+      "num": 125944,
+      "word": "4种牙病可能跟血糖高有关",
+      "onboard_time": 1776224001,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125649,
       "num": 125649,
       "word": "减脂水果从夯到拉",
@@ -499,20 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106536,
-      "num": 106536,
-      "word": "于正为吴谨言许凯宣传新剧",
-      "onboard_time": 1776222860,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 108240,
+      "num": 108240,
+      "word": "警察不帮忙管娃男子3h报警47次",
+      "onboard_time": 1776223340,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 103905,
-      "num": 103905,
-      "word": "尽量别用微波炉加热液体",
-      "onboard_time": 1776222019,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 106900,
+      "num": 106900,
+      "word": "王健林孙喜双等需支付超38亿元",
+      "onboard_time": 1776220999,
+      "rank": 32,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 106183,
+      "num": 106183,
+      "word": "京东集团涨近6%",
+      "onboard_time": 1776224661,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 103719,
@@ -571,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96116,
-      "num": 96116,
-      "word": "王健林孙喜双等需支付超38亿元",
-      "onboard_time": 1776220999,
-      "rank": 32,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 95730,
       "num": 104538,
       "word": "尹锡悦夫妇法庭相见细节曝光",
@@ -635,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91976,
+      "num": 91976,
+      "word": "黄金跌破4840美元关口",
+      "onboard_time": 1776223820,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89403,
       "num": 107440,
       "word": "谢娜要每天发一首发行过的歌",
@@ -665,6 +705,30 @@
       "onboard_time": 1776206116,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85670,
+      "num": 170001,
+      "word": "班主任猥亵女学生后竟转岗后勤不合法规",
+      "onboard_time": 1776224420,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85582,
+      "num": 85582,
+      "word": "凤不栖开机",
+      "onboard_time": 1776224601,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83699,
+      "num": 83699,
+      "word": "牙周病是糖尿病第六大并发症",
+      "onboard_time": 1776223761,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80672,
@@ -705,6 +769,14 @@
       "onboard_time": 1776221239,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78310,
+      "num": 78310,
+      "word": "突然相信了命运的推背感",
+      "onboard_time": 1776224301,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 77809,
@@ -771,6 +843,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72742,
+      "num": 72742,
+      "word": "玲娜贝儿到了山东都长高了",
+      "onboard_time": 1776223281,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72410,
+      "num": 72410,
+      "word": "项羽当年是缺创可贴吗",
+      "onboard_time": 1776224900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71727,
       "num": 124569,
       "word": "糖尿病与牙周炎双向影响",
@@ -817,6 +905,22 @@
       "onboard_time": 1776221061,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68202,
+      "num": 68202,
+      "word": "你是不是在荷叶上救过一条鱼",
+      "onboard_time": 1776224900,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67175,
+      "num": 67175,
+      "word": "间谍伪装旅行博主被大学生识破",
+      "onboard_time": 1776224780,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66512,
@@ -995,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40513,
+      "num": 126121,
+      "word": "中方坚决反对英方排除中国产品",
+      "onboard_time": 1776224661,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39530,
       "num": 676155,
       "word": "全民国家安全教育日",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1776192914,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20630,
+      "num": 645784,
+      "word": "第十三届中国网络视听大会",
+      "onboard_time": 1776218359,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20607,
