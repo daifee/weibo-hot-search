@@ -1,0 +1,410 @@
+{
+  "runTime": 1776233922244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443731,
+        "num": 1070996,
+        "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+        "onboard_time": 1776223699,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395516,
+        "num": 768914,
+        "word": "出生4天被秤砣砸中女婴父亲发声",
+        "onboard_time": 1776227661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20765,
+        "num": 606273,
+        "word": "全民国家安全教育日",
+        "onboard_time": 1776222260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486598,
+        "num": 486598,
+        "word": "李小冉 舞蹈界失去了一个无关紧要的人",
+        "onboard_time": 1776226282,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439382,
+        "num": 439382,
+        "word": "霍尔木兹堵不住中国",
+        "onboard_time": 1776229402,
+        "rank": 4,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 381840,
+        "num": 381840,
+        "word": "李昀锐关晓彤牵手剧宣",
+        "onboard_time": 1776228143,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308723,
+        "num": 308723,
+        "word": "婚事谈崩男子杀害怀孕女友一家3口",
+        "onboard_time": 1776232039,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289291,
+        "num": 289291,
+        "word": "全网第一个装植物人的婆婆",
+        "onboard_time": 1776226700,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "你以为吃的是素菜其实全是油脂",
+        "onboard_time": 1776220700,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141766,
+        "num": 141766,
+        "word": "雷军会见阿布扎比王储",
+        "onboard_time": 1776228681,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 825690,
+        "num": 139893,
+        "word": "孙红雷连夜关闭了人脸支付",
+        "onboard_time": 1776227721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723131,
+        "num": 139011,
+        "word": "魏晨儿子都这么大了",
+        "onboard_time": 1776225561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310486,
+        "num": 137113,
+        "word": "安赛龙宣布退役",
+        "onboard_time": 1776231141,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365052,
+        "num": 132900,
+        "word": "森碟18岁了",
+        "onboard_time": 1776225801,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311980,
+        "num": 131997,
+        "word": "脱口秀演员曝王阳早年遭职场霸凌",
+        "onboard_time": 1776231441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243122,
+        "num": 128373,
+        "word": "遭班主任猥亵15岁女生讲述经过",
+        "onboard_time": 1776229461,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273615,
+        "num": 126028,
+        "word": "画梦录阵容官宣",
+        "onboard_time": 1776227481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257560,
+        "num": 124599,
+        "word": "文彩元6月结婚",
+        "onboard_time": 1776230782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218624,
+        "num": 123118,
+        "word": "B太帮扶大山女孩用苹果手机",
+        "onboard_time": 1776229821,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20465,
+        "num": 119802,
+        "word": "超2400万伊朗人注册为伊朗捐躯",
+        "onboard_time": 1776232880,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207610,
+        "num": 116656,
+        "word": "班主任开房猥亵学生为何只是行政处罚",
+        "onboard_time": 1776230540,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 203802,
+        "num": 115033,
+        "word": "法国殖民时期掠夺的文物将归还原国",
+        "onboard_time": 1776229761,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154277,
+        "num": 112257,
+        "word": "伊朗总统质问美国凭什么攻击伊朗",
+        "onboard_time": 1776230840,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112045,
+        "num": 112045,
+        "word": "男子每天只睡2小时1个月后想轻生",
+        "onboard_time": 1776228261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102980,
+        "num": 102980,
+        "word": "阚清子腰伤复发",
+        "onboard_time": 1776229042,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102515,
+        "num": 102515,
+        "word": "张凌赫环保纪录片全素颜",
+        "onboard_time": 1776230482,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100002,
+        "num": 100002,
+        "word": "女司机飙车险撞人后在车内笑",
+        "onboard_time": 1776230121,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99863,
+        "num": 99863,
+        "word": "女子生产坚持不打无痛老公苦苦哀求",
+        "onboard_time": 1776215420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95871,
+        "num": 95871,
+        "word": "神仙肉",
+        "onboard_time": 1776221720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95270,
+        "num": 95270,
+        "word": "杨瀚森征战NBA季后赛",
+        "onboard_time": 1776232102,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 94494,
+        "word": "张雪回应交警打鸡血质问",
+        "onboard_time": 1776232941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93636,
+        "num": 93636,
+        "word": "伊朗放重磅信号",
+        "onboard_time": 1776232702,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91113,
+        "num": 91113,
+        "word": "阿夫迪亚绝杀太阳",
+        "onboard_time": 1776231141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87501,
+        "num": 87501,
+        "word": "女子把生姜当水果吃每日1盆",
+        "onboard_time": 1776211581,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87450,
+        "num": 87450,
+        "word": "TFBOYS十二周年",
+        "onboard_time": 1776216559,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86912,
+        "num": 86912,
+        "word": "泼水节不能变成骚扰者的狂欢",
+        "onboard_time": 1776231980,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84328,
+        "num": 84328,
+        "word": "于正为吴谨言许凯宣传新剧",
+        "onboard_time": 1776222860,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48515,
+        "num": 80648,
+        "word": "杨幂的这句晚安好梦能听一百遍",
+        "onboard_time": 1776231141,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79103,
+        "num": 79103,
+        "word": "果然谁都拒绝不了情绪价值",
+        "onboard_time": 1776230660,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29981,
+        "num": 78247,
+        "word": "18部影片定档五一档",
+        "onboard_time": 1776232822,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84303,
+        "num": 78245,
+        "word": "10年前的孟子义",
+        "onboard_time": 1776210440,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78236,
+        "num": 78236,
+        "word": "睡墓碑旁女孩爸爸发声",
+        "onboard_time": 1776233480,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77325,
+        "num": 77325,
+        "word": "项羽当年是缺创可贴吗",
+        "onboard_time": 1776224900,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75925,
+        "num": 75925,
+        "word": "军工人员疯狂泄密却被开空头支票",
+        "onboard_time": 1776222019,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72239,
+        "num": 72239,
+        "word": "阿夫迪亚41分",
+        "onboard_time": 1776233720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70784,
+        "num": 70784,
+        "word": "为什么凉拌菜不能当减脂餐",
+        "onboard_time": 1776229641,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70500,
+        "num": 70500,
+        "word": "哈药股份2连板",
+        "onboard_time": 1776233842,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68585,
+        "num": 68585,
+        "word": "KPL",
+        "onboard_time": 1776227782,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66554,
+        "num": 66554,
+        "word": "史上最受宠小孩的金钗美了1400年",
+        "onboard_time": 1776233600,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45320,
+        "num": 63143,
+        "word": "苹果官方发文提醒",
+        "onboard_time": 1776216320,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这两场会见传递一种声音#"
+    }
+  }
+}
