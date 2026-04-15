@@ -1,0 +1,410 @@
+{
+  "runTime": 1776247063822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 785816,
+        "num": 1125730,
+        "word": "骗B太大山女孩被百万网红长期资助",
+        "onboard_time": 1776243741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248046,
+        "num": 815372,
+        "word": "第1天入职第2天就出国",
+        "onboard_time": 1776238101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19005,
+        "num": 645813,
+        "word": "家国长安宁全民共守护",
+        "onboard_time": 1776243860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410363,
+        "num": 410363,
+        "word": "我旅游不跟三种人出去",
+        "onboard_time": 1776241580,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385079,
+        "num": 385079,
+        "word": "谢娜演唱会门票秒罄",
+        "onboard_time": 1776236120,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265660,
+        "num": 265660,
+        "word": "钟汉良居然抱过小时候的郭晓婷",
+        "onboard_time": 1776240320,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242194,
+        "num": 242194,
+        "word": "2026中国大学排名",
+        "onboard_time": 1776237261,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221146,
+        "num": 221146,
+        "word": "灵隐寺严正声明",
+        "onboard_time": 1776245361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197816,
+        "num": 197816,
+        "word": "王者荣耀",
+        "onboard_time": 1776234920,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "俄方提出帮助中国弥补能源短缺",
+        "onboard_time": 1776245480,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600032,
+        "num": 189676,
+        "word": "罗志祥举日期为自己辟谣",
+        "onboard_time": 1776241520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490908,
+        "num": 184685,
+        "word": "网红炫迈妹子被猫误伤毁容",
+        "onboard_time": 1776244460,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343762,
+        "num": 177949,
+        "word": "北京文旅一觉醒来天塌了",
+        "onboard_time": 1776243921,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235291,
+        "num": 170324,
+        "word": "曾沛慈 毛巾包头",
+        "onboard_time": 1776242181,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219994,
+        "num": 164104,
+        "word": "痞幼胖了17斤",
+        "onboard_time": 1776238041,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161225,
+        "num": 161225,
+        "word": "郑丽文访陆返台后真情流露",
+        "onboard_time": 1776242721,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195229,
+        "num": 161183,
+        "word": "何润东接上王者荣耀商务了",
+        "onboard_time": 1776242721,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 154743,
+        "num": 160386,
+        "word": "霍尔木兹堵不住中国",
+        "onboard_time": 1776229402,
+        "rank": 17,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 38854,
+        "num": 159022,
+        "word": "男子半夜打47次110让警察帮管儿子",
+        "onboard_time": 1776244340,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17032,
+        "num": 159005,
+        "word": "泰国3岁男童被20岁继父虐待致死",
+        "onboard_time": 1776245121,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188108,
+        "num": 157726,
+        "word": "孙红雷连夜关闭了人脸支付",
+        "onboard_time": 1776227721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80094,
+        "num": 157490,
+        "word": "小米上线电池升级服务",
+        "onboard_time": 1776246741,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 368099,
+        "num": 156569,
+        "word": "叶舒华ins评论区",
+        "onboard_time": 1776244100,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231239,
+        "num": 155456,
+        "word": "姚安娜代言华为",
+        "onboard_time": 1776246379,
+        "rank": 23,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 133549,
+        "num": 154677,
+        "word": "男子杀害怀孕女友全家被判死刑",
+        "onboard_time": 1776244340,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47240,
+        "num": 154063,
+        "word": "vivo长焦下的鸟类图鉴",
+        "onboard_time": 1776243981,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182645,
+        "num": 153413,
+        "word": "魏晨儿子都这么大了",
+        "onboard_time": 1776225561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144107,
+        "num": 152640,
+        "word": "何润东cos项羽",
+        "onboard_time": 1776233600,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 122981,
+        "num": 151822,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89247,
+        "num": 150919,
+        "word": "李昀锐关晓彤牵手剧宣",
+        "onboard_time": 1776228143,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120595,
+        "num": 150776,
+        "word": "肝癌症状常常被误以为是太累",
+        "onboard_time": 1776239661,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118688,
+        "num": 149698,
+        "word": "莫氏鸡煲第1家分店五一前开业",
+        "onboard_time": 1776243441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79013,
+        "num": 148712,
+        "word": "蜜语纪",
+        "onboard_time": 1776241941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109854,
+        "num": 148013,
+        "word": "美军承认价值16亿无人机坠毁",
+        "onboard_time": 1776243921,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104880,
+        "num": 147213,
+        "word": "皮蛋黄瓜汤",
+        "onboard_time": 1776244581,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103430,
+        "num": 146692,
+        "word": "张婉婷自曝妈妈不是亲生母亲",
+        "onboard_time": 1776237320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97354,
+        "num": 145810,
+        "word": "迪丽热巴谈性格敏感",
+        "onboard_time": 1776244282,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97124,
+        "num": 145100,
+        "word": "A股",
+        "onboard_time": 1776235641,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42422,
+        "num": 144583,
+        "word": "泼水节2女子遭围喷警方已介入",
+        "onboard_time": 1776246441,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47538,
+        "num": 143638,
+        "word": "出生4天被秤砣砸中女婴3次尿血",
+        "onboard_time": 1776246801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89590,
+        "num": 143122,
+        "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+        "onboard_time": 1776223699,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83002,
+        "num": 142167,
+        "word": "首发叶舒华恋情者已道歉",
+        "onboard_time": 1776240441,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75629,
+        "num": 141571,
+        "word": "上万美军封锁霍尔木兹海峡",
+        "onboard_time": 1776246681,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71008,
+        "num": 140706,
+        "word": "为什么肝癌一发现就多是晚期",
+        "onboard_time": 1776246261,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 140049,
+        "word": "谢娜回应很多朋友没抢上票",
+        "onboard_time": 1776246981,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65617,
+        "num": 139277,
+        "word": "三星阔屏三折叠手机曝光",
+        "onboard_time": 1776242241,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65361,
+        "num": 139006,
+        "word": "特朗普震惊意大利总理不帮美国",
+        "onboard_time": 1776237920,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67553,
+        "num": 137768,
+        "word": "蜜语纪登顶",
+        "onboard_time": 1776245421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56442,
+        "num": 137299,
+        "word": "李小冉 舞蹈界失去了一个无关紧要的人",
+        "onboard_time": 1776226282,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64166,
+        "num": 136602,
+        "word": "原来小猫是这样进来的",
+        "onboard_time": 1776247039,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林举行会谈#"
+    }
+  }
+}
