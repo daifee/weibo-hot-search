@@ -1,0 +1,410 @@
+{
+  "runTime": 1776294617086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 311211,
+        "num": 669950,
+        "word": "80万开店倒闭又投40万开店小伙发声",
+        "onboard_time": 1776266660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177843,
+        "num": 483106,
+        "word": "多条东南亚航线突然取消原因曝光",
+        "onboard_time": 1776272417,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15859,
+        "num": 369346,
+        "word": "广交会增设智能穿戴等9大专区",
+        "onboard_time": 1776256101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277627,
+        "num": 277627,
+        "word": "法国将不义之财归还被抢掠的中国",
+        "onboard_time": 1776281114,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158848,
+        "num": 158848,
+        "word": "阚清子孙怡还没和好吗",
+        "onboard_time": 1776258680,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156539,
+        "num": 156539,
+        "word": "24岁抗癌博主徐平安去世",
+        "onboard_time": 1776267020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129447,
+        "num": 129447,
+        "word": "伊朗美制通信设备遇袭时集体失灵",
+        "onboard_time": 1776271219,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127872,
+        "num": 127872,
+        "word": "何润东说翻红后接到很多工作邀约",
+        "onboard_time": 1776255380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44600,
+        "num": 127502,
+        "word": "阿森纳0比0葡萄牙体育",
+        "onboard_time": 1776294558,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41477,
+        "num": 127238,
+        "word": "万能抑制食欲法",
+        "onboard_time": 1776256824,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214001,
+        "num": 126336,
+        "word": "男子遭开门杀碾压身亡目击者发声",
+        "onboard_time": 1776267320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107064,
+        "num": 125732,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103201,
+        "num": 125409,
+        "word": "尹锡悦笑看金建希却惨遭无视",
+        "onboard_time": 1776267800,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97742,
+        "num": 124854,
+        "word": "田曦薇张凌赫庆功宴小动作",
+        "onboard_time": 1776260723,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94711,
+        "num": 124337,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24361,
+        "num": 123343,
+        "word": "KPL夏季赛死亡三组",
+        "onboard_time": 1776288074,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90006,
+        "num": 122941,
+        "word": "8岁女童化疗前冻存卵巢组织",
+        "onboard_time": 1776263421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85851,
+        "num": 122625,
+        "word": "伊朗警告美持续封锁是破坏停火前奏",
+        "onboard_time": 1776273557,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85321,
+        "num": 121903,
+        "word": "被臭味yue上热搜的记者发声",
+        "onboard_time": 1776266540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84918,
+        "num": 121220,
+        "word": "业内人士对肖战团队的评价",
+        "onboard_time": 1776274337,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75943,
+        "num": 120946,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74310,
+        "num": 120184,
+        "word": "by2空中劈叉直接给我看傻了",
+        "onboard_time": 1776259522,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72622,
+        "num": 119375,
+        "word": "母亲喊女儿吃饭才惊觉其已遇害530天",
+        "onboard_time": 1776258202,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71618,
+        "num": 118711,
+        "word": "警方回应15岁女孩遭班主任猥亵",
+        "onboard_time": 1776268820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65478,
+        "num": 118225,
+        "word": "连婚纱都遮不住她的律动",
+        "onboard_time": 1776254901,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50611,
+        "num": 117865,
+        "word": "樊振东英文告别主场球迷",
+        "onboard_time": 1776294256,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50452,
+        "num": 116944,
+        "word": "31岁男子滑旱冰摔倒去世",
+        "onboard_time": 1776263302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48077,
+        "num": 116727,
+        "word": "婴儿哭闹20分钟男乘客30秒哄好",
+        "onboard_time": 1776257302,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44351,
+        "num": 115884,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6470,
+        "num": 115236,
+        "word": "做家务的机器人让外国人疯狂心动",
+        "onboard_time": 1776294018,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44111,
+        "num": 114717,
+        "word": "这个世界总有人在缝缝补补",
+        "onboard_time": 1776268520,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43848,
+        "num": 114365,
+        "word": "郑丽文返台后穿大陆定制中山装亮相",
+        "onboard_time": 1776259224,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43087,
+        "num": 113870,
+        "word": "全国首例试管婴儿享工亡抚恤金",
+        "onboard_time": 1776267920,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40845,
+        "num": 113388,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40358,
+        "num": 112455,
+        "word": "巴基斯坦代表团抵达伊朗",
+        "onboard_time": 1776291736,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39226,
+        "num": 112064,
+        "word": "当地调查B太称在大凉山帮扶被骗",
+        "onboard_time": 1776294076,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36892,
+        "num": 111697,
+        "word": "警方回应开门杀致1人被碾压身亡",
+        "onboard_time": 1776272417,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35001,
+        "num": 110660,
+        "word": "你好星期六",
+        "onboard_time": 1776271938,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34180,
+        "num": 110042,
+        "word": "法国涉嫌非法获取文物清单将公布",
+        "onboard_time": 1776293237,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32107,
+        "num": 109777,
+        "word": "北京国际电影节阵容",
+        "onboard_time": 1776277935,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31022,
+        "num": 109098,
+        "word": "班主任开房猥亵学生需要提级调查",
+        "onboard_time": 1776275296,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 108616,
+        "word": "印度一男子举铁管赶猴碰高压线身亡",
+        "onboard_time": 1776262582,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30237,
+        "num": 108184,
+        "word": "这一刻他就是全车厢的神",
+        "onboard_time": 1776270199,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29649,
+        "num": 107177,
+        "word": "骑车遭开门杀致1人被碾压身亡",
+        "onboard_time": 1776260602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29342,
+        "num": 106856,
+        "word": "美伊原则上同意延长停火",
+        "onboard_time": 1776262283,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28895,
+        "num": 106518,
+        "word": "翠花 自如老师",
+        "onboard_time": 1776272118,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 28666,
+        "num": 105501,
+        "word": "自如老师 侵权",
+        "onboard_time": 1776269120,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28004,
+        "num": 104833,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1776272417,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26705,
+        "num": 104313,
+        "word": "贺峻霖完全青春男大",
+        "onboard_time": 1776267320,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31028,
+        "num": 103897,
+        "word": "央视称小鹏GX为科技大成之作",
+        "onboard_time": 1776256401,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇同苏林夫妇亲切话别#"
+    }
+  }
+}
