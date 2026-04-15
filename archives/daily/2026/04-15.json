@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776233922244,
+  "endTime": 1776240850065,
   "band_list": [
     {
       "raw_hot": 920174,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796191,
+      "num": 648187,
+      "word": "谢娜演唱会门票秒罄",
+      "onboard_time": 1776236120,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 728468,
       "num": 188355,
       "word": "魏晨儿子都这么大了",
       "onboard_time": 1776225561,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692204,
+      "num": 144060,
+      "word": "74岁老太杀害73岁老太后曾误导办案",
+      "onboard_time": 1776237801,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 689983,
@@ -49,6 +65,14 @@
       "onboard_time": 1776222380,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 612166,
+      "num": 612166,
+      "word": "2026中国大学排名",
+      "onboard_time": 1776237261,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 575076,
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345665,
+      "num": 140344,
+      "word": "痞幼胖了17斤",
+      "onboard_time": 1776238041,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 344833,
       "num": 124790,
       "word": "朱珠把女儿当女士来养",
@@ -355,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281513,
+      "num": 131099,
+      "word": "张婉婷自曝妈妈不是亲生母亲",
+      "onboard_time": 1776237320,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275851,
+      "num": 275851,
+      "word": "王者荣耀",
+      "onboard_time": 1776234920,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270369,
       "num": 180304,
       "word": "B太帮扶大山女孩用苹果手机",
@@ -411,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213267,
+      "num": 108003,
+      "word": "何润东cos项羽",
+      "onboard_time": 1776233600,
+      "rank": 19,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 212103,
       "num": 702008,
       "word": "五一飞往东南亚航班大规模取消",
@@ -425,6 +481,14 @@
       "onboard_time": 1776229761,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200484,
+      "num": 135945,
+      "word": "A股",
+      "onboard_time": 1776235641,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 190499,
@@ -451,12 +515,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177364,
+      "num": 741392,
+      "word": "张雪回应交警打鸡血质问",
+      "onboard_time": 1776232941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173677,
       "num": 173677,
       "word": "雷军会见阿布扎比王储",
       "onboard_time": 1776228681,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 171653,
+      "num": 171653,
+      "word": "第1天入职第2天就出国",
+      "onboard_time": 1776238101,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167833,
+      "num": 107490,
+      "word": "钟汉良居然抱过小时候的郭晓婷",
+      "onboard_time": 1776240320,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 166439,
@@ -489,6 +577,14 @@
       "onboard_time": 1776183201,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156087,
+      "num": 106387,
+      "word": "马嘉祺点到发现重名",
+      "onboard_time": 1776238581,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 154277,
@@ -539,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144989,
+      "num": 144989,
+      "word": "成都凶宅第三次拍卖拍出98.6万",
+      "onboard_time": 1776237500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143086,
       "num": 143086,
       "word": "蜜语纪热度",
@@ -579,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130880,
+      "num": 130880,
+      "word": "民政局回应博主帮扶凉山女孩",
+      "onboard_time": 1776239420,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127321,
       "num": 113249,
       "word": "阿Sa被名医诊断出轻微中风",
@@ -603,20 +715,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125764,
-      "num": 94494,
-      "word": "张雪回应交警打鸡血质问",
-      "onboard_time": 1776232941,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125649,
       "num": 125649,
       "word": "减脂水果从夯到拉",
       "onboard_time": 1776211400,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124543,
+      "num": 82687,
+      "word": "文章面馆周边餐厅店长发声",
+      "onboard_time": 1776237980,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 123813,
@@ -699,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110155,
+      "num": 104691,
+      "word": "肝癌症状常常被误以为是太累",
+      "onboard_time": 1776239661,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108756,
       "num": 108756,
       "word": "阿夫迪亚绝杀太阳",
@@ -713,6 +833,14 @@
       "onboard_time": 1776223340,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108030,
+      "num": 108030,
+      "word": "腾讯视频将发布AI长剧",
+      "onboard_time": 1776240142,
+      "rank": 18,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 107406,
@@ -745,6 +873,14 @@
       "onboard_time": 1776230121,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 104284,
+      "num": 104284,
+      "word": "哪个艺人授权AI了",
+      "onboard_time": 1776239720,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 103719,
@@ -785,6 +921,14 @@
       "onboard_time": 1776189495,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99353,
+      "num": 82711,
+      "word": "特朗普震惊意大利总理不帮美国",
+      "onboard_time": 1776237920,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97653,
@@ -835,6 +979,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95042,
+      "num": 82597,
+      "word": "金立创始人被曝在印尼卖家具",
+      "onboard_time": 1776234261,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 94933,
+      "num": 94933,
+      "word": "五一档电影",
+      "onboard_time": 1776238519,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 94726,
+      "num": 82522,
+      "word": "TFBOYS的前缀还在",
+      "onboard_time": 1776238642,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94456,
       "num": 96270,
       "word": "33岁抗癌博主去世",
@@ -867,12 +1035,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93742,
+      "num": 82486,
+      "word": "向太全款买地写郭碧婷名下",
+      "onboard_time": 1776239180,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93636,
       "num": 93636,
       "word": "伊朗放重磅信号",
       "onboard_time": 1776232702,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93259,
+      "num": 82354,
+      "word": "首发叶舒华恋情者已道歉",
+      "onboard_time": 1776240441,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 92768,
@@ -889,6 +1073,14 @@
       "onboard_time": 1776223820,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90278,
+      "num": 82401,
+      "word": "曝爱奇艺与深度合作艺人签约AI授权",
+      "onboard_time": 1776235641,
+      "rank": 35,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 89403,
@@ -961,6 +1153,22 @@
       "onboard_time": 1776223761,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82760,
+      "num": 82760,
+      "word": "罗志祥演唱会",
+      "onboard_time": 1776236000,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 82337,
+      "num": 82337,
+      "word": "阿吉向B太承认虚构苦情人设",
+      "onboard_time": 1776238642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80672,
@@ -1075,12 +1283,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75921,
+      "num": 75921,
+      "word": "女子拧断30多克金饰不买不赔",
+      "onboard_time": 1776239780,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75165,
+      "num": 75165,
+      "word": "加拿大等10国联合声明",
+      "onboard_time": 1776239241,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74959,
       "num": 74959,
       "word": "被AI不雅视频造黄谣大学生发声",
       "onboard_time": 1776217819,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74811,
+      "num": 74811,
+      "word": "很少用冷白皮形容一块冰",
+      "onboard_time": 1776239300,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 74621,
@@ -1113,6 +1345,22 @@
       "onboard_time": 1776233720,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72025,
+      "num": 72025,
+      "word": "爱奇艺的艺人有福了",
+      "onboard_time": 1776239960,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71856,
+      "num": 71750,
+      "word": "女装模特能不能多用些普通人",
+      "onboard_time": 1776237080,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 71727,
@@ -1169,6 +1417,14 @@
       "onboard_time": 1776182120,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69611,
+      "num": 104912,
+      "word": "蒋奇明一年了还没出戏",
+      "onboard_time": 1776236720,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 69602,
@@ -1291,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64622,
+      "num": 71709,
+      "word": "原来下雨天睡得香是这个香啊",
+      "onboard_time": 1776235581,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64347,
       "num": 64347,
       "word": "鲍尔绝杀热火",
@@ -1305,6 +1569,14 @@
       "onboard_time": 1776155181,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61397,
+      "num": 71347,
+      "word": "谢娜演唱会",
+      "onboard_time": 1776234680,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 61140,
@@ -1411,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43510,
+      "num": 657980,
+      "word": "网民平均每人每天刷视频超200分钟",
+      "onboard_time": 1776237681,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43061,
       "num": 63581,
       "word": "苹果回应升级iOS系统后耗电快",
@@ -1441,6 +1721,14 @@
       "onboard_time": 1776222260,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38591,
+      "num": 70777,
+      "word": "国台办点赞乘风2026",
+      "onboard_time": 1776235461,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 37661,
@@ -1489,6 +1777,14 @@
       "onboard_time": 1776232822,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28901,
+      "num": 75265,
+      "word": "男子怀抱婴儿在大桥上骑平衡车",
+      "onboard_time": 1776240080,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26886,
@@ -1601,6 +1897,14 @@
       "onboard_time": 1776186017,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16720,
+      "num": 75173,
+      "word": "苏林到访清华大学",
+      "onboard_time": 1776240621,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16382,
