@@ -1,0 +1,410 @@
+{
+  "runTime": 1776266233061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 308418,
+        "num": 1049346,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199922,
+        "num": 751542,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27926,
+        "num": 605218,
+        "word": "广交会增设智能穿戴等9大专区",
+        "onboard_time": 1776256101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 753091,
+        "num": 580023,
+        "word": "阚清子孙怡还没和好吗",
+        "onboard_time": 1776258680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454065,
+        "num": 454065,
+        "word": "是最脏排行榜不是必吃榜",
+        "onboard_time": 1776260063,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280749,
+        "num": 280749,
+        "word": "田曦薇张凌赫庆功宴小动作",
+        "onboard_time": 1776260723,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158644,
+        "num": 158644,
+        "word": "B太回应曝光大山女孩事件",
+        "onboard_time": 1776260001,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158303,
+        "num": 158303,
+        "word": "DYG 误闯天家",
+        "onboard_time": 1776264682,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150688,
+        "num": 150688,
+        "word": "婴儿哭闹20分钟男乘客30秒哄好",
+        "onboard_time": 1776257302,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112501,
+        "num": 148576,
+        "word": "万能抑制食欲法",
+        "onboard_time": 1776256824,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 4321550,
+        "num": 143626,
+        "word": "丝芭总裁王子杰",
+        "onboard_time": 1776263242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428080,
+        "num": 142048,
+        "word": "骑车遭开门杀致1人被碾压身亡",
+        "onboard_time": 1776260602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289835,
+        "num": 138167,
+        "word": "唐艺昕产后两个月没有吃过米饭",
+        "onboard_time": 1776261560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252638,
+        "num": 134158,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214017,
+        "num": 130070,
+        "word": "机器人切除肿瘤不彻底患者去世",
+        "onboard_time": 1776258802,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199690,
+        "num": 126998,
+        "word": "白鹿蕾丝露肩",
+        "onboard_time": 1776262103,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50072,
+        "num": 122561,
+        "word": "特斯拉AI5芯片流片",
+        "onboard_time": 1776263242,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122258,
+        "num": 122258,
+        "word": "母亲喊女儿吃饭才惊觉其已遇害530天",
+        "onboard_time": 1776258202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 121347,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11794,
+        "num": 120538,
+        "word": "客服称不建议合买彩票",
+        "onboard_time": 1776265281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307929,
+        "num": 118933,
+        "word": "何润东谈张凌赫被评粉底液将军",
+        "onboard_time": 1776259281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161870,
+        "num": 118890,
+        "word": "姚安娜代言华为",
+        "onboard_time": 1776246379,
+        "rank": 21,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 117825,
+        "num": 117825,
+        "word": "百万网红称取消对骗B太大山女孩资助",
+        "onboard_time": 1776262643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145356,
+        "num": 117771,
+        "word": "刘耀文空降",
+        "onboard_time": 1776258563,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141261,
+        "num": 117734,
+        "word": "谈莉娜孕35周胎位不正产检落泪",
+        "onboard_time": 1776262823,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106178,
+        "num": 117664,
+        "word": "8岁女童化疗前冻存卵巢组织",
+        "onboard_time": 1776263421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95075,
+        "num": 117580,
+        "word": "郭晶晶现身沃尔沃99周年庆典",
+        "onboard_time": 1776264862,
+        "rank": 26,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 117526,
+        "num": 117526,
+        "word": "by2空中劈叉直接给我看傻了",
+        "onboard_time": 1776259522,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88499,
+        "num": 113057,
+        "word": "印度一男子举铁管赶猴碰高压线身亡",
+        "onboard_time": 1776262582,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46252,
+        "num": 111777,
+        "word": "美伊原则上同意延长停火",
+        "onboard_time": 1776262283,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111300,
+        "num": 111300,
+        "word": "何润东说翻红后接到很多工作邀约",
+        "onboard_time": 1776255380,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103722,
+        "num": 103722,
+        "word": "曝宋宁峰近况",
+        "onboard_time": 1776254181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 90383,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88408,
+        "num": 88408,
+        "word": "朱一龙直播紧张到腿抖",
+        "onboard_time": 1776261624,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86131,
+        "num": 86131,
+        "word": "蓝莓价格卷疯了",
+        "onboard_time": 1776264142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86065,
+        "num": 86065,
+        "word": "郑丽文返台后穿大陆定制中山装亮相",
+        "onboard_time": 1776259224,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85036,
+        "num": 85036,
+        "word": "蜜语纪热度超过月鳞绮纪",
+        "onboard_time": 1776260123,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73166,
+        "num": 73166,
+        "word": "皮蛋黄瓜汤",
+        "onboard_time": 1776244581,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72757,
+        "num": 72757,
+        "word": "黄金还要折腾多久",
+        "onboard_time": 1776265940,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10712,
+        "num": 72020,
+        "word": "高压水枪违规泼水多部门已介入整治",
+        "onboard_time": 1776265342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71783,
+        "num": 71783,
+        "word": "俄方提出帮助中国弥补能源短缺",
+        "onboard_time": 1776245480,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70889,
+        "num": 70889,
+        "word": "唐禹哲承认逃兵役",
+        "onboard_time": 1776248001,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70461,
+        "num": 70461,
+        "word": "宁德时代拟300亿设立时代资源集团",
+        "onboard_time": 1776266183,
+        "rank": 42,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 67865,
+        "num": 67865,
+        "word": "31岁男子滑旱冰摔倒去世",
+        "onboard_time": 1776263302,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66544,
+        "num": 66544,
+        "word": "2026KPL夏季赛抽签结果",
+        "onboard_time": 1776264142,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46850,
+        "num": 66196,
+        "word": "曝年底旗舰手机将区分档位",
+        "onboard_time": 1776264503,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66122,
+        "num": 66122,
+        "word": "WBG战胜iG",
+        "onboard_time": 1776263482,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63862,
+        "num": 63862,
+        "word": "网红炫迈妹子被猫误伤毁容",
+        "onboard_time": 1776244460,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63086,
+        "num": 63086,
+        "word": "乙肝是肝癌的一大诱因",
+        "onboard_time": 1776263902,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59405,
+        "num": 63066,
+        "word": "十个勤天不年不节发视频",
+        "onboard_time": 1776260902,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇同苏林夫妇亲切话别#"
+    }
+  }
+}

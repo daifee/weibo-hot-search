@@ -1,7 +1,15 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776262316190,
+  "endTime": 1776266233061,
   "band_list": [
+    {
+      "raw_hot": 4321550,
+      "num": 143626,
+      "word": "丝芭总裁王子杰",
+      "onboard_time": 1776263242,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1316089,
       "num": 601153,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454065,
+      "num": 454065,
+      "word": "是最脏排行榜不是必吃榜",
+      "onboard_time": 1776260063,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451935,
       "num": 451935,
       "word": "钟汉良居然抱过小时候的郭晓婷",
@@ -289,6 +305,14 @@
       "onboard_time": 1776228143,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428080,
+      "num": 143431,
+      "word": "骑车遭开门杀致1人被碾压身亡",
+      "onboard_time": 1776260602,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426106,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309741,
-      "num": 309741,
-      "word": "是最脏排行榜不是必吃榜",
-      "onboard_time": 1776260063,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308723,
       "num": 308723,
       "word": "婚事谈崩男子杀害怀孕女友一家3口",
@@ -587,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297726,
-      "num": 143431,
-      "word": "骑车遭开门杀致1人被碾压身亡",
-      "onboard_time": 1776260602,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293438,
       "num": 190914,
       "word": "卫健委回应卫生院用杆秤称新生儿",
@@ -609,6 +617,14 @@
       "onboard_time": 1776258202,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289835,
+      "num": 138167,
+      "word": "唐艺昕产后两个月没有吃过米饭",
+      "onboard_time": 1776261560,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 289317,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 236096,
-      "num": 109267,
+      "num": 111300,
       "word": "何润东说翻红后接到很多工作邀约",
       "onboard_time": 1776255380,
       "rank": 30,
@@ -809,6 +825,14 @@
       "onboard_time": 1776235641,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199690,
+      "num": 126998,
+      "word": "白鹿蕾丝露肩",
+      "onboard_time": 1776262103,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197091,
@@ -908,11 +932,27 @@
     },
     {
       "raw_hot": 159879,
-      "num": 83107,
+      "num": 88408,
       "word": "朱一龙直播紧张到腿抖",
       "onboard_time": 1776261624,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158644,
+      "num": 158644,
+      "word": "B太回应曝光大山女孩事件",
+      "onboard_time": 1776260001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158303,
+      "num": 158303,
+      "word": "DYG 误闯天家",
+      "onboard_time": 1776264682,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 156885,
@@ -961,14 +1001,6 @@
       "onboard_time": 1776183740,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152738,
-      "num": 83074,
-      "word": "白鹿蕾丝露肩",
-      "onboard_time": 1776262103,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151520,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1776177683,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141261,
+      "num": 117734,
+      "word": "谈莉娜孕35周胎位不正产检落泪",
+      "onboard_time": 1776262823,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 140470,
@@ -1243,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117825,
+      "num": 117825,
+      "word": "百万网红称取消对骗B太大山女孩资助",
+      "onboard_time": 1776262643,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "卖不完的果切都去哪了",
@@ -1315,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108297,
-      "num": 81575,
-      "word": "唐艺昕产后两个月没有吃过米饭",
-      "onboard_time": 1776261560,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108240,
       "num": 108240,
       "word": "警察不帮忙管娃男子3h报警47次",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1776224661,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106178,
+      "num": 117664,
+      "word": "8岁女童化疗前冻存卵巢组织",
+      "onboard_time": 1776263421,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106027,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1776232102,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95075,
+      "num": 117580,
+      "word": "郭晶晶现身沃尔沃99周年庆典",
+      "onboard_time": 1776264862,
+      "rank": 26,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 95042,
@@ -1667,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88499,
+      "num": 113057,
+      "word": "印度一男子举铁管赶猴碰高压线身亡",
+      "onboard_time": 1776262582,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88320,
       "num": 95466,
       "word": "朴宝剑 费大厨",
@@ -1688,6 +1752,14 @@
       "word": "泼水节不能变成骚扰者的狂欢",
       "onboard_time": 1776231980,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 86131,
+      "word": "蓝莓价格卷疯了",
+      "onboard_time": 1776264142,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1720,6 +1792,14 @@
       "word": "凤不栖开机",
       "onboard_time": 1776224601,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85036,
+      "num": 85036,
+      "word": "蜜语纪热度超过月鳞绮纪",
+      "onboard_time": 1776260123,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1841,14 +1921,6 @@
       "onboard_time": 1776224301,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78252,
-      "num": 78252,
-      "word": "蜜语纪热度超过月鳞绮纪",
-      "onboard_time": 1776260123,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 78236,
@@ -1987,6 +2059,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 72757,
+      "num": 72757,
+      "word": "黄金还要折腾多久",
+      "onboard_time": 1776265940,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72742,
       "num": 72742,
       "word": "玲娜贝儿到了山东都长高了",
@@ -2075,6 +2155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70461,
+      "num": 70461,
+      "word": "宁德时代拟300亿设立时代资源集团",
+      "onboard_time": 1776266183,
+      "rank": 42,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 70038,
       "num": 93893,
       "word": "宋亚轩再多上几节课都大小脸了",
@@ -2145,6 +2233,14 @@
       "onboard_time": 1776224900,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67865,
+      "num": 67865,
+      "word": "31岁男子滑旱冰摔倒去世",
+      "onboard_time": 1776263302,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67766,
@@ -2219,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66544,
+      "num": 66544,
+      "word": "2026KPL夏季赛抽签结果",
+      "onboard_time": 1776264142,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 66512,
       "num": 101970,
       "word": "欧冠",
@@ -2241,6 +2345,14 @@
       "onboard_time": 1776182000,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66122,
+      "num": 66122,
+      "word": "WBG战胜iG",
+      "onboard_time": 1776263482,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 66089,
@@ -2331,8 +2443,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63086,
+      "num": 63086,
+      "word": "乙肝是肝癌的一大诱因",
+      "onboard_time": 1776263902,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61947,
-      "num": 74850,
+      "num": 111777,
       "word": "美伊原则上同意延长停火",
       "onboard_time": 1776262283,
       "rank": 45,
@@ -2368,14 +2488,6 @@
       "word": "峰学蔚来负责人回应公司近况",
       "onboard_time": 1776250161,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60321,
-      "num": 70618,
-      "word": "B太回应曝光大山女孩事件",
-      "onboard_time": 1776260001,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50072,
+      "num": 122561,
+      "word": "特斯拉AI5芯片流片",
+      "onboard_time": 1776263242,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49130,
       "num": 88815,
       "word": "苏新皓solo舞台全站第一",
@@ -2496,6 +2616,14 @@
       "word": "vivo长焦下的鸟类图鉴",
       "onboard_time": 1776243981,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 46850,
+      "num": 66196,
+      "word": "曝年底旗舰手机将区分档位",
+      "onboard_time": 1776264503,
+      "rank": 45,
       "category": "数码"
     },
     {
@@ -2881,6 +3009,22 @@
       "onboard_time": 1776189615,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11794,
+      "num": 120538,
+      "word": "客服称不建议合买彩票",
+      "onboard_time": 1776265281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10712,
+      "num": 72020,
+      "word": "高压水枪违规泼水多部门已介入整治",
+      "onboard_time": 1776265342,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2901,6 +3045,9 @@
     },
     {
       "word": "#习近平勉励中越青年#"
+    },
+    {
+      "word": "#习近平夫妇同苏林夫妇亲切话别#"
     }
   ]
 }

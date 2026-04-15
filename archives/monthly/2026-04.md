@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/15 22:11:56
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/15 23:17:13
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E6%9C%89%E5%A6%B9%E5%A6%B9%E4%BA%86%23" target="weibo">
 马立奥有妹妹了（热度：4371841）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%23" target="weibo">
+丝芭总裁王子杰（热度：4321550）
 </a>
 </li>
 
@@ -3423,6 +3429,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%9C%80%E8%84%8F%E6%8E%92%E8%A1%8C%E6%A6%9C%E4%B8%8D%E6%98%AF%E5%BF%85%E5%90%83%E6%A6%9C%23" target="weibo">
+是最脏排行榜不是必吃榜（热度：454065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4%E8%93%9D%E7%9A%AE%E4%B9%A6%E9%99%8D%E7%BA%A7%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%23" target="weibo">
 日本外交蓝皮书降级中日关系（热度：454035）
 </a>
@@ -3725,6 +3737,12 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2333%E5%B2%81%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%8E%BB%E4%B8%96%23" target="weibo">
 33岁抗癌博主去世（热度：428141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E9%81%AD%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B41%E4%BA%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
+骑车遭开门杀致1人被碾压身亡（热度：428080）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ Rookie和新女友一起逛街（热度：327597）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B%23" target="weibo">
-银行招聘被骂上热搜不能怪网友（热度：312214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E6%9B%9D%E7%8E%8B%E9%98%B3%E6%97%A9%E5%B9%B4%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%23" target="weibo">
-脱口秀演员曝王阳早年遭职场霸凌（热度：311980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23JDG%20DYG%23" target="weibo">
-JDG DYG（热度：311978）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6299,6 +6299,12 @@ JDG DYG（热度：311978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8B%89%E5%8A%B1%E4%B8%AD%E8%B6%8A%E9%9D%92%E5%B9%B4%23%23" target="weibo">
 #习近平勉励中越青年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87%E5%90%8C%E8%8B%8F%E6%9E%97%E5%A4%AB%E5%A6%87%E4%BA%B2%E5%88%87%E8%AF%9D%E5%88%AB%23%23" target="weibo">
+#习近平夫妇同苏林夫妇亲切话别#
 </a>
 </li>
 

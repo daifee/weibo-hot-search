@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/15 22:11:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/15 23:17:13
 </p>
 </blockquote>
 <p>
@@ -635,6 +635,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%85%A8%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
 李湘全平台账号被禁止关注（热度：4325889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%23" target="weibo">
+丝芭总裁王子杰（热度：4321550）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E8%B5%B7%E8%AF%89%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E6%89%BF%E5%88%B6%E6%96%B9%23" target="weibo">
 丝芭起诉月鳞绮纪承制方（热度：1939640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%AE%89%E5%B4%8E%20%E7%A5%A8%E6%95%B0%23" target="weibo">
-李小冉安崎 票数（热度：1934011）
 </a>
 </li>
 
