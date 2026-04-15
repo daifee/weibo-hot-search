@@ -1,10 +1,10 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776261693444,
+  "endTime": 1776262316190,
   "band_list": [
     {
-      "raw_hot": 1236704,
-      "num": 564088,
+      "raw_hot": 1316089,
+      "num": 601153,
       "word": "阚清子孙怡还没和好吗",
       "onboard_time": 1776258680,
       "rank": 3,
@@ -75,8 +75,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 644292,
-      "num": 1103086,
+      "raw_hot": 647780,
+      "num": 1103644,
       "word": "男子将好友骨灰撒高原梦到他说冷",
       "onboard_time": 1776258202,
       "rank": 0,
@@ -91,7 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 628224,
+      "raw_hot": 640020,
       "num": 126191,
       "word": "何润东谈张凌赫被评粉底液将军",
       "onboard_time": 1776259281,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 505656,
-      "num": 163465,
+      "num": 268620,
       "word": "姚安娜代言华为",
       "onboard_time": 1776246379,
       "rank": 23,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459708,
+      "num": 459708,
+      "word": "机器人切除肿瘤不彻底患者去世",
+      "onboard_time": 1776258802,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451935,
       "num": 451935,
       "word": "钟汉良居然抱过小时候的郭晓婷",
@@ -281,14 +289,6 @@
       "onboard_time": 1776228143,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427858,
-      "num": 427858,
-      "word": "机器人切除肿瘤不彻底患者去世",
-      "onboard_time": 1776258802,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426106,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309741,
+      "num": 309741,
+      "word": "是最脏排行榜不是必吃榜",
+      "onboard_time": 1776260063,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308723,
       "num": 308723,
       "word": "婚事谈崩男子杀害怀孕女友一家3口",
@@ -569,6 +577,22 @@
       "onboard_time": 1776248001,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298311,
+      "num": 298311,
+      "word": "田曦薇张凌赫庆功宴小动作",
+      "onboard_time": 1776260723,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297726,
+      "num": 143431,
+      "word": "骑车遭开门杀致1人被碾压身亡",
+      "onboard_time": 1776260602,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293438,
@@ -699,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237993,
-      "num": 133507,
-      "word": "田曦薇张凌赫庆功宴小动作",
-      "onboard_time": 1776260723,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237578,
       "num": 107394,
       "word": "朱一龙直播",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 236096,
-      "num": 100602,
+      "num": 109267,
       "word": "何润东说翻红后接到很多工作邀约",
       "onboard_time": 1776255380,
       "rank": 30,
@@ -771,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210381,
+      "num": 210381,
+      "word": "万能抑制食欲法",
+      "onboard_time": 1776256824,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203802,
       "num": 139930,
       "word": "法国殖民时期掠夺的文物将归还原国",
@@ -785,14 +809,6 @@
       "onboard_time": 1776235641,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199972,
-      "num": 199972,
-      "word": "万能抑制食欲法",
-      "onboard_time": 1776256824,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197091,
@@ -825,14 +841,6 @@
       "onboard_time": 1776216141,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178317,
-      "num": 129137,
-      "word": "骑车遭开门杀致1人被碾压身亡",
-      "onboard_time": 1776260602,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177364,
@@ -899,12 +907,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159163,
-      "num": 123955,
-      "word": "是最脏排行榜不是必吃榜",
-      "onboard_time": 1776260063,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 159879,
+      "num": 83107,
+      "word": "朱一龙直播紧张到腿抖",
+      "onboard_time": 1776261624,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 156885,
@@ -953,6 +961,14 @@
       "onboard_time": 1776183740,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152738,
+      "num": 83074,
+      "word": "白鹿蕾丝露肩",
+      "onboard_time": 1776262103,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151520,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1776254782,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131394,
+      "num": 81575,
+      "word": "25万买沃尔沃豪华混动",
+      "onboard_time": 1776261865,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 130880,
@@ -1180,7 +1204,7 @@
     },
     {
       "raw_hot": 118973,
-      "num": 97195,
+      "num": 111810,
       "word": "连婚纱都遮不住她的律动",
       "onboard_time": 1776254901,
       "rank": 32,
@@ -1289,6 +1313,14 @@
       "onboard_time": 1776231141,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108297,
+      "num": 81575,
+      "word": "唐艺昕产后两个月没有吃过米饭",
+      "onboard_time": 1776261560,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 108240,
@@ -1859,20 +1891,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77039,
-      "num": 77039,
-      "word": "朱一龙直播紧张到腿抖",
-      "onboard_time": 1776261624,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76866,
       "num": 76866,
       "word": "山东临沂成立联合调查组",
       "onboard_time": 1776217339,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76850,
+      "num": 81568,
+      "word": "电竞选手调薪",
+      "onboard_time": 1776257481,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 76686,
@@ -1937,14 +1969,6 @@
       "onboard_time": 1776222800,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73941,
-      "num": 73941,
-      "word": "唐艺昕产后两个月没有吃过米饭",
-      "onboard_time": 1776261560,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 73671,
@@ -2091,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69110,
+      "num": 81567,
+      "word": "28岁男子只睡2小时同事羡慕开了挂",
+      "onboard_time": 1776261142,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68665,
       "num": 68665,
       "word": "英雄联盟S2万魔殿",
@@ -2184,14 +2216,6 @@
       "word": "史上最受宠小孩的金钗美了1400年",
       "onboard_time": 1776233600,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66521,
-      "num": 73285,
-      "word": "28岁男子只睡2小时同事羡慕开了挂",
-      "onboard_time": 1776261142,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2307,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61947,
+      "num": 74850,
+      "word": "美伊原则上同意延长停火",
+      "onboard_time": 1776262283,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61786,
       "num": 91795,
       "word": "郭敬明的剧连演员本人都看不懂",
@@ -2336,6 +2368,14 @@
       "word": "峰学蔚来负责人回应公司近况",
       "onboard_time": 1776250161,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60321,
+      "num": 70618,
+      "word": "B太回应曝光大山女孩事件",
+      "onboard_time": 1776260001,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2499,6 +2539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42776,
+      "num": 132065,
+      "word": "沃尔沃发布会",
+      "onboard_time": 1776255981,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42626,
       "num": 138212,
       "word": "沃尔沃纯电双旗舰开启预售",
@@ -2521,14 +2569,6 @@
       "onboard_time": 1776165982,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40890,
-      "num": 132065,
-      "word": "沃尔沃发布会",
-      "onboard_time": 1776255981,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 40726,
@@ -2628,7 +2668,7 @@
     },
     {
       "raw_hot": 29968,
-      "num": 618300,
+      "num": 634844,
       "word": "广交会增设智能穿戴等9大专区",
       "onboard_time": 1776256101,
       "rank": 2,
