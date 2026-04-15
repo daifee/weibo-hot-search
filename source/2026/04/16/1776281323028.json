@@ -1,0 +1,410 @@
+{
+  "runTime": 1776281323028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 38929,
+        "num": 38929,
+        "word": "80万开店倒闭又投40万开店小伙发声",
+        "onboard_time": 1776266660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33513,
+        "num": 33513,
+        "word": "多条东南亚航线突然取消原因曝光",
+        "onboard_time": 1776272417,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8850,
+        "num": 32827,
+        "word": "广交会增设智能穿戴等9大专区",
+        "onboard_time": 1776256101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59153,
+        "num": 32553,
+        "word": "阚清子孙怡还没和好吗",
+        "onboard_time": 1776258680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42008,
+        "num": 30799,
+        "word": "被臭味yue上热搜的记者发声",
+        "onboard_time": 1776266540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33941,
+        "num": 30319,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29690,
+        "num": 29690,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28306,
+        "num": 28306,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24941,
+        "num": 24941,
+        "word": "北京国际电影节阵容",
+        "onboard_time": 1776277935,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24618,
+        "num": 24618,
+        "word": "伊朗美制通信设备遇袭时集体失灵",
+        "onboard_time": 1776271219,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32686,
+        "num": 24617,
+        "word": "骑车遭开门杀致1人被碾压身亡",
+        "onboard_time": 1776260602,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24989,
+        "num": 24607,
+        "word": "伊朗警告美持续封锁是破坏停火前奏",
+        "onboard_time": 1776273557,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24685,
+        "num": 24607,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24595,
+        "num": 24595,
+        "word": "尹锡悦笑看金建希却惨遭无视",
+        "onboard_time": 1776267800,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24225,
+        "num": 24225,
+        "word": "何润东说翻红后接到很多工作邀约",
+        "onboard_time": 1776255380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24064,
+        "num": 24064,
+        "word": "母亲喊女儿吃饭才惊觉其已遇害530天",
+        "onboard_time": 1776258202,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24035,
+        "num": 24035,
+        "word": "男子遭开门杀碾压身亡目击者发声",
+        "onboard_time": 1776267320,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21067,
+        "num": 21067,
+        "word": "警方回应15岁女孩遭班主任猥亵",
+        "onboard_time": 1776268820,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20545,
+        "num": 20545,
+        "word": "24岁抗癌博主徐平安去世",
+        "onboard_time": 1776267020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18691,
+        "num": 20545,
+        "word": "自如老师 侵权",
+        "onboard_time": 1776269120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19780,
+        "num": 20539,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18659,
+        "num": 20537,
+        "word": "张雪机车实缴资本仅1200万",
+        "onboard_time": 1776272417,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18526,
+        "num": 20535,
+        "word": "by2空中劈叉直接给我看傻了",
+        "onboard_time": 1776259522,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17881,
+        "num": 20530,
+        "word": "机器人切除肿瘤不彻底患者去世",
+        "onboard_time": 1776258802,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17127,
+        "num": 20526,
+        "word": "业内人士对肖战团队的评价",
+        "onboard_time": 1776274337,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16955,
+        "num": 20524,
+        "word": "田曦薇张凌赫庆功宴小动作",
+        "onboard_time": 1776260723,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16336,
+        "num": 20520,
+        "word": "婴儿哭闹20分钟男乘客30秒哄好",
+        "onboard_time": 1776257302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 20516,
+        "word": "连婚纱都遮不住她的律动",
+        "onboard_time": 1776254901,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15083,
+        "num": 20512,
+        "word": "印度一男子举铁管赶猴碰高压线身亡",
+        "onboard_time": 1776262582,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15045,
+        "num": 20511,
+        "word": "警方回应开门杀致1人被碾压身亡",
+        "onboard_time": 1776272417,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29116,
+        "num": 20508,
+        "word": "法国将不义之财归还被抢掠的中国",
+        "onboard_time": 1776281114,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16307,
+        "num": 20502,
+        "word": "郑丽文返台后穿大陆定制中山装亮相",
+        "onboard_time": 1776259224,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14160,
+        "num": 20501,
+        "word": "于适北影节彩排生图",
+        "onboard_time": 1776272477,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13997,
+        "num": 20496,
+        "word": "张月17年的时候就没喝中药",
+        "onboard_time": 1776272417,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13954,
+        "num": 20493,
+        "word": "美国加征关税被最高法院裁定为非法",
+        "onboard_time": 1776272776,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13655,
+        "num": 20491,
+        "word": "贺峻霖完全青春男大",
+        "onboard_time": 1776267320,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13511,
+        "num": 20486,
+        "word": "全国首例试管婴儿享工亡抚恤金",
+        "onboard_time": 1776267920,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13270,
+        "num": 20484,
+        "word": "你好星期六",
+        "onboard_time": 1776271938,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13190,
+        "num": 20478,
+        "word": "伊朗要求五个地区国赔偿战争损失",
+        "onboard_time": 1776281054,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13069,
+        "num": 20477,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1776272417,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12897,
+        "num": 20474,
+        "word": "美伊原则上同意延长停火",
+        "onboard_time": 1776262283,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12399,
+        "num": 20469,
+        "word": "万能抑制食欲法",
+        "onboard_time": 1776256824,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12106,
+        "num": 20465,
+        "word": "美海关4月20日启动关税退款",
+        "onboard_time": 1776272417,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12033,
+        "num": 20462,
+        "word": "班主任开房猥亵学生需要提级调查",
+        "onboard_time": 1776275296,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11989,
+        "num": 20461,
+        "word": "翠花 自如老师",
+        "onboard_time": 1776272118,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 11905,
+        "num": 20454,
+        "word": "WBG战胜iG",
+        "onboard_time": 1776263482,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11695,
+        "num": 20454,
+        "word": "8岁女童化疗前冻存卵巢组织",
+        "onboard_time": 1776263421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13141,
+        "num": 20451,
+        "word": "央视称小鹏GX为科技大成之作",
+        "onboard_time": 1776256401,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11526,
+        "num": 20446,
+        "word": "DYG 误闯天家",
+        "onboard_time": 1776264682,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11237,
+        "num": 20442,
+        "word": "李清明开球新闻图",
+        "onboard_time": 1776273377,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励中越青年#"
+    }
+  }
+}
