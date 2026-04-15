@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776266233061,
+  "endTime": 1776268065609,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -9177,6 +9177,14 @@
       "onboard_time": 1775949977,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279569,
+      "num": 746058,
+      "word": "百万网红称取消对骗B太大山女孩资助",
+      "onboard_time": 1776262643,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279494,
@@ -20419,14 +20427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117825,
-      "num": 117825,
-      "word": "百万网红称取消对骗B太大山女孩资助",
-      "onboard_time": 1776262643,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "老夫妻捡到铁疙瘩上交竟是国宝",
@@ -27972,7 +27972,7 @@
     },
     {
       "raw_hot": 86131,
-      "num": 86131,
+      "num": 93328,
       "word": "蓝莓价格卷疯了",
       "onboard_time": 1776264142,
       "rank": 34,
@@ -29025,6 +29025,14 @@
       "onboard_time": 1775042963,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83141,
+      "num": 90213,
+      "word": "24岁抗癌博主徐平安去世",
+      "onboard_time": 1776267020,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83104,
@@ -31803,6 +31811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74756,
+      "num": 89456,
+      "word": "KSG狼AGDYG一组",
+      "onboard_time": 1776267740,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74670,
       "num": 74670,
       "word": "林诗栋回应近期状态",
@@ -33003,6 +33019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71406,
+      "num": 99941,
+      "word": "WST 命苦",
+      "onboard_time": 1776266482,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71383,
       "num": 75868,
       "word": "墨江文旅局长被人怼脸抹黑",
@@ -33159,6 +33183,14 @@
       "num": 70843,
       "word": "食客睡车里等全网最不想红鸡煲开门",
       "onboard_time": 1775346018,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70841,
+      "num": 93033,
+      "word": "被臭味yue上热搜的记者发声",
+      "onboard_time": 1776266540,
       "rank": 27,
       "category": "民生新闻"
     },
@@ -33489,6 +33521,14 @@
       "onboard_time": 1775553740,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 69963,
+      "num": 93615,
+      "word": "80万开店倒闭又投40万开店小伙发声",
+      "onboard_time": 1776266660,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69927,
@@ -35059,6 +35099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64294,
+      "num": 86896,
+      "word": "男子遭开门杀碾压身亡目击者发声",
+      "onboard_time": 1776267320,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64286,
       "num": 64286,
       "word": "王曼昱回应再次对战孙颖莎",
@@ -36435,6 +36483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58484,
+      "num": 88309,
+      "word": "尹锡悦笑看金建希却惨遭无视",
+      "onboard_time": 1776267800,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58450,
       "num": 63340,
       "word": "35岁3胎孕妈胎盘粘住膀胱堵死宫颈",
@@ -36563,6 +36619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57734,
+      "num": 84638,
+      "word": "吕严一口吃一个包子",
+      "onboard_time": 1776267201,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57690,
       "num": 57690,
       "word": "郭敬明终于能睡着了",
@@ -36587,11 +36651,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57473,
+      "num": 84716,
+      "word": "RW签运",
+      "onboard_time": 1776266601,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57470,
       "num": 167450,
       "word": "梁文锋回应DeepSeekV4发布时间",
       "onboard_time": 1775799742,
       "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 57378,
+      "num": 96771,
+      "word": "DeepSeek高薪招聘数据中心人才",
+      "onboard_time": 1776266601,
+      "rank": 17,
       "category": "互联网"
     },
     {
@@ -36897,6 +36977,14 @@
       "onboard_time": 1775473882,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55538,
+      "num": 85204,
+      "word": "贺峻霖完全青春男大",
+      "onboard_time": 1776267320,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 55515,
@@ -38619,6 +38707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41746,
+      "num": 83930,
+      "word": "无限暖暖网速好快",
+      "onboard_time": 1776267681,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41730,
       "num": 165126,
       "word": "电池安全标准不止于国标",
@@ -39248,6 +39344,14 @@
       "word": "三代人同框敬礼祭奠先烈",
       "onboard_time": 1775394446,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35115,
+      "num": 90680,
+      "word": "全国首例试管婴儿享工亡抚恤金",
+      "onboard_time": 1776267920,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -40344,6 +40448,14 @@
       "word": "论整活还是得看常州",
       "onboard_time": 1776014657,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25637,
+      "num": 87989,
+      "word": "多位教师称安家费未按合同发放",
+      "onboard_time": 1776267740,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

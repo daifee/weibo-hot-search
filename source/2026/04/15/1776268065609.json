@@ -1,0 +1,410 @@
+{
+  "runTime": 1776268065609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 279935,
+        "num": 1044789,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279569,
+        "num": 746058,
+        "word": "百万网红称取消对骗B太大山女孩资助",
+        "onboard_time": 1776262643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23386,
+        "num": 600625,
+        "word": "广交会增设智能穿戴等9大专区",
+        "onboard_time": 1776256101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580202,
+        "num": 580202,
+        "word": "阚清子孙怡还没和好吗",
+        "onboard_time": 1776258680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312329,
+        "num": 312329,
+        "word": "是最脏排行榜不是必吃榜",
+        "onboard_time": 1776260063,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218881,
+        "num": 218881,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204218,
+        "num": 204218,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122016,
+        "num": 122016,
+        "word": "B太回应曝光大山女孩事件",
+        "onboard_time": 1776260001,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100255,
+        "num": 100255,
+        "word": "万能抑制食欲法",
+        "onboard_time": 1776256824,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71406,
+        "num": 99941,
+        "word": "WST 命苦",
+        "onboard_time": 1776266482,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287942,
+        "num": 99713,
+        "word": "唐艺昕产后两个月没有吃过米饭",
+        "onboard_time": 1776261560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284811,
+        "num": 99401,
+        "word": "骑车遭开门杀致1人被碾压身亡",
+        "onboard_time": 1776260602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203418,
+        "num": 98909,
+        "word": "田曦薇张凌赫庆功宴小动作",
+        "onboard_time": 1776260723,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 98633,
+        "word": "白鹿蕾丝露肩",
+        "onboard_time": 1776262103,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130643,
+        "num": 98145,
+        "word": "DYG 误闯天家",
+        "onboard_time": 1776264682,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 97472,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 97144,
+        "word": "谈莉娜孕35周胎位不正产检落泪",
+        "onboard_time": 1776262823,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57378,
+        "num": 96771,
+        "word": "DeepSeek高薪招聘数据中心人才",
+        "onboard_time": 1776266601,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107614,
+        "num": 96632,
+        "word": "婴儿哭闹20分钟男乘客30秒哄好",
+        "onboard_time": 1776257302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91186,
+        "num": 96128,
+        "word": "母亲喊女儿吃饭才惊觉其已遇害530天",
+        "onboard_time": 1776258202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239577,
+        "num": 95835,
+        "word": "何润东谈张凌赫被评粉底液将军",
+        "onboard_time": 1776259281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121004,
+        "num": 95397,
+        "word": "机器人切除肿瘤不彻底患者去世",
+        "onboard_time": 1776258802,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103520,
+        "num": 94961,
+        "word": "刘耀文空降",
+        "onboard_time": 1776258563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91387,
+        "num": 94517,
+        "word": "姚安娜代言华为",
+        "onboard_time": 1776246379,
+        "rank": 23,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 80134,
+        "num": 94216,
+        "word": "8岁女童化疗前冻存卵巢组织",
+        "onboard_time": 1776263421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69963,
+        "num": 93615,
+        "word": "80万开店倒闭又投40万开店小伙发声",
+        "onboard_time": 1776266660,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73658,
+        "num": 93328,
+        "word": "蓝莓价格卷疯了",
+        "onboard_time": 1776264142,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70841,
+        "num": 93033,
+        "word": "被臭味yue上热搜的记者发声",
+        "onboard_time": 1776266540,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47628,
+        "num": 92492,
+        "word": "美伊原则上同意延长停火",
+        "onboard_time": 1776262283,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57521,
+        "num": 92165,
+        "word": "郭晶晶现身沃尔沃99周年庆典",
+        "onboard_time": 1776264862,
+        "rank": 29,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 91839,
+        "word": "何润东说翻红后接到很多工作邀约",
+        "onboard_time": 1776255380,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88341,
+        "num": 91116,
+        "word": "曝宋宁峰近况",
+        "onboard_time": 1776254181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35115,
+        "num": 90680,
+        "word": "全国首例试管婴儿享工亡抚恤金",
+        "onboard_time": 1776267920,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83539,
+        "num": 90610,
+        "word": "by2空中劈叉直接给我看傻了",
+        "onboard_time": 1776259522,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83141,
+        "num": 90213,
+        "word": "24岁抗癌博主徐平安去世",
+        "onboard_time": 1776267020,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75485,
+        "num": 89853,
+        "word": "痞幼胖了17斤",
+        "onboard_time": 1776238041,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74756,
+        "num": 89456,
+        "word": "KSG狼AGDYG一组",
+        "onboard_time": 1776267740,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67682,
+        "num": 88922,
+        "word": "沈腾你干脆躺马丽怀里得了呗",
+        "onboard_time": 1776252739,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58484,
+        "num": 88309,
+        "word": "尹锡悦笑看金建希却惨遭无视",
+        "onboard_time": 1776267800,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25637,
+        "num": 87989,
+        "word": "多位教师称安家费未按合同发放",
+        "onboard_time": 1776267740,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67253,
+        "num": 87559,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65839,
+        "num": 87337,
+        "word": "朱一龙直播紧张到腿抖",
+        "onboard_time": 1776261624,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64294,
+        "num": 86896,
+        "word": "男子遭开门杀碾压身亡目击者发声",
+        "onboard_time": 1776267320,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62904,
+        "num": 86649,
+        "word": "印度一男子举铁管赶猴碰高压线身亡",
+        "onboard_time": 1776262582,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58532,
+        "num": 86114,
+        "word": "郑丽文返台后穿大陆定制中山装亮相",
+        "onboard_time": 1776259224,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58198,
+        "num": 85639,
+        "word": "唐禹哲承认逃兵役",
+        "onboard_time": 1776248001,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55538,
+        "num": 85204,
+        "word": "贺峻霖完全青春男大",
+        "onboard_time": 1776267320,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57473,
+        "num": 84716,
+        "word": "RW签运",
+        "onboard_time": 1776266601,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57734,
+        "num": 84638,
+        "word": "吕严一口吃一个包子",
+        "onboard_time": 1776267201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41746,
+        "num": 83930,
+        "word": "无限暖暖网速好快",
+        "onboard_time": 1776267681,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励中越青年#"
+    }
+  }
+}
