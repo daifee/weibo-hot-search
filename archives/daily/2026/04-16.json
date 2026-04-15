@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776282652945,
+  "endTime": 1776286884790,
   "band_list": [
     {
       "raw_hot": 253033,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66840,
+      "num": 20508,
+      "word": "法国将不义之财归还被抢掠的中国",
+      "onboard_time": 1776281114,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63662,
       "num": 63662,
       "word": "伊朗美制通信设备遇袭时集体失灵",
@@ -121,6 +129,14 @@
       "onboard_time": 1776260723,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49848,
+      "num": 44738,
+      "word": "男子遭开门杀碾压身亡目击者发声",
+      "onboard_time": 1776267320,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47410,
@@ -153,14 +169,6 @@
       "onboard_time": 1776272118,
       "rank": 30,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 39319,
-      "num": 44738,
-      "word": "男子遭开门杀碾压身亡目击者发声",
-      "onboard_time": 1776267320,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39131,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 33513,
-      "num": 44489,
+      "num": 48763,
       "word": "多条东南亚航线突然取消原因曝光",
       "onboard_time": 1776272417,
       "rank": 38,
@@ -281,14 +289,6 @@
       "onboard_time": 1776272417,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30827,
-      "num": 20508,
-      "word": "法国将不义之财归还被抢掠的中国",
-      "onboard_time": 1776281114,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30323,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12619,
+      "num": 13789,
+      "word": "31岁男子滑旱冰摔倒去世",
+      "onboard_time": 1776263302,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12190,
       "num": 20462,
       "word": "班主任开房猥亵学生需要提级调查",
@@ -489,6 +497,14 @@
       "onboard_time": 1776272417,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11416,
+      "num": 13781,
+      "word": "律师谈开门杀致1人被碾压身亡",
+      "onboard_time": 1776283993,
+      "rank": 45,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

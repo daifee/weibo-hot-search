@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/16 03:50:52
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/16 05:01:24
 </p>
 </blockquote>
 <p>
@@ -6417,6 +6417,12 @@ KT对战DK（热度：67394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%B0%86%E4%B8%8D%E4%B9%89%E4%B9%8B%E8%B4%A2%E5%BD%92%E8%BF%98%E8%A2%AB%E6%8A%A2%E6%8E%A0%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
+法国将不义之财归还被抢掠的中国（热度：66840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%8E%AB%E7%A7%B0%E6%B2%A1%E6%94%B6%E6%B8%A9%E6%B0%8F%E9%80%81%E7%9A%841000%E5%8F%AA%E9%B8%A1%23" target="weibo">
 老莫称没收温氏送的1000只鸡（热度：66644）
 </a>
@@ -7623,12 +7629,6 @@ Lululemon客服回应（热度：36540）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%B0%86%E4%B8%8D%E4%B9%89%E4%B9%8B%E8%B4%A2%E5%BD%92%E8%BF%98%E8%A2%AB%E6%8A%A2%E6%8E%A0%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
-法国将不义之财归还被抢掠的中国（热度：30827）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E8%AE%AD%E7%BB%83%E5%87%BAAI%E5%88%86%E8%BA%AB%E7%BB%A7%E7%BB%AD%E4%B8%8A%E7%8F%AD%23" target="weibo">
 离职员工被训练出AI分身继续上班（热度：30650）
 </a>
@@ -8249,6 +8249,12 @@ WBG 对线（热度：18297）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E7%A7%B0%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%90%88%E4%B9%B0%E5%BD%A9%E7%A5%A8%23" target="weibo">
 客服称不建议合买彩票（热度：11794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B41%E4%BA%BA%E8%A2%AB%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
+律师谈开门杀致1人被碾压身亡（热度：11416）
 </a>
 </li>
 
