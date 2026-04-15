@@ -1,0 +1,410 @@
+{
+  "runTime": 1776297216248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408152,
+        "num": 999748,
+        "word": "樊振东英文告别主场球迷",
+        "onboard_time": 1776294256,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354084,
+        "num": 739131,
+        "word": "80万开店倒闭又投40万开店小伙发声",
+        "onboard_time": 1776266660,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19313,
+        "num": 573772,
+        "word": "广交会增设智能穿戴等9大专区",
+        "onboard_time": 1776256101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324236,
+        "num": 324236,
+        "word": "法国将不义之财归还被抢掠的中国",
+        "onboard_time": 1776281114,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230028,
+        "num": 230028,
+        "word": "阚清子孙怡还没和好吗",
+        "onboard_time": 1776258680,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216902,
+        "num": 216902,
+        "word": "拜仁4比3皇马",
+        "onboard_time": 1776295038,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216626,
+        "num": 216626,
+        "word": "24岁抗癌博主徐平安去世",
+        "onboard_time": 1776267020,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196463,
+        "num": 196463,
+        "word": "多条东南亚航线突然取消原因曝光",
+        "onboard_time": 1776272417,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185489,
+        "num": 185489,
+        "word": "金莎孙丞潇试婚纱压价",
+        "onboard_time": 1776296480,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151245,
+        "num": 151245,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328547,
+        "num": 147256,
+        "word": "男子遭开门杀碾压身亡目击者发声",
+        "onboard_time": 1776267320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "何润东说翻红后接到很多工作邀约",
+        "onboard_time": 1776255380,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140027,
+        "num": 140027,
+        "word": "谈莉娜孕35周胎位不正产检落泪",
+        "onboard_time": 1776262823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120742,
+        "num": 120742,
+        "word": "尹锡悦笑看金建希却惨遭无视",
+        "onboard_time": 1776267800,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131825,
+        "num": 119443,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105615,
+        "num": 105615,
+        "word": "伊朗美制通信设备遇袭时集体失灵",
+        "onboard_time": 1776271219,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99108,
+        "num": 99108,
+        "word": "业内人士对肖战团队的评价",
+        "onboard_time": 1776274337,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98321,
+        "num": 98910,
+        "word": "欧冠4强出炉",
+        "onboard_time": 1776295038,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97927,
+        "num": 98555,
+        "word": "8岁女童化疗前冻存卵巢组织",
+        "onboard_time": 1776263421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94470,
+        "num": 97939,
+        "word": "被臭味yue上热搜的记者发声",
+        "onboard_time": 1776266540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333859,
+        "num": 97682,
+        "word": "何润东谈张凌赫被评粉底液将军",
+        "onboard_time": 1776259281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91659,
+        "num": 97146,
+        "word": "印度3000万人要没饭吃",
+        "onboard_time": 1776296058,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86297,
+        "num": 96769,
+        "word": "母亲喊女儿吃饭才惊觉其已遇害530天",
+        "onboard_time": 1776258202,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77681,
+        "num": 96101,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72061,
+        "num": 95790,
+        "word": "被破窗取AED车辆获免费换车窗",
+        "onboard_time": 1776295999,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74437,
+        "num": 95555,
+        "word": "田曦薇张凌赫庆功宴小动作",
+        "onboard_time": 1776260723,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68348,
+        "num": 94998,
+        "word": "伊朗警告美持续封锁是破坏停火前奏",
+        "onboard_time": 1776273557,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68264,
+        "num": 94668,
+        "word": "连婚纱都遮不住她的律动",
+        "onboard_time": 1776254901,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67612,
+        "num": 94091,
+        "word": "赵子琪 是逼我爆所有的料吗",
+        "onboard_time": 1776296960,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32093,
+        "num": 93672,
+        "word": "做家务的机器人让外国人疯狂心动",
+        "onboard_time": 1776294018,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103987,
+        "num": 93060,
+        "word": "美军妄想威慑中国内陆",
+        "onboard_time": 1776295999,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 84990,
+        "num": 92653,
+        "word": "刘耀文提到了张真源SLY乐队",
+        "onboard_time": 1776295940,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78334,
+        "num": 92512,
+        "word": "黄金大起大落",
+        "onboard_time": 1776297139,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67333,
+        "num": 92073,
+        "word": "法国涉嫌非法获取文物清单将公布",
+        "onboard_time": 1776293237,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64196,
+        "num": 91514,
+        "word": "萨尔布吕肯3比1云达不莱梅",
+        "onboard_time": 1776297022,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63874,
+        "num": 91033,
+        "word": "印度裔男子假意助人实施二次性侵",
+        "onboard_time": 1776296238,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53987,
+        "num": 90757,
+        "word": "婴儿哭闹20分钟男乘客30秒哄好",
+        "onboard_time": 1776257302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52482,
+        "num": 90022,
+        "word": "郑丽文返台后穿大陆定制中山装亮相",
+        "onboard_time": 1776259224,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50237,
+        "num": 89665,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49636,
+        "num": 89362,
+        "word": "乙肝抗体没了要不要补打疫苗",
+        "onboard_time": 1776297080,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47804,
+        "num": 88902,
+        "word": "樊振东3比2伯特兰",
+        "onboard_time": 1776297080,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48808,
+        "num": 88188,
+        "word": "老刀99 王子杰",
+        "onboard_time": 1776296960,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48106,
+        "num": 88138,
+        "word": "这个世界总有人在缝缝补补",
+        "onboard_time": 1776268520,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41695,
+        "num": 87684,
+        "word": "樊振东主场告别战独得两分",
+        "onboard_time": 1776295878,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47681,
+        "num": 87201,
+        "word": "31岁男子滑旱冰摔倒去世",
+        "onboard_time": 1776263302,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46747,
+        "num": 86485,
+        "word": "全国首例试管婴儿享工亡抚恤金",
+        "onboard_time": 1776267920,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46196,
+        "num": 86339,
+        "word": "当地调查B太称在大凉山帮扶被骗",
+        "onboard_time": 1776294076,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45962,
+        "num": 85740,
+        "word": "阿森纳0比0葡萄牙体育",
+        "onboard_time": 1776294558,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44557,
+        "num": 85374,
+        "word": "印度一男子举铁管赶猴碰高压线身亡",
+        "onboard_time": 1776262582,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44291,
+        "num": 84987,
+        "word": "自如老师 侵权",
+        "onboard_time": 1776269120,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇同苏林夫妇亲切话别#"
+    }
+  }
+}

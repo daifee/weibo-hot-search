@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776294617086,
+  "endTime": 1776297216248,
   "band_list": [
     {
       "raw_hot": 4321550,
@@ -1251,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408152,
+      "num": 999748,
+      "word": "樊振东英文告别主场球迷",
+      "onboard_time": 1776294256,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406729,
       "num": 188813,
       "word": "孙颖莎代言白象",
@@ -1571,6 +1579,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 354084,
+      "num": 739131,
+      "word": "80万开店倒闭又投40万开店小伙发声",
+      "onboard_time": 1776266660,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353754,
       "num": 353754,
       "word": "白日提灯 双结局",
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328547,
+      "num": 147256,
+      "word": "男子遭开门杀碾压身亡目击者发声",
+      "onboard_time": 1776267320,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328064,
       "num": 202673,
       "word": "朴信惠 崔泰俊",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1775999782,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 324236,
+      "num": 324236,
+      "word": "法国将不义之财归还被抢掠的中国",
+      "onboard_time": 1776281114,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 324146,
@@ -1993,14 +2025,6 @@
       "onboard_time": 1776005124,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311211,
-      "num": 669950,
-      "word": "80万开店倒闭又投40万开店小伙发声",
-      "onboard_time": 1776266660,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310367,
@@ -2328,14 +2352,6 @@
       "word": "西班牙首相试坐小米汽车",
       "onboard_time": 1776067700,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 277627,
-      "num": 277627,
-      "word": "法国将不义之财归还被抢掠的中国",
-      "onboard_time": 1776281114,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -2748,7 +2764,7 @@
     },
     {
       "raw_hot": 236096,
-      "num": 127872,
+      "num": 141828,
       "word": "何润东说翻红后接到很多工作邀约",
       "onboard_time": 1776255380,
       "rank": 30,
@@ -2931,6 +2947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216902,
+      "num": 216902,
+      "word": "拜仁4比3皇马",
+      "onboard_time": 1776295038,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216626,
+      "num": 216626,
+      "word": "24岁抗癌博主徐平安去世",
+      "onboard_time": 1776267020,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216583,
       "num": 108761,
       "word": "小狗洗澡洗得太干净主人懵了",
@@ -2993,14 +3025,6 @@
       "onboard_time": 1775957600,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 214001,
-      "num": 126336,
-      "word": "男子遭开门杀碾压身亡目击者发声",
-      "onboard_time": 1776267320,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213913,
@@ -3283,6 +3307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196463,
+      "num": 483106,
+      "word": "多条东南亚航线突然取消原因曝光",
+      "onboard_time": 1776272417,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191160,
       "num": 148235,
       "word": "等张泽禹张极换头像",
@@ -3409,6 +3441,14 @@
       "onboard_time": 1776150261,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185489,
+      "num": 185489,
+      "word": "金莎孙丞潇试婚纱压价",
+      "onboard_time": 1776296480,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 184649,
@@ -3545,14 +3585,6 @@
       "onboard_time": 1775962700,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177843,
-      "num": 483106,
-      "word": "多条东南亚航线突然取消原因曝光",
-      "onboard_time": 1776272417,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177591,
@@ -3889,14 +3921,6 @@
       "onboard_time": 1776140123,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156539,
-      "num": 156539,
-      "word": "24岁抗癌博主徐平安去世",
-      "onboard_time": 1776267020,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156467,
@@ -4276,7 +4300,7 @@
     },
     {
       "raw_hot": 141261,
-      "num": 117734,
+      "num": 140027,
       "word": "谈莉娜孕35周胎位不正产检落泪",
       "onboard_time": 1776262823,
       "rank": 24,
@@ -4809,6 +4833,14 @@
       "onboard_time": 1776167001,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120742,
+      "num": 125409,
+      "word": "尹锡悦笑看金建希却惨遭无视",
+      "onboard_time": 1776267800,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120583,
@@ -5419,14 +5451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107654,
-      "num": 125409,
-      "word": "尹锡悦笑看金建希却惨遭无视",
-      "onboard_time": 1776267800,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107471,
       "num": 107471,
       "word": "12306回应被陌生人冒用身份乘车",
@@ -5691,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103987,
+      "num": 93060,
+      "word": "美军妄想威慑中国内陆",
+      "onboard_time": 1776295999,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 103719,
       "num": 111306,
       "word": "女孩太想念老人睡墓碑旁不愿走",
@@ -5915,6 +5947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99108,
+      "num": 121220,
+      "word": "业内人士对肖战团队的评价",
+      "onboard_time": 1776274337,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99050,
       "num": 99050,
       "word": "半年前体检正常半年后肺癌晚期",
@@ -5953,6 +5993,14 @@
       "onboard_time": 1776053062,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98321,
+      "num": 98910,
+      "word": "欧冠4强出炉",
+      "onboard_time": 1776295038,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 98272,
@@ -6523,6 +6571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91659,
+      "num": 97146,
+      "word": "印度3000万人要没饭吃",
+      "onboard_time": 1776296058,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91496,
       "num": 112849,
       "word": "泰柬边境一电诈园内部环境曝光",
@@ -7035,20 +7091,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84990,
+      "num": 92653,
+      "word": "刘耀文提到了张真源SLY乐队",
+      "onboard_time": 1776295940,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84934,
       "num": 79997,
       "word": "杨紫迪丽热巴直播图",
       "onboard_time": 1776126021,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84918,
-      "num": 121220,
-      "word": "业内人士对肖战团队的评价",
-      "onboard_time": 1776274337,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 84881,
@@ -7513,6 +7569,14 @@
       "onboard_time": 1775953280,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78334,
+      "num": 92512,
+      "word": "黄金大起大落",
+      "onboard_time": 1776297139,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 78310,
@@ -8179,6 +8243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72061,
+      "num": 95790,
+      "word": "被破窗取AED车辆获免费换车窗",
+      "onboard_time": 1776295999,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72025,
       "num": 72025,
       "word": "爱奇艺的艺人有福了",
@@ -8523,6 +8595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 67612,
+      "num": 94091,
+      "word": "赵子琪 是逼我爆所有的料吗",
+      "onboard_time": 1776296960,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67593,
       "num": 67593,
       "word": "演员郑雷去世",
@@ -8561,6 +8641,14 @@
       "onboard_time": 1776252802,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67333,
+      "num": 110042,
+      "word": "法国涉嫌非法获取文物清单将公布",
+      "onboard_time": 1776293237,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67258,
@@ -8811,6 +8899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64196,
+      "num": 91514,
+      "word": "萨尔布吕肯3比1云达不莱梅",
+      "onboard_time": 1776297022,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64166,
       "num": 136602,
       "word": "原来小猫是这样进来的",
@@ -8849,6 +8945,14 @@
       "onboard_time": 1776094101,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63874,
+      "num": 91033,
+      "word": "印度裔男子假意助人实施二次性侵",
+      "onboard_time": 1776296238,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63854,
@@ -9403,14 +9507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50611,
-      "num": 117865,
-      "word": "樊振东英文告别主场球迷",
-      "onboard_time": 1776294256,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50493,
       "num": 82257,
       "word": "杨幂的这句晚安好梦能听一百遍",
@@ -9451,12 +9547,28 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 49636,
+      "num": 89362,
+      "word": "乙肝抗体没了要不要补打疫苗",
+      "onboard_time": 1776297080,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48856,
       "num": 48856,
       "word": "霍尔木兹成美伊谈判矛盾核心",
       "onboard_time": 1775949736,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48808,
+      "num": 88188,
+      "word": "老刀99 王子杰",
+      "onboard_time": 1776296960,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 48691,
@@ -9515,12 +9627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48106,
+      "num": 114717,
+      "word": "这个世界总有人在缝缝补补",
+      "onboard_time": 1776268520,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47885,
       "num": 135204,
       "word": "唐诡2造型指导致歉承认侵权",
       "onboard_time": 1776168321,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47804,
+      "num": 88902,
+      "word": "樊振东3比2伯特兰",
+      "onboard_time": 1776297080,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 47801,
@@ -9611,6 +9739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46196,
+      "num": 112064,
+      "word": "当地调查B太称在大凉山帮扶被骗",
+      "onboard_time": 1776294076,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45962,
+      "num": 127502,
+      "word": "阿森纳0比0葡萄牙体育",
+      "onboard_time": 1776294558,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45922,
       "num": 151887,
       "word": "外交部回应美伊未达成协议",
@@ -9673,22 +9817,6 @@
       "onboard_time": 1775994021,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44600,
-      "num": 127502,
-      "word": "阿森纳0比0葡萄牙体育",
-      "onboard_time": 1776294558,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44111,
-      "num": 114717,
-      "word": "这个世界总有人在缝缝补补",
-      "onboard_time": 1776268520,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44065,
@@ -9819,6 +9947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41695,
+      "num": 87684,
+      "word": "樊振东主场告别战独得两分",
+      "onboard_time": 1776295878,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41079,
       "num": 41079,
       "word": "伊媒称伊斯兰堡谈判有可能延长一天",
@@ -9921,22 +10057,6 @@
       "onboard_time": 1776097459,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39261,
-      "num": 110042,
-      "word": "法国涉嫌非法获取文物清单将公布",
-      "onboard_time": 1776293237,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 39226,
-      "num": 112064,
-      "word": "当地调查B太称在大凉山帮扶被骗",
-      "onboard_time": 1776294076,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38838,
@@ -10137,6 +10257,14 @@
       "onboard_time": 1776277935,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32093,
+      "num": 115236,
+      "word": "做家务的机器人让外国人疯狂心动",
+      "onboard_time": 1776294018,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31994,
@@ -11088,14 +11216,6 @@
       "word": "1季度我国货物进出口同比增长15%",
       "onboard_time": 1776154161,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6470,
-      "num": 115236,
-      "word": "做家务的机器人让外国人疯狂心动",
-      "onboard_time": 1776294018,
-      "rank": 29,
       "category": "民生新闻"
     }
   ],
