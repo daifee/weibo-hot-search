@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776252934300,
+  "endTime": 1776254484091,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -3139,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564480,
+      "num": 564480,
+      "word": "孟子义李昀锐 等风热吻你",
+      "onboard_time": 1776251541,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561005,
       "num": 298699,
       "word": "孙怡 赵子琪淘汰发布会",
@@ -3603,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525629,
+      "num": 1084100,
+      "word": "美国将退还超1万亿元关税",
+      "onboard_time": 1776252923,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 524418,
       "num": 273841,
       "word": "疑似何与朋友点赞吐槽虞书欣言论",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1775716820,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505656,
+      "num": 155456,
+      "word": "姚安娜代言华为",
+      "onboard_time": 1776246379,
+      "rank": 23,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 505290,
@@ -6123,14 +6147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372362,
-      "num": 155456,
-      "word": "姚安娜代言华为",
-      "onboard_time": 1776246379,
-      "rank": 23,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 372322,
       "num": 270238,
       "word": "以空袭黎巴嫩致254死1165伤",
@@ -6244,7 +6260,7 @@
     },
     {
       "raw_hot": 369028,
-      "num": 93065,
+      "num": 109386,
       "word": "王星越开保时捷上班",
       "onboard_time": 1776250701,
       "rank": 24,
@@ -6361,14 +6377,6 @@
       "onboard_time": 1775006003,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 365591,
-      "num": 154481,
-      "word": "孟子义李昀锐 等风热吻你",
-      "onboard_time": 1776251541,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 365140,
@@ -6617,6 +6625,14 @@
       "onboard_time": 1775803161,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353754,
+      "num": 353754,
+      "word": "白日提灯 双结局",
+      "onboard_time": 1776250521,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 353619,
@@ -7081,14 +7097,6 @@
       "onboard_time": 1775531962,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 338055,
-      "num": 338055,
-      "word": "白日提灯 双结局",
-      "onboard_time": 1776250521,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 338030,
@@ -8745,6 +8753,14 @@
       "onboard_time": 1775619021,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286530,
+      "num": 149012,
+      "word": "曝张豆豆两年前有的宝宝",
+      "onboard_time": 1776253041,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 286437,
@@ -10619,6 +10635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 241950,
+      "num": 112153,
+      "word": "沈腾你干脆躺马丽怀里得了呗",
+      "onboard_time": 1776252739,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241904,
       "num": 115857,
       "word": "金道英发长文",
@@ -10756,7 +10780,7 @@
     },
     {
       "raw_hot": 237578,
-      "num": 95627,
+      "num": 107394,
       "word": "朱一龙直播",
       "onboard_time": 1776251121,
       "rank": 18,
@@ -14617,6 +14641,14 @@
       "onboard_time": 1775994201,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169945,
+      "num": 169945,
+      "word": "中国三胞胎的视频在推特上火了",
+      "onboard_time": 1776251961,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169908,
@@ -19179,6 +19211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124261,
+      "num": 87757,
+      "word": "何润东 资源从天而降",
+      "onboard_time": 1776250161,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "微信宣布这项功能将全面停运",
@@ -19427,14 +19467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122602,
-      "num": 88371,
-      "word": "中国三胞胎的视频在推特上火了",
-      "onboard_time": 1776251961,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122525,
       "num": 122525,
       "word": "小米官宣6款充电宝新品",
@@ -19529,6 +19561,14 @@
       "onboard_time": 1775134283,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121880,
+      "num": 84163,
+      "word": "曝宋宁峰近况",
+      "onboard_time": 1776254181,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 121787,
@@ -20817,14 +20857,6 @@
       "onboard_time": 1775875339,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 113500,
-      "num": 87757,
-      "word": "何润东 资源从天而降",
-      "onboard_time": 1776250161,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 113273,
@@ -22827,14 +22859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103616,
-      "num": 86431,
-      "word": "沈腾你干脆躺马丽怀里得了呗",
-      "onboard_time": 1776252739,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103560,
       "num": 148712,
       "word": "蜜语纪",
@@ -23361,6 +23385,14 @@
       "onboard_time": 1775051125,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101120,
+      "num": 143638,
+      "word": "出生4天被秤砣砸中女婴3次尿血",
+      "onboard_time": 1776246801,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101118,
@@ -25915,6 +25947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91714,
+      "num": 80980,
+      "word": "王一博素颜拍GQ",
+      "onboard_time": 1776250101,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 91673,
       "num": 151645,
       "word": "罗志祥更新",
@@ -26041,14 +26081,6 @@
       "onboard_time": 1775453481,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91310,
-      "num": 143638,
-      "word": "出生4天被秤砣砸中女婴3次尿血",
-      "onboard_time": 1776246801,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91289,
@@ -26308,7 +26340,7 @@
     },
     {
       "raw_hot": 90292,
-      "num": 79707,
+      "num": 79939,
       "word": "李小冉比温峥嵘还大两岁",
       "onboard_time": 1776251301,
       "rank": 37,
@@ -26553,6 +26585,14 @@
       "onboard_time": 1775661083,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89682,
+      "num": 94456,
+      "word": "小鹏GX把四大安全测试场搬到发布会",
+      "onboard_time": 1776251361,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 89612,
@@ -29259,6 +29299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81243,
+      "num": 81243,
+      "word": "我们的爸妈vs我们当爸妈",
+      "onboard_time": 1776253401,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81224,
       "num": 96608,
       "word": "开心消消乐程序员写给女友的情书",
@@ -29449,14 +29497,6 @@
       "onboard_time": 1775345958,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80551,
-      "num": 94456,
-      "word": "小鹏GX把四大安全测试场搬到发布会",
-      "onboard_time": 1776251361,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 80520,
@@ -32179,6 +32219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72704,
+      "num": 72704,
+      "word": "当你是公司最小的员工",
+      "onboard_time": 1776248602,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72679,
       "num": 79246,
       "word": "山西省考成绩",
@@ -32736,14 +32784,6 @@
       "word": "养猫八年的毛",
       "onboard_time": 1775888301,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 70991,
-      "num": 70991,
-      "word": "当你是公司最小的员工",
-      "onboard_time": 1776248602,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -33579,6 +33619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68560,
+      "num": 80053,
+      "word": "女婴被秤砣砸中医院工作人员发声",
+      "onboard_time": 1776249500,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68559,
       "num": 68559,
       "word": "最无力的年纪遇到最无理取闹的妈",
@@ -33963,6 +34011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67443,
+      "num": 67443,
+      "word": "允许自己阶段性枯萎",
+      "onboard_time": 1776253461,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67394,
       "num": 67394,
       "word": "KT对战DK",
@@ -34161,6 +34217,14 @@
       "onboard_time": 1775272580,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66859,
+      "num": 66859,
+      "word": "孙怡怎么年纪轻轻就耳背了",
+      "onboard_time": 1776254361,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 66729,
@@ -36193,6 +36257,14 @@
       "onboard_time": 1774959867,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57005,
+      "num": 66156,
+      "word": "比亚迪在日本销量翻番",
+      "onboard_time": 1776254240,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 56994,

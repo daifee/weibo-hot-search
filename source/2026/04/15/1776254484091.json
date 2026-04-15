@@ -1,0 +1,410 @@
+{
+  "runTime": 1776254484091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 525629,
+        "num": 1084100,
+        "word": "美国将退还超1万亿元关税",
+        "onboard_time": 1776252923,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408422,
+        "num": 798784,
+        "word": "法国罕见全票通过文物归还法案",
+        "onboard_time": 1776247342,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 629134,
+        "word": "家国长安宁全民共守护",
+        "onboard_time": 1776243860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 564480,
+        "num": 564480,
+        "word": "孟子义李昀锐 等风热吻你",
+        "onboard_time": 1776251541,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353754,
+        "num": 353754,
+        "word": "白日提灯 双结局",
+        "onboard_time": 1776250521,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215824,
+        "num": 215824,
+        "word": "我旅游不跟三种人出去",
+        "onboard_time": 1776241580,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175007,
+        "num": 175007,
+        "word": "俄方提出帮助中国弥补能源短缺",
+        "onboard_time": 1776245480,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170525,
+        "num": 170525,
+        "word": "皮蛋黄瓜汤",
+        "onboard_time": 1776244581,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169945,
+        "num": 169945,
+        "word": "中国三胞胎的视频在推特上火了",
+        "onboard_time": 1776251961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156991,
+        "num": 156991,
+        "word": "灵隐寺严正声明",
+        "onboard_time": 1776245361,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505656,
+        "num": 155098,
+        "word": "姚安娜代言华为",
+        "onboard_time": 1776246379,
+        "rank": 10,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 286530,
+        "num": 149012,
+        "word": "曝张豆豆两年前有的宝宝",
+        "onboard_time": 1776253041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252995,
+        "num": 137583,
+        "word": "骗B太大山女孩被百万网红长期资助",
+        "onboard_time": 1776243741,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243821,
+        "num": 135604,
+        "word": "香港14岁男学生成黑社会骨干",
+        "onboard_time": 1776247281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130905,
+        "num": 130905,
+        "word": "2026中国大学排名",
+        "onboard_time": 1776237261,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160848,
+        "num": 124087,
+        "word": "谢娜演唱会门票秒罄",
+        "onboard_time": 1776236120,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112342,
+        "num": 112342,
+        "word": "王者荣耀",
+        "onboard_time": 1776234920,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241950,
+        "num": 112153,
+        "word": "沈腾你干脆躺马丽怀里得了呗",
+        "onboard_time": 1776252739,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241949,
+        "num": 110998,
+        "word": "上万美军封锁霍尔木兹海峡",
+        "onboard_time": 1776246681,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236522,
+        "num": 110704,
+        "word": "网红炫迈妹子被猫误伤毁容",
+        "onboard_time": 1776244460,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316605,
+        "num": 109386,
+        "word": "王星越开保时捷上班",
+        "onboard_time": 1776250701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69608,
+        "num": 108971,
+        "word": "小米上线电池升级服务",
+        "onboard_time": 1776246741,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212841,
+        "num": 108349,
+        "word": "唐禹哲承认逃兵役",
+        "onboard_time": 1776248001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148151,
+        "num": 107394,
+        "word": "朱一龙直播",
+        "onboard_time": 1776251121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107098,
+        "num": 107098,
+        "word": "北京文旅一觉醒来天塌了",
+        "onboard_time": 1776243921,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89682,
+        "num": 89682,
+        "word": "小鹏GX把四大安全测试场搬到发布会",
+        "onboard_time": 1776251361,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90837,
+        "num": 89301,
+        "word": "李小冉肉眼可见的越来越累",
+        "onboard_time": 1776249800,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88553,
+        "num": 88553,
+        "word": "白日提灯大结局",
+        "onboard_time": 1776248482,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101120,
+        "num": 87454,
+        "word": "出生4天被秤砣砸中女婴3次尿血",
+        "onboard_time": 1776246801,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86122,
+        "num": 86122,
+        "word": "莫氏鸡煲少当家成中年富二代",
+        "onboard_time": 1776250641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104009,
+        "num": 86018,
+        "word": "在德读硕中国小伙多次下药迷奸女友",
+        "onboard_time": 1776245541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124261,
+        "num": 85030,
+        "word": "何润东 资源从天而降",
+        "onboard_time": 1776250161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121880,
+        "num": 84163,
+        "word": "曝宋宁峰近况",
+        "onboard_time": 1776254181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87266,
+        "num": 83586,
+        "word": "肝癌症状常常被误以为是太累",
+        "onboard_time": 1776239661,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117908,
+        "num": 82845,
+        "word": "张凌赫还当过爱格的模特",
+        "onboard_time": 1776249921,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116817,
+        "num": 81984,
+        "word": "痞幼胖了17斤",
+        "onboard_time": 1776238041,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81243,
+        "num": 81243,
+        "word": "我们的爸妈vs我们当爸妈",
+        "onboard_time": 1776253401,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91714,
+        "num": 80980,
+        "word": "王一博素颜拍GQ",
+        "onboard_time": 1776250101,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91480,
+        "num": 80426,
+        "word": "叶舒华ins评论区",
+        "onboard_time": 1776244100,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68560,
+        "num": 80053,
+        "word": "女婴被秤砣砸中医院工作人员发声",
+        "onboard_time": 1776249500,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85464,
+        "num": 79939,
+        "word": "李小冉比温峥嵘还大两岁",
+        "onboard_time": 1776251301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79523,
+        "num": 79523,
+        "word": "魏晨儿子都这么大了",
+        "onboard_time": 1776225561,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72704,
+        "num": 72704,
+        "word": "当你是公司最小的员工",
+        "onboard_time": 1776248602,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67443,
+        "num": 67443,
+        "word": "允许自己阶段性枯萎",
+        "onboard_time": 1776253461,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66859,
+        "num": 66859,
+        "word": "孙怡怎么年纪轻轻就耳背了",
+        "onboard_time": 1776254361,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66212,
+        "num": 66212,
+        "word": "张真源暂时缺席录制跑男",
+        "onboard_time": 1776247641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57005,
+        "num": 66156,
+        "word": "比亚迪在日本销量翻番",
+        "onboard_time": 1776254240,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56817,
+        "num": 66134,
+        "word": "曾沛慈 毛巾包头",
+        "onboard_time": 1776242181,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61127,
+        "num": 66053,
+        "word": "松岛教练直言输王楚钦无解",
+        "onboard_time": 1776246920,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57126,
+        "num": 65942,
+        "word": "第1天入职第2天就出国",
+        "onboard_time": 1776238101,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系的稳定性确定性尤为宝贵#"
+    }
+  }
+}
