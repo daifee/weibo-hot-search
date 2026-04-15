@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776290557995,
+  "endTime": 1776291048367,
   "band_list": [
     {
       "raw_hot": 253033,
@@ -51,20 +51,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103653,
+      "num": 21938,
+      "word": "法国将不义之财归还被抢掠的中国",
+      "onboard_time": 1776281114,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102994,
       "num": 60652,
       "word": "骑车遭开门杀致1人被碾压身亡",
       "onboard_time": 1776260602,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98556,
-      "num": 20508,
-      "word": "法国将不义之财归还被抢掠的中国",
-      "onboard_time": 1776281114,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94555,
@@ -75,7 +75,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79050,
+      "raw_hot": 92895,
       "num": 44738,
       "word": "男子遭开门杀碾压身亡目击者发声",
       "onboard_time": 1776267320,
@@ -131,6 +131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60077,
+      "num": 226446,
+      "word": "多条东南亚航线突然取消原因曝光",
+      "onboard_time": 1776272417,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58617,
+      "num": 58617,
+      "word": "伊朗警告美持续封锁是破坏停火前奏",
+      "onboard_time": 1776273557,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53437,
       "num": 46634,
       "word": "田曦薇张凌赫庆功宴小动作",
@@ -139,28 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50698,
-      "num": 194075,
-      "word": "多条东南亚航线突然取消原因曝光",
-      "onboard_time": 1776272417,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47410,
       "num": 47410,
       "word": "万能抑制食欲法",
       "onboard_time": 1776256824,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 46520,
-      "num": 46520,
-      "word": "伊朗警告美持续封锁是破坏停火前奏",
-      "onboard_time": 1776273557,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45462,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36150,
+      "num": 42700,
+      "word": "业内人士对肖战团队的评价",
+      "onboard_time": 1776274337,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35884,
       "num": 45298,
       "word": "KSG狼AGDYG一组",
@@ -281,14 +289,6 @@
       "onboard_time": 1776247641,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30969,
-      "num": 42700,
-      "word": "业内人士对肖战团队的评价",
-      "onboard_time": 1776274337,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 30851,
@@ -435,20 +435,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 19456,
-      "num": 19456,
-      "word": "31岁男子滑旱冰摔倒去世",
-      "onboard_time": 1776263302,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18801,
+      "raw_hot": 19471,
       "num": 42068,
       "word": "印度一男子举铁管赶猴碰高压线身亡",
       "onboard_time": 1776262582,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19456,
+      "num": 21935,
+      "word": "31岁男子滑旱冰摔倒去世",
+      "onboard_time": 1776263302,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17546,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 16807,
-      "num": 20478,
+      "num": 21931,
       "word": "伊朗要求五个地区国赔偿战争损失",
       "onboard_time": 1776281054,
       "rank": 38,
@@ -475,11 +475,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14358,
-      "num": 19448,
+      "raw_hot": 15665,
+      "num": 21928,
       "word": "律师谈开门杀致1人被碾压身亡",
       "onboard_time": 1776283993,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15359,
+      "num": 21928,
+      "word": "班主任开房猥亵学生需要提级调查",
+      "onboard_time": 1776275296,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -499,16 +507,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13549,
-      "num": 20462,
-      "word": "班主任开房猥亵学生需要提级调查",
-      "onboard_time": 1776275296,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11824,
-      "num": 19445,
+      "num": 21925,
       "word": "简单又好吃的可乐鸡排教程",
       "onboard_time": 1776289634,
       "rank": 49,
