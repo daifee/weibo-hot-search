@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776224919603,
+  "endTime": 1776233184101,
   "band_list": [
     {
       "raw_hot": 3389918,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914978,
+      "num": 190423,
+      "word": "孙红雷连夜关闭了人脸支付",
+      "onboard_time": 1776227721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875455,
       "num": 205279,
       "word": "泰国海岸惊现被斩首美人鱼",
@@ -289,6 +297,14 @@
       "onboard_time": 1775918487,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728468,
+      "num": 188355,
+      "word": "魏晨儿子都这么大了",
+      "onboard_time": 1776225561,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 717758,
@@ -763,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 491643,
+      "num": 1078663,
+      "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+      "onboard_time": 1776223699,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485189,
       "num": 485189,
       "word": "lululemon或与不孕等风险相关",
@@ -785,6 +809,22 @@
       "onboard_time": 1776216320,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 479719,
+      "num": 479719,
+      "word": "霍尔木兹堵不住中国",
+      "onboard_time": 1776229402,
+      "rank": 3,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 479219,
+      "num": 479219,
+      "word": "李小冉 舞蹈界失去了一个无关紧要的人",
+      "onboard_time": 1776226282,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 478643,
@@ -897,6 +937,14 @@
       "onboard_time": 1776204075,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433097,
+      "num": 433097,
+      "word": "李昀锐关晓彤牵手剧宣",
+      "onboard_time": 1776228143,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 432778,
@@ -1059,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401615,
+      "num": 180783,
+      "word": "森碟18岁了",
+      "onboard_time": 1776225801,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396955,
       "num": 1063512,
       "word": "醉酒男子叫代驾到村口留置车内死亡",
@@ -1123,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385804,
+      "num": 788441,
+      "word": "画梦录阵容官宣",
+      "onboard_time": 1776227481,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385134,
       "num": 385134,
       "word": "曝等风热吻你两组主演",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1775990602,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376845,
-      "num": 376845,
-      "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
-      "onboard_time": 1776223699,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375823,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1776218420,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367596,
+      "num": 367596,
+      "word": "安赛龙宣布退役",
+      "onboard_time": 1776231141,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 367249,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1776088883,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350806,
+      "num": 350806,
+      "word": "出生4天被秤砣砸中女婴父亲发声",
+      "onboard_time": 1776227661,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350071,
@@ -1481,6 +1553,14 @@
       "onboard_time": 1776136820,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326412,
+      "num": 326412,
+      "word": "全网第一个装植物人的婆婆",
+      "onboard_time": 1776226700,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 324735,
@@ -1771,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289317,
+      "num": 185548,
+      "word": "班主任开房猥亵学生为何只是行政处罚",
+      "onboard_time": 1776230540,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 288952,
       "num": 288952,
       "word": "美军开始拦截进出霍尔木兹海峡船只",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1776138262,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283147,
+      "num": 184583,
+      "word": "遭班主任猥亵15岁女生讲述经过",
+      "onboard_time": 1776229461,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281392,
@@ -1921,6 +2017,14 @@
       "onboard_time": 1776165442,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270369,
+      "num": 180304,
+      "word": "B太帮扶大山女孩用苹果手机",
+      "onboard_time": 1776229821,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269661,
@@ -2040,6 +2144,14 @@
       "word": "朱珠这个气质怎么看都不会是保洁",
       "onboard_time": 1776137301,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255787,
+      "num": 177744,
+      "word": "文彩元6月结婚",
+      "onboard_time": 1776230782,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2419,6 +2531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216526,
+      "num": 174039,
+      "word": "脱口秀演员曝王阳早年遭职场霸凌",
+      "onboard_time": 1776231441,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "时代少年团高会官宣演唱会",
@@ -2635,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200728,
+      "num": 139930,
+      "word": "法国殖民时期掠夺的文物将归还原国",
+      "onboard_time": 1776229761,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200414,
       "num": 200414,
       "word": "网易云音乐就AI广告诡异画面道歉",
@@ -2697,6 +2825,14 @@
       "onboard_time": 1776007103,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191230,
+      "num": 137126,
+      "word": "婚事谈崩男子杀害怀孕女友一家3口",
+      "onboard_time": 1776232039,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191160,
@@ -2985,6 +3121,14 @@
       "onboard_time": 1776091763,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173677,
+      "num": 173677,
+      "word": "雷军会见阿布扎比王储",
+      "onboard_time": 1776228681,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 173521,
@@ -4043,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119195,
+      "num": 119195,
+      "word": "伊朗总统质问美国凭什么攻击伊朗",
+      "onboard_time": 1776230840,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119127,
       "num": 119127,
       "word": "海底捞CEO向贴钱员工致歉",
@@ -4081,6 +4233,14 @@
       "onboard_time": 1776092901,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "男子每天只睡2小时1个月后想轻生",
+      "onboard_time": 1776228261,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117583,
@@ -4483,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108756,
+      "num": 108756,
+      "word": "阿夫迪亚绝杀太阳",
+      "onboard_time": 1776231141,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108618,
       "num": 125717,
       "word": "受困霍尔木兹海峡船员已有精神问题",
@@ -4537,6 +4705,14 @@
       "onboard_time": 1776170482,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107406,
+      "num": 107406,
+      "word": "阚清子腰伤复发",
+      "onboard_time": 1776229042,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 106900,
@@ -4641,6 +4817,14 @@
       "onboard_time": 1776051800,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "女司机飙车险撞人后在车内笑",
+      "onboard_time": 1776230121,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 105815,
@@ -4785,6 +4969,14 @@
       "onboard_time": 1775921962,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102295,
+      "num": 102295,
+      "word": "张凌赫环保纪录片全素颜",
+      "onboard_time": 1776230482,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 101858,
@@ -5387,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92304,
+      "num": 92304,
+      "word": "杨瀚森征战NBA季后赛",
+      "onboard_time": 1776232102,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92269,
       "num": 92269,
       "word": "楚乔传剧组低山臭水遇知音",
@@ -5609,6 +5809,14 @@
       "onboard_time": 1776183798,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89385,
+      "num": 89385,
+      "word": "KPL",
+      "onboard_time": 1776227782,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 88952,
@@ -6363,6 +6571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77613,
+      "num": 77613,
+      "word": "项羽当年是缺创可贴吗",
+      "onboard_time": 1776224900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77572,
       "num": 77572,
       "word": "伊媒称美国过分要求阻碍协议达成",
@@ -6635,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74016,
+      "num": 74016,
+      "word": "张雪回应交警打鸡血质问",
+      "onboard_time": 1776232941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73948,
       "num": 73948,
       "word": "多方资本领投涉黄AI软件",
@@ -6787,14 +7011,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 72410,
-      "num": 72410,
-      "word": "项羽当年是缺创可贴吗",
-      "onboard_time": 1776224900,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72367,
       "num": 80073,
       "word": "在日本汤凉了他们会提供一块热石头",
@@ -6867,6 +7083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71399,
+      "num": 140569,
+      "word": "泼水节不能变成骚扰者的狂欢",
+      "onboard_time": 1776231980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71381,
       "num": 77148,
       "word": "多国就匈牙利国会选举结果表态",
@@ -6929,6 +7153,14 @@
       "onboard_time": 1776161722,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69905,
+      "num": 69905,
+      "word": "董思成团播",
+      "onboard_time": 1776225681,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 69700,
@@ -7083,12 +7315,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67635,
+      "num": 67635,
+      "word": "原来葡式蛋挞和葡萄没关系",
+      "onboard_time": 1776226167,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 67616,
+      "num": 67616,
+      "word": "果然谁都拒绝不了情绪价值",
+      "onboard_time": 1776230660,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67593,
       "num": 67593,
       "word": "演员郑雷去世",
       "onboard_time": 1776040282,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67568,
+      "num": 67568,
+      "word": "王一博杂志",
+      "onboard_time": 1776226462,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67258,
@@ -7113,6 +7369,14 @@
       "onboard_time": 1776166462,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66781,
+      "num": 66781,
+      "word": "为什么凉拌菜不能当减脂餐",
+      "onboard_time": 1776229641,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 66644,
@@ -7201,6 +7465,14 @@
       "onboard_time": 1776158422,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 65329,
+      "word": "世界羽联祝福安赛龙",
+      "onboard_time": 1776232761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65236,
@@ -7771,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50493,
+      "num": 82257,
+      "word": "杨幂的这句晚安好梦能听一百遍",
+      "onboard_time": 1776231141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50154,
       "num": 50154,
       "word": "广东将再次迎来暴雨",
@@ -8009,6 +8289,14 @@
       "onboard_time": 1776098778,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43061,
+      "num": 63581,
+      "word": "苹果回应升级iOS系统后耗电快",
+      "onboard_time": 1776230482,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 42375,
@@ -8635,6 +8923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23914,
+      "num": 82366,
+      "word": "18部影片定档五一档",
+      "onboard_time": 1776232822,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23678,
       "num": 674294,
       "word": "一季度进出口创新高",
@@ -8961,6 +9257,14 @@
       "onboard_time": 1776189615,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13117,
+      "num": 107974,
+      "word": "超2400万伊朗人注册为伊朗捐躯",
+      "onboard_time": 1776232880,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12797,

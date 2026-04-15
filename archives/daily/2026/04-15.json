@@ -1,6 +1,6 @@
 {
   "startTime": 1776183348174,
-  "endTime": 1776224919603,
+  "endTime": 1776233184101,
   "band_list": [
     {
       "raw_hot": 920174,
@@ -9,6 +9,22 @@
       "onboard_time": 1776222019,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 914978,
+      "num": 190423,
+      "word": "孙红雷连夜关闭了人脸支付",
+      "onboard_time": 1776227721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 728468,
+      "num": 188355,
+      "word": "魏晨儿子都这么大了",
+      "onboard_time": 1776225561,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 689983,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491643,
+      "num": 1078663,
+      "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+      "onboard_time": 1776223699,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485189,
       "num": 485189,
       "word": "lululemon或与不孕等风险相关",
@@ -99,6 +123,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 479719,
+      "num": 479719,
+      "word": "霍尔木兹堵不住中国",
+      "onboard_time": 1776229402,
+      "rank": 3,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 479219,
+      "num": 479219,
+      "word": "李小冉 舞蹈界失去了一个无关紧要的人",
+      "onboard_time": 1776226282,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467405,
       "num": 122624,
       "word": "15岁女生被班主任开房猥亵服药轻生",
@@ -113,6 +153,14 @@
       "onboard_time": 1776204075,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433097,
+      "num": 433097,
+      "word": "李昀锐关晓彤牵手剧宣",
+      "onboard_time": 1776228143,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 413828,
@@ -137,6 +185,14 @@
       "onboard_time": 1776222919,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401615,
+      "num": 180783,
+      "word": "森碟18岁了",
+      "onboard_time": 1776225801,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 393745,
@@ -171,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376845,
-      "num": 376845,
-      "word": "驻外人员嫖娼遭仙人跳出卖国家秘密",
-      "onboard_time": 1776223699,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 385804,
+      "num": 788441,
+      "word": "画梦录阵容官宣",
+      "onboard_time": 1776227481,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 373976,
@@ -195,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367596,
+      "num": 367596,
+      "word": "安赛龙宣布退役",
+      "onboard_time": 1776231141,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350806,
+      "num": 350806,
+      "word": "出生4天被秤砣砸中女婴父亲发声",
+      "onboard_time": 1776227661,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344833,
       "num": 124790,
       "word": "朱珠把女儿当女士来养",
@@ -209,6 +281,14 @@
       "onboard_time": 1776210920,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326412,
+      "num": 326412,
+      "word": "全网第一个装植物人的婆婆",
+      "onboard_time": 1776226700,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 320588,
@@ -241,6 +321,38 @@
       "onboard_time": 1776220700,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289317,
+      "num": 185548,
+      "word": "班主任开房猥亵学生为何只是行政处罚",
+      "onboard_time": 1776230540,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 283147,
+      "num": 184583,
+      "word": "遭班主任猥亵15岁女生讲述经过",
+      "onboard_time": 1776229461,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270369,
+      "num": 180304,
+      "word": "B太帮扶大山女孩用苹果手机",
+      "onboard_time": 1776229821,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255787,
+      "num": 177744,
+      "word": "文彩元6月结婚",
+      "onboard_time": 1776230782,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 246848,
@@ -283,11 +395,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216526,
+      "num": 174039,
+      "word": "脱口秀演员曝王阳早年遭职场霸凌",
+      "onboard_time": 1776231441,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212103,
       "num": 702008,
       "word": "五一飞往东南亚航班大规模取消",
       "onboard_time": 1776170243,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200728,
+      "num": 139930,
+      "word": "法国殖民时期掠夺的文物将归还原国",
+      "onboard_time": 1776229761,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 191230,
+      "num": 137126,
+      "word": "婚事谈崩男子杀害怀孕女友一家3口",
+      "onboard_time": 1776232039,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -313,6 +449,14 @@
       "onboard_time": 1776216141,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173677,
+      "num": 173677,
+      "word": "雷军会见阿布扎比王储",
+      "onboard_time": 1776228681,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 166439,
@@ -483,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119195,
+      "num": 119195,
+      "word": "伊朗总统质问美国凭什么攻击伊朗",
+      "onboard_time": 1776230840,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118773,
       "num": 112995,
       "word": "小金豆价格下跌",
       "onboard_time": 1776211041,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "男子每天只睡2小时1个月后想轻生",
+      "onboard_time": 1776228261,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116225,
@@ -531,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108756,
+      "num": 108756,
+      "word": "阿夫迪亚绝杀太阳",
+      "onboard_time": 1776231141,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108240,
       "num": 108240,
       "word": "警察不帮忙管娃男子3h报警47次",
       "onboard_time": 1776223340,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107406,
+      "num": 107406,
+      "word": "阚清子腰伤复发",
+      "onboard_time": 1776229042,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 106900,
@@ -555,12 +731,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "女司机飙车险撞人后在车内笑",
+      "onboard_time": 1776230121,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 103719,
       "num": 111306,
       "word": "女孩太想念老人睡墓碑旁不愿走",
       "onboard_time": 1776209179,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102295,
+      "num": 102295,
+      "word": "张凌赫环保纪录片全素颜",
+      "onboard_time": 1776230482,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 102228,
@@ -667,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92304,
+      "num": 92304,
+      "word": "杨瀚森征战NBA季后赛",
+      "onboard_time": 1776232102,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91976,
       "num": 91976,
       "word": "黄金跌破4840美元关口",
@@ -681,6 +881,14 @@
       "onboard_time": 1776183798,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89385,
+      "num": 89385,
+      "word": "KPL",
+      "onboard_time": 1776227782,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 89253,
@@ -729,6 +937,14 @@
       "onboard_time": 1776223761,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82901,
+      "num": 82901,
+      "word": "伊朗放重磅信号",
+      "onboard_time": 1776232702,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80672,
@@ -795,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77613,
+      "num": 77613,
+      "word": "项羽当年是缺创可贴吗",
+      "onboard_time": 1776224900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76866,
       "num": 76866,
       "word": "山东临沂成立联合调查组",
@@ -835,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74016,
+      "num": 74016,
+      "word": "张雪回应交警打鸡血质问",
+      "onboard_time": 1776232941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73671,
       "num": 94434,
       "word": "中方从不承认所谓阿鲁纳恰尔邦",
@@ -851,20 +1083,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72410,
-      "num": 72410,
-      "word": "项羽当年是缺创可贴吗",
-      "onboard_time": 1776224900,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71727,
       "num": 124569,
       "word": "糖尿病与牙周炎双向影响",
       "onboard_time": 1776207737,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71399,
+      "num": 140569,
+      "word": "泼水节不能变成骚扰者的狂欢",
+      "onboard_time": 1776231980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70979,
@@ -881,6 +1113,14 @@
       "onboard_time": 1776172342,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69905,
+      "num": 69905,
+      "word": "董思成团播",
+      "onboard_time": 1776225681,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 69700,
@@ -915,12 +1155,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67635,
+      "num": 67635,
+      "word": "原来葡式蛋挞和葡萄没关系",
+      "onboard_time": 1776226167,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 67616,
+      "num": 67616,
+      "word": "果然谁都拒绝不了情绪价值",
+      "onboard_time": 1776230660,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 67568,
+      "num": 67568,
+      "word": "王一博杂志",
+      "onboard_time": 1776226462,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67175,
       "num": 67175,
       "word": "间谍伪装旅行博主被大学生识破",
       "onboard_time": 1776224780,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66781,
+      "num": 66781,
+      "word": "为什么凉拌菜不能当减脂餐",
+      "onboard_time": 1776229641,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 66512,
@@ -969,6 +1241,14 @@
       "onboard_time": 1776175404,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65329,
+      "num": 65329,
+      "word": "世界羽联祝福安赛龙",
+      "onboard_time": 1776232761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 64810,
@@ -1059,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50493,
+      "num": 82257,
+      "word": "杨幂的这句晚安好梦能听一百遍",
+      "onboard_time": 1776231141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50154,
       "num": 50154,
       "word": "广东将再次迎来暴雨",
@@ -1089,6 +1377,14 @@
       "onboard_time": 1776163042,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43061,
+      "num": 63581,
+      "word": "苹果回应升级iOS系统后耗电快",
+      "onboard_time": 1776230482,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 42168,
@@ -1177,6 +1473,14 @@
       "onboard_time": 1776187097,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23914,
+      "num": 82366,
+      "word": "18部影片定档五一档",
+      "onboard_time": 1776232822,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 23421,
@@ -1305,6 +1609,14 @@
       "onboard_time": 1776189615,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13117,
+      "num": 107974,
+      "word": "超2400万伊朗人注册为伊朗捐躯",
+      "onboard_time": 1776232880,
+      "rank": 26,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
