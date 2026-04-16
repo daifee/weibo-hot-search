@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776361920069,
+  "endTime": 1776363236840,
   "band_list": [
     {
       "raw_hot": 2371127,
@@ -443,20 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33354,
+      "raw_hot": 36362,
+      "num": 36362,
+      "word": "周洁琼后背湿透了",
+      "onboard_time": 1776361756,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 34877,
       "num": 31010,
       "word": "警方通报火锅店女老板被顾客骚扰",
       "onboard_time": 1776360436,
       "rank": 30,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 31240,
-      "num": 31240,
-      "word": "周洁琼后背湿透了",
-      "onboard_time": 1776361756,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 28568,
@@ -481,6 +481,22 @@
       "onboard_time": 1776343640,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22907,
+      "num": 30968,
+      "word": "罗大美生前外借200多万基本没收回",
+      "onboard_time": 1776358819,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22358,
+      "num": 30671,
+      "word": "泼水节被多人泼水汽车后备箱也遭殃",
+      "onboard_time": 1776362715,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22283,
@@ -515,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19176,
-      "num": 30611,
-      "word": "罗大美生前外借200多万基本没收回",
-      "onboard_time": 1776358819,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 19444,
+      "num": 30506,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17906,
@@ -529,14 +545,6 @@
       "onboard_time": 1776340820,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17856,
-      "num": 30506,
-      "word": "伊朗审慎应对再与美谈判或延长停火",
-      "onboard_time": 1776353302,
-      "rank": 47,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
