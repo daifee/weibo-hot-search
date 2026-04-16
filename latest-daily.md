@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/17 00:04:11 ~ 2026/04/17 03:45:24
+本榜单时间：2026/04/17 00:04:11 ~ 2026/04/17 04:05:35
 </p>
 </blockquote>
 <p>
@@ -364,7 +364,7 @@ Claude Opus4.7（热度：70421）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E6%9D%A5%E4%B8%B4%E5%89%8D6%E4%B8%AA%E9%9A%90%E5%8C%BF%E4%BF%A1%E5%8F%B7%23" target="weibo">
-猝死来临前6个隐匿信号（热度：29620）
+猝死来临前6个隐匿信号（热度：31302）
 </a>
 </li>
 
@@ -377,6 +377,12 @@ Claude Opus4.7（热度：70421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9E%97%E4%B9%98%E9%AB%98%E9%93%81%E6%8A%B5%E8%BE%BE%E5%B9%BF%E8%A5%BF%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
 苏林乘高铁抵达广西现场画面（热度：24307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23" target="weibo">
+伊朗审慎应对再与美谈判或延长停火（热度：24149）
 </a>
 </li>
 
@@ -401,12 +407,6 @@ Claude Opus4.7（热度：70421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%BD%95%E8%A7%81%E4%BC%A0%E6%9F%93%E7%97%85%23" target="weibo">
 深圳一男子确诊罕见传染病（热度：22283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23" target="weibo">
-伊朗审慎应对再与美谈判或延长停火（热度：21679）
 </a>
 </li>
 
