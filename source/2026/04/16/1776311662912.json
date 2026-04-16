@@ -1,0 +1,410 @@
+{
+  "runTime": 1776311662912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9017754,
+        "num": 9017754,
+        "word": "丝芭总裁王子杰去世",
+        "onboard_time": 1776308661,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248699,
+        "num": 1743527,
+        "word": "医生回应35岁孕妇吃冰箱剩菜后去世",
+        "onboard_time": 1776307939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24102,
+        "num": 1414750,
+        "word": "全国工程建设小阳春",
+        "onboard_time": 1776305779,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812334,
+        "num": 812334,
+        "word": "丙午年 心脏",
+        "onboard_time": 1776310041,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374560,
+        "num": 374560,
+        "word": "赵子琪张慧雯吵架是怎么剪辑出来的",
+        "onboard_time": 1776308360,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328109,
+        "num": 328109,
+        "word": "警方通报骑车遭开门杀被碾压身亡",
+        "onboard_time": 1776304580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181502,
+        "num": 181502,
+        "word": "徐洁儿看到自己一公倒数第一的反应",
+        "onboard_time": 1776310463,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161475,
+        "num": 161475,
+        "word": "河南一景区露脚踝大象系演员扮演",
+        "onboard_time": 1776298041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100366,
+        "num": 160906,
+        "word": "勇士vs快船",
+        "onboard_time": 1776308600,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96751,
+        "num": 160283,
+        "word": "浙江癌症发病率死亡率首位均为肺癌",
+        "onboard_time": 1776303620,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 537623,
+        "num": 159665,
+        "word": "小黄豆自曝在泼水节被喷未知液体",
+        "onboard_time": 1776306680,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230664,
+        "num": 159391,
+        "word": "金立手机创始人曾赌博输掉十几亿",
+        "onboard_time": 1776302302,
+        "rank": 11,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 227571,
+        "num": 158256,
+        "word": "曝鹤男年龄造假",
+        "onboard_time": 1776299902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215148,
+        "num": 157353,
+        "word": "王子杰好友发文悼念",
+        "onboard_time": 1776303681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143545,
+        "num": 156929,
+        "word": "伊朗总统感谢中国",
+        "onboard_time": 1776300622,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209489,
+        "num": 155930,
+        "word": "易烊千玺 华为",
+        "onboard_time": 1776304101,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 142794,
+        "num": 155441,
+        "word": "小狗叼东西证明自己不咬人",
+        "onboard_time": 1776310705,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127920,
+        "num": 154627,
+        "word": "邓凯孔雪儿路透",
+        "onboard_time": 1776303500,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54856,
+        "num": 154507,
+        "word": "小米史上最大电池手机曝光",
+        "onboard_time": 1776298461,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136583,
+        "num": 153627,
+        "word": "外籍人员境内违规捕蝶被钓鱼者识破",
+        "onboard_time": 1776309202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228874,
+        "num": 152615,
+        "word": "建议大家自己做饭",
+        "onboard_time": 1776299842,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182255,
+        "num": 152170,
+        "word": "向华强女儿说向太拿烟头烫她",
+        "onboard_time": 1776311363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33013,
+        "num": 151675,
+        "word": "沃尔沃XC70被热气球带上35米高空",
+        "onboard_time": 1776309263,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144548,
+        "num": 150677,
+        "word": "越吃越胖素菜名单",
+        "onboard_time": 1776298461,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125728,
+        "num": 150215,
+        "word": "小伙快递被同事误拆群里发文后被辞",
+        "onboard_time": 1776306801,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107759,
+        "num": 149274,
+        "word": "赵子琪称直播揭露所有真相",
+        "onboard_time": 1776309142,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85590,
+        "num": 148916,
+        "word": "四渡定档",
+        "onboard_time": 1776308240,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81383,
+        "num": 147763,
+        "word": "法国将不义之财归还被抢掠的中国",
+        "onboard_time": 1776281114,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125934,
+        "num": 147541,
+        "word": "朋友圈这样发涉嫌违法",
+        "onboard_time": 1776311244,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118769,
+        "num": 146496,
+        "word": "间谍外逃被一村民拦下",
+        "onboard_time": 1776309324,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143642,
+        "num": 146133,
+        "word": "鹤男粉丝脱粉",
+        "onboard_time": 1776303320,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136190,
+        "num": 144877,
+        "word": "吴向飞发李荣浩相关情况说明",
+        "onboard_time": 1776301101,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290442,
+        "num": 144202,
+        "word": "网盘禁止传播海外影视资源",
+        "onboard_time": 1776310705,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11155,
+        "num": 144111,
+        "word": "B太否认为流量揭露大山女孩真相",
+        "onboard_time": 1776311542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132706,
+        "num": 143010,
+        "word": "朱一龙吃蛋糕嘴全黑了",
+        "onboard_time": 1776309983,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54474,
+        "num": 142667,
+        "word": "圆明园被劫掠文物或有望回中国",
+        "onboard_time": 1776306859,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114190,
+        "num": 141974,
+        "word": "武汉市原市长周先旺被起诉",
+        "onboard_time": 1776307939,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103578,
+        "num": 140838,
+        "word": "穆祉丞证件照",
+        "onboard_time": 1776311303,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 140162,
+        "word": "乙肝到肝癌只需要三步",
+        "onboard_time": 1776307400,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83693,
+        "num": 139526,
+        "word": "樊振东打响指叫队友",
+        "onboard_time": 1776311426,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98634,
+        "num": 138581,
+        "word": "多地宣布中考不再考生物地理",
+        "onboard_time": 1776311244,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87846,
+        "num": 138236,
+        "word": "光遇",
+        "onboard_time": 1776306739,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86942,
+        "num": 137608,
+        "word": "王赫野也来跳胆小鬼了",
+        "onboard_time": 1776311483,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77666,
+        "num": 136710,
+        "word": "自己一个人旅游的原因",
+        "onboard_time": 1776304700,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76985,
+        "num": 136215,
+        "word": "爱心公众孙颖莎",
+        "onboard_time": 1776311062,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74574,
+        "num": 135475,
+        "word": "洛克王国补偿异色怎么选",
+        "onboard_time": 1776310222,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73920,
+        "num": 134727,
+        "word": "Anton泡泡发言引发争议",
+        "onboard_time": 1776305420,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73425,
+        "num": 134061,
+        "word": "周润发张国荣纵横四海定档",
+        "onboard_time": 1776311244,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72608,
+        "num": 133269,
+        "word": "吸味体质",
+        "onboard_time": 1776310463,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61108,
+        "num": 132391,
+        "word": "迪丽热巴白日提灯全集有广",
+        "onboard_time": 1776298642,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越友好的未来在青年#"
+    }
+  }
+}

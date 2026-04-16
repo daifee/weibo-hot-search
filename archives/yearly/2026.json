@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776310200713,
+  "endTime": 1776311662912,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -443,6 +443,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 9017754,
+      "num": 9017754,
+      "word": "丝芭总裁王子杰去世",
+      "onboard_time": 1776308661,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8970126,
       "num": 8970126,
       "word": "鞠婧祎 收入明细",
@@ -689,14 +697,6 @@
       "onboard_time": 1770549860,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5803834,
-      "num": 5803834,
-      "word": "丝芭总裁王子杰去世",
-      "onboard_time": 1776308661,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5646705,
