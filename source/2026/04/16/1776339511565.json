@@ -1,0 +1,410 @@
+{
+  "runTime": 1776339511565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 269029,
+        "num": 1043044,
+        "word": "陪91岁大爷玩手机月入5000",
+        "onboard_time": 1776336501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63465,
+        "num": 735526,
+        "word": "澳门经济财政司司长戴建业被免职",
+        "onboard_time": 1776338781,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14185,
+        "num": 601413,
+        "word": "2026年一季度GDP同比增长5.0%",
+        "onboard_time": 1776306859,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331237,
+        "num": 331237,
+        "word": "深圳一男子确诊罕见传染病",
+        "onboard_time": 1776336201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261853,
+        "num": 328262,
+        "word": "中方回应特朗普称访华不受影响",
+        "onboard_time": 1776337281,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326519,
+        "num": 326519,
+        "word": "张豆豆崩溃大哭",
+        "onboard_time": 1776336741,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289214,
+        "num": 289214,
+        "word": "商家笑了半个月才舍得发货",
+        "onboard_time": 1776332541,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194327,
+        "num": 286580,
+        "word": "孙杨张豆豆在大巴车上吵起来了",
+        "onboard_time": 1776335481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122135,
+        "num": 285725,
+        "word": "雷军再次回应中间只充一次电言论",
+        "onboard_time": 1776330681,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72589,
+        "num": 282011,
+        "word": "Gemini Mac",
+        "onboard_time": 1776336320,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 658156,
+        "num": 278864,
+        "word": "向涵之 你替我拍戏",
+        "onboard_time": 1776331520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456869,
+        "num": 278080,
+        "word": "日本超市大抢购",
+        "onboard_time": 1776334640,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275911,
+        "num": 275911,
+        "word": "谢娜回应李小冉没法一起团建",
+        "onboard_time": 1776338060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176575,
+        "num": 176575,
+        "word": "邓超在儿子的颜值里起破坏作用",
+        "onboard_time": 1776329960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175998,
+        "num": 175998,
+        "word": "中国驻日大使馆接连遭到恐怖威胁",
+        "onboard_time": 1776326002,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148583,
+        "num": 148583,
+        "word": "女子称遭强奸后嫌疑人被取保放出",
+        "onboard_time": 1776337041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 140031,
+        "word": "人一退休面相都跟着变舒展了",
+        "onboard_time": 1776330921,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120470,
+        "num": 120470,
+        "word": "宋亚轩回归音综",
+        "onboard_time": 1776331761,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54383,
+        "num": 119832,
+        "word": "AL战胜WE",
+        "onboard_time": 1776338481,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126072,
+        "num": 119692,
+        "word": "杀害网红罗大美主犯死前见亲属",
+        "onboard_time": 1776338121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132146,
+        "num": 119048,
+        "word": "豆包帮挑的西瓜",
+        "onboard_time": 1776327083,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121573,
+        "num": 118298,
+        "word": "穆祉丞个人标签",
+        "onboard_time": 1776336801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117838,
+        "num": 117838,
+        "word": "丝芭旗下艺人感谢王子杰栽培",
+        "onboard_time": 1776332961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71458,
+        "num": 112188,
+        "word": "黄瓜泡面",
+        "onboard_time": 1776323001,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110112,
+        "num": 110112,
+        "word": "钟汉良回应没离过婚的女人不谈",
+        "onboard_time": 1776339140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93878,
+        "num": 109313,
+        "word": "K90Max玩游戏还是太权威了",
+        "onboard_time": 1776337581,
+        "rank": 25,
+        "category": "数码,电竞"
+      },
+      {
+        "raw_hot": 108893,
+        "num": 108893,
+        "word": "腾哥丽姐呢 在呢在呢",
+        "onboard_time": 1776336501,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106843,
+        "num": 106843,
+        "word": "曝包洁仪凄惨身世是假的",
+        "onboard_time": 1776321321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83740,
+        "num": 97268,
+        "word": "法院称papi妈妈抑郁症与案件无关",
+        "onboard_time": 1776334942,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83636,
+        "num": 94638,
+        "word": "千亿存储芯片一哥套现28亿",
+        "onboard_time": 1776335481,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92517,
+        "num": 92517,
+        "word": "孙怡cos黎璃",
+        "onboard_time": 1776321861,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89144,
+        "num": 89144,
+        "word": "北影节红毯",
+        "onboard_time": 1776323240,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78508,
+        "num": 89123,
+        "word": "女子买5份海鲜3份仅退款惹怒商家",
+        "onboard_time": 1776338960,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89104,
+        "num": 89104,
+        "word": "北影节开幕式",
+        "onboard_time": 1776338841,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84562,
+        "num": 84562,
+        "word": "檀健次拿着小风车被摸了一把又一把",
+        "onboard_time": 1776335901,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75512,
+        "num": 75512,
+        "word": "乌克兰濒临破产",
+        "onboard_time": 1776337340,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74461,
+        "num": 74461,
+        "word": "西班牙等来中企投资后感谢特朗普助攻",
+        "onboard_time": 1776335661,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74306,
+        "num": 74306,
+        "word": "跑男",
+        "onboard_time": 1776328881,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72391,
+        "num": 72391,
+        "word": "贺峻霖谁家贵公子",
+        "onboard_time": 1776335721,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70618,
+        "num": 70618,
+        "word": "小米食堂3天卖2000多只冰淇淋",
+        "onboard_time": 1776331880,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 69936,
+        "num": 69936,
+        "word": "伊朗早有后手",
+        "onboard_time": 1776339321,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65266,
+        "num": 65266,
+        "word": "16岁小伙确诊肺癌",
+        "onboard_time": 1776331641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63514,
+        "num": 63514,
+        "word": "去体检被医生说没元素了",
+        "onboard_time": 1776337760,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158846,
+        "num": 63498,
+        "word": "陈泽 一万杯奶茶",
+        "onboard_time": 1776335481,
+        "rank": 43,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 63445,
+        "num": 63445,
+        "word": "小偷竟是老板的猫",
+        "onboard_time": 1776338902,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34350,
+        "num": 62021,
+        "word": "中美就特朗普访华保持着沟通",
+        "onboard_time": 1776325822,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62001,
+        "num": 62001,
+        "word": "雷军15个小时直播不开车",
+        "onboard_time": 1776339021,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60491,
+        "num": 60491,
+        "word": "伊朗最高领袖威胁击沉美方舰艇",
+        "onboard_time": 1776331582,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60237,
+        "num": 60237,
+        "word": "爱马仕 Agent",
+        "onboard_time": 1776336982,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49769,
+        "num": 60000,
+        "word": "Uzi说这个月就先不直播了",
+        "onboard_time": 1776331702,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#繁忙元首外交彰显大国担当#"
+    }
+  }
+}
