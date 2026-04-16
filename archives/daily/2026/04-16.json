@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776329439239,
+  "endTime": 1776333420888,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -17,6 +17,14 @@
       "onboard_time": 1776310041,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 746438,
+      "num": 540259,
+      "word": "谁来救救孙丞潇",
+      "onboard_time": 1776329661,
+      "rank": 3,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 722966,
@@ -41,6 +49,14 @@
       "onboard_time": 1776311363,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692084,
+      "num": 534877,
+      "word": "男孩割喉涉事老人老伴因打击再住院",
+      "onboard_time": 1776330859,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 654981,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 416950,
-      "num": 144957,
+      "num": 165493,
       "word": "曝包洁仪凄惨身世是假的",
       "onboard_time": 1776321321,
       "rank": 11,
@@ -169,6 +185,14 @@
       "onboard_time": 1776308360,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374559,
+      "num": 374559,
+      "word": "豆包帮挑的西瓜",
+      "onboard_time": 1776327083,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 371577,
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314878,
+      "num": 244774,
+      "word": "邓超在儿子的颜值里起破坏作用",
+      "onboard_time": 1776329960,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307485,
       "num": 164258,
       "word": "陈律曝刘聪三个月借了自己50万",
@@ -257,6 +289,14 @@
       "onboard_time": 1776314483,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295987,
+      "num": 295987,
+      "word": "刘浩存好美",
+      "onboard_time": 1776328341,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 290442,
@@ -289,6 +329,14 @@
       "onboard_time": 1776302302,
       "rank": 12,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 279101,
+      "num": 279101,
+      "word": "人一退休面相都跟着变舒展了",
+      "onboard_time": 1776330921,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 265486,
@@ -371,8 +419,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241873,
+      "num": 241873,
+      "word": "宋亚轩回归音综",
+      "onboard_time": 1776331761,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231570,
-      "num": 231570,
+      "num": 258972,
       "word": "黄瓜泡面",
       "onboard_time": 1776323001,
       "rank": 6,
@@ -451,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208578,
-      "num": 102750,
-      "word": "刘浩存好美",
-      "onboard_time": 1776328341,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196463,
       "num": 483106,
       "word": "多条东南亚航线突然取消原因曝光",
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 190047,
-      "num": 190047,
+      "num": 734101,
       "word": "酒店订单备注玩梗被指侵犯隐私",
       "onboard_time": 1776325941,
       "rank": 24,
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 161355,
-      "num": 102742,
+      "num": 152740,
       "word": "跑男",
       "onboard_time": 1776328881,
       "rank": 17,
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 137097,
-      "num": 137097,
+      "num": 184119,
       "word": "小杨生煎回应包子皮放在抹布上",
       "onboard_time": 1776326600,
       "rank": 19,
@@ -779,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124593,
+      "num": 104710,
+      "word": "小米食堂3天卖2000多只冰淇淋",
+      "onboard_time": 1776331880,
+      "rank": 21,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 123087,
       "num": 123087,
       "word": "奔跑吧首播嘉宾是时代少年团",
@@ -856,6 +912,14 @@
       "word": "王俊凯八中时期旧照",
       "onboard_time": 1776324503,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111942,
+      "num": 111942,
+      "word": "向涵之 你替我拍戏",
+      "onboard_time": 1776331520,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -987,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96624,
-      "num": 102745,
-      "word": "豆包帮挑的西瓜",
-      "onboard_time": 1776327083,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95806,
       "num": 117165,
       "word": "洛克王国",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1776320000,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93670,
+      "num": 76665,
+      "word": "16岁小伙确诊肺癌",
+      "onboard_time": 1776331641,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93099,
@@ -1059,12 +1123,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 90065,
+      "num": 153338,
+      "word": "莫氏鸡煲老板回应商家排队送产品",
+      "onboard_time": 1776330561,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89710,
       "num": 89710,
       "word": "无限暖暖",
       "onboard_time": 1776316521,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87983,
+      "num": 87983,
+      "word": "白客给张若昀打伞",
+      "onboard_time": 1776329720,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 87890,
@@ -1089,6 +1169,14 @@
       "onboard_time": 1776258202,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86188,
+      "num": 86188,
+      "word": "国粤无双拟邀阵容",
+      "onboard_time": 1776330020,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 85966,
@@ -1131,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84183,
+      "num": 110428,
+      "word": "伊朗最高领袖威胁击沉美方舰艇",
+      "onboard_time": 1776331582,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83840,
       "num": 83840,
       "word": "北京国际电影节",
@@ -1147,12 +1243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83573,
+      "num": 91304,
+      "word": "商家笑了半个月才舍得发货",
+      "onboard_time": 1776332541,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83170,
       "num": 83170,
       "word": "赵子琪有两个女儿",
       "onboard_time": 1776325041,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83128,
+      "num": 77535,
+      "word": "戚薇梦回夏友善",
+      "onboard_time": 1776331102,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 82110,
@@ -1195,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78984,
+      "num": 246931,
+      "word": "外交部欧洲司宣传樊振东",
+      "onboard_time": 1776332901,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78200,
       "num": 106099,
       "word": "自如老师 侵权",
@@ -1217,6 +1337,14 @@
       "onboard_time": 1776299602,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77196,
+      "num": 106563,
+      "word": "Uzi说这个月就先不直播了",
+      "onboard_time": 1776331702,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 76985,
@@ -1265,6 +1393,14 @@
       "onboard_time": 1776324503,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74909,
+      "num": 108550,
+      "word": "雷军再次回应中间只充一次电言论",
+      "onboard_time": 1776330681,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 74574,
@@ -1355,12 +1491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68582,
+      "num": 67742,
+      "word": "丝芭旗下艺人感谢王子杰栽培",
+      "onboard_time": 1776332961,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68241,
       "num": 68241,
       "word": "雷军回应直播15小时",
       "onboard_time": 1776326061,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 67776,
+      "num": 67776,
+      "word": "女子领证21天后输液昏迷丈夫发声",
+      "onboard_time": 1776330141,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67711,
@@ -1385,6 +1537,14 @@
       "onboard_time": 1776298642,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67270,
+      "num": 67270,
+      "word": "在音乐节的我vs在工位的我",
+      "onboard_time": 1776332180,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 67090,
@@ -1467,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61931,
+      "num": 61931,
+      "word": "警察执勤点贴出勿泼水告示仍被泼",
+      "onboard_time": 1776330382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61851,
       "num": 132520,
       "word": "保罗发表情包嘲讽快船",
@@ -1489,6 +1657,14 @@
       "onboard_time": 1776327441,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61348,
+      "num": 61348,
+      "word": "警察带台湾同胞走中国公民专用通道",
+      "onboard_time": 1776331400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60965,
@@ -1521,6 +1697,14 @@
       "onboard_time": 1776326721,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58153,
+      "num": 102550,
+      "word": "在南京偶遇了刘宇宁",
+      "onboard_time": 1776330322,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 57521,
@@ -1571,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54589,
+      "num": 54589,
+      "word": "黄渤带倪妮拼豆走红毯",
+      "onboard_time": 1776332301,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54474,
       "num": 142667,
       "word": "圆明园被劫掠文物或有望回中国",
@@ -1601,6 +1793,14 @@
       "onboard_time": 1776294558,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52976,
+      "num": 52976,
+      "word": "白宫公布特朗普凯旋门计划",
+      "onboard_time": 1776329481,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51650,
@@ -1665,6 +1865,14 @@
       "onboard_time": 1776262582,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43585,
+      "num": 61376,
+      "word": "刘雅瑟深v开到腰了",
+      "onboard_time": 1776331042,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 43364,
