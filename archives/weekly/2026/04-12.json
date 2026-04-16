@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776351778138,
+  "endTime": 1776355451382,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -33,6 +33,14 @@
       "onboard_time": 1776346821,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2371127,
+      "num": 121569,
+      "word": "诚实一口道歉",
+      "onboard_time": 1776351862,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2221110,
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488112,
+      "num": 81164,
+      "word": "47岁外卖员出租屋离世一月才被发现",
+      "onboard_time": 1776351381,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486598,
       "num": 486598,
       "word": "李小冉 舞蹈界失去了一个无关紧要的人",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1776035778,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 455692,
+      "num": 455692,
+      "word": "黄灿灿梦回武大校花",
+      "onboard_time": 1776350183,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 454065,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1776326002,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 374887,
-      "num": 193344,
-      "word": "黄灿灿梦回武大校花",
-      "onboard_time": 1776350183,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 374560,
@@ -3707,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210509,
+      "num": 750456,
+      "word": "最不困的人叫醒最困的人",
+      "onboard_time": 1776351083,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210381,
       "num": 210381,
       "word": "万能抑制食欲法",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1776134001,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203871,
+      "num": 203871,
+      "word": "偷偷藏不住剧组亮相北影节",
+      "onboard_time": 1776352162,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 203802,
@@ -3955,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196155,
+      "num": 121169,
+      "word": "张凌赫深圳",
+      "onboard_time": 1776352582,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194327,
       "num": 286580,
       "word": "孙杨张豆豆在大巴车上吵起来了",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1775987480,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186560,
+      "num": 119737,
+      "word": "诚实一口开除涉事主播",
+      "onboard_time": 1776353842,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 186547,
@@ -4803,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154850,
+      "num": 154850,
+      "word": "低精力都去查一下维d",
+      "onboard_time": 1776351683,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154423,
       "num": 285725,
       "word": "雷军再次回应中间只充一次电言论",
@@ -5203,6 +5259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141749,
+      "num": 141749,
+      "word": "粉色蓝莓一颗难求",
+      "onboard_time": 1776351022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141740,
       "num": 141740,
       "word": "1岁宝宝被排队摸脸萌化了",
@@ -5297,6 +5361,14 @@
       "onboard_time": 1775975001,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139830,
+      "num": 118780,
+      "word": "陈泽",
+      "onboard_time": 1776354861,
+      "rank": 14,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 139820,
@@ -5643,6 +5715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129965,
+      "num": 81242,
+      "word": "卢昱晓要把李佳琦的老鼠干挂包上",
+      "onboard_time": 1776353422,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "男子地铁上辱骂老年乘客又脏又臭",
@@ -5929,6 +6009,14 @@
       "onboard_time": 1776297080,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121833,
+      "num": 121833,
+      "word": "最难喝饮料又上新了",
+      "onboard_time": 1776352281,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 121573,
@@ -6539,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110336,
+      "num": 81754,
+      "word": "400毫升献血证被炒到2000元",
+      "onboard_time": 1776353842,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110275,
       "num": 110275,
       "word": "美国多位机密领域科学家失踪或死亡",
@@ -6689,14 +6785,6 @@
       "onboard_time": 1776136942,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107417,
-      "num": 99117,
-      "word": "低精力都去查一下维d",
-      "onboard_time": 1776351683,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 107413,
@@ -8611,6 +8699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84835,
+      "num": 114207,
+      "word": "刘翔直言中国新能源车太顶了",
+      "onboard_time": 1776351981,
+      "rank": 16,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 84805,
       "num": 84805,
       "word": "胡先煦我没错 沈腾我上来就错了",
@@ -8721,6 +8817,14 @@
       "onboard_time": 1776075081,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83919,
+      "num": 80774,
+      "word": "张杰演唱会只有张杰在淋雨",
+      "onboard_time": 1776353302,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 83850,
@@ -9227,6 +9331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78488,
+      "num": 79713,
+      "word": "贵州茅台2025年净利823.2亿",
+      "onboard_time": 1776354442,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -9289,14 +9401,6 @@
       "onboard_time": 1776164783,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77952,
-      "num": 77952,
-      "word": "最不困的人叫醒最困的人",
-      "onboard_time": 1776351083,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77950,
@@ -10219,6 +10323,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 70421,
+      "num": 70421,
+      "word": "Claude Opus4.7",
+      "onboard_time": 1776354141,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70319,
       "num": 143602,
       "word": "一口价黄金价格",
@@ -11131,6 +11243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61256,
+      "num": 61256,
+      "word": "网红耳机壳造型被指擦边男凝",
+      "onboard_time": 1776353962,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61149,
       "num": 61149,
       "word": "徐洁儿回应自己没人选",
@@ -11219,6 +11339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59164,
+      "num": 59164,
+      "word": "被强拉开车门泼水女子称或将追责",
+      "onboard_time": 1776354801,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58994,
       "num": 89444,
       "word": "联想CEO杨元庆试驾国产豪车",
@@ -11299,6 +11427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57252,
+      "num": 60927,
+      "word": "美防长称伊朗最高领袖受伤但活着",
+      "onboard_time": 1776354023,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57005,
       "num": 66156,
       "word": "比亚迪在日本销量翻番",
@@ -11337,6 +11473,14 @@
       "onboard_time": 1776010221,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56570,
+      "num": 56570,
+      "word": "零跑D19售价21.98万起",
+      "onboard_time": 1776352281,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 56425,
@@ -11441,6 +11585,14 @@
       "onboard_time": 1776143542,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54739,
+      "num": 57501,
+      "word": "我国2026一季度GDP同比增长5.0%",
+      "onboard_time": 1776354201,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 54605,
@@ -11568,6 +11720,14 @@
       "word": "白衬衣是张小斐的统治区",
       "onboard_time": 1776333740,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53216,
+      "num": 53216,
+      "word": "刘雨昕压轴",
+      "onboard_time": 1776354741,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -12211,6 +12371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40115,
+      "num": 81482,
+      "word": "特朗普称以黎停火10天",
+      "onboard_time": 1776355100,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40041,
       "num": 174397,
       "word": "陈凯琳吃了普通话的亏",
@@ -12265,6 +12433,14 @@
       "onboard_time": 1776097459,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39326,
+      "num": 61331,
+      "word": "中国不吸烟女性二手烟暴露率达70%",
+      "onboard_time": 1776354981,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38838,
@@ -13251,14 +13427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18612,
-      "num": 122707,
-      "word": "粉色蓝莓一颗难求",
-      "onboard_time": 1776351022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18400,
       "num": 25145,
       "word": "Kznk 状态",
@@ -13400,14 +13568,6 @@
       "word": "律师解读法官被指猥亵当事人",
       "onboard_time": 1776019275,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15235,
-      "num": 81164,
-      "word": "47岁外卖员出租屋离世一月才被发现",
-      "onboard_time": 1776351381,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

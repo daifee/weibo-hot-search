@@ -1,0 +1,410 @@
+{
+  "runTime": 1776355451382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 347606,
+        "num": 1030773,
+        "word": "大疆Pocket4",
+        "onboard_time": 1776340039,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210509,
+        "num": 750456,
+        "word": "最不困的人叫醒最困的人",
+        "onboard_time": 1776351083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21221,
+        "num": 611300,
+        "word": "十五五首季中国经济增长好于预期",
+        "onboard_time": 1776347782,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455692,
+        "num": 455692,
+        "word": "黄灿灿梦回武大校花",
+        "onboard_time": 1776350183,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203871,
+        "num": 203871,
+        "word": "偷偷藏不住剧组亮相北影节",
+        "onboard_time": 1776352162,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154850,
+        "num": 154850,
+        "word": "低精力都去查一下维d",
+        "onboard_time": 1776351683,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168126,
+        "num": 152320,
+        "word": "张晚意求职",
+        "onboard_time": 1776344241,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141749,
+        "num": 141749,
+        "word": "粉色蓝莓一颗难求",
+        "onboard_time": 1776351022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139297,
+        "num": 139297,
+        "word": "94斤女生打司美格鲁肽减肥被送急诊",
+        "onboard_time": 1776344123,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121833,
+        "num": 121833,
+        "word": "最难喝饮料又上新了",
+        "onboard_time": 1776352281,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2371127,
+        "num": 121569,
+        "word": "诚实一口道歉",
+        "onboard_time": 1776351862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196155,
+        "num": 121169,
+        "word": "张凌赫深圳",
+        "onboard_time": 1776352582,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181755,
+        "num": 120528,
+        "word": "潘石屹发文",
+        "onboard_time": 1776341302,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 119737,
+        "word": "诚实一口开除涉事主播",
+        "onboard_time": 1776353842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139830,
+        "num": 118780,
+        "word": "陈泽",
+        "onboard_time": 1776354861,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 118674,
+        "num": 118674,
+        "word": "张伦硕妈妈曾遗憾没有亲孙子",
+        "onboard_time": 1776346523,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84835,
+        "num": 114207,
+        "word": "刘翔直言中国新能源车太顶了",
+        "onboard_time": 1776351981,
+        "rank": 16,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 113290,
+        "num": 113290,
+        "word": "浪姐张杰鸟巢演唱会团建",
+        "onboard_time": 1776346101,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81794,
+        "num": 81794,
+        "word": "中方回应特朗普称访华不受影响",
+        "onboard_time": 1776337281,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110336,
+        "num": 81754,
+        "word": "400毫升献血证被炒到2000元",
+        "onboard_time": 1776353842,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1897068,
+        "num": 81556,
+        "word": "曝清清性骚扰",
+        "onboard_time": 1776346821,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40115,
+        "num": 81482,
+        "word": "特朗普称以黎停火10天",
+        "onboard_time": 1776355100,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153410,
+        "num": 81387,
+        "word": "诚实一口",
+        "onboard_time": 1776348984,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129965,
+        "num": 81242,
+        "word": "卢昱晓要把李佳琦的老鼠干挂包上",
+        "onboard_time": 1776353422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84886,
+        "num": 81108,
+        "word": "美国多位机密领域科学家失踪或死亡",
+        "onboard_time": 1776349763,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96947,
+        "num": 81031,
+        "word": "蜜语纪",
+        "onboard_time": 1776342742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488112,
+        "num": 80895,
+        "word": "47岁外卖员出租屋离世一月才被发现",
+        "onboard_time": 1776351381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83919,
+        "num": 80774,
+        "word": "张杰演唱会只有张杰在淋雨",
+        "onboard_time": 1776353302,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80687,
+        "num": 80687,
+        "word": "Bin 小奶油",
+        "onboard_time": 1776347543,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78488,
+        "num": 79713,
+        "word": "贵州茅台2025年净利823.2亿",
+        "onboard_time": 1776354442,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79666,
+        "num": 79666,
+        "word": "穆祉丞追星也是氪金粉",
+        "onboard_time": 1776344422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77556,
+        "num": 77556,
+        "word": "地球或今年冲击高温极限",
+        "onboard_time": 1776344482,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76690,
+        "num": 76690,
+        "word": "老莫称卖掉1000只鸡后会捐10万",
+        "onboard_time": 1776345203,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76435,
+        "num": 76435,
+        "word": "张曼玉没去浪姐来这了",
+        "onboard_time": 1776344361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70421,
+        "num": 70421,
+        "word": "Claude Opus4.7",
+        "onboard_time": 1776354141,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68980,
+        "num": 68980,
+        "word": "黄晓明再次进入上戏博士复试名单",
+        "onboard_time": 1776347543,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64707,
+        "num": 64707,
+        "word": "迪丽热巴荷叶边白裙",
+        "onboard_time": 1776339501,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62219,
+        "num": 62219,
+        "word": "粉色蓝莓炒至400元一斤",
+        "onboard_time": 1776341060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62790,
+        "num": 61833,
+        "word": "金关",
+        "onboard_time": 1776351504,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39326,
+        "num": 61331,
+        "word": "中国不吸烟女性二手烟暴露率达70%",
+        "onboard_time": 1776354981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61256,
+        "num": 61256,
+        "word": "网红耳机壳造型被指擦边男凝",
+        "onboard_time": 1776353962,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57252,
+        "num": 60927,
+        "word": "美防长称伊朗最高领袖受伤但活着",
+        "onboard_time": 1776354023,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 60775,
+        "word": "邓紫棋直播",
+        "onboard_time": 1776351442,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59164,
+        "num": 59164,
+        "word": "被强拉开车门泼水女子称或将追责",
+        "onboard_time": 1776354801,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54739,
+        "num": 57501,
+        "word": "我国2026一季度GDP同比增长5.0%",
+        "onboard_time": 1776354201,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57171,
+        "num": 57171,
+        "word": "露芜衣角色曲不是鞠婧祎唱的",
+        "onboard_time": 1776349223,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57122,
+        "num": 57122,
+        "word": "张真源直播",
+        "onboard_time": 1776342862,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56570,
+        "num": 56570,
+        "word": "零跑D19售价21.98万起",
+        "onboard_time": 1776352281,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53221,
+        "num": 53221,
+        "word": "行车中车门突然打开掉出一个孩子",
+        "onboard_time": 1776345022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53216,
+        "num": 53216,
+        "word": "刘雨昕压轴",
+        "onboard_time": 1776354741,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#繁忙元首外交彰显大国担当#"
+    }
+  }
+}
