@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776297216248,
+  "endTime": 1776298016447,
   "band_list": [
     {
       "raw_hot": 4321550,
@@ -337,6 +337,14 @@
       "onboard_time": 1776225561,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722966,
+      "num": 161368,
+      "word": "赵子琪 是逼我爆所有的料吗",
+      "onboard_time": 1776296960,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 717758,
@@ -715,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 550491,
+      "num": 550491,
+      "word": "金莎孙丞潇试婚纱压价",
+      "onboard_time": 1776296480,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548628,
       "num": 548628,
       "word": "特朗普称今晚10点封锁伊朗",
@@ -1075,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 436931,
+      "num": 1069909,
+      "word": "樊振东英文告别主场球迷",
+      "onboard_time": 1776294256,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435705,
       "num": 520356,
       "word": "B太回应18万帮扶被骗",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1776228143,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433062,
+      "num": 776114,
+      "word": "法国将不义之财归还被抢掠的中国",
+      "onboard_time": 1776281114,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 432778,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1775972780,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408152,
-      "num": 999748,
-      "word": "樊振东英文告别主场球迷",
-      "onboard_time": 1776294256,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 406729,
@@ -1643,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348725,
+      "num": 159375,
+      "word": "男子遭开门杀碾压身亡目击者发声",
+      "onboard_time": 1776267320,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347961,
       "num": 347961,
       "word": "伊朗公布战损",
@@ -1787,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328547,
-      "num": 147256,
-      "word": "男子遭开门杀碾压身亡目击者发声",
-      "onboard_time": 1776267320,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328064,
       "num": 202673,
       "word": "朴信惠 崔泰俊",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1775999782,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 324236,
-      "num": 324236,
-      "word": "法国将不义之财归还被抢掠的中国",
-      "onboard_time": 1776281114,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324146,
@@ -2499,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260863,
+      "num": 260863,
+      "word": "美军妄想威慑中国内陆",
+      "onboard_time": 1776295999,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 260090,
       "num": 138922,
       "word": "郭碧婷生二胎后花好几年才瘦下来",
@@ -2867,6 +2891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228796,
+      "num": 228796,
+      "word": "拜仁4比3皇马",
+      "onboard_time": 1776295038,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228522,
       "num": 766941,
       "word": "中1500万彩票离职事件是真是假",
@@ -2945,14 +2977,6 @@
       "onboard_time": 1776086783,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216902,
-      "num": 216902,
-      "word": "拜仁4比3皇马",
-      "onboard_time": 1776295038,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 216626,
@@ -3441,14 +3465,6 @@
       "onboard_time": 1776150261,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 185489,
-      "num": 185489,
-      "word": "金莎孙丞潇试婚纱压价",
-      "onboard_time": 1776296480,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 184649,
@@ -4275,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141978,
+      "num": 141978,
+      "word": "8岁女童化疗前冻存卵巢组织",
+      "onboard_time": 1776263421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141845,
       "num": 154601,
       "word": "挑杯第一阶段抽签结果",
@@ -4411,6 +4435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138113,
+      "num": 138113,
+      "word": "赵子琪质问芒果TV",
+      "onboard_time": 1776297259,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137982,
       "num": 73994,
       "word": "张婉婷回应宋宁峰借钱还网贷",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1776051263,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136532,
+      "num": 119648,
+      "word": "印度3000万人要没饭吃",
+      "onboard_time": 1776296058,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136382,
@@ -4593,6 +4633,14 @@
       "onboard_time": 1776245541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130769,
+      "num": 130769,
+      "word": "欧冠4强出炉",
+      "onboard_time": 1776295038,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 130553,
@@ -4835,6 +4883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122248,
+      "num": 122248,
+      "word": "乙肝抗体没了要不要补打疫苗",
+      "onboard_time": 1776297080,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120742,
       "num": 125409,
       "word": "尹锡悦笑看金建希却惨遭无视",
@@ -4865,6 +4921,14 @@
       "onboard_time": 1776089123,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 120189,
+      "num": 114157,
+      "word": "刘耀文提到了张真源SLY乐队",
+      "onboard_time": 1776295940,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 120023,
@@ -5555,14 +5619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 106178,
-      "num": 122941,
-      "word": "8岁女童化疗前冻存卵巢组织",
-      "onboard_time": 1776263421,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106094,
       "num": 131659,
       "word": "中方回应特朗普威胁加征关税",
@@ -5715,14 +5771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103987,
-      "num": 93060,
-      "word": "美军妄想威慑中国内陆",
-      "onboard_time": 1776295999,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 103719,
       "num": 111306,
       "word": "女孩太想念老人睡墓碑旁不愿走",
@@ -5779,6 +5827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101901,
+      "num": 117807,
+      "word": "被破窗取AED车辆获免费换车窗",
+      "onboard_time": 1776295999,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101858,
       "num": 101858,
       "word": "韦世豪绝杀",
@@ -5809,6 +5865,14 @@
       "onboard_time": 1776162501,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101231,
+      "num": 114002,
+      "word": "黄金大起大落",
+      "onboard_time": 1776297139,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 101120,
@@ -5993,14 +6057,6 @@
       "onboard_time": 1776053062,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98321,
-      "num": 98910,
-      "word": "欧冠4强出炉",
-      "onboard_time": 1776295038,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 98272,
@@ -6571,14 +6627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91659,
-      "num": 97146,
-      "word": "印度3000万人要没饭吃",
-      "onboard_time": 1776296058,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91496,
       "num": 112849,
       "word": "泰柬边境一电诈园内部环境曝光",
@@ -6851,6 +6899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87890,
+      "num": 112772,
+      "word": "印度裔男子假意助人实施二次性侵",
+      "onboard_time": 1776296238,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87768,
       "num": 413221,
       "word": "欧冠联赛",
@@ -7089,14 +7145,6 @@
       "onboard_time": 1776260123,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84990,
-      "num": 92653,
-      "word": "刘耀文提到了张真源SLY乐队",
-      "onboard_time": 1776295940,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 84934,
@@ -7571,14 +7619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78334,
-      "num": 92512,
-      "word": "黄金大起大落",
-      "onboard_time": 1776297139,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 78310,
       "num": 78310,
       "word": "突然相信了命运的推背感",
@@ -7604,7 +7644,7 @@
     },
     {
       "raw_hot": 78200,
-      "num": 105501,
+      "num": 106099,
       "word": "自如老师 侵权",
       "onboard_time": 1776269120,
       "rank": 8,
@@ -8243,14 +8283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72061,
-      "num": 95790,
-      "word": "被破窗取AED车辆获免费换车窗",
-      "onboard_time": 1776295999,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72025,
       "num": 72025,
       "word": "爱奇艺的艺人有福了",
@@ -8579,6 +8611,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 67711,
+      "num": 111292,
+      "word": "老刀99 王子杰",
+      "onboard_time": 1776296960,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67675,
       "num": 67675,
       "word": "Bin倒了",
@@ -8593,14 +8633,6 @@
       "onboard_time": 1776226167,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67612,
-      "num": 94091,
-      "word": "赵子琪 是逼我爆所有的料吗",
-      "onboard_time": 1776296960,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 67593,
@@ -8945,14 +8977,6 @@
       "onboard_time": 1776094101,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63874,
-      "num": 91033,
-      "word": "印度裔男子假意助人实施二次性侵",
-      "onboard_time": 1776296238,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63854,
@@ -9411,6 +9435,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53190,
+      "num": 107532,
+      "word": "樊振东3比2伯特兰",
+      "onboard_time": 1776297080,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53049,
+      "num": 127502,
+      "word": "阿森纳0比0葡萄牙体育",
+      "onboard_time": 1776294558,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52966,
       "num": 72832,
       "word": "苏超50台机器人雨中齐舞",
@@ -9464,6 +9504,14 @@
       "word": "12306回应静音车厢售货不叫卖",
       "onboard_time": 1776037400,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51650,
+      "num": 112064,
+      "word": "当地调查B太称在大凉山帮扶被骗",
+      "onboard_time": 1776294076,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -9547,28 +9595,12 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 49636,
-      "num": 89362,
-      "word": "乙肝抗体没了要不要补打疫苗",
-      "onboard_time": 1776297080,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 48856,
       "num": 48856,
       "word": "霍尔木兹成美伊谈判矛盾核心",
       "onboard_time": 1775949736,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 48808,
-      "num": 88188,
-      "word": "老刀99 王子杰",
-      "onboard_time": 1776296960,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 48691,
@@ -9643,14 +9675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47804,
-      "num": 88902,
-      "word": "樊振东3比2伯特兰",
-      "onboard_time": 1776297080,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47801,
       "num": 47801,
       "word": "你好星期六下期巅峰喜剧节",
@@ -9723,6 +9747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46861,
+      "num": 104796,
+      "word": "卡马文加黄牌",
+      "onboard_time": 1776297921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46850,
       "num": 66196,
       "word": "曝年底旗舰手机将区分档位",
@@ -9737,22 +9769,6 @@
       "onboard_time": 1776079701,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46196,
-      "num": 112064,
-      "word": "当地调查B太称在大凉山帮扶被骗",
-      "onboard_time": 1776294076,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45962,
-      "num": 127502,
-      "word": "阿森纳0比0葡萄牙体育",
-      "onboard_time": 1776294558,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 45922,
@@ -10091,6 +10107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38226,
+      "num": 115236,
+      "word": "做家务的机器人让外国人疯狂心动",
+      "onboard_time": 1776294018,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38217,
       "num": 150100,
       "word": "大英赛答案",
@@ -10257,14 +10281,6 @@
       "onboard_time": 1776277935,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32093,
-      "num": 115236,
-      "word": "做家务的机器人让外国人疯狂心动",
-      "onboard_time": 1776294018,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31994,
