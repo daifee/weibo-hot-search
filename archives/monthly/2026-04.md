@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/16 08:06:56
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/16 11:30:00
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%23" target="weibo">
 王楚钦夺冠（热度：7199686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+丝芭总裁王子杰去世（热度：5803834）
 </a>
 </li>
 
@@ -1815,6 +1821,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BB%84%E8%B1%86%E8%87%AA%E6%9B%9D%E5%9C%A8%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%A2%AB%E5%96%B7%E6%9C%AA%E7%9F%A5%E6%B6%B2%E4%BD%93%23" target="weibo">
+小黄豆自曝在泼水节被喷未知液体（热度：654981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A820%E4%BD%99%E4%BA%BA%23" target="weibo">
 女子孕期得知丈夫出轨20余人（热度：654428）
 </a>
@@ -3113,6 +3125,12 @@ sbti测试（热度：495899）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E5%A4%96%E4%BA%BA%E5%91%98%E5%AB%96%E5%A8%BC%E9%81%AD%E4%BB%99%E4%BA%BA%E8%B7%B3%E5%87%BA%E5%8D%96%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%23" target="weibo">
 驻外人员嫖娼遭仙人跳出卖国家秘密（热度：491643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%A5%BD%E5%8F%8B%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%23" target="weibo">
+王子杰好友发文悼念（热度：490638）
 </a>
 </li>
 
@@ -5325,6 +5343,12 @@ Angelababy家里摆满了粉丝的礼物（热度：350856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E9%80%81%E9%87%91%E9%95%AF%E5%AD%90%E4%BD%86%E6%B2%A1%E8%A2%AB%E5%B0%8A%E9%87%8D%E6%83%B3%E7%A6%BB%E5%A9%9A%23" target="weibo">
+女子称被送金镯子但没被尊重想离婚（热度：343596）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E9%B8%A1%E7%85%B2%E5%A4%AA%E7%81%AB%E7%88%86%E8%80%81%E6%9D%BF%E5%BC%80%E5%B0%8F%E5%8F%B7%E9%BB%91%E8%87%AA%E5%B7%B1%23" target="weibo">
 佛山鸡煲太火爆老板开小号黑自己（热度：343498）
 </a>
@@ -5990,30 +6014,6 @@ Rookie和新女友一起逛街（热度：327597）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%20%E6%94%B9%E5%8F%A3%E7%99%96%23" target="weibo">
-芒果 改口癖（热度：315318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%E5%BC%80%E6%92%AD%23" target="weibo">
-五哈6开播（热度：315299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%8E%BF%E9%95%BF%E5%87%BA%E8%BD%A8%E8%87%B4%E4%BA%BA%E6%80%80%E5%AD%95%E5%B7%B2%E8%B0%83%E4%B9%A1%E9%95%87%E4%B8%8A%E7%8F%AD%23" target="weibo">
-副县长出轨致人怀孕已调乡镇上班（热度：315298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD%23" target="weibo">
-迪丽热巴直播（热度：315002）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6305,6 +6305,12 @@ Rookie和新女友一起逛街（热度：327597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87%E5%90%8C%E8%8B%8F%E6%9E%97%E5%A4%AB%E5%A6%87%E4%BA%B2%E5%88%87%E8%AF%9D%E5%88%AB%23%23" target="weibo">
 #习近平夫妇同苏林夫妇亲切话别#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E8%B6%8A%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E9%9D%92%E5%B9%B4%23%23" target="weibo">
+#中越友好的未来在青年#
 </a>
 </li>
 

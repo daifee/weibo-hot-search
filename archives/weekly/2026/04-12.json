@@ -1,7 +1,15 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776298016447,
+  "endTime": 1776310200713,
   "band_list": [
+    {
+      "raw_hot": 5803834,
+      "num": 5803834,
+      "word": "丝芭总裁王子杰去世",
+      "onboard_time": 1776308661,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4321550,
       "num": 143626,
@@ -459,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 654981,
+      "num": 149604,
+      "word": "小黄豆自曝在泼水节被喷未知液体",
+      "onboard_time": 1776306680,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 649416,
       "num": 842790,
       "word": "何猷君晒与何超蕸合照",
@@ -913,6 +929,14 @@
       "onboard_time": 1776223699,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490638,
+      "num": 148760,
+      "word": "王子杰好友发文悼念",
+      "onboard_time": 1776303681,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 486598,
@@ -1715,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343596,
+      "num": 144792,
+      "word": "女子称被送金镯子但没被尊重想离婚",
+      "onboard_time": 1776303681,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342361,
       "num": 342361,
       "word": "北约先跑了",
@@ -2251,6 +2283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 286581,
+      "num": 286581,
+      "word": "赵子琪张慧雯吵架是怎么剪辑出来的",
+      "onboard_time": 1776308360,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286530,
       "num": 149012,
       "word": "曝张豆豆两年前有的宝宝",
@@ -2283,6 +2323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283478,
+      "num": 146673,
+      "word": "李纯把马頔调好的调料当脏水倒掉",
+      "onboard_time": 1776303561,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283147,
       "num": 184583,
       "word": "遭班主任猥亵15岁女生讲述经过",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1775981722,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281264,
+      "num": 147528,
+      "word": "金立手机创始人曾赌博输掉十几亿",
+      "onboard_time": 1776302302,
+      "rank": 12,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 281047,
@@ -2551,6 +2607,14 @@
       "num": 177744,
       "word": "文彩元6月结婚",
       "onboard_time": 1776230782,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256432,
+      "num": 144000,
+      "word": "曝鹤男年龄造假",
+      "onboard_time": 1776299902,
       "rank": 16,
       "category": "艺人"
     },
@@ -2859,6 +2923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230852,
+      "num": 140312,
+      "word": "建议大家自己做饭",
+      "onboard_time": 1776299842,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230073,
       "num": 191250,
       "word": "孙怡的发量",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1775991742,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215425,
+      "num": 1418343,
+      "word": "警方通报骑车遭开门杀被碾压身亡",
+      "onboard_time": 1776304580,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215081,
@@ -3171,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206442,
+      "num": 206442,
+      "word": "医生回应35岁孕妇吃冰箱剩菜后去世",
+      "onboard_time": 1776307939,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206137,
       "num": 206137,
       "word": "XChat 阅后即焚",
@@ -3241,6 +3329,14 @@
       "onboard_time": 1776003683,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201065,
+      "num": 142842,
+      "word": "易烊千玺 华为",
+      "onboard_time": 1776304101,
+      "rank": 17,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 200484,
@@ -3339,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191768,
+      "num": 139612,
+      "word": "吴向飞发李荣浩相关情况说明",
+      "onboard_time": 1776301101,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191160,
       "num": 148235,
       "word": "等张泽禹张极换头像",
@@ -3377,6 +3481,14 @@
       "onboard_time": 1776007042,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189598,
+      "num": 138108,
+      "word": "鹤男粉丝脱粉",
+      "onboard_time": 1776303320,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 189430,
@@ -3553,6 +3665,14 @@
       "onboard_time": 1776146182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179714,
+      "num": 179714,
+      "word": "河南一景区露脚踝大象系演员扮演",
+      "onboard_time": 1776298041,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179562,
@@ -3747,12 +3867,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167872,
+      "num": 167872,
+      "word": "伊朗总统感谢中国",
+      "onboard_time": 1776300622,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167561,
       "num": 260852,
       "word": "乌兰被双开",
       "onboard_time": 1776051380,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167045,
+      "num": 136598,
+      "word": "越吃越胖素菜名单",
+      "onboard_time": 1776298461,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166439,
@@ -3857,6 +3993,14 @@
       "onboard_time": 1776242721,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161130,
+      "num": 161130,
+      "word": "浙江癌症发病率死亡率首位均为肺癌",
+      "onboard_time": 1776303620,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160752,
@@ -4033,6 +4177,14 @@
       "onboard_time": 1775966239,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151417,
+      "num": 151417,
+      "word": "邓凯孔雪儿路透",
+      "onboard_time": 1776303500,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 150625,
@@ -4323,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141353,
+      "num": 141353,
+      "word": "外籍人员境内违规捕蝶被钓鱼者识破",
+      "onboard_time": 1776309202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141261,
       "num": 140027,
       "word": "谈莉娜孕35周胎位不正产检落泪",
@@ -4483,6 +4643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135904,
+      "num": 135904,
+      "word": "莫氏鸡煲走红亲戚发声",
+      "onboard_time": 1776307520,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135749,
       "num": 177408,
       "word": "狮子因配偶去世数十日未正常进食",
@@ -4505,6 +4673,14 @@
       "onboard_time": 1776135379,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135121,
+      "num": 135121,
+      "word": "小伙快递被同事误拆群里发文后被辞",
+      "onboard_time": 1776306801,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134797,
@@ -4739,6 +4915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126038,
+      "num": 103663,
+      "word": "武汉市原市长周先旺被起诉",
+      "onboard_time": 1776307939,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125950,
       "num": 434581,
       "word": "马竞1比2巴萨",
@@ -4955,12 +5139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119883,
+      "num": 151355,
+      "word": "勇士vs快船",
+      "onboard_time": 1776308600,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119836,
       "num": 104786,
       "word": "贾国龙新店50元焖面不够两个男人吃",
       "onboard_time": 1776166282,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119316,
+      "num": 106216,
+      "word": "剑网3 校服",
+      "onboard_time": 1776306801,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 119127,
@@ -5523,6 +5723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107433,
+      "num": 107433,
+      "word": "赵子琪称直播揭露所有真相",
+      "onboard_time": 1776309142,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107413,
       "num": 140737,
       "word": "IG战胜TES",
@@ -5803,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102718,
+      "num": 102718,
+      "word": "自己一个人旅游的原因",
+      "onboard_time": 1776304700,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102638,
       "num": 102638,
       "word": "阴阳师",
@@ -5841,6 +6057,14 @@
       "onboard_time": 1776004883,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101726,
+      "num": 101726,
+      "word": "丙午年 心脏",
+      "onboard_time": 1776310041,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 101677,
@@ -6009,6 +6233,14 @@
       "onboard_time": 1776066981,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99383,
+      "num": 99383,
+      "word": "乙肝到肝癌只需要三步",
+      "onboard_time": 1776307400,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99108,
@@ -6329,6 +6561,14 @@
       "onboard_time": 1776037579,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95048,
+      "num": 95048,
+      "word": "光遇",
+      "onboard_time": 1776306739,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 95042,
@@ -6689,6 +6929,22 @@
       "onboard_time": 1776145221,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91032,
+      "num": 91032,
+      "word": "皇马两大球星场上吵架",
+      "onboard_time": 1776301101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90884,
+      "num": 96640,
+      "word": "四渡定档",
+      "onboard_time": 1776308240,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 90516,
@@ -7059,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85966,
+      "num": 85966,
+      "word": "男子买东西故意贴女店主还不承认",
+      "onboard_time": 1776308060,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85919,
       "num": 66930,
       "word": "张柏芝开灯瞬间 惊艳",
@@ -7387,6 +7651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82110,
+      "num": 82110,
+      "word": "Anton泡泡发言引发争议",
+      "onboard_time": 1776305420,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81815,
       "num": 81815,
       "word": "吴慷仁说大陆优秀的演员太多了",
@@ -7563,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79385,
+      "num": 79385,
+      "word": "用午休时间换提早下班",
+      "onboard_time": 1776304880,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79361,
       "num": 79361,
       "word": "美国伊朗为什么没谈成",
@@ -7729,6 +8009,14 @@
       "onboard_time": 1775999302,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77346,
+      "num": 77346,
+      "word": "刘耀文评论自己的第一条微博",
+      "onboard_time": 1776299602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 77188,
@@ -7907,6 +8195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75276,
+      "num": 75276,
+      "word": "4元猪价20元排骨谁赚到钱了",
+      "onboard_time": 1776303921,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75256,
       "num": 75256,
       "word": "夏天第一次开空调要这么做",
@@ -7977,6 +8273,14 @@
       "onboard_time": 1776069560,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74767,
+      "num": 74767,
+      "word": "朱一龙吃蛋糕嘴全黑了",
+      "onboard_time": 1776309983,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 74756,
@@ -8203,6 +8507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72485,
+      "num": 72485,
+      "word": "张韶涵巡演预告片",
+      "onboard_time": 1776306980,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72445,
       "num": 72445,
       "word": "陈奕恒 卷毛小狗",
@@ -8265,6 +8577,14 @@
       "onboard_time": 1775978721,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72130,
+      "num": 95740,
+      "word": "女子被恶意泼水路人一直追着滋",
+      "onboard_time": 1776306079,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72077,
@@ -8331,6 +8651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71371,
+      "num": 71371,
+      "word": "达科哭了",
+      "onboard_time": 1776310105,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71008,
       "num": 140706,
       "word": "为什么肝癌一发现就多是晚期",
@@ -8345,6 +8673,14 @@
       "onboard_time": 1776216799,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70870,
+      "num": 70870,
+      "word": "律师解读杨紫后援会争议",
+      "onboard_time": 1776305060,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70784,
@@ -8473,6 +8809,14 @@
       "onboard_time": 1776049880,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69443,
+      "num": 104258,
+      "word": "间谍外逃被一村民拦下",
+      "onboard_time": 1776309324,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69412,
@@ -8683,6 +9027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67283,
+      "num": 71119,
+      "word": "迪丽热巴白日提灯全集有广",
+      "onboard_time": 1776298642,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67258,
       "num": 125516,
       "word": "网约车司机迎来强制8小时工作制",
@@ -8705,6 +9057,14 @@
       "onboard_time": 1776166462,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67090,
+      "num": 145415,
+      "word": "沃尔沃XC70被热气球带上35米高空",
+      "onboard_time": 1776309263,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 66859,
@@ -9371,6 +9731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54272,
+      "num": 141901,
+      "word": "小米史上最大电池手机曝光",
+      "onboard_time": 1776298461,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54041,
       "num": 54041,
       "word": "美国答应伊朗先决条件的可能性有多大",
@@ -9401,6 +9769,14 @@
       "onboard_time": 1776169341,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53832,
+      "num": 70897,
+      "word": "谢娜担心连开两场唱跳体力",
+      "onboard_time": 1776306260,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 53778,
@@ -10699,6 +11075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24446,
+      "num": 1090678,
+      "word": "全国工程建设小阳春",
+      "onboard_time": 1776305779,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24436,
       "num": 63052,
       "word": "这哪里是酒杯分明是动物手办",
@@ -10817,6 +11201,14 @@
       "onboard_time": 1776279254,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21698,
+      "num": 70871,
+      "word": "魏建军力排众议兑现网友定名权",
+      "onboard_time": 1776298041,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 21322,
@@ -11280,6 +11672,9 @@
     },
     {
       "word": "#习近平夫妇同苏林夫妇亲切话别#"
+    },
+    {
+      "word": "#中越友好的未来在青年#"
     }
   ]
 }

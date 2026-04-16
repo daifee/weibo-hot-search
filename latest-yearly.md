@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/16 08:06:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/16 11:30:00
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 孙颖莎vs王曼昱（热度：5986163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+丝芭总裁王子杰去世（热度：5803834）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E9%99%88%E5%93%B2%E8%BF%9C951%23" target="weibo">
 白鹿 陈哲远951（热度：1941810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E8%B5%B7%E8%AF%89%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E6%89%BF%E5%88%B6%E6%96%B9%23" target="weibo">
-丝芭起诉月鳞绮纪承制方（热度：1939640）
 </a>
 </li>
 
