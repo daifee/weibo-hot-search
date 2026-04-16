@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776341042148,
+  "endTime": 1776349286533,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -129,6 +129,14 @@
       "onboard_time": 1775975301,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3301815,
+      "num": 168591,
+      "word": "曝清清性骚扰",
+      "onboard_time": 1776346821,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 2961322,
@@ -1411,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 892359,
+      "num": 141690,
+      "word": "沈腾 座位",
+      "onboard_time": 1776345142,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 891971,
       "num": 156484,
       "word": "网友扫墓看到李副官演员墓碑",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1775214263,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 707910,
+      "num": 707910,
+      "word": "张晚意求职",
+      "onboard_time": 1776344241,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 707737,
@@ -6603,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367517,
+      "num": 164460,
+      "word": "张小斐 可以坐评委腿上看电影吗",
+      "onboard_time": 1776345983,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 367249,
       "num": 367249,
       "word": "伊朗公布驱离美军舰视频",
@@ -6825,6 +6857,14 @@
       "onboard_time": 1775905102,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357504,
+      "num": 141539,
+      "word": "张曼玉没去浪姐来这了",
+      "onboard_time": 1776344361,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 357225,
@@ -7731,6 +7771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326751,
+      "num": 140465,
+      "word": "诚实一口",
+      "onboard_time": 1776348984,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326519,
       "num": 326519,
       "word": "张豆豆崩溃大哭",
@@ -8291,6 +8339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312846,
+      "num": 139194,
+      "word": "浪姐张杰鸟巢演唱会团建",
+      "onboard_time": 1776346101,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 312735,
       "num": 312735,
       "word": "卧床吸烟致母子二人葬身火海",
@@ -8616,6 +8672,14 @@
       "word": "南京被害女大学生父亲现状",
       "onboard_time": 1775274260,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304634,
+      "num": 140778,
+      "word": "潘石屹发文",
+      "onboard_time": 1776341302,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -11947,6 +12011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227312,
+      "num": 138574,
+      "word": "穆祉丞追星也是氪金粉",
+      "onboard_time": 1776344422,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227262,
       "num": 524718,
       "word": "中信银行人均薪酬60万",
@@ -12145,6 +12217,14 @@
       "onboard_time": 1775576661,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222463,
+      "num": 770311,
+      "word": "94斤女生打司美格鲁肽减肥被送急诊",
+      "onboard_time": 1776344123,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222162,
@@ -14691,6 +14771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180746,
+      "num": 180746,
+      "word": "浪姐二公投票淘汰",
+      "onboard_time": 1776341541,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180726,
       "num": 161467,
       "word": "全糖半糖无糖",
@@ -15331,6 +15419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171501,
+      "num": 133927,
+      "word": "张伦硕妈妈曾遗憾没有亲孙子",
+      "onboard_time": 1776346523,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171450,
       "num": 140405,
       "word": "i人佟丽娅生了个e人儿子",
@@ -15353,6 +15449,14 @@
       "onboard_time": 1775463323,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171187,
+      "num": 126087,
+      "word": "埃安N60全系标配高阶智能11.58万元起",
+      "onboard_time": 1776348262,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 170969,
@@ -15553,6 +15657,14 @@
       "onboard_time": 1775712684,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 168921,
+      "num": 137766,
+      "word": "偶遇张元英去皮肤科",
+      "onboard_time": 1776343822,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 168900,
@@ -16723,6 +16835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155294,
+      "num": 155294,
+      "word": "地球或今年冲击高温极限",
+      "onboard_time": 1776344482,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155201,
       "num": 155201,
       "word": "为什么穿睡衣那么显瘦",
@@ -16785,6 +16905,14 @@
       "onboard_time": 1776330681,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154407,
+      "num": 154407,
+      "word": "行车中车门突然打开掉出一个孩子",
+      "onboard_time": 1776345022,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154277,
@@ -18027,6 +18155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142180,
+      "num": 142180,
+      "word": "美对伊朗启动经济狂怒行动",
+      "onboard_time": 1776345081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142137,
       "num": 213636,
       "word": "用人民币感受日本物价",
@@ -18283,6 +18419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140299,
+      "num": 133236,
+      "word": "马丽裙子",
+      "onboard_time": 1776339860,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140292,
       "num": 140292,
       "word": "4月最吸金的星座",
@@ -18513,6 +18657,14 @@
       "onboard_time": 1775276481,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "Bin 小奶油",
+      "onboard_time": 1776347543,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 138364,
@@ -18811,6 +18963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136209,
+      "num": 136209,
+      "word": "泼水节女子征得特警同意后开泼",
+      "onboard_time": 1776347301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "杨幂冯湮儿路透",
@@ -18864,6 +19024,14 @@
       "word": "短剧剧宣误入豪门少夫人聚会局",
       "onboard_time": 1776036918,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135338,
+      "num": 129278,
+      "word": "迪丽热巴生离死别哭戏",
+      "onboard_time": 1776345622,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -19979,6 +20147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127367,
+      "num": 127367,
+      "word": "黄晓明再次进入上戏博士复试名单",
+      "onboard_time": 1776347543,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127355,
       "num": 119132,
       "word": "中国电车全球爆火",
@@ -20065,6 +20241,14 @@
       "onboard_time": 1775301620,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126418,
+      "num": 126418,
+      "word": "粉色蓝莓炒至400元一斤",
+      "onboard_time": 1776341060,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126316,
@@ -20683,6 +20867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122349,
+      "num": 101485,
+      "word": "埃安N60一度电多跑一公里",
+      "onboard_time": 1776348742,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122289,
       "num": 220025,
       "word": "乒乓球世界杯",
@@ -20880,6 +21072,14 @@
       "word": "黄晓明现身交警队",
       "onboard_time": 1775555058,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "张真源直播",
+      "onboard_time": 1776342862,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -21281,6 +21481,14 @@
       "onboard_time": 1776259224,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118731,
+      "num": 113527,
+      "word": "零跑D19",
+      "onboard_time": 1776343281,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 118688,
@@ -22011,6 +22219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114329,
+      "num": 114329,
+      "word": "老莫称卖掉1000只鸡后会捐10万",
+      "onboard_time": 1776345203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114303,
       "num": 114303,
       "word": "晴天曝Kanavi耍大牌",
@@ -22233,6 +22449,14 @@
       "onboard_time": 1776000562,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 112613,
+      "num": 112613,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 112600,
@@ -23491,6 +23715,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 106203,
+      "num": 148712,
+      "word": "蜜语纪",
+      "onboard_time": 1776102017,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106183,
       "num": 106183,
       "word": "京东集团涨近6%",
@@ -24139,28 +24371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103695,
-      "num": 103695,
-      "word": "马丽裙子",
-      "onboard_time": 1776339860,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103578,
       "num": 140838,
       "word": "穆祉丞证件照",
       "onboard_time": 1776311303,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103560,
-      "num": 148712,
-      "word": "蜜语纪",
-      "onboard_time": 1776102017,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 103559,
@@ -24323,6 +24539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102942,
+      "num": 102942,
+      "word": "露芜衣角色曲不是鞠婧祎唱的",
+      "onboard_time": 1776349223,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102861,
       "num": 87524,
       "word": "金饰克价一夜又跌11元",
@@ -24457,6 +24681,14 @@
       "onboard_time": 1776339561,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102363,
+      "num": 111331,
+      "word": "BLG对战TES",
+      "onboard_time": 1776340582,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 102359,
@@ -25233,6 +25465,14 @@
       "onboard_time": 1776331641,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99267,
+      "num": 99267,
+      "word": "同济大学启动调查程序",
+      "onboard_time": 1776348742,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 99185,
@@ -26795,6 +27035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93712,
+      "num": 93712,
+      "word": "狼队三连败",
+      "onboard_time": 1776345802,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93708,
       "num": 617872,
       "word": "虚假摆拍深山救助流浪女3人被查",
@@ -27553,6 +27801,14 @@
       "onboard_time": 1775359520,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91250,
+      "num": 91250,
+      "word": "粉色蓝莓vs普通蓝莓",
+      "onboard_time": 1776348864,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91241,
@@ -29187,6 +29443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86386,
+      "num": 86386,
+      "word": "TES战胜BLG",
+      "onboard_time": 1776348742,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86364,
       "num": 86364,
       "word": "美军黑鹰直升机疑似被伊朗击中",
@@ -30211,6 +30475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83795,
+      "num": 83795,
+      "word": "杭州一诊所用一个针头给15人采血",
+      "onboard_time": 1776345681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83770,
       "num": 83770,
       "word": "王楚钦说香港总决赛受伤呼吸都疼",
@@ -30835,6 +31107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81757,
+      "num": 81757,
+      "word": "Wolves对战成都GG",
+      "onboard_time": 1776349104,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81752,
       "num": 81752,
       "word": "林一回头没看见卢昱晓",
@@ -31289,6 +31569,14 @@
       "onboard_time": 1775401828,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80252,
+      "num": 80252,
+      "word": "丞磊沈羽洁许你星河千里开机",
+      "onboard_time": 1776344422,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 80250,
@@ -39307,14 +39595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53118,
-      "num": 111331,
-      "word": "BLG对战TES",
-      "onboard_time": 1776340582,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53049,
       "num": 127502,
       "word": "阿森纳0比0葡萄牙体育",
@@ -41563,6 +41843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34064,
+      "num": 107900,
+      "word": "埃安张雄要把高阶智能变成国民标配",
+      "onboard_time": 1776346821,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34056,
       "num": 75090,
       "word": "DYG纪录片",
@@ -41681,6 +41969,14 @@
       "onboard_time": 1776016636,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33329,
+      "num": 139686,
+      "word": "原来9系旗舰SUV价格也能这么香",
+      "onboard_time": 1776346942,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 33243,
@@ -43171,6 +43467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21553,
+      "num": 737473,
+      "word": "十五五首季中国经济增长好于预期",
+      "onboard_time": 1776347782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21548,
       "num": 26196,
       "word": "穆祉丞在张杰演唱会上表白张杰",
@@ -44585,6 +44889,9 @@
     },
     {
       "word": "#繁忙元首外交彰显大国担当#"
+    },
+    {
+      "word": "#做社会主义事业的命运共同体#"
     }
   ]
 }

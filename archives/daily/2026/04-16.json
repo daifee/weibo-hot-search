@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776341042148,
+  "endTime": 1776349286533,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -9,6 +9,22 @@
       "onboard_time": 1776308661,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3301815,
+      "num": 168591,
+      "word": "曝清清性骚扰",
+      "onboard_time": 1776346821,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 892359,
+      "num": 141690,
+      "word": "沈腾 座位",
+      "onboard_time": 1776345142,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 812334,
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707910,
+      "num": 707910,
+      "word": "张晚意求职",
+      "onboard_time": 1776344241,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 692084,
       "num": 636633,
       "word": "男孩割喉涉事老人老伴因打击再住院",
@@ -81,6 +105,14 @@
       "onboard_time": 1776318621,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599699,
+      "num": 1095951,
+      "word": "大疆Pocket4",
+      "onboard_time": 1776340039,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 557077,
@@ -219,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367517,
+      "num": 164460,
+      "word": "张小斐 可以坐评委腿上看电影吗",
+      "onboard_time": 1776345983,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358775,
       "num": 289408,
       "word": "孙丞潇妈妈发红包给金莎",
       "onboard_time": 1776323660,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357504,
+      "num": 141539,
+      "word": "张曼玉没去浪姐来这了",
+      "onboard_time": 1776344361,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 354084,
@@ -283,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326751,
+      "num": 140465,
+      "word": "诚实一口",
+      "onboard_time": 1776348984,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326519,
       "num": 326519,
       "word": "张豆豆崩溃大哭",
@@ -307,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312846,
+      "num": 139194,
+      "word": "浪姐张杰鸟巢演唱会团建",
+      "onboard_time": 1776346101,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 307485,
       "num": 164258,
       "word": "陈律曝刘聪三个月借了自己50万",
@@ -321,6 +385,14 @@
       "onboard_time": 1776314483,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304634,
+      "num": 140778,
+      "word": "潘石屹发文",
+      "onboard_time": 1776341302,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295987,
@@ -563,6 +635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227312,
+      "num": 138574,
+      "word": "穆祉丞追星也是氪金粉",
+      "onboard_time": 1776344422,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222463,
+      "num": 770311,
+      "word": "94斤女生打司美格鲁肽减肥被送急诊",
+      "onboard_time": 1776344123,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220324,
       "num": 151842,
       "word": "伊朗首都突发炸弹袭击",
@@ -659,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180746,
+      "num": 180746,
+      "word": "浪姐二公投票淘汰",
+      "onboard_time": 1776341541,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179714,
       "num": 179714,
       "word": "河南一景区露脚踝大象系演员扮演",
@@ -683,6 +779,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171501,
+      "num": 133927,
+      "word": "张伦硕妈妈曾遗憾没有亲孙子",
+      "onboard_time": 1776346523,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171187,
+      "num": 126087,
+      "word": "埃安N60全系标配高阶智能11.58万元起",
+      "onboard_time": 1776348262,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170215,
       "num": 141623,
       "word": "阚清子复刻欣荣格格",
@@ -697,6 +809,14 @@
       "onboard_time": 1776337041,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168921,
+      "num": 137766,
+      "word": "偶遇张元英去皮肤科",
+      "onboard_time": 1776343822,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 168785,
@@ -771,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155294,
+      "num": 155294,
+      "word": "地球或今年冲击高温极限",
+      "onboard_time": 1776344482,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154423,
       "num": 285725,
       "word": "雷军再次回应中间只充一次电言论",
       "onboard_time": 1776330681,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 154407,
+      "num": 154407,
+      "word": "行车中车门突然打开掉出一个孩子",
+      "onboard_time": 1776345022,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153144,
@@ -819,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144344,
-      "num": 144344,
-      "word": "大疆Pocket4",
-      "onboard_time": 1776340039,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143131,
       "num": 143131,
       "word": "去体检被医生说没元素了",
@@ -859,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 142180,
+      "num": 142180,
+      "word": "美对伊朗启动经济狂怒行动",
+      "onboard_time": 1776345081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141978,
       "num": 141978,
       "word": "8岁女童化疗前冻存卵巢组织",
@@ -883,12 +1019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140299,
+      "num": 133236,
+      "word": "马丽裙子",
+      "onboard_time": 1776339860,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140027,
       "num": 140027,
       "word": "谈莉娜孕35周胎位不正产检落泪",
       "onboard_time": 1776262823,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "Bin 小奶油",
+      "onboard_time": 1776347543,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 138113,
@@ -915,12 +1067,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136209,
+      "num": 136209,
+      "word": "泼水节女子征得特警同意后开泼",
+      "onboard_time": 1776347301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135904,
       "num": 135904,
       "word": "莫氏鸡煲走红亲戚发声",
       "onboard_time": 1776307520,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135338,
+      "num": 129278,
+      "word": "迪丽热巴生离死别哭戏",
+      "onboard_time": 1776345622,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 135121,
@@ -971,12 +1139,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127367,
+      "num": 127367,
+      "word": "黄晓明再次进入上戏博士复试名单",
+      "onboard_time": 1776347543,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127301,
       "num": 163349,
       "word": "库里就是三分的神",
       "onboard_time": 1776317362,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126418,
+      "num": 126418,
+      "word": "粉色蓝莓炒至400元一斤",
+      "onboard_time": 1776341060,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126038,
@@ -1011,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122349,
+      "num": 101485,
+      "word": "埃安N60一度电多跑一公里",
+      "onboard_time": 1776348742,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122248,
       "num": 122248,
       "word": "乙肝抗体没了要不要补打疫苗",
@@ -1033,6 +1225,14 @@
       "onboard_time": 1776323841,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "张真源直播",
+      "onboard_time": 1776342862,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 120742,
@@ -1075,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118731,
+      "num": 113527,
+      "word": "零跑D19",
+      "onboard_time": 1776343281,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 115081,
       "num": 162656,
       "word": "日本11岁男童失踪20余天惊人反转",
@@ -1089,6 +1297,22 @@
       "onboard_time": 1776324503,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114329,
+      "num": 114329,
+      "word": "老莫称卖掉1000只鸡后会捐10万",
+      "onboard_time": 1776345203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112613,
+      "num": 112613,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 109295,
@@ -1123,20 +1347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106203,
+      "num": 106203,
+      "word": "蜜语纪",
+      "onboard_time": 1776342742,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103696,
       "num": 103696,
       "word": "法院称papi妈妈抑郁症与案件无关",
       "onboard_time": 1776334942,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103695,
-      "num": 103695,
-      "word": "马丽裙子",
-      "onboard_time": 1776339860,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 103578,
@@ -1163,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102942,
+      "num": 102942,
+      "word": "露芜衣角色曲不是鞠婧祎唱的",
+      "onboard_time": 1776349223,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102775,
       "num": 102775,
       "word": "小狗一点点闻到了朋友死亡的过程",
@@ -1185,6 +1417,14 @@
       "onboard_time": 1776339561,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102363,
+      "num": 111331,
+      "word": "BLG对战TES",
+      "onboard_time": 1776340582,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 102353,
@@ -1243,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99267,
+      "num": 99267,
+      "word": "同济大学启动调查程序",
+      "onboard_time": 1776348742,
+      "rank": 37,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 99108,
       "num": 121220,
       "word": "业内人士对肖战团队的评价",
@@ -1291,6 +1539,14 @@
       "category": "数码,电竞"
     },
     {
+      "raw_hot": 93712,
+      "num": 93712,
+      "word": "狼队三连败",
+      "onboard_time": 1776345802,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93099,
       "num": 93099,
       "word": "何润东翻红后的商务",
@@ -1313,6 +1569,14 @@
       "onboard_time": 1776273557,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91250,
+      "num": 91250,
+      "word": "粉色蓝莓vs普通蓝莓",
+      "onboard_time": 1776348864,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91032,
@@ -1379,12 +1643,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87117,
+      "num": 87117,
+      "word": "第五人格赛事",
+      "onboard_time": 1776348682,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86942,
       "num": 137608,
       "word": "王赫野也来跳胆小鬼了",
       "onboard_time": 1776311483,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86386,
+      "num": 86386,
+      "word": "TES战胜BLG",
+      "onboard_time": 1776348742,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 86297,
@@ -1475,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83795,
+      "num": 83795,
+      "word": "杭州一诊所用一个针头给15人采血",
+      "onboard_time": 1776345681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83693,
       "num": 139526,
       "word": "樊振东打响指叫队友",
@@ -1515,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81757,
+      "num": 81757,
+      "word": "Wolves对战成都GG",
+      "onboard_time": 1776349104,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81505,
       "num": 120946,
       "word": "在德读硕中国小伙多次下药迷奸女友",
@@ -1537,6 +1833,14 @@
       "onboard_time": 1776261560,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80252,
+      "num": 80252,
+      "word": "丞磊沈羽洁许你星河千里开机",
+      "onboard_time": 1776344422,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 79385,
@@ -2139,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53118,
-      "num": 111331,
-      "word": "BLG对战TES",
-      "onboard_time": 1776340582,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53049,
       "num": 127502,
       "word": "阿森纳0比0葡萄牙体育",
@@ -2337,6 +2633,22 @@
       "onboard_time": 1776316223,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34064,
+      "num": 107900,
+      "word": "埃安张雄要把高阶智能变成国民标配",
+      "onboard_time": 1776346821,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 33329,
+      "num": 139686,
+      "word": "原来9系旗舰SUV价格也能这么香",
+      "onboard_time": 1776346942,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 33107,
@@ -2555,6 +2867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21553,
+      "num": 737473,
+      "word": "十五五首季中国经济增长好于预期",
+      "onboard_time": 1776347782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20101,
       "num": 145444,
       "word": "美民主党弹劾防长赫格塞思",
@@ -2671,6 +2991,9 @@
     },
     {
       "word": "#繁忙元首外交彰显大国担当#"
+    },
+    {
+      "word": "#做社会主义事业的命运共同体#"
     }
   ]
 }
