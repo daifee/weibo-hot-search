@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776311662912,
+  "endTime": 1776319744296,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -25,6 +25,22 @@
       "onboard_time": 1776296960,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720880,
+      "num": 165752,
+      "word": "唐禹哲自首出发图",
+      "onboard_time": 1776316582,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 715374,
+      "num": 165213,
+      "word": "向华强女儿说向太拿烟头烫她",
+      "onboard_time": 1776311363,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 654981,
@@ -75,12 +91,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 402465,
+      "num": 1064394,
+      "word": "医院测出智障高三学生再发声",
+      "onboard_time": 1776312022,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378433,
+      "num": 378433,
+      "word": "曾沛慈 汪东城",
+      "onboard_time": 1776318621,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374560,
       "num": 374560,
       "word": "赵子琪张慧雯吵架是怎么剪辑出来的",
       "onboard_time": 1776308360,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371577,
+      "num": 161372,
+      "word": "男子拍大量视频照片记录迷奸女友",
+      "onboard_time": 1776315083,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367952,
+      "num": 756487,
+      "word": "遭割喉男孩还有一段气管没找到",
+      "onboard_time": 1776316282,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354084,
@@ -115,12 +163,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307485,
+      "num": 164258,
+      "word": "陈律曝刘聪三个月借了自己50万",
+      "onboard_time": 1776313223,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 302876,
+      "num": 164031,
+      "word": "曝王子杰去世系工伤",
+      "onboard_time": 1776314483,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290442,
       "num": 144202,
       "word": "网盘禁止传播海外影视资源",
       "onboard_time": 1776310705,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285158,
+      "num": 161016,
+      "word": "鞠婧祎应援会声明",
+      "onboard_time": 1776319342,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 283478,
@@ -139,12 +211,36 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 261523,
+      "num": 164891,
+      "word": "光遇",
+      "onboard_time": 1776306739,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260863,
       "num": 260863,
       "word": "美军妄想威慑中国内陆",
       "onboard_time": 1776295999,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 259198,
+      "num": 259198,
+      "word": "警方回应泼水节多人向车内喷水",
+      "onboard_time": 1776316882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258839,
+      "num": 258839,
+      "word": "赵子琪为上浪姐下了血本",
+      "onboard_time": 1776312145,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 256432,
@@ -163,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249976,
+      "num": 249976,
+      "word": "勇士淘汰快船",
+      "onboard_time": 1776316163,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248699,
       "num": 1743527,
       "word": "医生回应35岁孕妇吃冰箱剩菜后去世",
       "onboard_time": 1776307939,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243712,
+      "num": 163180,
+      "word": "朱珠把外卖袋拎成秀场了",
+      "onboard_time": 1776315142,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 230852,
@@ -179,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229098,
+      "num": 160394,
+      "word": "陈瑶还原张显宗我牙疼",
+      "onboard_time": 1776316521,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228796,
       "num": 228796,
       "word": "拜仁4比3皇马",
       "onboard_time": 1776295038,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228649,
+      "num": 159683,
+      "word": "SNH48公式照也变黑白",
+      "onboard_time": 1776315863,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 216626,
@@ -201,6 +329,22 @@
       "onboard_time": 1776304101,
       "rank": 17,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 209257,
+      "num": 209257,
+      "word": "外籍乘客对着营区拍照被司机送进部队",
+      "onboard_time": 1776313104,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197708,
+      "num": 197708,
+      "word": "心源性疾病",
+      "onboard_time": 1776315982,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196463,
@@ -224,14 +368,6 @@
       "word": "鹤男粉丝脱粉",
       "onboard_time": 1776303320,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182255,
-      "num": 152170,
-      "word": "向华强女儿说向太拿烟头烫她",
-      "onboard_time": 1776311363,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -259,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172492,
+      "num": 151902,
+      "word": "曝花三三被榜一大哥起诉",
+      "onboard_time": 1776318681,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 167872,
       "num": 167872,
       "word": "伊朗总统感谢中国",
@@ -275,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165755,
+      "num": 165755,
+      "word": "男子伸咸猪手被女老板扇飞眼镜",
+      "onboard_time": 1776313704,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161130,
       "num": 161130,
       "word": "浙江癌症发病率死亡率首位均为肺癌",
@@ -283,11 +435,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158650,
+      "num": 158650,
+      "word": "唐艺昕陶昕然cos祺贵人安小鸟",
+      "onboard_time": 1776315863,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153144,
       "num": 368146,
       "word": "美国将退还超1万亿元关税",
       "onboard_time": 1776252923,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151842,
+      "num": 151842,
+      "word": "伊朗首都突发炸弹袭击",
+      "onboard_time": 1776318920,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -300,11 +468,19 @@
     },
     {
       "raw_hot": 142794,
-      "num": 155441,
+      "num": 158871,
       "word": "小狗叼东西证明自己不咬人",
       "onboard_time": 1776310705,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142448,
+      "num": 142448,
+      "word": "王子杰去世正值鞠婧祎官司关键期",
+      "onboard_time": 1776318860,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 141978,
@@ -403,6 +579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128099,
+      "num": 160290,
+      "word": "印19岁男子涉诱奸180名少女拍视频",
+      "onboard_time": 1776316223,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127301,
+      "num": 163349,
+      "word": "库里就是三分的神",
+      "onboard_time": 1776317362,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126038,
       "num": 141974,
       "word": "武汉市原市长周先旺被起诉",
@@ -412,11 +604,19 @@
     },
     {
       "raw_hot": 125934,
-      "num": 147541,
+      "num": 154051,
       "word": "朋友圈这样发涉嫌违法",
       "onboard_time": 1776311244,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124216,
+      "num": 124216,
+      "word": "张伦硕 还是想要一个自己的孩子",
+      "onboard_time": 1776319522,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 122248,
@@ -467,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115081,
+      "num": 162656,
+      "word": "日本11岁男童失踪20余天惊人反转",
+      "onboard_time": 1776315203,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107759,
       "num": 149274,
       "word": "赵子琪称直播揭露所有真相",
@@ -480,6 +688,14 @@
       "word": "穆祉丞证件照",
       "onboard_time": 1776311303,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103312,
+      "num": 103312,
+      "word": "于正又夸赵晴好看了",
+      "onboard_time": 1776315142,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -523,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100313,
+      "num": 100313,
+      "word": "孙怡乘风时光机造型是黎璃",
+      "onboard_time": 1776317302,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99108,
       "num": 121220,
       "word": "业内人士对肖战团队的评价",
@@ -555,12 +779,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95048,
-      "num": 138236,
-      "word": "光遇",
-      "onboard_time": 1776306739,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 93537,
+      "num": 77547,
+      "word": "孙杨张豆豆差点引起家庭矛盾",
+      "onboard_time": 1776318381,
+      "rank": 39,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 91469,
@@ -659,12 +883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78523,
+      "num": 78523,
+      "word": "无限暖暖",
+      "onboard_time": 1776316521,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78200,
       "num": 106099,
       "word": "自如老师 侵权",
       "onboard_time": 1776269120,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77417,
+      "num": 77417,
+      "word": "习惯性吃撑",
+      "onboard_time": 1776314184,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77346,
@@ -755,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71800,
+      "num": 162168,
+      "word": "小米18Pro新增AI按键",
+      "onboard_time": 1776315083,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71618,
       "num": 118711,
       "word": "警方回应15岁女孩遭班主任猥亵",
@@ -785,6 +1033,14 @@
       "onboard_time": 1776305060,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69152,
+      "num": 69152,
+      "word": "狗被吊死宠物医院门店数量超50家",
+      "onboard_time": 1776318802,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67711,
@@ -819,6 +1075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65267,
+      "num": 65267,
+      "word": "40岁霍福德三分投疯了",
+      "onboard_time": 1776316163,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64196,
       "num": 91514,
       "word": "萨尔布吕肯3比1云达不莱梅",
@@ -833,6 +1097,22 @@
       "onboard_time": 1776267920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62103,
+      "num": 62103,
+      "word": "乘风2026",
+      "onboard_time": 1776313522,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60838,
+      "num": 60838,
+      "word": "勇士附加赛对阵太阳",
+      "onboard_time": 1776318560,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 57521,
@@ -923,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 46898,
+      "num": 77619,
+      "word": "在春日宁波遇见光影中国",
+      "onboard_time": 1776319522,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46861,
       "num": 104796,
       "word": "卡马文加黄牌",
@@ -1009,6 +1297,14 @@
       "onboard_time": 1776271938,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34269,
+      "num": 60869,
+      "word": "郑州春天里的一场文化盛宴",
+      "onboard_time": 1776316223,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 33107,
@@ -1243,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14418,
+      "num": 59677,
+      "word": "小米18Pro屏幕参数曝光",
+      "onboard_time": 1776310883,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 13717,
       "num": 20465,
       "word": "美海关4月20日启动关税退款",
@@ -1264,6 +1568,14 @@
       "word": "B太否认为流量揭露大山女孩真相",
       "onboard_time": 1776311542,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9996,
+      "num": 161846,
+      "word": "退役军人投靠间谍自导自演举报被查",
+      "onboard_time": 1776319282,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],
