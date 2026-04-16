@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/17 00:04:11 ~ 2026/04/17 04:05:35
+本榜单时间：2026/04/17 00:04:11 ~ 2026/04/17 05:10:56
 </p>
 </blockquote>
 <p>
@@ -375,20 +375,26 @@ Claude Opus4.7（热度：70421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23" target="weibo">
+伊朗审慎应对再与美谈判或延长停火（热度：24465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9E%97%E4%B9%98%E9%AB%98%E9%93%81%E6%8A%B5%E8%BE%BE%E5%B9%BF%E8%A5%BF%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
 苏林乘高铁抵达广西现场画面（热度：24307）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23" target="weibo">
-伊朗审慎应对再与美谈判或延长停火（热度：24149）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E4%BD%A0%E6%80%8E%E4%B9%88%E7%AE%A1%E7%9A%84%E6%B2%88%E8%85%BE%23" target="weibo">
+马丽你怎么管的沈腾（热度：24110）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E4%BD%A0%E6%80%8E%E4%B9%88%E7%AE%A1%E7%9A%84%E6%B2%88%E8%85%BE%23" target="weibo">
-马丽你怎么管的沈腾（热度：24110）
+<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E5%B0%8F%E4%BC%99%E5%85%A8%E8%81%8C%E5%BD%93%E5%AD%99%E5%AD%90%E6%9C%88%E5%85%A55000%23" target="weibo">
+36岁小伙全职当孙子月入5000（热度：23554）
 </a>
 </li>
 
@@ -431,6 +437,12 @@ Claude Opus4.7（热度：70421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
 狼队第五人格（热度：17906）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%BD%B1%E8%8A%82%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
+北影节印象最深的环节（热度：13387）
 </a>
 </li>
 
