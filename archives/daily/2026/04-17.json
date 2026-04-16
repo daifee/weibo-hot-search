@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776358097151,
+  "endTime": 1776361920069,
   "band_list": [
     {
       "raw_hot": 2371127,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 121028,
-      "num": 121028,
+      "num": 244937,
       "word": "中国不吸烟女性二手烟暴露率达70%",
       "onboard_time": 1776354981,
       "rank": 39,
@@ -209,6 +209,14 @@
       "onboard_time": 1776351981,
       "rank": 16,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 83983,
+      "num": 83983,
+      "word": "韩红点评王祖蓝贺峻霖rap",
+      "onboard_time": 1776358398,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 83919,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73352,
+      "num": 73352,
+      "word": "被强拉开车门泼水女子称或将追责",
+      "onboard_time": 1776354801,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70421,
       "num": 70421,
       "word": "Claude Opus4.7",
@@ -337,14 +353,6 @@
       "onboard_time": 1776351442,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59164,
-      "num": 59164,
-      "word": "被强拉开车门泼水女子称或将追责",
-      "onboard_time": 1776354801,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57252,
@@ -435,6 +443,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33354,
+      "num": 31010,
+      "word": "警方通报火锅店女老板被顾客骚扰",
+      "onboard_time": 1776360436,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 31240,
+      "num": 31240,
+      "word": "周洁琼后背湿透了",
+      "onboard_time": 1776361756,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28568,
       "num": 35394,
       "word": "零跑D19",
@@ -443,12 +467,76 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24307,
+      "num": 30985,
+      "word": "苏林乘高铁抵达广西现场画面",
+      "onboard_time": 1776358157,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24110,
+      "num": 31072,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22283,
+      "num": 30913,
+      "word": "深圳一男子确诊罕见传染病",
+      "onboard_time": 1776336201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21221,
       "num": 611300,
       "word": "十五五首季中国经济增长好于预期",
       "onboard_time": 1776347782,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19957,
+      "num": 30702,
+      "word": "浪姐二公投票淘汰",
+      "onboard_time": 1776341541,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19650,
+      "num": 30639,
+      "word": "迪丽热巴生离死别哭戏",
+      "onboard_time": 1776345622,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19176,
+      "num": 30611,
+      "word": "罗大美生前外借200多万基本没收回",
+      "onboard_time": 1776358819,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17906,
+      "num": 30553,
+      "word": "狼队第五人格",
+      "onboard_time": 1776340820,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 17856,
+      "num": 30506,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

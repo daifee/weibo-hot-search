@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/17 00:48:17
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/17 01:52:00
 </p>
 </blockquote>
 <p>
@@ -6633,6 +6633,12 @@ papi妈妈今日背氧气瓶出庭（热度：84530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E7%82%B9%E8%AF%84%E7%8E%8B%E7%A5%96%E8%93%9D%E8%B4%BA%E5%B3%BB%E9%9C%96rap%23" target="weibo">
+韩红点评王祖蓝贺峻霖rap（热度：83983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E7%9C%9F%E7%9A%84%E5%BE%88%E8%AE%A4%E7%9C%9F%E5%9C%B0%E5%9C%A8%E6%95%99%E6%88%91%E5%90%B5%E6%9E%B6%23" target="weibo">
 她真的很认真地在教我吵架（热度：83973）
 </a>
@@ -7499,6 +7505,12 @@ KSG狼AGDYG一组（热度：74756）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E5%BC%A0%E5%9B%BD%E8%8D%A3%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7%E5%AE%9A%E6%A1%A3%23" target="weibo">
 周润发张国荣纵横四海定档（热度：73425）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%BA%E6%8B%89%E5%BC%80%E8%BD%A6%E9%97%A8%E6%B3%BC%E6%B0%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%88%96%E5%B0%86%E8%BF%BD%E8%B4%A3%23" target="weibo">
+被强拉开车门泼水女子称或将追责（热度：73352）
 </a>
 </li>
 
@@ -8535,12 +8547,6 @@ Jasper打球 以为哪吒上场了（热度：63200）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%BA%E6%8B%89%E5%BC%80%E8%BD%A6%E9%97%A8%E6%B3%BC%E6%B0%B4%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%88%96%E5%B0%86%E8%BF%BD%E8%B4%A3%23" target="weibo">
-被强拉开车门泼水女子称或将追责（热度：59164）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E6%83%B3CEO%E6%9D%A8%E5%85%83%E5%BA%86%E8%AF%95%E9%A9%BE%E5%9B%BD%E4%BA%A7%E8%B1%AA%E8%BD%A6%23" target="weibo">
 联想CEO杨元庆试驾国产豪车（热度：58994）
 </a>
@@ -9501,6 +9507,12 @@ Lululemon客服回应（热度：36540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%81%AB%E9%94%85%E5%BA%97%E5%A5%B3%E8%80%81%E6%9D%BF%E8%A2%AB%E9%A1%BE%E5%AE%A2%E9%AA%9A%E6%89%B0%23" target="weibo">
+警方通报火锅店女老板被顾客骚扰（热度：33354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%B3%95%E5%AE%98%E7%8C%A5%E4%BA%B5%23" target="weibo">
 女当事人回应被法官猥亵（热度：33333）
 </a>
@@ -9563,6 +9575,12 @@ Lululemon客服回应（热度：36540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%90%AC%E5%88%B0%E8%97%8F%E6%B5%B7%E4%BC%A0%E4%B8%BB%E9%A2%98%E6%9B%B2%E4%BA%86%23" target="weibo">
 澳门听到藏海传主题曲了（热度：31273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%90%8E%E8%83%8C%E6%B9%BF%E9%80%8F%E4%BA%86%23" target="weibo">
+周洁琼后背湿透了（热度：31240）
 </a>
 </li>
 
@@ -9891,6 +9909,12 @@ KPL夏季赛死亡三组（热度：24361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9E%97%E4%B9%98%E9%AB%98%E9%93%81%E6%8A%B5%E8%BE%BE%E5%B9%BF%E8%A5%BF%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
+苏林乘高铁抵达广西现场画面（热度：24307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E8%B5%8C%E8%BE%93%E4%BA%86%E8%A2%AB%E6%8B%8D%E5%8F%97%E8%BE%B1%E8%A7%86%E9%A2%91%E5%90%8E%E6%8A%91%E9%83%81%23" target="weibo">
 男子打赌输了被拍受辱视频后抑郁（热度：24285）
 </a>
@@ -10077,6 +10101,12 @@ KPL夏季赛死亡三组（热度：24361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E7%94%9F%E5%89%8D%E5%A4%96%E5%80%9F200%E5%A4%9A%E4%B8%87%E5%9F%BA%E6%9C%AC%E6%B2%A1%E6%94%B6%E5%9B%9E%23" target="weibo">
+罗大美生前外借200多万基本没收回（热度：19176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%9B%BD%E9%95%BF%E5%AE%89%E5%AE%81%E5%85%A8%E6%B0%91%E5%85%B1%E5%AE%88%E6%8A%A4%23" target="weibo">
 家国长安宁全民共守护（热度：19005）
 </a>
@@ -10127,6 +10157,12 @@ WBG 对线（热度：18297）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%B8%9A%E7%8E%B0%E8%A2%AB%E6%9F%A5%23" target="weibo">
 丁业现被查（热度：17882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23" target="weibo">
+伊朗审慎应对再与美谈判或延长停火（热度：17856）
 </a>
 </li>
 
