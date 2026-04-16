@@ -1,0 +1,410 @@
+{
+  "runTime": 1776351778138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 536544,
+        "num": 1085847,
+        "word": "大疆Pocket4",
+        "onboard_time": 1776340039,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221710,
+        "num": 789004,
+        "word": "94斤女生打司美格鲁肽减肥被送急诊",
+        "onboard_time": 1776344123,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24869,
+        "num": 618700,
+        "word": "十五五首季中国经济增长好于预期",
+        "onboard_time": 1776347782,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399864,
+        "num": 399864,
+        "word": "张晚意求职",
+        "onboard_time": 1776344241,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197256,
+        "num": 197256,
+        "word": "老莫称卖掉1000只鸡后会捐10万",
+        "onboard_time": 1776345203,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374887,
+        "num": 193344,
+        "word": "黄灿灿梦回武大校花",
+        "onboard_time": 1776350183,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174873,
+        "num": 174873,
+        "word": "行车中车门突然打开掉出一个孩子",
+        "onboard_time": 1776345022,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144607,
+        "num": 144607,
+        "word": "地球或今年冲击高温极限",
+        "onboard_time": 1776344482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143662,
+        "num": 143662,
+        "word": "浪姐二公投票淘汰",
+        "onboard_time": 1776341541,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87653,
+        "num": 143648,
+        "word": "零跑D19",
+        "onboard_time": 1776343281,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2925377,
+        "num": 140698,
+        "word": "曝清清性骚扰",
+        "onboard_time": 1776346821,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1358925,
+        "num": 140477,
+        "word": "诚实一口",
+        "onboard_time": 1776348984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884798,
+        "num": 137531,
+        "word": "沈腾 座位",
+        "onboard_time": 1776345142,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264291,
+        "num": 136178,
+        "word": "潘石屹发文",
+        "onboard_time": 1776341302,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438084,
+        "num": 135742,
+        "word": "张小斐 可以坐评委腿上看电影吗",
+        "onboard_time": 1776345983,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306761,
+        "num": 132743,
+        "word": "浪姐张杰鸟巢演唱会团建",
+        "onboard_time": 1776346101,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132692,
+        "num": 132692,
+        "word": "Bin 小奶油",
+        "onboard_time": 1776347543,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188304,
+        "num": 130426,
+        "word": "张曼玉没去浪姐来这了",
+        "onboard_time": 1776344361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106964,
+        "num": 126991,
+        "word": "美对伊朗启动经济狂怒行动",
+        "onboard_time": 1776345081,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18612,
+        "num": 122707,
+        "word": "粉色蓝莓一颗难求",
+        "onboard_time": 1776351022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83162,
+        "num": 120833,
+        "word": "埃安N60一度电多跑一公里",
+        "onboard_time": 1776348742,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 115307,
+        "word": "穆祉丞追星也是氪金粉",
+        "onboard_time": 1776344422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170465,
+        "num": 111922,
+        "word": "张伦硕妈妈曾遗憾没有亲孙子",
+        "onboard_time": 1776346523,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110275,
+        "num": 110275,
+        "word": "美国多位机密领域科学家失踪或死亡",
+        "onboard_time": 1776349763,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72922,
+        "num": 109064,
+        "word": "埃安N60全系标配高阶智能11.58万元起",
+        "onboard_time": 1776348262,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123353,
+        "num": 109021,
+        "word": "黄晓明再次进入上戏博士复试名单",
+        "onboard_time": 1776347543,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108004,
+        "num": 108004,
+        "word": "粉色蓝莓vs普通蓝莓",
+        "onboard_time": 1776348864,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106381,
+        "num": 106381,
+        "word": "粉色蓝莓炒至400元一斤",
+        "onboard_time": 1776341060,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101433,
+        "num": 101433,
+        "word": "偶遇张元英去皮肤科",
+        "onboard_time": 1776343822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101318,
+        "num": 101318,
+        "word": "蜜语纪",
+        "onboard_time": 1776342742,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 99117,
+        "word": "低精力都去查一下维d",
+        "onboard_time": 1776351683,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95340,
+        "num": 95340,
+        "word": "迪丽热巴生离死别哭戏",
+        "onboard_time": 1776345622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89147,
+        "num": 89147,
+        "word": "张真源直播",
+        "onboard_time": 1776342862,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88047,
+        "num": 88047,
+        "word": "中方回应特朗普称访华不受影响",
+        "onboard_time": 1776337281,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86171,
+        "num": 86171,
+        "word": "多方回应诊所用一个针头给15人采血",
+        "onboard_time": 1776351022,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85223,
+        "num": 85223,
+        "word": "露芜衣角色曲不是鞠婧祎唱的",
+        "onboard_time": 1776349223,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83880,
+        "num": 83880,
+        "word": "迪丽热巴荷叶边白裙",
+        "onboard_time": 1776339501,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83702,
+        "num": 83702,
+        "word": "泼水节女子征得特警同意后开泼",
+        "onboard_time": 1776347301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81721,
+        "num": 81721,
+        "word": "丁程鑫祝张真源快乐",
+        "onboard_time": 1776350363,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15235,
+        "num": 81164,
+        "word": "47岁外卖员出租屋离世一月才被发现",
+        "onboard_time": 1776351381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80717,
+        "num": 80717,
+        "word": "深圳一男子确诊罕见传染病",
+        "onboard_time": 1776336201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79820,
+        "num": 79820,
+        "word": "金关",
+        "onboard_time": 1776351504,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79029,
+        "num": 79029,
+        "word": "南京公积金贷款范围扩至安徽全省",
+        "onboard_time": 1776347963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77952,
+        "num": 77952,
+        "word": "最不困的人叫醒最困的人",
+        "onboard_time": 1776351083,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77403,
+        "num": 77403,
+        "word": "邓紫棋直播",
+        "onboard_time": 1776351442,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76982,
+        "num": 76982,
+        "word": "9元1斤书店有书友一次性买1吨",
+        "onboard_time": 1776350662,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73321,
+        "num": 73321,
+        "word": "永辉超市去年亏了25.52亿",
+        "onboard_time": 1776351381,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73084,
+        "num": 73084,
+        "word": "宋亚轩回归音综",
+        "onboard_time": 1776331761,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71931,
+        "num": 71931,
+        "word": "马丽裙子",
+        "onboard_time": 1776339860,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66917,
+        "num": 66917,
+        "word": "三亚药店发错药致15岁少年肝损伤",
+        "onboard_time": 1776350662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#做社会主义事业的命运共同体#"
+    }
+  }
+}
