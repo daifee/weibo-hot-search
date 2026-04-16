@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776379977339,
+  "endTime": 1776381006980,
   "band_list": [
     {
       "raw_hot": 2371127,
@@ -35,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411853,
+      "raw_hot": 435602,
       "num": 568013,
       "word": "陈泽",
       "onboard_time": 1776354861,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 354985,
+      "num": 415572,
+      "word": "肺癌成中国女性第一大癌症",
+      "onboard_time": 1776378196,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 347606,
@@ -49,14 +57,6 @@
       "onboard_time": 1776340039,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 311262,
-      "num": 415572,
-      "word": "肺癌成中国女性第一大癌症",
-      "onboard_time": 1776378196,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 296218,
@@ -72,6 +72,14 @@
       "word": "最不困的人叫醒最困的人",
       "onboard_time": 1776351083,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208068,
+      "num": 653447,
+      "word": "中国不吸烟女性二手烟暴露率达70%",
+      "onboard_time": 1776354981,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -99,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194555,
+      "num": 194555,
+      "word": "36岁小伙全职当孙子月入5000",
+      "onboard_time": 1776372074,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181755,
       "num": 120528,
       "word": "潘石屹发文",
       "onboard_time": 1776341302,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "四川地震",
+      "onboard_time": 1776380898,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 168748,
@@ -123,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "美国多位机密领域科学家失踪或死亡",
+      "onboard_time": 1776349763,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153410,
       "num": 81387,
       "word": "诚实一口",
@@ -139,11 +171,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147468,
-      "num": 147468,
-      "word": "36岁小伙全职当孙子月入5000",
-      "onboard_time": 1776372074,
-      "rank": 30,
+      "raw_hot": 145779,
+      "num": 114644,
+      "word": "被强拉开车门泼水女子称或将追责",
+      "onboard_time": 1776354801,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -163,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137047,
-      "num": 137047,
-      "word": "美国多位机密领域科学家失踪或死亡",
-      "onboard_time": 1776349763,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129965,
       "num": 81242,
       "word": "卢昱晓要把李佳琦的老鼠干挂包上",
@@ -179,36 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121833,
-      "num": 121833,
-      "word": "最难喝饮料又上新了",
-      "onboard_time": 1776352281,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 121028,
-      "num": 244937,
-      "word": "中国不吸烟女性二手烟暴露率达70%",
-      "onboard_time": 1776354981,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118674,
-      "num": 118674,
+      "raw_hot": 126497,
+      "num": 126497,
       "word": "张伦硕妈妈曾遗憾没有亲孙子",
       "onboard_time": 1776346523,
       "rank": 15,
       "category": "综艺"
     },
     {
-      "raw_hot": 114644,
-      "num": 114644,
-      "word": "被强拉开车门泼水女子称或将追责",
-      "onboard_time": 1776354801,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 121833,
+      "num": 121833,
+      "word": "最难喝饮料又上新了",
+      "onboard_time": 1776352281,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 113290,
@@ -243,6 +251,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 84218,
+      "num": 84218,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83983,
       "num": 83983,
       "word": "韩红点评王祖蓝贺峻霖rap",
@@ -257,6 +273,14 @@
       "onboard_time": 1776353302,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83593,
+      "num": 83593,
+      "word": "美防长称伊朗最高领袖受伤但活着",
+      "onboard_time": 1776354023,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83343,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75462,
-      "num": 75462,
-      "word": "马丽你怎么管的沈腾",
-      "onboard_time": 1776343640,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70421,
       "num": 70421,
       "word": "Claude Opus4.7",
@@ -347,12 +363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66980,
-      "num": 66980,
-      "word": "美防长称伊朗最高领袖受伤但活着",
-      "onboard_time": 1776354023,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 68644,
+      "num": 61270,
+      "word": "猝死来临前6个隐匿信号",
+      "onboard_time": 1776365175,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65068,
+      "num": 65068,
+      "word": "何润东回宿迁的排面拉满了",
+      "onboard_time": 1776380418,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 64707,
@@ -393,14 +417,6 @@
       "onboard_time": 1776351442,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57680,
-      "num": 45775,
-      "word": "猝死来临前6个隐匿信号",
-      "onboard_time": 1776365175,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 57171,
@@ -451,20 +467,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40586,
-      "num": 40586,
-      "word": "伊朗早有后手",
-      "onboard_time": 1776339321,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 39564,
-      "num": 39564,
+      "raw_hot": 51298,
+      "num": 51298,
       "word": "警方通报火锅店女老板被顾客骚扰",
       "onboard_time": 1776360436,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 50463,
+      "num": 50463,
+      "word": "伊朗早有后手",
+      "onboard_time": 1776339321,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39426,
@@ -484,23 +500,39 @@
     },
     {
       "raw_hot": 38073,
-      "num": 39441,
+      "num": 46011,
       "word": "韩红问李乃文是真唱吗",
       "onboard_time": 1776350544,
       "rank": 43,
       "category": "电影"
     },
     {
+      "raw_hot": 36940,
+      "num": 46012,
+      "word": "深圳一男子确诊罕见传染病",
+      "onboard_time": 1776336201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36362,
-      "num": 40269,
+      "num": 46009,
       "word": "周洁琼后背湿透了",
       "onboard_time": 1776361756,
       "rank": 22,
       "category": "电影"
     },
     {
+      "raw_hot": 31955,
+      "num": 46011,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28568,
-      "num": 39433,
+      "num": 46009,
       "word": "零跑D19",
       "onboard_time": 1776343281,
       "rank": 48,
@@ -508,19 +540,27 @@
     },
     {
       "raw_hot": 28405,
-      "num": 39587,
+      "num": 46009,
       "word": "罗大美生前外借200多万基本没收回",
       "onboard_time": 1776358819,
       "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27891,
-      "num": 39563,
-      "word": "伊朗审慎应对再与美谈判或延长停火",
-      "onboard_time": 1776353302,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 26770,
+      "num": 46010,
+      "word": "泼水节被多人泼水汽车后备箱也遭殃",
+      "onboard_time": 1776362715,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24580,
+      "num": 46009,
+      "word": "迪丽热巴生离死别哭戏",
+      "onboard_time": 1776345622,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 24307,
@@ -531,31 +571,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24226,
-      "num": 39538,
-      "word": "深圳一男子确诊罕见传染病",
-      "onboard_time": 1776336201,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23785,
-      "num": 39525,
+      "num": 46009,
       "word": "浪姐二公投票淘汰",
       "onboard_time": 1776341541,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 22358,
-      "num": 39473,
-      "word": "泼水节被多人泼水汽车后备箱也遭殃",
-      "onboard_time": 1776362715,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21221,
+      "raw_hot": 23321,
       "num": 611300,
       "word": "十五五首季中国经济增长好于预期",
       "onboard_time": 1776347782,
@@ -564,19 +588,11 @@
     },
     {
       "raw_hot": 20009,
-      "num": 39463,
+      "num": 46008,
       "word": "北影节印象最深的环节",
       "onboard_time": 1776372495,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19650,
-      "num": 39410,
-      "word": "迪丽热巴生离死别哭戏",
-      "onboard_time": 1776345622,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 17906,
