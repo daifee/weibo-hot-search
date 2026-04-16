@@ -1,0 +1,410 @@
+{
+  "runTime": 1776329439239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 375368,
+        "num": 1060058,
+        "word": "中国驻日大使馆接连遭到恐怖威胁",
+        "onboard_time": 1776326002,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262509,
+        "num": 773987,
+        "word": "北影节红毯",
+        "onboard_time": 1776323240,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22990,
+        "num": 632881,
+        "word": "2026年一季度GDP同比增长5.0%",
+        "onboard_time": 1776306859,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287871,
+        "num": 287871,
+        "word": "孙丞潇妈妈发红包给金莎",
+        "onboard_time": 1776323660,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190047,
+        "num": 190047,
+        "word": "酒店订单备注玩梗被指侵犯隐私",
+        "onboard_time": 1776325941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257373,
+        "num": 185202,
+        "word": "迪丽热巴表演打奶嗝",
+        "onboard_time": 1776323302,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161315,
+        "num": 161315,
+        "word": "黄瓜泡面",
+        "onboard_time": 1776323001,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137097,
+        "num": 137097,
+        "word": "小杨生煎回应包子皮放在抹布上",
+        "onboard_time": 1776326600,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102775,
+        "num": 102775,
+        "word": "小狗一点点闻到了朋友死亡的过程",
+        "onboard_time": 1776324862,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91476,
+        "num": 102771,
+        "word": "雷军将全程直播15小时",
+        "onboard_time": 1776321561,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 487444,
+        "num": 102771,
+        "word": "澳门老炮喊话B太",
+        "onboard_time": 1776324740,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461317,
+        "num": 102762,
+        "word": "冯提莫承认整容",
+        "onboard_time": 1776323721,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321198,
+        "num": 102762,
+        "word": "孙怡cos黎璃",
+        "onboard_time": 1776321861,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 102754,
+        "word": "戴降噪耳机喝可乐",
+        "onboard_time": 1776323001,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266002,
+        "num": 102754,
+        "word": "曝包洁仪凄惨身世是假的",
+        "onboard_time": 1776321321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208578,
+        "num": 102750,
+        "word": "刘浩存好美",
+        "onboard_time": 1776328341,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96624,
+        "num": 102745,
+        "word": "豆包帮挑的西瓜",
+        "onboard_time": 1776327083,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161355,
+        "num": 102742,
+        "word": "跑男",
+        "onboard_time": 1776328881,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91119,
+        "num": 102733,
+        "word": "杀害罗大美主犯余金生被执行死刑",
+        "onboard_time": 1776321682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112604,
+        "num": 102730,
+        "word": "赵子琪为上浪姐下了血本",
+        "onboard_time": 1776312145,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102729,
+        "num": 102729,
+        "word": "奔跑吧首播嘉宾是时代少年团",
+        "onboard_time": 1776323421,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72128,
+        "num": 102557,
+        "word": "李学用欢迎大家来躺平",
+        "onboard_time": 1776326661,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110597,
+        "num": 102515,
+        "word": "阚清子复刻欣荣格格",
+        "onboard_time": 1776320962,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87071,
+        "num": 102406,
+        "word": "库里回应淘汰快船",
+        "onboard_time": 1776323841,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102392,
+        "num": 102392,
+        "word": "向涵之发了九张妈妈照片",
+        "onboard_time": 1776325041,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 94529,
+        "word": "阿俄确认客机坠毁系遭防空系统误击",
+        "onboard_time": 1776322281,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93099,
+        "num": 93099,
+        "word": "何润东翻红后的商务",
+        "onboard_time": 1776326721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68171,
+        "num": 90435,
+        "word": "原来大熊猫不喜欢竹林疯长",
+        "onboard_time": 1776324503,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58912,
+        "num": 89444,
+        "word": "联想CEO杨元庆试驾国产豪车",
+        "onboard_time": 1776326721,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16760,
+        "num": 89387,
+        "word": "班主任猥亵女生已成立联合调查组",
+        "onboard_time": 1776329181,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89387,
+        "num": 89386,
+        "word": "王俊凯八中时期旧照",
+        "onboard_time": 1776324503,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88485,
+        "num": 88485,
+        "word": "唐禹哲自首出发图",
+        "onboard_time": 1776316582,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70292,
+        "num": 84795,
+        "word": "伊朗首都突发炸弹袭击",
+        "onboard_time": 1776318920,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84187,
+        "num": 84187,
+        "word": "刘浩存雨中神图",
+        "onboard_time": 1776329061,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80681,
+        "num": 80681,
+        "word": "阚清子孙怡将一起录制你好星期六",
+        "onboard_time": 1776328341,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64835,
+        "num": 76420,
+        "word": "库里命中三分后巴特勒笑了",
+        "onboard_time": 1776328341,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73909,
+        "num": 73909,
+        "word": "朱一龙 禁止欺负三旬老实人",
+        "onboard_time": 1776326481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68859,
+        "num": 68859,
+        "word": "北京国际电影节",
+        "onboard_time": 1776323841,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63584,
+        "num": 63584,
+        "word": "无限暖暖",
+        "onboard_time": 1776316521,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66546,
+        "num": 63577,
+        "word": "陈瑶还原张显宗我牙疼",
+        "onboard_time": 1776316521,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63566,
+        "num": 63566,
+        "word": "许光汉否认和周子瑜恋情",
+        "onboard_time": 1776327862,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61504,
+        "num": 61504,
+        "word": "奶奶的烦恼小小的",
+        "onboard_time": 1776329301,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64262,
+        "num": 61504,
+        "word": "唐艺昕陶昕然cos祺贵人安小鸟",
+        "onboard_time": 1776315863,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61458,
+        "num": 61458,
+        "word": "台积电一季度净利润5725亿台币",
+        "onboard_time": 1776327441,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59213,
+        "num": 59213,
+        "word": "外籍乘客对着营区拍照被司机送进部队",
+        "onboard_time": 1776313104,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56883,
+        "num": 56883,
+        "word": "芯原股份跌近14%",
+        "onboard_time": 1776327319,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56496,
+        "num": 56496,
+        "word": "保罗发表情包嘲讽快船",
+        "onboard_time": 1776322102,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55611,
+        "num": 55611,
+        "word": "中美就特朗普访华保持着沟通",
+        "onboard_time": 1776325822,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38983,
+        "num": 53072,
+        "word": "雷军回应直播15小时",
+        "onboard_time": 1776326061,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51472,
+        "num": 51472,
+        "word": "A股88股涨停",
+        "onboard_time": 1776328041,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#繁忙元首外交彰显大国担当#"
+    }
+  }
+}

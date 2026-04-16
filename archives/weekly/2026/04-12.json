@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776327228080,
+  "endTime": 1776329439239,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -1547,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375368,
+      "num": 1060058,
+      "word": "中国驻日大使馆接连遭到恐怖威胁",
+      "onboard_time": 1776326002,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 374560,
       "num": 374560,
       "word": "赵子琪张慧雯吵架是怎么剪辑出来的",
@@ -2723,6 +2731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262509,
+      "num": 773987,
+      "word": "北影节红毯",
+      "onboard_time": 1776323240,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261554,
       "num": 261554,
       "word": "伊朗总统称准备达成平衡公平协议",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1776230782,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257373,
+      "num": 185202,
+      "word": "迪丽热巴表演打奶嗝",
+      "onboard_time": 1776323302,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 256432,
@@ -3227,14 +3251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226500,
-      "num": 226500,
-      "word": "北影节红毯",
-      "onboard_time": 1776323240,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225796,
       "num": 853268,
       "word": "95后姑娘养6万多条毒蛇年入百万",
@@ -3491,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208578,
+      "num": 102750,
+      "word": "刘浩存好美",
+      "onboard_time": 1776328341,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208303,
       "num": 175651,
       "word": "祝绪丹一亲嘴家里盆都端冒烟了",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1776160642,
       "rank": 6,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 200225,
-      "num": 142670,
-      "word": "迪丽热巴表演打奶嗝",
-      "onboard_time": 1776323302,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 200127,
@@ -3739,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190047,
+      "num": 190047,
+      "word": "酒店订单备注玩梗被指侵犯隐私",
+      "onboard_time": 1776325941,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189598,
       "num": 146133,
       "word": "鹤男粉丝脱粉",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1776150261,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186094,
+      "num": 102754,
+      "word": "戴降噪耳机喝可乐",
+      "onboard_time": 1776323001,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 184649,
@@ -4265,6 +4297,14 @@
       "onboard_time": 1775919623,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161355,
+      "num": 102742,
+      "word": "跑男",
+      "onboard_time": 1776328881,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 161327,
@@ -4955,6 +4995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137097,
+      "num": 137097,
+      "word": "小杨生煎回应包子皮放在抹布上",
+      "onboard_time": 1776326600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136609,
       "num": 107340,
       "word": "晒衣服偏心",
@@ -5452,7 +5500,7 @@
     },
     {
       "raw_hot": 121012,
-      "num": 84560,
+      "num": 102406,
       "word": "库里回应淘汰快船",
       "onboard_time": 1776323841,
       "rank": 30,
@@ -6435,20 +6483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103021,
-      "num": 141131,
-      "word": "中国驻日大使馆接连遭到恐怖威胁",
-      "onboard_time": 1776326002,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102809,
       "num": 174921,
       "word": "李小冉口误喊赵兆老公",
       "onboard_time": 1775915362,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102775,
+      "num": 102775,
+      "word": "小狗一点点闻到了朋友死亡的过程",
+      "onboard_time": 1776324862,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 102718,
@@ -6660,7 +6708,7 @@
     },
     {
       "raw_hot": 99960,
-      "num": 84086,
+      "num": 102557,
       "word": "李学用欢迎大家来躺平",
       "onboard_time": 1776326661,
       "rank": 34,
@@ -6857,6 +6905,14 @@
       "onboard_time": 1776132380,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96624,
+      "num": 102745,
+      "word": "豆包帮挑的西瓜",
+      "onboard_time": 1776327083,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 96595,
@@ -7163,28 +7219,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93099,
+      "num": 93099,
+      "word": "何润东翻红后的商务",
+      "onboard_time": 1776326721,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93048,
       "num": 93048,
       "word": "钢铁森林水下吻神图",
       "onboard_time": 1775999001,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92981,
-      "num": 84555,
-      "word": "小狗一点点闻到了朋友死亡的过程",
-      "onboard_time": 1776324862,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 92838,
-      "num": 92838,
-      "word": "戴降噪耳机喝可乐",
-      "onboard_time": 1776323001,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 92832,
@@ -7947,14 +7995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84582,
-      "num": 84582,
-      "word": "何润东翻红后的商务",
-      "onboard_time": 1776326721,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84580,
       "num": 197901,
       "word": "苏超常州3比0南通",
@@ -8012,11 +8052,19 @@
     },
     {
       "raw_hot": 84292,
-      "num": 84292,
+      "num": 94529,
       "word": "阿俄确认客机坠毁系遭防空系统误击",
       "onboard_time": 1776322281,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84187,
+      "num": 84187,
+      "word": "刘浩存雨中神图",
+      "onboard_time": 1776329061,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 84105,
@@ -8112,14 +8160,6 @@
       "word": "莫氏鸡煲一天营业额5万元",
       "onboard_time": 1776162201,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83446,
-      "num": 110091,
-      "word": "酒店订单备注玩梗被指侵犯隐私",
-      "onboard_time": 1776325941,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -8305,6 +8345,14 @@
       "onboard_time": 1776061881,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80681,
+      "num": 80681,
+      "word": "阚清子孙怡将一起录制你好星期六",
+      "onboard_time": 1776328341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 80680,
@@ -8812,7 +8860,7 @@
     },
     {
       "raw_hot": 75256,
-      "num": 75256,
+      "num": 90435,
       "word": "原来大熊猫不喜欢竹林疯长",
       "onboard_time": 1776324503,
       "rank": 39,
@@ -9875,6 +9923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64835,
+      "num": 76420,
+      "word": "库里命中三分后巴特勒笑了",
+      "onboard_time": 1776328341,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64810,
       "num": 64810,
       "word": "A股又现千万年薪CFO",
@@ -10027,6 +10083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63566,
+      "num": 63566,
+      "word": "许光汉否认和周子瑜恋情",
+      "onboard_time": 1776327862,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63515,
       "num": 96010,
       "word": "长生 不去集训是自己的选择",
@@ -10155,6 +10219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61504,
+      "num": 61504,
+      "word": "奶奶的烦恼小小的",
+      "onboard_time": 1776329301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61458,
+      "num": 61458,
+      "word": "台积电一季度净利润5725亿台币",
+      "onboard_time": 1776327441,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61397,
       "num": 71347,
       "word": "谢娜演唱会",
@@ -10235,14 +10315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59828,
-      "num": 59828,
-      "word": "豆包帮挑的西瓜",
-      "onboard_time": 1776327083,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 59437,
       "num": 59437,
       "word": "特朗普称美伊或在巴基斯坦复谈",
@@ -10252,7 +10324,7 @@
     },
     {
       "raw_hot": 58994,
-      "num": 83319,
+      "num": 89444,
       "word": "联想CEO杨元庆试驾国产豪车",
       "onboard_time": 1776326721,
       "rank": 36,
@@ -10339,6 +10411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56883,
+      "num": 56883,
+      "word": "芯原股份跌近14%",
+      "onboard_time": 1776327319,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56837,
       "num": 166934,
       "word": "iPhoneFold首年销量预计",
@@ -10393,6 +10473,14 @@
       "onboard_time": 1776158662,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55611,
+      "num": 99615,
+      "word": "中美就特朗普访华保持着沟通",
+      "onboard_time": 1776325822,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55602,
@@ -10635,6 +10723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51472,
+      "num": 51472,
+      "word": "A股88股涨停",
+      "onboard_time": 1776328041,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51169,
       "num": 94354,
       "word": "苹果AI眼镜细节曝光",
@@ -10809,14 +10905,6 @@
       "onboard_time": 1775950457,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47326,
-      "num": 131998,
-      "word": "小杨生煎回应包子皮放在抹布上",
-      "onboard_time": 1776326600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47324,
@@ -11283,14 +11371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36591,
-      "num": 99615,
-      "word": "中美就特朗普访华保持着沟通",
-      "onboard_time": 1776325822,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36540,
       "num": 101555,
       "word": "Lululemon客服回应",
@@ -11668,7 +11748,7 @@
     },
     {
       "raw_hot": 27814,
-      "num": 622922,
+      "num": 632881,
       "word": "2026年一季度GDP同比增长5.0%",
       "onboard_time": 1776306859,
       "rank": 2,
@@ -12225,6 +12305,14 @@
       "onboard_time": 1776106935,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16760,
+      "num": 89387,
+      "word": "班主任猥亵女生已成立联合调查组",
+      "onboard_time": 1776329181,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16720,

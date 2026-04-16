@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776327228080,
+  "endTime": 1776329439239,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375368,
+      "num": 1060058,
+      "word": "中国驻日大使馆接连遭到恐怖威胁",
+      "onboard_time": 1776326002,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 374560,
       "num": 374560,
       "word": "赵子琪张慧雯吵架是怎么剪辑出来的",
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262509,
+      "num": 773987,
+      "word": "北影节红毯",
+      "onboard_time": 1776323240,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260863,
       "num": 260863,
       "word": "美军妄想威慑中国内陆",
@@ -305,6 +321,14 @@
       "onboard_time": 1776312145,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257373,
+      "num": 185202,
+      "word": "迪丽热巴表演打奶嗝",
+      "onboard_time": 1776323302,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 256432,
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226500,
-      "num": 226500,
-      "word": "北影节红毯",
-      "onboard_time": 1776323240,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220324,
       "num": 151842,
       "word": "伊朗首都突发炸弹袭击",
@@ -435,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200225,
-      "num": 142670,
-      "word": "迪丽热巴表演打奶嗝",
-      "onboard_time": 1776323302,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 208578,
+      "num": 102750,
+      "word": "刘浩存好美",
+      "onboard_time": 1776328341,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 196463,
@@ -459,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190047,
+      "num": 190047,
+      "word": "酒店订单备注玩梗被指侵犯隐私",
+      "onboard_time": 1776325941,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189598,
       "num": 146133,
       "word": "鹤男粉丝脱粉",
       "onboard_time": 1776303320,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186094,
+      "num": 102754,
+      "word": "戴降噪耳机喝可乐",
+      "onboard_time": 1776323001,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 181502,
@@ -529,6 +561,14 @@
       "onboard_time": 1776313704,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161355,
+      "num": 102742,
+      "word": "跑男",
+      "onboard_time": 1776328881,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 161130,
@@ -643,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137097,
+      "num": 137097,
+      "word": "小杨生煎回应包子皮放在抹布上",
+      "onboard_time": 1776326600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136532,
       "num": 119648,
       "word": "印度3000万人要没饭吃",
@@ -748,7 +796,7 @@
     },
     {
       "raw_hot": 121012,
-      "num": 84560,
+      "num": 102406,
       "word": "库里回应淘汰快船",
       "onboard_time": 1776323841,
       "rank": 30,
@@ -843,20 +891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103021,
-      "num": 141131,
-      "word": "中国驻日大使馆接连遭到恐怖威胁",
-      "onboard_time": 1776326002,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102994,
       "num": 107177,
       "word": "骑车遭开门杀致1人被碾压身亡",
       "onboard_time": 1776260602,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102775,
+      "num": 102775,
+      "word": "小狗一点点闻到了朋友死亡的过程",
+      "onboard_time": 1776324862,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 102718,
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 99960,
-      "num": 84086,
+      "num": 102557,
       "word": "李学用欢迎大家来躺平",
       "onboard_time": 1776326661,
       "rank": 34,
@@ -939,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96624,
+      "num": 102745,
+      "word": "豆包帮挑的西瓜",
+      "onboard_time": 1776327083,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95806,
       "num": 117165,
       "word": "洛克王国",
@@ -955,20 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92981,
-      "num": 84555,
-      "word": "小狗一点点闻到了朋友死亡的过程",
-      "onboard_time": 1776324862,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 92838,
-      "num": 92838,
-      "word": "戴降噪耳机喝可乐",
-      "onboard_time": 1776323001,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 93099,
+      "num": 93099,
+      "word": "何润东翻红后的商务",
+      "onboard_time": 1776326721,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 92644,
@@ -1059,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84582,
-      "num": 84582,
-      "word": "何润东翻红后的商务",
-      "onboard_time": 1776326721,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84530,
       "num": 84530,
       "word": "papi妈妈今日背氧气瓶出庭",
@@ -1076,11 +1116,19 @@
     },
     {
       "raw_hot": 84292,
-      "num": 84292,
+      "num": 94529,
       "word": "阿俄确认客机坠毁系遭防空系统误击",
       "onboard_time": 1776322281,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84187,
+      "num": 84187,
+      "word": "刘浩存雨中神图",
+      "onboard_time": 1776329061,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 83840,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1776311426,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83446,
-      "num": 110091,
-      "word": "酒店订单备注玩梗被指侵犯隐私",
-      "onboard_time": 1776325941,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83170,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1776245541,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80681,
+      "num": 80681,
+      "word": "阚清子孙怡将一起录制你好星期六",
+      "onboard_time": 1776328341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 80314,
@@ -1212,7 +1260,7 @@
     },
     {
       "raw_hot": 75256,
-      "num": 75256,
+      "num": 90435,
       "word": "原来大熊猫不喜欢竹林疯长",
       "onboard_time": 1776324503,
       "rank": 39,
@@ -1371,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64835,
+      "num": 76420,
+      "word": "库里命中三分后巴特勒笑了",
+      "onboard_time": 1776328341,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64196,
       "num": 91514,
       "word": "萨尔布吕肯3比1云达不莱梅",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1776267920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63566,
+      "num": 63566,
+      "word": "许光汉否认和周子瑜恋情",
+      "onboard_time": 1776327862,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 62545,
@@ -1411,6 +1475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61504,
+      "num": 61504,
+      "word": "奶奶的烦恼小小的",
+      "onboard_time": 1776329301,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61458,
+      "num": 61458,
+      "word": "台积电一季度净利润5725亿台币",
+      "onboard_time": 1776327441,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60965,
       "num": 60965,
       "word": "建议晚上提前洗漱",
@@ -1435,16 +1515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59828,
-      "num": 59828,
-      "word": "豆包帮挑的西瓜",
-      "onboard_time": 1776327083,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 58994,
-      "num": 83319,
+      "num": 89444,
       "word": "联想CEO杨元庆试驾国产豪车",
       "onboard_time": 1776326721,
       "rank": 36,
@@ -1459,11 +1531,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56883,
+      "num": 56883,
+      "word": "芯原股份跌近14%",
+      "onboard_time": 1776327319,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55764,
       "num": 114365,
       "word": "郑丽文返台后穿大陆定制中山装亮相",
       "onboard_time": 1776259224,
       "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55611,
+      "num": 99615,
+      "word": "中美就特朗普访华保持着沟通",
+      "onboard_time": 1776325822,
+      "rank": 26,
       "category": "国内时政"
     },
     {
@@ -1523,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51472,
+      "num": 51472,
+      "word": "A股88股涨停",
+      "onboard_time": 1776328041,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50452,
       "num": 116944,
       "word": "31岁男子滑旱冰摔倒去世",
@@ -1545,14 +1641,6 @@
       "onboard_time": 1776256824,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 47326,
-      "num": 131998,
-      "word": "小杨生煎回应包子皮放在抹布上",
-      "onboard_time": 1776326600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46898,
@@ -1633,14 +1721,6 @@
       "onboard_time": 1776294018,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36591,
-      "num": 99615,
-      "word": "中美就特朗普访华保持着沟通",
-      "onboard_time": 1776325822,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35884,
@@ -1756,7 +1836,7 @@
     },
     {
       "raw_hot": 27814,
-      "num": 622922,
+      "num": 632881,
       "word": "2026年一季度GDP同比增长5.0%",
       "onboard_time": 1776306859,
       "rank": 2,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1776281054,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16760,
+      "num": 89387,
+      "word": "班主任猥亵女生已成立联合调查组",
+      "onboard_time": 1776329181,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16497,
