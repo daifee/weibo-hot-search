@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776319744296,
+  "endTime": 1776320426334,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622079,
+      "num": 622079,
+      "word": "曾沛慈 汪东城",
+      "onboard_time": 1776318621,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620276,
       "num": 788772,
       "word": "莫氏鸡煲1天赚够1年的钱",
@@ -745,6 +753,14 @@
       "onboard_time": 1776155181,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557077,
+      "num": 164891,
+      "word": "光遇",
+      "onboard_time": 1776306739,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 551049,
@@ -969,6 +985,14 @@
       "onboard_time": 1776226282,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 485818,
+      "num": 1077731,
+      "word": "遭割喉男孩还有一段气管没找到",
+      "onboard_time": 1776316282,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 485189,
@@ -1475,14 +1499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 378433,
-      "num": 378433,
-      "word": "曾沛慈 汪东城",
-      "onboard_time": 1776318621,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376851,
       "num": 167859,
       "word": "迪丽热巴补偿去巴黎的粉丝",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1776244100,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367952,
-      "num": 756487,
-      "word": "遭割喉男孩还有一段气管没找到",
-      "onboard_time": 1776316282,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367596,
@@ -1963,6 +1971,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 324400,
+      "num": 257937,
+      "word": "张伦硕 还是想要一个自己的孩子",
+      "onboard_time": 1776319522,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324146,
       "num": 170066,
       "word": "被绳割断气管男孩家境很不好",
@@ -2227,20 +2243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306349,
+      "num": 164031,
+      "word": "曝王子杰去世系工伤",
+      "onboard_time": 1776314483,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304454,
       "num": 304454,
       "word": "灵隐寺严正声明",
       "onboard_time": 1776245361,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302876,
-      "num": 164031,
-      "word": "曝王子杰去世系工伤",
-      "onboard_time": 1776314483,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 301866,
@@ -2627,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265486,
+      "num": 265486,
+      "word": "警方回应泼水节多人向车内喷水",
+      "onboard_time": 1776316882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264934,
       "num": 180902,
       "word": "维妮娜 我不知道评分标准是什么",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1776073762,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 261523,
-      "num": 164891,
-      "word": "光遇",
-      "onboard_time": 1776306739,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 261484,
@@ -2696,14 +2712,6 @@
       "word": "何超蕸被赌王称为最能帮忙的女儿",
       "onboard_time": 1775980403,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259198,
-      "num": 259198,
-      "word": "警方回应泼水节多人向车内喷水",
-      "onboard_time": 1776316882,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -3075,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230454,
+      "num": 230454,
+      "word": "心源性疾病",
+      "onboard_time": 1776315982,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230073,
       "num": 191250,
       "word": "孙怡的发量",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1776138561,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220324,
+      "num": 151842,
+      "word": "伊朗首都突发炸弹袭击",
+      "onboard_time": 1776318920,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 219001,
@@ -3529,14 +3553,6 @@
       "onboard_time": 1776092783,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197708,
-      "num": 197708,
-      "word": "心源性疾病",
-      "onboard_time": 1776315982,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197543,
@@ -4371,14 +4387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151842,
-      "num": 151842,
-      "word": "伊朗首都突发炸弹袭击",
-      "onboard_time": 1776318920,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151417,
       "num": 154627,
       "word": "邓凯孔雪儿路透",
@@ -4657,6 +4665,14 @@
       "onboard_time": 1775981722,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142257,
+      "num": 160290,
+      "word": "印19岁男子涉诱奸180名少女拍视频",
+      "onboard_time": 1776316223,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141978,
@@ -5099,14 +5115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128099,
-      "num": 160290,
-      "word": "印19岁男子涉诱奸180名少女拍视频",
-      "onboard_time": 1776316223,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128021,
       "num": 128021,
       "word": "哪个艺人授权AI了",
@@ -5265,14 +5273,6 @@
       "onboard_time": 1776250161,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124216,
-      "num": 124216,
-      "word": "张伦硕 还是想要一个自己的孩子",
-      "onboard_time": 1776319522,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 124128,
@@ -6331,6 +6331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102353,
+      "num": 102353,
+      "word": "孙杨张豆豆差点引起家庭矛盾",
+      "onboard_time": 1776318381,
+      "rank": 39,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 101901,
       "num": 117807,
       "word": "被破窗取AED车辆获免费换车窗",
@@ -6795,6 +6803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95376,
+      "num": 95376,
+      "word": "徐洁儿浪姐从第一到一般太虐了",
+      "onboard_time": 1776320000,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95326,
       "num": 141762,
       "word": "花海Cat亚运会教练",
@@ -6971,14 +6987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93537,
-      "num": 77547,
-      "word": "孙杨张豆豆差点引起家庭矛盾",
-      "onboard_time": 1776318381,
-      "rank": 39,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 93287,
       "num": 93287,
       "word": "黄星邱鼎杰方辟谣聊天记录",
@@ -7041,6 +7049,14 @@
       "onboard_time": 1776000683,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92644,
+      "num": 92644,
+      "word": "63岁退休老人教同龄人用AI",
+      "onboard_time": 1776319941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92619,
@@ -7243,6 +7259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90704,
+      "num": 162168,
+      "word": "小米18Pro新增AI按键",
+      "onboard_time": 1776315083,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90516,
       "num": 170950,
       "word": "日本男乒教练伦敦世乒赛誓言夺金",
@@ -7329,6 +7353,14 @@
       "onboard_time": 1776074062,
       "rank": 48,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 89710,
+      "num": 89710,
+      "word": "无限暖暖",
+      "onboard_time": 1776316521,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 89682,
@@ -8203,14 +8235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78523,
-      "num": 78523,
-      "word": "无限暖暖",
-      "onboard_time": 1776316521,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "江语晨前夫趁虚而入",
@@ -8515,6 +8539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75452,
+      "num": 75452,
+      "word": "A股半日缩量1222亿",
+      "onboard_time": 1776320121,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75405,
       "num": 75405,
       "word": "年轻人为何集体陷入睡眠困境",
@@ -8665,6 +8697,14 @@
       "onboard_time": 1776035899,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74171,
+      "num": 74171,
+      "word": "狗被吊死宠物医院门店数量超50家",
+      "onboard_time": 1776318802,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74152,
@@ -8963,14 +9003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71800,
-      "num": 162168,
-      "word": "小米18Pro新增AI按键",
-      "onboard_time": 1776315083,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 71727,
       "num": 124569,
       "word": "糖尿病与牙周炎双向影响",
@@ -9201,14 +9233,6 @@
       "onboard_time": 1776136582,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69152,
-      "num": 69152,
-      "word": "狗被吊死宠物医院门店数量超50家",
-      "onboard_time": 1776318802,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69110,
@@ -9483,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66223,
+      "num": 66223,
+      "word": "家长做饭太难吃孩子吃到呕吐就医",
+      "onboard_time": 1776319880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66122,
       "num": 66122,
       "word": "WBG战胜iG",
@@ -9521,6 +9553,14 @@
       "onboard_time": 1776124939,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65746,
+      "num": 65746,
+      "word": "被强拉开车门喷水车主已到店定损",
+      "onboard_time": 1776320362,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65624,
@@ -10516,7 +10556,7 @@
     },
     {
       "raw_hot": 46898,
-      "num": 77619,
+      "num": 148103,
       "word": "在春日宁波遇见光影中国",
       "onboard_time": 1776319522,
       "rank": 38,
@@ -11595,6 +11635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22225,
+      "num": 161846,
+      "word": "退役军人投靠间谍自导自演举报被查",
+      "onboard_time": 1776319282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22156,
       "num": 75611,
       "word": "蔡皋获国际安徒生奖",
@@ -11689,6 +11737,14 @@
       "onboard_time": 1775934734,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20101,
+      "num": 145444,
+      "word": "美民主党弹劾防长赫格塞思",
+      "onboard_time": 1776320000,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20040,
@@ -11875,6 +11931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16430,
+      "num": 64373,
+      "word": "小米18Pro屏幕参数曝光",
+      "onboard_time": 1776310883,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16382,
       "num": 26863,
       "word": "龚俊家事法庭收官视频",
@@ -11921,14 +11985,6 @@
       "onboard_time": 1776144862,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14418,
-      "num": 59677,
-      "word": "小米18Pro屏幕参数曝光",
-      "onboard_time": 1776310883,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 14116,
@@ -12040,14 +12096,6 @@
       "word": "高压水枪违规泼水多部门已介入整治",
       "onboard_time": 1776265342,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9996,
-      "num": 161846,
-      "word": "退役军人投靠间谍自导自演举报被查",
-      "onboard_time": 1776319282,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

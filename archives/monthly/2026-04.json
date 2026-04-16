@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776319744296,
+  "endTime": 1776320426334,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -2691,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622079,
+      "num": 622079,
+      "word": "曾沛慈 汪东城",
+      "onboard_time": 1776318621,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620972,
       "num": 620972,
       "word": "联合国警告特朗普",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1776155181,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557077,
+      "num": 164891,
+      "word": "光遇",
+      "onboard_time": 1776306739,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 556202,
@@ -4225,6 +4241,14 @@
       "onboard_time": 1775472082,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 485818,
+      "num": 1077731,
+      "word": "遭割喉男孩还有一段气管没找到",
+      "onboard_time": 1776316282,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 485800,
@@ -6123,14 +6147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 378433,
-      "num": 378433,
-      "word": "曾沛慈 汪东城",
-      "onboard_time": 1776318621,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 378323,
       "num": 378323,
       "word": "冰湖重生开局0广",
@@ -6481,14 +6497,6 @@
       "onboard_time": 1776244100,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367952,
-      "num": 756487,
-      "word": "遭割喉男孩还有一段气管没找到",
-      "onboard_time": 1776316282,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367816,
@@ -7675,6 +7683,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 324400,
+      "num": 257937,
+      "word": "张伦硕 还是想要一个自己的孩子",
+      "onboard_time": 1776319522,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324315,
       "num": 1051890,
       "word": "月鳞绮纪开播",
@@ -8403,6 +8419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 306349,
+      "num": 164031,
+      "word": "曝王子杰去世系工伤",
+      "onboard_time": 1776314483,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306213,
       "num": 439041,
       "word": "美国提议停火48小时",
@@ -8513,14 +8537,6 @@
       "onboard_time": 1775195542,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 302876,
-      "num": 164031,
-      "word": "曝王子杰去世系工伤",
-      "onboard_time": 1776314483,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 302846,
@@ -9955,6 +9971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265486,
+      "num": 265486,
+      "word": "警方回应泼水节多人向车内喷水",
+      "onboard_time": 1776316882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265180,
       "num": 126569,
       "word": "张晋蔡少芬6岁儿子近照",
@@ -10083,14 +10107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 261523,
-      "num": 164891,
-      "word": "光遇",
-      "onboard_time": 1776306739,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 261484,
       "num": 261484,
       "word": "孙怡 者来姨",
@@ -10177,14 +10193,6 @@
       "onboard_time": 1775892741,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259198,
-      "num": 259198,
-      "word": "警方回应泼水节多人向车内喷水",
-      "onboard_time": 1776316882,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259038,
@@ -11507,6 +11515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230454,
+      "num": 230454,
+      "word": "心源性疾病",
+      "onboard_time": 1776315982,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230427,
       "num": 177931,
       "word": "医院回应太平间招搬尸工要笔试面试",
@@ -12024,6 +12040,14 @@
       "word": "伊朗媒体发布被击落美军机图像",
       "onboard_time": 1775376922,
       "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 220324,
+      "num": 151842,
+      "word": "伊朗首都突发炸弹袭击",
+      "onboard_time": 1776318920,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -13329,14 +13353,6 @@
       "onboard_time": 1775270540,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 197708,
-      "num": 197708,
-      "word": "心源性疾病",
-      "onboard_time": 1776315982,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197543,
@@ -16707,14 +16723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151842,
-      "num": 151842,
-      "word": "伊朗首都突发炸弹袭击",
-      "onboard_time": 1776318920,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151529,
       "num": 73959,
       "word": "肖战说的话只能信一半",
@@ -17649,6 +17657,14 @@
       "onboard_time": 1775981722,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142257,
+      "num": 160290,
+      "word": "印19岁男子涉诱奸180名少女拍视频",
+      "onboard_time": 1776316223,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142181,
@@ -19483,14 +19499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128099,
-      "num": 160290,
-      "word": "印19岁男子涉诱奸180名少女拍视频",
-      "onboard_time": 1776316223,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128088,
       "num": 128088,
       "word": "女子常来病房摸17岁离世儿子名字",
@@ -19993,14 +20001,6 @@
       "onboard_time": 1775267420,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124216,
-      "num": 124216,
-      "word": "张伦硕 还是想要一个自己的孩子",
-      "onboard_time": 1776319522,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 124211,
@@ -24003,6 +24003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102353,
+      "num": 102353,
+      "word": "孙杨张豆豆差点引起家庭矛盾",
+      "onboard_time": 1776318381,
+      "rank": 39,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 102181,
       "num": 102181,
       "word": "河北省考成绩",
@@ -25803,6 +25811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95376,
+      "num": 95376,
+      "word": "徐洁儿浪姐从第一到一般太虐了",
+      "onboard_time": 1776320000,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95357,
       "num": 102101,
       "word": "6秒致辞县委书记清华毕业要求去基层",
@@ -26339,14 +26355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93537,
-      "num": 77547,
-      "word": "孙杨张豆豆差点引起家庭矛盾",
-      "onboard_time": 1776318381,
-      "rank": 39,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 93455,
       "num": 93455,
       "word": "与辉同行回应带货产品被曝假进口",
@@ -26609,6 +26617,14 @@
       "onboard_time": 1776000683,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92644,
+      "num": 92644,
+      "word": "63岁退休老人教同龄人用AI",
+      "onboard_time": 1776319941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92619,
@@ -27227,6 +27243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 90704,
+      "num": 162168,
+      "word": "小米18Pro新增AI按键",
+      "onboard_time": 1776315083,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90618,
       "num": 90618,
       "word": "iPhone斜挎包",
@@ -27529,6 +27553,14 @@
       "onboard_time": 1775202202,
       "rank": 34,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 89710,
+      "num": 89710,
+      "word": "无限暖暖",
+      "onboard_time": 1776316521,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 89703,
@@ -31155,14 +31187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78523,
-      "num": 78523,
-      "word": "无限暖暖",
-      "onboard_time": 1776316521,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 78489,
       "num": 78489,
       "word": "伊朗",
@@ -32387,6 +32411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75452,
+      "num": 75452,
+      "word": "A股半日缩量1222亿",
+      "onboard_time": 1776320121,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75442,
       "num": 83646,
       "word": "张雪机车夺冠带火浙江国资神级操作",
@@ -32857,6 +32889,14 @@
       "onboard_time": 1775315365,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74171,
+      "num": 74171,
+      "word": "狗被吊死宠物医院门店数量超50家",
+      "onboard_time": 1776318802,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74152,
@@ -33713,14 +33753,6 @@
       "onboard_time": 1775292561,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71800,
-      "num": 162168,
-      "word": "小米18Pro新增AI按键",
-      "onboard_time": 1776315083,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 71792,
@@ -34747,14 +34779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69152,
-      "num": 69152,
-      "word": "狗被吊死宠物医院门店数量超50家",
-      "onboard_time": 1776318802,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69110,
       "num": 81567,
       "word": "28岁男子只睡2小时同事羡慕开了挂",
@@ -35611,6 +35635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66223,
+      "num": 66223,
+      "word": "家长做饭太难吃孩子吃到呕吐就医",
+      "onboard_time": 1776319880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66133,
       "num": 66133,
       "word": "鞠婧祎角色热度优酷年冠",
@@ -35705,6 +35737,14 @@
       "onboard_time": 1775033661,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65746,
+      "num": 65746,
+      "word": "被强拉开车门喷水车主已到店定损",
+      "onboard_time": 1776320362,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65681,
@@ -39156,7 +39196,7 @@
     },
     {
       "raw_hot": 46898,
-      "num": 77619,
+      "num": 148103,
       "word": "在春日宁波遇见光影中国",
       "onboard_time": 1776319522,
       "rank": 38,
@@ -42051,6 +42091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22225,
+      "num": 161846,
+      "word": "退役军人投靠间谍自导自演举报被查",
+      "onboard_time": 1776319282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22156,
       "num": 75611,
       "word": "蔡皋获国际安徒生奖",
@@ -42337,6 +42385,14 @@
       "onboard_time": 1775720842,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20101,
+      "num": 145444,
+      "word": "美民主党弹劾防长赫格塞思",
+      "onboard_time": 1776320000,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20074,
@@ -42787,6 +42843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16430,
+      "num": 64373,
+      "word": "小米18Pro屏幕参数曝光",
+      "onboard_time": 1776310883,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16382,
       "num": 26863,
       "word": "龚俊家事法庭收官视频",
@@ -42961,14 +43025,6 @@
       "onboard_time": 1775200162,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14418,
-      "num": 59677,
-      "word": "小米18Pro屏幕参数曝光",
-      "onboard_time": 1776310883,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 14116,
@@ -43305,14 +43361,6 @@
       "onboard_time": 1775638942,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9996,
-      "num": 161846,
-      "word": "退役军人投靠间谍自导自演举报被查",
-      "onboard_time": 1776319282,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9789,
