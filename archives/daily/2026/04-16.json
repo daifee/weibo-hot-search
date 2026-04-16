@@ -1,6 +1,6 @@
 {
   "startTime": 1776273310991,
-  "endTime": 1776333420888,
+  "endTime": 1776334949308,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 746438,
-      "num": 540259,
+      "num": 599002,
       "word": "谁来救救孙丞潇",
       "onboard_time": 1776329661,
       "rank": 3,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 692084,
-      "num": 534877,
+      "num": 636633,
       "word": "男孩割喉涉事老人老伴因打击再住院",
       "onboard_time": 1776330859,
       "rank": 4,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344441,
+      "num": 154318,
+      "word": "向涵之 你替我拍戏",
+      "onboard_time": 1776331520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343596,
       "num": 144792,
       "word": "女子称被送金镯子但没被尊重想离婚",
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286377,
+      "num": 286377,
+      "word": "人一退休面相都跟着变舒展了",
+      "onboard_time": 1776330921,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285158,
       "num": 161016,
       "word": "鞠婧祎应援会声明",
@@ -329,14 +345,6 @@
       "onboard_time": 1776302302,
       "rank": 12,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 279101,
-      "num": 279101,
-      "word": "人一退休面相都跟着变舒展了",
-      "onboard_time": 1776330921,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 265486,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205620,
+      "num": 745175,
+      "word": "莫氏鸡煲老板回应商家排队送产品",
+      "onboard_time": 1776330561,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196463,
       "num": 483106,
       "word": "多条东南亚航线突然取消原因曝光",
@@ -643,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154423,
+      "num": 154423,
+      "word": "雷军再次回应中间只充一次电言论",
+      "onboard_time": 1776330681,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153144,
       "num": 368146,
       "word": "美国将退还超1万亿元关税",
@@ -665,6 +689,14 @@
       "onboard_time": 1776321561,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144524,
+      "num": 144524,
+      "word": "丝芭旗下艺人感谢王子杰栽培",
+      "onboard_time": 1776332961,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 142794,
@@ -795,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129590,
+      "num": 70784,
+      "word": "日本超市大抢购",
+      "onboard_time": 1776334640,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129447,
       "num": 129447,
       "word": "伊朗美制通信设备遇袭时集体失灵",
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 124593,
-      "num": 104710,
+      "num": 120227,
       "word": "小米食堂3天卖2000多只冰淇淋",
       "onboard_time": 1776331880,
       "rank": 21,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119848,
+      "num": 144597,
+      "word": "商家笑了半个月才舍得发货",
+      "onboard_time": 1776332541,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119316,
       "num": 106216,
       "word": "剑网3 校服",
@@ -912,14 +960,6 @@
       "word": "王俊凯八中时期旧照",
       "onboard_time": 1776324503,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 111942,
-      "num": 111942,
-      "word": "向涵之 你替我拍戏",
-      "onboard_time": 1776331520,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1027,6 +1067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99308,
+      "num": 99308,
+      "word": "16岁小伙确诊肺癌",
+      "onboard_time": 1776331641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99108,
       "num": 121220,
       "word": "业内人士对肖战团队的评价",
@@ -1065,14 +1113,6 @@
       "onboard_time": 1776320000,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93670,
-      "num": 76665,
-      "word": "16岁小伙确诊肺癌",
-      "onboard_time": 1776331641,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93099,
@@ -1123,20 +1163,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 90065,
-      "num": 153338,
-      "word": "莫氏鸡煲老板回应商家排队送产品",
-      "onboard_time": 1776330561,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89710,
       "num": 89710,
       "word": "无限暖暖",
       "onboard_time": 1776316521,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89039,
+      "num": 110428,
+      "word": "伊朗最高领袖威胁击沉美方舰艇",
+      "onboard_time": 1776331582,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87983,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1776296238,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87336,
+      "num": 140078,
+      "word": "Uzi说这个月就先不直播了",
+      "onboard_time": 1776331702,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 86942,
@@ -1219,14 +1267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84183,
-      "num": 110428,
-      "word": "伊朗最高领袖威胁击沉美方舰艇",
-      "onboard_time": 1776331582,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83840,
       "num": 83840,
       "word": "北京国际电影节",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1776311426,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83573,
-      "num": 91304,
-      "word": "商家笑了半个月才舍得发货",
-      "onboard_time": 1776332541,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 83170,
@@ -1339,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77196,
-      "num": 106563,
-      "word": "Uzi说这个月就先不直播了",
-      "onboard_time": 1776331702,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 76985,
       "num": 136215,
       "word": "爱心公众孙颖莎",
@@ -1395,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74909,
-      "num": 108550,
-      "word": "雷军再次回应中间只充一次电言论",
-      "onboard_time": 1776330681,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 74574,
       "num": 135475,
       "word": "洛克王国补偿异色怎么选",
@@ -1427,12 +1443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73932,
+      "num": 73932,
+      "word": "李乃文离了五哈外面雨更大",
+      "onboard_time": 1776333501,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73425,
       "num": 134061,
       "word": "周润发张国荣纵横四海定档",
       "onboard_time": 1776311244,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72983,
+      "num": 72983,
+      "word": "女子领证21天后输液昏迷丈夫发声",
+      "onboard_time": 1776330141,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72608,
@@ -1491,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68582,
-      "num": 67742,
-      "word": "丝芭旗下艺人感谢王子杰栽培",
-      "onboard_time": 1776332961,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68241,
       "num": 68241,
       "word": "雷军回应直播15小时",
@@ -1507,12 +1531,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 67776,
-      "num": 67776,
-      "word": "女子领证21天后输液昏迷丈夫发声",
-      "onboard_time": 1776330141,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 67885,
+      "num": 67885,
+      "word": "63吨帝王蟹抵达苏州",
+      "onboard_time": 1776334640,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 67711,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1776316163,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65264,
+      "num": 65264,
+      "word": "张豆豆说孙杨曾被好几个朋友重创过",
+      "onboard_time": 1776334340,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 64835,
@@ -1755,6 +1787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54605,
+      "num": 54605,
+      "word": "车主回应泼水节多人围车泼水",
+      "onboard_time": 1776334702,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54589,
       "num": 54589,
       "word": "黄渤带倪妮拼豆走红毯",
@@ -1771,12 +1811,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54412,
+      "num": 54412,
+      "word": "台积电业绩大爆发",
+      "onboard_time": 1776334702,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53832,
       "num": 70897,
       "word": "谢娜担心连开两场唱跳体力",
       "onboard_time": 1776306260,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53295,
+      "num": 54411,
+      "word": "白衬衣是张小斐的统治区",
+      "onboard_time": 1776333740,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 53190,
@@ -1827,12 +1883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49388,
+      "num": 54409,
+      "word": "悄悄生窝囊气被发现了",
+      "onboard_time": 1776334220,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48106,
       "num": 114717,
       "word": "这个世界总有人在缝缝补补",
       "onboard_time": 1776268520,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48006,
+      "num": 54408,
+      "word": "提醒赴美国中国公民注意入境安全",
+      "onboard_time": 1776334461,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47410,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1776295878,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41484,
+      "num": 54404,
+      "word": "新一代SU7",
+      "onboard_time": 1776334702,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 40358,
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 27814,
-      "num": 632881,
+      "num": 646813,
       "word": "2026年一季度GDP同比增长5.0%",
       "onboard_time": 1776306859,
       "rank": 2,
@@ -2248,6 +2328,14 @@
       "word": "B太否认为流量揭露大山女孩真相",
       "onboard_time": 1776311542,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6976,
+      "num": 85536,
+      "word": "手术11年后发现螺钉遗留体内",
+      "onboard_time": 1776334640,
+      "rank": 24,
       "category": "民生新闻"
     },
     {

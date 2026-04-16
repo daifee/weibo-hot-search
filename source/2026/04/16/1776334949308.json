@@ -1,0 +1,410 @@
+{
+  "runTime": 1776334949308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 245930,
+        "num": 1039348,
+        "word": "中国驻日大使馆接连遭到恐怖威胁",
+        "onboard_time": 1776326002,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205620,
+        "num": 745175,
+        "word": "莫氏鸡煲老板回应商家排队送产品",
+        "onboard_time": 1776330561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17292,
+        "num": 646813,
+        "word": "2026年一季度GDP同比增长5.0%",
+        "onboard_time": 1776306859,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636633,
+        "num": 636633,
+        "word": "男孩割喉涉事老人老伴因打击再住院",
+        "onboard_time": 1776330859,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599002,
+        "num": 599002,
+        "word": "谁来救救孙丞潇",
+        "onboard_time": 1776329661,
+        "rank": 4,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 286377,
+        "num": 286377,
+        "word": "人一退休面相都跟着变舒展了",
+        "onboard_time": 1776330921,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271441,
+        "num": 271441,
+        "word": "豆包帮挑的西瓜",
+        "onboard_time": 1776327083,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231255,
+        "num": 231255,
+        "word": "刘浩存好美",
+        "onboard_time": 1776328341,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154423,
+        "num": 154423,
+        "word": "雷军再次回应中间只充一次电言论",
+        "onboard_time": 1776330681,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88910,
+        "num": 154418,
+        "word": "黄瓜泡面",
+        "onboard_time": 1776323001,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344441,
+        "num": 154318,
+        "word": "向涵之 你替我拍戏",
+        "onboard_time": 1776331520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262100,
+        "num": 154259,
+        "word": "邓超在儿子的颜值里起破坏作用",
+        "onboard_time": 1776329960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180870,
+        "num": 154223,
+        "word": "酒店订单备注玩梗被指侵犯隐私",
+        "onboard_time": 1776325941,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202493,
+        "num": 154144,
+        "word": "宋亚轩回归音综",
+        "onboard_time": 1776331761,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154121,
+        "num": 154121,
+        "word": "曝包洁仪凄惨身世是假的",
+        "onboard_time": 1776321321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 144597,
+        "word": "商家笑了半个月才舍得发货",
+        "onboard_time": 1776332541,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144524,
+        "num": 144524,
+        "word": "丝芭旗下艺人感谢王子杰栽培",
+        "onboard_time": 1776332961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141541,
+        "num": 141541,
+        "word": "孙怡cos黎璃",
+        "onboard_time": 1776321861,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106158,
+        "num": 140652,
+        "word": "小杨生煎回应包子皮放在抹布上",
+        "onboard_time": 1776326600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87336,
+        "num": 140078,
+        "word": "Uzi说这个月就先不直播了",
+        "onboard_time": 1776331702,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140011,
+        "num": 140011,
+        "word": "跑男",
+        "onboard_time": 1776328881,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120227,
+        "num": 120227,
+        "word": "小米食堂3天卖2000多只冰淇淋",
+        "onboard_time": 1776331880,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 99308,
+        "num": 99308,
+        "word": "16岁小伙确诊肺癌",
+        "onboard_time": 1776331641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89039,
+        "num": 89039,
+        "word": "伊朗最高领袖威胁击沉美方舰艇",
+        "onboard_time": 1776331582,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6976,
+        "num": 85536,
+        "word": "手术11年后发现螺钉遗留体内",
+        "onboard_time": 1776334640,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84835,
+        "num": 84835,
+        "word": "迪丽热巴表演打奶嗝",
+        "onboard_time": 1776323302,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73932,
+        "num": 73932,
+        "word": "李乃文离了五哈外面雨更大",
+        "onboard_time": 1776333501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73385,
+        "num": 73385,
+        "word": "外交部欧洲司宣传樊振东",
+        "onboard_time": 1776332901,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73853,
+        "num": 73364,
+        "word": "戚薇梦回夏友善",
+        "onboard_time": 1776331102,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73217,
+        "num": 73217,
+        "word": "北影节红毯",
+        "onboard_time": 1776323240,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72983,
+        "num": 72983,
+        "word": "女子领证21天后输液昏迷丈夫发声",
+        "onboard_time": 1776330141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129590,
+        "num": 70784,
+        "word": "日本超市大抢购",
+        "onboard_time": 1776334640,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67885,
+        "num": 67885,
+        "word": "63吨帝王蟹抵达苏州",
+        "onboard_time": 1776334640,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66778,
+        "num": 66778,
+        "word": "白客给张若昀打伞",
+        "onboard_time": 1776329720,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65264,
+        "num": 65264,
+        "word": "张豆豆说孙杨曾被好几个朋友重创过",
+        "onboard_time": 1776334340,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62425,
+        "num": 62425,
+        "word": "戴降噪耳机喝可乐",
+        "onboard_time": 1776323001,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64174,
+        "num": 62299,
+        "word": "王俊凯八中时期旧照",
+        "onboard_time": 1776324503,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60856,
+        "num": 60856,
+        "word": "何润东翻红后的商务",
+        "onboard_time": 1776326721,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60745,
+        "num": 60745,
+        "word": "警察带台湾同胞走中国公民专用通道",
+        "onboard_time": 1776331400,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57453,
+        "num": 57453,
+        "word": "唐禹哲自首出发图",
+        "onboard_time": 1776316582,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56483,
+        "num": 56483,
+        "word": "奔跑吧首播嘉宾是时代少年团",
+        "onboard_time": 1776323421,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54605,
+        "num": 54605,
+        "word": "车主回应泼水节多人围车泼水",
+        "onboard_time": 1776334702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30859,
+        "num": 54464,
+        "word": "刘雅瑟深v开到腰了",
+        "onboard_time": 1776331042,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54412,
+        "num": 54412,
+        "word": "台积电业绩大爆发",
+        "onboard_time": 1776334702,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53295,
+        "num": 54411,
+        "word": "白衬衣是张小斐的统治区",
+        "onboard_time": 1776333740,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50228,
+        "num": 54410,
+        "word": "阿俄确认客机坠毁系遭防空系统误击",
+        "onboard_time": 1776322281,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49388,
+        "num": 54409,
+        "word": "悄悄生窝囊气被发现了",
+        "onboard_time": 1776334220,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48006,
+        "num": 54408,
+        "word": "提醒赴美国中国公民注意入境安全",
+        "onboard_time": 1776334461,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48419,
+        "num": 54406,
+        "word": "北京国际电影节",
+        "onboard_time": 1776323841,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41484,
+        "num": 54404,
+        "word": "新一代SU7",
+        "onboard_time": 1776334702,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#繁忙元首外交彰显大国担当#"
+    }
+  }
+}
