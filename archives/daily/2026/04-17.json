@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776419726744,
+  "endTime": 1776421200940,
   "band_list": [
     {
       "raw_hot": 3214686,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1334104,
+      "num": 292643,
+      "word": "幽灵外卖",
+      "onboard_time": 1776417200,
+      "rank": 30,
+      "category": "舆论监督,互联网"
+    },
+    {
       "raw_hot": 1316888,
       "num": 585266,
       "word": "章若楠片场拍戏走神",
@@ -81,14 +89,6 @@
       "onboard_time": 1776395060,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1216923,
-      "num": 292643,
-      "word": "幽灵外卖",
-      "onboard_time": 1776417200,
-      "rank": 30,
-      "category": "舆论监督,互联网"
     },
     {
       "raw_hot": 1130991,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919053,
+      "num": 919053,
+      "word": "责令7平台暂停新增蛋糕店铺",
+      "onboard_time": 1776415641,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 897081,
       "num": 897081,
       "word": "央视调查暗黑动漫正侵蚀青少年",
@@ -139,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 737664,
-      "num": 737664,
-      "word": "责令7平台暂停新增蛋糕店铺",
-      "onboard_time": 1776415641,
-      "rank": 37,
-      "category": "民生新闻,互联网"
+      "raw_hot": 783998,
+      "num": 374842,
+      "word": "章若楠方补充说明",
+      "onboard_time": 1776416960,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 720993,
@@ -233,14 +241,6 @@
       "onboard_time": 1776413722,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 510392,
-      "num": 374842,
-      "word": "章若楠方补充说明",
-      "onboard_time": 1776416960,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 507542,
@@ -555,6 +555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267722,
+      "num": 267722,
+      "word": "日本人威胁给我使馆装炸弹",
+      "onboard_time": 1776417500,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 260734,
+      "num": 260734,
+      "word": "男子杀人后和妻儿与尸体生活多年",
+      "onboard_time": 1776419241,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259488,
       "num": 259488,
       "word": "猝死的年轻人大多有两个共同点",
@@ -619,19 +635,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230892,
-      "num": 230892,
-      "word": "日本人威胁给我使馆装炸弹",
-      "onboard_time": 1776417500,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 228111,
       "num": 101922,
       "word": "月鳞绮纪大结局",
       "onboard_time": 1776399440,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223073,
+      "num": 223073,
+      "word": "月鳞绮纪豆瓣5.3",
+      "onboard_time": 1776419662,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201957,
+      "num": 201957,
+      "word": "雎晓雯金大川女儿正面照",
+      "onboard_time": 1776421101,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201757,
       "num": 201757,
       "word": "朴彩英宋雨琦活动生图",
@@ -707,20 +731,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200334,
+      "num": 200334,
+      "word": "钟丽缇女儿Jaden回应不是混血",
+      "onboard_time": 1776420981,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200261,
-      "num": 200261,
+      "num": 200336,
       "word": "一个女性取快递被造谣后的人生",
       "onboard_time": 1776416481,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198819,
-      "num": 198819,
-      "word": "月鳞绮纪豆瓣5.3",
-      "onboard_time": 1776419662,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 196821,
@@ -755,8 +779,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189594,
-      "num": 189594,
+      "raw_hot": 190132,
+      "num": 230875,
       "word": "工作为什么默认能用我的手机",
       "onboard_time": 1776413782,
       "rank": 49,
@@ -771,12 +795,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184004,
+      "num": 336895,
+      "word": "中国女子在韩遭性骚扰总领事馆介入",
+      "onboard_time": 1776418642,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183775,
       "num": 183775,
       "word": "四川地震",
       "onboard_time": 1776380898,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 183060,
+      "num": 222217,
+      "word": "雷军问直播放歌有没有版权问题",
+      "onboard_time": 1776420381,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 181755,
@@ -808,14 +848,6 @@
       "word": "醉酒男10分钟搭讪女子3次被扇飞眼镜",
       "onboard_time": 1776394819,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170546,
-      "num": 170546,
-      "word": "男子杀人后和妻儿与尸体生活多年",
-      "onboard_time": 1776419241,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1171,6 +1203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89257,
+      "num": 270892,
+      "word": "杰克船长被罚80万",
+      "onboard_time": 1776420680,
+      "rank": 19,
+      "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 89211,
+      "num": 248881,
+      "word": "张雪机车夺冠后首秀",
+      "onboard_time": 1776420441,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86846,
       "num": 86846,
       "word": "王鹤棣谢景行美成建模了",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1776405441,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 74461,
-      "num": 336895,
-      "word": "中国女子在韩遭性骚扰总领事馆介入",
-      "onboard_time": 1776418642,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 74315,
