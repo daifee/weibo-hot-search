@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776413594885,
+  "endTime": 1776415778917,
   "band_list": [
     {
       "raw_hot": 2447600,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1657267,
-      "num": 920364,
+      "num": 1127850,
       "word": "泰国泼水节216人死亡",
       "onboard_time": 1776404781,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1486173,
+      "num": 1125843,
+      "word": "摊主因借给学生手机被家长逼到下跪",
+      "onboard_time": 1776411440,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1474408,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1130991,
-      "num": 918526,
+      "num": 1116529,
       "word": "温峥嵘二公选人被拒绝五次",
       "onboard_time": 1776410660,
       "rank": 4,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 986467,
-      "num": 1080933,
+      "num": 1139929,
       "word": "爷爷生前录音赠孙女百万遗产无效",
       "onboard_time": 1776404721,
       "rank": 0,
@@ -99,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 778512,
-      "num": 778512,
-      "word": "摊主因借给学生手机被家长逼到下跪",
-      "onboard_time": 1776411440,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 809306,
+      "num": 1139713,
+      "word": "拼多多美团京东淘天抖音被罚35亿",
+      "onboard_time": 1776414140,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 720993,
@@ -115,7 +123,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 699005,
+      "raw_hot": 717314,
       "num": 699005,
       "word": "郭敬明 选秀",
       "onboard_time": 1776403823,
@@ -137,6 +145,14 @@
       "onboard_time": 1776407180,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623448,
+      "num": 623448,
+      "word": "狗 出大事了没空跟你解释",
+      "onboard_time": 1776411680,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 622892,
@@ -171,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523724,
+      "num": 470710,
+      "word": "都美竹医美了",
+      "onboard_time": 1776413722,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 507542,
+      "num": 797250,
+      "word": "杭州用一个针头给15人采血事件后续",
+      "onboard_time": 1776412881,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 505221,
       "num": 505221,
       "word": "爸爸 又怎么了我的大小姐",
@@ -185,6 +217,14 @@
       "onboard_time": 1776393260,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498287,
+      "num": 468400,
+      "word": "朴春手写信回应曝朴山多拉涉毒",
+      "onboard_time": 1776405560,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 488123,
@@ -204,11 +244,19 @@
     },
     {
       "raw_hot": 472608,
-      "num": 346478,
+      "num": 374172,
       "word": "向太每月给向华强前妻10万赡养费",
       "onboard_time": 1776404721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471077,
+      "num": 471077,
+      "word": "一日本自卫队舰艇进入台湾海峡",
+      "onboard_time": 1776414261,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 465177,
@@ -233,14 +281,6 @@
       "onboard_time": 1776391941,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436915,
-      "num": 436915,
-      "word": "朴春手写信回应曝朴山多拉涉毒",
-      "onboard_time": 1776405560,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 435602,
@@ -307,12 +347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 376137,
+      "num": 376137,
+      "word": "章泽天外媒生图",
+      "onboard_time": 1776414623,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373697,
       "num": 373697,
       "word": "中国向伊朗提供58吨物资援助",
       "onboard_time": 1776392301,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 370829,
+      "num": 370829,
+      "word": "张凌赫 我是你们的superbaby吗",
+      "onboard_time": 1776413661,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 370563,
@@ -355,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343470,
+      "num": 371276,
+      "word": "A股新股王诞生了",
+      "onboard_time": 1776413840,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 342156,
       "num": 248866,
       "word": "陈冠希撞脸赵本山",
@@ -377,6 +441,14 @@
       "onboard_time": 1776397580,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320330,
+      "num": 320330,
+      "word": "妈妈确诊癌症晚期一年后女儿被杀",
+      "onboard_time": 1776414501,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311337,
@@ -411,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276987,
-      "num": 276987,
-      "word": "狗 出大事了没空跟你解释",
-      "onboard_time": 1776411680,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 277905,
+      "num": 277905,
+      "word": "费曼学什么这么贵啊",
+      "onboard_time": 1776413962,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 276813,
@@ -483,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233146,
+      "num": 233146,
+      "word": "时代峰峻助理 从一代干到四代",
+      "onboard_time": 1776412581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228111,
       "num": 101922,
       "word": "月鳞绮纪大结局",
@@ -497,14 +577,6 @@
       "onboard_time": 1776393260,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216720,
-      "num": 797250,
-      "word": "杭州用一个针头给15人采血事件后续",
-      "onboard_time": 1776412881,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 216071,
@@ -529,14 +601,6 @@
       "onboard_time": 1776349763,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 213296,
-      "num": 213296,
-      "word": "时代峰峻助理 从一代干到四代",
-      "onboard_time": 1776412581,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 208068,
@@ -593,6 +657,14 @@
       "onboard_time": 1776352582,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195743,
+      "num": 468168,
+      "word": "7家电商平台已下架相关幽灵店铺",
+      "onboard_time": 1776414261,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 194555,
@@ -667,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168288,
+      "num": 168288,
+      "word": "陶昕然一公排名",
+      "onboard_time": 1776415521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168126,
       "num": 152320,
       "word": "张晚意求职",
@@ -699,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161786,
+      "num": 161786,
+      "word": "陈昊宇门牙呢",
+      "onboard_time": 1776410901,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "郭敬明终于拍he了",
@@ -713,14 +801,6 @@
       "onboard_time": 1776398361,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158409,
-      "num": 151921,
-      "word": "陈昊宇门牙呢",
-      "onboard_time": 1776410901,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 155133,
@@ -745,6 +825,14 @@
       "onboard_time": 1776348984,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152641,
+      "num": 152641,
+      "word": "工作为什么默认能用我的手机",
+      "onboard_time": 1776413782,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 149283,
@@ -779,20 +867,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135757,
+      "num": 513916,
+      "word": "白象品牌代言人孙颖莎",
+      "onboard_time": 1776409460,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131380,
       "num": 131380,
       "word": "马丽你怎么管的沈腾",
       "onboard_time": 1776343640,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131214,
-      "num": 513916,
-      "word": "白象品牌代言人孙颖莎",
-      "onboard_time": 1776409460,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 129965,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1776404961,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85725,
+      "num": 226021,
+      "word": "责令7平台暂停新增蛋糕店铺",
+      "onboard_time": 1776415641,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 85621,
@@ -1499,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43923,
+      "num": 372405,
+      "word": "侯明昊把潮感穿在脚下",
+      "onboard_time": 1776414921,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43829,
       "num": 50836,
       "word": "伊朗审慎应对再与美谈判或延长停火",
@@ -1660,7 +1764,7 @@
     },
     {
       "raw_hot": 25261,
-      "num": 920494,
+      "num": 1131616,
       "word": "优质网络主播中国行山西行",
       "onboard_time": 1776413061,
       "rank": 2,
