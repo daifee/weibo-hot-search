@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/18 02:13:06
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/18 03:12:37
 </p>
 </blockquote>
 <p>
@@ -3671,6 +3671,12 @@ Faker被举报逃税（热度：211622）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%90%B8%E7%83%9F%E5%A5%B3%E6%80%A7%E4%BA%8C%E6%89%8B%E7%83%9F%E6%9A%B4%E9%9C%B2%E7%8E%87%E8%BE%BE70%25%23" target="weibo">
 中国不吸烟女性二手烟暴露率达70%（热度：208068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%B3%95%E5%93%81%E7%B1%BB%E4%B8%BA%E4%BD%95%E6%88%90%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E9%87%8D%E7%81%BE%E5%8C%BA%23" target="weibo">
+蛋糕品类为何成幽灵外卖重灾区（热度：207705）
 </a>
 </li>
 
@@ -10833,6 +10839,12 @@ vivo长焦下的鸟类图鉴（热度：47240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E5%A4%B8%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%B0%E8%AF%8D%E5%8A%9F%E5%BA%95%23" target="weibo">
+陈紫函夸田曦薇台词功底（热度：41812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%88%AA%E5%8F%B8%E8%A2%AB%E8%BF%AB%E6%B6%A8%E4%BB%B7%23" target="weibo">
 全球航司被迫涨价（热度：41802）
 </a>
@@ -10961,6 +10973,12 @@ vivo长焦下的鸟类图鉴（热度：47240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%83%BD%E4%B8%8D%E8%83%BD%E5%86%8D%E6%8B%8D%E4%B8%AA%E7%8E%B0%E5%81%B6%23" target="weibo">
 龚俊能不能再拍个现偶（热度：39414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%9B%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%91%A8%E8%BE%B9%E7%A9%BA%E5%9F%9F%23" target="weibo">
+新西兰军机多次抵近中国周边空域（热度：39333）
 </a>
 </li>
 

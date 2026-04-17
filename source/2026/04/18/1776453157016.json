@@ -1,0 +1,410 @@
+{
+  "runTime": 1776453157016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 248680,
+        "num": 248680,
+        "word": "氧化菊 泼水节",
+        "onboard_time": 1776424460,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 179358,
+        "word": "芭乐的籽居然可以一整块掰下来",
+        "onboard_time": 1776430820,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11305,
+        "num": 162061,
+        "word": "中国经济在风浪中稳住了发展底盘",
+        "onboard_time": 1776430400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351163,
+        "num": 156894,
+        "word": "日本叫嚣击沉中国航母",
+        "onboard_time": 1776444139,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150428,
+        "num": 150428,
+        "word": "霍尔木兹海峡开放",
+        "onboard_time": 1776431900,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131820,
+        "num": 131820,
+        "word": "张雪机车夺得超级杆位赛第二名",
+        "onboard_time": 1776442039,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115586,
+        "num": 115586,
+        "word": "雷军达成京沪高速只充一次电",
+        "onboard_time": 1776433700,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 115545,
+        "word": "麦当劳肯德基 宿敌cp",
+        "onboard_time": 1776434240,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105123,
+        "num": 105123,
+        "word": "拼多多美团京东淘天抖音被罚35亿",
+        "onboard_time": 1776414140,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85279,
+        "num": 85279,
+        "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+        "onboard_time": 1776436704,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466884,
+        "num": 84993,
+        "word": "女子跳楼被男友拽5分钟后坠亡",
+        "onboard_time": 1776440120,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207705,
+        "num": 84100,
+        "word": "蛋糕品类为何成幽灵外卖重灾区",
+        "onboard_time": 1776451455,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 83749,
+        "word": "医生爆料用献血证换血已成常态",
+        "onboard_time": 1776441139,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141408,
+        "num": 82764,
+        "word": "东部战区回应日舰过航台湾海峡",
+        "onboard_time": 1776445218,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124681,
+        "num": 81767,
+        "word": "解放军护卫舰与外舰缠斗20小时",
+        "onboard_time": 1776434302,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 106915,
+        "num": 81101,
+        "word": "黄金",
+        "onboard_time": 1776436224,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101461,
+        "num": 80567,
+        "word": "大码女装店让S码模特穿XL样衣",
+        "onboard_time": 1776438562,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 80320,
+        "num": 80320,
+        "word": "换电池小卡扣要13万新能源车主崩溃",
+        "onboard_time": 1776440060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90312,
+        "num": 78976,
+        "word": "李小冉一公第一名",
+        "onboard_time": 1776403940,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69545,
+        "num": 69545,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1776432081,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68195,
+        "num": 68195,
+        "word": "小米新SU7续航",
+        "onboard_time": 1776445218,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60647,
+        "num": 68188,
+        "word": "王濛练了那么多年防别人扒拉",
+        "onboard_time": 1776439522,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56758,
+        "num": 68171,
+        "word": "白发或是身体的抗癌警报",
+        "onboard_time": 1776422299,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 52536,
+        "num": 68165,
+        "word": "人生是场巨大的事与愿违",
+        "onboard_time": 1776430400,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51962,
+        "num": 68150,
+        "word": "魏晨现身张杰演唱会",
+        "onboard_time": 1776435023,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49217,
+        "num": 68141,
+        "word": "学校组织10元车费去春游男孩下车秒哭",
+        "onboard_time": 1776437602,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47554,
+        "num": 68121,
+        "word": "杭州滨江通报共用针头采血事件",
+        "onboard_time": 1776445337,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46484,
+        "num": 68108,
+        "word": "许昕真的回国家队了",
+        "onboard_time": 1776431181,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44669,
+        "num": 68096,
+        "word": "博主身份疑似被男同学盗用5年",
+        "onboard_time": 1776447856,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43106,
+        "num": 68084,
+        "word": "孙颖莎巨型卡通装饰",
+        "onboard_time": 1776433764,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42658,
+        "num": 68072,
+        "word": "儿子晒96岁父亲的三无精致生活",
+        "onboard_time": 1776432081,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42201,
+        "num": 68064,
+        "word": "谢娜回应网友问抚养权判给谁了",
+        "onboard_time": 1776432982,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41812,
+        "num": 68057,
+        "word": "陈紫函夸田曦薇台词功底",
+        "onboard_time": 1776450975,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40260,
+        "num": 68037,
+        "word": "林肯号航母提供的餐食情况",
+        "onboard_time": 1776421521,
+        "rank": 33,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 40055,
+        "num": 68027,
+        "word": "雷军到达上海后还有余电",
+        "onboard_time": 1776437722,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39333,
+        "num": 68019,
+        "word": "新西兰军机多次抵近中国周边空域",
+        "onboard_time": 1776449715,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37202,
+        "num": 67997,
+        "word": "张子枫马嘉祺片场碎片",
+        "onboard_time": 1776442100,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39074,
+        "num": 67989,
+        "word": "伊朗对所有商船开放霍尔木兹海峡",
+        "onboard_time": 1776445218,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38239,
+        "num": 67977,
+        "word": "刘浩存 没有给代拍好脸色的义务",
+        "onboard_time": 1776421281,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36564,
+        "num": 67970,
+        "word": "在韩骚扰中国女生日籍男子已离境",
+        "onboard_time": 1776445218,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36332,
+        "num": 67951,
+        "word": "张雪机车荷兰站",
+        "onboard_time": 1776436822,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35859,
+        "num": 67946,
+        "word": "特朗普称美伊协议关键条款大多谈妥",
+        "onboard_time": 1776441561,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33192,
+        "num": 67921,
+        "word": "伊朗开放霍尔木兹油价应声暴跌",
+        "onboard_time": 1776445637,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31789,
+        "num": 67917,
+        "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+        "onboard_time": 1776425362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30871,
+        "num": 67898,
+        "word": "医院回应女子同房后失血性休克",
+        "onboard_time": 1776432622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29739,
+        "num": 67886,
+        "word": "谢娜喊杜海涛唱小声点",
+        "onboard_time": 1776440901,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27715,
+        "num": 67875,
+        "word": "A股七姐妹",
+        "onboard_time": 1776435442,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26045,
+        "num": 67867,
+        "word": "一日本自卫队舰艇进入台湾海峡",
+        "onboard_time": 1776414261,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25843,
+        "num": 67855,
+        "word": "摊主因借给学生手机被家长逼到下跪",
+        "onboard_time": 1776411440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25427,
+        "num": 67843,
+        "word": "DK暴打T1",
+        "onboard_time": 1776431420,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺盖莱当选连任吉布提总统#"
+    }
+  }
+}
