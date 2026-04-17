@@ -1,0 +1,410 @@
+{
+  "runTime": 1776384372538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593992,
+        "num": 1095038,
+        "word": "四大一线城市房价全涨",
+        "onboard_time": 1776382639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367038,
+        "num": 791579,
+        "word": "最不困的人叫醒最困的人",
+        "onboard_time": 1776351083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25266,
+        "num": 606245,
+        "word": "十五五首季中国经济增长好于预期",
+        "onboard_time": 1776347782,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398337,
+        "num": 398337,
+        "word": "骆驼被排挤走失主人寻回把它骂哭了",
+        "onboard_time": 1776382579,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352721,
+        "num": 352721,
+        "word": "肺癌成中国女性第一大癌症",
+        "onboard_time": 1776378196,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344301,
+        "num": 344301,
+        "word": "papi妈妈称将起诉小区物业",
+        "onboard_time": 1776382579,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254167,
+        "num": 254167,
+        "word": "曼宁格因火车撞击去世",
+        "onboard_time": 1776382639,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148519,
+        "num": 148519,
+        "word": "张伦硕妈妈曾遗憾没有亲孙子",
+        "onboard_time": 1776346523,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33354,
+        "num": 147356,
+        "word": "神21乘组圆满完成第三次出舱",
+        "onboard_time": 1776383480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46369,
+        "num": 144565,
+        "word": "停火生效前以军大规模空袭黎",
+        "onboard_time": 1776383779,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1110220,
+        "num": 144122,
+        "word": "清清否认性骚扰",
+        "onboard_time": 1776382398,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 730186,
+        "num": 141934,
+        "word": "诚实一口道歉",
+        "onboard_time": 1776351862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281190,
+        "num": 137960,
+        "word": "何润东回宿迁的排面拉满了",
+        "onboard_time": 1776380418,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205403,
+        "num": 137646,
+        "word": "美国多位机密领域科学家失踪或死亡",
+        "onboard_time": 1776349763,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 134903,
+        "word": "被强拉开车门泼水女子称或将追责",
+        "onboard_time": 1776354801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151544,
+        "num": 133384,
+        "word": "四川地震",
+        "onboard_time": 1776380898,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131380,
+        "num": 131380,
+        "word": "马丽你怎么管的沈腾",
+        "onboard_time": 1776343640,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 125718,
+        "word": "心源性猝死为什么盯上年轻人",
+        "onboard_time": 1776364155,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97765,
+        "num": 97765,
+        "word": "大疆Pocket4",
+        "onboard_time": 1776340039,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108274,
+        "num": 97741,
+        "word": "欧洲仅剩够用6周航空燃油",
+        "onboard_time": 1776382880,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1077984,
+        "num": 97651,
+        "word": "曝清清性骚扰",
+        "onboard_time": 1776346821,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 622892,
+        "num": 97596,
+        "word": "清清 指尖",
+        "onboard_time": 1776381738,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114497,
+        "num": 97469,
+        "word": "美防长称伊朗最高领袖受伤但活着",
+        "onboard_time": 1776354023,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104613,
+        "num": 97343,
+        "word": "潘石屹发文",
+        "onboard_time": 1776341302,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97342,
+        "num": 97342,
+        "word": "94斤女生打司美格鲁肽减肥被送急诊",
+        "onboard_time": 1776344123,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89581,
+        "num": 89581,
+        "word": "低精力都去查一下维d",
+        "onboard_time": 1776351683,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86273,
+        "num": 86273,
+        "word": "张凌赫深圳",
+        "onboard_time": 1776352582,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85621,
+        "num": 85621,
+        "word": "纳指12连涨",
+        "onboard_time": 1776384321,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83230,
+        "num": 83230,
+        "word": "张晚意求职",
+        "onboard_time": 1776344241,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75754,
+        "num": 75754,
+        "word": "肖战2部剧登浙江卫视片单",
+        "onboard_time": 1776383119,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82416,
+        "num": 75573,
+        "word": "中国不吸烟女性二手烟暴露率达70%",
+        "onboard_time": 1776354981,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111026,
+        "num": 75571,
+        "word": "钟丽缇55岁了",
+        "onboard_time": 1776383119,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75867,
+        "num": 74878,
+        "word": "泼水节多人向车内老人喷水车主发声",
+        "onboard_time": 1776382639,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73723,
+        "num": 73723,
+        "word": "猝死来临前6个隐匿信号",
+        "onboard_time": 1776365175,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71658,
+        "num": 71658,
+        "word": "诚实一口开除涉事主播",
+        "onboard_time": 1776353842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71054,
+        "num": 71054,
+        "word": "葛夕胖了十几斤",
+        "onboard_time": 1776382579,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62268,
+        "num": 62268,
+        "word": "马龙许昕赴成都助力国乒备战",
+        "onboard_time": 1776383059,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68148,
+        "num": 62205,
+        "word": "邓超年轻时候长这样",
+        "onboard_time": 1776382579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61669,
+        "num": 61669,
+        "word": "Bin无缘全胜晋级MSI",
+        "onboard_time": 1776383480,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58831,
+        "num": 58831,
+        "word": "诚实一口",
+        "onboard_time": 1776348984,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54205,
+        "num": 54205,
+        "word": "黄灿灿梦回武大校花",
+        "onboard_time": 1776350183,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53156,
+        "num": 53156,
+        "word": "伊朗早有后手",
+        "onboard_time": 1776339321,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53020,
+        "num": 53020,
+        "word": "地球或今年冲击高温极限",
+        "onboard_time": 1776344482,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51825,
+        "num": 51825,
+        "word": "老板说滚员工离岗被辞获赔近16万",
+        "onboard_time": 1776353781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50839,
+        "num": 50839,
+        "word": "警方通报火锅店女老板被顾客骚扰",
+        "onboard_time": 1776360436,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 49641,
+        "num": 50838,
+        "word": "蜜语纪",
+        "onboard_time": 1776342742,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47159,
+        "num": 50837,
+        "word": "粉色蓝莓炒至400元一斤",
+        "onboard_time": 1776341060,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45810,
+        "num": 50837,
+        "word": "浪姐张杰鸟巢演唱会团建",
+        "onboard_time": 1776346101,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43829,
+        "num": 50836,
+        "word": "伊朗审慎应对再与美谈判或延长停火",
+        "onboard_time": 1776353302,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41654,
+        "num": 50835,
+        "word": "揽胜回应被模仿",
+        "onboard_time": 1776383421,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#繁忙元首外交彰显大国担当#"
+    }
+  }
+}

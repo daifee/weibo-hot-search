@@ -1,10 +1,10 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776383551730,
+  "endTime": 1776384372538,
   "band_list": [
     {
       "raw_hot": 2371127,
-      "num": 139761,
+      "num": 141934,
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
@@ -12,14 +12,14 @@
     },
     {
       "raw_hot": 1897068,
-      "num": 96024,
+      "num": 97651,
       "word": "曝清清性骚扰",
       "onboard_time": 1776346821,
       "rank": 20,
       "category": "电竞"
     },
     {
-      "raw_hot": 963154,
+      "raw_hot": 1110220,
       "num": 144940,
       "word": "清清否认性骚扰",
       "onboard_time": 1776382398,
@@ -27,12 +27,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 555888,
-      "num": 96017,
+      "raw_hot": 622892,
+      "num": 97596,
       "word": "清清 指尖",
       "onboard_time": 1776381738,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 593992,
+      "num": 1095038,
+      "word": "四大一线城市房价全涨",
+      "onboard_time": 1776382639,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488112,
@@ -59,16 +67,16 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 405616,
-      "num": 991304,
-      "word": "四大一线城市房价全涨",
-      "onboard_time": 1776382639,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 398337,
+      "num": 398337,
+      "word": "骆驼被排挤走失主人寻回把它骂哭了",
+      "onboard_time": 1776382579,
+      "rank": 5,
+      "category": "幽默"
     },
     {
-      "raw_hot": 363685,
-      "num": 750456,
+      "raw_hot": 367038,
+      "num": 791579,
       "word": "最不困的人叫醒最困的人",
       "onboard_time": 1776351083,
       "rank": 1,
@@ -91,8 +99,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 344301,
+      "num": 344301,
+      "word": "papi妈妈称将起诉小区物业",
+      "onboard_time": 1776382579,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296346,
-      "num": 134704,
+      "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
       "onboard_time": 1776380418,
       "rank": 18,
@@ -113,22 +129,6 @@
       "onboard_time": 1776382639,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258249,
-      "num": 258249,
-      "word": "骆驼被排挤走失主人寻回把它骂哭了",
-      "onboard_time": 1776382579,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 217060,
-      "num": 217060,
-      "word": "papi妈妈称将起诉小区物业",
-      "onboard_time": 1776382579,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 213570,
@@ -195,8 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170278,
-      "num": 128091,
+      "raw_hot": 179805,
+      "num": 134903,
       "word": "被强拉开车门泼水女子称或将追责",
       "onboard_time": 1776354801,
       "rank": 43,
@@ -235,8 +235,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146671,
-      "num": 146671,
+      "raw_hot": 148519,
+      "num": 148519,
       "word": "张伦硕妈妈曾遗憾没有亲孙子",
       "onboard_time": 1776346523,
       "rank": 15,
@@ -259,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129965,
       "num": 81242,
       "word": "卢昱晓要把李佳琦的老鼠干挂包上",
       "onboard_time": 1776353422,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122606,
-      "num": 122606,
-      "word": "马丽你怎么管的沈腾",
-      "onboard_time": 1776343640,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 121833,
@@ -283,7 +283,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 113957,
+      "raw_hot": 114497,
       "num": 113957,
       "word": "美防长称伊朗最高领袖受伤但活着",
       "onboard_time": 1776354023,
@@ -297,6 +297,22 @@
       "onboard_time": 1776346101,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111026,
+      "num": 75571,
+      "word": "钟丽缇55岁了",
+      "onboard_time": 1776383119,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108274,
+      "num": 97741,
+      "word": "欧洲仅剩够用6周航空燃油",
+      "onboard_time": 1776382880,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96947,
@@ -313,6 +329,14 @@
       "onboard_time": 1776353781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85621,
+      "num": 85621,
+      "word": "纳指12连涨",
+      "onboard_time": 1776384321,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 84835,
@@ -403,12 +427,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75867,
+      "num": 74878,
+      "word": "泼水节多人向车内老人喷水车主发声",
+      "onboard_time": 1776382639,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75790,
       "num": 75790,
       "word": "猝死来临前6个隐匿信号",
       "onboard_time": 1776365175,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75754,
+      "num": 75754,
+      "word": "肖战2部剧登浙江卫视片单",
+      "onboard_time": 1776383119,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71054,
+      "num": 71054,
+      "word": "葛夕胖了十几斤",
+      "onboard_time": 1776382579,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 70421,
@@ -427,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66171,
-      "num": 66171,
-      "word": "肖战2部剧登浙江卫视片单",
-      "onboard_time": 1776383119,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 68148,
+      "num": 62205,
+      "word": "邓超年轻时候长这样",
+      "onboard_time": 1776382579,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 64707,
@@ -451,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62268,
+      "num": 62268,
+      "word": "马龙许昕赴成都助力国乒备战",
+      "onboard_time": 1776383059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62219,
       "num": 62219,
       "word": "粉色蓝莓炒至400元一斤",
@@ -459,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61344,
-      "num": 59409,
-      "word": "泼水节多人向车内老人喷水车主发声",
-      "onboard_time": 1776382639,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 61669,
+      "num": 61669,
+      "word": "Bin无缘全胜晋级MSI",
+      "onboard_time": 1776383480,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 61256,
@@ -480,14 +536,6 @@
       "word": "邓紫棋直播",
       "onboard_time": 1776351442,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59541,
-      "num": 59088,
-      "word": "钟丽缇55岁了",
-      "onboard_time": 1776383119,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -513,14 +561,6 @@
       "onboard_time": 1776342862,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57081,
-      "num": 57081,
-      "word": "马龙许昕赴成都助力国乒备战",
-      "onboard_time": 1776383059,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 56570,
@@ -563,28 +603,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51280,
-      "num": 57087,
-      "word": "葛夕胖了十几斤",
-      "onboard_time": 1776382579,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 48959,
-      "num": 57979,
-      "word": "欧洲仅剩够用6周航空燃油",
-      "onboard_time": 1776382880,
-      "rank": 36,
+      "raw_hot": 46369,
+      "num": 144565,
+      "word": "停火生效前以军大规模空袭黎",
+      "onboard_time": 1776383779,
+      "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 46386,
-      "num": 55406,
-      "word": "邓超年轻时候长这样",
-      "onboard_time": 1776382579,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 43829,
+      "num": 50836,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42860,
@@ -595,14 +627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42441,
-      "num": 55337,
-      "word": "Bin无缘全胜晋级MSI",
-      "onboard_time": 1776383480,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 42394,
       "num": 55327,
       "word": "迪丽热巴生离死别哭戏",
@@ -611,7 +635,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39555,
+      "raw_hot": 41654,
       "num": 55302,
       "word": "揽胜回应被模仿",
       "onboard_time": 1776383421,
@@ -651,16 +675,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31955,
-      "num": 46011,
-      "word": "伊朗审慎应对再与美谈判或延长停火",
-      "onboard_time": 1776353302,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30356,
-      "num": 57835,
+      "raw_hot": 33354,
+      "num": 147356,
       "word": "神21乘组圆满完成第三次出舱",
       "onboard_time": 1776383480,
       "rank": 37,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25266,
+      "num": 611300,
+      "word": "十五五首季中国经济增长好于预期",
+      "onboard_time": 1776347782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24307,
       "num": 39428,
       "word": "苏林乘高铁抵达广西现场画面",
@@ -705,14 +729,6 @@
       "onboard_time": 1776341541,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23321,
-      "num": 611300,
-      "word": "十五五首季中国经济增长好于预期",
-      "onboard_time": 1776347782,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20009,

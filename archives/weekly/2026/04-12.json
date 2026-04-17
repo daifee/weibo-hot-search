@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776383551730,
+  "endTime": 1776384372538,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2371127,
-      "num": 139761,
+      "num": 141934,
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110220,
+      "num": 144940,
+      "word": "清清否认性骚扰",
+      "onboard_time": 1776382398,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1020109,
       "num": 1163217,
       "word": "Lululemon被调查",
@@ -233,14 +241,6 @@
       "onboard_time": 1776048980,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 963154,
-      "num": 144940,
-      "word": "清清否认性骚扰",
-      "onboard_time": 1776382398,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 954969,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622892,
+      "num": 97596,
+      "word": "清清 指尖",
+      "onboard_time": 1776381738,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 622079,
       "num": 622079,
       "word": "曾沛慈 汪东城",
@@ -713,6 +721,14 @@
       "onboard_time": 1776247342,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 593992,
+      "num": 1095038,
+      "word": "四大一线城市房价全涨",
+      "onboard_time": 1776382639,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593931,
@@ -849,14 +865,6 @@
       "onboard_time": 1776323721,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 555888,
-      "num": 96017,
-      "word": "清清 指尖",
-      "onboard_time": 1776381738,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 551049,
@@ -1523,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405616,
-      "num": 991304,
-      "word": "四大一线城市房价全涨",
-      "onboard_time": 1776382639,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403835,
       "num": 265474,
       "word": "迪丽热巴工作室回应审美争议",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1776225801,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398337,
+      "num": 398337,
+      "word": "骆驼被排挤走失主人寻回把它骂哭了",
+      "onboard_time": 1776382579,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 396955,
@@ -1811,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 367038,
+      "num": 791579,
+      "word": "最不困的人叫醒最困的人",
+      "onboard_time": 1776351083,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366413,
       "num": 366413,
       "word": "张杰力挺谢娜演唱会",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1775961740,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363685,
-      "num": 750456,
-      "word": "最不困的人叫醒最困的人",
-      "onboard_time": 1776351083,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363568,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1775954901,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344301,
+      "num": 344301,
+      "word": "papi妈妈称将起诉小区物业",
+      "onboard_time": 1776382579,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 344090,
@@ -2572,7 +2588,7 @@
     },
     {
       "raw_hot": 296346,
-      "num": 134704,
+      "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
       "onboard_time": 1776380418,
       "rank": 18,
@@ -3081,14 +3097,6 @@
       "onboard_time": 1776312145,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258249,
-      "num": 258249,
-      "word": "骆驼被排挤走失主人寻回把它骂哭了",
-      "onboard_time": 1776382579,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 258130,
@@ -3657,14 +3665,6 @@
       "onboard_time": 1776086783,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217060,
-      "num": 217060,
-      "word": "papi妈妈称将起诉小区物业",
-      "onboard_time": 1776382579,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 216626,
@@ -4379,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179805,
+      "num": 134903,
+      "word": "被强拉开车门泼水女子称或将追责",
+      "onboard_time": 1776354801,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179785,
       "num": 176088,
       "word": "阚清子新妆造",
@@ -4540,7 +4548,7 @@
     },
     {
       "raw_hot": 171501,
-      "num": 146671,
+      "num": 148519,
       "word": "张伦硕妈妈曾遗憾没有亲孙子",
       "onboard_time": 1776346523,
       "rank": 20,
@@ -4584,14 +4592,6 @@
       "word": "7岁男童冲出马路被撞交警判全责",
       "onboard_time": 1775950757,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170278,
-      "num": 128091,
-      "word": "被强拉开车门泼水女子称或将追责",
-      "onboard_time": 1776354801,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -5771,6 +5771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131312,
       "num": 131312,
       "word": "白鹿打方向盘 老公姐",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1776129681,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122606,
-      "num": 122606,
-      "word": "马丽你怎么管的沈腾",
-      "onboard_time": 1776343640,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 122522,
@@ -6563,20 +6563,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114497,
+      "num": 113957,
+      "word": "美防长称伊朗最高领袖受伤但活着",
+      "onboard_time": 1776354023,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114480,
       "num": 114480,
       "word": "王俊凯八中时期旧照",
       "onboard_time": 1776324503,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113957,
-      "num": 113957,
-      "word": "美防长称伊朗最高领袖受伤但活着",
-      "onboard_time": 1776354023,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113915,
@@ -6697,6 +6697,14 @@
       "onboard_time": 1776152901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111026,
+      "num": 75571,
+      "word": "钟丽缇55岁了",
+      "onboard_time": 1776383119,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 110876,
@@ -6841,6 +6849,14 @@
       "onboard_time": 1776153981,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108274,
+      "num": 97741,
+      "word": "欧洲仅剩够用6周航空燃油",
+      "onboard_time": 1776382880,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108240,
@@ -8747,6 +8763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85621,
+      "num": 85621,
+      "word": "纳指12连涨",
+      "onboard_time": 1776384321,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85582,
       "num": 85582,
       "word": "凤不栖开机",
@@ -9747,6 +9771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75867,
+      "num": 74878,
+      "word": "泼水节多人向车内老人喷水车主发声",
+      "onboard_time": 1776382639,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75846,
       "num": 75846,
       "word": "陶喆看到天津盘头笑成这样",
@@ -9761,6 +9793,14 @@
       "onboard_time": 1776365175,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75754,
+      "num": 75754,
+      "word": "肖战2部剧登浙江卫视片单",
+      "onboard_time": 1776383119,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 75736,
@@ -10403,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71054,
+      "num": 71054,
+      "word": "葛夕胖了十几斤",
+      "onboard_time": 1776382579,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 71008,
       "num": 140706,
       "word": "为什么肝癌一发现就多是晚期",
@@ -10675,6 +10723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68148,
+      "num": 62205,
+      "word": "邓超年轻时候长这样",
+      "onboard_time": 1776382579,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67896,
       "num": 71819,
       "word": "法官被指猥亵女当事人事件已立案",
@@ -10905,14 +10961,6 @@
       "onboard_time": 1776319880,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66171,
-      "num": 66171,
-      "word": "肖战2部剧登浙江卫视片单",
-      "onboard_time": 1776383119,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 66122,
@@ -11299,6 +11347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62268,
+      "num": 62268,
+      "word": "马龙许昕赴成都助力国乒备战",
+      "onboard_time": 1776383059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62103,
       "num": 62103,
       "word": "乘风2026",
@@ -11355,6 +11411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61669,
+      "num": 61669,
+      "word": "Bin无缘全胜晋级MSI",
+      "onboard_time": 1776383480,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61603,
       "num": 134595,
       "word": "乘风训练室",
@@ -11393,14 +11457,6 @@
       "onboard_time": 1776331400,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 61344,
-      "num": 59409,
-      "word": "泼水节多人向车内老人喷水车主发声",
-      "onboard_time": 1776382639,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61256,
@@ -11489,14 +11545,6 @@
       "onboard_time": 1775923162,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59541,
-      "num": 59088,
-      "word": "钟丽缇55岁了",
-      "onboard_time": 1776383119,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 59437,
@@ -11593,14 +11641,6 @@
       "onboard_time": 1776123439,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57081,
-      "num": 57081,
-      "word": "马龙许昕赴成都助力国乒备战",
-      "onboard_time": 1776383059,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 57005,
@@ -12003,14 +12043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 51280,
-      "num": 57087,
-      "word": "葛夕胖了十几斤",
-      "onboard_time": 1776382579,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 51169,
       "num": 94354,
       "word": "苹果AI眼镜细节曝光",
@@ -12089,14 +12121,6 @@
       "onboard_time": 1776334220,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48959,
-      "num": 57979,
-      "word": "欧洲仅剩够用6周航空燃油",
-      "onboard_time": 1776382880,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48856,
@@ -12291,12 +12315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46386,
-      "num": 55406,
-      "word": "邓超年轻时候长这样",
-      "onboard_time": 1776382579,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 46369,
+      "num": 144565,
+      "word": "停火生效前以军大规模空袭黎",
+      "onboard_time": 1776383779,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45922,
@@ -12387,6 +12411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43829,
+      "num": 50836,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43823,
       "num": 88960,
       "word": "村民反映六盘水山体开裂最宽处一米多",
@@ -12451,14 +12483,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42441,
-      "num": 55337,
-      "word": "Bin无缘全胜晋级MSI",
-      "onboard_time": 1776383480,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 42422,
       "num": 144583,
       "word": "泼水节2女子遭围喷警方已介入",
@@ -12521,6 +12545,14 @@
       "onboard_time": 1776295878,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41654,
+      "num": 55302,
+      "word": "揽胜回应被模仿",
+      "onboard_time": 1776383421,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 41484,
@@ -12601,14 +12633,6 @@
       "onboard_time": 1776099617,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39555,
-      "num": 55302,
-      "word": "揽胜回应被模仿",
-      "onboard_time": 1776383421,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 39530,
@@ -12843,6 +12867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 33354,
+      "num": 147356,
+      "word": "神21乘组圆满完成第三次出舱",
+      "onboard_time": 1776383480,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33333,
       "num": 63359,
       "word": "女当事人回应被法官猥亵",
@@ -12897,14 +12929,6 @@
       "onboard_time": 1776272417,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31955,
-      "num": 46011,
-      "word": "伊朗审慎应对再与美谈判或延长停火",
-      "onboard_time": 1776353302,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31787,
@@ -13009,14 +13033,6 @@
       "onboard_time": 1776166222,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30356,
-      "num": 57835,
-      "word": "神21乘组圆满完成第三次出舱",
-      "onboard_time": 1776383480,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30245,
@@ -13307,6 +13323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25266,
+      "num": 737473,
+      "word": "十五五首季中国经济增长好于预期",
+      "onboard_time": 1776347782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25184,
       "num": 54820,
       "word": "美国加征关税被最高法院裁定为非法",
@@ -13337,14 +13361,6 @@
       "onboard_time": 1776120437,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24869,
-      "num": 737473,
-      "word": "十五五首季中国经济增长好于预期",
-      "onboard_time": 1776347782,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24835,

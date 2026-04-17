@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776383551730,
+  "endTime": 1776384372538,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2371127,
-      "num": 139761,
+      "num": 141934,
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
@@ -1003,6 +1003,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 1110220,
+      "num": 144940,
+      "word": "清清否认性骚扰",
+      "onboard_time": 1776382398,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1107944,
       "num": 558086,
       "word": "周杰伦被粉丝说演唱会划水一小时",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1775055624,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 963154,
-      "num": 144940,
-      "word": "清清否认性骚扰",
-      "onboard_time": 1776382398,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 954969,
@@ -2763,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622892,
+      "num": 97596,
+      "word": "清清 指尖",
+      "onboard_time": 1776381738,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 622079,
       "num": 622079,
       "word": "曾沛慈 汪东城",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1776247342,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 593992,
+      "num": 1095038,
+      "word": "四大一线城市房价全涨",
+      "onboard_time": 1776382639,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593931,
@@ -3353,14 +3369,6 @@
       "onboard_time": 1776323721,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 555888,
-      "num": 96017,
-      "word": "清清 指尖",
-      "onboard_time": 1776381738,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 555653,
@@ -5715,14 +5723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 405616,
-      "num": 991304,
-      "word": "四大一线城市房价全涨",
-      "onboard_time": 1776382639,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404902,
       "num": 127690,
       "word": "孕35周狂吃炸鸡汉堡母婴同进ICU",
@@ -5889,6 +5889,14 @@
       "onboard_time": 1775378601,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398337,
+      "num": 398337,
+      "word": "骆驼被排挤走失主人寻回把它骂哭了",
+      "onboard_time": 1776382579,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 398139,
@@ -6715,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367038,
+      "num": 791579,
+      "word": "最不困的人叫醒最困的人",
+      "onboard_time": 1776351083,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366679,
       "num": 366679,
       "word": "老爸评测就优思益事件道歉",
@@ -6784,14 +6800,6 @@
       "word": "借笔友1200元30年后还2万被拒",
       "onboard_time": 1775441301,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363685,
-      "num": 750456,
-      "word": "最不困的人叫醒最困的人",
-      "onboard_time": 1776351083,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7337,6 +7345,14 @@
       "onboard_time": 1775533161,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344301,
+      "num": 344301,
+      "word": "papi妈妈称将起诉小区物业",
+      "onboard_time": 1776382579,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 344152,
@@ -9004,7 +9020,7 @@
     },
     {
       "raw_hot": 296346,
-      "num": 134704,
+      "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
       "onboard_time": 1776380418,
       "rank": 18,
@@ -10585,14 +10601,6 @@
       "onboard_time": 1775106921,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258249,
-      "num": 258249,
-      "word": "骆驼被排挤走失主人寻回把它骂哭了",
-      "onboard_time": 1776382579,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 258212,
@@ -12601,14 +12609,6 @@
       "onboard_time": 1775372241,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217060,
-      "num": 217060,
-      "word": "papi妈妈称将起诉小区物业",
-      "onboard_time": 1776382579,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 216999,
@@ -15027,6 +15027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179805,
+      "num": 134903,
+      "word": "被强拉开车门泼水女子称或将追责",
+      "onboard_time": 1776354801,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179785,
       "num": 176088,
       "word": "阚清子新妆造",
@@ -15596,7 +15604,7 @@
     },
     {
       "raw_hot": 171501,
-      "num": 146671,
+      "num": 148519,
       "word": "张伦硕妈妈曾遗憾没有亲孙子",
       "onboard_time": 1776346523,
       "rank": 20,
@@ -15705,14 +15713,6 @@
       "onboard_time": 1775449281,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170278,
-      "num": 128091,
-      "word": "被强拉开车门泼水女子称或将追责",
-      "onboard_time": 1776354801,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170215,
@@ -19763,6 +19763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "马丽你怎么管的沈腾",
+      "onboard_time": 1776343640,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131312,
       "num": 176313,
       "word": "民政局回应用真奔驰车陪葬",
@@ -21001,14 +21009,6 @@
       "onboard_time": 1775485043,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 122606,
-      "num": 122606,
-      "word": "马丽你怎么管的沈腾",
-      "onboard_time": 1776343640,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 122603,
@@ -22435,6 +22435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114497,
+      "num": 113957,
+      "word": "美防长称伊朗最高领袖受伤但活着",
+      "onboard_time": 1776354023,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114480,
       "num": 114480,
       "word": "王俊凯八中时期旧照",
@@ -22489,14 +22497,6 @@
       "onboard_time": 1775290161,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113957,
-      "num": 113957,
-      "word": "美防长称伊朗最高领袖受伤但活着",
-      "onboard_time": 1776354023,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113927,
@@ -22897,6 +22897,14 @@
       "onboard_time": 1775895622,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111026,
+      "num": 75571,
+      "word": "钟丽缇55岁了",
+      "onboard_time": 1776383119,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 111021,
@@ -23481,6 +23489,14 @@
       "onboard_time": 1775792484,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108274,
+      "num": 97741,
+      "word": "欧洲仅剩够用6周航空燃油",
+      "onboard_time": 1776382880,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108240,
@@ -30011,6 +30027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85621,
+      "num": 85621,
+      "word": "纳指12连涨",
+      "onboard_time": 1776384321,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85582,
       "num": 85582,
       "word": "凤不栖开机",
@@ -33499,6 +33523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75867,
+      "num": 74878,
+      "word": "泼水节多人向车内老人喷水车主发声",
+      "onboard_time": 1776382639,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75861,
       "num": 83511,
       "word": "21世纪大君夫人",
@@ -33545,6 +33577,14 @@
       "onboard_time": 1775632162,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75754,
+      "num": 75754,
+      "word": "肖战2部剧登浙江卫视片单",
+      "onboard_time": 1776383119,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 75736,
@@ -35339,6 +35379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71054,
+      "num": 71054,
+      "word": "葛夕胖了十几斤",
+      "onboard_time": 1776382579,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 71012,
       "num": 126220,
       "word": "瑞幸一门店被调侃像公厕",
@@ -36403,6 +36451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68148,
+      "num": 62205,
+      "word": "邓超年轻时候长这样",
+      "onboard_time": 1776382579,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68121,
       "num": 80033,
       "word": "不然辟谣回归",
@@ -37009,14 +37065,6 @@
       "onboard_time": 1776319880,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66171,
-      "num": 66171,
-      "word": "肖战2部剧登浙江卫视片单",
-      "onboard_time": 1776383119,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 66133,
@@ -38051,6 +38099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62268,
+      "num": 62268,
+      "word": "马龙许昕赴成都助力国乒备战",
+      "onboard_time": 1776383059,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62245,
       "num": 62245,
       "word": "王楚钦说现在自己角色转变了",
@@ -38203,6 +38259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61669,
+      "num": 61669,
+      "word": "Bin无缘全胜晋级MSI",
+      "onboard_time": 1776383480,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61663,
       "num": 72700,
       "word": "女棋手求合影卡尔森拍完立马举报",
@@ -38297,14 +38361,6 @@
       "onboard_time": 1776331400,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 61344,
-      "num": 59409,
-      "word": "泼水节多人向车内老人喷水车主发声",
-      "onboard_time": 1776382639,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61287,
@@ -38787,14 +38843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59541,
-      "num": 59088,
-      "word": "钟丽缇55岁了",
-      "onboard_time": 1776383119,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59471,
       "num": 59471,
       "word": "小狗刚长出的牙",
@@ -39217,14 +39265,6 @@
       "onboard_time": 1774959867,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57081,
-      "num": 57081,
-      "word": "马龙许昕赴成都助力国乒备战",
-      "onboard_time": 1776383059,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 57005,
@@ -40251,14 +40291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 51280,
-      "num": 57087,
-      "word": "葛夕胖了十几斤",
-      "onboard_time": 1776382579,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 51169,
       "num": 94354,
       "word": "苹果AI眼镜细节曝光",
@@ -40553,14 +40585,6 @@
       "onboard_time": 1775801360,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48959,
-      "num": 57979,
-      "word": "欧洲仅剩够用6周航空燃油",
-      "onboard_time": 1776382880,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48856,
@@ -40955,12 +40979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46386,
-      "num": 55406,
-      "word": "邓超年轻时候长这样",
-      "onboard_time": 1776382579,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 46369,
+      "num": 144565,
+      "word": "停火生效前以军大规模空袭黎",
+      "onboard_time": 1776383779,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46368,
@@ -41235,6 +41259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43829,
+      "num": 50836,
+      "word": "伊朗审慎应对再与美谈判或延长停火",
+      "onboard_time": 1776353302,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43823,
       "num": 88960,
       "word": "村民反映六盘水山体开裂最宽处一米多",
@@ -41379,14 +41411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42441,
-      "num": 55337,
-      "word": "Bin无缘全胜晋级MSI",
-      "onboard_time": 1776383480,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 42422,
       "num": 144583,
       "word": "泼水节2女子遭围喷警方已介入",
@@ -41497,6 +41521,14 @@
       "onboard_time": 1776295878,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41654,
+      "num": 55302,
+      "word": "揽胜回应被模仿",
+      "onboard_time": 1776383421,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 41635,
@@ -41713,14 +41745,6 @@
       "onboard_time": 1775131102,
       "rank": 19,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 39555,
-      "num": 55302,
-      "word": "揽胜回应被模仿",
-      "onboard_time": 1776383421,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 39552,
@@ -42435,6 +42459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33354,
+      "num": 147356,
+      "word": "神21乘组圆满完成第三次出舱",
+      "onboard_time": 1776383480,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33346,
       "num": 33352,
       "word": "美伊谈判倒计时",
@@ -42561,14 +42593,6 @@
       "onboard_time": 1776272417,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31955,
-      "num": 46011,
-      "word": "伊朗审慎应对再与美谈判或延长停火",
-      "onboard_time": 1776353302,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31836,
@@ -42745,14 +42769,6 @@
       "onboard_time": 1775638521,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30356,
-      "num": 57835,
-      "word": "神21乘组圆满完成第三次出舱",
-      "onboard_time": 1776383480,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30342,
@@ -43467,6 +43483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25266,
+      "num": 737473,
+      "word": "十五五首季中国经济增长好于预期",
+      "onboard_time": 1776347782,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25237,
       "num": 25614,
       "word": "在张杰演唱会偶遇余宇涵",
@@ -43553,14 +43577,6 @@
       "onboard_time": 1775571264,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24869,
-      "num": 737473,
-      "word": "十五五首季中国经济增长好于预期",
-      "onboard_time": 1776347782,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24683,
