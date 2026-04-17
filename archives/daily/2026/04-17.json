@@ -1,10 +1,10 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776396277480,
+  "endTime": 1776397931091,
   "band_list": [
     {
       "raw_hot": 2371127,
-      "num": 141934,
+      "num": 234833,
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1897068,
-      "num": 149401,
+      "num": 159445,
       "word": "曝清清性骚扰",
       "onboard_time": 1776346821,
       "rank": 20,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1316888,
-      "num": 525463,
+      "num": 585266,
       "word": "章若楠片场拍戏走神",
       "onboard_time": 1776388640,
       "rank": 3,
       "category": "剧集"
     },
     {
+      "raw_hot": 1255713,
+      "num": 300059,
+      "word": "章若楠工作室喊话剧方",
+      "onboard_time": 1776395060,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110220,
-      "num": 144940,
+      "num": 158701,
       "word": "清清否认性骚扰",
       "onboard_time": 1776382398,
       "rank": 10,
@@ -51,16 +59,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 533418,
-      "num": 172316,
-      "word": "章若楠工作室喊话剧方",
-      "onboard_time": 1776395060,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 526441,
+      "num": 1084230,
+      "word": "被泼水致冒烟车辆刚买3个月",
+      "onboard_time": 1776395361,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502917,
-      "num": 145468,
+      "num": 160077,
       "word": "贝嫂回应与大儿子决裂",
       "onboard_time": 1776393260,
       "rank": 21,
@@ -99,6 +107,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 418660,
+      "num": 790142,
+      "word": "北影节主持人裙子 吸雨变色",
+      "onboard_time": 1776395960,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 398337,
       "num": 398337,
       "word": "骆驼被排挤走失主人寻回把它骂哭了",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 370563,
-      "num": 136712,
+      "num": 158501,
       "word": "最讨厌男人惹 清清",
       "onboard_time": 1776393980,
       "rank": 24,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 342156,
-      "num": 172213,
+      "num": 248866,
       "word": "陈冠希撞脸赵本山",
       "onboard_time": 1776390799,
       "rank": 11,
@@ -195,8 +211,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295922,
+      "num": 295922,
+      "word": "爸爸 又怎么了我的大小姐",
+      "onboard_time": 1776396260,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276813,
-      "num": 167205,
+      "num": 234089,
       "word": "郝熠然终止代言诚实一口",
       "onboard_time": 1776387861,
       "rank": 13,
@@ -209,6 +233,14 @@
       "onboard_time": 1776382639,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242032,
+      "num": 242032,
+      "word": "单依纯王菲 撞造型",
+      "onboard_time": 1776397221,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 217744,
@@ -275,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195916,
+      "num": 157554,
+      "word": "鹿晗工作室 躺平",
+      "onboard_time": 1776397460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194555,
       "num": 194555,
       "word": "36岁小伙全职当孙子月入5000",
@@ -323,8 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169006,
-      "num": 169006,
+      "raw_hot": 176449,
+      "num": 235309,
       "word": "醉酒男10分钟搭讪女子3次被扇飞眼镜",
       "onboard_time": 1776394819,
       "rank": 12,
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 155133,
-      "num": 110331,
+      "num": 114425,
       "word": "白玉兰官网放唐嫣C位照",
       "onboard_time": 1776389060,
       "rank": 31,
@@ -483,20 +523,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108258,
-      "num": 153725,
-      "word": "被泼水致冒烟车辆刚买3个月",
-      "onboard_time": 1776395361,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 104853,
+      "num": 103486,
+      "word": "张颂文站起来和沈腾打招呼",
+      "onboard_time": 1776393560,
+      "rank": 36,
+      "category": "电影"
     },
     {
-      "raw_hot": 103981,
-      "num": 103981,
-      "word": "北影节主持人裙子 吸雨变色",
-      "onboard_time": 1776395960,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 103843,
+      "num": 103843,
+      "word": "雷军直播",
+      "onboard_time": 1776389001,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 103743,
@@ -505,14 +545,6 @@
       "onboard_time": 1776389961,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103107,
-      "num": 103107,
-      "word": "张颂文站起来和沈腾打招呼",
-      "onboard_time": 1776393560,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 101819,
@@ -531,12 +563,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98187,
-      "num": 103109,
-      "word": "雷军直播",
-      "onboard_time": 1776389001,
-      "rank": 35,
-      "category": "汽车"
+      "raw_hot": 98418,
+      "num": 98418,
+      "word": "中国女生在韩遭男子性骚扰被劝和解",
+      "onboard_time": 1776397580,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96947,
@@ -560,6 +592,14 @@
       "word": "老板说滚员工离岗被辞获赔近16万",
       "onboard_time": 1776353781,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90967,
+      "num": 90967,
+      "word": "诚实一口直播间7天销售额超250万",
+      "onboard_time": 1776396441,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -619,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80941,
+      "num": 80941,
+      "word": "谁看孙怡这段能不笑",
+      "onboard_time": 1776394819,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80687,
       "num": 80687,
       "word": "Bin 小奶油",
@@ -675,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77412,
-      "num": 77412,
-      "word": "谁看孙怡这段能不笑",
-      "onboard_time": 1776394819,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76690,
       "num": 76690,
       "word": "老莫称卖掉1000只鸡后会捐10万",
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74315,
+      "num": 161063,
+      "word": "AG 狂魔哥",
+      "onboard_time": 1776387801,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73715,
       "num": 73715,
       "word": "四川内江8天23起地震",
@@ -755,14 +803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 70592,
-      "num": 161037,
-      "word": "AG 狂魔哥",
-      "onboard_time": 1776387801,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 70421,
       "num": 70421,
       "word": "Claude Opus4.7",
@@ -777,6 +817,14 @@
       "onboard_time": 1776347543,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68771,
+      "num": 115649,
+      "word": "房地产板块上涨",
+      "onboard_time": 1776396560,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 68148,
@@ -795,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66612,
+      "num": 76122,
+      "word": "降脂针大幅降价",
+      "onboard_time": 1776393740,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 64707,
       "num": 64707,
       "word": "迪丽热巴荷叶边白裙",
@@ -809,6 +865,14 @@
       "onboard_time": 1776351504,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62278,
+      "num": 72028,
+      "word": "理解老一辈送米面油的含金量了",
+      "onboard_time": 1776397822,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62268,
@@ -931,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50936,
+      "num": 160326,
+      "word": "郑丽文说去了一趟大陆心都定了",
+      "onboard_time": 1776397221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46369,
       "num": 144565,
       "word": "停火生效前以军大规模空袭黎",
@@ -992,6 +1064,14 @@
       "word": "深圳一男子确诊罕见传染病",
       "onboard_time": 1776336201,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36776,
+      "num": 300548,
+      "word": "22岁在校大学生被害案二审开庭",
+      "onboard_time": 1776396260,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1060,7 +1140,7 @@
     },
     {
       "raw_hot": 24835,
-      "num": 587330,
+      "num": 624406,
       "word": "首发首展首秀集中亮相消博会",
       "onboard_time": 1776394999,
       "rank": 2,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1776367814,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8106,
+      "num": 74333,
+      "word": "11.58万拿下30万级高阶辅助驾驶",
+      "onboard_time": 1776397822,
+      "rank": 46,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
