@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776397931091,
+  "endTime": 1776406191285,
   "band_list": [
     {
       "raw_hot": 2371127,
@@ -17,6 +17,14 @@
       "onboard_time": 1776346821,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1471262,
+      "num": 547499,
+      "word": "李小冉一公第一名",
+      "onboard_time": 1776403940,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1316888,
@@ -43,6 +51,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 664563,
+      "num": 526323,
+      "word": "泰国泼水节216人死亡",
+      "onboard_time": 1776404781,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 622892,
       "num": 110113,
       "word": "清清 指尖",
@@ -57,6 +73,14 @@
       "onboard_time": 1776382639,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585734,
+      "num": 144743,
+      "word": "单依纯王菲 造型",
+      "onboard_time": 1776397221,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 526441,
@@ -83,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476672,
+      "num": 1076267,
+      "word": "爷爷生前录音赠孙女百万遗产无效",
+      "onboard_time": 1776404721,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455692,
       "num": 455692,
       "word": "黄灿灿梦回武大校花",
@@ -97,6 +129,14 @@
       "onboard_time": 1776391941,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436844,
+      "num": 144550,
+      "word": "郭敬明 选秀",
+      "onboard_time": 1776403823,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 435602,
@@ -195,6 +235,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329621,
+      "num": 329621,
+      "word": "以色列剧本被撕了",
+      "onboard_time": 1776399321,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 311337,
+      "num": 143740,
+      "word": "李纯爸爸回应李纯马頔恋情曝光",
+      "onboard_time": 1776402140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301986,
+      "num": 140925,
+      "word": "向太每月给向华强前妻10万赡养费",
+      "onboard_time": 1776404721,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296346,
       "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
@@ -243,6 +307,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235561,
+      "num": 144076,
+      "word": "中方否决涉霍尔木兹海峡决议草案",
+      "onboard_time": 1776400941,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 228111,
+      "num": 101922,
+      "word": "月鳞绮纪大结局",
+      "onboard_time": 1776399440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217817,
+      "num": 142410,
+      "word": "阿拉蕾长这么高了",
+      "onboard_time": 1776398361,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217744,
       "num": 166488,
       "word": "包洁仪回应凄惨身世是假的",
@@ -283,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205622,
+      "num": 157554,
+      "word": "鹿晗工作室 躺平",
+      "onboard_time": 1776397460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203871,
       "num": 203871,
       "word": "偷偷藏不住剧组亮相北影节",
@@ -307,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195916,
-      "num": 157554,
-      "word": "鹿晗工作室 躺平",
-      "onboard_time": 1776397460,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194555,
       "num": 194555,
       "word": "36岁小伙全职当孙子月入5000",
@@ -329,6 +417,22 @@
       "onboard_time": 1776388640,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 186073,
+      "num": 118133,
+      "word": "朴春手写信回应曝朴山多拉涉毒",
+      "onboard_time": 1776405560,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184247,
+      "num": 142908,
+      "word": "中国女生在韩遭男子性骚扰被劝和解",
+      "onboard_time": 1776397580,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183775,
@@ -371,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173269,
+      "num": 140023,
+      "word": "朴彩英宋雨琦活动生图",
+      "onboard_time": 1776403040,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168748,
       "num": 213336,
       "word": "心源性猝死为什么盯上年轻人",
@@ -387,12 +499,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165697,
+      "num": 796360,
+      "word": "乘风二公真人秀",
+      "onboard_time": 1776398780,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165019,
       "num": 165019,
       "word": "教资成绩",
       "onboard_time": 1776391821,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160190,
+      "num": 136827,
+      "word": "TF四代 八小只",
+      "onboard_time": 1776398361,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 155133,
@@ -435,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139715,
+      "num": 139715,
+      "word": "主体性好强的一句一下就被点醒了",
+      "onboard_time": 1776403281,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139297,
       "num": 139297,
       "word": "94斤女生打司美格鲁肽减肥被送急诊",
@@ -475,12 +611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121845,
+      "num": 141567,
+      "word": "广州越秀公园惊现猫蛇大战",
+      "onboard_time": 1776399681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121833,
       "num": 121833,
       "word": "最难喝饮料又上新了",
       "onboard_time": 1776352281,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "浪姐一公乘风值排名",
+      "onboard_time": 1776403521,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 114497,
@@ -507,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112216,
+      "num": 112216,
+      "word": "念相思开通官微",
+      "onboard_time": 1776399801,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111026,
       "num": 75571,
       "word": "钟丽缇55岁了",
       "onboard_time": 1776383119,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109593,
+      "num": 109593,
+      "word": "孙怡动用人脉当上了最不想当的队长",
+      "onboard_time": 1776405981,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 108274,
@@ -531,8 +699,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104435,
+      "num": 104435,
+      "word": "月鳞绮纪HE",
+      "onboard_time": 1776401961,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103843,
-      "num": 103843,
+      "num": 145518,
       "word": "雷军直播",
       "onboard_time": 1776389001,
       "rank": 35,
@@ -545,6 +721,22 @@
       "onboard_time": 1776389961,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102016,
+      "num": 102016,
+      "word": "王濛李小冉 老夫老妻",
+      "onboard_time": 1776405981,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101862,
+      "num": 101862,
+      "word": "张月陈瑶浪姐二公二搭",
+      "onboard_time": 1776404301,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 101819,
@@ -561,14 +753,6 @@
       "onboard_time": 1776390020,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 98418,
-      "num": 98418,
-      "word": "中国女生在韩遭男子性骚扰被劝和解",
-      "onboard_time": 1776397580,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96947,
@@ -595,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92872,
+      "num": 118233,
+      "word": "家长为儿子选高中竟只看有无马桶",
+      "onboard_time": 1776403880,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90967,
       "num": 90967,
       "word": "诚实一口直播间7天销售额超250万",
       "onboard_time": 1776396441,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90244,
+      "num": 90244,
+      "word": "明日方舟终末地",
+      "onboard_time": 1776405861,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 86846,
@@ -611,12 +811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85980,
+      "num": 85980,
+      "word": "舒淇给自己煮瘦面",
+      "onboard_time": 1776404961,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85621,
       "num": 85621,
       "word": "纳指12连涨",
       "onboard_time": 1776384321,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85080,
+      "num": 101876,
+      "word": "KPL老乡杯采访",
+      "onboard_time": 1776405560,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 84835,
@@ -649,6 +865,30 @@
       "onboard_time": 1776355100,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83335,
+      "num": 83335,
+      "word": "雷军称考虑过出大众配置车型",
+      "onboard_time": 1776406160,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 82352,
+      "num": 101928,
+      "word": "加拿大鹅快把新西兰人逼疯了",
+      "onboard_time": 1776400461,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82278,
+      "num": 82278,
+      "word": "太湖湾音乐节5月1日阵容",
+      "onboard_time": 1776400341,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 81794,
@@ -939,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57020,
+      "num": 82279,
+      "word": "郑丽文与馆长对谈惊叹大陆发展",
+      "onboard_time": 1776400941,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56570,
       "num": 56570,
       "word": "零跑D19售价21.98万起",
@@ -993,6 +1241,14 @@
       "onboard_time": 1776395119,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51444,
+      "num": 106746,
+      "word": "大眼音乐节阵容",
+      "onboard_time": 1776397640,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 50936,
@@ -1051,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38325,
+      "num": 145015,
+      "word": "日本诋毁邻国是为再军事化辩护",
+      "onboard_time": 1776405681,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38322,
       "num": 38322,
       "word": "偶遇张元英去皮肤科",
@@ -1107,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30686,
+      "num": 142160,
+      "word": "终末地最大方的一集",
+      "onboard_time": 1776404059,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28568,
       "num": 46009,
       "word": "零跑D19",
@@ -1129,6 +1401,14 @@
       "onboard_time": 1776362715,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26302,
+      "num": 82334,
+      "word": "蕉内用十年写了一份舒服答卷",
+      "onboard_time": 1776402383,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 25266,

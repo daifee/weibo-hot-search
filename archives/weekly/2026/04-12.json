@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776397931091,
+  "endTime": 1776406191285,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -113,6 +113,14 @@
       "onboard_time": 1776006923,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1471262,
+      "num": 547499,
+      "word": "李小冉一公第一名",
+      "onboard_time": 1776403940,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1458149,
@@ -547,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 664563,
+      "num": 526323,
+      "word": "泰国泼水节216人死亡",
+      "onboard_time": 1776404781,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 663401,
       "num": 195891,
       "word": "王濛 色令智昏",
@@ -777,6 +793,14 @@
       "onboard_time": 1776048258,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 585734,
+      "num": 144743,
+      "word": "单依纯王菲 造型",
+      "onboard_time": 1776397221,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 581009,
@@ -1195,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476672,
+      "num": 1076267,
+      "word": "爷爷生前录音赠孙女百万遗产无效",
+      "onboard_time": 1776404721,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468612,
       "num": 181311,
       "word": "恭喜那些洗袜子不翻面的人",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1776294256,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436844,
+      "num": 144550,
+      "word": "郭敬明 选秀",
+      "onboard_time": 1776403823,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 435705,
@@ -2251,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 329621,
+      "num": 329621,
+      "word": "以色列剧本被撕了",
+      "onboard_time": 1776399321,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328936,
       "num": 135176,
       "word": "向涵之吸烟路透",
@@ -2531,6 +2579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 311337,
+      "num": 143740,
+      "word": "李纯爸爸回应李纯马頔恋情曝光",
+      "onboard_time": 1776402140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310367,
       "num": 310367,
       "word": "不要穿浅色去做妆造",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1776245361,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301986,
+      "num": 140925,
+      "word": "向太每月给向华强前妻10万赡养费",
+      "onboard_time": 1776404721,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 301866,
@@ -3523,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235561,
+      "num": 144076,
+      "word": "中方否决涉霍尔木兹海峡决议草案",
+      "onboard_time": 1776400941,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235322,
       "num": 235322,
       "word": "伊朗曝美方要均分霍尔木兹收益",
@@ -3691,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228111,
+      "num": 101922,
+      "word": "月鳞绮纪大结局",
+      "onboard_time": 1776399440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227312,
       "num": 138574,
       "word": "穆祉丞追星也是氪金粉",
@@ -3776,6 +3856,14 @@
       "word": "董力8岁儿子都这么高了",
       "onboard_time": 1776086783,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217817,
+      "num": 142410,
+      "word": "阿拉蕾长这么高了",
+      "onboard_time": 1776398361,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4035,6 +4123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 205622,
+      "num": 157554,
+      "word": "鹿晗工作室 躺平",
+      "onboard_time": 1776397460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205620,
       "num": 745175,
       "word": "莫氏鸡煲老板回应商家排队送产品",
@@ -4235,14 +4331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195916,
-      "num": 157554,
-      "word": "鹿晗工作室 躺平",
-      "onboard_time": 1776397460,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194555,
       "num": 194555,
       "word": "36岁小伙全职当孙子月入5000",
@@ -4427,6 +4515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186073,
+      "num": 118133,
+      "word": "朴春手写信回应曝朴山多拉涉毒",
+      "onboard_time": 1776405560,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184649,
       "num": 154507,
       "word": "lululemon中国市场成救命稻草",
@@ -4449,6 +4545,14 @@
       "onboard_time": 1776007581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184247,
+      "num": 142908,
+      "word": "中国女生在韩遭男子性骚扰被劝和解",
+      "onboard_time": 1776397580,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183775,
@@ -4691,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173269,
+      "num": 140023,
+      "word": "朴彩英宋雨琦活动生图",
+      "onboard_time": 1776403040,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172492,
       "num": 151902,
       "word": "曝花三三被榜一大哥起诉",
@@ -4883,6 +4995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165697,
+      "num": 796360,
+      "word": "乘风二公真人秀",
+      "onboard_time": 1776398780,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165126,
       "num": 153428,
       "word": "美军宣布在霍尔木兹海峡扫雷",
@@ -5009,6 +5129,14 @@
       "onboard_time": 1776052341,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 160190,
+      "num": 136827,
+      "word": "TF四代 八小只",
+      "onboard_time": 1776398361,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 159919,
@@ -5691,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139715,
+      "num": 139715,
+      "word": "主体性好强的一句一下就被点醒了",
+      "onboard_time": 1776403281,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139367,
       "num": 113631,
       "word": "TXT回归",
@@ -6339,6 +6475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121845,
+      "num": 141567,
+      "word": "广州越秀公园惊现猫蛇大战",
+      "onboard_time": 1776399681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121833,
       "num": 121833,
       "word": "最难喝饮料又上新了",
@@ -6553,6 +6697,14 @@
       "onboard_time": 1775972959,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "浪姐一公乘风值排名",
+      "onboard_time": 1776403521,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 117416,
@@ -6859,6 +7011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112216,
+      "num": 112216,
+      "word": "念相思开通官微",
+      "onboard_time": 1776399801,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112067,
       "num": 116085,
       "word": "金银飙涨",
@@ -6992,6 +7152,14 @@
       "word": "我英语水平 乌兰图雅",
       "onboard_time": 1775916083,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109593,
+      "num": 109593,
+      "word": "孙怡动用人脉当上了最不想当的队长",
+      "onboard_time": 1776405981,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -7355,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104435,
+      "num": 104435,
+      "word": "月鳞绮纪HE",
+      "onboard_time": 1776401961,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104300,
       "num": 104300,
       "word": "向太全款买地写郭碧婷名下",
@@ -7388,7 +7564,7 @@
     },
     {
       "raw_hot": 103843,
-      "num": 103843,
+      "num": 145518,
       "word": "雷军直播",
       "onboard_time": 1776389001,
       "rank": 35,
@@ -7523,12 +7699,28 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 102016,
+      "num": 102016,
+      "word": "王濛李小冉 老夫老妻",
+      "onboard_time": 1776405981,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101901,
       "num": 117807,
       "word": "被破窗取AED车辆获免费换车窗",
       "onboard_time": 1776295999,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101862,
+      "num": 101862,
+      "word": "张月陈瑶浪姐二公二搭",
+      "onboard_time": 1776404301,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 101858,
@@ -7817,14 +8009,6 @@
       "onboard_time": 1776311244,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 98418,
-      "num": 98418,
-      "word": "中国女生在韩遭男子性骚扰被劝和解",
-      "onboard_time": 1776397580,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98272,
@@ -8283,6 +8467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92872,
+      "num": 118233,
+      "word": "家长为儿子选高中竟只看有无马桶",
+      "onboard_time": 1776403880,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92832,
       "num": 92832,
       "word": "油价金价齐跌",
@@ -8569,6 +8761,14 @@
       "onboard_time": 1776235641,
       "rank": 35,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 90244,
+      "num": 90244,
+      "word": "明日方舟终末地",
+      "onboard_time": 1775930956,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 90204,
@@ -8995,6 +9195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85980,
+      "num": 85980,
+      "word": "舒淇给自己煮瘦面",
+      "onboard_time": 1776404961,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85966,
       "num": 85966,
       "word": "男子买东西故意贴女店主还不承认",
@@ -9089,6 +9297,14 @@
       "onboard_time": 1776144021,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85080,
+      "num": 101876,
+      "word": "KPL老乡杯采访",
+      "onboard_time": 1776405560,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 85062,
@@ -9355,6 +9571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83335,
+      "num": 83335,
+      "word": "雷军称考虑过出大众配置车型",
+      "onboard_time": 1776406160,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83170,
       "num": 83170,
       "word": "赵子琪有两个女儿",
@@ -9443,6 +9667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82352,
+      "num": 101928,
+      "word": "加拿大鹅快把新西兰人逼疯了",
+      "onboard_time": 1776400461,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82337,
       "num": 82337,
       "word": "阿吉向B太承认虚构苦情人设",
@@ -9457,6 +9689,14 @@
       "onboard_time": 1775949138,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82278,
+      "num": 82278,
+      "word": "太湖湾音乐节5月1日阵容",
+      "onboard_time": 1776400341,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 82262,
@@ -12019,6 +12259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57020,
+      "num": 82279,
+      "word": "郑丽文与馆长对谈惊叹大陆发展",
+      "onboard_time": 1776400941,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57005,
       "num": 66156,
       "word": "比亚迪在日本销量翻番",
@@ -12433,6 +12681,14 @@
       "onboard_time": 1776328041,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 51444,
+      "num": 106746,
+      "word": "大眼音乐节阵容",
+      "onboard_time": 1776397640,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 51169,
@@ -13099,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38325,
+      "num": 145015,
+      "word": "日本诋毁邻国是为再军事化辩护",
+      "onboard_time": 1776405681,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38240,
       "num": 89016,
       "word": "伊朗视舰船靠近霍尔木兹为违反停火",
@@ -13451,6 +13715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30686,
+      "num": 142160,
+      "word": "终末地最大方的一集",
+      "onboard_time": 1776404059,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30650,
       "num": 116878,
       "word": "离职员工被训练出AI分身继续上班",
@@ -13689,6 +13961,14 @@
       "onboard_time": 1776097580,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26302,
+      "num": 82334,
+      "word": "蕉内用十年写了一份舒服答卷",
+      "onboard_time": 1776402383,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 26287,
@@ -14265,14 +14545,6 @@
       "onboard_time": 1776283993,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15547,
-      "num": 24870,
-      "word": "明日方舟终末地",
-      "onboard_time": 1775930956,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 15282,
