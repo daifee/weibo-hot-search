@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776421200940,
+  "endTime": 1776425461941,
   "band_list": [
     {
       "raw_hot": 3214686,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1334104,
-      "num": 292643,
+      "raw_hot": 1409998,
+      "num": 384588,
       "word": "幽灵外卖",
       "onboard_time": 1776417200,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895346,
+      "num": 367635,
+      "word": "陈奕恒回应私联争议",
+      "onboard_time": 1776423259,
+      "rank": 20,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 878667,
       "num": 981626,
       "word": "一日本自卫队舰艇进入台湾海峡",
@@ -168,6 +176,14 @@
       "word": "郭敬明 选秀",
       "onboard_time": 1776403823,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 689560,
+      "num": 378644,
+      "word": "穆祉丞二维码",
+      "onboard_time": 1776423861,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1776417080,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 573086,
+      "num": 376396,
+      "word": "林肯号航母提供的餐食情况",
+      "onboard_time": 1776421521,
+      "rank": 15,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 560044,
@@ -291,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486237,
+      "num": 376137,
+      "word": "章泽天外媒生图",
+      "onboard_time": 1776414623,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 478541,
+      "num": 478541,
+      "word": "对余某罚没10亿余元",
+      "onboard_time": 1776421460,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 472608,
       "num": 374172,
       "word": "向太每月给向华强前妻10万赡养费",
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454856,
+      "num": 454856,
+      "word": "雷军问直播放歌有没有版权问题",
+      "onboard_time": 1776420381,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 451055,
       "num": 376548,
       "word": "钟汉良曾被9岁郭晓婷拒绝加好友",
@@ -323,11 +371,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445546,
-      "num": 376137,
-      "word": "章泽天外媒生图",
-      "onboard_time": 1776414623,
-      "rank": 24,
+      "raw_hot": 446630,
+      "num": 362065,
+      "word": "虞书欣丸子头",
+      "onboard_time": 1776423681,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -347,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419462,
+      "num": 368334,
+      "word": "妈妈确诊癌症晚期一年后女儿被杀",
+      "onboard_time": 1776414501,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418660,
       "num": 790142,
       "word": "北影节主持人裙子 吸雨变色",
       "onboard_time": 1776395960,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415739,
+      "num": 415739,
+      "word": "工作为什么默认能用我的手机",
+      "onboard_time": 1776413782,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 403148,
@@ -427,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 367781,
+      "num": 354329,
+      "word": "钟丽缇女儿Jaden回应不是混血",
+      "onboard_time": 1776420981,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367038,
       "num": 791579,
       "word": "最不困的人叫醒最困的人",
@@ -475,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333581,
+      "num": 351829,
+      "word": "氧化菊 泼水节",
+      "onboard_time": 1776424460,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 329621,
       "num": 329621,
       "word": "以色列剧本被撕了",
@@ -491,20 +571,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 320330,
-      "num": 320330,
-      "word": "妈妈确诊癌症晚期一年后女儿被杀",
-      "onboard_time": 1776414501,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311337,
       "num": 266322,
       "word": "李纯爸爸回应李纯马頔恋情曝光",
       "onboard_time": 1776402140,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302804,
+      "num": 388076,
+      "word": "费曼学什么这么贵啊",
+      "onboard_time": 1776413962,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 296346,
@@ -524,19 +604,11 @@
     },
     {
       "raw_hot": 293700,
-      "num": 293700,
+      "num": 317052,
       "word": "橘子海乐队称华为侵权",
       "onboard_time": 1776407302,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288986,
-      "num": 288986,
-      "word": "费曼学什么这么贵啊",
-      "onboard_time": 1776413962,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 276813,
@@ -556,15 +628,23 @@
     },
     {
       "raw_hot": 267722,
-      "num": 267722,
+      "num": 327159,
       "word": "日本人威胁给我使馆装炸弹",
       "onboard_time": 1776417500,
       "rank": 37,
       "category": "国内时政"
     },
     {
+      "raw_hot": 264351,
+      "num": 364201,
+      "word": "女教师聊八卦被拘谣言传播过程曝光",
+      "onboard_time": 1776422481,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260734,
-      "num": 260734,
+      "num": 322466,
       "word": "男子杀人后和妻儿与尸体生活多年",
       "onboard_time": 1776419241,
       "rank": 49,
@@ -643,8 +723,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227116,
+      "num": 346850,
+      "word": "老人做饭关气不关灶引发爆燃",
+      "onboard_time": 1776423081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223073,
-      "num": 223073,
+      "num": 339720,
       "word": "月鳞绮纪豆瓣5.3",
       "onboard_time": 1776419662,
       "rank": 41,
@@ -683,12 +771,52 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 212570,
+      "num": 342545,
+      "word": "白发或是身体的抗癌警报",
+      "onboard_time": 1776422299,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 211604,
+      "num": 336958,
+      "word": "谢娜洗完澡李小冉会帮拿牛奶放睡衣",
+      "onboard_time": 1776420562,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210987,
+      "num": 330346,
+      "word": "安崎一公排名",
+      "onboard_time": 1776424942,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208068,
       "num": 653447,
       "word": "中国不吸烟女性二手烟暴露率达70%",
       "onboard_time": 1776354981,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207153,
+      "num": 328413,
+      "word": "月鳞绮纪四位主演出镜时长",
+      "onboard_time": 1776424761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206249,
+      "num": 320507,
+      "word": "阚清子发浪姐大合照",
+      "onboard_time": 1776424700,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 203871,
@@ -731,12 +859,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 200334,
-      "num": 200334,
-      "word": "钟丽缇女儿Jaden回应不是混血",
-      "onboard_time": 1776420981,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 200993,
+      "num": 333691,
+      "word": "刘浩存 没有给代拍好脸色的义务",
+      "onboard_time": 1776421281,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 200261,
@@ -745,6 +873,14 @@
       "onboard_time": 1776416481,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199769,
+      "num": 324999,
+      "word": "江语晨带孩子们看浪姐",
+      "onboard_time": 1776423560,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 196821,
@@ -779,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190132,
-      "num": 230875,
-      "word": "工作为什么默认能用我的手机",
-      "onboard_time": 1776413782,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186716,
       "num": 186716,
       "word": "诈骗已经对孩子下手了",
@@ -809,14 +937,6 @@
       "onboard_time": 1776380898,
       "rank": 6,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 183060,
-      "num": 222217,
-      "word": "雷军问直播放歌有没有版权问题",
-      "onboard_time": 1776420381,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 181755,
@@ -979,11 +1099,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136037,
+      "num": 314264,
+      "word": "胡峥楠出任小米集团副总裁",
+      "onboard_time": 1776425300,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135757,
       "num": 513916,
       "word": "白象品牌代言人孙颖莎",
       "onboard_time": 1776409460,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131971,
+      "num": 371814,
+      "word": "张雪机车夺冠后首秀",
+      "onboard_time": 1776420441,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1091,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107367,
+      "num": 340874,
+      "word": "警方通报女子称遭强奸嫌疑人被取保",
+      "onboard_time": 1776424042,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 104853,
       "num": 103486,
       "word": "张颂文站起来和沈腾打招呼",
@@ -1187,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92038,
+      "num": 319165,
+      "word": "如何评价电商平台转单行为",
+      "onboard_time": 1776423740,
+      "rank": 46,
+      "category": "舆论监督,互联网"
+    },
+    {
       "raw_hot": 90967,
       "num": 90967,
       "word": "诚实一口直播间7天销售额超250万",
@@ -1209,14 +1361,6 @@
       "onboard_time": 1776420680,
       "rank": 19,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 89211,
-      "num": 248881,
-      "word": "张雪机车夺冠后首秀",
-      "onboard_time": 1776420441,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 86846,
@@ -1257,6 +1401,14 @@
       "onboard_time": 1776405560,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84874,
+      "num": 356970,
+      "word": "王者荣耀世界移动端上线",
+      "onboard_time": 1776422180,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 84835,
@@ -1433,6 +1585,14 @@
       "onboard_time": 1776383119,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74991,
+      "num": 332896,
+      "word": "男子为5000元杀害发小埋尸家中13年",
+      "onboard_time": 1776424520,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74477,
@@ -1889,6 +2049,14 @@
       "onboard_time": 1776418519,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25310,
+      "num": 345146,
+      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+      "onboard_time": 1776425362,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25266,
