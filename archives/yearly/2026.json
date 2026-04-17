@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776415778917,
+  "endTime": 1776419726744,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3214686,
+      "num": 399311,
+      "word": "朱迅已抗癌20年",
+      "onboard_time": 1776416781,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3175580,
       "num": 211141,
       "word": "齐思钧回应分手",
@@ -2211,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2046414,
+      "num": 2046414,
+      "word": "拼多多美团京东淘天抖音被罚35亿",
+      "onboard_time": 1776414140,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2043291,
       "num": 2043291,
       "word": "李方慧银牌",
@@ -2384,22 +2400,6 @@
       "word": "胡先煦秒删博",
       "onboard_time": 1773913821,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1953758,
-      "num": 1953758,
-      "word": "杜涛面相都变了",
-      "onboard_time": 1769000600,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1944339,
-      "num": 1944339,
-      "word": "王楚然红包",
-      "onboard_time": 1771233264,
-      "rank": 11,
       "category": "艺人"
     }
   ],
