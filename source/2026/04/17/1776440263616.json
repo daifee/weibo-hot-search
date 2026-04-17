@@ -1,0 +1,410 @@
+{
+  "runTime": 1776440263616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390201,
+        "num": 1390201,
+        "word": "霍尔木兹海峡开放",
+        "onboard_time": 1776431900,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1209325,
+        "num": 1209325,
+        "word": "氧化菊 泼水节",
+        "onboard_time": 1776424460,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 29603,
+        "num": 992813,
+        "word": "中国经济在风浪中稳住了发展底盘",
+        "onboard_time": 1776430400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 979050,
+        "num": 979050,
+        "word": "芭乐的籽居然可以一整块掰下来",
+        "onboard_time": 1776430820,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 911761,
+        "num": 911761,
+        "word": "雷军达成京沪高速只充一次电",
+        "onboard_time": 1776433700,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 864916,
+        "num": 864916,
+        "word": "麦当劳肯德基 宿敌cp",
+        "onboard_time": 1776434240,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 770927,
+        "num": 770927,
+        "word": "张雪机车荷兰站",
+        "onboard_time": 1776436822,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376038,
+        "num": 376038,
+        "word": "魏晨现身张杰演唱会",
+        "onboard_time": 1776435023,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 353252,
+        "num": 353252,
+        "word": "许昕真的回国家队了",
+        "onboard_time": 1776431181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324677,
+        "num": 324677,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1776432081,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2437349,
+        "num": 320640,
+        "word": "孙怡回应和阚清子关系",
+        "onboard_time": 1776433461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1577622,
+        "num": 319495,
+        "word": "黄金",
+        "onboard_time": 1776436224,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2120096,
+        "num": 313006,
+        "word": "单依纯若捆绑王菲宣传涉嫌违法",
+        "onboard_time": 1776432562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1333631,
+        "num": 308297,
+        "word": "Angelababy陈赫拥抱",
+        "onboard_time": 1776436342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710947,
+        "num": 307290,
+        "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+        "onboard_time": 1776436704,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1116727,
+        "num": 299757,
+        "word": "朱迅已抗癌20年",
+        "onboard_time": 1776416781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540552,
+        "num": 295925,
+        "word": "李小冉一公第一名",
+        "onboard_time": 1776403940,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458522,
+        "num": 293062,
+        "word": "解放军护卫舰与外舰缠斗20小时",
+        "onboard_time": 1776434302,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131591,
+        "num": 289614,
+        "word": "极氪8X29分钟大定破万",
+        "onboard_time": 1776439461,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 610940,
+        "num": 284360,
+        "word": "都美竹被强执",
+        "onboard_time": 1776425719,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 535553,
+        "num": 281427,
+        "word": "舒淇说我卸了妆还挺像50岁的",
+        "onboard_time": 1776430881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414825,
+        "num": 275355,
+        "word": "拼多多美团京东淘天抖音被罚35亿",
+        "onboard_time": 1776414140,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397917,
+        "num": 273576,
+        "word": "陈奕恒回应私联争议",
+        "onboard_time": 1776423259,
+        "rank": 22,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 354755,
+        "num": 268133,
+        "word": "张凌赫小学就像巨人",
+        "onboard_time": 1776434841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266457,
+        "num": 266457,
+        "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+        "onboard_time": 1776425362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280481,
+        "num": 252276,
+        "word": "虞书欣丸子头",
+        "onboard_time": 1776423681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37901,
+        "num": 240690,
+        "word": "换电池小卡扣要13万新能源车主崩溃",
+        "onboard_time": 1776440060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234089,
+        "num": 234089,
+        "word": "刘浩存 没有给代拍好脸色的义务",
+        "onboard_time": 1776421281,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263974,
+        "num": 231952,
+        "word": "白发或是身体的抗癌警报",
+        "onboard_time": 1776422299,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 257032,
+        "num": 228315,
+        "word": "大码女装店让S码模特穿XL样衣",
+        "onboard_time": 1776438562,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255695,
+        "num": 227998,
+        "word": "周杰伦点破女艺人困境",
+        "onboard_time": 1776437424,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252713,
+        "num": 223119,
+        "word": "林肯号航母提供的餐食情况",
+        "onboard_time": 1776421521,
+        "rank": 31,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 246214,
+        "num": 221864,
+        "word": "雷军到达上海后还有余电",
+        "onboard_time": 1776437722,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219484,
+        "num": 219484,
+        "word": "儿子晒96岁父亲的三无精致生活",
+        "onboard_time": 1776432081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210690,
+        "num": 210690,
+        "word": "谢娜回应网友问抚养权判给谁了",
+        "onboard_time": 1776432982,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209892,
+        "num": 209892,
+        "word": "穆祉丞二维码",
+        "onboard_time": 1776423861,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "人生是场巨大的事与愿违",
+        "onboard_time": 1776430400,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189002,
+        "num": 189002,
+        "word": "鞠婧祎回应月鳞绮纪结局",
+        "onboard_time": 1776437123,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188063,
+        "num": 188063,
+        "word": "28岁孕妇突发胸闷气促查出肺癌",
+        "onboard_time": 1776427280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86958,
+        "num": 185440,
+        "word": "女子跳楼被男友拽5分钟后坠亡",
+        "onboard_time": 1776440120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 183338,
+        "word": "孙颖莎巨型卡通装饰",
+        "onboard_time": 1776433764,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140210,
+        "num": 177568,
+        "word": "东莞理工学院回应学生送外卖被通报",
+        "onboard_time": 1776438262,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48629,
+        "num": 174409,
+        "word": "平台不能只赚钱不守门",
+        "onboard_time": 1776438262,
+        "rank": 42,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 174019,
+        "num": 174019,
+        "word": "学校组织10元车费去春游男孩下车秒哭",
+        "onboard_time": 1776437602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168967,
+        "num": 168967,
+        "word": "井川里予回应穿山寨礼服",
+        "onboard_time": 1776427700,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166501,
+        "num": 166501,
+        "word": "钟丽缇女儿Jaden回应不是混血",
+        "onboard_time": 1776420981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161473,
+        "num": 161473,
+        "word": "一日本自卫队舰艇进入台湾海峡",
+        "onboard_time": 1776414261,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164905,
+        "num": 160725,
+        "word": "夫胜宽女装",
+        "onboard_time": 1776429801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159662,
+        "num": 159662,
+        "word": "A股七姐妹",
+        "onboard_time": 1776435442,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151942,
+        "num": 151942,
+        "word": "胡彦斌 BOSS直聘",
+        "onboard_time": 1776439941,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺盖莱当选连任吉布提总统#"
+    }
+  }
+}

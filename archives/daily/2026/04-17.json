@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776438202270,
+  "endTime": 1776440263616,
   "band_list": [
     {
       "raw_hot": 3214686,
@@ -40,6 +40,14 @@
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2120096,
+      "num": 577036,
+      "word": "单依纯若捆绑王菲宣传涉嫌违法",
+      "onboard_time": 1776432562,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -107,11 +115,11 @@
       "category": "舆论监督,互联网"
     },
     {
-      "raw_hot": 1325423,
-      "num": 577036,
-      "word": "单依纯若捆绑王菲宣传涉嫌违法",
-      "onboard_time": 1776432562,
-      "rank": 23,
+      "raw_hot": 1333631,
+      "num": 448355,
+      "word": "Angelababy陈赫拥抱",
+      "onboard_time": 1776436342,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1776425719,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1297875,
-      "num": 448355,
-      "word": "Angelababy陈赫拥抱",
-      "onboard_time": 1776436342,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1255713,
@@ -195,8 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 962131,
-      "num": 962131,
+      "raw_hot": 979050,
+      "num": 979050,
       "word": "芭乐的籽居然可以一整块掰下来",
       "onboard_time": 1776430820,
       "rank": 4,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 864916,
+      "num": 864916,
+      "word": "麦当劳肯德基 宿敌cp",
+      "onboard_time": 1776434240,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 828571,
       "num": 597653,
       "word": "舒淇说我卸了妆还挺像50岁的",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770927,
+      "num": 770927,
+      "word": "张雪机车荷兰站",
+      "onboard_time": 1776436822,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 729613,
       "num": 586594,
       "word": "穆祉丞二维码",
@@ -289,6 +305,14 @@
       "onboard_time": 1776403823,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710947,
+      "num": 443327,
+      "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+      "onboard_time": 1776436704,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 698428,
@@ -411,14 +435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 521722,
-      "num": 521722,
-      "word": "麦当劳肯德基 宿敌cp",
-      "onboard_time": 1776434240,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 514591,
       "num": 572862,
       "word": "工作为什么默认能用我的手机",
@@ -481,14 +497,6 @@
       "onboard_time": 1776414623,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485317,
-      "num": 443327,
-      "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
-      "onboard_time": 1776436704,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 482065,
@@ -577,14 +585,6 @@
       "onboard_time": 1776414501,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419298,
-      "num": 473011,
-      "word": "张雪机车荷兰站",
-      "onboard_time": 1776436822,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 418660,
@@ -875,6 +875,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 257032,
+      "num": 228315,
+      "word": "大码女装店让S码模特穿XL样衣",
+      "onboard_time": 1776438562,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 255695,
+      "num": 409154,
+      "word": "周杰伦点破女艺人困境",
+      "onboard_time": 1776437424,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254351,
       "num": 551666,
       "word": "28岁孕妇突发胸闷气促查出肺癌",
@@ -905,6 +921,14 @@
       "onboard_time": 1776424700,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246214,
+      "num": 383572,
+      "word": "雷军到达上海后还有余电",
+      "onboard_time": 1776437722,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 244247,
@@ -985,14 +1009,6 @@
       "onboard_time": 1776419662,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218820,
-      "num": 409154,
-      "word": "周杰伦点破女艺人困境",
-      "onboard_time": 1776437424,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 217744,
@@ -1195,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189002,
+      "num": 394861,
+      "word": "鞠婧祎回应月鳞绮纪结局",
+      "onboard_time": 1776437123,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186716,
       "num": 186716,
       "word": "诈骗已经对孩子下手了",
@@ -1275,12 +1299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176176,
-      "num": 394861,
-      "word": "鞠婧祎回应月鳞绮纪结局",
-      "onboard_time": 1776437123,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 174019,
+      "num": 174019,
+      "word": "学校组织10元车费去春游男孩下车秒哭",
+      "onboard_time": 1776437602,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173879,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1776433882,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168967,
+      "num": 490704,
+      "word": "井川里予回应穿山寨礼服",
+      "onboard_time": 1776427700,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 168748,
@@ -1323,28 +1355,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166154,
-      "num": 490704,
-      "word": "井川里予回应穿山寨礼服",
-      "onboard_time": 1776427700,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 165697,
       "num": 796360,
       "word": "乘风二公真人秀",
       "onboard_time": 1776398780,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165618,
-      "num": 383572,
-      "word": "雷军到达上海后还有余电",
-      "onboard_time": 1776437722,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 165019,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151942,
+      "num": 151942,
+      "word": "胡彦斌 BOSS直聘",
+      "onboard_time": 1776439941,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150929,
       "num": 521094,
       "word": "孙颖莎巨型卡通装饰",
@@ -1467,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140210,
+      "num": 177568,
+      "word": "东莞理工学院回应学生送外卖被通报",
+      "onboard_time": 1776438262,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139297,
       "num": 139297,
       "word": "94斤女生打司美格鲁肽减肥被送急诊",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1776409460,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131591,
+      "num": 289614,
+      "word": "极氪8X29分钟大定破万",
+      "onboard_time": 1776439461,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 131380,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1776420680,
       "rank": 19,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 86958,
+      "num": 185440,
+      "word": "女子跳楼被男友拽5分钟后坠亡",
+      "onboard_time": 1776440120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86846,
@@ -2299,6 +2347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48629,
+      "num": 174409,
+      "word": "平台不能只赚钱不守门",
+      "onboard_time": 1776438262,
+      "rank": 42,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 48566,
       "num": 128154,
       "word": "从郑州出发寻根世界",
@@ -2403,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37901,
+      "num": 240690,
+      "word": "换电池小卡扣要13万新能源车主崩溃",
+      "onboard_time": 1776440060,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36940,
       "num": 46012,
       "word": "深圳一男子确诊罕见传染病",
@@ -2467,6 +2531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29603,
+      "num": 1218564,
+      "word": "中国经济在风浪中稳住了发展底盘",
+      "onboard_time": 1776430400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28568,
       "num": 46009,
       "word": "零跑D19",
@@ -2481,14 +2553,6 @@
       "onboard_time": 1776358819,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28355,
-      "num": 1218564,
-      "word": "中国经济在风浪中稳住了发展底盘",
-      "onboard_time": 1776430400,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26770,
