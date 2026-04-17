@@ -1,0 +1,410 @@
+{
+  "runTime": 1776466338286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 446123,
+        "num": 579035,
+        "word": "霍尔木兹海峡开放",
+        "onboard_time": 1776431900,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300190,
+        "num": 420932,
+        "word": "氧化菊 泼水节",
+        "onboard_time": 1776424460,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 11029,
+        "num": 333754,
+        "word": "中国经济在风浪中稳住了发展底盘",
+        "onboard_time": 1776430400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287039,
+        "num": 287039,
+        "word": "解放军护卫舰与外舰缠斗20小时",
+        "onboard_time": 1776434302,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 224529,
+        "num": 224529,
+        "word": "芭乐的籽居然可以一整块掰下来",
+        "onboard_time": 1776430820,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183096,
+        "num": 183096,
+        "word": "雷军达成京沪高速只充一次电",
+        "onboard_time": 1776433700,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157578,
+        "num": 157578,
+        "word": "拼多多美团京东淘天抖音被罚35亿",
+        "onboard_time": 1776414140,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136119,
+        "num": 136119,
+        "word": "换电池小卡扣要13万新能源车主崩溃",
+        "onboard_time": 1776440060,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131402,
+        "num": 131402,
+        "word": "麦当劳肯德基 宿敌cp",
+        "onboard_time": 1776434240,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115309,
+        "num": 115309,
+        "word": "小米新SU7续航",
+        "onboard_time": 1776445218,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 755445,
+        "num": 115300,
+        "word": "日本叫嚣击沉中国航母",
+        "onboard_time": 1776444139,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 410895,
+        "num": 114948,
+        "word": "女子跳楼被男友拽5分钟后坠亡",
+        "onboard_time": 1776440120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341990,
+        "num": 114567,
+        "word": "蛋糕品类为何成幽灵外卖重灾区",
+        "onboard_time": 1776451455,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310611,
+        "num": 114188,
+        "word": "东部战区回应日舰过航台湾海峡",
+        "onboard_time": 1776445218,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204367,
+        "num": 114003,
+        "word": "黄金",
+        "onboard_time": 1776436224,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 113598,
+        "word": "医生爆料用献血证换血已成常态",
+        "onboard_time": 1776441139,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181273,
+        "num": 113063,
+        "word": "张雪机车夺得超级杆位赛第二名",
+        "onboard_time": 1776442039,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118562,
+        "num": 112774,
+        "word": "李小冉一公第一名",
+        "onboard_time": 1776403940,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112740,
+        "num": 112740,
+        "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+        "onboard_time": 1776436704,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103207,
+        "num": 103207,
+        "word": "国家发改委释放五大信号",
+        "onboard_time": 1776456254,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100885,
+        "num": 100885,
+        "word": "王濛练了那么多年防别人扒拉",
+        "onboard_time": 1776439522,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81815,
+        "num": 81815,
+        "word": "儿子晒96岁父亲的三无精致生活",
+        "onboard_time": 1776432081,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79715,
+        "num": 79715,
+        "word": "医院回应女子同房后失血性休克",
+        "onboard_time": 1776432622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77358,
+        "num": 77358,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1776432081,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74194,
+        "num": 74194,
+        "word": "新西兰军机多次抵近中国周边空域",
+        "onboard_time": 1776449715,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73636,
+        "num": 73636,
+        "word": "大码女装店让S码模特穿XL样衣",
+        "onboard_time": 1776438562,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72118,
+        "num": 72118,
+        "word": "白发或是身体的抗癌警报",
+        "onboard_time": 1776422299,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 72071,
+        "num": 72071,
+        "word": "豆包型人格",
+        "onboard_time": 1776453494,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71721,
+        "num": 71721,
+        "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+        "onboard_time": 1776425362,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69172,
+        "num": 69172,
+        "word": "人生是场巨大的事与愿违",
+        "onboard_time": 1776430400,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68129,
+        "num": 68129,
+        "word": "魏晨现身张杰演唱会",
+        "onboard_time": 1776435023,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63989,
+        "num": 63989,
+        "word": "学校组织10元车费去春游男孩下车秒哭",
+        "onboard_time": 1776437602,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63504,
+        "num": 63504,
+        "word": "猝死前10分钟身体什么感觉",
+        "onboard_time": 1776458292,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63386,
+        "num": 63386,
+        "word": "伊朗开放霍尔木兹油价应声暴跌",
+        "onboard_time": 1776445637,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59880,
+        "num": 59880,
+        "word": "伊朗对所有商船开放霍尔木兹海峡",
+        "onboard_time": 1776445218,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58666,
+        "num": 58666,
+        "word": "雷军到达上海后还有余电",
+        "onboard_time": 1776437722,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57731,
+        "num": 57731,
+        "word": "杭州滨江通报共用针头采血事件",
+        "onboard_time": 1776445337,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57162,
+        "num": 57162,
+        "word": "刘浩存 没有给代拍好脸色的义务",
+        "onboard_time": 1776421281,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56014,
+        "num": 56014,
+        "word": "许昕真的回国家队了",
+        "onboard_time": 1776431181,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56820,
+        "num": 54960,
+        "word": "日自卫队舰艇进入台湾海峡错上加错",
+        "onboard_time": 1776459734,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53739,
+        "num": 53739,
+        "word": "孙颖莎巨型卡通装饰",
+        "onboard_time": 1776433764,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52386,
+        "num": 53739,
+        "word": "林肯号航母提供的餐食情况",
+        "onboard_time": 1776421521,
+        "rank": 41,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 46777,
+        "num": 53734,
+        "word": "在韩骚扰中国女生日籍男子已离境",
+        "onboard_time": 1776445218,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44429,
+        "num": 53732,
+        "word": "张子枫马嘉祺片场碎片",
+        "onboard_time": 1776442100,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42482,
+        "num": 53728,
+        "word": "博主身份疑似被男同学盗用5年",
+        "onboard_time": 1776447856,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41332,
+        "num": 53726,
+        "word": "特朗普称美伊协议关键条款大多谈妥",
+        "onboard_time": 1776441561,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36200,
+        "num": 53721,
+        "word": "谢娜喊杜海涛唱小声点",
+        "onboard_time": 1776440901,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34546,
+        "num": 53719,
+        "word": "张雪机车荷兰站",
+        "onboard_time": 1776436822,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36879,
+        "num": 53718,
+        "word": "张子枫马嘉祺新剧预约破百万",
+        "onboard_time": 1776453735,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33749,
+        "num": 53713,
+        "word": "陈紫函夸田曦薇台词功底",
+        "onboard_time": 1776450975,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺盖莱当选连任吉布提总统#"
+    }
+  }
+}
