@@ -1,0 +1,410 @@
+{
+  "runTime": 1776406871009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505832,
+        "num": 1080933,
+        "word": "爷爷生前录音赠孙女百万遗产无效",
+        "onboard_time": 1776404721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142876,
+        "num": 786609,
+        "word": "乘风二公真人秀",
+        "onboard_time": 1776398780,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16425,
+        "num": 616273,
+        "word": "首发首展首秀集中亮相消博会",
+        "onboard_time": 1776394999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1514903,
+        "num": 582914,
+        "word": "李小冉一公第一名",
+        "onboard_time": 1776403940,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801484,
+        "num": 497867,
+        "word": "泰国泼水节216人死亡",
+        "onboard_time": 1776404781,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357435,
+        "num": 357435,
+        "word": "孙怡动用人脉当上了最不想当的队长",
+        "onboard_time": 1776405981,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264471,
+        "num": 264471,
+        "word": "以色列剧本被撕了",
+        "onboard_time": 1776399321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "雷军回应是否做10万以内车型",
+        "onboard_time": 1776389539,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89427,
+        "num": 131204,
+        "word": "雷军直播",
+        "onboard_time": 1776389001,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41364,
+        "num": 131056,
+        "word": "日本诋毁邻国是为再军事化辩护",
+        "onboard_time": 1776405681,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505279,
+        "num": 130535,
+        "word": "单依纯王菲 造型",
+        "onboard_time": 1776397221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485569,
+        "num": 130331,
+        "word": "郭敬明 选秀",
+        "onboard_time": 1776403823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198808,
+        "num": 129951,
+        "word": "中方否决涉霍尔木兹海峡决议草案",
+        "onboard_time": 1776400941,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323515,
+        "num": 129563,
+        "word": "章若楠片场拍戏走神",
+        "onboard_time": 1776388640,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288360,
+        "num": 129379,
+        "word": "朴春手写信回应曝朴山多拉涉毒",
+        "onboard_time": 1776405560,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149713,
+        "num": 128964,
+        "word": "爸爸 又怎么了我的大小姐",
+        "onboard_time": 1776396260,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146250,
+        "num": 128789,
+        "word": "中国女生在韩遭男子性骚扰被劝和解",
+        "onboard_time": 1776397580,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27729,
+        "num": 128204,
+        "word": "终末地最大方的一集",
+        "onboard_time": 1776404059,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48566,
+        "num": 128154,
+        "word": "从郑州出发寻根世界",
+        "onboard_time": 1776406460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278307,
+        "num": 127657,
+        "word": "李纯爸爸回应李纯马頔恋情曝光",
+        "onboard_time": 1776402140,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472608,
+        "num": 127353,
+        "word": "向太每月给向华强前妻10万赡养费",
+        "onboard_time": 1776404721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127189,
+        "num": 127189,
+        "word": "主体性好强的一句一下就被点醒了",
+        "onboard_time": 1776403281,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204495,
+        "num": 124805,
+        "word": "王濛说没人能管李小冉",
+        "onboard_time": 1776406820,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202227,
+        "num": 123277,
+        "word": "北影节主持人裙子 吸雨变色",
+        "onboard_time": 1776395960,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109046,
+        "num": 109046,
+        "word": "曝清清性骚扰",
+        "onboard_time": 1776346821,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35199,
+        "num": 108764,
+        "word": "黎巴嫩民众庆祝黎以临时停火生效",
+        "onboard_time": 1776406580,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193234,
+        "num": 108693,
+        "word": "鹿晗工作室 躺平",
+        "onboard_time": 1776397460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 108670,
+        "word": "阿拉蕾长这么高了",
+        "onboard_time": 1776398361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108559,
+        "num": 108559,
+        "word": "广州越秀公园惊现猫蛇大战",
+        "onboard_time": 1776399681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82495,
+        "num": 102620,
+        "word": "幼儿园老师回应睡过头被孩子们叫醒",
+        "onboard_time": 1776389419,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173333,
+        "num": 102035,
+        "word": "章若楠工作室喊话剧方",
+        "onboard_time": 1776395060,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 101935,
+        "word": "朴彩英宋雨琦活动生图",
+        "onboard_time": 1776403040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 100665,
+        "word": "贝嫂回应与大儿子决裂",
+        "onboard_time": 1776393260,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121050,
+        "num": 95576,
+        "word": "念相思开通官微",
+        "onboard_time": 1776399801,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114533,
+        "num": 93315,
+        "word": "TF四代 八小只",
+        "onboard_time": 1776398361,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86206,
+        "num": 86206,
+        "word": "乳腺癌高危人群建议30岁起每年检查",
+        "onboard_time": 1776404839,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94542,
+        "num": 86015,
+        "word": "浪姐一公乘风值排名",
+        "onboard_time": 1776403521,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85627,
+        "num": 85627,
+        "word": "清清否认性骚扰",
+        "onboard_time": 1776382398,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80620,
+        "num": 85274,
+        "word": "家长为儿子选高中竟只看有无马桶",
+        "onboard_time": 1776403880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61472,
+        "num": 85112,
+        "word": "朝鲜发声直指日本",
+        "onboard_time": 1776406520,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85008,
+        "num": 85008,
+        "word": "中国向伊朗提供58吨物资援助",
+        "onboard_time": 1776392301,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83611,
+        "num": 83611,
+        "word": "被阴天的紫外线背刺了",
+        "onboard_time": 1776406643,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77203,
+        "num": 77203,
+        "word": "月鳞绮纪HE",
+        "onboard_time": 1776401961,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76523,
+        "num": 76523,
+        "word": "张月陈瑶浪姐二公二搭",
+        "onboard_time": 1776404301,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74477,
+        "num": 74477,
+        "word": "雷军说被黑最惨的都是最优秀公司",
+        "onboard_time": 1776405441,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72513,
+        "num": 72513,
+        "word": "最讨厌男人惹 清清",
+        "onboard_time": 1776393980,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71041,
+        "num": 71041,
+        "word": "明日方舟终末地",
+        "onboard_time": 1776405861,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69839,
+        "num": 69839,
+        "word": "加拿大鹅快把新西兰人逼疯了",
+        "onboard_time": 1776400461,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69613,
+        "num": 69613,
+        "word": "KPL老乡杯采访",
+        "onboard_time": 1776405560,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69554,
+        "num": 69554,
+        "word": "雷军称考虑过出大众配置车型",
+        "onboard_time": 1776406160,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领质量强国建设#"
+    }
+  }
+}

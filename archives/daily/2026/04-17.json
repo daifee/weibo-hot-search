@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776406191285,
+  "endTime": 1776406871009,
   "band_list": [
     {
       "raw_hot": 2371127,
@@ -19,8 +19,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1471262,
-      "num": 547499,
+      "raw_hot": 1514903,
+      "num": 582914,
       "word": "李小冉一公第一名",
       "onboard_time": 1776403940,
       "rank": 3,
@@ -51,7 +51,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 664563,
+      "raw_hot": 801484,
       "num": 526323,
       "word": "泰国泼水节216人死亡",
       "onboard_time": 1776404781,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505832,
+      "num": 1080933,
+      "word": "爷爷生前录音赠孙女百万遗产无效",
+      "onboard_time": 1776404721,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502917,
       "num": 160077,
       "word": "贝嫂回应与大儿子决裂",
@@ -107,12 +115,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 476672,
-      "num": 1076267,
-      "word": "爷爷生前录音赠孙女百万遗产无效",
+      "raw_hot": 485569,
+      "num": 144550,
+      "word": "郭敬明 选秀",
+      "onboard_time": 1776403823,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472608,
+      "num": 140925,
+      "word": "向太每月给向华强前妻10万赡养费",
       "onboard_time": 1776404721,
-      "rank": 0,
-      "category": "民生新闻"
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 455692,
@@ -129,14 +145,6 @@
       "onboard_time": 1776391941,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436844,
-      "num": 144550,
-      "word": "郭敬明 选秀",
-      "onboard_time": 1776403823,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 435602,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357435,
+      "num": 357435,
+      "word": "孙怡动用人脉当上了最不想当的队长",
+      "onboard_time": 1776405981,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352655,
       "num": 778952,
       "word": "雷军回应是否做10万以内车型",
@@ -251,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301986,
-      "num": 140925,
-      "word": "向太每月给向华强前妻10万赡养费",
-      "onboard_time": 1776404721,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296346,
       "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
@@ -281,6 +289,14 @@
       "onboard_time": 1776396260,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288360,
+      "num": 129379,
+      "word": "朴春手写信回应曝朴山多拉涉毒",
+      "onboard_time": 1776405560,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 276813,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204495,
+      "num": 124805,
+      "word": "王濛说没人能管李小冉",
+      "onboard_time": 1776406820,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203871,
       "num": 203871,
       "word": "偷偷藏不住剧组亮相北影节",
@@ -417,14 +441,6 @@
       "onboard_time": 1776388640,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 186073,
-      "num": 118133,
-      "word": "朴春手写信回应曝朴山多拉涉毒",
-      "onboard_time": 1776405560,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 184247,
@@ -627,6 +643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121050,
+      "num": 112216,
+      "word": "念相思开通官微",
+      "onboard_time": 1776399801,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117418,
       "num": 117418,
       "word": "浪姐一公乘风值排名",
@@ -659,28 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112216,
-      "num": 112216,
-      "word": "念相思开通官微",
-      "onboard_time": 1776399801,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111026,
       "num": 75571,
       "word": "钟丽缇55岁了",
       "onboard_time": 1776383119,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109593,
-      "num": 109593,
-      "word": "孙怡动用人脉当上了最不想当的队长",
-      "onboard_time": 1776405981,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 108274,
@@ -811,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86206,
+      "num": 86206,
+      "word": "乳腺癌高危人群建议30岁起每年检查",
+      "onboard_time": 1776404839,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85980,
       "num": 85980,
       "word": "舒淇给自己煮瘦面",
@@ -857,6 +873,14 @@
       "onboard_time": 1776353302,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83611,
+      "num": 83611,
+      "word": "被阴天的紫外线背刺了",
+      "onboard_time": 1776406643,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 83343,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74477,
+      "num": 74477,
+      "word": "雷军说被黑最惨的都是最优秀公司",
+      "onboard_time": 1776405441,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74315,
       "num": 161063,
       "word": "AG 狂魔哥",
@@ -1139,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61472,
+      "num": 85112,
+      "word": "朝鲜发声直指日本",
+      "onboard_time": 1776406520,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61256,
       "num": 61256,
       "word": "网红耳机壳造型被指擦边男凝",
@@ -1259,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48566,
+      "num": 128154,
+      "word": "从郑州出发寻根世界",
+      "onboard_time": 1776406460,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46369,
       "num": 144565,
       "word": "停火生效前以军大规模空袭黎",
@@ -1299,20 +1347,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41364,
+      "num": 145015,
+      "word": "日本诋毁邻国是为再军事化辩护",
+      "onboard_time": 1776405681,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39426,
       "num": 39426,
       "word": "张真源贺峻霖是不是有点暧昧了",
       "onboard_time": 1776355939,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38325,
-      "num": 145015,
-      "word": "日本诋毁邻国是为再军事化辩护",
-      "onboard_time": 1776405681,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38322,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1776361756,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35199,
+      "num": 108764,
+      "word": "黎巴嫩民众庆祝黎以临时停火生效",
+      "onboard_time": 1776406580,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33852,
