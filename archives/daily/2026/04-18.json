@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776453157016,
+  "endTime": 1776454705054,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -531,11 +531,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48080,
+      "num": 48080,
+      "word": "豆包型人格",
+      "onboard_time": 1776453494,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46043,
       "num": 91797,
       "word": "以宣布基本解除战时限制",
       "onboard_time": 1776435261,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44733,
+      "num": 68019,
+      "word": "新西兰军机多次抵近中国周边空域",
+      "onboard_time": 1776449715,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1776450975,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39333,
-      "num": 68019,
-      "word": "新西兰军机多次抵近中国周边空域",
-      "onboard_time": 1776449715,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27279,

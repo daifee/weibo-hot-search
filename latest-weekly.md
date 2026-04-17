@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/12 00:47:21 ~ 2026/04/18 03:12:37
+本榜单时间：2026/04/12 00:47:21 ~ 2026/04/18 03:38:25
 </p>
 </blockquote>
 <p>
@@ -10581,6 +10581,12 @@ IU新剧向男主求婚这段（热度：50884）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
+豆包型人格（热度：48080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E8%B5%B4%E7%BE%8E%E5%9B%BD%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%85%A5%E5%A2%83%E5%AE%89%E5%85%A8%23" target="weibo">
 提醒赴美国中国公民注意入境安全（热度：48006）
 </a>
@@ -10721,6 +10727,12 @@ vivo长焦下的鸟类图鉴（热度：47240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E8%BF%9E%E7%9D%80%E4%B8%A4%E5%A4%A9%E6%B7%98%E6%B1%B0%E4%B8%A4%E4%B8%AA%E5%A4%AE%E8%A7%86%E5%89%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%23" target="weibo">
 浪姐连着两天淘汰两个央视前主持人（热度：44827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%9B%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%91%A8%E8%BE%B9%E7%A9%BA%E5%9F%9F%23" target="weibo">
+新西兰军机多次抵近中国周边空域（热度：44733）
 </a>
 </li>
 
@@ -10973,12 +10985,6 @@ vivo长焦下的鸟类图鉴（热度：47240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%83%BD%E4%B8%8D%E8%83%BD%E5%86%8D%E6%8B%8D%E4%B8%AA%E7%8E%B0%E5%81%B6%23" target="weibo">
 龚俊能不能再拍个现偶（热度：39414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%9B%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%91%A8%E8%BE%B9%E7%A9%BA%E5%9F%9F%23" target="weibo">
-新西兰军机多次抵近中国周边空域（热度：39333）
 </a>
 </li>
 

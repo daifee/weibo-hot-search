@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776453157016,
+  "endTime": 1776454705054,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -42595,6 +42595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48080,
+      "num": 48080,
+      "word": "豆包型人格",
+      "onboard_time": 1776453494,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48006,
       "num": 54408,
       "word": "提醒赴美国中国公民注意入境安全",
@@ -43057,6 +43065,14 @@
       "onboard_time": 1775951719,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44733,
+      "num": 68019,
+      "word": "新西兰军机多次抵近中国周边空域",
+      "onboard_time": 1776449715,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44697,
@@ -43753,14 +43769,6 @@
       "onboard_time": 1774955725,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39333,
-      "num": 68019,
-      "word": "新西兰军机多次抵近中国周边空域",
-      "onboard_time": 1776449715,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39299,
