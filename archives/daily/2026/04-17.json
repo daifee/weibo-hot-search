@@ -1,7 +1,15 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776406871009,
+  "endTime": 1776413594885,
   "band_list": [
+    {
+      "raw_hot": 2447600,
+      "num": 784091,
+      "word": "李小冉一公第一名",
+      "onboard_time": 1776403940,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2371127,
       "num": 234833,
@@ -12,19 +20,27 @@
     },
     {
       "raw_hot": 1897068,
-      "num": 159445,
+      "num": 213328,
       "word": "曝清清性骚扰",
       "onboard_time": 1776346821,
       "rank": 20,
       "category": "电竞"
     },
     {
-      "raw_hot": 1514903,
-      "num": 582914,
-      "word": "李小冉一公第一名",
-      "onboard_time": 1776403940,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 1657267,
+      "num": 920364,
+      "word": "泰国泼水节216人死亡",
+      "onboard_time": 1776404781,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1474408,
+      "num": 1474408,
+      "word": "多平台公然传播被禁多年的暗黑动漫",
+      "onboard_time": 1776409102,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1316888,
@@ -36,11 +52,19 @@
     },
     {
       "raw_hot": 1255713,
-      "num": 300059,
+      "num": 524360,
       "word": "章若楠工作室喊话剧方",
       "onboard_time": 1776395060,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1130991,
+      "num": 918526,
+      "word": "温峥嵘二公选人被拒绝五次",
+      "onboard_time": 1776410660,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1110220,
@@ -51,12 +75,68 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 801484,
-      "num": 526323,
-      "word": "泰国泼水节216人死亡",
-      "onboard_time": 1776404781,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 986467,
+      "num": 1080933,
+      "word": "爷爷生前录音赠孙女百万遗产无效",
+      "onboard_time": 1776404721,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 897081,
+      "num": 897081,
+      "word": "央视调查暗黑动漫正侵蚀青少年",
+      "onboard_time": 1776407240,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 817286,
+      "num": 817286,
+      "word": "孙怡动用人脉当上了最不想当的队长",
+      "onboard_time": 1776405981,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 778512,
+      "num": 778512,
+      "word": "摊主因借给学生手机被家长逼到下跪",
+      "onboard_time": 1776411440,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 720993,
+      "num": 720993,
+      "word": "单依纯王菲 造型",
+      "onboard_time": 1776397221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699005,
+      "num": 699005,
+      "word": "郭敬明 选秀",
+      "onboard_time": 1776403823,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647305,
+      "num": 632402,
+      "word": "肖战王一博苏新皓时装周EMV前三",
+      "onboard_time": 1776407600,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642650,
+      "num": 642650,
+      "word": "男子4.5万月薪工作被前公司搅黄",
+      "onboard_time": 1776407180,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 622892,
@@ -75,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 585734,
-      "num": 144743,
-      "word": "单依纯王菲 造型",
-      "onboard_time": 1776397221,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 560044,
+      "num": 560044,
+      "word": "被阴天的紫外线背刺了",
+      "onboard_time": 1776406643,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 526441,
@@ -91,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505832,
-      "num": 1080933,
-      "word": "爷爷生前录音赠孙女百万遗产无效",
-      "onboard_time": 1776404721,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 505221,
+      "num": 505221,
+      "word": "爸爸 又怎么了我的大小姐",
+      "onboard_time": 1776396260,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 502917,
@@ -107,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488123,
+      "num": 488123,
+      "word": "周杰伦 者来父",
+      "onboard_time": 1776406941,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488112,
       "num": 80895,
       "word": "47岁外卖员出租屋离世一月才被发现",
@@ -115,19 +203,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485569,
-      "num": 144550,
-      "word": "郭敬明 选秀",
-      "onboard_time": 1776403823,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 472608,
-      "num": 140925,
+      "num": 346478,
       "word": "向太每月给向华强前妻10万赡养费",
       "onboard_time": 1776404721,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465177,
+      "num": 465177,
+      "word": "鹿晗工作室 躺平",
+      "onboard_time": 1776397460,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -147,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436915,
+      "num": 436915,
+      "word": "朴春手写信回应曝朴山多拉涉毒",
+      "onboard_time": 1776405560,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435602,
       "num": 568013,
       "word": "陈泽",
@@ -155,12 +251,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 421737,
+      "num": 421737,
+      "word": "王濛说没人能管李小冉",
+      "onboard_time": 1776406820,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418660,
       "num": 790142,
       "word": "北影节主持人裙子 吸雨变色",
       "onboard_time": 1776395960,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 403148,
+      "num": 446234,
+      "word": "主体性好强的一句一下就被点醒了",
+      "onboard_time": 1776403281,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 398337,
@@ -177,6 +289,14 @@
       "onboard_time": 1776389419,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379932,
+      "num": 379932,
+      "word": "医生和老师养孩子的区别",
+      "onboard_time": 1776408982,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 379223,
@@ -211,16 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357435,
-      "num": 357435,
-      "word": "孙怡动用人脉当上了最不想当的队长",
-      "onboard_time": 1776405981,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352655,
-      "num": 778952,
+      "num": 802271,
       "word": "雷军回应是否做10万以内车型",
       "onboard_time": 1776389539,
       "rank": 1,
@@ -259,8 +371,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326154,
+      "num": 326154,
+      "word": "中国女生在韩遭男子性骚扰被劝和解",
+      "onboard_time": 1776397580,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 311337,
-      "num": 143740,
+      "num": 266322,
       "word": "李纯爸爸回应李纯马頔恋情曝光",
       "onboard_time": 1776402140,
       "rank": 13,
@@ -283,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295922,
-      "num": 295922,
-      "word": "爸爸 又怎么了我的大小姐",
-      "onboard_time": 1776396260,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 293700,
+      "num": 293700,
+      "word": "橘子海乐队称华为侵权",
+      "onboard_time": 1776407302,
+      "rank": 31,
+      "category": "音乐"
     },
     {
-      "raw_hot": 288360,
-      "num": 129379,
-      "word": "朴春手写信回应曝朴山多拉涉毒",
-      "onboard_time": 1776405560,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 276987,
+      "num": 276987,
+      "word": "狗 出大事了没空跟你解释",
+      "onboard_time": 1776411680,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 276813,
@@ -315,6 +435,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259488,
+      "num": 259488,
+      "word": "猝死的年轻人大多有两个共同点",
+      "onboard_time": 1776409102,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252113,
+      "num": 252113,
+      "word": "泼水节 变味儿",
+      "onboard_time": 1776410540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247996,
+      "num": 810231,
+      "word": "雷军称考虑过出大众配置车型",
+      "onboard_time": 1776406160,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 243903,
+      "num": 243903,
+      "word": "阿拉蕾长这么高了",
+      "onboard_time": 1776398361,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242032,
       "num": 242032,
       "word": "单依纯王菲 撞造型",
@@ -324,7 +476,7 @@
     },
     {
       "raw_hot": 235561,
-      "num": 144076,
+      "num": 174263,
       "word": "中方否决涉霍尔木兹海峡决议草案",
       "onboard_time": 1776400941,
       "rank": 12,
@@ -339,20 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217817,
-      "num": 142410,
-      "word": "阿拉蕾长这么高了",
-      "onboard_time": 1776398361,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217744,
       "num": 166488,
       "word": "包洁仪回应凄惨身世是假的",
       "onboard_time": 1776393260,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216720,
+      "num": 797250,
+      "word": "杭州用一个针头给15人采血事件后续",
+      "onboard_time": 1776412881,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 216071,
@@ -379,28 +531,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 213296,
+      "num": 213296,
+      "word": "时代峰峻助理 从一代干到四代",
+      "onboard_time": 1776412581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208068,
       "num": 653447,
       "word": "中国不吸烟女性二手烟暴露率达70%",
       "onboard_time": 1776354981,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205622,
-      "num": 157554,
-      "word": "鹿晗工作室 躺平",
-      "onboard_time": 1776397460,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204495,
-      "num": 124805,
-      "word": "王濛说没人能管李小冉",
-      "onboard_time": 1776406820,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 203871,
@@ -411,12 +555,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203339,
+      "num": 203339,
+      "word": "神仙肉 念相思",
+      "onboard_time": 1776408561,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201757,
+      "num": 201757,
+      "word": "朴彩英宋雨琦活动生图",
+      "onboard_time": 1776403040,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201526,
       "num": 201526,
       "word": "低精力都去查一下维d",
       "onboard_time": 1776351683,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196821,
+      "num": 196821,
+      "word": "曾沛慈个人喜爱度第五",
+      "onboard_time": 1776407360,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 196155,
@@ -435,20 +603,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193088,
+      "num": 201815,
+      "word": "老师低血糖晕倒前被学生稳稳托住",
+      "onboard_time": 1776409913,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186716,
       "num": 186716,
       "word": "诈骗已经对孩子下手了",
       "onboard_time": 1776388640,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 184247,
-      "num": 142908,
-      "word": "中国女生在韩遭男子性骚扰被劝和解",
-      "onboard_time": 1776397580,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 183775,
@@ -491,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173269,
-      "num": 140023,
-      "word": "朴彩英宋雨琦活动生图",
-      "onboard_time": 1776403040,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168748,
       "num": 213336,
       "word": "心源性猝死为什么盯上年轻人",
@@ -531,12 +691,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163041,
+      "num": 163041,
+      "word": "念相思",
+      "onboard_time": 1776408380,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160862,
+      "num": 160862,
+      "word": "郭敬明终于拍he了",
+      "onboard_time": 1776408261,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160190,
-      "num": 136827,
+      "num": 149150,
       "word": "TF四代 八小只",
       "onboard_time": 1776398361,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158409,
+      "num": 151921,
+      "word": "陈昊宇门牙呢",
+      "onboard_time": 1776410901,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 155133,
@@ -545,6 +729,14 @@
       "onboard_time": 1776389060,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154261,
+      "num": 154261,
+      "word": "怀民亦未寝的瞬间",
+      "onboard_time": 1776409040,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 153410,
@@ -579,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139715,
-      "num": 139715,
-      "word": "主体性好强的一句一下就被点醒了",
-      "onboard_time": 1776403281,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139297,
       "num": 139297,
       "word": "94斤女生打司美格鲁肽减肥被送急诊",
@@ -601,6 +785,14 @@
       "onboard_time": 1776343640,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131214,
+      "num": 513916,
+      "word": "白象品牌代言人孙颖莎",
+      "onboard_time": 1776409460,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 129965,
@@ -875,28 +1067,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83611,
-      "num": 83611,
-      "word": "被阴天的紫外线背刺了",
-      "onboard_time": 1776406643,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83343,
       "num": 83343,
       "word": "特朗普称以黎停火10天",
       "onboard_time": 1776355100,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83335,
-      "num": 83335,
-      "word": "雷军称考虑过出大众配置车型",
-      "onboard_time": 1776406160,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 82352,
@@ -1307,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48280,
+      "num": 505433,
+      "word": "律师谈中国女生在韩遭男子性骚扰",
+      "onboard_time": 1776413001,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46369,
       "num": 144565,
       "word": "停火生效前以军大规模空袭黎",
@@ -1475,6 +1659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25261,
+      "num": 920494,
+      "word": "优质网络主播中国行山西行",
+      "onboard_time": 1776413061,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24835,
       "num": 624406,
       "word": "首发首展首秀集中亮相消博会",
@@ -1548,6 +1740,9 @@
     },
     {
       "word": "#总书记引领质量强国建设#"
+    },
+    {
+      "word": "#推动全民阅读建设书香社会#"
     }
   ]
 }
