@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/18 00:12:45 ~ 2026/04/18 07:09:26
+本榜单时间：2026/04/18 00:12:45 ~ 2026/04/18 07:49:17
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9B%9E%E5%BA%94%E5%92%8C%E9%98%9A%E6%B8%85%E5%AD%90%E5%85%B3%E7%B3%BB%23" target="weibo">
 孙怡回应和阚清子关系（热度：1930656）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%AB%E5%9A%A3%E5%87%BB%E6%B2%89%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%23" target="weibo">
+日本叫嚣击沉中国航母（热度：1336811）
 </a>
 </li>
 
@@ -69,14 +75,32 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%AB%E5%9A%A3%E5%87%BB%E6%B2%89%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%23" target="weibo">
-日本叫嚣击沉中国航母（热度：813859）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%88%B0%E8%89%87%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%A4%84%E7%BD%AE%23" target="weibo">
+日舰艇进入台湾海峡被中国军队处置（热度：784366）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23" target="weibo">
 伊朗开放霍尔木兹特朗普发帖说谢谢（热度：757781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A4%E5%8D%AB%E8%88%B0%E4%B8%8E%E5%A4%96%E8%88%B0%E7%BC%A0%E6%96%9720%E5%B0%8F%E6%97%B6%23" target="weibo">
+解放军护卫舰与外舰缠斗20小时（热度：753746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%B3%95%E5%93%81%E7%B1%BB%E4%B8%BA%E4%BD%95%E6%88%90%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E9%87%8D%E7%81%BE%E5%8C%BA%23" target="weibo">
+蛋糕品类为何成幽灵外卖重灾区（热度：667185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%87%BA%E8%A1%802000ml%E7%9B%B8%E5%BD%93%E6%80%BB%E8%A1%80%E9%87%8F%E4%B8%80%E5%8D%8A%23" target="weibo">
+女子同房后出血2000ml相当总血量一半（热度：665107）
 </a>
 </li>
 
@@ -105,14 +129,26 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%85%AC%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
-李小冉一公第一名（热度：421899）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23" target="weibo">
+东部战区回应日舰过航台湾海峡（热度：458493）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23" target="weibo">
-东部战区回应日舰过航台湾海峡（热度：419828）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%88%86%E6%96%99%E7%94%A8%E7%8C%AE%E8%A1%80%E8%AF%81%E6%8D%A2%E8%A1%80%E5%B7%B2%E6%88%90%E5%B8%B8%E6%80%81%23" target="weibo">
+医生爆料用献血证换血已成常态（热度：457408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%BE%97%E8%B6%85%E7%BA%A7%E6%9D%86%E4%BD%8D%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%23" target="weibo">
+张雪机车夺得超级杆位赛第二名（热度：450902）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%85%AC%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
+李小冉一公第一名（热度：421899）
 </a>
 </li>
 
@@ -123,26 +159,8 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%BE%97%E8%B6%85%E7%BA%A7%E6%9D%86%E4%BD%8D%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%23" target="weibo">
-张雪机车夺得超级杆位赛第二名（热度：401607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A4%E5%8D%AB%E8%88%B0%E4%B8%8E%E5%A4%96%E8%88%B0%E7%BC%A0%E6%96%9720%E5%B0%8F%E6%97%B6%23" target="weibo">
-解放军护卫舰与外舰缠斗20小时（热度：395229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B0%8F%E5%AD%A6%E5%B0%B1%E5%83%8F%E5%B7%A8%E4%BA%BA%23" target="weibo">
 张凌赫小学就像巨人（热度：379543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%B3%95%E5%93%81%E7%B1%BB%E4%B8%BA%E4%BD%95%E6%88%90%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E9%87%8D%E7%81%BE%E5%8C%BA%23" target="weibo">
-蛋糕品类为何成幽灵外卖重灾区（热度：373473）
 </a>
 </li>
 
@@ -167,12 +185,6 @@ Angelababy陈赫拥抱（热度：1038801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23" target="weibo">
 拼多多美团京东淘天抖音被罚35亿（热度：336723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%88%86%E6%96%99%E7%94%A8%E7%8C%AE%E8%A1%80%E8%AF%81%E6%8D%A2%E8%A1%80%E5%B7%B2%E6%88%90%E5%B8%B8%E6%80%81%23" target="weibo">
-医生爆料用献血证换血已成常态（热度：325591）
 </a>
 </li>
 
@@ -231,6 +243,12 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%88%86%E6%96%99%E6%B5%AA%E5%A7%90%E5%BD%95%E5%88%B6%E6%97%B6%E5%8E%95%E6%89%80%E9%97%A8%E6%98%AF%E9%94%81%E7%9A%84%23" target="weibo">
+谢娜爆料浪姐录制时厕所门是锁的（热度：213811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%BA%8C%E7%BB%B4%E7%A0%81%23" target="weibo">
 穆祉丞二维码（热度：203119）
 </a>
@@ -239,6 +257,12 @@ Angelababy陈赫拥抱（热度：1038801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%AD%99%E5%A5%B3%E5%81%B7%E5%81%B7%E7%BB%93%E5%A9%9A7%E6%97%AC%E7%88%B7%E7%88%B7%E8%90%BD%E6%B3%AA%23" target="weibo">
 20岁孙女偷偷结婚7旬爷爷落泪（热度：202001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%AA%E6%9C%BA%E4%BD%8D%E7%9A%84%E6%98%AF%E5%A4%A9%E6%89%8D%E5%90%A7%23" target="weibo">
+第一个发现这个机位的是天才吧（热度：189723）
 </a>
 </li>
 
@@ -261,6 +285,12 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E6%9A%B4%E6%B6%A8%23" target="weibo">
+黄金大幅暴涨（热度：168594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%98%AF%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%23" target="weibo">
 人生是场巨大的事与愿违（热度：167455）
 </a>
@@ -269,6 +299,12 @@ Angelababy陈赫拥抱（热度：1038801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%BB%84%E7%BB%8710%E5%85%83%E8%BD%A6%E8%B4%B9%E5%8E%BB%E6%98%A5%E6%B8%B8%E7%94%B7%E5%AD%A9%E4%B8%8B%E8%BD%A6%E7%A7%92%E5%93%AD%23" target="weibo">
 学校组织10元车费去春游男孩下车秒哭（热度：163677）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%BF%83%E7%97%9B%E8%90%BD%E6%B3%AA%23" target="weibo">
+女孩偷偷领结婚证爷爷得知心痛落泪（热度：152375）
 </a>
 </li>
 
@@ -303,14 +339,20 @@ A股七姐妹（热度：143248）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%96%8A%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%94%B1%E5%B0%8F%E5%A3%B0%E7%82%B9%23" target="weibo">
-谢娜喊杜海涛唱小声点（热度：125510）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E5%8F%B7%E8%B5%9B%E8%BD%A6%E8%B5%9B%E9%81%93%E9%A3%9E%E9%A9%B0%23" target="weibo">
+王一博85号赛车赛道飞驰（热度：138269）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E7%BB%AD%E8%88%AA%23" target="weibo">
-小米新SU7续航（热度：124857）
+小米新SU7续航（热度：129666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%96%8A%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%94%B1%E5%B0%8F%E5%A3%B0%E7%82%B9%23" target="weibo">
+谢娜喊杜海涛唱小声点（热度：125510）
 </a>
 </li>
 
@@ -333,44 +375,62 @@ A股七姐妹（热度：143248）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%9428%E5%B2%81%E5%AD%95%E5%A6%87%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23" target="weibo">
+医生回应28岁孕妇确诊肺癌（热度：117166）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%A4%B1%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%23" target="weibo">
+医院回应女子同房后失血性休克（热度：103734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E5%89%8D10%E5%88%86%E9%92%9F%E8%BA%AB%E4%BD%93%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
+猝死前10分钟身体什么感觉（热度：102829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA8X29%E5%88%86%E9%92%9F%E5%A4%A7%E5%AE%9A%E7%A0%B4%E4%B8%87%23" target="weibo">
 极氪8X29分钟大定破万（热度：93553）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E5%89%8D10%E5%88%86%E9%92%9F%E8%BA%AB%E4%BD%93%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
-猝死前10分钟身体什么感觉（热度：89580）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%BB%A8%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4%E9%87%87%E8%A1%80%E4%BA%8B%E4%BB%B6%23" target="weibo">
-杭州滨江通报共用针头采血事件（热度：84394）
+杭州滨江通报共用针头采血事件（热度：92447）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%A4%B1%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%23" target="weibo">
-医院回应女子同房后失血性休克（热度：81557）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E5%95%86%E8%88%B9%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
+伊朗对所有商船开放霍尔木兹海峡（热度：89130）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%9B%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E5%91%A8%E8%BE%B9%E7%A9%BA%E5%9F%9F%23" target="weibo">
-新西兰军机多次抵近中国周边空域（热度：74888）
+新西兰军机多次抵近中国周边空域（热度：80501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E8%B7%8C%E5%B9%85%E8%B6%8510%25%23" target="weibo">
+国际油价跌幅超10%（热度：77413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BB%A5%E4%B8%BA%E5%90%83%E8%93%9D%E8%8E%93%E5%98%B4%E6%9F%93%E8%89%B2%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF%E7%99%8C%23" target="weibo">
+女子以为吃蓝莓嘴染色一查竟是癌（热度：77119）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B2%B9%E4%BB%B7%E5%BA%94%E5%A3%B0%E6%9A%B4%E8%B7%8C%23" target="weibo">
 伊朗开放霍尔木兹油价应声暴跌（热度：73013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E5%95%86%E8%88%B9%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
-伊朗对所有商船开放霍尔木兹海峡（热度：72921）
 </a>
 </li>
 
@@ -388,7 +448,7 @@ A股七姐妹（热度：143248）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B7%A8%E5%9E%8B%E5%8D%A1%E9%80%9A%E8%A3%85%E9%A5%B0%23" target="weibo">
-孙颖莎巨型卡通装饰（热度：69287）
+孙颖莎巨型卡通装饰（热度：69681）
 </a>
 </li>
 
@@ -401,12 +461,6 @@ A股七姐妹（热度：143248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E6%97%A5%E7%B1%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E7%A6%BB%E5%A2%83%23" target="weibo">
 在韩骚扰中国女生日籍男子已离境（热度：66976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E5%8F%B7%E8%B5%9B%E8%BD%A6%E8%B5%9B%E9%81%93%E9%A3%9E%E9%A9%B0%23" target="weibo">
-王一博85号赛车赛道飞驰（热度：65367）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776467366635,
+  "endTime": 1776469757445,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -17,6 +17,14 @@
       "onboard_time": 1776433461,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1336811,
+      "num": 555369,
+      "word": "日本叫嚣击沉中国航母",
+      "onboard_time": 1776444139,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1219068,
@@ -75,12 +83,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 813859,
-      "num": 360465,
-      "word": "日本叫嚣击沉中国航母",
-      "onboard_time": 1776444139,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 784366,
+      "num": 131213,
+      "word": "日舰艇进入台湾海峡被中国军队处置",
+      "onboard_time": 1776468258,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 757781,
@@ -89,6 +97,30 @@
       "onboard_time": 1776436704,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 753746,
+      "num": 1023099,
+      "word": "解放军护卫舰与外舰缠斗20小时",
+      "onboard_time": 1776434302,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 667185,
+      "num": 152796,
+      "word": "蛋糕品类为何成幽灵外卖重灾区",
+      "onboard_time": 1776451455,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 665107,
+      "num": 152724,
+      "word": "女子同房后出血2000ml相当总血量一半",
+      "onboard_time": 1776468498,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 624688,
@@ -123,20 +155,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 458493,
+      "num": 188828,
+      "word": "东部战区回应日舰过航台湾海峡",
+      "onboard_time": 1776445218,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 457408,
+      "num": 223717,
+      "word": "医生爆料用献血证换血已成常态",
+      "onboard_time": 1776441139,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450902,
+      "num": 450902,
+      "word": "张雪机车夺得超级杆位赛第二名",
+      "onboard_time": 1776442039,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421899,
       "num": 262871,
       "word": "李小冉一公第一名",
       "onboard_time": 1776403940,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419828,
-      "num": 188828,
-      "word": "东部战区回应日舰过航台湾海峡",
-      "onboard_time": 1776445218,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 413520,
@@ -147,36 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401607,
-      "num": 401607,
-      "word": "张雪机车夺得超级杆位赛第二名",
-      "onboard_time": 1776442039,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 395229,
-      "num": 511256,
-      "word": "解放军护卫舰与外舰缠斗20小时",
-      "onboard_time": 1776434302,
-      "rank": 20,
-      "category": "军事"
-    },
-    {
       "raw_hot": 379543,
       "num": 249393,
       "word": "张凌赫小学就像巨人",
       "onboard_time": 1776434841,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373473,
-      "num": 132455,
-      "word": "蛋糕品类为何成幽灵外卖重灾区",
-      "onboard_time": 1776451455,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365001,
@@ -209,14 +233,6 @@
       "onboard_time": 1776414140,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 325591,
-      "num": 223717,
-      "word": "医生爆料用献血证换血已成常态",
-      "onboard_time": 1776441139,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312668,
@@ -291,6 +307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 213811,
+      "num": 213811,
+      "word": "谢娜爆料浪姐录制时厕所门是锁的",
+      "onboard_time": 1776468557,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203119,
       "num": 235297,
       "word": "穆祉丞二维码",
@@ -305,6 +329,14 @@
       "onboard_time": 1776425362,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189723,
+      "num": 130747,
+      "word": "第一个发现这个机位的是天才吧",
+      "onboard_time": 1776469038,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 185681,
@@ -331,6 +363,14 @@
       "category": "海外新闻,军事"
     },
     {
+      "raw_hot": 168594,
+      "num": 152494,
+      "word": "黄金大幅暴涨",
+      "onboard_time": 1776468978,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167455,
       "num": 228193,
       "word": "人生是场巨大的事与愿违",
@@ -344,6 +384,14 @@
       "word": "学校组织10元车费去春游男孩下车秒哭",
       "onboard_time": 1776437602,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152375,
+      "num": 152375,
+      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
+      "onboard_time": 1776469220,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -387,20 +435,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138269,
+      "num": 138269,
+      "word": "王一博85号赛车赛道飞驰",
+      "onboard_time": 1776466817,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129666,
+      "num": 129666,
+      "word": "小米新SU7续航",
+      "onboard_time": 1776445218,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125510,
       "num": 217318,
       "word": "谢娜喊杜海涛唱小声点",
       "onboard_time": 1776440901,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124857,
-      "num": 124857,
-      "word": "小米新SU7续航",
-      "onboard_time": 1776445218,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 123356,
@@ -427,6 +483,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117166,
+      "num": 117166,
+      "word": "医生回应28岁孕妇确诊肺癌",
+      "onboard_time": 1776469279,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103734,
+      "num": 104542,
+      "word": "医院回应女子同房后失血性休克",
+      "onboard_time": 1776432622,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102829,
+      "num": 102829,
+      "word": "猝死前10分钟身体什么感觉",
+      "onboard_time": 1776458292,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93553,
       "num": 251642,
       "word": "极氪8X29分钟大定破万",
@@ -435,15 +515,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 89580,
-      "num": 89580,
-      "word": "猝死前10分钟身体什么感觉",
-      "onboard_time": 1776458292,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84394,
+      "raw_hot": 92447,
       "num": 107587,
       "word": "杭州滨江通报共用针头采血事件",
       "onboard_time": 1776445337,
@@ -451,20 +523,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81557,
-      "num": 104542,
-      "word": "医院回应女子同房后失血性休克",
-      "onboard_time": 1776432622,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 89130,
+      "num": 106215,
+      "word": "伊朗对所有商船开放霍尔木兹海峡",
+      "onboard_time": 1776445218,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 74888,
-      "num": 74888,
+      "raw_hot": 80501,
+      "num": 80501,
       "word": "新西兰军机多次抵近中国周边空域",
       "onboard_time": 1776449715,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77413,
+      "num": 77413,
+      "word": "国际油价跌幅超10%",
+      "onboard_time": 1776468138,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77119,
+      "num": 77119,
+      "word": "女子以为吃蓝莓嘴染色一查竟是癌",
+      "onboard_time": 1776469220,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73013,
@@ -472,14 +560,6 @@
       "word": "伊朗开放霍尔木兹油价应声暴跌",
       "onboard_time": 1776445637,
       "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 72921,
-      "num": 106215,
-      "word": "伊朗对所有商船开放霍尔木兹海峡",
-      "onboard_time": 1776445218,
-      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -499,7 +579,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69287,
+      "raw_hot": 69681,
       "num": 104170,
       "word": "孙颖莎巨型卡通装饰",
       "onboard_time": 1776433764,
@@ -521,14 +601,6 @@
       "onboard_time": 1776445218,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 65367,
-      "num": 65367,
-      "word": "王一博85号赛车赛道飞驰",
-      "onboard_time": 1776466817,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 57962,
