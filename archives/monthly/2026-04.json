@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776434680588,
+  "endTime": 1776438202270,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -169,6 +169,14 @@
       "onboard_time": 1775393723,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2650793,
+      "num": 467952,
+      "word": "黄金",
+      "onboard_time": 1775097680,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 2550619,
@@ -417,6 +425,14 @@
       "onboard_time": 1775980582,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1789770,
+      "num": 1789770,
+      "word": "霍尔木兹海峡开放",
+      "onboard_time": 1776431900,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1767766,
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1325423,
+      "num": 577036,
+      "word": "单依纯若捆绑王菲宣传涉嫌违法",
+      "onboard_time": 1776432562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1322586,
       "num": 690601,
       "word": "马頔 我还要生孩子呢",
@@ -857,6 +881,14 @@
       "onboard_time": 1776425719,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1297875,
+      "num": 448355,
+      "word": "Angelababy陈赫拥抱",
+      "onboard_time": 1776436342,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1297269,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1775545761,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1152037,
+      "num": 1152037,
+      "word": "雷军达成京沪高速只充一次电",
+      "onboard_time": 1776433700,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 1150971,
@@ -1355,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 962131,
+      "num": 962131,
+      "word": "芭乐的籽居然可以一整块掰下来",
+      "onboard_time": 1776430820,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 956572,
       "num": 566681,
       "word": "虞书欣丸子头",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1776146062,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 923585,
-      "num": 252792,
-      "word": "黄金",
-      "onboard_time": 1775097680,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 921414,
@@ -1649,14 +1689,6 @@
       "onboard_time": 1775735302,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 879632,
-      "num": 879632,
-      "word": "芭乐的籽居然可以一整块掰下来",
-      "onboard_time": 1776430820,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 878667,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1775228664,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 763733,
-      "num": 763733,
-      "word": "霍尔木兹海峡开放",
-      "onboard_time": 1776431900,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 763047,
@@ -3187,14 +3211,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 606566,
-      "num": 577036,
-      "word": "单依纯若捆绑王菲宣传涉嫌违法",
-      "onboard_time": 1776432562,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 606354,
       "num": 606354,
       "word": "孙俪回应蒋欣",
@@ -3995,6 +4011,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 535618,
+      "num": 432801,
+      "word": "张凌赫小学就像巨人",
+      "onboard_time": 1776434841,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534793,
       "num": 211755,
       "word": "特朗普威胁对向伊朗供武的国家加税",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1775577322,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521722,
+      "num": 521722,
+      "word": "麦当劳肯德基 宿敌cp",
+      "onboard_time": 1776434240,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 521239,
@@ -4763,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485317,
+      "num": 443327,
+      "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+      "onboard_time": 1776436704,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 485189,
       "num": 485189,
       "word": "lululemon或与不孕等风险相关",
@@ -4795,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482065,
+      "num": 549674,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1775829563,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481975,
       "num": 292911,
       "word": "霍思燕最争气的是她自己",
@@ -4817,6 +4865,14 @@
       "onboard_time": 1776216320,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 480738,
+      "num": 530447,
+      "word": "解放军护卫舰与外舰缠斗20小时",
+      "onboard_time": 1776434302,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 479793,
@@ -4915,6 +4971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473345,
+      "num": 473345,
+      "word": "魏晨现身张杰演唱会",
+      "onboard_time": 1776435023,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 472608,
       "num": 374172,
       "word": "向太每月给向华强前妻10万赡养费",
@@ -4929,14 +4993,6 @@
       "onboard_time": 1775276121,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471819,
-      "num": 570982,
-      "word": "雷军达成京沪高速只充一次电",
-      "onboard_time": 1776433700,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 470857,
@@ -5841,6 +5897,14 @@
       "onboard_time": 1776414501,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419298,
+      "num": 473011,
+      "word": "张雪机车荷兰站",
+      "onboard_time": 1776436822,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 418977,
@@ -9627,6 +9691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295785,
+      "num": 538723,
+      "word": "白发或是身体的抗癌警报",
+      "onboard_time": 1776422299,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 295160,
       "num": 328817,
       "word": "公安部力挺张雪新手禁令",
@@ -11523,14 +11595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253423,
-      "num": 549674,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1775829563,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253348,
       "num": 149973,
       "word": "沈腾你干脆躺马丽怀里得了呗",
@@ -11947,6 +12011,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 244247,
+      "num": 424472,
+      "word": "儿子晒96岁父亲的三无精致生活",
+      "onboard_time": 1776432081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244214,
       "num": 133241,
       "word": "滴露要求5幼猫死亡主人举证",
@@ -12187,6 +12259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 240089,
+      "num": 500418,
+      "word": "谢娜回应网友问抚养权判给谁了",
+      "onboard_time": 1776432982,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240063,
       "num": 240063,
       "word": "快乐家族在张杰演唱会团建",
@@ -12417,14 +12497,6 @@
       "onboard_time": 1775302943,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235393,
-      "num": 538723,
-      "word": "白发或是身体的抗癌警报",
-      "onboard_time": 1776422299,
-      "rank": 33,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 235344,
@@ -13315,6 +13387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218820,
+      "num": 409154,
+      "word": "周杰伦点破女艺人困境",
+      "onboard_time": 1776437424,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218723,
       "num": 218723,
       "word": "云初令",
@@ -13345,14 +13425,6 @@
       "onboard_time": 1775294362,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218009,
-      "num": 530447,
-      "word": "解放军护卫舰与外舰缠斗20小时",
-      "onboard_time": 1776434302,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 217940,
@@ -13513,6 +13585,14 @@
       "onboard_time": 1776388640,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216044,
+      "num": 498013,
+      "word": "人生是场巨大的事与愿违",
+      "onboard_time": 1776430400,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 215909,
@@ -14563,14 +14643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200121,
-      "num": 500418,
-      "word": "谢娜回应网友问抚养权判给谁了",
-      "onboard_time": 1776432982,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199932,
       "num": 199932,
       "word": "吃12个汉堡被拉黑女子不接受道歉",
@@ -15067,14 +15139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192671,
-      "num": 498013,
-      "word": "人生是场巨大的事与愿违",
-      "onboard_time": 1776430400,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192626,
       "num": 192626,
       "word": "北京警方提醒苹果手机用户",
@@ -15139,6 +15203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191359,
+      "num": 402093,
+      "word": "A股七姐妹",
+      "onboard_time": 1776435442,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191312,
       "num": 721961,
       "word": "妻子的浪漫旅行",
@@ -15185,6 +15257,14 @@
       "onboard_time": 1775461281,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190683,
+      "num": 399980,
+      "word": "以宣布基本解除战时限制",
+      "onboard_time": 1776435261,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190651,
@@ -16267,6 +16347,14 @@
       "category": "国内时政,汽车"
     },
     {
+      "raw_hot": 176176,
+      "num": 394861,
+      "word": "鞠婧祎回应月鳞绮纪结局",
+      "onboard_time": 1776437123,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175877,
       "num": 175877,
       "word": "高敏感不擅长社交但擅长看穿",
@@ -16409,6 +16497,14 @@
       "onboard_time": 1775465960,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173879,
+      "num": 518997,
+      "word": "女儿摆酒庆祝爸妈离婚",
+      "onboard_time": 1776434003,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173869,
@@ -17073,6 +17169,14 @@
       "onboard_time": 1776398780,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165618,
+      "num": 383572,
+      "word": "雷军到达上海后还有余电",
+      "onboard_time": 1776437722,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 165491,
@@ -23651,6 +23755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114038,
+      "num": 464753,
+      "word": "极氪8X上市限时售价32.98万元起",
+      "onboard_time": 1776435862,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "陈飞宇 陈凯歌基因显化中",
@@ -28537,14 +28649,6 @@
       "onboard_time": 1775487803,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93824,
-      "num": 518997,
-      "word": "女儿摆酒庆祝爸妈离婚",
-      "onboard_time": 1776434003,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93795,
@@ -36627,6 +36731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71685,
+      "num": 450290,
+      "word": "魏建军为魏牌V9X品质背书",
+      "onboard_time": 1776435862,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71674,
       "num": 71674,
       "word": "小时候睡凉席的我",
@@ -42075,6 +42187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49582,
+      "num": 451281,
+      "word": "归元S平台将引发汽车产业质变",
+      "onboard_time": 1776435862,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49460,
       "num": 695805,
       "word": "清明文旅市场三线齐热",
@@ -44675,6 +44795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28355,
+      "num": 1218564,
+      "word": "中国经济在风浪中稳住了发展底盘",
+      "onboard_time": 1776430400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28323,
       "num": 174329,
       "word": "邓亚萍架起文化交流桥梁",
@@ -45129,14 +45257,6 @@
       "onboard_time": 1775131222,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25448,
-      "num": 919587,
-      "word": "中国经济在风浪中稳住了发展底盘",
-      "onboard_time": 1776430400,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25325,
@@ -46793,6 +46913,14 @@
       "onboard_time": 1775131163,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11696,
+      "num": 391039,
+      "word": "失联13天男生信号最后在缅甸侧口岸",
+      "onboard_time": 1776438143,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11569,

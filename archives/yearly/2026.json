@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776434680588,
+  "endTime": 1776438202270,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1467,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2650793,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2624503,
       "num": 246197,
       "word": "鞠婧祎 此身分明了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1959242,
-      "num": 510528,
-      "word": "伊朗向全体人民祝贺胜利",
-      "onboard_time": 1775632643,
-      "rank": 4,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
