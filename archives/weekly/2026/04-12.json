@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776425461941,
+  "endTime": 1776427111792,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1464898,
+      "num": 351829,
+      "word": "氧化菊 泼水节",
+      "onboard_time": 1776424460,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1458149,
       "num": 208347,
       "word": "楚乔传 全员下场",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1252879,
+      "num": 367635,
+      "word": "陈奕恒回应私联争议",
+      "onboard_time": 1776423259,
+      "rank": 20,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 1183525,
       "num": 1181821,
       "word": "遭割喉男孩仍有一段气管未找到",
@@ -331,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 956572,
+      "num": 362065,
+      "word": "虞书欣丸子头",
+      "onboard_time": 1776423681,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954969,
       "num": 526948,
       "word": "孙怡阚清子直播零互动",
       "onboard_time": 1775949736,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951839,
+      "num": 376396,
+      "word": "林肯号航母提供的餐食情况",
+      "onboard_time": 1776421521,
+      "rank": 15,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 926242,
@@ -377,14 +409,6 @@
       "onboard_time": 1776407240,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 895346,
-      "num": 367635,
-      "word": "陈奕恒回应私联争议",
-      "onboard_time": 1776423259,
-      "rank": 20,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 892359,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729613,
+      "num": 378644,
+      "word": "穆祉丞二维码",
+      "onboard_time": 1776423861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728468,
       "num": 188355,
       "word": "魏晨儿子都这么大了",
@@ -595,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 698428,
+      "num": 901270,
+      "word": "对余某罚没10亿余元",
+      "onboard_time": 1776421460,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 698085,
       "num": 186002,
       "word": "金鹤龙化的田曦薇",
@@ -641,14 +681,6 @@
       "onboard_time": 1776092064,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 689560,
-      "num": 378644,
-      "word": "穆祉丞二维码",
-      "onboard_time": 1776423861,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 684862,
@@ -995,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 573086,
-      "num": 376396,
-      "word": "林肯号航母提供的餐食情况",
-      "onboard_time": 1776421521,
-      "rank": 15,
-      "category": "海外新闻,军事"
-    },
-    {
       "raw_hot": 571287,
       "num": 167812,
       "word": "幸运咖 迪丽热巴",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1776208518,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512854,
+      "num": 415739,
+      "word": "工作为什么默认能用我的手机",
+      "onboard_time": 1776413782,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 512188,
@@ -1435,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 478541,
-      "num": 478541,
-      "word": "对余某罚没10亿余元",
-      "onboard_time": 1776421460,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 472608,
       "num": 374172,
       "word": "向太每月给向华强前妻10万赡养费",
@@ -1611,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446630,
-      "num": 362065,
-      "word": "虞书欣丸子头",
-      "onboard_time": 1776423681,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 446349,
       "num": 164104,
       "word": "痞幼胖了17斤",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1776354861,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 434154,
+      "num": 283424,
+      "word": "都美竹被强执",
+      "onboard_time": 1776425719,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 433097,
@@ -1819,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415739,
-      "num": 415739,
-      "word": "工作为什么默认能用我的手机",
-      "onboard_time": 1776413782,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 414826,
       "num": 822297,
       "word": "天安门挂起中西越三国国旗",
@@ -1987,6 +2003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 389951,
+      "num": 354329,
+      "word": "钟丽缇女儿Jaden回应不是混血",
+      "onboard_time": 1776420981,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389091,
       "num": 389091,
       "word": "李小冉唐艺昕后台玩手机",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1776245480,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 388061,
+      "num": 388076,
+      "word": "费曼学什么这么贵啊",
+      "onboard_time": 1776413962,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 386549,
@@ -2216,14 +2248,6 @@
       "word": "叶舒华ins评论区",
       "onboard_time": 1776244100,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 367781,
-      "num": 354329,
-      "word": "钟丽缇女儿Jaden回应不是混血",
-      "onboard_time": 1776420981,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2561,14 +2585,6 @@
       "onboard_time": 1775950878,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 333581,
-      "num": 351829,
-      "word": "氧化菊 泼水节",
-      "onboard_time": 1776424460,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 332869,
@@ -3019,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302804,
-      "num": 388076,
-      "word": "费曼学什么这么贵啊",
-      "onboard_time": 1776413962,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301866,
       "num": 118929,
       "word": "唐禹哲承认逃兵役",
@@ -3291,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282485,
+      "num": 346850,
+      "word": "老人做饭关气不关灶引发爆燃",
+      "onboard_time": 1776423081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281513,
       "num": 146692,
       "word": "张婉婷自曝妈妈不是亲生母亲",
@@ -3531,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264735,
+      "num": 333691,
+      "word": "刘浩存 没有给代拍好脸色的义务",
+      "onboard_time": 1776421281,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264542,
       "num": 264542,
       "word": "北电出成绩",
@@ -3561,6 +3585,14 @@
       "onboard_time": 1776073762,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261543,
+      "num": 345146,
+      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+      "onboard_time": 1776425362,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261484,
@@ -4179,12 +4211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227116,
-      "num": 346850,
-      "word": "老人做饭关气不关灶引发爆燃",
-      "onboard_time": 1776423081,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 226686,
+      "num": 328413,
+      "word": "月鳞绮纪四位主演出镜时长",
+      "onboard_time": 1776424761,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 225796,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1776138561,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220962,
+      "num": 320507,
+      "word": "阚清子发浪姐大合照",
+      "onboard_time": 1776424700,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 220324,
@@ -4539,28 +4579,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207153,
-      "num": 328413,
-      "word": "月鳞绮纪四位主演出镜时长",
-      "onboard_time": 1776424761,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206928,
       "num": 206928,
       "word": "直播晕倒被辞退女主播发声",
       "onboard_time": 1775925800,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206249,
-      "num": 320507,
-      "word": "阚清子发浪姐大合照",
-      "onboard_time": 1776424700,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 206137,
@@ -4681,14 +4705,6 @@
       "onboard_time": 1776003683,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200993,
-      "num": 333691,
-      "word": "刘浩存 没有给代拍好脸色的义务",
-      "onboard_time": 1776421281,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 200484,
@@ -5019,6 +5035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185831,
+      "num": 371814,
+      "word": "张雪机车夺冠后首秀",
+      "onboard_time": 1776420441,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184649,
       "num": 154507,
       "word": "lululemon中国市场成救命稻草",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1775962700,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177704,
+      "num": 177704,
+      "word": "露芜衣寄灵圆房",
+      "onboard_time": 1776426381,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 177591,
@@ -5907,6 +5939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149839,
+      "num": 340874,
+      "word": "警方通报女子称遭强奸嫌疑人被取保",
+      "onboard_time": 1776424042,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 149768,
       "num": 156292,
       "word": "阿尔卡拉斯vs辛纳",
@@ -5937,6 +5977,14 @@
       "onboard_time": 1776080842,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149527,
+      "num": 314264,
+      "word": "胡峥楠出任小米集团副总裁",
+      "onboard_time": 1776425300,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 149283,
@@ -6105,6 +6153,14 @@
       "onboard_time": 1776172342,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143649,
+      "num": 139117,
+      "word": "白日提灯豆瓣6.7",
+      "onboard_time": 1776421521,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143513,
@@ -6451,14 +6507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136037,
-      "num": 314264,
-      "word": "胡峥楠出任小米集团副总裁",
-      "onboard_time": 1776425300,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 135904,
       "num": 135904,
       "word": "莫氏鸡煲走红亲戚发声",
@@ -6601,14 +6649,6 @@
       "onboard_time": 1776051921,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131971,
-      "num": 371814,
-      "word": "张雪机车夺冠后首秀",
-      "onboard_time": 1776420441,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 131961,
@@ -7491,6 +7531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 113827,
+      "num": 298443,
+      "word": "将军请喝茶",
+      "onboard_time": 1776425661,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113669,
       "num": 113669,
       "word": "宋浩然又做医美了",
@@ -7841,14 +7889,6 @@
       "onboard_time": 1776229042,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107367,
-      "num": 340874,
-      "word": "警方通报女子称遭强奸嫌疑人被取保",
-      "onboard_time": 1776424042,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106900,
@@ -9793,6 +9833,14 @@
       "onboard_time": 1775988080,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85890,
+      "num": 179522,
+      "word": "什么叫幽灵店铺",
+      "onboard_time": 1776426621,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85743,
@@ -13707,6 +13755,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 43607,
+      "num": 178081,
+      "word": "幽灵外卖是啥",
+      "onboard_time": 1776427040,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43585,
       "num": 61376,
       "word": "刘雅瑟深v开到腰了",
@@ -14123,6 +14179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34451,
+      "num": 178874,
+      "word": "医院通报医生将患者引荐到私立医院",
+      "onboard_time": 1776426921,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 34381,
       "num": 152931,
       "word": "1997年的东方青苍决定去考公",
@@ -14225,6 +14289,14 @@
       "onboard_time": 1775963721,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32444,
+      "num": 178638,
+      "word": "外卖大战后骑手收入断崖下跌",
+      "onboard_time": 1776426921,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32107,
@@ -14657,14 +14729,6 @@
       "onboard_time": 1775993541,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25310,
-      "num": 345146,
-      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
-      "onboard_time": 1776425362,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25306,
