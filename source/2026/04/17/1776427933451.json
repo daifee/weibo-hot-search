@@ -1,0 +1,410 @@
+{
+  "runTime": 1776427933451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377440,
+        "num": 1377440,
+        "word": "拼多多美团京东淘天抖音被罚35亿",
+        "onboard_time": 1776414140,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 558062,
+        "num": 887022,
+        "word": "对余某罚没10亿余元",
+        "onboard_time": 1776421460,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20592,
+        "num": 686442,
+        "word": "优质网络主播中国行山西行",
+        "onboard_time": 1776413061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514591,
+        "num": 514591,
+        "word": "工作为什么默认能用我的手机",
+        "onboard_time": 1776413782,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435283,
+        "num": 435283,
+        "word": "雷军问直播放歌有没有版权问题",
+        "onboard_time": 1776420381,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 396729,
+        "num": 396729,
+        "word": "一日本自卫队舰艇进入台湾海峡",
+        "onboard_time": 1776414261,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359957,
+        "num": 359957,
+        "word": "责令7平台暂停新增蛋糕店铺",
+        "onboard_time": 1776415641,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 329537,
+        "num": 329537,
+        "word": "冰湖重生豆瓣3.2",
+        "onboard_time": 1776417080,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261104,
+        "num": 329176,
+        "word": "刘浩存 没有给代拍好脸色的义务",
+        "onboard_time": 1776421281,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 327328,
+        "word": "幽灵外卖是啥",
+        "onboard_time": 1776427040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1964967,
+        "num": 327245,
+        "word": "朱迅已抗癌20年",
+        "onboard_time": 1776416781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1529294,
+        "num": 325844,
+        "word": "氧化菊 泼水节",
+        "onboard_time": 1776424460,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 839277,
+        "num": 323951,
+        "word": "林肯号航母提供的餐食情况",
+        "onboard_time": 1776421521,
+        "rank": 12,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 881720,
+        "num": 322782,
+        "word": "虞书欣丸子头",
+        "onboard_time": 1776423681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57120,
+        "num": 322178,
+        "word": "将军请喝茶",
+        "onboard_time": 1776425661,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239968,
+        "num": 321041,
+        "word": "费曼学什么这么贵啊",
+        "onboard_time": 1776413962,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 817433,
+        "num": 319805,
+        "word": "都美竹被强执",
+        "onboard_time": 1776425719,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109554,
+        "num": 318588,
+        "word": "28岁孕妇突发胸闷气促查出肺癌",
+        "onboard_time": 1776427280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104744,
+        "num": 317599,
+        "word": "因反对装电梯住户养200只猫报复邻居",
+        "onboard_time": 1776427100,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41359,
+        "num": 316931,
+        "word": "医院通报医生将患者引荐到私立医院",
+        "onboard_time": 1776426921,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1201385,
+        "num": 315328,
+        "word": "陈奕恒回应私联争议",
+        "onboard_time": 1776423259,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 704506,
+        "num": 313957,
+        "word": "李小冉一公第一名",
+        "onboard_time": 1776403940,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489916,
+        "num": 312758,
+        "word": "摊主因借给学生手机被家长逼到下跪",
+        "onboard_time": 1776411440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664351,
+        "num": 311950,
+        "word": "穆祉丞二维码",
+        "onboard_time": 1776423861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446012,
+        "num": 310873,
+        "word": "温峥嵘二公选人被拒绝五次",
+        "onboard_time": 1776410660,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336885,
+        "num": 309285,
+        "word": "妈妈确诊癌症晚期一年后女儿被杀",
+        "onboard_time": 1776414501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397286,
+        "num": 308188,
+        "word": "钟丽缇女儿Jaden回应不是混血",
+        "onboard_time": 1776420981,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362986,
+        "num": 307500,
+        "word": "章泽天外媒生图",
+        "onboard_time": 1776414623,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306748,
+        "num": 306748,
+        "word": "多平台公然传播被禁多年的暗黑动漫",
+        "onboard_time": 1776409102,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299366,
+        "num": 299366,
+        "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+        "onboard_time": 1776425362,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284257,
+        "num": 284257,
+        "word": "Gucci不能再把中国市场当垃圾桶",
+        "onboard_time": 1776427882,
+        "rank": 30,
+        "category": "时尚,民生新闻"
+      },
+      {
+        "raw_hot": 270722,
+        "num": 270722,
+        "word": "章若楠方补充说明",
+        "onboard_time": 1776416960,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263322,
+        "num": 263322,
+        "word": "老人做饭关气不关灶引发爆燃",
+        "onboard_time": 1776423081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247538,
+        "num": 247538,
+        "word": "阚清子发浪姐大合照",
+        "onboard_time": 1776424700,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228144,
+        "num": 228144,
+        "word": "月鳞绮纪四位主演出镜时长",
+        "onboard_time": 1776424761,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190529,
+        "num": 190529,
+        "word": "A股新股王诞生了",
+        "onboard_time": 1776413840,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196790,
+        "num": 188499,
+        "word": "鹿晗小七预售",
+        "onboard_time": 1776427521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179390,
+        "num": 179390,
+        "word": "Gr对战AXIZ",
+        "onboard_time": 1776427762,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176384,
+        "num": 176384,
+        "word": "男子杀人后和妻儿与尸体生活多年",
+        "onboard_time": 1776419241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67691,
+        "num": 175219,
+        "word": "外卖大战后骑手收入断崖下跌",
+        "onboard_time": 1776426921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "孙怡动用人脉当上了最不想当的队长",
+        "onboard_time": 1776405981,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157195,
+        "num": 157195,
+        "word": "男子4.5万月薪工作被前公司搅黄",
+        "onboard_time": 1776407180,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168150,
+        "num": 157142,
+        "word": "江语晨带孩子们看浪姐",
+        "onboard_time": 1776423560,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "白发或是身体的抗癌警报",
+        "onboard_time": 1776422299,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 144394,
+        "num": 144394,
+        "word": "日本人威胁给我使馆装炸弹",
+        "onboard_time": 1776417500,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142345,
+        "num": 142345,
+        "word": "杭州用一个针头给15人采血事件后续",
+        "onboard_time": 1776412881,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141864,
+        "num": 141864,
+        "word": "井川里予回应穿山寨礼服",
+        "onboard_time": 1776427700,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140494,
+        "num": 140494,
+        "word": "露芜衣寄灵圆房",
+        "onboard_time": 1776426381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135527,
+        "num": 135527,
+        "word": "张雪机车夺冠后首秀",
+        "onboard_time": 1776420441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85290,
+        "num": 135404,
+        "word": "什么叫幽灵店铺",
+        "onboard_time": 1776426621,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动全民阅读建设书香社会#"
+    }
+  }
+}

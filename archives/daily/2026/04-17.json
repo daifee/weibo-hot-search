@@ -1,6 +1,6 @@
 {
   "startTime": 1776355451382,
-  "endTime": 1776427111792,
+  "endTime": 1776427933451,
   "band_list": [
     {
       "raw_hot": 3214686,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1529294,
+      "num": 351829,
+      "word": "氧化菊 泼水节",
+      "onboard_time": 1776424460,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1486173,
       "num": 1125843,
       "word": "摊主因借给学生手机被家长逼到下跪",
@@ -65,14 +73,6 @@
       "onboard_time": 1776409102,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1464898,
-      "num": 351829,
-      "word": "氧化菊 泼水节",
-      "onboard_time": 1776424460,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 1409998,
@@ -169,6 +169,14 @@
       "onboard_time": 1776414261,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 817433,
+      "num": 319805,
+      "word": "都美竹被强执",
+      "onboard_time": 1776425719,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 817286,
@@ -291,8 +299,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 512854,
-      "num": 415739,
+      "raw_hot": 514591,
+      "num": 514591,
       "word": "工作为什么默认能用我的手机",
       "onboard_time": 1776413782,
       "rank": 49,
@@ -403,14 +411,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 434154,
-      "num": 283424,
-      "word": "都美竹被强执",
-      "onboard_time": 1776425719,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 421737,
       "num": 421737,
       "word": "王濛说没人能管李小冉",
@@ -459,7 +459,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 389951,
+      "raw_hot": 397286,
       "num": 354329,
       "word": "钟丽缇女儿Jaden回应不是混血",
       "onboard_time": 1776420981,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299366,
+      "num": 345146,
+      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+      "onboard_time": 1776425362,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296346,
       "num": 137960,
       "word": "何润东回宿迁的排面拉满了",
@@ -617,6 +625,14 @@
       "onboard_time": 1776407302,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284257,
+      "num": 284257,
+      "word": "Gucci不能再把中国市场当垃圾桶",
+      "onboard_time": 1776427882,
+      "rank": 30,
+      "category": "时尚,民生新闻"
     },
     {
       "raw_hot": 282485,
@@ -667,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261543,
-      "num": 345146,
-      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
-      "onboard_time": 1776425362,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260734,
       "num": 322466,
       "word": "男子杀人后和妻儿与尸体生活多年",
@@ -705,6 +713,14 @@
       "onboard_time": 1776406160,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 247538,
+      "num": 320507,
+      "word": "阚清子发浪姐大合照",
+      "onboard_time": 1776424700,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 243903,
@@ -747,19 +763,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228144,
+      "num": 328413,
+      "word": "月鳞绮纪四位主演出镜时长",
+      "onboard_time": 1776424761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228111,
       "num": 101922,
       "word": "月鳞绮纪大结局",
       "onboard_time": 1776399440,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226686,
-      "num": 328413,
-      "word": "月鳞绮纪四位主演出镜时长",
-      "onboard_time": 1776424761,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -769,14 +785,6 @@
       "onboard_time": 1776419662,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220962,
-      "num": 320507,
-      "word": "阚清子发浪姐大合照",
-      "onboard_time": 1776424700,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 217744,
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196790,
+      "num": 188499,
+      "word": "鹿晗小七预售",
+      "onboard_time": 1776427521,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196155,
       "num": 121169,
       "word": "张凌赫深圳",
@@ -977,6 +993,14 @@
       "onboard_time": 1776354801,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179390,
+      "num": 179390,
+      "word": "Gr对战AXIZ",
+      "onboard_time": 1776427762,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 178197,
@@ -1139,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141864,
+      "num": 141864,
+      "word": "井川里予回应穿山寨礼服",
+      "onboard_time": 1776427700,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 141749,
       "num": 141749,
       "word": "粉色蓝莓一颗难求",
@@ -1236,7 +1268,7 @@
     },
     {
       "raw_hot": 113827,
-      "num": 298443,
+      "num": 322178,
       "word": "将军请喝茶",
       "onboard_time": 1776425661,
       "rank": 16,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109554,
+      "num": 318588,
+      "word": "28岁孕妇突发胸闷气促查出肺癌",
+      "onboard_time": 1776427280,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108274,
       "num": 97741,
       "word": "欧洲仅剩够用6周航空燃油",
@@ -1275,12 +1315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105547,
+      "num": 327328,
+      "word": "幽灵外卖是啥",
+      "onboard_time": 1776427040,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104853,
       "num": 103486,
       "word": "张颂文站起来和沈腾打招呼",
       "onboard_time": 1776393560,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104744,
+      "num": 317599,
+      "word": "因反对装电梯住户养200只猫报复邻居",
+      "onboard_time": 1776427100,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104435,
@@ -1715,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67691,
+      "num": 178638,
+      "word": "外卖大战后骑手收入断崖下跌",
+      "onboard_time": 1776426921,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67604,
       "num": 67604,
       "word": "绝大部分乳腺癌没有症状",
@@ -1947,14 +2011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43607,
-      "num": 178081,
-      "word": "幽灵外卖是啥",
-      "onboard_time": 1776427040,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42860,
       "num": 55366,
       "word": "韩红问李乃文是真唱吗",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1776405681,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41359,
+      "num": 316931,
+      "word": "医院通报医生将患者引荐到私立医院",
+      "onboard_time": 1776426921,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 39426,
@@ -2035,14 +2099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 34451,
-      "num": 178874,
-      "word": "医院通报医生将患者引荐到私立医院",
-      "onboard_time": 1776426921,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 33852,
       "num": 172644,
       "word": "特朗普称伊朗战事应该很快就会结束",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1776383480,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32444,
-      "num": 178638,
-      "word": "外卖大战后骑手收入断崖下跌",
-      "onboard_time": 1776426921,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31895,
