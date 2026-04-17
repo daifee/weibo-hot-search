@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776433567523,
+  "endTime": 1776434680588,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 3214686,
-      "num": 399311,
+      "num": 606660,
       "word": "朱迅已抗癌20年",
       "onboard_time": 1776416781,
       "rank": 10,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1772199803,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2466527,
+      "num": 608400,
+      "word": "孙怡回应和阚清子关系",
+      "onboard_time": 1776433461,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 2452081,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1775632643,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1955137,
-      "num": 584480,
-      "word": "胡先煦秒删博",
-      "onboard_time": 1773913821,
-      "rank": 25,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
