@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/17 23:37:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/18 00:12:45
 </p>
 </blockquote>
 <p>
@@ -1281,6 +1281,12 @@ KSG零封狼队（热度：2440831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E8%8B%A5%E6%8D%86%E7%BB%91%E7%8E%8B%E8%8F%B2%E5%AE%A3%E4%BC%A0%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
+单依纯若捆绑王菲宣传涉嫌违法（热度：2421871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%9F%A5%23" target="weibo">
 马兴瑞被查（热度：2418500）
 </a>
@@ -1613,12 +1619,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23" target="weibo">
 贾国龙让罗永浩道歉赔偿（热度：2123115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E8%8B%A5%E6%8D%86%E7%BB%91%E7%8E%8B%E8%8F%B2%E5%AE%A3%E4%BC%A0%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
-单依纯若捆绑王菲宣传涉嫌违法（热度：2120096）
 </a>
 </li>
 

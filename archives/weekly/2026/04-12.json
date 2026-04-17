@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776440263616,
+  "endTime": 1776442365031,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2421871,
+      "num": 577036,
+      "word": "单依纯若捆绑王菲宣传涉嫌违法",
+      "onboard_time": 1776432562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2371127,
       "num": 234833,
       "word": "诚实一口道歉",
@@ -81,14 +89,6 @@
       "onboard_time": 1776086243,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2120096,
-      "num": 577036,
-      "word": "单依纯若捆绑王菲宣传涉嫌违法",
-      "onboard_time": 1776432562,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 2046414,
@@ -627,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 757781,
+      "num": 757781,
+      "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+      "onboard_time": 1776436704,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 746438,
       "num": 599002,
       "word": "谁来救救孙丞潇",
@@ -713,14 +721,6 @@
       "onboard_time": 1776311363,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710947,
-      "num": 443327,
-      "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
-      "onboard_time": 1776436704,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 707910,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1776303681,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488781,
+      "num": 273579,
+      "word": "女子跳楼被男友拽5分钟后坠亡",
+      "onboard_time": 1776440120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488123,
@@ -2507,6 +2515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358278,
+      "num": 266869,
+      "word": "换电池小卡扣要13万新能源车主崩溃",
+      "onboard_time": 1776440060,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357504,
       "num": 141539,
       "word": "张曼玉没去浪姐来这了",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1776136520,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339811,
+      "num": 259862,
+      "word": "王濛练了那么多年防别人扒拉",
+      "onboard_time": 1776439522,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 338676,
@@ -3065,6 +3089,14 @@
       "onboard_time": 1776218180,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312668,
+      "num": 241138,
+      "word": "胡彦斌 BOSS直聘",
+      "onboard_time": 1776439941,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 312214,
@@ -3587,6 +3619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278467,
+      "num": 383572,
+      "word": "雷军到达上海后还有余电",
+      "onboard_time": 1776437722,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 276813,
       "num": 234089,
       "word": "郝熠然终止代言诚实一口",
@@ -3868,7 +3908,7 @@
     },
     {
       "raw_hot": 257032,
-      "num": 228315,
+      "num": 228652,
       "word": "大码女装店让S码模特穿XL样衣",
       "onboard_time": 1776438562,
       "rank": 29,
@@ -4059,14 +4099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 246214,
-      "num": 383572,
-      "word": "雷军到达上海后还有余电",
-      "onboard_time": 1776437722,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 246165,
       "num": 219307,
       "word": "何宣林二公分组",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1775954721,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240239,
+      "num": 394861,
+      "word": "鞠婧祎回应月鳞绮纪结局",
+      "onboard_time": 1776437123,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 240089,
@@ -5227,14 +5267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189002,
-      "num": 394861,
-      "word": "鞠婧祎回应月鳞绮纪结局",
-      "onboard_time": 1776437123,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188250,
       "num": 188250,
       "word": "KSG零封狼队",
@@ -5604,7 +5636,7 @@
     },
     {
       "raw_hot": 174019,
-      "num": 174019,
+      "num": 225891,
       "word": "学校组织10元车费去春游男孩下车秒哭",
       "onboard_time": 1776437602,
       "rank": 43,
@@ -5923,6 +5955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162566,
+      "num": 225267,
+      "word": "张雪机车夺得超级杆位赛第二名",
+      "onboard_time": 1776442039,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162361,
       "num": 187908,
       "word": "大英赛",
@@ -6171,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155084,
+      "num": 223717,
+      "word": "医生爆料用献血证换血已成常态",
+      "onboard_time": 1776441139,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154423,
       "num": 285725,
       "word": "雷军再次回应中间只充一次电言论",
@@ -6233,14 +6281,6 @@
       "onboard_time": 1775963840,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151942,
-      "num": 151942,
-      "word": "胡彦斌 BOSS直聘",
-      "onboard_time": 1776439941,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 151851,
@@ -6457,6 +6497,14 @@
       "onboard_time": 1776332961,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144381,
+      "num": 221741,
+      "word": "张子枫马嘉祺片场碎片",
+      "onboard_time": 1776442100,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144275,
@@ -6716,7 +6764,7 @@
     },
     {
       "raw_hot": 140210,
-      "num": 177568,
+      "num": 215817,
       "word": "东莞理工学院回应学生送外卖被通报",
       "onboard_time": 1776438262,
       "rank": 41,
@@ -7289,6 +7337,14 @@
       "onboard_time": 1775923342,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125510,
+      "num": 217318,
+      "word": "谢娜喊杜海涛唱小声点",
+      "onboard_time": 1776440901,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 125409,
@@ -10049,14 +10105,6 @@
       "onboard_time": 1776051140,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86958,
-      "num": 185440,
-      "word": "女子跳楼被男友拽5分钟后坠亡",
-      "onboard_time": 1776440120,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86942,
@@ -14521,14 +14569,6 @@
       "onboard_time": 1775973561,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 37901,
-      "num": 240690,
-      "word": "换电池小卡扣要13万新能源车主崩溃",
-      "onboard_time": 1776440060,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37661,
