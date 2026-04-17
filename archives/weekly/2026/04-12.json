@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776427933451,
+  "endTime": 1776433567523,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -131,8 +131,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1529294,
-      "num": 351829,
+      "raw_hot": 1564978,
+      "num": 1564978,
       "word": "氧化菊 泼水节",
       "onboard_time": 1776424460,
       "rank": 28,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1307794,
+      "num": 319805,
+      "word": "都美竹被强执",
+      "onboard_time": 1776425719,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1266256,
       "num": 396634,
       "word": "文章面馆 周一不见",
@@ -305,6 +313,14 @@
       "onboard_time": 1776154701,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1014062,
+      "num": 734854,
+      "word": "Gucci不能再把中国市场当垃圾桶",
+      "onboard_time": 1776427882,
+      "rank": 30,
+      "category": "时尚,民生新闻"
     },
     {
       "raw_hot": 995764,
@@ -451,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817433,
-      "num": 319805,
-      "word": "都美竹被强执",
-      "onboard_time": 1776425719,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 828571,
+      "num": 275386,
+      "word": "舒淇说我卸了妆还挺像50岁的",
+      "onboard_time": 1776430881,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 817286,
@@ -569,6 +585,14 @@
       "onboard_time": 1776423861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 729116,
+      "num": 729116,
+      "word": "芭乐的籽居然可以一整块掰下来",
+      "onboard_time": 1776430820,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 728468,
@@ -987,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 585218,
+      "num": 585218,
+      "word": "刘浩存 没有给代拍好脸色的义务",
+      "onboard_time": 1776421281,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 581009,
       "num": 503735,
       "word": "逝者托梦家属投诉入殓师未脱纸尿裤",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1775924061,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566846,
+      "num": 566846,
+      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
+      "onboard_time": 1776425362,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566346,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1776163160,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 527730,
+      "num": 264298,
+      "word": "夫胜宽女装",
+      "onboard_time": 1776429801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 526441,
@@ -1707,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431858,
+      "num": 245406,
+      "word": "单依纯若捆绑王菲宣传涉嫌违法",
+      "onboard_time": 1776432562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430944,
       "num": 1068951,
       "word": "垃圾真的不够烧",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1775976862,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416589,
+      "num": 286710,
+      "word": "霍尔木兹海峡开放",
+      "onboard_time": 1776431900,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 414826,
@@ -2065,6 +2129,14 @@
       "onboard_time": 1776163042,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382745,
+      "num": 257116,
+      "word": "许昕真的回国家队了",
+      "onboard_time": 1776431181,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 382192,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1776389539,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 352072,
+      "num": 242086,
+      "word": "刘耀文capper微博互关",
+      "onboard_time": 1776431482,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 352030,
@@ -3051,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299366,
-      "num": 345146,
-      "word": "20岁孙女偷偷结婚7旬爷爷落泪",
-      "onboard_time": 1776425362,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298833,
       "num": 188942,
       "word": "时代少年团正式官宣广州站",
@@ -3235,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287232,
+      "num": 328413,
+      "word": "月鳞绮纪四位主演出镜时长",
+      "onboard_time": 1776424761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287092,
       "num": 134054,
       "word": "ally整容模版是迪丽热巴",
@@ -3273,14 +3353,6 @@
       "onboard_time": 1776319342,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284257,
-      "num": 284257,
-      "word": "Gucci不能再把中国市场当垃圾桶",
-      "onboard_time": 1776427882,
-      "rank": 30,
-      "category": "时尚,民生新闻"
     },
     {
       "raw_hot": 284206,
@@ -3395,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278795,
+      "num": 231726,
+      "word": "DK暴打T1",
+      "onboard_time": 1776431420,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278569,
       "num": 133449,
       "word": "文章面馆排长队顾客发声",
@@ -3433,6 +3513,14 @@
       "onboard_time": 1776234920,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275340,
+      "num": 231476,
+      "word": "鹿晗小七预售",
+      "onboard_time": 1776427521,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 275007,
@@ -3563,14 +3651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264735,
-      "num": 333691,
-      "word": "刘浩存 没有给代拍好脸色的义务",
-      "onboard_time": 1776421281,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264542,
       "num": 264542,
       "word": "北电出成绩",
@@ -3593,6 +3673,14 @@
       "onboard_time": 1776323240,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261566,
+      "num": 230338,
+      "word": "孙怡回应和阚清子关系",
+      "onboard_time": 1776433461,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 261554,
@@ -3729,6 +3817,14 @@
       "onboard_time": 1775981901,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254351,
+      "num": 318588,
+      "word": "28岁孕妇突发胸闷气促查出肺癌",
+      "onboard_time": 1776427280,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254115,
@@ -4027,6 +4123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235393,
+      "num": 342545,
+      "word": "白发或是身体的抗癌警报",
+      "onboard_time": 1776422299,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 235322,
       "num": 235322,
       "word": "伊朗曝美方要均分霍尔木兹收益",
@@ -4089,6 +4193,14 @@
       "onboard_time": 1776038120,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232315,
+      "num": 232315,
+      "word": "张极又去看张杰演唱会了",
+      "onboard_time": 1776432382,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 232230,
@@ -4208,14 +4320,6 @@
       "word": "偏偏宠爱 闫桉",
       "onboard_time": 1776157881,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 228144,
-      "num": 328413,
-      "word": "月鳞绮纪四位主演出镜时长",
-      "onboard_time": 1776424761,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -4459,19 +4563,19 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 212570,
-      "num": 342545,
-      "word": "白发或是身体的抗癌警报",
-      "onboard_time": 1776422299,
-      "rank": 33,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 212562,
       "num": 130893,
       "word": "曝宋宁峰近况",
       "onboard_time": 1776254181,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212558,
+      "num": 212558,
+      "word": "孙怡直播",
+      "onboard_time": 1776428600,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -4771,6 +4875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197818,
+      "num": 197818,
+      "word": "刘耀文新歌2MANY",
+      "onboard_time": 1776432802,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197543,
       "num": 197543,
       "word": "BLG对战JDG",
@@ -4819,20 +4931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196790,
-      "num": 188499,
-      "word": "鹿晗小七预售",
-      "onboard_time": 1776427521,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196774,
       "num": 196774,
       "word": "向太晒第一次为郭碧婷拍的照片",
       "onboard_time": 1776156382,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196764,
+      "num": 196764,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1776432081,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 196463,
@@ -4947,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189533,
+      "num": 189533,
+      "word": "时代少年团广州演唱会座位图",
+      "onboard_time": 1776433281,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189430,
       "num": 140809,
       "word": "孟子义颜选缤果Pro有多懂女生",
@@ -4969,6 +5089,14 @@
       "onboard_time": 1775912664,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188186,
+      "num": 195151,
+      "word": "人生是场巨大的事与愿违",
+      "onboard_time": 1776430400,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 188129,
@@ -5041,6 +5169,14 @@
       "onboard_time": 1776150261,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186366,
+      "num": 186366,
+      "word": "谢娜回应网友问抚养权判给谁了",
+      "onboard_time": 1776432982,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 186094,
@@ -5961,6 +6097,14 @@
       "onboard_time": 1775975901,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149873,
+      "num": 215628,
+      "word": "医院回应女子同房后失血性休克",
+      "onboard_time": 1776432622,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149839,
@@ -7787,14 +7931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109554,
-      "num": 318588,
-      "word": "28岁孕妇突发胸闷气促查出肺癌",
-      "onboard_time": 1776427280,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109295,
       "num": 109295,
       "word": "伊朗早有后手",
@@ -8529,6 +8665,14 @@
       "onboard_time": 1776189495,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99964,
+      "num": 234299,
+      "word": "极氪8X首发舱驾融合超级智能体",
+      "onboard_time": 1776431122,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 99960,
@@ -12843,6 +12987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60661,
+      "num": 267090,
+      "word": "百万级AI汽车平台归元S面世",
+      "onboard_time": 1776431420,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60338,
       "num": 60338,
       "word": "峰学蔚来负责人回应公司近况",
@@ -13449,6 +13601,14 @@
       "onboard_time": 1776231141,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50232,
+      "num": 213111,
+      "word": "1岁半男孩确诊软病根源在父母身上",
+      "onboard_time": 1776432562,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50154,
@@ -14955,6 +15115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23199,
+      "num": 739662,
+      "word": "中国经济在风浪中稳住了发展底盘",
+      "onboard_time": 1776430400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22684,
       "num": 75817,
       "word": "中方反对无根据抹黑",
@@ -15551,6 +15719,9 @@
     },
     {
       "word": "#推动全民阅读建设书香社会#"
+    },
+    {
+      "word": "#习近平致电祝贺盖莱当选连任吉布提总统#"
     }
   ]
 }
