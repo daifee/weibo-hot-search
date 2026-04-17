@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776384372538,
+  "endTime": 1776396277480,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -153,6 +153,14 @@
       "onboard_time": 1776060741,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1316888,
+      "num": 525463,
+      "word": "章若楠片场拍戏走神",
+      "onboard_time": 1776388640,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1316089,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 622892,
-      "num": 97596,
+      "num": 110113,
       "word": "清清 指尖",
       "onboard_time": 1776381738,
       "rank": 21,
@@ -947,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533418,
+      "num": 172316,
+      "word": "章若楠工作室喊话剧方",
+      "onboard_time": 1776395060,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533338,
       "num": 1017790,
       "word": "4人合伙买彩票中500万后起纠纷",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1775980403,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502917,
+      "num": 145468,
+      "word": "贝嫂回应与大儿子决裂",
+      "onboard_time": 1776393260,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 502635,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1776240320,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451055,
+      "num": 376548,
+      "word": "钟汉良曾被9岁郭晓婷拒绝加好友",
+      "onboard_time": 1776391941,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 450384,
@@ -1667,6 +1699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382192,
+      "num": 1061150,
+      "word": "幼儿园老师回应睡过头被孩子们叫醒",
+      "onboard_time": 1776389419,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379223,
+      "num": 415572,
+      "word": "肺癌成中国女性第一大癌症",
+      "onboard_time": 1776378196,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 378512,
       "num": 378512,
       "word": "BIGBANG科切拉",
@@ -1731,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 373697,
+      "num": 373697,
+      "word": "中国向伊朗提供58吨物资援助",
+      "onboard_time": 1776392301,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373075,
       "num": 161517,
       "word": "女霸总余额880万谈恋爱总要钱",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1776072623,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370563,
+      "num": 136712,
+      "word": "最讨厌男人惹 清清",
+      "onboard_time": 1776393980,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 369601,
@@ -1915,14 +1979,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 354985,
-      "num": 415572,
-      "word": "肺癌成中国女性第一大癌症",
-      "onboard_time": 1776378196,
-      "rank": 1,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 354084,
       "num": 739131,
       "word": "80万开店倒闭又投40万开店小伙发声",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1776250521,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352655,
+      "num": 778952,
+      "word": "雷军回应是否做10万以内车型",
+      "onboard_time": 1776389539,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 352030,
@@ -2065,6 +2129,14 @@
       "onboard_time": 1776134721,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 342156,
+      "num": 172213,
+      "word": "陈冠希撞脸赵本山",
+      "onboard_time": 1776390799,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 341306,
@@ -2891,6 +2963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276813,
+      "num": 167205,
+      "word": "郝熠然终止代言诚实一口",
+      "onboard_time": 1776387861,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275911,
       "num": 275911,
       "word": "谢娜回应李小冉没法一起团建",
@@ -3667,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217744,
+      "num": 166488,
+      "word": "包洁仪回应凄惨身世是假的",
+      "onboard_time": 1776393260,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216626,
       "num": 216626,
       "word": "24岁抗癌博主徐平安去世",
@@ -3691,12 +3779,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216071,
+      "num": 162052,
+      "word": "张若昀从浪姐的全世界路过",
+      "onboard_time": 1776388640,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215909,
       "num": 161723,
       "word": "百妖谱 刘些宁",
       "onboard_time": 1775991742,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215365,
+      "num": 155747,
+      "word": "赵子琪张慧雯吵架视频",
+      "onboard_time": 1776389539,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 215081,
@@ -4251,6 +4355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186716,
+      "num": 186716,
+      "word": "诈骗已经对孩子下手了",
+      "onboard_time": 1776388640,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 186547,
       "num": 186547,
       "word": "我轻断食2个小时后",
@@ -4441,6 +4553,14 @@
       "onboard_time": 1776005363,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 178197,
+      "num": 117166,
+      "word": "何穗自曝儿子胃食管反流",
+      "onboard_time": 1776388521,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 177969,
@@ -4643,6 +4763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169006,
+      "num": 169006,
+      "word": "醉酒男10分钟搭讪女子3次被扇飞眼镜",
+      "onboard_time": 1776394819,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168921,
       "num": 137766,
       "word": "偶遇张元英去皮肤科",
@@ -4721,6 +4849,14 @@
       "onboard_time": 1775971161,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165019,
+      "num": 165019,
+      "word": "教资成绩",
+      "onboard_time": 1776391821,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 164873,
@@ -4977,6 +5113,14 @@
       "onboard_time": 1776092362,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155133,
+      "num": 110331,
+      "word": "白玉兰官网放唐嫣C位照",
+      "onboard_time": 1776389060,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 154423,
@@ -5867,6 +6011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129300,
+      "num": 125261,
+      "word": "单依纯李白风波后首个音综",
+      "onboard_time": 1776395720,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128905,
       "num": 175179,
       "word": "浪姐太虐了",
@@ -5921,6 +6073,14 @@
       "onboard_time": 1776317362,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127172,
+      "num": 127172,
+      "word": "狼队发文回应",
+      "onboard_time": 1776388042,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 127112,
@@ -6595,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113219,
+      "num": 108269,
+      "word": "郑丽文喊话张凌赫赴台",
+      "onboard_time": 1776388882,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113191,
       "num": 144638,
       "word": "何超蕸生平",
@@ -6857,6 +7025,14 @@
       "onboard_time": 1776382880,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108258,
+      "num": 153725,
+      "word": "被泼水致冒烟车辆刚买3个月",
+      "onboard_time": 1776395361,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108240,
@@ -7171,6 +7347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103981,
+      "num": 103981,
+      "word": "北影节主持人裙子 吸雨变色",
+      "onboard_time": 1776395960,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 103743,
+      "num": 119172,
+      "word": "全球航班大规模取消",
+      "onboard_time": 1776389961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103719,
       "num": 111306,
       "word": "女孩太想念老人睡墓碑旁不愿走",
@@ -7209,6 +7401,14 @@
       "onboard_time": 1776170000,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103107,
+      "num": 103107,
+      "word": "张颂文站起来和沈腾打招呼",
+      "onboard_time": 1776393560,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 102942,
@@ -7305,6 +7505,14 @@
       "onboard_time": 1776004883,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101819,
+      "num": 101819,
+      "word": "迪丽热巴总裁妆",
+      "onboard_time": 1776394222,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 101677,
@@ -7507,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99282,
+      "num": 99282,
+      "word": "电影版的桑稚和段嘉许",
+      "onboard_time": 1776390020,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99267,
       "num": 99267,
       "word": "同济大学启动调查程序",
@@ -7577,6 +7793,14 @@
       "onboard_time": 1776060622,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98187,
+      "num": 103109,
+      "word": "雷军直播",
+      "onboard_time": 1776389001,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 98012,
@@ -7889,6 +8113,14 @@
       "onboard_time": 1776238642,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94492,
+      "num": 94492,
+      "word": "女性可能对烟草毒性更敏感",
+      "onboard_time": 1776395361,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94464,
@@ -8617,6 +8849,14 @@
       "onboard_time": 1776090082,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86846,
+      "num": 86846,
+      "word": "王鹤棣谢景行美成建模了",
+      "onboard_time": 1776388580,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 86793,
@@ -9419,6 +9659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79400,
+      "num": 79400,
+      "word": "莫氏鸡煲捅了TVB明星窝",
+      "onboard_time": 1776388580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79385,
       "num": 79385,
       "word": "用午休时间换提早下班",
@@ -9611,6 +9859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77618,
+      "num": 100219,
+      "word": "男子被骂滚后不上班被开除获赔近16万",
+      "onboard_time": 1776388940,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77613,
       "num": 77613,
       "word": "项羽当年是缺创可贴吗",
@@ -9627,12 +9883,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77566,
+      "num": 77566,
+      "word": "李现 links给内娱上强度了",
+      "onboard_time": 1776392061,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77417,
       "num": 77417,
       "word": "习惯性吃撑",
       "onboard_time": 1776314184,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77412,
+      "num": 77412,
+      "word": "谁看孙怡这段能不笑",
+      "onboard_time": 1776394819,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77403,
@@ -9753,6 +10025,14 @@
       "onboard_time": 1776243621,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75991,
+      "num": 78446,
+      "word": "广州老外被5足机器狗惊呆了",
+      "onboard_time": 1776395180,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 75921,
@@ -10091,6 +10371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73715,
+      "num": 73715,
+      "word": "四川内江8天23起地震",
+      "onboard_time": 1776394399,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 73551,
       "num": 76078,
       "word": "大冰说我这两年的直播是刀尖上行走",
@@ -10257,6 +10545,14 @@
       "onboard_time": 1776223281,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72723,
+      "num": 72723,
+      "word": "吴昕说会在婚前做财产公证",
+      "onboard_time": 1776385462,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 72706,
@@ -10497,6 +10793,14 @@
       "onboard_time": 1775979144,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 70592,
+      "num": 161037,
+      "word": "AG 狂魔哥",
+      "onboard_time": 1776387801,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 70500,
@@ -10793,6 +11097,14 @@
       "onboard_time": 1776226167,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 67604,
+      "num": 67604,
+      "word": "绝大部分乳腺癌没有症状",
+      "onboard_time": 1776393320,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67593,
@@ -11883,6 +12195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53858,
+      "num": 143641,
+      "word": "京东携何润东请宿迁喝霸王酒",
+      "onboard_time": 1776393020,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53832,
       "num": 70897,
       "word": "谢娜担心连开两场唱跳体力",
@@ -11945,6 +12265,14 @@
       "onboard_time": 1776297080,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53160,
+      "num": 129892,
+      "word": "被尼格买提种草埃安N60",
+      "onboard_time": 1776395119,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 53049,
@@ -12867,6 +13195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 33852,
+      "num": 172644,
+      "word": "特朗普称伊朗战事应该很快就会结束",
+      "onboard_time": 1776394160,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33354,
       "num": 147356,
       "word": "神21乘组圆满完成第三次出舱",
@@ -12929,6 +13265,14 @@
       "onboard_time": 1776272417,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31895,
+      "num": 99356,
+      "word": "苏林夫人身边的中国女保镖",
+      "onboard_time": 1776395601,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31787,
@@ -13369,6 +13713,14 @@
       "onboard_time": 1775916025,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24835,
+      "num": 587330,
+      "word": "首发首展首秀集中亮相消博会",
+      "onboard_time": 1776394999,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24572,
@@ -14065,6 +14417,9 @@
     },
     {
       "word": "#做社会主义事业的命运共同体#"
+    },
+    {
+      "word": "#总书记引领质量强国建设#"
     }
   ]
 }
