@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776446107108,
+  "endTime": 1776448605179,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 810382,
+      "num": 273579,
+      "word": "女子跳楼被男友拽5分钟后坠亡",
+      "onboard_time": 1776440120,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804106,
       "num": 1126271,
       "word": "9岁男孩偷偷给爷爷带肉当地已介入",
@@ -673,14 +681,6 @@
       "onboard_time": 1776225561,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 726901,
-      "num": 273579,
-      "word": "女子跳楼被男友拽5分钟后坠亡",
-      "onboard_time": 1776440120,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 722966,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 674376,
-      "num": 222468,
+      "num": 301603,
       "word": "日本叫嚣击沉中国航母",
       "onboard_time": 1776444139,
       "rank": 11,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1776389539,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 352449,
+      "num": 188828,
+      "word": "东部战区回应日舰过航台湾海峡",
+      "onboard_time": 1776445218,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352072,
@@ -7899,14 +7907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114963,
-      "num": 114963,
-      "word": "东部战区回应日舰过航台湾海峡",
-      "onboard_time": 1776445218,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114911,
       "num": 147376,
       "word": "打工人长时间盯屏幕怎么护眼",
@@ -8785,6 +8785,14 @@
       "onboard_time": 1776003142,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101668,
+      "num": 101668,
+      "word": "小米新SU7续航",
+      "onboard_time": 1776445218,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 101646,
@@ -11779,6 +11787,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73607,
+      "num": 91954,
+      "word": "杭州滨江通报共用针头采血事件",
+      "onboard_time": 1776445337,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73551,
       "num": 76078,
       "word": "大冰说我这两年的直播是刀尖上行走",
@@ -12779,6 +12795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65622,
+      "num": 91855,
+      "word": "在韩骚扰中国女生日籍男子已离境",
+      "onboard_time": 1776445218,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65617,
       "num": 139277,
       "word": "三星阔屏三折叠手机曝光",
@@ -12825,14 +12849,6 @@
       "onboard_time": 1776334340,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65259,
-      "num": 91954,
-      "word": "杭州滨江通报共用针头采血事件",
-      "onboard_time": 1776445337,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65236,
@@ -13499,14 +13515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56189,
-      "num": 91882,
-      "word": "小米新SU7续航",
-      "onboard_time": 1776445218,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 56043,
       "num": 174487,
       "word": "狼队对战KSG",
@@ -13561,6 +13569,14 @@
       "onboard_time": 1776209659,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55128,
+      "num": 90601,
+      "word": "博主身份疑似被男同学盗用5年",
+      "onboard_time": 1776447856,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54992,
@@ -13761,14 +13777,6 @@
       "onboard_time": 1776395119,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53128,
-      "num": 91855,
-      "word": "在韩骚扰中国女生日籍男子已离境",
-      "onboard_time": 1776445218,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 53049,
@@ -14377,6 +14385,14 @@
       "onboard_time": 1776260421,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42452,
+      "num": 90236,
+      "word": "张雪机车的新涂装",
+      "onboard_time": 1776446419,
+      "rank": 47,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 42422,
