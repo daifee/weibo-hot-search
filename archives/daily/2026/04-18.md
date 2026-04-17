@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/18 00:12:45 ~ 2026/04/18 01:56:45
+本榜单时间：2026/04/18 00:12:45 ~ 2026/04/18 02:13:06
 </p>
 </blockquote>
 <p>
@@ -57,14 +57,14 @@ Angelababy陈赫拥抱（热度：1038801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E4%B9%90%E7%9A%84%E7%B1%BD%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E4%B8%80%E6%95%B4%E5%9D%97%E6%8E%B0%E4%B8%8B%E6%9D%A5%23" target="weibo">
-芭乐的籽居然可以一整块掰下来（热度：821908）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A5%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%8B%BD5%E5%88%86%E9%92%9F%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
+女子跳楼被男友拽5分钟后坠亡（热度：828843）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A5%BC%E8%A2%AB%E7%94%B7%E5%8F%8B%E6%8B%BD5%E5%88%86%E9%92%9F%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
-女子跳楼被男友拽5分钟后坠亡（热度：810382）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E4%B9%90%E7%9A%84%E7%B1%BD%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E4%B8%80%E6%95%B4%E5%9D%97%E6%8E%B0%E4%B8%8B%E6%9D%A5%23" target="weibo">
+芭乐的籽居然可以一整块掰下来（热度：821908）
 </a>
 </li>
 
@@ -327,14 +327,14 @@ A股七姐妹（热度：143248）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%A4%B1%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%23" target="weibo">
-医院回应女子同房后失血性休克（热度：75189）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%BB%A8%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4%E9%87%87%E8%A1%80%E4%BA%8B%E4%BB%B6%23" target="weibo">
+杭州滨江通报共用针头采血事件（热度：84394）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%BB%A8%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4%E9%87%87%E8%A1%80%E4%BA%8B%E4%BB%B6%23" target="weibo">
-杭州滨江通报共用针头采血事件（热度：73607）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%A4%B1%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%23" target="weibo">
+医院回应女子同房后失血性休克（热度：75189）
 </a>
 </li>
 
@@ -364,7 +364,7 @@ A股七姐妹（热度：143248）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E6%97%A5%E7%B1%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E7%A6%BB%E5%A2%83%23" target="weibo">
-在韩骚扰中国女生日籍男子已离境（热度：65622）
+在韩骚扰中国女生日籍男子已离境（热度：66976）
 </a>
 </li>
 
@@ -383,6 +383,12 @@ A股七姐妹（热度：143248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%8A%E4%B8%BB%E5%9B%A0%E5%80%9F%E7%BB%99%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%BC%E5%88%B0%E4%B8%8B%E8%B7%AA%23" target="weibo">
 摊主因借给学生手机被家长逼到下跪（热度：54744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9E%81%E5%8F%88%E5%8E%BB%E7%9C%8B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
+张极又去看张杰演唱会了（热度：52953）
 </a>
 </li>
 
