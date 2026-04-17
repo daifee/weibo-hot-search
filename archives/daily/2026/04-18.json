@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776442365031,
+  "endTime": 1776446107108,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -75,6 +75,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 726901,
+      "num": 273579,
+      "word": "女子跳楼被男友拽5分钟后坠亡",
+      "onboard_time": 1776440120,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674376,
+      "num": 222468,
+      "word": "日本叫嚣击沉中国航母",
+      "onboard_time": 1776444139,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 624688,
       "num": 624688,
       "word": "雷军达成京沪高速只充一次电",
@@ -107,14 +123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 488781,
-      "num": 273579,
-      "word": "女子跳楼被男友拽5分钟后坠亡",
-      "onboard_time": 1776440120,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421899,
       "num": 262871,
       "word": "李小冉一公第一名",
@@ -129,6 +137,14 @@
       "onboard_time": 1776430881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401607,
+      "num": 401607,
+      "word": "张雪机车夺得超级杆位赛第二名",
+      "onboard_time": 1776442039,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 379543,
@@ -177,6 +193,14 @@
       "onboard_time": 1776414140,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 325591,
+      "num": 223717,
+      "word": "医生爆料用献血证换血已成常态",
+      "onboard_time": 1776441139,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312668,
@@ -275,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172745,
+      "num": 228652,
+      "word": "大码女装店让S码模特穿XL样衣",
+      "onboard_time": 1776438562,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 170553,
       "num": 230242,
       "word": "林肯号航母提供的餐食情况",
       "onboard_time": 1776421521,
       "rank": 36,
       "category": "海外新闻,军事"
-    },
-    {
-      "raw_hot": 170034,
-      "num": 228652,
-      "word": "大码女装店让S码模特穿XL样衣",
-      "onboard_time": 1776438562,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 167455,
@@ -304,22 +328,6 @@
       "word": "学校组织10元车费去春游男孩下车秒哭",
       "onboard_time": 1776437602,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162566,
-      "num": 225267,
-      "word": "张雪机车夺得超级杆位赛第二名",
-      "onboard_time": 1776442039,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 155084,
-      "num": 223717,
-      "word": "医生爆料用献血证换血已成常态",
-      "onboard_time": 1776441139,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -387,12 +395,124 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114963,
+      "num": 114963,
+      "word": "东部战区回应日舰过航台湾海峡",
+      "onboard_time": 1776445218,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93553,
       "num": 251642,
       "word": "极氪8X29分钟大定破万",
       "onboard_time": 1776439461,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 75189,
+      "num": 92054,
+      "word": "医院回应女子同房后失血性休克",
+      "onboard_time": 1776432622,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73013,
+      "num": 92040,
+      "word": "伊朗开放霍尔木兹油价应声暴跌",
+      "onboard_time": 1776445637,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72921,
+      "num": 92024,
+      "word": "伊朗对所有商船开放霍尔木兹海峡",
+      "onboard_time": 1776445218,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69287,
+      "num": 91984,
+      "word": "孙颖莎巨型卡通装饰",
+      "onboard_time": 1776433764,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67416,
+      "num": 91960,
+      "word": "特朗普称美伊协议关键条款大多谈妥",
+      "onboard_time": 1776441561,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65259,
+      "num": 91954,
+      "word": "杭州滨江通报共用针头采血事件",
+      "onboard_time": 1776445337,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57962,
+      "num": 91903,
+      "word": "女儿摆酒庆祝爸妈离婚",
+      "onboard_time": 1776434003,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56189,
+      "num": 91882,
+      "word": "小米新SU7续航",
+      "onboard_time": 1776445218,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 54744,
+      "num": 91872,
+      "word": "摊主因借给学生手机被家长逼到下跪",
+      "onboard_time": 1776411440,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53128,
+      "num": 91855,
+      "word": "在韩骚扰中国女生日籍男子已离境",
+      "onboard_time": 1776445218,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51384,
+      "num": 91830,
+      "word": "刘耀文capper微博互关",
+      "onboard_time": 1776431482,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 48828,
+      "num": 91822,
+      "word": "温峥嵘二公选人被拒绝五次",
+      "onboard_time": 1776410660,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46043,
+      "num": 91797,
+      "word": "以宣布基本解除战时限制",
+      "onboard_time": 1776435261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27279,
