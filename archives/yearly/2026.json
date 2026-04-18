@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776518212467,
+  "endTime": 1776519697312,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -817,6 +817,14 @@
       "onboard_time": 1773581607,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4420525,
+      "num": 426723,
+      "word": "王嘉尔ins取关蔡徐坤",
+      "onboard_time": 1776517881,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 4371841,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774347323,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1989878,
-      "num": 291735,
-      "word": "成毅 年龄",
-      "onboard_time": 1773537920,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

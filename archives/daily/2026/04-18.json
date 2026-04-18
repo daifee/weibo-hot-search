@@ -1,7 +1,15 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776518212467,
+  "endTime": 1776519697312,
   "band_list": [
+    {
+      "raw_hot": 4420525,
+      "num": 426723,
+      "word": "王嘉尔ins取关蔡徐坤",
+      "onboard_time": 1776517881,
+      "rank": 14,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2895814,
       "num": 1384760,
@@ -123,20 +131,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1218190,
+      "num": 1186285,
+      "word": "何润东霸王全妆",
+      "onboard_time": 1776517400,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1189176,
       "num": 351411,
       "word": "幽灵外卖已发展成一条黑灰产业链",
       "onboard_time": 1776496700,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1164286,
-      "num": 1186285,
-      "word": "何润东霸王全妆",
-      "onboard_time": 1776517400,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1160909,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1109582,
-      "num": 1109582,
+      "num": 1144539,
       "word": "日本在马关条约签订日闯入台海",
       "onboard_time": 1776513140,
       "rank": 43,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 915148,
-      "num": 446151,
+      "num": 801259,
       "word": "姜贞羽淘汰",
       "onboard_time": 1776513319,
       "rank": 18,
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850482,
+      "num": 857451,
+      "word": "宿迁vs南京",
+      "onboard_time": 1776516982,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 830325,
       "num": 357537,
       "word": "日舰艇进入台湾海峡被中国军队处置",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 794496,
-      "num": 442423,
+      "num": 447575,
       "word": "孟美岐解约乐华的第一个活动",
       "onboard_time": 1776507201,
       "rank": 12,
@@ -435,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 649132,
+      "num": 649132,
+      "word": "张雪机车",
+      "onboard_time": 1776519561,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 641347,
+      "num": 476173,
+      "word": "陈紫函不上浪姐的原因",
+      "onboard_time": 1776516623,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640442,
       "num": 640442,
       "word": "日媒集体噤声",
@@ -449,14 +481,6 @@
       "onboard_time": 1776433700,
       "rank": 5,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 608596,
-      "num": 608596,
-      "word": "宿迁vs南京",
-      "onboard_time": 1776516982,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 599593,
@@ -561,14 +585,6 @@
       "onboard_time": 1776425719,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 527014,
-      "num": 426723,
-      "word": "王嘉尔ins取关蔡徐坤",
-      "onboard_time": 1776517881,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 516239,
@@ -835,14 +851,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 358280,
-      "num": 358280,
-      "word": "陈紫函不上浪姐的原因",
-      "onboard_time": 1776516623,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 358278,
       "num": 266869,
       "word": "换电池小卡扣要13万新能源车主崩溃",
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 338906,
-      "num": 338906,
+      "num": 362974,
       "word": "澳门老炮质问B太",
       "onboard_time": 1776515662,
       "rank": 25,
@@ -971,12 +979,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309877,
+      "num": 309877,
+      "word": "龚俊拍了刘宇宁唱天问",
+      "onboard_time": 1776516920,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298271,
+      "num": 298271,
+      "word": "日本赌国运老毛病又犯了",
+      "onboard_time": 1776516081,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 296105,
       "num": 359196,
       "word": "21世纪大君夫人",
       "onboard_time": 1776432081,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293804,
+      "num": 293804,
+      "word": "朱孝天上节目被打",
+      "onboard_time": 1776518240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 286338,
@@ -1019,28 +1051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 279751,
-      "num": 279751,
-      "word": "龚俊拍了刘宇宁唱天问",
-      "onboard_time": 1776516920,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278467,
       "num": 237976,
       "word": "雷军到达上海后还有余电",
       "onboard_time": 1776437722,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 277276,
-      "num": 277276,
-      "word": "日本赌国运老毛病又犯了",
-      "onboard_time": 1776516081,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 266138,
@@ -1219,6 +1235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 225950,
+      "num": 225950,
+      "word": "六位数的狗坐在七位数的车里",
+      "onboard_time": 1776510681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222202,
       "num": 222202,
       "word": "曝再见朋友接触井柏然付辛博",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1776479420,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215812,
-      "num": 215812,
-      "word": "六位数的狗坐在七位数的车里",
-      "onboard_time": 1776510681,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 215777,
@@ -1395,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197347,
+      "num": 197347,
+      "word": "张小斐被虫子吓得弹起来了",
+      "onboard_time": 1776519024,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "李煜东跳overdrive",
@@ -1444,7 +1468,7 @@
     },
     {
       "raw_hot": 186015,
-      "num": 283456,
+      "num": 293821,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
       "onboard_time": 1776489141,
       "rank": 44,
@@ -1515,6 +1539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174276,
+      "num": 174276,
+      "word": "这都是谁往天上放的",
+      "onboard_time": 1776514881,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172398,
+      "num": 294246,
+      "word": "亚马逊创始人与56岁妻子正积极备孕",
+      "onboard_time": 1776517702,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170553,
       "num": 230242,
       "word": "林肯号航母提供的餐食情况",
@@ -1579,14 +1619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163132,
-      "num": 163132,
-      "word": "这都是谁往天上放的",
-      "onboard_time": 1776514881,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162815,
       "num": 162815,
       "word": "马頔要退五哈通告费",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1776421281,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149711,
+      "num": 149711,
+      "word": "48岁TVB视后田蕊妮再度患癌",
+      "onboard_time": 1776518302,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 149054,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1776512842,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130211,
-      "num": 142522,
-      "word": "亚马逊创始人与56岁妻子正积极备孕",
-      "onboard_time": 1776517702,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128925,
@@ -2259,8 +2291,16 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1896,
-      "num": 281307,
+      "raw_hot": 17332,
+      "num": 174610,
+      "word": "张淇文化之夜再唱定军山",
+      "onboard_time": 1776515362,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 9662,
+      "num": 293959,
       "word": "56岁雷军连续直播15小时",
       "onboard_time": 1776518122,
       "rank": 29,
