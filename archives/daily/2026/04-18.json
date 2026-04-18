@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776510489961,
+  "endTime": 1776512527429,
   "band_list": [
     {
       "raw_hot": 2895814,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 811954,
+      "num": 675197,
+      "word": "苏超",
+      "onboard_time": 1776505223,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
@@ -395,12 +403,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 603551,
+      "num": 356156,
+      "word": "萧蔷翻温峥嵘白眼",
+      "onboard_time": 1776508520,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599593,
       "num": 386033,
       "word": "金智秀的姐姐",
       "onboard_time": 1776504500,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598200,
+      "num": 598200,
+      "word": "深圳一小学老师批改作业时崩溃大哭",
+      "onboard_time": 1776508881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589881,
@@ -425,6 +449,14 @@
       "onboard_time": 1776472580,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 565574,
+      "num": 367559,
+      "word": "张婉婷坐飞机惊恐发作差点被驱逐",
+      "onboard_time": 1776509181,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 557882,
@@ -473,14 +505,6 @@
       "onboard_time": 1776425719,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 517362,
-      "num": 290912,
-      "word": "萧蔷翻温峥嵘白眼",
-      "onboard_time": 1776508520,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 516239,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 469014,
-      "num": 414171,
-      "word": "苏超",
-      "onboard_time": 1776505223,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464092,
       "num": 464092,
       "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
@@ -577,6 +593,14 @@
       "onboard_time": 1776483199,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444752,
+      "num": 379564,
+      "word": "日媒集体噤声",
+      "onboard_time": 1776510021,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 441645,
@@ -827,20 +851,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312600,
-      "num": 391481,
-      "word": "深圳一小学老师批改作业时崩溃大哭",
-      "onboard_time": 1776508881,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311992,
       "num": 311992,
       "word": "疑似jisoo嫂子晒家暴伤痕",
       "onboard_time": 1776497061,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311614,
+      "num": 311614,
+      "word": "内耗人的终极解药",
+      "onboard_time": 1776509781,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 310703,
@@ -865,14 +889,6 @@
       "onboard_time": 1776491840,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286210,
-      "num": 191045,
-      "word": "张婉婷坐飞机惊恐发作差点被驱逐",
-      "onboard_time": 1776509181,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 285352,
@@ -987,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244654,
+      "num": 244654,
+      "word": "何润东现身宿迁奥体",
+      "onboard_time": 1776511580,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240239,
       "num": 240239,
       "word": "鞠婧祎回应月鳞绮纪结局",
@@ -1027,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "日本可短时间内造出原子弹",
+      "onboard_time": 1776509121,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 228611,
       "num": 228611,
       "word": "张月失误自责落泪",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1776479240,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220793,
+      "num": 220793,
+      "word": "苏超直播",
+      "onboard_time": 1776512120,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 220305,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1776504980,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202674,
+      "num": 202674,
+      "word": "日本远程导弹射程覆盖中国军港",
+      "onboard_time": 1776509841,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202001,
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176145,
+      "num": 176145,
+      "word": "何润东项羽盔甲做好了",
+      "onboard_time": 1776512241,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175528,
       "num": 175528,
       "word": "许凯邓恩熙新剧开局就开虐",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1776421521,
       "rank": 36,
       "category": "海外新闻,军事"
+    },
+    {
+      "raw_hot": 169437,
+      "num": 146420,
+      "word": "杨紫生命树官媒发文统计",
+      "onboard_time": 1776510800,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 168052,
@@ -1363,12 +1427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161056,
-      "num": 161056,
-      "word": "日本可短时间内造出原子弹",
-      "onboard_time": 1776509121,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 161483,
+      "num": 224649,
+      "word": "老太占道卖菜城管执法时倒地身亡",
+      "onboard_time": 1776510982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159274,
+      "num": 279698,
+      "word": "富人付费狙杀平民偏好儿童年轻女性",
+      "onboard_time": 1776502341,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156273,
@@ -1377,14 +1449,6 @@
       "onboard_time": 1776488900,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154972,
-      "num": 154972,
-      "word": "日媒集体噤声",
-      "onboard_time": 1776510021,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154936,
@@ -1419,14 +1483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151548,
-      "num": 151548,
-      "word": "日本远程导弹射程覆盖中国军港",
-      "onboard_time": 1776509841,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150293,
       "num": 223132,
       "word": "刘浩存 没有给代拍好脸色的义务",
@@ -1443,12 +1499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146348,
-      "num": 279698,
-      "word": "富人付费狙杀平民偏好儿童年轻女性",
-      "onboard_time": 1776502341,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 146299,
+      "num": 140648,
+      "word": "咪豆 徐明浩",
+      "onboard_time": 1776511101,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 144381,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1776479658,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143361,
-      "num": 143361,
-      "word": "内耗人的终极解药",
-      "onboard_time": 1776509781,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 143248,
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 121758,
-      "num": 121758,
+      "num": 123030,
       "word": "张奕然一口气14个舞台",
       "onboard_time": 1776508101,
       "rank": 48,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1776477798,
       "rank": 21,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 94834,
+      "num": 406770,
+      "word": "日本军舰过航台海为何选4月17日",
+      "onboard_time": 1776511342,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93553,
@@ -1859,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47177,
+      "num": 1077322,
+      "word": "中国硬核新成就刷屏",
+      "onboard_time": 1776501079,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46043,
       "num": 91797,
       "word": "以宣布基本解除战时限制",
@@ -1875,12 +1939,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44341,
-      "num": 1077322,
-      "word": "中国硬核新成就刷屏",
-      "onboard_time": 1776501079,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 43924,
+      "num": 336934,
+      "word": "官方通报村支书被举报违建1500平楼房",
+      "onboard_time": 1776511342,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42452,
@@ -1913,6 +1977,14 @@
       "onboard_time": 1776453735,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38067,
+      "num": 334327,
+      "word": "魏建军王濛聊棱角是一种责任",
+      "onboard_time": 1776511401,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 33982,
@@ -1963,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26831,
+      "num": 225566,
+      "word": "喂娃流感药除了连哄带骗有啥招",
+      "onboard_time": 1776511223,
+      "rank": 29,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 25427,
       "num": 67843,
       "word": "DK暴打T1",
@@ -1993,6 +2073,14 @@
       "onboard_time": 1776479420,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17645,
+      "num": 141183,
+      "word": "血贩黑产链条必须彻底斩断",
+      "onboard_time": 1776511279,
+      "rank": 44,
+      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
