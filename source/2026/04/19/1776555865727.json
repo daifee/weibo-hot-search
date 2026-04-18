@@ -1,0 +1,410 @@
+{
+  "runTime": 1776555865727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 671502,
+        "num": 970791,
+        "word": "日本已彻底撕掉伪装",
+        "onboard_time": 1776525202,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317947,
+        "num": 695316,
+        "word": "日本在马关条约签订日闯入台海",
+        "onboard_time": 1776513140,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16036,
+        "num": 558380,
+        "word": "生态文旅激活消费新活力",
+        "onboard_time": 1776520223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677177,
+        "num": 541889,
+        "word": "日本驱逐舰过航台湾海峡取证画面",
+        "onboard_time": 1776537255,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 471942,
+        "num": 471942,
+        "word": "解放军护卫舰已随时准备开火",
+        "onboard_time": 1776526641,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 305897,
+        "num": 305897,
+        "word": "日本媒体报道中国绝大多数是负面",
+        "onboard_time": 1776554297,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191603,
+        "num": 191603,
+        "word": "风扇乱流 灭蚊子",
+        "onboard_time": 1776545473,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184915,
+        "num": 184915,
+        "word": "谢娜录了时代少年团直拍",
+        "onboard_time": 1776524181,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145845,
+        "num": 145845,
+        "word": "陈紫函不上浪姐的原因",
+        "onboard_time": 1776516623,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126953,
+        "num": 145195,
+        "word": "张雪机车",
+        "onboard_time": 1776519561,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707769,
+        "num": 144558,
+        "word": "何润东回应没骑马",
+        "onboard_time": 1776554357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403377,
+        "num": 143978,
+        "word": "六姑姑要求与侄女分百万遗产胜诉",
+        "onboard_time": 1776554236,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301657,
+        "num": 143506,
+        "word": "光纤价格暴涨650%",
+        "onboard_time": 1776554177,
+        "rank": 12,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 255754,
+        "num": 142872,
+        "word": "金智秀哥哥的妻子发ins",
+        "onboard_time": 1776521121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243331,
+        "num": 142110,
+        "word": "张雪机车一脚压线把名次压赚了",
+        "onboard_time": 1776554236,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194412,
+        "num": 141758,
+        "word": "张凌赫ins更新萌照",
+        "onboard_time": 1776519683,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184018,
+        "num": 140717,
+        "word": "谢娜晒和马嘉祺聊天记录",
+        "onboard_time": 1776555557,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179690,
+        "num": 140363,
+        "word": "中国城市宜居水平排行榜",
+        "onboard_time": 1776504201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164900,
+        "num": 139654,
+        "word": "人与人其实更多的是相逢恨早",
+        "onboard_time": 1776539595,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158822,
+        "num": 138836,
+        "word": "听障女孩回应美得像假人",
+        "onboard_time": 1776528741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374457,
+        "num": 138108,
+        "word": "女儿说我爸爸是刘德华没人相信",
+        "onboard_time": 1776554057,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328963,
+        "num": 137862,
+        "word": "五一航班大面积取消",
+        "onboard_time": 1776496760,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149267,
+        "num": 136837,
+        "word": "日本赌国运老毛病又犯了",
+        "onboard_time": 1776516081,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146008,
+        "num": 136439,
+        "word": "快递员上门取件摔坏2.4万蓝宝石",
+        "onboard_time": 1776555196,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133351,
+        "num": 135609,
+        "word": "日本",
+        "onboard_time": 1776555620,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130278,
+        "num": 135131,
+        "word": "时代少年团走了没通知一下张杰吗",
+        "onboard_time": 1776554297,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128489,
+        "num": 134170,
+        "word": "台媒称男神肖战出演最美书生",
+        "onboard_time": 1776520102,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111447,
+        "num": 133697,
+        "word": "日媒集体噤声",
+        "onboard_time": 1776510021,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118096,
+        "num": 133121,
+        "word": "郭富城庆祝和方媛结婚九周年",
+        "onboard_time": 1776554117,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112865,
+        "num": 132454,
+        "word": "王一博GT3排位赛",
+        "onboard_time": 1776553218,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 111247,
+        "num": 132009,
+        "word": "六位数的狗坐在七位数的车里",
+        "onboard_time": 1776510681,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107406,
+        "num": 130975,
+        "word": "吴佳尼说赵丽颖没有医美",
+        "onboard_time": 1776554117,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105637,
+        "num": 130246,
+        "word": "姜贞羽淘汰",
+        "onboard_time": 1776513319,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99553,
+        "num": 130193,
+        "word": "以色列社会悲观情绪主导",
+        "onboard_time": 1776534019,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86629,
+        "num": 129069,
+        "word": "一年半来日本军舰四次过航台海",
+        "onboard_time": 1776553516,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85893,
+        "num": 128578,
+        "word": "萧蔷翻温峥嵘白眼",
+        "onboard_time": 1776508520,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84763,
+        "num": 127651,
+        "word": "女子机场两次拒绝帮陌生人带行李",
+        "onboard_time": 1776501441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84365,
+        "num": 127314,
+        "word": "内耗人的终极解药",
+        "onboard_time": 1776509781,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84318,
+        "num": 126319,
+        "word": "解放军凌晨四点管控日舰过航台湾海峡",
+        "onboard_time": 1776503961,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81645,
+        "num": 125793,
+        "word": "男子养龙虾月赔10万破防抑郁",
+        "onboard_time": 1776531619,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81345,
+        "num": 125315,
+        "word": "孟美岐解约乐华的第一个活动",
+        "onboard_time": 1776507201,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80466,
+        "num": 124736,
+        "word": "泰国泼水节疑有人向人嘴里射毒水",
+        "onboard_time": 1776521482,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80119,
+        "num": 123890,
+        "word": "深圳一小学老师批改作业时崩溃大哭",
+        "onboard_time": 1776508881,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79213,
+        "num": 123024,
+        "word": "五一航班为啥出现取消潮",
+        "onboard_time": 1776555677,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77291,
+        "num": 122576,
+        "word": "王濛魏建军直球式聊天",
+        "onboard_time": 1776554657,
+        "rank": 44,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 76519,
+        "num": 121723,
+        "word": "樊振东波尔日内瓦旅行",
+        "onboard_time": 1776520523,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74689,
+        "num": 121491,
+        "word": "攻玉 辞演",
+        "onboard_time": 1776555798,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72244,
+        "num": 120566,
+        "word": "范玮琪问江语晨是周先生的歌吗",
+        "onboard_time": 1776554477,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70277,
+        "num": 119868,
+        "word": "通勤最辛苦城市",
+        "onboard_time": 1776531619,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70488,
+        "num": 119748,
+        "word": "苏超",
+        "onboard_time": 1776505223,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
