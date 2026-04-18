@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776498140105,
+  "endTime": 1776502859106,
   "band_list": [
     {
       "raw_hot": 2685311,
@@ -43,6 +43,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1649613,
+      "num": 748012,
+      "word": "李小冉 在记了两个胳膊都记了",
+      "onboard_time": 1776498620,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1597413,
+      "num": 1597413,
+      "word": "五一航班大面积取消",
+      "onboard_time": 1776496760,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1565393,
       "num": 621375,
       "word": "日本叫嚣击沉中国航母",
@@ -57,6 +73,14 @@
       "onboard_time": 1776495080,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1233316,
+      "num": 358350,
+      "word": "金智秀哥哥前妻发声",
+      "onboard_time": 1776499340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1226943,
@@ -81,6 +105,14 @@
       "onboard_time": 1776436224,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1189176,
+      "num": 351411,
+      "word": "幽灵外卖已发展成一条黑灰产业链",
+      "onboard_time": 1776496700,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1160909,
@@ -347,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 536611,
+      "num": 536611,
+      "word": "时代少年团 没有抢到票的风险",
+      "onboard_time": 1776501441,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 531285,
       "num": 260586,
       "word": "都美竹被强执",
@@ -363,12 +403,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 515477,
-      "num": 515477,
-      "word": "五一航班大面积取消",
-      "onboard_time": 1776496760,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 515662,
+      "num": 471886,
+      "word": "杨蓉晒烫伤后疤痕恢复照",
+      "onboard_time": 1776495139,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 496212,
@@ -417,14 +457,6 @@
       "onboard_time": 1776484581,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471886,
-      "num": 471886,
-      "word": "杨蓉晒烫伤后疤痕恢复照",
-      "onboard_time": 1776495139,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 464092,
@@ -531,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 398883,
+      "num": 312530,
+      "word": "尹正自曝把摩托车全卖了",
+      "onboard_time": 1776491239,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395450,
       "num": 387921,
       "word": "李沁苏州活动晚宴生图",
@@ -577,14 +617,6 @@
       "onboard_time": 1776468978,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 375040,
-      "num": 312530,
-      "word": "尹正自曝把摩托车全卖了",
-      "onboard_time": 1776491239,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 371459,
@@ -635,6 +667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 322808,
+      "num": 284205,
+      "word": "高三女生借摊贩手机作弊已被处理",
+      "onboard_time": 1776496520,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319250,
       "num": 316468,
       "word": "全网最会做鸡的三个人齐聚广东",
@@ -667,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302255,
+      "num": 283376,
+      "word": "马頔说幸亏我结婚了",
+      "onboard_time": 1776491601,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300242,
+      "num": 283202,
+      "word": "华晨宇造物者歌词被指抄袭周杰伦",
+      "onboard_time": 1776497600,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296105,
       "num": 359196,
       "word": "21世纪大君夫人",
@@ -683,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285352,
+      "num": 285352,
+      "word": "男子在美国摆摊1元进货30多元卖出",
+      "onboard_time": 1776495021,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 284906,
       "num": 239779,
       "word": "许昕真的回国家队了",
       "onboard_time": 1776431181,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283097,
+      "num": 283097,
+      "word": "女子机场两次拒绝帮陌生人带行李",
+      "onboard_time": 1776501441,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282234,
@@ -715,14 +787,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 273963,
-      "num": 260157,
-      "word": "马頔说幸亏我结婚了",
-      "onboard_time": 1776491601,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266138,
       "num": 266138,
       "word": "勇士vs太阳",
@@ -747,11 +811,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260265,
-      "num": 260265,
-      "word": "幽灵外卖已发展成一条黑灰产业链",
-      "onboard_time": 1776496700,
-      "rank": 32,
+      "raw_hot": 259064,
+      "num": 259064,
+      "word": "校方通报女生骗摊主手机作弊被抓",
+      "onboard_time": 1776497901,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -761,6 +825,14 @@
       "onboard_time": 1776485959,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256598,
+      "num": 256598,
+      "word": "时代少年团 郭敬明审美",
+      "onboard_time": 1776502638,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 252937,
@@ -827,6 +899,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230535,
+      "num": 285155,
+      "word": "库里回应与勇士续约",
+      "onboard_time": 1776498739,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228611,
+      "num": 228611,
+      "word": "张月失误自责落泪",
+      "onboard_time": 1776497960,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228108,
+      "num": 228108,
+      "word": "降临 李煜东",
+      "onboard_time": 1776498860,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227607,
       "num": 227607,
       "word": "小米18Pro配置全面曝光",
@@ -891,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207360,
-      "num": 259247,
-      "word": "高三女生借摊贩手机作弊已被处理",
-      "onboard_time": 1776496520,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206271,
       "num": 206271,
       "word": "这才是医生说的清淡饮食",
@@ -940,7 +1028,7 @@
     },
     {
       "raw_hot": 198046,
-      "num": 221596,
+      "num": 284721,
       "word": "格林两场附加赛狂轰71分",
       "onboard_time": 1776496641,
       "rank": 43,
@@ -955,20 +1043,20 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 194720,
+      "num": 194720,
+      "word": "李煜东跳overdrive",
+      "onboard_time": 1776501200,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189634,
       "num": 189634,
       "word": "张杰魏晨台下拥抱",
       "onboard_time": 1776470179,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188193,
-      "num": 211787,
-      "word": "校方通报女生骗摊主手机作弊被抓",
-      "onboard_time": 1776497901,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188120,
@@ -1032,6 +1120,22 @@
       "word": "周杰伦点破女艺人困境",
       "onboard_time": 1776437424,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177885,
+      "num": 285081,
+      "word": "LPL和LCK真不一样了",
+      "onboard_time": 1776501079,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176261,
+      "num": 176261,
+      "word": "魏子宸饭撒",
+      "onboard_time": 1776501319,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1121,14 +1225,6 @@
       "onboard_time": 1776421281,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149209,
-      "num": 260692,
-      "word": "男子在美国摆摊1元进货30多元卖出",
-      "onboard_time": 1776495021,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 144381,
@@ -1259,6 +1355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115156,
+      "num": 270866,
+      "word": "伊朗透露敌方停火重要原因",
+      "onboard_time": 1776502761,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109085,
       "num": 109085,
       "word": "猝死前10分钟身体什么感觉",
@@ -1337,6 +1441,14 @@
       "onboard_time": 1776488779,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87621,
+      "num": 197301,
+      "word": "富人付费狙杀平民偏好儿童年轻女性",
+      "onboard_time": 1776502341,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84149,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1776445218,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66235,
+      "num": 175779,
+      "word": "格林布克双双驱逐",
+      "onboard_time": 1776498319,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 61216,
@@ -1539,6 +1659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36976,
+      "num": 748361,
+      "word": "中国硬核新成就刷屏",
+      "onboard_time": 1776501079,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33982,
+      "num": 283738,
+      "word": "速福达覆盖1岁以上全人群",
+      "onboard_time": 1776500242,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32732,
       "num": 263493,
       "word": "老师回应低血糖晕倒前被学生托住",
@@ -1617,6 +1753,9 @@
     },
     {
       "word": "#品悟总书记的读书之道#"
+    },
+    {
+      "word": "#总书记引领强国之路#"
     }
   ]
 }
