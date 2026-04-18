@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776545186312,
+  "endTime": 1776546228937,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -45939,6 +45939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37049,
+      "num": 53784,
+      "word": "风扇乱流 灭蚊子",
+      "onboard_time": 1776545473,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 36910,
       "num": 80356,
       "word": "美议员称外星人已与人类会面",
@@ -47524,7 +47532,7 @@
     },
     {
       "raw_hot": 25264,
-      "num": 28011,
+      "num": 31660,
       "word": "张雪机车荷兰站第二名发车",
       "onboard_time": 1776541395,
       "rank": 43,
@@ -47939,12 +47947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23164,
+      "num": 31653,
+      "word": "龚俊看刘宇宁演唱会",
+      "onboard_time": 1776545654,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23051,
       "num": 80139,
       "word": "被现实版莫奈花园美哭了",
       "onboard_time": 1775764874,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23007,
+      "num": 31645,
+      "word": "Wolves对战Xteam",
+      "onboard_time": 1776541454,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 22889,
@@ -48065,14 +48089,6 @@
       "onboard_time": 1775493019,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21811,
-      "num": 28010,
-      "word": "Wolves对战Xteam",
-      "onboard_time": 1776541454,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 21745,

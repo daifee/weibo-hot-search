@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 04:46:26
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 05:03:48
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%89%87%E4%B9%B1%E6%B5%81%20%E7%81%AD%E8%9A%8A%E5%AD%90%23" target="weibo">
+风扇乱流 灭蚊子（热度：37049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%80%81%E6%96%87%E6%97%85%E6%BF%80%E6%B4%BB%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B%23" target="weibo">
 生态文旅激活消费新活力（热度：32023）
 </a>
@@ -459,8 +465,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%9C%8B%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+龚俊看刘宇宁演唱会（热度：23164）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Wolves%E5%AF%B9%E6%88%98Xteam%23" target="weibo">
-Wolves对战Xteam（热度：21811）
+Wolves对战Xteam（热度：23007）
 </a>
 </li>
 
