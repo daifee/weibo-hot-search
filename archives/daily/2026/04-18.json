@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776503568349,
+  "endTime": 1776506307033,
   "band_list": [
     {
       "raw_hot": 2685311,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2283647,
-      "num": 496319,
+      "num": 834121,
       "word": "许凯 怪我",
       "onboard_time": 1776483022,
       "rank": 15,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1649613,
-      "num": 748012,
+      "num": 1076241,
       "word": "李小冉 在记了两个胳膊都记了",
       "onboard_time": 1776498620,
       "rank": 3,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1431043,
-      "num": 776012,
+      "num": 965918,
       "word": "怪不得韩国人爱去张家界旅游",
       "onboard_time": 1776495080,
       "rank": 5,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1233316,
-      "num": 358350,
+      "num": 732026,
       "word": "金智秀哥哥前妻发声",
       "onboard_time": 1776499340,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056324,
+      "num": 839043,
+      "word": "时代少年团 郭敬明审美",
+      "onboard_time": 1776502638,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038801,
       "num": 355060,
       "word": "Angelababy陈赫拥抱",
@@ -251,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 817307,
+      "num": 817307,
+      "word": "中国城市宜居水平排行榜",
+      "onboard_time": 1776504201,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
@@ -267,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768801,
+      "num": 946879,
+      "word": "女子机场两次拒绝帮陌生人带行李",
+      "onboard_time": 1776501441,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757781,
       "num": 757781,
       "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
       "onboard_time": 1776436704,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 710698,
+      "num": 887824,
+      "word": "李小冉 你吃过麻辣拌吗",
+      "onboard_time": 1776505822,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 706085,
@@ -297,6 +329,14 @@
       "onboard_time": 1776491359,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 676784,
+      "num": 920143,
+      "word": "解放军凌晨四点管控日舰过航台湾海峡",
+      "onboard_time": 1776503961,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 667185,
@@ -339,6 +379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 599593,
+      "num": 239503,
+      "word": "金智秀的姐姐",
+      "onboard_time": 1776504500,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589881,
       "num": 848258,
       "word": "张雪机车排名一路狂飙",
@@ -361,6 +409,14 @@
       "onboard_time": 1776436822,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 551080,
+      "num": 551080,
+      "word": "伊朗恢复对霍尔木兹海峡的控制",
+      "onboard_time": 1776503479,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 544585,
@@ -457,14 +513,6 @@
       "onboard_time": 1776484581,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466661,
-      "num": 336119,
-      "word": "时代少年团 郭敬明审美",
-      "onboard_time": 1776502638,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 464092,
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 402884,
-      "num": 511128,
+      "num": 859415,
       "word": "雷军激动到破音了",
       "onboard_time": 1776495559,
       "rank": 42,
@@ -755,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285379,
-      "num": 285379,
-      "word": "女子机场两次拒绝帮陌生人带行李",
-      "onboard_time": 1776501441,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 285420,
+      "num": 239239,
+      "word": "王一博一人带动一个赛事",
+      "onboard_time": 1776505941,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 285352,
@@ -827,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260239,
+      "num": 317053,
+      "word": "张雪机车热身赛第一",
+      "onboard_time": 1776503421,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258940,
       "num": 258940,
       "word": "18岁儿子撒娇要零花钱拽掉爸爸胳膊",
@@ -889,6 +945,14 @@
       "onboard_time": 1776423681,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236871,
+      "num": 236871,
+      "word": "老板在抓药顾客在买药猫咪在吃药",
+      "onboard_time": 1776503000,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 235860,
@@ -969,6 +1033,14 @@
       "onboard_time": 1776471920,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210128,
+      "num": 210128,
+      "word": "赵雅芝73岁状态",
+      "onboard_time": 1776503721,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 209150,
@@ -1155,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170789,
+      "num": 170789,
+      "word": "女友跳楼男友未拽住担责冤不冤",
+      "onboard_time": 1776504980,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170553,
       "num": 230242,
       "word": "林肯号航母提供的餐食情况",
@@ -1235,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149268,
+      "num": 149268,
+      "word": "马頔要退五哈通告费",
+      "onboard_time": 1776504141,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144381,
       "num": 221741,
       "word": "张子枫马嘉祺片场碎片",
@@ -1267,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141348,
+      "num": 238895,
+      "word": "伊朗宣布多个机场重新开放",
+      "onboard_time": 1776504920,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141242,
       "num": 312875,
       "word": "美国准备解冻200亿美元伊朗资金",
       "onboard_time": 1776489080,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139204,
+      "num": 239298,
+      "word": "苏超",
+      "onboard_time": 1776505223,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 138837,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1776445218,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132975,
+      "num": 238804,
+      "word": "HLE暴打GEN",
+      "onboard_time": 1776505042,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 128925,
@@ -1361,14 +1473,6 @@
       "onboard_time": 1776469220,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120658,
-      "num": 165404,
-      "word": "伊朗恢复对霍尔木兹海峡的控制",
-      "onboard_time": 1776503479,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119268,
@@ -1547,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67342,
-      "num": 317053,
-      "word": "张雪机车热身赛第一",
-      "onboard_time": 1776503421,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66976,
       "num": 106398,
       "word": "在韩骚扰中国女生日籍男子已离境",
@@ -1643,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44911,
+      "num": 134988,
+      "word": "张雪解释车手最后两圈才刷出好成绩",
+      "onboard_time": 1776505759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44689,
       "num": 469591,
       "word": "外国年轻人咋突然中成这样",
@@ -1683,8 +1787,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36976,
-      "num": 748361,
+      "raw_hot": 37814,
+      "num": 1077322,
       "word": "中国硬核新成就刷屏",
       "onboard_time": 1776501079,
       "rank": 2,
