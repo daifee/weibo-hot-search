@@ -1,0 +1,410 @@
+{
+  "runTime": 1776509522663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384760,
+        "num": 1384760,
+        "word": "拼多多用暴力软对抗手段阻碍监管执法",
+        "onboard_time": 1776507981,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1101338,
+        "num": 1101338,
+        "word": "五一航班大面积取消",
+        "onboard_time": 1776496760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40447,
+        "num": 921233,
+        "word": "中国硬核新成就刷屏",
+        "onboard_time": 1776501079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816568,
+        "num": 816568,
+        "word": "李小冉 你吃过麻辣拌吗",
+        "onboard_time": 1776505822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701532,
+        "num": 701532,
+        "word": "怪不得韩国人爱去张家界旅游",
+        "onboard_time": 1776495080,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 652797,
+        "num": 652797,
+        "word": "解放军凌晨四点管控日舰过航台湾海峡",
+        "onboard_time": 1776503961,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652000,
+        "num": 652000,
+        "word": "女子机场两次拒绝帮陌生人带行李",
+        "onboard_time": 1776501441,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589378,
+        "num": 589378,
+        "word": "伊朗恢复对霍尔木兹海峡的控制",
+        "onboard_time": 1776503479,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 568616,
+        "num": 568616,
+        "word": "李小冉 在记了两个胳膊都记了",
+        "onboard_time": 1776498620,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241825,
+        "num": 558517,
+        "word": "雷军激动到破音了",
+        "onboard_time": 1776495559,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1373133,
+        "num": 509175,
+        "word": "中国城市宜居水平排行榜",
+        "onboard_time": 1776504201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848831,
+        "num": 481423,
+        "word": "时代少年团 郭敬明审美",
+        "onboard_time": 1776502638,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716624,
+        "num": 438346,
+        "word": "孟美岐解约乐华的第一个活动",
+        "onboard_time": 1776507201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437952,
+        "num": 437952,
+        "word": "老板在抓药顾客在买药猫咪在吃药",
+        "onboard_time": 1776503000,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555731,
+        "num": 429491,
+        "word": "许凯 怪我",
+        "onboard_time": 1776483022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414171,
+        "num": 414171,
+        "word": "苏超",
+        "onboard_time": 1776505223,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216031,
+        "num": 408270,
+        "word": "张雪机车仅以0.071秒差距落后榜首",
+        "onboard_time": 1776491359,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172347,
+        "num": 407080,
+        "word": "张雪机车热身赛第一",
+        "onboard_time": 1776503421,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145805,
+        "num": 397569,
+        "word": "HLE暴打GEN",
+        "onboard_time": 1776505042,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58442,
+        "num": 391481,
+        "word": "深圳一小学老师批改作业时崩溃大哭",
+        "onboard_time": 1776508881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447181,
+        "num": 386033,
+        "word": "金智秀的姐姐",
+        "onboard_time": 1776504500,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379900,
+        "num": 379900,
+        "word": "一个蛋糕引出7平台35.97亿元罚单",
+        "onboard_time": 1776484280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290912,
+        "num": 290912,
+        "word": "萧蔷翻温峥嵘白眼",
+        "onboard_time": 1776508520,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270796,
+        "num": 270796,
+        "word": "王一博一人带动一个赛事",
+        "onboard_time": 1776505941,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 436839,
+        "num": 268350,
+        "word": "金智秀哥哥前妻发声",
+        "onboard_time": 1776499340,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226051,
+        "num": 264144,
+        "word": "俄罗斯一载40名中国游客大巴翻车",
+        "onboard_time": 1776506960,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260414,
+        "num": 260414,
+        "word": "杨蓉晒烫伤后疤痕恢复照",
+        "onboard_time": 1776495139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231540,
+        "num": 231540,
+        "word": "时代少年团 没有抢到票的风险",
+        "onboard_time": 1776501441,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 226248,
+        "word": "库里回应与勇士续约",
+        "onboard_time": 1776498739,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93660,
+        "num": 225605,
+        "word": "AG夺得CFPL第十三冠",
+        "onboard_time": 1776509481,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225328,
+        "num": 225328,
+        "word": "谁敢听达拉崩吧小考",
+        "onboard_time": 1776489498,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193622,
+        "num": 193622,
+        "word": "高三女生借摊贩手机作弊已被处理",
+        "onboard_time": 1776496520,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224018,
+        "num": 192407,
+        "word": "华晨宇造物者歌词被指抄袭周杰伦",
+        "onboard_time": 1776497600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92761,
+        "num": 189671,
+        "word": "LPL和LCK真不一样了",
+        "onboard_time": 1776501079,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188404,
+        "num": 188404,
+        "word": "亲爸后妈离婚女孩选择跟后妈生活",
+        "onboard_time": 1776498560,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169104,
+        "num": 169104,
+        "word": "张婉婷坐飞机惊恐发作差点被驱逐",
+        "onboard_time": 1776509181,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156405,
+        "num": 156405,
+        "word": "马頔要退五哈通告费",
+        "onboard_time": 1776504141,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154936,
+        "num": 154936,
+        "word": "暖阳送镜星元",
+        "onboard_time": 1776509000,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "校方通报女生骗摊主手机作弊被抓",
+        "onboard_time": 1776497901,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147293,
+        "num": 147293,
+        "word": "女子靠试管阻断截瘫遗传生健康女婴",
+        "onboard_time": 1776492199,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143222,
+        "num": 143222,
+        "word": "赵雅芝73岁状态",
+        "onboard_time": 1776503721,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140656,
+        "num": 140656,
+        "word": "安崎偏偏你最争气",
+        "onboard_time": 1776507501,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136230,
+        "num": 136230,
+        "word": "日本可短时间内造出原子弹",
+        "onboard_time": 1776509121,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135412,
+        "num": 135412,
+        "word": "富人付费狙杀平民偏好儿童年轻女性",
+        "onboard_time": 1776502341,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131822,
+        "num": 131822,
+        "word": "曾沛慈 垫完你的垫你的",
+        "onboard_time": 1776489860,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127051,
+        "num": 127051,
+        "word": "北约30国大使集体访日",
+        "onboard_time": 1776508881,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124338,
+        "num": 124338,
+        "word": "张予曦毕雯珺总算说上话了",
+        "onboard_time": 1776496700,
+        "rank": 46,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 79503,
+        "num": 121977,
+        "word": "张雪解释车手最后两圈才刷出好成绩",
+        "onboard_time": 1776505759,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121758,
+        "num": 121758,
+        "word": "张奕然一口气14个舞台",
+        "onboard_time": 1776508101,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43203,
+        "num": 117620,
+        "word": "格林两场附加赛狂轰71分",
+        "onboard_time": 1776496641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}

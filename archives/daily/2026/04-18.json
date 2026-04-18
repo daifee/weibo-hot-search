@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776506905272,
+  "endTime": 1776509522663,
   "band_list": [
     {
       "raw_hot": 2685311,
@@ -75,7 +75,15 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1367315,
+      "raw_hot": 1384760,
+      "num": 1384760,
+      "word": "拼多多用暴力软对抗手段阻碍监管执法",
+      "onboard_time": 1776507981,
+      "rank": 0,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1373133,
       "num": 817307,
       "word": "中国城市宜居水平排行榜",
       "onboard_time": 1776504201,
@@ -267,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 816568,
+      "num": 887824,
+      "word": "李小冉 你吃过麻辣拌吗",
+      "onboard_time": 1776505822,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
@@ -299,12 +315,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 720292,
-      "num": 887824,
-      "word": "李小冉 你吃过麻辣拌吗",
-      "onboard_time": 1776505822,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 716624,
+      "num": 438346,
+      "word": "孟美岐解约乐华的第一个活动",
+      "onboard_time": 1776507201,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 706085,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 599593,
-      "num": 239503,
+      "num": 386033,
       "word": "金智秀的姐姐",
       "onboard_time": 1776504500,
       "rank": 20,
@@ -393,6 +409,14 @@
       "onboard_time": 1776479180,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 589378,
+      "num": 589378,
+      "word": "伊朗恢复对霍尔木兹海峡的控制",
+      "onboard_time": 1776503479,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 589294,
@@ -409,14 +433,6 @@
       "onboard_time": 1776436822,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551080,
-      "num": 551080,
-      "word": "伊朗恢复对霍尔木兹海峡的控制",
-      "onboard_time": 1776503479,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 544585,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437952,
+      "num": 437952,
+      "word": "老板在抓药顾客在买药猫咪在吃药",
+      "onboard_time": 1776503000,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 434186,
       "num": 434186,
       "word": "39岁高龄产妇子宫患癌仍坚持生育",
@@ -593,6 +617,14 @@
       "onboard_time": 1776481459,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 414171,
+      "num": 414171,
+      "word": "苏超",
+      "onboard_time": 1776505223,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 413520,
@@ -748,7 +780,7 @@
     },
     {
       "raw_hot": 321986,
-      "num": 239239,
+      "num": 270796,
       "word": "王一博一人带动一个赛事",
       "onboard_time": 1776505941,
       "rank": 24,
@@ -801,6 +833,14 @@
       "onboard_time": 1776432081,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290912,
+      "num": 290912,
+      "word": "萧蔷翻温峥嵘白眼",
+      "onboard_time": 1776508520,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 286338,
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 260239,
-      "num": 317053,
+      "num": 407080,
       "word": "张雪机车热身赛第一",
       "onboard_time": 1776503421,
       "rank": 19,
@@ -947,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236871,
-      "num": 236871,
-      "word": "老板在抓药顾客在买药猫咪在吃药",
-      "onboard_time": 1776503000,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235860,
       "num": 142431,
       "word": "第一个发现这个机位的是天才吧",
@@ -993,6 +1025,14 @@
       "onboard_time": 1776479479,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 226051,
+      "num": 264144,
+      "word": "俄罗斯一载40名中国游客大巴翻车",
+      "onboard_time": 1776506960,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222202,
@@ -1251,6 +1291,14 @@
       "category": "海外新闻,军事"
     },
     {
+      "raw_hot": 169104,
+      "num": 169104,
+      "word": "张婉婷坐飞机惊恐发作差点被驱逐",
+      "onboard_time": 1776509181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168052,
       "num": 168052,
       "word": "医生回应28岁孕妇确诊肺癌",
@@ -1307,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "暖阳送镜星元",
+      "onboard_time": 1776509000,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154082,
       "num": 154082,
       "word": "浪姐二公小考排名",
@@ -1332,7 +1388,7 @@
     },
     {
       "raw_hot": 147152,
-      "num": 238804,
+      "num": 397569,
       "word": "HLE暴打GEN",
       "onboard_time": 1776505042,
       "rank": 29,
@@ -1379,12 +1435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 139204,
-      "num": 239298,
-      "word": "苏超",
-      "onboard_time": 1776505223,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 140656,
+      "num": 140656,
+      "word": "安崎偏偏你最争气",
+      "onboard_time": 1776507501,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 138837,
@@ -1411,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136230,
+      "num": 136230,
+      "word": "日本可短时间内造出原子弹",
+      "onboard_time": 1776509121,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135117,
       "num": 135117,
       "word": "小米新SU7续航",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1776475040,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127051,
+      "num": 127051,
+      "word": "北约30国大使集体访日",
+      "onboard_time": 1776508881,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125510,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1776456254,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121758,
+      "num": 121758,
+      "word": "张奕然一口气14个舞台",
+      "onboard_time": 1776508101,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 121207,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1776477798,
       "rank": 21,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 93660,
+      "num": 225605,
+      "word": "AG夺得CFPL第十三冠",
+      "onboard_time": 1776509481,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 93553,
@@ -1595,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79503,
+      "num": 134988,
+      "word": "张雪解释车手最后两圈才刷出好成绩",
+      "onboard_time": 1776505759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78546,
       "num": 104170,
       "word": "孙颖莎巨型卡通装饰",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1776468138,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74086,
-      "num": 134988,
-      "word": "张雪解释车手最后两圈才刷出好成绩",
-      "onboard_time": 1776505759,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 73013,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1776480379,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58442,
+      "num": 391481,
+      "word": "深圳一小学老师批改作业时崩溃大哭",
+      "onboard_time": 1776508881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57962,
