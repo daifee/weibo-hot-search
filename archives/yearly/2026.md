@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/18 13:14:58
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/18 13:58:15
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%87%91%E6%99%BA%E7%A7%80%E7%9A%84%E5%93%A5%E5%93%A5%E5%AE%B6%E6%9A%B4%23" target="weibo">
+曝金智秀的哥哥家暴（热度：2228590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B0%E6%9B%A6%E8%96%87%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%95%AC%E9%85%92%23" target="weibo">
 张凌赫田曦薇经纪人敬酒（热度：2221110）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB%23" target="weibo">
 白宫回应特朗普病重住院传闻（热度：1974723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89%23" target="weibo">
-被妻子道歉出轨丈夫现状曝光（热度：1973872）
 </a>
 </li>
 
