@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776552259430,
+  "endTime": 1776553489078,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 765043,
+      "num": 317271,
+      "word": "日本驱逐舰过航台湾海峡取证画面",
+      "onboard_time": 1776537255,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 690122,
       "num": 690122,
       "word": "日本已彻底撕掉伪装",
@@ -49,14 +57,6 @@
       "onboard_time": 1776521842,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 609649,
-      "num": 259425,
-      "word": "日本驱逐舰过航台湾海峡取证画面",
-      "onboard_time": 1776537255,
-      "rank": 22,
-      "category": "军事"
     },
     {
       "raw_hot": 608867,
@@ -211,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270006,
+      "num": 270006,
+      "word": "解放军护卫舰已随时准备开火",
+      "onboard_time": 1776526641,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 252558,
       "num": 223025,
       "word": "张小斐被虫子吓得弹起来了",
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235763,
+      "num": 367055,
+      "word": "人与人其实更多的是相逢恨早",
+      "onboard_time": 1776539595,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224866,
       "num": 224866,
       "word": "日媒集体噤声",
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221172,
-      "num": 221172,
-      "word": "解放军护卫舰已随时准备开火",
-      "onboard_time": 1776526641,
-      "rank": 31,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 218437,
       "num": 218437,
       "word": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
@@ -267,20 +275,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209044,
-      "num": 367055,
-      "word": "人与人其实更多的是相逢恨早",
-      "onboard_time": 1776539595,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207617,
       "num": 207617,
       "word": "时代少年团 郭敬明审美",
       "onboard_time": 1776502638,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206048,
+      "num": 197836,
+      "word": "长大告诉孩子是轮胎生的",
+      "onboard_time": 1776531977,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 199962,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151321,
-      "num": 197836,
-      "word": "长大告诉孩子是轮胎生的",
-      "onboard_time": 1776531977,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150332,
       "num": 209013,
       "word": "六位数的狗坐在七位数的车里",
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135131,
+      "num": 135131,
+      "word": "风扇乱流 灭蚊子",
+      "onboard_time": 1776545473,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 120684,
       "num": 255693,
       "word": "宿迁2比0南京",
@@ -435,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112079,
-      "num": 112079,
-      "word": "风扇乱流 灭蚊子",
-      "onboard_time": 1776545473,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 107874,
       "num": 207364,
       "word": "男子养龙虾月赔10万破防抑郁",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 93820,
-      "num": 93820,
+      "num": 110154,
       "word": "属于我的8小时到哪去了",
       "onboard_time": 1776536476,
       "rank": 38,
@@ -483,20 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86660,
+      "num": 208078,
+      "word": "深圳一小学老师批改作业时崩溃大哭",
+      "onboard_time": 1776508881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85574,
+      "num": 207644,
+      "word": "李小冉 你吃过麻辣拌吗",
+      "onboard_time": 1776505822,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84923,
       "num": 208272,
       "word": "日本骑行新规真把日本人当日本人整",
       "onboard_time": 1776525802,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 79850,
-      "num": 208078,
-      "word": "深圳一小学老师批改作业时崩溃大哭",
-      "onboard_time": 1776508881,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78054,
@@ -507,15 +515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77075,
-      "num": 207644,
-      "word": "李小冉 你吃过麻辣拌吗",
-      "onboard_time": 1776505822,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 68657,
+      "raw_hot": 74124,
       "num": 197036,
       "word": "以色列社会悲观情绪主导",
       "onboard_time": 1776534019,
@@ -523,12 +523,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68078,
+      "raw_hot": 73280,
       "num": 197576,
       "word": "蓝莓摊泼水节被洗劫一空摊主发声",
       "onboard_time": 1776533536,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70680,
+      "num": 113026,
+      "word": "京东让何润东项羽还原度封神",
+      "onboard_time": 1776523643,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 58107,
@@ -571,20 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42329,
+      "num": 109149,
+      "word": "王一博GT3排位赛",
+      "onboard_time": 1776553218,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 41852,
+      "num": 108481,
+      "word": "解放军跟监警戒日驱逐舰画面",
+      "onboard_time": 1776543373,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 39254,
       "num": 68148,
       "word": "张雪机车回应首回合第4",
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36291,
-      "num": 43743,
-      "word": "解放军跟监警戒日驱逐舰画面",
-      "onboard_time": 1776543373,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 32023,
