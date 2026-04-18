@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776519697312,
+  "endTime": 1776523764650,
   "band_list": [
     {
       "raw_hot": 4420525,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1596416,
+      "num": 1596416,
+      "word": "宿迁vs南京",
+      "onboard_time": 1776516982,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1565393,
       "num": 621375,
       "word": "日本叫嚣击沉中国航母",
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 1373133,
-      "num": 817307,
+      "num": 890828,
       "word": "中国城市宜居水平排行榜",
       "onboard_time": 1776504201,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1243648,
+      "num": 376714,
+      "word": "金智秀哥哥的妻子发ins",
+      "onboard_time": 1776521121,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1233316,
@@ -315,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 850482,
-      "num": 857451,
-      "word": "宿迁vs南京",
-      "onboard_time": 1776516982,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 830325,
       "num": 357537,
       "word": "日舰艇进入台湾海峡被中国军队处置",
@@ -459,8 +467,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648794,
+      "num": 395081,
+      "word": "张凌赫ins更新萌照",
+      "onboard_time": 1776519683,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641347,
-      "num": 476173,
+      "num": 547748,
       "word": "陈紫函不上浪姐的原因",
       "onboard_time": 1776516623,
       "rank": 24,
@@ -528,6 +544,14 @@
       "word": "张婉婷坐飞机惊恐发作差点被驱逐",
       "onboard_time": 1776509181,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 558858,
+      "num": 376332,
+      "word": "梅婷女儿名字叫曾慕梅",
+      "onboard_time": 1776521963,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -715,6 +739,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 428180,
+      "num": 392618,
+      "word": "朱孝天上节目被打",
+      "onboard_time": 1776518240,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426045,
+      "num": 375823,
+      "word": "柳智敏穿的长裙只要92元",
+      "onboard_time": 1776523224,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421899,
       "num": 262871,
       "word": "李小冉一公第一名",
@@ -755,6 +795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 401638,
+      "num": 401638,
+      "word": "澳门老炮质问B太",
+      "onboard_time": 1776515662,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398883,
       "num": 312530,
       "word": "尹正自曝把摩托车全卖了",
@@ -764,7 +812,7 @@
     },
     {
       "raw_hot": 398431,
-      "num": 369825,
+      "num": 375781,
       "word": "内耗人的终极解药",
       "onboard_time": 1776509781,
       "rank": 39,
@@ -875,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 349849,
+      "num": 349849,
+      "word": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
+      "onboard_time": 1776521723,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339811,
       "num": 259862,
       "word": "王濛练了那么多年防别人扒拉",
@@ -883,20 +939,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338906,
-      "num": 362974,
-      "word": "澳门老炮质问B太",
-      "onboard_time": 1776515662,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336723,
       "num": 242744,
       "word": "拼多多美团京东淘天抖音被罚35亿",
       "onboard_time": 1776414140,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 330457,
+      "num": 330457,
+      "word": "张小斐被虫子吓得弹起来了",
+      "onboard_time": 1776519024,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 325049,
@@ -929,6 +985,14 @@
       "onboard_time": 1776471019,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317361,
+      "num": 354997,
+      "word": "张雪机车为什么被罚",
+      "onboard_time": 1776521842,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 316290,
@@ -1003,20 +1067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293804,
-      "num": 293804,
-      "word": "朱孝天上节目被打",
-      "onboard_time": 1776518240,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286338,
       "num": 286338,
       "word": "王濛看李小冉二公小考的表情",
       "onboard_time": 1776491840,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285403,
+      "num": 285403,
+      "word": "樊振东波尔日内瓦旅行",
+      "onboard_time": 1776520523,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 285352,
@@ -1059,6 +1123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 268207,
+      "num": 268207,
+      "word": "六位数的狗坐在七位数的车里",
+      "onboard_time": 1776510681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266138,
       "num": 266138,
       "word": "勇士vs太阳",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1776490459,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265597,
+      "num": 265597,
+      "word": "鞠婧祎周边",
+      "onboard_time": 1776521121,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 260239,
@@ -1235,14 +1315,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 225950,
-      "num": 225950,
-      "word": "六位数的狗坐在七位数的车里",
-      "onboard_time": 1776510681,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 222202,
       "num": 222202,
       "word": "曝再见朋友接触井柏然付辛博",
@@ -1347,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203130,
+      "num": 203130,
+      "word": "日本远程导弹射程覆盖中国军港",
+      "onboard_time": 1776509841,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203119,
       "num": 235297,
       "word": "穆祉丞二维码",
@@ -1363,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202674,
-      "num": 202674,
-      "word": "日本远程导弹射程覆盖中国军港",
-      "onboard_time": 1776509841,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 202001,
       "num": 234012,
       "word": "20岁孙女偷偷结婚7旬爷爷落泪",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1776511342,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 201103,
+      "num": 201103,
+      "word": "48岁TVB视后田蕊妮再度患癌",
+      "onboard_time": 1776518302,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 198046,
@@ -1411,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197347,
-      "num": 197347,
-      "word": "张小斐被虫子吓得弹起来了",
-      "onboard_time": 1776519024,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "李煜东跳overdrive",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1776501079,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191047,
+      "num": 175252,
+      "word": "王嘉尔在推特怼黑粉",
+      "onboard_time": 1776521003,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 190053,
@@ -1468,7 +1548,7 @@
     },
     {
       "raw_hot": 186015,
-      "num": 293821,
+      "num": 377001,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
       "onboard_time": 1776489141,
       "rank": 44,
@@ -1539,6 +1619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175403,
+      "num": 175403,
+      "word": "云南昭通3.8级地震",
+      "onboard_time": 1776523283,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 174727,
+      "num": 174727,
+      "word": "霸王归来宿迁2比0领先南京",
+      "onboard_time": 1776520341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174276,
       "num": 174276,
       "word": "这都是谁往天上放的",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1776421521,
       "rank": 36,
       "category": "海外新闻,军事"
+    },
+    {
+      "raw_hot": 169002,
+      "num": 350605,
+      "word": "泰国泼水节疑有人向人嘴里射毒水",
+      "onboard_time": 1776521482,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168052,
@@ -1681,14 +1785,6 @@
       "onboard_time": 1776421281,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149711,
-      "num": 149711,
-      "word": "48岁TVB视后田蕊妮再度患癌",
-      "onboard_time": 1776518302,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 149054,
@@ -1859,12 +1955,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116757,
+      "num": 173378,
+      "word": "京东让何润东项羽还原度封神",
+      "onboard_time": 1776523643,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115156,
       "num": 270866,
       "word": "伊朗透露敌方停火重要原因",
       "onboard_time": 1776502761,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113094,
+      "num": 377636,
+      "word": "56岁雷军连续直播15小时",
+      "onboard_time": 1776518122,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 109085,
@@ -2107,6 +2219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 50532,
+      "num": 211591,
+      "word": "陈卓璇赖美云赵晴张小婉4人美翻了",
+      "onboard_time": 1776518061,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50082,
       "num": 1077322,
       "word": "中国硬核新成就刷屏",
@@ -2139,14 +2259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43136,
-      "num": 197942,
-      "word": "陈卓璇赖美云赵晴张小婉4人美翻了",
-      "onboard_time": 1776518061,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 42452,
       "num": 90236,
       "word": "张雪机车的新涂装",
@@ -2177,6 +2289,14 @@
       "onboard_time": 1776453735,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38830,
+      "num": 699181,
+      "word": "生态文旅激活消费新活力",
+      "onboard_time": 1776520223,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38067,
@@ -2299,10 +2419,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9662,
-      "num": 293959,
-      "word": "56岁雷军连续直播15小时",
-      "onboard_time": 1776518122,
+      "raw_hot": 1048,
+      "num": 350178,
+      "word": "雷军说无意做穿搭博主",
+      "onboard_time": 1776523522,
       "rank": 29,
       "category": "互联网"
     }
@@ -2316,6 +2436,9 @@
     },
     {
       "word": "#总书记引领强国之路#"
+    },
+    {
+      "word": "#习近平谈政绩观#"
     }
   ]
 }
