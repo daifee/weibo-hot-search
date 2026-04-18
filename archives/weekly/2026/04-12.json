@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776506307033,
+  "endTime": 1776506905272,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -289,6 +289,14 @@
       "onboard_time": 1776142582,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1367315,
+      "num": 817307,
+      "word": "中国城市宜居水平排行榜",
+      "onboard_time": 1776504201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1358925,
@@ -731,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817307,
-      "num": 817307,
-      "word": "中国城市宜居水平排行榜",
-      "onboard_time": 1776504201,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 817286,
       "num": 817286,
       "word": "孙怡动用人脉当上了最不想当的队长",
@@ -923,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720292,
+      "num": 887824,
+      "word": "李小冉 你吃过麻辣拌吗",
+      "onboard_time": 1776505822,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 717758,
       "num": 1114841,
       "word": "印度男孩遭蛇咬伤被父母浸入恒河",
@@ -945,14 +953,6 @@
       "onboard_time": 1776311363,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710698,
-      "num": 887824,
-      "word": "李小冉 你吃过麻辣拌吗",
-      "onboard_time": 1776505822,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 707910,
@@ -985,6 +985,14 @@
       "onboard_time": 1776421460,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 698152,
+      "num": 920143,
+      "word": "解放军凌晨四点管控日舰过航台湾海峡",
+      "onboard_time": 1776503961,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 698085,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1776002123,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676784,
-      "num": 920143,
-      "word": "解放军凌晨四点管控日舰过航台湾海峡",
-      "onboard_time": 1776503961,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 672036,
@@ -3523,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321986,
+      "num": 239239,
+      "word": "王一博一人带动一个赛事",
+      "onboard_time": 1776505941,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 321840,
       "num": 107814,
       "word": "郑恺晒女儿全英文对话",
@@ -4081,14 +4089,6 @@
       "onboard_time": 1776491840,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285420,
-      "num": 239239,
-      "word": "王一博一人带动一个赛事",
-      "onboard_time": 1776505941,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 285352,
@@ -5643,6 +5643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208340,
+      "num": 238895,
+      "word": "伊朗宣布多个机场重新开放",
+      "onboard_time": 1776504920,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208303,
       "num": 175651,
       "word": "祝绪丹一亲嘴家里盆都端冒烟了",
@@ -5753,6 +5761,14 @@
       "onboard_time": 1776408561,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202769,
+      "num": 202769,
+      "word": "女友跳楼男友未拽住担责冤不冤",
+      "onboard_time": 1776504980,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202633,
@@ -6675,14 +6691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 170789,
-      "num": 170789,
-      "word": "女友跳楼男友未拽住担责冤不冤",
-      "onboard_time": 1776504980,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170635,
       "num": 122056,
       "word": "AXIZ战胜Wolves",
@@ -6929,6 +6937,14 @@
       "onboard_time": 1776133761,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162815,
+      "num": 162815,
+      "word": "马頔要退五哈通告费",
+      "onboard_time": 1776504141,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 162361,
@@ -7363,14 +7379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149268,
-      "num": 149268,
-      "word": "马頔要退五哈通告费",
-      "onboard_time": 1776504141,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149195,
       "num": 188300,
       "word": "唐艺昕李小冉王濛自拍",
@@ -7433,6 +7441,14 @@
       "onboard_time": 1776244340,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147152,
+      "num": 238804,
+      "word": "HLE暴打GEN",
+      "onboard_time": 1776505042,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 146675,
@@ -7705,14 +7721,6 @@
       "onboard_time": 1776309202,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141348,
-      "num": 238895,
-      "word": "伊朗宣布多个机场重新开放",
-      "onboard_time": 1776504920,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141261,
@@ -8065,14 +8073,6 @@
       "onboard_time": 1776082220,
       "rank": 26,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 132975,
-      "num": 238804,
-      "word": "HLE暴打GEN",
-      "onboard_time": 1776505042,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 132795,
@@ -12923,6 +12923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74086,
+      "num": 134988,
+      "word": "张雪解释车手最后两圈才刷出好成绩",
+      "onboard_time": 1776505759,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73948,
       "num": 73948,
       "word": "多方资本领投涉黄AI软件",
@@ -15475,14 +15483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44911,
-      "num": 134988,
-      "word": "张雪解释车手最后两圈才刷出好成绩",
-      "onboard_time": 1776505759,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44827,
       "num": 44827,
       "word": "浪姐连着两天淘汰两个央视前主持人",
@@ -15505,6 +15505,14 @@
       "onboard_time": 1775994021,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44341,
+      "num": 1077322,
+      "word": "中国硬核新成就刷屏",
+      "onboard_time": 1776501079,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44065,
@@ -15897,14 +15905,6 @@
       "onboard_time": 1775973561,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 37814,
-      "num": 1077322,
-      "word": "中国硬核新成就刷屏",
-      "onboard_time": 1776501079,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37661,
