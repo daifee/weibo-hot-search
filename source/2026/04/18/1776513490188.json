@@ -1,0 +1,410 @@
+{
+  "runTime": 1776513490188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 806469,
+        "num": 1129035,
+        "word": "苏超",
+        "onboard_time": 1776505223,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581512,
+        "num": 830744,
+        "word": "解放军凌晨四点管控日舰过航台湾海峡",
+        "onboard_time": 1776503961,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50082,
+        "num": 652417,
+        "word": "中国硬核新成就刷屏",
+        "onboard_time": 1776501079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640442,
+        "num": 640442,
+        "word": "日媒集体噤声",
+        "onboard_time": 1776510021,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 635489,
+        "num": 635489,
+        "word": "女子机场两次拒绝帮陌生人带行李",
+        "onboard_time": 1776501441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600817,
+        "num": 600817,
+        "word": "怪不得韩国人爱去张家界旅游",
+        "onboard_time": 1776495080,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 563448,
+        "num": 563448,
+        "word": "深圳一小学老师批改作业时崩溃大哭",
+        "onboard_time": 1776508881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411732,
+        "num": 411732,
+        "word": "何润东现身宿迁奥体",
+        "onboard_time": 1776511580,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380948,
+        "num": 380948,
+        "word": "日本军舰过航台海为何选4月17日",
+        "onboard_time": 1776511342,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365782,
+        "num": 365782,
+        "word": "伊朗恢复对霍尔木兹海峡的控制",
+        "onboard_time": 1776503479,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1054028,
+        "num": 363436,
+        "word": "五一航班大面积取消",
+        "onboard_time": 1776496760,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813710,
+        "num": 359548,
+        "word": "萧蔷翻温峥嵘白眼",
+        "onboard_time": 1776508520,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754470,
+        "num": 357097,
+        "word": "中国城市宜居水平排行榜",
+        "onboard_time": 1776504201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707617,
+        "num": 352646,
+        "word": "孟美岐解约乐华的第一个活动",
+        "onboard_time": 1776507201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654316,
+        "num": 351813,
+        "word": "时代少年团 郭敬明审美",
+        "onboard_time": 1776502638,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348996,
+        "num": 348996,
+        "word": "老板在抓药顾客在买药猫咪在吃药",
+        "onboard_time": 1776503000,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553433,
+        "num": 344093,
+        "word": "李小冉 你吃过麻辣拌吗",
+        "onboard_time": 1776505822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37236,
+        "num": 338249,
+        "word": "魏建军王濛聊棱角是一种责任",
+        "onboard_time": 1776511401,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192311,
+        "num": 327356,
+        "word": "姜贞羽淘汰",
+        "onboard_time": 1776513319,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37596,
+        "num": 311218,
+        "word": "官方通报男子被装载机铲入身亡",
+        "onboard_time": 1776512661,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 534312,
+        "num": 302978,
+        "word": "许凯 怪我",
+        "onboard_time": 1776483022,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403513,
+        "num": 297591,
+        "word": "张婉婷坐飞机惊恐发作差点被驱逐",
+        "onboard_time": 1776509181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292192,
+        "num": 292192,
+        "word": "时代少年团 没有抢到票的风险",
+        "onboard_time": 1776501441,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398431,
+        "num": 291701,
+        "word": "内耗人的终极解药",
+        "onboard_time": 1776509781,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186376,
+        "num": 280631,
+        "word": "雷军激动到破音了",
+        "onboard_time": 1776495559,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 401105,
+        "num": 264057,
+        "word": "李小冉 在记了两个胳膊都记了",
+        "onboard_time": 1776498620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389576,
+        "num": 250111,
+        "word": "金智秀哥哥前妻发声",
+        "onboard_time": 1776499340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249543,
+        "num": 249543,
+        "word": "一个蛋糕引出7平台35.97亿元罚单",
+        "onboard_time": 1776484280,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314661,
+        "num": 240389,
+        "word": "何润东项羽盔甲做好了",
+        "onboard_time": 1776512241,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164854,
+        "num": 229665,
+        "word": "北约30国大使集体访日",
+        "onboard_time": 1776508881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221012,
+        "num": 221012,
+        "word": "日本可短时间内造出原子弹",
+        "onboard_time": 1776509121,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276659,
+        "num": 215777,
+        "word": "金智秀的姐姐",
+        "onboard_time": 1776504500,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206488,
+        "num": 206488,
+        "word": "六位数的狗坐在七位数的车里",
+        "onboard_time": 1776510681,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22368,
+        "num": 202790,
+        "word": "喂娃流感药除了连哄带骗有啥招",
+        "onboard_time": 1776511223,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 201226,
+        "num": 201226,
+        "word": "官方通报村支书被举报违建1500平楼房",
+        "onboard_time": 1776511342,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201130,
+        "num": 201130,
+        "word": "苏超直播",
+        "onboard_time": 1776512120,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152063,
+        "num": 181082,
+        "word": "谁敢听达拉崩吧小考",
+        "onboard_time": 1776489498,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180287,
+        "num": 180287,
+        "word": "杨紫生命树官媒发文统计",
+        "onboard_time": 1776510800,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160176,
+        "num": 178850,
+        "word": "富人付费狙杀平民偏好儿童年轻女性",
+        "onboard_time": 1776502341,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178401,
+        "num": 178401,
+        "word": "王一博一人带动一个赛事",
+        "onboard_time": 1776505941,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 173393,
+        "num": 173393,
+        "word": "杨蓉晒烫伤后疤痕恢复照",
+        "onboard_time": 1776495139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158431,
+        "num": 158431,
+        "word": "日本远程导弹射程覆盖中国军港",
+        "onboard_time": 1776509841,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168281,
+        "num": 158294,
+        "word": "华晨宇造物者歌词被指抄袭周杰伦",
+        "onboard_time": 1776497600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155188,
+        "num": 155188,
+        "word": "日本在马关条约签订日闯入台海",
+        "onboard_time": 1776513140,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152311,
+        "num": 152311,
+        "word": "AG夺得CFPL第十三冠",
+        "onboard_time": 1776509481,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149054,
+        "num": 149054,
+        "word": "咪豆 徐明浩",
+        "onboard_time": 1776511101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "老太占道卖菜城管执法时倒地身亡",
+        "onboard_time": 1776510982,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142244,
+        "num": 142244,
+        "word": "校方通报女生骗摊主手机作弊被抓",
+        "onboard_time": 1776497901,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133990,
+        "num": 133990,
+        "word": "刘宇宁南京",
+        "onboard_time": 1776512842,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127138,
+        "num": 127138,
+        "word": "亲爸后妈离婚女孩选择跟后妈生活",
+        "onboard_time": 1776498560,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
