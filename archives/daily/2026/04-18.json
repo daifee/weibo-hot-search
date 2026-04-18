@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776480985129,
+  "endTime": 1776483464725,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1930656,
-      "num": 356549,
+      "num": 410159,
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 12,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1160909,
-      "num": 358398,
+      "num": 418461,
       "word": "女子跳楼被男友拽5分钟后坠亡",
       "onboard_time": 1776440120,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1160847,
+      "num": 641593,
+      "word": "花少8姐姐三句不离小鲜肉",
+      "onboard_time": 1776478459,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1154977,
@@ -51,8 +59,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1093965,
-      "num": 222742,
+      "raw_hot": 1121209,
+      "num": 377130,
       "word": "jisoo的哥哥已婚",
       "onboard_time": 1776475999,
       "rank": 22,
@@ -123,20 +131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 760913,
-      "num": 582731,
-      "word": "花少8姐姐三句不离小鲜肉",
-      "onboard_time": 1776478459,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 757781,
       "num": 757781,
       "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
       "onboard_time": 1776436704,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 699599,
+      "num": 417838,
+      "word": "何润东和老婆结婚10年没生孩子",
+      "onboard_time": 1776481100,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 667185,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 665107,
-      "num": 234169,
+      "num": 366472,
       "word": "女子同房后出血2000ml相当总血量一半",
       "onboard_time": 1776468498,
       "rank": 20,
@@ -161,6 +169,14 @@
       "onboard_time": 1776433700,
       "rank": 5,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 589881,
+      "num": 848258,
+      "word": "张雪机车排名一路狂飙",
+      "onboard_time": 1776479180,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 589294,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 537165,
-      "num": 259636,
+      "num": 382275,
       "word": "时代少年团抢票",
       "onboard_time": 1776478280,
       "rank": 13,
@@ -219,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 496212,
+      "num": 393844,
+      "word": "易烊千玺注册新商标",
+      "onboard_time": 1776481579,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495271,
       "num": 495271,
       "word": "张雪机车夺得超级杆位赛第二名",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 489565,
-      "num": 252702,
+      "num": 325694,
       "word": "曝花少8大姐是吴君如",
       "onboard_time": 1776474680,
       "rank": 15,
@@ -236,11 +260,19 @@
     },
     {
       "raw_hot": 479881,
-      "num": 250676,
+      "num": 385659,
       "word": "网友拍日出拍到了易烊千玺",
       "onboard_time": 1776476839,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464092,
+      "num": 464092,
+      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
+      "onboard_time": 1776469220,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458493,
@@ -251,12 +283,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 451292,
-      "num": 255658,
-      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
-      "onboard_time": 1776469220,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 435743,
+      "num": 435743,
+      "word": "403元凉拌土鸡放20多勺糖",
+      "onboard_time": 1776473480,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 431846,
@@ -267,12 +299,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 423930,
+      "num": 392187,
+      "word": "许凯 怪我",
+      "onboard_time": 1776483022,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421899,
       "num": 262871,
       "word": "李小冉一公第一名",
       "onboard_time": 1776403940,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418601,
+      "num": 418601,
+      "word": "泰国泼水节亲历者发声",
+      "onboard_time": 1776481459,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 413520,
@@ -283,8 +331,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389553,
-      "num": 240690,
+      "raw_hot": 395450,
+      "num": 387921,
+      "word": "李沁苏州活动晚宴生图",
+      "onboard_time": 1776477740,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390218,
+      "num": 371873,
       "word": "魏晨躲在张杰背后笑",
       "onboard_time": 1776476779,
       "rank": 18,
@@ -315,12 +371,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 377452,
-      "num": 235829,
-      "word": "李沁苏州活动晚宴生图",
-      "onboard_time": 1776477740,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 366331,
+      "num": 389317,
+      "word": "39岁高龄产妇子宫患癌仍坚持生育",
+      "onboard_time": 1776481579,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365001,
@@ -356,7 +412,7 @@
     },
     {
       "raw_hot": 319250,
-      "num": 244109,
+      "num": 316468,
       "word": "全网最会做鸡的三个人齐聚广东",
       "onboard_time": 1776471019,
       "rank": 17,
@@ -377,14 +433,6 @@
       "onboard_time": 1776432081,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288237,
-      "num": 288237,
-      "word": "张雪机车排名一路狂飙",
-      "onboard_time": 1776479180,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 284906,
@@ -419,6 +467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 265815,
+      "num": 265815,
+      "word": "张杰曾让爸妈参加魏晨婚礼",
+      "onboard_time": 1776481759,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252937,
       "num": 236842,
       "word": "白发或是身体的抗癌警报",
@@ -451,6 +507,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227607,
+      "num": 227607,
+      "word": "小米18Pro配置全面曝光",
+      "onboard_time": 1776479479,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 222202,
+      "num": 222202,
+      "word": "曝再见朋友接触井柏然付辛博",
+      "onboard_time": 1776479240,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220305,
+      "num": 220305,
+      "word": "网传鞠婧祎千香引定档时间",
+      "onboard_time": 1776479420,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215452,
       "num": 228652,
       "word": "大码女装店让S码模特穿XL样衣",
@@ -473,6 +553,14 @@
       "onboard_time": 1776469878,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206271,
+      "num": 206271,
+      "word": "这才是医生说的清淡饮食",
+      "onboard_time": 1776481459,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206047,
@@ -507,30 +595,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 195804,
-      "num": 190459,
-      "word": "网传鞠婧祎千香引定档时间",
-      "onboard_time": 1776479420,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192477,
-      "num": 190388,
-      "word": "曝再见朋友接触井柏然付辛博",
-      "onboard_time": 1776479240,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190811,
-      "num": 190811,
-      "word": "403元凉拌土鸡放20多勺糖",
-      "onboard_time": 1776473480,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 189634,
       "num": 189634,
       "word": "张杰魏晨台下拥抱",
@@ -556,11 +620,19 @@
     },
     {
       "raw_hot": 184020,
-      "num": 176375,
+      "num": 182656,
       "word": "武艺唱心愿便利贴 王濛进步好大",
       "onboard_time": 1776477560,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182878,
+      "num": 182878,
+      "word": "勇士vs太阳",
+      "onboard_time": 1776479060,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 177990,
@@ -617,22 +689,6 @@
       "onboard_time": 1776437602,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156839,
-      "num": 156839,
-      "word": "小米18Pro配置全面曝光",
-      "onboard_time": 1776479479,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 156426,
-      "num": 156426,
-      "word": "勇士vs太阳",
-      "onboard_time": 1776479060,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 151926,
@@ -723,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124081,
+      "num": 103714,
+      "word": "黄灿灿曾沛慈去哪我去哪",
+      "onboard_time": 1776480799,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123356,
       "num": 215817,
       "word": "东莞理工学院回应学生送外卖被通报",
@@ -753,6 +817,14 @@
       "onboard_time": 1776469220,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110199,
+      "num": 110199,
+      "word": "NBA附加赛",
+      "onboard_time": 1776483259,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 109085,
@@ -947,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48396,
+      "num": 807719,
+      "word": "中国新能源产品成了海外抢手货",
+      "onboard_time": 1776479780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48111,
+      "num": 173308,
+      "word": "21岁女子闪婚生活7天后想离婚",
+      "onboard_time": 1776483199,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46043,
       "num": 91797,
       "word": "以宣布基本解除战时限制",
@@ -987,11 +1075,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30304,
-      "num": 807719,
-      "word": "中国新能源产品成了海外抢手货",
-      "onboard_time": 1776479780,
-      "rank": 2,
+      "raw_hot": 27555,
+      "num": 383257,
+      "word": "替外卖员赔200元解围辅警发声",
+      "onboard_time": 1776482719,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
