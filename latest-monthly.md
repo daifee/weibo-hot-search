@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 01:06:18
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 01:44:06
 </p>
 </blockquote>
 <p>
@@ -2223,6 +2223,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
+日本已彻底撕掉伪装（热度：690122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BE%97%E7%9F%A5%E5%84%BF%E5%AD%90%E8%A2%AB%E6%AC%BA%E5%87%8C%E7%8C%9D%E6%AD%BB%E5%9C%A8%E6%A0%A1%E8%B0%83%E8%A7%A3%E5%AE%A4%23" target="weibo">
 男子得知儿子被欺凌猝死在校调解室（热度：689831）
 </a>
@@ -2477,12 +2483,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E8%89%B3%E7%BD%91%E8%AF%BE%E7%8E%B0%E5%9C%BA%E6%B2%A1%E6%9C%89%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%81%8A%E5%97%A8%E4%BA%86%23" target="weibo">
 刘晓艳网课现场没有学生一个人聊嗨了（热度：648918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
-日本已彻底撕掉伪装（热度：648371）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 01:06:18
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 01:44:06
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
-日本已彻底撕掉伪装（热度：648371）
+日本已彻底撕掉伪装（热度：690122）
 </a>
 </li>
 
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E5%8B%A4%E6%9C%80%E8%BE%9B%E8%8B%A6%E5%9F%8E%E5%B8%82%23" target="weibo">
+通勤最辛苦城市（热度：353840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%80%97%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E8%A7%A3%E8%8D%AF%23" target="weibo">
 内耗人的终极解药（热度：323994）
 </a>
@@ -161,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%AB%E8%99%AB%E5%AD%90%E5%90%93%E5%BE%97%E5%BC%B9%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 张小斐被虫子吓得弹起来了（热度：252558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%A1%A8%E7%99%BD%E6%89%93%E6%96%AD%E4%BA%86%23" target="weibo">
+王源被粉丝表白打断了（热度：252067）
 </a>
 </li>
 
@@ -215,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%84%BF%E6%A3%92%E7%90%83%E5%BC%80%E7%90%83%23" target="weibo">
 林允儿棒球开球（热度：194223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%A1%A8%E7%99%BD%E6%89%93%E6%96%AD%E4%BA%86%23" target="weibo">
-王源被粉丝表白打断了（热度：191498）
 </a>
 </li>
 
@@ -285,14 +291,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%AB%E5%88%87%E5%87%BA%E5%85%B5%E6%B5%B7%E5%A4%96%23" target="weibo">
-日本迫切出兵海外（热度：117686）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%98%A5%E6%B8%B8%E5%88%B0%E8%87%AA%E5%B7%B1%E5%AE%B6%E8%A6%81%E6%B1%82%E8%B5%9410%E5%85%83%E8%BD%A6%E8%B4%B9%23" target="weibo">
+小学生春游到自己家要求赔10元车费（热度：135899）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%812%E6%AF%940%E5%8D%97%E4%BA%AC%23" target="weibo">
-宿迁2比0南京（热度：117394）
+宿迁2比0南京（热度：120684）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%AB%E5%88%87%E5%87%BA%E5%85%B5%E6%B5%B7%E5%A4%96%23" target="weibo">
+日本迫切出兵海外（热度：117686）
 </a>
 </li>
 
@@ -303,14 +315,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%98%A5%E6%B8%B8%E5%88%B0%E8%87%AA%E5%B7%B1%E5%AE%B6%E8%A6%81%E6%B1%82%E8%B5%9410%E5%85%83%E8%BD%A6%E8%B4%B9%23" target="weibo">
-小学生春游到自己家要求赔10元车费（热度：115549）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%81%A2%E5%A4%8D%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E6%8E%A7%E5%88%B6%23" target="weibo">
+伊朗恢复对霍尔木兹海峡的控制（热度：112283）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%81%A2%E5%A4%8D%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E6%8E%A7%E5%88%B6%23" target="weibo">
-伊朗恢复对霍尔木兹海峡的控制（热度：112283）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB%E9%BE%99%E8%99%BE%E6%9C%88%E8%B5%9410%E4%B8%87%E7%A0%B4%E9%98%B2%E6%8A%91%E9%83%81%23" target="weibo">
+男子养龙虾月赔10万破防抑郁（热度：107874）
 </a>
 </li>
 
@@ -351,20 +363,32 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB%E9%BE%99%E8%99%BE%E6%9C%88%E8%B5%9410%E4%B8%87%E7%A0%B4%E9%98%B2%E6%8A%91%E9%83%81%23" target="weibo">
-男子养龙虾月赔10万破防抑郁（热度：74956）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E4%B8%A4%E6%AC%A1%E6%8B%92%E7%BB%9D%E5%B8%AE%E9%99%8C%E7%94%9F%E4%BA%BA%E5%B8%A6%E8%A1%8C%E6%9D%8E%23" target="weibo">
-女子机场两次拒绝帮陌生人带行李（热度：64140）
+女子机场两次拒绝帮陌生人带行李（热度：69765）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%9A%E5%8B%A4%E6%9C%80%E8%BE%9B%E8%8B%A6%E5%9F%8E%E5%B8%82%23" target="weibo">
-通勤最辛苦城市（热度：61300）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%91%8A%E8%AF%89%E5%AD%A9%E5%AD%90%E6%98%AF%E8%BD%AE%E8%83%8E%E7%94%9F%E7%9A%84%23" target="weibo">
+长大告诉孩子是轮胎生的（热度：66537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E4%B8%8D%E6%98%AF131%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
+中国已不是131年前的中国（热度：58107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%AF%E8%83%BD%E6%98%AF%E6%97%A9%E6%9C%9F%E8%82%BA%E7%99%8C%E8%AD%A6%E7%A4%BA%E6%80%A7%E7%97%87%E7%8A%B6%23" target="weibo">
+这些可能是早期肺癌警示性症状（热度：57574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A4%BE%E4%BC%9A%E6%82%B2%E8%A7%82%E6%83%85%E7%BB%AA%E4%B8%BB%E5%AF%BC%23" target="weibo">
+以色列社会悲观情绪主导（热度：57179）
 </a>
 </li>
 
@@ -375,20 +399,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E6%91%8A%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA%E6%91%8A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+蓝莓摊泼水节被洗劫一空摊主发声（热度：52794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%97%A0%E6%84%8F%E5%81%9A%E7%A9%BF%E6%90%AD%E5%8D%9A%E4%B8%BB%23" target="weibo">
 雷军说无意做穿搭博主（热度：52746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E4%B8%8D%E6%98%AF131%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
-中国已不是131年前的中国（热度：50453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%8F%AF%E8%83%BD%E6%98%AF%E6%97%A9%E6%9C%9F%E8%82%BA%E7%99%8C%E8%AD%A6%E7%A4%BA%E6%80%A7%E7%97%87%E7%8A%B6%23" target="weibo">
-这些可能是早期肺癌警示性症状（热度：48844）
 </a>
 </li>
 
