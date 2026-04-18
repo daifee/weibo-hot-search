@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/18 11:37:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/18 13:14:58
 </p>
 </blockquote>
 <p>
@@ -1101,6 +1101,12 @@ Asen回应Sakee（热度：2704539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%98%BF%E5%A7%A8%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%E5%90%8E%E5%AE%B6%E9%95%BF%E4%BB%8D%E5%98%B2%E8%AE%BD%23" target="weibo">
+麻辣烫阿姨下跪道歉后家长仍嘲讽（热度：2685311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%23" target="weibo">
 阿爆（热度：2679279）
 </a>
@@ -1409,6 +1415,12 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
 女子U型场地决赛（热度：2285042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%20%E6%80%AA%E6%88%91%23" target="weibo">
+许凯 怪我（热度：2283647）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89%23" target="weibo">
 被妻子道歉出轨丈夫现状曝光（热度：1973872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BE%AE%E5%8D%9A%E9%AB%98%E9%A2%91%E8%AF%8D%20%E5%87%8C%E6%99%A8%E5%92%8C%E7%B4%AF%23" target="weibo">
-张雪峰微博高频词 凌晨和累（热度：1967606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%BF%20%E7%A0%8D%E4%B8%80%E5%88%80%23" target="weibo">
-国家线 砍一刀（热度：1963546）
 </a>
 </li>
 

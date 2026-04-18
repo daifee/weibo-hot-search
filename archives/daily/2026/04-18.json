@@ -1,7 +1,15 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776483464725,
+  "endTime": 1776489298963,
   "band_list": [
+    {
+      "raw_hot": 2685311,
+      "num": 836749,
+      "word": "麻辣烫阿姨下跪道歉后家长仍嘲讽",
+      "onboard_time": 1776485480,
+      "rank": 3,
+      "category": "舆论监督"
+    },
     {
       "raw_hot": 2421871,
       "num": 278122,
@@ -11,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2283647,
+      "num": 470504,
+      "word": "许凯 怪我",
+      "onboard_time": 1776483022,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1930656,
-      "num": 410159,
+      "num": 464221,
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 12,
@@ -27,6 +43,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1226943,
+      "num": 1226943,
+      "word": "一个蛋糕引出7平台35.97亿元罚单",
+      "onboard_time": 1776484280,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1224427,
+      "num": 809966,
+      "word": "大冰一句话解决买二手房的膈应",
+      "onboard_time": 1776483920,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1219068,
       "num": 281132,
       "word": "黄金",
@@ -36,7 +68,7 @@
     },
     {
       "raw_hot": 1160909,
-      "num": 418461,
+      "num": 465959,
       "word": "女子跳楼被男友拽5分钟后坠亡",
       "onboard_time": 1776440120,
       "rank": 13,
@@ -75,6 +107,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1062926,
+      "num": 735107,
+      "word": "李小冉让贺峻霖小嘴巴闭起来",
+      "onboard_time": 1776486380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038801,
       "num": 355060,
       "word": "Angelababy陈赫拥抱",
@@ -97,6 +137,14 @@
       "onboard_time": 1776434302,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 946394,
+      "num": 946394,
+      "word": "浪姐二公小考",
+      "onboard_time": 1776485539,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 907228,
@@ -137,6 +185,14 @@
       "onboard_time": 1776436704,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 706085,
+      "num": 706085,
+      "word": "公积金功能上新了",
+      "onboard_time": 1776484461,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 699599,
@@ -267,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474216,
+      "num": 474216,
+      "word": "403元凉拌土鸡放20多勺糖",
+      "onboard_time": 1776473480,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 473295,
+      "num": 459128,
+      "word": "这一秒过火",
+      "onboard_time": 1776484581,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 464092,
       "num": 464092,
       "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
@@ -283,12 +355,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 435743,
-      "num": 435743,
-      "word": "403元凉拌土鸡放20多勺糖",
-      "onboard_time": 1776473480,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 457059,
+      "num": 457059,
+      "word": "21岁女子闪婚生活7天后想离婚",
+      "onboard_time": 1776483199,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434186,
+      "num": 434186,
+      "word": "39岁高龄产妇子宫患癌仍坚持生育",
+      "onboard_time": 1776481579,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432912,
+      "num": 432912,
+      "word": "江苏事业编",
+      "onboard_time": 1776486139,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 431846,
@@ -297,14 +385,6 @@
       "onboard_time": 1776475700,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 423930,
-      "num": 392187,
-      "word": "许凯 怪我",
-      "onboard_time": 1776483022,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 421899,
@@ -369,14 +449,6 @@
       "onboard_time": 1776468978,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366331,
-      "num": 389317,
-      "word": "39岁高龄产妇子宫患癌仍坚持生育",
-      "onboard_time": 1776481579,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365001,
@@ -467,12 +539,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 266138,
+      "num": 266138,
+      "word": "勇士vs太阳",
+      "onboard_time": 1776479060,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265815,
       "num": 265815,
       "word": "张杰曾让爸妈参加魏晨婚礼",
       "onboard_time": 1776481759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258940,
+      "num": 258940,
+      "word": "18岁儿子撒娇要零花钱拽掉爸爸胳膊",
+      "onboard_time": 1776485959,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252937,
@@ -571,11 +659,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205422,
+      "num": 205422,
+      "word": "NBA附加赛",
+      "onboard_time": 1776483259,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203119,
       "num": 235297,
       "word": "穆祉丞二维码",
       "onboard_time": 1776423861,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203001,
+      "num": 203001,
+      "word": "娜塔莉波特曼怀孕",
+      "onboard_time": 1776488960,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -603,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188120,
+      "num": 188120,
+      "word": "王一博比赛日85号准备就绪",
+      "onboard_time": 1776488480,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 187336,
       "num": 187336,
       "word": "曾舜晞回应月鳞绮纪戏份",
@@ -627,12 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182878,
-      "num": 182878,
-      "word": "勇士vs太阳",
-      "onboard_time": 1776479060,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 181565,
+      "num": 181565,
+      "word": "千香",
+      "onboard_time": 1776487100,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178852,
+      "num": 178852,
+      "word": "刘萧旭郭宇欣二搭春夜困渡",
+      "onboard_time": 1776487222,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 177990,
@@ -667,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167962,
+      "num": 167962,
+      "word": "陈思诚说市场不只需要沈腾",
+      "onboard_time": 1776484759,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167455,
       "num": 228193,
       "word": "人生是场巨大的事与愿违",
@@ -689,6 +817,22 @@
       "onboard_time": 1776437602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156273,
+      "num": 156273,
+      "word": "唐艺昕在手上打小抄",
+      "onboard_time": 1776488900,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154082,
+      "num": 154082,
+      "word": "浪姐二公小考排名",
+      "onboard_time": 1776487999,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 151926,
@@ -764,7 +908,7 @@
     },
     {
       "raw_hot": 128925,
-      "num": 128925,
+      "num": 144780,
       "word": "美团发文回应被罚",
       "onboard_time": 1776475040,
       "rank": 46,
@@ -819,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110199,
-      "num": 110199,
-      "word": "NBA附加赛",
-      "onboard_time": 1776483259,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 119268,
+      "num": 148600,
+      "word": "33岁男子在美国摆摊日入近500美元",
+      "onboard_time": 1776484881,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109085,
@@ -833,6 +977,14 @@
       "onboard_time": 1776458292,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108035,
+      "num": 145842,
+      "word": "雷军在临沂一服务区被米粉送炒鸡",
+      "onboard_time": 1776489141,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 103734,
@@ -867,6 +1019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93028,
+      "num": 144597,
+      "word": "王一博驰骋春日穿搭赛道",
+      "onboard_time": 1776488660,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 92447,
       "num": 107587,
       "word": "杭州滨江通报共用针头采血事件",
@@ -889,6 +1049,14 @@
       "onboard_time": 1776445218,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87990,
+      "num": 144483,
+      "word": "魏建军说车堪比教科书",
+      "onboard_time": 1776488779,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 84149,
@@ -979,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57517,
+      "num": 893804,
+      "word": "中国新能源产品成了海外抢手货",
+      "onboard_time": 1776479780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55128,
       "num": 104952,
       "word": "博主身份疑似被男同学盗用5年",
@@ -1017,22 +1193,6 @@
       "onboard_time": 1776410660,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48396,
-      "num": 807719,
-      "word": "中国新能源产品成了海外抢手货",
-      "onboard_time": 1776479780,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48111,
-      "num": 173308,
-      "word": "21岁女子闪婚生活7天后想离婚",
-      "onboard_time": 1776483199,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46043,
