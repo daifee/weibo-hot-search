@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 00:01:23
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 00:53:21
 </p>
 </blockquote>
 <p>
@@ -3057,6 +3057,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
+日本已彻底撕掉伪装（热度：570609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E9%82%93%E5%87%AF%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E8%B7%AF%E9%80%8F%23" target="weibo">
 孔雪儿邓凯将门独后路透（热度：569427）
 </a>
@@ -3869,12 +3875,6 @@ txt（热度：556202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E7%9C%9F%E7%9A%84%E7%BB%99%E4%BA%BA%E7%9C%8B%E5%8A%9B%E7%AB%AD%E4%BA%86%23" target="weibo">
 倪萍真的给人看力竭了（热度：500798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
-日本已彻底撕掉伪装（热度：500182）
 </a>
 </li>
 
@@ -5679,6 +5679,12 @@ NCT成员回复李马克（热度：381475）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BE%97%E5%83%8F%E5%81%87%E4%BA%BA%23" target="weibo">
+听障女孩回应美得像假人（热度：381419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
 淘宝闪购回应被处罚（热度：381202）
 </a>
@@ -6005,12 +6011,6 @@ miumiu拍赵今麦 欲扬先抑（热度：371311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E6%88%91%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84superbaby%E5%90%97%23" target="weibo">
 张凌赫 我是你们的superbaby吗（热度：370829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9E%92%E9%87%8D%E7%97%85%E8%AE%A2%E5%A9%9A%E5%90%91%E7%94%B7%E5%8F%8B%E7%B4%A2600%E4%B8%87%E6%B2%BB%E7%97%85%23" target="weibo">
-女子瞒重病订婚向男友索600万治病（热度：370757）
 </a>
 </li>
 

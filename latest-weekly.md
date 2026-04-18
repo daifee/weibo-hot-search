@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 00:01:23
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 00:53:21
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
+日本已彻底撕掉伪装（热度：570609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E9%9C%B8%E7%8E%8B%E5%85%A8%E5%A6%86%23" target="weibo">
 何润东霸王全妆（热度：551244）
 </a>
@@ -65,12 +71,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23" target="weibo">
 五一航班大面积取消（热度：515177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23" target="weibo">
-日本已彻底撕掉伪装（热度：500182）
 </a>
 </li>
 
@@ -111,8 +111,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BE%97%E5%83%8F%E5%81%87%E4%BA%BA%23" target="weibo">
+听障女孩回应美得像假人（热度：381419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%A9%AC%E5%85%B3%E6%9D%A1%E7%BA%A6%E7%AD%BE%E8%AE%A2%E6%97%A5%E9%97%AF%E5%85%A5%E5%8F%B0%E6%B5%B7%23" target="weibo">
 日本在马关条约签订日闯入台海（热度：373737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%E7%83%AD%E5%BA%A6%E5%80%BC%23" target="weibo">
+歌手2026热度值（热度：368212）
 </a>
 </li>
 
@@ -143,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A2%AB%E8%99%AB%E5%AD%90%E5%90%93%E5%BE%97%E5%BC%B9%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 张小斐被虫子吓得弹起来了（热度：252558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%AA%E8%B1%86%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+咪豆音乐节（热度：241854）
 </a>
 </li>
 
@@ -201,12 +219,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%AA%E8%B1%86%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-咪豆音乐节（热度：191078）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B3%A2%E5%B0%94%E6%97%A5%E5%86%85%E7%93%A6%E6%97%85%E8%A1%8C%23" target="weibo">
 樊振东波尔日内瓦旅行（热度：179068）
 </a>
@@ -219,8 +231,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%A1%A8%E7%99%BD%E6%89%93%E6%96%AD%E4%BA%86%23" target="weibo">
+王源被粉丝表白打断了（热度：177711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%9C%A8%E6%8E%A8%E7%89%B9%E6%80%BC%E9%BB%91%E7%B2%89%23" target="weibo">
 王嘉尔在推特怼黑粉（热度：171936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%B4%E5%89%8D%E5%B7%B2%E5%BE%97%E7%9F%A5%E6%BD%98%E5%AE%8F%E5%BD%AC%E6%AD%BB%E8%AE%AF%23" target="weibo">
+刘德华年前已得知潘宏彬死讯（热度：160139）
 </a>
 </li>
 
@@ -255,8 +279,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%B4%E5%89%8D%E5%B7%B2%E5%BE%97%E7%9F%A5%E6%BD%98%E5%AE%8F%E5%BD%AC%E6%AD%BB%E8%AE%AF%23" target="weibo">
-刘德华年前已得知潘宏彬死讯（热度：124190）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E7%8E%A9%E6%A2%97%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%23" target="weibo">
+李小冉玩梗心愿便利贴（热度：136832）
 </a>
 </li>
 
@@ -279,8 +303,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%98%A5%E6%B8%B8%E5%88%B0%E8%87%AA%E5%B7%B1%E5%AE%B6%E8%A6%81%E6%B1%82%E8%B5%9410%E5%85%83%E8%BD%A6%E8%B4%B9%23" target="weibo">
+小学生春游到自己家要求赔10元车费（热度：101020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2356%E5%B2%81%E9%9B%B7%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%9B%B4%E6%92%AD15%E5%B0%8F%E6%97%B6%23" target="weibo">
 56岁雷军连续直播15小时（热度：96157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%A4%E5%88%86%E7%A6%BB%E9%92%9A%E8%B6%B3%E5%A4%9F%E9%80%A0%E7%BA%A65500%E6%9E%9A%E6%A0%B8%E5%BC%B9%E5%A4%B4%23" target="weibo">
+日本囤分离钚足够造约5500枚核弹头（热度：89034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AA%91%E8%A1%8C%E6%96%B0%E8%A7%84%E7%9C%9F%E6%8A%8A%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%93%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%95%B4%23" target="weibo">
+日本骑行新规真把日本人当日本人整（热度：84923）
 </a>
 </li>
 
@@ -304,7 +346,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E7%94%A8%E6%AD%8C%E5%A3%B0%E4%BC%A0%E9%80%92%E6%9C%80%E6%B8%A9%E6%9F%94%E7%9A%84%E4%B8%80%E7%AC%94%23" target="weibo">
-姚琛用歌声传递最温柔的一笔（热度：14408）
+姚琛用歌声传递最温柔的一笔（热度：14809）
 </a>
 </li>
 

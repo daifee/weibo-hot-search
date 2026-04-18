@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776528083478,
+  "endTime": 1776531201585,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 639262,
-      "num": 242906,
+      "num": 302255,
       "word": "萧蔷翻温峥嵘白眼",
       "onboard_time": 1776508520,
       "rank": 12,
@@ -51,8 +51,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570609,
+      "num": 570609,
+      "word": "日本已彻底撕掉伪装",
+      "onboard_time": 1776525202,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 551244,
-      "num": 233193,
+      "num": 301823,
       "word": "何润东霸王全妆",
       "onboard_time": 1776517400,
       "rank": 14,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500182,
-      "num": 256285,
-      "word": "日本已彻底撕掉伪装",
-      "onboard_time": 1776525202,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 498239,
       "num": 223463,
       "word": "梅婷女儿名字叫曾慕梅",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 486670,
-      "num": 230401,
+      "num": 303478,
       "word": "张凌赫ins更新萌照",
       "onboard_time": 1776519683,
       "rank": 15,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381419,
+      "num": 302733,
+      "word": "听障女孩回应美得像假人",
+      "onboard_time": 1776528741,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373737,
       "num": 373737,
       "word": "日本在马关条约签订日闯入台海",
       "onboard_time": 1776513140,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 368212,
+      "num": 183435,
+      "word": "歌手2026热度值",
+      "onboard_time": 1776528860,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 323994,
@@ -177,6 +193,14 @@
       "onboard_time": 1776519024,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241854,
+      "num": 304203,
+      "word": "咪豆音乐节",
+      "onboard_time": 1776527720,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 236850,
@@ -251,14 +275,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 191078,
-      "num": 191078,
-      "word": "咪豆音乐节",
-      "onboard_time": 1776527720,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 179068,
       "num": 179068,
       "word": "樊振东波尔日内瓦旅行",
@@ -275,11 +291,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177711,
+      "num": 177711,
+      "word": "王源被粉丝表白打断了",
+      "onboard_time": 1776530837,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171936,
       "num": 178276,
       "word": "王嘉尔在推特怼黑粉",
       "onboard_time": 1776521003,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160139,
+      "num": 177945,
+      "word": "刘德华年前已得知潘宏彬死讯",
+      "onboard_time": 1776524122,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -323,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124190,
-      "num": 177945,
-      "word": "刘德华年前已得知潘宏彬死讯",
-      "onboard_time": 1776524122,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 136832,
+      "num": 136832,
+      "word": "李小冉玩梗心愿便利贴",
+      "onboard_time": 1776518361,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 117686,
@@ -355,12 +387,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101020,
+      "num": 136825,
+      "word": "小学生春游到自己家要求赔10元车费",
+      "onboard_time": 1776529700,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96157,
       "num": 224505,
       "word": "56岁雷军连续直播15小时",
       "onboard_time": 1776518122,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89034,
+      "num": 151238,
+      "word": "日本囤分离钚足够造约5500枚核弹头",
+      "onboard_time": 1776520942,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 84923,
+      "num": 136824,
+      "word": "日本骑行新规真把日本人当日本人整",
+      "onboard_time": 1776525802,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52746,
@@ -387,7 +443,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 14408,
+      "raw_hot": 14809,
       "num": 184301,
       "word": "姚琛用歌声传递最温柔的一笔",
       "onboard_time": 1776527900,
