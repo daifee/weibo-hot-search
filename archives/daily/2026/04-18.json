@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776470702988,
+  "endTime": 1776480985129,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -35,12 +35,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1160909,
+      "num": 358398,
+      "word": "女子跳楼被男友拽5分钟后坠亡",
+      "onboard_time": 1776440120,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1154977,
       "num": 1154977,
       "word": "霍尔木兹海峡开放",
       "onboard_time": 1776431900,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1093965,
+      "num": 222742,
+      "word": "jisoo的哥哥已婚",
+      "onboard_time": 1776475999,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1089790,
@@ -75,12 +91,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 882137,
-      "num": 358398,
-      "word": "女子跳楼被男友拽5分钟后坠亡",
-      "onboard_time": 1776440120,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 907228,
+      "num": 1145156,
+      "word": "雷军不建议有司机的大老板买小米",
+      "onboard_time": 1776469758,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 830325,
@@ -97,6 +113,22 @@
       "onboard_time": 1776430820,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 799785,
+      "num": 799785,
+      "word": "谢娜爆料浪姐录制时厕所门是锁的",
+      "onboard_time": 1776468557,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 760913,
+      "num": 582731,
+      "word": "花少8姐姐三句不离小鲜肉",
+      "onboard_time": 1776478459,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 757781,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 665107,
-      "num": 233294,
+      "num": 234169,
       "word": "女子同房后出血2000ml相当总血量一半",
       "onboard_time": 1776468498,
       "rank": 20,
@@ -131,6 +163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 589294,
+      "num": 589294,
+      "word": "饮食清淡真的会失去很多",
+      "onboard_time": 1776472580,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 557882,
       "num": 557882,
       "word": "张雪机车荷兰站",
@@ -139,12 +179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544585,
+      "num": 544585,
+      "word": "伊朗发布霍尔木兹海峡船舶通行新规",
+      "onboard_time": 1776478160,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 537400,
       "num": 355755,
       "word": "医生爆料用献血证换血已成常态",
       "onboard_time": 1776441139,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537165,
+      "num": 259636,
+      "word": "时代少年团抢票",
+      "onboard_time": 1776478280,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 531285,
@@ -171,12 +227,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489565,
+      "num": 252702,
+      "word": "曝花少8大姐是吴君如",
+      "onboard_time": 1776474680,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 479881,
+      "num": 250676,
+      "word": "网友拍日出拍到了易烊千玺",
+      "onboard_time": 1776476839,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458493,
       "num": 353887,
       "word": "东部战区回应日舰过航台湾海峡",
       "onboard_time": 1776445218,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 451292,
+      "num": 255658,
+      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
+      "onboard_time": 1776469220,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431846,
+      "num": 852320,
+      "word": "雷军回应YU7二排比迈巴赫多一度",
+      "onboard_time": 1776475700,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 421899,
@@ -195,12 +283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398390,
-      "num": 398390,
-      "word": "谢娜爆料浪姐录制时厕所门是锁的",
-      "onboard_time": 1776468557,
+      "raw_hot": 389553,
+      "num": 240690,
+      "word": "魏晨躲在张杰背后笑",
+      "onboard_time": 1776476779,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 381202,
+      "num": 381202,
+      "word": "淘宝闪购回应被处罚",
+      "onboard_time": 1776473299,
       "rank": 7,
-      "category": "综艺"
+      "category": "互联网"
     },
     {
       "raw_hot": 379543,
@@ -208,6 +304,22 @@
       "word": "张凌赫小学就像巨人",
       "onboard_time": 1776434841,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379415,
+      "num": 359900,
+      "word": "黄金大幅暴涨",
+      "onboard_time": 1776468978,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 377452,
+      "num": 235829,
+      "word": "李沁苏州活动晚宴生图",
+      "onboard_time": 1776477740,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -227,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344597,
-      "num": 359900,
-      "word": "黄金大幅暴涨",
-      "onboard_time": 1776468978,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 339811,
       "num": 259862,
       "word": "王濛练了那么多年防别人扒拉",
@@ -251,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 319250,
+      "num": 244109,
+      "word": "全网最会做鸡的三个人齐聚广东",
+      "onboard_time": 1776471019,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312668,
       "num": 241138,
       "word": "胡彦斌 BOSS直聘",
@@ -265,6 +377,14 @@
       "onboard_time": 1776432081,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288237,
+      "num": 288237,
+      "word": "张雪机车排名一路狂飙",
+      "onboard_time": 1776479180,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 284906,
@@ -331,22 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233310,
-      "num": 233310,
-      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
-      "onboard_time": 1776469220,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219775,
-      "num": 219775,
-      "word": "雷军不建议有司机的大老板买小米",
-      "onboard_time": 1776469758,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 215452,
       "num": 228652,
       "word": "大码女装店让S码模特穿XL样衣",
@@ -355,12 +459,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 210790,
+      "num": 210790,
+      "word": "台湾中视称藏海传是近五年最强古装剧",
+      "onboard_time": 1776471920,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209150,
-      "num": 142375,
+      "num": 189811,
       "word": "伊朗或因美继续封锁再关闭霍尔木兹",
       "onboard_time": 1776469878,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206047,
+      "num": 206047,
+      "word": "李小冉徐洁儿 姐狗味",
+      "onboard_time": 1776475999,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 203119,
@@ -379,12 +499,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188552,
-      "num": 188552,
+      "raw_hot": 197681,
+      "num": 191680,
       "word": "橘子海乐队 华为",
       "onboard_time": 1776470059,
       "rank": 25,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 195804,
+      "num": 190459,
+      "word": "网传鞠婧祎千香引定档时间",
+      "onboard_time": 1776479420,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192477,
+      "num": 190388,
+      "word": "曝再见朋友接触井柏然付辛博",
+      "onboard_time": 1776479240,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190811,
+      "num": 190811,
+      "word": "403元凉拌土鸡放20多勺糖",
+      "onboard_time": 1776473480,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 189634,
+      "num": 189634,
+      "word": "张杰魏晨台下拥抱",
+      "onboard_time": 1776470179,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187336,
+      "num": 187336,
+      "word": "曾舜晞回应月鳞绮纪戏份",
+      "onboard_time": 1776474020,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 185681,
@@ -395,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181958,
-      "num": 181958,
-      "word": "张杰魏晨台下拥抱",
-      "onboard_time": 1776470179,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 184020,
+      "num": 176375,
+      "word": "武艺唱心愿便利贴 王濛进步好大",
+      "onboard_time": 1776477560,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 177990,
@@ -409,6 +569,14 @@
       "onboard_time": 1776437424,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "许凯邓恩熙新剧开局就开虐",
+      "onboard_time": 1776479900,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 170553,
@@ -435,12 +603,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164521,
+      "num": 156731,
+      "word": "登陆少年 ELLE",
+      "onboard_time": 1776480441,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163677,
       "num": 225891,
       "word": "学校组织10元车费去春游男孩下车秒哭",
       "onboard_time": 1776437602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156839,
+      "num": 156839,
+      "word": "小米18Pro配置全面曝光",
+      "onboard_time": 1776479479,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 156426,
+      "num": 156426,
+      "word": "勇士vs太阳",
+      "onboard_time": 1776479060,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151926,
+      "num": 151926,
+      "word": "伊朗公布霍尔木兹海峡通行新规",
+      "onboard_time": 1776478940,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150293,
@@ -457,6 +657,14 @@
       "onboard_time": 1776442100,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144129,
+      "num": 121874,
+      "word": "TF四代见面会开园福利",
+      "onboard_time": 1776479658,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 143248,
@@ -497,6 +705,14 @@
       "onboard_time": 1776445218,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "美团发文回应被罚",
+      "onboard_time": 1776475040,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 125510,
@@ -561,6 +777,14 @@
       "onboard_time": 1776449715,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95480,
+      "num": 230175,
+      "word": "荣耀高管称张雪是年轻版的李书福",
+      "onboard_time": 1776477798,
+      "rank": 21,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 93553,
@@ -667,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61216,
+      "num": 274925,
+      "word": "张雪机车荷兰站的含金量有多高",
+      "onboard_time": 1776480379,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57962,
       "num": 103739,
       "word": "女儿摆酒庆祝爸妈离婚",
@@ -747,6 +979,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30658,
+      "num": 176781,
+      "word": "20岁小伙卖猪肉养6个弟弟妹妹",
+      "onboard_time": 1776480561,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30304,
+      "num": 807719,
+      "word": "中国新能源产品成了海外抢手货",
+      "onboard_time": 1776479780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27553,
       "num": 36646,
       "word": "将军请喝茶",
@@ -782,6 +1030,9 @@
   "hotgov_list": [
     {
       "word": "#习近平致电祝贺盖莱当选连任吉布提总统#"
+    },
+    {
+      "word": "#品悟总书记的读书之道#"
     }
   ]
 }
