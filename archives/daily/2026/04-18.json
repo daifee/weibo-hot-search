@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776524819593,
+  "endTime": 1776527110981,
   "band_list": [
     {
       "raw_hot": 4420525,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304629,
+      "num": 403773,
+      "word": "柳智敏穿的长裙只要92元",
+      "onboard_time": 1776523224,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1233316,
       "num": 732026,
       "word": "金智秀哥哥前妻发声",
@@ -185,14 +193,6 @@
       "onboard_time": 1776431900,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1124373,
-      "num": 403773,
-      "word": "柳智敏穿的长裙只要92元",
-      "onboard_time": 1776523224,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1121209,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667699,
+      "num": 865046,
+      "word": "张雪机车为什么被罚",
+      "onboard_time": 1776521842,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 667185,
       "num": 152796,
       "word": "蛋糕品类为何成幽灵外卖重灾区",
@@ -619,14 +627,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 520076,
-      "num": 520076,
-      "word": "张雪机车为什么被罚",
-      "onboard_time": 1776521842,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 516239,
       "num": 516239,
       "word": "麦当劳肯德基 宿敌cp",
@@ -699,12 +699,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 461107,
+      "num": 392618,
+      "word": "朱孝天上节目被打",
+      "onboard_time": 1776518240,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458493,
       "num": 353887,
       "word": "东部战区回应日舰过航台湾海峡",
       "onboard_time": 1776445218,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 458208,
+      "num": 458208,
+      "word": "泰国泼水节疑有人向人嘴里射毒水",
+      "onboard_time": 1776521482,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 457059,
@@ -755,12 +771,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 428180,
-      "num": 392618,
-      "word": "朱孝天上节目被打",
-      "onboard_time": 1776518240,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 425390,
+      "num": 401638,
+      "word": "澳门老炮质问B太",
+      "onboard_time": 1776515662,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421899,
@@ -809,14 +825,6 @@
       "onboard_time": 1776495559,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 401638,
-      "num": 401638,
-      "word": "澳门老炮质问B太",
-      "onboard_time": 1776515662,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 398883,
@@ -1051,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299118,
+      "num": 299118,
+      "word": "何润东不想让妻子受人工助孕的苦",
+      "onboard_time": 1776526402,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298271,
       "num": 298271,
       "word": "日本赌国运老毛病又犯了",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1776432081,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290747,
+      "num": 290747,
+      "word": "谢娜录了时代少年团直拍",
+      "onboard_time": 1776524181,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 286338,
@@ -1115,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279991,
+      "num": 332941,
+      "word": "日本已彻底撕掉伪装",
+      "onboard_time": 1776525202,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278467,
       "num": 237976,
       "word": "雷军到达上海后还有余电",
@@ -1123,8 +1155,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 269342,
-      "num": 252045,
+      "raw_hot": 278232,
+      "num": 278232,
       "word": "48岁TVB视后田蕊妮再度患癌",
       "onboard_time": 1776518302,
       "rank": 47,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1776490878,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250508,
-      "num": 250508,
-      "word": "谢娜录了时代少年团直拍",
-      "onboard_time": 1776524181,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 246744,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1776512120,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220368,
-      "num": 364870,
-      "word": "泰国泼水节疑有人向人嘴里射毒水",
-      "onboard_time": 1776521482,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 220305,
@@ -1531,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194685,
+      "num": 194685,
+      "word": "刘德华年前已得知潘宏彬死讯",
+      "onboard_time": 1776524122,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193612,
       "num": 305446,
       "word": "LPL和LCK真不一样了",
@@ -1588,11 +1612,19 @@
     },
     {
       "raw_hot": 184954,
-      "num": 184954,
+      "num": 194603,
       "word": "苏超徐州队3比0泰州队",
       "onboard_time": 1776524423,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184245,
+      "num": 194663,
+      "word": "林允儿棒球开球",
+      "onboard_time": 1776524902,
+      "rank": 42,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 184020,
@@ -1755,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162627,
+      "num": 194637,
+      "word": "台媒称男神肖战出演最美书生",
+      "onboard_time": 1776520102,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161483,
       "num": 224649,
       "word": "老太占道卖菜城管执法时倒地身亡",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1776502341,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157866,
+      "num": 194645,
+      "word": "解放军护卫舰已随时准备开火",
+      "onboard_time": 1776526641,
+      "rank": 44,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 156273,
@@ -2227,6 +2275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52031,
+      "num": 350178,
+      "word": "雷军说无意做穿搭博主",
+      "onboard_time": 1776523522,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51384,
       "num": 103550,
       "word": "刘耀文capper微博互关",
@@ -2435,20 +2491,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 17600,
+      "num": 195424,
+      "word": "张嘉元看不见的客人获奖",
+      "onboard_time": 1776525861,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17332,
       "num": 174610,
       "word": "张淇文化之夜再唱定军山",
       "onboard_time": 1776515362,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 5830,
-      "num": 350178,
-      "word": "雷军说无意做穿搭博主",
-      "onboard_time": 1776523522,
-      "rank": 29,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
