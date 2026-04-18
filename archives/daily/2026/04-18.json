@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776469757445,
+  "endTime": 1776470702988,
   "band_list": [
     {
       "raw_hot": 2421871,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1930656,
-      "num": 276308,
+      "num": 356549,
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 1336811,
-      "num": 555369,
+      "raw_hot": 1565393,
+      "num": 621375,
       "word": "日本叫嚣击沉中国航母",
       "onboard_time": 1776444139,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1038801,
-      "num": 271938,
+      "num": 355060,
       "word": "Angelababy陈赫拥抱",
       "onboard_time": 1776436342,
       "rank": 14,
@@ -60,19 +60,35 @@
     },
     {
       "raw_hot": 990051,
-      "num": 269072,
+      "num": 353689,
       "word": "朱迅已抗癌20年",
       "onboard_time": 1776416781,
       "rank": 15,
       "category": "艺人"
     },
     {
-      "raw_hot": 828843,
-      "num": 273579,
+      "raw_hot": 949010,
+      "num": 1151841,
+      "word": "解放军护卫舰与外舰缠斗20小时",
+      "onboard_time": 1776434302,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 882137,
+      "num": 358398,
       "word": "女子跳楼被男友拽5分钟后坠亡",
       "onboard_time": 1776440120,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 830325,
+      "num": 357537,
+      "word": "日舰艇进入台湾海峡被中国军队处置",
+      "onboard_time": 1776468258,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 821908,
@@ -83,28 +99,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 784366,
-      "num": 131213,
-      "word": "日舰艇进入台湾海峡被中国军队处置",
-      "onboard_time": 1776468258,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 757781,
       "num": 757781,
       "word": "伊朗开放霍尔木兹特朗普发帖说谢谢",
       "onboard_time": 1776436704,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 753746,
-      "num": 1023099,
-      "word": "解放军护卫舰与外舰缠斗20小时",
-      "onboard_time": 1776434302,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 667185,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 665107,
-      "num": 152724,
+      "num": 233294,
       "word": "女子同房后出血2000ml相当总血量一半",
       "onboard_time": 1776468498,
       "rank": 20,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 537400,
+      "num": 355755,
+      "word": "医生爆料用献血证换血已成常态",
+      "onboard_time": 1776441139,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531285,
       "num": 260586,
       "word": "都美竹被强执",
@@ -155,28 +163,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 458493,
-      "num": 188828,
-      "word": "东部战区回应日舰过航台湾海峡",
-      "onboard_time": 1776445218,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 457408,
-      "num": 223717,
-      "word": "医生爆料用献血证换血已成常态",
-      "onboard_time": 1776441139,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 450902,
-      "num": 450902,
+      "raw_hot": 495271,
+      "num": 495271,
       "word": "张雪机车夺得超级杆位赛第二名",
       "onboard_time": 1776442039,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458493,
+      "num": 353887,
+      "word": "东部战区回应日舰过航台湾海峡",
+      "onboard_time": 1776445218,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 421899,
@@ -193,6 +193,14 @@
       "onboard_time": 1776430881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398390,
+      "num": 398390,
+      "word": "谢娜爆料浪姐录制时厕所门是锁的",
+      "onboard_time": 1776468557,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 379543,
@@ -217,6 +225,14 @@
       "onboard_time": 1776440060,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344597,
+      "num": 359900,
+      "word": "黄金大幅暴涨",
+      "onboard_time": 1776468978,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 339811,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 296105,
-      "num": 296105,
+      "num": 359196,
       "word": "21世纪大君夫人",
       "onboard_time": 1776432081,
       "rank": 8,
@@ -257,6 +273,14 @@
       "onboard_time": 1776431181,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282234,
+      "num": 282234,
+      "word": "疑似jisoo哥哥涉嫌猥亵女主播被捕",
+      "onboard_time": 1776470299,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 282089,
@@ -299,6 +323,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235860,
+      "num": 142431,
+      "word": "第一个发现这个机位的是天才吧",
+      "onboard_time": 1776469038,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233310,
+      "num": 233310,
+      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
+      "onboard_time": 1776469220,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219775,
+      "num": 219775,
+      "word": "雷军不建议有司机的大老板买小米",
+      "onboard_time": 1776469758,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215452,
       "num": 228652,
       "word": "大码女装店让S码模特穿XL样衣",
@@ -307,12 +355,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 213811,
-      "num": 213811,
-      "word": "谢娜爆料浪姐录制时厕所门是锁的",
-      "onboard_time": 1776468557,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 209150,
+      "num": 142375,
+      "word": "伊朗或因美继续封锁再关闭霍尔木兹",
+      "onboard_time": 1776469878,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203119,
@@ -331,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189723,
-      "num": 130747,
-      "word": "第一个发现这个机位的是天才吧",
-      "onboard_time": 1776469038,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 188552,
+      "num": 188552,
+      "word": "橘子海乐队 华为",
+      "onboard_time": 1776470059,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 185681,
@@ -345,6 +393,14 @@
       "onboard_time": 1776432982,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181958,
+      "num": 181958,
+      "word": "张杰魏晨台下拥抱",
+      "onboard_time": 1776470179,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 177990,
@@ -363,12 +419,12 @@
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 168594,
-      "num": 152494,
-      "word": "黄金大幅暴涨",
-      "onboard_time": 1776468978,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 168052,
+      "num": 168052,
+      "word": "医生回应28岁孕妇确诊肺癌",
+      "onboard_time": 1776469279,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167455,
@@ -384,14 +440,6 @@
       "word": "学校组织10元车费去春游男孩下车秒哭",
       "onboard_time": 1776437602,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152375,
-      "num": 152375,
-      "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
-      "onboard_time": 1776469220,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -443,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129666,
-      "num": 129666,
+      "raw_hot": 135117,
+      "num": 135117,
       "word": "小米新SU7续航",
       "onboard_time": 1776445218,
       "rank": 44,
@@ -483,12 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117166,
-      "num": 117166,
-      "word": "医生回应28岁孕妇确诊肺癌",
-      "onboard_time": 1776469279,
-      "rank": 35,
+      "raw_hot": 120871,
+      "num": 120871,
+      "word": "女子以为吃蓝莓嘴染色一查竟是癌",
+      "onboard_time": 1776469220,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109085,
+      "num": 109085,
+      "word": "猝死前10分钟身体什么感觉",
+      "onboard_time": 1776458292,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103734,
@@ -499,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102829,
-      "num": 102829,
-      "word": "猝死前10分钟身体什么感觉",
-      "onboard_time": 1776458292,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 96467,
+      "num": 96467,
+      "word": "新西兰军机多次抵近中国周边空域",
+      "onboard_time": 1776449715,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93553,
@@ -523,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89429,
+      "num": 89429,
+      "word": "252.4元蛋糕幽灵店铺拿走122元",
+      "onboard_time": 1776470239,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89130,
       "num": 106215,
       "word": "伊朗对所有商船开放霍尔木兹海峡",
@@ -531,12 +595,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80501,
-      "num": 80501,
-      "word": "新西兰军机多次抵近中国周边空域",
-      "onboard_time": 1776449715,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 84149,
+      "num": 84149,
+      "word": "女子1比1复刻李小冉心愿便利贴",
+      "onboard_time": 1776470659,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83042,
+      "num": 83042,
+      "word": "华为客服回应橘子海乐队指责侵权",
+      "onboard_time": 1776470659,
+      "rank": 47,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 78546,
+      "num": 104170,
+      "word": "孙颖莎巨型卡通装饰",
+      "onboard_time": 1776433764,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 77413,
@@ -545,14 +625,6 @@
       "onboard_time": 1776468138,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 77119,
-      "num": 77119,
-      "word": "女子以为吃蓝莓嘴染色一查竟是癌",
-      "onboard_time": 1776469220,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73013,
@@ -577,14 +649,6 @@
       "onboard_time": 1776459734,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69681,
-      "num": 104170,
-      "word": "孙颖莎巨型卡通装饰",
-      "onboard_time": 1776433764,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 67416,
