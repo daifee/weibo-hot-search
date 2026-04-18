@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776535325411,
+  "endTime": 1776538988016,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88405,
+      "num": 88405,
+      "word": "日本驱逐舰过航台湾海峡取证画面",
+      "onboard_time": 1776537255,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 87260,
       "num": 208788,
       "word": "周深现场首唱吉量",
@@ -529,6 +537,30 @@
       "onboard_time": 1776523522,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43285,
+      "num": 68260,
+      "word": "范丞丞综艺感",
+      "onboard_time": 1776537135,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43254,
+      "num": 68234,
+      "word": "属于我的8小时到哪去了",
+      "onboard_time": 1776536476,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39254,
+      "num": 68148,
+      "word": "张雪机车回应首回合第4",
+      "onboard_time": 1776537075,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 32023,

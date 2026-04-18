@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 02:02:05
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/19 03:03:08
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8F%96%E8%AF%81%E7%94%BB%E9%9D%A2%23" target="weibo">
+日本驱逐舰过航台湾海峡取证画面（热度：88405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%8E%B0%E5%9C%BA%E9%A6%96%E5%94%B1%E5%90%89%E9%87%8F%23" target="weibo">
 周深现场首唱吉量（热度：87260）
 </a>
@@ -407,6 +413,24 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%97%A0%E6%84%8F%E5%81%9A%E7%A9%BF%E6%90%AD%E5%8D%9A%E4%B8%BB%23" target="weibo">
 雷军说无意做穿搭博主（热度：52746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%BB%BC%E8%89%BA%E6%84%9F%23" target="weibo">
+范丞丞综艺感（热度：43285）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%848%E5%B0%8F%E6%97%B6%E5%88%B0%E5%93%AA%E5%8E%BB%E4%BA%86%23" target="weibo">
+属于我的8小时到哪去了（热度：43254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC4%23" target="weibo">
+张雪机车回应首回合第4（热度：39254）
 </a>
 </li>
 
