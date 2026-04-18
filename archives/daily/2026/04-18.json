@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776491895682,
+  "endTime": 1776496811777,
   "band_list": [
     {
       "raw_hot": 2685311,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1001188,
-      "num": 1001188,
+      "num": 1154938,
       "word": "谁敢听达拉崩吧小考",
       "onboard_time": 1776489498,
       "rank": 1,
@@ -179,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 877248,
+      "num": 787864,
+      "word": "李小冉一公才知道自己唱歌难听",
+      "onboard_time": 1776494241,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830325,
       "num": 357537,
       "word": "日舰艇进入台湾海峡被中国军队处置",
@@ -195,12 +203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 813328,
+      "num": 263018,
+      "word": "金智秀哥哥的妻子仅24岁",
+      "onboard_time": 1776494720,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
       "onboard_time": 1776468557,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 776012,
+      "num": 776012,
+      "word": "怪不得韩国人爱去张家界旅游",
+      "onboard_time": 1776495080,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 757781,
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686760,
+      "num": 686760,
+      "word": "王濛cue黎明",
+      "onboard_time": 1776491359,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667185,
       "num": 152796,
       "word": "蛋糕品类为何成幽灵外卖重灾区",
@@ -241,6 +273,14 @@
       "onboard_time": 1776468498,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 663604,
+      "num": 294950,
+      "word": "女子靠试管阻断截瘫遗传生健康女婴",
+      "onboard_time": 1776492199,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624688,
@@ -281,6 +321,14 @@
       "onboard_time": 1776478160,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 539199,
+      "num": 539199,
+      "word": "张雪机车仅以0.071秒差距落后榜首",
+      "onboard_time": 1776491359,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 537400,
@@ -363,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472394,
-      "num": 329962,
-      "word": "王濛cue黎明",
-      "onboard_time": 1776491359,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 464092,
       "num": 464092,
       "word": "女孩偷偷领结婚证爷爷得知心痛落泪",
@@ -392,6 +432,14 @@
       "word": "21岁女子闪婚生活7天后想离婚",
       "onboard_time": 1776483199,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441645,
+      "num": 269366,
+      "word": "17岁少年离世前还在看暗黑动漫",
+      "onboard_time": 1776490281,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -427,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420435,
+      "num": 262651,
+      "word": "排位赛王一博成绩",
+      "onboard_time": 1776493339,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 418601,
       "num": 418601,
       "word": "泰国泼水节亲历者发声",
@@ -443,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410371,
+      "num": 262317,
+      "word": "杨蓉晒烫伤后疤痕恢复照",
+      "onboard_time": 1776495139,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 408447,
+      "num": 262108,
+      "word": "我安慰人就阚清子这样",
+      "onboard_time": 1776493640,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395450,
       "num": 387921,
       "word": "李沁苏州活动晚宴生图",
       "onboard_time": 1776477740,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391963,
+      "num": 261318,
+      "word": "杨紫作品豆瓣分数",
+      "onboard_time": 1776493999,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 390218,
@@ -515,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352403,
+      "num": 260667,
+      "word": "TF四代YESSIR舞台",
+      "onboard_time": 1776495320,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339811,
       "num": 259862,
       "word": "王濛练了那么多年防别人扒拉",
@@ -545,6 +633,14 @@
       "onboard_time": 1776439941,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310703,
+      "num": 259547,
+      "word": "孔雪儿许佳琪谢可寅又聚上了",
+      "onboard_time": 1776495441,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 296105,
@@ -595,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 273963,
+      "num": 259003,
+      "word": "马頔说幸亏我结婚了",
+      "onboard_time": 1776491601,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266138,
       "num": 266138,
       "word": "勇士vs太阳",
@@ -627,28 +731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255579,
-      "num": 255579,
-      "word": "张雪机车仅以0.071秒差距落后榜首",
-      "onboard_time": 1776491359,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 254170,
-      "num": 254170,
-      "word": "17岁少年离世前还在看暗黑动漫",
-      "onboard_time": 1776490281,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252937,
       "num": 236842,
       "word": "白发或是身体的抗癌警报",
       "onboard_time": 1776422299,
       "rank": 30,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 252183,
+      "num": 252183,
+      "word": "李楷灿恋情风波后发泡泡",
+      "onboard_time": 1776494359,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 250945,
@@ -667,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240184,
+      "num": 261102,
+      "word": "小学生春游下车发现是自己家",
+      "onboard_time": 1776492500,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238887,
       "num": 235795,
       "word": "虞书欣丸子头",
@@ -681,14 +785,6 @@
       "onboard_time": 1776469038,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233399,
-      "num": 233399,
-      "word": "马頔说幸亏我结婚了",
-      "onboard_time": 1776491601,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 227607,
@@ -707,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220887,
+      "num": 259962,
+      "word": "幽灵外卖已发展成一条黑灰产业链",
+      "onboard_time": 1776496700,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220305,
       "num": 220305,
       "word": "网传鞠婧祎千香引定档时间",
       "onboard_time": 1776479420,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215777,
+      "num": 215777,
+      "word": "张予曦毕雯珺总算说上话了",
+      "onboard_time": 1776496700,
+      "rank": 46,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 215452,
@@ -737,6 +849,22 @@
       "onboard_time": 1776469878,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208430,
+      "num": 260279,
+      "word": "尼格买提遇上了神仙嘴替",
+      "onboard_time": 1776496100,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207360,
+      "num": 259247,
+      "word": "高三女生借摊贩手机作弊已被处理",
+      "onboard_time": 1776496520,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206271,
@@ -812,7 +940,7 @@
     },
     {
       "raw_hot": 186015,
-      "num": 186015,
+      "num": 263652,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
       "onboard_time": 1776489141,
       "rank": 44,
@@ -865,6 +993,22 @@
       "onboard_time": 1776479900,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175314,
+      "num": 258627,
+      "word": "五一航班大面积取消",
+      "onboard_time": 1776496760,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174329,
+      "num": 221882,
+      "word": "雷军激动到破音了",
+      "onboard_time": 1776495559,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 170553,
@@ -939,12 +1083,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150643,
+      "num": 221596,
+      "word": "格林两场附加赛狂轰71分",
+      "onboard_time": 1776496641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150293,
       "num": 223132,
       "word": "刘浩存 没有给代拍好脸色的义务",
       "onboard_time": 1776421281,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149209,
+      "num": 260692,
+      "word": "男子在美国摆摊1元进货30多元卖出",
+      "onboard_time": 1776495021,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144381,
@@ -1004,7 +1164,7 @@
     },
     {
       "raw_hot": 129333,
-      "num": 185987,
+      "num": 221513,
       "word": "美国准备解冻200亿美元伊朗资金",
       "onboard_time": 1776489080,
       "rank": 39,
@@ -1251,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56995,
+      "num": 263236,
+      "word": "顾客称山姆买婴儿奶粉挖出毛刷碎片",
+      "onboard_time": 1776495740,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55128,
       "num": 104952,
       "word": "博主身份疑似被男同学盗用5年",
@@ -1323,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32732,
+      "num": 263493,
+      "word": "老师回应低血糖晕倒前被学生托住",
+      "onboard_time": 1776495680,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30658,
       "num": 176781,
       "word": "20岁小伙卖猪肉养6个弟弟妹妹",
@@ -1369,6 +1545,22 @@
       "onboard_time": 1776453674,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24435,
+      "num": 258438,
+      "word": "男孩害怕被批评铃铛藏进鼻子近5年",
+      "onboard_time": 1776496400,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17499,
+      "num": 793063,
+      "word": "一组数据看懂中国经济含金量",
+      "onboard_time": 1776479420,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

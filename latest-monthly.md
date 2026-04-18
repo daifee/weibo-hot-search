@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/18 13:58:15
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/18 15:20:11
 </p>
 </blockquote>
 <p>
@@ -1383,6 +1383,12 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%85%AC%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%94%B1%E6%AD%8C%E9%9A%BE%E5%90%AC%23" target="weibo">
+李小冉一公才知道自己唱歌难听（热度：877248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E8%A2%AB%E6%96%A9%E9%A6%96%E7%BE%8E%E4%BA%BA%E9%B1%BC%23" target="weibo">
 泰国海岸惊现被斩首美人鱼（热度：875455）
 </a>
@@ -1569,6 +1575,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E5%93%A5%E5%93%A5%E7%9A%84%E5%A6%BB%E5%AD%90%E4%BB%8524%E5%B2%81%23" target="weibo">
+金智秀哥哥的妻子仅24岁（热度：813328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%99%E5%8D%88%E5%B9%B4%20%E5%BF%83%E8%84%8F%23" target="weibo">
 丙午年 心脏（热度：812334）
 </a>
@@ -1709,6 +1721,12 @@ en王翊恩 结婚但没同居（热度：795143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%23" target="weibo">
 美以袭击哈尔克岛（热度：779190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%88%B1%E5%8E%BB%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%97%85%E6%B8%B8%23" target="weibo">
+怪不得韩国人爱去张家界旅游（热度：776012）
 </a>
 </li>
 
@@ -2091,6 +2109,12 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9Bcue%E9%BB%8E%E6%98%8E%23" target="weibo">
+王濛cue黎明（热度：686760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E8%A2%AB%E6%9B%9D1%E5%A4%A9%E6%9D%80%E9%9D%92%23" target="weibo">
 胡先煦十日终焉被曝1天杀青（热度：684862）
 </a>
@@ -2171,6 +2195,12 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%87%BA%E8%A1%802000ml%E7%9B%B8%E5%BD%93%E6%80%BB%E8%A1%80%E9%87%8F%E4%B8%80%E5%8D%8A%23" target="weibo">
 女子同房后出血2000ml相当总血量一半（热度：665107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9D%A0%E8%AF%95%E7%AE%A1%E9%98%BB%E6%96%AD%E6%88%AA%E7%98%AB%E9%81%97%E4%BC%A0%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A5%B3%E5%A9%B4%23" target="weibo">
+女子靠试管阻断截瘫遗传生健康女婴（热度：663604）
 </a>
 </li>
 
@@ -3153,6 +3183,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E4%BB%85%E4%BB%A50.071%E7%A7%92%E5%B7%AE%E8%B7%9D%E8%90%BD%E5%90%8E%E6%A6%9C%E9%A6%96%23" target="weibo">
+张雪机车仅以0.071秒差距落后榜首（热度：539199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%BE%9D%E9%9C%96%E7%94%A8%E9%83%AD%E7%A2%A7%E5%A9%B7%E9%80%81%E7%9A%84%E6%9D%AF%E5%AD%90%E8%A3%85%E9%85%B1%E6%B2%B9%23" target="weibo">
 谢依霖用郭碧婷送的杯子装酱油（热度：539149）
 </a>
@@ -3951,12 +3987,6 @@ iPhone18Pro模具偷跑（热度：474601）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9Bcue%E9%BB%8E%E6%98%8E%23" target="weibo">
-王濛cue黎明（热度：472394）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9E%BF%E9%A2%96%20%E6%88%91%E4%B8%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E8%BF%98%E6%98%AF%E9%A1%B6%E6%B5%81%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
 瞿颖 我上个世纪还是顶流的时候（热度：470857）
 </a>
@@ -4341,6 +4371,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A6%BB%E4%B8%96%E5%89%8D%E8%BF%98%E5%9C%A8%E7%9C%8B%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%23" target="weibo">
+17岁少年离世前还在看暗黑动漫（热度：441645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%8C%9D%E6%AD%BB%E9%81%97%E4%BA%A7%E7%BB%A7%E6%89%BF%E6%9D%83%E4%BA%B2%E5%84%BF%E5%AD%90%E4%BB%85%E5%8D%A0%E5%85%AB%E5%88%86%E4%B9%8B%E4%B8%80%23" target="weibo">
 女方猝死遗产继承权亲儿子仅占八分之一（热度：440988）
 </a>
@@ -4653,6 +4689,12 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E4%BD%8D%E8%B5%9B%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%90%E7%BB%A9%23" target="weibo">
+排位赛王一博成绩（热度：420435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E6%B3%95%E8%90%A7%E8%94%B7%20%E4%B8%8D%E8%AF%A5pk%23" target="weibo">
 庄法萧蔷 不该pk（热度：420361）
 </a>
@@ -4845,6 +4887,12 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%93%89%E6%99%92%E7%83%AB%E4%BC%A4%E5%90%8E%E7%96%A4%E7%97%95%E6%81%A2%E5%A4%8D%E7%85%A7%23" target="weibo">
+杨蓉晒烫伤后疤痕恢复照（热度：410371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%97%85%E6%B8%B8%E4%B8%8D%E8%B7%9F%E4%B8%89%E7%A7%8D%E4%BA%BA%E5%87%BA%E5%8E%BB%23" target="weibo">
 我旅游不跟三种人出去（热度：410363）
 </a>
@@ -4859,6 +4907,12 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%BD%90%E5%A3%B0%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 多国齐声谴责以色列（热度：409422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%89%E6%85%B0%E4%BA%BA%E5%B0%B1%E9%98%9A%E6%B8%85%E5%AD%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+我安慰人就阚清子这样（热度：408447）
 </a>
 </li>
 
@@ -5189,6 +5243,12 @@ TTG对战KSG（热度：392792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E4%B8%8D%E7%9F%A5%E9%81%93%E9%81%97%E4%BA%A7%E4%BC%A0%E7%BB%99%E8%B0%81%23" target="weibo">
 李维嘉不知道遗产传给谁（热度：392165）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%BD%9C%E5%93%81%E8%B1%86%E7%93%A3%E5%88%86%E6%95%B0%23" target="weibo">
+杨紫作品豆瓣分数（热度：391963）
 </a>
 </li>
 
@@ -5951,66 +6011,6 @@ miumiu拍赵今麦 欲扬先抑（热度：371311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E4%B8%80%E5%85%AC%E9%80%89%E6%AD%8C%E7%BB%84%E9%98%9F%23" target="weibo">
 乘风2026一公选歌组队（热度：357225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%8E%AB%E5%9B%A01000%E5%8F%AA%E9%B8%A1%E6%B2%A1%E5%9C%B0%E6%96%B9%E6%94%BE%E6%8B%92%E7%BB%9D%E6%B8%A9%E6%B0%8F%23" target="weibo">
-老莫因1000只鸡没地方放拒绝温氏（热度：357195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E7%AC%AC%E4%B8%80%23" target="weibo">
-张月第一（热度：357099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85%23" target="weibo">
-日本彻底撕下伪装（热度：356846）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23SBTI%E9%80%81%E9%92%B1%E8%80%85%23" target="weibo">
-SBTI送钱者（热度：356669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E9%81%87%E7%94%B7%E6%8C%89%E6%91%A9%E6%8B%89%E5%AE%A2%23" target="weibo">
-外籍女子上海街头遇男按摩拉客（热度：356532）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%804%E5%B2%81%E5%A5%B3%E5%84%BF%E8%AF%B4%E7%99%BD%E5%8C%96%E7%97%85%E8%AF%A5%E5%AE%89%E4%B9%90%E6%AD%BB%23" target="weibo">
-男子杀4岁女儿说白化病该安乐死（热度：356024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%BD%AC%E5%8F%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%AB%E5%85%B5%E8%99%90%E7%AB%A5%E8%A7%86%E9%A2%91%23" target="weibo">
-李在明转发以色列士兵虐童视频（热度：355749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%8C%E5%A5%B3%E5%84%BF%E5%8D%96%E6%8B%BC%E8%B1%86%E7%9B%B4%E5%91%BC%E5%B4%A9%E6%BA%83%23" target="weibo">
-老爸收入不敌女儿卖拼豆直呼崩溃（热度：355449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%A1%A5%E8%87%B45%E6%AD%BB%E7%96%91%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
-汽车坠桥致5死疑监控画面曝光（热度：355378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2380%E4%B8%87%E5%BC%80%E5%BA%97%E5%80%92%E9%97%AD%E5%8F%88%E6%8A%9540%E4%B8%87%E5%BC%80%E5%BA%97%E5%B0%8F%E4%BC%99%E5%8F%91%E5%A3%B0%23" target="weibo">
-80万开店倒闭又投40万开店小伙发声（热度：354084）
 </a>
 </li>
 
