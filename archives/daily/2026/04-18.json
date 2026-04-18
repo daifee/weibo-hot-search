@@ -1,6 +1,6 @@
 {
   "startTime": 1776442365031,
-  "endTime": 1776513490188,
+  "endTime": 1776518212467,
   "band_list": [
     {
       "raw_hot": 2895814,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1164286,
+      "num": 1186285,
+      "word": "何润东霸王全妆",
+      "onboard_time": 1776517400,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1160909,
       "num": 465959,
       "word": "女子跳楼被男友拽5分钟后坠亡",
@@ -161,6 +169,22 @@
       "onboard_time": 1776475999,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1112154,
+      "num": 838273,
+      "word": "萧蔷翻温峥嵘白眼",
+      "onboard_time": 1776508520,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1109582,
+      "num": 1109582,
+      "word": "日本在马关条约签订日闯入台海",
+      "onboard_time": 1776513140,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1095393,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915148,
+      "num": 446151,
+      "word": "姜贞羽淘汰",
+      "onboard_time": 1776513319,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 907228,
       "num": 1145156,
       "word": "雷军不建议有司机的大老板买小米",
@@ -257,6 +289,22 @@
       "onboard_time": 1776494241,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 874340,
+      "num": 1129035,
+      "word": "苏超",
+      "onboard_time": 1776505223,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 852258,
+      "num": 852258,
+      "word": "张雪机车首回合第4",
+      "onboard_time": 1776516202,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 830325,
@@ -283,22 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 813710,
-      "num": 359548,
-      "word": "萧蔷翻温峥嵘白眼",
-      "onboard_time": 1776508520,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 811954,
-      "num": 1129035,
-      "word": "苏超",
-      "onboard_time": 1776505223,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 794496,
-      "num": 438346,
+      "num": 442423,
       "word": "孟美岐解约乐华的第一个活动",
       "onboard_time": 1776507201,
       "rank": 12,
@@ -419,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 608596,
+      "num": 608596,
+      "word": "宿迁vs南京",
+      "onboard_time": 1776516982,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599593,
       "num": 386033,
       "word": "金智秀的姐姐",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 565574,
-      "num": 367559,
+      "num": 417695,
       "word": "张婉婷坐飞机惊恐发作差点被驱逐",
       "onboard_time": 1776509181,
       "rank": 35,
@@ -507,12 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532504,
+      "num": 434105,
+      "word": "何润东现身宿迁奥体",
+      "onboard_time": 1776511580,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531285,
       "num": 260586,
       "word": "都美竹被强执",
       "onboard_time": 1776425719,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 527014,
+      "num": 426723,
+      "word": "王嘉尔ins取关蔡徐坤",
+      "onboard_time": 1776517881,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 516239,
@@ -667,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411732,
-      "num": 411732,
-      "word": "何润东现身宿迁奥体",
-      "onboard_time": 1776511580,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 408447,
       "num": 365825,
       "word": "我安慰人就阚清子这样",
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 398431,
-      "num": 311614,
+      "num": 369825,
       "word": "内耗人的终极解药",
       "onboard_time": 1776509781,
       "rank": 39,
@@ -787,12 +835,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 358280,
+      "num": 358280,
+      "word": "陈紫函不上浪姐的原因",
+      "onboard_time": 1776516623,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358278,
       "num": 266869,
       "word": "换电池小卡扣要13万新能源车主崩溃",
       "onboard_time": 1776440060,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352849,
+      "num": 391483,
+      "word": "宿迁进球",
+      "onboard_time": 1776516382,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 352403,
@@ -809,6 +873,14 @@
       "onboard_time": 1776439522,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338906,
+      "num": 338906,
+      "word": "澳门老炮质问B太",
+      "onboard_time": 1776515662,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336723,
@@ -947,12 +1019,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279751,
+      "num": 279751,
+      "word": "龚俊拍了刘宇宁唱天问",
+      "onboard_time": 1776516920,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278467,
       "num": 237976,
       "word": "雷军到达上海后还有余电",
       "onboard_time": 1776437722,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277276,
+      "num": 277276,
+      "word": "日本赌国运老毛病又犯了",
+      "onboard_time": 1776516081,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266138,
@@ -995,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255494,
+      "num": 255494,
+      "word": "周深演唱会",
+      "onboard_time": 1776517221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 252937,
       "num": 236842,
       "word": "白发或是身体的抗癌警报",
@@ -1019,12 +1115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252174,
+      "num": 252174,
+      "word": "王一博顺利完赛不负热爱",
+      "onboard_time": 1776514823,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250945,
       "num": 250945,
       "word": "何润东曾回应未生孩子",
       "onboard_time": 1776490878,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246744,
+      "num": 246744,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1776513741,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 240239,
@@ -1131,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215812,
+      "num": 215812,
+      "word": "六位数的狗坐在七位数的车里",
+      "onboard_time": 1776510681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215777,
       "num": 215777,
       "word": "张予曦毕雯珺总算说上话了",
@@ -1185,14 +1305,6 @@
       "onboard_time": 1776504920,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 206488,
-      "num": 206488,
-      "word": "六位数的狗坐在七位数的车里",
-      "onboard_time": 1776510681,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 206271,
@@ -1299,12 +1411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192311,
-      "num": 327356,
-      "word": "姜贞羽淘汰",
-      "onboard_time": 1776513319,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 190053,
+      "num": 190053,
+      "word": "张雪机车出战荷兰站正赛",
+      "onboard_time": 1776515723,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 189634,
@@ -1332,7 +1444,7 @@
     },
     {
       "raw_hot": 186015,
-      "num": 263652,
+      "num": 283456,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
       "onboard_time": 1776489141,
       "rank": 44,
@@ -1435,12 +1547,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164854,
-      "num": 229665,
+      "raw_hot": 167116,
+      "num": 301548,
       "word": "北约30国大使集体访日",
       "onboard_time": 1776508881,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165267,
+      "num": 165267,
+      "word": "清清集训",
+      "onboard_time": 1776517282,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 164521,
@@ -1457,6 +1577,14 @@
       "onboard_time": 1776437602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163132,
+      "num": 163132,
+      "word": "这都是谁往天上放的",
+      "onboard_time": 1776514881,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 162815,
@@ -1489,14 +1617,6 @@
       "onboard_time": 1776488900,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155188,
-      "num": 155188,
-      "word": "日本在马关条约签订日闯入台海",
-      "onboard_time": 1776513140,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154936,
@@ -1625,6 +1745,14 @@
       "onboard_time": 1776512842,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130211,
+      "num": 142522,
+      "word": "亚马逊创始人与56岁妻子正积极备孕",
+      "onboard_time": 1776517702,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128925,
@@ -1979,6 +2107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43136,
+      "num": 197942,
+      "word": "陈卓璇赖美云赵晴张小婉4人美翻了",
+      "onboard_time": 1776518061,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42452,
       "num": 90236,
       "word": "张雪机车的新涂装",
@@ -2121,6 +2257,14 @@
       "onboard_time": 1776511279,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1896,
+      "num": 281307,
+      "word": "56岁雷军连续直播15小时",
+      "onboard_time": 1776518122,
+      "rank": 29,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

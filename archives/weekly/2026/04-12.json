@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776513490188,
+  "endTime": 1776518212467,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1164286,
+      "num": 1186285,
+      "word": "何润东霸王全妆",
+      "onboard_time": 1776517400,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1160909,
       "num": 465959,
       "word": "女子跳楼被男友拽5分钟后坠亡",
@@ -475,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1112154,
+      "num": 838273,
+      "word": "萧蔷翻温峥嵘白眼",
+      "onboard_time": 1776508520,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1110220,
       "num": 158701,
       "word": "清清否认性骚扰",
       "onboard_time": 1776382398,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1109582,
+      "num": 1109582,
+      "word": "日本在马关条约签订日闯入台海",
+      "onboard_time": 1776513140,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1095393,
@@ -643,6 +667,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 915148,
+      "num": 446151,
+      "word": "姜贞羽淘汰",
+      "onboard_time": 1776513319,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914978,
       "num": 190423,
       "word": "孙红雷连夜关闭了人脸支付",
@@ -707,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 874340,
+      "num": 1129035,
+      "word": "苏超",
+      "onboard_time": 1776505223,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 864916,
       "num": 864916,
       "word": "麦当劳肯德基 宿敌cp",
@@ -721,6 +761,14 @@
       "onboard_time": 1776062539,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 852258,
+      "num": 852258,
+      "word": "张雪机车首回合第4",
+      "onboard_time": 1776516202,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 830325,
@@ -771,28 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 813710,
-      "num": 359548,
-      "word": "萧蔷翻温峥嵘白眼",
-      "onboard_time": 1776508520,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 812334,
       "num": 812334,
       "word": "丙午年 心脏",
       "onboard_time": 1776310041,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 811954,
-      "num": 1129035,
-      "word": "苏超",
-      "onboard_time": 1776505223,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 804106,
@@ -828,7 +860,7 @@
     },
     {
       "raw_hot": 794496,
-      "num": 438346,
+      "num": 442423,
       "word": "孟美岐解约乐华的第一个活动",
       "onboard_time": 1776507201,
       "rank": 12,
@@ -1347,6 +1379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 608596,
+      "num": 608596,
+      "word": "宿迁vs南京",
+      "onboard_time": 1776516982,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600032,
       "num": 189676,
       "word": "罗志祥举日期为自己辟谣",
@@ -1556,7 +1596,7 @@
     },
     {
       "raw_hot": 565574,
-      "num": 367559,
+      "num": 417695,
       "word": "张婉婷坐飞机惊恐发作差点被驱逐",
       "onboard_time": 1776509181,
       "rank": 35,
@@ -1739,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532504,
+      "num": 434105,
+      "word": "何润东现身宿迁奥体",
+      "onboard_time": 1776511580,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532237,
       "num": 1085158,
       "word": "多地新能源车牌绿色变白色",
@@ -1760,6 +1808,14 @@
       "word": "夫胜宽女装",
       "onboard_time": 1776429801,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 527014,
+      "num": 426723,
+      "word": "王嘉尔ins取关蔡徐坤",
+      "onboard_time": 1776517881,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2563,14 +2619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411732,
-      "num": 411732,
-      "word": "何润东现身宿迁奥体",
-      "onboard_time": 1776511580,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 410579,
       "num": 148616,
       "word": "匈牙利",
@@ -2676,7 +2724,7 @@
     },
     {
       "raw_hot": 398431,
-      "num": 311614,
+      "num": 369825,
       "word": "内耗人的终极解药",
       "onboard_time": 1776509781,
       "rank": 39,
@@ -3147,6 +3195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358280,
+      "num": 358280,
+      "word": "陈紫函不上浪姐的原因",
+      "onboard_time": 1776516623,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358278,
       "num": 266869,
       "word": "换电池小卡扣要13万新能源车主崩溃",
@@ -3185,6 +3241,14 @@
       "onboard_time": 1776250521,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352849,
+      "num": 391483,
+      "word": "宿迁进球",
+      "onboard_time": 1776516382,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 352655,
@@ -3369,6 +3433,14 @@
       "onboard_time": 1776439522,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338906,
+      "num": 338906,
+      "word": "澳门老炮质问B太",
+      "onboard_time": 1776515662,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338676,
@@ -4299,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279751,
+      "num": 279751,
+      "word": "龚俊拍了刘宇宁唱天问",
+      "onboard_time": 1776516920,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279682,
       "num": 279682,
       "word": "盛世天下女帝篇",
@@ -4361,6 +4441,14 @@
       "onboard_time": 1776437722,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277276,
+      "num": 277276,
+      "word": "日本赌国运老毛病又犯了",
+      "onboard_time": 1776516081,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276813,
@@ -4723,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255494,
+      "num": 255494,
+      "word": "周深演唱会",
+      "onboard_time": 1776106935,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254468,
       "num": 254468,
       "word": "男子闯黄灯撞死无证闯红灯老人",
@@ -4792,6 +4888,14 @@
       "word": "李楷灿恋情风波后发泡泡",
       "onboard_time": 1776494359,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252174,
+      "num": 252174,
+      "word": "王一博顺利完赛不负热爱",
+      "onboard_time": 1776514823,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -4889,6 +4993,14 @@
       "onboard_time": 1776207797,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246744,
+      "num": 246744,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1776272417,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 246586,
@@ -5531,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215812,
+      "num": 215812,
+      "word": "六位数的狗坐在七位数的车里",
+      "onboard_time": 1776510681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215777,
       "num": 215777,
       "word": "张予曦毕雯珺总算说上话了",
@@ -5801,14 +5921,6 @@
       "onboard_time": 1775925800,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206488,
-      "num": 206488,
-      "word": "六位数的狗坐在七位数的车里",
-      "onboard_time": 1776510681,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 206271,
@@ -6195,14 +6307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192311,
-      "num": 327356,
-      "word": "姜贞羽淘汰",
-      "onboard_time": 1776513319,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191768,
       "num": 144877,
       "word": "吴向飞发李荣浩相关情况说明",
@@ -6265,6 +6369,14 @@
       "onboard_time": 1776007042,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190053,
+      "num": 190053,
+      "word": "张雪机车出战荷兰站正赛",
+      "onboard_time": 1776515723,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 190047,
@@ -6420,7 +6532,7 @@
     },
     {
       "raw_hot": 186015,
-      "num": 263652,
+      "num": 283456,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
       "onboard_time": 1776489141,
       "rank": 44,
@@ -6987,6 +7099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167116,
+      "num": 301548,
+      "word": "北约30国大使集体访日",
+      "onboard_time": 1776508881,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167045,
       "num": 150677,
       "word": "越吃越胖素菜名单",
@@ -7027,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165267,
+      "num": 165267,
+      "word": "清清集训",
+      "onboard_time": 1776517282,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165126,
       "num": 153428,
       "word": "美军宣布在霍尔木兹海峡扫雷",
@@ -7049,14 +7177,6 @@
       "onboard_time": 1776248482,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164854,
-      "num": 229665,
-      "word": "北约30国大使集体访日",
-      "onboard_time": 1776508881,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164701,
@@ -7089,6 +7209,14 @@
       "onboard_time": 1776091522,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163132,
+      "num": 163132,
+      "word": "这都是谁往天上放的",
+      "onboard_time": 1776514881,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 163041,
@@ -7369,14 +7497,6 @@
       "onboard_time": 1776344482,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155188,
-      "num": 155188,
-      "word": "日本在马关条约签订日闯入台海",
-      "onboard_time": 1776513140,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155181,
@@ -8417,6 +8537,14 @@
       "onboard_time": 1776237920,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130211,
+      "num": 142522,
+      "word": "亚马逊创始人与56岁妻子正积极备孕",
+      "onboard_time": 1776517702,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129965,
@@ -15803,6 +15931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43136,
+      "num": 197942,
+      "word": "陈卓璇赖美云赵晴张小婉4人美翻了",
+      "onboard_time": 1776518061,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43061,
       "num": 63581,
       "word": "苹果回应升级iOS系统后耗电快",
@@ -16635,14 +16771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28004,
-      "num": 104833,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1776272417,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 27985,
       "num": 79915,
       "word": "赵子琪火力全开",
@@ -17331,14 +17459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16782,
-      "num": 57877,
-      "word": "周深演唱会",
-      "onboard_time": 1776106935,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16760,
       "num": 89387,
       "word": "班主任猥亵女生已成立联合调查组",
@@ -17585,6 +17705,14 @@
       "onboard_time": 1776154161,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1896,
+      "num": 281307,
+      "word": "56岁雷军连续直播15小时",
+      "onboard_time": 1776518122,
+      "rank": 29,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
