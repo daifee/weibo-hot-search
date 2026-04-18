@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776509522663,
+  "endTime": 1776510489961,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -153,6 +153,14 @@
       "onboard_time": 1775603420,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2895814,
+      "num": 1384760,
+      "word": "拼多多用暴力软对抗手段阻碍监管执法",
+      "onboard_time": 1776507981,
+      "rank": 0,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 2873544,
@@ -801,14 +809,6 @@
       "onboard_time": 1775835864,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1384760,
-      "num": 1384760,
-      "word": "拼多多用暴力软对抗手段阻碍监管执法",
-      "onboard_time": 1776507981,
-      "rank": 0,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1373133,
@@ -2251,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 794496,
+      "num": 438346,
+      "word": "孟美岐解约乐华的第一个活动",
+      "onboard_time": 1776507201,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793523,
       "num": 521039,
       "word": "时代峰峻高会声明",
@@ -2624,14 +2632,6 @@
       "word": "郭敬明 选秀",
       "onboard_time": 1776403823,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 716624,
-      "num": 438346,
-      "word": "孟美岐解约乐华的第一个活动",
-      "onboard_time": 1776507201,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -4659,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517362,
+      "num": 290912,
+      "word": "萧蔷翻温峥嵘白眼",
+      "onboard_time": 1776508520,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515651,
       "num": 515651,
       "word": "伊朗拉万炼油厂发生爆炸",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1775724802,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469014,
+      "num": 414171,
+      "word": "苏超",
+      "onboard_time": 1775881642,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 468612,
@@ -6545,14 +6561,6 @@
       "onboard_time": 1776153202,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 414171,
-      "num": 414171,
-      "word": "苏超",
-      "onboard_time": 1775881642,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 413828,
@@ -9619,6 +9627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316290,
+      "num": 225605,
+      "word": "AG夺得CFPL第十三冠",
+      "onboard_time": 1776509481,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316039,
       "num": 316039,
       "word": "伊朗10分钟5波导弹袭击以色列",
@@ -9737,6 +9753,14 @@
       "onboard_time": 1776439941,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312600,
+      "num": 391481,
+      "word": "深圳一小学老师批改作业时崩溃大哭",
+      "onboard_time": 1776508881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312214,
@@ -10539,14 +10563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290912,
-      "num": 290912,
-      "word": "萧蔷翻温峥嵘白眼",
-      "onboard_time": 1776508520,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290497,
       "num": 125678,
       "word": "伊朗2天击落12架美军战机",
@@ -10776,6 +10792,14 @@
       "word": "曝李马克签了李泳知公司",
       "onboard_time": 1775210541,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286210,
+      "num": 191045,
+      "word": "张婉婷坐飞机惊恐发作差点被驱逐",
+      "onboard_time": 1776509181,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -17979,14 +18003,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 169104,
-      "num": 169104,
-      "word": "张婉婷坐飞机惊恐发作差点被驱逐",
-      "onboard_time": 1776509181,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168967,
       "num": 490704,
       "word": "井川里予回应穿山寨礼服",
@@ -18771,6 +18787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161056,
+      "num": 161056,
+      "word": "日本可短时间内造出原子弹",
+      "onboard_time": 1776509121,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "郭敬明终于拍he了",
@@ -19323,6 +19347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154972,
+      "num": 154972,
+      "word": "日媒集体噤声",
+      "onboard_time": 1776510021,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154936,
       "num": 154936,
       "word": "暖阳送镜星元",
@@ -19649,6 +19681,22 @@
       "onboard_time": 1775966239,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151588,
+      "num": 162900,
+      "word": "北约30国大使集体访日",
+      "onboard_time": 1776508881,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151548,
+      "num": 151548,
+      "word": "日本远程导弹射程覆盖中国军港",
+      "onboard_time": 1776509841,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151529,
@@ -20171,6 +20219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146348,
+      "num": 279698,
+      "word": "富人付费狙杀平民偏好儿童年轻女性",
+      "onboard_time": 1776502341,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146223,
       "num": 146223,
       "word": "十日终焉官博隐藏了一条视频",
@@ -20497,6 +20553,14 @@
       "onboard_time": 1775362701,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143361,
+      "num": 143361,
+      "word": "内耗人的终极解药",
+      "onboard_time": 1776509781,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 143271,
@@ -21227,14 +21291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138451,
-      "num": 279698,
-      "word": "富人付费狙杀平民偏好儿童年轻女性",
-      "onboard_time": 1776502341,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 138449,
       "num": 138449,
       "word": "Bin 小奶油",
@@ -21545,14 +21601,6 @@
       "onboard_time": 1775403024,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136230,
-      "num": 136230,
-      "word": "日本可短时间内造出原子弹",
-      "onboard_time": 1776509121,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136209,
@@ -22865,14 +22913,6 @@
       "onboard_time": 1775107223,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127051,
-      "num": 127051,
-      "word": "北约30国大使集体访日",
-      "onboard_time": 1776508881,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126876,
@@ -29977,14 +30017,6 @@
       "onboard_time": 1775206222,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93660,
-      "num": 225605,
-      "word": "AG夺得CFPL第十三冠",
-      "onboard_time": 1776509481,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 93630,
@@ -42120,14 +42152,6 @@
       "word": "35岁3胎孕妈胎盘粘住膀胱堵死宫颈",
       "onboard_time": 1776124459,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58442,
-      "num": 391481,
-      "word": "深圳一小学老师批改作业时崩溃大哭",
-      "onboard_time": 1776508881,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
