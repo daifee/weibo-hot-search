@@ -1,6 +1,6 @@
 {
   "startTime": 1775926041008,
-  "endTime": 1776523764650,
+  "endTime": 1776524819593,
   "band_list": [
     {
       "raw_hot": 9017754,
@@ -316,11 +316,19 @@
     },
     {
       "raw_hot": 1373133,
-      "num": 890828,
+      "num": 911376,
       "word": "中国城市宜居水平排行榜",
       "onboard_time": 1776504201,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1371754,
+      "num": 376714,
+      "word": "金智秀哥哥的妻子发ins",
+      "onboard_time": 1776521121,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1358925,
@@ -401,14 +409,6 @@
       "onboard_time": 1776423259,
       "rank": 20,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 1243648,
-      "num": 376714,
-      "word": "金智秀哥哥的妻子发ins",
-      "onboard_time": 1776521121,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1233316,
@@ -497,6 +497,14 @@
       "onboard_time": 1776410660,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1124373,
+      "num": 403773,
+      "word": "柳智敏穿的长裙只要92元",
+      "onboard_time": 1776523224,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121209,
@@ -963,6 +971,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 738391,
+      "num": 738391,
+      "word": "陈紫函不上浪姐的原因",
+      "onboard_time": 1776516623,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733534,
       "num": 163450,
       "word": "TOP更新站位",
@@ -1131,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688738,
+      "num": 395081,
+      "word": "张凌赫ins更新萌照",
+      "onboard_time": 1776519683,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686760,
       "num": 686760,
       "word": "王濛cue黎明",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1776220700,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 669080,
+      "num": 376332,
+      "word": "梅婷女儿名字叫曾慕梅",
+      "onboard_time": 1776521963,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 667185,
@@ -1275,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 648794,
-      "num": 395081,
-      "word": "张凌赫ins更新萌照",
-      "onboard_time": 1776519683,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 647780,
       "num": 1103644,
       "word": "男子将好友骨灰撒高原梦到他说冷",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1776407180,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641347,
-      "num": 547748,
-      "word": "陈紫函不上浪姐的原因",
-      "onboard_time": 1776516623,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 640442,
@@ -1667,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 558858,
-      "num": 376332,
-      "word": "梅婷女儿名字叫曾慕梅",
-      "onboard_time": 1776521963,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 557372,
       "num": 266940,
       "word": "郭敬明的剧连演员本人都看不懂",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1776413722,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 520076,
+      "num": 520076,
+      "word": "张雪机车为什么被罚",
+      "onboard_time": 1776521842,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 520023,
@@ -2555,14 +2571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 426045,
-      "num": 375823,
-      "word": "柳智敏穿的长裙只要92元",
-      "onboard_time": 1776523224,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422796,
       "num": 255625,
       "word": "越南综艺 心愿便利贴",
@@ -2715,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404156,
+      "num": 375781,
+      "word": "内耗人的终极解药",
+      "onboard_time": 1776509781,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403835,
       "num": 265474,
       "word": "迪丽热巴工作室回应审美争议",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1776491239,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398431,
-      "num": 375781,
-      "word": "内耗人的终极解药",
-      "onboard_time": 1776509781,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 398337,
@@ -3835,14 +3843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317361,
-      "num": 354997,
-      "word": "张雪机车为什么被罚",
-      "onboard_time": 1776521842,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 317286,
       "num": 141571,
       "word": "上万美军封锁霍尔木兹海峡",
@@ -4627,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269342,
+      "num": 252045,
+      "word": "48岁TVB视后田蕊妮再度患癌",
+      "onboard_time": 1776518302,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269261,
       "num": 161194,
       "word": "伊朗对美国发出新警告",
@@ -5009,6 +5017,14 @@
       "onboard_time": 1776490878,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250508,
+      "num": 250508,
+      "word": "谢娜录了时代少年团直拍",
+      "onboard_time": 1776524181,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 250142,
@@ -5547,6 +5563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228085,
+      "num": 248289,
+      "word": "日本远程导弹射程覆盖中国军港",
+      "onboard_time": 1776509841,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227607,
       "num": 227607,
       "word": "小米18Pro配置全面曝光",
@@ -5619,6 +5643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222393,
+      "num": 222393,
+      "word": "京东让何润东项羽还原度封神",
+      "onboard_time": 1776523643,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222202,
       "num": 222202,
       "word": "曝再见朋友接触井柏然付辛博",
@@ -5657,6 +5689,14 @@
       "onboard_time": 1776512120,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220368,
+      "num": 364870,
+      "word": "泰国泼水节疑有人向人嘴里射毒水",
+      "onboard_time": 1776521482,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220324,
@@ -5833,6 +5873,14 @@
       "onboard_time": 1776233600,
       "rank": 19,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 212874,
+      "num": 212874,
+      "word": "王嘉尔在推特怼黑粉",
+      "onboard_time": 1776521003,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 212562,
@@ -6091,14 +6139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203130,
-      "num": 203130,
-      "word": "日本远程导弹射程覆盖中国军港",
-      "onboard_time": 1776509841,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 202769,
       "num": 202769,
       "word": "女友跳楼男友未拽住担责冤不冤",
@@ -6177,14 +6217,6 @@
       "onboard_time": 1776003683,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201103,
-      "num": 201103,
-      "word": "48岁TVB视后田蕊妮再度患癌",
-      "onboard_time": 1776518302,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 200484,
@@ -6435,14 +6467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191047,
-      "num": 175252,
-      "word": "王嘉尔在推特怼黑粉",
-      "onboard_time": 1776521003,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190683,
       "num": 399980,
       "word": "以宣布基本解除战时限制",
@@ -6648,6 +6672,14 @@
       "word": "张雪机车夺冠后首秀",
       "onboard_time": 1776420441,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184954,
+      "num": 184954,
+      "word": "苏超徐州队3比0泰州队",
+      "onboard_time": 1776524423,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7161,14 +7193,6 @@
       "onboard_time": 1775981602,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 169002,
-      "num": 350605,
-      "word": "泰国泼水节疑有人向人嘴里射毒水",
-      "onboard_time": 1776521482,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 168967,
@@ -8395,6 +8419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136489,
+      "num": 377636,
+      "word": "56岁雷军连续直播15小时",
+      "onboard_time": 1776518122,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136382,
       "num": 128115,
       "word": "谢娜发文说手抖",
@@ -9339,14 +9371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116757,
-      "num": 173378,
-      "word": "京东让何润东项羽还原度封神",
-      "onboard_time": 1776523643,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116471,
       "num": 156552,
       "word": "公司招聘要求余额超300称防闹事",
@@ -9569,14 +9593,6 @@
       "onboard_time": 1775979503,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113094,
-      "num": 377636,
-      "word": "56岁雷军连续直播15小时",
-      "onboard_time": 1776518122,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 112738,
@@ -16364,7 +16380,7 @@
     },
     {
       "raw_hot": 38830,
-      "num": 699181,
+      "num": 781685,
       "word": "生态文旅激活消费新活力",
       "onboard_time": 1776520223,
       "rank": 2,
@@ -17379,6 +17395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 21062,
+      "num": 220636,
+      "word": "黑神话悟空同款陕北说书有多绝",
+      "onboard_time": 1776523882,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21013,
       "num": 100765,
       "word": "酒吧取名摆烂被要求整改",
@@ -17867,7 +17891,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1048,
+      "raw_hot": 5830,
       "num": 350178,
       "word": "雷军说无意做穿搭博主",
       "onboard_time": 1776523522,
