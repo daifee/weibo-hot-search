@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776549541730,
+  "endTime": 1776552259430,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -49,6 +49,14 @@
       "onboard_time": 1776521842,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609649,
+      "num": 259425,
+      "word": "日本驱逐舰过航台湾海峡取证画面",
+      "onboard_time": 1776537255,
+      "rank": 22,
+      "category": "军事"
     },
     {
       "raw_hot": 608867,
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320003,
-      "num": 117319,
-      "word": "日本驱逐舰过航台湾海峡取证画面",
-      "onboard_time": 1776537255,
-      "rank": 22,
-      "category": "军事"
-    },
-    {
       "raw_hot": 291913,
       "num": 304203,
       "word": "咪豆音乐节",
@@ -267,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209044,
+      "num": 367055,
+      "word": "人与人其实更多的是相逢恨早",
+      "onboard_time": 1776539595,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207617,
       "num": 207617,
       "word": "时代少年团 郭敬明审美",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151321,
+      "num": 197836,
+      "word": "长大告诉孩子是轮胎生的",
+      "onboard_time": 1776531977,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150332,
       "num": 209013,
       "word": "六位数的狗坐在七位数的车里",
@@ -387,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127465,
-      "num": 262130,
-      "word": "人与人其实更多的是相逢恨早",
-      "onboard_time": 1776539595,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120684,
       "num": 255693,
       "word": "宿迁2比0南京",
@@ -427,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112079,
+      "num": 112079,
+      "word": "风扇乱流 灭蚊子",
+      "onboard_time": 1776545473,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 107874,
       "num": 207364,
       "word": "男子养龙虾月赔10万破防抑郁",
@@ -441,14 +457,6 @@
       "onboard_time": 1776518122,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95526,
-      "num": 95526,
-      "word": "风扇乱流 灭蚊子",
-      "onboard_time": 1776545473,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 93820,
@@ -507,28 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69643,
-      "num": 197836,
-      "word": "长大告诉孩子是轮胎生的",
-      "onboard_time": 1776531977,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67376,
-      "num": 197576,
-      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
-      "onboard_time": 1776533536,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61272,
+      "raw_hot": 68657,
       "num": 197036,
       "word": "以色列社会悲观情绪主导",
       "onboard_time": 1776534019,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68078,
+      "num": 197576,
+      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
+      "onboard_time": 1776533536,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58107,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36291,
+      "num": 43743,
+      "word": "解放军跟监警戒日驱逐舰画面",
+      "onboard_time": 1776543373,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 32023,
       "num": 647714,
       "word": "生态文旅激活消费新活力",
@@ -587,16 +595,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31247,
-      "num": 42777,
-      "word": "解放军跟监警戒日驱逐舰画面",
-      "onboard_time": 1776543373,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 26666,
-      "num": 42821,
+      "num": 43736,
       "word": "龚俊看刘宇宁演唱会",
       "onboard_time": 1776545654,
       "rank": 47,
