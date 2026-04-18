@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776534246531,
+  "endTime": 1776535325411,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -72,6 +72,14 @@
       "word": "听障女孩回应美得像假人",
       "onboard_time": 1776528741,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528983,
+      "num": 206676,
+      "word": "通勤最辛苦城市",
+      "onboard_time": 1776531619,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1776528860,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353840,
-      "num": 206676,
-      "word": "通勤最辛苦城市",
-      "onboard_time": 1776531619,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323994,
@@ -371,7 +371,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135899,
+      "raw_hot": 143772,
       "num": 209548,
       "word": "小学生春游到自己家要求赔10元车费",
       "onboard_time": 1776529700,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78054,
+      "num": 206799,
+      "word": "女子机场两次拒绝帮陌生人带行李",
+      "onboard_time": 1776501441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77075,
       "num": 207644,
       "word": "李小冉 你吃过麻辣拌吗",
@@ -467,20 +475,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69765,
-      "num": 206799,
-      "word": "女子机场两次拒绝帮陌生人带行李",
-      "onboard_time": 1776501441,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66537,
-      "num": 120314,
+      "raw_hot": 69643,
+      "num": 197836,
       "word": "长大告诉孩子是轮胎生的",
       "onboard_time": 1776531977,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67376,
+      "num": 197576,
+      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
+      "onboard_time": 1776533536,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61272,
+      "num": 197036,
+      "word": "以色列社会悲观情绪主导",
+      "onboard_time": 1776534019,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58107,
@@ -499,27 +515,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 57179,
-      "num": 120079,
-      "word": "以色列社会悲观情绪主导",
-      "onboard_time": 1776534019,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56960,
       "num": 206282,
       "word": "校方通报家长与麻辣烫摊主纠纷",
       "onboard_time": 1776531619,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52794,
-      "num": 119890,
-      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
-      "onboard_time": 1776533536,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
