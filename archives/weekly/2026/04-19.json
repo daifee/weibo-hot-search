@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776538988016,
+  "endTime": 1776539745664,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -395,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117319,
+      "num": 117319,
+      "word": "日本驱逐舰过航台湾海峡取证画面",
+      "onboard_time": 1776537255,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 115958,
       "num": 222819,
       "word": "亚马逊创始人与56岁妻子正积极备孕",
@@ -433,14 +441,6 @@
       "onboard_time": 1776520942,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88405,
-      "num": 88405,
-      "word": "日本驱逐舰过航台湾海峡取证画面",
-      "onboard_time": 1776537255,
-      "rank": 22,
-      "category": "军事"
     },
     {
       "raw_hot": 87260,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54477,
+      "num": 68234,
+      "word": "属于我的8小时到哪去了",
+      "onboard_time": 1776536476,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52746,
       "num": 224060,
       "word": "雷军说无意做穿搭博主",
@@ -539,20 +547,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 43285,
+      "raw_hot": 43876,
       "num": 68260,
       "word": "范丞丞综艺感",
       "onboard_time": 1776537135,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43254,
-      "num": 68234,
-      "word": "属于我的8小时到哪去了",
-      "onboard_time": 1776536476,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 39254,
@@ -569,6 +569,14 @@
       "onboard_time": 1776520223,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31507,
+      "num": 35530,
+      "word": "人与人其实更多的是相逢恨早",
+      "onboard_time": 1776539595,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 17660,

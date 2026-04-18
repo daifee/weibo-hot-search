@@ -1,0 +1,410 @@
+{
+  "runTime": 1776539745664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 388208,
+        "num": 388208,
+        "word": "日本已彻底撕掉伪装",
+        "onboard_time": 1776525202,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151296,
+        "num": 151296,
+        "word": "中国城市宜居水平排行榜",
+        "onboard_time": 1776504201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11347,
+        "num": 147698,
+        "word": "生态文旅激活消费新活力",
+        "onboard_time": 1776520223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152760,
+        "num": 147176,
+        "word": "陈紫函不上浪姐的原因",
+        "onboard_time": 1776516623,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "姜贞羽淘汰",
+        "onboard_time": 1776513319,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117319,
+        "num": 117319,
+        "word": "日本驱逐舰过航台湾海峡取证画面",
+        "onboard_time": 1776537255,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112545,
+        "num": 112545,
+        "word": "日本在马关条约签订日闯入台海",
+        "onboard_time": 1776513140,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93882,
+        "num": 112402,
+        "word": "解放军凌晨四点管控日舰过航台湾海峡",
+        "onboard_time": 1776503961,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64905,
+        "num": 109714,
+        "word": "张雪机车为什么被罚",
+        "onboard_time": 1776521842,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59538,
+        "num": 108756,
+        "word": "咪豆音乐节",
+        "onboard_time": 1776527720,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253358,
+        "num": 107175,
+        "word": "通勤最辛苦城市",
+        "onboard_time": 1776531619,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180959,
+        "num": 104102,
+        "word": "听障女孩回应美得像假人",
+        "onboard_time": 1776528741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122207,
+        "num": 103392,
+        "word": "朱孝天上节目被打",
+        "onboard_time": 1776518240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149479,
+        "num": 100746,
+        "word": "泰国泼水节疑有人向人嘴里射毒水",
+        "onboard_time": 1776521482,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100418,
+        "num": 100418,
+        "word": "萧蔷翻温峥嵘白眼",
+        "onboard_time": 1776508520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95640,
+        "num": 95640,
+        "word": "谢娜录了时代少年团直拍",
+        "onboard_time": 1776524181,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80861,
+        "num": 80861,
+        "word": "小学生春游到自己家要求赔10元车费",
+        "onboard_time": 1776529700,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79956,
+        "num": 79956,
+        "word": "宿迁vs南京",
+        "onboard_time": 1776516982,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75666,
+        "num": 75666,
+        "word": "王源被粉丝表白打断了",
+        "onboard_time": 1776530837,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75378,
+        "num": 75378,
+        "word": "日媒集体噤声",
+        "onboard_time": 1776510021,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102152,
+        "num": 73173,
+        "word": "五一航班大面积取消",
+        "onboard_time": 1776496760,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93526,
+        "num": 71960,
+        "word": "解放军护卫舰已随时准备开火",
+        "onboard_time": 1776526641,
+        "rank": 21,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 66218,
+        "num": 66218,
+        "word": "日本赌国运老毛病又犯了",
+        "onboard_time": 1776516081,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64323,
+        "num": 64323,
+        "word": "内耗人的终极解药",
+        "onboard_time": 1776509781,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62294,
+        "num": 62294,
+        "word": "李小冉玩梗心愿便利贴",
+        "onboard_time": 1776518361,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54477,
+        "num": 54477,
+        "word": "属于我的8小时到哪去了",
+        "onboard_time": 1776536476,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54096,
+        "num": 54096,
+        "word": "蓝莓摊泼水节被洗劫一空摊主发声",
+        "onboard_time": 1776533536,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51469,
+        "num": 51469,
+        "word": "男子养龙虾月赔10万破防抑郁",
+        "onboard_time": 1776531619,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50760,
+        "num": 50760,
+        "word": "苏超",
+        "onboard_time": 1776505223,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48458,
+        "num": 48458,
+        "word": "长大告诉孩子是轮胎生的",
+        "onboard_time": 1776531977,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46703,
+        "num": 46703,
+        "word": "宿迁2比0南京",
+        "onboard_time": 1776528979,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45205,
+        "num": 45205,
+        "word": "六位数的狗坐在七位数的车里",
+        "onboard_time": 1776510681,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43876,
+        "num": 43876,
+        "word": "范丞丞综艺感",
+        "onboard_time": 1776537135,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42880,
+        "num": 42880,
+        "word": "以色列社会悲观情绪主导",
+        "onboard_time": 1776534019,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42163,
+        "num": 42163,
+        "word": "张小斐被虫子吓得弹起来了",
+        "onboard_time": 1776519024,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40361,
+        "num": 40361,
+        "word": "深圳一小学老师批改作业时崩溃大哭",
+        "onboard_time": 1776508881,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39183,
+        "num": 39183,
+        "word": "女子机场两次拒绝帮陌生人带行李",
+        "onboard_time": 1776501441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38932,
+        "num": 38932,
+        "word": "台媒称男神肖战出演最美书生",
+        "onboard_time": 1776520102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38876,
+        "num": 38876,
+        "word": "日本迫切出兵海外",
+        "onboard_time": 1776524542,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38546,
+        "num": 38546,
+        "word": "张雪机车回应首回合第4",
+        "onboard_time": 1776537075,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38100,
+        "num": 38100,
+        "word": "张雪机车首回合第4",
+        "onboard_time": 1776516202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36542,
+        "num": 36542,
+        "word": "樊振东波尔日内瓦旅行",
+        "onboard_time": 1776520523,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36330,
+        "num": 36330,
+        "word": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
+        "onboard_time": 1776521723,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35821,
+        "num": 35821,
+        "word": "龚俊拍了刘宇宁唱天问",
+        "onboard_time": 1776516920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35531,
+        "num": 35531,
+        "word": "校方通报家长与麻辣烫摊主纠纷",
+        "onboard_time": 1776531619,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34597,
+        "num": 35531,
+        "word": "张雪机车",
+        "onboard_time": 1776519561,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34105,
+        "num": 35531,
+        "word": "中国已不是131年前的中国",
+        "onboard_time": 1776531619,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31727,
+        "num": 35530,
+        "word": "日本囤分离钚足够造约5500枚核弹头",
+        "onboard_time": 1776520942,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31507,
+        "num": 35530,
+        "word": "人与人其实更多的是相逢恨早",
+        "onboard_time": 1776539595,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30252,
+        "num": 35530,
+        "word": "这些可能是早期肺癌警示性症状",
+        "onboard_time": 1776531619,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
