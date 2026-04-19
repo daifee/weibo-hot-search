@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776556858412,
+  "endTime": 1776569523813,
   "band_list": [
     {
       "raw_hot": 9896019,
@@ -287,6 +287,14 @@
       "num": 329439,
       "word": "金子涵否认是秦岚",
       "onboard_time": 1775701762,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2389092,
+      "num": 343116,
+      "word": "何润东狂接商务",
+      "onboard_time": 1776562160,
       "rank": 10,
       "category": "艺人"
     },
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1423652,
+      "num": 332611,
+      "word": "曝歌手2026阵容",
+      "onboard_time": 1776557779,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1411477,
       "num": 211128,
       "word": "倪萍直播道歉",
@@ -825,6 +841,14 @@
       "onboard_time": 1775835864,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1388629,
+      "num": 799066,
+      "word": "谢娜晒和马嘉祺聊天记录",
+      "onboard_time": 1776555557,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1373133,
@@ -1579,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984618,
+      "num": 320230,
+      "word": "攻玉 辞演",
+      "onboard_time": 1776555798,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 983413,
       "num": 197094,
       "word": "眉姐姐斓曦怎么了",
@@ -1803,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 914680,
+      "num": 1146348,
+      "word": "宇树机器人打破人类1500米世界纪录",
+      "onboard_time": 1776562341,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 914125,
       "num": 270764,
       "word": "原来软柿子在人群里这么明显",
@@ -1872,6 +1912,14 @@
       "word": "虞书欣工作室 审美",
       "onboard_time": 1775548761,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 894595,
+      "num": 283071,
+      "word": "何润东不让老婆接受伤害性医疗干预",
+      "onboard_time": 1776557298,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2251,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815381,
+      "num": 310548,
+      "word": "你是真的火了李小冉",
+      "onboard_time": 1776555557,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815352,
       "num": 719642,
       "word": "浪姐取消直播后被喊话退钱",
@@ -2403,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789883,
+      "num": 789883,
+      "word": "低精力 杏仁核长期应激",
+      "onboard_time": 1776556517,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 787450,
       "num": 595234,
       "word": "以色列遭开战以来最大规模导弹袭击",
@@ -2491,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772081,
+      "num": 329560,
+      "word": "酒店回访电话暴露开房致女子离婚",
+      "onboard_time": 1776556278,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770927,
       "num": 770927,
       "word": "张雪机车荷兰站",
@@ -2553,6 +2625,14 @@
       "onboard_time": 1776436704,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 754643,
+      "num": 820304,
+      "word": "花少8 南美",
+      "onboard_time": 1776566900,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 753241,
@@ -3163,6 +3243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 664428,
+      "num": 274032,
+      "word": "虞书欣好辣",
+      "onboard_time": 1776558200,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663401,
       "num": 195891,
       "word": "王濛 色令智昏",
@@ -3529,6 +3617,14 @@
       "onboard_time": 1775052144,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626029,
+      "num": 273999,
+      "word": "女子产后被男友起诉退彩礼和分娩费",
+      "onboard_time": 1776556098,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624247,
@@ -4472,14 +4568,6 @@
       "word": "王晓晨吃药引发心悸",
       "onboard_time": 1776076340,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 543733,
-      "num": 166225,
-      "word": "谢娜晒和马嘉祺聊天记录",
-      "onboard_time": 1776555557,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -5427,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485765,
+      "num": 485765,
+      "word": "杨紫新剧老年妆",
+      "onboard_time": 1776567320,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485189,
       "num": 485189,
       "word": "lululemon或与不孕等风险相关",
@@ -5564,7 +5660,7 @@
     },
     {
       "raw_hot": 476582,
-      "num": 159914,
+      "num": 200820,
       "word": "女儿说我爸爸是刘德华没人相信",
       "onboard_time": 1776554057,
       "rank": 20,
@@ -5689,6 +5785,14 @@
       "onboard_time": 1775293881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469477,
+      "num": 469477,
+      "word": "解放军凌晨4点管控日舰过航",
+      "onboard_time": 1776560300,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 469038,
@@ -6187,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441767,
+      "num": 273520,
+      "word": "网传花少8的阵容",
+      "onboard_time": 1776558861,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441645,
       "num": 389659,
       "word": "17岁少年离世前还在看暗黑动漫",
@@ -6249,6 +6361,14 @@
       "onboard_time": 1775396364,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438413,
+      "num": 438413,
+      "word": "宇树H1机器人半马赛场终点累倒",
+      "onboard_time": 1776565040,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 438268,
@@ -6425,6 +6545,14 @@
       "onboard_time": 1775645781,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429849,
+      "num": 429849,
+      "word": "火箭vs湖人",
+      "onboard_time": 1776558799,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 429653,
@@ -6825,14 +6953,6 @@
       "onboard_time": 1775402364,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413247,
-      "num": 160973,
-      "word": "你是真的火了李小冉",
-      "onboard_time": 1776555557,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 413049,
@@ -7376,14 +7496,6 @@
       "word": "女孩高铁换胰岛素被警察发现",
       "onboard_time": 1775364861,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393021,
-      "num": 165798,
-      "word": "女子产后被男友起诉退彩礼和分娩费",
-      "onboard_time": 1776556098,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -8113,6 +8225,14 @@
       "onboard_time": 1775880559,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369964,
+      "num": 273369,
+      "word": "谁把张凌赫弄天上去了",
+      "onboard_time": 1776565280,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 369601,
@@ -9065,6 +9185,14 @@
       "onboard_time": 1775304923,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 339585,
+      "num": 273281,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1776564140,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 338861,
@@ -10243,6 +10371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309619,
+      "num": 273079,
+      "word": "凌晨的徐艺洋简直是魔丸",
+      "onboard_time": 1776562400,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309529,
       "num": 309529,
       "word": "比亚迪财务总监年薪1013万元",
@@ -10265,6 +10401,14 @@
       "onboard_time": 1774969704,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309108,
+      "num": 309108,
+      "word": "荣耀机器人首次参赛就夺冠",
+      "onboard_time": 1776562761,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 308723,
@@ -11779,6 +11923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274361,
+      "num": 274361,
+      "word": "纽北事故",
+      "onboard_time": 1776556639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274335,
       "num": 190630,
       "word": "王濛李小冉小声蛐蛐全被拍了",
@@ -11841,6 +11993,14 @@
       "onboard_time": 1775361259,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272398,
+      "num": 272398,
+      "word": "这一秒过火野狗骨头 对打",
+      "onboard_time": 1776562880,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 272046,
@@ -12553,6 +12713,14 @@
       "onboard_time": 1776323302,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257193,
+      "num": 257193,
+      "word": "刘浩存走完红毯拧裙子上的水",
+      "onboard_time": 1776568880,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 257032,
@@ -13811,28 +13979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235037,
-      "num": 156116,
-      "word": "酒店回访电话暴露开房致女子离婚",
-      "onboard_time": 1776556278,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235021,
       "num": 140331,
       "word": "朋友对陈丽华比迟重瑞大10岁感到震惊",
       "onboard_time": 1775537783,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234819,
-      "num": 234819,
-      "word": "攻玉 辞演",
-      "onboard_time": 1776555798,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 234552,
@@ -13849,6 +14001,14 @@
       "onboard_time": 1775144424,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234333,
+      "num": 234333,
+      "word": "日舰闯台海这天中国人不会忘",
+      "onboard_time": 1776563958,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234309,
@@ -14843,6 +15003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217086,
+      "num": 217086,
+      "word": "睡觉时被空调砸到头了",
+      "onboard_time": 1776568939,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216999,
       "num": 477873,
       "word": "九尾的新发型",
@@ -14889,6 +15057,14 @@
       "onboard_time": 1775820922,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216657,
+      "num": 272498,
+      "word": "女子2年胖20斤常感疲累确诊甲减",
+      "onboard_time": 1776560120,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216626,
@@ -15755,6 +15931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204374,
+      "num": 204374,
+      "word": "王俊凯认真开会的王理事",
+      "onboard_time": 1776561501,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204222,
       "num": 163498,
       "word": "老人称养大4个子女晚年却无人陪伴",
@@ -16121,6 +16305,22 @@
       "onboard_time": 1775653642,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199825,
+      "num": 193036,
+      "word": "王一博把ChinaGT干成了全球顶级赛事",
+      "onboard_time": 1776556819,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199807,
+      "num": 199807,
+      "word": "54岁女子参与卖淫被捕",
+      "onboard_time": 1776559160,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 199769,
@@ -18019,14 +18219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175500,
-      "num": 152155,
-      "word": "低精力 杏仁核长期应激",
-      "onboard_time": 1776556517,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175403,
       "num": 175403,
       "word": "云南昭通3.8级地震",
@@ -18843,6 +19035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165933,
+      "num": 165933,
+      "word": "三月三",
+      "onboard_time": 1776561080,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165755,
       "num": 165755,
       "word": "男子伸咸猪手被女老板扇飞眼镜",
@@ -18955,6 +19155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164742,
+      "num": 164742,
+      "word": "詹姆斯创季后赛单节助攻新高",
+      "onboard_time": 1776568100,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164729,
       "num": 144342,
       "word": "网传一公淘汰张艺上温峥嵘",
@@ -19009,6 +19217,14 @@
       "onboard_time": 1775907261,
       "rank": 27,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 164353,
+      "num": 164353,
+      "word": "20岁男生摆摊养6弟妹父母又生娃",
+      "onboard_time": 1776557659,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164133,
@@ -19923,6 +20139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155460,
+      "num": 287973,
+      "word": "宇树H1机器人被担架抬离赛道",
+      "onboard_time": 1776567858,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155385,
       "num": 155385,
       "word": "开发商就喷辣椒水驱散购房人群致歉",
@@ -20073,6 +20297,14 @@
       "onboard_time": 1775620521,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154015,
+      "num": 154015,
+      "word": "钟美美对郝蕾贴脸开大",
+      "onboard_time": 1776568041,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 153883,
@@ -20825,6 +21057,14 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146946,
+      "num": 146946,
+      "word": "黄灿灿对着李小冉跳心愿便利贴",
+      "onboard_time": 1776565821,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146675,
@@ -22307,6 +22547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135519,
+      "num": 135519,
+      "word": "南京灵连夜改名南京赢",
+      "onboard_time": 1776568220,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135338,
       "num": 129278,
       "word": "迪丽热巴生离死别哭戏",
@@ -23252,7 +23500,7 @@
     },
     {
       "raw_hot": 129026,
-      "num": 162975,
+      "num": 272691,
       "word": "300个机器人跑半马",
       "onboard_time": 1776556098,
       "rank": 16,
@@ -28155,14 +28403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102834,
-      "num": 138586,
-      "word": "王一博把ChinaGT干成了全球顶级赛事",
-      "onboard_time": 1776556819,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102775,
       "num": 102775,
       "word": "小狗一点点闻到了朋友死亡的过程",
@@ -30121,6 +30361,14 @@
       "onboard_time": 1775737222,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95706,
+      "num": 273669,
+      "word": "黄帝故里根脉郑州",
+      "onboard_time": 1776568220,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95692,
@@ -33099,6 +33347,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86809,
+      "num": 272845,
+      "word": "2026机器人半马",
+      "onboard_time": 1776556098,
+      "rank": 18,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 86795,
       "num": 86795,
       "word": "网剧宝珠",
@@ -34529,14 +34785,6 @@
       "onboard_time": 1775230821,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83500,
-      "num": 151891,
-      "word": "纽北事故",
-      "onboard_time": 1776556639,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 83485,
@@ -36881,14 +37129,6 @@
       "onboard_time": 1776052881,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 76824,
-      "num": 161610,
-      "word": "2026机器人半马",
-      "onboard_time": 1776556098,
-      "rank": 18,
-      "category": "互联网,体育"
     },
     {
       "raw_hot": 76777,
@@ -41947,6 +42187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62495,
+      "num": 135518,
+      "word": "北半马机器人不语一味闷头跑",
+      "onboard_time": 1776565759,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62438,
       "num": 74921,
       "word": "四川相当于又多了一座金山",
@@ -43425,6 +43673,14 @@
       "onboard_time": 1775377520,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55998,
+      "num": 803429,
+      "word": "五一列车增开",
+      "onboard_time": 1776567320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55977,
@@ -45131,6 +45387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45561,
+      "num": 135385,
+      "word": "国产光纤爆单原因",
+      "onboard_time": 1776557420,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45522,
       "num": 80227,
       "word": "王毅同朝鲜外相崔善姬举行会谈",
@@ -46185,6 +46449,14 @@
       "onboard_time": 1775627122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36930,
+      "num": 135333,
+      "word": "雷军直播测续航变山东文旅安利",
+      "onboard_time": 1776560841,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 36910,
@@ -48617,6 +48889,14 @@
       "onboard_time": 1775935216,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19988,
+      "num": 135248,
+      "word": "荣耀闪电2026机器人半马夺冠",
+      "onboard_time": 1776567020,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 19964,
