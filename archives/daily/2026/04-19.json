@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776596882561,
+  "endTime": 1776598976967,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1124373,
-      "num": 381059,
+      "num": 397648,
       "word": "稚楚回应",
       "onboard_time": 1776582561,
       "rank": 11,
@@ -139,7 +139,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1027825,
+      "raw_hot": 1030975,
       "num": 2014047,
       "word": "铁路12306已拒绝出票105.6万张",
       "onboard_time": 1776592584,
@@ -161,6 +161,14 @@
       "onboard_time": 1776590424,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964021,
+      "num": 964021,
+      "word": "宗师 露脸",
+      "onboard_time": 1776597202,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 933509,
@@ -219,8 +227,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809709,
+      "num": 602777,
+      "word": "出门和不出门过的是两种人生",
+      "onboard_time": 1776593304,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 797565,
-      "num": 376245,
+      "num": 385844,
       "word": "薛之谦方公开李雨桐行政处罚决定书",
       "onboard_time": 1776591683,
       "rank": 28,
@@ -257,14 +273,6 @@
       "onboard_time": 1776576560,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 740594,
-      "num": 602777,
-      "word": "出门和不出门过的是两种人生",
-      "onboard_time": 1776593304,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 738137,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 456969,
-      "num": 456969,
+      "num": 1019566,
       "word": "张雪机车热身赛再获第一",
       "onboard_time": 1776587660,
       "rank": 5,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 442099,
-      "num": 253438,
+      "num": 377198,
       "word": "杜华王一博赛后合照",
       "onboard_time": 1776594921,
       "rank": 26,
@@ -611,6 +619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 435012,
+      "num": 435012,
+      "word": "仙逆",
+      "onboard_time": 1776593781,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 429849,
       "num": 429849,
       "word": "火箭vs湖人",
@@ -627,20 +643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408676,
+      "num": 408676,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 408326,
+      "num": 371333,
+      "word": "鹿晗黑色果然显瘦",
+      "onboard_time": 1776596422,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405901,
       "num": 327620,
       "word": "AI让人越来越累",
       "onboard_time": 1776571340,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 404457,
-      "num": 404457,
-      "word": "仙逆",
-      "onboard_time": 1776593781,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 403377,
@@ -723,12 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357871,
-      "num": 357871,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 365420,
+      "num": 345354,
+      "word": "青岛橘子海",
+      "onboard_time": 1776595641,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349275,
+      "num": 349275,
+      "word": "14天骨盆回正",
+      "onboard_time": 1776597622,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 339585,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 320818,
-      "num": 241203,
+      "num": 267151,
       "word": "虞丕杰律师回应索赔17万败诉",
       "onboard_time": 1776592763,
       "rank": 33,
@@ -884,7 +916,7 @@
     },
     {
       "raw_hot": 286149,
-      "num": 248333,
+      "num": 279798,
       "word": "现在都开始有人直播西天取经了",
       "onboard_time": 1776588681,
       "rank": 49,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 266048,
-      "num": 266048,
+      "num": 275534,
       "word": "上海地铁回应一拉杆箱有血渍渗出",
       "onboard_time": 1776585320,
       "rank": 35,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 224070,
-      "num": 377041,
+      "num": 393421,
       "word": "男子在电诈园区开超市被判刑",
       "onboard_time": 1776592883,
       "rank": 19,
@@ -1112,14 +1144,6 @@
       "word": "孟美岐解约乐华的第一个活动",
       "onboard_time": 1776507201,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222431,
-      "num": 179467,
-      "word": "青岛橘子海",
-      "onboard_time": 1776595641,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1161,6 +1185,14 @@
       "onboard_time": 1776584420,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208363,
+      "num": 208363,
+      "word": "梁晶晶称流产5次失去7个孩子",
+      "onboard_time": 1776598822,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 207617,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1776569781,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201613,
-      "num": 163136,
-      "word": "鹿晗黑色果然显瘦",
-      "onboard_time": 1776596422,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 200288,
@@ -1571,6 +1595,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 125480,
+      "num": 125480,
+      "word": "原来学习真的能长脑子",
+      "onboard_time": 1776598582,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 124424,
+      "num": 124424,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123928,
       "num": 156621,
       "word": "孙颖莎登德塔文商业榜第三",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1776528979,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120383,
-      "num": 120383,
-      "word": "突然明白了什么叫课题分离",
-      "onboard_time": 1776590543,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 117686,
@@ -1795,6 +1827,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84063,
+      "num": 189012,
+      "word": "张雪说现在不能骑摩托车上下班了",
+      "onboard_time": 1776598822,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81835,
+      "num": 120806,
+      "word": "宜昌一车辆爆燃现场多次爆炸",
+      "onboard_time": 1776598941,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80805,
+      "num": 264215,
+      "word": "乳山银滩195平复式房1万起拍",
+      "onboard_time": 1776596481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79213,
       "num": 123024,
       "word": "五一航班为啥出现取消潮",
@@ -1907,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43466,
+      "num": 269063,
+      "word": "直播间28年老酒6瓶才268全靠添加剂",
+      "onboard_time": 1776597682,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 41852,
       "num": 108481,
       "word": "解放军跟监警戒日驱逐舰画面",
@@ -1931,12 +1995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38852,
-      "num": 264215,
-      "word": "乳山银滩195平复式房1万起拍",
-      "onboard_time": 1776596481,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 39249,
+      "num": 402676,
+      "word": "伊斯兰堡两大酒店通知住客离店",
+      "onboard_time": 1776598162,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33091,

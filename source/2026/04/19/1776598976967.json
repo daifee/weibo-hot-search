@@ -1,0 +1,410 @@
+{
+  "runTime": 1776598976967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030975,
+        "num": 1164956,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383955,
+        "num": 1019566,
+        "word": "张雪机车热身赛再获第一",
+        "onboard_time": 1776587660,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23883,
+        "num": 980005,
+        "word": "消博会上的硬核科技展现未来趋势",
+        "onboard_time": 1776582801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964021,
+        "num": 964021,
+        "word": "宗师 露脸",
+        "onboard_time": 1776597202,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435012,
+        "num": 435012,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 809709,
+        "num": 430890,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408676,
+        "num": 408676,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405207,
+        "num": 405207,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204525,
+        "num": 405107,
+        "word": "韩警方称骚扰中国游客日本男子愿回韩",
+        "onboard_time": 1776584540,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39249,
+        "num": 402676,
+        "word": "伊斯兰堡两大酒店通知住客离店",
+        "onboard_time": 1776598162,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1323655,
+        "num": 401093,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868839,
+        "num": 400087,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291179,
+        "num": 397648,
+        "word": "稚楚回应",
+        "onboard_time": 1776582561,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 9307686,
+        "num": 9307686,
+        "word": "李雨桐被行拘",
+        "onboard_time": 1776589221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849106,
+        "num": 394966,
+        "word": "薛之谦方回应李雨桐被行拘",
+        "onboard_time": 1776592282,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189424,
+        "num": 393421,
+        "word": "男子在电诈园区开超市被判刑",
+        "onboard_time": 1776592883,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695058,
+        "num": 390961,
+        "word": "Jennie八年来都长一个样",
+        "onboard_time": 1776590424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568744,
+        "num": 390406,
+        "word": "孙丞潇 有没有不吵架的节目",
+        "onboard_time": 1776587541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462992,
+        "num": 389199,
+        "word": "专家称黄金完成了阶段性的历史使命",
+        "onboard_time": 1776589941,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 517900,
+        "num": 386118,
+        "word": "李小冉疑回应退出浪姐",
+        "onboard_time": 1776583160,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492941,
+        "num": 385844,
+        "word": "薛之谦方公开李雨桐行政处罚决定书",
+        "onboard_time": 1776591683,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384416,
+        "num": 384416,
+        "word": "夫妻骑车为躲狗摔倒致妻死亡",
+        "onboard_time": 1776582982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430501,
+        "num": 377198,
+        "word": "杜华王一博赛后合照",
+        "onboard_time": 1776594921,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 408326,
+        "num": 371333,
+        "word": "鹿晗黑色果然显瘦",
+        "onboard_time": 1776596422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349275,
+        "num": 349275,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 365420,
+        "num": 345354,
+        "word": "青岛橘子海",
+        "onboard_time": 1776595641,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279798,
+        "num": 279798,
+        "word": "现在都开始有人直播西天取经了",
+        "onboard_time": 1776588681,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386832,
+        "num": 279229,
+        "word": "王一博车轮 85105",
+        "onboard_time": 1776583581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178329,
+        "num": 275534,
+        "word": "上海地铁回应一拉杆箱有血渍渗出",
+        "onboard_time": 1776585320,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89198,
+        "num": 270579,
+        "word": "张雪机车四次第一被围剿",
+        "onboard_time": 1776581961,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43466,
+        "num": 269063,
+        "word": "直播间28年老酒6瓶才268全靠添加剂",
+        "onboard_time": 1776597682,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 267151,
+        "num": 267151,
+        "word": "虞丕杰律师回应索赔17万败诉",
+        "onboard_time": 1776592763,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265437,
+        "num": 265437,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200852,
+        "num": 236600,
+        "word": "28岁女子手汗严重恋爱2年没牵过手",
+        "onboard_time": 1776589041,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213741,
+        "num": 213741,
+        "word": "浪姐有属于自己的SHE",
+        "onboard_time": 1776588980,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212945,
+        "num": 212945,
+        "word": "丞磊你家枇杷熟了",
+        "onboard_time": 1776588322,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174492,
+        "num": 210581,
+        "word": "中东局势48小时极致反转",
+        "onboard_time": 1776584840,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208363,
+        "num": 208363,
+        "word": "梁晶晶称流产5次失去7个孩子",
+        "onboard_time": 1776598822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203080,
+        "num": 203080,
+        "word": "黄圣依小儿子颜值",
+        "onboard_time": 1776593243,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84063,
+        "num": 189012,
+        "word": "张雪说现在不能骑摩托车上下班了",
+        "onboard_time": 1776598822,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176032,
+        "num": 176032,
+        "word": "惠英红金像奖定制红裙",
+        "onboard_time": 1776592883,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 170546,
+        "word": "赵丽颖38岁状态",
+        "onboard_time": 1776578841,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 159274,
+        "word": "女子情不自禁到处表白确诊桃花癫",
+        "onboard_time": 1776580642,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147516,
+        "num": 147516,
+        "word": "张凌赫ins点赞两小时破五十万",
+        "onboard_time": 1776591262,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139472,
+        "num": 139472,
+        "word": "攻玉回应换男主",
+        "onboard_time": 1776577759,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125480,
+        "num": 125480,
+        "word": "原来学习真的能长脑子",
+        "onboard_time": 1776598582,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124424,
+        "num": 124424,
+        "word": "突然明白了什么叫课题分离",
+        "onboard_time": 1776590543,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121086,
+        "num": 121086,
+        "word": "25岁女子下楼玩手机摔成大小便失禁",
+        "onboard_time": 1776586160,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81835,
+        "num": 120806,
+        "word": "宜昌一车辆爆燃现场多次爆炸",
+        "onboard_time": 1776598941,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80805,
+        "num": 119726,
+        "word": "乳山银滩195平复式房1万起拍",
+        "onboard_time": 1776596481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福人民造福世界#"
+    }
+  }
+}
