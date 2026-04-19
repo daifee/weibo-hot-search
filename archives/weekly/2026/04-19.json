@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776617591373,
+  "endTime": 1776618380888,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 632900,
-      "num": 352594,
+      "num": 359827,
       "word": "梁家辉5封金像奖影帝爆哭",
       "onboard_time": 1776612922,
       "rank": 22,
@@ -1387,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233536,
+      "num": 407687,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1776612141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227883,
       "num": 227883,
       "word": "TF四代History舞台",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 224758,
-      "num": 407687,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1776612141,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 224006,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 189560,
-      "num": 189560,
+      "num": 193001,
       "word": "金像奖马丽长发港风造型",
       "onboard_time": 1776611962,
       "rank": 38,
@@ -1836,7 +1836,7 @@
     },
     {
       "raw_hot": 158835,
-      "num": 170317,
+      "num": 191914,
       "word": "胃癌晚期治疗有新突破",
       "onboard_time": 1776609563,
       "rank": 48,
@@ -1868,7 +1868,7 @@
     },
     {
       "raw_hot": 152520,
-      "num": 172067,
+      "num": 190518,
       "word": "突然明白了什么叫课题分离",
       "onboard_time": 1776590543,
       "rank": 47,
@@ -2140,7 +2140,7 @@
     },
     {
       "raw_hot": 112739,
-      "num": 140772,
+      "num": 193477,
       "word": "小米徐洁云喊话造谣者",
       "onboard_time": 1776613759,
       "rank": 38,
@@ -2364,11 +2364,19 @@
     },
     {
       "raw_hot": 65156,
-      "num": 119673,
+      "num": 191507,
       "word": "广州暹岗大山遭人私挖水晶破坏",
       "onboard_time": 1776616579,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62371,
+      "num": 191774,
+      "word": "周深靠用力地鞠躬把眼泪甩掉",
+      "onboard_time": 1776618018,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 58308,
@@ -2395,12 +2403,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57285,
+      "num": 191175,
+      "word": "陈法拉金像奖红毯状态",
+      "onboard_time": 1776618018,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56960,
       "num": 206282,
       "word": "校方通报家长与麻辣烫摊主纠纷",
       "onboard_time": 1776531619,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53233,
+      "num": 190848,
+      "word": "张杰鸟巢唱完大庆功",
+      "onboard_time": 1776603622,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 53140,
@@ -2419,12 +2443,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51906,
+      "num": 190770,
+      "word": "第五人格赛事",
+      "onboard_time": 1776611302,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51440,
       "num": 199348,
       "word": "热心肠女子扮笑熬3年重度抑郁发作",
       "onboard_time": 1776605302,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51029,
+      "num": 190630,
+      "word": "周深既然这宇宙让我单身",
+      "onboard_time": 1776618018,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 50859,
@@ -2617,6 +2657,14 @@
       "onboard_time": 1776489141,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 7757,
+      "num": 387765,
+      "word": "我国每3度电就有1度是绿电",
+      "onboard_time": 1776602841,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4623,
