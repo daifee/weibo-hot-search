@@ -1,0 +1,410 @@
+{
+  "runTime": 1776585318942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 923965,
+        "num": 1147834,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549519,
+        "num": 844569,
+        "word": "12306拒绝抢票软件出票超百万张",
+        "onboard_time": 1776580579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21652,
+        "num": 652455,
+        "word": "消博会上的硬核科技展现未来趋势",
+        "onboard_time": 1776582801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2496844,
+        "num": 640348,
+        "word": "李小冉疑回应退出浪姐",
+        "onboard_time": 1776583160,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449908,
+        "num": 449908,
+        "word": "自家孩子趴桌睡为何给别人捐躺椅",
+        "onboard_time": 1776574880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397784,
+        "num": 397784,
+        "word": "开封万岁山一棵树断裂砸倒多名游客",
+        "onboard_time": 1776579322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1050610,
+        "num": 395033,
+        "word": "卸沙现场一具尸体随沙料倾泻而出",
+        "onboard_time": 1776579140,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370319,
+        "num": 370319,
+        "word": "机器人马拉松 豆包变豆脚了",
+        "onboard_time": 1776576081,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1662356,
+        "num": 365158,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241619,
+        "num": 361421,
+        "word": "网易云更新 动脉血变成静脉血了",
+        "onboard_time": 1776580939,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2456371,
+        "num": 356392,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1124373,
+        "num": 353733,
+        "word": "稚楚回应",
+        "onboard_time": 1776582561,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1030614,
+        "num": 344746,
+        "word": "王一博车轮 85105",
+        "onboard_time": 1776583581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000878,
+        "num": 341261,
+        "word": "攻玉回应换男主",
+        "onboard_time": 1776577759,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547668,
+        "num": 332270,
+        "word": "福原爱三胎生子",
+        "onboard_time": 1776576560,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556153,
+        "num": 327776,
+        "word": "花少8 南美",
+        "onboard_time": 1776566900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151467,
+        "num": 323886,
+        "word": "日本与澳大利亚签订合同",
+        "onboard_time": 1776573919,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115003,
+        "num": 318021,
+        "word": "荣耀机器人打破人类半马纪录",
+        "onboard_time": 1776582319,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 510845,
+        "num": 310640,
+        "word": "赵丽颖38岁状态",
+        "onboard_time": 1776578841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309893,
+        "num": 309893,
+        "word": "张雪机车四次第一被围剿",
+        "onboard_time": 1776581961,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510487,
+        "num": 309452,
+        "word": "谁家猫怀孕都怀到脖子上了",
+        "onboard_time": 1776571220,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208845,
+        "num": 308660,
+        "word": "宇树机器人打破人类1500米世界纪录",
+        "onboard_time": 1776562341,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 448828,
+        "num": 308527,
+        "word": "何润东狂接商务",
+        "onboard_time": 1776562160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368981,
+        "num": 307361,
+        "word": "女子情不自禁到处表白确诊桃花癫",
+        "onboard_time": 1776580642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307341,
+        "num": 307341,
+        "word": "穿普拉达的女王2亚裔争议",
+        "onboard_time": 1776584420,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296017,
+        "num": 296017,
+        "word": "黄圣依晒瑞士游学照",
+        "onboard_time": 1776584241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249476,
+        "num": 295019,
+        "word": "王者荣耀 哪吒2",
+        "onboard_time": 1776573319,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223890,
+        "num": 294625,
+        "word": "夫妻骑车为躲狗摔倒致妻死亡",
+        "onboard_time": 1776582982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165534,
+        "num": 293388,
+        "word": "官方通报卸沙现场出现一具男尸",
+        "onboard_time": 1776570140,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93578,
+        "num": 292489,
+        "word": "美国1年投1300万美元在中国搞渗透",
+        "onboard_time": 1776577823,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291927,
+        "num": 291927,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269120,
+        "num": 269120,
+        "word": "郑恺这期收视率高吧我拿命换的",
+        "onboard_time": 1776578120,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213642,
+        "num": 251664,
+        "word": "AI让人越来越累",
+        "onboard_time": 1776571340,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250687,
+        "num": 250687,
+        "word": "邓超现在洗澡离不开黑泥",
+        "onboard_time": 1776574161,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236930,
+        "num": 236930,
+        "word": "王一博跑步穿成修女的原因",
+        "onboard_time": 1776584721,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190581,
+        "num": 234256,
+        "word": "爸妈 你才是活爹",
+        "onboard_time": 1776580459,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233333,
+        "num": 233333,
+        "word": "逐玉播出后最爆的是何润东",
+        "onboard_time": 1776571580,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228896,
+        "num": 228896,
+        "word": "虞书欣好辣",
+        "onboard_time": 1776558200,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177655,
+        "num": 206430,
+        "word": "Gr对战成都GG",
+        "onboard_time": 1776584420,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137688,
+        "num": 201200,
+        "word": "现大量猫被剥皮厂房被查",
+        "onboard_time": 1776584540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200939,
+        "num": 200939,
+        "word": "方媛给郭富城抬头纹磨皮",
+        "onboard_time": 1776578720,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194868,
+        "num": 194868,
+        "word": "疑似业内内涵攻玉换男主",
+        "onboard_time": 1776582680,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170561,
+        "num": 194808,
+        "word": "湘西赶尸舞",
+        "onboard_time": 1776579021,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194803,
+        "num": 194803,
+        "word": "马頔为了通告费亲嘴李纯知道吗",
+        "onboard_time": 1776577823,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183512,
+        "num": 183512,
+        "word": "我家那小子",
+        "onboard_time": 1776580579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 179138,
+        "word": "可爱型人格做的好事也可爱",
+        "onboard_time": 1776583641,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178975,
+        "num": 178975,
+        "word": "孟子义只是缺一个曾沛慈",
+        "onboard_time": 1776584420,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176391,
+        "num": 176391,
+        "word": "白鹿跑男宣传莫离",
+        "onboard_time": 1776583280,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134628,
+        "num": 160929,
+        "word": "韩警方称骚扰中国游客日本男子愿回韩",
+        "onboard_time": 1776584540,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123928,
+        "num": 156621,
+        "word": "孙颖莎登德塔文商业榜第三",
+        "onboard_time": 1776580939,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福人民造福世界#"
+    }
+  }
+}

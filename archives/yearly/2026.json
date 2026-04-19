@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776579328282,
+  "endTime": 1776585318942,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1643,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2496844,
+      "num": 640348,
+      "word": "李小冉疑回应退出浪姐",
+      "onboard_time": 1776583160,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2495366,
       "num": 1570145,
       "word": "微博之夜出图",
@@ -1680,6 +1688,14 @@
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2456371,
+      "num": 356392,
+      "word": "虞书欣父亲索赔17w败诉",
+      "onboard_time": 1776579380,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771415300,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2007590,
-      "num": 508203,
-      "word": "李荣浩 爱你老己",
-      "onboard_time": 1774866743,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2006164,
-      "num": 2006164,
-      "word": "特朗普下令打击委内瑞拉境内目标",
-      "onboard_time": 1767426805,
-      "rank": 0,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
