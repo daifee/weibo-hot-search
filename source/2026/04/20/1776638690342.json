@@ -1,0 +1,410 @@
+{
+  "runTime": 1776638690342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 601472,
+        "num": 601472,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254786,
+        "num": 420738,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14075,
+        "num": 398359,
+        "word": "150秒透视中国消费市场澎湃活力",
+        "onboard_time": 1776603622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661906,
+        "num": 398216,
+        "word": "金莎晒结婚五金",
+        "onboard_time": 1776604102,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397203,
+        "num": 397203,
+        "word": "梁家辉5封金像奖影帝爆哭",
+        "onboard_time": 1776612922,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260940,
+        "num": 260940,
+        "word": "第44届金像奖获奖名单",
+        "onboard_time": 1776606502,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232215,
+        "num": 232215,
+        "word": "东部战区舰艇编队过航横当水道",
+        "onboard_time": 1776604522,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144995,
+        "num": 144995,
+        "word": "高中生因操行分不合格等被劝退",
+        "onboard_time": 1776606261,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107088,
+        "num": 107088,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1776612141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197978,
+        "num": 104751,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220283,
+        "num": 104126,
+        "word": "鹿晗好尊重本命年",
+        "onboard_time": 1776610882,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171171,
+        "num": 100283,
+        "word": "谢娜上张杰鸟巢演唱会小火车",
+        "onboard_time": 1776611182,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162289,
+        "num": 98391,
+        "word": "杨紫三部热播期后加广的剧集",
+        "onboard_time": 1776632416,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 95963,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138450,
+        "num": 93479,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10222,
+        "num": 89741,
+        "word": "程序员追不上机器人干脆开电瓶车跟",
+        "onboard_time": 1776638416,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89026,
+        "num": 89026,
+        "word": "张雪机车比赛因红旗中断",
+        "onboard_time": 1776610702,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88996,
+        "num": 88996,
+        "word": "zmjjkk长文回复粉丝",
+        "onboard_time": 1776609741,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81051,
+        "num": 81051,
+        "word": "男童被虐待致死凶手看到证据才承认",
+        "onboard_time": 1776618439,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69248,
+        "num": 81000,
+        "word": "张雪机车",
+        "onboard_time": 1776601642,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 80682,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 62721,
+        "num": 80420,
+        "word": "24岁女研究生赢发呆比赛冠军",
+        "onboard_time": 1776606863,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59792,
+        "num": 80382,
+        "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
+        "onboard_time": 1776599842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59702,
+        "num": 80000,
+        "word": "古天乐宣萱 一如既往的般配",
+        "onboard_time": 1776599661,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55890,
+        "num": 79808,
+        "word": "广州暹岗大山遭人私挖水晶破坏",
+        "onboard_time": 1776616579,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52710,
+        "num": 79525,
+        "word": "宗师 露脸",
+        "onboard_time": 1776597202,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52640,
+        "num": 79354,
+        "word": "东部战区舰艇编队赴西太海域开展演训",
+        "onboard_time": 1776624315,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 44889,
+        "num": 79273,
+        "word": "金像奖影帝梁家辉",
+        "onboard_time": 1776609442,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42049,
+        "num": 78959,
+        "word": "此沙亮相香港金像奖",
+        "onboard_time": 1776633914,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111297,
+        "num": 78832,
+        "word": "特朗普说若达成协议很可能去伊斯兰堡",
+        "onboard_time": 1776619997,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53384,
+        "num": 78463,
+        "word": "机器人届也有自己的显眼包",
+        "onboard_time": 1776618618,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53073,
+        "num": 78305,
+        "word": "巴基斯坦伊斯兰堡红区全面封控",
+        "onboard_time": 1776635774,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46065,
+        "num": 78017,
+        "word": "24岁女子坐6小时赢发呆比赛冠军",
+        "onboard_time": 1776624975,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41481,
+        "num": 77883,
+        "word": "以色列民众要求内塔尼亚胡政府下台",
+        "onboard_time": 1776608902,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21425,
+        "num": 77592,
+        "word": "雷军回应第一次挥方格旗",
+        "onboard_time": 1776637936,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39360,
+        "num": 77397,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 38682,
+        "num": 77204,
+        "word": "小米徐洁云喊话造谣者",
+        "onboard_time": 1776613759,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36054,
+        "num": 76947,
+        "word": "陈法拉金像奖红毯状态",
+        "onboard_time": 1776618018,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35935,
+        "num": 76719,
+        "word": "张雪机车第7",
+        "onboard_time": 1776603742,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33528,
+        "num": 76685,
+        "word": "孙颖莎萌萌奔向训练馆",
+        "onboard_time": 1776626415,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33187,
+        "num": 76285,
+        "word": "周深靠用力地鞠躬把眼泪甩掉",
+        "onboard_time": 1776618018,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32938,
+        "num": 76223,
+        "word": "张杰鸟巢唱完大庆功",
+        "onboard_time": 1776603622,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32924,
+        "num": 75869,
+        "word": "金像奖马丽长发港风造型",
+        "onboard_time": 1776611962,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31021,
+        "num": 75601,
+        "word": "金莎晒婚服",
+        "onboard_time": 1776606624,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31362,
+        "num": 75596,
+        "word": "姜涛瘦了很多",
+        "onboard_time": 1776610343,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30820,
+        "num": 75302,
+        "word": "当你有个很会拍的朋友",
+        "onboard_time": 1776624495,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 30277,
+        "num": 75044,
+        "word": "3000万粉主播称家中失窃300万",
+        "onboard_time": 1776624194,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28797,
+        "num": 74793,
+        "word": "河南三地巨额数据造假25人被问责",
+        "onboard_time": 1776608362,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29341,
+        "num": 74519,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74507,
+        "num": 74507,
+        "word": "肖战听到围观睡觉的反应",
+        "onboard_time": 1776625274,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福国家和人民#"
+    }
+  }
+}
