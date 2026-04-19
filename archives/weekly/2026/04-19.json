@@ -1,10 +1,10 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776590078263,
+  "endTime": 1776592545260,
   "band_list": [
     {
-      "raw_hot": 7211673,
-      "num": 7211673,
+      "raw_hot": 12919916,
+      "num": 12919916,
       "word": "李雨桐被行拘",
       "onboard_time": 1776589221,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2487846,
-      "num": 356392,
+      "num": 425769,
       "word": "虞书欣父亲索赔17w败诉",
       "onboard_time": 1776579380,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1179053,
-      "num": 345264,
+      "num": 402696,
       "word": "王一博车轮 85105",
       "onboard_time": 1776583581,
       "rank": 12,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1124373,
-      "num": 353733,
+      "num": 381059,
       "word": "稚楚回应",
       "onboard_time": 1776582561,
       "rank": 11,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 879294,
-      "num": 590438,
+      "num": 781168,
       "word": "穿普拉达的女王2亚裔争议",
       "onboard_time": 1776584420,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 864112,
+      "num": 415778,
+      "word": "Jennie八年来都长一个样",
+      "onboard_time": 1776590424,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 840253,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 750079,
-      "num": 350742,
+      "num": 369059,
       "word": "福原爱三胎生子",
       "onboard_time": 1776576560,
       "rank": 12,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 714401,
-      "num": 338855,
+      "num": 376494,
       "word": "沈梦辰连续4年做热玛吉脸越打越薄",
       "onboard_time": 1776580939,
       "rank": 30,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 602066,
-      "num": 311998,
+      "num": 386196,
       "word": "孙丞潇 有没有不吵架的节目",
       "onboard_time": 1776587541,
       "rank": 14,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 600508,
-      "num": 1543448,
+      "num": 2123111,
       "word": "韩警方称骚扰中国游客日本男子愿回韩",
       "onboard_time": 1776584540,
       "rank": 48,
@@ -337,6 +345,14 @@
       "onboard_time": 1776567858,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 591829,
+      "num": 386959,
+      "word": "李雨桐 薛之谦",
+      "onboard_time": 1776589883,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 569425,
@@ -393,6 +409,14 @@
       "onboard_time": 1776504201,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518032,
+      "num": 409900,
+      "word": "专家称黄金完成了阶段性的历史使命",
+      "onboard_time": 1776589941,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 515177,
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456969,
+      "num": 456969,
+      "word": "张雪机车热身赛再获第一",
+      "onboard_time": 1776587660,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447535,
       "num": 447535,
       "word": "泰国泼水节疑有人向人嘴里射毒水",
@@ -579,8 +611,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379553,
+      "num": 379553,
+      "word": "夫妻骑车为躲狗摔倒致妻死亡",
+      "onboard_time": 1776582982,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376714,
-      "num": 376714,
+      "num": 431063,
       "word": "网易云更新 动脉血变成静脉血了",
       "onboard_time": 1776580939,
       "rank": 9,
@@ -619,12 +659,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367203,
-      "num": 367203,
-      "word": "张雪机车热身赛再获第一",
-      "onboard_time": 1776587660,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 357223,
+      "num": 357223,
+      "word": "薛之谦方回应李雨桐被行拘",
+      "onboard_time": 1776592282,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348791,
+      "num": 300827,
+      "word": "薛之谦方公开李雨桐行政处罚决定书",
+      "onboard_time": 1776591683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347021,
+      "num": 347021,
+      "word": "丞磊你家枇杷熟了",
+      "onboard_time": 1776588322,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 339585,
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 317151,
-      "num": 317151,
+      "num": 397842,
       "word": "张雪机车四次第一被围剿",
       "onboard_time": 1776581961,
       "rank": 19,
@@ -707,12 +763,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 307024,
-      "num": 341920,
-      "word": "夫妻骑车为躲狗摔倒致妻死亡",
-      "onboard_time": 1776582982,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 308324,
+      "num": 308324,
+      "word": "张凌赫ins点赞两小时破五十万",
+      "onboard_time": 1776591262,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 297798,
@@ -771,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281606,
-      "num": 281606,
-      "word": "丞磊你家枇杷熟了",
-      "onboard_time": 1776588322,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279745,
       "num": 279745,
       "word": "解放军凌晨四点管控日舰过航台湾海峡",
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256969,
+      "num": 256969,
+      "word": "28岁女子手汗严重恋爱2年没牵过手",
+      "onboard_time": 1776589041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253385,
       "num": 253385,
       "word": "网传攻玉男主换曾舜晞",
@@ -843,12 +899,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 252028,
-      "num": 252028,
-      "word": "李雨桐 薛之谦",
-      "onboard_time": 1776589883,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 248669,
+      "num": 248669,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 246101,
@@ -857,6 +913,14 @@
       "onboard_time": 1776571519,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245595,
+      "num": 228721,
+      "word": "浪姐有属于自己的SHE",
+      "onboard_time": 1776588980,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 245480,
@@ -905,6 +969,22 @@
       "onboard_time": 1776563958,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229225,
+      "num": 229225,
+      "word": "现在都开始有人直播西天取经了",
+      "onboard_time": 1776588681,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 227883,
+      "num": 227883,
+      "word": "TF四代History舞台",
+      "onboard_time": 1776592282,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 225381,
@@ -971,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215234,
+      "num": 348777,
+      "word": "女子万达广场坠楼商户称人当场没了",
+      "onboard_time": 1776591262,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212852,
       "num": 243987,
       "word": "Gr对战成都GG",
@@ -992,14 +1080,6 @@
       "word": "孟子义只是缺一个曾沛慈",
       "onboard_time": 1776584420,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208978,
-      "num": 208978,
-      "word": "浪姐有属于自己的SHE",
-      "onboard_time": 1776588980,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1211,8 +1291,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167760,
+      "num": 167760,
+      "word": "患有ADHD的人常会做出这种事",
+      "onboard_time": 1776586940,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166596,
-      "num": 163049,
+      "num": 164780,
       "word": "马嘉祺私下说话这么可爱吗",
       "onboard_time": 1776588921,
       "rank": 43,
@@ -1243,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161321,
-      "num": 161321,
-      "word": "专家称黄金完成了阶段性的历史使命",
-      "onboard_time": 1776589941,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 160139,
       "num": 177945,
       "word": "刘德华年前已得知潘宏彬死讯",
@@ -1265,14 +1345,6 @@
       "onboard_time": 1776516920,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158887,
-      "num": 158887,
-      "word": "28岁女子手汗严重恋爱2年没牵过手",
-      "onboard_time": 1776589041,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158311,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1776565821,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146491,
-      "num": 146491,
-      "word": "现在都开始有人直播西天取经了",
-      "onboard_time": 1776588681,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 145184,
@@ -1771,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30674,
+      "num": 1775413,
+      "word": "消博会上的硬核科技展现未来趋势",
+      "onboard_time": 1776582801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26666,
       "num": 43736,
       "word": "龚俊看刘宇宁演唱会",
@@ -1785,14 +1857,6 @@
       "onboard_time": 1776575180,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25308,
-      "num": 1482282,
-      "word": "消博会上的硬核科技展现未来趋势",
-      "onboard_time": 1776582801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25264,

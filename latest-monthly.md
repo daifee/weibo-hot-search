@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 17:14:38
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 17:55:45
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+李雨桐被行拘（热度：12919916）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%90%A6%E8%AE%A4%E6%8A%84%E8%A2%AD%23" target="weibo">
@@ -29,12 +35,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 丝芭总裁王子杰去世（热度：9017754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
-李雨桐被行拘（热度：7211673）
 </a>
 </li>
 
@@ -1653,6 +1653,12 @@ TEN李永钦不续约（热度：868167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%85%AB%E5%B9%B4%E6%9D%A5%E9%83%BD%E9%95%BF%E4%B8%80%E4%B8%AA%E6%A0%B7%23" target="weibo">
+Jennie八年来都长一个样（热度：864112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%20%E9%BB%91%E9%A9%AC%23" target="weibo">
 何宣林 黑马（热度：864034）
 </a>
@@ -3105,6 +3111,12 @@ CT的辐射每一次都是带来隐患（热度：687071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%20%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
+李雨桐 薛之谦（热度：591829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E7%A6%81%E7%83%9F%E4%BB%851%E5%A4%A9%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%90%B8%E7%83%9F%E8%A2%AB%E6%8B%8D%23" target="weibo">
 高铁站禁烟仅1天男子当众吸烟被拍（热度：591032）
 </a>
@@ -3857,6 +3869,12 @@ txt（热度：556202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%95%E8%B5%847%E4%BA%BF%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A%23" target="weibo">
 央视曝光投资7亿农业基地不干农业（热度：519988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23" target="weibo">
+专家称黄金完成了阶段性的历史使命（热度：518032）
 </a>
 </li>
 
@@ -4667,6 +4685,12 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%A5%B3%E5%AD%90%E9%97%AA%E5%A9%9A%E7%94%9F%E6%B4%BB7%E5%A4%A9%E5%90%8E%E6%83%B3%E7%A6%BB%E5%A9%9A%23" target="weibo">
 21岁女子闪婚生活7天后想离婚（热度：457059）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%86%8D%E8%8E%B7%E7%AC%AC%E4%B8%80%23" target="weibo">
+张雪机车热身赛再获第一（热度：456969）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ TTG对战KSG（热度：392792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
 张雪身价上亿还在用两千多块钱坏手机（热度：382446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%98%AF%E6%89%81%E5%A4%B4%23" target="weibo">
-鹿晗是扁头（热度：382330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E7%9D%A1%E8%BF%87%E5%A4%B4%E8%A2%AB%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%8F%AB%E9%86%92%23" target="weibo">
-幼儿园老师回应睡过头被孩子们叫醒（热度：382192）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NCT%E6%88%90%E5%91%98%E5%9B%9E%E5%A4%8D%E6%9D%8E%E9%A9%AC%E5%85%8B%23" target="weibo">
-NCT成员回复李马克（热度：381475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
-淘宝闪购回应被处罚（热度：381202）
 </a>
 </li>
 
