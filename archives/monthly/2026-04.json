@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776611201055,
+  "endTime": 1776613520395,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -475,6 +475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1942183,
+      "num": 1942183,
+      "word": "金像奖影后廖子妤",
+      "onboard_time": 1776609504,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1939640,
       "num": 212588,
       "word": "丝芭起诉月鳞绮纪承制方",
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1818581,
+      "num": 466745,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1809617,
       "num": 192315,
       "word": "赵子琪硬刚浪姐",
@@ -529,14 +545,6 @@
       "onboard_time": 1776431900,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1787230,
-      "num": 1787230,
-      "word": "金像奖影后廖子妤",
-      "onboard_time": 1776609504,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1767766,
@@ -697,14 +705,6 @@
       "onboard_time": 1775910564,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1542788,
-      "num": 466745,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1493102,
@@ -2667,6 +2667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 793146,
+      "num": 793146,
+      "word": "谢娜上张杰鸟巢演唱会小火车",
+      "onboard_time": 1776611182,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 791194,
       "num": 1126591,
       "word": "宇文玥捞上来了",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1776421460,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 698341,
+      "num": 698341,
+      "word": "zmjjkk长文回复粉丝",
+      "onboard_time": 1776609741,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 698152,
@@ -4387,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586797,
+      "num": 586797,
+      "word": "张雪机车比赛因红旗中断",
+      "onboard_time": 1776610702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586300,
       "num": 586300,
       "word": "美将封锁霍尔木兹海峡",
@@ -4417,14 +4441,6 @@
       "onboard_time": 1774963464,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 581927,
-      "num": 581927,
-      "word": "zmjjkk长文回复粉丝",
-      "onboard_time": 1776609741,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 581646,
@@ -6252,7 +6268,7 @@
     },
     {
       "raw_hot": 467741,
-      "num": 467741,
+      "num": 927412,
       "word": "张雪机车第7",
       "onboard_time": 1776603742,
       "rank": 18,
@@ -10283,6 +10299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323365,
+      "num": 323365,
+      "word": "梁家辉5封金像奖影帝爆哭",
+      "onboard_time": 1776612922,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323338,
       "num": 289654,
       "word": "61岁男子手术后在飞机上身亡",
@@ -11659,6 +11683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291937,
+      "num": 282679,
+      "word": "鹿晗好尊重本命年",
+      "onboard_time": 1776610882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291913,
       "num": 304203,
       "word": "咪豆音乐节",
@@ -11857,14 +11889,6 @@
       "onboard_time": 1775313864,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287871,
-      "num": 287871,
-      "word": "谢娜上张杰鸟巢演唱会小火车",
-      "onboard_time": 1776611182,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 287815,
@@ -13163,14 +13187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262379,
-      "num": 262379,
-      "word": "鹿晗好尊重本命年",
-      "onboard_time": 1776610882,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262329,
       "num": 199655,
       "word": "霍思燕回应爱犬在泰国夺冠",
@@ -13593,6 +13609,14 @@
       "onboard_time": 1775823683,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254921,
+      "num": 254921,
+      "word": "母亲看儿子遭群殴视频吃速效救心丸",
+      "onboard_time": 1776612501,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254765,
@@ -14827,6 +14851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233954,
+      "num": 233954,
+      "word": "李雨桐索要财物未果后恶性造谣诽谤",
+      "onboard_time": 1776611901,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233731,
       "num": 319223,
       "word": "张凌赫穿赛车鞋帅到犯规",
@@ -15305,6 +15337,14 @@
       "onboard_time": 1775616320,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 226143,
+      "num": 244236,
+      "word": "银川一小学生拒借车遭9人群殴搜家",
+      "onboard_time": 1776612082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226130,
@@ -18091,6 +18131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189560,
+      "num": 189560,
+      "word": "金像奖马丽长发港风造型",
+      "onboard_time": 1776611962,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189533,
       "num": 189533,
       "word": "时代少年团广州演唱会座位图",
@@ -18256,14 +18304,6 @@
       "word": "皇马1比2拜仁",
       "onboard_time": 1775603600,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187495,
-      "num": 204238,
-      "word": "张雪机车比赛因红旗中断",
-      "onboard_time": 1776610702,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -18929,6 +18969,14 @@
       "onboard_time": 1776427762,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179315,
+      "num": 179315,
+      "word": "朴元彬回应身高争议",
+      "onboard_time": 1776609442,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 179027,
@@ -23243,6 +23291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138529,
+      "num": 170317,
+      "word": "胃癌晚期治疗有新突破",
+      "onboard_time": 1776609563,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138449,
       "num": 138449,
       "word": "Bin 小奶油",
@@ -23579,14 +23635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136170,
-      "num": 170317,
-      "word": "胃癌晚期治疗有新突破",
-      "onboard_time": 1776609563,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "杨幂冯湮儿路透",
@@ -23713,6 +23761,14 @@
       "onboard_time": 1775919084,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134920,
+      "num": 163811,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1776612141,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 134797,
