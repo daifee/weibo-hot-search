@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776604627468,
+  "endTime": 1776606026610,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1042760,
+      "num": 349905,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1039501,
       "num": 1166320,
       "word": "宿迁vs南京",
@@ -219,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 870022,
+      "num": 1139203,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 843694,
       "num": 407840,
       "word": "肖战直播",
@@ -251,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 802136,
+      "num": 802136,
+      "word": "豆包变豆脚了",
+      "onboard_time": 1776601703,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 797565,
       "num": 385844,
       "word": "薛之谦方公开李雨桐行政处罚决定书",
@@ -281,6 +305,14 @@
       "onboard_time": 1776537255,
       "rank": 22,
       "category": "军事"
+    },
+    {
+      "raw_hot": 751212,
+      "num": 321741,
+      "word": "肖战我压力真的没有那么大",
+      "onboard_time": 1776605482,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 750079,
@@ -337,22 +369,6 @@
       "onboard_time": 1776580939,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704662,
-      "num": 704662,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 693091,
-      "num": 693091,
-      "word": "豆包变豆脚了",
-      "onboard_time": 1776601703,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 687071,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578889,
+      "num": 312370,
+      "word": "梁晶晶称流产5次失去7个孩子",
+      "onboard_time": 1776598822,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569425,
       "num": 569425,
       "word": "王者荣耀 哪吒2",
@@ -475,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 542200,
-      "num": 302008,
-      "word": "梁晶晶称流产5次失去7个孩子",
-      "onboard_time": 1776598822,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 537837,
       "num": 369038,
       "word": "女子情不自禁到处表白确诊桃花癫",
@@ -505,14 +521,6 @@
       "onboard_time": 1776531619,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527134,
-      "num": 273641,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 518676,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 479517,
-      "num": 272665,
+      "num": 300803,
       "word": "古天乐宣萱 一如既往的般配",
       "onboard_time": 1776599661,
       "rank": 32,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330525,
+      "num": 330525,
+      "word": "张雪机车第7",
+      "onboard_time": 1776603742,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324852,
       "num": 324852,
       "word": "日本与澳大利亚签订合同",
@@ -1011,12 +1027,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 275728,
-      "num": 275728,
-      "word": "张雪机车第7",
-      "onboard_time": 1776603742,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 278861,
+      "num": 278861,
+      "word": "惠英红金像奖定制红裙",
+      "onboard_time": 1776592883,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 274361,
@@ -1051,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268136,
-      "num": 254077,
-      "word": "惠英红金像奖定制红裙",
-      "onboard_time": 1776592883,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 266048,
       "num": 303994,
       "word": "上海地铁回应一拉杆箱有血渍渗出",
@@ -1071,6 +1079,22 @@
       "num": 263945,
       "word": "方媛给郭富城抬头纹磨皮",
       "onboard_time": 1776578720,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263168,
+      "num": 263168,
+      "word": "BLG对战AL",
+      "onboard_time": 1776603982,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 258143,
+      "num": 258143,
+      "word": "侯明昊曾舜晞是一个组合出道的",
+      "onboard_time": 1776605122,
       "rank": 32,
       "category": "艺人"
     },
@@ -1137,14 +1161,6 @@
       "onboard_time": 1776584721,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245281,
-      "num": 245281,
-      "word": "BLG对战AL",
-      "onboard_time": 1776603982,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 244275,
@@ -1275,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212734,
+      "num": 212734,
+      "word": "舒淇金像奖新晋导演",
+      "onboard_time": 1776604882,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212310,
       "num": 212310,
       "word": "中东局势48小时极致反转",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1776601342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208325,
+      "num": 274598,
+      "word": "男子美国摆摊进货1元卖5美元",
+      "onboard_time": 1776603682,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207617,
@@ -1339,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204289,
+      "num": 204289,
+      "word": "河南三地数据造假后续来了",
+      "onboard_time": 1776600082,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203431,
       "num": 203431,
       "word": "苏超南京队赞助商ip连夜改名",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1776568100,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200050,
-      "num": 200050,
-      "word": "河南三地数据造假后续来了",
-      "onboard_time": 1776600082,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199962,
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152520,
+      "num": 152520,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150332,
       "num": 209013,
       "word": "六位数的狗坐在七位数的车里",
@@ -1643,6 +1683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146680,
+      "num": 146680,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 146372,
+      "num": 146372,
+      "word": "MRC对战ZETA",
+      "onboard_time": 1776599780,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145184,
       "num": 189479,
       "word": "禁止未成年机器人参赛",
@@ -1683,28 +1739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139905,
-      "num": 139905,
-      "word": "突然明白了什么叫课题分离",
-      "onboard_time": 1776590543,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
       "onboard_time": 1776554117,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132225,
-      "num": 138333,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 129745,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1776575299,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116732,
-      "num": 116732,
-      "word": "MRC对战ZETA",
-      "onboard_time": 1776599780,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 116642,
@@ -2027,14 +2059,6 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 76073,
-      "num": 274598,
-      "word": "男子美国摆摊进货1元卖5美元",
-      "onboard_time": 1776603682,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 72244,
       "num": 120566,
       "word": "范玮琪问江语晨是周先生的歌吗",
@@ -2072,6 +2096,14 @@
       "word": "五一列车增开",
       "onboard_time": 1776567320,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58308,
+      "num": 372034,
+      "word": "全球规模最大零食店将暂停销售3天",
+      "onboard_time": 1776605361,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2115,6 +2147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51440,
+      "num": 199348,
+      "word": "热心肠女子扮笑熬3年重度抑郁发作",
+      "onboard_time": 1776605302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46376,
       "num": 157648,
       "word": "国产光纤爆单原因",
@@ -2123,7 +2163,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 44896,
+      "raw_hot": 46280,
       "num": 892012,
       "word": "新农人玩转种菜黑科技",
       "onboard_time": 1776603803,
@@ -2233,6 +2273,14 @@
       "onboard_time": 1776541395,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24481,
+      "num": 319185,
+      "word": "伊将恢复马什哈德机场国际航班",
+      "onboard_time": 1776605062,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24364,

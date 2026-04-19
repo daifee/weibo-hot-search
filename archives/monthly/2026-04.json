@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776604627468,
+  "endTime": 1776606026610,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -1571,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1042760,
+      "num": 349905,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036983,
       "num": 367310,
       "word": "攻玉 辞演",
@@ -2195,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 870022,
+      "num": 1139203,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 868333,
       "num": 613182,
       "word": "李荣浩方否认恋人抄袭",
@@ -2499,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 802136,
+      "num": 802136,
+      "word": "豆包变豆脚了",
+      "onboard_time": 1776601703,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 799785,
       "num": 799785,
       "word": "谢娜爆料浪姐录制时厕所门是锁的",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1775462902,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 751212,
+      "num": 321741,
+      "word": "肖战我压力真的没有那么大",
+      "onboard_time": 1776605482,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 750285,
@@ -3147,14 +3179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 704662,
-      "num": 704662,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 704633,
       "num": 195140,
       "word": "桃黑黑道歉",
@@ -3241,14 +3265,6 @@
       "onboard_time": 1775022624,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693091,
-      "num": 693091,
-      "word": "豆包变豆脚了",
-      "onboard_time": 1776601703,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 692204,
@@ -4395,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578889,
+      "num": 312370,
+      "word": "梁晶晶称流产5次失去7个孩子",
+      "onboard_time": 1776598822,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578122,
       "num": 578122,
       "word": "冰湖重生豆瓣3.2",
@@ -4875,14 +4899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 542200,
-      "num": 302008,
-      "word": "梁晶晶称流产5次失去7个孩子",
-      "onboard_time": 1776598822,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541150,
       "num": 934518,
       "word": "意大利连续3届无缘世界杯",
@@ -5112,14 +5128,6 @@
       "word": "夫胜宽女装",
       "onboard_time": 1776429801,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 527134,
-      "num": 273641,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -5932,7 +5940,7 @@
     },
     {
       "raw_hot": 479517,
-      "num": 272665,
+      "num": 300803,
       "word": "古天乐宣萱 一如既往的般配",
       "onboard_time": 1776599661,
       "rank": 32,
@@ -9947,6 +9955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330525,
+      "num": 330525,
+      "word": "张雪机车第7",
+      "onboard_time": 1776603742,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330457,
       "num": 330457,
       "word": "张小斐被虫子吓得弹起来了",
@@ -12259,6 +12275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278861,
+      "num": 278861,
+      "word": "惠英红金像奖定制红裙",
+      "onboard_time": 1776592883,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278795,
       "num": 545652,
       "word": "DK暴打T1",
@@ -12417,14 +12441,6 @@
       "onboard_time": 1775042543,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 275728,
-      "num": 275728,
-      "word": "张雪机车第7",
-      "onboard_time": 1776603742,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 275552,
@@ -12755,14 +12771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 268136,
-      "num": 254077,
-      "word": "惠英红金像奖定制红裙",
-      "onboard_time": 1776592883,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 267959,
       "num": 267959,
       "word": "莫氏鸡煲要大变样了",
@@ -13017,6 +13025,14 @@
       "onboard_time": 1776578720,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263168,
+      "num": 263168,
+      "word": "BLG对战AL",
+      "onboard_time": 1776603982,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 262889,
@@ -13281,6 +13297,14 @@
       "onboard_time": 1775180541,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258143,
+      "num": 258143,
+      "word": "侯明昊曾舜晞是一个组合出道的",
+      "onboard_time": 1776605122,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 258130,
@@ -13993,14 +14017,6 @@
       "onboard_time": 1776584721,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245281,
-      "num": 245281,
-      "word": "BLG对战AL",
-      "onboard_time": 1776603982,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 245136,
@@ -16083,6 +16099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212734,
+      "num": 212734,
+      "word": "舒淇金像奖新晋导演",
+      "onboard_time": 1776604882,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212706,
       "num": 212706,
       "word": "96岁姐弟恋夫妻77年没吵过架",
@@ -16459,6 +16483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208325,
+      "num": 274598,
+      "word": "男子美国摆摊进货1元卖5美元",
+      "onboard_time": 1776603682,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208303,
       "num": 175651,
       "word": "祝绪丹一亲嘴家里盆都端冒烟了",
@@ -16673,6 +16705,14 @@
       "onboard_time": 1776561501,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204289,
+      "num": 204289,
+      "word": "河南三地数据造假后续来了",
+      "onboard_time": 1776600082,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204222,
@@ -17057,14 +17097,6 @@
       "onboard_time": 1776151700,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200050,
-      "num": 200050,
-      "word": "河南三地数据造假后续来了",
-      "onboard_time": 1776600082,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199932,
@@ -21323,6 +21355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152520,
+      "num": 152520,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152516,
       "num": 143222,
       "word": "迪丽热巴荷叶边白裙",
@@ -21939,6 +21979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146680,
+      "num": 146680,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 146675,
       "num": 146675,
       "word": "雷军将全程直播15小时",
@@ -21953,6 +22001,14 @@
       "onboard_time": 1776054262,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146372,
+      "num": 146372,
+      "word": "MRC对战ZETA",
+      "onboard_time": 1776599780,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 146223,
@@ -22865,14 +22921,6 @@
       "onboard_time": 1775471362,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139905,
-      "num": 139905,
-      "word": "突然明白了什么叫课题分离",
-      "onboard_time": 1776590543,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 139863,
@@ -23873,14 +23921,6 @@
       "onboard_time": 1775475741,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132225,
-      "num": 138333,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 132194,
@@ -26593,14 +26633,6 @@
       "onboard_time": 1775292079,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116732,
-      "num": 116732,
-      "word": "MRC对战ZETA",
-      "onboard_time": 1776599780,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 116642,
@@ -38427,14 +38459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 76073,
-      "num": 274598,
-      "word": "男子美国摆摊进货1元卖5美元",
-      "onboard_time": 1776603682,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 76064,
       "num": 83480,
       "word": "512存储飙涨4倍涨幅约1500元",
@@ -44275,6 +44299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58308,
+      "num": 372034,
+      "word": "全球规模最大零食店将暂停销售3天",
+      "onboard_time": 1776605361,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58304,
       "num": 91739,
       "word": "王橹杰小咴故事原型",
@@ -45587,6 +45619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51440,
+      "num": 199348,
+      "word": "热心肠女子扮笑熬3年重度抑郁发作",
+      "onboard_time": 1776605302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51169,
       "num": 94354,
       "word": "苹果AI眼镜细节曝光",
@@ -46371,6 +46411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 46280,
+      "num": 892012,
+      "word": "新农人玩转种菜黑科技",
+      "onboard_time": 1776603803,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46003,
       "num": 201347,
       "word": "新阿维塔12重新定义时代好车",
@@ -46521,14 +46569,6 @@
       "onboard_time": 1775344757,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44896,
-      "num": 892012,
-      "word": "新农人玩转种菜黑科技",
-      "onboard_time": 1776603803,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44881,
@@ -49313,6 +49353,14 @@
       "onboard_time": 1775755936,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24481,
+      "num": 319185,
+      "word": "伊将恢复马什哈德机场国际航班",
+      "onboard_time": 1776605062,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24446,
