@@ -1,0 +1,410 @@
+{
+  "runTime": 1776626119745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241299,
+        "num": 241299,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89837,
+        "num": 125540,
+        "word": "宗师 露脸",
+        "onboard_time": 1776597202,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12252,
+        "num": 101112,
+        "word": "我国每3度电就有1度是绿电",
+        "onboard_time": 1776602841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349429,
+        "num": 98291,
+        "word": "金莎晒结婚五金",
+        "onboard_time": 1776604102,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174325,
+        "num": 97922,
+        "word": "鹿晗好尊重本命年",
+        "onboard_time": 1776610882,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110448,
+        "num": 96813,
+        "word": "第44届金像奖获奖名单",
+        "onboard_time": 1776606502,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95288,
+        "num": 95288,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71283,
+        "num": 71283,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64627,
+        "num": 71245,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1776612141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45533,
+        "num": 71212,
+        "word": "当你有个很会拍的朋友",
+        "onboard_time": 1776624495,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 126930,
+        "num": 71166,
+        "word": "梁家辉5封金像奖影帝爆哭",
+        "onboard_time": 1776612922,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117669,
+        "num": 71134,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107113,
+        "num": 71104,
+        "word": "张雪机车比赛因红旗中断",
+        "onboard_time": 1776610702,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84586,
+        "num": 71063,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76653,
+        "num": 70987,
+        "word": "zmjjkk长文回复粉丝",
+        "onboard_time": 1776609741,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70987,
+        "num": 70986,
+        "word": "谢娜上张杰鸟巢演唱会小火车",
+        "onboard_time": 1776611182,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69485,
+        "num": 69485,
+        "word": "东部战区舰艇编队过航横当水道",
+        "onboard_time": 1776604522,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66553,
+        "num": 66553,
+        "word": "24岁女研究生赢发呆比赛冠军",
+        "onboard_time": 1776606863,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51669,
+        "num": 51669,
+        "word": "男童被虐待致死凶手看到证据才承认",
+        "onboard_time": 1776618439,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44509,
+        "num": 51533,
+        "word": "张雪机车",
+        "onboard_time": 1776601642,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66234,
+        "num": 51530,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 51521,
+        "num": 51521,
+        "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
+        "onboard_time": 1776599842,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45996,
+        "num": 45996,
+        "word": "姜涛瘦了很多",
+        "onboard_time": 1776610343,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41830,
+        "num": 41830,
+        "word": "张雪机车第7",
+        "onboard_time": 1776603742,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40188,
+        "num": 40188,
+        "word": "泼水节蓝莓摊被洗劫一空进展",
+        "onboard_time": 1776614300,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39595,
+        "num": 39595,
+        "word": "金像奖影帝梁家辉",
+        "onboard_time": 1776609442,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38323,
+        "num": 38323,
+        "word": "小米徐洁云喊话造谣者",
+        "onboard_time": 1776613759,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38300,
+        "num": 38300,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 38046,
+        "num": 38046,
+        "word": "古天乐宣萱 一如既往的般配",
+        "onboard_time": 1776599661,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37509,
+        "num": 38025,
+        "word": "广州暹岗大山遭人私挖水晶破坏",
+        "onboard_time": 1776616579,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35112,
+        "num": 38004,
+        "word": "特朗普说若达成协议很可能去伊斯兰堡",
+        "onboard_time": 1776619997,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34228,
+        "num": 37991,
+        "word": "周深既然这宇宙让我单身",
+        "onboard_time": 1776618018,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34087,
+        "num": 37954,
+        "word": "李小冉唱了一下午",
+        "onboard_time": 1776607343,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33880,
+        "num": 37945,
+        "word": "金莎晒婚服",
+        "onboard_time": 1776606624,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33660,
+        "num": 37913,
+        "word": "金像奖马丽长发港风造型",
+        "onboard_time": 1776611962,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33031,
+        "num": 37883,
+        "word": "机器人届也有自己的显眼包",
+        "onboard_time": 1776618618,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32018,
+        "num": 37874,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31434,
+        "num": 37854,
+        "word": "周深靠用力地鞠躬把眼泪甩掉",
+        "onboard_time": 1776618018,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31404,
+        "num": 37828,
+        "word": "男子美国摆摊进货1元卖5美元",
+        "onboard_time": 1776603682,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29947,
+        "num": 37800,
+        "word": "陈法拉金像奖红毯状态",
+        "onboard_time": 1776618018,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29555,
+        "num": 37763,
+        "word": "张杰鸟巢唱完大庆功",
+        "onboard_time": 1776603622,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29243,
+        "num": 37756,
+        "word": "东部战区舰艇编队赴西太海域开展演训",
+        "onboard_time": 1776624315,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 29202,
+        "num": 37722,
+        "word": "时代少年团接驳车",
+        "onboard_time": 1776603923,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27897,
+        "num": 37703,
+        "word": "高中生因操行分不合格等被劝退",
+        "onboard_time": 1776606261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27708,
+        "num": 37680,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26728,
+        "num": 37655,
+        "word": "3000万粉主播称家中失窃300万",
+        "onboard_time": 1776624194,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26129,
+        "num": 37630,
+        "word": "以色列民众要求内塔尼亚胡政府下台",
+        "onboard_time": 1776608902,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24309,
+        "num": 37596,
+        "word": "俞灏明王铮亮陆虎看张杰演唱会",
+        "onboard_time": 1776608963,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23690,
+        "num": 37587,
+        "word": "胃癌晚期治疗有新突破",
+        "onboard_time": 1776609563,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37566,
+        "num": 37566,
+        "word": "肖战听到围观睡觉的反应",
+        "onboard_time": 1776625274,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福国家和人民#"
+    }
+  }
+}
