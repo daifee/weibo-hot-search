@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776638690342,
+  "endTime": 1776639887334,
   "band_list": [
     {
       "raw_hot": 1778691,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 632900,
-      "num": 397203,
+      "num": 427120,
       "word": "梁家辉5封金像奖影帝爆哭",
       "onboard_time": 1776612922,
       "rank": 17,
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306580,
+      "num": 502333,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 294807,
       "num": 308352,
       "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
@@ -235,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232215,
-      "num": 391920,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 231022,
       "num": 226899,
       "word": "薛之谦方回应李雨桐被行拘",
       "onboard_time": 1776592282,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226319,
+      "num": 226319,
+      "word": "高中生因操行分不合格等被劝退",
+      "onboard_time": 1776606261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202552,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 162289,
-      "num": 98391,
+      "num": 101845,
       "word": "杨紫三部热播期后加广的剧集",
       "onboard_time": 1776632416,
       "rank": 35,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144995,
-      "num": 192130,
-      "word": "高中生因操行分不合格等被劝退",
-      "onboard_time": 1776606261,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137818,
       "num": 191597,
       "word": "金莎晒婚服",
@@ -385,6 +385,14 @@
       "onboard_time": 1776600384,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131343,
+      "num": 79254,
+      "word": "特朗普说若达成协议很可能去伊斯兰堡",
+      "onboard_time": 1776619997,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131257,
@@ -427,14 +435,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 111297,
-      "num": 79254,
-      "word": "特朗普说若达成协议很可能去伊斯兰堡",
-      "onboard_time": 1776619997,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 99128,
       "num": 210832,
       "word": "以色列民众要求内塔尼亚胡政府下台",
@@ -443,11 +443,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92515,
+      "num": 92515,
+      "word": "肖战听到围观睡觉的反应",
+      "onboard_time": 1776625274,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90328,
       "num": 129108,
       "word": "贺娇龙接班人曝光",
       "onboard_time": 1776601342,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87916,
+      "num": 121035,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -459,20 +475,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 81051,
-      "num": 121035,
-      "word": "男童被虐待致死凶手看到证据才承认",
-      "onboard_time": 1776618439,
-      "rank": 37,
+      "raw_hot": 75053,
+      "num": 191507,
+      "word": "广州暹岗大山遭人私挖水晶破坏",
+      "onboard_time": 1776616579,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74507,
-      "num": 79158,
-      "word": "肖战听到围观睡觉的反应",
-      "onboard_time": 1776625274,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 72542,
+      "num": 89741,
+      "word": "程序员追不上机器人干脆开电瓶车跟",
+      "onboard_time": 1776638416,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 69753,
@@ -481,6 +497,14 @@
       "onboard_time": 1776624495,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 67460,
+      "num": 120719,
+      "word": "机器人届也有自己的显眼包",
+      "onboard_time": 1776618618,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 67258,
@@ -499,12 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65156,
-      "num": 191507,
-      "word": "广州暹岗大山遭人私挖水晶破坏",
-      "onboard_time": 1776616579,
-      "rank": 48,
+      "raw_hot": 65112,
+      "num": 78017,
+      "word": "24岁女子坐6小时赢发呆比赛冠军",
+      "onboard_time": 1776624975,
+      "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58930,
+      "num": 79354,
+      "word": "东部战区舰艇编队赴西太海域开展演训",
+      "onboard_time": 1776624315,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 56425,
@@ -515,12 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53384,
-      "num": 120719,
-      "word": "机器人届也有自己的显眼包",
-      "onboard_time": 1776618618,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 54867,
+      "num": 78959,
+      "word": "此沙亮相香港金像奖",
+      "onboard_time": 1776633914,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53354,
+      "num": 78305,
+      "word": "巴基斯坦伊斯兰堡红区全面封控",
+      "onboard_time": 1776635774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53233,
@@ -529,22 +569,6 @@
       "onboard_time": 1776603622,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53073,
-      "num": 78305,
-      "word": "巴基斯坦伊斯兰堡红区全面封控",
-      "onboard_time": 1776635774,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 52640,
-      "num": 79354,
-      "word": "东部战区舰艇编队赴西太海域开展演训",
-      "onboard_time": 1776624315,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 51906,
@@ -579,20 +603,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 46065,
-      "num": 78017,
-      "word": "24岁女子坐6小时赢发呆比赛冠军",
-      "onboard_time": 1776624975,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 47342,
+      "num": 77592,
+      "word": "雷军回应第一次挥方格旗",
+      "onboard_time": 1776637936,
+      "rank": 34,
+      "category": "汽车"
     },
     {
-      "raw_hot": 42049,
-      "num": 78959,
-      "word": "此沙亮相香港金像奖",
-      "onboard_time": 1776633914,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 43591,
+      "num": 72234,
+      "word": "王一博比赛日下次再赛",
+      "onboard_time": 1776639618,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 39261,
+      "num": 76685,
+      "word": "孙颖莎萌萌奔向训练馆",
+      "onboard_time": 1776626415,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 36836,
@@ -603,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33528,
-      "num": 76685,
-      "word": "孙颖莎萌萌奔向训练馆",
-      "onboard_time": 1776626415,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 36698,
+      "num": 79208,
+      "word": "3000万粉主播称家中失窃300万",
+      "onboard_time": 1776624194,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32094,
@@ -619,20 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30277,
-      "num": 79208,
-      "word": "3000万粉主播称家中失窃300万",
-      "onboard_time": 1776624194,
-      "rank": 44,
+      "raw_hot": 17991,
+      "num": 460936,
+      "word": "150秒透视中国消费市场澎湃活力",
+      "onboard_time": 1776603622,
+      "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21425,
-      "num": 77592,
-      "word": "雷军回应第一次挥方格旗",
-      "onboard_time": 1776637936,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 15469,
@@ -641,22 +665,6 @@
       "onboard_time": 1776602841,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14075,
-      "num": 398359,
-      "word": "150秒透视中国消费市场澎湃活力",
-      "onboard_time": 1776603622,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10222,
-      "num": 89741,
-      "word": "程序员追不上机器人干脆开电瓶车跟",
-      "onboard_time": 1776638416,
-      "rank": 15,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
