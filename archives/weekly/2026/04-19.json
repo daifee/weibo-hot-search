@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776606026610,
+  "endTime": 1776610238202,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2487846,
-      "num": 437427,
+      "num": 465314,
       "word": "虞书欣父亲索赔17w败诉",
       "onboard_time": 1776579380,
       "rank": 10,
@@ -43,12 +43,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2021015,
+      "num": 2021015,
+      "word": "第44届金像奖获奖名单",
+      "onboard_time": 1776606502,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1446791,
+      "num": 1446791,
+      "word": "脱口秀演员被高压水枪滋隐私部位",
+      "onboard_time": 1776607463,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1423652,
       "num": 379786,
       "word": "曝歌手2026阵容",
       "onboard_time": 1776557779,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1393082,
+      "num": 466745,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1388629,
@@ -127,14 +151,6 @@
       "num": 224290,
       "word": "金智秀哥哥的妻子发ins",
       "onboard_time": 1776521121,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1042760,
-      "num": 349905,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
       "rank": 20,
       "category": "艺人"
     },
@@ -307,12 +323,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 751212,
-      "num": 321741,
+      "raw_hot": 762918,
+      "num": 459270,
       "word": "肖战我压力真的没有那么大",
       "onboard_time": 1776605482,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 758593,
+      "num": 758593,
+      "word": "金像奖影帝梁家辉",
+      "onboard_time": 1776609442,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 750079,
@@ -459,6 +483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 597967,
+      "num": 406598,
+      "word": "彩礼10万被起诉后退一半及月嫂费",
+      "onboard_time": 1776606022,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591829,
       "num": 386959,
       "word": "李雨桐 薛之谦",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 578889,
-      "num": 312370,
+      "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
       "onboard_time": 1776598822,
       "rank": 37,
@@ -497,6 +529,14 @@
       "onboard_time": 1776580579,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547987,
+      "num": 547987,
+      "word": "金像奖影后廖子妤",
+      "onboard_time": 1776609504,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 537837,
@@ -563,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496389,
+      "num": 461660,
+      "word": "24岁女研究生赢发呆比赛冠军",
+      "onboard_time": 1776606863,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492559,
       "num": 437147,
       "word": "官方通报卸沙现场出现一具男尸",
@@ -588,7 +636,7 @@
     },
     {
       "raw_hot": 479517,
-      "num": 300803,
+      "num": 318041,
       "word": "古天乐宣萱 一如既往的般配",
       "onboard_time": 1776599661,
       "rank": 32,
@@ -625,6 +673,14 @@
       "onboard_time": 1776574880,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467741,
+      "num": 467741,
+      "word": "张雪机车第7",
+      "onboard_time": 1776603742,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 466867,
@@ -763,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398696,
+      "num": 398696,
+      "word": "李小冉唱了一下午",
+      "onboard_time": 1776607343,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397784,
       "num": 397784,
       "word": "开封万岁山一棵树断裂砸倒多名游客",
       "onboard_time": 1776579322,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388528,
+      "num": 388528,
+      "word": "14天骨盆回正",
+      "onboard_time": 1776597622,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 380426,
@@ -835,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365306,
-      "num": 349275,
-      "word": "14天骨盆回正",
-      "onboard_time": 1776597622,
-      "rank": 24,
-      "category": "运动健身"
+      "raw_hot": 356651,
+      "num": 356651,
+      "word": "杜华被雷军问还有哪些艺人的反应",
+      "onboard_time": 1776606502,
+      "rank": 23,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 339585,
@@ -881,14 +953,6 @@
       "onboard_time": 1776568880,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330525,
-      "num": 330525,
-      "word": "张雪机车第7",
-      "onboard_time": 1776603742,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 324852,
@@ -1003,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288926,
+      "num": 288926,
+      "word": "侯明昊曾舜晞是一个组合出道的",
+      "onboard_time": 1776605122,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288267,
       "num": 224800,
       "word": "谢娜录了时代少年团直拍",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1776592883,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278254,
+      "num": 318677,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 274361,
@@ -1091,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 258143,
-      "num": 258143,
-      "word": "侯明昊曾舜晞是一个组合出道的",
-      "onboard_time": 1776605122,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256969,
       "num": 256969,
       "word": "28岁女子手汗严重恋爱2年没牵过手",
@@ -1147,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247416,
+      "num": 247416,
+      "word": "河南三地巨额数据造假25人被问责",
+      "onboard_time": 1776608362,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246101,
       "num": 246101,
       "word": "梁朝伟迪丽热巴好像在拍电影",
@@ -1187,6 +1267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 237823,
+      "num": 237823,
+      "word": "张杰演唱会群像",
+      "onboard_time": 1776609922,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236850,
       "num": 236850,
       "word": "苏超",
@@ -1219,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226130,
+      "num": 226130,
+      "word": "高中生因操行分不合格等被劝退",
+      "onboard_time": 1776606261,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225381,
       "num": 225381,
       "word": "风扇乱流 灭蚊子",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224006,
+      "num": 224006,
+      "word": "金莎晒婚服",
+      "onboard_time": 1776606624,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 223594,
@@ -1324,7 +1428,7 @@
     },
     {
       "raw_hot": 208325,
-      "num": 274598,
+      "num": 426605,
       "word": "男子美国摆摊进货1元卖5美元",
       "onboard_time": 1776603682,
       "rank": 19,
@@ -1427,6 +1531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 199774,
+      "num": 199774,
+      "word": "俞灏明王铮亮陆虎看张杰演唱会",
+      "onboard_time": 1776608963,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194223,
       "num": 194223,
       "word": "林允儿棒球开球",
@@ -1457,6 +1569,14 @@
       "onboard_time": 1776587420,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188172,
+      "num": 188172,
+      "word": "zmjjkk长文回复粉丝",
+      "onboard_time": 1776609741,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 186228,
@@ -1628,7 +1748,7 @@
     },
     {
       "raw_hot": 152520,
-      "num": 152520,
+      "num": 172067,
       "word": "突然明白了什么叫课题分离",
       "onboard_time": 1776590543,
       "rank": 47,
@@ -1681,14 +1801,6 @@
       "onboard_time": 1776565821,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146680,
-      "num": 146680,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 146372,
@@ -1745,6 +1857,14 @@
       "onboard_time": 1776554117,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136170,
+      "num": 170317,
+      "word": "胃癌晚期治疗有新突破",
+      "onboard_time": 1776609563,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129745,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1776582319,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113588,
+      "num": 169890,
+      "word": "以色列民众要求内塔尼亚胡政府下台",
+      "onboard_time": 1776608902,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112865,
@@ -2155,20 +2283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50859,
+      "num": 892012,
+      "word": "新农人玩转种菜黑科技",
+      "onboard_time": 1776603803,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46376,
       "num": 157648,
       "word": "国产光纤爆单原因",
       "onboard_time": 1776557420,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 46280,
-      "num": 892012,
-      "word": "新农人玩转种菜黑科技",
-      "onboard_time": 1776603803,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43876,
@@ -2209,6 +2337,14 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36234,
+      "num": 237965,
+      "word": "王星越为了一口非遗酸汤有多拼",
+      "onboard_time": 1776609863,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 33091,
