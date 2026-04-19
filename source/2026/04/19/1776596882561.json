@@ -1,0 +1,410 @@
+{
+  "runTime": 1776596882561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10214008,
+        "num": 10214008,
+        "word": "李雨桐被行拘",
+        "onboard_time": 1776589221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884454,
+        "num": 1920862,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26007,
+        "num": 1515296,
+        "word": "消博会上的硬核科技展现未来趋势",
+        "onboard_time": 1776582801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406046,
+        "num": 406046,
+        "word": "专家称黄金完成了阶段性的历史使命",
+        "onboard_time": 1776589941,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 404457,
+        "num": 404457,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 740594,
+        "num": 403852,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417712,
+        "num": 403398,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402555,
+        "num": 402555,
+        "word": "夫妻骑车为躲狗摔倒致妻死亡",
+        "onboard_time": 1776582982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357871,
+        "num": 357871,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303130,
+        "num": 303130,
+        "word": "张雪机车热身赛再获第一",
+        "onboard_time": 1776587660,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1185365,
+        "num": 301234,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170552,
+        "num": 297422,
+        "word": "薛之谦方回应李雨桐被行拘",
+        "onboard_time": 1776592282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738137,
+        "num": 292537,
+        "word": "女子万达广场坠楼商户称人当场没了",
+        "onboard_time": 1776591262,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844175,
+        "num": 286476,
+        "word": "Jennie八年来都长一个样",
+        "onboard_time": 1776590424,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742371,
+        "num": 281312,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320269,
+        "num": 277168,
+        "word": "稚楚回应",
+        "onboard_time": 1776582561,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 797565,
+        "num": 272245,
+        "word": "薛之谦方公开李雨桐行政处罚决定书",
+        "onboard_time": 1776591683,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425193,
+        "num": 267769,
+        "word": "孙丞潇 有没有不吵架的节目",
+        "onboard_time": 1776587541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266048,
+        "num": 266048,
+        "word": "上海地铁回应一拉杆箱有血渍渗出",
+        "onboard_time": 1776585320,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38852,
+        "num": 264215,
+        "word": "乳山银滩195平复式房1万起拍",
+        "onboard_time": 1776596481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653347,
+        "num": 256404,
+        "word": "李小冉疑回应退出浪姐",
+        "onboard_time": 1776583160,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442099,
+        "num": 253438,
+        "word": "杜华王一博赛后合照",
+        "onboard_time": 1776594921,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 286149,
+        "num": 246620,
+        "word": "现在都开始有人直播西天取经了",
+        "onboard_time": 1776588681,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332035,
+        "num": 239926,
+        "word": "黄圣依小儿子颜值",
+        "onboard_time": 1776593243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432978,
+        "num": 236816,
+        "word": "王一博车轮 85105",
+        "onboard_time": 1776583581,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233066,
+        "num": 233066,
+        "word": "28岁女子手汗严重恋爱2年没牵过手",
+        "onboard_time": 1776589041,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320818,
+        "num": 231921,
+        "word": "虞丕杰律师回应索赔17万败诉",
+        "onboard_time": 1776592763,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278049,
+        "num": 231639,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229746,
+        "num": 229746,
+        "word": "韩警方称骚扰中国游客日本男子愿回韩",
+        "onboard_time": 1776584540,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205480,
+        "num": 205480,
+        "word": "男子在电诈园区开超市被判刑",
+        "onboard_time": 1776592883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254710,
+        "num": 200959,
+        "word": "丞磊你家枇杷熟了",
+        "onboard_time": 1776588322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246286,
+        "num": 197577,
+        "word": "浪姐有属于自己的SHE",
+        "onboard_time": 1776588980,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180096,
+        "num": 180096,
+        "word": "女子情不自禁到处表白确诊桃花癫",
+        "onboard_time": 1776580642,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222431,
+        "num": 179467,
+        "word": "青岛橘子海",
+        "onboard_time": 1776595641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206475,
+        "num": 175879,
+        "word": "攻玉回应换男主",
+        "onboard_time": 1776577759,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172047,
+        "num": 172047,
+        "word": "中东局势48小时极致反转",
+        "onboard_time": 1776584840,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201613,
+        "num": 163136,
+        "word": "鹿晗黑色果然显瘦",
+        "onboard_time": 1776596422,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198833,
+        "num": 160137,
+        "word": "惠英红金像奖定制红裙",
+        "onboard_time": 1776592883,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153789,
+        "num": 153789,
+        "word": "25岁女子下楼玩手机摔成大小便失禁",
+        "onboard_time": 1776586160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70687,
+        "num": 143283,
+        "word": "迪丽热巴白日提灯获年度原创文学ip奖",
+        "onboard_time": 1776593781,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197549,
+        "num": 142937,
+        "word": "赵丽颖38岁状态",
+        "onboard_time": 1776578841,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142125,
+        "num": 142125,
+        "word": "iG对战TES",
+        "onboard_time": 1776595941,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156337,
+        "num": 140899,
+        "word": "张凌赫ins点赞两小时破五十万",
+        "onboard_time": 1776591262,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138939,
+        "num": 138939,
+        "word": "魏大勋这辈子都不会忘记耻骨在哪",
+        "onboard_time": 1776588501,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133468,
+        "num": 133468,
+        "word": "网易云更新 动脉血变成静脉血了",
+        "onboard_time": 1776580939,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130438,
+        "num": 130438,
+        "word": "患有ADHD的人常会做出这种事",
+        "onboard_time": 1776586940,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124155,
+        "num": 124155,
+        "word": "张雪机车四次第一被围剿",
+        "onboard_time": 1776581961,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120383,
+        "num": 120383,
+        "word": "突然明白了什么叫课题分离",
+        "onboard_time": 1776590543,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119514,
+        "num": 119514,
+        "word": "福原爱三胎生子",
+        "onboard_time": 1776576560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111410,
+        "num": 111410,
+        "word": "自家孩子趴桌睡为何给别人捐躺椅",
+        "onboard_time": 1776574880,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福人民造福世界#"
+    }
+  }
+}

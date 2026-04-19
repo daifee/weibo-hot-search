@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776595832080,
+  "endTime": 1776596882561,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797565,
+      "num": 376245,
+      "word": "薛之谦方公开李雨桐行政处罚决定书",
+      "onboard_time": 1776591683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789883,
       "num": 789883,
       "word": "低精力 杏仁核长期应激",
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 765332,
-      "num": 376245,
-      "word": "薛之谦方公开李雨桐行政处罚决定书",
-      "onboard_time": 1776591683,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 765043,
       "num": 647897,
       "word": "日本驱逐舰过航台湾海峡取证画面",
@@ -257,6 +257,22 @@
       "onboard_time": 1776576560,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 740594,
+      "num": 602777,
+      "word": "出门和不出门过的是两种人生",
+      "onboard_time": 1776593304,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 738137,
+      "num": 2132052,
+      "word": "女子万达广场坠楼商户称人当场没了",
+      "onboard_time": 1776591262,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 734373,
@@ -289,14 +305,6 @@
       "onboard_time": 1776580939,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701820,
-      "num": 2132052,
-      "word": "女子万达广场坠楼商户称人当场没了",
-      "onboard_time": 1776591262,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 687071,
@@ -361,14 +369,6 @@
       "onboard_time": 1776516623,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602777,
-      "num": 602777,
-      "word": "出门和不出门过的是两种人生",
-      "onboard_time": 1776593304,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 602066,
@@ -587,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 442099,
+      "num": 253438,
+      "word": "杜华王一博赛后合照",
+      "onboard_time": 1776594921,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 441767,
       "num": 322266,
       "word": "网传花少8的阵容",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 421375,
-      "num": 387401,
+      "num": 402555,
       "word": "夫妻骑车为躲狗摔倒致妻死亡",
       "onboard_time": 1776582982,
       "rank": 27,
@@ -625,6 +633,14 @@
       "onboard_time": 1776571340,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 404457,
+      "num": 404457,
+      "word": "仙逆",
+      "onboard_time": 1776593781,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 403377,
@@ -707,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352978,
-      "num": 352978,
-      "word": "仙逆",
-      "onboard_time": 1776593781,
-      "rank": 9,
-      "category": "动漫"
+      "raw_hot": 357871,
+      "num": 357871,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 339585,
@@ -739,20 +755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332035,
+      "num": 239926,
+      "word": "黄圣依小儿子颜值",
+      "onboard_time": 1776593243,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331338,
       "num": 331338,
       "word": "刘浩存走完红毯拧裙子上的水",
       "onboard_time": 1776568880,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329164,
-      "num": 232402,
-      "word": "杜华王一博赛后合照",
-      "onboard_time": 1776594921,
-      "rank": 26,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 324852,
@@ -771,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320818,
+      "num": 241203,
+      "word": "虞丕杰律师回应索赔17万败诉",
+      "onboard_time": 1776592763,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318810,
       "num": 318810,
       "word": "爱奇艺世界大会阵容",
@@ -785,22 +809,6 @@
       "onboard_time": 1776581961,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314495,
-      "num": 241203,
-      "word": "虞丕杰律师回应索赔17万败诉",
-      "onboard_time": 1776592763,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311941,
-      "num": 304164,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 309619,
@@ -875,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286149,
+      "num": 248333,
+      "word": "现在都开始有人直播西天取经了",
+      "onboard_time": 1776588681,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283011,
       "num": 224638,
       "word": "48岁TVB视后田蕊妮再度患癌",
@@ -915,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271123,
-      "num": 170053,
-      "word": "黄圣依小儿子颜值",
-      "onboard_time": 1776593243,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269120,
       "num": 269120,
       "word": "郑恺这期收视率高吧我拿命换的",
@@ -939,20 +947,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266048,
+      "num": 266048,
+      "word": "上海地铁回应一拉杆箱有血渍渗出",
+      "onboard_time": 1776585320,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263945,
       "num": 263945,
       "word": "方媛给郭富城抬头纹磨皮",
       "onboard_time": 1776578720,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263774,
-      "num": 248333,
-      "word": "现在都开始有人直播西天取经了",
-      "onboard_time": 1776588681,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 256969,
@@ -1107,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222431,
+      "num": 179467,
+      "word": "青岛橘子海",
+      "onboard_time": 1776595641,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218437,
       "num": 218437,
       "word": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1776584420,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207928,
-      "num": 213414,
-      "word": "上海地铁回应一拉杆箱有血渍渗出",
-      "onboard_time": 1776585320,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207617,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1776569781,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201613,
+      "num": 163136,
+      "word": "鹿晗黑色果然显瘦",
+      "onboard_time": 1776596422,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200288,
@@ -1321,14 +1337,6 @@
       "onboard_time": 1776583280,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174711,
-      "num": 151677,
-      "word": "青岛橘子海",
-      "onboard_time": 1776595641,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 171936,
@@ -1523,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142125,
+      "num": 142125,
+      "word": "iG对战TES",
+      "onboard_time": 1776595941,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1776528979,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120383,
+      "num": 120383,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 117686,
@@ -1795,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70687,
+      "num": 143283,
+      "word": "迪丽热巴白日提灯获年度原创文学ip奖",
+      "onboard_time": 1776593781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70680,
       "num": 113026,
       "word": "京东让何润东项羽还原度封神",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38852,
+      "num": 264215,
+      "word": "乳山银滩195平复式房1万起拍",
+      "onboard_time": 1776596481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33091,

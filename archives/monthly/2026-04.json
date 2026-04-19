@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776595832080,
+  "endTime": 1776596882561,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -2491,6 +2491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 797565,
+      "num": 376245,
+      "word": "薛之谦方公开李雨桐行政处罚决定书",
+      "onboard_time": 1776591683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797426,
       "num": 797426,
       "word": "同事被炼化了",
@@ -2699,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 765332,
-      "num": 376245,
-      "word": "薛之谦方公开李雨桐行政处罚决定书",
-      "onboard_time": 1776591683,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 765043,
       "num": 647897,
       "word": "日本驱逐舰过航台湾海峡取证画面",
@@ -2819,12 +2819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740594,
+      "num": 602777,
+      "word": "出门和不出门过的是两种人生",
+      "onboard_time": 1776593304,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 738391,
       "num": 738391,
       "word": "陈紫函不上浪姐的原因",
       "onboard_time": 1776516623,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 738137,
+      "num": 2132052,
+      "word": "女子万达广场坠楼商户称人当场没了",
+      "onboard_time": 1776591262,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 736329,
@@ -3113,14 +3129,6 @@
       "onboard_time": 1775287280,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701820,
-      "num": 2132052,
-      "word": "女子万达广场坠楼商户称人当场没了",
-      "onboard_time": 1776591262,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 699599,
@@ -3993,14 +4001,6 @@
       "onboard_time": 1775031682,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 602777,
-      "num": 602777,
-      "word": "出门和不出门过的是两种人生",
-      "onboard_time": 1776593304,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 602425,
@@ -6579,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442099,
+      "num": 253438,
+      "word": "杜华王一博赛后合照",
+      "onboard_time": 1776594921,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 441767,
       "num": 322266,
       "word": "网传花少8的阵容",
@@ -7028,7 +7036,7 @@
     },
     {
       "raw_hot": 421375,
-      "num": 387401,
+      "num": 402555,
       "word": "夫妻骑车为躲狗摔倒致妻死亡",
       "onboard_time": 1776582982,
       "rank": 27,
@@ -7449,6 +7457,14 @@
       "onboard_time": 1775625683,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404457,
+      "num": 526693,
+      "word": "仙逆",
+      "onboard_time": 1775387123,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 404277,
@@ -8891,6 +8907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357871,
+      "num": 357871,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357840,
       "num": 668584,
       "word": "女高管自制Excel表及时发现乳腺癌",
@@ -9041,14 +9065,6 @@
       "onboard_time": 1775792306,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352978,
-      "num": 526693,
-      "word": "仙逆",
-      "onboard_time": 1775387123,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 352849,
@@ -9795,6 +9811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332035,
+      "num": 239926,
+      "word": "黄圣依小儿子颜值",
+      "onboard_time": 1776593243,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331940,
       "num": 331940,
       "word": "Faker回应马斯克",
@@ -9865,14 +9889,6 @@
       "onboard_time": 1775035944,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329164,
-      "num": 232402,
-      "word": "杜华王一博赛后合照",
-      "onboard_time": 1776594921,
-      "rank": 26,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 329098,
@@ -10201,6 +10217,14 @@
       "onboard_time": 1775310984,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320818,
+      "num": 241203,
+      "word": "虞丕杰律师回应索赔17万败诉",
+      "onboard_time": 1776592763,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 320668,
@@ -10555,14 +10579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314495,
-      "num": 241203,
-      "word": "虞丕杰律师回应索赔17万败诉",
-      "onboard_time": 1776592763,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314154,
       "num": 280930,
       "word": "你好1983结局",
@@ -10657,14 +10673,6 @@
       "onboard_time": 1776005124,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311941,
-      "num": 304164,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 311433,
@@ -11755,6 +11763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286149,
+      "num": 248333,
+      "word": "现在都开始有人直播西天取经了",
+      "onboard_time": 1776588681,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285928,
       "num": 285928,
       "word": "乘风一口气官宣34位送考人",
@@ -12483,14 +12499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271123,
-      "num": 170053,
-      "word": "黄圣依小儿子颜值",
-      "onboard_time": 1776593243,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271107,
       "num": 250190,
       "word": "低血糖假性饥饿",
@@ -12763,6 +12771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266048,
+      "num": 266048,
+      "word": "上海地铁回应一拉杆箱有血渍渗出",
+      "onboard_time": 1776585320,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265898,
       "num": 265898,
       "word": "李斌称闪充再快也比换电慢",
@@ -12897,14 +12913,6 @@
       "onboard_time": 1776578720,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263774,
-      "num": 248333,
-      "word": "现在都开始有人直播西天取经了",
-      "onboard_time": 1776588681,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 262889,
@@ -15267,6 +15275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222431,
+      "num": 179467,
+      "word": "青岛橘子海",
+      "onboard_time": 1776595641,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222393,
       "num": 222393,
       "word": "京东让何润东项羽还原度封神",
@@ -16347,14 +16363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207928,
-      "num": 213414,
-      "word": "上海地铁回应一拉杆箱有血渍渗出",
-      "onboard_time": 1776585320,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207899,
       "num": 233976,
       "word": "莫氏鸡煲公主称被嫌慢嫌贵",
@@ -16785,6 +16793,14 @@
       "onboard_time": 1775706682,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201613,
+      "num": 163136,
+      "word": "鹿晗黑色果然显瘦",
+      "onboard_time": 1776596422,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 201526,
@@ -18977,14 +18993,6 @@
       "onboard_time": 1776520341,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174711,
-      "num": 151677,
-      "word": "青岛橘子海",
-      "onboard_time": 1776595641,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 174641,
@@ -22379,6 +22387,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 142125,
+      "num": 142125,
+      "word": "iG对战TES",
+      "onboard_time": 1776595941,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "人民币汇率也大涨",
@@ -25664,6 +25680,14 @@
       "word": "长大后才意识到父母有多厉害",
       "onboard_time": 1775656823,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120383,
+      "num": 120383,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -40387,6 +40411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70687,
+      "num": 143283,
+      "word": "迪丽热巴白日提灯获年度原创文学ip奖",
+      "onboard_time": 1776593781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70669,
       "num": 118552,
       "word": "浪姐初见面万千惠第一个出场",
@@ -47056,6 +47088,14 @@
       "word": "优思益幕后推手被查",
       "onboard_time": 1775029523,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38852,
+      "num": 264215,
+      "word": "乳山银滩195平复式房1万起拍",
+      "onboard_time": 1776596481,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
