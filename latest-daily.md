@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/20 00:01:48 ~ 2026/04/20 05:44:54
+本榜单时间：2026/04/20 00:01:48 ~ 2026/04/20 05:59:47
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E9%83%A8%E7%83%AD%E6%92%AD%E6%9C%9F%E5%90%8E%E5%8A%A0%E5%B9%BF%E7%9A%84%E5%89%A7%E9%9B%86%23" target="weibo">
+杨紫三部热播期后加广的剧集（热度：80501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%99%90%E5%BE%85%E8%87%B4%E6%AD%BB%E5%87%B6%E6%89%8B%E7%9C%8B%E5%88%B0%E8%AF%81%E6%8D%AE%E6%89%8D%E6%89%BF%E8%AE%A4%23" target="weibo">
 男童被虐待致死凶手看到证据才承认（热度：70033）
 </a>
@@ -371,6 +377,12 @@ Jennie八年来都长一个样（热度：145691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B9%E5%B2%97%E5%A4%A7%E5%B1%B1%E9%81%AD%E4%BA%BA%E7%A7%81%E6%8C%96%E6%B0%B4%E6%99%B6%E7%A0%B4%E5%9D%8F%23" target="weibo">
 广州暹岗大山遭人私挖水晶破坏（热度：65156）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23" target="weibo">
+特朗普说若达成协议很可能去伊斯兰堡（热度：60288）
 </a>
 </li>
 
@@ -405,14 +417,14 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E9%83%A8%E7%83%AD%E6%92%AD%E6%9C%9F%E5%90%8E%E5%8A%A0%E5%B9%BF%E7%9A%84%E5%89%A7%E9%9B%86%23" target="weibo">
-杨紫三部热播期后加广的剧集（热度：49135）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23" target="weibo">
+新农人玩转种菜黑科技（热度：48811）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23" target="weibo">
-新农人玩转种菜黑科技（热度：48811）
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%90%AC%E5%88%B0%E5%9B%B4%E8%A7%82%E7%9D%A1%E8%A7%89%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+肖战听到围观睡觉的反应（热度：48679）
 </a>
 </li>
 
@@ -423,14 +435,8 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23" target="weibo">
-特朗普说若达成协议很可能去伊斯兰堡（热度：48038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%90%AC%E5%88%B0%E5%9B%B4%E8%A7%82%E7%9D%A1%E8%A7%89%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-肖战听到围观睡觉的反应（热度：37566）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E8%B5%B4%E8%A5%BF%E5%A4%AA%E6%B5%B7%E5%9F%9F%E5%BC%80%E5%B1%95%E6%BC%94%E8%AE%AD%23" target="weibo">
+东部战区舰艇编队赴西太海域开展演训（热度：39774）
 </a>
 </li>
 
@@ -447,8 +453,8 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E8%B5%B4%E8%A5%BF%E5%A4%AA%E6%B5%B7%E5%9F%9F%E5%BC%80%E5%B1%95%E6%BC%94%E8%AE%AD%23" target="weibo">
-东部战区舰艇编队赴西太海域开展演训（热度：33400）
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%906%E5%B0%8F%E6%97%B6%E8%B5%A2%E5%8F%91%E5%91%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
+24岁女子坐6小时赢发呆比赛冠军（热度：33317）
 </a>
 </li>
 
@@ -460,7 +466,7 @@ Jennie八年来都长一个样（热度：145691）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%90%8C%E8%90%8C%E5%A5%94%E5%90%91%E8%AE%AD%E7%BB%83%E9%A6%86%23" target="weibo">
-孙颖莎萌萌奔向训练馆（热度：29804）
+孙颖莎萌萌奔向训练馆（热度：29892）
 </a>
 </li>
 
@@ -471,8 +477,8 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%906%E5%B0%8F%E6%97%B6%E8%B5%A2%E5%8F%91%E5%91%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
-24岁女子坐6小时赢发呆比赛冠军（热度：23080）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%E7%BA%A2%E5%8C%BA%E5%85%A8%E9%9D%A2%E5%B0%81%E6%8E%A7%23" target="weibo">
+巴基斯坦伊斯兰堡红区全面封控（热度：22100）
 </a>
 </li>
 
