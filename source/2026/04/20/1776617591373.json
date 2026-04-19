@@ -1,0 +1,410 @@
+{
+  "runTime": 1776617591373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213839,
+        "num": 1213839,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342289,
+        "num": 565706,
+        "word": "张雪机车比赛因红旗中断",
+        "onboard_time": 1776610702,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35831,
+        "num": 460483,
+        "word": "新农人玩转种菜黑科技",
+        "onboard_time": 1776603803,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1586653,
+        "num": 455867,
+        "word": "金莎晒结婚五金",
+        "onboard_time": 1776604102,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480810,
+        "num": 446902,
+        "word": "第44届金像奖获奖名单",
+        "onboard_time": 1776606502,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278932,
+        "num": 431089,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266977,
+        "num": 422514,
+        "word": "宗师 露脸",
+        "onboard_time": 1776597202,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254771,
+        "num": 419128,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221546,
+        "num": 407687,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1776612141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170128,
+        "num": 391920,
+        "word": "东部战区舰艇编队过航横当水道",
+        "onboard_time": 1776604522,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1778691,
+        "num": 391576,
+        "word": "陈赫",
+        "onboard_time": 1776617298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808663,
+        "num": 375049,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788921,
+        "num": 370023,
+        "word": "母亲看儿子遭群殴视频吃速效救心丸",
+        "onboard_time": 1776612501,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632900,
+        "num": 352594,
+        "word": "梁家辉5封金像奖影帝爆哭",
+        "onboard_time": 1776612922,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561823,
+        "num": 344383,
+        "word": "鹿晗好尊重本命年",
+        "onboard_time": 1776610882,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342782,
+        "num": 342782,
+        "word": "zmjjkk长文回复粉丝",
+        "onboard_time": 1776609741,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101960,
+        "num": 339984,
+        "word": "男子美国摆摊进货1元卖5美元",
+        "onboard_time": 1776603682,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280025,
+        "num": 334507,
+        "word": "24岁女研究生赢发呆比赛冠军",
+        "onboard_time": 1776606863,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272666,
+        "num": 327538,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410620,
+        "num": 321910,
+        "word": "粉丝给朱志鑫苏新皓发红包",
+        "onboard_time": 1776616458,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770214,
+        "num": 319517,
+        "word": "关晓彤",
+        "onboard_time": 1776617538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316035,
+        "num": 316035,
+        "word": "银川一小学生拒借车遭9人群殴搜家",
+        "onboard_time": 1776612082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409453,
+        "num": 315606,
+        "word": "谢娜上张杰鸟巢演唱会小火车",
+        "onboard_time": 1776611182,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310865,
+        "num": 310865,
+        "word": "金像奖影帝梁家辉",
+        "onboard_time": 1776609442,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191322,
+        "num": 308352,
+        "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
+        "onboard_time": 1776599842,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308101,
+        "num": 308101,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306423,
+        "num": 306423,
+        "word": "肖战我压力真的没有那么大",
+        "onboard_time": 1776605482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83185,
+        "num": 284637,
+        "word": "数万日本民众集会高喊不要战争",
+        "onboard_time": 1776614660,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273303,
+        "num": 273303,
+        "word": "杜华被雷军问还有哪些艺人的反应",
+        "onboard_time": 1776606502,
+        "rank": 28,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 243455,
+        "word": "泼水节蓝莓摊被洗劫一空进展",
+        "onboard_time": 1776614300,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226899,
+        "num": 226899,
+        "word": "薛之谦方回应李雨桐被行拘",
+        "onboard_time": 1776592282,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195746,
+        "num": 195746,
+        "word": "梁晶晶称流产5次失去7个孩子",
+        "onboard_time": 1776598822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144931,
+        "num": 172283,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160879,
+        "num": 160879,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152037,
+        "num": 152037,
+        "word": "侯明昊曾舜晞是一个组合出道的",
+        "onboard_time": 1776605122,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 151738,
+        "word": "张雪机车第7",
+        "onboard_time": 1776603742,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193183,
+        "num": 151701,
+        "word": "李雨桐索要财物未果后恶性造谣诽谤",
+        "onboard_time": 1776611901,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151599,
+        "num": 151599,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112739,
+        "num": 140772,
+        "word": "小米徐洁云喊话造谣者",
+        "onboard_time": 1776613759,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132163,
+        "num": 132163,
+        "word": "金像奖马丽长发港风造型",
+        "onboard_time": 1776611962,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128079,
+        "num": 128079,
+        "word": "朴元彬回应身高争议",
+        "onboard_time": 1776609442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104195,
+        "num": 127142,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 126596,
+        "word": "姜涛瘦了很多",
+        "onboard_time": 1776610343,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119874,
+        "num": 119874,
+        "word": "李小冉唱了一下午",
+        "onboard_time": 1776607343,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95843,
+        "num": 119871,
+        "word": "高中生因操行分不合格等被劝退",
+        "onboard_time": 1776606261,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114488,
+        "num": 119804,
+        "word": "古天乐宣萱 一如既往的般配",
+        "onboard_time": 1776599661,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85613,
+        "num": 119771,
+        "word": "胃癌晚期治疗有新突破",
+        "onboard_time": 1776609563,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77279,
+        "num": 119740,
+        "word": "河南三地巨额数据造假25人被问责",
+        "onboard_time": 1776608362,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65156,
+        "num": 119673,
+        "word": "广州暹岗大山遭人私挖水晶破坏",
+        "onboard_time": 1776616579,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101072,
+        "num": 119643,
+        "word": "Jennie八年来都长一个样",
+        "onboard_time": 1776590424,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福国家和人民#"
+    }
+  }
+}
