@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/20 00:01:48 ~ 2026/04/20 04:48:28
+本榜单时间：2026/04/20 00:01:48 ~ 2026/04/20 05:04:03
 </p>
 </blockquote>
 <p>
@@ -430,7 +430,7 @@ Jennie八年来都长一个样（热度：145691）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23" target="weibo">
-特朗普说若达成协议很可能去伊斯兰堡（热度：35221）
+特朗普说若达成协议很可能去伊斯兰堡（热度：36151）
 </a>
 </li>
 
@@ -459,6 +459,12 @@ Jennie八年来都长一个样（热度：145691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E9%83%A8%E7%83%AD%E6%92%AD%E6%9C%9F%E5%90%8E%E5%8A%A0%E5%B9%BF%E7%9A%84%E5%89%A7%E9%9B%86%23" target="weibo">
+杨紫三部热播期后加广的剧集（热度：21230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%906%E5%B0%8F%E6%97%B6%E8%B5%A2%E5%8F%91%E5%91%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
 24岁女子坐6小时赢发呆比赛冠军（热度：18759）
 </a>
@@ -467,6 +473,12 @@ Jennie八年来都长一个样（热度：145691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%AF%8F3%E5%BA%A6%E7%94%B5%E5%B0%B1%E6%9C%891%E5%BA%A6%E6%98%AF%E7%BB%BF%E7%94%B5%23" target="weibo">
 我国每3度电就有1度是绿电（热度：15469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23150%E7%A7%92%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B%23" target="weibo">
+150秒透视中国消费市场澎湃活力（热度：6719）
 </a>
 </li>
 
