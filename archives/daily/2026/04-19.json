@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776585318942,
+  "endTime": 1776586323772,
   "band_list": [
     {
       "raw_hot": 2926940,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2456371,
+      "raw_hot": 2487846,
       "num": 356392,
       "word": "虞书欣父亲索赔17w败诉",
       "onboard_time": 1776579380,
@@ -67,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1217786,
+      "num": 395033,
+      "word": "卸沙现场一具尸体随沙料倾泻而出",
+      "onboard_time": 1776579140,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1137310,
+      "num": 345264,
+      "word": "王一博车轮 85105",
+      "onboard_time": 1776583581,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1124373,
       "num": 353733,
       "word": "稚楚回应",
@@ -83,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1050610,
-      "num": 395033,
-      "word": "卸沙现场一具尸体随沙料倾泻而出",
-      "onboard_time": 1776579140,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1039501,
       "num": 1166320,
       "word": "宿迁vs南京",
@@ -105,14 +113,6 @@
       "onboard_time": 1776555798,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1030614,
-      "num": 344746,
-      "word": "王一博车轮 85105",
-      "onboard_time": 1776583581,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1000878,
@@ -299,6 +299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 590438,
+      "num": 590438,
+      "word": "穿普拉达的女王2亚裔争议",
+      "onboard_time": 1776584420,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 569425,
       "num": 569425,
       "word": "王者荣耀 哪吒2",
@@ -316,10 +324,18 @@
     },
     {
       "raw_hot": 549519,
-      "num": 844569,
+      "num": 855028,
       "word": "12306拒绝抢票软件出票超百万张",
       "onboard_time": 1776580579,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537837,
+      "num": 342699,
+      "word": "女子情不自禁到处表白确诊桃花癫",
+      "onboard_time": 1776580642,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 510845,
-      "num": 310640,
+      "num": 341177,
       "word": "赵丽颖38岁状态",
       "onboard_time": 1776578841,
       "rank": 43,
@@ -531,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376714,
+      "num": 376714,
+      "word": "网易云更新 动脉血变成静脉血了",
+      "onboard_time": 1776580939,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 374003,
+      "num": 374003,
+      "word": "机器人马拉松 豆包变豆脚了",
+      "onboard_time": 1776576081,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 373737,
       "num": 695316,
       "word": "日本在马关条约签订日闯入台海",
@@ -539,28 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 370319,
-      "num": 370319,
-      "word": "机器人马拉松 豆包变豆脚了",
-      "onboard_time": 1776576081,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 369964,
       "num": 273369,
       "word": "谁把张凌赫弄天上去了",
       "onboard_time": 1776565280,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 368981,
-      "num": 307361,
-      "word": "女子情不自禁到处表白确诊桃花癫",
-      "onboard_time": 1776580642,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368212,
@@ -585,6 +601,14 @@
       "onboard_time": 1776554177,
       "rank": 12,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 338855,
+      "num": 338855,
+      "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+      "onboard_time": 1776580939,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 338515,
@@ -651,14 +675,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 307341,
-      "num": 307341,
-      "word": "穿普拉达的女王2亚裔争议",
-      "onboard_time": 1776584420,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 297798,
       "num": 297798,
       "word": "马頔为了通告费亲嘴李纯知道吗",
@@ -689,14 +705,6 @@
       "onboard_time": 1776573739,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291927,
-      "num": 291927,
-      "word": "沈梦辰连续4年做热玛吉脸越打越薄",
-      "onboard_time": 1776580939,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 291913,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245480,
+      "num": 245480,
+      "word": "王一博跑步穿成修女的原因",
+      "onboard_time": 1776584721,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244046,
       "num": 322307,
       "word": "华住会否认酒店回访致女子离婚",
@@ -803,28 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241619,
-      "num": 361421,
-      "word": "网易云更新 动脉血变成静脉血了",
-      "onboard_time": 1776580939,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 238925,
       "num": 157408,
       "word": "快递员上门取件摔坏2.4万蓝宝石",
       "onboard_time": 1776555196,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 236930,
-      "num": 236930,
-      "word": "王一博跑步穿成修女的原因",
-      "onboard_time": 1776584721,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 236850,
@@ -851,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229178,
+      "num": 341920,
+      "word": "夫妻骑车为躲狗摔倒致妻死亡",
+      "onboard_time": 1776582982,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225381,
       "num": 225381,
       "word": "风扇乱流 灭蚊子",
@@ -859,20 +867,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 225362,
+      "num": 339724,
+      "word": "可爱型人格做的好事也可爱",
+      "onboard_time": 1776583641,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225130,
+      "num": 225130,
+      "word": "疑似业内内涵攻玉换男主",
+      "onboard_time": 1776582680,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224866,
       "num": 224866,
       "word": "日媒集体噤声",
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 223890,
-      "num": 294625,
-      "word": "夫妻骑车为躲狗摔倒致妻死亡",
-      "onboard_time": 1776582982,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223594,
@@ -891,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221727,
+      "num": 348096,
+      "word": "韩警方称骚扰中国游客日本男子愿回韩",
+      "onboard_time": 1776584540,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 218437,
       "num": 218437,
       "word": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
@@ -905,6 +929,22 @@
       "onboard_time": 1776560120,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212852,
+      "num": 243987,
+      "word": "Gr对战成都GG",
+      "onboard_time": 1776584420,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 211692,
+      "num": 211692,
+      "word": "孟子义只是缺一个曾沛慈",
+      "onboard_time": 1776584420,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 207617,
@@ -995,20 +1035,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194868,
-      "num": 194868,
-      "word": "疑似业内内涵攻玉换男主",
-      "onboard_time": 1776582680,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194223,
       "num": 194223,
       "word": "林允儿棒球开球",
       "onboard_time": 1776524902,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 191264,
+      "num": 213414,
+      "word": "上海地铁回应一拉杆箱有血渍渗出",
+      "onboard_time": 1776585320,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190581,
@@ -1027,8 +1067,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183512,
-      "num": 183512,
+      "raw_hot": 185740,
+      "num": 185740,
       "word": "我家那小子",
       "onboard_time": 1776580579,
       "rank": 44,
@@ -1043,28 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178975,
-      "num": 178975,
-      "word": "孟子义只是缺一个曾沛慈",
-      "onboard_time": 1776584420,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178320,
       "num": 209665,
       "word": "日本赌国运老毛病又犯了",
       "onboard_time": 1776516081,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177655,
-      "num": 206430,
-      "word": "Gr对战成都GG",
-      "onboard_time": 1776584420,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 176391,
@@ -1096,14 +1120,6 @@
       "word": "湘西赶尸舞",
       "onboard_time": 1776579021,
       "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 170176,
-      "num": 179138,
-      "word": "可爱型人格做的好事也可爱",
-      "onboard_time": 1776583641,
-      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1155,12 +1171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158271,
+      "num": 158271,
+      "word": "杜华晒与雷军合照",
+      "onboard_time": 1776585981,
+      "rank": 46,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 154015,
       "num": 154015,
       "word": "钟美美对郝蕾贴脸开大",
       "onboard_time": 1776568041,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151864,
+      "num": 151864,
+      "word": "中东局势48小时极致反转",
+      "onboard_time": 1776584840,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150332,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1776584540,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134628,
-      "num": 160929,
-      "word": "韩警方称骚扰中国游客日本男子愿回韩",
-      "onboard_time": 1776584540,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129745,
@@ -1668,7 +1692,7 @@
     },
     {
       "raw_hot": 21652,
-      "num": 652455,
+      "num": 654116,
       "word": "消博会上的硬核科技展现未来趋势",
       "onboard_time": 1776582801,
       "rank": 2,

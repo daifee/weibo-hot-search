@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/19 15:55:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/19 16:12:03
 </p>
 </blockquote>
 <p>
@@ -1263,6 +1263,12 @@ YSL 撞衫（热度：2608306）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E7%B4%A2%E8%B5%9417w%E8%B4%A5%E8%AF%89%23" target="weibo">
+虞书欣父亲索赔17w败诉（热度：2487846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97%23" target="weibo">
 U23国足vs越南（热度：2487537）
 </a>
@@ -1277,12 +1283,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9B%9E%E5%BA%94%E5%92%8C%E9%98%9A%E6%B8%85%E5%AD%90%E5%85%B3%E7%B3%BB%23" target="weibo">
 孙怡回应和阚清子关系（热度：2466527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E7%B4%A2%E8%B5%9417w%E8%B4%A5%E8%AF%89%23" target="weibo">
-虞书欣父亲索赔17w败诉（热度：2456371）
 </a>
 </li>
 

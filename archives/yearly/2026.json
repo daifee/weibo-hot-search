@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776585318942,
+  "endTime": 1776586323772,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1667,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2487846,
+      "num": 356392,
+      "word": "虞书欣父亲索赔17w败诉",
+      "onboard_time": 1776579380,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2487537,
       "num": 2487537,
       "word": "U23国足vs越南",
@@ -1688,14 +1696,6 @@
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2456371,
-      "num": 356392,
-      "word": "虞书欣父亲索赔17w败诉",
-      "onboard_time": 1776579380,
-      "rank": 10,
       "category": "艺人"
     },
     {
