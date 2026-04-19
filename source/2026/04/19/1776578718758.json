@@ -1,0 +1,410 @@
+{
+  "runTime": 1776578718758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 535923,
+        "num": 1085747,
+        "word": "宇树机器人打破人类1500米世界纪录",
+        "onboard_time": 1776562341,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 349790,
+        "num": 938400,
+        "word": "自家孩子趴桌睡为何给别人捐躺椅",
+        "onboard_time": 1776574880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68157,
+        "num": 934647,
+        "word": "五一列车增开",
+        "onboard_time": 1776567320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2926940,
+        "num": 934427,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933509,
+        "num": 933509,
+        "word": "谁家猫怀孕都怀到脖子上了",
+        "onboard_time": 1776571220,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719740,
+        "num": 719740,
+        "word": "生命缘官宣",
+        "onboard_time": 1776575000,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646973,
+        "num": 646973,
+        "word": "邓超现在洗澡离不开黑泥",
+        "onboard_time": 1776574161,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569425,
+        "num": 569425,
+        "word": "王者荣耀 哪吒2",
+        "onboard_time": 1776573319,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388463,
+        "num": 388463,
+        "word": "官方通报卸沙现场出现一具男尸",
+        "onboard_time": 1776570140,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 377026,
+        "num": 377026,
+        "word": "睡觉时被空调砸到头了",
+        "onboard_time": 1776568939,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1301280,
+        "num": 370245,
+        "word": "花少8 南美",
+        "onboard_time": 1776566900,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1198131,
+        "num": 361954,
+        "word": "何润东狂接商务",
+        "onboard_time": 1776562160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750079,
+        "num": 350742,
+        "word": "福原爱三胎生子",
+        "onboard_time": 1776576560,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433065,
+        "num": 345339,
+        "word": "虞书欣好辣",
+        "onboard_time": 1776558200,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405901,
+        "num": 327620,
+        "word": "AI让人越来越累",
+        "onboard_time": 1776571340,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324852,
+        "num": 324852,
+        "word": "日本与澳大利亚签订合同",
+        "onboard_time": 1776573919,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463653,
+        "num": 324402,
+        "word": "逐玉播出后最爆的是何润东",
+        "onboard_time": 1776571580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244046,
+        "num": 322307,
+        "word": "华住会否认酒店回访致女子离婚",
+        "onboard_time": 1776571100,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228865,
+        "num": 319802,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1776569900,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120897,
+        "num": 317695,
+        "word": "孙颖莎给河北文旅上大分",
+        "onboard_time": 1776577581,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388348,
+        "num": 315937,
+        "word": "曝歌手2026阵容",
+        "onboard_time": 1776557779,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687071,
+        "num": 313962,
+        "word": "CT的辐射每一次都是带来隐患",
+        "onboard_time": 1776576381,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313598,
+        "num": 313598,
+        "word": "酒店回访电话暴露开房致女子离婚",
+        "onboard_time": 1776556278,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311952,
+        "num": 311952,
+        "word": "女子产后被男友起诉退彩礼和分娩费",
+        "onboard_time": 1776556098,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308723,
+        "num": 308723,
+        "word": "攻玉回应换男主",
+        "onboard_time": 1776577759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298689,
+        "num": 298689,
+        "word": "机器人马拉松 豆包变豆脚了",
+        "onboard_time": 1776576081,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 298630,
+        "word": "日舰闯台海这天中国人不会忘",
+        "onboard_time": 1776563958,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219633,
+        "num": 297577,
+        "word": "千万身家老板倾家荡产不敢告诉女儿",
+        "onboard_time": 1776576440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 296969,
+        "word": "杜兰特 火箭",
+        "onboard_time": 1776569539,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117348,
+        "num": 296763,
+        "word": "亲人离世女孩买错票崩溃大哭",
+        "onboard_time": 1776575299,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306030,
+        "num": 295747,
+        "word": "攻玉 辞演",
+        "onboard_time": 1776555798,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295619,
+        "num": 295619,
+        "word": "马頔为了通告费亲嘴李纯知道吗",
+        "onboard_time": 1776577823,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201361,
+        "num": 288683,
+        "word": "宇树H1机器人被担架抬离赛道",
+        "onboard_time": 1776567858,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283639,
+        "num": 283639,
+        "word": "攻玉",
+        "onboard_time": 1776573739,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 753541,
+        "num": 278738,
+        "word": "谢娜晒和马嘉祺聊天记录",
+        "onboard_time": 1776555557,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198626,
+        "num": 260628,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1776564140,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257786,
+        "num": 257786,
+        "word": "刘浩存走完红毯拧裙子上的水",
+        "onboard_time": 1776568880,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253385,
+        "num": 253385,
+        "word": "网传攻玉男主换曾舜晞",
+        "onboard_time": 1776576261,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165741,
+        "num": 248389,
+        "word": "低精力 杏仁核长期应激",
+        "onboard_time": 1776556517,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116889,
+        "num": 246169,
+        "word": "美国1年投1300万美元在中国搞渗透",
+        "onboard_time": 1776577823,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246101,
+        "num": 246101,
+        "word": "梁朝伟迪丽热巴好像在拍电影",
+        "onboard_time": 1776571519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221090,
+        "num": 221090,
+        "word": "你是真的火了李小冉",
+        "onboard_time": 1776555557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161268,
+        "num": 212681,
+        "word": "宇树H1机器人半马赛场终点累倒",
+        "onboard_time": 1776565040,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25592,
+        "num": 210456,
+        "word": "巧乐兹你是真会魔法啊",
+        "onboard_time": 1776575180,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210377,
+        "num": 210377,
+        "word": "杨紫新剧老年妆",
+        "onboard_time": 1776567320,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204665,
+        "num": 204665,
+        "word": "来战",
+        "onboard_time": 1776574580,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145184,
+        "num": 189479,
+        "word": "禁止未成年机器人参赛",
+        "onboard_time": 1776575838,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123180,
+        "num": 189015,
+        "word": "荣耀回应机器人包揽半马前6",
+        "onboard_time": 1776572780,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143787,
+        "num": 188987,
+        "word": "被骗3200万老板从住豪宅到租房住",
+        "onboard_time": 1776572539,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188981,
+        "num": 188981,
+        "word": "谢娜晒拍的马嘉祺丁程鑫贺峻霖",
+        "onboard_time": 1776573081,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
