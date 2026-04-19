@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776592545260,
+  "endTime": 1776593327738,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -64,6 +64,14 @@
       "word": "柳智敏穿的长裙只要92元",
       "onboard_time": 1776523224,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1309736,
+      "num": 397688,
+      "word": "薛之谦方回应李雨桐被行拘",
+      "onboard_time": 1776592282,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 993794,
+      "num": 415778,
+      "word": "Jennie八年来都长一个样",
+      "onboard_time": 1776590424,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 933509,
       "num": 933509,
       "word": "谁家猫怀孕都怀到脖子上了",
@@ -177,14 +193,6 @@
       "onboard_time": 1776584420,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 864112,
-      "num": 415778,
-      "word": "Jennie八年来都长一个样",
-      "onboard_time": 1776590424,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 840253,
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614428,
+      "num": 409900,
+      "word": "专家称黄金完成了阶段性的历史使命",
+      "onboard_time": 1776589941,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 608867,
       "num": 608867,
       "word": "陈紫函不上浪姐的原因",
@@ -337,6 +353,14 @@
       "onboard_time": 1776584540,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 598204,
+      "num": 376245,
+      "word": "薛之谦方公开李雨桐行政处罚决定书",
+      "onboard_time": 1776591683,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 598040,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 537837,
-      "num": 342699,
+      "num": 369038,
       "word": "女子情不自禁到处表白确诊桃花癫",
       "onboard_time": 1776580642,
       "rank": 23,
@@ -392,6 +416,14 @@
       "word": "听障女孩回应美得像假人",
       "onboard_time": 1776528741,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531663,
+      "num": 2132052,
+      "word": "女子万达广场坠楼商户称人当场没了",
+      "onboard_time": 1776591262,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -409,14 +441,6 @@
       "onboard_time": 1776504201,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 518032,
-      "num": 409900,
-      "word": "专家称黄金完成了阶段性的历史使命",
-      "onboard_time": 1776589941,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 515177,
@@ -473,6 +497,14 @@
       "onboard_time": 1776567320,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480186,
+      "num": 480186,
+      "word": "铁路12306已拒绝出票105.6万张",
+      "onboard_time": 1776592584,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476582,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421375,
+      "num": 387401,
+      "word": "夫妻骑车为躲狗摔倒致妻死亡",
+      "onboard_time": 1776582982,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405901,
       "num": 327620,
       "word": "AI让人越来越累",
@@ -611,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379553,
-      "num": 379553,
-      "word": "夫妻骑车为躲狗摔倒致妻死亡",
-      "onboard_time": 1776582982,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376714,
       "num": 431063,
       "word": "网易云更新 动脉血变成静脉血了",
@@ -651,36 +683,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368283,
+      "num": 368283,
+      "word": "丞磊你家枇杷熟了",
+      "onboard_time": 1776588322,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368212,
       "num": 183435,
       "word": "歌手2026热度值",
       "onboard_time": 1776528860,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357223,
-      "num": 357223,
-      "word": "薛之谦方回应李雨桐被行拘",
-      "onboard_time": 1776592282,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 348791,
-      "num": 300827,
-      "word": "薛之谦方公开李雨桐行政处罚决定书",
-      "onboard_time": 1776591683,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 347021,
-      "num": 347021,
-      "word": "丞磊你家枇杷熟了",
-      "onboard_time": 1776588322,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 339585,
@@ -835,12 +851,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 279040,
+      "num": 248669,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 274361,
       "num": 274361,
       "word": "纽北事故",
       "onboard_time": 1776556639,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274176,
+      "num": 228721,
+      "word": "浪姐有属于自己的SHE",
+      "onboard_time": 1776588980,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 272398,
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268136,
+      "num": 209664,
+      "word": "惠英红金像奖定制红裙",
+      "onboard_time": 1776592883,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263945,
       "num": 263945,
       "word": "方媛给郭富城抬头纹磨皮",
@@ -873,6 +913,14 @@
       "onboard_time": 1776589041,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256195,
+      "num": 197632,
+      "word": "虞丕杰律师回应索赔17万败诉",
+      "onboard_time": 1776592763,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 253385,
@@ -899,12 +947,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 248669,
-      "num": 248669,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 248333,
+      "num": 248333,
+      "word": "现在都开始有人直播西天取经了",
+      "onboard_time": 1776588681,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 246101,
@@ -913,14 +961,6 @@
       "onboard_time": 1776571519,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245595,
-      "num": 228721,
-      "word": "浪姐有属于自己的SHE",
-      "onboard_time": 1776588980,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 245480,
@@ -969,14 +1009,6 @@
       "onboard_time": 1776563958,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229225,
-      "num": 229225,
-      "word": "现在都开始有人直播西天取经了",
-      "onboard_time": 1776588681,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 227883,
@@ -1051,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215234,
-      "num": 348777,
-      "word": "女子万达广场坠楼商户称人当场没了",
-      "onboard_time": 1776591262,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212852,
       "num": 243987,
       "word": "Gr对战成都GG",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1776584420,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207928,
+      "num": 213414,
+      "word": "上海地铁回应一拉杆箱有血渍渗出",
+      "onboard_time": 1776585320,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207617,
@@ -1131,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200288,
+      "num": 181268,
+      "word": "魏大勋这辈子都不会忘记耻骨在哪",
+      "onboard_time": 1776588501,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200159,
       "num": 200159,
       "word": "詹姆斯创季后赛单节助攻新高",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1776524902,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 191264,
-      "num": 213414,
-      "word": "上海地铁回应一拉杆箱有血渍渗出",
-      "onboard_time": 1776585320,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190581,
@@ -1248,14 +1280,6 @@
       "word": "白鹿跑男宣传莫离",
       "onboard_time": 1776583280,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175632,
-      "num": 175632,
-      "word": "魏大勋这辈子都不会忘记耻骨在哪",
-      "onboard_time": 1776588501,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1427,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144035,
+      "num": 144035,
+      "word": "孟子义误闯天家舞蹈越跳越远",
+      "onboard_time": 1776592163,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143787,
       "num": 188987,
       "word": "被骗3200万老板从住豪宅到租房住",
@@ -1448,6 +1480,22 @@
       "word": "吴佳尼说赵丽颖没有医美",
       "onboard_time": 1776554117,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138078,
+      "num": 138078,
+      "word": "出门和不出门过的是两种人生",
+      "onboard_time": 1776593304,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133296,
+      "num": 133296,
+      "word": "黄圣依小儿子颜值",
+      "onboard_time": 1776593243,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1625,6 +1673,14 @@
       "onboard_time": 1776536476,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90938,
+      "num": 377041,
+      "word": "男子在电诈园区开超市被判刑",
+      "onboard_time": 1776592883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89034,

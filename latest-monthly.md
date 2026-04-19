@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 17:55:45
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 18:08:47
 </p>
 </blockquote>
 <p>
@@ -795,6 +795,12 @@ Angelababy郑恺陈赫李晨合影（热度：1317443）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+薛之谦方回应李雨桐被行拘（热度：1309736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E8%A2%AB%E5%BC%BA%E6%89%A7%23" target="weibo">
 都美竹被强执（热度：1307794）
 </a>
@@ -1263,6 +1269,12 @@ Lululemon被调查（热度：1020109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%85%AB%E5%B9%B4%E6%9D%A5%E9%83%BD%E9%95%BF%E4%B8%80%E4%B8%AA%E6%A0%B7%23" target="weibo">
+Jennie八年来都长一个样（热度：993794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A5%B7%E7%81%BF%20%E4%BB%81%E5%B7%9D%E6%9C%BA%E5%9C%BA%23" target="weibo">
 李楷灿 仁川机场（热度：990055）
 </a>
@@ -1649,12 +1661,6 @@ TEN李永钦不续约（热度：868167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%B2%B9%E8%BD%AE%E9%80%9A%E8%A1%8C%23" target="weibo">
 伊朗已叫停霍尔木兹海峡油轮通行（热度：864471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E5%85%AB%E5%B9%B4%E6%9D%A5%E9%83%BD%E9%95%BF%E4%B8%80%E4%B8%AA%E6%A0%B7%23" target="weibo">
-Jennie八年来都长一个样（热度：864112）
 </a>
 </li>
 
@@ -2913,6 +2919,12 @@ CT的辐射每一次都是带来隐患（热度：687071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23" target="weibo">
+专家称黄金完成了阶段性的历史使命（热度：614428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%23" target="weibo">
 2026中国大学排名（热度：612166）
 </a>
@@ -3029,6 +3041,12 @@ CT的辐射每一次都是带来隐患（热度：687071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%89%BA%E6%9C%AF%E5%AE%B6%23" target="weibo">
 大艺术家（热度：598255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B9%E5%85%AC%E5%BC%80%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E5%86%B3%E5%AE%9A%E4%B9%A6%23" target="weibo">
+薛之谦方公开李雨桐行政处罚决定书（热度：598204）
 </a>
 </li>
 
@@ -3729,6 +3747,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%87%E8%BE%BE%E5%B9%BF%E5%9C%BA%E5%9D%A0%E6%A5%BC%E5%95%86%E6%88%B7%E7%A7%B0%E4%BA%BA%E5%BD%93%E5%9C%BA%E6%B2%A1%E4%BA%86%23" target="weibo">
+女子万达广场坠楼商户称人当场没了（热度：531663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23200%E4%B8%87%E7%81%AB%E9%94%85%E5%BA%97%E8%90%A5%E4%B8%9A%E9%A2%9D990%23" target="weibo">
 200万火锅店营业额990（热度：531525）
 </a>
@@ -3869,12 +3893,6 @@ txt（热度：556202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%95%E8%B5%847%E4%BA%BF%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A%23" target="weibo">
 央视曝光投资7亿农业基地不干农业（热度：519988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23" target="weibo">
-专家称黄金完成了阶段性的历史使命（热度：518032）
 </a>
 </li>
 
@@ -4367,6 +4385,12 @@ lululemon或与不孕等风险相关（热度：485189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92%23" target="weibo">
 苹果官方发文提醒（热度：481041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8105.6%E4%B8%87%E5%BC%A0%23" target="weibo">
+铁路12306已拒绝出票105.6万张（热度：480186）
 </a>
 </li>
 
@@ -5253,6 +5277,12 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E9%AA%91%E8%BD%A6%E4%B8%BA%E8%BA%B2%E7%8B%97%E6%91%94%E5%80%92%E8%87%B4%E5%A6%BB%E6%AD%BB%E4%BA%A1%23" target="weibo">
+夫妻骑车为躲狗摔倒致妻死亡（热度：421375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%A0%E4%BE%84%E5%AD%90%E6%97%A7%E6%89%8B%E6%9C%BA%E8%87%B4%E5%87%BA%E8%BD%A8%E7%85%A7%E5%A4%96%E6%B3%84%23" target="weibo">
 女子赠侄子旧手机致出轨照外泄（热度：421220）
 </a>
@@ -5981,36 +6011,6 @@ TTG对战KSG（热度：392792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%B0%8F%E8%80%83%E5%89%8D%E4%B8%80%E6%99%9A%E8%A2%AB%E5%89%8D%E5%A4%AB%E5%91%8A%E4%BA%86%23" target="weibo">
 江语晨小考前一晚被前夫告了（热度：384573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%89%A9%E6%96%99%E9%87%8D%E6%96%B0%E4%B8%8A%E4%BC%A0%23" target="weibo">
-时代少年团物料重新上传（热度：384084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E7%83%AD%E5%BA%A6%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23" target="weibo">
-曾沛慈热度断层第一（热度：383889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E6%9B%BE%E6%B2%9B%E6%85%88%20%E8%AF%84%E7%BA%A7%E4%BA%BA%E6%95%B0%23" target="weibo">
-张月曾沛慈 评级人数（热度：383520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
-孙颖莎三连冠（热度：382450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
-张雪身价上亿还在用两千多块钱坏手机（热度：382446）
 </a>
 </li>
 

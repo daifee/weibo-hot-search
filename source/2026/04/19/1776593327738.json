@@ -1,0 +1,410 @@
+{
+  "runTime": 1776593327738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12062291,
+        "num": 12062291,
+        "word": "李雨桐被行拘",
+        "onboard_time": 1776589221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531663,
+        "num": 2132052,
+        "word": "女子万达广场坠楼商户称人当场没了",
+        "onboard_time": 1776591262,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30119,
+        "num": 1651019,
+        "word": "消博会上的硬核科技展现未来趋势",
+        "onboard_time": 1776582801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968278,
+        "num": 968278,
+        "word": "李小冉疑回应退出浪姐",
+        "onboard_time": 1776583160,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674734,
+        "num": 674734,
+        "word": "穿普拉达的女王2亚裔争议",
+        "onboard_time": 1776584420,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483492,
+        "num": 483492,
+        "word": "韩警方称骚扰中国游客日本男子愿回韩",
+        "onboard_time": 1776584540,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 574769,
+        "num": 482957,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480186,
+        "num": 480186,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402950,
+        "num": 402950,
+        "word": "张雪机车热身赛再获第一",
+        "onboard_time": 1776587660,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231592,
+        "num": 402439,
+        "word": "网易云更新 动脉血变成静脉血了",
+        "onboard_time": 1776580939,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1880187,
+        "num": 399196,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1309736,
+        "num": 397688,
+        "word": "薛之谦方回应李雨桐被行拘",
+        "onboard_time": 1776592282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614428,
+        "num": 394198,
+        "word": "专家称黄金完成了阶段性的历史使命",
+        "onboard_time": 1776589941,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 993794,
+        "num": 391717,
+        "word": "Jennie八年来都长一个样",
+        "onboard_time": 1776590424,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780636,
+        "num": 388636,
+        "word": "王一博车轮 85105",
+        "onboard_time": 1776583581,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421375,
+        "num": 387401,
+        "word": "夫妻骑车为躲狗摔倒致妻死亡",
+        "onboard_time": 1776582982,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444472,
+        "num": 383117,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419715,
+        "num": 379930,
+        "word": "孙丞潇 有没有不吵架的节目",
+        "onboard_time": 1776587541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379867,
+        "num": 379867,
+        "word": "稚楚回应",
+        "onboard_time": 1776582561,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 90938,
+        "num": 377041,
+        "word": "男子在电诈园区开超市被判刑",
+        "onboard_time": 1776592883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598204,
+        "num": 376245,
+        "word": "薛之谦方公开李雨桐行政处罚决定书",
+        "onboard_time": 1776591683,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387320,
+        "num": 371544,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291963,
+        "num": 369038,
+        "word": "女子情不自禁到处表白确诊桃花癫",
+        "onboard_time": 1776580642,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368283,
+        "num": 368283,
+        "word": "丞磊你家枇杷熟了",
+        "onboard_time": 1776588322,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322195,
+        "num": 322195,
+        "word": "攻玉回应换男主",
+        "onboard_time": 1776577759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284715,
+        "num": 284715,
+        "word": "12306拒绝抢票软件出票超百万张",
+        "onboard_time": 1776580579,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282191,
+        "num": 282191,
+        "word": "赵丽颖38岁状态",
+        "onboard_time": 1776578841,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248333,
+        "num": 248333,
+        "word": "现在都开始有人直播西天取经了",
+        "onboard_time": 1776588681,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209687,
+        "num": 209687,
+        "word": "自家孩子趴桌睡为何给别人捐躺椅",
+        "onboard_time": 1776574880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268136,
+        "num": 209664,
+        "word": "惠英红金像奖定制红裙",
+        "onboard_time": 1776592883,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274176,
+        "num": 209528,
+        "word": "浪姐有属于自己的SHE",
+        "onboard_time": 1776588980,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207928,
+        "num": 207928,
+        "word": "上海地铁回应一拉杆箱有血渍渗出",
+        "onboard_time": 1776585320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279040,
+        "num": 199165,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256195,
+        "num": 197632,
+        "word": "虞丕杰律师回应索赔17万败诉",
+        "onboard_time": 1776592763,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184173,
+        "num": 184173,
+        "word": "28岁女子手汗严重恋爱2年没牵过手",
+        "onboard_time": 1776589041,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247157,
+        "num": 184106,
+        "word": "张凌赫ins点赞两小时破五十万",
+        "onboard_time": 1776591262,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219527,
+        "num": 183517,
+        "word": "TF四代History舞台",
+        "onboard_time": 1776592282,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181350,
+        "num": 181350,
+        "word": "福原爱三胎生子",
+        "onboard_time": 1776576560,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200288,
+        "num": 181268,
+        "word": "魏大勋这辈子都不会忘记耻骨在哪",
+        "onboard_time": 1776588501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180957,
+        "num": 180957,
+        "word": "张雪机车四次第一被围剿",
+        "onboard_time": 1776581961,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177635,
+        "num": 177635,
+        "word": "中东局势48小时极致反转",
+        "onboard_time": 1776584840,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176256,
+        "num": 176256,
+        "word": "花少8 南美",
+        "onboard_time": 1776566900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174186,
+        "num": 174186,
+        "word": "王一博跑步穿成修女的原因",
+        "onboard_time": 1776584721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161008,
+        "num": 161008,
+        "word": "谁家猫怀孕都怀到脖子上了",
+        "onboard_time": 1776571220,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159706,
+        "num": 159706,
+        "word": "可爱型人格做的好事也可爱",
+        "onboard_time": 1776583641,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148060,
+        "num": 148060,
+        "word": "机器人马拉松 豆包变豆脚了",
+        "onboard_time": 1776576081,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144035,
+        "num": 144035,
+        "word": "孟子义误闯天家舞蹈越跳越远",
+        "onboard_time": 1776592163,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "25岁女子下楼玩手机摔成大小便失禁",
+        "onboard_time": 1776586160,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133296,
+        "num": 133296,
+        "word": "黄圣依小儿子颜值",
+        "onboard_time": 1776593243,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福人民造福世界#"
+    }
+  }
+}
