@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776618380888,
+  "endTime": 1776620597842,
   "band_list": [
     {
       "raw_hot": 1778691,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 561823,
-      "num": 344383,
+      "num": 376971,
       "word": "鹿晗好尊重本命年",
       "onboard_time": 1776610882,
       "rank": 24,
@@ -121,6 +121,14 @@
       "onboard_time": 1776605482,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428217,
+      "num": 428217,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1776612141,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 419119,
@@ -225,14 +233,6 @@
       "onboard_time": 1776611901,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233536,
-      "num": 407687,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1776612141,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 231022,
@@ -443,6 +443,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 67258,
+      "num": 191175,
+      "word": "陈法拉金像奖红毯状态",
+      "onboard_time": 1776618018,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 66221,
+      "num": 191774,
+      "word": "周深靠用力地鞠躬把眼泪甩掉",
+      "onboard_time": 1776618018,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65156,
       "num": 191507,
       "word": "广州暹岗大山遭人私挖水晶破坏",
@@ -451,28 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62371,
-      "num": 191774,
-      "word": "周深靠用力地鞠躬把眼泪甩掉",
-      "onboard_time": 1776618018,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 57285,
-      "num": 191175,
-      "word": "陈法拉金像奖红毯状态",
-      "onboard_time": 1776618018,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56425,
       "num": 190966,
       "word": "俞灏明王铮亮陆虎看张杰演唱会",
       "onboard_time": 1776608963,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54708,
+      "num": 121035,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53233,
@@ -515,8 +523,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7757,
-      "num": 387765,
+      "raw_hot": 43387,
+      "num": 120719,
+      "word": "机器人届也有自己的显眼包",
+      "onboard_time": 1776618618,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 15469,
+      "num": 400086,
       "word": "我国每3度电就有1度是绿电",
       "onboard_time": 1776602841,
       "rank": 2,

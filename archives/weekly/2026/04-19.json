@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776618380888,
+  "endTime": 1776620597842,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 561823,
-      "num": 344383,
+      "num": 376971,
       "word": "鹿晗好尊重本命年",
       "onboard_time": 1776610882,
       "rank": 34,
@@ -840,6 +840,14 @@
       "word": "火箭vs湖人",
       "onboard_time": 1776558799,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 428217,
+      "num": 428217,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1776612141,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1385,14 +1393,6 @@
       "onboard_time": 1776563958,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233536,
-      "num": 407687,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1776612141,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 227883,
@@ -2363,20 +2363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67258,
+      "num": 191175,
+      "word": "陈法拉金像奖红毯状态",
+      "onboard_time": 1776618018,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 66221,
+      "num": 191774,
+      "word": "周深靠用力地鞠躬把眼泪甩掉",
+      "onboard_time": 1776618018,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65156,
       "num": 191507,
       "word": "广州暹岗大山遭人私挖水晶破坏",
       "onboard_time": 1776616579,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62371,
-      "num": 191774,
-      "word": "周深靠用力地鞠躬把眼泪甩掉",
-      "onboard_time": 1776618018,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 58308,
@@ -2403,19 +2411,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 57285,
-      "num": 191175,
-      "word": "陈法拉金像奖红毯状态",
-      "onboard_time": 1776618018,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56960,
       "num": 206282,
       "word": "校方通报家长与麻辣烫摊主纠纷",
       "onboard_time": 1776531619,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54708,
+      "num": 121035,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2505,6 +2513,14 @@
       "onboard_time": 1776597682,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43387,
+      "num": 120719,
+      "word": "机器人届也有自己的显眼包",
+      "onboard_time": 1776618618,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 41852,
@@ -2643,6 +2659,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 15469,
+      "num": 400086,
+      "word": "我国每3度电就有1度是绿电",
+      "onboard_time": 1776602841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14809,
       "num": 184301,
       "word": "姚琛用歌声传递最温柔的一笔",
@@ -2657,14 +2681,6 @@
       "onboard_time": 1776489141,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 7757,
-      "num": 387765,
-      "word": "我国每3度电就有1度是绿电",
-      "onboard_time": 1776602841,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4623,
