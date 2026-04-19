@@ -1,0 +1,410 @@
+{
+  "runTime": 1776611201055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787230,
+        "num": 1787230,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1681257,
+        "num": 1681257,
+        "word": "脱口秀演员被高压水枪滋隐私部位",
+        "onboard_time": 1776607463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46672,
+        "num": 1235007,
+        "word": "新农人玩转种菜黑科技",
+        "onboard_time": 1776603803,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1720845,
+        "num": 1234267,
+        "word": "第44届金像奖获奖名单",
+        "onboard_time": 1776606502,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1209237,
+        "num": 1209237,
+        "word": "金像奖影帝梁家辉",
+        "onboard_time": 1776609442,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 624711,
+        "num": 624711,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581927,
+        "num": 581927,
+        "word": "zmjjkk长文回复粉丝",
+        "onboard_time": 1776609741,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 499313,
+        "num": 499313,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428649,
+        "num": 428649,
+        "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
+        "onboard_time": 1776599842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419052,
+        "num": 419052,
+        "word": "张雪机车第7",
+        "onboard_time": 1776603742,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1542788,
+        "num": 416562,
+        "word": "金莎晒结婚五金",
+        "onboard_time": 1776604102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009743,
+        "num": 407923,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582120,
+        "num": 398717,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797014,
+        "num": 395385,
+        "word": "肖战我压力真的没有那么大",
+        "onboard_time": 1776605482,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657814,
+        "num": 383593,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381762,
+        "num": 381762,
+        "word": "宗师 露脸",
+        "onboard_time": 1776597202,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192133,
+        "num": 368608,
+        "word": "男子美国摆摊进货1元卖5美元",
+        "onboard_time": 1776603682,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48410,
+        "num": 365259,
+        "word": "王星越为了一口非遗酸汤有多拼",
+        "onboard_time": 1776609863,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492718,
+        "num": 364828,
+        "word": "梁晶晶称流产5次失去7个孩子",
+        "onboard_time": 1776598822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364278,
+        "num": 364278,
+        "word": "24岁女研究生赢发呆比赛冠军",
+        "onboard_time": 1776606863,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428862,
+        "num": 357104,
+        "word": "金像奖",
+        "onboard_time": 1776588561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408539,
+        "num": 353679,
+        "word": "杜华被雷军问还有哪些艺人的反应",
+        "onboard_time": 1776606502,
+        "rank": 21,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 349625,
+        "num": 349625,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 359044,
+        "num": 343918,
+        "word": "薛之谦方回应李雨桐被行拘",
+        "onboard_time": 1776592282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328303,
+        "num": 328303,
+        "word": "李小冉唱了一下午",
+        "onboard_time": 1776607343,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296078,
+        "num": 317332,
+        "word": "张雪机车",
+        "onboard_time": 1776601642,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313517,
+        "num": 313517,
+        "word": "古天乐宣萱 一如既往的般配",
+        "onboard_time": 1776599661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304104,
+        "num": 304104,
+        "word": "侯明昊曾舜晞是一个组合出道的",
+        "onboard_time": 1776605122,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153809,
+        "num": 288169,
+        "word": "专家称黄金完成了阶段性的历史使命",
+        "onboard_time": 1776589941,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271816,
+        "num": 287973,
+        "word": "东部战区舰艇编队过航横当水道",
+        "onboard_time": 1776604522,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 287871,
+        "num": 287871,
+        "word": "谢娜上张杰鸟巢演唱会小火车",
+        "onboard_time": 1776611182,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272012,
+        "num": 272012,
+        "word": "Jennie八年来都长一个样",
+        "onboard_time": 1776590424,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213666,
+        "num": 270909,
+        "word": "高中生因操行分不合格等被劝退",
+        "onboard_time": 1776606261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270290,
+        "num": 270290,
+        "word": "肖战直播",
+        "onboard_time": 1776600384,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262379,
+        "num": 262379,
+        "word": "鹿晗好尊重本命年",
+        "onboard_time": 1776610882,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207014,
+        "num": 207014,
+        "word": "河南三地巨额数据造假25人被问责",
+        "onboard_time": 1776608362,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223213,
+        "num": 206936,
+        "word": "姜涛瘦了很多",
+        "onboard_time": 1776610343,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206181,
+        "num": 206181,
+        "word": "歌手2026",
+        "onboard_time": 1776583280,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 205818,
+        "word": "张杰演唱会群像",
+        "onboard_time": 1776609922,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187495,
+        "num": 204238,
+        "word": "张雪机车比赛因红旗中断",
+        "onboard_time": 1776610702,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203763,
+        "num": 203763,
+        "word": "沈梦辰连续4年做热玛吉脸越打越薄",
+        "onboard_time": 1776580939,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 199149,
+        "word": "薛之谦方公开李雨桐行政处罚决定书",
+        "onboard_time": 1776591683,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169683,
+        "num": 169683,
+        "word": "仙逆",
+        "onboard_time": 1776593781,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197216,
+        "num": 169467,
+        "word": "金莎晒婚服",
+        "onboard_time": 1776606624,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139511,
+        "num": 169424,
+        "word": "贺娇龙接班人曝光",
+        "onboard_time": 1776601342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133607,
+        "num": 169137,
+        "word": "张雪机车荷兰站第二回合第7",
+        "onboard_time": 1776602783,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132623,
+        "num": 168888,
+        "word": "东部战区舰艇编队赴西太平洋演训",
+        "onboard_time": 1776599242,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131020,
+        "num": 168658,
+        "word": "突然明白了什么叫课题分离",
+        "onboard_time": 1776590543,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168467,
+        "num": 168467,
+        "word": "俞灏明王铮亮陆虎看张杰演唱会",
+        "onboard_time": 1776608963,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113345,
+        "num": 168031,
+        "word": "以色列民众要求内塔尼亚胡政府下台",
+        "onboard_time": 1776608902,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福国家和人民#"
+    }
+  }
+}

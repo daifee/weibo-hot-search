@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776610238202,
+  "endTime": 1776611201055,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -51,12 +51,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1446791,
-      "num": 1446791,
+      "raw_hot": 1787230,
+      "num": 1787230,
+      "word": "金像奖影后廖子妤",
+      "onboard_time": 1776609504,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1681257,
+      "num": 1681257,
       "word": "脱口秀演员被高压水枪滋隐私部位",
       "onboard_time": 1776607463,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1542788,
+      "num": 466745,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1423652,
@@ -65,14 +81,6 @@
       "onboard_time": 1776557779,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1393082,
-      "num": 466745,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1388629,
@@ -113,6 +121,14 @@
       "onboard_time": 1776579140,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1209237,
+      "num": 1209237,
+      "word": "金像奖影帝梁家辉",
+      "onboard_time": 1776609442,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1179053,
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797014,
+      "num": 459270,
+      "word": "肖战我压力真的没有那么大",
+      "onboard_time": 1776605482,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789883,
       "num": 789883,
       "word": "低精力 杏仁核长期应激",
@@ -321,22 +345,6 @@
       "onboard_time": 1776537255,
       "rank": 22,
       "category": "军事"
-    },
-    {
-      "raw_hot": 762918,
-      "num": 459270,
-      "word": "肖战我压力真的没有那么大",
-      "onboard_time": 1776605482,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 758593,
-      "num": 758593,
-      "word": "金像奖影帝梁家辉",
-      "onboard_time": 1776609442,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 750079,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581927,
+      "num": 581927,
+      "word": "zmjjkk长文回复粉丝",
+      "onboard_time": 1776609741,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 578889,
       "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
@@ -529,14 +545,6 @@
       "onboard_time": 1776580579,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 547987,
-      "num": 547987,
-      "word": "金像奖影后廖子妤",
-      "onboard_time": 1776609504,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 537837,
@@ -795,6 +803,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 408539,
+      "num": 356651,
+      "word": "杜华被雷军问还有哪些艺人的反应",
+      "onboard_time": 1776606502,
+      "rank": 23,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 405901,
       "num": 327620,
       "word": "AI让人越来越累",
@@ -907,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356651,
-      "num": 356651,
-      "word": "杜华被雷军问还有哪些艺人的反应",
-      "onboard_time": 1776606502,
-      "rank": 23,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 339585,
       "num": 273281,
       "word": "本周狗屎运最旺的星座",
@@ -1019,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304104,
+      "num": 304104,
+      "word": "侯明昊曾舜晞是一个组合出道的",
+      "onboard_time": 1776605122,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301270,
       "num": 301270,
       "word": "现在都开始有人直播西天取经了",
@@ -1067,19 +1083,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 288926,
-      "num": 288926,
-      "word": "侯明昊曾舜晞是一个组合出道的",
-      "onboard_time": 1776605122,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288267,
       "num": 224800,
       "word": "谢娜录了时代少年团直拍",
       "onboard_time": 1776524181,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 287871,
+      "num": 287871,
+      "word": "谢娜上张杰鸟巢演唱会小火车",
+      "onboard_time": 1776611182,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1776603982,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262379,
+      "num": 262379,
+      "word": "鹿晗好尊重本命年",
+      "onboard_time": 1776610882,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 256969,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 226130,
-      "num": 226130,
+      "num": 270909,
       "word": "高中生因操行分不合格等被劝退",
       "onboard_time": 1776606261,
       "rank": 35,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1776576440,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223213,
+      "num": 206936,
+      "word": "姜涛瘦了很多",
+      "onboard_time": 1776610343,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 222699,
@@ -1571,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188172,
-      "num": 188172,
-      "word": "zmjjkk长文回复粉丝",
-      "onboard_time": 1776609741,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 187495,
+      "num": 204238,
+      "word": "张雪机车比赛因红旗中断",
+      "onboard_time": 1776610702,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 186228,
@@ -2284,11 +2316,19 @@
     },
     {
       "raw_hot": 50859,
-      "num": 892012,
+      "num": 1235007,
       "word": "新农人玩转种菜黑科技",
       "onboard_time": 1776603803,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48410,
+      "num": 365259,
+      "word": "王星越为了一口非遗酸汤有多拼",
+      "onboard_time": 1776609863,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 46376,
@@ -2337,14 +2377,6 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36234,
-      "num": 237965,
-      "word": "王星越为了一口非遗酸汤有多拼",
-      "onboard_time": 1776609863,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 33091,

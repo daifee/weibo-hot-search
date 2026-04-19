@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776610238202,
+  "endTime": 1776611201055,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -531,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1787230,
+      "num": 1787230,
+      "word": "金像奖影后廖子妤",
+      "onboard_time": 1776609504,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1767766,
       "num": 194657,
       "word": "李荣浩真转我五百了",
@@ -577,6 +585,14 @@
       "onboard_time": 1775831066,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1681257,
+      "num": 1681257,
+      "word": "脱口秀演员被高压水枪滋隐私部位",
+      "onboard_time": 1776607463,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1677471,
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1542788,
+      "num": 466745,
+      "word": "金莎晒结婚五金",
+      "onboard_time": 1776604102,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1493102,
       "num": 122031,
       "word": "王石",
@@ -787,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1446791,
-      "num": 1446791,
-      "word": "脱口秀演员被高压水枪滋隐私部位",
-      "onboard_time": 1776607463,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1441608,
       "num": 309950,
       "word": "乘风初舞台直播",
@@ -880,14 +896,6 @@
       "word": "罗志祥方否认猝死传闻",
       "onboard_time": 1776142582,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1393082,
-      "num": 466745,
-      "word": "金莎晒结婚五金",
-      "onboard_time": 1776604102,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1225,6 +1233,14 @@
       "onboard_time": 1776579140,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1209237,
+      "num": 1209237,
+      "word": "金像奖影帝梁家辉",
+      "onboard_time": 1776609442,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1207957,
@@ -2579,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 797014,
+      "num": 459270,
+      "word": "肖战我压力真的没有那么大",
+      "onboard_time": 1776605482,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796191,
       "num": 648187,
       "word": "谢娜演唱会门票秒罄",
@@ -2803,14 +2827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 762918,
-      "num": 459270,
-      "word": "肖战我压力真的没有那么大",
-      "onboard_time": 1776605482,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 762606,
       "num": 170114,
       "word": "迪丽热巴工作室 审美",
@@ -2825,14 +2841,6 @@
       "onboard_time": 1775481263,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 758593,
-      "num": 758593,
-      "word": "金像奖影帝梁家辉",
-      "onboard_time": 1776609442,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 757781,
@@ -4411,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581927,
+      "num": 581927,
+      "word": "zmjjkk长文回复粉丝",
+      "onboard_time": 1776609741,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 581646,
       "num": 581646,
       "word": "李纯马𬱖不办婚礼不拍婚纱照",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1775527460,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 547987,
-      "num": 547987,
-      "word": "金像奖影后廖子妤",
-      "onboard_time": 1776609504,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 547546,
@@ -7499,6 +7507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 408539,
+      "num": 356651,
+      "word": "杜华被雷军问还有哪些艺人的反应",
+      "onboard_time": 1776606502,
+      "rank": 23,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 408447,
       "num": 365825,
       "word": "我安慰人就阚清子这样",
@@ -9137,14 +9153,6 @@
       "onboard_time": 1775788039,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 356651,
-      "num": 356651,
-      "word": "杜华被雷军问还有哪些艺人的反应",
-      "onboard_time": 1776606502,
-      "rank": 23,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 356532,
@@ -11227,6 +11235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304104,
+      "num": 304104,
+      "word": "侯明昊曾舜晞是一个组合出道的",
+      "onboard_time": 1776605122,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303831,
       "num": 303831,
       "word": "鞠婧祎问看月鳞绮纪了吗",
@@ -11803,14 +11819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 288926,
-      "num": 288926,
-      "word": "侯明昊曾舜晞是一个组合出道的",
-      "onboard_time": 1776605122,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288882,
       "num": 288882,
       "word": "田曦薇逐玉庆功宴的发言",
@@ -11849,6 +11857,14 @@
       "onboard_time": 1775313864,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287871,
+      "num": 287871,
+      "word": "谢娜上张杰鸟巢演唱会小火车",
+      "onboard_time": 1776611182,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 287815,
@@ -13145,6 +13161,14 @@
       "onboard_time": 1776323240,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262379,
+      "num": 262379,
+      "word": "鹿晗好尊重本命年",
+      "onboard_time": 1776610882,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 262329,
@@ -15284,7 +15308,7 @@
     },
     {
       "raw_hot": 226130,
-      "num": 226130,
+      "num": 270909,
       "word": "高中生因操行分不合格等被劝退",
       "onboard_time": 1776606261,
       "rank": 35,
@@ -15449,6 +15473,14 @@
       "onboard_time": 1775731161,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223213,
+      "num": 206936,
+      "word": "姜涛瘦了很多",
+      "onboard_time": 1776610343,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 223136,
@@ -18171,14 +18203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188172,
-      "num": 188172,
-      "word": "zmjjkk长文回复粉丝",
-      "onboard_time": 1776609741,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188129,
       "num": 294836,
       "word": "超级巨星孙颖莎",
@@ -18232,6 +18256,14 @@
       "word": "皇马1比2拜仁",
       "onboard_time": 1775603600,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187495,
+      "num": 204238,
+      "word": "张雪机车比赛因红旗中断",
+      "onboard_time": 1776610702,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -45796,7 +45828,7 @@
     },
     {
       "raw_hot": 50859,
-      "num": 892012,
+      "num": 1235007,
       "word": "新农人玩转种菜黑科技",
       "onboard_time": 1776603803,
       "rank": 2,
@@ -46193,6 +46225,14 @@
       "onboard_time": 1775568144,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48410,
+      "num": 365259,
+      "word": "王星越为了一口非遗酸汤有多拼",
+      "onboard_time": 1776609863,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 48280,
@@ -47785,14 +47825,6 @@
       "onboard_time": 1775662823,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 36234,
-      "num": 237965,
-      "word": "王星越为了一口非遗酸汤有多拼",
-      "onboard_time": 1776609863,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 36186,
