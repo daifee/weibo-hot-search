@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776620597842,
+  "endTime": 1776621764144,
   "band_list": [
     {
       "raw_hot": 1778691,
@@ -443,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70033,
+      "num": 121035,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67258,
       "num": 191175,
       "word": "陈法拉金像奖红毯状态",
@@ -475,20 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54708,
-      "num": 121035,
-      "word": "男童被虐待致死凶手看到证据才承认",
-      "onboard_time": 1776618439,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53233,
       "num": 190848,
       "word": "张杰鸟巢唱完大庆功",
       "onboard_time": 1776603622,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52375,
+      "num": 120719,
+      "word": "机器人届也有自己的显眼包",
+      "onboard_time": 1776618618,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 51906,
@@ -523,12 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43387,
-      "num": 120719,
-      "word": "机器人届也有自己的显眼包",
-      "onboard_time": 1776618618,
+      "raw_hot": 36836,
+      "num": 114643,
+      "word": "埃弗顿vs利物浦",
+      "onboard_time": 1776620356,
       "rank": 43,
-      "category": "互联网"
+      "category": "体育"
     },
     {
       "raw_hot": 15469,
