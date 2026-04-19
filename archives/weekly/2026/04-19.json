@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776639887334,
+  "endTime": 1776642384280,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -8,6 +8,14 @@
       "word": "李雨桐被行拘",
       "onboard_time": 1776589221,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5377937,
+      "num": 233430,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1776640398,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666031,
+      "num": 267211,
+      "word": "今年5月将进入厄尔尼诺状态",
+      "onboard_time": 1776640518,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 664428,
       "num": 345339,
       "word": "虞书欣好辣",
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 632900,
-      "num": 427120,
+      "num": 623101,
       "word": "梁家辉5封金像奖影帝爆哭",
       "onboard_time": 1776612922,
       "rank": 22,
@@ -563,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586142,
+      "num": 265547,
+      "word": "陈赫晒鹿晗live图",
+      "onboard_time": 1776641601,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578889,
       "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
       "onboard_time": 1776598822,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575362,
+      "num": 575362,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1776640518,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 569425,
@@ -619,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529915,
+      "num": 529915,
+      "word": "酱园弄颗粒无收",
+      "onboard_time": 1776640518,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528983,
       "num": 206676,
       "word": "通勤最辛苦城市",
@@ -665,6 +705,14 @@
       "onboard_time": 1776521963,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498113,
+      "num": 231917,
+      "word": "一小时不到只花了六分钟",
+      "onboard_time": 1776640880,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 496389,
@@ -795,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450501,
+      "num": 263262,
+      "word": "薛之谦 李雨桐",
+      "onboard_time": 1776640758,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447535,
       "num": 447535,
       "word": "泰国泼水节疑有人向人嘴里射毒水",
@@ -833,6 +889,14 @@
       "onboard_time": 1776593781,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 432743,
+      "num": 768776,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 429849,
@@ -1083,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310798,
+      "num": 262812,
+      "word": "班主任回应12岁男孩遭9人群殴",
+      "onboard_time": 1776640637,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309619,
       "num": 273079,
       "word": "凌晨的徐艺洋简直是魔丸",
@@ -1107,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306580,
-      "num": 502333,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 304104,
       "num": 304104,
       "word": "侯明昊曾舜晞是一个组合出道的",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1776588681,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298037,
+      "num": 298037,
+      "word": "高中生因操行分不合格等被劝退",
+      "onboard_time": 1776606261,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297798,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1776562880,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271081,
+      "num": 271081,
+      "word": "美军武力拦截伊朗货船",
+      "onboard_time": 1776641479,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 269120,
@@ -1401,14 +1481,6 @@
       "onboard_time": 1776592282,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226319,
-      "num": 270909,
-      "word": "高中生因操行分不合格等被劝退",
-      "onboard_time": 1776606261,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225381,
@@ -1835,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160003,
+      "num": 138663,
+      "word": "刘宇宁收官哭了",
+      "onboard_time": 1776640518,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159189,
       "num": 209075,
       "word": "龚俊拍了刘宇宁唱天问",
@@ -1995,12 +2075,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131343,
-      "num": 79254,
+      "raw_hot": 136940,
+      "num": 230949,
       "word": "特朗普说若达成协议很可能去伊斯兰堡",
       "onboard_time": 1776619997,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131609,
+      "num": 245243,
+      "word": "程序员追不上机器人干脆开电瓶车跟",
+      "onboard_time": 1776638416,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 130886,
+      "num": 130886,
+      "word": "杜德伟金像奖最佳男配角",
+      "onboard_time": 1776640758,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 129745,
@@ -2017,6 +2113,14 @@
       "onboard_time": 1776556098,
       "rank": 16,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 128496,
+      "num": 128496,
+      "word": "特朗普称万斯不参加美伊复谈",
+      "onboard_time": 1776641479,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125634,
@@ -2171,11 +2275,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110770,
+      "num": 110770,
+      "word": "肖战听到围观睡觉的反应",
+      "onboard_time": 1776625274,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108630,
+      "num": 108630,
+      "word": "章子怡马丽陪跑",
+      "onboard_time": 1776642199,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 106146,
+      "num": 121035,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106011,
       "num": 162114,
       "word": "掘金1比0森林狼",
       "onboard_time": 1776556098,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105075,
+      "num": 105075,
+      "word": "NBA季后赛",
+      "onboard_time": 1776641479,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2203,6 +2339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96065,
+      "num": 96065,
+      "word": "何润东健身是不想输给外国艺人",
+      "onboard_time": 1776639978,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95706,
       "num": 323719,
       "word": "黄帝故里根脉郑州",
@@ -2227,12 +2371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92515,
-      "num": 92515,
-      "word": "肖战听到围观睡觉的反应",
-      "onboard_time": 1776625274,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 91820,
+      "num": 91820,
+      "word": "王一博比赛日下次再赛",
+      "onboard_time": 1776639618,
+      "rank": 40,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 89034,
@@ -2241,14 +2385,6 @@
       "onboard_time": 1776520942,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87916,
-      "num": 121035,
-      "word": "男童被虐待致死凶手看到证据才承认",
-      "onboard_time": 1776618439,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87260,
@@ -2289,6 +2425,14 @@
       "onboard_time": 1776505822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85339,
+      "num": 85339,
+      "word": "巴基斯坦伊斯兰堡红区全面封控",
+      "onboard_time": 1776635774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84923,
@@ -2363,12 +2507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72542,
-      "num": 89741,
-      "word": "程序员追不上机器人干脆开电瓶车跟",
-      "onboard_time": 1776638416,
-      "rank": 15,
-      "category": "互联网"
+      "raw_hot": 72670,
+      "num": 84983,
+      "word": "24岁女子坐6小时赢发呆比赛冠军",
+      "onboard_time": 1776624975,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72244,
@@ -2443,20 +2587,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65112,
-      "num": 78017,
-      "word": "24岁女子坐6小时赢发呆比赛冠军",
-      "onboard_time": 1776624975,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58930,
       "num": 79354,
       "word": "东部战区舰艇编队赴西太海域开展演训",
       "onboard_time": 1776624315,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 58505,
+      "num": 235545,
+      "word": "雷军回应第一次挥方格旗",
+      "onboard_time": 1776637936,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 58308,
@@ -2497,14 +2641,6 @@
       "onboard_time": 1776633914,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53354,
-      "num": 78305,
-      "word": "巴基斯坦伊斯兰堡红区全面封控",
-      "onboard_time": 1776635774,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53233,
@@ -2571,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47342,
-      "num": 77592,
-      "word": "雷军回应第一次挥方格旗",
-      "onboard_time": 1776637936,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 46376,
       "num": 157648,
       "word": "国产光纤爆单原因",
@@ -2593,14 +2721,6 @@
       "onboard_time": 1776537135,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43591,
-      "num": 72234,
-      "word": "王一博比赛日下次再赛",
-      "onboard_time": 1776639618,
-      "rank": 40,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 43466,
@@ -2707,6 +2827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26206,
+      "num": 686293,
+      "word": "150秒透视中国消费市场澎湃活力",
+      "onboard_time": 1776603622,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26136,
       "num": 228317,
       "word": "未来可能吃到粉色黄色红色蓝莓",
@@ -2761,14 +2889,6 @@
       "onboard_time": 1776567020,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 17991,
-      "num": 460936,
-      "word": "150秒透视中国消费市场澎湃活力",
-      "onboard_time": 1776603622,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17660,
