@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776598976967,
+  "endTime": 1776599953629,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1165829,
+      "num": 964021,
+      "word": "宗师 露脸",
+      "onboard_time": 1776597202,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1124373,
       "num": 397648,
       "word": "稚楚回应",
@@ -161,14 +169,6 @@
       "onboard_time": 1776590424,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 964021,
-      "num": 964021,
-      "word": "宗师 露脸",
-      "onboard_time": 1776597202,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 933509,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473126,
+      "num": 371333,
+      "word": "鹿晗黑色果然显瘦",
+      "onboard_time": 1776596422,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469477,
       "num": 469477,
       "word": "解放军凌晨4点管控日舰过航",
@@ -619,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 436965,
+      "num": 408676,
+      "word": "金像奖",
+      "onboard_time": 1776588561,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 435012,
       "num": 435012,
       "word": "仙逆",
@@ -643,28 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408676,
-      "num": 408676,
-      "word": "金像奖",
-      "onboard_time": 1776588561,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 408326,
-      "num": 371333,
-      "word": "鹿晗黑色果然显瘦",
-      "onboard_time": 1776596422,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405901,
       "num": 327620,
       "word": "AI让人越来越累",
       "onboard_time": 1776571340,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 405325,
+      "num": 302008,
+      "word": "梁晶晶称流产5次失去7个孩子",
+      "onboard_time": 1776598822,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 403377,
@@ -755,7 +763,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349275,
+      "raw_hot": 365306,
       "num": 349275,
       "word": "14天骨盆回正",
       "onboard_time": 1776597622,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301270,
+      "num": 301270,
+      "word": "现在都开始有人直播西天取经了",
+      "onboard_time": 1776588681,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297798,
       "num": 297798,
       "word": "马頔为了通告费亲嘴李纯知道吗",
@@ -913,14 +929,6 @@
       "onboard_time": 1776524181,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 286149,
-      "num": 279798,
-      "word": "现在都开始有人直播西天取经了",
-      "onboard_time": 1776588681,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 283011,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 266048,
-      "num": 275534,
+      "num": 303994,
       "word": "上海地铁回应一拉杆箱有血渍渗出",
       "onboard_time": 1776585320,
       "rank": 35,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1776576261,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252802,
+      "num": 393421,
+      "word": "男子在电诈园区开超市被判刑",
+      "onboard_time": 1776592883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252558,
@@ -1123,14 +1139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 224070,
-      "num": 393421,
-      "word": "男子在电诈园区开超市被判刑",
-      "onboard_time": 1776592883,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223594,
       "num": 308100,
       "word": "千万身家老板倾家荡产不敢告诉女儿",
@@ -1187,12 +1195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208363,
-      "num": 208363,
-      "word": "梁晶晶称流产5次失去7个孩子",
-      "onboard_time": 1776598822,
-      "rank": 37,
+      "raw_hot": 211410,
+      "num": 211410,
+      "word": "古天乐宣萱 一如既往的般配",
+      "onboard_time": 1776599661,
+      "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209121,
+      "num": 304991,
+      "word": "东部战区舰艇编队赴西太平洋演训",
+      "onboard_time": 1776599242,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 207617,
@@ -1435,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161458,
+      "num": 215923,
+      "word": "闽超",
+      "onboard_time": 1776599301,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160139,
       "num": 177945,
       "word": "刘德华年前已得知潘宏彬死讯",
@@ -1563,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139429,
+      "num": 139429,
+      "word": "突然明白了什么叫课题分离",
+      "onboard_time": 1776590543,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1776598582,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 124424,
-      "num": 124424,
-      "word": "突然明白了什么叫课题分离",
-      "onboard_time": 1776590543,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 123928,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1776575299,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116732,
+      "num": 116732,
+      "word": "MRC对战ZETA",
+      "onboard_time": 1776599780,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 116642,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1776568220,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94091,
+      "num": 402676,
+      "word": "伊斯兰堡两大酒店通知住客离店",
+      "onboard_time": 1776598162,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93820,
@@ -1995,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39249,
-      "num": 402676,
-      "word": "伊斯兰堡两大酒店通知住客离店",
-      "onboard_time": 1776598162,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33091,
       "num": 312528,
       "word": "机器人都跑出残影了",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1776545654,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26136,
+      "num": 228317,
+      "word": "未来可能吃到粉色黄色红色蓝莓",
+      "onboard_time": 1776599721,
+      "rank": 29,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 25592,
