@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776555865727,
+  "endTime": 1776556858412,
   "band_list": [
     {
       "raw_hot": 1330579,
@@ -27,28 +27,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 932081,
+      "num": 1149133,
+      "word": "日本已彻底撕掉伪装",
+      "onboard_time": 1776525202,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 840253,
+      "num": 167796,
+      "word": "日本",
+      "onboard_time": 1776555620,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 765043,
-      "num": 541889,
+      "num": 647897,
       "word": "日本驱逐舰过航台湾海峡取证画面",
       "onboard_time": 1776537255,
       "rank": 22,
       "category": "军事"
     },
     {
-      "raw_hot": 707769,
-      "num": 144558,
+      "raw_hot": 734373,
+      "num": 166732,
       "word": "何润东回应没骑马",
       "onboard_time": 1776554357,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690122,
-      "num": 970791,
-      "word": "日本已彻底撕掉伪装",
-      "onboard_time": 1776525202,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 639262,
@@ -80,6 +88,14 @@
       "word": "何润东霸王全妆",
       "onboard_time": 1776517400,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 543733,
+      "num": 166225,
+      "word": "谢娜晒和马嘉祺聊天记录",
+      "onboard_time": 1776555557,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511637,
+      "num": 851501,
+      "word": "解放军护卫舰已随时准备开火",
+      "onboard_time": 1776526641,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 498239,
       "num": 223463,
       "word": "梅婷女儿名字叫曾慕梅",
@@ -131,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471942,
-      "num": 471942,
-      "word": "解放军护卫舰已随时准备开火",
-      "onboard_time": 1776526641,
-      "rank": 31,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 476582,
+      "num": 159914,
+      "word": "女儿说我爸爸是刘德华没人相信",
+      "onboard_time": 1776554057,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 466867,
@@ -145,6 +169,14 @@
       "onboard_time": 1776518240,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463195,
+      "num": 463195,
+      "word": "日本媒体报道中国绝大多数是负面",
+      "onboard_time": 1776554297,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 457300,
@@ -163,8 +195,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 413247,
+      "num": 160973,
+      "word": "你是真的火了李小冉",
+      "onboard_time": 1776555557,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403377,
-      "num": 143978,
+      "num": 158144,
       "word": "六姑姑要求与侄女分百万遗产胜诉",
       "onboard_time": 1776554236,
       "rank": 11,
@@ -179,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374457,
-      "num": 138108,
-      "word": "女儿说我爸爸是刘德华没人相信",
-      "onboard_time": 1776554057,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 393021,
+      "num": 165798,
+      "word": "女子产后被男友起诉退彩礼和分娩费",
+      "onboard_time": 1776556098,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373737,
@@ -203,28 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338861,
+      "num": 338861,
+      "word": "光纤价格暴涨650%",
+      "onboard_time": 1776554177,
+      "rank": 12,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 338515,
+      "num": 164782,
+      "word": "张雪机车一脚压线把名次压赚了",
+      "onboard_time": 1776554236,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323994,
       "num": 223170,
       "word": "内耗人的终极解药",
       "onboard_time": 1776509781,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305897,
-      "num": 305897,
-      "word": "日本媒体报道中国绝大多数是负面",
-      "onboard_time": 1776554297,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 301657,
-      "num": 143506,
-      "word": "光纤价格暴涨650%",
-      "onboard_time": 1776554177,
-      "rank": 12,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 291913,
@@ -275,12 +315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 243331,
-      "num": 142110,
-      "word": "张雪机车一脚压线把名次压赚了",
-      "onboard_time": 1776554236,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 238925,
+      "num": 157408,
+      "word": "快递员上门取件摔坏2.4万蓝宝石",
+      "onboard_time": 1776555196,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 236850,
@@ -297,6 +337,30 @@
       "onboard_time": 1776539595,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235037,
+      "num": 156116,
+      "word": "酒店回访电话暴露开房致女子离婚",
+      "onboard_time": 1776556278,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234819,
+      "num": 234819,
+      "word": "攻玉 辞演",
+      "onboard_time": 1776555798,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225381,
+      "num": 225381,
+      "word": "风扇乱流 灭蚊子",
+      "onboard_time": 1776545473,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 224866,
@@ -363,22 +427,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 191603,
-      "num": 191603,
-      "word": "风扇乱流 灭蚊子",
-      "onboard_time": 1776545473,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 184018,
-      "num": 140717,
-      "word": "谢娜晒和马嘉祺聊天记录",
-      "onboard_time": 1776555557,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179068,
       "num": 209474,
       "word": "樊振东波尔日内瓦旅行",
@@ -395,12 +443,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175500,
+      "num": 152155,
+      "word": "低精力 杏仁核长期应激",
+      "onboard_time": 1776556517,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171936,
       "num": 178276,
       "word": "王嘉尔在推特怼黑粉",
       "onboard_time": 1776521003,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168125,
+      "num": 168125,
+      "word": "时代少年团走了没通知一下张杰吗",
+      "onboard_time": 1776554297,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 160139,
@@ -451,15 +515,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146008,
-      "num": 136439,
-      "word": "快递员上门取件摔坏2.4万蓝宝石",
-      "onboard_time": 1776555196,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 143839,
+      "raw_hot": 148431,
       "num": 209356,
       "word": "台媒称男神肖战出演最美书生",
       "onboard_time": 1776520102,
@@ -475,20 +531,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133351,
-      "num": 135609,
-      "word": "日本",
-      "onboard_time": 1776555620,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 138142,
+      "num": 149159,
+      "word": "吴佳尼说赵丽颖没有医美",
+      "onboard_time": 1776554117,
+      "rank": 31,
+      "category": "艺人"
     },
     {
-      "raw_hot": 130278,
-      "num": 135131,
-      "word": "时代少年团走了没通知一下张杰吗",
-      "onboard_time": 1776554297,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 129745,
+      "num": 147446,
+      "word": "郭富城庆祝和方媛结婚九周年",
+      "onboard_time": 1776554117,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129026,
+      "num": 162975,
+      "word": "300个机器人跑半马",
+      "onboard_time": 1776556098,
+      "rank": 16,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 125634,
+      "num": 146550,
+      "word": "何润东在苏超打破护不住魔咒",
+      "onboard_time": 1776555857,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 120684,
@@ -499,20 +571,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118096,
-      "num": 133121,
-      "word": "郭富城庆祝和方媛结婚九周年",
-      "onboard_time": 1776554117,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117686,
       "num": 208692,
       "word": "日本迫切出兵海外",
       "onboard_time": 1776524542,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116642,
+      "num": 207364,
+      "word": "男子养龙虾月赔10万破防抑郁",
+      "onboard_time": 1776531619,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116618,
+      "num": 142618,
+      "word": "月鳞绮纪大结局全员迎战",
+      "onboard_time": 1776556158,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115958,
@@ -524,7 +604,7 @@
     },
     {
       "raw_hot": 112865,
-      "num": 132454,
+      "num": 140380,
       "word": "王一博GT3排位赛",
       "onboard_time": 1776553218,
       "rank": 40,
@@ -539,19 +619,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 107874,
-      "num": 207364,
-      "word": "男子养龙虾月赔10万破防抑郁",
-      "onboard_time": 1776531619,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 106011,
+      "num": 162114,
+      "word": "掘金1比0森林狼",
+      "onboard_time": 1776556098,
+      "rank": 17,
+      "category": "体育"
     },
     {
-      "raw_hot": 107406,
-      "num": 130975,
-      "word": "吴佳尼说赵丽颖没有医美",
-      "onboard_time": 1776554117,
-      "rank": 31,
+      "raw_hot": 102834,
+      "num": 138586,
+      "word": "王一博把ChinaGT干成了全球顶级赛事",
+      "onboard_time": 1776556819,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -561,6 +641,14 @@
       "onboard_time": 1776534019,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97684,
+      "num": 197576,
+      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
+      "onboard_time": 1776533536,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96157,
@@ -635,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83500,
+      "num": 151891,
+      "word": "纽北事故",
+      "onboard_time": 1776556639,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79213,
       "num": 123024,
       "word": "五一航班为啥出现取消潮",
@@ -651,20 +747,12 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 74689,
-      "num": 121491,
-      "word": "攻玉 辞演",
-      "onboard_time": 1776555798,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 73280,
-      "num": 197576,
-      "word": "蓝莓摊泼水节被洗劫一空摊主发声",
-      "onboard_time": 1776533536,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 76824,
+      "num": 161610,
+      "word": "2026机器人半马",
+      "onboard_time": 1776556098,
+      "rank": 18,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 72244,
@@ -740,7 +828,7 @@
     },
     {
       "raw_hot": 32023,
-      "num": 647714,
+      "num": 687966,
       "word": "生态文旅激活消费新活力",
       "onboard_time": 1776520223,
       "rank": 2,
