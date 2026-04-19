@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 16:12:03
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/19 17:14:38
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 丝芭总裁王子杰去世（热度：9017754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+李雨桐被行拘（热度：7211673）
 </a>
 </li>
 
@@ -939,6 +945,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BD%A6%E8%BD%AE%2085105%23" target="weibo">
+王一博车轮 85105（热度：1179053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A1%B6%E5%B8%85%E7%94%B7%E6%BC%94%E5%91%98%E8%A2%AB%E5%AF%8C%E5%A9%86%E5%A4%A7%E9%97%B9%E7%89%87%E5%9C%BA%23" target="weibo">
 曝顶帅男演员被富婆大闹片场（热度：1174653）
 </a>
@@ -1013,12 +1025,6 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E4%BF%A9%E6%98%AF%E8%A6%81%E6%AF%81%E4%BA%86%E8%8A%92%E6%9E%9C%E5%90%97%23" target="weibo">
 你们俩是要毁了芒果吗（热度：1137928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BD%A6%E8%BD%AE%2085105%23" target="weibo">
-王一博车轮 85105（热度：1137310）
 </a>
 </li>
 
@@ -1103,6 +1109,12 @@ jisoo的哥哥已婚（热度：1121209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%93%9D%E8%8E%93%E5%BD%93%E6%B6%88%E7%82%8E%E8%8D%AF%E5%90%83%23" target="weibo">
 把蓝莓当消炎药吃（热度：1091601）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+歌手2026（热度：1086133）
 </a>
 </li>
 
@@ -1401,12 +1413,6 @@ Lululemon被调查（热度：1020109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
-歌手2026（热度：923965）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E5%BA%84%E6%B3%95%E5%9B%A2%23" target="weibo">
 心疼庄法团（热度：921414）
 </a>
@@ -1571,6 +1577,12 @@ IMSB人格（热度：892803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%98%B4%E4%BA%B2%E7%83%82%E4%BA%86%E9%83%BD%E6%8B%8D%E4%B8%8D%E5%87%BA%E8%BF%99%E6%A0%B7%E6%B1%B9%E6%B6%8C%E7%9A%84%E7%88%B1%E6%84%8F%23" target="weibo">
 内娱嘴亲烂了都拍不出这样汹涌的爱意（热度：882300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E4%BA%9A%E8%A3%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+穿普拉达的女王2亚裔争议（热度：879294）
 </a>
 </li>
 
@@ -2213,6 +2225,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E8%AF%B4%E5%90%91%E5%A4%AA%E6%8B%BF%E7%83%9F%E5%A4%B4%E7%83%AB%E5%A5%B9%23" target="weibo">
 向华强女儿说向太拿烟头烫她（热度：715374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E5%81%9A%E7%83%AD%E7%8E%9B%E5%90%89%E8%84%B8%E8%B6%8A%E6%89%93%E8%B6%8A%E8%96%84%23" target="weibo">
+沈梦辰连续4年做热玛吉脸越打越薄（热度：714401）
 </a>
 </li>
 
@@ -2967,6 +2985,18 @@ CT的辐射每一次都是带来隐患（热度：687071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%20%E6%9C%89%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%90%B5%E6%9E%B6%E7%9A%84%E8%8A%82%E7%9B%AE%23" target="weibo">
+孙丞潇 有没有不吵架的节目（热度：602066）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%84%BF%E5%9B%9E%E9%9F%A9%23" target="weibo">
+韩警方称骚扰中国游客日本男子愿回韩（热度：600508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E4%B8%BE%E6%97%A5%E6%9C%9F%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%BE%9F%E8%B0%A3%23" target="weibo">
 罗志祥举日期为自己辟谣（热度：600032）
 </a>
@@ -3077,12 +3107,6 @@ CT的辐射每一次都是带来隐患（热度：687071）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E7%A6%81%E7%83%9F%E4%BB%851%E5%A4%A9%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%90%B8%E7%83%9F%E8%A2%AB%E6%8B%8D%23" target="weibo">
 高铁站禁烟仅1天男子当众吸烟被拍（热度：591032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E4%BA%9A%E8%A3%94%E4%BA%89%E8%AE%AE%23" target="weibo">
-穿普拉达的女王2亚裔争议（热度：590438）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ NCT成员回复李马克（热度：381475）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
 淘宝闪购回应被处罚（热度：381202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%E4%B8%BA%E4%BD%95%E9%80%894%E6%9C%8817%E6%97%A5%23" target="weibo">
-日本军舰过航台海为何选4月17日（热度：380948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%A4%AA%E8%99%90%E4%BA%86%23" target="weibo">
-浪姐太虐了（热度：380789）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%23" target="weibo">
-凡人修仙传（热度：380506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%20%E7%81%AB%E7%AE%AD%23" target="weibo">
-杜兰特 火箭（热度：380426）
 </a>
 </li>
 
