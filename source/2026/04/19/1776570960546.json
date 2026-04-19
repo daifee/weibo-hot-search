@@ -1,0 +1,410 @@
+{
+  "runTime": 1776570960546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850291,
+        "num": 1136046,
+        "word": "花少8 南美",
+        "onboard_time": 1776566900,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845206,
+        "num": 845206,
+        "word": "宇树机器人打破人类1500米世界纪录",
+        "onboard_time": 1776562341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62836,
+        "num": 767174,
+        "word": "五一列车增开",
+        "onboard_time": 1776567320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1279099,
+        "num": 760761,
+        "word": "谢娜晒和马嘉祺聊天记录",
+        "onboard_time": 1776555557,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 728823,
+        "num": 728823,
+        "word": "睡觉时被空调砸到头了",
+        "onboard_time": 1776568939,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 598040,
+        "num": 598040,
+        "word": "宇树H1机器人被担架抬离赛道",
+        "onboard_time": 1776567858,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 547005,
+        "num": 547005,
+        "word": "低精力 杏仁核长期应激",
+        "onboard_time": 1776556517,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429877,
+        "num": 429877,
+        "word": "宇树H1机器人半马赛场终点累倒",
+        "onboard_time": 1776565040,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428568,
+        "num": 428568,
+        "word": "杨紫新剧老年妆",
+        "onboard_time": 1776567320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380426,
+        "num": 380426,
+        "word": "杜兰特 火箭",
+        "onboard_time": 1776569539,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2096727,
+        "num": 380100,
+        "word": "何润东狂接商务",
+        "onboard_time": 1776562160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1344288,
+        "num": 379786,
+        "word": "曝歌手2026阵容",
+        "onboard_time": 1776557779,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722485,
+        "num": 379708,
+        "word": "酒店回访电话暴露开房致女子离婚",
+        "onboard_time": 1776556278,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378368,
+        "num": 378368,
+        "word": "火箭vs湖人",
+        "onboard_time": 1776558799,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1036983,
+        "num": 367310,
+        "word": "攻玉 辞演",
+        "onboard_time": 1776555798,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353458,
+        "num": 353458,
+        "word": "解放军凌晨4点管控日舰过航",
+        "onboard_time": 1776560300,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 785236,
+        "num": 350056,
+        "word": "何润东不让老婆接受伤害性医疗干预",
+        "onboard_time": 1776557298,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756665,
+        "num": 346842,
+        "word": "你是真的火了李小冉",
+        "onboard_time": 1776555557,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296618,
+        "num": 344268,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1776569900,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270825,
+        "num": 338895,
+        "word": "日本已彻底撕掉伪装",
+        "onboard_time": 1776525202,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 615912,
+        "num": 337732,
+        "word": "虞书欣好辣",
+        "onboard_time": 1776558200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550929,
+        "num": 333182,
+        "word": "女子产后被男友起诉退彩礼和分娩费",
+        "onboard_time": 1776556098,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331338,
+        "num": 331338,
+        "word": "刘浩存走完红毯拧裙子上的水",
+        "onboard_time": 1776568880,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78136,
+        "num": 323719,
+        "word": "黄帝故里根脉郑州",
+        "onboard_time": 1776568220,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322266,
+        "num": 322266,
+        "word": "网传花少8的阵容",
+        "onboard_time": 1776558861,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318810,
+        "num": 318810,
+        "word": "爱奇艺世界大会阵容",
+        "onboard_time": 1776570439,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227917,
+        "num": 227917,
+        "word": "荣耀机器人首次参赛就夺冠",
+        "onboard_time": 1776562761,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216990,
+        "num": 216990,
+        "word": "日舰闯台海这天中国人不会忘",
+        "onboard_time": 1776563958,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292515,
+        "num": 216151,
+        "word": "凌晨的徐艺洋简直是魔丸",
+        "onboard_time": 1776562400,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214272,
+        "num": 214272,
+        "word": "纽北事故",
+        "onboard_time": 1776556639,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295315,
+        "num": 214262,
+        "word": "谁把张凌赫弄天上去了",
+        "onboard_time": 1776565280,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282618,
+        "num": 214234,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1776564140,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83907,
+        "num": 214221,
+        "word": "300个机器人跑半马",
+        "onboard_time": 1776556098,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241279,
+        "num": 214192,
+        "word": "这一秒过火野狗骨头 对打",
+        "onboard_time": 1776562880,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214183,
+        "num": 214183,
+        "word": "官方通报卸沙现场出现一具男尸",
+        "onboard_time": 1776570140,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205596,
+        "num": 205596,
+        "word": "南京灵连夜改名南京赢",
+        "onboard_time": 1776568220,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203431,
+        "num": 203431,
+        "word": "苏超南京队赞助商ip连夜改名",
+        "onboard_time": 1776569781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 200159,
+        "word": "詹姆斯创季后赛单节助攻新高",
+        "onboard_time": 1776568100,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196295,
+        "num": 196295,
+        "word": "54岁女子参与卖淫被捕",
+        "onboard_time": 1776559160,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "王俊凯认真开会的王理事",
+        "onboard_time": 1776561501,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174858,
+        "num": 174858,
+        "word": "女儿说我爸爸是刘德华没人相信",
+        "onboard_time": 1776554057,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173420,
+        "num": 173420,
+        "word": "女子2年胖20斤常感疲累确诊甲减",
+        "onboard_time": 1776560120,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171167,
+        "num": 171167,
+        "word": "20岁男生摆摊养6弟妹父母又生娃",
+        "onboard_time": 1776557659,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165409,
+        "num": 165409,
+        "word": "王者荣耀爆料",
+        "onboard_time": 1776570200,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157283,
+        "num": 162321,
+        "word": "光纤价格暴涨650%",
+        "onboard_time": 1776554177,
+        "rank": 44,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 73333,
+        "num": 161452,
+        "word": "2026机器人半马",
+        "onboard_time": 1776556098,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70055,
+        "num": 161375,
+        "word": "北半马机器人不语一味闷头跑",
+        "onboard_time": 1776565759,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161303,
+        "num": 161303,
+        "word": "王一博把ChinaGT干成了全球顶级赛事",
+        "onboard_time": 1776556819,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46376,
+        "num": 157648,
+        "word": "国产光纤爆单原因",
+        "onboard_time": 1776557420,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41529,
+        "num": 157465,
+        "word": "雷军直播测续航变山东文旅安利",
+        "onboard_time": 1776560841,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}

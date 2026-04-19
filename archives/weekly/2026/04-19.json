@@ -1,10 +1,10 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776569523813,
+  "endTime": 1776570960546,
   "band_list": [
     {
       "raw_hot": 2389092,
-      "num": 343116,
+      "num": 380100,
       "word": "何润东狂接商务",
       "onboard_time": 1776562160,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1423652,
-      "num": 332611,
+      "num": 379786,
       "word": "曝歌手2026阵容",
       "onboard_time": 1776557779,
       "rank": 11,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 984618,
-      "num": 320230,
+      "raw_hot": 1036983,
+      "num": 367310,
       "word": "攻玉 辞演",
       "onboard_time": 1776555798,
       "rank": 46,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 894595,
-      "num": 283071,
+      "num": 350056,
       "word": "何润东不让老婆接受伤害性医疗干预",
       "onboard_time": 1776557298,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 850291,
+      "num": 1136046,
+      "word": "花少8 南美",
+      "onboard_time": 1776566900,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 840253,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 815381,
-      "num": 310548,
+      "num": 346842,
       "word": "你是真的火了李小冉",
       "onboard_time": 1776555557,
       "rank": 19,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 772081,
-      "num": 329560,
+      "num": 379708,
       "word": "酒店回访电话暴露开房致女子离婚",
       "onboard_time": 1776556278,
       "rank": 25,
@@ -123,14 +131,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 754643,
-      "num": 820304,
-      "word": "花少8 南美",
-      "onboard_time": 1776566900,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 734373,
       "num": 166732,
       "word": "何润东回应没骑马",
@@ -139,8 +139,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728823,
+      "num": 728823,
+      "word": "睡觉时被空调砸到头了",
+      "onboard_time": 1776568939,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 664428,
-      "num": 274032,
+      "num": 337732,
       "word": "虞书欣好辣",
       "onboard_time": 1776558200,
       "rank": 20,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 626029,
-      "num": 273999,
+      "num": 333182,
       "word": "女子产后被男友起诉退彩礼和分娩费",
       "onboard_time": 1776556098,
       "rank": 13,
@@ -177,6 +185,14 @@
       "onboard_time": 1776516623,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598040,
+      "num": 598040,
+      "word": "宇树H1机器人被担架抬离赛道",
+      "onboard_time": 1776567858,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 551244,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 441767,
-      "num": 273520,
+      "num": 322266,
       "word": "网传花少8的阵容",
       "onboard_time": 1776558861,
       "rank": 23,
@@ -337,6 +353,14 @@
       "onboard_time": 1776526402,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380426,
+      "num": 380426,
+      "word": "杜兰特 火箭",
+      "onboard_time": 1776569539,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 373737,
@@ -387,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331338,
+      "num": 331338,
+      "word": "刘浩存走完红毯拧裙子上的水",
+      "onboard_time": 1776568880,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323994,
       "num": 223170,
       "word": "内耗人的终极解药",
       "onboard_time": 1776509781,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318810,
+      "num": 318810,
+      "word": "爱奇艺世界大会阵容",
+      "onboard_time": 1776570439,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 309619,
@@ -409,6 +449,14 @@
       "onboard_time": 1776562761,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 296618,
+      "num": 344268,
+      "word": "湖人战胜火箭",
+      "onboard_time": 1776569900,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 291913,
@@ -457,14 +505,6 @@
       "onboard_time": 1776562880,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257193,
-      "num": 257193,
-      "word": "刘浩存走完红毯拧裙子上的水",
-      "onboard_time": 1776568880,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 252558,
@@ -547,20 +587,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217086,
-      "num": 217086,
-      "word": "睡觉时被空调砸到头了",
-      "onboard_time": 1776568939,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216657,
       "num": 272498,
       "word": "女子2年胖20斤常感疲累确诊甲减",
       "onboard_time": 1776560120,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214183,
+      "num": 214183,
+      "word": "官方通报卸沙现场出现一具男尸",
+      "onboard_time": 1776570140,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 207617,
@@ -579,12 +619,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205596,
+      "num": 205596,
+      "word": "南京灵连夜改名南京赢",
+      "onboard_time": 1776568220,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204374,
       "num": 204374,
       "word": "王俊凯认真开会的王理事",
       "onboard_time": 1776561501,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203431,
+      "num": 203431,
+      "word": "苏超南京队赞助商ip连夜改名",
+      "onboard_time": 1776569781,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200159,
+      "num": 200159,
+      "word": "詹姆斯创季后赛单节助攻新高",
+      "onboard_time": 1776568100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 199962,
@@ -651,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171167,
+      "num": 171167,
+      "word": "20岁男生摆摊养6弟妹父母又生娃",
+      "onboard_time": 1776557659,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168125,
       "num": 168125,
       "word": "时代少年团走了没通知一下张杰吗",
@@ -667,20 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164742,
-      "num": 164742,
-      "word": "詹姆斯创季后赛单节助攻新高",
-      "onboard_time": 1776568100,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 164353,
-      "num": 164353,
-      "word": "20岁男生摆摊养6弟妹父母又生娃",
-      "onboard_time": 1776557659,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 165409,
+      "num": 165409,
+      "word": "王者荣耀爆料",
+      "onboard_time": 1776570200,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 160139,
@@ -705,14 +769,6 @@
       "onboard_time": 1776509181,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155460,
-      "num": 287973,
-      "word": "宇树H1机器人被担架抬离赛道",
-      "onboard_time": 1776567858,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 154015,
@@ -777,14 +833,6 @@
       "onboard_time": 1776554117,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135519,
-      "num": 135519,
-      "word": "南京灵连夜改名南京赢",
-      "onboard_time": 1776568220,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 129745,
@@ -900,7 +948,7 @@
     },
     {
       "raw_hot": 95706,
-      "num": 273669,
+      "num": 323719,
       "word": "黄帝故里根脉郑州",
       "onboard_time": 1776568220,
       "rank": 22,
@@ -1011,12 +1059,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62495,
-      "num": 135518,
+      "raw_hot": 70055,
+      "num": 161375,
       "word": "北半马机器人不语一味闷头跑",
       "onboard_time": 1776565759,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62836,
+      "num": 803429,
+      "word": "五一列车增开",
+      "onboard_time": 1776567320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58107,
@@ -1043,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55998,
-      "num": 803429,
-      "word": "五一列车增开",
-      "onboard_time": 1776567320,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52746,
       "num": 224060,
       "word": "雷军说无意做穿搭博主",
@@ -1059,8 +1107,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45561,
-      "num": 135385,
+      "raw_hot": 46376,
+      "num": 157648,
       "word": "国产光纤爆单原因",
       "onboard_time": 1776557420,
       "rank": 47,
@@ -1083,20 +1131,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 41529,
+      "num": 157465,
+      "word": "雷军直播测续航变山东文旅安利",
+      "onboard_time": 1776560841,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39254,
       "num": 68148,
       "word": "张雪机车回应首回合第4",
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36930,
-      "num": 135333,
-      "word": "雷军直播测续航变山东文旅安利",
-      "onboard_time": 1776560841,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 32023,
@@ -1182,6 +1230,9 @@
   "hotgov_list": [
     {
       "word": "#习近平谈政绩观#"
+    },
+    {
+      "word": "#总书记引领强国之路#"
     }
   ]
 }
