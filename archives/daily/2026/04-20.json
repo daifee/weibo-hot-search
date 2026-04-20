@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776684334557,
+  "endTime": 1776689246772,
   "band_list": [
     {
       "raw_hot": 12032188,
@@ -43,6 +43,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 2931052,
+      "num": 364024,
+      "word": "19岁女孩挪用1700万当榜一大姐",
+      "onboard_time": 1776686301,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2708776,
       "num": 2708776,
       "word": "未授权AI艺人",
@@ -75,11 +83,27 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1818071,
+      "num": 363710,
+      "word": "田曦薇 想跑路可以直说",
+      "onboard_time": 1776684321,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1778691,
       "num": 391576,
       "word": "陈赫",
       "onboard_time": 1776617298,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1763090,
+      "num": 914726,
+      "word": "曝王楚然早就融了AI",
+      "onboard_time": 1776680002,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -97,14 +121,6 @@
       "onboard_time": 1776604102,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1598227,
-      "num": 914726,
-      "word": "曝王楚然早就融了AI",
-      "onboard_time": 1776680002,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1588740,
@@ -291,6 +307,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 763170,
+      "num": 914753,
+      "word": "老人打赏花330万却交不起15元电费",
+      "onboard_time": 1776683661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758666,
+      "num": 358494,
+      "word": "金智秀方回应哥哥家暴争议",
+      "onboard_time": 1776684802,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753760,
       "num": 335935,
       "word": "金像奖影帝梁家辉",
@@ -385,6 +417,14 @@
       "onboard_time": 1776664040,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618125,
+      "num": 348083,
+      "word": "云旗郝熠然舞蹈练习照",
+      "onboard_time": 1776686962,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 616841,
@@ -579,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484385,
+      "num": 346517,
+      "word": "AI版成何体统逐玉",
+      "onboard_time": 1776685460,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462171,
       "num": 778491,
       "word": "长期使用空气炸锅的人都怎么样了",
@@ -643,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418734,
+      "num": 346323,
+      "word": "叶祖新的脸怎么了",
+      "onboard_time": 1776687562,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417761,
       "num": 943403,
       "word": "中方回应美国截停中国驶往伊朗油轮",
@@ -673,6 +729,14 @@
       "onboard_time": 1776665902,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407471,
+      "num": 407471,
+      "word": "爱奇艺顶级IP赚了118亿",
+      "onboard_time": 1776686421,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 402334,
@@ -795,6 +859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366701,
+      "num": 914835,
+      "word": "逐玉的成功在于第三集续看率95%",
+      "onboard_time": 1776679943,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361151,
+      "num": 361151,
+      "word": "各国网民线上嘲讽日本人",
+      "onboard_time": 1776685341,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 359318,
       "num": 286884,
       "word": "折月亮首发预告",
@@ -825,6 +905,14 @@
       "onboard_time": 1776669023,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347081,
+      "num": 347081,
+      "word": "持股市值不到7万元成第8大股东",
+      "onboard_time": 1776687321,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 345871,
@@ -963,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304581,
+      "num": 304581,
+      "word": "郭富城买了让女友痛哭流涕的礼物",
+      "onboard_time": 1776688582,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301648,
       "num": 551336,
       "word": "方博以哈萨克斯坦球员身份注册WTT",
@@ -1067,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264520,
-      "num": 914835,
-      "word": "逐玉的成功在于第三集续看率95%",
-      "onboard_time": 1776679943,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264513,
       "num": 310458,
       "word": "华为Pura90超清20倍长焦视频",
@@ -1121,6 +1209,14 @@
       "onboard_time": 1776660682,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 242458,
+      "num": 242458,
+      "word": "易梦玲是瘦了还是do脸了",
+      "onboard_time": 1776685221,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 239924,
@@ -1195,6 +1291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 220935,
+      "num": 220935,
+      "word": "于和伟工作室否认签约AI授权",
+      "onboard_time": 1776687622,
+      "rank": 45,
+      "category": "剧集,互联网"
+    },
+    {
       "raw_hot": 220514,
       "num": 333574,
       "word": "Gemini能登顶老君山吗",
@@ -1212,7 +1316,7 @@
     },
     {
       "raw_hot": 219214,
-      "num": 228364,
+      "num": 306851,
       "word": "华为非凡大师女表一分钟全部售罄",
       "onboard_time": 1776681801,
       "rank": 37,
@@ -1315,12 +1419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199459,
+      "num": 249941,
+      "word": "婆婆守寡多年想找老伴儿媳发声",
+      "onboard_time": 1776686121,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 195028,
       "num": 398341,
       "word": "伊朗军方晒导弹和无人机库存",
       "onboard_time": 1776663980,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 194801,
+      "num": 245092,
+      "word": "19岁女孩挪用1700万打赏或判十年以上",
+      "onboard_time": 1776686301,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191859,
@@ -1395,8 +1515,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180287,
-      "num": 180287,
+      "raw_hot": 182033,
+      "num": 182033,
       "word": "偶遇张杰谢娜一家去天安门",
       "onboard_time": 1776680121,
       "rank": 48,
@@ -1473,6 +1593,14 @@
       "onboard_time": 1776632416,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161905,
+      "num": 365927,
+      "word": "BLG对战iG",
+      "onboard_time": 1776687861,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 160879,
@@ -1747,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96481,
+      "num": 354303,
+      "word": "十二星座本周好运tips",
+      "onboard_time": 1776684382,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96284,
       "num": 96284,
       "word": "李小冉疑回应退出浪姐",
@@ -1811,20 +1947,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83562,
+      "num": 347003,
+      "word": "全新坦克700不卖产品卖向往",
+      "onboard_time": 1776686721,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83185,
       "num": 284637,
       "word": "数万日本民众集会高喊不要战争",
       "onboard_time": 1776614660,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 77158,
-      "num": 914753,
-      "word": "老人打赏花330万却交不起15元电费",
-      "onboard_time": 1776683661,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75053,
@@ -1891,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64532,
+      "num": 346661,
+      "word": "被大众云栖智舱狠狠圈粉了",
+      "onboard_time": 1776688641,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63500,
       "num": 342220,
       "word": "姆巴佩有新队友了",
@@ -1903,6 +2047,14 @@
       "num": 396705,
       "word": "多平台订购火车票功能异常",
       "onboard_time": 1776657200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61948,
+      "num": 352327,
+      "word": "在韩遭日籍男子骚扰女生再发声",
+      "onboard_time": 1776688402,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -2124,6 +2276,9 @@
     },
     {
       "word": "#总书记引领航天强国建设#"
+    },
+    {
+      "word": "#习近平同沙特王储兼首相穆罕默德通电话#"
     }
   ]
 }

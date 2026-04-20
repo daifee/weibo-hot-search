@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776684334557,
+  "endTime": 1776689246772,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1363,6 +1363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2931052,
+      "num": 364024,
+      "word": "19岁女孩挪用1700万当榜一大姐",
+      "onboard_time": 1776686301,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2927069,
       "num": 2927069,
       "word": "Bin是世一上",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767355762,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2032182,
-      "num": 162079,
-      "word": "韦德",
-      "onboard_time": 1768408280,
-      "rank": 10,
-      "category": "体育,艺人"
     }
   ],
   "hotgov_list": [
