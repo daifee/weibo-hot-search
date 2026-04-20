@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 07:09:47
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 07:53:47
 </p>
 </blockquote>
 <p>
@@ -1467,6 +1467,12 @@ sbti人格大全（热度：2397402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23" target="weibo">
+库克不再担任苹果CEO（热度：2334758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%A6%86%E7%82%B8%E9%B8%A1%E8%85%BF%23" target="weibo">
 临榆炸鸡腿（热度：2304718）
 </a>
@@ -1805,12 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%A4%A9%E6%8A%96%E9%9F%B3%E8%A2%AB%E7%BD%9A35%E4%BA%BF%23" target="weibo">
 拼多多美团京东淘天抖音被罚35亿（热度：2046414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%B9%E6%85%A7%E9%93%B6%E7%89%8C%23" target="weibo">
-李方慧银牌（热度：2043291）
 </a>
 </li>
 

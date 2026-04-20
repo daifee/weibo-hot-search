@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776726587580,
+  "endTime": 1776729227112,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2334758,
+      "num": 2334758,
+      "word": "库克不再担任苹果CEO",
+      "onboard_time": 1776726618,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2270618,
       "num": 467571,
       "word": "郭富城买了让女友痛哭流涕的礼物",
@@ -209,6 +217,14 @@
       "onboard_time": 1776672623,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1513409,
+      "num": 234707,
+      "word": "李小冉说我50了根本记不住",
+      "onboard_time": 1776727221,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1423652,
@@ -907,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625412,
+      "num": 233615,
+      "word": "鹿晗工作室",
+      "onboard_time": 1776727399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618125,
       "num": 348083,
       "word": "云旗郝熠然舞蹈练习照",
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 515177,
-      "num": 223597,
+      "num": 232832,
       "word": "五一航班大面积取消",
       "onboard_time": 1776496760,
       "rank": 24,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454784,
+      "num": 569847,
+      "word": "爱奇艺综艺全面夯爆",
+      "onboard_time": 1776699980,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453821,
       "num": 392904,
       "word": "李雨桐爆料薛之谦被拘谁该颤抖",
@@ -1456,14 +1488,6 @@
       "word": "网传花少8的阵容",
       "onboard_time": 1776558861,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 438930,
-      "num": 569847,
-      "word": "爱奇艺综艺全面夯爆",
-      "onboard_time": 1776699980,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1643,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398603,
+      "num": 260605,
+      "word": "虐死男友3岁儿子凶手称忍不住不打",
+      "onboard_time": 1776700820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397784,
       "num": 397784,
       "word": "开封万岁山一棵树断裂砸倒多名游客",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1776597622,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 383623,
+      "num": 226746,
+      "word": "原来这些都是无意识的控糖行为",
+      "onboard_time": 1776727399,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383361,
@@ -1825,6 +1865,14 @@
       "onboard_time": 1776595641,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361133,
+      "num": 404221,
+      "word": "8岁孩子竟然痛风了",
+      "onboard_time": 1776724937,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 359318,
@@ -2139,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294276,
+      "num": 225119,
+      "word": "让近视眼更舒服的六个习惯",
+      "onboard_time": 1776727579,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293878,
       "num": 293878,
       "word": "张凌赫王楚然相依海报",
@@ -2331,14 +2387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 260605,
-      "num": 260605,
-      "word": "虐死男友3岁儿子凶手称忍不住不打",
-      "onboard_time": 1776700820,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257544,
       "num": 257544,
       "word": "田曦薇双马尾好甜",
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244000,
+      "num": 436050,
+      "word": "徐洁儿见过李小冉站起来吗",
+      "onboard_time": 1776706756,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243726,
       "num": 289171,
       "word": "开拓者vs马刺",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1776555196,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 238552,
+      "num": 437616,
+      "word": "娃坐了6年电瓶车还不知回家的路",
+      "onboard_time": 1776704418,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 238208,
@@ -2563,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230449,
+      "num": 236241,
+      "word": "中方就伊朗向印度船只开火表态",
+      "onboard_time": 1776702918,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227883,
       "num": 227883,
       "word": "TF四代History舞台",
@@ -2587,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225264,
+      "num": 431428,
+      "word": "特朗普威胁停火到期将开炸",
+      "onboard_time": 1776706215,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225130,
       "num": 225130,
       "word": "疑似业内内涵攻玉换男主",
@@ -2609,6 +2689,14 @@
       "onboard_time": 1776606624,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223865,
+      "num": 236205,
+      "word": "A股突现重大资产重组新模式",
+      "onboard_time": 1776703338,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 223594,
@@ -3051,14 +3139,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 186853,
-      "num": 236205,
-      "word": "A股突现重大资产重组新模式",
-      "onboard_time": 1776703338,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 186228,
       "num": 186228,
       "word": "25岁女子下楼玩手机摔成大小便失禁",
@@ -3107,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179780,
+      "num": 160278,
+      "word": "追王一博把71岁奶奶变成17岁了",
+      "onboard_time": 1776691522,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179068,
       "num": 209474,
       "word": "樊振东波尔日内瓦旅行",
@@ -3136,6 +3224,14 @@
       "word": "NBA公布MVP候选名单",
       "onboard_time": 1776650600,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176983,
+      "num": 238502,
+      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
+      "onboard_time": 1776720614,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -3169,14 +3265,6 @@
       "onboard_time": 1776521003,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171936,
-      "num": 437616,
-      "word": "娃坐了6年电瓶车还不知回家的路",
-      "onboard_time": 1776704418,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 171167,
@@ -3259,14 +3347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 166099,
-      "num": 436050,
-      "word": "徐洁儿见过李小冉站起来吗",
-      "onboard_time": 1776706756,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "三月三",
@@ -3337,6 +3417,14 @@
       "onboard_time": 1776599301,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160749,
+      "num": 236178,
+      "word": "女孩挪用千万打赏主播不愿退钱",
+      "onboard_time": 1776704418,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160139,
@@ -3467,14 +3555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149746,
-      "num": 236178,
-      "word": "女孩挪用千万打赏主播不愿退钱",
-      "onboard_time": 1776704418,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149555,
       "num": 208019,
       "word": "苏超徐州队3比0泰州队",
@@ -3539,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143973,
+      "num": 143973,
+      "word": "挪用千万打赏女孩称坐牢也无所谓",
+      "onboard_time": 1776728360,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143787,
       "num": 188987,
       "word": "被骗3200万老板从住豪宅到租房住",
@@ -3563,14 +3651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142258,
-      "num": 431428,
-      "word": "特朗普威胁停火到期将开炸",
-      "onboard_time": 1776706215,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -3579,12 +3659,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141975,
+      "num": 141975,
+      "word": "男童身上被生父女友用牙签扎烂",
+      "onboard_time": 1776728360,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140525,
+      "num": 140525,
+      "word": "观众为何对AI表演集体不买账",
+      "onboard_time": 1776717315,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139852,
       "num": 265669,
       "word": "NBA季后赛",
       "onboard_time": 1776641479,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139647,
+      "num": 139647,
+      "word": "热巴领衔主演虽然不能同时拥有一切",
+      "onboard_time": 1776728659,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 138142,
@@ -3617,6 +3721,14 @@
       "onboard_time": 1776699021,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132186,
+      "num": 132186,
+      "word": "伊朗专挑周末打脸美国",
+      "onboard_time": 1776728599,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131413,
@@ -3827,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116465,
+      "num": 116465,
+      "word": "邓为魏大勋邓凯五四晚会录制路透",
+      "onboard_time": 1776726139,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116019,
       "num": 116019,
       "word": "何润东健身是不想输给外国艺人",
@@ -3915,22 +4035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109414,
-      "num": 236241,
-      "word": "中方就伊朗向印度船只开火表态",
-      "onboard_time": 1776702918,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 109163,
-      "num": 109163,
-      "word": "观众为何对AI表演集体不买账",
-      "onboard_time": 1776717315,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108733,
       "num": 181121,
       "word": "iOS27全新Siri界面",
@@ -3969,6 +4073,14 @@
       "onboard_time": 1776534019,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98357,
+      "num": 98357,
+      "word": "人的心情是可以突然变好的",
+      "onboard_time": 1776729021,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 97684,
@@ -4065,14 +4177,6 @@
       "onboard_time": 1776695782,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87482,
-      "num": 87482,
-      "word": "追王一博把71岁奶奶变成17岁了",
-      "onboard_time": 1776691522,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 87260,
@@ -4179,14 +4283,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 83167,
-      "num": 404221,
-      "word": "8岁孩子竟然痛风了",
-      "onboard_time": 1776724937,
-      "rank": 41,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 82667,
       "num": 360840,
       "word": "檀健次喜提洞门拼豆小人",
@@ -4224,14 +4320,6 @@
       "word": "丁俊晖回应将对阵赵心童",
       "onboard_time": 1776699200,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 78190,
-      "num": 160453,
-      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
-      "onboard_time": 1776720614,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -4417,14 +4505,6 @@
       "onboard_time": 1776682881,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 60249,
-      "num": 67203,
-      "word": "邓为魏大勋邓凯五四晚会录制路透",
-      "onboard_time": 1776726139,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 59461,
@@ -4915,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24017,
+      "num": 786523,
+      "word": "硬核数据看中国经济动力澎湃",
+      "onboard_time": 1776689181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23007,
       "num": 31645,
       "word": "Wolves对战Xteam",
@@ -4961,14 +5049,6 @@
       "onboard_time": 1776590061,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 15477,
-      "num": 442640,
-      "word": "硬核数据看中国经济动力澎湃",
-      "onboard_time": 1776689181,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15469,
