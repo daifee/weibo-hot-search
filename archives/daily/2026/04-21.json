@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776722997928,
+  "endTime": 1776725714213,
   "band_list": [
     {
       "raw_hot": 1511293,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313597,
+      "num": 466898,
+      "word": "爱奇艺综艺全面夯爆",
+      "onboard_time": 1776699980,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309910,
       "num": 236410,
       "word": "幼童被父亲女友虐死前说我爱妈妈",
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240639,
+      "num": 236389,
+      "word": "虐死男友3岁儿子凶手称忍不住不打",
+      "onboard_time": 1776700820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239754,
       "num": 226363,
       "word": "苏醒说AI艺人这方向真的对么",
@@ -160,14 +176,6 @@
       "word": "爱奇艺",
       "onboard_time": 1776666441,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 236558,
-      "num": 266072,
-      "word": "爱奇艺综艺全面夯爆",
-      "onboard_time": 1776699980,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1776692003,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201346,
-      "num": 236389,
-      "word": "虐死男友3岁儿子凶手称忍不住不打",
-      "onboard_time": 1776700820,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181280,
@@ -259,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155139,
+      "num": 155139,
+      "word": "日本未来一周可能发生同等规模地震",
+      "onboard_time": 1776690863,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149833,
       "num": 236298,
       "word": "备孕女子花2.3万治HPV最终子宫切除",
       "onboard_time": 1776694823,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149170,
+      "num": 236205,
+      "word": "A股突现重大资产重组新模式",
+      "onboard_time": 1776703338,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 146319,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136951,
+      "num": 236178,
+      "word": "女孩挪用千万打赏主播不愿退钱",
+      "onboard_time": 1776704418,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131413,
       "num": 236120,
       "word": "谢娜今天第一天联排乐队",
@@ -299,12 +323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129514,
-      "num": 236205,
-      "word": "A股突现重大资产重组新模式",
-      "onboard_time": 1776703338,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 129319,
+      "num": 236016,
+      "word": "娃坐了6年电瓶车还不知回家的路",
+      "onboard_time": 1776704418,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 127433,
@@ -347,12 +371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104501,
-      "num": 236178,
-      "word": "女孩挪用千万打赏主播不愿退钱",
-      "onboard_time": 1776704418,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 103832,
+      "num": 103832,
+      "word": "观众为何对AI表演集体不买账",
+      "onboard_time": 1776717315,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 101309,
@@ -363,12 +387,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97772,
+      "raw_hot": 99771,
       "num": 236048,
       "word": "弟弟去世赔50万5个姐姐起争执",
       "onboard_time": 1776680842,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93103,
+      "num": 111744,
+      "word": "特朗普威胁停火到期将开炸",
+      "onboard_time": 1776706215,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92231,
@@ -385,6 +417,14 @@
       "onboard_time": 1776691522,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86730,
+      "num": 109027,
+      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
+      "onboard_time": 1776708136,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 85600,
@@ -411,14 +451,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 82825,
-      "num": 82825,
-      "word": "日本未来一周可能发生同等规模地震",
-      "onboard_time": 1776690863,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80566,
       "num": 235949,
       "word": "演员集体辟谣AI授权",
@@ -433,14 +465,6 @@
       "onboard_time": 1776699200,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76895,
-      "num": 236016,
-      "word": "娃坐了6年电瓶车还不知回家的路",
-      "onboard_time": 1776704418,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 75397,
@@ -459,6 +483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65184,
+      "num": 99711,
+      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
+      "onboard_time": 1776720614,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64213,
+      "num": 235817,
+      "word": "3岁男童被女友虐死生父要求生母撤诉",
+      "onboard_time": 1776704716,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62051,
       "num": 235993,
       "word": "模仿瘦人的吃饭习惯",
@@ -467,26 +507,26 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59851,
-      "num": 111744,
-      "word": "特朗普威胁停火到期将开炸",
-      "onboard_time": 1776706215,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 57138,
-      "num": 57138,
-      "word": "观众为何对AI表演集体不买账",
-      "onboard_time": 1776717315,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 54049,
+      "num": 235845,
+      "word": "家业",
+      "onboard_time": 1776698122,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 52703,
       "num": 235929,
       "word": "遭家暴离婚百万网红带娃搬进毛坯房",
       "onboard_time": 1776704896,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51036,
+      "num": 99670,
+      "word": "女孩挪用千万打赏至今还沉迷手机",
+      "onboard_time": 1776718934,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -515,28 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45877,
-      "num": 235845,
-      "word": "家业",
-      "onboard_time": 1776698122,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 44458,
+      "num": 99646,
+      "word": "洛阳牡丹开成了调色盘",
+      "onboard_time": 1776718694,
+      "rank": 49,
+      "category": "旅游"
     },
     {
-      "raw_hot": 45691,
-      "num": 235817,
-      "word": "3岁男童被女友虐死生父要求生母撤诉",
-      "onboard_time": 1776704716,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 44009,
-      "num": 71382,
-      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
-      "onboard_time": 1776708136,
-      "rank": 18,
-      "category": "数码"
+      "raw_hot": 44183,
+      "num": 99634,
+      "word": "8岁孩子竟然痛风了",
+      "onboard_time": 1776724937,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 43644,
@@ -563,12 +595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37656,
-      "num": 48548,
-      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
-      "onboard_time": 1776720614,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 37366,
+      "num": 99619,
+      "word": "阴阳师",
+      "onboard_time": 1776697163,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 34050,
@@ -579,20 +611,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31870,
-      "num": 62473,
-      "word": "阴阳师",
-      "onboard_time": 1776697163,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 31659,
-      "num": 48508,
-      "word": "女孩挪用千万打赏至今还沉迷手机",
-      "onboard_time": 1776718934,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 31413,
+      "num": 99589,
+      "word": "王励勤马琳王皓送乒乓球日祝福",
+      "onboard_time": 1776723915,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 28745,
@@ -635,14 +659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25615,
-      "num": 48574,
-      "word": "洛阳牡丹开成了调色盘",
-      "onboard_time": 1776718694,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 23486,
       "num": 484540,
       "word": "当中文遇上锦绣山河的中国传统色",
@@ -659,6 +675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13711,
+      "num": 386608,
+      "word": "硬核数据看中国经济动力澎湃",
+      "onboard_time": 1776689181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11772,
+      "num": 108842,
+      "word": "姆巴佩喊你补水啦",
+      "onboard_time": 1776681741,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11427,
       "num": 25629,
       "word": "痛风不能痛了才治",
@@ -673,14 +705,6 @@
       "onboard_time": 1776721335,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9137,
-      "num": 219005,
-      "word": "硬核数据看中国经济动力澎湃",
-      "onboard_time": 1776689181,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
