@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/21 06:55:14
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/21 07:09:47
 </p>
 </blockquote>
 <p>
@@ -5637,6 +5637,12 @@ papi酱已退出papitube（热度：454692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%BB%BC%E8%89%BA%E5%85%A8%E9%9D%A2%E5%A4%AF%E7%88%86%23" target="weibo">
+爱奇艺综艺全面夯爆（热度：438930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A1%AB%E8%A1%A5%E9%95%BF%E8%BE%BE53%E5%B9%B4%E7%A9%BA%E7%99%BD%23" target="weibo">
 孙颖莎填补长达53年空白（热度：438504）
 </a>
@@ -6005,12 +6011,6 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB%23" target="weibo">
 深圳通报救护车截单延误抢救致死（热度：418919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B2%E9%94%8B%E8%A1%A3%E6%98%AF%E8%83%B6%E6%B0%B4%E7%B2%98%E7%9A%84%23" target="weibo">
-原来冲锋衣是胶水粘的（热度：418855）
 </a>
 </li>
 
