@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/20 16:37:17
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/20 17:13:02
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 李雨桐被行拘（热度：12919916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%23" target="weibo">
+爱奇艺（热度：12032188）
 </a>
 </li>
 
@@ -41,12 +47,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%80%BB%E8%A3%81%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 丝芭总裁王子杰去世（热度：9017754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%23" target="weibo">
-爱奇艺（热度：8753869）
 </a>
 </li>
 
@@ -755,6 +755,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%99%92%E5%92%8C%E9%A9%AC%E5%98%89%E7%A5%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
 谢娜晒和马嘉祺聊天记录（热度：1388629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%8D%81%E9%83%A8%E5%89%A7%E8%B5%9A%E4%BA%8667%E4%BA%BF%23" target="weibo">
+爱奇艺十部剧赚了67亿（热度：1382094）
 </a>
 </li>
 
@@ -1473,6 +1479,12 @@ Jennie八年来都长一个样（热度：993794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E5%90%AC%E5%8A%9D%E5%9B%9E%E5%8E%BB%E6%8B%8D%E6%88%8F%E4%BA%86%23" target="weibo">
+温峥嵘听劝回去拍戏了（热度：967916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%B8%E5%AD%90%E5%A4%B4%23" target="weibo">
 虞书欣丸子头（热度：956572）
 </a>
@@ -1631,12 +1643,6 @@ Jennie八年来都长一个样（热度：993794）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BD%AF%E6%9F%BF%E5%AD%90%E5%9C%A8%E4%BA%BA%E7%BE%A4%E9%87%8C%E8%BF%99%E4%B9%88%E6%98%8E%E6%98%BE%23" target="weibo">
 原来软柿子在人群里这么明显（热度：914125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%8D%81%E9%83%A8%E5%89%A7%E8%B5%9A%E4%BA%8667%E4%BA%BF%23" target="weibo">
-爱奇艺十部剧赚了67亿（热度：911848）
 </a>
 </li>
 
@@ -1979,12 +1985,6 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B6%A6%E7%BE%8E%E5%90%88%E6%BD%AE%E7%89%8C%23" target="weibo">
 綦美合潮牌（热度：818722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E5%90%AC%E5%8A%9D%E5%9B%9E%E5%8E%BB%E6%8B%8D%E6%88%8F%E4%BA%86%23" target="weibo">
-温峥嵘听劝回去拍戏了（热度：817462）
 </a>
 </li>
 
@@ -4737,6 +4737,12 @@ sbti测试（热度：495899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%80%AA%E5%85%BD%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90%23" target="weibo">
+五月天怪兽二胎得子（热度：486753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E8%88%9E%E8%B9%88%E7%95%8C%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81%E7%9A%84%E4%BA%BA%23" target="weibo">
 李小冉 舞蹈界失去了一个无关紧要的人（热度：486598）
 </a>
@@ -5781,6 +5787,18 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%A7%E5%AE%A3%23" target="weibo">
+张凌赫王楚然剧宣（热度：419921）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川地震（热度：419634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%BF%8E%E6%9D%A5%E6%88%90%E7%BE%A4TVB%E8%80%81%E6%88%8F%E9%AA%A8%23" target="weibo">
 莫氏鸡煲迎来成群TVB老戏骨（热度：419553）
 </a>
@@ -5993,24 +6011,6 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%BD%90%E5%A3%B0%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
 多国齐声谴责以色列（热度：409422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%20%E8%BD%A6%E4%BB%A3%23" target="weibo">
-何润东 车代（热度：409363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%A2%AB%E9%9B%B7%E5%86%9B%E9%97%AE%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E8%89%BA%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-杜华被雷军问还有哪些艺人的反应（热度：408539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%89%E6%85%B0%E4%BA%BA%E5%B0%B1%E9%98%9A%E6%B8%85%E5%AD%90%E8%BF%99%E6%A0%B7%23" target="weibo">
-我安慰人就阚清子这样（热度：408447）
 </a>
 </li>
 

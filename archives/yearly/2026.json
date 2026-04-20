@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776674237220,
+  "endTime": 1776676382080,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -225,6 +225,14 @@
       "onboard_time": 1774774650,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12032188,
+      "num": 12032188,
+      "word": "爱奇艺",
+      "onboard_time": 1776666441,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 11946235,
@@ -481,14 +489,6 @@
       "onboard_time": 1772260103,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8753869,
-      "num": 8753869,
-      "word": "爱奇艺",
-      "onboard_time": 1776666441,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 8698031,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 4143269,
-      "num": 495114,
+      "num": 2132982,
       "word": "低情商演员失业 高情商更多休息",
       "onboard_time": 1776664942,
       "rank": 10,

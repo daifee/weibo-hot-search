@@ -1,7 +1,15 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776674237220,
+  "endTime": 1776676382080,
   "band_list": [
+    {
+      "raw_hot": 12032188,
+      "num": 12032188,
+      "word": "爱奇艺",
+      "onboard_time": 1776666441,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 9837930,
       "num": 9837930,
@@ -9,14 +17,6 @@
       "onboard_time": 1776640398,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8753869,
-      "num": 8753869,
-      "word": "爱奇艺",
-      "onboard_time": 1776666441,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 4441164,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4143269,
-      "num": 495114,
+      "num": 2132982,
       "word": "低情商演员失业 高情商更多休息",
       "onboard_time": 1776664942,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1776641601,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1382094,
+      "num": 1382094,
+      "word": "爱奇艺十部剧赚了67亿",
+      "onboard_time": 1776673164,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1296259,
@@ -171,11 +179,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 911848,
-      "num": 376949,
-      "word": "爱奇艺十部剧赚了67亿",
-      "onboard_time": 1776673164,
-      "rank": 13,
+      "raw_hot": 967916,
+      "num": 370366,
+      "word": "温峥嵘听劝回去拍戏了",
+      "onboard_time": 1776670522,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1776655040,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 817462,
-      "num": 370366,
-      "word": "温峥嵘听劝回去拍戏了",
-      "onboard_time": 1776670522,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 808377,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486753,
+      "num": 342581,
+      "word": "五月天怪兽二胎得子",
+      "onboard_time": 1776674183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453821,
       "num": 392904,
       "word": "李雨桐爆料薛之谦被拘谁该颤抖",
@@ -529,6 +537,22 @@
       "onboard_time": 1776646642,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419921,
+      "num": 340419,
+      "word": "张凌赫王楚然剧宣",
+      "onboard_time": 1776673523,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419634,
+      "num": 419634,
+      "word": "四川地震",
+      "onboard_time": 1776672623,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 419119,
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402334,
+      "num": 322894,
+      "word": "陈哲远对接否认签署AI授权",
+      "onboard_time": 1776672084,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401434,
       "num": 401434,
       "word": "女子拆快递误甩美工刀打到同事脖颈",
@@ -576,6 +608,14 @@
       "word": "玄彬孙艺珍儿子拍的夫妇照",
       "onboard_time": 1776659062,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394920,
+      "num": 321269,
+      "word": "白鹿新买的阿贝贝",
+      "onboard_time": 1776673283,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -595,12 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389033,
+      "num": 389033,
+      "word": "五花肉里有一块绿色的东西",
+      "onboard_time": 1776674782,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 387356,
       "num": 331812,
       "word": "铁路12306已拒绝出票105.6万张",
       "onboard_time": 1776592584,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381476,
+      "num": 381476,
+      "word": "美媒承认中国年轻人对美国幻灭了",
+      "onboard_time": 1776672084,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 381004,
@@ -635,14 +691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 369091,
-      "num": 308850,
-      "word": "白鹿新买的阿贝贝",
-      "onboard_time": 1776673283,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368009,
       "num": 368009,
       "word": "爱奇艺AI艺人库",
@@ -657,14 +705,6 @@
       "onboard_time": 1776651919,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357040,
-      "num": 357040,
-      "word": "四川地震",
-      "onboard_time": 1776672623,
-      "rank": 15,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 355529,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 352781,
-      "num": 318789,
+      "num": 324067,
       "word": "1岁男童基因突变患癌症晚期",
       "onboard_time": 1776669023,
       "rank": 20,
@@ -715,20 +755,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340235,
+      "num": 340235,
+      "word": "男子发现扔烟头处不长草决定戒烟",
+      "onboard_time": 1776671302,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337098,
       "num": 337098,
       "word": "张雪机车第7",
       "onboard_time": 1776603742,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328303,
-      "num": 299565,
-      "word": "张凌赫王楚然剧宣",
-      "onboard_time": 1776673523,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 327918,
@@ -771,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "美媒承认中国年轻人对美国幻灭了",
-      "onboard_time": 1776672084,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 321105,
+      "num": 321105,
+      "word": "模仿瘦人的吃饭习惯",
+      "onboard_time": 1776675143,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 320228,
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 291488,
-      "num": 301311,
+      "num": 323372,
       "word": "重点中学高三生被抓微信零钱20多万",
       "onboard_time": 1776667701,
       "rank": 29,
@@ -873,14 +913,6 @@
       "onboard_time": 1776642560,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 282284,
-      "num": 282284,
-      "word": "五月天怪兽二胎得子",
-      "onboard_time": 1776674183,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 278818,
@@ -915,14 +947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 272068,
-      "num": 272068,
-      "word": "陈哲远对接否认签署AI授权",
-      "onboard_time": 1776672084,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264513,
       "num": 310458,
       "word": "华为Pura90超清20倍长焦视频",
@@ -931,12 +955,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259088,
-      "num": 297104,
-      "word": "男子发现扔烟头处不长草决定戒烟",
-      "onboard_time": 1776671302,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 257544,
+      "num": 257544,
+      "word": "田曦薇双马尾好甜",
+      "onboard_time": 1776675143,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 250038,
@@ -1011,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221829,
+      "num": 221829,
+      "word": "华为余承东称手机可能涨价",
+      "onboard_time": 1776675981,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220514,
       "num": 333574,
       "word": "Gemini能登顶老君山吗",
       "onboard_time": 1776663801,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "女子丧子3年后二宝查出癌症晚期",
+      "onboard_time": 1776672322,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218717,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1776665782,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204786,
-      "num": 192625,
-      "word": "女子丧子3年后二宝查出癌症晚期",
-      "onboard_time": 1776672322,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204192,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1776609442,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187519,
+      "num": 340628,
+      "word": "Pura90大杯超大杯价格不涨反降",
+      "onboard_time": 1776674603,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 187026,
@@ -1225,6 +1265,22 @@
       "onboard_time": 1776603682,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166200,
+      "num": 340887,
+      "word": "伊朗决定继续与美国谈判",
+      "onboard_time": 1776672982,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162848,
+      "num": 345549,
+      "word": "中方回应美国拦截中国油轮",
+      "onboard_time": 1776676042,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162289,
@@ -1356,7 +1412,7 @@
     },
     {
       "raw_hot": 134432,
-      "num": 1744701,
+      "num": 1750286,
       "word": "2025年我国人均读书8.39本",
       "onboard_time": 1776672382,
       "rank": 2,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1776593781,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125262,
+      "num": 220541,
+      "word": "华为PuraXMax人像智拍神器",
+      "onboard_time": 1776676162,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 124051,
@@ -1459,6 +1523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108149,
+      "num": 341791,
+      "word": "华为领先行业半年发布大阔折",
+      "onboard_time": 1776674304,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105940,
       "num": 210832,
       "word": "以色列民众要求内塔尼亚胡政府下台",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1776601342,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89667,
+      "num": 219878,
+      "word": "华为Pura90发布XMAGE智拍",
+      "onboard_time": 1776674304,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 87036,
@@ -1555,6 +1635,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 67792,
+      "num": 214241,
+      "word": "日本已发布海啸预警",
+      "onboard_time": 1776674843,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67460,
       "num": 120719,
       "word": "机器人届也有自己的显眼包",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1776618018,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63500,
+      "num": 342220,
+      "word": "姆巴佩有新队友了",
+      "onboard_time": 1776674304,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 62635,
@@ -1663,6 +1759,14 @@
       "num": 321087,
       "word": "被围堵泼水女子未报警",
       "onboard_time": 1776673045,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44498,
+      "num": 342404,
+      "word": "男子减肥训练营身亡为订婚瘦身",
+      "onboard_time": 1776675683,
       "rank": 19,
       "category": "民生新闻"
     },

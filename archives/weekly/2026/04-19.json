@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776674237220,
+  "endTime": 1776676382080,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12032188,
+      "num": 12032188,
+      "word": "爱奇艺",
+      "onboard_time": 1776666441,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9837930,
       "num": 9837930,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1776640398,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8753869,
-      "num": 8753869,
-      "word": "爱奇艺",
-      "onboard_time": 1776666441,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 4441164,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4143269,
-      "num": 495114,
+      "num": 2132982,
       "word": "低情商演员失业 高情商更多休息",
       "onboard_time": 1776664942,
       "rank": 10,
@@ -169,6 +169,14 @@
       "onboard_time": 1776555557,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1382094,
+      "num": 1382094,
+      "word": "爱奇艺十部剧赚了67亿",
+      "onboard_time": 1776673164,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1330579,
@@ -355,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 967916,
+      "num": 370366,
+      "word": "温峥嵘听劝回去拍戏了",
+      "onboard_time": 1776670522,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 933509,
       "num": 933509,
       "word": "谁家猫怀孕都怀到脖子上了",
@@ -385,14 +401,6 @@
       "onboard_time": 1776562341,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 911848,
-      "num": 376949,
-      "word": "爱奇艺十部剧赚了67亿",
-      "onboard_time": 1776673164,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 894595,
@@ -441,14 +449,6 @@
       "onboard_time": 1776655040,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 817462,
-      "num": 370366,
-      "word": "温峥嵘听劝回去拍戏了",
-      "onboard_time": 1776670522,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 815381,
@@ -1067,6 +1067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 486753,
+      "num": 342581,
+      "word": "五月天怪兽二胎得子",
+      "onboard_time": 1776674183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486670,
       "num": 303478,
       "word": "张凌赫ins更新萌照",
@@ -1259,6 +1267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419921,
+      "num": 340419,
+      "word": "张凌赫王楚然剧宣",
+      "onboard_time": 1776673523,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419634,
+      "num": 419634,
+      "word": "四川地震",
+      "onboard_time": 1776672623,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 413992,
       "num": 413992,
       "word": "东部战区舰艇编队赴西太平洋演训",
@@ -1315,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402334,
+      "num": 322894,
+      "word": "陈哲远对接否认签署AI授权",
+      "onboard_time": 1776672084,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401434,
       "num": 401434,
       "word": "女子拆快递误甩美工刀打到同事脖颈",
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394920,
+      "num": 321269,
+      "word": "白鹿新买的阿贝贝",
+      "onboard_time": 1776673283,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394796,
       "num": 394796,
       "word": "华为pura90",
@@ -1363,12 +1403,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 389033,
+      "num": 389033,
+      "word": "五花肉里有一块绿色的东西",
+      "onboard_time": 1776674782,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388528,
       "num": 388528,
       "word": "14天骨盆回正",
       "onboard_time": 1776597622,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 381476,
+      "num": 381476,
+      "word": "美媒承认中国年轻人对美国幻灭了",
+      "onboard_time": 1776672084,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 381004,
@@ -1435,14 +1491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369091,
-      "num": 308850,
-      "word": "白鹿新买的阿贝贝",
-      "onboard_time": 1776673283,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368283,
       "num": 368283,
       "word": "丞磊你家枇杷熟了",
@@ -1483,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357040,
-      "num": 357040,
-      "word": "四川地震",
-      "onboard_time": 1776672623,
-      "rank": 15,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 355499,
       "num": 307909,
       "word": "看完你还敢咬指甲吗",
@@ -1500,7 +1540,7 @@
     },
     {
       "raw_hot": 352781,
-      "num": 318789,
+      "num": 324067,
       "word": "1岁男童基因突变患癌症晚期",
       "onboard_time": 1776669023,
       "rank": 20,
@@ -1521,6 +1561,14 @@
       "onboard_time": 1776646822,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 340235,
+      "num": 340235,
+      "word": "男子发现扔烟头处不长草决定戒烟",
+      "onboard_time": 1776671302,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339585,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1776568880,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328303,
-      "num": 299565,
-      "word": "张凌赫王楚然剧宣",
-      "onboard_time": 1776673523,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 327754,
@@ -1619,12 +1659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "美媒承认中国年轻人对美国幻灭了",
-      "onboard_time": 1776672084,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 321105,
+      "num": 321105,
+      "word": "模仿瘦人的吃饭习惯",
+      "onboard_time": 1776675143,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 320818,
@@ -1796,7 +1836,7 @@
     },
     {
       "raw_hot": 291488,
-      "num": 301311,
+      "num": 323372,
       "word": "重点中学高三生被抓微信零钱20多万",
       "onboard_time": 1776667701,
       "rank": 29,
@@ -1824,14 +1864,6 @@
       "word": "48岁TVB视后田蕊妮再度患癌",
       "onboard_time": 1776518302,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 282284,
-      "num": 282284,
-      "word": "五月天怪兽二胎得子",
-      "onboard_time": 1776674183,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1907,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272068,
-      "num": 272068,
-      "word": "陈哲远对接否认签署AI授权",
-      "onboard_time": 1776672084,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269120,
       "num": 269120,
       "word": "郑恺这期收视率高吧我拿命换的",
@@ -1955,12 +1979,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259088,
-      "num": 297104,
-      "word": "男子发现扔烟头处不长草决定戒烟",
-      "onboard_time": 1776671302,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 257544,
+      "num": 257544,
+      "word": "田曦薇双马尾好甜",
+      "onboard_time": 1776675143,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 256969,
@@ -2227,12 +2251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221829,
+      "num": 221829,
+      "word": "华为余承东称手机可能涨价",
+      "onboard_time": 1776675981,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220514,
       "num": 333574,
       "word": "Gemini能登顶老君山吗",
       "onboard_time": 1776663801,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "女子丧子3年后二宝查出癌症晚期",
+      "onboard_time": 1776672322,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218717,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1776568220,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204786,
-      "num": 192625,
-      "word": "女子丧子3年后二宝查出癌症晚期",
-      "onboard_time": 1776672322,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204665,
@@ -2547,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187519,
+      "num": 340628,
+      "word": "Pura90大杯超大杯价格不涨反降",
+      "onboard_time": 1776674603,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186228,
       "num": 186228,
       "word": "25岁女子下楼玩手机摔成大小便失禁",
@@ -2699,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166200,
+      "num": 340887,
+      "word": "伊朗决定继续与美国谈判",
+      "onboard_time": 1776672982,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "三月三",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1776587361,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162848,
+      "num": 345549,
+      "word": "中方回应美国拦截中国油轮",
+      "onboard_time": 1776676042,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162289,
@@ -2964,7 +3020,7 @@
     },
     {
       "raw_hot": 134432,
-      "num": 1744701,
+      "num": 1750286,
       "word": "2025年我国人均读书8.39本",
       "onboard_time": 1776672382,
       "rank": 2,
@@ -3017,6 +3073,14 @@
       "onboard_time": 1776598582,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 125262,
+      "num": 220541,
+      "word": "华为PuraXMax人像智拍神器",
+      "onboard_time": 1776676162,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 123928,
@@ -3195,6 +3259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108149,
+      "num": 341791,
+      "word": "华为领先行业半年发布大阔折",
+      "onboard_time": 1776674304,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106011,
       "num": 162114,
       "word": "掘金1比0森林狼",
@@ -3273,6 +3345,14 @@
       "onboard_time": 1776639618,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 89667,
+      "num": 219878,
+      "word": "华为Pura90发布XMAGE智拍",
+      "onboard_time": 1776674304,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 89034,
@@ -3467,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67792,
+      "num": 214241,
+      "word": "日本已发布海啸预警",
+      "onboard_time": 1776674843,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67460,
       "num": 120719,
       "word": "机器人届也有自己的显眼包",
@@ -3489,6 +3577,14 @@
       "onboard_time": 1776618018,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63500,
+      "num": 342220,
+      "word": "姆巴佩有新队友了",
+      "onboard_time": 1776674304,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 62635,
@@ -3633,6 +3729,14 @@
       "onboard_time": 1776557420,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44498,
+      "num": 342404,
+      "word": "男子减肥训练营身亡为订婚瘦身",
+      "onboard_time": 1776675683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43876,
