@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776657531609,
+  "endTime": 1776666238420,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -43,11 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2483179,
+      "num": 495114,
+      "word": "低情商演员失业 高情商更多休息",
+      "onboard_time": 1776664942,
+      "rank": 10,
+      "category": "作品衍生,互联网"
+    },
+    {
       "raw_hot": 2389092,
       "num": 380100,
       "word": "何润东狂接商务",
       "onboard_time": 1776562160,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2382468,
+      "num": 484675,
+      "word": "时代峰峻大楼被雷劈了",
+      "onboard_time": 1776662300,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -195,12 +211,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1128396,
+      "num": 1180543,
+      "word": "服刑人员遭狱警虐待后身亡",
+      "onboard_time": 1776661461,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1124373,
       "num": 397648,
       "word": "稚楚回应",
       "onboard_time": 1776582561,
       "rank": 11,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1103992,
+      "num": 478044,
+      "word": "张若昀工作室 没签过AI授权",
+      "onboard_time": 1776665001,
+      "rank": 13,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 1086133,
@@ -217,6 +249,14 @@
       "onboard_time": 1776521121,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1052221,
+      "num": 469965,
+      "word": "AI艺人库 自掘坟墓",
+      "onboard_time": 1776662842,
+      "rank": 14,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 1039501,
@@ -249,6 +289,14 @@
       "onboard_time": 1776643101,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1001739,
+      "num": 838561,
+      "word": "全部暴露 孩子归谁",
+      "onboard_time": 1776657560,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1000878,
@@ -507,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713697,
+      "num": 713697,
+      "word": "秦岚少榨点果汁嗓子早好了",
+      "onboard_time": 1776663440,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698341,
       "num": 698341,
       "word": "zmjjkk长文回复粉丝",
@@ -619,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 612564,
+      "num": 484419,
+      "word": "妈妈被埋尸28年他永远停在10岁",
+      "onboard_time": 1776664040,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608867,
       "num": 608867,
       "word": "陈紫函不上浪姐的原因",
@@ -683,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582099,
+      "num": 414929,
+      "word": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
+      "onboard_time": 1776659484,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578889,
       "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
@@ -739,11 +811,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548528,
+      "num": 840624,
+      "word": "字节跳动去年净利润下滑超70%",
+      "onboard_time": 1776660442,
+      "rank": 1,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 542230,
       "num": 886116,
       "word": "涉密单位人员下班闲聊致泄密",
       "onboard_time": 1776651620,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 540487,
+      "num": 401270,
+      "word": "沙溢大儿子和女生逛街",
+      "onboard_time": 1776658583,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 539750,
+      "num": 539750,
+      "word": "孩子归华住会抚养",
+      "onboard_time": 1776662182,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -761,6 +857,14 @@
       "onboard_time": 1776641479,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 535761,
+      "num": 400948,
+      "word": "王橹杰跳伞",
+      "onboard_time": 1776665121,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 532021,
@@ -795,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514190,
+      "num": 514190,
+      "word": "爱情慢慢首宣",
+      "onboard_time": 1776661642,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511637,
       "num": 851501,
       "word": "解放军护卫舰已随时准备开火",
@@ -809,6 +921,14 @@
       "onboard_time": 1776578841,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501192,
+      "num": 501192,
+      "word": "入职第一周vs入职一年",
+      "onboard_time": 1776657021,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 498239,
@@ -921,6 +1041,14 @@
       "onboard_time": 1776518240,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464577,
+      "num": 464577,
+      "word": "爱奇艺 长剧",
+      "onboard_time": 1776663622,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 463653,
@@ -1083,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401434,
+      "num": 401434,
+      "word": "女子拆快递误甩美工刀打到同事脖颈",
+      "onboard_time": 1776660384,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400845,
       "num": 223348,
       "word": "何润东不想让妻子受人工助孕的苦",
@@ -1107,12 +1243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388572,
+      "num": 388572,
+      "word": "玄彬孙艺珍儿子拍的夫妇照",
+      "onboard_time": 1776659062,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388528,
       "num": 388528,
       "word": "14天骨盆回正",
       "onboard_time": 1776597622,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 381004,
+      "num": 381004,
+      "word": "张杰就这么突然搂住了谢娜",
+      "onboard_time": 1776662482,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 380426,
@@ -1187,12 +1339,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364257,
+      "num": 364257,
+      "word": "爱奇艺AI艺人库",
+      "onboard_time": 1776660202,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 363239,
+      "num": 400287,
+      "word": "2天只吃燕麦身体会发生什么",
+      "onboard_time": 1776660862,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 360936,
+      "num": 360936,
+      "word": "何润东 车代",
+      "onboard_time": 1776665902,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359318,
       "num": 286884,
       "word": "折月亮首发预告",
       "onboard_time": 1776651919,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348854,
+      "num": 500306,
+      "word": "AI观众",
+      "onboard_time": 1776663921,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 344160,
+      "num": 344160,
+      "word": "大侦探",
+      "onboard_time": 1776659962,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 342343,
@@ -1249,6 +1441,14 @@
       "onboard_time": 1776606261,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326342,
+      "num": 326342,
+      "word": "阚清子听劝",
+      "onboard_time": 1776661822,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 324852,
@@ -1331,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309562,
+      "num": 384004,
+      "word": "遭家暴俏黄蓉离婚给了前夫25万",
+      "onboard_time": 1776658942,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309108,
       "num": 309108,
       "word": "荣耀机器人首次参赛就夺冠",
@@ -1411,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293878,
+      "num": 293878,
+      "word": "张凌赫王楚然相依海报",
+      "onboard_time": 1776659842,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293217,
       "num": 293217,
       "word": "攻玉",
@@ -1433,14 +1649,6 @@
       "onboard_time": 1776642560,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289158,
-      "num": 474329,
-      "word": "入职第一周vs入职一年",
-      "onboard_time": 1776657021,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 288267,
@@ -1475,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278818,
+      "num": 196721,
+      "word": "清华大学发布叶君讣告",
+      "onboard_time": 1776664702,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276338,
       "num": 276338,
       "word": "爱奇艺世界大会",
@@ -1497,6 +1713,14 @@
       "onboard_time": 1776556639,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274346,
+      "num": 399447,
+      "word": "黄金跳水暴跌",
+      "onboard_time": 1776658341,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 274176,
@@ -1617,6 +1841,14 @@
       "onboard_time": 1776584721,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244446,
+      "num": 361306,
+      "word": "华为发布会",
+      "onboard_time": 1776665721,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 244275,
@@ -1811,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215330,
+      "num": 333574,
+      "word": "Gemini能登顶老君山吗",
+      "onboard_time": 1776663801,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212852,
       "num": 243987,
       "word": "Gr对战成都GG",
@@ -1915,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204192,
+      "num": 399792,
+      "word": "豆包回应豆脚机器人",
+      "onboard_time": 1776658942,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203431,
       "num": 203431,
       "word": "苏超南京队赞助商ip连夜改名",
@@ -1969,6 +2217,30 @@
       "onboard_time": 1776608963,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199094,
+      "num": 199094,
+      "word": "王一博28分钟连续超6台赛车",
+      "onboard_time": 1776665721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195028,
+      "num": 398341,
+      "word": "伊朗军方晒导弹和无人机库存",
+      "onboard_time": 1776663980,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 194767,
+      "num": 461873,
+      "word": "肖战用冰块画了一幅画",
+      "onboard_time": 1776665782,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 194223,
@@ -2073,6 +2345,14 @@
       "onboard_time": 1776653240,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181151,
+      "num": 181151,
+      "word": "万达电影告别王健林时代",
+      "onboard_time": 1776665541,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 179068,
@@ -2651,6 +2931,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108733,
+      "num": 181121,
+      "word": "iOS27全新Siri界面",
+      "onboard_time": 1776654560,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 106422,
+      "num": 435853,
+      "word": "花27万买摊位老板大半个月回本盈利",
+      "onboard_time": 1776665361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106011,
       "num": 162114,
       "word": "掘金1比0森林狼",
@@ -2707,14 +3003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94078,
-      "num": 177728,
-      "word": "iOS27全新Siri界面",
-      "onboard_time": 1776654560,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93820,
       "num": 110154,
       "word": "属于我的8小时到哪去了",
@@ -2756,7 +3044,7 @@
     },
     {
       "raw_hot": 86977,
-      "num": 178406,
+      "num": 181072,
       "word": "英伟达178美元黄仁勋毛衣走红",
       "onboard_time": 1776655341,
       "rank": 47,
@@ -3099,6 +3387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43369,
+      "num": 397681,
+      "word": "去年人均每天刷手机近110分钟",
+      "onboard_time": 1776664942,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41852,
       "num": 108481,
       "word": "解放军跟监警戒日驱逐舰画面",
@@ -3144,6 +3440,14 @@
       "word": "3000万粉主播称家中失窃300万",
       "onboard_time": 1776624194,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34216,
+      "num": 1297429,
+      "word": "万千气象看湖南",
+      "onboard_time": 1776651441,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3217,14 +3521,6 @@
       "onboard_time": 1776575180,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25556,
-      "num": 1297429,
-      "word": "万千气象看湖南",
-      "onboard_time": 1776651441,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25264,
