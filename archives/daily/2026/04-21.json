@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776714078933,
+  "endTime": 1776718707421,
   "band_list": [
     {
       "raw_hot": 1511293,
@@ -547,7 +547,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34492,
+      "raw_hot": 39908,
       "num": 62502,
       "word": "日本未来一周可能发生同等规模地震",
       "onboard_time": 1776690863,
@@ -561,6 +561,14 @@
       "onboard_time": 1776704418,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30051,
+      "num": 30051,
+      "word": "观众为何对AI表演集体不买账",
+      "onboard_time": 1776717315,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 27928,
@@ -579,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27647,
+      "num": 62416,
+      "word": "AI和机器人先把地拖明白了再说",
+      "onboard_time": 1776709935,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26415,
       "num": 62356,
       "word": "EWC2026英雄联盟预选赛",
@@ -587,18 +603,50 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25963,
-      "num": 62416,
-      "word": "AI和机器人先把地拖明白了再说",
-      "onboard_time": 1776709935,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23486,
       "num": 484540,
       "word": "当中文遇上锦绣山河的中国传统色",
       "onboard_time": 1776689601,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21707,
+      "num": 28314,
+      "word": "18岁女孩1年多打赏主播上千万",
+      "onboard_time": 1776714373,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20214,
+      "num": 28308,
+      "word": "老人半年打赏男主播330万",
+      "onboard_time": 1776716294,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20019,
+      "num": 28308,
+      "word": "女孩打赏主播上千万致父亲濒临破产",
+      "onboard_time": 1776714793,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 14652,
+      "num": 28306,
+      "word": "洛阳牡丹开成了调色盘",
+      "onboard_time": 1776718694,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 5564,
+      "num": 90952,
+      "word": "硬核数据看中国经济动力澎湃",
+      "onboard_time": 1776689181,
       "rank": 2,
       "category": "民生新闻"
     }

@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776714078933,
+  "endTime": 1776718707421,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -4635,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39908,
+      "num": 62502,
+      "word": "日本未来一周可能发生同等规模地震",
+      "onboard_time": 1776690863,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39261,
       "num": 76685,
       "word": "孙颖莎萌萌奔向训练馆",
@@ -4673,14 +4681,6 @@
       "onboard_time": 1776689601,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34492,
-      "num": 62502,
-      "word": "日本未来一周可能发生同等规模地震",
-      "onboard_time": 1776690863,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34216,
@@ -4755,6 +4755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30051,
+      "num": 30051,
+      "word": "观众为何对AI表演集体不买账",
+      "onboard_time": 1776717315,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27928,
       "num": 345823,
       "word": "谷雨是春天最诗意的收尾",
@@ -4769,6 +4777,14 @@
       "onboard_time": 1776697163,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27647,
+      "num": 62416,
+      "word": "AI和机器人先把地拖明白了再说",
+      "onboard_time": 1776709935,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 26666,
@@ -4793,14 +4809,6 @@
       "onboard_time": 1776599721,
       "rank": 29,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 25963,
-      "num": 62416,
-      "word": "AI和机器人先把地拖明白了再说",
-      "onboard_time": 1776709935,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 25592,
@@ -4841,6 +4849,30 @@
       "onboard_time": 1776541454,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21707,
+      "num": 28314,
+      "word": "18岁女孩1年多打赏主播上千万",
+      "onboard_time": 1776714373,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20214,
+      "num": 28308,
+      "word": "老人半年打赏男主播330万",
+      "onboard_time": 1776716294,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20019,
+      "num": 28308,
+      "word": "女孩打赏主播上千万致父亲濒临破产",
+      "onboard_time": 1776714793,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 19988,
@@ -4891,6 +4923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14652,
+      "num": 28306,
+      "word": "洛阳牡丹开成了调色盘",
+      "onboard_time": 1776718694,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13271,
       "num": 185435,
       "word": "法国国图收藏敦煌文物1万多件",
@@ -4905,6 +4945,14 @@
       "onboard_time": 1776489141,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 5564,
+      "num": 90952,
+      "word": "硬核数据看中国经济动力澎湃",
+      "onboard_time": 1776689181,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4623,
