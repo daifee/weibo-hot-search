@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776643375485,
+  "endTime": 1776656056086,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9837930,
+      "num": 9837930,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1773621382,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9720060,
       "num": 9720060,
       "word": "未发现鞠婧祎涉税问题",
@@ -633,14 +641,6 @@
       "onboard_time": 1771411880,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6654519,
-      "num": 274014,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1773621382,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 6494502,
