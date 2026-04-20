@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/20 23:03:20
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/20 23:23:35
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AF%8C%E5%9F%8E%E4%B9%B0%E4%BA%86%E8%AE%A9%E5%A5%B3%E5%8F%8B%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95%E7%9A%84%E7%A4%BC%E7%89%A9%23" target="weibo">
+郭富城买了让女友痛哭流涕的礼物（热度：2270618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B81%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 重庆大学实验室爆炸1死3伤（热度：2269087）
 </a>
@@ -1745,12 +1751,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%AB%E8%96%AF%E7%B2%BE%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 紫薯精天塌了（热度：2087503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AF%8C%E5%9F%8E%E4%B9%B0%E4%BA%86%E8%AE%A9%E5%A5%B3%E5%8F%8B%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95%E7%9A%84%E7%A4%BC%E7%89%A9%23" target="weibo">
-郭富城买了让女友痛哭流涕的礼物（热度：2082085）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1776698615869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353958,
+        "num": 1353958,
+        "word": "日本7.7级地震",
+        "onboard_time": 1776672623,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 831288,
+        "num": 874494,
+        "word": "MCN回应女孩挪用1700万打赏主播",
+        "onboard_time": 1776691642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35394,
+        "num": 688772,
+        "word": "当中文遇上锦绣山河的中国传统色",
+        "onboard_time": 1776689601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2760743,
+        "num": 660567,
+        "word": "19岁女孩挪用1700万当榜一大姐",
+        "onboard_time": 1776686301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457521,
+        "num": 457521,
+        "word": "爱奇艺称AI艺人库仅是合作意愿",
+        "onboard_time": 1776689721,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361800,
+        "num": 361800,
+        "word": "逐玉的成功在于第三集续看率95%",
+        "onboard_time": 1776679943,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104390,
+        "num": 361754,
+        "word": "EWC2026英雄联盟预选赛",
+        "onboard_time": 1776691823,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66621,
+        "num": 361682,
+        "word": "丁俊晖10比5吉尔伯特",
+        "onboard_time": 1776691461,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63959,
+        "num": 361602,
+        "word": "华为发布会",
+        "onboard_time": 1776665721,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43896,
+        "num": 361493,
+        "word": "央视曝直播间免费鉴宝骗局",
+        "onboard_time": 1776697702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2270618,
+        "num": 361474,
+        "word": "郭富城买了让女友痛哭流涕的礼物",
+        "onboard_time": 1776688582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65574,
+        "num": 361329,
+        "word": "上海男篮vs辽宁男篮",
+        "onboard_time": 1776696863,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1841855,
+        "num": 361287,
+        "word": "爱奇艺股价从46美元跌到1.4美元",
+        "onboard_time": 1776691402,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1784673,
+        "num": 361238,
+        "word": "曝王楚然早就融了AI",
+        "onboard_time": 1776680002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1043756,
+        "num": 361160,
+        "word": "田曦薇 想跑路可以直说",
+        "onboard_time": 1776684321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75609,
+        "num": 361055,
+        "word": "BLG对战iG",
+        "onboard_time": 1776687861,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 987955,
+        "num": 360938,
+        "word": "叶祖新的脸怎么了",
+        "onboard_time": 1776687562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648216,
+        "num": 360881,
+        "word": "宝妈拆快递剪断7个月宝宝食指",
+        "onboard_time": 1776689901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82667,
+        "num": 360840,
+        "word": "檀健次喜提洞门拼豆小人",
+        "onboard_time": 1776695841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568527,
+        "num": 360707,
+        "word": "各国网民线上嘲讽日本人",
+        "onboard_time": 1776685341,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 708563,
+        "num": 360669,
+        "word": "时代峰峻大楼被雷劈了",
+        "onboard_time": 1776662300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155656,
+        "num": 360600,
+        "word": "丁俊晖晋级世锦赛16强",
+        "onboard_time": 1776694042,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643788,
+        "num": 360539,
+        "word": "易梦玲是瘦了还是do脸了",
+        "onboard_time": 1776685221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144349,
+        "num": 360418,
+        "word": "长期使用空气炸锅的人都怎么样了",
+        "onboard_time": 1776681143,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 486403,
+        "num": 360360,
+        "word": "招财俊宝 SK狐狸",
+        "onboard_time": 1776689302,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360303,
+        "num": 360303,
+        "word": "颖儿付辛博女儿近照",
+        "onboard_time": 1776692003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340246,
+        "num": 352999,
+        "word": "东莞一男子把唇上肿瘤当痘痘挤了8年",
+        "onboard_time": 1776697402,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351463,
+        "num": 351463,
+        "word": "爱奇艺",
+        "onboard_time": 1776666441,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49763,
+        "num": 346296,
+        "word": "男童遭生父女友虐死案将宣判",
+        "onboard_time": 1776698300,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 344869,
+        "word": "方博回应代表哈萨克斯坦参赛",
+        "onboard_time": 1776678142,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299359,
+        "num": 344734,
+        "word": "持股市值不到7万元成第8大股东",
+        "onboard_time": 1776687321,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344691,
+        "num": 344691,
+        "word": "林子烨被吐槽态度差",
+        "onboard_time": 1776681440,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311474,
+        "num": 311474,
+        "word": "爱奇艺顶级IP赚了118亿",
+        "onboard_time": 1776686421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319289,
+        "num": 310601,
+        "word": "天津市血液中心称已报警",
+        "onboard_time": 1776692483,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305002,
+        "num": 305002,
+        "word": "金智秀方回应哥哥家暴争议",
+        "onboard_time": 1776684802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291206,
+        "num": 291206,
+        "word": "苏醒说AI艺人这方向真的对么",
+        "onboard_time": 1776692962,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238558,
+        "num": 238558,
+        "word": "退役军人到事务厅借厕所遭拒",
+        "onboard_time": 1776691942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244268,
+        "num": 238485,
+        "word": "天安门偶遇张杰谢娜",
+        "onboard_time": 1776695302,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232570,
+        "num": 232570,
+        "word": "弟弟去世赔50万5个姐姐起争执",
+        "onboard_time": 1776680842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220779,
+        "num": 220779,
+        "word": "严浩翔是说唱巅峰对决赛事组",
+        "onboard_time": 1776697342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160924,
+        "num": 214923,
+        "word": "幼童被父亲女友虐死前说我爱妈妈",
+        "onboard_time": 1776698481,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57260,
+        "num": 214376,
+        "word": "日本地震留学生称大楼像喝醉了一样",
+        "onboard_time": 1776697103,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213870,
+        "num": 213870,
+        "word": "五花肉里有一块绿色的东西",
+        "onboard_time": 1776674782,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197972,
+        "num": 197972,
+        "word": "备孕女子花2.3万治HPV最终子宫切除",
+        "onboard_time": 1776694823,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182681,
+        "num": 182681,
+        "word": "丁程鑫主舞的含金量",
+        "onboard_time": 1776696082,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180410,
+        "num": 180410,
+        "word": "爱奇艺 底线",
+        "onboard_time": 1776667762,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171808,
+        "num": 171808,
+        "word": "老人打赏花330万却交不起15元电费",
+        "onboard_time": 1776683661,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114528,
+        "num": 166696,
+        "word": "华为非凡大师女表一分钟全部售罄",
+        "onboard_time": 1776681801,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 166681,
+        "word": "刘宇宁回应是否会被AI抢饭碗",
+        "onboard_time": 1776698000,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 165503,
+        "word": "宁德时代股东一口气转让238亿元股票",
+        "onboard_time": 1776697041,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同沙特王储兼首相穆罕默德通电话#"
+    }
+  }
+}
