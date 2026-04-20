@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776693550230,
+  "endTime": 1776697400555,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1267,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3146099,
+      "num": 3059224,
+      "word": "19岁女孩挪用1700万当榜一大姐",
+      "onboard_time": 1776686301,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3119969,
       "num": 2431891,
       "word": "张雪峰相关账号停止直播",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1770369981,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3059224,
-      "num": 3059224,
-      "word": "19岁女孩挪用1700万当榜一大姐",
-      "onboard_time": 1776686301,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3050583,
@@ -2315,6 +2315,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2082085,
+      "num": 467571,
+      "word": "郭富城买了让女友痛哭流涕的礼物",
+      "onboard_time": 1776688582,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2081325,
       "num": 260122,
       "word": "站姐团建",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771758447,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2040173,
-      "num": 2040173,
-      "word": "暖阳FMVP",
-      "onboard_time": 1767355762,
-      "rank": 10,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

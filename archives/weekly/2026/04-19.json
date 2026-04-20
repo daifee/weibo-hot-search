@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776693550230,
+  "endTime": 1776697400555,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -51,7 +51,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 3059224,
+      "raw_hot": 3146099,
       "num": 3059224,
       "word": "19岁女孩挪用1700万当榜一大姐",
       "onboard_time": 1776686301,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2082085,
+      "num": 467571,
+      "word": "郭富城买了让女友痛哭流涕的礼物",
+      "onboard_time": 1776688582,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2021015,
       "num": 2021015,
       "word": "第44届金像奖获奖名单",
@@ -147,7 +155,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1837195,
+      "raw_hot": 1877092,
       "num": 471676,
       "word": "爱奇艺股价从46美元跌到1.4美元",
       "onboard_time": 1776691402,
@@ -193,6 +201,14 @@
       "onboard_time": 1776649822,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1581512,
+      "num": 1581512,
+      "word": "日本7.7级地震",
+      "onboard_time": 1776672623,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1423652,
@@ -307,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1139749,
-      "num": 467571,
-      "word": "郭富城买了让女友痛哭流涕的礼物",
-      "onboard_time": 1776688582,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1128396,
       "num": 1180543,
       "word": "服刑人员遭狱警虐待后身亡",
@@ -353,6 +361,14 @@
       "onboard_time": 1776583280,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1085524,
+      "num": 565474,
+      "word": "赵继伟 呵呵",
+      "onboard_time": 1776693262,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1074174,
@@ -433,6 +449,14 @@
       "onboard_time": 1776671302,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 972970,
+      "num": 448352,
+      "word": "叶祖新的脸怎么了",
+      "onboard_time": 1776687562,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 967916,
@@ -811,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657656,
+      "num": 392818,
+      "word": "易梦玲是瘦了还是do脸了",
+      "onboard_time": 1776685221,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656264,
       "num": 656264,
       "word": "梁家辉5封金像奖影帝爆哭",
@@ -841,6 +873,14 @@
       "onboard_time": 1776654260,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 643855,
+      "num": 920530,
+      "word": "MCN回应女孩挪用1700万打赏主播",
+      "onboard_time": 1776691642,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 639262,
@@ -979,20 +1019,20 @@
       "category": "互联网,作品衍生"
     },
     {
-      "raw_hot": 590438,
-      "num": 448352,
-      "word": "叶祖新的脸怎么了",
-      "onboard_time": 1776687562,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578889,
       "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
       "onboard_time": 1776598822,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 578207,
+      "num": 578207,
+      "word": "爱奇艺称AI艺人库仅是合作意愿",
+      "onboard_time": 1776689721,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 573391,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1776641479,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 536176,
-      "num": 536176,
-      "word": "爱奇艺称AI艺人库仅是合作意愿",
-      "onboard_time": 1776689721,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 535761,
@@ -1331,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466089,
+      "num": 466089,
+      "word": "各国网民线上嘲讽日本人",
+      "onboard_time": 1776685341,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 463653,
       "num": 324402,
       "word": "逐玉播出后最爆的是何润东",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1776593781,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 430980,
-      "num": 430980,
-      "word": "各国网民线上嘲讽日本人",
-      "onboard_time": 1776685341,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 429849,
@@ -1625,14 +1657,6 @@
       "onboard_time": 1776671122,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 392818,
-      "num": 392818,
-      "word": "易梦玲是瘦了还是do脸了",
-      "onboard_time": 1776685221,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 388528,
@@ -2131,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280117,
+      "num": 280117,
+      "word": "天津市血液中心称已报警",
+      "onboard_time": 1776692483,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279745,
       "num": 279745,
       "word": "解放军凌晨四点管控日舰过航台湾海峡",
@@ -2283,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255198,
-      "num": 255198,
-      "word": "MCN回应女孩挪用1700万打赏主播",
-      "onboard_time": 1776691642,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253385,
       "num": 253385,
       "word": "网传攻玉男主换曾舜晞",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1776660682,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 242195,
-      "num": 477096,
-      "word": "赵继伟 呵呵",
-      "onboard_time": 1776693262,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 239924,
@@ -2803,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204248,
+      "num": 204248,
+      "word": "天安门偶遇张杰谢娜",
+      "onboard_time": 1776695302,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204192,
       "num": 399792,
       "word": "豆包回应豆脚机器人",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1776569781,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202174,
+      "num": 202174,
+      "word": "备孕女子花2.3万治HPV最终子宫切除",
+      "onboard_time": 1776694823,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200288,
@@ -2881,6 +2913,14 @@
       "onboard_time": 1776663980,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 194959,
+      "num": 194959,
+      "word": "丁程鑫主舞的含金量",
+      "onboard_time": 1776696082,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194801,
@@ -2995,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182828,
-      "num": 182828,
-      "word": "天津市血液中心称已报警",
-      "onboard_time": 1776692483,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182785,
       "num": 181398,
       "word": "梁家辉拿最佳男主时手表来电了",
@@ -3055,6 +3087,14 @@
       "num": 176391,
       "word": "白鹿跑男宣传莫离",
       "onboard_time": 1776583280,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173824,
+      "num": 173824,
+      "word": "严浩翔是说唱巅峰对决赛事组",
+      "onboard_time": 1776697342,
       "rank": 47,
       "category": "综艺"
     },
@@ -3739,6 +3779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99497,
+      "num": 291611,
+      "word": "丁俊晖晋级世锦赛16强",
+      "onboard_time": 1776694042,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97684,
       "num": 197576,
       "word": "蓝莓摊泼水节被洗劫一空摊主发声",
@@ -3824,6 +3872,14 @@
       "word": "日本囤分离钚足够造约5500枚核弹头",
       "onboard_time": 1776520942,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88207,
+      "num": 174069,
+      "word": "美国代表团将在数小时内抵达巴基斯坦",
+      "onboard_time": 1776695782,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -4099,6 +4155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 60408,
+      "num": 302958,
+      "word": "檀健次喜提洞门拼豆小人",
+      "onboard_time": 1776695841,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58930,
       "num": 79354,
       "word": "东部战区舰艇编队赴西太海域开展演训",
@@ -4193,6 +4257,14 @@
       "onboard_time": 1776611302,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51475,
+      "num": 173132,
+      "word": "上海男篮vs辽宁男篮",
+      "onboard_time": 1776696863,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 51440,
@@ -4299,6 +4371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40586,
+      "num": 174857,
+      "word": "被质疑顶刊论文造假同济教授王某回应",
+      "onboard_time": 1776695902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39261,
       "num": 76685,
       "word": "孙颖莎萌萌奔向训练馆",
@@ -4328,6 +4408,14 @@
       "word": "3000万粉主播称家中失窃300万",
       "onboard_time": 1776624194,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34768,
+      "num": 1076060,
+      "word": "当中文遇上锦绣山河的中国传统色",
+      "onboard_time": 1776689601,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4395,14 +4483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28288,
-      "num": 1076060,
-      "word": "当中文遇上锦绣山河的中国传统色",
-      "onboard_time": 1776689601,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26666,
       "num": 43736,
       "word": "龚俊看刘宇宁演唱会",
@@ -4465,6 +4545,14 @@
       "onboard_time": 1776541454,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22783,
+      "num": 278188,
+      "word": "日本地震留学生称大楼像喝醉了一样",
+      "onboard_time": 1776697103,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19988,
