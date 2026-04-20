@@ -1,0 +1,410 @@
+{
+  "runTime": 1776684334557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721169,
+        "num": 1721169,
+        "word": "日本7.5级地震",
+        "onboard_time": 1776672623,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 393953,
+        "num": 943403,
+        "word": "中方回应美国截停中国驶往伊朗油轮",
+        "onboard_time": 1776676042,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139581,
+        "num": 924078,
+        "word": "2025年我国人均读书8.39本",
+        "onboard_time": 1776672382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 915745,
+        "num": 915745,
+        "word": "弟弟去世赔50万5个姐姐起争执",
+        "onboard_time": 1776680842,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419327,
+        "num": 915681,
+        "word": "美国发生2024年以来最严重枪击案",
+        "onboard_time": 1776676401,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266670,
+        "num": 915619,
+        "word": "蜜语纪",
+        "onboard_time": 1776683362,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222370,
+        "num": 915616,
+        "word": "方博回应代表哈萨克斯坦参赛",
+        "onboard_time": 1776678142,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168246,
+        "num": 915537,
+        "word": "华为发布会",
+        "onboard_time": 1776665721,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50504,
+        "num": 915427,
+        "word": "姆巴佩喊你补水啦",
+        "onboard_time": 1776681741,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18471,
+        "num": 915376,
+        "word": "美国关税大棒的回旋镖到哪儿了",
+        "onboard_time": 1776683541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10111950,
+        "num": 10111950,
+        "word": "爱奇艺",
+        "onboard_time": 1776666441,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781985,
+        "num": 915255,
+        "word": "五花肉里有一块绿色的东西",
+        "onboard_time": 1776674782,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314859,
+        "num": 915216,
+        "word": "猫 人你干嘛闻我的脚",
+        "onboard_time": 1776678982,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1705508,
+        "num": 915127,
+        "word": "爱奇艺 底线",
+        "onboard_time": 1776667762,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123990,
+        "num": 915095,
+        "word": "爱奇艺股价暴跌是有原因的",
+        "onboard_time": 1776682640,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1248445,
+        "num": 915027,
+        "word": "低情商演员失业 高情商更多休息",
+        "onboard_time": 1776664942,
+        "rank": 15,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 1052400,
+        "num": 914961,
+        "word": "未授权AI艺人",
+        "onboard_time": 1776670642,
+        "rank": 16,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 330168,
+        "num": 914909,
+        "word": "华为Pura90价格",
+        "onboard_time": 1776671302,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264520,
+        "num": 914835,
+        "word": "逐玉的成功在于第三集续看率95%",
+        "onboard_time": 1776679943,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77158,
+        "num": 914753,
+        "word": "老人打赏花330万却交不起15元电费",
+        "onboard_time": 1776683661,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914726,
+        "num": 914726,
+        "word": "曝王楚然早就融了AI",
+        "onboard_time": 1776680002,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870293,
+        "num": 870293,
+        "word": "爱奇艺十部剧赚了67亿",
+        "onboard_time": 1776673164,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462171,
+        "num": 778491,
+        "word": "长期使用空气炸锅的人都怎么样了",
+        "onboard_time": 1776681143,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259973,
+        "num": 749516,
+        "word": "女子做无痛人流子宫穿孔致十级伤残",
+        "onboard_time": 1776679943,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725642,
+        "num": 725642,
+        "word": "时代峰峻大楼被雷劈了",
+        "onboard_time": 1776662300,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711390,
+        "num": 711390,
+        "word": "演员集体辟谣AI授权",
+        "onboard_time": 1776679162,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121119,
+        "num": 701281,
+        "word": "日本要求海啸警报地区民众立即避难",
+        "onboard_time": 1776684141,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 696652,
+        "num": 696652,
+        "word": "林子烨被吐槽态度差",
+        "onboard_time": 1776681440,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475715,
+        "num": 475715,
+        "word": "温峥嵘听劝回去拍戏了",
+        "onboard_time": 1776670522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361452,
+        "num": 361452,
+        "word": "模仿瘦人的吃饭习惯",
+        "onboard_time": 1776675143,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383361,
+        "num": 342077,
+        "word": "爱奇艺top10剧集没有莲花楼",
+        "onboard_time": 1776676822,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318723,
+        "num": 318723,
+        "word": "白鹿新买的阿贝贝",
+        "onboard_time": 1776673283,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207639,
+        "num": 270491,
+        "word": "江浙沪年轻人捧红线下杀糕经济",
+        "onboard_time": 1776682282,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264823,
+        "num": 264823,
+        "word": "迪丽热巴刘耀文大屏",
+        "onboard_time": 1776683000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244441,
+        "num": 244441,
+        "word": "李兰迪吊带黑裙",
+        "onboard_time": 1776682821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194167,
+        "num": 228364,
+        "word": "华为非凡大师女表一分钟全部售罄",
+        "onboard_time": 1776681801,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225722,
+        "num": 225722,
+        "word": "刘嘉玲带梁朝伟回苏州老家",
+        "onboard_time": 1776678861,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61774,
+        "num": 220792,
+        "word": "拒借车遭殴打搜家小学生父亲发声",
+        "onboard_time": 1776682881,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 216821,
+        "num": 216821,
+        "word": "陈奕迅见惠英红像触电了一样",
+        "onboard_time": 1776678562,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206338,
+        "num": 206338,
+        "word": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
+        "onboard_time": 1776659484,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188264,
+        "num": 188264,
+        "word": "华为PuraXMax",
+        "onboard_time": 1776673823,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194320,
+        "num": 188188,
+        "word": "五月天怪兽二胎得子",
+        "onboard_time": 1776674183,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187305,
+        "num": 187305,
+        "word": "看完你还敢咬指甲吗",
+        "onboard_time": 1776670101,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177455,
+        "num": 177455,
+        "word": "田曦薇双马尾好甜",
+        "onboard_time": 1776675143,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182004,
+        "num": 176885,
+        "word": "陈哲远对接否认签署AI授权",
+        "onboard_time": 1776672084,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172612,
+        "num": 176117,
+        "word": "重点中学高三生被抓微信零钱20多万",
+        "onboard_time": 1776667701,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175569,
+        "num": 175569,
+        "word": "张若昀工作室 没签过AI授权",
+        "onboard_time": 1776665001,
+        "rank": 46,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 172824,
+        "word": "张凌赫王楚然剧宣",
+        "onboard_time": 1776673523,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130373,
+        "num": 160497,
+        "word": "女子丧子3年后二宝查出癌症晚期",
+        "onboard_time": 1776672322,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157780,
+        "num": 157780,
+        "word": "麦迪娜 我怎么觉得女儿更像我",
+        "onboard_time": 1776683601,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领航天强国建设#"
+    }
+  }
+}
