@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776703294731,
+  "endTime": 1776705274313,
   "band_list": [
     {
       "raw_hot": 1511293,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 363217,
-      "num": 240901,
+      "num": 315530,
       "word": "各国网民线上嘲讽日本人",
       "onboard_time": 1776685341,
       "rank": 16,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346751,
+      "num": 236471,
+      "word": "东莞一男子把唇上肿瘤当痘痘挤了8年",
+      "onboard_time": 1776697402,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334437,
       "num": 237419,
       "word": "时代峰峻大楼被雷劈了",
@@ -115,16 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321791,
-      "num": 234729,
-      "word": "东莞一男子把唇上肿瘤当痘痘挤了8年",
-      "onboard_time": 1776697402,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309910,
-      "num": 232899,
+      "num": 236410,
       "word": "幼童被父亲女友虐死前说我爱妈妈",
       "onboard_time": 1776698481,
       "rank": 22,
@@ -163,8 +163,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236558,
+      "num": 236558,
+      "word": "爱奇艺综艺全面夯爆",
+      "onboard_time": 1776699980,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220543,
-      "num": 220543,
+      "num": 236360,
       "word": "爱奇艺顶级IP赚了118亿",
       "onboard_time": 1776686421,
       "rank": 26,
@@ -188,15 +196,23 @@
     },
     {
       "raw_hot": 201346,
-      "num": 221467,
+      "num": 236389,
       "word": "虐死男友3岁儿子凶手称忍不住不打",
       "onboard_time": 1776700820,
       "rank": 25,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181280,
+      "num": 236321,
+      "word": "爱奇艺 底线",
+      "onboard_time": 1776667762,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179987,
-      "num": 179987,
+      "num": 236144,
       "word": "持股市值不到7万元成第8大股东",
       "onboard_time": 1776687321,
       "rank": 28,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 161534,
-      "num": 156825,
+      "num": 236348,
       "word": "宁德时代股东一口气转让238亿元股票",
       "onboard_time": 1776697041,
       "rank": 31,
@@ -236,23 +252,15 @@
     },
     {
       "raw_hot": 157272,
-      "num": 157272,
+      "num": 236214,
       "word": "严浩翔是说唱巅峰对决赛事组",
       "onboard_time": 1776697342,
       "rank": 29,
       "category": "综艺"
     },
     {
-      "raw_hot": 155269,
-      "num": 155269,
-      "word": "爱奇艺 底线",
-      "onboard_time": 1776667762,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149833,
-      "num": 149833,
+      "num": 236298,
       "word": "备孕女子花2.3万治HPV最终子宫切除",
       "onboard_time": 1776694823,
       "rank": 34,
@@ -275,16 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132138,
-      "num": 132138,
-      "word": "爱奇艺综艺全面夯爆",
-      "onboard_time": 1776699980,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131413,
-      "num": 131413,
+      "num": 236120,
       "word": "谢娜今天第一天联排乐队",
       "onboard_time": 1776699560,
       "rank": 39,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 124658,
-      "num": 134594,
+      "num": 236503,
       "word": "老人打赏花330万却交不起15元电费",
       "onboard_time": 1776683661,
       "rank": 37,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 117278,
-      "num": 117278,
+      "num": 236269,
       "word": "女数学家王虹获科学界奥斯卡",
       "onboard_time": 1776701359,
       "rank": 40,
@@ -316,15 +316,39 @@
     },
     {
       "raw_hot": 110677,
-      "num": 110677,
+      "num": 236027,
       "word": "Bin哥VN三杀",
       "onboard_time": 1776697702,
       "rank": 41,
       "category": "电竞"
     },
     {
+      "raw_hot": 101309,
+      "num": 236241,
+      "word": "中方就伊朗向印度船只开火表态",
+      "onboard_time": 1776702918,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 98839,
+      "num": 236205,
+      "word": "A股突现重大资产重组新模式",
+      "onboard_time": 1776703338,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97857,
+      "num": 236178,
+      "word": "女孩挪用千万打赏主播不愿退钱",
+      "onboard_time": 1776704418,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96103,
-      "num": 96103,
+      "num": 236048,
       "word": "弟弟去世赔50万5个姐姐起争执",
       "onboard_time": 1776680842,
       "rank": 42,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 92231,
-      "num": 92231,
+      "num": 236066,
       "word": "AI版成何体统逐玉",
       "onboard_time": 1776685460,
       "rank": 43,
@@ -355,16 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83987,
-      "num": 83987,
-      "word": "中方就伊朗向印度船只开火表态",
-      "onboard_time": 1776702918,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83298,
-      "num": 83298,
+      "num": 235913,
       "word": "华为非凡大师女表一分钟全部售罄",
       "onboard_time": 1776681801,
       "rank": 47,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 80566,
-      "num": 80566,
+      "num": 235949,
       "word": "演员集体辟谣AI授权",
       "onboard_time": 1776679162,
       "rank": 48,
@@ -380,11 +396,19 @@
     },
     {
       "raw_hot": 78899,
-      "num": 80254,
+      "num": 236113,
       "word": "丁俊晖回应将对阵赵心童",
       "onboard_time": 1776699200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75397,
+      "num": 236087,
+      "word": "实习住8人寝上百人共用4水龙头",
+      "onboard_time": 1776704418,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71687,
@@ -393,6 +417,110 @@
       "onboard_time": 1776694042,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62784,
+      "num": 236016,
+      "word": "娃坐了6年电瓶车还不知回家的路",
+      "onboard_time": 1776704418,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62051,
+      "num": 235993,
+      "word": "模仿瘦人的吃饭习惯",
+      "onboard_time": 1776675143,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 57384,
+      "num": 235967,
+      "word": "在招聘页面放AI聚餐照",
+      "onboard_time": 1776704537,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52703,
+      "num": 235929,
+      "word": "遭家暴离婚百万网红带娃搬进毛坯房",
+      "onboard_time": 1776704896,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49700,
+      "num": 235889,
+      "word": "爱奇艺top10剧集没有莲花楼",
+      "onboard_time": 1776676822,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48835,
+      "num": 235877,
+      "word": "轩染给长生发红包",
+      "onboard_time": 1776698661,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 47269,
+      "num": 235861,
+      "word": "上海男篮vs辽宁男篮",
+      "onboard_time": 1776696863,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45877,
+      "num": 235845,
+      "word": "家业",
+      "onboard_time": 1776698122,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44435,
+      "num": 235817,
+      "word": "3岁男童被女友虐死生父要求生母撤诉",
+      "onboard_time": 1776704716,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43644,
+      "num": 235810,
+      "word": "马斯克被法国检方传唤",
+      "onboard_time": 1776700699,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42282,
+      "num": 235792,
+      "word": "央视曝直播间免费鉴宝骗局",
+      "onboard_time": 1776697702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41976,
+      "num": 235746,
+      "word": "五花肉里有一块绿色的东西",
+      "onboard_time": 1776674782,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27928,
+      "num": 345823,
+      "word": "谷雨是春天最诗意的收尾",
+      "onboard_time": 1776689422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23486,
