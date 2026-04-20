@@ -1,0 +1,410 @@
+{
+  "runTime": 1776693550230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3059224,
+        "num": 3059224,
+        "word": "19岁女孩挪用1700万当榜一大姐",
+        "onboard_time": 1776686301,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096353,
+        "num": 1096353,
+        "word": "1700万打赏主播聊天记录全曝光",
+        "onboard_time": 1776689062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28288,
+        "num": 1076060,
+        "word": "当中文遇上锦绣山河的中国传统色",
+        "onboard_time": 1776689601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066225,
+        "num": 1066225,
+        "word": "日本7.5级地震",
+        "onboard_time": 1776672623,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 536176,
+        "num": 536176,
+        "word": "爱奇艺称AI艺人库仅是合作意愿",
+        "onboard_time": 1776689721,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491033,
+        "num": 491033,
+        "word": "五花肉里有一块绿色的东西",
+        "onboard_time": 1776674782,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478749,
+        "num": 478749,
+        "word": "爱奇艺顶级IP赚了118亿",
+        "onboard_time": 1776686421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242195,
+        "num": 477096,
+        "word": "赵继伟 呵呵",
+        "onboard_time": 1776693262,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158550,
+        "num": 476201,
+        "word": "方博回应代表哈萨克斯坦参赛",
+        "onboard_time": 1776678142,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107756,
+        "num": 474768,
+        "word": "华为发布会",
+        "onboard_time": 1776665721,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1994875,
+        "num": 473241,
+        "word": "曝王楚然早就融了AI",
+        "onboard_time": 1776680002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1837195,
+        "num": 471676,
+        "word": "爱奇艺股价从46美元跌到1.4美元",
+        "onboard_time": 1776691402,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1658966,
+        "num": 468950,
+        "word": "田曦薇 想跑路可以直说",
+        "onboard_time": 1776684321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139749,
+        "num": 467571,
+        "word": "郭富城买了让女友痛哭流涕的礼物",
+        "onboard_time": 1776688582,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828680,
+        "num": 465227,
+        "word": "宝妈拆快递剪断7个月宝宝食指",
+        "onboard_time": 1776689901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782263,
+        "num": 464650,
+        "word": "时代峰峻大楼被雷劈了",
+        "onboard_time": 1776662300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207541,
+        "num": 461603,
+        "word": "长期使用空气炸锅的人都怎么样了",
+        "onboard_time": 1776681143,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131284,
+        "num": 460866,
+        "word": "深蓝S07把华为乾崑激光价格打下来了",
+        "onboard_time": 1776692422,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132740,
+        "num": 459527,
+        "word": "丁俊晖10比5吉尔伯特",
+        "onboard_time": 1776691461,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123621,
+        "num": 456544,
+        "word": "EWC2026英雄联盟预选赛",
+        "onboard_time": 1776691823,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 637707,
+        "num": 455847,
+        "word": "爱奇艺",
+        "onboard_time": 1776666441,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596330,
+        "num": 453534,
+        "word": "招财俊宝 SK狐狸",
+        "onboard_time": 1776689302,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 452550,
+        "num": 452550,
+        "word": "弟弟去世赔50万5个姐姐起争执",
+        "onboard_time": 1776680842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590438,
+        "num": 448352,
+        "word": "叶祖新的脸怎么了",
+        "onboard_time": 1776687562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577387,
+        "num": 445689,
+        "word": "金智秀方回应哥哥家暴争议",
+        "onboard_time": 1776684802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430980,
+        "num": 430980,
+        "word": "各国网民线上嘲讽日本人",
+        "onboard_time": 1776685341,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 529292,
+        "num": 422399,
+        "word": "林子烨被吐槽态度差",
+        "onboard_time": 1776681440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482782,
+        "num": 420199,
+        "word": "颖儿付辛博女儿近照",
+        "onboard_time": 1776692003,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412619,
+        "num": 412619,
+        "word": "退役军人到事务厅借厕所遭拒",
+        "onboard_time": 1776691942,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114774,
+        "num": 400926,
+        "word": "BLG对战iG",
+        "onboard_time": 1776687861,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 392818,
+        "num": 392818,
+        "word": "易梦玲是瘦了还是do脸了",
+        "onboard_time": 1776685221,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379333,
+        "num": 379333,
+        "word": "持股市值不到7万元成第8大股东",
+        "onboard_time": 1776687321,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 339361,
+        "num": 339361,
+        "word": "老人打赏花330万却交不起15元电费",
+        "onboard_time": 1776683661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312310,
+        "num": 312310,
+        "word": "爱奇艺 底线",
+        "onboard_time": 1776667762,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297410,
+        "num": 297410,
+        "word": "苏醒说AI艺人这方向真的对么",
+        "onboard_time": 1776692962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255198,
+        "num": 255198,
+        "word": "MCN回应女孩挪用1700万打赏主播",
+        "onboard_time": 1776691642,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305068,
+        "num": 247883,
+        "word": "爱奇艺十部剧赚了67亿",
+        "onboard_time": 1776673164,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293029,
+        "num": 246260,
+        "word": "云旗郝熠然舞蹈练习照",
+        "onboard_time": 1776686962,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228516,
+        "num": 228516,
+        "word": "模仿瘦人的吃饭习惯",
+        "onboard_time": 1776675143,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255280,
+        "num": 227143,
+        "word": "未授权AI艺人",
+        "onboard_time": 1776670642,
+        "rank": 39,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 223227,
+        "num": 223227,
+        "word": "逐玉的成功在于第三集续看率95%",
+        "onboard_time": 1776679943,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182828,
+        "num": 182828,
+        "word": "天津市血液中心称已报警",
+        "onboard_time": 1776692483,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245640,
+        "num": 180333,
+        "word": "低情商演员失业 高情商更多休息",
+        "onboard_time": 1776664942,
+        "rank": 42,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 203937,
+        "num": 177787,
+        "word": "AI版成何体统逐玉",
+        "onboard_time": 1776685460,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175178,
+        "num": 175178,
+        "word": "美国发生2024年以来最严重枪击案",
+        "onboard_time": 1776676401,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213230,
+        "num": 175009,
+        "word": "演员集体辟谣AI授权",
+        "onboard_time": 1776679162,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192466,
+        "num": 173615,
+        "word": "白鹿新买的阿贝贝",
+        "onboard_time": 1776673283,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167471,
+        "num": 167471,
+        "word": "官方通报小学生拒借车遭群殴",
+        "onboard_time": 1776690922,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 172348,
+        "num": 167089,
+        "word": "爱奇艺top10剧集没有莲花楼",
+        "onboard_time": 1776676822,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166674,
+        "num": 166674,
+        "word": "华为非凡大师女表一分钟全部售罄",
+        "onboard_time": 1776681801,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同沙特王储兼首相穆罕默德通电话#"
+    }
+  }
+}

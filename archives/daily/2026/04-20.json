@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776689246772,
+  "endTime": 1776693550230,
   "band_list": [
     {
       "raw_hot": 12032188,
@@ -43,8 +43,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 2931052,
-      "num": 364024,
+      "raw_hot": 3059224,
+      "num": 3059224,
       "word": "19岁女孩挪用1700万当榜一大姐",
       "onboard_time": 1776686301,
       "rank": 11,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1994875,
+      "num": 914726,
+      "word": "曝王楚然早就融了AI",
+      "onboard_time": 1776680002,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1971347,
       "num": 915127,
       "word": "爱奇艺 底线",
@@ -83,8 +91,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1837195,
+      "num": 471676,
+      "word": "爱奇艺股价从46美元跌到1.4美元",
+      "onboard_time": 1776691402,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1818071,
-      "num": 363710,
+      "num": 468950,
       "word": "田曦薇 想跑路可以直说",
       "onboard_time": 1776684321,
       "rank": 12,
@@ -96,14 +112,6 @@
       "word": "陈赫",
       "onboard_time": 1776617298,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1763090,
-      "num": 914726,
-      "word": "曝王楚然早就融了AI",
-      "onboard_time": 1776680002,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -171,6 +179,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 1139749,
+      "num": 467571,
+      "word": "郭富城买了让女友痛哭流涕的礼物",
+      "onboard_time": 1776688582,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1128396,
       "num": 1180543,
       "word": "服刑人员遭狱警虐待后身亡",
@@ -185,6 +201,14 @@
       "onboard_time": 1776682640,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1096353,
+      "num": 1096353,
+      "word": "1700万打赏主播聊天记录全曝光",
+      "onboard_time": 1776689062,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1054358,
@@ -249,6 +273,14 @@
       "onboard_time": 1776606502,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 828680,
+      "num": 465227,
+      "word": "宝妈拆快递剪断7个月宝宝食指",
+      "onboard_time": 1776689901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819164,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 758666,
-      "num": 358494,
+      "num": 445689,
       "word": "金智秀方回应哥哥家暴争议",
       "onboard_time": 1776684802,
       "rank": 17,
@@ -459,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596330,
+      "num": 453534,
+      "word": "招财俊宝 SK狐狸",
+      "onboard_time": 1776689302,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 591704,
       "num": 591704,
       "word": "爱奇艺将转型成非中心化社交媒体",
       "onboard_time": 1776671783,
       "rank": 6,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 590438,
+      "num": 448352,
+      "word": "叶祖新的脸怎么了",
+      "onboard_time": 1776687562,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 573391,
@@ -547,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 536176,
+      "num": 536176,
+      "word": "爱奇艺称AI艺人库仅是合作意愿",
+      "onboard_time": 1776689721,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535761,
       "num": 400948,
       "word": "王橹杰跳伞",
@@ -627,6 +683,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482782,
+      "num": 420199,
+      "word": "颖儿付辛博女儿近照",
+      "onboard_time": 1776692003,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 478749,
+      "num": 478749,
+      "word": "爱奇艺顶级IP赚了118亿",
+      "onboard_time": 1776686421,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462171,
       "num": 778491,
       "word": "长期使用空气炸锅的人都怎么样了",
@@ -641,6 +713,14 @@
       "onboard_time": 1776644424,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430980,
+      "num": 430980,
+      "word": "各国网民线上嘲讽日本人",
+      "onboard_time": 1776685341,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 428217,
@@ -691,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 418734,
-      "num": 346323,
-      "word": "叶祖新的脸怎么了",
-      "onboard_time": 1776687562,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417761,
       "num": 943403,
       "word": "中方回应美国截停中国驶往伊朗油轮",
@@ -715,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 412619,
+      "num": 412619,
+      "word": "退役军人到事务厅借厕所遭拒",
+      "onboard_time": 1776691942,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410620,
       "num": 321910,
       "word": "粉丝给朱志鑫苏新皓发红包",
@@ -729,14 +809,6 @@
       "onboard_time": 1776665902,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407471,
-      "num": 407471,
-      "word": "爱奇艺顶级IP赚了118亿",
-      "onboard_time": 1776686421,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 402334,
@@ -777,6 +849,14 @@
       "onboard_time": 1776671122,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 392818,
+      "num": 392818,
+      "word": "易梦玲是瘦了还是do脸了",
+      "onboard_time": 1776685221,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 390270,
@@ -827,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 379333,
+      "num": 379333,
+      "word": "持股市值不到7万元成第8大股东",
+      "onboard_time": 1776687321,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 373718,
       "num": 500306,
       "word": "AI观众",
@@ -867,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361151,
-      "num": 361151,
-      "word": "各国网民线上嘲讽日本人",
-      "onboard_time": 1776685341,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 359318,
       "num": 286884,
       "word": "折月亮首发预告",
@@ -905,14 +985,6 @@
       "onboard_time": 1776669023,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347081,
-      "num": 347081,
-      "word": "持股市值不到7万元成第8大股东",
-      "onboard_time": 1776687321,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 345871,
@@ -1051,14 +1123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304581,
-      "num": 304581,
-      "word": "郭富城买了让女友痛哭流涕的礼物",
-      "onboard_time": 1776688582,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301648,
       "num": 551336,
       "word": "方博以哈萨克斯坦球员身份注册WTT",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1776671723,
       "rank": 31,
       "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 297410,
+      "num": 297410,
+      "word": "苏醒说AI艺人这方向真的对么",
+      "onboard_time": 1776692962,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 294807,
@@ -1179,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255198,
+      "num": 255198,
+      "word": "MCN回应女孩挪用1700万打赏主播",
+      "onboard_time": 1776691642,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250038,
       "num": 368011,
       "word": "王一博28分钟连续超6台赛车",
@@ -1211,12 +1291,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 242458,
-      "num": 242458,
-      "word": "易梦玲是瘦了还是do脸了",
-      "onboard_time": 1776685221,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 242195,
+      "num": 477096,
+      "word": "赵继伟 呵呵",
+      "onboard_time": 1776693262,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 239924,
@@ -1507,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182828,
+      "num": 182828,
+      "word": "天津市血液中心称已报警",
+      "onboard_time": 1776692483,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182785,
       "num": 181398,
       "word": "梁家辉拿最佳男主时手表来电了",
@@ -1563,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167471,
+      "num": 167471,
+      "word": "官方通报小学生拒借车遭群殴",
+      "onboard_time": 1776690922,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 166653,
       "num": 339984,
       "word": "男子美国摆摊进货1元卖5美元",
@@ -1596,7 +1692,7 @@
     },
     {
       "raw_hot": 161905,
-      "num": 365927,
+      "num": 400926,
       "word": "BLG对战iG",
       "onboard_time": 1776687861,
       "rank": 9,
@@ -1739,6 +1835,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132740,
+      "num": 459527,
+      "word": "丁俊晖10比5吉尔伯特",
+      "onboard_time": 1776691461,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131284,
+      "num": 460866,
+      "word": "深蓝S07把华为乾崑激光价格打下来了",
+      "onboard_time": 1776692422,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131257,
       "num": 191959,
       "word": "河南三地巨额数据造假25人被问责",
@@ -1793,6 +1905,14 @@
       "onboard_time": 1776601642,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123621,
+      "num": 456544,
+      "word": "EWC2026英雄联盟预选赛",
+      "onboard_time": 1776691823,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 121119,
@@ -2231,6 +2351,14 @@
       "num": 802369,
       "word": "150秒透视中国消费市场澎湃活力",
       "onboard_time": 1776603622,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28288,
+      "num": 1076060,
+      "word": "当中文遇上锦绣山河的中国传统色",
+      "onboard_time": 1776689601,
       "rank": 2,
       "category": "民生新闻"
     },
