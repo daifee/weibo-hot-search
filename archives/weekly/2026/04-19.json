@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776676382080,
+  "endTime": 1776683076156,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -107,12 +107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1971347,
+      "num": 499742,
+      "word": "爱奇艺 底线",
+      "onboard_time": 1776667762,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1942183,
       "num": 1942183,
       "word": "金像奖影后廖子妤",
       "onboard_time": 1776609504,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1877988,
+      "num": 1877988,
+      "word": "日本7.5级地震",
+      "onboard_time": 1776672623,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1818581,
@@ -137,6 +153,14 @@
       "onboard_time": 1776607463,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1598227,
+      "num": 479322,
+      "word": "曝王楚然早就融了AI",
+      "onboard_time": 1776680002,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1588740,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 967916,
-      "num": 370366,
+      "num": 387527,
       "word": "温峥嵘听劝回去拍戏了",
       "onboard_time": 1776670522,
       "rank": 14,
@@ -441,6 +465,22 @@
       "onboard_time": 1776555620,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 824095,
+      "num": 824095,
+      "word": "弟弟去世赔50万5个姐姐起争执",
+      "onboard_time": 1776680842,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819164,
+      "num": 819164,
+      "word": "五花肉里有一块绿色的东西",
+      "onboard_time": 1776674782,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 818722,
@@ -521,6 +561,22 @@
       "onboard_time": 1776612501,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787446,
+      "num": 575214,
+      "word": "爱奇艺股价暴跌是有原因的",
+      "onboard_time": 1776682640,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 778722,
+      "num": 388936,
+      "word": "林子烨被吐槽态度差",
+      "onboard_time": 1776681440,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 772081,
@@ -609,6 +665,14 @@
       "onboard_time": 1776575000,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 716225,
+      "num": 716225,
+      "word": "演员集体辟谣AI授权",
+      "onboard_time": 1776679162,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 714401,
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 573391,
-      "num": 573391,
+      "num": 664933,
       "word": "华为发布会",
       "onboard_time": 1776665721,
       "rank": 37,
@@ -1283,6 +1347,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 417761,
+      "num": 932998,
+      "word": "中方回应美国截停中国驶往伊朗油轮",
+      "onboard_time": 1776676042,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 413992,
       "num": 413992,
       "word": "东部战区舰艇编队赴西太平洋演训",
@@ -1388,7 +1460,7 @@
     },
     {
       "raw_hot": 394920,
-      "num": 321269,
+      "num": 364067,
       "word": "白鹿新买的阿贝贝",
       "onboard_time": 1776673283,
       "rank": 25,
@@ -1403,12 +1475,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 389033,
-      "num": 389033,
-      "word": "五花肉里有一块绿色的东西",
-      "onboard_time": 1776674782,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 388936,
+      "num": 388935,
+      "word": "长期使用空气炸锅的人都怎么样了",
+      "onboard_time": 1776681143,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 388528,
@@ -1419,8 +1491,24 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 382650,
+      "num": 382650,
+      "word": "模仿瘦人的吃饭习惯",
+      "onboard_time": 1776675143,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 381972,
+      "num": 381972,
+      "word": "爱奇艺top10剧集没有莲花楼",
+      "onboard_time": 1776676822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381476,
-      "num": 381476,
+      "num": 462506,
       "word": "美媒承认中国年轻人对美国幻灭了",
       "onboard_time": 1776672084,
       "rank": 18,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1776595641,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363174,
+      "num": 820186,
+      "word": "美国发生2024年以来最严重枪击案",
+      "onboard_time": 1776676401,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 359318,
@@ -1657,14 +1753,6 @@
       "onboard_time": 1776644905,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321105,
-      "num": 321105,
-      "word": "模仿瘦人的吃饭习惯",
-      "onboard_time": 1776675143,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 320818,
@@ -1939,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269445,
+      "num": 382100,
+      "word": "女子做无痛人流子宫穿孔致十级伤残",
+      "onboard_time": 1776679943,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269120,
       "num": 269120,
       "word": "郑恺这期收视率高吧我拿命换的",
@@ -2139,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237726,
+      "num": 595795,
+      "word": "逐玉的成功在于第三集续看率95%",
+      "onboard_time": 1776679943,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236850,
       "num": 236850,
       "word": "苏超",
@@ -2177,6 +2281,22 @@
       "onboard_time": 1776645262,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 231596,
+      "num": 218546,
+      "word": "迪丽热巴刘耀文大屏",
+      "onboard_time": 1776683000,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230965,
+      "num": 230965,
+      "word": "刘嘉玲带梁朝伟回苏州老家",
+      "onboard_time": 1776678861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 227883,
@@ -2252,7 +2372,7 @@
     },
     {
       "raw_hot": 221829,
-      "num": 221829,
+      "num": 551446,
       "word": "华为余承东称手机可能涨价",
       "onboard_time": 1776675981,
       "rank": 37,
@@ -2273,6 +2393,14 @@
       "onboard_time": 1776672322,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219214,
+      "num": 219214,
+      "word": "华为非凡大师女表一分钟全部售罄",
+      "onboard_time": 1776681801,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 218717,
@@ -2313,6 +2441,14 @@
       "onboard_time": 1776560120,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216639,
+      "num": 216639,
+      "word": "猫 人你干嘛闻我的脚",
+      "onboard_time": 1776678982,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 216635,
@@ -2459,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203150,
+      "num": 707018,
+      "word": "方博回应代表哈萨克斯坦参赛",
+      "onboard_time": 1776678142,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200288,
       "num": 181268,
       "word": "魏大勋这辈子都不会忘记耻骨在哪",
@@ -2521,6 +2665,14 @@
       "onboard_time": 1776524902,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 192957,
+      "num": 192957,
+      "word": "陈奕迅见惠英红像触电了一样",
+      "onboard_time": 1776678562,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 191859,
@@ -2625,6 +2777,14 @@
       "onboard_time": 1776653240,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180287,
+      "num": 180287,
+      "word": "偶遇张杰谢娜一家去天安门",
+      "onboard_time": 1776680121,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 179068,
@@ -2811,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159931,
+      "num": 159931,
+      "word": "江浙沪年轻人捧红线下杀糕经济",
+      "onboard_time": 1776682282,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159189,
       "num": 209075,
       "word": "龚俊拍了刘宇宁唱天问",
@@ -2987,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143650,
+      "num": 1750286,
+      "word": "2025年我国人均读书8.39本",
+      "onboard_time": 1776672382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -3017,14 +3193,6 @@
       "onboard_time": 1776619997,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134432,
-      "num": 1750286,
-      "word": "2025年我国人均读书8.39本",
-      "onboard_time": 1776672382,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130886,
@@ -3315,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95079,
+      "num": 645222,
+      "word": "日本地震海啸不会影响我国",
+      "onboard_time": 1776682341,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94091,
       "num": 402676,
       "word": "伊斯兰堡两大酒店通知住客离店",
@@ -3491,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73406,
+      "num": 371148,
+      "word": "姆巴佩喊你补水啦",
+      "onboard_time": 1776681741,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72670,
       "num": 84983,
       "word": "24岁女子坐6小时赢发呆比赛冠军",
@@ -3633,6 +3817,14 @@
       "onboard_time": 1776531619,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57483,
+      "num": 196839,
+      "word": "华为发布业界最轻AI眼镜",
+      "onboard_time": 1776679524,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 56960,
@@ -3787,6 +3979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40323,
+      "num": 234745,
+      "word": "拒借车遭殴打搜家小学生父亲发声",
+      "onboard_time": 1776682881,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39261,
       "num": 76685,
       "word": "孙颖莎萌萌奔向训练馆",
@@ -3841,6 +4041,14 @@
       "onboard_time": 1776627853,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32051,
+      "num": 303309,
+      "word": "我最想停止的倒计时",
+      "onboard_time": 1776679882,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 32023,

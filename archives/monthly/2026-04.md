@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/20 17:13:02
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/20 19:04:36
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%20%E5%BA%95%E7%BA%BF%23" target="weibo">
+爱奇艺 底线（热度：1971347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E5%85%A8%E4%BD%93%E4%BA%BA%E6%B0%91%E7%A5%9D%E8%B4%BA%E8%83%9C%E5%88%A9%23" target="weibo">
 伊朗向全体人民祝贺胜利（热度：1959242）
 </a>
@@ -431,6 +437,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%A1%E5%A4%B4%E6%96%91%E7%A7%83%E5%92%8C%E6%B0%B4%E6%B3%A1%23" target="weibo">
 薛之谦满头斑秃和水泡（热度：1919095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本7.5级地震（热度：1877988）
 </a>
 </li>
 
@@ -539,6 +551,12 @@ kimi都这么大了（热度：1742247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%B5%A2%E4%BA%86%E4%BD%95%E5%AE%A3%E6%9E%97%23" target="weibo">
 黄灿灿赢了何宣林（热度：1609619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23" target="weibo">
+曝王楚然早就融了AI（热度：1598227）
 </a>
 </li>
 
@@ -1965,6 +1983,12 @@ SEVENTEEN全员续约（热度：850827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%8E%BB%E4%B8%96%E8%B5%9450%E4%B8%875%E4%B8%AA%E5%A7%90%E5%A7%90%E8%B5%B7%E4%BA%89%E6%89%A7%23" target="weibo">
+弟弟去世赔50万5个姐姐起争执（热度：824095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E4%BA%BA%E8%8A%B130%E4%B8%87%E4%B9%B0%E6%9C%88%E8%96%AA2500%E7%9A%84%E9%AB%98%E9%93%81%E5%B7%A5%E4%BD%9C%23" target="weibo">
 12人花30万买月薪2500的高铁工作（热度：822267）
 </a>
@@ -1979,6 +2003,12 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E6%B0%91%E5%AE%BF%E5%AE%9A%E4%BB%B73%E5%9D%97%E9%92%B1%23" target="weibo">
 华晨宇的民宿定价3块钱（热度：819610）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8A%B1%E8%82%89%E9%87%8C%E6%9C%89%E4%B8%80%E5%9D%97%E7%BB%BF%E8%89%B2%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
+五花肉里有一块绿色的东西（热度：819164）
 </a>
 </li>
 
@@ -2181,6 +2211,12 @@ en王翊恩 结婚但没同居（热度：795143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
+爱奇艺股价暴跌是有原因的（热度：787446）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23" target="weibo">
 优思益发布海外工厂情况声明（热度：785841）
 </a>
@@ -2219,6 +2255,12 @@ en王翊恩 结婚但没同居（热度：795143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%23" target="weibo">
 美以袭击哈尔克岛（热度：779190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%90%E7%83%A8%E8%A2%AB%E5%90%90%E6%A7%BD%E6%80%81%E5%BA%A6%E5%B7%AE%23" target="weibo">
+林子烨被吐槽态度差（热度：778722）
 </a>
 </li>
 
@@ -2489,6 +2531,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%20%E9%80%89%E7%A7%80%23" target="weibo">
 郭敬明 选秀（热度：717314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23" target="weibo">
+演员集体辟谣AI授权（热度：716225）
 </a>
 </li>
 
@@ -5853,6 +5901,12 @@ sbti图鉴（热度：434557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%88%AA%E5%81%9C%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%23" target="weibo">
+中方回应美国截停中国驶往伊朗油轮（热度：417761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%95%85%E8%AF%B4%E6%9D%8E%E5%B0%8F%E5%86%89%E9%9D%A0%E4%B8%80%E5%BC%A0%E8%84%B8%E5%9C%A8%E5%8C%97%E8%88%9E%E8%BA%BA%E5%B9%B3%E4%B8%83%E5%B9%B4%23" target="weibo">
 陈畅说李小冉靠一张脸在北舞躺平七年（热度：417363）
 </a>
@@ -5957,60 +6011,6 @@ sbti图鉴（热度：434557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%B4%E5%A4%A7%E4%BA%86%23" target="weibo">
 美国头大了（热度：412525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0250%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%97%A0%E6%B3%95%E5%A8%81%E8%83%816000%E5%B9%B4%E6%96%87%E6%98%8E%23" target="weibo">
-伊朗称250年历史无法威胁6000年文明（热度：412037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%23" target="weibo">
-特朗普称对伊朗战争结束（热度：411952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%20%E7%BB%99%E7%9F%AD%E4%BA%BA%E4%BA%89%E6%B0%94%23" target="weibo">
-何宣林 给短人争气（热度：411809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%BB%99%E6%9C%B1%E5%BF%97%E9%91%AB%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
-粉丝给朱志鑫苏新皓发红包（热度：410620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%88%E7%89%99%E5%88%A9%23" target="weibo">
-匈牙利（热度：410579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E8%94%B7509%E7%A5%A8%23" target="weibo">
-萧蔷509票（热度：410433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%97%85%E6%B8%B8%E4%B8%8D%E8%B7%9F%E4%B8%89%E7%A7%8D%E4%BA%BA%E5%87%BA%E5%8E%BB%23" target="weibo">
-我旅游不跟三种人出去（热度：410363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%20%E8%99%8E%E9%B2%B8%23" target="weibo">
-杨超越 虎鲸（热度：409692）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%BD%90%E5%A3%B0%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
-多国齐声谴责以色列（热度：409422）
 </a>
 </li>
 
