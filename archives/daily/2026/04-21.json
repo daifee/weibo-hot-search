@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776709005367,
+  "endTime": 1776712687962,
   "band_list": [
     {
       "raw_hot": 1511293,
@@ -547,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29859,
+      "num": 62502,
+      "word": "日本未来一周可能发生同等规模地震",
+      "onboard_time": 1776690863,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27928,
       "num": 345823,
       "word": "谷雨是春天最诗意的收尾",
@@ -555,12 +563,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27702,
+      "num": 62473,
+      "word": "阴阳师",
+      "onboard_time": 1776697163,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 25963,
+      "num": 62416,
+      "word": "AI和机器人先把地拖明白了再说",
+      "onboard_time": 1776709935,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23486,
       "num": 484540,
       "word": "当中文遇上锦绣山河的中国传统色",
       "onboard_time": 1776689601,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22513,
+      "num": 62356,
+      "word": "EWC2026英雄联盟预选赛",
+      "onboard_time": 1776691823,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

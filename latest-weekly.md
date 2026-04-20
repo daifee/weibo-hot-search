@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/21 02:16:45
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/21 03:18:07
 </p>
 </blockquote>
 <p>
@@ -3567,8 +3567,20 @@ iOS27全新Siri界面（热度：108733）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%90%8C%E7%AD%89%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本未来一周可能发生同等规模地震（热度：29859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%E6%98%AF%E6%98%A5%E5%A4%A9%E6%9C%80%E8%AF%97%E6%84%8F%E7%9A%84%E6%94%B6%E5%B0%BE%23" target="weibo">
 谷雨是春天最诗意的收尾（热度：27928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
+阴阳师（热度：27702）
 </a>
 </li>
 
@@ -3587,6 +3599,12 @@ iOS27全新Siri界面（热度：108733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E5%90%83%E5%88%B0%E7%B2%89%E8%89%B2%E9%BB%84%E8%89%B2%E7%BA%A2%E8%89%B2%E8%93%9D%E8%8E%93%23" target="weibo">
 未来可能吃到粉色黄色红色蓝莓（热度：26136）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%88%E6%8A%8A%E5%9C%B0%E6%8B%96%E6%98%8E%E7%99%BD%E4%BA%86%E5%86%8D%E8%AF%B4%23" target="weibo">
+AI和机器人先把地拖明白了再说（热度：25963）
 </a>
 </li>
 
