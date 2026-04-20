@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776718707421,
+  "endTime": 1776719393180,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -4635,7 +4635,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39908,
+      "raw_hot": 40029,
       "num": 62502,
       "word": "日本未来一周可能发生同等规模地震",
       "onboard_time": 1776690863,
@@ -4731,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31870,
+      "num": 62473,
+      "word": "阴阳师",
+      "onboard_time": 1776697163,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31546,
       "num": 246061,
       "word": "三星门店偶遇明星概率好高",
@@ -4769,14 +4777,6 @@
       "onboard_time": 1776689422,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27841,
-      "num": 62473,
-      "word": "阴阳师",
-      "onboard_time": 1776697163,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 27647,
@@ -4843,6 +4843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24360,
+      "num": 25630,
+      "word": "女孩挪用千万打赏至今还沉迷手机",
+      "onboard_time": 1776718934,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23007,
       "num": 31645,
       "word": "Wolves对战Xteam",
@@ -4851,7 +4859,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21707,
+      "raw_hot": 22703,
       "num": 28314,
       "word": "18岁女孩1年多打赏主播上千万",
       "onboard_time": 1776714373,
@@ -4859,7 +4867,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20214,
+      "raw_hot": 22525,
       "num": 28308,
       "word": "老人半年打赏男主播330万",
       "onboard_time": 1776716294,
@@ -4939,6 +4947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11427,
+      "num": 25629,
+      "word": "痛风不能痛了才治",
+      "onboard_time": 1776718934,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 8032,
       "num": 223705,
       "word": "雷军在临沂一服务区被米粉送炒鸡",
@@ -4947,7 +4963,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 5564,
+      "raw_hot": 6906,
       "num": 90952,
       "word": "硬核数据看中国经济动力澎湃",
       "onboard_time": 1776689181,

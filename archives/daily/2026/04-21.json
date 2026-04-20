@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776718707421,
+  "endTime": 1776719393180,
   "band_list": [
     {
       "raw_hot": 1511293,
@@ -547,7 +547,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39908,
+      "raw_hot": 40029,
       "num": 62502,
       "word": "日本未来一周可能发生同等规模地震",
       "onboard_time": 1776690863,
@@ -561,6 +561,14 @@
       "onboard_time": 1776704418,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31870,
+      "num": 62473,
+      "word": "阴阳师",
+      "onboard_time": 1776697163,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 30051,
@@ -579,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27841,
-      "num": 62473,
-      "word": "阴阳师",
-      "onboard_time": 1776697163,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 27647,
       "num": 62416,
       "word": "AI和机器人先把地拖明白了再说",
@@ -603,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24360,
+      "num": 25630,
+      "word": "女孩挪用千万打赏至今还沉迷手机",
+      "onboard_time": 1776718934,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23486,
       "num": 484540,
       "word": "当中文遇上锦绣山河的中国传统色",
@@ -611,7 +619,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21707,
+      "raw_hot": 22703,
       "num": 28314,
       "word": "18岁女孩1年多打赏主播上千万",
       "onboard_time": 1776714373,
@@ -619,7 +627,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20214,
+      "raw_hot": 22525,
       "num": 28308,
       "word": "老人半年打赏男主播330万",
       "onboard_time": 1776716294,
@@ -643,7 +651,15 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 5564,
+      "raw_hot": 11427,
+      "num": 25629,
+      "word": "痛风不能痛了才治",
+      "onboard_time": 1776718934,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 6906,
       "num": 90952,
       "word": "硬核数据看中国经济动力澎湃",
       "onboard_time": 1776689181,
