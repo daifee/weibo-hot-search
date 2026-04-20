@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/20 14:33:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/20 16:37:17
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ U23国足vs日本（热度：16741456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%23" target="weibo">
+爱奇艺（热度：8753869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博之夜红毯（热度：8698031）
 </a>
@@ -639,6 +645,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%20%E7%A9%B7%E7%96%AF%E4%BA%86%E4%B9%9F%E5%BE%97%E6%9C%89%E5%BA%95%E7%BA%BF%23" target="weibo">
+爱奇艺 穷疯了也得有底线（热度：4441164）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94ins%E5%8F%96%E5%85%B3%E8%94%A1%E5%BE%90%E5%9D%A4%23" target="weibo">
 王嘉尔ins取关蔡徐坤（热度：4420525）
 </a>
@@ -683,6 +695,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%83%85%E5%95%86%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%20%E9%AB%98%E6%83%85%E5%95%86%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF%23" target="weibo">
 低情商演员失业 高情商更多休息（热度：4143269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+日本7.4级地震（热度：4129283）
 </a>
 </li>
 
@@ -1097,6 +1115,12 @@ U23国足亚军（热度：2760241）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%8C%E8%8A%B1%E7%A5%9E%20%E5%A5%BD%E7%9C%8B%23" target="weibo">
 十二花神 好看（热度：2725743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA%23" target="weibo">
+未授权AI艺人（热度：2708776）
 </a>
 </li>
 
@@ -1787,30 +1811,6 @@ TES上报Naiyou不正当行为（热度：2048848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E5%BE%B7%23" target="weibo">
 韦德（热度：2032182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E7%82%B9%E5%90%8D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
-中国军网点名张本智和（热度：2024649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A9%AC%E5%85%8B%E8%A7%A3%E7%BA%A6%E9%80%80%E5%9B%A2%23" target="weibo">
-李马克解约退团（热度：2023989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%94%B7%E5%A5%B3%E5%9C%A8%E5%85%AC%E4%BC%97%E5%9C%BA%E5%90%88%E5%AE%9E%E6%96%BD%E4%B8%8D%E9%9B%85%E8%A1%8C%E4%B8%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
-一男女在公众场合实施不雅行为被抓（热度：2023157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC44%E5%B1%8A%E9%87%91%E5%83%8F%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
-第44届金像奖获奖名单（热度：2021015）
 </a>
 </li>
 

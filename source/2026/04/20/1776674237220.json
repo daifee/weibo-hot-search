@@ -1,0 +1,410 @@
+{
+  "runTime": 1776674237220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4129283,
+        "num": 4129283,
+        "word": "日本7.4级地震",
+        "onboard_time": 1776672623,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2708776,
+        "num": 2708776,
+        "word": "未授权AI艺人",
+        "onboard_time": 1776670642,
+        "rank": 1,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 134432,
+        "num": 1744701,
+        "word": "2025年我国人均读书8.39本",
+        "onboard_time": 1776672382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8753869,
+        "num": 8753869,
+        "word": "爱奇艺",
+        "onboard_time": 1776666441,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4441164,
+        "num": 1636325,
+        "word": "爱奇艺 穷疯了也得有底线",
+        "onboard_time": 1776667762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985012,
+        "num": 985012,
+        "word": "华为Pura90价格",
+        "onboard_time": 1776671302,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 591704,
+        "num": 591704,
+        "word": "爱奇艺将转型成非中心化社交媒体",
+        "onboard_time": 1776671783,
+        "rank": 6,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 573391,
+        "num": 573391,
+        "word": "华为发布会",
+        "onboard_time": 1776665721,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 532263,
+        "num": 532263,
+        "word": "华为PuraXMax",
+        "onboard_time": 1776673823,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87036,
+        "num": 433638,
+        "word": "西双版纳通报女子被围堵泼水事件",
+        "onboard_time": 1776673523,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1608326,
+        "num": 420001,
+        "word": "低情商演员失业 高情商更多休息",
+        "onboard_time": 1776664942,
+        "rank": 10,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 1135447,
+        "num": 414419,
+        "word": "时代峰峻大楼被雷劈了",
+        "onboard_time": 1776662300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394796,
+        "num": 394796,
+        "word": "华为pura90",
+        "onboard_time": 1776671122,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 911848,
+        "num": 376949,
+        "word": "爱奇艺十部剧赚了67亿",
+        "onboard_time": 1776673164,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817462,
+        "num": 370366,
+        "word": "温峥嵘听劝回去拍戏了",
+        "onboard_time": 1776670522,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357040,
+        "num": 357040,
+        "word": "四川地震",
+        "onboard_time": 1776672623,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 719703,
+        "num": 349605,
+        "word": "AI艺人库 自掘坟墓",
+        "onboard_time": 1776662842,
+        "rank": 16,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 130002,
+        "num": 331511,
+        "word": "Pura90ProMax超大底2亿长焦",
+        "onboard_time": 1776672742,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322109,
+        "num": 322109,
+        "word": "美媒承认中国年轻人对美国幻灭了",
+        "onboard_time": 1776672084,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46976,
+        "num": 321087,
+        "word": "被围堵泼水女子未报警",
+        "onboard_time": 1776673045,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352781,
+        "num": 318789,
+        "word": "1岁男童基因突变患癌症晚期",
+        "onboard_time": 1776669023,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637230,
+        "num": 316874,
+        "word": "张若昀工作室 没签过AI授权",
+        "onboard_time": 1776665001,
+        "rank": 21,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 634063,
+        "num": 315742,
+        "word": "服刑人员遭狱警虐待后身亡",
+        "onboard_time": 1776661461,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443482,
+        "num": 313249,
+        "word": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
+        "onboard_time": 1776659484,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264513,
+        "num": 310458,
+        "word": "华为Pura90超清20倍长焦视频",
+        "onboard_time": 1776672682,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369091,
+        "num": 308850,
+        "word": "白鹿新买的阿贝贝",
+        "onboard_time": 1776673283,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355499,
+        "num": 307909,
+        "word": "看完你还敢咬指甲吗",
+        "onboard_time": 1776670101,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191255,
+        "num": 304197,
+        "word": "万达电影告别王健林时代",
+        "onboard_time": 1776665541,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 335376,
+        "num": 302858,
+        "word": "张杰就这么突然搂住了谢娜",
+        "onboard_time": 1776662482,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291488,
+        "num": 301311,
+        "word": "重点中学高三生被抓微信零钱20多万",
+        "onboard_time": 1776667701,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328303,
+        "num": 299565,
+        "word": "张凌赫王楚然剧宣",
+        "onboard_time": 1776673523,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297944,
+        "num": 297944,
+        "word": "卖脸",
+        "onboard_time": 1776671723,
+        "rank": 31,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 259088,
+        "num": 297104,
+        "word": "男子发现扔烟头处不长草决定戒烟",
+        "onboard_time": 1776671302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296328,
+        "num": 296328,
+        "word": "AI观众",
+        "onboard_time": 1776663921,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282284,
+        "num": 282284,
+        "word": "五月天怪兽二胎得子",
+        "onboard_time": 1776674183,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241754,
+        "num": 273499,
+        "word": "买点便宜衣服穿就显年轻了",
+        "onboard_time": 1776653779,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 272068,
+        "num": 272068,
+        "word": "陈哲远对接否认签署AI授权",
+        "onboard_time": 1776672084,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270929,
+        "num": 270929,
+        "word": "秦岚少榨点果汁嗓子早好了",
+        "onboard_time": 1776663440,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235465,
+        "num": 249308,
+        "word": "这句话让我决定每天多喝水了",
+        "onboard_time": 1776654260,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43773,
+        "num": 244890,
+        "word": "男子进减肥训练营仅3天身亡",
+        "onboard_time": 1776673704,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244469,
+        "num": 244469,
+        "word": "邓紫棋患地中海贫血",
+        "onboard_time": 1776655341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236637,
+        "num": 236637,
+        "word": "爱奇艺 长剧",
+        "onboard_time": 1776663622,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219677,
+        "num": 219677,
+        "word": "女子拆快递误甩美工刀打到同事脖颈",
+        "onboard_time": 1776660384,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235691,
+        "num": 219675,
+        "word": "严浩翔7秒的part切了17次分镜",
+        "onboard_time": 1776672382,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219672,
+        "num": 219672,
+        "word": "王橹杰跳伞",
+        "onboard_time": 1776665121,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218332,
+        "num": 218332,
+        "word": "方博宣布复出",
+        "onboard_time": 1776673463,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216973,
+        "num": 216973,
+        "word": "橘子海",
+        "onboard_time": 1776671122,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216635,
+        "num": 216635,
+        "word": "刘浩存去了张杰演唱会",
+        "onboard_time": 1776674002,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193027,
+        "num": 193027,
+        "word": "王一博28分钟连续超6台赛车",
+        "onboard_time": 1776665721,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204786,
+        "num": 192625,
+        "word": "女子丧子3年后二宝查出癌症晚期",
+        "onboard_time": 1776672322,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领航天强国建设#"
+    }
+  }
+}
