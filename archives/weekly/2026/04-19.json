@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776642384280,
+  "endTime": 1776643375485,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5377937,
-      "num": 233430,
+      "raw_hot": 6654519,
+      "num": 274014,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1776640398,
       "rank": 20,
@@ -97,6 +97,14 @@
       "onboard_time": 1776557779,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1399994,
+      "num": 286962,
+      "word": "陈赫晒鹿晗live图",
+      "onboard_time": 1776641601,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1388629,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 768133,
+      "num": 768133,
+      "word": "酱园弄颗粒无收",
+      "onboard_time": 1776640518,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 765043,
       "num": 647897,
       "word": "日本驱逐舰过航台湾海峡取证画面",
@@ -427,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 725392,
+      "num": 725392,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1776640518,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 719740,
       "num": 719740,
       "word": "生命缘官宣",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 666031,
-      "num": 267211,
+      "num": 285506,
       "word": "今年5月将进入厄尔尼诺状态",
       "onboard_time": 1776640518,
       "rank": 10,
@@ -481,6 +505,14 @@
       "onboard_time": 1776558200,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656264,
+      "num": 656264,
+      "word": "梁家辉5封金像奖影帝爆哭",
+      "onboard_time": 1776612922,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 646973,
@@ -497,14 +529,6 @@
       "onboard_time": 1776508520,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632900,
-      "num": 623101,
-      "word": "梁家辉5封金像奖影帝爆哭",
-      "onboard_time": 1776612922,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 626029,
@@ -537,6 +561,22 @@
       "onboard_time": 1776516623,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604180,
+      "num": 273199,
+      "word": "一小时不到只花了六分钟",
+      "onboard_time": 1776640880,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 602096,
+      "num": 283487,
+      "word": "薛之谦 李雨桐",
+      "onboard_time": 1776640758,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 602066,
@@ -579,28 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 586142,
-      "num": 265547,
-      "word": "陈赫晒鹿晗live图",
-      "onboard_time": 1776641601,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578889,
       "num": 435329,
       "word": "梁晶晶称流产5次失去7个孩子",
       "onboard_time": 1776598822,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575362,
-      "num": 575362,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1776640518,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 569425,
@@ -643,20 +667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537648,
+      "num": 537648,
+      "word": "美军武力拦截伊朗货船",
+      "onboard_time": 1776641479,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 532021,
       "num": 302733,
       "word": "听障女孩回应美得像假人",
       "onboard_time": 1776528741,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529915,
-      "num": 529915,
-      "word": "酱园弄颗粒无收",
-      "onboard_time": 1776640518,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 528983,
@@ -707,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498113,
-      "num": 231917,
-      "word": "一小时不到只花了六分钟",
-      "onboard_time": 1776640880,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496389,
       "num": 461660,
       "word": "24岁女研究生赢发呆比赛冠军",
@@ -729,6 +745,14 @@
       "onboard_time": 1776570140,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 491884,
+      "num": 845516,
+      "word": "东部战区舰艇编队过航横当水道",
+      "onboard_time": 1776604522,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 486670,
@@ -843,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 450501,
-      "num": 263262,
-      "word": "薛之谦 李雨桐",
-      "onboard_time": 1776640758,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447535,
       "num": 447535,
       "word": "泰国泼水节疑有人向人嘴里射毒水",
@@ -889,14 +905,6 @@
       "onboard_time": 1776593781,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 432743,
-      "num": 768776,
-      "word": "东部战区舰艇编队过航横当水道",
-      "onboard_time": 1776604522,
-      "rank": 48,
-      "category": "军事"
     },
     {
       "raw_hot": 429849,
@@ -1027,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 373452,
+      "num": 272953,
+      "word": "班主任回应12岁男孩遭9人群殴",
+      "onboard_time": 1776640637,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369964,
       "num": 273369,
       "word": "谁把张凌赫弄天上去了",
@@ -1099,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327754,
+      "num": 298037,
+      "word": "高中生因操行分不合格等被劝退",
+      "onboard_time": 1776606261,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324852,
       "num": 324852,
       "word": "日本与澳大利亚签订合同",
@@ -1147,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310798,
-      "num": 262812,
-      "word": "班主任回应12岁男孩遭9人群殴",
-      "onboard_time": 1776640637,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309619,
       "num": 273079,
       "word": "凌晨的徐艺洋简直是魔丸",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1776588681,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298037,
-      "num": 298037,
-      "word": "高中生因操行分不合格等被劝退",
-      "onboard_time": 1776606261,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297798,
@@ -1243,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 291434,
+      "num": 291434,
+      "word": "伊军称将很快报复美军",
+      "onboard_time": 1776642560,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288267,
       "num": 224800,
       "word": "谢娜录了时代少年团直拍",
@@ -1275,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275592,
+      "num": 275592,
+      "word": "章子怡马丽陪跑",
+      "onboard_time": 1776642199,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 274361,
       "num": 274361,
       "word": "纽北事故",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1776562880,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271081,
-      "num": 271081,
-      "word": "美军武力拦截伊朗货船",
-      "onboard_time": 1776641479,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 269120,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1776563958,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231632,
+      "num": 268327,
+      "word": "金像奖爆冷",
+      "onboard_time": 1776643101,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 227883,
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178693,
+      "num": 289172,
+      "word": "程序员追不上机器人干脆开电瓶车跟",
+      "onboard_time": 1776638416,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178320,
       "num": 209665,
       "word": "日本赌国运老毛病又犯了",
@@ -1803,11 +1835,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173807,
+      "num": 267816,
+      "word": "刘宇宁收官哭了",
+      "onboard_time": 1776640518,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171936,
       "num": 178276,
       "word": "王嘉尔在推特怼黑粉",
       "onboard_time": 1776521003,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171294,
+      "num": 267088,
+      "word": "张艺凡回应脱鞋合照",
+      "onboard_time": 1776642862,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1825,6 +1873,14 @@
       "onboard_time": 1776579021,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168685,
+      "num": 266697,
+      "word": "肖战主动逗主持人",
+      "onboard_time": 1776642740,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 168125,
@@ -1907,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160003,
-      "num": 138663,
-      "word": "刘宇宁收官哭了",
-      "onboard_time": 1776640518,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159189,
       "num": 209075,
       "word": "龚俊拍了刘宇宁唱天问",
@@ -1947,6 +1995,22 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 156644,
+      "num": 267322,
+      "word": "特朗普称万斯不参加美伊复谈",
+      "onboard_time": 1776641479,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 154053,
+      "num": 266113,
+      "word": "前女警谈遭多次恶意泼水经历",
+      "onboard_time": 1776642980,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154015,
       "num": 154015,
       "word": "钟美美对郝蕾贴脸开大",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1776590543,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151901,
+      "num": 269506,
+      "word": "男童被虐待致死凶手看到证据才承认",
+      "onboard_time": 1776618439,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150332,
@@ -2067,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139852,
+      "num": 265669,
+      "word": "NBA季后赛",
+      "onboard_time": 1776641479,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
@@ -2081,14 +2161,6 @@
       "onboard_time": 1776619997,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131609,
-      "num": 245243,
-      "word": "程序员追不上机器人干脆开电瓶车跟",
-      "onboard_time": 1776638416,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 130886,
@@ -2113,14 +2185,6 @@
       "onboard_time": 1776556098,
       "rank": 16,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 128496,
-      "num": 128496,
-      "word": "特朗普称万斯不参加美伊复谈",
-      "onboard_time": 1776641479,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125634,
@@ -2227,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116019,
+      "num": 116019,
+      "word": "何润东健身是不想输给外国艺人",
+      "onboard_time": 1776639978,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115958,
       "num": 222819,
       "word": "亚马逊创始人与56岁妻子正积极备孕",
@@ -2260,7 +2332,7 @@
     },
     {
       "raw_hot": 112739,
-      "num": 193477,
+      "num": 275337,
       "word": "小米徐洁云喊话造谣者",
       "onboard_time": 1776613759,
       "rank": 38,
@@ -2275,28 +2347,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111582,
+      "num": 111582,
+      "word": "拜仁提前4轮夺冠",
+      "onboard_time": 1776643282,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110770,
       "num": 110770,
       "word": "肖战听到围观睡觉的反应",
       "onboard_time": 1776625274,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108630,
-      "num": 108630,
-      "word": "章子怡马丽陪跑",
-      "onboard_time": 1776642199,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 106146,
-      "num": 121035,
-      "word": "男童被虐待致死凶手看到证据才承认",
-      "onboard_time": 1776618439,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106011,
@@ -2307,12 +2371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105075,
-      "num": 105075,
-      "word": "NBA季后赛",
-      "onboard_time": 1776641479,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 103554,
+      "num": 103554,
+      "word": "巴基斯坦伊斯兰堡红区全面封控",
+      "onboard_time": 1776635774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99553,
@@ -2337,14 +2401,6 @@
       "onboard_time": 1776518122,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 96065,
-      "num": 96065,
-      "word": "何润东健身是不想输给外国艺人",
-      "onboard_time": 1776639978,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 95706,
@@ -2425,14 +2481,6 @@
       "onboard_time": 1776505822,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85339,
-      "num": 85339,
-      "word": "巴基斯坦伊斯兰堡红区全面封控",
-      "onboard_time": 1776635774,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84923,
@@ -2819,20 +2867,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30557,
+      "num": 802369,
+      "word": "150秒透视中国消费市场澎湃活力",
+      "onboard_time": 1776603622,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26666,
       "num": 43736,
       "word": "龚俊看刘宇宁演唱会",
       "onboard_time": 1776545654,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26206,
-      "num": 686293,
-      "word": "150秒透视中国消费市场澎湃活力",
-      "onboard_time": 1776603622,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26136,

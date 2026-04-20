@@ -1,0 +1,410 @@
+{
+  "runTime": 1776643375485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078503,
+        "num": 1172560,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491884,
+        "num": 845516,
+        "word": "东部战区舰艇编队过航横当水道",
+        "onboard_time": 1776604522,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 30557,
+        "num": 802369,
+        "word": "150秒透视中国消费市场澎湃活力",
+        "onboard_time": 1776603622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768133,
+        "num": 768133,
+        "word": "酱园弄颗粒无收",
+        "onboard_time": 1776640518,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 725392,
+        "num": 725392,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1776640518,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656264,
+        "num": 656264,
+        "word": "梁家辉5封金像奖影帝爆哭",
+        "onboard_time": 1776612922,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537648,
+        "num": 537648,
+        "word": "美军武力拦截伊朗货船",
+        "onboard_time": 1776641479,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291434,
+        "num": 291434,
+        "word": "伊军称将很快报复美军",
+        "onboard_time": 1776642560,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289773,
+        "num": 289773,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178693,
+        "num": 289172,
+        "word": "程序员追不上机器人干脆开电瓶车跟",
+        "onboard_time": 1776638416,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1399994,
+        "num": 286962,
+        "word": "陈赫晒鹿晗live图",
+        "onboard_time": 1776641601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646678,
+        "num": 285506,
+        "word": "今年5月将进入厄尔尼诺状态",
+        "onboard_time": 1776640518,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602096,
+        "num": 283487,
+        "word": "薛之谦 李雨桐",
+        "onboard_time": 1776640758,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435615,
+        "num": 282625,
+        "word": "虞书欣父亲索赔17w败诉",
+        "onboard_time": 1776579380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238758,
+        "num": 279242,
+        "word": "出门和不出门过的是两种人生",
+        "onboard_time": 1776593304,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171942,
+        "num": 277545,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1776612141,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277371,
+        "num": 277371,
+        "word": "肖战我压力真的没有那么大",
+        "onboard_time": 1776605482,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275592,
+        "num": 275592,
+        "word": "章子怡马丽陪跑",
+        "onboard_time": 1776642199,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83250,
+        "num": 275337,
+        "word": "小米徐洁云喊话造谣者",
+        "onboard_time": 1776613759,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206650,
+        "num": 274722,
+        "word": "铁路12306已拒绝出票105.6万张",
+        "onboard_time": 1776592584,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6654519,
+        "num": 274014,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1776640398,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604180,
+        "num": 273199,
+        "word": "一小时不到只花了六分钟",
+        "onboard_time": 1776640880,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373452,
+        "num": 272953,
+        "word": "班主任回应12岁男孩遭9人群殴",
+        "onboard_time": 1776640637,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350227,
+        "num": 272204,
+        "word": "金莎晒结婚五金",
+        "onboard_time": 1776604102,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 271514,
+        "word": "张雪机车比赛因红旗中断",
+        "onboard_time": 1776610702,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271182,
+        "num": 271182,
+        "word": "谢娜上张杰鸟巢演唱会小火车",
+        "onboard_time": 1776611182,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242538,
+        "num": 270973,
+        "word": "第44届金像奖获奖名单",
+        "onboard_time": 1776606502,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159779,
+        "num": 270235,
+        "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
+        "onboard_time": 1776599842,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233147,
+        "num": 269969,
+        "word": "曝李小冉退出浪姐",
+        "onboard_time": 1776576980,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151901,
+        "num": 269506,
+        "word": "男童被虐待致死凶手看到证据才承认",
+        "onboard_time": 1776618439,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327754,
+        "num": 268794,
+        "word": "高中生因操行分不合格等被劝退",
+        "onboard_time": 1776606261,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231632,
+        "num": 268327,
+        "word": "金像奖爆冷",
+        "onboard_time": 1776643101,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173807,
+        "num": 267816,
+        "word": "刘宇宁收官哭了",
+        "onboard_time": 1776640518,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156644,
+        "num": 267322,
+        "word": "特朗普称万斯不参加美伊复谈",
+        "onboard_time": 1776641479,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171294,
+        "num": 267088,
+        "word": "张艺凡回应脱鞋合照",
+        "onboard_time": 1776642862,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168685,
+        "num": 266697,
+        "word": "肖战主动逗主持人",
+        "onboard_time": 1776642740,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154053,
+        "num": 266113,
+        "word": "前女警谈遭多次恶意泼水经历",
+        "onboard_time": 1776642980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139852,
+        "num": 265669,
+        "word": "NBA季后赛",
+        "onboard_time": 1776641479,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265223,
+        "num": 265223,
+        "word": "陈赫",
+        "onboard_time": 1776617298,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129957,
+        "num": 129957,
+        "word": "24岁女研究生赢发呆比赛冠军",
+        "onboard_time": 1776606863,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117143,
+        "num": 117143,
+        "word": "杜德伟金像奖最佳男配角",
+        "onboard_time": 1776640758,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116019,
+        "num": 116019,
+        "word": "何润东健身是不想输给外国艺人",
+        "onboard_time": 1776639978,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111582,
+        "num": 111582,
+        "word": "拜仁提前4轮夺冠",
+        "onboard_time": 1776643282,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108574,
+        "num": 108574,
+        "word": "14天骨盆回正",
+        "onboard_time": 1776597622,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103554,
+        "num": 103554,
+        "word": "巴基斯坦伊斯兰堡红区全面封控",
+        "onboard_time": 1776635774,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97657,
+        "num": 97657,
+        "word": "杨紫三部热播期后加广的剧集",
+        "onboard_time": 1776632416,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91132,
+        "num": 91132,
+        "word": "以色列民众要求内塔尼亚胡政府下台",
+        "onboard_time": 1776608902,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89346,
+        "num": 89346,
+        "word": "zmjjkk长文回复粉丝",
+        "onboard_time": 1776609741,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88903,
+        "num": 88903,
+        "word": "张雪机车",
+        "onboard_time": 1776601642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87598,
+        "num": 87598,
+        "word": "河南三地巨额数据造假25人被问责",
+        "onboard_time": 1776608362,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网更好造福国家和人民#"
+    }
+  }
+}

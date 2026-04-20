@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776642384280,
+  "endTime": 1776643375485,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6654519,
+      "num": 274014,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1773621382,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6494502,
       "num": 6494502,
       "word": "陈哲远红包",
@@ -721,14 +729,6 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 5377937,
-      "num": 233430,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1773621382,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 5334101,
