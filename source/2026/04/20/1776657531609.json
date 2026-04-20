@@ -1,0 +1,410 @@
+{
+  "runTime": 1776657531609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535388,
+        "num": 1535388,
+        "word": "佳偶天成定档",
+        "onboard_time": 1776649822,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542230,
+        "num": 886116,
+        "word": "涉密单位人员下班闲聊致泄密",
+        "onboard_time": 1776651620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25556,
+        "num": 687185,
+        "word": "万千气象看湖南",
+        "onboard_time": 1776651441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033366,
+        "num": 679112,
+        "word": "买点便宜衣服穿就显年轻了",
+        "onboard_time": 1776653779,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 900528,
+        "num": 672210,
+        "word": "金像奖爆冷",
+        "onboard_time": 1776643101,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 644475,
+        "num": 644475,
+        "word": "这句话让我决定每天多喝水了",
+        "onboard_time": 1776654260,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572122,
+        "num": 572122,
+        "word": "雾里青官宣",
+        "onboard_time": 1776654380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552491,
+        "num": 552491,
+        "word": "伊朗油轮突破美国海上封锁",
+        "onboard_time": 1776656541,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 301648,
+        "num": 551336,
+        "word": "方博以哈萨克斯坦球员身份注册WTT",
+        "onboard_time": 1776654920,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150988,
+        "num": 548442,
+        "word": "程序员追不上机器人干脆开电瓶车跟",
+        "onboard_time": 1776638416,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1273377,
+        "num": 544816,
+        "word": "邓紫棋患地中海贫血",
+        "onboard_time": 1776655341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818722,
+        "num": 540085,
+        "word": "綦美合潮牌",
+        "onboard_time": 1776655040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292205,
+        "num": 536920,
+        "word": "韩警方就中国女生被日男子骚扰致歉",
+        "onboard_time": 1776644905,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570655,
+        "num": 533714,
+        "word": "张若昀钟楚曦领衔主演开端",
+        "onboard_time": 1776653841,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532907,
+        "num": 532907,
+        "word": "业内对田曦薇的评价",
+        "onboard_time": 1776644722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289158,
+        "num": 474329,
+        "word": "入职第一周vs入职一年",
+        "onboard_time": 1776657021,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239924,
+        "num": 448854,
+        "word": "泰女子泼水节昏迷体内检出听话水",
+        "onboard_time": 1776655700,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118660,
+        "num": 447488,
+        "word": "多厂商仍未公开辅助驾驶里程",
+        "onboard_time": 1776652040,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 446816,
+        "num": 446816,
+        "word": "陈赫晒鹿晗live图",
+        "onboard_time": 1776641601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62635,
+        "num": 396705,
+        "word": "多平台订购火车票功能异常",
+        "onboard_time": 1776657200,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392904,
+        "num": 392904,
+        "word": "李雨桐爆料薛之谦被拘谁该颤抖",
+        "onboard_time": 1776644424,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92567,
+        "num": 383994,
+        "word": "央视起底直播间特价手机捡漏骗局",
+        "onboard_time": 1776656241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383234,
+        "num": 383234,
+        "word": "五哈老舅回归",
+        "onboard_time": 1776646642,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9223090,
+        "num": 9223090,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1776640398,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312050,
+        "num": 368142,
+        "word": "金银突发跳水",
+        "onboard_time": 1776646822,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356421,
+        "num": 356421,
+        "word": "张艺凡回应脱鞋合照",
+        "onboard_time": 1776642862,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320228,
+        "num": 320228,
+        "word": "迪丽热巴两个卫蓝对手戏",
+        "onboard_time": 1776655821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302183,
+        "num": 302183,
+        "word": "一小时不到只花了六分钟",
+        "onboard_time": 1776640880,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243726,
+        "num": 289171,
+        "word": "开拓者vs马刺",
+        "onboard_time": 1776655580,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154255,
+        "num": 286922,
+        "word": "公园散步遇到眼镜蛇小猫挺身而出",
+        "onboard_time": 1776650660,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302628,
+        "num": 286884,
+        "word": "折月亮首发预告",
+        "onboard_time": 1776651919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286742,
+        "num": 286742,
+        "word": "小城良方",
+        "onboard_time": 1776652280,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262514,
+        "num": 262514,
+        "word": "上班时间禁止偷吃同事",
+        "onboard_time": 1776641420,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254122,
+        "num": 254122,
+        "word": "爱奇艺世界大会",
+        "onboard_time": 1776649341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240532,
+        "num": 240532,
+        "word": "24岁女研究生回应赢发呆比赛冠军",
+        "onboard_time": 1776653841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203491,
+        "num": 203491,
+        "word": "李小冉这下真成养成系姐姐了",
+        "onboard_time": 1776648021,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200720,
+        "num": 200720,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1776640518,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198986,
+        "num": 198986,
+        "word": "金像奖影后廖子妤",
+        "onboard_time": 1776609504,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189079,
+        "num": 189079,
+        "word": "薛之谦 李雨桐",
+        "onboard_time": 1776640758,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181537,
+        "num": 181537,
+        "word": "总感觉现在的月亮电量不足了",
+        "onboard_time": 1776645383,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 179190,
+        "word": "如果一个人特别会穿搭",
+        "onboard_time": 1776645262,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175618,
+        "num": 175618,
+        "word": "雀骨 配音",
+        "onboard_time": 1776655219,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174348,
+        "num": 174348,
+        "word": "梁家辉拿最佳男主时手表来电了",
+        "onboard_time": 1776653240,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "滇池抛车男子道歉",
+        "onboard_time": 1776653061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170938,
+        "num": 170938,
+        "word": "黄晓明一张含金量极高的合影",
+        "onboard_time": 1776657441,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140305,
+        "num": 164398,
+        "word": "伊军称将很快报复美军",
+        "onboard_time": 1776642560,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 163425,
+        "word": "iOS27全新Siri界面",
+        "onboard_time": 1776654560,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86977,
+        "num": 163292,
+        "word": "英伟达178美元黄仁勋毛衣走红",
+        "onboard_time": 1776655341,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163177,
+        "num": 163177,
+        "word": "今年5月将进入厄尔尼诺状态",
+        "onboard_time": 1776640518,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56651,
+        "num": 163024,
+        "word": "豆包变豆脚了",
+        "onboard_time": 1776601703,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为网信事业发展指明前进方向#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1776614508262,
-  "endTime": 1776656056086,
+  "endTime": 1776657531609,
   "band_list": [
     {
       "raw_hot": 9837930,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1399994,
-      "num": 286962,
+      "num": 446816,
       "word": "陈赫晒鹿晗live图",
       "onboard_time": 1776641601,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1776653779,
       "rank": 3,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1273377,
+      "num": 544816,
+      "word": "邓紫棋患地中海贫血",
+      "onboard_time": 1776655341,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1023478,
@@ -81,6 +89,14 @@
       "onboard_time": 1776606502,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 818722,
+      "num": 540085,
+      "word": "綦美合潮牌",
+      "onboard_time": 1776655040,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 788921,
@@ -123,14 +139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 721653,
-      "num": 286980,
-      "word": "邓紫棋患地中海贫血",
-      "onboard_time": 1776655341,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 670805,
       "num": 917518,
       "word": "张雪机车比赛因红旗中断",
@@ -164,19 +172,19 @@
     },
     {
       "raw_hot": 649781,
-      "num": 286861,
+      "num": 532907,
       "word": "业内对田曦薇的评价",
       "onboard_time": 1776644722,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 621425,
-      "num": 286477,
-      "word": "綦美合潮牌",
-      "onboard_time": 1776655040,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 644475,
+      "num": 644475,
+      "word": "这句话让我决定每天多喝水了",
+      "onboard_time": 1776654260,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 616841,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 604180,
-      "num": 284635,
+      "num": 302183,
       "word": "一小时不到只花了六分钟",
       "onboard_time": 1776640880,
       "rank": 22,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570655,
+      "num": 533714,
+      "word": "张若昀钟楚曦领衔主演开端",
+      "onboard_time": 1776653841,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 561823,
       "num": 376971,
       "word": "鹿晗好尊重本命年",
@@ -211,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552491,
+      "num": 552491,
+      "word": "伊朗油轮突破美国海上封锁",
+      "onboard_time": 1776656541,
+      "rank": 7,
+      "category": "军事"
+    },
+    {
       "raw_hot": 546096,
       "num": 332520,
       "word": "曝李小冉退出浪姐",
       "onboard_time": 1776576980,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 542230,
+      "num": 886116,
+      "word": "涉密单位人员下班闲聊致泄密",
+      "onboard_time": 1776651620,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537648,
@@ -235,16 +267,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 499808,
-      "num": 286737,
-      "word": "涉密单位人员下班闲聊致泄密",
-      "onboard_time": 1776651620,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 497234,
-      "num": 285769,
+      "num": 356421,
       "word": "张艺凡回应脱鞋合照",
       "onboard_time": 1776642862,
       "rank": 34,
@@ -267,16 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463195,
-      "num": 285302,
-      "word": "张若昀钟楚曦领衔主演开端",
-      "onboard_time": 1776653841,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 453821,
-      "num": 284961,
+      "num": 392904,
       "word": "李雨桐爆料薛之谦被拘谁该颤抖",
       "onboard_time": 1776644424,
       "rank": 23,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 420714,
-      "num": 284723,
+      "num": 383234,
       "word": "五哈老舅回归",
       "onboard_time": 1776646642,
       "rank": 24,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 359318,
-      "num": 283903,
+      "num": 286884,
       "word": "折月亮首发预告",
       "onboard_time": 1776651919,
       "rank": 29,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 342343,
-      "num": 285047,
+      "num": 368142,
       "word": "金银突发跳水",
       "onboard_time": 1776646822,
       "rank": 22,
@@ -385,14 +401,6 @@
       "onboard_time": 1776603742,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328759,
-      "num": 328759,
-      "word": "这句话让我决定每天多喝水了",
-      "onboard_time": 1776654260,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 327918,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320228,
+      "num": 320228,
+      "word": "迪丽热巴两个卫蓝对手戏",
+      "onboard_time": 1776655821,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316035,
       "num": 316035,
       "word": "银川一小学生拒借车遭9人群殴搜家",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 312719,
-      "num": 283795,
+      "num": 286742,
       "word": "小城良方",
       "onboard_time": 1776652280,
       "rank": 30,
@@ -459,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301648,
+      "num": 551336,
+      "word": "方博以哈萨克斯坦球员身份注册WTT",
+      "onboard_time": 1776654920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294807,
       "num": 308352,
       "word": "2米蟒蛇吞下1只鸡后被卡鸡笼",
@@ -475,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 283553,
-      "num": 283553,
-      "word": "迪丽热巴两个卫蓝对手戏",
-      "onboard_time": 1776655821,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 289158,
+      "num": 474329,
+      "word": "入职第一周vs入职一年",
+      "onboard_time": 1776657021,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 276338,
@@ -497,6 +521,22 @@
       "onboard_time": 1776642199,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243726,
+      "num": 289171,
+      "word": "开拓者vs马刺",
+      "onboard_time": 1776655580,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239924,
+      "num": 448854,
+      "word": "泰女子泼水节昏迷体内检出听话水",
+      "onboard_time": 1776655700,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238208,
@@ -531,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218769,
-      "num": 285557,
-      "word": "方博以哈萨克斯坦球员身份注册WTT",
-      "onboard_time": 1776654920,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216056,
       "num": 247706,
       "word": "总感觉现在的月亮电量不足了",
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 208619,
-      "num": 284290,
+      "num": 286922,
       "word": "公园散步遇到眼镜蛇小猫挺身而出",
       "onboard_time": 1776650660,
       "rank": 27,
@@ -635,16 +667,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181644,
-      "num": 181644,
-      "word": "开拓者vs马刺",
-      "onboard_time": 1776655580,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178693,
-      "num": 289172,
+      "num": 548442,
       "word": "程序员追不上机器人干脆开电瓶车跟",
       "onboard_time": 1776638416,
       "rank": 15,
@@ -665,6 +689,14 @@
       "onboard_time": 1776640518,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170938,
+      "num": 170938,
+      "word": "黄晓明一张含金量极高的合影",
+      "onboard_time": 1776657441,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 168685,
@@ -835,20 +867,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124550,
-      "num": 180787,
-      "word": "泰女子泼水节昏迷体内检出听话水",
-      "onboard_time": 1776655700,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 124051,
       "num": 190538,
       "word": "张雪机车",
       "onboard_time": 1776601642,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118660,
+      "num": 447488,
+      "word": "多厂商仍未公开辅助驾驶里程",
+      "onboard_time": 1776652040,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 116019,
@@ -907,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94078,
+      "num": 177728,
+      "word": "iOS27全新Siri界面",
+      "onboard_time": 1776654560,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 92567,
+      "num": 383994,
+      "word": "央视起底直播间特价手机捡漏骗局",
+      "onboard_time": 1776656241,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "王一博比赛日下次再赛",
@@ -923,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83706,
-      "num": 180089,
-      "word": "多厂商仍未公开辅助驾驶里程",
-      "onboard_time": 1776652040,
-      "rank": 45,
-      "category": "汽车"
+      "raw_hot": 86977,
+      "num": 178406,
+      "word": "英伟达178美元黄仁勋毛衣走红",
+      "onboard_time": 1776655341,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 83185,
@@ -987,12 +1035,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64325,
-      "num": 178406,
-      "word": "英伟达178美元黄仁勋毛衣走红",
-      "onboard_time": 1776655341,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 62635,
+      "num": 396705,
+      "word": "多平台订购火车票功能异常",
+      "onboard_time": 1776657200,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58930,
@@ -1067,14 +1115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47973,
-      "num": 177728,
-      "word": "iOS27全新Siri界面",
-      "onboard_time": 1776654560,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39261,
       "num": 76685,
       "word": "孙颖莎萌萌奔向训练馆",
@@ -1115,7 +1155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24128,
+      "raw_hot": 25556,
       "num": 1297429,
       "word": "万千气象看湖南",
       "onboard_time": 1776651441,
