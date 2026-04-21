@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776761862993,
+  "endTime": 1776765643585,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1443,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2766352,
+      "num": 436389,
+      "word": "李荣浩直播手机掉水里了",
+      "onboard_time": 1776763160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2760500,
       "num": 143637,
       "word": "张雪峰追悼会",
@@ -1888,6 +1896,14 @@
       "word": "诚实一口道歉",
       "onboard_time": 1776351862,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2365946,
+      "num": 416387,
+      "word": "张翰回应去移民局",
+      "onboard_time": 1776761840,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767686601,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2048848,
-      "num": 751082,
-      "word": "TES上报Naiyou不正当行为",
-      "onboard_time": 1772786962,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 2047463,
-      "num": 302605,
-      "word": "花海房管",
-      "onboard_time": 1768480820,
-      "rank": 10,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

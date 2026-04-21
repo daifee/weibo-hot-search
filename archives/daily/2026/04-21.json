@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776761862993,
+  "endTime": 1776765643585,
   "band_list": [
     {
       "raw_hot": 3509532,
@@ -9,6 +9,22 @@
       "onboard_time": 1776741080,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2766352,
+      "num": 436389,
+      "word": "李荣浩直播手机掉水里了",
+      "onboard_time": 1776763160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2365946,
+      "num": 416387,
+      "word": "张翰回应去移民局",
+      "onboard_time": 1776761840,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 2334758,
@@ -91,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1468386,
-      "num": 390870,
+      "raw_hot": 1484208,
+      "num": 1484208,
       "word": "父母再生7弟20岁小伙直言扛不动",
       "onboard_time": 1776758601,
       "rank": 30,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637472,
+      "num": 637472,
+      "word": "大牛股一字跌停",
+      "onboard_time": 1776760999,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 628655,
       "num": 628655,
       "word": "建议多在公司打听自己的八卦",
@@ -379,11 +403,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 486465,
+      "num": 486465,
+      "word": "母亲灌奶掌掴婴儿已被采取强制措施",
+      "onboard_time": 1776761960,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484520,
       "num": 403419,
       "word": "李小冉哭了两晚上",
       "onboard_time": 1776733281,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 481986,
+      "num": 369919,
+      "word": "张天爱工作室 谣言可恶可恨",
+      "onboard_time": 1776764240,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -539,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374639,
+      "num": 374639,
+      "word": "英伟达副总裁晒与樊振东合影",
+      "onboard_time": 1776762681,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373920,
       "num": 404221,
       "word": "8岁孩子竟然痛风了",
@@ -569,6 +617,14 @@
       "onboard_time": 1776689901,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349869,
+      "num": 349869,
+      "word": "苹果更换CEO原因首次曝光",
+      "onboard_time": 1776764960,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 346751,
@@ -616,6 +672,14 @@
       "word": "杨博文晕船吐了",
       "onboard_time": 1776756741,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319844,
+      "num": 287827,
+      "word": "李小冉已签约MCN",
+      "onboard_time": 1776763460,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -667,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293484,
+      "num": 294391,
+      "word": "女子产后回应怀孕容貌巨变",
+      "onboard_time": 1776758660,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286191,
       "num": 437616,
       "word": "娃坐了6年电瓶车还不知回家的路",
@@ -683,20 +755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281340,
+      "num": 284946,
+      "word": "3岁儿被虐死生母决定抗诉",
+      "onboard_time": 1776763219,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279795,
       "num": 543010,
       "word": "余承东回应Pura90橘子海配色",
       "onboard_time": 1776745042,
       "rank": 9,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 273839,
-      "num": 273839,
-      "word": "大牛股一字跌停",
-      "onboard_time": 1776760999,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 263771,
@@ -756,7 +828,7 @@
     },
     {
       "raw_hot": 242710,
-      "num": 242710,
+      "num": 275089,
       "word": "马嘉祺宋亚轩是没抢到最后一排吗",
       "onboard_time": 1776754101,
       "rank": 41,
@@ -851,22 +923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224869,
-      "num": 224869,
-      "word": "张翰回应去移民局",
-      "onboard_time": 1776761840,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224495,
-      "num": 286932,
-      "word": "女子产后回应怀孕容貌巨变",
-      "onboard_time": 1776758660,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223865,
       "num": 236205,
       "word": "A股突现重大资产重组新模式",
@@ -888,6 +944,14 @@
       "word": "李小冉本名李晓冉",
       "onboard_time": 1776753439,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 279958,
+      "word": "林珍娜出庭",
+      "onboard_time": 1776763219,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1027,6 +1091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180392,
+      "num": 265994,
+      "word": "法院干警配偶低价拍得六千万债权",
+      "onboard_time": 1776765022,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179987,
       "num": 236144,
       "word": "持股市值不到7万元成第8大股东",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1776697342,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155390,
+      "num": 295455,
+      "word": "王者荣耀",
+      "onboard_time": 1776761781,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 155139,
@@ -1193,6 +1273,14 @@
       "onboard_time": 1776742099,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134086,
+      "num": 292837,
+      "word": "孙艺洲模仿李小冉心愿便利贴",
+      "onboard_time": 1776765561,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 133975,
@@ -1291,6 +1379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121582,
+      "num": 259514,
+      "word": "魏建军要造中国第一台GT3",
+      "onboard_time": 1776762501,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121547,
       "num": 406243,
       "word": "谷爱凌劳伦斯红毯造型",
@@ -1329,6 +1425,14 @@
       "onboard_time": 1776726139,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115938,
+      "num": 290953,
+      "word": "明日方舟 口艺",
+      "onboard_time": 1776765501,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 114266,
@@ -1380,7 +1484,7 @@
     },
     {
       "raw_hot": 108146,
-      "num": 274451,
+      "num": 288982,
       "word": "周杰伦温州抢票",
       "onboard_time": 1776756679,
       "rank": 33,
@@ -1404,7 +1508,7 @@
     },
     {
       "raw_hot": 93899,
-      "num": 236641,
+      "num": 256160,
       "word": "余承东回应华为手机不涨价",
       "onboard_time": 1776757940,
       "rank": 44,
@@ -1507,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72102,
+      "num": 257722,
+      "word": "雷军对小米年轻管理者很宽容",
+      "onboard_time": 1776763641,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71687,
       "num": 244893,
       "word": "丁俊晖晋级世锦赛16强",
@@ -1547,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61546,
+      "num": 273198,
+      "word": "张继科说祖国荣誉高于一切",
+      "onboard_time": 1776764719,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59461,
       "num": 235845,
       "word": "家业",
@@ -1563,12 +1683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50845,
+      "num": 274721,
+      "word": "小米新SU7XLA大模型揭秘",
+      "onboard_time": 1776762380,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49700,
       "num": 235889,
       "word": "爱奇艺top10剧集没有莲花楼",
       "onboard_time": 1776676822,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49647,
+      "num": 719860,
+      "word": "第五届全民阅读大会",
+      "onboard_time": 1776760220,
+      "rank": 2,
+      "category": "读书作家"
     },
     {
       "raw_hot": 49309,
@@ -1635,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43314,
-      "num": 268988,
-      "word": "王者荣耀",
-      "onboard_time": 1776761781,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 42282,
       "num": 235792,
       "word": "央视曝直播间免费鉴宝骗局",
@@ -1657,14 +1785,6 @@
       "onboard_time": 1776674782,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38315,
-      "num": 719860,
-      "word": "第五届全民阅读大会",
-      "onboard_time": 1776760220,
-      "rank": 2,
-      "category": "读书作家"
     },
     {
       "raw_hot": 37366,
@@ -1689,6 +1809,14 @@
       "onboard_time": 1776704418,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32570,
+      "num": 271512,
+      "word": "樱桃低至4元一斤",
+      "onboard_time": 1776764540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32161,

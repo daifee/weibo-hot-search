@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776761862993,
+  "endTime": 1776765643585,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2766352,
+      "num": 436389,
+      "word": "李荣浩直播手机掉水里了",
+      "onboard_time": 1776763160,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2708776,
       "num": 2708776,
       "word": "未授权AI艺人",
@@ -112,6 +120,14 @@
       "word": "何润东狂接商务",
       "onboard_time": 1776562160,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2365946,
+      "num": 416387,
+      "word": "张翰回应去移民局",
+      "onboard_time": 1776761840,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -291,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1468386,
-      "num": 390870,
+      "raw_hot": 1484208,
+      "num": 1484208,
       "word": "父母再生7弟20岁小伙直言扛不动",
       "onboard_time": 1776758601,
       "rank": 30,
@@ -1139,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637472,
+      "num": 637472,
+      "word": "大牛股一字跌停",
+      "onboard_time": 1776760999,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 629805,
       "num": 484419,
       "word": "妈妈被埋尸28年他永远停在10岁",
@@ -1587,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486465,
+      "num": 486465,
+      "word": "母亲灌奶掌掴婴儿已被采取强制措施",
+      "onboard_time": 1776761960,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485765,
       "num": 485765,
       "word": "杨紫新剧老年妆",
@@ -1616,6 +1648,14 @@
       "word": "颖儿付辛博女儿近照",
       "onboard_time": 1776692003,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 481986,
+      "num": 369919,
+      "word": "张天爱工作室 谣言可恶可恨",
+      "onboard_time": 1776764240,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2171,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374639,
+      "num": 374639,
+      "word": "英伟达副总裁晒与樊振东合影",
+      "onboard_time": 1776762681,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374003,
       "num": 374003,
       "word": "机器人马拉松 豆包变豆脚了",
@@ -2289,6 +2337,14 @@
       "onboard_time": 1776669023,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349869,
+      "num": 349869,
+      "word": "苹果更换CEO原因首次曝光",
+      "onboard_time": 1776764960,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 346751,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1776655821,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319844,
+      "num": 287827,
+      "word": "李小冉已签约MCN",
+      "onboard_time": 1776763460,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 318810,
@@ -2651,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293484,
+      "num": 294391,
+      "word": "女子产后回应怀孕容貌巨变",
+      "onboard_time": 1776758660,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293217,
       "num": 293217,
       "word": "攻玉",
@@ -2713,6 +2785,14 @@
       "onboard_time": 1776745760,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281340,
+      "num": 284946,
+      "word": "3岁儿被虐死生母决定抗诉",
+      "onboard_time": 1776763219,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279795,
@@ -2785,14 +2865,6 @@
       "onboard_time": 1776588980,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273839,
-      "num": 273839,
-      "word": "大牛股一字跌停",
-      "onboard_time": 1776760999,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 272398,
@@ -3044,7 +3116,7 @@
     },
     {
       "raw_hot": 242710,
-      "num": 242710,
+      "num": 275089,
       "word": "马嘉祺宋亚轩是没抢到最后一排吗",
       "onboard_time": 1776754101,
       "rank": 41,
@@ -3251,28 +3323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224869,
-      "num": 224869,
-      "word": "张翰回应去移民局",
-      "onboard_time": 1776761840,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224866,
       "num": 224866,
       "word": "日媒集体噤声",
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 224495,
-      "num": 286932,
-      "word": "女子产后回应怀孕容貌巨变",
-      "onboard_time": 1776758660,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224006,
@@ -3385,6 +3441,14 @@
       "onboard_time": 1776665541,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 279958,
+      "word": "林珍娜出庭",
+      "onboard_time": 1776763219,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 218437,
@@ -3899,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180392,
+      "num": 265994,
+      "word": "法院干警配偶低价拍得六千万债权",
+      "onboard_time": 1776765022,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179068,
       "num": 209474,
       "word": "樊振东波尔日内瓦旅行",
@@ -4211,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155390,
+      "num": 295455,
+      "word": "王者荣耀",
+      "onboard_time": 1776761781,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155139,
       "num": 417213,
       "word": "日本未来一周可能发生同等规模地震",
@@ -4451,6 +4531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134086,
+      "num": 292837,
+      "word": "孙艺洲模仿李小冉心愿便利贴",
+      "onboard_time": 1776765561,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133975,
       "num": 405759,
       "word": "焕新极氪009定档北京车展预售",
@@ -4643,6 +4731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121582,
+      "num": 259514,
+      "word": "魏建军要造中国第一台GT3",
+      "onboard_time": 1776762501,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121547,
       "num": 406243,
       "word": "谷爱凌劳伦斯红毯造型",
@@ -4779,6 +4875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115938,
+      "num": 290953,
+      "word": "明日方舟 口艺",
+      "onboard_time": 1776765501,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115003,
       "num": 318021,
       "word": "荣耀机器人打破人类半马纪录",
@@ -4900,7 +5004,7 @@
     },
     {
       "raw_hot": 108146,
-      "num": 274451,
+      "num": 288982,
       "word": "周杰伦温州抢票",
       "onboard_time": 1776756679,
       "rank": 33,
@@ -4988,7 +5092,7 @@
     },
     {
       "raw_hot": 93899,
-      "num": 236641,
+      "num": 256160,
       "word": "余承东回应华为手机不涨价",
       "onboard_time": 1776757940,
       "rank": 44,
@@ -5275,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72102,
+      "num": 257722,
+      "word": "雷军对小米年轻管理者很宽容",
+      "onboard_time": 1776763641,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70687,
       "num": 143283,
       "word": "迪丽热巴白日提灯获年度原创文学ip奖",
@@ -5409,6 +5521,14 @@
       "onboard_time": 1776682881,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 61546,
+      "num": 273198,
+      "word": "张继科说祖国荣誉高于一切",
+      "onboard_time": 1776764719,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 59461,
@@ -5555,12 +5675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50845,
+      "num": 274721,
+      "word": "小米新SU7XLA大模型揭秘",
+      "onboard_time": 1776762380,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49763,
       "num": 346296,
       "word": "男童遭生父女友虐死案将宣判",
       "onboard_time": 1776698300,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49647,
+      "num": 719860,
+      "word": "第五届全民阅读大会",
+      "onboard_time": 1776760220,
+      "rank": 2,
+      "category": "读书作家"
     },
     {
       "raw_hot": 49309,
@@ -5691,14 +5827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43314,
-      "num": 268988,
-      "word": "王者荣耀",
-      "onboard_time": 1776761781,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 41852,
       "num": 108481,
       "word": "解放军跟监警戒日驱逐舰画面",
@@ -5737,14 +5865,6 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38315,
-      "num": 719860,
-      "word": "第五届全民阅读大会",
-      "onboard_time": 1776760220,
-      "rank": 2,
-      "category": "读书作家"
     },
     {
       "raw_hot": 37366,
@@ -5809,6 +5929,14 @@
       "onboard_time": 1776578720,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32570,
+      "num": 271512,
+      "word": "樱桃低至4元一斤",
+      "onboard_time": 1776764540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32161,
