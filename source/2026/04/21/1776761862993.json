@@ -1,0 +1,410 @@
+{
+  "runTime": 1776761862993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552006,
+        "num": 1552006,
+        "word": "挪用1700万打赏女孩父亲已基本破产",
+        "onboard_time": 1776753619,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1205088,
+        "num": 1205088,
+        "word": "爱奇艺演员恋综",
+        "onboard_time": 1776757281,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38315,
+        "num": 719860,
+        "word": "第五届全民阅读大会",
+        "onboard_time": 1776760220,
+        "rank": 2,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 629016,
+        "num": 629016,
+        "word": "工资高但是很孤独的工作",
+        "onboard_time": 1776741080,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 628655,
+        "num": 628655,
+        "word": "建议多在公司打听自己的八卦",
+        "onboard_time": 1776758721,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600317,
+        "num": 600317,
+        "word": "范丞丞看孟子义眼神",
+        "onboard_time": 1776755419,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548975,
+        "num": 548975,
+        "word": "新疆的作息时间太适合年轻人了",
+        "onboard_time": 1776744200,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485848,
+        "num": 485848,
+        "word": "国内油价2026年首次下调",
+        "onboard_time": 1776756199,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417395,
+        "num": 417395,
+        "word": "路边停车欠费1.3万全额赔偿计息",
+        "onboard_time": 1776753321,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397043,
+        "num": 397043,
+        "word": "日本女主播遇7.7级地震一秒变脸",
+        "onboard_time": 1776747921,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1468386,
+        "num": 390870,
+        "word": "父母再生7弟20岁小伙直言扛不动",
+        "onboard_time": 1776758601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1311718,
+        "num": 368245,
+        "word": "宋承炫宣布当爸",
+        "onboard_time": 1776746002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1293947,
+        "num": 363907,
+        "word": "孙俪儿子画个妆直接能演甄嬛了",
+        "onboard_time": 1776743482,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1103258,
+        "num": 349429,
+        "word": "12306这回动真格了",
+        "onboard_time": 1776757820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980697,
+        "num": 329548,
+        "word": "张翰就医后前往移民局",
+        "onboard_time": 1776747802,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500326,
+        "num": 318447,
+        "word": "窈窈有期 硬刚爱奇艺",
+        "onboard_time": 1776745821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305113,
+        "num": 305113,
+        "word": "超级地震或致日本国家崩塌",
+        "onboard_time": 1776740961,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 439782,
+        "num": 304955,
+        "word": "唐嫣眼神好疲惫",
+        "onboard_time": 1776758119,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118624,
+        "num": 304187,
+        "word": "余承东回应Pura90橘子海配色",
+        "onboard_time": 1776745042,
+        "rank": 18,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 304049,
+        "num": 304049,
+        "word": "何润东 直男写文下手没轻没重",
+        "onboard_time": 1776746602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182038,
+        "num": 301495,
+        "word": "爱奇艺CEO龚宇发声",
+        "onboard_time": 1776739160,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110733,
+        "num": 300743,
+        "word": "仙逆李慕婉cos",
+        "onboard_time": 1776761181,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163139,
+        "num": 298167,
+        "word": "杜若溪产后三个月暴减60斤",
+        "onboard_time": 1776754640,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157719,
+        "num": 294216,
+        "word": "郑秀文好爱许志安",
+        "onboard_time": 1776745101,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106030,
+        "num": 292236,
+        "word": "森林狼19分逆转掘金",
+        "onboard_time": 1776750979,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88113,
+        "num": 288873,
+        "word": "华为乾崑智驾ADS5将于23日发布",
+        "onboard_time": 1776758840,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43411,
+        "num": 287813,
+        "word": "湖北涉黑头目黄大发被判死刑",
+        "onboard_time": 1776761720,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337711,
+        "num": 285090,
+        "word": "陈伟霆看到孩子走不动路",
+        "onboard_time": 1776755659,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40670,
+        "num": 282353,
+        "word": "林高远从乒乓球网球到匹克球",
+        "onboard_time": 1776743060,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43918,
+        "num": 278605,
+        "word": "今晚见证大众时刻",
+        "onboard_time": 1776758840,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35830,
+        "num": 276979,
+        "word": "这类人才紧缺平均月薪超2万",
+        "onboard_time": 1776761720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275625,
+        "num": 275625,
+        "word": "张凌赫登上法国第一大报纸",
+        "onboard_time": 1776750560,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275361,
+        "num": 275361,
+        "word": "肖战 尚界",
+        "onboard_time": 1776738501,
+        "rank": 32,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 108146,
+        "num": 274451,
+        "word": "周杰伦温州抢票",
+        "onboard_time": 1776756679,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273839,
+        "num": 273839,
+        "word": "大牛股一字跌停",
+        "onboard_time": 1776760999,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43314,
+        "num": 268988,
+        "word": "王者荣耀",
+        "onboard_time": 1776761781,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267150,
+        "num": 267150,
+        "word": "杨博文晕船吐了",
+        "onboard_time": 1776756741,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231197,
+        "num": 231197,
+        "word": "伊朗最高领袖发表最新声明",
+        "onboard_time": 1776755600,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230198,
+        "num": 230198,
+        "word": "马嘉祺宋亚轩是没抢到最后一排吗",
+        "onboard_time": 1776754101,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224869,
+        "num": 224869,
+        "word": "张翰回应去移民局",
+        "onboard_time": 1776761840,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224495,
+        "num": 224495,
+        "word": "女子产后回应怀孕容貌巨变",
+        "onboard_time": 1776758660,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212561,
+        "num": 212561,
+        "word": "邱淑贞母女和工藤静香母女同框",
+        "onboard_time": 1776747203,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209372,
+        "num": 209372,
+        "word": "王橹杰湿发",
+        "onboard_time": 1776756199,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195141,
+        "num": 195141,
+        "word": "麻将里最拉的牌",
+        "onboard_time": 1776756080,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93899,
+        "num": 195075,
+        "word": "余承东回应华为手机不涨价",
+        "onboard_time": 1776757940,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55043,
+        "num": 193423,
+        "word": "苹果新任CEO特努斯是谁",
+        "onboard_time": 1776732860,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44924,
+        "num": 192360,
+        "word": "小米澎湃OS3核心升级汇总",
+        "onboard_time": 1776742280,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27237,
+        "num": 191211,
+        "word": "Pura 90发布会",
+        "onboard_time": 1776756860,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189932,
+        "num": 189932,
+        "word": "小S说有可能会退居幕后",
+        "onboard_time": 1776754881,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182385,
+        "num": 182385,
+        "word": "鱼第一次享受到了人工服务",
+        "onboard_time": 1776747381,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

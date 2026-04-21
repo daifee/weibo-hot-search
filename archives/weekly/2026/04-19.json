@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776759461699,
+  "endTime": 1776761862993,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1468386,
+      "num": 390870,
+      "word": "父母再生7弟20岁小伙直言扛不动",
+      "onboard_time": 1776758601,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1423652,
       "num": 379786,
       "word": "曝歌手2026阵容",
@@ -427,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1205088,
+      "num": 1205088,
+      "word": "爱奇艺演员恋综",
+      "onboard_time": 1776757281,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1179053,
       "num": 402696,
       "word": "王一博车轮 85105",
@@ -481,6 +497,14 @@
       "onboard_time": 1776682640,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1103258,
+      "num": 484291,
+      "word": "12306这回动真格了",
+      "onboard_time": 1776757820,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1096353,
@@ -851,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 788070,
-      "num": 484291,
-      "word": "12306这回动真格了",
-      "onboard_time": 1776757820,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 778722,
       "num": 696652,
       "word": "林子烨被吐槽态度差",
@@ -1035,14 +1051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 674075,
-      "num": 674075,
-      "word": "爱奇艺演员恋综",
-      "onboard_time": 1776757281,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 670805,
       "num": 917518,
       "word": "张雪机车比赛因红旗中断",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1776664040,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628655,
+      "num": 628655,
+      "word": "建议多在公司打听自己的八卦",
+      "onboard_time": 1776758721,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 626029,
@@ -2299,14 +2315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 341280,
-      "num": 331090,
-      "word": "父母再生7弟20岁小伙直言扛不动",
-      "onboard_time": 1776758601,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 340802,
       "num": 340802,
       "word": "麻将里最拉的牌",
@@ -2779,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273839,
+      "num": 273839,
+      "word": "大牛股一字跌停",
+      "onboard_time": 1776760999,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272398,
       "num": 272398,
       "word": "这一秒过火野狗骨头 对打",
@@ -3235,12 +3251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224869,
+      "num": 224869,
+      "word": "张翰回应去移民局",
+      "onboard_time": 1776761840,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224866,
       "num": 224866,
       "word": "日媒集体噤声",
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224495,
+      "num": 286932,
+      "word": "女子产后回应怀孕容貌巨变",
+      "onboard_time": 1776758660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224006,
@@ -4043,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163139,
+      "num": 298167,
+      "word": "杜若溪产后三个月暴减60斤",
+      "onboard_time": 1776754640,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163100,
       "num": 163100,
       "word": "人的心情是可以突然变好的",
@@ -4353,14 +4393,6 @@
       "onboard_time": 1776595941,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140927,
-      "num": 241522,
-      "word": "杜若溪产后三个月暴减60斤",
-      "onboard_time": 1776754640,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 140525,
@@ -4795,14 +4827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111651,
-      "num": 286932,
-      "word": "女子产后回应怀孕容貌巨变",
-      "onboard_time": 1776758660,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111582,
       "num": 111582,
       "word": "拜仁提前4轮夺冠",
@@ -4835,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110733,
+      "num": 300743,
+      "word": "仙逆李慕婉cos",
+      "onboard_time": 1776761181,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 110677,
       "num": 236027,
       "word": "Bin哥VN三杀",
@@ -4865,6 +4897,14 @@
       "onboard_time": 1776674304,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 108146,
+      "num": 274451,
+      "word": "周杰伦温州抢票",
+      "onboard_time": 1776756679,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 106011,
@@ -4947,6 +4987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93899,
+      "num": 236641,
+      "word": "余承东回应华为手机不涨价",
+      "onboard_time": 1776757940,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93820,
       "num": 110154,
       "word": "属于我的8小时到哪去了",
@@ -4977,14 +5025,6 @@
       "onboard_time": 1776639618,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 91699,
-      "num": 236641,
-      "word": "余承东回应华为手机不涨价",
-      "onboard_time": 1776757940,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 89667,
@@ -5635,12 +5675,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43411,
+      "num": 287813,
+      "word": "湖北涉黑头目黄大发被判死刑",
+      "onboard_time": 1776761720,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43369,
       "num": 397681,
       "word": "去年人均每天刷手机近110分钟",
       "onboard_time": 1776664942,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43314,
+      "num": 268988,
+      "word": "王者荣耀",
+      "onboard_time": 1776761781,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 41852,
@@ -5683,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38315,
+      "num": 719860,
+      "word": "第五届全民阅读大会",
+      "onboard_time": 1776760220,
+      "rank": 2,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 37366,
       "num": 99619,
       "word": "阴阳师",
@@ -5704,6 +5768,14 @@
       "word": "3000万粉主播称家中失窃300万",
       "onboard_time": 1776624194,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35830,
+      "num": 276979,
+      "word": "这类人才紧缺平均月薪超2万",
+      "onboard_time": 1776761720,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -5825,6 +5897,14 @@
       "onboard_time": 1776709935,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27237,
+      "num": 191211,
+      "word": "Pura 90发布会",
+      "onboard_time": 1776756860,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 26666,
