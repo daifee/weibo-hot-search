@@ -1,0 +1,410 @@
+{
+  "runTime": 1776767082071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005125,
+        "num": 1160820,
+        "word": "挪用1700万打赏女孩父亲已基本破产",
+        "onboard_time": 1776753619,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778785,
+        "num": 827988,
+        "word": "苹果更换CEO原因首次曝光",
+        "onboard_time": 1776764960,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40881,
+        "num": 778992,
+        "word": "第五届全民阅读大会",
+        "onboard_time": 1776760220,
+        "rank": 2,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1344480,
+        "num": 773340,
+        "word": "父母再生7弟20岁小伙直言扛不动",
+        "onboard_time": 1776758601,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760787,
+        "num": 760787,
+        "word": "母亲灌奶掌掴婴儿已被采取强制措施",
+        "onboard_time": 1776761960,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497290,
+        "num": 497290,
+        "word": "大牛股一字跌停",
+        "onboard_time": 1776760999,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 458188,
+        "num": 458188,
+        "word": "工资高但是很孤独的工作",
+        "onboard_time": 1776741080,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382770,
+        "num": 382770,
+        "word": "法院干警配偶低价拍得六千万债权",
+        "onboard_time": 1776765022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338924,
+        "num": 338924,
+        "word": "新疆的作息时间太适合年轻人了",
+        "onboard_time": 1776744200,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213487,
+        "num": 330960,
+        "word": "孙艺洲模仿李小冉心愿便利贴",
+        "onboard_time": 1776765561,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1978854,
+        "num": 330200,
+        "word": "李荣浩直播手机掉水里了",
+        "onboard_time": 1776763160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325946,
+        "num": 325946,
+        "word": "路边停车欠费1.3万全额赔偿计息",
+        "onboard_time": 1776753321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1864650,
+        "num": 325106,
+        "word": "张翰回应去移民局",
+        "onboard_time": 1776761840,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1063972,
+        "num": 322346,
+        "word": "宋承炫宣布当爸",
+        "onboard_time": 1776746002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489978,
+        "num": 318075,
+        "word": "12306这回动真格了",
+        "onboard_time": 1776757820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810318,
+        "num": 316125,
+        "word": "孙俪儿子画个妆直接能演甄嬛了",
+        "onboard_time": 1776743482,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199703,
+        "num": 312491,
+        "word": "新女团UNCHILD出道",
+        "onboard_time": 1776766399,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74615,
+        "num": 310710,
+        "word": "买车到底该看什么",
+        "onboard_time": 1776766340,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308594,
+        "num": 308594,
+        "word": "英伟达副总裁晒与樊振东合影",
+        "onboard_time": 1776762681,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512095,
+        "num": 297541,
+        "word": "爱奇艺演员恋综",
+        "onboard_time": 1776757281,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360526,
+        "num": 277972,
+        "word": "女子产后回应怀孕容貌巨变",
+        "onboard_time": 1776758660,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460815,
+        "num": 270343,
+        "word": "范丞丞看孟子义眼神",
+        "onboard_time": 1776755419,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257479,
+        "num": 257479,
+        "word": "国内油价2026年首次下调",
+        "onboard_time": 1776756199,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224216,
+        "num": 224216,
+        "word": "张继科说祖国荣誉高于一切",
+        "onboard_time": 1776764719,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571033,
+        "num": 222895,
+        "word": "张天爱工作室 谣言可恶可恨",
+        "onboard_time": 1776764240,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184539,
+        "num": 219997,
+        "word": "窈窈有期 硬刚爱奇艺",
+        "onboard_time": 1776745821,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174285,
+        "num": 219224,
+        "word": "王者荣耀",
+        "onboard_time": 1776761781,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114464,
+        "num": 214724,
+        "word": "鲁班七号新皮肤活动免费得",
+        "onboard_time": 1776767060,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92730,
+        "num": 213287,
+        "word": "杜若溪产后三个月暴减60斤",
+        "onboard_time": 1776754640,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194590,
+        "num": 210810,
+        "word": "超级地震或致日本国家崩塌",
+        "onboard_time": 1776740961,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 443706,
+        "num": 209288,
+        "word": "唐嫣眼神好疲惫",
+        "onboard_time": 1776758119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78665,
+        "num": 206723,
+        "word": "周杰伦温州抢票",
+        "onboard_time": 1776756679,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204391,
+        "num": 204391,
+        "word": "英语其实是一门很粗糙的语言",
+        "onboard_time": 1776765860,
+        "rank": 32,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 311840,
+        "num": 203816,
+        "word": "张翰就医后前往移民局",
+        "onboard_time": 1776747802,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240607,
+        "num": 202275,
+        "word": "邱淑贞母女和工藤静香母女同框",
+        "onboard_time": 1776747203,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 196454,
+        "word": "麻将里最拉的牌",
+        "onboard_time": 1776756080,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14842,
+        "num": 195340,
+        "word": "汕头有酒店五一房价8888元",
+        "onboard_time": 1776766639,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27226,
+        "num": 193019,
+        "word": "卡通头像竟成天然反诈护身符",
+        "onboard_time": 1776766881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59508,
+        "num": 187981,
+        "word": "美伊停火到期倒计时",
+        "onboard_time": 1776766881,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35522,
+        "num": 186540,
+        "word": "伊朗明起恢复国内航班",
+        "onboard_time": 1776766881,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229724,
+        "num": 182199,
+        "word": "李小冉已签约MCN",
+        "onboard_time": 1776763460,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228242,
+        "num": 180192,
+        "word": "肖战 尚界",
+        "onboard_time": 1776738501,
+        "rank": 41,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 177240,
+        "num": 177240,
+        "word": "黄金白银急速下跌",
+        "onboard_time": 1776765979,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126051,
+        "num": 172869,
+        "word": "机器人半马冠军出自做手机的荣耀",
+        "onboard_time": 1776766881,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192631,
+        "num": 172793,
+        "word": "陈伟霆看到孩子走不动路",
+        "onboard_time": 1776755659,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 172681,
+        "word": "马嘉祺连上课都有高清直拍",
+        "onboard_time": 1776766639,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172392,
+        "num": 172392,
+        "word": "3岁儿被虐死生母决定抗诉",
+        "onboard_time": 1776763219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74296,
+        "num": 171250,
+        "word": "郑秀文好爱许志安",
+        "onboard_time": 1776745101,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126648,
+        "num": 171073,
+        "word": "魏建军要造中国第一台GT3",
+        "onboard_time": 1776762501,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177985,
+        "num": 171069,
+        "word": "张凌赫登上法国第一大报纸",
+        "onboard_time": 1776750560,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
