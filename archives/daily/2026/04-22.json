@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776811588002,
+  "endTime": 1776812820401,
   "band_list": [
     {
       "raw_hot": 1670243,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 828947,
+      "num": 559810,
+      "word": "义乌请量产吧",
+      "onboard_time": 1776781040,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 799871,
       "num": 342024,
       "word": "姚晨为救护车改道去世女子发声",
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544714,
-      "num": 559810,
-      "word": "义乌请量产吧",
-      "onboard_time": 1776781040,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 501801,
       "num": 501801,
       "word": "哪吒造车3年烧掉183亿",
@@ -83,11 +83,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 492459,
+      "num": 206428,
+      "word": "女孩为何宁愿坐牢也不配合追回打赏",
+      "onboard_time": 1776792976,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474027,
       "num": 474027,
       "word": "伊朗储油罐要满了",
       "onboard_time": 1776780144,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 411090,
+      "num": 343460,
+      "word": "特朗普称美伊停火到期将继续轰炸",
+      "onboard_time": 1776787280,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -123,14 +139,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 376494,
-      "num": 115982,
-      "word": "女孩为何宁愿坐牢也不配合追回打赏",
-      "onboard_time": 1776792976,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367803,
       "num": 292934,
       "word": "浪胃仙自曝整容失败",
@@ -163,6 +171,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 324884,
+      "num": 492991,
+      "word": "中韩同日表态",
+      "onboard_time": 1776786080,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321458,
       "num": 321458,
       "word": "周杰伦认证邓紫棋改编的爱琴海",
@@ -187,16 +203,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306392,
-      "num": 306392,
-      "word": "特朗普称美伊停火到期将继续轰炸",
-      "onboard_time": 1776787280,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 296514,
-      "num": 193205,
+      "num": 198528,
       "word": "教育局回应学生暴雨天体测800米",
       "onboard_time": 1776788538,
       "rank": 10,
@@ -217,14 +225,6 @@
       "onboard_time": 1776790816,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247010,
-      "num": 220651,
-      "word": "中韩同日表态",
-      "onboard_time": 1776786080,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 222724,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197982,
+      "num": 197982,
+      "word": "女子拍下日本地震时画面",
+      "onboard_time": 1776777802,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 194458,
       "num": 194458,
       "word": "解放军强硬回应台空军喊话",
@@ -273,6 +281,14 @@
       "onboard_time": 1776767360,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177237,
+      "num": 177237,
+      "word": "赵雨蝶一审死缓",
+      "onboard_time": 1776795314,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172501,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148715,
+      "num": 153756,
+      "word": "小伙养6个弟妹又有7弟外婆发声",
+      "onboard_time": 1776778101,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147455,
       "num": 191885,
       "word": "温峥嵘 一开口还是这个死动静",
@@ -347,28 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146343,
-      "num": 154391,
-      "word": "女子拍下日本地震时画面",
-      "onboard_time": 1776777802,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 144327,
       "num": 172550,
       "word": "唐诡导演 真人能演为啥让AI演",
       "onboard_time": 1776768980,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142943,
-      "num": 111690,
-      "word": "赵雨蝶一审死缓",
-      "onboard_time": 1776795314,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135709,
@@ -387,6 +395,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124725,
+      "num": 151892,
+      "word": "伊朗导弹与防空系统实力",
+      "onboard_time": 1776802274,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124214,
+      "num": 153586,
+      "word": "疑有中国女留学生被ICE当街逮捕",
+      "onboard_time": 1776790997,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122869,
+      "num": 150154,
+      "word": "国内油价下调了",
+      "onboard_time": 1776812478,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122663,
       "num": 153475,
       "word": "虞书欣新歌",
@@ -403,11 +435,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107077,
-      "num": 153756,
-      "word": "小伙养6个弟妹又有7弟外婆发声",
-      "onboard_time": 1776778101,
-      "rank": 38,
+      "raw_hot": 93812,
+      "num": 153810,
+      "word": "上午刷到巴掌帽下午义乌已出货",
+      "onboard_time": 1776790816,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -419,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87867,
-      "num": 87867,
-      "word": "伊朗导弹与防空系统实力",
-      "onboard_time": 1776802274,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 84063,
+      "num": 153458,
+      "word": "马龙许昕不用说话就很好哭",
+      "onboard_time": 1776790816,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 69491,
@@ -435,36 +467,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69268,
-      "num": 153586,
-      "word": "疑有中国女留学生被ICE当街逮捕",
-      "onboard_time": 1776790997,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67206,
-      "num": 153458,
-      "word": "马龙许昕不用说话就很好哭",
-      "onboard_time": 1776790816,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65481,
       "num": 153862,
       "word": "乔布斯曾说绝不能让营销人员成为CEO",
       "onboard_time": 1776790816,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 63384,
-      "num": 153810,
-      "word": "上午刷到巴掌帽下午义乌已出货",
-      "onboard_time": 1776790816,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60615,
@@ -483,8 +491,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 59364,
+      "num": 139565,
+      "word": "20岁养6弟妹小伙回应父母再生娃",
+      "onboard_time": 1776811576,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59199,
-      "num": 59199,
+      "num": 136811,
       "word": "女子致男友3岁儿子死亡一审死缓",
       "onboard_time": 1776809475,
       "rank": 28,
@@ -507,12 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50407,
-      "num": 108821,
+      "raw_hot": 53984,
+      "num": 137145,
       "word": "老外回国后得连夜写篇意林",
       "onboard_time": 1776770180,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51112,
+      "num": 134123,
+      "word": "和王一博一起共同守护地球家园",
+      "onboard_time": 1776812418,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 49985,
