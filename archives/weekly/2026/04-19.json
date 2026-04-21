@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776767082071,
+  "endTime": 1776771575154,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -153,6 +153,14 @@
       "onboard_time": 1776606502,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1997603,
+      "num": 305986,
+      "word": "姚晨怒斥深圳违规私转患者救护车",
+      "onboard_time": 1776768680,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1994875,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 778785,
-      "num": 827988,
+      "num": 1107537,
       "word": "苹果更换CEO原因首次曝光",
       "onboard_time": 1776764960,
       "rank": 18,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1776568939,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 727889,
+      "num": 297014,
+      "word": "杨蓉面部烫伤恢复近照",
+      "onboard_time": 1776769521,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 725392,
@@ -1163,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 642813,
+      "num": 279325,
+      "word": "业内评价白鹿",
+      "onboard_time": 1776767360,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639262,
       "num": 302255,
       "word": "萧蔷翻温峥嵘白眼",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1776556098,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622036,
+      "num": 244935,
+      "word": "TOP直播",
+      "onboard_time": 1776770361,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 618125,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1776653841,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 569943,
+      "num": 569943,
+      "word": "肯德基多要酱收费",
+      "onboard_time": 1776768622,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 569425,
@@ -1699,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472818,
+      "num": 472818,
+      "word": "张继科说祖国荣誉高于一切",
+      "onboard_time": 1776764719,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469477,
       "num": 469477,
       "word": "解放军凌晨4点管控日舰过航",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1776699800,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449603,
+      "num": 449603,
+      "word": "乌克兰进入破产倒计时",
+      "onboard_time": 1776768622,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 447535,
@@ -2041,6 +2097,14 @@
       "onboard_time": 1776727579,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 403870,
+      "num": 330960,
+      "word": "孙艺洲模仿李小冉心愿便利贴",
+      "onboard_time": 1776765561,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 403377,
@@ -2443,11 +2507,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331427,
+      "num": 331427,
+      "word": "唐诡导演 真人能演为啥让AI演",
+      "onboard_time": 1776768980,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331338,
       "num": 331338,
       "word": "刘浩存走完红毯拧裙子上的水",
       "onboard_time": 1776568880,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330480,
+      "num": 183779,
+      "word": "时代少年团 团体工作室",
+      "onboard_time": 1776771024,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2611,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309325,
+      "num": 183105,
+      "word": "丁程鑫裸半身游泳",
+      "onboard_time": 1776770301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309108,
       "num": 309108,
       "word": "荣耀机器人首次参赛就夺冠",
@@ -2649,6 +2737,14 @@
       "onboard_time": 1776605122,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303294,
+      "num": 303294,
+      "word": "杨幂冯湮儿太后微服私访",
+      "onboard_time": 1776770120,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 301648,
@@ -2979,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253062,
+      "num": 204391,
+      "word": "英语其实是一门很粗糙的语言",
+      "onboard_time": 1776765860,
+      "rank": 32,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 252802,
       "num": 393421,
       "word": "男子在电诈园区开超市被判刑",
@@ -3227,6 +3331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235619,
+      "num": 802267,
+      "word": "中方回应日本允许出口杀伤性武器",
+      "onboard_time": 1776763281,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 234333,
       "num": 298630,
       "word": "日舰闯台海这天中国人不会忘",
@@ -3339,14 +3451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 224216,
-      "num": 273198,
-      "word": "张继科说祖国荣誉高于一切",
-      "onboard_time": 1776764719,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "金莎晒婚服",
@@ -3369,6 +3473,14 @@
       "onboard_time": 1776576440,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223439,
+      "num": 179818,
+      "word": "老外回国后得连夜写篇意林",
+      "onboard_time": 1776770180,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 223213,
@@ -3547,14 +3659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213487,
-      "num": 330960,
-      "word": "孙艺洲模仿李小冉心愿便利贴",
-      "onboard_time": 1776765561,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212852,
       "num": 243987,
       "word": "Gr对战成都GG",
@@ -3683,14 +3787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204391,
-      "num": 204391,
-      "word": "英语其实是一门很粗糙的语言",
-      "onboard_time": 1776765860,
-      "rank": 32,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 204374,
       "num": 204374,
       "word": "王俊凯认真开会的王理事",
@@ -3723,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203045,
+      "num": 177724,
+      "word": "急救车绕开三甲医院将患者拉至民营医院",
+      "onboard_time": 1776767959,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202174,
       "num": 236298,
       "word": "备孕女子花2.3万治HPV最终子宫切除",
@@ -3732,11 +3836,19 @@
     },
     {
       "raw_hot": 201760,
-      "num": 172681,
+      "num": 175839,
       "word": "马嘉祺连上课都有高清直拍",
       "onboard_time": 1776766639,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201711,
+      "num": 177008,
+      "word": "OPPO发布会",
+      "onboard_time": 1776769521,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 200770,
@@ -3961,6 +4073,14 @@
       "onboard_time": 1776758840,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186369,
+      "num": 175009,
+      "word": "王橹杰野性骨相藏不住了",
+      "onboard_time": 1776769581,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 186228,
@@ -4515,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142666,
+      "num": 172907,
+      "word": "弟弟回应姐姐挪用千万打赏主播",
+      "onboard_time": 1776771441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -4569,6 +4697,14 @@
       "onboard_time": 1776738140,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135705,
+      "num": 214724,
+      "word": "鲁班七号新皮肤活动免费得",
+      "onboard_time": 1776767060,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 134779,
@@ -4737,6 +4873,14 @@
       "onboard_time": 1776676162,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125052,
+      "num": 171025,
+      "word": "马頔为了装修到底接了多少综艺",
+      "onboard_time": 1776767541,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 124407,
@@ -4939,14 +5083,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 114464,
-      "num": 214724,
-      "word": "鲁班七号新皮肤活动免费得",
-      "onboard_time": 1776767060,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114266,
       "num": 402660,
       "word": "杜兰特膝伤因训练中拼抢地板球",
@@ -4985,6 +5121,14 @@
       "onboard_time": 1776503479,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111599,
+      "num": 167071,
+      "word": "OPPO哈苏双两亿影像给到夯",
+      "onboard_time": 1776771441,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 111582,
@@ -5137,6 +5281,14 @@
       "onboard_time": 1776682341,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94236,
+      "num": 307006,
+      "word": "2026王者荣耀挑战者杯",
+      "onboard_time": 1776770660,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 94091,
