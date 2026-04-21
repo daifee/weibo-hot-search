@@ -1,0 +1,410 @@
+{
+  "runTime": 1776783153202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179216,
+        "num": 1188674,
+        "word": "男子心脏停跳2天后生还",
+        "onboard_time": 1776775761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880337,
+        "num": 880337,
+        "word": "巴萨",
+        "onboard_time": 1776776241,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41622,
+        "num": 711146,
+        "word": "中国工业成绩单亮了",
+        "onboard_time": 1776776899,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 743162,
+        "num": 698353,
+        "word": "伊朗储油罐要满了",
+        "onboard_time": 1776780144,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 538452,
+        "num": 538452,
+        "word": "吃原型食物",
+        "onboard_time": 1776774861,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457567,
+        "num": 457567,
+        "word": "乐道L90价格",
+        "onboard_time": 1776781522,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 375334,
+        "num": 375334,
+        "word": "唐诡导演 真人能演为啥让AI演",
+        "onboard_time": 1776768980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324993,
+        "num": 373906,
+        "word": "董力给阿诺发全职妈妈工资",
+        "onboard_time": 1776774381,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146084,
+        "num": 372473,
+        "word": "亚足联认定马宁亚冠判罚公正",
+        "onboard_time": 1776782661,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295636,
+        "num": 370497,
+        "word": "虞书欣新歌",
+        "onboard_time": 1776774320,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2101992,
+        "num": 369964,
+        "word": "杨蓉面部烫伤恢复近照",
+        "onboard_time": 1776769521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485045,
+        "num": 368046,
+        "word": "肯德基多要酱收费",
+        "onboard_time": 1776768622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1601758,
+        "num": 365205,
+        "word": "白鹿给助理呵呵做饭",
+        "onboard_time": 1776777442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80196,
+        "num": 363244,
+        "word": "宁德时代吴凯称多化学体系是必选项",
+        "onboard_time": 1776780443,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 467089,
+        "num": 361506,
+        "word": "光明日报发虞书欣新歌",
+        "onboard_time": 1776781943,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319804,
+        "num": 360653,
+        "word": "贝克汉姆回复50米吊射破门高中生",
+        "onboard_time": 1776775761,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228824,
+        "num": 359254,
+        "word": "孙艺洲模仿李小冉心愿便利贴",
+        "onboard_time": 1776765561,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194782,
+        "num": 357407,
+        "word": "张继科说祖国荣誉高于一切",
+        "onboard_time": 1776764719,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97094,
+        "num": 354620,
+        "word": "人与人最大的区别就是出门",
+        "onboard_time": 1776777681,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403851,
+        "num": 353966,
+        "word": "挪用1700万打赏女生发声",
+        "onboard_time": 1776779061,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1476344,
+        "num": 352502,
+        "word": "姚晨为救护车改道去世女子发声",
+        "onboard_time": 1776768680,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857353,
+        "num": 349736,
+        "word": "迅猛龙开付费直播",
+        "onboard_time": 1776781761,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 380411,
+        "num": 347618,
+        "word": "义乌请量产吧",
+        "onboard_time": 1776781040,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 829214,
+        "num": 346899,
+        "word": "时代少年团 团体工作室",
+        "onboard_time": 1776771024,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648942,
+        "num": 344635,
+        "word": "张翰回应去移民局",
+        "onboard_time": 1776761840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300188,
+        "num": 343347,
+        "word": "OPPO哈苏双两亿影像给到夯",
+        "onboard_time": 1776780261,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 464198,
+        "num": 341227,
+        "word": "浪胃仙自曝整容失败",
+        "onboard_time": 1776780202,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235699,
+        "num": 340335,
+        "word": "女子拍下日本地震时画面",
+        "onboard_time": 1776777802,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258383,
+        "num": 337796,
+        "word": "遭老板性侵女子主张应赔付250余万",
+        "onboard_time": 1776777260,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181326,
+        "num": 336077,
+        "word": "官方通报南昌虐婴事件",
+        "onboard_time": 1776779723,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 389387,
+        "num": 334851,
+        "word": "李荣浩直播手机掉水里了",
+        "onboard_time": 1776763160,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1089534,
+        "num": 332495,
+        "word": "宁德时代",
+        "onboard_time": 1776778642,
+        "rank": 31,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 406092,
+        "num": 330665,
+        "word": "垫底辣孩与路人合照状态",
+        "onboard_time": 1776773360,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326101,
+        "num": 329618,
+        "word": "业内评价白鹿",
+        "onboard_time": 1776767360,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166946,
+        "num": 327883,
+        "word": "吴磊的骑行故事",
+        "onboard_time": 1776782542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207891,
+        "num": 325630,
+        "word": "14岁女生被KTV服务员强奸母亲发声",
+        "onboard_time": 1776782903,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277613,
+        "num": 323882,
+        "word": "孙俪儿子画个妆直接能演甄嬛了",
+        "onboard_time": 1776743482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257472,
+        "num": 321722,
+        "word": "郭晓婷王天辰 夫妻相",
+        "onboard_time": 1776781281,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201071,
+        "num": 319658,
+        "word": "小伙养6个弟妹又有7弟外婆发声",
+        "onboard_time": 1776778101,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250166,
+        "num": 319101,
+        "word": "丁程鑫裸半身游泳",
+        "onboard_time": 1776770301,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 316830,
+        "word": "老外回国后得连夜写篇意林",
+        "onboard_time": 1776770180,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151882,
+        "num": 315113,
+        "word": "邓紫棋改编周杰伦的爱琴海",
+        "onboard_time": 1776773000,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185742,
+        "num": 313492,
+        "word": "父母再生7弟20岁小伙直言扛不动",
+        "onboard_time": 1776758601,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 311908,
+        "word": "沙溢玩嗨了李斌有诚意",
+        "onboard_time": 1776782421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181468,
+        "num": 309197,
+        "word": "身上出现肉疙瘩警惕这4种瘤",
+        "onboard_time": 1776776601,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 307729,
+        "word": "蜜语纪",
+        "onboard_time": 1776767659,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75096,
+        "num": 305803,
+        "word": "中超",
+        "onboard_time": 1776779781,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125267,
+        "num": 303763,
+        "word": "窈窈有期第一集硬刚第二集删除",
+        "onboard_time": 1776781581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114632,
+        "num": 303069,
+        "word": "杨幂冯湮儿太后微服私访",
+        "onboard_time": 1776770120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1540,
+        "num": 300992,
+        "word": "姆巴佩喊你补水啦",
+        "onboard_time": 1776681741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见老挝国家主席特使#"
+    }
+  }
+}

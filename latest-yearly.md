@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 22:16:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 22:52:33
 </p>
 </blockquote>
 <p>
@@ -1779,6 +1779,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%93%89%E9%9D%A2%E9%83%A8%E7%83%AB%E4%BC%A4%E6%81%A2%E5%A4%8D%E8%BF%91%E7%85%A7%23" target="weibo">
+杨蓉面部烫伤恢复近照（热度：2101992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%AB%E8%96%AF%E7%B2%BE%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 紫薯精天塌了（热度：2087503）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 王鹤棣演唱会（热度：2064980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%B1%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
-伊朗总统就哈梅内伊身亡发声明（热度：2056777）
 </a>
 </li>
 
