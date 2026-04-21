@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776741948939,
+  "endTime": 1776743526794,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1775823022,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3509532,
+      "num": 1203980,
+      "word": "工资高但是很孤独的工作",
+      "onboard_time": 1776741080,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 3500523,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2046414,
-      "num": 2046414,
-      "word": "拼多多美团京东淘天抖音被罚35亿",
-      "onboard_time": 1776414140,
-      "rank": 1,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
