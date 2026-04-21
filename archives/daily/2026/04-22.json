@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776812820401,
+  "endTime": 1776814987875,
   "band_list": [
     {
       "raw_hot": 1670243,
@@ -9,6 +9,14 @@
       "onboard_time": 1776769521,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1103699,
+      "num": 559810,
+      "word": "义乌请量产吧",
+      "onboard_time": 1776781040,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1022412,
@@ -43,20 +51,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 828947,
-      "num": 559810,
-      "word": "义乌请量产吧",
-      "onboard_time": 1776781040,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 799871,
       "num": 342024,
       "word": "姚晨为救护车改道去世女子发声",
       "onboard_time": 1776768680,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 648386,
+      "num": 487583,
+      "word": "樊振东与英伟达创始人打乒乓球",
+      "onboard_time": 1776813738,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 580763,
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557342,
+      "num": 310220,
+      "word": "女孩为何宁愿坐牢也不配合追回打赏",
+      "onboard_time": 1776792976,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501801,
       "num": 501801,
       "word": "哪吒造车3年烧掉183亿",
       "onboard_time": 1776783681,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 492459,
-      "num": 206428,
-      "word": "女孩为何宁愿坐牢也不配合追回打赏",
-      "onboard_time": 1776792976,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474027,
@@ -99,8 +107,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 460237,
+      "num": 264879,
+      "word": "国内油价下调了",
+      "onboard_time": 1776812478,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 436113,
+      "num": 713344,
+      "word": "中韩同日表态",
+      "onboard_time": 1776786080,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411090,
-      "num": 343460,
+      "num": 367257,
       "word": "特朗普称美伊停火到期将继续轰炸",
       "onboard_time": 1776787280,
       "rank": 31,
@@ -113,6 +137,22 @@
       "onboard_time": 1776785660,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410165,
+      "num": 410165,
+      "word": "亿万富豪教女儿如何看钱",
+      "onboard_time": 1776790816,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 405323,
+      "num": 173319,
+      "word": "虞书欣湖蓝亮色长裙",
+      "onboard_time": 1776814039,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 404625,
@@ -139,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 383194,
+      "num": 353423,
+      "word": "生了7个娃还想再生的男子年近50岁",
+      "onboard_time": 1776785061,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367803,
       "num": 292934,
       "word": "浪胃仙自曝整容失败",
@@ -155,28 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353423,
-      "num": 353423,
-      "word": "生了7个娃还想再生的男子年近50岁",
-      "onboard_time": 1776785061,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339260,
       "num": 217980,
       "word": "宁德时代",
       "onboard_time": 1776778642,
       "rank": 32,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 324884,
-      "num": 492991,
-      "word": "中韩同日表态",
-      "onboard_time": 1776786080,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 321458,
@@ -195,20 +227,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 315277,
+      "num": 198528,
+      "word": "教育局回应学生暴雨天体测800米",
+      "onboard_time": 1776788538,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311253,
       "num": 311253,
       "word": "光明日报发虞书欣新歌",
       "onboard_time": 1776781943,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296514,
-      "num": 198528,
-      "word": "教育局回应学生暴雨天体测800米",
-      "onboard_time": 1776788538,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284678,
@@ -219,12 +251,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256253,
-      "num": 256253,
-      "word": "亿万富豪教女儿如何看钱",
-      "onboard_time": 1776790816,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 262587,
+      "num": 174955,
+      "word": "虞书欣戛纳蓝色妖姬造型",
+      "onboard_time": 1776814039,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250920,
+      "num": 197982,
+      "word": "女子拍下日本地震时画面",
+      "onboard_time": 1776777802,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 228371,
+      "num": 172232,
+      "word": "美伊停火延长至伊朗提方案并谈妥",
+      "onboard_time": 1776814639,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222724,
@@ -251,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197982,
-      "num": 197982,
-      "word": "女子拍下日本地震时画面",
-      "onboard_time": 1776777802,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 194458,
       "num": 194458,
       "word": "解放军强硬回应台空军喊话",
@@ -283,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183137,
+      "num": 172987,
+      "word": "小伙养6个弟妹又有7弟外婆发声",
+      "onboard_time": 1776778101,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177237,
       "num": 177237,
       "word": "赵雨蝶一审死缓",
@@ -299,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171625,
+      "num": 171625,
+      "word": "肖战粉丝晒单尚界",
+      "onboard_time": 1776814879,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171441,
       "num": 190194,
       "word": "乐道L90价格",
       "onboard_time": 1776781522,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170637,
+      "num": 170637,
+      "word": "泰国泼水节一少女遭士兵性侵",
+      "onboard_time": 1776813978,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164914,
@@ -339,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154696,
+      "num": 176577,
+      "word": "时代少年团新歌硬照",
+      "onboard_time": 1776814158,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153024,
       "num": 154343,
       "word": "遭老板性侵女子主张应赔付250余万",
@@ -352,14 +424,6 @@
       "word": "女子34万装修踩坑极简风变灵堂风",
       "onboard_time": 1776787280,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148715,
-      "num": 153756,
-      "word": "小伙养6个弟妹又有7弟外婆发声",
-      "onboard_time": 1776778101,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -387,6 +451,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131662,
+      "num": 153586,
+      "word": "疑有中国女留学生被ICE当街逮捕",
+      "onboard_time": 1776790997,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128759,
+      "num": 151892,
+      "word": "伊朗导弹与防空系统实力",
+      "onboard_time": 1776802274,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125948,
       "num": 308521,
       "word": "央视曝卧铺大巴隐患",
@@ -395,28 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124725,
-      "num": 151892,
-      "word": "伊朗导弹与防空系统实力",
-      "onboard_time": 1776802274,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 124214,
-      "num": 153586,
-      "word": "疑有中国女留学生被ICE当街逮捕",
-      "onboard_time": 1776790997,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122869,
-      "num": 150154,
-      "word": "国内油价下调了",
-      "onboard_time": 1776812478,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "女子无视哈里夫妇淡定晒太阳走红",
+      "onboard_time": 1776814458,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122663,
@@ -443,7 +507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92013,
+      "raw_hot": 92555,
       "num": 154310,
       "word": "榜一大姐打赏10万无感却舍不得买包",
       "onboard_time": 1776790816,
