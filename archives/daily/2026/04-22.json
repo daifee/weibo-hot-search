@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776809295068,
+  "endTime": 1776811588002,
   "band_list": [
     {
       "raw_hot": 1670243,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544714,
+      "num": 559810,
+      "word": "义乌请量产吧",
+      "onboard_time": 1776781040,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 501801,
       "num": 501801,
       "word": "哪吒造车3年烧掉183亿",
@@ -81,14 +89,6 @@
       "onboard_time": 1776780144,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 461572,
-      "num": 461572,
-      "word": "义乌请量产吧",
-      "onboard_time": 1776781040,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 410657,
@@ -121,6 +121,14 @@
       "onboard_time": 1776779061,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 376494,
+      "num": 115982,
+      "word": "女孩为何宁愿坐牢也不配合追回打赏",
+      "onboard_time": 1776792976,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367803,
@@ -179,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306392,
+      "num": 306392,
+      "word": "特朗普称美伊停火到期将继续轰炸",
+      "onboard_time": 1776787280,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296514,
       "num": 193205,
       "word": "教育局回应学生暴雨天体测800米",
@@ -195,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270532,
-      "num": 110949,
-      "word": "女孩为何宁愿坐牢也不配合追回打赏",
-      "onboard_time": 1776792976,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 256253,
+      "num": 256253,
+      "word": "亿万富豪教女儿如何看钱",
+      "onboard_time": 1776790816,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 247010,
@@ -233,14 +249,6 @@
       "onboard_time": 1776781281,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209669,
-      "num": 218646,
-      "word": "特朗普称美伊停火到期将继续轰炸",
-      "onboard_time": 1776787280,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 194458,
@@ -356,19 +364,11 @@
     },
     {
       "raw_hot": 142943,
-      "num": 75271,
+      "num": 111690,
       "word": "赵雨蝶一审死缓",
       "onboard_time": 1776795314,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136390,
-      "num": 154136,
-      "word": "亿万富豪教女儿如何看钱",
-      "onboard_time": 1776790816,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 135709,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107077,
+      "num": 153756,
+      "word": "小伙养6个弟妹又有7弟外婆发声",
+      "onboard_time": 1776778101,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92013,
       "num": 154310,
       "word": "榜一大姐打赏10万无感却舍不得买包",
@@ -411,20 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85182,
-      "num": 76055,
+      "raw_hot": 87867,
+      "num": 87867,
       "word": "伊朗导弹与防空系统实力",
       "onboard_time": 1776802274,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83247,
-      "num": 153756,
-      "word": "小伙养6个弟妹又有7弟外婆发声",
-      "onboard_time": 1776778101,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69491,
@@ -433,6 +433,22 @@
       "onboard_time": 1776788059,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69268,
+      "num": 153586,
+      "word": "疑有中国女留学生被ICE当街逮捕",
+      "onboard_time": 1776790997,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67206,
+      "num": 153458,
+      "word": "马龙许昕不用说话就很好哭",
+      "onboard_time": 1776790816,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 65481,
@@ -448,14 +464,6 @@
       "word": "上午刷到巴掌帽下午义乌已出货",
       "onboard_time": 1776790816,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61288,
-      "num": 153586,
-      "word": "疑有中国女留学生被ICE当街逮捕",
-      "onboard_time": 1776790997,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -475,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 59199,
+      "num": 59199,
+      "word": "女子致男友3岁儿子死亡一审死缓",
+      "onboard_time": 1776809475,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56614,
       "num": 305316,
       "word": "女孩一学习就头晕查出凶险罕见病",
@@ -489,14 +505,6 @@
       "onboard_time": 1776790816,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50724,
-      "num": 153458,
-      "word": "马龙许昕不用说话就很好哭",
-      "onboard_time": 1776790816,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 50407,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 43696,
-      "num": 43696,
+      "num": 58173,
       "word": "苹果CEO库克将转任",
       "onboard_time": 1776799215,
       "rank": 23,
@@ -545,6 +553,22 @@
       "onboard_time": 1776787400,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32357,
+      "num": 57882,
+      "word": "杨幂冯湮儿太后微服私访",
+      "onboard_time": 1776770120,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31367,
+      "num": 57775,
+      "word": "孙艺洲模仿李小冉心愿便利贴",
+      "onboard_time": 1776765561,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 29903,
@@ -571,8 +595,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 25880,
-      "num": 41378,
+      "raw_hot": 28787,
+      "num": 57444,
       "word": "K90Max首发评测",
       "onboard_time": 1776808993,
       "rank": 43,
@@ -593,14 +617,6 @@
       "onboard_time": 1776798253,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23441,
-      "num": 43239,
-      "word": "杨幂冯湮儿太后微服私访",
-      "onboard_time": 1776770120,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 23030,
