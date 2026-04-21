@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776743526794,
+  "endTime": 1776751751258,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -203,12 +203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1798325,
+      "num": 542576,
+      "word": "宋承炫宣布当爸",
+      "onboard_time": 1776746002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1778691,
       "num": 391576,
       "word": "陈赫",
       "onboard_time": 1776617298,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1719532,
+      "num": 533918,
+      "word": "孙俪儿子画个妆直接能演甄嬛了",
+      "onboard_time": 1776743482,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 1681257,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 1421497,
-      "num": 492088,
+      "num": 507579,
       "word": "肖战 尚界",
       "onboard_time": 1776738501,
       "rank": 11,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1216720,
+      "num": 692270,
+      "word": "新疆的作息时间太适合年轻人了",
+      "onboard_time": 1776744200,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1209237,
       "num": 1209237,
       "word": "金像奖影帝梁家辉",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 1131854,
-      "num": 404680,
+      "num": 413013,
       "word": "曝某艺人需要助理穿袜子",
       "onboard_time": 1776735019,
       "rank": 30,
@@ -496,6 +520,14 @@
       "word": "攻玉 辞演",
       "onboard_time": 1776555798,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1035832,
+      "num": 524113,
+      "word": "窈窈有期 硬刚爱奇艺",
+      "onboard_time": 1776745821,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -883,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732254,
+      "num": 513550,
+      "word": "张翰就医后前往移民局",
+      "onboard_time": 1776747802,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728823,
       "num": 728823,
       "word": "睡觉时被空调砸到头了",
@@ -953,6 +993,14 @@
       "onboard_time": 1776576381,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 679097,
+      "num": 679097,
+      "word": "鱼第一次享受到了人工服务",
+      "onboard_time": 1776747381,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 670805,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1776584540,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 598890,
+      "num": 598890,
+      "word": "县城农村成了AB货重灾区",
+      "onboard_time": 1776744802,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 598040,
@@ -1531,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467308,
+      "num": 467308,
+      "word": "张凌赫登上法国第一大报纸",
+      "onboard_time": 1776750560,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466867,
       "num": 466867,
       "word": "朱孝天上节目被打",
@@ -1811,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403275,
+      "num": 528154,
+      "word": "日本女主播遇7.7级地震一秒变脸",
+      "onboard_time": 1776747921,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 402334,
       "num": 322894,
       "word": "陈哲远对接否认签署AI授权",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1776659062,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395455,
+      "num": 464973,
+      "word": "郑秀文好爱许志安",
+      "onboard_time": 1776745101,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 394920,
@@ -2131,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339730,
+      "num": 466389,
+      "word": "A股",
+      "onboard_time": 1776743482,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 339585,
       "num": 273281,
       "word": "本周狗屎运最旺的星座",
@@ -2299,6 +2387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 309814,
+      "num": 309814,
+      "word": "邱淑贞母女和工藤静香母女同框",
+      "onboard_time": 1776747203,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309619,
       "num": 273079,
       "word": "凌晨的徐艺洋简直是魔丸",
@@ -2328,6 +2424,14 @@
       "word": "张凌赫ins点赞两小时破五十万",
       "onboard_time": 1776591262,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307453,
+      "num": 307453,
+      "word": "何润东 直男写文下手没轻没重",
+      "onboard_time": 1776746602,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2411,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294499,
+      "num": 294499,
+      "word": "伊朗用特朗普方式对付特朗普",
+      "onboard_time": 1776746903,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 293878,
       "num": 293878,
       "word": "张凌赫王楚然相依海报",
@@ -2473,6 +2585,14 @@
       "onboard_time": 1776518302,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281976,
+      "num": 463360,
+      "word": "怦然心动20岁",
+      "onboard_time": 1776745760,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 279745,
@@ -2603,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263771,
+      "num": 550337,
+      "word": "森林狼vs掘金",
+      "onboard_time": 1776748281,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263168,
       "num": 263168,
       "word": "BLG对战AL",
@@ -2625,6 +2753,14 @@
       "onboard_time": 1776589041,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254892,
+      "num": 543010,
+      "word": "余承东回应Pura90橘子海配色",
+      "onboard_time": 1776745042,
+      "rank": 9,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 253385,
@@ -2673,6 +2809,22 @@
       "onboard_time": 1776665721,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250019,
+      "num": 250019,
+      "word": "高一男生跳高2米引全场沸腾",
+      "onboard_time": 1776750680,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249032,
+      "num": 249032,
+      "word": "张梓琳大女儿10岁了",
+      "onboard_time": 1776751460,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 247416,
@@ -2763,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242300,
+      "num": 458811,
+      "word": "唐诡主创拍东方神话了",
+      "onboard_time": 1776748880,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239924,
       "num": 448854,
       "word": "泰女子泼水节昏迷体内检出听话水",
@@ -2843,6 +3003,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 231955,
+      "num": 207214,
+      "word": "李小冉50岁状态我P都不敢P",
+      "onboard_time": 1776745220,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230965,
       "num": 230965,
       "word": "刘嘉玲带梁朝伟回苏州老家",
@@ -2857,14 +3025,6 @@
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230315,
-      "num": 230315,
-      "word": "A股",
-      "onboard_time": 1776743482,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 227883,
@@ -3051,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217073,
+      "num": 217073,
+      "word": "这2种饮料混着喝可能永久损伤大脑",
+      "onboard_time": 1776749301,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216973,
       "num": 216973,
       "word": "橘子海",
@@ -3145,14 +3313,6 @@
       "onboard_time": 1776737962,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210647,
-      "num": 210647,
-      "word": "孙俪儿子画个妆直接能演甄嬛了",
-      "onboard_time": 1776743482,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 209162,
@@ -3763,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159264,
+      "num": 457803,
+      "word": "演戏 要有血有肉真情实感",
+      "onboard_time": 1776746361,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159189,
       "num": 209075,
       "word": "龚俊拍了刘宇宁唱天问",
@@ -3923,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147528,
+      "num": 461079,
+      "word": "航旅纵横崩了",
+      "onboard_time": 1776749181,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146946,
       "num": 146946,
       "word": "黄灿灿对着李小冉跳心愿便利贴",
@@ -4003,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138645,
+      "num": 454182,
+      "word": "林高远从乒乓球网球到匹克球",
+      "onboard_time": 1776743060,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
@@ -4041,6 +4225,14 @@
       "onboard_time": 1776742459,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133527,
+      "num": 451925,
+      "word": "aespa官宣巡演",
+      "onboard_time": 1776750862,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 132740,
@@ -4097,6 +4289,14 @@
       "onboard_time": 1776640758,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130571,
+      "num": 450481,
+      "word": "F1紧急改规则",
+      "onboard_time": 1776742520,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 130002,
@@ -4291,11 +4491,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117116,
-      "num": 410032,
-      "word": "林高远从乒乓球网球到匹克球",
-      "onboard_time": 1776743060,
-      "rank": 27,
+      "raw_hot": 117206,
+      "num": 216444,
+      "word": "NBA",
+      "onboard_time": 1776744081,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -4659,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83594,
+      "num": 210219,
+      "word": "森林狼19分逆转掘金",
+      "onboard_time": 1776750979,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83562,
       "num": 347003,
       "word": "全新坦克700不卖产品卖向往",
@@ -4673,6 +4881,14 @@
       "onboard_time": 1776704537,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83507,
+      "num": 203216,
+      "word": "一诺登场KPL八周年",
+      "onboard_time": 1776746722,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 83185,
