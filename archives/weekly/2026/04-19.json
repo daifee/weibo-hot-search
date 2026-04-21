@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776794719792,
+  "endTime": 1776800774998,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -4251,6 +4251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196199,
+      "num": 110949,
+      "word": "女孩为何宁愿坐牢也不配合追回打赏",
+      "onboard_time": 1776792976,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195028,
       "num": 398341,
       "word": "伊朗军方晒导弹和无人机库存",
@@ -5051,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142943,
+      "num": 70570,
+      "word": "赵雨蝶一审死缓",
+      "onboard_time": 1776795314,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1776639618,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 89907,
-      "num": 110949,
-      "word": "女孩为何宁愿坐牢也不配合追回打赏",
-      "onboard_time": 1776792976,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89667,
@@ -6571,6 +6579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43696,
+      "num": 43696,
+      "word": "苹果CEO库克将转任",
+      "onboard_time": 1776799215,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43644,
       "num": 235810,
       "word": "马斯克被法国检方传唤",
@@ -6931,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24065,
+      "num": 34094,
+      "word": "21岁养6弟妹小伙父亲回应争议",
+      "onboard_time": 1776798253,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23007,
       "num": 31645,
       "word": "Wolves对战Xteam",
@@ -6939,11 +6963,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22708,
+      "num": 34090,
+      "word": "红米K90Max发布会",
+      "onboard_time": 1776773240,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 22703,
       "num": 28314,
       "word": "18岁女孩1年多打赏主播上千万",
       "onboard_time": 1776714373,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22037,
+      "num": 34088,
+      "word": "官方回应南昌一婴儿遭母亲虐待",
+      "onboard_time": 1776791416,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
