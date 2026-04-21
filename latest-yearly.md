@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 19:39:35
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/21 20:05:06
 </p>
 </blockquote>
 <p>
@@ -1695,6 +1695,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%80%92%E6%96%A5%E6%B7%B1%E5%9C%B3%E8%BF%9D%E8%A7%84%E7%A7%81%E8%BD%AC%E6%82%A3%E8%80%85%E6%95%91%E6%8A%A4%E8%BD%A6%23" target="weibo">
+姚晨怒斥深圳违规私转患者救护车（热度：2166256）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E4%B8%AD%E9%AB%98%E8%80%83%E6%98%AF%E6%97%A9%E6%99%9A%E7%9A%84%E4%BA%8B%23" target="weibo">
 取消中高考是早晚的事（热度：2152986）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B0%B1%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
 伊朗总统就哈梅内伊身亡发声明（热度：2056777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23" target="weibo">
-日本年轻人聚众晒梅毒（热度：2050529）
 </a>
 </li>
 
