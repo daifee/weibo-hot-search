@@ -1,6 +1,6 @@
 {
   "startTime": 1776703294731,
-  "endTime": 1776729227112,
+  "endTime": 1776729999596,
   "band_list": [
     {
       "raw_hot": 2334758,
@@ -11,7 +11,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1513409,
+      "raw_hot": 1632699,
       "num": 234707,
       "word": "李小冉说我50了根本记不住",
       "onboard_time": 1776727221,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908425,
+      "num": 235917,
+      "word": "五一航班大面积取消",
+      "onboard_time": 1776728119,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 855052,
       "num": 387677,
       "word": "叶祖新的脸怎么了",
@@ -67,19 +75,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788861,
+      "num": 234584,
+      "word": "鹿晗工作室",
+      "onboard_time": 1776727399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 682735,
       "num": 361314,
       "word": "田曦薇 想跑路可以直说",
       "onboard_time": 1776684321,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 625412,
-      "num": 233615,
-      "word": "鹿晗工作室",
-      "onboard_time": 1776727399,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -115,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411203,
-      "num": 232832,
-      "word": "五一航班大面积取消",
-      "onboard_time": 1776728119,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 418571,
+      "num": 227509,
+      "word": "原来这些都是无意识的控糖行为",
+      "onboard_time": 1776727399,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 404567,
+      "num": 227295,
+      "word": "让近视眼更舒服的六个习惯",
+      "onboard_time": 1776727579,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 398603,
@@ -131,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383623,
-      "num": 226746,
-      "word": "原来这些都是无意识的控糖行为",
-      "onboard_time": 1776727399,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 373920,
+      "num": 404221,
+      "word": "8岁孩子竟然痛风了",
+      "onboard_time": 1776724937,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 370410,
@@ -153,14 +169,6 @@
       "onboard_time": 1776685341,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 361133,
-      "num": 404221,
-      "word": "8岁孩子竟然痛风了",
-      "onboard_time": 1776724937,
-      "rank": 41,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 355348,
@@ -203,12 +211,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 294276,
-      "num": 225119,
-      "word": "让近视眼更舒服的六个习惯",
-      "onboard_time": 1776727579,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 286191,
+      "num": 437616,
+      "word": "娃坐了6年电瓶车还不知回家的路",
+      "onboard_time": 1776704418,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 246954,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242428,
+      "num": 226012,
+      "word": "追王一博把71岁奶奶变成17岁了",
+      "onboard_time": 1776691522,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239754,
       "num": 226363,
       "word": "苏醒说AI艺人这方向真的对么",
@@ -243,20 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238552,
-      "num": 437616,
-      "word": "娃坐了6年电瓶车还不知回家的路",
-      "onboard_time": 1776704418,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230449,
       "num": 236241,
       "word": "中方就伊朗向印度船只开火表态",
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227862,
+      "num": 227862,
+      "word": "挪用千万打赏女孩称坐牢也无所谓",
+      "onboard_time": 1776728360,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225264,
@@ -291,12 +307,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217646,
+      "num": 217646,
+      "word": "男童身上被生父女友用牙签扎烂",
+      "onboard_time": 1776728360,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207751,
       "num": 156863,
       "word": "颖儿付辛博女儿近照",
       "onboard_time": 1776692003,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200770,
+      "num": 238357,
+      "word": "热巴领衔主演虽然不能同时拥有一切",
+      "onboard_time": 1776728659,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199830,
+      "num": 199830,
+      "word": "伊朗专挑周末打脸美国",
+      "onboard_time": 1776728599,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198856,
@@ -307,28 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193088,
+      "num": 238502,
+      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
+      "onboard_time": 1776720614,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179987,
       "num": 236144,
       "word": "持股市值不到7万元成第8大股东",
       "onboard_time": 1776687321,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179780,
-      "num": 160278,
-      "word": "追王一博把71岁奶奶变成17岁了",
-      "onboard_time": 1776691522,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176983,
-      "num": 238502,
-      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
-      "onboard_time": 1776720614,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 170848,
@@ -339,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167570,
+      "num": 236178,
+      "word": "女孩挪用千万打赏主播不愿退钱",
+      "onboard_time": 1776704418,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166616,
       "num": 246939,
       "word": "逐玉的成功在于第三集续看率95%",
@@ -347,20 +387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163100,
+      "num": 163100,
+      "word": "人的心情是可以突然变好的",
+      "onboard_time": 1776729021,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161534,
       "num": 236348,
       "word": "宁德时代股东一口气转让238亿元股票",
       "onboard_time": 1776697041,
       "rank": 31,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 160749,
-      "num": 236178,
-      "word": "女孩挪用千万打赏主播不愿退钱",
-      "onboard_time": 1776704418,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159865,
@@ -395,22 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143973,
-      "num": 143973,
-      "word": "挪用千万打赏女孩称坐牢也无所谓",
-      "onboard_time": 1776728360,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141975,
-      "num": 141975,
-      "word": "男童身上被生父女友用牙签扎烂",
-      "onboard_time": 1776728360,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141572,
       "num": 141572,
       "word": "林子烨被吐槽态度差",
@@ -427,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139647,
-      "num": 139647,
-      "word": "热巴领衔主演虽然不能同时拥有一切",
-      "onboard_time": 1776728659,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137589,
       "num": 137589,
       "word": "刘宇宁回应是否会被AI抢饭碗",
@@ -443,20 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "莲花楼爱奇艺118亿营收IP",
+      "onboard_time": 1776729741,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "张杰说要去见证谢娜的演唱会",
+      "onboard_time": 1776729861,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132220,
       "num": 132220,
       "word": "洪天明回应爸爸洪金宝暴瘦",
       "onboard_time": 1776699021,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132186,
-      "num": 132186,
-      "word": "伊朗专挑周末打脸美国",
-      "onboard_time": 1776728599,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131413,
@@ -475,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124862,
+      "num": 132694,
+      "word": "日本曾给灾民送千纸鹤",
+      "onboard_time": 1776728900,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124658,
       "num": 236503,
       "word": "老人打赏花330万却交不起15元电费",
@@ -488,6 +520,14 @@
       "word": "华为PuraXMax价格",
       "onboard_time": 1776698661,
       "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 121747,
+      "num": 410151,
+      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
+      "onboard_time": 1776708136,
+      "rank": 18,
       "category": "数码"
     },
     {
@@ -507,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115197,
-      "num": 410151,
-      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
-      "onboard_time": 1776708136,
-      "rank": 18,
-      "category": "数码"
+      "raw_hot": 111852,
+      "num": 111852,
+      "word": "平台回应女孩公款打赏主播上千万",
+      "onboard_time": 1776729919,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110677,
@@ -529,14 +569,6 @@
       "onboard_time": 1776680842,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98357,
-      "num": 98357,
-      "word": "人的心情是可以突然变好的",
-      "onboard_time": 1776729021,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 92231,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 64997,
-      "num": 92104,
+      "num": 217795,
       "word": "2026机器人半马",
       "onboard_time": 1776727458,
       "rank": 49,
@@ -771,7 +803,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24017,
+      "raw_hot": 24524,
       "num": 786523,
       "word": "硬核数据看中国经济动力澎湃",
       "onboard_time": 1776689181,
@@ -795,8 +827,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13388,
-      "num": 66977,
+      "raw_hot": 21213,
+      "num": 102122,
       "word": "deepseek崩了",
       "onboard_time": 1776726078,
       "rank": 49,

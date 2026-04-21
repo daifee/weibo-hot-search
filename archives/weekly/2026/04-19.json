@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776729227112,
+  "endTime": 1776729999596,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1632699,
+      "num": 234707,
+      "word": "李小冉说我50了根本记不住",
+      "onboard_time": 1776727221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1588740,
       "num": 1588740,
       "word": "佳偶天成定档",
@@ -217,14 +225,6 @@
       "onboard_time": 1776672623,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1513409,
-      "num": 234707,
-      "word": "李小冉说我50了根本记不住",
-      "onboard_time": 1776727221,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1423652,
@@ -523,6 +523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 908425,
+      "num": 235917,
+      "word": "五一航班大面积取消",
+      "onboard_time": 1776496760,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 894595,
       "num": 350056,
       "word": "何润东不让老婆接受伤害性医疗干预",
@@ -665,6 +673,14 @@
       "onboard_time": 1776612501,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 788861,
+      "num": 234584,
+      "word": "鹿晗工作室",
+      "onboard_time": 1776727399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 778722,
@@ -921,14 +937,6 @@
       "onboard_time": 1776556098,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 625412,
-      "num": 233615,
-      "word": "鹿晗工作室",
-      "onboard_time": 1776727399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 618125,
@@ -1208,14 +1216,6 @@
       "word": "中国城市宜居水平排行榜",
       "onboard_time": 1776504201,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 515177,
-      "num": 232832,
-      "word": "五一航班大面积取消",
-      "onboard_time": 1776496760,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418571,
+      "num": 227509,
+      "word": "原来这些都是无意识的控糖行为",
+      "onboard_time": 1776727399,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417761,
       "num": 943403,
       "word": "中方回应美国截停中国驶往伊朗油轮",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1776571340,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 404567,
+      "num": 227295,
+      "word": "让近视眼更舒服的六个习惯",
+      "onboard_time": 1776727579,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 403377,
@@ -1715,14 +1731,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 383623,
-      "num": 226746,
-      "word": "原来这些都是无意识的控糖行为",
-      "onboard_time": 1776727399,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 383361,
       "num": 381972,
       "word": "爱奇艺top10剧集没有莲花楼",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1776576081,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 373920,
+      "num": 404221,
+      "word": "8岁孩子竟然痛风了",
+      "onboard_time": 1776724937,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 373737,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1776595641,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361133,
-      "num": 404221,
-      "word": "8岁孩子竟然痛风了",
-      "onboard_time": 1776724937,
-      "rank": 41,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 359318,
@@ -2187,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294276,
-      "num": 225119,
-      "word": "让近视眼更舒服的六个习惯",
-      "onboard_time": 1776727579,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 293878,
       "num": 293878,
       "word": "张凌赫王楚然相依海报",
@@ -2241,6 +2241,14 @@
       "onboard_time": 1776524181,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286191,
+      "num": 437616,
+      "word": "娃坐了6年电瓶车还不知回家的路",
+      "onboard_time": 1776704418,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 283011,
@@ -2531,6 +2539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 242428,
+      "num": 226012,
+      "word": "追王一博把71岁奶奶变成17岁了",
+      "onboard_time": 1776691522,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239924,
       "num": 448854,
       "word": "泰女子泼水节昏迷体内检出听话水",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1776555196,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 238552,
-      "num": 437616,
-      "word": "娃坐了6年电瓶车还不知回家的路",
-      "onboard_time": 1776704418,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 238208,
@@ -2641,6 +2649,14 @@
       "onboard_time": 1776592282,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227862,
+      "num": 227862,
+      "word": "挪用千万打赏女孩称坐牢也无所谓",
+      "onboard_time": 1776728360,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225381,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1776673463,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217646,
+      "num": 217646,
+      "word": "男童身上被生父女友用牙签扎烂",
+      "onboard_time": 1776728360,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216973,
@@ -2987,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200770,
+      "num": 238357,
+      "word": "热巴领衔主演虽然不能同时拥有一切",
+      "onboard_time": 1776728659,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200288,
       "num": 181268,
       "word": "魏大勋这辈子都不会忘记耻骨在哪",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1776516202,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199830,
+      "num": 199830,
+      "word": "伊朗专挑周末打脸美国",
+      "onboard_time": 1776728599,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199825,
@@ -3073,6 +3113,14 @@
       "onboard_time": 1776524902,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 193088,
+      "num": 238502,
+      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
+      "onboard_time": 1776720614,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 191859,
@@ -3187,14 +3235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179780,
-      "num": 160278,
-      "word": "追王一博把71岁奶奶变成17岁了",
-      "onboard_time": 1776691522,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179068,
       "num": 209474,
       "word": "樊振东波尔日内瓦旅行",
@@ -3224,14 +3264,6 @@
       "word": "NBA公布MVP候选名单",
       "onboard_time": 1776650600,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176983,
-      "num": 238502,
-      "word": "谷爱凌回应主持劳伦斯颁奖典礼",
-      "onboard_time": 1776720614,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -3323,6 +3355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167570,
+      "num": 236178,
+      "word": "女孩挪用千万打赏主播不愿退钱",
+      "onboard_time": 1776704418,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167471,
       "num": 167471,
       "word": "官方通报小学生拒借车遭群殴",
@@ -3371,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163100,
+      "num": 163100,
+      "word": "人的心情是可以突然变好的",
+      "onboard_time": 1776729021,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162848,
       "num": 345549,
       "word": "中方回应美国拦截中国油轮",
@@ -3417,14 +3465,6 @@
       "onboard_time": 1776599301,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160749,
-      "num": 236178,
-      "word": "女孩挪用千万打赏主播不愿退钱",
-      "onboard_time": 1776704418,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160139,
@@ -3619,14 +3659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143973,
-      "num": 143973,
-      "word": "挪用千万打赏女孩称坐牢也无所谓",
-      "onboard_time": 1776728360,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143787,
       "num": 188987,
       "word": "被骗3200万老板从住豪宅到租房住",
@@ -3659,14 +3691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141975,
-      "num": 141975,
-      "word": "男童身上被生父女友用牙签扎烂",
-      "onboard_time": 1776728360,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140525,
       "num": 140525,
       "word": "观众为何对AI表演集体不买账",
@@ -3681,14 +3705,6 @@
       "onboard_time": 1776641479,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139647,
-      "num": 139647,
-      "word": "热巴领衔主演虽然不能同时拥有一切",
-      "onboard_time": 1776728659,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 138142,
@@ -3715,20 +3731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "莲花楼爱奇艺118亿营收IP",
+      "onboard_time": 1776729741,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "张杰说要去见证谢娜的演唱会",
+      "onboard_time": 1776729861,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132220,
       "num": 132220,
       "word": "洪天明回应爸爸洪金宝暴瘦",
       "onboard_time": 1776699021,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132186,
-      "num": 132186,
-      "word": "伊朗专挑周末打脸美国",
-      "onboard_time": 1776728599,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131413,
@@ -3811,6 +3835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124862,
+      "num": 132694,
+      "word": "日本曾给灾民送千纸鹤",
+      "onboard_time": 1776728900,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124407,
       "num": 245731,
       "word": "华为PuraXMax价格",
@@ -3849,6 +3881,14 @@
       "onboard_time": 1776572780,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121747,
+      "num": 410151,
+      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
+      "onboard_time": 1776708136,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 121325,
@@ -3963,14 +4003,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 115197,
-      "num": 410151,
-      "word": "大疆Pocket4支持鸿蒙6.1设备直传",
-      "onboard_time": 1776708136,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 115003,
       "num": 318021,
       "word": "荣耀机器人打破人类半马纪录",
@@ -4009,6 +4041,14 @@
       "onboard_time": 1776503479,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111852,
+      "num": 111852,
+      "word": "平台回应女孩公款打赏主播上千万",
+      "onboard_time": 1776729919,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111582,
@@ -4073,14 +4113,6 @@
       "onboard_time": 1776534019,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 98357,
-      "num": 98357,
-      "word": "人的心情是可以突然变好的",
-      "onboard_time": 1776729021,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 97684,
@@ -4979,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24524,
+      "num": 786523,
+      "word": "硬核数据看中国经济动力澎湃",
+      "onboard_time": 1776689181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24481,
       "num": 319185,
       "word": "伊将恢复马什哈德机场国际航班",
@@ -4995,14 +5035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24017,
-      "num": 786523,
-      "word": "硬核数据看中国经济动力澎湃",
-      "onboard_time": 1776689181,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23007,
       "num": 31645,
       "word": "Wolves对战Xteam",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1776714373,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21213,
+      "num": 102122,
+      "word": "deepseek崩了",
+      "onboard_time": 1776726078,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 19988,
@@ -5065,14 +5105,6 @@
       "onboard_time": 1776527900,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13388,
-      "num": 66977,
-      "word": "deepseek崩了",
-      "onboard_time": 1776726078,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 13271,
