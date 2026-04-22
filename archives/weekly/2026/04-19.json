@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776853525252,
+  "endTime": 1776857938384,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -387,6 +387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1560815,
+      "num": 1560815,
+      "word": "日本人称手机设置为中文感觉很清爽",
+      "onboard_time": 1776849259,
+      "rank": 11,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1532384,
       "num": 625721,
       "word": "王濛有几百支口红",
@@ -465,6 +473,14 @@
       "onboard_time": 1776673164,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1342728,
+      "num": 1147834,
+      "word": "歌手2026",
+      "onboard_time": 1776583280,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1330579,
@@ -739,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1086133,
-      "num": 1147834,
-      "word": "歌手2026",
-      "onboard_time": 1776583280,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1085524,
       "num": 565474,
       "word": "赵继伟 呵呵",
@@ -769,6 +777,14 @@
       "onboard_time": 1776842601,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1060943,
+      "num": 479404,
+      "word": "陈妍希告了陈晓粉丝",
+      "onboard_time": 1776852441,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1054358,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1776831683,
       "rank": 12,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 800949,
-      "num": 525311,
-      "word": "日本人称手机设置为中文感觉很清爽",
-      "onboard_time": 1776849259,
-      "rank": 11,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 797565,
@@ -1659,14 +1667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 626259,
-      "num": 479404,
-      "word": "陈妍希告了陈晓粉丝",
-      "onboard_time": 1776852441,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 626029,
       "num": 333182,
       "word": "女子产后被男友起诉退彩礼和分娩费",
@@ -1851,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587928,
+      "num": 462045,
+      "word": "体检无异常发现却是癌症晚期",
+      "onboard_time": 1776851420,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 586390,
       "num": 586390,
       "word": "女子脚踹保安被扇事件警方已立案",
@@ -1937,14 +1945,6 @@
       "onboard_time": 1776573319,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 569289,
-      "num": 462045,
-      "word": "体检无异常发现却是癌症晚期",
-      "onboard_time": 1776851420,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 568527,
@@ -2091,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 519840,
+      "num": 379078,
+      "word": "陈奕恒的手机壁纸是jennie",
+      "onboard_time": 1776850460,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518676,
       "num": 518676,
       "word": "中国城市宜居水平排行榜",
@@ -2235,6 +2243,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 488396,
+      "num": 296330,
+      "word": "朴信惠眼睛 断崖式衰老",
+      "onboard_time": 1776857299,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486753,
       "num": 342581,
       "word": "五月天怪兽二胎得子",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1776764719,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 472424,
+      "num": 307507,
+      "word": "茶颜悦色要卖卤味了",
+      "onboard_time": 1776854959,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469477,
@@ -2963,6 +2987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 383949,
+      "num": 906514,
+      "word": "首批2名外籍航天员为巴基斯坦籍",
+      "onboard_time": 1776854060,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 383362,
       "num": 276458,
       "word": "野狗骨头",
@@ -3033,14 +3065,6 @@
       "onboard_time": 1776687321,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 379078,
-      "num": 379078,
-      "word": "陈奕恒的手机壁纸是jennie",
-      "onboard_time": 1776850460,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 376714,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1776554236,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335159,
+      "num": 335159,
+      "word": "女子不孕多年一次怀4胞胎",
+      "onboard_time": 1776851899,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332035,
@@ -3577,6 +3609,14 @@
       "onboard_time": 1776849621,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307217,
+      "num": 307217,
+      "word": "夫妻鱼塘双双溺亡留下两孩子",
+      "onboard_time": 1776848481,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 306380,
@@ -3883,14 +3923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267109,
-      "num": 210191,
-      "word": "夫妻鱼塘双双溺亡留下两孩子",
-      "onboard_time": 1776848481,
-      "rank": 32,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 266670,
       "num": 915619,
       "word": "蜜语纪",
@@ -3971,12 +4003,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259159,
+      "num": 259159,
+      "word": "中国交警雨天执勤的视频在国外火了",
+      "onboard_time": 1776853823,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258383,
       "num": 428040,
       "word": "遭老板性侵女子主张应赔付250余万",
       "onboard_time": 1776777260,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258306,
+      "num": 292745,
+      "word": "孙怡回浪姐宿舍",
+      "onboard_time": 1776857180,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257544,
@@ -4273,6 +4321,14 @@
       "onboard_time": 1776555196,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 238282,
+      "num": 303068,
+      "word": "大冰谈如何锻炼输出表达能力",
+      "onboard_time": 1776855681,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 238208,
@@ -5075,6 +5131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 194067,
+      "num": 194067,
+      "word": "鸿蒙智行发布会",
+      "onboard_time": 1776857841,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193969,
       "num": 193969,
       "word": "平台回应女孩公款打赏主播上千万",
@@ -5107,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "看演唱会四不原则",
+      "onboard_time": 1776853701,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191304,
       "num": 191304,
       "word": "36岁颜如晶为自己挑选墓地",
@@ -5129,6 +5201,14 @@
       "onboard_time": 1776580459,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190146,
+      "num": 190146,
+      "word": "花少导演面试王星越",
+      "onboard_time": 1776857540,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 189668,
@@ -5179,6 +5259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187808,
+      "num": 187808,
+      "word": "见面真的太重要了",
+      "onboard_time": 1776855621,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187519,
       "num": 340628,
       "word": "Pura90大杯超大杯价格不涨反降",
@@ -5219,12 +5307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186047,
-      "num": 190508,
-      "word": "女子不孕多年一次怀4胞胎",
-      "onboard_time": 1776851899,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 186060,
+      "num": 186060,
+      "word": "不要在上班的时候说分手",
+      "onboard_time": 1776856041,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 185955,
@@ -5763,6 +5851,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154766,
+      "num": 154766,
+      "word": "考研生拼单买盗版网课被告上法院",
+      "onboard_time": 1776857602,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154659,
+      "num": 386717,
+      "word": "文班亚马确诊为脑震荡",
+      "onboard_time": 1776847760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154085,
       "num": 435853,
       "word": "花27万买摊位老板大半个月回本盈利",
@@ -5987,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142614,
+      "num": 301568,
+      "word": "年轻人第一台性能车",
+      "onboard_time": 1776856281,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -6027,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138641,
-      "num": 386717,
-      "word": "文班亚马确诊为脑震荡",
-      "onboard_time": 1776847760,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138142,
       "num": 149159,
       "word": "吴佳尼说赵丽颖没有医美",
@@ -6065,6 +6169,14 @@
       "onboard_time": 1776767060,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135207,
+      "num": 135207,
+      "word": "幼童反复咳痰气管内取出8厘米蚂蟥",
+      "onboard_time": 1776855321,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134779,
@@ -6545,6 +6657,14 @@
       "onboard_time": 1776726139,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116320,
+      "num": 132379,
+      "word": "美政客称中国可能在大蒜里植入芯片",
+      "onboard_time": 1776855740,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116019,
@@ -7131,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79739,
+      "num": 289111,
+      "word": "原来芯片发布会可以这么浪漫",
+      "onboard_time": 1776856340,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79476,
       "num": 244554,
       "word": "Kanavi说LPL经常折戟",
@@ -7545,6 +7673,14 @@
       "onboard_time": 1776531619,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56717,
+      "num": 289919,
+      "word": "谁能拒绝黄景瑜的黑色座驾",
+      "onboard_time": 1776856340,
+      "rank": 27,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 56614,

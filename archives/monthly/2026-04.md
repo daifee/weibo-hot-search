@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 18:25:25
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 19:38:58
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
+日本人称手机设置为中文感觉很清爽（热度：1560815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E8%AF%B4%E6%9D%8E%E7%BA%AF%E5%BE%88%E5%81%87%23" target="weibo">
 马頔说李纯很假（热度：1549641）
 </a>
@@ -1025,6 +1031,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E7%88%86%E5%93%AD%23" target="weibo">
 孙怡爆哭（热度：1348595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+歌手2026（热度：1342728）
 </a>
 </li>
 
@@ -1593,12 +1605,6 @@ jisoo的哥哥已婚（热度：1121209）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
-歌手2026（热度：1086133）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%20%E5%91%B5%E5%91%B5%23" target="weibo">
 赵继伟 呵呵（热度：1085524）
 </a>
@@ -1637,6 +1643,12 @@ jisoo的哥哥已婚（热度：1121209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E7%A7%B020%E5%B2%81%E5%B0%8F%E4%BC%99%E5%85%BB6%E5%BC%9F%E5%A6%B9%E7%B3%BB%E4%BA%BA%E8%AE%BE%23" target="weibo">
 民政局称20岁小伙养6弟妹系人设（热度：1061984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%8A%E4%BA%86%E9%99%88%E6%99%93%E7%B2%89%E4%B8%9D%23" target="weibo">
+陈妍希告了陈晓粉丝（热度：1060943）
 </a>
 </li>
 
@@ -2567,12 +2579,6 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E7%BB%9D%E5%AD%A9%E5%AD%90%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%98%BE%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 断绝孩子手机上瘾最快的方法（热度：801121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
-日本人称手机设置为中文感觉很清爽（热度：800949）
 </a>
 </li>
 
@@ -3837,12 +3843,6 @@ KTV服务员被指强奸14岁女生（热度：668220）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%8A%E4%BA%86%E9%99%88%E6%99%93%E7%B2%89%E4%B8%9D%23" target="weibo">
-陈妍希告了陈晓粉丝（热度：626259）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%AA%97%E5%88%B0%E4%BA%86%23" target="weibo">
 被易烊千玺骗到了（热度：626216）
 </a>
@@ -4293,6 +4293,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
+体检无异常发现却是癌症晚期（热度：587928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B7%BB%E7%A5%A5%E9%95%BF%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 陈添祥长文道歉（热度：587463）
 </a>
@@ -4463,12 +4469,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E5%93%AA%E5%90%922%23" target="weibo">
 王者荣耀 哪吒2（热度：569425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
-体检无异常发现却是癌症晚期（热度：569289）
 </a>
 </li>
 
@@ -5127,6 +5127,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E6%98%AFjennie%23" target="weibo">
+陈奕恒的手机壁纸是jennie（热度：519840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E8%8C%B5%E6%9A%B4%E7%98%A6%23" target="weibo">
 余茵暴瘦（热度：517997）
 </a>
@@ -5589,6 +5595,12 @@ sbti测试（热度：495899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0%E7%9C%BC%E7%9D%9B%20%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23" target="weibo">
+朴信惠眼睛 断崖式衰老（热度：488396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%80%85%E6%9D%A5%E7%88%B6%23" target="weibo">
 周杰伦 者来父（热度：488123）
 </a>
@@ -5877,6 +5889,12 @@ iPhone18Pro模具偷跑（热度：474601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E8%A6%81%E5%8D%96%E5%8D%A4%E5%91%B3%E4%BA%86%23" target="weibo">
+茶颜悦色要卖卤味了（热度：472424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9E%BF%E9%A2%96%20%E6%88%91%E4%B8%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E8%BF%98%E6%98%AF%E9%A1%B6%E6%B5%81%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
 瞿颖 我上个世纪还是顶流的时候（热度：470857）
 </a>
@@ -5993,24 +6011,6 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%8F%91%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E6%AD%8C%23" target="weibo">
 光明日报发虞书欣新歌（热度：467089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8A%8A%E6%9D%A8%E6%9F%B3%E6%A0%91%E9%83%BD%E7%A0%8D%E4%BA%86%23" target="weibo">
-官方回应为什么不能把杨柳树都砍了（热度：466974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E4%B8%8A%E8%8A%82%E7%9B%AE%E8%A2%AB%E6%89%93%23" target="weibo">
-朱孝天上节目被打（热度：466867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9A%B4%E6%89%A3%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B%23" target="weibo">
-詹姆斯暴扣杀死比赛（热度：466085）
 </a>
 </li>
 
