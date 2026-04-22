@@ -1,0 +1,411 @@
+{
+  "startTime": 1776874511097,
+  "endTime": 1776874511097,
+  "band_list": [
+    {
+      "raw_hot": 2166973,
+      "num": 366259,
+      "word": "朴信惠眼睛 断崖式衰老",
+      "onboard_time": 1776857299,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1443702,
+      "num": 1443702,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1239883,
+      "num": 361157,
+      "word": "丈夫称崔丽丽遭性侵后判若两人",
+      "onboard_time": 1776863901,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 961199,
+      "num": 557419,
+      "word": "周杰伦王俊凯 中餐厅",
+      "onboard_time": 1776866362,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 765488,
+      "num": 822891,
+      "word": "问界M9价格",
+      "onboard_time": 1776869122,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 697271,
+      "num": 365419,
+      "word": "全球最大避孕套生产商警告",
+      "onboard_time": 1776870982,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497577,
+      "num": 360127,
+      "word": "崔丽丽躯体化反应很严重",
+      "onboard_time": 1776860061,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496590,
+      "num": 365265,
+      "word": "李冰冰回怼记者",
+      "onboard_time": 1776867682,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487308,
+      "num": 364651,
+      "word": "曝迪丽热巴和嘉行签了一年短约",
+      "onboard_time": 1776868642,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458127,
+      "num": 404067,
+      "word": "华晨宇演唱会延期",
+      "onboard_time": 1776859161,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 424459,
+      "num": 363834,
+      "word": "侯明昊 歌手2026",
+      "onboard_time": 1776851301,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 413057,
+      "num": 413057,
+      "word": "歌手2026",
+      "onboard_time": 1776854421,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404078,
+      "num": 404078,
+      "word": "儿童近视神药阿托品火爆",
+      "onboard_time": 1776864742,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403794,
+      "num": 403794,
+      "word": "尚界Z7大定",
+      "onboard_time": 1776867442,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 400440,
+      "num": 364041,
+      "word": "肯德基酱料正式收费",
+      "onboard_time": 1776869903,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397835,
+      "num": 363253,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381425,
+      "num": 360903,
+      "word": "Gucci别试探了",
+      "onboard_time": 1776858562,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 366749,
+      "num": 366749,
+      "word": "日本人称手机设置为中文感觉很清爽",
+      "onboard_time": 1776849259,
+      "rank": 8,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 360085,
+      "num": 360085,
+      "word": "崔丽丽不再穿性侵时衣服出庭",
+      "onboard_time": 1776865101,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350346,
+      "num": 350346,
+      "word": "儿子因父亲逼自己分手失联16年",
+      "onboard_time": 1776873439,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323373,
+      "num": 323373,
+      "word": "IU转圈给刘仁娜展示小裙子",
+      "onboard_time": 1776858321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316912,
+      "num": 362923,
+      "word": "朝鲜发声要求日本向中国道歉",
+      "onboard_time": 1776865043,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 311998,
+      "num": 311998,
+      "word": "考研生人均1元拼网课被判共同赔4万",
+      "onboard_time": 1776871881,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 280749,
+      "num": 280749,
+      "word": "肖战尚界预定数量",
+      "onboard_time": 1776864262,
+      "rank": 27,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 278488,
+      "num": 278488,
+      "word": "湖南卫视再次恭喜自己",
+      "onboard_time": 1776860422,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273427,
+      "num": 362126,
+      "word": "不要在上班的时候说分手",
+      "onboard_time": 1776856041,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 265220,
+      "num": 265220,
+      "word": "孟佳唱跳版心愿便利贴",
+      "onboard_time": 1776870443,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264859,
+      "num": 264859,
+      "word": "慈母多败咪",
+      "onboard_time": 1776869842,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 242133,
+      "num": 242133,
+      "word": "6种常见癌症的早期信号",
+      "onboard_time": 1776862281,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239701,
+      "num": 239701,
+      "word": "新世代宝马",
+      "onboard_time": 1776864381,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 211533,
+      "num": 211533,
+      "word": "尚界Z7大定27分钟破12000台",
+      "onboard_time": 1776870141,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 207320,
+      "num": 207320,
+      "word": "CNN报道中国博主嘲讽美国信用",
+      "onboard_time": 1776869122,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 205819,
+      "num": 366702,
+      "word": "乒乓球在美国火起来了",
+      "onboard_time": 1776865642,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190269,
+      "num": 190269,
+      "word": "肖战不对称西装",
+      "onboard_time": 1776862641,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187125,
+      "num": 187125,
+      "word": "全国首例性侵认定工伤案明日开庭",
+      "onboard_time": 1776861141,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187075,
+      "num": 269710,
+      "word": "现货黄金",
+      "onboard_time": 1776867143,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 186962,
+      "num": 186962,
+      "word": "内娱大爆的现偶",
+      "onboard_time": 1776861562,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175564,
+      "num": 175564,
+      "word": "陈妍希告了陈晓粉丝",
+      "onboard_time": 1776852441,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166791,
+      "num": 158748,
+      "word": "王大陆讨债 失去的一定要拿回来",
+      "onboard_time": 1776858081,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164281,
+      "num": 158324,
+      "word": "杨紫扛剧能力",
+      "onboard_time": 1776867382,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160443,
+      "num": 160443,
+      "word": "中国第二条跨省地铁",
+      "onboard_time": 1776872839,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156793,
+      "num": 156793,
+      "word": "日本黑帮大哥金盆洗手考入顶尖名校",
+      "onboard_time": 1776860360,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155381,
+      "num": 155381,
+      "word": "伊朗公开展示大杀器",
+      "onboard_time": 1776872001,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 151245,
+      "num": 151245,
+      "word": "王子邱胜翊交保释金后回昆凌豪宅",
+      "onboard_time": 1776873801,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147686,
+      "num": 147686,
+      "word": "华晨宇直播时哽咽",
+      "onboard_time": 1776867322,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136062,
+      "num": 127350,
+      "word": "陈妍希申请强制执行",
+      "onboard_time": 1776838280,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127640,
+      "num": 127640,
+      "word": "问界M6起售价25.98万元",
+      "onboard_time": 1776865943,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 117181,
+      "num": 122448,
+      "word": "AC米兰球员被曝参加集体嫖娼派对",
+      "onboard_time": 1776863122,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68270,
+      "num": 658780,
+      "word": "中国在月球留下了新的名字",
+      "onboard_time": 1776863182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10329,
+      "num": 361914,
+      "word": "隐形鼻塞夸大过滤效果盗用资质",
+      "onboard_time": 1776874040,
+      "rank": 19,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记指引共护地球家园#"
+    }
+  ]
+}
