@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 16:53:37
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 18:01:10
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+侯明昊 歌手2026（热度：1543046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E6%9C%89%E5%87%A0%E7%99%BE%E6%94%AF%E5%8F%A3%E7%BA%A2%23" target="weibo">
 王濛有几百支口红（热度：1532384）
 </a>
@@ -1361,6 +1367,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%BC%80%E6%9C%BA%23" target="weibo">
 十日终焉开机（热度：1172343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%98%E8%80%81%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
+人开始变老的表现（热度：1167989）
 </a>
 </li>
 
@@ -2555,6 +2567,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E7%BB%9D%E5%AD%A9%E5%AD%90%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%98%BE%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 断绝孩子手机上瘾最快的方法（热度：801121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
+日本人称手机设置为中文感觉很清爽（热度：800949）
 </a>
 </li>
 
@@ -4095,6 +4113,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A1%A5%E5%81%BF%23" target="weibo">
+张雪机车补偿（热度：597816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%20%E4%B8%80%E5%88%86%E9%92%9F%E4%B8%8D%E5%A4%9A%E5%91%86%23" target="weibo">
 赵子琪 一分钟不多呆（热度：597331）
 </a>
@@ -5091,6 +5115,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23lululemon%E8%B4%A8%E6%A3%80%E7%BB%93%E6%9E%9C%23" target="weibo">
+lululemon质检结果（热度：516632）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%89%E4%B8%87%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 伊朗拉万炼油厂发生爆炸（热度：515651）
 </a>
@@ -5981,36 +6011,6 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E6%92%AD%E5%87%BA%E5%90%8E%E6%9C%80%E7%88%86%E7%9A%84%E6%98%AF%E4%BD%95%E6%B6%A6%E4%B8%9C%23" target="weibo">
 逐玉播出后最爆的是何润东（热度：463653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E4%BA%86%E5%A4%87%E6%B3%A8%23" target="weibo">
-美国的停火谈判被以色列加了备注（热度：463623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%AF%E8%B4%9F%E9%9D%A2%23" target="weibo">
-日本媒体报道中国绝大多数是负面（热度：463195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E4%BD%8D%E8%B5%9B%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%90%E7%BB%A9%23" target="weibo">
-排位赛王一博成绩（热度：462936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1cos%E9%BB%8E%E7%92%83%23" target="weibo">
-孙怡cos黎璃（热度：462444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%9A%84%E4%BA%BA%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23" target="weibo">
-长期使用空气炸锅的人都怎么样了（热度：462171）
 </a>
 </li>
 

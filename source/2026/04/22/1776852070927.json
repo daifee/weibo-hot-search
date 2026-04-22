@@ -1,0 +1,410 @@
+{
+  "runTime": 1776852070927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065689,
+        "num": 1170510,
+        "word": "以为库克真加入小米汽车了",
+        "onboard_time": 1776845840,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 598230,
+        "num": 844600,
+        "word": "民政局称20岁小伙养6弟妹系人设",
+        "onboard_time": 1776842601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66678,
+        "num": 804931,
+        "word": "接英雄回家",
+        "onboard_time": 1776844822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1543046,
+        "num": 786927,
+        "word": "侯明昊 歌手2026",
+        "onboard_time": 1776851301,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1167989,
+        "num": 747780,
+        "word": "人开始变老的表现",
+        "onboard_time": 1776849981,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1311918,
+        "num": 693884,
+        "word": "虞书欣戛纳生图",
+        "onboard_time": 1776839541,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 684154,
+        "num": 684154,
+        "word": "终于知道为什么有些人做菜难吃了",
+        "onboard_time": 1776839541,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 597816,
+        "num": 597816,
+        "word": "张雪机车补偿",
+        "onboard_time": 1776849740,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516632,
+        "num": 516632,
+        "word": "lululemon质检结果",
+        "onboard_time": 1776848061,
+        "rank": 8,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 242041,
+        "num": 516122,
+        "word": "詹姆斯暴扣杀死比赛",
+        "onboard_time": 1776840380,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1292652,
+        "num": 515027,
+        "word": "陈妍希申请强制执行",
+        "onboard_time": 1776838280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800949,
+        "num": 514265,
+        "word": "日本人称手机设置为中文感觉很清爽",
+        "onboard_time": 1776849259,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 632478,
+        "num": 513460,
+        "word": "国台办回应张凌赫被喊话赴台交流",
+        "onboard_time": 1776842840,
+        "rank": 12,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 513254,
+        "num": 513254,
+        "word": "网传披荆斩棘6阵容",
+        "onboard_time": 1776841582,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540198,
+        "num": 502480,
+        "word": "宋祖儿的脸 女娲炫技",
+        "onboard_time": 1776844822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429120,
+        "num": 429120,
+        "word": "员工称不涨工资干不了3天后被离职",
+        "onboard_time": 1776843141,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316291,
+        "num": 423964,
+        "word": "曹德旺说大不了把美国工厂关掉",
+        "onboard_time": 1776835282,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55409,
+        "num": 407521,
+        "word": "车企发布会现场狂发888杯奶茶",
+        "onboard_time": 1776848780,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20509,
+        "num": 396551,
+        "word": "辅警拥抱痛哭的远嫁女子一抱24分钟",
+        "onboard_time": 1776851602,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29906,
+        "num": 384502,
+        "word": "73岁老人称体内遗留45年前纱布",
+        "onboard_time": 1776849861,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445945,
+        "num": 379717,
+        "word": "华晨宇喂猫吃巧克力蛋糕",
+        "onboard_time": 1776825559,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703557,
+        "num": 367439,
+        "word": "曝男明星KTV亲女网红",
+        "onboard_time": 1776845240,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361023,
+        "num": 361023,
+        "word": "女子脚踹保安被扇事件警方已立案",
+        "onboard_time": 1776847640,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540607,
+        "num": 359743,
+        "word": "GUCCI田曦薇张凌赫大片",
+        "onboard_time": 1776834442,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409499,
+        "num": 357049,
+        "word": "林子烨 5600不如和豆包聊",
+        "onboard_time": 1776845840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343748,
+        "num": 343748,
+        "word": "体检无异常发现却是癌症晚期",
+        "onboard_time": 1776851420,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337454,
+        "num": 337454,
+        "word": "98年本科女孩做保洁爸妈认为扫大街",
+        "onboard_time": 1776844101,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291471,
+        "num": 291471,
+        "word": "文俊辉模仿李小冉",
+        "onboard_time": 1776850760,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191858,
+        "num": 191858,
+        "word": "10倍大牛股爆雷2万散户被埋",
+        "onboard_time": 1776843261,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138641,
+        "num": 191854,
+        "word": "文班亚马确诊为脑震荡",
+        "onboard_time": 1776847760,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307267,
+        "num": 191632,
+        "word": "田曦薇是刘海黑长直最权威的姐姐",
+        "onboard_time": 1776849621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287170,
+        "num": 191569,
+        "word": "陈奕恒的手机壁纸是jennie",
+        "onboard_time": 1776850460,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267109,
+        "num": 191425,
+        "word": "夫妻鱼塘双双溺亡留下两孩子",
+        "onboard_time": 1776848481,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 249713,
+        "num": 191254,
+        "word": "朱珠把保洁服穿出高定感",
+        "onboard_time": 1776844640,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234944,
+        "num": 191148,
+        "word": "星巴克免费咖啡",
+        "onboard_time": 1776829881,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233148,
+        "num": 191033,
+        "word": "全糖的写0脂 全脂的写0糖",
+        "onboard_time": 1776828800,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229967,
+        "num": 190865,
+        "word": "王安宇见面会票价",
+        "onboard_time": 1776832462,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206034,
+        "num": 190765,
+        "word": "小米徐洁云说乱P图不可取",
+        "onboard_time": 1776850700,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192897,
+        "num": 190600,
+        "word": "谭松韵上的是客栈还是密逃",
+        "onboard_time": 1776851361,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 190508,
+        "word": "女子不孕多年一次怀4胞胎",
+        "onboard_time": 1776851899,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190441,
+        "num": 190441,
+        "word": "女孩每月下腹剧痛检查发现是石女",
+        "onboard_time": 1776847580,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73426,
+        "num": 188626,
+        "word": "麦当劳和牡丹楼是什么关系",
+        "onboard_time": 1776851059,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187119,
+        "num": 187119,
+        "word": "阿诺回应董力变了",
+        "onboard_time": 1776850580,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183742,
+        "num": 183742,
+        "word": "乘风2026三公帮唱",
+        "onboard_time": 1776830721,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 179080,
+        "word": "报考公安杨某媛与网传并非同一人",
+        "onboard_time": 1776851481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184110,
+        "num": 177934,
+        "word": "山城小栗旬老婆被前任骗钱后瘦80多斤",
+        "onboard_time": 1776836001,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115366,
+        "num": 168501,
+        "word": "王楚钦孙颖莎先后上训",
+        "onboard_time": 1776846320,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97411,
+        "num": 163170,
+        "word": "伊朗抓住了美国的要害",
+        "onboard_time": 1776826459,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82315,
+        "num": 158369,
+        "word": "湖人2比0火箭",
+        "onboard_time": 1776836360,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55287,
+        "num": 156010,
+        "word": "2026KPL春季赛最佳阵容候选人",
+        "onboard_time": 1776841761,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀志愿军英烈#"
+    }
+  }
+}
