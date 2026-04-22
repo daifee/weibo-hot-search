@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/23 06:56:18
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/23 07:14:23
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E5%8E%95%E6%89%80%E6%84%9F%E5%BA%94%E5%86%B2%E6%B0%B4%23" target="weibo">
+谁发明的厕所感应冲水（热度：523411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E6%98%AFjennie%23" target="weibo">
 陈奕恒的手机壁纸是jennie（热度：519840）
 </a>
@@ -2091,12 +2097,6 @@ AI版成何体统逐玉（热度：484385）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E5%8E%95%E6%89%80%E6%84%9F%E5%BA%94%E5%86%B2%E6%B0%B4%23" target="weibo">
-谁发明的厕所感应冲水（热度：446568）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E8%B5%B7%E5%94%AE%E4%BB%B725.98%E4%B8%87%E5%85%83%23" target="weibo">
 问界M6起售价25.98万元（热度：445353）
 </a>
@@ -2195,6 +2195,12 @@ AI版成何体统逐玉（热度：484385）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%A3%B8%E5%8D%8A%E8%BA%AB%E6%B8%B8%E6%B3%B3%23" target="weibo">
 丁程鑫裸半身游泳（热度：422910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%A5%9E%E8%8D%AF%E7%88%86%E7%81%AB%E5%85%B4%E9%BD%90%E7%9C%BC%E8%8D%AF%E6%BB%B4%E7%9C%BC%E5%89%82%E6%94%B6%E5%85%A519.5%E4%BA%BF%23" target="weibo">
+近视神药爆火兴齐眼药滴眼剂收入19.5亿（热度：422536）
 </a>
 </li>
 
@@ -2307,6 +2313,12 @@ AI版成何体统逐玉（热度：484385）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%89%8D%E9%A2%9D%E5%8F%B6%E6%88%90%E7%86%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
+原来前额叶成熟是这样的（热度：406592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E4%B8%8E%E8%B7%AF%E4%BA%BA%E5%90%88%E7%85%A7%E7%8A%B6%E6%80%81%23" target="weibo">
 垫底辣孩与路人合照状态（热度：406092）
 </a>
@@ -2339,6 +2351,12 @@ AI让人越来越累（热度：405901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E7%94%A81700%E4%B8%87%E6%89%93%E8%B5%8F%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 挪用1700万打赏女生发声（热度：403851）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%8F%8D%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+警方回应女子脚踹保安被反扇耳光（热度：403734）
 </a>
 </li>
 
@@ -2889,12 +2907,6 @@ TF四代我们的少年时代2杀青照（热度：319574）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%89%8D%E9%A2%9D%E5%8F%B6%E6%88%90%E7%86%9F%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
-原来前额叶成熟是这样的（热度：315963）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%9A%B4%E9%9B%A8%E5%A4%A9%E4%BD%93%E6%B5%8B800%E7%B1%B3%23" target="weibo">
 教育局回应学生暴雨天体测800米（热度：315277）
 </a>
@@ -3029,12 +3041,6 @@ KPL（热度：301764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%99%92%E7%91%9E%E5%A3%AB%E6%B8%B8%E5%AD%A6%E7%85%A7%23" target="weibo">
 黄圣依晒瑞士游学照（热度：296017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%8F%8D%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-警方回应女子脚踹保安被反扇耳光（热度：295293）
 </a>
 </li>
 
@@ -3867,6 +3873,12 @@ Gr对战成都GG（热度：212852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23" target="weibo">
+首位外籍航天员将进入中国空间站（热度：212795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E9%87%91%E5%83%8F%E5%A5%96%E6%96%B0%E6%99%8B%E5%AF%BC%E6%BC%94%23" target="weibo">
 舒淇金像奖新晋导演（热度：212734）
 </a>
@@ -4485,12 +4497,6 @@ NBA公布MVP候选名单（热度：177503）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23" target="weibo">
-首位外籍航天员将进入中国空间站（热度：170061）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BB%E5%8A%A8%E9%80%97%E4%B8%BB%E6%8C%81%E4%BA%BA%23" target="weibo">
 肖战主动逗主持人（热度：168685）
 </a>
@@ -4869,6 +4875,12 @@ GPT Image2 太牛了（热度：150098）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E5%8F%8D%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+多方回应女子脚踹保安反被扇耳光（热度：146959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%AF%B9%E7%9D%80%E6%9D%8E%E5%B0%8F%E5%86%89%E8%B7%B3%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%23" target="weibo">
 黄灿灿对着李小冉跳心愿便利贴（热度：146946）
 </a>
@@ -5223,8 +5235,8 @@ EWC2026英雄联盟预选赛（热度：123621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E5%8F%8D%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-多方回应女子脚踹保安反被扇耳光（热度：122008）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%B3%95%E8%A7%84%E4%BD%95%E4%BB%A5%E8%A2%AB%E5%BC%95%E7%94%A8%E5%A4%9A%E5%B9%B4%23" target="weibo">
+一部不存在的法规何以被引用多年（热度：121779）
 </a>
 </li>
 
@@ -5279,6 +5291,12 @@ EWC2026英雄联盟预选赛（热度：123621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%812%E6%AF%940%E5%8D%97%E4%BA%AC%23" target="weibo">
 宿迁2比0南京（热度：120684）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%AF%B9%E6%8C%81%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E4%BA%BA%E5%91%98%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%23" target="weibo">
+巴拿马对持中国护照人员加强审查（热度：119369）
 </a>
 </li>
 
@@ -5517,12 +5535,6 @@ iOS27全新Siri界面（热度：108733）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%AF%B9%E6%8C%81%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E4%BA%BA%E5%91%98%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%23" target="weibo">
-巴拿马对持中国护照人员加强审查（热度：101769）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%83%91%E5%B7%9E%E8%BF%9D%E8%A7%84%E5%8C%BB%E4%BF%9D%E5%A5%97%E7%8E%B0%23" target="weibo">
 官方通报郑州违规医保套现（热度：101737）
 </a>
@@ -5661,14 +5673,14 @@ Tim说OPPOFindX9Ultra是口袋电影机（热度：96008）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%AF%94%E8%B5%9B%E6%97%A5%E4%B8%8B%E6%AC%A1%E5%86%8D%E8%B5%9B%23" target="weibo">
-王一博比赛日下次再赛（热度：91820）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E5%8F%97%E8%AE%BF%E5%89%8D%E5%BD%93%E5%9C%BA%E8%BA%AF%E4%BD%93%E5%8C%96%E5%8F%91%E4%BD%9C%23" target="weibo">
+崔丽丽受访前当场躯体化发作（热度：91896）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%B3%95%E8%A7%84%E4%BD%95%E4%BB%A5%E8%A2%AB%E5%BC%95%E7%94%A8%E5%A4%9A%E5%B9%B4%23" target="weibo">
-一部不存在的法规何以被引用多年（热度：90667）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%AF%94%E8%B5%9B%E6%97%A5%E4%B8%8B%E6%AC%A1%E5%86%8D%E8%B5%9B%23" target="weibo">
+王一博比赛日下次再赛（热度：91820）
 </a>
 </li>
 
@@ -6015,12 +6027,6 @@ Kanavi说LPL经常折戟（热度：79476）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E5%8F%97%E8%AE%BF%E5%89%8D%E5%BD%93%E5%9C%BA%E8%BA%AF%E4%BD%93%E5%8C%96%E5%8F%91%E4%BD%9C%23" target="weibo">
-崔丽丽受访前当场躯体化发作（热度：68519）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%88%97%E8%BD%A6%E5%A2%9E%E5%BC%80%23" target="weibo">
 五一列车增开（热度：68157）
 </a>
@@ -6107,6 +6113,12 @@ Kanavi说LPL经常折戟（热度：79476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E6%89%93%E8%B5%8F%E6%9B%BE%E9%98%BB%E6%AD%A2%E4%BC%9A%E8%AE%A1%E4%B8%8A%E6%8A%A5%23" target="weibo">
 女孩挪用1700万打赏曾阻止会计上报（热度：60516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B9%9F%E6%B2%A1%E9%80%83%E8%BF%87%E5%A8%9C%E6%89%8E%E7%9A%84%E5%8F%A4%E5%A8%9C%E4%B9%8B%E5%A4%B9%23" target="weibo">
+李佳琦也没逃过娜扎的古娜之夹（热度：60000）
 </a>
 </li>
 
@@ -6249,6 +6261,12 @@ AG又一次站在世界的赛场（热度：59510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8C%A5%E5%88%AB%E6%A1%88%E5%8F%91%E6%97%B6%E7%9A%84%E8%A1%AC%E8%A1%AB%23" target="weibo">
+遭老板性侵女子挥别案发时的衬衫（热度：52660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A8%E5%8D%83%E4%B8%87%E6%89%93%E8%B5%8F%E8%87%B3%E4%BB%8A%E8%BF%98%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%23" target="weibo">
 女孩挪用千万打赏至今还沉迷手机（热度：52413）
 </a>
@@ -6375,12 +6393,6 @@ AI版灵魂摆渡监制是唐诡导演（热度：51534）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%A5%9E%E8%8D%AF%E7%88%86%E7%81%AB%E5%85%B4%E9%BD%90%E7%9C%BC%E8%8D%AF%E6%BB%B4%E7%9C%BC%E5%89%82%E6%94%B6%E5%85%A519.5%E4%BA%BF%23" target="weibo">
-近视神药爆火兴齐眼药滴眼剂收入19.5亿（热度：45471）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E9%98%B3%E7%89%A1%E4%B8%B9%E5%BC%80%E6%88%90%E4%BA%86%E8%B0%83%E8%89%B2%E7%9B%98%23" target="weibo">
 洛阳牡丹开成了调色盘（热度：45056）
 </a>
@@ -6435,6 +6447,12 @@ AI版灵魂摆渡监制是唐诡导演（热度：51534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BF%E8%A7%A3%E9%9B%87%E7%BD%97%E5%A1%9E%E5%B0%BC%E5%B0%94%23" target="weibo">
+切尔西解雇罗塞尼尔（热度：43486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B428%E5%B9%B4%E8%80%81%E9%85%926%E7%93%B6%E6%89%8D268%E5%85%A8%E9%9D%A0%E6%B7%BB%E5%8A%A0%E5%89%82%23" target="weibo">
 直播间28年老酒6瓶才268全靠添加剂（热度：43466）
 </a>
@@ -6485,12 +6503,6 @@ AI版灵魂摆渡监制是唐诡导演（热度：51534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA10w%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD%E9%9D%A2%E8%AF%95%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 月薪10w带货主播面试全过程（热度：41392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E6%8C%A5%E5%88%AB%E6%A1%88%E5%8F%91%E6%97%B6%E7%9A%84%E8%A1%AC%E8%A1%AB%23" target="weibo">
-遭老板性侵女子挥别案发时的衬衫（热度：41333）
 </a>
 </li>
 
