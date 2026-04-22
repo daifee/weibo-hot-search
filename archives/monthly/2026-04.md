@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 18:01:10
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 18:25:25
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%A7%90%23" target="weibo">
 19岁女孩挪用1700万当榜一大姐（热度：3146099）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+侯明昊 歌手2026（热度：3103476）
 </a>
 </li>
 
@@ -723,6 +729,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%98%E8%80%81%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
+人开始变老的表现（热度：1591639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9B%B4%E6%92%AD%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 谢娜直播官宣演唱会（热度：1589583）
 </a>
@@ -761,12 +773,6 @@ kimi都这么大了（热度：1742247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%E9%9D%99%E9%9F%B3%E7%89%B9%E5%88%AB%E5%A5%BD%E5%90%AC%23" target="weibo">
 我发现心愿便利贴静音特别好听（热度：1543643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B2026%23" target="weibo">
-侯明昊 歌手2026（热度：1543046）
 </a>
 </li>
 
@@ -1367,12 +1373,6 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%BC%80%E6%9C%BA%23" target="weibo">
 十日终焉开机（热度：1172343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%98%E8%80%81%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
-人开始变老的表现（热度：1167989）
 </a>
 </li>
 
@@ -2817,6 +2817,12 @@ en王翊恩 结婚但没同居（热度：795143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A1%A5%E5%81%BF%23" target="weibo">
+张雪机车补偿（热度：769514）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E4%B8%A4%E6%AC%A1%E6%8B%92%E7%BB%9D%E5%B8%AE%E9%99%8C%E7%94%9F%E4%BA%BA%E5%B8%A6%E8%A1%8C%E6%9D%8E%23" target="weibo">
 女子机场两次拒绝帮陌生人带行李（热度：768801）
 </a>
@@ -3831,6 +3837,12 @@ KTV服务员被指强奸14岁女生（热度：668220）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%8A%E4%BA%86%E9%99%88%E6%99%93%E7%B2%89%E4%B8%9D%23" target="weibo">
+陈妍希告了陈晓粉丝（热度：626259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%AA%97%E5%88%B0%E4%BA%86%23" target="weibo">
 被易烊千玺骗到了（热度：626216）
 </a>
@@ -4113,12 +4125,6 @@ TOP直播（热度：622036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A1%A5%E5%81%BF%23" target="weibo">
-张雪机车补偿（热度：597816）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%20%E4%B8%80%E5%88%86%E9%92%9F%E4%B8%8D%E5%A4%9A%E5%91%86%23" target="weibo">
 赵子琪 一分钟不多呆（热度：597331）
 </a>
@@ -4299,6 +4305,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%89%87%E4%BA%8B%E4%BB%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88%23" target="weibo">
+女子脚踹保安被扇事件警方已立案（热度：586390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
 美将封锁霍尔木兹海峡（热度：586300）
 </a>
@@ -4451,6 +4463,12 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E5%93%AA%E5%90%922%23" target="weibo">
 王者荣耀 哪吒2（热度：569425）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
+体检无异常发现却是癌症晚期（热度：569289）
 </a>
 </li>
 
@@ -5901,6 +5919,12 @@ AI写作年赚200万夫妻被封号（热度：469765）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%A7%B0%E4%B8%8D%E6%B6%A8%E5%B7%A5%E8%B5%84%E5%B9%B2%E4%B8%8D%E4%BA%863%E5%A4%A9%E5%90%8E%E8%A2%AB%E7%A6%BB%E8%81%8C%23" target="weibo">
+员工称不涨工资干不了3天后被离职（热度：469390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%AE%B6%E5%AD%A9%E5%AD%90%E8%B6%B4%E6%A1%8C%E7%9D%A1%E4%B8%BA%E4%BD%95%E7%BB%99%E5%88%AB%E4%BA%BA%E6%8D%90%E8%BA%BA%E6%A4%85%23" target="weibo">
 自家孩子趴桌睡为何给别人捐躺椅（热度：469334）
 </a>
@@ -5987,30 +6011,6 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9A%B4%E6%89%A3%E6%9D%80%E6%AD%BB%E6%AF%94%E8%B5%9B%23" target="weibo">
 詹姆斯暴扣杀死比赛（热度：466085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E8%BA%BA%E5%B9%B3%23" target="weibo">
-鹿晗工作室 躺平（热度：465177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E8%83%83%E4%BB%99%E8%87%AA%E6%9B%9D%E6%95%B4%E5%AE%B9%E5%A4%B1%E8%B4%A5%23" target="weibo">
-浪胃仙自曝整容失败（热度：464198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%BF%83%E7%97%9B%E8%90%BD%E6%B3%AA%23" target="weibo">
-女孩偷偷领结婚证爷爷得知心痛落泪（热度：464092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E6%92%AD%E5%87%BA%E5%90%8E%E6%9C%80%E7%88%86%E7%9A%84%E6%98%AF%E4%BD%95%E6%B6%A6%E4%B8%9C%23" target="weibo">
-逐玉播出后最爆的是何润东（热度：463653）
 </a>
 </li>
 

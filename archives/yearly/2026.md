@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/22 18:01:10
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/22 18:25:25
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+侯明昊 歌手2026（热度：3103476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%23" target="weibo">
 广东地震（热度：3096782）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23" target="weibo">
 站姐团建（热度：2081325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
-侯明昊发红包（热度：2080280）
 </a>
 </li>
 
