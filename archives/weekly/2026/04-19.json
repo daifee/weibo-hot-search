@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776899663913,
+  "endTime": 1776902073324,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -1499,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751742,
+      "num": 234944,
+      "word": "警方回应女子脚踹保安被反扇耳光",
+      "onboard_time": 1776877757,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750079,
       "num": 369059,
       "word": "福原爱三胎生子",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1776558200,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663206,
+      "num": 1048630,
+      "word": "儿子因父亲逼自己分手失联16年",
+      "onboard_time": 1776873439,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657656,
@@ -2307,6 +2323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 522996,
+      "num": 522996,
+      "word": "原来前额叶成熟是这样的",
+      "onboard_time": 1776877997,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 519840,
       "num": 379078,
       "word": "陈奕恒的手机壁纸是jennie",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1776604522,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 489841,
+      "num": 744394,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487715,
@@ -2787,14 +2819,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 444087,
-      "num": 350346,
-      "word": "儿子因父亲逼自己分手失联16年",
-      "onboard_time": 1776873439,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 442099,
       "num": 377198,
       "word": "杜华王一博赛后合照",
@@ -2859,6 +2883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 431532,
+      "num": 431532,
+      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
+      "onboard_time": 1776897977,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 429849,
       "num": 663962,
       "word": "火箭vs湖人",
@@ -2913,14 +2945,6 @@
       "onboard_time": 1776770301,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422536,
-      "num": 422536,
-      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
-      "onboard_time": 1776897977,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 421375,
@@ -3067,14 +3091,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 406592,
-      "num": 429555,
-      "word": "原来前额叶成熟是这样的",
-      "onboard_time": 1776877997,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 406092,
       "num": 453313,
       "word": "垫底辣孩与路人合照状态",
@@ -3121,14 +3137,6 @@
       "onboard_time": 1776779061,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 403734,
-      "num": 153559,
-      "word": "警方回应女子脚踹保安被反扇耳光",
-      "onboard_time": 1776877757,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403377,
@@ -3192,14 +3200,6 @@
       "word": "虐死男友3岁儿子凶手称忍不住不打",
       "onboard_time": 1776700820,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397835,
-      "num": 363253,
-      "word": "女生受邀去泰国泼水节被转卖电诈园",
-      "onboard_time": 1776872720,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3881,6 +3881,14 @@
       "onboard_time": 1776652280,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310872,
+      "num": 233588,
+      "word": "樊振东说仍在路上",
+      "onboard_time": 1776901038,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 309910,
@@ -4811,12 +4819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230473,
+      "num": 230473,
+      "word": "首位外籍航天员将进入中国空间站",
+      "onboard_time": 1776890472,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230449,
       "num": 236241,
       "word": "中方就伊朗向印度船只开火表态",
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 230175,
+      "num": 179994,
+      "word": "奥利奥 时代少年团",
+      "onboard_time": 1776900619,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 229944,
@@ -5145,14 +5169,6 @@
       "onboard_time": 1776584420,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 212795,
-      "num": 146960,
-      "word": "首位外籍航天员将进入中国空间站",
-      "onboard_time": 1776890472,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212734,
@@ -5699,6 +5715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187403,
+      "num": 187403,
+      "word": "最顶级的中式审美",
+      "onboard_time": 1776877217,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 187119,
       "num": 187119,
       "word": "阿诺回应董力变了",
@@ -6033,6 +6057,14 @@
       "onboard_time": 1776690922,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 167123,
+      "num": 167123,
+      "word": "李佳琦也没逃过娜扎的古娜之夹",
+      "onboard_time": 1776898816,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 166946,
@@ -6376,6 +6408,14 @@
       "word": "中国卫星大跌",
       "onboard_time": 1776834141,
       "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150934,
+      "num": 150934,
+      "word": "美股纳指飙升",
+      "onboard_time": 1776900439,
+      "rank": 26,
       "category": "财经"
     },
     {
@@ -6964,7 +7004,7 @@
     },
     {
       "raw_hot": 121779,
-      "num": 121779,
+      "num": 140583,
       "word": "一部不存在的法规何以被引用多年",
       "onboard_time": 1776896415,
       "rank": 25,
@@ -7041,6 +7081,14 @@
       "onboard_time": 1776528979,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120649,
+      "num": 146651,
+      "word": "崔丽丽受访前当场躯体化发作",
+      "onboard_time": 1776881654,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119369,
@@ -7219,6 +7267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112967,
+      "num": 143940,
+      "word": "疑发现金矿8岁男童父亲发声",
+      "onboard_time": 1776900317,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112865,
       "num": 140380,
       "word": "王一博GT3排位赛",
@@ -7299,6 +7355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109658,
+      "num": 142247,
+      "word": "张艺凡人前女明星人后不认识",
+      "onboard_time": 1776900499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109614,
       "num": 215516,
       "word": "余承东称Pura90PM不贴膜放心用",
@@ -7331,11 +7395,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107236,
+      "num": 141514,
+      "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
+      "onboard_time": 1776901579,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106011,
       "num": 162114,
       "word": "掘金1比0森林狼",
       "onboard_time": 1776556098,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105528,
+      "num": 235654,
+      "word": "切尔西解雇罗塞尼尔",
+      "onboard_time": 1776899598,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -7459,14 +7539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 94781,
-      "num": 151618,
-      "word": "最顶级的中式审美",
-      "onboard_time": 1776877217,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 94632,
       "num": 265771,
       "word": "官方辟谣聘用武大性骚扰事件当事人",
@@ -7547,14 +7619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91896,
-      "num": 78292,
-      "word": "崔丽丽受访前当场躯体化发作",
-      "onboard_time": 1776881654,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91820,
       "num": 91820,
       "word": "王一博比赛日下次再赛",
@@ -7601,6 +7665,14 @@
       "onboard_time": 1776695782,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87825,
+      "num": 138640,
+      "word": "嫌1千太贵车被淹后花8千救出",
+      "onboard_time": 1776901699,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87397,
@@ -7657,6 +7729,14 @@
       "onboard_time": 1776553516,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85798,
+      "num": 138121,
+      "word": "再痛也只能挂儿科",
+      "onboard_time": 1776877217,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 85574,
@@ -7889,14 +7969,6 @@
       "onboard_time": 1776766340,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 74285,
-      "num": 138121,
-      "word": "再痛也只能挂儿科",
-      "onboard_time": 1776877217,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 73426,
@@ -8137,14 +8209,6 @@
       "onboard_time": 1776836781,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60000,
-      "num": 60000,
-      "word": "李佳琦也没逃过娜扎的古娜之夹",
-      "onboard_time": 1776898816,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 59510,
@@ -8577,14 +8641,6 @@
       "onboard_time": 1776700699,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 43486,
-      "num": 52645,
-      "word": "切尔西解雇罗塞尼尔",
-      "onboard_time": 1776899598,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 43466,

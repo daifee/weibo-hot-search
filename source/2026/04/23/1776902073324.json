@@ -1,0 +1,410 @@
+{
+  "runTime": 1776902073324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663206,
+        "num": 1048630,
+        "word": "儿子因父亲逼自己分手失联16年",
+        "onboard_time": 1776873439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489841,
+        "num": 744394,
+        "word": "女生受邀去泰国泼水节被转卖电诈园",
+        "onboard_time": 1776872720,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73980,
+        "num": 673319,
+        "word": "中国在月球留下了新的名字",
+        "onboard_time": 1776863182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605387,
+        "num": 605387,
+        "word": "周杰伦王俊凯 中餐厅",
+        "onboard_time": 1776866362,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522996,
+        "num": 522996,
+        "word": "原来前额叶成熟是这样的",
+        "onboard_time": 1776877997,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 453362,
+        "num": 453362,
+        "word": "谁发明的厕所感应冲水",
+        "onboard_time": 1776875598,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431532,
+        "num": 431532,
+        "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
+        "onboard_time": 1776897977,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236235,
+        "num": 236235,
+        "word": "尚界Z7",
+        "onboard_time": 1776859041,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105528,
+        "num": 235654,
+        "word": "切尔西解雇罗塞尼尔",
+        "onboard_time": 1776899598,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420103,
+        "num": 235393,
+        "word": "全球最大避孕套生产商警告",
+        "onboard_time": 1776870982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751742,
+        "num": 234944,
+        "word": "警方回应女子脚踹保安被反扇耳光",
+        "onboard_time": 1776877757,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352273,
+        "num": 234275,
+        "word": "朝鲜发声要求日本向中国道歉",
+        "onboard_time": 1776865043,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310872,
+        "num": 233588,
+        "word": "樊振东说仍在路上",
+        "onboard_time": 1776901038,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277247,
+        "num": 232988,
+        "word": "朴信惠眼睛 断崖式衰老",
+        "onboard_time": 1776857299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264345,
+        "num": 232190,
+        "word": "儿童近视神药阿托品火爆",
+        "onboard_time": 1776864742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245343,
+        "num": 231587,
+        "word": "湖南卫视再次恭喜自己",
+        "onboard_time": 1776860422,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244902,
+        "num": 231042,
+        "word": "曝迪丽热巴和嘉行签了一年短约",
+        "onboard_time": 1776868642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230473,
+        "num": 230473,
+        "word": "首位外籍航天员将进入中国空间站",
+        "onboard_time": 1776890472,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187403,
+        "num": 187403,
+        "word": "最顶级的中式审美",
+        "onboard_time": 1776877217,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 170432,
+        "num": 185696,
+        "word": "歌手2026",
+        "onboard_time": 1776854421,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559701,
+        "num": 184076,
+        "word": "丈夫称崔丽丽遭性侵后判若两人",
+        "onboard_time": 1776863901,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464615,
+        "num": 182694,
+        "word": "崔丽丽不再穿性侵时衣服出庭",
+        "onboard_time": 1776865101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230175,
+        "num": 179994,
+        "word": "奥利奥 时代少年团",
+        "onboard_time": 1776900619,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178853,
+        "num": 178853,
+        "word": "尚界Z7大定27分钟破12000台",
+        "onboard_time": 1776870141,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174311,
+        "num": 174311,
+        "word": "考研生人均1元拼网课被判共同赔4万",
+        "onboard_time": 1776871881,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167123,
+        "num": 167123,
+        "word": "李佳琦也没逃过娜扎的古娜之夹",
+        "onboard_time": 1776898816,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150934,
+        "num": 150934,
+        "word": "美股纳指飙升",
+        "onboard_time": 1776900439,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 149335,
+        "word": "肖战尚界预定数量",
+        "onboard_time": 1776864262,
+        "rank": 27,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 120884,
+        "num": 149250,
+        "word": "华晨宇演唱会延期",
+        "onboard_time": 1776859161,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126477,
+        "num": 147928,
+        "word": "崔丽丽躯体化反应很严重",
+        "onboard_time": 1776860061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124878,
+        "num": 147549,
+        "word": "CNN报道中国博主嘲讽美国信用",
+        "onboard_time": 1776869122,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120649,
+        "num": 146651,
+        "word": "崔丽丽受访前当场躯体化发作",
+        "onboard_time": 1776881654,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117972,
+        "num": 146189,
+        "word": "新世代宝马",
+        "onboard_time": 1776864381,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79520,
+        "num": 145646,
+        "word": "内娱大爆的现偶",
+        "onboard_time": 1776861562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117607,
+        "num": 144921,
+        "word": "日本黑帮大哥金盆洗手考入顶尖名校",
+        "onboard_time": 1776860360,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112967,
+        "num": 143940,
+        "word": "疑发现金矿8岁男童父亲发声",
+        "onboard_time": 1776900317,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111439,
+        "num": 143119,
+        "word": "乒乓球在美国火起来了",
+        "onboard_time": 1776865642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109658,
+        "num": 142247,
+        "word": "张艺凡人前女明星人后不认识",
+        "onboard_time": 1776900499,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107236,
+        "num": 141514,
+        "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
+        "onboard_time": 1776901579,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104485,
+        "num": 140992,
+        "word": "6种常见癌症的早期信号",
+        "onboard_time": 1776862281,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99691,
+        "num": 140583,
+        "word": "一部不存在的法规何以被引用多年",
+        "onboard_time": 1776896415,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97692,
+        "num": 139745,
+        "word": "李冰冰回怼记者",
+        "onboard_time": 1776867682,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87825,
+        "num": 138640,
+        "word": "嫌1千太贵车被淹后花8千救出",
+        "onboard_time": 1776901699,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87622,
+        "num": 138331,
+        "word": "尚界Z7大定",
+        "onboard_time": 1776867442,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85798,
+        "num": 137236,
+        "word": "再痛也只能挂儿科",
+        "onboard_time": 1776877217,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79093,
+        "num": 137110,
+        "word": "中国第二条跨省地铁",
+        "onboard_time": 1776872839,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73317,
+        "num": 135845,
+        "word": "杨紫扛剧能力",
+        "onboard_time": 1776867382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70699,
+        "num": 135671,
+        "word": "日本人称手机设置为中文感觉很清爽",
+        "onboard_time": 1776849259,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 68592,
+        "num": 134391,
+        "word": "侯明昊 歌手2026",
+        "onboard_time": 1776851301,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45030,
+        "num": 133875,
+        "word": "董璇又上恋综给张维伊上压力了",
+        "onboard_time": 1776860542,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引共护地球家园#"
+    }
+  }
+}
