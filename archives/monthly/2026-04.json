@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776829727010,
+  "endTime": 1776837990444,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 3444695,
-      "num": 511833,
+      "num": 553198,
       "word": "华晨宇喂猫吃巧克力蛋糕",
       "onboard_time": 1776825559,
       "rank": 10,
@@ -785,6 +785,14 @@
       "onboard_time": 1775912004,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1737100,
+      "num": 557214,
+      "word": "GUCCI田曦薇张凌赫大片",
+      "onboard_time": 1776834442,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1725217,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1776583581,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1176823,
+      "num": 727532,
+      "word": "王安宇见面会票价",
+      "onboard_time": 1776832462,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1174653,
@@ -2692,7 +2708,7 @@
     },
     {
       "raw_hot": 897105,
-      "num": 350610,
+      "num": 497093,
       "word": "余承东官宣肖战代言",
       "onboard_time": 1776827060,
       "rank": 31,
@@ -2867,6 +2883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 874767,
+      "num": 712502,
+      "word": "星巴克免费咖啡",
+      "onboard_time": 1776829881,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 874384,
       "num": 273363,
       "word": "王楚然折成这样了肚子没挤出一丝肉",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1776588561,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 869807,
+      "num": 1139169,
+      "word": "中国大蒜竟被列为国家安全威胁",
+      "onboard_time": 1776830361,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 868333,
@@ -3273,6 +3305,14 @@
       "onboard_time": 1776601703,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 801121,
+      "num": 517390,
+      "word": "断绝孩子手机上瘾最快的方法",
+      "onboard_time": 1776831683,
+      "rank": 12,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 799785,
@@ -3723,6 +3763,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 745318,
+      "num": 803107,
+      "word": "湖人2比0火箭",
+      "onboard_time": 1776836360,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744906,
       "num": 308873,
       "word": "谢娜抚养权判给谁了",
@@ -3915,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721453,
+      "num": 669514,
+      "word": "乘风2026三公帮唱",
+      "onboard_time": 1776830721,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720993,
       "num": 720993,
       "word": "单依纯王菲 造型",
@@ -4033,6 +4089,14 @@
       "onboard_time": 1775914645,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 711740,
+      "num": 845598,
+      "word": "挪用1700万女孩愿意坐牢换退款",
+      "onboard_time": 1776826280,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 710527,
@@ -4313,6 +4377,14 @@
       "onboard_time": 1776082641,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 682524,
+      "num": 682524,
+      "word": "谢依霖曝和杨幂郭碧婷见面不能化妆",
+      "onboard_time": 1776828141,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 680739,
@@ -4771,12 +4843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 638382,
-      "num": 845598,
-      "word": "挪用1700万女孩愿意坐牢换退款",
-      "onboard_time": 1776826280,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 638278,
+      "num": 638278,
+      "word": "全糖的写0脂 全脂的写0糖",
+      "onboard_time": 1776828800,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 638035,
@@ -5409,6 +5481,14 @@
       "onboard_time": 1775293641,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590669,
+      "num": 590669,
+      "word": "41岁詹姆斯折叠背扣",
+      "onboard_time": 1776833421,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 590193,
@@ -6779,14 +6859,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 508348,
-      "num": 508348,
-      "word": "全糖的写0脂 全脂的写0糖",
-      "onboard_time": 1776828800,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 508042,
       "num": 456434,
       "word": "邱淑贞母女和工藤静香母女同框",
@@ -7283,14 +7355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 484547,
-      "num": 249408,
-      "word": "谢依霖曝和杨幂郭碧婷见面不能化妆",
-      "onboard_time": 1776828141,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484520,
       "num": 403419,
       "word": "李小冉哭了两晚上",
@@ -7505,6 +7569,14 @@
       "onboard_time": 1775129182,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 474530,
+      "num": 474530,
+      "word": "山城小栗旬老婆被前任骗钱后瘦80多斤",
+      "onboard_time": 1776836001,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 474216,
@@ -8635,12 +8707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427562,
+      "num": 305625,
+      "word": "快五十岁的妈妈因为工作哭了",
+      "onboard_time": 1776835341,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427437,
       "num": 427437,
       "word": "伊朗外长说美国必须二选一",
       "onboard_time": 1775714363,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 427399,
+      "num": 303069,
+      "word": "102岁老人出殡群鸟盘旋",
+      "onboard_time": 1776831802,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426997,
@@ -9619,6 +9707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397904,
+      "num": 297429,
+      "word": "迅猛龙回应付费直播",
+      "onboard_time": 1776834261,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 397784,
       "num": 397784,
       "word": "开封万岁山一棵树断裂砸倒多名游客",
@@ -10265,6 +10361,14 @@
       "onboard_time": 1775863220,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377564,
+      "num": 580597,
+      "word": "曹德旺说大不了把美国工厂关掉",
+      "onboard_time": 1776835282,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 377295,
@@ -11323,6 +11427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 350968,
+      "num": 276721,
+      "word": "文春 BTS",
+      "onboard_time": 1776837259,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350856,
       "num": 157388,
       "word": "Angelababy家里摆满了粉丝的礼物",
@@ -11513,6 +11625,14 @@
       "onboard_time": 1775356100,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345829,
+      "num": 272808,
+      "word": "段奕宏参加烈士遗骸迎回仪式",
+      "onboard_time": 1776836720,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 345016,
@@ -12195,6 +12315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327041,
+      "num": 272605,
+      "word": "14岁女孩初次痛经查出双子宫双阴道",
+      "onboard_time": 1776834082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326815,
       "num": 326815,
       "word": "李羲承 珀莱雅",
@@ -12601,6 +12729,14 @@
       "onboard_time": 1776826459,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319522,
+      "num": 284714,
+      "word": "孙杨吃张豆豆剩下的汉堡",
+      "onboard_time": 1776830901,
+      "rank": 25,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 319435,
@@ -13331,6 +13467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306285,
+      "num": 270929,
+      "word": "避孕套涨价原因",
+      "onboard_time": 1776835880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306213,
       "num": 439041,
       "word": "美国提议停火48小时",
@@ -14059,6 +14203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289542,
+      "num": 269028,
+      "word": "穆祉丞 个代",
+      "onboard_time": 1776837802,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289465,
       "num": 289465,
       "word": "冰湖重生癫剧",
@@ -14353,6 +14505,14 @@
       "onboard_time": 1775396785,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 283768,
+      "num": 283768,
+      "word": "张凌赫凌探未来定档",
+      "onboard_time": 1776830122,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 283567,
@@ -16745,6 +16905,14 @@
       "onboard_time": 1775198662,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243533,
+      "num": 243533,
+      "word": "女子脚踹保安后被反手扇一耳光",
+      "onboard_time": 1776835821,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243499,
@@ -23803,6 +23971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162306,
+      "num": 283442,
+      "word": "iPhone18Pro相机盖板曝光",
+      "onboard_time": 1776834201,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162289,
       "num": 101845,
       "word": "杨紫三部热播期后加广的剧集",
@@ -25051,6 +25227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151219,
+      "num": 259098,
+      "word": "中国卫星大跌",
+      "onboard_time": 1776834141,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "39岁离异姑姑独自带大5个孩子",
@@ -25169,6 +25353,14 @@
       "onboard_time": 1775915302,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150098,
+      "num": 276098,
+      "word": "GPT Image2 太牛了",
+      "onboard_time": 1776833243,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 150096,
@@ -28923,6 +29115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124674,
+      "num": 261792,
+      "word": "生了7个娃还想再生的男子称养得起",
+      "onboard_time": 1776836781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124620,
       "num": 183051,
       "word": "朴宝剑 偶遇",
@@ -29347,6 +29547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122463,
+      "num": 257878,
+      "word": "原神",
+      "onboard_time": 1776834261,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122456,
       "num": 114740,
       "word": "肚子总是鼓鼓的可以练这个改善腹压",
@@ -29521,6 +29729,14 @@
       "onboard_time": 1776734900,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121521,
+      "num": 265218,
+      "word": "统一是台湾的唯一前途",
+      "onboard_time": 1776836421,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121422,
@@ -31440,6 +31656,14 @@
       "word": "王曼昱比赛打到数板",
       "onboard_time": 1775314105,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111167,
+      "num": 254759,
+      "word": "东契奇领取赛季得分王奖杯",
+      "onboard_time": 1776837141,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -36875,6 +37099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91722,
+      "num": 479794,
+      "word": "宁德时代高管称电池超750kg不科学",
+      "onboard_time": 1776836720,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 91714,
       "num": 80980,
       "word": "王一博素颜拍GQ",
@@ -39371,6 +39603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85076,
+      "num": 246530,
+      "word": "黎明前他会归来杀青",
+      "onboard_time": 1776829761,
+      "rank": 47,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 85062,
       "num": 85062,
       "word": "山西猥亵当事人法官被停职",
@@ -41401,6 +41641,14 @@
       "onboard_time": 1775999600,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79476,
+      "num": 244554,
+      "word": "Kanavi说LPL经常折戟",
+      "onboard_time": 1776830661,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 79461,
@@ -48355,6 +48603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60516,
+      "num": 310424,
+      "word": "女孩挪用1700万打赏曾阻止会计上报",
+      "onboard_time": 1776836781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60486,
       "num": 60486,
       "word": "王者荣耀返场",
@@ -52675,6 +52931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35058,
+      "num": 734065,
+      "word": "在繁花盛放的春天接英雄回家",
+      "onboard_time": 1776827060,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35044,
       "num": 61576,
       "word": "在你灿烂的季节",
@@ -55848,6 +56112,14 @@
       "word": "少女否认被骗电诈园父母疑其遭胁迫",
       "onboard_time": 1775291780,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14029,
+      "num": 477137,
+      "word": "卖出生证洗白拐卖主犯被判无期",
+      "onboard_time": 1776837681,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
