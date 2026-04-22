@@ -1,14 +1,22 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776828243962,
+  "endTime": 1776829727010,
   "band_list": [
     {
       "raw_hot": 3444695,
-      "num": 276637,
+      "num": 511833,
       "word": "华晨宇喂猫吃巧克力蛋糕",
       "onboard_time": 1776825559,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1767352,
+      "num": 800746,
+      "word": "避孕套要涨价了",
+      "onboard_time": 1776828560,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1670243,
@@ -19,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1243686,
+      "num": 793358,
+      "word": "虞书欣戛纳第二套造型",
+      "onboard_time": 1776823280,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1224348,
-      "num": 185680,
+      "num": 510696,
       "word": "贺峻霖答辩",
       "onboard_time": 1776826159,
       "rank": 17,
@@ -35,19 +51,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1184493,
+      "num": 496044,
+      "word": "王大陆和女友获刑6个月",
+      "onboard_time": 1776829341,
+      "rank": 13,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 1038396,
       "num": 1166143,
       "word": "灵魂摆渡电影全AI生成",
       "onboard_time": 1776785480,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1031030,
-      "num": 708170,
-      "word": "虞书欣戛纳第二套造型",
-      "onboard_time": 1776823280,
-      "rank": 3,
       "category": "电影"
     },
     {
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 959187,
-      "num": 185210,
+      "num": 304290,
       "word": "肖战代言尚界",
       "onboard_time": 1776826159,
       "rank": 19,
@@ -99,8 +115,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 897105,
+      "num": 350610,
+      "word": "余承东官宣肖战代言",
+      "onboard_time": 1776827060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808703,
-      "num": 209717,
+      "num": 364344,
       "word": "虞书欣戛纳蓝色妖姬造型",
       "onboard_time": 1776814039,
       "rank": 22,
@@ -123,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783906,
+      "num": 783906,
+      "word": "伊朗抓住了美国的要害",
+      "onboard_time": 1776826459,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 783359,
       "num": 631021,
       "word": "樊振东与英伟达创始人打乒乓球",
       "onboard_time": 1776813738,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 775027,
+      "num": 424466,
+      "word": "14岁女生遭性侵KTV暂停营业",
+      "onboard_time": 1776826700,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732150,
@@ -139,44 +179,44 @@
       "category": "数码"
     },
     {
-      "raw_hot": 729908,
-      "num": 184934,
-      "word": "14岁女生遭性侵KTV暂停营业",
-      "onboard_time": 1776826700,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 678638,
-      "num": 678638,
+      "raw_hot": 689289,
+      "num": 689289,
       "word": "养6个弟妹又有7弟小伙妹妹发声",
       "onboard_time": 1776824839,
       "rank": 4,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638382,
+      "num": 845598,
+      "word": "挪用1700万女孩愿意坐牢换退款",
+      "onboard_time": 1776826280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608217,
-      "num": 184818,
+      "num": 291566,
       "word": "姜文女儿怀孕",
       "onboard_time": 1776822799,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 605647,
-      "num": 605647,
-      "word": "伊朗抓住了美国的要害",
-      "onboard_time": 1776826459,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 603161,
-      "num": 179177,
+      "num": 258386,
       "word": "王安宇见面会官宣",
       "onboard_time": 1776827299,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600167,
+      "num": 600167,
+      "word": "谢娜演唱会成都加场来了",
+      "onboard_time": 1776827421,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 580763,
@@ -203,20 +243,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 550295,
-      "num": 178615,
-      "word": "余承东官宣肖战代言",
-      "onboard_time": 1776827060,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 514854,
       "num": 514854,
       "word": "特朗普称美伊停火到期将继续轰炸",
       "onboard_time": 1776787280,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 508348,
+      "num": 508348,
+      "word": "全糖的写0脂 全脂的写0糖",
+      "onboard_time": 1776828800,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 501801,
@@ -232,6 +272,14 @@
       "word": "张智霖听到袁咏仪说不买了的表情",
       "onboard_time": 1776825080,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484547,
+      "num": 249408,
+      "word": "谢依霖曝和杨幂郭碧婷见面不能化妆",
+      "onboard_time": 1776828141,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -273,14 +321,6 @@
       "onboard_time": 1776786080,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 418528,
-      "num": 418528,
-      "word": "谢娜演唱会成都加场来了",
-      "onboard_time": 1776827421,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 410657,
@@ -363,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349969,
+      "num": 349969,
+      "word": "库克卸任原因披露",
+      "onboard_time": 1776824718,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 347558,
       "num": 290305,
       "word": "走丢男童父母送女孩终身免费牛排卡",
@@ -387,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319574,
+      "num": 467571,
+      "word": "TF四代我们的少年时代2杀青照",
+      "onboard_time": 1776826459,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315277,
       "num": 212389,
       "word": "教育局回应学生暴雨天体测800米",
@@ -403,12 +459,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306546,
-      "num": 265065,
-      "word": "TF四代我们的少年时代2杀青照",
-      "onboard_time": 1776826459,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 310743,
+      "num": 513794,
+      "word": "火箭vs湖人",
+      "onboard_time": 1776819021,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 305672,
@@ -416,30 +472,6 @@
       "word": "挪用1700万女孩现实中舍不得买包",
       "onboard_time": 1776814578,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301424,
-      "num": 178408,
-      "word": "谢依霖曝和杨幂郭碧婷见面不能化妆",
-      "onboard_time": 1776828141,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 291420,
-      "num": 178480,
-      "word": "库克卸任原因披露",
-      "onboard_time": 1776824718,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 290661,
-      "num": 185628,
-      "word": "挪用1700万女孩愿意坐牢换退款",
-      "onboard_time": 1776826280,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282756,
-      "num": 282756,
-      "word": "火箭vs湖人",
-      "onboard_time": 1776819021,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250920,
       "num": 205310,
       "word": "女子拍下日本地震时画面",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 247534,
-      "num": 205812,
+      "num": 261934,
       "word": "泰国泼水节一少女遭士兵性侵",
       "onboard_time": 1776813978,
       "rank": 33,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 240911,
-      "num": 240911,
+      "num": 360240,
       "word": "文班缺席G2剩余比赛",
       "onboard_time": 1776820939,
       "rank": 12,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 221178,
-      "num": 221178,
+      "num": 250156,
       "word": "宁德时代新电池续航可超1500km",
       "onboard_time": 1776785061,
       "rank": 26,
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 203438,
-      "num": 178999,
+      "num": 319077,
       "word": "深圳茶颜悦色代购炒到每杯100元",
       "onboard_time": 1776824600,
       "rank": 29,
@@ -531,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193461,
-      "num": 178329,
+      "raw_hot": 198348,
+      "num": 265961,
       "word": "我咋没感觉到00后在整顿职场啊",
       "onboard_time": 1776817880,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197757,
+      "num": 333990,
+      "word": "打赏1700万女生听闻长期服刑沉默",
+      "onboard_time": 1776828260,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191496,
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 185955,
-      "num": 185955,
+      "num": 259867,
       "word": "宋雨琦将继续缺席奔跑吧录制",
       "onboard_time": 1776825378,
       "rank": 16,
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 184546,
-      "num": 184546,
+      "num": 386784,
       "word": "颜颜凯凯",
       "onboard_time": 1776818720,
       "rank": 22,
@@ -609,6 +641,14 @@
       "onboard_time": 1776814158,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166264,
+      "num": 460124,
+      "word": "吴敬平回应樊振东与英伟达创始人打球",
+      "onboard_time": 1776827841,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 164914,
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145036,
-      "num": 180766,
-      "word": "吴敬平回应樊振东与英伟达创始人打球",
-      "onboard_time": 1776827841,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144327,
       "num": 172550,
       "word": "唐诡导演 真人能演为啥让AI演",
@@ -708,11 +740,19 @@
     },
     {
       "raw_hot": 133589,
-      "num": 721650,
+      "num": 806157,
       "word": "英雄回家",
       "onboard_time": 1776827421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133318,
+      "num": 342604,
+      "word": "孙颖莎看起来很萌实际也很萌",
+      "onboard_time": 1776827239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131662,
@@ -772,23 +812,15 @@
     },
     {
       "raw_hot": 120626,
-      "num": 180100,
+      "num": 279838,
       "word": "开拓者vs马刺",
       "onboard_time": 1776825500,
       "rank": 27,
       "category": "体育"
     },
     {
-      "raw_hot": 120144,
-      "num": 176298,
-      "word": "孙颖莎看起来很萌实际也很萌",
-      "onboard_time": 1776827239,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117619,
-      "num": 178147,
+      "num": 262768,
       "word": "马斯克600亿美元收购Cursor",
       "onboard_time": 1776826519,
       "rank": 38,
@@ -804,11 +836,19 @@
     },
     {
       "raw_hot": 102855,
-      "num": 177913,
+      "num": 255657,
       "word": "真人短剧被AI团灭了么",
       "onboard_time": 1776822919,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100989,
+      "num": 274842,
+      "word": "中国篮协发贺信祝贺王治郅",
+      "onboard_time": 1776824359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 93812,
@@ -836,11 +876,19 @@
     },
     {
       "raw_hot": 81758,
-      "num": 213824,
+      "num": 254498,
       "word": "乔布斯曾说绝不能让营销人员成为CEO",
       "onboard_time": 1776790816,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71188,
+      "num": 358827,
+      "word": "文和友加入京东美食大赛",
+      "onboard_time": 1776827119,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 69621,
@@ -860,11 +908,19 @@
     },
     {
       "raw_hot": 69046,
-      "num": 177800,
+      "num": 251235,
       "word": "无畏宣传月鳞绮纪",
       "onboard_time": 1776815239,
       "rank": 47,
       "category": "剧集,电竞"
+    },
+    {
+      "raw_hot": 66857,
+      "num": 257656,
+      "word": "合众每卖一辆车亏损超8万元",
+      "onboard_time": 1776828620,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 60615,
@@ -915,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51534,
+      "num": 247225,
+      "word": "AI版灵魂摆渡监制是唐诡导演",
+      "onboard_time": 1776821959,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51112,
       "num": 134123,
       "word": "和王一博一起共同守护地球家园",
@@ -945,14 +1009,6 @@
       "onboard_time": 1776767659,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46606,
-      "num": 202023,
-      "word": "文和友加入京东美食大赛",
-      "onboard_time": 1776827119,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 43696,

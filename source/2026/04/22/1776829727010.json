@@ -1,0 +1,410 @@
+{
+  "runTime": 1776829727010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 890241,
+        "num": 1142438,
+        "word": "哪吒汽车创始人已成老赖",
+        "onboard_time": 1776824839,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 638382,
+        "num": 845598,
+        "word": "挪用1700万女孩愿意坐牢换退款",
+        "onboard_time": 1776826280,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114989,
+        "num": 806157,
+        "word": "英雄回家",
+        "onboard_time": 1776827421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1767352,
+        "num": 800746,
+        "word": "避孕套要涨价了",
+        "onboard_time": 1776828560,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1243686,
+        "num": 793358,
+        "word": "虞书欣戛纳第二套造型",
+        "onboard_time": 1776823280,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 783906,
+        "num": 783906,
+        "word": "伊朗抓住了美国的要害",
+        "onboard_time": 1776826459,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 689289,
+        "num": 689289,
+        "word": "养6个弟妹又有7弟小伙妹妹发声",
+        "onboard_time": 1776824839,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600167,
+        "num": 600167,
+        "word": "谢娜演唱会成都加场来了",
+        "onboard_time": 1776827421,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 526794,
+        "num": 526794,
+        "word": "曝iPhone18屏幕规格或开倒车",
+        "onboard_time": 1776823280,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310743,
+        "num": 513794,
+        "word": "火箭vs湖人",
+        "onboard_time": 1776819021,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3042535,
+        "num": 511833,
+        "word": "华晨宇喂猫吃巧克力蛋糕",
+        "onboard_time": 1776825559,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1197017,
+        "num": 510696,
+        "word": "贺峻霖答辩",
+        "onboard_time": 1776826159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508348,
+        "num": 508348,
+        "word": "全糖的写0脂 全脂的写0糖",
+        "onboard_time": 1776828800,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1184493,
+        "num": 496044,
+        "word": "王大陆和女友获刑6个月",
+        "onboard_time": 1776829341,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 319574,
+        "num": 467571,
+        "word": "TF四代我们的少年时代2杀青照",
+        "onboard_time": 1776826459,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 460124,
+        "word": "吴敬平回应樊振东与英伟达创始人打球",
+        "onboard_time": 1776827841,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775027,
+        "num": 424466,
+        "word": "14岁女生遭性侵KTV暂停营业",
+        "onboard_time": 1776826700,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228353,
+        "num": 406805,
+        "word": "灵魂摆渡电影全AI生成",
+        "onboard_time": 1776785480,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182744,
+        "num": 386784,
+        "word": "颜颜凯凯",
+        "onboard_time": 1776818720,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364787,
+        "num": 364787,
+        "word": "女孩为何宁愿坐牢也不配合追回打赏",
+        "onboard_time": 1776792976,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418904,
+        "num": 364344,
+        "word": "虞书欣戛纳蓝色妖姬造型",
+        "onboard_time": 1776814039,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 360240,
+        "word": "文班缺席G2剩余比赛",
+        "onboard_time": 1776820939,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71188,
+        "num": 358827,
+        "word": "文和友加入京东美食大赛",
+        "onboard_time": 1776827119,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146374,
+        "num": 357255,
+        "word": "美伊停火延长至伊朗提方案并谈妥",
+        "onboard_time": 1776814639,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135747,
+        "num": 353236,
+        "word": "谢娜 没票的朋友们别着急",
+        "onboard_time": 1776786319,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 897105,
+        "num": 350610,
+        "word": "余承东官宣肖战代言",
+        "onboard_time": 1776827060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349969,
+        "num": 349969,
+        "word": "库克卸任原因披露",
+        "onboard_time": 1776824718,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133318,
+        "num": 342604,
+        "word": "孙颖莎看起来很萌实际也很萌",
+        "onboard_time": 1776827239,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197757,
+        "num": 333990,
+        "word": "打赏1700万女生听闻长期服刑沉默",
+        "onboard_time": 1776828260,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178882,
+        "num": 319077,
+        "word": "深圳茶颜悦色代购炒到每杯100元",
+        "onboard_time": 1776824600,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723335,
+        "num": 304290,
+        "word": "肖战代言尚界",
+        "onboard_time": 1776826159,
+        "rank": 30,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 554955,
+        "num": 291566,
+        "word": "姜文女儿怀孕",
+        "onboard_time": 1776822799,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 279838,
+        "word": "开拓者vs马刺",
+        "onboard_time": 1776825500,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100989,
+        "num": 274842,
+        "word": "中国篮协发贺信祝贺王治郅",
+        "onboard_time": 1776824359,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266019,
+        "num": 266019,
+        "word": "苹果或被印度罚款380亿美元",
+        "onboard_time": 1776817519,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198348,
+        "num": 265961,
+        "word": "我咋没感觉到00后在整顿职场啊",
+        "onboard_time": 1776817880,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136642,
+        "num": 264036,
+        "word": "哪吒造车3年烧掉183亿",
+        "onboard_time": 1776783681,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116843,
+        "num": 262768,
+        "word": "马斯克600亿美元收购Cursor",
+        "onboard_time": 1776826519,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113512,
+        "num": 261934,
+        "word": "泰国泼水节一少女遭士兵性侵",
+        "onboard_time": 1776813978,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107316,
+        "num": 259867,
+        "word": "宋雨琦将继续缺席奔跑吧录制",
+        "onboard_time": 1776825378,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530061,
+        "num": 258386,
+        "word": "王安宇见面会官宣",
+        "onboard_time": 1776827299,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66857,
+        "num": 257656,
+        "word": "合众每卖一辆车亏损超8万元",
+        "onboard_time": 1776828620,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79347,
+        "num": 255657,
+        "word": "真人短剧被AI团灭了么",
+        "onboard_time": 1776822919,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64961,
+        "num": 254498,
+        "word": "乔布斯曾说绝不能让营销人员成为CEO",
+        "onboard_time": 1776790816,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62537,
+        "num": 253547,
+        "word": "周杰伦认证邓紫棋改编的爱琴海",
+        "onboard_time": 1776787579,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60680,
+        "num": 251235,
+        "word": "无畏宣传月鳞绮纪",
+        "onboard_time": 1776815239,
+        "rank": 45,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 44161,
+        "num": 250156,
+        "word": "宁德时代新电池续航可超1500km",
+        "onboard_time": 1776785061,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 484547,
+        "num": 249408,
+        "word": "谢依霖曝和杨幂郭碧婷见面不能化妆",
+        "onboard_time": 1776828141,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51534,
+        "num": 247225,
+        "word": "AI版灵魂摆渡监制是唐诡导演",
+        "onboard_time": 1776821959,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137508,
+        "num": 245950,
+        "word": "走丢男童父母送女孩终身免费牛排卡",
+        "onboard_time": 1776783201,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#欢迎莫桑比克搭乘中国发展快车#"
+    }
+  }
+}
