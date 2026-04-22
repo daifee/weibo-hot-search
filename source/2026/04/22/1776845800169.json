@@ -1,0 +1,410 @@
+{
+  "runTime": 1776845800169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265128,
+        "num": 1265128,
+        "word": "网传披荆斩棘6阵容",
+        "onboard_time": 1776841582,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739912,
+        "num": 874187,
+        "word": "曹德旺说大不了把美国工厂关掉",
+        "onboard_time": 1776835282,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92135,
+        "num": 717049,
+        "word": "接英雄回家",
+        "onboard_time": 1776844822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1609665,
+        "num": 709035,
+        "word": "国台办回应张凌赫被喊话赴台交流",
+        "onboard_time": 1776842840,
+        "rank": 3,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1124169,
+        "num": 702536,
+        "word": "终于知道为什么有些人做菜难吃了",
+        "onboard_time": 1776839541,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1387934,
+        "num": 695354,
+        "word": "虞书欣戛纳生图",
+        "onboard_time": 1776839541,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 679555,
+        "num": 679555,
+        "word": "民政局称20岁小伙养6弟妹系人设",
+        "onboard_time": 1776842601,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466085,
+        "num": 466085,
+        "word": "詹姆斯暴扣杀死比赛",
+        "onboard_time": 1776840380,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457569,
+        "num": 457569,
+        "word": "全糖的写0脂 全脂的写0糖",
+        "onboard_time": 1776828800,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 550559,
+        "num": 438308,
+        "word": "避孕套涨价原因",
+        "onboard_time": 1776835880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2344341,
+        "num": 404139,
+        "word": "陈妍希申请强制执行",
+        "onboard_time": 1776838280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1191966,
+        "num": 401560,
+        "word": "GUCCI田曦薇张凌赫大片",
+        "onboard_time": 1776834442,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369871,
+        "num": 369871,
+        "word": "98年本科女孩做保洁爸妈认为扫大街",
+        "onboard_time": 1776844101,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897341,
+        "num": 367050,
+        "word": "华晨宇喂猫吃巧克力蛋糕",
+        "onboard_time": 1776825559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524391,
+        "num": 365035,
+        "word": "宋祖儿的脸 女娲炫技",
+        "onboard_time": 1776844822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347715,
+        "num": 347715,
+        "word": "员工称不涨工资干不了3天后被离职",
+        "onboard_time": 1776843141,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206415,
+        "num": 347328,
+        "word": "湖人2比0火箭",
+        "onboard_time": 1776836360,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113338,
+        "num": 347245,
+        "word": "41岁詹姆斯折叠背扣",
+        "onboard_time": 1776833421,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347232,
+        "num": 347232,
+        "word": "星巴克免费咖啡",
+        "onboard_time": 1776829881,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34835,
+        "num": 342435,
+        "word": "轿车斑马线撞飞两人后掉头二次冲撞",
+        "onboard_time": 1776844881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503381,
+        "num": 342217,
+        "word": "王安宇见面会票价",
+        "onboard_time": 1776832462,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 425468,
+        "num": 341738,
+        "word": "山城小栗旬老婆被前任骗钱后瘦80多斤",
+        "onboard_time": 1776836001,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340912,
+        "num": 340912,
+        "word": "中国大蒜竟被列为国家安全威胁",
+        "onboard_time": 1776830361,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368795,
+        "num": 335890,
+        "word": "朱珠把保洁服穿出高定感",
+        "onboard_time": 1776844640,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349402,
+        "num": 331415,
+        "word": "曝男明星KTV亲女网红",
+        "onboard_time": 1776845240,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323219,
+        "num": 323219,
+        "word": "14岁女孩初次痛经查出双子宫双阴道",
+        "onboard_time": 1776834082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104233,
+        "num": 316890,
+        "word": "2026KPL春季赛最佳阵容候选人",
+        "onboard_time": 1776841761,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314756,
+        "num": 314756,
+        "word": "断绝孩子手机上瘾最快的方法",
+        "onboard_time": 1776831683,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 87397,
+        "num": 289701,
+        "word": "零跑直播",
+        "onboard_time": 1776843680,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127363,
+        "num": 277906,
+        "word": "伊朗抓住了美国的要害",
+        "onboard_time": 1776826459,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277258,
+        "num": 277258,
+        "word": "乘风2026三公帮唱",
+        "onboard_time": 1776830721,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263752,
+        "num": 263752,
+        "word": "余承东官宣肖战代言",
+        "onboard_time": 1776827060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242166,
+        "num": 242166,
+        "word": "段奕宏参加烈士遗骸迎回仪式",
+        "onboard_time": 1776836720,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254361,
+        "num": 241991,
+        "word": "说好的谢楠乘风吴京在家带娃呢",
+        "onboard_time": 1776841221,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237503,
+        "num": 237503,
+        "word": "挪用1700万女孩愿意坐牢换退款",
+        "onboard_time": 1776826280,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221967,
+        "num": 221967,
+        "word": "女子21万买到展车4S店拒绝赔偿",
+        "onboard_time": 1776843680,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218409,
+        "num": 218409,
+        "word": "文春 BTS",
+        "onboard_time": 1776837259,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 210604,
+        "word": "10倍大牛股爆雷2万散户被埋",
+        "onboard_time": 1776843261,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206834,
+        "num": 206834,
+        "word": "14岁女孩肠癌晚期腹痛半年以为痛经",
+        "onboard_time": 1776839300,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 204885,
+        "word": "9岁男孩被同学恶作剧铅笔扎进臀部",
+        "onboard_time": 1776845119,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85378,
+        "num": 204613,
+        "word": "哪吒汽车创始人已成老赖",
+        "onboard_time": 1776824839,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204396,
+        "num": 204396,
+        "word": "贺峻霖答辩",
+        "onboard_time": 1776826159,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199541,
+        "num": 199541,
+        "word": "国色芳华衍生收入3.7亿",
+        "onboard_time": 1776843800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182823,
+        "num": 182823,
+        "word": "快五十岁的妈妈因为工作哭了",
+        "onboard_time": 1776835341,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197923,
+        "num": 182779,
+        "word": "迅猛龙回应付费直播",
+        "onboard_time": 1776834261,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180875,
+        "num": 180875,
+        "word": "吴千语晒照抱婴儿喂奶",
+        "onboard_time": 1776845721,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92931,
+        "num": 180249,
+        "word": "原神",
+        "onboard_time": 1776834261,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68375,
+        "num": 176723,
+        "word": "GPT Image2 太牛了",
+        "onboard_time": 1776833243,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64653,
+        "num": 174311,
+        "word": "宗师挑杯定妆照",
+        "onboard_time": 1776837199,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50728,
+        "num": 169328,
+        "word": "斯玛特湖人本场最硬的人",
+        "onboard_time": 1776844401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记缅怀志愿军英烈#"
+    }
+  }
+}

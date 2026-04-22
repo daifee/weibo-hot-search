@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776838845210,
+  "endTime": 1776845800169,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -8,6 +8,14 @@
       "word": "华晨宇喂猫吃巧克力蛋糕",
       "onboard_time": 1776825559,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2344341,
+      "num": 667254,
+      "word": "陈妍希申请强制执行",
+      "onboard_time": 1776838280,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -35,12 +43,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1609665,
+      "num": 709035,
+      "word": "国台办回应张凌赫被喊话赴台交流",
+      "onboard_time": 1776842840,
+      "rank": 3,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 1406102,
       "num": 796062,
       "word": "王安宇见面会票价",
       "onboard_time": 1776832462,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1387934,
+      "num": 695354,
+      "word": "虞书欣戛纳生图",
+      "onboard_time": 1776839541,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1265128,
+      "num": 1265128,
+      "word": "网传披荆斩棘6阵容",
+      "onboard_time": 1776841582,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1243686,
@@ -56,14 +88,6 @@
       "word": "贺峻霖答辩",
       "onboard_time": 1776826159,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1214615,
-      "num": 667254,
-      "word": "陈妍希申请强制执行",
-      "onboard_time": 1776838280,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -89,6 +113,14 @@
       "onboard_time": 1776830361,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1124169,
+      "num": 702536,
+      "word": "终于知道为什么有些人做菜难吃了",
+      "onboard_time": 1776839541,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1038396,
@@ -243,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739912,
+      "num": 874187,
+      "word": "曹德旺说大不了把美国工厂关掉",
+      "onboard_time": 1776835282,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 732150,
       "num": 843162,
       "word": "曝iPhone18屏幕规格或开倒车",
@@ -273,6 +313,14 @@
       "onboard_time": 1776828141,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 679555,
+      "num": 679555,
+      "word": "民政局称20岁小伙养6弟妹系人设",
+      "onboard_time": 1776842601,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676737,
@@ -347,20 +395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 550559,
+      "num": 537720,
+      "word": "避孕套涨价原因",
+      "onboard_time": 1776835880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524391,
+      "num": 365035,
+      "word": "宋祖儿的脸 女娲炫技",
+      "onboard_time": 1776844822,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514854,
       "num": 514854,
       "word": "特朗普称美伊停火到期将继续轰炸",
       "onboard_time": 1776787280,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 514552,
-      "num": 675929,
-      "word": "曹德旺说大不了把美国工厂关掉",
-      "onboard_time": 1776835282,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 501801,
@@ -403,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 466085,
+      "num": 466085,
+      "word": "詹姆斯暴扣杀死比赛",
+      "onboard_time": 1776840380,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456963,
       "num": 456963,
       "word": "穆祉丞 个代",
@@ -433,14 +497,6 @@
       "onboard_time": 1776786080,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 427884,
-      "num": 537720,
-      "word": "避孕套涨价原因",
-      "onboard_time": 1776835880,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427562,
@@ -531,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369871,
+      "num": 369871,
+      "word": "98年本科女孩做保洁爸妈认为扫大街",
+      "onboard_time": 1776844101,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368795,
+      "num": 335890,
+      "word": "朱珠把保洁服穿出高定感",
+      "onboard_time": 1776844640,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367803,
       "num": 292934,
       "word": "浪胃仙自曝整容失败",
@@ -561,6 +633,22 @@
       "onboard_time": 1776824718,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 349402,
+      "num": 331415,
+      "word": "曝男明星KTV亲女网红",
+      "onboard_time": 1776845240,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347715,
+      "num": 347715,
+      "word": "员工称不涨工资干不了3天后被离职",
+      "onboard_time": 1776843141,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347558,
@@ -651,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254361,
+      "num": 241991,
+      "word": "说好的谢楠乘风吴京在家带娃呢",
+      "onboard_time": 1776841221,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250920,
       "num": 205310,
       "word": "女子拍下日本地震时画面",
@@ -699,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221967,
+      "num": 221967,
+      "word": "女子21万买到展车4S店拒绝赔偿",
+      "onboard_time": 1776843680,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221178,
       "num": 250156,
       "word": "宁德时代新电池续航可超1500km",
@@ -713,6 +817,22 @@
       "onboard_time": 1776781281,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210604,
+      "num": 210604,
+      "word": "10倍大牛股爆雷2万散户被埋",
+      "onboard_time": 1776843261,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "14岁女孩肠癌晚期腹痛半年以为痛经",
+      "onboard_time": 1776839300,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205600,
@@ -745,6 +865,14 @@
       "onboard_time": 1776778101,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199541,
+      "num": 199541,
+      "word": "国色芳华衍生收入3.7亿",
+      "onboard_time": 1776843800,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 198348,
@@ -793,6 +921,14 @@
       "onboard_time": 1776818720,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180875,
+      "num": 180875,
+      "word": "吴千语晒照抱婴儿喂奶",
+      "onboard_time": 1776845721,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 180796,
@@ -1091,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104233,
+      "num": 316890,
+      "word": "2026KPL春季赛最佳阵容候选人",
+      "onboard_time": 1776841761,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102855,
       "num": 255657,
       "word": "真人短剧被AI团灭了么",
@@ -1123,12 +1267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92135,
+      "num": 717049,
+      "word": "接英雄回家",
+      "onboard_time": 1776844822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89550,
       "num": 322199,
       "word": "挑战者杯定妆照",
       "onboard_time": 1776834741,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87397,
+      "num": 289701,
+      "word": "零跑直播",
+      "onboard_time": 1776843680,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 85425,
@@ -1211,6 +1371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64653,
+      "num": 174311,
+      "word": "宗师挑杯定妆照",
+      "onboard_time": 1776837199,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60615,
       "num": 153783,
       "word": "窈窈有期第一集硬刚第二集删除",
@@ -1283,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50728,
+      "num": 169328,
+      "word": "斯玛特湖人本场最硬的人",
+      "onboard_time": 1776844401,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49985,
       "num": 153387,
       "word": "一诺周年发文",
@@ -1329,6 +1505,14 @@
       "onboard_time": 1776799215,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34835,
+      "num": 342435,
+      "word": "轿车斑马线撞飞两人后掉头二次冲撞",
+      "onboard_time": 1776844881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34771,
@@ -1451,6 +1635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18181,
+      "num": 204885,
+      "word": "9岁男孩被同学恶作剧铅笔扎进臀部",
+      "onboard_time": 1776845119,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17370,
       "num": 173685,
       "word": "大一男生离校后失联疑被诱骗至境外",
@@ -1468,6 +1660,9 @@
     },
     {
       "word": "#欢迎莫桑比克搭乘中国发展快车#"
+    },
+    {
+      "word": "#跟着总书记缅怀志愿军英烈#"
     }
   ]
 }
