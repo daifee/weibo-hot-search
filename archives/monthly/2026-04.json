@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776869529535,
+  "endTime": 1776873043421,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -1011,6 +1011,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1567259,
+      "num": 1567259,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1565393,
       "num": 621375,
       "word": "日本叫嚣击沉中国航母",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1775832324,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1346903,
-      "num": 1346903,
-      "word": "尚界Z7",
-      "onboard_time": 1776859041,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 1342728,
@@ -2163,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1092429,
+      "num": 698755,
+      "word": "丈夫称崔丽丽遭性侵后判若两人",
+      "onboard_time": 1776863901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1091601,
       "num": 687667,
       "word": "把蓝莓当消炎药吃",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1774971322,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 937872,
-      "num": 698755,
-      "word": "丈夫称崔丽丽遭性侵后判若两人",
-      "onboard_time": 1776863901,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 936045,
@@ -3795,6 +3795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778327,
+      "num": 708566,
+      "word": "女子脚踹保安前监控视频曝光",
+      "onboard_time": 1776866602,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 775077,
       "num": 466850,
       "word": "当你过午不食六个月",
@@ -4057,6 +4065,14 @@
       "onboard_time": 1775555421,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 741329,
+      "num": 394372,
+      "word": "肯德基酱料正式收费",
+      "onboard_time": 1776869903,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 739998,
@@ -4377,14 +4393,6 @@
       "onboard_time": 1776659484,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 708566,
-      "num": 708566,
-      "word": "女子脚踹保安前监控视频曝光",
-      "onboard_time": 1776866602,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 707910,
@@ -4883,6 +4891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 658417,
+      "num": 388111,
+      "word": "全球最大避孕套生产商警告",
+      "onboard_time": 1776870982,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658156,
       "num": 278864,
       "word": "向涵之 你替我拍戏",
@@ -5081,6 +5097,14 @@
       "onboard_time": 1776407180,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642354,
+      "num": 885502,
+      "word": "问界M9价格",
+      "onboard_time": 1776869122,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 641205,
@@ -6345,6 +6369,14 @@
       "onboard_time": 1775915362,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551151,
+      "num": 468457,
+      "word": "曝迪丽热巴和嘉行签了一年短约",
+      "onboard_time": 1776868642,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 551049,
@@ -8019,6 +8051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472047,
+      "num": 305390,
+      "word": "李冰冰回怼记者",
+      "onboard_time": 1776867682,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470857,
       "num": 206119,
       "word": "瞿颖 我上个世纪还是顶流的时候",
@@ -8112,14 +8152,6 @@
       "word": "迟重瑞为陈丽华光头36年",
       "onboard_time": 1775555361,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 468457,
-      "num": 468457,
-      "word": "曝迪丽热巴和嘉行签了一年短约",
-      "onboard_time": 1776868642,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -16315,14 +16347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260259,
-      "num": 260259,
-      "word": "李冰冰回怼记者",
-      "onboard_time": 1776867682,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260239,
       "num": 407080,
       "word": "张雪机车热身赛第一",
@@ -16484,7 +16508,7 @@
     },
     {
       "raw_hot": 257915,
-      "num": 257915,
+      "num": 285813,
       "word": "现货黄金",
       "onboard_time": 1775125341,
       "rank": 48,
@@ -17033,6 +17057,14 @@
       "onboard_time": 1775467761,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249694,
+      "num": 249694,
+      "word": "慈母多败咪",
+      "onboard_time": 1776869842,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 249689,
@@ -18105,6 +18137,14 @@
       "onboard_time": 1775034142,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235049,
+      "num": 235049,
+      "word": "孟佳唱跳版心愿便利贴",
+      "onboard_time": 1776870443,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 235040,
@@ -19899,14 +19939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212026,
-      "num": 212026,
-      "word": "问界M9价格",
-      "onboard_time": 1776869122,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 211862,
       "num": 436622,
       "word": "中国无人机蜂群突击铺天盖地",
@@ -20489,6 +20521,14 @@
       "onboard_time": 1776483259,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "CNN报道中国博主嘲讽美国信用",
+      "onboard_time": 1776869122,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 204708,
@@ -21571,6 +21611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194066,
+      "num": 194066,
+      "word": "考研生人均1元拼网课被判共同赔4万",
+      "onboard_time": 1776871881,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 194036,
       "num": 194036,
       "word": "王皓偷偷抹泪",
@@ -22137,6 +22185,14 @@
       "onboard_time": 1776488480,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 188116,
+      "num": 404198,
+      "word": "乒乓球在美国火起来了",
+      "onboard_time": 1776865642,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 188031,
@@ -22937,6 +22993,14 @@
       "onboard_time": 1776087983,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179539,
+      "num": 292279,
+      "word": "男子称学位证16年后失效",
+      "onboard_time": 1776871761,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179495,
@@ -24905,6 +24969,14 @@
       "onboard_time": 1775963240,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161245,
+      "num": 161245,
+      "word": "伊朗公开展示大杀器",
+      "onboard_time": 1776872001,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 161225,
@@ -39171,6 +39243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88356,
+      "num": 1203386,
+      "word": "中国在月球留下了新的名字",
+      "onboard_time": 1776863182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88353,
       "num": 88353,
       "word": "花花揉肚杀",
@@ -40073,14 +40153,6 @@
       "onboard_time": 1776075320,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86059,
-      "num": 1203386,
-      "word": "中国在月球留下了新的名字",
-      "onboard_time": 1776863182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86042,
@@ -50715,6 +50787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55195,
+      "num": 298086,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55128,
       "num": 104952,
       "word": "博主身份疑似被男同学盗用5年",
@@ -53323,6 +53403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39725,
+      "num": 254904,
+      "word": "中国第二条跨省地铁",
+      "onboard_time": 1776872839,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39640,
       "num": 1395179,
       "word": "从超3亿元退费看民生保障力度",
@@ -53641,6 +53729,14 @@
       "onboard_time": 1775627122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36975,
+      "num": 238871,
+      "word": "58同城维修幽灵订单后续",
+      "onboard_time": 1776871640,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 36910,

@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776869529535,
+  "endTime": 1776873043421,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1567259,
+      "num": 1567259,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1554263,
       "num": 1021535,
       "word": "华晨宇演唱会延期",
@@ -129,14 +137,6 @@
       "onboard_time": 1776832462,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1346903,
-      "num": 1346903,
-      "word": "尚界Z7",
-      "onboard_time": 1776859041,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 1342728,
@@ -227,6 +227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1092429,
+      "num": 698755,
+      "word": "丈夫称崔丽丽遭性侵后判若两人",
+      "onboard_time": 1776863901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1061984,
       "num": 1061984,
       "word": "民政局称20岁小伙养6弟妹系人设",
@@ -297,14 +305,6 @@
       "onboard_time": 1776826159,
       "rank": 19,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 937872,
-      "num": 698755,
-      "word": "丈夫称崔丽丽遭性侵后判若两人",
-      "onboard_time": 1776863901,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 936045,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 778327,
+      "num": 708566,
+      "word": "女子脚踹保安前监控视频曝光",
+      "onboard_time": 1776866602,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 775027,
       "num": 424466,
       "word": "14岁女生遭性侵KTV暂停营业",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 741329,
+      "num": 394372,
+      "word": "肯德基酱料正式收费",
+      "onboard_time": 1776869903,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739912,
       "num": 874187,
       "word": "曹德旺说大不了把美国工厂关掉",
@@ -507,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 708566,
-      "num": 708566,
-      "word": "女子脚踹保安前监控视频曝光",
-      "onboard_time": 1776866602,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 689289,
       "num": 689289,
       "word": "养6个弟妹又有7弟小伙妹妹发声",
@@ -544,6 +552,22 @@
       "word": "新世代宝马",
       "onboard_time": 1776864381,
       "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 658417,
+      "num": 388111,
+      "word": "全球最大避孕套生产商警告",
+      "onboard_time": 1776870982,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642354,
+      "num": 885502,
+      "word": "问界M9价格",
+      "onboard_time": 1776869122,
+      "rank": 45,
       "category": "汽车"
     },
     {
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551151,
+      "num": 468457,
+      "word": "曝迪丽热巴和嘉行签了一年短约",
+      "onboard_time": 1776868642,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542952,
       "num": 357049,
       "word": "林子烨 5600不如和豆包聊",
@@ -755,20 +787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472047,
+      "num": 305390,
+      "word": "李冰冰回怼记者",
+      "onboard_time": 1776867682,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 469390,
       "num": 469390,
       "word": "员工称不涨工资干不了3天后被离职",
       "onboard_time": 1776843141,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468457,
-      "num": 468457,
-      "word": "曝迪丽热巴和嘉行签了一年短约",
-      "onboard_time": 1776868642,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 466085,
@@ -1171,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260259,
-      "num": 260259,
-      "word": "李冰冰回怼记者",
-      "onboard_time": 1776867682,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260047,
       "num": 260047,
       "word": "10倍大牛股爆雷2万散户被埋",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 257915,
-      "num": 257915,
+      "num": 285813,
       "word": "现货黄金",
       "onboard_time": 1776867143,
       "rank": 46,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1776777802,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 249694,
+      "num": 249694,
+      "word": "慈母多败咪",
+      "onboard_time": 1776869842,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 247534,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1776852380,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235049,
+      "num": 235049,
+      "word": "孟佳唱跳版心愿便利贴",
+      "onboard_time": 1776870443,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 229114,
@@ -1347,14 +1387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 212026,
-      "num": 212026,
-      "word": "问界M9价格",
-      "onboard_time": 1776869122,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 210296,
       "num": 210296,
       "word": "何润东 原来刘涛回福建是这种感觉",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1776836720,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "CNN报道中国博主嘲讽美国信用",
+      "onboard_time": 1776869122,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 204403,
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194066,
+      "num": 194066,
+      "word": "考研生人均1元拼网课被判共同赔4万",
+      "onboard_time": 1776871881,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191749,
       "num": 191749,
       "word": "看演唱会四不原则",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1776767360,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188116,
+      "num": 404198,
+      "word": "乒乓球在美国火起来了",
+      "onboard_time": 1776865642,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 187119,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1776846620,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179539,
+      "num": 292279,
+      "word": "男子称学位证16年后失效",
+      "onboard_time": 1776871761,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179495,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1776787699,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161245,
+      "num": 161245,
+      "word": "伊朗公开展示大杀器",
+      "onboard_time": 1776872001,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 160627,
@@ -2003,20 +2075,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88356,
+      "num": 1203386,
+      "word": "中国在月球留下了新的名字",
+      "onboard_time": 1776863182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87397,
       "num": 289701,
       "word": "零跑直播",
       "onboard_time": 1776843680,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 86059,
-      "num": 1203386,
-      "word": "中国在月球留下了新的名字",
-      "onboard_time": 1776863182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85425,
@@ -2179,6 +2251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 55195,
+      "num": 298086,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54756,
       "num": 153540,
       "word": "8岁男孩爬山认出金矿线索",
@@ -2273,6 +2353,22 @@
       "onboard_time": 1776799215,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 39725,
+      "num": 254904,
+      "word": "中国第二条跨省地铁",
+      "onboard_time": 1776872839,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36975,
+      "num": 238871,
+      "word": "58同城维修幽灵订单后续",
+      "onboard_time": 1776871640,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34835,
