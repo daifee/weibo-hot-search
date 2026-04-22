@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776859476240,
+  "endTime": 1776867439270,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3348414,
+      "num": 565899,
+      "word": "朴信惠眼睛 断崖式衰老",
+      "onboard_time": 1776857299,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3103476,
       "num": 786927,
       "word": "侯明昊 歌手2026",
       "onboard_time": 1776851301,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2358525,
+      "num": 2358525,
+      "word": "爱奇艺广告 毒枭折磨卧底",
+      "onboard_time": 1776864262,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2344341,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1554263,
-      "num": 1003430,
+      "num": 1021535,
       "word": "华晨宇演唱会延期",
       "onboard_time": 1776859161,
       "rank": 3,
@@ -105,6 +121,22 @@
       "onboard_time": 1776854421,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1332671,
+      "num": 552887,
+      "word": "崔丽丽躯体化反应很严重",
+      "onboard_time": 1776860061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1278614,
+      "num": 1278614,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 1265128,
@@ -163,12 +195,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1146000,
-      "num": 330942,
-      "word": "朴信惠眼睛 断崖式衰老",
-      "onboard_time": 1776857299,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 1130882,
+      "num": 1130882,
+      "word": "尚界Z7 趴窝",
+      "onboard_time": 1776866542,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 1124169,
@@ -243,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985542,
+      "num": 562216,
+      "word": "Gucci别试探了",
+      "onboard_time": 1776858562,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 959187,
       "num": 304290,
       "word": "肖战代言尚界",
@@ -291,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854990,
+      "num": 560028,
+      "word": "肖战尚界预定数量",
+      "onboard_time": 1776864262,
+      "rank": 14,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 849326,
       "num": 845598,
       "word": "挪用1700万女孩愿意坐牢换退款",
@@ -299,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 847835,
+      "num": 847835,
+      "word": "周杰伦王俊凯 中餐厅",
+      "onboard_time": 1776866362,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808703,
       "num": 364344,
       "word": "虞书欣戛纳蓝色妖姬造型",
       "onboard_time": 1776814039,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801309,
+      "num": 551291,
+      "word": "全国首例性侵认定工伤案明日开庭",
+      "onboard_time": 1776861141,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801121,
@@ -355,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774850,
+      "num": 555683,
+      "word": "律师称扇女子耳光保安力度过重",
+      "onboard_time": 1776863841,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 769514,
       "num": 1257983,
       "word": "张雪机车补偿",
@@ -395,6 +467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 722578,
+      "num": 554594,
+      "word": "丈夫称崔丽丽遭性侵后判若两人",
+      "onboard_time": 1776863901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721453,
       "num": 669514,
       "word": "乘风2026三公帮唱",
@@ -427,6 +507,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 637543,
+      "num": 548966,
+      "word": "IU转圈给刘仁娜展示小裙子",
+      "onboard_time": 1776858321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 619598,
+      "num": 546686,
+      "word": "湖南卫视再次恭喜自己",
+      "onboard_time": 1776860422,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608217,
       "num": 291566,
       "word": "姜文女儿怀孕",
@@ -441,6 +537,14 @@
       "onboard_time": 1776827299,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600861,
+      "num": 600861,
+      "word": "朝鲜发声要求日本向中国道歉",
+      "onboard_time": 1776865043,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 600167,
@@ -483,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579615,
+      "num": 579615,
+      "word": "儿童近视神药阿托品火爆",
+      "onboard_time": 1776864742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576048,
       "num": 296120,
       "word": "时代少年团 团体工作室",
@@ -515,20 +627,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 565469,
+      "num": 550197,
+      "word": "新世代宝马",
+      "onboard_time": 1776864381,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 562583,
+      "num": 562583,
+      "word": "不要在上班的时候说分手",
+      "onboard_time": 1776856041,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542952,
       "num": 357049,
       "word": "林子烨 5600不如和豆包聊",
       "onboard_time": 1776845840,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525289,
-      "num": 525289,
-      "word": "Gucci别试探了",
-      "onboard_time": 1776858562,
-      "rank": 5,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 519840,
@@ -569,6 +689,14 @@
       "onboard_time": 1776825080,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487715,
+      "num": 487715,
+      "word": "内娱大爆的现偶",
+      "onboard_time": 1776861562,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 482674,
@@ -625,6 +753,14 @@
       "onboard_time": 1776837802,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445353,
+      "num": 560386,
+      "word": "问界M6起售价25.98万元",
+      "onboard_time": 1776865943,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 436337,
@@ -707,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399365,
+      "num": 399365,
+      "word": "肖战不对称西装",
+      "onboard_time": 1776862641,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 398559,
       "num": 398559,
       "word": "吃原型食物",
@@ -729,6 +873,14 @@
       "onboard_time": 1776817519,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 387263,
+      "num": 502744,
+      "word": "日本黑帮大哥金盆洗手考入顶尖名校",
+      "onboard_time": 1776860360,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 386972,
@@ -779,6 +931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 367189,
+      "num": 367189,
+      "word": "崔丽丽不再穿性侵时衣服出庭",
+      "onboard_time": 1776865101,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353997,
       "num": 284749,
       "word": "张翰回应去移民局",
@@ -811,20 +971,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 344455,
-      "num": 344455,
-      "word": "尚界Z7",
-      "onboard_time": 1776859041,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 339260,
       "num": 217980,
       "word": "宁德时代",
       "onboard_time": 1776778642,
       "rank": 32,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 335492,
+      "num": 335492,
+      "word": "华晨宇直播时哽咽",
+      "onboard_time": 1776867322,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 321458,
@@ -891,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307230,
+      "num": 307230,
+      "word": "6种常见癌症的早期信号",
+      "onboard_time": 1776862281,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307217,
       "num": 307217,
       "word": "夫妻鱼塘双双溺亡留下两孩子",
@@ -907,8 +1075,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301764,
+      "num": 301764,
+      "word": "KPL",
+      "onboard_time": 1776861502,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298314,
-      "num": 259159,
+      "num": 418090,
       "word": "中国交警雨天执勤的视频在国外火了",
       "onboard_time": 1776853823,
       "rank": 31,
@@ -921,6 +1097,14 @@
       "onboard_time": 1776850760,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288846,
+      "num": 278230,
+      "word": "蜜语纪受众",
+      "onboard_time": 1776862161,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 284678,
@@ -939,20 +1123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282842,
-      "num": 282842,
-      "word": "IU转圈给刘仁娜展示小裙子",
-      "onboard_time": 1776858321,
-      "rank": 32,
+      "raw_hot": 281321,
+      "num": 281321,
+      "word": "王大陆讨债 失去的一定要拿回来",
+      "onboard_time": 1776858081,
+      "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277545,
-      "num": 232405,
-      "word": "不要在上班的时候说分手",
-      "onboard_time": 1776856041,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 263691,
@@ -985,6 +1161,22 @@
       "onboard_time": 1776841221,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252178,
+      "num": 252178,
+      "word": "崔丽丽被认定为十级伤残",
+      "onboard_time": 1776861741,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251080,
+      "num": 554389,
+      "word": "女子脚踹保安前监控视频曝光",
+      "onboard_time": 1776866602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250920,
@@ -1043,8 +1235,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 227502,
-      "num": 227502,
+      "raw_hot": 229114,
+      "num": 229114,
       "word": "花少导演面试王星越",
       "onboard_time": 1776857540,
       "rank": 39,
@@ -1097,6 +1289,14 @@
       "onboard_time": 1776781281,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215450,
+      "num": 215450,
+      "word": "杨紫扛剧能力",
+      "onboard_time": 1776867382,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 210296,
@@ -1251,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179495,
+      "num": 304112,
+      "word": "全新一代问界M9开启预售49.98万元起",
+      "onboard_time": 1776866962,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177237,
       "num": 177237,
       "word": "赵雨蝶一审死缓",
@@ -1289,6 +1497,14 @@
       "onboard_time": 1776781522,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169649,
+      "num": 567234,
+      "word": "AC米兰球员被曝参加集体嫖娼派对",
+      "onboard_time": 1776863122,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 168476,
@@ -1353,6 +1569,14 @@
       "onboard_time": 1776846440,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157305,
+      "num": 232043,
+      "word": "现货黄金",
+      "onboard_time": 1776867143,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 157000,
@@ -1507,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130944,
+      "num": 548675,
+      "word": "宝马大圆柱电池续航超900公里",
+      "onboard_time": 1776865943,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130146,
       "num": 413554,
       "word": "原神",
@@ -1569,6 +1801,14 @@
       "onboard_time": 1776774320,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121769,
+      "num": 557119,
+      "word": "宝马智能化第一梯队实锤",
+      "onboard_time": 1776865881,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 121521,
@@ -1721,6 +1961,14 @@
       "onboard_time": 1776843680,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 86059,
+      "num": 1203386,
+      "word": "中国在月球留下了新的名字",
+      "onboard_time": 1776863182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85425,
@@ -1905,6 +2153,14 @@
       "onboard_time": 1776821959,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51380,
+      "num": 302243,
+      "word": "余承东称电磁热控压铸精密性堪比3D打印",
+      "onboard_time": 1776865881,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 51112,
@@ -2183,6 +2439,9 @@
     },
     {
       "word": "#跟着总书记缅怀志愿军英烈#"
+    },
+    {
+      "word": "#总书记指引共护地球家园#"
     }
   ]
 }

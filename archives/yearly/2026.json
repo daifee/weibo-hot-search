@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1776859476240,
+  "endTime": 1776867439270,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1227,6 +1227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3348414,
+      "num": 565899,
+      "word": "朴信惠眼睛 断崖式衰老",
+      "onboard_time": 1776857299,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3334180,
       "num": 120055,
       "word": "张雪峰妻子",
@@ -1931,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2358525,
+      "num": 2358525,
+      "word": "爱奇艺广告 毒枭折磨卧底",
+      "onboard_time": 1776864262,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2357170,
       "num": 1628459,
       "word": "陈哲远 你的运气额度省下来了",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1776769521,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2087503,
-      "num": 688455,
-      "word": "紫薯精天塌了",
-      "onboard_time": 1773565461,
-      "rank": 3,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 2081325,
-      "num": 260122,
-      "word": "站姐团建",
-      "onboard_time": 1774970844,
-      "rank": 14,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
