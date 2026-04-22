@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/23 01:33:46
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/23 02:06:35
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ BLG对战AL（热度：263168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%8F%8D%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+警方回应女子脚踹保安被反扇耳光（热度：259015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90%E4%B8%BB%E5%BC%A0%E5%BA%94%E8%B5%94%E4%BB%98250%E4%BD%99%E4%B8%87%23" target="weibo">
 遭老板性侵女子主张应赔付250余万（热度：258383）
 </a>
@@ -5481,12 +5487,6 @@ iOS27全新Siri界面（热度：108733）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%8F%8D%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-警方回应女子脚踹保安被反扇耳光（热度：105024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232026KPL%E6%98%A5%E5%AD%A3%E8%B5%9B%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9%E5%80%99%E9%80%89%E4%BA%BA%23" target="weibo">
 2026KPL春季赛最佳阵容候选人（热度：104233）
 </a>
@@ -6335,6 +6335,12 @@ AI版灵魂摆渡监制是唐诡导演（热度：51534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%B3%BC%E6%B0%B4%E5%A5%B3%E5%AD%90%E6%9C%AA%E6%8A%A5%E8%AD%A6%23" target="weibo">
 被围堵泼水女子未报警（热度：46976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%B1%B3%E7%AD%89%E7%90%83%E5%91%98%E5%8F%82%E5%8A%A0%E5%AB%96%E5%A8%BC%E6%B4%BE%E5%AF%B9%E4%BB%B7%E6%A0%BC%E6%95%B0%E5%8D%83%E6%AC%A7%23" target="weibo">
+国米等球员参加嫖娼派对价格数千欧（热度：46635）
 </a>
 </li>
 
