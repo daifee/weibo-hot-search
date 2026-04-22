@@ -1,0 +1,410 @@
+{
+  "runTime": 1776895064665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169098,
+        "num": 264711,
+        "word": "谁发明的厕所感应冲水",
+        "onboard_time": 1776875598,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130632,
+        "num": 194008,
+        "word": "原来前额叶成熟是这样的",
+        "onboard_time": 1776877997,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16967,
+        "num": 153915,
+        "word": "中国在月球留下了新的名字",
+        "onboard_time": 1776863182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104415,
+        "num": 104415,
+        "word": "周杰伦王俊凯 中餐厅",
+        "onboard_time": 1776866362,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59212,
+        "num": 59212,
+        "word": "歌手2026",
+        "onboard_time": 1776854421,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55718,
+        "num": 55718,
+        "word": "湖南卫视再次恭喜自己",
+        "onboard_time": 1776860422,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54568,
+        "num": 54568,
+        "word": "华晨宇演唱会延期",
+        "onboard_time": 1776859161,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36813,
+        "num": 54492,
+        "word": "特别害怕对一个人产生依赖",
+        "onboard_time": 1776882314,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 54132,
+        "word": "问界M6起售价25.98万元",
+        "onboard_time": 1776865943,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175582,
+        "num": 53648,
+        "word": "儿子因父亲逼自己分手失联16年",
+        "onboard_time": 1776873439,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134945,
+        "num": 53599,
+        "word": "全球最大避孕套生产商警告",
+        "onboard_time": 1776870982,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128380,
+        "num": 53225,
+        "word": "警方回应女子脚踹保安被反扇耳光",
+        "onboard_time": 1776877757,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 52932,
+        "word": "女生受邀去泰国泼水节被转卖电诈园",
+        "onboard_time": 1776872720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95720,
+        "num": 52416,
+        "word": "首位外籍航天员将进入中国空间站",
+        "onboard_time": 1776890472,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75731,
+        "num": 52181,
+        "word": "巴拿马对持中国护照人员加强审查",
+        "onboard_time": 1776876917,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69351,
+        "num": 51712,
+        "word": "日本7.7级地震",
+        "onboard_time": 1776884054,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 67351,
+        "num": 51355,
+        "word": "考研生人均1元拼网课被判共同赔4万",
+        "onboard_time": 1776871881,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66148,
+        "num": 51160,
+        "word": "多方回应女子脚踹保安反被扇耳光",
+        "onboard_time": 1776880995,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65206,
+        "num": 50784,
+        "word": "朝鲜发声要求日本向中国道歉",
+        "onboard_time": 1776865043,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32418,
+        "num": 50409,
+        "word": "乒乓球在美国火起来了",
+        "onboard_time": 1776865642,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171727,
+        "num": 50069,
+        "word": "丈夫称崔丽丽遭性侵后判若两人",
+        "onboard_time": 1776863901,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122042,
+        "num": 49828,
+        "word": "崔丽丽不再穿性侵时衣服出庭",
+        "onboard_time": 1776865101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58243,
+        "num": 49670,
+        "word": "尚界Z7",
+        "onboard_time": 1776859041,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49399,
+        "num": 49399,
+        "word": "尚界Z7大定",
+        "onboard_time": 1776867442,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46786,
+        "num": 46786,
+        "word": "崔丽丽受访前当场躯体化发作",
+        "onboard_time": 1776881654,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45145,
+        "num": 45145,
+        "word": "日本黑帮大哥金盆洗手考入顶尖名校",
+        "onboard_time": 1776860360,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44885,
+        "num": 44885,
+        "word": "崔丽丽躯体化反应很严重",
+        "onboard_time": 1776860061,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41648,
+        "num": 41648,
+        "word": "儿童近视神药阿托品火爆",
+        "onboard_time": 1776864742,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41200,
+        "num": 41200,
+        "word": "董璇又上恋综给张维伊上压力了",
+        "onboard_time": 1776860542,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39349,
+        "num": 39349,
+        "word": "现货黄金",
+        "onboard_time": 1776867143,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38050,
+        "num": 38050,
+        "word": "是谁把14岁女孩拱手交给魔鬼",
+        "onboard_time": 1776877217,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37912,
+        "num": 37912,
+        "word": "尚界Z7大定27分钟破12000台",
+        "onboard_time": 1776870141,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36331,
+        "num": 36331,
+        "word": "CNN报道中国博主嘲讽美国信用",
+        "onboard_time": 1776869122,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34275,
+        "num": 34275,
+        "word": "肯德基酱料正式收费",
+        "onboard_time": 1776869903,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34128,
+        "num": 34128,
+        "word": "6种常见癌症的早期信号",
+        "onboard_time": 1776862281,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34015,
+        "num": 34015,
+        "word": "月薪10w带货主播面试全过程",
+        "onboard_time": 1776877217,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31608,
+        "num": 31608,
+        "word": "体检无异常发现却是癌症晚期",
+        "onboard_time": 1776851420,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31473,
+        "num": 31473,
+        "word": "内娱大爆的现偶",
+        "onboard_time": 1776861562,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31345,
+        "num": 31345,
+        "word": "不要在上班的时候说分手",
+        "onboard_time": 1776856041,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31199,
+        "num": 31199,
+        "word": "日本人称手机设置为中文感觉很清爽",
+        "onboard_time": 1776849259,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 31161,
+        "num": 31161,
+        "word": "最顶级的中式审美",
+        "onboard_time": 1776877217,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 28954,
+        "num": 28954,
+        "word": "侯明昊 歌手2026",
+        "onboard_time": 1776851301,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28299,
+        "num": 28299,
+        "word": "全国首例性侵认定工伤案明日开庭",
+        "onboard_time": 1776861141,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27905,
+        "num": 27905,
+        "word": "中国第二条跨省地铁",
+        "onboard_time": 1776872839,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27236,
+        "num": 27236,
+        "word": "问界M9价格",
+        "onboard_time": 1776869122,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26702,
+        "num": 26702,
+        "word": "遭老板性侵女子挥别案发时的衬衫",
+        "onboard_time": 1776891254,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26105,
+        "num": 26105,
+        "word": "新世代宝马",
+        "onboard_time": 1776864381,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25988,
+        "num": 25988,
+        "word": "问界M6",
+        "onboard_time": 1776881475,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25825,
+        "num": 25825,
+        "word": "再痛也只能挂儿科",
+        "onboard_time": 1776877217,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157823,
+        "num": 25379,
+        "word": "朴信惠眼睛 断崖式衰老",
+        "onboard_time": 1776857299,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引共护地球家园#"
+    }
+  }
+}
