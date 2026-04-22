@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776814987875,
+  "endTime": 1776816107914,
   "band_list": [
     {
       "raw_hot": 1670243,
@@ -11,12 +11,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1103699,
-      "num": 559810,
+      "raw_hot": 1199153,
+      "num": 651874,
       "word": "义乌请量产吧",
       "onboard_time": 1776781040,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1038396,
+      "num": 1166143,
+      "word": "灵魂摆渡电影全AI生成",
+      "onboard_time": 1776785480,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1022412,
@@ -43,24 +51,32 @@
       "category": "演出"
     },
     {
-      "raw_hot": 884827,
-      "num": 1012683,
-      "word": "灵魂摆渡电影全AI生成",
-      "onboard_time": 1776785480,
-      "rank": 0,
-      "category": "电影"
+      "raw_hot": 808703,
+      "num": 209717,
+      "word": "虞书欣戛纳蓝色妖姬造型",
+      "onboard_time": 1776814039,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 799871,
-      "num": 342024,
+      "num": 425099,
       "word": "姚晨为救护车改道去世女子发声",
       "onboard_time": 1776768680,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 648386,
-      "num": 487583,
+      "raw_hot": 788648,
+      "num": 417409,
+      "word": "女孩为何宁愿坐牢也不配合追回打赏",
+      "onboard_time": 1776792976,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783359,
+      "num": 631021,
       "word": "樊振东与英伟达创始人打乒乓球",
       "onboard_time": 1776813738,
       "rank": 4,
@@ -83,20 +99,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557342,
-      "num": 310220,
-      "word": "女孩为何宁愿坐牢也不配合追回打赏",
-      "onboard_time": 1776792976,
+      "raw_hot": 573607,
+      "num": 573607,
+      "word": "美伊停火延长至伊朗提方案并谈妥",
+      "onboard_time": 1776814639,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 514854,
+      "num": 514854,
+      "word": "特朗普称美伊停火到期将继续轰炸",
+      "onboard_time": 1776787280,
       "rank": 31,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 501801,
-      "num": 501801,
+      "num": 873295,
       "word": "哪吒造车3年烧掉183亿",
       "onboard_time": 1776783681,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 482674,
+      "num": 405227,
+      "word": "肖战粉丝晒单尚界",
+      "onboard_time": 1776814879,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 474123,
+      "num": 264879,
+      "word": "国内油价下调了",
+      "onboard_time": 1776812478,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 474027,
@@ -107,27 +147,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 460237,
-      "num": 264879,
-      "word": "国内油价下调了",
-      "onboard_time": 1776812478,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 436113,
       "num": 713344,
       "word": "中韩同日表态",
       "onboard_time": 1776786080,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 411090,
-      "num": 367257,
-      "word": "特朗普称美伊停火到期将继续轰炸",
-      "onboard_time": 1776787280,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347558,
+      "num": 290305,
+      "word": "走丢男童父母送女孩终身免费牛排卡",
+      "onboard_time": 1776783201,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 339260,
       "num": 217980,
       "word": "宁德时代",
@@ -219,16 +251,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 318143,
-      "num": 290305,
-      "word": "走丢男童父母送女孩终身免费牛排卡",
-      "onboard_time": 1776783201,
-      "rank": 22,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 315277,
-      "num": 198528,
+      "num": 212389,
       "word": "教育局回应学生暴雨天体测800米",
       "onboard_time": 1776788538,
       "rank": 10,
@@ -251,28 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262587,
-      "num": 174955,
-      "word": "虞书欣戛纳蓝色妖姬造型",
-      "onboard_time": 1776814039,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250920,
-      "num": 197982,
+      "num": 205310,
       "word": "女子拍下日本地震时画面",
       "onboard_time": 1776777802,
       "rank": 49,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 228371,
-      "num": 172232,
-      "word": "美伊停火延长至伊朗提方案并谈妥",
-      "onboard_time": 1776814639,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 247534,
+      "num": 205812,
+      "word": "泰国泼水节一少女遭士兵性侵",
+      "onboard_time": 1776813978,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222724,
@@ -299,12 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194458,
-      "num": 194458,
+      "raw_hot": 204403,
+      "num": 204403,
       "word": "解放军强硬回应台空军喊话",
       "onboard_time": 1776786740,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202160,
+      "num": 202160,
+      "word": "小伙养6个弟妹又有7弟外婆发声",
+      "onboard_time": 1776778101,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191496,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183137,
-      "num": 172987,
-      "word": "小伙养6个弟妹又有7弟外婆发声",
-      "onboard_time": 1776778101,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177237,
       "num": 177237,
       "word": "赵雨蝶一审死缓",
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171625,
-      "num": 171625,
-      "word": "肖战粉丝晒单尚界",
-      "onboard_time": 1776814879,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171441,
       "num": 190194,
       "word": "乐道L90价格",
@@ -363,12 +371,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 170637,
-      "num": 170637,
-      "word": "泰国泼水节一少女遭士兵性侵",
-      "onboard_time": 1776813978,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 168350,
+      "num": 202876,
+      "word": "时代少年团新歌硬照",
+      "onboard_time": 1776814158,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 164914,
@@ -395,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159080,
+      "num": 159080,
+      "word": "多方回应KTV服务员强奸14岁女生",
+      "onboard_time": 1776815479,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157000,
       "num": 157000,
       "word": "陈都灵跳误闯天家",
       "onboard_time": 1776786201,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154696,
-      "num": 176577,
-      "word": "时代少年团新歌硬照",
-      "onboard_time": 1776814158,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 153024,
@@ -425,6 +433,14 @@
       "onboard_time": 1776787280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149240,
+      "num": 149240,
+      "word": "女子无视哈里夫妇淡定晒太阳走红",
+      "onboard_time": 1776814458,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147455,
@@ -475,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125010,
-      "num": 125010,
-      "word": "女子无视哈里夫妇淡定晒太阳走红",
-      "onboard_time": 1776814458,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 122713,
+      "num": 122713,
+      "word": "猫界大佬路过白猫吓到静止",
+      "onboard_time": 1776813738,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122663,
@@ -489,6 +505,14 @@
       "onboard_time": 1776774320,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121111,
+      "num": 121111,
+      "word": "伊朗说没有请求延长停火",
+      "onboard_time": 1776815420,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114270,
@@ -523,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78758,
+      "num": 213824,
+      "word": "乔布斯曾说绝不能让营销人员成为CEO",
+      "onboard_time": 1776790816,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 69621,
+      "num": 153642,
+      "word": "身上出现肉疙瘩警惕这4种瘤",
+      "onboard_time": 1776776601,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69491,
       "num": 221165,
       "word": "高市早苗吹嘘日武器时坦克爆炸",
@@ -531,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65481,
-      "num": 153862,
-      "word": "乔布斯曾说绝不能让营销人员成为CEO",
-      "onboard_time": 1776790816,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 69046,
+      "num": 114157,
+      "word": "无畏宣传月鳞绮纪",
+      "onboard_time": 1776815239,
+      "rank": 47,
+      "category": "剧集,电竞"
     },
     {
       "raw_hot": 60615,
@@ -545,14 +585,6 @@
       "onboard_time": 1776781581,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59474,
-      "num": 153642,
-      "word": "身上出现肉疙瘩警惕这4种瘤",
-      "onboard_time": 1776776601,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 59364,
@@ -635,6 +667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34771,
+      "num": 655993,
+      "word": "中国工业成绩单亮了",
+      "onboard_time": 1776776899,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33425,
       "num": 173071,
       "word": "机器人半马冠军出自做手机的荣耀",
@@ -657,14 +697,6 @@
       "onboard_time": 1776765561,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29903,
-      "num": 558558,
-      "word": "中国工业成绩单亮了",
-      "onboard_time": 1776776899,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29556,

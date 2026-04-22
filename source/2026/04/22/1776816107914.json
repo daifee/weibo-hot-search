@@ -1,0 +1,410 @@
+{
+  "runTime": 1776816107914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038396,
+        "num": 1166143,
+        "word": "灵魂摆渡电影全AI生成",
+        "onboard_time": 1776785480,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495851,
+        "num": 873295,
+        "word": "哪吒造车3年烧掉183亿",
+        "onboard_time": 1776783681,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34771,
+        "num": 655993,
+        "word": "中国工业成绩单亮了",
+        "onboard_time": 1776776899,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1199153,
+        "num": 651874,
+        "word": "义乌请量产吧",
+        "onboard_time": 1776781040,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 783359,
+        "num": 631021,
+        "word": "樊振东与英伟达创始人打乒乓球",
+        "onboard_time": 1776813738,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573607,
+        "num": 573607,
+        "word": "美伊停火延长至伊朗提方案并谈妥",
+        "onboard_time": 1776814639,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514854,
+        "num": 514854,
+        "word": "特朗普称美伊停火到期将继续轰炸",
+        "onboard_time": 1776787280,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480153,
+        "num": 480153,
+        "word": "谢娜 没票的朋友们别着急",
+        "onboard_time": 1776786319,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 433123,
+        "num": 433123,
+        "word": "伊朗储油罐要满了",
+        "onboard_time": 1776780144,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426830,
+        "num": 426830,
+        "word": "中韩同日表态",
+        "onboard_time": 1776786080,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 799160,
+        "num": 425099,
+        "word": "姚晨为救护车改道去世女子发声",
+        "onboard_time": 1776768680,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788648,
+        "num": 417409,
+        "word": "女孩为何宁愿坐牢也不配合追回打赏",
+        "onboard_time": 1776792976,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482674,
+        "num": 405227,
+        "word": "肖战粉丝晒单尚界",
+        "onboard_time": 1776814879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391704,
+        "num": 391704,
+        "word": "亿万富豪教女儿如何看钱",
+        "onboard_time": 1776790816,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245679,
+        "num": 245679,
+        "word": "巴萨下架不当图片内容",
+        "onboard_time": 1776785660,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215729,
+        "num": 215729,
+        "word": "宁德时代新电池续航可超1500km",
+        "onboard_time": 1776785061,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90031,
+        "num": 215414,
+        "word": "巴萨",
+        "onboard_time": 1776776241,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78758,
+        "num": 213824,
+        "word": "乔布斯曾说绝不能让营销人员成为CEO",
+        "onboard_time": 1776790816,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 347558,
+        "num": 212866,
+        "word": "走丢男童父母送女孩终身免费牛排卡",
+        "onboard_time": 1776783201,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 255635,
+        "num": 212389,
+        "word": "教育局回应学生暴雨天体测800米",
+        "onboard_time": 1776788538,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474123,
+        "num": 210797,
+        "word": "国内油价下调了",
+        "onboard_time": 1776812478,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 808703,
+        "num": 209717,
+        "word": "虞书欣戛纳蓝色妖姬造型",
+        "onboard_time": 1776814039,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386741,
+        "num": 208983,
+        "word": "白鹿给助理呵呵做饭",
+        "onboard_time": 1776777442,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366296,
+        "num": 208378,
+        "word": "生了7个娃还想再生的男子年近50岁",
+        "onboard_time": 1776785061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256215,
+        "num": 206829,
+        "word": "杨蓉面部烫伤恢复近照",
+        "onboard_time": 1776769521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247534,
+        "num": 205812,
+        "word": "泰国泼水节一少女遭士兵性侵",
+        "onboard_time": 1776813978,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245049,
+        "num": 205310,
+        "word": "女子拍下日本地震时画面",
+        "onboard_time": 1776777802,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204403,
+        "num": 204403,
+        "word": "解放军强硬回应台空军喊话",
+        "onboard_time": 1776786740,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168350,
+        "num": 202876,
+        "word": "时代少年团新歌硬照",
+        "onboard_time": 1776814158,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112340,
+        "num": 202510,
+        "word": "周杰伦认证邓紫棋改编的爱琴海",
+        "onboard_time": 1776787579,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202160,
+        "num": 202160,
+        "word": "小伙养6个弟妹又有7弟外婆发声",
+        "onboard_time": 1776778101,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171474,
+        "num": 171474,
+        "word": "迅猛龙开付费直播",
+        "onboard_time": 1776781761,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171204,
+        "num": 171204,
+        "word": "郭晓婷王天辰 夫妻相",
+        "onboard_time": 1776781281,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159080,
+        "num": 159080,
+        "word": "多方回应KTV服务员强奸14岁女生",
+        "onboard_time": 1776815479,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149240,
+        "num": 149240,
+        "word": "女子无视哈里夫妇淡定晒太阳走红",
+        "onboard_time": 1776814458,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148468,
+        "num": 148468,
+        "word": "宁德时代",
+        "onboard_time": 1776778642,
+        "rank": 35,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 147716,
+        "num": 147716,
+        "word": "李荣浩直播手机掉水里了",
+        "onboard_time": 1776763160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147177,
+        "num": 147177,
+        "word": "赵雨蝶一审死缓",
+        "onboard_time": 1776795314,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "肯德基多要酱收费",
+        "onboard_time": 1776768622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130811,
+        "num": 130811,
+        "word": "男子心脏停跳2天后生还",
+        "onboard_time": 1776775761,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122713,
+        "num": 122713,
+        "word": "猫界大佬路过白猫吓到静止",
+        "onboard_time": 1776813738,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121111,
+        "num": 121111,
+        "word": "伊朗说没有请求延长停火",
+        "onboard_time": 1776815420,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 118682,
+        "word": "时代少年团 团体工作室",
+        "onboard_time": 1776771024,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118300,
+        "num": 118300,
+        "word": "伊朗导弹与防空系统实力",
+        "onboard_time": 1776802274,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117044,
+        "num": 117044,
+        "word": "疑有中国女留学生被ICE当街逮捕",
+        "onboard_time": 1776790997,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114312,
+        "num": 114312,
+        "word": "女子34万装修踩坑极简风变灵堂风",
+        "onboard_time": 1776787280,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69621,
+        "num": 114236,
+        "word": "身上出现肉疙瘩警惕这4种瘤",
+        "onboard_time": 1776776601,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69046,
+        "num": 114157,
+        "word": "无畏宣传月鳞绮纪",
+        "onboard_time": 1776815239,
+        "rank": 47,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 56793,
+        "num": 113946,
+        "word": "唐诡导演 真人能演为啥让AI演",
+        "onboard_time": 1776768980,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35773,
+        "num": 113741,
+        "word": "人与人最大的区别就是出门",
+        "onboard_time": 1776777681,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见老挝国家主席特使#"
+    }
+  }
+}
