@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 19:38:58
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/22 20:04:36
 </p>
 </blockquote>
 <p>
@@ -657,6 +657,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
+日本人称手机设置为中文感觉很清爽（热度：1664703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82216%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 泰国泼水节216人死亡（热度：1657267）
 </a>
@@ -765,8 +771,8 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E6%89%8B%E6%9C%BA%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87%E6%84%9F%E8%A7%89%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
-日本人称手机设置为中文感觉很清爽（热度：1560815）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%23" target="weibo">
+华晨宇演唱会延期（热度：1554263）
 </a>
 </li>
 
@@ -1449,6 +1455,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0%E7%9C%BC%E7%9D%9B%20%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23" target="weibo">
+朴信惠眼睛 断崖式衰老（热度：1146000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E6%9C%881%E6%97%A5%E8%B5%B7%E5%85%A8%E5%9B%BD%E4%B8%A5%E6%9F%A5%E5%90%8E%E6%8E%92%E6%9C%AA%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%23" target="weibo">
 4月1日起全国严查后排未系安全带（热度：1145377）
 </a>
@@ -1805,6 +1817,12 @@ SK回应女孩挪用上千万打赏主播（热度：1009909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BB%E7%8E%89%E5%9B%9E%E5%BA%94%E6%8D%A2%E7%94%B7%E4%B8%BB%23" target="weibo">
 攻玉回应换男主（热度：1000878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+鸿蒙智行发布会（热度：997957）
 </a>
 </li>
 
@@ -5073,6 +5091,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Gucci%E5%88%AB%E8%AF%95%E6%8E%A2%E4%BA%86%23" target="weibo">
+Gucci别试探了（热度：525289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E7%82%B9%E8%B5%9E%E5%90%90%E6%A7%BD%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A8%80%E8%AE%BA%23" target="weibo">
 疑似何与朋友点赞吐槽虞书欣言论（热度：524418）
 </a>
@@ -5595,12 +5619,6 @@ sbti测试（热度：495899）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E4%BF%A1%E6%83%A0%E7%9C%BC%E7%9D%9B%20%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%23" target="weibo">
-朴信惠眼睛 断崖式衰老（热度：488396）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%80%85%E6%9D%A5%E7%88%B6%23" target="weibo">
 周杰伦 者来父（热度：488123）
 </a>
@@ -5993,24 +6011,6 @@ AI写作年赚200万夫妻被封号（热度：469765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%BC%80%E6%88%BF%E7%8C%A5%E4%BA%B5%E6%9C%8D%E8%8D%AF%E8%BD%BB%E7%94%9F%23" target="weibo">
 15岁女生被班主任开房猥亵服药轻生（热度：467405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%99%BB%E4%B8%8A%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E6%8A%A5%E7%BA%B8%23" target="weibo">
-张凌赫登上法国第一大报纸（热度：467308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%90%B3%E7%90%B3%E6%8B%8D%E7%9A%84%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
-刘琳琳拍的虞书欣（热度：467215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5%E5%8F%91%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E6%AD%8C%23" target="weibo">
-光明日报发虞书欣新歌（热度：467089）
 </a>
 </li>
 

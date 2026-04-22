@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776857938384,
+  "endTime": 1776859476240,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1664703,
+      "num": 1664703,
+      "word": "日本人称手机设置为中文感觉很清爽",
+      "onboard_time": 1776849259,
+      "rank": 11,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1625834,
       "num": 1027277,
       "word": "虞书欣戛纳生图",
@@ -75,12 +83,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1560815,
-      "num": 1560815,
-      "word": "日本人称手机设置为中文感觉很清爽",
-      "onboard_time": 1776849259,
-      "rank": 11,
-      "category": "议题讨论"
+      "raw_hot": 1554263,
+      "num": 1003430,
+      "word": "华晨宇演唱会延期",
+      "onboard_time": 1776859161,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1406102,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1342728,
-      "num": 352844,
+      "num": 1086194,
       "word": "歌手2026",
       "onboard_time": 1776854421,
       "rank": 5,
@@ -155,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1146000,
+      "num": 330942,
+      "word": "朴信惠眼睛 断崖式衰老",
+      "onboard_time": 1776857299,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1124169,
       "num": 702536,
       "word": "终于知道为什么有些人做菜难吃了",
@@ -209,6 +225,14 @@
       "onboard_time": 1776781761,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 997957,
+      "num": 997957,
+      "word": "鸿蒙智行发布会",
+      "onboard_time": 1776857841,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 989208,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525289,
+      "num": 525289,
+      "word": "Gucci别试探了",
+      "onboard_time": 1776858562,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 519840,
       "num": 379078,
       "word": "陈奕恒的手机壁纸是jennie",
@@ -539,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488396,
-      "num": 296330,
-      "word": "朴信惠眼睛 断崖式衰老",
-      "onboard_time": 1776857299,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 482674,
       "num": 405227,
       "word": "肖战粉丝晒单尚界",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 472424,
-      "num": 307507,
+      "num": 329481,
       "word": "茶颜悦色要卖卤味了",
       "onboard_time": 1776854959,
       "rank": 12,
@@ -641,6 +665,14 @@
       "onboard_time": 1776834261,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 412814,
+      "num": 335159,
+      "word": "女子不孕多年一次怀4胞胎",
+      "onboard_time": 1776851899,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410657,
@@ -779,20 +811,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 344455,
+      "num": 344455,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 339260,
       "num": 217980,
       "word": "宁德时代",
       "onboard_time": 1776778642,
       "rank": 32,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 335159,
-      "num": 335159,
-      "word": "女子不孕多年一次怀4胞胎",
-      "onboard_time": 1776851899,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321458,
@@ -817,6 +849,14 @@
       "onboard_time": 1776830901,
       "rank": 25,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 318957,
+      "num": 318957,
+      "word": "大冰谈如何锻炼输出表达能力",
+      "onboard_time": 1776855681,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 315277,
@@ -867,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298314,
+      "num": 259159,
+      "word": "中国交警雨天执勤的视频在国外火了",
+      "onboard_time": 1776853823,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291471,
       "num": 291471,
       "word": "文俊辉模仿李小冉",
@@ -891,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282842,
+      "num": 282842,
+      "word": "IU转圈给刘仁娜展示小裙子",
+      "onboard_time": 1776858321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277545,
+      "num": 232405,
+      "word": "不要在上班的时候说分手",
+      "onboard_time": 1776856041,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263691,
       "num": 263691,
       "word": "报考公安杨某媛与网传并非同一人",
@@ -905,14 +969,6 @@
       "onboard_time": 1776843261,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 259159,
-      "num": 259159,
-      "word": "中国交警雨天执勤的视频在国外火了",
-      "onboard_time": 1776853823,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258306,
@@ -979,20 +1035,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238282,
-      "num": 303068,
-      "word": "大冰谈如何锻炼输出表达能力",
-      "onboard_time": 1776855681,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236499,
       "num": 433410,
       "word": "英国2008年后出生者终身禁止购烟",
       "onboard_time": 1776852380,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 227502,
+      "num": 227502,
+      "word": "花少导演面试王星越",
+      "onboard_time": 1776857540,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 222724,
@@ -1027,11 +1083,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 219057,
+      "num": 219057,
+      "word": "见面真的太重要了",
+      "onboard_time": 1776855621,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217878,
       "num": 217878,
       "word": "郭晓婷王天辰 夫妻相",
       "onboard_time": 1776781281,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210296,
+      "num": 210296,
+      "word": "何润东 原来刘涛回福建是这种感觉",
+      "onboard_time": 1776858081,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1115,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194067,
-      "num": 194067,
-      "word": "鸿蒙智行发布会",
-      "onboard_time": 1776857841,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 191749,
       "num": 191749,
       "word": "看演唱会四不原则",
@@ -1139,14 +1203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 190146,
-      "num": 190146,
-      "word": "花少导演面试王星越",
-      "onboard_time": 1776857540,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190069,
       "num": 190069,
       "word": "业内评价白鹿",
@@ -1155,28 +1211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187808,
-      "num": 187808,
-      "word": "见面真的太重要了",
-      "onboard_time": 1776855621,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187119,
       "num": 187119,
       "word": "阿诺回应董力变了",
       "onboard_time": 1776850580,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186060,
-      "num": 186060,
-      "word": "不要在上班的时候说分手",
-      "onboard_time": 1776856041,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 185955,
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 142614,
-      "num": 301568,
+      "num": 304114,
       "word": "年轻人第一台性能车",
       "onboard_time": 1776856281,
       "rank": 18,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 116320,
-      "num": 132379,
+      "num": 206652,
       "word": "美政客称中国可能在大蒜里植入芯片",
       "onboard_time": 1776855740,
       "rank": 49,
@@ -2027,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26489,
+      "num": 296597,
+      "word": "133舰来而不往非礼也",
+      "onboard_time": 1776859281,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 24985,
       "num": 323430,
       "word": "不足2岁女童医院康复治疗中身亡",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1776838461,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24112,
+      "num": 293515,
+      "word": "高露洁美白牙膏靠调色美白",
+      "onboard_time": 1776859281,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24065,
