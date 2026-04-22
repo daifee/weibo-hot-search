@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776845800169,
+  "endTime": 1776848017431,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -43,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1625834,
+      "num": 1027277,
+      "word": "虞书欣戛纳生图",
+      "onboard_time": 1776839541,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1609665,
-      "num": 709035,
+      "num": 837708,
       "word": "国台办回应张凌赫被喊话赴台交流",
       "onboard_time": 1776842840,
       "rank": 3,
@@ -57,14 +65,6 @@
       "onboard_time": 1776832462,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1387934,
-      "num": 695354,
-      "word": "虞书欣戛纳生图",
-      "onboard_time": 1776839541,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 1265128,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1185148,
+      "num": 331415,
+      "word": "曝男明星KTV亲女网红",
+      "onboard_time": 1776845240,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1184493,
       "num": 496044,
       "word": "王大陆和女友获刑6个月",
@@ -121,6 +129,22 @@
       "onboard_time": 1776839541,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1101968,
+      "num": 1176314,
+      "word": "以为库克真加入小米汽车了",
+      "onboard_time": 1776845840,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1061984,
+      "num": 1061984,
+      "word": "民政局称20岁小伙养6弟妹系人设",
+      "onboard_time": 1776842601,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1038396,
@@ -193,6 +217,14 @@
       "onboard_time": 1776829881,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 868465,
+      "num": 365035,
+      "word": "宋祖儿的脸 女娲炫技",
+      "onboard_time": 1776844822,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 849326,
@@ -315,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679555,
-      "num": 679555,
-      "word": "民政局称20岁小伙养6弟妹系人设",
-      "onboard_time": 1776842601,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 676737,
       "num": 676737,
       "word": "段奕宏参加烈士遗骸迎回仪式",
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575787,
+      "num": 537720,
+      "word": "避孕套涨价原因",
+      "onboard_time": 1776835880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575189,
       "num": 575189,
       "word": "山城小栗旬老婆被前任骗钱后瘦80多斤",
@@ -395,19 +427,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 550559,
-      "num": 537720,
-      "word": "避孕套涨价原因",
-      "onboard_time": 1776835880,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524391,
-      "num": 365035,
-      "word": "宋祖儿的脸 女娲炫技",
-      "onboard_time": 1776844822,
-      "rank": 14,
+      "raw_hot": 542952,
+      "num": 290545,
+      "word": "林子烨 5600不如和豆包聊",
+      "onboard_time": 1776845840,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -465,6 +489,14 @@
       "onboard_time": 1776840380,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461190,
+      "num": 347715,
+      "word": "员工称不涨工资干不了3天后被离职",
+      "onboard_time": 1776843141,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456963,
@@ -635,22 +667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 349402,
-      "num": 331415,
-      "word": "曝男明星KTV亲女网红",
-      "onboard_time": 1776845240,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 347715,
-      "num": 347715,
-      "word": "员工称不涨工资干不了3天后被离职",
-      "onboard_time": 1776843141,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347558,
       "num": 290305,
       "word": "走丢男童父母送女孩终身免费牛排卡",
@@ -739,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260047,
+      "num": 260047,
+      "word": "10倍大牛股爆雷2万散户被埋",
+      "onboard_time": 1776843261,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 254361,
       "num": 241991,
       "word": "说好的谢楠乘风吴京在家带娃呢",
@@ -779,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242103,
+      "num": 242103,
+      "word": "女孩每月下腹剧痛检查发现是石女",
+      "onboard_time": 1776847580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240911,
       "num": 360240,
       "word": "文班缺席G2剩余比赛",
@@ -817,14 +849,6 @@
       "onboard_time": 1776781281,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210604,
-      "num": 210604,
-      "word": "10倍大牛股爆雷2万散户被埋",
-      "onboard_time": 1776843261,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 206834,
@@ -891,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195527,
+      "num": 195527,
+      "word": "吴千语晒照抱婴儿喂奶",
+      "onboard_time": 1776845721,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191496,
       "num": 191496,
       "word": "垫底辣孩与路人合照状态",
@@ -923,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180875,
-      "num": 180875,
-      "word": "吴千语晒照抱婴儿喂奶",
-      "onboard_time": 1776845721,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "日126名议员集体参拜靖国神社",
@@ -939,11 +963,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179970,
+      "num": 179970,
+      "word": "小新回应",
+      "onboard_time": 1776846620,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177237,
       "num": 177237,
       "word": "赵雨蝶一审死缓",
       "onboard_time": 1776795314,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173527,
+      "num": 250431,
+      "word": "112名在韩中国留学生学历造假被查",
+      "onboard_time": 1776846081,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1019,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157489,
+      "num": 195955,
+      "word": "外交部回应高市早苗拜鬼",
+      "onboard_time": 1776846440,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157000,
       "num": 157000,
       "word": "陈都灵跳误闯天家",
@@ -1051,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150518,
+      "num": 295126,
+      "word": "梅西姆巴佩又对上了",
+      "onboard_time": 1776847280,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150098,
       "num": 323576,
       "word": "GPT Image2 太牛了",
@@ -1081,6 +1137,22 @@
       "onboard_time": 1776768980,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140001,
+      "num": 188701,
+      "word": "多名消费者晒中了飞猪免单",
+      "onboard_time": 1776847701,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 136242,
+      "num": 196416,
+      "word": "女子脚踹保安被扇事件警方已立案",
+      "onboard_time": 1776847640,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135709,
@@ -1203,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117724,
+      "num": 250705,
+      "word": "王楚钦孙颖莎先后上训",
+      "onboard_time": 1776846320,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117619,
       "num": 262768,
       "word": "马斯克600亿美元收购Cursor",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1776788718,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112664,
+      "num": 175207,
+      "word": "文班亚马确诊为脑震荡",
+      "onboard_time": 1776847760,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111167,
@@ -1268,7 +1356,7 @@
     },
     {
       "raw_hot": 92135,
-      "num": 717049,
+      "num": 1027825,
       "word": "接英雄回家",
       "onboard_time": 1776844822,
       "rank": 2,
@@ -1545,6 +1633,14 @@
       "onboard_time": 1776765561,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30111,
+      "num": 292556,
+      "word": "公共充电桩悄悄涨价",
+      "onboard_time": 1776847400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29556,
