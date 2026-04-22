@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/22 08:01:47
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/22 11:24:03
 </p>
 </blockquote>
 <p>
@@ -899,6 +899,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
 伊朗陆军总司令身亡（热度：3446939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%96%82%E7%8C%AB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%9B%8B%E7%B3%95%23" target="weibo">
+华晨宇喂猫吃巧克力蛋糕（热度：3444695）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%84%E9%9C%B2%E9%80%90%E7%8E%89%E5%8F%AF%E5%88%A4%E5%88%9110%E5%B9%B4%23" target="weibo">
 泄露逐玉可判刑10年（热度：2070221）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-王鹤棣演唱会（热度：2064980）
 </a>
 </li>
 
