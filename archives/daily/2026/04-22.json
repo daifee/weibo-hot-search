@@ -1,6 +1,6 @@
 {
   "startTime": 1776788214839,
-  "endTime": 1776867439270,
+  "endTime": 1776869529535,
   "band_list": [
     {
       "raw_hot": 3444695,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3348414,
-      "num": 565899,
+      "num": 698907,
       "word": "朴信惠眼睛 断崖式衰老",
       "onboard_time": 1776857299,
       "rank": 22,
@@ -107,6 +107,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1546618,
+      "num": 552887,
+      "word": "崔丽丽躯体化反应很严重",
+      "onboard_time": 1776860061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1428446,
+      "num": 847835,
+      "word": "周杰伦王俊凯 中餐厅",
+      "onboard_time": 1776866362,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1406102,
       "num": 796062,
       "word": "王安宇见面会票价",
@@ -115,28 +131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1346903,
+      "num": 1346903,
+      "word": "尚界Z7",
+      "onboard_time": 1776859041,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1342728,
       "num": 1086194,
       "word": "歌手2026",
       "onboard_time": 1776854421,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1332671,
-      "num": 552887,
-      "word": "崔丽丽躯体化反应很严重",
-      "onboard_time": 1776860061,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1278614,
-      "num": 1278614,
-      "word": "尚界Z7",
-      "onboard_time": 1776859041,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 1265128,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 985542,
-      "num": 562216,
+      "num": 648114,
       "word": "Gucci别试探了",
       "onboard_time": 1776858562,
       "rank": 5,
@@ -289,6 +297,14 @@
       "onboard_time": 1776826159,
       "rank": 19,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 937872,
+      "num": 698755,
+      "word": "丈夫称崔丽丽遭性侵后判若两人",
+      "onboard_time": 1776863901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936045,
@@ -331,8 +347,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862022,
+      "num": 862022,
+      "word": "儿童近视神药阿托品火爆",
+      "onboard_time": 1776864742,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 854990,
-      "num": 560028,
+      "num": 698233,
       "word": "肖战尚界预定数量",
       "onboard_time": 1776864262,
       "rank": 14,
@@ -347,12 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 847835,
-      "num": 847835,
-      "word": "周杰伦王俊凯 中餐厅",
-      "onboard_time": 1776866362,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 834493,
+      "num": 834493,
+      "word": "尚界Z7大定",
+      "onboard_time": 1776867442,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 808703,
@@ -467,12 +491,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 722578,
-      "num": 554594,
-      "word": "丈夫称崔丽丽遭性侵后判若两人",
-      "onboard_time": 1776863901,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 730530,
+      "num": 730530,
+      "word": "朝鲜发声要求日本向中国道歉",
+      "onboard_time": 1776865043,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 721453,
@@ -481,6 +505,14 @@
       "onboard_time": 1776830721,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 708566,
+      "num": 708566,
+      "word": "女子脚踹保安前监控视频曝光",
+      "onboard_time": 1776866602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 689289,
@@ -505,6 +537,14 @@
       "onboard_time": 1776836720,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 668448,
+      "num": 668448,
+      "word": "新世代宝马",
+      "onboard_time": 1776864381,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 637543,
@@ -537,14 +577,6 @@
       "onboard_time": 1776827299,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600861,
-      "num": 600861,
-      "word": "朝鲜发声要求日本向中国道歉",
-      "onboard_time": 1776865043,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 600167,
@@ -587,11 +619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 579615,
-      "num": 579615,
-      "word": "儿童近视神药阿托品火爆",
-      "onboard_time": 1776864742,
-      "rank": 8,
+      "raw_hot": 579873,
+      "num": 579873,
+      "word": "崔丽丽不再穿性侵时衣服出庭",
+      "onboard_time": 1776865101,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -625,14 +657,6 @@
       "onboard_time": 1776814639,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 565469,
-      "num": 550197,
-      "word": "新世代宝马",
-      "onboard_time": 1776864381,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 562583,
@@ -737,6 +761,14 @@
       "onboard_time": 1776843141,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468457,
+      "num": 468457,
+      "word": "曝迪丽热巴和嘉行签了一年短约",
+      "onboard_time": 1776868642,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 466085,
@@ -931,14 +963,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 367189,
-      "num": 367189,
-      "word": "崔丽丽不再穿性侵时衣服出庭",
-      "onboard_time": 1776865101,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353997,
       "num": 284749,
       "word": "张翰回应去移民局",
@@ -985,6 +1009,14 @@
       "onboard_time": 1776867322,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328538,
+      "num": 328538,
+      "word": "6种常见癌症的早期信号",
+      "onboard_time": 1776862281,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321458,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1776849621,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307230,
-      "num": 307230,
-      "word": "6种常见癌症的早期信号",
-      "onboard_time": 1776862281,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307217,
@@ -1131,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278803,
+      "num": 699386,
+      "word": "AC米兰球员被曝参加集体嫖娼派对",
+      "onboard_time": 1776863122,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263691,
       "num": 263691,
       "word": "报考公安杨某媛与网传并非同一人",
       "onboard_time": 1776851481,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260259,
+      "num": 260259,
+      "word": "李冰冰回怼记者",
+      "onboard_time": 1776867682,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260047,
@@ -1155,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257915,
+      "num": 257915,
+      "word": "现货黄金",
+      "onboard_time": 1776867143,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 254361,
       "num": 241991,
       "word": "说好的谢楠乘风吴京在家带娃呢",
@@ -1168,14 +1216,6 @@
       "word": "崔丽丽被认定为十级伤残",
       "onboard_time": 1776861741,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251080,
-      "num": 554389,
-      "word": "女子脚踹保安前监控视频曝光",
-      "onboard_time": 1776866602,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1193,6 +1233,14 @@
       "onboard_time": 1776813978,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 243860,
+      "num": 243860,
+      "word": "杨紫扛剧能力",
+      "onboard_time": 1776867382,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 243533,
@@ -1291,12 +1339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215450,
-      "num": 215450,
-      "word": "杨紫扛剧能力",
-      "onboard_time": 1776867382,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 214689,
+      "num": 226006,
+      "word": "鸿蒙智行回应发布会被质疑出意外",
+      "onboard_time": 1776869425,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 212026,
+      "num": 212026,
+      "word": "问界M9价格",
+      "onboard_time": 1776869122,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 210296,
@@ -1452,7 +1508,7 @@
     },
     {
       "raw_hot": 179495,
-      "num": 304112,
+      "num": 443049,
       "word": "全新一代问界M9开启预售49.98万元起",
       "onboard_time": 1776866962,
       "rank": 38,
@@ -1497,14 +1553,6 @@
       "onboard_time": 1776781522,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 169649,
-      "num": 567234,
-      "word": "AC米兰球员被曝参加集体嫖娼派对",
-      "onboard_time": 1776863122,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 168476,
@@ -1569,14 +1617,6 @@
       "onboard_time": 1776846440,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 157305,
-      "num": 232043,
-      "word": "现货黄金",
-      "onboard_time": 1776867143,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 157000,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1776824359,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97385,
+      "num": 403540,
+      "word": "问界M6发布即提车五一开新车",
+      "onboard_time": 1776868584,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 94632,
