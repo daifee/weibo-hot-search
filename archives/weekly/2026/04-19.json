@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776940075947,
+  "endTime": 1776944394370,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1827613,
+      "num": 1178536,
+      "word": "保安扇女子耳光事件完整监控曝光",
+      "onboard_time": 1776936261,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1818581,
       "num": 660171,
       "word": "金莎晒结婚五金",
@@ -505,6 +513,14 @@
       "onboard_time": 1776758601,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1429720,
+      "num": 328630,
+      "word": "曾沛慈已婚",
+      "onboard_time": 1776942681,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1428446,
@@ -867,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1115853,
-      "num": 1178536,
-      "word": "保安扇女子耳光事件完整监控曝光",
-      "onboard_time": 1776936261,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1108193,
       "num": 391423,
       "word": "唐艺昕袜子都跳破了",
@@ -971,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1042400,
+      "num": 640809,
+      "word": "民政局回应马頔李纯结婚证是手写的",
+      "onboard_time": 1776932600,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1039501,
       "num": 1166320,
       "word": "宿迁vs南京",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1776739700,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1003823,
+      "num": 257529,
+      "word": "何润东和老婆是在夜店认识的",
+      "onboard_time": 1776942079,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002006,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 858345,
-      "num": 890252,
+      "num": 1078999,
       "word": "员工建600多个工作群离职拒交接",
       "onboard_time": 1776928279,
       "rank": 1,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1776611182,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 790879,
+      "num": 380522,
+      "word": "转卖女大学生电诈园要求撤掉报道",
+      "onboard_time": 1776938841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789883,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1776919582,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640809,
-      "num": 640809,
-      "word": "民政局回应马頔李纯结婚证是手写的",
-      "onboard_time": 1776932600,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 639262,
@@ -3043,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466589,
+      "num": 262853,
+      "word": "宋威龙张凌赫同品牌同姿势",
+      "onboard_time": 1776942500,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466085,
       "num": 563883,
       "word": "詹姆斯暴扣杀死比赛",
@@ -3372,7 +3404,7 @@
     },
     {
       "raw_hot": 417519,
-      "num": 388969,
+      "num": 564893,
       "word": "伊称已收到首笔霍尔木兹通行费",
       "onboard_time": 1776933320,
       "rank": 12,
@@ -3449,6 +3481,14 @@
       "onboard_time": 1776790816,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409931,
+      "num": 409931,
+      "word": "神仙肉",
+      "onboard_time": 1776939979,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 409363,
@@ -3755,14 +3795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 380522,
-      "num": 380522,
-      "word": "转卖女大学生电诈园要求撤掉报道",
-      "onboard_time": 1776938841,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380426,
       "num": 380426,
       "word": "杜兰特 火箭",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1776679943,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366261,
+      "num": 801416,
+      "word": "家长向老师索要试卷引发激烈争执",
+      "onboard_time": 1776939319,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365420,
@@ -4299,6 +4339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317479,
+      "num": 317479,
+      "word": "外国人震惊中国水果摊老板开门睡觉",
+      "onboard_time": 1776941899,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317151,
       "num": 397842,
       "word": "张雪机车四次第一被围剿",
@@ -4675,6 +4723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284942,
+      "num": 238175,
+      "word": "张凌赫田曦薇 假封面",
+      "onboard_time": 1776943581,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283768,
       "num": 323236,
       "word": "张凌赫凌探未来定档",
@@ -4937,6 +4993,14 @@
       "onboard_time": 1776683000,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264798,
+      "num": 264798,
+      "word": "小猫吐了一颗小乳牙",
+      "onboard_time": 1776942079,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 264513,
@@ -5427,6 +5491,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 233014,
+      "num": 233014,
+      "word": "后援会否认李卿恋情",
+      "onboard_time": 1776942079,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232785,
       "num": 364336,
       "word": "男子24岁仍未发育",
@@ -5633,6 +5705,14 @@
       "onboard_time": 1776675981,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 221405,
+      "num": 221405,
+      "word": "突然发现事缓则圆可能是真的",
+      "onboard_time": 1776942201,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 220935,
@@ -6331,6 +6411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191305,
+      "num": 547285,
+      "word": "KPL选手大会",
+      "onboard_time": 1776939019,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191304,
       "num": 191304,
       "word": "36岁颜如晶为自己挑选墓地",
@@ -6739,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171957,
+      "num": 171957,
+      "word": "杨洋怎么还长十年前的样子",
+      "onboard_time": 1776942079,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171936,
       "num": 178276,
       "word": "王嘉尔在推特怼黑粉",
@@ -6929,6 +7025,14 @@
       "onboard_time": 1776570200,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165386,
+      "num": 165386,
+      "word": "金枕榴莲已大量上市",
+      "onboard_time": 1776942320,
+      "rank": 42,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 164563,
@@ -7611,6 +7715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137433,
+      "num": 137433,
+      "word": "宫颈粘液栓是什么",
+      "onboard_time": 1776944059,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136940,
       "num": 230949,
       "word": "特朗普说若达成协议很可能去伊斯兰堡",
@@ -7624,6 +7736,14 @@
       "word": "骑士2比0猛龙",
       "onboard_time": 1776738140,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136609,
+      "num": 259765,
+      "word": "王楚钦独特合照视角",
+      "onboard_time": 1776942619,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -7665,6 +7785,14 @@
       "onboard_time": 1776774502,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133862,
+      "num": 133862,
+      "word": "孟子义李昀锐三搭热度登顶",
+      "onboard_time": 1776939080,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 133597,
@@ -7817,14 +7945,6 @@
       "onboard_time": 1776554117,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129272,
-      "num": 247787,
-      "word": "神仙肉",
-      "onboard_time": 1776939979,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 129026,
@@ -8259,6 +8379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114431,
+      "num": 245178,
+      "word": "春假11天秋假13天家长直呼受不了",
+      "onboard_time": 1776933019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114270,
       "num": 154434,
       "word": "网传华晨宇演唱会因泼水节延期",
@@ -8361,6 +8489,14 @@
       "onboard_time": 1776697702,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110023,
+      "num": 242840,
+      "word": "女子乘高铁被26寸行李箱砸伤头",
+      "onboard_time": 1776942920,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109614,
@@ -8521,6 +8657,14 @@
       "onboard_time": 1776868584,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 96965,
+      "num": 261438,
+      "word": "Image2 消除AI味儿",
+      "onboard_time": 1776943100,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 96481,
@@ -8779,6 +8923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86142,
+      "num": 116455,
+      "word": "伊媒首次发布扣押集装箱船画面",
+      "onboard_time": 1776942079,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85574,
       "num": 207644,
       "word": "李小冉 你吃过麻辣拌吗",
@@ -8816,6 +8968,14 @@
       "word": "女子机场两次拒绝帮陌生人带行李",
       "onboard_time": 1776501441,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84389,
+      "num": 115661,
+      "word": "掌掴停车女子保安已停职",
+      "onboard_time": 1776944300,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -9313,14 +9473,6 @@
       "onboard_time": 1776682881,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 61704,
-      "num": 246118,
-      "word": "KPL选手大会",
-      "onboard_time": 1776939019,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 60516,
@@ -10259,6 +10411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26307,
+      "num": 616876,
+      "word": "志愿军烈士遗骸安葬仪式",
+      "onboard_time": 1776927319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26136,
       "num": 228317,
       "word": "未来可能吃到粉色黄色红色蓝莓",
@@ -10273,6 +10433,14 @@
       "onboard_time": 1776575180,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25571,
+      "num": 198107,
+      "word": "岳麓书院官网被指有多处错别字",
+      "onboard_time": 1776943222,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25264,

@@ -1,6 +1,6 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776940075947,
+  "endTime": 1776944394370,
   "band_list": [
     {
       "raw_hot": 5961072,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827613,
+      "num": 1178536,
+      "word": "保安扇女子耳光事件完整监控曝光",
+      "onboard_time": 1776936261,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1763032,
       "num": 296826,
       "word": "男子被扒光绑树上婚闹现场视频曝光",
@@ -57,6 +65,14 @@
       "onboard_time": 1776859041,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1429720,
+      "num": 328630,
+      "word": "曾沛慈已婚",
+      "onboard_time": 1776942681,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1337021,
@@ -107,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1115853,
-      "num": 1178536,
-      "word": "保安扇女子耳光事件完整监控曝光",
-      "onboard_time": 1776936261,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1108193,
       "num": 391423,
       "word": "唐艺昕袜子都跳破了",
@@ -139,12 +147,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1042400,
+      "num": 640809,
+      "word": "民政局回应马頔李纯结婚证是手写的",
+      "onboard_time": 1776932600,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1014715,
       "num": 358961,
       "word": "普通人一生的收入",
       "onboard_time": 1776934401,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1003823,
+      "num": 257529,
+      "word": "何润东和老婆是在夜店认识的",
+      "onboard_time": 1776942079,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 961199,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 858345,
-      "num": 890252,
+      "num": 1078999,
       "word": "员工建600多个工作群离职拒交接",
       "onboard_time": 1776928279,
       "rank": 1,
@@ -233,6 +257,14 @@
       "onboard_time": 1776912079,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 790879,
+      "num": 380522,
+      "word": "转卖女大学生电诈园要求撤掉报道",
+      "onboard_time": 1776938841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 765488,
@@ -321,14 +353,6 @@
       "onboard_time": 1776919582,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640809,
-      "num": 640809,
-      "word": "民政局回应马頔李纯结婚证是手写的",
-      "onboard_time": 1776932600,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 624541,
@@ -475,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466589,
+      "num": 262853,
+      "word": "宋威龙张凌赫同品牌同姿势",
+      "onboard_time": 1776942500,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464615,
       "num": 360085,
       "word": "崔丽丽不再穿性侵时衣服出庭",
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 417519,
-      "num": 388969,
+      "num": 564893,
       "word": "伊称已收到首笔霍尔木兹通行费",
       "onboard_time": 1776933320,
       "rank": 12,
@@ -529,6 +561,14 @@
       "onboard_time": 1776854421,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409931,
+      "num": 409931,
+      "word": "神仙肉",
+      "onboard_time": 1776939979,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 408267,
@@ -595,14 +635,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 380522,
-      "num": 380522,
-      "word": "转卖女大学生电诈园要求撤掉报道",
-      "onboard_time": 1776938841,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377492,
       "num": 377492,
       "word": "曝夜巴黎逼迫主播跟鳄鱼同一个鱼缸",
@@ -625,6 +657,14 @@
       "onboard_time": 1776849259,
       "rank": 8,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 366261,
+      "num": 801416,
+      "word": "家长向老师索要试卷引发激烈争执",
+      "onboard_time": 1776939319,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362343,
@@ -681,6 +721,14 @@
       "onboard_time": 1776871881,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 317479,
+      "num": 317479,
+      "word": "外国人震惊中国水果摊老板开门睡觉",
+      "onboard_time": 1776941899,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315126,
@@ -769,6 +817,14 @@
       "onboard_time": 1776929480,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284942,
+      "num": 238175,
+      "word": "张凌赫田曦薇 假封面",
+      "onboard_time": 1776943581,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 282854,
@@ -883,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264798,
+      "num": 264798,
+      "word": "小猫吐了一颗小乳牙",
+      "onboard_time": 1776942079,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250148,
       "num": 250148,
       "word": "东皇太一bug已修复",
@@ -923,6 +987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 233014,
+      "num": 233014,
+      "word": "后援会否认李卿恋情",
+      "onboard_time": 1776942079,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232785,
       "num": 364336,
       "word": "男子24岁仍未发育",
@@ -953,6 +1025,14 @@
       "onboard_time": 1776905481,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221405,
+      "num": 221405,
+      "word": "突然发现事缓则圆可能是真的",
+      "onboard_time": 1776942201,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 218073,
@@ -1040,6 +1120,14 @@
       "word": "王者东皇太一禁用",
       "onboard_time": 1776934641,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191305,
+      "num": 547285,
+      "word": "KPL选手大会",
+      "onboard_time": 1776939019,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -1179,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171957,
+      "num": 171957,
+      "word": "杨洋怎么还长十年前的样子",
+      "onboard_time": 1776942079,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170136,
       "num": 402222,
       "word": "你们被催婚都这么好笑吗",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1776858081,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165386,
+      "num": 165386,
+      "word": "金枕榴莲已大量上市",
+      "onboard_time": 1776942320,
+      "rank": 42,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 164281,
@@ -1435,11 +1539,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137433,
+      "num": 137433,
+      "word": "宫颈粘液栓是什么",
+      "onboard_time": 1776944059,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136609,
+      "num": 259765,
+      "word": "王楚钦独特合照视角",
+      "onboard_time": 1776942619,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136062,
       "num": 127350,
       "word": "陈妍希申请强制执行",
       "onboard_time": 1776838280,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133862,
+      "num": 133862,
+      "word": "孟子义李昀锐三搭热度登顶",
+      "onboard_time": 1776939080,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1465,14 +1593,6 @@
       "onboard_time": 1776902780,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129272,
-      "num": 247787,
-      "word": "神仙肉",
-      "onboard_time": 1776939979,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 127640,
@@ -1547,12 +1667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114431,
+      "num": 245178,
+      "word": "春假11天秋假13天家长直呼受不了",
+      "onboard_time": 1776933019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112430,
       "num": 335659,
       "word": "怦然心动20岁",
       "onboard_time": 1776928700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110023,
+      "num": 242840,
+      "word": "女子乘高铁被26寸行李箱砸伤头",
+      "onboard_time": 1776942920,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105575,
@@ -1595,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96965,
+      "num": 261438,
+      "word": "Image2 消除AI味儿",
+      "onboard_time": 1776943100,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92178,
       "num": 92178,
       "word": "Monkey是猪不是侯",
@@ -1633,6 +1777,22 @@
       "onboard_time": 1776906679,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86142,
+      "num": 116455,
+      "word": "伊媒首次发布扣押集装箱船画面",
+      "onboard_time": 1776942079,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 84389,
+      "num": 115661,
+      "word": "掌掴停车女子保安已停职",
+      "onboard_time": 1776944300,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83420,
@@ -1737,14 +1897,6 @@
       "onboard_time": 1776916340,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 61704,
-      "num": 246118,
-      "word": "KPL选手大会",
-      "onboard_time": 1776939019,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 60306,
@@ -1913,6 +2065,22 @@
       "onboard_time": 1776923720,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26307,
+      "num": 616876,
+      "word": "志愿军烈士遗骸安葬仪式",
+      "onboard_time": 1776927319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 25571,
+      "num": 198107,
+      "word": "岳麓书院官网被指有多处错别字",
+      "onboard_time": 1776943222,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24473,

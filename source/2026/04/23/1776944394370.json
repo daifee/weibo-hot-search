@@ -1,0 +1,410 @@
+{
+  "runTime": 1776944394370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 493748,
+        "num": 1078999,
+        "word": "员工建600多个工作群离职拒交接",
+        "onboard_time": 1776928279,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 366261,
+        "num": 801416,
+        "word": "家长向老师索要试卷引发激烈争执",
+        "onboard_time": 1776939319,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26307,
+        "num": 616876,
+        "word": "志愿军烈士遗骸安葬仪式",
+        "onboard_time": 1776927319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277971,
+        "num": 564893,
+        "word": "伊称已收到首笔霍尔木兹通行费",
+        "onboard_time": 1776933320,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191305,
+        "num": 547285,
+        "word": "KPL选手大会",
+        "onboard_time": 1776939019,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 543457,
+        "num": 543457,
+        "word": "食物热量越来越极端了",
+        "onboard_time": 1776930381,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409931,
+        "num": 409931,
+        "word": "神仙肉",
+        "onboard_time": 1776939979,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342756,
+        "num": 342756,
+        "word": "花251块买的女装",
+        "onboard_time": 1776928520,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230999,
+        "num": 340455,
+        "word": "泰国榴莲正在疯狂涌入",
+        "onboard_time": 1776928760,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135200,
+        "num": 333475,
+        "word": "1台车7个月狂揽400亿",
+        "onboard_time": 1776931700,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1429720,
+        "num": 328630,
+        "word": "曾沛慈已婚",
+        "onboard_time": 1776942681,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1400279,
+        "num": 317674,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317479,
+        "num": 317479,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1042400,
+        "num": 311865,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715261,
+        "num": 298214,
+        "word": "唐艺昕袜子都跳破了",
+        "onboard_time": 1776936141,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264798,
+        "num": 264798,
+        "word": "小猫吐了一颗小乳牙",
+        "onboard_time": 1776942079,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493918,
+        "num": 264026,
+        "word": "金莎线下状态",
+        "onboard_time": 1776937460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466589,
+        "num": 262853,
+        "word": "宋威龙张凌赫同品牌同姿势",
+        "onboard_time": 1776942500,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96965,
+        "num": 261438,
+        "word": "Image2 消除AI味儿",
+        "onboard_time": 1776943100,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136609,
+        "num": 259765,
+        "word": "王楚钦独特合照视角",
+        "onboard_time": 1776942619,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1003823,
+        "num": 257529,
+        "word": "何润东和老婆是在夜店认识的",
+        "onboard_time": 1776942079,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880517,
+        "num": 256534,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405612,
+        "num": 254178,
+        "word": "朴宝剑张元英 演员脸和爱豆脸",
+        "onboard_time": 1776935240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627425,
+        "num": 253387,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468545,
+        "num": 251593,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431832,
+        "num": 249059,
+        "word": "何润东 那年花开月正圆",
+        "onboard_time": 1776937101,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99291,
+        "num": 247777,
+        "word": "A股 4100点",
+        "onboard_time": 1776926660,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 421955,
+        "num": 246993,
+        "word": "华晨宇演唱会场地开始拆了",
+        "onboard_time": 1776937881,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114431,
+        "num": 245178,
+        "word": "春假11天秋假13天家长直呼受不了",
+        "onboard_time": 1776933019,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 242840,
+        "word": "女子乘高铁被26寸行李箱砸伤头",
+        "onboard_time": 1776942920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207158,
+        "num": 241508,
+        "word": "医生提醒40至60岁为神经梅毒高发人群",
+        "onboard_time": 1776923778,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 790879,
+        "num": 239573,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284942,
+        "num": 238175,
+        "word": "张凌赫田曦薇 假封面",
+        "onboard_time": 1776943581,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237666,
+        "num": 237666,
+        "word": "谢娜在浪姐群发张杰",
+        "onboard_time": 1776935719,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1827613,
+        "num": 235889,
+        "word": "保安扇女子耳光事件完整监控曝光",
+        "onboard_time": 1776936261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233014,
+        "num": 233014,
+        "word": "后援会否认李卿恋情",
+        "onboard_time": 1776942079,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326888,
+        "num": 230395,
+        "word": "iPhone18ProMax金属机模",
+        "onboard_time": 1776935300,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225932,
+        "num": 225932,
+        "word": "鹿晗去王勉家带了臭豆腐",
+        "onboard_time": 1776936620,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221405,
+        "num": 221405,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25571,
+        "num": 198107,
+        "word": "岳麓书院官网被指有多处错别字",
+        "onboard_time": 1776943222,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180564,
+        "num": 180564,
+        "word": "第一次感受到相亲的无力感",
+        "onboard_time": 1776931460,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171957,
+        "num": 171957,
+        "word": "杨洋怎么还长十年前的样子",
+        "onboard_time": 1776942079,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165386,
+        "num": 165386,
+        "word": "金枕榴莲已大量上市",
+        "onboard_time": 1776942320,
+        "rank": 42,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "曝快手表哥公会签约多名未成年艺人",
+        "onboard_time": 1776931580,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147997,
+        "num": 147997,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1776939680,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137433,
+        "num": 137433,
+        "word": "宫颈粘液栓是什么",
+        "onboard_time": 1776944059,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133862,
+        "num": 133862,
+        "word": "孟子义李昀锐三搭热度登顶",
+        "onboard_time": 1776939080,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128789,
+        "num": 128789,
+        "word": "李小冉对王濛说大人说话别插嘴",
+        "onboard_time": 1776929780,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86142,
+        "num": 116455,
+        "word": "伊媒首次发布扣押集装箱船画面",
+        "onboard_time": 1776942079,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84389,
+        "num": 115661,
+        "word": "掌掴停车女子保安已停职",
+        "onboard_time": 1776944300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把义乌发展经验进一步总结好运用好#"
+    }
+  }
+}
