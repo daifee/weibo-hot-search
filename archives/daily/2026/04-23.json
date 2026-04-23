@@ -1,10 +1,10 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776902073324,
+  "endTime": 1776903013183,
   "band_list": [
     {
       "raw_hot": 2166973,
-      "num": 366259,
+      "num": 448455,
       "word": "朴信惠眼睛 断崖式衰老",
       "onboard_time": 1776857299,
       "rank": 10,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 961199,
-      "num": 605387,
+      "num": 609630,
       "word": "周杰伦王俊凯 中餐厅",
       "onboard_time": 1776866362,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 959540,
+      "num": 1153526,
+      "word": "儿子因父亲逼自己分手失联16年",
+      "onboard_time": 1776873439,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 765488,
@@ -59,12 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 663206,
-      "num": 1048630,
-      "word": "儿子因父亲逼自己分手失联16年",
-      "onboard_time": 1776873439,
-      "rank": 24,
+      "raw_hot": 657243,
+      "num": 859061,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624541,
+      "num": 624541,
+      "word": "原来前额叶成熟是这样的",
+      "onboard_time": 1776877997,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 523411,
@@ -73,14 +89,6 @@
       "onboard_time": 1776875598,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 522996,
-      "num": 522996,
-      "word": "原来前额叶成熟是这样的",
-      "onboard_time": 1776877997,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 497577,
@@ -99,12 +107,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 489841,
-      "num": 744394,
-      "word": "女生受邀去泰国泼水节被转卖电诈园",
-      "onboard_time": 1776872720,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 494462,
+      "num": 494462,
+      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
+      "onboard_time": 1776897977,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 493104,
+      "num": 493104,
+      "word": "樊振东说仍在路上",
+      "onboard_time": 1776901038,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 487308,
@@ -129,14 +145,6 @@
       "onboard_time": 1776859161,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 431532,
-      "num": 431532,
-      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
-      "onboard_time": 1776897977,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 424459,
@@ -195,12 +203,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 352273,
+      "raw_hot": 362343,
       "num": 698905,
       "word": "朝鲜发声要求日本向中国道歉",
       "onboard_time": 1776865043,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 347315,
+      "num": 347315,
+      "word": "奥利奥 时代少年团",
+      "onboard_time": 1776900619,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 323373,
@@ -219,12 +235,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 310872,
-      "num": 233588,
-      "word": "樊振东说仍在路上",
-      "onboard_time": 1776901038,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 309462,
+      "num": 457979,
+      "word": "首位外籍航天员将进入中国空间站",
+      "onboard_time": 1776890472,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280749,
@@ -291,20 +307,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 230473,
-      "num": 230473,
-      "word": "首位外籍航天员将进入中国空间站",
-      "onboard_time": 1776890472,
-      "rank": 24,
+      "raw_hot": 236666,
+      "num": 236666,
+      "word": "女子怒怼空乘不会中文还飞国际航班",
+      "onboard_time": 1776902239,
+      "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230175,
-      "num": 179994,
-      "word": "奥利奥 时代少年团",
-      "onboard_time": 1776900619,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 211533,
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178056,
+      "num": 178056,
+      "word": "美股纳指飙升",
+      "onboard_time": 1776900439,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175564,
       "num": 175564,
       "word": "陈妍希告了陈晓粉丝",
@@ -403,11 +419,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "伊能静张豆豆发生争执被孙杨识破",
+      "onboard_time": 1776902780,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160443,
       "num": 160443,
       "word": "中国第二条跨省地铁",
       "onboard_time": 1776872839,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158097,
+      "num": 158097,
+      "word": "崔丽丽受访前当场躯体化发作",
+      "onboard_time": 1776881654,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -435,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150934,
-      "num": 150934,
-      "word": "美股纳指飙升",
-      "onboard_time": 1776900439,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 149467,
+      "num": 142247,
+      "word": "张艺凡人前女明星人后不认识",
+      "onboard_time": 1776900499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 147686,
@@ -459,12 +491,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142251,
+      "num": 139891,
+      "word": "父亲回应女儿赴泰过泼水节被卖园区",
+      "onboard_time": 1776902780,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139751,
+      "num": 143940,
+      "word": "疑发现金矿8岁男童父亲发声",
+      "onboard_time": 1776900317,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136062,
       "num": 127350,
       "word": "陈妍希申请强制执行",
       "onboard_time": 1776838280,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133597,
+      "num": 141514,
+      "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
+      "onboard_time": 1776901579,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130347,
+      "num": 130347,
+      "word": "女子踹人前被保安关车门夹腿",
+      "onboard_time": 1776902780,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127640,
@@ -483,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120649,
-      "num": 146651,
-      "word": "崔丽丽受访前当场躯体化发作",
-      "onboard_time": 1776881654,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 119648,
+      "num": 451136,
+      "word": "切尔西解雇罗塞尼尔",
+      "onboard_time": 1776899598,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119369,
@@ -507,39 +571,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112967,
-      "num": 143940,
-      "word": "疑发现金矿8岁男童父亲发声",
-      "onboard_time": 1776900317,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109658,
-      "num": 142247,
-      "word": "张艺凡人前女明星人后不认识",
-      "onboard_time": 1776900499,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 107236,
-      "num": 141514,
-      "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
-      "onboard_time": 1776901579,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105528,
-      "num": 235654,
-      "word": "切尔西解雇罗塞尼尔",
-      "onboard_time": 1776899598,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87825,
+      "raw_hot": 114970,
       "num": 138640,
       "word": "嫌1千太贵车被淹后花8千救出",
       "onboard_time": 1776901699,
@@ -547,12 +579,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85798,
+      "raw_hot": 97956,
+      "num": 97956,
+      "word": "A股CPO诞生4只翻倍牛股",
+      "onboard_time": 1776902720,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97634,
       "num": 138121,
       "word": "再痛也只能挂儿科",
       "onboard_time": 1776877217,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92178,
+      "num": 92178,
+      "word": "Monkey是猪不是侯",
+      "onboard_time": 1776902720,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87367,
+      "num": 673319,
+      "word": "中国在月球留下了新的名字",
+      "onboard_time": 1776863182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77198,
@@ -569,14 +625,6 @@
       "onboard_time": 1776876198,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 73980,
-      "num": 673319,
-      "word": "中国在月球留下了新的名字",
-      "onboard_time": 1776863182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72414,

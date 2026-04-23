@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776902073324,
+  "endTime": 1776903013183,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -1003,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 959540,
+      "num": 1153526,
+      "word": "儿子因父亲逼自己分手失联16年",
+      "onboard_time": 1776873439,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 959187,
       "num": 304290,
       "word": "肖战代言尚界",
@@ -1763,20 +1771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663206,
-      "num": 1048630,
-      "word": "儿子因父亲逼自己分手失联16年",
-      "onboard_time": 1776873439,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 657656,
       "num": 392818,
       "word": "易梦玲是瘦了还是do脸了",
       "onboard_time": 1776685221,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657243,
+      "num": 859061,
+      "word": "女生受邀去泰国泼水节被转卖电诈园",
+      "onboard_time": 1776872720,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 656264,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1776556098,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624541,
+      "num": 624541,
+      "word": "原来前额叶成熟是这样的",
+      "onboard_time": 1776877997,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 622036,
@@ -2323,14 +2339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 522996,
-      "num": 522996,
-      "word": "原来前额叶成熟是这样的",
-      "onboard_time": 1776877997,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 519840,
       "num": 379078,
       "word": "陈奕恒的手机壁纸是jennie",
@@ -2475,6 +2483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494462,
+      "num": 494462,
+      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
+      "onboard_time": 1776897977,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 493104,
+      "num": 493104,
+      "word": "樊振东说仍在路上",
+      "onboard_time": 1776901038,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492559,
       "num": 437147,
       "word": "官方通报卸沙现场出现一具男尸",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1776604522,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 489841,
-      "num": 744394,
-      "word": "女生受邀去泰国泼水节被转卖电诈园",
-      "onboard_time": 1776872720,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 487715,
@@ -2881,14 +2897,6 @@
       "onboard_time": 1776593781,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 431532,
-      "num": 431532,
-      "word": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
-      "onboard_time": 1776897977,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 429849,
@@ -3555,6 +3563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 347315,
+      "num": 347315,
+      "word": "奥利奥 时代少年团",
+      "onboard_time": 1776900619,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346751,
       "num": 352999,
       "word": "东莞一男子把唇上肿瘤当痘痘挤了8年",
@@ -3883,14 +3899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310872,
-      "num": 233588,
-      "word": "樊振东说仍在路上",
-      "onboard_time": 1776901038,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309910,
       "num": 236410,
       "word": "幼童被父亲女友虐死前说我爱妈妈",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1776562400,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309462,
+      "num": 457979,
+      "word": "首位外籍航天员将进入中国空间站",
+      "onboard_time": 1776890472,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309108,
@@ -4755,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236666,
+      "num": 236666,
+      "word": "女子怒怼空乘不会中文还飞国际航班",
+      "onboard_time": 1776902239,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236499,
       "num": 433410,
       "word": "英国2008年后出生者终身禁止购烟",
@@ -4819,28 +4843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230473,
-      "num": 230473,
-      "word": "首位外籍航天员将进入中国空间站",
-      "onboard_time": 1776890472,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230449,
       "num": 236241,
       "word": "中方就伊朗向印度船只开火表态",
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230175,
-      "num": 179994,
-      "word": "奥利奥 时代少年团",
-      "onboard_time": 1776900619,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 229944,
@@ -5883,6 +5891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178056,
+      "num": 178056,
+      "word": "美股纳指飙升",
+      "onboard_time": 1776900439,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177503,
       "num": 177503,
       "word": "NBA公布MVP候选名单",
@@ -6147,6 +6163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "伊能静张豆豆发生争执被孙杨识破",
+      "onboard_time": 1776902780,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162848,
       "num": 345549,
       "word": "中方回应美国拦截中国油轮",
@@ -6283,6 +6307,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 158097,
+      "num": 158097,
+      "word": "崔丽丽受访前当场躯体化发作",
+      "onboard_time": 1776881654,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157780,
       "num": 157780,
       "word": "麦迪娜 我怎么觉得女儿更像我",
@@ -6411,14 +6443,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150934,
-      "num": 150934,
-      "word": "美股纳指飙升",
-      "onboard_time": 1776900439,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 150840,
       "num": 300665,
       "word": "女子34万装修踩坑极简风变灵堂风",
@@ -6489,6 +6513,14 @@
       "onboard_time": 1776524423,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149467,
+      "num": 142247,
+      "word": "张艺凡人前女明星人后不认识",
+      "onboard_time": 1776900499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 149332,
@@ -6603,6 +6635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 142251,
+      "num": 139891,
+      "word": "父亲回应女儿赴泰过泼水节被卖园区",
+      "onboard_time": 1776902780,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142125,
       "num": 142125,
       "word": "iG对战TES",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1776641479,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139751,
+      "num": 143940,
+      "word": "疑发现金矿8岁男童父亲发声",
+      "onboard_time": 1776900317,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138645,
@@ -6704,6 +6752,14 @@
       "word": "男子买千万保险本金105岁才能取",
       "onboard_time": 1776774502,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133597,
+      "num": 141514,
+      "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
+      "onboard_time": 1776901579,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -6817,6 +6873,14 @@
       "onboard_time": 1776742520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130347,
+      "num": 130347,
+      "word": "女子踹人前被保安关车门夹腿",
+      "onboard_time": 1776902780,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130146,
@@ -7083,12 +7147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120649,
-      "num": 146651,
-      "word": "崔丽丽受访前当场躯体化发作",
-      "onboard_time": 1776881654,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 119648,
+      "num": 451136,
+      "word": "切尔西解雇罗塞尼尔",
+      "onboard_time": 1776899598,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119369,
@@ -7243,6 +7307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114970,
+      "num": 138640,
+      "word": "嫌1千太贵车被淹后花8千救出",
+      "onboard_time": 1776901699,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114270,
       "num": 154434,
       "word": "网传华晨宇演唱会因泼水节延期",
@@ -7265,14 +7337,6 @@
       "onboard_time": 1776608902,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112967,
-      "num": 143940,
-      "word": "疑发现金矿8岁男童父亲发声",
-      "onboard_time": 1776900317,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112865,
@@ -7355,14 +7419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109658,
-      "num": 142247,
-      "word": "张艺凡人前女明星人后不认识",
-      "onboard_time": 1776900499,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109614,
       "num": 215516,
       "word": "余承东称Pura90PM不贴膜放心用",
@@ -7395,27 +7451,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107236,
-      "num": 141514,
-      "word": "幼童鼻腔取出蚂蝗半年后气管内又有",
-      "onboard_time": 1776901579,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106011,
       "num": 162114,
       "word": "掘金1比0森林狼",
       "onboard_time": 1776556098,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105528,
-      "num": 235654,
-      "word": "切尔西解雇罗塞尼尔",
-      "onboard_time": 1776899598,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -7475,6 +7515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97956,
+      "num": 97956,
+      "word": "A股CPO诞生4只翻倍牛股",
+      "onboard_time": 1776902720,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97867,
       "num": 213001,
       "word": "近70款车集体降价",
@@ -7489,6 +7537,14 @@
       "onboard_time": 1776533536,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97634,
+      "num": 138121,
+      "word": "再痛也只能挂儿科",
+      "onboard_time": 1776877217,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 97385,
@@ -7603,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92178,
+      "num": 92178,
+      "word": "Monkey是猪不是侯",
+      "onboard_time": 1776902720,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92135,
       "num": 1027825,
       "word": "接英雄回家",
@@ -7667,14 +7731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87825,
-      "num": 138640,
-      "word": "嫌1千太贵车被淹后花8千救出",
-      "onboard_time": 1776901699,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87397,
       "num": 289701,
       "word": "零跑直播",
@@ -7729,14 +7785,6 @@
       "onboard_time": 1776553516,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85798,
-      "num": 138121,
-      "word": "再痛也只能挂儿科",
-      "onboard_time": 1776877217,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 85574,
