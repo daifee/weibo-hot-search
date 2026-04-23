@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/24 00:18:26 ~ 2026/04/24 03:23:20
+本榜单时间：2026/04/24 00:18:26 ~ 2026/04/24 03:50:52
 </p>
 </blockquote>
 <p>
@@ -412,7 +412,7 @@ Bin状态（热度：40897）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8C%A4%E5%85%AC%E4%BA%A4%E7%A6%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
-老人挤公交离世家属索赔70万被驳回（热度：32814）
+老人挤公交离世家属索赔70万被驳回（热度：32832）
 </a>
 </li>
 
@@ -423,8 +423,32 @@ Bin状态（热度：40897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方回应男保安掌掴女司机事件（热度：29646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA1.6%E4%B8%87%E6%8B%9B%E4%BA%BA%E6%94%BE3000%E5%8F%AA%E7%BE%8A%E8%80%81%E6%9D%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+月薪1.6万招人放3000只羊老板发声（热度：27121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2330%E5%A4%9A%E5%9B%BD%E5%BC%80%E4%BC%9A%E8%AE%A1%E5%88%92%E9%87%8D%E5%90%AF%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
+30多国开会计划重启霍尔木兹海峡（热度：21264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E4%B8%9A%E8%BF%99%E4%BA%9B%E9%A2%86%E5%9F%9F%E5%B0%86%E8%BF%8E%E5%A4%A7%E6%94%B9%E5%8F%98%23" target="weibo">
 服务业这些领域将迎大改变（热度：19746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23care%E7%8E%8B%E6%9C%9D%23" target="weibo">
+care王朝（热度：17742）
 </a>
 </li>
 

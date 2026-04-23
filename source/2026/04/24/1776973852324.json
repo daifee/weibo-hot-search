@@ -1,0 +1,410 @@
+{
+  "runTime": 1776973852324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195452,
+        "num": 195452,
+        "word": "月薪1.6万招人放羊包吃住有WiFi",
+        "onboard_time": 1776958879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152264,
+        "num": 152264,
+        "word": "爱喝无糖饮料的天塌了",
+        "onboard_time": 1776963137,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11412,
+        "num": 123095,
+        "word": "服务业这些领域将迎大改变",
+        "onboard_time": 1776948321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95234,
+        "num": 95234,
+        "word": "人怎么可以争气成这样",
+        "onboard_time": 1776948621,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70438,
+        "num": 70438,
+        "word": "对斤数没概念就这样",
+        "onboard_time": 1776963617,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60464,
+        "num": 60464,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54554,
+        "num": 54554,
+        "word": "15斤的小猫把床压塌了",
+        "onboard_time": 1776963617,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41920,
+        "num": 54532,
+        "word": "陈飞宇白日提灯收官文",
+        "onboard_time": 1776960260,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10869,
+        "num": 54420,
+        "word": "华为乾崑智驾ADS5",
+        "onboard_time": 1776946639,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2204,
+        "num": 54406,
+        "word": "异环公测",
+        "onboard_time": 1776917301,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114376,
+        "num": 54276,
+        "word": "陈泽报备",
+        "onboard_time": 1776953843,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89130,
+        "num": 54268,
+        "word": "华谊兄弟被申请破产重整",
+        "onboard_time": 1776954622,
+        "rank": 11,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17742,
+        "num": 54143,
+        "word": "care王朝",
+        "onboard_time": 1776972975,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73198,
+        "num": 54086,
+        "word": "王濛澄清和周洋不是真谈了",
+        "onboard_time": 1776957022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55010,
+        "num": 54047,
+        "word": "女子减肥断碳水43天查出糖尿病前期",
+        "onboard_time": 1776958460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54583,
+        "num": 53976,
+        "word": "女子网购1450单全退货店家损失12万",
+        "onboard_time": 1776963617,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53923,
+        "num": 53923,
+        "word": "女子指甲总长13米涂一次需20瓶指甲油",
+        "onboard_time": 1776946041,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45219,
+        "num": 53909,
+        "word": "男子杀妻抛尸家属称没发现二人不和",
+        "onboard_time": 1776958641,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39824,
+        "num": 53896,
+        "word": "崔丽丽连说两遍我不服我不服",
+        "onboard_time": 1776955823,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38535,
+        "num": 53884,
+        "word": "焦虑是你太想要掌控",
+        "onboard_time": 1776967935,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98619,
+        "num": 53864,
+        "word": "曝华晨宇演唱会前期投入好几个亿",
+        "onboard_time": 1776957201,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37431,
+        "num": 53842,
+        "word": "教育部门已介入女生被卖到电诈园案",
+        "onboard_time": 1776956362,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36804,
+        "num": 53830,
+        "word": "两辈子第一次见",
+        "onboard_time": 1776964456,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36426,
+        "num": 53810,
+        "word": "医生回应40岁女子未婚未育得妇科癌",
+        "onboard_time": 1776956782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34445,
+        "num": 53802,
+        "word": "员工15年无年假月薪降到600后醒了",
+        "onboard_time": 1776954622,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 32832,
+        "num": 53789,
+        "word": "老人挤公交离世家属索赔70万被驳回",
+        "onboard_time": 1776970275,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30991,
+        "num": 53767,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30193,
+        "num": 53747,
+        "word": "业内谈华晨宇演唱会场地搭建难度",
+        "onboard_time": 1776951322,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29975,
+        "num": 53741,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13472,
+        "num": 53720,
+        "word": "学位证被指无效男子举报自己求核查",
+        "onboard_time": 1776958641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33766,
+        "num": 53710,
+        "word": "外国人称翻译让他知道日本人的肮脏",
+        "onboard_time": 1776963617,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29646,
+        "num": 53685,
+        "word": "警方回应男保安掌掴女司机事件",
+        "onboard_time": 1776972553,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29246,
+        "num": 53671,
+        "word": "30岁宝妈每天只睡3小时查出乳腺癌",
+        "onboard_time": 1776951922,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27813,
+        "num": 53661,
+        "word": "夜巴黎直播平台是怎么监管的",
+        "onboard_time": 1776969016,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27490,
+        "num": 53639,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27121,
+        "num": 53630,
+        "word": "月薪1.6万招人放3000只羊老板发声",
+        "onboard_time": 1776972673,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26933,
+        "num": 53603,
+        "word": "职场会让人产生巨大的认知偏差",
+        "onboard_time": 1776964396,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26877,
+        "num": 53590,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24963,
+        "num": 53576,
+        "word": "小米首次登顶全球开源大模型第一",
+        "onboard_time": 1776954322,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23861,
+        "num": 53566,
+        "word": "NIP战胜BLG",
+        "onboard_time": 1776952643,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23356,
+        "num": 53542,
+        "word": "美部长称600美元降到10美元是降价600%",
+        "onboard_time": 1776946101,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22397,
+        "num": 53530,
+        "word": "白银大跌特跌",
+        "onboard_time": 1776956241,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 53519,
+        "word": "宫颈粘液栓是什么",
+        "onboard_time": 1776944059,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21744,
+        "num": 53498,
+        "word": "女子打减肥针半年减70斤险危及生命",
+        "onboard_time": 1776955641,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21264,
+        "num": 53473,
+        "word": "30多国开会计划重启霍尔木兹海峡",
+        "onboard_time": 1776972074,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20241,
+        "num": 53462,
+        "word": "小猫吐了一颗小乳牙",
+        "onboard_time": 1776942079,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20221,
+        "num": 53450,
+        "word": "印度大举进口250万吨尿素",
+        "onboard_time": 1776956002,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 53428,
+        "word": "耳洞上的窝窝 体表唯一迷走神经",
+        "onboard_time": 1776963617,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19524,
+        "num": 53414,
+        "word": "百年乒乓纪录片第一个镜头是王楚钦",
+        "onboard_time": 1776953602,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 53400,
+        "word": "22岁男生失联近20天最后定位在缅甸",
+        "onboard_time": 1776960079,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民海军一定能够不辱使命不负重托#"
+    }
+  }
+}

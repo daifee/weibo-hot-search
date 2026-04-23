@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/24 03:23:20
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/24 03:50:52
 </p>
 </blockquote>
 <p>
@@ -8092,7 +8092,7 @@ MLTT回应樊振东微博（热度：41031）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8C%A4%E5%85%AC%E4%BA%A4%E7%A6%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
-老人挤公交离世家属索赔70万被驳回（热度：32814）
+老人挤公交离世家属索赔70万被驳回（热度：32832）
 </a>
 </li>
 
@@ -8153,6 +8153,12 @@ MLTT回应樊振东微博（热度：41031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E8%80%81%E4%BA%BA%E7%A7%B0%E4%BD%93%E5%86%85%E9%81%97%E7%95%9945%E5%B9%B4%E5%89%8D%E7%BA%B1%E5%B8%83%23" target="weibo">
 73岁老人称体内遗留45年前纱布（热度：29906）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方回应男保安掌掴女司机事件（热度：29646）
 </a>
 </li>
 
@@ -8225,6 +8231,12 @@ Pura 90发布会（热度：27237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E9%80%9A%E5%A4%B4%E5%83%8F%E7%AB%9F%E6%88%90%E5%A4%A9%E7%84%B6%E5%8F%8D%E8%AF%88%E6%8A%A4%E8%BA%AB%E7%AC%A6%23" target="weibo">
 卡通头像竟成天然反诈护身符（热度：27226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA1.6%E4%B8%87%E6%8B%9B%E4%BA%BA%E6%94%BE3000%E5%8F%AA%E7%BE%8A%E8%80%81%E6%9D%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+月薪1.6万招人放3000只羊老板发声（热度：27121）
 </a>
 </li>
 
@@ -8379,6 +8391,12 @@ colorwalk超出片的（热度：22156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2330%E5%A4%9A%E5%9B%BD%E5%BC%80%E4%BC%9A%E8%AE%A1%E5%88%92%E9%87%8D%E5%90%AF%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23" target="weibo">
+30多国开会计划重启霍尔木兹海峡（热度：21264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23deepseek%E5%B4%A9%E4%BA%86%23" target="weibo">
 deepseek崩了（热度：21213）
 </a>
@@ -8435,6 +8453,12 @@ deepseek崩了（热度：21213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%81%B6%E4%BD%9C%E5%89%A7%E9%93%85%E7%AC%94%E6%89%8E%E8%BF%9B%E8%87%80%E9%83%A8%23" target="weibo">
 9岁男孩被同学恶作剧铅笔扎进臀部（热度：18181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23care%E7%8E%8B%E6%9C%9D%23" target="weibo">
+care王朝（热度：17742）
 </a>
 </li>
 
