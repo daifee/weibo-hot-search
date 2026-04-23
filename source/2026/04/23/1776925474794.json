@@ -1,0 +1,410 @@
+{
+  "runTime": 1776925474794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888478,
+        "num": 1142156,
+        "word": "QQ音乐巅峰榜十大艺人",
+        "onboard_time": 1776913820,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 640978,
+        "num": 848971,
+        "word": "教育局回应保安在小学附近掌掴女子",
+        "onboard_time": 1776919582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42613,
+        "num": 829817,
+        "word": "人民海军成立77周年",
+        "onboard_time": 1776911239,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1006280,
+        "num": 829148,
+        "word": "用奶茶袋子当通勤包的人小心",
+        "onboard_time": 1776914720,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 828116,
+        "num": 828116,
+        "word": "金莎孙丞潇备孕",
+        "onboard_time": 1776922280,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640465,
+        "num": 640465,
+        "word": "镜片装反孩子暴涨到900度妈妈崩溃",
+        "onboard_time": 1776911359,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735091,
+        "num": 635478,
+        "word": "马頔李纯结婚证是手写的",
+        "onboard_time": 1776920122,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327958,
+        "num": 629727,
+        "word": "医生提醒40至60岁为神经梅毒高发人群",
+        "onboard_time": 1776923778,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259308,
+        "num": 620189,
+        "word": "亚马尔赛季报销",
+        "onboard_time": 1776917781,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248188,
+        "num": 608977,
+        "word": "库克称苹果地图发布是首个重大错误",
+        "onboard_time": 1776909499,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1293406,
+        "num": 598543,
+        "word": "男子整日疑妻出轨确诊神经梅毒晚期",
+        "onboard_time": 1776915980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922290,
+        "num": 583577,
+        "word": "女生游泳月卡只用23天",
+        "onboard_time": 1776914180,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 803029,
+        "num": 575354,
+        "word": "学历全家最高 工资全家最低",
+        "onboard_time": 1776914000,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572665,
+        "num": 572665,
+        "word": "进博物馆才知道针孔摄像头这么小",
+        "onboard_time": 1776915800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503525,
+        "num": 503525,
+        "word": "宋慧乔长发现身",
+        "onboard_time": 1776922340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396711,
+        "num": 396711,
+        "word": "赛后嫖娼派对套餐价格达数千欧元",
+        "onboard_time": 1776919521,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 377492,
+        "num": 377492,
+        "word": "曝夜巴黎逼迫主播跟鳄鱼同一个鱼缸",
+        "onboard_time": 1776917661,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332605,
+        "num": 332605,
+        "word": "陈奕恒王橹杰左奇函韩国到达",
+        "onboard_time": 1776922280,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153672,
+        "num": 329097,
+        "word": "踹保安后被掌掴女子耳膜穿孔",
+        "onboard_time": 1776924741,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116465,
+        "num": 321719,
+        "word": "曝广州一知名酒楼吃出嚼过的槟榔",
+        "onboard_time": 1776924501,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 242436,
+        "num": 317999,
+        "word": "异环",
+        "onboard_time": 1776924920,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1746071,
+        "num": 307037,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1201492,
+        "num": 305686,
+        "word": "宋祖儿 刘宇宁",
+        "onboard_time": 1776914000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279454,
+        "num": 297969,
+        "word": "男子痴呆与20年前高危性行为史有关",
+        "onboard_time": 1776917721,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294218,
+        "num": 294218,
+        "word": "娜扎 这真是人类能长出来的脸吗",
+        "onboard_time": 1776917181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1763032,
+        "num": 294136,
+        "word": "男子被扒光绑树上婚闹现场视频曝光",
+        "onboard_time": 1776917781,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285598,
+        "num": 285598,
+        "word": "李小冉王濛乘风的沈腾马丽",
+        "onboard_time": 1776924201,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294772,
+        "num": 275961,
+        "word": "曝刘宇宁宋祖儿同款地板家具",
+        "onboard_time": 1776905601,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252119,
+        "num": 252119,
+        "word": "面试把公司聊解散了",
+        "onboard_time": 1776910638,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211060,
+        "num": 244560,
+        "word": "3大避孕套品牌回应涨价",
+        "onboard_time": 1776922160,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273258,
+        "num": 243766,
+        "word": "伊能静说孙杨不靠谱",
+        "onboard_time": 1776924440,
+        "rank": 30,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 239004,
+        "num": 239004,
+        "word": "张凌赫帮粉丝修图",
+        "onboard_time": 1776910940,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221759,
+        "num": 221759,
+        "word": "男子24岁仍未发育",
+        "onboard_time": 1776921021,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227943,
+        "num": 221166,
+        "word": "百花杀hi6剧宣",
+        "onboard_time": 1776923600,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218073,
+        "num": 218073,
+        "word": "谢娜李小冉回应不和传闻",
+        "onboard_time": 1776925161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180132,
+        "num": 180132,
+        "word": "公司能抠门到什么程度",
+        "onboard_time": 1776918142,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45889,
+        "num": 175735,
+        "word": "郑州公园里放下手机捧起书",
+        "onboard_time": 1776924682,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 182938,
+        "num": 174790,
+        "word": "尹正 嫌尬了滚出去",
+        "onboard_time": 1776903200,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173025,
+        "num": 173025,
+        "word": "弦子李茂儿子正面照",
+        "onboard_time": 1776916822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170398,
+        "num": 170398,
+        "word": "4家A股公司集体跌停",
+        "onboard_time": 1776923300,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168315,
+        "num": 168315,
+        "word": "捡了条小奶狗越长越不对劲",
+        "onboard_time": 1776924861,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168117,
+        "num": 168117,
+        "word": "马頔一个人把妻旅老婆团夸成翘嘴",
+        "onboard_time": 1776914059,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167253,
+        "num": 167253,
+        "word": "李昀锐公主抱最痛的一次",
+        "onboard_time": 1776913399,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158941,
+        "num": 158941,
+        "word": "原来在职场有人撑腰是这种感觉",
+        "onboard_time": 1776919101,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160122,
+        "num": 158425,
+        "word": "朴志训采访提及赖冠霖",
+        "onboard_time": 1776925040,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37649,
+        "num": 157186,
+        "word": "我在异环吃喝玩乐很想你",
+        "onboard_time": 1776924682,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156702,
+        "num": 156702,
+        "word": "女子怒怼空乘不会中文还飞国际航班",
+        "onboard_time": 1776902239,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154662,
+        "num": 154662,
+        "word": "多方回应掌掴踹自己女子保安身份",
+        "onboard_time": 1776924560,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151094,
+        "num": 151094,
+        "word": "Easyhoon加入T1",
+        "onboard_time": 1776920001,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146045,
+        "num": 146045,
+        "word": "欢瑞世纪跌停",
+        "onboard_time": 1776916942,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记讲述过的读书故事#"
+    }
+  }
+}
