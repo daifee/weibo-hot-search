@@ -1,6 +1,6 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776934727508,
+  "endTime": 1776938725576,
   "band_list": [
     {
       "raw_hot": 5961072,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108193,
+      "num": 288154,
+      "word": "唐艺昕袜子都跳破了",
+      "onboard_time": 1776936141,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1088122,
       "num": 583577,
       "word": "女生游泳月卡只用23天",
@@ -147,11 +155,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 893513,
+      "num": 398666,
+      "word": "神仙肉 AI配角",
+      "onboard_time": 1776933499,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868325,
       "num": 441535,
       "word": "张凌赫帮粉丝修图",
       "onboard_time": 1776910940,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 840986,
+      "num": 1134557,
+      "word": "保安扇女子耳光事件完整监控曝光",
+      "onboard_time": 1776936261,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 839497,
+      "num": 286225,
+      "word": "朴宝剑张元英 演员脸和爱豆脸",
+      "onboard_time": 1776935240,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -171,12 +203,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810489,
+      "num": 285488,
+      "word": "金莎线下状态",
+      "onboard_time": 1776937460,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 795401,
       "num": 795401,
       "word": "美要求美在伊朗公民立即离境",
       "onboard_time": 1776912079,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 781905,
+      "num": 890252,
+      "word": "员工建600多个工作群离职拒交接",
+      "onboard_time": 1776928279,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 771025,
+      "num": 358961,
+      "word": "普通人一生的收入",
+      "onboard_time": 1776934401,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 765488,
@@ -251,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630696,
+      "num": 630696,
+      "word": "食物热量越来越极端了",
+      "onboard_time": 1776930381,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 624541,
       "num": 624541,
       "word": "原来前额叶成熟是这样的",
@@ -307,20 +371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 548546,
+      "num": 548546,
+      "word": "崔丽丽案发前年薪120多万元",
+      "onboard_time": 1776937101,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526752,
+      "num": 526752,
+      "word": "iPhone18ProMax金属机模",
+      "onboard_time": 1776935300,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 523411,
       "num": 602352,
       "word": "谁发明的厕所感应冲水",
       "onboard_time": 1776875598,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 499697,
-      "num": 890252,
-      "word": "员工建600多个工作群离职拒交接",
-      "onboard_time": 1776928279,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 497577,
@@ -387,20 +459,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460456,
-      "num": 460456,
-      "word": "食物热量越来越极端了",
-      "onboard_time": 1776930381,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 458127,
       "num": 404067,
       "word": "华晨宇演唱会延期",
       "onboard_time": 1776859161,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 447133,
+      "num": 447133,
+      "word": "花251块买的女装",
+      "onboard_time": 1776928520,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 427977,
+      "num": 427977,
+      "word": "谢娜在浪姐群发张杰",
+      "onboard_time": 1776935719,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 426073,
@@ -417,6 +497,14 @@
       "onboard_time": 1776851301,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417519,
+      "num": 287577,
+      "word": "伊称已收到首笔霍尔木兹通行费",
+      "onboard_time": 1776933320,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 413057,
@@ -457,14 +545,6 @@
       "onboard_time": 1776869903,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398666,
-      "num": 398666,
-      "word": "神仙肉 AI配角",
-      "onboard_time": 1776933499,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 396711,
@@ -531,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 360883,
+      "num": 283719,
+      "word": "华晨宇演唱会场地开始拆了",
+      "onboard_time": 1776937881,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 348452,
       "num": 387671,
       "word": "曝快手表哥公会签约多名未成年艺人",
@@ -579,12 +667,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 315962,
-      "num": 397294,
-      "word": "花251块买的女装",
-      "onboard_time": 1776928520,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 315126,
+      "num": 280283,
+      "word": "宋祖儿被指瘦脱相了",
+      "onboard_time": 1776927741,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 313549,
@@ -675,14 +763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 281791,
-      "num": 358961,
-      "word": "普通人一生的收入",
-      "onboard_time": 1776934401,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 281443,
       "num": 411462,
       "word": "登陆少年ELLE五月刊双封面",
@@ -753,6 +833,14 @@
       "onboard_time": 1776924440,
       "rank": 41,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 272477,
+      "num": 272477,
+      "word": "鹿晗去王勉家带了臭豆腐",
+      "onboard_time": 1776936620,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265220,
@@ -843,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215502,
+      "num": 215502,
+      "word": "何润东 那年花开月正圆",
+      "onboard_time": 1776937101,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215060,
       "num": 391477,
       "word": "南昌3死3伤窒息事故调查报告公布",
@@ -915,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194831,
+      "num": 326479,
+      "word": "王者东皇太一禁用",
+      "onboard_time": 1776934641,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190269,
       "num": 190269,
       "word": "肖战不对称西装",
@@ -985,6 +1089,14 @@
       "onboard_time": 1776914480,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178109,
+      "num": 212969,
+      "word": "老人街头手握尖锐物故意戳刺路人",
+      "onboard_time": 1776936620,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178056,
@@ -1379,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113180,
+      "num": 213165,
+      "word": "白鹿让张真源出去",
+      "onboard_time": 1776935060,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112430,
       "num": 335659,
       "word": "怦然心动20岁",
@@ -1425,6 +1545,14 @@
       "onboard_time": 1776902720,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88419,
+      "num": 211974,
+      "word": "樊振东冠军目光永远聚焦顶级较量",
+      "onboard_time": 1776934461,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 88300,
@@ -1507,14 +1635,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 72672,
-      "num": 326479,
-      "word": "王者东皇太一禁用",
-      "onboard_time": 1776934641,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 72414,
       "num": 137746,
       "word": "体检无异常发现却是癌症晚期",
@@ -1539,6 +1659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70530,
+      "num": 283440,
+      "word": "韩飞行员开战机空中拍照致撞机",
+      "onboard_time": 1776933320,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69378,
       "num": 363994,
       "word": "异环开服",
@@ -1561,6 +1689,14 @@
       "onboard_time": 1776911239,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60040,
+      "num": 210072,
+      "word": "美团副总裁夏华夏正式离职",
+      "onboard_time": 1776937760,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 59510,
@@ -1593,6 +1729,30 @@
       "onboard_time": 1776891254,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50560,
+      "num": 209346,
+      "word": "孙颖莎亮相国际乒联纪录片",
+      "onboard_time": 1776934222,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49868,
+      "num": 282735,
+      "word": "家属称女生被卖园区对方同意放人",
+      "onboard_time": 1776938001,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 48561,
+      "num": 284663,
+      "word": "奇瑞行业首创HEV5度电",
+      "onboard_time": 1776936981,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 47251,
