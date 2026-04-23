@@ -1,0 +1,410 @@
+{
+  "runTime": 1776916477597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244093,
+        "num": 1244093,
+        "word": "镜片装反孩子暴涨到900度妈妈崩溃",
+        "onboard_time": 1776911359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 929047,
+        "num": 929047,
+        "word": "QQ音乐巅峰榜十大艺人",
+        "onboard_time": 1776913820,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60306,
+        "num": 688711,
+        "word": "人民海军成立77周年",
+        "onboard_time": 1776911239,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1248793,
+        "num": 686969,
+        "word": "学历全家最高 工资全家最低",
+        "onboard_time": 1776914000,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 650803,
+        "num": 650803,
+        "word": "女子怒怼空乘不会中文还飞国际航班",
+        "onboard_time": 1776902239,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600035,
+        "num": 600035,
+        "word": "库克称苹果地图发布是首个重大错误",
+        "onboard_time": 1776909499,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 583738,
+        "num": 583738,
+        "word": "用奶茶袋子当通勤包的人小心",
+        "onboard_time": 1776914720,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 516638,
+        "num": 516638,
+        "word": "面试把公司聊解散了",
+        "onboard_time": 1776910638,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449373,
+        "num": 449373,
+        "word": "李昀锐公主抱最痛的一次",
+        "onboard_time": 1776913399,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258188,
+        "num": 448737,
+        "word": "王者荣耀",
+        "onboard_time": 1776903861,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1088122,
+        "num": 446889,
+        "word": "女生游泳月卡只用23天",
+        "onboard_time": 1776914180,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 692080,
+        "num": 443730,
+        "word": "A股",
+        "onboard_time": 1776910878,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 657645,
+        "num": 441535,
+        "word": "张凌赫帮粉丝修图",
+        "onboard_time": 1776910940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655722,
+        "num": 439976,
+        "word": "尹正 嫌尬了滚出去",
+        "onboard_time": 1776903200,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529391,
+        "num": 438456,
+        "word": "美要求美在伊朗公民立即离境",
+        "onboard_time": 1776912079,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371346,
+        "num": 435734,
+        "word": "谢娜新节目娜就聊姐姐",
+        "onboard_time": 1776903140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345152,
+        "num": 432435,
+        "word": "迪丽热巴方公布告黑维权进展",
+        "onboard_time": 1776914540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179350,
+        "num": 429808,
+        "word": "太阳vs雷霆",
+        "onboard_time": 1776914480,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366581,
+        "num": 427776,
+        "word": "男子整日疑妻出轨确诊神经梅毒晚期",
+        "onboard_time": 1776915980,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310381,
+        "num": 426550,
+        "word": "大一女生被卖到电诈园警方已立案",
+        "onboard_time": 1776914720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3398785,
+        "num": 424379,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1853808,
+        "num": 421474,
+        "word": "宋祖儿 刘宇宁",
+        "onboard_time": 1776914000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1061573,
+        "num": 419846,
+        "word": "曝刘宇宁宋祖儿同款地板家具",
+        "onboard_time": 1776905601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314098,
+        "num": 418354,
+        "word": "奥利奥 时代少年团",
+        "onboard_time": 1776900619,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284209,
+        "num": 414962,
+        "word": "儿子因父亲逼自己分手失联16年",
+        "onboard_time": 1776873439,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275186,
+        "num": 412438,
+        "word": "马頔一个人把妻旅老婆团夸成翘嘴",
+        "onboard_time": 1776914059,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186150,
+        "num": 411462,
+        "word": "登陆少年ELLE五月刊双封面",
+        "onboard_time": 1776910760,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241724,
+        "num": 409050,
+        "word": "稀土公司副总向境外泄露7项国家秘密",
+        "onboard_time": 1776907159,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188080,
+        "num": 407883,
+        "word": "原来前额叶成熟是这样的",
+        "onboard_time": 1776877997,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171412,
+        "num": 405286,
+        "word": "朴信惠眼睛 断崖式衰老",
+        "onboard_time": 1776857299,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170136,
+        "num": 402222,
+        "word": "你们被催婚都这么好笑吗",
+        "onboard_time": 1776915560,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169281,
+        "num": 400271,
+        "word": "意甲球员嫖娼派对受害者超百人",
+        "onboard_time": 1776904159,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166956,
+        "num": 397981,
+        "word": "进博物馆才知道针孔摄像头这么小",
+        "onboard_time": 1776915800,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165152,
+        "num": 396543,
+        "word": "李小冉王濛唐艺昕hi6合照",
+        "onboard_time": 1776905481,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 394715,
+        "word": "妻子产后夜夜崩溃丈夫紧抱不撒手",
+        "onboard_time": 1776914121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151524,
+        "num": 391477,
+        "word": "南昌3死3伤窒息事故调查报告公布",
+        "onboard_time": 1776911120,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 388809,
+        "word": "过泼水节被卖园区女生系独生女",
+        "onboard_time": 1776914840,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145161,
+        "num": 386377,
+        "word": "父亲家暴12岁女儿致其骨折气胸",
+        "onboard_time": 1776904401,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144099,
+        "num": 385625,
+        "word": "欢瑞世纪曾签约杨紫任嘉伦",
+        "onboard_time": 1776908538,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24473,
+        "num": 383929,
+        "word": "崔丽丽称对丈夫感到愧疚",
+        "onboard_time": 1776916222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127176,
+        "num": 380257,
+        "word": "月鳞绮纪",
+        "onboard_time": 1776913041,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 378059,
+        "word": "吴敬平用古诗评价樊振东",
+        "onboard_time": 1776916040,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117939,
+        "num": 377041,
+        "word": "伊能静张豆豆发生争执被孙杨识破",
+        "onboard_time": 1776902780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114146,
+        "num": 374014,
+        "word": "周杰伦王俊凯 中餐厅",
+        "onboard_time": 1776866362,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78539,
+        "num": 372802,
+        "word": "欢瑞世纪涉数百起证券虚假陈述纠纷",
+        "onboard_time": 1776914240,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86664,
+        "num": 369943,
+        "word": "受AI冲击短剧霸总回家种地",
+        "onboard_time": 1776906679,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76309,
+        "num": 367155,
+        "word": "HLE冲击LCK第一",
+        "onboard_time": 1776912380,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73036,
+        "num": 366347,
+        "word": "老詹砸烂数据模型",
+        "onboard_time": 1776907040,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57107,
+        "num": 363994,
+        "word": "异环开服",
+        "onboard_time": 1776909259,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62796,
+        "num": 360364,
+        "word": "霸王茶姬出去走走活动",
+        "onboard_time": 1776916340,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记讲述过的读书故事#"
+    }
+  }
+}
