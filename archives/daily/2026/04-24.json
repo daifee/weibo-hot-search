@@ -1,6 +1,6 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1776981492325,
+  "endTime": 1776982105847,
   "band_list": [
     {
       "raw_hot": 983925,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 303307,
-      "num": 303307,
+      "num": 317485,
       "word": "爱喝无糖饮料的天塌了",
       "onboard_time": 1776963137,
       "rank": 3,
@@ -347,20 +347,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106317,
+      "num": 81077,
+      "word": "老人挤公交离世家属索赔70万被驳回",
+      "onboard_time": 1776970275,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102408,
       "num": 365517,
       "word": "王鸥 丑衣服",
       "onboard_time": 1776949700,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92452,
-      "num": 67301,
-      "word": "老人挤公交离世家属索赔70万被驳回",
-      "onboard_time": 1776970275,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90487,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88907,
+      "num": 88907,
+      "word": "特朗普称美完全掌控霍尔木兹",
+      "onboard_time": 1776975494,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87489,
       "num": 371749,
       "word": "孙杨性格",
@@ -379,28 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81783,
+      "num": 210472,
+      "word": "15斤的小猫把床压塌了",
+      "onboard_time": 1776963617,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78562,
       "num": 368243,
       "word": "李沁夏梦两版淳儿意难平",
       "onboard_time": 1776952762,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74655,
-      "num": 50933,
-      "word": "特朗普称美完全掌控霍尔木兹",
-      "onboard_time": 1776975494,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 73095,
-      "num": 210472,
-      "word": "15斤的小猫把床压塌了",
-      "onboard_time": 1776963617,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 72581,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60247,
+      "num": 67390,
+      "word": "焦虑是你太想要掌控",
+      "onboard_time": 1776967935,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53962,
       "num": 209451,
       "word": "小猫吐了一颗小乳牙",
@@ -459,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53315,
-      "num": 67390,
-      "word": "焦虑是你太想要掌控",
-      "onboard_time": 1776967935,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 51369,
+      "num": 53685,
+      "word": "警方回应男保安掌掴女司机事件",
+      "onboard_time": 1776972553,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46229,
@@ -497,14 +505,6 @@
       "onboard_time": 1776964396,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42057,
-      "num": 53685,
-      "word": "警方回应男保安掌掴女司机事件",
-      "onboard_time": 1776972553,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41031,
@@ -555,6 +555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 33922,
+      "num": 38686,
+      "word": "中国海军穿透第一岛链释放强硬信号",
+      "onboard_time": 1776981374,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 30357,
       "num": 578526,
       "word": "沉浸式感受舰艇开放日",
@@ -563,7 +571,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29125,
+      "raw_hot": 30171,
       "num": 53630,
       "word": "月薪1.6万招人放3000只羊老板发声",
       "onboard_time": 1776972673,
@@ -571,15 +579,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26065,
-      "num": 38686,
-      "word": "中国海军穿透第一岛链释放强硬信号",
-      "onboard_time": 1776981374,
-      "rank": 38,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 25887,
+      "raw_hot": 28072,
       "num": 53473,
       "word": "30多国开会计划重启霍尔木兹海峡",
       "onboard_time": 1776972074,
@@ -593,6 +593,14 @@
       "onboard_time": 1776948321,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18439,
+      "num": 81536,
+      "word": "国际乒联称马龙是goat",
+      "onboard_time": 1776947060,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 18167,
@@ -611,8 +619,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13448,
-      "num": 69677,
+      "raw_hot": 13595,
+      "num": 81444,
       "word": "华为乾崑智驾ADS5",
       "onboard_time": 1776946639,
       "rank": 8,
