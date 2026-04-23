@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776986078613,
+  "endTime": 1776988581006,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1039739,
+      "num": 1125125,
+      "word": "月薪1.6万招人放羊包吃住有WiFi",
+      "onboard_time": 1776958879,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1039501,
       "num": 1166320,
       "word": "宿迁vs南京",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1776588561,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 869498,
+      "num": 633506,
+      "word": "演员回应脱掉和服才向观众鞠躬致谢",
+      "onboard_time": 1776986421,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 868465,
@@ -2499,14 +2515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581456,
-      "num": 735862,
-      "word": "月薪1.6万招人放羊包吃住有WiFi",
-      "onboard_time": 1776958879,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 581051,
       "num": 460948,
       "word": "唐嫣眼神好疲惫",
@@ -2896,6 +2904,14 @@
       "word": "路边停车欠费1.3万全额赔偿计息",
       "onboard_time": 1776753321,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503949,
+      "num": 419335,
+      "word": "6岁女童下体流血4年体内发现玩具",
+      "onboard_time": 1776985338,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -3555,6 +3571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417987,
+      "num": 417987,
+      "word": "特朗普称下令击沉霍尔木兹布雷船",
+      "onboard_time": 1776986778,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 417761,
       "num": 943403,
       "word": "中方回应美国截停中国驶往伊朗油轮",
@@ -4059,6 +4083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 370578,
+      "num": 370578,
+      "word": "26岁女子穿袜子睡觉睡出千层甲",
+      "onboard_time": 1776988340,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370410,
       "num": 370410,
       "word": "天津市血液中心称已报警",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1776595641,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362971,
+      "num": 440383,
+      "word": "秦昊说外面有人了还要送啊",
+      "onboard_time": 1776988459,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 360526,
@@ -4249,6 +4289,14 @@
       "onboard_time": 1776646822,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341953,
+      "num": 341953,
+      "word": "孙杨",
+      "onboard_time": 1776987679,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 340802,
@@ -4699,6 +4747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304116,
+      "num": 304116,
+      "word": "老人挤公交离世家属索赔70万被驳回",
+      "onboard_time": 1776970275,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304104,
       "num": 304104,
       "word": "侯明昊曾舜晞是一个组合出道的",
@@ -4745,6 +4801,14 @@
       "onboard_time": 1776588681,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299991,
+      "num": 299991,
+      "word": "白鹿cos尼克狐尼克你被捕了",
+      "onboard_time": 1776984677,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 298314,
@@ -4817,6 +4881,14 @@
       "onboard_time": 1776924501,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 294735,
+      "num": 387534,
+      "word": "崔丽丽连说两遍我不服我不服",
+      "onboard_time": 1776955823,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294499,
@@ -4905,6 +4977,14 @@
       "onboard_time": 1776524181,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287141,
+      "num": 438458,
+      "word": "尚界汽车法务部上线",
+      "onboard_time": 1776986478,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 286191,
@@ -5147,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266797,
+      "num": 266797,
+      "word": "特朗普称美完全掌控霍尔木兹",
+      "onboard_time": 1776975494,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266670,
       "num": 915619,
       "word": "蜜语纪",
@@ -5235,8 +5323,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261675,
-      "num": 261675,
+      "raw_hot": 261780,
+      "num": 261780,
       "word": "15斤的小猫把床压塌了",
       "onboard_time": 1776963617,
       "rank": 24,
@@ -5409,14 +5497,6 @@
       "onboard_time": 1776750680,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249737,
-      "num": 196946,
-      "word": "特朗普称美完全掌控霍尔木兹",
-      "onboard_time": 1776975494,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249032,
@@ -5715,14 +5795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235092,
-      "num": 182002,
-      "word": "老人挤公交离世家属索赔70万被驳回",
-      "onboard_time": 1776970275,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234537,
       "num": 402624,
       "word": "教育部门已介入女生被卖到电诈园案",
@@ -5809,6 +5881,14 @@
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 230260,
+      "num": 292542,
+      "word": "迪丽热巴千字长文告别白日提灯",
+      "onboard_time": 1776986421,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 229944,
@@ -6179,6 +6259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213100,
+      "num": 408014,
+      "word": "陈丽君晋升副主任",
+      "onboard_time": 1776954802,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212852,
       "num": 243987,
       "word": "Gr对战成都GG",
@@ -6393,14 +6481,6 @@
       "onboard_time": 1776574580,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204589,
-      "num": 408014,
-      "word": "陈丽君晋升副主任",
-      "onboard_time": 1776954802,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 204403,
@@ -7052,7 +7132,7 @@
     },
     {
       "raw_hot": 177742,
-      "num": 102737,
+      "num": 164454,
       "word": "警方回应男保安掌掴女司机事件",
       "onboard_time": 1776972553,
       "rank": 31,
@@ -7515,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159666,
+      "num": 159666,
+      "word": "金银价格双双跳水",
+      "onboard_time": 1776986359,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159264,
       "num": 457803,
       "word": "演戏 要有血有肉真情实感",
@@ -7963,6 +8051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146523,
+      "num": 146523,
+      "word": "女生拉账单发现爸爸10年转了20多万",
+      "onboard_time": 1776987138,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146372,
       "num": 146372,
       "word": "MRC对战ZETA",
@@ -8027,12 +8123,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 142663,
-      "num": 387534,
-      "word": "崔丽丽连说两遍我不服我不服",
-      "onboard_time": 1776955823,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 143153,
+      "num": 143153,
+      "word": "耳洞上的窝窝 体表唯一迷走神经",
+      "onboard_time": 1776963617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142614,
@@ -8065,14 +8161,6 @@
       "onboard_time": 1776595941,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141176,
-      "num": 98828,
-      "word": "6岁女童下体流血4年体内发现玩具",
-      "onboard_time": 1776985338,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140528,
@@ -8387,14 +8475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129484,
-      "num": 129484,
-      "word": "白鹿cos尼克狐尼克你被捕了",
-      "onboard_time": 1776984677,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129026,
       "num": 272691,
       "word": "300个机器人跑半马",
@@ -8411,12 +8491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128605,
+      "num": 128605,
+      "word": "女歌手因恐飞取消北京巡演",
+      "onboard_time": 1776988459,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128006,
       "num": 176561,
       "word": "金银直线拉升原因",
       "onboard_time": 1776823100,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127777,
+      "num": 185145,
+      "word": "反复造谣迪丽热巴已违法",
+      "onboard_time": 1776987378,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 127746,
@@ -8643,6 +8739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120841,
+      "num": 209314,
+      "word": "两辈子第一次见",
+      "onboard_time": 1776964456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120684,
       "num": 255693,
       "word": "宿迁2比0南京",
@@ -8811,6 +8915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115411,
+      "num": 235775,
+      "word": "印度大举进口250万吨尿素",
+      "onboard_time": 1776956002,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115003,
       "num": 318021,
       "word": "荣耀机器人打破人类半马纪录",
@@ -8833,14 +8945,6 @@
       "onboard_time": 1776935060,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114575,
-      "num": 235775,
-      "word": "印度大举进口250万吨尿素",
-      "onboard_time": 1776956002,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 114431,
@@ -8899,6 +9003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112009,
+      "num": 112009,
+      "word": "司机回应多次打断男乘客搭讪同乘女子",
+      "onboard_time": 1776986478,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111582,
       "num": 111582,
       "word": "拜仁提前4轮夺冠",
@@ -8913,6 +9025,14 @@
       "onboard_time": 1776837141,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111105,
+      "num": 111105,
+      "word": "伊朗发布拦截2艘货轮视频",
+      "onboard_time": 1776986298,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110794,
@@ -8963,6 +9083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108776,
+      "num": 210081,
+      "word": "外国人称翻译让他知道日本人的肮脏",
+      "onboard_time": 1776963617,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108763,
       "num": 380843,
       "word": "李冰冰苏菲玛索宋慧乔同框状态",
@@ -9009,14 +9137,6 @@
       "onboard_time": 1776912380,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105037,
-      "num": 115105,
-      "word": "耳洞上的窝窝 体表唯一迷走神经",
-      "onboard_time": 1776963617,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105033,
@@ -9305,6 +9425,14 @@
       "onboard_time": 1776520942,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88861,
+      "num": 92583,
+      "word": "有人用AI恶搞保安扇女子耳光视频",
+      "onboard_time": 1776988340,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88419,
@@ -9611,14 +9739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77692,
-      "num": 209314,
-      "word": "两辈子第一次见",
-      "onboard_time": 1776964456,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77653,
       "num": 210027,
       "word": "医生回应40岁女子未婚未育得妇科癌",
@@ -9873,14 +9993,6 @@
       "onboard_time": 1776909259,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69238,
-      "num": 210081,
-      "word": "外国人称翻译让他知道日本人的肮脏",
-      "onboard_time": 1776963617,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 69046,
@@ -10227,6 +10339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53149,
+      "num": 639828,
+      "word": "服务业这些领域将迎大改变",
+      "onboard_time": 1776948321,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53140,
       "num": 316813,
       "word": "央视起底勾兑老酒造假产业链",
@@ -10459,14 +10579,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 46359,
-      "num": 409545,
-      "word": "服务业这些领域将迎大改变",
-      "onboard_time": 1776948321,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46229,
       "num": 437057,
       "word": "22岁男生失联近20天最后定位在缅甸",
@@ -10697,6 +10809,14 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38563,
+      "num": 429454,
+      "word": "华为乾崑智驾ADS5",
+      "onboard_time": 1776946639,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 37366,
@@ -11187,14 +11307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23722,
-      "num": 189848,
-      "word": "华为乾崑智驾ADS5",
-      "onboard_time": 1776946639,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 23625,
       "num": 61197,
       "word": "光与夜之恋新周边",
@@ -11233,6 +11345,14 @@
       "onboard_time": 1776930140,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 21699,
+      "num": 287886,
+      "word": "岳阳一公园8座雕像被一男子泼红漆",
+      "onboard_time": 1776987617,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21213,
@@ -11459,8 +11579,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3086,
-      "num": 189069,
+      "raw_hot": 3119,
+      "num": 424549,
       "word": "异环公测",
       "onboard_time": 1776917301,
       "rank": 9,
@@ -11472,6 +11592,14 @@
       "word": "苏超首轮比赛谁先进球谁胜",
       "onboard_time": 1776772640,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1231,
+      "num": 283952,
+      "word": "亚沙会开幕式烟花好漂亮",
+      "onboard_time": 1776988039,
+      "rank": 20,
       "category": "体育"
     },
     {
