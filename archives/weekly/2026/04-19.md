@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/19 00:01:23 ~ 2026/04/24 03:50:52
+本榜单时间：2026/04/19 00:01:23 ~ 2026/04/24 05:01:19
 </p>
 </blockquote>
 <p>
@@ -7479,6 +7479,12 @@ Kanavi说LPL经常折戟（热度：79476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8C%A4%E5%85%AC%E4%BA%A4%E7%A6%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
+老人挤公交离世家属索赔70万被驳回（热度：60903）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83GT7%E9%A6%96%E5%8F%91%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E8%B5%A4%E5%85%94%E5%B9%B3%E5%8F%B0%23" target="weibo">
 启境GT7首发华为乾崑赤兔平台（热度：60736）
 </a>
@@ -7917,6 +7923,12 @@ AI版灵魂摆渡监制是唐诡导演（热度：51534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E6%98%AF%E4%BD%A0%E5%A4%AA%E6%83%B3%E8%A6%81%E6%8E%8C%E6%8E%A7%23" target="weibo">
+焦虑是你太想要掌控（热度：42008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E7%9B%91%E8%AD%A6%E6%88%92%E6%97%A5%E9%A9%B1%E9%80%90%E8%88%B0%E7%94%BB%E9%9D%A2%23" target="weibo">
 解放军跟监警戒日驱逐舰画面（热度：41852）
 </a>
@@ -7955,12 +7967,6 @@ MLTT回应樊振东微博（热度：41031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E5%8C%96%E5%A6%86%23" target="weibo">
 多家麦当劳门店回应禁止化妆（热度：39533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%99%91%E6%98%AF%E4%BD%A0%E5%A4%AA%E6%83%B3%E8%A6%81%E6%8E%8C%E6%8E%A7%23" target="weibo">
-焦虑是你太想要掌控（热度：39389）
 </a>
 </li>
 
@@ -8091,8 +8097,8 @@ MLTT回应樊振东微博（热度：41031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8C%A4%E5%85%AC%E4%BA%A4%E7%A6%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
-老人挤公交离世家属索赔70万被驳回（热度：32832）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%AE%8C%E5%85%A8%E6%8E%8C%E6%8E%A7%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23" target="weibo">
+特朗普称美完全掌控霍尔木兹（热度：33043）
 </a>
 </li>
 
@@ -8139,6 +8145,12 @@ MLTT回应樊振东微博（热度：41031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方回应男保安掌掴女司机事件（热度：30650）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23150%E7%A7%92%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B%23" target="weibo">
 150秒透视中国消费市场澎湃活力（热度：30557）
 </a>
@@ -8153,12 +8165,6 @@ MLTT回应樊振东微博（热度：41031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E8%80%81%E4%BA%BA%E7%A7%B0%E4%BD%93%E5%86%85%E9%81%97%E7%95%9945%E5%B9%B4%E5%89%8D%E7%BA%B1%E5%B8%83%23" target="weibo">
 73岁老人称体内遗留45年前纱布（热度：29906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方回应男保安掌掴女司机事件（热度：29646）
 </a>
 </li>
 
@@ -8475,6 +8481,12 @@ care王朝（热度：17742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AC%A3%E7%91%9C%E9%A6%96%E6%88%98%E5%87%BA%E5%B1%80%23" target="weibo">
+王欣瑜首战出局（热度：17585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E7%94%B7%E7%94%9F%E7%A6%BB%E6%A0%A1%E5%90%8E%E5%A4%B1%E8%81%94%E7%96%91%E8%A2%AB%E8%AF%B1%E9%AA%97%E8%87%B3%E5%A2%83%E5%A4%96%23" target="weibo">
 大一男生离校后失联疑被诱骗至境外（热度：17370）
 </a>
@@ -8531,12 +8543,6 @@ care王朝（热度：17742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E8%A7%A3%E8%AF%B4%E8%8B%B1%E8%B6%85%E8%81%94%E5%8A%A8%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 詹俊解说英超联动樊振东（热度：11356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AC%A3%E7%91%9C%E9%A6%96%E6%88%98%E5%87%BA%E5%B1%80%23" target="weibo">
-王欣瑜首战出局（热度：10997）
 </a>
 </li>
 
