@@ -1,0 +1,410 @@
+{
+  "runTime": 1776954026728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903950,
+        "num": 1144632,
+        "word": "爱奇艺回应毒枭折磨卧底广告",
+        "onboard_time": 1776951742,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 746721,
+        "num": 840886,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52113,
+        "num": 745832,
+        "word": "沉浸式感受舰艇开放日",
+        "onboard_time": 1776949282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2457303,
+        "num": 740005,
+        "word": "人怎么可以争气成这样",
+        "onboard_time": 1776948621,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728505,
+        "num": 728505,
+        "word": "男保安掌掴女司机事件反转",
+        "onboard_time": 1776951922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427544,
+        "num": 427544,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365601,
+        "num": 365601,
+        "word": "NIP战胜BLG",
+        "onboard_time": 1776952643,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194869,
+        "num": 365371,
+        "word": "神仙肉",
+        "onboard_time": 1776939979,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148007,
+        "num": 363144,
+        "word": "业内谈华晨宇演唱会场地搭建难度",
+        "onboard_time": 1776951322,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1115297,
+        "num": 362205,
+        "word": "曾沛慈已婚",
+        "onboard_time": 1776942681,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372107,
+        "num": 361424,
+        "word": "美部长称600美元降到10美元是降价600%",
+        "onboard_time": 1776946101,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 624142,
+        "num": 359158,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605547,
+        "num": 358350,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270155,
+        "num": 357479,
+        "word": "食物热量越来越极端了",
+        "onboard_time": 1776930381,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218660,
+        "num": 354910,
+        "word": "谢娜在浪姐群发张杰",
+        "onboard_time": 1776935719,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567036,
+        "num": 354053,
+        "word": "赵丽颖白玉兰宣传大使",
+        "onboard_time": 1776951922,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253748,
+        "num": 352824,
+        "word": "小猫吐了一颗小乳牙",
+        "onboard_time": 1776942079,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396638,
+        "num": 351031,
+        "word": "唐艺昕袜子都跳破了",
+        "onboard_time": 1776936141,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236335,
+        "num": 350067,
+        "word": "4岁男孩告诉爸爸自己前世是抗战老兵",
+        "onboard_time": 1776948021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211174,
+        "num": 348630,
+        "word": "30岁宝妈每天只睡3小时查出乳腺癌",
+        "onboard_time": 1776951922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023746,
+        "num": 347006,
+        "word": "刘宇宁曾自曝离婚无娃",
+        "onboard_time": 1776947481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722773,
+        "num": 346466,
+        "word": "夜巴黎账号被封禁",
+        "onboard_time": 1776944840,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 500269,
+        "num": 345084,
+        "word": "医生称金莎已经接近超高龄产妇",
+        "onboard_time": 1776950481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386067,
+        "num": 343110,
+        "word": "宋威龙张凌赫同品牌同姿势",
+        "onboard_time": 1776942500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437589,
+        "num": 342279,
+        "word": "宫颈粘液栓是什么",
+        "onboard_time": 1776944059,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437034,
+        "num": 341275,
+        "word": "何润东和老婆是在夜店认识的",
+        "onboard_time": 1776942079,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268014,
+        "num": 339506,
+        "word": "华晨宇演唱会场地开始拆了",
+        "onboard_time": 1776937881,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161661,
+        "num": 337797,
+        "word": "夜巴黎",
+        "onboard_time": 1776928579,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 137067,
+        "num": 337025,
+        "word": "员工建600多个工作群离职拒交接",
+        "onboard_time": 1776928279,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121034,
+        "num": 335707,
+        "word": "伊称已收到首笔霍尔木兹通行费",
+        "onboard_time": 1776933320,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334599,
+        "num": 334599,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60736,
+        "num": 313070,
+        "word": "启境GT7首发华为乾崑赤兔平台",
+        "onboard_time": 1776951203,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 310357,
+        "num": 310357,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275961,
+        "num": 275961,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273192,
+        "num": 273192,
+        "word": "陈泽报备",
+        "onboard_time": 1776953843,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263340,
+        "num": 263340,
+        "word": "何润东黄晓明 王不见王",
+        "onboard_time": 1776947001,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226110,
+        "num": 226110,
+        "word": "Zhuo顶穿鞋底",
+        "onboard_time": 1776951981,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 219023,
+        "word": "迪丽热巴陈飞宇校园小剧场",
+        "onboard_time": 1776949041,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213275,
+        "num": 213275,
+        "word": "女子指甲总长13米涂一次需20瓶指甲油",
+        "onboard_time": 1776946041,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 208861,
+        "word": "百年乒乓纪录片第一个镜头是王楚钦",
+        "onboard_time": 1776953602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208430,
+        "num": 208430,
+        "word": "金莎线下状态",
+        "onboard_time": 1776937460,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 208236,
+        "word": "孙杨性格",
+        "onboard_time": 1776950061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203915,
+        "num": 206677,
+        "word": "家长向老师索要试卷引发激烈争执",
+        "onboard_time": 1776939319,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204949,
+        "num": 205805,
+        "word": "王星越 退货用的我以为是设计",
+        "onboard_time": 1776953063,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116723,
+        "num": 204987,
+        "word": "唐艺昕回应没网感",
+        "onboard_time": 1776947241,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34795,
+        "num": 203456,
+        "word": "误打方向盘到底有多危险",
+        "onboard_time": 1776952281,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101524,
+        "num": 202651,
+        "word": "李沁夏梦两版淳儿意难平",
+        "onboard_time": 1776952762,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 201814,
+        "word": "夜巴黎及所属MCN或涉嫌多重违法",
+        "onboard_time": 1776950002,
+        "rank": 47,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 128697,
+        "num": 200310,
+        "word": "女子乘高铁被26寸行李箱砸伤头",
+        "onboard_time": 1776942920,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1615097,
+        "num": 199194,
+        "word": "张凌赫田曦薇 假封面",
+        "onboard_time": 1776943581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民海军一定能够不辱使命不负重托#"
+    }
+  }
+}

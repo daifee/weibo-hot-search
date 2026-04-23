@@ -1,6 +1,6 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776945880444,
+  "endTime": 1776954026728,
   "band_list": [
     {
       "raw_hot": 5961072,
@@ -17,6 +17,14 @@
       "onboard_time": 1776904881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2457303,
+      "num": 740005,
+      "word": "人怎么可以争气成这样",
+      "onboard_time": 1776948621,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 2166973,
@@ -56,6 +64,14 @@
       "word": "曾沛慈已婚",
       "onboard_time": 1776942681,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1615097,
+      "num": 438791,
+      "word": "张凌赫田曦薇 假封面",
+      "onboard_time": 1776943581,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1154954,
-      "num": 438791,
-      "word": "张凌赫田曦薇 假封面",
-      "onboard_time": 1776943581,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1108193,
       "num": 437594,
       "word": "唐艺昕袜子都跳破了",
@@ -161,6 +169,14 @@
       "onboard_time": 1776932600,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1023746,
+      "num": 347006,
+      "word": "刘宇宁曾自曝离婚无娃",
+      "onboard_time": 1776947481,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014715,
@@ -201,6 +217,14 @@
       "onboard_time": 1776913820,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 903950,
+      "num": 1144632,
+      "word": "爱奇艺回应毒枭折磨卧底广告",
+      "onboard_time": 1776951742,
+      "rank": 0,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 893513,
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 746721,
+      "num": 840886,
+      "word": "外国人震惊中国水果摊老板开门睡觉",
+      "onboard_time": 1776941899,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 735128,
       "num": 905298,
       "word": "女子怒怼空乘不会中文还飞国际航班",
@@ -305,6 +337,22 @@
       "onboard_time": 1776920122,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 728505,
+      "num": 728505,
+      "word": "男保安掌掴女司机事件反转",
+      "onboard_time": 1776951922,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722773,
+      "num": 405833,
+      "word": "夜巴黎账号被封禁",
+      "onboard_time": 1776944840,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 697271,
@@ -451,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 567036,
+      "num": 354053,
+      "word": "赵丽颖白玉兰宣传大使",
+      "onboard_time": 1776951922,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553997,
       "num": 553997,
       "word": "花251块买的女装",
@@ -465,6 +521,14 @@
       "onboard_time": 1776875598,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 500269,
+      "num": 345084,
+      "word": "医生称金莎已经接近超高龄产妇",
+      "onboard_time": 1776950481,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 497577,
@@ -531,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464795,
-      "num": 464795,
-      "word": "外国人震惊中国水果摊老板开门睡觉",
-      "onboard_time": 1776941899,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464615,
       "num": 360085,
       "word": "崔丽丽不再穿性侵时衣服出庭",
@@ -563,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437589,
+      "num": 342279,
+      "word": "宫颈粘液栓是什么",
+      "onboard_time": 1776944059,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 427977,
       "num": 427977,
       "word": "谢娜在浪姐群发张杰",
       "onboard_time": 1776935719,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427544,
+      "num": 427544,
+      "word": "突然发现事缓则圆可能是真的",
+      "onboard_time": 1776942201,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 426073,
@@ -609,14 +681,6 @@
       "onboard_time": 1776914540,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405833,
-      "num": 405833,
-      "word": "夜巴黎账号被封禁",
-      "onboard_time": 1776944840,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 404078,
@@ -699,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 372107,
+      "num": 361424,
+      "word": "美部长称600美元降到10美元是降价600%",
+      "onboard_time": 1776946101,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 366749,
       "num": 366749,
       "word": "日本人称手机设置为中文感觉很清爽",
       "onboard_time": 1776849259,
       "rank": 8,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 365601,
+      "num": 365601,
+      "word": "NIP战胜BLG",
+      "onboard_time": 1776952643,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 362343,
@@ -947,6 +1027,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 273192,
+      "num": 273192,
+      "word": "陈泽报备",
+      "onboard_time": 1776953843,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265220,
       "num": 265220,
       "word": "孟佳唱跳版心愿便利贴",
@@ -963,12 +1051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254800,
-      "num": 254800,
-      "word": "宫颈粘液栓是什么",
-      "onboard_time": 1776944059,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 263340,
+      "num": 263340,
+      "word": "何润东黄晓明 王不见王",
+      "onboard_time": 1776947001,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 250148,
@@ -1009,6 +1097,14 @@
       "onboard_time": 1776864381,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 236335,
+      "num": 350067,
+      "word": "4岁男孩告诉爸爸自己前世是抗战老兵",
+      "onboard_time": 1776948021,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233014,
@@ -1059,20 +1155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226110,
+      "num": 226110,
+      "word": "Zhuo顶穿鞋底",
+      "onboard_time": 1776951981,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224015,
       "num": 396543,
       "word": "李小冉王濛唐艺昕hi6合照",
       "onboard_time": 1776905481,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221405,
-      "num": 414925,
-      "word": "突然发现事缓则圆可能是真的",
-      "onboard_time": 1776942201,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 218073,
@@ -1091,12 +1187,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 213275,
+      "num": 213275,
+      "word": "女子指甲总长13米涂一次需20瓶指甲油",
+      "onboard_time": 1776946041,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 211533,
       "num": 211533,
       "word": "尚界Z7大定27分钟破12000台",
       "onboard_time": 1776870141,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 211174,
+      "num": 348630,
+      "word": "30岁宝妈每天只睡3小时查出乳腺癌",
+      "onboard_time": 1776951922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210552,
@@ -1145,6 +1257,14 @@
       "onboard_time": 1776931700,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 204949,
+      "num": 205805,
+      "word": "王星越 退货用的我以为是设计",
+      "onboard_time": 1776953063,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 196914,
@@ -1539,6 +1659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148007,
+      "num": 363144,
+      "word": "业内谈华晨宇演唱会场地搭建难度",
+      "onboard_time": 1776951322,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147686,
       "num": 147686,
       "word": "华晨宇直播时哽咽",
@@ -1571,6 +1699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141495,
+      "num": 208861,
+      "word": "百年乒乓纪录片第一个镜头是王楚钦",
+      "onboard_time": 1776953602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140883,
+      "num": 219023,
+      "word": "迪丽热巴陈飞宇校园小剧场",
+      "onboard_time": 1776949041,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140528,
       "num": 140528,
       "word": "赖清德称背后有人",
@@ -1593,6 +1737,14 @@
       "onboard_time": 1776928041,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136606,
+      "num": 201814,
+      "word": "夜巴黎及所属MCN或涉嫌多重违法",
+      "onboard_time": 1776950002,
+      "rank": 47,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 136062,
@@ -1633,6 +1785,14 @@
       "onboard_time": 1776902780,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 208236,
+      "word": "孙杨性格",
+      "onboard_time": 1776950061,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 127640,
@@ -1691,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116723,
+      "num": 204987,
+      "word": "唐艺昕回应没网感",
+      "onboard_time": 1776947241,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115980,
       "num": 163995,
       "word": "女大学生说同房间女生被打得一身血",
@@ -1745,6 +1913,14 @@
       "onboard_time": 1776923840,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101524,
+      "num": 202651,
+      "word": "李沁夏梦两版淳儿意难平",
+      "onboard_time": 1776952762,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 98524,
@@ -1947,6 +2123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 60736,
+      "num": 313070,
+      "word": "启境GT7首发华为乾崑赤兔平台",
+      "onboard_time": 1776951203,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60306,
       "num": 829817,
       "word": "人民海军成立77周年",
@@ -1993,6 +2177,14 @@
       "onboard_time": 1776891254,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52113,
+      "num": 745832,
+      "word": "沉浸式感受舰艇开放日",
+      "onboard_time": 1776949282,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50437,
@@ -2073,6 +2265,14 @@
       "onboard_time": 1776927319,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34795,
+      "num": 203456,
+      "word": "误打方向盘到底有多危险",
+      "onboard_time": 1776952281,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 33827,
@@ -2196,6 +2396,9 @@
     },
     {
       "word": "#把义乌发展经验进一步总结好运用好#"
+    },
+    {
+      "word": "#人民海军一定能够不辱使命不负重托#"
     }
   ]
 }
