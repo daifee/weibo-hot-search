@@ -1,0 +1,410 @@
+{
+  "runTime": 1776945880444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 632421,
+        "num": 1101187,
+        "word": "神仙肉",
+        "onboard_time": 1776939979,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550083,
+        "num": 774239,
+        "word": "员工建600多个工作群离职拒交接",
+        "onboard_time": 1776928279,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34805,
+        "num": 669992,
+        "word": "志愿军烈士遗骸安葬仪式",
+        "onboard_time": 1776927319,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 664292,
+        "num": 664292,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570336,
+        "num": 570336,
+        "word": "小猫吐了一颗小乳牙",
+        "onboard_time": 1776942079,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464795,
+        "num": 464795,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445762,
+        "num": 445762,
+        "word": "食物热量越来越极端了",
+        "onboard_time": 1776930381,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376253,
+        "num": 445431,
+        "word": "掌掴停车女子保安已停职",
+        "onboard_time": 1776944300,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229384,
+        "num": 444548,
+        "word": "Image2 消除AI味儿",
+        "onboard_time": 1776943100,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 442615,
+        "word": "泰国榴莲正在疯狂涌入",
+        "onboard_time": 1776928760,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1690016,
+        "num": 441770,
+        "word": "曾沛慈已婚",
+        "onboard_time": 1776942681,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1265752,
+        "num": 441390,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440356,
+        "num": 440356,
+        "word": "家长向老师索要试卷引发激烈争执",
+        "onboard_time": 1776939319,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154954,
+        "num": 438791,
+        "word": "张凌赫田曦薇 假封面",
+        "onboard_time": 1776943581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620787,
+        "num": 437594,
+        "word": "唐艺昕袜子都跳破了",
+        "onboard_time": 1776936141,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323749,
+        "num": 434779,
+        "word": "花251块买的女装",
+        "onboard_time": 1776928520,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256013,
+        "num": 432510,
+        "word": "伊称已收到首笔霍尔木兹通行费",
+        "onboard_time": 1776933320,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194760,
+        "num": 431005,
+        "word": "王楚钦独特合照视角",
+        "onboard_time": 1776942619,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 585931,
+        "num": 429450,
+        "word": "宋威龙张凌赫同品牌同姿势",
+        "onboard_time": 1776942500,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232080,
+        "num": 425628,
+        "word": "女子乘高铁被26寸行李箱砸伤头",
+        "onboard_time": 1776942920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857688,
+        "num": 423490,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604314,
+        "num": 422791,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598948,
+        "num": 418798,
+        "word": "何润东和老婆是在夜店认识的",
+        "onboard_time": 1776942079,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459137,
+        "num": 417311,
+        "word": "金莎线下状态",
+        "onboard_time": 1776937460,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194634,
+        "num": 414925,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 603990,
+        "num": 414081,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359220,
+        "num": 411607,
+        "word": "华晨宇演唱会场地开始拆了",
+        "onboard_time": 1776937881,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321243,
+        "num": 408115,
+        "word": "何润东 那年花开月正圆",
+        "onboard_time": 1776937101,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80344,
+        "num": 406903,
+        "word": "中国导演拍到美国顶流杀手的童年",
+        "onboard_time": 1776942440,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405833,
+        "num": 405833,
+        "word": "夜巴黎账号被封禁",
+        "onboard_time": 1776944840,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360435,
+        "num": 360435,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160318,
+        "num": 359314,
+        "word": "KPL选手大会",
+        "onboard_time": 1776939019,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358517,
+        "num": 358517,
+        "word": "朴宝剑张元英 演员脸和爱豆脸",
+        "onboard_time": 1776935240,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254800,
+        "num": 254800,
+        "word": "宫颈粘液栓是什么",
+        "onboard_time": 1776944059,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24517,
+        "num": 231827,
+        "word": "开市客北京公司回应真假Costco争议",
+        "onboard_time": 1776945681,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209082,
+        "num": 209082,
+        "word": "谢娜在浪姐群发张杰",
+        "onboard_time": 1776935719,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188453,
+        "num": 188453,
+        "word": "鹿晗去王勉家带了臭豆腐",
+        "onboard_time": 1776936620,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166353,
+        "num": 166353,
+        "word": "第一次感受到相亲的无力感",
+        "onboard_time": 1776931460,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127298,
+        "num": 166192,
+        "word": "1台车7个月狂揽400亿",
+        "onboard_time": 1776931700,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25714,
+        "num": 164113,
+        "word": "乐乐茶就擅用鲁迅画像致歉",
+        "onboard_time": 1776945681,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115980,
+        "num": 163995,
+        "word": "女大学生说同房间女生被打得一身血",
+        "onboard_time": 1776943581,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66202,
+        "num": 162523,
+        "word": "樊振东冠军目光永远聚焦顶级较量",
+        "onboard_time": 1776934461,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76069,
+        "num": 161302,
+        "word": "孙颖莎亮相国际乒联纪录片",
+        "onboard_time": 1776934222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177700,
+        "num": 160236,
+        "word": "杨洋怎么还长十年前的样子",
+        "onboard_time": 1776942079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159344,
+        "num": 159344,
+        "word": "医生提醒40至60岁为神经梅毒高发人群",
+        "onboard_time": 1776923778,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155994,
+        "num": 155994,
+        "word": "金枕榴莲已大量上市",
+        "onboard_time": 1776942320,
+        "rank": 45,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 75287,
+        "num": 155840,
+        "word": "听说千万级顶流要来北京车展",
+        "onboard_time": 1776938900,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110053,
+        "num": 153190,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1776939680,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74682,
+        "num": 150996,
+        "word": "A股 4100点",
+        "onboard_time": 1776926660,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143472,
+        "num": 150670,
+        "word": "遭踹后掌掴女子保安身份曝光",
+        "onboard_time": 1776945799,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#把义乌发展经验进一步总结好运用好#"
+    }
+  }
+}

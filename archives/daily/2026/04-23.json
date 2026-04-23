@@ -1,10 +1,10 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776944394370,
+  "endTime": 1776945880444,
   "band_list": [
     {
       "raw_hot": 5961072,
-      "num": 397563,
+      "num": 441390,
       "word": "刘宇宁否认与宋祖儿恋情",
       "onboard_time": 1776930919,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1690016,
+      "num": 441770,
+      "word": "曾沛慈已婚",
+      "onboard_time": 1776942681,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1494414,
       "num": 1494414,
       "word": "被卖到电诈园女生说发位置会被打",
@@ -65,14 +73,6 @@
       "onboard_time": 1776859041,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1429720,
-      "num": 328630,
-      "word": "曾沛慈已婚",
-      "onboard_time": 1776942681,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1337021,
@@ -123,8 +123,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1154954,
+      "num": 438791,
+      "word": "张凌赫田曦薇 假封面",
+      "onboard_time": 1776943581,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1108193,
-      "num": 391423,
+      "num": 437594,
       "word": "唐艺昕袜子都跳破了",
       "onboard_time": 1776936141,
       "rank": 11,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1042400,
-      "num": 640809,
+      "num": 664292,
       "word": "民政局回应马頔李纯结婚证是手写的",
       "onboard_time": 1776932600,
       "rank": 3,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1014715,
-      "num": 358961,
+      "num": 423490,
       "word": "普通人一生的收入",
       "onboard_time": 1776934401,
       "rank": 30,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1003823,
-      "num": 257529,
+      "num": 418798,
       "word": "何润东和老婆是在夜店认识的",
       "onboard_time": 1776942079,
       "rank": 20,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 810489,
-      "num": 382375,
+      "num": 417311,
       "word": "金莎线下状态",
       "onboard_time": 1776937460,
       "rank": 14,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 790879,
-      "num": 380522,
+      "num": 414081,
       "word": "转卖女大学生电诈园要求撤掉报道",
       "onboard_time": 1776938841,
       "rank": 15,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632421,
+      "num": 1101187,
+      "word": "神仙肉",
+      "onboard_time": 1776939979,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624541,
       "num": 624541,
       "word": "原来前额叶成熟是这样的",
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585931,
+      "num": 429450,
+      "word": "宋威龙张凌赫同品牌同姿势",
+      "onboard_time": 1776942500,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579943,
       "num": 579943,
       "word": "华晨宇演唱会场地开始拆了",
@@ -416,6 +440,14 @@
       "word": "面试把公司聊解散了",
       "onboard_time": 1776910638,
       "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 570336,
+      "num": 570336,
+      "word": "小猫吐了一颗小乳牙",
+      "onboard_time": 1776942079,
+      "rank": 15,
       "category": "幽默"
     },
     {
@@ -492,19 +524,19 @@
     },
     {
       "raw_hot": 470015,
-      "num": 340975,
+      "num": 408115,
       "word": "何润东 那年花开月正圆",
       "onboard_time": 1776937101,
       "rank": 30,
       "category": "剧集"
     },
     {
-      "raw_hot": 466589,
-      "num": 262853,
-      "word": "宋威龙张凌赫同品牌同姿势",
-      "onboard_time": 1776942500,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 464795,
+      "num": 464795,
+      "word": "外国人震惊中国水果摊老板开门睡觉",
+      "onboard_time": 1776941899,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464615,
@@ -521,6 +553,14 @@
       "onboard_time": 1776859161,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 440356,
+      "num": 801416,
+      "word": "家长向老师索要试卷引发激烈争执",
+      "onboard_time": 1776939319,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427977,
@@ -563,20 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409931,
-      "num": 409931,
-      "word": "神仙肉",
-      "onboard_time": 1776939979,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408267,
       "num": 432435,
       "word": "迪丽热巴方公布告黑维权进展",
       "onboard_time": 1776914540,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405833,
+      "num": 405833,
+      "word": "夜巴黎账号被封禁",
+      "onboard_time": 1776944840,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 404078,
@@ -643,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 376253,
+      "num": 445431,
+      "word": "掌掴停车女子保安已停职",
+      "onboard_time": 1776944300,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372793,
       "num": 366031,
       "word": "第一次感受到相亲的无力感",
@@ -657,14 +705,6 @@
       "onboard_time": 1776849259,
       "rank": 8,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 366261,
-      "num": 801416,
-      "word": "家长向老师索要试卷引发激烈争执",
-      "onboard_time": 1776939319,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362343,
@@ -721,14 +761,6 @@
       "onboard_time": 1776871881,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 317479,
-      "num": 317479,
-      "word": "外国人震惊中国水果摊老板开门睡觉",
-      "onboard_time": 1776941899,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315126,
@@ -817,14 +849,6 @@
       "onboard_time": 1776929480,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 284942,
-      "num": 238175,
-      "word": "张凌赫田曦薇 假封面",
-      "onboard_time": 1776943581,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 282854,
@@ -939,12 +963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264798,
-      "num": 264798,
-      "word": "小猫吐了一颗小乳牙",
-      "onboard_time": 1776942079,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 254800,
+      "num": 254800,
+      "word": "宫颈粘液栓是什么",
+      "onboard_time": 1776944059,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 250148,
@@ -1011,6 +1035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232080,
+      "num": 425628,
+      "word": "女子乘高铁被26寸行李箱砸伤头",
+      "onboard_time": 1776942920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229384,
+      "num": 444548,
+      "word": "Image2 消除AI味儿",
+      "onboard_time": 1776943100,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 227943,
       "num": 331362,
       "word": "百花杀hi6剧宣",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 221405,
-      "num": 221405,
+      "num": 414925,
       "word": "突然发现事缓则圆可能是真的",
       "onboard_time": 1776942201,
       "rank": 38,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1776934641,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194760,
+      "num": 431005,
+      "word": "王楚钦独特合照视角",
+      "onboard_time": 1776942619,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 191305,
@@ -1227,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177700,
+      "num": 171957,
+      "word": "杨洋怎么还长十年前的样子",
+      "onboard_time": 1776942079,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177173,
       "num": 177173,
       "word": "Easyhoon加入T1",
@@ -1264,14 +1320,6 @@
       "word": "弦子李茂儿子正面照",
       "onboard_time": 1776916822,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171957,
-      "num": 171957,
-      "word": "杨洋怎么还长十年前的样子",
-      "onboard_time": 1776942079,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1507,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143472,
+      "num": 150670,
+      "word": "遭踹后掌掴女子保安身份曝光",
+      "onboard_time": 1776945799,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 142251,
       "num": 139891,
       "word": "父亲回应女儿赴泰过泼水节被卖园区",
@@ -1537,22 +1593,6 @@
       "onboard_time": 1776928041,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 137433,
-      "num": 137433,
-      "word": "宫颈粘液栓是什么",
-      "onboard_time": 1776944059,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136609,
-      "num": 259765,
-      "word": "王楚钦独特合照视角",
-      "onboard_time": 1776942619,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 136062,
@@ -1651,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115980,
+      "num": 163995,
+      "word": "女大学生说同房间女生被打得一身血",
+      "onboard_time": 1776943581,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114970,
       "num": 138640,
       "word": "嫌1千太贵车被淹后花8千救出",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1776928700,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110023,
-      "num": 242840,
-      "word": "女子乘高铁被26寸行李箱砸伤头",
-      "onboard_time": 1776942920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105575,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1776877217,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96965,
-      "num": 261438,
-      "word": "Image2 消除AI味儿",
-      "onboard_time": 1776943100,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 92178,
@@ -1787,20 +1819,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84389,
-      "num": 115661,
-      "word": "掌掴停车女子保安已停职",
-      "onboard_time": 1776944300,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83420,
       "num": 341577,
       "word": "医院通报幼童从4楼意外坠落",
       "onboard_time": 1776934461,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80344,
+      "num": 406903,
+      "word": "中国导演拍到美国顶流杀手的童年",
+      "onboard_time": 1776942440,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78539,
@@ -1827,12 +1859,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 76069,
+      "num": 209346,
+      "word": "孙颖莎亮相国际乒联纪录片",
+      "onboard_time": 1776934222,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75927,
       "num": 283033,
       "word": "蜜语纪过半钟汉良终于吻上了",
       "onboard_time": 1776929060,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75287,
+      "num": 248691,
+      "word": "听说千万级顶流要来北京车展",
+      "onboard_time": 1776938900,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 75005,
@@ -1947,22 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52655,
-      "num": 248691,
-      "word": "听说千万级顶流要来北京车展",
-      "onboard_time": 1776938900,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 50560,
-      "num": 209346,
-      "word": "孙颖莎亮相国际乒联纪录片",
-      "onboard_time": 1776934222,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50437,
       "num": 248476,
       "word": "张予曦和荣耀闪电百米赛跑",
@@ -2035,6 +2067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34805,
+      "num": 669992,
+      "word": "志愿军烈士遗骸安葬仪式",
+      "onboard_time": 1776927319,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33827,
       "num": 343169,
       "word": "以色列早已备好开战理由",
@@ -2067,12 +2107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26307,
-      "num": 616876,
-      "word": "志愿军烈士遗骸安葬仪式",
-      "onboard_time": 1776927319,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 25714,
+      "num": 164113,
+      "word": "乐乐茶就擅用鲁迅画像致歉",
+      "onboard_time": 1776945681,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25571,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1776943222,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24517,
+      "num": 231827,
+      "word": "开市客北京公司回应真假Costco争议",
+      "onboard_time": 1776945681,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24473,
