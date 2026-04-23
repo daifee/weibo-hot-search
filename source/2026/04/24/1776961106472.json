@@ -1,0 +1,410 @@
+{
+  "runTime": 1776961106472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745290,
+        "num": 982597,
+        "word": "华谊兄弟被申请破产重整",
+        "onboard_time": 1776954622,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 554101,
+        "num": 694138,
+        "word": "月薪1.6万招人放羊包吃住有WiFi",
+        "onboard_time": 1776958879,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30357,
+        "num": 578526,
+        "word": "沉浸式感受舰艇开放日",
+        "onboard_time": 1776949282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 781786,
+        "num": 578503,
+        "word": "人怎么可以争气成这样",
+        "onboard_time": 1776948621,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243267,
+        "num": 577823,
+        "word": "陈飞宇白日提灯收官文",
+        "onboard_time": 1776960260,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179198,
+        "num": 576904,
+        "word": "NIP战胜BLG",
+        "onboard_time": 1776952643,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 576084,
+        "word": "小米首次登顶全球开源大模型第一",
+        "onboard_time": 1776954322,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354548,
+        "num": 575748,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113301,
+        "num": 575001,
+        "word": "神仙肉",
+        "onboard_time": 1776939979,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63700,
+        "num": 574175,
+        "word": "知情人称主播跟鳄鱼同缸是去年录屏",
+        "onboard_time": 1776958340,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 756226,
+        "num": 573759,
+        "word": "陈泽报备",
+        "onboard_time": 1776953843,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 573347,
+        "num": 573347,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452735,
+        "num": 452735,
+        "word": "王星越 退货用的我以为是设计",
+        "onboard_time": 1776953063,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291647,
+        "num": 450750,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332467,
+        "num": 448629,
+        "word": "王濛澄清和周洋不是真谈了",
+        "onboard_time": 1776957022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278322,
+        "num": 445685,
+        "word": "女子减肥断碳水43天查出糖尿病前期",
+        "onboard_time": 1776958460,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277053,
+        "num": 443793,
+        "word": "员工15年无年假月薪降到600后醒了",
+        "onboard_time": 1776954622,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 261596,
+        "num": 440931,
+        "word": "星巴克 周杰伦",
+        "onboard_time": 1776959480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236168,
+        "num": 439889,
+        "word": "女子指甲总长13米涂一次需20瓶指甲油",
+        "onboard_time": 1776946041,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41742,
+        "num": 437057,
+        "word": "22岁男生失联近20天最后定位在缅甸",
+        "onboard_time": 1776960079,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259077,
+        "num": 433894,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 983925,
+        "num": 433068,
+        "word": "曝华晨宇演唱会前期投入好几个亿",
+        "onboard_time": 1776957201,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214373,
+        "num": 431032,
+        "word": "宫颈粘液栓是什么",
+        "onboard_time": 1776944059,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483044,
+        "num": 428136,
+        "word": "医生称金莎已经接近超高龄产妇",
+        "onboard_time": 1776950481,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482177,
+        "num": 425679,
+        "word": "刘宇宁曾自曝离婚无娃",
+        "onboard_time": 1776947481,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173097,
+        "num": 423448,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251388,
+        "num": 419268,
+        "word": "业内谈华晨宇演唱会场地搭建难度",
+        "onboard_time": 1776951322,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218529,
+        "num": 416883,
+        "word": "赵丽颖白玉兰宣传大使",
+        "onboard_time": 1776951922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153186,
+        "num": 416012,
+        "word": "美部长称600美元降到10美元是降价600%",
+        "onboard_time": 1776946101,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139089,
+        "num": 412615,
+        "word": "学位证被指无效男子举报自己求核查",
+        "onboard_time": 1776958641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189100,
+        "num": 409868,
+        "word": "何润东和老婆是在夜店认识的",
+        "onboard_time": 1776942079,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176149,
+        "num": 408014,
+        "word": "陈丽君晋升副主任",
+        "onboard_time": 1776954802,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171192,
+        "num": 405584,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170143,
+        "num": 402624,
+        "word": "教育部门已介入女生被卖到电诈园案",
+        "onboard_time": 1776956362,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161798,
+        "num": 401720,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 397704,
+        "word": "30岁宝妈每天只睡3小时查出乳腺癌",
+        "onboard_time": 1776951922,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152021,
+        "num": 396401,
+        "word": "男子杀妻抛尸家属称没发现二人不和",
+        "onboard_time": 1776958641,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142588,
+        "num": 392989,
+        "word": "宋祖儿曾分享极端减肥经历",
+        "onboard_time": 1776960978,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137970,
+        "num": 391078,
+        "word": "中小学教师招聘不得限制非全",
+        "onboard_time": 1776959000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 389568,
+        "word": "曾沛慈与老公结婚前做了10年好友",
+        "onboard_time": 1776955162,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122759,
+        "num": 387534,
+        "word": "崔丽丽连说两遍我不服我不服",
+        "onboard_time": 1776955823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121149,
+        "num": 383555,
+        "word": "百年乒乓纪录片第一个镜头是王楚钦",
+        "onboard_time": 1776953602,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114411,
+        "num": 381404,
+        "word": "女子打减肥针半年减70斤险危及生命",
+        "onboard_time": 1776955641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108763,
+        "num": 380843,
+        "word": "李冰冰苏菲玛索宋慧乔同框状态",
+        "onboard_time": 1776956601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107994,
+        "num": 376821,
+        "word": "白银大跌特跌",
+        "onboard_time": 1776956241,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90487,
+        "num": 373926,
+        "word": "迪丽热巴陈飞宇校园小剧场",
+        "onboard_time": 1776949041,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87489,
+        "num": 371749,
+        "word": "孙杨性格",
+        "onboard_time": 1776950061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11591,
+        "num": 369324,
+        "word": "电视搭载AI能做什么",
+        "onboard_time": 1776960739,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78562,
+        "num": 368243,
+        "word": "李沁夏梦两版淳儿意难平",
+        "onboard_time": 1776952762,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102408,
+        "num": 365517,
+        "word": "王鸥 丑衣服",
+        "onboard_time": 1776949700,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把义乌发展经验进一步总结好运用好#"
+    }
+  }
+}
