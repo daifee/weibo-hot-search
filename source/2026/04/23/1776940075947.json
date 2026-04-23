@@ -1,0 +1,410 @@
+{
+  "runTime": 1776940075947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115853,
+        "num": 1178536,
+        "word": "保安扇女子耳光事件完整监控曝光",
+        "onboard_time": 1776936261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858345,
+        "num": 858345,
+        "word": "员工建600多个工作群离职拒交接",
+        "onboard_time": 1776928279,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32723,
+        "num": 698564,
+        "word": "第六届亚洲沙滩运动会在三亚开幕",
+        "onboard_time": 1776929180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 693920,
+        "num": 693920,
+        "word": "食物热量越来越极端了",
+        "onboard_time": 1776930381,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 688470,
+        "num": 688470,
+        "word": "崔丽丽案发前年薪120多万元",
+        "onboard_time": 1776937101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656409,
+        "num": 656409,
+        "word": "iPhone18ProMax金属机模",
+        "onboard_time": 1776935300,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 579943,
+        "num": 579943,
+        "word": "华晨宇演唱会场地开始拆了",
+        "onboard_time": 1776937881,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 562251,
+        "num": 562251,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553997,
+        "num": 553997,
+        "word": "花251块买的女装",
+        "onboard_time": 1776928520,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398465,
+        "num": 398465,
+        "word": "医生提醒40至60岁为神经梅毒高发人群",
+        "onboard_time": 1776923778,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1721893,
+        "num": 397563,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896466,
+        "num": 391423,
+        "word": "唐艺昕袜子都跳破了",
+        "onboard_time": 1776936141,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400388,
+        "num": 388969,
+        "word": "伊称已收到首笔霍尔木兹通行费",
+        "onboard_time": 1776933320,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 836586,
+        "num": 386610,
+        "word": "朴宝剑张元英 演员脸和爱豆脸",
+        "onboard_time": 1776935240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775594,
+        "num": 382375,
+        "word": "金莎线下状态",
+        "onboard_time": 1776937460,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380522,
+        "num": 380522,
+        "word": "转卖女大学生电诈园要求撤掉报道",
+        "onboard_time": 1776938841,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470015,
+        "num": 340975,
+        "word": "何润东 那年花开月正圆",
+        "onboard_time": 1776937101,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418091,
+        "num": 339637,
+        "word": "谢娜在浪姐群发张杰",
+        "onboard_time": 1776935719,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296398,
+        "num": 296398,
+        "word": "泰国榴莲正在疯狂涌入",
+        "onboard_time": 1776928760,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312409,
+        "num": 291700,
+        "word": "鹿晗去王勉家带了臭豆腐",
+        "onboard_time": 1776936620,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1014715,
+        "num": 276562,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 732491,
+        "num": 275313,
+        "word": "神仙肉 AI配角",
+        "onboard_time": 1776933499,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250148,
+        "num": 250148,
+        "word": "东皇太一bug已修复",
+        "onboard_time": 1776934641,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179350,
+        "num": 250091,
+        "word": "李小冉对王濛说大人说话别插嘴",
+        "onboard_time": 1776929780,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147417,
+        "num": 249897,
+        "word": "1台车7个月狂揽400亿",
+        "onboard_time": 1776931700,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135221,
+        "num": 249574,
+        "word": "A股 4100点",
+        "onboard_time": 1776926660,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183884,
+        "num": 249203,
+        "word": "15岁少女酒吧误饮致命毒水身亡",
+        "onboard_time": 1776939080,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98524,
+        "num": 249073,
+        "word": "常华森范思哲品牌大使",
+        "onboard_time": 1776938900,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30461,
+        "num": 248893,
+        "word": "奇瑞行业首创HEV5度电",
+        "onboard_time": 1776936981,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52655,
+        "num": 248691,
+        "word": "听说千万级顶流要来北京车展",
+        "onboard_time": 1776938900,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50437,
+        "num": 248476,
+        "word": "张予曦和荣耀闪电百米赛跑",
+        "onboard_time": 1776938841,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 146548,
+        "num": 248115,
+        "word": "曝广州一知名酒楼吃出嚼过的槟榔",
+        "onboard_time": 1776924501,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 247787,
+        "word": "神仙肉",
+        "onboard_time": 1776939979,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123036,
+        "num": 247668,
+        "word": "伊能静说孙杨不靠谱",
+        "onboard_time": 1776924440,
+        "rank": 33,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 117889,
+        "num": 247321,
+        "word": "乒乓球机器人打败日本顶尖选手",
+        "onboard_time": 1776929659,
+        "rank": 34,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 114581,
+        "num": 247218,
+        "word": "白鹿让张真源出去",
+        "onboard_time": 1776935060,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98548,
+        "num": 246862,
+        "word": "林俊杰什么时候开演唱会",
+        "onboard_time": 1776929480,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87062,
+        "num": 246710,
+        "word": "iPhoneUltra金属机模",
+        "onboard_time": 1776930499,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158867,
+        "num": 246389,
+        "word": "家属称女生被卖园区对方同意放人",
+        "onboard_time": 1776938001,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74178,
+        "num": 246316,
+        "word": "樊振东冠军目光永远聚焦顶级较量",
+        "onboard_time": 1776934461,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61704,
+        "num": 246118,
+        "word": "KPL选手大会",
+        "onboard_time": 1776939019,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 624550,
+        "num": 245859,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59303,
+        "num": 245521,
+        "word": "孙颖莎三冠王特辑",
+        "onboard_time": 1776933499,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57407,
+        "num": 245180,
+        "word": "美团副总裁夏华夏正式离职",
+        "onboard_time": 1776937760,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 245108,
+        "word": "华策影视大涨",
+        "onboard_time": 1776926780,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56342,
+        "num": 244923,
+        "word": "布克救球砸到对手被吹技犯",
+        "onboard_time": 1776926479,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52075,
+        "num": 244529,
+        "word": "王楚钦孙颖莎亮相世乒赛GOAT纪录片",
+        "onboard_time": 1776922461,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49734,
+        "num": 244404,
+        "word": "朱婷夺生涯第26冠",
+        "onboard_time": 1776923840,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134456,
+        "num": 244195,
+        "word": "老人街头手握尖锐物故意戳刺路人",
+        "onboard_time": 1776936620,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307815,
+        "num": 243929,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1776939680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把义乌发展经验进一步总结好运用好#"
+    }
+  }
+}
