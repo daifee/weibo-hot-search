@@ -1,0 +1,410 @@
+{
+  "runTime": 1776934727508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388994,
+        "num": 1388994,
+        "word": "被卖到电诈园女生说发位置会被打",
+        "onboard_time": 1776929240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499697,
+        "num": 890252,
+        "word": "员工建600多个工作群离职拒交接",
+        "onboard_time": 1776928279,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35918,
+        "num": 688701,
+        "word": "第六届亚洲沙滩运动会在三亚开幕",
+        "onboard_time": 1776929180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640809,
+        "num": 640809,
+        "word": "民政局回应马頔李纯结婚证是手写的",
+        "onboard_time": 1776932600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500954,
+        "num": 500954,
+        "word": "泰国榴莲正在疯狂涌入",
+        "onboard_time": 1776928760,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 469859,
+        "num": 469859,
+        "word": "医生提醒40至60岁为神经梅毒高发人群",
+        "onboard_time": 1776923778,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 460456,
+        "num": 460456,
+        "word": "食物热量越来越极端了",
+        "onboard_time": 1776930381,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398666,
+        "num": 398666,
+        "word": "神仙肉 AI配角",
+        "onboard_time": 1776933499,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315962,
+        "num": 397294,
+        "word": "花251块买的女装",
+        "onboard_time": 1776928520,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284716,
+        "num": 396506,
+        "word": "李小冉对王濛说大人说话别插嘴",
+        "onboard_time": 1776929780,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3542168,
+        "num": 394615,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429397,
+        "num": 392740,
+        "word": "学历全家最高 工资全家最低",
+        "onboard_time": 1776914000,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401995,
+        "num": 391173,
+        "word": "女生游泳月卡只用23天",
+        "onboard_time": 1776914180,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389808,
+        "num": 389808,
+        "word": "张函瑞机场",
+        "onboard_time": 1776931940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363559,
+        "num": 388921,
+        "word": "男子整日疑妻出轨确诊神经梅毒晚期",
+        "onboard_time": 1776915980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348452,
+        "num": 387671,
+        "word": "曝快手表哥公会签约多名未成年艺人",
+        "onboard_time": 1776931580,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203223,
+        "num": 385822,
+        "word": "伊能静说孙杨不靠谱",
+        "onboard_time": 1776924440,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 291034,
+        "num": 383032,
+        "word": "华策影视大涨",
+        "onboard_time": 1776926780,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235138,
+        "num": 380649,
+        "word": "曝广州一知名酒楼吃出嚼过的槟榔",
+        "onboard_time": 1776924501,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 220362,
+        "num": 378768,
+        "word": "A股 4100点",
+        "onboard_time": 1776926660,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 982533,
+        "num": 378132,
+        "word": "陆地cp",
+        "onboard_time": 1776904881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529801,
+        "num": 374972,
+        "word": "宋祖儿 刘宇宁",
+        "onboard_time": 1776914000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204990,
+        "num": 373514,
+        "word": "1台车7个月狂揽400亿",
+        "onboard_time": 1776931700,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 371190,
+        "word": "奔驰140年",
+        "onboard_time": 1776931761,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203126,
+        "num": 370009,
+        "word": "林俊杰什么时候开演唱会",
+        "onboard_time": 1776929480,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216864,
+        "num": 367610,
+        "word": "夜巴黎",
+        "onboard_time": 1776928579,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372793,
+        "num": 366031,
+        "word": "第一次感受到相亲的无力感",
+        "onboard_time": 1776931460,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 364336,
+        "word": "男子24岁仍未发育",
+        "onboard_time": 1776921021,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159024,
+        "num": 361367,
+        "word": "镜片装反孩子暴涨到900度妈妈崩溃",
+        "onboard_time": 1776911359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205967,
+        "num": 361207,
+        "word": "宋慧乔长发现身",
+        "onboard_time": 1776922340,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281791,
+        "num": 358961,
+        "word": "普通人一生的收入",
+        "onboard_time": 1776934401,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188157,
+        "num": 355664,
+        "word": "iPhoneUltra金属机模",
+        "onboard_time": 1776930499,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167575,
+        "num": 353988,
+        "word": "王橹杰生图 羚羊王子",
+        "onboard_time": 1776930739,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36410,
+        "num": 353727,
+        "word": "打洲本还得看荣耀WIN",
+        "onboard_time": 1776931639,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166055,
+        "num": 350169,
+        "word": "娜扎 这真是人类能长出来的脸吗",
+        "onboard_time": 1776917181,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162424,
+        "num": 349774,
+        "word": "管乐被李雪女儿的学舞速度震惊到了",
+        "onboard_time": 1776927500,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134641,
+        "num": 347507,
+        "word": "乒乓球机器人打败日本顶尖选手",
+        "onboard_time": 1776929659,
+        "rank": 36,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 132074,
+        "num": 345467,
+        "word": "奔跑吧",
+        "onboard_time": 1776930081,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33827,
+        "num": 343169,
+        "word": "以色列早已备好开战理由",
+        "onboard_time": 1776933981,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83420,
+        "num": 341577,
+        "word": "医院通报幼童从4楼意外坠落",
+        "onboard_time": 1776934461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128690,
+        "num": 338598,
+        "word": "布克救球砸到对手被吹技犯",
+        "onboard_time": 1776926479,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103850,
+        "num": 338386,
+        "word": "王楚钦孙颖莎亮相世乒赛GOAT纪录片",
+        "onboard_time": 1776922461,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92275,
+        "num": 335659,
+        "word": "怦然心动20岁",
+        "onboard_time": 1776928700,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88300,
+        "num": 333645,
+        "word": "孙颖莎三冠王特辑",
+        "onboard_time": 1776933499,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87222,
+        "num": 331362,
+        "word": "百花杀hi6剧宣",
+        "onboard_time": 1776923600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81104,
+        "num": 330667,
+        "word": "朱婷夺生涯第26冠",
+        "onboard_time": 1776923840,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158276,
+        "num": 328801,
+        "word": "医院一儿童从5楼坠至2楼现场揪心",
+        "onboard_time": 1776929540,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72672,
+        "num": 326479,
+        "word": "王者东皇太一禁用",
+        "onboard_time": 1776934641,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65017,
+        "num": 324349,
+        "word": "李昀锐公主抱最痛的一次",
+        "onboard_time": 1776913399,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126757,
+        "num": 322842,
+        "word": "全新奔驰纯电GLC",
+        "onboard_time": 1776928041,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#把义乌发展经验进一步总结好运用好#"
+    }
+  }
+}
