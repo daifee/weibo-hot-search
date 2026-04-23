@@ -1,6 +1,6 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776916477597,
+  "endTime": 1776924784414,
   "band_list": [
     {
       "raw_hot": 3864671,
@@ -25,6 +25,14 @@
       "onboard_time": 1776914000,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1681582,
+      "num": 296826,
+      "word": "男子被扒光绑树上婚闹现场视频曝光",
+      "onboard_time": 1776917781,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1443702,
@@ -83,6 +91,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1088002,
+      "num": 427776,
+      "word": "男子整日疑妻出轨确诊神经梅毒晚期",
+      "onboard_time": 1776915980,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046535,
+      "num": 658368,
+      "word": "用奶茶袋子当通勤包的人小心",
+      "onboard_time": 1776914720,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 961199,
       "num": 609630,
       "word": "周杰伦王俊凯 中餐厅",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 929047,
-      "num": 929047,
+      "num": 1138127,
       "word": "QQ音乐巅峰榜十大艺人",
       "onboard_time": 1776913820,
       "rank": 4,
@@ -155,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732309,
+      "num": 290517,
+      "word": "金莎孙丞潇备孕",
+      "onboard_time": 1776922280,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697271,
       "num": 365419,
       "word": "全球最大避孕套生产商警告",
@@ -179,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651302,
+      "num": 651302,
+      "word": "马頔李纯结婚证是手写的",
+      "onboard_time": 1776920122,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624541,
       "num": 624541,
       "word": "原来前额叶成熟是这样的",
@@ -195,6 +235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 593425,
+      "num": 397981,
+      "word": "进博物馆才知道针孔摄像头这么小",
+      "onboard_time": 1776915800,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586508,
       "num": 586508,
       "word": "李昀锐公主抱最痛的一次",
@@ -203,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583738,
-      "num": 583738,
-      "word": "用奶茶袋子当通勤包的人小心",
-      "onboard_time": 1776914720,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 573266,
+      "num": 288083,
+      "word": "宋慧乔长发现身",
+      "onboard_time": 1776922340,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 572152,
@@ -232,6 +280,14 @@
       "word": "崔丽丽躯体化反应很严重",
       "onboard_time": 1776860061,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496998,
+      "num": 496998,
+      "word": "教育局回应保安在小学附近掌掴女子",
+      "onboard_time": 1776919582,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -355,20 +411,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 366848,
+      "num": 366848,
+      "word": "赛后嫖娼派对套餐价格达数千欧元",
+      "onboard_time": 1776919521,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 366749,
       "num": 366749,
       "word": "日本人称手机设置为中文感觉很清爽",
       "onboard_time": 1776849259,
       "rank": 8,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 366581,
-      "num": 427776,
-      "word": "男子整日疑妻出轨确诊神经梅毒晚期",
-      "onboard_time": 1776915980,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362343,
@@ -379,11 +435,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 359794,
+      "num": 280760,
+      "word": "曝夜巴黎逼迫主播跟鳄鱼同一个鱼缸",
+      "onboard_time": 1776917661,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 347315,
       "num": 418354,
       "word": "奥利奥 时代少年团",
       "onboard_time": 1776900619,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340183,
+      "num": 222409,
+      "word": "医生提醒40至60岁为神经梅毒高发人群",
+      "onboard_time": 1776923778,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 339747,
+      "num": 259670,
+      "word": "陈奕恒王橹杰左奇函韩国到达",
+      "onboard_time": 1776922280,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -419,12 +499,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302519,
+      "num": 253108,
+      "word": "娜扎 这真是人类能长出来的脸吗",
+      "onboard_time": 1776917181,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301757,
+      "num": 301757,
+      "word": "亚马尔赛季报销",
+      "onboard_time": 1776917781,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297584,
+      "num": 297584,
+      "word": "李小冉王濛乘风的沈腾马丽",
+      "onboard_time": 1776924201,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282353,
       "num": 409050,
       "word": "稀土公司副总向境外泄露7项国家秘密",
       "onboard_time": 1776907159,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281878,
+      "num": 262346,
+      "word": "3大避孕套品牌回应涨价",
+      "onboard_time": 1776922160,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 281443,
@@ -483,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271379,
+      "num": 271379,
+      "word": "男子痴呆与20年前高危性行为史有关",
+      "onboard_time": 1776917721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265220,
       "num": 265220,
       "word": "孟佳唱跳版心愿便利贴",
@@ -521,6 +641,14 @@
       "onboard_time": 1776864381,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 226395,
+      "num": 226395,
+      "word": "百花杀hi6剧宣",
+      "onboard_time": 1776923600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 224015,
@@ -587,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193223,
+      "num": 244852,
+      "word": "男子24岁仍未发育",
+      "onboard_time": 1776921021,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190269,
       "num": 190269,
       "word": "肖战不对称西装",
@@ -617,6 +753,14 @@
       "onboard_time": 1776861562,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183942,
+      "num": 183942,
+      "word": "公司能抠门到什么程度",
+      "onboard_time": 1776918142,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 181085,
@@ -651,12 +795,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177173,
+      "num": 177173,
+      "word": "Easyhoon加入T1",
+      "onboard_time": 1776920001,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175564,
       "num": 175564,
       "word": "陈妍希告了陈晓粉丝",
       "onboard_time": 1776852441,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174459,
+      "num": 174459,
+      "word": "4家A股公司集体跌停",
+      "onboard_time": 1776923300,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 170136,
@@ -675,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166956,
-      "num": 397981,
-      "word": "进博物馆才知道针孔摄像头这么小",
-      "onboard_time": 1776915800,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166791,
       "num": 158748,
       "word": "王大陆讨债 失去的一定要拿回来",
@@ -697,6 +849,22 @@
       "onboard_time": 1776867382,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163797,
+      "num": 163797,
+      "word": "原来在职场有人撑腰是这种感觉",
+      "onboard_time": 1776919101,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162881,
+      "num": 162881,
+      "word": "伊能静说孙杨不靠谱",
+      "onboard_time": 1776924440,
+      "rank": 41,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 160443,
@@ -723,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156115,
+      "num": 156115,
+      "word": "欢瑞世纪跌停",
+      "onboard_time": 1776916942,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155381,
       "num": 155381,
       "word": "伊朗公开展示大杀器",
@@ -737,6 +913,22 @@
       "onboard_time": 1776908538,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "王楚钦孙颖莎亮相世乒赛GOAT纪录片",
+      "onboard_time": 1776922461,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151391,
+      "num": 151391,
+      "word": "A股万亿科技巨头诞生",
+      "onboard_time": 1776917602,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 151245,
@@ -761,6 +953,14 @@
       "onboard_time": 1776914840,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "弦子李茂儿子正面照",
+      "onboard_time": 1776916822,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 147686,
@@ -809,6 +1009,14 @@
       "onboard_time": 1776838280,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133889,
+      "num": 133889,
+      "word": "多方回应掌掴踹自己女子保安身份",
+      "onboard_time": 1776924560,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 133597,
@@ -915,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97050,
+      "num": 163842,
+      "word": "踹保安后被掌掴女子耳膜穿孔",
+      "onboard_time": 1776924741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92178,
       "num": 92178,
       "word": "Monkey是猪不是侯",
@@ -937,6 +1153,14 @@
       "onboard_time": 1776906679,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83166,
+      "num": 254269,
+      "word": "曝广州一知名酒楼吃出嚼过的槟榔",
+      "onboard_time": 1776924501,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78539,
@@ -1059,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45568,
+      "num": 135546,
+      "word": "我在异环吃喝玩乐很想你",
+      "onboard_time": 1776924682,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43104,
       "num": 63377,
       "word": "特别害怕对一个人产生依赖",
@@ -1075,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40471,
+      "num": 154274,
+      "word": "郑州公园里放下手机捧起书",
+      "onboard_time": 1776924682,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 33128,
       "num": 33128,
       "word": "问界M6",
@@ -1089,6 +1329,14 @@
       "onboard_time": 1776865881,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28145,
+      "num": 164639,
+      "word": "泸州当地回应男子遭低俗婚闹",
+      "onboard_time": 1776923720,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24473,
