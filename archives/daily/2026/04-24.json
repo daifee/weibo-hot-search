@@ -1,6 +1,6 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1776965296723,
+  "endTime": 1776966908667,
   "band_list": [
     {
       "raw_hot": 983925,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303307,
+      "num": 303307,
+      "word": "爱喝无糖饮料的天塌了",
+      "onboard_time": 1776963137,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291647,
       "num": 450750,
       "word": "外国人震惊中国水果摊老板开门睡觉",
@@ -113,14 +121,6 @@
       "onboard_time": 1776954622,
       "rank": 16,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 266453,
-      "num": 266453,
-      "word": "爱喝无糖饮料的天塌了",
-      "onboard_time": 1776963137,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 261596,
@@ -387,7 +387,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70143,
+      "raw_hot": 72581,
       "num": 210300,
       "word": "女子网购1450单全退货店家损失12万",
       "onboard_time": 1776963617,
@@ -395,7 +395,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68595,
+      "raw_hot": 69238,
       "num": 210081,
       "word": "外国人称翻译让他知道日本人的肮脏",
       "onboard_time": 1776963617,
@@ -419,7 +419,15 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 56455,
+      "raw_hot": 60996,
+      "num": 209314,
+      "word": "两辈子第一次见",
+      "onboard_time": 1776964456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59737,
       "num": 209637,
       "word": "对斤数没概念就这样",
       "onboard_time": 1776963617,
@@ -435,20 +443,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48808,
-      "num": 209314,
-      "word": "两辈子第一次见",
-      "onboard_time": 1776964456,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46229,
       "num": 437057,
       "word": "22岁男生失联近20天最后定位在缅甸",
       "onboard_time": 1776960079,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45016,
+      "num": 115105,
+      "word": "耳洞上的窝窝 体表唯一迷走神经",
+      "onboard_time": 1776963617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42823,
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38886,
+      "num": 114762,
+      "word": "国家图书馆推荐书单来了",
+      "onboard_time": 1776966196,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 30357,
       "num": 578526,
       "word": "沉浸式感受舰艇开放日",
@@ -507,8 +523,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17454,
-      "num": 277861,
+      "raw_hot": 19746,
+      "num": 304709,
       "word": "服务业这些领域将迎大改变",
       "onboard_time": 1776948321,
       "rank": 2,
@@ -529,6 +545,14 @@
       "onboard_time": 1776965176,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3086,
+      "num": 116961,
+      "word": "异环公测",
+      "onboard_time": 1776917301,
+      "rank": 9,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1776965296723,
+  "endTime": 1776966908667,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -4699,6 +4699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303307,
+      "num": 303307,
+      "word": "爱喝无糖饮料的天塌了",
+      "onboard_time": 1776963137,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 302519,
       "num": 350169,
       "word": "娜扎 这真是人类能长出来的脸吗",
@@ -5145,14 +5153,6 @@
       "onboard_time": 1776683362,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266453,
-      "num": 266453,
-      "word": "爱喝无糖饮料的天塌了",
-      "onboard_time": 1776963137,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 266048,
@@ -9667,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72581,
+      "num": 210300,
+      "word": "女子网购1450单全退货店家损失12万",
+      "onboard_time": 1776963617,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72244,
       "num": 120566,
       "word": "范玮琪问江语晨是周先生的歌吗",
@@ -9731,14 +9739,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 70143,
-      "num": 210300,
-      "word": "女子网购1450单全退货店家损失12万",
-      "onboard_time": 1776963617,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70074,
       "num": 311908,
       "word": "沙溢玩嗨了李斌有诚意",
@@ -9779,6 +9779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69238,
+      "num": 210081,
+      "word": "外国人称翻译让他知道日本人的肮脏",
+      "onboard_time": 1776963617,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69046,
       "num": 251235,
       "word": "无畏宣传月鳞绮纪",
@@ -9793,14 +9801,6 @@
       "onboard_time": 1776704716,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 68595,
-      "num": 210081,
-      "word": "外国人称翻译让他知道日本人的肮脏",
-      "onboard_time": 1776963617,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68157,
@@ -9939,6 +9939,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 60996,
+      "num": 209314,
+      "word": "两辈子第一次见",
+      "onboard_time": 1776964456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60736,
       "num": 313070,
       "word": "启境GT7首发华为乾崑赤兔平台",
@@ -9969,6 +9977,14 @@
       "onboard_time": 1776937760,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59737,
+      "num": 209637,
+      "word": "对斤数没概念就这样",
+      "onboard_time": 1776963617,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 59510,
@@ -10097,14 +10113,6 @@
       "onboard_time": 1776784041,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56455,
-      "num": 209637,
-      "word": "对斤数没概念就这样",
-      "onboard_time": 1776963617,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 55409,
@@ -10307,14 +10315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48808,
-      "num": 209314,
-      "word": "两辈子第一次见",
-      "onboard_time": 1776964456,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 48631,
       "num": 230042,
       "word": "刘耀文45度站姿升级了",
@@ -10409,6 +10409,14 @@
       "onboard_time": 1776718694,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45016,
+      "num": 115105,
+      "word": "耳洞上的窝窝 体表唯一迷走神经",
+      "onboard_time": 1776963617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44498,
@@ -10601,6 +10609,14 @@
       "onboard_time": 1776537075,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38886,
+      "num": 114762,
+      "word": "国家图书馆推荐书单来了",
+      "onboard_time": 1776966196,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 37366,
@@ -11155,6 +11171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 19746,
+      "num": 304709,
+      "word": "服务业这些领域将迎大改变",
+      "onboard_time": 1776948321,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19130,
       "num": 150544,
       "word": "你家的老旧家电退役了吗",
@@ -11201,14 +11225,6 @@
       "onboard_time": 1776590061,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 17454,
-      "num": 277861,
-      "word": "服务业这些领域将迎大改变",
-      "onboard_time": 1776948321,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17370,
@@ -11321,6 +11337,14 @@
       "onboard_time": 1776526041,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3086,
+      "num": 116961,
+      "word": "异环公测",
+      "onboard_time": 1776917301,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 1318,

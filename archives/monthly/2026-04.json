@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1776965296723,
+  "endTime": 1776966908667,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -14883,6 +14883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303307,
+      "num": 303307,
+      "word": "爱喝无糖饮料的天塌了",
+      "onboard_time": 1776963137,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303032,
       "num": 764439,
       "word": "这些品牌竟然都是假洋牌",
@@ -16889,14 +16897,6 @@
       "onboard_time": 1775296642,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 266453,
-      "num": 266453,
-      "word": "爱喝无糖饮料的天塌了",
-      "onboard_time": 1776963137,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 266399,
@@ -47403,6 +47403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72581,
+      "num": 210300,
+      "word": "女子网购1450单全退货店家损失12万",
+      "onboard_time": 1776963617,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72521,
       "num": 72521,
       "word": "苏超开幕式排面拉满了",
@@ -48403,14 +48411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70143,
-      "num": 210300,
-      "word": "女子网购1450单全退货店家损失12万",
-      "onboard_time": 1776963617,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70141,
       "num": 123810,
       "word": "马略卡vs皇马",
@@ -48835,6 +48835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 69238,
+      "num": 210081,
+      "word": "外国人称翻译让他知道日本人的肮脏",
+      "onboard_time": 1776963617,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69233,
       "num": 69233,
       "word": "王楚钦打的太聪明了",
@@ -49025,14 +49033,6 @@
       "onboard_time": 1776704716,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 68595,
-      "num": 210081,
-      "word": "外国人称翻译让他知道日本人的肮脏",
-      "onboard_time": 1776963617,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68560,
@@ -51419,6 +51419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60996,
+      "num": 209314,
+      "word": "两辈子第一次见",
+      "onboard_time": 1776964456,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60987,
       "num": 60987,
       "word": "许昕评论王楚钦累的标题都不起",
@@ -51825,6 +51833,14 @@
       "onboard_time": 1775605760,
       "rank": 47,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 59737,
+      "num": 209637,
+      "word": "对斤数没概念就这样",
+      "onboard_time": 1776963617,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 59669,
@@ -52553,14 +52569,6 @@
       "onboard_time": 1776352281,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56455,
-      "num": 209637,
-      "word": "对斤数没概念就这样",
-      "onboard_time": 1776963617,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 56434,
@@ -54003,14 +54011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48808,
-      "num": 209314,
-      "word": "两辈子第一次见",
-      "onboard_time": 1776964456,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 48691,
       "num": 48691,
       "word": "陶昕然表现",
@@ -54665,6 +54665,14 @@
       "onboard_time": 1776718694,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45016,
+      "num": 115105,
+      "word": "耳洞上的窝窝 体表唯一迷走神经",
+      "onboard_time": 1776963617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45009,
@@ -55641,6 +55649,14 @@
       "onboard_time": 1775029523,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38886,
+      "num": 114762,
+      "word": "国家图书馆推荐书单来了",
+      "onboard_time": 1776966196,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 38830,
@@ -58803,6 +58819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19746,
+      "num": 304709,
+      "word": "服务业这些领域将迎大改变",
+      "onboard_time": 1776948321,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19617,
       "num": 40534,
       "word": "巴黎圣日耳曼2比0利物浦",
@@ -59153,14 +59177,6 @@
       "onboard_time": 1775023344,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17454,
-      "num": 277861,
-      "word": "服务业这些领域将迎大改变",
-      "onboard_time": 1776948321,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17370,
@@ -59977,6 +59993,14 @@
       "onboard_time": 1776526041,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3086,
+      "num": 116961,
+      "word": "异环公测",
+      "onboard_time": 1776917301,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 1318,
