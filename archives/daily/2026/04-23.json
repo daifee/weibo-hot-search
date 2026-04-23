@@ -1,7 +1,15 @@
 {
   "startTime": 1776874511097,
-  "endTime": 1776925474794,
+  "endTime": 1776932358986,
   "band_list": [
+    {
+      "raw_hot": 5961072,
+      "num": 329197,
+      "word": "刘宇宁否认与宋祖儿恋情",
+      "onboard_time": 1776930919,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3864671,
       "num": 424379,
@@ -32,6 +40,14 @@
       "word": "男子被扒光绑树上婚闹现场视频曝光",
       "onboard_time": 1776917781,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1494414,
+      "num": 1494414,
+      "word": "被卖到电诈园女生说发位置会被打",
+      "onboard_time": 1776929240,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593170,
+      "num": 593170,
+      "word": "泰国榴莲正在疯狂涌入",
+      "onboard_time": 1776928760,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 586508,
       "num": 586508,
       "word": "李昀锐公主抱最痛的一次",
@@ -297,6 +321,14 @@
       "onboard_time": 1776867682,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496561,
+      "num": 629727,
+      "word": "医生提醒40至60岁为神经梅毒高发人群",
+      "onboard_time": 1776923778,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 494462,
@@ -411,12 +443,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 383436,
+      "num": 320008,
+      "word": "华策影视大涨",
+      "onboard_time": 1776926780,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381425,
       "num": 360903,
       "word": "Gucci别试探了",
       "onboard_time": 1776858562,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 381167,
+      "num": 886786,
+      "word": "员工建600多个工作群离职拒交接",
+      "onboard_time": 1776928279,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 377492,
@@ -451,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340183,
-      "num": 629727,
-      "word": "医生提醒40至60岁为神经梅毒高发人群",
-      "onboard_time": 1776923778,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 339808,
+      "num": 339808,
+      "word": "李小冉对王濛说大人说话别插嘴",
+      "onboard_time": 1776929780,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 339747,
@@ -481,6 +529,14 @@
       "onboard_time": 1776871881,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 313549,
+      "num": 312608,
+      "word": "夜巴黎",
+      "onboard_time": 1776928579,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 310381,
@@ -521,6 +577,30 @@
       "onboard_time": 1776924201,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294951,
+      "num": 339142,
+      "word": "曝广州一知名酒楼吃出嚼过的槟榔",
+      "onboard_time": 1776924501,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 289485,
+      "num": 316920,
+      "word": "林俊杰什么时候开演唱会",
+      "onboard_time": 1776929480,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 282854,
+      "num": 310752,
+      "word": "A股 4100点",
+      "onboard_time": 1776926660,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 282353,
@@ -604,7 +684,7 @@
     },
     {
       "raw_hot": 273258,
-      "num": 243766,
+      "num": 314023,
       "word": "伊能静说孙杨不靠谱",
       "onboard_time": 1776924440,
       "rank": 41,
@@ -627,12 +707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247270,
+      "num": 303864,
+      "word": "张函瑞机场",
+      "onboard_time": 1776931940,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245614,
       "num": 187125,
       "word": "全国首例性侵认定工伤案明日开庭",
       "onboard_time": 1776861141,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245479,
+      "num": 301583,
+      "word": "曝快手表哥公会签约多名未成年艺人",
+      "onboard_time": 1776931580,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 242436,
@@ -659,8 +755,32 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 239424,
+      "num": 295741,
+      "word": "第一次感受到相亲的无力感",
+      "onboard_time": 1776931460,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232785,
+      "num": 292194,
+      "word": "男子24岁仍未发育",
+      "onboard_time": 1776921021,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232297,
+      "num": 294697,
+      "word": "管乐被李雪女儿的学舞速度震惊到了",
+      "onboard_time": 1776927500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227943,
-      "num": 226395,
+      "num": 297441,
       "word": "百花杀hi6剧宣",
       "onboard_time": 1776923600,
       "rank": 29,
@@ -673,14 +793,6 @@
       "onboard_time": 1776905481,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221759,
-      "num": 244852,
-      "word": "男子24岁仍未发育",
-      "onboard_time": 1776921021,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218073,
@@ -745,6 +857,14 @@
       "onboard_time": 1776865642,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196914,
+      "num": 289001,
+      "word": "王橹杰生图 羚羊王子",
+      "onboard_time": 1776930739,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190269,
@@ -827,6 +947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176370,
+      "num": 286687,
+      "word": "11岁娃偷钱买手机挨骂老板又卖他一个",
+      "onboard_time": 1776928279,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175564,
       "num": 175564,
       "word": "陈妍希告了陈晓粉丝",
@@ -857,6 +985,22 @@
       "onboard_time": 1776915560,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169865,
+      "num": 281987,
+      "word": "布克救球砸到对手被吹技犯",
+      "onboard_time": 1776926479,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168530,
+      "num": 280783,
+      "word": "乒乓球机器人打败日本顶尖选手",
+      "onboard_time": 1776929659,
+      "rank": 40,
+      "category": "数码,体育"
     },
     {
       "raw_hot": 168315,
@@ -939,6 +1083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155426,
+      "num": 333312,
+      "word": "影视飓风Tim就是一个team",
+      "onboard_time": 1776929060,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155381,
       "num": 155381,
       "word": "伊朗公开展示大杀器",
@@ -972,7 +1124,7 @@
     },
     {
       "raw_hot": 153565,
-      "num": 153565,
+      "num": 272594,
       "word": "王楚钦孙颖莎亮相世乒赛GOAT纪录片",
       "onboard_time": 1776922461,
       "rank": 44,
@@ -1003,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149436,
+      "num": 279177,
+      "word": "花251块买的女装",
+      "onboard_time": 1776928520,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149403,
       "num": 388809,
       "word": "过泼水节被卖园区女生系独生女",
@@ -1011,12 +1171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148627,
+      "num": 315607,
+      "word": "奔驰140年",
+      "onboard_time": 1776931761,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147686,
       "num": 147686,
       "word": "华晨宇直播时哽咽",
       "onboard_time": 1776867322,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147494,
+      "num": 277348,
+      "word": "食物热量越来越极端了",
+      "onboard_time": 1776930381,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 146959,
@@ -1051,6 +1227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138105,
+      "num": 275167,
+      "word": "医院一儿童从5楼坠至2楼现场揪心",
+      "onboard_time": 1776929540,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137444,
+      "num": 310073,
+      "word": "全新奔驰纯电GLC",
+      "onboard_time": 1776928041,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136062,
       "num": 127350,
       "word": "陈妍希申请强制执行",
@@ -1067,12 +1259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132069,
+      "num": 300420,
+      "word": "1台车7个月狂揽400亿",
+      "onboard_time": 1776931700,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 130461,
+      "num": 267586,
+      "word": "iPhoneUltra金属机模",
+      "onboard_time": 1776930499,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130347,
       "num": 130347,
       "word": "女子踹人前被保安关车门夹腿",
       "onboard_time": 1776902780,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128608,
+      "num": 305944,
+      "word": "奔跑吧",
+      "onboard_time": 1776930081,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 127640,
@@ -1131,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116465,
-      "num": 321719,
-      "word": "曝广州一知名酒楼吃出嚼过的槟榔",
-      "onboard_time": 1776924501,
-      "rank": 24,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 114970,
       "num": 138640,
       "word": "嫌1千太贵车被淹后花8千救出",
@@ -1147,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112430,
+      "num": 284754,
+      "word": "怦然心动20岁",
+      "onboard_time": 1776928700,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105575,
       "num": 367155,
       "word": "HLE冲击LCK第一",
       "onboard_time": 1776912380,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105033,
+      "num": 274591,
+      "word": "朱婷夺生涯第26冠",
+      "onboard_time": 1776923840,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 97956,
@@ -1219,6 +1443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75927,
+      "num": 283033,
+      "word": "蜜语纪过半钟汉良终于吻上了",
+      "onboard_time": 1776929060,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75005,
       "num": 137943,
       "word": "何刚下订智界V9",
@@ -1249,6 +1481,14 @@
       "onboard_time": 1776860542,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70922,
+      "num": 298190,
+      "word": "打洲本还得看荣耀WIN",
+      "onboard_time": 1776931639,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 69378,
@@ -1307,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47251,
+      "num": 331223,
+      "word": "海军五指山舰女兵一问三不知",
+      "onboard_time": 1776931400,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 46635,
       "num": 125412,
       "word": "国米等球员参加嫖娼派对价格数千欧",
@@ -1355,6 +1603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29385,
+      "num": 735005,
+      "word": "第六届亚洲沙滩运动会在三亚开幕",
+      "onboard_time": 1776929180,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28550,
       "num": 28550,
       "word": "宝马智能化第一梯队实锤",
@@ -1385,6 +1641,14 @@
       "onboard_time": 1776887774,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22156,
+      "num": 266320,
+      "word": "colorwalk超出片的",
+      "onboard_time": 1776930140,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 10329,
@@ -1425,6 +1689,9 @@
     },
     {
       "word": "#习近平总书记讲述过的读书故事#"
+    },
+    {
+      "word": "#把义乌发展经验进一步总结好运用好#"
     }
   ]
 }
