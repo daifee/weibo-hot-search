@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/24 06:08:25
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/24 06:57:22
 </p>
 </blockquote>
 <p>
@@ -4131,6 +4131,12 @@ iPhone18ProMax金属机模（热度：656409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+爱喝无糖饮料的天塌了（热度：641011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%9C%A8%E5%B0%8F%E5%AD%A6%E9%99%84%E8%BF%91%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%AD%90%23" target="weibo">
 教育局回应保安在小学附近掌掴女子（热度：640978）
 </a>
@@ -6005,12 +6011,6 @@ lululemon质检结果（热度：516632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E5%90%AC%E5%88%B0%E8%A2%81%E5%92%8F%E4%BB%AA%E8%AF%B4%E4%B8%8D%E4%B9%B0%E4%BA%86%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 张智霖听到袁咏仪说不买了的表情（热度：499611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E8%AE%A1%E7%9A%84%E5%99%A9%E6%A2%A6%23" target="weibo">
-会计的噩梦（热度：498640）
 </a>
 </li>
 
