@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/25 01:07:21 ~ 2026/04/25 02:08:31
+本榜单时间：2026/04/25 01:07:21 ~ 2026/04/25 03:04:44
 </p>
 </blockquote>
 <p>
@@ -317,6 +317,12 @@ AI在保护AI（热度：82553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E6%AF%92%E5%B9%B6%E9%9D%9E%E5%8F%AA%E9%80%9A%E8%BF%87%E6%80%A7%E4%BC%A0%E6%92%AD%23" target="weibo">
 梅毒并非只通过性传播（热度：58329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
+斯诺克世锦赛（热度：29294）
 </a>
 </li>
 
