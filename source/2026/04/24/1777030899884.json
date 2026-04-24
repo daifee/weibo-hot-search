@@ -1,0 +1,410 @@
+{
+  "runTime": 1777030899884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 22191907,
+        "num": 22191907,
+        "word": "鹿晗 红包",
+        "onboard_time": 1777026920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1098734,
+        "num": 2163413,
+        "word": "AI在保护AI",
+        "onboard_time": 1777026741,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39075,
+        "num": 1788293,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1777015879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394961,
+        "num": 1473417,
+        "word": "孩子游戏退款后又充5万再退被拒",
+        "onboard_time": 1777021281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326669,
+        "num": 1415805,
+        "word": "外国人被上海烘焙店震惊",
+        "onboard_time": 1777014079,
+        "rank": 4,
+        "category": "海外新闻,美食"
+      },
+      {
+        "raw_hot": 1383951,
+        "num": 1383951,
+        "word": "五哈嘉宾名红包",
+        "onboard_time": 1777029743,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1076658,
+        "num": 1076658,
+        "word": "孙杨 保送再见爱人",
+        "onboard_time": 1777028241,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452619,
+        "num": 1075364,
+        "word": "梅毒并非只通过性传播",
+        "onboard_time": 1777022180,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296838,
+        "num": 1045878,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1777021941,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211673,
+        "num": 1025278,
+        "word": "王者哪吒2联动",
+        "onboard_time": 1777015160,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1533252,
+        "num": 1008750,
+        "word": "黄宗泽 牙龈萎缩",
+        "onboard_time": 1777019239,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1005283,
+        "num": 1005283,
+        "word": "黄旭熙 可以爆料了吗",
+        "onboard_time": 1777011140,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870050,
+        "num": 870050,
+        "word": "C罗认为人类喝牛奶不正常",
+        "onboard_time": 1777023440,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 936266,
+        "num": 841867,
+        "word": "孙杨 爷们要脸",
+        "onboard_time": 1777028360,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790103,
+        "num": 790103,
+        "word": "浪姐二公直播",
+        "onboard_time": 1777030043,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681632,
+        "num": 681632,
+        "word": "工程师猝死倒地后工作群还在轰炸",
+        "onboard_time": 1777020979,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670685,
+        "num": 670685,
+        "word": "跑男",
+        "onboard_time": 1777026741,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601968,
+        "num": 601968,
+        "word": "泡泡玛特 aespa",
+        "onboard_time": 1777027339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320599,
+        "num": 451551,
+        "word": "35岁单亲父亲压力大去世留下俩儿子",
+        "onboard_time": 1777029802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38066,
+        "num": 433221,
+        "word": "西安一职校男生被同学持刀捅伤",
+        "onboard_time": 1777029922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318784,
+        "num": 431951,
+        "word": "沪上阿姨疯涨",
+        "onboard_time": 1777022121,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431421,
+        "num": 431421,
+        "word": "华晨宇演唱会损失",
+        "onboard_time": 1777022720,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59184,
+        "num": 419998,
+        "word": "北大还行撒贝宁当场破防",
+        "onboard_time": 1777028723,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352803,
+        "num": 413545,
+        "word": "掩埋村民现场有多名穿着制服男子",
+        "onboard_time": 1777019780,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412204,
+        "num": 412204,
+        "word": "傅首尔怎么了",
+        "onboard_time": 1777004300,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386616,
+        "num": 386616,
+        "word": "鞠婧祎粉丝保密协议到期了",
+        "onboard_time": 1777028662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304422,
+        "num": 358877,
+        "word": "牙龈萎缩之后还能再长回来吗",
+        "onboard_time": 1777028421,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337627,
+        "num": 337627,
+        "word": "刘浩存帮同学要宋威龙签名照",
+        "onboard_time": 1777019119,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309393,
+        "num": 309393,
+        "word": "冰湖重生算扑吗",
+        "onboard_time": 1777017380,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178754,
+        "num": 178754,
+        "word": "你为什么不吃呷哺呷哺了",
+        "onboard_time": 1777019358,
+        "rank": 29,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 285301,
+        "num": 178489,
+        "word": "网传新红楼梦演员表",
+        "onboard_time": 1777018460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110395,
+        "num": 173618,
+        "word": "霍思燕杜江北京车展现场下订",
+        "onboard_time": 1777026979,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172810,
+        "num": 172810,
+        "word": "年薪19万放羊全年无休你愿意吗",
+        "onboard_time": 1777026979,
+        "rank": 32,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 272616,
+        "num": 170641,
+        "word": "张彬彬郑业成KO美人师兄售后",
+        "onboard_time": 1777015039,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264609,
+        "num": 167355,
+        "word": "泫雅近照曝光面部浮肿",
+        "onboard_time": 1777017679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163412,
+        "num": 163412,
+        "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
+        "onboard_time": 1777018100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251253,
+        "num": 161294,
+        "word": "时代少年团复刻古早合照",
+        "onboard_time": 1777026079,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 160057,
+        "word": "华晨宇演唱会为何临开场叫停",
+        "onboard_time": 1777025900,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158746,
+        "num": 158746,
+        "word": "保安掌掴女子最新回应",
+        "onboard_time": 1777029443,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32314,
+        "num": 158307,
+        "word": "大眼仔的太空vlog好治愈",
+        "onboard_time": 1777030222,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 48015,
+        "num": 156557,
+        "word": "飞猪免单倒计时",
+        "onboard_time": 1777025120,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37586,
+        "num": 155490,
+        "word": "把家装进MPV有多爽",
+        "onboard_time": 1777027041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227325,
+        "num": 155098,
+        "word": "浪姐",
+        "onboard_time": 1777010540,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191771,
+        "num": 154001,
+        "word": "宋祖儿素颜上班没有颜值焦虑",
+        "onboard_time": 1777030402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153216,
+        "num": 153216,
+        "word": "月薪1.6万放羊已筛选出2对夫妻",
+        "onboard_time": 1777014980,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187140,
+        "num": 151245,
+        "word": "张杰工作室文案",
+        "onboard_time": 1777030582,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182415,
+        "num": 150876,
+        "word": "当年TFBOYS就这样对抗EXO吗",
+        "onboard_time": 1777017259,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142192,
+        "num": 142192,
+        "word": "鸭货三巨头只有绝味亏了",
+        "onboard_time": 1777020800,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 131876,
+        "num": 131876,
+        "word": "印度一猴子幼崽夭折后闯民宅抓走婴儿",
+        "onboard_time": 1777028482,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181363,
+        "num": 131477,
+        "word": "曝留几手想复婚",
+        "onboard_time": 1777015099,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励中国航天奋斗圆梦#"
+    }
+  }
+}
