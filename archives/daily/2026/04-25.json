@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777064346706,
+  "endTime": 1777065216241,
   "band_list": [
     {
       "raw_hot": 2147508,
@@ -427,12 +427,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37244,
-      "num": 67220,
+      "raw_hot": 44997,
+      "num": 67578,
       "word": "养育孩子的三个目标",
       "onboard_time": 1777062373,
       "rank": 9,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 41537,
+      "num": 36847,
+      "word": "美国UFO研究者当警察面自杀",
+      "onboard_time": 1777064835,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30858,
+      "num": 46799,
+      "word": "最长的电影",
+      "onboard_time": 1777039823,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 29294,
@@ -443,7 +459,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28512,
+      "raw_hot": 28659,
       "num": 46802,
       "word": "原神",
       "onboard_time": 1777035023,
@@ -451,11 +467,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25820,
-      "num": 46799,
-      "word": "最长的电影",
-      "onboard_time": 1777039823,
-      "rank": 49,
+      "raw_hot": 24385,
+      "num": 26399,
+      "word": "奔跑吧14",
+      "onboard_time": 1777031961,
+      "rank": 43,
       "category": "综艺"
     },
     {
