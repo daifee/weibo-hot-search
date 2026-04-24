@@ -1,7 +1,15 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1776989395850,
+  "endTime": 1777001415855,
   "band_list": [
+    {
+      "raw_hot": 1948221,
+      "num": 1948221,
+      "word": "快手 低龄化伪成人",
+      "onboard_time": 1776991520,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
     {
       "raw_hot": 1551081,
       "num": 444551,
@@ -11,12 +19,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1419314,
+      "num": 1419314,
+      "word": "小米YU7GT",
+      "onboard_time": 1776997279,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1337729,
       "num": 1337729,
       "word": "月薪1.6万招人放羊包吃住有WiFi",
       "onboard_time": 1776958879,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1246100,
+      "num": 709930,
+      "word": "女歌手因恐飞取消北京巡演",
+      "onboard_time": 1776988459,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1127786,
+      "num": 1127786,
+      "word": "建议装修一定要去家务化",
+      "onboard_time": 1776993559,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1101088,
@@ -35,12 +67,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 924281,
+      "num": 325952,
+      "word": "爷爷得知孙女怀孕立刻搭了个鸡窝",
+      "onboard_time": 1776997698,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 837176,
+      "num": 324289,
+      "word": "丁禹兮把水晶手串拆了送粉丝",
+      "onboard_time": 1776998178,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781786,
       "num": 578503,
       "word": "人怎么可以争气成这样",
       "onboard_time": 1776948621,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 760642,
+      "num": 760642,
+      "word": "秦昊说外面有人了还要送啊",
+      "onboard_time": 1776988459,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 760168,
+      "num": 475949,
+      "word": "金智秀戛纳获奖感言",
+      "onboard_time": 1776996020,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 756226,
@@ -83,14 +147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 617587,
-      "num": 617587,
-      "word": "秦昊说外面有人了还要送啊",
-      "onboard_time": 1776988459,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 573347,
       "num": 573347,
       "word": "刘宇宁否认与宋祖儿恋情",
@@ -105,6 +161,14 @@
       "onboard_time": 1776947481,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538692,
+      "num": 538692,
+      "word": "雷军官宣小米YU7GT5月底发布",
+      "onboard_time": 1776996680,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 503949,
@@ -139,6 +203,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437344,
+      "num": 322687,
+      "word": "侯明昊演唱会舞美被指抄袭檀健次",
+      "onboard_time": 1776993800,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 394362,
+      "num": 320075,
+      "word": "女子穿睡衣买12万黄金首饰店主报警",
+      "onboard_time": 1776991401,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369625,
+      "num": 318327,
+      "word": "官方发布华晨宇演唱会补偿申请说明",
+      "onboard_time": 1776997519,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354548,
       "num": 575748,
       "word": "突然发现事缓则圆可能是真的",
@@ -147,11 +235,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339689,
+      "num": 315623,
+      "word": "孙杨张豆豆因行李箱打膜不愉快",
+      "onboard_time": 1776993800,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336216,
+      "num": 313331,
+      "word": "孙杨上妻旅后的表现争议",
+      "onboard_time": 1776999979,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332467,
       "num": 448629,
       "word": "王濛澄清和周洋不是真谈了",
       "onboard_time": 1776957022,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327004,
+      "num": 327004,
+      "word": "过度坦诚会失去吸引力",
+      "onboard_time": 1776997938,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309546,
+      "num": 310296,
+      "word": "马頔李纯快餐时代的老派爱情",
+      "onboard_time": 1776996079,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -187,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294251,
+      "num": 321556,
+      "word": "女生拉账单发现爸爸10年转了20多万",
+      "onboard_time": 1776987138,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291647,
       "num": 450750,
       "word": "外国人震惊中国水果摊老板开门睡觉",
@@ -195,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285012,
-      "num": 285012,
-      "word": "女歌手因恐飞取消北京巡演",
-      "onboard_time": 1776988459,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 280821,
+      "num": 297234,
+      "word": "美部长称中国未买英伟达芯片想自己搞",
+      "onboard_time": 1776998540,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 278322,
@@ -208,6 +336,14 @@
       "word": "女子减肥断碳水43天查出糖尿病前期",
       "onboard_time": 1776958460,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278139,
+      "num": 295947,
+      "word": "月薪1.6万招人放3000只羊老板发声",
+      "onboard_time": 1776972673,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -267,20 +403,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247218,
+      "num": 290935,
+      "word": "夜巴黎 低龄粉丝",
+      "onboard_time": 1776990262,
+      "rank": 33,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 243267,
       "num": 577823,
       "word": "陈飞宇白日提灯收官文",
       "onboard_time": 1776960260,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237246,
-      "num": 237246,
-      "word": "女生拉账单发现爸爸10年转了20多万",
-      "onboard_time": 1776987138,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236168,
@@ -291,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 220305,
+      "num": 289439,
+      "word": "奔跑吧14今晚雷霆开播",
+      "onboard_time": 1777001000,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218529,
       "num": 416883,
       "word": "赵丽颖白玉兰宣传大使",
@@ -299,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214966,
+      "num": 311798,
+      "word": "华谊兄弟为何衰落",
+      "onboard_time": 1776989360,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214373,
       "num": 431032,
       "word": "宫颈粘液栓是什么",
       "onboard_time": 1776944059,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202771,
+      "num": 286988,
+      "word": "NBA",
+      "onboard_time": 1776998839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194188,
+      "num": 285686,
+      "word": "王濛因为喝多了才来浪姐",
+      "onboard_time": 1777001119,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 189100,
@@ -347,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178228,
+      "num": 285008,
+      "word": "方程豹发布会",
+      "onboard_time": 1776996259,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177742,
       "num": 164454,
       "word": "警方回应男保安掌掴女司机事件",
@@ -387,12 +563,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167694,
+      "num": 280634,
+      "word": "崔丽丽案涉事公司首度回应",
+      "onboard_time": 1777000159,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167346,
+      "num": 265770,
+      "word": "张豆豆太懂事的人会过得很辛苦",
+      "onboard_time": 1776991040,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161798,
       "num": 401720,
       "word": "转卖女大学生电诈园要求撤掉报道",
       "onboard_time": 1776938841,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161214,
+      "num": 279347,
+      "word": "掘金vs森林狼",
+      "onboard_time": 1777000219,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160598,
+      "num": 278805,
+      "word": "伊朗末代国王长子巴列维在德国遇袭",
+      "onboard_time": 1777000639,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157779,
+      "num": 274610,
+      "word": "无限暖暖延迟开服",
+      "onboard_time": 1776999320,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156862,
+      "num": 309942,
+      "word": "张凌赫想尝试拍电影",
+      "onboard_time": 1776998300,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 156534,
@@ -515,12 +739,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117061,
-      "num": 117061,
-      "word": "华谊兄弟为何衰落",
-      "onboard_time": 1776989360,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 120540,
+      "num": 305591,
+      "word": "郭晓婷王天辰 三搭",
+      "onboard_time": 1777001299,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 114411,
@@ -531,12 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113756,
+      "num": 303177,
+      "word": "2PM将在玉泽演婚礼合体",
+      "onboard_time": 1776997579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113301,
       "num": 575001,
       "word": "神仙肉",
       "onboard_time": 1776939979,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109646,
+      "num": 307461,
+      "word": "华纳兄弟1100亿美元卖给派拉蒙",
+      "onboard_time": 1776989481,
+      "rank": 22,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 108763,
@@ -571,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98964,
+      "num": 272830,
+      "word": "斯诺克世锦赛中国4人晋级16强",
+      "onboard_time": 1776999740,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94702,
       "num": 94702,
       "word": "有人用AI恶搞保安扇女子耳光视频",
@@ -603,12 +851,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86020,
+      "num": 270231,
+      "word": "老鹰2比1尼克斯",
+      "onboard_time": 1776997880,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85768,
+      "num": 268505,
+      "word": "Bin真不对劲了",
+      "onboard_time": 1776997222,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85337,
       "num": 85337,
       "word": "焦虑是你太想要掌控",
       "onboard_time": 1776967935,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79010,
+      "num": 268023,
+      "word": "刘宇宁宋祖儿无商业关联",
+      "onboard_time": 1776994280,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 78562,
@@ -625,6 +897,14 @@
       "onboard_time": 1776956782,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76049,
+      "num": 293352,
+      "word": "赵丽颖对接辟谣白玉兰宣传大使",
+      "onboard_time": 1776997159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 75143,
@@ -667,12 +947,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47790,
-      "num": 54599,
-      "word": "月薪1.6万招人放3000只羊老板发声",
-      "onboard_time": 1776972673,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 49480,
+      "num": 271953,
+      "word": "宝马展台人气王竟是TA",
+      "onboard_time": 1777000219,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 46229,
@@ -731,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39075,
+      "num": 1245266,
+      "word": "第11个中国航天日",
+      "onboard_time": 1776997222,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38563,
       "num": 429454,
       "word": "华为乾崑智驾ADS5",
@@ -761,6 +1049,14 @@
       "onboard_time": 1776949282,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26691,
+      "num": 283588,
+      "word": "在奔驰展台读懂汽车140年",
+      "onboard_time": 1776998060,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 21699,
@@ -841,6 +1137,9 @@
     },
     {
       "word": "#人民海军一定能够不辱使命不负重托#"
+    },
+    {
+      "word": "#总书记的读后感#"
     }
   ]
 }
