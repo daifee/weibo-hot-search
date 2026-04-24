@@ -1,0 +1,410 @@
+{
+  "runTime": 1777025204904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835778,
+        "num": 1133724,
+        "word": "C罗认为人类喝牛奶不正常",
+        "onboard_time": 1777023440,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 778703,
+        "num": 822211,
+        "word": "C罗不喝牛奶",
+        "onboard_time": 1777017740,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43272,
+        "num": 757490,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1777015879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752870,
+        "num": 752870,
+        "word": "工程师猝死倒地后工作群还在轰炸",
+        "onboard_time": 1777020979,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646962,
+        "num": 646962,
+        "word": "梅毒并非只通过性传播",
+        "onboard_time": 1777022180,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 518620,
+        "num": 518620,
+        "word": "华晨宇演唱会损失",
+        "onboard_time": 1777022720,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 493726,
+        "num": 493726,
+        "word": "冰湖重生算扑吗",
+        "onboard_time": 1777017380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476733,
+        "num": 476733,
+        "word": "剪毁刘海意外剪成了人生发型",
+        "onboard_time": 1777011620,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469213,
+        "num": 469213,
+        "word": "网传新红楼梦演员表",
+        "onboard_time": 1777018460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417562,
+        "num": 417562,
+        "word": "外国人被上海烘焙店震惊",
+        "onboard_time": 1777014079,
+        "rank": 9,
+        "category": "海外新闻,美食"
+      },
+      {
+        "raw_hot": 1639006,
+        "num": 417529,
+        "word": "黄旭熙 可以爆料了吗",
+        "onboard_time": 1777011140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880978,
+        "num": 417070,
+        "word": "傅首尔怎么了",
+        "onboard_time": 1777004300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630197,
+        "num": 416617,
+        "word": "沪上阿姨疯涨",
+        "onboard_time": 1777022121,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80354,
+        "num": 415854,
+        "word": "白敬亭现身北京车展问界展台",
+        "onboard_time": 1777023440,
+        "rank": 13,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 835276,
+        "num": 415455,
+        "word": "黄宗泽 牙龈萎缩",
+        "onboard_time": 1777019239,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586594,
+        "num": 414979,
+        "word": "掩埋村民现场有多名穿着制服男子",
+        "onboard_time": 1777019780,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22814,
+        "num": 414485,
+        "word": "伊朗将把美以伊战争纳入教材",
+        "onboard_time": 1777024880,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 713424,
+        "num": 414292,
+        "word": "刘浩存帮同学要宋威龙签名照",
+        "onboard_time": 1777019119,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65935,
+        "num": 413606,
+        "word": "特朗普金卡只一人获批",
+        "onboard_time": 1777024699,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64045,
+        "num": 413479,
+        "word": "DeepSeekV4深度适配国产算力",
+        "onboard_time": 1777024580,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413127,
+        "num": 413127,
+        "word": "泫雅近照曝光面部浮肿",
+        "onboard_time": 1777017679,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106503,
+        "num": 391073,
+        "word": "金葵花把千年非遗文化装进车里",
+        "onboard_time": 1777023020,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 369222,
+        "num": 369222,
+        "word": "曝留几手想复婚",
+        "onboard_time": 1777015099,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312297,
+        "num": 312297,
+        "word": "张彬彬郑业成KO美人师兄售后",
+        "onboard_time": 1777015039,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289405,
+        "num": 289405,
+        "word": "月薪1.6万放羊已筛选出2对夫妻",
+        "onboard_time": 1777014980,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299314,
+        "num": 289007,
+        "word": "傅首尔现在瘦了好多",
+        "onboard_time": 1777011439,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288349,
+        "num": 288349,
+        "word": "王者哪吒2联动",
+        "onboard_time": 1777015160,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279953,
+        "num": 279953,
+        "word": "拌面里吃出一个马嘉祺",
+        "onboard_time": 1777007180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259323,
+        "num": 259323,
+        "word": "设计师办公室猝死微信定格在凌晨3点",
+        "onboard_time": 1777007120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254556,
+        "num": 254556,
+        "word": "郑钦文vs肯宁",
+        "onboard_time": 1777021941,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240819,
+        "num": 240819,
+        "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
+        "onboard_time": 1777018100,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35371,
+        "num": 231344,
+        "word": "沃尔沃中国公开赛的神仙挥杆",
+        "onboard_time": 1777023440,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226242,
+        "num": 226242,
+        "word": "江语晨女儿颜值",
+        "onboard_time": 1777013299,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218618,
+        "num": 218618,
+        "word": "当年TFBOYS就这样对抗EXO吗",
+        "onboard_time": 1777017259,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198433,
+        "num": 198433,
+        "word": "你为什么不吃呷哺呷哺了",
+        "onboard_time": 1777019358,
+        "rank": 34,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 202351,
+        "num": 196441,
+        "word": "网友酒店偶遇玉泽演结婚",
+        "onboard_time": 1777024580,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190250,
+        "num": 190250,
+        "word": "A股新股中一签赚38.9万元",
+        "onboard_time": 1777010540,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185050,
+        "num": 185050,
+        "word": "孩子游戏退款后又充5万再退被拒",
+        "onboard_time": 1777021281,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36461,
+        "num": 184841,
+        "word": "各国网友制作梗图嘲笑日本人",
+        "onboard_time": 1777024221,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31839,
+        "num": 184351,
+        "word": "高校演出机器人突然拥抱女生",
+        "onboard_time": 1777024880,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69353,
+        "num": 184139,
+        "word": "外交部回应两只大熊猫赴美",
+        "onboard_time": 1777023799,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69359,
+        "num": 183803,
+        "word": "飞猪免单倒计时",
+        "onboard_time": 1777025120,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "簪花的孟子义",
+        "onboard_time": 1777013480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163702,
+        "num": 163702,
+        "word": "带娃买高铁票结果相隔14个车厢",
+        "onboard_time": 1777022180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162870,
+        "num": 162870,
+        "word": "浪姐",
+        "onboard_time": 1777010540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159492,
+        "num": 159492,
+        "word": "猝死设计师一月内连续19天加班",
+        "onboard_time": 1777019239,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155458,
+        "num": 155458,
+        "word": "特朗普说世界疯了成赌场了",
+        "onboard_time": 1777020140,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150335,
+        "num": 150335,
+        "word": "笑佳人 高产",
+        "onboard_time": 1777022062,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 71933,
+        "num": 148423,
+        "word": "2026KPL春季赛最佳阵容",
+        "onboard_time": 1777016960,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146723,
+        "num": 146723,
+        "word": "袁一琦买黄金 人总要生活的",
+        "onboard_time": 1777010060,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励中国航天奋斗圆梦#"
+    }
+  }
+}
