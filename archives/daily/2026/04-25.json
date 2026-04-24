@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777072037355,
+  "endTime": 1777074595407,
   "band_list": [
     {
       "raw_hot": 2147508,
@@ -8,6 +8,22 @@
       "word": "陶昕然淘汰",
       "onboard_time": 1777041084,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1704461,
+      "num": 208356,
+      "word": "鹿晗",
+      "onboard_time": 1777071617,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1282755,
+      "num": 1282755,
+      "word": "浪姐 赢了被淘汰",
+      "onboard_time": 1777042583,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -19,14 +35,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1112961,
-      "num": 1112961,
-      "word": "浪姐 赢了被淘汰",
-      "onboard_time": 1777042583,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 941497,
       "num": 917068,
       "word": "唐艺昕 大大方方",
@@ -35,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 786637,
-      "num": 147131,
-      "word": "鹿晗",
-      "onboard_time": 1777071617,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 727228,
+      "num": 561538,
+      "word": "看完孙杨直接内伤失眠了",
+      "onboard_time": 1777073837,
+      "rank": 3,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 685785,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357391,
+      "num": 207152,
+      "word": "来杯姬尾酒",
+      "onboard_time": 1777074378,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352674,
       "num": 525859,
       "word": "丁俊晖vs赵心童",
@@ -107,12 +123,44 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 344454,
+      "num": 209778,
+      "word": "妈妈生了9个孩子又有了30个孙辈",
+      "onboard_time": 1777038744,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342425,
+      "num": 786545,
+      "word": "全国首个伴侣动物立法草案被删除",
+      "onboard_time": 1777044140,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339521,
+      "num": 205055,
+      "word": "医生将2粒药打成21粒患者索赔10万",
+      "onboard_time": 1777074138,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 326747,
       "num": 326747,
       "word": "曾沛慈 求求不要",
       "onboard_time": 1777045701,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325510,
+      "num": 325510,
+      "word": "以色列防长威胁将伊朗打回石器时期",
+      "onboard_time": 1777062014,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319434,
@@ -123,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317436,
-      "num": 529604,
-      "word": "全国首个伴侣动物立法草案被删除",
-      "onboard_time": 1777044140,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 308955,
+      "num": 204779,
+      "word": "官方回应华晨宇演唱会选址质疑",
+      "onboard_time": 1777053795,
+      "rank": 23,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 308291,
@@ -137,6 +185,14 @@
       "onboard_time": 1777039224,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272294,
+      "num": 203533,
+      "word": "傅首尔曾8个月减重26斤",
+      "onboard_time": 1777073898,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 266262,
@@ -155,12 +211,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240889,
+      "num": 502124,
+      "word": "年少的心动真的过期不候",
+      "onboard_time": 1777038324,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237501,
       "num": 237501,
       "word": "男子30年前被扣押2859克黄金未返还",
       "onboard_time": 1777045822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232719,
+      "num": 489523,
+      "word": "黄仁勋预言的灾难仅9天就成真",
+      "onboard_time": 1777037543,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 232139,
@@ -171,28 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227370,
-      "num": 502124,
-      "word": "年少的心动真的过期不候",
-      "onboard_time": 1777038324,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 226069,
+      "num": 202921,
+      "word": "电诈园老板嚣张妄言警方拿他没办法",
+      "onboard_time": 1777041924,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 225355,
-      "num": 489523,
-      "word": "黄仁勋预言的灾难仅9天就成真",
-      "onboard_time": 1777037543,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 220586,
-      "num": 220586,
-      "word": "以色列防长威胁将伊朗打回石器时期",
-      "onboard_time": 1777062014,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 215963,
+      "num": 198696,
+      "word": "孙杨 爷们要脸",
+      "onboard_time": 1777028360,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 214439,
@@ -201,14 +265,6 @@
       "onboard_time": 1777028241,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209778,
-      "num": 209778,
-      "word": "妈妈生了9个孩子又有了30个孙辈",
-      "onboard_time": 1777038744,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201388,
@@ -227,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197259,
-      "num": 197259,
-      "word": "官方回应华晨宇演唱会选址质疑",
-      "onboard_time": 1777053795,
-      "rank": 23,
-      "category": "演出,民生新闻"
+      "raw_hot": 196200,
+      "num": 196200,
+      "word": "深圳 吸烟",
+      "onboard_time": 1777074378,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193759,
@@ -267,28 +323,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177396,
-      "num": 146985,
+      "raw_hot": 182992,
+      "num": 182992,
+      "word": "曝毛晓彤凌晨从医美诊所离开",
+      "onboard_time": 1777032802,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178513,
+      "num": 178513,
       "word": "李小冉钟汉良16年前的剧翻红",
       "onboard_time": 1777068974,
       "rank": 22,
       "category": "剧集"
     },
     {
-      "raw_hot": 171659,
-      "num": 186098,
-      "word": "孙杨 爷们要脸",
-      "onboard_time": 1777028360,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 170793,
-      "num": 187470,
-      "word": "电诈园老板嚣张妄言警方拿他没办法",
-      "onboard_time": 1777041924,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 166249,
+      "num": 160774,
+      "word": "孙杨的情商",
+      "onboard_time": 1777073898,
+      "rank": 30,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 165472,
@@ -299,28 +355,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160924,
+      "num": 187365,
+      "word": "印度男子酒后杀妻竟提头颅穿行村庄",
+      "onboard_time": 1777038263,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156274,
       "num": 179628,
       "word": "孙怡团805票",
       "onboard_time": 1777038744,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146063,
-      "num": 146063,
-      "word": "曝毛晓彤凌晨从医美诊所离开",
-      "onboard_time": 1777032802,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144893,
-      "num": 187365,
-      "word": "印度男子酒后杀妻竟提头颅穿行村庄",
-      "onboard_time": 1777038263,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 144549,
@@ -347,6 +395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131266,
+      "num": 197302,
+      "word": "东方甄选 明明天权离职",
+      "onboard_time": 1777073958,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 130030,
+      "num": 130030,
+      "word": "黄宗泽 牙龈萎缩",
+      "onboard_time": 1777019239,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126389,
       "num": 182745,
       "word": "21世纪大君夫人",
@@ -355,12 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125023,
+      "raw_hot": 125564,
       "num": 147396,
       "word": "养育孩子的三个目标",
       "onboard_time": 1777062373,
       "rank": 9,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 123095,
+      "num": 181427,
+      "word": "高校一男生戴假发进女生宿舍偷拍",
+      "onboard_time": 1777043543,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118723,
@@ -371,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118554,
-      "num": 181427,
-      "word": "高校一男生戴假发进女生宿舍偷拍",
-      "onboard_time": 1777043543,
+      "raw_hot": 117740,
+      "num": 117740,
+      "word": "毛晓彤回应去医美诊所",
+      "onboard_time": 1777038382,
       "rank": 40,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 101686,
@@ -387,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91877,
+      "raw_hot": 94815,
       "num": 179107,
       "word": "黄金跌透了吗",
       "onboard_time": 1777040243,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93883,
+      "num": 93883,
+      "word": "刘宇宁惦记投喂任贤齐",
+      "onboard_time": 1777072817,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 89349,
@@ -513,6 +593,14 @@
       "onboard_time": 1777035023,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27910,
+      "num": 78110,
+      "word": "北京车展有哪些值得期待新车",
+      "onboard_time": 1777073057,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 17692,
