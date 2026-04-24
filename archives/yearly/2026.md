@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 18:06:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 19:14:23
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%23" target="weibo">
 春晚（热度：20885446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E7%BA%A2%E5%8C%85%23" target="weibo">
+鹿晗 红包（热度：18848065）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 苹果用户的天塌了（热度：2130426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E8%8E%89%E5%B2%9B%E5%B9%B8%E5%AD%98%E8%80%85%E6%9B%BE%E6%AF%8F%E5%A4%A9%E8%A2%AB%E4%BE%B5%E7%8A%AF3%E6%AC%A1%23" target="weibo">
-萝莉岛幸存者曾每天被侵犯3次（热度：2124362）
 </a>
 </li>
 

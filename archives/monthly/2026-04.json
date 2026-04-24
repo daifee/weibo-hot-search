@@ -1,7 +1,15 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777025204904,
+  "endTime": 1777029263603,
   "band_list": [
+    {
+      "raw_hot": 18848065,
+      "num": 18848065,
+      "word": "鹿晗 红包",
+      "onboard_time": 1777026920,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 12919916,
       "num": 12919916,
@@ -1611,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1327290,
+      "num": 1327290,
+      "word": "AI在保护AI",
+      "onboard_time": 1777026741,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1322586,
       "num": 690601,
       "word": "马頔 我还要生孩子呢",
@@ -1691,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1296575,
+      "num": 1133724,
+      "word": "C罗认为人类喝牛奶不正常",
+      "onboard_time": 1777023440,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1296259,
       "num": 1296259,
       "word": "买点便宜衣服穿就显年轻了",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1776908900,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1269298,
+      "num": 415455,
+      "word": "黄宗泽 牙龈萎缩",
+      "onboard_time": 1777019239,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1267966,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1776475999,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1113031,
+      "num": 340072,
+      "word": "孙杨 保送再见爱人",
+      "onboard_time": 1777028241,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1112154,
@@ -3657,22 +3697,6 @@
       "onboard_time": 1776747381,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 835778,
-      "num": 1133724,
-      "word": "C罗认为人类喝牛奶不正常",
-      "onboard_time": 1777023440,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 835276,
-      "num": 415455,
-      "word": "黄宗泽 牙龈萎缩",
-      "onboard_time": 1777019239,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 834493,
@@ -5105,6 +5129,14 @@
       "onboard_time": 1775022624,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 692421,
+      "num": 295716,
+      "word": "泡泡玛特 aespa",
+      "onboard_time": 1777027339,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 692204,
@@ -7281,6 +7313,14 @@
       "onboard_time": 1776660442,
       "rank": 1,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 548522,
+      "num": 333394,
+      "word": "跑男",
+      "onboard_time": 1776328881,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 548019,
@@ -9875,6 +9915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 437272,
+      "num": 909009,
+      "word": "外国人被上海烘焙店震惊",
+      "onboard_time": 1777014079,
+      "rank": 13,
+      "category": "海外新闻,美食"
+    },
+    {
       "raw_hot": 436931,
       "num": 1069909,
       "word": "樊振东英文告别主场球迷",
@@ -10307,14 +10355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422111,
-      "num": 417562,
-      "word": "外国人被上海烘焙店震惊",
-      "onboard_time": 1777014079,
-      "rank": 13,
-      "category": "海外新闻,美食"
-    },
-    {
       "raw_hot": 422023,
       "num": 422023,
       "word": "王安宇王玉雯新片海报",
@@ -10369,6 +10409,14 @@
       "onboard_time": 1776646642,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420528,
+      "num": 283511,
+      "word": "孩子游戏退款后又充5万再退被拒",
+      "onboard_time": 1777021281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420361,
@@ -10769,6 +10817,14 @@
       "onboard_time": 1776665902,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409323,
+      "num": 256628,
+      "word": "孙杨 爷们要脸",
+      "onboard_time": 1777028360,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 408539,
@@ -12811,6 +12867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358223,
+      "num": 358223,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1777021941,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357840,
       "num": 668584,
       "word": "女高管自制Excel表及时发现乳腺癌",
@@ -13425,6 +13489,14 @@
       "onboard_time": 1776413840,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 343152,
+      "num": 343152,
+      "word": "年薪19万放羊全年无休你愿意吗",
+      "onboard_time": 1777026979,
+      "rank": 4,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 342730,
@@ -17459,6 +17531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268150,
+      "num": 186832,
+      "word": "时代少年团复刻古早合照",
+      "onboard_time": 1777026079,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267959,
       "num": 267959,
       "word": "莫氏鸡煲要大变样了",
@@ -18387,14 +18467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254556,
-      "num": 254556,
-      "word": "郑钦文vs肯宁",
-      "onboard_time": 1777021941,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254468,
       "num": 254468,
       "word": "男子闯黄灯撞死无证闯红灯老人",
@@ -18648,6 +18720,14 @@
       "word": "秋瓷炫儿子要学中英韩三门语言",
       "onboard_time": 1775615782,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250611,
+      "num": 250611,
+      "word": "霍思燕杜江北京车展现场下订",
+      "onboard_time": 1777026979,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -19409,6 +19489,14 @@
       "onboard_time": 1776213560,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241236,
+      "num": 179035,
+      "word": "爆米花",
+      "onboard_time": 1777026200,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 240935,
@@ -21939,6 +22027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210133,
+      "num": 176154,
+      "word": "华晨宇演唱会为何临开场叫停",
+      "onboard_time": 1777025900,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210128,
       "num": 210128,
       "word": "赵雅芝73岁状态",
@@ -23467,6 +23563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194628,
+      "num": 136930,
+      "word": "鞠婧祎粉丝保密协议到期了",
+      "onboard_time": 1777028662,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194625,
       "num": 564832,
       "word": "孙俪小助理好爱她",
@@ -24451,14 +24555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185050,
-      "num": 216708,
-      "word": "孩子游戏退款后又充5万再退被拒",
-      "onboard_time": 1777021281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185020,
       "num": 157263,
       "word": "王楚钦回复许昕大脑处于宕机状态了",
@@ -25025,6 +25121,14 @@
       "onboard_time": 1775453960,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179578,
+      "num": 179578,
+      "word": "牙龈萎缩之后还能再长回来吗",
+      "onboard_time": 1777028421,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179562,
@@ -27241,14 +27345,6 @@
       "onboard_time": 1775470760,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161355,
-      "num": 152740,
-      "word": "跑男",
-      "onboard_time": 1776328881,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 161327,
@@ -32393,6 +32489,14 @@
       "onboard_time": 1775355318,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126727,
+      "num": 264331,
+      "word": "鸭货三巨头只有绝味亏了",
+      "onboard_time": 1777020800,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 126648,
@@ -38417,14 +38521,6 @@
       "onboard_time": 1775551460,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99760,
-      "num": 264331,
-      "word": "鸭货三巨头只有绝味亏了",
-      "onboard_time": 1777020800,
-      "rank": 18,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 99666,
@@ -48043,6 +48139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73980,
+      "num": 177918,
+      "word": "印度一猴子幼崽夭折后闯民宅抓走婴儿",
+      "onboard_time": 1777028482,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73978,
       "num": 73978,
       "word": "为什么俄罗斯的城市不搞冰雪大世界",
@@ -50553,6 +50657,14 @@
       "onboard_time": 1775445081,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67935,
+      "num": 325635,
+      "word": "事业编成绩测试端口被AI抓取",
+      "onboard_time": 1777028121,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67912,
@@ -55075,6 +55187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50201,
+      "num": 281410,
+      "word": "福建三明保安与女车主冲突后续",
+      "onboard_time": 1777028723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50154,
       "num": 165579,
       "word": "一汽大众全新纯电SUV谍照曝光",
@@ -55409,6 +55529,14 @@
       "onboard_time": 1775924663,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48509,
+      "num": 267355,
+      "word": "把家装进MPV有多爽",
+      "onboard_time": 1777027041,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48483,
@@ -57635,6 +57763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34253,
+      "num": 180427,
+      "word": "北大还行撒贝宁当场破防",
+      "onboard_time": 1777028723,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34247,
       "num": 81733,
       "word": "英国称不参与霍尔木兹海峡封锁",
@@ -58771,6 +58907,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 27428,
+      "num": 178922,
+      "word": "学位证失效男子称学校提出2个方案",
+      "onboard_time": 1777028603,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27410,
       "num": 64876,
       "word": "阿尔忒弥斯2号任务绕月返回轨道解析",
@@ -58849,6 +58993,14 @@
       "onboard_time": 1776014237,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27033,
+      "num": 177687,
+      "word": "原来汽车总裁都是e人",
+      "onboard_time": 1777028482,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 26920,

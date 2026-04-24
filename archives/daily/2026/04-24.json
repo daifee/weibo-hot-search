@@ -1,7 +1,15 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1777025204904,
+  "endTime": 1777029263603,
   "band_list": [
+    {
+      "raw_hot": 18848065,
+      "num": 18848065,
+      "word": "鹿晗 红包",
+      "onboard_time": 1777026920,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3170901,
       "num": 3170901,
@@ -59,6 +67,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1327290,
+      "num": 1327290,
+      "word": "AI在保护AI",
+      "onboard_time": 1777026741,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1296575,
+      "num": 1133724,
+      "word": "C罗认为人类喝牛奶不正常",
+      "onboard_time": 1777023440,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1269298,
+      "num": 415455,
+      "word": "黄宗泽 牙龈萎缩",
+      "onboard_time": 1777019239,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1246100,
       "num": 776342,
       "word": "女歌手因恐飞取消北京巡演",
@@ -81,6 +113,14 @@
       "onboard_time": 1776993559,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1113031,
+      "num": 340072,
+      "word": "孙杨 保送再见爱人",
+      "onboard_time": 1777028241,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1101088,
@@ -129,22 +169,6 @@
       "onboard_time": 1777017740,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 835778,
-      "num": 1133724,
-      "word": "C罗认为人类喝牛奶不正常",
-      "onboard_time": 1777023440,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 835276,
-      "num": 415455,
-      "word": "黄宗泽 牙龈萎缩",
-      "onboard_time": 1777019239,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 829674,
@@ -241,6 +265,14 @@
       "onboard_time": 1777004300,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 692421,
+      "num": 295716,
+      "word": "泡泡玛特 aespa",
+      "onboard_time": 1777027339,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 688261,
@@ -387,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548522,
+      "num": 333394,
+      "word": "跑男",
+      "onboard_time": 1777026741,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539750,
       "num": 365658,
       "word": "今年四大院校艺考前四名",
@@ -499,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 437272,
+      "num": 909009,
+      "word": "外国人被上海烘焙店震惊",
+      "onboard_time": 1777014079,
+      "rank": 13,
+      "category": "海外新闻,美食"
+    },
+    {
       "raw_hot": 424583,
       "num": 413127,
       "word": "泫雅近照曝光面部浮肿",
@@ -507,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422111,
-      "num": 417562,
-      "word": "外国人被上海烘焙店震惊",
-      "onboard_time": 1777014079,
-      "rank": 13,
-      "category": "海外新闻,美食"
+      "raw_hot": 420528,
+      "num": 283511,
+      "word": "孩子游戏退款后又充5万再退被拒",
+      "onboard_time": 1777021281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409323,
+      "num": 256628,
+      "word": "孙杨 爷们要脸",
+      "onboard_time": 1777028360,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 408308,
@@ -579,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358223,
+      "num": 358223,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1777021941,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354548,
       "num": 575748,
       "word": "突然发现事缓则圆可能是真的",
       "onboard_time": 1776942201,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343152,
+      "num": 343152,
+      "word": "年薪19万放羊全年无休你愿意吗",
+      "onboard_time": 1777026979,
+      "rank": 4,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 339689,
@@ -779,6 +851,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 268150,
+      "num": 186832,
+      "word": "时代少年团复刻古早合照",
+      "onboard_time": 1777026079,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266797,
       "num": 266797,
       "word": "特朗普称美完全掌控霍尔木兹",
@@ -851,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254556,
-      "num": 254556,
-      "word": "郑钦文vs肯宁",
-      "onboard_time": 1777021941,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254459,
       "num": 254459,
       "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
@@ -875,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250611,
+      "num": 250611,
+      "word": "霍思燕杜江北京车展现场下订",
+      "onboard_time": 1777026979,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247218,
       "num": 290935,
       "word": "夜巴黎 低龄粉丝",
@@ -889,6 +969,14 @@
       "onboard_time": 1776960260,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241236,
+      "num": 179035,
+      "word": "爆米花",
+      "onboard_time": 1777026200,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 239178,
@@ -963,6 +1051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210133,
+      "num": 176154,
+      "word": "华晨宇演唱会为何临开场叫停",
+      "onboard_time": 1777025900,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202771,
       "num": 297678,
       "word": "NBA",
@@ -985,6 +1081,14 @@
       "onboard_time": 1777019358,
       "rank": 42,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 194628,
+      "num": 136930,
+      "word": "鞠婧祎粉丝保密协议到期了",
+      "onboard_time": 1777028662,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 194580,
@@ -1035,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185050,
-      "num": 216708,
-      "word": "孩子游戏退款后又充5万再退被拒",
-      "onboard_time": 1777021281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184654,
       "num": 184654,
       "word": "金银价格双双跳水",
@@ -1065,6 +1161,14 @@
       "onboard_time": 1777015399,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179578,
+      "num": 179578,
+      "word": "牙龈萎缩之后还能再长回来吗",
+      "onboard_time": 1777028421,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179198,
@@ -1395,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126727,
+      "num": 264331,
+      "word": "鸭货三巨头只有绝味亏了",
+      "onboard_time": 1777020800,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 121149,
       "num": 383555,
       "word": "百年乒乓纪录片第一个镜头是王楚钦",
@@ -1529,14 +1641,6 @@
       "onboard_time": 1777002319,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99760,
-      "num": 264331,
-      "word": "鸭货三巨头只有绝味亏了",
-      "onboard_time": 1777020800,
-      "rank": 18,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 96138,
@@ -1675,6 +1779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 73980,
+      "num": 177918,
+      "word": "印度一猴子幼崽夭折后闯民宅抓走婴儿",
+      "onboard_time": 1777028482,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72581,
       "num": 210300,
       "word": "女子网购1450单全退货店家损失12万",
@@ -1721,6 +1833,14 @@
       "onboard_time": 1777023799,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67935,
+      "num": 325635,
+      "word": "事业编成绩测试端口被AI抓取",
+      "onboard_time": 1777028121,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65935,
@@ -1771,12 +1891,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50201,
+      "num": 281410,
+      "word": "福建三明保安与女车主冲突后续",
+      "onboard_time": 1777028723,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49449,
       "num": 242867,
       "word": "你好吉利小撒报到",
       "onboard_time": 1777017859,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48509,
+      "num": 267355,
+      "word": "把家装进MPV有多爽",
+      "onboard_time": 1777027041,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46229,
@@ -1899,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34253,
+      "num": 180427,
+      "word": "北大还行撒贝宁当场破防",
+      "onboard_time": 1777028723,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32074,
       "num": 235864,
       "word": "打赏案父亲说只有她恨我我不恨她",
@@ -1929,6 +2073,22 @@
       "onboard_time": 1776949282,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27428,
+      "num": 178922,
+      "word": "学位证失效男子称学校提出2个方案",
+      "onboard_time": 1777028603,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27033,
+      "num": 177687,
+      "word": "原来汽车总裁都是e人",
+      "onboard_time": 1777028482,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 26691,
