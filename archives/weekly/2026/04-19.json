@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1777030899884,
+  "endTime": 1777038767675,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2717211,
+      "num": 2717211,
+      "word": "亲亲组 各跳各的",
+      "onboard_time": 1777037124,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2708776,
       "num": 2708776,
       "word": "未授权AI艺人",
       "onboard_time": 1776670642,
       "rank": 1,
       "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 2526058,
+      "num": 1504788,
+      "word": "唐艺昕开头没偷摸骂我两句吧",
+      "onboard_time": 1777034362,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2496844,
@@ -273,6 +289,14 @@
       "onboard_time": 1776680002,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1988063,
+      "num": 1988063,
+      "word": "救救陈凯琳",
+      "onboard_time": 1777037603,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1971347,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 1533252,
-      "num": 1008750,
+      "num": 1169371,
       "word": "黄宗泽 牙龈萎缩",
       "onboard_time": 1777019239,
       "rank": 31,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 1296575,
-      "num": 1133724,
+      "num": 1149337,
       "word": "C罗认为人类喝牛奶不正常",
       "onboard_time": 1777023440,
       "rank": 0,
@@ -955,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1150955,
+      "num": 1150955,
+      "word": "浪姐二公直播",
+      "onboard_time": 1777030043,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1146133,
       "num": 479245,
       "word": "鹿晗工作室",
@@ -993,6 +1025,14 @@
       "onboard_time": 1776993559,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1126348,
+      "num": 1126348,
+      "word": "曝毛晓彤凌晨从医美诊所离开",
+      "onboard_time": 1777032802,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124373,
@@ -1803,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 790103,
-      "num": 790103,
-      "word": "浪姐二公直播",
-      "onboard_time": 1777030043,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 789883,
       "num": 789883,
       "word": "低精力 杏仁核长期应激",
@@ -2387,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664658,
+      "num": 1779199,
+      "word": "庄法安崎看得我好爽",
+      "onboard_time": 1777033224,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664428,
       "num": 345339,
       "word": "虞书欣好辣",
@@ -2451,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648979,
+      "num": 648979,
+      "word": "何宣林高音",
+      "onboard_time": 1777034483,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646973,
       "num": 646973,
       "word": "邓超现在洗澡离不开黑泥",
@@ -2460,7 +2508,7 @@
     },
     {
       "raw_hot": 646962,
-      "num": 1075364,
+      "num": 1955171,
       "word": "梅毒并非只通过性传播",
       "onboard_time": 1777022180,
       "rank": 4,
@@ -2556,7 +2604,7 @@
     },
     {
       "raw_hot": 630197,
-      "num": 431951,
+      "num": 1135265,
       "word": "沪上阿姨疯涨",
       "onboard_time": 1777022121,
       "rank": 12,
@@ -2601,6 +2649,14 @@
       "onboard_time": 1776877997,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 623444,
+      "num": 623444,
+      "word": "这才是普通家庭养孩子的最优解",
+      "onboard_time": 1777033342,
+      "rank": 24,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 622036,
@@ -2777,6 +2833,14 @@
       "onboard_time": 1776928760,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 592142,
+      "num": 592142,
+      "word": "范玮琪咋自己玩上了",
+      "onboard_time": 1777037905,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 591829,
@@ -3003,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564903,
+      "num": 1132552,
+      "word": "月鳞绮纪2已正式启动",
+      "onboard_time": 1777035864,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562782,
       "num": 803923,
       "word": "爱奇艺 长剧",
@@ -3089,6 +3161,14 @@
       "onboard_time": 1776580579,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548627,
+      "num": 548627,
+      "word": "张杰工作室文案",
+      "onboard_time": 1777030582,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 548528,
@@ -3480,6 +3560,14 @@
       "word": "李小冉哭了两晚上",
       "onboard_time": 1776733281,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484493,
+      "num": 484493,
+      "word": "海哈金喜回应与李亚鹏复婚",
+      "onboard_time": 1777037963,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -3876,7 +3964,7 @@
     },
     {
       "raw_hot": 437272,
-      "num": 1415805,
+      "num": 1998247,
       "word": "外国人被上海烘焙店震惊",
       "onboard_time": 1777014079,
       "rank": 13,
@@ -4200,6 +4288,14 @@
       "word": "虞书欣湖蓝亮色长裙",
       "onboard_time": 1776814039,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404888,
+      "num": 404888,
+      "word": "李现疑似对共享单车粉转黑",
+      "onboard_time": 1777030461,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -4755,6 +4851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 354553,
+      "num": 354553,
+      "word": "网友开始嗑李昀锐和白鹿",
+      "onboard_time": 1777034002,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352781,
       "num": 324067,
       "word": "1岁男童基因突变患癌症晚期",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1776837259,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350296,
+      "num": 916901,
+      "word": "牙龈萎缩之后还能再长回来吗",
+      "onboard_time": 1777028421,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 349969,
@@ -5115,6 +5227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320528,
+      "num": 262242,
+      "word": "毛晓彤回应去医美诊所",
+      "onboard_time": 1777038382,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320228,
       "num": 320228,
       "word": "迪丽热巴两个卫蓝对手戏",
@@ -5251,6 +5371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 313478,
+      "num": 354435,
+      "word": "原来内耗的人需要的是这样的安慰",
+      "onboard_time": 1777034061,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312719,
       "num": 286742,
       "word": "小城良方",
@@ -5385,14 +5513,6 @@
       "onboard_time": 1776814578,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304422,
-      "num": 358877,
-      "word": "牙龈萎缩之后还能再长回来吗",
-      "onboard_time": 1777028421,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 304116,
@@ -6139,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254879,
+      "num": 254879,
+      "word": "律师解读张杰工作室文案争议",
+      "onboard_time": 1777036703,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254459,
       "num": 254459,
       "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
@@ -6297,6 +6425,22 @@
       "onboard_time": 1776990262,
       "rank": 33,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 246576,
+      "num": 246576,
+      "word": "宋祖儿素颜上班没有颜值焦虑",
+      "onboard_time": 1777030402,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246530,
+      "num": 1141279,
+      "word": "12306回应家长和孩子相隔14个车厢",
+      "onboard_time": 1777033583,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246101,
@@ -6843,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222424,
+      "num": 1644740,
+      "word": "以色列总理证实患癌但已治疗",
+      "onboard_time": 1777035082,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222370,
       "num": 915616,
       "word": "方博回应代表哈萨克斯坦参赛",
@@ -7379,6 +7531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202093,
+      "num": 254497,
+      "word": "美国女子在印度遭民宿员工下药强奸",
+      "onboard_time": 1777031001,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 201760,
       "num": 262084,
       "word": "马嘉祺连上课都有高清直拍",
@@ -7492,7 +7652,7 @@
     },
     {
       "raw_hot": 198433,
-      "num": 198433,
+      "num": 475749,
       "word": "你为什么不吃呷哺呷哺了",
       "onboard_time": 1777019358,
       "rank": 42,
@@ -7521,6 +7681,14 @@
       "onboard_time": 1776930739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196257,
+      "num": 1543820,
+      "word": "DeepSeekV4 价格屠夫",
+      "onboard_time": 1777031303,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 195527,
@@ -7625,14 +7793,6 @@
       "onboard_time": 1776653061,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191771,
-      "num": 154001,
-      "word": "宋祖儿素颜上班没有颜值焦虑",
-      "onboard_time": 1777030402,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 191749,
@@ -7761,14 +7921,6 @@
       "onboard_time": 1776877217,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 187140,
-      "num": 151245,
-      "word": "张杰工作室文案",
-      "onboard_time": 1777030582,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 187119,
@@ -8121,6 +8273,14 @@
       "onboard_time": 1777002740,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175130,
+      "num": 1143947,
+      "word": "原神",
+      "onboard_time": 1776834261,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 174772,
@@ -8499,6 +8659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162824,
+      "num": 1348006,
+      "word": "郑钦文马德里2比1肯宁",
+      "onboard_time": 1777033224,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162815,
       "num": 484027,
       "word": "人与人最大的区别就是出门",
@@ -8603,6 +8771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159187,
+      "num": 370617,
+      "word": "保安掌掴女子最新回应",
+      "onboard_time": 1777029443,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159080,
       "num": 159080,
       "word": "多方回应KTV服务员强奸14岁女生",
@@ -8641,14 +8817,6 @@
       "onboard_time": 1776947241,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158746,
-      "num": 158746,
-      "word": "保安掌掴女子最新回应",
-      "onboard_time": 1777029443,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158345,
@@ -9476,7 +9644,7 @@
     },
     {
       "raw_hot": 131876,
-      "num": 177918,
+      "num": 339146,
       "word": "印度一猴子幼崽夭折后闯民宅抓走婴儿",
       "onboard_time": 1777028482,
       "rank": 38,
@@ -9563,20 +9731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130146,
-      "num": 413554,
-      "word": "原神",
-      "onboard_time": 1776834261,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130002,
       "num": 331511,
       "word": "Pura90ProMax超大底2亿长焦",
       "onboard_time": 1776672742,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129859,
+      "num": 1155495,
+      "word": "年少的心动真的过期不候",
+      "onboard_time": 1777038324,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 129745,
@@ -10305,6 +10473,22 @@
       "onboard_time": 1776822919,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102540,
+      "num": 492805,
+      "word": "原神兑换码",
+      "onboard_time": 1777035983,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102275,
+      "num": 486968,
+      "word": "强迫主播进入鳄鱼缸MCN已关门",
+      "onboard_time": 1777037244,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101845,
@@ -11427,6 +11611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60340,
+      "num": 345356,
+      "word": "希望芬方理性看待中国同他国关系",
+      "onboard_time": 1777037244,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60306,
       "num": 829817,
       "word": "人民海军成立77周年",
@@ -11739,6 +11931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50759,
+      "num": 1126976,
+      "word": "多地支持用公积金装修交物业费",
+      "onboard_time": 1777037664,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50728,
       "num": 169328,
       "word": "斯玛特湖人本场最硬的人",
@@ -11892,7 +12092,7 @@
     },
     {
       "raw_hot": 46156,
-      "num": 1788293,
+      "num": 1989898,
       "word": "有一种浪漫叫中国航天",
       "onboard_time": 1777015879,
       "rank": 2,
@@ -11921,6 +12121,14 @@
       "onboard_time": 1776718694,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44683,
+      "num": 347358,
+      "word": "印度男子酒后杀妻竟提头颅穿行村庄",
+      "onboard_time": 1777038263,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44498,
@@ -12273,6 +12481,14 @@
       "onboard_time": 1776952281,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34508,
+      "num": 592587,
+      "word": "胡兵给荣耀机器人发走秀offer",
+      "onboard_time": 1777036043,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 34216,

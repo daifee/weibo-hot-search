@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777030899884,
+  "endTime": 1777038767675,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1555,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2717211,
+      "num": 2717211,
+      "word": "亲亲组 各跳各的",
+      "onboard_time": 1777037124,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2708776,
       "num": 2708776,
       "word": "未授权AI艺人",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1770457161,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2526058,
+      "num": 1504788,
+      "word": "唐艺昕开头没偷摸骂我两句吧",
+      "onboard_time": 1777034362,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2502813,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767676221,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2131728,
-      "num": 2131728,
-      "word": "月全食",
-      "onboard_time": 1772500346,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 2130426,
-      "num": 755590,
-      "word": "苹果用户的天塌了",
-      "onboard_time": 1769155100,
-      "rank": 10,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
