@@ -1,0 +1,410 @@
+{
+  "runTime": 1777040132740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2009175,
+        "num": 2009175,
+        "word": "最长的电影",
+        "onboard_time": 1777039823,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276858,
+        "num": 1829525,
+        "word": "外国人被上海烘焙店震惊",
+        "onboard_time": 1777014079,
+        "rank": 1,
+        "category": "海外新闻,美食"
+      },
+      {
+        "raw_hot": 27971,
+        "num": 1746720,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1777015879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3245657,
+        "num": 1722336,
+        "word": "安崎李心洁 神级舞台",
+        "onboard_time": 1777039224,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1691959,
+        "num": 1691959,
+        "word": "亲亲组 各跳各的",
+        "onboard_time": 1777037124,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313462,
+        "num": 1646289,
+        "word": "梅毒并非只通过性传播",
+        "onboard_time": 1777022180,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293075,
+        "num": 1605448,
+        "word": "年少的心动真的过期不候",
+        "onboard_time": 1777038324,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270535,
+        "num": 1555335,
+        "word": "牙龈萎缩之后还能再长回来吗",
+        "onboard_time": 1777028421,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202565,
+        "num": 1548169,
+        "word": "DeepSeekV4 价格屠夫",
+        "onboard_time": 1777031303,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119361,
+        "num": 1463677,
+        "word": "郑钦文马德里2比1肯宁",
+        "onboard_time": 1777033224,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12431997,
+        "num": 12431997,
+        "word": "鹿晗 红包",
+        "onboard_time": 1777026920,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1408720,
+        "num": 1408720,
+        "word": "救救陈凯琳",
+        "onboard_time": 1777037603,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429945,
+        "num": 1342249,
+        "word": "C罗认为人类喝牛奶不正常",
+        "onboard_time": 1777023440,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316505,
+        "num": 1316505,
+        "word": "曝毛晓彤凌晨从医美诊所离开",
+        "onboard_time": 1777032802,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046474,
+        "num": 1046474,
+        "word": "孙怡团805票",
+        "onboard_time": 1777038744,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259370,
+        "num": 1038965,
+        "word": "工程师猝死倒地后工作群还在轰炸",
+        "onboard_time": 1777020979,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160150,
+        "num": 1032016,
+        "word": "CBA",
+        "onboard_time": 1777038984,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139927,
+        "num": 1025655,
+        "word": "原神",
+        "onboard_time": 1777035023,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95636,
+        "num": 1015545,
+        "word": "JDG战胜iG",
+        "onboard_time": 1777038864,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229947,
+        "num": 1012129,
+        "word": "12306回应家长和孩子相隔14个车厢",
+        "onboard_time": 1777033583,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237534,
+        "num": 999573,
+        "word": "以色列总理证实患癌但已治疗",
+        "onboard_time": 1777035082,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 996543,
+        "num": 996543,
+        "word": "黄宗泽 牙龈萎缩",
+        "onboard_time": 1777019239,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947928,
+        "num": 947928,
+        "word": "浪姐二公直播",
+        "onboard_time": 1777030043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22796,
+        "num": 791431,
+        "word": "AI霸总精准围猎老年人",
+        "onboard_time": 1777039943,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171530,
+        "num": 787150,
+        "word": "妈妈生了9个孩子又有了30个孙辈",
+        "onboard_time": 1777038744,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45980,
+        "num": 785367,
+        "word": "自行车可以带上火车了",
+        "onboard_time": 1777038864,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784041,
+        "num": 784041,
+        "word": "何宣林 分词",
+        "onboard_time": 1777039342,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620991,
+        "num": 620991,
+        "word": "毛晓彤回应去医美诊所",
+        "onboard_time": 1777038382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163300,
+        "num": 605884,
+        "word": "沪上阿姨疯涨",
+        "onboard_time": 1777022121,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 602177,
+        "num": 602177,
+        "word": "这才是普通家庭养孩子的最优解",
+        "onboard_time": 1777033342,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 609251,
+        "num": 575760,
+        "word": "孙杨 保送再见爱人",
+        "onboard_time": 1777028241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326958,
+        "num": 546011,
+        "word": "原来内耗的人需要的是这样的安慰",
+        "onboard_time": 1777034061,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540408,
+        "num": 540408,
+        "word": "海哈金喜回应与李亚鹏复婚",
+        "onboard_time": 1777037963,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466180,
+        "num": 466180,
+        "word": "张杰工作室文案",
+        "onboard_time": 1777030582,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1693066,
+        "num": 463003,
+        "word": "唐艺昕开头没偷摸骂我两句吧",
+        "onboard_time": 1777034362,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281634,
+        "num": 451935,
+        "word": "AI在保护AI",
+        "onboard_time": 1777026741,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 442035,
+        "num": 442035,
+        "word": "范玮琪咋自己玩上了",
+        "onboard_time": 1777037905,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421357,
+        "num": 421357,
+        "word": "孙杨 爷们要脸",
+        "onboard_time": 1777028360,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138608,
+        "num": 373846,
+        "word": "你为什么不吃呷哺呷哺了",
+        "onboard_time": 1777019358,
+        "rank": 38,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 123114,
+        "num": 367784,
+        "word": "刘浩存帮同学要宋威龙签名照",
+        "onboard_time": 1777019119,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367726,
+        "num": 367726,
+        "word": "李现疑似对共享单车粉转黑",
+        "onboard_time": 1777030461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197814,
+        "num": 366478,
+        "word": "美国女子在印度遭民宿员工下药强奸",
+        "onboard_time": 1777031001,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 553204,
+        "num": 364781,
+        "word": "月鳞绮纪2已正式启动",
+        "onboard_time": 1777035864,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169295,
+        "num": 363263,
+        "word": "张真源连撕四人名牌终结比赛",
+        "onboard_time": 1777037365,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178245,
+        "num": 361662,
+        "word": "黄仁勋预言的灾难仅9天就成真",
+        "onboard_time": 1777037543,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361474,
+        "num": 361474,
+        "word": "张奕然被重庆艺术学校录取",
+        "onboard_time": 1777039283,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358470,
+        "num": 358470,
+        "word": "陶昕然 天选古人",
+        "onboard_time": 1777040003,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115035,
+        "num": 346031,
+        "word": "金银价格急速下跌",
+        "onboard_time": 1777031843,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336938,
+        "num": 336938,
+        "word": "肖战直播",
+        "onboard_time": 1777031722,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26454,
+        "num": 326449,
+        "word": "胡兵给荣耀机器人发走秀offer",
+        "onboard_time": 1777036043,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励中国航天奋斗圆梦#"
+    }
+  }
+}

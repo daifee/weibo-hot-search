@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777038767675,
+  "endTime": 1777040132740,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3245657,
+      "num": 1722336,
+      "word": "安崎李心洁 神级舞台",
+      "onboard_time": 1777039224,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3214686,
       "num": 606660,
       "word": "朱迅已抗癌20年",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772981482,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2133729,
-      "num": 2133729,
-      "word": "霸王茶姬通报",
-      "onboard_time": 1767676221,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

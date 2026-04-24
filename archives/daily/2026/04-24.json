@@ -1,6 +1,6 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1777038767675,
+  "endTime": 1777040132740,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -8,6 +8,14 @@
       "word": "鹿晗 红包",
       "onboard_time": 1777026920,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3245657,
+      "num": 1722336,
+      "word": "安崎李心洁 神级舞台",
+      "onboard_time": 1777039224,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1777011140,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2009175,
+      "num": 2009175,
+      "word": "最长的电影",
+      "onboard_time": 1777039823,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1988063,
@@ -115,8 +131,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1316505,
+      "num": 1316505,
+      "word": "曝毛晓彤凌晨从医美诊所离开",
+      "onboard_time": 1777032802,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296575,
-      "num": 1149337,
+      "num": 1342249,
       "word": "C罗认为人类喝牛奶不正常",
       "onboard_time": 1777023440,
       "rank": 0,
@@ -155,14 +179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1126348,
-      "num": 1126348,
-      "word": "曝毛晓彤凌晨从医美诊所离开",
-      "onboard_time": 1777032802,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1113031,
       "num": 1076658,
       "word": "孙杨 保送再见爱人",
@@ -177,6 +193,14 @@
       "onboard_time": 1776986421,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1046474,
+      "num": 1046474,
+      "word": "孙怡团805票",
+      "onboard_time": 1777038744,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 983925,
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784041,
+      "num": 784041,
+      "word": "何宣林 分词",
+      "onboard_time": 1777039342,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 781786,
       "num": 578503,
       "word": "人怎么可以争气成这样",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 752870,
-      "num": 752870,
+      "num": 1038965,
       "word": "工程师猝死倒地后工作群还在轰炸",
       "onboard_time": 1777020979,
       "rank": 19,
@@ -443,6 +475,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 620991,
+      "num": 620991,
+      "word": "毛晓彤回应去医美诊所",
+      "onboard_time": 1777038382,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592142,
       "num": 592142,
       "word": "范玮琪咋自己玩上了",
@@ -531,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540408,
+      "num": 540408,
+      "word": "海哈金喜回应与李亚鹏复婚",
+      "onboard_time": 1777037963,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539750,
       "num": 365658,
       "word": "今年四大院校艺考前四名",
@@ -577,14 +625,6 @@
       "onboard_time": 1777010060,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484493,
-      "num": 484493,
-      "word": "海哈金喜回应与李亚鹏复婚",
-      "onboard_time": 1777037963,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 483044,
@@ -739,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361474,
+      "num": 361474,
+      "word": "张奕然被重庆艺术学校录取",
+      "onboard_time": 1777039283,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360112,
       "num": 262871,
       "word": "猝死设计师一月内连续19天加班",
@@ -752,6 +800,14 @@
       "word": "孙杨张豆豆认识四个月就确定关系了",
       "onboard_time": 1777008319,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358470,
+      "num": 358470,
+      "word": "陶昕然 天选古人",
+      "onboard_time": 1777040003,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 350296,
-      "num": 916901,
+      "num": 1555335,
       "word": "牙龈萎缩之后还能再长回来吗",
       "onboard_time": 1777028421,
       "rank": 35,
@@ -803,8 +859,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336833,
-      "num": 336833,
+      "raw_hot": 336938,
+      "num": 336938,
       "word": "肖战直播",
       "onboard_time": 1777031722,
       "rank": 42,
@@ -843,6 +899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 326958,
+      "num": 546011,
+      "word": "原来内耗的人需要的是这样的安慰",
+      "onboard_time": 1777034061,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324277,
       "num": 320425,
       "word": "A股新股中一签赚38.9万元",
@@ -867,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320528,
-      "num": 262242,
-      "word": "毛晓彤回应去医美诊所",
-      "onboard_time": 1777038382,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319927,
       "num": 228473,
       "word": "簪花的孟子义",
@@ -889,14 +945,6 @@
       "onboard_time": 1777013299,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313478,
-      "num": 354435,
-      "word": "原来内耗的人需要的是这样的安慰",
-      "onboard_time": 1777034061,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 312205,
@@ -961,6 +1009,14 @@
       "onboard_time": 1776987138,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293075,
+      "num": 1605448,
+      "word": "年少的心动真的过期不候",
+      "onboard_time": 1777038324,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 291647,
@@ -1195,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237534,
+      "num": 1644740,
+      "word": "以色列总理证实患癌但已治疗",
+      "onboard_time": 1777035082,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236168,
       "num": 439889,
       "word": "女子指甲总长13米涂一次需20瓶指甲油",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1777005862,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222424,
-      "num": 1644740,
-      "word": "以色列总理证实患癌但已治疗",
-      "onboard_time": 1777035082,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220422,
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202565,
+      "num": 1548169,
+      "word": "DeepSeekV4 价格屠夫",
+      "onboard_time": 1777031303,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 202351,
       "num": 196441,
       "word": "网友酒店偶遇玉泽演结婚",
@@ -1276,7 +1340,7 @@
     },
     {
       "raw_hot": 202093,
-      "num": 254497,
+      "num": 366478,
       "word": "美国女子在印度遭民宿员工下药强奸",
       "onboard_time": 1777031001,
       "rank": 47,
@@ -1289,14 +1353,6 @@
       "onboard_time": 1777019358,
       "rank": 42,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 196257,
-      "num": 1543820,
-      "word": "DeepSeekV4 价格屠夫",
-      "onboard_time": 1777031303,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 194580,
@@ -1387,6 +1443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178245,
+      "num": 361662,
+      "word": "黄仁勋预言的灾难仅9天就成真",
+      "onboard_time": 1777037543,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178228,
       "num": 285008,
       "word": "方程豹发布会",
@@ -1443,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171530,
+      "num": 787150,
+      "word": "妈妈生了9个孩子又有了30个孙辈",
+      "onboard_time": 1777038744,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171192,
       "num": 405584,
       "word": "普通人一生的收入",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1776960978,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169295,
+      "num": 363263,
+      "word": "张真源连撕四人名牌终结比赛",
+      "onboard_time": 1777037365,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 167694,
@@ -1516,7 +1596,7 @@
     },
     {
       "raw_hot": 162824,
-      "num": 1348006,
+      "num": 1463677,
       "word": "郑钦文马德里2比1肯宁",
       "onboard_time": 1777033224,
       "rank": 9,
@@ -1529,6 +1609,14 @@
       "onboard_time": 1776938841,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160150,
+      "num": 1032016,
+      "word": "CBA",
+      "onboard_time": 1777038984,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 159187,
@@ -1723,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129859,
-      "num": 1155495,
-      "word": "年少的心动真的过期不候",
-      "onboard_time": 1777038324,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128815,
       "num": 209167,
       "word": "印度大举进口250万吨尿素",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1777006881,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115035,
+      "num": 346031,
+      "word": "金银价格急速下跌",
+      "onboard_time": 1777031843,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 114411,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1776997880,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95636,
+      "num": 1015545,
+      "word": "JDG战胜iG",
+      "onboard_time": 1777038864,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 94702,
@@ -2203,6 +2299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45980,
+      "num": 785367,
+      "word": "自行车可以带上火车了",
+      "onboard_time": 1777038864,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44683,
       "num": 347358,
       "word": "印度男子酒后杀妻竟提头颅穿行村庄",
@@ -2425,6 +2529,14 @@
       "onboard_time": 1777024880,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22796,
+      "num": 791431,
+      "word": "AI霸总精准围猎老年人",
+      "onboard_time": 1777039943,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21699,
