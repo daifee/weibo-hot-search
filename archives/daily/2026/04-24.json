@@ -1,6 +1,6 @@
 {
   "startTime": 1776961106472,
-  "endTime": 1777019487065,
+  "endTime": 1777021586110,
   "band_list": [
     {
       "raw_hot": 3170901,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1239568,
+      "num": 265564,
+      "word": "宋祖儿 贝微微",
+      "onboard_time": 1777019060,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127786,
       "num": 1127786,
       "word": "建议装修一定要去家务化",
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908871,
+      "num": 1145419,
+      "word": "C罗不喝牛奶",
+      "onboard_time": 1777017740,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 829674,
       "num": 829674,
       "word": "过度坦诚会失去吸引力",
@@ -137,6 +153,14 @@
       "onboard_time": 1776948621,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 777018,
+      "num": 265323,
+      "word": "黄宗泽 牙龈萎缩",
+      "onboard_time": 1777019239,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 760642,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 720699,
-      "num": 233682,
+      "num": 263692,
       "word": "曝留几手想复婚",
       "onboard_time": 1777015099,
       "rank": 20,
@@ -251,20 +275,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 629556,
+      "num": 629556,
+      "word": "剪毁刘海意外剪成了人生发型",
+      "onboard_time": 1777011620,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 589519,
       "num": 359101,
       "word": "设计师办公室猝死微信定格在凌晨3点",
       "onboard_time": 1777007120,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 587739,
-      "num": 587739,
-      "word": "C罗不喝牛奶",
-      "onboard_time": 1777017740,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 581759,
@@ -329,14 +353,6 @@
       "onboard_time": 1776996680,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 524126,
-      "num": 524126,
-      "word": "剪毁刘海意外剪成了人生发型",
-      "onboard_time": 1777011620,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 509332,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 424583,
-      "num": 223391,
+      "num": 263128,
       "word": "泫雅近照曝光面部浮肿",
       "onboard_time": 1777017679,
       "rank": 24,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 422111,
-      "num": 252425,
+      "num": 264768,
       "word": "外国人被上海烘焙店震惊",
       "onboard_time": 1777014079,
       "rank": 13,
@@ -441,14 +457,6 @@
       "onboard_time": 1777009641,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 401149,
-      "num": 229227,
-      "word": "宋祖儿 贝微微",
-      "onboard_time": 1777019060,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 398327,
@@ -489,6 +497,14 @@
       "onboard_time": 1777001299,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360112,
+      "num": 262871,
+      "word": "猝死设计师一月内连续19天加班",
+      "onboard_time": 1777019239,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359509,
@@ -564,11 +580,19 @@
     },
     {
       "raw_hot": 319927,
-      "num": 221147,
+      "num": 228473,
       "word": "簪花的孟子义",
       "onboard_time": 1777013480,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316807,
+      "num": 262663,
+      "word": "江语晨女儿颜值",
+      "onboard_time": 1777013299,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 312205,
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286572,
+      "num": 262515,
+      "word": "河南发现300多株冥界之花水晶兰",
+      "onboard_time": 1777019541,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284408,
       "num": 359381,
       "word": "空姐真的在慢慢告别服美役的时代",
@@ -707,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262080,
+      "num": 262080,
+      "word": "刘浩存帮同学要宋威龙签名照",
+      "onboard_time": 1777019119,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261596,
       "num": 440931,
       "word": "星巴克 周杰伦",
@@ -739,12 +779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259065,
+      "num": 259065,
+      "word": "当年TFBOYS就这样对抗EXO吗",
+      "onboard_time": 1777017259,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256324,
       "num": 302702,
       "word": "奔跑吧14今晚雷霆开播",
       "onboard_time": 1777001000,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254459,
+      "num": 254459,
+      "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
+      "onboard_time": 1777018100,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251388,
@@ -755,20 +811,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249847,
-      "num": 207323,
-      "word": "黄宗泽 牙龈萎缩",
-      "onboard_time": 1777019239,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247218,
       "num": 290935,
       "word": "夜巴黎 低龄粉丝",
       "onboard_time": 1776990262,
       "rank": 33,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 245662,
+      "num": 266635,
+      "word": "掩埋村民现场有多名穿着制服男子",
+      "onboard_time": 1777019780,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243267,
@@ -803,20 +859,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 234409,
-      "num": 195956,
-      "word": "当年TFBOYS就这样对抗EXO吗",
-      "onboard_time": 1777017259,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 227675,
       "num": 289136,
       "word": "朱志鑫粉丝破千万了",
       "onboard_time": 1777005862,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223687,
+      "num": 263880,
+      "word": "网传新红楼梦演员表",
+      "onboard_time": 1777018460,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 220422,
@@ -835,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216707,
+      "num": 216707,
+      "word": "教育局回应家长索要试卷被老师指责",
+      "onboard_time": 1777014019,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214966,
       "num": 319075,
       "word": "华谊兄弟为何衰落",
@@ -851,14 +915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209453,
-      "num": 209453,
-      "word": "教育局回应家长索要试卷被老师指责",
-      "onboard_time": 1777014019,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202771,
       "num": 297678,
       "word": "NBA",
@@ -867,20 +923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197836,
-      "num": 194351,
-      "word": "江语晨女儿颜值",
-      "onboard_time": 1777013299,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197225,
-      "num": 197225,
-      "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
-      "onboard_time": 1777018100,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "你为什么不吃呷哺呷哺了",
+      "onboard_time": 1777019358,
+      "rank": 42,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 194580,
@@ -897,6 +945,14 @@
       "onboard_time": 1777012940,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190631,
+      "num": 216720,
+      "word": "臭名昭著的日本特高课或要重现",
+      "onboard_time": 1777019780,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189100,
@@ -987,12 +1043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174772,
+      "num": 246370,
+      "word": "外交部3个绝不回应日方",
+      "onboard_time": 1777018219,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 173097,
       "num": 423448,
       "word": "崔丽丽案发前年薪120多万元",
       "onboard_time": 1776937101,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172342,
+      "num": 172342,
+      "word": "白鹿孟子义沈羽洁跑男同框路透",
+      "onboard_time": 1777020680,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 171192,
@@ -1035,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166733,
+      "num": 166733,
+      "word": "特朗普说世界疯了成赌场了",
+      "onboard_time": 1777020140,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166307,
       "num": 295969,
       "word": "掘金vs森林狼",
@@ -1057,14 +1137,6 @@
       "onboard_time": 1776938841,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159935,
-      "num": 159935,
-      "word": "网传新红楼梦演员表",
-      "onboard_time": 1777018460,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 157779,
@@ -1129,22 +1201,6 @@
       "onboard_time": 1777002080,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 149326,
-      "num": 246370,
-      "word": "外交部3个绝不回应日方",
-      "onboard_time": 1777018219,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 149299,
-      "num": 169258,
-      "word": "你为什么不吃呷哺呷哺了",
-      "onboard_time": 1777019358,
-      "rank": 42,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 149278,
@@ -1284,7 +1340,7 @@
     },
     {
       "raw_hot": 118352,
-      "num": 118352,
+      "num": 161787,
       "word": "2026KPL春季赛最佳阵容",
       "onboard_time": 1777016960,
       "rank": 47,
@@ -1363,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105106,
+      "num": 163535,
+      "word": "BLG教练回应被NIP零封",
+      "onboard_time": 1777016841,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102408,
       "num": 365517,
       "word": "王鸥 丑衣服",
@@ -1379,12 +1443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99348,
-      "num": 118300,
-      "word": "BLG教练回应被NIP零封",
-      "onboard_time": 1777016841,
-      "rank": 48,
-      "category": "电竞"
+      "raw_hot": 99760,
+      "num": 264331,
+      "word": "鸭货三巨头只有绝味亏了",
+      "onboard_time": 1777020800,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 96138,
@@ -1499,12 +1563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75592,
-      "num": 239872,
-      "word": "猝死设计师一月内连续19天加班",
-      "onboard_time": 1777019239,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 75996,
+      "num": 194533,
+      "word": "榴莲鸡煲是香的还是臭的",
+      "onboard_time": 1777020741,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 75143,
@@ -1595,7 +1659,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45183,
+      "raw_hot": 46182,
+      "num": 264139,
+      "word": "工程师猝死倒地后工作群还在轰炸",
+      "onboard_time": 1777020979,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46156,
       "num": 697733,
       "word": "有一种浪漫叫中国航天",
       "onboard_time": 1777015879,
@@ -1643,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40495,
+      "num": 266273,
+      "word": "7家欧盟实体列入出口管制管控名单",
+      "onboard_time": 1777020979,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40453,
       "num": 208838,
       "word": "唐艺昕回应没网感",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1776946639,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37867,
+      "num": 216708,
+      "word": "孩子游戏退款后又充5万再退被拒",
+      "onboard_time": 1777021281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36769,
@@ -1713,6 +1801,22 @@
       "onboard_time": 1776998060,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24331,
+      "num": 216711,
+      "word": "碗团店开业次日3人身亡仅挣100多元",
+      "onboard_time": 1777021461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23834,
+      "num": 263583,
+      "word": "女子称邻居窗户影响风水拿画封死",
+      "onboard_time": 1777021281,
+      "rank": 22,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 23412,

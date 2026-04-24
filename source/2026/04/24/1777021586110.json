@@ -1,0 +1,410 @@
+{
+  "runTime": 1777021586110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908871,
+        "num": 1145419,
+        "word": "C罗不喝牛奶",
+        "onboard_time": 1777017740,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730770,
+        "num": 802456,
+        "word": "冰湖重生算扑吗",
+        "onboard_time": 1777017380,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46156,
+        "num": 651345,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1777015879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629556,
+        "num": 629556,
+        "word": "剪毁刘海意外剪成了人生发型",
+        "onboard_time": 1777011620,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523721,
+        "num": 523721,
+        "word": "王者哪吒2联动",
+        "onboard_time": 1777015160,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 500920,
+        "num": 500920,
+        "word": "张彬彬郑业成KO美人师兄售后",
+        "onboard_time": 1777015039,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410128,
+        "num": 410128,
+        "word": "月薪1.6万放羊已筛选出2对夫妻",
+        "onboard_time": 1777014980,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266659,
+        "num": 266659,
+        "word": "DeepSeek v4 百万上下文",
+        "onboard_time": 1777001780,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245662,
+        "num": 266635,
+        "word": "掩埋村民现场有多名穿着制服男子",
+        "onboard_time": 1777019780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40495,
+        "num": 266273,
+        "word": "7家欧盟实体列入出口管制管控名单",
+        "onboard_time": 1777020979,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1752540,
+        "num": 266222,
+        "word": "黄旭熙 可以爆料了吗",
+        "onboard_time": 1777011140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1315784,
+        "num": 265944,
+        "word": "傅首尔怎么了",
+        "onboard_time": 1777004300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493974,
+        "num": 265719,
+        "word": "设计师办公室猝死微信定格在凌晨3点",
+        "onboard_time": 1777007120,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1239568,
+        "num": 265564,
+        "word": "宋祖儿 贝微微",
+        "onboard_time": 1777019060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777018,
+        "num": 265323,
+        "word": "黄宗泽 牙龈萎缩",
+        "onboard_time": 1777019239,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217015,
+        "num": 265096,
+        "word": "浪姐",
+        "onboard_time": 1777010540,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419609,
+        "num": 264768,
+        "word": "外国人被上海烘焙店震惊",
+        "onboard_time": 1777014079,
+        "rank": 16,
+        "category": "海外新闻,美食"
+      },
+      {
+        "raw_hot": 372116,
+        "num": 264570,
+        "word": "拌面里吃出一个马嘉祺",
+        "onboard_time": 1777007180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 264331,
+        "word": "鸭货三巨头只有绝味亏了",
+        "onboard_time": 1777020800,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 46182,
+        "num": 264139,
+        "word": "工程师猝死倒地后工作群还在轰炸",
+        "onboard_time": 1777020979,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223687,
+        "num": 263880,
+        "word": "网传新红楼梦演员表",
+        "onboard_time": 1777018460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562352,
+        "num": 263692,
+        "word": "曝留几手想复婚",
+        "onboard_time": 1777015099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23834,
+        "num": 263583,
+        "word": "女子称邻居窗户影响风水拿画封死",
+        "onboard_time": 1777021281,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 368737,
+        "num": 263388,
+        "word": "傅首尔现在瘦了好多",
+        "onboard_time": 1777011439,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368323,
+        "num": 263128,
+        "word": "泫雅近照曝光面部浮肿",
+        "onboard_time": 1777017679,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360112,
+        "num": 262871,
+        "word": "猝死设计师一月内连续19天加班",
+        "onboard_time": 1777019239,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316807,
+        "num": 262663,
+        "word": "江语晨女儿颜值",
+        "onboard_time": 1777013299,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 262515,
+        "word": "河南发现300多株冥界之花水晶兰",
+        "onboard_time": 1777019541,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279689,
+        "num": 262172,
+        "word": "A股新股中一签赚38.9万元",
+        "onboard_time": 1777010540,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262080,
+        "num": 262080,
+        "word": "刘浩存帮同学要宋威龙签名照",
+        "onboard_time": 1777019119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259065,
+        "num": 259065,
+        "word": "当年TFBOYS就这样对抗EXO吗",
+        "onboard_time": 1777017259,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254694,
+        "num": 254694,
+        "word": "爷爷得知孙女怀孕立刻搭了个鸡窝",
+        "onboard_time": 1776997698,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254459,
+        "num": 254459,
+        "word": "女摩托车主遭3男子骚扰摸腰崩溃大哭",
+        "onboard_time": 1777018100,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228473,
+        "num": 228473,
+        "word": "簪花的孟子义",
+        "onboard_time": 1777013480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217228,
+        "num": 217228,
+        "word": "云旗郝熠然 你们保护好自己",
+        "onboard_time": 1777011381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174772,
+        "num": 216933,
+        "word": "外交部3个绝不回应日方",
+        "onboard_time": 1777018219,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216733,
+        "num": 216733,
+        "word": "原村支书用铲车推土埋村民被刑拘",
+        "onboard_time": 1777012100,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 216720,
+        "word": "臭名昭著的日本特高课或要重现",
+        "onboard_time": 1777019780,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24331,
+        "num": 216711,
+        "word": "碗团店开业次日3人身亡仅挣100多元",
+        "onboard_time": 1777021461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37867,
+        "num": 216708,
+        "word": "孩子游戏退款后又充5万再退被拒",
+        "onboard_time": 1777021281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216707,
+        "num": 216707,
+        "word": "教育局回应家长索要试卷被老师指责",
+        "onboard_time": 1777014019,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198228,
+        "num": 198228,
+        "word": "你为什么不吃呷哺呷哺了",
+        "onboard_time": 1777019358,
+        "rank": 41,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 75996,
+        "num": 194533,
+        "word": "榴莲鸡煲是香的还是臭的",
+        "onboard_time": 1777020741,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194409,
+        "num": 194409,
+        "word": "袁一琦买黄金 人总要生活的",
+        "onboard_time": 1777010060,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172342,
+        "num": 172342,
+        "word": "白鹿孟子义沈羽洁跑男同框路透",
+        "onboard_time": 1777020680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166733,
+        "num": 166733,
+        "word": "特朗普说世界疯了成赌场了",
+        "onboard_time": 1777020140,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105106,
+        "num": 163535,
+        "word": "BLG教练回应被NIP零封",
+        "onboard_time": 1777016841,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104602,
+        "num": 161787,
+        "word": "2026KPL春季赛最佳阵容",
+        "onboard_time": 1777016960,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72665,
+        "num": 161050,
+        "word": "多位乒乓名将参加MLTT选秀",
+        "onboard_time": 1777011559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160422,
+        "num": 160422,
+        "word": "向太说郭碧婷养全家",
+        "onboard_time": 1777006881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励中国航天奋斗圆梦#"
+    }
+  }
+}
