@@ -1,0 +1,410 @@
+{
+  "runTime": 1777011990500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3095793,
+        "num": 3095793,
+        "word": "这些图片居然都是AI的",
+        "onboard_time": 1777007600,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 553001,
+        "num": 1053224,
+        "word": "浪姐",
+        "onboard_time": 1777010540,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24533,
+        "num": 849297,
+        "word": "第11个中国航天日",
+        "onboard_time": 1776997222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671051,
+        "num": 671051,
+        "word": "伊朗巨幅海报宣告霍尔木兹海峡控制权",
+        "onboard_time": 1777004300,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 552715,
+        "num": 552715,
+        "word": "谭松韵心疼沈月",
+        "onboard_time": 1777009700,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504371,
+        "num": 504371,
+        "word": "李昀锐孟子义又没在一队",
+        "onboard_time": 1777004961,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458913,
+        "num": 458913,
+        "word": "建议装修一定要去家务化",
+        "onboard_time": 1776993559,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408308,
+        "num": 408308,
+        "word": "准新娘诊所输液昏迷92天后初现意识",
+        "onboard_time": 1777009641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384582,
+        "num": 384582,
+        "word": "老人公交插队被撞倒离世家属索赔70万",
+        "onboard_time": 1777002860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371663,
+        "num": 371663,
+        "word": "小米YU7GT",
+        "onboard_time": 1776997279,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1295827,
+        "num": 370384,
+        "word": "傅首尔怎么了",
+        "onboard_time": 1777004300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847504,
+        "num": 365710,
+        "word": "黄旭熙SM解约",
+        "onboard_time": 1777008501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688035,
+        "num": 361600,
+        "word": "GPT Image2 恐怖谷",
+        "onboard_time": 1777005680,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 611652,
+        "num": 360194,
+        "word": "爷爷得知孙女怀孕立刻搭了个鸡窝",
+        "onboard_time": 1776997698,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581759,
+        "num": 357892,
+        "word": "拌面里吃出一个马嘉祺",
+        "onboard_time": 1777007180,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539750,
+        "num": 353668,
+        "word": "今年四大院校艺考前四名",
+        "onboard_time": 1777005800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67686,
+        "num": 349211,
+        "word": "极氪009推出七座齐家版",
+        "onboard_time": 1777010239,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 500144,
+        "num": 347736,
+        "word": "袁一琦买黄金 人总要生活的",
+        "onboard_time": 1777010060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421073,
+        "num": 342004,
+        "word": "丁禹兮把水晶手串拆了送粉丝",
+        "onboard_time": 1776998178,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301966,
+        "num": 338156,
+        "word": "设计师办公室猝死微信定格在凌晨3点",
+        "onboard_time": 1777007120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718122,
+        "num": 337283,
+        "word": "快手 低龄化伪成人",
+        "onboard_time": 1776991520,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 418887,
+        "num": 333174,
+        "word": "狗头萝莉否认出轨",
+        "onboard_time": 1777007000,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 392103,
+        "num": 330640,
+        "word": "女歌手因恐飞取消北京巡演",
+        "onboard_time": 1776988459,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327715,
+        "num": 327715,
+        "word": "DeepSeek v4 百万上下文",
+        "onboard_time": 1777001780,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 346666,
+        "num": 327660,
+        "word": "黄旭熙 可以爆料了吗",
+        "onboard_time": 1777011140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312205,
+        "num": 325762,
+        "word": "云旗郝熠然 你们保护好自己",
+        "onboard_time": 1777011381,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70469,
+        "num": 324099,
+        "word": "你敢坐Robotaxi吗",
+        "onboard_time": 1777008860,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 309196,
+        "num": 322401,
+        "word": "何润东和他爸爸年轻时一模一样",
+        "onboard_time": 1777001421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286506,
+        "num": 320425,
+        "word": "A股新股中一签赚38.9万元",
+        "onboard_time": 1777010540,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231747,
+        "num": 318983,
+        "word": "空姐真的在慢慢告别服美役的时代",
+        "onboard_time": 1777007060,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338022,
+        "num": 317603,
+        "word": "孙杨张豆豆认识四个月就确定关系了",
+        "onboard_time": 1777008319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290092,
+        "num": 314552,
+        "word": "孟子义 不再依赖别人算我们有骨气",
+        "onboard_time": 1777002019,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256483,
+        "num": 314200,
+        "word": "剪毁刘海意外剪成了人生发型",
+        "onboard_time": 1777011620,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239639,
+        "num": 312498,
+        "word": "金智秀戛纳获奖感言",
+        "onboard_time": 1776996020,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232319,
+        "num": 310166,
+        "word": "向太说郭碧婷养全家",
+        "onboard_time": 1777006881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122027,
+        "num": 308710,
+        "word": "森林狼2比1掘金",
+        "onboard_time": 1777007541,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225733,
+        "num": 307470,
+        "word": "傅首尔现在瘦了好多",
+        "onboard_time": 1777011439,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206426,
+        "num": 305978,
+        "word": "张凌赫说不出现在荧幕不会化妆",
+        "onboard_time": 1777009398,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 303843,
+        "word": "Bin状态下滑原因",
+        "onboard_time": 1777005441,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168130,
+        "num": 302432,
+        "word": "3岁男童被陌生人打致下体撕裂缝6针",
+        "onboard_time": 1777004180,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194580,
+        "num": 300563,
+        "word": "玉泽演举行婚礼",
+        "onboard_time": 1777009461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222937,
+        "num": 299067,
+        "word": "过度坦诚会失去吸引力",
+        "onboard_time": 1776997938,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 297063,
+        "word": "布克被罚款35000美元",
+        "onboard_time": 1777006881,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91579,
+        "num": 295962,
+        "word": "多位乒乓名将参加MLTT选秀",
+        "onboard_time": 1777011559,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50301,
+        "num": 293513,
+        "word": "斯诺克世锦赛中国4人晋级16强",
+        "onboard_time": 1776999740,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49014,
+        "num": 292120,
+        "word": "Bin真不对劲了",
+        "onboard_time": 1776997222,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48786,
+        "num": 290448,
+        "word": "掘金vs森林狼",
+        "onboard_time": 1777000219,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 289136,
+        "word": "朱志鑫粉丝破千万了",
+        "onboard_time": 1777005862,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153066,
+        "num": 286887,
+        "word": "法国男子用吹风机作弊赚3万多美金",
+        "onboard_time": 1777011559,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139020,
+        "num": 285858,
+        "word": "绝味鸭脖为什么卖不动了",
+        "onboard_time": 1777005981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的读后感#"
+    }
+  }
+}
