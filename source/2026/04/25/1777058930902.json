@@ -1,0 +1,410 @@
+{
+  "runTime": 1777058930902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 344792,
+        "num": 344792,
+        "word": "浪姐 赢了被淘汰",
+        "onboard_time": 1777042583,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119954,
+        "num": 134785,
+        "word": "全国首个伴侣动物立法草案被删除",
+        "onboard_time": 1777044140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9015,
+        "num": 110435,
+        "word": "开局之年我国经济运行起步有力",
+        "onboard_time": 1777041205,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278675,
+        "num": 99397,
+        "word": "唐艺昕 大大方方",
+        "onboard_time": 1777041503,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176075,
+        "num": 95733,
+        "word": "网友开始嗑李昀锐和白鹿",
+        "onboard_time": 1777034002,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86424,
+        "num": 86424,
+        "word": "祺贵人又告发了",
+        "onboard_time": 1777048821,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84830,
+        "num": 84830,
+        "word": "黄仁勋预言的灾难仅9天就成真",
+        "onboard_time": 1777037543,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84499,
+        "num": 84499,
+        "word": "张军",
+        "onboard_time": 1777045160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76671,
+        "num": 76671,
+        "word": "丁俊晖vs赵心童",
+        "onboard_time": 1777042224,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73100,
+        "num": 73100,
+        "word": "年少的心动真的过期不候",
+        "onboard_time": 1777038324,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340418,
+        "num": 72926,
+        "word": "羽协主席张军失联",
+        "onboard_time": 1777046780,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150460,
+        "num": 72276,
+        "word": "华晨宇演唱会当地民众发声",
+        "onboard_time": 1777043424,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 72114,
+        "word": "陶昕然淘汰",
+        "onboard_time": 1777041084,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113218,
+        "num": 71647,
+        "word": "孙杨 张豆豆",
+        "onboard_time": 1777043662,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112257,
+        "num": 71163,
+        "word": "何宣林 分词",
+        "onboard_time": 1777039342,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102545,
+        "num": 70741,
+        "word": "鹿晗 红包",
+        "onboard_time": 1777026920,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101391,
+        "num": 70117,
+        "word": "男子投诉救护车迟到致幼子身亡",
+        "onboard_time": 1777046900,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101259,
+        "num": 69515,
+        "word": "男子30年前被扣押2859克黄金未返还",
+        "onboard_time": 1777045822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94165,
+        "num": 69156,
+        "word": "曾沛慈 求求不要",
+        "onboard_time": 1777045701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69012,
+        "num": 69012,
+        "word": "电诈园老板嚣张妄言警方拿他没办法",
+        "onboard_time": 1777041924,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91740,
+        "num": 68955,
+        "word": "这才是普通家庭养孩子的最优解",
+        "onboard_time": 1777033342,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 76758,
+        "num": 68811,
+        "word": "安崎哭了后萧蔷说的话",
+        "onboard_time": 1777047740,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75398,
+        "num": 68783,
+        "word": "官方回应华晨宇演唱会选址质疑",
+        "onboard_time": 1777053795,
+        "rank": 22,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 72677,
+        "num": 68636,
+        "word": "陶昕然回应二公淘汰",
+        "onboard_time": 1777045400,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68591,
+        "num": 68591,
+        "word": "原来内耗的人需要的是这样的安慰",
+        "onboard_time": 1777034061,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66938,
+        "num": 66938,
+        "word": "孙杨 爷们要脸",
+        "onboard_time": 1777028360,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66490,
+        "num": 66490,
+        "word": "印度男子酒后杀妻竟提头颅穿行村庄",
+        "onboard_time": 1777038263,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58390,
+        "num": 58390,
+        "word": "金价跌破新低",
+        "onboard_time": 1777043842,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55390,
+        "num": 55390,
+        "word": "伊能静上妻旅是秦昊的想法",
+        "onboard_time": 1777047799,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34152,
+        "num": 54743,
+        "word": "以色列总理证实患癌但已治疗",
+        "onboard_time": 1777035082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54216,
+        "num": 54216,
+        "word": "妈妈生了9个孩子又有了30个孙辈",
+        "onboard_time": 1777038744,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53301,
+        "num": 53301,
+        "word": "美国女子在印度遭民宿员工下药强奸",
+        "onboard_time": 1777031001,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52918,
+        "num": 52918,
+        "word": "安崎李心洁 神级舞台",
+        "onboard_time": 1777039224,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49885,
+        "num": 49885,
+        "word": "杨超越变美了",
+        "onboard_time": 1777047740,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49732,
+        "num": 49732,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777040484,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46827,
+        "num": 46827,
+        "word": "张杰工作室文案",
+        "onboard_time": 1777030582,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44064,
+        "num": 46827,
+        "word": "叶一茜 最长的电影",
+        "onboard_time": 1777046961,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42694,
+        "num": 46824,
+        "word": "王濛孙怡偷偷藏不住",
+        "onboard_time": 1777048340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40263,
+        "num": 46821,
+        "word": "AI在保护AI",
+        "onboard_time": 1777026741,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37161,
+        "num": 46819,
+        "word": "孙杨 保送再见爱人",
+        "onboard_time": 1777028241,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36158,
+        "num": 46819,
+        "word": "高校一男生戴假发进女生宿舍偷拍",
+        "onboard_time": 1777043543,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36051,
+        "num": 46814,
+        "word": "范玮琪咋自己玩上了",
+        "onboard_time": 1777037905,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34312,
+        "num": 46814,
+        "word": "牙龈萎缩之后还能再长回来吗",
+        "onboard_time": 1777028421,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31975,
+        "num": 46810,
+        "word": "大学生起诉海航提前10分钟起飞",
+        "onboard_time": 1777044562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29647,
+        "num": 46808,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777040243,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29531,
+        "num": 46806,
+        "word": "C罗认为人类喝牛奶不正常",
+        "onboard_time": 1777023440,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 46805,
+        "word": "不对任何cp付出真情实感算长大吗",
+        "onboard_time": 1777058174,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27145,
+        "num": 46804,
+        "word": "斯诺克世锦赛",
+        "onboard_time": 1777041264,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26938,
+        "num": 46802,
+        "word": "原神",
+        "onboard_time": 1777035023,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25820,
+        "num": 46799,
+        "word": "最长的电影",
+        "onboard_time": 1777039823,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊拉克新任总统致贺电#"
+    }
+  }
+}

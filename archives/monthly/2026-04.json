@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777057484417,
+  "endTime": 1777058930902,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -59209,6 +59209,14 @@
       "onboard_time": 1774962986,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29299,
+      "num": 46805,
+      "word": "不对任何cp付出真情实感算长大吗",
+      "onboard_time": 1777058174,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 29292,
