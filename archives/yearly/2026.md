@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 11:58:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 14:15:13
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84%23" target="weibo">
+这些图片居然都是AI的（热度：3170901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E6%98%A5%E6%99%9A%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%23" target="weibo">
 我在春晚刷短视频（热度：3153650）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23" target="weibo">
 贾国龙让罗永浩道歉赔偿（热度：2123115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%A6%AE%E5%A8%9C%20%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-维妮娜 我不知道评分标准是什么（热度：2119685）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777003131558,
+  "endTime": 1777011313826,
   "band_list": [
     {
       "raw_hot": 12919916,
@@ -241,6 +241,14 @@
       "onboard_time": 1776416781,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3170901,
+      "num": 3170901,
+      "word": "这些图片居然都是AI的",
+      "onboard_time": 1777007600,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 3146099,
@@ -2587,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1019969,
+      "num": 387491,
+      "word": "傅首尔怎么了",
+      "onboard_time": 1777004300,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1014715,
       "num": 423490,
       "word": "普通人一生的收入",
@@ -2955,6 +2971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 937247,
+      "num": 381120,
+      "word": "黄旭熙SM解约",
+      "onboard_time": 1777008501,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936045,
       "num": 554274,
       "word": "谢娜 没票的朋友们别着急",
@@ -3028,7 +3052,7 @@
     },
     {
       "raw_hot": 924281,
-      "num": 425432,
+      "num": 1083441,
       "word": "爷爷得知孙女怀孕立刻搭了个鸡窝",
       "onboard_time": 1776997698,
       "rank": 10,
@@ -4499,6 +4523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 739378,
+      "num": 553245,
+      "word": "GPT Image2 恐怖谷",
+      "onboard_time": 1777005680,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 738391,
       "num": 738391,
       "word": "陈紫函不上浪姐的原因",
@@ -4865,6 +4897,14 @@
       "onboard_time": 1776484461,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 705463,
+      "num": 705463,
+      "word": "伊朗巨幅海报宣告霍尔木兹海峡控制权",
+      "onboard_time": 1777004300,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 705023,
@@ -6851,6 +6891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562498,
+      "num": 562498,
+      "word": "谭松韵心疼沈月",
+      "onboard_time": 1777009700,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561823,
       "num": 376971,
       "word": "鹿晗好尊重本命年",
@@ -7873,6 +7921,14 @@
       "onboard_time": 1775809823,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 509332,
+      "num": 509332,
+      "word": "李昀锐孟子义又没在一队",
+      "onboard_time": 1777004961,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 509257,
@@ -9027,6 +9083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461260,
+      "num": 365658,
+      "word": "今年四大院校艺考前四名",
+      "onboard_time": 1777005800,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459756,
       "num": 459756,
       "word": "洛克王国 补偿",
@@ -9515,6 +9579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440962,
+      "num": 440962,
+      "word": "浪姐",
+      "onboard_time": 1774972162,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440883,
       "num": 1070541,
       "word": "被送错医院死亡家属曾下跪求转院",
@@ -9529,6 +9601,14 @@
       "onboard_time": 1775289799,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440608,
+      "num": 358731,
+      "word": "狗头萝莉否认出轨",
+      "onboard_time": 1777007000,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 440356,
@@ -10939,6 +11019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398327,
+      "num": 398327,
+      "word": "老人公交插队被撞倒离世家属索赔70万",
+      "onboard_time": 1777002860,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398139,
       "num": 236998,
       "word": "猪的抑郁症表现行为",
@@ -11345,6 +11433,14 @@
       "onboard_time": 1776227481,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385610,
+      "num": 359803,
+      "word": "拌面里吃出一个马嘉祺",
+      "onboard_time": 1777007180,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 385398,
@@ -12473,6 +12569,14 @@
       "onboard_time": 1776166043,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 359509,
+      "num": 359509,
+      "word": "孙杨张豆豆认识四个月就确定关系了",
+      "onboard_time": 1777008319,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 359318,
@@ -13883,6 +13987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324274,
+      "num": 324274,
+      "word": "DeepSeek v4 百万上下文",
+      "onboard_time": 1777001780,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 324146,
       "num": 170066,
       "word": "被绳割断气管男孩家境很不好",
@@ -14659,6 +14771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311053,
+      "num": 268445,
+      "word": "袁一琦买黄金 人总要生活的",
+      "onboard_time": 1777010060,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310804,
       "num": 761730,
       "word": "男子骚扰已婚初中同学要求对方离婚",
@@ -14673,6 +14793,14 @@
       "onboard_time": 1776495441,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310606,
+      "num": 318593,
+      "word": "何润东和他爸爸年轻时一模一样",
+      "onboard_time": 1777001421,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 310428,
@@ -15659,14 +15787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291943,
-      "num": 305112,
-      "word": "DeepSeek v4 百万上下文",
-      "onboard_time": 1777001780,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 291913,
       "num": 304203,
       "word": "咪豆音乐节",
@@ -16091,6 +16211,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 284408,
+      "num": 359381,
+      "word": "空姐真的在慢慢告别服美役的时代",
+      "onboard_time": 1777007060,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284324,
       "num": 284324,
       "word": "毛晓慧领衔主演十日终焉",
@@ -16289,6 +16417,14 @@
       "onboard_time": 1776237320,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281509,
+      "num": 359101,
+      "word": "设计师办公室猝死微信定格在凌晨3点",
+      "onboard_time": 1777007120,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281443,
@@ -17105,6 +17241,14 @@
       "onboard_time": 1775319981,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267902,
+      "num": 266834,
+      "word": "A股新股中一签赚38.9万元",
+      "onboard_time": 1777010540,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 267852,
@@ -18064,6 +18208,14 @@
       "word": "孙子怕爷爷去世每天偷偷带肉回家",
       "onboard_time": 1776005243,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253406,
+      "num": 266012,
+      "word": "准新娘诊所输液昏迷92天后初现意识",
+      "onboard_time": 1777009641,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -19123,6 +19275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239178,
+      "num": 262364,
+      "word": "向太说郭碧婷养全家",
+      "onboard_time": 1777006881,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239162,
       "num": 239162,
       "word": "隔夜菜不是指放了一夜的菜",
@@ -19216,6 +19376,14 @@
       "word": "朱一龙直播",
       "onboard_time": 1776251121,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237570,
+      "num": 259699,
+      "word": "张凌赫说不出现在荧幕不会化妆",
+      "onboard_time": 1777009398,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -20041,6 +20209,14 @@
       "onboard_time": 1776728360,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227675,
+      "num": 259229,
+      "word": "朱志鑫粉丝破千万了",
+      "onboard_time": 1777005862,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 227607,
@@ -21025,14 +21201,6 @@
       "onboard_time": 1775464942,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215648,
-      "num": 215648,
-      "word": "浪姐",
-      "onboard_time": 1774972162,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 215519,
@@ -24115,6 +24283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183853,
+      "num": 256269,
+      "word": "玉泽演举行婚礼",
+      "onboard_time": 1777009461,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183756,
       "num": 183756,
       "word": "白日提灯 be味",
@@ -24169,6 +24345,14 @@
       "onboard_time": 1776487100,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183132,
+      "num": 240362,
+      "word": "3岁男童被陌生人打致下体撕裂缝6针",
+      "onboard_time": 1777004180,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182950,
@@ -24627,14 +24811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178726,
-      "num": 308141,
-      "word": "老人公交插队被撞倒离世家属索赔70万",
-      "onboard_time": 1777002860,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178714,
       "num": 164912,
       "word": "何润东回应不参加综艺",
@@ -24953,6 +25129,14 @@
       "onboard_time": 1775446821,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175651,
+      "num": 281635,
+      "word": "明道胖了",
+      "onboard_time": 1777002740,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 175602,
@@ -26051,6 +26235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165780,
+      "num": 251474,
+      "word": "蔡文静直播 好真实一个女明星",
+      "onboard_time": 1777011200,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165755,
       "num": 165755,
       "word": "男子伸咸猪手被女老板扇飞眼镜",
@@ -26835,6 +27027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160348,
+      "num": 239278,
+      "word": "黄旭熙 可以爆料了吗",
+      "onboard_time": 1777011140,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160342,
       "num": 160342,
       "word": "离异父母均拒接孩子司机当场怒斥",
@@ -27593,6 +27793,14 @@
       "onboard_time": 1775125462,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154092,
+      "num": 261224,
+      "word": "Bin状态下滑原因",
+      "onboard_time": 1777005441,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 154085,
@@ -28577,14 +28785,6 @@
       "onboard_time": 1775172319,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147052,
-      "num": 318593,
-      "word": "何润东和他爸爸年轻时一模一样",
-      "onboard_time": 1777001421,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 146959,
@@ -31249,6 +31449,14 @@
       "onboard_time": 1775703621,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130413,
+      "num": 257158,
+      "word": "森林狼2比1掘金",
+      "onboard_time": 1777007541,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 130411,
@@ -34083,6 +34291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115414,
+      "num": 253789,
+      "word": "布克被罚款35000美元",
+      "onboard_time": 1777006881,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115388,
       "num": 112260,
       "word": "阚清子二公分组",
@@ -34609,6 +34825,14 @@
       "onboard_time": 1776241822,
       "rank": 30,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 112577,
+      "num": 249248,
+      "word": "呷哺呷哺5年亏15亿",
+      "onboard_time": 1777009880,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 112574,
@@ -40627,14 +40851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90987,
-      "num": 281635,
-      "word": "明道胖了",
-      "onboard_time": 1777002740,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90967,
       "num": 90967,
       "word": "诚实一口直播间7天销售额超250万",
@@ -44633,6 +44849,14 @@
       "onboard_time": 1775836043,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80644,
+      "num": 358613,
+      "word": "你敢坐Robotaxi吗",
+      "onboard_time": 1777008860,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 80605,
@@ -49273,6 +49497,14 @@
       "onboard_time": 1775819060,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69590,
+      "num": 363987,
+      "word": "极氪009推出七座齐家版",
+      "onboard_time": 1777010239,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 69560,
@@ -58905,6 +59137,14 @@
       "onboard_time": 1776189375,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23412,
+      "num": 252546,
+      "word": "游客踩踏牡丹遭喇叭怼脸提醒",
+      "onboard_time": 1777010540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23323,
