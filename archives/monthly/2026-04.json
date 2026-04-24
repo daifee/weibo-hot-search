@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777050441555,
+  "endTime": 1777051846134,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -3115,6 +3115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 941497,
+      "num": 917068,
+      "word": "唐艺昕 大大方方",
+      "onboard_time": 1777041503,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940416,
       "num": 166727,
       "word": "愚人节",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1776415641,
       "rank": 37,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 917068,
-      "num": 917068,
-      "word": "唐艺昕 大大方方",
-      "onboard_time": 1777041503,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 916197,
@@ -23619,6 +23619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197973,
+      "num": 185599,
+      "word": "安崎哭了后萧蔷说的话",
+      "onboard_time": 1777047740,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197953,
       "num": 415383,
       "word": "优思益声明",
@@ -27121,14 +27129,6 @@
       "onboard_time": 1776672982,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166074,
-      "num": 185599,
-      "word": "安崎哭了后萧蔷说的话",
-      "onboard_time": 1777047740,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 165933,
@@ -46627,6 +46627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78694,
+      "num": 176936,
+      "word": "华晨宇演唱会叫停照见生态红线底线",
+      "onboard_time": 1777050077,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 78678,
       "num": 118600,
       "word": "迪丽热巴形容陈飞宇是老辈子",
@@ -51443,6 +51451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67514,
+      "num": 176404,
+      "word": "陈瑶直拍",
+      "onboard_time": 1777050018,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67500,
       "num": 67500,
       "word": "八旬奶奶开无人机帮孙子种地",
@@ -52019,6 +52035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65633,
+      "num": 143143,
+      "word": "英特尔涨爆了",
+      "onboard_time": 1777050018,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65624,
       "num": 65624,
       "word": "电影一个男人和一个女人定档",
@@ -52505,14 +52529,6 @@
       "onboard_time": 1775385500,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63920,
-      "num": 176936,
-      "word": "华晨宇演唱会叫停照见生态红线底线",
-      "onboard_time": 1777050077,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 63898,
@@ -54001,14 +54017,6 @@
       "onboard_time": 1776624315,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 58877,
-      "num": 176404,
-      "word": "陈瑶直拍",
-      "onboard_time": 1777050018,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 58868,

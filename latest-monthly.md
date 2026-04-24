@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 01:07:21
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 01:30:46
 </p>
 </blockquote>
 <p>
@@ -2349,6 +2349,12 @@ Gucci别试探了（热度：985542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%23" target="weibo">
+唐艺昕 大大方方（热度：941497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%23" target="weibo">
 愚人节（热度：940416）
 </a>
@@ -2459,12 +2465,6 @@ QQ音乐巅峰榜十大艺人（热度：929047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A3%E4%BB%A47%E5%B9%B3%E5%8F%B0%E6%9A%82%E5%81%9C%E6%96%B0%E5%A2%9E%E8%9B%8B%E7%B3%95%E5%BA%97%E9%93%BA%23" target="weibo">
 责令7平台暂停新增蛋糕店铺（热度：919053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%23" target="weibo">
-唐艺昕 大大方方（热度：917068）
 </a>
 </li>
 
