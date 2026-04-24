@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 22:15:32
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/24 23:16:01
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%A8%E9%9D%A2%E5%85%A5%E4%BE%B5%E6%98%A5%E6%99%9A%23" target="weibo">
 机器人全面入侵春晚（热度：10929253）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E6%B7%98%E6%B1%B0%23" target="weibo">
+陶昕然淘汰（热度：10737817）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E7%AD%89%E9%81%87%E9%9A%BE%23" target="weibo">
 哈梅内伊的女儿女婿等遇难（热度：2137611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%23" target="weibo">
-狂飙（热度：2136890）
 </a>
 </li>
 
