@@ -1,0 +1,410 @@
+{
+  "runTime": 1776989395850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1337729,
+        "num": 1337729,
+        "word": "月薪1.6万招人放羊包吃住有WiFi",
+        "onboard_time": 1776958879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1101088,
+        "num": 1101088,
+        "word": "演员回应脱掉和服才向观众鞠躬致谢",
+        "onboard_time": 1776986421,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23385,
+        "num": 725114,
+        "word": "服务业这些领域将迎大改变",
+        "onboard_time": 1776948321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 688261,
+        "num": 688261,
+        "word": "爱喝无糖饮料的天塌了",
+        "onboard_time": 1776963137,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 644499,
+        "num": 644499,
+        "word": "特朗普称下令击沉霍尔木兹布雷船",
+        "onboard_time": 1776986778,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 617587,
+        "num": 617587,
+        "word": "秦昊说外面有人了还要送啊",
+        "onboard_time": 1776988459,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470319,
+        "num": 470319,
+        "word": "华谊兄弟被申请破产重整",
+        "onboard_time": 1776954622,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 467670,
+        "num": 467670,
+        "word": "尚界汽车法务部上线",
+        "onboard_time": 1776986478,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138548,
+        "num": 464208,
+        "word": "GPT Image2 到底什么是真的",
+        "onboard_time": 1776988699,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3742,
+        "num": 454154,
+        "word": "异环公测",
+        "onboard_time": 1776917301,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1551081,
+        "num": 444551,
+        "word": "孙杨",
+        "onboard_time": 1776987679,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656103,
+        "num": 437727,
+        "word": "26岁女子穿袜子睡觉睡出千层甲",
+        "onboard_time": 1776988340,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434001,
+        "num": 434001,
+        "word": "人怎么可以争气成这样",
+        "onboard_time": 1776948621,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328567,
+        "num": 328567,
+        "word": "6岁女童下体流血4年体内发现玩具",
+        "onboard_time": 1776985338,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295377,
+        "num": 295377,
+        "word": "迪丽热巴千字长文告别白日提灯",
+        "onboard_time": 1776986421,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292478,
+        "num": 292478,
+        "word": "老人挤公交离世家属索赔70万被驳回",
+        "onboard_time": 1776970275,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285012,
+        "num": 285012,
+        "word": "女歌手因恐飞取消北京巡演",
+        "onboard_time": 1776988459,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266631,
+        "num": 266631,
+        "word": "陈丽君晋升副主任",
+        "onboard_time": 1776954802,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264230,
+        "num": 264230,
+        "word": "15斤的小猫把床压塌了",
+        "onboard_time": 1776963617,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84436,
+        "num": 242454,
+        "word": "小米首次登顶全球开源大模型第一",
+        "onboard_time": 1776954322,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 649364,
+        "num": 240425,
+        "word": "曝华晨宇演唱会前期投入好几个亿",
+        "onboard_time": 1776957201,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 564525,
+        "num": 238864,
+        "word": "刘宇宁曾自曝离婚无娃",
+        "onboard_time": 1776947481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237246,
+        "num": 237246,
+        "word": "女生拉账单发现爸爸10年转了20多万",
+        "onboard_time": 1776987138,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226386,
+        "num": 226386,
+        "word": "女子减肥断碳水43天查出糖尿病前期",
+        "onboard_time": 1776958460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215788,
+        "num": 215788,
+        "word": "崔丽丽连说两遍我不服我不服",
+        "onboard_time": 1776955823,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215636,
+        "num": 215636,
+        "word": "陈泽报备",
+        "onboard_time": 1776953843,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209848,
+        "num": 209848,
+        "word": "白鹿cos尼克狐尼克你被捕了",
+        "onboard_time": 1776984677,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213046,
+        "num": 202959,
+        "word": "突然发现事缓则圆可能是真的",
+        "onboard_time": 1776942201,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184654,
+        "num": 184654,
+        "word": "金银价格双双跳水",
+        "onboard_time": 1776986359,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169625,
+        "num": 169625,
+        "word": "宋祖儿曾分享极端减肥经历",
+        "onboard_time": 1776960978,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184276,
+        "num": 168701,
+        "word": "女子指甲总长13米涂一次需20瓶指甲油",
+        "onboard_time": 1776946041,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167513,
+        "num": 167513,
+        "word": "国家图书馆推荐书单来了",
+        "onboard_time": 1776966196,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 146754,
+        "num": 146754,
+        "word": "伊朗发布拦截2艘货轮视频",
+        "onboard_time": 1776986298,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143137,
+        "num": 143137,
+        "word": "反复造谣迪丽热巴已违法",
+        "onboard_time": 1776987378,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132198,
+        "num": 132198,
+        "word": "司机回应多次打断男乘客搭讪同乘女子",
+        "onboard_time": 1776986478,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132148,
+        "num": 132148,
+        "word": "外国人称翻译让他知道日本人的肮脏",
+        "onboard_time": 1776963617,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128815,
+        "num": 128815,
+        "word": "印度大举进口250万吨尿素",
+        "onboard_time": 1776956002,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127984,
+        "num": 127984,
+        "word": "刘宇宁否认与宋祖儿恋情",
+        "onboard_time": 1776930919,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126563,
+        "num": 126563,
+        "word": "医生称金莎已经接近超高龄产妇",
+        "onboard_time": 1776950481,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 126280,
+        "word": "耳洞上的窝窝 体表唯一迷走神经",
+        "onboard_time": 1776963617,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 121874,
+        "word": "教育部门已介入女生被卖到电诈园案",
+        "onboard_time": 1776956362,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120118,
+        "num": 120118,
+        "word": "男子杀妻抛尸家属称没发现二人不和",
+        "onboard_time": 1776958641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117061,
+        "num": 117061,
+        "word": "华谊兄弟为何衰落",
+        "onboard_time": 1776989360,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 114269,
+        "word": "外国人震惊中国水果摊老板开门睡觉",
+        "onboard_time": 1776941899,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106920,
+        "num": 106920,
+        "word": "员工每天早到晚走卷走公司26万",
+        "onboard_time": 1776988640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104462,
+        "num": 104462,
+        "word": "王濛澄清和周洋不是真谈了",
+        "onboard_time": 1776957022,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95611,
+        "num": 95611,
+        "word": "陈飞宇白日提灯收官文",
+        "onboard_time": 1776960260,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138489,
+        "num": 95242,
+        "word": "警方回应男保安掌掴女司机事件",
+        "onboard_time": 1776972553,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94702,
+        "num": 94702,
+        "word": "有人用AI恶搞保安扇女子耳光视频",
+        "onboard_time": 1776988340,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93919,
+        "num": 93919,
+        "word": "白银大跌特跌",
+        "onboard_time": 1776956241,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民海军一定能够不辱使命不负重托#"
+    }
+  }
+}
