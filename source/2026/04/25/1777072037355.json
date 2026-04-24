@@ -1,0 +1,410 @@
+{
+  "runTime": 1777072037355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745471,
+        "num": 745471,
+        "word": "浪姐 赢了被淘汰",
+        "onboard_time": 1777042583,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210145,
+        "num": 529604,
+        "word": "全国首个伴侣动物立法草案被删除",
+        "onboard_time": 1777044140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12614,
+        "num": 409446,
+        "word": "开局之年我国经济运行起步有力",
+        "onboard_time": 1777041205,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271078,
+        "num": 271078,
+        "word": "陶昕然淘汰",
+        "onboard_time": 1777041084,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220586,
+        "num": 220586,
+        "word": "以色列防长威胁将伊朗打回石器时期",
+        "onboard_time": 1777062014,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242488,
+        "num": 217193,
+        "word": "唐艺昕 大大方方",
+        "onboard_time": 1777041503,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205699,
+        "num": 205699,
+        "word": "不对任何cp付出真情实感算长大吗",
+        "onboard_time": 1777058174,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159104,
+        "num": 159104,
+        "word": "年少的心动真的过期不候",
+        "onboard_time": 1777038324,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147445,
+        "num": 147445,
+        "word": "张军",
+        "onboard_time": 1777045160,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125023,
+        "num": 147396,
+        "word": "养育孩子的三个目标",
+        "onboard_time": 1777062373,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 226958,
+        "num": 147332,
+        "word": "华晨宇演唱会当地民众发声",
+        "onboard_time": 1777043424,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 786637,
+        "num": 147131,
+        "word": "鹿晗",
+        "onboard_time": 1777071617,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632345,
+        "num": 147082,
+        "word": "羽协主席张军失联",
+        "onboard_time": 1777046780,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177396,
+        "num": 146985,
+        "word": "李小冉钟汉良16年前的剧翻红",
+        "onboard_time": 1777068974,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170793,
+        "num": 146914,
+        "word": "电诈园老板嚣张妄言警方拿他没办法",
+        "onboard_time": 1777041924,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174726,
+        "num": 146755,
+        "word": "官方回应华晨宇演唱会选址质疑",
+        "onboard_time": 1777053795,
+        "rank": 15,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 164012,
+        "num": 146629,
+        "word": "网友开始嗑李昀锐和白鹿",
+        "onboard_time": 1777034002,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139342,
+        "num": 146587,
+        "word": "黄仁勋预言的灾难仅9天就成真",
+        "onboard_time": 1777037543,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153881,
+        "num": 146385,
+        "word": "男子投诉救护车迟到致幼子身亡",
+        "onboard_time": 1777046900,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147906,
+        "num": 146286,
+        "word": "妈妈生了9个孩子又有了30个孙辈",
+        "onboard_time": 1777038744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232917,
+        "num": 146239,
+        "word": "这才是普通家庭养孩子的最优解",
+        "onboard_time": 1777033342,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 152458,
+        "num": 146165,
+        "word": "孙杨 爷们要脸",
+        "onboard_time": 1777028360,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 146063,
+        "word": "曝毛晓彤凌晨从医美诊所离开",
+        "onboard_time": 1777032802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144549,
+        "num": 144549,
+        "word": "美国女子在印度遭民宿员工下药强奸",
+        "onboard_time": 1777031001,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142102,
+        "num": 142102,
+        "word": "男子30年前被扣押2859克黄金未返还",
+        "onboard_time": 1777045822,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115718,
+        "num": 115718,
+        "word": "丁俊晖vs赵心童",
+        "onboard_time": 1777042224,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111690,
+        "num": 111690,
+        "word": "孙杨 张豆豆",
+        "onboard_time": 1777043662,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "原来内耗的人需要的是这样的安慰",
+        "onboard_time": 1777034061,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93142,
+        "num": 93142,
+        "word": "何宣林 分词",
+        "onboard_time": 1777039342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90320,
+        "num": 90320,
+        "word": "高校一男生戴假发进女生宿舍偷拍",
+        "onboard_time": 1777043543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89184,
+        "num": 89184,
+        "word": "印度男子酒后杀妻竟提头颅穿行村庄",
+        "onboard_time": 1777038263,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88607,
+        "num": 88607,
+        "word": "鹿晗 红包",
+        "onboard_time": 1777026920,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73204,
+        "num": 73204,
+        "word": "安崎哭了后萧蔷说的话",
+        "onboard_time": 1777047740,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67663,
+        "num": 67663,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777040243,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67552,
+        "num": 67552,
+        "word": "杨超越变美了",
+        "onboard_time": 1777047740,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67007,
+        "num": 67007,
+        "word": "金价跌破新低",
+        "onboard_time": 1777043842,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60611,
+        "num": 60611,
+        "word": "肖战直播",
+        "onboard_time": 1777031722,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58754,
+        "num": 60611,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777040484,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52042,
+        "num": 60611,
+        "word": "以色列总理证实患癌但已治疗",
+        "onboard_time": 1777035082,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51152,
+        "num": 60611,
+        "word": "AI在保护AI",
+        "onboard_time": 1777026741,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49559,
+        "num": 60611,
+        "word": "美国UFO研究者当警察面自杀",
+        "onboard_time": 1777064835,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45146,
+        "num": 60610,
+        "word": "12306回应家长和孩子相隔14个车厢",
+        "onboard_time": 1777033583,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44863,
+        "num": 60610,
+        "word": "孙杨 保送再见爱人",
+        "onboard_time": 1777028241,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 60610,
+        "word": "大学生起诉海航提前10分钟起飞",
+        "onboard_time": 1777044562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79078,
+        "num": 60609,
+        "word": "陶昕然回应二公淘汰",
+        "onboard_time": 1777045400,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43810,
+        "num": 60609,
+        "word": "奔跑吧14",
+        "onboard_time": 1777031961,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41161,
+        "num": 60609,
+        "word": "牙龈萎缩之后还能再长回来吗",
+        "onboard_time": 1777028421,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43233,
+        "num": 60608,
+        "word": "伊能静上妻旅是秦昊的想法",
+        "onboard_time": 1777047799,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 60608,
+        "word": "曾沛慈这个妆造萌哭了",
+        "onboard_time": 1777035864,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 60607,
+        "word": "C罗认为人类喝牛奶不正常",
+        "onboard_time": 1777023440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向伊拉克新任总统致贺电#"
+    }
+  }
+}
