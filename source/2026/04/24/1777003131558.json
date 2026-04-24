@@ -1,0 +1,410 @@
+{
+  "runTime": 1777003131558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1905543,
+        "num": 1905543,
+        "word": "快手 低龄化伪成人",
+        "onboard_time": 1776991520,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1190510,
+        "num": 1190510,
+        "word": "小米YU7GT",
+        "onboard_time": 1776997279,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37107,
+        "num": 1031835,
+        "word": "第11个中国航天日",
+        "onboard_time": 1776997222,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1011106,
+        "num": 1011106,
+        "word": "建议装修一定要去家务化",
+        "onboard_time": 1776993559,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 829674,
+        "num": 829674,
+        "word": "过度坦诚会失去吸引力",
+        "onboard_time": 1776997938,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1002051,
+        "num": 776342,
+        "word": "女歌手因恐飞取消北京巡演",
+        "onboard_time": 1776988459,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 644854,
+        "num": 644854,
+        "word": "DeepSeekV4发布",
+        "onboard_time": 1777001540,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 618501,
+        "num": 618501,
+        "word": "金智秀戛纳获奖感言",
+        "onboard_time": 1776996020,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550303,
+        "num": 550303,
+        "word": "孙杨上妻旅后的表现争议",
+        "onboard_time": 1776999979,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441376,
+        "num": 441376,
+        "word": "伊朗末代国王长子巴列维在德国遇袭",
+        "onboard_time": 1777000639,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 973869,
+        "num": 429978,
+        "word": "丁禹兮把水晶手串拆了送粉丝",
+        "onboard_time": 1776998178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692129,
+        "num": 425432,
+        "word": "爷爷得知孙女怀孕立刻搭了个鸡窝",
+        "onboard_time": 1776997698,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534258,
+        "num": 418784,
+        "word": "秦昊说外面有人了还要送啊",
+        "onboard_time": 1776988459,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408218,
+        "num": 408218,
+        "word": "侯明昊演唱会舞美被指抄袭檀健次",
+        "onboard_time": 1776993800,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373998,
+        "num": 373998,
+        "word": "爱喝无糖饮料的天塌了",
+        "onboard_time": 1776963137,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366157,
+        "num": 366157,
+        "word": "DeepSeekV4",
+        "onboard_time": 1777001838,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363456,
+        "num": 363456,
+        "word": "官方发布华晨宇演唱会补偿申请说明",
+        "onboard_time": 1776997519,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50939,
+        "num": 363255,
+        "word": "宝马展台人气王竟是TA",
+        "onboard_time": 1777000219,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 363111,
+        "num": 363111,
+        "word": "郭晓婷王天辰 三搭",
+        "onboard_time": 1777001299,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327425,
+        "num": 327425,
+        "word": "26岁女子穿袜子睡觉睡出千层甲",
+        "onboard_time": 1776988340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322113,
+        "num": 322113,
+        "word": "孟子义 不再依赖别人算我们有骨气",
+        "onboard_time": 1777002019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88165,
+        "num": 321211,
+        "word": "北京车展看新SU7真材实料",
+        "onboard_time": 1777001780,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210571,
+        "num": 319075,
+        "word": "华谊兄弟为何衰落",
+        "onboard_time": 1776989360,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147052,
+        "num": 318593,
+        "word": "何润东和他爸爸年轻时一模一样",
+        "onboard_time": 1777001421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128703,
+        "num": 315812,
+        "word": "张凌赫想尝试拍电影",
+        "onboard_time": 1776998300,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332241,
+        "num": 314664,
+        "word": "王濛因为喝多了才来浪姐",
+        "onboard_time": 1777001119,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315742,
+        "num": 313934,
+        "word": "雷军官宣小米YU7GT5月底发布",
+        "onboard_time": 1776996680,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112136,
+        "num": 312104,
+        "word": "2PM将在玉泽演婚礼合体",
+        "onboard_time": 1776997579,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293266,
+        "num": 310061,
+        "word": "女生拉账单发现爸爸10年转了20多万",
+        "onboard_time": 1776987138,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178726,
+        "num": 308141,
+        "word": "老人公交插队被撞倒离世家属索赔70万",
+        "onboard_time": 1777002860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313834,
+        "num": 307143,
+        "word": "女子穿睡衣买12万黄金首饰店主报警",
+        "onboard_time": 1776991401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291943,
+        "num": 305112,
+        "word": "DeepSeek v4 百万上下文",
+        "onboard_time": 1777001780,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259274,
+        "num": 303407,
+        "word": "孙杨回应在妻子的浪漫旅行中表现",
+        "onboard_time": 1777002379,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256324,
+        "num": 302702,
+        "word": "奔跑吧14今晚雷霆开播",
+        "onboard_time": 1777001000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254686,
+        "num": 300967,
+        "word": "月薪1.6万招人放羊包吃住有WiFi",
+        "onboard_time": 1776958879,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250455,
+        "num": 298169,
+        "word": "孙杨张豆豆因行李箱打膜不愉快",
+        "onboard_time": 1776993800,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202301,
+        "num": 297678,
+        "word": "NBA",
+        "onboard_time": 1776998839,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166307,
+        "num": 295969,
+        "word": "掘金vs森林狼",
+        "onboard_time": 1777000219,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151674,
+        "num": 293253,
+        "word": "新易盛暴跌原因",
+        "onboard_time": 1777002080,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70619,
+        "num": 292727,
+        "word": "月薪1.6万招人牧场注册资本仅5万",
+        "onboard_time": 1777002319,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220422,
+        "num": 290989,
+        "word": "买过最不会吃灰的电子产品",
+        "onboard_time": 1777002921,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 289782,
+        "word": "Bin真不对劲了",
+        "onboard_time": 1776997222,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120492,
+        "num": 287984,
+        "word": "斯诺克世锦赛中国4人晋级16强",
+        "onboard_time": 1776999740,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 285247,
+        "word": "无限暖暖维护补偿",
+        "onboard_time": 1777002319,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99422,
+        "num": 283791,
+        "word": "陈丽君晋升副主任",
+        "onboard_time": 1776954802,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96138,
+        "num": 283112,
+        "word": "老鹰2比1尼克斯",
+        "onboard_time": 1776997880,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90987,
+        "num": 281635,
+        "word": "明道胖了",
+        "onboard_time": 1777002740,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79415,
+        "num": 280113,
+        "word": "无限暖暖延迟开服",
+        "onboard_time": 1776999320,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72196,
+        "num": 278516,
+        "word": "刘宇宁曾自曝离婚无娃",
+        "onboard_time": 1776947481,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67134,
+        "num": 276677,
+        "word": "赵丽颖对接辟谣白玉兰宣传大使",
+        "onboard_time": 1776997159,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的读后感#"
+    }
+  }
+}

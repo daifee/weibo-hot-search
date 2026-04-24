@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/24 00:18:26 ~ 2026/04/24 11:30:15
+本榜单时间：2026/04/24 00:18:26 ~ 2026/04/24 11:58:51
 </p>
 </blockquote>
 <p>
@@ -63,14 +63,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8A%8A%E6%B0%B4%E6%99%B6%E6%89%8B%E4%B8%B2%E6%8B%86%E4%BA%86%E9%80%81%E7%B2%89%E4%B8%9D%23" target="weibo">
+丁禹兮把水晶手串拆了送粉丝（热度：973869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BE%97%E7%9F%A5%E5%AD%99%E5%A5%B3%E6%80%80%E5%AD%95%E7%AB%8B%E5%88%BB%E6%90%AD%E4%BA%86%E4%B8%AA%E9%B8%A1%E7%AA%9D%23" target="weibo">
 爷爷得知孙女怀孕立刻搭了个鸡窝（热度：924281）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8A%8A%E6%B0%B4%E6%99%B6%E6%89%8B%E4%B8%B2%E6%8B%86%E4%BA%86%E9%80%81%E7%B2%89%E4%B8%9D%23" target="weibo">
-丁禹兮把水晶手串拆了送粉丝（热度：837176）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E5%9D%A6%E8%AF%9A%E4%BC%9A%E5%A4%B1%E5%8E%BB%E5%90%B8%E5%BC%95%E5%8A%9B%23" target="weibo">
+过度坦诚会失去吸引力（热度：829674）
 </a>
 </li>
 
@@ -117,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DeepSeekV4%E5%8F%91%E5%B8%83%23" target="weibo">
+DeepSeekV4发布（热度：644854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E4%BB%A4%E5%87%BB%E6%B2%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B8%83%E9%9B%B7%E8%88%B9%23" target="weibo">
 特朗普称下令击沉霍尔木兹布雷船（热度：644499）
 </a>
@@ -131,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E6%9B%9D%E7%A6%BB%E5%A9%9A%E6%97%A0%E5%A8%83%23" target="weibo">
 刘宇宁曾自曝离婚无娃（热度：564525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E4%B8%8A%E5%A6%BB%E6%97%85%E5%90%8E%E7%9A%84%E8%A1%A8%E7%8E%B0%E4%BA%89%E8%AE%AE%23" target="weibo">
+孙杨上妻旅后的表现争议（热度：550303）
 </a>
 </li>
 
@@ -165,6 +183,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%AB%E4%BB%A3%E5%9B%BD%E7%8E%8B%E9%95%BF%E5%AD%90%E5%B7%B4%E5%88%97%E7%BB%B4%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%81%87%E8%A2%AD%23" target="weibo">
+伊朗末代国王长子巴列维在德国遇袭（热度：441376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E7%BE%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
 侯明昊演唱会舞美被指抄袭檀健次（热度：437344）
 </a>
@@ -183,6 +207,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DeepSeekV4%23" target="weibo">
+DeepSeekV4（热度：366157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E7%8E%8B%E5%A4%A9%E8%BE%B0%20%E4%B8%89%E6%90%AD%23" target="weibo">
+郭晓婷王天辰 三搭（热度：363111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BA%8B%E7%BC%93%E5%88%99%E5%9C%86%E5%8F%AF%E8%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 突然发现事缓则圆可能是真的（热度：354548）
 </a>
@@ -195,20 +231,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E4%B8%8A%E5%A6%BB%E6%97%85%E5%90%8E%E7%9A%84%E8%A1%A8%E7%8E%B0%E4%BA%89%E8%AE%AE%23" target="weibo">
-孙杨上妻旅后的表现争议（热度：336216）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E6%BE%84%E6%B8%85%E5%92%8C%E5%91%A8%E6%B4%8B%E4%B8%8D%E6%98%AF%E7%9C%9F%E8%B0%88%E4%BA%86%23" target="weibo">
 王濛澄清和周洋不是真谈了（热度：332467）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E5%9D%A6%E8%AF%9A%E4%BC%9A%E5%A4%B1%E5%8E%BB%E5%90%B8%E5%BC%95%E5%8A%9B%23" target="weibo">
-过度坦诚会失去吸引力（热度：327004）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%9B%A0%E4%B8%BA%E5%96%9D%E5%A4%9A%E4%BA%86%E6%89%8D%E6%9D%A5%E6%B5%AA%E5%A7%90%23" target="weibo">
+王濛因为喝多了才来浪姐（热度：332241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E4%B8%8D%E5%86%8D%E4%BE%9D%E8%B5%96%E5%88%AB%E4%BA%BA%E7%AE%97%E6%88%91%E4%BB%AC%E6%9C%89%E9%AA%A8%E6%B0%94%23" target="weibo">
+孟子义 不再依赖别人算我们有骨气（热度：322113）
 </a>
 </li>
 
@@ -245,6 +281,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8B%89%E8%B4%A6%E5%8D%95%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B810%E5%B9%B4%E8%BD%AC%E4%BA%8620%E5%A4%9A%E4%B8%87%23" target="weibo">
 女生拉账单发现爸爸10年转了20多万（热度：294251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%23" target="weibo">
+DeepSeek v4 百万上下文（热度：291943）
 </a>
 </li>
 
@@ -303,8 +345,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C%E4%B8%AD%E8%A1%A8%E7%8E%B0%23" target="weibo">
+孙杨回应在妻子的浪漫旅行中表现（热度：259274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E9%A9%AC%E9%A0%94%E6%9D%8E%E7%BA%AF%E7%BB%93%E5%A9%9A%E8%AF%81%E6%98%AF%E6%89%8B%E5%86%99%E7%9A%84%23" target="weibo">
 民政局回应马頔李纯结婚证是手写的（热度：259077）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A714%E4%BB%8A%E6%99%9A%E9%9B%B7%E9%9C%86%E5%BC%80%E6%92%AD%23" target="weibo">
+奔跑吧14今晚雷霆开播（热度：256324）
 </a>
 </li>
 
@@ -333,8 +387,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A714%E4%BB%8A%E6%99%9A%E9%9B%B7%E9%9C%86%E5%BC%80%E6%92%AD%23" target="weibo">
-奔跑吧14今晚雷霆开播（热度：220305）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E5%90%83%E7%81%B0%E7%9A%84%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%23" target="weibo">
+买过最不会吃灰的电子产品（热度：220422）
 </a>
 </li>
 
@@ -363,12 +417,6 @@ NBA（热度：202771）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%9B%A0%E4%B8%BA%E5%96%9D%E5%A4%9A%E4%BA%86%E6%89%8D%E6%9D%A5%E6%B5%AA%E5%A7%90%23" target="weibo">
-王濛因为喝多了才来浪姐（热度：194188）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E5%92%8C%E8%80%81%E5%A9%86%E6%98%AF%E5%9C%A8%E5%A4%9C%E5%BA%97%E8%AE%A4%E8%AF%86%E7%9A%84%23" target="weibo">
 何润东和老婆是在夜店认识的（热度：189100）
 </a>
@@ -389,6 +437,12 @@ NBA（热度：202771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NIP%E6%88%98%E8%83%9CBLG%23" target="weibo">
 NIP战胜BLG（热度：179198）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%85%AC%E4%BA%A4%E6%8F%92%E9%98%9F%E8%A2%AB%E6%92%9E%E5%80%92%E7%A6%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9470%E4%B8%87%23" target="weibo">
+老人公交插队被撞倒离世家属索赔70万（热度：178726）
 </a>
 </li>
 
@@ -447,20 +501,14 @@ NIP战胜BLG（热度：179198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91vs%E6%A3%AE%E6%9E%97%E7%8B%BC%23" target="weibo">
+掘金vs森林狼（热度：166307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%AC%E5%8D%96%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E8%AF%88%E5%9B%AD%E8%A6%81%E6%B1%82%E6%92%A4%E6%8E%89%E6%8A%A5%E9%81%93%23" target="weibo">
 转卖女大学生电诈园要求撤掉报道（热度：161798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91vs%E6%A3%AE%E6%9E%97%E7%8B%BC%23" target="weibo">
-掘金vs森林狼（热度：161214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%AB%E4%BB%A3%E5%9B%BD%E7%8E%8B%E9%95%BF%E5%AD%90%E5%B7%B4%E5%88%97%E7%BB%B4%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%81%87%E8%A2%AD%23" target="weibo">
-伊朗末代国王长子巴列维在德国遇袭（热度：160598）
 </a>
 </li>
 
@@ -491,6 +539,18 @@ NIP战胜BLG（热度：179198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E6%8A%9B%E5%B0%B8%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%B2%A1%E5%8F%91%E7%8E%B0%E4%BA%8C%E4%BA%BA%E4%B8%8D%E5%92%8C%23" target="weibo">
 男子杀妻抛尸家属称没发现二人不和（热度：152021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%98%93%E7%9B%9B%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23" target="weibo">
+新易盛暴跌原因（热度：151674）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E5%92%8C%E4%BB%96%E7%88%B8%E7%88%B8%E5%B9%B4%E8%BD%BB%E6%97%B6%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
+何润东和他爸爸年轻时一模一样（热度：147052）
 </a>
 </li>
 
@@ -543,6 +603,12 @@ GPT Image2 到底什么是真的（热度：138548）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E7%9C%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2%E4%BA%86%23" target="weibo">
+Bin真不对劲了（热度：130786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%A7%E4%B8%BE%E8%BF%9B%E5%8F%A3250%E4%B8%87%E5%90%A8%E5%B0%BF%E7%B4%A0%23" target="weibo">
 印度大举进口250万吨尿素（热度：128815）
 </a>
@@ -567,8 +633,8 @@ GPT Image2 到底什么是真的（热度：138548）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E7%8E%8B%E5%A4%A9%E8%BE%B0%20%E4%B8%89%E6%90%AD%23" target="weibo">
-郭晓婷王天辰 三搭（热度：120540）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E4%B8%AD%E5%9B%BD4%E4%BA%BA%E6%99%8B%E7%BA%A716%E5%BC%BA%23" target="weibo">
+斯诺克世锦赛中国4人晋级16强（热度：120492）
 </a>
 </li>
 
@@ -621,14 +687,26 @@ GPT Image2 到底什么是真的（热度：138548）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E4%B8%AD%E5%9B%BD4%E4%BA%BA%E6%99%8B%E7%BA%A716%E5%BC%BA%23" target="weibo">
-斯诺克世锦赛中国4人晋级16强（热度：98964）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%E7%BB%B4%E6%8A%A4%E8%A1%A5%E5%81%BF%23" target="weibo">
+无限暖暖维护补偿（热度：101845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%B9%B02%E6%AF%941%E5%B0%BC%E5%85%8B%E6%96%AF%23" target="weibo">
+老鹰2比1尼克斯（热度：96138）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%94%A8AI%E6%81%B6%E6%90%9E%E4%BF%9D%E5%AE%89%E6%89%87%E5%A5%B3%E5%AD%90%E8%80%B3%E5%85%89%E8%A7%86%E9%A2%91%23" target="weibo">
 有人用AI恶搞保安扇女子耳光视频（热度：94702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E9%81%93%E8%83%96%E4%BA%86%23" target="weibo">
+明道胖了（热度：90987）
 </a>
 </li>
 
@@ -645,20 +723,14 @@ GPT Image2 到底什么是真的（热度：138548）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%9C%8B%E6%96%B0SU7%E7%9C%9F%E6%9D%90%E5%AE%9E%E6%96%99%23" target="weibo">
+北京车展看新SU7真材实料（热度：88165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%80%A7%E6%A0%BC%23" target="weibo">
 孙杨性格（热度：87489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%B9%B02%E6%AF%941%E5%B0%BC%E5%85%8B%E6%96%AF%23" target="weibo">
-老鹰2比1尼克斯（热度：86020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E7%9C%9F%E4%B8%8D%E5%AF%B9%E5%8A%B2%E4%BA%86%23" target="weibo">
-Bin真不对劲了（热度：85768）
 </a>
 </li>
 
@@ -705,6 +777,12 @@ Bin真不对劲了（热度：85768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA1.6%E4%B8%87%E6%8B%9B%E4%BA%BA%E7%89%A7%E5%9C%BA%E6%B3%A8%E5%86%8C%E8%B5%84%E6%9C%AC%E4%BB%855%E4%B8%87%23" target="weibo">
+月薪1.6万招人牧场注册资本仅5万（热度：70619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E4%B8%BB%E6%92%AD%E8%B7%9F%E9%B3%84%E9%B1%BC%E5%90%8C%E7%BC%B8%E6%98%AF%E5%8E%BB%E5%B9%B4%E5%BD%95%E5%B1%8F%23" target="weibo">
 知情人称主播跟鳄鱼同缸是去年录屏（热度：63700）
 </a>
@@ -724,7 +802,7 @@ Bin真不对劲了（热度：85768）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%B1%95%E5%8F%B0%E4%BA%BA%E6%B0%94%E7%8E%8B%E7%AB%9F%E6%98%AFTA%23" target="weibo">
-宝马展台人气王竟是TA（热度：49480）
+宝马展台人气王竟是TA（热度：50939）
 </a>
 </li>
 

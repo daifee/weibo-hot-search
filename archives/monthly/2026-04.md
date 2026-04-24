@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/24 11:30:15
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/24 11:58:51
 </p>
 </blockquote>
 <p>
@@ -2121,6 +2121,12 @@ Gucci别试探了（热度：985542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8A%8A%E6%B0%B4%E6%99%B6%E6%89%8B%E4%B8%B2%E6%8B%86%E4%BA%86%E9%80%81%E7%B2%89%E4%B8%9D%23" target="weibo">
+丁禹兮把水晶手串拆了送粉丝（热度：973869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E4%BA%86%E5%8E%BB%E4%B8%96%E5%A5%BD%E5%8F%8B%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%A4%8D%23" target="weibo">
 收到了去世好友的微信回复（热度：971762）
 </a>
@@ -2709,12 +2715,6 @@ SEVENTEEN全员续约（热度：850827）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8A%8A%E6%B0%B4%E6%99%B6%E6%89%8B%E4%B8%B2%E6%8B%86%E4%BA%86%E9%80%81%E7%B2%89%E4%B8%9D%23" target="weibo">
-丁禹兮把水晶手串拆了送粉丝（热度：837176）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B1%BC%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BA%AB%E5%8F%97%E5%88%B0%E4%BA%86%E4%BA%BA%E5%B7%A5%E6%9C%8D%E5%8A%A1%23" target="weibo">
 鱼第一次享受到了人工服务（热度：837108）
 </a>
@@ -2759,6 +2759,12 @@ MCN回应女孩挪用1700万打赏主播（热度：831288）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E7%88%B1%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%23" target="weibo">
 雨爱太好听了（热度：830094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E5%9D%A6%E8%AF%9A%E4%BC%9A%E5%A4%B1%E5%8E%BB%E5%90%B8%E5%BC%95%E5%8A%9B%23" target="weibo">
+过度坦诚会失去吸引力（热度：829674）
 </a>
 </li>
 
@@ -4173,6 +4179,12 @@ iPhone18ProMax金属机模（热度：656409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DeepSeekV4%E5%8F%91%E5%B8%83%23" target="weibo">
+DeepSeekV4发布（热度：644854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E4%BB%A4%E5%87%BB%E6%B2%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B8%83%E9%9B%B7%E8%88%B9%23" target="weibo">
 特朗普称下令击沉霍尔木兹布雷船（热度：644499）
 </a>
@@ -5259,6 +5271,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E4%B8%8A%E5%A6%BB%E6%97%85%E5%90%8E%E7%9A%84%E8%A1%A8%E7%8E%B0%E4%BA%89%E8%AE%AE%23" target="weibo">
+孙杨上妻旅后的表现争议（热度：550303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B9%9F%E5%BE%97%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%90%97%23" target="weibo">
 女主持人也得乘风破浪吗（热度：550232）
 </a>
@@ -5993,24 +6011,6 @@ lululemon质检结果（热度：516632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%8A%95%E8%AF%89%E8%9B%8B%E7%B3%95%E5%BA%97%E6%9C%AA%E6%9E%9C%E5%8F%8D%E5%8A%A9%E5%BA%97%E5%AE%B6%E7%88%86%E5%8D%95%23" target="weibo">
 宝妈投诉蛋糕店未果反助店家爆单（热度：505199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%90%90%E6%A7%BD%E5%BE%88%E5%A4%9A%E5%BE%88%E7%BA%A2%E7%9A%84%E6%98%8E%E6%98%9F%E6%BC%82%E4%BA%AE%E6%97%A0%E8%84%91%23" target="weibo">
-杨天真吐槽很多很红的明星漂亮无脑（热度：505156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%94%9F%E9%97%A8%23" target="weibo">
-罗生门（热度：504348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E7%AB%A5%E4%B8%8B%E4%BD%93%E6%B5%81%E8%A1%804%E5%B9%B4%E4%BD%93%E5%86%85%E5%8F%91%E7%8E%B0%E7%8E%A9%E5%85%B7%23" target="weibo">
-6岁女童下体流血4年体内发现玩具（热度：503949）
 </a>
 </li>
 
