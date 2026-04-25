@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777133087606,
+  "endTime": 1777136127112,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -11,12 +11,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2736520,
+      "num": 325389,
+      "word": "齐思钧表情",
+      "onboard_time": 1777132881,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2458534,
       "num": 325728,
       "word": "官方通报女子劝阻男子吸烟引争执",
       "onboard_time": 1777119620,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 833835,
+      "num": 1566198,
+      "word": "副所长为完成任务设计让6人吸毒",
+      "onboard_time": 1777128625,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 833538,
@@ -35,12 +51,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 685256,
-      "num": 1566198,
-      "word": "副所长为完成任务设计让6人吸毒",
-      "onboard_time": 1777128625,
-      "rank": 1,
-      "category": "舆论监督"
+      "raw_hot": 677528,
+      "num": 329993,
+      "word": "派克特道歉声明",
+      "onboard_time": 1777131682,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 651159,
@@ -83,20 +99,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403051,
-      "num": 215619,
-      "word": "齐思钧表情",
-      "onboard_time": 1777132881,
-      "rank": 40,
+      "raw_hot": 468482,
+      "num": 283871,
+      "word": "这周唐艺昕一个人站岗",
+      "onboard_time": 1777130304,
+      "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391462,
-      "num": 329993,
-      "word": "派克特道歉声明",
-      "onboard_time": 1777131682,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 372449,
@@ -179,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283871,
-      "num": 283871,
-      "word": "这周唐艺昕一个人站岗",
-      "onboard_time": 1777130304,
-      "rank": 32,
+      "raw_hot": 291518,
+      "num": 254663,
+      "word": "李小冉短短两周经历了什么",
+      "onboard_time": 1777135040,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -219,7 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186733,
+      "raw_hot": 210970,
       "num": 331716,
       "word": "16岁高中生或发现侵华日军新罪证",
       "onboard_time": 1777130782,
@@ -233,6 +241,14 @@
       "onboard_time": 1777112420,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174300,
+      "num": 257016,
+      "word": "香港最强控烟令没有首次免罚",
+      "onboard_time": 1777133839,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166494,
@@ -265,6 +281,14 @@
       "onboard_time": 1777130782,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143501,
+      "num": 243544,
+      "word": "断绝孩子手机上瘾最快的偏方",
+      "onboard_time": 1777133660,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 141991,
@@ -315,7 +339,7 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 108326,
+      "raw_hot": 109754,
       "num": 234510,
       "word": "失明男子租房每月50元20年没涨",
       "onboard_time": 1777131562,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 104672,
-      "num": 213637,
+      "num": 213933,
       "word": "程潇完全花仙子",
       "onboard_time": 1777119801,
       "rank": 46,
@@ -395,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1136,
+      "raw_hot": 1205,
       "num": 1169243,
       "word": "开局之年看中国",
       "onboard_time": 1777040785,
