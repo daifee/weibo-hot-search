@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777085898543,
+  "endTime": 1777088424379,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3328460,
-      "num": 922833,
+      "num": 945045,
       "word": "浪姐 镜头霸凌",
       "onboard_time": 1777080380,
       "rank": 4,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1960945,
-      "num": 856600,
+      "num": 922319,
       "word": "何宣林道歉",
       "onboard_time": 1777081579,
       "rank": 5,
@@ -51,8 +51,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1247401,
-      "num": 1247401,
+      "raw_hot": 1449987,
+      "num": 1449987,
+      "word": "詹姆斯三分",
+      "onboard_time": 1777085601,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1292092,
+      "num": 1292092,
       "word": "韩国新恋综太炸裂了",
       "onboard_time": 1777079299,
       "rank": 0,
@@ -83,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 883880,
+      "num": 883880,
+      "word": "恋与深空起诉派克特胜诉",
+      "onboard_time": 1777086859,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 790411,
+      "num": 683022,
+      "word": "老人被83岁男室友打到大小便失禁",
+      "onboard_time": 1777077860,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731740,
       "num": 731740,
       "word": "东方甄选 明明天权离职",
@@ -92,11 +116,19 @@
     },
     {
       "raw_hot": 729962,
-      "num": 212819,
+      "num": 360477,
       "word": "佳偶天成开播",
       "onboard_time": 1777082779,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 698918,
+      "num": 428585,
+      "word": "陶昕然骄傲拒撕节目组",
+      "onboard_time": 1777086259,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 685785,
@@ -107,16 +139,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 683022,
-      "num": 683022,
-      "word": "老人被83岁男室友打到大小便失禁",
+      "raw_hot": 679427,
+      "num": 1201311,
+      "word": "湖人vs火箭",
       "onboard_time": 1777077860,
-      "rank": 7,
-      "category": "民生新闻"
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 676121,
+      "num": 416906,
+      "word": "霍思燕的蒙古獒又夺冠了",
+      "onboard_time": 1777084159,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 550394,
-      "num": 211904,
+      "num": 323357,
       "word": "she合体爬山了",
       "onboard_time": 1777080859,
       "rank": 11,
@@ -131,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 520833,
-      "num": 209845,
-      "word": "霍思燕的蒙古獒又夺冠了",
-      "onboard_time": 1777084159,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 513221,
       "num": 210861,
       "word": "医生将2粒药打成21粒患者索赔10万",
@@ -147,12 +179,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 468394,
-      "num": 1201311,
-      "word": "湖人vs火箭",
-      "onboard_time": 1777077860,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 506096,
+      "num": 335389,
+      "word": "唐艺昕离开李小冉后成了李小冉",
+      "onboard_time": 1777085420,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 466414,
@@ -163,19 +195,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452212,
+      "num": 452212,
+      "word": "第一次见外国人误闯天家",
+      "onboard_time": 1777086621,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 451565,
+      "num": 451565,
+      "word": "詹姆斯一攻一防自我救赎",
+      "onboard_time": 1777086859,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441364,
-      "num": 207091,
+      "num": 246259,
       "word": "希林娜依高说不怪唐艺昕",
       "onboard_time": 1777076659,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 439004,
-      "num": 202179,
-      "word": "唐艺昕离开李小冉后成了李小冉",
-      "onboard_time": 1777085420,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -225,6 +265,14 @@
       "onboard_time": 1777073898,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379535,
+      "num": 379535,
+      "word": "网友称禁止吸烟标语旁免费发打火机",
+      "onboard_time": 1777086380,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378820,
@@ -315,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279300,
+      "num": 279300,
+      "word": "孔刘金高银李栋旭聚餐",
+      "onboard_time": 1777087101,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266262,
       "num": 266262,
       "word": "男子投诉救护车迟到致幼子身亡",
       "onboard_time": 1777046900,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260483,
+      "num": 260483,
+      "word": "恋与深空",
+      "onboard_time": 1777086920,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 257800,
@@ -331,12 +395,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 255768,
+      "num": 255768,
+      "word": "央视频发了张凌赫田曦薇",
+      "onboard_time": 1777086080,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255330,
       "num": 431422,
       "word": "不对任何cp付出真情实感算长大吗",
       "onboard_time": 1777058174,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253829,
+      "num": 253829,
+      "word": "男孩咽喉竟有双胞胎兄弟残留",
+      "onboard_time": 1777085601,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240889,
@@ -388,18 +468,18 @@
     },
     {
       "raw_hot": 225120,
-      "num": 198236,
+      "num": 218494,
       "word": "男生戴假发潜入女寝厕所笑出声被抓",
       "onboard_time": 1777083680,
       "rank": 24,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221035,
-      "num": 208496,
-      "word": "詹姆斯三分",
-      "onboard_time": 1777085601,
-      "rank": 14,
+      "raw_hot": 222446,
+      "num": 222446,
+      "word": "詹姆斯三分绝平火箭",
+      "onboard_time": 1777087101,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -425,6 +505,22 @@
       "onboard_time": 1777032802,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210215,
+      "num": 210215,
+      "word": "伊能静秦昊差点爆肝",
+      "onboard_time": 1777078821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202627,
+      "num": 202627,
+      "word": "张豆豆读书孙杨要求正能量",
+      "onboard_time": 1777087520,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 198364,
@@ -475,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188422,
+      "num": 188422,
+      "word": "37岁男子4年虐杀超1500只猫",
+      "onboard_time": 1777086020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187341,
       "num": 187341,
       "word": "杨超越变美了",
@@ -497,14 +601,6 @@
       "onboard_time": 1777038382,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180888,
-      "num": 180888,
-      "word": "伊能静秦昊差点爆肝",
-      "onboard_time": 1777078821,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 178513,
@@ -547,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161027,
+      "num": 161027,
+      "word": "华晨宇演唱会为何获批又叫停",
+      "onboard_time": 1777084639,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160924,
       "num": 187365,
       "word": "印度男子酒后杀妻竟提头颅穿行村庄",
@@ -561,6 +665,14 @@
       "onboard_time": 1777084398,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159986,
+      "num": 159986,
+      "word": "丁俊晖世界级K球",
+      "onboard_time": 1777087639,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 157514,
@@ -579,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155229,
-      "num": 142738,
-      "word": "华晨宇演唱会为何获批又叫停",
-      "onboard_time": 1777084639,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 145089,
+      "num": 145089,
+      "word": "湖人八村变八神",
+      "onboard_time": 1777085839,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 144712,
@@ -620,7 +732,7 @@
     },
     {
       "raw_hot": 138214,
-      "num": 138214,
+      "num": 144793,
       "word": "东方甄选回应明明天权离职",
       "onboard_time": 1777077318,
       "rank": 42,
@@ -641,14 +753,6 @@
       "onboard_time": 1777074857,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132411,
-      "num": 132411,
-      "word": "男孩咽喉竟有双胞胎兄弟残留",
-      "onboard_time": 1777085601,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131097,
@@ -683,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125594,
-      "num": 125594,
-      "word": "湖人八村变八神",
-      "onboard_time": 1777085839,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125564,
       "num": 147396,
       "word": "养育孩子的三个目标",
@@ -723,8 +819,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109954,
+      "num": 305994,
+      "word": "美国为何害怕中国大蒜",
+      "onboard_time": 1777087699,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108384,
-      "num": 117901,
+      "num": 144635,
       "word": "DeepSeekV4适配华为升腾",
       "onboard_time": 1777079898,
       "rank": 48,
@@ -771,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86672,
+      "num": 144653,
+      "word": "iPhoneUltra机模上手",
+      "onboard_time": 1777087999,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82821,
       "num": 181977,
       "word": "大学生起诉海航提前10分钟起飞",
@@ -787,12 +899,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82168,
+      "num": 162528,
+      "word": "司机因对向车滥用远光灯撞死行人",
+      "onboard_time": 1777087639,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78694,
       "num": 176936,
       "word": "华晨宇演唱会叫停照见生态红线底线",
       "onboard_time": 1777050077,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77266,
+      "num": 350093,
+      "word": "幸运咖十万免单请你喝",
+      "onboard_time": 1777086259,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 67514,
@@ -812,7 +940,7 @@
     },
     {
       "raw_hot": 64749,
-      "num": 186443,
+      "num": 229308,
       "word": "国民党民众党联手弹劾赖清德",
       "onboard_time": 1777081940,
       "rank": 29,
@@ -851,6 +979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48942,
+      "num": 1134293,
+      "word": "好客山东燃情淄博",
+      "onboard_time": 1777083979,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43810,
       "num": 60609,
       "word": "奔跑吧14",
@@ -867,12 +1003,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37555,
-      "num": 1134293,
-      "word": "好客山东燃情淄博",
-      "onboard_time": 1777083979,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 36925,
+      "num": 375715,
+      "word": "东风奕派携华为乾崑年内上新3车",
+      "onboard_time": 1777086259,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 36673,
+      "num": 223689,
+      "word": "日本民众坚决反对解禁武器出口",
+      "onboard_time": 1777086920,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32821,
