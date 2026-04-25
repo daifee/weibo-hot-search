@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777109403858,
+  "endTime": 1777111386596,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2478979,
-      "num": 455468,
+      "num": 524553,
       "word": "孟子义李昀锐下定决心拆cp的原因",
       "onboard_time": 1777091180,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1299647,
-      "num": 418334,
+      "num": 523821,
       "word": "三手烟",
       "onboard_time": 1777103959,
       "rank": 11,
@@ -121,6 +121,14 @@
       "onboard_time": 1777079299,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1259565,
+      "num": 1259565,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 1223223,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1182446,
-      "num": 805219,
+      "num": 839689,
       "word": "五一原来是放假七天的",
       "onboard_time": 1777106840,
       "rank": 18,
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 810874,
-      "num": 820416,
-      "word": "花呗白条月付等面临重大调整",
-      "onboard_time": 1777107080,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 791043,
       "num": 791043,
       "word": "何宣林浪姐上班哭了",
@@ -241,6 +241,14 @@
       "onboard_time": 1777077860,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 741979,
+      "num": 397388,
+      "word": "李昀锐连孟子义名字都不提",
+      "onboard_time": 1777110500,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 731740,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 641517,
-      "num": 408469,
+      "num": 520659,
       "word": "陶昕然发长文回应淘汰",
       "onboard_time": 1777105640,
       "rank": 13,
@@ -304,6 +312,14 @@
       "word": "第一次见外国人误闯天家",
       "onboard_time": 1777086621,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 570412,
+      "num": 570412,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398247,
+      "num": 398247,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390504,
       "num": 306410,
       "word": "曝穆祉丞确认将进组十日终焉",
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356671,
+      "num": 356671,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 352674,
       "num": 525859,
       "word": "丁俊晖vs赵心童",
@@ -569,14 +601,6 @@
       "onboard_time": 1777107021,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339987,
-      "num": 339987,
-      "word": "杨威两女儿勇夺全国冠军和季军",
-      "onboard_time": 1777104079,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 338640,
@@ -673,14 +697,6 @@
       "onboard_time": 1777039224,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302289,
-      "num": 302289,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 301362,
@@ -883,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222071,
-      "num": 222071,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 217754,
       "num": 260414,
       "word": "斯玛特回应詹姆斯绝平三分",
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192521,
+      "num": 192521,
+      "word": "谢娜感谢陶昕然能来乘风",
+      "onboard_time": 1777108759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "叶一茜 最长的电影",
@@ -1051,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174148,
+      "num": 174148,
+      "word": "鹿晗五哈工伤",
+      "onboard_time": 1777107920,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171645,
       "num": 178868,
       "word": "羽协工作人员回应张军失联",
@@ -1099,19 +1123,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168339,
-      "num": 168339,
-      "word": "鹿晗五哈工伤",
-      "onboard_time": 1777107920,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167772,
       "num": 234315,
       "word": "ksg剧透",
       "onboard_time": 1777097480,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 167188,
+      "num": 167188,
+      "word": "TES战胜NIP",
+      "onboard_time": 1777108520,
+      "rank": 43,
       "category": "电竞"
     },
     {
@@ -1137,14 +1161,6 @@
       "onboard_time": 1777082480,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164419,
-      "num": 145504,
-      "word": "谢娜感谢陶昕然能来乘风",
-      "onboard_time": 1777108759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 161027,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145469,
+      "num": 145469,
+      "word": "近3公斤黄金被扣30年银行账目已毁",
+      "onboard_time": 1777107740,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "湖人八村变八神",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1777087699,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "2名女子地铁打架被行拘",
+      "onboard_time": 1777109481,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143188,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1777077318,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 137403,
-      "num": 137403,
-      "word": "TES战胜NIP",
-      "onboard_time": 1777108520,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 135177,
@@ -1403,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125578,
+      "num": 291832,
+      "word": "原村支书用铲车掩埋村民被刑拘",
+      "onboard_time": 1777109119,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125564,
       "num": 147396,
       "word": "养育孩子的三个目标",
       "onboard_time": 1777062373,
       "rank": 9,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 125486,
+      "num": 125486,
+      "word": "中灿回应离开东方甄选",
+      "onboard_time": 1777110440,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 125252,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1777091360,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119895,
+      "num": 119895,
+      "word": "华晨宇把音乐节开成了乐园",
+      "onboard_time": 1777111038,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 119028,
@@ -1643,6 +1691,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72333,
+      "num": 301909,
+      "word": "中科院科技创新发展中心主任被查",
+      "onboard_time": 1777108881,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 68753,
+      "num": 301244,
+      "word": "大众9X上市1小时内锁单破万",
+      "onboard_time": 1777108040,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 68327,
+      "num": 296173,
+      "word": "泰山游客为抢日出拍摄机位起冲突",
+      "onboard_time": 1777110680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67514,
       "num": 176404,
       "word": "陈瑶直拍",
@@ -1667,14 +1739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61491,
-      "num": 301244,
-      "word": "大众9X上市1小时内锁单破万",
-      "onboard_time": 1777108040,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 61016,
       "num": 397436,
       "word": "伊朗最高领袖或与普京会晤",
@@ -1689,14 +1753,6 @@
       "onboard_time": 1777097120,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 60625,
-      "num": 301909,
-      "word": "中科院科技创新发展中心主任被查",
-      "onboard_time": 1777108881,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 60611,
@@ -1763,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49803,
-      "num": 291832,
-      "word": "原村支书用铲车掩埋村民被刑拘",
-      "onboard_time": 1777109119,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 48942,
       "num": 1134293,
       "word": "好客山东燃情淄博",
@@ -1811,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42312,
+      "num": 125521,
+      "word": "成都一小区起火居民发声",
+      "onboard_time": 1777110561,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 36925,
       "num": 375715,
       "word": "东风奕派携华为乾崑年内上新3车",
@@ -1843,7 +1899,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 29851,
+      "raw_hot": 30843,
       "num": 1082926,
       "word": "疾风骤雨中三枚历史首金光芒闪耀",
       "onboard_time": 1777100480,
