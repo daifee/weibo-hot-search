@@ -1,0 +1,410 @@
+{
+  "runTime": 1777085898543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247401,
+        "num": 1247401,
+        "word": "韩国新恋综太炸裂了",
+        "onboard_time": 1777079299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468394,
+        "num": 1201311,
+        "word": "湖人vs火箭",
+        "onboard_time": 1777077860,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37555,
+        "num": 1134293,
+        "word": "好客山东燃情淄博",
+        "onboard_time": 1777083979,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4748782,
+        "num": 1089478,
+        "word": "禁烟条例",
+        "onboard_time": 1777083259,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3328460,
+        "num": 922833,
+        "word": "浪姐 镜头霸凌",
+        "onboard_time": 1777080380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1960945,
+        "num": 856600,
+        "word": "何宣林道歉",
+        "onboard_time": 1777081579,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731740,
+        "num": 731740,
+        "word": "东方甄选 明明天权离职",
+        "onboard_time": 1777073958,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 683022,
+        "num": 683022,
+        "word": "老人被83岁男室友打到大小便失禁",
+        "onboard_time": 1777077860,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378787,
+        "num": 378787,
+        "word": "运动会上机器人突然抱住女生",
+        "onboard_time": 1777076538,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213052,
+        "num": 213052,
+        "word": "男子30年前被扣押2859克黄金未返还",
+        "onboard_time": 1777045822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729962,
+        "num": 212819,
+        "word": "佳偶天成开播",
+        "onboard_time": 1777082779,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550394,
+        "num": 211904,
+        "word": "she合体爬山了",
+        "onboard_time": 1777080859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479119,
+        "num": 210861,
+        "word": "医生将2粒药打成21粒患者索赔10万",
+        "onboard_time": 1777074138,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 520833,
+        "num": 209845,
+        "word": "霍思燕的蒙古獒又夺冠了",
+        "onboard_time": 1777084159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221035,
+        "num": 208496,
+        "word": "詹姆斯三分",
+        "onboard_time": 1777085601,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441364,
+        "num": 207091,
+        "word": "希林娜依高说不怪唐艺昕",
+        "onboard_time": 1777076659,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424701,
+        "num": 206817,
+        "word": "浪姐 赢了被淘汰",
+        "onboard_time": 1777042583,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306982,
+        "num": 205793,
+        "word": "羽协主席张军失联",
+        "onboard_time": 1777046780,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164950,
+        "num": 204248,
+        "word": "日本特高课要还魂了吗",
+        "onboard_time": 1777082480,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59982,
+        "num": 203763,
+        "word": "流浪狗做手术十几位的哥守候在医院",
+        "onboard_time": 1777085180,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439004,
+        "num": 202179,
+        "word": "唐艺昕离开李小冉后成了李小冉",
+        "onboard_time": 1777085420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258704,
+        "num": 201055,
+        "word": "全国首个伴侣动物立法草案被删除",
+        "onboard_time": 1777044140,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257800,
+        "num": 200108,
+        "word": "金价跌破新低",
+        "onboard_time": 1777043842,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237967,
+        "num": 199709,
+        "word": "真的建议大家去过简约生活",
+        "onboard_time": 1777083620,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225120,
+        "num": 198236,
+        "word": "男生戴假发潜入女寝厕所笑出声被抓",
+        "onboard_time": 1777083680,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197917,
+        "num": 197917,
+        "word": "詹姆斯布朗尼空接",
+        "onboard_time": 1777083439,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195462,
+        "num": 195462,
+        "word": "曝iPhone18配12GB内存",
+        "onboard_time": 1777081521,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194400,
+        "num": 194400,
+        "word": "陶昕然淘汰",
+        "onboard_time": 1777041084,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83016,
+        "num": 189853,
+        "word": "以色列防长威胁将伊朗打回石器时期",
+        "onboard_time": 1777062014,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64749,
+        "num": 186443,
+        "word": "国民党民众党联手弹劾赖清德",
+        "onboard_time": 1777081940,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186390,
+        "num": 186390,
+        "word": "傅首尔曾8个月减重26斤",
+        "onboard_time": 1777073898,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180888,
+        "num": 180888,
+        "word": "伊能静秦昊差点爆肝",
+        "onboard_time": 1777078821,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171645,
+        "num": 178868,
+        "word": "羽协工作人员回应张军失联",
+        "onboard_time": 1777079299,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178188,
+        "num": 178188,
+        "word": "鹿晗 红包",
+        "onboard_time": 1777026920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176413,
+        "num": 176413,
+        "word": "张凌赫回应了台湾同胞的喜爱",
+        "onboard_time": 1777075878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160609,
+        "num": 160609,
+        "word": "A股又有重要调整",
+        "onboard_time": 1777084398,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158781,
+        "num": 158781,
+        "word": "官方回应华晨宇演唱会选址质疑",
+        "onboard_time": 1777053795,
+        "rank": 36,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 157514,
+        "num": 157514,
+        "word": "谭松韵录制的是向往的秦岚",
+        "onboard_time": 1777082900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144712,
+        "num": 144712,
+        "word": "丈夫哽咽回应妻子婚礼前2天苏醒",
+        "onboard_time": 1777083080,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157445,
+        "num": 144696,
+        "word": "孙杨 张豆豆",
+        "onboard_time": 1777043662,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 144656,
+        "word": "妈妈生了9个孩子又有了30个孙辈",
+        "onboard_time": 1777038744,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155229,
+        "num": 142738,
+        "word": "华晨宇演唱会为何获批又叫停",
+        "onboard_time": 1777084639,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138214,
+        "num": 138214,
+        "word": "东方甄选回应明明天权离职",
+        "onboard_time": 1777077318,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135177,
+        "num": 135177,
+        "word": "老人故意往幼儿园跑道扔玻璃碴",
+        "onboard_time": 1777084580,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132411,
+        "num": 132411,
+        "word": "男孩咽喉竟有双胞胎兄弟残留",
+        "onboard_time": 1777085601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131097,
+        "num": 131097,
+        "word": "赵子琪为浪姐推掉将门独后",
+        "onboard_time": 1777083560,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125594,
+        "num": 125594,
+        "word": "湖人八村变八神",
+        "onboard_time": 1777085839,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110372,
+        "num": 121106,
+        "word": "东方甄选称尊重明明天权选择",
+        "onboard_time": 1777080920,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108384,
+        "num": 117901,
+        "word": "DeepSeekV4适配华为升腾",
+        "onboard_time": 1777079898,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62762,
+        "num": 117634,
+        "word": "黄仁勋预言的灾难仅9天就成真",
+        "onboard_time": 1777037543,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟正确政绩观#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777075448754,
+  "endTime": 1777085898543,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4748782,
+      "num": 1089478,
+      "word": "禁烟条例",
+      "onboard_time": 1777083259,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4712004,
       "num": 4712004,
       "word": "浪姐排名",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1774480519,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3328460,
+      "num": 922833,
+      "word": "浪姐 镜头霸凌",
+      "onboard_time": 1777080380,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 3306102,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771581739,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2140390,
-      "num": 1093799,
-      "word": "伊朗",
-      "onboard_time": 1767351020,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 2137611,
-      "num": 2137611,
-      "word": "哈梅内伊的女儿女婿等遇难",
-      "onboard_time": 1772327843,
-      "rank": 3,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
