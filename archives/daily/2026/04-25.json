@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777102175328,
+  "endTime": 1777103614557,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3436604,
-      "num": 1030230,
+      "num": 1044068,
       "word": "第一次对AI感到恐惧",
       "onboard_time": 1777091602,
       "rank": 3,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1201093,
-      "num": 969019,
+      "num": 1040786,
       "word": "发现变胖真的太廉价了",
       "onboard_time": 1777097060,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1187081,
+      "num": 1189933,
+      "word": "7岁男童仅18斤被当脑瘫治7年",
+      "onboard_time": 1777099341,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1184631,
@@ -129,14 +137,6 @@
       "onboard_time": 1777095499,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1068699,
-      "num": 425339,
-      "word": "7岁男童仅18斤被当脑瘫治7年",
-      "onboard_time": 1777099341,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 965159,
@@ -217,6 +217,14 @@
       "onboard_time": 1777084159,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 686130,
+      "num": 686130,
+      "word": "花少导演在约张凌赫田曦薇",
+      "onboard_time": 1777102280,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 685785,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329510,
+      "num": 329510,
+      "word": "孟子义李昀锐方早已辟谣",
+      "onboard_time": 1777100959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328379,
       "num": 258715,
       "word": "TXT观看苏新皓翻跳GGUM",
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301362,
+      "num": 430873,
+      "word": "多个国家抛售黄金",
+      "onboard_time": 1777095619,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 295906,
       "num": 295906,
       "word": "湖人G3加时战胜火箭",
@@ -561,6 +585,14 @@
       "onboard_time": 1777088600,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275628,
+      "num": 400908,
+      "word": "东方甄选感谢明明天权",
+      "onboard_time": 1777099520,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 271247,
@@ -603,12 +635,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 256914,
-      "num": 256914,
-      "word": "孟子义李昀锐方早已辟谣",
-      "onboard_time": 1777100959,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 256492,
+      "num": 285369,
+      "word": "iPhone18ProMax厚度近14mm",
+      "onboard_time": 1777098740,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 255768,
@@ -625,22 +657,6 @@
       "onboard_time": 1777058174,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255022,
-      "num": 285369,
-      "word": "iPhone18ProMax厚度近14mm",
-      "onboard_time": 1777098740,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 253775,
-      "num": 327258,
-      "word": "多个国家抛售黄金",
-      "onboard_time": 1777095619,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 247987,
@@ -681,6 +697,14 @@
       "onboard_time": 1777045822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233411,
+      "num": 219153,
+      "word": "何润东是霍建华的反义词",
+      "onboard_time": 1777101020,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 232719,
@@ -731,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219951,
+      "num": 272424,
+      "word": "警方称黄金被扣30年赔偿已过时效",
+      "onboard_time": 1777099520,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217754,
       "num": 260414,
       "word": "斯玛特回应詹姆斯绝平三分",
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207006,
+      "num": 207006,
+      "word": "KSG全员上败采",
+      "onboard_time": 1777102340,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202627,
       "num": 202627,
       "word": "张豆豆读书孙杨要求正能量",
@@ -809,14 +849,6 @@
       "onboard_time": 1777094299,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196698,
-      "num": 327364,
-      "word": "东方甄选感谢明明天权",
-      "onboard_time": 1777099520,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 195462,
@@ -875,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181661,
+      "num": 181661,
+      "word": "过了25就不敢甩头了",
+      "onboard_time": 1777101139,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178513,
       "num": 178513,
       "word": "李小冉钟汉良16年前的剧翻红",
@@ -888,14 +928,6 @@
       "word": "张凌赫回应了台湾同胞的喜爱",
       "onboard_time": 1777075878,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172532,
-      "num": 172532,
-      "word": "何润东是霍建华的反义词",
-      "onboard_time": 1777101020,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146942,
+      "num": 146942,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "湖人八村变八神",
@@ -1076,7 +1116,7 @@
     },
     {
       "raw_hot": 144134,
-      "num": 144134,
+      "num": 176738,
       "word": "专家判定7岁男孩出生就遭受颅骨骨折",
       "onboard_time": 1777094659,
       "rank": 48,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1777019239,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139815,
-      "num": 272424,
-      "word": "警方称黄金被扣30年赔偿已过时效",
-      "onboard_time": 1777099520,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138981,
@@ -1219,6 +1251,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124928,
+      "num": 124928,
+      "word": "狼队的诅咒",
+      "onboard_time": 1777103420,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122450,
+      "num": 122450,
+      "word": "天蝎座的小猫",
+      "onboard_time": 1777103420,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121473,
       "num": 166058,
       "word": "白宫发言人称要去生宝宝了",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1777023440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117597,
+      "num": 267971,
+      "word": "大众9X智能辅助驾驶跻身第一梯队",
+      "onboard_time": 1777102701,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 116804,
@@ -1283,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96981,
+      "num": 311027,
+      "word": "华为大阔折真香",
+      "onboard_time": 1777100659,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95855,
       "num": 164916,
       "word": "iPhoneUltra机模上手",
@@ -1329,14 +1393,6 @@
       "onboard_time": 1777035082,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85360,
-      "num": 311027,
-      "word": "华为大阔折真香",
-      "onboard_time": 1777100659,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 82821,
@@ -1499,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44860,
+      "num": 283682,
+      "word": "官方核查商家教唆游客喂怀孕母猴酒",
+      "onboard_time": 1777103000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43810,
       "num": 60609,
       "word": "奔跑吧14",
@@ -1563,20 +1627,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24311,
+      "num": 1057219,
+      "word": "疾风骤雨中三枚历史首金光芒闪耀",
+      "onboard_time": 1777100480,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23383,
       "num": 268354,
       "word": "俄外长称西方国家已对俄公开宣战",
       "onboard_time": 1777096879,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19846,
-      "num": 1057219,
-      "word": "疾风骤雨中三枚历史首金光芒闪耀",
-      "onboard_time": 1777100480,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 17692,

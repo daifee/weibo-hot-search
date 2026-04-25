@@ -1,0 +1,410 @@
+{
+  "runTime": 1777103614557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187081,
+        "num": 1189933,
+        "word": "7岁男童仅18斤被当脑瘫治7年",
+        "onboard_time": 1777099341,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387814,
+        "num": 1055573,
+        "word": "韩国新恋综太炸裂了",
+        "onboard_time": 1777079299,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24311,
+        "num": 1044171,
+        "word": "疾风骤雨中三枚历史首金光芒闪耀",
+        "onboard_time": 1777100480,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1423953,
+        "num": 1044068,
+        "word": "第一次对AI感到恐惧",
+        "onboard_time": 1777091602,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1040786,
+        "num": 1040786,
+        "word": "发现变胖真的太廉价了",
+        "onboard_time": 1777097060,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 710059,
+        "num": 710059,
+        "word": "鹿晗 爷们儿要脸",
+        "onboard_time": 1777099638,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686130,
+        "num": 686130,
+        "word": "花少导演在约张凌赫田曦薇",
+        "onboard_time": 1777102280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595395,
+        "num": 595395,
+        "word": "KSG止步32强",
+        "onboard_time": 1777100539,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437079,
+        "num": 437079,
+        "word": "网友在daiso买了个小狗不会用的东西",
+        "onboard_time": 1777092439,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301362,
+        "num": 430873,
+        "word": "多个国家抛售黄金",
+        "onboard_time": 1777095619,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1946585,
+        "num": 424697,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475285,
+        "num": 408140,
+        "word": "何宣林道歉",
+        "onboard_time": 1777081579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275628,
+        "num": 400908,
+        "word": "东方甄选感谢明明天权",
+        "onboard_time": 1777099520,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 390882,
+        "num": 390882,
+        "word": "孙丞潇 人永远不知道谁会旺你",
+        "onboard_time": 1777093100,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363795,
+        "num": 363795,
+        "word": "陶昕然骄傲拒撕节目组",
+        "onboard_time": 1777086259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223972,
+        "num": 344734,
+        "word": "詹姆斯三分",
+        "onboard_time": 1777085601,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329510,
+        "num": 329510,
+        "word": "孟子义李昀锐方早已辟谣",
+        "onboard_time": 1777100959,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322952,
+        "num": 322952,
+        "word": "霍思燕的蒙古獒又夺冠了",
+        "onboard_time": 1777084159,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222142,
+        "num": 292173,
+        "word": "KSG对战TTG",
+        "onboard_time": 1777091602,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44860,
+        "num": 283682,
+        "word": "官方核查商家教唆游客喂怀孕母猴酒",
+        "onboard_time": 1777103000,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278680,
+        "num": 278680,
+        "word": "曝穆祉丞确认将进组十日终焉",
+        "onboard_time": 1777094780,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117597,
+        "num": 267971,
+        "word": "大众9X智能辅助驾驶跻身第一梯队",
+        "onboard_time": 1777102701,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 263886,
+        "num": 263886,
+        "word": "奔跑吧直播",
+        "onboard_time": 1777101499,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257640,
+        "num": 257640,
+        "word": "妈妈怀疑瑶一瑶有多动症",
+        "onboard_time": 1777089319,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563468,
+        "num": 257540,
+        "word": "华晨宇 抚仙湖",
+        "onboard_time": 1777095499,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256492,
+        "num": 256492,
+        "word": "iPhone18ProMax厚度近14mm",
+        "onboard_time": 1777098740,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96981,
+        "num": 235448,
+        "word": "华为大阔折真香",
+        "onboard_time": 1777100659,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210349,
+        "num": 226889,
+        "word": "金价跌至近期新低",
+        "onboard_time": 1777090100,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219951,
+        "num": 219951,
+        "word": "警方称黄金被扣30年赔偿已过时效",
+        "onboard_time": 1777099520,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82760,
+        "num": 219253,
+        "word": "逃犯没想到路人身手这么好",
+        "onboard_time": 1777100659,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233411,
+        "num": 219153,
+        "word": "何润东是霍建华的反义词",
+        "onboard_time": 1777101020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218699,
+        "num": 218699,
+        "word": "迪丽热巴腿部肌肉线条",
+        "onboard_time": 1777092800,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207006,
+        "num": 207006,
+        "word": "KSG全员上败采",
+        "onboard_time": 1777102340,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204956,
+        "num": 204956,
+        "word": "唐艺昕离开李小冉后成了李小冉",
+        "onboard_time": 1777085420,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124498,
+        "num": 201103,
+        "word": "三佛塔电诈园区航拍曝光",
+        "onboard_time": 1777094299,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200057,
+        "num": 200057,
+        "word": "翁虹回应女儿被称最美星二代",
+        "onboard_time": 1777089440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182793,
+        "num": 182793,
+        "word": "TXT观看苏新皓翻跳GGUM",
+        "onboard_time": 1777096221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181661,
+        "num": 181661,
+        "word": "过了25就不敢甩头了",
+        "onboard_time": 1777101139,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123402,
+        "num": 176738,
+        "word": "专家判定7岁男孩出生就遭受颅骨骨折",
+        "onboard_time": 1777094659,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176023,
+        "num": 176023,
+        "word": "唐艺昕回应重新分词",
+        "onboard_time": 1777091000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163191,
+        "num": 163191,
+        "word": "派克特没有道歉",
+        "onboard_time": 1777098619,
+        "rank": 40,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 146942,
+        "num": 146942,
+        "word": "为什么很少听到工作狂这个标签了",
+        "onboard_time": 1777102159,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 146724,
+        "word": "余茵拍上部戏体重才60多斤",
+        "onboard_time": 1777088600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 145223,
+        "word": "恋与深空起诉派克特胜诉",
+        "onboard_time": 1777086859,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 143999,
+        "num": 143999,
+        "word": "以色列引进印度移民",
+        "onboard_time": 1777098380,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "第一次见外国人误闯天家",
+        "onboard_time": 1777086621,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138054,
+        "num": 138054,
+        "word": "ksg剧透",
+        "onboard_time": 1777097480,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134414,
+        "num": 134414,
+        "word": "鹿晗崩溃先找邓超",
+        "onboard_time": 1777096760,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124928,
+        "num": 124928,
+        "word": "狼队的诅咒",
+        "onboard_time": 1777103420,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122450,
+        "num": 122450,
+        "word": "天蝎座的小猫",
+        "onboard_time": 1777103420,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同通伦互致贺电#"
+    }
+  }
+}
