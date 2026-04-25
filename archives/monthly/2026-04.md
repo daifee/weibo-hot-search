@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 14:06:48
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 15:29:35
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8A%9D%E7%83%9F%E5%86%B2%E7%AA%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+深圳公交站劝烟冲突当事人发声（热度：1509986）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8D%96%E5%88%B0%E7%94%B5%E8%AF%88%E5%9B%AD%E5%A5%B3%E7%94%9F%E8%AF%B4%E5%8F%91%E4%BD%8D%E7%BD%AE%E4%BC%9A%E8%A2%AB%E6%89%93%23" target="weibo">
 被卖到电诈园女生说发位置会被打（热度：1494414）
 </a>
@@ -1241,6 +1247,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E5%93%A5%E5%93%A5%E7%9A%84%E5%A6%BB%E5%AD%90%E5%8F%91ins%23" target="weibo">
 金智秀哥哥的妻子发ins（热度：1371754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E7%88%B7%E4%BB%AC%E5%84%BF%E8%A6%81%E8%84%B8%23" target="weibo">
+鹿晗 爷们儿要脸（热度：1363238）
 </a>
 </li>
 
@@ -1635,6 +1647,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E5%8F%98%E8%83%96%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%BB%89%E4%BB%B7%E4%BA%86%23" target="weibo">
+发现变胖真的太廉价了（热度：1201093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E8%AF%B7%E9%87%8F%E4%BA%A7%E5%90%A7%23" target="weibo">
 义乌请量产吧（热度：1199153）
 </a>
@@ -1995,6 +2013,12 @@ jisoo的哥哥已婚（热度：1121209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BB%8518%E6%96%A4%E8%A2%AB%E5%BD%93%E8%84%91%E7%98%AB%E6%B2%BB7%E5%B9%B4%23" target="weibo">
+7岁男童仅18斤被当脑瘫治7年（热度：1068699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%9D%E6%96%87%E5%BD%93%E5%A6%88%23" target="weibo">
 思文当妈（热度：1065912）
 </a>
@@ -2327,6 +2351,12 @@ Gucci别试探了（热度：985542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E5%90%AC%E5%8A%9D%E5%9B%9E%E5%8E%BB%E6%8B%8D%E6%88%8F%E4%BA%86%23" target="weibo">
 温峥嵘听劝回去拍戏了（热度：967916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23KSG%E6%AD%A2%E6%AD%A532%E5%BC%BA%23" target="weibo">
+KSG止步32强（热度：965159）
 </a>
 </li>
 
@@ -5984,36 +6014,6 @@ she合体爬山了（热度：550394）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E5%8D%87%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC4%23" target="weibo">
-哪吒2票房升至全球第4（热度：536983）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%93%89%E6%99%92%E7%83%AB%E4%BC%A4%E5%90%8E%E7%96%A4%E7%97%95%E6%81%A2%E5%A4%8D%E7%85%A7%23" target="weibo">
-杨蓉晒烫伤后疤痕恢复照（热度：536795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%20%E6%80%A7%E6%A0%BC%E8%80%BF%E7%9B%B4%E5%8F%88%E8%A7%81%E4%B8%8D%E5%BE%97%E7%BE%8E%E4%BA%BA%E5%84%BF%E8%90%BD%E6%B3%AA%23" target="weibo">
-王濛 性格耿直又见不得美人儿落泪（热度：536171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%B7%B3%E4%BC%9E%23" target="weibo">
-王橹杰跳伞（热度：535761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B0%8F%E5%AD%A6%E5%B0%B1%E5%83%8F%E5%B7%A8%E4%BA%BA%23" target="weibo">
-张凌赫小学就像巨人（热度：535618）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6467,6 +6467,12 @@ she合体爬山了（热度：550394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%84%9F%E6%82%9F%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%23%23" target="weibo">
 #跟着总书记感悟正确政绩观#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%80%9A%E4%BC%A6%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平同通伦互致贺电#
 </a>
 </li>
 
