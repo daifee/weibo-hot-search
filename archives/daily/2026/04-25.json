@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777114812835,
+  "endTime": 1777115543483,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1187081,
-      "num": 1189933,
+      "num": 1198662,
       "word": "7岁男童仅18斤被当脑瘫治7年",
       "onboard_time": 1777099341,
       "rank": 11,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1182446,
-      "num": 839689,
+      "num": 934668,
       "word": "五一原来是放假七天的",
       "onboard_time": 1777106840,
       "rank": 18,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552754,
+      "num": 432387,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550394,
       "num": 337563,
       "word": "she合体爬山了",
@@ -449,14 +457,6 @@
       "onboard_time": 1777091479,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 432387,
-      "num": 432387,
-      "word": "杨威两女儿勇夺全国冠军和季军",
-      "onboard_time": 1777104079,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 429014,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367431,
+      "num": 321014,
+      "word": "李艺彤 气死我了",
+      "onboard_time": 1777114640,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357391,
       "num": 207152,
       "word": "来杯姬尾酒",
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308651,
+      "num": 308651,
+      "word": "时代少年团二开抢票",
+      "onboard_time": 1777115241,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308291,
       "num": 203936,
       "word": "安崎李心洁 神级舞台",
@@ -721,6 +737,14 @@
       "onboard_time": 1777089081,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282941,
+      "num": 337765,
+      "word": "张雪机车香港爆单遭同行诋毁",
+      "onboard_time": 1777113020,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279300,
@@ -779,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262208,
+      "num": 262208,
+      "word": "杨紫在片场跳了误闯天家",
+      "onboard_time": 1777114341,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260483,
       "num": 260483,
       "word": "恋与深空",
@@ -811,28 +843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255330,
-      "num": 431422,
-      "word": "不对任何cp付出真情实感算长大吗",
-      "onboard_time": 1777058174,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 249440,
-      "num": 249440,
+      "raw_hot": 255357,
+      "num": 255357,
       "word": "陈都灵鞠婧祎黑粉手写道歉信",
       "onboard_time": 1777111459,
       "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 248584,
-      "num": 248584,
-      "word": "杨紫在片场跳了误闯天家",
-      "onboard_time": 1777114341,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 255330,
+      "num": 431422,
+      "word": "不对任何cp付出真情实感算长大吗",
+      "onboard_time": 1777058174,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 247987,
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 225038,
-      "num": 181654,
+      "num": 189617,
       "word": "杜江回应霍思燕的蒙古獒又夺冠了",
       "onboard_time": 1777113860,
       "rank": 29,
@@ -937,6 +961,14 @@
       "onboard_time": 1777087101,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221388,
+      "num": 318311,
+      "word": "DeepSeekV4 尺度",
+      "onboard_time": 1777114399,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 217754,
@@ -961,14 +993,6 @@
       "onboard_time": 1777028241,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214004,
-      "num": 249775,
-      "word": "张雪机车香港爆单遭同行诋毁",
-      "onboard_time": 1777113020,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210769,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1777108759,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198440,
+      "num": 280926,
+      "word": "被减肥背刺了",
+      "onboard_time": 1777112420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 198364,
@@ -1091,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185332,
+      "num": 185332,
+      "word": "王橹杰说有几天匮乏期",
+      "onboard_time": 1777115359,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185024,
       "num": 166634,
       "word": "毛晓彤回应去医美诊所",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1777098619,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 169775,
+      "num": 255662,
+      "word": "大喊不用结账的摊主爆单了",
+      "onboard_time": 1777113020,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168875,
@@ -1267,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158206,
-      "num": 181718,
-      "word": "大喊不用结账的摊主爆单了",
-      "onboard_time": 1777113020,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157514,
       "num": 157514,
       "word": "谭松韵录制的是向往的秦岚",
@@ -1339,14 +1379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144321,
-      "num": 144321,
-      "word": "DeepSeekV4 尺度",
-      "onboard_time": 1777114399,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144134,
       "num": 176738,
       "word": "专家判定7岁男孩出生就遭受颅骨骨折",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1777087699,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143698,
-      "num": 143698,
-      "word": "李艺彤 气死我了",
-      "onboard_time": 1777114640,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 143252,
@@ -1403,20 +1427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138827,
-      "num": 138827,
-      "word": "被减肥背刺了",
-      "onboard_time": 1777112420,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138789,
       "num": 138789,
       "word": "多方回应深圳公交站劝烟冲突",
       "onboard_time": 1777102099,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138745,
+      "num": 138745,
+      "word": "剑来第二季大结局",
+      "onboard_time": 1777114579,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 138394,
@@ -1627,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118120,
-      "num": 118120,
-      "word": "剑来第二季大结局",
-      "onboard_time": 1777114579,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117597,
       "num": 267971,
       "word": "大众9X智能辅助驾驶跻身第一梯队",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1777035082,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84009,
+      "num": 255438,
+      "word": "街头偶遇时团大屏夯爆了",
+      "onboard_time": 1777114819,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 82821,
@@ -1963,6 +1987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46497,
+      "num": 324299,
+      "word": "中国超70%石油靠进口却不慌",
+      "onboard_time": 1777114640,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44860,
       "num": 283682,
       "word": "官方核查商家教唆游客喂怀孕母猴酒",
@@ -2059,19 +2091,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24615,
+      "num": 1145354,
+      "word": "铁路部门将开行179趟旅游列车",
+      "onboard_time": 1777100000,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23383,
       "num": 268354,
       "word": "俄外长称西方国家已对俄公开宣战",
       "onboard_time": 1777096879,
       "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22356,
-      "num": 145413,
-      "word": "中国超70%石油靠进口却不慌",
-      "onboard_time": 1777114640,
-      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -2091,20 +2123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16813,
-      "num": 183223,
+      "raw_hot": 16889,
+      "num": 253202,
       "word": "揭晓周云杰说的好空气带回家的答案",
       "onboard_time": 1777113621,
       "rank": 27,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11015,
-      "num": 868544,
-      "word": "铁路部门将开行179趟旅游列车",
-      "onboard_time": 1777100000,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 2840,
+      "num": 326086,
+      "word": "王毅一个细节打动现场媒体人",
+      "onboard_time": 1777114819,
+      "rank": 17,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

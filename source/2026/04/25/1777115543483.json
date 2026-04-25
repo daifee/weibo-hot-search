@@ -1,0 +1,410 @@
+{
+  "runTime": 1777115543483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1216549,
+        "num": 1216549,
+        "word": "花呗白条月付等面临重大调整",
+        "onboard_time": 1777107080,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 662183,
+        "num": 1198662,
+        "word": "7岁男童仅18斤被当脑瘫治7年",
+        "onboard_time": 1777099341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24615,
+        "num": 1145354,
+        "word": "铁路部门将开行179趟旅游列车",
+        "onboard_time": 1777100000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673463,
+        "num": 1036652,
+        "word": "第一次对AI感到恐惧",
+        "onboard_time": 1777091602,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1366777,
+        "num": 948005,
+        "word": "异父异母但双胞胎",
+        "onboard_time": 1777104439,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 934668,
+        "num": 934668,
+        "word": "五一原来是放假七天的",
+        "onboard_time": 1777106840,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 683625,
+        "num": 683625,
+        "word": "瘦人无法理解的吃饭习惯",
+        "onboard_time": 1777106179,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353818,
+        "num": 353818,
+        "word": "美国富豪遭5头大象踩踏身亡",
+        "onboard_time": 1777106540,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 338328,
+        "num": 338328,
+        "word": "发现变胖真的太廉价了",
+        "onboard_time": 1777097060,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282941,
+        "num": 337765,
+        "word": "张雪机车香港爆单遭同行诋毁",
+        "onboard_time": 1777113020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2181662,
+        "num": 336729,
+        "word": "李昀锐连孟子义名字都不提",
+        "onboard_time": 1777110500,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593697,
+        "num": 334978,
+        "word": "何宣林浪姐上班哭了",
+        "onboard_time": 1777107979,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552754,
+        "num": 333750,
+        "word": "杨威两女儿勇夺全国冠军和季军",
+        "onboard_time": 1777104079,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527844,
+        "num": 332736,
+        "word": "老舅在五哈镜头前道歉",
+        "onboard_time": 1777104860,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513331,
+        "num": 330584,
+        "word": "萧蔷 节目组最严厉的母亲",
+        "onboard_time": 1777111639,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498024,
+        "num": 329495,
+        "word": "三手烟",
+        "onboard_time": 1777103959,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012628,
+        "num": 328419,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2840,
+        "num": 326086,
+        "word": "王毅一个细节打动现场媒体人",
+        "onboard_time": 1777114819,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403087,
+        "num": 325497,
+        "word": "花少导演在约张凌赫田曦薇",
+        "onboard_time": 1777102280,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46497,
+        "num": 324299,
+        "word": "中国超70%石油靠进口却不慌",
+        "onboard_time": 1777114640,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 433077,
+        "num": 322496,
+        "word": "这段话反复杀死了我的懒惰",
+        "onboard_time": 1777104619,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367431,
+        "num": 321014,
+        "word": "李艺彤 气死我了",
+        "onboard_time": 1777114640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356588,
+        "num": 319981,
+        "word": "鹿晗 爷们儿要脸",
+        "onboard_time": 1777099638,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221388,
+        "num": 318311,
+        "word": "DeepSeekV4 尺度",
+        "onboard_time": 1777114399,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 317590,
+        "num": 317590,
+        "word": "陶昕然发长文回应淘汰",
+        "onboard_time": 1777105640,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308651,
+        "num": 308651,
+        "word": "时代少年团二开抢票",
+        "onboard_time": 1777115241,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198440,
+        "num": 280926,
+        "word": "被减肥背刺了",
+        "onboard_time": 1777112420,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262208,
+        "num": 262208,
+        "word": "杨紫在片场跳了误闯天家",
+        "onboard_time": 1777114341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257384,
+        "num": 257384,
+        "word": "娜扎前经纪人回应离职",
+        "onboard_time": 1777107200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169775,
+        "num": 255662,
+        "word": "大喊不用结账的摊主爆单了",
+        "onboard_time": 1777113020,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84009,
+        "num": 255438,
+        "word": "街头偶遇时团大屏夯爆了",
+        "onboard_time": 1777114819,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255357,
+        "num": 255357,
+        "word": "陈都灵鞠婧祎黑粉手写道歉信",
+        "onboard_time": 1777111459,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16889,
+        "num": 253202,
+        "word": "揭晓周云杰说的好空气带回家的答案",
+        "onboard_time": 1777113621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251340,
+        "num": 251340,
+        "word": "王濛隔空喊话黎明",
+        "onboard_time": 1777103599,
+        "rank": 33,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 244775,
+        "num": 244775,
+        "word": "马嘉祺模仿emoji",
+        "onboard_time": 1777111520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180828,
+        "num": 215891,
+        "word": "KSG止步32强",
+        "onboard_time": 1777100539,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189617,
+        "num": 189617,
+        "word": "杜江回应霍思燕的蒙古獒又夺冠了",
+        "onboard_time": 1777113860,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185332,
+        "num": 185332,
+        "word": "王橹杰说有几天匮乏期",
+        "onboard_time": 1777115359,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149946,
+        "num": 149946,
+        "word": "过了25就不敢甩头了",
+        "onboard_time": 1777101139,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161759,
+        "num": 149903,
+        "word": "白鹿秒出图",
+        "onboard_time": 1777111580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158461,
+        "num": 148588,
+        "word": "谢娜感谢陶昕然能来乘风",
+        "onboard_time": 1777108759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147067,
+        "num": 147067,
+        "word": "为什么很少听到工作狂这个标签了",
+        "onboard_time": 1777102159,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138745,
+        "num": 138745,
+        "word": "剑来第二季大结局",
+        "onboard_time": 1777114579,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 129794,
+        "word": "LingOrm好甜",
+        "onboard_time": 1777114341,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151398,
+        "num": 129533,
+        "word": "范丞丞踩到白鹿裙子",
+        "onboard_time": 1777107021,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 129089,
+        "word": "2名女子地铁打架被行拘",
+        "onboard_time": 1777109481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "警方称黄金被扣30年赔偿已过时效",
+        "onboard_time": 1777099520,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122281,
+        "num": 122281,
+        "word": "iPhone18ProMax厚度近14mm",
+        "onboard_time": 1777098740,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115996,
+        "num": 115996,
+        "word": "曝穆祉丞确认将进组十日终焉",
+        "onboard_time": 1777094780,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114758,
+        "num": 114758,
+        "word": "鹿晗五哈工伤",
+        "onboard_time": 1777107920,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同通伦互致贺电#"
+    }
+  }
+}
