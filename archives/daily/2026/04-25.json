@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777123224233,
+  "endTime": 1777124718802,
   "band_list": [
     {
       "raw_hot": 19818554,
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2288704,
+      "num": 1660890,
+      "word": "阚清子老公是她的榜一大哥",
+      "onboard_time": 1777123644,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2282724,
       "num": 1545721,
       "word": "李昀锐连孟子义名字都不提",
       "onboard_time": 1777110500,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2268915,
+      "num": 2268915,
+      "word": "篇章好听",
+      "onboard_time": 1777122563,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2254504,
@@ -91,11 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1550179,
+      "raw_hot": 1551956,
       "num": 2162349,
       "word": "达拉崩吧",
       "onboard_time": 1777119561,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1526524,
+      "num": 546658,
+      "word": "曾沛慈一直在修音响",
+      "onboard_time": 1777122684,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -177,14 +201,6 @@
       "onboard_time": 1777046780,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1204289,
-      "num": 558671,
-      "word": "篇章好听",
-      "onboard_time": 1777122563,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1201093,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832545,
+      "num": 508184,
+      "word": "王濛团921票",
+      "onboard_time": 1777124604,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827097,
       "num": 548164,
       "word": "王濛永远被甜妹拿捏",
@@ -361,6 +385,14 @@
       "onboard_time": 1777082779,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 717752,
+      "num": 717752,
+      "word": "东方甄选明明离职原因",
+      "onboard_time": 1777121544,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 711978,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569585,
-      "num": 569585,
-      "word": "东方甄选明明离职原因",
-      "onboard_time": 1777121544,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 566986,
       "num": 510843,
       "word": "李小冉 达拉崩吧比心愿便利贴简单",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 542833,
-      "num": 362665,
+      "num": 393232,
       "word": "这段话反复杀死了我的懒惰",
       "onboard_time": 1777104619,
       "rank": 20,
@@ -539,11 +563,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 498578,
-      "num": 498578,
-      "word": "曾沛慈一直在修音响",
-      "onboard_time": 1777122684,
-      "rank": 23,
+      "raw_hot": 492284,
+      "num": 387808,
+      "word": "张月团887票",
+      "onboard_time": 1777123044,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -659,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393356,
-      "num": 382855,
-      "word": "张月团887票",
-      "onboard_time": 1777123044,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 403579,
+      "num": 562414,
+      "word": "苏超",
+      "onboard_time": 1777116561,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 390504,
@@ -761,6 +785,14 @@
       "onboard_time": 1777033342,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 349715,
+      "num": 305005,
+      "word": "徐洁儿可以去歌手了",
+      "onboard_time": 1777124543,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 349123,
@@ -963,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 271005,
+      "num": 245013,
+      "word": "尚公主",
+      "onboard_time": 1777121604,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267607,
       "num": 283954,
       "word": "12306回应深圳高铁站台吸烟情况",
@@ -1051,28 +1091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254721,
-      "num": 245013,
-      "word": "尚公主",
-      "onboard_time": 1777121604,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247987,
       "num": 247987,
       "word": "翁虹回应女儿被称最美星二代",
       "onboard_time": 1777089440,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247946,
-      "num": 562414,
-      "word": "苏超",
-      "onboard_time": 1777116561,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 240889,
@@ -1323,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "秦昊马𬱖孙丞潇都在点孙杨了",
+      "onboard_time": 1777118901,
+      "rank": 41,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 186188,
       "num": 186188,
       "word": "张杰工作室文案",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1777111580,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183982,
+      "num": 183982,
+      "word": "程潇完全花仙子",
+      "onboard_time": 1777119801,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 179422,
@@ -1547,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154902,
+      "num": 154902,
+      "word": "中方将采取必要措施",
+      "onboard_time": 1777123765,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153728,
       "num": 153728,
       "word": "昀牵孟绕时间线",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1777094299,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145193,
+      "num": 191829,
+      "word": "美国对伊朗实施最大程度经济封锁",
+      "onboard_time": 1777118481,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145089,
@@ -1633,6 +1689,14 @@
       "onboard_time": 1777019239,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142579,
+      "num": 205718,
+      "word": "西安一职校学生被同学一刀捅进ICU",
+      "onboard_time": 1777122684,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138981,
@@ -1843,14 +1907,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119162,
-      "num": 205718,
-      "word": "西安一职校学生被同学一刀捅进ICU",
-      "onboard_time": 1777122684,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119028,
       "num": 119028,
       "word": "唐艺昕想念心愿便利贴了",
@@ -1864,14 +1920,6 @@
       "word": "3国回应马六甲海峡收费",
       "onboard_time": 1777111699,
       "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 118784,
-      "num": 191829,
-      "word": "美国对伊朗实施最大程度经济封锁",
-      "onboard_time": 1777118481,
-      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -1939,12 +1987,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108167,
+      "num": 177986,
+      "word": "站台灭烟争执双方互不追究责任",
+      "onboard_time": 1777123224,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 106797,
       "num": 229517,
       "word": "启境GT7如何定义安全感",
       "onboard_time": 1777105640,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102917,
+      "num": 135896,
+      "word": "AL对战WBG",
+      "onboard_time": 1777124306,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101686,
@@ -2171,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58373,
+      "num": 486397,
+      "word": "伊能静易立竞都选奕境",
+      "onboard_time": 1777122264,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58329,
       "num": 175966,
       "word": "梅毒并非只通过性传播",
@@ -2219,20 +2291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49334,
+      "num": 1761760,
+      "word": "新业态新赛道催生新职业新岗位",
+      "onboard_time": 1777122744,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48942,
       "num": 1134293,
       "word": "好客山东燃情淄博",
       "onboard_time": 1777083979,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48361,
-      "num": 218289,
-      "word": "伊能静易立竞都选奕境",
-      "onboard_time": 1777122264,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 47902,
@@ -2355,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26673,
+      "num": 418517,
+      "word": "苏超最硬核助威",
+      "onboard_time": 1777124664,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26672,
       "num": 526300,
       "word": "律师回应15岁女生被杀亲属放弃赔偿",
@@ -2377,14 +2457,6 @@
       "onboard_time": 1777096879,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21733,
-      "num": 1761760,
-      "word": "新业态新赛道催生新职业新岗位",
-      "onboard_time": 1777122744,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17692,
@@ -2444,6 +2516,9 @@
     },
     {
       "word": "#习近平同通伦互致贺电#"
+    },
+    {
+      "word": "#习近平同内韦斯互致贺电#"
     }
   ]
 }

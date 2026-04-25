@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777123224233,
+  "endTime": 1777124718802,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2155,6 +2155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2288704,
+      "num": 1660890,
+      "word": "阚清子老公是她的榜一大哥",
+      "onboard_time": 1777123644,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2285482,
       "num": 2285482,
       "word": "马年纪念币预约",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1774102164,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2268915,
+      "num": 2268915,
+      "word": "篇章好听",
+      "onboard_time": 1777122563,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2264804,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1769695164,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2188912,
-      "num": 961607,
-      "word": "千问 免费奶茶",
-      "onboard_time": 1770344239,
-      "rank": 4,
-      "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 2187136,
-      "num": 556002,
-      "word": "爱泼斯坦",
-      "onboard_time": 1769866882,
-      "rank": 27,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
