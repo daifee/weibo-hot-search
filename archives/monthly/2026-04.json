@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777145198056,
+  "endTime": 1777147366494,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -60907,6 +60907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 32775,
+      "num": 191767,
+      "word": "不再依赖算长大吗",
+      "onboard_time": 1777145175,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32732,
       "num": 263493,
       "word": "老师回应低血糖晕倒前被学生托住",
@@ -61977,6 +61985,14 @@
       "onboard_time": 1776362715,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26722,
+      "num": 103632,
+      "word": "2026PEL春季赛",
+      "onboard_time": 1777143315,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 26708,
@@ -63073,14 +63089,6 @@
       "onboard_time": 1775374341,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21343,
-      "num": 191767,
-      "word": "不再依赖算长大吗",
-      "onboard_time": 1777145175,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 21322,
