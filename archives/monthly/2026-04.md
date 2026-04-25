@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 11:40:24
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 13:22:14
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7%23" target="weibo">
+第一次对AI感到恐惧（热度：3436604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%95%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
 何超蕸去世（热度：3389918）
 </a>
@@ -329,6 +335,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E7%B4%A2%E8%B5%9417w%E8%B4%A5%E8%AF%89%23" target="weibo">
 虞书欣父亲索赔17w败诉（热度：2487846）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83%E6%8B%86cp%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+孟子义李昀锐下定决心拆cp的原因（热度：2478979）
 </a>
 </li>
 
@@ -2799,6 +2811,12 @@ TEN李永钦不续约（热度：868167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E9%AA%84%E5%82%B2%E6%8B%92%E6%92%95%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
+陶昕然骄傲拒撕节目组（热度：867194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E5%AE%BF%E6%95%8Ccp%23" target="weibo">
 麦当劳肯德基 宿敌cp（热度：864916）
 </a>
@@ -3969,12 +3987,6 @@ AG对战狼队（热度：709734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E9%AA%84%E5%82%B2%E6%8B%92%E6%92%95%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
-陶昕然骄傲拒撕节目组（热度：698918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%BD%99%E6%9F%90%E7%BD%9A%E6%B2%A110%E4%BA%BF%E4%BD%99%E5%85%83%23" target="weibo">
 对余某罚没10亿余元（热度：698428）
 </a>
@@ -4767,6 +4779,12 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%AF%AF%E9%97%AF%E5%A4%A9%E5%AE%B6%23" target="weibo">
+第一次见外国人误闯天家（热度：622175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%20%E6%B1%AA%E4%B8%9C%E5%9F%8E%23" target="weibo">
 曾沛慈 汪东城（热度：622079）
 </a>
@@ -5553,6 +5571,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%9B%9E%E5%BA%94%E9%87%8D%E6%96%B0%E5%88%86%E8%AF%8D%23" target="weibo">
+唐艺昕回应重新分词（热度：561627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%20%E8%B5%B5%E5%AD%90%E7%90%AA%E6%B7%98%E6%B1%B0%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 孙怡 赵子琪淘汰发布会（热度：561005）
 </a>
@@ -5987,30 +6011,6 @@ she合体爬山了（热度：550394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BA%8B%E7%BC%93%E5%88%99%E5%9C%86%E5%8F%AF%E8%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 突然发现事缓则圆可能是真的（热度：533722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%AF%95%E9%9B%AF%E7%8F%BA%E5%90%88%E4%BC%99%E4%BA%BA%E9%9B%B6%E4%BA%92%E5%8A%A8%23" target="weibo">
-张予曦毕雯珺合伙人零互动（热度：533548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E4%BA%BA%E5%90%88%E4%BC%99%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87%E5%90%8E%E8%B5%B7%E7%BA%A0%E7%BA%B7%23" target="weibo">
-4人合伙买彩票中500万后起纠纷（热度：533338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%8E%B0%E8%BA%AB%E5%AE%BF%E8%BF%81%E5%A5%A5%E4%BD%93%23" target="weibo">
-何润东现身宿迁奥体（热度：532504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%E7%9B%B4%E6%92%AD%23" target="weibo">
-月鳞绮纪直播（热度：532348）
 </a>
 </li>
 

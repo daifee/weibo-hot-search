@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 11:40:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 13:22:14
 </p>
 </blockquote>
 <p>
@@ -945,6 +945,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7%23" target="weibo">
+第一次对AI感到恐惧（热度：3436604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 微博之夜阵容官宣（热度：3419891）
 </a>
@@ -1407,6 +1413,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83%E6%8B%86cp%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+孟子义李昀锐下定决心拆cp的原因（热度：2478979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97%23" target="weibo">
 美国 伊朗（热度：2474878）
 </a>
@@ -1799,18 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%80%92%E6%96%A5%E6%B7%B1%E5%9C%B3%E8%BF%9D%E8%A7%84%E7%A7%81%E8%BD%AC%E6%82%A3%E8%80%85%E6%95%91%E6%8A%A4%E8%BD%A6%23" target="weibo">
 姚晨怒斥深圳违规私转患者救护车（热度：2166256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E4%B8%AD%E9%AB%98%E8%80%83%E6%98%AF%E6%97%A9%E6%99%9A%E7%9A%84%E4%BA%8B%23" target="weibo">
-取消中高考是早晚的事（热度：2152986）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E7%A5%96%20%E8%80%80%E7%A5%96%23" target="weibo">
-妈祖 耀祖（热度：2143745）
 </a>
 </li>
 

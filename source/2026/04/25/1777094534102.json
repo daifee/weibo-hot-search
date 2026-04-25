@@ -1,0 +1,410 @@
+{
+  "runTime": 1777094534102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 751760,
+        "num": 1167575,
+        "word": "韩国新恋综太炸裂了",
+        "onboard_time": 1777079299,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445300,
+        "num": 823623,
+        "word": "詹姆斯三分",
+        "onboard_time": 1777085601,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58685,
+        "num": 661868,
+        "word": "利用AI编造四川泸州楼房倒塌者被罚",
+        "onboard_time": 1777091000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3436604,
+        "num": 659639,
+        "word": "第一次对AI感到恐惧",
+        "onboard_time": 1777091602,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1145527,
+        "num": 653844,
+        "word": "何宣林道歉",
+        "onboard_time": 1777081579,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622175,
+        "num": 622175,
+        "word": "第一次见外国人误闯天家",
+        "onboard_time": 1777086621,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 867194,
+        "num": 564136,
+        "word": "陶昕然骄傲拒撕节目组",
+        "onboard_time": 1777086259,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505079,
+        "num": 505079,
+        "word": "恋与深空起诉派克特胜诉",
+        "onboard_time": 1777086859,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444726,
+        "num": 444726,
+        "word": "37岁男子4年虐杀超1500只猫",
+        "onboard_time": 1777086020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377481,
+        "num": 377481,
+        "word": "东方甄选 明明天权离职",
+        "onboard_time": 1777073958,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2478979,
+        "num": 370124,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672464,
+        "num": 360214,
+        "word": "霍思燕的蒙古獒又夺冠了",
+        "onboard_time": 1777084159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339565,
+        "num": 339565,
+        "word": "网友在daiso买了个小狗不会用的东西",
+        "onboard_time": 1777092439,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561627,
+        "num": 337878,
+        "word": "唐艺昕回应重新分词",
+        "onboard_time": 1777091000,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505319,
+        "num": 337563,
+        "word": "she合体爬山了",
+        "onboard_time": 1777080859,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336158,
+        "num": 336158,
+        "word": "KSG对战TTG",
+        "onboard_time": 1777091602,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435340,
+        "num": 334535,
+        "word": "妈妈怀疑瑶一瑶有多动症",
+        "onboard_time": 1777089319,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295906,
+        "num": 295906,
+        "word": "湖人G3加时战胜火箭",
+        "onboard_time": 1777089081,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265461,
+        "num": 295811,
+        "word": "金价跌至近期新低",
+        "onboard_time": 1777090100,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440898,
+        "num": 295758,
+        "word": "15岁女生被同学杀害亲属放弃所有赔偿",
+        "onboard_time": 1777091479,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477259,
+        "num": 295568,
+        "word": "唐艺昕离开李小冉后成了李小冉",
+        "onboard_time": 1777085420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419009,
+        "num": 295427,
+        "word": "老人被83岁男室友打到大小便失禁",
+        "onboard_time": 1777077860,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338640,
+        "num": 295249,
+        "word": "男孩咽喉竟有双胞胎兄弟残留",
+        "onboard_time": 1777085601,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70421,
+        "num": 295118,
+        "word": "医生将2粒药打成21粒患者已谅解",
+        "onboard_time": 1777094299,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56847,
+        "num": 294928,
+        "word": "华莱士是汉堡界的谷子店",
+        "onboard_time": 1777093520,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297809,
+        "num": 294810,
+        "word": "迪丽热巴腿部肌肉线条",
+        "onboard_time": 1777092800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143967,
+        "num": 294718,
+        "word": "美国为何害怕中国大蒜",
+        "onboard_time": 1777087699,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52739,
+        "num": 294455,
+        "word": "华为乾崑开启内外双融合感知时代",
+        "onboard_time": 1777093520,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171336,
+        "num": 294392,
+        "word": "大连8岁男孩疑发现金矿后续",
+        "onboard_time": 1777092380,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112406,
+        "num": 294171,
+        "word": "成都双流一居民区火灾致5死2伤",
+        "onboard_time": 1777088899,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 294152,
+        "num": 294152,
+        "word": "佳偶天成开播",
+        "onboard_time": 1777082779,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267607,
+        "num": 283954,
+        "word": "12306回应深圳高铁站台吸烟情况",
+        "onboard_time": 1777091300,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279244,
+        "num": 279244,
+        "word": "余茵拍上部戏体重才60多斤",
+        "onboard_time": 1777088600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217754,
+        "num": 260414,
+        "word": "斯玛特回应詹姆斯绝平三分",
+        "onboard_time": 1777091360,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95781,
+        "num": 256616,
+        "word": "央视曝留学生改分骗局",
+        "onboard_time": 1777093100,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254251,
+        "num": 254251,
+        "word": "孔刘金高银李栋旭聚餐",
+        "onboard_time": 1777087101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228009,
+        "num": 228009,
+        "word": "女子误饮毒饮死亡酒吧赔偿123万元",
+        "onboard_time": 1777090640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214022,
+        "num": 226470,
+        "word": "湖人vs火箭",
+        "onboard_time": 1777077860,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226371,
+        "num": 226371,
+        "word": "翁虹回应女儿被称最美星二代",
+        "onboard_time": 1777089440,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 224941,
+        "word": "三佛塔电诈园区航拍曝光",
+        "onboard_time": 1777094299,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224740,
+        "num": 224740,
+        "word": "孙丞潇 人永远不知道谁会旺你",
+        "onboard_time": 1777093100,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176516,
+        "num": 176516,
+        "word": "詹姆斯一攻一防自我救赎",
+        "onboard_time": 1777086859,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174951,
+        "num": 174951,
+        "word": "央视频发了张凌赫田曦薇",
+        "onboard_time": 1777086080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74193,
+        "num": 171865,
+        "word": "心愿便利贴不养闲人",
+        "onboard_time": 1777088899,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170220,
+        "num": 170220,
+        "word": "湖人回应詹姆斯三分",
+        "onboard_time": 1777093280,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143188,
+        "num": 168877,
+        "word": "王安宇姚安娜大阔折大片太阔了",
+        "onboard_time": 1777089922,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168633,
+        "num": 168633,
+        "word": "减肥要先从原谅自己开始",
+        "onboard_time": 1777092260,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121473,
+        "num": 166058,
+        "word": "白宫发言人称要去生宝宝了",
+        "onboard_time": 1777091360,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100521,
+        "num": 165390,
+        "word": "运动会上机器人突然抱住女生",
+        "onboard_time": 1777076538,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95855,
+        "num": 164916,
+        "word": "iPhoneUltra机模上手",
+        "onboard_time": 1777087999,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟正确政绩观#"
+    }
+  }
+}
