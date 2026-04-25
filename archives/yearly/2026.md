@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 13:22:14
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 14:06:48
 </p>
 </blockquote>
 <p>
@@ -1683,6 +1683,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%97%A0%E6%9D%83%E5%BC%BA%E8%A1%8C%E9%98%BB%E6%AD%A2%E4%BB%96%E4%BA%BA%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E5%90%B8%E7%83%9F%23" target="weibo">
+路人无权强行阻止他人公共场所吸烟（热度：2254504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
 交警否认网传金晨驾车监控信息（热度：2232636）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E6%9E%97%E5%9B%9B%E4%BE%A0%E5%BD%BB%E5%BA%95be%E4%BA%86%23" target="weibo">
 竹林四侠彻底be了（热度：2167253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%80%92%E6%96%A5%E6%B7%B1%E5%9C%B3%E8%BF%9D%E8%A7%84%E7%A7%81%E8%BD%AC%E6%82%A3%E8%80%85%E6%95%91%E6%8A%A4%E8%BD%A6%23" target="weibo">
-姚晨怒斥深圳违规私转患者救护车（热度：2166256）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777094534102,
+  "endTime": 1777097208567,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3436604,
-      "num": 659639,
+      "num": 921472,
       "word": "第一次对AI感到恐惧",
       "onboard_time": 1777091602,
       "rank": 3,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 2478979,
-      "num": 370124,
+      "num": 396602,
       "word": "孟子义李昀锐下定决心拆cp的原因",
       "onboard_time": 1777091180,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2254504,
+      "num": 2254504,
+      "word": "路人无权强行阻止他人公共场所吸烟",
+      "onboard_time": 1777095139,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2147508,
@@ -91,12 +99,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1184631,
+      "num": 915463,
+      "word": "华晨宇 抚仙湖",
+      "onboard_time": 1777095499,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 961113,
       "num": 656273,
       "word": "看完孙杨直接内伤失眠了",
       "onboard_time": 1777073837,
       "rank": 3,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 960608,
+      "num": 992167,
+      "word": "警方回应女子公交站阻止男子抽烟引冲突",
+      "onboard_time": 1777096580,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941497,
@@ -147,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 691627,
+      "num": 416906,
+      "word": "霍思燕的蒙古獒又夺冠了",
+      "onboard_time": 1777084159,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685785,
       "num": 478947,
       "word": "鹿晗 红包",
@@ -163,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 676121,
-      "num": 416906,
-      "word": "霍思燕的蒙古獒又夺冠了",
-      "onboard_time": 1777084159,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622175,
       "num": 622175,
       "word": "第一次见外国人误闯天家",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 561627,
-      "num": 337878,
+      "num": 386691,
       "word": "唐艺昕回应重新分词",
       "onboard_time": 1777091000,
       "rank": 13,
@@ -217,6 +241,22 @@
       "onboard_time": 1777085420,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501180,
+      "num": 501180,
+      "word": "网友在daiso买了个小狗不会用的东西",
+      "onboard_time": 1777092439,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 475062,
+      "num": 390676,
+      "word": "妈妈怀疑瑶一瑶有多动症",
+      "onboard_time": 1777089319,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 466414,
@@ -259,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435340,
-      "num": 334535,
-      "word": "妈妈怀疑瑶一瑶有多动症",
-      "onboard_time": 1777089319,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 415886,
       "num": 415886,
       "word": "华晨宇演唱会当地民众发声",
@@ -289,6 +321,14 @@
       "onboard_time": 1777039342,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390504,
+      "num": 306410,
+      "word": "曝穆祉丞确认将进组十日终焉",
+      "onboard_time": 1777094780,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 387956,
@@ -363,14 +403,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 339565,
-      "num": 339565,
-      "word": "网友在daiso买了个小狗不会用的东西",
-      "onboard_time": 1777092439,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 338640,
       "num": 295249,
       "word": "男孩咽喉竟有双胞胎兄弟残留",
@@ -385,6 +417,22 @@
       "onboard_time": 1777091602,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 332261,
+      "num": 294810,
+      "word": "迪丽热巴腿部肌肉线条",
+      "onboard_time": 1777092800,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328379,
+      "num": 258715,
+      "word": "TXT观看苏新皓翻跳GGUM",
+      "onboard_time": 1777096221,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 326747,
@@ -435,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297809,
-      "num": 294810,
-      "word": "迪丽热巴腿部肌肉线条",
-      "onboard_time": 1777092800,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295906,
       "num": 295906,
       "word": "湖人G3加时战胜火箭",
@@ -467,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271247,
+      "num": 295811,
+      "word": "金价跌至近期新低",
+      "onboard_time": 1777090100,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 267607,
       "num": 283954,
       "word": "12306回应深圳高铁站台吸烟情况",
@@ -481,14 +529,6 @@
       "onboard_time": 1777046900,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265461,
-      "num": 295811,
-      "word": "金价跌至近期新低",
-      "onboard_time": 1777090100,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 260483,
@@ -547,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236752,
+      "num": 236752,
+      "word": "翁虹回应女儿被称最美星二代",
+      "onboard_time": 1777089440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232719,
       "num": 489523,
       "word": "黄仁勋预言的灾难仅9天就成真",
@@ -569,14 +617,6 @@
       "onboard_time": 1777090640,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226371,
-      "num": 226371,
-      "word": "翁虹回应女儿被称最美星二代",
-      "onboard_time": 1777089440,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 226069,
@@ -683,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197155,
+      "num": 224941,
+      "word": "三佛塔电诈园区航拍曝光",
+      "onboard_time": 1777094299,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195462,
       "num": 195462,
       "word": "曝iPhone18配12GB内存",
@@ -705,6 +753,14 @@
       "onboard_time": 1777046961,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189795,
+      "num": 189795,
+      "word": "湖人回应詹姆斯三分",
+      "onboard_time": 1777093280,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 187341,
@@ -763,12 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170220,
-      "num": 170220,
-      "word": "湖人回应詹姆斯三分",
-      "onboard_time": 1777093280,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 168875,
+      "num": 168875,
+      "word": "陶昕然 这样好的阳光我们大看特看",
+      "onboard_time": 1777094240,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 168633,
@@ -787,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165423,
+      "num": 393412,
+      "word": "高铁站对站台吸烟没有强制处罚权",
+      "onboard_time": 1777096700,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164950,
       "num": 204248,
       "word": "日本特高课要还魂了吗",
       "onboard_time": 1777082480,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163950,
+      "num": 163950,
+      "word": "发现变胖真的太廉价了",
+      "onboard_time": 1777097060,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 161027,
@@ -843,6 +915,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153728,
+      "num": 153728,
+      "word": "昀牵孟绕时间线",
+      "onboard_time": 1777095080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "马刺vs开拓者",
+      "onboard_time": 1777095979,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147632,
+      "num": 295118,
+      "word": "医生将2粒药打成21粒患者已谅解",
+      "onboard_time": 1777094299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "湖人八村变八神",
@@ -856,6 +952,14 @@
       "word": "丈夫哽咽回应妻子婚礼前2天苏醒",
       "onboard_time": 1777083080,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144134,
+      "num": 144134,
+      "word": "专家判定7岁男孩出生就遭受颅骨骨折",
+      "onboard_time": 1777094659,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -881,6 +985,14 @@
       "onboard_time": 1777019239,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142928,
+      "num": 142928,
+      "word": "多个国家抛售黄金",
+      "onboard_time": 1777095619,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 138981,
@@ -993,14 +1105,6 @@
       "onboard_time": 1777088899,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 110728,
-      "num": 224941,
-      "word": "三佛塔电诈园区航拍曝光",
-      "onboard_time": 1777094299,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110372,
@@ -1123,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70421,
-      "num": 295118,
-      "word": "医生将2粒药打成21粒患者已谅解",
-      "onboard_time": 1777094299,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67514,
       "num": 176404,
       "word": "陈瑶直拍",
@@ -1153,6 +1249,22 @@
       "onboard_time": 1777081940,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61016,
+      "num": 397436,
+      "word": "伊朗最高领袖或与普京会晤",
+      "onboard_time": 1777096159,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60706,
+      "num": 147905,
+      "word": "肯德基玩具到底谁抢到了啊",
+      "onboard_time": 1777097120,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 60611,
@@ -1209,6 +1321,14 @@
       "onboard_time": 1777064835,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49996,
+      "num": 260597,
+      "word": "消费156.9元餐馆实收157元被立案",
+      "onboard_time": 1777096879,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48942,
@@ -1283,12 +1403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23383,
+      "num": 268354,
+      "word": "俄外长称西方国家已对俄公开宣战",
+      "onboard_time": 1777096879,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17692,
       "num": 968710,
       "word": "开局之年我国经济运行起步有力",
       "onboard_time": 1777041205,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16997,
+      "num": 921747,
+      "word": "遇见不一样的江苏",
+      "onboard_time": 1777083799,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

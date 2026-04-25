@@ -1,0 +1,410 @@
+{
+  "runTime": 1777097208567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2254504,
+        "num": 2254504,
+        "word": "路人无权强行阻止他人公共场所吸烟",
+        "onboard_time": 1777095139,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960608,
+        "num": 992167,
+        "word": "警方回应女子公交站阻止男子抽烟引冲突",
+        "onboard_time": 1777096580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16997,
+        "num": 921747,
+        "word": "遇见不一样的江苏",
+        "onboard_time": 1777083799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2533885,
+        "num": 921472,
+        "word": "第一次对AI感到恐惧",
+        "onboard_time": 1777091602,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1184631,
+        "num": 915463,
+        "word": "华晨宇 抚仙湖",
+        "onboard_time": 1777095499,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 904438,
+        "num": 904438,
+        "word": "何宣林道歉",
+        "onboard_time": 1777081579,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501180,
+        "num": 501180,
+        "word": "网友在daiso买了个小狗不会用的东西",
+        "onboard_time": 1777092439,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496847,
+        "num": 496847,
+        "word": "韩国新恋综太炸裂了",
+        "onboard_time": 1777079299,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398122,
+        "num": 398122,
+        "word": "恋与深空起诉派克特胜诉",
+        "onboard_time": 1777086859,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61016,
+        "num": 397436,
+        "word": "伊朗最高领袖或与普京会晤",
+        "onboard_time": 1777096159,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1761830,
+        "num": 396602,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691627,
+        "num": 395200,
+        "word": "霍思燕的蒙古獒又夺冠了",
+        "onboard_time": 1777084159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 393412,
+        "word": "高铁站对站台吸烟没有强制处罚权",
+        "onboard_time": 1777096700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376126,
+        "num": 393091,
+        "word": "詹姆斯三分",
+        "onboard_time": 1777085601,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561560,
+        "num": 391566,
+        "word": "陶昕然骄傲拒撕节目组",
+        "onboard_time": 1777086259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475062,
+        "num": 390676,
+        "word": "妈妈怀疑瑶一瑶有多动症",
+        "onboard_time": 1777089319,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389721,
+        "num": 389721,
+        "word": "第一次见外国人误闯天家",
+        "onboard_time": 1777086621,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430975,
+        "num": 386691,
+        "word": "唐艺昕回应重新分词",
+        "onboard_time": 1777091000,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312852,
+        "num": 312852,
+        "word": "东方甄选 明明天权离职",
+        "onboard_time": 1777073958,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419699,
+        "num": 310635,
+        "word": "she合体爬山了",
+        "onboard_time": 1777080859,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390504,
+        "num": 306410,
+        "word": "曝穆祉丞确认将进组十日终焉",
+        "onboard_time": 1777094780,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271247,
+        "num": 271247,
+        "word": "金价跌至近期新低",
+        "onboard_time": 1777090100,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345432,
+        "num": 271133,
+        "word": "唐艺昕离开李小冉后成了李小冉",
+        "onboard_time": 1777085420,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332261,
+        "num": 269283,
+        "word": "迪丽热巴腿部肌肉线条",
+        "onboard_time": 1777092800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23383,
+        "num": 268354,
+        "word": "俄外长称西方国家已对俄公开宣战",
+        "onboard_time": 1777096879,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221916,
+        "num": 266844,
+        "word": "湖人G3加时战胜火箭",
+        "onboard_time": 1777089081,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266068,
+        "num": 266068,
+        "word": "男孩咽喉竟有双胞胎兄弟残留",
+        "onboard_time": 1777085601,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49996,
+        "num": 260597,
+        "word": "消费156.9元餐馆实收157元被立案",
+        "onboard_time": 1777096879,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160647,
+        "num": 258727,
+        "word": "大连8岁男孩疑发现金矿后续",
+        "onboard_time": 1777092380,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328379,
+        "num": 258715,
+        "word": "TXT观看苏新皓翻跳GGUM",
+        "onboard_time": 1777096221,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258472,
+        "num": 258472,
+        "word": "老人被83岁男室友打到大小便失禁",
+        "onboard_time": 1777077860,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244305,
+        "num": 244305,
+        "word": "余茵拍上部戏体重才60多斤",
+        "onboard_time": 1777088600,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236752,
+        "num": 236752,
+        "word": "翁虹回应女儿被称最美星二代",
+        "onboard_time": 1777089440,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204535,
+        "num": 204535,
+        "word": "KSG对战TTG",
+        "onboard_time": 1777091602,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215601,
+        "num": 203220,
+        "word": "孔刘金高银李栋旭聚餐",
+        "onboard_time": 1777087101,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198796,
+        "num": 198796,
+        "word": "孙丞潇 人永远不知道谁会旺你",
+        "onboard_time": 1777093100,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197155,
+        "num": 197155,
+        "word": "三佛塔电诈园区航拍曝光",
+        "onboard_time": 1777094299,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194398,
+        "num": 194398,
+        "word": "斯玛特回应詹姆斯绝平三分",
+        "onboard_time": 1777091360,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189795,
+        "num": 189795,
+        "word": "湖人回应詹姆斯三分",
+        "onboard_time": 1777093280,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186022,
+        "num": 186022,
+        "word": "佳偶天成开播",
+        "onboard_time": 1777082779,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168875,
+        "num": 168875,
+        "word": "陶昕然 这样好的阳光我们大看特看",
+        "onboard_time": 1777094240,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163950,
+        "num": 163950,
+        "word": "发现变胖真的太廉价了",
+        "onboard_time": 1777097060,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153728,
+        "num": 153728,
+        "word": "昀牵孟绕时间线",
+        "onboard_time": 1777095080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "马刺vs开拓者",
+        "onboard_time": 1777095979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27400,
+        "num": 148338,
+        "word": "华为乾崑开启内外双融合感知时代",
+        "onboard_time": 1777093520,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60706,
+        "num": 147905,
+        "word": "肯德基玩具到底谁抢到了啊",
+        "onboard_time": 1777097120,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32923,
+        "num": 147673,
+        "word": "华莱士是汉堡界的谷子店",
+        "onboard_time": 1777093520,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147632,
+        "num": 147632,
+        "word": "医生将2粒药打成21粒患者已谅解",
+        "onboard_time": 1777094299,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144134,
+        "num": 144134,
+        "word": "专家判定7岁男孩出生就遭受颅骨骨折",
+        "onboard_time": 1777094659,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142928,
+        "num": 142928,
+        "word": "多个国家抛售黄金",
+        "onboard_time": 1777095619,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感悟正确政绩观#"
+    }
+  }
+}
