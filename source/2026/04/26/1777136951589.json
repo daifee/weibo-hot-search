@@ -1,0 +1,410 @@
+{
+  "runTime": 1777136951589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 767422,
+        "num": 865074,
+        "word": "副所长为完成任务设计让6人吸毒",
+        "onboard_time": 1777128625,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 401946,
+        "num": 626764,
+        "word": "青岛警方致歉",
+        "onboard_time": 1777119322,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1206,
+        "num": 489475,
+        "word": "开局之年看中国",
+        "onboard_time": 1777040785,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2745134,
+        "num": 460747,
+        "word": "者来女淘汰",
+        "onboard_time": 1777127603,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409665,
+        "num": 409665,
+        "word": "李昀锐连孟子义名字都不提",
+        "onboard_time": 1777110500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332079,
+        "num": 332079,
+        "word": "旅游很多次才知道的事",
+        "onboard_time": 1777118060,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 251013,
+        "num": 251013,
+        "word": "16岁高中生或发现侵华日军新罪证",
+        "onboard_time": 1777130782,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245178,
+        "num": 245178,
+        "word": "东方甄选明明离职原因",
+        "onboard_time": 1777121544,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231952,
+        "num": 245116,
+        "word": "孤单北半球真的跑调到北半球了",
+        "onboard_time": 1777126825,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211098,
+        "num": 244995,
+        "word": "人生是一场巨大的后知后觉",
+        "onboard_time": 1777126885,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2429577,
+        "num": 244765,
+        "word": "齐思钧表情",
+        "onboard_time": 1777132881,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371690,
+        "num": 244503,
+        "word": "这周唐艺昕一个人站岗",
+        "onboard_time": 1777130304,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368126,
+        "num": 244465,
+        "word": "李小冉短短两周经历了什么",
+        "onboard_time": 1777135040,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331512,
+        "num": 244235,
+        "word": "曾沛慈赢了",
+        "onboard_time": 1777126343,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310018,
+        "num": 243965,
+        "word": "徐洁儿二公票数",
+        "onboard_time": 1777130901,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293283,
+        "num": 243797,
+        "word": "秦昊马頔孙丞潇都在点孙杨了",
+        "onboard_time": 1777118901,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 279666,
+        "num": 243696,
+        "word": "王濛团921票",
+        "onboard_time": 1777124604,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177125,
+        "num": 243487,
+        "word": "香港最强控烟令没有首次免罚",
+        "onboard_time": 1777133839,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176756,
+        "num": 243282,
+        "word": "断绝孩子手机上瘾最快的偏方",
+        "onboard_time": 1777133660,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162516,
+        "num": 243107,
+        "word": "被减肥背刺了",
+        "onboard_time": 1777112420,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258370,
+        "num": 242914,
+        "word": "张慧雯跑了一整个舞台去拥抱者来女",
+        "onboard_time": 1777136239,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230873,
+        "num": 242722,
+        "word": "谭松韵王栎鑫合唱最好的我们",
+        "onboard_time": 1777125746,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218111,
+        "num": 242690,
+        "word": "曾沛慈一直在修音响",
+        "onboard_time": 1777122684,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141318,
+        "num": 242431,
+        "word": "五一原来是放假七天的",
+        "onboard_time": 1777106840,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137750,
+        "num": 242236,
+        "word": "刘诗诗天坛女神",
+        "onboard_time": 1777117641,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131697,
+        "num": 242063,
+        "word": "黄灿灿进步好大",
+        "onboard_time": 1777129043,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109659,
+        "num": 241868,
+        "word": "世界羽联通过15分制改革",
+        "onboard_time": 1777127006,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100670,
+        "num": 241728,
+        "word": "24岁抗癌女孩一个订单看泪崩",
+        "onboard_time": 1777130782,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91978,
+        "num": 241506,
+        "word": "失明男子租房每月50元20年没涨",
+        "onboard_time": 1777131562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83426,
+        "num": 241396,
+        "word": "苏超",
+        "onboard_time": 1777116561,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95521,
+        "num": 241201,
+        "word": "尚公主",
+        "onboard_time": 1777121604,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82700,
+        "num": 241109,
+        "word": "西安一职校学生被同学一刀捅进ICU",
+        "onboard_time": 1777122684,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81940,
+        "num": 240929,
+        "word": "杨紫在片场跳了误闯天家",
+        "onboard_time": 1777114341,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81925,
+        "num": 240777,
+        "word": "大牛股年内已猛涨208%",
+        "onboard_time": 1777127485,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72252,
+        "num": 240556,
+        "word": "东方甄选中灿官宣离职",
+        "onboard_time": 1777117399,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67221,
+        "num": 240312,
+        "word": "美国对伊朗实施最大程度经济封锁",
+        "onboard_time": 1777118481,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64843,
+        "num": 240182,
+        "word": "瘦人无法理解的吃饭习惯",
+        "onboard_time": 1777106179,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64531,
+        "num": 240025,
+        "word": "怦然心动20岁",
+        "onboard_time": 1777116022,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64177,
+        "num": 239888,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1777123765,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61284,
+        "num": 239676,
+        "word": "美国富豪遭5头大象踩踏身亡",
+        "onboard_time": 1777106540,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59778,
+        "num": 239373,
+        "word": "天坛奖获奖名单",
+        "onboard_time": 1777131981,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56482,
+        "num": 239324,
+        "word": "中国超70%石油靠进口却不慌",
+        "onboard_time": 1777114640,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52273,
+        "num": 239169,
+        "word": "明明感谢俞敏洪",
+        "onboard_time": 1777130663,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48690,
+        "num": 238938,
+        "word": "尚公主剧宣",
+        "onboard_time": 1777116078,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40635,
+        "num": 238787,
+        "word": "胡兵一直讲钟汉良一直吃",
+        "onboard_time": 1777136419,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38567,
+        "num": 238500,
+        "word": "人民日报批五稂液仿冒五粮液",
+        "onboard_time": 1777125685,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38261,
+        "num": 238472,
+        "word": "明日方舟 卡游",
+        "onboard_time": 1777125146,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37765,
+        "num": 238197,
+        "word": "在网咖做陪玩的小猫",
+        "onboard_time": 1777136419,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37082,
+        "num": 238000,
+        "word": "时代少年团乐队舞台",
+        "onboard_time": 1777136419,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35459,
+        "num": 237829,
+        "word": "雄塑科技一季净利暴增68902%",
+        "onboard_time": 1777136419,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同内韦斯互致贺电#"
+    }
+  }
+}
