@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1777111996979,
+  "endTime": 1777114812835,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2478979,
-      "num": 524553,
+      "num": 568702,
       "word": "孟子义李昀锐下定决心拆cp的原因",
       "onboard_time": 1777091180,
       "rank": 10,
@@ -281,6 +281,14 @@
       "onboard_time": 1776726618,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2282724,
+      "num": 837197,
+      "word": "李昀锐连孟子义名字都不提",
+      "onboard_time": 1777110500,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2270618,
@@ -929,14 +937,6 @@
       "onboard_time": 1777079299,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1279410,
-      "num": 397388,
-      "word": "李昀锐连孟子义名字都不提",
-      "onboard_time": 1777110500,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1273648,
@@ -2163,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784075,
+      "num": 784075,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 784041,
       "num": 784041,
       "word": "何宣林 分词",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1777019119,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712799,
-      "num": 712799,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 711978,
@@ -3441,6 +3441,14 @@
       "onboard_time": 1777035864,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563155,
+      "num": 563155,
+      "word": "萧蔷 节目组最严厉的母亲",
+      "onboard_time": 1777111639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 562782,
@@ -4515,6 +4523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 432387,
+      "num": 432387,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429849,
       "num": 663962,
       "word": "火箭vs湖人",
@@ -4572,7 +4588,7 @@
     },
     {
       "raw_hot": 425558,
-      "num": 300096,
+      "num": 328402,
       "word": "娜扎前经纪人回应离职",
       "onboard_time": 1777107200,
       "rank": 27,
@@ -4859,14 +4875,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 403770,
-      "num": 403770,
-      "word": "杨威两女儿勇夺全国冠军和季军",
-      "onboard_time": 1777104079,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 403377,
       "num": 158144,
       "word": "六姑姑要求与侄女分百万遗产胜诉",
@@ -4952,6 +4960,14 @@
       "word": "日本曾给灾民送千纸鹤",
       "onboard_time": 1776728900,
       "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 397033,
+      "num": 573062,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
       "category": "海外新闻"
     },
     {
@@ -5329,14 +5345,6 @@
       "onboard_time": 1776997519,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368900,
-      "num": 368900,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 368795,
@@ -7227,6 +7235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249440,
+      "num": 249440,
+      "word": "陈都灵鞠婧祎黑粉手写道歉信",
+      "onboard_time": 1777111459,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249032,
       "num": 249032,
       "word": "张梓琳大女儿10岁了",
@@ -7241,6 +7257,14 @@
       "onboard_time": 1776755600,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248584,
+      "num": 248584,
+      "word": "杨紫在片场跳了误闯天家",
+      "onboard_time": 1777114341,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 248388,
@@ -7723,14 +7747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 230054,
-      "num": 230054,
-      "word": "陈都灵鞠婧祎黑粉手写道歉信",
-      "onboard_time": 1777111459,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229944,
       "num": 229944,
       "word": "都市丽人小地雷内衣被指辱女",
@@ -7857,6 +7873,14 @@
       "onboard_time": 1777083680,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225038,
+      "num": 181654,
+      "word": "杜江回应霍思燕的蒙古獒又夺冠了",
+      "onboard_time": 1777113860,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 224866,
@@ -8177,6 +8201,14 @@
       "onboard_time": 1776869425,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214004,
+      "num": 249775,
+      "word": "张雪机车香港爆单遭同行诋毁",
+      "onboard_time": 1777113020,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212852,
@@ -9036,7 +9068,7 @@
     },
     {
       "raw_hot": 184794,
-      "num": 145218,
+      "num": 181560,
       "word": "白鹿秒出图",
       "onboard_time": 1777111580,
       "rank": 36,
@@ -9659,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167509,
+      "num": 167509,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167471,
       "num": 167471,
       "word": "官方通报小学生拒借车遭群殴",
@@ -9785,14 +9825,6 @@
       "onboard_time": 1777082480,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164840,
-      "num": 164840,
-      "word": "为什么很少听到工作狂这个标签了",
-      "onboard_time": 1777102159,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 164563,
@@ -10073,6 +10105,14 @@
       "onboard_time": 1776585981,
       "rank": 46,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 158206,
+      "num": 181718,
+      "word": "大喊不用结账的摊主爆单了",
+      "onboard_time": 1777113020,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158097,
@@ -10539,14 +10579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146774,
-      "num": 146774,
-      "word": "萧蔷 节目组最严厉的母亲",
-      "onboard_time": 1777111639,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146754,
       "num": 146754,
       "word": "伊朗发布拦截2艘货轮视频",
@@ -10585,6 +10617,14 @@
       "onboard_time": 1777083080,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "DeepSeekV4 尺度",
+      "onboard_time": 1777114399,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 144305,
@@ -10633,6 +10673,14 @@
       "onboard_time": 1776529700,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143698,
+      "num": 143698,
+      "word": "李艺彤 气死我了",
+      "onboard_time": 1777114640,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 143650,
@@ -10785,6 +10833,14 @@
       "onboard_time": 1777048340,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138827,
+      "num": 138827,
+      "word": "被减肥背刺了",
+      "onboard_time": 1777112420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 138789,
@@ -11137,6 +11193,14 @@
       "onboard_time": 1776902780,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130227,
+      "num": 130227,
+      "word": "LingOrm好甜",
+      "onboard_time": 1777114341,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 130002,
@@ -11547,6 +11611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118813,
+      "num": 199792,
+      "word": "3国回应马六甲海峡收费",
+      "onboard_time": 1777111699,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118660,
       "num": 447488,
       "word": "多厂商仍未公开辅助驾驶里程",
@@ -11577,6 +11649,14 @@
       "onboard_time": 1776852741,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118120,
+      "num": 118120,
+      "word": "剑来第二季大结局",
+      "onboard_time": 1777114579,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 117960,
@@ -14451,14 +14531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30973,
-      "num": 199792,
-      "word": "3国回应马六甲海峡收费",
-      "onboard_time": 1777111699,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30843,
       "num": 1082926,
       "word": "疾风骤雨中三枚历史首金光芒闪耀",
@@ -14875,6 +14947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22356,
+      "num": 145413,
+      "word": "中国超70%石油靠进口却不慌",
+      "onboard_time": 1777114640,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22257,
       "num": 968710,
       "word": "开局之年我国经济运行起步有力",
@@ -15027,6 +15107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16813,
+      "num": 183223,
+      "word": "揭晓周云杰说的好空气带回家的答案",
+      "onboard_time": 1777113621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15469,
       "num": 400086,
       "word": "我国每3度电就有1度是绿电",
@@ -15089,6 +15177,14 @@
       "onboard_time": 1776721335,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11015,
+      "num": 868544,
+      "word": "铁路部门将开行179趟旅游列车",
+      "onboard_time": 1777100000,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10329,

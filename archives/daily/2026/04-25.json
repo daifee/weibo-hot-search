@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777111996979,
+  "endTime": 1777114812835,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 2478979,
-      "num": 524553,
+      "num": 568702,
       "word": "孟子义李昀锐下定决心拆cp的原因",
       "onboard_time": 1777091180,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2282724,
+      "num": 837197,
+      "word": "李昀锐连孟子义名字都不提",
+      "onboard_time": 1777110500,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1777079299,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1279410,
-      "num": 397388,
-      "word": "李昀锐连孟子义名字都不提",
-      "onboard_time": 1777110500,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1223223,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784075,
+      "num": 784075,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 731740,
       "num": 731740,
       "word": "东方甄选 明明天权离职",
@@ -265,14 +273,6 @@
       "onboard_time": 1777082779,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 712799,
-      "num": 712799,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 711978,
@@ -321,6 +321,14 @@
       "onboard_time": 1777086621,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 563155,
+      "num": 563155,
+      "word": "萧蔷 节目组最严厉的母亲",
+      "onboard_time": 1777111639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 561627,
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432387,
+      "num": 432387,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429014,
       "num": 429014,
       "word": "过了25就不敢甩头了",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 425558,
-      "num": 300096,
+      "num": 328402,
       "word": "娜扎前经纪人回应离职",
       "onboard_time": 1777107200,
       "rank": 27,
@@ -491,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403770,
-      "num": 403770,
-      "word": "杨威两女儿勇夺全国冠军和季军",
-      "onboard_time": 1777104079,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 397033,
+      "num": 573062,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 390504,
@@ -561,14 +577,6 @@
       "onboard_time": 1777076538,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368900,
-      "num": 368900,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 357391,
@@ -811,6 +819,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249440,
+      "num": 249440,
+      "word": "陈都灵鞠婧祎黑粉手写道歉信",
+      "onboard_time": 1777111459,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248584,
+      "num": 248584,
+      "word": "杨紫在片场跳了误闯天家",
+      "onboard_time": 1777114341,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247987,
       "num": 247987,
       "word": "翁虹回应女儿被称最美星二代",
@@ -875,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230054,
-      "num": 230054,
-      "word": "陈都灵鞠婧祎黑粉手写道歉信",
-      "onboard_time": 1777111459,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228009,
       "num": 228009,
       "word": "女子误饮毒饮死亡酒吧赔偿123万元",
@@ -905,6 +921,14 @@
       "onboard_time": 1777083680,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225038,
+      "num": 181654,
+      "word": "杜江回应霍思燕的蒙古獒又夺冠了",
+      "onboard_time": 1777113860,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 222446,
@@ -937,6 +961,14 @@
       "onboard_time": 1777028241,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214004,
+      "num": 249775,
+      "word": "张雪机车香港爆单遭同行诋毁",
+      "onboard_time": 1777113020,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210769,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 184794,
-      "num": 145218,
+      "num": 181560,
       "word": "白鹿秒出图",
       "onboard_time": 1777111580,
       "rank": 36,
@@ -1163,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167509,
+      "num": 167509,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167188,
       "num": 167188,
       "word": "TES战胜NIP",
@@ -1195,14 +1235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 164840,
-      "num": 164840,
-      "word": "为什么很少听到工作狂这个标签了",
-      "onboard_time": 1777102159,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161027,
       "num": 161027,
       "word": "华晨宇演唱会为何获批又叫停",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1777087639,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158206,
+      "num": 181718,
+      "word": "大喊不用结账的摊主爆单了",
+      "onboard_time": 1777113020,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157514,
@@ -1283,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146774,
-      "num": 146774,
-      "word": "萧蔷 节目组最严厉的母亲",
-      "onboard_time": 1777111639,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "湖人八村变八神",
@@ -1307,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "DeepSeekV4 尺度",
+      "onboard_time": 1777114399,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144134,
       "num": 176738,
       "word": "专家判定7岁男孩出生就遭受颅骨骨折",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1777087699,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143698,
+      "num": 143698,
+      "word": "李艺彤 气死我了",
+      "onboard_time": 1777114640,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 143252,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1777048340,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138827,
+      "num": 138827,
+      "word": "被减肥背刺了",
+      "onboard_time": 1777112420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 138789,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1777083560,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130227,
+      "num": 130227,
+      "word": "LingOrm好甜",
+      "onboard_time": 1777114341,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 127689,
@@ -1547,12 +1611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118813,
+      "num": 199792,
+      "word": "3国回应马六甲海峡收费",
+      "onboard_time": 1777111699,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118723,
       "num": 182566,
       "word": "C罗认为人类喝牛奶不正常",
       "onboard_time": 1777023440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118120,
+      "num": 118120,
+      "word": "剑来第二季大结局",
+      "onboard_time": 1777114579,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 117597,
@@ -1947,14 +2027,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30973,
-      "num": 199792,
-      "word": "3国回应马六甲海峡收费",
-      "onboard_time": 1777111699,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30843,
       "num": 1082926,
       "word": "疾风骤雨中三枚历史首金光芒闪耀",
@@ -1995,6 +2067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22356,
+      "num": 145413,
+      "word": "中国超70%石油靠进口却不慌",
+      "onboard_time": 1777114640,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17692,
       "num": 968710,
       "word": "开局之年我国经济运行起步有力",
@@ -2007,6 +2087,22 @@
       "num": 921747,
       "word": "遇见不一样的江苏",
       "onboard_time": 1777083799,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16813,
+      "num": 183223,
+      "word": "揭晓周云杰说的好空气带回家的答案",
+      "onboard_time": 1777113621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11015,
+      "num": 868544,
+      "word": "铁路部门将开行179趟旅游列车",
+      "onboard_time": 1777100000,
       "rank": 2,
       "category": "民生新闻"
     }
