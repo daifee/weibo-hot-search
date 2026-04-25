@@ -1,0 +1,410 @@
+{
+  "runTime": 1777128795959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2190724,
+        "num": 2190724,
+        "word": "言不由衷",
+        "onboard_time": 1777127125,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738234,
+        "num": 2134368,
+        "word": "青岛警方致歉",
+        "onboard_time": 1777119322,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44901,
+        "num": 1653250,
+        "word": "新业态新赛道催生新职业新岗位",
+        "onboard_time": 1777122744,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12132965,
+        "num": 12132965,
+        "word": "者来女淘汰",
+        "onboard_time": 1777127603,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498638,
+        "num": 498638,
+        "word": "旅游很多次才知道的事",
+        "onboard_time": 1777118060,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1538284,
+        "num": 482876,
+        "word": "曾沛慈赢了",
+        "onboard_time": 1777126343,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450253,
+        "num": 450253,
+        "word": "五一原来是放假七天的",
+        "onboard_time": 1777106840,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406793,
+        "num": 450082,
+        "word": "东方甄选明明离职原因",
+        "onboard_time": 1777121544,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310655,
+        "num": 449781,
+        "word": "瘦人无法理解的吃饭习惯",
+        "onboard_time": 1777106179,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222513,
+        "num": 449508,
+        "word": "被减肥背刺了",
+        "onboard_time": 1777112420,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11490800,
+        "num": 11490800,
+        "word": "官方通报女子劝阻男子吸烟引争执",
+        "onboard_time": 1777119620,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1842047,
+        "num": 448786,
+        "word": "阚清子老公是她的榜一大哥",
+        "onboard_time": 1777123644,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036508,
+        "num": 448537,
+        "word": "李昀锐连孟子义名字都不提",
+        "onboard_time": 1777110500,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257918,
+        "num": 448035,
+        "word": "苏超",
+        "onboard_time": 1777116561,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708970,
+        "num": 447915,
+        "word": "王濛团921票",
+        "onboard_time": 1777124604,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516514,
+        "num": 447697,
+        "word": "谭松韵王栎鑫合唱最好的我们",
+        "onboard_time": 1777125746,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150940,
+        "num": 447275,
+        "word": "美国富豪遭5头大象踩踏身亡",
+        "onboard_time": 1777106540,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 606883,
+        "num": 446817,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224453,
+        "num": 446468,
+        "word": "副所长为完成任务设计让6人吸毒",
+        "onboard_time": 1777128625,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194781,
+        "num": 446191,
+        "word": "西安一职校学生被同学一刀捅进ICU",
+        "onboard_time": 1777122684,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229666,
+        "num": 446012,
+        "word": "异父异母但双胞胎",
+        "onboard_time": 1777104439,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445801,
+        "num": 445801,
+        "word": "孤单北半球真的跑调到北半球了",
+        "onboard_time": 1777126825,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444946,
+        "num": 444946,
+        "word": "徐洁儿可以去歌手了",
+        "onboard_time": 1777124543,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276135,
+        "num": 425632,
+        "word": "这段话反复杀死了我的懒惰",
+        "onboard_time": 1777104619,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416735,
+        "num": 416735,
+        "word": "者来女把陈瑶推到张月身边",
+        "onboard_time": 1777127965,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376359,
+        "num": 376359,
+        "word": "王濛永远被甜妹拿捏",
+        "onboard_time": 1777122141,
+        "rank": 25,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 752210,
+        "num": 372636,
+        "word": "曾沛慈张月pk言不由衷",
+        "onboard_time": 1777128203,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185818,
+        "num": 362625,
+        "word": "人生是一场巨大的后知后觉",
+        "onboard_time": 1777126885,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361075,
+        "num": 361075,
+        "word": "刘诗诗天坛女神",
+        "onboard_time": 1777117641,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147235,
+        "num": 331731,
+        "word": "中方将采取必要措施",
+        "onboard_time": 1777123765,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320668,
+        "num": 320668,
+        "word": "李小冉 达拉崩吧比心愿便利贴简单",
+        "onboard_time": 1777119801,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183827,
+        "num": 310646,
+        "word": "东方甄选中灿官宣离职",
+        "onboard_time": 1777117399,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 307535,
+        "num": 307535,
+        "word": "秦昊马頔孙丞潇都在点孙杨了",
+        "onboard_time": 1777118901,
+        "rank": 32,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 262382,
+        "num": 262382,
+        "word": "尚公主",
+        "onboard_time": 1777121604,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137570,
+        "num": 259461,
+        "word": "世界羽联通过15分制改革",
+        "onboard_time": 1777127006,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259458,
+        "num": 259458,
+        "word": "李艺彤 气死我了",
+        "onboard_time": 1777114640,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232762,
+        "num": 232762,
+        "word": "周杰伦疑2.4亿购入澳百年庄园",
+        "onboard_time": 1777121123,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 203991,
+        "word": "中国超70%石油靠进口却不慌",
+        "onboard_time": 1777114640,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202177,
+        "num": 202177,
+        "word": "Angelababy两套高定",
+        "onboard_time": 1777119922,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53821,
+        "num": 190548,
+        "word": "AG司马光轮换上场",
+        "onboard_time": 1777127784,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "虞书欣黑银眼妆",
+        "onboard_time": 1777122444,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49460,
+        "num": 176281,
+        "word": "海尔空调把大自然好空气搬回家",
+        "onboard_time": 1777128143,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170261,
+        "num": 170261,
+        "word": "程潇完全花仙子",
+        "onboard_time": 1777119801,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169302,
+        "num": 169302,
+        "word": "杨紫在片场跳了误闯天家",
+        "onboard_time": 1777114341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122567,
+        "num": 169185,
+        "word": "美国对伊朗实施最大程度经济封锁",
+        "onboard_time": 1777118481,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148177,
+        "num": 168850,
+        "word": "尚公主剧宣",
+        "onboard_time": 1777116078,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136106,
+        "num": 168529,
+        "word": "我会等全员歌姬",
+        "onboard_time": 1777124904,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108726,
+        "num": 168112,
+        "word": "北京国安2比4天津津门虎",
+        "onboard_time": 1777125503,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108088,
+        "num": 168033,
+        "word": "大牛股年内已猛涨208%",
+        "onboard_time": 1777127485,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85840,
+        "num": 167612,
+        "word": "明日方舟 卡游",
+        "onboard_time": 1777125146,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同内韦斯互致贺电#"
+    }
+  }
+}

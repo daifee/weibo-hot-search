@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 21:45:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 22:53:15
 </p>
 </blockquote>
 <p>
@@ -191,6 +191,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A94%E8%BF%9E%E8%B4%A8%E9%97%AE%E5%8D%95%E4%BE%9D%E7%BA%AF%23" target="weibo">
 李荣浩4连质问单依纯（热度：12257451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E6%B7%98%E6%B1%B0%23" target="weibo">
+者来女淘汰（热度：12132965）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%BC%9F%E7%9F%A5%E9%81%93%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8E%BB%E4%B8%96%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
 朱伟知道张雪峰去世后哭了（热度：2194961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%80%BB%E5%8F%B0%E8%A7%86%E5%90%8E%23" target="weibo">
-杨幂总台视后（热度：2190334）
 </a>
 </li>
 

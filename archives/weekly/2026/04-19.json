@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1777124718802,
+  "endTime": 1777128795959,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -25,6 +25,14 @@
       "onboard_time": 1776589221,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12132965,
+      "num": 12132965,
+      "word": "者来女淘汰",
+      "onboard_time": 1777127603,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 12032188,
@@ -337,6 +345,14 @@
       "onboard_time": 1777011140,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2190724,
+      "num": 2190724,
+      "word": "言不由衷",
+      "onboard_time": 1777127125,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2166256,
@@ -697,6 +713,14 @@
       "onboard_time": 1776860061,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1538284,
+      "num": 482876,
+      "word": "曾沛慈赢了",
+      "onboard_time": 1777126343,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1533252,
@@ -2156,7 +2180,7 @@
     },
     {
       "raw_hot": 801719,
-      "num": 801719,
+      "num": 2134368,
       "word": "青岛警方致歉",
       "onboard_time": 1777119322,
       "rank": 6,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1777020979,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752210,
+      "num": 372636,
+      "word": "曾沛慈张月pk言不由衷",
+      "onboard_time": 1777128203,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 751742,
@@ -3740,7 +3772,7 @@
     },
     {
       "raw_hot": 542833,
-      "num": 393232,
+      "num": 425632,
       "word": "这段话反复杀死了我的懒惰",
       "onboard_time": 1777104619,
       "rank": 20,
@@ -3907,6 +3939,14 @@
       "category": "民生新闻,时尚"
     },
     {
+      "raw_hot": 516514,
+      "num": 447697,
+      "word": "谭松韵王栎鑫合唱最好的我们",
+      "onboard_time": 1777125746,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 514854,
       "num": 514854,
       "word": "特朗普称美伊停火到期将继续轰炸",
@@ -4041,6 +4081,14 @@
       "onboard_time": 1776825080,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498638,
+      "num": 498638,
+      "word": "旅游很多次才知道的事",
+      "onboard_time": 1777118060,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 498407,
@@ -4555,12 +4603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 445801,
+      "num": 445801,
+      "word": "孤单北半球真的跑调到北半球了",
+      "onboard_time": 1777126825,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445353,
       "num": 560386,
       "word": "问界M6起售价25.98万元",
       "onboard_time": 1776865943,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 444946,
+      "num": 444946,
+      "word": "徐洁儿可以去歌手了",
+      "onboard_time": 1777124543,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 444726,
@@ -4873,6 +4937,14 @@
       "onboard_time": 1776834261,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 416735,
+      "num": 416735,
+      "word": "者来女把陈瑶推到张月身边",
+      "onboard_time": 1777127965,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 416116,
@@ -5315,14 +5387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382945,
-      "num": 382945,
-      "word": "旅游很多次才知道的事",
-      "onboard_time": 1777118060,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 382770,
       "num": 382770,
       "word": "法院干警配偶低价拍得六千万债权",
@@ -5715,14 +5779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 349715,
-      "num": 305005,
-      "word": "徐洁儿可以去歌手了",
-      "onboard_time": 1777124543,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349123,
       "num": 349123,
       "word": "王橹杰说有几天匮乏期",
@@ -5956,7 +6012,7 @@
     },
     {
       "raw_hot": 329395,
-      "num": 251005,
+      "num": 310646,
       "word": "东方甄选中灿官宣离职",
       "onboard_time": 1777117399,
       "rank": 35,
@@ -6425,6 +6481,14 @@
       "onboard_time": 1776939680,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307535,
+      "num": 307535,
+      "word": "秦昊马頔孙丞潇都在点孙杨了",
+      "onboard_time": 1777118901,
+      "rank": 32,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 307267,
@@ -7052,7 +7116,7 @@
     },
     {
       "raw_hot": 271005,
-      "num": 245013,
+      "num": 262382,
       "word": "尚公主",
       "onboard_time": 1777121604,
       "rank": 34,
@@ -7172,7 +7236,7 @@
     },
     {
       "raw_hot": 264447,
-      "num": 349312,
+      "num": 449508,
       "word": "被减肥背刺了",
       "onboard_time": 1777112420,
       "rank": 41,
@@ -7931,6 +7995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232762,
+      "num": 232762,
+      "word": "周杰伦疑2.4亿购入澳百年庄园",
+      "onboard_time": 1777121123,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232297,
       "num": 349774,
       "word": "管乐被李雪女儿的学舞速度震惊到了",
@@ -8129,6 +8201,14 @@
       "onboard_time": 1776510021,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224453,
+      "num": 446468,
+      "word": "副所长为完成任务设计让6人吸毒",
+      "onboard_time": 1777128625,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 224015,
@@ -9019,6 +9099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194781,
+      "num": 446191,
+      "word": "西安一职校学生被同学一刀捅进ICU",
+      "onboard_time": 1777122684,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194760,
       "num": 431005,
       "word": "王楚钦独特合照视角",
@@ -9297,6 +9385,14 @@
       "onboard_time": 1776966196,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 185818,
+      "num": 362625,
+      "word": "人生是一场巨大的后知后觉",
+      "onboard_time": 1777126885,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 185740,
@@ -10492,7 +10588,7 @@
     },
     {
       "raw_hot": 154902,
-      "num": 154902,
+      "num": 331731,
       "word": "中方将采取必要措施",
       "onboard_time": 1777123765,
       "rank": 45,
@@ -11011,14 +11107,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 142579,
-      "num": 205718,
-      "word": "西安一职校学生被同学一刀捅进ICU",
-      "onboard_time": 1777122684,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142251,
       "num": 139891,
       "word": "父亲回应女儿赴泰过泼水节被卖园区",
@@ -11171,6 +11259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137570,
+      "num": 259461,
+      "word": "世界羽联通过15分制改革",
+      "onboard_time": 1777127006,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137444,
       "num": 322842,
       "word": "全新奔驰纯电GLC",
@@ -11201,6 +11297,14 @@
       "onboard_time": 1776950002,
       "rank": 47,
       "category": "舆论监督,网红"
+    },
+    {
+      "raw_hot": 136106,
+      "num": 168529,
+      "word": "我会等全员歌姬",
+      "onboard_time": 1777124904,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 135705,
@@ -12291,6 +12395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108726,
+      "num": 168112,
+      "word": "北京国安2比4天津津门虎",
+      "onboard_time": 1777125503,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108384,
       "num": 144635,
       "word": "DeepSeekV4适配华为升腾",
@@ -12321,6 +12433,14 @@
       "onboard_time": 1776756679,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108088,
+      "num": 168033,
+      "word": "大牛股年内已猛涨208%",
+      "onboard_time": 1777127485,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 106920,
@@ -12873,6 +12993,14 @@
       "onboard_time": 1776942079,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85840,
+      "num": 167612,
+      "word": "明日方舟 卡游",
+      "onboard_time": 1777125146,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 85574,
@@ -13939,6 +14067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53821,
+      "num": 190548,
+      "word": "AG司马光轮换上场",
+      "onboard_time": 1777127784,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53233,
       "num": 190848,
       "word": "张杰鸟巢唱完大庆功",
@@ -14153,6 +14289,14 @@
       "onboard_time": 1776760220,
       "rank": 2,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 49460,
+      "num": 176281,
+      "word": "海尔空调把大自然好空气搬回家",
+      "onboard_time": 1777128143,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49449,
