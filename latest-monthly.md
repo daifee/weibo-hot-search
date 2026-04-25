@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 17:03:44
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 17:30:03
 </p>
 </blockquote>
 <p>
@@ -1407,6 +1407,12 @@ Angelababy郑恺陈赫李晨合影（热度：1317443）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%89%8B%E7%83%9F%23" target="weibo">
+三手烟（热度：1299647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AE%87%E5%AE%81%E5%AE%8B%E7%A5%96%E5%84%BF%E5%90%8C%E6%AC%BE%E5%9C%B0%E6%9D%BF%E5%AE%B6%E5%85%B7%23" target="weibo">
 曝刘宇宁宋祖儿同款地板家具（热度：1297404）
 </a>
@@ -1715,6 +1721,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%89%B2%E5%96%89%E7%94%B7%E5%AD%A9%E4%BB%8D%E6%9C%89%E4%B8%80%E6%AE%B5%E6%B0%94%E7%AE%A1%E6%9C%AA%E6%89%BE%E5%88%B0%23" target="weibo">
 遭割喉男孩仍有一段气管未找到（热度：1183525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%94%BE%E5%81%87%E4%B8%83%E5%A4%A9%E7%9A%84%23" target="weibo">
+五一原来是放假七天的（热度：1182446）
 </a>
 </li>
 
@@ -2139,12 +2151,6 @@ Gucci不能再把中国市场当垃圾桶（热度：1029887）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%89%8B%E7%83%9F%23" target="weibo">
-三手烟（热度：1029558）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8D%9A%E4%B8%BB%E5%90%8312%E4%B8%AA%E6%B1%89%E5%A0%A1%E6%8A%A5%E8%AD%A6%23" target="weibo">
 店主回应因博主吃12个汉堡报警（热度：1025224）
 </a>
@@ -2159,6 +2165,12 @@ Gucci不能再把中国市场当垃圾桶（热度：1029887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%83%8F%E5%A5%96%E7%88%86%E5%86%B7%23" target="weibo">
 金像奖爆冷（热度：1023478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E5%9C%A8%E4%BA%94%E5%93%88%E9%95%9C%E5%A4%B4%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
+老舅在五哈镜头前道歉（热度：1022284）
 </a>
 </li>
 
@@ -2871,12 +2883,6 @@ TEN李永钦不续约（热度：868167）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%88%85%E5%9C%A8%E4%BA%94%E5%93%88%E9%95%9C%E5%A4%B4%E5%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
-老舅在五哈镜头前道歉（热度：867871）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E9%AA%84%E5%82%B2%E6%8B%92%E6%92%95%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
 陶昕然骄傲拒撕节目组（热度：867194）
 </a>
@@ -3177,6 +3183,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E7%99%BD%E6%9D%A1%E6%9C%88%E4%BB%98%E7%AD%89%E9%9D%A2%E4%B8%B4%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23" target="weibo">
+花呗白条月付等面临重大调整（热度：810874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%BA%BF%E4%B8%8B%E7%8A%B6%E6%80%81%23" target="weibo">
 金莎线下状态（热度：810489）
 </a>
@@ -3335,6 +3347,12 @@ en王翊恩 结婚但没同居（热度：795143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%96%87%E7%8E%A5%E6%8D%9E%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
 宇文玥捞上来了（热度：791194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%E6%B5%AA%E5%A7%90%E4%B8%8A%E7%8F%AD%E5%93%AD%E4%BA%86%23" target="weibo">
+何宣林浪姐上班哭了（热度：791043）
 </a>
 </li>
 
@@ -4647,6 +4665,12 @@ DeepSeekV4发布（热度：644854）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23" target="weibo">
+陶昕然发长文回应淘汰（热度：641517）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%87%AA%E6%9B%9D%E6%9B%BE%E5%A4%9A%E6%AC%A1%E6%8B%86%E6%95%A3%E5%90%91%E4%BD%90%E6%81%8B%E6%83%85%23" target="weibo">
 向太自曝曾多次拆散向佐恋情（热度：641205）
 </a>
@@ -5901,12 +5925,6 @@ she合体爬山了（热度：550394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23" target="weibo">
-陶昕然发长文回应淘汰（热度：544949）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E8%88%B6%E9%80%9A%E8%A1%8C%E6%96%B0%E8%A7%84%23" target="weibo">
 伊朗发布霍尔木兹海峡船舶通行新规（热度：544585）
 </a>
@@ -5933,6 +5951,12 @@ she合体爬山了（热度：550394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%90%E7%83%A8%205600%E4%B8%8D%E5%A6%82%E5%92%8C%E8%B1%86%E5%8C%85%E8%81%8A%23" target="weibo">
 林子烨 5600不如和豆包聊（热度：542952）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E8%AF%9D%E5%8F%8D%E5%A4%8D%E6%9D%80%E6%AD%BB%E4%BA%86%E6%88%91%E7%9A%84%E6%87%92%E6%83%B0%23" target="weibo">
+这段话反复杀死了我的懒惰（热度：542833）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ she合体爬山了（热度：550394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%9B%9B%E5%A4%A7%E9%99%A2%E6%A0%A1%E8%89%BA%E8%80%83%E5%89%8D%E5%9B%9B%E5%90%8D%23" target="weibo">
 今年四大院校艺考前四名（热度：539750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%BE%9D%E9%9C%96%E7%94%A8%E9%83%AD%E7%A2%A7%E5%A9%B7%E9%80%81%E7%9A%84%E6%9D%AF%E5%AD%90%E8%A3%85%E9%85%B1%E6%B2%B9%23" target="weibo">
-谢依霖用郭碧婷送的杯子装酱油（热度：539149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E5%B0%8F%E7%B1%B3YU7GT5%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83%23" target="weibo">
-雷军官宣小米YU7GT5月底发布（热度：538692）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%8E%9F%E5%9E%8B%E9%A3%9F%E7%89%A9%23" target="weibo">
-吃原型食物（热度：538452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%8D%96%E8%BD%A6%E6%8D%90%E6%AC%BE%E5%AB%A3%E7%84%B6%23" target="weibo">
-李亚鹏回应张雪卖车捐款嫣然（热度：538091）
 </a>
 </li>
 

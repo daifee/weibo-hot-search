@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777107824643,
+  "endTime": 1777109403858,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -1859,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1299647,
+      "num": 418334,
+      "word": "三手烟",
+      "onboard_time": 1777103959,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1297404,
       "num": 419846,
       "word": "曝刘宇宁宋祖儿同款地板家具",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1776172943,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1182446,
+      "num": 805219,
+      "word": "五一原来是放假七天的",
+      "onboard_time": 1777106840,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1179216,
@@ -2835,14 +2851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1029558,
-      "num": 418334,
-      "word": "三手烟",
-      "onboard_time": 1777103959,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1025224,
       "num": 1164035,
       "word": "店主回应因博主吃12个汉堡报警",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1776643101,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1022284,
+      "num": 867871,
+      "word": "老舅在五哈镜头前道歉",
+      "onboard_time": 1777104860,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020182,
@@ -3811,14 +3827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867871,
-      "num": 867871,
-      "word": "老舅在五哈镜头前道歉",
-      "onboard_time": 1777104860,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 867194,
       "num": 564136,
       "word": "陶昕然骄傲拒撕节目组",
@@ -4219,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 810874,
+      "num": 820416,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 810489,
       "num": 417311,
       "word": "金莎线下状态",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1775631682,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 791043,
+      "num": 791043,
+      "word": "何宣林浪姐上班哭了",
+      "onboard_time": 1777107979,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 790879,
@@ -6179,6 +6203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641517,
+      "num": 408469,
+      "word": "陶昕然发长文回应淘汰",
+      "onboard_time": 1777105640,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641205,
       "num": 221342,
       "word": "向太自曝曾多次拆散向佐恋情",
@@ -7851,14 +7883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 544949,
-      "num": 408469,
-      "word": "陶昕然发长文回应淘汰",
-      "onboard_time": 1777105640,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 544585,
       "num": 544585,
       "word": "伊朗发布霍尔木兹海峡船舶通行新规",
@@ -7897,6 +7921,14 @@
       "onboard_time": 1776845840,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542833,
+      "num": 327239,
+      "word": "这段话反复杀死了我的懒惰",
+      "onboard_time": 1777104619,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 542824,
@@ -8681,14 +8713,6 @@
       "onboard_time": 1775911042,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506901,
-      "num": 327239,
-      "word": "这段话反复杀死了我的懒惰",
-      "onboard_time": 1777104619,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 506415,
@@ -10859,6 +10883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425558,
+      "num": 300096,
+      "word": "娜扎前经纪人回应离职",
+      "onboard_time": 1777107200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425430,
       "num": 939180,
       "word": "老夫妻近3万买戒指后被店家跟踪",
@@ -12129,14 +12161,6 @@
       "onboard_time": 1776078503,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 391227,
-      "num": 391227,
-      "word": "五一原来是放假七天的",
-      "onboard_time": 1777106840,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 391078,
@@ -16443,6 +16467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 302289,
+      "num": 302289,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301900,
       "num": 684103,
       "word": "曝雷军押注的中年人泡泡玛特将上市",
@@ -17377,14 +17409,6 @@
       "onboard_time": 1775873781,
       "rank": 4,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 284722,
-      "num": 284722,
-      "word": "花呗白条月付等面临重大调整",
-      "onboard_time": 1777107080,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 284408,
@@ -21531,14 +21555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228503,
-      "num": 228503,
-      "word": "娜扎前经纪人回应离职",
-      "onboard_time": 1777107200,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228183,
       "num": 228183,
       "word": "张凌赫改了自动回复",
@@ -22017,6 +22033,14 @@
       "onboard_time": 1776001163,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222071,
+      "num": 222071,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222069,
@@ -22617,14 +22641,6 @@
       "onboard_time": 1775991742,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215888,
-      "num": 215888,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 215782,
@@ -27667,6 +27683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168339,
+      "num": 168339,
+      "word": "鹿晗五哈工伤",
+      "onboard_time": 1777107920,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168315,
       "num": 168315,
       "word": "捡了条小奶狗越长越不对劲",
@@ -28153,6 +28177,14 @@
       "onboard_time": 1775283800,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164419,
+      "num": 145504,
+      "word": "谢娜感谢陶昕然能来乘风",
+      "onboard_time": 1777108759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164418,
@@ -32139,6 +32171,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137403,
+      "num": 137403,
+      "word": "TES战胜NIP",
+      "onboard_time": 1777108520,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137207,
       "num": 137207,
       "word": "得知妻子患红斑狼疮男子起诉离婚",
@@ -33177,6 +33217,14 @@
       "onboard_time": 1776343640,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131334,
+      "num": 426910,
+      "word": "三手烟会影响子代生长发育",
+      "onboard_time": 1777107140,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 131312,
@@ -34297,6 +34345,14 @@
       "onboard_time": 1776676162,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125252,
+      "num": 301541,
+      "word": "官方通报原村支书铲车埋村民事件",
+      "onboard_time": 1777108160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125115,
@@ -35545,6 +35601,14 @@
       "onboard_time": 1775020467,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119028,
+      "num": 119028,
+      "word": "唐艺昕想念心愿便利贴了",
+      "onboard_time": 1777109179,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119021,
@@ -40953,14 +41017,6 @@
       "onboard_time": 1775978901,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96874,
-      "num": 123978,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96865,
@@ -51587,14 +51643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70033,
-      "num": 426910,
-      "word": "三手烟会影响子代生长发育",
-      "onboard_time": 1777107140,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 70020,
       "num": 70020,
       "word": "韩占武严重违纪违法",
@@ -54443,6 +54491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61491,
+      "num": 301244,
+      "word": "大众9X上市1小时内锁单破万",
+      "onboard_time": 1777108040,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61472,
       "num": 85112,
       "word": "朝鲜发声直指日本",
@@ -54729,6 +54785,14 @@
       "onboard_time": 1775013684,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60625,
+      "num": 301909,
+      "word": "中科院科技创新发展中心主任被查",
+      "onboard_time": 1777108881,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60535,
@@ -57129,6 +57193,14 @@
       "onboard_time": 1775048423,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49803,
+      "num": 291832,
+      "word": "原村支书用铲车掩埋村民被刑拘",
+      "onboard_time": 1777109119,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 49763,

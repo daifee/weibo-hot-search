@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777107824643,
+  "endTime": 1777109403858,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1299647,
+      "num": 418334,
+      "word": "三手烟",
+      "onboard_time": 1777103959,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1292092,
       "num": 1292092,
       "word": "韩国新恋综太炸裂了",
@@ -147,12 +155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1029558,
-      "num": 418334,
-      "word": "三手烟",
-      "onboard_time": 1777103959,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 1182446,
+      "num": 805219,
+      "word": "五一原来是放假七天的",
+      "onboard_time": 1777106840,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1022284,
+      "num": 867871,
+      "word": "老舅在五哈镜头前道歉",
+      "onboard_time": 1777104860,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 965159,
@@ -195,19 +211,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 867871,
-      "num": 867871,
-      "word": "老舅在五哈镜头前道歉",
-      "onboard_time": 1777104860,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 867194,
       "num": 564136,
       "word": "陶昕然骄傲拒撕节目组",
       "onboard_time": 1777086259,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 810874,
+      "num": 820416,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 791043,
+      "num": 791043,
+      "word": "何宣林浪姐上班哭了",
+      "onboard_time": 1777107979,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641517,
+      "num": 408469,
+      "word": "陶昕然发长文回应淘汰",
+      "onboard_time": 1777105640,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622175,
       "num": 622175,
       "word": "第一次见外国人误闯天家",
@@ -291,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544949,
-      "num": 408469,
-      "word": "陶昕然发长文回应淘汰",
-      "onboard_time": 1777105640,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 542833,
+      "num": 327239,
+      "word": "这段话反复杀死了我的懒惰",
+      "onboard_time": 1777104619,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 536440,
@@ -321,14 +353,6 @@
       "onboard_time": 1777074138,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 506901,
-      "num": 327239,
-      "word": "这段话反复杀死了我的懒惰",
-      "onboard_time": 1777104619,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 506096,
@@ -411,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425558,
+      "num": 300096,
+      "word": "娜扎前经纪人回应离职",
+      "onboard_time": 1777107200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415886,
       "num": 415886,
       "word": "华晨宇演唱会当地民众发声",
@@ -441,14 +473,6 @@
       "onboard_time": 1777093100,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 391227,
-      "num": 391227,
-      "word": "五一原来是放假七天的",
-      "onboard_time": 1777106840,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 390504,
@@ -651,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302289,
+      "num": 302289,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301362,
       "num": 430873,
       "word": "多个国家抛售黄金",
@@ -665,14 +697,6 @@
       "onboard_time": 1777089081,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284722,
-      "num": 284722,
-      "word": "花呗白条月付等面临重大调整",
-      "onboard_time": 1777107080,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 279300,
@@ -827,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228503,
-      "num": 228503,
-      "word": "娜扎前经纪人回应离职",
-      "onboard_time": 1777107200,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228009,
       "num": 228009,
       "word": "女子误饮毒饮死亡酒吧赔偿123万元",
@@ -867,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222071,
+      "num": 222071,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 217754,
       "num": 260414,
       "word": "斯玛特回应詹姆斯绝平三分",
@@ -881,14 +905,6 @@
       "onboard_time": 1777028360,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215888,
-      "num": 215888,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 214439,
@@ -1083,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168339,
+      "num": 168339,
+      "word": "鹿晗五哈工伤",
+      "onboard_time": 1777107920,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167772,
       "num": 234315,
       "word": "ksg剧透",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1777082480,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164419,
+      "num": 145504,
+      "word": "谢娜感谢陶昕然能来乘风",
+      "onboard_time": 1777108759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161027,
@@ -1283,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137403,
+      "num": 137403,
+      "word": "TES战胜NIP",
+      "onboard_time": 1777108520,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135177,
       "num": 135177,
       "word": "老人故意往幼儿园跑道扔玻璃碴",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1777104139,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131334,
+      "num": 426910,
+      "word": "三手烟会影响子代生长发育",
+      "onboard_time": 1777107140,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 131097,
@@ -1363,6 +1411,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 125252,
+      "num": 301541,
+      "word": "官方通报原村支书铲车埋村民事件",
+      "onboard_time": 1777108160,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125001,
       "num": 125001,
       "word": "7个信号说明你正在变瘦",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1777091360,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119028,
+      "num": 119028,
+      "word": "唐艺昕想念心愿便利贴了",
+      "onboard_time": 1777109179,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 118723,
@@ -1481,14 +1545,6 @@
       "onboard_time": 1777100659,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96874,
-      "num": 123978,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95855,
@@ -1587,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70033,
-      "num": 426910,
-      "word": "三手烟会影响子代生长发育",
-      "onboard_time": 1777107140,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 67514,
       "num": 176404,
       "word": "陈瑶直拍",
@@ -1619,6 +1667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61491,
+      "num": 301244,
+      "word": "大众9X上市1小时内锁单破万",
+      "onboard_time": 1777108040,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61016,
       "num": 397436,
       "word": "伊朗最高领袖或与普京会晤",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1777097120,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 60625,
+      "num": 301909,
+      "word": "中科院科技创新发展中心主任被查",
+      "onboard_time": 1777108881,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60611,
@@ -1697,6 +1761,14 @@
       "onboard_time": 1777096879,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49803,
+      "num": 291832,
+      "word": "原村支书用铲车掩埋村民被刑拘",
+      "onboard_time": 1777109119,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 48942,
