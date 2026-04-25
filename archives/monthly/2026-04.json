@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777115543483,
+  "endTime": 1777117801414,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -2819,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040084,
+      "num": 445518,
+      "word": "李艺彤 气死我了",
+      "onboard_time": 1777114640,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038396,
       "num": 1166143,
       "word": "灵魂摆渡电影全AI生成",
@@ -3289,6 +3297,14 @@
       "onboard_time": 1775089824,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 942451,
+      "num": 942451,
+      "word": "DeepSeekV4 尺度",
+      "onboard_time": 1777114399,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 941602,
@@ -7683,6 +7699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552912,
+      "num": 552912,
+      "word": "尚公主剧宣",
+      "onboard_time": 1777116078,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552754,
       "num": 432387,
       "word": "杨威两女儿勇夺全国冠军和季军",
@@ -11996,7 +12020,7 @@
     },
     {
       "raw_hot": 397033,
-      "num": 573062,
+      "num": 853235,
       "word": "美国富豪遭5头大象踩踏身亡",
       "onboard_time": 1777106540,
       "rank": 49,
@@ -13307,14 +13331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367431,
-      "num": 321014,
-      "word": "李艺彤 气死我了",
-      "onboard_time": 1777114640,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367249,
       "num": 367249,
       "word": "伊朗公布驱离美军舰视频",
@@ -14337,6 +14353,14 @@
       "onboard_time": 1775658443,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 342160,
+      "num": 265862,
+      "word": "王橹杰说有几天匮乏期",
+      "onboard_time": 1777115359,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 342156,
@@ -22147,14 +22171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221388,
-      "num": 318311,
-      "word": "DeepSeekV4 尺度",
-      "onboard_time": 1777114399,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 221384,
       "num": 221384,
       "word": "银行回应老人存10万变7万",
@@ -22321,6 +22337,14 @@
       "onboard_time": 1775872941,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219930,
+      "num": 280926,
+      "word": "被减肥背刺了",
+      "onboard_time": 1777112420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 219792,
@@ -24395,14 +24419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198440,
-      "num": 280926,
-      "word": "被减肥背刺了",
-      "onboard_time": 1777112420,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198433,
       "num": 475749,
       "word": "你为什么不吃呷哺呷哺了",
@@ -25851,14 +25867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185332,
-      "num": 185332,
-      "word": "王橹杰说有几天匮乏期",
-      "onboard_time": 1777115359,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185120,
       "num": 209559,
       "word": "一个百万亿级产业要诞生了",
@@ -27161,6 +27169,14 @@
       "onboard_time": 1775986760,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173521,
+      "num": 324299,
+      "word": "中国超70%石油靠进口却不慌",
+      "onboard_time": 1777114640,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173146,
@@ -28755,6 +28771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161695,
+      "num": 185313,
+      "word": "东方甄选中灿官宣离职",
+      "onboard_time": 1777117399,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161648,
       "num": 161648,
       "word": "被老鼠咬10天后确诊鼠咬热",
@@ -29065,6 +29089,14 @@
       "onboard_time": 1775720181,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159870,
+      "num": 159870,
+      "word": "明日方舟直播",
+      "onboard_time": 1777117340,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 159802,
@@ -32649,6 +32681,14 @@
       "onboard_time": 1776855321,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135188,
+      "num": 135188,
+      "word": "刘诗诗天坛女神",
+      "onboard_time": 1777117641,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 135177,
@@ -57243,6 +57283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50516,
+      "num": 161499,
+      "word": "收留心碎KSG粉丝",
+      "onboard_time": 1777117580,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50506,
       "num": 50506,
       "word": "勇士确定参加附加赛",
@@ -58033,14 +58081,6 @@
       "onboard_time": 1776079701,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46497,
-      "num": 324299,
-      "word": "中国超70%石油靠进口却不慌",
-      "onboard_time": 1777114640,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46478,
@@ -59001,6 +59041,14 @@
       "onboard_time": 1776963677,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40975,
+      "num": 1145354,
+      "word": "铁路部门将开行179趟旅游列车",
+      "onboard_time": 1777100000,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40952,
@@ -60955,6 +61003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28248,
+      "num": 159904,
+      "word": "江苏13太保均有命名海军大舰",
+      "onboard_time": 1777117520,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28241,
       "num": 260324,
       "word": "超千名游客被困玉龙雪山亲历者发声",
@@ -61745,14 +61801,6 @@
       "onboard_time": 1775359040,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24615,
-      "num": 1145354,
-      "word": "铁路部门将开行179趟旅游列车",
-      "onboard_time": 1777100000,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24595,

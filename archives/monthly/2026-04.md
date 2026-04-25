@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 19:12:23
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/25 19:50:01
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ AI艺人库 自掘坟墓（热度：1054358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%20%E6%B0%94%E6%AD%BB%E6%88%91%E4%BA%86%23" target="weibo">
+李艺彤 气死我了（热度：1040084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23" target="weibo">
 灵魂摆渡电影全AI生成（热度：1038396）
 </a>
@@ -2477,6 +2483,12 @@ KSG止步32强（热度：965159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%88%E4%BA%8E%E9%9C%B2%E5%87%BA%E7%8D%A0%E7%89%99%23" target="weibo">
 日本终于露出獠牙（热度：943254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DeepSeekV4%20%E5%B0%BA%E5%BA%A6%23" target="weibo">
+DeepSeekV4 尺度（热度：942451）
 </a>
 </li>
 
@@ -5775,6 +5787,12 @@ txt（热度：556202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%23" target="weibo">
+尚公主剧宣（热度：552912）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%8B%87%E5%A4%BA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E5%92%8C%E5%AD%A3%E5%86%9B%23" target="weibo">
 杨威两女儿勇夺全国冠军和季军（热度：552754）
 </a>
@@ -5993,24 +6011,6 @@ she合体爬山了（热度：550394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B0%E6%9B%A6%E8%96%87%E5%BA%86%E5%8A%9F%E5%AE%B4%E5%90%88%E5%BD%B1%23" target="weibo">
 张凌赫田曦薇庆功宴合影（热度：542243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%AF%86%E5%8D%95%E4%BD%8D%E4%BA%BA%E5%91%98%E4%B8%8B%E7%8F%AD%E9%97%B2%E8%81%8A%E8%87%B4%E6%B3%84%E5%AF%86%23" target="weibo">
-涉密单位人员下班闲聊致泄密（热度：542230）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%9E%E7%BB%AD3%E5%B1%8A%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-意大利连续3届无缘世界杯（热度：541150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%93%88%E9%87%91%E5%96%9C%E5%9B%9E%E5%BA%94%E4%B8%8E%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%A4%8D%E5%A9%9A%23" target="weibo">
-海哈金喜回应与李亚鹏复婚（热度：540408）
 </a>
 </li>
 
