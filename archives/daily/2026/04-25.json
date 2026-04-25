@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777117801414,
+  "endTime": 1777118513882,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926198,
+      "num": 437452,
+      "word": "浪姐二公直播",
+      "onboard_time": 1777116561,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883880,
       "num": 883880,
       "word": "恋与深空起诉派克特胜诉",
@@ -339,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 580119,
-      "num": 423850,
-      "word": "浪姐二公直播",
-      "onboard_time": 1777116561,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 604812,
+      "num": 604812,
+      "word": "尚公主剧宣",
+      "onboard_time": 1777116078,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 563155,
@@ -361,14 +369,6 @@
       "onboard_time": 1777091000,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552912,
-      "num": 552912,
-      "word": "尚公主剧宣",
-      "onboard_time": 1777116078,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 552754,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 542833,
-      "num": 327239,
+      "num": 334181,
       "word": "这段话反复杀死了我的懒惰",
       "onboard_time": 1777104619,
       "rank": 20,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448259,
+      "num": 853235,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 444726,
       "num": 444726,
       "word": "37岁男子4年虐杀超1500只猫",
@@ -537,14 +545,6 @@
       "onboard_time": 1777093100,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397033,
-      "num": 853235,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 390504,
@@ -635,19 +635,19 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 349123,
+      "num": 349123,
+      "word": "王橹杰说有几天匮乏期",
+      "onboard_time": 1777115359,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347485,
       "num": 306896,
       "word": "范丞丞踩到白鹿裙子",
       "onboard_time": 1777107021,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 342160,
-      "num": 265862,
-      "word": "王橹杰说有几天匮乏期",
-      "onboard_time": 1777115359,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -681,6 +681,14 @@
       "onboard_time": 1777100959,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329395,
+      "num": 185313,
+      "word": "东方甄选中灿官宣离职",
+      "onboard_time": 1777117399,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 328379,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 282941,
-      "num": 337765,
+      "num": 349596,
       "word": "张雪机车香港爆单遭同行诋毁",
       "onboard_time": 1777113020,
       "rank": 23,
@@ -833,6 +841,14 @@
       "onboard_time": 1777111520,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264447,
+      "num": 349312,
+      "word": "被减肥背刺了",
+      "onboard_time": 1777112420,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 262208,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238459,
+      "num": 238459,
+      "word": "刘诗诗天坛女神",
+      "onboard_time": 1777117641,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237967,
       "num": 199709,
       "word": "真的建议大家去过简约生活",
@@ -995,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219930,
-      "num": 280926,
-      "word": "被减肥背刺了",
-      "onboard_time": 1777112420,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217754,
       "num": 260414,
       "word": "斯玛特回应詹姆斯绝平三分",
@@ -1024,6 +1040,14 @@
       "word": "孙杨 保送再见爱人",
       "onboard_time": 1777028241,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211855,
+      "num": 185275,
+      "word": "怦然心动20岁",
+      "onboard_time": 1777116022,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1145,14 +1169,6 @@
       "onboard_time": 1777030582,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185275,
-      "num": 185275,
-      "word": "怦然心动20岁",
-      "onboard_time": 1777116022,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 185024,
@@ -1315,14 +1331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161695,
-      "num": 185313,
-      "word": "东方甄选中灿官宣离职",
-      "onboard_time": 1777117399,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161027,
       "num": 161027,
       "word": "华晨宇演唱会为何获批又叫停",
@@ -1467,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141306,
+      "num": 141306,
+      "word": "旅游很多次才知道的事",
+      "onboard_time": 1777118060,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138981,
       "num": 183877,
       "word": "王濛孙怡偷偷藏不住",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1777077318,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135188,
-      "num": 135188,
-      "word": "刘诗诗天坛女神",
-      "onboard_time": 1777117641,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 135177,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1777114341,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128886,
+      "num": 219732,
+      "word": "苏超",
+      "onboard_time": 1777116561,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 127689,
@@ -1747,6 +1763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109509,
+      "num": 141057,
+      "word": "伊朗立场比第一轮谈判更加强硬",
+      "onboard_time": 1777116022,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108384,
       "num": 144635,
       "word": "DeepSeekV4适配华为升腾",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1777105640,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 104336,
-      "num": 219732,
-      "word": "苏超",
-      "onboard_time": 1777116561,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 101686,
@@ -2059,6 +2075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45007,
+      "num": 1145354,
+      "word": "铁路部门将开行179趟旅游列车",
+      "onboard_time": 1777100000,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44860,
       "num": 283682,
       "word": "官方核查商家教唆游客喂怀孕母猴酒",
@@ -2083,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42846,
+      "num": 140280,
+      "word": "美国对伊朗实施最大程度经济封锁",
+      "onboard_time": 1777118481,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42312,
       "num": 125521,
       "word": "成都一小区起火居民发声",
@@ -2091,12 +2123,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 40975,
-      "num": 1145354,
-      "word": "铁路部门将开行179趟旅游列车",
-      "onboard_time": 1777100000,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 37346,
+      "num": 159904,
+      "word": "江苏13太保均有命名海军大舰",
+      "onboard_time": 1777117520,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 36925,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1777086920,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32879,
+      "num": 139042,
+      "word": "官方通报男子称救护车慢致幼子身亡",
+      "onboard_time": 1777118481,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 32821,
@@ -2155,14 +2195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28248,
-      "num": 159904,
-      "word": "江苏13太保均有命名海军大舰",
-      "onboard_time": 1777117520,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26644,
       "num": 126007,
       "word": "魏建军说汽车文化要从娃娃抓起",
@@ -2200,6 +2232,14 @@
       "word": "揭晓周云杰说的好空气带回家的答案",
       "onboard_time": 1777113621,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10963,
+      "num": 140782,
+      "word": "举报自己男子学位证或被收回撤销",
+      "onboard_time": 1777118481,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
