@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777111386596,
+  "endTime": 1777111996979,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1368577,
+      "num": 1368577,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1363238,
       "num": 993653,
       "word": "鹿晗 爷们儿要脸",
@@ -123,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1259565,
-      "num": 1259565,
-      "word": "花呗白条月付等面临重大调整",
-      "onboard_time": 1777107080,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 1279410,
+      "num": 397388,
+      "word": "李昀锐连孟子义名字都不提",
+      "onboard_time": 1777110500,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1223223,
@@ -243,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741979,
-      "num": 397388,
-      "word": "李昀锐连孟子义名字都不提",
-      "onboard_time": 1777110500,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 731740,
       "num": 731740,
       "word": "东方甄选 明明天权离职",
@@ -265,6 +265,14 @@
       "onboard_time": 1777082779,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 712799,
+      "num": 712799,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 711978,
@@ -312,14 +320,6 @@
       "word": "第一次见外国人误闯天家",
       "onboard_time": 1777086621,
       "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 570412,
-      "num": 570412,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -491,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398247,
-      "num": 398247,
+      "raw_hot": 403770,
+      "num": 403770,
       "word": "杨威两女儿勇夺全国冠军和季军",
       "onboard_time": 1777104079,
       "rank": 19,
@@ -563,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368900,
+      "num": 368900,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 357391,
       "num": 207152,
       "word": "来杯姬尾酒",
       "onboard_time": 1777074378,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356671,
-      "num": 356671,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 352674,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266017,
+      "num": 266017,
+      "word": "马嘉祺模仿emoji",
+      "onboard_time": 1777111520,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260483,
       "num": 260483,
       "word": "恋与深空",
@@ -867,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230054,
+      "num": 230054,
+      "word": "陈都灵鞠婧祎黑粉手写道歉信",
+      "onboard_time": 1777111459,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228009,
       "num": 228009,
       "word": "女子误饮毒饮死亡酒吧赔偿123万元",
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199501,
+      "num": 199501,
+      "word": "谢娜感谢陶昕然能来乘风",
+      "onboard_time": 1777108759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198364,
       "num": 180835,
       "word": "美国女子在印度遭民宿员工下药强奸",
@@ -1003,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192521,
-      "num": 192521,
-      "word": "谢娜感谢陶昕然能来乘风",
-      "onboard_time": 1777108759,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "叶一茜 最长的电影",
@@ -1049,6 +1065,22 @@
       "onboard_time": 1777038382,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184794,
+      "num": 145218,
+      "word": "白鹿秒出图",
+      "onboard_time": 1777111580,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179422,
+      "num": 179422,
+      "word": "近3公斤黄金被扣30年银行账目已毁",
+      "onboard_time": 1777107740,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178513,
@@ -1163,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164840,
+      "num": 164840,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161027,
       "num": 161027,
       "word": "华晨宇演唱会为何获批又叫停",
@@ -1211,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154333,
-      "num": 154333,
-      "word": "为什么很少听到工作狂这个标签了",
-      "onboard_time": 1777102159,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153728,
       "num": 153728,
       "word": "昀牵孟绕时间线",
@@ -1251,12 +1283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145469,
-      "num": 145469,
-      "word": "近3公斤黄金被扣30年银行账目已毁",
-      "onboard_time": 1777107740,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 146774,
+      "num": 146774,
+      "word": "萧蔷 节目组最严厉的母亲",
+      "onboard_time": 1777111639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 145089,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1777084580,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134960,
+      "num": 134960,
+      "word": "华晨宇把音乐节开成了乐园",
+      "onboard_time": 1777111038,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 132518,
@@ -1499,14 +1539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119895,
-      "num": 119895,
-      "word": "华晨宇把音乐节开成了乐园",
-      "onboard_time": 1777111038,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119028,
       "num": 119028,
       "word": "唐艺昕想念心愿便利贴了",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1777102701,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117366,
+      "num": 117366,
+      "word": "T1对战BRO",
+      "onboard_time": 1777111699,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116804,
@@ -1699,20 +1739,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 70473,
+      "num": 174794,
+      "word": "一根价值7.4万元的绣花针",
+      "onboard_time": 1777111459,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70384,
+      "num": 296173,
+      "word": "泰山游客为抢日出拍摄机位起冲突",
+      "onboard_time": 1777110680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68753,
       "num": 301244,
       "word": "大众9X上市1小时内锁单破万",
       "onboard_time": 1777108040,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68327,
-      "num": 296173,
-      "word": "泰山游客为抢日出拍摄机位起冲突",
-      "onboard_time": 1777110680,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67514,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1777073057,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30973,
+      "num": 199792,
+      "word": "3国回应马六甲海峡收费",
+      "onboard_time": 1777111699,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30843,

@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1777111386596,
+  "endTime": 1777111996979,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -811,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1368577,
+      "num": 1368577,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1363238,
       "num": 993653,
       "word": "鹿晗 爷们儿要脸",
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1279410,
+      "num": 397388,
+      "word": "李昀锐连孟子义名字都不提",
+      "onboard_time": 1777110500,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1273648,
       "num": 451661,
       "word": "宁德时代",
@@ -953,14 +969,6 @@
       "onboard_time": 1776841582,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1259565,
-      "num": 1259565,
-      "word": "花呗白条月付等面临重大调整",
-      "onboard_time": 1777107080,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 1250933,
@@ -2379,14 +2387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 741979,
-      "num": 397388,
-      "word": "李昀锐连孟子义名字都不提",
-      "onboard_time": 1777110500,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 741329,
       "num": 394372,
       "word": "肯德基酱料正式收费",
@@ -2577,6 +2577,14 @@
       "onboard_time": 1777019119,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712799,
+      "num": 712799,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 711978,
@@ -3393,14 +3401,6 @@
       "onboard_time": 1776653841,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 570412,
-      "num": 570412,
-      "word": "瘦人无法理解的吃饭习惯",
-      "onboard_time": 1777106179,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 570336,
@@ -4859,6 +4859,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 403770,
+      "num": 403770,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403377,
       "num": 158144,
       "word": "六姑姑要求与侄女分百万遗产胜诉",
@@ -4929,14 +4937,6 @@
       "onboard_time": 1777002860,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398247,
-      "num": 398247,
-      "word": "杨威两女儿勇夺全国冠军和季军",
-      "onboard_time": 1777104079,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 397784,
@@ -5331,6 +5331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 368900,
+      "num": 368900,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 368795,
       "num": 335890,
       "word": "朱珠把保洁服穿出高定感",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1777074378,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356671,
-      "num": 356671,
-      "word": "美国富豪遭5头大象踩踏身亡",
-      "onboard_time": 1777106540,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 355499,
@@ -6883,6 +6883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266017,
+      "num": 266017,
+      "word": "马嘉祺模仿emoji",
+      "onboard_time": 1777111520,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265220,
       "num": 265220,
       "word": "孟佳唱跳版心愿便利贴",
@@ -7713,6 +7721,14 @@
       "onboard_time": 1776702918,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 230054,
+      "num": 230054,
+      "word": "陈都灵鞠婧祎黑粉手写道歉信",
+      "onboard_time": 1777111459,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 229944,
@@ -8603,6 +8619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199501,
+      "num": 199501,
+      "word": "谢娜感谢陶昕然能来乘风",
+      "onboard_time": 1777108759,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199459,
       "num": 249941,
       "word": "婆婆守寡多年想找老伴儿媳发声",
@@ -8784,14 +8808,6 @@
       "word": "爱奇艺再回应AI艺人库",
       "onboard_time": 1776733641,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192521,
-      "num": 192521,
-      "word": "谢娜感谢陶昕然能来乘风",
-      "onboard_time": 1777108759,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -9019,6 +9035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184794,
+      "num": 145218,
+      "word": "白鹿秒出图",
+      "onboard_time": 1777111580,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184697,
       "num": 184697,
       "word": "虽然不能同时拥有一切",
@@ -9161,6 +9185,14 @@
       "onboard_time": 1776866962,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 179422,
+      "num": 179422,
+      "word": "近3公斤黄金被扣30年银行账目已毁",
+      "onboard_time": 1777107740,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179393,
@@ -9755,6 +9787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164840,
+      "num": 164840,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164563,
       "num": 160243,
       "word": "岳雨婷工作室道歉",
@@ -10171,14 +10211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154333,
-      "num": 154333,
-      "word": "为什么很少听到工作狂这个标签了",
-      "onboard_time": 1777102159,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154092,
       "num": 303843,
       "word": "Bin状态下滑原因",
@@ -10507,6 +10539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146774,
+      "num": 146774,
+      "word": "萧蔷 节目组最严厉的母亲",
+      "onboard_time": 1777111639,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146754,
       "num": 146754,
       "word": "伊朗发布拦截2艘货轮视频",
@@ -10521,14 +10561,6 @@
       "onboard_time": 1776599780,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145469,
-      "num": 145469,
-      "word": "近3公斤黄金被扣30年银行账目已毁",
-      "onboard_time": 1777107740,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145184,
@@ -10857,6 +10889,14 @@
       "onboard_time": 1777084580,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134960,
+      "num": 134960,
+      "word": "华晨宇把音乐节开成了乐园",
+      "onboard_time": 1777111038,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 134779,
@@ -11483,14 +11523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119895,
-      "num": 119895,
-      "word": "华晨宇把音乐节开成了乐园",
-      "onboard_time": 1777111038,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119648,
       "num": 451136,
       "word": "切尔西解雇罗塞尼尔",
@@ -11585,6 +11617,14 @@
       "onboard_time": 1777102701,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117366,
+      "num": 117366,
+      "word": "T1对战BRO",
+      "onboard_time": 1777111699,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 117348,
@@ -12979,6 +13019,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70473,
+      "num": 174794,
+      "word": "一根价值7.4万元的绣花针",
+      "onboard_time": 1777111459,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70384,
+      "num": 296173,
+      "word": "泰山游客为抢日出拍摄机位起冲突",
+      "onboard_time": 1777110680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70074,
       "num": 311908,
       "word": "沙溢玩嗨了李斌有诚意",
@@ -13065,14 +13121,6 @@
       "onboard_time": 1776704716,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 68327,
-      "num": 296173,
-      "word": "泰山游客为抢日出拍摄机位起冲突",
-      "onboard_time": 1777110680,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68157,
@@ -14401,6 +14449,14 @@
       "onboard_time": 1777073057,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30973,
+      "num": 199792,
+      "word": "3国回应马六甲海峡收费",
+      "onboard_time": 1777111699,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30843,
