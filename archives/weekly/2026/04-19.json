@@ -1,6 +1,6 @@
 {
   "startTime": 1776528083478,
-  "endTime": 1777074595407,
+  "endTime": 1777075448754,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1485701,
+      "num": 1485701,
+      "word": "浪姐 赢了被淘汰",
+      "onboard_time": 1777042583,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1484208,
       "num": 1484208,
       "word": "父母再生7弟20岁小伙直言扛不动",
@@ -777,14 +785,6 @@
       "onboard_time": 1776592282,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1304934,
-      "num": 1304934,
-      "word": "浪姐 赢了被淘汰",
-      "onboard_time": 1777042583,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1301280,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1776670522,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 961113,
+      "num": 656273,
+      "word": "看完孙杨直接内伤失眠了",
+      "onboard_time": 1777073837,
+      "rank": 3,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 959540,
@@ -2281,14 +2289,6 @@
       "onboard_time": 1776951922,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 727228,
-      "num": 561538,
-      "word": "看完孙杨直接内伤失眠了",
-      "onboard_time": 1777073837,
-      "rank": 3,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 725392,
@@ -3457,6 +3457,14 @@
       "onboard_time": 1776661642,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 513221,
+      "num": 205055,
+      "word": "医生将2粒药打成21粒患者索赔10万",
+      "onboard_time": 1777074138,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 511637,
@@ -4635,6 +4643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 387956,
+      "num": 204779,
+      "word": "官方回应华晨宇演唱会选址质疑",
+      "onboard_time": 1777053795,
+      "rank": 23,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 387705,
       "num": 387705,
       "word": "孙杨 张豆豆",
@@ -4656,6 +4672,14 @@
       "word": "鞠婧祎粉丝保密协议到期了",
       "onboard_time": 1777028662,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385163,
+      "num": 203533,
+      "word": "傅首尔曾8个月减重26斤",
+      "onboard_time": 1777073898,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4745,6 +4769,14 @@
       "onboard_time": 1776687321,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 378820,
+      "num": 888409,
+      "word": "全国首个伴侣动物立法草案被删除",
+      "onboard_time": 1777044140,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377492,
@@ -5123,14 +5155,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 342425,
-      "num": 786545,
-      "word": "全国首个伴侣动物立法草案被删除",
-      "onboard_time": 1777044140,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342343,
       "num": 368142,
       "word": "金银突发跳水",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1776564140,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 339521,
-      "num": 205055,
-      "word": "医生将2粒药打成21粒患者索赔10万",
-      "onboard_time": 1777074138,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 338861,
@@ -5331,8 +5347,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325510,
-      "num": 325510,
+      "raw_hot": 326447,
+      "num": 326447,
       "word": "以色列防长威胁将伊朗打回石器时期",
       "onboard_time": 1777062014,
       "rank": 23,
@@ -5417,6 +5433,14 @@
       "onboard_time": 1776787579,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321407,
+      "num": 180154,
+      "word": "孙杨的情商",
+      "onboard_time": 1777073898,
+      "rank": 30,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 320830,
@@ -5619,6 +5643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310189,
+      "num": 196200,
+      "word": "深圳 吸烟",
+      "onboard_time": 1777074378,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309910,
       "num": 236410,
       "word": "幼童被父亲女友虐死前说我爱妈妈",
@@ -5657,14 +5689,6 @@
       "onboard_time": 1776562761,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 308955,
-      "num": 204779,
-      "word": "官方回应华晨宇演唱会选址质疑",
-      "onboard_time": 1777053795,
-      "rank": 23,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 308699,
@@ -6099,6 +6123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 279572,
+      "num": 279572,
+      "word": "东方甄选 明明天权离职",
+      "onboard_time": 1777073958,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 279454,
       "num": 297969,
       "word": "男子痴呆与20年前高危性行为史有关",
@@ -6249,14 +6281,6 @@
       "onboard_time": 1776562880,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272294,
-      "num": 203533,
-      "word": "傅首尔曾8个月减重26斤",
-      "onboard_time": 1777073898,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 269445,
@@ -7987,14 +8011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196200,
-      "num": 196200,
-      "word": "深圳 吸烟",
-      "onboard_time": 1777074378,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195527,
       "num": 195527,
       "word": "吴千语晒照抱婴儿喂奶",
@@ -8913,14 +8929,6 @@
       "onboard_time": 1776827841,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166249,
-      "num": 160774,
-      "word": "孙杨的情商",
-      "onboard_time": 1777073898,
-      "rank": 30,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 166200,
@@ -10003,6 +10011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132518,
+      "num": 132518,
+      "word": "丁俊晖4比4赵心童",
+      "onboard_time": 1777074857,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132220,
       "num": 132220,
       "word": "洪天明回应爸爸洪金宝暴瘦",
@@ -10065,14 +10081,6 @@
       "onboard_time": 1776692422,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 131266,
-      "num": 197302,
-      "word": "东方甄选 明明天权离职",
-      "onboard_time": 1777073958,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 130944,
@@ -13107,6 +13115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31106,
+      "num": 169714,
+      "word": "北京车展有哪些值得期待新车",
+      "onboard_time": 1777073057,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30709,
       "num": 50086,
       "word": "刘宇宁片尾致谢",
@@ -13209,14 +13225,6 @@
       "onboard_time": 1776689422,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27910,
-      "num": 78110,
-      "word": "北京车展有哪些值得期待新车",
-      "onboard_time": 1777073057,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 27809,
