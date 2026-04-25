@@ -1,6 +1,6 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777103614557,
+  "endTime": 1777107824643,
   "band_list": [
     {
       "raw_hot": 4748782,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3436604,
-      "num": 1044068,
+      "num": 1081334,
       "word": "第一次对AI感到恐惧",
       "onboard_time": 1777091602,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1777041084,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2072563,
+      "num": 1082465,
+      "word": "异父异母但双胞胎",
+      "onboard_time": 1777104439,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1960945,
@@ -139,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1029558,
+      "num": 418334,
+      "word": "三手烟",
+      "onboard_time": 1777103959,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 965159,
       "num": 965159,
       "word": "KSG止步32强",
@@ -179,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 867871,
+      "num": 867871,
+      "word": "老舅在五哈镜头前道歉",
+      "onboard_time": 1777104860,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 867194,
       "num": 564136,
       "word": "陶昕然骄傲拒撕节目组",
@@ -211,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 711978,
+      "num": 711978,
+      "word": "花少导演在约张凌赫田曦薇",
+      "onboard_time": 1777102280,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691627,
       "num": 416906,
       "word": "霍思燕的蒙古獒又夺冠了",
       "onboard_time": 1777084159,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686130,
-      "num": 686130,
-      "word": "花少导演在约张凌赫田曦薇",
-      "onboard_time": 1777102280,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 685785,
@@ -267,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544949,
+      "num": 408469,
+      "word": "陶昕然发长文回应淘汰",
+      "onboard_time": 1777105640,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536440,
+      "num": 401843,
+      "word": "李兰迪线下美成这样了",
+      "onboard_time": 1777107021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536190,
       "num": 669681,
       "word": "张军",
@@ -283,6 +323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 506901,
+      "num": 327239,
+      "word": "这段话反复杀死了我的懒惰",
+      "onboard_time": 1777104619,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 506096,
       "num": 335389,
       "word": "唐艺昕离开李小冉后成了李小冉",
@@ -297,6 +345,14 @@
       "onboard_time": 1777092439,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 484214,
+      "num": 398927,
+      "word": "王濛隔空喊话黎明",
+      "onboard_time": 1777103599,
+      "rank": 16,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 475062,
@@ -347,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429014,
+      "num": 429014,
+      "word": "过了25就不敢甩头了",
+      "onboard_time": 1777101139,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415886,
       "num": 415886,
       "word": "华晨宇演唱会当地民众发声",
@@ -379,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391227,
+      "num": 391227,
+      "word": "五一原来是放假七天的",
+      "onboard_time": 1777106840,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390504,
       "num": 306410,
       "word": "曝穆祉丞确认将进组十日终焉",
       "onboard_time": 1777094780,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388061,
+      "num": 1111603,
+      "word": "警方称黄金被扣30年赔偿已过时效",
+      "onboard_time": 1777099520,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387956,
@@ -457,6 +537,22 @@
       "onboard_time": 1777033342,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 347485,
+      "num": 306896,
+      "word": "范丞丞踩到白鹿裙子",
+      "onboard_time": 1777107021,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339987,
+      "num": 339987,
+      "word": "杨威两女儿勇夺全国冠军和季军",
+      "onboard_time": 1777104079,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 338640,
@@ -569,6 +665,14 @@
       "onboard_time": 1777089081,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284722,
+      "num": 284722,
+      "word": "花呗白条月付等面临重大调整",
+      "onboard_time": 1777107080,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 279300,
@@ -723,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228503,
+      "num": 228503,
+      "word": "娜扎前经纪人回应离职",
+      "onboard_time": 1777107200,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228009,
       "num": 228009,
       "word": "女子误饮毒饮死亡酒吧赔偿123万元",
@@ -755,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219951,
-      "num": 272424,
-      "word": "警方称黄金被扣30年赔偿已过时效",
-      "onboard_time": 1777099520,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217754,
       "num": 260414,
       "word": "斯玛特回应詹姆斯绝平三分",
@@ -777,6 +881,14 @@
       "onboard_time": 1777028360,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215888,
+      "num": 215888,
+      "word": "瘦人无法理解的吃饭习惯",
+      "onboard_time": 1777106179,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 214439,
@@ -905,14 +1017,6 @@
       "onboard_time": 1777038382,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181661,
-      "num": 181661,
-      "word": "过了25就不敢甩头了",
-      "onboard_time": 1777101139,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 178513,
@@ -1059,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154333,
+      "num": 154333,
+      "word": "为什么很少听到工作狂这个标签了",
+      "onboard_time": 1777102159,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153728,
       "num": 153728,
       "word": "昀牵孟绕时间线",
@@ -1089,14 +1201,6 @@
       "onboard_time": 1777094299,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146942,
-      "num": 146942,
-      "word": "为什么很少听到工作狂这个标签了",
-      "onboard_time": 1777102159,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 145089,
@@ -1195,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132425,
+      "num": 125869,
+      "word": "佳偶天成开播2小时登顶热播榜",
+      "onboard_time": 1777104139,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131097,
       "num": 131097,
       "word": "赵子琪为浪姐推掉将门独后",
@@ -1227,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125693,
+      "num": 149688,
+      "word": "昆明长水国际机场内漏水成帘",
+      "onboard_time": 1777105399,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125622,
       "num": 125622,
       "word": "陶昕然 天选古人",
@@ -1257,6 +1377,14 @@
       "onboard_time": 1777103420,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124085,
+      "num": 124085,
+      "word": "林钟勋说王楚钦是左手特例",
+      "onboard_time": 1777106120,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122450,
@@ -1323,6 +1451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106797,
+      "num": 229517,
+      "word": "启境GT7如何定义安全感",
+      "onboard_time": 1777105640,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101686,
       "num": 179892,
       "word": "12306回应家长和孩子相隔14个车厢",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1777100659,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96874,
+      "num": 123978,
+      "word": "美国富豪遭5头大象踩踏身亡",
+      "onboard_time": 1777106540,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95855,
@@ -1441,6 +1585,14 @@
       "onboard_time": 1777088899,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70033,
+      "num": 426910,
+      "word": "三手烟会影响子代生长发育",
+      "onboard_time": 1777107140,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 67514,
@@ -1555,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47902,
+      "num": 145850,
+      "word": "北京车展奥迪E7X那张床出圈了",
+      "onboard_time": 1777104321,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44860,
       "num": 283682,
       "word": "官方核查商家教唆游客喂怀孕母猴酒",
@@ -1611,6 +1771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29851,
+      "num": 1082926,
+      "word": "疾风骤雨中三枚历史首金光芒闪耀",
+      "onboard_time": 1777100480,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29294,
       "num": 55879,
       "word": "斯诺克世锦赛",
@@ -1627,12 +1795,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24311,
-      "num": 1057219,
-      "word": "疾风骤雨中三枚历史首金光芒闪耀",
-      "onboard_time": 1777100480,
-      "rank": 2,
-      "category": "体育"
+      "raw_hot": 26644,
+      "num": 126007,
+      "word": "魏建军说汽车文化要从娃娃抓起",
+      "onboard_time": 1777104321,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 23383,
