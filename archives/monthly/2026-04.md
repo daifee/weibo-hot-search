@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/26 07:05:59
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/26 07:48:30
 </p>
 </blockquote>
 <p>
@@ -3093,6 +3093,12 @@ SEVENTEEN全员续约（热度：850827）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23" target="weibo">
+副所长为完成任务设计让6人吸毒（热度：840123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%9D%E5%89%91%E5%BC%A0%E5%85%83%E8%8B%B1%20%E6%BC%94%E5%91%98%E8%84%B8%E5%92%8C%E7%88%B1%E8%B1%86%E8%84%B8%23" target="weibo">
 朴宝剑张元英 演员脸和爱豆脸（热度：839497）
 </a>
@@ -3125,12 +3131,6 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8CZ7%E5%A4%A7%E5%AE%9A%23" target="weibo">
 尚界Z7大定（热度：834493）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23" target="weibo">
-副所长为完成任务设计让6人吸毒（热度：833835）
 </a>
 </li>
 
