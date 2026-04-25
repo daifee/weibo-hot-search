@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777147366494,
+  "endTime": 1777150261205,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -507,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36205,
+      "num": 191767,
+      "word": "不再依赖算长大吗",
+      "onboard_time": 1777145175,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 35459,
       "num": 237829,
       "word": "雄塑科技一季净利暴增68902%",
@@ -515,12 +523,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 32775,
-      "num": 191767,
-      "word": "不再依赖算长大吗",
-      "onboard_time": 1777145175,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 33569,
+      "num": 43940,
+      "word": "五一快点来我撑不住了",
+      "onboard_time": 1777148294,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 31859,
@@ -555,7 +563,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26722,
+      "raw_hot": 26859,
       "num": 103632,
       "word": "2026PEL春季赛",
       "onboard_time": 1777143315,
