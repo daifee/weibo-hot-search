@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 20:01:53
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/25 21:20:24
 </p>
 </blockquote>
 <p>
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%23" target="weibo">
 春晚（热度：20885446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7%23" target="weibo">
+官方通报女子劝阻男子吸烟引争执（热度：19818554）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%23" target="weibo">
 爱泼斯坦（热度：2187136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23sbti%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95%23" target="weibo">
-sbti人格测试（热度：2169731）
 </a>
 </li>
 

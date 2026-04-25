@@ -1,0 +1,410 @@
+{
+  "runTime": 1777123224233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19818554,
+        "num": 20652490,
+        "word": "官方通报女子劝阻男子吸烟引争执",
+        "onboard_time": 1777119620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1550179,
+        "num": 2162349,
+        "word": "达拉崩吧",
+        "onboard_time": 1777119561,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21733,
+        "num": 1761760,
+        "word": "新业态新赛道催生新职业新岗位",
+        "onboard_time": 1777122744,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1545721,
+        "num": 1545721,
+        "word": "李昀锐连孟子义名字都不提",
+        "onboard_time": 1777110500,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1422635,
+        "num": 1422635,
+        "word": "深圳公交站台吸烟男子被罚款",
+        "onboard_time": 1777119922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1261800,
+        "num": 1261800,
+        "word": "张慧雯一张嘴我就知道开麦了",
+        "onboard_time": 1777120820,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801719,
+        "num": 801719,
+        "word": "青岛警方致歉",
+        "onboard_time": 1777119322,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 569585,
+        "num": 569585,
+        "word": "东方甄选明明离职原因",
+        "onboard_time": 1777121544,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 563403,
+        "num": 563403,
+        "word": "花呗白条月付等面临重大调整",
+        "onboard_time": 1777107080,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247946,
+        "num": 562414,
+        "word": "苏超",
+        "onboard_time": 1777116561,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1204289,
+        "num": 558671,
+        "word": "篇章好听",
+        "onboard_time": 1777122563,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1078314,
+        "num": 555652,
+        "word": "异父异母但双胞胎",
+        "onboard_time": 1777104439,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 954418,
+        "num": 552136,
+        "word": "孟子义李昀锐下定决心拆cp的原因",
+        "onboard_time": 1777091180,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827097,
+        "num": 548164,
+        "word": "王濛永远被甜妹拿捏",
+        "onboard_time": 1777122141,
+        "rank": 13,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 595536,
+        "num": 545575,
+        "word": "女子被婚外情丈夫杀害儿子发声",
+        "onboard_time": 1777120462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808435,
+        "num": 543147,
+        "word": "浪姐二公直播",
+        "onboard_time": 1777116561,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678997,
+        "num": 538540,
+        "word": "刘诗诗天坛女神",
+        "onboard_time": 1777117641,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537965,
+        "num": 537965,
+        "word": "瘦人无法理解的吃饭习惯",
+        "onboard_time": 1777106179,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 782829,
+        "num": 530998,
+        "word": "曾沛慈好帅",
+        "onboard_time": 1777119381,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26672,
+        "num": 526300,
+        "word": "律师回应15岁女生被杀亲属放弃赔偿",
+        "onboard_time": 1777122084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704752,
+        "num": 519777,
+        "word": "孤单北半球",
+        "onboard_time": 1777121123,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566986,
+        "num": 510843,
+        "word": "李小冉 达拉崩吧比心愿便利贴简单",
+        "onboard_time": 1777119801,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503036,
+        "num": 503036,
+        "word": "五一原来是放假七天的",
+        "onboard_time": 1777106840,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498578,
+        "num": 498578,
+        "word": "曾沛慈一直在修音响",
+        "onboard_time": 1777122684,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459243,
+        "num": 459243,
+        "word": "李艺彤 气死我了",
+        "onboard_time": 1777114640,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382945,
+        "num": 382945,
+        "word": "旅游很多次才知道的事",
+        "onboard_time": 1777118060,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 393356,
+        "num": 382855,
+        "word": "张月团887票",
+        "onboard_time": 1777123044,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362665,
+        "num": 362665,
+        "word": "这段话反复杀死了我的懒惰",
+        "onboard_time": 1777104619,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333464,
+        "num": 333464,
+        "word": "虞书欣黑银眼妆",
+        "onboard_time": 1777122444,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208340,
+        "num": 328041,
+        "word": "美国富豪遭5头大象踩踏身亡",
+        "onboard_time": 1777106540,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327797,
+        "num": 327797,
+        "word": "杨威两女儿勇夺全国冠军和季军",
+        "onboard_time": 1777104079,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320070,
+        "num": 320070,
+        "word": "尚公主剧宣",
+        "onboard_time": 1777116078,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279200,
+        "num": 279200,
+        "word": "周杰伦疑2400万购入澳百年庄园",
+        "onboard_time": 1777121123,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251005,
+        "num": 251005,
+        "word": "东方甄选中灿官宣离职",
+        "onboard_time": 1777117399,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254721,
+        "num": 245013,
+        "word": "尚公主",
+        "onboard_time": 1777121604,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234825,
+        "num": 234825,
+        "word": "鹿晗 爷们儿要脸",
+        "onboard_time": 1777099638,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165953,
+        "num": 225232,
+        "word": "被减肥背刺了",
+        "onboard_time": 1777112420,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222205,
+        "num": 222205,
+        "word": "老舅在五哈镜头前道歉",
+        "onboard_time": 1777104860,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48361,
+        "num": 218289,
+        "word": "伊能静易立竞都选奕境",
+        "onboard_time": 1777122264,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160844,
+        "num": 217917,
+        "word": "中国超70%石油靠进口却不慌",
+        "onboard_time": 1777114640,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217623,
+        "num": 217623,
+        "word": "杨紫在片场跳了误闯天家",
+        "onboard_time": 1777114341,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207911,
+        "num": 207911,
+        "word": "王橹杰说有几天匮乏期",
+        "onboard_time": 1777115359,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119162,
+        "num": 205718,
+        "word": "西安一职校学生被同学一刀捅进ICU",
+        "onboard_time": 1777122684,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203911,
+        "num": 203911,
+        "word": "Angelababy两套高定",
+        "onboard_time": 1777119922,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192517,
+        "num": 192517,
+        "word": "花少导演在约张凌赫田曦薇",
+        "onboard_time": 1777102280,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118784,
+        "num": 191829,
+        "word": "美国对伊朗实施最大程度经济封锁",
+        "onboard_time": 1777118481,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16911,
+        "num": 186549,
+        "word": "数读一季度消费市场成绩单",
+        "onboard_time": 1777122384,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117438,
+        "num": 182462,
+        "word": "发现变胖真的太廉价了",
+        "onboard_time": 1777097060,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 179259,
+        "word": "大喊不用结账的摊主爆单了",
+        "onboard_time": 1777113020,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95769,
+        "num": 175729,
+        "word": "剑来第二季大结局",
+        "onboard_time": 1777114579,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同通伦互致贺电#"
+    }
+  }
+}

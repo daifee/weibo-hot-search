@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777118513882,
+  "endTime": 1777123224233,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -89,6 +89,14 @@
       "onboard_time": 1768651641,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19818554,
+      "num": 20652490,
+      "word": "官方通报女子劝阻男子吸烟引争执",
+      "onboard_time": 1777119620,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16741456,
@@ -2172,7 +2180,7 @@
     },
     {
       "raw_hot": 2282724,
-      "num": 837197,
+      "num": 1545721,
       "word": "李昀锐连孟子义名字都不提",
       "onboard_time": 1777110500,
       "rank": 15,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769866882,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2169731,
-      "num": 423960,
-      "word": "sbti人格测试",
-      "onboard_time": 1775776338,
-      "rank": 10,
-      "category": "情感"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1777050441555,
-  "endTime": 1777118513882,
+  "endTime": 1777123224233,
   "band_list": [
+    {
+      "raw_hot": 19818554,
+      "num": 20652490,
+      "word": "官方通报女子劝阻男子吸烟引争执",
+      "onboard_time": 1777119620,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 4748782,
       "num": 1089478,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2282724,
-      "num": 837197,
+      "num": 1545721,
       "word": "李昀锐连孟子义名字都不提",
       "onboard_time": 1777110500,
       "rank": 15,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1550179,
+      "num": 2162349,
+      "word": "达拉崩吧",
+      "onboard_time": 1777119561,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1509986,
       "num": 458800,
       "word": "深圳公交站劝烟冲突当事人发声",
@@ -105,6 +121,14 @@
       "onboard_time": 1777085601,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1422635,
+      "num": 1422635,
+      "word": "深圳公交站台吸烟男子被罚款",
+      "onboard_time": 1777119922,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1368577,
@@ -139,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261800,
+      "num": 1261800,
+      "word": "张慧雯一张嘴我就知道开麦了",
+      "onboard_time": 1777120820,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1223223,
       "num": 1223223,
       "word": "羽协主席张军失联",
       "onboard_time": 1777046780,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1204289,
+      "num": 558671,
+      "word": "篇章好听",
+      "onboard_time": 1777122563,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1201093,
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 1040084,
-      "num": 445518,
+      "num": 459243,
       "word": "李艺彤 气死我了",
       "onboard_time": 1777114640,
       "rank": 39,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 926198,
-      "num": 437452,
+      "num": 543147,
       "word": "浪姐二公直播",
       "onboard_time": 1777116561,
       "rank": 13,
@@ -257,6 +297,22 @@
       "onboard_time": 1777086259,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 827097,
+      "num": 548164,
+      "word": "王濛永远被甜妹拿捏",
+      "onboard_time": 1777122141,
+      "rank": 13,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 801719,
+      "num": 801719,
+      "word": "青岛警方致歉",
+      "onboard_time": 1777119322,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 791043,
@@ -283,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 782829,
+      "num": 530998,
+      "word": "曾沛慈好帅",
+      "onboard_time": 1777119381,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731740,
       "num": 731740,
       "word": "东方甄选 明明天权离职",
@@ -304,6 +368,14 @@
       "word": "花少导演在约张凌赫田曦薇",
       "onboard_time": 1777102280,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 704752,
+      "num": 519777,
+      "word": "孤单北半球",
+      "onboard_time": 1777121123,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -331,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678997,
+      "num": 538540,
+      "word": "刘诗诗天坛女神",
+      "onboard_time": 1777117641,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 641517,
       "num": 520659,
       "word": "陶昕然发长文回应淘汰",
@@ -353,6 +433,30 @@
       "onboard_time": 1777116078,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595536,
+      "num": 545575,
+      "word": "女子被婚外情丈夫杀害儿子发声",
+      "onboard_time": 1777120462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569585,
+      "num": 569585,
+      "word": "东方甄选明明离职原因",
+      "onboard_time": 1777121544,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 566986,
+      "num": 510843,
+      "word": "李小冉 达拉崩吧比心愿便利贴简单",
+      "onboard_time": 1777119801,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 563155,
@@ -388,7 +492,7 @@
     },
     {
       "raw_hot": 542833,
-      "num": 334181,
+      "num": 362665,
       "word": "这段话反复杀死了我的懒惰",
       "onboard_time": 1777104619,
       "rank": 20,
@@ -433,6 +537,14 @@
       "onboard_time": 1777092439,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 498578,
+      "num": 498578,
+      "word": "曾沛慈一直在修音响",
+      "onboard_time": 1777122684,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 484214,
@@ -547,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393356,
+      "num": 382855,
+      "word": "张月团887票",
+      "onboard_time": 1777123044,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390504,
       "num": 306410,
       "word": "曝穆祉丞确认将进组十日终焉",
@@ -585,6 +705,14 @@
       "onboard_time": 1777073898,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382945,
+      "num": 382945,
+      "word": "旅游很多次才知道的事",
+      "onboard_time": 1777118060,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 379535,
@@ -667,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 333464,
+      "num": 333464,
+      "word": "虞书欣黑银眼妆",
+      "onboard_time": 1777122444,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332261,
       "num": 294810,
       "word": "迪丽热巴腿部肌肉线条",
@@ -684,7 +820,7 @@
     },
     {
       "raw_hot": 329395,
-      "num": 185313,
+      "num": 251005,
       "word": "东方甄选中灿官宣离职",
       "onboard_time": 1777117399,
       "rank": 35,
@@ -803,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279200,
+      "num": 279200,
+      "word": "周杰伦疑2400万购入澳百年庄园",
+      "onboard_time": 1777121123,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275628,
       "num": 400908,
       "word": "东方甄选感谢明明天权",
@@ -907,12 +1051,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254721,
+      "num": 245013,
+      "word": "尚公主",
+      "onboard_time": 1777121604,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247987,
       "num": 247987,
       "word": "翁虹回应女儿被称最美星二代",
       "onboard_time": 1777089440,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247946,
+      "num": 562414,
+      "word": "苏超",
+      "onboard_time": 1777116561,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 240889,
@@ -929,14 +1089,6 @@
       "onboard_time": 1777101081,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238459,
-      "num": 238459,
-      "word": "刘诗诗天坛女神",
-      "onboard_time": 1777117641,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 237967,
@@ -1073,6 +1225,14 @@
       "onboard_time": 1777102340,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203911,
+      "num": 203911,
+      "word": "Angelababy两套高定",
+      "onboard_time": 1777119922,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202627,
@@ -1475,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141306,
-      "num": 141306,
-      "word": "旅游很多次才知道的事",
-      "onboard_time": 1777118060,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 138981,
       "num": 183877,
       "word": "王濛孙怡偷偷藏不住",
@@ -1500,7 +1652,7 @@
     },
     {
       "raw_hot": 138745,
-      "num": 138745,
+      "num": 175729,
       "word": "剑来第二季大结局",
       "onboard_time": 1777114579,
       "rank": 47,
@@ -1577,14 +1729,6 @@
       "onboard_time": 1777114341,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128886,
-      "num": 219732,
-      "word": "苏超",
-      "onboard_time": 1777116561,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 127689,
@@ -1699,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119162,
+      "num": 205718,
+      "word": "西安一职校学生被同学一刀捅进ICU",
+      "onboard_time": 1777122684,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119028,
       "num": 119028,
       "word": "唐艺昕想念心愿便利贴了",
@@ -1712,6 +1864,14 @@
       "word": "3国回应马六甲海峡收费",
       "onboard_time": 1777111699,
       "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118784,
+      "num": 191829,
+      "word": "美国对伊朗实施最大程度经济封锁",
+      "onboard_time": 1777118481,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -2067,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48361,
+      "num": 218289,
+      "word": "伊能静易立竞都选奕境",
+      "onboard_time": 1777122264,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47902,
       "num": 145850,
       "word": "北京车展奥迪E7X那张床出圈了",
@@ -2105,14 +2273,6 @@
       "onboard_time": 1777035864,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42846,
-      "num": 140280,
-      "word": "美国对伊朗实施最大程度经济封锁",
-      "onboard_time": 1777118481,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42312,
@@ -2195,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26672,
+      "num": 526300,
+      "word": "律师回应15岁女生被杀亲属放弃赔偿",
+      "onboard_time": 1777122084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26644,
       "num": 126007,
       "word": "魏建军说汽车文化要从娃娃抓起",
@@ -2211,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21733,
+      "num": 1761760,
+      "word": "新业态新赛道催生新职业新岗位",
+      "onboard_time": 1777122744,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17692,
       "num": 968710,
       "word": "开局之年我国经济运行起步有力",
@@ -2224,6 +2400,14 @@
       "word": "遇见不一样的江苏",
       "onboard_time": 1777083799,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16911,
+      "num": 186549,
+      "word": "数读一季度消费市场成绩单",
+      "onboard_time": 1777122384,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
