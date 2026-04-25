@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777143881601,
+  "endTime": 1777145198056,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58022,
+      "num": 215900,
+      "word": "范丞丞你要毁了李昀锐吗",
+      "onboard_time": 1777143795,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49898,
       "num": 424228,
       "word": "在网咖做陪玩的小猫",
@@ -499,14 +507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 37979,
-      "num": 215900,
-      "word": "范丞丞你要毁了李昀锐吗",
-      "onboard_time": 1777143795,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35459,
       "num": 237829,
       "word": "雄塑科技一季净利暴增68902%",
@@ -545,6 +545,22 @@
       "onboard_time": 1777141635,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26172,
+      "num": 193153,
+      "word": "伊朗武装部队强硬回应美军",
+      "onboard_time": 1777140975,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21343,
+      "num": 191767,
+      "word": "不再依赖算长大吗",
+      "onboard_time": 1777145175,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1245,
