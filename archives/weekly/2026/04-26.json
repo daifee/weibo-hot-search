@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777225704931,
+  "endTime": 1777226752618,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2705,6 +2705,14 @@
       "onboard_time": 1777214543,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37278,
+      "num": 105818,
+      "word": "浴室除霉菌 霉菌视角",
+      "onboard_time": 1777226476,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 36507,
