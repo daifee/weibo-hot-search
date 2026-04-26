@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777230407615,
+  "endTime": 1777231718639,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -48283,6 +48283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84583,
+      "num": 105818,
+      "word": "浴室除霉菌 霉菌视角",
+      "onboard_time": 1777226476,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 84581,
       "num": 84581,
       "word": "奔驰一季度中国销量暴跌27%",
@@ -55697,14 +55705,6 @@
       "onboard_time": 1775480722,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66984,
-      "num": 105818,
-      "word": "浴室除霉菌 霉菌视角",
-      "onboard_time": 1777226476,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 66979,
@@ -64345,6 +64345,14 @@
       "onboard_time": 1775443041,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25810,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 25714,

@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777230407615,
+  "endTime": 1777231718639,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2395,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84583,
+      "num": 105818,
+      "word": "浴室除霉菌 霉菌视角",
+      "onboard_time": 1777226476,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82454,
       "num": 419637,
       "word": "中国超70%石油靠进口却不慌",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1777161378,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 66984,
-      "num": 105818,
-      "word": "浴室除霉菌 霉菌视角",
-      "onboard_time": 1777226476,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 66897,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1777143315,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25810,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 24597,
