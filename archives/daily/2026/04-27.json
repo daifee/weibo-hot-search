@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777240988067,
+  "endTime": 1777243774946,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -219,20 +219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271677,
+      "num": 271677,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241043,
       "num": 241043,
       "word": "人类马拉松破二",
       "onboard_time": 1777200680,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236688,
-      "num": 236688,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233088,
@@ -273,6 +273,22 @@
       "onboard_time": 1777212682,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177189,
+      "num": 177189,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174601,
+      "num": 174601,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 170483,
@@ -339,6 +355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 146447,
+      "num": 146447,
+      "word": "美国特勤局肉弹特工再次出镜",
+      "onboard_time": 1777215142,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146101,
       "num": 147451,
       "word": "1岁女童小区玩耍感染广州管圆线虫",
@@ -371,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135341,
+      "num": 135341,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132238,
       "num": 132238,
       "word": "一笙 我并没有大家想的那么好",
@@ -379,12 +411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128927,
-      "num": 126262,
-      "word": "美国特勤局肉弹特工再次出镜",
-      "onboard_time": 1777215142,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 125014,
+      "num": 138019,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 124717,
@@ -435,36 +467,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100952,
-      "num": 100952,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 85968,
-      "num": 85968,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 82288,
-      "num": 126220,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81162,
       "num": 172625,
       "word": "阿迪达斯助人类马拉松首次破二",
       "onboard_time": 1777215922,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79664,
+      "num": 79664,
+      "word": "男子乱小便踹人致自己骨折",
+      "onboard_time": 1777243396,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79168,
@@ -491,14 +507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65449,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64854,
       "num": 92154,
       "word": "东方甄选为何留不住人",
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50276,
+      "num": 87343,
+      "word": "新的马拉松世界纪录1小时59分30秒",
+      "onboard_time": 1777231034,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42207,
       "num": 126203,
       "word": "特斯拉为什么不参加车展",
@@ -523,28 +539,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38848,
-      "num": 87343,
-      "word": "新的马拉松世界纪录1小时59分30秒",
-      "onboard_time": 1777231034,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34688,
-      "num": 36306,
-      "word": "破二 亚军",
-      "onboard_time": 1777231634,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28324,
-      "num": 30644,
+      "raw_hot": 35514,
+      "num": 42993,
       "word": "在重庆打卡电影取景地",
       "onboard_time": 1777233194,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 34688,
+      "num": 42918,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 28210,
