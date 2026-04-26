@@ -1,0 +1,410 @@
+{
+  "runTime": 1777225704931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737032,
+        "num": 737032,
+        "word": "歌手2026",
+        "onboard_time": 1777209140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679201,
+        "num": 679201,
+        "word": "身份证照片最接近别人肉眼看到的自己",
+        "onboard_time": 1777205060,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27307,
+        "num": 529890,
+        "word": "影视文旅成消费新风口",
+        "onboard_time": 1777206320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447433,
+        "num": 447433,
+        "word": "陈德修 够爱",
+        "onboard_time": 1777218441,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435642,
+        "num": 435642,
+        "word": "张月 挂电",
+        "onboard_time": 1777212503,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377209,
+        "num": 377209,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351645,
+        "num": 351645,
+        "word": "男子从内地偷运51公斤盒饭回澳门",
+        "onboard_time": 1777208960,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259636,
+        "num": 259636,
+        "word": "世界上两个最离不开手的东西合体了",
+        "onboard_time": 1777209681,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 156377,
+        "num": 156377,
+        "word": "RW对战AG",
+        "onboard_time": 1777207219,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90063,
+        "num": 155952,
+        "word": "别在乱充电提早损害电池健康了",
+        "onboard_time": 1777204760,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 454460,
+        "num": 155835,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213601,
+        "num": 155016,
+        "word": "外籍游客三亚旅游15元误付1.5万",
+        "onboard_time": 1777219280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206313,
+        "num": 154775,
+        "word": "魏笑老公曾参加过恋综",
+        "onboard_time": 1777218441,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189051,
+        "num": 153835,
+        "word": "网店卖8年假耐克赚了126万",
+        "onboard_time": 1777216641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162460,
+        "num": 153410,
+        "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+        "onboard_time": 1777209621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153225,
+        "num": 153225,
+        "word": "连续两周上四休三",
+        "onboard_time": 1777212861,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147701,
+        "num": 147701,
+        "word": "AG春季赛总冠军",
+        "onboard_time": 1777214783,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145859,
+        "num": 145859,
+        "word": "胖东来18元瓶装矿泉水遭哄抢",
+        "onboard_time": 1777209440,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145121,
+        "num": 145121,
+        "word": "伊朗最高领袖突然发文",
+        "onboard_time": 1777213523,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140135,
+        "num": 140135,
+        "word": "一笙回应",
+        "onboard_time": 1777208062,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137892,
+        "num": 137892,
+        "word": "aespa回归预告",
+        "onboard_time": 1777216581,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126285,
+        "num": 126285,
+        "word": "浪姐直播疑似没人理何宣林",
+        "onboard_time": 1777206320,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125899,
+        "num": 126285,
+        "word": "佳偶天成",
+        "onboard_time": 1777214302,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122123,
+        "num": 126279,
+        "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
+        "onboard_time": 1777209741,
+        "rank": 23,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 126278,
+        "word": "张月 没保护好者来女是我的遗憾",
+        "onboard_time": 1777214000,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117359,
+        "num": 126273,
+        "word": "许凯演技",
+        "onboard_time": 1777219939,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108597,
+        "num": 126271,
+        "word": "杨幂冯太后盘发造型路透",
+        "onboard_time": 1777209681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107313,
+        "num": 126270,
+        "word": "俞敏洪坦言公司管理方式出现偏差",
+        "onboard_time": 1777213041,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 126266,
+        "word": "一笙后援会集体辞职",
+        "onboard_time": 1777203622,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 126262,
+        "word": "美国特勤局肉弹特工再次出镜",
+        "onboard_time": 1777215142,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98313,
+        "num": 126259,
+        "word": "一笙 我并没有大家想的那么好",
+        "onboard_time": 1777215082,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79970,
+        "num": 126257,
+        "word": "曝一笙小号收藏德州相关帖子",
+        "onboard_time": 1777217121,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 126254,
+        "word": "李小冉跟心愿便利贴女主陈乔恩相遇了",
+        "onboard_time": 1777212023,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79068,
+        "num": 126253,
+        "word": "1岁女童小区玩耍感染广州管圆线虫",
+        "onboard_time": 1777218801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78991,
+        "num": 126249,
+        "word": "父亲病重去世主播停播失联遭公司索赔",
+        "onboard_time": 1777215681,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74582,
+        "num": 126245,
+        "word": "A股一季度最赚钱公司曝光",
+        "onboard_time": 1777207401,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74125,
+        "num": 126242,
+        "word": "男童泡温泉遇蛇吓出应激创伤",
+        "onboard_time": 1777212682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72662,
+        "num": 126240,
+        "word": "刘雨昕好辣",
+        "onboard_time": 1777219641,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71523,
+        "num": 126236,
+        "word": "翘楚和莫离都暂定同一天播出",
+        "onboard_time": 1777222817,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70968,
+        "num": 126235,
+        "word": "乘风2026三公淘汰四位姐姐",
+        "onboard_time": 1777211001,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69439,
+        "num": 126232,
+        "word": "人类马拉松破二",
+        "onboard_time": 1777200680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66315,
+        "num": 126229,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 60346,
+        "num": 126226,
+        "word": "狗狗脚脱臼了医患双方都很紧张",
+        "onboard_time": 1777199359,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58705,
+        "num": 126220,
+        "word": "特朗普夫人反应迅速",
+        "onboard_time": 1777207219,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58203,
+        "num": 126217,
+        "word": "边伯贤宠没边了",
+        "onboard_time": 1777215623,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51870,
+        "num": 126216,
+        "word": "橹穆双人舞台百天播放量",
+        "onboard_time": 1777210700,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51643,
+        "num": 126212,
+        "word": "Faker与Keria破纪录",
+        "onboard_time": 1777213102,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51491,
+        "num": 126210,
+        "word": "张凯丽女儿出道9年第一次拍吻戏",
+        "onboard_time": 1777202660,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47870,
+        "num": 126206,
+        "word": "郑钦文 签表",
+        "onboard_time": 1777218021,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42207,
+        "num": 126203,
+        "word": "特斯拉为什么不参加车展",
+        "onboard_time": 1777213463,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
