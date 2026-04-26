@@ -1,0 +1,410 @@
+{
+  "runTime": 1777201104848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1175731,
+        "num": 1188116,
+        "word": "王濛手臂图案",
+        "onboard_time": 1777194320,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1158956,
+        "num": 1158956,
+        "word": "人类马拉松破二",
+        "onboard_time": 1777200680,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21789,
+        "num": 982872,
+        "word": "守护创新的力量",
+        "onboard_time": 1777189880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 904318,
+        "num": 904318,
+        "word": "25岁女孩确诊黑色素瘤仅5个月离世",
+        "onboard_time": 1777193300,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844265,
+        "num": 844265,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1167015,
+        "num": 822641,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793501,
+        "num": 793501,
+        "word": "伦敦马拉松",
+        "onboard_time": 1777200619,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690016,
+        "num": 690016,
+        "word": "特朗普说早知这么危险就不当总统了",
+        "onboard_time": 1777194740,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 589630,
+        "num": 589630,
+        "word": "TCG淘汰WB",
+        "onboard_time": 1777196720,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 553663,
+        "num": 553663,
+        "word": "三鲜豆皮",
+        "onboard_time": 1777197440,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 982522,
+        "num": 551442,
+        "word": "井柏然 老人味太重",
+        "onboard_time": 1777182080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545818,
+        "num": 545818,
+        "word": "桃黑黑直播美颜掉了",
+        "onboard_time": 1777181779,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 509170,
+        "num": 509170,
+        "word": "上海警方通报2女子因抢座冲突",
+        "onboard_time": 1777191740,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 419711,
+        "num": 419711,
+        "word": "老祖宗不愿带回来的食物一定难吃",
+        "onboard_time": 1777180340,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409786,
+        "num": 409786,
+        "word": "女子不知怀孕医院上厕所时生二胎",
+        "onboard_time": 1777190000,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353865,
+        "num": 353865,
+        "word": "美国网友质疑为什么先救万斯",
+        "onboard_time": 1777197020,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327508,
+        "num": 327508,
+        "word": "张小斐 没有讨好感的眼神和动作",
+        "onboard_time": 1777200080,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323936,
+        "num": 323936,
+        "word": "孙怡 爱与不爱很明显",
+        "onboard_time": 1777182621,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274879,
+        "num": 320029,
+        "word": "小米公司报警",
+        "onboard_time": 1777189159,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 317255,
+        "num": 317255,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670379,
+        "num": 308113,
+        "word": "魏笑结婚",
+        "onboard_time": 1777179082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289843,
+        "num": 289843,
+        "word": "李昀锐 孟子义",
+        "onboard_time": 1777175660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260295,
+        "num": 260295,
+        "word": "仙逆",
+        "onboard_time": 1777200140,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 283630,
+        "num": 255382,
+        "word": "张月听到者来女淘汰的反应",
+        "onboard_time": 1777184960,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405787,
+        "num": 253770,
+        "word": "曝顶流女明星帮富婆闺蜜找男网红",
+        "onboard_time": 1777189580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202993,
+        "num": 249578,
+        "word": "伦敦马拉松 人类奇迹",
+        "onboard_time": 1777200860,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248641,
+        "num": 248641,
+        "word": "阚清子老公行事体面",
+        "onboard_time": 1777179859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226219,
+        "num": 226219,
+        "word": "王鹤棣演技",
+        "onboard_time": 1777197200,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55279,
+        "num": 219561,
+        "word": "从北京车展看中国汽车全球化发展",
+        "onboard_time": 1777197919,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301497,
+        "num": 218652,
+        "word": "浪姐节目组对王濛彻底没招了",
+        "onboard_time": 1777192340,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215862,
+        "num": 215862,
+        "word": "张凌赫腿受伤了",
+        "onboard_time": 1777179621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200451,
+        "num": 200451,
+        "word": "狗狗脚脱臼了医患双方都很紧张",
+        "onboard_time": 1777199359,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245622,
+        "num": 200031,
+        "word": "唐艺昕拍了祺贵人告发视频",
+        "onboard_time": 1777200200,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189113,
+        "num": 189113,
+        "word": "约基奇打架原因披露",
+        "onboard_time": 1777197140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185727,
+        "num": 185727,
+        "word": "WB对战TCG",
+        "onboard_time": 1777190180,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180827,
+        "num": 180827,
+        "word": "特朗普紧急撤离时摔倒",
+        "onboard_time": 1777185022,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178813,
+        "num": 178813,
+        "word": "余承东检讨称以前做车不重视外观",
+        "onboard_time": 1777187119,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171334,
+        "num": 171334,
+        "word": "男子乱小便被制止踹人骨折索赔18万",
+        "onboard_time": 1777195040,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170258,
+        "num": 170258,
+        "word": "宁艺卓回怼粉丝",
+        "onboard_time": 1777163959,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 168143,
+        "word": "欠条10年不催不要过期失效",
+        "onboard_time": 1777198041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165062,
+        "num": 165062,
+        "word": "原来这是肺不好的表现",
+        "onboard_time": 1777179980,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161822,
+        "num": 161822,
+        "word": "张雪声援余承东",
+        "onboard_time": 1777190240,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161678,
+        "num": 161678,
+        "word": "精灵耳医美女子说生不如死",
+        "onboard_time": 1777186639,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135243,
+        "num": 135243,
+        "word": "天赐 TCG夯爆了",
+        "onboard_time": 1777199661,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128696,
+        "num": 128696,
+        "word": "周也公主切",
+        "onboard_time": 1777194140,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "云旗 最重要的是你们啊",
+        "onboard_time": 1777198220,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126215,
+        "num": 126215,
+        "word": "伊朗提出新条件",
+        "onboard_time": 1777198281,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126354,
+        "num": 123472,
+        "word": "易梦玲刷脸刷不出",
+        "onboard_time": 1777183641,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115387,
+        "num": 115387,
+        "word": "心疼暖阳",
+        "onboard_time": 1777199239,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93044,
+        "num": 114066,
+        "word": "余承东缺席3月发布会原因曝光",
+        "onboard_time": 1777197620,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
