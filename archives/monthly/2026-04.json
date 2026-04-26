@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777184058238,
+  "endTime": 1777184740901,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3131250,
+      "num": 378662,
+      "word": "魏笑结婚",
+      "onboard_time": 1777179082,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3103476,
       "num": 786927,
       "word": "侯明昊 歌手2026",
@@ -353,14 +361,6 @@
       "onboard_time": 1776507981,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 2892376,
-      "num": 378662,
-      "word": "魏笑结婚",
-      "onboard_time": 1777179082,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2873544,
@@ -2115,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1266529,
+      "num": 381545,
+      "word": "孙怡 爱与不爱很明显",
+      "onboard_time": 1777182621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1266256,
       "num": 396634,
       "word": "文章面馆 周一不见",
@@ -2923,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1044253,
+      "num": 384096,
+      "word": "井柏然 老人味太重",
+      "onboard_time": 1777182080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1043300,
       "num": 681568,
       "word": "曝姐姐们集体抗议浪姐直播",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1776154701,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1015286,
+      "num": 683855,
+      "word": "老祖宗不愿带回来的食物一定难吃",
+      "onboard_time": 1777180340,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1014715,
@@ -3899,14 +3923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 883460,
-      "num": 653649,
-      "word": "老祖宗不愿带回来的食物一定难吃",
-      "onboard_time": 1777180340,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 882869,
       "num": 488380,
       "word": "列车上得知儿子离世大叔孙女未成年",
@@ -4395,6 +4411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 819139,
+      "num": 384873,
+      "word": "桃黑黑直播美颜掉了",
+      "onboard_time": 1777181779,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 818722,
       "num": 540085,
       "word": "綦美合潮牌",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1775556741,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 814003,
+      "num": 383237,
+      "word": "张凌赫腿受伤了",
+      "onboard_time": 1777179621,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 812334,
@@ -4673,14 +4705,6 @@
       "onboard_time": 1776611182,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 792536,
-      "num": 384096,
-      "word": "井柏然 老人味太重",
-      "onboard_time": 1777182080,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 791194,
@@ -4971,14 +4995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 767308,
-      "num": 383237,
-      "word": "张凌赫腿受伤了",
-      "onboard_time": 1777179621,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 765488,
       "num": 885502,
       "word": "问界M9价格",
@@ -5057,14 +5073,6 @@
       "onboard_time": 1776996020,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 759563,
-      "num": 381545,
-      "word": "孙怡 爱与不爱很明显",
-      "onboard_time": 1777182621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 758745,
@@ -5187,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 744890,
+      "num": 880407,
+      "word": "约基奇打架",
+      "onboard_time": 1777175241,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 744376,
       "num": 200694,
       "word": "孙杨张豆豆有孩子了",
@@ -5273,14 +5289,6 @@
       "onboard_time": 1775307384,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735873,
-      "num": 880407,
-      "word": "约基奇打架",
-      "onboard_time": 1777175241,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 735810,
@@ -5969,6 +5977,14 @@
       "onboard_time": 1776082641,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 683754,
+      "num": 683754,
+      "word": "日美英联手针对中国",
+      "onboard_time": 1777178780,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 682524,
@@ -6825,14 +6841,6 @@
       "onboard_time": 1777086621,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 622087,
-      "num": 622087,
-      "word": "日美英联手针对中国",
-      "onboard_time": 1777178780,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 622079,
@@ -9521,14 +9529,6 @@
       "onboard_time": 1777038744,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 495364,
-      "num": 384873,
-      "word": "桃黑黑直播美颜掉了",
-      "onboard_time": 1777181779,
-      "rank": 12,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 495271,
@@ -14571,6 +14571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350535,
+      "num": 380493,
+      "word": "特朗普说他妻子躲得更快",
+      "onboard_time": 1777183280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350296,
       "num": 1555335,
       "word": "牙龈萎缩之后还能再长回来吗",
@@ -14635,6 +14643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349435,
+      "num": 287116,
+      "word": "阚清子瘦好多",
+      "onboard_time": 1777177700,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349421,
       "num": 122514,
       "word": "塞车把周杰伦女儿急坏了",
@@ -14681,6 +14697,14 @@
       "onboard_time": 1776931580,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 348236,
+      "num": 348236,
+      "word": "浪姐三公 李唐王朝",
+      "onboard_time": 1777182980,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 348202,
@@ -15313,6 +15337,14 @@
       "onboard_time": 1775889380,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333373,
+      "num": 388335,
+      "word": "范丞丞看时团 鹿晗看NINEPERCENT",
+      "onboard_time": 1777177341,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 332882,
@@ -16259,14 +16291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317405,
-      "num": 388335,
-      "word": "范丞丞看时团 鹿晗看NINEPERCENT",
-      "onboard_time": 1777177341,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317286,
       "num": 141571,
       "word": "上万美军封锁霍尔木兹海峡",
@@ -17191,14 +17215,6 @@
       "num": 118929,
       "word": "唐禹哲承认逃兵役",
       "onboard_time": 1776248001,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 301784,
-      "num": 265822,
-      "word": "阚清子瘦好多",
-      "onboard_time": 1777177700,
       "rank": 30,
       "category": "艺人"
     },
@@ -18819,6 +18835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275642,
+      "num": 222149,
+      "word": "吴彦姝87岁穿高跟鞋不驼背",
+      "onboard_time": 1777183160,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275628,
       "num": 400908,
       "word": "东方甄选感谢明明天权",
@@ -19059,6 +19083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 271217,
+      "num": 221843,
+      "word": "易梦玲刷脸刷不出",
+      "onboard_time": 1777183641,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271107,
       "num": 250190,
       "word": "低血糖假性饥饿",
@@ -19168,14 +19200,6 @@
       "word": "伊朗对美国发出新警告",
       "onboard_time": 1776064521,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 269202,
-      "num": 380493,
-      "word": "特朗普说他妻子躲得更快",
-      "onboard_time": 1777183280,
-      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -19593,14 +19617,6 @@
       "onboard_time": 1776578720,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263912,
-      "num": 263912,
-      "word": "浪姐三公 李唐王朝",
-      "onboard_time": 1777182980,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 263691,
@@ -22859,6 +22875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222560,
+      "num": 266971,
+      "word": "王者荣耀农家乐",
+      "onboard_time": 1777177640,
+      "rank": 29,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 222501,
       "num": 408034,
       "word": "谭松韵上的是客栈还是密逃",
@@ -23219,14 +23243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 218598,
-      "num": 218598,
-      "word": "吴彦姝87岁穿高跟鞋不驼背",
-      "onboard_time": 1777183160,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 218554,
       "num": 139311,
       "word": "填埋奔驰车祭祀当事人致歉",
@@ -23321,14 +23337,6 @@
       "onboard_time": 1776728360,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217536,
-      "num": 217536,
-      "word": "易梦玲刷脸刷不出",
-      "onboard_time": 1777183641,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 217296,
@@ -23937,6 +23945,14 @@
       "onboard_time": 1776870141,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 211526,
+      "num": 211526,
+      "word": "邓超感谢孙俪",
+      "onboard_time": 1777183280,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 211482,
@@ -25035,14 +25051,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 200307,
-      "num": 266971,
-      "word": "王者荣耀农家乐",
-      "onboard_time": 1777177640,
-      "rank": 29,
-      "category": "游戏,作品衍生"
-    },
-    {
       "raw_hot": 200288,
       "num": 181268,
       "word": "魏大勋这辈子都不会忘记耻骨在哪",
@@ -25819,6 +25827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "东方甄选前员工发声",
+      "onboard_time": 1777180220,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193264,
       "num": 193264,
       "word": "宋银硕 电子烟",
@@ -26371,6 +26387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188449,
+      "num": 222462,
+      "word": "万斯蹲在椅后被拽走画面",
+      "onboard_time": 1777178601,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 188426,
       "num": 188426,
       "word": "月鳞绮纪胡闹了一天后的cp榜",
@@ -26859,14 +26883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184113,
-      "num": 184113,
-      "word": "东方甄选前员工发声",
-      "onboard_time": 1777180220,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 184020,
       "num": 182656,
       "word": "武艺唱心愿便利贴 王濛进步好大",
@@ -27345,14 +27361,6 @@
       "onboard_time": 1775453960,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179589,
-      "num": 179589,
-      "word": "万斯蹲在椅后被拽走画面",
-      "onboard_time": 1777178601,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 179562,
@@ -33971,6 +33979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133824,
+      "num": 214543,
+      "word": "颜宁称两篇CNS论文被审稿人抢发",
+      "onboard_time": 1777183040,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133807,
       "num": 133807,
       "word": "田曦薇直播",
@@ -38403,6 +38419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112131,
+      "num": 182319,
+      "word": "1名医生1分钟给3人看病26次",
+      "onboard_time": 1777180101,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 112067,
       "num": 116085,
       "word": "金银飙涨",
@@ -39105,6 +39129,14 @@
       "onboard_time": 1775111661,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109054,
+      "num": 387090,
+      "word": "央视揭秘精灵耳整形乱象",
+      "onboard_time": 1777183280,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 109046,
@@ -56723,6 +56755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 59321,
+      "num": 379012,
+      "word": "煎饼摊位被挡获全网撑腰",
+      "onboard_time": 1777183280,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 59281,
       "num": 59281,
       "word": "美伊都在找一名跳伞美军",
@@ -57337,14 +57377,6 @@
       "onboard_time": 1776856340,
       "rank": 27,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 56706,
-      "num": 387090,
-      "word": "央视揭秘精灵耳整形乱象",
-      "onboard_time": 1777183280,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 56661,
@@ -58364,7 +58396,7 @@
     },
     {
       "raw_hot": 51776,
-      "num": 260891,
+      "num": 325584,
       "word": "年轻人都在蹲的快乐接驳车",
       "onboard_time": 1777183460,
       "rank": 33,
@@ -60427,6 +60459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40832,
+      "num": 380129,
+      "word": "中国2004年开始建立战略石油储备",
+      "onboard_time": 1777183280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40726,
       "num": 74429,
       "word": "全球PC涨价潮来袭",
@@ -61995,14 +62035,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 30904,
-      "num": 379012,
-      "word": "煎饼摊位被挡获全网撑腰",
-      "onboard_time": 1777183280,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 30868,
       "num": 236655,
       "word": "拒绝猥亵被杀害藏尸家属发声",
@@ -63003,6 +63035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25771,
+      "num": 312217,
+      "word": "尾号9999999手机号以26万再次拍卖",
+      "onboard_time": 1777184479,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25714,
       "num": 164113,
       "word": "乐乐茶就擅用鲁迅画像致歉",
@@ -63857,14 +63897,6 @@
       "onboard_time": 1776298041,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21581,
-      "num": 380129,
-      "word": "中国2004年开始建立战略石油储备",
-      "onboard_time": 1777183280,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21548,

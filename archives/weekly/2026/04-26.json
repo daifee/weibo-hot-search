@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777184058238,
+  "endTime": 1777184740901,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -11,7 +11,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2892376,
+      "raw_hot": 3131250,
       "num": 378662,
       "word": "魏笑结婚",
       "onboard_time": 1777179082,
@@ -59,12 +59,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1266529,
+      "num": 381545,
+      "word": "孙怡 爱与不爱很明显",
+      "onboard_time": 1777182621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199404,
       "num": 757561,
       "word": "张若昀评论区",
       "onboard_time": 1777170260,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1044253,
+      "num": 384096,
+      "word": "井柏然 老人味太重",
+      "onboard_time": 1777182080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1015286,
+      "num": 683855,
+      "word": "老祖宗不愿带回来的食物一定难吃",
+      "onboard_time": 1777180340,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 995285,
@@ -99,14 +123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 883460,
-      "num": 653649,
-      "word": "老祖宗不愿带回来的食物一定难吃",
-      "onboard_time": 1777180340,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 833538,
       "num": 2102073,
       "word": "青岛警方致歉",
@@ -123,23 +139,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 795156,
-      "num": 940317,
-      "word": "特朗普公布枪手强闯安检录像",
-      "onboard_time": 1777173200,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 819139,
+      "num": 384873,
+      "word": "桃黑黑直播美颜掉了",
+      "onboard_time": 1777181779,
+      "rank": 12,
+      "category": "游戏,网红"
     },
     {
-      "raw_hot": 792536,
-      "num": 384096,
-      "word": "井柏然 老人味太重",
-      "onboard_time": 1777182080,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 767308,
+      "raw_hot": 814003,
       "num": 383237,
       "word": "张凌赫腿受伤了",
       "onboard_time": 1777179621,
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 759563,
-      "num": 381545,
-      "word": "孙怡 爱与不爱很明显",
-      "onboard_time": 1777182621,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 795156,
+      "num": 940317,
+      "word": "特朗普公布枪手强闯安检录像",
+      "onboard_time": 1777173200,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 756795,
@@ -163,7 +171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 735873,
+      "raw_hot": 744890,
       "num": 880407,
       "word": "约基奇打架",
       "onboard_time": 1777175241,
@@ -177,6 +185,14 @@
       "onboard_time": 1777126343,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 683754,
+      "num": 683754,
+      "word": "日美英联手针对中国",
+      "onboard_time": 1777178780,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 677528,
@@ -201,14 +217,6 @@
       "onboard_time": 1777179980,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 622087,
-      "num": 622087,
-      "word": "日美英联手针对中国",
-      "onboard_time": 1777178780,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 615301,
@@ -281,14 +289,6 @@
       "onboard_time": 1777168941,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 495364,
-      "num": 384873,
-      "word": "桃黑黑直播美颜掉了",
-      "onboard_time": 1777181779,
-      "rank": 12,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 480383,
@@ -459,11 +459,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350535,
+      "num": 380493,
+      "word": "特朗普说他妻子躲得更快",
+      "onboard_time": 1777183280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350410,
       "num": 445290,
       "word": "曾沛慈一直在修音响",
       "onboard_time": 1777122684,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349435,
+      "num": 287116,
+      "word": "阚清子瘦好多",
+      "onboard_time": 1777177700,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348236,
+      "num": 348236,
+      "word": "浪姐三公 李唐王朝",
+      "onboard_time": 1777182980,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -483,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 333373,
+      "num": 388335,
+      "word": "范丞丞看时团 鹿晗看NINEPERCENT",
+      "onboard_time": 1777177341,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323572,
       "num": 323572,
       "word": "周杰伦疑2.4亿购入澳百年庄园",
@@ -497,14 +529,6 @@
       "onboard_time": 1777178540,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317405,
-      "num": 388335,
-      "word": "范丞丞看时团 鹿晗看NINEPERCENT",
-      "onboard_time": 1777177341,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 315424,
@@ -528,14 +552,6 @@
       "word": "孟子义李昀锐下定决心拆cp的原因",
       "onboard_time": 1777091180,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 301784,
-      "num": 265822,
-      "word": "阚清子瘦好多",
-      "onboard_time": 1777177700,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275642,
+      "num": 222149,
+      "word": "吴彦姝87岁穿高跟鞋不驼背",
+      "onboard_time": 1777183160,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "爱德华兹受伤",
@@ -571,20 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269202,
-      "num": 380493,
-      "word": "特朗普说他妻子躲得更快",
-      "onboard_time": 1777183280,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 263912,
-      "num": 263912,
-      "word": "浪姐三公 李唐王朝",
-      "onboard_time": 1777182980,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 271217,
+      "num": 221843,
+      "word": "易梦玲刷脸刷不出",
+      "onboard_time": 1777183641,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 262900,
@@ -683,20 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218598,
-      "num": 218598,
-      "word": "吴彦姝87岁穿高跟鞋不驼背",
-      "onboard_time": 1777183160,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 217536,
-      "num": 217536,
-      "word": "易梦玲刷脸刷不出",
-      "onboard_time": 1777183641,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 222560,
+      "num": 266971,
+      "word": "王者荣耀农家乐",
+      "onboard_time": 1777177640,
+      "rank": 29,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 216453,
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211526,
+      "num": 211526,
+      "word": "邓超感谢孙俪",
+      "onboard_time": 1777183280,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207027,
       "num": 207027,
       "word": "陈瑶下班戴者来女送的镯子",
@@ -731,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200307,
-      "num": 266971,
-      "word": "王者荣耀农家乐",
-      "onboard_time": 1777177640,
-      "rank": 29,
-      "category": "游戏,作品衍生"
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "东方甄选前员工发声",
+      "onboard_time": 1777180220,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 191930,
@@ -745,6 +761,14 @@
       "onboard_time": 1777163238,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188449,
+      "num": 222462,
+      "word": "万斯蹲在椅后被拽走画面",
+      "onboard_time": 1777178601,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186845,
@@ -785,22 +809,6 @@
       "onboard_time": 1777112420,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184113,
-      "num": 184113,
-      "word": "东方甄选前员工发声",
-      "onboard_time": 1777180220,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 179589,
-      "num": 179589,
-      "word": "万斯蹲在椅后被拽走画面",
-      "onboard_time": 1777178601,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 178726,
@@ -1003,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133824,
+      "num": 214543,
+      "word": "颜宁称两篇CNS论文被审稿人抢发",
+      "onboard_time": 1777183040,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130307,
       "num": 130307,
       "word": "CNN主播距枪手仅几英尺",
@@ -1083,6 +1099,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 112131,
+      "num": 182319,
+      "word": "1名医生1分钟给3人看病26次",
+      "onboard_time": 1777180101,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 109754,
       "num": 434495,
       "word": "失明男子租房每月50元20年没涨",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1777159515,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109054,
+      "num": 387090,
+      "word": "央视揭秘精灵耳整形乱象",
+      "onboard_time": 1777183280,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 107994,
@@ -1275,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59321,
+      "num": 379012,
+      "word": "煎饼摊位被挡获全网撑腰",
+      "onboard_time": 1777183280,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58567,
       "num": 53462,
       "word": "明日方舟",
@@ -1283,16 +1323,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 56706,
-      "num": 387090,
-      "word": "央视揭秘精灵耳整形乱象",
-      "onboard_time": 1777183280,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 51776,
-      "num": 260891,
+      "num": 325584,
       "word": "年轻人都在蹲的快乐接驳车",
       "onboard_time": 1777183460,
       "rank": 33,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1777125146,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40832,
+      "num": 380129,
+      "word": "中国2004年开始建立战略石油储备",
+      "onboard_time": 1777183280,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40226,
@@ -1403,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30904,
-      "num": 379012,
-      "word": "煎饼摊位被挡获全网撑腰",
-      "onboard_time": 1777183280,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 29788,
       "num": 215713,
       "word": "LGDNBW晋级挑杯十六强",
@@ -1435,11 +1467,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21581,
-      "num": 380129,
-      "word": "中国2004年开始建立战略石油储备",
-      "onboard_time": 1777183280,
-      "rank": 18,
+      "raw_hot": 25771,
+      "num": 312217,
+      "word": "尾号9999999手机号以26万再次拍卖",
+      "onboard_time": 1777184479,
+      "rank": 22,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777184058238,
+  "endTime": 1777184740901,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1387,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3131250,
+      "num": 378662,
+      "word": "魏笑结婚",
+      "onboard_time": 1777179082,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3119969,
       "num": 2431891,
       "word": "张雪峰相关账号停止直播",
@@ -1528,14 +1536,6 @@
       "word": "金晨换头像",
       "onboard_time": 1769777545,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2892376,
-      "num": 378662,
-      "word": "魏笑结婚",
-      "onboard_time": 1777179082,
-      "rank": 20,
       "category": "艺人"
     },
     {
