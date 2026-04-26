@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777203986326,
+  "endTime": 1777205045011,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1328524,
+      "num": 341001,
+      "word": "地铁抢座互殴32岁和66岁谁该罚",
+      "onboard_time": 1777201279,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1266529,
       "num": 456743,
       "word": "孙怡 爱与不爱很明显",
@@ -137,6 +145,14 @@
       "onboard_time": 1777170260,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1092716,
+      "num": 309931,
+      "word": "一笙后援会集体辞职",
+      "onboard_time": 1777203622,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 1015286,
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 801391,
-      "num": 341001,
-      "word": "地铁抢座互殴32岁和66岁谁该罚",
-      "onboard_time": 1777201279,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 795156,
       "num": 940317,
       "word": "特朗普公布枪手强闯安检录像",
@@ -363,6 +371,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 632307,
+      "num": 572955,
+      "word": "张小斐 没有讨好感的眼神和动作",
+      "onboard_time": 1777200080,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 630386,
+      "num": 938717,
+      "word": "DeepSeek多位核心骨干离职去大厂",
+      "onboard_time": 1777202360,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 615301,
       "num": 490263,
       "word": "俞敏洪回应多位主播离职",
@@ -403,6 +427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 585083,
+      "num": 585083,
+      "word": "丁俊晖vs赵心童",
+      "onboard_time": 1777202119,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 575349,
       "num": 575349,
       "word": "浪姐三公 李唐王朝",
@@ -427,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 556301,
-      "num": 332677,
-      "word": "张小斐 没有讨好感的眼神和动作",
-      "onboard_time": 1777200080,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 540587,
+      "num": 329707,
+      "word": "张凯丽女儿出道9年第一次拍吻戏",
+      "onboard_time": 1777202660,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 532075,
@@ -547,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 437959,
-      "num": 437959,
-      "word": "丁俊晖vs赵心童",
-      "onboard_time": 1777202119,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426385,
       "num": 350965,
       "word": "DeepSeek致谢近300研发者10人已离职",
@@ -569,14 +593,6 @@
       "onboard_time": 1777176440,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421064,
-      "num": 329707,
-      "word": "张凯丽女儿出道9年第一次拍吻戏",
-      "onboard_time": 1777202660,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 417740,
@@ -721,14 +737,6 @@
       "onboard_time": 1777168880,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357674,
-      "num": 357674,
-      "word": "DeepSeek多位核心骨干离职去大厂",
-      "onboard_time": 1777202360,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 350410,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 231766,
-      "num": 166010,
+      "num": 211897,
       "word": "阚清子老公投到第二就不投了",
       "onboard_time": 1777199420,
       "rank": 36,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1777177640,
       "rank": 29,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 221198,
-      "num": 221198,
-      "word": "一笙后援会集体辞职",
-      "onboard_time": 1777203622,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 220827,
@@ -1211,11 +1211,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183316,
+      "num": 183316,
+      "word": "cp32",
+      "onboard_time": 1777204340,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180398,
       "num": 171469,
       "word": "阚清子太争气了",
       "onboard_time": 1777192581,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180050,
+      "num": 180050,
+      "word": "麻辣鸡因迟到躲过白宫枪击事件",
+      "onboard_time": 1777204340,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176363,
+      "num": 176363,
+      "word": "一笙上线",
+      "onboard_time": 1777195459,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173489,
       "num": 146976,
       "word": "怦然心动20岁冬季",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1777198041,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167866,
-      "num": 167866,
-      "word": "一笙上线",
-      "onboard_time": 1777195459,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 166494,
@@ -1419,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150821,
+      "num": 326722,
+      "word": "巴基斯坦总统访华现场画面",
+      "onboard_time": 1777203440,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150242,
       "num": 433199,
       "word": "尚公主",
       "onboard_time": 1777121604,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150226,
+      "num": 150226,
+      "word": "赵心童战胜丁俊晖进八强",
+      "onboard_time": 1777204760,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 147942,
@@ -1643,6 +1675,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 113720,
+      "num": 326081,
+      "word": "95后靠3D打印月赚10万元",
+      "onboard_time": 1777203260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112636,
       "num": 378421,
       "word": "高市早苗就白宫晚宴枪击事件表态",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1777195700,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71325,
+      "num": 327668,
+      "word": "伦敦马拉松萨维创造人类奇迹",
+      "onboard_time": 1777204100,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 70848,
@@ -2011,14 +2059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41314,
-      "num": 326722,
-      "word": "巴基斯坦总统访华现场画面",
-      "onboard_time": 1777203440,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40832,
       "num": 380129,
       "word": "中国2004年开始建立战略石油储备",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1777136419,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39689,
-      "num": 326081,
-      "word": "95后靠3D打印月赚10万元",
-      "onboard_time": 1777203260,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39077,
@@ -2121,6 +2153,14 @@
       "onboard_time": 1777143315,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24234,
+      "num": 128462,
+      "word": "日本水表失窃案频发",
+      "onboard_time": 1777204880,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22082,
