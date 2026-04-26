@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777244820413,
+  "endTime": 1777247401034,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -67,6 +67,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633012,
+      "num": 294047,
+      "word": "宝妈18万坐月子违约被要求赔2万",
+      "onboard_time": 1777246217,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 591838,
+      "num": 280542,
+      "word": "男子乱小便踹人致自己骨折",
+      "onboard_time": 1777243396,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591495,
       "num": 591495,
       "word": "AG春季赛总冠军",
@@ -81,6 +97,14 @@
       "onboard_time": 1777209681,
       "rank": 7,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 552870,
+      "num": 754818,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 538640,
@@ -107,12 +131,28 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 438414,
+      "num": 438414,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 436174,
       "num": 283777,
       "word": "连续两周上四休三",
       "onboard_time": 1777212861,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434201,
+      "num": 434201,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 409963,
@@ -147,20 +187,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368035,
-      "num": 368035,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 366386,
       "num": 280698,
       "word": "张月 没保护好者来女是我的遗憾",
       "onboard_time": 1777214000,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341513,
+      "num": 256491,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332145,
+      "num": 332145,
+      "word": "马刺3比1开拓者",
+      "onboard_time": 1777245739,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 313409,
@@ -185,6 +233,14 @@
       "onboard_time": 1777215021,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294458,
+      "num": 294458,
+      "word": "郑钦文马德里1比2莱巴金娜",
+      "onboard_time": 1777246217,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 284799,
@@ -227,20 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255858,
-      "num": 255858,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 245278,
-      "num": 481473,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 250257,
+      "num": 250257,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 241043,
@@ -259,20 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212927,
-      "num": 212927,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 195467,
-      "num": 195467,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 192292,
+      "num": 111254,
+      "word": "东方甄选正在变成普通直播电商",
+      "onboard_time": 1777246217,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 187535,
@@ -307,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173881,
+      "num": 110892,
+      "word": "张月的实力",
+      "onboard_time": 1777246879,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170483,
       "num": 170483,
       "word": "橹穆双人舞台百天播放量",
@@ -323,11 +371,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163113,
-      "num": 163113,
-      "word": "男子乱小便踹人致自己骨折",
-      "onboard_time": 1777243396,
-      "rank": 22,
+      "raw_hot": 160579,
+      "num": 160579,
+      "word": "韦雪回应脖子显老",
+      "onboard_time": 1777214902,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 159547,
+      "num": 159547,
+      "word": "今年榴莲大丰收大幅降价",
+      "onboard_time": 1777246217,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -371,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146803,
-      "num": 146803,
-      "word": "韦雪回应脖子显老",
-      "onboard_time": 1777214902,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 146447,
       "num": 146447,
       "word": "美国特勤局肉弹特工再次出镜",
@@ -411,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141290,
+      "num": 141290,
+      "word": "宋茜到西安就像老鼠掉进了米缸",
+      "onboard_time": 1777244417,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139909,
       "num": 255528,
       "word": "别在乱充电提早损害电池健康了",
@@ -419,12 +475,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133800,
+      "num": 133800,
+      "word": "蜜语纪穿帮 手提行李箱",
+      "onboard_time": 1777203860,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132238,
       "num": 132238,
       "word": "一笙 我并没有大家想的那么好",
       "onboard_time": 1777215082,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131211,
+      "num": 110781,
+      "word": "尚界Z7携手肖战登陆北京车展",
+      "onboard_time": 1777246939,
+      "rank": 32,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 124717,
@@ -475,6 +547,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "郑钦文成功破发莱巴金娜",
+      "onboard_time": 1777246217,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100518,
+      "num": 100518,
+      "word": "生命树杨紫的家成了打卡点",
+      "onboard_time": 1777244718,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87241,
+      "num": 87241,
+      "word": "一诺 九周年见",
+      "onboard_time": 1777245739,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81162,
       "num": 172625,
       "word": "阿迪达斯助人类马拉松首次破二",
@@ -491,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75569,
-      "num": 75569,
-      "word": "宋茜到西安就像老鼠掉进了米缸",
-      "onboard_time": 1777244417,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 72008,
+      "num": 72008,
+      "word": "徐洁儿乌兰图雅唱言不由衷",
+      "onboard_time": 1777247358,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 71736,
@@ -529,14 +625,6 @@
       "onboard_time": 1777206320,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50402,
-      "num": 50402,
-      "word": "生命树杨紫的家成了打卡点",
-      "onboard_time": 1777244718,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 50276,
