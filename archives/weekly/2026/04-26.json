@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777201926283,
+  "endTime": 1777203986326,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2394033,
+      "num": 2394033,
+      "word": "人类马拉松破二",
+      "onboard_time": 1777200680,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2111443,
       "num": 757685,
       "word": "一袋糯米 全部暴露",
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1568951,
-      "num": 1568951,
-      "word": "人类马拉松破二",
-      "onboard_time": 1777200680,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1540489,
       "num": 893517,
       "word": "迪丽热巴跑男只录了12天",
@@ -105,6 +105,14 @@
       "onboard_time": 1777194320,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1418774,
+      "num": 346531,
+      "word": "唐艺昕 何宣林",
+      "onboard_time": 1777200680,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1390607,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 844265,
-      "num": 876516,
+      "num": 974708,
       "word": "集体离职撕开东方甄选内部乱象",
       "onboard_time": 1777190780,
       "rank": 30,
@@ -241,6 +249,14 @@
       "onboard_time": 1777179621,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801391,
+      "num": 341001,
+      "word": "地铁抢座互殴32岁和66岁谁该罚",
+      "onboard_time": 1777201279,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 795156,
@@ -347,14 +363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 618511,
-      "num": 321562,
-      "word": "唐艺昕 何宣林",
-      "onboard_time": 1777200680,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 615301,
       "num": 490263,
       "word": "俞敏洪回应多位主播离职",
@@ -377,6 +385,14 @@
       "onboard_time": 1777175660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606470,
+      "num": 353231,
+      "word": "狗狗脚脱臼了医患双方都很紧张",
+      "onboard_time": 1777199359,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 587261,
@@ -409,6 +425,14 @@
       "onboard_time": 1777183641,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556301,
+      "num": 332677,
+      "word": "张小斐 没有讨好感的眼神和动作",
+      "onboard_time": 1777200080,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 532075,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437959,
+      "num": 437959,
+      "word": "丁俊晖vs赵心童",
+      "onboard_time": 1777202119,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426385,
       "num": 350965,
       "word": "DeepSeek致谢近300研发者10人已离职",
@@ -537,6 +569,14 @@
       "onboard_time": 1777176440,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421064,
+      "num": 329707,
+      "word": "张凯丽女儿出道9年第一次拍吻戏",
+      "onboard_time": 1777202660,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 417740,
@@ -651,14 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365125,
-      "num": 327508,
-      "word": "张小斐 没有讨好感的眼神和动作",
-      "onboard_time": 1777200080,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "特朗普因安全原因离开白宫晚宴",
@@ -689,6 +721,14 @@
       "onboard_time": 1777168880,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357674,
+      "num": 357674,
+      "word": "DeepSeek多位核心骨干离职去大厂",
+      "onboard_time": 1777202360,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 350410,
@@ -907,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238987,
-      "num": 323818,
-      "word": "狗狗脚脱臼了医患双方都很紧张",
-      "onboard_time": 1777199359,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237677,
       "num": 237677,
       "word": "22岁女孩运动减肥把肌肉练爆了",
@@ -940,7 +972,7 @@
     },
     {
       "raw_hot": 231766,
-      "num": 155360,
+      "num": 166010,
       "word": "阚清子老公投到第二就不投了",
       "onboard_time": 1777199420,
       "rank": 36,
@@ -993,6 +1025,22 @@
       "onboard_time": 1777177640,
       "rank": 29,
       "category": "游戏,作品衍生"
+    },
+    {
+      "raw_hot": 221198,
+      "num": 221198,
+      "word": "一笙后援会集体辞职",
+      "onboard_time": 1777203622,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 220827,
+      "num": 318966,
+      "word": "官员诱骗未成年人吸毒是现代版的杀良冒功",
+      "onboard_time": 1777201279,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216453,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1777200860,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199021,
+      "num": 199021,
+      "word": "小麦道歉",
+      "onboard_time": 1777202839,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 198526,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1777133660,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 176229,
-      "num": 176229,
-      "word": "地铁抢座互殴32岁和66岁谁该罚",
-      "onboard_time": 1777201279,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173489,
@@ -1547,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116156,
+      "num": 116156,
+      "word": "干西红柿你吃过吗",
+      "onboard_time": 1777202180,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116099,
       "num": 160379,
       "word": "白宫晚宴枪击事件嫌疑人身份确认",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1777199239,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114754,
+      "num": 318476,
+      "word": "国家安全部发布视频无我",
+      "onboard_time": 1777201279,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114259,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1777119801,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104584,
+      "num": 104584,
+      "word": "蜜语纪穿帮 手提行李箱",
+      "onboard_time": 1777203860,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104046,
@@ -1771,6 +1843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68432,
+      "num": 348602,
+      "word": "人类全马首次跑进2小时",
+      "onboard_time": 1777202901,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68236,
       "num": 238500,
       "word": "人民日报批五稂液仿冒五粮液",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1777116022,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63892,
+      "num": 163109,
+      "word": "11岁男孩从托管机构外出后失联",
+      "onboard_time": 1777202600,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63474,
@@ -1923,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41314,
+      "num": 326722,
+      "word": "巴基斯坦总统访华现场画面",
+      "onboard_time": 1777203440,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40832,
       "num": 380129,
       "word": "中国2004年开始建立战略石油储备",
@@ -1939,28 +2035,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 39689,
+      "num": 326081,
+      "word": "95后靠3D打印月赚10万元",
+      "onboard_time": 1777203260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39077,
       "num": 191767,
       "word": "不再依赖算长大吗",
       "onboard_time": 1777145175,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 37002,
-      "num": 318966,
-      "word": "官员诱骗未成年人吸毒是现代版的杀良冒功",
-      "onboard_time": 1777201279,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36602,
-      "num": 318476,
-      "word": "国家安全部发布视频无我",
-      "onboard_time": 1777201279,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36507,
