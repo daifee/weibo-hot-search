@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777219542994,
+  "endTime": 1777222555842,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432769,
+      "num": 281796,
+      "word": "陈德修 够爱",
+      "onboard_time": 1777218441,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 409963,
       "num": 283494,
       "word": "井柏然 老人味太重",
@@ -121,14 +129,6 @@
       "onboard_time": 1777214302,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393523,
-      "num": 281796,
-      "word": "陈德修 够爱",
-      "onboard_time": 1777218441,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 391711,
@@ -161,6 +161,14 @@
       "onboard_time": 1777206320,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302908,
+      "num": 282189,
+      "word": "外籍游客三亚旅游15元误付1.5万",
+      "onboard_time": 1777219280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297455,
@@ -219,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236688,
+      "num": 236688,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 233088,
+      "num": 233088,
+      "word": "魏笑老公曾参加过恋综",
+      "onboard_time": 1777218441,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187535,
       "num": 282375,
       "word": "A股一季度最赚钱公司曝光",
@@ -249,22 +273,6 @@
       "onboard_time": 1777212682,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179569,
-      "num": 206390,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 178697,
-      "num": 178697,
-      "word": "魏笑老公曾参加过恋综",
-      "onboard_time": 1777218441,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 170483,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139909,
+      "num": 255528,
+      "word": "别在乱充电提早损害电池健康了",
+      "onboard_time": 1777204760,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132238,
       "num": 132238,
       "word": "一笙 我并没有大家想的那么好",
@@ -355,12 +371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125611,
-      "num": 282189,
-      "word": "外籍游客三亚旅游15元误付1.5万",
-      "onboard_time": 1777219280,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 129586,
+      "num": 128493,
+      "word": "许凯演技",
+      "onboard_time": 1777219939,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 124717,
@@ -379,12 +395,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114252,
-      "num": 114252,
-      "word": "别在乱充电提早损害电池健康了",
-      "onboard_time": 1777204760,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 116155,
+      "num": 116155,
+      "word": "刘雨昕好辣",
+      "onboard_time": 1777219641,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115402,
+      "num": 115402,
+      "word": "美国特勤局肉弹特工再次出镜",
+      "onboard_time": 1777215142,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108909,
+      "num": 108909,
+      "word": "岳云鹏说丁俊晖状态没有赵心童好",
+      "onboard_time": 1777219700,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 81162,
