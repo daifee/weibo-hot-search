@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777160910778,
+  "endTime": 1777161808102,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -3131,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995285,
+      "num": 1566198,
+      "word": "副所长为完成任务设计让6人吸毒",
+      "onboard_time": 1777128625,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 993794,
       "num": 415778,
       "word": "Jennie八年来都长一个样",
@@ -4105,14 +4113,6 @@
       "onboard_time": 1776555620,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 840123,
-      "num": 1566198,
-      "word": "副所长为完成任务设计让6人吸毒",
-      "onboard_time": 1777128625,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 839497,
@@ -8811,6 +8811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 511876,
+      "num": 835934,
+      "word": "美伊停火谈判",
+      "onboard_time": 1777157418,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511637,
       "num": 851501,
       "word": "解放军护卫舰已随时准备开火",
@@ -10433,14 +10441,6 @@
       "onboard_time": 1776699800,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452544,
-      "num": 738559,
-      "word": "美伊停火谈判",
-      "onboard_time": 1777157418,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 451935,
@@ -12785,6 +12785,14 @@
       "onboard_time": 1776676822,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383356,
+      "num": 135816,
+      "word": "建议大家衣服不要攒一起洗",
+      "onboard_time": 1777159397,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 383194,
@@ -17059,14 +17067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297665,
-      "num": 112299,
-      "word": "建议大家衣服不要攒一起洗",
-      "onboard_time": 1777159397,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 297584,
       "num": 297584,
       "word": "李小冉王濛乘风的沈腾马丽",
@@ -17105,6 +17105,14 @@
       "onboard_time": 1777132582,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297163,
+      "num": 124187,
+      "word": "洗头发油慢的小方法",
+      "onboard_time": 1777159458,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297133,
@@ -18752,6 +18760,14 @@
       "word": "月租万元小区房成为研究生宿舍",
       "onboard_time": 1775901622,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270518,
+      "num": 169113,
+      "word": "得知胎儿色盲孕晚期女子称害了孩子",
+      "onboard_time": 1777159820,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -21675,6 +21691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232223,
+      "num": 168265,
+      "word": "曾沛慈听到者来女淘汰爆哭",
+      "onboard_time": 1777159820,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232173,
       "num": 335260,
       "word": "黄金或面临长期盘整",
@@ -21737,14 +21761,6 @@
       "onboard_time": 1777040243,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 231472,
-      "num": 111184,
-      "word": "洗头发油慢的小方法",
-      "onboard_time": 1777159458,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 231429,
@@ -22073,6 +22089,14 @@
       "onboard_time": 1777090640,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 195415,
+      "word": "丁俊晖vs赵心童第三阶段",
+      "onboard_time": 1777159757,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 227943,
@@ -24707,14 +24731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199616,
-      "num": 124508,
-      "word": "得知胎儿色盲孕晚期女子称害了孩子",
-      "onboard_time": 1777159820,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199541,
       "num": 199541,
       "word": "国色芳华衍生收入3.7亿",
@@ -25129,14 +25145,6 @@
       "onboard_time": 1777081521,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195415,
-      "num": 195415,
-      "word": "丁俊晖vs赵心童第三阶段",
-      "onboard_time": 1777159757,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 195392,
@@ -27100,7 +27108,7 @@
     },
     {
       "raw_hot": 177632,
-      "num": 118526,
+      "num": 123736,
       "word": "王濛吐槽李小冉",
       "onboard_time": 1777152434,
       "rank": 19,
@@ -30563,14 +30571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151940,
-      "num": 115870,
-      "word": "曾沛慈听到者来女淘汰爆哭",
-      "onboard_time": 1777159820,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151931,
       "num": 151931,
       "word": "林昀儒4比1张本智和",
@@ -31329,6 +31329,14 @@
       "onboard_time": 1776945861,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146764,
+      "num": 215900,
+      "word": "范丞丞你要毁了李昀锐吗",
+      "onboard_time": 1777143795,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 146754,
@@ -35291,6 +35299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123889,
+      "num": 123889,
+      "word": "拒绝退役军人如厕后续调查",
+      "onboard_time": 1777159996,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123806,
       "num": 123806,
       "word": "EXO开场唱MAMA",
@@ -35471,6 +35487,14 @@
       "num": 122815,
       "word": "文章马伊琍女儿小名叫文爱马",
       "onboard_time": 1775360779,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122745,
+      "num": 122745,
+      "word": "曝金泰梨区别对待中粉",
+      "onboard_time": 1777159877,
       "rank": 25,
       "category": "艺人"
     },
@@ -38235,14 +38259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 109849,
-      "num": 109849,
-      "word": "曝金泰梨区别对待中粉",
-      "onboard_time": 1777159877,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109796,
       "num": 109796,
       "word": "把易梦玲认成了柳智敏",
@@ -38449,6 +38465,14 @@
       "onboard_time": 1775617160,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109072,
+      "num": 109072,
+      "word": "中国乒乓运动员张缤月参加MLTT选秀",
+      "onboard_time": 1777159515,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 109065,
@@ -42761,14 +42785,6 @@
       "onboard_time": 1775031803,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94010,
-      "num": 215900,
-      "word": "范丞丞你要毁了李昀锐吗",
-      "onboard_time": 1777143795,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 94003,
@@ -48323,14 +48339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79480,
-      "num": 79480,
-      "word": "拒绝退役军人如厕后续调查",
-      "onboard_time": 1777159996,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79477,
       "num": 79477,
       "word": "造谣王石被抓博主或被行拘",
@@ -50585,14 +50593,6 @@
       "onboard_time": 1776335661,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74447,
-      "num": 74447,
-      "word": "中国乒乓运动员张缤月参加MLTT选秀",
-      "onboard_time": 1777159515,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 74410,
@@ -53547,6 +53547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67510,
+      "num": 112770,
+      "word": "塑料价格暴涨",
+      "onboard_time": 1777161378,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67500,
       "num": 67500,
       "word": "八旬奶奶开无人机帮孙子种地",
@@ -55035,6 +55043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62697,
+      "num": 193153,
+      "word": "伊朗武装部队强硬回应美军",
+      "onboard_time": 1777140975,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62646,
       "num": 232983,
       "word": "中信证券爆发原因",
@@ -56145,14 +56161,6 @@
       "onboard_time": 1775287880,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58966,
-      "num": 193153,
-      "word": "伊朗武装部队强硬回应美军",
-      "onboard_time": 1777140975,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58955,
@@ -64561,6 +64569,14 @@
       "onboard_time": 1776311542,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11112,
+      "num": 75918,
+      "word": "洗空气空调",
+      "onboard_time": 1777125746,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 10963,

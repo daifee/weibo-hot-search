@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/26 07:48:30
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/26 08:03:28
 </p>
 </blockquote>
 <p>
@@ -2361,6 +2361,12 @@ SK回应女孩挪用上千万打赏主播（热度：1009909）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23" target="weibo">
+副所长为完成任务设计让6人吸毒（热度：995285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E5%85%AB%E5%B9%B4%E6%9D%A5%E9%83%BD%E9%95%BF%E4%B8%80%E4%B8%AA%E6%A0%B7%23" target="weibo">
 Jennie八年来都长一个样（热度：993794）
 </a>
@@ -3089,12 +3095,6 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%23" target="weibo">
 日本（热度：840253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23" target="weibo">
-副所长为完成任务设计让6人吸毒（热度：840123）
 </a>
 </li>
 

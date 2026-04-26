@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777160910778,
+  "endTime": 1777161808102,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 840123,
+      "raw_hot": 995285,
       "num": 1566198,
       "word": "副所长为完成任务设计让6人吸毒",
       "onboard_time": 1777128625,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511876,
+      "num": 835934,
+      "word": "美伊停火谈判",
+      "onboard_time": 1777157418,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511470,
       "num": 511470,
       "word": "旅游很多次才知道的事",
@@ -115,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452544,
-      "num": 738559,
-      "word": "美伊停火谈判",
-      "onboard_time": 1777157418,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 383356,
+      "num": 135816,
+      "word": "建议大家衣服不要攒一起洗",
+      "onboard_time": 1777159397,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 372449,
@@ -203,20 +211,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297665,
-      "num": 112299,
-      "word": "建议大家衣服不要攒一起洗",
-      "onboard_time": 1777159397,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 297277,
       "num": 297277,
       "word": "穆祉丞高会",
       "onboard_time": 1777132582,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297163,
+      "num": 124187,
+      "word": "洗头发油慢的小方法",
+      "onboard_time": 1777159458,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 270518,
+      "num": 169113,
+      "word": "得知胎儿色盲孕晚期女子称害了孩子",
+      "onboard_time": 1777159820,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262900,
@@ -251,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231472,
-      "num": 111184,
-      "word": "洗头发油慢的小方法",
-      "onboard_time": 1777159458,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 232223,
+      "num": 168265,
+      "word": "曾沛慈听到者来女淘汰爆哭",
+      "onboard_time": 1777159820,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 195415,
+      "word": "丁俊晖vs赵心童第三阶段",
+      "onboard_time": 1777159757,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 216453,
@@ -265,22 +289,6 @@
       "onboard_time": 1777114640,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199616,
-      "num": 124508,
-      "word": "得知胎儿色盲孕晚期女子称害了孩子",
-      "onboard_time": 1777159820,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195415,
-      "num": 195415,
-      "word": "丁俊晖vs赵心童第三阶段",
-      "onboard_time": 1777159757,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 184261,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 177632,
-      "num": 118526,
+      "num": 123736,
       "word": "王濛吐槽李小冉",
       "onboard_time": 1777152434,
       "rank": 19,
@@ -331,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151940,
-      "num": 115870,
-      "word": "曾沛慈听到者来女淘汰爆哭",
-      "onboard_time": 1777159820,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151866,
       "num": 359926,
       "word": "谢娜哭了",
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146764,
+      "num": 215900,
+      "word": "范丞丞你要毁了李昀锐吗",
+      "onboard_time": 1777143795,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141991,
       "num": 215318,
       "word": "Angelababy两套高定",
@@ -377,6 +385,22 @@
       "onboard_time": 1777127485,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123889,
+      "num": 123889,
+      "word": "拒绝退役军人如厕后续调查",
+      "onboard_time": 1777159996,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122745,
+      "num": 122745,
+      "word": "曝金泰梨区别对待中粉",
+      "onboard_time": 1777159877,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 120036,
@@ -411,20 +435,20 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 109849,
-      "num": 109849,
-      "word": "曝金泰梨区别对待中粉",
-      "onboard_time": 1777159877,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109754,
       "num": 434495,
       "word": "失明男子租房每月50元20年没涨",
       "onboard_time": 1777131562,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109072,
+      "num": 109072,
+      "word": "中国乒乓运动员张缤月参加MLTT选秀",
+      "onboard_time": 1777159515,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 107994,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98080,
+      "num": 170050,
+      "word": "蜜语纪",
+      "onboard_time": 1777160477,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97891,
       "num": 97891,
       "word": "39岁的横店戏王为何无戏可拍",
@@ -457,14 +489,6 @@
       "onboard_time": 1777123765,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94010,
-      "num": 215900,
-      "word": "范丞丞你要毁了李昀锐吗",
-      "onboard_time": 1777143795,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 93202,
@@ -499,12 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79480,
-      "num": 79480,
-      "word": "拒绝退役军人如厕后续调查",
-      "onboard_time": 1777159996,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 80119,
+      "num": 80119,
+      "word": "伊朗高层集体发声",
+      "onboard_time": 1777161318,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75510,
@@ -512,14 +536,6 @@
       "word": "斯诺克",
       "onboard_time": 1777159936,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74447,
-      "num": 74447,
-      "word": "中国乒乓运动员张缤月参加MLTT选秀",
-      "onboard_time": 1777159515,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -531,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67510,
+      "num": 112770,
+      "word": "塑料价格暴涨",
+      "onboard_time": 1777161378,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66897,
       "num": 437253,
       "word": "不和三种人出去吃饭",
       "onboard_time": 1777136958,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64650,
+      "num": 158683,
+      "word": "剑来",
+      "onboard_time": 1777159996,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 64531,
@@ -547,20 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63474,
+      "num": 76154,
+      "word": "张慧雯一张嘴我就知道开麦了",
+      "onboard_time": 1777120820,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62697,
+      "num": 193153,
+      "word": "伊朗武装部队强硬回应美军",
+      "onboard_time": 1777140975,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61962,
       "num": 81040,
       "word": "五一快点来我撑不住了",
       "onboard_time": 1777148294,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61889,
-      "num": 68260,
-      "word": "张慧雯一张嘴我就知道开麦了",
-      "onboard_time": 1777120820,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 59778,
@@ -571,28 +611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58966,
-      "num": 193153,
-      "word": "伊朗武装部队强硬回应美军",
-      "onboard_time": 1777140975,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58567,
       "num": 53462,
       "word": "明日方舟",
       "onboard_time": 1777159936,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53501,
-      "num": 53501,
-      "word": "剑来",
-      "onboard_time": 1777159996,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 49898,
@@ -616,14 +640,6 @@
       "word": "尚公主剧宣",
       "onboard_time": 1777116078,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 48534,
-      "num": 53487,
-      "word": "蜜语纪",
-      "onboard_time": 1777160477,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -707,12 +723,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13506,
+      "raw_hot": 15240,
       "num": 710116,
       "word": "数读一季度消费市场成绩单",
       "onboard_time": 1777122384,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11112,
+      "num": 75918,
+      "word": "洗空气空调",
+      "onboard_time": 1777125746,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 1245,
