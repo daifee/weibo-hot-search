@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777176213184,
+  "endTime": 1777184058238,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2892376,
+      "num": 378662,
+      "word": "魏笑结婚",
+      "onboard_time": 1777179082,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2873544,
       "num": 696753,
       "word": "特朗普同意停火2周",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768043901,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2197911,
-      "num": 1005283,
-      "word": "黄旭熙 可以爆料了吗",
-      "onboard_time": 1777011140,
-      "rank": 49,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

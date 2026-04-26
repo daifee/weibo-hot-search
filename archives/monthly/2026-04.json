@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777176213184,
+  "endTime": 1777184058238,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -353,6 +353,14 @@
       "onboard_time": 1776507981,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2892376,
+      "num": 378662,
+      "word": "魏笑结婚",
+      "onboard_time": 1777179082,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2873544,
@@ -3555,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926206,
+      "num": 385340,
+      "word": "阚清子老公行事体面",
+      "onboard_time": 1777179859,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925322,
       "num": 620991,
       "word": "毛晓彤回应去医美诊所",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1777086859,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 883460,
+      "num": 653649,
+      "word": "老祖宗不愿带回来的食物一定难吃",
+      "onboard_time": 1777180340,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 882869,
@@ -4651,6 +4675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 792536,
+      "num": 384096,
+      "word": "井柏然 老人味太重",
+      "onboard_time": 1777182080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791194,
       "num": 1126591,
       "word": "宇文玥捞上来了",
@@ -4939,6 +4971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 767308,
+      "num": 383237,
+      "word": "张凌赫腿受伤了",
+      "onboard_time": 1777179621,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765488,
       "num": 885502,
       "word": "问界M9价格",
@@ -5017,6 +5057,14 @@
       "onboard_time": 1776996020,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 759563,
+      "num": 381545,
+      "word": "孙怡 爱与不爱很明显",
+      "onboard_time": 1777182621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 758745,
@@ -5225,6 +5273,14 @@
       "onboard_time": 1775307384,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735873,
+      "num": 880407,
+      "word": "约基奇打架",
+      "onboard_time": 1777175241,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 735810,
@@ -6595,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633256,
+      "num": 377808,
+      "word": "原来这是肺不好的表现",
+      "onboard_time": 1777179980,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 632421,
       "num": 1101187,
       "word": "神仙肉",
@@ -6763,6 +6827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622087,
+      "num": 622087,
+      "word": "日美英联手针对中国",
+      "onboard_time": 1777178780,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 622079,
       "num": 622079,
       "word": "曾沛慈 汪东城",
@@ -6833,14 +6905,6 @@
       "onboard_time": 1776686962,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616334,
-      "num": 616334,
-      "word": "约基奇打架",
-      "onboard_time": 1777175241,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 616309,
@@ -8203,6 +8267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 546250,
+      "num": 376492,
+      "word": "李昀锐 孟子义",
+      "onboard_time": 1777175660,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545998,
       "num": 171988,
       "word": "美国前参议员表示特朗普已经住院",
@@ -9449,6 +9521,14 @@
       "onboard_time": 1777038744,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495364,
+      "num": 384873,
+      "word": "桃黑黑直播美颜掉了",
+      "onboard_time": 1777181779,
+      "rank": 12,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 495271,
@@ -10883,6 +10963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439103,
+      "num": 382020,
+      "word": "近20万坐月子婴儿床出现多只书虱",
+      "onboard_time": 1777177222,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438504,
       "num": 438504,
       "word": "孙颖莎填补长达53年空白",
@@ -11345,6 +11433,14 @@
       "onboard_time": 1775397985,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424846,
+      "num": 376384,
+      "word": "林子烨练成微笑唇了",
+      "onboard_time": 1777176440,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 424583,
@@ -11880,6 +11976,14 @@
       "word": "何润东 车代",
       "onboard_time": 1776665902,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 408647,
+      "num": 366217,
+      "word": "王菲在北京的一天是怎么度过的",
+      "onboard_time": 1777173621,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -12747,6 +12851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 388386,
+      "num": 448737,
+      "word": "王者荣耀",
+      "onboard_time": 1775030305,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388228,
       "num": 388228,
       "word": "酒店员工提醒小孩别玩门家长报警",
@@ -13249,6 +13361,14 @@
       "onboard_time": 1775539701,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 375626,
+      "num": 375626,
+      "word": "汕头金山中学放学场面",
+      "onboard_time": 1777174462,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375470,
@@ -14948,7 +15068,7 @@
     },
     {
       "raw_hot": 339585,
-      "num": 273281,
+      "num": 319723,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1776564140,
       "rank": 25,
@@ -16139,6 +16259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317405,
+      "num": 388335,
+      "word": "范丞丞看时团 鹿晗看NINEPERCENT",
+      "onboard_time": 1777177341,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317286,
       "num": 141571,
       "word": "上万美军封锁霍尔木兹海峡",
@@ -17063,6 +17191,14 @@
       "num": 118929,
       "word": "唐禹哲承认逃兵役",
       "onboard_time": 1776248001,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301784,
+      "num": 265822,
+      "word": "阚清子瘦好多",
+      "onboard_time": 1777177700,
       "rank": 30,
       "category": "艺人"
     },
@@ -18555,14 +18691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277808,
-      "num": 448737,
-      "word": "王者荣耀",
-      "onboard_time": 1775030305,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 277694,
       "num": 841172,
       "word": "特斯拉再度产销失衡",
@@ -19043,6 +19171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269202,
+      "num": 380493,
+      "word": "特朗普说他妻子躲得更快",
+      "onboard_time": 1777183280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 269139,
       "num": 269139,
       "word": "王艳19岁儿子时尚感",
@@ -19225,14 +19361,6 @@
       "onboard_time": 1775296642,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 266448,
-      "num": 237063,
-      "word": "李昀锐 孟子义",
-      "onboard_time": 1777175660,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 266399,
@@ -19467,6 +19595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263912,
+      "num": 263912,
+      "word": "浪姐三公 李唐王朝",
+      "onboard_time": 1777182980,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263691,
       "num": 263691,
       "word": "报考公安杨某媛与网传并非同一人",
@@ -19659,6 +19795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260348,
+      "num": 260348,
+      "word": "周杰伦点赞JH的解析视频",
+      "onboard_time": 1777180941,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260271,
       "num": 260271,
       "word": "何穗带娃看小动物",
@@ -19840,6 +19984,14 @@
       "word": "朱珠这个气质怎么看都不会是保洁",
       "onboard_time": 1776137301,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258057,
+      "num": 258057,
+      "word": "宁艺卓真正回应粉丝的语气",
+      "onboard_time": 1777176319,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -21667,14 +21819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235221,
-      "num": 235221,
-      "word": "汕头金山中学放学场面",
-      "onboard_time": 1777174462,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235213,
       "num": 235213,
       "word": "中方回应美颁通用许可证排除中国",
@@ -22411,6 +22555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 226241,
+      "num": 226241,
+      "word": "牢A谈白宫晚宴枪击事件",
+      "onboard_time": 1777183221,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226110,
       "num": 226110,
       "word": "Zhuo顶穿鞋底",
@@ -22553,6 +22705,14 @@
       "onboard_time": 1775662103,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224841,
+      "num": 224841,
+      "word": "欧莱雅 穆祉丞",
+      "onboard_time": 1777176381,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 224291,
@@ -23059,6 +23219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218598,
+      "num": 218598,
+      "word": "吴彦姝87岁穿高跟鞋不驼背",
+      "onboard_time": 1777183160,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218554,
       "num": 139311,
       "word": "填埋奔驰车祭祀当事人致歉",
@@ -23153,6 +23321,14 @@
       "onboard_time": 1776728360,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217536,
+      "num": 217536,
+      "word": "易梦玲刷脸刷不出",
+      "onboard_time": 1777183641,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 217296,
@@ -24187,6 +24363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207027,
+      "num": 207027,
+      "word": "陈瑶下班戴者来女送的镯子",
+      "onboard_time": 1777180881,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207006,
       "num": 207006,
       "word": "KSG全员上败采",
@@ -24849,6 +25033,14 @@
       "onboard_time": 1776160642,
       "rank": 6,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 200307,
+      "num": 266971,
+      "word": "王者荣耀农家乐",
+      "onboard_time": 1777177640,
+      "rank": 29,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 200288,
@@ -26323,6 +26515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186845,
+      "num": 186845,
+      "word": "特朗普撤离白宫现场画面",
+      "onboard_time": 1777180701,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186757,
       "num": 309240,
       "word": "华为乾崑智驾ADS5将于23日发布",
@@ -26657,6 +26857,14 @@
       "onboard_time": 1776007581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184113,
+      "num": 184113,
+      "word": "东方甄选前员工发声",
+      "onboard_time": 1777180220,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 184020,
@@ -27139,6 +27347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179589,
+      "num": 179589,
+      "word": "万斯蹲在椅后被拽走画面",
+      "onboard_time": 1777178601,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179562,
       "num": 126986,
       "word": "向太给儿媳花钱用的是自己零用钱",
@@ -27497,6 +27713,14 @@
       "onboard_time": 1775705240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176778,
+      "num": 176778,
+      "word": "乌兰图雅鼻子上粉底都哭没了",
+      "onboard_time": 1777181480,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 176764,
@@ -27897,6 +28121,14 @@
       "onboard_time": 1777114640,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173330,
+      "num": 173330,
+      "word": "穆祉丞巴黎欧莱雅24000套秒切",
+      "onboard_time": 1777183520,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 173146,
@@ -29275,14 +29507,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 162910,
-      "num": 159663,
-      "word": "王菲在北京的一天是怎么度过的",
-      "onboard_time": 1777173621,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162849,
       "num": 162849,
       "word": "巴拿马向中国放完狠话又求饶",
@@ -29553,6 +29777,14 @@
       "onboard_time": 1776600984,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161574,
+      "num": 161574,
+      "word": "特朗普撤离白宫记者晚宴时疑摔倒",
+      "onboard_time": 1777177399,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161534,
@@ -40169,6 +40401,14 @@
       "onboard_time": 1775237717,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104046,
+      "num": 261708,
+      "word": "余承东称智能车进入体系决胜周期",
+      "onboard_time": 1777180941,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 104032,
@@ -57099,6 +57339,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 56706,
+      "num": 387090,
+      "word": "央视揭秘精灵耳整形乱象",
+      "onboard_time": 1777183280,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 56661,
       "num": 56661,
       "word": "月鳞绮纪海外热度",
@@ -58113,6 +58361,14 @@
       "onboard_time": 1775204541,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51776,
+      "num": 260891,
+      "word": "年轻人都在蹲的快乐接驳车",
+      "onboard_time": 1777183460,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 51763,
@@ -61739,6 +61995,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 30904,
+      "num": 379012,
+      "word": "煎饼摊位被挡获全网撑腰",
+      "onboard_time": 1777183280,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30868,
       "num": 236655,
       "word": "拒绝猥亵被杀害藏尸家属发声",
@@ -63593,6 +63857,14 @@
       "onboard_time": 1776298041,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21581,
+      "num": 380129,
+      "word": "中国2004年开始建立战略石油储备",
+      "onboard_time": 1777183280,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21548,
