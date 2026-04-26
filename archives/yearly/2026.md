@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/26 21:21:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/26 21:47:34
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ sbti人格大全（热度：2397402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
+歌手2026（热度：2388024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%9A%E5%AE%9E%E4%B8%80%E5%8F%A3%E9%81%93%E6%AD%89%23" target="weibo">
 诚实一口道歉（热度：2371127）
 </a>
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%88%96%E9%9C%80%E8%B5%94%E5%81%BF%E6%B6%88%E8%B4%B9%E8%80%8526.9%E4%BA%BF%E5%85%83%23" target="weibo">
 鹿哈或需赔偿消费者26.9亿元（热度：2210943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%81%87%E6%B8%85%E6%98%8E%E8%BF%9E%E4%BC%916%E5%A4%A9%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%BE%88%E6%97%A0%E5%A5%88%23" target="weibo">
-春假清明连休6天家长称很无奈（热度：2208378）
 </a>
 </li>
 
