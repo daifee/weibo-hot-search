@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777174625467,
+  "endTime": 1777176213184,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2766724,
-      "num": 388940,
+      "num": 520431,
       "word": "宁艺卓回怼粉丝",
       "onboard_time": 1777163959,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2111443,
+      "num": 757685,
+      "word": "一袋糯米 全部暴露",
+      "onboard_time": 1777172840,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2034226,
       "num": 2034226,
       "word": "白宫晚宴枪击事件枪手身亡",
@@ -43,16 +51,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1207002,
-      "num": 718784,
-      "word": "一袋糯米 全部暴露",
-      "onboard_time": 1777172840,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1199404,
-      "num": 703685,
+      "num": 757561,
       "word": "张若昀评论区",
       "onboard_time": 1777170260,
       "rank": 4,
@@ -65,6 +65,14 @@
       "onboard_time": 1777128625,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 952283,
+      "num": 755754,
+      "word": "阚清子老公不抢曾沛慈的第一solo",
+      "onboard_time": 1777174822,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 913599,
@@ -91,6 +99,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 795156,
+      "num": 940317,
+      "word": "特朗普公布枪手强闯安检录像",
+      "onboard_time": 1777173200,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 756795,
+      "num": 756795,
+      "word": "羽毛球取消21分制",
+      "onboard_time": 1777172419,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686165,
       "num": 455947,
       "word": "曾沛慈赢了",
@@ -115,16 +139,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 645854,
-      "num": 645854,
-      "word": "羽毛球取消21分制",
-      "onboard_time": 1777172419,
-      "rank": 5,
+      "raw_hot": 616334,
+      "num": 616334,
+      "word": "约基奇打架",
+      "onboard_time": 1777175241,
+      "rank": 8,
       "category": "体育"
     },
     {
       "raw_hot": 615301,
-      "num": 388663,
+      "num": 490263,
       "word": "俞敏洪回应多位主播离职",
       "onboard_time": 1777165939,
       "rank": 12,
@@ -203,8 +227,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426385,
+      "num": 350965,
+      "word": "DeepSeek致谢近300研发者10人已离职",
+      "onboard_time": 1777173739,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 412164,
-      "num": 314395,
+      "num": 337313,
       "word": "建议大家衣服不要攒一起洗",
       "onboard_time": 1777159397,
       "rank": 20,
@@ -241,6 +273,14 @@
       "onboard_time": 1777168099,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372942,
+      "num": 372942,
+      "word": "粉色榴莲",
+      "onboard_time": 1777173621,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 372449,
@@ -331,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315424,
+      "num": 315424,
+      "word": "张檬小五儿子一岁了",
+      "onboard_time": 1777168339,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314645,
       "num": 314645,
       "word": "火湖G3漏吹詹姆斯踩线",
       "onboard_time": 1777168099,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314327,
-      "num": 314327,
-      "word": "DeepSeek致谢近300研发者10人已离职",
-      "onboard_time": 1777173739,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 312831,
@@ -371,16 +411,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 297045,
-      "num": 297045,
-      "word": "特朗普公布枪手强闯安检录像",
-      "onboard_time": 1777173200,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 283636,
-      "num": 314553,
+      "num": 357034,
       "word": "森林狼vs掘金",
       "onboard_time": 1777169539,
       "rank": 18,
@@ -395,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266448,
+      "num": 237063,
+      "word": "李昀锐 孟子义",
+      "onboard_time": 1777175660,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262900,
       "num": 443804,
       "word": "刘诗诗天坛女神",
       "onboard_time": 1777117641,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 260916,
-      "num": 260916,
-      "word": "张檬小五儿子一岁了",
-      "onboard_time": 1777168339,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 260666,
@@ -435,11 +467,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237677,
+      "num": 237677,
+      "word": "22岁女孩运动减肥把肌肉练爆了",
+      "onboard_time": 1777169599,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235221,
+      "num": 235221,
+      "word": "汕头金山中学放学场面",
+      "onboard_time": 1777174462,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232223,
       "num": 168265,
       "word": "曾沛慈听到者来女淘汰爆哭",
       "onboard_time": 1777159820,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229104,
+      "num": 229104,
+      "word": "奔跑吧路透",
+      "onboard_time": 1777174462,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -451,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218523,
-      "num": 218523,
-      "word": "22岁女孩运动减肥把肌肉练爆了",
-      "onboard_time": 1777169599,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216453,
       "num": 216453,
       "word": "李艺彤 气死我了",
       "onboard_time": 1777114640,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216256,
+      "num": 216256,
+      "word": "26岁澳籍富豪勒颈韩裔网红女友",
+      "onboard_time": 1777165939,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 211732,
@@ -475,20 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196685,
-      "num": 196685,
-      "word": "粉色榴莲",
-      "onboard_time": 1777173621,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 191930,
       "num": 191930,
       "word": "王勉说家里暂不开放旅游业务",
       "onboard_time": 1777163238,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186097,
+      "num": 186097,
+      "word": "前东方甄选主播曾公开表达对公司不满",
+      "onboard_time": 1777172480,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 185637,
@@ -499,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184997,
+      "num": 184997,
+      "word": "网民造谣雷军被行政拘留10天",
+      "onboard_time": 1777170380,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 184261,
       "num": 464410,
       "word": "被减肥背刺了",
       "onboard_time": 1777112420,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179651,
-      "num": 179651,
-      "word": "网民造谣雷军被行政拘留10天",
-      "onboard_time": 1777170380,
-      "rank": 33,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 178726,
@@ -547,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172640,
-      "num": 172640,
-      "word": "前东方甄选主播曾公开表达对公司不满",
-      "onboard_time": 1777172480,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 170357,
       "num": 262257,
       "word": "特朗普发布晚宴安全事件嫌疑人照片",
@@ -579,6 +627,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163534,
+      "num": 159952,
+      "word": "黑夜告白开播",
+      "onboard_time": 1777172600,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162910,
+      "num": 159663,
+      "word": "王菲在北京的一天是怎么度过的",
+      "onboard_time": 1777173621,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161725,
       "num": 161725,
       "word": "东方甄选主播离职原因",
@@ -587,28 +651,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160795,
+      "num": 160795,
+      "word": "最舒服的关系是聊天搭子",
+      "onboard_time": 1777170619,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157223,
       "num": 157223,
       "word": "环境对一个人的影响有多大",
       "onboard_time": 1777162097,
       "rank": 41,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 156341,
-      "num": 156341,
-      "word": "黑夜告白开播",
-      "onboard_time": 1777172600,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155859,
-      "num": 155859,
-      "word": "奔跑吧路透",
-      "onboard_time": 1777174462,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 154671,
@@ -625,6 +681,14 @@
       "onboard_time": 1777130063,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151503,
+      "num": 151503,
+      "word": "迪温琴佐跟腱撕裂",
+      "onboard_time": 1777175960,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 150242,
@@ -659,20 +723,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 141170,
-      "num": 141170,
-      "word": "最舒服的关系是聊天搭子",
-      "onboard_time": 1777170619,
+      "raw_hot": 139808,
+      "num": 139808,
+      "word": "闪耀暖暖",
+      "onboard_time": 1777175839,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140280,
-      "num": 140280,
-      "word": "汕头金山中学放学场面",
-      "onboard_time": 1777174462,
-      "rank": 45,
-      "category": "民生新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 139160,
@@ -691,11 +747,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132691,
-      "num": 132691,
-      "word": "26岁澳籍富豪勒颈韩裔网红女友",
-      "onboard_time": 1777165939,
-      "rank": 47,
+      "raw_hot": 134303,
+      "num": 134303,
+      "word": "英国56岁失独母亲飞往瑞士接受安乐死",
+      "onboard_time": 1777170920,
+      "rank": 49,
       "category": "海外新闻"
     },
     {
@@ -707,20 +763,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130158,
-      "num": 130158,
-      "word": "英国56岁失独母亲飞往瑞士接受安乐死",
-      "onboard_time": 1777170920,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128885,
       "num": 427868,
       "word": "大牛股年内已猛涨208%",
       "onboard_time": 1777127485,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128458,
+      "num": 128458,
+      "word": "日本将中国视为威胁",
+      "onboard_time": 1777174160,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123889,
@@ -859,20 +915,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84737,
+      "num": 771962,
+      "word": "南方又一轮降雨降温",
+      "onboard_time": 1777171581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82454,
       "num": 419637,
       "word": "中国超70%石油靠进口却不慌",
       "onboard_time": 1777114640,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 82289,
-      "num": 771962,
-      "word": "南方又一轮降雨降温",
-      "onboard_time": 1777171581,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80119,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1777145175,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36507,
+      "num": 342589,
+      "word": "特朗普否认枪击事件与伊朗战争有关",
+      "onboard_time": 1777175480,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35459,

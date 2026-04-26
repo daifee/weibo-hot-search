@@ -1,0 +1,410 @@
+{
+  "runTime": 1777176213184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2021322,
+        "num": 2021322,
+        "word": "白宫晚宴枪击事件枪手身亡",
+        "onboard_time": 1777167440,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795156,
+        "num": 940317,
+        "word": "特朗普公布枪手强闯安检录像",
+        "onboard_time": 1777173200,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84737,
+        "num": 758033,
+        "word": "南方又一轮降雨降温",
+        "onboard_time": 1777171581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2111443,
+        "num": 757685,
+        "word": "一袋糯米 全部暴露",
+        "onboard_time": 1777172840,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1072281,
+        "num": 757561,
+        "word": "张若昀评论区",
+        "onboard_time": 1777170260,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756795,
+        "num": 756795,
+        "word": "羽毛球取消21分制",
+        "onboard_time": 1777172419,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952283,
+        "num": 755754,
+        "word": "阚清子老公不抢曾沛慈的第一solo",
+        "onboard_time": 1777174822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701227,
+        "num": 701227,
+        "word": "东方甄选4名主播同日宣布离职",
+        "onboard_time": 1777163840,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 616334,
+        "num": 616334,
+        "word": "约基奇打架",
+        "onboard_time": 1777175241,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532941,
+        "num": 532941,
+        "word": "看上去很贵实际便宜又好玩的城市",
+        "onboard_time": 1777168099,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 2647158,
+        "num": 520431,
+        "word": "宁艺卓回怼粉丝",
+        "onboard_time": 1777163959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618913,
+        "num": 506281,
+        "word": "阚清子说自己胖了干啥都心酸",
+        "onboard_time": 1777170498,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490263,
+        "num": 490263,
+        "word": "俞敏洪回应多位主播离职",
+        "onboard_time": 1777165939,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 491441,
+        "num": 438403,
+        "word": "齐思钧表情",
+        "onboard_time": 1777132881,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372942,
+        "num": 372942,
+        "word": "粉色榴莲",
+        "onboard_time": 1777173621,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 359060,
+        "num": 359060,
+        "word": "周杰伦方回应新豪宅在昆凌父亲名下",
+        "onboard_time": 1777168099,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232637,
+        "num": 357034,
+        "word": "森林狼vs掘金",
+        "onboard_time": 1777169539,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356687,
+        "num": 356687,
+        "word": "得知胎儿色盲孕晚期女子称害了孩子",
+        "onboard_time": 1777159820,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426385,
+        "num": 350965,
+        "word": "DeepSeek致谢近300研发者10人已离职",
+        "onboard_time": 1777173739,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36507,
+        "num": 342589,
+        "word": "特朗普否认枪击事件与伊朗战争有关",
+        "onboard_time": 1777175480,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358667,
+        "num": 340462,
+        "word": "榴莲已经20多元一斤了",
+        "onboard_time": 1777163119,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337313,
+        "num": 337313,
+        "word": "建议大家衣服不要攒一起洗",
+        "onboard_time": 1777159397,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 315424,
+        "num": 315424,
+        "word": "张檬小五儿子一岁了",
+        "onboard_time": 1777168339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294976,
+        "num": 294976,
+        "word": "特朗普因安全原因离开白宫晚宴",
+        "onboard_time": 1777166480,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284479,
+        "num": 284479,
+        "word": "网传浪姐二公个喜排名",
+        "onboard_time": 1777164979,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282094,
+        "num": 282094,
+        "word": "花少导演回复袁一琦粉丝",
+        "onboard_time": 1777168880,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221944,
+        "num": 246786,
+        "word": "火湖G3漏吹詹姆斯踩线",
+        "onboard_time": 1777168099,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 242106,
+        "word": "爱德华兹受伤",
+        "onboard_time": 1777168700,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237677,
+        "num": 237677,
+        "word": "22岁女孩运动减肥把肌肉练爆了",
+        "onboard_time": 1777169599,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 237063,
+        "word": "李昀锐 孟子义",
+        "onboard_time": 1777175660,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235221,
+        "num": 235221,
+        "word": "汕头金山中学放学场面",
+        "onboard_time": 1777174462,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229104,
+        "num": 229104,
+        "word": "奔跑吧路透",
+        "onboard_time": 1777174462,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216256,
+        "num": 216256,
+        "word": "26岁澳籍富豪勒颈韩裔网红女友",
+        "onboard_time": 1777165939,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186097,
+        "num": 186097,
+        "word": "前东方甄选主播曾公开表达对公司不满",
+        "onboard_time": 1777172480,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184997,
+        "num": 184997,
+        "word": "网民造谣雷军被行政拘留10天",
+        "onboard_time": 1777170380,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 170066,
+        "num": 170066,
+        "word": "者来女还没加谢娜微信",
+        "onboard_time": 1777170860,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164668,
+        "num": 164668,
+        "word": "霍思燕淡出演艺圈后深耕训犬领域",
+        "onboard_time": 1777163300,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160795,
+        "num": 160795,
+        "word": "最舒服的关系是聊天搭子",
+        "onboard_time": 1777170619,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163534,
+        "num": 159952,
+        "word": "黑夜告白开播",
+        "onboard_time": 1777172600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162910,
+        "num": 159663,
+        "word": "王菲在北京的一天是怎么度过的",
+        "onboard_time": 1777173621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159081,
+        "num": 159081,
+        "word": "特朗普发布晚宴安全事件嫌疑人照片",
+        "onboard_time": 1777173200,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155893,
+        "num": 155893,
+        "word": "洗头发油慢的小方法",
+        "onboard_time": 1777159458,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151503,
+        "num": 151503,
+        "word": "迪温琴佐跟腱撕裂",
+        "onboard_time": 1777175960,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151200,
+        "num": 151200,
+        "word": "节目录制完王勉第一时间检查家里",
+        "onboard_time": 1777172419,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139808,
+        "num": 139808,
+        "word": "闪耀暖暖",
+        "onboard_time": 1777175839,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19068,
+        "num": 136148,
+        "word": "管江勇向大理借风礼赠任鲁豫",
+        "onboard_time": 1777172840,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134303,
+        "num": 134303,
+        "word": "英国56岁失独母亲飞往瑞士接受安乐死",
+        "onboard_time": 1777170920,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 128458,
+        "word": "日本将中国视为威胁",
+        "onboard_time": 1777174160,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140759,
+        "num": 128313,
+        "word": "王勉说家里暂不开放旅游业务",
+        "onboard_time": 1777163238,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128127,
+        "num": 128127,
+        "word": "环境对一个人的影响有多大",
+        "onboard_time": 1777162097,
+        "rank": 49,
+        "category": "议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给义乌换上一件大衣服#"
+    }
+  }
+}
