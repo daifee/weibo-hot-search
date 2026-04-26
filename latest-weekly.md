@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/27 00:55:55
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/27 01:10:32
 </p>
 </blockquote>
 <p>
@@ -537,6 +537,12 @@ PEL（热度：479620）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E4%BF%AE%20%E5%A4%9F%E7%88%B1%23" target="weibo">
+陈德修 够爱（热度：476978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%8629.9%E5%85%83%E7%BE%BD%E8%A1%A3%E7%94%98%E8%93%9D%E7%9B%86%E6%A0%BD%E8%A2%AB%E6%8A%A2%E7%A9%BA%23" target="weibo">
 山姆29.9元羽衣甘蓝盆栽被抢空（热度：469420）
 </a>
@@ -569,12 +575,6 @@ PEL（热度：479620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9120%E4%B8%87%E5%9D%90%E6%9C%88%E5%AD%90%E5%A9%B4%E5%84%BF%E5%BA%8A%E5%87%BA%E7%8E%B0%E5%A4%9A%E5%8F%AA%E4%B9%A6%E8%99%B1%23" target="weibo">
 近20万坐月子婴儿床出现多只书虱（热度：439103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E4%BF%AE%20%E5%A4%9F%E7%88%B1%23" target="weibo">
-陈德修 够爱（热度：432769）
 </a>
 </li>
 
@@ -1491,6 +1491,12 @@ Angelababy两套高定（热度：141991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%BC%94%E6%8A%80%23" target="weibo">
+许凯演技（热度：141430）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96%23" target="weibo">
 闪耀暖暖（热度：139808）
 </a>
@@ -1571,12 +1577,6 @@ Angelababy两套高定（热度：141991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CNN%E4%B8%BB%E6%92%AD%E8%B7%9D%E6%9E%AA%E6%89%8B%E4%BB%85%E5%87%A0%E8%8B%B1%E5%B0%BA%23" target="weibo">
 CNN主播距枪手仅几英尺（热度：130307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%BC%94%E6%8A%80%23" target="weibo">
-许凯演技（热度：129586）
 </a>
 </li>
 
@@ -1817,6 +1817,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0%23" target="weibo">
 伊朗高层集体发声（热度：80119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%98%E6%A5%9A%E5%92%8C%E8%8E%AB%E7%A6%BB%E9%83%BD%E6%9A%82%E5%AE%9A%E5%90%8C%E4%B8%80%E5%A4%A9%E6%92%AD%E5%87%BA%23" target="weibo">
+翘楚和莫离都暂定同一天播出（热度：79168）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/27 00:05:42 ~ 2026/04/27 00:55:55
+本榜单时间：2026/04/27 00:05:42 ~ 2026/04/27 01:10:32
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@ AG春季赛总冠军（热度：591495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E4%BF%AE%20%E5%A4%9F%E7%88%B1%23" target="weibo">
+陈德修 够爱（热度：476978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%8629.9%E5%85%83%E7%BE%BD%E8%A1%A3%E7%94%98%E8%93%9D%E7%9B%86%E6%A0%BD%E8%A2%AB%E6%8A%A2%E7%A9%BA%23" target="weibo">
 山姆29.9元羽衣甘蓝盆栽被抢空（热度：469420）
 </a>
@@ -89,12 +95,6 @@ AG春季赛总冠军（热度：591495）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%23" target="weibo">
 连续两周上四休三（热度：436174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E4%BF%AE%20%E5%A4%9F%E7%88%B1%23" target="weibo">
-陈德修 够爱（热度：432769）
 </a>
 </li>
 
@@ -279,6 +279,12 @@ A股一季度最赚钱公司曝光（热度：187535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%BC%94%E6%8A%80%23" target="weibo">
+许凯演技（热度：141430）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%9C%A8%E4%B9%B1%E5%85%85%E7%94%B5%E6%8F%90%E6%97%A9%E6%8D%9F%E5%AE%B3%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E4%BA%86%23" target="weibo">
 别在乱充电提早损害电池健康了（热度：139909）
 </a>
@@ -291,8 +297,8 @@ A股一季度最赚钱公司曝光（热度：187535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%BC%94%E6%8A%80%23" target="weibo">
-许凯演技（热度：129586）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%89%B9%E5%8B%A4%E5%B1%80%E8%82%89%E5%BC%B9%E7%89%B9%E5%B7%A5%E5%86%8D%E6%AC%A1%E5%87%BA%E9%95%9C%23" target="weibo">
+美国特勤局肉弹特工再次出镜（热度：128927）
 </a>
 </li>
 
@@ -315,12 +321,6 @@ A股一季度最赚钱公司曝光（热度：187535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%89%B9%E5%8B%A4%E5%B1%80%E8%82%89%E5%BC%B9%E7%89%B9%E5%B7%A5%E5%86%8D%E6%AC%A1%E5%87%BA%E9%95%9C%23" target="weibo">
-美国特勤局肉弹特工再次出镜（热度：115402）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%AF%B4%E4%B8%81%E4%BF%8A%E6%99%96%E7%8A%B6%E6%80%81%E6%B2%A1%E6%9C%89%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A5%BD%23" target="weibo">
 岳云鹏说丁俊晖状态没有赵心童好（热度：108909）
 </a>
@@ -329,6 +329,36 @@ A股一季度最赚钱公司曝光（热度：187535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%8A%A9%E4%BA%BA%E7%B1%BB%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%A6%96%E6%AC%A1%E7%A0%B4%E4%BA%8C%23" target="weibo">
 阿迪达斯助人类马拉松首次破二（热度：81162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%98%E6%A5%9A%E5%92%8C%E8%8E%AB%E7%A6%BB%E9%83%BD%E6%9A%82%E5%AE%9A%E5%90%8C%E4%B8%80%E5%A4%A9%E6%92%AD%E5%87%BA%23" target="weibo">
+翘楚和莫离都暂定同一天播出（热度：79168）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23" target="weibo">
+特朗普夫人反应迅速（热度：73652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%99%E5%90%8E%E6%8F%B4%E4%BC%9A%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23" target="weibo">
+一笙后援会集体辞职（热度：72581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%84%9A%E8%84%B1%E8%87%BC%E4%BA%86%E5%8C%BB%E6%82%A3%E5%8F%8C%E6%96%B9%E9%83%BD%E5%BE%88%E7%B4%A7%E5%BC%A0%23" target="weibo">
+狗狗脚脱臼了医患双方都很紧张（热度：71736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E4%B8%8EKeria%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
+Faker与Keria破纪录（热度：67076）
 </a>
 </li>
 

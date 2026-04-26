@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777222555842,
+  "endTime": 1777223432173,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 955322,
-      "num": 808591,
+      "num": 862661,
       "word": "身份证照片最接近别人肉眼看到的自己",
       "onboard_time": 1777205060,
       "rank": 4,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476978,
+      "num": 476978,
+      "word": "陈德修 够爱",
+      "onboard_time": 1777218441,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 469420,
       "num": 469420,
       "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
@@ -105,14 +113,6 @@
       "onboard_time": 1777212861,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 432769,
-      "num": 281796,
-      "word": "陈德修 够爱",
-      "onboard_time": 1777218441,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 409963,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141430,
+      "num": 141430,
+      "word": "许凯演技",
+      "onboard_time": 1777219939,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139909,
       "num": 255528,
       "word": "别在乱充电提早损害电池健康了",
@@ -371,12 +379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129586,
-      "num": 128493,
-      "word": "许凯演技",
-      "onboard_time": 1777219939,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 128927,
+      "num": 122412,
+      "word": "美国特勤局肉弹特工再次出镜",
+      "onboard_time": 1777215142,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124717,
@@ -403,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115402,
-      "num": 115402,
-      "word": "美国特勤局肉弹特工再次出镜",
-      "onboard_time": 1777215142,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "岳云鹏说丁俊晖状态没有赵心童好",
@@ -425,6 +425,46 @@
       "onboard_time": 1777215922,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79168,
+      "num": 79168,
+      "word": "翘楚和莫离都暂定同一天播出",
+      "onboard_time": 1777222817,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73652,
+      "num": 73652,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72581,
+      "num": 72581,
+      "word": "一笙后援会集体辞职",
+      "onboard_time": 1777203622,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 71736,
+      "num": 71736,
+      "word": "狗狗脚脱臼了医患双方都很紧张",
+      "onboard_time": 1777199359,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67076,
+      "num": 71494,
+      "word": "Faker与Keria破纪录",
+      "onboard_time": 1777213102,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 61039,

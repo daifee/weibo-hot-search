@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777222555842,
+  "endTime": 1777223432173,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1222910,
-      "num": 848863,
+      "num": 862661,
       "word": "身份证照片最接近别人肉眼看到的自己",
       "onboard_time": 1777205060,
       "rank": 4,
@@ -699,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 476978,
+      "num": 476978,
+      "word": "陈德修 够爱",
+      "onboard_time": 1777218441,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 469420,
       "num": 469420,
       "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
@@ -745,14 +753,6 @@
       "onboard_time": 1777177222,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 432769,
-      "num": 281796,
-      "word": "陈德修 够爱",
-      "onboard_time": 1777218441,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 426385,
@@ -1971,6 +1971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141430,
+      "num": 141430,
+      "word": "许凯演技",
+      "onboard_time": 1777219939,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139808,
       "num": 139808,
       "word": "闪耀暖暖",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1777172600,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129586,
-      "num": 128493,
-      "word": "许凯演技",
-      "onboard_time": 1777219939,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 128885,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1777161318,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79168,
+      "num": 79168,
+      "word": "翘楚和莫离都暂定同一天播出",
+      "onboard_time": 1777222817,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 77498,
