@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777237521378,
+  "endTime": 1777240097037,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -47435,6 +47435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86467,
+      "num": 92210,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86455,
       "num": 86455,
       "word": "奥迪加油逃单司机应全额承担632元",
@@ -55363,14 +55371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67663,
-      "num": 92210,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 67635,
       "num": 67635,
       "word": "原来葡式蛋挞和葡萄没关系",
@@ -56251,12 +56251,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64854,
+      "num": 92154,
+      "word": "东方甄选为何留不住人",
+      "onboard_time": 1777233615,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64853,
       "num": 64853,
       "word": "热巴贺思慕腾讯首个破2亿女性角色",
       "onboard_time": 1775487383,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64839,
+      "num": 83221,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64835,
@@ -57561,6 +57577,14 @@
       "onboard_time": 1776951203,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 60729,
+      "num": 80156,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 60726,
@@ -59561,14 +59585,6 @@
       "onboard_time": 1776718934,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52275,
-      "num": 92154,
-      "word": "东方甄选为何留不住人",
-      "onboard_time": 1777233615,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 52256,
@@ -62483,14 +62499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35919,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35918,
       "num": 735005,
       "word": "第六届亚洲沙滩运动会在三亚开幕",
@@ -63499,14 +63507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30038,
-      "num": 80156,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 29981,
       "num": 82366,
       "word": "18部影片定档五一档",
@@ -63955,6 +63955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27710,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27703,
       "num": 696009,
       "word": "清明假期新业态解锁新体验",
@@ -64385,14 +64393,6 @@
       "onboard_time": 1775443041,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25810,
-      "num": 36306,
-      "word": "破二 亚军",
-      "onboard_time": 1777231634,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 25714,
@@ -64921,6 +64921,14 @@
       "onboard_time": 1775494759,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23732,
+      "num": 27703,
+      "word": "在重庆打卡电影取景地",
+      "onboard_time": 1777233194,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 23706,

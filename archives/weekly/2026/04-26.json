@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777237521378,
+  "endTime": 1777240097037,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2395,6 +2395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86467,
+      "num": 92210,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84737,
       "num": 771962,
       "word": "南方又一轮降雨降温",
@@ -2507,14 +2515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67663,
-      "num": 92210,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 67510,
       "num": 112770,
       "word": "塑料价格暴涨",
@@ -2529,6 +2529,22 @@
       "onboard_time": 1777136958,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64854,
+      "num": 92154,
+      "word": "东方甄选为何留不住人",
+      "onboard_time": 1777233615,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 64839,
+      "num": 83221,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64650,
@@ -2579,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60729,
+      "num": 80156,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59778,
       "num": 414526,
       "word": "天坛奖获奖名单",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1777215201,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52275,
-      "num": 92154,
-      "word": "东方甄选为何留不住人",
-      "onboard_time": 1777233615,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 51776,
@@ -2747,14 +2763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35919,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35459,
       "num": 237829,
       "word": "雄塑科技一季净利暴增68902%",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1777140136,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30038,
-      "num": 80156,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 29788,
@@ -2843,20 +2843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27710,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26859,
       "num": 103632,
       "word": "2026PEL春季赛",
       "onboard_time": 1777143315,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25810,
-      "num": 36306,
-      "word": "破二 亚军",
-      "onboard_time": 1777231634,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 24597,
@@ -2873,6 +2873,14 @@
       "onboard_time": 1777204880,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23732,
+      "num": 27703,
+      "word": "在重庆打卡电影取景地",
+      "onboard_time": 1777233194,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 22082,
