@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777161808102,
+  "endTime": 1777174625467,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -9,6 +9,14 @@
       "onboard_time": 1777127603,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2766724,
+      "num": 388940,
+      "word": "宁艺卓回怼粉丝",
+      "onboard_time": 1777163959,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2736520,
@@ -27,6 +35,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2034226,
+      "num": 2034226,
+      "word": "白宫晚宴枪击事件枪手身亡",
+      "onboard_time": 1777167440,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1207002,
+      "num": 718784,
+      "word": "一袋糯米 全部暴露",
+      "onboard_time": 1777172840,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1199404,
+      "num": 703685,
+      "word": "张若昀评论区",
+      "onboard_time": 1777170260,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 995285,
       "num": 1566198,
       "word": "副所长为完成任务设计让6人吸毒",
@@ -35,12 +67,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 913599,
+      "num": 928834,
+      "word": "东方甄选4名主播同日宣布离职",
+      "onboard_time": 1777163840,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 833538,
       "num": 2102073,
       "word": "青岛警方致歉",
       "onboard_time": 1777119322,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 828115,
+      "num": 635975,
+      "word": "阚清子说自己胖了干啥都心酸",
+      "onboard_time": 1777170498,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 686165,
@@ -65,6 +113,30 @@
       "onboard_time": 1777110500,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645854,
+      "num": 645854,
+      "word": "羽毛球取消21分制",
+      "onboard_time": 1777172419,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 615301,
+      "num": 388663,
+      "word": "俞敏洪回应多位主播离职",
+      "onboard_time": 1777165939,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 587261,
+      "num": 587261,
+      "word": "看上去很贵实际便宜又好玩的城市",
+      "onboard_time": 1777168099,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 532075,
@@ -107,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499470,
+      "num": 261844,
+      "word": "阚清子20分钟涨了20万",
+      "onboard_time": 1777168941,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480383,
       "num": 466358,
       "word": "孤单北半球真的跑调到北半球了",
@@ -123,12 +203,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383356,
-      "num": 135816,
+      "raw_hot": 412164,
+      "num": 314395,
       "word": "建议大家衣服不要攒一起洗",
       "onboard_time": 1777159397,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 394816,
+      "num": 394816,
+      "word": "网传浪姐二公个喜排名",
+      "onboard_time": 1777164979,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389384,
+      "num": 389384,
+      "word": "榴莲已经20多元一斤了",
+      "onboard_time": 1777163119,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 387588,
+      "num": 387588,
+      "word": "得知胎儿色盲孕晚期女子称害了孩子",
+      "onboard_time": 1777159820,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375452,
+      "num": 375452,
+      "word": "周杰伦方回应新豪宅在昆凌父亲名下",
+      "onboard_time": 1777168099,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 372449,
@@ -155,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 364314,
+      "num": 364314,
+      "word": "特朗普因安全原因离开白宫晚宴",
+      "onboard_time": 1777166480,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 364191,
       "num": 323196,
       "word": "言不由衷",
@@ -168,6 +288,14 @@
       "word": "张慧雯跑了一整个舞台去拥抱者来女",
       "onboard_time": 1777136239,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 360673,
+      "num": 314645,
+      "word": "花少导演回复袁一琦粉丝",
+      "onboard_time": 1777168880,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -203,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314645,
+      "num": 314645,
+      "word": "火湖G3漏吹詹姆斯踩线",
+      "onboard_time": 1777168099,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314327,
+      "num": 314327,
+      "word": "DeepSeek致谢近300研发者10人已离职",
+      "onboard_time": 1777173739,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 312831,
       "num": 312831,
       "word": "孟子义李昀锐下定决心拆cp的原因",
@@ -220,19 +364,35 @@
     },
     {
       "raw_hot": 297163,
-      "num": 124187,
+      "num": 160106,
       "word": "洗头发油慢的小方法",
       "onboard_time": 1777159458,
       "rank": 21,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 270518,
-      "num": 169113,
-      "word": "得知胎儿色盲孕晚期女子称害了孩子",
-      "onboard_time": 1777159820,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 297045,
+      "num": 297045,
+      "word": "特朗普公布枪手强闯安检录像",
+      "onboard_time": 1777173200,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 283636,
+      "num": 314553,
+      "word": "森林狼vs掘金",
+      "onboard_time": 1777169539,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272045,
+      "num": 272045,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1777168700,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 262900,
@@ -241,6 +401,14 @@
       "onboard_time": 1777117641,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260916,
+      "num": 260916,
+      "word": "张檬小五儿子一岁了",
+      "onboard_time": 1777168339,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 260666,
@@ -283,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218523,
+      "num": 218523,
+      "word": "22岁女孩运动减肥把肌肉练爆了",
+      "onboard_time": 1777169599,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216453,
       "num": 216453,
       "word": "李艺彤 气死我了",
@@ -291,12 +467,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211732,
+      "num": 211732,
+      "word": "霍思燕淡出演艺圈后深耕训犬领域",
+      "onboard_time": 1777163300,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196685,
+      "num": 196685,
+      "word": "粉色榴莲",
+      "onboard_time": 1777173621,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 191930,
+      "num": 191930,
+      "word": "王勉说家里暂不开放旅游业务",
+      "onboard_time": 1777163238,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185637,
+      "num": 185637,
+      "word": "者来女还没加谢娜微信",
+      "onboard_time": 1777170860,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184261,
       "num": 464410,
       "word": "被减肥背刺了",
       "onboard_time": 1777112420,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179651,
+      "num": 179651,
+      "word": "网民造谣雷军被行政拘留10天",
+      "onboard_time": 1777170380,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 178726,
+      "num": 178726,
+      "word": "黄金经历惨烈抛售",
+      "onboard_time": 1777162579,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 177632,
@@ -323,12 +547,68 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172640,
+      "num": 172640,
+      "word": "前东方甄选主播曾公开表达对公司不满",
+      "onboard_time": 1777172480,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 170357,
+      "num": 262257,
+      "word": "特朗普发布晚宴安全事件嫌疑人照片",
+      "onboard_time": 1777173200,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 168702,
+      "num": 168702,
+      "word": "节目录制完王勉第一时间检查家里",
+      "onboard_time": 1777172419,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166494,
       "num": 440034,
       "word": "世界羽联通过15分制改革",
       "onboard_time": 1777127006,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161725,
+      "num": 161725,
+      "word": "东方甄选主播离职原因",
+      "onboard_time": 1777162038,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 157223,
+      "num": 157223,
+      "word": "环境对一个人的影响有多大",
+      "onboard_time": 1777162097,
+      "rank": 41,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 156341,
+      "num": 156341,
+      "word": "黑夜告白开播",
+      "onboard_time": 1777172600,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155859,
+      "num": 155859,
+      "word": "奔跑吧路透",
+      "onboard_time": 1777174462,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 154671,
@@ -379,6 +659,62 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141170,
+      "num": 141170,
+      "word": "最舒服的关系是聊天搭子",
+      "onboard_time": 1777170619,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140280,
+      "num": 140280,
+      "word": "汕头金山中学放学场面",
+      "onboard_time": 1777174462,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139160,
+      "num": 214683,
+      "word": "丁俊晖7比9赵心童",
+      "onboard_time": 1777169120,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137246,
+      "num": 137246,
+      "word": "徐洁儿把歌手档期准备好了",
+      "onboard_time": 1777174340,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132691,
+      "num": 132691,
+      "word": "26岁澳籍富豪勒颈韩裔网红女友",
+      "onboard_time": 1777165939,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130307,
+      "num": 130307,
+      "word": "CNN主播距枪手仅几英尺",
+      "onboard_time": 1777172600,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 130158,
+      "num": 130158,
+      "word": "英国56岁失独母亲飞往瑞士接受安乐死",
+      "onboard_time": 1777170920,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128885,
       "num": 427868,
       "word": "大牛股年内已猛涨208%",
@@ -417,6 +753,14 @@
       "onboard_time": 1777122684,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116099,
+      "num": 160379,
+      "word": "白宫晚宴枪击事件嫌疑人身份确认",
+      "onboard_time": 1777172480,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115691,
@@ -523,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82289,
+      "num": 771962,
+      "word": "南方又一轮降雨降温",
+      "onboard_time": 1777171581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80119,
       "num": 80119,
       "word": "伊朗高层集体发声",
@@ -619,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49935,
+      "num": 160152,
+      "word": "白宫记协晚宴安全事件细节披露",
+      "onboard_time": 1777172480,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49898,
       "num": 424228,
       "word": "在网咖做陪玩的小猫",
@@ -691,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31167,
+      "num": 314468,
+      "word": "管江勇向大理借风礼赠任鲁豫",
+      "onboard_time": 1777172840,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31059,
       "num": 215819,
       "word": "曾沛慈言不由衷开口跪",
@@ -750,6 +1118,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同内韦斯互致贺电#"
+    },
+    {
+      "word": "#习近平给义乌换上一件大衣服#"
     }
   ]
 }
