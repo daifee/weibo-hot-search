@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777240097037,
+  "endTime": 1777240988067,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2331,6 +2331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98080,
       "num": 170050,
       "word": "蜜语纪",
@@ -2395,12 +2403,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86467,
-      "num": 92210,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 85968,
+      "num": 85968,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 84737,
@@ -2531,20 +2539,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65449,
+      "num": 83221,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64854,
       "num": 92154,
       "word": "东方甄选为何留不住人",
       "onboard_time": 1777233615,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 64839,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64650,
@@ -2593,14 +2601,6 @@
       "onboard_time": 1777148294,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60729,
-      "num": 80156,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 59778,
@@ -2771,6 +2771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34688,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33747,
       "num": 300497,
       "word": "广东1岁女童接触蜗牛高烧不止",
@@ -2835,19 +2843,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28324,
+      "num": 30644,
+      "word": "在重庆打卡电影取景地",
+      "onboard_time": 1777233194,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28210,
       "num": 37570,
       "word": "王楚钦入选新锐青年先锋人物",
       "onboard_time": 1777230134,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27710,
-      "num": 36306,
-      "word": "破二 亚军",
-      "onboard_time": 1777231634,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -2873,14 +2881,6 @@
       "onboard_time": 1777204880,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 23732,
-      "num": 27703,
-      "word": "在重庆打卡电影取景地",
-      "onboard_time": 1777233194,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 22082,

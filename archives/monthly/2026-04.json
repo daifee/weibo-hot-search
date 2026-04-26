@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777240097037,
+  "endTime": 1777240988067,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -42499,6 +42499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100945,
       "num": 100945,
       "word": "B站董事长曾承诺新番无广告",
@@ -47435,14 +47443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86467,
-      "num": 92210,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 86455,
       "num": 86455,
       "word": "奥迪加油逃单司机应全额承担632元",
@@ -47665,6 +47665,14 @@
       "onboard_time": 1775726842,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85968,
+      "num": 85968,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 85966,
@@ -56123,6 +56131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65449,
+      "num": 83221,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65437,
       "num": 165116,
       "word": "一口价黄金也开始跳水了",
@@ -56265,14 +56281,6 @@
       "onboard_time": 1775487383,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64839,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64835,
@@ -57577,14 +57585,6 @@
       "onboard_time": 1776951203,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 60729,
-      "num": 80156,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 60726,
@@ -62739,6 +62739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34688,
+      "num": 36306,
+      "word": "破二 亚军",
+      "onboard_time": 1777231634,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34661,
       "num": 122353,
       "word": "1元批发上千张live图造人设",
@@ -63819,6 +63827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28324,
+      "num": 30644,
+      "word": "在重庆打卡电影取景地",
+      "onboard_time": 1777233194,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28323,
       "num": 174329,
       "word": "邓亚萍架起文化交流桥梁",
@@ -63953,14 +63969,6 @@
       "onboard_time": 1776270919,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27710,
-      "num": 36306,
-      "word": "破二 亚军",
-      "onboard_time": 1777231634,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 27703,
@@ -64921,14 +64929,6 @@
       "onboard_time": 1775494759,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23732,
-      "num": 27703,
-      "word": "在重庆打卡电影取景地",
-      "onboard_time": 1777233194,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 23706,
