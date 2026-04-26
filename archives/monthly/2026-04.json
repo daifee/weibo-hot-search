@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777216156398,
+  "endTime": 1777218756080,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -2763,6 +2763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1125043,
+      "num": 363796,
+      "word": "为什么先救万斯",
+      "onboard_time": 1777213162,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1124373,
       "num": 397648,
       "word": "稚楚回应",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1776508520,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1111986,
+      "num": 305826,
+      "word": "张颂文没看过狂飙",
+      "onboard_time": 1777216342,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1110220,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1776555798,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1036777,
-      "num": 363796,
-      "word": "为什么先救万斯",
-      "onboard_time": 1777213162,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1035832,
@@ -8699,6 +8707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541517,
+      "num": 338283,
+      "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+      "onboard_time": 1777209621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541150,
       "num": 934518,
       "word": "意大利连续3届无缘世界杯",
@@ -9449,6 +9465,14 @@
       "onboard_time": 1777004961,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 509304,
+      "num": 303809,
+      "word": "连续两周上四休三",
+      "onboard_time": 1777212861,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 509257,
@@ -11115,6 +11139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 446780,
+      "num": 446780,
+      "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
+      "onboard_time": 1777209741,
+      "rank": 21,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 446658,
       "num": 446658,
       "word": "华晨宇演唱会当地民众发声",
@@ -11233,14 +11265,6 @@
       "onboard_time": 1775729601,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442415,
-      "num": 338283,
-      "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
-      "onboard_time": 1777209621,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442099,
@@ -12241,6 +12265,14 @@
       "onboard_time": 1775402364,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413419,
+      "num": 301441,
+      "word": "aespa回归预告",
+      "onboard_time": 1777216581,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 413049,
@@ -14923,14 +14955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 351575,
-      "num": 318269,
-      "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
-      "onboard_time": 1777209741,
-      "rank": 21,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 351529,
       "num": 187075,
       "word": "伊媒曝出伊朗提出的谈判前提条件",
@@ -17435,6 +17459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306722,
+      "num": 306722,
+      "word": "RW对战AG",
+      "onboard_time": 1777207219,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306487,
       "num": 867431,
       "word": "教育具有长期性和滞后性",
@@ -18096,14 +18128,6 @@
       "word": "莫氏鸡煲老板娘说早20年火会拼命赚",
       "onboard_time": 1775888661,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293889,
-      "num": 293889,
-      "word": "连续两周上四休三",
-      "onboard_time": 1777212861,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -19625,14 +19649,6 @@
       "onboard_time": 1775144602,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 270073,
-      "num": 270073,
-      "word": "RW对战AG",
-      "onboard_time": 1777207219,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 269999,
@@ -22425,6 +22441,14 @@
       "onboard_time": 1775915302,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233965,
+      "num": 233965,
+      "word": "网店卖8年假耐克赚了126万",
+      "onboard_time": 1777216641,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233860,
@@ -25563,6 +25587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201581,
+      "num": 320546,
+      "word": "父亲病重去世主播停播失联遭公司索赔",
+      "onboard_time": 1777215681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201526,
       "num": 201526,
       "word": "低精力都去查一下维d",
@@ -26825,6 +26857,14 @@
       "onboard_time": 1776325941,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190013,
+      "num": 190013,
+      "word": "陈德修 够爱",
+      "onboard_time": 1777218441,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 190009,
@@ -32067,6 +32107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151282,
+      "num": 141277,
+      "word": "边伯贤宠没边了",
+      "onboard_time": 1777215623,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151259,
       "num": 151259,
       "word": "孙颖莎蒯曼都更换球衣",
@@ -32539,6 +32587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148783,
+      "num": 134819,
+      "word": "魏笑老公曾参加过恋综",
+      "onboard_time": 1777218441,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148745,
       "num": 71434,
       "word": "张桂源语音聊天",
@@ -32609,6 +32665,14 @@
       "onboard_time": 1775313684,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148152,
+      "num": 134615,
+      "word": "其实张若昀唱歌也很心酸",
+      "onboard_time": 1777216943,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148076,
@@ -34579,6 +34643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136003,
+      "num": 136003,
+      "word": "美国特勤局肉弹特工再次出镜",
+      "onboard_time": 1777215142,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "杨幂冯湮儿路透",
@@ -35041,6 +35113,14 @@
       "onboard_time": 1775734641,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "郑钦文 签表",
+      "onboard_time": 1777218021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133165,
@@ -41273,6 +41353,14 @@
       "onboard_time": 1775697562,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104624,
+      "num": 161305,
+      "word": "特斯拉为什么不参加车展",
+      "onboard_time": 1777213463,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 104613,
@@ -54123,14 +54211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70350,
-      "num": 161305,
-      "word": "特斯拉为什么不参加车展",
-      "onboard_time": 1777213463,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 70319,
       "num": 143602,
       "word": "一口价黄金价格",
@@ -62723,6 +62803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33747,
+      "num": 300497,
+      "word": "广东1岁女童接触蜗牛高烧不止",
+      "onboard_time": 1777218021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33706,
       "num": 687788,
       "word": "又是赏花好时节",
@@ -64241,14 +64329,6 @@
       "onboard_time": 1775408659,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25523,
-      "num": 320546,
-      "word": "父亲病重去世主播停播失联遭公司索赔",
-      "onboard_time": 1777215681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25500,
