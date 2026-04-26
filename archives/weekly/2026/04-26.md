@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/27 06:49:34
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/27 07:07:00
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ aespa回归预告（热度：413419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AA%81%E7%84%B6%E5%8F%91%E6%96%87%23" target="weibo">
+伊朗最高领袖突然发文（热度：368035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%23" target="weibo">
 人生是一场巨大的后知后觉（热度：367267）
 </a>
@@ -873,12 +879,6 @@ RW对战AG（热度：306722）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AA%81%E7%84%B6%E5%8F%91%E6%96%87%23" target="weibo">
-伊朗最高领袖突然发文（热度：271677）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23WB%20%E5%90%AC%E6%82%A6%23" target="weibo">
 WB 听悦（热度：271201）
 </a>
@@ -915,6 +915,12 @@ WB 听悦（热度：271201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%96%B0CEO%E4%B8%BA%E4%BD%95%E4%B8%8E%E8%80%81%E5%B0%86%E9%9A%BE%E5%85%B1%E5%AD%98%23" target="weibo">
+东方甄选新CEO为何与老将难共存（热度：255858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%94%BE%E5%81%87%E4%B8%83%E5%A4%A9%E7%9A%84%23" target="weibo">
 五一原来是放假七天的（热度：254023）
 </a>
@@ -935,6 +941,12 @@ WB 听悦（热度：271201）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E6%8B%8D%E4%BA%86%E7%A5%BA%E8%B4%B5%E4%BA%BA%E5%91%8A%E5%8F%91%E8%A7%86%E9%A2%91%23" target="weibo">
 唐艺昕拍了祺贵人告发视频（热度：245622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23" target="weibo">
+特朗普夫人反应迅速（热度：245278）
 </a>
 </li>
 
@@ -1047,6 +1059,12 @@ WB 听悦（热度：271201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E7%A1%AE%E8%AE%A4%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
+AG确认晋级挑杯十六强（热度：212927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E6%B7%A1%E5%87%BA%E6%BC%94%E8%89%BA%E5%9C%88%E5%90%8E%E6%B7%B1%E8%80%95%E8%AE%AD%E7%8A%AC%E9%A2%86%E5%9F%9F%23" target="weibo">
 霍思燕淡出演艺圈后深耕训犬领域（热度：211732）
 </a>
@@ -1113,6 +1131,12 @@ Keria续约T1（热度：199235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%81%E5%A4%AA%E5%9C%B0%E9%93%81%E6%8A%A2%E5%BA%A7%E6%89%93%E6%9E%B6%E8%B0%81%E6%9B%B4%E8%AF%A5%E7%BE%9E%E6%84%A7%23" target="weibo">
+女子老太地铁抢座打架谁更该羞愧（热度：195467）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%89%8D%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0%23" target="weibo">
 东方甄选前员工发声（热度：193304）
 </a>
@@ -1175,12 +1199,6 @@ Keria续约T1（热度：199235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E9%9B%B7%E5%86%9B%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%9910%E5%A4%A9%23" target="weibo">
 网民造谣雷军被行政拘留10天（热度：184997）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23" target="weibo">
-特朗普夫人反应迅速（热度：184924）
 </a>
 </li>
 
@@ -1275,12 +1293,6 @@ Faker与Keria破纪录（热度：175930）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23AG%E7%A1%AE%E8%AE%A4%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
-AG确认晋级挑杯十六强（热度：174601）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23LEMAIRE%E9%99%B7%E8%BE%B1%E5%8D%8E%E4%BA%89%E8%AE%AE%E5%8F%91%E9%95%BF%E6%96%87%E8%A7%A3%E9%87%8A%23" target="weibo">
 LEMAIRE陷辱华争议发长文解释（热度：173931）
 </a>
@@ -1343,6 +1355,12 @@ LEMAIRE陷辱华争议发长文解释（热度：173931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4WIEA%E5%8E%8B%E8%BD%B4%23" target="weibo">
 边伯贤WIEA压轴（热度：163202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B1%E5%B0%8F%E4%BE%BF%E8%B8%B9%E4%BA%BA%E8%87%B4%E8%87%AA%E5%B7%B1%E9%AA%A8%E6%8A%98%23" target="weibo">
+男子乱小便踹人致自己骨折（热度：163113）
 </a>
 </li>
 
@@ -1545,12 +1563,6 @@ Angelababy两套高定（热度：141991）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%81%E5%A4%AA%E5%9C%B0%E9%93%81%E6%8A%A2%E5%BA%A7%E6%89%93%E6%9E%B6%E8%B0%81%E6%9B%B4%E8%AF%A5%E7%BE%9E%E6%84%A7%23" target="weibo">
-女子老太地铁抢座打架谁更该羞愧（热度：135341）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%B5%90%20TCG%E5%A4%AF%E7%88%86%E4%BA%86%23" target="weibo">
 天赐 TCG夯爆了（热度：135243）
 </a>
@@ -1601,12 +1613,6 @@ CNN主播距枪手仅几英尺（热度：130307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E4%B8%AD%E5%9B%BD%E8%A7%86%E4%B8%BA%E5%A8%81%E8%83%81%23" target="weibo">
 日本将中国视为威胁（热度：128458）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%96%B0CEO%E4%B8%BA%E4%BD%95%E4%B8%8E%E8%80%81%E5%B0%86%E9%9A%BE%E5%85%B1%E5%AD%98%23" target="weibo">
-东方甄选新CEO为何与老将难共存（热度：125014）
 </a>
 </li>
 
@@ -1845,12 +1851,6 @@ CNN主播距枪手仅几英尺（热度：130307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B1%E5%B0%8F%E4%BE%BF%E8%B8%B9%E4%BA%BA%E8%87%B4%E8%87%AA%E5%B7%B1%E9%AA%A8%E6%8A%98%23" target="weibo">
-男子乱小便踹人致自己骨折（热度：79664）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%98%E6%A5%9A%E5%92%8C%E8%8E%AB%E7%A6%BB%E9%83%BD%E6%9A%82%E5%AE%9A%E5%90%8C%E4%B8%80%E5%A4%A9%E6%92%AD%E5%87%BA%23" target="weibo">
 翘楚和莫离都暂定同一天播出（热度：79168）
 </a>
@@ -1859,6 +1859,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%BD%A0%E4%BB%AC%E4%B8%80%E4%BC%9A%E4%B8%8D%E8%A6%81%E7%AC%91%E5%95%8A%23" target="weibo">
 陈赫你们一会不要笑啊（热度：77498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%88%B0%E8%A5%BF%E5%AE%89%E5%B0%B1%E5%83%8F%E8%80%81%E9%BC%A0%E6%8E%89%E8%BF%9B%E4%BA%86%E7%B1%B3%E7%BC%B8%23" target="weibo">
+宋茜到西安就像老鼠掉进了米缸（热度：75569）
 </a>
 </li>
 
@@ -2009,6 +2015,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%B9%B2%E7%9A%84%E5%BF%AB%E4%B9%90%E6%8E%A5%E9%A9%B3%E8%BD%A6%23" target="weibo">
 年轻人都在蹲的快乐接驳车（热度：51776）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%AE%B6%E6%88%90%E4%BA%86%E6%89%93%E5%8D%A1%E7%82%B9%23" target="weibo">
+生命树杨紫的家成了打卡点（热度：50402）
 </a>
 </li>
 

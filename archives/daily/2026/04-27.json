@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777243774946,
+  "endTime": 1777244820413,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368035,
+      "num": 368035,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 366386,
       "num": 280698,
       "word": "张月 没保护好者来女是我的遗憾",
@@ -219,11 +227,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271677,
-      "num": 271677,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 29,
+      "raw_hot": 255858,
+      "num": 255858,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 245278,
+      "num": 481473,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -241,6 +257,22 @@
       "onboard_time": 1777218441,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212927,
+      "num": 212927,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195467,
+      "num": 195467,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187535,
@@ -275,22 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177189,
-      "num": 177189,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 174601,
-      "num": 174601,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170483,
       "num": 170483,
       "word": "橹穆双人舞台百天播放量",
@@ -305,6 +321,14 @@
       "onboard_time": 1777212023,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163113,
+      "num": 163113,
+      "word": "男子乱小便踹人致自己骨折",
+      "onboard_time": 1777243396,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159499,
@@ -395,28 +419,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135341,
-      "num": 135341,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132238,
       "num": 132238,
       "word": "一笙 我并没有大家想的那么好",
       "onboard_time": 1777215082,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125014,
-      "num": 138019,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 124717,
@@ -475,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79664,
-      "num": 79664,
-      "word": "男子乱小便踹人致自己骨折",
-      "onboard_time": 1777243396,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79168,
       "num": 126236,
       "word": "翘楚和莫离都暂定同一天播出",
       "onboard_time": 1777222817,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75569,
+      "num": 75569,
+      "word": "宋茜到西安就像老鼠掉进了米缸",
+      "onboard_time": 1777244417,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 71736,
@@ -521,6 +529,14 @@
       "onboard_time": 1777206320,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50402,
+      "num": 50402,
+      "word": "生命树杨紫的家成了打卡点",
+      "onboard_time": 1777244718,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 50276,
