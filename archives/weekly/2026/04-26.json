@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777211254667,
+  "endTime": 1777215299858,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1603540,
+      "num": 870202,
+      "word": "张月 挂电",
+      "onboard_time": 1777212503,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1595720,
       "num": 518658,
       "word": "卢昱晓袖口有虫爬出来",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1140575,
-      "num": 814402,
+      "num": 848863,
       "word": "身份证照片最接近别人肉眼看到的自己",
       "onboard_time": 1777205060,
       "rank": 4,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 827993,
+      "num": 827993,
+      "word": "世界上两个最离不开手的东西合体了",
+      "onboard_time": 1777209681,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 819139,
       "num": 545818,
       "word": "桃黑黑直播美颜掉了",
@@ -379,6 +395,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 674982,
+      "num": 904562,
+      "word": "男子从内地偷运51公斤盒饭回澳门",
+      "onboard_time": 1777208960,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673512,
       "num": 633066,
       "word": "上海地铁女子和老太激烈扭打一团",
@@ -401,6 +425,14 @@
       "onboard_time": 1777110500,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648712,
+      "num": 364408,
+      "word": "俞敏洪坦言公司管理方式出现偏差",
+      "onboard_time": 1777213041,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 633256,
@@ -499,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547191,
+      "num": 363796,
+      "word": "为什么先救万斯",
+      "onboard_time": 1777213162,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 543218,
+      "num": 374698,
+      "word": "胖东来18元瓶装矿泉水遭哄抢",
+      "onboard_time": 1777209440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540587,
       "num": 373700,
       "word": "张凯丽女儿出道9年第一次拍吻戏",
@@ -579,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486733,
-      "num": 374698,
-      "word": "胖东来18元瓶装矿泉水遭哄抢",
-      "onboard_time": 1777209440,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 486399,
       "num": 380493,
       "word": "特朗普说他妻子躲得更快",
@@ -601,6 +641,14 @@
       "onboard_time": 1777126825,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479620,
+      "num": 363346,
+      "word": "PEL",
+      "onboard_time": 1777214123,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 478007,
@@ -625,6 +673,22 @@
       "onboard_time": 1777190000,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452675,
+      "num": 363199,
+      "word": "佳偶天成",
+      "onboard_time": 1777214302,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 451266,
+      "num": 361343,
+      "word": "张月 没保护好者来女是我的遗憾",
+      "onboard_time": 1777214000,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 442944,
@@ -667,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414017,
+      "num": 372690,
+      "word": "橹穆双人舞台百天播放量",
+      "onboard_time": 1777210700,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 412164,
       "num": 337313,
       "word": "建议大家衣服不要攒一起洗",
@@ -681,6 +753,14 @@
       "onboard_time": 1777173621,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396287,
+      "num": 338283,
+      "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+      "onboard_time": 1777209621,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394816,
@@ -712,6 +792,14 @@
       "word": "得知胎儿色盲孕晚期女子称害了孩子",
       "onboard_time": 1777159820,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386582,
+      "num": 327673,
+      "word": "男童泡温泉遇蛇吓出应激创伤",
+      "onboard_time": 1777212682,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -747,14 +835,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 372690,
-      "num": 372690,
-      "word": "橹穆双人舞台百天播放量",
-      "onboard_time": 1777210700,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 372449,
       "num": 459717,
       "word": "秦昊马頔孙丞潇都在点孙杨了",
@@ -777,6 +857,14 @@
       "onboard_time": 1777126885,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364599,
+      "num": 364599,
+      "word": "AG春季赛总冠军",
+      "onboard_time": 1777214783,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 364314,
@@ -883,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316806,
+      "num": 316806,
+      "word": "杨幂冯太后盘发造型路透",
+      "onboard_time": 1777209681,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315424,
       "num": 315424,
       "word": "张檬小五儿子一岁了",
@@ -915,14 +1011,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 307587,
-      "num": 307587,
-      "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
-      "onboard_time": 1777209621,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297277,
       "num": 297277,
       "word": "穆祉丞高会",
@@ -947,6 +1035,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293889,
+      "num": 293889,
+      "word": "连续两周上四休三",
+      "onboard_time": 1777212861,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293254,
+      "num": 293254,
+      "word": "花少总导演回复苏新皓粉丝",
+      "onboard_time": 1777215021,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283726,
       "num": 283726,
       "word": "白鹿 厨师领巾",
@@ -963,19 +1067,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282884,
-      "num": 282884,
-      "word": "男子从内地偷运51公斤盒饭回澳门",
-      "onboard_time": 1777208960,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281993,
       "num": 281993,
       "word": "谢娜回复者来女",
       "onboard_time": 1777188139,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280296,
+      "num": 264949,
+      "word": "乘风2026三公淘汰四位姐姐",
+      "onboard_time": 1777211001,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1001,22 +1105,6 @@
       "onboard_time": 1777193541,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 264949,
-      "num": 264949,
-      "word": "乘风2026三公淘汰四位姐姐",
-      "onboard_time": 1777211001,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 263901,
-      "num": 263901,
-      "word": "杨幂冯太后盘发造型路透",
-      "onboard_time": 1777209681,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 262900,
@@ -1091,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237913,
+      "num": 237913,
+      "word": "RW对战AG",
+      "onboard_time": 1777207219,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237677,
       "num": 237677,
       "word": "22岁女孩运动减肥把肌肉练爆了",
@@ -1112,6 +1208,14 @@
       "word": "曾沛慈听到者来女淘汰爆哭",
       "onboard_time": 1777159820,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229897,
+      "num": 229897,
+      "word": "李小冉跟心愿便利贴女主陈乔恩相遇了",
+      "onboard_time": 1777212023,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1161,6 +1265,14 @@
       "onboard_time": 1777176381,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223927,
+      "num": 223927,
+      "word": "边伯贤追加了舞台",
+      "onboard_time": 1777214063,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 222560,
@@ -1227,20 +1339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208308,
-      "num": 175455,
-      "word": "世界上两个最离不开手的东西合体了",
-      "onboard_time": 1777209681,
-      "rank": 46,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 207027,
       "num": 207027,
       "word": "陈瑶下班戴者来女送的镯子",
       "onboard_time": 1777180881,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207014,
+      "num": 207014,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202993,
@@ -1371,6 +1483,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 184924,
+      "num": 184924,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184261,
       "num": 464410,
       "word": "被减肥背刺了",
@@ -1409,6 +1529,14 @@
       "onboard_time": 1777204340,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179924,
+      "num": 179924,
+      "word": "韦雪回应脖子显老",
+      "onboard_time": 1777214902,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 178726,
@@ -1475,14 +1603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 176622,
-      "num": 176622,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 176363,
       "num": 176363,
       "word": "一笙上线",
@@ -1491,11 +1611,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175434,
-      "num": 175434,
-      "word": "RW对战AG",
-      "onboard_time": 1777207219,
-      "rank": 34,
+      "raw_hot": 175930,
+      "num": 175930,
+      "word": "Faker与Keria破纪录",
+      "onboard_time": 1777213102,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -1628,7 +1748,7 @@
     },
     {
       "raw_hot": 158307,
-      "num": 158307,
+      "num": 166725,
       "word": "别在乱充电提早损害电池健康了",
       "onboard_time": 1777204760,
       "rank": 40,
@@ -1891,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118429,
+      "num": 363067,
+      "word": "枪案现场特朗普旁华裔女记者是谁",
+      "onboard_time": 1777214602,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116156,
       "num": 116156,
       "word": "干西红柿你吃过吗",
@@ -2099,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84717,
+      "num": 163829,
+      "word": "俞敏洪曾力挺的新CEO是谁",
+      "onboard_time": 1777209861,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82454,
       "num": 419637,
       "word": "中国超70%石油靠进口却不慌",
@@ -2139,20 +2275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73093,
-      "num": 814506,
+      "raw_hot": 74361,
+      "num": 888364,
       "word": "影视文旅成消费新风口",
       "onboard_time": 1777206320,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71906,
-      "num": 136433,
-      "word": "俞敏洪曾力挺的新CEO是谁",
-      "onboard_time": 1777209861,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 71325,
@@ -2168,6 +2296,14 @@
       "word": "从北京车展看中国汽车全球化发展",
       "onboard_time": 1777197919,
       "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 70350,
+      "num": 161305,
+      "word": "特斯拉为什么不参加车展",
+      "onboard_time": 1777213463,
+      "rank": 49,
       "category": "汽车"
     },
     {
@@ -2283,6 +2419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54729,
+      "num": 231481,
+      "word": "浪姐三公淘汰赛制",
+      "onboard_time": 1777213102,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53485,
+      "num": 293636,
+      "word": "鸿星尔克的陪伴从校园到职场",
+      "onboard_time": 1777212861,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51776,
       "num": 325584,
       "word": "年轻人都在蹲的快乐接驳车",
@@ -2371,6 +2523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37380,
+      "num": 230012,
+      "word": "伞兵霸气一指",
+      "onboard_time": 1777214543,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36507,
       "num": 342589,
       "word": "特朗普否认枪击事件与伊朗战争有关",
@@ -2385,6 +2545,14 @@
       "onboard_time": 1777136419,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31946,
+      "num": 233622,
+      "word": "父亲刚出院儿子陪诊查出同款癌症",
+      "onboard_time": 1777215201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31859,
