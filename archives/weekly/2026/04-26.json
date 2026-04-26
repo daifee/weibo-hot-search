@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777205045011,
+  "endTime": 1777209703002,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2040690,
+      "num": 625185,
+      "word": "马斯克把方向盘删了",
+      "onboard_time": 1777206260,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2034226,
       "num": 2034226,
       "word": "白宫晚宴枪击事件枪手身亡",
@@ -99,6 +107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1511048,
+      "num": 346531,
+      "word": "唐艺昕 何宣林",
+      "onboard_time": 1777200680,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1467071,
       "num": 1467071,
       "word": "王濛手臂图案",
@@ -107,12 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1418774,
-      "num": 346531,
-      "word": "唐艺昕 何宣林",
-      "onboard_time": 1777200680,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 1442736,
+      "num": 308760,
+      "word": "一笙回应",
+      "onboard_time": 1777208062,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 1390607,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140575,
+      "num": 611626,
+      "word": "身份证照片最接近别人肉眼看到的自己",
+      "onboard_time": 1777205060,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1092716,
       "num": 309931,
       "word": "一笙后援会集体辞职",
@@ -161,6 +185,14 @@
       "onboard_time": 1777180340,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1011675,
+      "num": 576158,
+      "word": "浪姐直播疑似没人理何宣林",
+      "onboard_time": 1777206320,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 995285,
@@ -473,6 +505,22 @@
       "onboard_time": 1777135040,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524883,
+      "num": 524883,
+      "word": "A股一季度最赚钱公司曝光",
+      "onboard_time": 1777207401,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 524318,
+      "num": 799866,
+      "word": "赵心童战胜丁俊晖进八强",
+      "onboard_time": 1777204760,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 517103,
@@ -803,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317676,
+      "num": 301370,
+      "word": "陶昕然女儿说想哭的时候可以哭",
+      "onboard_time": 1777208540,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315424,
       "num": 315424,
       "word": "张檬小五儿子一岁了",
@@ -825,6 +881,14 @@
       "onboard_time": 1777091180,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310934,
+      "num": 310934,
+      "word": "歌手2026",
+      "onboard_time": 1777209140,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 297277,
@@ -875,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276248,
+      "num": 276248,
+      "word": "阚清子老公投到第二就不投了",
+      "onboard_time": 1777199420,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272045,
       "num": 272045,
       "word": "爱德华兹受伤",
@@ -915,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260308,
+      "num": 260308,
+      "word": "杨幂冯太后盘发造型路透",
+      "onboard_time": 1777209681,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258057,
       "num": 258057,
       "word": "宁艺卓真正回应粉丝的语气",
@@ -929,6 +1009,14 @@
       "onboard_time": 1777106840,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253307,
+      "num": 253307,
+      "word": "男大学生压力大喝农药10天才就医",
+      "onboard_time": 1777205119,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251013,
@@ -955,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238188,
+      "num": 238188,
+      "word": "男子从内地偷运51公斤盒饭回澳门",
+      "onboard_time": 1777208960,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237677,
       "num": 237677,
       "word": "22岁女孩运动减肥把肌肉练爆了",
@@ -976,14 +1072,6 @@
       "word": "曾沛慈听到者来女淘汰爆哭",
       "onboard_time": 1777159820,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 231766,
-      "num": 211897,
-      "word": "阚清子老公投到第二就不投了",
-      "onboard_time": 1777199420,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1067,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211648,
+      "num": 211648,
+      "word": "鸿星尔克董事长比员工更想下班",
+      "onboard_time": 1777205119,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211526,
       "num": 211526,
       "word": "邓超感谢孙俪",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1777200860,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199235,
+      "num": 199235,
+      "word": "Keria续约T1",
+      "onboard_time": 1777206019,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 199021,
@@ -1137,6 +1241,14 @@
       "onboard_time": 1777194140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189488,
+      "num": 176757,
+      "word": "网传歌手2026新赛制",
+      "onboard_time": 1777209081,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 188931,
@@ -1251,6 +1363,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 177533,
+      "num": 326722,
+      "word": "巴基斯坦总统访华现场画面",
+      "onboard_time": 1777203440,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177125,
       "num": 450283,
       "word": "香港最强控烟令没有首次免罚",
@@ -1283,12 +1403,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176622,
+      "num": 176622,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176363,
       "num": 176363,
       "word": "一笙上线",
       "onboard_time": 1777195459,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175434,
+      "num": 175434,
+      "word": "RW对战AG",
+      "onboard_time": 1777207219,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173815,
+      "num": 173815,
+      "word": "18万月子会所月子餐是冰饮和炸物",
+      "onboard_time": 1777205541,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173489,
@@ -1313,6 +1457,14 @@
       "onboard_time": 1777173200,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168795,
+      "num": 168795,
+      "word": "蜜语纪30.5%",
+      "onboard_time": 1777205360,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 168702,
@@ -1347,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163202,
+      "num": 163202,
+      "word": "边伯贤WIEA压轴",
+      "onboard_time": 1777205900,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161725,
       "num": 161725,
       "word": "东方甄选主播离职原因",
@@ -1361,6 +1521,14 @@
       "onboard_time": 1777177399,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161392,
+      "num": 161392,
+      "word": "健身房小狗被踢飞后都有肌肉记忆了",
+      "onboard_time": 1777207340,
+      "rank": 39,
+      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 160795,
@@ -1387,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "别在乱充电提早损害电池健康了",
+      "onboard_time": 1777204760,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157223,
       "num": 157223,
       "word": "环境对一个人的影响有多大",
@@ -1401,6 +1577,14 @@
       "onboard_time": 1777186219,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155535,
+      "num": 155535,
+      "word": "胖东来18元瓶装矿泉水遭哄抢",
+      "onboard_time": 1777209440,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154671,
@@ -1435,28 +1619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150821,
-      "num": 326722,
-      "word": "巴基斯坦总统访华现场画面",
-      "onboard_time": 1777203440,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150242,
       "num": 433199,
       "word": "尚公主",
       "onboard_time": 1777121604,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150226,
-      "num": 150226,
-      "word": "赵心童战胜丁俊晖进八强",
-      "onboard_time": 1777204760,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 147942,
@@ -1491,12 +1659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143990,
+      "num": 143990,
+      "word": "WIEA",
+      "onboard_time": 1777209081,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141991,
       "num": 215318,
       "word": "Angelababy两套高定",
       "onboard_time": 1777119922,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139818,
+      "num": 139818,
+      "word": "高瀚宇害怕老板鹿晗",
+      "onboard_time": 1777208900,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 139808,
@@ -1595,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "世界上两个最离不开手的东西合体了",
+      "onboard_time": 1777209681,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 123889,
       "num": 123889,
       "word": "拒绝退役军人如厕后续调查",
@@ -1609,6 +1801,14 @@
       "onboard_time": 1777159877,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122574,
+      "num": 122574,
+      "word": "小冉唱了小冉的心愿便利贴",
+      "onboard_time": 1777209382,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 120036,
@@ -1655,6 +1855,14 @@
       "num": 115387,
       "word": "心疼暖阳",
       "onboard_time": 1777199239,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114973,
+      "num": 114973,
+      "word": "小久反击九尾",
+      "onboard_time": 1777208422,
       "rank": 48,
       "category": "电竞"
     },
@@ -1891,6 +2099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69181,
+      "num": 176812,
+      "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+      "onboard_time": 1777209621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68432,
       "num": 348602,
       "word": "人类全马首次跑进2小时",
@@ -1969,6 +2185,14 @@
       "onboard_time": 1777148294,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61411,
+      "num": 651739,
+      "word": "影视文旅成消费新风口",
+      "onboard_time": 1777206320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59778,
@@ -2204,6 +2428,9 @@
     },
     {
       "word": "#习近平谈政绩观#"
+    },
+    {
+      "word": "#总书记引领强国之路#"
     }
   ]
 }
