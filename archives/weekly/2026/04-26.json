@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777236697746,
+  "endTime": 1777237521378,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2627,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52275,
+      "num": 92154,
+      "word": "东方甄选为何留不住人",
+      "onboard_time": 1777233615,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51776,
       "num": 325584,
       "word": "年轻人都在蹲的快乐接驳车",
@@ -2739,20 +2747,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35919,
+      "num": 83221,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35459,
       "num": 237829,
       "word": "雄塑科技一季净利暴增68902%",
       "onboard_time": 1777136419,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 34027,
-      "num": 83221,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33747,
@@ -2787,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30038,
+      "num": 80156,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29788,
       "num": 215713,
       "word": "LGDNBW晋级挑杯十六强",
@@ -2801,14 +2817,6 @@
       "onboard_time": 1777141635,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29103,
-      "num": 92154,
-      "word": "东方甄选为何留不住人",
-      "onboard_time": 1777233615,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 29036,
@@ -2841,14 +2849,6 @@
       "onboard_time": 1777143315,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26062,
-      "num": 80156,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 25810,
