@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777233863028,
+  "endTime": 1777236697746,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -2507,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67663,
+      "num": 92210,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67510,
       "num": 112770,
       "word": "塑料价格暴涨",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1777159936,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55295,
-      "num": 55295,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 54729,
@@ -2715,6 +2715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38848,
+      "num": 87343,
+      "word": "新的马拉松世界纪录1小时59分30秒",
+      "onboard_time": 1777231034,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37380,
       "num": 230012,
       "word": "伞兵霸气一指",
@@ -2740,7 +2748,7 @@
     },
     {
       "raw_hot": 34027,
-      "num": 34027,
+      "num": 83221,
       "word": "女子老太地铁抢座打架谁更该羞愧",
       "onboard_time": 1777232833,
       "rank": 32,
@@ -2795,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29103,
+      "num": 92154,
+      "word": "东方甄选为何留不住人",
+      "onboard_time": 1777233615,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29036,
       "num": 248637,
       "word": "华晨宇我们多见面",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1777143315,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26062,
+      "num": 80156,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 25810,
@@ -2873,14 +2897,6 @@
       "onboard_time": 1777125746,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 8090,
-      "num": 55287,
-      "word": "东方甄选为何留不住人",
-      "onboard_time": 1777233615,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 1245,
