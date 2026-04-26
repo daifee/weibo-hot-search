@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777226752618,
+  "endTime": 1777230407615,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -467,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66984,
+      "num": 105818,
+      "word": "浴室除霉菌 霉菌视角",
+      "onboard_time": 1777226476,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 61039,
       "num": 808860,
       "word": "影视文旅成消费新风口",
@@ -483,12 +491,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 37278,
-      "num": 105818,
-      "word": "浴室除霉菌 霉菌视角",
-      "onboard_time": 1777226476,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 28210,
+      "num": 37570,
+      "word": "王楚钦入选新锐青年先锋人物",
+      "onboard_time": 1777230134,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
