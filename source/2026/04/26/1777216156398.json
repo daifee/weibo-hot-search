@@ -1,0 +1,410 @@
+{
+  "runTime": 1777216156398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1641687,
+        "num": 1641687,
+        "word": "歌手2026",
+        "onboard_time": 1777209140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835189,
+        "num": 940884,
+        "word": "男子从内地偷运51公斤盒饭回澳门",
+        "onboard_time": 1777208960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68760,
+        "num": 755364,
+        "word": "影视文旅成消费新风口",
+        "onboard_time": 1777206320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1649038,
+        "num": 741010,
+        "word": "张月 挂电",
+        "onboard_time": 1777212503,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1222910,
+        "num": 729500,
+        "word": "身份证照片最接近别人肉眼看到的自己",
+        "onboard_time": 1777205060,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1086879,
+        "num": 703799,
+        "word": "佳偶天成",
+        "onboard_time": 1777214302,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 955209,
+        "num": 674766,
+        "word": "AG春季赛总冠军",
+        "onboard_time": 1777214783,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 672168,
+        "num": 672168,
+        "word": "世界上两个最离不开手的东西合体了",
+        "onboard_time": 1777209681,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 349407,
+        "num": 349407,
+        "word": "人类马拉松破二",
+        "onboard_time": 1777200680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327226,
+        "num": 327226,
+        "word": "PEL",
+        "onboard_time": 1777214123,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1143376,
+        "num": 326886,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1036777,
+        "num": 326488,
+        "word": "为什么先救万斯",
+        "onboard_time": 1777213162,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 957242,
+        "num": 325517,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611968,
+        "num": 324581,
+        "word": "胖东来18元瓶装矿泉水遭哄抢",
+        "onboard_time": 1777209440,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599251,
+        "num": 324309,
+        "word": "井柏然 老人味太重",
+        "onboard_time": 1777182080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526004,
+        "num": 323128,
+        "word": "俞敏洪坦言公司管理方式出现偏差",
+        "onboard_time": 1777213041,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462717,
+        "num": 322415,
+        "word": "浪姐直播疑似没人理何宣林",
+        "onboard_time": 1777206320,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52655,
+        "num": 322076,
+        "word": "父亲刚出院儿子陪诊查出同款癌症",
+        "onboard_time": 1777215201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442415,
+        "num": 321412,
+        "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+        "onboard_time": 1777209621,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25523,
+        "num": 320546,
+        "word": "父亲病重去世主播停播失联遭公司索赔",
+        "onboard_time": 1777215681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439549,
+        "num": 319814,
+        "word": "一笙回应",
+        "onboard_time": 1777208062,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361786,
+        "num": 319322,
+        "word": "花少总导演回复苏新皓粉丝",
+        "onboard_time": 1777215021,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351575,
+        "num": 318269,
+        "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
+        "onboard_time": 1777209741,
+        "rank": 22,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 330474,
+        "num": 317906,
+        "word": "张凯丽女儿出道9年第一次拍吻戏",
+        "onboard_time": 1777202660,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317578,
+        "num": 317578,
+        "word": "杨幂冯太后盘发造型路透",
+        "onboard_time": 1777209681,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303132,
+        "num": 312861,
+        "word": "A股一季度最赚钱公司曝光",
+        "onboard_time": 1777207401,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309894,
+        "num": 309894,
+        "word": "张月 没保护好者来女是我的遗憾",
+        "onboard_time": 1777214000,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306284,
+        "num": 306284,
+        "word": "橹穆双人舞台百天播放量",
+        "onboard_time": 1777210700,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301586,
+        "num": 301586,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 28,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 233613,
+        "num": 287677,
+        "word": "伊朗最高领袖突然发文",
+        "onboard_time": 1777213523,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281487,
+        "num": 281487,
+        "word": "男童泡温泉遇蛇吓出应激创伤",
+        "onboard_time": 1777212682,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270632,
+        "num": 270632,
+        "word": "枪案现场特朗普旁华裔女记者是谁",
+        "onboard_time": 1777214602,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270073,
+        "num": 270073,
+        "word": "RW对战AG",
+        "onboard_time": 1777207219,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253318,
+        "num": 253318,
+        "word": "王濛手臂图案",
+        "onboard_time": 1777194320,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 253222,
+        "word": "于适再现骑马名场面",
+        "onboard_time": 1777215862,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52292,
+        "num": 252315,
+        "word": "浪姐三公淘汰赛制",
+        "onboard_time": 1777213102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59349,
+        "num": 251479,
+        "word": "曾沛慈乘风三公队长",
+        "onboard_time": 1777196000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24597,
+        "num": 250229,
+        "word": "雨润加工厂被强拆1.4亿补偿款未兑付",
+        "onboard_time": 1777215681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139492,
+        "num": 249007,
+        "word": "阿迪达斯助人类马拉松首次破二",
+        "onboard_time": 1777215922,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29036,
+        "num": 248637,
+        "word": "华晨宇我们多见面",
+        "onboard_time": 1777215741,
+        "rank": 39,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 248062,
+        "num": 248062,
+        "word": "连续两周上四休三",
+        "onboard_time": 1777212861,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238345,
+        "num": 238345,
+        "word": "乘风2026三公淘汰四位姐姐",
+        "onboard_time": 1777211001,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233241,
+        "num": 233241,
+        "word": "韦雪回应脖子显老",
+        "onboard_time": 1777214902,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229103,
+        "num": 229103,
+        "word": "赵心童战胜丁俊晖进八强",
+        "onboard_time": 1777204760,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201368,
+        "num": 201368,
+        "word": "一笙后援会集体辞职",
+        "onboard_time": 1777203622,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74004,
+        "num": 196523,
+        "word": "曝某剧组威胁演员",
+        "onboard_time": 1777210041,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154975,
+        "num": 193920,
+        "word": "别在乱充电提早损害电池健康了",
+        "onboard_time": 1777204760,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40228,
+        "num": 190013,
+        "word": "鸿星尔克的陪伴从校园到职场",
+        "onboard_time": 1777212861,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105267,
+        "num": 184037,
+        "word": "俞敏洪曾力挺的新CEO是谁",
+        "onboard_time": 1777209861,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181325,
+        "num": 181325,
+        "word": "狗狗脚脱臼了医患双方都很紧张",
+        "onboard_time": 1777199359,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
