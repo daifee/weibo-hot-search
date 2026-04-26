@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777190510069,
+  "endTime": 1777191678110,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1015286,
-      "num": 815709,
+      "num": 832818,
       "word": "老祖宗不愿带回来的食物一定难吃",
       "onboard_time": 1777180340,
       "rank": 4,
@@ -99,8 +99,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 981951,
+      "num": 833755,
+      "word": "迪丽热巴跑男只录了12天",
+      "onboard_time": 1777191200,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 954527,
-      "num": 818853,
+      "num": 825087,
       "word": "张月听到者来女淘汰的反应",
       "onboard_time": 1777184960,
       "rank": 3,
@@ -171,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 780596,
+      "num": 417565,
+      "word": "小米公司报警",
+      "onboard_time": 1777189159,
+      "rank": 8,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 756795,
       "num": 756795,
       "word": "羽毛球取消21分制",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 743275,
-      "num": 832114,
+      "num": 837735,
       "word": "日美英联手针对中国",
       "onboard_time": 1777178780,
       "rank": 5,
@@ -211,6 +227,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 665474,
+      "num": 352338,
+      "word": "曝顶流女明星帮富婆闺蜜找男网红",
+      "onboard_time": 1777189580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651159,
       "num": 461091,
       "word": "李昀锐连孟子义名字都不提",
@@ -225,6 +249,14 @@
       "onboard_time": 1777179980,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 619496,
+      "num": 364364,
+      "word": "卢昱晓袖口有虫爬出来",
+      "onboard_time": 1777190539,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 615301,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 561256,
-      "num": 279376,
+      "num": 343672,
       "word": "易梦玲刷脸刷不出",
       "onboard_time": 1777183641,
       "rank": 40,
@@ -380,19 +412,11 @@
     },
     {
       "raw_hot": 417740,
-      "num": 339958,
+      "num": 361562,
       "word": "千里江山图",
       "onboard_time": 1777184900,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417565,
-      "num": 417565,
-      "word": "小米公司报警",
-      "onboard_time": 1777189159,
-      "rank": 8,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 412164,
@@ -408,14 +432,6 @@
       "word": "王菲在北京的一天是怎么度过的",
       "onboard_time": 1777173621,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 394954,
-      "num": 263372,
-      "word": "曝顶流女明星帮富婆闺蜜找男网红",
-      "onboard_time": 1777189580,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378554,
+      "num": 378554,
+      "word": "余承东检讨称以前做车不重视外观",
+      "onboard_time": 1777187119,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 375626,
       "num": 375626,
       "word": "汕头金山中学放学场面",
@@ -481,14 +505,6 @@
       "onboard_time": 1777118901,
       "rank": 18,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 371711,
-      "num": 371711,
-      "word": "余承东检讨称以前做车不重视外观",
-      "onboard_time": 1777187119,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 370547,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342104,
+      "num": 342104,
+      "word": "25岁女孩婚前去世棺木停在帐篷",
+      "onboard_time": 1777191622,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333812,
       "num": 467736,
       "word": "东方甄选明明离职原因",
@@ -595,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316796,
+      "num": 316796,
+      "word": "集体离职撕开东方甄选内部乱象",
+      "onboard_time": 1777190780,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 315424,
       "num": 315424,
       "word": "张檬小五儿子一岁了",
@@ -617,6 +649,14 @@
       "onboard_time": 1777091180,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300542,
+      "num": 347354,
+      "word": "女子不知怀孕医院上厕所时生二胎",
+      "onboard_time": 1777190000,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297277,
@@ -643,12 +683,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 283726,
+      "num": 283726,
+      "word": "白鹿 厨师领巾",
+      "onboard_time": 1777190539,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283636,
       "num": 357034,
       "word": "森林狼vs掘金",
       "onboard_time": 1777169539,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281993,
+      "num": 281993,
+      "word": "谢娜回复者来女",
+      "onboard_time": 1777188139,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 272045,
@@ -699,22 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253738,
-      "num": 228329,
-      "word": "谢娜回复者来女",
-      "onboard_time": 1777188139,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 251020,
-      "num": 240845,
-      "word": "女子不知怀孕医院上厕所时生二胎",
-      "onboard_time": 1777190000,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251013,
       "num": 475829,
       "word": "16岁高中生或发现侵华日军新罪证",
@@ -729,6 +769,14 @@
       "onboard_time": 1777190180,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242039,
+      "num": 320613,
+      "word": "精灵耳医美女子说生不如死",
+      "onboard_time": 1777186639,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237677,
@@ -761,14 +809,6 @@
       "onboard_time": 1777159757,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227529,
-      "num": 227529,
-      "word": "精灵耳医美女子说生不如死",
-      "onboard_time": 1777186639,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226241,
@@ -825,6 +865,14 @@
       "onboard_time": 1777183280,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211382,
+      "num": 211382,
+      "word": "张雪声援余承东",
+      "onboard_time": 1777190240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207027,
@@ -884,7 +932,7 @@
     },
     {
       "raw_hot": 185304,
-      "num": 185304,
+      "num": 282129,
       "word": "李宗伟说15分制让自己有复出可能",
       "onboard_time": 1777188560,
       "rank": 35,
@@ -971,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168388,
-      "num": 168388,
-      "word": "张雪声援余承东",
-      "onboard_time": 1777190240,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166494,
       "num": 440034,
       "word": "世界羽联通过15分制改革",
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153758,
+      "num": 153758,
+      "word": "张婧仪脸上起小疹子",
+      "onboard_time": 1777181480,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151866,
       "num": 359926,
       "word": "谢娜哭了",
@@ -1099,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144838,
+      "num": 144838,
+      "word": "快乐家族 忘年交",
+      "onboard_time": 1777190960,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141991,
       "num": 215318,
       "word": "Angelababy两套高定",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1777169120,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138416,
+      "num": 157121,
+      "word": "男子出狱2年多交往20多名女性",
+      "onboard_time": 1777191559,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 137246,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1777128203,
       "rank": 44,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 112636,
+      "num": 378421,
+      "word": "高市早苗就白宫晚宴枪击事件表态",
+      "onboard_time": 1777190481,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112131,
@@ -1355,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78387,
+      "num": 356730,
+      "word": "上海地铁女子和老太激烈扭打一团",
+      "onboard_time": 1777191141,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 77498,
       "num": 167459,
       "word": "陈赫你们一会不要笑啊",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1777159936,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52461,
-      "num": 160077,
-      "word": "高市早苗就白宫晚宴枪击事件表态",
-      "onboard_time": 1777190481,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51776,
@@ -1627,18 +1699,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15240,
-      "num": 710116,
-      "word": "数读一季度消费市场成绩单",
-      "onboard_time": 1777122384,
+      "raw_hot": 18224,
+      "num": 834188,
+      "word": "守护创新的力量",
+      "onboard_time": 1777189880,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11693,
-      "num": 820669,
-      "word": "守护创新的力量",
-      "onboard_time": 1777189880,
+      "raw_hot": 15240,
+      "num": 710116,
+      "word": "数读一季度消费市场成绩单",
+      "onboard_time": 1777122384,
       "rank": 2,
       "category": "民生新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777191678110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 879486,
+        "num": 1140717,
+        "word": "白宫晚宴枪击事件枪手身亡",
+        "onboard_time": 1777167440,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 738186,
+        "num": 837735,
+        "word": "日美英联手针对中国",
+        "onboard_time": 1777178780,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18224,
+        "num": 834188,
+        "word": "守护创新的力量",
+        "onboard_time": 1777189880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981951,
+        "num": 833755,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832818,
+        "num": 832818,
+        "word": "老祖宗不愿带回来的食物一定难吃",
+        "onboard_time": 1777180340,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 825087,
+        "num": 825087,
+        "word": "张月听到者来女淘汰的反应",
+        "onboard_time": 1777184960,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504967,
+        "num": 504967,
+        "word": "浪姐三公 李唐王朝",
+        "onboard_time": 1777182980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378554,
+        "num": 378554,
+        "word": "余承东检讨称以前做车不重视外观",
+        "onboard_time": 1777187119,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 378444,
+        "num": 378444,
+        "word": "王者敖隐新皮肤技能特效",
+        "onboard_time": 1777186940,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112636,
+        "num": 378421,
+        "word": "高市早苗就白宫晚宴枪击事件表态",
+        "onboard_time": 1777190481,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1582648,
+        "num": 374429,
+        "word": "井柏然 老人味太重",
+        "onboard_time": 1777182080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998287,
+        "num": 373897,
+        "word": "孙怡 爱与不爱很明显",
+        "onboard_time": 1777182621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780596,
+        "num": 372261,
+        "word": "小米公司报警",
+        "onboard_time": 1777189159,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 682733,
+        "num": 369955,
+        "word": "桃黑黑直播美颜掉了",
+        "onboard_time": 1777181779,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 631926,
+        "num": 366856,
+        "word": "宁艺卓回怼粉丝",
+        "onboard_time": 1777163959,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619496,
+        "num": 364364,
+        "word": "卢昱晓袖口有虫爬出来",
+        "onboard_time": 1777190539,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486388,
+        "num": 362873,
+        "word": "特朗普紧急撤离时摔倒",
+        "onboard_time": 1777185022,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379809,
+        "num": 361562,
+        "word": "千里江山图",
+        "onboard_time": 1777184900,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568447,
+        "num": 358880,
+        "word": "李昀锐 孟子义",
+        "onboard_time": 1777175660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78387,
+        "num": 356730,
+        "word": "上海地铁女子和老太激烈扭打一团",
+        "onboard_time": 1777191141,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1791699,
+        "num": 355559,
+        "word": "魏笑结婚",
+        "onboard_time": 1777179082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665474,
+        "num": 352338,
+        "word": "曝顶流女明星帮富婆闺蜜找男网红",
+        "onboard_time": 1777189580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298418,
+        "num": 350999,
+        "word": "约基奇打架",
+        "onboard_time": 1777175241,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509671,
+        "num": 348880,
+        "word": "张凌赫腿受伤了",
+        "onboard_time": 1777179621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300542,
+        "num": 347354,
+        "word": "女子不知怀孕医院上厕所时生二胎",
+        "onboard_time": 1777190000,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483551,
+        "num": 345263,
+        "word": "阚清子老公行事体面",
+        "onboard_time": 1777179859,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409360,
+        "num": 343672,
+        "word": "易梦玲刷脸刷不出",
+        "onboard_time": 1777183641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342104,
+        "num": 342104,
+        "word": "25岁女孩婚前去世棺木停在帐篷",
+        "onboard_time": 1777191622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327209,
+        "num": 327209,
+        "word": "原来这是肺不好的表现",
+        "onboard_time": 1777179980,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242039,
+        "num": 320613,
+        "word": "精灵耳医美女子说生不如死",
+        "onboard_time": 1777186639,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316796,
+        "num": 316796,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 283726,
+        "num": 283726,
+        "word": "白鹿 厨师领巾",
+        "onboard_time": 1777190539,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132511,
+        "num": 282129,
+        "word": "李宗伟说15分制让自己有复出可能",
+        "onboard_time": 1777188560,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281993,
+        "num": 281993,
+        "word": "谢娜回复者来女",
+        "onboard_time": 1777188139,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233948,
+        "num": 233948,
+        "word": "近20万坐月子婴儿床出现多只书虱",
+        "onboard_time": 1777177222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48713,
+        "num": 221126,
+        "word": "游客买6000港元虫草磨粉后要价71000",
+        "onboard_time": 1777190300,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270807,
+        "num": 220089,
+        "word": "吴彦姝87岁穿高跟鞋不驼背",
+        "onboard_time": 1777183160,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211382,
+        "num": 211382,
+        "word": "张雪声援余承东",
+        "onboard_time": 1777190240,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211136,
+        "num": 211136,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1777178540,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202569,
+        "num": 202569,
+        "word": "林子烨练成微笑唇了",
+        "onboard_time": 1777176440,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172325,
+        "num": 172325,
+        "word": "汕头金山中学放学场面",
+        "onboard_time": 1777174462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169364,
+        "num": 169364,
+        "word": "王菲在北京的一天是怎么度过的",
+        "onboard_time": 1777173621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166490,
+        "num": 166490,
+        "word": "乌兰图雅鼻子上粉底都哭没了",
+        "onboard_time": 1777181480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138416,
+        "num": 157121,
+        "word": "男子出狱2年多交往20多名女性",
+        "onboard_time": 1777191559,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "张婧仪脸上起小疹子",
+        "onboard_time": 1777181480,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150181,
+        "num": 150181,
+        "word": "范丞丞看时团 鹿晗看NINEPERCENT",
+        "onboard_time": 1777177341,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121374,
+        "num": 146567,
+        "word": "东方甄选前员工发声",
+        "onboard_time": 1777180220,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64578,
+        "num": 145357,
+        "word": "俞敏洪回应多位主播离职",
+        "onboard_time": 1777165939,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76444,
+        "num": 145003,
+        "word": "东方甄选4名主播同日宣布离职",
+        "onboard_time": 1777163840,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144838,
+        "num": 144838,
+        "word": "快乐家族 忘年交",
+        "onboard_time": 1777190960,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
