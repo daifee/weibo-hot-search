@@ -1,0 +1,410 @@
+{
+  "runTime": 1777219542994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308142,
+        "num": 1308142,
+        "word": "歌手2026",
+        "onboard_time": 1777209140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778775,
+        "num": 830785,
+        "word": "男子从内地偷运51公斤盒饭回澳门",
+        "onboard_time": 1777208960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61039,
+        "num": 808860,
+        "word": "影视文旅成消费新风口",
+        "onboard_time": 1777206320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1277243,
+        "num": 808737,
+        "word": "张月 挂电",
+        "onboard_time": 1777212503,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955322,
+        "num": 808591,
+        "word": "身份证照片最接近别人肉眼看到的自己",
+        "onboard_time": 1777205060,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 807983,
+        "num": 807983,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591495,
+        "num": 591495,
+        "word": "AG春季赛总冠军",
+        "onboard_time": 1777214783,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 589621,
+        "num": 589621,
+        "word": "世界上两个最离不开手的东西合体了",
+        "onboard_time": 1777209681,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 469420,
+        "num": 469420,
+        "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
+        "onboard_time": 1777209741,
+        "rank": 8,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 284799,
+        "num": 284799,
+        "word": "RW对战AG",
+        "onboard_time": 1777207219,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1020943,
+        "num": 284715,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868357,
+        "num": 284345,
+        "word": "张颂文没看过狂飙",
+        "onboard_time": 1777216342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538640,
+        "num": 283974,
+        "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+        "onboard_time": 1777209621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436174,
+        "num": 283777,
+        "word": "连续两周上四休三",
+        "onboard_time": 1777212861,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409963,
+        "num": 283494,
+        "word": "井柏然 老人味太重",
+        "onboard_time": 1777182080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408714,
+        "num": 283115,
+        "word": "佳偶天成",
+        "onboard_time": 1777214302,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380493,
+        "num": 282964,
+        "word": "胖东来18元瓶装矿泉水遭哄抢",
+        "onboard_time": 1777209440,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275078,
+        "num": 282800,
+        "word": "俞敏洪坦言公司管理方式出现偏差",
+        "onboard_time": 1777213041,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187535,
+        "num": 282375,
+        "word": "A股一季度最赚钱公司曝光",
+        "onboard_time": 1777207401,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125611,
+        "num": 282189,
+        "word": "外籍游客三亚旅游15元误付1.5万",
+        "onboard_time": 1777219280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393523,
+        "num": 281796,
+        "word": "陈德修 够爱",
+        "onboard_time": 1777218441,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391711,
+        "num": 281440,
+        "word": "aespa回归预告",
+        "onboard_time": 1777216581,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281427,
+        "num": 281427,
+        "word": "网店卖8年假耐克赚了126万",
+        "onboard_time": 1777216641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366386,
+        "num": 280698,
+        "word": "张月 没保护好者来女是我的遗憾",
+        "onboard_time": 1777214000,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313409,
+        "num": 280425,
+        "word": "浪姐直播疑似没人理何宣林",
+        "onboard_time": 1777206320,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278604,
+        "num": 278604,
+        "word": "一笙回应",
+        "onboard_time": 1777208062,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297455,
+        "num": 275460,
+        "word": "花少总导演回复苏新皓粉丝",
+        "onboard_time": 1777215021,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271937,
+        "num": 271937,
+        "word": "杨幂冯太后盘发造型路透",
+        "onboard_time": 1777209681,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241043,
+        "num": 241043,
+        "word": "人类马拉松破二",
+        "onboard_time": 1777200680,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179569,
+        "num": 206390,
+        "word": "伊朗最高领袖突然发文",
+        "onboard_time": 1777213523,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186956,
+        "num": 186956,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 995440,
+        "num": 186903,
+        "word": "为什么先救万斯",
+        "onboard_time": 1777213162,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186655,
+        "num": 186655,
+        "word": "乘风2026三公淘汰四位姐姐",
+        "onboard_time": 1777211001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182745,
+        "num": 182745,
+        "word": "男童泡温泉遇蛇吓出应激创伤",
+        "onboard_time": 1777212682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178697,
+        "num": 178697,
+        "word": "魏笑老公曾参加过恋综",
+        "onboard_time": 1777218441,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81162,
+        "num": 172625,
+        "word": "阿迪达斯助人类马拉松首次破二",
+        "onboard_time": 1777215922,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170483,
+        "num": 170483,
+        "word": "橹穆双人舞台百天播放量",
+        "onboard_time": 1777210700,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163996,
+        "num": 163996,
+        "word": "李小冉跟心愿便利贴女主陈乔恩相遇了",
+        "onboard_time": 1777212023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159499,
+        "num": 159499,
+        "word": "父亲病重去世主播停播失联遭公司索赔",
+        "onboard_time": 1777215681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154139,
+        "num": 154139,
+        "word": "其实张若昀唱歌也很心酸",
+        "onboard_time": 1777216943,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150062,
+        "num": 150062,
+        "word": "张小斐 没有讨好感的眼神和动作",
+        "onboard_time": 1777200080,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146101,
+        "num": 147451,
+        "word": "1岁女童小区玩耍感染广州管圆线虫",
+        "onboard_time": 1777218801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146925,
+        "num": 146925,
+        "word": "边伯贤宠没边了",
+        "onboard_time": 1777215623,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "韦雪回应脖子显老",
+        "onboard_time": 1777214902,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132238,
+        "num": 132238,
+        "word": "一笙 我并没有大家想的那么好",
+        "onboard_time": 1777215082,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155545,
+        "num": 130331,
+        "word": "枪案现场特朗普旁华裔女记者是谁",
+        "onboard_time": 1777214602,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142180,
+        "num": 127879,
+        "word": "张凯丽女儿出道9年第一次拍吻戏",
+        "onboard_time": 1777202660,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124717,
+        "num": 124717,
+        "word": "曝一笙小号收藏德州相关帖子",
+        "onboard_time": 1777217121,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114252,
+        "num": 114252,
+        "word": "别在乱充电提早损害电池健康了",
+        "onboard_time": 1777204760,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121368,
+        "num": 114222,
+        "word": "郑钦文 签表",
+        "onboard_time": 1777218021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
