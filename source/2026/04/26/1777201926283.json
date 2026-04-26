@@ -1,0 +1,410 @@
+{
+  "runTime": 1777201926283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1568951,
+        "num": 1568951,
+        "word": "人类马拉松破二",
+        "onboard_time": 1777200680,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724888,
+        "num": 876516,
+        "word": "集体离职撕开东方甄选内部乱象",
+        "onboard_time": 1777190780,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 22082,
+        "num": 694776,
+        "word": "守护创新的力量",
+        "onboard_time": 1777189880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646083,
+        "num": 646083,
+        "word": "伦敦马拉松",
+        "onboard_time": 1777200619,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569353,
+        "num": 569353,
+        "word": "三鲜豆皮",
+        "onboard_time": 1777197440,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1246319,
+        "num": 550992,
+        "word": "王濛手臂图案",
+        "onboard_time": 1777194320,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478007,
+        "num": 478007,
+        "word": "美国网友质疑为什么先救万斯",
+        "onboard_time": 1777197020,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335633,
+        "num": 335633,
+        "word": "老祖宗不愿带回来的食物一定难吃",
+        "onboard_time": 1777180340,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323948,
+        "num": 323948,
+        "word": "仙逆",
+        "onboard_time": 1777200140,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238987,
+        "num": 323818,
+        "word": "狗狗脚脱臼了医患双方都很紧张",
+        "onboard_time": 1777199359,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1074537,
+        "num": 323092,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932234,
+        "num": 322438,
+        "word": "井柏然 老人味太重",
+        "onboard_time": 1777182080,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686895,
+        "num": 321961,
+        "word": "25岁女孩确诊黑色素瘤仅5个月离世",
+        "onboard_time": 1777193300,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618511,
+        "num": 321562,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574344,
+        "num": 321382,
+        "word": "特朗普说早知这么危险就不当总统了",
+        "onboard_time": 1777194740,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480999,
+        "num": 320546,
+        "word": "TCG淘汰WB",
+        "onboard_time": 1777196720,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 365125,
+        "num": 320254,
+        "word": "张小斐 没有讨好感的眼神和动作",
+        "onboard_time": 1777200080,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149290,
+        "num": 319727,
+        "word": "余承东检讨称以前做车不重视外观",
+        "onboard_time": 1777187119,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37002,
+        "num": 318966,
+        "word": "官员诱骗未成年人吸毒是现代版的杀良冒功",
+        "onboard_time": 1777201279,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36602,
+        "num": 318476,
+        "word": "国家安全部发布视频无我",
+        "onboard_time": 1777201279,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510821,
+        "num": 318138,
+        "word": "魏笑结婚",
+        "onboard_time": 1777179082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444445,
+        "num": 317795,
+        "word": "上海警方通报2女子因抢座冲突",
+        "onboard_time": 1777191740,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 443986,
+        "num": 317250,
+        "word": "桃黑黑直播美颜掉了",
+        "onboard_time": 1777181779,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 381411,
+        "num": 316408,
+        "word": "女子不知怀孕医院上厕所时生二胎",
+        "onboard_time": 1777190000,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329283,
+        "num": 315993,
+        "word": "曝顶流女明星帮富婆闺蜜找男网红",
+        "onboard_time": 1777189580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315770,
+        "num": 315770,
+        "word": "孙怡 爱与不爱很明显",
+        "onboard_time": 1777182621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255839,
+        "num": 255839,
+        "word": "小米公司报警",
+        "onboard_time": 1777189159,
+        "rank": 26,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 300684,
+        "num": 252080,
+        "word": "浪姐节目组对王濛彻底没招了",
+        "onboard_time": 1777192340,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245785,
+        "num": 245785,
+        "word": "李昀锐 孟子义",
+        "onboard_time": 1777175660,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198526,
+        "num": 198526,
+        "word": "约基奇打架原因披露",
+        "onboard_time": 1777197140,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263477,
+        "num": 189148,
+        "word": "阚清子老公行事体面",
+        "onboard_time": 1777179859,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224201,
+        "num": 182756,
+        "word": "王鹤棣演技",
+        "onboard_time": 1777197200,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176229,
+        "num": 176229,
+        "word": "地铁抢座互殴32岁和66岁谁该罚",
+        "onboard_time": 1777201279,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226750,
+        "num": 173621,
+        "word": "张月听到者来女淘汰的反应",
+        "onboard_time": 1777184960,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203246,
+        "num": 170458,
+        "word": "宁艺卓回怼粉丝",
+        "onboard_time": 1777163959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156832,
+        "num": 156832,
+        "word": "欠条10年不催不要过期失效",
+        "onboard_time": 1777198041,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231766,
+        "num": 155360,
+        "word": "阚清子老公投到第二就不投了",
+        "onboard_time": 1777199420,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174208,
+        "num": 151633,
+        "word": "张凌赫腿受伤了",
+        "onboard_time": 1777179621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147535,
+        "num": 147535,
+        "word": "WB对战TCG",
+        "onboard_time": 1777190180,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173489,
+        "num": 146976,
+        "word": "怦然心动20岁冬季",
+        "onboard_time": 1777201460,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "精灵耳医美女子说生不如死",
+        "onboard_time": 1777186639,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142630,
+        "num": 142630,
+        "word": "张雪声援余承东",
+        "onboard_time": 1777190240,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141708,
+        "num": 141708,
+        "word": "原来这是肺不好的表现",
+        "onboard_time": 1777179980,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141654,
+        "num": 141654,
+        "word": "云旗 最重要的是你们啊",
+        "onboard_time": 1777198220,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 140266,
+        "word": "特朗普紧急撤离时摔倒",
+        "onboard_time": 1777185022,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "男子乱小便被制止踹人骨折索赔18万",
+        "onboard_time": 1777195040,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127196,
+        "num": 127196,
+        "word": "周也公主切",
+        "onboard_time": 1777194140,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "伊朗提出新条件",
+        "onboard_time": 1777198281,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99621,
+        "num": 99621,
+        "word": "心疼暖阳",
+        "onboard_time": 1777199239,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33436,
+        "num": 99350,
+        "word": "从北京车展看中国汽车全球化发展",
+        "onboard_time": 1777197919,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
