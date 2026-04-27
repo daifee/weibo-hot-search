@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777281988884,
+  "endTime": 1777282679970,
   "band_list": [
     {
       "raw_hot": 4445287,
@@ -91,6 +91,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 1201766,
+      "num": 258677,
+      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+      "onboard_time": 1777272200,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1197823,
       "num": 373244,
       "word": "曝演员片酬已经跌到低点",
@@ -145,6 +153,14 @@
       "onboard_time": 1777213162,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 985428,
+      "num": 1157668,
+      "word": "Meta Manus",
+      "onboard_time": 1777279220,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 955322,
@@ -203,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 823854,
-      "num": 258677,
-      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
-      "onboard_time": 1777272200,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 823177,
       "num": 867948,
       "word": "国乒男女队拍摄出征合影",
@@ -233,14 +241,6 @@
       "onboard_time": 1777208960,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 768830,
-      "num": 1123012,
-      "word": "Meta Manus",
-      "onboard_time": 1777279220,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 750839,
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 733366,
-      "num": 841410,
+      "num": 844229,
       "word": "歌手 AI海报",
       "onboard_time": 1777274601,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731087,
+      "num": 731087,
+      "word": "单依纯郑州上座率",
+      "onboard_time": 1777273341,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 726141,
@@ -291,20 +299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 715465,
-      "num": 715465,
+      "raw_hot": 724625,
+      "num": 724625,
       "word": "labubu冰箱溢价3000元",
       "onboard_time": 1777279821,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 712129,
-      "num": 712129,
-      "word": "单依纯郑州上座率",
-      "onboard_time": 1777273341,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 708209,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 549578,
-      "num": 228213,
+      "num": 231943,
       "word": "疑似汤唯怀二胎",
       "onboard_time": 1777278020,
       "rank": 23,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 481332,
+      "num": 254626,
+      "word": "男子酒后3次布洛芬全身95%溃烂",
+      "onboard_time": 1777279701,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480494,
       "num": 480494,
       "word": "主播离职3天前俞敏洪说他们在休假",
@@ -529,14 +537,6 @@
       "onboard_time": 1777249760,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435602,
-      "num": 254626,
-      "word": "男子酒后3次布洛芬全身95%溃烂",
-      "onboard_time": 1777279701,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430767,
@@ -603,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403608,
+      "num": 403608,
+      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+      "onboard_time": 1777280841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396781,
       "num": 396781,
       "word": "王者芈月联动新皮肤敖闰",
@@ -649,6 +657,14 @@
       "onboard_time": 1777214000,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360653,
+      "num": 360653,
+      "word": "头一回见这么正的负能量",
+      "onboard_time": 1777276700,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 353297,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 274422,
-      "num": 207752,
+      "num": 209743,
       "word": "时代峰峻全世界最小方的公司",
       "onboard_time": 1777275860,
       "rank": 30,
@@ -801,14 +817,6 @@
       "onboard_time": 1777252461,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270012,
-      "num": 270012,
-      "word": "头一回见这么正的负能量",
-      "onboard_time": 1777276700,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 268792,
@@ -867,11 +875,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251602,
+      "num": 251602,
+      "word": "学生谈高中教师疑遭霸凌跳楼",
+      "onboard_time": 1777282041,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249410,
       "num": 351999,
       "word": "柳智敏蛇塑回归",
       "onboard_time": 1777250660,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246064,
+      "num": 209536,
+      "word": "戚薇3岁儿子近照",
+      "onboard_time": 1777278140,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -899,8 +923,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232216,
+      "num": 232216,
+      "word": "罗永浩谈东方甄选风波",
+      "onboard_time": 1777279580,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 218962,
-      "num": 198232,
+      "num": 205335,
       "word": "橹穆舞台播放量时代峰峻第二",
       "onboard_time": 1777281260,
       "rank": 35,
@@ -931,6 +963,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209487,
+      "num": 209487,
+      "word": "清华女博士分享万能通考方法",
+      "onboard_time": 1777280360,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 208974,
+      "num": 208974,
+      "word": "鹿晗穿红色踩小人袜子",
+      "onboard_time": 1777278201,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207170,
+      "num": 207170,
+      "word": "孙杨回应执着买金蛋",
+      "onboard_time": 1777281019,
+      "rank": 36,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 204404,
       "num": 204404,
       "word": "内娱进入开机冷静期",
@@ -939,12 +995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202786,
-      "num": 202786,
-      "word": "清华女博士分享万能通考方法",
-      "onboard_time": 1777280360,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 203211,
+      "num": 207847,
+      "word": "跟你们不爱吃米饭的说不清楚",
+      "onboard_time": 1777281260,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 200154,
@@ -987,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196752,
-      "num": 196752,
-      "word": "戚薇3岁儿子近照",
-      "onboard_time": 1777278140,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196667,
       "num": 326957,
       "word": "金莎孙丞潇婚后线下好甜",
@@ -1019,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192619,
+      "num": 183591,
+      "word": "Jennie欧美风",
+      "onboard_time": 1777277241,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192479,
       "num": 305227,
       "word": "张月的实力",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1777273280,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188575,
-      "num": 215714,
-      "word": "罗永浩谈东方甄选风波",
-      "onboard_time": 1777279580,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 188393,
@@ -1091,20 +1139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182668,
-      "num": 182668,
-      "word": "鹿晗穿红色踩小人袜子",
-      "onboard_time": 1777278201,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177425,
-      "num": 154338,
-      "word": "Jennie欧美风",
-      "onboard_time": 1777277241,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 181970,
+      "num": 181970,
+      "word": "8岁女孩罕见性早熟全球仅100例",
+      "onboard_time": 1777282041,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177041,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1777263860,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173418,
+      "num": 173418,
+      "word": "会说话的重要性",
+      "onboard_time": 1777281919,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 170483,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1777214902,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 162436,
-      "num": 162436,
-      "word": "会说话的重要性",
-      "onboard_time": 1777281919,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 162424,
@@ -1379,20 +1419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122931,
+      "num": 153965,
+      "word": "白宫枪案现场惊现最稳干饭人",
+      "onboard_time": 1777280300,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121368,
       "num": 126206,
       "word": "郑钦文 签表",
       "onboard_time": 1777218021,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119513,
-      "num": 242027,
-      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
-      "onboard_time": 1777280841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117545,
@@ -1427,20 +1467,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 108626,
-      "num": 153965,
-      "word": "白宫枪案现场惊现最稳干饭人",
-      "onboard_time": 1777280300,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 107169,
       "num": 341337,
       "word": "某免费观影APP疯狂盗取正版资源牟利",
       "onboard_time": 1777259240,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103982,
+      "num": 174567,
+      "word": "iPhoneFold疯狂秀刀法",
+      "onboard_time": 1777269261,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 102773,
@@ -1539,20 +1579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78051,
-      "num": 174567,
-      "word": "iPhoneFold疯狂秀刀法",
-      "onboard_time": 1777269261,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 75517,
       "num": 361858,
       "word": "老外踮脚看中国智造",
       "onboard_time": 1777259240,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74014,
+      "num": 147366,
+      "word": "东方甄选回应大量用户申请退会员",
+      "onboard_time": 1777277359,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 71736,
@@ -1584,6 +1624,14 @@
       "word": "东方甄选为何留不住人",
       "onboard_time": 1777233615,
       "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 62342,
+      "num": 146626,
+      "word": "台湾网民大赞高德地图效率",
+      "onboard_time": 1777282101,
+      "rank": 47,
       "category": "互联网"
     },
     {

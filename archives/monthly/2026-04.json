@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777281988884,
+  "endTime": 1777282679970,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -2515,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1201766,
+      "num": 258677,
+      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+      "onboard_time": 1777272200,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1201093,
       "num": 1040786,
       "word": "发现变胖真的太廉价了",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1776858562,
       "rank": 5,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 985428,
+      "num": 1157668,
+      "word": "Meta Manus",
+      "onboard_time": 1777279220,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 985012,
@@ -4723,14 +4739,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 823854,
-      "num": 258677,
-      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
-      "onboard_time": 1777272200,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 823177,
       "num": 867948,
       "word": "国乒男女队拍摄出征合影",
@@ -5363,14 +5371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 768830,
-      "num": 1123012,
-      "word": "Meta Manus",
-      "onboard_time": 1777279220,
-      "rank": 0,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 768801,
       "num": 946879,
       "word": "女子机场两次拒绝帮陌生人带行李",
@@ -5780,7 +5780,7 @@
     },
     {
       "raw_hot": 733366,
-      "num": 841410,
+      "num": 844229,
       "word": "歌手 AI海报",
       "onboard_time": 1777274601,
       "rank": 1,
@@ -5801,6 +5801,14 @@
       "onboard_time": 1777073958,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 731087,
+      "num": 731087,
+      "word": "单依纯郑州上座率",
+      "onboard_time": 1777273341,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 730921,
@@ -5889,6 +5897,14 @@
       "onboard_time": 1777259659,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 724625,
+      "num": 724625,
+      "word": "labubu冰箱溢价3000元",
+      "onboard_time": 1777279821,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 722966,
@@ -5995,14 +6011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 715465,
-      "num": 715465,
-      "word": "labubu冰箱溢价3000元",
-      "onboard_time": 1777279821,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 715374,
       "num": 165213,
       "word": "向华强女儿说向太拿烟头烫她",
@@ -6073,14 +6081,6 @@
       "onboard_time": 1775914645,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 712129,
-      "num": 712129,
-      "word": "单依纯郑州上座率",
-      "onboard_time": 1777273341,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 711978,
@@ -8820,7 +8820,7 @@
     },
     {
       "raw_hot": 549578,
-      "num": 228213,
+      "num": 231943,
       "word": "疑似汤唯怀二胎",
       "onboard_time": 1777278020,
       "rank": 23,
@@ -10587,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481332,
+      "num": 254626,
+      "word": "男子酒后3次布洛芬全身95%溃烂",
+      "onboard_time": 1777279701,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481041,
       "num": 481041,
       "word": "苹果官方发文提醒",
@@ -11931,14 +11939,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 435602,
-      "num": 254626,
-      "word": "男子酒后3次布洛芬全身95%溃烂",
-      "onboard_time": 1777279701,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 435529,
       "num": 435529,
       "word": "陈伟霆看到孩子走不动路",
@@ -13144,6 +13144,14 @@
       "word": "男子追求女技师被拒举报浴场涉黄",
       "onboard_time": 1775805743,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403608,
+      "num": 403608,
+      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+      "onboard_time": 1777280841,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15113,6 +15121,14 @@
       "onboard_time": 1777168880,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360653,
+      "num": 360653,
+      "word": "头一回见这么正的负能量",
+      "onboard_time": 1777276700,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 360526,
@@ -20012,7 +20028,7 @@
     },
     {
       "raw_hot": 274422,
-      "num": 207752,
+      "num": 209743,
       "word": "时代峰峻全世界最小方的公司",
       "onboard_time": 1777275860,
       "rank": 30,
@@ -20249,14 +20265,6 @@
       "onboard_time": 1775144602,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 270012,
-      "num": 270012,
-      "word": "头一回见这么正的负能量",
-      "onboard_time": 1777276700,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 269999,
@@ -21659,6 +21667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251602,
+      "num": 251602,
+      "word": "学生谈高中教师疑遭霸凌跳楼",
+      "onboard_time": 1777282041,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251494,
       "num": 251494,
       "word": "kspo栏杆",
@@ -22096,6 +22112,14 @@
       "word": "梁朝伟迪丽热巴好像在拍电影",
       "onboard_time": 1776571519,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246064,
+      "num": 209536,
+      "word": "戚薇3岁儿子近照",
+      "onboard_time": 1777278140,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -23299,6 +23323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232216,
+      "num": 232216,
+      "word": "罗永浩谈东方甄选风波",
+      "onboard_time": 1777279580,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 232173,
       "num": 335260,
       "word": "黄金或面临长期盘整",
@@ -24492,7 +24524,7 @@
     },
     {
       "raw_hot": 218962,
-      "num": 198232,
+      "num": 205335,
       "word": "橹穆舞台播放量时代峰峻第二",
       "onboard_time": 1777281260,
       "rank": 35,
@@ -25467,6 +25499,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 209487,
+      "num": 209487,
+      "word": "清华女博士分享万能通考方法",
+      "onboard_time": 1777280360,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209399,
       "num": 160627,
       "word": "孙怡紧急撤回一个盘腿",
@@ -25529,6 +25569,14 @@
       "onboard_time": 1775194161,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208974,
+      "num": 208974,
+      "word": "鹿晗穿红色踩小人袜子",
+      "onboard_time": 1777278201,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 208965,
@@ -25697,6 +25745,14 @@
       "onboard_time": 1775712025,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207170,
+      "num": 207170,
+      "word": "孙杨回应执着买金蛋",
+      "onboard_time": 1777281019,
+      "rank": 36,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 207027,
@@ -26059,6 +26115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203211,
+      "num": 207847,
+      "word": "跟你们不爱吃米饭的说不清楚",
+      "onboard_time": 1777281260,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203161,
       "num": 182996,
       "word": "迪丽热巴花魁造型",
@@ -26113,14 +26177,6 @@
       "onboard_time": 1775119162,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 202786,
-      "num": 202786,
-      "word": "清华女博士分享万能通考方法",
-      "onboard_time": 1777280360,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 202771,
@@ -26875,14 +26931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196752,
-      "num": 196752,
-      "word": "戚薇3岁儿子近照",
-      "onboard_time": 1777278140,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196694,
       "num": 173090,
       "word": "朴宝剑刘诗诗王安宇孙千人生四格",
@@ -27353,6 +27401,14 @@
       "onboard_time": 1775433679,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192619,
+      "num": 183591,
+      "word": "Jennie欧美风",
+      "onboard_time": 1777277241,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 192565,
@@ -27881,14 +27937,6 @@
       "onboard_time": 1775617100,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188575,
-      "num": 215714,
-      "word": "罗永浩谈东方甄选风波",
-      "onboard_time": 1777279580,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 188449,
@@ -28571,14 +28619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182668,
-      "num": 182668,
-      "word": "鹿晗穿红色踩小人袜子",
-      "onboard_time": 1777278201,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182429,
       "num": 182429,
       "word": "美国教师为性侵学生与其母亲交往",
@@ -28640,6 +28680,14 @@
       "word": "载2万斤橙子货车翻滚坠崖",
       "onboard_time": 1775575101,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181970,
+      "num": 181970,
+      "word": "8岁女孩罕见性早熟全球仅100例",
+      "onboard_time": 1777282041,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -29201,14 +29249,6 @@
       "onboard_time": 1776650600,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177425,
-      "num": 154338,
-      "word": "Jennie欧美风",
-      "onboard_time": 1777277241,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 177413,
@@ -29785,6 +29825,14 @@
       "onboard_time": 1777201460,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173418,
+      "num": 173418,
+      "word": "会说话的重要性",
+      "onboard_time": 1777281919,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 173330,
@@ -31321,14 +31369,6 @@
       "onboard_time": 1775040804,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 162436,
-      "num": 162436,
-      "word": "会说话的重要性",
-      "onboard_time": 1777281919,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 162424,
@@ -38083,6 +38123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122931,
+      "num": 153965,
+      "word": "白宫枪案现场惊现最稳干饭人",
+      "onboard_time": 1777280300,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122910,
       "num": 122910,
       "word": "美国被曝想用停火换霍尔木兹海峡通航",
@@ -38897,14 +38945,6 @@
       "onboard_time": 1775180541,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119513,
-      "num": 242027,
-      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
-      "onboard_time": 1777280841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119420,
@@ -41347,14 +41387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108626,
-      "num": 153965,
-      "word": "白宫枪案现场惊现最稳干饭人",
-      "onboard_time": 1777280300,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108618,
       "num": 125717,
       "word": "受困霍尔木兹海峡船员已有精神问题",
@@ -42593,6 +42625,14 @@
       "onboard_time": 1776141862,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103982,
+      "num": 174567,
+      "word": "iPhoneFold疯狂秀刀法",
+      "onboard_time": 1777269261,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 103956,
@@ -51811,14 +51851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78051,
-      "num": 174567,
-      "word": "iPhoneFold疯狂秀刀法",
-      "onboard_time": 1777269261,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 78041,
       "num": 78041,
       "word": "陈芋汐携新搭档冲击世界杯五连冠",
@@ -53697,6 +53729,14 @@
       "onboard_time": 1775818101,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74014,
+      "num": 147366,
+      "word": "东方甄选回应大量用户申请退会员",
+      "onboard_time": 1777277359,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 74004,
@@ -58121,6 +58161,14 @@
       "onboard_time": 1775297001,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62342,
+      "num": 146626,
+      "word": "台湾网民大赞高德地图效率",
+      "onboard_time": 1777282101,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 62327,
