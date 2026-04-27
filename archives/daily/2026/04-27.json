@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777290709450,
+  "endTime": 1777291683067,
   "band_list": [
     {
       "raw_hot": 4445287,
@@ -17,6 +17,22 @@
       "onboard_time": 1777268361,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3167384,
+      "num": 485295,
+      "word": "杨幂脸被蒸汽眼罩烫伤了",
+      "onboard_time": 1777290500,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2064040,
+      "num": 815806,
+      "word": "旅游的三千块钱定律",
+      "onboard_time": 1777288760,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 1661240,
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 815806,
-      "num": 815806,
-      "word": "旅游的三千块钱定律",
-      "onboard_time": 1777288760,
-      "rank": 6,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 807983,
       "num": 807983,
       "word": "迪丽热巴跑男只录了12天",
@@ -459,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554061,
+      "num": 830028,
+      "word": "华住会崩了",
+      "onboard_time": 1777286359,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 549578,
       "num": 466582,
       "word": "疑似汤唯怀二胎",
@@ -467,11 +483,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543741,
+      "num": 836781,
+      "word": "黄金被扣30年将按正常时效处理",
+      "onboard_time": 1777286782,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 538640,
       "num": 283974,
       "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
       "onboard_time": 1777209621,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537871,
+      "num": 836268,
+      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+      "onboard_time": 1777280841,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -489,14 +521,6 @@
       "onboard_time": 1777284619,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 505984,
-      "num": 836268,
-      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
-      "onboard_time": 1777280841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505065,
@@ -545,14 +569,6 @@
       "onboard_time": 1777266442,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 486188,
-      "num": 830028,
-      "word": "华住会崩了",
-      "onboard_time": 1777286359,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 481332,
@@ -611,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436505,
-      "num": 485295,
-      "word": "杨幂脸被蒸汽眼罩烫伤了",
-      "onboard_time": 1777290500,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430767,
       "num": 344038,
       "word": "原来百家讲坛是真的在教东西",
@@ -657,14 +665,6 @@
       "onboard_time": 1777271118,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422357,
-      "num": 825369,
-      "word": "黄金被扣30年将按正常时效处理",
-      "onboard_time": 1777286782,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 409963,
@@ -923,7 +923,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 264239,
+      "raw_hot": 264459,
       "num": 489707,
       "word": "浪姐四公 无踢馆",
       "onboard_time": 1777289481,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1777261580,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241118,
+      "num": 426029,
+      "word": "身体严重缺觉的7个迹象",
+      "onboard_time": 1777289600,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 241043,
@@ -1235,6 +1243,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 183417,
+      "num": 462931,
+      "word": "婚纱转场一出来我眼睛都睁大了",
+      "onboard_time": 1777289600,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182745,
       "num": 182745,
       "word": "男童泡温泉遇蛇吓出应激创伤",
@@ -1283,12 +1299,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172680,
-      "num": 462931,
-      "word": "婚纱转场一出来我眼睛都睁大了",
-      "onboard_time": 1777289600,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 173780,
+      "num": 525712,
+      "word": "腾势D9把老车主宠上天了",
+      "onboard_time": 1777287860,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 170967,
+      "num": 481517,
+      "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
+      "onboard_time": 1777290141,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170483,
@@ -1307,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163714,
+      "num": 310709,
+      "word": "王橹杰被路人盯害羞了",
+      "onboard_time": 1777288281,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163321,
       "num": 163321,
       "word": "韦雪回应脖子显老",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1777263860,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 446655,
+      "word": "建议不要过度依赖AI",
+      "onboard_time": 1777288878,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 162183,
@@ -1371,12 +1411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151706,
-      "num": 481517,
-      "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
-      "onboard_time": 1777290141,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 151781,
+      "num": 451968,
+      "word": "白宫记者晚宴500刀一个人",
+      "onboard_time": 1777289781,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151254,
@@ -1435,20 +1475,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144227,
+      "raw_hot": 145126,
       "num": 453768,
       "word": "崩老头",
       "onboard_time": 1777289061,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143270,
-      "num": 446655,
-      "word": "建议不要过度依赖AI",
-      "onboard_time": 1777288878,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 142318,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1777204760,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137169,
+      "num": 431305,
+      "word": "白鹿包场支持郑恺李晨",
+      "onboard_time": 1777287619,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 136106,
@@ -1555,20 +1595,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124672,
-      "num": 431305,
-      "word": "白鹿包场支持郑恺李晨",
-      "onboard_time": 1777287619,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 123421,
-      "num": 451968,
-      "word": "白宫记者晚宴500刀一个人",
-      "onboard_time": 1777289781,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 123677,
+      "num": 428471,
+      "word": "丁俊晖回复赵心童",
+      "onboard_time": 1777286241,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123126,
@@ -1603,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119764,
+      "num": 297847,
+      "word": "单依纯郑州演唱会打折",
+      "onboard_time": 1777289419,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117545,
       "num": 174583,
       "word": "5200亿CPO概念龙头触及涨停",
       "onboard_time": 1777269800,
       "rank": 45,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 116169,
-      "num": 426029,
-      "word": "身体严重缺觉的7个迹象",
-      "onboard_time": 1777289600,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116155,
@@ -1627,12 +1659,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114517,
-      "num": 428471,
-      "word": "丁俊晖回复赵心童",
-      "onboard_time": 1777286241,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 111869,
+      "num": 296817,
+      "word": "男子把幼童当作健身器材狂甩",
+      "onboard_time": 1777291642,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111531,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1777277359,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 73947,
-      "num": 525712,
-      "word": "腾势D9把老车主宠上天了",
-      "onboard_time": 1777287860,
-      "rank": 10,
-      "category": "汽车"
     },
     {
       "raw_hot": 71736,
@@ -1955,7 +1979,15 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 16652,
+      "raw_hot": 23091,
+      "num": 330326,
+      "word": "克隆牦牛来了",
+      "onboard_time": 1777287079,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20481,
       "num": 450207,
       "word": "男子凌晨朝泳池投掷火锅底料",
       "onboard_time": 1777290680,

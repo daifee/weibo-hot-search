@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 19:51:49
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 20:08:03
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84%23" target="weibo">
 这些图片居然都是AI的（热度：3170901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%84%B8%E8%A2%AB%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9%E7%83%AB%E4%BC%A4%E4%BA%86%23" target="weibo">
+杨幂脸被蒸汽眼罩烫伤了（热度：3167384）
 </a>
 </li>
 
@@ -623,6 +629,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E7%88%B6%E5%BC%82%E6%AF%8D%E4%BD%86%E5%8F%8C%E8%83%9E%E8%83%8E%23" target="weibo">
 异父异母但双胞胎（热度：2072563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E7%9A%84%E4%B8%89%E5%8D%83%E5%9D%97%E9%92%B1%E5%AE%9A%E5%BE%8B%23" target="weibo">
+旅游的三千块钱定律（热度：2064040）
 </a>
 </li>
 
@@ -3657,12 +3669,6 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E7%9A%84%E4%B8%89%E5%8D%83%E5%9D%97%E9%92%B1%E5%AE%9A%E5%BE%8B%23" target="weibo">
-旅游的三千块钱定律（热度：815806）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%E6%9D%8E%E5%B0%8F%E5%86%89%23" target="weibo">
 你是真的火了李小冉（热度：815381）
 </a>
@@ -6005,12 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%20%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
 李雨桐 薛之谦（热度：591829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%86%E8%BD%AC%E5%9E%8B%E6%88%90%E9%9D%9E%E4%B8%AD%E5%BF%83%E5%8C%96%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%23" target="weibo">
-爱奇艺将转型成非中心化社交媒体（热度：591704）
 </a>
 </li>
 

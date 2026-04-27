@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777290709450,
+  "endTime": 1777291683067,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -329,6 +329,14 @@
       "onboard_time": 1777007600,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3167384,
+      "num": 485295,
+      "word": "杨幂脸被蒸汽眼罩烫伤了",
+      "onboard_time": 1777290500,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 3146099,
@@ -817,6 +825,14 @@
       "onboard_time": 1777104439,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2064040,
+      "num": 815806,
+      "word": "旅游的三千块钱定律",
+      "onboard_time": 1777288760,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 2046414,
@@ -4859,14 +4875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 815806,
-      "num": 815806,
-      "word": "旅游的三千块钱定律",
-      "onboard_time": 1777288760,
-      "rank": 6,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 815381,
       "num": 346842,
       "word": "你是真的火了李小冉",
@@ -8763,6 +8771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554061,
+      "num": 830028,
+      "word": "华住会崩了",
+      "onboard_time": 1777286359,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 553997,
       "num": 553997,
       "word": "花251块买的女装",
@@ -9043,6 +9059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543741,
+      "num": 836781,
+      "word": "黄金被扣30年将按正常时效处理",
+      "onboard_time": 1777286782,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 543160,
       "num": 1086905,
       "word": "伊朗籍男子在日本被殴打致死",
@@ -9192,6 +9216,14 @@
       "word": "女子生产坚持不打无痛老公苦苦哀求",
       "onboard_time": 1776215420,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537871,
+      "num": 836268,
+      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+      "onboard_time": 1777280841,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9971,14 +10003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 505984,
-      "num": 836268,
-      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
-      "onboard_time": 1777280841,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 505656,
       "num": 268620,
       "word": "姚安娜代言华为",
@@ -10513,14 +10537,6 @@
       "onboard_time": 1776414623,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486188,
-      "num": 830028,
-      "word": "华住会崩了",
-      "onboard_time": 1777286359,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 485818,
@@ -11971,14 +11987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436505,
-      "num": 485295,
-      "word": "杨幂脸被蒸汽眼罩烫伤了",
-      "onboard_time": 1777290500,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 436337,
       "num": 177584,
       "word": "谢娜演唱会供需比",
@@ -12457,14 +12465,6 @@
       "onboard_time": 1776076041,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422357,
-      "num": 825369,
-      "word": "黄金被扣30年将按正常时效处理",
-      "onboard_time": 1777286782,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 422023,
@@ -20819,6 +20819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 264459,
+      "num": 489707,
+      "word": "浪姐四公 无踢馆",
+      "onboard_time": 1777289481,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264447,
       "num": 464410,
       "word": "被减肥背刺了",
@@ -20833,14 +20841,6 @@
       "onboard_time": 1776422481,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264239,
-      "num": 489707,
-      "word": "浪姐四公 无踢馆",
-      "onboard_time": 1777289481,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 264230,
@@ -22689,6 +22689,14 @@
       "onboard_time": 1777026200,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241118,
+      "num": 426029,
+      "word": "身体严重缺觉的7个迹象",
+      "onboard_time": 1777289600,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240935,
@@ -28659,6 +28667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183417,
+      "num": 462931,
+      "word": "婚纱转场一出来我眼睛都睁大了",
+      "onboard_time": 1777289600,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183405,
       "num": 172337,
       "word": "多部门回应女老师两点一线脱单难",
@@ -29883,6 +29899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173780,
+      "num": 525712,
+      "word": "腾势D9把老车主宠上天了",
+      "onboard_time": 1777287860,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173777,
       "num": 1032016,
       "word": "CBA",
@@ -29977,14 +30001,6 @@
       "onboard_time": 1776916822,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172680,
-      "num": 462931,
-      "word": "婚纱转场一出来我眼睛都睁大了",
-      "onboard_time": 1777289600,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 172664,
@@ -30192,6 +30208,14 @@
       "word": "男子骑车途中电池爆燃妻子全身烧伤",
       "onboard_time": 1775305463,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170967,
+      "num": 481517,
+      "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
+      "onboard_time": 1777290141,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -31243,6 +31267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163714,
+      "num": 310709,
+      "word": "王橹杰被路人盯害羞了",
+      "onboard_time": 1777288281,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163702,
       "num": 163702,
       "word": "带娃买高铁票结果相隔14个车厢",
@@ -31513,6 +31545,14 @@
       "onboard_time": 1775964019,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 446655,
+      "word": "建议不要过度依赖AI",
+      "onboard_time": 1777288878,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 162289,
@@ -33115,12 +33155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151706,
-      "num": 481517,
-      "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
-      "onboard_time": 1777290141,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 151781,
+      "num": 451968,
+      "word": "白宫记者晚宴500刀一个人",
+      "onboard_time": 1777289781,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151674,
@@ -34091,6 +34131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145126,
+      "num": 453768,
+      "word": "崩老头",
+      "onboard_time": 1777289061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "湖人八村变八神",
@@ -34217,14 +34265,6 @@
       "onboard_time": 1776060682,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144227,
-      "num": 453768,
-      "word": "崩老头",
-      "onboard_time": 1777289061,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144197,
@@ -34409,14 +34449,6 @@
       "onboard_time": 1775234060,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143270,
-      "num": 446655,
-      "word": "建议不要过度依赖AI",
-      "onboard_time": 1777288878,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 143260,
@@ -35537,6 +35569,14 @@
       "onboard_time": 1775054424,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137169,
+      "num": 431305,
+      "word": "白鹿包场支持郑恺李晨",
+      "onboard_time": 1777287619,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 137105,
@@ -37931,14 +37971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124672,
-      "num": 431305,
-      "word": "白鹿包场支持郑恺李晨",
-      "onboard_time": 1777287619,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124620,
       "num": 183051,
       "word": "朴宝剑 偶遇",
@@ -38139,6 +38171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123677,
+      "num": 428471,
+      "word": "丁俊晖回复赵心童",
+      "onboard_time": 1777286241,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123621,
       "num": 456544,
       "word": "EWC2026英雄联盟预选赛",
@@ -38185,14 +38225,6 @@
       "onboard_time": 1775834303,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123421,
-      "num": 451968,
-      "word": "白宫记者晚宴500刀一个人",
-      "onboard_time": 1777289781,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123410,
@@ -39075,6 +39107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119764,
+      "num": 297847,
+      "word": "单依纯郑州演唱会打折",
+      "onboard_time": 1777289419,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119716,
       "num": 141753,
       "word": "镜头暴力",
@@ -39931,14 +39971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116169,
-      "num": 426029,
-      "word": "身体严重缺觉的7个迹象",
-      "onboard_time": 1777289600,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116156,
       "num": 116156,
       "word": "干西红柿你吃过吗",
@@ -40273,14 +40305,6 @@
       "onboard_time": 1776935060,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114517,
-      "num": 428471,
-      "word": "丁俊晖回复赵心童",
-      "onboard_time": 1777286241,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 114502,
@@ -40761,6 +40785,14 @@
       "onboard_time": 1775206701,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111869,
+      "num": 296817,
+      "word": "男子把幼童当作健身器材狂甩",
+      "onboard_time": 1777291642,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111710,
@@ -53947,14 +53979,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 73947,
-      "num": 525712,
-      "word": "腾势D9把老车主宠上天了",
-      "onboard_time": 1777287860,
-      "rank": 10,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 73932,
       "num": 246114,
       "word": "电子爸妈因亲生女儿出镜被拉黑",
@@ -66419,6 +66443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23091,
+      "num": 330326,
+      "word": "克隆牦牛来了",
+      "onboard_time": 1777287079,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23051,
       "num": 80139,
       "word": "被现实版莫奈花园美哭了",
@@ -66833,6 +66865,14 @@
       "onboard_time": 1776851602,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20481,
+      "num": 450207,
+      "word": "男子凌晨朝泳池投掷火锅底料",
+      "onboard_time": 1777290680,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20465,
@@ -67473,14 +67513,6 @@
       "onboard_time": 1776240621,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16652,
-      "num": 450207,
-      "word": "男子凌晨朝泳池投掷火锅底料",
-      "onboard_time": 1777290680,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16575,

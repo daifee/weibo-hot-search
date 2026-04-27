@@ -1,0 +1,410 @@
+{
+  "runTime": 1777291683067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930142,
+        "num": 1148822,
+        "word": "四晚494元房间被退单后变一晚569元",
+        "onboard_time": 1777284320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543741,
+        "num": 836781,
+        "word": "黄金被扣30年将按正常时效处理",
+        "onboard_time": 1777286782,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30063,
+        "num": 651412,
+        "word": "广交会点燃入境消费新热潮",
+        "onboard_time": 1777274601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2064040,
+        "num": 622203,
+        "word": "旅游的三千块钱定律",
+        "onboard_time": 1777288760,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 854315,
+        "num": 593462,
+        "word": "被AI骗去毒蛇窝徒步",
+        "onboard_time": 1777283781,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537871,
+        "num": 537871,
+        "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+        "onboard_time": 1777280841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554061,
+        "num": 513161,
+        "word": "华住会崩了",
+        "onboard_time": 1777286359,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 435855,
+        "num": 435855,
+        "word": "骨相美的人适合上镜",
+        "onboard_time": 1777284619,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365695,
+        "num": 365695,
+        "word": "单依纯郑州上座率",
+        "onboard_time": 1777273341,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304676,
+        "num": 365281,
+        "word": "歌手 AI海报",
+        "onboard_time": 1777274601,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385505,
+        "num": 363932,
+        "word": "男子酒后3次布洛芬全身95%溃烂",
+        "onboard_time": 1777279701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3167384,
+        "num": 361064,
+        "word": "杨幂脸被蒸汽眼罩烫伤了",
+        "onboard_time": 1777290500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2563934,
+        "num": 359386,
+        "word": "平台明确不要的艺人",
+        "onboard_time": 1777264941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269421,
+        "num": 357410,
+        "word": "labubu冰箱溢价3000元",
+        "onboard_time": 1777279821,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1215473,
+        "num": 356405,
+        "word": "上海咖啡店偶遇了赵丽颖",
+        "onboard_time": 1777286479,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199490,
+        "num": 355130,
+        "word": "浙江卫视短剧 融脸肖战王一博",
+        "onboard_time": 1777286900,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212900,
+        "num": 352036,
+        "word": "买纸巾得多个心眼",
+        "onboard_time": 1777270040,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358636,
+        "num": 350901,
+        "word": "时代少年团 美宝莲",
+        "onboard_time": 1777283540,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154954,
+        "num": 348632,
+        "word": "詹姆斯回应火箭湖人赛后一片混乱",
+        "onboard_time": 1777278080,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809073,
+        "num": 346987,
+        "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+        "onboard_time": 1777272200,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628566,
+        "num": 345775,
+        "word": "巴黎偶遇窦靖童宋妍霏",
+        "onboard_time": 1777288401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241118,
+        "num": 344737,
+        "word": "身体严重缺觉的7个迹象",
+        "onboard_time": 1777289600,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 620490,
+        "num": 341809,
+        "word": "田曦薇 飞升",
+        "onboard_time": 1777278860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264459,
+        "num": 340523,
+        "word": "浪姐四公 无踢馆",
+        "onboard_time": 1777289481,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173780,
+        "num": 338484,
+        "word": "腾势D9把老车主宠上天了",
+        "onboard_time": 1777287860,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210183,
+        "num": 337366,
+        "word": "歌手2026首播时间",
+        "onboard_time": 1777288099,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170967,
+        "num": 335929,
+        "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
+        "onboard_time": 1777290141,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551894,
+        "num": 334762,
+        "word": "曝演员片酬已经跌到低点",
+        "onboard_time": 1777265841,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89595,
+        "num": 332487,
+        "word": "轰炸中伊朗国宝来到中国",
+        "onboard_time": 1777265360,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23091,
+        "num": 330326,
+        "word": "克隆牦牛来了",
+        "onboard_time": 1777287079,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151781,
+        "num": 328888,
+        "word": "白宫记者晚宴500刀一个人",
+        "onboard_time": 1777289781,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392569,
+        "num": 326547,
+        "word": "曝易梦玲整容",
+        "onboard_time": 1777261040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318763,
+        "num": 325191,
+        "word": "丁禹兮回应今年没那么火了",
+        "onboard_time": 1777275441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183417,
+        "num": 322809,
+        "word": "婚纱转场一出来我眼睛都睁大了",
+        "onboard_time": 1777289600,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217338,
+        "num": 322340,
+        "word": "戚薇3岁儿子近照",
+        "onboard_time": 1777278140,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206363,
+        "num": 319443,
+        "word": "叶璇与继母遭亡父保姆起诉",
+        "onboard_time": 1777272921,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163290,
+        "num": 318634,
+        "word": "会说话的重要性",
+        "onboard_time": 1777281919,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192960,
+        "num": 316804,
+        "word": "孙杨回应执着买金蛋",
+        "onboard_time": 1777281019,
+        "rank": 37,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 191629,
+        "num": 314717,
+        "word": "疑似汤唯怀二胎",
+        "onboard_time": 1777278020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20481,
+        "num": 313476,
+        "word": "男子凌晨朝泳池投掷火锅底料",
+        "onboard_time": 1777290680,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 173744,
+        "num": 311773,
+        "word": "如果朱志鑫演宋威龙陈都灵的孩子",
+        "onboard_time": 1777287140,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163714,
+        "num": 310709,
+        "word": "王橹杰被路人盯害羞了",
+        "onboard_time": 1777288281,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162330,
+        "num": 307721,
+        "word": "建议不要过度依赖AI",
+        "onboard_time": 1777288878,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145529,
+        "num": 306007,
+        "word": "跟你们不爱吃米饭的说不清楚",
+        "onboard_time": 1777281260,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 305550,
+        "word": "崩老头",
+        "onboard_time": 1777289061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 303616,
+        "word": "白鹿包场支持郑恺李晨",
+        "onboard_time": 1777287619,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133291,
+        "num": 300876,
+        "word": "罗永浩谈东方甄选风波",
+        "onboard_time": 1777279580,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123677,
+        "num": 300222,
+        "word": "丁俊晖回复赵心童",
+        "onboard_time": 1777286241,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119764,
+        "num": 297847,
+        "word": "单依纯郑州演唱会打折",
+        "onboard_time": 1777289419,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111869,
+        "num": 296817,
+        "word": "男子把幼童当作健身器材狂甩",
+        "onboard_time": 1777291642,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
