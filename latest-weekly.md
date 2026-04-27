@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 07:03:51
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 07:17:41
 </p>
 </blockquote>
 <p>
@@ -1377,6 +1377,12 @@ aespa回归预告（热度：413419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%9612%E5%B9%B4%E9%93%B6%E8%A1%8C%E7%AA%81%E7%84%B6%E6%9D%A5%E5%82%AC%E5%80%BA%23" target="weibo">
+父亲去世12年银行突然来催债（热度：322618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E5%A6%86%E9%80%A0%23" target="weibo">
 王鹤润妆造（热度：320274）
 </a>
@@ -1475,12 +1481,6 @@ RW对战AG（热度：306722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%A4%B4%E5%8F%91%E6%B2%B9%E6%85%A2%E7%9A%84%E5%B0%8F%E6%96%B9%E6%B3%95%23" target="weibo">
 洗头发油慢的小方法（热度：297163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%9612%E5%B9%B4%E9%93%B6%E8%A1%8C%E7%AA%81%E7%84%B6%E6%9D%A5%E5%82%AC%E5%80%BA%23" target="weibo">
-父亲去世12年银行突然来催债（热度：291640）
 </a>
 </li>
 
@@ -2325,6 +2325,12 @@ looper结婚（热度：166661）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%9D%A0%E6%A5%BC%E6%95%99%E5%B8%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
+姚安坠楼教师已脱离生命危险（热度：164848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%A2%AB%E8%B7%AF%E4%BA%BA%E7%9B%AF%E5%AE%B3%E7%BE%9E%E4%BA%86%23" target="weibo">
 王橹杰被路人盯害羞了（热度：163714）
 </a>
@@ -2739,6 +2745,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E8%A6%81%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
+高市早苗称要为长期战争做准备（热度：124026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%A6%82%E5%8E%95%E5%90%8E%E7%BB%AD%E8%B0%83%E6%9F%A5%23" target="weibo">
 拒绝退役军人如厕后续调查（热度：123889）
 </a>
@@ -2777,6 +2789,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%86%89%E5%94%B1%E4%BA%86%E5%B0%8F%E5%86%89%E7%9A%84%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%23" target="weibo">
 小冉唱了小冉的心愿便利贴（热度：122574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E7%A7%B0%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%23" target="weibo">
+妇联回应孕妇称买水果遭丈夫咒骂（热度：120595）
 </a>
 </li>
 
@@ -2967,12 +2985,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E7%A7%B0%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%23" target="weibo">
-妇联回应孕妇称买水果遭丈夫咒骂（热度：102723）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%88%90%E5%8A%9F%E7%A0%B4%E5%8F%91%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23" target="weibo">
 郑钦文成功破发莱巴金娜（热度：100952）
 </a>
@@ -3015,6 +3027,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E9%99%86%E6%AF%85%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%BF%83%E8%84%8F%E5%8A%9F%E8%83%BD%E6%98%BE%E7%A4%BA%E6%AD%A3%E5%B8%B8%23" target="weibo">
+为啥陆毅嘴唇发紫心脏功能显示正常（热度：94384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E7%BB%8F%E6%B5%8E%E5%B0%81%E9%94%81%23" target="weibo">
 美国对伊朗实施最大程度经济封锁（热度：93202）
 </a>
@@ -3023,12 +3041,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%BC%BA%E5%B8%AD3%E6%9C%88%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89%23" target="weibo">
 余承东缺席3月发布会原因曝光（热度：93044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E8%A6%81%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
-高市早苗称要为长期战争做准备（热度：92689）
 </a>
 </li>
 
@@ -3089,6 +3101,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%8570%25%E7%9F%B3%E6%B2%B9%E9%9D%A0%E8%BF%9B%E5%8F%A3%E5%8D%B4%E4%B8%8D%E6%85%8C%23" target="weibo">
 中国超70%石油靠进口却不慌（热度：82454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
+疑遭霸凌跳楼教师曾获评教学优质奖（热度：81720）
 </a>
 </li>
 
@@ -3177,12 +3195,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
-疑遭霸凌跳楼教师曾获评教学优质奖（热度：72017）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%A6%E6%95%A6%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%90%A8%E7%BB%B4%E5%88%9B%E9%80%A0%E4%BA%BA%E7%B1%BB%E5%A5%87%E8%BF%B9%23" target="weibo">
 伦敦马拉松萨维创造人类奇迹（热度：71325）
 </a>
@@ -3203,6 +3215,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23" target="weibo">
 国产开源大模型下载量破100亿次（热度：68919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%E5%9B%9B%E5%8D%81%E5%88%86%E9%92%9F%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%BA%8C%23" target="weibo">
+虞书欣直播四十分钟总榜第二（热度：68769）
 </a>
 </li>
 
@@ -3273,12 +3291,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E9%99%86%E6%AF%85%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%BF%83%E8%84%8F%E5%8A%9F%E8%83%BD%E6%98%BE%E7%A4%BA%E6%AD%A3%E5%B8%B8%23" target="weibo">
-为啥陆毅嘴唇发紫心脏功能显示正常（热度：63507）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E4%B8%80%E5%BC%A0%E5%98%B4%E6%88%91%E5%B0%B1%E7%9F%A5%E9%81%93%E5%BC%80%E9%BA%A6%E4%BA%86%23" target="weibo">
 张慧雯一张嘴我就知道开麦了（热度：63474）
 </a>
@@ -3305,6 +3317,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%BF%AB%E7%82%B9%E6%9D%A5%E6%88%91%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
 五一快点来我撑不住了（热度：61962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B5%9A%E4%BA%8638%E4%BA%BF%23" target="weibo">
+存储龙头一季度赚了38亿（热度：61235）
 </a>
 </li>
 
@@ -3345,8 +3363,8 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%9D%A0%E6%A5%BC%E6%95%99%E5%B8%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
-姚安坠楼教师已脱离生命危险（热度：55226）
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
+酒后吃这些药是玩命（热度：56031）
 </a>
 </li>
 
@@ -3435,20 +3453,8 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
-酒后吃这些药是玩命（热度：44977）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E6%8E%A8%E6%98%8F%E8%BF%B7%E7%97%85%E4%BA%BA%E9%93%B6%E8%A1%8C%E5%8F%96%E6%AC%BE%E9%81%AD%E6%8B%92%23" target="weibo">
 家属回应推昏迷病人银行取款遭拒（热度：44047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B5%9A%E4%BA%8638%E4%BA%BF%23" target="weibo">
-存储龙头一季度赚了38亿（热度：42789）
 </a>
 </li>
 
@@ -3557,12 +3563,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E8%A8%80%E4%B8%8D%E7%94%B1%E8%A1%B7%E5%BC%80%E5%8F%A3%E8%B7%AA%23" target="weibo">
 曾沛慈言不由衷开口跪（热度：31059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%E5%9B%9B%E5%8D%81%E5%88%86%E9%92%9F%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%BA%8C%23" target="weibo">
-虞书欣直播四十分钟总榜第二（热度：30932）
 </a>
 </li>
 

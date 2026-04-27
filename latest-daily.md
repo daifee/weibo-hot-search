@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 07:03:51
+本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 07:17:41
 </p>
 </blockquote>
 <p>
@@ -106,7 +106,7 @@ AI短剧 融脸（热度：327963）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%9612%E5%B9%B4%E9%93%B6%E8%A1%8C%E7%AA%81%E7%84%B6%E6%9D%A5%E5%82%AC%E5%80%BA%23" target="weibo">
-父亲去世12年银行突然来催债（热度：291640）
+父亲去世12年银行突然来催债（热度：322618）
 </a>
 </li>
 
@@ -129,6 +129,12 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%B8%A5%E9%87%8D%E7%BC%BA%E8%A7%89%E7%9A%847%E4%B8%AA%E8%BF%B9%E8%B1%A1%23" target="weibo">
+身体严重缺觉的7个迹象（热度：233857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%A6%96%E6%AC%A1%E5%A4%96%E6%99%AF%E8%B7%AF%E9%80%8F%23" target="weibo">
 十日终焉首次外景路透（热度：225116）
 </a>
@@ -137,12 +143,6 @@ AI短剧 融脸（热度：327963）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5%23" target="weibo">
 被AI骗去毒蛇窝徒步（热度：224766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%B8%A5%E9%87%8D%E7%BC%BA%E8%A7%89%E7%9A%847%E4%B8%AA%E8%BF%B9%E8%B1%A1%23" target="weibo">
-身体严重缺觉的7个迹象（热度：205601）
 </a>
 </li>
 
@@ -183,6 +183,12 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B0%B4%E6%9D%AF%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8A%95%E6%94%BE%E5%BC%82%E7%89%A9%E9%A5%AE%E5%90%8E%E6%8A%BD%E6%90%90%23" target="weibo">
+高中生水杯被同学投放异物饮后抽搐（热度：191387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A1%9E%E5%B0%94%E6%AF%94%23" target="weibo">
 吴宜泽vs塞尔比（热度：189018）
 </a>
@@ -195,14 +201,14 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%A8%E7%9B%B8%E7%BE%8E%E7%9A%84%E4%BA%BA%E9%80%82%E5%90%88%E4%B8%8A%E9%95%9C%23" target="weibo">
-骨相美的人适合上镜（热度：164562）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%9D%A0%E6%A5%BC%E6%95%99%E5%B8%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
+姚安坠楼教师已脱离生命危险（热度：164848）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B0%B4%E6%9D%AF%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8A%95%E6%94%BE%E5%BC%82%E7%89%A9%E9%A5%AE%E5%90%8E%E6%8A%BD%E6%90%90%23" target="weibo">
-高中生水杯被同学投放异物饮后抽搐（热度：151218）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%A8%E7%9B%B8%E7%BE%8E%E7%9A%84%E4%BA%BA%E9%80%82%E5%90%88%E4%B8%8A%E9%95%9C%23" target="weibo">
+骨相美的人适合上镜（热度：164562）
 </a>
 </li>
 
@@ -237,14 +243,38 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90%20%E4%BF%AE%E4%BB%99%E5%89%A7%23" target="weibo">
+佳偶天成 修仙剧（热度：126482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E8%A6%81%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
+高市早苗称要为长期战争做准备（热度：124026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%98%9A%E6%B8%85%E5%AD%90%E5%B7%B2%E7%BB%8F%E5%92%8C%E5%A5%BD%E4%BA%86%23" target="weibo">
 孙怡阚清子已经和好了（热度：122467）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E7%A7%B0%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%23" target="weibo">
+妇联回应孕妇称买水果遭丈夫咒骂（热度：120595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E9%AB%98%E5%91%98%E8%BE%9E%E5%8E%BB%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
 姚高员辞去杭州市市长职务（热度：119617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%23" target="weibo">
+美伊停火谈判（热度：117543）
 </a>
 </li>
 
@@ -257,12 +287,6 @@ AI短剧 融脸（热度：327963）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6%23" target="weibo">
 官方通报中学教师坠楼事件（热度：108153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E5%81%B6%E5%A4%A9%E6%88%90%20%E4%BF%AE%E4%BB%99%E5%89%A7%23" target="weibo">
-佳偶天成 修仙剧（热度：107880）
 </a>
 </li>
 
@@ -297,18 +321,6 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E7%A7%B0%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%23" target="weibo">
-妇联回应孕妇称买水果遭丈夫咒骂（热度：102723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%23" target="weibo">
-美伊停火谈判（热度：102036）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E9%A5%B0%E6%9C%80%E4%BD%8E%E6%89%936%E6%8A%98%23" target="weibo">
 有金店一口价金饰最低打6折（热度：94804）
 </a>
@@ -321,14 +333,20 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E8%A6%81%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
-高市早苗称要为长期战争做准备（热度：92689）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E9%99%86%E6%AF%85%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%BF%83%E8%84%8F%E5%8A%9F%E8%83%BD%E6%98%BE%E7%A4%BA%E6%AD%A3%E5%B8%B8%23" target="weibo">
+为啥陆毅嘴唇发紫心脏功能显示正常（热度：94384）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%89%E5%87%BA%E4%BA%86%E5%AE%87%E7%BC%96%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%BB%E4%BA%BA%23" target="weibo">
 王俊凯选出了宇编和世界的主人（热度：82962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
+疑遭霸凌跳楼教师曾获评教学优质奖（热度：81720）
 </a>
 </li>
 
@@ -357,8 +375,8 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
-疑遭霸凌跳楼教师曾获评教学优质奖（热度：72017）
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%E5%9B%9B%E5%8D%81%E5%88%86%E9%92%9F%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%BA%8C%23" target="weibo">
+虞书欣直播四十分钟总榜第二（热度：68769）
 </a>
 </li>
 
@@ -381,8 +399,8 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E9%99%86%E6%AF%85%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%BF%83%E8%84%8F%E5%8A%9F%E8%83%BD%E6%98%BE%E7%A4%BA%E6%AD%A3%E5%B8%B8%23" target="weibo">
-为啥陆毅嘴唇发紫心脏功能显示正常（热度：63507）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B5%9A%E4%BA%8638%E4%BA%BF%23" target="weibo">
+存储龙头一季度赚了38亿（热度：61235）
 </a>
 </li>
 
@@ -393,8 +411,8 @@ AI短剧 融脸（热度：327963）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%9D%A0%E6%A5%BC%E6%95%99%E5%B8%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E7%94%9F%E5%91%BD%E5%8D%B1%E9%99%A9%23" target="weibo">
-姚安坠楼教师已脱离生命危险（热度：55226）
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
+酒后吃这些药是玩命（热度：56031）
 </a>
 </li>
 
@@ -423,32 +441,20 @@ looper结婚（热度：50690）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
-酒后吃这些药是玩命（热度：44977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B5%9A%E4%BA%8638%E4%BA%BF%23" target="weibo">
-存储龙头一季度赚了38亿（热度：42789）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%96%91%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7%23" target="weibo">
 多家客服回应大头瓶盖疑设计缺陷（热度：39827）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%9B%A2%E6%9B%B2%E5%B0%8F%E8%80%83%23" target="weibo">
-浪姐三公团曲小考（热度：39464）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23" target="weibo">
+国产开源大模型下载量破100亿次（热度：39733）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23" target="weibo">
-国产开源大模型下载量破100亿次（热度：35853）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%9B%A2%E6%9B%B2%E5%B0%8F%E8%80%83%23" target="weibo">
+浪姐三公团曲小考（热度：39464）
 </a>
 </li>
 
@@ -461,12 +467,6 @@ looper结婚（热度：50690）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
 狼队晋级挑杯十六强（热度：31908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%E5%9B%9B%E5%8D%81%E5%88%86%E9%92%9F%E6%80%BB%E6%A6%9C%E7%AC%AC%E4%BA%8C%23" target="weibo">
-虞书欣直播四十分钟总榜第二（热度：30932）
 </a>
 </li>
 

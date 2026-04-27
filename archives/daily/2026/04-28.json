@@ -1,6 +1,6 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777331031246,
+  "endTime": 1777331861030,
   "band_list": [
     {
       "raw_hot": 3654817,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 713008,
-      "num": 713008,
+      "num": 780476,
       "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
       "onboard_time": 1777309218,
       "rank": 19,
@@ -123,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291640,
-      "num": 521047,
+      "raw_hot": 322618,
+      "num": 563676,
       "word": "父亲去世12年银行突然来催债",
       "onboard_time": 1777302861,
       "rank": 17,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233857,
+      "num": 210488,
+      "word": "身体严重缺觉的7个迹象",
+      "onboard_time": 1777289600,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225116,
       "num": 225116,
       "word": "十日终焉首次外景路透",
@@ -169,14 +177,6 @@
       "onboard_time": 1777283781,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205601,
-      "num": 210488,
-      "word": "身体严重缺觉的7个迹象",
-      "onboard_time": 1777289600,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202251,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191387,
+      "num": 211740,
+      "word": "高中生水杯被同学投放异物饮后抽搐",
+      "onboard_time": 1777297402,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189018,
       "num": 568558,
       "word": "吴宜泽vs塞尔比",
@@ -243,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164848,
+      "num": 118533,
+      "word": "姚安坠楼教师已脱离生命危险",
+      "onboard_time": 1777330458,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164562,
       "num": 212350,
       "word": "骨相美的人适合上镜",
       "onboard_time": 1777284619,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151218,
-      "num": 211740,
-      "word": "高中生水杯被同学投放异物饮后抽搐",
-      "onboard_time": 1777297402,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144216,
@@ -299,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126482,
+      "num": 204566,
+      "word": "佳偶天成 修仙剧",
+      "onboard_time": 1777293443,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124026,
+      "num": 206699,
+      "word": "高市早苗称要为长期战争做准备",
+      "onboard_time": 1777301721,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122467,
       "num": 122467,
       "word": "孙怡阚清子已经和好了",
@@ -307,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120595,
+      "num": 202294,
+      "word": "妇联回应孕妇称买水果遭丈夫咒骂",
+      "onboard_time": 1777306100,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119617,
       "num": 208603,
       "word": "姚高员辞去杭州市市长职务",
       "onboard_time": 1777307597,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117543,
+      "num": 202900,
+      "word": "美伊停火谈判",
+      "onboard_time": 1777301423,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110974,
@@ -329,14 +369,6 @@
       "onboard_time": 1777299024,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107880,
-      "num": 204566,
-      "word": "佳偶天成 修仙剧",
-      "onboard_time": 1777293443,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 106808,
@@ -379,22 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102723,
-      "num": 202294,
-      "word": "妇联回应孕妇称买水果遭丈夫咒骂",
-      "onboard_time": 1777306100,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 102036,
-      "num": 202900,
-      "word": "美伊停火谈判",
-      "onboard_time": 1777301423,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94804,
       "num": 206213,
       "word": "有金店一口价金饰最低打6折",
@@ -411,12 +427,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92689,
-      "num": 206699,
-      "word": "高市早苗称要为长期战争做准备",
-      "onboard_time": 1777301721,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 94384,
+      "num": 117465,
+      "word": "为啥陆毅嘴唇发紫心脏功能显示正常",
+      "onboard_time": 1777330818,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 82962,
@@ -425,6 +441,14 @@
       "onboard_time": 1777298541,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81720,
+      "num": 117295,
+      "word": "疑遭霸凌跳楼教师曾获评教学优质奖",
+      "onboard_time": 1777314375,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76165,
@@ -459,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72017,
-      "num": 81427,
-      "word": "疑遭霸凌跳楼教师曾获评教学优质奖",
-      "onboard_time": 1777314375,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 68769,
+      "num": 117320,
+      "word": "虞书欣直播四十分钟总榜第二",
+      "onboard_time": 1777330818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 68254,
@@ -491,12 +515,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63507,
-      "num": 81598,
-      "word": "为啥陆毅嘴唇发紫心脏功能显示正常",
-      "onboard_time": 1777330818,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 61235,
+      "num": 117279,
+      "word": "存储龙头一季度赚了38亿",
+      "onboard_time": 1777326073,
+      "rank": 47,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 58845,
@@ -507,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55226,
-      "num": 81543,
-      "word": "姚安坠楼教师已脱离生命危险",
-      "onboard_time": 1777330458,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 56031,
+      "num": 117238,
+      "word": "酒后吃这些药是玩命",
+      "onboard_time": 1777314855,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 50854,
@@ -547,28 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44977,
-      "num": 81392,
-      "word": "酒后吃这些药是玩命",
-      "onboard_time": 1777314855,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 42789,
-      "num": 81351,
-      "word": "存储龙头一季度赚了38亿",
-      "onboard_time": 1777326073,
-      "rank": 47,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 39827,
-      "num": 81063,
+      "num": 117022,
       "word": "多家客服回应大头瓶盖疑设计缺陷",
       "onboard_time": 1777313536,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39733,
+      "num": 459885,
+      "word": "国产开源大模型下载量破100亿次",
+      "onboard_time": 1777293203,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39464,
@@ -577,14 +593,6 @@
       "onboard_time": 1777311795,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35853,
-      "num": 459885,
-      "word": "国产开源大模型下载量破100亿次",
-      "onboard_time": 1777293203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33996,
@@ -601,14 +609,6 @@
       "onboard_time": 1777314914,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 30932,
-      "num": 81207,
-      "word": "虞书欣直播四十分钟总榜第二",
-      "onboard_time": 1777330818,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 18843,
