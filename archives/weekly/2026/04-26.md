@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 04:40:28
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 06:01:11
 </p>
 </blockquote>
 <p>
@@ -2793,6 +2793,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E9%AB%98%E5%91%98%E8%BE%9E%E5%8E%BB%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
+姚高员辞去杭州市市长职务（热度：119617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E8%81%8C%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E4%B8%80%E5%88%80%E6%8D%85%E8%BF%9BICU%23" target="weibo">
 西安一职校学生被同学一刀捅进ICU（热度：118964）
 </a>
@@ -2957,12 +2963,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BB%93%E5%B0%BE%E5%BD%A9%E8%9B%8B%E5%94%B1%E9%81%97%E5%A4%B1%E7%9A%84%E5%BF%83%E8%B7%B3%23" target="weibo">
 宋亚轩结尾彩蛋唱遗失的心跳（热度：102988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E9%AB%98%E5%91%98%E8%BE%9E%E5%8E%BB%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
-姚高员辞去杭州市市长职务（热度：102297）
 </a>
 </li>
 
@@ -3623,6 +3623,12 @@ LGDNBW晋级挑杯十六强（热度：29788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%B8%A9%E7%83%AB%E4%BC%A4%23" target="weibo">
 低温烫伤（热度：18843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%B5%9A%E4%BA%8638%E4%BA%BF%23" target="weibo">
+存储龙头一季度赚了38亿（热度：17583）
 </a>
 </li>
 
