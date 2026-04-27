@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 11:41:02
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 12:07:56
 </p>
 </blockquote>
 <p>
@@ -921,6 +921,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%20%E6%8A%BD%E7%83%9F%23" target="weibo">
+迪士尼 抽烟（热度：1661240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82216%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 泰国泼水节216人死亡（热度：1657267）
 </a>
@@ -1457,6 +1463,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E8%AF%AF%E4%B9%B0%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E5%B9%B3%E5%8F%B0%E6%8B%92%E9%80%80%23" target="weibo">
 瘫痪女孩误买邓紫棋演唱会票平台拒退（热度：1352631）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%98%93%E6%A2%A6%E7%8E%B2%E6%95%B4%E5%AE%B9%23" target="weibo">
+曝易梦玲整容（热度：1350658）
 </a>
 </li>
 
@@ -2321,6 +2333,12 @@ AI艺人库 自掘坟墓（热度：1054358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9B%A2805%E7%A5%A8%23" target="weibo">
 孙怡团805票（热度：1046474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%81%B7%E8%B7%91%23" target="weibo">
+恋与深空 偷跑（热度：1043942）
 </a>
 </li>
 
@@ -3477,6 +3495,12 @@ MCN回应女孩挪用1700万打赏主播（热度：831288）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%A5%B3%E9%98%9F%E6%8B%8D%E6%91%84%E5%87%BA%E5%BE%81%E5%90%88%E5%BD%B1%23" target="weibo">
+国乒男女队拍摄出征合影（热度：823177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E4%BA%BA%E8%8A%B130%E4%B8%87%E4%B9%B0%E6%9C%88%E8%96%AA2500%E7%9A%84%E9%AB%98%E9%93%81%E5%B7%A5%E4%BD%9C%23" target="weibo">
 12人花30万买月薪2500的高铁工作（热度：822267）
 </a>
@@ -4307,6 +4331,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周做什么都顺的星座（热度：725392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BAPV%E5%91%A2%23" target="weibo">
+恋与深空PV呢（热度：725223）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E5%8E%A6%E5%A4%A7%E4%B8%AD%E6%96%87%E7%B3%BB%E6%AF%95%E4%B8%9A%E7%9A%84%23" target="weibo">
 张雪的妈妈是厦大中文系毕业的（热度：582989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E6%AD%A4%E8%BA%AB%E5%88%86%E6%98%8E%E4%BA%86%23" target="weibo">
-鞠婧祎 此身分明了（热度：582370）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%8C%E9%9D%A2%E9%87%8C%E5%90%83%E5%87%BA%E4%B8%80%E4%B8%AA%E9%A9%AC%E5%98%89%E7%A5%BA%23" target="weibo">
-拌面里吃出一个马嘉祺（热度：581759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%F0%AC%B1%96%E4%B8%8D%E5%8A%9E%E5%A9%9A%E7%A4%BC%E4%B8%8D%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
-李纯马𬱖不办婚礼不拍婚纱照（热度：581646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%9C%BC%E7%A5%9E%E5%A5%BD%E7%96%B2%E6%83%AB%23" target="weibo">
-唐嫣眼神好疲惫（热度：581051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%9D%E8%80%85%E6%89%98%E6%A2%A6%E5%AE%B6%E5%B1%9E%E6%8A%95%E8%AF%89%E5%85%A5%E6%AE%93%E5%B8%88%E6%9C%AA%E8%84%B1%E7%BA%B8%E5%B0%BF%E8%A3%A4%23" target="weibo">
-逝者托梦家属投诉入殓师未脱纸尿裤（热度：581009）
 </a>
 </li>
 

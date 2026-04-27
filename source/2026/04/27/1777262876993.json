@@ -1,0 +1,410 @@
+{
+  "runTime": 1777262876993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1045875,
+        "num": 1167340,
+        "word": "东方甄选拒绝第二个董宇辉",
+        "onboard_time": 1777255639,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 823177,
+        "num": 867948,
+        "word": "国乒男女队拍摄出征合影",
+        "onboard_time": 1777261820,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56477,
+        "num": 828043,
+        "word": "五一叠加春假加出文旅消费新活力",
+        "onboard_time": 1777257679,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1043942,
+        "num": 825026,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1777261880,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 821180,
+        "num": 821180,
+        "word": "追觅俞浩怒批小红书",
+        "onboard_time": 1777257140,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 808201,
+        "num": 808201,
+        "word": "讨好型人格请反复阅读",
+        "onboard_time": 1777257740,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 725223,
+        "num": 725223,
+        "word": "恋与深空PV呢",
+        "onboard_time": 1777259659,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437104,
+        "num": 437104,
+        "word": "曾沛慈耳返",
+        "onboard_time": 1777253481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426589,
+        "num": 426589,
+        "word": "湖人vs火箭",
+        "onboard_time": 1777254859,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391998,
+        "num": 391998,
+        "word": "连续两周上四休三",
+        "onboard_time": 1777212861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1661240,
+        "num": 382514,
+        "word": "迪士尼 抽烟",
+        "onboard_time": 1777261880,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1350658,
+        "num": 363726,
+        "word": "曝易梦玲整容",
+        "onboard_time": 1777261040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049368,
+        "num": 350148,
+        "word": "陆毅因嘴巴紫去医院做了大检查",
+        "onboard_time": 1777249760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419259,
+        "num": 334542,
+        "word": "医生回应男孩睾丸扭转羞于就医坏死",
+        "onboard_time": 1777249640,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877675,
+        "num": 313345,
+        "word": "住建局回应1.5亿补偿款仅付500万",
+        "onboard_time": 1777257259,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834723,
+        "num": 301895,
+        "word": "安静公主掉美颜",
+        "onboard_time": 1777251981,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 508819,
+        "num": 288847,
+        "word": "谢楠曾播报萧蔷退赛打车跑路",
+        "onboard_time": 1777258340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280263,
+        "num": 280263,
+        "word": "男子骑电鸡被撞骨折仍全责",
+        "onboard_time": 1777251500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259580,
+        "num": 279525,
+        "word": "社保基金最新调仓曝光",
+        "onboard_time": 1777259959,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 388257,
+        "num": 278010,
+        "word": "歌手2026",
+        "onboard_time": 1777209140,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505065,
+        "num": 276952,
+        "word": "身份证照片千万不要直接发",
+        "onboard_time": 1777253481,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430767,
+        "num": 275002,
+        "word": "原来百家讲坛是真的在教东西",
+        "onboard_time": 1777249401,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343450,
+        "num": 274754,
+        "word": "工厂被强拆1.5亿补偿款仅获500万",
+        "onboard_time": 1777256119,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339599,
+        "num": 272526,
+        "word": "歌手要变年综吗",
+        "onboard_time": 1777249760,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331814,
+        "num": 272037,
+        "word": "刘耀文裤子",
+        "onboard_time": 1777255879,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112638,
+        "num": 269923,
+        "word": "身份证照片最接近别人肉眼看到的自己",
+        "onboard_time": 1777205060,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207859,
+        "num": 268307,
+        "word": "柳智敏蛇塑回归",
+        "onboard_time": 1777250660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96279,
+        "num": 267411,
+        "word": "嘴唇发紫不代表有健康问题",
+        "onboard_time": 1777258340,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214677,
+        "num": 266495,
+        "word": "美国已收到伊朗谈判新方案",
+        "onboard_time": 1777261339,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86307,
+        "num": 264971,
+        "word": "某免费观影APP疯狂盗取正版资源牟利",
+        "onboard_time": 1777259240,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106142,
+        "num": 263661,
+        "word": "金靖也走不出小说完结痛",
+        "onboard_time": 1777254740,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302254,
+        "num": 262312,
+        "word": "唐艺昕情商",
+        "onboard_time": 1777252399,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262997,
+        "num": 261049,
+        "word": "大批用户申请退出东方甄选会员",
+        "onboard_time": 1777261639,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268233,
+        "num": 259630,
+        "word": "甘望星为了当演员拔掉5颗牙",
+        "onboard_time": 1777253360,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252861,
+        "num": 258261,
+        "word": "张婧仪李现CP感",
+        "onboard_time": 1777259600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223259,
+        "num": 257529,
+        "word": "丁俊晖回应被赵心童击败",
+        "onboard_time": 1777252461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243083,
+        "num": 255843,
+        "word": "孙怡眼前一黑又一黑吧",
+        "onboard_time": 1777261580,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200154,
+        "num": 253709,
+        "word": "艾顿被驱逐",
+        "onboard_time": 1777262719,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198917,
+        "num": 252786,
+        "word": "颜宁回应混不下去回国了言论",
+        "onboard_time": 1777259118,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198475,
+        "num": 252153,
+        "word": "被曝厨师往锅里吐口水餐馆已停业",
+        "onboard_time": 1777257380,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 42844,
+        "num": 250280,
+        "word": "老外踮脚看中国智造",
+        "onboard_time": 1777259240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192867,
+        "num": 248771,
+        "word": "国乒今日出征伦敦",
+        "onboard_time": 1777261820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49270,
+        "num": 248244,
+        "word": "伊朗外长再访巴递交停战条件",
+        "onboard_time": 1777261339,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185941,
+        "num": 246665,
+        "word": "中国海军超强阵势围观美日菲军演",
+        "onboard_time": 1777251261,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 172733,
+        "num": 244278,
+        "word": "金莎孙丞潇婚后线下好甜",
+        "onboard_time": 1777258459,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99518,
+        "num": 243735,
+        "word": "泰星在粉丝群发了丞磊",
+        "onboard_time": 1777262661,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161238,
+        "num": 242695,
+        "word": "赵心童晒与丁俊晖旧照",
+        "onboard_time": 1777251261,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77834,
+        "num": 241433,
+        "word": "张颂文没看过狂飙",
+        "onboard_time": 1777216342,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77331,
+        "num": 239221,
+        "word": "尚界Z7携手肖战登陆北京车展",
+        "onboard_time": 1777246939,
+        "rank": 48,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 145267,
+        "num": 238424,
+        "word": "宝妈18万坐月子违约被要求赔2万",
+        "onboard_time": 1777246217,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终强调真抓实干狠抓落实#"
+    }
+  }
+}
