@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777309495058,
+  "endTime": 1777313371985,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -12025,6 +12025,14 @@
       "onboard_time": 1776565040,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 438292,
+      "num": 438292,
+      "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
+      "onboard_time": 1777309218,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438268,
@@ -54675,14 +54683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73374,
-      "num": 211057,
-      "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
-      "onboard_time": 1777309218,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73360,
       "num": 73360,
       "word": "Xiaohu燃尽了",
@@ -63801,6 +63801,14 @@
       "onboard_time": 1775651722,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 39464,
+      "num": 120752,
+      "word": "浪姐三公团曲小考",
+      "onboard_time": 1777311795,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 39427,
