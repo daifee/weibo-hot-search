@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 02:49:51
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 04:15:00
 </p>
 </blockquote>
 <p>
@@ -3617,6 +3617,12 @@ LGDNBW晋级挑杯十六强（热度：29788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E6%9C%9D%E6%B3%B3%E6%B1%A0%E6%8A%95%E6%8E%B7%E7%81%AB%E9%94%85%E5%BA%95%E6%96%99%23" target="weibo">
 男子凌晨朝泳池投掷火锅底料（热度：20481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%B8%A9%E7%83%AB%E4%BC%A4%23" target="weibo">
+低温烫伤（热度：18843）
 </a>
 </li>
 

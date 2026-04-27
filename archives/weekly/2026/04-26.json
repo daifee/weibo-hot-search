@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777315791546,
+  "endTime": 1777320900191,
   "band_list": [
     {
       "raw_hot": 11467206,
@@ -4809,6 +4809,14 @@
       "onboard_time": 1777290680,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 18843,
+      "num": 39624,
+      "word": "低温烫伤",
+      "onboard_time": 1777314914,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15699,

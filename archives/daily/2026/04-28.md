@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 02:49:51
+本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 04:15:00
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@ looper结婚（热度：50690）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B900%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%81%9A%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E4%BA%94%E5%BA%A7%23" target="weibo">
 领克900为什么要做这么大的五座（热度：23560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%B8%A9%E7%83%AB%E4%BC%A4%23" target="weibo">
+低温烫伤（热度：18843）
 </a>
 </li>
 
