@@ -1,6 +1,6 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777328127308,
+  "endTime": 1777331031246,
   "band_list": [
     {
       "raw_hot": 3654817,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713008,
+      "num": 713008,
+      "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
+      "onboard_time": 1777309218,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686458,
       "num": 221196,
       "word": "张馨予也被蒸汽眼罩烫伤过",
@@ -49,14 +57,6 @@
       "onboard_time": 1777302921,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 438292,
-      "num": 438292,
-      "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
-      "onboard_time": 1777309218,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424693,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 291640,
+      "num": 521047,
+      "word": "父亲去世12年银行突然来催债",
+      "onboard_time": 1777302861,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284016,
       "num": 284016,
       "word": "歌手2026 张碧晨",
@@ -163,12 +171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218564,
-      "num": 265622,
-      "word": "父亲去世12年银行突然来催债",
-      "onboard_time": 1777302861,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 205601,
+      "num": 210488,
+      "word": "身体严重缺觉的7个迹象",
+      "onboard_time": 1777289600,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202251,
@@ -233,14 +241,6 @@
       "onboard_time": 1777296502,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180904,
-      "num": 210488,
-      "word": "身体严重缺觉的7个迹象",
-      "onboard_time": 1777289600,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 164562,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107880,
+      "num": 204566,
+      "word": "佳偶天成 修仙剧",
+      "onboard_time": 1777293443,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106808,
       "num": 209103,
       "word": "6岁女童确诊癌症不到2年去世",
@@ -371,6 +379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102723,
+      "num": 202294,
+      "word": "妇联回应孕妇称买水果遭丈夫咒骂",
+      "onboard_time": 1777306100,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 102036,
+      "num": 202900,
+      "word": "美伊停火谈判",
+      "onboard_time": 1777301423,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94804,
       "num": 206213,
       "word": "有金店一口价金饰最低打6折",
@@ -401,14 +425,6 @@
       "onboard_time": 1777298541,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81374,
-      "num": 204566,
-      "word": "佳偶天成 修仙剧",
-      "onboard_time": 1777293443,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 76165,
@@ -443,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72017,
+      "num": 81427,
+      "word": "疑遭霸凌跳楼教师曾获评教学优质奖",
+      "onboard_time": 1777314375,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68254,
       "num": 204254,
       "word": "辅助驾驶途中司机捡瓶子致1死1伤",
@@ -467,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63507,
+      "num": 81598,
+      "word": "为啥陆毅嘴唇发紫心脏功能显示正常",
+      "onboard_time": 1777330818,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58845,
       "num": 203145,
       "word": "鸿星尔克董事长回应提早下班火出圈",
@@ -475,20 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53751,
-      "num": 202900,
-      "word": "美伊停火谈判",
-      "onboard_time": 1777301423,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 51818,
-      "num": 202294,
-      "word": "妇联回应孕妇称买水果遭丈夫咒骂",
-      "onboard_time": 1777306100,
-      "rank": 45,
-      "category": "舆论监督"
+      "raw_hot": 55226,
+      "num": 81543,
+      "word": "姚安坠楼教师已脱离生命危险",
+      "onboard_time": 1777330458,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50854,
@@ -523,16 +547,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40546,
-      "num": 78429,
-      "word": "疑遭霸凌跳楼教师曾获评教学优质奖",
-      "onboard_time": 1777314375,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 44977,
+      "num": 81392,
+      "word": "酒后吃这些药是玩命",
+      "onboard_time": 1777314855,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 42789,
+      "num": 81351,
+      "word": "存储龙头一季度赚了38亿",
+      "onboard_time": 1777326073,
+      "rank": 47,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 39827,
-      "num": 79022,
+      "num": 81063,
       "word": "多家客服回应大头瓶盖疑设计缺陷",
       "onboard_time": 1777313536,
       "rank": 30,
@@ -555,12 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35009,
-      "num": 78202,
-      "word": "酒后吃这些药是玩命",
-      "onboard_time": 1777314855,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 33996,
+      "num": 131363,
+      "word": "领克900为什么要做这么大的五座",
+      "onboard_time": 1777295963,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 31908,
@@ -571,20 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23773,
-      "num": 28228,
-      "word": "存储龙头一季度赚了38亿",
-      "onboard_time": 1777326073,
-      "rank": 47,
-      "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 23560,
-      "num": 131363,
-      "word": "领克900为什么要做这么大的五座",
-      "onboard_time": 1777295963,
-      "rank": 9,
-      "category": "汽车"
+      "raw_hot": 30932,
+      "num": 81207,
+      "word": "虞书欣直播四十分钟总榜第二",
+      "onboard_time": 1777330818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 18843,
@@ -601,6 +625,14 @@
       "onboard_time": 1777287860,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 2537,
+      "num": 81229,
+      "word": "恩比德满血回归",
+      "onboard_time": 1777330458,
+      "rank": 40,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
