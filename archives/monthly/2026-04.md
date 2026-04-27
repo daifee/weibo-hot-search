@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 20:08:03
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 22:11:16
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%23" target="weibo">
 爱奇艺（热度：12032188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%84%B8%E8%A2%AB%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9%E7%83%AB%E4%BC%A4%E4%BA%86%23" target="weibo">
+杨幂脸被蒸汽眼罩烫伤了（热度：11214311）
 </a>
 </li>
 
@@ -257,12 +263,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84%23" target="weibo">
 这些图片居然都是AI的（热度：3170901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%84%B8%E8%A2%AB%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9%E7%83%AB%E4%BC%A4%E4%BA%86%23" target="weibo">
-杨幂脸被蒸汽眼罩烫伤了（热度：3167384）
 </a>
 </li>
 
@@ -3273,6 +3273,12 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E4%B8%AA%E8%9B%8B%E8%8A%B1%E5%B1%85%E7%84%B6%E8%A6%816%E5%8F%AA%E6%89%8B%23" target="weibo">
+炸个蛋花居然要6只手（热度：874824）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E5%85%8D%E8%B4%B9%E5%92%96%E5%95%A1%23" target="weibo">
 星巴克免费咖啡（热度：874767）
 </a>
@@ -3657,6 +3663,12 @@ MCN回应女孩挪用1700万打赏主播（热度：831288）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E6%9B%9D%E5%85%89%23" target="weibo">
+20周年版iPhone曝光（热度：816884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%8F%AF%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%9A%8418%E4%B8%87%E6%8D%90%E8%B5%A0%23" target="weibo">
 B太可撤销对大山女孩的18万捐赠（热度：816585）
 </a>
@@ -4013,6 +4025,12 @@ en王翊恩 结婚但没同居（热度：795143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E5%89%8D%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
 女子脚踹保安前监控视频曝光（热度：778327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD%23" target="weibo">
+虞书欣直播（热度：775848）
 </a>
 </li>
 
@@ -5229,6 +5247,12 @@ iPhone18ProMax金属机模（热度：656409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%20%E5%BC%A0%E7%A2%A7%E6%99%A8%23" target="weibo">
+歌手2026 张碧晨（热度：650422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E5%AF%B9%E7%94%B0%E6%9B%A6%E8%96%87%E7%9A%84%E8%AF%84%E4%BB%B7%23" target="weibo">
 业内对田曦薇的评价（热度：649781）
 </a>
@@ -5919,6 +5943,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8B%AC%E5%B1%85%23" target="weibo">
+真正的独居（热度：596194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%89%AA%E8%95%BE%E4%B8%9D%23" target="weibo">
 王濛剪蕾丝（热度：596057）
 </a>
@@ -5981,36 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E6%B7%A1%E8%88%9E%E5%8F%B0%20%E5%AE%8C%E5%85%A8%E5%A5%B3%E5%9B%A2%23" target="weibo">
 淡淡舞台 完全女团（热度：592407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%9D%E5%89%91%20%E8%B4%B9%E5%A4%A7%E5%8E%A8%23" target="weibo">
-朴宝剑 费大厨（热度：592381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E5%92%8B%E8%87%AA%E5%B7%B1%E7%8E%A9%E4%B8%8A%E4%BA%86%23" target="weibo">
-范玮琪咋自己玩上了（热度：592142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%AF%8D%E6%96%A9%E6%8A%8A%E5%BF%AE%E5%BF%8C%E5%8A%A0%E4%B8%8A%E4%BA%86%23" target="weibo">
-百词斩把忮忌加上了（热度：592067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B1%E5%B0%8F%E4%BE%BF%E8%B8%B9%E4%BA%BA%E8%87%B4%E8%87%AA%E5%B7%B1%E9%AA%A8%E6%8A%98%23" target="weibo">
-男子乱小便踹人致自己骨折（热度：591838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%A8%E6%A1%90%20%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
-李雨桐 薛之谦（热度：591829）
 </a>
 </li>
 
@@ -6491,6 +6491,12 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E5%BC%BA%E8%B0%83%E7%9C%9F%E6%8A%93%E5%AE%9E%E5%B9%B2%E7%8B%A0%E6%8A%93%E8%90%BD%E5%AE%9E%23%23" target="weibo">
 #总书记始终强调真抓实干狠抓落实#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%AD%94%E5%A5%BD%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E4%B9%A6%E5%86%99%E6%97%B6%E4%BB%A3%E7%AD%94%E5%8D%B7%23%23" target="weibo">
+#答好窑洞之问书写时代答卷#
 </a>
 </li>
 
