@@ -1,0 +1,410 @@
+{
+  "runTime": 1777274073823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 716684,
+        "num": 1114669,
+        "word": "马龙送国乒出征",
+        "onboard_time": 1777266681,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695682,
+        "num": 805567,
+        "word": "女子回应买200元水果被指责后引产",
+        "onboard_time": 1777272380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39630,
+        "num": 773574,
+        "word": "五一叠加春假加出文旅消费新活力",
+        "onboard_time": 1777257679,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 743628,
+        "num": 743628,
+        "word": "买纸巾得多个心眼",
+        "onboard_time": 1777270040,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511640,
+        "num": 511640,
+        "word": "醋酸美甲",
+        "onboard_time": 1777264582,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 480494,
+        "num": 480494,
+        "word": "主播离职3天前俞敏洪说他们在休假",
+        "onboard_time": 1777266981,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447859,
+        "num": 447859,
+        "word": "卢昱晓方确认演恰逢雨连天",
+        "onboard_time": 1777269261,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406492,
+        "num": 406492,
+        "word": "王者铠联动新皮肤敖光",
+        "onboard_time": 1777271960,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371548,
+        "num": 371548,
+        "word": "单依纯郑州上座率",
+        "onboard_time": 1777273341,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355761,
+        "num": 355761,
+        "word": "南方人为什么执着于通风",
+        "onboard_time": 1777265299,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3716853,
+        "num": 355698,
+        "word": "平台明确不要的艺人",
+        "onboard_time": 1777264941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3237649,
+        "num": 355191,
+        "word": "黄杨钿甜首次回应耳环风波",
+        "onboard_time": 1777268361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581283,
+        "num": 354752,
+        "word": "被我爸的道歉方式震惊了",
+        "onboard_time": 1777269442,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1090654,
+        "num": 353805,
+        "word": "曝易梦玲整容",
+        "onboard_time": 1777261040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040751,
+        "num": 353633,
+        "word": "曝演员片酬已经跌到低点",
+        "onboard_time": 1777265841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353297,
+        "num": 353297,
+        "word": "孙颖莎穿fighting出征",
+        "onboard_time": 1777272021,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1485563,
+        "num": 347495,
+        "word": "黄杨钿甜弟弟因耳环风波被欺负",
+        "onboard_time": 1777272860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333411,
+        "num": 333411,
+        "word": "火箭湖人赛后一片混乱",
+        "onboard_time": 1777268300,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662054,
+        "num": 307202,
+        "word": "上海迪士尼男子被劝烟殴打劝烟者",
+        "onboard_time": 1777263741,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 268100,
+        "num": 268100,
+        "word": "轰炸中伊朗国宝来到中国",
+        "onboard_time": 1777265360,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 632189,
+        "num": 263043,
+        "word": "林志玲抱4岁儿子吃早餐",
+        "onboard_time": 1777262901,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592645,
+        "num": 258534,
+        "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+        "onboard_time": 1777272200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240439,
+        "num": 240439,
+        "word": "王者芈月联动新皮肤敖闰",
+        "onboard_time": 1777265239,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432957,
+        "num": 239437,
+        "word": "叶璇与继母遭亡父保姆起诉",
+        "onboard_time": 1777272921,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424440,
+        "num": 235602,
+        "word": "丁禹兮今年没那么火爆了",
+        "onboard_time": 1777271118,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217177,
+        "num": 217177,
+        "word": "东方甄选拒绝第二个董宇辉",
+        "onboard_time": 1777255639,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 557757,
+        "num": 214799,
+        "word": "上海迪士尼回应游客劝阻吸烟被打",
+        "onboard_time": 1777269559,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381260,
+        "num": 209121,
+        "word": "曝90生不止四部剧没过会",
+        "onboard_time": 1777266442,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242841,
+        "num": 205904,
+        "word": "马思纯拍过尺度最大的亲密戏",
+        "onboard_time": 1777269681,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47213,
+        "num": 203842,
+        "word": "男子嫌盗版电影网站广告多就手搓了一个",
+        "onboard_time": 1777273640,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355739,
+        "num": 198173,
+        "word": "陆毅因嘴巴紫去医院做了大检查",
+        "onboard_time": 1777249760,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285012,
+        "num": 195037,
+        "word": "董卿周涛 蕾丝边西装",
+        "onboard_time": 1777272440,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190764,
+        "num": 190764,
+        "word": "石宇奇退赛",
+        "onboard_time": 1777273280,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277909,
+        "num": 185341,
+        "word": "马伯骞弟弟婚礼",
+        "onboard_time": 1777264040,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171966,
+        "num": 171966,
+        "word": "国乒男女队拍摄出征合影",
+        "onboard_time": 1777261820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206406,
+        "num": 170105,
+        "word": "恰逢雨连天",
+        "onboard_time": 1777270341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58761,
+        "num": 154239,
+        "word": "钦州突降暴雨大量车辆被泡",
+        "onboard_time": 1777272680,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153974,
+        "num": 153974,
+        "word": "小米玄戒O1芯片已出货超100万颗",
+        "onboard_time": 1777266020,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45709,
+        "num": 140979,
+        "word": "与辉同行近7天销售额远超东方甄选",
+        "onboard_time": 1777274000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51645,
+        "num": 137093,
+        "word": "茶卡盐湖回应心形雕塑争议",
+        "onboard_time": 1777273158,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181004,
+        "num": 136624,
+        "word": "只有美术生才能懂得这个含金量",
+        "onboard_time": 1777264460,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "小罗伯特肯尼迪被拍到抛下妻子逃走",
+        "onboard_time": 1777263860,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135005,
+        "num": 135005,
+        "word": "真心建议不要冤枉护肤",
+        "onboard_time": 1777273700,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117545,
+        "num": 134723,
+        "word": "5200亿CPO概念龙头触及涨停",
+        "onboard_time": 1777269800,
+        "rank": 43,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 133701,
+        "word": "周润发把梁家辉郭富城吓了一跳",
+        "onboard_time": 1777268542,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112958,
+        "num": 132927,
+        "word": "追觅俞浩怒批小红书",
+        "onboard_time": 1777257140,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94622,
+        "num": 131898,
+        "word": "大批用户申请退出东方甄选会员",
+        "onboard_time": 1777261639,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131076,
+        "num": 131076,
+        "word": "讨好型人格请反复阅读",
+        "onboard_time": 1777257740,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85478,
+        "num": 130945,
+        "word": "小红书客服回应俞浩怒批小红书",
+        "onboard_time": 1777267460,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81611,
+        "num": 130639,
+        "word": "李想称理想L9领先大众9X两代",
+        "onboard_time": 1777269442,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终强调真抓实干狠抓落实#"
+    }
+  }
+}

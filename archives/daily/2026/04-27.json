@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777271755125,
+  "endTime": 1777274073823,
   "band_list": [
     {
       "raw_hot": 4445287,
@@ -25,6 +25,14 @@
       "onboard_time": 1777261880,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1485563,
+      "num": 347495,
+      "word": "黄杨钿甜弟弟因耳环风波被欺负",
+      "onboard_time": 1777272860,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1461603,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 833562,
-      "num": 833562,
+      "num": 1114669,
       "word": "马龙送国乒出征",
       "onboard_time": 1777266681,
       "rank": 3,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743628,
+      "num": 743628,
+      "word": "买纸巾得多个心眼",
+      "onboard_time": 1777270040,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 743074,
       "num": 328785,
       "word": "宝妈18万坐月子违约被要求赔2万",
@@ -227,6 +243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 695682,
+      "num": 805567,
+      "word": "女子回应买200元水果被指责后引产",
+      "onboard_time": 1777272380,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678891,
       "num": 832258,
       "word": "特朗普夫人反应迅速",
@@ -241,6 +265,22 @@
       "onboard_time": 1777212861,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632189,
+      "num": 319159,
+      "word": "林志玲抱4岁儿子吃早餐",
+      "onboard_time": 1777262901,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 592645,
+      "num": 258534,
+      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+      "onboard_time": 1777272200,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 591838,
@@ -265,6 +305,14 @@
       "onboard_time": 1777209681,
       "rank": 7,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 581283,
+      "num": 426151,
+      "word": "被我爸的道歉方式震惊了",
+      "onboard_time": 1777269442,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 569751,
@@ -307,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519389,
-      "num": 519389,
-      "word": "买纸巾得多个心眼",
-      "onboard_time": 1777270040,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 505065,
       "num": 356877,
       "word": "身份证照片千万不要直接发",
@@ -353,6 +393,14 @@
       "onboard_time": 1777266442,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480494,
+      "num": 480494,
+      "word": "主播离职3天前俞敏洪说他们在休假",
+      "onboard_time": 1777266981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476978,
@@ -395,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432957,
+      "num": 239437,
+      "word": "叶璇与继母遭亡父保姆起诉",
+      "onboard_time": 1777272921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430767,
       "num": 344038,
       "word": "原来百家讲坛是真的在教东西",
@@ -427,19 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 426151,
-      "num": 426151,
-      "word": "被我爸的道歉方式震惊了",
-      "onboard_time": 1777269442,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 418503,
-      "num": 319159,
-      "word": "林志玲抱4岁儿子吃早餐",
-      "onboard_time": 1777262901,
-      "rank": 21,
+      "raw_hot": 424440,
+      "num": 235602,
+      "word": "丁禹兮今年没那么火爆了",
+      "onboard_time": 1777271118,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -457,6 +505,14 @@
       "onboard_time": 1777214302,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406492,
+      "num": 406492,
+      "word": "王者铠联动新皮肤敖光",
+      "onboard_time": 1777271960,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 396781,
@@ -499,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371548,
+      "num": 371548,
+      "word": "单依纯郑州上座率",
+      "onboard_time": 1777273341,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 366386,
       "num": 280698,
       "word": "张月 没保护好者来女是我的遗憾",
@@ -507,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353297,
+      "num": 353297,
+      "word": "孙颖莎穿fighting出征",
+      "onboard_time": 1777272021,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332145,
       "num": 332145,
       "word": "马刺3比1开拓者",
       "onboard_time": 1777245739,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322590,
-      "num": 322590,
-      "word": "主播离职3天前俞敏洪说他们在休假",
-      "onboard_time": 1777266981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315964,
@@ -579,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285012,
+      "num": 195037,
+      "word": "董卿周涛 蕾丝边西装",
+      "onboard_time": 1777272440,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284799,
       "num": 284799,
       "word": "RW对战AG",
@@ -603,20 +675,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277909,
+      "num": 210000,
+      "word": "马伯骞弟弟婚礼",
+      "onboard_time": 1777264040,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275078,
       "num": 282800,
       "word": "俞敏洪坦言公司管理方式出现偏差",
       "onboard_time": 1777213041,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 275026,
-      "num": 212203,
-      "word": "丁禹兮今年没那么火爆了",
-      "onboard_time": 1777271118,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 271937,
@@ -635,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268100,
+      "num": 322410,
+      "word": "轰炸中伊朗国宝来到中国",
+      "onboard_time": 1777265360,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262997,
       "num": 261049,
       "word": "大批用户申请退出东方甄选会员",
@@ -649,14 +729,6 @@
       "onboard_time": 1777259959,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 258931,
-      "num": 210000,
-      "word": "马伯骞弟弟婚礼",
-      "onboard_time": 1777264040,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 256613,
@@ -697,14 +769,6 @@
       "onboard_time": 1777200680,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237650,
-      "num": 322410,
-      "word": "轰炸中伊朗国宝来到中国",
-      "onboard_time": 1777265360,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233088,
@@ -817,6 +881,14 @@
       "onboard_time": 1777246879,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190764,
+      "num": 190764,
+      "word": "石宇奇退赛",
+      "onboard_time": 1777273280,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 188393,
@@ -1035,6 +1107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135005,
+      "num": 135005,
+      "word": "真心建议不要冤枉护肤",
+      "onboard_time": 1777273700,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "蜜语纪穿帮 手提行李箱",
@@ -1099,20 +1179,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117545,
+      "num": 174583,
+      "word": "5200亿CPO概念龙头触及涨停",
+      "onboard_time": 1777269800,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 116155,
       "num": 126240,
       "word": "刘雨昕好辣",
       "onboard_time": 1777219641,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115418,
-      "num": 174583,
-      "word": "5200亿CPO概念龙头触及涨停",
-      "onboard_time": 1777269800,
-      "rank": 45,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 111531,
@@ -1195,6 +1275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81611,
+      "num": 130639,
+      "word": "李想称理想L9领先大众9X两代",
+      "onboard_time": 1777269442,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81162,
       "num": 172625,
       "word": "阿迪达斯助人类马拉松首次破二",
@@ -1267,12 +1355,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60094,
+      "num": 186267,
+      "word": "周润发把梁家辉郭富城吓了一跳",
+      "onboard_time": 1777268542,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 58761,
+      "num": 154239,
+      "word": "钦州突降暴雨大量车辆被泡",
+      "onboard_time": 1777272680,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56477,
       "num": 836411,
       "word": "五一叠加春假加出文旅消费新活力",
       "onboard_time": 1777257679,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51645,
+      "num": 137093,
+      "word": "茶卡盐湖回应心形雕塑争议",
+      "onboard_time": 1777273158,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50276,
@@ -1291,12 +1403,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48839,
-      "num": 186267,
-      "word": "周润发把梁家辉郭富城吓了一跳",
-      "onboard_time": 1777268542,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 47213,
+      "num": 203842,
+      "word": "男子嫌盗版电影网站广告多就手搓了一个",
+      "onboard_time": 1777273640,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45709,
+      "num": 140979,
+      "word": "与辉同行近7天销售额远超东方甄选",
+      "onboard_time": 1777274000,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42207,
