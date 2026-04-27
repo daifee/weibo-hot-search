@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777262876993,
+  "endTime": 1777271755125,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -891,6 +891,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 4445287,
+      "num": 425271,
+      "word": "平台明确不要的艺人",
+      "onboard_time": 1777264941,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4441164,
       "num": 1636325,
       "word": "爱奇艺 穷疯了也得有底线",
@@ -1000,6 +1008,14 @@
       "word": "王一博微博改名",
       "onboard_time": 1774602801,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3983604,
+      "num": 418204,
+      "word": "黄杨钿甜首次回应耳环风波",
+      "onboard_time": 1777268361,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1775900122,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2213531,
-      "num": 1002614,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 2210943,
-      "num": 2210943,
-      "word": "鹿哈或需赔偿消费者26.9亿元",
-      "onboard_time": 1773556760,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

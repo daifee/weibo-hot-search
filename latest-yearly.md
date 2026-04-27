@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/27 12:07:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/27 14:35:55
 </p>
 </blockquote>
 <p>
@@ -681,6 +681,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E6%98%8E%E7%A1%AE%E4%B8%8D%E8%A6%81%E7%9A%84%E8%89%BA%E4%BA%BA%23" target="weibo">
+平台明确不要的艺人（热度：4445287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%20%E7%A9%B7%E7%96%AF%E4%BA%86%E4%B9%9F%E5%BE%97%E6%9C%89%E5%BA%95%E7%BA%BF%23" target="weibo">
 爱奇艺 穷疯了也得有底线（热度：4441164）
 </a>
@@ -761,6 +767,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%23" target="weibo">
 王一博微博改名（热度：4022499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%80%B3%E7%8E%AF%E9%A3%8E%E6%B3%A2%23" target="weibo">
+黄杨钿甜首次回应耳环风波（热度：3983604）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9B%BE%E6%B2%9B%E6%85%88%E9%80%80%E5%87%BA%E6%B5%AA%E5%A7%90%23" target="weibo">
 曝曾沛慈退出浪姐（热度：2213684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：2213531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%88%96%E9%9C%80%E8%B5%94%E5%81%BF%E6%B6%88%E8%B4%B9%E8%80%8526.9%E4%BA%BF%E5%85%83%23" target="weibo">
-鹿哈或需赔偿消费者26.9亿元（热度：2210943）
 </a>
 </li>
 
