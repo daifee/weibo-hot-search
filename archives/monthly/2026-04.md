@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 17:37:59
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 19:51:49
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ sbti测试是啥（热度：1488588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%92%96%E5%95%A1%E5%BA%97%E5%81%B6%E9%81%87%E4%BA%86%E8%B5%B5%E4%B8%BD%E9%A2%96%23" target="weibo">
+上海咖啡店偶遇了赵丽颖（热度：1425868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%AD%8C%E6%89%8B2026%E9%98%B5%E5%AE%B9%23" target="weibo">
 曝歌手2026阵容（热度：1423652）
 </a>
@@ -1487,6 +1493,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%20%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%E5%A4%AA%E7%A3%A8%E5%8F%BD%E4%BA%86%23" target="weibo">
 王濛 浪姐直播太磨叽了（热度：1353956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8%E8%82%96%E6%88%98%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
+浙江卫视短剧 融脸肖战王一博（热度：1353740）
 </a>
 </li>
 
@@ -2439,6 +2451,12 @@ AI艺人库 自掘坟墓（热度：1054358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E6%99%9A494%E5%85%83%E6%88%BF%E9%97%B4%E8%A2%AB%E9%80%80%E5%8D%95%E5%90%8E%E5%8F%98%E4%B8%80%E6%99%9A569%E5%85%83%23" target="weibo">
+四晚494元房间被退单后变一晚569元（热度：1033118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8105.6%E4%B8%87%E5%BC%A0%23" target="weibo">
 铁路12306已拒绝出票105.6万张（热度：1030975）
 </a>
@@ -2969,6 +2987,12 @@ QQ音乐巅峰榜十大艺人（热度：929047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A3%E4%BB%A47%E5%B9%B3%E5%8F%B0%E6%9A%82%E5%81%9C%E6%96%B0%E5%A2%9E%E8%9B%8B%E7%B3%95%E5%BA%97%E9%93%BA%23" target="weibo">
 责令7平台暂停新增蛋糕店铺（热度：919053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5%23" target="weibo">
+被AI骗去毒蛇窝徒步（热度：918620）
 </a>
 </li>
 
@@ -3629,6 +3653,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E4%BD%A0%E5%90%83%E8%BF%87%E9%BA%BB%E8%BE%A3%E6%8B%8C%E5%90%97%23" target="weibo">
 李小冉 你吃过麻辣拌吗（热度：816568）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E7%9A%84%E4%B8%89%E5%8D%83%E5%9D%97%E9%92%B1%E5%AE%9A%E5%BE%8B%23" target="weibo">
+旅游的三千块钱定律（热度：815806）
 </a>
 </li>
 
@@ -4433,6 +4463,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BAPV%E5%91%A2%23" target="weibo">
 恋与深空PV呢（热度：725223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%AE%8B%E5%A6%8D%E9%9C%8F%23" target="weibo">
+巴黎偶遇窦靖童宋妍霏（热度：724895）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%86%E8%BD%AC%E5%9E%8B%E6%88%90%E9%9D%9E%E4%B8%AD%E5%BF%83%E5%8C%96%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%23" target="weibo">
 爱奇艺将转型成非中心化社交媒体（热度：591704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E7%A6%81%E7%83%9F%E4%BB%851%E5%A4%A9%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%90%B8%E7%83%9F%E8%A2%AB%E6%8B%8D%23" target="weibo">
-高铁站禁烟仅1天男子当众吸烟被拍（热度：591032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2341%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E6%8A%98%E5%8F%A0%E8%83%8C%E6%89%A3%23" target="weibo">
-41岁詹姆斯折叠背扣（热度：590669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%BB%8A%E6%97%A5%E7%9B%B4%E6%92%AD%E6%9A%82%E5%81%9C%23" target="weibo">
-浪姐今日直播暂停（热度：590193）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%84%9A%E4%BA%BA%E8%8A%82%E6%84%9A%E4%BA%BA%E6%89%8B%E6%B3%95%23" target="weibo">
-胡先煦顶级的愚人节愚人手法（热度：589987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-电费刺客找到了（热度：589987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8E%92%E5%90%8D%E4%B8%80%E8%B7%AF%E7%8B%82%E9%A3%99%23" target="weibo">
-张雪机车排名一路狂飙（热度：589881）
 </a>
 </li>
 
