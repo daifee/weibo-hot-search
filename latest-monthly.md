@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 00:48:28
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 01:04:55
 </p>
 </blockquote>
 <p>
@@ -2967,6 +2967,12 @@ QQ音乐巅峰榜十大艺人（热度：929047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E8%85%BF%E5%A4%AA%E7%B2%97%E6%8C%89%E5%88%B0%E4%BA%86%E7%94%B5%E6%BA%90%E9%94%AE%23" target="weibo">
+桃黑黑腿太粗按到了电源键（热度：926624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E7%94%B7%E7%B2%89%E6%B1%82%E5%A9%9A%23" target="weibo">
 宋祖儿被男粉求婚（热度：926242）
 </a>
@@ -3245,12 +3251,6 @@ IMSB人格（热度：892803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%B5%B7%E8%AF%89%E6%B4%BE%E5%85%8B%E7%89%B9%E8%83%9C%E8%AF%89%23" target="weibo">
 恋与深空起诉派克特胜诉（热度：883880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E8%85%BF%E5%A4%AA%E7%B2%97%E6%8C%89%E5%88%B0%E4%BA%86%E7%94%B5%E6%BA%90%E9%94%AE%23" target="weibo">
-桃黑黑腿太粗按到了电源键（热度：883351）
 </a>
 </li>
 
