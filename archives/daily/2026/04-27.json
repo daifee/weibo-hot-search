@@ -1,10 +1,10 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777299076355,
+  "endTime": 1777300512308,
   "band_list": [
     {
-      "raw_hot": 11214311,
-      "num": 11214311,
+      "raw_hot": 11467206,
+      "num": 11467206,
       "word": "杨幂脸被蒸汽眼罩烫伤了",
       "onboard_time": 1777290500,
       "rank": 26,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 2064040,
-      "num": 819939,
+      "num": 856391,
       "word": "旅游的三千块钱定律",
       "onboard_time": 1777288760,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1989617,
+      "num": 380062,
+      "word": "张馨予也被蒸汽眼罩烫伤过",
+      "onboard_time": 1777297825,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1661240,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1462984,
+      "num": 874824,
+      "word": "炸个蛋花居然要6只手",
+      "onboard_time": 1777294462,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1461603,
       "num": 374706,
       "word": "陆毅因嘴巴紫去医院做了大检查",
@@ -73,6 +89,14 @@
       "onboard_time": 1777278860,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1433135,
+      "num": 347565,
+      "word": "孕妇买水果遭丈夫咒骂引产账号被封",
+      "onboard_time": 1777299322,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1425868,
@@ -241,14 +265,6 @@
       "onboard_time": 1777269559,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 874824,
-      "num": 874824,
-      "word": "炸个蛋花居然要6只手",
-      "onboard_time": 1777294462,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 868357,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547236,
+      "num": 1087557,
+      "word": "十日终焉首次外景路透",
+      "onboard_time": 1777296202,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543741,
       "num": 836781,
       "word": "黄金被扣30年将按正常时效处理",
@@ -569,14 +593,6 @@
       "onboard_time": 1777284619,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 511848,
-      "num": 380062,
-      "word": "张馨予也被蒸汽眼罩烫伤过",
-      "onboard_time": 1777297825,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 505065,
@@ -689,14 +705,6 @@
       "onboard_time": 1777249760,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437281,
-      "num": 1069965,
-      "word": "十日终焉首次外景路透",
-      "onboard_time": 1777296202,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 432733,
@@ -905,6 +913,14 @@
       "onboard_time": 1777245739,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320274,
+      "num": 398377,
+      "word": "王鹤润妆造",
+      "onboard_time": 1777298722,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 315964,
@@ -1131,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244179,
+      "num": 366775,
+      "word": "高中生水杯被同学投放异物饮后抽搐",
+      "onboard_time": 1777297402,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243083,
       "num": 255843,
       "word": "孙怡眼前一黑又一黑吧",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1777279580,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 225896,
-      "num": 366775,
-      "word": "高中生水杯被同学投放异物饮后抽搐",
-      "onboard_time": 1777297402,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218962,
@@ -1267,14 +1283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201123,
-      "num": 398377,
-      "word": "王鹤润妆造",
-      "onboard_time": 1777298722,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200154,
       "num": 253709,
       "word": "艾顿被驱逐",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1777251261,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197740,
+      "num": 347137,
+      "word": "6岁女童确诊癌症不到2年去世",
+      "onboard_time": 1777298302,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196667,
@@ -1491,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168317,
+      "num": 298108,
+      "word": "张凌赫被工作人员扶下车",
+      "onboard_time": 1777299322,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166661,
       "num": 354261,
       "word": "looper结婚",
@@ -1563,11 +1587,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160330,
-      "num": 347137,
-      "word": "6岁女童确诊癌症不到2年去世",
-      "onboard_time": 1777298302,
-      "rank": 48,
+      "raw_hot": 161754,
+      "num": 343373,
+      "word": "官方通报中学教师坠楼事件",
+      "onboard_time": 1777299024,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1601,6 +1625,14 @@
       "onboard_time": 1777216943,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151804,
+      "num": 294058,
+      "word": "狼队对战好厚米",
+      "onboard_time": 1777295243,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 151781,
@@ -2027,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68919,
+      "num": 876669,
+      "word": "国产开源大模型下载量破100亿次",
+      "onboard_time": 1777293203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67076,
       "num": 126212,
       "word": "Faker与Keria破纪录",
@@ -2043,11 +2083,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 64743,
-      "num": 876669,
-      "word": "国产开源大模型下载量破100亿次",
-      "onboard_time": 1777293203,
-      "rank": 2,
+      "raw_hot": 63065,
+      "num": 383926,
+      "word": "我国布局太空算力",
+      "onboard_time": 1777292661,
+      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -2073,14 +2113,6 @@
       "onboard_time": 1777272680,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57136,
-      "num": 383926,
-      "word": "我国布局太空算力",
-      "onboard_time": 1777292661,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56477,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1777231634,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33379,
-      "num": 343373,
-      "word": "官方通报中学教师坠楼事件",
-      "onboard_time": 1777299024,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28210,

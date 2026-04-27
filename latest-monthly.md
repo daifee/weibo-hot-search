@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 22:11:16
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 22:35:12
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%84%B8%E8%A2%AB%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9%E7%83%AB%E4%BC%A4%E4%BA%86%23" target="weibo">
-杨幂脸被蒸汽眼罩烫伤了（热度：11214311）
+杨幂脸被蒸汽眼罩烫伤了（热度：11467206）
 </a>
 </li>
 
@@ -693,6 +693,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B9%9F%E8%A2%AB%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9%E7%83%AB%E4%BC%A4%E8%BF%87%23" target="weibo">
+张馨予也被蒸汽眼罩烫伤过（热度：1989617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%95%91%E9%99%88%E5%87%AF%E7%90%B3%23" target="weibo">
 救救陈凯琳（热度：1988063）
 </a>
@@ -1269,6 +1275,12 @@ sbti测试是啥（热度：1488588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E4%B8%AA%E8%9B%8B%E8%8A%B1%E5%B1%85%E7%84%B6%E8%A6%816%E5%8F%AA%E6%89%8B%23" target="weibo">
+炸个蛋花居然要6只手（热度：1462984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E5%9B%A0%E5%98%B4%E5%B7%B4%E7%B4%AB%E5%8E%BB%E5%8C%BB%E9%99%A2%E5%81%9A%E4%BA%86%E5%A4%A7%E6%A3%80%E6%9F%A5%23" target="weibo">
 陆毅因嘴巴紫去医院做了大检查（热度：1461603）
 </a>
@@ -1337,6 +1349,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 傅首尔怎么了（热度：1436274）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%E5%BC%95%E4%BA%A7%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
+孕妇买水果遭丈夫咒骂引产账号被封（热度：1433135）
 </a>
 </li>
 
@@ -3269,12 +3287,6 @@ IMSB人格（热度：892803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E8%A2%AB%E6%96%A9%E9%A6%96%E7%BE%8E%E4%BA%BA%E9%B1%BC%23" target="weibo">
 泰国海岸惊现被斩首美人鱼（热度：875455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E4%B8%AA%E8%9B%8B%E8%8A%B1%E5%B1%85%E7%84%B6%E8%A6%816%E5%8F%AA%E6%89%8B%23" target="weibo">
-炸个蛋花居然要6只手（热度：874824）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E7%89%A9%E9%A6%86%E6%89%8D%E7%9F%A5%E9%81%93%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4%E8%BF%99%E4%B9%88%E5%B0%8F%23" target="weibo">
 进博物馆才知道针孔摄像头这么小（热度：593425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%A6%B4%E8%8E%B2%E6%AD%A3%E5%9C%A8%E7%96%AF%E7%8B%82%E6%B6%8C%E5%85%A5%23" target="weibo">
-泰国榴莲正在疯狂涌入（热度：593170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E6%B7%A1%E8%88%9E%E5%8F%B0%20%E5%AE%8C%E5%85%A8%E5%A5%B3%E5%9B%A2%23" target="weibo">
-淡淡舞台 完全女团（热度：592407）
 </a>
 </li>
 

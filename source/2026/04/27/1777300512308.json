@@ -1,0 +1,410 @@
+{
+  "runTime": 1777300512308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 547236,
+        "num": 1087557,
+        "word": "十日终焉首次外景路透",
+        "onboard_time": 1777296202,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366153,
+        "num": 876890,
+        "word": "四晚494元房间被退单后变一晚569元",
+        "onboard_time": 1777284320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68919,
+        "num": 857693,
+        "word": "国产开源大模型下载量破100亿次",
+        "onboard_time": 1777293203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1462984,
+        "num": 857373,
+        "word": "炸个蛋花居然要6只手",
+        "onboard_time": 1777294462,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 856391,
+        "num": 856391,
+        "word": "旅游的三千块钱定律",
+        "onboard_time": 1777288760,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 632550,
+        "num": 632550,
+        "word": "歌手2026 张碧晨",
+        "onboard_time": 1777294941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578846,
+        "num": 578846,
+        "word": "被AI骗去毒蛇窝徒步",
+        "onboard_time": 1777283781,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403494,
+        "num": 403494,
+        "word": "骨相美的人适合上镜",
+        "onboard_time": 1777284619,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351048,
+        "num": 351048,
+        "word": "真正的独居",
+        "onboard_time": 1777295902,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350276,
+        "num": 349588,
+        "word": "佳偶天成 修仙剧",
+        "onboard_time": 1777293443,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11467206,
+        "num": 11467206,
+        "word": "杨幂脸被蒸汽眼罩烫伤了",
+        "onboard_time": 1777290500,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1433135,
+        "num": 347565,
+        "word": "孕妇买水果遭丈夫咒骂引产账号被封",
+        "onboard_time": 1777299322,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1989617,
+        "num": 345614,
+        "word": "张馨予也被蒸汽眼罩烫伤过",
+        "onboard_time": 1777297825,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1919396,
+        "num": 343662,
+        "word": "平台明确不要的艺人",
+        "onboard_time": 1777264941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176463,
+        "num": 341892,
+        "word": "黄金被扣30年将按正常时效处理",
+        "onboard_time": 1777286782,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 775985,
+        "num": 340605,
+        "word": "上海咖啡店偶遇了赵丽颖",
+        "onboard_time": 1777286479,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320274,
+        "num": 338766,
+        "word": "王鹤润妆造",
+        "onboard_time": 1777298722,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376635,
+        "num": 337733,
+        "word": "男子酒后3次布洛芬全身95%溃烂",
+        "onboard_time": 1777279701,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725167,
+        "num": 335346,
+        "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+        "onboard_time": 1777272200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282051,
+        "num": 333169,
+        "word": "鸿星尔克董事长回应提早下班火出圈",
+        "onboard_time": 1777295361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397919,
+        "num": 333043,
+        "word": "日本人不愿相信中国座椅给手机充电",
+        "onboard_time": 1777293203,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 330777,
+        "word": "云旗郝熠然曼谷花絮",
+        "onboard_time": 1777297102,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165008,
+        "num": 329886,
+        "word": "浪姐四公 无踢馆",
+        "onboard_time": 1777289481,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533653,
+        "num": 327953,
+        "word": "虞书欣直播",
+        "onboard_time": 1777293141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506413,
+        "num": 326265,
+        "word": "田曦薇虞书欣宋祖儿最佳穿搭",
+        "onboard_time": 1777292601,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492505,
+        "num": 324326,
+        "word": "田曦薇 飞升",
+        "onboard_time": 1777278860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409771,
+        "num": 322159,
+        "word": "巴黎偶遇窦靖童宋妍霏",
+        "onboard_time": 1777288401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279650,
+        "num": 321367,
+        "word": "女子剖腹产后突发脑梗致双眼失明",
+        "onboard_time": 1777294583,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161754,
+        "num": 319000,
+        "word": "官方通报中学教师坠楼事件",
+        "onboard_time": 1777299024,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63065,
+        "num": 318107,
+        "word": "我国布局太空算力",
+        "onboard_time": 1777292661,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376544,
+        "num": 315405,
+        "word": "身体严重缺觉的7个迹象",
+        "onboard_time": 1777289600,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 385907,
+        "num": 314150,
+        "word": "AI短剧 融脸",
+        "onboard_time": 1777286900,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299113,
+        "num": 312575,
+        "word": "孙怡阚清子已经和好了",
+        "onboard_time": 1777295662,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244179,
+        "num": 311898,
+        "word": "高中生水杯被同学投放异物饮后抽搐",
+        "onboard_time": 1777297402,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214911,
+        "num": 309898,
+        "word": "成毅直播",
+        "onboard_time": 1777295361,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210374,
+        "num": 307738,
+        "word": "曝演员片酬已经跌到低点",
+        "onboard_time": 1777265841,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197740,
+        "num": 306664,
+        "word": "6岁女童确诊癌症不到2年去世",
+        "onboard_time": 1777298302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195590,
+        "num": 305076,
+        "word": "曝易梦玲整容",
+        "onboard_time": 1777261040,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190607,
+        "num": 303408,
+        "word": "老莫坦言负债百万尚未还清",
+        "onboard_time": 1777296502,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188947,
+        "num": 301010,
+        "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+        "onboard_time": 1777280841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175098,
+        "num": 300635,
+        "word": "婚纱转场一出来我眼睛都睁大了",
+        "onboard_time": 1777289600,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168317,
+        "num": 298108,
+        "word": "张凌赫被工作人员扶下车",
+        "onboard_time": 1777299322,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161301,
+        "num": 296396,
+        "word": "男生坐高铁被大姨指挥换座委婉拒绝",
+        "onboard_time": 1777293622,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 158426,
+        "num": 295571,
+        "word": "低智商犯罪改回原名",
+        "onboard_time": 1777297825,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151804,
+        "num": 294058,
+        "word": "狼队对战好厚米",
+        "onboard_time": 1777295243,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150378,
+        "num": 290984,
+        "word": "looper结婚",
+        "onboard_time": 1777293322,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149550,
+        "num": 290909,
+        "word": "时代少年团 美宝莲",
+        "onboard_time": 1777283540,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84388,
+        "num": 288878,
+        "word": "领克900为什么要做这么大的五座",
+        "onboard_time": 1777295963,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 287658,
+        "word": "王俊凯选出了宇编和世界的主人",
+        "onboard_time": 1777298541,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157042,
+        "num": 284541,
+        "word": "丁禹兮回应今年没那么火了",
+        "onboard_time": 1777275441,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#答好窑洞之问书写时代答卷#"
+    }
+  }
+}

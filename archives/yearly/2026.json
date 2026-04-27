@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777299076355,
+  "endTime": 1777300512308,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -275,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11467206,
+      "num": 11467206,
+      "word": "杨幂脸被蒸汽眼罩烫伤了",
+      "onboard_time": 1777290500,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11308599,
       "num": 11308599,
       "word": "官方通报网传妈祖巡游换童事件",
       "onboard_time": 1771766904,
       "rank": 0,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 11214311,
-      "num": 11214311,
-      "word": "杨幂脸被蒸汽眼罩烫伤了",
-      "onboard_time": 1777290500,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 11188156,
