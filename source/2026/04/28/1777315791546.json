@@ -1,0 +1,410 @@
+{
+  "runTime": 1777315791546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326922,
+        "num": 326922,
+        "word": "桃黑黑腿太粗按到了电源键",
+        "onboard_time": 1777305019,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 273606,
+        "num": 273606,
+        "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
+        "onboard_time": 1777309218,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14883,
+        "num": 213928,
+        "word": "国产开源大模型下载量破100亿次",
+        "onboard_time": 1777293203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170623,
+        "num": 170623,
+        "word": "浪姐三公小考结果",
+        "onboard_time": 1777304060,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119400,
+        "num": 119400,
+        "word": "炸个蛋花居然要6只手",
+        "onboard_time": 1777294462,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95472,
+        "num": 95472,
+        "word": "旅游的三千块钱定律",
+        "onboard_time": 1777288760,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 91414,
+        "num": 91414,
+        "word": "父亲去世12年银行突然来催债",
+        "onboard_time": 1777302861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89417,
+        "num": 89417,
+        "word": "歌手2026 张碧晨",
+        "onboard_time": 1777294941,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81738,
+        "num": 81738,
+        "word": "被AI骗去毒蛇窝徒步",
+        "onboard_time": 1777283781,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14302,
+        "num": 81728,
+        "word": "领克900为什么要做这么大的五座",
+        "onboard_time": 1777295963,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 81518,
+        "word": "乘客买到高铁08车01C座上车懵了",
+        "onboard_time": 1777301843,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105932,
+        "num": 81371,
+        "word": "莫德里奇赛季报销",
+        "onboard_time": 1777309037,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94123,
+        "num": 81281,
+        "word": "张凌赫林允吻戏路透",
+        "onboard_time": 1777304600,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92852,
+        "num": 81149,
+        "word": "塞尔比摔球杆",
+        "onboard_time": 1777306519,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71033,
+        "num": 81011,
+        "word": "高中生水杯被同学投放异物饮后抽搐",
+        "onboard_time": 1777297402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59199,
+        "num": 80883,
+        "word": "骨相美的人适合上镜",
+        "onboard_time": 1777284619,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59025,
+        "num": 80797,
+        "word": "真正的独居",
+        "onboard_time": 1777295902,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55753,
+        "num": 80656,
+        "word": "十日终焉首次外景路透",
+        "onboard_time": 1777296202,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54948,
+        "num": 80593,
+        "word": "男子酒后3次布洛芬全身95%溃烂",
+        "onboard_time": 1777279701,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51879,
+        "num": 80395,
+        "word": "女子本想到医院减肥却查出两种癌",
+        "onboard_time": 1777304361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89629,
+        "num": 80319,
+        "word": "日本人不愿相信中国座椅给手机充电",
+        "onboard_time": 1777293203,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65238,
+        "num": 80232,
+        "word": "身体严重缺觉的7个迹象",
+        "onboard_time": 1777289600,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50036,
+        "num": 80020,
+        "word": "吴宜泽vs塞尔比",
+        "onboard_time": 1777303760,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47414,
+        "num": 79920,
+        "word": "王鹤润妆造",
+        "onboard_time": 1777298722,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12987,
+        "num": 79830,
+        "word": "腾势D9把老车主宠上天了",
+        "onboard_time": 1777287860,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42488,
+        "num": 79700,
+        "word": "老莫坦言负债百万尚未还清",
+        "onboard_time": 1777296502,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38263,
+        "num": 79541,
+        "word": "婚纱转场一出来我眼睛都睁大了",
+        "onboard_time": 1777289600,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37017,
+        "num": 79460,
+        "word": "looper结婚",
+        "onboard_time": 1777293322,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35974,
+        "num": 79278,
+        "word": "多地招艺术生当狱警",
+        "onboard_time": 1777307418,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34595,
+        "num": 79235,
+        "word": "高市早苗称要为长期战争做准备",
+        "onboard_time": 1777301721,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39827,
+        "num": 79022,
+        "word": "多家客服回应大头瓶盖疑设计缺陷",
+        "onboard_time": 1777313536,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36684,
+        "num": 78978,
+        "word": "女子剖腹产后突发脑梗致双眼失明",
+        "onboard_time": 1777294583,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36026,
+        "num": 78834,
+        "word": "辅助驾驶途中司机捡瓶子致1死1伤",
+        "onboard_time": 1777305680,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35758,
+        "num": 78741,
+        "word": "汤杯队友赛前不知石宇奇退赛",
+        "onboard_time": 1777305680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35479,
+        "num": 78552,
+        "word": "低智商犯罪改回原名",
+        "onboard_time": 1777297825,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35158,
+        "num": 78429,
+        "word": "疑遭霸凌跳楼教师曾获评教学优质奖",
+        "onboard_time": 1777314375,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35126,
+        "num": 78346,
+        "word": "美依礼芽回应歌手AI海报",
+        "onboard_time": 1777300942,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35009,
+        "num": 78202,
+        "word": "酒后吃这些药是玩命",
+        "onboard_time": 1777314855,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34240,
+        "num": 78024,
+        "word": "妇联回应孕妇称买水果遭丈夫咒骂",
+        "onboard_time": 1777306100,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33150,
+        "num": 77953,
+        "word": "姚高员辞去杭州市市长职务",
+        "onboard_time": 1777307597,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32656,
+        "num": 77863,
+        "word": "佳偶天成 修仙剧",
+        "onboard_time": 1777293443,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32545,
+        "num": 77681,
+        "word": "高铁二等座一排两座却标ABC三座",
+        "onboard_time": 1777302743,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31908,
+        "num": 77516,
+        "word": "狼队晋级挑杯十六强",
+        "onboard_time": 1777314914,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30600,
+        "num": 77431,
+        "word": "四晚494元房间被退单后变一晚569元",
+        "onboard_time": 1777284320,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29796,
+        "num": 77324,
+        "word": "狂魔哥裤子",
+        "onboard_time": 1777309218,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29740,
+        "num": 77209,
+        "word": "以前一万二电脑现在涨到一万八",
+        "onboard_time": 1777301182,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29606,
+        "num": 77090,
+        "word": "曝LCK放弃ENC",
+        "onboard_time": 1777302981,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29579,
+        "num": 76903,
+        "word": "官方通报中学教师坠楼事件",
+        "onboard_time": 1777299024,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29120,
+        "num": 76828,
+        "word": "有金店一口价金饰最低打6折",
+        "onboard_time": 1777303340,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 438329,
+        "num": 76691,
+        "word": "杨幂脸被蒸汽眼罩烫伤了",
+        "onboard_time": 1777290500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#答好窑洞之问书写时代答卷#"
+    }
+  }
+}

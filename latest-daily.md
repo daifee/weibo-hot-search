@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 02:09:31
+本榜单时间：2026/04/28 00:48:28 ~ 2026/04/28 02:49:51
 </p>
 </blockquote>
 <p>
@@ -405,6 +405,12 @@ looper结婚（热度：50690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%96%91%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7%23" target="weibo">
+多家客服回应大头瓶盖疑设计缺陷（热度：39827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%9B%A2%E6%9B%B2%E5%B0%8F%E8%80%83%23" target="weibo">
 浪姐三公团曲小考（热度：39464）
 </a>
@@ -413,6 +419,24 @@ looper结婚（热度：50690）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23" target="weibo">
 国产开源大模型下载量破100亿次（热度：35853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
+疑遭霸凌跳楼教师曾获评教学优质奖（热度：35158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
+酒后吃这些药是玩命（热度：35009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
+狼队晋级挑杯十六强（热度：31908）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 02:09:31
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/28 02:49:51
 </p>
 </blockquote>
 <p>
@@ -3441,6 +3441,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%96%91%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7%23" target="weibo">
+多家客服回应大头瓶盖疑设计缺陷（热度：39827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%9B%A2%E6%9B%B2%E5%B0%8F%E8%80%83%23" target="weibo">
 浪姐三公团曲小考（热度：39464）
 </a>
@@ -3489,6 +3495,18 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E6%9B%BE%E8%8E%B7%E8%AF%84%E6%95%99%E5%AD%A6%E4%BC%98%E8%B4%A8%E5%A5%96%23" target="weibo">
+疑遭霸凌跳楼教师曾获评教学优质奖（热度：35158）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E6%98%AF%E7%8E%A9%E5%91%BD%23" target="weibo">
+酒后吃这些药是玩命（热度：35009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E4%BA%8C%20%E4%BA%9A%E5%86%9B%23" target="weibo">
 破二 亚军（热度：34688）
 </a>
@@ -3497,6 +3515,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C1%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%8E%A5%E8%A7%A6%E8%9C%97%E7%89%9B%E9%AB%98%E7%83%A7%E4%B8%8D%E6%AD%A2%23" target="weibo">
 广东1岁女童接触蜗牛高烧不止（热度：33747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
+狼队晋级挑杯十六强（热度：31908）
 </a>
 </li>
 
