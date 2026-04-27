@@ -1,7 +1,15 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777248270597,
+  "endTime": 1777261262044,
   "band_list": [
+    {
+      "raw_hot": 1461603,
+      "num": 374706,
+      "word": "陆毅因嘴巴紫去医院做了大检查",
+      "onboard_time": 1777249760,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1308142,
       "num": 1308142,
@@ -17,6 +25,22 @@
       "onboard_time": 1777212503,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1116694,
+      "num": 1178671,
+      "word": "东方甄选拒绝第二个董宇辉",
+      "onboard_time": 1777255639,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1024197,
+      "num": 396110,
+      "word": "住建局回应1.5亿补偿款仅付500万",
+      "onboard_time": 1777257259,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1020943,
@@ -43,12 +67,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 946280,
+      "num": 369874,
+      "word": "安静公主掉美颜",
+      "onboard_time": 1777251981,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 906730,
+      "num": 651501,
+      "word": "讨好型人格请反复阅读",
+      "onboard_time": 1777257740,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 868357,
-      "num": 284345,
+      "num": 337811,
       "word": "张颂文没看过狂飙",
       "onboard_time": 1777216342,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853337,
+      "num": 853337,
+      "word": "追觅俞浩怒批小红书",
+      "onboard_time": 1777257140,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 807983,
@@ -67,8 +115,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 750839,
+      "num": 363056,
+      "word": "谢楠曾播报萧蔷退赛打车跑路",
+      "onboard_time": 1777258340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743074,
-      "num": 294047,
+      "num": 328785,
       "word": "宝妈18万坐月子违约被要求赔2万",
       "onboard_time": 1777246217,
       "rank": 10,
@@ -84,7 +140,7 @@
     },
     {
       "raw_hot": 644032,
-      "num": 283777,
+      "num": 397541,
       "word": "连续两周上四休三",
       "onboard_time": 1777212861,
       "rank": 13,
@@ -123,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 554518,
+      "num": 372209,
+      "word": "医生回应男孩睾丸扭转羞于就医坏死",
+      "onboard_time": 1777249640,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538640,
       "num": 283974,
       "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
@@ -131,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502017,
+      "num": 502017,
+      "word": "曾沛慈耳返",
+      "onboard_time": 1777253481,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498656,
       "num": 498656,
       "word": "东方甄选新CEO为何与老将难共存",
       "onboard_time": 1777235774,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 491280,
+      "num": 366684,
+      "word": "工厂被强拆1.5亿补偿款仅获500万",
+      "onboard_time": 1777256119,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476978,
@@ -153,6 +233,30 @@
       "onboard_time": 1777209741,
       "rank": 8,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 453647,
+      "num": 357672,
+      "word": "刘耀文裤子",
+      "onboard_time": 1777255879,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 441932,
+      "num": 356877,
+      "word": "身份证照片千万不要直接发",
+      "onboard_time": 1777253481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441535,
+      "num": 347908,
+      "word": "歌手要变年综吗",
+      "onboard_time": 1777249760,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 427302,
@@ -179,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402045,
+      "num": 402045,
+      "word": "恋与深空PV呢",
+      "onboard_time": 1777259659,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 393163,
+      "num": 344038,
+      "word": "原来百家讲坛是真的在教东西",
+      "onboard_time": 1777249401,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 391711,
       "num": 281440,
       "word": "aespa回归预告",
@@ -187,12 +307,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 387043,
+      "num": 387043,
+      "word": "湖人vs火箭",
+      "onboard_time": 1777254859,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380493,
       "num": 282964,
       "word": "胖东来18元瓶装矿泉水遭哄抢",
       "onboard_time": 1777209440,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376883,
+      "num": 332989,
+      "word": "唐艺昕情商",
+      "onboard_time": 1777252399,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 375191,
+      "num": 375191,
+      "word": "甘望星为了当演员拔掉5颗牙",
+      "onboard_time": 1777253360,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 366386,
@@ -209,6 +353,14 @@
       "onboard_time": 1777245739,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315705,
+      "num": 360612,
+      "word": "男子骑电鸡被撞骨折仍全责",
+      "onboard_time": 1777251500,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315383,
@@ -228,7 +380,7 @@
     },
     {
       "raw_hot": 308363,
-      "num": 308363,
+      "num": 319376,
       "word": "东方甄选正在变成普通直播电商",
       "onboard_time": 1777246217,
       "rank": 30,
@@ -260,7 +412,7 @@
     },
     {
       "raw_hot": 281427,
-      "num": 281427,
+      "num": 314055,
       "word": "网店卖8年假耐克赚了126万",
       "onboard_time": 1777216641,
       "rank": 22,
@@ -291,12 +443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270977,
+      "num": 354214,
+      "word": "丁俊晖回应被赵心童击败",
+      "onboard_time": 1777252461,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256613,
       "num": 256613,
       "word": "AG确认晋级挑杯十六强",
       "onboard_time": 1777233313,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253144,
+      "num": 331051,
+      "word": "张婧仪李现CP感",
+      "onboard_time": 1777259600,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249410,
+      "num": 351999,
+      "word": "柳智敏蛇塑回归",
+      "onboard_time": 1777250660,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 241043,
@@ -323,8 +499,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198388,
+      "num": 334023,
+      "word": "赵心童晒与丁俊晖旧照",
+      "onboard_time": 1777251261,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196667,
+      "num": 326957,
+      "word": "金莎孙丞潇婚后线下好甜",
+      "onboard_time": 1777258459,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192479,
-      "num": 192479,
+      "num": 305227,
       "word": "张月的实力",
       "onboard_time": 1777246879,
       "rank": 31,
@@ -363,12 +555,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177041,
+      "num": 324308,
+      "word": "DeepSeek连续两天降价",
+      "onboard_time": 1777258160,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170483,
       "num": 170483,
       "word": "橹穆双人舞台百天播放量",
       "onboard_time": 1777210700,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169987,
+      "num": 321487,
+      "word": "颜宁回应混不下去回国了言论",
+      "onboard_time": 1777259118,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166154,
+      "num": 320496,
+      "word": "被曝厨师往锅里吐口水餐馆已停业",
+      "onboard_time": 1777257380,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 163996,
@@ -411,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153855,
+      "num": 316062,
+      "word": "中国海军超强阵势围观美日菲军演",
+      "onboard_time": 1777251261,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 150062,
       "num": 150062,
       "word": "张小斐 没有讨好感的眼神和动作",
@@ -425,6 +649,14 @@
       "onboard_time": 1777215623,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146599,
+      "num": 365160,
+      "word": "社保基金最新调仓曝光",
+      "onboard_time": 1777259959,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 146447,
@@ -452,7 +684,7 @@
     },
     {
       "raw_hot": 142318,
-      "num": 142318,
+      "num": 326673,
       "word": "尚界Z7携手肖战登陆北京车展",
       "onboard_time": 1777246939,
       "rank": 32,
@@ -491,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136106,
+      "num": 311544,
+      "word": "浴室除霉菌 霉菌视角",
+      "onboard_time": 1777226476,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "蜜语纪穿帮 手提行李箱",
@@ -507,6 +747,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129214,
+      "num": 308898,
+      "word": "犟的生了个更犟的",
+      "onboard_time": 1777260019,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126715,
+      "num": 349145,
+      "word": "嘴唇发紫不代表有健康问题",
+      "onboard_time": 1777258340,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124717,
       "num": 126257,
       "word": "曝一笙小号收藏德州相关帖子",
@@ -515,12 +771,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122834,
-      "num": 122834,
-      "word": "浴室除霉菌 霉菌视角",
-      "onboard_time": 1777226476,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 123126,
+      "num": 307614,
+      "word": "马嘉祺丁程鑫雨爱彩排",
+      "onboard_time": 1777258880,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123079,
+      "num": 306396,
+      "word": "者来女回复张月",
+      "onboard_time": 1777257380,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121921,
+      "num": 346183,
+      "word": "曝易梦玲整容",
+      "onboard_time": 1777261040,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 121368,
@@ -539,12 +811,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111531,
+      "num": 336812,
+      "word": "金靖也走不出小说完结痛",
+      "onboard_time": 1777254740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "岳云鹏说丁俊晖状态没有赵心童好",
       "onboard_time": 1777219700,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 107169,
+      "num": 341337,
+      "word": "某免费观影APP疯狂盗取正版资源牟利",
+      "onboard_time": 1777259240,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102773,
@@ -603,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75517,
+      "num": 361858,
+      "word": "老外踮脚看中国智造",
+      "onboard_time": 1777259240,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71736,
       "num": 126226,
       "word": "狗狗脚脱臼了医患双方都很紧张",
@@ -633,6 +929,14 @@
       "onboard_time": 1777233615,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50685,
+      "num": 658229,
+      "word": "五一叠加春假加出文旅消费新活力",
+      "onboard_time": 1777257679,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50276,
@@ -678,6 +982,9 @@
   "hotgov_list": [
     {
       "word": "#总书记引领强国之路#"
+    },
+    {
+      "word": "#总书记始终强调真抓实干狠抓落实#"
     }
   ]
 }
