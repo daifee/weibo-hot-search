@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777300512308,
+  "endTime": 1777308508586,
   "band_list": [
     {
       "raw_hot": 11467206,
@@ -523,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 883351,
+      "num": 221901,
+      "word": "桃黑黑腿太粗按到了电源键",
+      "onboard_time": 1777305019,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 872650,
       "num": 1139624,
       "word": "上海警方通报2女子因抢座冲突",
       "onboard_time": 1777191740,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 869967,
+      "num": 869967,
+      "word": "浪姐三公小考结果",
+      "onboard_time": 1777304060,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 853337,
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514874,
+      "num": 218359,
+      "word": "曝苹果将推出真全面屏手机",
+      "onboard_time": 1777302921,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 511876,
       "num": 835934,
       "word": "美伊停火谈判",
@@ -1531,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381359,
+      "num": 220875,
+      "word": "乘客买到高铁08车01C座上车懵了",
+      "onboard_time": 1777301843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378554,
       "num": 436835,
       "word": "余承东检讨称以前做车不重视外观",
@@ -1715,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339963,
+      "num": 339963,
+      "word": "塞尔比摔球杆",
+      "onboard_time": 1777306519,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339685,
       "num": 217799,
       "word": "董卿周涛 蕾丝边西装",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1777245739,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329959,
+      "num": 213310,
+      "word": "张凌赫林允吻戏路透",
+      "onboard_time": 1777304600,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 323948,
@@ -2179,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239230,
+      "num": 203370,
+      "word": "森碟模仿叶一茜亲亲",
+      "onboard_time": 1777306458,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237677,
       "num": 237677,
       "word": "22岁女孩运动减肥把肌肉练爆了",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1777281260,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218564,
+      "num": 218564,
+      "word": "父亲去世12年银行突然来催债",
+      "onboard_time": 1777302861,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218344,
@@ -2611,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191699,
+      "num": 191699,
+      "word": "美依礼芽回应歌手AI海报",
+      "onboard_time": 1777300942,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191171,
       "num": 174088,
       "word": "周也公主切",
@@ -2633,6 +2705,14 @@
       "onboard_time": 1777209081,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189018,
+      "num": 568558,
+      "word": "吴宜泽vs塞尔比",
+      "onboard_time": 1777303760,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 188931,
@@ -3475,6 +3555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130888,
+      "num": 130888,
+      "word": "女子本想到医院减肥却查出两种癌",
+      "onboard_time": 1777304361,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130307,
       "num": 130307,
       "word": "CNN主播距枪手仅几英尺",
@@ -3811,6 +3899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102988,
+      "num": 102988,
+      "word": "宋亚轩结尾彩蛋唱遗失的心跳",
+      "onboard_time": 1777304423,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100952,
       "num": 100952,
       "word": "郑钦文成功破发莱巴金娜",
@@ -3851,6 +3947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94804,
+      "num": 94804,
+      "word": "有金店一口价金饰最低打6折",
+      "onboard_time": 1777303340,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93202,
       "num": 430551,
       "word": "美国对伊朗实施最大程度经济封锁",
@@ -3865,6 +3969,22 @@
       "onboard_time": 1777197620,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92689,
+      "num": 204882,
+      "word": "高市早苗称要为长期战争做准备",
+      "onboard_time": 1777301721,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 92566,
+      "num": 146436,
+      "word": "姚高员辞去杭州市市长职务",
+      "onboard_time": 1777307597,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90888,
@@ -4033,6 +4153,14 @@
       "onboard_time": 1777210041,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72169,
+      "num": 215791,
+      "word": "多地招艺术生当狱警",
+      "onboard_time": 1777307418,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71325,
@@ -4361,6 +4489,14 @@
       "onboard_time": 1777136419,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40147,
+      "num": 224424,
+      "word": "以前一万二电脑现在涨到一万八",
+      "onboard_time": 1777301182,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 39077,
