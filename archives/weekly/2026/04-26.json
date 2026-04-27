@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777247401034,
+  "endTime": 1777248270597,
   "band_list": [
     {
       "raw_hot": 8478967,
@@ -411,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 743074,
+      "num": 294047,
+      "word": "宝妈18万坐月子违约被要求赔2万",
+      "onboard_time": 1777246217,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690016,
       "num": 690016,
       "word": "特朗普说早知这么危险就不当总统了",
@@ -425,6 +433,14 @@
       "onboard_time": 1777126343,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 678891,
+      "num": 832258,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 677528,
@@ -467,20 +483,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 644032,
+      "num": 303809,
+      "word": "连续两周上四休三",
+      "onboard_time": 1777212861,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633256,
       "num": 377808,
       "word": "原来这是肺不好的表现",
       "onboard_time": 1777179980,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 633012,
-      "num": 294047,
-      "word": "宝妈18万坐月子违约被要求赔2万",
-      "onboard_time": 1777246217,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 632307,
@@ -579,20 +595,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 567643,
+      "num": 567643,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 561256,
       "num": 343672,
       "word": "易梦玲刷脸刷不出",
       "onboard_time": 1777183641,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552870,
-      "num": 754818,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 541517,
@@ -659,14 +675,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 509304,
-      "num": 303809,
-      "word": "连续两周上四休三",
-      "onboard_time": 1777212861,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 506098,
       "num": 447612,
       "word": "王濛团921票",
@@ -689,6 +697,14 @@
       "onboard_time": 1777168941,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498656,
+      "num": 498656,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 486399,
@@ -779,20 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438414,
-      "num": 438414,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 434201,
-      "num": 434201,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 427302,
+      "num": 264494,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426385,
@@ -1011,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341513,
-      "num": 256491,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333812,
       "num": 467736,
       "word": "东方甄选明明离职原因",
@@ -1091,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315383,
+      "num": 315383,
+      "word": "郑钦文马德里1比2莱巴金娜",
+      "onboard_time": 1777246217,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314645,
       "num": 314645,
       "word": "火湖G3漏吹詹姆斯踩线",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1777091180,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308363,
+      "num": 308363,
+      "word": "东方甄选正在变成普通直播电商",
+      "onboard_time": 1777246217,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 306722,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1777159458,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 294458,
-      "num": 294458,
-      "word": "郑钦文马德里1比2莱巴金娜",
-      "onboard_time": 1777246217,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 283726,
@@ -1259,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256613,
+      "num": 256613,
+      "word": "AG确认晋级挑杯十六强",
+      "onboard_time": 1777233313,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254023,
       "num": 449104,
       "word": "五一原来是放假七天的",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1777130782,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250257,
-      "num": 250257,
-      "word": "AG确认晋级挑杯十六强",
-      "onboard_time": 1777233313,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 245622,
@@ -1515,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199004,
+      "num": 199004,
+      "word": "今年榴莲大丰收大幅降价",
+      "onboard_time": 1777246217,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198526,
       "num": 198526,
       "word": "约基奇打架原因披露",
@@ -1539,12 +1555,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192292,
-      "num": 111254,
-      "word": "东方甄选正在变成普通直播电商",
-      "onboard_time": 1777246217,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 192479,
+      "num": 192479,
+      "word": "张月的实力",
+      "onboard_time": 1777246879,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 191930,
@@ -1755,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173881,
-      "num": 110892,
-      "word": "张月的实力",
-      "onboard_time": 1777246879,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173815,
       "num": 173815,
       "word": "18万月子会所月子餐是冰饮和炸物",
@@ -1880,14 +1888,6 @@
       "word": "尾号9999999手机号以26万再次拍卖",
       "onboard_time": 1777184479,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159547,
-      "num": 159547,
-      "word": "今年榴莲大丰收大幅降价",
-      "onboard_time": 1777246217,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2027,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145756,
+      "num": 145756,
+      "word": "美芯片股史诗级暴涨",
+      "onboard_time": 1777247480,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144838,
       "num": 144838,
       "word": "快乐家族 忘年交",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1777209081,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142318,
+      "num": 142318,
+      "word": "尚界Z7携手肖战登陆北京车展",
+      "onboard_time": 1777246939,
+      "rank": 32,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 141991,
@@ -2177,14 +2193,6 @@
       "onboard_time": 1777198281,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131211,
-      "num": 110781,
-      "word": "尚界Z7携手肖战登陆北京车展",
-      "onboard_time": 1777246939,
-      "rank": 32,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 130307,
@@ -2483,6 +2491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90888,
+      "num": 90888,
+      "word": "徐洁儿乌兰图雅唱言不由衷",
+      "onboard_time": 1777247358,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87241,
       "num": 87241,
       "word": "一诺 九周年见",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1777210041,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72008,
-      "num": 72008,
-      "word": "徐洁儿乌兰图雅唱言不由衷",
-      "onboard_time": 1777247358,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 71325,
@@ -2868,7 +2876,7 @@
     },
     {
       "raw_hot": 35514,
-      "num": 42993,
+      "num": 69785,
       "word": "在重庆打卡电影取景地",
       "onboard_time": 1777233194,
       "rank": 45,

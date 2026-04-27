@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777247401034,
+  "endTime": 1777248270597,
   "band_list": [
     {
       "raw_hot": 1308142,
@@ -67,11 +67,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 633012,
+      "raw_hot": 743074,
       "num": 294047,
       "word": "宝妈18万坐月子违约被要求赔2万",
       "onboard_time": 1777246217,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678891,
+      "num": 832258,
+      "word": "特朗普夫人反应迅速",
+      "onboard_time": 1777207219,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 644032,
+      "num": 283777,
+      "word": "连续两周上四休三",
+      "onboard_time": 1777212861,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -99,11 +115,11 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 552870,
-      "num": 754818,
-      "word": "特朗普夫人反应迅速",
-      "onboard_time": 1777207219,
-      "rank": 45,
+      "raw_hot": 567643,
+      "num": 567643,
+      "word": "伊朗最高领袖突然发文",
+      "onboard_time": 1777213523,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -113,6 +129,14 @@
       "onboard_time": 1777209621,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498656,
+      "num": 498656,
+      "word": "东方甄选新CEO为何与老将难共存",
+      "onboard_time": 1777235774,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 476978,
@@ -131,28 +155,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 438414,
-      "num": 438414,
-      "word": "东方甄选新CEO为何与老将难共存",
-      "onboard_time": 1777235774,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 436174,
-      "num": 283777,
-      "word": "连续两周上四休三",
-      "onboard_time": 1777212861,
-      "rank": 13,
+      "raw_hot": 427302,
+      "num": 264494,
+      "word": "女子老太地铁抢座打架谁更该羞愧",
+      "onboard_time": 1777232833,
+      "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434201,
-      "num": 434201,
-      "word": "伊朗最高领袖突然发文",
-      "onboard_time": 1777213523,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 409963,
@@ -195,19 +203,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341513,
-      "num": 256491,
-      "word": "女子老太地铁抢座打架谁更该羞愧",
-      "onboard_time": 1777232833,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332145,
       "num": 332145,
       "word": "马刺3比1开拓者",
       "onboard_time": 1777245739,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315383,
+      "num": 315383,
+      "word": "郑钦文马德里1比2莱巴金娜",
+      "onboard_time": 1777246217,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -217,6 +225,14 @@
       "onboard_time": 1777206320,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308363,
+      "num": 308363,
+      "word": "东方甄选正在变成普通直播电商",
+      "onboard_time": 1777246217,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 302908,
@@ -233,14 +249,6 @@
       "onboard_time": 1777215021,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294458,
-      "num": 294458,
-      "word": "郑钦文马德里1比2莱巴金娜",
-      "onboard_time": 1777246217,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 284799,
@@ -283,8 +291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250257,
-      "num": 250257,
+      "raw_hot": 256613,
+      "num": 256613,
       "word": "AG确认晋级挑杯十六强",
       "onboard_time": 1777233313,
       "rank": 8,
@@ -307,12 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192292,
-      "num": 111254,
-      "word": "东方甄选正在变成普通直播电商",
+      "raw_hot": 199004,
+      "num": 199004,
+      "word": "今年榴莲大丰收大幅降价",
       "onboard_time": 1777246217,
-      "rank": 30,
-      "category": "互联网"
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192479,
+      "num": 192479,
+      "word": "张月的实力",
+      "onboard_time": 1777246879,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187535,
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173881,
-      "num": 110892,
-      "word": "张月的实力",
-      "onboard_time": 1777246879,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170483,
       "num": 170483,
       "word": "橹穆双人舞台百天播放量",
@@ -371,20 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160579,
-      "num": 160579,
+      "raw_hot": 163321,
+      "num": 163321,
       "word": "韦雪回应脖子显老",
       "onboard_time": 1777214902,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159547,
-      "num": 159547,
-      "word": "今年榴莲大丰收大幅降价",
-      "onboard_time": 1777246217,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159499,
@@ -443,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145756,
+      "num": 145756,
+      "word": "美芯片股史诗级暴涨",
+      "onboard_time": 1777247480,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 142318,
+      "num": 142318,
+      "word": "尚界Z7携手肖战登陆北京车展",
+      "onboard_time": 1777246939,
+      "rank": 32,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 142180,
       "num": 127879,
       "word": "张凯丽女儿出道9年第一次拍吻戏",
@@ -489,14 +505,6 @@
       "onboard_time": 1777215082,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131211,
-      "num": 110781,
-      "word": "尚界Z7携手肖战登陆北京车展",
-      "onboard_time": 1777246939,
-      "rank": 32,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 124717,
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90888,
+      "num": 90888,
+      "word": "徐洁儿乌兰图雅唱言不由衷",
+      "onboard_time": 1777247358,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87241,
       "num": 87241,
       "word": "一诺 九周年见",
@@ -587,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72008,
-      "num": 72008,
-      "word": "徐洁儿乌兰图雅唱言不由衷",
-      "onboard_time": 1777247358,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71736,
       "num": 126226,
       "word": "狗狗脚脱臼了医患双方都很紧张",
       "onboard_time": 1777199359,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70006,
+      "num": 808860,
+      "word": "影视文旅成消费新风口",
+      "onboard_time": 1777206320,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67076,
@@ -617,14 +633,6 @@
       "onboard_time": 1777233615,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 61039,
-      "num": 808860,
-      "word": "影视文旅成消费新风口",
-      "onboard_time": 1777206320,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50276,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 35514,
-      "num": 42993,
+      "num": 69785,
       "word": "在重庆打卡电影取景地",
       "onboard_time": 1777233194,
       "rank": 45,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777248270597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805104,
+        "num": 1128816,
+        "word": "歌手2026",
+        "onboard_time": 1777209140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678891,
+        "num": 832258,
+        "word": "特朗普夫人反应迅速",
+        "onboard_time": 1777207219,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70006,
+        "num": 636210,
+        "word": "影视文旅成消费新风口",
+        "onboard_time": 1777206320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897423,
+        "num": 616027,
+        "word": "身份证照片最接近别人肉眼看到的自己",
+        "onboard_time": 1777205060,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567643,
+        "num": 567643,
+        "word": "伊朗最高领袖突然发文",
+        "onboard_time": 1777213523,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525182,
+        "num": 525182,
+        "word": "张月 挂电",
+        "onboard_time": 1777212503,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498656,
+        "num": 498656,
+        "word": "东方甄选新CEO为何与老将难共存",
+        "onboard_time": 1777235774,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315383,
+        "num": 315383,
+        "word": "郑钦文马德里1比2莱巴金娜",
+        "onboard_time": 1777246217,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308363,
+        "num": 308363,
+        "word": "东方甄选正在变成普通直播电商",
+        "onboard_time": 1777246217,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275586,
+        "num": 275586,
+        "word": "马刺3比1开拓者",
+        "onboard_time": 1777245739,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 743074,
+        "num": 274985,
+        "word": "宝妈18万坐月子违约被要求赔2万",
+        "onboard_time": 1777246217,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644032,
+        "num": 272120,
+        "word": "连续两周上四休三",
+        "onboard_time": 1777212861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475005,
+        "num": 269052,
+        "word": "男子乱小便踹人致自己骨折",
+        "onboard_time": 1777243396,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427302,
+        "num": 264494,
+        "word": "女子老太地铁抢座打架谁更该羞愧",
+        "onboard_time": 1777232833,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329803,
+        "num": 260402,
+        "word": "张颂文没看过狂飙",
+        "onboard_time": 1777216342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294143,
+        "num": 259486,
+        "word": "唐艺昕 何宣林",
+        "onboard_time": 1777200680,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256613,
+        "num": 256613,
+        "word": "AG确认晋级挑杯十六强",
+        "onboard_time": 1777233313,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241113,
+        "num": 241113,
+        "word": "陈德修 够爱",
+        "onboard_time": 1777218441,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238869,
+        "num": 238869,
+        "word": "迪丽热巴跑男只录了12天",
+        "onboard_time": 1777191200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163687,
+        "num": 218103,
+        "word": "俞敏洪坦言公司管理方式出现偏差",
+        "onboard_time": 1777213041,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217811,
+        "num": 217811,
+        "word": "胖东来18元瓶装矿泉水遭哄抢",
+        "onboard_time": 1777209440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213476,
+        "num": 213476,
+        "word": "网店卖8年假耐克赚了126万",
+        "onboard_time": 1777216641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207479,
+        "num": 207479,
+        "word": "男子从内地偷运51公斤盒饭回澳门",
+        "onboard_time": 1777208960,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199004,
+        "num": 199004,
+        "word": "今年榴莲大丰收大幅降价",
+        "onboard_time": 1777246217,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192479,
+        "num": 192479,
+        "word": "张月的实力",
+        "onboard_time": 1777246879,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177237,
+        "num": 177237,
+        "word": "世界上两个最离不开手的东西合体了",
+        "onboard_time": 1777209681,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 167921,
+        "num": 167921,
+        "word": "佳偶天成",
+        "onboard_time": 1777214302,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163321,
+        "num": 163321,
+        "word": "韦雪回应脖子显老",
+        "onboard_time": 1777214902,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145756,
+        "num": 145756,
+        "word": "美芯片股史诗级暴涨",
+        "onboard_time": 1777247480,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142318,
+        "num": 142318,
+        "word": "尚界Z7携手肖战登陆北京车展",
+        "onboard_time": 1777246939,
+        "rank": 29,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 135913,
+        "num": 135913,
+        "word": "1岁女童小区玩耍感染广州管圆线虫",
+        "onboard_time": 1777218801,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130110,
+        "num": 130110,
+        "word": "蜜语纪穿帮 手提行李箱",
+        "onboard_time": 1777203860,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129992,
+        "num": 129992,
+        "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
+        "onboard_time": 1777209621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 128021,
+        "word": "宋茜到西安就像老鼠掉进了米缸",
+        "onboard_time": 1777244417,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110591,
+        "num": 110591,
+        "word": "别在乱充电提早损害电池健康了",
+        "onboard_time": 1777204760,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109405,
+        "num": 109405,
+        "word": "浪姐直播疑似没人理何宣林",
+        "onboard_time": 1777206320,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99699,
+        "num": 99699,
+        "word": "外籍游客三亚旅游15元误付1.5万",
+        "onboard_time": 1777219280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92792,
+        "num": 92792,
+        "word": "生命树杨紫的家成了打卡点",
+        "onboard_time": 1777244718,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90888,
+        "num": 90888,
+        "word": "徐洁儿乌兰图雅唱言不由衷",
+        "onboard_time": 1777247358,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85868,
+        "num": 85868,
+        "word": "郑钦文成功破发莱巴金娜",
+        "onboard_time": 1777246217,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87547,
+        "num": 84956,
+        "word": "花少总导演回复苏新皓粉丝",
+        "onboard_time": 1777215021,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83392,
+        "num": 83392,
+        "word": "男童泡温泉遇蛇吓出应激创伤",
+        "onboard_time": 1777212682,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82986,
+        "num": 82986,
+        "word": "一诺 九周年见",
+        "onboard_time": 1777245739,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81062,
+        "num": 81062,
+        "word": "A股一季度最赚钱公司曝光",
+        "onboard_time": 1777207401,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80831,
+        "num": 80831,
+        "word": "杨幂冯太后盘发造型路透",
+        "onboard_time": 1777209681,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80436,
+        "num": 80436,
+        "word": "许凯演技",
+        "onboard_time": 1777219939,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78249,
+        "num": 78249,
+        "word": "浴室除霉菌 霉菌视角",
+        "onboard_time": 1777226476,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78405,
+        "num": 77739,
+        "word": "aespa回归预告",
+        "onboard_time": 1777216581,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76166,
+        "num": 76166,
+        "word": "刘雨昕好辣",
+        "onboard_time": 1777219641,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30505,
+        "num": 69785,
+        "word": "在重庆打卡电影取景地",
+        "onboard_time": 1777233194,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领强国之路#"
+    }
+  }
+}
