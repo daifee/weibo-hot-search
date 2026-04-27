@@ -1,6 +1,6 @@
 {
   "startTime": 1777219542994,
-  "endTime": 1777274073823,
+  "endTime": 1777281988884,
   "band_list": [
     {
       "raw_hot": 4445287,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1646940,
+      "num": 265163,
+      "word": "AI 香港身份证",
+      "onboard_time": 1777278742,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1485563,
       "num": 347495,
       "word": "黄杨钿甜弟弟因耳环风波被欺负",
@@ -40,6 +48,14 @@
       "word": "陆毅因嘴巴紫去医院做了大检查",
       "onboard_time": 1777249760,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1438687,
+      "num": 262502,
+      "word": "田曦薇 飞升",
+      "onboard_time": 1777278860,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -65,6 +81,14 @@
       "onboard_time": 1777212503,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1211240,
+      "num": 281887,
+      "word": "禁止外资收购Manus项目",
+      "onboard_time": 1777278681,
+      "rank": 7,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 1197823,
@@ -179,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 823854,
+      "num": 258677,
+      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
+      "onboard_time": 1777272200,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823177,
       "num": 867948,
       "word": "国乒男女队拍摄出征合影",
@@ -201,6 +233,14 @@
       "onboard_time": 1777208960,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 768830,
+      "num": 1123012,
+      "word": "Meta Manus",
+      "onboard_time": 1777279220,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 750839,
@@ -227,12 +267,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 733366,
+      "num": 841410,
+      "word": "歌手 AI海报",
+      "onboard_time": 1777274601,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 726141,
+      "num": 239011,
+      "word": "丁禹兮回应今年没那么火了",
+      "onboard_time": 1777275441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725223,
       "num": 725223,
       "word": "恋与深空PV呢",
       "onboard_time": 1777259659,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 715465,
+      "num": 715465,
+      "word": "labubu冰箱溢价3000元",
+      "onboard_time": 1777279821,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 712129,
+      "num": 712129,
+      "word": "单依纯郑州上座率",
+      "onboard_time": 1777273341,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 708209,
@@ -271,14 +343,6 @@
       "num": 319159,
       "word": "林志玲抱4岁儿子吃早餐",
       "onboard_time": 1777262901,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 592645,
-      "num": 258534,
-      "word": "氧化菊把杨颖穿过的礼服碎钻弄丢一颗",
-      "onboard_time": 1777272200,
       "rank": 21,
       "category": "艺人"
     },
@@ -347,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549578,
+      "num": 228213,
+      "word": "疑似汤唯怀二胎",
+      "onboard_time": 1777278020,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538640,
       "num": 283974,
       "word": "女生腹痛以为肠胃不适查出满肚肿瘤",
       "onboard_time": 1777209621,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532799,
+      "num": 224028,
+      "word": "朱珠的嘴都要憋不住了",
+      "onboard_time": 1777275981,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 505065,
@@ -385,6 +465,14 @@
       "onboard_time": 1777256119,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490501,
+      "num": 239437,
+      "word": "叶璇与继母遭亡父保姆起诉",
+      "onboard_time": 1777272921,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 490148,
@@ -443,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432957,
-      "num": 239437,
-      "word": "叶璇与继母遭亡父保姆起诉",
-      "onboard_time": 1777272921,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 435602,
+      "num": 254626,
+      "word": "男子酒后3次布洛芬全身95%溃烂",
+      "onboard_time": 1777279701,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430767,
@@ -555,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371548,
-      "num": 371548,
-      "word": "单依纯郑州上座率",
-      "onboard_time": 1777273341,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 366386,
       "num": 280698,
       "word": "张月 没保护好者来女是我的遗憾",
@@ -577,6 +657,14 @@
       "onboard_time": 1777272021,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339685,
+      "num": 217799,
+      "word": "董卿周涛 蕾丝边西装",
+      "onboard_time": 1777272440,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 332145,
@@ -635,20 +723,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297882,
+      "num": 253475,
+      "word": "胖东来遭哄抢矿泉水为纯物理过滤",
+      "onboard_time": 1777275441,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297455,
       "num": 275460,
       "word": "花少总导演回复苏新皓粉丝",
       "onboard_time": 1777215021,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 285012,
-      "num": 195037,
-      "word": "董卿周涛 蕾丝边西装",
-      "onboard_time": 1777272440,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284799,
@@ -691,6 +779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274422,
+      "num": 207752,
+      "word": "时代峰峻全世界最小方的公司",
+      "onboard_time": 1777275860,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271937,
       "num": 271937,
       "word": "杨幂冯太后盘发造型路透",
@@ -704,6 +800,22 @@
       "word": "丁俊晖回应被赵心童击败",
       "onboard_time": 1777252461,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270012,
+      "num": 270012,
+      "word": "头一回见这么正的负能量",
+      "onboard_time": 1777276700,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 268792,
+      "num": 268792,
+      "word": "詹姆斯回应火箭湖人赛后一片混乱",
+      "onboard_time": 1777278080,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -721,6 +833,14 @@
       "onboard_time": 1777261639,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 260472,
+      "num": 260472,
+      "word": "恋与深空",
+      "onboard_time": 1777281320,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 259580,
@@ -779,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218962,
+      "num": 198232,
+      "word": "橹穆舞台播放量时代峰峻第二",
+      "onboard_time": 1777281260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216148,
       "num": 216148,
       "word": "离家近工资低vs离家远工资高",
@@ -809,6 +937,14 @@
       "onboard_time": 1777271599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202786,
+      "num": 202786,
+      "word": "清华女博士分享万能通考方法",
+      "onboard_time": 1777280360,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 200154,
@@ -851,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "戚薇3岁儿子近照",
+      "onboard_time": 1777278140,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196667,
       "num": 326957,
       "word": "金莎孙丞潇婚后线下好甜",
@@ -889,6 +1033,14 @@
       "onboard_time": 1777273280,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188575,
+      "num": 215714,
+      "word": "罗永浩谈东方甄选风波",
+      "onboard_time": 1777279580,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 188393,
@@ -939,6 +1091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182668,
+      "num": 182668,
+      "word": "鹿晗穿红色踩小人袜子",
+      "onboard_time": 1777278201,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177425,
+      "num": 154338,
+      "word": "Jennie欧美风",
+      "onboard_time": 1777277241,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177041,
       "num": 324308,
       "word": "DeepSeek连续两天降价",
@@ -979,12 +1147,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 162436,
+      "num": 162436,
+      "word": "会说话的重要性",
+      "onboard_time": 1777281919,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162424,
       "num": 174550,
       "word": "五一旅游朋友圈这样发",
       "onboard_time": 1777263860,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162183,
+      "num": 153886,
+      "word": "发现同事在派发小零食的我",
+      "onboard_time": 1777281919,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161864,
+      "num": 153777,
+      "word": "我们的少年时代2",
+      "onboard_time": 1777281919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 159499,
@@ -1003,12 +1195,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154420,
+      "num": 154420,
+      "word": "五一彻底治好了我的自驾梦",
+      "onboard_time": 1777273580,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154139,
       "num": 154139,
       "word": "其实张若昀唱歌也很心酸",
       "onboard_time": 1777216943,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151254,
+      "num": 154046,
+      "word": "上班痛苦 不上班焦虑",
+      "onboard_time": 1777281260,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 150762,
@@ -1179,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119513,
+      "num": 242027,
+      "word": "茶卡盐湖心形雕塑被吐槽画蛇添足",
+      "onboard_time": 1777280841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117545,
       "num": 174583,
       "word": "5200亿CPO概念龙头触及涨停",
@@ -1209,6 +1425,14 @@
       "onboard_time": 1777219700,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 108626,
+      "num": 153965,
+      "word": "白宫枪案现场惊现最稳干饭人",
+      "onboard_time": 1777280300,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107169,
@@ -1265,6 +1489,14 @@
       "onboard_time": 1777245739,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86378,
+      "num": 154149,
+      "word": "医生回应14岁少年暴食被下病危通知",
+      "onboard_time": 1777280480,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85918,
@@ -1443,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 35170,
+      "num": 771691,
+      "word": "广交会点燃入境消费新热潮",
+      "onboard_time": 1777274601,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34688,
       "num": 42918,
       "word": "破二 亚军",
@@ -1481,6 +1721,9 @@
     },
     {
       "word": "#总书记始终强调真抓实干狠抓落实#"
+    },
+    {
+      "word": "#习近平谈政绩观#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 15:14:33
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/27 17:26:28
 </p>
 </blockquote>
 <p>
@@ -957,6 +957,12 @@ kimi都这么大了（热度：1742247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%20%E9%A6%99%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AF%81%23" target="weibo">
+AI 香港身份证（热度：1646940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E8%AF%B4%E6%88%9150%E4%BA%86%E6%A0%B9%E6%9C%AC%E8%AE%B0%E4%B8%8D%E4%BD%8F%23" target="weibo">
 李小冉说我50了根本记不住（热度：1632699）
 </a>
@@ -1295,6 +1301,12 @@ sbti测试是啥（热度：1488588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD%23" target="weibo">
 乘风初舞台直播（热度：1441608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%20%E9%A3%9E%E5%8D%87%23" target="weibo">
+田曦薇 飞升（热度：1438687）
 </a>
 </li>
 
@@ -1859,6 +1871,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%9A%84%E4%BD%9C%E6%81%AF%E6%97%B6%E9%97%B4%E5%A4%AA%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BA%86%23" target="weibo">
 新疆的作息时间太适合年轻人了（热度：1216720）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E5%A4%96%E8%B5%84%E6%94%B6%E8%B4%ADManus%E9%A1%B9%E7%9B%AE%23" target="weibo">
+禁止外资收购Manus项目（热度：1211240）
 </a>
 </li>
 
@@ -3537,6 +3555,12 @@ MCN回应女孩挪用1700万打赏主播（热度：831288）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%A7%E5%8C%96%E8%8F%8A%E6%8A%8A%E6%9D%A8%E9%A2%96%E7%A9%BF%E8%BF%87%E7%9A%84%E7%A4%BC%E6%9C%8D%E7%A2%8E%E9%92%BB%E5%BC%84%E4%B8%A2%E4%B8%80%E9%A2%97%23" target="weibo">
+氧化菊把杨颖穿过的礼服碎钻弄丢一颗（热度：823854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%A5%B3%E9%98%9F%E6%8B%8D%E6%91%84%E5%87%BA%E5%BE%81%E5%90%88%E5%BD%B1%23" target="weibo">
 国乒男女队拍摄出征合影（热度：823177）
 </a>
@@ -4011,6 +4035,12 @@ en王翊恩 结婚但没同居（热度：795143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Meta%20Manus%23" target="weibo">
+Meta Manus（热度：768830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E4%B8%A4%E6%AC%A1%E6%8B%92%E7%BB%9D%E5%B8%AE%E9%99%8C%E7%94%9F%E4%BA%BA%E5%B8%A6%E8%A1%8C%E6%9D%8E%23" target="weibo">
 女子机场两次拒绝帮陌生人带行李（热度：768801）
 </a>
@@ -4317,6 +4347,12 @@ TOP更新站位（热度：733534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5%23" target="weibo">
+歌手 AI海报（热度：733366）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E5%B1%8F%E5%B9%95%E8%A7%84%E6%A0%BC%E6%88%96%E5%BC%80%E5%80%92%E8%BD%A6%23" target="weibo">
 曝iPhone18屏幕规格或开倒车（热度：732150）
 </a>
@@ -4373,6 +4409,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%8E%8B%E6%89%BF%E6%B8%B2%E5%9C%A8%E5%92%96%E5%95%A1%E5%BA%97%E6%89%93%E5%B7%A5%23" target="weibo">
 偶遇王承渲在咖啡店打工（热度：726991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%9B%9E%E5%BA%94%E4%BB%8A%E5%B9%B4%E6%B2%A1%E9%82%A3%E4%B9%88%E7%81%AB%E4%BA%86%23" target="weibo">
+丁禹兮回应今年没那么火了（热度：726141）
 </a>
 </li>
 
@@ -4467,6 +4509,12 @@ TOP更新站位（热度：733534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23labubu%E5%86%B0%E7%AE%B1%E6%BA%A2%E4%BB%B73000%E5%85%83%23" target="weibo">
+labubu冰箱溢价3000元（热度：715465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%E5%A5%B3%E5%84%BF%E8%AF%B4%E5%90%91%E5%A4%AA%E6%8B%BF%E7%83%9F%E5%A4%B4%E7%83%AB%E5%A5%B9%23" target="weibo">
 向华强女儿说向太拿烟头烫她（热度：715374）
 </a>
@@ -4517,6 +4565,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E7%88%B1%20%E8%BF%99%E6%89%8D%E6%98%AF%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
 雨爱 这才是全开麦（热度：712358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E9%83%91%E5%B7%9E%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
+单依纯郑州上座率（热度：712129）
 </a>
 </li>
 
@@ -5883,12 +5937,6 @@ TOP直播（热度：622036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%A7%E5%8C%96%E8%8F%8A%E6%8A%8A%E6%9D%A8%E9%A2%96%E7%A9%BF%E8%BF%87%E7%9A%84%E7%A4%BC%E6%9C%8D%E7%A2%8E%E9%92%BB%E5%BC%84%E4%B8%A2%E4%B8%80%E9%A2%97%23" target="weibo">
-氧化菊把杨颖穿过的礼服碎钻弄丢一颗（热度：592645）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E6%B7%A1%E8%88%9E%E5%8F%B0%20%E5%AE%8C%E5%85%A8%E5%A5%B3%E5%9B%A2%23" target="weibo">
 淡淡舞台 完全女团（热度：592407）
 </a>
@@ -5963,54 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8E%92%E5%90%8D%E4%B8%80%E8%B7%AF%E7%8B%82%E9%A3%99%23" target="weibo">
 张雪机车排名一路狂飙（热度：589881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%8C%9D%E6%AD%BB%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%A0%BC%E5%9C%A8%E5%87%8C%E6%99%A83%E7%82%B9%23" target="weibo">
-设计师办公室猝死微信定格在凌晨3点（热度：589519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%97%BB%E6%B5%A9%E5%87%BA%E5%BA%AD%23" target="weibo">
-宋旻浩出庭（热度：589429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%A3%B0%E6%98%8E%23" target="weibo">
-时代峰峻声明（热度：589402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%81%A2%E5%A4%8D%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E6%8E%A7%E5%88%B6%23" target="weibo">
-伊朗恢复对霍尔木兹海峡的控制（热度：589378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%86%8A%E9%BB%9B%E6%9E%97%E5%81%9A%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E5%90%8E%E8%A2%AB%E8%80%81%E5%85%AC%E5%AB%8C%E5%BC%83%23" target="weibo">
-曝熊黛林做全职妈妈后被老公嫌弃（热度：589301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AE%E9%A3%9F%E6%B8%85%E6%B7%A1%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%A4%B1%E5%8E%BB%E5%BE%88%E5%A4%9A%23" target="weibo">
-饮食清淡真的会失去很多（热度：589294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9B%B4%E6%92%AD%E7%BE%8E%E9%A2%9C%E6%8E%89%E4%BA%86%23" target="weibo">
-网红迪士尼直播美颜掉了（热度：589143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%A0%E4%B8%BA%E5%B8%85%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%81%B7%E6%8B%8D%23" target="weibo">
-张凌赫因为帅被同学偷拍（热度：587935）
 </a>
 </li>
 
