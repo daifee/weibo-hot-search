@@ -1,6 +1,6 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777369335043,
+  "endTime": 1777371832544,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -57,6 +57,14 @@
       "onboard_time": 1777342942,
       "rank": 1,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2042182,
+      "num": 662426,
+      "word": "断崖式垮脸其实就是水毒",
+      "onboard_time": 1777369700,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1975772,
@@ -171,6 +179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 879596,
+      "num": 660120,
+      "word": "奶龙高考落榜",
+      "onboard_time": 1777369040,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 877584,
       "num": 1140413,
       "word": "父亲去世12年银行突然来催债",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810115,
+      "num": 1129618,
+      "word": "张雪曾拒绝跟华为合作",
+      "onboard_time": 1777364481,
+      "rank": 0,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 770635,
       "num": 273259,
       "word": "晚上10点睡和11点睡的三个区别",
@@ -225,14 +249,6 @@
       "onboard_time": 1777335620,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758235,
-      "num": 1121317,
-      "word": "张雪曾拒绝跟华为合作",
-      "onboard_time": 1777364481,
-      "rank": 0,
-      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 746586,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 703629,
+      "num": 659804,
+      "word": "大冰谈人际交往的大忌",
+      "onboard_time": 1777369040,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 686458,
       "num": 221196,
       "word": "张馨予也被蒸汽眼罩烫伤过",
@@ -297,6 +321,14 @@
       "onboard_time": 1777359080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658647,
+      "num": 792303,
+      "word": "剪映被约谈",
+      "onboard_time": 1777368142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 648488,
@@ -483,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434618,
+      "num": 434618,
+      "word": "ILLIT新歌在外网引发热议",
+      "onboard_time": 1777368082,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 426697,
       "num": 934917,
       "word": "网红白冰偷逃近千万为何没坐牢",
@@ -561,14 +601,6 @@
       "onboard_time": 1777349964,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379525,
-      "num": 426437,
-      "word": "奶龙高考落榜",
-      "onboard_time": 1777369040,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 374471,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 246760,
-      "num": 246760,
+      "num": 253760,
       "word": "金价涨不动了",
       "onboard_time": 1777367601,
       "rank": 23,
@@ -843,8 +875,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234489,
-      "num": 222075,
+      "raw_hot": 237069,
+      "num": 256973,
       "word": "猫咪硬生生在小区绕了8圈才回家",
       "onboard_time": 1777366760,
       "rank": 32,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 221559,
-      "num": 221559,
+      "num": 270908,
       "word": "女子看病被要求脱光衣物遭医生袭胸",
       "onboard_time": 1777362381,
       "rank": 33,
@@ -908,19 +940,19 @@
     },
     {
       "raw_hot": 208407,
-      "num": 208407,
+      "num": 255590,
       "word": "卜凡跳团舞踢队友",
       "onboard_time": 1777365502,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 206278,
-      "num": 290129,
-      "word": "剪映被约谈",
-      "onboard_time": 1777368142,
+      "raw_hot": 208380,
+      "num": 276446,
+      "word": "Dior南京活动",
+      "onboard_time": 1777371140,
       "rank": 19,
-      "category": "民生新闻"
+      "category": "时尚"
     },
     {
       "raw_hot": 206004,
@@ -1003,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189827,
-      "num": 189827,
-      "word": "大冰谈人际交往的大忌",
-      "onboard_time": 1777369040,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189018,
       "num": 568558,
       "word": "吴宜泽vs塞尔比",
@@ -1051,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182378,
-      "num": 240467,
-      "word": "ILLIT新歌在外网引发热议",
-      "onboard_time": 1777368082,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 176411,
       "num": 156323,
       "word": "少年行凶前曾在女生自拍下评论漂亮",
@@ -1076,11 +1092,19 @@
     },
     {
       "raw_hot": 167365,
-      "num": 167365,
+      "num": 239376,
       "word": "张凌赫上班仍显有点疼痛",
       "onboard_time": 1777363941,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166338,
+      "num": 250832,
+      "word": "同事因为我离职哭了",
+      "onboard_time": 1777370001,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 164562,
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 163605,
-      "num": 232790,
+      "num": 271012,
       "word": "奔跑吧直播",
       "onboard_time": 1777365623,
       "rank": 27,
@@ -1115,12 +1139,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158672,
+      "num": 248954,
+      "word": "女子为爱远嫁生3个娃被升职丈夫嫌弃",
+      "onboard_time": 1777368321,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155639,
-      "num": 155639,
+      "num": 278257,
       "word": "H股大涨15%",
       "onboard_time": 1777363341,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151978,
+      "num": 247970,
+      "word": "朋友之间别聊太沉重的话题",
+      "onboard_time": 1777371261,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145772,
+      "num": 243589,
+      "word": "BFX下放Diable",
+      "onboard_time": 1777370059,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 145610,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1777309037,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134450,
+      "num": 238396,
+      "word": "高三学生将槟榔伴侣滴入同桌饮水杯",
+      "onboard_time": 1777368502,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133205,
@@ -1188,7 +1244,7 @@
     },
     {
       "raw_hot": 129397,
-      "num": 237693,
+      "num": 273537,
       "word": "华为PuraXMax首销日销量曝光",
       "onboard_time": 1777367000,
       "rank": 26,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1777284320,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128667,
+      "num": 273797,
+      "word": "比亚迪部分车型即将涨价",
+      "onboard_time": 1777365321,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 126482,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1777301423,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121496,
-      "num": 158557,
-      "word": "比亚迪部分车型即将涨价",
-      "onboard_time": 1777365321,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 120595,
@@ -1371,6 +1427,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 96475,
+      "num": 267579,
+      "word": "陈立农奔跑吧上班路透",
+      "onboard_time": 1777369579,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94804,
       "num": 206213,
       "word": "有金店一口价金饰最低打6折",
@@ -1393,6 +1457,22 @@
       "onboard_time": 1777330818,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89561,
+      "num": 260632,
+      "word": "英伟达晒黄仁勋樊振东合照",
+      "onboard_time": 1777371140,
+      "rank": 31,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 89363,
+      "num": 263032,
+      "word": "伊朗蚊子舰队令美军头疼",
+      "onboard_time": 1777367481,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87520,
@@ -1443,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78825,
+      "num": 265737,
+      "word": "才知道潜伏这个结尾是姚晨争取后重拍的",
+      "onboard_time": 1777368622,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78573,
       "num": 351417,
       "word": "女子称喝霸王茶姬喝出水银",
@@ -1459,20 +1547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74140,
+      "num": 262659,
+      "word": "14岁少年杀害女同学不适用死刑",
+      "onboard_time": 1777361242,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73511,
       "num": 205926,
       "word": "高铁二等座一排两座却标ABC三座",
       "onboard_time": 1777302743,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73179,
-      "num": 154832,
-      "word": "才知道潜伏这个结尾是姚晨争取后重拍的",
-      "onboard_time": 1777368622,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 73111,
@@ -1547,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63550,
+      "num": 245454,
+      "word": "浪姐三公帮唱舞台",
+      "onboard_time": 1777366881,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63243,
       "num": 350818,
       "word": "白冰账号被禁止关注",
@@ -1561,14 +1657,6 @@
       "onboard_time": 1777348882,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63153,
-      "num": 152847,
-      "word": "浪姐三公帮唱舞台",
-      "onboard_time": 1777366881,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 61235,
@@ -1667,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43486,
+      "num": 254036,
+      "word": "京东外卖发券",
+      "onboard_time": 1777369461,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42614,
       "num": 317951,
       "word": "公司私装摄像头偷拍女员工哺乳判赔",
@@ -1739,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23551,
+      "num": 667420,
+      "word": "我国服务业增加值实现三连跳",
+      "onboard_time": 1777370121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18843,
       "num": 40776,
       "word": "低温烫伤",
@@ -1753,6 +1857,14 @@
       "onboard_time": 1777356681,
       "rank": 49,
       "category": "运动健身,互联网"
+    },
+    {
+      "raw_hot": 15642,
+      "num": 237761,
+      "word": "老师批注学生你的字和你一样丑",
+      "onboard_time": 1777371741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15245,
@@ -1774,6 +1886,9 @@
   "hotgov_list": [
     {
       "word": "#答好窑洞之问书写时代答卷#"
+    },
+    {
+      "word": "#中共中央政治局4月28日召开会议#"
     }
   ]
 }

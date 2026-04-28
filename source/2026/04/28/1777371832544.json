@@ -1,0 +1,410 @@
+{
+  "runTime": 1777371832544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810115,
+        "num": 1129618,
+        "word": "张雪曾拒绝跟华为合作",
+        "onboard_time": 1777364481,
+        "rank": 0,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 658647,
+        "num": 792303,
+        "word": "剪映被约谈",
+        "onboard_time": 1777368142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23551,
+        "num": 667420,
+        "word": "我国服务业增加值实现三连跳",
+        "onboard_time": 1777370121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2042182,
+        "num": 662426,
+        "word": "断崖式垮脸其实就是水毒",
+        "onboard_time": 1777369700,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 879596,
+        "num": 660120,
+        "word": "奶龙高考落榜",
+        "onboard_time": 1777369040,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 703629,
+        "num": 659804,
+        "word": "大冰谈人际交往的大忌",
+        "onboard_time": 1777369040,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 644815,
+        "num": 644815,
+        "word": "建议想减肥的人去一趟云南",
+        "onboard_time": 1777352605,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 434618,
+        "num": 434618,
+        "word": "ILLIT新歌在外网引发热议",
+        "onboard_time": 1777368082,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361320,
+        "num": 361320,
+        "word": "网红白冰偷逃近千万为何没坐牢",
+        "onboard_time": 1777360761,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 326394,
+        "num": 360340,
+        "word": "3只虾21块钱",
+        "onboard_time": 1777347742,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1466811,
+        "num": 358350,
+        "word": "miumiu陷害女明星",
+        "onboard_time": 1777344081,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1023561,
+        "num": 356992,
+        "word": "王亚飞 迪丽热巴",
+        "onboard_time": 1777359501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403242,
+        "num": 356299,
+        "word": "云南14岁男孩杀害女同学被判无期",
+        "onboard_time": 1777358539,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474294,
+        "num": 353943,
+        "word": "小英变卡戴英了",
+        "onboard_time": 1777360340,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 369805,
+        "num": 353204,
+        "word": "建议亲人去世一两个月后主动查负债",
+        "onboard_time": 1777366760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364175,
+        "num": 351162,
+        "word": "强奸出狱后又杀人男子被执行死刑",
+        "onboard_time": 1777354521,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350851,
+        "num": 350851,
+        "word": "迪丽热巴邓为迪奥生图",
+        "onboard_time": 1777358661,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278805,
+        "num": 278805,
+        "word": "金钟仁说EXO是六人组",
+        "onboard_time": 1777355541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138316,
+        "num": 278257,
+        "word": "H股大涨15%",
+        "onboard_time": 1777363341,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208380,
+        "num": 276446,
+        "word": "Dior南京活动",
+        "onboard_time": 1777371140,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183964,
+        "num": 276122,
+        "word": "孔雪儿说不接俞浅浅这种角色是笨蛋",
+        "onboard_time": 1777355423,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128667,
+        "num": 273797,
+        "word": "比亚迪部分车型即将涨价",
+        "onboard_time": 1777365321,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128339,
+        "num": 273537,
+        "word": "华为PuraXMax首销日销量曝光",
+        "onboard_time": 1777367000,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108186,
+        "num": 271012,
+        "word": "奔跑吧直播",
+        "onboard_time": 1777365623,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178971,
+        "num": 270908,
+        "word": "女子看病被要求脱光衣物遭医生袭胸",
+        "onboard_time": 1777362381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176177,
+        "num": 269586,
+        "word": "网红白冰偷税911.18万",
+        "onboard_time": 1777341920,
+        "rank": 25,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 96475,
+        "num": 267579,
+        "word": "陈立农奔跑吧上班路透",
+        "onboard_time": 1777369579,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78825,
+        "num": 265737,
+        "word": "才知道潜伏这个结尾是姚晨争取后重拍的",
+        "onboard_time": 1777368622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295774,
+        "num": 264968,
+        "word": "Rookie小钰事件法律层面解读",
+        "onboard_time": 1777357942,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89363,
+        "num": 263032,
+        "word": "伊朗蚊子舰队令美军头疼",
+        "onboard_time": 1777367481,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74140,
+        "num": 262659,
+        "word": "14岁少年杀害女同学不适用死刑",
+        "onboard_time": 1777361242,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89561,
+        "num": 260632,
+        "word": "英伟达晒黄仁勋樊振东合照",
+        "onboard_time": 1777371140,
+        "rank": 31,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 742317,
+        "num": 259423,
+        "word": "韩汶栩 在红树林吹号的鹦鹉鱼",
+        "onboard_time": 1777362741,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 522462,
+        "num": 258798,
+        "word": "小黄油美式 全冰去水",
+        "onboard_time": 1777360940,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237069,
+        "num": 256973,
+        "word": "猫咪硬生生在小区绕了8圈才回家",
+        "onboard_time": 1777366760,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198072,
+        "num": 255590,
+        "word": "卜凡跳团舞踢队友",
+        "onboard_time": 1777365502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43486,
+        "num": 254036,
+        "word": "京东外卖发券",
+        "onboard_time": 1777369461,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188894,
+        "num": 253760,
+        "word": "金价涨不动了",
+        "onboard_time": 1777367601,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31596,
+        "num": 251641,
+        "word": "我国脑机接口加速接入现实",
+        "onboard_time": 1777349423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166338,
+        "num": 250832,
+        "word": "同事因为我离职哭了",
+        "onboard_time": 1777370001,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158672,
+        "num": 248954,
+        "word": "女子为爱远嫁生3个娃被升职丈夫嫌弃",
+        "onboard_time": 1777368321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 247970,
+        "word": "朋友之间别聊太沉重的话题",
+        "onboard_time": 1777371261,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 246754,
+        "word": "邓为像穿了红色肚兜",
+        "onboard_time": 1777361600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63550,
+        "num": 245454,
+        "word": "浪姐三公帮唱舞台",
+        "onboard_time": 1777366881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145772,
+        "num": 243589,
+        "word": "BFX下放Diable",
+        "onboard_time": 1777370059,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56712,
+        "num": 243235,
+        "word": "王骁田曦薇新剧定档",
+        "onboard_time": 1777344743,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36293,
+        "num": 240981,
+        "word": "王鹤棣西安投喂巧乐兹脆筒",
+        "onboard_time": 1777367060,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140878,
+        "num": 239376,
+        "word": "张凌赫上班仍显有点疼痛",
+        "onboard_time": 1777363941,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134450,
+        "num": 238396,
+        "word": "高三学生将槟榔伴侣滴入同桌饮水杯",
+        "onboard_time": 1777368502,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15642,
+        "num": 237761,
+        "word": "老师批注学生你的字和你一样丑",
+        "onboard_time": 1777371741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局4月28日召开会议#"
+    }
+  }
+}
