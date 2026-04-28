@@ -1,6 +1,6 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777388628872,
+  "endTime": 1777390383134,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 954583,
+      "num": 352480,
+      "word": "韩汶栩 第四个嫂子",
+      "onboard_time": 1777387343,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 926624,
       "num": 326922,
       "word": "桃黑黑腿太粗按到了电源键",
@@ -209,14 +217,6 @@
       "onboard_time": 1777354821,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894200,
-      "num": 352480,
-      "word": "韩汶栩 第四个嫂子",
-      "onboard_time": 1777387343,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 893328,
@@ -459,6 +459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 562222,
+      "num": 1773873,
+      "word": "腾讯客服回应朋友圈排版变了",
+      "onboard_time": 1777383794,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 560282,
       "num": 560282,
       "word": "曝张月团三公小考倒数第一",
@@ -481,6 +489,14 @@
       "onboard_time": 1777347021,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 526101,
+      "num": 347379,
+      "word": "订婚强奸案男子母亲说带他回归正常生活",
+      "onboard_time": 1777387403,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 523707,
@@ -521,14 +537,6 @@
       "onboard_time": 1777375041,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 500340,
-      "num": 347379,
-      "word": "订婚强奸案男子母亲说带他回归正常生活",
-      "onboard_time": 1777387403,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 498402,
@@ -585,14 +593,6 @@
       "onboard_time": 1777345102,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 466401,
-      "num": 1773873,
-      "word": "腾讯客服回应朋友圈排版变了",
-      "onboard_time": 1777383794,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 466101,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384863,
+      "num": 384863,
+      "word": "伪装 这都用炽阳神光吗",
+      "onboard_time": 1777388662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 379822,
       "num": 344161,
       "word": "变形计农村主人公丽姐港大研学",
@@ -763,20 +771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365340,
+      "num": 365340,
+      "word": "宗师正脸",
+      "onboard_time": 1777382181,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363594,
       "num": 363594,
       "word": "网红白冰驾驶百万级跑车探店",
       "onboard_time": 1777358062,
       "rank": 30,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 362563,
-      "num": 337414,
-      "word": "宗师正脸",
-      "onboard_time": 1777382181,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 357436,
@@ -923,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321863,
+      "num": 331015,
+      "word": "玉龙雪山景区报警",
+      "onboard_time": 1777386682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317372,
       "num": 317372,
       "word": "众星祝贺阿Sa结婚",
       "onboard_time": 1777352903,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316933,
+      "num": 325161,
+      "word": "男子许诺3万包养费骗4人发生关系",
+      "onboard_time": 1777384882,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314466,
@@ -1035,14 +1059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273266,
-      "num": 331015,
-      "word": "玉龙雪山景区报警",
-      "onboard_time": 1777386682,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269602,
       "num": 533757,
       "word": "DeepSeek还是最强国产AI吗",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1777376722,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256243,
+      "num": 327567,
+      "word": "何穗一把拉住易梦玲的手",
+      "onboard_time": 1777380742,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 253601,
@@ -1147,22 +1171,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 240729,
-      "num": 327567,
-      "word": "何穗一把拉住易梦玲的手",
-      "onboard_time": 1777380742,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 240131,
-      "num": 325161,
-      "word": "男子许诺3万包养费骗4人发生关系",
-      "onboard_time": 1777384882,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239230,
       "num": 203370,
       "word": "森碟模仿叶一茜亲亲",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1777373780,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229404,
+      "num": 229404,
+      "word": "张凌赫开朗一次换来终生内向",
+      "onboard_time": 1777388662,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 229068,
@@ -1241,6 +1257,22 @@
       "onboard_time": 1777376239,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217051,
+      "num": 349446,
+      "word": "爱情没有神话 秦雯",
+      "onboard_time": 1777388180,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216816,
+      "num": 314077,
+      "word": "普通人长见识最快的方式",
+      "onboard_time": 1777384462,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 214216,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1777371140,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 206883,
-      "num": 314077,
-      "word": "普通人长见识最快的方式",
-      "onboard_time": 1777384462,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 206079,
@@ -1403,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197964,
+      "num": 197964,
+      "word": "Hero战胜WG",
+      "onboard_time": 1777390342,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197716,
       "num": 452664,
       "word": "中国游客带甘蔗入境德国引围观",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1777288401,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192728,
-      "num": 349446,
-      "word": "爱情没有神话 秦雯",
-      "onboard_time": 1777388180,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 191699,
@@ -1475,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185511,
+      "num": 185511,
+      "word": "孟子义和檀健次换C位失败",
+      "onboard_time": 1777389321,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185261,
       "num": 212200,
       "word": "老莫坦言负债百万尚未还清",
@@ -1499,6 +1531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183187,
+      "num": 304381,
+      "word": "一笙报案",
+      "onboard_time": 1777386743,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 178303,
+      "num": 178303,
+      "word": "女子砍1元后发现是人力车夫又加价",
+      "onboard_time": 1777390042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177638,
       "num": 307596,
       "word": "乐道L80",
@@ -1515,12 +1563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176323,
-      "num": 304381,
-      "word": "一笙报案",
-      "onboard_time": 1777386743,
-      "rank": 49,
-      "category": "电竞"
+      "raw_hot": 171922,
+      "num": 220125,
+      "word": "妹妹冒用双胞胎姐姐证件",
+      "onboard_time": 1777389262,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170075,
@@ -1599,6 +1647,14 @@
       "num": 348332,
       "word": "怦然心动20岁冬季",
       "onboard_time": 1777349964,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158943,
+      "num": 287205,
+      "word": "张慧雯逆袭",
+      "onboard_time": 1777384822,
       "rank": 28,
       "category": "综艺"
     },
@@ -1963,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94048,
+      "num": 360253,
+      "word": "中国大五座SUV空间奇迹",
+      "onboard_time": 1777387162,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89363,
       "num": 263032,
       "word": "伊朗蚊子舰队令美军头疼",
@@ -2097,14 +2161,6 @@
       "onboard_time": 1777352784,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 69401,
-      "num": 360253,
-      "word": "中国大五座SUV空间奇迹",
-      "onboard_time": 1777387162,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 68254,
@@ -2283,6 +2339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44664,
+      "num": 1412345,
+      "word": "五一全社会流动预计超15亿人次",
+      "onboard_time": 1777380141,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44442,
       "num": 215525,
       "word": "按需消费才是真自由",
@@ -2315,14 +2379,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 42376,
-      "num": 1412345,
-      "word": "五一全社会流动预计超15亿人次",
-      "onboard_time": 1777380141,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39827,
       "num": 117022,
       "word": "多家客服回应大头瓶盖疑设计缺陷",
@@ -2337,6 +2393,22 @@
       "onboard_time": 1777311795,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38951,
+      "num": 189843,
+      "word": "高德地图登顶台湾APP下载榜",
+      "onboard_time": 1777389142,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37914,
+      "num": 319256,
+      "word": "官方通报老师批语你的字和你一样丑",
+      "onboard_time": 1777389861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37466,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1777370121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21201,
+      "num": 217906,
+      "word": "涉黑案牵出医生受贿捅刺耳膜造伪证",
+      "onboard_time": 1777390342,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20309,
