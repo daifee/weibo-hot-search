@@ -1,0 +1,410 @@
+{
+  "runTime": 1777417392457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766403,
+        "num": 1766403,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247249,
+        "num": 616527,
+        "word": "玉龙雪山景区报警",
+        "onboard_time": 1777386682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23068,
+        "num": 496261,
+        "word": "五一全社会流动预计超15亿人次",
+        "onboard_time": 1777380141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475794,
+        "num": 475794,
+        "word": "铁证 刘宇宁",
+        "onboard_time": 1777386861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434891,
+        "num": 434891,
+        "word": "情绪压力对一个人体态的影响",
+        "onboard_time": 1777381162,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265195,
+        "num": 265195,
+        "word": "第一次知道羽绒服能这么补",
+        "onboard_time": 1777395616,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213100,
+        "num": 213100,
+        "word": "普通人长见识最快的方式",
+        "onboard_time": 1777384462,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172038,
+        "num": 172038,
+        "word": "断崖式垮脸其实就是水毒",
+        "onboard_time": 1777369700,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171092,
+        "num": 171092,
+        "word": "阿联酋退出石油输出国组织",
+        "onboard_time": 1777380861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86538,
+        "num": 170362,
+        "word": "黄子弘凡 银河左岸出场顺序",
+        "onboard_time": 1777384221,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260275,
+        "num": 170294,
+        "word": "腾讯客服回应朋友圈排版变了",
+        "onboard_time": 1777383794,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253142,
+        "num": 170011,
+        "word": "天云",
+        "onboard_time": 1777391780,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169650,
+        "num": 169650,
+        "word": "不敢想i人住进去得有多幸福",
+        "onboard_time": 1777392199,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 163701,
+        "word": "小钰回应谣言",
+        "onboard_time": 1777376002,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154329,
+        "num": 154329,
+        "word": "33岁迪丽热巴状态",
+        "onboard_time": 1777402934,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142414,
+        "num": 142414,
+        "word": "出轨女被情人杀害案发细节曝光",
+        "onboard_time": 1777395616,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69611,
+        "num": 140977,
+        "word": "银河左岸音乐节演出时间表",
+        "onboard_time": 1777405154,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56278,
+        "num": 139626,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777377862,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86320,
+        "num": 137291,
+        "word": "员工厕所玩手机照片被发400人群",
+        "onboard_time": 1777383923,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83108,
+        "num": 135047,
+        "word": "变形计农村主人公丽姐港大研学",
+        "onboard_time": 1777379120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173416,
+        "num": 134428,
+        "word": "男子许诺3万包养费骗4人发生关系",
+        "onboard_time": 1777384882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159260,
+        "num": 130892,
+        "word": "建议所有女性多做力量训练",
+        "onboard_time": 1777395616,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130814,
+        "num": 130814,
+        "word": "韩汶栩 ZXY雨",
+        "onboard_time": 1777371981,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122891,
+        "num": 122891,
+        "word": "大冰谈人际交往的大忌",
+        "onboard_time": 1777369040,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115726,
+        "num": 115726,
+        "word": "欧冠联赛",
+        "onboard_time": 1777417338,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 115725,
+        "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+        "onboard_time": 1777387761,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5933,
+        "num": 115700,
+        "word": "吴宜泽战胜塞尔比",
+        "onboard_time": 1777416017,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55904,
+        "num": 115686,
+        "word": "还以为重播何以笙箫默了",
+        "onboard_time": 1777381222,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47151,
+        "num": 115670,
+        "word": "时代少年团的极致张力",
+        "onboard_time": 1777415356,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39318,
+        "num": 115654,
+        "word": "阿联酋",
+        "onboard_time": 1777380861,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93389,
+        "num": 115644,
+        "word": "Rookie说对不起身边的人",
+        "onboard_time": 1777400355,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109836,
+        "num": 115637,
+        "word": "阿联酋退出或是欧佩克终结的开始",
+        "onboard_time": 1777414636,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75732,
+        "num": 115624,
+        "word": "小狗唯一的朋友小猫去世了",
+        "onboard_time": 1777395616,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59888,
+        "num": 115610,
+        "word": "副校长在工作群发亲密信息后撤回",
+        "onboard_time": 1777381162,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65216,
+        "num": 115584,
+        "word": "妹妹冒用双胞胎姐姐证件",
+        "onboard_time": 1777389262,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62403,
+        "num": 115578,
+        "word": "单亲爸爸因长相血型查出儿子非亲生",
+        "onboard_time": 1777377262,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75089,
+        "num": 115558,
+        "word": "身体你饿了就直接吃我的脂肪",
+        "onboard_time": 1777397416,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57739,
+        "num": 115541,
+        "word": "女子砍1元后发现是人力车夫又加价",
+        "onboard_time": 1777390042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36666,
+        "num": 115531,
+        "word": "易烊千玺画的直立行走",
+        "onboard_time": 1777386142,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56102,
+        "num": 115512,
+        "word": "孙艺珍儿子像翻版小玄彬",
+        "onboard_time": 1777386743,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51393,
+        "num": 115510,
+        "word": "建议亲人去世一两个月后主动查负债",
+        "onboard_time": 1777366760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46883,
+        "num": 115487,
+        "word": "一种很新的解压方式",
+        "onboard_time": 1777396097,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45360,
+        "num": 115482,
+        "word": "Rookie 小钰没有威胁我",
+        "onboard_time": 1777403713,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44748,
+        "num": 115464,
+        "word": "乐道L80",
+        "onboard_time": 1777385842,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42312,
+        "num": 115443,
+        "word": "爱情没有神话 秦雯",
+        "onboard_time": 1777388180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41696,
+        "num": 115427,
+        "word": "男子5天连做5台手术惊呆医师",
+        "onboard_time": 1777378222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40678,
+        "num": 115413,
+        "word": "孙颖莎 红包",
+        "onboard_time": 1777378942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41002,
+        "num": 115404,
+        "word": "王者荣耀",
+        "onboard_time": 1777395616,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39292,
+        "num": 115392,
+        "word": "宗师正脸",
+        "onboard_time": 1777382181,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34332,
+        "num": 115378,
+        "word": "佳偶天成 念无双",
+        "onboard_time": 1777373780,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
