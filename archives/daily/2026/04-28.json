@@ -1,26 +1,34 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777334677596,
+  "endTime": 1777335235864,
   "band_list": [
     {
       "raw_hot": 3654817,
-      "num": 258832,
+      "num": 278726,
       "word": "杨幂脸被蒸汽眼罩烫伤了",
       "onboard_time": 1777290500,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1958572,
-      "num": 267900,
+      "raw_hot": 2174356,
+      "num": 282074,
       "word": "疑遭霸凌跳楼教师班级曾集体反抗",
       "onboard_time": 1777332739,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 933983,
-      "num": 262262,
+      "raw_hot": 1404836,
+      "num": 281015,
+      "word": "Rookie女友发文",
+      "onboard_time": 1777333579,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1085097,
+      "num": 280190,
       "word": "张凌赫被搀扶才能起来",
       "onboard_time": 1777332498,
       "rank": 11,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 877584,
+      "num": 1140413,
+      "word": "父亲去世12年银行突然来催债",
+      "onboard_time": 1777302861,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869967,
       "num": 869967,
       "word": "浪姐三公小考结果",
@@ -51,16 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 858015,
-      "num": 259339,
-      "word": "Rookie女友发文",
-      "onboard_time": 1777333579,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 716241,
-      "num": 252398,
+      "raw_hot": 770635,
+      "num": 273259,
       "word": "晚上10点睡和11点睡的三个区别",
       "onboard_time": 1777332377,
       "rank": 20,
@@ -83,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 666268,
-      "num": 1106602,
-      "word": "父亲去世12年银行突然来催债",
-      "onboard_time": 1777302861,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 605350,
+      "num": 277763,
+      "word": "买水果遭丈夫咒骂孕妇发声",
+      "onboard_time": 1777332739,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 560282,
+      "num": 560282,
+      "word": "曝张月团三公小考倒数第一",
+      "onboard_time": 1777333878,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 514874,
@@ -99,16 +115,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 475361,
-      "num": 257184,
-      "word": "买水果遭丈夫咒骂孕妇发声",
-      "onboard_time": 1777332739,
-      "rank": 15,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 466236,
-      "num": 256524,
+      "raw_hot": 503713,
+      "num": 276799,
       "word": "现货黄金",
       "onboard_time": 1777332377,
       "rank": 16,
@@ -124,19 +132,35 @@
     },
     {
       "raw_hot": 398831,
-      "num": 247267,
+      "num": 269663,
       "word": "乘客买到高铁08车01C座上车懵了",
       "onboard_time": 1777301843,
       "rank": 14,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396245,
+      "num": 288960,
+      "word": "姚安坠楼教师已脱离生命危险",
+      "onboard_time": 1777330458,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374471,
-      "num": 254247,
+      "num": 270157,
       "word": "山西重大刑案犯罪嫌疑人在钢厂工作",
       "onboard_time": 1777332439,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 368783,
+      "num": 272173,
+      "word": "女子自行吃多子丸一次怀4胞胎",
+      "onboard_time": 1777332439,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355883,
@@ -147,12 +171,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 349199,
-      "num": 250483,
-      "word": "女子自行吃多子丸一次怀4胞胎",
-      "onboard_time": 1777332439,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 344150,
+      "num": 271481,
+      "word": "保姆起诉叶璇",
+      "onboard_time": 1777333579,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 339963,
@@ -179,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332582,
-      "num": 288960,
-      "word": "姚安坠楼教师已脱离生命危险",
-      "onboard_time": 1777330458,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329959,
       "num": 213324,
       "word": "张凌赫林允吻戏路透",
@@ -203,36 +219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327590,
+      "num": 310997,
+      "word": "金莎媒体发布会孕相",
+      "onboard_time": 1777333520,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310015,
-      "num": 248924,
+      "num": 256642,
       "word": "身体严重缺觉的7个迹象",
       "onboard_time": 1777289600,
       "rank": 33,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 296193,
-      "num": 248430,
-      "word": "保姆起诉叶璇",
-      "onboard_time": 1777333579,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 295584,
-      "num": 295584,
+      "raw_hot": 301406,
+      "num": 301406,
       "word": "国乒到达伦敦",
       "onboard_time": 1777332377,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291490,
-      "num": 291490,
-      "word": "曝张月团三公小考倒数第一",
-      "onboard_time": 1777333878,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 284016,
@@ -243,12 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266826,
-      "num": 251484,
-      "word": "金莎媒体发布会孕相",
-      "onboard_time": 1777333520,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 251683,
+      "num": 273843,
+      "word": "俞敏洪曾称不再有主播独立成平台",
+      "onboard_time": 1777333398,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 251264,
+      "num": 251264,
+      "word": "芯片半导体涨疯了",
+      "onboard_time": 1777332799,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 247492,
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240485,
+      "num": 240485,
+      "word": "王楚然高度近视但绝不眯眼",
+      "onboard_time": 1777334420,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239230,
       "num": 203370,
       "word": "森碟模仿叶一茜亲亲",
       "onboard_time": 1777306458,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236390,
-      "num": 253674,
-      "word": "俞敏洪曾称不再有主播独立成平台",
-      "onboard_time": 1777333398,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 225116,
@@ -299,14 +315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220813,
-      "num": 220813,
-      "word": "芯片半导体涨疯了",
-      "onboard_time": 1777332799,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206004,
       "num": 206004,
       "word": "胖东来饺子皮包装提示被网友夸赞",
@@ -321,6 +329,14 @@
       "onboard_time": 1777292601,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202192,
+      "num": 211740,
+      "word": "高中生水杯被同学投放异物饮后抽搐",
+      "onboard_time": 1777297402,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201398,
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191387,
-      "num": 211740,
-      "word": "高中生水杯被同学投放异物饮后抽搐",
-      "onboard_time": 1777297402,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189018,
       "num": 568558,
       "word": "吴宜泽vs塞尔比",
@@ -379,28 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185261,
-      "num": 212200,
-      "word": "老莫坦言负债百万尚未还清",
-      "onboard_time": 1777296502,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175051,
-      "num": 175051,
+      "raw_hot": 187609,
+      "num": 187609,
       "word": "男子欠3.6万第三方公司要债6万",
       "onboard_time": 1777333398,
       "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172281,
-      "num": 172281,
-      "word": "王楚然高度近视但绝不眯眼",
-      "onboard_time": 1777334420,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 185261,
+      "num": 212200,
+      "word": "老莫坦言负债百万尚未还清",
+      "onboard_time": 1777296502,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168744,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145610,
+      "num": 142777,
+      "word": "曝时代少年团广州演唱会一人一个大屏",
+      "onboard_time": 1777333700,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144216,
       "num": 211360,
       "word": "男子酒后3次布洛芬全身95%溃烂",
@@ -428,11 +436,27 @@
     },
     {
       "raw_hot": 140930,
-      "num": 285614,
+      "num": 287219,
       "word": "莫德里奇赛季报销",
       "onboard_time": 1777309037,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133205,
+      "num": 133205,
+      "word": "小说女主也不过如此",
+      "onboard_time": 1777333821,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133057,
+      "num": 232282,
+      "word": "高市早苗称要为长期战争做准备",
+      "onboard_time": 1777301721,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132975,
@@ -443,7 +467,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130888,
+      "raw_hot": 131533,
       "num": 208277,
       "word": "女子本想到医院减肥却查出两种癌",
       "onboard_time": 1777304361,
@@ -465,14 +489,6 @@
       "onboard_time": 1777293443,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125543,
-      "num": 213082,
-      "word": "高市早苗称要为长期战争做准备",
-      "onboard_time": 1777301721,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122467,
@@ -523,20 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110334,
-      "num": 110334,
-      "word": "小说女主也不过如此",
-      "onboard_time": 1777333821,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108153,
-      "num": 207720,
+      "num": 231364,
       "word": "官方通报中学教师坠楼事件",
       "onboard_time": 1777299024,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106906,
+      "num": 117320,
+      "word": "虞书欣直播四十分钟总榜第二",
+      "onboard_time": 1777330818,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 106808,
@@ -547,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106641,
-      "num": 106641,
-      "word": "曝时代少年团广州演唱会一人一个大屏",
-      "onboard_time": 1777333700,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 106193,
+      "num": 106193,
+      "word": "美国给日本送应急原油仅够用0.4天",
+      "onboard_time": 1777334900,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105650,
@@ -576,14 +592,6 @@
       "word": "宋亚轩结尾彩蛋唱遗失的心跳",
       "onboard_time": 1777304423,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101463,
-      "num": 117320,
-      "word": "虞书欣直播四十分钟总榜第二",
-      "onboard_time": 1777330818,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -691,20 +699,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65717,
+      "num": 656475,
+      "word": "国产开源大模型下载量破100亿次",
+      "onboard_time": 1777293203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61235,
       "num": 117279,
       "word": "存储龙头一季度赚了38亿",
       "onboard_time": 1777326073,
       "rank": 47,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 60328,
-      "num": 640576,
-      "word": "国产开源大模型下载量破100亿次",
-      "onboard_time": 1777293203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58845,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 48032,
-      "num": 280816,
+      "num": 282764,
       "word": "领克900为什么要做这么大的五座",
       "onboard_time": 1777295963,
       "rank": 9,
@@ -787,8 +795,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26022,
-      "num": 275426,
+      "raw_hot": 26078,
+      "num": 283472,
       "word": "腾势D9把老车主宠上天了",
       "onboard_time": 1777287860,
       "rank": 48,
