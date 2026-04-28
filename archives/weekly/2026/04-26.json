@@ -1,7 +1,15 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777335235864,
+  "endTime": 1777349644910,
   "band_list": [
+    {
+      "raw_hot": 13788927,
+      "num": 13788927,
+      "word": "网红白冰偷税911.18万",
+      "onboard_time": 1777341920,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
     {
       "raw_hot": 11467206,
       "num": 11467206,
@@ -17,6 +25,14 @@
       "onboard_time": 1777127603,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 7152228,
+      "num": 7152228,
+      "word": "蔡卓妍结婚",
+      "onboard_time": 1777349244,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 4445287,
@@ -41,6 +57,14 @@
       "onboard_time": 1777179082,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2810471,
+      "num": 443333,
+      "word": "miumiu陷害女明星",
+      "onboard_time": 1777344081,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2766724,
@@ -91,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2117214,
+      "num": 2154754,
+      "word": "白冰回应偷税被查",
+      "onboard_time": 1777342942,
+      "rank": 1,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 2111443,
       "num": 757685,
       "word": "一袋糯米 全部暴露",
@@ -129,6 +161,14 @@
       "onboard_time": 1777297825,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1975772,
+      "num": 442546,
+      "word": "淘宝 毒品直接前体",
+      "onboard_time": 1777340480,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1712629,
@@ -193,6 +233,14 @@
       "onboard_time": 1777200680,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1500752,
+      "num": 442209,
+      "word": "白冰长期炫富引争议",
+      "onboard_time": 1777348343,
+      "rank": 12,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1485563,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 1404836,
-      "num": 281015,
+      "num": 439955,
       "word": "Rookie女友发文",
       "onboard_time": 1777333579,
       "rank": 13,
@@ -305,6 +353,14 @@
       "onboard_time": 1777182621,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1224397,
+      "num": 199120,
+      "word": "金莎否认怀孕",
+      "onboard_time": 1777344562,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 1222910,
@@ -401,6 +457,14 @@
       "onboard_time": 1777332498,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1080086,
+      "num": 1080086,
+      "word": "突然意识到人一定要流动起来",
+      "onboard_time": 1777344802,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1043942,
@@ -513,6 +577,14 @@
       "onboard_time": 1777179859,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 921153,
+      "num": 921153,
+      "word": "3只虾21块钱",
+      "onboard_time": 1777347742,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 918620,
@@ -707,6 +779,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 767681,
+      "num": 208905,
+      "word": "Rookie疑似遭小钰自杀威胁",
+      "onboard_time": 1777344322,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 765785,
+      "num": 765785,
+      "word": "境外组织大力资助网红煽动躺平",
+      "onboard_time": 1777335620,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756795,
       "num": 756795,
       "word": "羽毛球取消21分制",
@@ -721,6 +809,14 @@
       "onboard_time": 1777258340,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 746586,
+      "num": 441491,
+      "word": "小钰 Rookie",
+      "onboard_time": 1777336100,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 744890,
@@ -771,6 +867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 726447,
+      "num": 441073,
+      "word": "迪丽热巴直播捂肚强忍疼痛",
+      "onboard_time": 1777343843,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726141,
       "num": 478849,
       "word": "丁禹兮回应今年没那么火了",
@@ -801,6 +905,14 @@
       "onboard_time": 1777279821,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 715847,
+      "num": 440530,
+      "word": "张凌赫发语音报平安",
+      "onboard_time": 1777347382,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 713008,
@@ -865,6 +977,14 @@
       "onboard_time": 1777191141,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 669615,
+      "num": 207697,
+      "word": "曝和白敬亭演爆剧小鲜肉骗婚骗财",
+      "onboard_time": 1777345522,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 665474,
@@ -937,6 +1057,14 @@
       "onboard_time": 1777202360,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 625051,
+      "num": 206886,
+      "word": "曝张凌赫低血糖摔倒了",
+      "onboard_time": 1777339280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 615301,
@@ -1179,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531386,
+      "num": 531386,
+      "word": "37岁女子健身2年体重不降反增",
+      "onboard_time": 1777347021,
+      "rank": 6,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 524883,
       "num": 524883,
       "word": "A股一季度最赚钱公司曝光",
@@ -1363,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471542,
+      "num": 439335,
+      "word": "A股",
+      "onboard_time": 1777345102,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 469420,
       "num": 469420,
       "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
@@ -1384,6 +1528,14 @@
       "word": "女子不知怀孕医院上厕所时生二胎",
       "onboard_time": 1777190000,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459164,
+      "num": 459164,
+      "word": "96岁奶奶回应10年还清2077万债",
+      "onboard_time": 1777339160,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1419,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444095,
+      "num": 444095,
+      "word": "王骁田曦薇新剧定档",
+      "onboard_time": 1777344743,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442944,
       "num": 442944,
       "word": "王者敖隐新皮肤技能特效",
@@ -1433,6 +1593,14 @@
       "onboard_time": 1777249760,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439321,
+      "num": 439321,
+      "word": "误闯天家歌词到底啥意思",
+      "onboard_time": 1777337779,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 439103,
@@ -1563,6 +1731,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403502,
+      "num": 203628,
+      "word": "林志玲自曝和公婆住一起",
+      "onboard_time": 1777344622,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 402250,
+      "num": 205611,
+      "word": "Rookie的店倒闭小钰承担了几百万债务",
+      "onboard_time": 1777348702,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398831,
       "num": 269663,
       "word": "乘客买到高铁08车01C座上车懵了",
@@ -1691,6 +1875,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 374441,
+      "num": 202809,
+      "word": "蓝莓出轨",
+      "onboard_time": 1777346721,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 372942,
       "num": 372942,
       "word": "粉色榴莲",
@@ -1737,6 +1929,14 @@
       "onboard_time": 1777295361,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364604,
+      "num": 443937,
+      "word": "本科新增38种专业",
+      "onboard_time": 1777347742,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 364314,
@@ -1835,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343256,
+      "num": 227550,
+      "word": "张慧雯三公小考成绩",
+      "onboard_time": 1777348343,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343108,
       "num": 324904,
       "word": "者来女把陈瑶推到张月身边",
@@ -1889,6 +2097,22 @@
       "onboard_time": 1777245739,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331541,
+      "num": 195885,
+      "word": "林志玲凌晨3点给蔡康永发短信",
+      "onboard_time": 1777342520,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330712,
+      "num": 240485,
+      "word": "王楚然高度近视但绝不眯眼",
+      "onboard_time": 1777334420,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 329959,
@@ -2019,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305371,
+      "num": 305371,
+      "word": "杨洋新造型帅的太客观了",
+      "onboard_time": 1777345463,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302908,
       "num": 282189,
       "word": "外籍游客三亚旅游15元误付1.5万",
@@ -2033,6 +2265,14 @@
       "onboard_time": 1777332377,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300728,
+      "num": 200790,
+      "word": "老人从81岁到91岁还清2077万的债",
+      "onboard_time": 1777340359,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297882,
@@ -2065,6 +2305,14 @@
       "onboard_time": 1777159458,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 285353,
+      "num": 194803,
+      "word": "萨摩耶接住了小猫",
+      "onboard_time": 1777348161,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 283726,
@@ -2315,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248615,
+      "num": 193186,
+      "word": "光遇",
+      "onboard_time": 1777349543,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248595,
       "num": 473379,
       "word": "孙杨回应执着买金蛋",
@@ -2369,14 +2625,6 @@
       "onboard_time": 1777186639,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240485,
-      "num": 240485,
-      "word": "王楚然高度近视但绝不眯眼",
-      "onboard_time": 1777334420,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 239230,
@@ -2499,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222840,
+      "num": 222840,
+      "word": "油价又大涨了",
+      "onboard_time": 1777347141,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 222560,
       "num": 266971,
       "word": "王者荣耀农家乐",
@@ -2609,6 +2865,14 @@
       "onboard_time": 1777190240,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210270,
+      "num": 210270,
+      "word": "肖战十日终焉路透有个大黄蜂",
+      "onboard_time": 1777339042,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 209808,
@@ -3243,6 +3507,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 165250,
+      "num": 209919,
+      "word": "唐嫣赵又廷爱情没有神话吻戏",
+      "onboard_time": 1777349483,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163714,
       "num": 310709,
       "word": "王橹杰被路人盯害羞了",
@@ -3532,7 +3804,7 @@
     },
     {
       "raw_hot": 145610,
-      "num": 142777,
+      "num": 192224,
       "word": "曝时代少年团广州演唱会一人一个大屏",
       "onboard_time": 1777333700,
       "rank": 46,
@@ -3697,6 +3969,14 @@
       "onboard_time": 1777170920,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134231,
+      "num": 191540,
+      "word": "肖战十日终焉十二生肖石雕路透",
+      "onboard_time": 1777345581,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 133824,
@@ -3905,6 +4185,14 @@
       "onboard_time": 1777307597,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119315,
+      "num": 204635,
+      "word": "爆米花冰淇淋夯爆了",
+      "onboard_time": 1777345762,
+      "rank": 32,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 118964,
@@ -4451,6 +4739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69348,
+      "num": 187894,
+      "word": "三星阔折叠机模曝光",
+      "onboard_time": 1777349122,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68919,
       "num": 876669,
       "word": "国产开源大模型下载量破100亿次",
@@ -4553,6 +4849,22 @@
       "onboard_time": 1777120820,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63213,
+      "num": 346697,
+      "word": "防近视天花板OK镜为啥卖不动了",
+      "onboard_time": 1777348882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63152,
+      "num": 197453,
+      "word": "白鹿的洗衣新搭子",
+      "onboard_time": 1777349122,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 63065,
@@ -4771,6 +5083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42614,
+      "num": 317951,
+      "word": "公司私装摄像头偷拍女员工哺乳判赔",
+      "onboard_time": 1777349244,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42126,
       "num": 413330,
       "word": "明日方舟 卡游",
@@ -4971,6 +5291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25376,
+      "num": 1735095,
+      "word": "我国脑机接口加速接入现实",
+      "onboard_time": 1777349423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24597,
       "num": 250229,
       "word": "雨润加工厂被强拆1.4亿补偿款未兑付",
@@ -5033,6 +5361,14 @@
       "onboard_time": 1777289481,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 15245,
+      "num": 228539,
+      "word": "多个方向增开夜间高铁",
+      "onboard_time": 1777349183,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15240,
