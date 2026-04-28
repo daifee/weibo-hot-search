@@ -1,6 +1,6 @@
 {
   "startTime": 1777396324449,
-  "endTime": 1777403017259,
+  "endTime": 1777405886153,
   "band_list": [
     {
       "raw_hot": 2267864,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 43136,
-      "num": 43136,
+      "num": 48086,
       "word": "Rookie说对不起身边的人",
       "onboard_time": 1777400355,
       "rank": 29,
@@ -435,12 +435,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34555,
+      "num": 48092,
+      "word": "银河左岸音乐节演出时间表",
+      "onboard_time": 1777405154,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 30871,
+      "num": 48075,
+      "word": "吉时已到",
+      "onboard_time": 1777404854,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 29533,
+      "num": 48069,
+      "word": "Rookie 小钰没有威胁我",
+      "onboard_time": 1777403713,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 27433,
+      "num": 48050,
+      "word": "Rookie承认误导现女友",
+      "onboard_time": 1777404074,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27272,
       "num": 37268,
       "word": "33岁迪丽热巴状态",
       "onboard_time": 1777402934,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25546,
+      "num": 48019,
+      "word": "DiorCigale",
+      "onboard_time": 1777374500,
+      "rank": 47,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [

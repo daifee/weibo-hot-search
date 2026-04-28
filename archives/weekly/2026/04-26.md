@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/29 03:03:37
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/29 03:51:26
 </p>
 </blockquote>
 <p>
@@ -4995,6 +4995,12 @@ MPV欠大家一个防滚梁（热度：37466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E9%9F%B3%E4%B9%90%E8%8A%82%E6%BC%94%E5%87%BA%E6%97%B6%E9%97%B4%E8%A1%A8%23" target="weibo">
+银河左岸音乐节演出时间表（热度：34555）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C1%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%8E%A5%E8%A7%A6%E8%9C%97%E7%89%9B%E9%AB%98%E7%83%A7%E4%B8%8D%E6%AD%A2%23" target="weibo">
 广东1岁女童接触蜗牛高烧不止（热度：33747）
 </a>
@@ -5031,6 +5037,12 @@ Manus并购案为什么被禁止（热度：31118）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%97%B6%E5%B7%B2%E5%88%B0%23" target="weibo">
+吉时已到（热度：30871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23HR%E8%AE%A9%E6%B1%82%E8%81%8C%E8%80%85%E8%80%83%E8%99%91%E5%81%9A%E7%AC%AC%E4%B8%89%E8%80%85%23" target="weibo">
 HR让求职者考虑做第三者（热度：30079）
 </a>
@@ -5045,6 +5057,12 @@ LGDNBW晋级挑杯十六强（热度：29788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94%23" target="weibo">
 明日方舟可露希尔（热度：29570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%20%E5%B0%8F%E9%92%B0%E6%B2%A1%E6%9C%89%E5%A8%81%E8%83%81%E6%88%91%23" target="weibo">
+Rookie 小钰没有威胁我（热度：29533）
 </a>
 </li>
 
@@ -5069,6 +5087,12 @@ LGDNBW晋级挑杯十六强（热度：29788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E4%B8%BB%E5%8A%A8%E8%81%94%E7%B3%BB%E8%A2%AB%E6%89%A3%E9%BB%84%E9%87%91%E5%BD%93%E4%BA%8B%E4%BA%BA%23" target="weibo">
 公安机关主动联系被扣黄金当事人（热度：27557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%E6%89%BF%E8%AE%A4%E8%AF%AF%E5%AF%BC%E7%8E%B0%E5%A5%B3%E5%8F%8B%23" target="weibo">
+Rookie承认误导现女友（热度：27433）
 </a>
 </li>
 
