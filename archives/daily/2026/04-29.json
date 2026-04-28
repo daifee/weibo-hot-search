@@ -1,6 +1,6 @@
 {
   "startTime": 1777396324449,
-  "endTime": 1777405886153,
+  "endTime": 1777409310740,
   "band_list": [
     {
       "raw_hot": 2267864,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54862,
+      "num": 49827,
+      "word": "Rookie说对不起身边的人",
+      "onboard_time": 1777400355,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54821,
       "num": 210630,
       "word": "成都400家茶楼因无证泡花茶遭举报",
@@ -411,20 +419,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43136,
-      "num": 48086,
-      "word": "Rookie说对不起身边的人",
-      "onboard_time": 1777400355,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 38417,
       "num": 38417,
       "word": "CBA季后赛",
       "onboard_time": 1777401375,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37461,
+      "num": 48092,
+      "word": "银河左岸音乐节演出时间表",
+      "onboard_time": 1777405154,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 36008,
@@ -435,12 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34555,
-      "num": 48092,
-      "word": "银河左岸音乐节演出时间表",
-      "onboard_time": 1777405154,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 33473,
+      "num": 46766,
+      "word": "广州男篮战胜广东男篮",
+      "onboard_time": 1777400834,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31347,
+      "num": 46496,
+      "word": "Rookie 转述",
+      "onboard_time": 1777405514,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 30871,
@@ -451,7 +467,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29533,
+      "raw_hot": 30424,
       "num": 48069,
       "word": "Rookie 小钰没有威胁我",
       "onboard_time": 1777403713,
@@ -459,7 +475,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27433,
+      "raw_hot": 30185,
       "num": 48050,
       "word": "Rookie承认误导现女友",
       "onboard_time": 1777404074,
@@ -473,6 +489,14 @@
       "onboard_time": 1777402934,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26037,
+      "num": 46043,
+      "word": "Dior南京活动",
+      "onboard_time": 1777371140,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 25546,

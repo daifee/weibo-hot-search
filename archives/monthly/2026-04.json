@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777405886153,
+  "endTime": 1777409310740,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -62555,6 +62555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54862,
+      "num": 49827,
+      "word": "Rookie说对不起身边的人",
+      "onboard_time": 1777400355,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54856,
       "num": 154507,
       "word": "小米史上最大电池手机曝光",
@@ -65091,14 +65099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43136,
-      "num": 48086,
-      "word": "Rookie说对不起身边的人",
-      "onboard_time": 1777400355,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 43104,
       "num": 63377,
       "word": "特别害怕对一个人产生依赖",
@@ -66003,6 +66003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37461,
+      "num": 48092,
+      "word": "银河左岸音乐节演出时间表",
+      "onboard_time": 1777405154,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37455,
       "num": 78075,
       "word": "赵丽颖宣传八千里路云和月",
@@ -66539,14 +66547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34555,
-      "num": 48092,
-      "word": "银河左岸音乐节演出时间表",
-      "onboard_time": 1777405154,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 34508,
       "num": 592587,
       "word": "胡兵给荣耀机器人发走秀offer",
@@ -66761,6 +66761,14 @@
       "onboard_time": 1775187620,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33473,
+      "num": 46766,
+      "word": "广州男篮战胜广东男篮",
+      "onboard_time": 1777400834,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 33354,
@@ -67075,6 +67083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31347,
+      "num": 46496,
+      "word": "Rookie 转述",
+      "onboard_time": 1777405514,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31273,
       "num": 82704,
       "word": "澳门听到藏海传主题曲了",
@@ -67283,6 +67299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30424,
+      "num": 48069,
+      "word": "Rookie 小钰没有威胁我",
+      "onboard_time": 1777403713,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30414,
       "num": 188509,
       "word": "羊汤店后厨惊现老鼠上桌啃肉",
@@ -67313,6 +67337,14 @@
       "onboard_time": 1776270199,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30185,
+      "num": 48050,
+      "word": "Rookie承认误导现女友",
+      "onboard_time": 1777404074,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 30111,
@@ -67441,14 +67473,6 @@
       "onboard_time": 1777141635,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29533,
-      "num": 48069,
-      "word": "Rookie 小钰没有威胁我",
-      "onboard_time": 1777403713,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 29518,
@@ -67881,14 +67905,6 @@
       "onboard_time": 1775913442,
       "rank": 29,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 27433,
-      "num": 48050,
-      "word": "Rookie承认误导现女友",
-      "onboard_time": 1777404074,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 27428,

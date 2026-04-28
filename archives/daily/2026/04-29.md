@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/29 01:12:04 ~ 2026/04/29 03:51:26
+本榜单时间：2026/04/29 01:12:04 ~ 2026/04/29 04:48:30
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ KPL（热度：56852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%BA%BA%23" target="weibo">
+Rookie说对不起身边的人（热度：54862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD400%E5%AE%B6%E8%8C%B6%E6%A5%BC%E5%9B%A0%E6%97%A0%E8%AF%81%E6%B3%A1%E8%8A%B1%E8%8C%B6%E9%81%AD%E4%B8%BE%E6%8A%A5%23" target="weibo">
 成都400家茶楼因无证泡花茶遭举报（热度：54821）
 </a>
@@ -321,14 +327,14 @@ Hero战胜WG（热度：50991）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Rookie%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%BA%BA%23" target="weibo">
-Rookie说对不起身边的人（热度：43136）
+<a href="https://s.weibo.com/weibo?q=%23CBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23" target="weibo">
+CBA季后赛（热度：38417）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23CBA%E5%AD%A3%E5%90%8E%E8%B5%9B%23" target="weibo">
-CBA季后赛（热度：38417）
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E9%9F%B3%E4%B9%90%E8%8A%82%E6%BC%94%E5%87%BA%E6%97%B6%E9%97%B4%E8%A1%A8%23" target="weibo">
+银河左岸音乐节演出时间表（热度：37461）
 </a>
 </li>
 
@@ -339,8 +345,14 @@ CBA季后赛（热度：38417）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E9%9F%B3%E4%B9%90%E8%8A%82%E6%BC%94%E5%87%BA%E6%97%B6%E9%97%B4%E8%A1%A8%23" target="weibo">
-银河左岸音乐节演出时间表（热度：34555）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23" target="weibo">
+广州男篮战胜广东男篮（热度：33473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%20%E8%BD%AC%E8%BF%B0%23" target="weibo">
+Rookie 转述（热度：31347）
 </a>
 </li>
 
@@ -352,19 +364,25 @@ CBA季后赛（热度：38417）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%20%E5%B0%8F%E9%92%B0%E6%B2%A1%E6%9C%89%E5%A8%81%E8%83%81%E6%88%91%23" target="weibo">
-Rookie 小钰没有威胁我（热度：29533）
+Rookie 小钰没有威胁我（热度：30424）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%E6%89%BF%E8%AE%A4%E8%AF%AF%E5%AF%BC%E7%8E%B0%E5%A5%B3%E5%8F%8B%23" target="weibo">
-Rookie承认误导现女友（热度：27433）
+Rookie承认误导现女友（热度：30185）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2333%E5%B2%81%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8A%B6%E6%80%81%23" target="weibo">
 33岁迪丽热巴状态（热度：27272）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Dior%E5%8D%97%E4%BA%AC%E6%B4%BB%E5%8A%A8%23" target="weibo">
+Dior南京活动（热度：26037）
 </a>
 </li>
 
