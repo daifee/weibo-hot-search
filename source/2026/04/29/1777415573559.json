@@ -1,0 +1,410 @@
+{
+  "runTime": 1777415573559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164511,
+        "num": 1164511,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226441,
+        "num": 415292,
+        "word": "情绪压力对一个人体态的影响",
+        "onboard_time": 1777381162,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15839,
+        "num": 336515,
+        "word": "五一全社会流动预计超15亿人次",
+        "onboard_time": 1777380141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405748,
+        "num": 308894,
+        "word": "铁证 刘宇宁",
+        "onboard_time": 1777386861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142075,
+        "num": 142075,
+        "word": "普通人长见识最快的方式",
+        "onboard_time": 1777384462,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139531,
+        "num": 139531,
+        "word": "玉龙雪山景区报警",
+        "onboard_time": 1777386682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137848,
+        "num": 137848,
+        "word": "不敢想i人住进去得有多幸福",
+        "onboard_time": 1777392199,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 131289,
+        "word": "第一次知道羽绒服能这么补",
+        "onboard_time": 1777395616,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121276,
+        "num": 121276,
+        "word": "阿联酋退出石油输出国组织",
+        "onboard_time": 1777380861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124738,
+        "num": 118187,
+        "word": "单亲爸爸因长相血型查出儿子非亲生",
+        "onboard_time": 1777377262,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157209,
+        "num": 116334,
+        "word": "天云",
+        "onboard_time": 1777391780,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109011,
+        "num": 109011,
+        "word": "小钰回应谣言",
+        "onboard_time": 1777376002,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105730,
+        "num": 105730,
+        "word": "出轨女被情人杀害案发细节曝光",
+        "onboard_time": 1777395616,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102004,
+        "num": 102004,
+        "word": "断崖式垮脸其实就是水毒",
+        "onboard_time": 1777369700,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90341,
+        "num": 90341,
+        "word": "腾讯客服回应朋友圈排版变了",
+        "onboard_time": 1777383794,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67459,
+        "num": 90172,
+        "word": "员工厕所玩手机照片被发400人群",
+        "onboard_time": 1777383923,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63290,
+        "num": 89923,
+        "word": "身体你饿了就直接吃我的脂肪",
+        "onboard_time": 1777397416,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61509,
+        "num": 89512,
+        "word": "银河左岸音乐节演出时间表",
+        "onboard_time": 1777405154,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60129,
+        "num": 89123,
+        "word": "变形计农村主人公丽姐港大研学",
+        "onboard_time": 1777379120,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57365,
+        "num": 88593,
+        "word": "副校长在工作群发亲密信息后撤回",
+        "onboard_time": 1777381162,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129499,
+        "num": 87992,
+        "word": "男子许诺3万包养费骗4人发生关系",
+        "onboard_time": 1777384882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96921,
+        "num": 87711,
+        "word": "建议所有女性多做力量训练",
+        "onboard_time": 1777395616,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87596,
+        "num": 87596,
+        "word": "女子砍1元后发现是人力车夫又加价",
+        "onboard_time": 1777390042,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74948,
+        "num": 87560,
+        "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+        "onboard_time": 1777387761,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56538,
+        "num": 87551,
+        "word": "小狗唯一的朋友小猫去世了",
+        "onboard_time": 1777395616,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1025,
+        "num": 87496,
+        "word": "体坛周报CBA奖项公布",
+        "onboard_time": 1777415056,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54431,
+        "num": 87454,
+        "word": "Rookie说对不起身边的人",
+        "onboard_time": 1777400355,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54054,
+        "num": 87427,
+        "word": "大冰谈人际交往的大忌",
+        "onboard_time": 1777369040,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53192,
+        "num": 87377,
+        "word": "男子5天连做5台手术惊呆医师",
+        "onboard_time": 1777378222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48775,
+        "num": 87332,
+        "word": "阿联酋退出或是欧佩克终结的开始",
+        "onboard_time": 1777414636,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42969,
+        "num": 87294,
+        "word": "还以为重播何以笙箫默了",
+        "onboard_time": 1777381222,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40002,
+        "num": 87262,
+        "word": "妹妹冒用双胞胎姐姐证件",
+        "onboard_time": 1777389262,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39460,
+        "num": 87246,
+        "word": "孙颖莎 红包",
+        "onboard_time": 1777378942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38689,
+        "num": 87175,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777377862,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38119,
+        "num": 87154,
+        "word": "黄子弘凡 银河左岸出场顺序",
+        "onboard_time": 1777384221,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36237,
+        "num": 87132,
+        "word": "时代少年团的极致张力",
+        "onboard_time": 1777415356,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36159,
+        "num": 87091,
+        "word": "Rookie承认误导现女友",
+        "onboard_time": 1777404074,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35712,
+        "num": 87050,
+        "word": "王者荣耀",
+        "onboard_time": 1777395616,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33951,
+        "num": 86983,
+        "word": "Rookie 小钰没有威胁我",
+        "onboard_time": 1777403713,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33904,
+        "num": 86979,
+        "word": "易烊千玺画的直立行走",
+        "onboard_time": 1777386142,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32439,
+        "num": 86920,
+        "word": "一种很新的解压方式",
+        "onboard_time": 1777396097,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31612,
+        "num": 86887,
+        "word": "乐道L80",
+        "onboard_time": 1777385842,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30482,
+        "num": 86831,
+        "word": "阿联酋",
+        "onboard_time": 1777380861,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28838,
+        "num": 86796,
+        "word": "宗师正脸",
+        "onboard_time": 1777382181,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28215,
+        "num": 86776,
+        "word": "广州男篮战胜广东男篮",
+        "onboard_time": 1777400834,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27083,
+        "num": 86731,
+        "word": "建议亲人去世一两个月后主动查负债",
+        "onboard_time": 1777366760,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26644,
+        "num": 86690,
+        "word": "Rookie 转述",
+        "onboard_time": 1777405514,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25764,
+        "num": 86657,
+        "word": "比亚迪一季度净利润40.85亿",
+        "onboard_time": 1777392379,
+        "rank": 47,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 24492,
+        "num": 86623,
+        "word": "CBA季后赛",
+        "onboard_time": 1777401375,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86594,
+        "num": 86594,
+        "word": "33岁迪丽热巴状态",
+        "onboard_time": 1777402934,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
