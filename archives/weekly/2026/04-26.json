@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777379305005,
+  "endTime": 1777388628872,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -209,6 +209,14 @@
       "onboard_time": 1777340480,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1951342,
+      "num": 1121372,
+      "word": "铁证 刘宇宁",
+      "onboard_time": 1777386861,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1712629,
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1154880,
+      "num": 510426,
+      "word": "任敏被粉丝催着减肥",
+      "onboard_time": 1777377082,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1125043,
       "num": 363796,
       "word": "为什么先救万斯",
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894200,
+      "num": 352480,
+      "word": "韩汶栩 第四个嫂子",
+      "onboard_time": 1777387343,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 893328,
       "num": 494153,
       "word": "韩汶栩 在红树林吹号的鹦鹉鱼",
@@ -753,6 +777,14 @@
       "onboard_time": 1777257140,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 848629,
+      "num": 2404203,
+      "word": "阿联酋退出石油输出国组织",
+      "onboard_time": 1777380861,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 844265,
@@ -905,14 +937,6 @@
       "onboard_time": 1777335620,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758937,
-      "num": 510426,
-      "word": "任敏被粉丝催着减肥",
-      "onboard_time": 1777377082,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 756795,
@@ -1203,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 633939,
+      "num": 633939,
+      "word": "黄子弘凡 银河左岸出场顺序",
+      "onboard_time": 1777384221,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 633256,
       "num": 377808,
       "word": "原来这是肺不好的表现",
@@ -1248,6 +1280,14 @@
       "word": "曝张凌赫低血糖摔倒了",
       "onboard_time": 1777339280,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 616461,
+      "num": 369244,
+      "word": "于文文被蔡卓妍结婚吓一跳",
+      "onboard_time": 1777385543,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1611,12 +1651,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 503611,
+      "num": 483966,
+      "word": "迪奥副总裁亲自迎接迪丽热巴",
+      "onboard_time": 1777375041,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 502017,
       "num": 502017,
       "word": "曾沛慈耳返",
       "onboard_time": 1777253481,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500340,
+      "num": 347379,
+      "word": "订婚强奸案男子母亲说带他回归正常生活",
+      "onboard_time": 1777387403,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499470,
@@ -1691,20 +1747,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 483793,
+      "num": 447010,
+      "word": "任敏回应胖了",
+      "onboard_time": 1777378043,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483564,
       "num": 475465,
       "word": "白冰上海豪宅大到可骑车兜圈",
       "onboard_time": 1777350326,
       "rank": 38,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 482279,
-      "num": 483966,
-      "word": "迪奥副总裁亲自迎接迪丽热巴",
-      "onboard_time": 1777375041,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 481332,
@@ -1785,6 +1841,14 @@
       "onboard_time": 1777130304,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466401,
+      "num": 1773873,
+      "word": "腾讯客服回应朋友圈排版变了",
+      "onboard_time": 1777383794,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 466125,
@@ -1987,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417977,
+      "num": 417977,
+      "word": "律师回应Rookie道歉",
+      "onboard_time": 1777385243,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 417740,
       "num": 361562,
       "word": "千里江山图",
@@ -2155,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379822,
+      "num": 344161,
+      "word": "变形计农村主人公丽姐港大研学",
+      "onboard_time": 1777379120,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378554,
       "num": 436835,
       "word": "余承东检讨称以前做车不重视外观",
@@ -2283,6 +2363,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 362563,
+      "num": 337414,
+      "word": "宗师正脸",
+      "onboard_time": 1777382181,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 362176,
       "num": 454708,
       "word": "张慧雯跑了一整个舞台去拥抱者来女",
@@ -2363,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349409,
+      "num": 339896,
+      "word": "副校长在工作群发亲密信息后撤回",
+      "onboard_time": 1777381162,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 348993,
       "num": 370222,
       "word": "张慧雯三公小考成绩",
@@ -2417,6 +2513,14 @@
       "onboard_time": 1777372941,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 338120,
+      "num": 501111,
+      "word": "单亲爸爸因长相血型查出儿子非亲生",
+      "onboard_time": 1777377262,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337333,
@@ -2555,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316554,
-      "num": 447010,
-      "word": "任敏回应胖了",
-      "onboard_time": 1777378043,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315964,
       "num": 315964,
       "word": "恰逢雨连天",
@@ -2633,6 +2729,14 @@
       "onboard_time": 1777246217,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 307683,
+      "num": 334975,
+      "word": "孙艺珍儿子像翻版小玄彬",
+      "onboard_time": 1777386743,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 306722,
@@ -2772,7 +2876,7 @@
     },
     {
       "raw_hot": 279251,
-      "num": 279251,
+      "num": 311998,
       "word": "张桂源 吉隆坡",
       "onboard_time": 1777378823,
       "rank": 34,
@@ -2785,6 +2889,14 @@
       "onboard_time": 1777264040,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277739,
+      "num": 332847,
+      "word": "情绪压力对一个人体态的影响",
+      "onboard_time": 1777381162,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 276248,
@@ -2801,6 +2913,14 @@
       "onboard_time": 1777275860,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273266,
+      "num": 331015,
+      "word": "玉龙雪山景区报警",
+      "onboard_time": 1777386682,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272045,
@@ -2899,14 +3019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261468,
-      "num": 501111,
-      "word": "单亲爸爸因长相血型查出儿子非亲生",
-      "onboard_time": 1777377262,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260666,
       "num": 440190,
       "word": "黄灿灿进步好大",
@@ -2963,6 +3075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253601,
+      "num": 367428,
+      "word": "阿联酋",
+      "onboard_time": 1777380861,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253307,
       "num": 253307,
       "word": "男大学生压力大喝农药10天才就医",
@@ -3009,6 +3129,14 @@
       "onboard_time": 1777130782,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250778,
+      "num": 329499,
+      "word": "员工厕所玩手机照片被发400人群",
+      "onboard_time": 1777383923,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 249410,
@@ -3107,6 +3235,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 240729,
+      "num": 327567,
+      "word": "何穗一把拉住易梦玲的手",
+      "onboard_time": 1777380742,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240131,
+      "num": 325161,
+      "word": "男子许诺3万包养费骗4人发生关系",
+      "onboard_time": 1777384882,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239230,
       "num": 203370,
       "word": "森碟模仿叶一茜亲亲",
@@ -3203,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229068,
+      "num": 319687,
+      "word": "WG对战Hero",
+      "onboard_time": 1777381582,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228085,
       "num": 228085,
       "word": "陈律自曝痞幼是他前女友",
@@ -3265,6 +3417,14 @@
       "onboard_time": 1777362381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220992,
+      "num": 365230,
+      "word": "刘宇宁读门徒电影微博",
+      "onboard_time": 1777385601,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 220850,
@@ -3379,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212210,
+      "num": 373002,
+      "word": "还以为重播何以笙箫默了",
+      "onboard_time": 1777381222,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211732,
       "num": 211732,
       "word": "霍思燕淡出演艺圈后深耕训犬领域",
@@ -3475,12 +3643,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206883,
+      "num": 314077,
+      "word": "普通人长见识最快的方式",
+      "onboard_time": 1777384462,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206079,
+      "num": 444641,
+      "word": "男子5天连做5台手术惊呆医师",
+      "onboard_time": 1777378222,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206004,
       "num": 206004,
       "word": "胖东来饺子皮包装提示被网友夸赞",
       "onboard_time": 1777333398,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205417,
+      "num": 362701,
+      "word": "李小冉清唱惊鸿一面",
+      "onboard_time": 1777382782,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 204404,
@@ -3521,6 +3713,14 @@
       "onboard_time": 1777289600,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201685,
+      "num": 343269,
+      "word": "印度男挖出亡姐遗骸扛到银行取款",
+      "onboard_time": 1777380502,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 201581,
@@ -3665,6 +3865,14 @@
       "onboard_time": 1777261820,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192728,
+      "num": 349446,
+      "word": "爱情没有神话 秦雯",
+      "onboard_time": 1777388180,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 192619,
@@ -3915,6 +4123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 177638,
+      "num": 307596,
+      "word": "乐道L80",
+      "onboard_time": 1777385842,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177632,
       "num": 123736,
       "word": "王濛吐槽李小冉",
@@ -3995,6 +4211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176323,
+      "num": 304381,
+      "word": "一笙报案",
+      "onboard_time": 1777386743,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176054,
       "num": 456765,
       "word": "如果朱志鑫演宋威龙陈都灵的孩子",
@@ -4009,14 +4233,6 @@
       "onboard_time": 1777213102,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175151,
-      "num": 444641,
-      "word": "男子5天连做5台手术惊呆医师",
-      "onboard_time": 1777378222,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174615,
@@ -4081,6 +4297,14 @@
       "onboard_time": 1777173200,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170075,
+      "num": 340467,
+      "word": "易烊千玺画的直立行走",
+      "onboard_time": 1777386142,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 169485,
@@ -4273,14 +4497,6 @@
       "onboard_time": 1777177399,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161419,
-      "num": 161419,
-      "word": "变形计农村主人公丽姐港大研学",
-      "onboard_time": 1777379120,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160795,
@@ -4619,6 +4835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140643,
+      "num": 321117,
+      "word": "订婚强奸案母亲想帮儿子找份工作",
+      "onboard_time": 1777387881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139808,
       "num": 139808,
       "word": "闪耀暖暖",
@@ -4921,6 +5145,14 @@
       "onboard_time": 1777114341,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119901,
+      "num": 358146,
+      "word": "男子5天连做5台手术",
+      "onboard_time": 1777388063,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119764,
@@ -5499,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76334,
+      "num": 355693,
+      "word": "广西通报初三学生在校坠亡",
+      "onboard_time": 1777387461,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 75517,
       "num": 361858,
       "word": "老外踮脚看中国智造",
@@ -5611,6 +5851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69401,
+      "num": 360253,
+      "word": "中国大五座SUV空间奇迹",
+      "onboard_time": 1777387162,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68919,
       "num": 876669,
       "word": "国产开源大模型下载量破100亿次",
@@ -5705,6 +5953,14 @@
       "onboard_time": 1777116022,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64440,
+      "num": 316142,
+      "word": "李斌L80发布会做饭遛狗铺床",
+      "onboard_time": 1777387702,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 63892,
@@ -6033,6 +6289,14 @@
       "onboard_time": 1777349244,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 42376,
+      "num": 1412345,
+      "word": "五一全社会流动预计超15亿人次",
+      "onboard_time": 1777380141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42126,
@@ -6448,6 +6712,9 @@
     },
     {
       "word": "#中共中央政治局4月28日召开会议#"
+    },
+    {
+      "word": "#中央政治局召开会议#"
     }
   ]
 }

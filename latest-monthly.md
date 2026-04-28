@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 20:28:25
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 23:03:48
 </p>
 </blockquote>
 <p>
@@ -791,6 +791,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E5%85%A8%E4%BD%93%E4%BA%BA%E6%B0%91%E7%A5%9D%E8%B4%BA%E8%83%9C%E5%88%A9%23" target="weibo">
 伊朗向全体人民祝贺胜利（热度：1959242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%81%E8%AF%81%20%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
+铁证 刘宇宁（热度：1951342）
 </a>
 </li>
 
@@ -2211,6 +2217,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%82%AC%E7%9D%80%E5%87%8F%E8%82%A5%23" target="weibo">
+任敏被粉丝催着减肥（热度：1154880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BE%BE%E6%88%90%E4%BA%AC%E6%B2%AA%E9%AB%98%E9%80%9F%E5%8F%AA%E5%85%85%E4%B8%80%E6%AC%A1%E7%94%B5%23" target="weibo">
 雷军达成京沪高速只充一次电（热度：1152037）
 </a>
@@ -3303,6 +3315,12 @@ C罗不喝牛奶（热度：908871）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B1%B6%E6%A0%A9%20%E7%AC%AC%E5%9B%9B%E4%B8%AA%E5%AB%82%E5%AD%90%23" target="weibo">
+韩汶栩 第四个嫂子（热度：894200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%8B%B1%E8%AF%AD%E6%B0%B4%E5%B9%B3%20%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%23" target="weibo">
 我英语水平 乌兰图雅（热度：893867）
 </a>
@@ -3593,6 +3611,12 @@ SEVENTEEN全员续约（热度：850827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%A5%B3%E5%AD%A9%E6%84%BF%E6%84%8F%E5%9D%90%E7%89%A2%E6%8D%A2%E9%80%80%E6%AC%BE%23" target="weibo">
 挪用1700万女孩愿意坐牢换退款（热度：849326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87%23" target="weibo">
+阿联酋退出石油输出国组织（热度：848629）
 </a>
 </li>
 
@@ -4367,12 +4391,6 @@ Rookie疑似遭小钰自杀威胁（热度：767681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E6%88%9B%E7%BA%B3%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23" target="weibo">
 金智秀戛纳获奖感言（热度：760168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%82%AC%E7%9D%80%E5%87%8F%E8%82%A5%23" target="weibo">
-任敏被粉丝催着减肥（热度：758937）
 </a>
 </li>
 
@@ -5751,6 +5769,12 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E5%87%BA%E5%9C%BA%E9%A1%BA%E5%BA%8F%23" target="weibo">
+黄子弘凡 银河左岸出场顺序（热度：633939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%98%AF%E8%82%BA%E4%B8%8D%E5%A5%BD%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
 原来这是肺不好的表现（热度：633256）
 </a>
@@ -5967,6 +5991,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%A2%AB%E8%94%A1%E5%8D%93%E5%A6%8D%E7%BB%93%E5%A9%9A%E5%90%93%E4%B8%80%E8%B7%B3%23" target="weibo">
+于文文被蔡卓妍结婚吓一跳（热度：616461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E7%9C%9F%E7%9A%84%E5%9B%9E%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%BA%86%23" target="weibo">
 许昕真的回国家队了（热度：616309）
 </a>
@@ -5981,36 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%BD%8D%E4%B8%BB%E6%92%AD%E7%A6%BB%E8%81%8C%23" target="weibo">
 俞敏洪回应多位主播离职（热度：615301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23" target="weibo">
-专家称黄金完成了阶段性的历史使命（热度：614428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E4%BB%81%E8%AF%B4EXO%E6%98%AF%E5%85%AD%E4%BA%BA%E7%BB%84%23" target="weibo">
-金钟仁说EXO是六人组（热度：613660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%A4%A7%E5%84%BF%E5%AD%90%E5%92%8C%E5%A5%B3%E7%94%9F%E9%80%9B%E8%A1%97%23" target="weibo">
-沙溢大儿子和女生逛街（热度：613612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%9C%B0%E5%9B%BE%E5%8F%91%E5%B8%83%E6%98%AF%E9%A6%96%E4%B8%AA%E9%87%8D%E5%A4%A7%E9%94%99%E8%AF%AF%23" target="weibo">
-库克称苹果地图发布是首个重大错误（热度：612257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%23" target="weibo">
-2026中国大学排名（热度：612166）
 </a>
 </li>
 
@@ -6503,6 +6503,12 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%804%E6%9C%8828%E6%97%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
 #中共中央政治局4月28日召开会议#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23%23" target="weibo">
+#中央政治局召开会议#
 </a>
 </li>
 
