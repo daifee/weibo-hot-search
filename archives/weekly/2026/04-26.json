@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777396324449,
+  "endTime": 1777398811342,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -137,6 +137,14 @@
       "onboard_time": 1777209140,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2267864,
+      "num": 2267864,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 2174356,
@@ -3523,6 +3531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216178,
+      "num": 214992,
+      "word": "宗师的镜来了",
+      "onboard_time": 1777396157,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216148,
       "num": 216148,
       "word": "离家近工资低vs离家远工资高",
@@ -3931,6 +3947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191716,
+      "num": 214652,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191699,
       "num": 214279,
       "word": "美依礼芽回应歌手AI海报",
@@ -3977,14 +4001,6 @@
       "onboard_time": 1777196000,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188849,
-      "num": 214992,
-      "word": "宗师的镜来了",
-      "onboard_time": 1777396157,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 188449,
@@ -4473,14 +4489,6 @@
       "onboard_time": 1777345581,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163757,
-      "num": 214652,
-      "word": "不敢想i人住进去得有多幸福",
-      "onboard_time": 1777392199,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 163714,
@@ -5659,6 +5667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 91495,
+      "num": 212591,
+      "word": "小狗唯一的朋友小猫去世了",
+      "onboard_time": 1777395616,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90888,
       "num": 90888,
       "word": "徐洁儿乌兰图雅唱言不由衷",
@@ -5843,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78120,
-      "num": 212591,
-      "word": "小狗唯一的朋友小猫去世了",
-      "onboard_time": 1777395616,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 77498,
       "num": 167459,
       "word": "陈赫你们一会不要笑啊",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1777301482,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 72521,
-      "num": 212164,
-      "word": "朋友圈改版",
-      "onboard_time": 1777396218,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 72440,
@@ -6251,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57337,
+      "num": 162681,
+      "word": "一种很新的解压方式",
+      "onboard_time": 1777396097,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56852,
       "num": 210737,
       "word": "KPL",
@@ -6425,6 +6433,14 @@
       "onboard_time": 1777274000,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45535,
+      "num": 160562,
+      "word": "身体你饿了就直接吃我的脂肪",
+      "onboard_time": 1777397416,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 44664,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/29 01:12:04
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/29 01:53:31
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@ miumiu陷害女明星（热度：2876659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
 歌手2026（热度：2388024）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
+朋友圈改版（热度：2267864）
 </a>
 </li>
 
@@ -2655,6 +2661,12 @@ WG对战Hero（热度：229068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%B8%88%E7%9A%84%E9%95%9C%E6%9D%A5%E4%BA%86%23" target="weibo">
+宗师的镜来了（热度：216178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%AE%B6%E8%BF%91%E5%B7%A5%E8%B5%84%E4%BD%8Evs%E7%A6%BB%E5%AE%B6%E8%BF%9C%E5%B7%A5%E8%B5%84%E9%AB%98%23" target="weibo">
 离家近工资低vs离家远工资高（热度：216148）
 </a>
@@ -2961,6 +2973,12 @@ Jennie欧美风（热度：192619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E6%83%B3i%E4%BA%BA%E4%BD%8F%E8%BF%9B%E5%8E%BB%E5%BE%97%E6%9C%89%E5%A4%9A%E5%B9%B8%E7%A6%8F%23" target="weibo">
+不敢想i人住进去得有多幸福（热度：191716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23" target="weibo">
 美依礼芽回应歌手AI海报（热度：191699）
 </a>
@@ -2993,12 +3011,6 @@ Jennie欧美风（热度：192619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E4%B9%98%E9%A3%8E%E4%B8%89%E5%85%AC%E9%98%9F%E9%95%BF%23" target="weibo">
 曾沛慈乘风三公队长（热度：188931）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%B8%88%E7%9A%84%E9%95%9C%E6%9D%A5%E4%BA%86%23" target="weibo">
-宗师的镜来了（热度：188849）
 </a>
 </li>
 
@@ -3365,12 +3377,6 @@ looper结婚（热度：166661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96%E7%9F%B3%E9%9B%95%E8%B7%AF%E9%80%8F%23" target="weibo">
 肖战十日终焉十二生肖石雕路透（热度：163872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E6%83%B3i%E4%BA%BA%E4%BD%8F%E8%BF%9B%E5%8E%BB%E5%BE%97%E6%9C%89%E5%A4%9A%E5%B9%B8%E7%A6%8F%23" target="weibo">
-不敢想i人住进去得有多幸福（热度：163757）
 </a>
 </li>
 
@@ -4257,6 +4263,12 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%94%AF%E4%B8%80%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%B0%8F%E7%8C%AB%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
+小狗唯一的朋友小猫去世了（热度：91495）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B4%81%E5%84%BF%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E5%94%B1%E8%A8%80%E4%B8%8D%E7%94%B1%E8%A1%B7%23" target="weibo">
 徐洁儿乌兰图雅唱言不由衷（热度：90888）
 </a>
@@ -4395,12 +4407,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%94%AF%E4%B8%80%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%B0%8F%E7%8C%AB%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
-小狗唯一的朋友小猫去世了（热度：78120）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%BD%A0%E4%BB%AC%E4%B8%80%E4%BC%9A%E4%B8%8D%E8%A6%81%E7%AC%91%E5%95%8A%23" target="weibo">
 陈赫你们一会不要笑啊（热度：77498）
 </a>
@@ -4475,12 +4481,6 @@ iPhoneFold疯狂秀刀法（热度：103982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%AD%94%E5%93%A5%E6%8C%91%E6%9D%AF%E4%B8%8A%E5%9C%BA%23" target="weibo">
 狂魔哥挑杯上场（热度：72612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
-朋友圈改版（热度：72521）
 </a>
 </li>
 
@@ -4701,6 +4701,12 @@ Jiejie赛后道歉（热度：69903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%A7%A3%E5%8E%8B%E6%96%B9%E5%BC%8F%23" target="weibo">
+一种很新的解压方式（热度：57337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
 KPL（热度：56852）
 </a>
@@ -4829,6 +4835,12 @@ KPL（热度：56852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E8%BF%917%E5%A4%A9%E9%94%80%E5%94%AE%E9%A2%9D%E8%BF%9C%E8%B6%85%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%23" target="weibo">
 与辉同行近7天销售额远超东方甄选（热度：45709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%BD%A0%E9%A5%BF%E4%BA%86%E5%B0%B1%E7%9B%B4%E6%8E%A5%E5%90%83%E6%88%91%E7%9A%84%E8%84%82%E8%82%AA%23" target="weibo">
+身体你饿了就直接吃我的脂肪（热度：45535）
 </a>
 </li>
 

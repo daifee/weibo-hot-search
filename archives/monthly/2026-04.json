@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777396324449,
+  "endTime": 1777398811342,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -753,6 +753,14 @@
       "onboard_time": 1777122563,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2267864,
+      "num": 2267864,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 2264804,
@@ -26227,6 +26235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216178,
+      "num": 214992,
+      "word": "宗师的镜来了",
+      "onboard_time": 1777396157,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216150,
       "num": 754806,
       "word": "男子靠AI开一人公司年营收达150万",
@@ -29075,6 +29091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191716,
+      "num": 214652,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191699,
       "num": 214279,
       "word": "美依礼芽回应歌手AI海报",
@@ -29497,14 +29521,6 @@
       "onboard_time": 1775451742,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188849,
-      "num": 214992,
-      "word": "宗师的镜来了",
-      "onboard_time": 1777396157,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 188812,
@@ -32921,14 +32937,6 @@
       "onboard_time": 1776919101,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163757,
-      "num": 214652,
-      "word": "不敢想i人住进去得有多幸福",
-      "onboard_time": 1777392199,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 163714,
@@ -48747,6 +48755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91495,
+      "num": 212591,
+      "word": "小狗唯一的朋友小猫去世了",
+      "onboard_time": 1777395616,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91485,
       "num": 91485,
       "word": "武汉暴雨大桥再现雨帘瀑布",
@@ -54067,14 +54083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78120,
-      "num": 212591,
-      "word": "小狗唯一的朋友小猫去世了",
-      "onboard_time": 1777395616,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78106,
       "num": 78106,
       "word": "王腾祝小米16周岁生日快乐",
@@ -56689,14 +56697,6 @@
       "onboard_time": 1775908402,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72521,
-      "num": 212164,
-      "word": "朋友圈改版",
-      "onboard_time": 1777396218,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 72504,
@@ -62019,6 +62019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57337,
+      "num": 162681,
+      "word": "一种很新的解压方式",
+      "onboard_time": 1777396097,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57321,
       "num": 69313,
       "word": "肖战新剧将登央视",
@@ -64569,6 +64577,14 @@
       "onboard_time": 1776924682,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45535,
+      "num": 160562,
+      "word": "身体你饿了就直接吃我的脂肪",
+      "onboard_time": 1777397416,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 45522,
