@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 12:39:18
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 15:15:01
 </p>
 </blockquote>
 <p>
@@ -293,6 +293,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E6%AD%8C%E6%89%8B2026%23" target="weibo">
 侯明昊 歌手2026（热度：3103476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BA%9A%E9%A3%9E%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+王亚飞 迪丽热巴（热度：3076202）
 </a>
 </li>
 
@@ -1713,6 +1719,12 @@ Angelababy郑恺陈赫李晨合影（热度：1317443）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%82%93%E4%B8%BA%E8%BF%AA%E5%A5%A5%E7%94%9F%E5%9B%BE%23" target="weibo">
+迪丽热巴邓为迪奥生图（热度：1302518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%20%E5%8D%97%E7%BE%8E%23" target="weibo">
 花少8 南美（热度：1301280）
 </a>
@@ -2187,6 +2199,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%9714%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23" target="weibo">
+云南14岁男孩杀害女同学被判无期（热度：1148322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 鹿晗工作室（热度：1146133）
 </a>
@@ -2489,6 +2507,12 @@ jisoo的哥哥已婚（热度：1121209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E8%89%BA%E4%BA%BA%E5%BA%93%20%E8%87%AA%E6%8E%98%E5%9D%9F%E5%A2%93%23" target="weibo">
 AI艺人库 自掘坟墓（热度：1054358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%88%E6%9D%80%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+强奸出狱后又杀人男子被执行死刑（热度：1054356）
 </a>
 </li>
 
@@ -3183,6 +3207,12 @@ C罗不喝牛奶（热度：908871）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%87%E8%81%8C%E6%9C%88%E8%96%AA6%E4%B8%87%E5%90%8E%E5%BC%80%E5%A7%8B%E5%AE%B6%E6%9A%B4%23" target="weibo">
+男子升职月薪6万后开始家暴（热度：905069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23" target="weibo">
 哪吒汽车创始人已成老赖（热度：904721）
 </a>
@@ -3491,6 +3521,12 @@ TEN李永钦不续约（热度：868167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%9A%E7%95%8C%E9%A2%84%E5%AE%9A%E6%95%B0%E9%87%8F%23" target="weibo">
 肖战尚界预定数量（热度：854990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%83%B3%E5%87%8F%E8%82%A5%E7%9A%84%E4%BA%BA%E5%8E%BB%E4%B8%80%E8%B6%9F%E4%BA%91%E5%8D%97%23" target="weibo">
+建议想减肥的人去一趟云南（热度：853801）
 </a>
 </li>
 
@@ -5133,6 +5169,12 @@ CT的辐射每一次都是带来隐患（热度：687071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%AC%A3%E6%BD%BC%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8F%E8%94%A1%E5%8D%93%E5%A6%8D%23" target="weibo">
+钟欣潼发文祝福蔡卓妍（热度：676373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23" target="weibo">
 特朗普对鲤鱼宣战（热度：676018）
 </a>
@@ -5969,48 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%23" target="weibo">
 尚公主剧宣（热度：604812）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%88%B0%E5%8F%AA%E8%8A%B1%E4%BA%86%E5%85%AD%E5%88%86%E9%92%9F%23" target="weibo">
-一小时不到只花了六分钟（热度：604180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3%23" target="weibo">
-王安宇见面会官宣（热度：603161）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%81%E8%8A%B1%E7%AF%AE%23" target="weibo">
-张杰回应张凌赫送花篮（热度：602425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%9D%8E%E9%9B%A8%E6%A1%90%23" target="weibo">
-薛之谦 李雨桐（热度：602096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E4%B8%8B%E5%B7%B4%23" target="weibo">
-张元英下巴（热度：602094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%20%E6%9C%89%E6%B2%A1%E6%9C%89%E4%B8%8D%E5%90%B5%E6%9E%B6%E7%9A%84%E8%8A%82%E7%9B%AE%23" target="weibo">
-孙丞潇 有没有不吵架的节目（热度：602066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%84%BF%E5%9B%9E%E9%9F%A9%23" target="weibo">
-韩警方称骚扰中国游客日本男子愿回韩（热度：600508）
 </a>
 </li>
 

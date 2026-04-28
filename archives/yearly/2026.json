@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777351158547,
+  "endTime": 1777360501214,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1467,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3076202,
+      "num": 432177,
+      "word": "王亚飞 迪丽热巴",
+      "onboard_time": 1777359501,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3070536,
       "num": 2189900,
       "word": "红包",
@@ -2392,14 +2400,6 @@
       "word": "撒贝宁 章子怡",
       "onboard_time": 1775370381,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2228590,
-      "num": 489705,
-      "word": "曝金智秀的哥哥家暴",
-      "onboard_time": 1776490101,
-      "rank": 10,
       "category": "艺人"
     }
   ],

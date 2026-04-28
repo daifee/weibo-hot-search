@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/28 12:39:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/28 15:15:01
 </p>
 </blockquote>
 <p>
@@ -1113,6 +1113,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BA%9A%E9%A3%9E%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+王亚飞 迪丽热巴（热度：3076202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8C%85%23" target="weibo">
 红包（热度：3070536）
 </a>
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%20%E7%AB%A0%E5%AD%90%E6%80%A1%23" target="weibo">
 撒贝宁 章子怡（热度：2229781）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%87%91%E6%99%BA%E7%A7%80%E7%9A%84%E5%93%A5%E5%93%A5%E5%AE%B6%E6%9A%B4%23" target="weibo">
-曝金智秀的哥哥家暴（热度：2228590）
 </a>
 </li>
 
