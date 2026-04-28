@@ -1,6 +1,6 @@
 {
   "startTime": 1777308508586,
-  "endTime": 1777378338260,
+  "endTime": 1777379305005,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -59,7 +59,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2518309,
+      "raw_hot": 2672283,
       "num": 497847,
       "word": "韩汶栩 ZXY雨",
       "onboard_time": 1777371981,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 758937,
+      "num": 510426,
+      "word": "任敏被粉丝催着减肥",
+      "onboard_time": 1777377082,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746586,
       "num": 441491,
       "word": "小钰 Rookie",
@@ -307,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715366,
+      "num": 715366,
+      "word": "大冰谈人际交往的大忌",
+      "onboard_time": 1777369040,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 713008,
       "num": 780476,
       "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
       "onboard_time": 1777309218,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 703629,
-      "num": 659804,
-      "word": "大冰谈人际交往的大忌",
-      "onboard_time": 1777369040,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 686458,
@@ -369,6 +377,14 @@
       "onboard_time": 1777360940,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 638283,
+      "num": 513031,
+      "word": "小钰 体面",
+      "onboard_time": 1777377621,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 627863,
@@ -467,6 +483,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 488268,
+      "num": 488268,
+      "word": "订婚强奸案男子将出狱",
+      "onboard_time": 1777377981,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 486348,
+      "num": 934917,
+      "word": "网红白冰偷逃近千万为何没坐牢",
+      "onboard_time": 1777360761,
+      "rank": 17,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 483564,
       "num": 475465,
       "word": "白冰上海豪宅大到可骑车兜圈",
@@ -475,12 +507,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 476815,
-      "num": 934917,
-      "word": "网红白冰偷逃近千万为何没坐牢",
-      "onboard_time": 1777360761,
-      "rank": 17,
-      "category": "民生新闻,网红"
+      "raw_hot": 482279,
+      "num": 483966,
+      "word": "迪奥副总裁亲自迎接迪丽热巴",
+      "onboard_time": 1777375041,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 474682,
@@ -499,27 +531,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 471385,
-      "num": 510426,
-      "word": "任敏被粉丝催着减肥",
-      "onboard_time": 1777377082,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 466101,
       "num": 347784,
       "word": "Rookie的店倒闭小钰承担了几百万债务",
       "onboard_time": 1777348702,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 464926,
-      "num": 513031,
-      "word": "小钰 体面",
-      "onboard_time": 1777377621,
-      "rank": 14,
       "category": "电竞"
     },
     {
@@ -643,20 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386557,
-      "num": 483966,
-      "word": "迪奥副总裁亲自迎接迪丽热巴",
-      "onboard_time": 1777375041,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 374471,
       "num": 270157,
       "word": "山西重大刑案犯罪嫌疑人在钢厂工作",
       "onboard_time": 1777332439,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 369488,
+      "num": 517024,
+      "word": "杀害女同学14岁男生听到判决面无表情",
+      "onboard_time": 1777378043,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368783,
@@ -721,6 +737,14 @@
       "onboard_time": 1777372941,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337333,
+      "num": 337333,
+      "word": "孙颖莎 红包",
+      "onboard_time": 1777378942,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 336575,
@@ -803,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316554,
+      "num": 447010,
+      "word": "任敏回应胖了",
+      "onboard_time": 1777378043,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314466,
       "num": 480028,
       "word": "赵丽颖同款提拉米苏",
@@ -859,8 +891,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291129,
+      "num": 492880,
+      "word": "黄金跌透了吗",
+      "onboard_time": 1777377862,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284349,
-      "num": 482236,
+      "num": 497941,
       "word": "朱珠钟汉良床戏",
       "onboard_time": 1777377142,
       "rank": 26,
@@ -875,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279251,
+      "num": 279251,
+      "word": "张桂源 吉隆坡",
+      "onboard_time": 1777378823,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269602,
       "num": 533757,
       "word": "DeepSeek还是最强国产AI吗",
@@ -883,7 +931,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258045,
+      "raw_hot": 268495,
       "num": 530697,
       "word": "爱情没有神话开播",
       "onboard_time": 1777377981,
@@ -891,12 +939,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256360,
-      "num": 492880,
-      "word": "黄金跌透了吗",
-      "onboard_time": 1777377862,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 262815,
+      "num": 457284,
+      "word": "独居以后我的冰箱",
+      "onboard_time": 1777376722,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261468,
+      "num": 501111,
+      "word": "单亲爸爸因长相血型查出儿子非亲生",
+      "onboard_time": 1777377262,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251683,
@@ -995,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227072,
-      "num": 475713,
-      "word": "杀害女同学14岁男生听到判决面无表情",
-      "onboard_time": 1777378043,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225116,
       "num": 225116,
       "word": "十日终焉首次外景路透",
@@ -1027,7 +1075,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217592,
+      "raw_hot": 220850,
       "num": 458488,
       "word": "范丞丞陈立农牵手演戏",
       "onboard_time": 1777376239,
@@ -1044,11 +1092,19 @@
     },
     {
       "raw_hot": 213737,
-      "num": 488801,
+      "num": 510401,
       "word": "赵心童vs墨菲",
       "onboard_time": 1777372760,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212537,
+      "num": 513700,
+      "word": "王安宇见面会抢票",
+      "onboard_time": 1777378761,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 212224,
@@ -1091,20 +1147,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 207433,
-      "num": 461450,
-      "word": "订婚强奸案男子将出狱",
-      "onboard_time": 1777377981,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 206004,
       "num": 206004,
       "word": "胖东来饺子皮包装提示被网友夸赞",
       "onboard_time": 1777333398,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204391,
+      "num": 486220,
+      "word": "DiorCigale",
+      "onboard_time": 1777374500,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 202251,
@@ -1144,14 +1200,6 @@
       "word": "真正的独居",
       "onboard_time": 1777295902,
       "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 198622,
-      "num": 457284,
-      "word": "独居以后我的冰箱",
-      "onboard_time": 1777376722,
-      "rank": 36,
       "category": "情感"
     },
     {
@@ -1219,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185568,
-      "num": 447010,
-      "word": "任敏回应胖了",
-      "onboard_time": 1777378043,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185261,
       "num": 212200,
       "word": "老莫坦言负债百万尚未还清",
@@ -1243,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185163,
+      "num": 429924,
+      "word": "孙艺珍45岁线下状态",
+      "onboard_time": 1777376481,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176411,
       "num": 156323,
       "word": "少年行凶前曾在女生自拍下评论漂亮",
@@ -1251,19 +1299,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174198,
-      "num": 486220,
-      "word": "DiorCigale",
-      "onboard_time": 1777374500,
-      "rank": 24,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 173687,
+      "raw_hot": 175151,
       "num": 444641,
       "word": "男子5天连做5台手术惊呆医师",
       "onboard_time": 1777378222,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169213,
+      "num": 448330,
+      "word": "男子出轨后3次设计谋杀孕妻",
+      "onboard_time": 1777377682,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1275,12 +1323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168350,
-      "num": 501111,
-      "word": "单亲爸爸因长相血型查出儿子非亲生",
-      "onboard_time": 1777377262,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 167574,
+      "num": 167574,
+      "word": "疑融脸肖战王一博短剧3天播放破百万",
+      "onboard_time": 1777375400,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167365,
@@ -1323,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161419,
+      "num": 161419,
+      "word": "变形计农村主人公丽姐港大研学",
+      "onboard_time": 1777379120,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159267,
       "num": 348332,
       "word": "怦然心动20岁冬季",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1777368321,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158503,
-      "num": 429924,
-      "word": "孙艺珍45岁线下状态",
-      "onboard_time": 1777376481,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 155639,
@@ -1531,6 +1579,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 117139,
+      "num": 524336,
+      "word": "央视曝健身房割韭菜",
+      "onboard_time": 1777377682,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 116231,
       "num": 207214,
       "word": "女子剖腹产后突发脑梗致双眼失明",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1777355541,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113461,
+      "num": 260632,
+      "word": "英伟达晒黄仁勋樊振东合照",
+      "onboard_time": 1777371140,
+      "rank": 31,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 110974,
@@ -1667,22 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91668,
-      "num": 448330,
-      "word": "男子出轨后3次设计谋杀孕妻",
-      "onboard_time": 1777377682,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89561,
-      "num": 260632,
-      "word": "英伟达晒黄仁勋樊振东合照",
-      "onboard_time": 1777371140,
-      "rank": 31,
-      "category": "互联网,体育"
-    },
-    {
       "raw_hot": 89363,
       "num": 263032,
       "word": "伊朗蚊子舰队令美军头疼",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1777361242,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73795,
-      "num": 524336,
-      "word": "央视曝健身房割韭菜",
-      "onboard_time": 1777377682,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 73511,
@@ -1955,6 +1995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49803,
+      "num": 493029,
+      "word": "男子从缅甸电诈园逃生怕狗追涂牛粪",
+      "onboard_time": 1777378701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49440,
       "num": 411463,
       "word": "富二代们的外包妈妈",
@@ -2091,12 +2139,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 24737,
-      "num": 667420,
+      "raw_hot": 25893,
+      "num": 754333,
       "word": "我国服务业增加值实现三连跳",
       "onboard_time": 1777370121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20309,
+      "num": 185181,
+      "word": "品牌方回应火腿肠吃出4条蛆",
+      "onboard_time": 1777378881,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18843,

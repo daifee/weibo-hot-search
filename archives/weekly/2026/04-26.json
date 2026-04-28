@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777378338260,
+  "endTime": 1777379305005,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2518309,
+      "raw_hot": 2672283,
       "num": 497847,
       "word": "韩汶栩 ZXY雨",
       "onboard_time": 1777371981,
@@ -907,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 758937,
+      "num": 510426,
+      "word": "任敏被粉丝催着减肥",
+      "onboard_time": 1777377082,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756795,
       "num": 756795,
       "word": "羽毛球取消21分制",
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715366,
+      "num": 715366,
+      "word": "大冰谈人际交往的大忌",
+      "onboard_time": 1777369040,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 713008,
       "num": 780476,
       "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1777264582,
       "rank": 4,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 703629,
-      "num": 659804,
-      "word": "大冰谈人际交往的大忌",
-      "onboard_time": 1777369040,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 695682,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1777212861,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638283,
+      "num": 513031,
+      "word": "小钰 体面",
+      "onboard_time": 1777377621,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 633256,
@@ -1651,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 488268,
+      "num": 488268,
+      "word": "订婚强奸案男子将出狱",
+      "onboard_time": 1777377981,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 486399,
       "num": 380493,
       "word": "特朗普说他妻子躲得更快",
@@ -1659,12 +1683,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 486348,
+      "num": 934917,
+      "word": "网红白冰偷逃近千万为何没坐牢",
+      "onboard_time": 1777360761,
+      "rank": 17,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 483564,
       "num": 475465,
       "word": "白冰上海豪宅大到可骑车兜圈",
       "onboard_time": 1777350326,
       "rank": 38,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 482279,
+      "num": 483966,
+      "word": "迪奥副总裁亲自迎接迪丽热巴",
+      "onboard_time": 1777375041,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 481332,
@@ -1715,14 +1755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 476815,
-      "num": 934917,
-      "word": "网红白冰偷逃近千万为何没坐牢",
-      "onboard_time": 1777360761,
-      "rank": 17,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 474682,
       "num": 474682,
       "word": "王骁田曦薇新剧定档",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1777345102,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 471385,
-      "num": 510426,
-      "word": "任敏被粉丝催着减肥",
-      "onboard_time": 1777377082,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 469420,
@@ -1776,14 +1800,6 @@
       "word": "Rookie的店倒闭小钰承担了几百万债务",
       "onboard_time": 1777348702,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 464926,
-      "num": 513031,
-      "word": "小钰 体面",
-      "onboard_time": 1777377621,
-      "rank": 14,
       "category": "电竞"
     },
     {
@@ -2131,14 +2147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386557,
-      "num": 483966,
-      "word": "迪奥副总裁亲自迎接迪丽热巴",
-      "onboard_time": 1777375041,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 384710,
       "num": 417007,
       "word": "佳偶天成 修仙剧",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1777125746,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 369488,
+      "num": 517024,
+      "word": "杀害女同学14岁男生听到判决面无表情",
+      "onboard_time": 1777378043,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368783,
@@ -2403,6 +2419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337333,
+      "num": 337333,
+      "word": "孙颖莎 红包",
+      "onboard_time": 1777378942,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336575,
       "num": 336575,
       "word": "成毅V中文版",
@@ -2528,6 +2552,14 @@
       "word": "众星祝贺阿Sa结婚",
       "onboard_time": 1777352903,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316554,
+      "num": 447010,
+      "word": "任敏回应胖了",
+      "onboard_time": 1777378043,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2683,8 +2715,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291129,
+      "num": 492880,
+      "word": "黄金跌透了吗",
+      "onboard_time": 1777377862,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284349,
-      "num": 482236,
+      "num": 497941,
       "word": "朱珠钟汉良床戏",
       "onboard_time": 1777377142,
       "rank": 26,
@@ -2729,6 +2769,14 @@
       "onboard_time": 1777211001,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279251,
+      "num": 279251,
+      "word": "张桂源 吉隆坡",
+      "onboard_time": 1777378823,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 277909,
@@ -2803,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268495,
+      "num": 530697,
+      "word": "爱情没有神话开播",
+      "onboard_time": 1777377981,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268100,
       "num": 477943,
       "word": "轰炸中伊朗国宝来到中国",
@@ -2833,6 +2889,22 @@
       "onboard_time": 1777117641,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262815,
+      "num": 457284,
+      "word": "独居以后我的冰箱",
+      "onboard_time": 1777376722,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261468,
+      "num": 501111,
+      "word": "单亲爸爸因长相血型查出儿子非亲生",
+      "onboard_time": 1777377262,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260666,
@@ -2875,28 +2947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258045,
-      "num": 530697,
-      "word": "爱情没有神话开播",
-      "onboard_time": 1777377981,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256613,
       "num": 256613,
       "word": "AG确认晋级挑杯十六强",
       "onboard_time": 1777233313,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256360,
-      "num": 492880,
-      "word": "黄金跌透了吗",
-      "onboard_time": 1777377862,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 254023,
@@ -3163,14 +3219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227072,
-      "num": 475713,
-      "word": "杀害女同学14岁男生听到判决面无表情",
-      "onboard_time": 1777378043,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226241,
       "num": 226241,
       "word": "牢A谈白宫晚宴枪击事件",
@@ -3219,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220850,
+      "num": 458488,
+      "word": "范丞丞陈立农牵手演戏",
+      "onboard_time": 1777376239,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220827,
       "num": 318966,
       "word": "官员诱骗未成年人吸毒是现代版的杀良冒功",
@@ -3241,14 +3297,6 @@
       "onboard_time": 1777295361,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217592,
-      "num": 458488,
-      "word": "范丞丞陈立农牵手演戏",
-      "onboard_time": 1777376239,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 217550,
@@ -3308,11 +3356,19 @@
     },
     {
       "raw_hot": 213737,
-      "num": 488801,
+      "num": 510401,
       "word": "赵心童vs墨菲",
       "onboard_time": 1777372760,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212537,
+      "num": 513700,
+      "word": "王安宇见面会抢票",
+      "onboard_time": 1777378761,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 212224,
@@ -3411,14 +3467,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 207433,
-      "num": 461450,
-      "word": "订婚强奸案男子将出狱",
-      "onboard_time": 1777377981,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 207027,
       "num": 207027,
       "word": "陈瑶下班戴者来女送的镯子",
@@ -3441,6 +3489,14 @@
       "onboard_time": 1777271599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204391,
+      "num": 486220,
+      "word": "DiorCigale",
+      "onboard_time": 1777374500,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 203211,
@@ -3513,14 +3569,6 @@
       "onboard_time": 1777259118,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198622,
-      "num": 457284,
-      "word": "独居以后我的冰箱",
-      "onboard_time": 1777376722,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 198526,
@@ -3763,14 +3811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185568,
-      "num": 447010,
-      "word": "任敏回应胖了",
-      "onboard_time": 1777378043,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185304,
       "num": 282129,
       "word": "李宗伟说15分制让自己有复出可能",
@@ -3785,6 +3825,14 @@
       "onboard_time": 1777349483,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185163,
+      "num": 429924,
+      "word": "孙艺珍45岁线下状态",
+      "onboard_time": 1777376481,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 184997,
@@ -3963,20 +4011,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175151,
+      "num": 444641,
+      "word": "男子5天连做5台手术惊呆医师",
+      "onboard_time": 1777378222,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174615,
       "num": 174615,
       "word": "小罗伯特肯尼迪被拍到抛下妻子逃走",
       "onboard_time": 1777263860,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174198,
-      "num": 486220,
-      "word": "DiorCigale",
-      "onboard_time": 1777374500,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 173931,
@@ -4001,14 +4049,6 @@
       "onboard_time": 1777287860,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173687,
-      "num": 444641,
-      "word": "男子5天连做5台手术惊呆医师",
-      "onboard_time": 1777378222,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173489,
@@ -4051,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169213,
+      "num": 448330,
+      "word": "男子出轨后3次设计谋杀孕妻",
+      "onboard_time": 1777377682,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168744,
       "num": 168744,
       "word": "斯诺克",
@@ -4067,14 +4115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168350,
-      "num": 501111,
-      "word": "单亲爸爸因长相血型查出儿子非亲生",
-      "onboard_time": 1777377262,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168317,
       "num": 298108,
       "word": "张凌赫被工作人员扶下车",
@@ -4089,6 +4129,14 @@
       "onboard_time": 1777198041,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167574,
+      "num": 167574,
+      "word": "疑融脸肖战王一博短剧3天播放破百万",
+      "onboard_time": 1777375400,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167365,
@@ -4227,6 +4275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161419,
+      "num": 161419,
+      "word": "变形计农村主人公丽姐港大研学",
+      "onboard_time": 1777379120,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160795,
       "num": 160795,
       "word": "最舒服的关系是聊天搭子",
@@ -4257,14 +4313,6 @@
       "onboard_time": 1777368321,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158503,
-      "num": 429924,
-      "word": "孙艺珍45岁线下状态",
-      "onboard_time": 1777376481,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 158307,
@@ -4915,6 +4963,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 117139,
+      "num": 524336,
+      "word": "央视曝健身房割韭菜",
+      "onboard_time": 1777377682,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 116156,
       "num": 116156,
       "word": "干西红柿你吃过吗",
@@ -5001,6 +5057,14 @@
       "onboard_time": 1777203260,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113461,
+      "num": 260632,
+      "word": "英伟达晒黄仁勋樊振东合照",
+      "onboard_time": 1777371140,
+      "rank": 31,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 112636,
@@ -5251,28 +5315,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 91668,
-      "num": 448330,
-      "word": "男子出轨后3次设计谋杀孕妻",
-      "onboard_time": 1777377682,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90888,
       "num": 90888,
       "word": "徐洁儿乌兰图雅唱言不由衷",
       "onboard_time": 1777247358,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89561,
-      "num": 260632,
-      "word": "英伟达晒黄仁勋樊振东合照",
-      "onboard_time": 1777371140,
-      "rank": 31,
-      "category": "互联网,体育"
     },
     {
       "raw_hot": 89363,
@@ -5497,14 +5545,6 @@
       "onboard_time": 1777210041,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73795,
-      "num": 524336,
-      "word": "央视曝健身房割韭菜",
-      "onboard_time": 1777377682,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 73511,
@@ -5891,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49803,
+      "num": 493029,
+      "word": "男子从缅甸电诈园逃生怕狗追涂牛粪",
+      "onboard_time": 1777378701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49440,
       "num": 411463,
       "word": "富二代们的外包妈妈",
@@ -6235,8 +6283,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24737,
-      "num": 667420,
+      "raw_hot": 25893,
+      "num": 754333,
       "word": "我国服务业增加值实现三连跳",
       "onboard_time": 1777370121,
       "rank": 2,
@@ -6289,6 +6337,14 @@
       "onboard_time": 1777290680,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20309,
+      "num": 185181,
+      "word": "品牌方回应火腿肠吃出4条蛆",
+      "onboard_time": 1777378881,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18843,
