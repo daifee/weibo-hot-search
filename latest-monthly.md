@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 15:15:01
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 15:36:15
 </p>
 </blockquote>
 <p>
@@ -1341,6 +1341,12 @@ sbti测试是啥（热度：1488588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%9714%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23" target="weibo">
+云南14岁男孩杀害女同学被判无期（热度：1460198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A0%20%E5%85%A8%E5%91%98%E4%B8%8B%E5%9C%BA%23" target="weibo">
 楚乔传 全员下场（热度：1458149）
 </a>
@@ -2195,12 +2201,6 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%BA%8C%E5%85%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
 浪姐二公直播（热度：1150955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%9714%E5%B2%81%E7%94%B7%E5%AD%A9%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23" target="weibo">
-云南14岁男孩杀害女同学被判无期（热度：1148322）
 </a>
 </li>
 
@@ -5661,6 +5661,12 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BB%84%E6%B2%B9%E7%BE%8E%E5%BC%8F%20%E5%85%A8%E5%86%B0%E5%8E%BB%E6%B0%B4%23" target="weibo">
+小黄油美式 全冰去水（热度：634453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%98%AF%E8%82%BA%E4%B8%8D%E5%A5%BD%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
 原来这是肺不好的表现（热度：633256）
 </a>
@@ -5895,6 +5901,12 @@ TOP直播（热度：622036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E4%BB%81%E8%AF%B4EXO%E6%98%AF%E5%85%AD%E4%BA%BA%E7%BB%84%23" target="weibo">
+金钟仁说EXO是六人组（热度：613660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%A4%A7%E5%84%BF%E5%AD%90%E5%92%8C%E5%A5%B3%E7%94%9F%E9%80%9B%E8%A1%97%23" target="weibo">
 沙溢大儿子和女生逛街（热度：613612）
 </a>
@@ -5999,18 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%9B%9E%E5%BA%94%E8%92%8B%E6%AC%A3%23" target="weibo">
 孙俪回应蒋欣（热度：606354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%B0%B4%E6%9E%9C%E9%81%AD%E4%B8%88%E5%A4%AB%E5%92%92%E9%AA%82%E5%AD%95%E5%A6%87%E5%8F%91%E5%A3%B0%23" target="weibo">
-买水果遭丈夫咒骂孕妇发声（热度：605350）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%23" target="weibo">
-尚公主剧宣（热度：604812）
 </a>
 </li>
 

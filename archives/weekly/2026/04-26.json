@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777360501214,
+  "endTime": 1777361775138,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1460198,
+      "num": 1460198,
+      "word": "云南14岁男孩杀害女同学被判无期",
+      "onboard_time": 1777358539,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1442736,
       "num": 376530,
       "word": "一笙回应",
@@ -441,14 +449,6 @@
       "onboard_time": 1777344802,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1148322,
-      "num": 1148322,
-      "word": "云南14岁男孩杀害女同学被判无期",
-      "onboard_time": 1777358539,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1125043,
@@ -1083,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 634453,
+      "num": 634453,
+      "word": "小黄油美式 全冰去水",
+      "onboard_time": 1777360940,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 633256,
       "num": 377808,
       "word": "原来这是肺不好的表现",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1777165939,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 613660,
+      "num": 410147,
+      "word": "金钟仁说EXO是六人组",
+      "onboard_time": 1777355541,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 612019,
@@ -1192,14 +1208,6 @@
       "word": "田曦薇虞书欣宋祖儿最佳穿搭",
       "onboard_time": 1777292601,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 589183,
-      "num": 410147,
-      "word": "金钟仁说EXO是六人组",
-      "onboard_time": 1777355541,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1395,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523707,
+      "num": 430759,
+      "word": "女子回应丈夫月薪6万后开始家暴",
+      "onboard_time": 1777351947,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 520366,
       "num": 348042,
       "word": "张杰拔智齿",
@@ -1531,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 483564,
+      "num": 475465,
+      "word": "白冰上海豪宅大到可骑车兜圈",
+      "onboard_time": 1777350326,
+      "rank": 38,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 481332,
       "num": 519361,
       "word": "男子酒后3次布洛芬全身95%溃烂",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1777218441,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 475465,
-      "num": 475465,
-      "word": "白冰上海豪宅大到可骑车兜圈",
-      "onboard_time": 1777350326,
-      "rank": 38,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 474682,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1777339160,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457570,
+      "num": 323930,
+      "word": "Rookie小钰事件法律层面解读",
+      "onboard_time": 1777357942,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 453647,
@@ -1739,14 +1763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 430759,
-      "num": 430759,
-      "word": "女子回应丈夫月薪6万后开始家暴",
-      "onboard_time": 1777351947,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 430063,
       "num": 333935,
       "word": "马思纯拍过尺度最大的亲密戏",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1777184900,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416667,
+      "num": 309176,
+      "word": "小英变卡戴英了",
+      "onboard_time": 1777360340,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 414017,
@@ -2131,6 +2155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357436,
+      "num": 422291,
+      "word": "黄金价格跌跌不休",
+      "onboard_time": 1777360281,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353297,
       "num": 353297,
       "word": "孙颖莎穿fighting出征",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1777296502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340597,
+      "num": 337803,
+      "word": "网红白冰偷逃近千万为何没坐牢",
+      "onboard_time": 1777360761,
+      "rank": 17,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 339963,
@@ -2305,14 +2345,6 @@
       "onboard_time": 1777178540,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 318601,
-      "num": 318601,
-      "word": "Rookie小钰事件法律层面解读",
-      "onboard_time": 1777357942,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 317676,
@@ -2579,14 +2611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 266256,
-      "num": 238995,
-      "word": "小英变卡戴英了",
-      "onboard_time": 1777360340,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 264459,
       "num": 489707,
       "word": "浪姐四公 无踢馆",
@@ -2795,11 +2819,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240959,
+      "num": 300212,
+      "word": "留几手说炒股让他妻离子散",
+      "onboard_time": 1777353503,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 240515,
+      "num": 414401,
+      "word": "眼镜王蛇爬向民房两幼童浑然不觉",
+      "onboard_time": 1777359739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239230,
       "num": 203370,
       "word": "森碟模仿叶一茜亲亲",
       "onboard_time": 1777306458,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238401,
+      "num": 291104,
+      "word": "邓为像穿了红色肚兜",
+      "onboard_time": 1777361600,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -3003,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212121,
-      "num": 422291,
-      "word": "黄金价格跌跌不休",
-      "onboard_time": 1777360281,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211732,
       "num": 211732,
       "word": "霍思燕淡出演艺圈后深耕训犬领域",
@@ -3040,6 +3080,14 @@
       "word": "张雪声援余承东",
       "onboard_time": 1777190240,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211289,
+      "num": 331913,
+      "word": "遭强奸追杀女子称不再担心被报复",
+      "onboard_time": 1777360400,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3233,6 +3281,22 @@
       "onboard_time": 1777180220,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 193278,
+      "num": 328284,
+      "word": "朱珠床戏给我看热了",
+      "onboard_time": 1777361242,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193110,
+      "num": 287289,
+      "word": "掘金2比3森林狼",
+      "onboard_time": 1777357942,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 192867,
@@ -3700,7 +3764,7 @@
     },
     {
       "raw_hot": 163872,
-      "num": 292243,
+      "num": 293005,
       "word": "肖战十日终焉十二生肖石雕路透",
       "onboard_time": 1777345581,
       "rank": 46,
@@ -4475,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114593,
+      "num": 296474,
+      "word": "社保基金押中多只大牛股",
+      "onboard_time": 1777355541,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114259,
       "num": 338205,
       "word": "华晨宇我们等你",
@@ -4641,6 +4713,14 @@
       "onboard_time": 1777304423,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101598,
+      "num": 325896,
+      "word": "网红白冰曾称探店不收一分钱",
+      "onboard_time": 1777353983,
+      "rank": 25,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 100952,
@@ -5427,20 +5507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36669,
-      "num": 331913,
-      "word": "遭强奸追杀女子称不再担心被报复",
-      "onboard_time": 1777360400,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36507,
       "num": 342589,
       "word": "特朗普否认枪击事件与伊朗战争有关",
       "onboard_time": 1777175480,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36047,
+      "num": 287964,
+      "word": "张静初方拉黑购买优思益想退款网友",
+      "onboard_time": 1777349003,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 35514,
@@ -5513,14 +5593,6 @@
       "onboard_time": 1777140136,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29981,
-      "num": 414401,
-      "word": "眼镜王蛇爬向民房两幼童浑然不觉",
-      "onboard_time": 1777359739,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29788,

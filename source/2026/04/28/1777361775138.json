@@ -1,0 +1,410 @@
+{
+  "runTime": 1777361775138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460198,
+        "num": 1460198,
+        "word": "云南14岁男孩杀害女同学被判无期",
+        "onboard_time": 1777358539,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879484,
+        "num": 879484,
+        "word": "网红白冰偷税911.18万",
+        "onboard_time": 1777341920,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 120280,
+        "num": 807664,
+        "word": "我国脑机接口加速接入现实",
+        "onboard_time": 1777349423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797409,
+        "num": 797409,
+        "word": "建议想减肥的人去一趟云南",
+        "onboard_time": 1777352605,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 666416,
+        "num": 666416,
+        "word": "强奸出狱后又杀人男子被执行死刑",
+        "onboard_time": 1777354521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634453,
+        "num": 634453,
+        "word": "小黄油美式 全冰去水",
+        "onboard_time": 1777360940,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 628545,
+        "num": 628545,
+        "word": "3只虾21块钱",
+        "onboard_time": 1777347742,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382852,
+        "num": 382852,
+        "word": "突然意识到人一定要流动起来",
+        "onboard_time": 1777344802,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366772,
+        "num": 366772,
+        "word": "境外组织大力资助网红煽动躺平",
+        "onboard_time": 1777335620,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350343,
+        "num": 350343,
+        "word": "孔雪儿说不接俞浅浅这种角色是笨蛋",
+        "onboard_time": 1777355423,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2775881,
+        "num": 349420,
+        "word": "王亚飞 迪丽热巴",
+        "onboard_time": 1777359501,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483564,
+        "num": 347973,
+        "word": "白冰上海豪宅大到可骑车兜圈",
+        "onboard_time": 1777350326,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1599802,
+        "num": 345623,
+        "word": "miumiu陷害女明星",
+        "onboard_time": 1777344081,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 613660,
+        "num": 343954,
+        "word": "金钟仁说EXO是六人组",
+        "onboard_time": 1777355541,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357436,
+        "num": 343581,
+        "word": "黄金价格跌跌不休",
+        "onboard_time": 1777360281,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 806373,
+        "num": 341239,
+        "word": "迪丽热巴邓为迪奥生图",
+        "onboard_time": 1777358661,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 547179,
+        "num": 340220,
+        "word": "钟欣潼发文祝福蔡卓妍",
+        "onboard_time": 1777359080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340597,
+        "num": 337803,
+        "word": "网红白冰偷逃近千万为何没坐牢",
+        "onboard_time": 1777360761,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 334194,
+        "num": 337336,
+        "word": "WE对战JDG",
+        "onboard_time": 1777358901,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297213,
+        "num": 334470,
+        "word": "网红白冰驾驶百万级跑车探店",
+        "onboard_time": 1777358062,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 523707,
+        "num": 334115,
+        "word": "女子回应丈夫月薪6万后开始家暴",
+        "onboard_time": 1777351947,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 203695,
+        "num": 331847,
+        "word": "王骁田曦薇新剧定档",
+        "onboard_time": 1777344743,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193453,
+        "num": 330632,
+        "word": "油价又大涨了",
+        "onboard_time": 1777347141,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193278,
+        "num": 328284,
+        "word": "朱珠床戏给我看热了",
+        "onboard_time": 1777361242,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682118,
+        "num": 327713,
+        "word": "男子升职月薪6万后开始家暴",
+        "onboard_time": 1777354821,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101598,
+        "num": 325896,
+        "word": "网红白冰曾称探店不收一分钱",
+        "onboard_time": 1777353983,
+        "rank": 25,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 457570,
+        "num": 323930,
+        "word": "Rookie小钰事件法律层面解读",
+        "onboard_time": 1777357942,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211289,
+        "num": 322798,
+        "word": "遭强奸追杀女子称不再担心被报复",
+        "onboard_time": 1777360400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 320493,
+        "word": "这一秒过火",
+        "onboard_time": 1777357042,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107251,
+        "num": 318916,
+        "word": "唐嫣钟汉良新剧对打",
+        "onboard_time": 1777349785,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296070,
+        "num": 316651,
+        "word": "萨摩耶接住了小猫",
+        "onboard_time": 1777348161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103943,
+        "num": 315956,
+        "word": "苹果将推出多款Ultra新品",
+        "onboard_time": 1777359140,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 7401355,
+        "num": 7401355,
+        "word": "蔡卓妍结婚",
+        "onboard_time": 1777349244,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88091,
+        "num": 312316,
+        "word": "张慧雯三公小考成绩",
+        "onboard_time": 1777348343,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77619,
+        "num": 310001,
+        "word": "年轻人的第一台智能满配好车10.68万起",
+        "onboard_time": 1777356561,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 416667,
+        "num": 309176,
+        "word": "小英变卡戴英了",
+        "onboard_time": 1777360340,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305077,
+        "num": 306816,
+        "word": "张杰拔智齿",
+        "onboard_time": 1777350625,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 306353,
+        "word": "白冰回应偷税被查",
+        "onboard_time": 1777342942,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 253420,
+        "num": 304187,
+        "word": "众星祝贺阿Sa结婚",
+        "onboard_time": 1777352903,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241484,
+        "num": 301978,
+        "word": "曝张凌赫低血糖摔倒了",
+        "onboard_time": 1777339280,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63053,
+        "num": 301743,
+        "word": "三星阔折叠机模曝光",
+        "onboard_time": 1777349122,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240959,
+        "num": 300212,
+        "word": "留几手说炒股让他妻离子散",
+        "onboard_time": 1777353503,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240515,
+        "num": 298170,
+        "word": "眼镜王蛇爬向民房两幼童浑然不觉",
+        "onboard_time": 1777359739,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114593,
+        "num": 296474,
+        "word": "社保基金押中多只大牛股",
+        "onboard_time": 1777355541,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80435,
+        "num": 294705,
+        "word": "歌手2026回应ai海报",
+        "onboard_time": 1777351585,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78289,
+        "num": 293005,
+        "word": "肖战十日终焉十二生肖石雕路透",
+        "onboard_time": 1777345581,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238401,
+        "num": 291104,
+        "word": "邓为像穿了红色肚兜",
+        "onboard_time": 1777361600,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218178,
+        "num": 289358,
+        "word": "本科新增38种专业",
+        "onboard_time": 1777347742,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36047,
+        "num": 287964,
+        "word": "张静初方拉黑购买优思益想退款网友",
+        "onboard_time": 1777349003,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 287289,
+        "word": "掘金2比3森林狼",
+        "onboard_time": 1777357942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#答好窑洞之问书写时代答卷#"
+    }
+  }
+}
