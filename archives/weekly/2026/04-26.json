@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777398811342,
+  "endTime": 1777403017259,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -6483,6 +6483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43136,
+      "num": 43136,
+      "word": "Rookie说对不起身边的人",
+      "onboard_time": 1777400355,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42614,
       "num": 317951,
       "word": "公司私装摄像头偷拍女员工哺乳判赔",
@@ -6545,6 +6553,14 @@
       "onboard_time": 1777389142,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38417,
+      "num": 38417,
+      "word": "CBA季后赛",
+      "onboard_time": 1777401375,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 37914,
@@ -6737,6 +6753,14 @@
       "onboard_time": 1777359801,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27272,
+      "num": 37268,
+      "word": "33岁迪丽热巴状态",
+      "onboard_time": 1777402934,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 26859,
