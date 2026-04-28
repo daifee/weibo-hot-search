@@ -1,0 +1,410 @@
+{
+  "runTime": 1777334677596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666268,
+        "num": 1106602,
+        "word": "父亲去世12年银行突然来催债",
+        "onboard_time": 1777302861,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439999,
+        "num": 790410,
+        "word": "浪姐三公小考结果",
+        "onboard_time": 1777304060,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60328,
+        "num": 640576,
+        "word": "国产开源大模型下载量破100亿次",
+        "onboard_time": 1777293203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321754,
+        "num": 321754,
+        "word": "炸个蛋花居然要6只手",
+        "onboard_time": 1777294462,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295584,
+        "num": 295584,
+        "word": "国乒到达伦敦",
+        "onboard_time": 1777332377,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291490,
+        "num": 291490,
+        "word": "曝张月团三公小考倒数第一",
+        "onboard_time": 1777333878,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332582,
+        "num": 288960,
+        "word": "姚安坠楼教师已脱离生命危险",
+        "onboard_time": 1777330458,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95539,
+        "num": 285614,
+        "word": "莫德里奇赛季报销",
+        "onboard_time": 1777309037,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48032,
+        "num": 280816,
+        "word": "领克900为什么要做这么大的五座",
+        "onboard_time": 1777295963,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26022,
+        "num": 275426,
+        "word": "腾势D9把老车主宠上天了",
+        "onboard_time": 1777287860,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1958572,
+        "num": 267900,
+        "word": "疑遭霸凌跳楼教师班级曾集体反抗",
+        "onboard_time": 1777332739,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933983,
+        "num": 262262,
+        "word": "张凌赫被搀扶才能起来",
+        "onboard_time": 1777332498,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260182,
+        "num": 260182,
+        "word": "旅游的三千块钱定律",
+        "onboard_time": 1777288760,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 858015,
+        "num": 259339,
+        "word": "Rookie女友发文",
+        "onboard_time": 1777333579,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 684944,
+        "num": 258832,
+        "word": "杨幂脸被蒸汽眼罩烫伤了",
+        "onboard_time": 1777290500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475361,
+        "num": 257184,
+        "word": "买水果遭丈夫咒骂孕妇发声",
+        "onboard_time": 1777332739,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 466236,
+        "num": 256524,
+        "word": "现货黄金",
+        "onboard_time": 1777332377,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433110,
+        "num": 255741,
+        "word": "桃黑黑腿太粗按到了电源键",
+        "onboard_time": 1777305019,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 374471,
+        "num": 254247,
+        "word": "山西重大刑案犯罪嫌疑人在钢厂工作",
+        "onboard_time": 1777332439,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 236390,
+        "num": 253674,
+        "word": "俞敏洪曾称不再有主播独立成平台",
+        "onboard_time": 1777333398,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 716241,
+        "num": 252398,
+        "word": "晚上10点睡和11点睡的三个区别",
+        "onboard_time": 1777332377,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266826,
+        "num": 251484,
+        "word": "金莎媒体发布会孕相",
+        "onboard_time": 1777333520,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349199,
+        "num": 250483,
+        "word": "女子自行吃多子丸一次怀4胞胎",
+        "onboard_time": 1777332439,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310015,
+        "num": 248924,
+        "word": "身体严重缺觉的7个迹象",
+        "onboard_time": 1777289600,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296193,
+        "num": 248430,
+        "word": "保姆起诉叶璇",
+        "onboard_time": 1777333579,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275087,
+        "num": 247267,
+        "word": "乘客买到高铁08车01C座上车懵了",
+        "onboard_time": 1777301843,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246704,
+        "num": 246704,
+        "word": "网传曾沛慈团王濛团三公小考前二",
+        "onboard_time": 1777332498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245363,
+        "num": 245363,
+        "word": "平台明确不要的艺人",
+        "onboard_time": 1777264941,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220813,
+        "num": 220813,
+        "word": "芯片半导体涨疯了",
+        "onboard_time": 1777332799,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125543,
+        "num": 213082,
+        "word": "高市早苗称要为长期战争做准备",
+        "onboard_time": 1777301721,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206004,
+        "num": 206004,
+        "word": "胖东来饺子皮包装提示被网友夸赞",
+        "onboard_time": 1777333398,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195907,
+        "num": 195907,
+        "word": "日本人不愿相信中国座椅给手机充电",
+        "onboard_time": 1777293203,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183619,
+        "num": 183619,
+        "word": "高中生水杯被同学投放异物饮后抽搐",
+        "onboard_time": 1777297402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175051,
+        "num": 175051,
+        "word": "男子欠3.6万第三方公司要债6万",
+        "onboard_time": 1777333398,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61019,
+        "num": 172508,
+        "word": "官方通报中学教师坠楼事件",
+        "onboard_time": 1777299024,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172281,
+        "num": 172281,
+        "word": "王楚然高度近视但绝不眯眼",
+        "onboard_time": 1777334420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "斯诺克",
+        "onboard_time": 1777332498,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146064,
+        "num": 146064,
+        "word": "十日终焉首次外景路透",
+        "onboard_time": 1777296202,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133898,
+        "num": 133898,
+        "word": "张凌赫林允吻戏路透",
+        "onboard_time": 1777304600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125210,
+        "num": 125210,
+        "word": "女子本想到医院减肥却查出两种癌",
+        "onboard_time": 1777304361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121871,
+        "num": 121871,
+        "word": "美伊停火谈判",
+        "onboard_time": 1777301423,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119445,
+        "num": 119445,
+        "word": "佳偶天成 修仙剧",
+        "onboard_time": 1777293443,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116231,
+        "num": 116231,
+        "word": "女子剖腹产后突发脑梗致双眼失明",
+        "onboard_time": 1777294583,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114383,
+        "num": 114383,
+        "word": "美依礼芽回应歌手AI海报",
+        "onboard_time": 1777300942,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112486,
+        "num": 112486,
+        "word": "AI短剧 融脸",
+        "onboard_time": 1777286900,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 110334,
+        "word": "小说女主也不过如此",
+        "onboard_time": 1777333821,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106641,
+        "num": 106641,
+        "word": "曝时代少年团广州演唱会一人一个大屏",
+        "onboard_time": 1777333700,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101463,
+        "num": 101463,
+        "word": "虞书欣直播四十分钟总榜第二",
+        "onboard_time": 1777330818,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83846,
+        "num": 100180,
+        "word": "列车撞上保洁致3死1伤被罚115万",
+        "onboard_time": 1777333520,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44063,
+        "num": 100030,
+        "word": "辅助驾驶途中司机捡瓶子致1死1伤",
+        "onboard_time": 1777305680,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#答好窑洞之问书写时代答卷#"
+    }
+  }
+}

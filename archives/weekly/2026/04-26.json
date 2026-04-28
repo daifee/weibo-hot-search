@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777331861030,
+  "endTime": 1777334677596,
   "band_list": [
     {
       "raw_hot": 11467206,
@@ -121,6 +121,14 @@
       "onboard_time": 1777297825,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1958572,
+      "num": 267900,
+      "word": "疑遭霸凌跳楼教师班级曾集体反抗",
+      "onboard_time": 1777332739,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1712629,
@@ -475,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 933983,
+      "num": 262262,
+      "word": "张凌赫被搀扶才能起来",
+      "onboard_time": 1777332498,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926624,
       "num": 326922,
       "word": "桃黑黑腿太粗按到了电源键",
@@ -545,6 +561,14 @@
       "onboard_time": 1777304060,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 858015,
+      "num": 259339,
+      "word": "Rookie女友发文",
+      "onboard_time": 1777333579,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 853337,
@@ -763,6 +787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 716241,
+      "num": 252398,
+      "word": "晚上10点睡和11点睡的三个区别",
+      "onboard_time": 1777332377,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 713008,
       "num": 780476,
       "word": "妇联正在核实孕妇遭丈夫辱骂后引产",
@@ -825,6 +857,14 @@
       "onboard_time": 1777191141,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 666268,
+      "num": 1106602,
+      "word": "父亲去世12年银行突然来催债",
+      "onboard_time": 1777302861,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 665474,
@@ -1299,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 475361,
+      "num": 257184,
+      "word": "买水果遭丈夫咒骂孕妇发声",
+      "onboard_time": 1777332739,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 469420,
       "num": 469420,
       "word": "山姆29.9元羽衣甘蓝盆栽被抢空",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1777130304,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466236,
+      "num": 256524,
+      "word": "现货黄金",
+      "onboard_time": 1777332377,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 466125,
@@ -1500,7 +1556,7 @@
     },
     {
       "raw_hot": 398831,
-      "num": 220875,
+      "num": 247267,
       "word": "乘客买到高铁08车01C座上车懵了",
       "onboard_time": 1777301843,
       "rank": 14,
@@ -1609,6 +1665,14 @@
       "onboard_time": 1777253360,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374471,
+      "num": 254247,
+      "word": "山西重大刑案犯罪嫌疑人在钢厂工作",
+      "onboard_time": 1777332439,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 372942,
@@ -1739,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349199,
+      "num": 250483,
+      "word": "女子自行吃多子丸一次怀4胞胎",
+      "onboard_time": 1777332439,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343108,
       "num": 324904,
       "word": "者来女把陈瑶推到张月身边",
@@ -1787,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332582,
+      "num": 288960,
+      "word": "姚安坠楼教师已脱离生命危险",
+      "onboard_time": 1777330458,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332145,
       "num": 332145,
       "word": "马刺3比1开拓者",
@@ -1817,14 +1897,6 @@
       "onboard_time": 1777121123,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322618,
-      "num": 563676,
-      "word": "父亲去世12年银行突然来催债",
-      "onboard_time": 1777302861,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320274,
@@ -1963,6 +2035,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 296193,
+      "num": 248430,
+      "word": "保姆起诉叶璇",
+      "onboard_time": 1777333579,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 295584,
+      "num": 295584,
+      "word": "国乒到达伦敦",
+      "onboard_time": 1777332377,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 291490,
+      "num": 291490,
+      "word": "曝张月团三公小考倒数第一",
+      "onboard_time": 1777333878,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283726,
       "num": 283726,
       "word": "白鹿 厨师领巾",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1777265360,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266826,
+      "num": 251484,
+      "word": "金莎媒体发布会孕相",
+      "onboard_time": 1777333520,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 264459,
@@ -2203,6 +2307,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 246704,
+      "num": 246704,
+      "word": "网传曾沛慈团王濛团三公小考前二",
+      "onboard_time": 1777332498,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246064,
       "num": 463832,
       "word": "戚薇3岁儿子近照",
@@ -2257,6 +2369,14 @@
       "onboard_time": 1777169599,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236390,
+      "num": 253674,
+      "word": "俞敏洪曾称不再有主播独立成平台",
+      "onboard_time": 1777333398,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 233354,
@@ -2377,6 +2497,14 @@
       "onboard_time": 1777201279,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220813,
+      "num": 220813,
+      "word": "芯片半导体涨疯了",
+      "onboard_time": 1777332799,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 218962,
@@ -2505,6 +2633,14 @@
       "onboard_time": 1777180881,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206004,
+      "num": 206004,
+      "word": "胖东来饺子皮包装提示被网友夸赞",
+      "onboard_time": 1777333398,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204404,
@@ -2963,6 +3099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175051,
+      "num": 175051,
+      "word": "男子欠3.6万第三方公司要债6万",
+      "onboard_time": 1777333398,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174615,
       "num": 174615,
       "word": "小罗伯特肯尼迪被拍到抛下妻子逃走",
@@ -3011,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172281,
+      "num": 172281,
+      "word": "王楚然高度近视但绝不眯眼",
+      "onboard_time": 1777334420,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170967,
       "num": 481517,
       "word": "福州平潭岛岸边漂浮大量蓝色鞋套",
@@ -3033,6 +3185,14 @@
       "onboard_time": 1777205360,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "斯诺克",
+      "onboard_time": 1777159936,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 168702,
@@ -3081,14 +3241,6 @@
       "onboard_time": 1777293622,
       "rank": 45,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 164848,
-      "num": 118533,
-      "word": "姚安坠楼教师已脱离生命危险",
-      "onboard_time": 1777330458,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163714,
@@ -3444,7 +3596,7 @@
     },
     {
       "raw_hot": 140930,
-      "num": 207315,
+      "num": 285614,
       "word": "莫德里奇赛季报销",
       "onboard_time": 1777309037,
       "rank": 30,
@@ -3635,20 +3787,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125543,
+      "num": 213082,
+      "word": "高市早苗称要为长期战争做准备",
+      "onboard_time": 1777301721,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124717,
       "num": 126257,
       "word": "曝一笙小号收藏德州相关帖子",
       "onboard_time": 1777217121,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124026,
-      "num": 206699,
-      "word": "高市早苗称要为长期战争做准备",
-      "onboard_time": 1777301721,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123889,
@@ -3859,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110334,
+      "num": 110334,
+      "word": "小说女主也不过如此",
+      "onboard_time": 1777333821,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109754,
       "num": 434495,
       "word": "失明男子租房每月50元20年没涨",
@@ -3905,6 +4065,14 @@
       "onboard_time": 1777259240,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106641,
+      "num": 106641,
+      "word": "曝时代少年团广州演唱会一人一个大屏",
+      "onboard_time": 1777333700,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 105267,
@@ -3960,6 +4128,14 @@
       "word": "宋亚轩结尾彩蛋唱遗失的心跳",
       "onboard_time": 1777304423,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101463,
+      "num": 117320,
+      "word": "虞书欣直播四十分钟总榜第二",
+      "onboard_time": 1777330818,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -4115,6 +4291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83846,
+      "num": 100180,
+      "word": "列车撞上保洁致3死1伤被罚115万",
+      "onboard_time": 1777333520,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82454,
       "num": 419637,
       "word": "中国超70%石油靠进口却不慌",
@@ -4177,14 +4361,6 @@
       "onboard_time": 1777259240,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75510,
-      "num": 75510,
-      "word": "斯诺克",
-      "onboard_time": 1777159936,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 74685,
@@ -4273,14 +4449,6 @@
       "onboard_time": 1777293203,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68769,
-      "num": 117320,
-      "word": "虞书欣直播四十分钟总榜第二",
-      "onboard_time": 1777330818,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 68432,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 07:17:41
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/28 08:04:37
 </p>
 </blockquote>
 <p>
@@ -725,6 +725,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E5%85%A8%E4%BD%93%E4%BA%BA%E6%B0%91%E7%A5%9D%E8%B4%BA%E8%83%9C%E5%88%A9%23" target="weibo">
 伊朗向全体人民祝贺胜利（热度：1959242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E9%9C%B8%E5%87%8C%E8%B7%B3%E6%A5%BC%E6%95%99%E5%B8%88%E7%8F%AD%E7%BA%A7%E6%9B%BE%E9%9B%86%E4%BD%93%E5%8F%8D%E6%8A%97%23" target="weibo">
+疑遭霸凌跳楼教师班级曾集体反抗（热度：1958572）
 </a>
 </li>
 
@@ -2931,6 +2937,12 @@ DeepSeekV4 尺度（热度：942451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A2%AB%E6%90%80%E6%89%B6%E6%89%8D%E8%83%BD%E8%B5%B7%E6%9D%A5%23" target="weibo">
+张凌赫被搀扶才能起来（热度：933983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%8C%AB%E6%80%80%E5%AD%95%E9%83%BD%E6%80%80%E5%88%B0%E8%84%96%E5%AD%90%E4%B8%8A%E4%BA%86%23" target="weibo">
 谁家猫怀孕都怀到脖子上了（热度：933509）
 </a>
@@ -3395,6 +3407,12 @@ TEN李永钦不续约（热度：868167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%BB%BA600%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4%E7%A6%BB%E8%81%8C%E6%8B%92%E4%BA%A4%E6%8E%A5%23" target="weibo">
 员工建600多个工作群离职拒交接（热度：858345）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87%23" target="weibo">
+Rookie女友发文（热度：858015）
 </a>
 </li>
 
@@ -4599,6 +4617,12 @@ labubu冰箱溢价3000元（热度：724625）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A10%E7%82%B9%E7%9D%A1%E5%92%8C11%E7%82%B9%E7%9D%A1%E7%9A%84%E4%B8%89%E4%B8%AA%E5%8C%BA%E5%88%AB%23" target="weibo">
+晚上10点睡和11点睡的三个区别（热度：716241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23" target="weibo">
 演员集体辟谣AI授权（热度：716225）
 </a>
@@ -5111,6 +5135,12 @@ KTV服务员被指强奸14岁女生（热度：668220）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E6%B2%A1%E6%9C%89%E6%8A%A2%E5%88%B0%E7%A5%A8%E7%9A%84%E9%A3%8E%E9%99%A9%23" target="weibo">
 时代少年团 没有抢到票的风险（热度：666407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%9612%E5%B9%B4%E9%93%B6%E8%A1%8C%E7%AA%81%E7%84%B6%E6%9D%A5%E5%82%AC%E5%80%BA%23" target="weibo">
+父亲去世12年银行突然来催债（热度：666268）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%89%AA%E8%95%BE%E4%B8%9D%23" target="weibo">
 王濛剪蕾丝（热度：596057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E6%B6%89%E9%BB%84%E7%89%9B%E5%A5%B6%E5%93%81%E7%89%8C%E4%B8%BA%E4%B8%AD%E5%8D%8E%E8%80%81%E5%AD%97%E5%8F%B7%23" target="weibo">
-直播涉黄牛奶品牌为中华老字号（热度：595823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BD%95%E8%A7%81%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95%E6%A1%88%23" target="weibo">
-法国罕见全票通过文物归还法案（热度：595618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A9%9A%E5%A4%96%E6%83%85%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3%E5%84%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-女子被婚外情丈夫杀害儿子发声（热度：595536）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%90%8E%E5%BE%97%E8%BF%9E%E5%A4%9C%E5%86%99%E7%AF%87%E6%84%8F%E6%9E%97%23" target="weibo">
-老外回国后得连夜写篇意林（热度：595421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%BE%88%E5%A4%9A%E6%AC%A1%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%23" target="weibo">
-旅游很多次才知道的事（热度：594741）
 </a>
 </li>
 
