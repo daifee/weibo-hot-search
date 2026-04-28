@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777390383134,
+  "endTime": 1777396324449,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -409,6 +409,14 @@
       "onboard_time": 1777201279,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1319289,
+      "num": 219045,
+      "word": "天云",
+      "onboard_time": 1777391780,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1302518,
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 782050,
+      "num": 1773873,
+      "word": "腾讯客服回应朋友圈排版变了",
+      "onboard_time": 1777383794,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 780596,
       "num": 460888,
       "word": "小米公司报警",
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625038,
+      "num": 625038,
+      "word": "玉龙雪山景区报警",
+      "onboard_time": 1777386682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616461,
       "num": 369244,
       "word": "于文文被蔡卓妍结婚吓一跳",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1777213523,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 562222,
-      "num": 1773873,
-      "word": "腾讯客服回应朋友圈排版变了",
-      "onboard_time": 1777383794,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 561256,
@@ -2315,6 +2331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 370380,
+      "num": 370380,
+      "word": "情绪压力对一个人体态的影响",
+      "onboard_time": 1777381162,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369488,
       "num": 517024,
       "word": "杀害女同学14岁男生听到判决面无表情",
@@ -2627,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321863,
-      "num": 331015,
-      "word": "玉龙雪山景区报警",
-      "onboard_time": 1777386682,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320274,
       "num": 398377,
       "word": "王鹤润妆造",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1777264040,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277739,
-      "num": 332847,
-      "word": "情绪压力对一个人体态的影响",
-      "onboard_time": 1777381162,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 276248,
@@ -3820,7 +3828,7 @@
     },
     {
       "raw_hot": 197964,
-      "num": 197964,
+      "num": 210276,
       "word": "Hero战胜WG",
       "onboard_time": 1777390342,
       "rank": 44,
@@ -3969,6 +3977,14 @@
       "onboard_time": 1777196000,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188849,
+      "num": 214992,
+      "word": "宗师的镜来了",
+      "onboard_time": 1777396157,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 188449,
@@ -4164,7 +4180,7 @@
     },
     {
       "raw_hot": 178303,
-      "num": 178303,
+      "num": 213731,
       "word": "女子砍1元后发现是人力车夫又加价",
       "onboard_time": 1777390042,
       "rank": 48,
@@ -4457,6 +4473,14 @@
       "onboard_time": 1777345581,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163757,
+      "num": 214652,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 163714,
@@ -5395,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109362,
+      "num": 213613,
+      "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+      "onboard_time": 1777387761,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109072,
       "num": 109072,
       "word": "中国乒乓运动员张缤月参加MLTT选秀",
@@ -5433,6 +5465,14 @@
       "onboard_time": 1777259240,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107149,
+      "num": 213473,
+      "word": "Rookie 炫神",
+      "onboard_time": 1777391480,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 106906,
@@ -5563,6 +5603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96112,
+      "num": 212990,
+      "word": "建议所有女性多做力量训练",
+      "onboard_time": 1777395616,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 94804,
       "num": 206213,
       "word": "有金店一口价金饰最低打6折",
@@ -5617,6 +5665,14 @@
       "onboard_time": 1777247358,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90489,
+      "num": 212916,
+      "word": "出轨女被情人杀害案发细节曝光",
+      "onboard_time": 1777395616,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89363,
@@ -5787,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78120,
+      "num": 212591,
+      "word": "小狗唯一的朋友小猫去世了",
+      "onboard_time": 1777395616,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77498,
       "num": 167459,
       "word": "陈赫你们一会不要笑啊",
@@ -5859,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73216,
+      "num": 212370,
+      "word": "第一次知道羽绒服能这么补",
+      "onboard_time": 1777395616,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73111,
       "num": 205481,
       "word": "汤杯队友赛前不知石宇奇退赛",
@@ -5883,6 +5955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72521,
+      "num": 212164,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72440,
       "num": 238110,
       "word": "追觅火箭超跑百公里加速0.9秒",
@@ -5905,6 +5985,14 @@
       "onboard_time": 1777197919,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 69903,
+      "num": 211879,
+      "word": "Jiejie赛后道歉",
+      "onboard_time": 1777395616,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 69779,
@@ -6067,6 +6155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62897,
+      "num": 211305,
+      "word": "比亚迪一季度净利润40.85亿",
+      "onboard_time": 1777392379,
+      "rank": 40,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 62697,
       "num": 193153,
       "word": "伊朗武装部队强硬回应美军",
@@ -6123,6 +6219,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59006,
+      "num": 210986,
+      "word": "赵心童3比5暂落后墨菲",
+      "onboard_time": 1777389501,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58761,
       "num": 154239,
       "word": "钦州突降暴雨大量车辆被泡",
@@ -6147,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56852,
+      "num": 210737,
+      "word": "KPL",
+      "onboard_time": 1777388961,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56716,
       "num": 276225,
       "word": "王鹤棣西安投喂巧乐兹脆筒",
@@ -6169,6 +6281,14 @@
       "onboard_time": 1777314855,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54821,
+      "num": 210630,
+      "word": "成都400家茶楼因无证泡花茶遭举报",
+      "onboard_time": 1777395616,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54729,

@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777390383134,
+  "endTime": 1777396324449,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1775883023,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1319289,
+      "num": 219045,
+      "word": "天云",
+      "onboard_time": 1777391780,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1317443,
@@ -5579,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 782050,
+      "num": 1773873,
+      "word": "腾讯客服回应朋友圈排版变了",
+      "onboard_time": 1777383794,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 780596,
       "num": 460888,
       "word": "小米公司报警",
@@ -7851,6 +7867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625038,
+      "num": 625038,
+      "word": "玉龙雪山景区报警",
+      "onboard_time": 1777386682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624541,
       "num": 624541,
       "word": "原来前额叶成熟是这样的",
@@ -9137,14 +9161,6 @@
       "onboard_time": 1777009700,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562222,
-      "num": 1773873,
-      "word": "腾讯客服回应朋友圈排版变了",
-      "onboard_time": 1777383794,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 561823,
@@ -15619,6 +15635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370380,
+      "num": 370380,
+      "word": "情绪压力对一个人体态的影响",
+      "onboard_time": 1777381162,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369964,
       "num": 273369,
       "word": "谁把张凌赫弄天上去了",
@@ -18009,14 +18033,6 @@
       "onboard_time": 1776505941,
       "rank": 24,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 321863,
-      "num": 331015,
-      "word": "玉龙雪山景区报警",
-      "onboard_time": 1777386682,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321842,
@@ -21001,14 +21017,6 @@
       "onboard_time": 1775790381,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277739,
-      "num": 332847,
-      "word": "情绪压力对一个人体态的影响",
-      "onboard_time": 1777381162,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 277694,
@@ -28308,7 +28316,7 @@
     },
     {
       "raw_hot": 197964,
-      "num": 197964,
+      "num": 210276,
       "word": "Hero战胜WG",
       "onboard_time": 1777390342,
       "rank": 44,
@@ -29489,6 +29497,14 @@
       "onboard_time": 1775451742,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188849,
+      "num": 214992,
+      "word": "宗师的镜来了",
+      "onboard_time": 1777396157,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 188812,
@@ -30788,7 +30804,7 @@
     },
     {
       "raw_hot": 178303,
-      "num": 178303,
+      "num": 213731,
       "word": "女子砍1元后发现是人力车夫又加价",
       "onboard_time": 1777390042,
       "rank": 48,
@@ -32905,6 +32921,14 @@
       "onboard_time": 1776919101,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163757,
+      "num": 214652,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 163714,
@@ -43227,6 +43251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109362,
+      "num": 213613,
+      "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+      "onboard_time": 1777387761,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109317,
       "num": 109317,
       "word": "最适合我们读的书出现了",
@@ -43785,6 +43817,14 @@
       "onboard_time": 1775394685,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107149,
+      "num": 213473,
+      "word": "Rookie 炫神",
+      "onboard_time": 1777391480,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 107105,
@@ -47051,6 +47091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96112,
+      "num": 212990,
+      "word": "建议所有女性多做力量训练",
+      "onboard_time": 1777395616,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 96096,
       "num": 78067,
       "word": "发现小猫长牙齿之后天天都要看",
@@ -49057,6 +49105,14 @@
       "onboard_time": 1776159742,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90489,
+      "num": 212916,
+      "word": "出轨女被情人杀害案发细节曝光",
+      "onboard_time": 1777395616,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90406,
@@ -54011,6 +54067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78120,
+      "num": 212591,
+      "word": "小狗唯一的朋友小猫去世了",
+      "onboard_time": 1777395616,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78106,
       "num": 78106,
       "word": "王腾祝小米16周岁生日快乐",
@@ -56347,6 +56411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73216,
+      "num": 212370,
+      "word": "第一次知道羽绒服能这么补",
+      "onboard_time": 1777395616,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73165,
       "num": 185076,
       "word": "江坂丽奈美甲",
@@ -56617,6 +56689,14 @@
       "onboard_time": 1775908402,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72521,
+      "num": 212164,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 72504,
@@ -57817,6 +57897,14 @@
       "onboard_time": 1776225681,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69903,
+      "num": 211879,
+      "word": "Jiejie赛后道歉",
+      "onboard_time": 1777395616,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 69896,
@@ -60339,6 +60427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62897,
+      "num": 211305,
+      "word": "比亚迪一季度净利润40.85亿",
+      "onboard_time": 1777392379,
+      "rank": 40,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 62849,
       "num": 73246,
       "word": "洪知秀直播",
@@ -61523,6 +61619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59006,
+      "num": 210986,
+      "word": "赵心童3比5暂落后墨菲",
+      "onboard_time": 1777389501,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59002,
       "num": 59002,
       "word": "伊朗称谈判基础被破坏",
@@ -62473,6 +62577,14 @@
       "onboard_time": 1776143542,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54821,
+      "num": 210630,
+      "word": "成都400家茶楼因无证泡花茶遭举报",
+      "onboard_time": 1777395616,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54804,

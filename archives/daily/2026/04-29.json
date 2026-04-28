@@ -1,0 +1,411 @@
+{
+  "startTime": 1777396324449,
+  "endTime": 1777396324449,
+  "band_list": [
+    {
+      "raw_hot": 1319289,
+      "num": 219045,
+      "word": "天云",
+      "onboard_time": 1777391780,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 782050,
+      "num": 782050,
+      "word": "腾讯客服回应朋友圈排版变了",
+      "onboard_time": 1777383794,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 625038,
+      "num": 625038,
+      "word": "玉龙雪山景区报警",
+      "onboard_time": 1777386682,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370380,
+      "num": 370380,
+      "word": "情绪压力对一个人体态的影响",
+      "onboard_time": 1777381162,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 357367,
+      "num": 357367,
+      "word": "铁证 刘宇宁",
+      "onboard_time": 1777386861,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273505,
+      "num": 215175,
+      "word": "小钰回应谣言",
+      "onboard_time": 1777376002,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 269532,
+      "num": 269532,
+      "word": "黄子弘凡 银河左岸出场顺序",
+      "onboard_time": 1777384221,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 232361,
+      "num": 232361,
+      "word": "伪装 这都用炽阳神光吗",
+      "onboard_time": 1777388662,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 219558,
+      "num": 219558,
+      "word": "阿联酋退出石油输出国组织",
+      "onboard_time": 1777380861,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 215269,
+      "num": 215269,
+      "word": "宗师正脸",
+      "onboard_time": 1777382181,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196786,
+      "num": 215019,
+      "word": "爱情没有神话 秦雯",
+      "onboard_time": 1777388180,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188849,
+      "num": 214992,
+      "word": "宗师的镜来了",
+      "onboard_time": 1777396157,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 174995,
+      "num": 214873,
+      "word": "副校长在工作群发亲密信息后撤回",
+      "onboard_time": 1777381162,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 174006,
+      "num": 213901,
+      "word": "男子许诺3万包养费骗4人发生关系",
+      "onboard_time": 1777384882,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163757,
+      "num": 214652,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156426,
+      "num": 214602,
+      "word": "普通人长见识最快的方式",
+      "onboard_time": 1777384462,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144038,
+      "num": 214487,
+      "word": "变形计农村主人公丽姐港大研学",
+      "onboard_time": 1777379120,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139700,
+      "num": 214318,
+      "word": "员工厕所玩手机照片被发400人群",
+      "onboard_time": 1777383923,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136826,
+      "num": 214174,
+      "word": "黄金跌透了吗",
+      "onboard_time": 1777377862,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 133319,
+      "num": 213731,
+      "word": "女子砍1元后发现是人力车夫又加价",
+      "onboard_time": 1777390042,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124571,
+      "num": 213987,
+      "word": "断崖式垮脸其实就是水毒",
+      "onboard_time": 1777369700,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109362,
+      "num": 213613,
+      "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+      "onboard_time": 1777387761,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108554,
+      "num": 213594,
+      "word": "孙颖莎 红包",
+      "onboard_time": 1777378942,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107149,
+      "num": 213473,
+      "word": "Rookie 炫神",
+      "onboard_time": 1777391480,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 104384,
+      "num": 213334,
+      "word": "单亲爸爸因长相血型查出儿子非亲生",
+      "onboard_time": 1777377262,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102159,
+      "num": 213155,
+      "word": "妹妹冒用双胞胎姐姐证件",
+      "onboard_time": 1777389262,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96112,
+      "num": 212990,
+      "word": "建议所有女性多做力量训练",
+      "onboard_time": 1777395616,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 90489,
+      "num": 212916,
+      "word": "出轨女被情人杀害案发细节曝光",
+      "onboard_time": 1777395616,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90076,
+      "num": 212816,
+      "word": "还以为重播何以笙箫默了",
+      "onboard_time": 1777381222,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78120,
+      "num": 212591,
+      "word": "小狗唯一的朋友小猫去世了",
+      "onboard_time": 1777395616,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 77517,
+      "num": 212564,
+      "word": "张慧雯逆袭",
+      "onboard_time": 1777384822,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73216,
+      "num": 212370,
+      "word": "第一次知道羽绒服能这么补",
+      "onboard_time": 1777395616,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 72552,
+      "num": 212309,
+      "word": "一笙报案",
+      "onboard_time": 1777386743,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 72521,
+      "num": 212164,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 70227,
+      "num": 212000,
+      "word": "王者荣耀",
+      "onboard_time": 1777395616,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 69903,
+      "num": 211879,
+      "word": "Jiejie赛后道歉",
+      "onboard_time": 1777395616,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 68665,
+      "num": 211431,
+      "word": "建议亲人去世一两个月后主动查负债",
+      "onboard_time": 1777366760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67583,
+      "num": 211627,
+      "word": "乐道L80",
+      "onboard_time": 1777385842,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 66027,
+      "num": 211734,
+      "word": "大冰谈人际交往的大忌",
+      "onboard_time": 1777369040,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62897,
+      "num": 211305,
+      "word": "比亚迪一季度净利润40.85亿",
+      "onboard_time": 1777392379,
+      "rank": 40,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 61880,
+      "num": 211254,
+      "word": "佳偶天成 念无双",
+      "onboard_time": 1777373780,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61706,
+      "num": 211069,
+      "word": "男子5天连做5台手术惊呆医师",
+      "onboard_time": 1777378222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59006,
+      "num": 210986,
+      "word": "赵心童3比5暂落后墨菲",
+      "onboard_time": 1777389501,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58734,
+      "num": 210897,
+      "word": "李小冉清唱惊鸿一面",
+      "onboard_time": 1777382782,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56852,
+      "num": 210737,
+      "word": "KPL",
+      "onboard_time": 1777388961,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 54821,
+      "num": 210630,
+      "word": "成都400家茶楼因无证泡花茶遭举报",
+      "onboard_time": 1777395616,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54082,
+      "num": 210431,
+      "word": "易烊千玺画的直立行走",
+      "onboard_time": 1777386142,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 50991,
+      "num": 210276,
+      "word": "Hero战胜WG",
+      "onboard_time": 1777390342,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 49010,
+      "num": 210211,
+      "word": "阿联酋",
+      "onboard_time": 1777380861,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36008,
+      "num": 481457,
+      "word": "五一全社会流动预计超15亿人次",
+      "onboard_time": 1777380141,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中央政治局召开会议#"
+    }
+  ]
+}
