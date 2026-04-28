@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777417392457,
+  "endTime": 1777419125699,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1319289,
-      "num": 219045,
+      "num": 256373,
       "word": "天云",
       "onboard_time": 1777391780,
       "rank": 8,
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 625038,
-      "num": 625038,
+      "num": 782684,
       "word": "玉龙雪山景区报警",
       "onboard_time": 1777386682,
       "rank": 34,
@@ -1875,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466753,
+      "num": 277291,
+      "word": "白冰上海买豪宅后一年搬进别墅",
+      "onboard_time": 1777417757,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 466125,
       "num": 425769,
       "word": "女子不知怀孕医院上厕所时生二胎",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1777348702,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 462026,
+      "num": 462026,
+      "word": "情绪压力对一个人体态的影响",
+      "onboard_time": 1777381162,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 459164,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1777177222,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434891,
-      "num": 434891,
-      "word": "情绪压力对一个人体态的影响",
-      "onboard_time": 1777381162,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 434618,
@@ -2467,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353140,
+      "num": 353140,
+      "word": "第一次知道羽绒服能这么补",
+      "onboard_time": 1777395616,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350796,
       "num": 372656,
       "word": "孙怡阚清子已经和好了",
@@ -2568,6 +2584,14 @@
       "word": "孙颖莎 红包",
       "onboard_time": 1777378942,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 336910,
+      "num": 336910,
+      "word": "欧冠",
+      "onboard_time": 1777417637,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -2795,6 +2819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306565,
+      "num": 314077,
+      "word": "普通人长见识最快的方式",
+      "onboard_time": 1777384462,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305371,
       "num": 305371,
       "word": "杨洋新造型帅的太客观了",
@@ -2825,6 +2857,14 @@
       "onboard_time": 1777340359,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298130,
+      "num": 249036,
+      "word": "33岁迪丽热巴状态",
+      "onboard_time": 1777402934,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 297882,
@@ -2865,6 +2905,14 @@
       "onboard_time": 1777359739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292009,
+      "num": 211519,
+      "word": "被强奸杀害女生房间仍保持原来样子",
+      "onboard_time": 1777417757,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 291129,
@@ -2937,6 +2985,14 @@
       "onboard_time": 1777264040,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277358,
+      "num": 277358,
+      "word": "不敢想i人住进去得有多幸福",
+      "onboard_time": 1777392199,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 276248,
@@ -3017,14 +3073,6 @@
       "onboard_time": 1777265360,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265195,
-      "num": 265195,
-      "word": "第一次知道羽绒服能这么补",
-      "onboard_time": 1777395616,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 264459,
@@ -3265,6 +3313,14 @@
       "onboard_time": 1777261580,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242675,
+      "num": 242675,
+      "word": "白冰被曝偷税后评论区被刷屏",
+      "onboard_time": 1777417698,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 242039,
@@ -3515,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216816,
-      "num": 314077,
-      "word": "普通人长见识最快的方式",
-      "onboard_time": 1777384462,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216453,
       "num": 216453,
       "word": "李艺彤 气死我了",
@@ -3640,6 +3688,14 @@
       "word": "张雪声援余承东",
       "onboard_time": 1777190240,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211353,
+      "num": 212916,
+      "word": "出轨女被情人杀害案发细节曝光",
+      "onboard_time": 1777395616,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3899,6 +3955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194534,
+      "num": 212990,
+      "word": "建议所有女性多做力量训练",
+      "onboard_time": 1777395616,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193304,
       "num": 193304,
       "word": "东方甄选前员工发声",
@@ -3953,14 +4017,6 @@
       "onboard_time": 1777163238,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191716,
-      "num": 214652,
-      "word": "不敢想i人住进去得有多幸福",
-      "onboard_time": 1777392199,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 191699,
@@ -4491,6 +4547,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 164909,
+      "num": 164909,
+      "word": "A股低迷原因找到了",
+      "onboard_time": 1777417818,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163872,
       "num": 293005,
       "word": "肖战十日终焉十二生肖石雕路透",
@@ -4611,14 +4675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159260,
-      "num": 212990,
-      "word": "建议所有女性多做力量训练",
-      "onboard_time": 1777395616,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 158943,
       "num": 287205,
       "word": "张慧雯逆袭",
@@ -4691,14 +4747,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 154329,
-      "num": 154329,
-      "word": "33岁迪丽热巴状态",
-      "onboard_time": 1777402934,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154139,
       "num": 154139,
       "word": "其实张若昀唱歌也很心酸",
@@ -4713,6 +4761,22 @@
       "onboard_time": 1777181480,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152728,
+      "num": 211958,
+      "word": "银河左岸音乐节演出时间表",
+      "onboard_time": 1777405154,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152690,
+      "num": 213613,
+      "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+      "onboard_time": 1777387761,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151978,
@@ -4905,14 +4969,6 @@
       "onboard_time": 1777357042,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142414,
-      "num": 212916,
-      "word": "出轨女被情人杀害案发细节曝光",
-      "onboard_time": 1777395616,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142318,
@@ -5123,11 +5179,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130766,
+      "num": 130766,
+      "word": "崔家溪退赛陈芋汐再换搭档",
+      "onboard_time": 1777418598,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130307,
       "num": 130307,
       "word": "CNN主播距枪手仅几英尺",
       "onboard_time": 1777172600,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 129965,
+      "num": 211582,
+      "word": "阿联酋退出或是欧佩克终结的开始",
+      "onboard_time": 1777414636,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -5323,6 +5395,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116694,
+      "num": 155932,
+      "word": "欧冠联赛",
+      "onboard_time": 1777417338,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116156,
       "num": 116156,
       "word": "干西红柿你吃过吗",
@@ -5353,14 +5433,6 @@
       "onboard_time": 1777359140,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 115726,
-      "num": 115726,
-      "word": "欧冠联赛",
-      "onboard_time": 1777417338,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 115691,
@@ -5459,27 +5531,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109836,
-      "num": 115637,
-      "word": "阿联酋退出或是欧佩克终结的开始",
-      "onboard_time": 1777414636,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109754,
       "num": 434495,
       "word": "失明男子租房每月50元20年没涨",
       "onboard_time": 1777131562,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109362,
-      "num": 213613,
-      "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
-      "onboard_time": 1777387761,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5545,6 +5601,14 @@
       "onboard_time": 1777334900,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106080,
+      "num": 106080,
+      "word": "OpenAI爆出大利空",
+      "onboard_time": 1777417937,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 105267,
@@ -5691,6 +5755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93517,
+      "num": 160562,
+      "word": "身体你饿了就直接吃我的脂肪",
+      "onboard_time": 1777397416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93389,
       "num": 115644,
       "word": "Rookie说对不起身边的人",
@@ -5811,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84239,
+      "num": 84239,
+      "word": "权志龙将太郎吉赛尔合照",
+      "onboard_time": 1777417698,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83846,
       "num": 100180,
       "word": "列车撞上保洁致3死1伤被罚115万",
@@ -5923,14 +6003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75089,
-      "num": 160562,
-      "word": "身体你饿了就直接吃我的脂肪",
-      "onboard_time": 1777397416,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74685,
       "num": 185031,
       "word": "南方黑芝麻66岁创始人被立案",
@@ -6027,6 +6099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70322,
+      "num": 84205,
+      "word": "这竟然是变形计里的丽姐",
+      "onboard_time": 1777392800,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69903,
       "num": 211879,
       "word": "Jiejie赛后道歉",
@@ -6041,14 +6121,6 @@
       "onboard_time": 1777178540,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 69611,
-      "num": 140977,
-      "word": "银河左岸音乐节演出时间表",
-      "onboard_time": 1777405154,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 68919,
