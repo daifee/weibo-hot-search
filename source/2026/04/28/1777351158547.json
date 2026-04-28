@@ -1,0 +1,410 @@
+{
+  "runTime": 1777351158547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12854695,
+        "num": 12854695,
+        "word": "网红白冰偷税911.18万",
+        "onboard_time": 1777341920,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1830403,
+        "num": 2222378,
+        "word": "白冰回应偷税被查",
+        "onboard_time": 1777342942,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 126364,
+        "num": 1763235,
+        "word": "我国脑机接口加速接入现实",
+        "onboard_time": 1777349423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462518,
+        "num": 1462518,
+        "word": "3只虾21块钱",
+        "onboard_time": 1777347742,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1167856,
+        "num": 1167856,
+        "word": "突然意识到人一定要流动起来",
+        "onboard_time": 1777344802,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20570655,
+        "num": 20570655,
+        "word": "蔡卓妍结婚",
+        "onboard_time": 1777349244,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717631,
+        "num": 717631,
+        "word": "境外组织大力资助网红煽动躺平",
+        "onboard_time": 1777335620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474682,
+        "num": 474682,
+        "word": "王骁田曦薇新剧定档",
+        "onboard_time": 1777344743,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444135,
+        "num": 444135,
+        "word": "本科新增38种专业",
+        "onboard_time": 1777347742,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355461,
+        "num": 355461,
+        "word": "37岁女子健身2年体重不降反增",
+        "onboard_time": 1777347021,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 2876659,
+        "num": 355141,
+        "word": "miumiu陷害女明星",
+        "onboard_time": 1777344081,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1006005,
+        "num": 354496,
+        "word": "白冰长期炫富引争议",
+        "onboard_time": 1777348343,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 972325,
+        "num": 354257,
+        "word": "淘宝 毒品直接前体",
+        "onboard_time": 1777340480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 838233,
+        "num": 353854,
+        "word": "迪丽热巴直播捂肚强忍疼痛",
+        "onboard_time": 1777343843,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622053,
+        "num": 353317,
+        "word": "曝张凌赫低血糖摔倒了",
+        "onboard_time": 1777339280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65119,
+        "num": 352607,
+        "word": "白鹿的洗衣新搭子",
+        "onboard_time": 1777349122,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606735,
+        "num": 352081,
+        "word": "小钰 Rookie",
+        "onboard_time": 1777336100,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 411096,
+        "num": 351716,
+        "word": "A股",
+        "onboard_time": 1777345102,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78573,
+        "num": 351417,
+        "word": "女子称喝霸王茶姬喝出水银",
+        "onboard_time": 1777350085,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63243,
+        "num": 350818,
+        "word": "白冰账号被禁止关注",
+        "onboard_time": 1777350445,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 685038,
+        "num": 350113,
+        "word": "曝和白敬亭演爆剧小鲜肉骗婚骗财",
+        "onboard_time": 1777345522,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567182,
+        "num": 349545,
+        "word": "张凌赫发语音报平安",
+        "onboard_time": 1777347382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542864,
+        "num": 349331,
+        "word": "Rookie疑似遭小钰自杀威胁",
+        "onboard_time": 1777344322,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348993,
+        "num": 348993,
+        "word": "张慧雯三公小考成绩",
+        "onboard_time": 1777348343,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248005,
+        "num": 348853,
+        "word": "油价又大涨了",
+        "onboard_time": 1777347141,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193424,
+        "num": 348759,
+        "word": "肖战十日终焉路透有个大黄蜂",
+        "onboard_time": 1777339042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428678,
+        "num": 348549,
+        "word": "96岁奶奶回应10年还清2077万债",
+        "onboard_time": 1777339160,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185718,
+        "num": 348496,
+        "word": "唐嫣钟汉良新剧对打",
+        "onboard_time": 1777349785,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159267,
+        "num": 348332,
+        "word": "怦然心动20岁冬季",
+        "onboard_time": 1777349964,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81950,
+        "num": 348204,
+        "word": "三星阔折叠机模曝光",
+        "onboard_time": 1777349122,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 520366,
+        "num": 348042,
+        "word": "张杰拔智齿",
+        "onboard_time": 1777350625,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498402,
+        "num": 347940,
+        "word": "蓝莓出轨",
+        "onboard_time": 1777346721,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 466101,
+        "num": 347784,
+        "word": "Rookie的店倒闭小钰承担了几百万债务",
+        "onboard_time": 1777348702,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 454876,
+        "num": 347546,
+        "word": "Rookie女友发文",
+        "onboard_time": 1777333579,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185199,
+        "num": 347412,
+        "word": "唐嫣赵又廷爱情没有神话吻戏",
+        "onboard_time": 1777349483,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72879,
+        "num": 347311,
+        "word": "孕妇买水果遭骂引产为剧情演绎",
+        "onboard_time": 1777350805,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 397738,
+        "num": 347208,
+        "word": "萨摩耶接住了小猫",
+        "onboard_time": 1777348161,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391434,
+        "num": 346952,
+        "word": "女子断臂后靠肌肉信号重新长出手",
+        "onboard_time": 1777349964,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350048,
+        "num": 346777,
+        "word": "白冰上海豪宅大到可骑车兜圈",
+        "onboard_time": 1777350326,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 346768,
+        "num": 346768,
+        "word": "误闯天家歌词到底啥意思",
+        "onboard_time": 1777337779,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63961,
+        "num": 340802,
+        "word": "俞敏洪曾称不再有主播独立成平台",
+        "onboard_time": 1777333398,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336575,
+        "num": 336575,
+        "word": "成毅V中文版",
+        "onboard_time": 1777350686,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325132,
+        "num": 325132,
+        "word": "林志玲自曝和公婆住一起",
+        "onboard_time": 1777344622,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292592,
+        "num": 292592,
+        "word": "老人从81岁到91岁还清2077万的债",
+        "onboard_time": 1777340359,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163872,
+        "num": 292243,
+        "word": "肖战十日终焉十二生肖石雕路透",
+        "onboard_time": 1777345581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132582,
+        "num": 278484,
+        "word": "曝张月团三公小考倒数第一",
+        "onboard_time": 1777333878,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128660,
+        "num": 274838,
+        "word": "现货黄金",
+        "onboard_time": 1777332377,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50054,
+        "num": 268000,
+        "word": "小米百万亿Token计划启动",
+        "onboard_time": 1777346482,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212224,
+        "num": 259362,
+        "word": "雷霆vs太阳",
+        "onboard_time": 1777351046,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255202,
+        "num": 255202,
+        "word": "王楚然高度近视但绝不眯眼",
+        "onboard_time": 1777334420,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#答好窑洞之问书写时代答卷#"
+    }
+  }
+}
