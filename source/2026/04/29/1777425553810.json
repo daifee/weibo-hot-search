@@ -1,0 +1,410 @@
+{
+  "runTime": 1777425553810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4189102,
+        "num": 4189102,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 736651,
+        "num": 1180341,
+        "word": "多平台已下架毒品前体",
+        "onboard_time": 1777421660,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60860,
+        "num": 961018,
+        "word": "五一全社会流动预计超15亿人次",
+        "onboard_time": 1777380141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724466,
+        "num": 724466,
+        "word": "体育老师考教资太尴尬了",
+        "onboard_time": 1777423223,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551944,
+        "num": 551944,
+        "word": "日本广岛爆炸现场视频",
+        "onboard_time": 1777422982,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 504718,
+        "num": 504718,
+        "word": "铁证 刘宇宁",
+        "onboard_time": 1777386861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497402,
+        "num": 497402,
+        "word": "宗师道歉",
+        "onboard_time": 1777421180,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490959,
+        "num": 490959,
+        "word": "白鹿奔跑吧本次最后一次上班",
+        "onboard_time": 1777421481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483148,
+        "num": 483148,
+        "word": "情绪压力对一个人体态的影响",
+        "onboard_time": 1777381162,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426157,
+        "num": 426157,
+        "word": "玉龙雪山景区报警",
+        "onboard_time": 1777386682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660806,
+        "num": 425792,
+        "word": "虞书欣ins点赞Angelababy",
+        "onboard_time": 1777420159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645981,
+        "num": 423372,
+        "word": "一个探店博主为何能偷税近千万",
+        "onboard_time": 1777421000,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 597969,
+        "num": 418466,
+        "word": "迪丽热巴金刚发型",
+        "onboard_time": 1777421360,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587470,
+        "num": 418343,
+        "word": "男子为娶情人捂死孕妻伪造车祸",
+        "onboard_time": 1777423102,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433580,
+        "num": 414888,
+        "word": "宋威龙田曦薇 潮热雨季未解之谜",
+        "onboard_time": 1777421660,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413136,
+        "num": 413136,
+        "word": "第一次知道羽绒服能这么补",
+        "onboard_time": 1777395616,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407827,
+        "num": 407827,
+        "word": "不敢想i人住进去得有多幸福",
+        "onboard_time": 1777392199,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318383,
+        "num": 318383,
+        "word": "阚清子欣赏一下自己的精修图",
+        "onboard_time": 1777422500,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317394,
+        "num": 317394,
+        "word": "于文文被蔡卓妍结婚吓一跳",
+        "onboard_time": 1777385543,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275405,
+        "num": 275405,
+        "word": "天云",
+        "onboard_time": 1777391780,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341748,
+        "num": 270561,
+        "word": "男子许诺3万包养费骗4人发生关系",
+        "onboard_time": 1777384882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265607,
+        "num": 265607,
+        "word": "曹骏徐正溪一武一文乱世同行",
+        "onboard_time": 1777422080,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253567,
+        "num": 253567,
+        "word": "吉娜评论宁艺卓",
+        "onboard_time": 1777420579,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249305,
+        "num": 249305,
+        "word": "腾讯客服回应朋友圈排版变了",
+        "onboard_time": 1777383794,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1370061,
+        "num": 248362,
+        "word": "白冰从发廊小哥到偷税网红",
+        "onboard_time": 1777420099,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 155430,
+        "num": 247208,
+        "word": "东方甄选初代核心主播已全员离开",
+        "onboard_time": 1777420041,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76726,
+        "num": 246780,
+        "word": "美国国防部正式申请更名为战争部",
+        "onboard_time": 1777423940,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117838,
+        "num": 244378,
+        "word": "华为折叠屏对比iPhone折叠屏",
+        "onboard_time": 1777424181,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245553,
+        "num": 243717,
+        "word": "黄金涨到天花板了吗",
+        "onboard_time": 1777423641,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258933,
+        "num": 242481,
+        "word": "永远不要惹减肥的人",
+        "onboard_time": 1777423820,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205952,
+        "num": 241179,
+        "word": "任敏被粉丝催着减肥",
+        "onboard_time": 1777377082,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238391,
+        "num": 239774,
+        "word": "白冰掉粉速度肉眼可见",
+        "onboard_time": 1777421481,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 233105,
+        "num": 239389,
+        "word": "欧冠",
+        "onboard_time": 1777417637,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51934,
+        "num": 237553,
+        "word": "央视评白冰偷税被查",
+        "onboard_time": 1777425439,
+        "rank": 33,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 133171,
+        "num": 236756,
+        "word": "阿联酋退出石油输出国组织",
+        "onboard_time": 1777380861,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32856,
+        "num": 234543,
+        "word": "美国华盛顿2起枪击多人伤",
+        "onboard_time": 1777424181,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218885,
+        "num": 233783,
+        "word": "韩汶栩韩家大院",
+        "onboard_time": 1777421600,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103429,
+        "num": 232763,
+        "word": "Meta准备撤销对Manus收购",
+        "onboard_time": 1777421600,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198690,
+        "num": 230865,
+        "word": "何超欣清华毕业后留校",
+        "onboard_time": 1777425079,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 229595,
+        "word": "建议所有女性多做力量训练",
+        "onboard_time": 1777395616,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181451,
+        "num": 229123,
+        "word": "韩汶栩 第四个嫂子",
+        "onboard_time": 1777387343,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198029,
+        "num": 227217,
+        "word": "人越淡事越顺你越放松结果越好",
+        "onboard_time": 1777419017,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196102,
+        "num": 226876,
+        "word": "赵心童墨菲第二阶段战平",
+        "onboard_time": 1777419679,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187128,
+        "num": 225499,
+        "word": "巴黎5比4拜仁创下多项纪录",
+        "onboard_time": 1777425199,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184343,
+        "num": 224390,
+        "word": "瑶一瑶妈妈回应被吐槽身材",
+        "onboard_time": 1777425501,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182901,
+        "num": 223028,
+        "word": "出轨女被情人杀害案发细节曝光",
+        "onboard_time": 1777395616,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176765,
+        "num": 221643,
+        "word": "33岁迪丽热巴状态",
+        "onboard_time": 1777402934,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164277,
+        "num": 220314,
+        "word": "黄子弘凡 银河左岸出场顺序",
+        "onboard_time": 1777384221,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179795,
+        "num": 218667,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777377862,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110454,
+        "num": 217684,
+        "word": "唐嫣到底还要管何家这点事多久",
+        "onboard_time": 1777421120,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}

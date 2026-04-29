@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/29 08:05:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/29 09:19:13
 </p>
 </blockquote>
 <p>
@@ -759,6 +759,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
+朋友圈改版（热度：4189102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%83%85%E5%95%86%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%20%E9%AB%98%E6%83%85%E5%95%86%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF%23" target="weibo">
 低情商演员失业 高情商更多休息（热度：4143269）
 </a>
@@ -1079,12 +1085,6 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E6%98%A5%E6%99%9A%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%23" target="weibo">
 我在春晚刷短视频（热度：3153650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
-朋友圈改版（热度：3148761）
 </a>
 </li>
 

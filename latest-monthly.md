@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 08:05:57
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 09:19:13
 </p>
 </blockquote>
 <p>
@@ -171,6 +171,12 @@ Rookie道歉（热度：15863993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
+朋友圈改版（热度：4189102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%83%85%E5%95%86%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%20%E9%AB%98%E6%83%85%E5%95%86%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF%23" target="weibo">
 低情商演员失业 高情商更多休息（热度：4143269）
 </a>
@@ -281,12 +287,6 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84%23" target="weibo">
 这些图片居然都是AI的（热度：3170901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
-朋友圈改版（热度：3148761）
 </a>
 </li>
 
@@ -1595,6 +1595,12 @@ Rookie女友发文（热度：1404836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E5%93%A5%E5%93%A5%E7%9A%84%E5%A6%BB%E5%AD%90%E5%8F%91ins%23" target="weibo">
 金智秀哥哥的妻子发ins（热度：1371754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E4%BB%8E%E5%8F%91%E5%BB%8A%E5%B0%8F%E5%93%A5%E5%88%B0%E5%81%B7%E7%A8%8E%E7%BD%91%E7%BA%A2%23" target="weibo">
+白冰从发廊小哥到偷税网红（热度：1370061）
 </a>
 </li>
 
@@ -4605,6 +4611,12 @@ GPT Image2 恐怖谷（热度：739378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%AF%92%E5%93%81%E5%89%8D%E4%BD%93%23" target="weibo">
+多平台已下架毒品前体（热度：736651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E5%A5%BD%E9%A3%92%23" target="weibo">
 张月好飒（热度：736329）
 </a>
@@ -4757,6 +4769,12 @@ TOP更新站位（热度：733534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23labubu%E5%86%B0%E7%AE%B1%E6%BA%A2%E4%BB%B73000%E5%85%83%23" target="weibo">
 labubu冰箱溢价3000元（热度：724625）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E8%80%83%E6%95%99%E8%B5%84%E5%A4%AA%E5%B0%B4%E5%B0%AC%E4%BA%86%23" target="weibo">
+体育老师考教资太尴尬了（热度：724466）
 </a>
 </li>
 
@@ -5439,6 +5457,12 @@ KTV服务员被指强奸14岁女生（热度：668220）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ins%E7%82%B9%E8%B5%9EAngelababy%23" target="weibo">
+虞书欣ins点赞Angelababy（热度：660806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E8%AF%B4%E6%89%8D%E5%88%9A%E7%A6%BB%E5%A9%9A%E5%88%AB%E8%BF%99%E6%A0%B7%23" target="weibo">
 江语晨说才刚离婚别这样（热度：660427）
 </a>
@@ -5633,6 +5657,12 @@ iPhone18ProMax金属机模（热度：656409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%98%A5%E5%A7%90%E5%BC%9F%E4%BF%A9%E8%A2%AB%E9%81%97%E7%95%99%E5%9C%A8%E6%89%98%E7%AE%A1%E7%8F%AD%E4%B8%A4%E5%B9%B4%23" target="weibo">
 长春姐弟俩被遗留在托管班两年（热度：646283）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%8E%A2%E5%BA%97%E5%8D%9A%E4%B8%BB%E4%B8%BA%E4%BD%95%E8%83%BD%E5%81%B7%E7%A8%8E%E8%BF%91%E5%8D%83%E4%B8%87%23" target="weibo">
+一个探店博主为何能偷税近千万（热度：645981）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ TOP直播（热度：622036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 联合国警告特朗普（热度：620972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%8D%E5%B8%A6%E6%AF%9B%E5%B7%BE%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-住酒店不带毛巾的人天塌了（热度：620761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E7%9B%B4%E6%92%AD%23" target="weibo">
-苏超直播（热度：620376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B21%E5%A4%A9%E8%B5%9A%E5%A4%9F1%E5%B9%B4%E7%9A%84%E9%92%B1%23" target="weibo">
-莫氏鸡煲1天赚够1年的钱（热度：620276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A7%81%E6%A0%93%E7%BB%B3%E5%AD%90%E8%87%B4%E7%94%B7%E5%AD%A9%E6%B0%94%E7%AE%A1%E5%85%A8%E6%96%AD%E8%A3%82%23" target="weibo">
-老人私栓绳子致男孩气管全断裂（热度：619955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%86%8D%E6%AC%A1%E6%81%AD%E5%96%9C%E8%87%AA%E5%B7%B1%23" target="weibo">
-湖南卫视再次恭喜自己（热度：619598）
 </a>
 </li>
 

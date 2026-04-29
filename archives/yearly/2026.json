@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777421157122,
+  "endTime": 1777425553810,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4189102,
+      "num": 4189102,
+      "word": "朋友圈改版",
+      "onboard_time": 1777396218,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 4143269,
       "num": 2132982,
       "word": "低情商演员失业 高情商更多休息",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1771248821,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3148761,
-      "num": 3148761,
-      "word": "朋友圈改版",
-      "onboard_time": 1777396218,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 3146099,
