@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777476191945,
+  "endTime": 1777482075741,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -1379,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700053,
+      "num": 336896,
+      "word": "金价",
+      "onboard_time": 1777474762,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 696403,
       "num": 696403,
       "word": "多读书真的会影响你的三观",
@@ -2259,6 +2267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 487822,
+      "num": 262865,
+      "word": "老式水果为何消失了",
+      "onboard_time": 1777475361,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486399,
       "num": 380493,
       "word": "特朗普说他妻子躲得更快",
@@ -2691,14 +2707,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 419048,
-      "num": 336896,
-      "word": "金价",
-      "onboard_time": 1777474762,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 417977,
       "num": 417977,
       "word": "律师回应Rookie道歉",
@@ -2745,6 +2753,22 @@
       "onboard_time": 1777159397,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 410369,
+      "num": 466024,
+      "word": "男子借宿同学家致一死一伤案取消开庭",
+      "onboard_time": 1777478778,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 408861,
+      "num": 184181,
+      "word": "高铁上C座D座齐刷刷伸手",
+      "onboard_time": 1777478600,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408647,
@@ -3947,14 +3971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262865,
-      "num": 262865,
-      "word": "老式水果为何消失了",
-      "onboard_time": 1777475361,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262815,
       "num": 457284,
       "word": "独居以后我的冰箱",
@@ -4257,6 +4273,14 @@
       "onboard_time": 1777261580,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242814,
+      "num": 211811,
+      "word": "历届北京大学生电影节影帝影后",
+      "onboard_time": 1777475361,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 242039,
@@ -4721,14 +4745,6 @@
       "onboard_time": 1777381222,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211811,
-      "num": 211811,
-      "word": "历届北京大学生电影节影帝影后",
-      "onboard_time": 1777475361,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 211732,
@@ -5427,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179954,
+      "num": 142613,
+      "word": "唐嫣叫胡歌宝总",
+      "onboard_time": 1777480398,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179093,
       "num": 356285,
       "word": "王俊凯选出了宇编和世界的主人",
@@ -5995,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155903,
+      "num": 155903,
+      "word": "韩国梨泰院惨案救人英雄被发现死亡",
+      "onboard_time": 1777475303,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155879,
       "num": 155879,
       "word": "直观感受到赵丽颖的脸有多小",
@@ -6427,6 +6459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138725,
+      "num": 138725,
+      "word": "凯凯拍的颜颜发",
+      "onboard_time": 1777477939,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138569,
       "num": 138569,
       "word": "特朗普插队英王尴尬旁观",
@@ -6649,6 +6689,14 @@
       "onboard_time": 1777349423,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125813,
+      "num": 125813,
+      "word": "何以笙箫默当年赵默笙的假发套",
+      "onboard_time": 1777476502,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 124717,
@@ -7027,6 +7075,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 108100,
+      "num": 97921,
+      "word": "易烊千玺终于放假了",
+      "onboard_time": 1777477041,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107994,
       "num": 425440,
       "word": "东方甄选中灿官宣离职",
@@ -7065,6 +7121,14 @@
       "onboard_time": 1777334900,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105646,
+      "num": 171603,
+      "word": "电脑涨价20%市场人流空荡荡",
+      "onboard_time": 1777478420,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 105267,
@@ -7555,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75095,
+      "num": 88845,
+      "word": "王俊凯巅峰之夜全记录",
+      "onboard_time": 1777479080,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 74685,
       "num": 185031,
       "word": "南方黑芝麻66岁创始人被立案",
@@ -7593,6 +7665,14 @@
       "onboard_time": 1777210041,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73743,
+      "num": 88823,
+      "word": "应聘店长因乙肝携带被拒录用",
+      "onboard_time": 1777477580,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73511,
@@ -7883,6 +7963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62917,
+      "num": 88635,
+      "word": "日本民众为南京大屠杀流泪致歉",
+      "onboard_time": 1777476381,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62897,
       "num": 211305,
       "word": "比亚迪一季度净利润40.85亿",
@@ -7905,6 +7993,14 @@
       "onboard_time": 1777282101,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62160,
+      "num": 88508,
+      "word": "鞠婧祎谈对行业的敬畏心",
+      "onboard_time": 1777477280,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 61962,
@@ -8193,6 +8289,14 @@
       "onboard_time": 1777116078,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47362,
+      "num": 88289,
+      "word": "刘浩存好会撩",
+      "onboard_time": 1777482017,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 47356,
@@ -8809,6 +8913,14 @@
       "onboard_time": 1777410493,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12640,
+      "num": 367990,
+      "word": "世界艺术与科技对话",
+      "onboard_time": 1777476502,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11112,
