@@ -1,6 +1,6 @@
 {
   "startTime": 1777482075741,
-  "endTime": 1777484794765,
+  "endTime": 1777489029308,
   "band_list": [
     {
       "raw_hot": 700053,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261919,
+      "num": 45093,
+      "word": "林子烨 下巴后缩",
+      "onboard_time": 1777452381,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242814,
       "num": 164270,
       "word": "历届北京大学生电影节影帝影后",
@@ -137,6 +145,14 @@
       "onboard_time": 1777461800,
       "rank": 9,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 195754,
+      "num": 131933,
+      "word": "面试时就这样解释空窗期",
+      "onboard_time": 1777483576,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 179954,
@@ -307,14 +323,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 77511,
-      "num": 131933,
-      "word": "面试时就这样解释空窗期",
-      "onboard_time": 1777483576,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75095,
       "num": 131505,
       "word": "王俊凯巅峰之夜全记录",
@@ -379,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49447,
+      "num": 130769,
+      "word": "其实旅游根本不用担心语言不通",
+      "onboard_time": 1777484356,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47689,
       "num": 88327,
       "word": "现货黄金",
@@ -403,20 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41608,
-      "num": 130769,
-      "word": "其实旅游根本不用担心语言不通",
-      "onboard_time": 1777484356,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 40811,
       "num": 130686,
       "word": "吴敬平指导德国运动员体验中国训练",
       "onboard_time": 1777476979,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33766,
+      "num": 45135,
+      "word": "宇宙或已过青年期",
+      "onboard_time": 1777487114,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12640,

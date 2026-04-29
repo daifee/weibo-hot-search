@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/04/30 01:46:34
+本榜单时间：2026/04/26 00:04:47 ~ 2026/04/30 02:57:09
 </p>
 </blockquote>
 <p>
@@ -3831,6 +3831,12 @@ Hero战胜WG（热度：197964）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E6%97%B6%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%A7%A3%E9%87%8A%E7%A9%BA%E7%AA%97%E6%9C%9F%23" target="weibo">
+面试时就这样解释空窗期（热度：195754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A6%BB%E8%87%AA%E6%9B%9D%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
 前妻自曝出轨男子发现儿子非亲生（热度：195552）
 </a>
@@ -5703,12 +5709,6 @@ Rookie说对不起身边的人（热度：93389）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E6%97%B6%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%A7%A3%E9%87%8A%E7%A9%BA%E7%AA%97%E6%9C%9F%23" target="weibo">
-面试时就这样解释空窗期（热度：77511）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%BD%A0%E4%BB%AC%E4%B8%80%E4%BC%9A%E4%B8%8D%E8%A6%81%E7%AC%91%E5%95%8A%23" target="weibo">
 陈赫你们一会不要笑啊（热度：77498）
 </a>
@@ -6207,6 +6207,12 @@ KPL（热度：56852）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E6%97%85%E6%B8%B8%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E8%AF%AD%E8%A8%80%E4%B8%8D%E9%80%9A%23" target="weibo">
+其实旅游根本不用担心语言不通（热度：49447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E4%BA%8C%E4%BB%A3%E4%BB%AC%E7%9A%84%E5%A4%96%E5%8C%85%E5%A6%88%E5%A6%88%23" target="weibo">
 富二代们的外包妈妈（热度：49440）
 </a>
@@ -6321,12 +6327,6 @@ Rookie 小钰没有威胁我（热度：45360）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E6%97%85%E6%B8%B8%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E8%AF%AD%E8%A8%80%E4%B8%8D%E9%80%9A%23" target="weibo">
-其实旅游根本不用担心语言不通（热度：41608）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD2004%E5%B9%B4%E5%BC%80%E5%A7%8B%E5%BB%BA%E7%AB%8B%E6%88%98%E7%95%A5%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87%23" target="weibo">
 中国2004年开始建立战略石油储备（热度：40832）
 </a>
@@ -6437,6 +6437,12 @@ Rookie承认误导现女友（热度：36159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E4%BA%8C%20%E4%BA%9A%E5%86%9B%23" target="weibo">
 破二 亚军（热度：34688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E6%88%96%E5%B7%B2%E8%BF%87%E9%9D%92%E5%B9%B4%E6%9C%9F%23" target="weibo">
+宇宙或已过青年期（热度：33766）
 </a>
 </li>
 
