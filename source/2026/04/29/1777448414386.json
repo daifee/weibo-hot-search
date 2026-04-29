@@ -1,0 +1,410 @@
+{
+  "runTime": 1777448414386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2258416,
+        "num": 2258416,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 637680,
+        "num": 1018066,
+        "word": "霸王茶姬疑喝出水银市监局已介入",
+        "onboard_time": 1777436541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54575,
+        "num": 796781,
+        "word": "新中国首条通江达海大运河来了",
+        "onboard_time": 1777430960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1722692,
+        "num": 796021,
+        "word": "孙杨方否认妈妈和节目组联系",
+        "onboard_time": 1777445541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789603,
+        "num": 789603,
+        "word": "原来真的有人能把字写成这样",
+        "onboard_time": 1777439361,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 530904,
+        "num": 530904,
+        "word": "东方甄选yoyo发声",
+        "onboard_time": 1777442599,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522187,
+        "num": 522187,
+        "word": "比亚迪宣布涨价",
+        "onboard_time": 1777438702,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 446677,
+        "num": 446677,
+        "word": "张豆豆谈婆媳关系",
+        "onboard_time": 1777447399,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251312,
+        "num": 439413,
+        "word": "偏偏宠爱阵容",
+        "onboard_time": 1777437143,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30659,
+        "num": 429129,
+        "word": "国家医保局通报药店骗保查办进展",
+        "onboard_time": 1777447700,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1839206,
+        "num": 418661,
+        "word": "孙杨前女友曾发文吐槽孙杨妈妈",
+        "onboard_time": 1777443440,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1610285,
+        "num": 416010,
+        "word": "GUCCI官宣宁艺卓",
+        "onboard_time": 1777443740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482311,
+        "num": 403978,
+        "word": "小狗每次拿外卖都把家具暴打一遍",
+        "onboard_time": 1777434980,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1183348,
+        "num": 392858,
+        "word": "吴宣仪母亲被赶出公司",
+        "onboard_time": 1777435401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756808,
+        "num": 385191,
+        "word": "辛巴悬赏百万元威胁前高管",
+        "onboard_time": 1777442781,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 457084,
+        "num": 372424,
+        "word": "被淘汰的水果",
+        "onboard_time": 1777446259,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 702368,
+        "num": 369098,
+        "word": "孙杨张豆豆是双方母亲撮合在一起的",
+        "onboard_time": 1777441581,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360020,
+        "num": 360020,
+        "word": "英国王嘲讽美国特朗普表情亮了",
+        "onboard_time": 1777440741,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422174,
+        "num": 351777,
+        "word": "储户1800万存款被银行员工转走",
+        "onboard_time": 1777446981,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326165,
+        "num": 326165,
+        "word": "百亩蒜薹被近千人2天抽完",
+        "onboard_time": 1777437382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 959802,
+        "num": 325304,
+        "word": "乐华就吴宣仪事件发声明",
+        "onboard_time": 1777443860,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552059,
+        "num": 324607,
+        "word": "马頔嘴替",
+        "onboard_time": 1777440801,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466408,
+        "num": 323057,
+        "word": "这比被出轨更令人难以接受",
+        "onboard_time": 1777434801,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455960,
+        "num": 322085,
+        "word": "孙杨家庭环境",
+        "onboard_time": 1777442900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320794,
+        "num": 320794,
+        "word": "银行转走1800万存款储户兑现遭拖延",
+        "onboard_time": 1777448240,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309891,
+        "num": 309891,
+        "word": "曝王一博没见过自己的演艺合同",
+        "onboard_time": 1777435642,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308683,
+        "num": 308683,
+        "word": "李小冉王濛唐艺昕三公小考再合体",
+        "onboard_time": 1777441100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214407,
+        "num": 280627,
+        "word": "A股迎大反转",
+        "onboard_time": 1777444879,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262893,
+        "num": 262893,
+        "word": "男子在足浴店逃单前台懵了",
+        "onboard_time": 1777445599,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173231,
+        "num": 258529,
+        "word": "国台办回应郑丽文6月将访美",
+        "onboard_time": 1777442721,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263038,
+        "num": 258337,
+        "word": "郎朗回复宁艺卓",
+        "onboard_time": 1777445299,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257917,
+        "num": 257917,
+        "word": "杨瀚森完成了NBA菜鸟赛季",
+        "onboard_time": 1777444039,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256022,
+        "num": 256022,
+        "word": "请假10天5天连做5台手术男子发声",
+        "onboard_time": 1777427720,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238414,
+        "num": 238414,
+        "word": "陈晓宋轶开机同框",
+        "onboard_time": 1777440141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225819,
+        "num": 225819,
+        "word": "十年前的婚纱照",
+        "onboard_time": 1777436362,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219466,
+        "num": 219466,
+        "word": "怪不得你俩能结婚",
+        "onboard_time": 1777447580,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203442,
+        "num": 203442,
+        "word": "马頔在五哈和妻子两幅面孔",
+        "onboard_time": 1777446142,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202271,
+        "num": 202271,
+        "word": "偏偏宠爱",
+        "onboard_time": 1777430239,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38109,
+        "num": 193040,
+        "word": "谈莉娜突发宫缩误以为要生了",
+        "onboard_time": 1777445359,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64346,
+        "num": 190425,
+        "word": "女子租了两天车背上近十万元债务",
+        "onboard_time": 1777447341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189741,
+        "num": 189741,
+        "word": "格力集团原董事长周乐伟主动投案",
+        "onboard_time": 1777440201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 171503,
+        "word": "曝乐华不允许艺人查看工作合同",
+        "onboard_time": 1777434320,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162094,
+        "num": 162094,
+        "word": "赛琳娜老公cue比丑帖",
+        "onboard_time": 1777435220,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "我国新发现13个亿吨级油田",
+        "onboard_time": 1777432879,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157192,
+        "num": 157192,
+        "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+        "onboard_time": 1777448361,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 152074,
+        "word": "J人老了捡纸壳也要震撼P人",
+        "onboard_time": 1777447399,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145297,
+        "num": 145297,
+        "word": "1岁半男婴被抢奶奶和男友被疑卖孙",
+        "onboard_time": 1777435761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144600,
+        "num": 144600,
+        "word": "大衣哥遭踹门后把木门换成了铁门",
+        "onboard_time": 1777446079,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 138569,
+        "word": "特朗普插队英王尴尬旁观",
+        "onboard_time": 1777445660,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133942,
+        "num": 133942,
+        "word": "尹锡悦二审获刑7年",
+        "onboard_time": 1777446501,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措抓好经济工作#"
+    }
+  }
+}
