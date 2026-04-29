@@ -1,0 +1,410 @@
+{
+  "runTime": 1777464055514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660792,
+        "num": 1105726,
+        "word": "霸王茶姬异物系购买人投放",
+        "onboard_time": 1777458261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514930,
+        "num": 797460,
+        "word": "女子购止血药被骑手偷拍还公布住址",
+        "onboard_time": 1777459940,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14221,
+        "num": 633888,
+        "word": "理响中国",
+        "onboard_time": 1777460660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1017877,
+        "num": 633862,
+        "word": "肖战大影节生图",
+        "onboard_time": 1777460660,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288566,
+        "num": 632982,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1777446020,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 342427,
+        "num": 632599,
+        "word": "谢娜称演唱会票价覆盖不了成本",
+        "onboard_time": 1777457001,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263387,
+        "num": 632277,
+        "word": "唐嫣工作室 宣发",
+        "onboard_time": 1777459759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260826,
+        "num": 631726,
+        "word": "中国羽毛球协会主席张军被查",
+        "onboard_time": 1777450341,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187697,
+        "num": 631215,
+        "word": "男子看错一个字转错100万",
+        "onboard_time": 1777460481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219313,
+        "num": 630785,
+        "word": "拍照显瘦20斤姿势",
+        "onboard_time": 1777461800,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1285890,
+        "num": 629974,
+        "word": "林子烨 下巴后缩",
+        "onboard_time": 1777452381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1179164,
+        "num": 629846,
+        "word": "一年没剪头发的结果",
+        "onboard_time": 1777456040,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166783,
+        "num": 629291,
+        "word": "原来真的有人能把字写成这样",
+        "onboard_time": 1777439361,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110011,
+        "num": 628364,
+        "word": "小米玄戒O3曝光",
+        "onboard_time": 1777454961,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 661959,
+        "num": 628333,
+        "word": "转走储户1800万银行员工喝药轻生",
+        "onboard_time": 1777449920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627858,
+        "num": 627858,
+        "word": "孙杨夫妇录妻旅原因曝光",
+        "onboard_time": 1777450159,
+        "rank": 15,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 568689,
+        "num": 568689,
+        "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+        "onboard_time": 1777448361,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310255,
+        "num": 506672,
+        "word": "查尔斯国王给特朗普送了口钟",
+        "onboard_time": 1777459581,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 482920,
+        "num": 482920,
+        "word": "杜华给金子涵所属女团开会发言",
+        "onboard_time": 1777462401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240042,
+        "num": 427982,
+        "word": "前车女司机被按喇叭原地掉头",
+        "onboard_time": 1777455500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1556124,
+        "num": 427853,
+        "word": "汤唯确认怀二胎",
+        "onboard_time": 1777456580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785236,
+        "num": 427635,
+        "word": "陈律求痞幼复合",
+        "onboard_time": 1777461019,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427176,
+        "num": 427176,
+        "word": "终于知道林志玲为什么能红这么久",
+        "onboard_time": 1777459701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529159,
+        "num": 422518,
+        "word": "女子洁癖严重结婚19年无法同房",
+        "onboard_time": 1777458380,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87757,
+        "num": 395664,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126945,
+        "num": 391116,
+        "word": "黄金重要信号",
+        "onboard_time": 1777456521,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220971,
+        "num": 371961,
+        "word": "婆婆一次性给足三年20万保姆费",
+        "onboard_time": 1777463481,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218705,
+        "num": 360796,
+        "word": "孙杨妈妈早期言论",
+        "onboard_time": 1777453641,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540157,
+        "num": 343970,
+        "word": "金钟大的女儿都这么大了",
+        "onboard_time": 1777461200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65821,
+        "num": 329544,
+        "word": "我国新发现13个亿吨级油田",
+        "onboard_time": 1777432879,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313706,
+        "num": 313706,
+        "word": "孙杨下沉市场口碑",
+        "onboard_time": 1777451602,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343832,
+        "num": 300426,
+        "word": "前男友曝黄一鸣涉毒",
+        "onboard_time": 1777456521,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262007,
+        "num": 285926,
+        "word": "曝iPhoneFold定价14999元",
+        "onboard_time": 1777454540,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284395,
+        "num": 284395,
+        "word": "明星水晶手串",
+        "onboard_time": 1777451902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276056,
+        "num": 276056,
+        "word": "吴宣仪母亲被赶出公司",
+        "onboard_time": 1777435401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240122,
+        "num": 240122,
+        "word": "被淘汰的水果",
+        "onboard_time": 1777446259,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251803,
+        "num": 236142,
+        "word": "刘宇宁说年轻演员里没几个能扛招商的",
+        "onboard_time": 1777454181,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230886,
+        "num": 230886,
+        "word": "妻子的浪漫旅行节目组回应",
+        "onboard_time": 1777450701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181144,
+        "num": 227496,
+        "word": "110斤女孩两个月瘦成纸片人",
+        "onboard_time": 1777449500,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27797,
+        "num": 225933,
+        "word": "酒店回应客人要求续住换床单被拒",
+        "onboard_time": 1777462881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225854,
+        "num": 225854,
+        "word": "赖冠霖给wannaone拍了新物料",
+        "onboard_time": 1777460061,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70332,
+        "num": 207091,
+        "word": "看一人之下学到的冷知识",
+        "onboard_time": 1777463420,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85075,
+        "num": 205901,
+        "word": "曝下月将去戛纳的明星",
+        "onboard_time": 1777460839,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 205828,
+        "word": "GUCCI官宣宁艺卓",
+        "onboard_time": 1777443740,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168670,
+        "num": 168670,
+        "word": "公婆拎3年20万保姆费产房慰问儿媳",
+        "onboard_time": 1777462759,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186709,
+        "num": 163308,
+        "word": "白鹿举着滚动字幕说明私人行程",
+        "onboard_time": 1777462281,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "王橹杰开裆裤时期",
+        "onboard_time": 1777456040,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76954,
+        "num": 148198,
+        "word": "马斯克天价薪酬方案曝光了",
+        "onboard_time": 1777454001,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108067,
+        "num": 148174,
+        "word": "时代少年团轮番叮嘱谢娜",
+        "onboard_time": 1777449260,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148170,
+        "num": 148170,
+        "word": "男子请假10天做了5台手术直呼后悔",
+        "onboard_time": 1777451240,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十五次集体学习#"
+    }
+  }
+}

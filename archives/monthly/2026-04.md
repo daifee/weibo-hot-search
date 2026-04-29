@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 18:25:05
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 20:00:55
 </p>
 </blockquote>
 <p>
@@ -1887,6 +1887,12 @@ C罗认为人类喝牛奶不正常（热度：1296575）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%90%E7%83%A8%20%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%23" target="weibo">
+林子烨 下巴后缩（热度：1285890）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E6%B2%A1%E4%BA%BA%E9%80%9A%E7%9F%A5%E6%88%91%E5%95%8A%23" target="weibo">
 杨紫 没人通知我啊（热度：1277053）
 </a>
@@ -2219,6 +2225,12 @@ KSG冠军（热度：1256749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%84%8F%E5%81%9C%E8%B7%B32%E5%A4%A9%E5%90%8E%E7%94%9F%E8%BF%98%23" target="weibo">
 男子心脏停跳2天后生还（热度：1179216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91%E7%9A%84%E7%BB%93%E6%9E%9C%23" target="weibo">
+一年没剪头发的结果（热度：1179164）
 </a>
 </li>
 
@@ -2757,6 +2769,12 @@ Lululemon被调查（热度：1020109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E5%BD%B1%E8%8A%82%E7%94%9F%E5%9B%BE%23" target="weibo">
+肖战大影节生图（热度：1017877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%A5%96%E5%AE%97%E4%B8%8D%E6%84%BF%E5%B8%A6%E5%9B%9E%E6%9D%A5%E7%9A%84%E9%A3%9F%E7%89%A9%E4%B8%80%E5%AE%9A%E9%9A%BE%E5%90%83%23" target="weibo">
 老祖宗不愿带回来的食物一定难吃（热度：1015286）
 </a>
@@ -2915,12 +2933,6 @@ Meta Manus（热度：985428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura90%E4%BB%B7%E6%A0%BC%23" target="weibo">
 华为Pura90价格（热度：985012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E6%B2%A1%E5%89%AA%E5%A4%B4%E5%8F%91%E7%9A%84%E7%BB%93%E6%9E%9C%23" target="weibo">
-一年没剪头发的结果（热度：984166）
 </a>
 </li>
 
@@ -4281,6 +4293,12 @@ en王翊恩 结婚但没同居（热度：795143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%8B%E6%B1%82%E7%97%9E%E5%B9%BC%E5%A4%8D%E5%90%88%23" target="weibo">
+陈律求痞幼复合（热度：785236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%81%E8%80%83%E5%BE%90%E6%B4%81%E5%84%BF%23" target="weibo">
 王俊凯送考徐洁儿（热度：785134）
 </a>
@@ -5583,6 +5601,12 @@ KTV服务员被指强奸14岁女生（热度：668220）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BC%82%E7%89%A9%E7%B3%BB%E8%B4%AD%E4%B9%B0%E4%BA%BA%E6%8A%95%E6%94%BE%23" target="weibo">
+霸王茶姬异物系购买人投放（热度：660792）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E8%AF%B4%E6%89%8D%E5%88%9A%E7%A6%BB%E5%A9%9A%E5%88%AB%E8%BF%99%E6%A0%B7%23" target="weibo">
 江语晨说才刚离婚别这样（热度：660427）
 </a>
@@ -5987,30 +6011,6 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E6%88%91%E7%9C%8B%E9%82%A3%E7%8E%A9%E6%84%8F%E5%84%BF%E5%B9%B2%E5%95%A5%E5%95%8A%23" target="weibo">
 孙怡说我看那玩意儿干啥啊（热度：631701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C%23" target="weibo">
-王楚钦vs雨果（热度：631665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23" target="weibo">
-DeepSeek多位核心骨干离职去大厂（热度：630386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E7%96%AF%E6%B6%A8%23" target="weibo">
-沪上阿姨疯涨（热度：630197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%A2%AB%E5%9F%8B%E5%B0%B828%E5%B9%B4%E4%BB%96%E6%B0%B8%E8%BF%9C%E5%81%9C%E5%9C%A810%E5%B2%81%23" target="weibo">
-妈妈被埋尸28年他永远停在10岁（热度：629805）
 </a>
 </li>
 
