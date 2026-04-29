@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777448414386,
+  "endTime": 1777457661569,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1417738,
+      "num": 337335,
+      "word": "汤唯确认怀二胎",
+      "onboard_time": 1777456580,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1404836,
       "num": 439955,
       "word": "Rookie女友发文",
@@ -585,6 +593,14 @@
       "onboard_time": 1777377082,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148866,
+      "num": 637998,
+      "word": "转走储户1800万银行员工喝药轻生",
+      "onboard_time": 1777449920,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1125043,
@@ -953,6 +969,14 @@
       "onboard_time": 1777119322,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 830565,
+      "num": 347311,
+      "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+      "onboard_time": 1777448361,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 828115,
@@ -1699,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557958,
+      "num": 557958,
+      "word": "孙杨夫妇录妻旅原因曝光",
+      "onboard_time": 1777450159,
+      "rank": 5,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 554518,
       "num": 372209,
       "word": "医生回应男孩睾丸扭转羞于就医坏死",
@@ -1736,6 +1768,14 @@
       "word": "疑似汤唯怀二胎",
       "onboard_time": 1777278020,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 548812,
+      "num": 344051,
+      "word": "林子烨 下巴后缩",
+      "onboard_time": 1777452381,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1819,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531899,
+      "num": 810523,
+      "word": "中国羽毛球协会主席张军被查",
+      "onboard_time": 1777450341,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531386,
       "num": 531386,
       "word": "37岁女子健身2年体重不降反增",
@@ -1883,6 +1931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 520747,
+      "num": 346023,
+      "word": "男子请假10天做了5台手术直呼后悔",
+      "onboard_time": 1777451240,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520366,
       "num": 348042,
       "word": "张杰拔智齿",
@@ -1904,6 +1960,14 @@
       "word": "曝苹果将推出真全面屏手机",
       "onboard_time": 1777302921,
       "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 513954,
+      "num": 343232,
+      "word": "曝iPhoneFold定价14999元",
+      "onboard_time": 1777454540,
+      "rank": 14,
       "category": "数码"
     },
     {
@@ -1968,6 +2032,14 @@
       "word": "曾沛慈耳返",
       "onboard_time": 1777253481,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 500008,
+      "num": 466296,
+      "word": "妻子的浪漫旅行节目组回应",
+      "onboard_time": 1777450701,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -2057,6 +2129,22 @@
       "onboard_time": 1777360761,
       "rank": 17,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 485532,
+      "num": 342059,
+      "word": "刘宇宁说年轻演员里没几个能扛招商的",
+      "onboard_time": 1777454181,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484287,
+      "num": 484287,
+      "word": "一年没剪头发的结果",
+      "onboard_time": 1777456040,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 483793,
@@ -2204,7 +2292,7 @@
     },
     {
       "raw_hot": 457084,
-      "num": 372424,
+      "num": 447663,
       "word": "被淘汰的水果",
       "onboard_time": 1777446259,
       "rank": 26,
@@ -2276,7 +2364,7 @@
     },
     {
       "raw_hot": 443503,
-      "num": 407125,
+      "num": 653562,
       "word": "我国新发现13个亿吨级油田",
       "onboard_time": 1777432879,
       "rank": 23,
@@ -2520,6 +2608,14 @@
       "word": "林志玲自曝和公婆住一起",
       "onboard_time": 1777344622,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403082,
+      "num": 340693,
+      "word": "明星水晶手串",
+      "onboard_time": 1777451902,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2923,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347526,
+      "num": 347526,
+      "word": "孙杨下沉市场口碑",
+      "onboard_time": 1777451602,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344150,
       "num": 271481,
       "word": "保姆起诉叶璇",
@@ -3099,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326427,
+      "num": 326427,
+      "word": "孙杨妈妈早期言论",
+      "onboard_time": 1777453641,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326403,
       "num": 326403,
       "word": "李小冉王濛唐艺昕三公小考再合体",
@@ -3185,6 +3297,14 @@
       "onboard_time": 1777270341,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315895,
+      "num": 315895,
+      "word": "前车女司机被按喇叭原地掉头",
+      "onboard_time": 1777455500,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315705,
@@ -3377,6 +3497,14 @@
       "onboard_time": 1777444039,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288033,
+      "num": 288033,
+      "word": "110斤女孩两个月瘦成纸片人",
+      "onboard_time": 1777449500,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284349,
@@ -3627,6 +3755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259278,
+      "num": 259278,
+      "word": "前男友曝黄一鸣涉毒",
+      "onboard_time": 1777456521,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 258933,
       "num": 242481,
       "word": "永远不要惹减肥的人",
@@ -3657,6 +3793,14 @@
       "onboard_time": 1777380742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256160,
+      "num": 256160,
+      "word": "云合",
+      "onboard_time": 1777452741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 255755,
@@ -4571,6 +4715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197930,
+      "num": 197930,
+      "word": "谢娜称演唱会票价覆盖不了成本",
+      "onboard_time": 1777457001,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197740,
       "num": 347137,
       "word": "6岁女童确诊癌症不到2年去世",
@@ -5107,12 +5259,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173217,
+      "num": 173217,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1777446020,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "律师称14岁男生被判无期已是顶格处罚",
       "onboard_time": 1777420159,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172219,
+      "num": 255582,
+      "word": "黄金重要信号",
+      "onboard_time": 1777456521,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 171922,
@@ -5395,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158900,
+      "num": 158900,
+      "word": "宁艺卓GUCCI从接触到代言仅半年",
+      "onboard_time": 1777454301,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158672,
       "num": 248954,
       "word": "女子为爱远嫁生3个娃被升职丈夫嫌弃",
@@ -5417,14 +5593,6 @@
       "onboard_time": 1777162097,
       "rank": 41,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 157192,
-      "num": 157192,
-      "word": "瑶一瑶被要求配合拍摄回怼妈妈",
-      "onboard_time": 1777448361,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 156054,
@@ -5489,6 +5657,14 @@
       "onboard_time": 1777181480,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153634,
+      "num": 153634,
+      "word": "时代少年团轮番叮嘱谢娜",
+      "onboard_time": 1777449260,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 152728,
@@ -6099,6 +6275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120477,
+      "num": 173971,
+      "word": "中了4999元五一免单怎么花",
+      "onboard_time": 1777457360,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120036,
       "num": 432487,
       "word": "杨紫在片场跳了误闯天家",
@@ -6107,12 +6291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119917,
+      "num": 335807,
+      "word": "一人之下HPV番外高能上线",
+      "onboard_time": 1777454421,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119901,
       "num": 358146,
       "word": "男子5天连做5台手术",
       "onboard_time": 1777388063,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119773,
+      "num": 173903,
+      "word": "孙杨妈妈控场节目组系恶意捏造",
+      "onboard_time": 1777451961,
+      "rank": 41,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 119764,
@@ -6281,6 +6481,14 @@
       "onboard_time": 1777203260,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113595,
+      "num": 156216,
+      "word": "A股锂矿满屏涨停",
+      "onboard_time": 1777455440,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 113461,
@@ -6635,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89848,
+      "num": 175939,
+      "word": "王橹杰开裆裤时期",
+      "onboard_time": 1777456040,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89363,
       "num": 263032,
       "word": "伊朗蚊子舰队令美军头疼",
@@ -6713,6 +6929,14 @@
       "onboard_time": 1777171581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84267,
+      "num": 223054,
+      "word": "男生有必要打HPV疫苗吗",
+      "onboard_time": 1777457301,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84239,
@@ -7083,12 +7307,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64370,
+      "num": 172978,
+      "word": "张婧仪美得像TVB当家花旦",
+      "onboard_time": 1777455201,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64346,
       "num": 190425,
       "word": "女子租了两天车背上近十万元债务",
       "onboard_time": 1777447341,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64021,
+      "num": 176877,
+      "word": "钟楚曦走路腰发力",
+      "onboard_time": 1777456940,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 63892,
@@ -7299,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54210,
+      "num": 176457,
+      "word": "宋威龙9岁就在少林寺学武",
+      "onboard_time": 1777455860,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53485,
       "num": 293636,
       "word": "鸿星尔克的陪伴从校园到职场",
@@ -7475,6 +7723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44903,
+      "num": 174723,
+      "word": "首批宝妈乘务员五一后上岗",
+      "onboard_time": 1777456521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44442,
       "num": 215525,
       "word": "按需消费才是真自由",
@@ -7521,6 +7777,14 @@
       "onboard_time": 1777125146,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40865,
+      "num": 338058,
+      "word": "12306回应动车工作人员站台抽烟",
+      "onboard_time": 1777457240,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40832,
@@ -7681,6 +7945,14 @@
       "onboard_time": 1777400834,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32967,
+      "num": 339155,
+      "word": "1岁男童被抢奶奶哭到被请出法庭",
+      "onboard_time": 1777456880,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32856,
@@ -8054,6 +8326,9 @@
     },
     {
       "word": "#以更大力度更实举措抓好经济工作#"
+    },
+    {
+      "word": "#中共中央政治局第二十五次集体学习#"
     }
   ]
 }
