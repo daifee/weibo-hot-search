@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/04/29 07:32:05
+本榜单时间：2026/01/01 00:35:36 ~ 2026/04/29 08:05:57
 </p>
 </blockquote>
 <p>
@@ -1083,6 +1083,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
+朋友圈改版（热度：3148761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%A7%90%23" target="weibo">
 19岁女孩挪用1700万当榜一大姐（热度：3146099）
 </a>
@@ -1793,12 +1799,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AF%87%E7%AB%A0%E5%A5%BD%E5%90%AC%23" target="weibo">
 篇章好听（热度：2268915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88%23" target="weibo">
-朋友圈改版（热度：2267864）
 </a>
 </li>
 

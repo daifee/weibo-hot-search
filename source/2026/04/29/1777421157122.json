@@ -1,0 +1,410 @@
+{
+  "runTime": 1777421157122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3148761,
+        "num": 3148761,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 579433,
+        "num": 1107654,
+        "word": "白冰从发廊小哥到偷税网红",
+        "onboard_time": 1777420099,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 51479,
+        "num": 889265,
+        "word": "五一全社会流动预计超15亿人次",
+        "onboard_time": 1777380141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673197,
+        "num": 673197,
+        "word": "情绪压力对一个人体态的影响",
+        "onboard_time": 1777381162,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 636105,
+        "num": 636105,
+        "word": "腾讯客服回应朋友圈排版变了",
+        "onboard_time": 1777383794,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 748975,
+        "num": 608179,
+        "word": "铁证 刘宇宁",
+        "onboard_time": 1777386861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562768,
+        "num": 562768,
+        "word": "玉龙雪山景区报警",
+        "onboard_time": 1777386682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481454,
+        "num": 511236,
+        "word": "欧冠",
+        "onboard_time": 1777417637,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417455,
+        "num": 499965,
+        "word": "第一次知道羽绒服能这么补",
+        "onboard_time": 1777395616,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366829,
+        "num": 495590,
+        "word": "赵心童墨菲第二阶段战平",
+        "onboard_time": 1777419679,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493887,
+        "num": 493887,
+        "word": "虞书欣ins点赞Angelababy",
+        "onboard_time": 1777420159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411093,
+        "num": 411093,
+        "word": "天云",
+        "onboard_time": 1777391780,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 396051,
+        "num": 396051,
+        "word": "33岁迪丽热巴状态",
+        "onboard_time": 1777402934,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377230,
+        "num": 377230,
+        "word": "任敏被粉丝催着减肥",
+        "onboard_time": 1777377082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336236,
+        "num": 336236,
+        "word": "不敢想i人住进去得有多幸福",
+        "onboard_time": 1777392199,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255755,
+        "num": 255755,
+        "word": "巴黎圣日耳曼5比4拜仁",
+        "onboard_time": 1777420159,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234866,
+        "num": 234866,
+        "word": "黄子弘凡 银河左岸出场顺序",
+        "onboard_time": 1777384221,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229799,
+        "num": 229799,
+        "word": "普通人长见识最快的方式",
+        "onboard_time": 1777384462,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226406,
+        "num": 226406,
+        "word": "阿联酋退出或是欧佩克终结的开始",
+        "onboard_time": 1777414636,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107924,
+        "num": 225967,
+        "word": "银河左岸音乐节演出时间表",
+        "onboard_time": 1777405154,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328748,
+        "num": 225869,
+        "word": "男子许诺3万包养费骗4人发生关系",
+        "onboard_time": 1777384882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225740,
+        "num": 225740,
+        "word": "阿联酋退出石油输出国组织",
+        "onboard_time": 1777380861,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225614,
+        "num": 225614,
+        "word": "建议所有女性多做力量训练",
+        "onboard_time": 1777395616,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 218375,
+        "num": 218375,
+        "word": "崔家溪退赛陈芋汐再换搭档",
+        "onboard_time": 1777418598,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205143,
+        "num": 205143,
+        "word": "出轨女被情人杀害案发细节曝光",
+        "onboard_time": 1777395616,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187861,
+        "num": 187861,
+        "word": "韩汶栩 第四个嫂子",
+        "onboard_time": 1777387343,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157419,
+        "num": 186954,
+        "word": "A股低迷原因找到了",
+        "onboard_time": 1777417818,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104214,
+        "num": 183035,
+        "word": "还以为重播何以笙箫默了",
+        "onboard_time": 1777381222,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100725,
+        "num": 178304,
+        "word": "微信朋友圈悄悄更新了",
+        "onboard_time": 1777420400,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73737,
+        "num": 174138,
+        "word": "爱情没有神话 秦雯",
+        "onboard_time": 1777388180,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173169,
+        "num": 173169,
+        "word": "律师称14岁男生被判无期已是顶格处罚",
+        "onboard_time": 1777420159,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421045,
+        "num": 171420,
+        "word": "白冰被曝偷税后评论区被刷屏",
+        "onboard_time": 1777417698,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 580823,
+        "num": 171285,
+        "word": "白冰上海买豪宅后一年搬进别墅",
+        "onboard_time": 1777417757,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 168921,
+        "num": 168921,
+        "word": "男子为娶情人逼妻子堕胎遭拒后杀妻",
+        "onboard_time": 1777387761,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160044,
+        "num": 160044,
+        "word": "于文文被蔡卓妍结婚吓一跳",
+        "onboard_time": 1777385543,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157003,
+        "num": 157003,
+        "word": "任敏回应胖了",
+        "onboard_time": 1777378043,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154808,
+        "num": 154808,
+        "word": "人越淡事越顺你越放松结果越好",
+        "onboard_time": 1777419017,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153935,
+        "num": 153935,
+        "word": "吉娜评论宁艺卓",
+        "onboard_time": 1777420579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 152799,
+        "word": "迪奥副总裁亲自迎接迪丽热巴",
+        "onboard_time": 1777375041,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60123,
+        "num": 142312,
+        "word": "易烊千玺画的直立行走",
+        "onboard_time": 1777386142,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142061,
+        "num": 142061,
+        "word": "OpenAI爆出大利空",
+        "onboard_time": 1777417937,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140640,
+        "num": 140640,
+        "word": "韩汶栩 ZXY雨",
+        "onboard_time": 1777371981,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122694,
+        "num": 122694,
+        "word": "从今天起她拥有了新的人生",
+        "onboard_time": 1777420159,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114841,
+        "num": 114841,
+        "word": "妹妹冒用双胞胎姐姐证件",
+        "onboard_time": 1777389262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114043,
+        "num": 114043,
+        "word": "小钰回应谣言",
+        "onboard_time": 1777376002,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112682,
+        "num": 112682,
+        "word": "黄金跌透了吗",
+        "onboard_time": 1777377862,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109585,
+        "num": 109585,
+        "word": "员工厕所玩手机照片被发400人群",
+        "onboard_time": 1777383923,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99124,
+        "num": 109181,
+        "word": "东方甄选初代核心主播已全员离开",
+        "onboard_time": 1777420041,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33839,
+        "num": 109089,
+        "word": "唐嫣到底还要管何家这点事多久",
+        "onboard_time": 1777421120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33258,
+        "num": 109024,
+        "word": "佳偶天成 念无双",
+        "onboard_time": 1777373780,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
