@@ -1,6 +1,6 @@
 {
   "startTime": 1777396324449,
-  "endTime": 1777464055514,
+  "endTime": 1777465367392,
   "band_list": [
     {
       "raw_hot": 10887695,
@@ -83,20 +83,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1367527,
+      "num": 629974,
+      "word": "林子烨 下巴后缩",
+      "onboard_time": 1777452381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319289,
       "num": 411093,
       "word": "天云",
       "onboard_time": 1777391780,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1285890,
-      "num": 629974,
-      "word": "林子烨 下巴后缩",
-      "onboard_time": 1777452381,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1232604,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 834098,
+      "num": 1133455,
+      "word": "女子购止血药被骑手偷拍还公布住址",
+      "onboard_time": 1777459940,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 792746,
       "num": 385191,
       "word": "辛巴悬赏百万元威胁前高管",
@@ -187,7 +195,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 785236,
+      "raw_hot": 788440,
       "num": 427635,
       "word": "陈律求痞幼复合",
       "onboard_time": 1777461019,
@@ -307,6 +315,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591429,
+      "num": 371961,
+      "word": "婆婆一次性给足三年20万保姆费",
+      "onboard_time": 1777463481,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590243,
+      "num": 422518,
+      "word": "女子洁癖严重结婚19年无法同房",
+      "onboard_time": 1777458380,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587470,
       "num": 418343,
       "word": "男子为娶情人捂死孕妻伪造车祸",
@@ -395,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529159,
-      "num": 422518,
-      "word": "女子洁癖严重结婚19年无法同房",
-      "onboard_time": 1777458380,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 522187,
       "num": 522187,
       "word": "比亚迪宣布涨价",
@@ -419,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 514930,
-      "num": 797460,
-      "word": "女子购止血药被骑手偷拍还公布住址",
-      "onboard_time": 1777459940,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 513580,
+      "num": 482920,
+      "word": "杜华给金子涵所属女团开会发言",
+      "onboard_time": 1777462401,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 500008,
@@ -456,14 +472,6 @@
       "word": "刘宇宁说年轻演员里没几个能扛招商的",
       "onboard_time": 1777454181,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 482920,
-      "num": 482920,
-      "word": "杜华给金子涵所属女团开会发言",
-      "onboard_time": 1777462401,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -587,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402578,
+      "num": 630785,
+      "word": "拍照显瘦20斤姿势",
+      "onboard_time": 1777461800,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 396051,
       "num": 396051,
       "word": "33岁迪丽热巴状态",
@@ -609,6 +625,14 @@
       "onboard_time": 1777377082,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370895,
+      "num": 632599,
+      "word": "谢娜称演唱会票价覆盖不了成本",
+      "onboard_time": 1777457001,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 366829,
@@ -643,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352464,
+      "num": 300426,
+      "word": "前男友曝黄一鸣涉毒",
+      "onboard_time": 1777456521,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 350420,
       "num": 387292,
       "word": "华为Pura90系列开售爆单",
@@ -659,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343832,
-      "num": 300426,
-      "word": "前男友曝黄一鸣涉毒",
-      "onboard_time": 1777456521,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 343125,
       "num": 343125,
       "word": "孙杨 张豆豆",
@@ -681,14 +705,6 @@
       "onboard_time": 1777432220,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342427,
-      "num": 632599,
-      "word": "谢娜称演唱会票价覆盖不了成本",
-      "onboard_time": 1777457001,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 341748,
@@ -779,6 +795,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 291587,
+      "num": 632982,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1777446020,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 290996,
       "num": 290996,
       "word": "杨瀚森完成了NBA菜鸟赛季",
@@ -787,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288566,
-      "num": 632982,
-      "word": "普通人化妆最有效的一步",
-      "onboard_time": 1777446020,
-      "rank": 42,
-      "category": "美妆"
+      "raw_hot": 290458,
+      "num": 632277,
+      "word": "唐嫣工作室 宣发",
+      "onboard_time": 1777459759,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 288033,
@@ -840,14 +864,6 @@
       "word": "曹骏徐正溪一武一文乱世同行",
       "onboard_time": 1777422080,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 263387,
-      "num": 632277,
-      "word": "唐嫣工作室 宣发",
-      "onboard_time": 1777459759,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -939,6 +955,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 237017,
+      "num": 237017,
+      "word": "赖冠霖给wannaone拍了新物料",
+      "onboard_time": 1777460061,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236980,
       "num": 236980,
       "word": "阿联酋退出石油输出国组织",
@@ -987,14 +1011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 225854,
-      "num": 225854,
-      "word": "赖冠霖给wannaone拍了新物料",
-      "onboard_time": 1777460061,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225614,
       "num": 229595,
       "word": "建议所有女性多做力量训练",
@@ -1003,11 +1019,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 220971,
-      "num": 371961,
-      "word": "婆婆一次性给足三年20万保姆费",
-      "onboard_time": 1777463481,
-      "rank": 26,
+      "raw_hot": 219690,
+      "num": 631215,
+      "word": "男子看错一个字转错100万",
+      "onboard_time": 1777460481,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1017,14 +1033,6 @@
       "onboard_time": 1777447580,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219313,
-      "num": 630785,
-      "word": "拍照显瘦20斤姿势",
-      "onboard_time": 1777461800,
-      "rank": 9,
-      "category": "休闲"
     },
     {
       "raw_hot": 218885,
@@ -1091,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209488,
+      "num": 242312,
+      "word": "公婆拎3年20万保姆费产房慰问儿媳",
+      "onboard_time": 1777462759,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203442,
       "num": 203442,
       "word": "马頔在五哈和妻子两幅面孔",
@@ -1139,12 +1155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187697,
-      "num": 631215,
-      "word": "男子看错一个字转错100万",
-      "onboard_time": 1777460481,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 189442,
+      "num": 189442,
+      "word": "肖战兰晓龙孔笙一起走红毯",
+      "onboard_time": 1777464800,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 187128,
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 186709,
-      "num": 163308,
+      "num": 178470,
       "word": "白鹿举着滚动字幕说明私人行程",
       "onboard_time": 1777462281,
       "rank": 45,
@@ -1259,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168670,
-      "num": 168670,
-      "word": "公婆拎3年20万保姆费产房慰问儿媳",
-      "onboard_time": 1777462759,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164909,
       "num": 186954,
       "word": "A股低迷原因找到了",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1777420041,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154193,
+      "num": 154193,
+      "word": "薛之谦新歌",
+      "onboard_time": 1777464141,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 153634,
@@ -1403,6 +1419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 138980,
+      "num": 138980,
+      "word": "九号发布会",
+      "onboard_time": 1777464920,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138569,
       "num": 138569,
       "word": "特朗普插队英王尴尬旁观",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1777390042,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131942,
+      "num": 131942,
+      "word": "化疗胖了40斤付辛博也能一眼认出我",
+      "onboard_time": 1777459400,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 124738,
@@ -1587,6 +1619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96901,
+      "num": 276808,
+      "word": "马斯克天价薪酬方案曝光了",
+      "onboard_time": 1777454001,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93517,
       "num": 160562,
       "word": "身体你饿了就直接吃我的脂肪",
@@ -1665,14 +1705,6 @@
       "onboard_time": 1777384822,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76954,
-      "num": 148198,
-      "word": "马斯克天价薪酬方案曝光了",
-      "onboard_time": 1777454001,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 76726,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1777456940,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63634,
+      "num": 276005,
+      "word": "谢添地从牛奶爱马仕到3元清仓",
+      "onboard_time": 1777464080,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62897,
@@ -1971,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37072,
+      "num": 183319,
+      "word": "胖东来回应249元奢侈品毛巾",
+      "onboard_time": 1777464861,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36159,
       "num": 87091,
       "word": "Rookie承认误导现女友",
@@ -2035,12 +2083,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 25785,
+      "num": 276668,
+      "word": "男子拆鸟窝遭喜鹊叼垃圾封窗报复",
+      "onboard_time": 1777464741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25546,
       "num": 48019,
       "word": "DiorCigale",
       "onboard_time": 1777374500,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 23260,
+      "num": 157336,
+      "word": "烂片可退钱影院试行2个月无人退票",
+      "onboard_time": 1777465341,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22981,
