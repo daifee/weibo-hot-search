@@ -1,0 +1,410 @@
+{
+  "runTime": 1777458305869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 878893,
+        "num": 1140622,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 481713,
+        "num": 828014,
+        "word": "中国羽毛球协会主席张军被查",
+        "onboard_time": 1777450341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 657759,
+        "word": "我国新发现13个亿吨级油田",
+        "onboard_time": 1777432879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 984166,
+        "num": 642468,
+        "word": "一年没剪头发的结果",
+        "onboard_time": 1777456040,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 982807,
+        "num": 637571,
+        "word": "转走储户1800万银行员工喝药轻生",
+        "onboard_time": 1777449920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456817,
+        "num": 456817,
+        "word": "原来真的有人能把字写成这样",
+        "onboard_time": 1777439361,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417587,
+        "num": 417587,
+        "word": "孙杨夫妇录妻旅原因曝光",
+        "onboard_time": 1777450159,
+        "rank": 6,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 397240,
+        "num": 397240,
+        "word": "被淘汰的水果",
+        "onboard_time": 1777446259,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405562,
+        "num": 396736,
+        "word": "妻子的浪漫旅行节目组回应",
+        "onboard_time": 1777450701,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283080,
+        "num": 392563,
+        "word": "谢娜称演唱会票价覆盖不了成本",
+        "onboard_time": 1777457001,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529332,
+        "num": 387835,
+        "word": "曝iPhoneFold定价14999元",
+        "onboard_time": 1777454540,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 869625,
+        "num": 386736,
+        "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+        "onboard_time": 1777448361,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 631649,
+        "num": 381885,
+        "word": "吴宣仪母亲被赶出公司",
+        "onboard_time": 1777435401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425084,
+        "num": 378700,
+        "word": "前车女司机被按喇叭原地掉头",
+        "onboard_time": 1777455500,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576921,
+        "num": 376247,
+        "word": "林子烨 下巴后缩",
+        "onboard_time": 1777452381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449287,
+        "num": 374557,
+        "word": "明星水晶手串",
+        "onboard_time": 1777451902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46300,
+        "num": 371246,
+        "word": "男生有必要打HPV疫苗吗",
+        "onboard_time": 1777457301,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 430553,
+        "num": 366286,
+        "word": "刘宇宁说年轻演员里没几个能扛招商的",
+        "onboard_time": 1777454181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141344,
+        "num": 363726,
+        "word": "英国王嘲讽美国特朗普表情亮了",
+        "onboard_time": 1777440741,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65857,
+        "num": 360886,
+        "word": "12306回应动车工作人员站台抽烟",
+        "onboard_time": 1777457240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2663180,
+        "num": 359126,
+        "word": "汤唯确认怀二胎",
+        "onboard_time": 1777456580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356045,
+        "num": 356045,
+        "word": "孙杨妈妈早期言论",
+        "onboard_time": 1777453641,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343747,
+        "num": 343747,
+        "word": "男子请假10天做了5台手术直呼后悔",
+        "onboard_time": 1777451240,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157221,
+        "num": 333287,
+        "word": "一人之下HPV番外高能上线",
+        "onboard_time": 1777454421,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 323924,
+        "num": 323924,
+        "word": "GUCCI官宣宁艺卓",
+        "onboard_time": 1777443740,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 317787,
+        "num": 317787,
+        "word": "孙杨下沉市场口碑",
+        "onboard_time": 1777451602,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270930,
+        "num": 270930,
+        "word": "110斤女孩两个月瘦成纸片人",
+        "onboard_time": 1777449500,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254514,
+        "num": 254514,
+        "word": "前男友曝黄一鸣涉毒",
+        "onboard_time": 1777456521,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 237048,
+        "num": 237048,
+        "word": "云合",
+        "onboard_time": 1777452741,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73386,
+        "num": 233522,
+        "word": "国台办回应郑丽文6月将访美",
+        "onboard_time": 1777442721,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233073,
+        "num": 233073,
+        "word": "乐华就吴宣仪事件发声明",
+        "onboard_time": 1777443860,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223177,
+        "num": 223177,
+        "word": "东方甄选yoyo发声",
+        "onboard_time": 1777442599,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170918,
+        "num": 197215,
+        "word": "黄金重要信号",
+        "onboard_time": 1777456521,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192721,
+        "num": 192721,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1777446020,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176004,
+        "num": 176004,
+        "word": "储户1800万存款被银行员工转走",
+        "onboard_time": 1777446981,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167188,
+        "num": 167188,
+        "word": "马頔在五哈和妻子两幅面孔",
+        "onboard_time": 1777446142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 163533,
+        "word": "这比被出轨更令人难以接受",
+        "onboard_time": 1777434801,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102541,
+        "num": 163364,
+        "word": "英皇每个艺人粉丝都在调理中",
+        "onboard_time": 1777454421,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83916,
+        "num": 161668,
+        "word": "张婧仪美得像TVB当家花旦",
+        "onboard_time": 1777455201,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57602,
+        "num": 159766,
+        "word": "四川凉山25岁失联女子遗体被发现",
+        "onboard_time": 1777457720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70756,
+        "num": 158158,
+        "word": "1岁男童被抢奶奶哭到被请出法庭",
+        "onboard_time": 1777456880,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140919,
+        "num": 155415,
+        "word": "中了4999元五一免单怎么花",
+        "onboard_time": 1777457360,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111338,
+        "num": 154633,
+        "word": "郭涛一家四口拍婚纱照",
+        "onboard_time": 1777445359,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153705,
+        "num": 153705,
+        "word": "霸王茶姬疑喝出水银市监局已介入",
+        "onboard_time": 1777436541,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152586,
+        "num": 152586,
+        "word": "时代少年团轮番叮嘱谢娜",
+        "onboard_time": 1777449260,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 149139,
+        "word": "小米玄戒O3曝光",
+        "onboard_time": 1777454961,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148187,
+        "num": 148187,
+        "word": "宁艺卓GUCCI从接触到代言仅半年",
+        "onboard_time": 1777454301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143124,
+        "num": 143124,
+        "word": "霸王茶姬异物系购买人投放",
+        "onboard_time": 1777458261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58283,
+        "num": 141471,
+        "word": "差点没认出任敏",
+        "onboard_time": 1777457960,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141002,
+        "num": 141002,
+        "word": "男子在足浴店逃单前台懵了",
+        "onboard_time": 1777445599,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十五次集体学习#"
+    }
+  }
+}

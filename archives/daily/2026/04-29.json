@@ -1,6 +1,6 @@
 {
   "startTime": 1777396324449,
-  "endTime": 1777457661569,
+  "endTime": 1777458305869,
   "band_list": [
     {
       "raw_hot": 10887695,
@@ -24,6 +24,14 @@
       "word": "吴宣仪母亲被赶出公司",
       "onboard_time": 1777435401,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2663180,
+      "num": 359126,
+      "word": "汤唯确认怀二胎",
+      "onboard_time": 1777456580,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1777436242,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1417738,
-      "num": 337335,
-      "word": "汤唯确认怀二胎",
-      "onboard_time": 1777456580,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1379649,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984166,
+      "num": 642468,
+      "word": "一年没剪头发的结果",
+      "onboard_time": 1777456040,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 977324,
       "num": 325304,
       "word": "乐华就吴宣仪事件发声明",
@@ -121,6 +129,14 @@
       "onboard_time": 1777439361,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 869625,
+      "num": 386736,
+      "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+      "onboard_time": 1777448361,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 855997,
@@ -145,14 +161,6 @@
       "onboard_time": 1777430239,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 830565,
-      "num": 347311,
-      "word": "瑶一瑶被要求配合拍摄回怼妈妈",
-      "onboard_time": 1777448361,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 792746,
@@ -275,6 +283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 576921,
+      "num": 376247,
+      "word": "林子烨 下巴后缩",
+      "onboard_time": 1777452381,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565651,
       "num": 523213,
       "word": "曝乐华不允许艺人查看工作合同",
@@ -307,14 +323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 548812,
-      "num": 344051,
-      "word": "林子烨 下巴后缩",
-      "onboard_time": 1777452381,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541185,
       "num": 477611,
       "word": "曝王一博没见过自己的演艺合同",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 531899,
-      "num": 810523,
+      "num": 828014,
       "word": "中国羽毛球协会主席张军被查",
       "onboard_time": 1777450341,
       "rank": 1,
@@ -337,6 +345,14 @@
       "onboard_time": 1777442599,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 529332,
+      "num": 387835,
+      "word": "曝iPhoneFold定价14999元",
+      "onboard_time": 1777454540,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 529244,
@@ -361,14 +377,6 @@
       "onboard_time": 1777451240,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513954,
-      "num": 343232,
-      "word": "曝iPhoneFold定价14999元",
-      "onboard_time": 1777454540,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 500008,
@@ -396,19 +404,11 @@
     },
     {
       "raw_hot": 485532,
-      "num": 342059,
+      "num": 366286,
       "word": "刘宇宁说年轻演员里没几个能扛招商的",
       "onboard_time": 1777454181,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484287,
-      "num": 484287,
-      "word": "一年没剪头发的结果",
-      "onboard_time": 1777456040,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 482154,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449287,
+      "num": 374557,
+      "word": "明星水晶手串",
+      "onboard_time": 1777451902,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446677,
       "num": 446677,
       "word": "张豆豆谈婆媳关系",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 443503,
-      "num": 653562,
+      "num": 657759,
       "word": "我国新发现13个亿吨级油田",
       "onboard_time": 1777432879,
       "rank": 23,
@@ -465,6 +473,14 @@
       "onboard_time": 1777421660,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425084,
+      "num": 378700,
+      "word": "前车女司机被按喇叭原地掉头",
+      "onboard_time": 1777455500,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422174,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 408239,
-      "num": 360020,
+      "num": 363726,
       "word": "英国王嘲讽美国特朗普表情亮了",
       "onboard_time": 1777440741,
       "rank": 15,
@@ -505,14 +521,6 @@
       "onboard_time": 1777392199,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 403082,
-      "num": 340693,
-      "word": "明星水晶手串",
-      "onboard_time": 1777451902,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 396051,
@@ -561,6 +569,14 @@
       "onboard_time": 1777437382,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356045,
+      "num": 356045,
+      "word": "孙杨妈妈早期言论",
+      "onboard_time": 1777453641,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 350420,
@@ -627,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 326427,
-      "num": 326427,
-      "word": "孙杨妈妈早期言论",
-      "onboard_time": 1777453641,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326403,
       "num": 326403,
       "word": "李小冉王濛唐艺昕三公小考再合体",
@@ -657,14 +665,6 @@
       "onboard_time": 1777385543,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315895,
-      "num": 315895,
-      "word": "前车女司机被按喇叭原地掉头",
-      "onboard_time": 1777455500,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306565,
@@ -705,6 +705,14 @@
       "onboard_time": 1777449500,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283080,
+      "num": 392563,
+      "word": "谢娜称演唱会票价覆盖不了成本",
+      "onboard_time": 1777457001,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 273505,
@@ -995,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197930,
-      "num": 197930,
-      "word": "谢娜称演唱会票价覆盖不了成本",
-      "onboard_time": 1777457001,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196786,
       "num": 215019,
       "word": "爱情没有神话 秦雯",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1777387343,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 192721,
+      "num": 192721,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1777446020,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 192642,
@@ -1083,14 +1091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 173217,
-      "num": 173217,
-      "word": "普通人化妆最有效的一步",
-      "onboard_time": 1777446020,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "律师称14岁男生被判无期已是顶格处罚",
@@ -1155,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157221,
+      "num": 335807,
+      "word": "一人之下HPV番外高能上线",
+      "onboard_time": 1777454421,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157003,
       "num": 157003,
       "word": "任敏回应胖了",
@@ -1203,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149139,
+      "num": 149139,
+      "word": "小米玄戒O3曝光",
+      "onboard_time": 1777454961,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145297,
       "num": 145297,
       "word": "1岁半男婴被抢奶奶和男友被疑卖孙",
@@ -1227,12 +1243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143124,
+      "num": 143124,
+      "word": "霸王茶姬异物系购买人投放",
+      "onboard_time": 1777458261,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142061,
       "num": 142061,
       "word": "OpenAI爆出大利空",
       "onboard_time": 1777417937,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 173971,
+      "word": "中了4999元五一免单怎么花",
+      "onboard_time": 1777457360,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139700,
@@ -1291,22 +1323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120477,
-      "num": 173971,
-      "word": "中了4999元五一免单怎么花",
-      "onboard_time": 1777457360,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119917,
-      "num": 335807,
-      "word": "一人之下HPV番外高能上线",
-      "onboard_time": 1777454421,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 119773,
       "num": 173903,
       "word": "孙杨妈妈控场节目组系恶意捏造",
@@ -1363,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111338,
+      "num": 154633,
+      "word": "郭涛一家四口拍婚纱照",
+      "onboard_time": 1777445359,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110454,
       "num": 217684,
       "word": "唐嫣到底还要管何家这点事多久",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1777421600,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102541,
+      "num": 163364,
+      "word": "英皇每个艺人粉丝都在调理中",
+      "onboard_time": 1777454421,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 100725,
@@ -1468,7 +1500,7 @@
     },
     {
       "raw_hot": 84267,
-      "num": 223054,
+      "num": 371246,
       "word": "男生有必要打HPV疫苗吗",
       "onboard_time": 1777457301,
       "rank": 32,
@@ -1480,6 +1512,14 @@
       "word": "权志龙将太郎吉赛尔合照",
       "onboard_time": 1777417698,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83916,
+      "num": 172978,
+      "word": "张婧仪美得像TVB当家花旦",
+      "onboard_time": 1777455201,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1513,6 +1553,14 @@
       "onboard_time": 1777386743,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70756,
+      "num": 339155,
+      "word": "1岁男童被抢奶奶哭到被请出法庭",
+      "onboard_time": 1777456880,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70322,
@@ -1563,12 +1611,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64370,
-      "num": 172978,
-      "word": "张婧仪美得像TVB当家花旦",
-      "onboard_time": 1777455201,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 65857,
+      "num": 360886,
+      "word": "12306回应动车工作人员站台抽烟",
+      "onboard_time": 1777457240,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64346,
@@ -1641,6 +1689,22 @@
       "onboard_time": 1777382782,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58283,
+      "num": 141471,
+      "word": "差点没认出任敏",
+      "onboard_time": 1777457960,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57602,
+      "num": 159766,
+      "word": "四川凉山25岁失联女子遗体被发现",
+      "onboard_time": 1777457720,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57337,
@@ -1755,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40865,
-      "num": 338058,
-      "word": "12306回应动车工作人员站台抽烟",
-      "onboard_time": 1777457240,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38417,
       "num": 86623,
       "word": "CBA季后赛",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1777400834,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32967,
-      "num": 339155,
-      "word": "1岁男童被抢奶奶哭到被请出法庭",
-      "onboard_time": 1777456880,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32856,
