@@ -1,0 +1,410 @@
+{
+  "runTime": 1777438200650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2417396,
+        "num": 2417396,
+        "word": "朋友圈改版",
+        "onboard_time": 1777396218,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1725866,
+        "num": 1725866,
+        "word": "孙杨妈妈",
+        "onboard_time": 1777436242,
+        "rank": 1,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 79415,
+        "num": 1318150,
+        "word": "新中国首条通江达海大运河来了",
+        "onboard_time": 1777430960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067162,
+        "num": 1067162,
+        "word": "躺平网红",
+        "onboard_time": 1777428319,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 729539,
+        "num": 729539,
+        "word": "偏偏宠爱",
+        "onboard_time": 1777430239,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 643764,
+        "num": 643764,
+        "word": "小狗每次拿外卖都把家具暴打一遍",
+        "onboard_time": 1777434980,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 529244,
+        "num": 529244,
+        "word": "王楚钦放狠话",
+        "onboard_time": 1777434561,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512037,
+        "num": 512037,
+        "word": "体育老师考教资太尴尬了",
+        "onboard_time": 1777423223,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10887695,
+        "num": 10887695,
+        "word": "网传孙杨妈妈要求删除马頔发言",
+        "onboard_time": 1777434140,
+        "rank": 8,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 491849,
+        "num": 491849,
+        "word": "多平台已下架毒品前体",
+        "onboard_time": 1777421660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2824073,
+        "num": 489503,
+        "word": "吴宣仪母亲被赶出公司",
+        "onboard_time": 1777435401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843192,
+        "num": 487874,
+        "word": "霸王茶姬疑喝出水银市监局已介入",
+        "onboard_time": 1777436541,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671988,
+        "num": 483887,
+        "word": "请假10天5天连做5台手术男子发声",
+        "onboard_time": 1777427720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541185,
+        "num": 477611,
+        "word": "曝王一博没见过自己的演艺合同",
+        "onboard_time": 1777435642,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476741,
+        "num": 476741,
+        "word": "曝乐华不允许艺人查看工作合同",
+        "onboard_time": 1777434320,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407125,
+        "num": 407125,
+        "word": "我国新发现13个亿吨级油田",
+        "onboard_time": 1777432879,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933843,
+        "num": 405990,
+        "word": "曝吴宣仪提解约遭乐华拒绝",
+        "onboard_time": 1777433239,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 403097,
+        "word": "免单大奖过期未使用急坏飞猪",
+        "onboard_time": 1777433841,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74394,
+        "num": 401420,
+        "word": "苹果天气崩了",
+        "onboard_time": 1777426759,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50035,
+        "num": 399155,
+        "word": "普京亲自为俄女副总理撑伞",
+        "onboard_time": 1777437623,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185973,
+        "num": 396148,
+        "word": "王一博瑞幸即享给到夯",
+        "onboard_time": 1777435401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661461,
+        "num": 395381,
+        "word": "这比被出轨更令人难以接受",
+        "onboard_time": 1777434801,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393417,
+        "num": 393417,
+        "word": "偏偏宠爱阵容",
+        "onboard_time": 1777437143,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350420,
+        "num": 387292,
+        "word": "华为Pura90系列开售爆单",
+        "onboard_time": 1777433659,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90642,
+        "num": 386482,
+        "word": "女子半年4次脑梗",
+        "onboard_time": 1777436962,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386362,
+        "num": 386362,
+        "word": "赛琳娜老公cue比丑帖",
+        "onboard_time": 1777435220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361166,
+        "num": 361166,
+        "word": "十年前的婚纱照",
+        "onboard_time": 1777436362,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343125,
+        "num": 343125,
+        "word": "孙杨 张豆豆",
+        "onboard_time": 1777437863,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299525,
+        "num": 299525,
+        "word": "阚清子欣赏一下自己的精修图",
+        "onboard_time": 1777422500,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99225,
+        "num": 292990,
+        "word": "日本出兵都是作死",
+        "onboard_time": 1777437742,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303639,
+        "num": 292979,
+        "word": "瑶一瑶妈妈回应被吐槽身材",
+        "onboard_time": 1777425501,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291405,
+        "num": 291405,
+        "word": "怎么会有表达能力这么强的人啊",
+        "onboard_time": 1777425140,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284998,
+        "num": 284998,
+        "word": "短剧顶流再就业",
+        "onboard_time": 1777432220,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271305,
+        "num": 271305,
+        "word": "日本广岛爆炸现场视频",
+        "onboard_time": 1777422982,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268344,
+        "num": 268344,
+        "word": "白鹿奔跑吧本次最后一次上班",
+        "onboard_time": 1777421481,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263885,
+        "num": 263885,
+        "word": "肖战出发北京了",
+        "onboard_time": 1777430779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255679,
+        "num": 255679,
+        "word": "23岁女生身高1米7体重仅88斤",
+        "onboard_time": 1777431860,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260511,
+        "num": 255402,
+        "word": "虞书欣ins点赞Angelababy",
+        "onboard_time": 1777420159,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22981,
+        "num": 254911,
+        "word": "新房家具没装完漏了十几袋粪水",
+        "onboard_time": 1777437921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254875,
+        "num": 254875,
+        "word": "黄金彻底涨不动了",
+        "onboard_time": 1777429820,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226684,
+        "num": 226684,
+        "word": "33岁杨紫拍戏状态",
+        "onboard_time": 1777432279,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223103,
+        "num": 223103,
+        "word": "文字讨好症",
+        "onboard_time": 1777434380,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216989,
+        "num": 216989,
+        "word": "15岁女生遇害至今父亲喝掉300斤酒",
+        "onboard_time": 1777436002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216269,
+        "num": 216269,
+        "word": "白冰单靠6个广告月入近400万",
+        "onboard_time": 1777432519,
+        "rank": 43,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 212729,
+        "num": 212729,
+        "word": "百亩蒜薹被近千人2天抽完",
+        "onboard_time": 1777437382,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210874,
+        "num": 210874,
+        "word": "开拓者vs马刺",
+        "onboard_time": 1777432099,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204971,
+        "num": 204971,
+        "word": "偏偏宠爱影视化",
+        "onboard_time": 1777431554,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179207,
+        "num": 179207,
+        "word": "员工上班时间吃早餐被开除",
+        "onboard_time": 1777433841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115021,
+        "num": 171584,
+        "word": "用了多年的微信朋友圈排版改了",
+        "onboard_time": 1777437681,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65262,
+        "num": 168554,
+        "word": "华为折叠屏对比iPhone折叠屏",
+        "onboard_time": 1777424181,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措抓好经济工作#"
+    }
+  }
+}

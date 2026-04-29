@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777437322073,
+  "endTime": 1777438200650,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9148147,
-      "num": 9148147,
+      "raw_hot": 10887695,
+      "num": 10887695,
       "word": "网传孙杨妈妈要求删除马頔发言",
       "onboard_time": 1777434140,
       "rank": 3,
@@ -105,6 +105,14 @@
       "onboard_time": 1777344081,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2824073,
+      "num": 524994,
+      "word": "吴宣仪母亲被赶出公司",
+      "onboard_time": 1777435401,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2766724,
@@ -187,14 +195,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 2045921,
-      "num": 524994,
-      "word": "吴宣仪母亲被赶出公司",
-      "onboard_time": 1777435401,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2042182,
       "num": 662426,
       "word": "断崖式垮脸其实就是水毒",
@@ -241,6 +241,14 @@
       "onboard_time": 1777386861,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1725866,
+      "num": 1725866,
+      "word": "孙杨妈妈",
+      "onboard_time": 1777436242,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1712629,
@@ -859,6 +867,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 843192,
+      "num": 522883,
+      "word": "霸王茶姬疑喝出水银市监局已介入",
+      "onboard_time": 1777436541,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841289,
       "num": 841289,
       "word": "偏偏宠爱",
@@ -1187,14 +1203,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 707549,
-      "num": 578051,
-      "word": "孙杨妈妈",
-      "onboard_time": 1777436242,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 695682,
       "num": 805567,
       "word": "女子回应买200元水果被指责后引产",
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661461,
+      "num": 395381,
+      "word": "这比被出轨更令人难以接受",
+      "onboard_time": 1777434801,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 660806,
       "num": 493887,
       "word": "虞书欣ins点赞Angelababy",
@@ -1347,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643764,
+      "num": 643764,
+      "word": "小狗每次拿外卖都把家具暴打一遍",
+      "onboard_time": 1777434980,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 638283,
       "num": 513031,
       "word": "小钰 体面",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1777262901,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 630567,
-      "num": 311749,
-      "word": "这比被出轨更令人难以接受",
-      "onboard_time": 1777434801,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 630386,
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541185,
+      "num": 477611,
+      "word": "曝王一博没见过自己的演艺合同",
+      "onboard_time": 1777435642,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540587,
       "num": 373700,
       "word": "张凯丽女儿出道9年第一次拍吻戏",
@@ -1739,20 +1763,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 529244,
+      "num": 529244,
+      "word": "王楚钦放狠话",
+      "onboard_time": 1777434561,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526101,
       "num": 347379,
       "word": "订婚强奸案男子母亲说带他回归正常生活",
       "onboard_time": 1777387403,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525824,
-      "num": 525824,
-      "word": "小狗每次拿外卖都把家具暴打一遍",
-      "onboard_time": 1777434980,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 524883,
@@ -1777,14 +1801,6 @@
       "onboard_time": 1777351947,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 522883,
-      "num": 522883,
-      "word": "霸王茶姬疑喝出水银市监局已介入",
-      "onboard_time": 1777436541,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 520366,
@@ -2051,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473509,
-      "num": 307146,
-      "word": "曝王一博没见过自己的演艺合同",
-      "onboard_time": 1777435642,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 471542,
       "num": 439335,
       "word": "A股",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1777348702,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 461096,
-      "num": 525605,
-      "word": "王楚钦放狠话",
-      "onboard_time": 1777434561,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 459164,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 443503,
-      "num": 308990,
+      "num": 407125,
       "word": "我国新发现13个亿吨级油田",
       "onboard_time": 1777432879,
       "rank": 23,
@@ -2467,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 393417,
+      "num": 393417,
+      "word": "偏偏宠爱阵容",
+      "onboard_time": 1777437143,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391434,
       "num": 346952,
       "word": "女子断臂后靠肌肉信号重新长出手",
@@ -2691,6 +2699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361166,
+      "num": 361166,
+      "word": "十年前的婚纱照",
+      "onboard_time": 1777436362,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360816,
       "num": 386234,
       "word": "女子剖腹产后突发脑梗致双眼失明",
@@ -2739,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350420,
+      "num": 387292,
+      "word": "华为Pura90系列开售爆单",
+      "onboard_time": 1777433659,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 350410,
       "num": 445290,
       "word": "曾沛慈一直在修音响",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1777333579,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343125,
+      "num": 343125,
+      "word": "孙杨 张豆豆",
+      "onboard_time": 1777437863,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 343108,
@@ -2889,14 +2921,6 @@
       "onboard_time": 1777177341,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332794,
-      "num": 310391,
-      "word": "华为Pura90系列开售爆单",
-      "onboard_time": 1777433659,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 332145,
@@ -3435,14 +3459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 259054,
-      "num": 259054,
-      "word": "十年前的婚纱照",
-      "onboard_time": 1777436362,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258933,
       "num": 242481,
       "word": "永远不要惹减肥的人",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1777130782,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250940,
-      "num": 238662,
-      "word": "偏偏宠爱阵容",
-      "onboard_time": 1777437143,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 250778,
@@ -3835,6 +3843,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 226684,
+      "num": 226684,
+      "word": "33岁杨紫拍戏状态",
+      "onboard_time": 1777432279,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226406,
       "num": 226406,
       "word": "阿联酋退出或是欧佩克终结的开始",
@@ -3971,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216989,
+      "num": 216989,
+      "word": "15岁女生遇害至今父亲喝掉300斤酒",
+      "onboard_time": 1777436002,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216453,
       "num": 216453,
       "word": "李艺彤 气死我了",
@@ -4033,6 +4057,14 @@
       "onboard_time": 1777372760,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212729,
+      "num": 212729,
+      "word": "百亩蒜薹被近千人2天抽完",
+      "onboard_time": 1777437382,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212537,
@@ -4105,6 +4137,14 @@
       "onboard_time": 1777360400,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210874,
+      "num": 210874,
+      "word": "开拓者vs马刺",
+      "onboard_time": 1777432099,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 210270,
@@ -4347,14 +4387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196740,
-      "num": 196740,
-      "word": "33岁杨紫拍戏状态",
-      "onboard_time": 1777432279,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196667,
       "num": 326957,
       "word": "金莎孙丞潇婚后线下好甜",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1777277241,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192524,
-      "num": 192524,
-      "word": "15岁女生遇害至今父亲喝掉300斤酒",
-      "onboard_time": 1777436002,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192479,
@@ -4515,14 +4539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187916,
-      "num": 187916,
-      "word": "开拓者vs马刺",
-      "onboard_time": 1777432099,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187609,
       "num": 187609,
       "word": "男子欠3.6万第三方公司要债6万",
@@ -4561,6 +4577,14 @@
       "onboard_time": 1777172480,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185973,
+      "num": 396148,
+      "word": "王一博瑞幸即享给到夯",
+      "onboard_time": 1777435401,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 185941,
@@ -5443,14 +5467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143291,
-      "num": 314538,
-      "word": "王一博瑞幸即享给到夯",
-      "onboard_time": 1777435401,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142443,
       "num": 388574,
       "word": "这一秒过火",
@@ -5899,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116366,
+      "num": 403097,
+      "word": "免单大奖过期未使用急坏飞猪",
+      "onboard_time": 1777433841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116156,
       "num": 116156,
       "word": "干西红柿你吃过吗",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1777199239,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115021,
+      "num": 171584,
+      "word": "用了多年的微信朋友圈排版改了",
+      "onboard_time": 1777437681,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 114973,
@@ -6065,14 +6097,6 @@
       "onboard_time": 1777219700,
       "rank": 45,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 108200,
-      "num": 313761,
-      "word": "免单大奖过期未使用急坏飞猪",
-      "onboard_time": 1777433841,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 107994,
@@ -6219,8 +6243,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99225,
+      "num": 292990,
+      "word": "日本出兵都是作死",
+      "onboard_time": 1777437742,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98454,
-      "num": 311980,
+      "num": 401420,
       "word": "苹果天气崩了",
       "onboard_time": 1777426759,
       "rank": 19,
@@ -6329,6 +6361,14 @@
       "onboard_time": 1777247358,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90642,
+      "num": 386482,
+      "word": "女子半年4次脑梗",
+      "onboard_time": 1777436962,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89363,
@@ -6483,6 +6523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79415,
+      "num": 1651287,
+      "word": "新中国首条通江达海大运河来了",
+      "onboard_time": 1777430960,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79168,
       "num": 126236,
       "word": "翘楚和莫离都暂定同一天播出",
@@ -6536,14 +6584,6 @@
       "word": "老外踮脚看中国智造",
       "onboard_time": 1777259240,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75434,
-      "num": 1651287,
-      "word": "新中国首条通江达海大运河来了",
-      "onboard_time": 1777430960,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -7043,6 +7083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 50035,
+      "num": 399155,
+      "word": "普京亲自为俄女副总理撑伞",
+      "onboard_time": 1777437623,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49935,
       "num": 160152,
       "word": "白宫记协晚宴安全事件细节披露",
@@ -7272,14 +7320,6 @@
       "word": "建议全国推行假期高速可逆行",
       "onboard_time": 1777271539,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36510,
-      "num": 309577,
-      "word": "女子半年4次脑梗",
-      "onboard_time": 1777436962,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -7536,6 +7576,14 @@
       "word": "克隆牦牛来了",
       "onboard_time": 1777287079,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22981,
+      "num": 254911,
+      "word": "新房家具没装完漏了十几袋粪水",
+      "onboard_time": 1777437921,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

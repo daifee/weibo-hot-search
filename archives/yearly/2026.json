@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777437322073,
+  "endTime": 1777438200650,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -331,6 +331,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 10887695,
+      "num": 10887695,
+      "word": "网传孙杨妈妈要求删除马頔发言",
+      "onboard_time": 1777434140,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10737817,
       "num": 10737817,
       "word": "陶昕然淘汰",
@@ -521,14 +529,6 @@
       "onboard_time": 1774768469,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 9148147,
-      "num": 9148147,
-      "word": "网传孙杨妈妈要求删除马頔发言",
-      "onboard_time": 1777434140,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 9077666,
@@ -1635,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2824073,
+      "num": 524994,
+      "word": "吴宣仪母亲被赶出公司",
+      "onboard_time": 1777435401,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2807648,
       "num": 962247,
       "word": "香蕉有可能会灭绝",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1777122563,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2264804,
-      "num": 280427,
-      "word": "金子涵 再逼我就把所有的都说出来",
-      "onboard_time": 1775621001,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
