@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777473503430,
+  "endTime": 1777476191945,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1829480,
-      "num": 798741,
+      "num": 954485,
       "word": "肖战大影节影帝",
       "onboard_time": 1777471281,
       "rank": 3,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1192475,
+      "num": 805606,
+      "word": "孙杨向张豆豆挥拳的表情",
+      "onboard_time": 1777474104,
+      "rank": 5,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 1181662,
       "num": 1189066,
       "word": "上海迪士尼男子被劝烟殴打劝烟者",
@@ -833,6 +841,14 @@
       "onboard_time": 1777468400,
       "rank": 11,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 940880,
+      "num": 940880,
+      "word": "宇宙或仅剩约333亿年的寿命",
+      "onboard_time": 1777472001,
+      "rank": 4,
+      "category": "科学科普"
     },
     {
       "raw_hot": 930203,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1777173200,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 794357,
-      "num": 794357,
-      "word": "宇宙或仅剩约333亿年的寿命",
-      "onboard_time": 1777472001,
-      "rank": 4,
-      "category": "科学科普"
     },
     {
       "raw_hot": 793501,
@@ -2099,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512721,
+      "num": 458845,
+      "word": "唐嫣新剧 假发",
+      "onboard_time": 1777466781,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511876,
       "num": 835934,
       "word": "美伊停火谈判",
@@ -2403,14 +2419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 458845,
-      "num": 458845,
-      "word": "唐嫣新剧 假发",
-      "onboard_time": 1777466781,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 457570,
       "num": 323930,
       "word": "Rookie小钰事件法律层面解读",
@@ -2683,6 +2691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 419048,
+      "num": 336896,
+      "word": "金价",
+      "onboard_time": 1777474762,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 417977,
       "num": 417977,
       "word": "律师回应Rookie道歉",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1777176920,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 388333,
+      "num": 1006132,
+      "word": "赵心童vs墨菲",
+      "onboard_time": 1777372760,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 387588,
@@ -3827,6 +3851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 270075,
+      "num": 398048,
+      "word": "易烊千玺九号发布会",
+      "onboard_time": 1777471881,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269602,
       "num": 533757,
       "word": "DeepSeek还是最强国产AI吗",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1777117641,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262865,
+      "num": 262865,
+      "word": "老式水果为何消失了",
+      "onboard_time": 1777475361,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262815,
@@ -4347,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229615,
+      "num": 229615,
+      "word": "斯诺克",
+      "onboard_time": 1777159936,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229404,
       "num": 229404,
       "word": "张凌赫开朗一次换来终生内向",
@@ -4651,14 +4699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 213737,
-      "num": 510401,
-      "word": "赵心童vs墨菲",
-      "onboard_time": 1777372760,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212537,
       "num": 513700,
       "word": "王安宇见面会抢票",
@@ -4681,6 +4721,14 @@
       "onboard_time": 1777381222,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211811,
+      "num": 211811,
+      "word": "历届北京大学生电影节影帝影后",
+      "onboard_time": 1777475361,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 211732,
@@ -4824,6 +4872,14 @@
       "word": "胖东来饺子皮包装提示被网友夸赞",
       "onboard_time": 1777333398,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205473,
+      "num": 205473,
+      "word": "被银行员工转走1000万当事人发声",
+      "onboard_time": 1777473921,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -5177,6 +5233,14 @@
       "onboard_time": 1777265659,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188355,
+      "num": 170882,
+      "word": "王俊凯说不是最好就是不行",
+      "onboard_time": 1777474463,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 187609,
@@ -5651,14 +5715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168744,
-      "num": 168744,
-      "word": "斯诺克",
-      "onboard_time": 1777159936,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168702,
       "num": 168702,
       "word": "节目录制完王勉第一时间检查家里",
@@ -5737,6 +5793,14 @@
       "onboard_time": 1777417818,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164665,
+      "num": 393574,
+      "word": "23岁中国女孩在澳被两女子打成重伤",
+      "onboard_time": 1777472722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163872,
@@ -5984,14 +6048,6 @@
       "word": "其实张若昀唱歌也很心酸",
       "onboard_time": 1777216943,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 153874,
-      "num": 398048,
-      "word": "易烊千玺九号发布会",
-      "onboard_time": 1777471881,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -6497,14 +6553,6 @@
       "onboard_time": 1777215082,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132164,
-      "num": 393574,
-      "word": "23岁中国女孩在澳被两女子打成重伤",
-      "onboard_time": 1777472722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131963,
@@ -8419,6 +8467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32639,
+      "num": 966732,
+      "word": "五一假期铁路运输启动",
+      "onboard_time": 1777469601,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31908,
       "num": 77516,
       "word": "狼队晋级挑杯十六强",
@@ -8456,6 +8512,14 @@
       "word": "Manus并购案为什么被禁止",
       "onboard_time": 1777368142,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31076,
+      "num": 284229,
+      "word": "山西一高校宿舍洗澡10分钟收费5元",
+      "onboard_time": 1777475121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -8505,14 +8569,6 @@
       "onboard_time": 1777141635,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29244,
-      "num": 802589,
-      "word": "五一假期铁路运输启动",
-      "onboard_time": 1777469601,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29036,
@@ -8728,6 +8784,14 @@
       "word": "数读一季度消费市场成绩单",
       "onboard_time": 1777122384,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15101,
+      "num": 170928,
+      "word": "找骗子退钱撬开保险箱全是练功券",
+      "onboard_time": 1777475002,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

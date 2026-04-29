@@ -1,0 +1,410 @@
+{
+  "runTime": 1777476191945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 824819,
+        "num": 1131971,
+        "word": "婆婆一次性给足三年20万保姆费",
+        "onboard_time": 1777463481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388333,
+        "num": 1006132,
+        "word": "赵心童vs墨菲",
+        "onboard_time": 1777475421,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32639,
+        "num": 966732,
+        "word": "五一假期铁路运输启动",
+        "onboard_time": 1777469601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1381677,
+        "num": 954485,
+        "word": "肖战大影节影帝",
+        "onboard_time": 1777471281,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 940880,
+        "num": 940880,
+        "word": "宇宙或仅剩约333亿年的寿命",
+        "onboard_time": 1777472001,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1192475,
+        "num": 805606,
+        "word": "孙杨向张豆豆挥拳的表情",
+        "onboard_time": 1777474104,
+        "rank": 5,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 643761,
+        "num": 643761,
+        "word": "多读书真的会影响你的三观",
+        "onboard_time": 1777466061,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437144,
+        "num": 437144,
+        "word": "霍尔木兹海峡上演奇葩大戏",
+        "onboard_time": 1777469781,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395331,
+        "num": 395331,
+        "word": "拍照显瘦20斤姿势",
+        "onboard_time": 1777461800,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 365109,
+        "num": 365109,
+        "word": "霸王茶姬异物系购买人投放",
+        "onboard_time": 1777458261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1316349,
+        "num": 365055,
+        "word": "林子烨 下巴后缩",
+        "onboard_time": 1777452381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009223,
+        "num": 354629,
+        "word": "谭松韵任嘉伦 二搭",
+        "onboard_time": 1777469722,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620543,
+        "num": 351389,
+        "word": "张军系首个涉严重违纪违法奥运冠军",
+        "onboard_time": 1777470022,
+        "rank": 12,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 512721,
+        "num": 338841,
+        "word": "唐嫣新剧 假发",
+        "onboard_time": 1777466781,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419048,
+        "num": 336896,
+        "word": "金价",
+        "onboard_time": 1777474762,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 331553,
+        "num": 331553,
+        "word": "肖战胸肌偷偷藏不住",
+        "onboard_time": 1777469060,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323128,
+        "num": 323128,
+        "word": "终于知道林志玲为什么能红这么久",
+        "onboard_time": 1777459701,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291244,
+        "num": 291244,
+        "word": "转走储户1800万银行员工喝药轻生",
+        "onboard_time": 1777449920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177536,
+        "num": 290593,
+        "word": "曝iPhoneFold定价14999元",
+        "onboard_time": 1777454540,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31076,
+        "num": 284229,
+        "word": "山西一高校宿舍洗澡10分钟收费5元",
+        "onboard_time": 1777475121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688061,
+        "num": 278607,
+        "word": "汤唯确认怀二胎",
+        "onboard_time": 1777456580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588456,
+        "num": 272018,
+        "word": "女子洁癖严重结婚19年无法同房",
+        "onboard_time": 1777458380,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270075,
+        "num": 270075,
+        "word": "易烊千玺九号发布会",
+        "onboard_time": 1777471881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422957,
+        "num": 266971,
+        "word": "陈律求痞幼复合",
+        "onboard_time": 1777461019,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262865,
+        "num": 262865,
+        "word": "老式水果为何消失了",
+        "onboard_time": 1777475361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269386,
+        "num": 262611,
+        "word": "刘耀文宋亚轩 小宇",
+        "onboard_time": 1777465581,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262107,
+        "num": 262107,
+        "word": "瑶一瑶被要求配合拍摄回怼妈妈",
+        "onboard_time": 1777448361,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232897,
+        "num": 232897,
+        "word": "阿姨菜场豪横买肉取消支付70多万",
+        "onboard_time": 1777468822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229615,
+        "num": 229615,
+        "word": "斯诺克",
+        "onboard_time": 1777472302,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226011,
+        "num": 226011,
+        "word": "1岁宝宝走路险摔倒瞬间伸出一排手",
+        "onboard_time": 1777467919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219360,
+        "num": 219360,
+        "word": "现货黄金",
+        "onboard_time": 1777471881,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211811,
+        "num": 211811,
+        "word": "历届北京大学生电影节影帝影后",
+        "onboard_time": 1777475361,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209303,
+        "num": 209303,
+        "word": "白鹿举着滚动字幕说明私人行程",
+        "onboard_time": 1777462281,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205473,
+        "num": 205473,
+        "word": "被银行员工转走1000万当事人发声",
+        "onboard_time": 1777473921,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209120,
+        "num": 203143,
+        "word": "曾沛慈合照含灿量好高",
+        "onboard_time": 1777473141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189334,
+        "num": 189334,
+        "word": "杜华给金子涵所属女团开会发言",
+        "onboard_time": 1777462401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181526,
+        "num": 181526,
+        "word": "胖东来回应249元奢侈品毛巾",
+        "onboard_time": 1777464861,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176986,
+        "num": 176986,
+        "word": "特朗普再次无视英王室规矩拍国王肩膀",
+        "onboard_time": 1777472182,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79339,
+        "num": 171910,
+        "word": "金钟大的女儿都这么大了",
+        "onboard_time": 1777461200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15101,
+        "num": 170928,
+        "word": "找骗子退钱撬开保险箱全是练功券",
+        "onboard_time": 1777475002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188355,
+        "num": 170882,
+        "word": "王俊凯说不是最好就是不行",
+        "onboard_time": 1777474463,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170774,
+        "num": 170774,
+        "word": "女子身份证不离身1000万存款被转走",
+        "onboard_time": 1777472902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169280,
+        "num": 169280,
+        "word": "孙杨夫妇录妻旅原因曝光",
+        "onboard_time": 1777450159,
+        "rank": 42,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 164665,
+        "num": 164665,
+        "word": "23岁中国女孩在澳被两女子打成重伤",
+        "onboard_time": 1777472722,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161269,
+        "num": 161269,
+        "word": "谢娜称演唱会票价覆盖不了成本",
+        "onboard_time": 1777457001,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157041,
+        "num": 157041,
+        "word": "保姆将幼童关狗笼自己只顾玩手机",
+        "onboard_time": 1777471461,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155021,
+        "num": 155021,
+        "word": "李惠利度假时被海流带离自救脱险",
+        "onboard_time": 1777470621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137088,
+        "num": 137088,
+        "word": "易烊千玺梨涡笑",
+        "onboard_time": 1777472122,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123637,
+        "num": 123637,
+        "word": "孙杨妈妈早期言论",
+        "onboard_time": 1777453641,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70996,
+        "num": 120158,
+        "word": "中国羽毛球协会主席张军被查",
+        "onboard_time": 1777450341,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#降低灾害风险重在事前预防#"
+    }
+  }
+}
