@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777438200650,
+  "endTime": 1777447808668,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -219,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2017226,
+      "num": 775256,
+      "word": "孙杨方否认妈妈和节目组联系",
+      "onboard_time": 1777445541,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1989617,
       "num": 380062,
       "word": "张馨予也被蒸汽眼罩烫伤过",
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1783911,
+      "num": 323454,
+      "word": "GUCCI官宣宁艺卓",
+      "onboard_time": 1777443740,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1725866,
       "num": 1725866,
       "word": "孙杨妈妈",
@@ -256,6 +272,14 @@
       "word": "井柏然 老人味太重",
       "onboard_time": 1777182080,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1702540,
+      "num": 321809,
+      "word": "孙杨前女友曾发文吐槽孙杨妈妈",
+      "onboard_time": 1777443440,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -675,6 +699,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 977324,
+      "num": 308728,
+      "word": "乐华就吴宣仪事件发声明",
+      "onboard_time": 1777443860,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 965959,
+      "num": 721206,
+      "word": "原来真的有人能把字写成这样",
+      "onboard_time": 1777439361,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 959751,
       "num": 959751,
       "word": "WB对战TCG",
@@ -868,7 +908,7 @@
     },
     {
       "raw_hot": 843192,
-      "num": 522883,
+      "num": 959557,
       "word": "霸王茶姬疑喝出水银市监局已介入",
       "onboard_time": 1777436541,
       "rank": 13,
@@ -985,6 +1025,14 @@
       "onboard_time": 1777200619,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 792746,
+      "num": 317890,
+      "word": "辛巴悬赏百万元威胁前高管",
+      "onboard_time": 1777442781,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 782050,
@@ -1411,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630851,
+      "num": 315719,
+      "word": "孙杨张豆豆是双方母亲撮合在一起的",
+      "onboard_time": 1777441581,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630386,
       "num": 938717,
       "word": "DeepSeek多位核心骨干离职去大厂",
@@ -1779,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525644,
+      "num": 313313,
+      "word": "马頔嘴替",
+      "onboard_time": 1777440801,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524883,
       "num": 524883,
       "word": "A股一季度最赚钱公司曝光",
@@ -2067,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471649,
+      "num": 471649,
+      "word": "比亚迪宣布涨价",
+      "onboard_time": 1777438702,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 471542,
       "num": 439335,
       "word": "A股",
@@ -2131,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453261,
+      "num": 319894,
+      "word": "东方甄选yoyo发声",
+      "onboard_time": 1777442599,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 452969,
       "num": 452969,
       "word": "南方人为什么执着于通风",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1777358901,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 447386,
+      "num": 306498,
+      "word": "孙杨家庭环境",
+      "onboard_time": 1777442900,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 444135,
@@ -2369,6 +2457,14 @@
       "onboard_time": 1777173621,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408239,
+      "num": 316564,
+      "word": "英国王嘲讽美国特朗普表情亮了",
+      "onboard_time": 1777440741,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 407827,
@@ -2731,6 +2827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360285,
+      "num": 312535,
+      "word": "百亩蒜薹被近千人2天抽完",
+      "onboard_time": 1777437382,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357436,
       "num": 422291,
       "word": "黄金价格跌跌不休",
@@ -2969,6 +3073,14 @@
       "onboard_time": 1777425140,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 326403,
+      "num": 326403,
+      "word": "李小冉王濛唐艺昕三公小考再合体",
+      "onboard_time": 1777441100,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 324701,
@@ -3227,6 +3339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 290996,
+      "num": 290996,
+      "word": "杨瀚森完成了NBA菜鸟赛季",
+      "onboard_time": 1777444039,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284349,
       "num": 497941,
       "word": "朱珠钟汉良床戏",
@@ -3249,6 +3369,14 @@
       "onboard_time": 1777169539,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282084,
+      "num": 282084,
+      "word": "被淘汰的水果",
+      "onboard_time": 1777446259,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 281993,
@@ -3369,6 +3497,14 @@
       "onboard_time": 1777265360,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267540,
+      "num": 267540,
+      "word": "男子在足浴店逃单前台懵了",
+      "onboard_time": 1777445599,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266148,
@@ -3587,6 +3723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 249554,
+      "num": 249554,
+      "word": "郎朗回复宁艺卓",
+      "onboard_time": 1777445299,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249410,
       "num": 351999,
       "word": "柳智敏蛇塑回归",
@@ -3617,6 +3761,14 @@
       "onboard_time": 1777347141,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "陈晓宋轶开机同框",
+      "onboard_time": 1777440141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 247646,
@@ -3761,6 +3913,14 @@
       "onboard_time": 1777218441,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232894,
+      "num": 232894,
+      "word": "格力集团原董事长周乐伟主动投案",
+      "onboard_time": 1777440201,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232223,
@@ -4059,12 +4219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212729,
-      "num": 212729,
-      "word": "百亩蒜薹被近千人2天抽完",
-      "onboard_time": 1777437382,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 213313,
+      "num": 213313,
+      "word": "A股迎大反转",
+      "onboard_time": 1777444879,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 212537,
@@ -4715,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179494,
+      "num": 179494,
+      "word": "马頔在五哈和妻子两幅面孔",
+      "onboard_time": 1777446142,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179093,
       "num": 356285,
       "word": "王俊凯选出了宇编和世界的主人",
@@ -4905,6 +5073,14 @@
       "onboard_time": 1777420159,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172475,
+      "num": 172475,
+      "word": "怪不得你俩能结婚",
+      "onboard_time": 1777447580,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 171922,
@@ -5259,6 +5435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 154259,
+      "num": 254824,
+      "word": "国台办回应郑丽文6月将访美",
+      "onboard_time": 1777442721,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154139,
       "num": 154139,
       "word": "其实张若昀唱歌也很心酸",
@@ -5369,6 +5553,14 @@
       "onboard_time": 1777121604,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150064,
+      "num": 135024,
+      "word": "留几手说给前妻还债",
+      "onboard_time": 1777446559,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148239,
@@ -5595,6 +5787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135809,
+      "num": 135809,
+      "word": "大衣哥遭踹门后把木门换成了铁门",
+      "onboard_time": 1777446079,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135243,
       "num": 135243,
       "word": "天赐 TCG夯爆了",
@@ -5625,6 +5825,14 @@
       "onboard_time": 1777170920,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133945,
+      "num": 133945,
+      "word": "J人老了捡纸壳也要震撼P人",
+      "onboard_time": 1777447399,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 133824,
@@ -5737,6 +5945,14 @@
       "onboard_time": 1777174160,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127999,
+      "num": 127999,
+      "word": "1岁半男婴被抢奶奶和男友被疑卖孙",
+      "onboard_time": 1777435761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126715,
@@ -6107,6 +6323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107384,
+      "num": 309514,
+      "word": "尹锡悦二审获刑7年",
+      "onboard_time": 1777446501,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107169,
       "num": 341337,
       "word": "某免费观影APP疯狂盗取正版资源牟利",
@@ -6209,6 +6433,14 @@
       "onboard_time": 1777353983,
       "rank": 25,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 101370,
+      "num": 324663,
+      "word": "储户1800万存款被银行员工转走",
+      "onboard_time": 1777446981,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100952,
@@ -7155,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47356,
+      "num": 168475,
+      "word": "谈莉娜突发宫缩误以为要生了",
+      "onboard_time": 1777445359,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47213,
       "num": 203842,
       "word": "男子嫌盗版电影网站广告多就手搓了一个",
@@ -7179,12 +7419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45584,
+      "num": 220520,
+      "word": "国家医保局通报药店骗保查办进展",
+      "onboard_time": 1777447700,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 45360,
       "num": 115482,
       "word": "Rookie 小钰没有威胁我",
       "onboard_time": 1777403713,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45129,
+      "num": 180542,
+      "word": "女子租了两天车背上近十万元债务",
+      "onboard_time": 1777447341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44442,
@@ -7459,6 +7715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30318,
+      "num": 126632,
+      "word": "这剧情我以为是飞驰人生4",
+      "onboard_time": 1777443080,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30079,
       "num": 500268,
       "word": "HR让求职者考虑做第三者",
@@ -7633,6 +7897,14 @@
       "onboard_time": 1777356681,
       "rank": 49,
       "category": "运动健身,互联网"
+    },
+    {
+      "raw_hot": 18211,
+      "num": 179924,
+      "word": "国羽战印度石宇奇缺战",
+      "onboard_time": 1777446919,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 15699,

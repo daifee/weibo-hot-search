@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 12:50:00
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/29 15:30:08
 </p>
 </blockquote>
 <p>
@@ -753,6 +753,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%96%B9%E5%90%A6%E8%AE%A4%E5%A6%88%E5%A6%88%E5%92%8C%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB%23" target="weibo">
+孙杨方否认妈妈和节目组联系（热度：2017226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%9B%B4%E6%92%AD%E7%96%91%E4%BC%BC%E6%B1%82%E6%95%91%23" target="weibo">
 金子涵直播疑似求救（热度：2012664）
 </a>
@@ -933,6 +939,12 @@ sbti人格测试（热度：2169731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GUCCI%E5%AE%98%E5%AE%A3%E5%AE%81%E8%89%BA%E5%8D%93%23" target="weibo">
+GUCCI官宣宁艺卓（热度：1783911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%23" target="weibo">
 陈赫（热度：1778691）
 </a>
@@ -1019,6 +1031,12 @@ kimi都这么大了（热度：1742247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E7%90%AA%E6%B7%98%E6%B1%B0%23" target="weibo">
 赵子琪淘汰（热度：1703363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%9B%BE%E5%8F%91%E6%96%87%E5%90%90%E6%A7%BD%E5%AD%99%E6%9D%A8%E5%A6%88%E5%A6%88%23" target="weibo">
+孙杨前女友曾发文吐槽孙杨妈妈（热度：1702540）
 </a>
 </li>
 
@@ -2919,6 +2937,12 @@ Meta Manus（热度：985428）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%B0%B1%E5%90%B4%E5%AE%A3%E4%BB%AA%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
+乐华就吴宣仪事件发声明（热度：977324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8A%8A%E6%B0%B4%E6%99%B6%E6%89%8B%E4%B8%B2%E6%8B%86%E4%BA%86%E9%80%81%E7%B2%89%E4%B8%9D%23" target="weibo">
 丁禹兮把水晶手串拆了送粉丝（热度：973869）
 </a>
@@ -2939,6 +2963,12 @@ Meta Manus（热度：985428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E5%90%AC%E5%8A%9D%E5%9B%9E%E5%8E%BB%E6%8B%8D%E6%88%8F%E4%BA%86%23" target="weibo">
 温峥嵘听劝回去拍戏了（热度：967916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E8%83%BD%E6%8A%8A%E5%AD%97%E5%86%99%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+原来真的有人能把字写成这样（热度：965959）
 </a>
 </li>
 
@@ -4151,6 +4181,12 @@ en王翊恩 结婚但没同居（热度：795143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%8A%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%8F%E7%81%AB%E8%BD%A6%23" target="weibo">
 谢娜上张杰鸟巢演唱会小火车（热度：793146）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E6%82%AC%E8%B5%8F%E7%99%BE%E4%B8%87%E5%85%83%E5%A8%81%E8%83%81%E5%89%8D%E9%AB%98%E7%AE%A1%23" target="weibo">
+辛巴悬赏百万元威胁前高管（热度：792746）
 </a>
 </li>
 
@@ -5931,6 +5967,12 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E6%98%AF%E5%8F%8C%E6%96%B9%E6%AF%8D%E4%BA%B2%E6%92%AE%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%23" target="weibo">
+孙杨张豆豆是双方母亲撮合在一起的（热度：630851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23" target="weibo">
 DeepSeek多位核心骨干离职去大厂（热度：630386）
 </a>
@@ -5969,48 +6011,6 @@ DeepSeek多位核心骨干离职去大厂（热度：630386）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BA%B2%E4%BA%BA%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%E4%B8%BB%E5%8A%A8%E6%9F%A5%E8%B4%9F%E5%80%BA%23" target="weibo">
 建议亲人去世一两个月后主动查负债（热度：627863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%8A%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-金昊已被执行死刑（热度：627512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%20%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
-王濛 我爱你中国（热度：626833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%87%BA%E9%97%A8%E4%B8%8A%E7%8F%AD5%E4%B8%AA%E6%9C%88%E5%AD%A9%E5%AD%90%E7%8B%AC%E8%87%AA%E7%95%99%E5%AE%B6%23" target="weibo">
-爸爸出门上班5个月孩子独自留家（热度：626349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%A7%B0%E6%B6%89%E4%BC%8A%E6%9C%97%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%E6%9E%81%E4%B8%8D%E5%B9%B3%E8%A1%A1%23" target="weibo">
-中方称涉伊朗决议草案极不平衡（热度：626293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%AA%97%E5%88%B0%E4%BA%86%23" target="weibo">
-被易烊千玺骗到了（热度：626216）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%B5%B7%E8%AF%89%E9%80%80%E5%BD%A9%E7%A4%BC%E5%92%8C%E5%88%86%E5%A8%A9%E8%B4%B9%23" target="weibo">
-女子产后被男友起诉退彩礼和分娩费（热度：626029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%8E%E8%A1%80%E7%B3%96%E6%91%94%E5%80%92%E4%BA%86%23" target="weibo">
-曝张凌赫低血糖摔倒了（热度：625051）
 </a>
 </li>
 
