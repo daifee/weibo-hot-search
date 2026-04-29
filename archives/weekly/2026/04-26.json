@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777501919055,
+  "endTime": 1777503841239,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748219,
+      "num": 336896,
+      "word": "金价",
+      "onboard_time": 1777474762,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 746586,
       "num": 441491,
       "word": "小钰 Rookie",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1777441581,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 700053,
-      "num": 336896,
-      "word": "金价",
-      "onboard_time": 1777474762,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 696403,
@@ -1915,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546986,
+      "num": 262865,
+      "word": "老式水果为何消失了",
+      "onboard_time": 1777475361,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545433,
       "num": 466600,
       "word": "小英变卡戴英了",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1777377981,
       "rank": 34,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 487822,
-      "num": 262865,
-      "word": "老式水果为何消失了",
-      "onboard_time": 1777475361,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486399,
@@ -2756,7 +2756,7 @@
     },
     {
       "raw_hot": 410369,
-      "num": 466024,
+      "num": 642562,
       "word": "男子借宿同学家致一死一伤案取消开庭",
       "onboard_time": 1777478778,
       "rank": 1,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1777451602,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344387,
+      "num": 394000,
+      "word": "油价又大涨了",
+      "onboard_time": 1777347141,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 344150,
@@ -4083,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254389,
+      "num": 254389,
+      "word": "面试时就这样解释空窗期",
+      "onboard_time": 1777483576,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254023,
       "num": 449104,
       "word": "五一原来是放假七天的",
@@ -4193,14 +4209,6 @@
       "onboard_time": 1777281019,
       "rank": 36,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 248005,
-      "num": 394000,
-      "word": "油价又大涨了",
-      "onboard_time": 1777347141,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 247776,
@@ -4515,6 +4523,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 224937,
+      "num": 470601,
+      "word": "女子身份证不离身1000万存款被转走",
+      "onboard_time": 1777472902,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224841,
       "num": 224841,
       "word": "欧莱雅 穆祉丞",
@@ -4705,14 +4721,6 @@
       "onboard_time": 1777261339,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 214645,
-      "num": 195244,
-      "word": "女子身份证不离身1000万存款被转走",
-      "onboard_time": 1777472902,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214407,
@@ -5097,14 +5105,6 @@
       "onboard_time": 1777467682,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195754,
-      "num": 140528,
-      "word": "面试时就这样解释空窗期",
-      "onboard_time": 1777483576,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 195552,
@@ -7259,6 +7259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98776,
+      "num": 131628,
+      "word": "日本民众为南京大屠杀流泪致歉",
+      "onboard_time": 1777476381,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98454,
       "num": 401420,
       "word": "苹果天气崩了",
@@ -7971,14 +7979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62917,
-      "num": 131628,
-      "word": "日本民众为南京大屠杀流泪致歉",
-      "onboard_time": 1777476381,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62897,
       "num": 211305,
       "word": "比亚迪一季度净利润40.85亿",
@@ -8467,6 +8467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39016,
+      "num": 81498,
+      "word": "宇宙或已过青年期",
+      "onboard_time": 1777487114,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 38951,
       "num": 189843,
       "word": "高德地图登顶台湾APP下载榜",
@@ -8569,14 +8577,6 @@
       "onboard_time": 1777231634,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34597,
-      "num": 81498,
-      "word": "宇宙或已过青年期",
-      "onboard_time": 1777487114,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 33747,
@@ -8811,6 +8811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24054,
+      "num": 102474,
+      "word": "这对儿带货CP要火",
+      "onboard_time": 1777465761,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23950,
       "num": 443692,
       "word": "投诉后竟被第一时间精准定位",
@@ -8899,12 +8907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18031,
-      "num": 102474,
-      "word": "这对儿带货CP要火",
-      "onboard_time": 1777465761,
-      "rank": 9,
-      "category": "汽车"
+      "raw_hot": 16142,
+      "num": 366206,
+      "word": "2026世界市长对话西安",
+      "onboard_time": 1777469001,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15699,
@@ -8967,14 +8975,6 @@
       "num": 367990,
       "word": "世界艺术与科技对话",
       "onboard_time": 1777476502,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12372,
-      "num": 271743,
-      "word": "2026世界市长对话西安",
-      "onboard_time": 1777469001,
       "rank": 2,
       "category": "国内时政"
     },

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/30 01:01:15 ~ 2026/04/30 06:31:59
+本榜单时间：2026/04/30 01:01:15 ~ 2026/04/30 07:04:01
 </p>
 </blockquote>
 <p>
@@ -15,32 +15,32 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：700053）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%90%91%E5%BC%A0%E8%B1%86%E8%B1%86%E6%8C%A5%E6%8B%B3%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
+孙杨向张豆豆挥拳的表情（热度：754307）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%90%91%E5%BC%A0%E8%B1%86%E8%B1%86%E6%8C%A5%E6%8B%B3%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
-孙杨向张豆豆挥拳的表情（热度：663135）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：748219）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%BC%8F%E6%B0%B4%E6%9E%9C%E4%B8%BA%E4%BD%95%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
-老式水果为何消失了（热度：487822）
+老式水果为何消失了（热度：546986）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D%23" target="weibo">
-肖战大影节影帝（热度：470118）
+肖战大影节影帝（热度：545813）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E6%88%96%E4%BB%85%E5%89%A9%E7%BA%A6333%E4%BA%BF%E5%B9%B4%E7%9A%84%E5%AF%BF%E5%91%BD%23" target="weibo">
-宇宙或仅剩约333亿年的寿命（热度：450662）
+宇宙或仅剩约333亿年的寿命（热度：540877）
 </a>
 </li>
 
@@ -75,14 +75,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E8%AF%BB%E4%B9%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E4%B8%89%E8%A7%82%23" target="weibo">
-多读书真的会影响你的三观（热度：297634）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%8F%88%E5%A4%A7%E6%B6%A8%E4%BA%86%23" target="weibo">
+油价又大涨了（热度：344387）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%81%E7%99%96%E4%B8%A5%E9%87%8D%E7%BB%93%E5%A9%9A19%E5%B9%B4%E6%97%A0%E6%B3%95%E5%90%8C%E6%88%BF%23" target="weibo">
-女子洁癖严重结婚19年无法同房（热度：294219）
+女子洁癖严重结婚19年无法同房（热度：322219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E8%AF%BB%E4%B9%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E4%B8%89%E8%A7%82%23" target="weibo">
+多读书真的会影响你的三观（热度：306056）
 </a>
 </li>
 
@@ -94,7 +100,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%90%E7%83%A8%20%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%23" target="weibo">
-林子烨 下巴后缩（热度：261919）
+林子烨 下巴后缩（热度：275695）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E6%97%B6%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%A7%A3%E9%87%8A%E7%A9%BA%E7%AA%97%E6%9C%9F%23" target="weibo">
+面试时就这样解释空窗期（热度：254389）
 </a>
 </li>
 
@@ -112,13 +124,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8D%E7%A6%BB%E8%BA%AB1000%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0%23" target="weibo">
-女子身份证不离身1000万存款被转走（热度：214645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%8F%88%E5%A4%A7%E6%B6%A8%E4%BA%86%23" target="weibo">
-油价又大涨了（热度：209764）
+女子身份证不离身1000万存款被转走（热度：224937）
 </a>
 </li>
 
@@ -131,12 +137,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%8D%E7%85%A7%E6%98%BE%E7%98%A620%E6%96%A4%E5%A7%BF%E5%8A%BF%23" target="weibo">
 拍照显瘦20斤姿势（热度：197868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E6%97%B6%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%A7%A3%E9%87%8A%E7%A9%BA%E7%AA%97%E6%9C%9F%23" target="weibo">
-面试时就这样解释空窗期（热度：195754）
 </a>
 </li>
 
@@ -219,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23" target="weibo">
+日本民众为南京大屠杀流泪致歉（热度：98776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94249%E5%85%83%E5%A5%A2%E4%BE%88%E5%93%81%E6%AF%9B%E5%B7%BE%23" target="weibo">
 胖东来回应249元奢侈品毛巾（热度：98410）
 </a>
@@ -279,12 +285,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%BA%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%B5%81%E6%B3%AA%E8%87%B4%E6%AD%89%23" target="weibo">
-日本民众为南京大屠杀流泪致歉（热度：62917）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2396%E5%B9%B4%E5%A5%B3%E7%94%9F%E8%BF%9C%E6%B4%8B%E8%B4%A7%E8%BD%AE%E5%BD%93%E5%A4%A7%E5%89%AF%E6%9C%88%E5%85%A51%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
 96年女生远洋货轮当大副月入1万美元（热度：62163）
 </a>
@@ -334,7 +334,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E6%88%96%E5%B7%B2%E8%BF%87%E9%9D%92%E5%B9%B4%E6%9C%9F%23" target="weibo">
-宇宙或已过青年期（热度：34597）
+宇宙或已过青年期（热度：39016）
 </a>
 </li>
 
@@ -346,19 +346,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AF%B9%E5%84%BF%E5%B8%A6%E8%B4%A7CP%E8%A6%81%E7%81%AB%23" target="weibo">
-这对儿带货CP要火（热度：18031）
+这对儿带货CP要火（热度：24054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E8%A5%BF%E5%AE%89%23" target="weibo">
+2026世界市长对话西安（热度：16142）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E4%B8%8E%E7%A7%91%E6%8A%80%E5%AF%B9%E8%AF%9D%23" target="weibo">
 世界艺术与科技对话（热度：12640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E8%A5%BF%E5%AE%89%23" target="weibo">
-2026世界市长对话西安（热度：12372）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 06:31:59
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 07:04:01
 </p>
 </blockquote>
 <p>
@@ -4665,6 +4665,12 @@ Rookie疑似遭小钰自杀威胁（热度：767681）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：748219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%9C%87%E6%83%8A%E4%B8%AD%E5%9B%BD%E6%B0%B4%E6%9E%9C%E6%91%8A%E8%80%81%E6%9D%BF%E5%BC%80%E9%97%A8%E7%9D%A1%E8%A7%89%23" target="weibo">
 外国人震惊中国水果摊老板开门睡觉（热度：746721）
 </a>
@@ -5201,12 +5207,6 @@ AG对战狼队（热度：709734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E6%98%AF%E5%8F%8C%E6%96%B9%E6%AF%8D%E4%BA%B2%E6%92%AE%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%23" target="weibo">
 孙杨张豆豆是双方母亲撮合在一起的（热度：702368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：700053）
 </a>
 </li>
 

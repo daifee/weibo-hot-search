@@ -1,0 +1,410 @@
+{
+  "runTime": 1777503841239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382225,
+        "num": 642562,
+        "word": "男子借宿同学家致一死一伤案取消开庭",
+        "onboard_time": 1777478778,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224937,
+        "num": 470601,
+        "word": "女子身份证不离身1000万存款被转走",
+        "onboard_time": 1777472902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 366206,
+        "word": "2026世界市长对话西安",
+        "onboard_time": 1777469001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 754307,
+        "num": 360864,
+        "word": "孙杨向张豆豆挥拳的表情",
+        "onboard_time": 1777474104,
+        "rank": 3,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 540877,
+        "num": 337926,
+        "word": "宇宙或仅剩约333亿年的寿命",
+        "onboard_time": 1777472001,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 545813,
+        "num": 323583,
+        "word": "肖战大影节影帝",
+        "onboard_time": 1777471281,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306056,
+        "num": 306056,
+        "word": "多读书真的会影响你的三观",
+        "onboard_time": 1777466061,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254389,
+        "num": 254389,
+        "word": "面试时就这样解释空窗期",
+        "onboard_time": 1777483576,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210146,
+        "num": 210146,
+        "word": "霍尔木兹海峡上演奇葩大戏",
+        "onboard_time": 1777469781,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139689,
+        "num": 139689,
+        "word": "赵心童vs墨菲",
+        "onboard_time": 1777475421,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748219,
+        "num": 139516,
+        "word": "金价",
+        "onboard_time": 1777474762,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 546986,
+        "num": 133837,
+        "word": "老式水果为何消失了",
+        "onboard_time": 1777475361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344387,
+        "num": 132260,
+        "word": "油价又大涨了",
+        "onboard_time": 1777478540,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311553,
+        "num": 129837,
+        "word": "高铁上C座D座齐刷刷伸手",
+        "onboard_time": 1777478600,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304323,
+        "num": 127315,
+        "word": "谭松韵任嘉伦 二搭",
+        "onboard_time": 1777469722,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275695,
+        "num": 121800,
+        "word": "林子烨 下巴后缩",
+        "onboard_time": 1777452381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242164,
+        "num": 118459,
+        "word": "婆婆一次性给足三年20万保姆费",
+        "onboard_time": 1777463481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215266,
+        "num": 116807,
+        "word": "历届北京大学生电影节影帝影后",
+        "onboard_time": 1777475361,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "拍照显瘦20斤姿势",
+        "onboard_time": 1777461800,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 29961,
+        "num": 102740,
+        "word": "电脑涨价20%市场人流空荡荡",
+        "onboard_time": 1777478420,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322219,
+        "num": 100807,
+        "word": "女子洁癖严重结婚19年无法同房",
+        "onboard_time": 1777458380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98776,
+        "num": 98776,
+        "word": "日本民众为南京大屠杀流泪致歉",
+        "onboard_time": 1777476381,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94536,
+        "num": 94536,
+        "word": "特朗普再次无视英王室规矩拍国王肩膀",
+        "onboard_time": 1777472182,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85959,
+        "num": 85959,
+        "word": "胖东来回应249元奢侈品毛巾",
+        "onboard_time": 1777464861,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84958,
+        "num": 84958,
+        "word": "肖战胸肌偷偷藏不住",
+        "onboard_time": 1777469060,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83591,
+        "num": 83591,
+        "word": "23岁中国女孩在澳被两女子打成重伤",
+        "onboard_time": 1777472722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82286,
+        "num": 82286,
+        "word": "转走储户1800万银行员工喝药轻生",
+        "onboard_time": 1777449920,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78467,
+        "num": 78467,
+        "word": "孙怡什么时候才能原谅现偶",
+        "onboard_time": 1777466001,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65977,
+        "num": 78443,
+        "word": "唐嫣新剧 假发",
+        "onboard_time": 1777466781,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59986,
+        "num": 78433,
+        "word": "斯诺克",
+        "onboard_time": 1777472302,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 78404,
+        "word": "这对儿带货CP要火",
+        "onboard_time": 1777465761,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56841,
+        "num": 78363,
+        "word": "阿姨菜场豪横买肉取消支付70多万",
+        "onboard_time": 1777468822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54597,
+        "num": 78351,
+        "word": "应聘店长因乙肝携带被拒录用",
+        "onboard_time": 1777477580,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52784,
+        "num": 78334,
+        "word": "1岁宝宝走路险摔倒瞬间伸出一排手",
+        "onboard_time": 1777467919,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50616,
+        "num": 78301,
+        "word": "霸王茶姬异物系购买人投放",
+        "onboard_time": 1777458261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49241,
+        "num": 78263,
+        "word": "乌克兰与以色列爆发口水战",
+        "onboard_time": 1777468822,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48619,
+        "num": 78252,
+        "word": "王俊凯巅峰之夜全记录",
+        "onboard_time": 1777479080,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46483,
+        "num": 78206,
+        "word": "其实旅游根本不用担心语言不通",
+        "onboard_time": 1777484356,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45202,
+        "num": 78187,
+        "word": "96年女生远洋货轮当大副月入1万美元",
+        "onboard_time": 1777473440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42803,
+        "num": 78163,
+        "word": "易烊千玺终于放假了",
+        "onboard_time": 1777477041,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42098,
+        "num": 78151,
+        "word": "现货黄金",
+        "onboard_time": 1777471881,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39016,
+        "num": 78102,
+        "word": "宇宙或已过青年期",
+        "onboard_time": 1777487114,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38381,
+        "num": 78077,
+        "word": "保姆将幼童关狗笼自己只顾玩手机",
+        "onboard_time": 1777471461,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35437,
+        "num": 78064,
+        "word": "刘耀文宋亚轩 小宇",
+        "onboard_time": 1777465581,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34880,
+        "num": 78036,
+        "word": "谢娜称演唱会票价覆盖不了成本",
+        "onboard_time": 1777457001,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33540,
+        "num": 78002,
+        "word": "孙杨妈妈早期言论",
+        "onboard_time": 1777453641,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29750,
+        "num": 77984,
+        "word": "何以笙箫默当年赵默笙的假发套",
+        "onboard_time": 1777476502,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29485,
+        "num": 77945,
+        "word": "鞠婧祎谈对行业的敬畏心",
+        "onboard_time": 1777477280,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28866,
+        "num": 77938,
+        "word": "吴敬平指导德国运动员体验中国训练",
+        "onboard_time": 1777476979,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28784,
+        "num": 77898,
+        "word": "凯凯拍的颜颜发",
+        "onboard_time": 1777477939,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#降低灾害风险重在事前预防#"
+    }
+  }
+}
