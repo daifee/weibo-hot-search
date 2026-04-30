@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1777508197363,
+  "endTime": 1777522356492,
   "band_list": [
     {
       "raw_hot": 22191907,
@@ -273,6 +273,14 @@
       "onboard_time": 1775305764,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3690823,
+      "num": 469929,
+      "word": "吴宣仪母亲与乐华谈判视频首曝光",
+      "onboard_time": 1777519520,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3683627,
@@ -1707,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1520680,
+      "num": 807685,
+      "word": "中1000w彩票冷知识",
+      "onboard_time": 1777519999,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1511048,
       "num": 376232,
       "word": "唐艺昕 何宣林",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1777120820,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1260340,
+      "num": 1260340,
+      "word": "5月起未经同意不得发送商业短信",
+      "onboard_time": 1777517839,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1256749,
@@ -3681,6 +3705,14 @@
       "onboard_time": 1776643101,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1023107,
+      "num": 469784,
+      "word": "陈坤晒北电表演系96班30年合照",
+      "onboard_time": 1777517540,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1022284,
@@ -5507,6 +5539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 805288,
+      "num": 805288,
+      "word": "年轻人出门越来越极简了",
+      "onboard_time": 1777518979,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 804106,
       "num": 1126271,
       "word": "9岁男孩偷偷给爷爷带肉当地已介入",
@@ -6800,6 +6840,14 @@
       "word": "特朗普话音刚落伊朗导弹袭向以色列",
       "onboard_time": 1775097920,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 713229,
+      "num": 713229,
+      "word": "霍尔木兹海峡部分被困船员已遇难",
+      "onboard_time": 1777506799,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -10515,6 +10563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528950,
+      "num": 465724,
+      "word": "青岛偶遇关晓彤",
+      "onboard_time": 1777513221,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528695,
       "num": 449603,
       "word": "乌克兰进入破产倒计时",
@@ -10801,6 +10857,14 @@
       "onboard_time": 1776787280,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 514705,
+      "num": 872431,
+      "word": "女生攒到10万怕被嘲笑网友全是鼓励",
+      "onboard_time": 1777507220,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514636,
@@ -11587,6 +11651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490609,
+      "num": 490609,
+      "word": "香奈儿发布无底绑带鞋被吐槽抽象",
+      "onboard_time": 1777508419,
+      "rank": 7,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 490501,
       "num": 460451,
       "word": "叶璇与继母遭亡父保姆起诉",
@@ -12051,6 +12123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 475463,
+      "num": 475463,
+      "word": "伊能静回应与秦昊婚姻状态",
+      "onboard_time": 1777507340,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475062,
       "num": 390676,
       "word": "妈妈怀疑瑶一瑶有多动症",
@@ -12419,12 +12499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465759,
+      "num": 663962,
+      "word": "火箭vs湖人",
+      "onboard_time": 1776558799,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465177,
       "num": 465177,
       "word": "鹿晗工作室 躺平",
       "onboard_time": 1776397460,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464913,
+      "num": 464913,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1777519580,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 464198,
@@ -13259,6 +13355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438468,
+      "num": 438468,
+      "word": "YG新女团第三位成员公开",
+      "onboard_time": 1777510040,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438413,
       "num": 438413,
       "word": "宇树H1机器人半马赛场终点累倒",
@@ -13553,14 +13657,6 @@
       "onboard_time": 1775645781,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429849,
-      "num": 663962,
-      "word": "火箭vs湖人",
-      "onboard_time": 1776558799,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 429653,
@@ -13947,6 +14043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 420969,
+      "num": 420969,
+      "word": "肖战听到自己获奖的表情",
+      "onboard_time": 1777511899,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420714,
       "num": 383234,
       "word": "五哈老舅回归",
@@ -14313,6 +14417,14 @@
       "onboard_time": 1775137103,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 412439,
+      "num": 412439,
+      "word": "金银大跌",
+      "onboard_time": 1777519460,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 412164,
@@ -15385,6 +15497,14 @@
       "onboard_time": 1776817519,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 388745,
+      "num": 388745,
+      "word": "王力宏恭喜汤唯怀二胎",
+      "onboard_time": 1777512378,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 388582,
@@ -16843,6 +16963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361229,
+      "num": 361229,
+      "word": "韩汶栩删16级粉丝解散粉丝群",
+      "onboard_time": 1777520899,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361166,
       "num": 361166,
       "word": "十年前的婚纱照",
@@ -18059,6 +18187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337939,
+      "num": 337939,
+      "word": "朱珠回复唐嫣",
+      "onboard_time": 1777519101,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337848,
       "num": 247033,
       "word": "iPhone三款新机机模出炉",
@@ -19179,14 +19315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 318831,
-      "num": 318831,
-      "word": "霍尔木兹海峡部分被困船员已遇难",
-      "onboard_time": 1777506799,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 318810,
       "num": 318810,
       "word": "爱奇艺世界大会阵容",
@@ -20073,6 +20201,14 @@
       "onboard_time": 1776258563,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306799,
+      "num": 306799,
+      "word": "张豆豆承担的镜头很难呈现",
+      "onboard_time": 1777514479,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 306723,
@@ -23723,6 +23859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255107,
+      "num": 316045,
+      "word": "韩汶栩",
+      "onboard_time": 1777509680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254967,
       "num": 245536,
       "word": "奔跑吧ins取关TWS",
@@ -24316,7 +24460,7 @@
     },
     {
       "raw_hot": 247903,
-      "num": 247903,
+      "num": 433527,
       "word": "中国空间站快要住不下了",
       "onboard_time": 1777505116,
       "rank": 33,
@@ -24987,6 +25131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241846,
+      "num": 241846,
+      "word": "医院职工举报院长儿子吃空饷",
+      "onboard_time": 1777512979,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241456,
       "num": 241456,
       "word": "曝何与辞演神仙肉",
@@ -25347,6 +25499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237055,
+      "num": 237055,
+      "word": "小猫要一辈子崇拜你",
+      "onboard_time": 1777513759,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237017,
       "num": 237017,
       "word": "赖冠霖给wannaone拍了新物料",
@@ -25457,6 +25617,14 @@
       "onboard_time": 1775880080,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 235838,
+      "num": 235838,
+      "word": "雨霖铃",
+      "onboard_time": 1777517659,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 235765,
@@ -26907,6 +27075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 220890,
+      "num": 220890,
+      "word": "能不能不要和戴耳机的人说话",
+      "onboard_time": 1777511480,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220858,
       "num": 220858,
       "word": "公众号批量删除AI写作文章",
@@ -27272,14 +27448,6 @@
       "word": "歌手2026首播时间",
       "onboard_time": 1777288099,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 217408,
-      "num": 217408,
-      "word": "伊能静回应与秦昊婚姻状态",
-      "onboard_time": 1777507340,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -28049,6 +28217,14 @@
       "onboard_time": 1775306843,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211333,
+      "num": 211333,
+      "word": "莫氏鸡煲新店开业1天已有多条评价",
+      "onboard_time": 1777518079,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211289,
@@ -29057,14 +29233,6 @@
       "onboard_time": 1775517379,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 202391,
-      "num": 202391,
-      "word": "女生攒到10万怕被嘲笑网友全是鼓励",
-      "onboard_time": 1777507220,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202351,
@@ -30163,6 +30331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194023,
+      "num": 470115,
+      "word": "苹果印度生产线陷入停摆",
+      "onboard_time": 1777512140,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193969,
       "num": 193969,
       "word": "平台回应女孩公款打赏主播上千万",
@@ -30595,6 +30771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190379,
+      "num": 190379,
+      "word": "公司员工减重450斤获奖近5万元",
+      "onboard_time": 1777520961,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190342,
       "num": 318701,
       "word": "TXT新专 万妮达",
@@ -30657,6 +30841,14 @@
       "onboard_time": 1775537783,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189823,
+      "num": 189823,
+      "word": "年轻人能玩在一起是情有可原的",
+      "onboard_time": 1777521980,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 189795,
@@ -32635,6 +32827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175650,
+      "num": 313831,
+      "word": "孙杨恋爱史",
+      "onboard_time": 1777521140,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175602,
       "num": 125070,
       "word": "有结节的人要在春天做4件事",
@@ -33003,6 +33203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172803,
+      "num": 172803,
+      "word": "白鹿五月行程图",
+      "onboard_time": 1777516159,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172664,
       "num": 172664,
       "word": "我许可 性教育科普",
@@ -33120,6 +33328,14 @@
       "word": "李楷灿 双队并行",
       "onboard_time": 1775201062,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171997,
+      "num": 241960,
+      "word": "行程图",
+      "onboard_time": 1777513519,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -33313,6 +33529,14 @@
       "onboard_time": 1775705120,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170417,
+      "num": 170417,
+      "word": "女生28岁攒到10万块开心到想哭",
+      "onboard_time": 1777508419,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170409,
@@ -33547,6 +33771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169408,
+      "num": 169408,
+      "word": "黄金再迎直线上涨",
+      "onboard_time": 1777522101,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169295,
       "num": 363263,
       "word": "张真源连撕四人名牌终结比赛",
@@ -33569,6 +33801,14 @@
       "onboard_time": 1775712684,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 169118,
+      "num": 169118,
+      "word": "车银优风波后首现身",
+      "onboard_time": 1777522040,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 168967,
@@ -36969,6 +37209,14 @@
       "onboard_time": 1775189963,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148812,
+      "num": 437809,
+      "word": "赛力斯一季度净利润7.54亿元",
+      "onboard_time": 1777515440,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 148745,
@@ -67707,6 +67955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39672,
+      "num": 423078,
+      "word": "官方通报学生查成绩需付费买APP",
+      "onboard_time": 1777521801,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 39640,
       "num": 1395179,
       "word": "从超3亿元退费看民生保障力度",
@@ -67913,6 +68169,14 @@
       "onboard_time": 1775579839,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38664,
+      "num": 808389,
+      "word": "义乌不断有新纪录",
+      "onboard_time": 1777521441,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38660,
@@ -68129,6 +68393,14 @@
       "onboard_time": 1776871640,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 36946,
+      "num": 310429,
+      "word": "Anthropic年收300亿碾压OpenAI",
+      "onboard_time": 1777514959,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 36925,
@@ -70387,6 +70659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25914,
+      "num": 307723,
+      "word": "美媒称特朗普将听取打击伊朗新方案",
+      "onboard_time": 1777522160,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25893,
       "num": 754333,
       "word": "我国服务业增加值实现三连跳",
@@ -71835,6 +72115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18709,
+      "num": 213266,
+      "word": "市民5年前存款竟变保险",
+      "onboard_time": 1777521801,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18681,
       "num": 127777,
       "word": "男子年年带鲜花和酒祭扫无名烈士墓",
@@ -72185,6 +72473,14 @@
       "onboard_time": 1776281054,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16791,
+      "num": 168296,
+      "word": "HappyHorse",
+      "onboard_time": 1777522280,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 16760,
@@ -73378,6 +73674,9 @@
     },
     {
       "word": "#降低灾害风险重在事前预防#"
+    },
+    {
+      "word": "#携手共建清洁美丽可持续的世界#"
     }
   ]
 }

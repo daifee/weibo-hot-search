@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 08:16:37
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 12:12:36
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%A4%AF%E7%88%86%E4%BA%86%23" target="weibo">
 曾沛慈夯爆了（热度：3837292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%AF%8D%E4%BA%B2%E4%B8%8E%E4%B9%90%E5%8D%8E%E8%B0%88%E5%88%A4%E8%A7%86%E9%A2%91%E9%A6%96%E6%9B%9D%E5%85%89%23" target="weibo">
+吴宣仪母亲与乐华谈判视频首曝光（热度：3690823）
 </a>
 </li>
 
@@ -1293,6 +1299,12 @@ TCG淘汰WB（热度：1524997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD1000w%E5%BD%A9%E7%A5%A8%E5%86%B7%E7%9F%A5%E8%AF%86%23" target="weibo">
+中1000w彩票冷知识（热度：1520680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%20%E4%BD%95%E5%AE%A3%E6%9E%97%23" target="weibo">
 唐艺昕 何宣林（热度：1511048）
 </a>
@@ -1973,6 +1985,12 @@ sbti mbti（热度：1267966）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E4%B8%80%E5%BC%A0%E5%98%B4%E6%88%91%E5%B0%B1%E7%9F%A5%E9%81%93%E5%BC%80%E9%BA%A6%E4%BA%86%23" target="weibo">
 张慧雯一张嘴我就知道开麦了（热度：1261800）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%235%E6%9C%88%E8%B5%B7%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E4%B8%8D%E5%BE%97%E5%8F%91%E9%80%81%E5%95%86%E4%B8%9A%E7%9F%AD%E4%BF%A1%23" target="weibo">
+5月起未经同意不得发送商业短信（热度：1260340）
 </a>
 </li>
 
@@ -2771,6 +2789,12 @@ Gucci不能再把中国市场当垃圾桶（热度：1029887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%83%8F%E5%A5%96%E7%88%86%E5%86%B7%23" target="weibo">
 金像奖爆冷（热度：1023478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9D%A4%E6%99%92%E5%8C%97%E7%94%B5%E8%A1%A8%E6%BC%94%E7%B3%BB96%E7%8F%AD30%E5%B9%B4%E5%90%88%E7%85%A7%23" target="weibo">
+陈坤晒北电表演系96班30年合照（热度：1023107）
 </a>
 </li>
 
@@ -4143,6 +4167,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%87%BA%E9%97%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%9E%81%E7%AE%80%E4%BA%86%23" target="weibo">
+年轻人出门越来越极简了（热度：805288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%81%B7%E7%BB%99%E7%88%B7%E7%88%B7%E5%B8%A6%E8%82%89%E5%BD%93%E5%9C%B0%E5%B7%B2%E4%BB%8B%E5%85%A5%23" target="weibo">
 9岁男孩偷偷给爷爷带肉当地已介入（热度：804106）
 </a>
@@ -5115,6 +5145,12 @@ miumiu没给韩国女星出过丑图（热度：723334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%83%A8%E5%88%86%E8%A2%AB%E5%9B%B0%E8%88%B9%E5%91%98%E5%B7%B2%E9%81%87%E9%9A%BE%23" target="weibo">
+霍尔木兹海峡部分被困船员已遇难（热度：713229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E8%81%94%E6%AD%A3%E5%9C%A8%E6%A0%B8%E5%AE%9E%E5%AD%95%E5%A6%87%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%B1%E9%AA%82%E5%90%8E%E5%BC%95%E4%BA%A7%23" target="weibo">
 妇联正在核实孕妇遭丈夫辱骂后引产（热度：713008）
 </a>
@@ -5978,42 +6014,6 @@ DeepSeekV4发布（热度：644854）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E6%9C%80%E6%8B%89%E7%9A%84%E8%8F%9C%23" target="weibo">
-麻辣烫里最拉的菜（热度：640403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E8%B0%88%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A2%AB%E8%AF%84%E7%B2%89%E5%BA%95%E6%B6%B2%E5%B0%86%E5%86%9B%23" target="weibo">
-何润东谈张凌赫被评粉底液将军（热度：640020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%20%E8%B7%91%E8%B0%83%23" target="weibo">
-江语晨 跑调（热度：639685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%92%B0%20%E4%BD%93%E9%9D%A2%23" target="weibo">
-小钰 体面（热度：638283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90104000%E5%85%83%E4%B9%B080g%E9%87%91%E6%9D%A1%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
-女子104000元买80g金条店员报警（热度：638035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IU%E8%BD%AC%E5%9C%88%E7%BB%99%E5%88%98%E4%BB%81%E5%A8%9C%E5%B1%95%E7%A4%BA%E5%B0%8F%E8%A3%99%E5%AD%90%23" target="weibo">
-IU转圈给刘仁娜展示小裙子（热度：637543）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6527,6 +6527,12 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%99%8D%E4%BD%8E%E7%81%BE%E5%AE%B3%E9%A3%8E%E9%99%A9%E9%87%8D%E5%9C%A8%E4%BA%8B%E5%89%8D%E9%A2%84%E9%98%B2%23%23" target="weibo">
 #降低灾害风险重在事前预防#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%90%BA%E6%89%8B%E5%85%B1%E5%BB%BA%E6%B8%85%E6%B4%81%E7%BE%8E%E4%B8%BD%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9A%84%E4%B8%96%E7%95%8C%23%23" target="weibo">
+#携手共建清洁美丽可持续的世界#
 </a>
 </li>
 

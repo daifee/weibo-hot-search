@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777508197363,
+  "endTime": 1777522356492,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1136,6 +1136,14 @@
       "word": "交警回应金晨被曝肇事逃逸",
       "onboard_time": 1769664564,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3690823,
+      "num": 469929,
+      "word": "吴宣仪母亲与乐华谈判视频首曝光",
+      "onboard_time": 1777519520,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1776688582,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2269087,
-      "num": 2269087,
-      "word": "重庆大学实验室爆炸1死3伤",
-      "onboard_time": 1774102164,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
