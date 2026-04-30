@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 07:30:59
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 08:07:34
 </p>
 </blockquote>
 <p>
@@ -2711,6 +2711,12 @@ AI艺人库 自掘坟墓（热度：1054358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BB%E7%8E%89%20%E8%BE%9E%E6%BC%94%23" target="weibo">
 攻玉 辞演（热度：1036983）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%A7%9C%E5%BD%93%E6%B0%B4%E6%9E%9C1%E5%A4%A91%E6%96%A4%E5%9D%9A%E6%8C%8110%E5%B9%B4%23" target="weibo">
+女子生姜当水果1天1斤坚持10年（热度：1035932）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ IU转圈给刘仁娜展示小裙子（热度：637543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%83%A0%20%E5%AE%9E%E5%8A%9B%E6%B4%BE%23" target="weibo">
 万千惠 实力派（热度：637483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%9B%E8%82%A1%E4%B8%80%E5%AD%97%E8%B7%8C%E5%81%9C%23" target="weibo">
-大牛股一字跌停（热度：637472）
 </a>
 </li>
 
