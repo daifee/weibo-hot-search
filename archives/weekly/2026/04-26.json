@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777584842012,
+  "endTime": 1777588344053,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -4611,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277790,
+      "num": 440297,
+      "word": "13点起床才是性价比最高的",
+      "onboard_time": 1777571417,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276248,
       "num": 276248,
       "word": "阚清子老公投到第二就不投了",
@@ -4769,14 +4777,6 @@
       "onboard_time": 1777376722,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262294,
-      "num": 262294,
-      "word": "13点起床才是性价比最高的",
-      "onboard_time": 1777571417,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 261062,
@@ -5156,7 +5156,7 @@
     },
     {
       "raw_hot": 240931,
-      "num": 240931,
+      "num": 314508,
       "word": "命运托举你的方式很意外",
       "onboard_time": 1777568418,
       "rank": 17,
@@ -7571,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149929,
+      "num": 234829,
+      "word": "保洁误拿快递脑溢血身亡家属发声",
+      "onboard_time": 1777563081,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149666,
       "num": 230480,
       "word": "天津发布房地产新政",
@@ -7736,14 +7744,6 @@
       "word": "崩老头",
       "onboard_time": 1777289061,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144914,
-      "num": 234829,
-      "word": "保洁误拿快递脑溢血身亡家属发声",
-      "onboard_time": 1777563081,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -8915,6 +8915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98148,
+      "num": 231340,
+      "word": "美对伊战5月1日面临红线",
+      "onboard_time": 1777565299,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97891,
       "num": 97891,
       "word": "39岁的横店戏王为何无戏可拍",
@@ -9257,14 +9265,6 @@
       "onboard_time": 1777349122,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81758,
-      "num": 231340,
-      "word": "美对伊战5月1日面临红线",
-      "onboard_time": 1777565299,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81720,
@@ -10091,6 +10091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50335,
+      "num": 226777,
+      "word": "每天准时来接孩子的狗叔",
+      "onboard_time": 1777568418,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50276,
       "num": 87343,
       "word": "新的马拉松世界纪录1小时59分30秒",
@@ -10193,14 +10201,6 @@
       "onboard_time": 1777116078,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48048,
-      "num": 226777,
-      "word": "每天准时来接孩子的狗叔",
-      "onboard_time": 1777568418,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 47558,
@@ -10691,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30913,
+      "num": 52924,
+      "word": "这年头连广告牌都炒CP",
+      "onboard_time": 1777548260,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30871,
       "num": 48075,
       "word": "吉时已到",
@@ -10771,14 +10779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28139,
-      "num": 52924,
-      "word": "这年头连广告牌都炒CP",
-      "onboard_time": 1777548260,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27797,
       "num": 225933,
       "word": "酒店回应客人要求续住换床单被拒",
@@ -10825,6 +10825,14 @@
       "onboard_time": 1777368442,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26293,
+      "num": 52370,
+      "word": "铁证",
+      "onboard_time": 1777554380,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 25914,
@@ -10929,14 +10937,6 @@
       "onboard_time": 1777189880,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21306,
-      "num": 52370,
-      "word": "铁证",
-      "onboard_time": 1777554380,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 21201,

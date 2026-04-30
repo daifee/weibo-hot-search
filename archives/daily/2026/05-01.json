@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777584842012,
+  "endTime": 1777588344053,
   "band_list": [
     {
       "raw_hot": 3255384,
@@ -171,8 +171,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262294,
-      "num": 262294,
+      "raw_hot": 277790,
+      "num": 440297,
       "word": "13点起床才是性价比最高的",
       "onboard_time": 1777571417,
       "rank": 49,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 240931,
-      "num": 240931,
+      "num": 314508,
       "word": "命运托举你的方式很意外",
       "onboard_time": 1777568418,
       "rank": 17,
@@ -275,7 +275,7 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 144914,
+      "raw_hot": 149929,
       "num": 234829,
       "word": "保洁误拿快递脑溢血身亡家属发声",
       "onboard_time": 1777563081,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98148,
+      "num": 231340,
+      "word": "美对伊战5月1日面临红线",
+      "onboard_time": 1777565299,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94112,
       "num": 227949,
       "word": "DeepSeek思考过程好萌",
@@ -409,14 +417,6 @@
       "onboard_time": 1777557081,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81758,
-      "num": 231340,
-      "word": "美对伊战5月1日面临红线",
-      "onboard_time": 1777565299,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67283,
@@ -467,20 +467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50335,
+      "num": 226777,
+      "word": "每天准时来接孩子的狗叔",
+      "onboard_time": 1777568418,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49565,
       "num": 227328,
       "word": "纸嫁衣9首曝",
       "onboard_time": 1777567279,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48048,
-      "num": 226777,
-      "word": "每天准时来接孩子的狗叔",
-      "onboard_time": 1777568418,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 47579,
@@ -505,6 +505,14 @@
       "onboard_time": 1777558941,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42385,
+      "num": 223599,
+      "word": "台评论员谈美日菲军演解放军围观",
+      "onboard_time": 1777558642,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39770,
@@ -539,11 +547,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 34821,
-      "num": 223599,
-      "word": "台评论员谈美日菲军演解放军围观",
-      "onboard_time": 1777558642,
-      "rank": 48,
+      "raw_hot": 33646,
+      "num": 223212,
+      "word": "国防部回应辽宁舰四川舰过航台湾海峡",
+      "onboard_time": 1777560382,
+      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -555,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32771,
-      "num": 223212,
-      "word": "国防部回应辽宁舰四川舰过航台湾海峡",
-      "onboard_time": 1777560382,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 30913,
+      "num": 52924,
+      "word": "这年头连广告牌都炒CP",
+      "onboard_time": 1777548260,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 28965,
@@ -571,15 +579,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28139,
-      "num": 52924,
-      "word": "这年头连广告牌都炒CP",
-      "onboard_time": 1777548260,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21306,
+      "raw_hot": 26293,
       "num": 52370,
       "word": "铁证",
       "onboard_time": 1777554380,
@@ -587,8 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11088,
-      "num": 61128,
+      "raw_hot": 12282,
+      "num": 96339,
       "word": "幻月新游戏",
       "onboard_time": 1777555041,
       "rank": 9,
