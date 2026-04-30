@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777533063549,
+  "endTime": 1777534422234,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1292729,
+      "num": 1292729,
+      "word": "阿姨买肉误输79万多随即取消支付",
+      "onboard_time": 1777528640,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1269361,
       "num": 755198,
       "word": "谭松韵任嘉伦 二搭",
@@ -569,6 +577,14 @@
       "onboard_time": 1777517839,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255995,
+      "num": 396933,
+      "word": "马頔发言争议后首发博",
+      "onboard_time": 1777522880,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1232604,
@@ -705,14 +721,6 @@
       "onboard_time": 1777216342,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1094615,
-      "num": 396933,
-      "word": "马頔发言争议后首发博",
-      "onboard_time": 1777522880,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 1092716,
@@ -915,6 +923,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 934412,
+      "num": 934412,
+      "word": "孙杨妈妈 禁赛风波",
+      "onboard_time": 1777533740,
+      "rank": 1,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 930203,
       "num": 467332,
       "word": "张军系首个涉严重违纪违法奥运冠军",
@@ -987,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 888919,
+      "num": 888919,
+      "word": "香奈儿回应无底绑带鞋",
+      "onboard_time": 1777530799,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 884573,
       "num": 884573,
       "word": "上海迪士尼回应游客劝阻吸烟被打",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1777448361,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 867196,
-      "num": 867196,
-      "word": "阿姨买肉误输79万多随即取消支付",
-      "onboard_time": 1777528640,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 856190,
@@ -1467,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 713545,
+      "num": 338144,
+      "word": "虞书欣造型",
+      "onboard_time": 1777533139,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 713229,
       "num": 713229,
       "word": "霍尔木兹海峡部分被困船员已遇难",
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 673787,
-      "num": 308024,
+      "num": 339046,
       "word": "金饰价格断崖下跌",
       "onboard_time": 1777527139,
       "rank": 12,
@@ -2636,7 +2660,7 @@
     },
     {
       "raw_hot": 468260,
-      "num": 307319,
+      "num": 325919,
       "word": "古天乐被传隐婚生子",
       "onboard_time": 1777525161,
       "rank": 13,
@@ -3539,6 +3563,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 349198,
+      "num": 349198,
+      "word": "开始推理吧",
+      "onboard_time": 1777531699,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348993,
       "num": 370222,
       "word": "张慧雯三公小考成绩",
@@ -3657,14 +3689,6 @@
       "onboard_time": 1777519101,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337794,
-      "num": 337794,
-      "word": "香奈儿回应无底绑带鞋",
-      "onboard_time": 1777530799,
-      "rank": 8,
-      "category": "时尚"
     },
     {
       "raw_hot": 337333,
@@ -4001,14 +4025,6 @@
       "onboard_time": 1777340359,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299404,
-      "num": 262907,
-      "word": "开始推理吧",
-      "onboard_time": 1777531699,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 297882,
@@ -4403,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258238,
+      "num": 258238,
+      "word": "秦昊伊能静办了三次婚礼",
+      "onboard_time": 1777533020,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258057,
       "num": 258057,
       "word": "宁艺卓真正回应粉丝的语气",
@@ -4747,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234922,
+      "num": 232992,
+      "word": "黄灿灿曾因自卑不敢和杨紫交朋友",
+      "onboard_time": 1777529299,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233530,
       "num": 233530,
       "word": "宝宝差点摔倒一车厢人都动了",
@@ -4776,14 +4808,6 @@
       "word": "魏笑老公曾参加过恋综",
       "onboard_time": 1777218441,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 232992,
-      "num": 232992,
-      "word": "黄灿灿曾因自卑不敢和杨紫交朋友",
-      "onboard_time": 1777529299,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -5331,14 +5355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206062,
-      "num": 206062,
-      "word": "秦昊伊能静办了三次婚礼",
-      "onboard_time": 1777533020,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206004,
       "num": 206004,
       "word": "胖东来饺子皮包装提示被网友夸赞",
@@ -5473,6 +5489,14 @@
       "onboard_time": 1777259118,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198889,
+      "num": 187947,
+      "word": "韩国演员朴东彬去世",
+      "onboard_time": 1777528401,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198690,
@@ -5667,6 +5691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191354,
+      "num": 348667,
+      "word": "特斯拉Semi首辆量产车下线",
+      "onboard_time": 1777527559,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 191255,
+      "num": 191255,
+      "word": "A股新晋股王寒武纪",
+      "onboard_time": 1777527201,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191171,
       "num": 174088,
       "word": "周也公主切",
@@ -5731,14 +5771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 188401,
-      "num": 336910,
-      "word": "特斯拉Semi首辆量产车下线",
-      "onboard_time": 1777527559,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 188393,
       "num": 174544,
       "word": "电费比房租还高",
@@ -5752,14 +5784,6 @@
       "word": "王俊凯说不是最好就是不行",
       "onboard_time": 1777474463,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187947,
-      "num": 187947,
-      "word": "韩国演员朴东彬去世",
-      "onboard_time": 1777528401,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -5817,6 +5841,14 @@
       "onboard_time": 1777251261,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 185884,
+      "num": 185884,
+      "word": "二手烟 唇腭裂",
+      "onboard_time": 1777533799,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185718,
@@ -5900,7 +5932,7 @@
     },
     {
       "raw_hot": 183821,
-      "num": 292658,
+      "num": 331340,
       "word": "王腾称加仓了小米股票",
       "onboard_time": 1777524201,
       "rank": 16,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1777282041,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181582,
+      "num": 181582,
+      "word": "肖战擦眼泪的视频看得让人泪目",
+      "onboard_time": 1777533381,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 180398,
@@ -6627,12 +6667,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 157665,
-      "num": 180956,
-      "word": "A股新晋股王寒武纪",
-      "onboard_time": 1777527201,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 157367,
+      "num": 159326,
+      "word": "男子回应升职后频繁家暴妻子",
+      "onboard_time": 1777531101,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157223,
@@ -6689,6 +6729,14 @@
       "onboard_time": 1777420041,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "张豆豆也是运动员",
+      "onboard_time": 1777533979,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 155051,
@@ -6857,6 +6905,14 @@
       "onboard_time": 1777446559,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149341,
+      "num": 207598,
+      "word": "马龙许昕全程跟队备战世乒赛",
+      "onboard_time": 1777531879,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 149139,
@@ -7049,6 +7105,14 @@
       "onboard_time": 1777520300,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141600,
+      "num": 318483,
+      "word": "GPT5.5 少说多做",
+      "onboard_time": 1777530140,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 141430,
@@ -7299,28 +7363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131879,
-      "num": 159326,
-      "word": "男子回应升职后频繁家暴妻子",
-      "onboard_time": 1777531101,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131533,
       "num": 208277,
       "word": "女子本想到医院减肥却查出两种癌",
       "onboard_time": 1777304361,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131084,
-      "num": 207598,
-      "word": "马龙许昕全程跟队备战世乒赛",
-      "onboard_time": 1777531879,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 130307,
@@ -7433,14 +7481,6 @@
       "onboard_time": 1777286241,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123383,
-      "num": 291806,
-      "word": "GPT5.5 少说多做",
-      "onboard_time": 1777530140,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 123126,
@@ -8153,6 +8193,14 @@
       "onboard_time": 1777367481,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88728,
+      "num": 314818,
+      "word": "飞猪免单居然这么简单",
+      "onboard_time": 1777533080,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87928,
@@ -8915,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57564,
+      "num": 328755,
+      "word": "不小心触发了真能解决生活问题的AI",
+      "onboard_time": 1777533020,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57337,
       "num": 162681,
       "word": "一种很新的解压方式",
@@ -8961,6 +9017,14 @@
       "onboard_time": 1777522761,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54904,
+      "num": 139136,
+      "word": "罗永浩替网友喊话西门子",
+      "onboard_time": 1777533979,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 54821,
@@ -9235,6 +9299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 42491,
+      "num": 334205,
+      "word": "日本从未深刻反省二战侵略历史",
+      "onboard_time": 1777533201,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42126,
       "num": 413330,
       "word": "明日方舟 卡游",
@@ -9345,14 +9417,6 @@
       "onboard_time": 1777389861,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37868,
-      "num": 169444,
-      "word": "不小心触发了真能解决生活问题的AI",
-      "onboard_time": 1777533020,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 37466,
@@ -9675,6 +9739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25638,
+      "num": 330883,
+      "word": "用AI代替员工的快开不起工资了",
+      "onboard_time": 1777533859,
+      "rank": 16,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 24597,
       "num": 250229,
       "word": "雨润加工厂被强拆1.4亿补偿款未兑付",
@@ -9771,6 +9843,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 19133,
+      "num": 905525,
+      "word": "五一消费热供应跟得上",
+      "onboard_time": 1777520300,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18843,
       "num": 40776,
       "word": "低温烫伤",
@@ -9851,6 +9931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15063,
+      "num": 322382,
+      "word": "民宿商家零成本批量生产种草笔记",
+      "onboard_time": 1777533680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14221,
       "num": 633888,
       "word": "理响中国",
@@ -9865,14 +9953,6 @@
       "onboard_time": 1777410493,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13039,
-      "num": 857211,
-      "word": "五一消费热供应跟得上",
-      "onboard_time": 1777520300,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12640,

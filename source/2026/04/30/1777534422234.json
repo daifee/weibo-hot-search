@@ -1,0 +1,410 @@
+{
+  "runTime": 1777534422234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292729,
+        "num": 1292729,
+        "word": "阿姨买肉误输79万多随即取消支付",
+        "onboard_time": 1777528640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934412,
+        "num": 934412,
+        "word": "孙杨妈妈 禁赛风波",
+        "onboard_time": 1777533740,
+        "rank": 1,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 19133,
+        "num": 905525,
+        "word": "五一消费热供应跟得上",
+        "onboard_time": 1777520300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 888919,
+        "num": 888919,
+        "word": "香奈儿回应无底绑带鞋",
+        "onboard_time": 1777530799,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 676987,
+        "num": 676987,
+        "word": "我妈养我vs我养我自己",
+        "onboard_time": 1777525939,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1599282,
+        "num": 674179,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1777527501,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671207,
+        "num": 671207,
+        "word": "微信从聊天工具变成了工作软件",
+        "onboard_time": 1777527620,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392738,
+        "num": 392738,
+        "word": "年轻人出门越来越极简了",
+        "onboard_time": 1777518979,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349198,
+        "num": 349198,
+        "word": "开始推理吧",
+        "onboard_time": 1777531699,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191354,
+        "num": 348667,
+        "word": "特斯拉Semi首辆量产车下线",
+        "onboard_time": 1777527559,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1255995,
+        "num": 345447,
+        "word": "马頔发言争议后首发博",
+        "onboard_time": 1777522880,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1134746,
+        "num": 343024,
+        "word": "吴宣仪母亲与乐华谈判视频首曝光",
+        "onboard_time": 1777519520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586669,
+        "num": 339046,
+        "word": "金饰价格断崖下跌",
+        "onboard_time": 1777527139,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 713545,
+        "num": 338144,
+        "word": "虞书欣造型",
+        "onboard_time": 1777533139,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42491,
+        "num": 334205,
+        "word": "日本从未深刻反省二战侵略历史",
+        "onboard_time": 1777533201,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150105,
+        "num": 331340,
+        "word": "王腾称加仓了小米股票",
+        "onboard_time": 1777524201,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25638,
+        "num": 330883,
+        "word": "用AI代替员工的快开不起工资了",
+        "onboard_time": 1777533859,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 57564,
+        "num": 328755,
+        "word": "不小心触发了真能解决生活问题的AI",
+        "onboard_time": 1777533020,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 394078,
+        "num": 325919,
+        "word": "古天乐被传隐婚生子",
+        "onboard_time": 1777525161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15063,
+        "num": 322382,
+        "word": "民宿商家零成本批量生产种草笔记",
+        "onboard_time": 1777533680,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382270,
+        "num": 319160,
+        "word": "韩汶栩删16级粉丝解散粉丝群",
+        "onboard_time": 1777520899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141600,
+        "num": 318483,
+        "word": "GPT5.5 少说多做",
+        "onboard_time": 1777530140,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88728,
+        "num": 314818,
+        "word": "飞猪免单居然这么简单",
+        "onboard_time": 1777533080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313454,
+        "num": 313454,
+        "word": "中1000w彩票冷知识",
+        "onboard_time": 1777519999,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258238,
+        "num": 258238,
+        "word": "秦昊伊能静办了三次婚礼",
+        "onboard_time": 1777533020,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252474,
+        "num": 252474,
+        "word": "孙怡给谢娜吓出汗来了",
+        "onboard_time": 1777526361,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234749,
+        "num": 234749,
+        "word": "5月起未经同意不得发送商业短信",
+        "onboard_time": 1777517839,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234922,
+        "num": 224613,
+        "word": "黄灿灿曾因自卑不敢和杨紫交朋友",
+        "onboard_time": 1777529299,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199705,
+        "num": 199705,
+        "word": "霍尔木兹海峡部分被困船员已遇难",
+        "onboard_time": 1777506799,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193804,
+        "num": 193804,
+        "word": "火箭湖人冰火两重天",
+        "onboard_time": 1777526000,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235536,
+        "num": 192876,
+        "word": "陈坤晒北电表演系96班30年合照",
+        "onboard_time": 1777517540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234168,
+        "num": 192378,
+        "word": "强烈建议大家去看语文综艺",
+        "onboard_time": 1777528700,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191255,
+        "num": 191255,
+        "word": "A股新晋股王寒武纪",
+        "onboard_time": 1777527201,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202776,
+        "num": 189165,
+        "word": "李煜东 我姓刘",
+        "onboard_time": 1777523361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198889,
+        "num": 187790,
+        "word": "韩国演员朴东彬去世",
+        "onboard_time": 1777528401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185884,
+        "num": 185884,
+        "word": "二手烟 唇腭裂",
+        "onboard_time": 1777533799,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195640,
+        "num": 184262,
+        "word": "李小冉上五哈也难逃抽象",
+        "onboard_time": 1777526000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181582,
+        "num": 181582,
+        "word": "肖战擦眼泪的视频看得让人泪目",
+        "onboard_time": 1777533381,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171777,
+        "num": 171777,
+        "word": "思虑过重的人一定要学会自救",
+        "onboard_time": 1777529119,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173771,
+        "num": 170146,
+        "word": "贺峻霖callback十年前发的微博",
+        "onboard_time": 1777530560,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159978,
+        "num": 159978,
+        "word": "歼15喊话日本军机你在我射程之内",
+        "onboard_time": 1777524860,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 157367,
+        "num": 157367,
+        "word": "男子回应升职后频繁家暴妻子",
+        "onboard_time": 1777531101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "张豆豆也是运动员",
+        "onboard_time": 1777533979,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153509,
+        "num": 153509,
+        "word": "母亲谈判期间吴宣仪身体不适",
+        "onboard_time": 1777524561,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149341,
+        "num": 149341,
+        "word": "马龙许昕全程跟队备战世乒赛",
+        "onboard_time": 1777531879,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144205,
+        "num": 144205,
+        "word": "白鹿下半年进组现代戏",
+        "onboard_time": 1777532720,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505929,
+        "num": 144103,
+        "word": "孙杨博士入学资格受质疑",
+        "onboard_time": 1777526599,
+        "rank": 46,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 82117,
+        "num": 142047,
+        "word": "问界M6交付速度刺激购买决策",
+        "onboard_time": 1777527801,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54904,
+        "num": 139136,
+        "word": "罗永浩替网友喊话西门子",
+        "onboard_time": 1777533979,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44492,
+        "num": 137337,
+        "word": "苹果印度生产线陷入停摆",
+        "onboard_time": 1777512140,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手共建清洁美丽可持续的世界#"
+    }
+  }
+}
