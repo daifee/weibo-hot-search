@@ -1,0 +1,410 @@
+{
+  "runTime": 1777590024586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 296190,
+        "num": 603657,
+        "word": "辛辛苦苦种了三个多月的胡萝卜",
+        "onboard_time": 1777556721,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268911,
+        "num": 451086,
+        "word": "命运托举你的方式很意外",
+        "onboard_time": 1777568418,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19425,
+        "num": 359601,
+        "word": "1071项国标5月1日起实施",
+        "onboard_time": 1777556842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706512,
+        "num": 329653,
+        "word": "李晨怀念跑男老成员",
+        "onboard_time": 1777560921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256259,
+        "num": 256259,
+        "word": "13点起床才是性价比最高的",
+        "onboard_time": 1777571417,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144715,
+        "num": 144715,
+        "word": "孙杨因为没给张豆豆办婚礼哭了",
+        "onboard_time": 1777568418,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118718,
+        "num": 118718,
+        "word": "美对伊战5月1日面临红线",
+        "onboard_time": 1777565299,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111723,
+        "num": 111723,
+        "word": "新能源车换个后视镜花了近6000元",
+        "onboard_time": 1777560140,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11112,
+        "num": 111081,
+        "word": "幻月新游戏",
+        "onboard_time": 1777555041,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 812005,
+        "num": 110347,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155446,
+        "num": 109545,
+        "word": "台男子车站性侵女游客被判5年",
+        "onboard_time": 1777557742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 108787,
+        "word": "保洁误拿快递脑溢血身亡家属发声",
+        "onboard_time": 1777563081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133698,
+        "num": 107744,
+        "word": "宗师 AG",
+        "onboard_time": 1777564941,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116465,
+        "num": 107335,
+        "word": "妈妈回应兄弟俩患自毁容貌综合征",
+        "onboard_time": 1777559421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112560,
+        "num": 106626,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105976,
+        "num": 105976,
+        "word": "为什么有的人从来不内耗",
+        "onboard_time": 1777550060,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 99389,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96981,
+        "num": 96981,
+        "word": "分手了你俩开始暧昧了",
+        "onboard_time": 1777564879,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89056,
+        "num": 89056,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87441,
+        "num": 87441,
+        "word": "女子辞职顾家分手遭男友追讨百万",
+        "onboard_time": 1777558702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77459,
+        "num": 77459,
+        "word": "不要生吃或半生吃猪肉牛肉",
+        "onboard_time": 1777588395,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66577,
+        "num": 77224,
+        "word": "苹果电脑废纸篓里的废纸谁扔的",
+        "onboard_time": 1777556242,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59567,
+        "num": 77142,
+        "word": "每天准时来接孩子的狗叔",
+        "onboard_time": 1777568418,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57835,
+        "num": 76858,
+        "word": "试过一次空手出门就知道有多爽",
+        "onboard_time": 1777569496,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54680,
+        "num": 76444,
+        "word": "深圳14岁男孩用AI备考押中奥赛题",
+        "onboard_time": 1777564339,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 50786,
+        "num": 76292,
+        "word": "台评论员谈美日菲军演解放军围观",
+        "onboard_time": 1777558642,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49571,
+        "num": 75963,
+        "word": "李小冉全脂胳膊",
+        "onboard_time": 1777556901,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48116,
+        "num": 75438,
+        "word": "金价突涨",
+        "onboard_time": 1777563202,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46730,
+        "num": 75388,
+        "word": "天津发布房地产新政",
+        "onboard_time": 1777560921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43460,
+        "num": 75132,
+        "word": "小猫不知道床被洗了",
+        "onboard_time": 1777568418,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41746,
+        "num": 74853,
+        "word": "国防部回应辽宁舰四川舰过航台湾海峡",
+        "onboard_time": 1777560382,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39224,
+        "num": 74438,
+        "word": "靠吃碳水长大的小猫",
+        "onboard_time": 1777568957,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39119,
+        "num": 74248,
+        "word": "李现又去看五月天演唱会了",
+        "onboard_time": 1777554081,
+        "rank": 33,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 36418,
+        "num": 73731,
+        "word": "冰箱的寒气被生姜给逼出来了",
+        "onboard_time": 1777557081,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35865,
+        "num": 73571,
+        "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+        "onboard_time": 1777541239,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34583,
+        "num": 73308,
+        "word": "2859克黄金被扣30年迎转机",
+        "onboard_time": 1777558941,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34407,
+        "num": 73024,
+        "word": "寒武纪涨停",
+        "onboard_time": 1777558461,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31833,
+        "num": 72806,
+        "word": "章建平套现寒武纪超40亿元",
+        "onboard_time": 1777559061,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31129,
+        "num": 72380,
+        "word": "洪朝阳确定不会参与浪姐后续录制",
+        "onboard_time": 1777570276,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29258,
+        "num": 72245,
+        "word": "奔跑吧",
+        "onboard_time": 1777551740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 71686,
+        "word": "男子584元买凉拌鸡老板狂加43勺糖",
+        "onboard_time": 1777554141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27487,
+        "num": 71455,
+        "word": "王俊凯浪姐送考自拍",
+        "onboard_time": 1777560021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26052,
+        "num": 71192,
+        "word": "蜜语纪大结局",
+        "onboard_time": 1777548080,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25729,
+        "num": 71098,
+        "word": "铁证",
+        "onboard_time": 1777554380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22192,
+        "num": 70752,
+        "word": "纸嫁衣9首曝",
+        "onboard_time": 1777567279,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21264,
+        "num": 70297,
+        "word": "孙怡参加浪姐原因",
+        "onboard_time": 1777568418,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19480,
+        "num": 70100,
+        "word": "储户称多笔存款被冒名盗取",
+        "onboard_time": 1777565001,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18683,
+        "num": 69939,
+        "word": "韩国霸王茶姬爆单",
+        "onboard_time": 1777537519,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 692814,
+        "num": 69397,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大劳动群众致以节日祝贺#"
+    }
+  }
+}

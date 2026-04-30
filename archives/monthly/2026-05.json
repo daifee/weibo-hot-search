@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777588344053,
+  "endTime": 1777590024586,
   "band_list": [
     {
       "raw_hot": 3255384,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268911,
+      "num": 451086,
+      "word": "命运托举你的方式很意外",
+      "onboard_time": 1777568418,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
@@ -193,14 +201,6 @@
       "onboard_time": 1777562960,
       "rank": 8,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 240931,
-      "num": 314508,
-      "word": "命运托举你的方式很意外",
-      "onboard_time": 1777568418,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 231080,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144715,
+      "num": 236651,
+      "word": "孙杨因为没给张豆豆办婚礼哭了",
+      "onboard_time": 1777568418,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141977,
       "num": 141977,
       "word": "王一博 小马尾绑的高",
@@ -355,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118718,
+      "num": 231340,
+      "word": "美对伊战5月1日面临红线",
+      "onboard_time": 1777565299,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118695,
       "num": 118695,
       "word": "伊能静回应恩利争议视频",
       "onboard_time": 1777535060,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107983,
-      "num": 236651,
-      "word": "孙杨因为没给张豆豆办婚礼哭了",
-      "onboard_time": 1777568418,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 100222,
@@ -385,14 +393,6 @@
       "onboard_time": 1777560021,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98148,
-      "num": 231340,
-      "word": "美对伊战5月1日面临红线",
-      "onboard_time": 1777565299,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94112,
@@ -419,11 +419,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77459,
+      "num": 77459,
+      "word": "不要生吃或半生吃猪肉牛肉",
+      "onboard_time": 1777588395,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67283,
       "num": 226383,
       "word": "试过一次空手出门就知道有多爽",
       "onboard_time": 1777569496,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59567,
+      "num": 226777,
+      "word": "每天准时来接孩子的狗叔",
+      "onboard_time": 1777568418,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -467,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 50335,
-      "num": 226777,
-      "word": "每天准时来接孩子的狗叔",
-      "onboard_time": 1777568418,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 50786,
+      "num": 223599,
+      "word": "台评论员谈美日菲军演解放军围观",
+      "onboard_time": 1777558642,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49565,
@@ -507,11 +523,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42385,
-      "num": 223599,
-      "word": "台评论员谈美日菲军演解放军围观",
-      "onboard_time": 1777558642,
-      "rank": 48,
+      "raw_hot": 41746,
+      "num": 223212,
+      "word": "国防部回应辽宁舰四川舰过航台湾海峡",
+      "onboard_time": 1777560382,
+      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -547,14 +563,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 33646,
-      "num": 223212,
-      "word": "国防部回应辽宁舰四川舰过航台湾海峡",
-      "onboard_time": 1777560382,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32953,
       "num": 192396,
       "word": "洪朝阳确定不会参与浪姐后续录制",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 26293,
-      "num": 52370,
+      "num": 71098,
       "word": "铁证",
       "onboard_time": 1777554380,
       "rank": 43,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 12282,
-      "num": 96339,
+      "num": 111081,
       "word": "幻月新游戏",
       "onboard_time": 1777555041,
       "rank": 9,
