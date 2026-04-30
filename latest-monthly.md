@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 12:37:46
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 15:11:03
 </p>
 </blockquote>
 <p>
@@ -869,6 +869,12 @@ sbti人格测试（热度：2169731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%A1%E5%A4%B4%E6%96%91%E7%A7%83%E5%92%8C%E6%B0%B4%E6%B3%A1%23" target="weibo">
 薛之谦满头斑秃和水泡（热度：1919095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%20%E8%B7%91%E7%94%B7%23" target="weibo">
+宋雨琦 跑男（热度：1881938）
 </a>
 </li>
 
@@ -2571,6 +2577,12 @@ jisoo的哥哥已婚（热度：1121209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E5%8F%91%E8%A8%80%E4%BA%89%E8%AE%AE%E5%90%8E%E9%A6%96%E5%8F%91%E5%8D%9A%23" target="weibo">
+马頔发言争议后首发博（热度：1094615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%99%E5%90%8E%E6%8F%B4%E4%BC%9A%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23" target="weibo">
 一笙后援会集体辞职（热度：1092716）
 </a>
@@ -3603,6 +3615,12 @@ IMSB人格（热度：892803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%8D%9A%E5%A3%AB%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC%E5%8F%97%E8%B4%A8%E7%96%91%23" target="weibo">
+孙杨博士入学资格受质疑（热度：880152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E9%BE%99%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%23" target="weibo">
 奶龙高考落榜（热度：879596）
 </a>
@@ -3635,6 +3653,12 @@ IMSB人格（热度：892803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%85%AC%E6%89%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%94%B1%E6%AD%8C%E9%9A%BE%E5%90%AC%23" target="weibo">
 李小冉一公才知道自己唱歌难听（热度：877248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%BB%8E%E8%81%8A%E5%A4%A9%E5%B7%A5%E5%85%B7%E5%8F%98%E6%88%90%E4%BA%86%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6%23" target="weibo">
+微信从聊天工具变成了工作软件（热度：876197）
 </a>
 </li>
 
@@ -3717,6 +3741,12 @@ TEN李永钦不续约（热度：868167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E4%B9%B0%E8%82%89%E8%AF%AF%E8%BE%9379%E4%B8%87%E5%A4%9A%E9%9A%8F%E5%8D%B3%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%98%23" target="weibo">
+阿姨买肉误输79万多随即取消支付（热度：867196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E9%AA%84%E5%82%B2%E6%8B%92%E6%92%95%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
 陶昕然骄傲拒撕节目组（热度：867194）
 </a>
@@ -3755,6 +3785,12 @@ TEN李永钦不续约（热度：868167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%B7%98%E6%B1%B0%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
 被时代淘汰的水果（热度：856337）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A6%88%E5%85%BB%E6%88%91vs%E6%88%91%E5%85%BB%E6%88%91%E8%87%AA%E5%B7%B1%23" target="weibo">
+我妈养我vs我养我自己（热度：856190）
 </a>
 </li>
 
@@ -5553,6 +5589,12 @@ CT的辐射每一次都是带来隐患（热度：687071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C%23" target="weibo">
+金饰价格断崖下跌（热度：673787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%A5%B3%E5%AD%90%E5%92%8C%E8%80%81%E5%A4%AA%E6%BF%80%E7%83%88%E6%89%AD%E6%89%93%E4%B8%80%E5%9B%A2%23" target="weibo">
 上海地铁女子和老太激烈扭打一团（热度：673512）
 </a>
@@ -5969,48 +6011,6 @@ DeepSeekV4发布（热度：644854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%A5%E8%AF%9D%E8%AE%A9%E6%88%91%E5%86%B3%E5%AE%9A%E6%AF%8F%E5%A4%A9%E5%A4%9A%E5%96%9D%E6%B0%B4%E4%BA%86%23" target="weibo">
 这句话让我决定每天多喝水了（热度：644475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%23" target="weibo">
-连续两周上四休三（热度：644032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E7%A7%B0%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A9%E8%80%81%E5%B8%88%E5%B7%B2%E9%99%8D%E6%9C%80%E4%BD%8E%E7%AD%89%E7%BA%A7%23" target="weibo">
-教体局称猥亵女孩老师已降最低等级（热度：643851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%AF%8F%E6%AC%A1%E6%8B%BF%E5%A4%96%E5%8D%96%E9%83%BD%E6%8A%8A%E5%AE%B6%E5%85%B7%E6%9A%B4%E6%89%93%E4%B8%80%E9%81%8D%23" target="weibo">
-小狗每次拿外卖都把家具暴打一遍（热度：643764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20%E6%8A%95%E7%A5%A8%E6%A0%87%E5%87%86%23" target="weibo">
-浪姐 投票标准（热度：643358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E8%AF%84%E4%BB%B7%E7%99%BD%E9%B9%BF%23" target="weibo">
-业内评价白鹿（热度：642813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%904.5%E4%B8%87%E6%9C%88%E8%96%AA%E5%B7%A5%E4%BD%9C%E8%A2%AB%E5%89%8D%E5%85%AC%E5%8F%B8%E6%90%85%E9%BB%84%23" target="weibo">
-男子4.5万月薪工作被前公司搅黄（热度：642650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%98%95%E7%84%B6%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23" target="weibo">
-陶昕然发长文回应淘汰（热度：641517）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777533063549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880152,
+        "num": 1140824,
+        "word": "孙杨博士入学资格受质疑",
+        "onboard_time": 1777526599,
+        "rank": 0,
+        "category": "舆论监督,体育"
+      },
+      {
+        "raw_hot": 867196,
+        "num": 867196,
+        "word": "阿姨买肉误输79万多随即取消支付",
+        "onboard_time": 1777528640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13039,
+        "num": 857211,
+        "word": "五一消费热供应跟得上",
+        "onboard_time": 1777520300,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 876197,
+        "num": 857129,
+        "word": "微信从聊天工具变成了工作软件",
+        "onboard_time": 1777527620,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 856190,
+        "num": 856190,
+        "word": "我妈养我vs我养我自己",
+        "onboard_time": 1777525939,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1881938,
+        "num": 724625,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1777527501,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428263,
+        "num": 428263,
+        "word": "年轻人出门越来越极简了",
+        "onboard_time": 1777518979,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376250,
+        "num": 376250,
+        "word": "中1000w彩票冷知识",
+        "onboard_time": 1777519999,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337794,
+        "num": 337794,
+        "word": "香奈儿回应无底绑带鞋",
+        "onboard_time": 1777530799,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 188401,
+        "num": 336910,
+        "word": "特斯拉Semi首辆量产车下线",
+        "onboard_time": 1777527559,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1259282,
+        "num": 326196,
+        "word": "吴宣仪母亲与乐华谈判视频首曝光",
+        "onboard_time": 1777519520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1094615,
+        "num": 318341,
+        "word": "马頔发言争议后首发博",
+        "onboard_time": 1777522880,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673787,
+        "num": 308024,
+        "word": "金饰价格断崖下跌",
+        "onboard_time": 1777527139,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 468260,
+        "num": 307319,
+        "word": "古天乐被传隐婚生子",
+        "onboard_time": 1777525161,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377545,
+        "num": 297109,
+        "word": "韩汶栩删16级粉丝解散粉丝群",
+        "onboard_time": 1777520899,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292870,
+        "num": 292870,
+        "word": "5月起未经同意不得发送商业短信",
+        "onboard_time": 1777517839,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183821,
+        "num": 292658,
+        "word": "王腾称加仓了小米股票",
+        "onboard_time": 1777524201,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123383,
+        "num": 291806,
+        "word": "GPT5.5 少说多做",
+        "onboard_time": 1777530140,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58129,
+        "num": 290496,
+        "word": "苹果印度生产线陷入停摆",
+        "onboard_time": 1777512140,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22492,
+        "num": 290084,
+        "word": "男子用15家空壳公司虚开3499份发票",
+        "onboard_time": 1777532479,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558851,
+        "num": 289071,
+        "word": "马頔说跟孙杨张豆豆相比是正常人",
+        "onboard_time": 1777531340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288257,
+        "num": 288257,
+        "word": "火箭湖人冰火两重天",
+        "onboard_time": 1777526000,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313525,
+        "num": 275186,
+        "word": "孙怡给谢娜吓出汗来了",
+        "onboard_time": 1777526361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299404,
+        "num": 262907,
+        "word": "开始推理吧",
+        "onboard_time": 1777531699,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209533,
+        "num": 238008,
+        "word": "霍尔木兹海峡部分被困船员已遇难",
+        "onboard_time": 1777506799,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237339,
+        "num": 237339,
+        "word": "李小冉上五哈也难逃抽象",
+        "onboard_time": 1777526000,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287797,
+        "num": 237095,
+        "word": "强烈建议大家去看语文综艺",
+        "onboard_time": 1777528700,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155051,
+        "num": 235432,
+        "word": "C罗霸气回应挑衅我有五个欧冠",
+        "onboard_time": 1777527440,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292442,
+        "num": 234242,
+        "word": "陈坤晒北电表演系96班30年合照",
+        "onboard_time": 1777517540,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171017,
+        "num": 233784,
+        "word": "歼15喊话日本军机你在我射程之内",
+        "onboard_time": 1777524860,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 232992,
+        "num": 232992,
+        "word": "黄灿灿曾因自卑不敢和杨紫交朋友",
+        "onboard_time": 1777529299,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209356,
+        "num": 209356,
+        "word": "李煜东 我姓刘",
+        "onboard_time": 1777523361,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131084,
+        "num": 207598,
+        "word": "马龙许昕全程跟队备战世乒赛",
+        "onboard_time": 1777531879,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206062,
+        "num": 206062,
+        "word": "秦昊伊能静办了三次婚礼",
+        "onboard_time": 1777533020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205101,
+        "num": 205101,
+        "word": "思虑过重的人一定要学会自救",
+        "onboard_time": 1777529119,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188112,
+        "num": 188112,
+        "word": "YG新女团第三位成员公开",
+        "onboard_time": 1777510040,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187947,
+        "num": 187947,
+        "word": "韩国演员朴东彬去世",
+        "onboard_time": 1777528401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157665,
+        "num": 180956,
+        "word": "A股新晋股王寒武纪",
+        "onboard_time": 1777527201,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179969,
+        "num": 179969,
+        "word": "贺峻霖callback十年前发的微博",
+        "onboard_time": 1777530560,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175489,
+        "num": 175489,
+        "word": "母亲谈判期间吴宣仪身体不适",
+        "onboard_time": 1777524561,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146949,
+        "num": 174852,
+        "word": "女生攒到10万怕被嘲笑网友全是鼓励",
+        "onboard_time": 1777507220,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174842,
+        "num": 174842,
+        "word": "乐华艺人都没有看过合同",
+        "onboard_time": 1777525041,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37868,
+        "num": 169444,
+        "word": "不小心触发了真能解决生活问题的AI",
+        "onboard_time": 1777533020,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168960,
+        "num": 168960,
+        "word": "白鹿下半年进组现代戏",
+        "onboard_time": 1777532720,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159609,
+        "num": 159609,
+        "word": "青岛偶遇关晓彤",
+        "onboard_time": 1777513221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131879,
+        "num": 159326,
+        "word": "男子回应升职后频繁家暴妻子",
+        "onboard_time": 1777531101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 157716,
+        "word": "杨幂主持KPL演技大赏",
+        "onboard_time": 1777525760,
+        "rank": 46,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 84371,
+        "num": 156411,
+        "word": "问界M6交付速度刺激购买决策",
+        "onboard_time": 1777527801,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36731,
+        "num": 154721,
+        "word": "赛力斯一季度净利润7.54亿元",
+        "onboard_time": 1777515440,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16655,
+        "num": 153119,
+        "word": "中国空间站快要住不下了",
+        "onboard_time": 1777505116,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手共建清洁美丽可持续的世界#"
+    }
+  }
+}
