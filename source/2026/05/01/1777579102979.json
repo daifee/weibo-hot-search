@@ -1,0 +1,410 @@
+{
+  "runTime": 1777579102979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249868,
+        "num": 249868,
+        "word": "13点起床才是性价比最高的",
+        "onboard_time": 1777571417,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93562,
+        "num": 111163,
+        "word": "辛辛苦苦种了三个多月的胡萝卜",
+        "onboard_time": 1777556721,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9408,
+        "num": 90563,
+        "word": "1071项国标5月1日起实施",
+        "onboard_time": 1777556842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340716,
+        "num": 88574,
+        "word": "李晨怀念跑男老成员",
+        "onboard_time": 1777560921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82317,
+        "num": 82317,
+        "word": "宗师 AG",
+        "onboard_time": 1777564941,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67283,
+        "num": 67283,
+        "word": "试过一次空手出门就知道有多爽",
+        "onboard_time": 1777569496,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54007,
+        "num": 54007,
+        "word": "孙杨因为没给张豆豆办婚礼哭了",
+        "onboard_time": 1777568418,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52957,
+        "num": 52957,
+        "word": "命运托举你的方式很意外",
+        "onboard_time": 1777568418,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48197,
+        "num": 48197,
+        "word": "苹果电脑废纸篓里的废纸谁扔的",
+        "onboard_time": 1777556242,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41355,
+        "num": 48196,
+        "word": "新能源车换个后视镜花了近6000元",
+        "onboard_time": 1777560140,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193636,
+        "num": 48165,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92311,
+        "num": 48140,
+        "word": "保洁误拿快递脑溢血身亡家属发声",
+        "onboard_time": 1777563081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82763,
+        "num": 48131,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62875,
+        "num": 48103,
+        "word": "台男子车站性侵女游客被判5年",
+        "onboard_time": 1777557742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48093,
+        "num": 48093,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47233,
+        "num": 47233,
+        "word": "为什么有的人从来不内耗",
+        "onboard_time": 1777550060,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45727,
+        "num": 45727,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43274,
+        "num": 43274,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41826,
+        "num": 41826,
+        "word": "李小冉全脂胳膊",
+        "onboard_time": 1777556901,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41776,
+        "num": 41776,
+        "word": "美对伊战5月1日面临红线",
+        "onboard_time": 1777565299,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41360,
+        "num": 41360,
+        "word": "男子584元买凉拌鸡老板狂加43勺糖",
+        "onboard_time": 1777554141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36069,
+        "num": 41359,
+        "word": "女子辞职顾家分手遭男友追讨百万",
+        "onboard_time": 1777558702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35153,
+        "num": 41286,
+        "word": "妈妈回应兄弟俩患自毁容貌综合征",
+        "onboard_time": 1777559421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33474,
+        "num": 41207,
+        "word": "金价突涨",
+        "onboard_time": 1777563202,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30431,
+        "num": 41171,
+        "word": "靠吃碳水长大的小猫",
+        "onboard_time": 1777568957,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29022,
+        "num": 41119,
+        "word": "深圳14岁男孩用AI备考押中奥赛题",
+        "onboard_time": 1777564339,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 28981,
+        "num": 41071,
+        "word": "冰箱的寒气被生姜给逼出来了",
+        "onboard_time": 1777557081,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28846,
+        "num": 40983,
+        "word": "小猫不知道床被洗了",
+        "onboard_time": 1777568418,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27586,
+        "num": 40957,
+        "word": "奔跑吧",
+        "onboard_time": 1777551740,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25995,
+        "num": 40873,
+        "word": "李现又去看五月天演唱会了",
+        "onboard_time": 1777554081,
+        "rank": 29,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 25988,
+        "num": 40833,
+        "word": "每天准时来接孩子的狗叔",
+        "onboard_time": 1777568418,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25915,
+        "num": 40802,
+        "word": "韩国霸王茶姬爆单",
+        "onboard_time": 1777537519,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25261,
+        "num": 40726,
+        "word": "分手了你俩开始暧昧了",
+        "onboard_time": 1777564879,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23883,
+        "num": 40687,
+        "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+        "onboard_time": 1777541239,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22873,
+        "num": 40613,
+        "word": "蜜语纪大结局",
+        "onboard_time": 1777548080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22739,
+        "num": 40568,
+        "word": "寒武纪涨停",
+        "onboard_time": 1777558461,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22323,
+        "num": 40494,
+        "word": "纸嫁衣9首曝",
+        "onboard_time": 1777567279,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21724,
+        "num": 40456,
+        "word": "王俊凯浪姐送考自拍",
+        "onboard_time": 1777560021,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21158,
+        "num": 40404,
+        "word": "虞书欣造型",
+        "onboard_time": 1777533139,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 40350,
+        "word": "洪朝阳确定不会参与浪姐后续录制",
+        "onboard_time": 1777570276,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20609,
+        "num": 40284,
+        "word": "2859克黄金被扣30年迎转机",
+        "onboard_time": 1777558941,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21374,
+        "num": 40226,
+        "word": "孙怡参加浪姐原因",
+        "onboard_time": 1777568418,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18925,
+        "num": 40206,
+        "word": "台评论员谈美日菲军演解放军围观",
+        "onboard_time": 1777558642,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17764,
+        "num": 40152,
+        "word": "浪姐 背调",
+        "onboard_time": 1777545139,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17215,
+        "num": 40083,
+        "word": "天津发布房地产新政",
+        "onboard_time": 1777560921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16405,
+        "num": 40025,
+        "word": "DeepSeek思考过程好萌",
+        "onboard_time": 1777544840,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16325,
+        "num": 39959,
+        "word": "国防部回应辽宁舰四川舰过航台湾海峡",
+        "onboard_time": 1777560382,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15221,
+        "num": 39933,
+        "word": "章建平套现寒武纪超40亿元",
+        "onboard_time": 1777559061,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14215,
+        "num": 39882,
+        "word": "铁证",
+        "onboard_time": 1777554380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256180,
+        "num": 39805,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措加强基础研究#"
+    }
+  }
+}

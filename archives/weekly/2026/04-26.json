@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777578234973,
+  "endTime": 1777579102979,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -9603,6 +9603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67283,
+      "num": 226383,
+      "word": "试过一次空手出门就知道有多爽",
+      "onboard_time": 1777569496,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66897,
       "num": 437253,
       "word": "不和三种人出去吃饭",
@@ -9849,14 +9857,6 @@
       "onboard_time": 1777131981,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59707,
-      "num": 226383,
-      "word": "试过一次空手出门就知道有多爽",
-      "onboard_time": 1777569496,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 59321,
