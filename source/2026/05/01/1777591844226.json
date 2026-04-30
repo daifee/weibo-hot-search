@@ -1,0 +1,410 @@
+{
+  "runTime": 1777591844226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282124,
+        "num": 810764,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162995,
+        "num": 573655,
+        "word": "新能源车换个后视镜花了近6000元",
+        "onboard_time": 1777560140,
+        "rank": 1,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 23321,
+        "num": 450447,
+        "word": "1071项国标5月1日起实施",
+        "onboard_time": 1777556842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1533771,
+        "num": 402131,
+        "word": "孙杨玩游戏真打了范明一耳光",
+        "onboard_time": 1777591158,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266829,
+        "num": 266829,
+        "word": "辛辛苦苦种了三个多月的胡萝卜",
+        "onboard_time": 1777556721,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 760745,
+        "num": 265638,
+        "word": "李晨怀念跑男老成员",
+        "onboard_time": 1777560921,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261439,
+        "num": 261439,
+        "word": "命运托举你的方式很意外",
+        "onboard_time": 1777568418,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21802,
+        "num": 259872,
+        "word": "DeepSeek思考过程好萌",
+        "onboard_time": 1777544840,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12262,
+        "num": 250990,
+        "word": "幻月新游戏",
+        "onboard_time": 1777555041,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2645,
+        "num": 249052,
+        "word": "王者五五开黑节打卡清单",
+        "onboard_time": 1777591817,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 934613,
+        "num": 243766,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933896,
+        "num": 236746,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755993,
+        "num": 227658,
+        "word": "曝Angelababy爱发朋友圈",
+        "onboard_time": 1777553061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226782,
+        "num": 226782,
+        "word": "保洁误拿快递脑溢血身亡家属发声",
+        "onboard_time": 1777563081,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716749,
+        "num": 226408,
+        "word": "罗永浩采访颠覆了我对蔡康永的认知",
+        "onboard_time": 1777567938,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10135,
+        "num": 219307,
+        "word": "苏翊鸣开心游玩",
+        "onboard_time": 1777591336,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347670,
+        "num": 218978,
+        "word": "王俊凯工作室 他拍比自拍好看",
+        "onboard_time": 1777563320,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218506,
+        "num": 218506,
+        "word": "13点起床才是性价比最高的",
+        "onboard_time": 1777571417,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145116,
+        "num": 217810,
+        "word": "美对伊战5月1日面临红线",
+        "onboard_time": 1777565299,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217437,
+        "num": 217437,
+        "word": "五一",
+        "onboard_time": 1777591037,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346355,
+        "num": 211035,
+        "word": "孙杨点了八杯热茶",
+        "onboard_time": 1777591158,
+        "rank": 20,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 279610,
+        "num": 205915,
+        "word": "曝孟美岐主动放弃公司资源",
+        "onboard_time": 1777590016,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142594,
+        "num": 197657,
+        "word": "小狗体检肚子duang一下弹出来了",
+        "onboard_time": 1777591817,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191084,
+        "num": 191084,
+        "word": "女演员李心艾暴瘦80斤",
+        "onboard_time": 1777548561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83241,
+        "num": 160203,
+        "word": "宇树双臂人形机器人价格",
+        "onboard_time": 1777591098,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155510,
+        "num": 155510,
+        "word": "孙杨因为没给张豆豆办婚礼哭了",
+        "onboard_time": 1777568418,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233071,
+        "num": 152964,
+        "word": "曝孟美岐雪藏了两年才离开乐华",
+        "onboard_time": 1777541721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137616,
+        "num": 137616,
+        "word": "台男子车站性侵女游客被判5年",
+        "onboard_time": 1777557742,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "不要生吃或半生吃猪肉牛肉",
+        "onboard_time": 1777588395,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65403,
+        "num": 119172,
+        "word": "金价突涨",
+        "onboard_time": 1777563202,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118893,
+        "num": 118893,
+        "word": "为什么有的人从来不内耗",
+        "onboard_time": 1777550060,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117787,
+        "num": 117787,
+        "word": "宗师 AG",
+        "onboard_time": 1777564941,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "白鹿手写的行程图",
+        "onboard_time": 1777558520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99696,
+        "num": 99696,
+        "word": "女子辞职顾家分手遭男友追讨百万",
+        "onboard_time": 1777558702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86185,
+        "num": 86185,
+        "word": "深圳14岁男孩用AI备考押中奥赛题",
+        "onboard_time": 1777564339,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 81257,
+        "num": 81257,
+        "word": "试过一次空手出门就知道有多爽",
+        "onboard_time": 1777569496,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80169,
+        "num": 80169,
+        "word": "河北大姨赴意大利看孙子走红",
+        "onboard_time": 1777591577,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78484,
+        "num": 78484,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75221,
+        "num": 75221,
+        "word": "妈妈回应兄弟俩患自毁容貌综合征",
+        "onboard_time": 1777559421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74464,
+        "num": 74464,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73736,
+        "num": 73736,
+        "word": "苹果电脑废纸篓里的废纸谁扔的",
+        "onboard_time": 1777556242,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72798,
+        "num": 72798,
+        "word": "00后夫妻不收彩礼办农村火锅婚礼",
+        "onboard_time": 1777591817,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71532,
+        "num": 71532,
+        "word": "华为送时代少年团花篮",
+        "onboard_time": 1777590016,
+        "rank": 42,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 68270,
+        "num": 68270,
+        "word": "阿娇送阿sa的新婚礼物曝光",
+        "onboard_time": 1777549519,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61450,
+        "num": 66669,
+        "word": "湖北荆州市监利市3.7级地震",
+        "onboard_time": 1777591037,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65848,
+        "num": 65848,
+        "word": "孟子义给丁程鑫张真源送花篮",
+        "onboard_time": 1777562362,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64177,
+        "num": 64177,
+        "word": "王一博85号车手任意状态",
+        "onboard_time": 1777590016,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 57077,
+        "num": 62736,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47698,
+        "num": 62049,
+        "word": "洪朝阳确定不会参与浪姐后续录制",
+        "onboard_time": 1777570276,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61406,
+        "num": 61406,
+        "word": "权志龙给工作人员买房",
+        "onboard_time": 1777561641,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措加强基础研究#"
+    }
+  }
+}
