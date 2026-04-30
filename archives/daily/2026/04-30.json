@@ -1,9 +1,9 @@
 {
   "startTime": 1777482075741,
-  "endTime": 1777551634673,
+  "endTime": 1777559603453,
   "band_list": [
     {
-      "raw_hot": 3890213,
+      "raw_hot": 4484030,
       "num": 519345,
       "word": "金靖瘦到认不出来",
       "onboard_time": 1777546818,
@@ -17,6 +17,14 @@
       "onboard_time": 1777519520,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2301033,
+      "num": 2301033,
+      "word": "中国女孩拍摄靖国神社内部",
+      "onboard_time": 1777549161,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2143487,
@@ -57,14 +65,6 @@
       "onboard_time": 1777519999,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1453894,
-      "num": 516263,
-      "word": "中国女孩拍摄靖国神社内部",
-      "onboard_time": 1777549161,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1440262,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 733675,
+      "num": 337256,
+      "word": "曝Angelababy爱发朋友圈",
+      "onboard_time": 1777553061,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713545,
       "num": 338144,
       "word": "虞书欣造型",
@@ -257,6 +265,14 @@
       "onboard_time": 1777506799,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 710986,
+      "num": 336695,
+      "word": "台男子车站性侵女游客被判5年",
+      "onboard_time": 1777557742,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 707984,
@@ -323,12 +339,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 620390,
+      "num": 346959,
+      "word": "云南元阳车祸致7人死亡",
+      "onboard_time": 1777552101,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609443,
       "num": 778639,
       "word": "莫氏鸡煲老板还剩40万债务",
       "onboard_time": 1777505116,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608107,
+      "num": 608107,
+      "word": "辛辛苦苦种了三个多月的胡萝卜",
+      "onboard_time": 1777556721,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 604547,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532251,
+      "num": 308230,
+      "word": "李小冉全脂胳膊",
+      "onboard_time": 1777556901,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530623,
       "num": 530623,
       "word": "张豆豆一脸母亲看儿子的宠溺样",
@@ -409,6 +449,14 @@
       "onboard_time": 1777505959,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496432,
+      "num": 968466,
+      "word": "奔跑吧",
+      "onboard_time": 1777551740,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 490609,
@@ -539,11 +587,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 397292,
+      "num": 333152,
+      "word": "孔雪儿回应高颅顶妆造",
+      "onboard_time": 1777553780,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388745,
       "num": 388745,
       "word": "王力宏恭喜汤唯怀二胎",
       "onboard_time": 1777512378,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 378928,
+      "num": 330784,
+      "word": "阿娇送阿sa的新婚礼物曝光",
+      "onboard_time": 1777549519,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -556,7 +620,7 @@
     },
     {
       "raw_hot": 369542,
-      "num": 320907,
+      "num": 335721,
       "word": "28岁攒到10万元女生已申请辞职",
       "onboard_time": 1777544719,
       "rank": 25,
@@ -609,6 +673,14 @@
       "onboard_time": 1777452381,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338972,
+      "num": 338972,
+      "word": "为什么有的人从来不内耗",
+      "onboard_time": 1777550060,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 337939,
@@ -699,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304328,
+      "num": 304328,
+      "word": "白鹿手写的行程图",
+      "onboard_time": 1777558520,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301312,
       "num": 268931,
       "word": "孟子义李昀锐奔跑吧错开录制",
@@ -763,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264322,
-      "num": 264322,
-      "word": "阿娇送阿sa的新婚礼物曝光",
-      "onboard_time": 1777549519,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258238,
       "num": 258238,
       "word": "秦昊伊能静办了三次婚礼",
@@ -827,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239737,
+      "num": 239737,
+      "word": "迪丽热巴美美出片",
+      "onboard_time": 1777556120,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237339,
       "num": 237339,
       "word": "李小冉上五哈也难逃抽象",
@@ -864,6 +944,14 @@
       "word": "宝宝差点摔倒一车厢人都动了",
       "onboard_time": 1777504638,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233433,
+      "num": 298209,
+      "word": "男子584元买凉拌鸡老板狂加43勺糖",
+      "onboard_time": 1777554141,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -987,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200732,
+      "num": 338602,
+      "word": "DeepSeek思考过程好萌",
+      "onboard_time": 1777544840,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198889,
       "num": 187947,
       "word": "韩国演员朴东彬去世",
       "onboard_time": 1777528401,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198223,
+      "num": 310000,
+      "word": "苹果电脑废纸篓里的废纸谁扔的",
+      "onboard_time": 1777556242,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 197868,
@@ -1179,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172260,
+      "num": 172260,
+      "word": "穆祉丞直播",
+      "onboard_time": 1777551740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171997,
       "num": 241960,
       "word": "行程图",
       "onboard_time": 1777513519,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171809,
+      "num": 171809,
+      "word": "李现又去看五月天演唱会了",
+      "onboard_time": 1777554081,
+      "rank": 33,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 171017,
@@ -1259,6 +1379,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 161095,
+      "num": 161095,
+      "word": "陈冠希46岁状态",
+      "onboard_time": 1777555581,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159943,
       "num": 177220,
       "word": "世界泳联 当bro以为自己很有影响力",
@@ -1307,12 +1435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151662,
-      "num": 161838,
-      "word": "为什么有的人从来不内耗",
-      "onboard_time": 1777550060,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 151717,
+      "num": 151717,
+      "word": "王橹杰小学时期的简介",
+      "onboard_time": 1777556662,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 151097,
@@ -1364,7 +1492,7 @@
     },
     {
       "raw_hot": 147586,
-      "num": 118673,
+      "num": 118783,
       "word": "蜜语纪大结局",
       "onboard_time": 1777548080,
       "rank": 49,
@@ -1435,8 +1563,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137078,
+      "num": 171897,
+      "word": "女子辞职顾家分手遭男友追讨百万",
+      "onboard_time": 1777558702,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136581,
-      "num": 198137,
+      "num": 239760,
       "word": "孙颖莎笑得好开心",
       "onboard_time": 1777543999,
       "rank": 40,
@@ -1483,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123825,
+      "num": 123825,
+      "word": "刘浩存粉丝长文感谢惠英红",
+      "onboard_time": 1777555101,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121615,
       "num": 168995,
       "word": "白酒退市第一股",
@@ -1491,12 +1635,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118861,
-      "num": 118861,
-      "word": "DeepSeek思考过程好萌",
-      "onboard_time": 1777544840,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 118518,
+      "num": 118518,
+      "word": "徐若晗感谢网友关注她的牙",
+      "onboard_time": 1777559120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 116401,
@@ -1513,6 +1657,14 @@
       "onboard_time": 1777505239,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115280,
+      "num": 115280,
+      "word": "唐嫣台词",
+      "onboard_time": 1777555401,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113605,
@@ -1553,6 +1705,14 @@
       "onboard_time": 1777465581,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108841,
+      "num": 129557,
+      "word": "台评论员谈美日菲军演解放军围观",
+      "onboard_time": 1777558642,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108591,
@@ -1625,6 +1785,14 @@
       "onboard_time": 1777459400,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99851,
+      "num": 120040,
+      "word": "妈妈回应兄弟俩患自毁容貌综合征",
+      "onboard_time": 1777559421,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99084,
@@ -1875,6 +2043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56594,
+      "num": 115439,
+      "word": "寒武纪涨停",
+      "onboard_time": 1777558461,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55661,
       "num": 231358,
       "word": "特朗普当查尔斯面和妻子开夫妻玩笑",
@@ -1913,6 +2089,14 @@
       "onboard_time": 1777471881,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47558,
+      "num": 802338,
+      "word": "1071项国标5月1日起实施",
+      "onboard_time": 1777556842,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47362,
@@ -2003,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 35989,
+      "num": 105898,
+      "word": "幻月新游戏",
+      "onboard_time": 1777555041,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34565,
       "num": 252699,
       "word": "中外网友对账对到了安全感",
@@ -2027,12 +2219,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27666,
+      "num": 125292,
+      "word": "湖南仅剩4只导盲犬",
+      "onboard_time": 1777558702,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25914,
       "num": 307723,
       "word": "美媒称特朗普将听取打击伊朗新方案",
       "onboard_time": 1777522160,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24635,
+      "num": 318287,
+      "word": "2859克黄金被扣30年迎转机",
+      "onboard_time": 1777558941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23724,

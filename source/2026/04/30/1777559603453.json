@@ -1,0 +1,410 @@
+{
+  "runTime": 1777559603453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2301033,
+        "num": 2301033,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496432,
+        "num": 968466,
+        "word": "奔跑吧",
+        "onboard_time": 1777551740,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47558,
+        "num": 802338,
+        "word": "1071项国标5月1日起实施",
+        "onboard_time": 1777556842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 608107,
+        "num": 608107,
+        "word": "辛辛苦苦种了三个多月的胡萝卜",
+        "onboard_time": 1777556721,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349301,
+        "num": 349301,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620390,
+        "num": 346959,
+        "word": "云南元阳车祸致7人死亡",
+        "onboard_time": 1777552101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338972,
+        "num": 338972,
+        "word": "为什么有的人从来不内耗",
+        "onboard_time": 1777550060,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200732,
+        "num": 338602,
+        "word": "DeepSeek思考过程好萌",
+        "onboard_time": 1777544840,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182958,
+        "num": 338248,
+        "word": "浪姐 背调",
+        "onboard_time": 1777545139,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79159,
+        "num": 338107,
+        "word": "香奈儿回应无底绑带鞋",
+        "onboard_time": 1777530799,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 4484030,
+        "num": 337490,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733675,
+        "num": 337256,
+        "word": "曝Angelababy爱发朋友圈",
+        "onboard_time": 1777553061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710986,
+        "num": 336695,
+        "word": "台男子车站性侵女游客被判5年",
+        "onboard_time": 1777557742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626816,
+        "num": 336367,
+        "word": "女演员李心艾暴瘦80斤",
+        "onboard_time": 1777548561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537445,
+        "num": 335933,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335721,
+        "num": 335721,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397292,
+        "num": 333152,
+        "word": "孔雪儿回应高颅顶妆造",
+        "onboard_time": 1777553780,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378928,
+        "num": 330784,
+        "word": "阿娇送阿sa的新婚礼物曝光",
+        "onboard_time": 1777549519,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153808,
+        "num": 324451,
+        "word": "韩国霸王茶姬爆单",
+        "onboard_time": 1777537519,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24635,
+        "num": 318287,
+        "word": "2859克黄金被扣30年迎转机",
+        "onboard_time": 1777558941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788736,
+        "num": 315186,
+        "word": "曝孟美岐雪藏了两年才离开乐华",
+        "onboard_time": 1777541721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198223,
+        "num": 310000,
+        "word": "苹果电脑废纸篓里的废纸谁扔的",
+        "onboard_time": 1777556242,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532251,
+        "num": 308230,
+        "word": "李小冉全脂胳膊",
+        "onboard_time": 1777556901,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304328,
+        "num": 304328,
+        "word": "白鹿手写的行程图",
+        "onboard_time": 1777558520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233433,
+        "num": 298209,
+        "word": "男子584元买凉拌鸡老板狂加43勺糖",
+        "onboard_time": 1777554141,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297943,
+        "num": 297943,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250410,
+        "num": 250410,
+        "word": "伊能静回应恩利争议视频",
+        "onboard_time": 1777535060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 240203,
+        "word": "吵架的时候就回这一句太绝了",
+        "onboard_time": 1777534880,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86501,
+        "num": 239760,
+        "word": "孙颖莎笑得好开心",
+        "onboard_time": 1777543999,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59132,
+        "num": 239748,
+        "word": "多股20cm涨停",
+        "onboard_time": 1777540940,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239737,
+        "num": 239737,
+        "word": "迪丽热巴美美出片",
+        "onboard_time": 1777556120,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172260,
+        "num": 172260,
+        "word": "穆祉丞直播",
+        "onboard_time": 1777551740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137078,
+        "num": 171897,
+        "word": "女子辞职顾家分手遭男友追讨百万",
+        "onboard_time": 1777558702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171809,
+        "num": 171809,
+        "word": "李现又去看五月天演唱会了",
+        "onboard_time": 1777554081,
+        "rank": 33,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 161095,
+        "num": 161095,
+        "word": "陈冠希46岁状态",
+        "onboard_time": 1777555581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111399,
+        "num": 152450,
+        "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+        "onboard_time": 1777541239,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "虞书欣造型",
+        "onboard_time": 1777533139,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151717,
+        "num": 151717,
+        "word": "王橹杰小学时期的简介",
+        "onboard_time": 1777556662,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108841,
+        "num": 129557,
+        "word": "台评论员谈美日菲军演解放军围观",
+        "onboard_time": 1777558642,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27666,
+        "num": 125292,
+        "word": "湖南仅剩4只导盲犬",
+        "onboard_time": 1777558702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123825,
+        "num": 123825,
+        "word": "刘浩存粉丝长文感谢惠英红",
+        "onboard_time": 1777555101,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121358,
+        "num": 121358,
+        "word": "密逃8阵容",
+        "onboard_time": 1777534519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 120040,
+        "word": "妈妈回应兄弟俩患自毁容貌综合征",
+        "onboard_time": 1777559421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118783,
+        "num": 118783,
+        "word": "蜜语纪大结局",
+        "onboard_time": 1777548080,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118518,
+        "num": 118518,
+        "word": "徐若晗感谢网友关注她的牙",
+        "onboard_time": 1777559120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97194,
+        "num": 116036,
+        "word": "阿姨买肉误输79万多随即取消支付",
+        "onboard_time": 1777528640,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56594,
+        "num": 115439,
+        "word": "寒武纪涨停",
+        "onboard_time": 1777558461,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50575,
+        "num": 115317,
+        "word": "谷歌入驻广州珠江新城",
+        "onboard_time": 1777541121,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115280,
+        "num": 115280,
+        "word": "唐嫣台词",
+        "onboard_time": 1777555401,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35989,
+        "num": 105898,
+        "word": "幻月新游戏",
+        "onboard_time": 1777555041,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措加强基础研究#"
+    }
+  }
+}
