@@ -1,6 +1,6 @@
 {
   "startTime": 1777482075741,
-  "endTime": 1777522356492,
+  "endTime": 1777523866664,
   "band_list": [
     {
       "raw_hot": 3690823,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1007759,
+      "num": 805288,
+      "word": "年轻人出门越来越极简了",
+      "onboard_time": 1777518979,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 811378,
       "num": 531208,
       "word": "金价",
       "onboard_time": 1777474762,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 805288,
-      "num": 805288,
-      "word": "年轻人出门越来越极简了",
-      "onboard_time": 1777518979,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 754307,
@@ -91,12 +91,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 684241,
+      "num": 684241,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1777519580,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 673049,
+      "num": 419168,
+      "word": "韩汶栩删16级粉丝解散粉丝群",
+      "onboard_time": 1777520899,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660185,
       "num": 1105629,
       "word": "男子借宿同学家致一死一伤案取消开庭",
       "onboard_time": 1777478778,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 650954,
+      "num": 419211,
+      "word": "金银大跌",
+      "onboard_time": 1777519460,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 650218,
@@ -113,6 +137,14 @@
       "onboard_time": 1777505116,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594834,
+      "num": 809719,
+      "word": "火箭vs湖人",
+      "onboard_time": 1777515379,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 530623,
@@ -171,22 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465759,
-      "num": 465759,
-      "word": "火箭vs湖人",
-      "onboard_time": 1777515379,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 464913,
-      "num": 464913,
-      "word": "恋与深空 秦彻",
-      "onboard_time": 1777519580,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 447326,
       "num": 447326,
       "word": "多读书真的会影响你的三观",
@@ -243,12 +259,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 412439,
-      "num": 412439,
-      "word": "金银大跌",
-      "onboard_time": 1777519460,
+      "raw_hot": 415053,
+      "num": 415053,
+      "word": "孙杨 再见爱人",
+      "onboard_time": 1777522940,
       "rank": 21,
-      "category": "财经"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414149,
+      "num": 396933,
+      "word": "马頔发言争议后首发博",
+      "onboard_time": 1777522880,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 408861,
@@ -281,14 +305,6 @@
       "onboard_time": 1777469781,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 361229,
-      "num": 361229,
-      "word": "韩汶栩删16级粉丝解散粉丝群",
-      "onboard_time": 1777520899,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 356863,
@@ -371,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 287176,
+      "num": 287176,
+      "word": "小猫要一辈子崇拜你",
+      "onboard_time": 1777513759,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285327,
       "num": 284373,
       "word": "历届北京大学生电影节影帝影后",
@@ -411,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237055,
-      "num": 237055,
-      "word": "小猫要一辈子崇拜你",
-      "onboard_time": 1777513759,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235838,
       "num": 235838,
       "word": "雨霖铃",
@@ -433,6 +449,14 @@
       "onboard_time": 1777504638,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227578,
+      "num": 313831,
+      "word": "孙杨恋爱史",
+      "onboard_time": 1777521140,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 220890,
@@ -475,20 +499,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 197825,
+      "num": 470115,
+      "word": "苹果印度生产线陷入停摆",
+      "onboard_time": 1777512140,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 197715,
+      "num": 197715,
+      "word": "年轻人能玩在一起是情有可原的",
+      "onboard_time": 1777521980,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196183,
       "num": 196183,
       "word": "赵心童无缘打破克鲁斯堡魔咒",
       "onboard_time": 1777506561,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194023,
-      "num": 470115,
-      "word": "苹果印度生产线陷入停摆",
-      "onboard_time": 1777512140,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 190379,
@@ -499,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189823,
-      "num": 189823,
-      "word": "年轻人能玩在一起是情有可原的",
-      "onboard_time": 1777521980,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184102,
       "num": 184102,
       "word": "肖战得闲谨制",
       "onboard_time": 1777506259,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183032,
+      "num": 197521,
+      "word": "黄一鸣放弃起诉女儿父亲",
+      "onboard_time": 1777522520,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 179954,
@@ -545,14 +577,6 @@
       "onboard_time": 1777505178,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175650,
-      "num": 313831,
-      "word": "孙杨恋爱史",
-      "onboard_time": 1777521140,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 172803,
@@ -635,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 141824,
+      "num": 195983,
+      "word": "少年气盛陈情令成熟稳重得闲谨制",
+      "onboard_time": 1777520300,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138725,
       "num": 138725,
       "word": "凯凯拍的颜颜发",
@@ -656,6 +688,14 @@
       "word": "23岁中国女孩在澳被两女子打成重伤",
       "onboard_time": 1777472722,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137246,
+      "num": 221938,
+      "word": "P人和J人中了免单的区别",
+      "onboard_time": 1777523422,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -681,6 +721,14 @@
       "onboard_time": 1777476381,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116401,
+      "num": 233167,
+      "word": "医院院长儿子吃空饷初步调查结果",
+      "onboard_time": 1777516759,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115818,
@@ -819,6 +867,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85493,
+      "num": 294552,
+      "word": "官方介入调查院长儿子涉嫌吃空饷",
+      "onboard_time": 1777516999,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 84855,
+      "num": 227098,
+      "word": "里夫斯G5复出",
+      "onboard_time": 1777522761,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84203,
       "num": 131209,
       "word": "保姆将幼童关狗笼自己只顾玩手机",
@@ -841,6 +905,14 @@
       "onboard_time": 1777479080,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69385,
+      "num": 253528,
+      "word": "印1岁半女童被母亲丢入排水沟溺亡",
+      "onboard_time": 1777523120,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68789,
@@ -881,6 +953,38 @@
       "onboard_time": 1777504997,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60442,
+      "num": 230320,
+      "word": "特朗普称乌克兰在军事上已败",
+      "onboard_time": 1777523120,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 58914,
+      "num": 420189,
+      "word": "骑士3比2猛龙",
+      "onboard_time": 1777522761,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55661,
+      "num": 231358,
+      "word": "特朗普当查尔斯面和妻子开夫妻玩笑",
+      "onboard_time": 1777522761,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52347,
+      "num": 808389,
+      "word": "义乌不断有新纪录",
+      "onboard_time": 1777521441,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49447,
@@ -931,20 +1035,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 39612,
+      "num": 192510,
+      "word": "申敏儿婚后首个活动",
+      "onboard_time": 1777523600,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39239,
+      "num": 416781,
+      "word": "飞猪免单五一前最后冲刺",
+      "onboard_time": 1777522700,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39016,
       "num": 81498,
       "word": "宇宙或已过青年期",
       "onboard_time": 1777487114,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 38664,
-      "num": 808389,
-      "word": "义乌不断有新纪录",
-      "onboard_time": 1777521441,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36946,
