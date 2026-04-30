@@ -1,0 +1,410 @@
+{
+  "runTime": 1777508197363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660185,
+        "num": 1105629,
+        "word": "男子借宿同学家致一死一伤案取消开庭",
+        "onboard_time": 1777478778,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 609443,
+        "num": 778639,
+        "word": "莫氏鸡煲老板还剩40万债务",
+        "onboard_time": 1777505116,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23724,
+        "num": 635835,
+        "word": "2026世界市长对话西安",
+        "onboard_time": 1777469001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634834,
+        "num": 634834,
+        "word": "孙杨向张豆豆挥拳的表情",
+        "onboard_time": 1777474104,
+        "rank": 3,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 534222,
+        "num": 534222,
+        "word": "宇宙或仅剩约333亿年的寿命",
+        "onboard_time": 1777472001,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 606296,
+        "num": 534205,
+        "word": "肖战大影节影帝",
+        "onboard_time": 1777471281,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170569,
+        "num": 533374,
+        "word": "赵心童vs墨菲",
+        "onboard_time": 1777475421,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161653,
+        "num": 533194,
+        "word": "马竞1比1阿森纳",
+        "onboard_time": 1777505178,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113111,
+        "num": 532724,
+        "word": "电脑涨价20%市场人流空荡荡",
+        "onboard_time": 1777478420,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29189,
+        "num": 531982,
+        "word": "这对儿带货CP要火",
+        "onboard_time": 1777465761,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1213039,
+        "num": 531647,
+        "word": "女子生姜当水果1天1斤坚持10年",
+        "onboard_time": 1777504638,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811378,
+        "num": 531208,
+        "word": "金价",
+        "onboard_time": 1777474762,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 651548,
+        "num": 530981,
+        "word": "老式水果为何消失了",
+        "onboard_time": 1777475361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530623,
+        "num": 530623,
+        "word": "张豆豆一脸母亲看儿子的宠溺样",
+        "onboard_time": 1777505239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502656,
+        "num": 502656,
+        "word": "专家谈47岁汤唯怀二胎",
+        "onboard_time": 1777505959,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481632,
+        "num": 481632,
+        "word": "霸王茶姬奶茶中喝出水银调查结果",
+        "onboard_time": 1777504638,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443193,
+        "num": 443193,
+        "word": "多读书真的会影响你的三观",
+        "onboard_time": 1777466061,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431095,
+        "num": 431095,
+        "word": "谭松韵任嘉伦 二搭",
+        "onboard_time": 1777469722,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358571,
+        "num": 358571,
+        "word": "油价又大涨了",
+        "onboard_time": 1777478540,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101492,
+        "num": 357295,
+        "word": "赵心童不敌墨菲",
+        "onboard_time": 1777504457,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356863,
+        "num": 356863,
+        "word": "五一假期10大城市上榜了",
+        "onboard_time": 1777505959,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 336003,
+        "num": 336003,
+        "word": "林子烨 下巴后缩",
+        "onboard_time": 1777452381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326440,
+        "num": 326440,
+        "word": "霍尔木兹海峡上演奇葩大戏",
+        "onboard_time": 1777469781,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321030,
+        "num": 321030,
+        "word": "女子身份证不离身1000万存款被转走",
+        "onboard_time": 1777472902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318831,
+        "num": 318831,
+        "word": "霍尔木兹海峡部分被困船员已遇难",
+        "onboard_time": 1777506799,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307826,
+        "num": 307826,
+        "word": "高铁上C座D座齐刷刷伸手",
+        "onboard_time": 1777478600,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305728,
+        "num": 305728,
+        "word": "特朗普再次无视英王室规矩拍国王肩膀",
+        "onboard_time": 1777472182,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288890,
+        "num": 288890,
+        "word": "陈律求痞幼复合",
+        "onboard_time": 1777461019,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283491,
+        "num": 283491,
+        "word": "历届北京大学生电影节影帝影后",
+        "onboard_time": 1777475361,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257655,
+        "num": 257655,
+        "word": "婆婆一次性给足三年20万保姆费",
+        "onboard_time": 1777463481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283207,
+        "num": 257600,
+        "word": "汤唯确认怀二胎",
+        "onboard_time": 1777456580,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257394,
+        "num": 257394,
+        "word": "面试时就这样解释空窗期",
+        "onboard_time": 1777483576,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244913,
+        "num": 244913,
+        "word": "中国空间站快要住不下了",
+        "onboard_time": 1777505116,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224024,
+        "num": 224024,
+        "word": "女子洁癖严重结婚19年无法同房",
+        "onboard_time": 1777458380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222573,
+        "num": 222573,
+        "word": "宝宝差点摔倒一车厢人都动了",
+        "onboard_time": 1777504638,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217408,
+        "num": 217408,
+        "word": "伊能静回应与秦昊婚姻状态",
+        "onboard_time": 1777507340,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202391,
+        "num": 202391,
+        "word": "女生攒到10万怕被嘲笑网友全是鼓励",
+        "onboard_time": 1777507220,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199201,
+        "num": 199201,
+        "word": "李兰迪喀什恋歌",
+        "onboard_time": 1777505660,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196183,
+        "num": 196183,
+        "word": "赵心童无缘打破克鲁斯堡魔咒",
+        "onboard_time": 1777506561,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179111,
+        "num": 179111,
+        "word": "王俊凯演出前48h舞台全被推翻",
+        "onboard_time": 1777506740,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175863,
+        "num": 175863,
+        "word": "吴宜泽冲击世锦赛决赛",
+        "onboard_time": 1777505959,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137531,
+        "num": 137531,
+        "word": "千万存款被转走银行称你赶上了",
+        "onboard_time": 1777465701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137409,
+        "num": 137409,
+        "word": "23岁中国女孩在澳被两女子打成重伤",
+        "onboard_time": 1777472722,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136939,
+        "num": 136939,
+        "word": "唐嫣新剧 假发",
+        "onboard_time": 1777466781,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127146,
+        "num": 127146,
+        "word": "肖战得闲谨制",
+        "onboard_time": 1777506259,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123451,
+        "num": 123451,
+        "word": "日本民众为南京大屠杀流泪致歉",
+        "onboard_time": 1777476381,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113605,
+        "num": 113605,
+        "word": "美联储宣布维持利率不变",
+        "onboard_time": 1777507939,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111645,
+        "num": 111645,
+        "word": "张真源要唱在加纳共和国离婚",
+        "onboard_time": 1777505239,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 104505,
+        "word": "曝一加和realme合并",
+        "onboard_time": 1777507220,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101199,
+        "num": 101199,
+        "word": "拍照显瘦20斤姿势",
+        "onboard_time": 1777461800,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#降低灾害风险重在事前预防#"
+    }
+  }
+}

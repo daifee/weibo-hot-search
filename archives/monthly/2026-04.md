@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 08:07:34
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 08:16:37
 </p>
 </blockquote>
 <p>
@@ -2115,6 +2115,12 @@ KSG冠军（热度：1256749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%A7%9C%E5%BD%93%E6%B0%B4%E6%9E%9C1%E5%A4%A91%E6%96%A4%E5%9D%9A%E6%8C%8110%E5%B9%B4%23" target="weibo">
+女子生姜当水果1天1斤坚持10年（热度：1213039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E5%A4%96%E8%B5%84%E6%94%B6%E8%B4%ADManus%E9%A1%B9%E7%9B%AE%23" target="weibo">
 禁止外资收购Manus项目（热度：1211240）
 </a>
@@ -2711,12 +2717,6 @@ AI艺人库 自掘坟墓（热度：1054358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BB%E7%8E%89%20%E8%BE%9E%E6%BC%94%23" target="weibo">
 攻玉 辞演（热度：1036983）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E5%A7%9C%E5%BD%93%E6%B0%B4%E6%9E%9C1%E5%A4%A91%E6%96%A4%E5%9D%9A%E6%8C%8110%E5%B9%B4%23" target="weibo">
-女子生姜当水果1天1斤坚持10年（热度：1035932）
 </a>
 </li>
 
@@ -4095,6 +4095,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：811378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E7%BA%A6%E5%A5%87%E5%85%8B%23" target="weibo">
 王楚钦vs约奇克（热度：811246）
 </a>
@@ -4667,12 +4673,6 @@ Rookie疑似遭小钰自杀威胁（热度：767681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E4%B8%89%E8%83%8E%E7%94%9F%E5%AD%90%23" target="weibo">
 福原爱三胎生子（热度：750079）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：748219）
 </a>
 </li>
 
@@ -5685,6 +5685,12 @@ KTV服务员被指强奸14岁女生（热度：668220）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%9F%E5%AE%BF%E5%90%8C%E5%AD%A6%E5%AE%B6%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%E6%A1%88%E5%8F%96%E6%B6%88%E5%BC%80%E5%BA%AD%23" target="weibo">
+男子借宿同学家致一死一伤案取消开庭（热度：660185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%20%E6%B2%A1%E6%9C%89%E7%BB%99%E4%BB%A3%E6%8B%8D%E5%A5%BD%E8%84%B8%E8%89%B2%E7%9A%84%E4%B9%89%E5%8A%A1%23" target="weibo">
 刘浩存 没有给代拍好脸色的义务（热度：659827）
 </a>
@@ -6005,12 +6011,6 @@ DeepSeekV4发布（热度：644854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E8%BD%AC%E5%9C%88%E7%BB%99%E5%88%98%E4%BB%81%E5%A8%9C%E5%B1%95%E7%A4%BA%E5%B0%8F%E8%A3%99%E5%AD%90%23" target="weibo">
 IU转圈给刘仁娜展示小裙子（热度：637543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%83%A0%20%E5%AE%9E%E5%8A%9B%E6%B4%BE%23" target="weibo">
-万千惠 实力派（热度：637483）
 </a>
 </li>
 
