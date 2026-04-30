@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777583365635,
+  "endTime": 1777584842012,
   "band_list": [
     {
       "raw_hot": 3255384,
@@ -443,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53147,
+      "num": 224957,
+      "word": "小猫不知道床被洗了",
+      "onboard_time": 1777568418,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53080,
       "num": 228524,
       "word": "虞书欣造型",
       "onboard_time": 1777533139,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51434,
-      "num": 224957,
-      "word": "小猫不知道床被洗了",
-      "onboard_time": 1777568418,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 50887,
@@ -571,8 +571,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28139,
+      "num": 52924,
+      "word": "这年头连广告牌都炒CP",
+      "onboard_time": 1777548260,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21306,
-      "num": 44416,
+      "num": 52370,
       "word": "铁证",
       "onboard_time": 1777554380,
       "rank": 43,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 11088,
-      "num": 50737,
+      "num": 61128,
       "word": "幻月新游戏",
       "onboard_time": 1777555041,
       "rank": 9,
