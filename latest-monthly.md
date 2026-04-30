@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 22:33:23
+本榜单时间：2026/04/01 01:07:56 ~ 2026/04/30 23:17:12
 </p>
 </blockquote>
 <p>
@@ -1259,6 +1259,12 @@ AI 香港身份证（热度：1646940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%A7%E5%8C%96%E8%8F%8A%20%E6%B3%BC%E6%B0%B4%E8%8A%82%23" target="weibo">
 氧化菊 泼水节（热度：1564978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E6%80%80%E5%BF%B5%E8%B7%91%E7%94%B7%E8%80%81%E6%88%90%E5%91%98%23" target="weibo">
+李晨怀念跑男老成员（热度：1562378）
 </a>
 </li>
 
@@ -3213,6 +3219,12 @@ AG春季赛总冠军（热度：955209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E7%A7%8D%E4%BA%86%E4%B8%89%E4%B8%AA%E5%A4%9A%E6%9C%88%E7%9A%84%E8%83%A1%E8%90%9D%E5%8D%9C%23" target="weibo">
+辛辛苦苦种了三个多月的胡萝卜（热度：950041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%E6%8A%A5%E5%A4%87%23" target="weibo">
 陈泽报备（热度：949641）
 </a>
@@ -4275,6 +4287,12 @@ B太可撤销对大山女孩的18万捐赠（热度：816585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DAngelababy%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+曝Angelababy爱发朋友圈（热度：809839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%97%A8%E5%92%8C%E4%B8%8D%E5%87%BA%E9%97%A8%E8%BF%87%E7%9A%84%E6%98%AF%E4%B8%A4%E7%A7%8D%E4%BA%BA%E7%94%9F%23" target="weibo">
 出门和不出门过的是两种人生（热度：809709）
 </a>
@@ -5009,12 +5027,6 @@ GPT Image2 恐怖谷（热度：739378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%A3%E7%B2%89%E9%AB%98%E5%8F%8D%23" target="weibo">
 散粉高反（热度：733936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DAngelababy%E7%88%B1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-曝Angelababy爱发朋友圈（热度：733675）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone18ProMax金属机模（热度：656409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%B0%83%E4%BB%B7%23" target="weibo">
 小米调价（热度：651875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E5%A4%A7%E8%B7%8C%23" target="weibo">
-金银大跌（热度：650954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%20%E5%BC%A0%E7%A2%A7%E6%99%A8%23" target="weibo">
-歌手2026 张碧晨（热度：650422）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777562232076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2190474,
+        "num": 2190474,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359410,
+        "num": 1009542,
+        "word": "奔跑吧",
+        "onboard_time": 1777551740,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46910,
+        "num": 955896,
+        "word": "1071项国标5月1日起实施",
+        "onboard_time": 1777556842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1562378,
+        "num": 953131,
+        "word": "李晨怀念跑男老成员",
+        "onboard_time": 1777560921,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950041,
+        "num": 950041,
+        "word": "辛辛苦苦种了三个多月的胡萝卜",
+        "onboard_time": 1777556721,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549672,
+        "num": 549672,
+        "word": "云南元阳车祸致7人死亡",
+        "onboard_time": 1777552101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441354,
+        "num": 441354,
+        "word": "导游称大熊猫花花是残疾游客秒报警",
+        "onboard_time": 1777561040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369524,
+        "num": 369524,
+        "word": "为什么有的人从来不内耗",
+        "onboard_time": 1777550060,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329380,
+        "num": 329380,
+        "word": "寒武纪涨停",
+        "onboard_time": 1777558461,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245431,
+        "num": 327358,
+        "word": "新能源车换个后视镜花了近6000元",
+        "onboard_time": 1777560140,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3665238,
+        "num": 326460,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809839,
+        "num": 324772,
+        "word": "曝Angelababy爱发朋友圈",
+        "onboard_time": 1777553061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604561,
+        "num": 322870,
+        "word": "台男子车站性侵女游客被判5年",
+        "onboard_time": 1777557742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514644,
+        "num": 319337,
+        "word": "女演员李心艾暴瘦80斤",
+        "onboard_time": 1777548561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409066,
+        "num": 318548,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356075,
+        "num": 316246,
+        "word": "苹果电脑废纸篓里的废纸谁扔的",
+        "onboard_time": 1777556242,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334170,
+        "num": 314661,
+        "word": "白鹿手写的行程图",
+        "onboard_time": 1777558520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312945,
+        "num": 312945,
+        "word": "陈冠希46岁状态",
+        "onboard_time": 1777555581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266811,
+        "num": 266811,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31284,
+        "num": 265192,
+        "word": "广州楼市新政公积金最高可贷360万",
+        "onboard_time": 1777561341,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839228,
+        "num": 265183,
+        "word": "曝孟美岐雪藏了两年才离开乐华",
+        "onboard_time": 1777541721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328342,
+        "num": 265175,
+        "word": "李小冉全脂胳膊",
+        "onboard_time": 1777556901,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265165,
+        "num": 265165,
+        "word": "男子584元买凉拌鸡老板狂加43勺糖",
+        "onboard_time": 1777554141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273156,
+        "num": 263349,
+        "word": "孔雪儿回应高颅顶妆造",
+        "onboard_time": 1777553780,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242431,
+        "num": 242431,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217834,
+        "num": 217834,
+        "word": "阿娇送阿sa的新婚礼物曝光",
+        "onboard_time": 1777549519,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203294,
+        "num": 203294,
+        "word": "迪丽热巴美美出片",
+        "onboard_time": 1777556120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185564,
+        "num": 185564,
+        "word": "女子辞职顾家分手遭男友追讨百万",
+        "onboard_time": 1777558702,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157317,
+        "num": 157317,
+        "word": "DeepSeek思考过程好萌",
+        "onboard_time": 1777544840,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128745,
+        "num": 152816,
+        "word": "韩国霸王茶姬爆单",
+        "onboard_time": 1777537519,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188535,
+        "num": 151986,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174107,
+        "num": 151928,
+        "word": "王一博 小马尾绑的高",
+        "onboard_time": 1777560201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149666,
+        "num": 149666,
+        "word": "天津发布房地产新政",
+        "onboard_time": 1777560921,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172370,
+        "num": 149174,
+        "word": "伊能静回应恩利争议视频",
+        "onboard_time": 1777535060,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 147994,
+        "word": "王俊凯浪姐送考自拍",
+        "onboard_time": 1777560021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101912,
+        "num": 146655,
+        "word": "2859克黄金被扣30年迎转机",
+        "onboard_time": 1777558941,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149667,
+        "num": 144268,
+        "word": "李现又去看五月天演唱会了",
+        "onboard_time": 1777554081,
+        "rank": 36,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 143861,
+        "num": 143861,
+        "word": "王橹杰小学时期的简介",
+        "onboard_time": 1777556662,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96697,
+        "num": 140293,
+        "word": "妈妈回应兄弟俩患自毁容貌综合征",
+        "onboard_time": 1777559421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137997,
+        "num": 137997,
+        "word": "徐若晗感谢网友关注她的牙",
+        "onboard_time": 1777559120,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124667,
+        "num": 124667,
+        "word": "蜜语纪大结局",
+        "onboard_time": 1777548080,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81595,
+        "num": 124144,
+        "word": "台评论员谈美日菲军演解放军围观",
+        "onboard_time": 1777558642,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123989,
+        "num": 123989,
+        "word": "浪姐 背调",
+        "onboard_time": 1777545139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "虞书欣造型",
+        "onboard_time": 1777533139,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73016,
+        "num": 110551,
+        "word": "章建平套现寒武纪超40亿元",
+        "onboard_time": 1777559061,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108370,
+        "num": 108370,
+        "word": "刘浩存粉丝长文感谢惠英红",
+        "onboard_time": 1777555101,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97790,
+        "num": 97790,
+        "word": "权志龙给工作人员买房",
+        "onboard_time": 1777561641,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72367,
+        "num": 97408,
+        "word": "孙颖莎笑得好开心",
+        "onboard_time": 1777543999,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70196,
+        "num": 95782,
+        "word": "国防部回应辽宁舰四川舰过航台湾海峡",
+        "onboard_time": 1777560382,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54212,
+        "num": 95276,
+        "word": "被豆包忽悠去发论文",
+        "onboard_time": 1777556842,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措加强基础研究#"
+    }
+  }
+}
