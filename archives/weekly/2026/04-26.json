@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777550375595,
+  "endTime": 1777551634673,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1770371,
-      "num": 547196,
+      "num": 702597,
       "word": "浪姐请了李小冉告过的博主",
       "onboard_time": 1777539140,
       "rank": 5,
@@ -464,6 +464,14 @@
       "word": "云南14岁男孩杀害女同学被判无期",
       "onboard_time": 1777358539,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1453894,
+      "num": 516263,
+      "word": "中国女孩拍摄靖国神社内部",
+      "onboard_time": 1777549161,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -963,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 944413,
+      "num": 485314,
+      "word": "女演员李心艾暴瘦80斤",
+      "onboard_time": 1777548561,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942589,
       "num": 499323,
       "word": "孙杨方否认私生子传闻",
@@ -1099,6 +1115,14 @@
       "category": "舆论监督,体育"
     },
     {
+      "raw_hot": 879808,
+      "num": 1140769,
+      "word": "多部电影撤档五一",
+      "onboard_time": 1777549640,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 879596,
       "num": 660120,
       "word": "奶龙高考落榜",
@@ -1159,14 +1183,6 @@
       "num": 524339,
       "word": "请假10天5天连做5台手术男子发声",
       "onboard_time": 1777427720,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 854964,
-      "num": 516263,
-      "word": "中国女孩拍摄靖国神社内部",
-      "onboard_time": 1777549161,
       "rank": 11,
       "category": "民生新闻"
     },
@@ -1281,6 +1297,14 @@
       "onboard_time": 1777261820,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 820447,
+      "num": 727180,
+      "word": "跑男老来得子",
+      "onboard_time": 1777548800,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 819139,
@@ -1609,14 +1633,6 @@
       "onboard_time": 1777441581,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 697609,
-      "num": 485314,
-      "word": "女演员李心艾暴瘦80斤",
-      "onboard_time": 1777548561,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 696403,
@@ -2017,14 +2033,6 @@
       "onboard_time": 1777421360,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 596791,
-      "num": 596791,
-      "word": "跑男老来得子",
-      "onboard_time": 1777548800,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 596194,
@@ -2635,14 +2643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 489354,
-      "num": 484584,
-      "word": "多部电影撤档五一",
-      "onboard_time": 1777549640,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 488268,
       "num": 488268,
       "word": "订婚强奸案男子将出狱",
@@ -2907,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448078,
+      "num": 448078,
+      "word": "女子徒手给月子里宝宝打耳洞",
+      "onboard_time": 1777543039,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446778,
       "num": 446778,
       "word": "肖战胸肌偷偷藏不住",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1777347141,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 436310,
-      "num": 436310,
-      "word": "女子徒手给月子里宝宝打耳洞",
-      "onboard_time": 1777543039,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434618,
@@ -3523,6 +3523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369542,
+      "num": 320907,
+      "word": "28岁攒到10万元女生已申请辞职",
+      "onboard_time": 1777544719,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369488,
       "num": 517024,
       "word": "杀害女同学14岁男生听到判决面无表情",
@@ -3987,14 +3995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320907,
-      "num": 320907,
-      "word": "28岁攒到10万元女生已申请辞职",
-      "onboard_time": 1777544719,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320794,
       "num": 320794,
       "word": "银行转走1800万存款储户兑现遭拖延",
@@ -4017,6 +4017,14 @@
       "onboard_time": 1777298722,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320041,
+      "num": 320041,
+      "word": "十二星座5月月运",
+      "onboard_time": 1777547479,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 319723,
@@ -4443,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276083,
+      "num": 276083,
+      "word": "CORTIS一位",
+      "onboard_time": 1777549161,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274422,
       "num": 209743,
       "word": "时代峰峻全世界最小方的公司",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1777289481,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264322,
+      "num": 264322,
+      "word": "阿娇送阿sa的新婚礼物曝光",
+      "onboard_time": 1777549519,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 263038,
@@ -4683,20 +4707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256234,
-      "num": 256234,
-      "word": "CORTIS一位",
-      "onboard_time": 1777549161,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 256160,
       "num": 256160,
       "word": "云合",
       "onboard_time": 1777452741,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256051,
+      "num": 270270,
+      "word": "兄弟俩基因突变总不受控制乱咬",
+      "onboard_time": 1777550241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255755,
@@ -5129,22 +5153,6 @@
       "onboard_time": 1777381582,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228786,
-      "num": 228786,
-      "word": "十二星座5月月运",
-      "onboard_time": 1777547479,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 228647,
-      "num": 228647,
-      "word": "阿娇送阿sa的新婚礼物曝光",
-      "onboard_time": 1777549519,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 228085,
@@ -6707,6 +6715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169633,
+      "num": 169633,
+      "word": "时代少年团晴天娃娃发力中",
+      "onboard_time": 1777548140,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169513,
       "num": 234211,
       "word": "Diable加入NS",
@@ -6923,14 +6939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162283,
-      "num": 162283,
-      "word": "时代少年团晴天娃娃发力中",
-      "onboard_time": 1777548140,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 162183,
       "num": 153886,
       "word": "发现同事在派发小零食的我",
@@ -7073,6 +7081,14 @@
       "onboard_time": 1777454421,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 157066,
+      "num": 157066,
+      "word": "陶昕然硬刚营销号",
+      "onboard_time": 1777551261,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 156054,
@@ -7899,6 +7915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124234,
+      "num": 281388,
+      "word": "校方回应孙杨博士入学近8年",
+      "onboard_time": 1777549700,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123970,
       "num": 131628,
       "word": "日本民众为南京大屠杀流泪致歉",
@@ -8331,6 +8355,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 108591,
+      "num": 171258,
+      "word": "女子人流手术后腹痛25天排出棉球",
+      "onboard_time": 1777550480,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108100,
       "num": 97921,
       "word": "易烊千玺终于放假了",
@@ -8420,7 +8452,7 @@
     },
     {
       "raw_hot": 104409,
-      "num": 118739,
+      "num": 157174,
       "word": "五粮液2025年净利润89.54亿",
       "onboard_time": 1777547660,
       "rank": 48,
@@ -8737,6 +8769,14 @@
       "onboard_time": 1777192041,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86909,
+      "num": 280470,
+      "word": "当美国失去游客中国接住了世界",
+      "onboard_time": 1777550480,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86783,
@@ -9331,14 +9371,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 62838,
-      "num": 257179,
-      "word": "兄弟俩基因突变总不受控制乱咬",
-      "onboard_time": 1777550241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62697,
       "num": 193153,
       "word": "伊朗武装部队强硬回应美军",
@@ -9377,6 +9409,14 @@
       "onboard_time": 1777539981,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61738,
+      "num": 167881,
+      "word": "撒贝宁每次被偶遇都在带娃",
+      "onboard_time": 1777548499,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 61235,
@@ -9569,6 +9609,14 @@
       "onboard_time": 1777213102,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54236,
+      "num": 309741,
+      "word": "第一批聪明人已经堵在路上了",
+      "onboard_time": 1777550901,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54210,
@@ -10355,6 +10403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22481,
+      "num": 280133,
+      "word": "副所长诱未成年人吸毒被判5年",
+      "onboard_time": 1777550480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22082,
       "num": 1010650,
       "word": "守护创新的力量",
@@ -10385,6 +10441,14 @@
       "onboard_time": 1777378881,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 20052,
+      "num": 733953,
+      "word": "国泰民安在舰艇开放日具象化了",
+      "onboard_time": 1777535719,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19133,

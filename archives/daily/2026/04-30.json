@@ -1,6 +1,6 @@
 {
   "startTime": 1777482075741,
-  "endTime": 1777550375595,
+  "endTime": 1777551634673,
   "band_list": [
     {
       "raw_hot": 3890213,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1770371,
-      "num": 547196,
+      "num": 702597,
       "word": "浪姐请了李小冉告过的博主",
       "onboard_time": 1777539140,
       "rank": 5,
@@ -57,6 +57,14 @@
       "onboard_time": 1777519999,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1453894,
+      "num": 516263,
+      "word": "中国女孩拍摄靖国神社内部",
+      "onboard_time": 1777549161,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1440262,
@@ -131,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 944413,
+      "num": 485314,
+      "word": "女演员李心艾暴瘦80斤",
+      "onboard_time": 1777548561,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 941285,
       "num": 408182,
       "word": "李小冉 毫无运动痕迹",
@@ -171,6 +187,14 @@
       "category": "舆论监督,体育"
     },
     {
+      "raw_hot": 879808,
+      "num": 1140769,
+      "word": "多部电影撤档五一",
+      "onboard_time": 1777549640,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 876197,
       "num": 857129,
       "word": "微信从聊天工具变成了工作软件",
@@ -187,12 +211,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 854964,
-      "num": 516263,
-      "word": "中国女孩拍摄靖国神社内部",
-      "onboard_time": 1777549161,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 820447,
+      "num": 727180,
+      "word": "跑男老来得子",
+      "onboard_time": 1777548800,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 811378,
@@ -241,14 +265,6 @@
       "onboard_time": 1777537519,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 697609,
-      "num": 485314,
-      "word": "女演员李心艾暴瘦80斤",
-      "onboard_time": 1777548561,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 694759,
@@ -321,14 +337,6 @@
       "onboard_time": 1777543280,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 596791,
-      "num": 596791,
-      "word": "跑男老来得子",
-      "onboard_time": 1777548800,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 594834,
@@ -411,14 +419,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 489354,
-      "num": 484584,
-      "word": "多部电影撤档五一",
-      "onboard_time": 1777549640,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 481632,
       "num": 481632,
       "word": "霸王茶姬奶茶中喝出水银调查结果",
@@ -441,6 +441,14 @@
       "onboard_time": 1777525161,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448078,
+      "num": 448078,
+      "word": "女子徒手给月子里宝宝打耳洞",
+      "onboard_time": 1777543039,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447326,
@@ -481,14 +489,6 @@
       "onboard_time": 1777478540,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 436310,
-      "num": 436310,
-      "word": "女子徒手给月子里宝宝打耳洞",
-      "onboard_time": 1777543039,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431095,
@@ -553,6 +553,14 @@
       "onboard_time": 1777538301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369542,
+      "num": 320907,
+      "word": "28岁攒到10万元女生已申请辞职",
+      "onboard_time": 1777544719,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363874,
@@ -627,19 +635,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320907,
-      "num": 320907,
-      "word": "28岁攒到10万元女生已申请辞职",
-      "onboard_time": 1777544719,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320296,
       "num": 320296,
       "word": "突然发现开车通勤意味着自由",
       "onboard_time": 1777536561,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320041,
+      "num": 320041,
+      "word": "十二星座5月月运",
+      "onboard_time": 1777547479,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -747,6 +755,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276083,
+      "num": 276083,
+      "word": "CORTIS一位",
+      "onboard_time": 1777549161,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 264322,
+      "num": 264322,
+      "word": "阿娇送阿sa的新婚礼物曝光",
+      "onboard_time": 1777549519,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258238,
       "num": 258238,
       "word": "秦昊伊能静办了三次婚礼",
@@ -763,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256234,
-      "num": 256234,
-      "word": "CORTIS一位",
-      "onboard_time": 1777549161,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 256051,
+      "num": 270270,
+      "word": "兄弟俩基因突变总不受控制乱咬",
+      "onboard_time": 1777550241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255107,
@@ -841,22 +865,6 @@
       "onboard_time": 1777504638,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228786,
-      "num": 228786,
-      "word": "十二星座5月月运",
-      "onboard_time": 1777547479,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 228647,
-      "num": 228647,
-      "word": "阿娇送阿sa的新婚礼物曝光",
-      "onboard_time": 1777549519,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 227578,
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187279,
+      "num": 187279,
+      "word": "佳偶天成",
+      "onboard_time": 1777551380,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185292,
       "num": 253794,
       "word": "GPT5.5提示词革命",
@@ -1187,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169633,
+      "num": 169633,
+      "word": "时代少年团晴天娃娃发力中",
+      "onboard_time": 1777548140,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169513,
       "num": 234211,
       "word": "Diable加入NS",
@@ -1227,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162283,
-      "num": 162283,
-      "word": "时代少年团晴天娃娃发力中",
-      "onboard_time": 1777548140,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 161761,
       "num": 161761,
       "word": "张豆豆听到孙杨说没有自我的表情",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1777531101,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157066,
+      "num": 157066,
+      "word": "陶昕然硬刚营销号",
+      "onboard_time": 1777551261,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 155903,
@@ -1443,6 +1467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124234,
+      "num": 281388,
+      "word": "校方回应孙杨博士入学近8年",
+      "onboard_time": 1777549700,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123970,
       "num": 131628,
       "word": "日本民众为南京大屠杀流泪致歉",
@@ -1523,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108591,
+      "num": 171258,
+      "word": "女子人流手术后腹痛25天排出棉球",
+      "onboard_time": 1777550480,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108100,
       "num": 97921,
       "word": "易烊千玺终于放假了",
@@ -1564,7 +1604,7 @@
     },
     {
       "raw_hot": 104409,
-      "num": 118739,
+      "num": 157174,
       "word": "五粮液2025年净利润89.54亿",
       "onboard_time": 1777547660,
       "rank": 48,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1777477580,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86909,
+      "num": 280470,
+      "word": "当美国失去游客中国接住了世界",
+      "onboard_time": 1777550480,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85712,
@@ -1755,14 +1803,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 62838,
-      "num": 257179,
-      "word": "兄弟俩基因突变总不受控制乱咬",
-      "onboard_time": 1777550241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62163,
       "num": 131113,
       "word": "96年女生远洋货轮当大副月入1万美元",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1777539981,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61738,
+      "num": 167881,
+      "word": "撒贝宁每次被偶遇都在带娃",
+      "onboard_time": 1777548499,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 61081,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1777522761,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54236,
+      "num": 309741,
+      "word": "第一批聪明人已经堵在路上了",
+      "onboard_time": 1777550901,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52347,
@@ -1993,6 +2049,22 @@
       "onboard_time": 1777532479,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22481,
+      "num": 280133,
+      "word": "副所长诱未成年人吸毒被判5年",
+      "onboard_time": 1777550480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20052,
+      "num": 733953,
+      "word": "国泰民安在舰艇开放日具象化了",
+      "onboard_time": 1777535719,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19133,

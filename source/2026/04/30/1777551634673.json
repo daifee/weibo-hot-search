@@ -1,0 +1,410 @@
+{
+  "runTime": 1777551634673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 879808,
+        "num": 1140769,
+        "word": "多部电影撤档五一",
+        "onboard_time": 1777549640,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452559,
+        "num": 813860,
+        "word": "收货地址不该成为被歧视的理由",
+        "onboard_time": 1777543280,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20052,
+        "num": 733953,
+        "word": "国泰民安在舰艇开放日具象化了",
+        "onboard_time": 1777535719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820447,
+        "num": 727180,
+        "word": "跑男老来得子",
+        "onboard_time": 1777548800,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702597,
+        "num": 702597,
+        "word": "浪姐请了李小冉告过的博主",
+        "onboard_time": 1777539140,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448078,
+        "num": 448078,
+        "word": "女子徒手给月子里宝宝打耳洞",
+        "onboard_time": 1777543039,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320041,
+        "num": 320041,
+        "word": "十二星座5月月运",
+        "onboard_time": 1777547479,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245001,
+        "num": 317484,
+        "word": "香奈儿回应无底绑带鞋",
+        "onboard_time": 1777530799,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138045,
+        "num": 314452,
+        "word": "谷歌入驻广州珠江新城",
+        "onboard_time": 1777541121,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54236,
+        "num": 309741,
+        "word": "第一批聪明人已经堵在路上了",
+        "onboard_time": 1777550901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2298378,
+        "num": 304805,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1453894,
+        "num": 298786,
+        "word": "中国女孩拍摄靖国神社内部",
+        "onboard_time": 1777549161,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 944413,
+        "num": 295813,
+        "word": "女演员李心艾暴瘦80斤",
+        "onboard_time": 1777548561,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731133,
+        "num": 290752,
+        "word": "伊能静回应恩利争议视频",
+        "onboard_time": 1777535060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425318,
+        "num": 288052,
+        "word": "吵架的时候就回这一句太绝了",
+        "onboard_time": 1777534880,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507542,
+        "num": 284637,
+        "word": "李小冉 毫无运动痕迹",
+        "onboard_time": 1777535479,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281565,
+        "num": 281565,
+        "word": "韩国霸王茶姬爆单",
+        "onboard_time": 1777537519,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124234,
+        "num": 281388,
+        "word": "校方回应孙杨博士入学近8年",
+        "onboard_time": 1777549700,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86909,
+        "num": 280470,
+        "word": "当美国失去游客中国接住了世界",
+        "onboard_time": 1777550480,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22481,
+        "num": 280133,
+        "word": "副所长诱未成年人吸毒被判5年",
+        "onboard_time": 1777550480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988057,
+        "num": 279461,
+        "word": "曝孟美岐雪藏了两年才离开乐华",
+        "onboard_time": 1777541721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402850,
+        "num": 278499,
+        "word": "浪姐 背调",
+        "onboard_time": 1777545139,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369542,
+        "num": 277942,
+        "word": "28岁攒到10万元女生已申请辞职",
+        "onboard_time": 1777544719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334577,
+        "num": 276876,
+        "word": "阿姨买肉误输79万多随即取消支付",
+        "onboard_time": 1777528640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303890,
+        "num": 276128,
+        "word": "密逃8阵容",
+        "onboard_time": 1777534519,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276083,
+        "num": 276083,
+        "word": "CORTIS一位",
+        "onboard_time": 1777549161,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256051,
+        "num": 270270,
+        "word": "兄弟俩基因突变总不受控制乱咬",
+        "onboard_time": 1777550241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269554,
+        "num": 269554,
+        "word": "虞书欣造型",
+        "onboard_time": 1777533139,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264322,
+        "num": 264322,
+        "word": "阿娇送阿sa的新婚礼物曝光",
+        "onboard_time": 1777549519,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99850,
+        "num": 251756,
+        "word": "中国喂牛水果视频被冒用",
+        "onboard_time": 1777539260,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249345,
+        "num": 249345,
+        "word": "突然发现开车通勤意味着自由",
+        "onboard_time": 1777536561,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248114,
+        "num": 248114,
+        "word": "马頔发言争议后首发博",
+        "onboard_time": 1777522880,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236559,
+        "num": 236559,
+        "word": "古天乐回应隐婚生子传闻",
+        "onboard_time": 1777539320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101295,
+        "num": 208763,
+        "word": "iG官宣Nia加入",
+        "onboard_time": 1777543280,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202313,
+        "num": 202313,
+        "word": "孙杨母子 镜像共生",
+        "onboard_time": 1777538360,
+        "rank": 34,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 1221427,
+        "num": 199831,
+        "word": "世界泳联疑似内涵孙杨",
+        "onboard_time": 1777545979,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187279,
+        "num": 187279,
+        "word": "佳偶天成",
+        "onboard_time": 1777551380,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176919,
+        "num": 176919,
+        "word": "终于理解了什么是误闯天家",
+        "onboard_time": 1777549221,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174270,
+        "num": 174270,
+        "word": "陈都灵在大学是华辩世锦赛主席",
+        "onboard_time": 1777539919,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108591,
+        "num": 171258,
+        "word": "女子人流手术后腹痛25天排出棉球",
+        "onboard_time": 1777550480,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169633,
+        "num": 169633,
+        "word": "时代少年团晴天娃娃发力中",
+        "onboard_time": 1777548140,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169290,
+        "num": 169290,
+        "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+        "onboard_time": 1777541239,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61738,
+        "num": 167881,
+        "word": "撒贝宁每次被偶遇都在带娃",
+        "onboard_time": 1777548499,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167647,
+        "num": 167647,
+        "word": "苗苗回应手心痣越来越大",
+        "onboard_time": 1777535240,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 164265,
+        "word": "证监会原主席易会满被双开",
+        "onboard_time": 1777540400,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166126,
+        "num": 162503,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1777527501,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157554,
+        "num": 157554,
+        "word": "孟子义李昀锐奔跑吧错开录制",
+        "onboard_time": 1777539199,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74839,
+        "num": 157303,
+        "word": "多股20cm涨停",
+        "onboard_time": 1777540940,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104118,
+        "num": 157174,
+        "word": "五粮液2025年净利润89.54亿",
+        "onboard_time": 1777547660,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157066,
+        "num": 157066,
+        "word": "陶昕然硬刚营销号",
+        "onboard_time": 1777551261,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度更实举措加强基础研究#"
+    }
+  }
+}
