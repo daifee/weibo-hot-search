@@ -1,6 +1,6 @@
 {
   "startTime": 1777482075741,
-  "endTime": 1777541739891,
+  "endTime": 1777544054066,
   "band_list": [
     {
       "raw_hot": 3690823,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2143487,
-      "num": 628669,
+      "num": 629413,
       "word": "伊能静回应恩利争议视频",
       "onboard_time": 1777535060,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2133240,
+      "num": 252411,
+      "word": "曝孟美岐雪藏了两年才离开乐华",
+      "onboard_time": 1777541721,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1881938,
@@ -107,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 941285,
+      "num": 297460,
+      "word": "李小冉 毫无运动痕迹",
+      "onboard_time": 1777535479,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934412,
       "num": 934412,
       "word": "孙杨妈妈 禁赛风波",
@@ -195,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 707984,
+      "num": 299053,
+      "word": "韩国霸王茶姬爆单",
+      "onboard_time": 1777537519,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 694759,
       "num": 644770,
       "word": "肖战大影节影帝",
@@ -251,14 +275,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 625941,
-      "num": 299053,
-      "word": "韩国霸王茶姬爆单",
-      "onboard_time": 1777537519,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 609443,
       "num": 778639,
       "word": "莫氏鸡煲老板还剩40万债务",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 579164,
-      "num": 804076,
+      "num": 814939,
       "word": "保洁误拿快递协商时倒地送医后身亡",
       "onboard_time": 1777536080,
       "rank": 1,
@@ -291,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 550907,
-      "num": 297460,
-      "word": "李小冉 毫无运动痕迹",
-      "onboard_time": 1777535479,
-      "rank": 16,
+      "raw_hot": 537383,
+      "num": 254004,
+      "word": "古天乐回应隐婚生子传闻",
+      "onboard_time": 1777539320,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -371,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445872,
+      "num": 289641,
+      "word": "苗苗回应手心痣越来越大",
+      "onboard_time": 1777535240,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438468,
       "num": 438468,
       "word": "YG新女团第三位成员公开",
@@ -427,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414540,
-      "num": 289641,
-      "word": "苗苗回应手心痣越来越大",
-      "onboard_time": 1777535240,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 408861,
       "num": 329606,
       "word": "高铁上C座D座齐刷刷伸手",
       "onboard_time": 1777478600,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401641,
+      "num": 401641,
+      "word": "谷歌入驻广州珠江新城",
+      "onboard_time": 1777541121,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 388745,
@@ -547,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312010,
-      "num": 232110,
-      "word": "古天乐回应隐婚生子传闻",
-      "onboard_time": 1777539320,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309839,
       "num": 303680,
       "word": "证监会原主席易会满被双开",
@@ -617,6 +633,14 @@
       "onboard_time": 1777526000,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287426,
+      "num": 296499,
+      "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+      "onboard_time": 1777541239,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287176,
@@ -691,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241564,
+      "num": 241564,
+      "word": "女子徒手给月子里宝宝打耳洞",
+      "onboard_time": 1777543039,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237339,
       "num": 237339,
       "word": "李小冉上五哈也难逃抽象",
@@ -731,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225975,
+      "num": 225975,
+      "word": "陈都灵在大学是华辩世锦赛主席",
+      "onboard_time": 1777539919,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224196,
+      "num": 224196,
+      "word": "南方人能做到真正的人车合一",
+      "onboard_time": 1777537699,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224108,
       "num": 330883,
       "word": "用AI代替员工的快开不起工资了",
@@ -747,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218194,
-      "num": 218194,
-      "word": "南方人能做到真正的人车合一",
-      "onboard_time": 1777537699,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 219272,
+      "num": 249473,
+      "word": "iG官宣Nia加入",
+      "onboard_time": 1777543280,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 212306,
@@ -769,6 +817,14 @@
       "onboard_time": 1777518079,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209707,
+      "num": 204004,
+      "word": "看到第十集发现男主第一集就死了",
+      "onboard_time": 1777540400,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 209356,
@@ -803,6 +859,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205096,
+      "num": 242845,
+      "word": "多股20cm涨停",
+      "onboard_time": 1777540940,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202555,
+      "num": 202555,
+      "word": "ILLIT回归",
+      "onboard_time": 1777542921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198889,
       "num": 187947,
       "word": "韩国演员朴东彬去世",
@@ -835,28 +907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197098,
-      "num": 197098,
-      "word": "陈都灵在大学是华辩世锦赛主席",
-      "onboard_time": 1777539919,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196183,
       "num": 196183,
       "word": "赵心童无缘打破克鲁斯堡魔咒",
       "onboard_time": 1777506561,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194177,
-      "num": 194177,
-      "word": "看到第十集发现男主第一集就死了",
-      "onboard_time": 1777540400,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 191354,
@@ -883,11 +939,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187997,
-      "num": 304015,
-      "word": "谷歌入驻广州珠江新城",
-      "onboard_time": 1777541121,
-      "rank": 8,
+      "raw_hot": 185292,
+      "num": 253794,
+      "word": "GPT5.5提示词革命",
+      "onboard_time": 1777540338,
+      "rank": 45,
       "category": "互联网"
     },
     {
@@ -939,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179284,
-      "num": 242845,
-      "word": "多股20cm涨停",
-      "onboard_time": 1777540940,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 179111,
       "num": 179111,
       "word": "王俊凯演出前48h舞台全被推翻",
@@ -977,6 +1025,14 @@
       "onboard_time": 1777524561,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175339,
+      "num": 168345,
+      "word": "国防部回应是否将迎首艘核动力航母",
+      "onboard_time": 1777543039,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 174842,
@@ -1131,8 +1187,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148328,
+      "num": 663908,
+      "word": "火车坐过站了可以免费坐回去",
+      "onboard_time": 1777536921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147255,
-      "num": 147255,
+      "num": 182240,
       "word": "中国喂牛水果视频被冒用",
       "onboard_time": 1777539260,
       "rank": 42,
@@ -1145,14 +1209,6 @@
       "onboard_time": 1777478420,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 143018,
-      "num": 663908,
-      "word": "火车坐过站了可以免费坐回去",
-      "onboard_time": 1777536921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141824,
@@ -1203,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136581,
+      "num": 198137,
+      "word": "孙颖莎笑得好开心",
+      "onboard_time": 1777543999,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133798,
       "num": 133798,
       "word": "胖东来回应249元奢侈品毛巾",
@@ -1219,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124407,
+      "num": 250824,
+      "word": "飞猪免单给我的五一假期回了口血",
+      "onboard_time": 1777541721,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123970,
       "num": 131628,
       "word": "日本民众为南京大屠杀流泪致歉",
       "onboard_time": 1777476381,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121615,
+      "num": 168995,
+      "word": "白酒退市第一股",
+      "onboard_time": 1777535900,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 116401,
@@ -1331,19 +1411,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99084,
+      "num": 168598,
+      "word": "詹姆斯说我太老了",
+      "onboard_time": 1777536319,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96785,
       "num": 147151,
       "word": "罗永浩替网友喊话西门子",
       "onboard_time": 1777533979,
       "rank": 48,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 96364,
-      "num": 147009,
-      "word": "GPT5.5提示词革命",
-      "onboard_time": 1777540338,
-      "rank": 45,
       "category": "互联网"
     },
     {
@@ -1369,14 +1449,6 @@
       "onboard_time": 1777466001,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89929,
-      "num": 146820,
-      "word": "詹姆斯说我太老了",
-      "onboard_time": 1777536319,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 88953,
@@ -1419,6 +1491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85415,
+      "num": 256266,
+      "word": "收货地址不该成为被歧视的理由",
+      "onboard_time": 1777543280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84855,
       "num": 227098,
       "word": "里夫斯G5复出",
@@ -1451,20 +1531,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 78544,
-      "num": 296499,
-      "word": "妈妈上夜班3岁娃凌晨1点街头独行",
-      "onboard_time": 1777541239,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77302,
       "num": 77302,
       "word": "瑶一瑶被要求配合拍摄回怼妈妈",
       "onboard_time": 1777448361,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 75598,
+      "num": 168131,
+      "word": "第五人格小女孩",
+      "onboard_time": 1777533201,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 75095,
@@ -1523,12 +1603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61752,
+      "num": 297235,
+      "word": "i人e人五一自驾belike",
+      "onboard_time": 1777539981,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61081,
       "num": 77289,
       "word": "霸王茶姬微博评论区",
       "onboard_time": 1777504997,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60854,
+      "num": 253043,
+      "word": "中方呼吁坚决反对日本拥有核武器",
+      "onboard_time": 1777543341,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60442,
@@ -1577,14 +1673,6 @@
       "onboard_time": 1777484356,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47826,
-      "num": 297235,
-      "word": "i人e人五一自驾belike",
-      "onboard_time": 1777539981,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 47689,
@@ -1659,12 +1747,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 38364,
+      "num": 253660,
+      "word": "朱珠素颜太权威了",
+      "onboard_time": 1777539260,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36946,
       "num": 310429,
       "word": "Anthropic年收300亿碾压OpenAI",
       "onboard_time": 1777514959,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34565,
+      "num": 252699,
+      "word": "中外网友对账对到了安全感",
+      "onboard_time": 1777543280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31218,

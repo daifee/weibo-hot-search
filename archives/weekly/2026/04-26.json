@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777541739891,
+  "endTime": 1777544054066,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 2143487,
-      "num": 628669,
+      "num": 629413,
       "word": "伊能静回应恩利争议视频",
       "onboard_time": 1777535060,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2133240,
+      "num": 252411,
+      "word": "曝孟美岐雪藏了两年才离开乐华",
+      "onboard_time": 1777541721,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2117214,
@@ -947,6 +955,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 941285,
+      "num": 297460,
+      "word": "李小冉 毫无运动痕迹",
+      "onboard_time": 1777535479,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940880,
       "num": 940880,
       "word": "宇宙或仅剩约333亿年的寿命",
@@ -1555,6 +1571,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 707984,
+      "num": 299053,
+      "word": "韩国霸王茶姬爆单",
+      "onboard_time": 1777537519,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 702368,
       "num": 369098,
       "word": "孙杨张豆豆是双方母亲撮合在一起的",
@@ -1859,14 +1883,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 625941,
-      "num": 299053,
-      "word": "韩国霸王茶姬爆单",
-      "onboard_time": 1777537519,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 625051,
       "num": 353317,
       "word": "曝张凌赫低血糖摔倒了",
@@ -2044,7 +2060,7 @@
     },
     {
       "raw_hot": 579164,
-      "num": 804076,
+      "num": 814939,
       "word": "保洁误拿快递协商时倒地送医后身亡",
       "onboard_time": 1777536080,
       "rank": 1,
@@ -2155,14 +2171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 550907,
-      "num": 297460,
-      "word": "李小冉 毫无运动痕迹",
-      "onboard_time": 1777535479,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549578,
       "num": 466582,
       "word": "疑似汤唯怀二胎",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1777280841,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537383,
+      "num": 254004,
+      "word": "古天乐回应隐婚生子传闻",
+      "onboard_time": 1777539320,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 532799,
@@ -2843,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445872,
+      "num": 289641,
+      "word": "苗苗回应手心痣越来越大",
+      "onboard_time": 1777535240,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444135,
       "num": 444135,
       "word": "本科新增38种专业",
@@ -3091,14 +3115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414540,
-      "num": 289641,
-      "word": "苗苗回应手心痣越来越大",
-      "onboard_time": 1777535240,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414017,
       "num": 372690,
       "word": "橹穆双人舞台百天播放量",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1777344622,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401641,
+      "num": 401641,
+      "word": "谷歌入驻广州珠江新城",
+      "onboard_time": 1777541121,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 398831,
@@ -4003,14 +4027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312010,
-      "num": 232110,
-      "word": "古天乐回应隐婚生子传闻",
-      "onboard_time": 1777539320,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310255,
       "num": 506672,
       "word": "查尔斯国王给特朗普送了口钟",
@@ -4240,6 +4256,14 @@
       "word": "110斤女孩两个月瘦成纸片人",
       "onboard_time": 1777449500,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287426,
+      "num": 296499,
+      "word": "妈妈上夜班3岁娃凌晨1点街头独行",
+      "onboard_time": 1777541239,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4827,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241564,
+      "num": 241564,
+      "word": "女子徒手给月子里宝宝打耳洞",
+      "onboard_time": 1777543039,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240959,
       "num": 300212,
       "word": "留几手说炒股让他妻离子散",
@@ -5075,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225975,
+      "num": 225975,
+      "word": "陈都灵在大学是华辩世锦赛主席",
+      "onboard_time": 1777539919,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225614,
       "num": 229595,
       "word": "建议所有女性多做力量训练",
@@ -5105,6 +5145,14 @@
       "onboard_time": 1777471461,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 224196,
+      "num": 224196,
+      "word": "南方人能做到真正的人车合一",
+      "onboard_time": 1777537699,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 224108,
@@ -5187,6 +5235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219272,
+      "num": 249473,
+      "word": "iG官宣Nia加入",
+      "onboard_time": 1777543280,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218962,
       "num": 205335,
       "word": "橹穆舞台播放量时代峰峻第二",
@@ -5217,14 +5273,6 @@
       "onboard_time": 1777295361,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218194,
-      "num": 218194,
-      "word": "南方人能做到真正的人车合一",
-      "onboard_time": 1777537699,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 217550,
@@ -5435,6 +5483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209707,
+      "num": 204004,
+      "word": "看到第十集发现男主第一集就死了",
+      "onboard_time": 1777540400,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209488,
       "num": 242312,
       "word": "公婆拎3年20万保姆费产房慰问儿媳",
@@ -5539,6 +5595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205096,
+      "num": 242845,
+      "word": "多股20cm涨停",
+      "onboard_time": 1777540940,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204404,
       "num": 204404,
       "word": "内娱进入开机冷静期",
@@ -5577,6 +5641,14 @@
       "onboard_time": 1777200860,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202555,
+      "num": 202555,
+      "word": "ILLIT回归",
+      "onboard_time": 1777542921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 201943,
@@ -5731,14 +5803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197098,
-      "num": 197098,
-      "word": "陈都灵在大学是华辩世锦赛主席",
-      "onboard_time": 1777539919,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196667,
       "num": 326957,
       "word": "金莎孙丞潇婚后线下好甜",
@@ -5777,14 +5841,6 @@
       "onboard_time": 1777266020,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 194177,
-      "num": 194177,
-      "word": "看到第十集发现男主第一集就死了",
-      "onboard_time": 1777540400,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 193304,
@@ -5955,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187997,
-      "num": 304015,
-      "word": "谷歌入驻广州珠江新城",
-      "onboard_time": 1777541121,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 187609,
       "num": 187609,
       "word": "男子欠3.6万第三方公司要债6万",
@@ -6049,6 +6097,14 @@
       "onboard_time": 1777188560,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185292,
+      "num": 253794,
+      "word": "GPT5.5提示词革命",
+      "onboard_time": 1777540338,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 185265,
@@ -6193,14 +6249,6 @@
       "onboard_time": 1777480398,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179284,
-      "num": 242845,
-      "word": "多股20cm涨停",
-      "onboard_time": 1777540940,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 179111,
@@ -6369,6 +6417,14 @@
       "onboard_time": 1777524561,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175339,
+      "num": 168345,
+      "word": "国防部回应是否将迎首艘核动力航母",
+      "onboard_time": 1777543039,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 174842,
@@ -7139,6 +7195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148328,
+      "num": 663908,
+      "word": "火车坐过站了可以免费坐回去",
+      "onboard_time": 1777536921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148239,
       "num": 148239,
       "word": "高瀚宇害怕老板鹿晗",
@@ -7156,7 +7220,7 @@
     },
     {
       "raw_hot": 147255,
-      "num": 147255,
+      "num": 182240,
       "word": "中国喂牛水果视频被冒用",
       "onboard_time": 1777539260,
       "rank": 42,
@@ -7273,14 +7337,6 @@
       "onboard_time": 1777209081,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143018,
-      "num": 663908,
-      "word": "火车坐过站了可以免费坐回去",
-      "onboard_time": 1777536921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142443,
@@ -7465,6 +7521,14 @@
       "onboard_time": 1777287619,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136581,
+      "num": 198137,
+      "word": "孙颖莎笑得好开心",
+      "onboard_time": 1777543999,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 136106,
@@ -7675,6 +7739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124407,
+      "num": 250824,
+      "word": "飞猪免单给我的五一假期回了口血",
+      "onboard_time": 1777541721,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123970,
       "num": 131628,
       "word": "日本民众为南京大屠杀流泪致歉",
@@ -7745,6 +7817,14 @@
       "onboard_time": 1777209382,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121615,
+      "num": 168995,
+      "word": "白酒退市第一股",
+      "onboard_time": 1777535900,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 121572,
@@ -8267,6 +8347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99084,
+      "num": 168598,
+      "word": "詹姆斯说我太老了",
+      "onboard_time": 1777536319,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98454,
       "num": 401420,
       "word": "苹果天气崩了",
@@ -8305,14 +8393,6 @@
       "onboard_time": 1777369579,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96364,
-      "num": 147009,
-      "word": "GPT5.5提示词革命",
-      "onboard_time": 1777540338,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 96305,
@@ -8419,14 +8499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89929,
-      "num": 146820,
-      "word": "詹姆斯说我太老了",
-      "onboard_time": 1777536319,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89363,
       "num": 263032,
       "word": "伊朗蚊子舰队令美军头疼",
@@ -8521,6 +8593,14 @@
       "onboard_time": 1777516999,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85415,
+      "num": 256266,
+      "word": "收货地址不该成为被歧视的理由",
+      "onboard_time": 1777543280,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85075,
@@ -8683,14 +8763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78544,
-      "num": 296499,
-      "word": "妈妈上夜班3岁娃凌晨1点街头独行",
-      "onboard_time": 1777541239,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77498,
       "num": 167459,
       "word": "陈赫你们一会不要笑啊",
@@ -8713,6 +8785,14 @@
       "onboard_time": 1777387461,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 75598,
+      "num": 168131,
+      "word": "第五人格小女孩",
+      "onboard_time": 1777533201,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 75517,
@@ -9115,6 +9195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61752,
+      "num": 297235,
+      "word": "i人e人五一自驾belike",
+      "onboard_time": 1777539981,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61235,
       "num": 117279,
       "word": "存储龙头一季度赚了38亿",
@@ -9137,6 +9225,14 @@
       "onboard_time": 1777380141,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60854,
+      "num": 253043,
+      "word": "中方呼吁坚决反对日本拥有核武器",
+      "onboard_time": 1777543341,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60442,
@@ -9451,14 +9547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47826,
-      "num": 297235,
-      "word": "i人e人五一自驾belike",
-      "onboard_time": 1777539981,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 47362,
       "num": 130919,
       "word": "刘浩存好会撩",
@@ -9675,6 +9763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38364,
+      "num": 253660,
+      "word": "朱珠素颜太权威了",
+      "onboard_time": 1777539260,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37914,
       "num": 319256,
       "word": "官方通报老师批语你的字和你一样丑",
@@ -9769,6 +9865,14 @@
       "onboard_time": 1777231634,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34565,
+      "num": 252699,
+      "word": "中外网友对账对到了安全感",
+      "onboard_time": 1777543280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33747,
