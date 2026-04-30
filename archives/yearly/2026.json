@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777544054066,
+  "endTime": 1777550375595,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1079,6 +1079,14 @@
       "num": 690837,
       "word": "金莎孙丞潇领证",
       "onboard_time": 1775710644,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3890213,
+      "num": 519345,
+      "word": "金靖瘦到认不出来",
+      "onboard_time": 1777546818,
       "rank": 10,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774250001,
       "rank": 0,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 2270618,
-      "num": 467571,
-      "word": "郭富城买了让女友痛哭流涕的礼物",
-      "onboard_time": 1776688582,
-      "rank": 38,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
