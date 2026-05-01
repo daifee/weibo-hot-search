@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777621394268,
+  "endTime": 1777629282533,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2388053,
+      "num": 765539,
+      "word": "对方拒绝了你的恶意",
+      "onboard_time": 1777620979,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2388024,
       "num": 2388024,
       "word": "歌手2026",
@@ -257,6 +265,14 @@
       "onboard_time": 1777288760,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 2061675,
+      "num": 350959,
+      "word": "白鹿 跑男",
+      "onboard_time": 1777628538,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2042182,
@@ -555,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1390747,
+      "num": 350665,
+      "word": "金靖回应瘦到认不出",
+      "onboard_time": 1777622179,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1390607,
       "num": 1129751,
       "word": "25岁女孩确诊黑色素瘤仅5个月离世",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 1305004,
-      "num": 324007,
+      "num": 349408,
       "word": "顾茜茜怀孕五个月了",
       "onboard_time": 1777611199,
       "rank": 10,
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 1065377,
-      "num": 1065377,
+      "num": 1162849,
       "word": "五一档票房",
       "onboard_time": 1777618639,
       "rank": 3,
@@ -1419,6 +1443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 815296,
+      "num": 855704,
+      "word": "陈芋汐卢为10米台金牌",
+      "onboard_time": 1777624819,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 814003,
       "num": 383237,
       "word": "张凌赫腿受伤了",
@@ -1699,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715963,
+      "num": 715963,
+      "word": "陕西11岁失联男孩遗体被发现",
+      "onboard_time": 1777625360,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 715847,
       "num": 440530,
       "word": "张凌赫发语音报平安",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1777309218,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711791,
+      "num": 711791,
+      "word": "发明创可贴当鼠标垫的是天才",
+      "onboard_time": 1777626679,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 710986,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1777377621,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 635104,
+      "num": 635104,
+      "word": "初代跑男",
+      "onboard_time": 1777626679,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 634506,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1777278020,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549446,
+      "num": 549446,
+      "word": "张月把你的水晶手串摘了",
+      "onboard_time": 1777625780,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 547236,
@@ -3041,6 +3105,14 @@
       "onboard_time": 1777214123,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 478060,
+      "num": 278666,
+      "word": "Angelababy的五月行程",
+      "onboard_time": 1777625539,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 478007,
@@ -4035,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358665,
+      "num": 358665,
+      "word": "甲亢哥在深圳买的手机掉海里了",
+      "onboard_time": 1777624459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357436,
       "num": 422291,
       "word": "黄金价格跌跌不休",
@@ -4121,6 +4201,14 @@
       "onboard_time": 1777122684,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350171,
+      "num": 350171,
+      "word": "著名企业家李建宏国外遭车祸去世",
+      "onboard_time": 1777621939,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349435,
@@ -4627,14 +4715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306762,
-      "num": 222025,
-      "word": "对方拒绝了你的恶意",
-      "onboard_time": 1777620979,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306722,
       "num": 306722,
       "word": "RW对战AG",
@@ -5107,6 +5187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266312,
+      "num": 266312,
+      "word": "因为小三好看不让女儿好看",
+      "onboard_time": 1777622659,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266148,
       "num": 266148,
       "word": "23岁女生身高1米7体重仅88斤",
@@ -5121,6 +5209,14 @@
       "onboard_time": 1777422080,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265182,
+      "num": 274566,
+      "word": "被靠出了人形的北京地铁",
+      "onboard_time": 1777619299,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 264459,
@@ -5825,14 +5921,6 @@
       "onboard_time": 1777414636,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226396,
-      "num": 268159,
-      "word": "被靠出了人形的北京地铁",
-      "onboard_time": 1777619299,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 226241,
@@ -7115,6 +7203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178672,
+      "num": 164102,
+      "word": "张月 浪姐七跪一",
+      "onboard_time": 1777627821,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178442,
       "num": 178442,
       "word": "蓝天立被逮捕",
@@ -7403,6 +7499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171995,
+      "num": 162618,
+      "word": "五一晚会节目单",
+      "onboard_time": 1777624999,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171922,
       "num": 220125,
       "word": "妹妹冒用双胞胎姐姐证件",
@@ -7633,6 +7737,14 @@
       "onboard_time": 1777293622,
       "rank": 45,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 165136,
+      "num": 165136,
+      "word": "你初来人间她已是暮年",
+      "onboard_time": 1777623622,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 164909,
@@ -8235,6 +8347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147107,
+      "num": 147107,
+      "word": "原来道歉的方式真的有一万种",
+      "onboard_time": 1777626319,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146792,
       "num": 144868,
       "word": "张月直播",
@@ -8315,6 +8435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145445,
+      "num": 351679,
+      "word": "狼队 人屠双向辜负",
+      "onboard_time": 1777628840,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145297,
       "num": 145297,
       "word": "1岁半男婴被抢奶奶和男友被疑卖孙",
@@ -8377,6 +8505,14 @@
       "onboard_time": 1777209081,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "金枕榴莲价格打下来了",
+      "onboard_time": 1777628300,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142443,
@@ -8787,6 +8923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130210,
+      "num": 130210,
+      "word": "精神科专家称年轻人急需养脑",
+      "onboard_time": 1777624160,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129397,
       "num": 273537,
       "word": "华为PuraXMax首销日销量曝光",
@@ -9003,6 +9147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121460,
+      "num": 121460,
+      "word": "李小冉 洗牌码牌抓牌看牌",
+      "onboard_time": 1777627699,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120595,
       "num": 202294,
       "word": "妇联回应孕妇称买水果遭丈夫咒骂",
@@ -9097,6 +9249,14 @@
       "onboard_time": 1777269800,
       "rank": 45,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 117533,
+      "num": 117533,
+      "word": "LCK决定不处罚Ruler",
+      "onboard_time": 1777629258,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 117139,
@@ -9345,6 +9505,14 @@
       "onboard_time": 1777131562,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109383,
+      "num": 266474,
+      "word": "极氪月交付量创历史新高",
+      "onboard_time": 1777626319,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 109222,
@@ -10427,6 +10595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67447,
+      "num": 266379,
+      "word": "新SU7开进上海百年张园",
+      "onboard_time": 1777628059,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67330,
       "num": 203803,
       "word": "曝LCK放弃ENC",
@@ -10705,6 +10881,14 @@
       "onboard_time": 1777183280,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59120,
+      "num": 114994,
+      "word": "以色列一天接收6500吨军事装备",
+      "onboard_time": 1777625839,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59103,
@@ -11209,6 +11393,14 @@
       "onboard_time": 1777125146,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41993,
+      "num": 271421,
+      "word": "星铁LAND2026",
+      "onboard_time": 1777626560,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 40832,
@@ -11835,6 +12027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22334,
+      "num": 781696,
+      "word": "用画笔定格追光的他们是什么体验",
+      "onboard_time": 1777623200,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22082,
       "num": 1010650,
       "word": "守护创新的力量",
@@ -11849,6 +12049,14 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21317,
+      "num": 188414,
+      "word": "多地楼市新政出台",
+      "onboard_time": 1777629199,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21201,

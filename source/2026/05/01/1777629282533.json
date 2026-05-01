@@ -1,0 +1,410 @@
+{
+  "runTime": 1777629282533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017806,
+        "num": 1162849,
+        "word": "五一档票房",
+        "onboard_time": 1777618639,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 815296,
+        "num": 855704,
+        "word": "陈芋汐卢为10米台金牌",
+        "onboard_time": 1777624819,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22334,
+        "num": 781696,
+        "word": "用画笔定格追光的他们是什么体验",
+        "onboard_time": 1777623200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2388053,
+        "num": 765539,
+        "word": "对方拒绝了你的恶意",
+        "onboard_time": 1777620979,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 715963,
+        "num": 715963,
+        "word": "陕西11岁失联男孩遗体被发现",
+        "onboard_time": 1777625360,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711791,
+        "num": 711791,
+        "word": "发明创可贴当鼠标垫的是天才",
+        "onboard_time": 1777626679,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 635104,
+        "num": 635104,
+        "word": "初代跑男",
+        "onboard_time": 1777626679,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549446,
+        "num": 549446,
+        "word": "张月把你的水晶手串摘了",
+        "onboard_time": 1777625780,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358665,
+        "num": 358665,
+        "word": "甲亢哥在深圳买的手机掉海里了",
+        "onboard_time": 1777624459,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145445,
+        "num": 351679,
+        "word": "狼队 人屠双向辜负",
+        "onboard_time": 1777628840,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2061675,
+        "num": 350959,
+        "word": "白鹿 跑男",
+        "onboard_time": 1777628538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1390747,
+        "num": 350665,
+        "word": "金靖回应瘦到认不出",
+        "onboard_time": 1777622179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350171,
+        "num": 350171,
+        "word": "著名企业家李建宏国外遭车祸去世",
+        "onboard_time": 1777621939,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787713,
+        "num": 349408,
+        "word": "顾茜茜怀孕五个月了",
+        "onboard_time": 1777611199,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 424555,
+        "num": 348970,
+        "word": "穿普拉达的女王 米兰达坐经济舱",
+        "onboard_time": 1777619119,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348490,
+        "num": 348490,
+        "word": "不爱睡觉的国家迎来了最懂他的奶茶",
+        "onboard_time": 1777618639,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413335,
+        "num": 327627,
+        "word": "何宣林 镜头",
+        "onboard_time": 1777619720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288738,
+        "num": 288738,
+        "word": "南开大学已成立调查组",
+        "onboard_time": 1777615699,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134910,
+        "num": 288014,
+        "word": "特朗普称美国结束对伊朗战争",
+        "onboard_time": 1777610059,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62152,
+        "num": 283755,
+        "word": "鸿蒙智行4月交付32759辆汽车",
+        "onboard_time": 1777617259,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 611029,
+        "num": 280177,
+        "word": "妈妈自曝曾故意不让瑶一瑶白天睡觉",
+        "onboard_time": 1777616721,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478060,
+        "num": 278666,
+        "word": "Angelababy的五月行程",
+        "onboard_time": 1777625539,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265182,
+        "num": 274566,
+        "word": "被靠出了人形的北京地铁",
+        "onboard_time": 1777619299,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41993,
+        "num": 271421,
+        "word": "星铁LAND2026",
+        "onboard_time": 1777626560,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 8739,
+        "num": 268795,
+        "word": "五一就该让千问AI劳动",
+        "onboard_time": 1777608140,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266906,
+        "num": 266906,
+        "word": "何不同舟渡 檀健次卢昱晓曹骏",
+        "onboard_time": 1777620020,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109383,
+        "num": 266474,
+        "word": "极氪月交付量创历史新高",
+        "onboard_time": 1777626319,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67447,
+        "num": 266379,
+        "word": "新SU7开进上海百年张园",
+        "onboard_time": 1777628059,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266312,
+        "num": 266312,
+        "word": "因为小三好看不让女儿好看",
+        "onboard_time": 1777622659,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162568,
+        "num": 263436,
+        "word": "labubu冰箱被炒至19999元",
+        "onboard_time": 1777605918,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262813,
+        "num": 262813,
+        "word": "曾沛慈个人喜爱度第五",
+        "onboard_time": 1777614140,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205596,
+        "num": 205596,
+        "word": "迪丽热巴和素人合影",
+        "onboard_time": 1777607058,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21317,
+        "num": 188414,
+        "word": "多地楼市新政出台",
+        "onboard_time": 1777629199,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71911,
+        "num": 179479,
+        "word": "金饰克价回落买不买",
+        "onboard_time": 1777614260,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212085,
+        "num": 179294,
+        "word": "孙怡选了阚清子",
+        "onboard_time": 1777612039,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178445,
+        "num": 178445,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777620499,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165136,
+        "num": 165136,
+        "word": "你初来人间她已是暮年",
+        "onboard_time": 1777623622,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178672,
+        "num": 164102,
+        "word": "张月 浪姐七跪一",
+        "onboard_time": 1777627821,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 162618,
+        "word": "五一晚会节目单",
+        "onboard_time": 1777624999,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147107,
+        "num": 147107,
+        "word": "原来道歉的方式真的有一万种",
+        "onboard_time": 1777626319,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142747,
+        "num": 142747,
+        "word": "金枕榴莲价格打下来了",
+        "onboard_time": 1777628300,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140598,
+        "num": 140598,
+        "word": "消失的人 捂眼",
+        "onboard_time": 1777618999,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139792,
+        "num": 139792,
+        "word": "王濛选曲全是为了李小冉唐艺昕",
+        "onboard_time": 1777618879,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135736,
+        "num": 135736,
+        "word": "家里没遗传到父母优点的孩子",
+        "onboard_time": 1777612579,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130210,
+        "num": 130210,
+        "word": "精神科专家称年轻人急需养脑",
+        "onboard_time": 1777624160,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125012,
+        "num": 125012,
+        "word": "陈璟翊 时代峰峻",
+        "onboard_time": 1777603339,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124128,
+        "num": 124128,
+        "word": "长沙地铁无人行李箱墙又出现了",
+        "onboard_time": 1777611620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "李小冉 洗牌码牌抓牌看牌",
+        "onboard_time": 1777627699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117533,
+        "num": 117533,
+        "word": "LCK决定不处罚Ruler",
+        "onboard_time": 1777629258,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59120,
+        "num": 114994,
+        "word": "以色列一天接收6500吨军事装备",
+        "onboard_time": 1777625839,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

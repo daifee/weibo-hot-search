@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777621394268,
+  "endTime": 1777629282533,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -27,6 +27,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2388053,
+      "num": 765539,
+      "word": "对方拒绝了你的恶意",
+      "onboard_time": 1777620979,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 2061675,
+      "num": 350959,
+      "word": "白鹿 跑男",
+      "onboard_time": 1777628538,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1782178,
       "num": 1782178,
       "word": "中国女孩拍摄靖国神社内部",
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1390747,
+      "num": 350665,
+      "word": "金靖回应瘦到认不出",
+      "onboard_time": 1777622179,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1358555,
       "num": 1358555,
       "word": "导游称大熊猫花花是残疾游客秒报警",
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 1305004,
-      "num": 324007,
+      "num": 349408,
       "word": "顾茜茜怀孕五个月了",
       "onboard_time": 1777611199,
       "rank": 10,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 1065377,
-      "num": 1065377,
+      "num": 1162849,
       "word": "五一档票房",
       "onboard_time": 1777618639,
       "rank": 3,
@@ -105,6 +129,14 @@
       "onboard_time": 1777600999,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 815296,
+      "num": 855704,
+      "word": "陈芋汐卢为10米台金牌",
+      "onboard_time": 1777624819,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 791267,
@@ -145,6 +177,22 @@
       "onboard_time": 1777541721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 715963,
+      "num": 715963,
+      "word": "陕西11岁失联男孩遗体被发现",
+      "onboard_time": 1777625360,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711791,
+      "num": 711791,
+      "word": "发明创可贴当鼠标垫的是天才",
+      "onboard_time": 1777626679,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 708584,
@@ -195,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 635104,
+      "num": 635104,
+      "word": "初代跑男",
+      "onboard_time": 1777626679,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 631892,
       "num": 631892,
       "word": "辛辛苦苦种了三个多月的胡萝卜",
@@ -225,6 +281,14 @@
       "onboard_time": 1777593618,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549446,
+      "num": 549446,
+      "word": "张月把你的水晶手串摘了",
+      "onboard_time": 1777625780,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 542013,
@@ -289,6 +353,14 @@
       "onboard_time": 1777564941,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 478060,
+      "num": 278666,
+      "word": "Angelababy的五月行程",
+      "onboard_time": 1777625539,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 473886,
@@ -363,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358665,
+      "num": 358665,
+      "word": "甲亢哥在深圳买的手机掉海里了",
+      "onboard_time": 1777624459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351060,
       "num": 451086,
       "word": "命运托举你的方式很意外",
       "onboard_time": 1777568418,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 350171,
+      "num": 350171,
+      "word": "著名企业家李建宏国外遭车祸去世",
+      "onboard_time": 1777621939,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346759,
@@ -433,14 +521,6 @@
       "onboard_time": 1777611620,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306762,
-      "num": 222025,
-      "word": "对方拒绝了你的恶意",
-      "onboard_time": 1777620979,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 300530,
@@ -571,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266312,
+      "num": 266312,
+      "word": "因为小三好看不让女儿好看",
+      "onboard_time": 1777622659,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265182,
+      "num": 274566,
+      "word": "被靠出了人形的北京地铁",
+      "onboard_time": 1777619299,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261110,
       "num": 166299,
       "word": "香奈儿无底鞋89%网友讨厌",
@@ -641,14 +737,6 @@
       "onboard_time": 1777544719,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226396,
-      "num": 268159,
-      "word": "被靠出了人形的北京地铁",
-      "onboard_time": 1777619299,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 221424,
@@ -763,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178672,
+      "num": 164102,
+      "word": "张月 浪姐七跪一",
+      "onboard_time": 1777627821,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177742,
       "num": 177742,
       "word": "浪姐二公乘风值排名",
@@ -779,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171995,
+      "num": 162618,
+      "word": "五一晚会节目单",
+      "onboard_time": 1777624999,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169702,
       "num": 169702,
       "word": "乘风真人秀",
@@ -793,6 +897,14 @@
       "onboard_time": 1777593978,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165136,
+      "num": 165136,
+      "word": "你初来人间她已是暮年",
+      "onboard_time": 1777623622,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 163489,
@@ -851,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147107,
+      "num": 147107,
+      "word": "原来道歉的方式真的有一万种",
+      "onboard_time": 1777626319,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146791,
       "num": 146791,
       "word": "官方通报酒店声称蛇很多强制退单",
@@ -867,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145445,
+      "num": 351679,
+      "word": "狼队 人屠双向辜负",
+      "onboard_time": 1777628840,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145116,
       "num": 284183,
       "word": "美对伊战5月1日面临红线",
@@ -881,6 +1009,14 @@
       "onboard_time": 1777592177,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "金枕榴莲价格打下来了",
+      "onboard_time": 1777628300,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142229,
@@ -995,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130210,
+      "num": 130210,
+      "word": "精神科专家称年轻人急需养脑",
+      "onboard_time": 1777624160,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "广州地铁一男子向乘客喷辣椒水",
@@ -1035,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121460,
+      "num": 121460,
+      "word": "李小冉 洗牌码牌抓牌看牌",
+      "onboard_time": 1777627699,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120300,
       "num": 255714,
       "word": "76人凯尔特人抢七",
@@ -1059,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117533,
+      "num": 117533,
+      "word": "LCK决定不处罚Ruler",
+      "onboard_time": 1777629258,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114802,
       "num": 139809,
       "word": "罗永浩自曝可能误伤西门子",
@@ -1073,6 +1233,14 @@
       "onboard_time": 1777618398,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109383,
+      "num": 266474,
+      "word": "极氪月交付量创历史新高",
+      "onboard_time": 1777626319,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 108384,
@@ -1259,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67447,
+      "num": 266379,
+      "word": "新SU7开进上海百年张园",
+      "onboard_time": 1777628059,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64177,
       "num": 64177,
       "word": "王一博85号车手任意状态",
@@ -1273,6 +1449,14 @@
       "onboard_time": 1777594638,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 59120,
+      "num": 114994,
+      "word": "以色列一天接收6500吨军事装备",
+      "onboard_time": 1777625839,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59103,
@@ -1387,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41993,
+      "num": 271421,
+      "word": "星铁LAND2026",
+      "onboard_time": 1777626560,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 41746,
       "num": 223212,
       "word": "国防部回应辽宁舰四川舰过航台湾海峡",
@@ -1499,12 +1691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22334,
+      "num": 781696,
+      "word": "用画笔定格追光的他们是什么体验",
+      "onboard_time": 1777623200,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21408,
       "num": 374347,
       "word": "每一位浪姐都值得橙功",
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21317,
+      "num": 188414,
+      "word": "多地楼市新政出台",
+      "onboard_time": 1777629199,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15942,
