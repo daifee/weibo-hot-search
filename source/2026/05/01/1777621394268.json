@@ -1,0 +1,410 @@
+{
+  "runTime": 1777621394268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077244,
+        "num": 1172359,
+        "word": "莫氏鸡煲已报警",
+        "onboard_time": 1777603279,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1065377,
+        "num": 1065377,
+        "word": "五一档票房",
+        "onboard_time": 1777618639,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13305,
+        "num": 817091,
+        "word": "文旅活动精彩纷呈点燃假日出行",
+        "onboard_time": 1777603099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739787,
+        "num": 739787,
+        "word": "不爱睡觉的国家迎来了最懂他的奶茶",
+        "onboard_time": 1777618639,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686246,
+        "num": 686246,
+        "word": "南开大学已成立调查组",
+        "onboard_time": 1777615699,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642935,
+        "num": 642935,
+        "word": "曾沛慈个人喜爱度第五",
+        "onboard_time": 1777614140,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640490,
+        "num": 640490,
+        "word": "穿普拉达的女王 米兰达坐经济舱",
+        "onboard_time": 1777619119,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516205,
+        "num": 516205,
+        "word": "家里没遗传到父母优点的孩子",
+        "onboard_time": 1777612579,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292932,
+        "num": 292932,
+        "word": "豆包挑榴莲",
+        "onboard_time": 1777609520,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 638400,
+        "num": 292273,
+        "word": "何宣林 镜头",
+        "onboard_time": 1777619720,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1275133,
+        "num": 291793,
+        "word": "顾茜茜怀孕五个月了",
+        "onboard_time": 1777611199,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 357648,
+        "num": 291332,
+        "word": "labubu冰箱被炒至19999元",
+        "onboard_time": 1777605918,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545703,
+        "num": 289806,
+        "word": "迪丽热巴和素人合影",
+        "onboard_time": 1777607058,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39106,
+        "num": 289117,
+        "word": "小米汽车4月交付量超3万台",
+        "onboard_time": 1777599621,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 486567,
+        "num": 288246,
+        "word": "孙怡选了阚清子",
+        "onboard_time": 1777612039,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418895,
+        "num": 288068,
+        "word": "陈瑶没选张月",
+        "onboard_time": 1777616658,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297916,
+        "num": 286849,
+        "word": "长沙地铁无人行李箱墙又出现了",
+        "onboard_time": 1777611620,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379516,
+        "num": 285924,
+        "word": "王濛选曲全是为了李小冉唐艺昕",
+        "onboard_time": 1777618879,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237007,
+        "num": 285300,
+        "word": "特朗普称美国结束对伊朗战争",
+        "onboard_time": 1777610059,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334499,
+        "num": 284672,
+        "word": "何不同舟渡 檀健次卢昱晓曹骏",
+        "onboard_time": 1777620020,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 889813,
+        "num": 283990,
+        "word": "妈妈自曝曾故意不让瑶一瑶白天睡觉",
+        "onboard_time": 1777616721,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283333,
+        "num": 283333,
+        "word": "马龙出行带娃参加斯巴达",
+        "onboard_time": 1777616899,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295480,
+        "num": 278937,
+        "word": "时代少年团演唱会造型",
+        "onboard_time": 1777615039,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289421,
+        "num": 271211,
+        "word": "消失的人 捂眼",
+        "onboard_time": 1777618999,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253878,
+        "num": 253878,
+        "word": "约基奇又打架了",
+        "onboard_time": 1777613181,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271521,
+        "num": 250777,
+        "word": "肖战 新丽",
+        "onboard_time": 1777599859,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 244462,
+        "word": "深圳地铁去年亏超371亿元",
+        "onboard_time": 1777600519,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112058,
+        "num": 243102,
+        "word": "鸿蒙智行4月交付32759辆汽车",
+        "onboard_time": 1777617259,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55137,
+        "num": 233539,
+        "word": "DeepSeek梦话大赏",
+        "onboard_time": 1777615519,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39424,
+        "num": 229078,
+        "word": "月销超7万零跑创新高",
+        "onboard_time": 1777606399,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 306762,
+        "num": 222025,
+        "word": "对方拒绝了你的恶意",
+        "onboard_time": 1777620979,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221987,
+        "num": 221987,
+        "word": "被靠出了人形的北京地铁",
+        "onboard_time": 1777619299,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206133,
+        "num": 206133,
+        "word": "田曦薇 记得给我开美颜",
+        "onboard_time": 1777600999,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138608,
+        "num": 205557,
+        "word": "男子突遭重大变故车内连睡7天",
+        "onboard_time": 1777593618,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205029,
+        "num": 205029,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777620499,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198840,
+        "num": 198840,
+        "word": "陈璟翊 时代峰峻",
+        "onboard_time": 1777603339,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141158,
+        "num": 196688,
+        "word": "结婚6小时新郎出车祸妻子照顾19年",
+        "onboard_time": 1777619839,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 196078,
+        "word": "10间敢死队 陈思诚水平",
+        "onboard_time": 1777614260,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138950,
+        "num": 193909,
+        "word": "面包要涨价了",
+        "onboard_time": 1777595779,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192195,
+        "num": 192195,
+        "word": "孙怡 智性恋爆发",
+        "onboard_time": 1777620499,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "刘品言曾多次婉拒浪姐邀约",
+        "onboard_time": 1777609998,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139696,
+        "num": 183149,
+        "word": "你终于发现上大学的真正主线了",
+        "onboard_time": 1777602620,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181524,
+        "num": 181524,
+        "word": "李小冉方向节目组沟通结果曝光",
+        "onboard_time": 1777606821,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122063,
+        "num": 181330,
+        "word": "一高校招事业编被指近半数为萝卜岗",
+        "onboard_time": 1777614738,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102605,
+        "num": 174553,
+        "word": "ZETA对战TE",
+        "onboard_time": 1777615819,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98599,
+        "num": 170309,
+        "word": "金饰克价回落买不买",
+        "onboard_time": 1777614260,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75089,
+        "num": 167911,
+        "word": "森林狼淘汰掘金",
+        "onboard_time": 1777609579,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164472,
+        "num": 164472,
+        "word": "檀健次工作室 我们一起护剧爱剧",
+        "onboard_time": 1777619539,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149322,
+        "num": 149322,
+        "word": "浪姐二公乘风值排名",
+        "onboard_time": 1777612219,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110321,
+        "num": 125350,
+        "word": "正常停车被人用黑胶布改车牌",
+        "onboard_time": 1777618398,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
