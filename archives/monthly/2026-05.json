@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777669326806,
+  "endTime": 1777670110572,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -2451,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24282,
+      "num": 24282,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22730,
       "num": 889675,
       "word": "数读我国创新全方位加速突破",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20767,
-      "num": 23978,
-      "word": "任嘉伦唱跳太热血了",
-      "onboard_time": 1777664895,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 19024,
