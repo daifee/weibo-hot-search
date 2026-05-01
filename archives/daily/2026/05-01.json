@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777629282533,
+  "endTime": 1777629925252,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3146797,
+      "num": 410916,
+      "word": "白鹿 跑男",
+      "onboard_time": 1777628538,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2737250,
       "num": 402131,
       "word": "孙杨玩游戏真打了范明一耳光",
@@ -27,20 +35,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2388053,
+      "raw_hot": 2499356,
       "num": 765539,
       "word": "对方拒绝了你的恶意",
       "onboard_time": 1777620979,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2061675,
-      "num": 350959,
-      "word": "白鹿 跑男",
-      "onboard_time": 1777628538,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1782178,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1390747,
-      "num": 350665,
+      "num": 406005,
       "word": "金靖回应瘦到认不出",
       "onboard_time": 1777622179,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1305004,
-      "num": 349408,
+      "num": 364746,
       "word": "顾茜茜怀孕五个月了",
       "onboard_time": 1777611199,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1777618639,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 925631,
+      "num": 711791,
+      "word": "发明创可贴当鼠标垫的是天才",
+      "onboard_time": 1777626679,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 889813,
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711791,
-      "num": 711791,
-      "word": "发明创可贴当鼠标垫的是天才",
-      "onboard_time": 1777626679,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 708584,
       "num": 708584,
       "word": "曾沛慈个人喜爱度第五",
@@ -207,6 +207,14 @@
       "num": 548549,
       "word": "何宣林 镜头",
       "onboard_time": 1777619720,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 668333,
+      "num": 668333,
+      "word": "初代跑男",
+      "onboard_time": 1777626679,
       "rank": 6,
       "category": "综艺"
     },
@@ -241,14 +249,6 @@
       "onboard_time": 1777619119,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 635104,
-      "num": 635104,
-      "word": "初代跑男",
-      "onboard_time": 1777626679,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 631892,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433227,
+      "num": 433227,
+      "word": "甲亢哥在深圳买的手机掉海里了",
+      "onboard_time": 1777624459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393346,
       "num": 320610,
       "word": "你终于发现上大学的真正主线了",
@@ -435,11 +443,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358665,
-      "num": 358665,
-      "word": "甲亢哥在深圳买的手机掉海里了",
-      "onboard_time": 1777624459,
-      "rank": 8,
+      "raw_hot": 352901,
+      "num": 352901,
+      "word": "著名企业家李建宏国外遭车祸去世",
+      "onboard_time": 1777621939,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -449,14 +457,6 @@
       "onboard_time": 1777568418,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 350171,
-      "num": 350171,
-      "word": "著名企业家李建宏国外遭车祸去世",
-      "onboard_time": 1777621939,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346759,
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269129,
+      "num": 274566,
+      "word": "被靠出了人形的北京地铁",
+      "onboard_time": 1777619299,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268609,
       "num": 268609,
       "word": "约基奇又打架了",
@@ -657,14 +665,6 @@
       "onboard_time": 1777622659,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265182,
-      "num": 274566,
-      "word": "被靠出了人形的北京地铁",
-      "onboard_time": 1777619299,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 261110,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 237419,
-      "num": 322613,
+      "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
       "onboard_time": 1777610059,
       "rank": 45,
@@ -875,8 +875,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172987,
+      "num": 172987,
+      "word": "男子健身时锁扣断裂被弹飞致瘫痪",
+      "onboard_time": 1777629320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171995,
-      "num": 162618,
+      "num": 162760,
       "word": "五一晚会节目单",
       "onboard_time": 1777624999,
       "rank": 38,
@@ -899,8 +907,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165136,
-      "num": 165136,
+      "raw_hot": 169044,
+      "num": 431749,
+      "word": "狼队 人屠双向辜负",
+      "onboard_time": 1777628840,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 165939,
+      "num": 165939,
       "word": "你初来人间她已是暮年",
       "onboard_time": 1777623622,
       "rank": 36,
@@ -913,6 +929,14 @@
       "onboard_time": 1777605979,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163351,
+      "num": 163351,
+      "word": "原来道歉的方式真的有一万种",
+      "onboard_time": 1777626319,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 162724,
@@ -963,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147107,
-      "num": 147107,
-      "word": "原来道歉的方式真的有一万种",
-      "onboard_time": 1777626319,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146791,
       "num": 146791,
       "word": "官方通报酒店声称蛇很多强制退单",
@@ -985,14 +1001,6 @@
       "onboard_time": 1777594398,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145445,
-      "num": 351679,
-      "word": "狼队 人屠双向辜负",
-      "onboard_time": 1777628840,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 145116,
@@ -1043,12 +1051,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141644,
+      "num": 141644,
+      "word": "过桥咪线",
+      "onboard_time": 1777629680,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140330,
       "num": 324175,
       "word": "小米汽车4月交付量超3万台",
       "onboard_time": 1777599621,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138669,
+      "num": 138669,
+      "word": "精神科专家称年轻人急需养脑",
+      "onboard_time": 1777624160,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137938,
@@ -1131,14 +1155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130210,
-      "num": 130210,
-      "word": "精神科专家称年轻人急需养脑",
-      "onboard_time": 1777624160,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "广州地铁一男子向乘客喷辣椒水",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1777548800,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121888,
+      "num": 121888,
+      "word": "樊振东5月赛程",
+      "onboard_time": 1777629739,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 121460,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 104679,
-      "num": 181714,
+      "num": 248063,
       "word": "金饰克价回落买不买",
       "onboard_time": 1777614260,
       "rank": 43,
@@ -1387,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78908,
+      "num": 266379,
+      "word": "新SU7开进上海百年张园",
+      "onboard_time": 1777628059,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75871,
       "num": 376731,
       "word": "王也的人生哲学",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1777549519,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67447,
-      "num": 266379,
-      "word": "新SU7开进上海百年张园",
-      "onboard_time": 1777628059,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 64177,
@@ -1675,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27188,
+      "num": 419679,
+      "word": "多地楼市新政出台",
+      "onboard_time": 1777629199,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26293,
       "num": 71098,
       "word": "铁证",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21317,
-      "num": 188414,
-      "word": "多地楼市新政出台",
-      "onboard_time": 1777629199,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15942,
@@ -1780,6 +1804,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#总书记寄语劳动者#"
     }
   ]
 }
