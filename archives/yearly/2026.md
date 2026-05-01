@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 07:30:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 08:01:22
 </p>
 </blockquote>
 <p>
@@ -1611,6 +1611,12 @@ KSG零封狼队（热度：2440831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89%23" target="weibo">
+孙杨玩游戏真打了范明一耳光（热度：2418138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%99%BD%23" target="weibo">
 李白（热度：2407334）
 </a>
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85%23" target="weibo">
 豆包红包（热度：2277608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%20%E4%BE%AF%E9%9B%AF%E5%85%83%23" target="weibo">
-姚晨 侯雯元（热度：2276311）
 </a>
 </li>
 

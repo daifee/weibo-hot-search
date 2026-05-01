@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777591844226,
+  "endTime": 1777593682182,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2131,6 +2131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2418138,
+      "num": 402131,
+      "word": "孙杨玩游戏真打了范明一耳光",
+      "onboard_time": 1777591158,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2407334,
       "num": 392899,
       "word": "李白",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770986539,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2276311,
-      "num": 163246,
-      "word": "姚晨 侯雯元",
-      "onboard_time": 1773804321,
-      "rank": 35,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
