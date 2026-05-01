@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777593682182,
+  "endTime": 1777594534283,
   "band_list": [
     {
       "raw_hot": 3255384,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2418138,
+      "raw_hot": 2737250,
       "num": 402131,
       "word": "孙杨玩游戏真打了范明一耳光",
       "onboard_time": 1777591158,
@@ -43,7 +43,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1062183,
+      "raw_hot": 1074309,
       "num": 304080,
       "word": "曝Angelababy爱发朋友圈",
       "onboard_time": 1777553061,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 521465,
+      "raw_hot": 536480,
       "num": 286599,
       "word": "孙杨点了八杯热茶",
       "onboard_time": 1777591158,
@@ -115,12 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458166,
+      "raw_hot": 458198,
       "num": 261872,
       "word": "曝孟美岐主动放弃公司资源",
       "onboard_time": 1777590016,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365683,
+      "num": 258040,
+      "word": "小狗体检肚子duang一下弹出来了",
+      "onboard_time": 1777591817,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 364160,
@@ -131,15 +139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346759,
-      "num": 193502,
-      "word": "云南元阳车祸致7人死亡",
-      "onboard_time": 1777552101,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339458,
+      "raw_hot": 351060,
       "num": 451086,
       "word": "命运托举你的方式很意外",
       "onboard_time": 1777568418,
@@ -147,12 +147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 335875,
-      "num": 258040,
-      "word": "小狗体检肚子duang一下弹出来了",
-      "onboard_time": 1777591817,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 346759,
+      "num": 193502,
+      "word": "云南元阳车祸致7人死亡",
+      "onboard_time": 1777552101,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333103,
@@ -177,6 +177,14 @@
       "onboard_time": 1777560140,
       "rank": 5,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 293968,
+      "num": 293968,
+      "word": "初代跑男是不是在商量重组",
+      "onboard_time": 1777592839,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 289652,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279317,
+      "num": 279317,
+      "word": "张豆豆制止孙杨",
+      "onboard_time": 1777593137,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277790,
       "num": 440297,
       "word": "13点起床才是性价比最高的",
@@ -259,6 +275,22 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 244673,
+      "num": 197255,
+      "word": "妻子的浪漫旅行一顿饭吃了一万五",
+      "onboard_time": 1777593739,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234399,
+      "num": 329971,
+      "word": "宇树双臂人形机器人价格",
+      "onboard_time": 1777591098,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 231080,
       "num": 235193,
       "word": "28岁攒到10万元女生已申请辞职",
@@ -267,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219647,
-      "num": 329971,
-      "word": "宇树双臂人形机器人价格",
-      "onboard_time": 1777591098,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 221424,
+      "num": 195987,
+      "word": "十个勤天 最后一次合体巡演",
+      "onboard_time": 1777592358,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 218003,
@@ -307,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207487,
+      "num": 204916,
+      "word": "男子突遭重大变故车内连睡7天",
+      "onboard_time": 1777593618,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193832,
       "num": 229234,
       "word": "奔跑吧",
@@ -315,12 +355,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180492,
-      "num": 180492,
-      "word": "张豆豆制止孙杨",
-      "onboard_time": 1777593137,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "5月最吸金的星座",
+      "onboard_time": 1777591458,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189654,
+      "num": 198869,
+      "word": "河北大姨赴意大利看孙子走红",
+      "onboard_time": 1777591577,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169319,
+      "num": 169319,
+      "word": "咪 空气一会香一会臭",
+      "onboard_time": 1777593978,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163594,
+      "num": 163594,
+      "word": "香奈儿无底鞋89%网友讨厌",
+      "onboard_time": 1777592117,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 162724,
@@ -329,14 +393,6 @@
       "onboard_time": 1777558702,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160180,
-      "num": 160180,
-      "word": "十个勤天 最后一次合体巡演",
-      "onboard_time": 1777592358,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 156150,
@@ -363,20 +419,12 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 152584,
-      "num": 152584,
-      "word": "河北大姨赴意大利看孙子走红",
-      "onboard_time": 1777591577,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150042,
-      "num": 150042,
-      "word": "初代跑男是不是在商量重组",
-      "onboard_time": 1777592839,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 146602,
+      "num": 146602,
+      "word": "肖战入围中国电影导演协会年度男演员",
+      "onboard_time": 1777594398,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 145116,
@@ -393,14 +441,6 @@
       "onboard_time": 1777592177,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144641,
-      "num": 144641,
-      "word": "5月最吸金的星座",
-      "onboard_time": 1777591458,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 141977,
@@ -451,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129018,
-      "num": 129018,
-      "word": "香奈儿无底鞋89%网友讨厌",
-      "onboard_time": 1777592117,
-      "rank": 37,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 124724,
       "num": 124724,
       "word": "不要生吃或半生吃猪肉牛肉",
@@ -499,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108384,
+      "num": 108384,
+      "word": "多地五一机票价格跳水",
+      "onboard_time": 1777594219,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101358,
+      "num": 101358,
+      "word": "国防部称不必大惊小怪过度解读",
+      "onboard_time": 1777592238,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100222,
       "num": 323625,
       "word": "分手了你俩开始暧昧了",
@@ -515,6 +563,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98169,
+      "num": 98169,
+      "word": "华为送时代少年团花篮",
+      "onboard_time": 1777590016,
+      "rank": 42,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 97842,
+      "num": 226777,
+      "word": "每天准时来接孩子的狗叔",
+      "onboard_time": 1777568418,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -523,24 +587,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 91635,
-      "num": 226777,
-      "word": "每天准时来接孩子的狗叔",
-      "onboard_time": 1777568418,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 90665,
-      "num": 90665,
-      "word": "国防部称不必大惊小怪过度解读",
-      "onboard_time": 1777592238,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 87650,
-      "num": 87650,
+      "raw_hot": 89824,
+      "num": 89824,
       "word": "湖北荆州市监利市3.7级地震",
       "onboard_time": 1777591037,
       "rank": 44,
@@ -579,28 +627,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77992,
-      "num": 77992,
-      "word": "华为送时代少年团花篮",
-      "onboard_time": 1777590016,
-      "rank": 42,
-      "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 73822,
-      "num": 78417,
-      "word": "男子突遭重大变故车内连睡7天",
-      "onboard_time": 1777593618,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69807,
       "num": 144730,
       "word": "王毅同美国国务卿鲁比奥通电话",
       "onboard_time": 1777593078,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68580,
+      "num": 89192,
+      "word": "罗永浩自曝可能误伤西门子",
+      "onboard_time": 1777593978,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 68270,
@@ -707,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43964,
+      "num": 203690,
+      "word": "多艘伊朗超级油轮在美军封锁线内集结",
+      "onboard_time": 1777593739,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41746,
       "num": 223212,
       "word": "国防部回应辽宁舰四川舰过航台湾海峡",
@@ -755,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30567,
+      "num": 103207,
+      "word": "陶昕然否认与芒果闹僵",
+      "onboard_time": 1777593798,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28965,
       "num": 194196,
       "word": "国羽晋级尤杯四强",
@@ -771,7 +827,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14048,
+      "raw_hot": 15942,
+      "num": 274739,
+      "word": "北京国际车展",
+      "onboard_time": 1777593137,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 14533,
       "num": 314322,
       "word": "幻月新游戏",
       "onboard_time": 1777555041,
@@ -785,14 +849,6 @@
       "onboard_time": 1777591336,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7374,
-      "num": 274739,
-      "word": "北京国际车展",
-      "onboard_time": 1777593137,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 5941,

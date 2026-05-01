@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 08:01:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 08:15:34
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ U23国足亚军（热度：2760241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89%23" target="weibo">
+孙杨玩游戏真打了范明一耳光（热度：2737250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E8%A1%A8%E6%83%85%23" target="weibo">
 齐思钧表情（热度：2736520）
 </a>
@@ -1607,12 +1613,6 @@ KSG零封狼队（热度：2440831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%9F%A5%23" target="weibo">
 马兴瑞被查（热度：2418500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89%23" target="weibo">
-孙杨玩游戏真打了范明一耳光（热度：2418138）
 </a>
 </li>
 
