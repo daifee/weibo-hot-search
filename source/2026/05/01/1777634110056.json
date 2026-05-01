@@ -1,0 +1,410 @@
+{
+  "runTime": 1777634110056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 812934,
+        "num": 1130069,
+        "word": "甲亢哥在深圳买的手机掉海里了",
+        "onboard_time": 1777624459,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543313,
+        "num": 1119565,
+        "word": "著名企业家李建宏国外遭车祸去世",
+        "onboard_time": 1777621939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14205,
+        "num": 1075458,
+        "word": "用画笔定格追光的他们是什么体验",
+        "onboard_time": 1777623200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687276,
+        "num": 1035989,
+        "word": "李建宏讣告",
+        "onboard_time": 1777632079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1908221,
+        "num": 1001345,
+        "word": "对方拒绝了你的恶意",
+        "onboard_time": 1777620979,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 996897,
+        "num": 996897,
+        "word": "发明创可贴当鼠标垫的是天才",
+        "onboard_time": 1777626679,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561282,
+        "num": 561282,
+        "word": "五一档票房",
+        "onboard_time": 1777618639,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464069,
+        "num": 464069,
+        "word": "陈芋汐卢为10米台金牌",
+        "onboard_time": 1777624819,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165225,
+        "num": 463937,
+        "word": "狼队 人屠双向辜负",
+        "onboard_time": 1777628840,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66282,
+        "num": 462167,
+        "word": "全国首位C919女机长顺利首飞",
+        "onboard_time": 1777633280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3998872,
+        "num": 461035,
+        "word": "白鹿 跑男",
+        "onboard_time": 1777628538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028686,
+        "num": 459347,
+        "word": "金靖回应瘦到认不出",
+        "onboard_time": 1777622179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486242,
+        "num": 458016,
+        "word": "过桥咪线",
+        "onboard_time": 1777629680,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 811137,
+        "num": 457654,
+        "word": "一吻定情女主结婚",
+        "onboard_time": 1777630760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660143,
+        "num": 455732,
+        "word": "顾茜茜怀孕五个月了",
+        "onboard_time": 1777611199,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254058,
+        "num": 454246,
+        "word": "美伊停火谈判",
+        "onboard_time": 1777631539,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 532303,
+        "num": 453733,
+        "word": "初代跑男",
+        "onboard_time": 1777626679,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325909,
+        "num": 451614,
+        "word": "曾沛慈一把牵走张慧雯",
+        "onboard_time": 1777633641,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58709,
+        "num": 450582,
+        "word": "鸿蒙智行4月交付32759辆汽车",
+        "onboard_time": 1777617259,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 449246,
+        "word": "寻找各行各业的张雪",
+        "onboard_time": 1777633280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565999,
+        "num": 447957,
+        "word": "阚清子为穿仙女裙有多拼",
+        "onboard_time": 1777631899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447665,
+        "num": 447665,
+        "word": "妈妈自曝曾故意不让瑶一瑶白天睡觉",
+        "onboard_time": 1777616721,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 437008,
+        "num": 437008,
+        "word": "陕西11岁失联男孩遗体被发现",
+        "onboard_time": 1777625360,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311198,
+        "num": 311198,
+        "word": "张月把你的水晶手串摘了",
+        "onboard_time": 1777625780,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302715,
+        "num": 302715,
+        "word": "Angelababy的五月行程",
+        "onboard_time": 1777625539,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243229,
+        "num": 299054,
+        "word": "什么细节让你觉得一个人可靠",
+        "onboard_time": 1777630579,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298906,
+        "num": 298906,
+        "word": "穿普拉达的女王 米兰达坐经济舱",
+        "onboard_time": 1777619119,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274323,
+        "num": 274323,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777620499,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225521,
+        "num": 225521,
+        "word": "男子健身时锁扣断裂被弹飞致瘫痪",
+        "onboard_time": 1777629320,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85138,
+        "num": 219845,
+        "word": "特朗普称美国结束对伊朗战争",
+        "onboard_time": 1777610059,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243539,
+        "num": 219648,
+        "word": "何宣林 镜头",
+        "onboard_time": 1777619720,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218799,
+        "num": 218799,
+        "word": "金靖说减脂最关键是保暖和睡眠",
+        "onboard_time": 1777633700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217284,
+        "num": 217284,
+        "word": "不爱睡觉的国家迎来了最懂他的奶茶",
+        "onboard_time": 1777618639,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197542,
+        "num": 197542,
+        "word": "真的有人能成功请到这三天假吗",
+        "onboard_time": 1777633459,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196406,
+        "num": 196406,
+        "word": "因为小三好看不让女儿好看",
+        "onboard_time": 1777622659,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195153,
+        "num": 195153,
+        "word": "电影消失的人第89分钟全场尖叫",
+        "onboard_time": 1777632559,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172869,
+        "num": 185370,
+        "word": "南开大学已成立调查组",
+        "onboard_time": 1777615699,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179943,
+        "num": 179943,
+        "word": "刘诗诗新西兰荡秋千",
+        "onboard_time": 1777629980,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175746,
+        "num": 175746,
+        "word": "何不同舟渡 檀健次卢昱晓曹骏",
+        "onboard_time": 1777620020,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130045,
+        "num": 165066,
+        "word": "你初来人间她已是暮年",
+        "onboard_time": 1777623622,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58695,
+        "num": 158511,
+        "word": "明日方舟达美乐比萨联动",
+        "onboard_time": 1777633759,
+        "rank": 40,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 155967,
+        "num": 155967,
+        "word": "看话剧偶遇王菲",
+        "onboard_time": 1777630879,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153291,
+        "num": 153291,
+        "word": "苏新皓盲盒",
+        "onboard_time": 1777633581,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126758,
+        "num": 126758,
+        "word": "樊振东5月赛程",
+        "onboard_time": 1777629739,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131112,
+        "num": 126174,
+        "word": "张月 浪姐七跪一",
+        "onboard_time": 1777627821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83992,
+        "num": 124158,
+        "word": "美国人把英国国旗挂反了",
+        "onboard_time": 1777629440,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58936,
+        "num": 123895,
+        "word": "新SU7开进上海百年张园",
+        "onboard_time": 1777628059,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123873,
+        "num": 123873,
+        "word": "迪丽热巴和素人合影",
+        "onboard_time": 1777607058,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122832,
+        "num": 122832,
+        "word": "孙颖莎把队友逗得开怀大笑",
+        "onboard_time": 1777631359,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 122778,
+        "word": "曾沛慈个人喜爱度第五",
+        "onboard_time": 1777614140,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语劳动者#"
+    }
+  }
+}

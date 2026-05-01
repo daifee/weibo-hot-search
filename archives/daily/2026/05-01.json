@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777629925252,
+  "endTime": 1777634110056,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -11,18 +11,18 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 3255384,
-      "num": 308736,
-      "word": "金靖瘦到认不出来",
-      "onboard_time": 1777546818,
+      "raw_hot": 3998872,
+      "num": 461035,
+      "word": "白鹿 跑男",
+      "onboard_time": 1777628538,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 3146797,
-      "num": 410916,
-      "word": "白鹿 跑男",
-      "onboard_time": 1777628538,
+      "raw_hot": 3255384,
+      "num": 308736,
+      "word": "金靖瘦到认不出来",
+      "onboard_time": 1777546818,
       "rank": 10,
       "category": "艺人"
     },
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2499356,
-      "num": 765539,
+      "num": 1001345,
       "word": "对方拒绝了你的恶意",
       "onboard_time": 1777620979,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1390747,
-      "num": 406005,
+      "num": 459347,
       "word": "金靖回应瘦到认不出",
       "onboard_time": 1777622179,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1305004,
-      "num": 364746,
+      "num": 455732,
       "word": "顾茜茜怀孕五个月了",
       "onboard_time": 1777611199,
       "rank": 10,
@@ -115,8 +115,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 925631,
-      "num": 711791,
+      "raw_hot": 996897,
+      "num": 996897,
       "word": "发明创可贴当鼠标垫的是天才",
       "onboard_time": 1777626679,
       "rank": 5,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 889813,
-      "num": 305024,
+      "num": 447665,
       "word": "妈妈自曝曾故意不让瑶一瑶白天睡觉",
       "onboard_time": 1777616721,
       "rank": 20,
@@ -145,6 +145,22 @@
       "onboard_time": 1777624819,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 812934,
+      "num": 1130069,
+      "word": "甲亢哥在深圳买的手机掉海里了",
+      "onboard_time": 1777624459,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 811137,
+      "num": 457654,
+      "word": "一吻定情女主结婚",
+      "onboard_time": 1777630760,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 791267,
@@ -201,6 +217,14 @@
       "onboard_time": 1777614140,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687276,
+      "num": 1035989,
+      "word": "李建宏讣告",
+      "onboard_time": 1777632079,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684946,
@@ -283,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565999,
+      "num": 447957,
+      "word": "阚清子为穿仙女裙有多拼",
+      "onboard_time": 1777631899,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549446,
       "num": 549446,
       "word": "张月把你的水晶手串摘了",
       "onboard_time": 1777625780,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 543313,
+      "num": 1119565,
+      "word": "著名企业家李建宏国外遭车祸去世",
+      "onboard_time": 1777621939,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 542013,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486242,
+      "num": 458016,
+      "word": "过桥咪线",
+      "onboard_time": 1777629680,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481626,
       "num": 481626,
       "word": "宗师 AG",
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 478060,
-      "num": 278666,
+      "num": 302715,
       "word": "Angelababy的五月行程",
       "onboard_time": 1777625539,
       "rank": 21,
@@ -395,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433227,
-      "num": 433227,
-      "word": "甲亢哥在深圳买的手机掉海里了",
-      "onboard_time": 1777624459,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 393346,
       "num": 320610,
       "word": "你终于发现上大学的真正主线了",
@@ -439,14 +479,6 @@
       "num": 237117,
       "word": "台男子车站性侵女游客被判5年",
       "onboard_time": 1777557742,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352901,
-      "num": 352901,
-      "word": "著名企业家李建宏国外遭车祸去世",
-      "onboard_time": 1777621939,
       "rank": 12,
       "category": "民生新闻"
     },
@@ -505,6 +537,14 @@
       "onboard_time": 1777615039,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325909,
+      "num": 451614,
+      "word": "曾沛慈一把牵走张慧雯",
+      "onboard_time": 1777633641,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 324356,
@@ -635,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274323,
+      "num": 274323,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1777620499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 274003,
       "num": 274003,
       "word": "何不同舟渡",
@@ -683,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254058,
+      "num": 454246,
+      "word": "美伊停火谈判",
+      "onboard_time": 1777631539,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
@@ -705,6 +761,14 @@
       "onboard_time": 1777593739,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243229,
+      "num": 299054,
+      "word": "什么细节让你觉得一个人可靠",
+      "onboard_time": 1777630579,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 241859,
@@ -739,12 +803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225521,
+      "num": 225521,
+      "word": "男子健身时锁扣断裂被弹飞致瘫痪",
+      "onboard_time": 1777629320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221424,
       "num": 195987,
       "word": "十个勤天 最后一次合体巡演",
       "onboard_time": 1777592358,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218799,
+      "num": 218799,
+      "word": "金靖说减脂最关键是保暖和睡眠",
+      "onboard_time": 1777633700,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 218003,
@@ -803,12 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205029,
-      "num": 205029,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1777620499,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 197542,
+      "num": 197542,
+      "word": "真的有人能成功请到这三天假吗",
+      "onboard_time": 1777633459,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195153,
+      "num": 195153,
+      "word": "电影消失的人第89分钟全场尖叫",
+      "onboard_time": 1777632559,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 193832,
@@ -851,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179943,
+      "num": 179943,
+      "word": "刘诗诗新西兰荡秋千",
+      "onboard_time": 1777629980,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178672,
       "num": 164102,
       "word": "张月 浪姐七跪一",
@@ -873,14 +969,6 @@
       "onboard_time": 1777600939,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172987,
-      "num": 172987,
-      "word": "男子健身时锁扣断裂被弹飞致瘫痪",
-      "onboard_time": 1777629320,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171995,
@@ -908,7 +996,7 @@
     },
     {
       "raw_hot": 169044,
-      "num": 431749,
+      "num": 463937,
       "word": "狼队 人屠双向辜负",
       "onboard_time": 1777628840,
       "rank": 9,
@@ -955,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "看话剧偶遇王菲",
+      "onboard_time": 1777630879,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155510,
       "num": 236651,
       "word": "孙杨因为没给张豆豆办婚礼哭了",
@@ -969,6 +1065,14 @@
       "onboard_time": 1777554081,
       "rank": 35,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 153291,
+      "num": 153291,
+      "word": "苏新皓盲盒",
+      "onboard_time": 1777633581,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 153231,
@@ -1051,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141644,
-      "num": 141644,
-      "word": "过桥咪线",
-      "onboard_time": 1777629680,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140330,
       "num": 324175,
       "word": "小米汽车4月交付量超3万台",
@@ -1108,7 +1204,7 @@
     },
     {
       "raw_hot": 134126,
-      "num": 323390,
+      "num": 450582,
       "word": "鸿蒙智行4月交付32759辆汽车",
       "onboard_time": 1777617259,
       "rank": 14,
@@ -1163,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126758,
+      "num": 126758,
+      "word": "樊振东5月赛程",
+      "onboard_time": 1777629739,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124724,
       "num": 124724,
       "word": "不要生吃或半生吃猪肉牛肉",
@@ -1187,20 +1291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122832,
+      "num": 122832,
+      "word": "孙颖莎把队友逗得开怀大笑",
+      "onboard_time": 1777631359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122336,
       "num": 231268,
       "word": "跑男老来得子",
       "onboard_time": 1777548800,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121888,
-      "num": 121888,
-      "word": "樊振东5月赛程",
-      "onboard_time": 1777629739,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 121460,
@@ -1387,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83992,
+      "num": 124158,
+      "word": "美国人把英国国旗挂反了",
+      "onboard_time": 1777629440,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82243,
       "num": 229861,
       "word": "冰箱的寒气被生姜给逼出来了",
@@ -1459,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66282,
+      "num": 462167,
+      "word": "全国首位C919女机长顺利首飞",
+      "onboard_time": 1777633280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64177,
       "num": 64177,
       "word": "王一博85号车手任意状态",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1777615519,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 58695,
+      "num": 158511,
+      "word": "明日方舟达美乐比萨联动",
+      "onboard_time": 1777633759,
+      "rank": 40,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 58649,
@@ -1724,7 +1852,7 @@
     },
     {
       "raw_hot": 22334,
-      "num": 781696,
+      "num": 1075458,
       "word": "用画笔定格追光的他们是什么体验",
       "onboard_time": 1777623200,
       "rank": 2,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1777608499,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11236,
+      "num": 449246,
+      "word": "寻找各行各业的张雪",
+      "onboard_time": 1777633280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10135,
