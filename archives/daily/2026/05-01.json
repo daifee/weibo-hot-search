@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777635566453,
+  "endTime": 1777642965088,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -131,12 +131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 973689,
+      "num": 242655,
+      "word": "曝包洁仪整牙花了5万4",
+      "onboard_time": 1777639642,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953576,
       "num": 1035989,
       "word": "李建宏讣告",
       "onboard_time": 1777632079,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 906440,
+      "num": 784335,
+      "word": "真的有人能成功请到这三天假吗",
+      "onboard_time": 1777633459,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 889813,
@@ -151,6 +167,22 @@
       "num": 419834,
       "word": "田曦薇 记得给我开美颜",
       "onboard_time": 1777600999,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 857962,
+      "num": 1137274,
+      "word": "女子照顾瘫痪丈夫19年想有个孩子",
+      "onboard_time": 1777639462,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 817409,
+      "num": 242294,
+      "word": "宋亚轩遗失的心跳solo",
+      "onboard_time": 1777640181,
       "rank": 11,
       "category": "艺人"
     },
@@ -187,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 773312,
+      "num": 773312,
+      "word": "这不叫堵车 这叫铺红地毯",
+      "onboard_time": 1777636762,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 770911,
       "num": 297407,
       "word": "罗永浩采访颠覆了我对蔡康永的认知",
@@ -203,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748488,
+      "num": 748488,
+      "word": "张真源唱在加纳共和国离婚",
+      "onboard_time": 1777637542,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 739787,
       "num": 739787,
       "word": "不爱睡觉的国家迎来了最懂他的奶茶",
       "onboard_time": 1777618639,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 732513,
+      "num": 241188,
+      "word": "刘耀文solo好牛",
+      "onboard_time": 1777641621,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 718889,
@@ -371,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508051,
-      "num": 508051,
-      "word": "真的有人能成功请到这三天假吗",
-      "onboard_time": 1777633459,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 505986,
       "num": 308060,
       "word": "女孩溺亡邻居被判赔66万后求再审",
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387164,
+      "num": 236034,
+      "word": "时代少年团演唱会节目单",
+      "onboard_time": 1777635861,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 379516,
       "num": 285924,
       "word": "王濛选曲全是为了李小冉唐艺昕",
@@ -505,6 +561,14 @@
       "onboard_time": 1777557742,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360292,
+      "num": 443567,
+      "word": "什么细节让你觉得一个人可靠",
+      "onboard_time": 1777630579,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 351060,
@@ -537,6 +601,14 @@
       "onboard_time": 1777616899,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337165,
+      "num": 238130,
+      "word": "警方回应莫氏鸡煲已报警",
+      "onboard_time": 1777638381,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 336191,
@@ -595,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308116,
+      "num": 235054,
+      "word": "景区回应刘晓庆和王婆互动冷淡",
+      "onboard_time": 1777634600,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300530,
       "num": 235567,
       "word": "李小冉全脂胳膊",
@@ -625,6 +705,14 @@
       "onboard_time": 1777609579,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293979,
+      "num": 239703,
+      "word": "金靖说减脂最关键是保暖和睡眠",
+      "onboard_time": 1777633700,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 293455,
@@ -683,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283723,
+      "num": 233919,
+      "word": "女子被AI误导闯入毒蛇窝",
+      "onboard_time": 1777636040,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280219,
       "num": 201281,
       "word": "陈冠希46岁状态",
@@ -715,20 +811,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275048,
-      "num": 443567,
-      "word": "什么细节让你觉得一个人可靠",
-      "onboard_time": 1777630579,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274003,
       "num": 274003,
       "word": "何不同舟渡",
       "onboard_time": 1777604838,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271518,
+      "num": 232954,
+      "word": "台湾地震",
+      "onboard_time": 1777640121,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 269129,
@@ -803,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239703,
-      "num": 239703,
-      "word": "金靖说减脂最关键是保暖和睡眠",
-      "onboard_time": 1777633700,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237419,
       "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
@@ -827,12 +915,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232319,
+      "num": 232319,
+      "word": "严浩翔FLY台风",
+      "onboard_time": 1777638861,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231080,
       "num": 235193,
       "word": "28岁攒到10万元女生已申请辞职",
       "onboard_time": 1777544719,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230495,
+      "num": 230495,
+      "word": "TF家族 物料",
+      "onboard_time": 1777637181,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 225521,
@@ -848,6 +952,14 @@
       "word": "十个勤天 最后一次合体巡演",
       "onboard_time": 1777592358,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 218522,
+      "num": 218522,
+      "word": "宋亚轩刘耀文小宇舞台",
+      "onboard_time": 1777638981,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -907,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209736,
+      "num": 209736,
+      "word": "张峻豪伴手礼",
+      "onboard_time": 1777637842,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203816,
+      "num": 203816,
+      "word": "鞠婧祎五一plog",
+      "onboard_time": 1777642821,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195153,
       "num": 195153,
       "word": "电影消失的人第89分钟全场尖叫",
@@ -947,12 +1075,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184360,
-      "num": 184360,
-      "word": "景区回应刘晓庆和王婆互动冷淡",
-      "onboard_time": 1777634600,
-      "rank": 38,
+      "raw_hot": 188864,
+      "num": 188864,
+      "word": "张檬坚持给一岁儿子喂母乳",
+      "onboard_time": 1777635560,
+      "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187870,
+      "num": 187870,
+      "word": "马嘉祺夏宫solo舞台",
+      "onboard_time": 1777638560,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185575,
+      "num": 226516,
+      "word": "突然就没有年龄焦虑了",
+      "onboard_time": 1777632919,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 181621,
@@ -993,6 +1137,14 @@
       "onboard_time": 1777600939,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173672,
+      "num": 238745,
+      "word": "孙颖莎穿上羽绒服了",
+      "onboard_time": 1777635440,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 171995,
@@ -1059,12 +1211,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161671,
+      "num": 243949,
+      "word": "张雪机车练习赛第11名",
+      "onboard_time": 1777639762,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161647,
       "num": 462167,
       "word": "全国首位C919女机长顺利首飞",
       "onboard_time": 1777633280,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161442,
+      "num": 419081,
+      "word": "HLE对战T1",
+      "onboard_time": 1777634839,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 160109,
+      "num": 160109,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 156150,
@@ -1083,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155651,
+      "num": 212860,
+      "word": "小猫被小龙虾一击必杀",
+      "onboard_time": 1777640902,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155510,
       "num": 236651,
       "word": "孙杨因为没给张豆豆办婚礼哭了",
@@ -1097,6 +1281,14 @@
       "onboard_time": 1777554081,
       "rank": 35,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 154055,
+      "num": 154055,
+      "word": "贺峻霖唱了爱情讯息",
+      "onboard_time": 1777639702,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 153291,
@@ -1153,6 +1345,14 @@
       "onboard_time": 1777592177,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143302,
+      "num": 190627,
+      "word": "主人经期贫血晕厥2只狗子立大功",
+      "onboard_time": 1777642460,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142747,
@@ -1379,28 +1579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116517,
-      "num": 419081,
-      "word": "HLE对战T1",
-      "onboard_time": 1777634839,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115823,
       "num": 115823,
       "word": "肖战工作室包场姜妍新片",
       "onboard_time": 1777631899,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115647,
-      "num": 147374,
-      "word": "孙颖莎穿上羽绒服了",
-      "onboard_time": 1777635440,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 114802,
@@ -1441,6 +1625,14 @@
       "onboard_time": 1777615819,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106364,
+      "num": 164483,
+      "word": "部分高档酒店五一房价比节后便宜",
+      "onboard_time": 1777639582,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104679,
@@ -1513,6 +1705,14 @@
       "onboard_time": 1777544840,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92917,
+      "num": 141683,
+      "word": "聪明人五一扎堆捡漏非景区五星酒店",
+      "onboard_time": 1777638981,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89977,
@@ -1595,6 +1795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78373,
+      "num": 235690,
+      "word": "长沙街头武警帅到游客争相拍照",
+      "onboard_time": 1777641740,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75871,
       "num": 376731,
       "word": "王也的人生哲学",
@@ -1649,6 +1857,14 @@
       "onboard_time": 1777594638,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 61168,
+      "num": 242949,
+      "word": "伊朗递交最新谈判方案",
+      "onboard_time": 1777641981,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59120,
@@ -1923,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20823,
+      "num": 786789,
+      "word": "数读我国创新全方位加速突破",
+      "onboard_time": 1777640181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15942,
       "num": 274739,
       "word": "北京国际车展",
@@ -1953,6 +2177,14 @@
       "onboard_time": 1777608499,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12415,
+      "num": 236664,
+      "word": "全国多地机关大院免费停车",
+      "onboard_time": 1777642582,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11236,
@@ -1999,6 +2231,9 @@
     },
     {
       "word": "#总书记寄语劳动者#"
+    },
+    {
+      "word": "#总书记与劳动者面对面心贴心#"
     }
   ]
 }
