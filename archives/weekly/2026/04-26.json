@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777610213742,
+  "endTime": 1777620645490,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -625,6 +625,14 @@
       "onboard_time": 1777391780,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1305004,
+      "num": 324007,
+      "word": "顾茜茜怀孕五个月了",
+      "onboard_time": 1777611199,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1302518,
@@ -1275,6 +1283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 851572,
+      "num": 305024,
+      "word": "妈妈自曝曾故意不让瑶一瑶白天睡觉",
+      "onboard_time": 1777616721,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 848629,
       "num": 2404203,
       "word": "阿联酋退出石油输出国组织",
@@ -1443,12 +1459,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 791267,
+      "num": 845651,
+      "word": "南开大学已成立调查组",
+      "onboard_time": 1777615699,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788440,
       "num": 427635,
       "word": "陈律求痞幼复合",
       "onboard_time": 1777461019,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 784018,
+      "num": 784018,
+      "word": "五一档票房",
+      "onboard_time": 1777618639,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 782050,
@@ -1707,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708584,
+      "num": 708584,
+      "word": "曾沛慈个人喜爱度第五",
+      "onboard_time": 1777614140,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708209,
       "num": 708209,
       "word": "醋酸美甲",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1777345522,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684946,
+      "num": 548549,
+      "word": "何宣林 镜头",
+      "onboard_time": 1777619720,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 684241,
@@ -2379,6 +2427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 551167,
+      "num": 551167,
+      "word": "不爱睡觉的国家迎来了最懂他的奶茶",
+      "onboard_time": 1777618639,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 550109,
       "num": 550109,
       "word": "浪姐 背调",
@@ -2457,6 +2513,14 @@
       "onboard_time": 1777461200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539805,
+      "num": 539805,
+      "word": "家里没遗传到父母优点的孩子",
+      "onboard_time": 1777612579,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 537871,
@@ -2793,6 +2857,14 @@
       "onboard_time": 1777421180,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 497261,
+      "num": 323574,
+      "word": "孙怡选了阚清子",
+      "onboard_time": 1777612039,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 496432,
@@ -3163,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446293,
+      "num": 323083,
+      "word": "陈瑶没选张月",
+      "onboard_time": 1777616658,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445872,
       "num": 289641,
       "word": "苗苗回应手心痣越来越大",
@@ -3217,6 +3297,14 @@
       "onboard_time": 1777337779,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439299,
+      "num": 322868,
+      "word": "穿普拉达的女王 米兰达坐经济舱",
+      "onboard_time": 1777619119,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 439103,
@@ -4147,6 +4235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338426,
+      "num": 322645,
+      "word": "马龙出行带娃参加斯巴达",
+      "onboard_time": 1777616899,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338364,
       "num": 534138,
       "word": "断联42天的8岁伊朗男孩回绍兴上学",
@@ -4227,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332019,
+      "num": 268480,
+      "word": "时代少年团演唱会造型",
+      "onboard_time": 1777615039,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 331541,
       "num": 195885,
       "word": "林志玲凌晨3点给蔡康永发短信",
@@ -4291,6 +4395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324356,
+      "num": 324356,
+      "word": "豆包挑榴莲",
+      "onboard_time": 1777609520,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "仙逆",
@@ -4305,6 +4417,14 @@
       "onboard_time": 1777121123,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322455,
+      "num": 322455,
+      "word": "长沙地铁无人行李箱墙又出现了",
+      "onboard_time": 1777611620,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320794,
@@ -4915,11 +5035,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 269259,
+      "num": 268383,
+      "word": "王濛选曲全是为了李小冉唐艺昕",
+      "onboard_time": 1777618879,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268792,
       "num": 511363,
       "word": "詹姆斯回应火箭湖人赛后一片混乱",
       "onboard_time": 1777278080,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268609,
+      "num": 268609,
+      "word": "约基奇又打架了",
+      "onboard_time": 1777613181,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -4945,6 +5081,14 @@
       "onboard_time": 1777445599,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267102,
+      "num": 267102,
+      "word": "何不同舟渡 檀健次卢昱晓曹骏",
+      "onboard_time": 1777620020,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 266148,
@@ -5067,14 +5211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259169,
-      "num": 259169,
-      "word": "豆包挑榴莲",
-      "onboard_time": 1777609520,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 258933,
       "num": 242481,
       "word": "永远不要惹减肥的人",
@@ -5169,6 +5305,14 @@
       "onboard_time": 1777106840,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253693,
+      "num": 253693,
+      "word": "消失的人 捂眼",
+      "onboard_time": 1777618999,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 253601,
@@ -5459,6 +5603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237419,
+      "num": 322613,
+      "word": "特朗普称美国结束对伊朗战争",
+      "onboard_time": 1777610059,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 237339,
       "num": 237339,
       "word": "李小冉上五哈也难逃抽象",
@@ -5665,6 +5817,14 @@
       "onboard_time": 1777414636,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226396,
+      "num": 268159,
+      "word": "被靠出了人形的北京地铁",
+      "onboard_time": 1777619299,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 226241,
@@ -5929,6 +6089,14 @@
       "onboard_time": 1777297102,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214906,
+      "num": 214906,
+      "word": "10间敢死队 陈思诚水平",
+      "onboard_time": 1777614260,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 214677,
@@ -6233,6 +6401,14 @@
       "onboard_time": 1777446142,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203384,
+      "num": 203384,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1777620499,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 203211,
@@ -6555,6 +6731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190889,
+      "num": 190889,
+      "word": "檀健次工作室 我们一起护剧爱剧",
+      "onboard_time": 1777619539,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190764,
       "num": 190764,
       "word": "石宇奇退赛",
@@ -6835,6 +7019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181621,
+      "num": 254498,
+      "word": "结婚6小时新郎出车祸妻子照顾19年",
+      "onboard_time": 1777619839,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181582,
       "num": 181582,
       "word": "肖战擦眼泪的视频看得让人泪目",
@@ -6929,6 +7121,14 @@
       "onboard_time": 1777549221,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177742,
+      "num": 177742,
+      "word": "浪姐二公乘风值排名",
+      "onboard_time": 1777612219,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 177638,
@@ -8268,7 +8468,7 @@
     },
     {
       "raw_hot": 140330,
-      "num": 256585,
+      "num": 324175,
       "word": "小米汽车4月交付量超3万台",
       "onboard_time": 1777599621,
       "rank": 21,
@@ -8451,6 +8651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134126,
+      "num": 323390,
+      "word": "鸿蒙智行4月交付32759辆汽车",
+      "onboard_time": 1777617259,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133942,
       "num": 309514,
       "word": "尹锡悦二审获刑7年",
@@ -8531,6 +8739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131417,
+      "num": 131417,
+      "word": "一高校招事业编被指近半数为萝卜岗",
+      "onboard_time": 1777614738,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131359,
       "num": 232498,
       "word": "深圳14岁男孩用AI备考押中奥赛题",
@@ -8593,6 +8809,14 @@
       "onboard_time": 1777174160,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127306,
+      "num": 127306,
+      "word": "广州地铁一男子向乘客喷辣椒水",
+      "onboard_time": 1777610299,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126815,
@@ -9155,6 +9379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108181,
+      "num": 189960,
+      "word": "ZETA对战TE",
+      "onboard_time": 1777615819,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108100,
       "num": 97921,
       "word": "易烊千玺终于放假了",
@@ -9203,14 +9435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106632,
-      "num": 136071,
-      "word": "特朗普称美国结束对伊朗战争",
-      "onboard_time": 1777610059,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106193,
       "num": 106193,
       "word": "美国给日本送应急原油仅够用0.4天",
@@ -9225,6 +9449,14 @@
       "onboard_time": 1777209861,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104679,
+      "num": 181714,
+      "word": "金饰克价回落买不买",
+      "onboard_time": 1777614260,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 104672,
@@ -9276,7 +9508,7 @@
     },
     {
       "raw_hot": 103535,
-      "num": 253521,
+      "num": 267516,
       "word": "月销超7万零跑创新高",
       "onboard_time": 1777606399,
       "rank": 25,
@@ -9963,6 +10195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74021,
+      "num": 187402,
+      "word": "第一次觉得五一坐大巴真香",
+      "onboard_time": 1777615940,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74014,
       "num": 147366,
       "word": "东方甄选回应大量用户申请退会员",
@@ -10441,6 +10681,14 @@
       "onboard_time": 1777183280,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59103,
+      "num": 267662,
+      "word": "DeepSeek梦话大赏",
+      "onboard_time": 1777615519,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 59006,
@@ -11299,6 +11547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31042,
+      "num": 131589,
+      "word": "中国首例脑机接口植入患者能下棋了",
+      "onboard_time": 1777599439,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30913,
       "num": 52924,
       "word": "这年头连广告牌都炒CP",
@@ -11737,6 +11993,14 @@
       "onboard_time": 1777608499,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12200,
+      "num": 791552,
+      "word": "文旅活动精彩纷呈点燃假日出行",
+      "onboard_time": 1777603099,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11112,
