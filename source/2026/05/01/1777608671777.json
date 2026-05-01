@@ -1,0 +1,410 @@
+{
+  "runTime": 1777608671777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5707657,
+        "num": 5707657,
+        "word": "孙杨已报案",
+        "onboard_time": 1777607119,
+        "rank": 0,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 1281654,
+        "num": 1362326,
+        "word": "莫氏鸡煲已报警",
+        "onboard_time": 1777603279,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25404,
+        "num": 1138549,
+        "word": "点赞多姿多彩的中国劳动者",
+        "onboard_time": 1777603698,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579489,
+        "num": 579489,
+        "word": "男子突遭重大变故车内连睡7天",
+        "onboard_time": 1777593618,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542013,
+        "num": 542013,
+        "word": "labubu冰箱秒空",
+        "onboard_time": 1777595960,
+        "rank": 4,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 668019,
+        "num": 493746,
+        "word": "肖战 新丽",
+        "onboard_time": 1777599859,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336191,
+        "num": 336191,
+        "word": "面包要涨价了",
+        "onboard_time": 1777595779,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296704,
+        "num": 296704,
+        "word": "酒店249元一晚涨到1600元被吐槽",
+        "onboard_time": 1777603518,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274003,
+        "num": 274003,
+        "word": "何不同舟渡",
+        "onboard_time": 1777604838,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144926,
+        "num": 144926,
+        "word": "苹果创始人站台追觅旗下手机",
+        "onboard_time": 1777596499,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1135639,
+        "num": 144859,
+        "word": "迪丽热巴和素人合影",
+        "onboard_time": 1777607058,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867432,
+        "num": 144295,
+        "word": "田曦薇 记得给我开美颜",
+        "onboard_time": 1777600999,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586019,
+        "num": 143901,
+        "word": "深圳地铁去年亏超371亿元",
+        "onboard_time": 1777600519,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 764298,
+        "num": 143555,
+        "word": "陈璟翊 时代峰峻",
+        "onboard_time": 1777603339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647444,
+        "num": 143236,
+        "word": "初代跑男是不是在商量重组",
+        "onboard_time": 1777592839,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545499,
+        "num": 142723,
+        "word": "labubu冰箱被炒至19999元",
+        "onboard_time": 1777605918,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526766,
+        "num": 142135,
+        "word": "李小冉方向节目组沟通结果曝光",
+        "onboard_time": 1777606821,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505986,
+        "num": 141812,
+        "word": "女孩溺亡邻居被判赔66万后求再审",
+        "onboard_time": 1777605559,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388959,
+        "num": 141398,
+        "word": "金靖瘦到认不出来",
+        "onboard_time": 1777546818,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34074,
+        "num": 140829,
+        "word": "美政府官员称敌对行动已结束",
+        "onboard_time": 1777608079,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152323,
+        "num": 140426,
+        "word": "掘金vs森林狼",
+        "onboard_time": 1777608079,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140330,
+        "num": 140330,
+        "word": "小米汽车4月交付量超3万台",
+        "onboard_time": 1777599621,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120300,
+        "num": 140252,
+        "word": "76人凯尔特人抢七",
+        "onboard_time": 1777606399,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114802,
+        "num": 139809,
+        "word": "罗永浩自曝可能误伤西门子",
+        "onboard_time": 1777593978,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107955,
+        "num": 139530,
+        "word": "宗师 AG",
+        "onboard_time": 1777564941,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 139216,
+        "word": "月销超7万零跑创新高",
+        "onboard_time": 1777606399,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12584,
+        "num": 138881,
+        "word": "美对伊动武60天时限到期",
+        "onboard_time": 1777608499,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378522,
+        "num": 138247,
+        "word": "你终于发现上大学的真正主线了",
+        "onboard_time": 1777602620,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81648,
+        "num": 138184,
+        "word": "保罗进入尼克斯老鹰直播间",
+        "onboard_time": 1777604239,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100234,
+        "num": 137704,
+        "word": "多艘伊朗超级油轮在美军封锁线内集结",
+        "onboard_time": 1777593739,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293455,
+        "num": 137402,
+        "word": "浪姐节目组不让黄灿灿换衣服",
+        "onboard_time": 1777594700,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75520,
+        "num": 136852,
+        "word": "尼克斯老鹰冲突",
+        "onboard_time": 1777602978,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293119,
+        "num": 136825,
+        "word": "女演员一声娘网友感叹内娱在选什么",
+        "onboard_time": 1777604838,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261110,
+        "num": 136429,
+        "word": "香奈儿无底鞋89%网友讨厌",
+        "onboard_time": 1777592117,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 38251,
+        "num": 135952,
+        "word": "五一就该让千问AI劳动",
+        "onboard_time": 1777608140,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214194,
+        "num": 135479,
+        "word": "5月最吸金的星座",
+        "onboard_time": 1777591458,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210284,
+        "num": 135118,
+        "word": "魔力歌先生 喜人",
+        "onboard_time": 1777607540,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62454,
+        "num": 134844,
+        "word": "泰山蜜雪冰城凌晨两点火到繁忙置休",
+        "onboard_time": 1777608560,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21408,
+        "num": 134609,
+        "word": "每一位浪姐都值得橙功",
+        "onboard_time": 1777607899,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190602,
+        "num": 134371,
+        "word": "曝Angelababy爱发朋友圈",
+        "onboard_time": 1777553061,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173754,
+        "num": 133839,
+        "word": "英伟达市值一夜蒸发1.6万亿",
+        "onboard_time": 1777600939,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171330,
+        "num": 133507,
+        "word": "小狗体检肚子duang一下弹出来了",
+        "onboard_time": 1777591817,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162517,
+        "num": 133294,
+        "word": "万花世界",
+        "onboard_time": 1777605979,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155156,
+        "num": 132730,
+        "word": "李晨怀念跑男老成员",
+        "onboard_time": 1777560921,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119197,
+        "num": 132472,
+        "word": "清洁海绵每磨损1克释放650万微塑料",
+        "onboard_time": 1777606458,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152184,
+        "num": 132222,
+        "word": "奔跑吧这期是复古造型",
+        "onboard_time": 1777608021,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142016,
+        "num": 131714,
+        "word": "浪姐给黄灿灿准备的问题",
+        "onboard_time": 1777604479,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108385,
+        "num": 131274,
+        "word": "五一",
+        "onboard_time": 1777591037,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61913,
+        "num": 130944,
+        "word": "桃黑黑王者荣耀活动",
+        "onboard_time": 1777594638,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 130870,
+        "num": 130870,
+        "word": "刘耀文宋亚轩小宇彩排",
+        "onboard_time": 1777594638,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
