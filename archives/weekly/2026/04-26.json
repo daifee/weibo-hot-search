@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777647868597,
+  "endTime": 1777649665397,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2644706,
+      "num": 431963,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2499356,
       "num": 1001345,
       "word": "对方拒绝了你的恶意",
@@ -313,14 +321,6 @@
       "onboard_time": 1777167440,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2031864,
-      "num": 431963,
-      "word": "王菲 你管她干啥",
-      "onboard_time": 1777642882,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 2017226,
@@ -617,6 +617,14 @@
       "onboard_time": 1777433239,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1374651,
+      "num": 865381,
+      "word": "陈思诚说1200万票房不够电影院房租",
+      "onboard_time": 1777646121,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1370061,
@@ -1355,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865381,
-      "num": 865381,
-      "word": "陈思诚说1200万票房不够电影院房租",
-      "onboard_time": 1777646121,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 856190,
       "num": 856190,
       "word": "我妈养我vs我养我自己",
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 769536,
-      "num": 418962,
+      "num": 570581,
       "word": "时团没唱爆米花",
       "onboard_time": 1777646121,
       "rank": 13,
@@ -2600,6 +2600,14 @@
       "word": "马頔说跟孙杨张豆豆相比是正常人",
       "onboard_time": 1777531340,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556874,
+      "num": 323945,
+      "word": "迪丽热巴在还63张自拍的债了",
+      "onboard_time": 1777647142,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3571,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437757,
+      "num": 289712,
+      "word": "李梦额头 鹤吻痕",
+      "onboard_time": 1777646241,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437054,
       "num": 437054,
       "word": "油价又大涨了",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1777289600,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 431795,
+      "num": 264976,
+      "word": "严浩翔FLY台风",
+      "onboard_time": 1777638861,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 430767,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1777271118,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424146,
+      "num": 914484,
+      "word": "火车票开售即售罄的原因找到了",
+      "onboard_time": 1777644082,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422633,
@@ -4049,6 +4081,14 @@
       "onboard_time": 1777618879,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378999,
+      "num": 262523,
+      "word": "刘耀文你随便吧",
+      "onboard_time": 1777648280,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 378928,
@@ -4731,14 +4771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321111,
-      "num": 321111,
-      "word": "迪丽热巴在还63张自拍的债了",
-      "onboard_time": 1777647142,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320794,
       "num": 320794,
       "word": "银行转走1800万存款储户兑现遭拖延",
@@ -5059,14 +5091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295112,
-      "num": 914484,
-      "word": "火车票开售即售罄的原因找到了",
-      "onboard_time": 1777644082,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293979,
       "num": 239703,
       "word": "金靖说减脂最关键是保暖和睡眠",
@@ -5115,6 +5139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 291634,
+      "num": 385569,
+      "word": "王楚钦吐槽伦敦物价高",
+      "onboard_time": 1777647681,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291587,
       "num": 632982,
       "word": "普通人化妆最有效的一步",
@@ -5145,14 +5177,6 @@
       "onboard_time": 1777459759,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289712,
-      "num": 289712,
-      "word": "李梦额头 鹤吻痕",
-      "onboard_time": 1777646241,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 289421,
@@ -5579,6 +5603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260459,
+      "num": 333227,
+      "word": "榴莲大降价有果商1天卖了9千斤",
+      "onboard_time": 1777646661,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260348,
       "num": 260348,
       "word": "周杰伦点赞JH的解析视频",
@@ -5835,14 +5867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 246835,
-      "num": 333227,
-      "word": "榴莲大降价有果商1天卖了9千斤",
-      "onboard_time": 1777646661,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246760,
       "num": 429111,
       "word": "金价涨不动了",
@@ -5971,6 +5995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238504,
+      "num": 446873,
+      "word": "eStar对战TCG",
+      "onboard_time": 1777647321,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238401,
       "num": 291104,
       "word": "邓为像穿了红色肚兜",
@@ -6065,14 +6097,6 @@
       "onboard_time": 1777504638,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233384,
-      "num": 233384,
-      "word": "严浩翔FLY台风",
-      "onboard_time": 1777638861,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 233354,
@@ -6915,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201218,
+      "num": 263769,
+      "word": "5岁男童被自家哈士奇咬伤面部颈部",
+      "onboard_time": 1777646661,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200732,
       "num": 338602,
       "word": "DeepSeek思考过程好萌",
@@ -7067,14 +7099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196318,
-      "num": 263769,
-      "word": "5岁男童被自家哈士奇咬伤面部颈部",
-      "onboard_time": 1777646661,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196183,
       "num": 196183,
       "word": "赵心童无缘打破克鲁斯堡魔咒",
@@ -7185,6 +7209,14 @@
       "onboard_time": 1777163238,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191862,
+      "num": 191862,
+      "word": "朴智旻 最新世首帅",
+      "onboard_time": 1777647503,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 191699,
@@ -7603,6 +7635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178919,
+      "num": 178919,
+      "word": "TCG晋级挑杯八强",
+      "onboard_time": 1777648101,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178726,
       "num": 178726,
       "word": "黄金经历惨烈抛售",
@@ -8003,14 +8043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169927,
-      "num": 446873,
-      "word": "eStar对战TCG",
-      "onboard_time": 1777647321,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169702,
       "num": 169702,
       "word": "乘风真人秀",
@@ -8136,14 +8168,6 @@
       "word": "张凌赫上班仍显有点疼痛",
       "onboard_time": 1777363941,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167214,
-      "num": 167214,
-      "word": "朴智旻 最新世首帅",
-      "onboard_time": 1777647503,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -9115,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140876,
+      "num": 140876,
+      "word": "万千惠不蹭曾沛慈热度带货",
+      "onboard_time": 1777644444,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140643,
       "num": 321117,
       "word": "订婚强奸案母亲想帮儿子找份工作",
@@ -9169,14 +9201,6 @@
       "onboard_time": 1777192760,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138936,
-      "num": 385569,
-      "word": "王楚钦吐槽伦敦物价高",
-      "onboard_time": 1777647681,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 138725,
@@ -9417,6 +9441,14 @@
       "onboard_time": 1777459400,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131698,
+      "num": 131698,
+      "word": "时团广州演唱会接驳车堵车",
+      "onboard_time": 1777645521,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 131533,
@@ -12713,6 +12745,14 @@
       "onboard_time": 1777520300,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19024,
+      "num": 280641,
+      "word": "出行前接到民航局来电险被骗1万",
+      "onboard_time": 1777648641,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 18843,

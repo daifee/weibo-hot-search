@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777647868597,
+  "endTime": 1777649665397,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2644706,
+      "num": 431963,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2499356,
       "num": 1001345,
       "word": "对方拒绝了你的恶意",
       "onboard_time": 1777620979,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2031864,
-      "num": 431963,
-      "word": "王菲 你管她干啥",
-      "onboard_time": 1777642882,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1782178,
@@ -97,6 +97,14 @@
       "onboard_time": 1777622179,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1374651,
+      "num": 865381,
+      "word": "陈思诚说1200万票房不够电影院房租",
+      "onboard_time": 1777646121,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1358555,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865381,
-      "num": 865381,
-      "word": "陈思诚说1200万票房不够电影院房租",
-      "onboard_time": 1777646121,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 845432,
       "num": 690571,
       "word": "时团指纹舞台",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 769536,
-      "num": 418962,
+      "num": 570581,
       "word": "时团没唱爆米花",
       "onboard_time": 1777646121,
       "rank": 13,
@@ -416,6 +416,14 @@
       "word": "阚清子为穿仙女裙有多拼",
       "onboard_time": 1777631899,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556874,
+      "num": 323945,
+      "word": "迪丽热巴在还63张自拍的债了",
+      "onboard_time": 1777647142,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -571,6 +579,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 437757,
+      "num": 289712,
+      "word": "李梦额头 鹤吻痕",
+      "onboard_time": 1777646241,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431795,
+      "num": 264976,
+      "word": "严浩翔FLY台风",
+      "onboard_time": 1777638861,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 424146,
+      "num": 914484,
+      "word": "火车票开售即售罄的原因找到了",
+      "onboard_time": 1777644082,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402045,
       "num": 451614,
       "word": "曾沛慈一把牵走张慧雯",
@@ -609,6 +641,14 @@
       "onboard_time": 1777618879,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378999,
+      "num": 262523,
+      "word": "刘耀文你随便吧",
+      "onboard_time": 1777648280,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 377427,
@@ -723,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321111,
-      "num": 321111,
-      "word": "迪丽热巴在还63张自拍的债了",
-      "onboard_time": 1777647142,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -771,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295112,
-      "num": 914484,
-      "word": "火车票开售即售罄的原因找到了",
-      "onboard_time": 1777644082,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293979,
       "num": 239703,
       "word": "金靖说减脂最关键是保暖和睡眠",
@@ -803,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289712,
-      "num": 289712,
-      "word": "李梦额头 鹤吻痕",
-      "onboard_time": 1777646241,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 291634,
+      "num": 385569,
+      "word": "王楚钦吐槽伦敦物价高",
+      "onboard_time": 1777647681,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 289652,
@@ -971,20 +995,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260459,
+      "num": 333227,
+      "word": "榴莲大降价有果商1天卖了9千斤",
+      "onboard_time": 1777646661,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
       "onboard_time": 1777563921,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246835,
-      "num": 333227,
-      "word": "榴莲大降价有果商1天卖了9千斤",
-      "onboard_time": 1777646661,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246091,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238504,
+      "num": 446873,
+      "word": "eStar对战TCG",
+      "onboard_time": 1777647321,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237419,
       "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1777591098,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 233384,
-      "num": 233384,
-      "word": "严浩翔FLY台风",
-      "onboard_time": 1777638861,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 231080,
@@ -1179,19 +1203,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201218,
+      "num": 263769,
+      "word": "5岁男童被自家哈士奇咬伤面部颈部",
+      "onboard_time": 1777646661,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196355,
       "num": 290776,
       "word": "莫氏鸡煲分店开业客流不及预期",
       "onboard_time": 1777645041,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196318,
-      "num": 263769,
-      "word": "5岁男童被自家哈士奇咬伤面部颈部",
-      "onboard_time": 1777646661,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1217,6 +1241,14 @@
       "onboard_time": 1777620499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191862,
+      "num": 191862,
+      "word": "朴智旻 最新世首帅",
+      "onboard_time": 1777647503,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 190889,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178919,
+      "num": 178919,
+      "word": "TCG晋级挑杯八强",
+      "onboard_time": 1777648101,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178672,
       "num": 164102,
       "word": "张月 浪姐七跪一",
@@ -1307,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169927,
-      "num": 446873,
-      "word": "eStar对战TCG",
-      "onboard_time": 1777647321,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169702,
       "num": 169702,
       "word": "乘风真人秀",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1777628840,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167214,
-      "num": 167214,
-      "word": "朴智旻 最新世首帅",
-      "onboard_time": 1777647503,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 165939,
@@ -1555,20 +1579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140876,
+      "num": 140876,
+      "word": "万千惠不蹭曾沛慈热度带货",
+      "onboard_time": 1777644444,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140330,
       "num": 481710,
       "word": "小米汽车4月交付量超3万台",
       "onboard_time": 1777599621,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 138936,
-      "num": 385569,
-      "word": "王楚钦吐槽伦敦物价高",
-      "onboard_time": 1777647681,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 138702,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1777545139,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131698,
+      "num": 131698,
+      "word": "时团广州演唱会接驳车堵车",
+      "onboard_time": 1777645521,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 131417,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19024,
+      "num": 280641,
+      "word": "出行前接到民航局来电险被骗1万",
+      "onboard_time": 1777648641,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 15942,

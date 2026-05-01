@@ -1,0 +1,410 @@
+{
+  "runTime": 1777649665397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709364,
+        "num": 1113498,
+        "word": "女子照顾瘫痪丈夫19年想有个孩子",
+        "onboard_time": 1777639462,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424146,
+        "num": 808806,
+        "word": "火车票开售即售罄的原因找到了",
+        "onboard_time": 1777644082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14977,
+        "num": 709326,
+        "word": "数读我国创新全方位加速突破",
+        "onboard_time": 1777640181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1374651,
+        "num": 693170,
+        "word": "陈思诚说1200万票房不够电影院房租",
+        "onboard_time": 1777646121,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637661,
+        "num": 637661,
+        "word": "真的有人能成功请到这三天假吗",
+        "onboard_time": 1777633459,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 697721,
+        "num": 570581,
+        "word": "时团没唱爆米花",
+        "onboard_time": 1777646121,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446853,
+        "num": 446853,
+        "word": "发明创可贴当鼠标垫的是天才",
+        "onboard_time": 1777626679,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356395,
+        "num": 356395,
+        "word": "这不叫堵车 这叫铺红地毯",
+        "onboard_time": 1777636762,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238504,
+        "num": 353338,
+        "word": "eStar对战TCG",
+        "onboard_time": 1777647321,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184745,
+        "num": 346008,
+        "word": "上海申花vs成都蓉城",
+        "onboard_time": 1777639521,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2901311,
+        "num": 344200,
+        "word": "难听",
+        "onboard_time": 1777643121,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2644706,
+        "num": 336375,
+        "word": "王菲 你管她干啥",
+        "onboard_time": 1777642882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503365,
+        "num": 328135,
+        "word": "李建宏讣告",
+        "onboard_time": 1777632079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556874,
+        "num": 323945,
+        "word": "迪丽热巴在还63张自拍的债了",
+        "onboard_time": 1777647142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468202,
+        "num": 320450,
+        "word": "时团指纹舞台",
+        "onboard_time": 1777644742,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390555,
+        "num": 314231,
+        "word": "保姆抱娃踩床边台阶摔倒在地",
+        "onboard_time": 1777645102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309617,
+        "num": 309617,
+        "word": "什么细节让你觉得一个人可靠",
+        "onboard_time": 1777630579,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291634,
+        "num": 291634,
+        "word": "王楚钦吐槽伦敦物价高",
+        "onboard_time": 1777647681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104108,
+        "num": 286676,
+        "word": "美伊停火谈判",
+        "onboard_time": 1777631539,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19024,
+        "num": 280641,
+        "word": "出行前接到民航局来电险被骗1万",
+        "onboard_time": 1777648641,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 437757,
+        "num": 277076,
+        "word": "李梦额头 鹤吻痕",
+        "onboard_time": 1777646241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431795,
+        "num": 264976,
+        "word": "严浩翔FLY台风",
+        "onboard_time": 1777638861,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263836,
+        "num": 263836,
+        "word": "主人经期贫血晕厥2只狗子立大功",
+        "onboard_time": 1777642460,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385704,
+        "num": 262716,
+        "word": "张真源唱在加纳共和国离婚",
+        "onboard_time": 1777637542,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378999,
+        "num": 262523,
+        "word": "刘耀文你随便吧",
+        "onboard_time": 1777648280,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260459,
+        "num": 260459,
+        "word": "榴莲大降价有果商1天卖了9千斤",
+        "onboard_time": 1777646661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301194,
+        "num": 256038,
+        "word": "宋亚轩遗失的心跳solo",
+        "onboard_time": 1777640181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243077,
+        "num": 243077,
+        "word": "景区回应刘晓庆和王婆互动冷淡",
+        "onboard_time": 1777634600,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201218,
+        "num": 201218,
+        "word": "5岁男童被自家哈士奇咬伤面部颈部",
+        "onboard_time": 1777646661,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60676,
+        "num": 198754,
+        "word": "伊朗递交最新谈判方案",
+        "onboard_time": 1777641981,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333017,
+        "num": 198642,
+        "word": "刘耀文solo好牛",
+        "onboard_time": 1777641621,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222819,
+        "num": 198385,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777642280,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198025,
+        "num": 198025,
+        "word": "甲亢哥在深圳买的手机掉海里了",
+        "onboard_time": 1777624459,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199593,
+        "num": 196530,
+        "word": "金靖回应瘦到认不出",
+        "onboard_time": 1777622179,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191862,
+        "num": 191862,
+        "word": "朴智旻 最新世首帅",
+        "onboard_time": 1777647503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186321,
+        "num": 186321,
+        "word": "莫氏鸡煲分店开业客流不及预期",
+        "onboard_time": 1777645041,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178919,
+        "num": 178919,
+        "word": "TCG晋级挑杯八强",
+        "onboard_time": 1777648101,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176202,
+        "num": 176202,
+        "word": "金靖说减脂最关键是保暖和睡眠",
+        "onboard_time": 1777633700,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175934,
+        "num": 175934,
+        "word": "一吻定情女主结婚",
+        "onboard_time": 1777630760,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128995,
+        "num": 173307,
+        "word": "台湾地震",
+        "onboard_time": 1777640121,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172478,
+        "num": 172478,
+        "word": "曾沛慈一把牵走张慧雯",
+        "onboard_time": 1777633641,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169195,
+        "num": 169195,
+        "word": "王菊卖700万房子给男友创业这段",
+        "onboard_time": 1777646482,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127375,
+        "num": 168390,
+        "word": "警方回应莫氏鸡煲已报警",
+        "onboard_time": 1777638381,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 167696,
+        "num": 167696,
+        "word": "姜武出演张雪",
+        "onboard_time": 1777644562,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153575,
+        "num": 153575,
+        "word": "时代少年团唱了勇气",
+        "onboard_time": 1777645041,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117464,
+        "num": 144948,
+        "word": "刘国梁拍肩鼓励王楚钦",
+        "onboard_time": 1777645102,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140876,
+        "num": 140876,
+        "word": "万千惠不蹭曾沛慈热度带货",
+        "onboard_time": 1777644444,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131698,
+        "num": 131698,
+        "word": "时团广州演唱会接驳车堵车",
+        "onboard_time": 1777645521,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51456,
+        "num": 130267,
+        "word": "美国人把英国国旗挂反了",
+        "onboard_time": 1777629440,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151191,
+        "num": 129746,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1777635861,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与劳动者面对面心贴心#"
+    }
+  }
+}
