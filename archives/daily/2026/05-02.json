@@ -1,6 +1,6 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777672939289,
+  "endTime": 1777673580201,
   "band_list": [
     {
       "raw_hot": 691473,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 150810,
-      "num": 150810,
+      "num": 250894,
       "word": "这不叫堵车 这叫铺红地毯",
       "onboard_time": 1777636762,
       "rank": 7,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131218,
+      "num": 206753,
+      "word": "人到了一定年纪就会解锁的动作",
+      "onboard_time": 1777656317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125148,
       "num": 138159,
       "word": "刘耀文solo好牛",
@@ -169,14 +177,6 @@
       "onboard_time": 1777650622,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115268,
-      "num": 206753,
-      "word": "人到了一定年纪就会解锁的动作",
-      "onboard_time": 1777656317,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 112878,
@@ -243,20 +243,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78828,
+      "num": 145814,
+      "word": "美军福特号航母离开中东",
+      "onboard_time": 1777654221,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77641,
       "num": 120797,
       "word": "iG战胜WBG",
       "onboard_time": 1777650803,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76365,
-      "num": 145814,
-      "word": "美军福特号航母离开中东",
-      "onboard_time": 1777654221,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73814,
@@ -347,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55815,
+      "num": 109729,
+      "word": "女子被AI误导闯入毒蛇窝",
+      "onboard_time": 1777636040,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53424,
       "num": 111370,
       "word": "时代少年团演唱会节目单",
@@ -369,14 +377,6 @@
       "onboard_time": 1777645102,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49858,
-      "num": 109729,
-      "word": "女子被AI误导闯入毒蛇窝",
-      "onboard_time": 1777636040,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49436,
@@ -411,6 +411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30849,
+      "num": 30849,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29972,
       "num": 30925,
       "word": "伊朗已递交与美谈判最新方案",
@@ -419,16 +427,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28259,
-      "num": 28259,
-      "word": "任嘉伦唱跳太热血了",
-      "onboard_time": 1777664895,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24674,
-      "num": 24674,
+      "raw_hot": 25011,
+      "num": 28851,
       "word": "伊朗递交最新谈判方案",
       "onboard_time": 1777641981,
       "rank": 46,
