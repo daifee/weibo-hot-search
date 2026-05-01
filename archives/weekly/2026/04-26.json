@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777676546861,
+  "endTime": 1777677347594,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -6563,6 +6563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214640,
+      "num": 214640,
+      "word": "人到了一定年纪就会解锁的动作",
+      "onboard_time": 1777656317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214407,
       "num": 280627,
       "word": "A股迎大反转",
@@ -6753,14 +6761,6 @@
       "onboard_time": 1777523361,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209031,
-      "num": 209031,
-      "word": "人到了一定年纪就会解锁的动作",
-      "onboard_time": 1777656317,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 208974,
@@ -8051,6 +8051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170192,
+      "num": 170192,
+      "word": "美军福特号航母离开中东",
+      "onboard_time": 1777654221,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170075,
       "num": 340467,
       "word": "易烊千玺画的直立行走",
@@ -8393,14 +8401,6 @@
       "onboard_time": 1777633280,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161593,
-      "num": 161593,
-      "word": "美军福特号航母离开中东",
-      "onboard_time": 1777654221,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 161574,
@@ -9836,7 +9836,7 @@
     },
     {
       "raw_hot": 117921,
-      "num": 441472,
+      "num": 507568,
       "word": "张雪机车杆位赛第6名",
       "onboard_time": 1777650622,
       "rank": 22,
@@ -11259,6 +11259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69730,
+      "num": 73269,
+      "word": "李若彤被路人认成40岁",
+      "onboard_time": 1777676416,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69721,
       "num": 296197,
       "word": "美国一学生当面怒斥以军恶行",
@@ -11273,6 +11281,14 @@
       "onboard_time": 1777523120,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69356,
+      "num": 69356,
+      "word": "房主任瘦了16斤",
+      "onboard_time": 1777676537,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 68919,
@@ -11811,6 +11827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52980,
+      "num": 73417,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52655,
       "num": 322076,
       "word": "父亲刚出院儿子陪诊查出同款癌症",
@@ -12057,14 +12081,6 @@
       "onboard_time": 1777549823,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44935,
-      "num": 73417,
-      "word": "任嘉伦唱跳太热血了",
-      "onboard_time": 1777664895,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 44903,
@@ -12385,14 +12401,6 @@
       "onboard_time": 1777543280,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34156,
-      "num": 73269,
-      "word": "李若彤被路人认成40岁",
-      "onboard_time": 1777676416,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 34074,
