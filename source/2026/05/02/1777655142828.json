@@ -1,0 +1,410 @@
+{
+  "runTime": 1777655142828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327756,
+        "num": 584125,
+        "word": "女子照顾瘫痪丈夫19年想有个孩子",
+        "onboard_time": 1777639462,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316874,
+        "num": 420533,
+        "word": "真的有人能成功请到这三天假吗",
+        "onboard_time": 1777633459,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11010,
+        "num": 408116,
+        "word": "数读我国创新全方位加速突破",
+        "onboard_time": 1777640181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396964,
+        "num": 396964,
+        "word": "陈思诚说1200万票房不够电影院房租",
+        "onboard_time": 1777646121,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272826,
+        "num": 272826,
+        "word": "时团没唱爆米花",
+        "onboard_time": 1777646121,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240599,
+        "num": 240599,
+        "word": "火车票开售即售罄的原因找到了",
+        "onboard_time": 1777644082,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227212,
+        "num": 227212,
+        "word": "发明创可贴当鼠标垫的是天才",
+        "onboard_time": 1777626679,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150810,
+        "num": 150810,
+        "word": "这不叫堵车 这叫铺红地毯",
+        "onboard_time": 1777636762,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146078,
+        "num": 146078,
+        "word": "王楚钦吐槽伦敦物价高",
+        "onboard_time": 1777647681,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36098,
+        "num": 145814,
+        "word": "美军福特号航母离开中东",
+        "onboard_time": 1777654221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 691473,
+        "num": 145173,
+        "word": "难听",
+        "onboard_time": 1777643121,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336093,
+        "num": 144900,
+        "word": "刘耀文你随便吧",
+        "onboard_time": 1777648280,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259282,
+        "num": 144061,
+        "word": "保姆抱娃踩床边台阶摔倒在地",
+        "onboard_time": 1777645102,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179294,
+        "num": 143678,
+        "word": "李建宏讣告",
+        "onboard_time": 1777632079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167669,
+        "num": 143451,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777642280,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 142945,
+        "word": "榴莲大降价有果商1天卖了9千斤",
+        "onboard_time": 1777646661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136315,
+        "num": 136315,
+        "word": "张真源唱在加纳共和国离婚",
+        "onboard_time": 1777637542,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131614,
+        "num": 131614,
+        "word": "什么细节让你觉得一个人可靠",
+        "onboard_time": 1777630579,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135922,
+        "num": 131226,
+        "word": "主人经期贫血晕厥2只狗子立大功",
+        "onboard_time": 1777642460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17699,
+        "num": 128821,
+        "word": "潮汕五一酒店价格较春节回落明显",
+        "onboard_time": 1777654221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126772,
+        "num": 126772,
+        "word": "王菊卖700万房子给男友创业这段",
+        "onboard_time": 1777646482,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125148,
+        "num": 125148,
+        "word": "刘耀文solo好牛",
+        "onboard_time": 1777641621,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117921,
+        "num": 117921,
+        "word": "张雪机车杆位赛第6名",
+        "onboard_time": 1777650622,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112878,
+        "num": 112878,
+        "word": "5岁男童被自家哈士奇咬伤面部颈部",
+        "onboard_time": 1777646661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112455,
+        "num": 112455,
+        "word": "甲亢哥在深圳买的手机掉海里了",
+        "onboard_time": 1777624459,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111710,
+        "num": 111710,
+        "word": "时团指纹舞台",
+        "onboard_time": 1777644742,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102310,
+        "num": 102310,
+        "word": "莫氏鸡煲分店开业客流不及预期",
+        "onboard_time": 1777645041,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93116,
+        "num": 93116,
+        "word": "白鹿摘了姚译添眼镜给自己戴",
+        "onboard_time": 1777651522,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88494,
+        "num": 93021,
+        "word": "曾沛慈一把牵走张慧雯",
+        "onboard_time": 1777633641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77641,
+        "num": 93000,
+        "word": "iG战胜WBG",
+        "onboard_time": 1777650803,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80671,
+        "num": 92825,
+        "word": "阚清子为穿仙女裙有多拼",
+        "onboard_time": 1777631899,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73814,
+        "num": 92754,
+        "word": "小猫被小龙虾一击必杀",
+        "onboard_time": 1777640902,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72019,
+        "num": 92576,
+        "word": "姜武出演张雪",
+        "onboard_time": 1777644562,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71263,
+        "num": 92522,
+        "word": "徐良太懂四川人了",
+        "onboard_time": 1777654221,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71224,
+        "num": 92374,
+        "word": "时团广州演唱会接驳车堵车",
+        "onboard_time": 1777645521,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70905,
+        "num": 92198,
+        "word": "KPL",
+        "onboard_time": 1777653679,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67444,
+        "num": 92140,
+        "word": "深圳地铁平均每天亏超1个亿",
+        "onboard_time": 1777654819,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67094,
+        "num": 92007,
+        "word": "突然就没有年龄焦虑了",
+        "onboard_time": 1777632919,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61426,
+        "num": 91902,
+        "word": "TCG晋级挑杯八强",
+        "onboard_time": 1777648101,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60885,
+        "num": 91764,
+        "word": "台湾地震",
+        "onboard_time": 1777640121,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 60198,
+        "num": 91721,
+        "word": "心理医生的含金量还在上升",
+        "onboard_time": 1777654819,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56132,
+        "num": 91592,
+        "word": "eStar对战TCG",
+        "onboard_time": 1777647321,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53424,
+        "num": 91455,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1777635861,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53413,
+        "num": 91272,
+        "word": "又发现了新的表白方式",
+        "onboard_time": 1777654999,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53391,
+        "num": 91243,
+        "word": "上海申花vs成都蓉城",
+        "onboard_time": 1777639521,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53337,
+        "num": 91144,
+        "word": "刘国梁拍肩鼓励王楚钦",
+        "onboard_time": 1777645102,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49736,
+        "num": 90935,
+        "word": "胖东来没有淡季只有旺季旺旺季",
+        "onboard_time": 1777649840,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49504,
+        "num": 90873,
+        "word": "女子被AI误导闯入毒蛇窝",
+        "onboard_time": 1777636040,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49436,
+        "num": 90789,
+        "word": "严浩翔FLY台风",
+        "onboard_time": 1777638861,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48056,
+        "num": 90694,
+        "word": "美伊停火谈判",
+        "onboard_time": 1777631539,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与劳动者面对面心贴心#"
+    }
+  }
+}
