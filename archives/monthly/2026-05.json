@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777663342541,
+  "endTime": 1777664960643,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -2403,20 +2403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29972,
+      "num": 30925,
+      "word": "伊朗已递交与美谈判最新方案",
+      "onboard_time": 1777660395,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28965,
       "num": 194196,
       "word": "国羽晋级尤杯四强",
       "onboard_time": 1777564820,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27404,
-      "num": 30925,
-      "word": "伊朗已递交与美谈判最新方案",
-      "onboard_time": 1777660395,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27188,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20767,
+      "num": 23781,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 19024,
