@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777634110056,
+  "endTime": 1777635566453,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -993,6 +993,14 @@
       "onboard_time": 1768532959,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4321847,
+      "num": 474628,
+      "word": "成都车祸",
+      "onboard_time": 1777634539,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4321550,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771753340,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2283647,
-      "num": 834121,
-      "word": "许凯 怪我",
-      "onboard_time": 1776483022,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

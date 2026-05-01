@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 19:15:10
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 19:39:26
 </p>
 </blockquote>
 <p>
@@ -755,6 +755,12 @@ JYP从JYP辞职了（热度：4682490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%85%A8%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
 李湘全平台账号被禁止关注（热度：4325889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8%23" target="weibo">
+成都车祸（热度：4321847）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
 女子U型场地决赛（热度：2285042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%20%E6%80%AA%E6%88%91%23" target="weibo">
-许凯 怪我（热度：2283647）
 </a>
 </li>
 
