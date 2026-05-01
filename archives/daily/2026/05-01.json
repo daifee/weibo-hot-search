@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777644086649,
+  "endTime": 1777647868597,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3511859,
+      "num": 442600,
+      "word": "难听",
+      "onboard_time": 1777643121,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 3255384,
       "num": 308736,
       "word": "金靖瘦到认不出来",
@@ -51,20 +59,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2031864,
+      "num": 431963,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1782178,
       "num": 1782178,
       "word": "中国女孩拍摄靖国神社内部",
       "onboard_time": 1777549161,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1737480,
-      "num": 424463,
-      "word": "王菲 你管她干啥",
-      "onboard_time": 1777642882,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1610160,
@@ -147,14 +155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 989917,
-      "num": 414052,
-      "word": "难听",
-      "onboard_time": 1777643121,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 985079,
       "num": 388991,
       "word": "曝包洁仪整牙花了5万4",
@@ -193,6 +193,22 @@
       "onboard_time": 1777600999,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865381,
+      "num": 865381,
+      "word": "陈思诚说1200万票房不够电影院房租",
+      "onboard_time": 1777646121,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 845432,
+      "num": 690571,
+      "word": "时团指纹舞台",
+      "onboard_time": 1777644742,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 817409,
@@ -249,6 +265,14 @@
       "onboard_time": 1777567938,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769536,
+      "num": 418962,
+      "word": "时团没唱爆米花",
+      "onboard_time": 1777646121,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 764298,
@@ -507,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462935,
+      "num": 406832,
+      "word": "保姆抱娃踩床边台阶摔倒在地",
+      "onboard_time": 1777645102,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458198,
       "num": 261872,
       "word": "曝孟美岐主动放弃公司资源",
@@ -585,6 +617,14 @@
       "onboard_time": 1777638381,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 373206,
+      "num": 373206,
+      "word": "主人经期贫血晕厥2只狗子立大功",
+      "onboard_time": 1777642460,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365683,
@@ -683,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321111,
+      "num": 321111,
+      "word": "迪丽热巴在还63张自拍的债了",
+      "onboard_time": 1777647142,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -723,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295112,
+      "num": 914484,
+      "word": "火车票开售即售罄的原因找到了",
+      "onboard_time": 1777644082,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293979,
       "num": 239703,
       "word": "金靖说减脂最关键是保暖和睡眠",
@@ -744,6 +800,14 @@
       "word": "女演员一声娘网友感叹内娱在选什么",
       "onboard_time": 1777604838,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289712,
+      "num": 289712,
+      "word": "李梦额头 鹤吻痕",
+      "onboard_time": 1777646241,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -795,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282749,
-      "num": 370650,
-      "word": "主人经期贫血晕厥2只狗子立大功",
-      "onboard_time": 1777642460,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280219,
       "num": 201281,
       "word": "陈冠希46岁状态",
@@ -833,6 +889,14 @@
       "onboard_time": 1777571417,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274741,
+      "num": 196855,
+      "word": "刘耀文 暴雨来袭前一秒",
+      "onboard_time": 1777644141,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 274003,
@@ -867,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267417,
+      "num": 267417,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1777642280,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266312,
       "num": 266312,
       "word": "因为小三好看不让女儿好看",
@@ -891,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260536,
+      "num": 260536,
+      "word": "王菊卖700万房子给男友创业这段",
+      "onboard_time": 1777646482,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
       "onboard_time": 1777563921,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246835,
+      "num": 333227,
+      "word": "榴莲大降价有果商1天卖了9千斤",
+      "onboard_time": 1777646661,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246091,
@@ -961,6 +1049,14 @@
       "onboard_time": 1777637181,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227531,
+      "num": 196592,
+      "word": "时代少年团唱了勇气",
+      "onboard_time": 1777645041,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 225521,
@@ -1059,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208966,
+      "num": 455282,
+      "word": "上海申花vs成都蓉城",
+      "onboard_time": 1777639521,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204883,
       "num": 204883,
       "word": "张檬坚持给一岁儿子喂母乳",
@@ -1073,6 +1177,22 @@
       "onboard_time": 1777642821,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196355,
+      "num": 290776,
+      "word": "莫氏鸡煲分店开业客流不及预期",
+      "onboard_time": 1777645041,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196318,
+      "num": 263769,
+      "word": "5岁男童被自家哈士奇咬伤面部颈部",
+      "onboard_time": 1777646661,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195153,
@@ -1131,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181533,
+      "num": 181533,
+      "word": "姜武出演张雪",
+      "onboard_time": 1777644562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179943,
       "num": 179943,
       "word": "刘诗诗新西兰荡秋千",
@@ -1153,14 +1281,6 @@
       "onboard_time": 1777612219,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177619,
-      "num": 177619,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1777642280,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 174688,
@@ -1187,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169927,
+      "num": 446873,
+      "word": "eStar对战TCG",
+      "onboard_time": 1777647321,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169702,
       "num": 169702,
       "word": "乘风真人秀",
@@ -1209,6 +1337,14 @@
       "onboard_time": 1777628840,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167214,
+      "num": 167214,
+      "word": "朴智旻 最新世首帅",
+      "onboard_time": 1777647503,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 165939,
@@ -1273,6 +1409,14 @@
       "onboard_time": 1777634839,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156435,
+      "num": 173443,
+      "word": "刘国梁拍肩鼓励王楚钦",
+      "onboard_time": 1777645102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 156150,
@@ -1417,6 +1561,14 @@
       "onboard_time": 1777599621,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138936,
+      "num": 385569,
+      "word": "王楚钦吐槽伦敦物价高",
+      "onboard_time": 1777647681,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 138702,
@@ -1651,14 +1803,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 108903,
-      "num": 143234,
-      "word": "上海申花vs成都蓉城",
-      "onboard_time": 1777639521,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108384,
       "num": 108384,
       "word": "多地五一机票价格跳水",
@@ -1673,6 +1817,14 @@
       "onboard_time": 1777615819,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106559,
+      "num": 260610,
+      "word": "辽宁男篮vs山东男篮",
+      "onboard_time": 1777646661,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 106364,
@@ -2163,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22730,
+      "num": 889675,
+      "word": "数读我国创新全方位加速突破",
+      "onboard_time": 1777640181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22334,
       "num": 1075458,
       "word": "用画笔定格追光的他们是什么体验",
@@ -2177,14 +2337,6 @@
       "onboard_time": 1777607899,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20823,
-      "num": 786789,
-      "word": "数读我国创新全方位加速突破",
-      "onboard_time": 1777640181,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15942,

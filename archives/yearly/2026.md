@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 22:01:26
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/01 23:04:28
 </p>
 </blockquote>
 <p>
@@ -975,6 +975,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：3511859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E9%AB%98%E4%BD%86%E6%98%AF%E5%BE%88%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 工资高但是很孤独的工作（热度：3509532）
 </a>
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
 马年纪念币预约（热度：2285482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
-女子U型场地决赛（热度：2285042）
 </a>
 </li>
 

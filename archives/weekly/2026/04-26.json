@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777644086649,
+  "endTime": 1777647868597,
   "band_list": [
     {
       "raw_hot": 20570655,
@@ -113,6 +113,14 @@
       "onboard_time": 1777519520,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3511859,
+      "num": 442600,
+      "word": "难听",
+      "onboard_time": 1777643121,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 3131250,
@@ -307,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2031864,
+      "num": 431963,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2017226,
       "num": 796021,
       "word": "孙杨方否认妈妈和节目组联系",
@@ -377,14 +393,6 @@
       "onboard_time": 1777539140,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1737480,
-      "num": 424463,
-      "word": "王菲 你管她干啥",
-      "onboard_time": 1777642882,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1725866,
@@ -1027,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 989917,
-      "num": 414052,
-      "word": "难听",
-      "onboard_time": 1777643121,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 985428,
       "num": 1157668,
       "word": "Meta Manus",
@@ -1355,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 865381,
+      "num": 865381,
+      "word": "陈思诚说1200万票房不够电影院房租",
+      "onboard_time": 1777646121,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 856190,
       "num": 856190,
       "word": "我妈养我vs我养我自己",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1777380861,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 845432,
+      "num": 690571,
+      "word": "时团指纹舞台",
+      "onboard_time": 1777644742,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 844265,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1777332377,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 769536,
+      "num": 418962,
+      "word": "时团没唱爆米花",
+      "onboard_time": 1777646121,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 767681,
@@ -3331,6 +3355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 462935,
+      "num": 406832,
+      "word": "保姆抱娃踩床边台阶摔倒在地",
+      "onboard_time": 1777645102,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459164,
       "num": 459164,
       "word": "96岁奶奶回应10年还清2077万债",
@@ -4091,6 +4123,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 373206,
+      "num": 373206,
+      "word": "主人经期贫血晕厥2只狗子立大功",
+      "onboard_time": 1777642460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372942,
       "num": 372942,
       "word": "粉色榴莲",
@@ -4691,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321111,
+      "num": 321111,
+      "word": "迪丽热巴在还63张自拍的债了",
+      "onboard_time": 1777647142,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320794,
       "num": 320794,
       "word": "银行转走1800万存款储户兑现遭拖延",
@@ -5011,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295112,
+      "num": 914484,
+      "word": "火车票开售即售罄的原因找到了",
+      "onboard_time": 1777644082,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293979,
       "num": 239703,
       "word": "金靖说减脂最关键是保暖和睡眠",
@@ -5089,6 +5145,14 @@
       "onboard_time": 1777459759,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289712,
+      "num": 289712,
+      "word": "李梦额头 鹤吻痕",
+      "onboard_time": 1777646241,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 289421,
@@ -5187,14 +5251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282749,
-      "num": 370650,
-      "word": "主人经期贫血晕厥2只狗子立大功",
-      "onboard_time": 1777642460,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281993,
       "num": 281993,
       "word": "谢娜回复者来女",
@@ -5273,6 +5329,14 @@
       "onboard_time": 1777549161,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274741,
+      "num": 196855,
+      "word": "刘耀文 暴雨来袭前一秒",
+      "onboard_time": 1777644141,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 274422,
@@ -5395,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267417,
+      "num": 267417,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1777642280,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266312,
       "num": 266312,
       "word": "因为小三好看不让女儿好看",
@@ -5489,6 +5561,14 @@
       "onboard_time": 1777129043,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260536,
+      "num": 260536,
+      "word": "王菊卖700万房子给男友创业这段",
+      "onboard_time": 1777646482,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 260472,
@@ -5753,6 +5833,14 @@
       "onboard_time": 1777563921,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246835,
+      "num": 333227,
+      "word": "榴莲大降价有果商1天卖了9千斤",
+      "onboard_time": 1777646661,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246760,
@@ -6113,6 +6201,14 @@
       "onboard_time": 1777521140,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227531,
+      "num": 196592,
+      "word": "时代少年团唱了勇气",
+      "onboard_time": 1777645041,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 227379,
@@ -6643,6 +6739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208966,
+      "num": 455282,
+      "word": "上海申花vs成都蓉城",
+      "onboard_time": 1777639521,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208707,
       "num": 208707,
       "word": "肖战包场爱情没有神话",
@@ -6953,6 +7057,22 @@
       "onboard_time": 1777258459,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196355,
+      "num": 290776,
+      "word": "莫氏鸡煲分店开业客流不及预期",
+      "onboard_time": 1777645041,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196318,
+      "num": 263769,
+      "word": "5岁男童被自家哈士奇咬伤面部颈部",
+      "onboard_time": 1777646661,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196183,
@@ -7411,6 +7531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181533,
+      "num": 181533,
+      "word": "姜武出演张雪",
+      "onboard_time": 1777644562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180398,
       "num": 171469,
       "word": "阚清子太争气了",
@@ -7537,14 +7665,6 @@
       "onboard_time": 1777152434,
       "rank": 19,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 177619,
-      "num": 177619,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1777642280,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 177533,
@@ -7883,6 +8003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169927,
+      "num": 446873,
+      "word": "eStar对战TCG",
+      "onboard_time": 1777647321,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169702,
       "num": 169702,
       "word": "乘风真人秀",
@@ -8008,6 +8136,14 @@
       "word": "张凌赫上班仍显有点疼痛",
       "onboard_time": 1777363941,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167214,
+      "num": 167214,
+      "word": "朴智旻 最新世首帅",
+      "onboard_time": 1777647503,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -8345,6 +8481,14 @@
       "onboard_time": 1777551261,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156435,
+      "num": 173443,
+      "word": "刘国梁拍肩鼓励王楚钦",
+      "onboard_time": 1777645102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 156150,
@@ -9025,6 +9169,14 @@
       "onboard_time": 1777192760,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138936,
+      "num": 385569,
+      "word": "王楚钦吐槽伦敦物价高",
+      "onboard_time": 1777647681,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 138725,
@@ -9947,14 +10099,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 108903,
-      "num": 143234,
-      "word": "上海申花vs成都蓉城",
-      "onboard_time": 1777639521,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108841,
       "num": 223599,
       "word": "台评论员谈美日菲军演解放军围观",
@@ -10033,6 +10177,14 @@
       "onboard_time": 1777330818,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106559,
+      "num": 260610,
+      "word": "辽宁男篮vs山东男篮",
+      "onboard_time": 1777646661,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 106364,
@@ -12475,6 +12627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22730,
+      "num": 889675,
+      "word": "数读我国创新全方位加速突破",
+      "onboard_time": 1777640181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22492,
       "num": 290084,
       "word": "男子用15家空壳公司虚开3499份发票",
@@ -12521,14 +12681,6 @@
       "onboard_time": 1777390342,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 20823,
-      "num": 786789,
-      "word": "数读我国创新全方位加速突破",
-      "onboard_time": 1777640181,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20481,
