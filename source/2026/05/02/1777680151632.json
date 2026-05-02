@@ -1,0 +1,410 @@
+{
+  "runTime": 1777680151632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775162,
+        "num": 1124026,
+        "word": "跑男什么时候变成这样了",
+        "onboard_time": 1777678820,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392930,
+        "num": 824522,
+        "word": "火车票开售即售罄的原因找到了",
+        "onboard_time": 1777644082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14079,
+        "num": 652412,
+        "word": "数读我国创新全方位加速突破",
+        "onboard_time": 1777640181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345890,
+        "num": 345890,
+        "word": "赵又廷回复林更新想你了",
+        "onboard_time": 1777678820,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248120,
+        "num": 248120,
+        "word": "真的有人能成功请到这三天假吗",
+        "onboard_time": 1777633459,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306702,
+        "num": 246593,
+        "word": "陈思诚说1200万票房不够电影院房租",
+        "onboard_time": 1777646121,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240869,
+        "num": 240869,
+        "word": "人到了一定年纪就会解锁的动作",
+        "onboard_time": 1777656317,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 166001,
+        "word": "这不叫堵车 这叫铺红地毯",
+        "onboard_time": 1777636762,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144358,
+        "num": 144358,
+        "word": "吴宜泽7比7艾伦",
+        "onboard_time": 1777679658,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102100,
+        "num": 144000,
+        "word": "F1",
+        "onboard_time": 1777679898,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096108,
+        "num": 143680,
+        "word": "王菲 你管她干啥",
+        "onboard_time": 1777642882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502914,
+        "num": 143108,
+        "word": "中国光伏的堡垒被印度从内部攻破",
+        "onboard_time": 1777679837,
+        "rank": 11,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 433739,
+        "num": 142494,
+        "word": "普通家庭对孩子最好的托举就这11点",
+        "onboard_time": 1777678820,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232079,
+        "num": 141633,
+        "word": "万千惠问三宝自己的下属漂不漂亮",
+        "onboard_time": 1777678820,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207254,
+        "num": 141349,
+        "word": "女子照顾瘫痪丈夫19年想有个孩子",
+        "onboard_time": 1777639462,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202157,
+        "num": 140740,
+        "word": "妻子十一郎首度公开张宇罕见病内情",
+        "onboard_time": 1777678877,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189570,
+        "num": 140326,
+        "word": "难听",
+        "onboard_time": 1777643121,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171252,
+        "num": 139696,
+        "word": "主人经期贫血晕厥2只狗子立大功",
+        "onboard_time": 1777642460,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152092,
+        "num": 139310,
+        "word": "金靖为减肥九点半就睡觉",
+        "onboard_time": 1777679297,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138850,
+        "num": 138850,
+        "word": "美军福特号航母离开中东",
+        "onboard_time": 1777654221,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131603,
+        "num": 131603,
+        "word": "迪丽热巴在还63张自拍的债了",
+        "onboard_time": 1777647142,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "李若彤被路人认成40岁",
+        "onboard_time": 1777676416,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116156,
+        "num": 116156,
+        "word": "保姆抱娃踩床边台阶摔倒在地",
+        "onboard_time": 1777645102,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92370,
+        "num": 109230,
+        "word": "张雪机车杆位赛第6名",
+        "onboard_time": 1777650622,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107249,
+        "num": 107249,
+        "word": "第五人格",
+        "onboard_time": 1777679898,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97953,
+        "num": 97953,
+        "word": "5岁男童被自家哈士奇咬伤面部颈部",
+        "onboard_time": 1777646661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94585,
+        "num": 94585,
+        "word": "李建宏讣告",
+        "onboard_time": 1777632079,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94548,
+        "num": 94548,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777642280,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88552,
+        "num": 88552,
+        "word": "白鹿摘了姚译添眼镜给自己戴",
+        "onboard_time": 1777651522,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87810,
+        "num": 87810,
+        "word": "女子被AI误导闯入毒蛇窝",
+        "onboard_time": 1777636040,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92434,
+        "num": 87636,
+        "word": "曝冰湖重生有庆功宴",
+        "onboard_time": 1777678877,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86848,
+        "num": 86848,
+        "word": "姜武出演张雪",
+        "onboard_time": 1777644562,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85304,
+        "num": 85304,
+        "word": "这个店没了咪不行",
+        "onboard_time": 1777655657,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "深圳地铁平均每天亏超1个亿",
+        "onboard_time": 1777654819,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83705,
+        "num": 83705,
+        "word": "司机到河南送货被塞30斤蒜薹",
+        "onboard_time": 1777674134,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81589,
+        "num": 81589,
+        "word": "张檬坚持给一岁儿子喂母乳",
+        "onboard_time": 1777635560,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78843,
+        "num": 78843,
+        "word": "刘耀文你随便吧",
+        "onboard_time": 1777648280,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77353,
+        "num": 77353,
+        "word": "小猫被小龙虾一击必杀",
+        "onboard_time": 1777640902,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69894,
+        "num": 69894,
+        "word": "房主任瘦了16斤",
+        "onboard_time": 1777676537,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67700,
+        "num": 67700,
+        "word": "发明创可贴当鼠标垫的是天才",
+        "onboard_time": 1777626679,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60785,
+        "num": 60785,
+        "word": "任嘉伦唱跳太热血了",
+        "onboard_time": 1777664895,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59300,
+        "num": 59300,
+        "word": "假期第2天机票价格省一半",
+        "onboard_time": 1777678337,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56702,
+        "num": 56702,
+        "word": "京东把项羽复刻铠甲送回宿迁",
+        "onboard_time": 1777634421,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54897,
+        "num": 54897,
+        "word": "张真源唱在加纳共和国离婚",
+        "onboard_time": 1777637542,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54545,
+        "num": 54545,
+        "word": "王菊卖700万房子给男友创业这段",
+        "onboard_time": 1777646482,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53259,
+        "num": 53259,
+        "word": "胖东来没有淡季只有旺季旺旺季",
+        "onboard_time": 1777649840,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52533,
+        "num": 52533,
+        "word": "甲亢哥在深圳买的手机掉海里了",
+        "onboard_time": 1777624459,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51906,
+        "num": 51906,
+        "word": "榴莲大降价有果商1天卖了9千斤",
+        "onboard_time": 1777646661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42184,
+        "num": 51818,
+        "word": "伊朗递交最新谈判方案",
+        "onboard_time": 1777641981,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51440,
+        "num": 51809,
+        "word": "曾沛慈一把牵走张慧雯",
+        "onboard_time": 1777633641,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与劳动者面对面心贴心#"
+    }
+  }
+}

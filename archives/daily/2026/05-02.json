@@ -1,7 +1,23 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777677347594,
+  "endTime": 1777680151632,
   "band_list": [
+    {
+      "raw_hot": 1096108,
+      "num": 143680,
+      "word": "王菲 你管她干啥",
+      "onboard_time": 1777642882,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 775162,
+      "num": 1124026,
+      "word": "跑男什么时候变成这样了",
+      "onboard_time": 1777678820,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 691473,
       "num": 145173,
@@ -9,6 +25,22 @@
       "onboard_time": 1777643121,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502914,
+      "num": 143108,
+      "word": "中国光伏的堡垒被印度从内部攻破",
+      "onboard_time": 1777679837,
+      "rank": 11,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 433739,
+      "num": 142494,
+      "word": "普通家庭对孩子最好的托举就这11点",
+      "onboard_time": 1777678820,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 396964,
@@ -19,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392930,
+      "num": 824522,
+      "word": "火车票开售即售罄的原因找到了",
+      "onboard_time": 1777644082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371732,
       "num": 431962,
       "word": "真的有人能成功请到这三天假吗",
@@ -27,12 +67,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 364021,
-      "num": 718399,
-      "word": "火车票开售即售罄的原因找到了",
-      "onboard_time": 1777644082,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 345890,
+      "num": 345890,
+      "word": "赵又廷回复林更新想你了",
+      "onboard_time": 1777678820,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 336093,
@@ -67,6 +107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240869,
+      "num": 240869,
+      "word": "人到了一定年纪就会解锁的动作",
+      "onboard_time": 1777656317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232079,
+      "num": 141633,
+      "word": "万千惠问三宝自己的下属漂不漂亮",
+      "onboard_time": 1777678820,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "发明创可贴当鼠标垫的是天才",
@@ -75,12 +131,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214640,
-      "num": 214640,
-      "word": "人到了一定年纪就会解锁的动作",
-      "onboard_time": 1777656317,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 202157,
+      "num": 140740,
+      "word": "妻子十一郎首度公开张宇罕见病内情",
+      "onboard_time": 1777678877,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 198043,
@@ -104,6 +160,14 @@
       "word": "深圳地铁平均每天亏超1个亿",
       "onboard_time": 1777654819,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171252,
+      "num": 140921,
+      "word": "主人经期贫血晕厥2只狗子立大功",
+      "onboard_time": 1777642460,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -132,10 +196,18 @@
     },
     {
       "raw_hot": 158132,
-      "num": 91228,
+      "num": 131603,
       "word": "迪丽热巴在还63张自拍的债了",
       "onboard_time": 1777647142,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152092,
+      "num": 139310,
+      "word": "金靖为减肥九点半就睡觉",
+      "onboard_time": 1777679297,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -143,6 +215,14 @@
       "num": 146078,
       "word": "王楚钦吐槽伦敦物价高",
       "onboard_time": 1777647681,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144358,
+      "num": 144358,
+      "word": "吴宜泽7比7艾伦",
+      "onboard_time": 1777679658,
       "rank": 8,
       "category": "体育"
     },
@@ -163,14 +243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135922,
-      "num": 140921,
-      "word": "主人经期贫血晕厥2只狗子立大功",
-      "onboard_time": 1777642460,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131614,
       "num": 143797,
       "word": "什么细节让你觉得一个人可靠",
@@ -185,6 +257,14 @@
       "onboard_time": 1777641621,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119059,
+      "num": 119059,
+      "word": "李若彤被路人认成40岁",
+      "onboard_time": 1777676416,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 117921,
@@ -219,12 +299,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107249,
+      "num": 107249,
+      "word": "第五人格",
+      "onboard_time": 1777679898,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102310,
       "num": 130643,
       "word": "莫氏鸡煲分店开业客流不及预期",
       "onboard_time": 1777645041,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102100,
+      "num": 144000,
+      "word": "F1",
+      "onboard_time": 1777679898,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 100460,
@@ -243,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92434,
+      "num": 87636,
+      "word": "曝冰湖重生有庆功宴",
+      "onboard_time": 1777678877,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91813,
       "num": 109729,
       "word": "女子被AI误导闯入毒蛇窝",
@@ -259,6 +363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86848,
+      "num": 121434,
+      "word": "姜武出演张雪",
+      "onboard_time": 1777644562,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85304,
+      "num": 117739,
+      "word": "这个店没了咪不行",
+      "onboard_time": 1777655657,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84514,
       "num": 134139,
       "word": "又发现了新的表白方式",
@@ -267,12 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78465,
-      "num": 78465,
+      "raw_hot": 83705,
+      "num": 83705,
       "word": "司机到河南送货被塞30斤蒜薹",
       "onboard_time": 1777674134,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81589,
+      "num": 81589,
+      "word": "张檬坚持给一岁儿子喂母乳",
+      "onboard_time": 1777635560,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 77641,
@@ -291,7 +419,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73814,
+      "raw_hot": 77353,
       "num": 127752,
       "word": "小猫被小龙虾一击必杀",
       "onboard_time": 1777640902,
@@ -305,14 +433,6 @@
       "onboard_time": 1777654819,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72019,
-      "num": 121434,
-      "word": "姜武出演张雪",
-      "onboard_time": 1777644562,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 71263,
@@ -339,16 +459,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69730,
-      "num": 73269,
-      "word": "李若彤被路人认成40岁",
-      "onboard_time": 1777676416,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69356,
-      "num": 69356,
+      "raw_hot": 69894,
+      "num": 69894,
       "word": "房主任瘦了16斤",
       "onboard_time": 1777676537,
       "rank": 25,
@@ -361,14 +473,6 @@
       "onboard_time": 1777649840,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62145,
-      "num": 117739,
-      "word": "这个店没了咪不行",
-      "onboard_time": 1777655657,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 61426,
@@ -385,6 +489,30 @@
       "onboard_time": 1777640121,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 60785,
+      "num": 73417,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 59300,
+      "num": 59300,
+      "word": "假期第2天机票价格省一半",
+      "onboard_time": 1777678337,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56702,
+      "num": 97199,
+      "word": "京东把项羽复刻铠甲送回宿迁",
+      "onboard_time": 1777634421,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 56132,
@@ -419,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52980,
-      "num": 73417,
-      "word": "任嘉伦唱跳太热血了",
-      "onboard_time": 1777664895,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 49436,
       "num": 90789,
       "word": "严浩翔FLY台风",
@@ -451,15 +571,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 43326,
-      "num": 97199,
-      "word": "京东把项羽复刻铠甲送回宿迁",
-      "onboard_time": 1777634421,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41371,
+      "raw_hot": 42184,
       "num": 73551,
       "word": "伊朗递交最新谈判方案",
       "onboard_time": 1777641981,
@@ -491,8 +603,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12889,
-      "num": 421371,
+      "raw_hot": 14079,
+      "num": 652412,
       "word": "数读我国创新全方位加速突破",
       "onboard_time": 1777640181,
       "rank": 2,

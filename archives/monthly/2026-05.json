@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777677347594,
+  "endTime": 1777680151632,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775162,
+      "num": 1124026,
+      "word": "跑男什么时候变成这样了",
+      "onboard_time": 1777678820,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 773312,
       "num": 773312,
       "word": "这不叫堵车 这叫铺红地毯",
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502914,
+      "num": 143108,
+      "word": "中国光伏的堡垒被印度从内部攻破",
+      "onboard_time": 1777679837,
+      "rank": 11,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 497261,
       "num": 323574,
       "word": "孙怡选了阚清子",
@@ -585,6 +601,14 @@
       "onboard_time": 1777646241,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433739,
+      "num": 142494,
+      "word": "普通家庭对孩子最好的托举就这11点",
+      "onboard_time": 1777678820,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 431795,
@@ -705,6 +729,14 @@
       "onboard_time": 1777552101,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345890,
+      "num": 345890,
+      "word": "赵又廷回复林更新想你了",
+      "onboard_time": 1777678820,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 338426,
@@ -1035,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240869,
+      "num": 240869,
+      "word": "人到了一定年纪就会解锁的动作",
+      "onboard_time": 1777656317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238504,
       "num": 446873,
       "word": "eStar对战TCG",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1777591098,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232079,
+      "num": 141633,
+      "word": "万千惠问三宝自己的下属漂不漂亮",
+      "onboard_time": 1777678820,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 231080,
@@ -1155,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214640,
-      "num": 214640,
-      "word": "人到了一定年纪就会解锁的动作",
-      "onboard_time": 1777656317,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214194,
       "num": 212876,
       "word": "5月最吸金的星座",
@@ -1208,6 +1248,14 @@
       "word": "鞠婧祎五一plog",
       "onboard_time": 1777642821,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202157,
+      "num": 140740,
+      "word": "妻子十一郎首度公开张宇罕见病内情",
+      "onboard_time": 1777678877,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1539,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152092,
+      "num": 139310,
+      "word": "金靖为减肥九点半就睡觉",
+      "onboard_time": 1777679297,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146791,
       "num": 146791,
       "word": "官方通报酒店声称蛇很多强制退单",
@@ -1568,6 +1624,14 @@
       "word": "吴宜泽6比2领先艾伦",
       "onboard_time": 1777592177,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144358,
+      "num": 144358,
+      "word": "吴宜泽7比7艾伦",
+      "onboard_time": 1777679658,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1811,6 +1875,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119059,
+      "num": 119059,
+      "word": "李若彤被路人认成40岁",
+      "onboard_time": 1777676416,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118695,
       "num": 118695,
       "word": "伊能静回应恩利争议视频",
@@ -1883,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107249,
+      "num": 107249,
+      "word": "第五人格",
+      "onboard_time": 1777679898,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106559,
       "num": 260610,
       "word": "辽宁男篮vs山东男篮",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1777606399,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102100,
+      "num": 144000,
+      "word": "F1",
+      "onboard_time": 1777679898,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 101358,
@@ -1987,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92434,
+      "num": 87636,
+      "word": "曝冰湖重生有庆功宴",
+      "onboard_time": 1777678877,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89977,
       "num": 132685,
       "word": "76人3比3凯尔特人",
@@ -2019,6 +2115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85304,
+      "num": 117739,
+      "word": "这个店没了咪不行",
+      "onboard_time": 1777655657,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84712,
       "num": 84712,
       "word": "00后夫妻不收彩礼办农村火锅婚礼",
@@ -2033,6 +2137,14 @@
       "onboard_time": 1777654999,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83705,
+      "num": 83705,
+      "word": "司机到河南送货被塞30斤蒜薹",
+      "onboard_time": 1777674134,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82243,
@@ -2073,14 +2185,6 @@
       "onboard_time": 1777628059,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 78465,
-      "num": 78465,
-      "word": "司机到河南送货被塞30斤蒜薹",
-      "onboard_time": 1777674134,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77641,
@@ -2139,28 +2243,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69894,
+      "num": 69894,
+      "word": "房主任瘦了16斤",
+      "onboard_time": 1777676537,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69807,
       "num": 144730,
       "word": "王毅同美国国务卿鲁比奥通电话",
       "onboard_time": 1777593078,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69730,
-      "num": 73269,
-      "word": "李若彤被路人认成40岁",
-      "onboard_time": 1777676416,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69356,
-      "num": 69356,
-      "word": "房主任瘦了16斤",
-      "onboard_time": 1777676537,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 68270,
@@ -2187,20 +2283,28 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 62145,
-      "num": 117739,
-      "word": "这个店没了咪不行",
-      "onboard_time": 1777655657,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61913,
       "num": 130944,
       "word": "桃黑黑王者荣耀活动",
       "onboard_time": 1777594638,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 60785,
+      "num": 73417,
+      "word": "任嘉伦唱跳太热血了",
+      "onboard_time": 1777664895,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 59300,
+      "num": 59300,
+      "word": "假期第2天机票价格省一半",
+      "onboard_time": 1777678337,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59120,
@@ -2265,14 +2369,6 @@
       "onboard_time": 1777533139,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 52980,
-      "num": 73417,
-      "word": "任嘉伦唱跳太热血了",
-      "onboard_time": 1777664895,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 50887,
