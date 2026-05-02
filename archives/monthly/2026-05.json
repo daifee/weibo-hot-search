@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777730122532,
+  "endTime": 1777733832764,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -9,6 +9,14 @@
       "onboard_time": 1777684399,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7018192,
+      "num": 1020452,
+      "word": "严浩翔哭了",
+      "onboard_time": 1777731983,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 6463220,
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 782700,
+      "num": 488569,
+      "word": "中国台北女队教练发文控诉",
+      "onboard_time": 1777732882,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 773312,
       "num": 773312,
       "word": "这不叫堵车 这叫铺红地毯",
@@ -635,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670938,
+      "num": 1487839,
+      "word": "张雪机车回应再次夺冠",
+      "onboard_time": 1777727782,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 668333,
       "num": 668333,
       "word": "初代跑男",
@@ -699,11 +723,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 621889,
-      "num": 621889,
-      "word": "张雪机车回应再次夺冠",
-      "onboard_time": 1777727782,
-      "rank": 18,
+      "raw_hot": 625821,
+      "num": 478250,
+      "word": "刘丁硕假期厕所直播翻车",
+      "onboard_time": 1777728621,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1067,20 +1091,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 430308,
+      "num": 386191,
+      "word": "王橹杰高会",
+      "onboard_time": 1777731022,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426258,
+      "num": 378327,
+      "word": "卢昱晓收藏与檀健次cp视频",
+      "onboard_time": 1777732102,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425229,
       "num": 914484,
       "word": "火车票开售即售罄的原因找到了",
       "onboard_time": 1777644082,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414972,
-      "num": 414972,
-      "word": "刘丁硕假期厕所直播翻车",
-      "onboard_time": 1777728621,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 409346,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1777633641,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397681,
+      "num": 397681,
+      "word": "五一假期真是捅人窝了吧",
+      "onboard_time": 1777720581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396438,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1777635861,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 386137,
+      "num": 331490,
+      "word": "白鹿十周年见面会定档",
+      "onboard_time": 1777730722,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 379516,
@@ -1403,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327030,
+      "num": 327030,
+      "word": "一诺被开闪光灯",
+      "onboard_time": 1777731862,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326376,
       "num": 326376,
       "word": "DeepSeek 现在我是你爹了",
@@ -1659,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276784,
-      "num": 310125,
-      "word": "五一假期真是捅人窝了吧",
-      "onboard_time": 1777720581,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -1819,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259209,
+      "num": 259209,
+      "word": "邓佳鑫直播自爆身高",
+      "onboard_time": 1777732823,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256446,
       "num": 256446,
       "word": "乘风三公小考",
@@ -1899,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239300,
+      "num": 239300,
+      "word": "iPhone18Pro最低配或不涨价",
+      "onboard_time": 1777732403,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238504,
       "num": 446873,
       "word": "eStar对战TCG",
@@ -1947,6 +2011,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233061,
+      "num": 201168,
+      "word": "张雪机车车手德比斯感谢团队",
+      "onboard_time": 1777733543,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232674,
+      "num": 232674,
+      "word": "贺娇龙账号更名并清空橱窗",
+      "onboard_time": 1777724240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231208,
+      "num": 231208,
+      "word": "大衣哥握手太多致手指被真菌感染",
+      "onboard_time": 1777731501,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231080,
       "num": 235193,
       "word": "28岁攒到10万元女生已申请辞职",
@@ -1993,6 +2081,14 @@
       "onboard_time": 1777696579,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223885,
+      "num": 204511,
+      "word": "徐良让张远去办公室找他",
+      "onboard_time": 1777732102,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 221424,
@@ -2179,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202676,
-      "num": 202676,
-      "word": "贺娇龙账号更名并清空橱窗",
-      "onboard_time": 1777724240,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -2241,6 +2329,14 @@
       "onboard_time": 1777632559,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194841,
+      "num": 232221,
+      "word": "张雪机车绝杀两台雅马哈",
+      "onboard_time": 1777728202,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 193832,
@@ -2324,11 +2420,19 @@
     },
     {
       "raw_hot": 183566,
-      "num": 183566,
+      "num": 397359,
       "word": "张雪机车最后时刻反超太帅了",
       "onboard_time": 1777728441,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183313,
+      "num": 349462,
+      "word": "便利店被长相成熟未成年设套买烟",
+      "onboard_time": 1777732641,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 182397,
@@ -2361,6 +2465,14 @@
       "onboard_time": 1777629980,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179062,
+      "num": 179062,
+      "word": "张真源高音",
+      "onboard_time": 1777731140,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 178919,
@@ -2689,6 +2801,14 @@
       "onboard_time": 1777608021,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151880,
+      "num": 259553,
+      "word": "药明康德董事长年薪近4000万",
+      "onboard_time": 1777732702,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 149443,
@@ -3027,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125615,
+      "num": 332473,
+      "word": "荣耀将推出张雪机车冠军联名款手表",
+      "onboard_time": 1777730782,
+      "rank": 23,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 125518,
       "num": 125518,
       "word": "工程师1个月偷剪公司320克金线",
@@ -3243,14 +3371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112533,
-      "num": 232221,
-      "word": "张雪机车绝杀两台雅马哈",
-      "onboard_time": 1777728202,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112081,
       "num": 112081,
       "word": "浮生",
@@ -3419,6 +3539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97274,
+      "num": 153566,
+      "word": "伊朗放宽与美国恢复和谈条件",
+      "onboard_time": 1777731140,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96039,
       "num": 96039,
       "word": "王濛缺席帮唱选曲就没人弄清规则了",
@@ -3491,7 +3619,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 87181,
+      "raw_hot": 87190,
       "num": 1207138,
       "word": "95后把卡脖子难题变成咱的杀手锏",
       "onboard_time": 1777726762,
@@ -3985,6 +4113,14 @@
       "onboard_time": 1777568597,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38761,
+      "num": 378405,
+      "word": "匈牙利站赛道超车难度极高",
+      "onboard_time": 1777733543,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 38511,

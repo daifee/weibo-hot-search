@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/04/26 00:04:47 ~ 2026/05/02 21:55:22
+本榜单时间：2026/04/26 00:04:47 ~ 2026/05/02 22:57:12
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E6%B7%98%E6%B1%B0%23" target="weibo">
 者来女淘汰（热度：8478967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%93%AD%E4%BA%86%23" target="weibo">
+严浩翔哭了（热度：7018192）
 </a>
 </li>
 
@@ -1413,6 +1419,12 @@ AG春季赛总冠军（热度：955209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%A5%B3%E9%98%9F%E6%95%99%E7%BB%83%E5%8F%91%E6%96%87%E6%8E%A7%E8%AF%89%23" target="weibo">
+中国台北女队教练发文控诉（热度：782700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%E5%8F%98%E4%BA%86%23" target="weibo">
 腾讯客服回应朋友圈排版变了（热度：782050）
 </a>
@@ -1785,6 +1797,12 @@ ai情头（热度：676274）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%86%8D%E6%AC%A1%E5%A4%BA%E5%86%A0%23" target="weibo">
+张雪机车回应再次夺冠（热度：670938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7%23" target="weibo">
 初代跑男（热度：668333）
 </a>
@@ -1971,6 +1989,12 @@ DeepSeek多位核心骨干离职去大厂（热度：630386）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E5%81%87%E6%9C%9F%E5%8E%95%E6%89%80%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%23" target="weibo">
+刘丁硕假期厕所直播翻车（热度：625821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%8E%E8%A1%80%E7%B3%96%E6%91%94%E5%80%92%E4%BA%86%23" target="weibo">
 曝张凌赫低血糖摔倒了（热度：625051）
 </a>
@@ -1979,12 +2003,6 @@ DeepSeek多位核心骨干离职去大厂（热度：630386）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E6%99%AF%E5%8C%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
 玉龙雪山景区报警（热度：625038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%86%8D%E6%AC%A1%E5%A4%BA%E5%86%A0%23" target="weibo">
-张雪机车回应再次夺冠（热度：621889）
 </a>
 </li>
 
@@ -3093,6 +3111,12 @@ ILLIT新歌在外网引发热议（热度：434618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
+王橹杰高会（热度：430308）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%8B%8D%E8%BF%87%E5%B0%BA%E5%BA%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%B2%E5%AF%86%E6%88%8F%23" target="weibo">
 马思纯拍过尺度最大的亲密戏（热度：430063）
 </a>
@@ -3125,6 +3149,12 @@ ILLIT新歌在外网引发热议（热度：434618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23DeepSeek%E8%87%B4%E8%B0%A2%E8%BF%91300%E7%A0%94%E5%8F%91%E8%80%8510%E4%BA%BA%E5%B7%B2%E7%A6%BB%E8%81%8C%23" target="weibo">
 DeepSeek致谢近300研发者10人已离职（热度：426385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%94%B6%E8%97%8F%E4%B8%8E%E6%AA%80%E5%81%A5%E6%AC%A1cp%E8%A7%86%E9%A2%91%23" target="weibo">
+卢昱晓收藏与檀健次cp视频（热度：426258）
 </a>
 </li>
 
@@ -3203,12 +3233,6 @@ DeepSeek致谢近300研发者10人已离职（热度：426385）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%20%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 孙杨 再见爱人（热度：415053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%81%E7%A1%95%E5%81%87%E6%9C%9F%E5%8E%95%E6%89%80%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%23" target="weibo">
-刘丁硕假期厕所直播翻车（热度：414972）
 </a>
 </li>
 
@@ -3321,6 +3345,12 @@ aespa回归预告（热度：413419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9C%9F%E6%98%AF%E6%8D%85%E4%BA%BA%E7%AA%9D%E4%BA%86%E5%90%A7%23" target="weibo">
+五一假期真是捅人窝了吧（热度：397681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E5%9B%9E%E5%BA%94%E9%AB%98%E9%A2%85%E9%A1%B6%E5%A6%86%E9%80%A0%23" target="weibo">
 孔雪儿回应高颅顶妆造（热度：397292）
 </a>
@@ -3425,6 +3455,12 @@ aespa回归预告（热度：413419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%B3%A1%E6%B8%A9%E6%B3%89%E9%81%87%E8%9B%87%E5%90%93%E5%87%BA%E5%BA%94%E6%BF%80%E5%88%9B%E4%BC%A4%23" target="weibo">
 男童泡温泉遇蛇吓出应激创伤（热度：386582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%9A%E6%A1%A3%23" target="weibo">
+白鹿十周年见面会定档（热度：386137）
 </a>
 </li>
 
@@ -4041,6 +4077,12 @@ aespa回归预告（热度：413419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E8%A2%AB%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF%23" target="weibo">
+一诺被开闪光灯（热度：327030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E7%8E%8B%E6%BF%9B%E5%94%90%E8%89%BA%E6%98%95%E4%B8%89%E5%85%AC%E5%B0%8F%E8%80%83%E5%86%8D%E5%90%88%E4%BD%93%23" target="weibo">
 李小冉王濛唐艺昕三公小考再合体（热度：326403）
 </a>
@@ -4569,12 +4611,6 @@ RW对战AG（热度：306722）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9C%9F%E6%98%AF%E6%8D%85%E4%BA%BA%E7%AA%9D%E4%BA%86%E5%90%A7%23" target="weibo">
-五一假期真是捅人窝了吧（热度：276784）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B2%A1%E5%B8%A6%E9%A6%92%E5%A4%B4%E5%8F%82%E5%8A%A0%E4%BA%94%E5%93%88%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 鹿晗没带馒头参加五哈的原因（热度：276677）
 </a>
@@ -4841,6 +4877,12 @@ DeepSeek还是最强国产AI吗（热度：269602）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E8%8F%9C%E5%9C%BA%E8%B1%AA%E6%A8%AA%E4%B9%B0%E8%82%89%E5%8F%96%E6%B6%88%E6%94%AF%E4%BB%9870%E5%A4%9A%E4%B8%87%23" target="weibo">
 阿姨菜场豪横买肉取消支付70多万（热度：259464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BD%B3%E9%91%AB%E7%9B%B4%E6%92%AD%E8%87%AA%E7%88%86%E8%BA%AB%E9%AB%98%23" target="weibo">
+邓佳鑫直播自爆身高（热度：259209）
 </a>
 </li>
 
@@ -5145,6 +5187,12 @@ AG确认晋级挑杯十六强（热度：256613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%9C%80%E4%BD%8E%E9%85%8D%E6%88%96%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+iPhone18Pro最低配或不涨价（热度：239300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%AE%E7%A2%9F%E6%A8%A1%E4%BB%BF%E5%8F%B6%E4%B8%80%E8%8C%9C%E4%BA%B2%E4%BA%B2%23" target="weibo">
 森碟模仿叶一茜亲亲（热度：239230）
 </a>
@@ -5265,8 +5313,20 @@ eStar对战TCG（热度：238504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BD%A6%E6%89%8B%E5%BE%B7%E6%AF%94%E6%96%AF%E6%84%9F%E8%B0%A2%E5%9B%A2%E9%98%9F%23" target="weibo">
+张雪机车车手德比斯感谢团队（热度：233061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%91%A8%E4%B9%90%E4%BC%9F%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
 格力集团原董事长周乐伟主动投案（热度：232894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E8%B4%A6%E5%8F%B7%E6%9B%B4%E5%90%8D%E5%B9%B6%E6%B8%85%E7%A9%BA%E6%A9%B1%E7%AA%97%23" target="weibo">
+贺娇龙账号更名并清空橱窗（热度：232674）
 </a>
 </li>
 
@@ -5279,6 +5339,12 @@ eStar对战TCG（热度：238504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E9%A3%8E%E6%B3%A2%23" target="weibo">
 罗永浩谈东方甄选风波（热度：232216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%A1%A3%E5%93%A5%E6%8F%A1%E6%89%8B%E5%A4%AA%E5%A4%9A%E8%87%B4%E6%89%8B%E6%8C%87%E8%A2%AB%E7%9C%9F%E8%8F%8C%E6%84%9F%E6%9F%93%23" target="weibo">
+大衣哥握手太多致手指被真菌感染（热度：231208）
 </a>
 </li>
 
@@ -5441,6 +5507,12 @@ WG对战Hero（热度：229068）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E8%BF%BD%E5%8A%A0%E4%BA%86%E8%88%9E%E5%8F%B0%23" target="weibo">
 边伯贤追加了舞台（热度：223927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E8%AE%A9%E5%BC%A0%E8%BF%9C%E5%8E%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%89%BE%E4%BB%96%23" target="weibo">
+徐良让张远去办公室找他（热度：223885）
 </a>
 </li>
 
@@ -5919,12 +5991,6 @@ DiorCigale（热度：204391）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E8%B4%A6%E5%8F%B7%E6%9B%B4%E5%90%8D%E5%B9%B6%E6%B8%85%E7%A9%BA%E6%A9%B1%E7%AA%97%23" target="weibo">
-贺娇龙账号更名并清空橱窗（热度：202676）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23ILLIT%E5%9B%9E%E5%BD%92%23" target="weibo">
 ILLIT回归（热度：202555）
 </a>
@@ -6113,6 +6179,12 @@ Hero战胜WG（热度：197964）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%B6%88%E5%A4%B1%E7%9A%84%E4%BA%BA%E7%AC%AC89%E5%88%86%E9%92%9F%E5%85%A8%E5%9C%BA%E5%B0%96%E5%8F%AB%23" target="weibo">
 电影消失的人第89分钟全场尖叫（热度：195153）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%BB%9D%E6%9D%80%E4%B8%A4%E5%8F%B0%E9%9B%85%E9%A9%AC%E5%93%88%23" target="weibo">
+张雪机车绝杀两台雅马哈（热度：194841）
 </a>
 </li>
 
@@ -6441,6 +6513,12 @@ cp32（热度：183316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A2%AB%E9%95%BF%E7%9B%B8%E6%88%90%E7%86%9F%E6%9C%AA%E6%88%90%E5%B9%B4%E8%AE%BE%E5%A5%97%E4%B9%B0%E7%83%9F%23" target="weibo">
+便利店被长相成熟未成年设套买烟（热度：183313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%99%E6%8A%A5%E6%A1%88%23" target="weibo">
 一笙报案（热度：183187）
 </a>
@@ -6527,6 +6605,12 @@ cp32（热度：183316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%89%E5%87%BA%E4%BA%86%E5%AE%87%E7%BC%96%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%BB%E4%BA%BA%23" target="weibo">
 王俊凯选出了宇编和世界的主人（热度：179093）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E9%AB%98%E9%9F%B3%23" target="weibo">
+张真源高音（热度：179062）
 </a>
 </li>
 
@@ -7413,6 +7497,12 @@ J人老了捡纸壳也要震撼P人（热度：152074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B9%B4%E8%96%AA%E8%BF%914000%E4%B8%87%23" target="weibo">
+药明康德董事长年薪近4000万（热度：151880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%93%AD%E4%BA%86%23" target="weibo">
 谢娜哭了（热度：151866）
 </a>
@@ -8163,6 +8253,12 @@ CNN主播距枪手仅几英尺（热度：130307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%B0%86%E6%8E%A8%E5%87%BA%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%A0%E5%86%9B%E8%81%94%E5%90%8D%E6%AC%BE%E6%89%8B%E8%A1%A8%23" target="weibo">
+荣耀将推出张雪机车冠军联名款手表（热度：125615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E7%A8%8B%E5%B8%881%E4%B8%AA%E6%9C%88%E5%81%B7%E5%89%AA%E5%85%AC%E5%8F%B8320%E5%85%8B%E9%87%91%E7%BA%BF%23" target="weibo">
 工程师1个月偷剪公司320克金线（热度：125518）
 </a>
@@ -8589,12 +8685,6 @@ TTG挑杯淘汰（热度：112582）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%BB%9D%E6%9D%80%E4%B8%A4%E5%8F%B0%E9%9B%85%E9%A9%AC%E5%93%88%23" target="weibo">
-张雪机车绝杀两台雅马哈（热度：112533）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%90%8D%E5%8C%BB%E7%94%9F1%E5%88%86%E9%92%9F%E7%BB%993%E4%BA%BA%E7%9C%8B%E7%97%8526%E6%AC%A1%23" target="weibo">
 1名医生1分钟给3人看病26次（热度：112131）
 </a>
@@ -8961,6 +9051,12 @@ Fly挑杯赛后回应（热度：99254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E5%AE%BD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%92%8C%E8%B0%88%E6%9D%A1%E4%BB%B6%23" target="weibo">
+伊朗放宽与美国恢复和谈条件（热度：97274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E6%9B%9D%E5%85%89%E4%BA%86%23" target="weibo">
 马斯克天价薪酬方案曝光了（热度：96901）
 </a>
@@ -9142,7 +9238,7 @@ AI手搓小黄人产生意识了（热度：90263）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E6%8A%8A%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E5%8F%98%E6%88%90%E5%92%B1%E7%9A%84%E6%9D%80%E6%89%8B%E9%94%8F%23" target="weibo">
-95后把卡脖子难题变成咱的杀手锏（热度：87181）
+95后把卡脖子难题变成咱的杀手锏（热度：87190）
 </a>
 </li>
 
@@ -10397,6 +10493,12 @@ Rookie 小钰没有威胁我（热度：45360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%A6%88%E7%9C%BC%E9%87%8C%E6%B6%82%E6%8C%87%E7%94%B2%E6%B2%B9%E9%83%BD%E7%AE%97%E5%8B%BE%E5%BC%95%23" target="weibo">
 她妈眼里涂指甲油都算勾引（热度：38927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E8%B5%9B%E9%81%93%E8%B6%85%E8%BD%A6%E9%9A%BE%E5%BA%A6%E6%9E%81%E9%AB%98%23" target="weibo">
+匈牙利站赛道超车难度极高（热度：38761）
 </a>
 </li>
 
