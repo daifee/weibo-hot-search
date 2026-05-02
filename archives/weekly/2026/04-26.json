@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777710390527,
+  "endTime": 1777714882240,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 3211417,
-      "num": 715699,
+      "num": 894835,
       "word": "跑男 白鹿",
       "onboard_time": 1777705460,
       "rank": 3,
@@ -224,6 +224,14 @@
       "word": "汤唯确认怀二胎",
       "onboard_time": 1777456580,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2648760,
+      "num": 344751,
+      "word": "张婧仪方要求你好星期六道歉",
+      "onboard_time": 1777713740,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1432747,
+      "num": 1432747,
+      "word": "又一乐园被曝女性与半裸男NPC互动",
+      "onboard_time": 1777712181,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1425868,
       "num": 519892,
       "word": "上海咖啡店偶遇了赵丽颖",
@@ -721,6 +737,14 @@
       "onboard_time": 1777201279,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1327003,
+      "num": 344722,
+      "word": "张元英救了霸王茶姬",
+      "onboard_time": 1777712540,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1319289,
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 1067645,
-      "num": 706494,
+      "num": 847136,
       "word": "你好星期六把张婧仪周也弄错了",
       "onboard_time": 1777703240,
       "rank": 5,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1777517540,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021620,
+      "num": 338987,
+      "word": "虞书欣 种地吧",
+      "onboard_time": 1777704079,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1017877,
@@ -1345,6 +1377,22 @@
       "onboard_time": 1777538360,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 894405,
+      "num": 263209,
+      "word": "严浩翔每年都会往宿舍搬几箱橙子",
+      "onboard_time": 1777713740,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 893742,
+      "num": 893742,
+      "word": "霸王茶姬水银事件反转",
+      "onboard_time": 1777711039,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 893328,
@@ -1673,14 +1721,6 @@
       "onboard_time": 1777364481,
       "rank": 0,
       "category": "数码,民生新闻"
-    },
-    {
-      "raw_hot": 797926,
-      "num": 338987,
-      "word": "虞书欣 种地吧",
-      "onboard_time": 1777704079,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 795156,
@@ -2041,6 +2081,14 @@
       "onboard_time": 1777309218,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711628,
+      "num": 711628,
+      "word": "世界杯转播权再现中国式僵局",
+      "onboard_time": 1777708339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 710986,
@@ -2699,14 +2747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 573213,
-      "num": 315027,
-      "word": "世界杯转播权再现中国式僵局",
-      "onboard_time": 1777708339,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 569751,
       "num": 569751,
       "word": "火箭湖人赛后一片混乱",
@@ -3032,6 +3072,14 @@
       "word": "青岛偶遇关晓彤",
       "onboard_time": 1777513221,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 528105,
+      "num": 212195,
+      "word": "三亚偶遇赵又廷高圆圆牵手散步",
+      "onboard_time": 1777712480,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4659,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354097,
+      "num": 204542,
+      "word": "义肢被鬼屋npc拽下来了",
+      "onboard_time": 1777712299,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353297,
       "num": 353297,
       "word": "孙颖莎穿fighting出征",
@@ -4761,6 +4817,14 @@
       "onboard_time": 1777682720,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344582,
+      "num": 344582,
+      "word": "孙颖莎vs迪亚科努",
+      "onboard_time": 1777712360,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 344150,
@@ -5283,6 +5347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307475,
+      "num": 203933,
+      "word": "张桂源头像",
+      "onboard_time": 1777714281,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306799,
       "num": 306799,
       "word": "张豆豆承担的镜头很难呈现",
@@ -5715,6 +5787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276677,
+      "num": 201372,
+      "word": "鹿晗没带馒头参加五哈的原因",
+      "onboard_time": 1777710439,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276248,
       "num": 276248,
       "word": "阚清子老公投到第二就不投了",
@@ -5897,6 +5977,14 @@
       "onboard_time": 1777431860,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266046,
+      "num": 294944,
+      "word": "36岁谈莉娜剖腹产产子",
+      "onboard_time": 1777705400,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 265607,
@@ -6451,6 +6539,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 238026,
+      "num": 370579,
+      "word": "孙颖莎国乒首秀出任一单",
+      "onboard_time": 1777714580,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237677,
       "num": 237677,
       "word": "22岁女孩运动减肥把肌肉练爆了",
@@ -6777,6 +6873,14 @@
       "onboard_time": 1777471461,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 224411,
+      "num": 181530,
+      "word": "种地吧",
+      "onboard_time": 1777696579,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 224196,
@@ -7307,6 +7411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206251,
+      "num": 206251,
+      "word": "靠低俗擦边玩法注定只是昙花一现",
+      "onboard_time": 1777708160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206079,
       "num": 444641,
       "word": "男子5天连做5台手术惊呆医师",
@@ -7747,14 +7859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191783,
-      "num": 294944,
-      "word": "36岁谈莉娜剖腹产产子",
-      "onboard_time": 1777705400,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191699,
       "num": 214279,
       "word": "美依礼芽回应歌手AI海报",
@@ -7809,6 +7913,14 @@
       "onboard_time": 1777520961,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189835,
+      "num": 210233,
+      "word": "美国警告立陶宛",
+      "onboard_time": 1777709720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189654,
@@ -9243,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155035,
+      "num": 155035,
+      "word": "TTG对战DRG",
+      "onboard_time": 1777710260,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154671,
       "num": 429977,
       "word": "苏超",
@@ -9457,6 +9577,14 @@
       "onboard_time": 1777560921,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149443,
+      "num": 149443,
+      "word": "曾沛慈三次小考三次带队全部脱稿",
+      "onboard_time": 1777714521,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 149341,
@@ -9747,14 +9875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 141969,
-      "num": 141969,
-      "word": "靠低俗擦边玩法注定只是昙花一现",
-      "onboard_time": 1777708160,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141847,
       "num": 141847,
       "word": "时代少年团彩排泄漏",
@@ -9873,14 +9993,6 @@
       "onboard_time": 1777192760,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138905,
-      "num": 138905,
-      "word": "种地吧",
-      "onboard_time": 1777696579,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 138876,
@@ -10225,14 +10337,6 @@
       "onboard_time": 1777692559,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128988,
-      "num": 141909,
-      "word": "美国警告立陶宛",
-      "onboard_time": 1777709720,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128885,
@@ -11041,6 +11145,14 @@
       "onboard_time": 1777391480,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107004,
+      "num": 283696,
+      "word": "各地餐厅电话被一个陌生女子打爆",
+      "onboard_time": 1777712540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106906,
@@ -12603,6 +12715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58146,
+      "num": 895096,
+      "word": "5月1日铁路发送旅客量创历史新高",
+      "onboard_time": 1777708099,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57929,
       "num": 450372,
       "word": "男子晚上群里被领导喊加班获赔14万",
@@ -13035,14 +13155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43867,
-      "num": 774838,
-      "word": "5月1日铁路发送旅客量创历史新高",
-      "onboard_time": 1777708099,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43783,
       "num": 432098,
       "word": "你心目中的道",
@@ -13089,6 +13201,14 @@
       "onboard_time": 1777626560,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41847,
+      "num": 185174,
+      "word": "浪姐三公出场顺序",
+      "onboard_time": 1777703059,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 40832,
@@ -13443,6 +13563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31113,
+      "num": 206037,
+      "word": "基础款Macmini停售",
+      "onboard_time": 1777711039,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31076,
       "num": 284229,
       "word": "山西一高校宿舍洗澡10分钟收费5元",
@@ -13545,6 +13673,14 @@
       "onboard_time": 1777465761,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 29052,
+      "num": 184205,
+      "word": "美国警告立陶宛等国",
+      "onboard_time": 1777713800,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29036,

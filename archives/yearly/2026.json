@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777710390527,
+  "endTime": 1777714882240,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1476,7 +1476,7 @@
     },
     {
       "raw_hot": 3211417,
-      "num": 715699,
+      "num": 894835,
       "word": "跑男 白鹿",
       "onboard_time": 1777705460,
       "rank": 3,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1767579621,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2648760,
+      "num": 344751,
+      "word": "张婧仪方要求你好星期六道歉",
+      "onboard_time": 1777713740,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2644706,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768718239,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2301033,
-      "num": 2301033,
-      "word": "中国女孩拍摄靖国神社内部",
-      "onboard_time": 1777549161,
-      "rank": 11,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
