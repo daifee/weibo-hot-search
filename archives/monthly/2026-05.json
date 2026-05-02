@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777714882240,
+  "endTime": 1777716327858,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -17,6 +17,14 @@
       "onboard_time": 1777607119,
       "rank": 0,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 5770750,
+      "num": 344751,
+      "word": "张婧仪方要求你好星期六道歉",
+      "onboard_time": 1777713740,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4321847,
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2648760,
-      "num": 344751,
-      "word": "张婧仪方要求你好星期六道歉",
-      "onboard_time": 1777713740,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2644706,
       "num": 431963,
       "word": "王菲 你管她干啥",
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1624352,
+      "num": 1432747,
+      "word": "又一乐园被曝女性与半裸男NPC互动",
+      "onboard_time": 1777712181,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1610160,
       "num": 701844,
       "word": "李晨怀念跑男老成员",
@@ -145,14 +153,6 @@
       "onboard_time": 1777607058,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1432747,
-      "num": 1432747,
-      "word": "又一乐园被曝女性与半裸男NPC互动",
-      "onboard_time": 1777712181,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1390747,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1106775,
+      "num": 269300,
+      "word": "严浩翔每年都会往宿舍搬几箱橙子",
+      "onboard_time": 1777713740,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1088726,
       "num": 1174196,
       "word": "女子照顾瘫痪丈夫19年想有个孩子",
@@ -251,8 +259,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1050824,
+      "num": 1168131,
+      "word": "霸王茶姬水银事件反转",
+      "onboard_time": 1777711039,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1021620,
-      "num": 338987,
+      "num": 658328,
       "word": "虞书欣 种地吧",
       "onboard_time": 1777704079,
       "rank": 11,
@@ -307,22 +323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 894405,
-      "num": 263209,
-      "word": "严浩翔每年都会往宿舍搬几箱橙子",
-      "onboard_time": 1777713740,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 893742,
-      "num": 893742,
-      "word": "霸王茶姬水银事件反转",
-      "onboard_time": 1777711039,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 892965,
       "num": 1142874,
       "word": "东航通报飞机与廊桥局部碰擦",
@@ -344,6 +344,14 @@
       "word": "田曦薇 记得给我开美颜",
       "onboard_time": 1777600999,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 846027,
+      "num": 268538,
+      "word": "张桂源头像",
+      "onboard_time": 1777714281,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753781,
+      "num": 851061,
+      "word": "世界杯转播权再现中国式僵局",
+      "onboard_time": 1777708339,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748488,
       "num": 748488,
       "word": "张真源唱在加纳共和国离婚",
@@ -489,14 +505,6 @@
       "onboard_time": 1777625360,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 711628,
-      "num": 711628,
-      "word": "世界杯转播权再现中国式僵局",
-      "onboard_time": 1777708339,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 708584,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 528105,
-      "num": 212195,
+      "num": 266818,
       "word": "三亚偶遇赵又廷高圆圆牵手散步",
       "onboard_time": 1777712480,
       "rank": 18,
@@ -947,6 +955,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 376172,
+      "num": 376172,
+      "word": "义肢被鬼屋npc拽下来了",
+      "onboard_time": 1777712299,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375038,
       "num": 1054034,
       "word": "湖人vs火箭",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1777697120,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354097,
-      "num": 204542,
-      "word": "义肢被鬼屋npc拽下来了",
-      "onboard_time": 1777712299,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 351060,
@@ -1147,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 324925,
+      "num": 370579,
+      "word": "孙颖莎国乒首秀出任一单",
+      "onboard_time": 1777714580,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324356,
       "num": 324356,
       "word": "豆包挑榴莲",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1777693760,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307475,
-      "num": 203933,
-      "word": "张桂源头像",
-      "onboard_time": 1777714281,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 300530,
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 276677,
-      "num": 201372,
+      "num": 217945,
       "word": "鹿晗没带馒头参加五哈的原因",
       "onboard_time": 1777710439,
       "rank": 34,
@@ -1456,6 +1464,14 @@
       "word": "36岁谈莉娜剖腹产产子",
       "onboard_time": 1777705400,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262364,
+      "num": 262364,
+      "word": "曹骏工作室否认拉踩檀健次",
+      "onboard_time": 1777715720,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1571,14 +1587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238026,
-      "num": 370579,
-      "word": "孙颖莎国乒首秀出任一单",
-      "onboard_time": 1777714580,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237632,
       "num": 262975,
       "word": "躺平阴谋",
@@ -1652,7 +1660,7 @@
     },
     {
       "raw_hot": 224411,
-      "num": 181530,
+      "num": 218463,
       "word": "种地吧",
       "onboard_time": 1777696579,
       "rank": 39,
@@ -1851,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199302,
+      "num": 268135,
+      "word": "日本地震",
+      "onboard_time": 1777716200,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "只有肖战同时和三家大厂合作过",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1777645041,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195644,
+      "num": 266991,
+      "word": "美国警告立陶宛",
+      "onboard_time": 1777709720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195153,
@@ -1905,14 +1929,6 @@
       "onboard_time": 1777619539,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189835,
-      "num": 210233,
-      "word": "美国警告立陶宛",
-      "onboard_time": 1777709720,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189654,
@@ -2331,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144445,
+      "num": 144445,
+      "word": "黄子韬巡演官宣",
+      "onboard_time": 1777715300,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144164,
       "num": 277966,
       "word": "肖战出席大影节青春之夜",
@@ -2419,6 +2443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138330,
+      "num": 138330,
+      "word": "东航飞机碰撞廊桥乘客获赔300元",
+      "onboard_time": 1777713080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137938,
       "num": 232006,
       "word": "金价突涨",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1777641981,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136281,
+      "num": 136281,
+      "word": "共情能力强 情感漠视",
+      "onboard_time": 1777715900,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 135832,
@@ -3203,6 +3243,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 61992,
+      "num": 217946,
+      "word": "FL对战TE",
+      "onboard_time": 1777716081,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61913,
       "num": 130944,
       "word": "桃黑黑王者荣耀活动",
@@ -3395,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42630,
+      "num": 266397,
+      "word": "基础款Macmini停售",
+      "onboard_time": 1777711039,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41993,
       "num": 271421,
       "word": "星铁LAND2026",
@@ -3481,14 +3537,6 @@
       "onboard_time": 1777608079,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31113,
-      "num": 206037,
-      "word": "基础款Macmini停售",
-      "onboard_time": 1777711039,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 31042,
@@ -3705,6 +3753,14 @@
       "onboard_time": 1777591817,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1433,
+      "num": 267728,
+      "word": "刘国梁王励勤观看国乒训练",
+      "onboard_time": 1777716081,
+      "rank": 19,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777714882240,
+  "endTime": 1777716327858,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -815,6 +815,14 @@
       "num": 573347,
       "word": "刘宇宁否认与宋祖儿恋情",
       "onboard_time": 1776930919,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5770750,
+      "num": 344751,
+      "word": "张婧仪方要求你好星期六道歉",
+      "onboard_time": 1777713740,
       "rank": 10,
       "category": "艺人"
     },
@@ -1913,14 +1921,6 @@
       "onboard_time": 1767579621,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2648760,
-      "num": 344751,
-      "word": "张婧仪方要求你好星期六道歉",
-      "onboard_time": 1777713740,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2644706,
