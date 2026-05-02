@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777763449875,
+  "endTime": 1777766143760,
   "band_list": [
     {
       "raw_hot": 4226995,
@@ -19,12 +19,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1578222,
+      "num": 158510,
+      "word": "严军不敢发和严浩翔的聊天记录",
+      "onboard_time": 1777765518,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1181099,
-      "num": 370790,
+      "num": 488117,
       "word": "张婧仪方要求你好星期六道歉",
       "onboard_time": 1777713740,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1144450,
+      "num": 580958,
+      "word": "中医腹诊竟摸出记者7年前生的闷气",
+      "onboard_time": 1777763596,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 760238,
+      "num": 1080405,
+      "word": "父母互相拍照6岁儿子失足坠崖",
+      "onboard_time": 1777737981,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 740480,
@@ -43,16 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 669955,
-      "num": 754983,
-      "word": "父母互相拍照6岁儿子失足坠崖",
-      "onboard_time": 1777737981,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 660098,
-      "num": 376633,
+      "num": 413466,
       "word": "林诗栋1比3吴晙诚",
       "onboard_time": 1777762516,
       "rank": 4,
@@ -65,6 +81,14 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525797,
+      "num": 775543,
+      "word": "吴宜泽17比16艾伦",
+      "onboard_time": 1777762936,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 492330,
@@ -89,6 +113,14 @@
       "onboard_time": 1777728021,
       "rank": 14,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 345931,
+      "num": 263782,
+      "word": "建议大家去狂刷跨境综艺打破信息差",
+      "onboard_time": 1777741218,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 328304,
@@ -161,14 +193,6 @@
       "onboard_time": 1777728621,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242402,
-      "num": 263782,
-      "word": "建议大家去狂刷跨境综艺打破信息差",
-      "onboard_time": 1777741218,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 238134,
@@ -267,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170509,
+      "num": 265355,
+      "word": "夺冠车手感谢张雪机车",
+      "onboard_time": 1777735823,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "斯诺克世锦赛",
@@ -283,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163463,
+      "num": 163463,
+      "word": "吴宜泽首进世锦赛决赛",
+      "onboard_time": 1777762996,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161417,
       "num": 251107,
       "word": "苏超南京vs常州",
@@ -291,12 +331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161183,
+      "num": 163390,
+      "word": "恶意开除失明女子公司被判赔20万",
+      "onboard_time": 1777760175,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159770,
       "num": 258741,
       "word": "iPhone18Pro最低配或不涨价",
       "onboard_time": 1777732403,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159056,
+      "num": 152074,
+      "word": "严军破产",
+      "onboard_time": 1777764978,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159041,
@@ -312,14 +368,6 @@
       "word": "张雪机车车手德比斯感谢团队",
       "onboard_time": 1777733543,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158689,
-      "num": 158689,
-      "word": "吴宜泽17比16艾伦",
-      "onboard_time": 1777762936,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -352,14 +400,6 @@
       "word": "杨威定下16岁前不牺牲学业红线",
       "onboard_time": 1777743916,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136654,
-      "num": 265355,
-      "word": "夺冠车手感谢张雪机车",
-      "onboard_time": 1777735823,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -467,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110139,
-      "num": 117061,
-      "word": "吴宜泽首进世锦赛决赛",
-      "onboard_time": 1777762996,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100232,
       "num": 248482,
       "word": "药明康德董事长年薪近4000万",
@@ -515,20 +547,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67235,
-      "num": 109533,
-      "word": "恶意开除失明女子公司被判赔20万",
-      "onboard_time": 1777760175,
+      "raw_hot": 66418,
+      "num": 151143,
+      "word": "杨威回应女儿转技巧体操夺冠",
+      "onboard_time": 1777765338,
       "rank": 30,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
-      "raw_hot": 60564,
+      "raw_hot": 65138,
       "num": 674912,
       "word": "95后把卡脖子难题变成咱的杀手锏",
       "onboard_time": 1777726762,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64411,
+      "num": 214143,
+      "word": "张雪机车连超2辆雅马哈",
+      "onboard_time": 1777747755,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 56047,
@@ -563,6 +603,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51360,
+      "num": 145486,
+      "word": "美将从德国撤出5000美军",
+      "onboard_time": 1777764077,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50844,
+      "num": 144429,
+      "word": "张雪问谁不服",
+      "onboard_time": 1777765877,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49885,
       "num": 242490,
       "word": "女子五一高速堵车4小时点外卖",
@@ -579,12 +635,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48801,
-      "num": 214143,
-      "word": "张雪机车连超2辆雅马哈",
-      "onboard_time": 1777747755,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 45921,
+      "num": 141390,
+      "word": "1300斤牛被找回暴瘦200斤村民发声",
+      "onboard_time": 1777753753,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45479,
@@ -595,7 +651,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42533,
+      "raw_hot": 45173,
       "num": 237285,
       "word": "你好星期六",
       "onboard_time": 1777726882,
@@ -627,12 +683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28401,
-      "num": 94822,
-      "word": "1300斤牛被找回暴瘦200斤村民发声",
-      "onboard_time": 1777753753,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 28600,
+      "num": 138351,
+      "word": "俞浩称追觅要与苹果三星三分天下",
+      "onboard_time": 1777764498,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 27535,
