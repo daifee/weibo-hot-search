@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777702490856,
+  "endTime": 1777703177858,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2383489,
-      "num": 324512,
+      "num": 326511,
       "word": "时代峰峻回应严浩翔家庭事宜",
       "onboard_time": 1777690699,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1077939,
+      "num": 659135,
+      "word": "何炅回应王鹤棣情绪失控",
+      "onboard_time": 1777698319,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074309,
       "num": 304080,
       "word": "曝Angelababy爱发朋友圈",
@@ -193,6 +201,14 @@
       "onboard_time": 1777618639,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1002811,
+      "num": 464055,
+      "word": "东航 虹桥",
+      "onboard_time": 1777700600,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 996897,
@@ -227,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 904587,
-      "num": 459813,
-      "word": "东航 虹桥",
-      "onboard_time": 1777700600,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 892965,
+      "num": 1142874,
+      "word": "东航通报飞机与廊桥局部碰擦",
+      "onboard_time": 1777701022,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 889813,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 748216,
-      "num": 323987,
+      "num": 326918,
       "word": "西安上空现不明物持续一小时后消失",
       "onboard_time": 1777688898,
       "rank": 11,
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706473,
+      "num": 459661,
+      "word": "江语晨 浪姐厕女一",
+      "onboard_time": 1777699460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684946,
       "num": 548549,
       "word": "何宣林 镜头",
@@ -433,22 +457,6 @@
       "onboard_time": 1777599859,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 661654,
-      "num": 805344,
-      "word": "东航通报飞机与廊桥局部碰擦",
-      "onboard_time": 1777701022,
-      "rank": 1,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 659135,
-      "num": 659135,
-      "word": "何炅回应王鹤棣情绪失控",
-      "onboard_time": 1777698319,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 655160,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557741,
-      "num": 456319,
-      "word": "江语晨 浪姐厕女一",
-      "onboard_time": 1777699460,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556874,
       "num": 323945,
       "word": "迪丽热巴在还63张自拍的债了",
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 521707,
-      "num": 302762,
+      "num": 327050,
       "word": "杨幂脸上烫伤还没好",
       "onboard_time": 1777695079,
       "rank": 10,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493997,
+      "num": 493997,
+      "word": "余华辅导儿子语文后考试不及格",
+      "onboard_time": 1777697359,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 492039,
       "num": 373598,
       "word": "何洁听跳楼机还没到副歌就直接关掉了",
@@ -641,14 +649,6 @@
       "onboard_time": 1777629680,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 485566,
-      "num": 485566,
-      "word": "余华辅导儿子语文后考试不及格",
-      "onboard_time": 1777697359,
-      "rank": 4,
-      "category": "读书作家"
     },
     {
       "raw_hot": 481626,
@@ -675,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465051,
+      "num": 326754,
+      "word": "有人为吃蜜雪9元圣代碗排队5小时",
+      "onboard_time": 1777700600,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462935,
       "num": 406832,
       "word": "保姆抱娃踩床边台阶摔倒在地",
       "onboard_time": 1777645102,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462232,
+      "num": 326599,
+      "word": "鹿晗叫李小冉姐姐",
+      "onboard_time": 1777700178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 458198,
@@ -731,14 +747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 432459,
-      "num": 293576,
-      "word": "有人为吃蜜雪9元圣代碗排队5小时",
-      "onboard_time": 1777700600,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 431795,
       "num": 264976,
       "word": "严浩翔FLY台风",
@@ -760,6 +768,14 @@
       "word": "曾沛慈一把牵走张慧雯",
       "onboard_time": 1777633641,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 396438,
+      "num": 380620,
+      "word": "惊鸿一面",
+      "onboard_time": 1777698501,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -785,14 +801,6 @@
       "onboard_time": 1777635861,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 380620,
-      "num": 380620,
-      "word": "惊鸿一面",
-      "onboard_time": 1777698501,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 379516,
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336420,
+      "num": 320630,
+      "word": "戚薇也在嗑张凌赫田曦薇",
+      "onboard_time": 1777695200,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336191,
       "num": 336191,
       "word": "面包要涨价了",
@@ -955,20 +971,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329950,
-      "num": 284756,
-      "word": "戚薇也在嗑张凌赫田曦薇",
-      "onboard_time": 1777695200,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329603,
       "num": 151906,
       "word": "万千惠问三宝自己的下属漂不漂亮",
       "onboard_time": 1777678820,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327131,
+      "num": 327131,
+      "word": "一个bug是bug 一堆bug能work",
+      "onboard_time": 1777694721,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 326376,
+      "num": 326376,
+      "word": "DeepSeek 现在我是你爹了",
+      "onboard_time": 1777694540,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 324356,
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321524,
-      "num": 277606,
-      "word": "DeepSeek 现在我是你爹了",
-      "onboard_time": 1777694540,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1777693760,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307832,
-      "num": 307832,
-      "word": "一个bug是bug 一堆bug能work",
-      "onboard_time": 1777694721,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 300530,
@@ -1187,14 +1195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275163,
-      "num": 275163,
-      "word": "鹿晗叫李小冉姐姐",
-      "onboard_time": 1777700178,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274741,
       "num": 196855,
       "word": "刘耀文 暴雨来袭前一秒",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1777604838,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273406,
+      "num": 273406,
+      "word": "小狗身体太软把主人弄得手忙脚乱的",
+      "onboard_time": 1777695500,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 271518,
@@ -1256,14 +1264,6 @@
       "word": "我的猫终于干了我一直觉得她会干的事",
       "onboard_time": 1777698980,
       "rank": 17,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 266493,
-      "num": 266493,
-      "word": "小狗身体太软把主人弄得手忙脚乱的",
-      "onboard_time": 1777695500,
-      "rank": 18,
       "category": "幽默"
     },
     {
@@ -1363,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237632,
+      "num": 262975,
+      "word": "躺平阴谋",
+      "onboard_time": 1777698080,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237419,
       "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
@@ -1425,6 +1433,22 @@
       "onboard_time": 1777592358,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220018,
+      "num": 220018,
+      "word": "西安上空现不明物",
+      "onboard_time": 1777702639,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219949,
+      "num": 219949,
+      "word": "对自己不好的事别到处说",
+      "onboard_time": 1777701859,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 219330,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208858,
+      "num": 208858,
+      "word": "承诺买房送69万黄金开发商久不兑现",
+      "onboard_time": 1777695140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "萧蔷给人调成啥了",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1777635560,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204494,
-      "num": 262975,
-      "word": "躺平阴谋",
-      "onboard_time": 1777698080,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203816,
@@ -1579,20 +1603,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200732,
+      "num": 256931,
+      "word": "11岁女孩频繁呕吐确诊肾衰竭",
+      "onboard_time": 1777700299,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "只有肖战同时和三家大厂合作过",
       "onboard_time": 1777687700,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196938,
-      "num": 256931,
-      "word": "11岁女孩频繁呕吐确诊肾衰竭",
-      "onboard_time": 1777700299,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196355,
@@ -1641,14 +1665,6 @@
       "onboard_time": 1777619539,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190151,
-      "num": 190151,
-      "word": "承诺买房送69万黄金开发商久不兑现",
-      "onboard_time": 1777695140,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189654,
@@ -1739,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175959,
+      "num": 175959,
+      "word": "曾沛慈团三公小考第一",
+      "onboard_time": 1777699341,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175235,
       "num": 142923,
       "word": "深圳地铁平均每天亏超1个亿",
@@ -1755,20 +1779,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174251,
+      "num": 133544,
+      "word": "曾沛慈团谁来了都得脱稿",
+      "onboard_time": 1777701740,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173945,
       "num": 173945,
       "word": "霸王茶姬水银门当事人称是对象下单",
       "onboard_time": 1777693823,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173883,
-      "num": 173883,
-      "word": "曾沛慈团三公小考第一",
-      "onboard_time": 1777699341,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 173754,
@@ -1835,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165479,
+      "num": 162520,
+      "word": "孙怡阚清子一对视就跑调",
+      "onboard_time": 1777698800,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163645,
       "num": 163645,
       "word": "陈奕恒你逗我玩是吧",
@@ -1857,14 +1889,6 @@
       "onboard_time": 1777626319,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163059,
-      "num": 163059,
-      "word": "对自己不好的事别到处说",
-      "onboard_time": 1777701859,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 162724,
@@ -1897,14 +1921,6 @@
       "onboard_time": 1777634839,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "孙怡阚清子一对视就跑调",
-      "onboard_time": 1777698800,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 159727,
@@ -1969,14 +1985,6 @@
       "onboard_time": 1777639702,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153759,
-      "num": 122837,
-      "word": "曾沛慈团谁来了都得脱稿",
-      "onboard_time": 1777701740,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 153720,
@@ -2155,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135198,
+      "num": 135198,
+      "word": "胖东来再次回应249元毛巾事件",
+      "onboard_time": 1777699823,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135026,
       "num": 135026,
       "word": "迪丽热巴美美出片",
@@ -2300,7 +2316,7 @@
     },
     {
       "raw_hot": 122842,
-      "num": 122842,
+      "num": 127763,
       "word": "詹姆斯单节得分超火箭全队",
       "onboard_time": 1777699280,
       "rank": 40,
@@ -2387,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116938,
+      "num": 251949,
+      "word": "东北早市被俄罗斯游客包场",
+      "onboard_time": 1777697719,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116387,
       "num": 116387,
       "word": "浪姐争议嘉宾称也只签了一期合同",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1777631899,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115277,
-      "num": 251949,
-      "word": "东北早市被俄罗斯游客包场",
-      "onboard_time": 1777697719,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114960,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1777683679,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110557,
+      "num": 131782,
+      "word": "金价今年或跌回4000美元",
+      "onboard_time": 1777699641,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 110321,
@@ -2520,14 +2544,6 @@
       "word": "金饰克价回落买不买",
       "onboard_time": 1777614260,
       "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 103921,
-      "num": 122177,
-      "word": "金价今年或跌回4000美元",
-      "onboard_time": 1777699641,
-      "rank": 44,
       "category": "财经"
     },
     {
@@ -2972,7 +2988,7 @@
     },
     {
       "raw_hot": 53513,
-      "num": 121332,
+      "num": 225201,
       "word": "用AI把我家猫养在了电脑上",
       "onboard_time": 1777688359,
       "rank": 48,
@@ -3043,7 +3059,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46627,
+      "raw_hot": 47236,
       "num": 259012,
       "word": "Claude画的DeepSeek蓝胖鱼",
       "onboard_time": 1777696881,
@@ -3107,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38511,
+      "num": 257982,
+      "word": "时隔五年我用AI复活了父亲",
+      "onboard_time": 1777699399,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38137,
       "num": 746106,
       "word": "1071项国标5月1日起实施",
@@ -3121,14 +3145,6 @@
       "onboard_time": 1777609278,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37462,
-      "num": 257982,
-      "word": "时隔五年我用AI复活了父亲",
-      "onboard_time": 1777699399,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 37415,
@@ -3235,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24239,
+      "num": 133925,
+      "word": "美国人正在逃离美国",
+      "onboard_time": 1777703120,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22730,
       "num": 889675,
       "word": "数读我国创新全方位加速突破",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1777591336,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7764,
+      "num": 176033,
+      "word": "Ming说这是在eStar的最后一个赛季",
+      "onboard_time": 1777703120,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 5941,

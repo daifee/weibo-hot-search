@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777702490856,
+  "endTime": 1777703177858,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 2383489,
-      "num": 324512,
+      "num": 326511,
       "word": "时代峰峻回应严浩翔家庭事宜",
       "onboard_time": 1777690699,
       "rank": 10,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1077939,
+      "num": 659135,
+      "word": "何炅回应王鹤棣情绪失控",
+      "onboard_time": 1777698319,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074309,
       "num": 337256,
       "word": "曝Angelababy爱发朋友圈",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1777518979,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1002811,
+      "num": 464055,
+      "word": "东航 虹桥",
+      "onboard_time": 1777700600,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 996897,
@@ -1291,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 904587,
-      "num": 459813,
-      "word": "东航 虹桥",
-      "onboard_time": 1777700600,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 900122,
       "num": 300655,
       "word": "孙杨母子 镜像共生",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1777362741,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 892965,
+      "num": 1142874,
+      "word": "东航通报飞机与廊桥局部碰擦",
+      "onboard_time": 1777701022,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 889813,
@@ -1772,7 +1788,7 @@
     },
     {
       "raw_hot": 748216,
-      "num": 323987,
+      "num": 326918,
       "word": "西安上空现不明物持续一小时后消失",
       "onboard_time": 1777688898,
       "rank": 11,
@@ -2019,6 +2035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 706473,
+      "num": 459661,
+      "word": "江语晨 浪姐厕女一",
+      "onboard_time": 1777699460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702368,
       "num": 369098,
       "word": "孙杨张豆豆是双方母亲撮合在一起的",
@@ -2171,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661654,
-      "num": 805344,
-      "word": "东航通报飞机与廊桥局部碰擦",
-      "onboard_time": 1777701022,
-      "rank": 1,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 661461,
       "num": 395381,
       "word": "这比被出轨更令人难以接受",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1777478778,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 659135,
-      "num": 659135,
-      "word": "何炅回应王鹤棣情绪失控",
-      "onboard_time": 1777698319,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 658647,
@@ -2707,14 +2715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557741,
-      "num": 456319,
-      "word": "江语晨 浪姐厕女一",
-      "onboard_time": 1777699460,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556874,
       "num": 323945,
       "word": "迪丽热巴在还63张自拍的债了",
@@ -3020,7 +3020,7 @@
     },
     {
       "raw_hot": 521707,
-      "num": 302762,
+      "num": 327050,
       "word": "杨幂脸上烫伤还没好",
       "onboard_time": 1777695079,
       "rank": 10,
@@ -3235,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493997,
+      "num": 493997,
+      "word": "余华辅导儿子语文后考试不及格",
+      "onboard_time": 1777697359,
+      "rank": 4,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 492039,
       "num": 373598,
       "word": "何洁听跳楼机还没到副歌就直接关掉了",
@@ -3313,14 +3321,6 @@
       "onboard_time": 1777629680,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 485566,
-      "num": 485566,
-      "word": "余华辅导儿子语文后考试不及格",
-      "onboard_time": 1777697359,
-      "rank": 4,
-      "category": "读书作家"
     },
     {
       "raw_hot": 485532,
@@ -3499,12 +3499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 465051,
+      "num": 326754,
+      "word": "有人为吃蜜雪9元圣代碗排队5小时",
+      "onboard_time": 1777700600,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462935,
       "num": 406832,
       "word": "保姆抱娃踩床边台阶摔倒在地",
       "onboard_time": 1777645102,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462232,
+      "num": 326599,
+      "word": "鹿晗叫李小冉姐姐",
+      "onboard_time": 1777700178,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 459164,
@@ -3761,14 +3777,6 @@
       "onboard_time": 1777289600,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 432459,
-      "num": 293576,
-      "word": "有人为吃蜜雪9元圣代碗排队5小时",
-      "onboard_time": 1777700600,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431795,
@@ -4083,6 +4091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 396438,
+      "num": 380620,
+      "word": "惊鸿一面",
+      "onboard_time": 1777698501,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396245,
       "num": 288960,
       "word": "姚安坠楼教师已脱离生命危险",
@@ -4217,14 +4233,6 @@
       "onboard_time": 1777293443,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380620,
-      "num": 380620,
-      "word": "惊鸿一面",
-      "onboard_time": 1777698501,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 379822,
@@ -4803,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336420,
+      "num": 320630,
+      "word": "戚薇也在嗑张凌赫田曦薇",
+      "onboard_time": 1777695200,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336191,
       "num": 336191,
       "word": "面包要涨价了",
@@ -4899,14 +4915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329950,
-      "num": 284756,
-      "word": "戚薇也在嗑张凌赫田曦薇",
-      "onboard_time": 1777695200,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329603,
       "num": 151906,
       "word": "万千惠问三宝自己的下属漂不漂亮",
@@ -4939,12 +4947,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327131,
+      "num": 327131,
+      "word": "一个bug是bug 一堆bug能work",
+      "onboard_time": 1777694721,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326403,
       "num": 326403,
       "word": "李小冉王濛唐艺昕三公小考再合体",
       "onboard_time": 1777441100,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326376,
+      "num": 326376,
+      "word": "DeepSeek 现在我是你爹了",
+      "onboard_time": 1777694540,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 324701,
@@ -4985,14 +5009,6 @@
       "onboard_time": 1777611620,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321524,
-      "num": 277606,
-      "word": "DeepSeek 现在我是你爹了",
-      "onboard_time": 1777694540,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 320794,
@@ -5169,14 +5185,6 @@
       "onboard_time": 1777246217,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 307832,
-      "num": 307832,
-      "word": "一个bug是bug 一堆bug能work",
-      "onboard_time": 1777694721,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 307683,
@@ -5619,14 +5627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 275163,
-      "num": 275163,
-      "word": "鹿晗叫李小冉姐姐",
-      "onboard_time": 1777700178,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274741,
       "num": 196855,
       "word": "刘耀文 暴雨来袭前一秒",
@@ -5649,6 +5649,14 @@
       "onboard_time": 1777604838,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273406,
+      "num": 273406,
+      "word": "小狗身体太软把主人弄得手忙脚乱的",
+      "onboard_time": 1777695500,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 272045,
@@ -5776,14 +5784,6 @@
       "word": "我的猫终于干了我一直觉得她会干的事",
       "onboard_time": 1777698980,
       "rank": 17,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 266493,
-      "num": 266493,
-      "word": "小狗身体太软把主人弄得手忙脚乱的",
-      "onboard_time": 1777695500,
-      "rank": 18,
       "category": "幽默"
     },
     {
@@ -6339,6 +6339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237632,
+      "num": 262975,
+      "word": "躺平阴谋",
+      "onboard_time": 1777698080,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237419,
       "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
@@ -6721,6 +6729,22 @@
       "onboard_time": 1777201279,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220018,
+      "num": 220018,
+      "word": "西安上空现不明物",
+      "onboard_time": 1777702639,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219949,
+      "num": 219949,
+      "word": "对自己不好的事别到处说",
+      "onboard_time": 1777701859,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 219690,
@@ -7107,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208858,
+      "num": 208858,
+      "word": "承诺买房送69万黄金开发商久不兑现",
+      "onboard_time": 1777695140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208707,
       "num": 208707,
       "word": "肖战包场爱情没有神话",
@@ -7201,14 +7233,6 @@
       "onboard_time": 1777635560,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204494,
-      "num": 262975,
-      "word": "躺平阴谋",
-      "onboard_time": 1777698080,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204404,
@@ -7313,6 +7337,14 @@
       "onboard_time": 1777544840,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200732,
+      "num": 256931,
+      "word": "11岁女孩频繁呕吐确诊肾衰竭",
+      "onboard_time": 1777700299,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200154,
@@ -7449,14 +7481,6 @@
       "onboard_time": 1777521980,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196938,
-      "num": 256931,
-      "word": "11岁女孩频繁呕吐确诊肾衰竭",
-      "onboard_time": 1777700299,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196667,
@@ -7648,14 +7672,6 @@
       "word": "公司员工减重450斤获奖近5万元",
       "onboard_time": 1777520961,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190151,
-      "num": 190151,
-      "word": "承诺买房送69万黄金开发商久不兑现",
-      "onboard_time": 1777695140,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -8195,6 +8211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175959,
+      "num": 175959,
+      "word": "曾沛慈团三公小考第一",
+      "onboard_time": 1777699341,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175930,
       "num": 175930,
       "word": "Faker与Keria破纪录",
@@ -8267,6 +8291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174251,
+      "num": 133544,
+      "word": "曾沛慈团谁来了都得脱稿",
+      "onboard_time": 1777701740,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174107,
       "num": 151928,
       "word": "王一博 小马尾绑的高",
@@ -8289,14 +8321,6 @@
       "onboard_time": 1777210582,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173883,
-      "num": 173883,
-      "word": "曾沛慈团三公小考第一",
-      "onboard_time": 1777699341,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 173815,
@@ -8659,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165479,
+      "num": 162520,
+      "word": "孙怡阚清子一对视就跑调",
+      "onboard_time": 1777698800,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164909,
       "num": 186954,
       "word": "A股低迷原因找到了",
@@ -8737,14 +8769,6 @@
       "onboard_time": 1777205900,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163059,
-      "num": 163059,
-      "word": "对自己不好的事别到处说",
-      "onboard_time": 1777701859,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 162753,
@@ -8881,14 +8905,6 @@
       "onboard_time": 1777469423,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "孙怡阚清子一对视就跑调",
-      "onboard_time": 1777698800,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 159943,
@@ -9113,14 +9129,6 @@
       "onboard_time": 1777639702,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153759,
-      "num": 122837,
-      "word": "曾沛慈团谁来了都得脱稿",
-      "onboard_time": 1777701740,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 153758,
@@ -9843,6 +9851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135198,
+      "num": 135198,
+      "word": "胖东来再次回应249元毛巾事件",
+      "onboard_time": 1777699823,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135005,
       "num": 135005,
       "word": "真心建议不要冤枉护肤",
@@ -10220,7 +10236,7 @@
     },
     {
       "raw_hot": 122842,
-      "num": 122842,
+      "num": 127763,
       "word": "詹姆斯单节得分超火箭全队",
       "onboard_time": 1777699280,
       "rank": 40,
@@ -10419,6 +10435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116938,
+      "num": 251949,
+      "word": "东北早市被俄罗斯游客包场",
+      "onboard_time": 1777697719,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116694,
       "num": 155932,
       "word": "欧冠联赛",
@@ -10521,14 +10545,6 @@
       "onboard_time": 1777555401,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115277,
-      "num": 251949,
-      "word": "东北早市被俄罗斯游客包场",
-      "onboard_time": 1777697719,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115021,
@@ -10681,6 +10697,14 @@
       "onboard_time": 1777445359,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110557,
+      "num": 131782,
+      "word": "金价今年或跌回4000美元",
+      "onboard_time": 1777699641,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 110454,
@@ -10937,14 +10961,6 @@
       "onboard_time": 1777269261,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 103921,
-      "num": 122177,
-      "word": "金价今年或跌回4000美元",
-      "onboard_time": 1777699641,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 103535,
@@ -12524,7 +12540,7 @@
     },
     {
       "raw_hot": 53513,
-      "num": 121332,
+      "num": 225201,
       "word": "用AI把我家猫养在了电脑上",
       "onboard_time": 1777688359,
       "rank": 48,
@@ -12739,6 +12755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47236,
+      "num": 259012,
+      "word": "Claude画的DeepSeek蓝胖鱼",
+      "onboard_time": 1777696881,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47213,
       "num": 203842,
       "word": "男子嫌盗版电影网站广告多就手搓了一个",
@@ -12753,14 +12777,6 @@
       "onboard_time": 1777415356,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 46627,
-      "num": 259012,
-      "word": "Claude画的DeepSeek蓝胖鱼",
-      "onboard_time": 1777696881,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 46193,
@@ -12979,6 +12995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38511,
+      "num": 257982,
+      "word": "时隔五年我用AI复活了父亲",
+      "onboard_time": 1777699399,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38417,
       "num": 86623,
       "word": "CBA季后赛",
@@ -13017,14 +13041,6 @@
       "onboard_time": 1777374500,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37462,
-      "num": 257982,
-      "word": "时隔五年我用AI复活了父亲",
-      "onboard_time": 1777699399,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 37415,
@@ -13483,6 +13499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24239,
+      "num": 133925,
+      "word": "美国人正在逃离美国",
+      "onboard_time": 1777703120,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24234,
       "num": 128462,
       "word": "日本水表失窃案频发",
@@ -13793,6 +13817,14 @@
       "onboard_time": 1777591336,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7764,
+      "num": 176033,
+      "word": "Ming说这是在eStar的最后一个赛季",
+      "onboard_time": 1777703120,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 7187,

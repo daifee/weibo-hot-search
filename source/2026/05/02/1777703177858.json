@@ -1,0 +1,410 @@
+{
+  "runTime": 1777703177858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 892965,
+        "num": 1142874,
+        "word": "东航通报飞机与廊桥局部碰擦",
+        "onboard_time": 1777701022,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 672211,
+        "num": 852024,
+        "word": "胖东来正式起诉博主惊梦人",
+        "onboard_time": 1777692980,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 24550,
+        "num": 659781,
+        "word": "网警发布五一AI防骗指南",
+        "onboard_time": 1777699939,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1077939,
+        "num": 585359,
+        "word": "何炅回应王鹤棣情绪失控",
+        "onboard_time": 1777698319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493997,
+        "num": 493997,
+        "word": "余华辅导儿子语文后考试不及格",
+        "onboard_time": 1777697359,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1002811,
+        "num": 464055,
+        "word": "东航 虹桥",
+        "onboard_time": 1777700600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706473,
+        "num": 459661,
+        "word": "江语晨 浪姐厕女一",
+        "onboard_time": 1777699460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342387,
+        "num": 342387,
+        "word": "湖人淘汰火箭",
+        "onboard_time": 1777697120,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396438,
+        "num": 341963,
+        "word": "惊鸿一面",
+        "onboard_time": 1777698501,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327131,
+        "num": 327131,
+        "word": "一个bug是bug 一堆bug能work",
+        "onboard_time": 1777694721,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520179,
+        "num": 327050,
+        "word": "杨幂脸上烫伤还没好",
+        "onboard_time": 1777695079,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483364,
+        "num": 326918,
+        "word": "西安上空现不明物持续一小时后消失",
+        "onboard_time": 1777688898,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465051,
+        "num": 326754,
+        "word": "有人为吃蜜雪9元圣代碗排队5小时",
+        "onboard_time": 1777700600,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462232,
+        "num": 326599,
+        "word": "鹿晗叫李小冉姐姐",
+        "onboard_time": 1777700178,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395089,
+        "num": 326511,
+        "word": "时代峰峻回应严浩翔家庭事宜",
+        "onboard_time": 1777690699,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326376,
+        "num": 326376,
+        "word": "DeepSeek 现在我是你爹了",
+        "onboard_time": 1777694540,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336420,
+        "num": 320630,
+        "word": "戚薇也在嗑张凌赫田曦薇",
+        "onboard_time": 1777695200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273406,
+        "num": 273406,
+        "word": "小狗身体太软把主人弄得手忙脚乱的",
+        "onboard_time": 1777695500,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266172,
+        "num": 266172,
+        "word": "何洁听跳楼机还没到副歌就直接关掉了",
+        "onboard_time": 1777689623,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123509,
+        "num": 244171,
+        "word": "日本战犯竟称侵华是为了管教兄弟",
+        "onboard_time": 1777692021,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6243936,
+        "num": 241516,
+        "word": "严军发了一家四口照",
+        "onboard_time": 1777684399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1322831,
+        "num": 240056,
+        "word": "王鹤棣第一次情绪失控",
+        "onboard_time": 1777694422,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237632,
+        "num": 237632,
+        "word": "躺平阴谋",
+        "onboard_time": 1777698080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979335,
+        "num": 237195,
+        "word": "疑似严浩翔妈妈发博",
+        "onboard_time": 1777689739,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68117,
+        "num": 232721,
+        "word": "张雪回应820RR赛道熄火",
+        "onboard_time": 1777687518,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47236,
+        "num": 231459,
+        "word": "Claude画的DeepSeek蓝胖鱼",
+        "onboard_time": 1777696881,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38511,
+        "num": 228971,
+        "word": "时隔五年我用AI复活了父亲",
+        "onboard_time": 1777699399,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27677,
+        "num": 225201,
+        "word": "用AI把我家猫养在了电脑上",
+        "onboard_time": 1777688359,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244759,
+        "num": 224431,
+        "word": "王濛张月抢同一首歌是为了同一个人",
+        "onboard_time": 1777688300,
+        "rank": 28,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 116938,
+        "num": 220253,
+        "word": "东北早市被俄罗斯游客包场",
+        "onboard_time": 1777697719,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220018,
+        "num": 220018,
+        "word": "西安上空现不明物",
+        "onboard_time": 1777702639,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219949,
+        "num": 219949,
+        "word": "对自己不好的事别到处说",
+        "onboard_time": 1777701859,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217215,
+        "num": 217215,
+        "word": "乘风三公小考",
+        "onboard_time": 1777695981,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212325,
+        "num": 212325,
+        "word": "我的猫终于干了我一直觉得她会干的事",
+        "onboard_time": 1777698980,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208858,
+        "num": 208858,
+        "word": "承诺买房送69万黄金开发商久不兑现",
+        "onboard_time": 1777695140,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207430,
+        "num": 207430,
+        "word": "刘晓庆回应和王婆互动冷淡",
+        "onboard_time": 1777693223,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200732,
+        "num": 200732,
+        "word": "11岁女孩频繁呕吐确诊肾衰竭",
+        "onboard_time": 1777700299,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7764,
+        "num": 176033,
+        "word": "Ming说这是在eStar的最后一个赛季",
+        "onboard_time": 1777703120,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175959,
+        "num": 175959,
+        "word": "曾沛慈团三公小考第一",
+        "onboard_time": 1777699341,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163133,
+        "num": 163133,
+        "word": "突然就懂了朋友和好朋友的区别",
+        "onboard_time": 1777692681,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165479,
+        "num": 162520,
+        "word": "孙怡阚清子一对视就跑调",
+        "onboard_time": 1777698800,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159376,
+        "num": 159376,
+        "word": "霸王茶姬水银门当事人称是对象下单",
+        "onboard_time": 1777693823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135198,
+        "num": 135198,
+        "word": "胖东来再次回应249元毛巾事件",
+        "onboard_time": 1777699823,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24239,
+        "num": 133925,
+        "word": "美国人正在逃离美国",
+        "onboard_time": 1777703120,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174251,
+        "num": 133544,
+        "word": "曾沛慈团谁来了都得脱稿",
+        "onboard_time": 1777701740,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110557,
+        "num": 131782,
+        "word": "金价今年或跌回4000美元",
+        "onboard_time": 1777699641,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25026,
+        "num": 131180,
+        "word": "DeepSeek拟人 哇呀啧呜哇",
+        "onboard_time": 1777689800,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1232,
+        "num": 129178,
+        "word": "极氪月交付量创历史新高",
+        "onboard_time": 1777626319,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113306,
+        "num": 127763,
+        "word": "詹姆斯单节得分超火箭全队",
+        "onboard_time": 1777699280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93028,
+        "num": 127046,
+        "word": "巴雷特绝杀骑士",
+        "onboard_time": 1777689921,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与劳动人民在一起#"
+    }
+  }
+}
