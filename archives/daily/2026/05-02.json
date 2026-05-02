@@ -1,6 +1,6 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777720529554,
+  "endTime": 1777722840721,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5229638,
+      "raw_hot": 5338578,
       "num": 507806,
       "word": "周也方要求hi6回应",
       "onboard_time": 1777717819,
@@ -91,7 +91,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1127656,
+      "raw_hot": 1215167,
+      "num": 443854,
+      "word": "严浩翔演唱会状态",
+      "onboard_time": 1777720340,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1200972,
+      "num": 455600,
+      "word": "时代少年团 男团学",
+      "onboard_time": 1777720040,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1193300,
       "num": 1180425,
       "word": "世界杯转播权再现中国式僵局",
       "onboard_time": 1777708339,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 802825,
+      "num": 666060,
+      "word": "河南蒜薹 滞销",
+      "onboard_time": 1777718841,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 748216,
       "num": 336180,
       "word": "西安上空现不明物持续一小时后消失",
@@ -235,7 +259,7 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 664678,
+      "raw_hot": 676274,
       "num": 664678,
       "word": "ai情头",
       "onboard_time": 1777718181,
@@ -249,6 +273,22 @@
       "onboard_time": 1777707979,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634349,
+      "num": 461641,
+      "word": "三亚偶遇赵又廷高圆圆牵手散步",
+      "onboard_time": 1777712480,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 623537,
+      "num": 1099765,
+      "word": "日本地震",
+      "onboard_time": 1777716200,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 617769,
@@ -273,22 +313,6 @@
       "onboard_time": 1777720281,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 564270,
-      "num": 666060,
-      "word": "河南蒜薹 滞销",
-      "onboard_time": 1777718841,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 528105,
-      "num": 461641,
-      "word": "三亚偶遇赵又廷高圆圆牵手散步",
-      "onboard_time": 1777712480,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 521707,
@@ -379,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 428995,
+      "num": 502660,
+      "word": "原来这就是情感漠视吗",
+      "onboard_time": 1777717580,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425229,
       "num": 850178,
       "word": "火车票开售即售罄的原因找到了",
@@ -409,14 +441,6 @@
       "onboard_time": 1777698501,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380322,
-      "num": 513444,
-      "word": "日本地震",
-      "onboard_time": 1777716200,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 376172,
@@ -480,6 +504,14 @@
       "word": "孙颖莎vs迪亚科努",
       "onboard_time": 1777712360,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 336729,
+      "num": 336729,
+      "word": "苏超",
+      "onboard_time": 1777721359,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -611,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276934,
+      "num": 395711,
+      "word": "孙颖莎这一球夯爆了",
+      "onboard_time": 1777720701,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -641,14 +681,6 @@
       "onboard_time": 1777646121,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272037,
-      "num": 502660,
-      "word": "原来这就是情感漠视吗",
-      "onboard_time": 1777717580,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 270567,
@@ -731,14 +763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 227396,
-      "num": 455600,
-      "word": "时代少年团 男团学",
-      "onboard_time": 1777720040,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227212,
       "num": 227212,
       "word": "发明创可贴当鼠标垫的是天才",
@@ -811,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208171,
+      "num": 792755,
+      "word": "赖清德上演偷渡式外窜闹剧",
+      "onboard_time": 1777721601,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206251,
       "num": 206251,
       "word": "靠低俗擦边玩法注定只是昙花一现",
       "onboard_time": 1777708160,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202805,
+      "num": 202805,
+      "word": "王楚钦vs沃克",
+      "onboard_time": 1777722560,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 201594,
@@ -899,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181217,
+      "num": 181217,
+      "word": "五一假期真是捅人窝了吧",
+      "onboard_time": 1777720581,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179294,
       "num": 143678,
       "word": "李建宏讣告",
       "onboard_time": 1777632079,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178973,
+      "num": 449291,
+      "word": "猫妈妈觅食回来天都塌了",
+      "onboard_time": 1777717282,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 177354,
@@ -979,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167163,
-      "num": 443854,
-      "word": "严浩翔演唱会状态",
-      "onboard_time": 1777720340,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165921,
       "num": 204157,
       "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
@@ -1001,14 +1049,6 @@
       "onboard_time": 1777698800,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165361,
-      "num": 449291,
-      "word": "猫妈妈觅食回来天都塌了",
-      "onboard_time": 1777717282,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 159727,
@@ -1099,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141599,
+      "num": 141599,
+      "word": "侯明昊唱歌",
+      "onboard_time": 1777721541,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138876,
       "num": 276936,
       "word": "邓超喊话李小冉要玩狠的",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1777637542,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135677,
+      "num": 135677,
+      "word": "商务部发布禁令",
+      "onboard_time": 1777721481,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135198,
@@ -1163,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130092,
+      "num": 130092,
+      "word": "王濛 油我扛",
+      "onboard_time": 1777719620,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129570,
       "num": 129570,
       "word": "张檬坚持给一岁儿子喂母乳",
@@ -1185,6 +1249,22 @@
       "onboard_time": 1777698380,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128781,
+      "num": 128781,
+      "word": "曹骏工作室否认拉踩",
+      "onboard_time": 1777715720,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127264,
+      "num": 416483,
+      "word": "三个10岁救了一个2岁",
+      "onboard_time": 1777718061,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125518,
@@ -1227,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120966,
+      "num": 120966,
+      "word": "演员被打中血流不止仍坚持演完",
+      "onboard_time": 1777721359,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119059,
       "num": 119059,
       "word": "李若彤被路人认成40岁",
@@ -1259,12 +1347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116438,
+      "num": 116438,
+      "word": "国乒女团3比0罗马尼亚",
+      "onboard_time": 1777719740,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116387,
       "num": 116387,
       "word": "浪姐争议嘉宾称也只签了一期合同",
       "onboard_time": 1777680378,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116086,
+      "num": 116086,
+      "word": "吴宜泽vs艾伦",
+      "onboard_time": 1777722740,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 114960,
@@ -1299,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112582,
+      "num": 128809,
+      "word": "TTG挑杯淘汰",
+      "onboard_time": 1777722501,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112455,
       "num": 138916,
       "word": "甲亢哥在深圳买的手机掉海里了",
@@ -1321,14 +1433,6 @@
       "onboard_time": 1777644742,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 109702,
-      "num": 416483,
-      "word": "三个10岁救了一个2岁",
-      "onboard_time": 1777718061,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107249,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1777699939,
       "rank": 2,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 22503,
+      "num": 128795,
+      "word": "EDG季后赛对阵DRG",
+      "onboard_time": 1777721421,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 18713,

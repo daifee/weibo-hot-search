@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/02 19:15:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/02 19:54:00
 </p>
 </blockquote>
 <p>
@@ -645,14 +645,14 @@ Rookie道歉（热度：15863993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%BF%AD%E9%83%A85.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-甘肃迭部5.5级地震（热度：5334101）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%96%B9%E8%A6%81%E6%B1%82hi6%E5%9B%9E%E5%BA%94%23" target="weibo">
+周也方要求hi6回应（热度：5338578）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%96%B9%E8%A6%81%E6%B1%82hi6%E5%9B%9E%E5%BA%94%23" target="weibo">
-周也方要求hi6回应（热度：5229638）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%BF%AD%E9%83%A85.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+甘肃迭部5.5级地震（热度：5334101）
 </a>
 </li>
 

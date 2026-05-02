@@ -1,6 +1,6 @@
 {
   "startTime": 1777133087606,
-  "endTime": 1777720529554,
+  "endTime": 1777722840721,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -75,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5229638,
+      "raw_hot": 5338578,
       "num": 507806,
       "word": "周也方要求hi6回应",
       "onboard_time": 1777717819,
@@ -867,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1215167,
+      "num": 443854,
+      "word": "严浩翔演唱会状态",
+      "onboard_time": 1777720340,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1213039,
       "num": 531647,
       "word": "女子生姜当水果1天1斤坚持10年",
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200972,
+      "num": 455600,
+      "word": "时代少年团 男团学",
+      "onboard_time": 1777720040,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199404,
       "num": 757561,
       "word": "张若昀评论区",
@@ -905,6 +921,14 @@
       "onboard_time": 1777265841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1193300,
+      "num": 1180425,
+      "word": "世界杯转播权再现中国式僵局",
+      "onboard_time": 1777708339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1192475,
@@ -953,14 +977,6 @@
       "onboard_time": 1777449920,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1127656,
-      "num": 1180425,
-      "word": "世界杯转播权再现中国式僵局",
-      "onboard_time": 1777708339,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 1125043,
@@ -1755,6 +1771,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 802825,
+      "num": 666060,
+      "word": "河南蒜薹 滞销",
+      "onboard_time": 1777718841,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 795156,
       "num": 940317,
       "word": "特朗普公布枪手强闯安检录像",
@@ -2251,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676274,
+      "num": 664678,
+      "word": "ai情头",
+      "onboard_time": 1777718181,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 673787,
       "num": 339046,
       "word": "金饰价格断崖下跌",
@@ -2305,14 +2337,6 @@
       "onboard_time": 1777189580,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 664678,
-      "num": 664678,
-      "word": "ai情头",
-      "onboard_time": 1777718181,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 661461,
@@ -2475,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634349,
+      "num": 461641,
+      "word": "三亚偶遇赵又廷高圆圆牵手散步",
+      "onboard_time": 1777712480,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633939,
       "num": 633939,
       "word": "黄子弘凡 银河左岸出场顺序",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1777386682,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623537,
+      "num": 1099765,
+      "word": "日本地震",
+      "onboard_time": 1777716200,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 620390,
@@ -2835,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 564270,
-      "num": 666060,
-      "word": "河南蒜薹 滞销",
-      "onboard_time": 1777718841,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 561256,
       "num": 343672,
       "word": "易梦玲刷脸刷不出",
@@ -3120,14 +3152,6 @@
       "word": "青岛偶遇关晓彤",
       "onboard_time": 1777513221,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 528105,
-      "num": 461641,
-      "word": "三亚偶遇赵又廷高圆圆牵手散步",
-      "onboard_time": 1777712480,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4003,6 +4027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428995,
+      "num": 502660,
+      "word": "原来这就是情感漠视吗",
+      "onboard_time": 1777717580,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428413,
       "num": 403270,
       "word": "日本人不愿相信中国座椅给手机充电",
@@ -4441,14 +4473,6 @@
       "onboard_time": 1777293443,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380322,
-      "num": 513444,
-      "word": "日本地震",
-      "onboard_time": 1777716200,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 379822,
@@ -5032,6 +5056,14 @@
       "word": "孙颖莎 红包",
       "onboard_time": 1777378942,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 336729,
+      "num": 429977,
+      "word": "苏超",
+      "onboard_time": 1777116561,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -5875,6 +5907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276934,
+      "num": 395711,
+      "word": "孙颖莎这一球夯爆了",
+      "onboard_time": 1777720701,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -5945,14 +5985,6 @@
       "onboard_time": 1777168700,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272037,
-      "num": 502660,
-      "word": "原来这就是情感漠视吗",
-      "onboard_time": 1777717580,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 271518,
@@ -6875,14 +6907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227396,
-      "num": 455600,
-      "word": "时代少年团 男团学",
-      "onboard_time": 1777720040,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227379,
       "num": 227379,
       "word": "白冰单靠6个广告月入近400万",
@@ -7507,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208171,
+      "num": 792755,
+      "word": "赖清德上演偷渡式外窜闹剧",
+      "onboard_time": 1777721601,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207027,
       "num": 207027,
       "word": "陈瑶下班戴者来女送的镯子",
@@ -7623,6 +7655,14 @@
       "num": 249578,
       "word": "伦敦马拉松 人类奇迹",
       "onboard_time": 1777200860,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202805,
+      "num": 202805,
+      "word": "王楚钦vs沃克",
+      "onboard_time": 1777722560,
       "rank": 25,
       "category": "体育"
     },
@@ -8355,6 +8395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181217,
+      "num": 181217,
+      "word": "五一假期真是捅人窝了吧",
+      "onboard_time": 1777720581,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180398,
       "num": 171469,
       "word": "阚清子太争气了",
@@ -8417,6 +8465,14 @@
       "onboard_time": 1777298541,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178973,
+      "num": 449291,
+      "word": "猫妈妈觅食回来天都塌了",
+      "onboard_time": 1777717282,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 178919,
@@ -9011,14 +9067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167163,
-      "num": 443854,
-      "word": "严浩翔演唱会状态",
-      "onboard_time": 1777720340,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 166661,
       "num": 354261,
       "word": "looper结婚",
@@ -9073,14 +9121,6 @@
       "onboard_time": 1777698800,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165361,
-      "num": 449291,
-      "word": "猫妈妈觅食回来天都塌了",
-      "onboard_time": 1777717282,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 164909,
@@ -9497,14 +9537,6 @@
       "onboard_time": 1777710260,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154671,
-      "num": 429977,
-      "word": "苏超",
-      "onboard_time": 1777116561,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 154420,
@@ -10043,6 +10075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141599,
+      "num": 141599,
+      "word": "侯明昊唱歌",
+      "onboard_time": 1777721541,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141430,
       "num": 141430,
       "word": "许凯演技",
@@ -10283,6 +10323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135677,
+      "num": 135677,
+      "word": "商务部发布禁令",
+      "onboard_time": 1777721481,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135243,
       "num": 135243,
       "word": "天赐 TCG夯爆了",
@@ -10475,6 +10523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130092,
+      "num": 130092,
+      "word": "王濛 油我扛",
+      "onboard_time": 1777719620,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129397,
       "num": 273537,
       "word": "华为PuraXMax首销日销量曝光",
@@ -10515,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128781,
+      "num": 128781,
+      "word": "曹骏工作室否认拉踩",
+      "onboard_time": 1777715720,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128667,
       "num": 273797,
       "word": "比亚迪部分车型即将涨价",
@@ -10536,6 +10600,14 @@
       "word": "广州地铁一男子向乘客喷辣椒水",
       "onboard_time": 1777610299,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127264,
+      "num": 416483,
+      "word": "三个10岁救了一个2岁",
+      "onboard_time": 1777718061,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -10763,6 +10835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120966,
+      "num": 120966,
+      "word": "演员被打中血流不止仍坚持演完",
+      "onboard_time": 1777721359,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120595,
       "num": 202294,
       "word": "妇联回应孕妇称买水果遭丈夫咒骂",
@@ -10915,6 +10995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116438,
+      "num": 116438,
+      "word": "国乒女团3比0罗马尼亚",
+      "onboard_time": 1777719740,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116401,
       "num": 233167,
       "word": "医院院长儿子吃空饷初步调查结果",
@@ -10961,6 +11049,14 @@
       "onboard_time": 1777172480,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116086,
+      "num": 116086,
+      "word": "吴宜泽vs艾伦",
+      "onboard_time": 1777722740,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115859,
@@ -11123,6 +11219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112582,
+      "num": 128809,
+      "word": "TTG挑杯淘汰",
+      "onboard_time": 1777722501,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112131,
       "num": 182319,
       "word": "1名医生1分钟给3人看病26次",
@@ -11192,14 +11296,6 @@
       "word": "失明男子租房每月50元20年没涨",
       "onboard_time": 1777131562,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109702,
-      "num": 416483,
-      "word": "三个10岁救了一个2岁",
-      "onboard_time": 1777718061,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -14081,6 +14177,14 @@
       "onboard_time": 1777640181,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22503,
+      "num": 128795,
+      "word": "EDG季后赛对阵DRG",
+      "onboard_time": 1777721421,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 22492,
