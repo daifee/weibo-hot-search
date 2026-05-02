@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777723668387,
+  "endTime": 1777728419047,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5770750,
-      "num": 643582,
+      "num": 1173310,
       "word": "张婧仪方要求你好星期六道歉",
       "onboard_time": 1777713740,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1777717819,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5107513,
+      "num": 5107513,
+      "word": "张雪机车再夺冠军",
+      "onboard_time": 1777725800,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4321847,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1215167,
-      "num": 523496,
+      "num": 857866,
       "word": "严浩翔演唱会状态",
       "onboard_time": 1777720340,
       "rank": 35,
@@ -241,6 +249,14 @@
       "onboard_time": 1777708339,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1109866,
+      "num": 1109866,
+      "word": "追星女的手机密码人尽皆知",
+      "onboard_time": 1777724541,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1106775,
@@ -401,6 +417,14 @@
       "onboard_time": 1777644742,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 818005,
+      "num": 1335875,
+      "word": "日本地震",
+      "onboard_time": 1777716200,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 817409,
@@ -587,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 672407,
-      "num": 1107585,
-      "word": "日本地震",
-      "onboard_time": 1777716200,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 668333,
       "num": 668333,
       "word": "初代跑男",
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572346,
+      "num": 572346,
+      "word": "Tian闹剧结束了",
+      "onboard_time": 1777724840,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 565999,
       "num": 447957,
       "word": "阚清子为穿仙女裙有多拼",
@@ -729,6 +753,14 @@
       "onboard_time": 1777625780,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548640,
+      "num": 548640,
+      "word": "原来这就是情感漠视吗",
+      "onboard_time": 1777717580,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 543313,
@@ -769,14 +801,6 @@
       "onboard_time": 1777606821,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 523719,
-      "num": 523719,
-      "word": "原来这就是情感漠视吗",
-      "onboard_time": 1777717580,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 521707,
@@ -843,6 +867,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 492412,
+      "num": 492412,
+      "word": "苏超南京vs常州",
+      "onboard_time": 1777723941,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 492363,
+      "num": 795901,
+      "word": "苏超",
+      "onboard_time": 1777721359,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492039,
       "num": 373598,
       "word": "何洁听跳楼机还没到副歌就直接关掉了",
@@ -865,14 +905,6 @@
       "onboard_time": 1777629680,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 484046,
-      "num": 795901,
-      "word": "苏超",
-      "onboard_time": 1777721359,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 481626,
@@ -1083,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 377638,
+      "num": 377638,
+      "word": "张雪机车收获第三冠",
+      "onboard_time": 1777726762,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377427,
       "num": 377427,
       "word": "警方回应莫氏鸡煲已报警",
@@ -1163,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347728,
+      "num": 347728,
+      "word": "张雪机车回应再次夺冠",
+      "onboard_time": 1777727782,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347125,
       "num": 320376,
       "word": "李飞怎么变这么薄一片了",
@@ -1185,6 +1233,22 @@
       "onboard_time": 1777712360,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344099,
+      "num": 519838,
+      "word": "王楚钦vs沃克",
+      "onboard_time": 1777722560,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342430,
+      "num": 342430,
+      "word": "丁程鑫生图你随便吧",
+      "onboard_time": 1777724299,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 340627,
@@ -1323,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315255,
+      "num": 315255,
+      "word": "世乒赛",
+      "onboard_time": 1777725320,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1777647681,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290537,
+      "num": 277127,
+      "word": "刘耀文生图头身比",
+      "onboard_time": 1777725981,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 290226,
@@ -1515,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278897,
+      "num": 514352,
+      "word": "景区装电梯无痛爬山被质疑过度开发",
+      "onboard_time": 1777723282,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277790,
       "num": 440297,
       "word": "13点起床才是性价比最高的",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1777720222,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274119,
+      "num": 274119,
+      "word": "网剧浮生",
+      "onboard_time": 1777725201,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 274003,
@@ -1667,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256976,
-      "num": 519838,
-      "word": "王楚钦vs沃克",
-      "onboard_time": 1777722560,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256446,
       "num": 256446,
       "word": "乘风三公小考",
@@ -1739,6 +1827,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238071,
+      "num": 238071,
+      "word": "你好星期六",
+      "onboard_time": 1777726882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238010,
+      "num": 174531,
+      "word": "商务部发布禁令",
+      "onboard_time": 1777721481,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 237942,
+      "num": 237942,
+      "word": "1300斤牛走丢20天暴瘦200斤",
+      "onboard_time": 1777726821,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237632,
       "num": 262975,
       "word": "躺平阴谋",
@@ -1769,6 +1881,14 @@
       "onboard_time": 1777591098,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232371,
+      "num": 310125,
+      "word": "五一假期真是捅人窝了吧",
+      "onboard_time": 1777720581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231080,
@@ -1907,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211440,
+      "num": 211440,
+      "word": "WBG八强",
+      "onboard_time": 1777728320,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211096,
       "num": 211096,
       "word": "王楚钦背后一众国乒大佬",
@@ -1963,20 +2091,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206606,
-      "num": 310125,
-      "word": "五一假期真是捅人窝了吧",
-      "onboard_time": 1777720581,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206251,
       "num": 206251,
       "word": "靠低俗擦边玩法注定只是昙花一现",
       "onboard_time": 1777708160,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205787,
+      "num": 205787,
+      "word": "王濛三公舞蹈是跟着刘雨昕学的",
+      "onboard_time": 1777726401,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 204883,
@@ -2187,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177618,
+      "num": 177618,
+      "word": "贺娇龙账号更名并清空橱窗",
+      "onboard_time": 1777724240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177354,
       "num": 177354,
       "word": "刘宇宁爆红后有多稳健清醒",
@@ -2377,14 +2513,6 @@
       "onboard_time": 1777718061,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160205,
-      "num": 160205,
-      "word": "商务部发布禁令",
-      "onboard_time": 1777721481,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159727,
@@ -2796,7 +2924,7 @@
     },
     {
       "raw_hot": 129919,
-      "num": 129919,
+      "num": 230765,
       "word": "国乒女团3比0罗马尼亚",
       "onboard_time": 1777719740,
       "rank": 45,
@@ -3049,6 +3177,14 @@
       "onboard_time": 1777722501,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112533,
+      "num": 232221,
+      "word": "张雪机车绝杀两台雅马哈",
+      "onboard_time": 1777728202,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 112081,
@@ -3307,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84570,
+      "num": 262685,
+      "word": "日本军事动作与二战前高度相似",
+      "onboard_time": 1777726762,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84514,
       "num": 134139,
       "word": "又发现了新的表白方式",
@@ -3369,6 +3513,14 @@
       "onboard_time": 1777634421,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79635,
+      "num": 344987,
+      "word": "霸王茶姬水银事件为何一再反转",
+      "onboard_time": 1777727662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78908,
@@ -3473,6 +3625,14 @@
       "onboard_time": 1777593078,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69508,
+      "num": 1207138,
+      "word": "95后把卡脖子难题变成咱的杀手锏",
+      "onboard_time": 1777726762,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68787,
@@ -3875,14 +4035,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 27975,
-      "num": 514352,
-      "word": "景区装电梯无痛爬山被质疑过度开发",
-      "onboard_time": 1777723282,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27188,
       "num": 419679,
       "word": "多地楼市新政出台",
@@ -3971,6 +4123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16323,
+      "num": 231588,
+      "word": "张雪机车回应排位赛第6",
+      "onboard_time": 1777727240,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15942,
       "num": 274739,
       "word": "北京国际车展",
@@ -4016,6 +4176,14 @@
       "word": "苏翊鸣开心游玩",
       "onboard_time": 1777591336,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8186,
+      "num": 229856,
+      "word": "张雪机车暂列积分榜第三",
+      "onboard_time": 1777726882,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -4083,6 +4251,9 @@
     },
     {
       "word": "#重温总书记关心劳动群众的暖心瞬间#"
+    },
+    {
+      "word": "#总书记牵挂青少年科学教育#"
     }
   ]
 }
