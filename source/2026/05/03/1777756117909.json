@@ -1,0 +1,410 @@
+{
+  "runTime": 1777756117909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 245106,
+        "num": 245106,
+        "word": "父母互相拍照6岁儿子失足坠崖",
+        "onboard_time": 1777737981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78670,
+        "num": 128964,
+        "word": "世乒赛",
+        "onboard_time": 1777725320,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14722,
+        "num": 113553,
+        "word": "95后把卡脖子难题变成咱的杀手锏",
+        "onboard_time": 1777726762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422146,
+        "num": 112914,
+        "word": "严浩翔哭了",
+        "onboard_time": 1777731983,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106261,
+        "num": 106261,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67610,
+        "num": 67610,
+        "word": "追星女的手机密码人尽皆知",
+        "onboard_time": 1777724541,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66556,
+        "num": 66556,
+        "word": "张雪机车再夺冠军",
+        "onboard_time": 1777725800,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53137,
+        "num": 53137,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38899,
+        "num": 51841,
+        "word": "刘丁硕假期厕所直播翻车",
+        "onboard_time": 1777728621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 51352,
+        "word": "猫为什么不焦虑",
+        "onboard_time": 1777741218,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51071,
+        "num": 51071,
+        "word": "卢昱晓收藏与檀健次cp视频",
+        "onboard_time": 1777732102,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45603,
+        "num": 45603,
+        "word": "周深一家四口花车巡游",
+        "onboard_time": 1777737861,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42621,
+        "num": 45603,
+        "word": "便利店被长相成熟未成年设套买烟",
+        "onboard_time": 1777732641,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40025,
+        "num": 45603,
+        "word": "1岁儿子被抢走父亲怀疑奶奶18年",
+        "onboard_time": 1777735042,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39591,
+        "num": 45603,
+        "word": "朱孝天承认F4不和",
+        "onboard_time": 1777728021,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 37958,
+        "num": 45602,
+        "word": "2026F1迈阿密大奖赛",
+        "onboard_time": 1777741818,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35499,
+        "num": 45602,
+        "word": "郭晶晶陈若琳假期同框热聊",
+        "onboard_time": 1777743077,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34423,
+        "num": 45602,
+        "word": "Tian闹剧结束了",
+        "onboard_time": 1777724840,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33153,
+        "num": 45601,
+        "word": "误导女子闯入毒蛇窝AI道歉",
+        "onboard_time": 1777741218,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32550,
+        "num": 45601,
+        "word": "五一假期真是捅人窝了吧",
+        "onboard_time": 1777720581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66980,
+        "num": 45601,
+        "word": "建议大家去狂刷跨境综艺打破信息差",
+        "onboard_time": 1777741218,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31840,
+        "num": 45601,
+        "word": "AG确认挑杯八强",
+        "onboard_time": 1777742417,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30293,
+        "num": 45600,
+        "word": "苏超南京vs常州",
+        "onboard_time": 1777723941,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29788,
+        "num": 45600,
+        "word": "中国台北女队教练发文控诉",
+        "onboard_time": 1777732882,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29291,
+        "num": 45600,
+        "word": "国乒男团伦敦世乒赛开门红",
+        "onboard_time": 1777750215,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28718,
+        "num": 45600,
+        "word": "一诺被开闪光灯",
+        "onboard_time": 1777731862,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27910,
+        "num": 45599,
+        "word": "夺冠车手感谢张雪机车",
+        "onboard_time": 1777735823,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27327,
+        "num": 45599,
+        "word": "严浩翔演唱会状态",
+        "onboard_time": 1777720340,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27047,
+        "num": 45599,
+        "word": "苏超",
+        "onboard_time": 1777721359,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26706,
+        "num": 45599,
+        "word": "学霸情侣专升本斩获76万奖学金",
+        "onboard_time": 1777734203,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46736,
+        "num": 45599,
+        "word": "张雪机车连超2辆雅马哈",
+        "onboard_time": 1777747755,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32587,
+        "num": 45598,
+        "word": "杨威定下16岁前不牺牲学业红线",
+        "onboard_time": 1777743916,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26704,
+        "num": 45598,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24374,
+        "num": 45598,
+        "word": "张雪机车回应再次夺冠",
+        "onboard_time": 1777727782,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24334,
+        "num": 45598,
+        "word": "你好星期六",
+        "onboard_time": 1777726882,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23022,
+        "num": 45597,
+        "word": "贺峻霖是真人bjd吧",
+        "onboard_time": 1777736782,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22507,
+        "num": 45597,
+        "word": "iPhone18Pro最低配或不涨价",
+        "onboard_time": 1777732403,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22351,
+        "num": 45597,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22320,
+        "num": 45597,
+        "word": "张雪机车绝杀两台雅马哈",
+        "onboard_time": 1777728202,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22235,
+        "num": 45596,
+        "word": "1300斤牛走丢20天暴瘦200斤",
+        "onboard_time": 1777726821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21967,
+        "num": 45596,
+        "word": "宝妈称花7万5坐月子多次吃到生肉",
+        "onboard_time": 1777741218,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21478,
+        "num": 45596,
+        "word": "西瓜摊老板戴手套用牙签挑瓜籽",
+        "onboard_time": 1777718241,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21252,
+        "num": 45596,
+        "word": "FPX.ZQ晋级全球四强",
+        "onboard_time": 1777748773,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20601,
+        "num": 45595,
+        "word": "徐良让张远去办公室找他",
+        "onboard_time": 1777732102,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20458,
+        "num": 45595,
+        "word": "被AI误导闯入毒蛇窝女子发声",
+        "onboard_time": 1777736662,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20083,
+        "num": 45595,
+        "word": "21世纪大君夫人8",
+        "onboard_time": 1777732823,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19596,
+        "num": 45594,
+        "word": "AG战胜WST",
+        "onboard_time": 1777747095,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18832,
+        "num": 45594,
+        "word": "35岁男子反复口腔溃疡查出舌鳞癌",
+        "onboard_time": 1777736422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18698,
+        "num": 45594,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18589,
+        "num": 45594,
+        "word": "1300斤牛被找回暴瘦200斤村民发声",
+        "onboard_time": 1777753753,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语劳动者#"
+    }
+  }
+}
