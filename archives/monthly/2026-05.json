@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777694410937,
+  "endTime": 1777702490856,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2920436,
-      "num": 200395,
+      "num": 261123,
       "word": "疑似严浩翔妈妈发博",
       "onboard_time": 1777689739,
       "rank": 22,
@@ -104,6 +104,14 @@
       "word": "李晨怀念跑男老成员",
       "onboard_time": 1777560921,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1552424,
+      "num": 264039,
+      "word": "王鹤棣第一次情绪失控",
+      "onboard_time": 1777694422,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -217,6 +225,14 @@
       "onboard_time": 1777633459,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 904587,
+      "num": 459813,
+      "word": "东航 虹桥",
+      "onboard_time": 1777700600,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 889813,
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681397,
+      "num": 1109023,
+      "word": "胖东来正式起诉博主惊梦人",
+      "onboard_time": 1777692980,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 668333,
       "num": 668333,
       "word": "初代跑男",
@@ -409,6 +433,22 @@
       "onboard_time": 1777599859,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 661654,
+      "num": 805344,
+      "word": "东航通报飞机与廊桥局部碰擦",
+      "onboard_time": 1777701022,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 659135,
+      "num": 659135,
+      "word": "何炅回应王鹤棣情绪失控",
+      "onboard_time": 1777698319,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 655160,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557741,
+      "num": 456319,
+      "word": "江语晨 浪姐厕女一",
+      "onboard_time": 1777699460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556874,
       "num": 323945,
       "word": "迪丽热巴在还63张自拍的债了",
@@ -539,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521707,
+      "num": 302762,
+      "word": "杨幂脸上烫伤还没好",
+      "onboard_time": 1777695079,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518491,
       "num": 367520,
       "word": "景区回应刘晓庆和王婆互动冷淡",
@@ -585,6 +641,14 @@
       "onboard_time": 1777629680,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 485566,
+      "num": 485566,
+      "word": "余华辅导儿子语文后考试不及格",
+      "onboard_time": 1777697359,
+      "rank": 4,
+      "category": "读书作家"
     },
     {
       "raw_hot": 481626,
@@ -667,6 +731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 432459,
+      "num": 293576,
+      "word": "有人为吃蜜雪9元圣代碗排队5小时",
+      "onboard_time": 1777700600,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431795,
       "num": 264976,
       "word": "严浩翔FLY台风",
@@ -681,14 +753,6 @@
       "onboard_time": 1777644082,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423448,
-      "num": 784472,
-      "word": "胖东来正式起诉博主惊梦人",
-      "onboard_time": 1777692980,
-      "rank": 9,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 402045,
@@ -721,6 +785,14 @@
       "onboard_time": 1777635861,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 380620,
+      "num": 380620,
+      "word": "惊鸿一面",
+      "onboard_time": 1777698501,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 379516,
@@ -785,6 +857,14 @@
       "onboard_time": 1777557742,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362316,
+      "num": 362316,
+      "word": "湖人淘汰火箭",
+      "onboard_time": 1777697120,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 351060,
@@ -875,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329950,
+      "num": 284756,
+      "word": "戚薇也在嗑张凌赫田曦薇",
+      "onboard_time": 1777695200,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329603,
       "num": 151906,
       "word": "万千惠问三宝自己的下属漂不漂亮",
@@ -899,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321524,
+      "num": 277606,
+      "word": "DeepSeek 现在我是你爹了",
+      "onboard_time": 1777694540,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -913,6 +1009,14 @@
       "onboard_time": 1777693760,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307832,
+      "num": 307832,
+      "word": "一个bug是bug 一堆bug能work",
+      "onboard_time": 1777694721,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 300530,
@@ -1083,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275163,
+      "num": 275163,
+      "word": "鹿晗叫李小冉姐姐",
+      "onboard_time": 1777700178,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274741,
       "num": 196855,
       "word": "刘耀文 暴雨来袭前一秒",
@@ -1139,6 +1251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267067,
+      "num": 267067,
+      "word": "我的猫终于干了我一直觉得她会干的事",
+      "onboard_time": 1777698980,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 266493,
+      "num": 266493,
+      "word": "小狗身体太软把主人弄得手忙脚乱的",
+      "onboard_time": 1777695500,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266312,
       "num": 266312,
       "word": "因为小三好看不让女儿好看",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1777678877,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256446,
+      "num": 256446,
+      "word": "乘风三公小考",
+      "onboard_time": 1777695981,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 246966,
@@ -1411,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204494,
+      "num": 262975,
+      "word": "躺平阴谋",
+      "onboard_time": 1777698080,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203816,
       "num": 203816,
       "word": "鞠婧祎五一plog",
@@ -1441,6 +1585,14 @@
       "onboard_time": 1777687700,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196938,
+      "num": 256931,
+      "word": "11岁女孩频繁呕吐确诊肾衰竭",
+      "onboard_time": 1777700299,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196355,
@@ -1489,6 +1641,14 @@
       "onboard_time": 1777619539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190151,
+      "num": 190151,
+      "word": "承诺买房送69万黄金开发商久不兑现",
+      "onboard_time": 1777695140,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189654,
@@ -1595,6 +1755,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173945,
+      "num": 173945,
+      "word": "霸王茶姬水银门当事人称是对象下单",
+      "onboard_time": 1777693823,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173883,
+      "num": 173883,
+      "word": "曾沛慈团三公小考第一",
+      "onboard_time": 1777699341,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173754,
       "num": 257858,
       "word": "英伟达市值一夜蒸发1.6万亿",
@@ -1683,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163059,
+      "num": 163059,
+      "word": "对自己不好的事别到处说",
+      "onboard_time": 1777701859,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162724,
       "num": 231835,
       "word": "女子辞职顾家分手遭男友追讨百万",
@@ -1713,6 +1897,14 @@
       "onboard_time": 1777634839,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160526,
+      "num": 160526,
+      "word": "孙怡阚清子一对视就跑调",
+      "onboard_time": 1777698800,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 159727,
@@ -1777,6 +1969,14 @@
       "onboard_time": 1777639702,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153759,
+      "num": 122837,
+      "word": "曾沛慈团谁来了都得脱稿",
+      "onboard_time": 1777701740,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 153720,
@@ -1897,6 +2097,14 @@
       "onboard_time": 1777599621,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138905,
+      "num": 138905,
+      "word": "种地吧",
+      "onboard_time": 1777696579,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 138702,
@@ -2027,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128798,
+      "num": 122829,
+      "word": "逆战",
+      "onboard_time": 1777698380,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "广州地铁一男子向乘客喷辣椒水",
@@ -2083,11 +2299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122842,
+      "num": 122842,
+      "word": "詹姆斯单节得分超火箭全队",
+      "onboard_time": 1777699280,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122832,
       "num": 122832,
       "word": "孙颖莎把队友逗得开怀大笑",
       "onboard_time": 1777631359,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122734,
+      "num": 122734,
+      "word": "孙颖莎乖乖妹",
+      "onboard_time": 1777697060,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2169,6 +2401,14 @@
       "onboard_time": 1777631899,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115277,
+      "num": 251949,
+      "word": "东北早市被俄罗斯游客包场",
+      "onboard_time": 1777697719,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114960,
@@ -2280,6 +2520,14 @@
       "word": "金饰克价回落买不买",
       "onboard_time": 1777614260,
       "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 103921,
+      "num": 122177,
+      "word": "金价今年或跌回4000美元",
+      "onboard_time": 1777699641,
+      "rank": 44,
       "category": "财经"
     },
     {
@@ -2468,7 +2716,7 @@
     },
     {
       "raw_hot": 82621,
-      "num": 103972,
+      "num": 260126,
       "word": "张雪回应820RR赛道熄火",
       "onboard_time": 1777687518,
       "rank": 46,
@@ -2724,7 +2972,7 @@
     },
     {
       "raw_hot": 53513,
-      "num": 102735,
+      "num": 121332,
       "word": "用AI把我家猫养在了电脑上",
       "onboard_time": 1777688359,
       "rank": 48,
@@ -2793,6 +3041,14 @@
       "onboard_time": 1777541239,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46627,
+      "num": 259012,
+      "word": "Claude画的DeepSeek蓝胖鱼",
+      "onboard_time": 1777696881,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 46193,
@@ -2867,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37462,
+      "num": 257982,
+      "word": "时隔五年我用AI复活了父亲",
+      "onboard_time": 1777699399,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37415,
       "num": 223810,
       "word": "储户称多笔存款被冒名盗取",
@@ -2929,6 +3193,14 @@
       "onboard_time": 1777564820,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28729,
+      "num": 663340,
+      "word": "网警发布五一AI防骗指南",
+      "onboard_time": 1777699939,
+      "rank": 2,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 27188,
