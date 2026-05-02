@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777762464458,
+  "endTime": 1777763449875,
   "band_list": [
     {
       "raw_hot": 4226995,
@@ -49,6 +49,14 @@
       "onboard_time": 1777737981,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660098,
+      "num": 376633,
+      "word": "林诗栋1比3吴晙诚",
+      "onboard_time": 1777762516,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 532794,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242402,
+      "num": 263782,
+      "word": "建议大家去狂刷跨境综艺打破信息差",
+      "onboard_time": 1777741218,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238134,
       "num": 318396,
       "word": "原来这就是情感漠视吗",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 214479,
-      "num": 434399,
+      "num": 524419,
       "word": "世乒赛",
       "onboard_time": 1777725320,
       "rank": 46,
@@ -193,14 +209,6 @@
       "onboard_time": 1777734203,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209222,
-      "num": 263782,
-      "word": "建议大家去狂刷跨境综艺打破信息差",
-      "onboard_time": 1777741218,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 208130,
@@ -267,20 +275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164741,
+      "num": 268744,
+      "word": "周深一家四口花车巡游",
+      "onboard_time": 1777737861,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161417,
       "num": 251107,
       "word": "苏超南京vs常州",
       "onboard_time": 1777723941,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161411,
-      "num": 268744,
-      "word": "周深一家四口花车巡游",
-      "onboard_time": 1777737861,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 159770,
@@ -307,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158689,
+      "num": 158689,
+      "word": "吴宜泽17比16艾伦",
+      "onboard_time": 1777762936,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153302,
       "num": 153302,
       "word": "丁程鑫各种意义上的神图来了",
       "onboard_time": 1777734502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144522,
+      "num": 112088,
+      "word": "2026斯诺克世锦赛",
+      "onboard_time": 1777762216,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 143415,
@@ -435,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112088,
-      "num": 112088,
-      "word": "2026斯诺克世锦赛",
-      "onboard_time": 1777762216,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111741,
       "num": 260223,
       "word": "被AI误导闯入毒蛇窝女子发声",
       "onboard_time": 1777736662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110139,
+      "num": 117061,
+      "word": "吴宜泽首进世锦赛决赛",
+      "onboard_time": 1777762996,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 100232,
@@ -475,7 +499,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69457,
+      "raw_hot": 82894,
       "num": 225866,
       "word": "2026F1迈阿密大奖赛",
       "onboard_time": 1777741818,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 67235,
-      "num": 95005,
+      "num": 109533,
       "word": "恶意开除失明女子公司被判赔20万",
       "onboard_time": 1777760175,
       "rank": 30,
@@ -555,7 +579,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46736,
+      "raw_hot": 48801,
       "num": 214143,
       "word": "张雪机车连超2辆雅马哈",
       "onboard_time": 1777747755,
@@ -579,8 +603,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41194,
+      "num": 105850,
+      "word": "严浩翔用衣服擦眼泪",
+      "onboard_time": 1777763056,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 41121,
-      "num": 94978,
+      "num": 104383,
       "word": "国乒男团伦敦世乒赛开门红",
       "onboard_time": 1777750215,
       "rank": 33,
