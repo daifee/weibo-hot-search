@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777709217726,
+  "endTime": 1777710390527,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1003049,
+      "num": 714045,
+      "word": "湘西赶尸舞",
+      "onboard_time": 1777703781,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1002811,
       "num": 464055,
       "word": "东航 虹桥",
@@ -249,14 +257,6 @@
       "onboard_time": 1777639642,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958192,
-      "num": 714045,
-      "word": "湘西赶尸舞",
-      "onboard_time": 1777703781,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 953576,
@@ -339,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797926,
+      "num": 338987,
+      "word": "虞书欣 种地吧",
+      "onboard_time": 1777704079,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791267,
       "num": 845651,
       "word": "南开大学已成立调查组",
       "onboard_time": 1777615699,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 773861,
-      "num": 338987,
-      "word": "虞书欣 种地吧",
-      "onboard_time": 1777704079,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 773312,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653695,
+      "num": 334354,
+      "word": "韩国艺人偷税漏税追缴款Top5",
+      "onboard_time": 1777707979,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647444,
       "num": 397756,
       "word": "初代跑男是不是在商量重组",
@@ -569,6 +577,14 @@
       "onboard_time": 1777593618,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 573213,
+      "num": 315027,
+      "word": "世界杯转播权再现中国式僵局",
+      "onboard_time": 1777708339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 565999,
@@ -899,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372242,
-      "num": 334354,
-      "word": "韩国艺人偷税漏税追缴款Top5",
-      "onboard_time": 1777707979,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367966,
       "num": 367966,
       "word": "赵又廷回复林更新想你了",
@@ -1043,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331161,
+      "num": 328539,
+      "word": "金靖差点删了爆改化妆师兔子",
+      "onboard_time": 1777705639,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329603,
       "num": 151906,
       "word": "万千惠问三宝自己的下属漂不漂亮",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1777631539,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 311497,
-      "num": 328539,
-      "word": "金靖差点删了爆改化妆师兔子",
-      "onboard_time": 1777705639,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 309038,
@@ -1171,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290226,
+      "num": 292843,
+      "word": "阚清子一斤没瘦",
+      "onboard_time": 1777708640,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289652,
       "num": 289652,
       "word": "为什么有的人从来不内耗",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1777692080,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281426,
+      "num": 309335,
+      "word": "东航回应航班MU5406撞桥原因",
+      "onboard_time": 1777706960,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280219,
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251364,
+      "num": 320647,
+      "word": "每个省都有自己的专属早餐",
+      "onboard_time": 1777704860,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1777609998,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241024,
+      "num": 183811,
+      "word": "严军 严浩翔父亲",
+      "onboard_time": 1777689739,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 238504,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1777591098,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 233232,
-      "num": 309335,
-      "word": "东航回应航班MU5406撞桥原因",
-      "onboard_time": 1777706960,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231080,
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208580,
+      "num": 294393,
+      "word": "葛仙村NPC小黄鱼致歉",
+      "onboard_time": 1777709720,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "萧蔷给人调成啥了",
@@ -1763,28 +1803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189796,
-      "num": 304306,
-      "word": "世界杯转播权再现中国式僵局",
-      "onboard_time": 1777708339,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189654,
       "num": 198869,
       "word": "河北大姨赴意大利看孙子走红",
       "onboard_time": 1777591577,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189081,
-      "num": 292843,
-      "word": "阚清子一斤没瘦",
-      "onboard_time": 1777708640,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 187521,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1777612219,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177354,
+      "num": 177354,
+      "word": "刘宇宁爆红后有多稳健清醒",
+      "onboard_time": 1777704799,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 175959,
@@ -2211,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141969,
+      "num": 141969,
+      "word": "靠低俗擦边玩法注定只是昙花一现",
+      "onboard_time": 1777708160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141847,
       "num": 141847,
       "word": "时代少年团彩排泄漏",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1777692559,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128988,
+      "num": 141909,
+      "word": "美国警告立陶宛",
+      "onboard_time": 1777709720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128798,
@@ -3227,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43867,
+      "num": 774838,
+      "word": "5月1日铁路发送旅客量创历史新高",
+      "onboard_time": 1777708099,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41993,
       "num": 271421,
       "word": "星铁LAND2026",
@@ -3305,14 +3361,6 @@
       "onboard_time": 1777608079,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32197,
-      "num": 774838,
-      "word": "5月1日铁路发送旅客量创历史新高",
-      "onboard_time": 1777708099,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31042,
@@ -3507,20 +3555,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 5540,
+      "num": 323414,
+      "word": "梁王对石宇奇说我们来兜底",
+      "onboard_time": 1777708999,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2645,
       "num": 249052,
       "word": "王者五五开黑节打卡清单",
       "onboard_time": 1777591817,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1026,
-      "num": 323414,
-      "word": "梁王对石宇奇说我们来兜底",
-      "onboard_time": 1777708999,
-      "rank": 20,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -3544,6 +3592,9 @@
     },
     {
       "word": "#一镜到底看奋进中国#"
+    },
+    {
+      "word": "#重温总书记关心劳动群众的暖心瞬间#"
     }
   ]
 }

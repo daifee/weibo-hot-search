@@ -1,0 +1,410 @@
+{
+  "runTime": 1777710390527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769279,
+        "num": 1769279,
+        "word": "葛仙村度假区致歉",
+        "onboard_time": 1777705159,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 317128,
+        "num": 949226,
+        "word": "胖东来正式起诉博主惊梦人",
+        "onboard_time": 1777692980,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 43867,
+        "num": 716450,
+        "word": "5月1日铁路发送旅客量创历史新高",
+        "onboard_time": 1777708099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2656513,
+        "num": 642605,
+        "word": "跑男 白鹿",
+        "onboard_time": 1777705460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1003049,
+        "num": 582831,
+        "word": "湘西赶尸舞",
+        "onboard_time": 1777703781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020716,
+        "num": 554938,
+        "word": "你好星期六把张婧仪周也弄错了",
+        "onboard_time": 1777703240,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512797,
+        "num": 512797,
+        "word": "对自己不好的事别到处说",
+        "onboard_time": 1777701859,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327832,
+        "num": 327832,
+        "word": "我的猫终于干了我一直觉得她会干的事",
+        "onboard_time": 1777698980,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320696,
+        "num": 320696,
+        "word": "余华辅导儿子语文后考试不及格",
+        "onboard_time": 1777697359,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 251364,
+        "num": 320647,
+        "word": "每个省都有自己的专属早餐",
+        "onboard_time": 1777704860,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 909786,
+        "num": 318536,
+        "word": "何炅回应王鹤棣情绪失控",
+        "onboard_time": 1777698319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797926,
+        "num": 316892,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573213,
+        "num": 315027,
+        "word": "世界杯转播权再现中国式僵局",
+        "onboard_time": 1777708339,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653695,
+        "num": 314815,
+        "word": "韩国艺人偷税漏税追缴款Top5",
+        "onboard_time": 1777707979,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492003,
+        "num": 312812,
+        "word": "孙怡阚清子看王濛搂陈瑶的表情",
+        "onboard_time": 1777703840,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328375,
+        "num": 310922,
+        "word": "西安上空现不明物持续一小时后消失",
+        "onboard_time": 1777688898,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388411,
+        "num": 309628,
+        "word": "江语晨 浪姐厕女一",
+        "onboard_time": 1777699460,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331161,
+        "num": 308926,
+        "word": "金靖差点删了爆改化妆师兔子",
+        "onboard_time": 1777705639,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182360,
+        "num": 306361,
+        "word": "美国人正在逃离美国",
+        "onboard_time": 1777703120,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306116,
+        "num": 306116,
+        "word": "鹿晗叫李小冉姐姐",
+        "onboard_time": 1777700178,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1099556,
+        "num": 305784,
+        "word": "严军发了一家四口照",
+        "onboard_time": 1777684399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255679,
+        "num": 304276,
+        "word": "有人为吃蜜雪9元圣代碗排队5小时",
+        "onboard_time": 1777700600,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36842,
+        "num": 302806,
+        "word": "Claude画的DeepSeek蓝胖鱼",
+        "onboard_time": 1777696881,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35905,
+        "num": 300971,
+        "word": "时隔五年我用AI复活了父亲",
+        "onboard_time": 1777699399,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29313,
+        "num": 299574,
+        "word": "张雪回应820RR赛道熄火",
+        "onboard_time": 1777687518,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15561,
+        "num": 297723,
+        "word": "用AI把我家猫养在了电脑上",
+        "onboard_time": 1777688359,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14051,
+        "num": 297111,
+        "word": "DeepSeek拟人 哇呀啧呜哇",
+        "onboard_time": 1777689800,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1389,
+        "num": 295621,
+        "word": "新SU7开进上海百年张园",
+        "onboard_time": 1777628059,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208580,
+        "num": 294393,
+        "word": "葛仙村NPC小黄鱼致歉",
+        "onboard_time": 1777709720,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5540,
+        "num": 292831,
+        "word": "梁王对石宇奇说我们来兜底",
+        "onboard_time": 1777708999,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347839,
+        "num": 290231,
+        "word": "疑似严浩翔妈妈发博",
+        "onboard_time": 1777689739,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290226,
+        "num": 290226,
+        "word": "阚清子一斤没瘦",
+        "onboard_time": 1777708640,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223970,
+        "num": 284540,
+        "word": "小狗身体太软把主人弄得手忙脚乱的",
+        "onboard_time": 1777695500,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282636,
+        "num": 282636,
+        "word": "王鹤棣第一次情绪失控",
+        "onboard_time": 1777694422,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263701,
+        "num": 263701,
+        "word": "杨幂脸上烫伤还没好",
+        "onboard_time": 1777695079,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188111,
+        "num": 188111,
+        "word": "11岁女孩频繁呕吐确诊肾衰竭",
+        "onboard_time": 1777700299,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 183811,
+        "word": "严军 严浩翔父亲",
+        "onboard_time": 1777689739,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177354,
+        "num": 177354,
+        "word": "刘宇宁爆红后有多稳健清醒",
+        "onboard_time": 1777704799,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 175724,
+        "word": "一个bug是bug 一堆bug能work",
+        "onboard_time": 1777694721,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175132,
+        "num": 175132,
+        "word": "36岁谈莉娜剖腹产产子",
+        "onboard_time": 1777705400,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168184,
+        "num": 168184,
+        "word": "曾沛慈团谁来了都得脱稿",
+        "onboard_time": 1777701740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281426,
+        "num": 164773,
+        "word": "东航回应航班MU5406撞桥原因",
+        "onboard_time": 1777706960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148863,
+        "num": 148863,
+        "word": "戚薇也在嗑张凌赫田曦薇",
+        "onboard_time": 1777695200,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141969,
+        "num": 141969,
+        "word": "靠低俗擦边玩法注定只是昙花一现",
+        "onboard_time": 1777708160,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128988,
+        "num": 141909,
+        "word": "美国警告立陶宛",
+        "onboard_time": 1777709720,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120285,
+        "num": 141835,
+        "word": "金价今年或跌回4000美元",
+        "onboard_time": 1777699641,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1067,
+        "num": 141754,
+        "word": "极氪月交付量创历史新高",
+        "onboard_time": 1777626319,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 900,
+        "num": 141649,
+        "word": "五一就该让千问AI劳动",
+        "onboard_time": 1777608140,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43493,
+        "num": 141512,
+        "word": "这届年轻人开始主动求黑了",
+        "onboard_time": 1777705580,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141477,
+        "num": 141477,
+        "word": "肖战出席大影节青春之夜",
+        "onboard_time": 1777706299,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记关心劳动群众的暖心瞬间#"
+    }
+  }
+}
