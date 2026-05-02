@@ -1,7 +1,15 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777680822819,
+  "endTime": 1777693540713,
   "band_list": [
+    {
+      "raw_hot": 20719196,
+      "num": 20719196,
+      "word": "严军发了一家四口照",
+      "onboard_time": 1777684399,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6463220,
       "num": 6463220,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2920436,
+      "num": 200395,
+      "word": "疑似严浩翔妈妈发博",
+      "onboard_time": 1777689739,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2737250,
       "num": 402131,
       "word": "孙杨玩游戏真打了范明一耳光",
@@ -65,6 +81,14 @@
       "onboard_time": 1777620979,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2383489,
+      "num": 214498,
+      "word": "时代峰峻回应严浩翔家庭事宜",
+      "onboard_time": 1777690699,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1782178,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687725,
+      "num": 213265,
+      "word": "西安上空现不明物持续一小时后消失",
+      "onboard_time": 1777688898,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684946,
       "num": 548549,
       "word": "何宣林 镜头",
@@ -363,11 +395,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665078,
+      "num": 665078,
+      "word": "王濛张月抢同一首歌是为了同一个人",
+      "onboard_time": 1777688300,
+      "rank": 3,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 655160,
       "num": 655160,
       "word": "labubu冰箱被炒至19999元",
       "onboard_time": 1777605918,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652082,
+      "num": 786221,
+      "word": "爷爷过世请假奔丧被开除",
+      "onboard_time": 1777683918,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -523,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492039,
+      "num": 275916,
+      "word": "何洁听跳楼机还没到副歌就直接关掉了",
+      "onboard_time": 1777689623,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 486242,
       "num": 464434,
       "word": "过桥咪线",
@@ -604,7 +660,7 @@
     },
     {
       "raw_hot": 433739,
-      "num": 153869,
+      "num": 231328,
       "word": "普通家庭对孩子最好的托举就这11点",
       "onboard_time": 1777678820,
       "rank": 12,
@@ -731,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347125,
+      "num": 212221,
+      "word": "李飞怎么变这么薄一片了",
+      "onboard_time": 1777682720,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346759,
       "num": 193502,
       "word": "云南元阳车祸致7人死亡",
@@ -744,6 +808,14 @@
       "word": "马龙出行带娃参加斯巴达",
       "onboard_time": 1777616899,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 337717,
+      "num": 1054034,
+      "word": "湖人vs火箭",
+      "onboard_time": 1777680498,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -915,12 +987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285794,
+      "num": 199090,
+      "word": "女孩称当服务员看到同龄人很自卑",
+      "onboard_time": 1777683559,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 283723,
       "num": 366547,
       "word": "女子被AI误导闯入毒蛇窝",
       "onboard_time": 1777636040,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282589,
+      "num": 211408,
+      "word": "陈哲远王楚然浮生开机了",
+      "onboard_time": 1777692080,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 280219,
@@ -945,6 +1033,14 @@
       "onboard_time": 1777593137,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278431,
+      "num": 278431,
+      "word": "巴雷特绝杀骑士",
+      "onboard_time": 1777689921,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 277790,
@@ -1019,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264519,
+      "num": 209905,
+      "word": "刘晓庆回应和王婆互动冷淡",
+      "onboard_time": 1777693223,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261110,
       "num": 166299,
       "word": "香奈儿无底鞋89%网友讨厌",
@@ -1057,6 +1161,14 @@
       "onboard_time": 1777678877,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254108,
+      "num": 254108,
+      "word": "突然就懂了朋友和好朋友的区别",
+      "onboard_time": 1777692681,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 246966,
@@ -1140,7 +1252,7 @@
     },
     {
       "raw_hot": 225728,
-      "num": 147151,
+      "num": 160718,
       "word": "金靖为减肥九点半就睡觉",
       "onboard_time": 1777679297,
       "rank": 18,
@@ -1203,6 +1315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215313,
+      "num": 215313,
+      "word": "胖东来正式起诉博主惊梦人",
+      "onboard_time": 1777692980,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 214906,
       "num": 214906,
       "word": "10间敢死队 陈思诚水平",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1777591458,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211096,
+      "num": 211096,
+      "word": "王楚钦背后一众国乒大佬",
+      "onboard_time": 1777691360,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 210284,
@@ -1251,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208275,
+      "num": 208275,
+      "word": "萧蔷给人调成啥了",
+      "onboard_time": 1777683619,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204883,
       "num": 204883,
       "word": "张檬坚持给一岁儿子喂母乳",
@@ -1273,6 +1409,14 @@
       "onboard_time": 1777646661,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198645,
+      "num": 198645,
+      "word": "只有肖战同时和三家大厂合作过",
+      "onboard_time": 1777687700,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 196355,
@@ -1331,12 +1475,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187521,
+      "num": 187521,
+      "word": "白鹿输在了过于努力",
+      "onboard_time": 1777688539,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186948,
+      "num": 201956,
+      "word": "5月锦鲤附体的星座",
+      "onboard_time": 1777683800,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185575,
       "num": 226516,
       "word": "突然就没有年龄焦虑了",
       "onboard_time": 1777632919,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 168410,
+      "word": "鹤吻痕",
+      "onboard_time": 1777681638,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181621,
@@ -1353,6 +1521,14 @@
       "onboard_time": 1777644562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180609,
+      "num": 206901,
+      "word": "日本战犯竟称侵华是为了管教兄弟",
+      "onboard_time": 1777692021,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179943,
@@ -1579,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153720,
+      "num": 137055,
+      "word": "万花世界简介只有鞠婧祎",
+      "onboard_time": 1777687460,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153291,
       "num": 153291,
       "word": "苏新皓盲盒",
@@ -1665,6 +1849,14 @@
       "onboard_time": 1777560201,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141847,
+      "num": 141847,
+      "word": "时代少年团彩排泄漏",
+      "onboard_time": 1777690521,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 140876,
@@ -1803,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129031,
+      "num": 144411,
+      "word": "买长乘短",
+      "onboard_time": 1777692559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "广州地铁一男子向乘客喷辣椒水",
@@ -1817,6 +2017,14 @@
       "onboard_time": 1777629739,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125518,
+      "num": 125518,
+      "word": "工程师1个月偷剪公司320克金线",
+      "onboard_time": 1777682840,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124724,
@@ -1841,6 +2049,14 @@
       "onboard_time": 1777559421,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122912,
+      "num": 122912,
+      "word": "火箭内部讨论杜兰特小号吐槽队友事件",
+      "onboard_time": 1777691902,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 122832,
@@ -1931,12 +2147,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114960,
+      "num": 114960,
+      "word": "配送员买虚拟号薅新人优惠赚70万",
+      "onboard_time": 1777686139,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 114802,
       "num": 139809,
       "word": "罗永浩自曝可能误伤西门子",
       "onboard_time": 1777593978,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114434,
+      "num": 114434,
+      "word": "黑猩猩24岁仍单身愁坏饲养员",
+      "onboard_time": 1777682539,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113237,
+      "num": 113237,
+      "word": "孙颖莎黑芝麻小汤圆",
+      "onboard_time": 1777693160,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110967,
+      "num": 204157,
+      "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
+      "onboard_time": 1777692380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110321,
@@ -2009,6 +2257,14 @@
       "onboard_time": 1777614260,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104149,
+      "num": 104149,
+      "word": "浮生",
+      "onboard_time": 1777683679,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 103535,
@@ -2131,6 +2387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 88421,
+      "num": 173855,
+      "word": "AI手搓小黄人产生意识了",
+      "onboard_time": 1777690581,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86367,
       "num": 372967,
       "word": "美国人把英国国旗挂反了",
@@ -2169,6 +2433,14 @@
       "onboard_time": 1777654999,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83062,
+      "num": 206160,
+      "word": "山西猥亵当事人法官已被免职",
+      "onboard_time": 1777693040,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82243,
@@ -2217,6 +2489,22 @@
       "onboard_time": 1777650803,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77076,
+      "num": 172251,
+      "word": "DeepSeek拟人 哇呀啧呜哇",
+      "onboard_time": 1777689800,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 76337,
+      "num": 103972,
+      "word": "张雪回应820RR赛道熄火",
+      "onboard_time": 1777687518,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 75871,
@@ -2275,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70575,
+      "num": 171499,
+      "word": "美防长下令从德国撤出5000名驻军",
+      "onboard_time": 1777685423,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69894,
       "num": 69894,
       "word": "房主任瘦了16斤",
@@ -2321,14 +2617,6 @@
       "onboard_time": 1777594638,
       "rank": 48,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 61621,
-      "num": 90044,
-      "word": "湖人vs火箭",
-      "onboard_time": 1777680498,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 60785,
@@ -2387,12 +2675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55850,
+      "num": 103559,
+      "word": "美媒曝美军对伊朗最新打击计划",
+      "onboard_time": 1777681221,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53977,
       "num": 151483,
       "word": "交给白鹿掌镜你就放心吧",
       "onboard_time": 1777606520,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53513,
+      "num": 102735,
+      "word": "用AI把我家猫养在了电脑上",
+      "onboard_time": 1777688359,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 53147,
@@ -2571,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30145,
+      "num": 724787,
+      "word": "用最美镜头致敬铁路劳动者",
+      "onboard_time": 1777688898,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29972,
       "num": 73181,
       "word": "伊朗已递交与美谈判最新方案",
@@ -2738,6 +3050,9 @@
     },
     {
       "word": "#总书记与劳动者面对面心贴心#"
+    },
+    {
+      "word": "#习近平与劳动人民在一起#"
     }
   ]
 }
