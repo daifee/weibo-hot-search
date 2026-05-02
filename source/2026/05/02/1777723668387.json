@@ -1,0 +1,410 @@
+{
+  "runTime": 1777723668387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 672407,
+        "num": 1107585,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484046,
+        "num": 795901,
+        "word": "苏超",
+        "onboard_time": 1777721359,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38320,
+        "num": 653651,
+        "word": "5月1日铁路发送旅客量创历史新高",
+        "onboard_time": 1777708099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2104045,
+        "num": 643582,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523719,
+        "num": 523719,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1161485,
+        "num": 523496,
+        "word": "严浩翔演唱会状态",
+        "onboard_time": 1777720340,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409346,
+        "num": 522631,
+        "word": "赖清德上演偷渡式外窜闹剧",
+        "onboard_time": 1777721601,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329367,
+        "num": 521486,
+        "word": "孙颖莎这一球夯爆了",
+        "onboard_time": 1777720701,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308324,
+        "num": 521194,
+        "word": "葛仙村度假区致歉",
+        "onboard_time": 1777705159,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 256976,
+        "num": 519838,
+        "word": "王楚钦vs沃克",
+        "onboard_time": 1777722560,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5253099,
+        "num": 518743,
+        "word": "周也方要求hi6回应",
+        "onboard_time": 1777717819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1189071,
+        "num": 518466,
+        "word": "时代少年团 男团学",
+        "onboard_time": 1777720040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002612,
+        "num": 517866,
+        "word": "世界杯转播权再现中国式僵局",
+        "onboard_time": 1777708339,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1256716,
+        "num": 516538,
+        "word": "张婧仪将暂停配合宣传你好星期六",
+        "onboard_time": 1777719681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564514,
+        "num": 515485,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51161,
+        "num": 514607,
+        "word": "基础款Macmini停售",
+        "onboard_time": 1777711039,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27975,
+        "num": 514352,
+        "word": "景区装电梯无痛爬山被质疑过度开发",
+        "onboard_time": 1777723282,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800915,
+        "num": 512892,
+        "word": "河南蒜薹 滞销",
+        "onboard_time": 1777718841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681340,
+        "num": 512556,
+        "word": "严浩翔每年都会往宿舍搬几箱橙子",
+        "onboard_time": 1777713740,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631854,
+        "num": 511696,
+        "word": "ai情头",
+        "onboard_time": 1777718181,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627422,
+        "num": 511046,
+        "word": "三亚偶遇赵又廷高圆圆牵手散步",
+        "onboard_time": 1777712480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510371,
+        "num": 510371,
+        "word": "张元英救了霸王茶姬",
+        "onboard_time": 1777712540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336052,
+        "num": 493787,
+        "word": "西瓜摊老板戴手套用牙签挑瓜籽",
+        "onboard_time": 1777718241,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480195,
+        "num": 480195,
+        "word": "曹骏工作室否认拉踩",
+        "onboard_time": 1777715720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457231,
+        "num": 457231,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298398,
+        "num": 416249,
+        "word": "北京彩虹",
+        "onboard_time": 1777720281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397126,
+        "num": 397126,
+        "word": "张桂源头像",
+        "onboard_time": 1777714281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340627,
+        "num": 340627,
+        "word": "刘宇宁请客张凌赫归鸾剧组",
+        "onboard_time": 1777723400,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206606,
+        "num": 310125,
+        "word": "五一假期真是捅人窝了吧",
+        "onboard_time": 1777720581,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 306103,
+        "word": "美国警告立陶宛",
+        "onboard_time": 1777709720,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348583,
+        "num": 305251,
+        "word": "共情能力强 情感漠视",
+        "onboard_time": 1777715900,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303337,
+        "num": 303337,
+        "word": "严军发了一家四口照",
+        "onboard_time": 1777684399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283607,
+        "num": 283607,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777717341,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193800,
+        "num": 193800,
+        "word": "猫妈妈觅食回来天都塌了",
+        "onboard_time": 1777717282,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "孙颖莎国乒首秀出任一单",
+        "onboard_time": 1777714580,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160407,
+        "num": 160407,
+        "word": "三个10岁救了一个2岁",
+        "onboard_time": 1777718061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160205,
+        "num": 160205,
+        "word": "商务部发布禁令",
+        "onboard_time": 1777721481,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145127,
+        "num": 145127,
+        "word": "侯明昊唱歌",
+        "onboard_time": 1777721541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142453,
+        "num": 142453,
+        "word": "河南灵宝火灾致6人死亡",
+        "onboard_time": 1777716321,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 81455,
+        "num": 142311,
+        "word": "TTG挑杯淘汰",
+        "onboard_time": 1777722501,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142300,
+        "num": 142300,
+        "word": "何炅回应王鹤棣情绪失控",
+        "onboard_time": 1777698319,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141459,
+        "num": 141459,
+        "word": "韩国艺人偷税漏税追缴款Top5",
+        "onboard_time": 1777707979,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132506,
+        "num": 132506,
+        "word": "地铁大爷强行拖拽女子让座",
+        "onboard_time": 1777722862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 129919,
+        "word": "国乒女团3比0罗马尼亚",
+        "onboard_time": 1777719740,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128407,
+        "num": 128407,
+        "word": "高会直播",
+        "onboard_time": 1777718841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115872,
+        "num": 115872,
+        "word": "樊振东五一假期belike",
+        "onboard_time": 1777718780,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110377,
+        "num": 110377,
+        "word": "演员被打中血流不止仍坚持演完",
+        "onboard_time": 1777721359,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109430,
+        "num": 109430,
+        "word": "鹿晗没带馒头参加五哈的原因",
+        "onboard_time": 1777710439,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51154,
+        "num": 109057,
+        "word": "美国人正在逃离美国",
+        "onboard_time": 1777703120,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10296,
+        "num": 108806,
+        "word": "时隔五年我用AI复活了父亲",
+        "onboard_time": 1777699399,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记关心劳动群众的暖心瞬间#"
+    }
+  }
+}
