@@ -1,0 +1,410 @@
+{
+  "runTime": 1777730122532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3087708,
+        "num": 3087708,
+        "word": "张雪机车再夺冠军",
+        "onboard_time": 1777725800,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1237458,
+        "num": 1237458,
+        "word": "王楚钦11比13沃克",
+        "onboard_time": 1777728501,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87181,
+        "num": 1032955,
+        "word": "95后把卡脖子难题变成咱的杀手锏",
+        "onboard_time": 1777726762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1677309,
+        "num": 1017533,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1412394,
+        "num": 1006250,
+        "word": "追星女的手机密码人尽皆知",
+        "onboard_time": 1777724541,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 981365,
+        "num": 981365,
+        "word": "霸王茶姬水银事件为何一再反转",
+        "onboard_time": 1777727662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791389,
+        "num": 791389,
+        "word": "苏超南京vs常州",
+        "onboard_time": 1777723941,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742742,
+        "num": 742742,
+        "word": "严浩翔演唱会状态",
+        "onboard_time": 1777720340,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 698641,
+        "num": 698641,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 621889,
+        "num": 621889,
+        "word": "张雪机车回应再次夺冠",
+        "onboard_time": 1777727782,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4302078,
+        "num": 619546,
+        "word": "周也方要求hi6回应",
+        "onboard_time": 1777717819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563696,
+        "num": 563696,
+        "word": "时代少年团 男团学",
+        "onboard_time": 1777720040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556179,
+        "num": 556179,
+        "word": "苏超",
+        "onboard_time": 1777721359,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028597,
+        "num": 541050,
+        "word": "张婧仪将暂停配合宣传你好星期六",
+        "onboard_time": 1777719681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557054,
+        "num": 538712,
+        "word": "朱孝天承认F4不和",
+        "onboard_time": 1777728021,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 523497,
+        "num": 523497,
+        "word": "Tian闹剧结束了",
+        "onboard_time": 1777724840,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 507354,
+        "num": 507354,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484946,
+        "num": 484946,
+        "word": "严浩翔每年都会往宿舍搬几箱橙子",
+        "onboard_time": 1777713740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428275,
+        "num": 428275,
+        "word": "世界杯转播权再现中国式僵局",
+        "onboard_time": 1777708339,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414972,
+        "num": 414972,
+        "word": "刘丁硕假期厕所直播翻车",
+        "onboard_time": 1777728621,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413036,
+        "num": 413036,
+        "word": "张元英救了霸王茶姬",
+        "onboard_time": 1777712540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335264,
+        "num": 335264,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329580,
+        "num": 329580,
+        "word": "世乒赛",
+        "onboard_time": 1777725320,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110183,
+        "num": 323470,
+        "word": "盗用他人作品获奖学生被开除学籍",
+        "onboard_time": 1777728862,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334010,
+        "num": 323259,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322465,
+        "num": 322465,
+        "word": "网剧浮生",
+        "onboard_time": 1777725201,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304395,
+        "num": 304395,
+        "word": "1300斤牛走丢20天暴瘦200斤",
+        "onboard_time": 1777726821,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305291,
+        "num": 303999,
+        "word": "刘耀文生图头身比",
+        "onboard_time": 1777725981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301788,
+        "num": 301788,
+        "word": "刘宇宁请客张凌赫归鸾剧组",
+        "onboard_time": 1777723400,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95984,
+        "num": 295935,
+        "word": "日本军事动作与二战前高度相似",
+        "onboard_time": 1777726762,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292348,
+        "num": 292348,
+        "word": "张桂源头像",
+        "onboard_time": 1777714281,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276784,
+        "num": 276784,
+        "word": "五一假期真是捅人窝了吧",
+        "onboard_time": 1777720581,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272455,
+        "num": 272455,
+        "word": "马嘉祺solo",
+        "onboard_time": 1777729102,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262967,
+        "num": 262967,
+        "word": "张雪机车收获第三冠",
+        "onboard_time": 1777726762,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245764,
+        "num": 245764,
+        "word": "王楚钦林诗栋梁靖崑开门红",
+        "onboard_time": 1777729882,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244359,
+        "num": 244359,
+        "word": "张真源手臂荆棘纹身",
+        "onboard_time": 1777729522,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241458,
+        "num": 241458,
+        "word": "丁程鑫生图你随便吧",
+        "onboard_time": 1777724299,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233887,
+        "num": 233887,
+        "word": "西瓜摊老板戴手套用牙签挑瓜籽",
+        "onboard_time": 1777718241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240281,
+        "num": 225138,
+        "word": "你好星期六",
+        "onboard_time": 1777726882,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211554,
+        "num": 211554,
+        "word": "孙颖莎这一球夯爆了",
+        "onboard_time": 1777720701,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209133,
+        "num": 209133,
+        "word": "三亚偶遇赵又廷高圆圆牵手散步",
+        "onboard_time": 1777712480,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206630,
+        "num": 206630,
+        "word": "王楚钦vs沃克",
+        "onboard_time": 1777722560,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204599,
+        "num": 204599,
+        "word": "曹骏工作室否认拉踩",
+        "onboard_time": 1777715720,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202676,
+        "num": 202676,
+        "word": "贺娇龙账号更名并清空橱窗",
+        "onboard_time": 1777724240,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202510,
+        "num": 202510,
+        "word": "王濛三公舞蹈是跟着刘雨昕学的",
+        "onboard_time": 1777726401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199944,
+        "num": 199944,
+        "word": "WBG八强",
+        "onboard_time": 1777728320,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199733,
+        "num": 199733,
+        "word": "葛仙村度假区致歉",
+        "onboard_time": 1777705159,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199056,
+        "num": 199056,
+        "word": "景区装电梯无痛爬山被质疑过度开发",
+        "onboard_time": 1777723282,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183566,
+        "num": 183566,
+        "word": "张雪机车最后时刻反超太帅了",
+        "onboard_time": 1777728441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56604,
+        "num": 180827,
+        "word": "美国警告立陶宛",
+        "onboard_time": 1777709720,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语劳动者#"
+    }
+  }
+}

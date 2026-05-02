@@ -1,6 +1,6 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777728419047,
+  "endTime": 1777730122532,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 5338578,
-      "num": 518743,
+      "num": 619546,
       "word": "周也方要求hi6回应",
       "onboard_time": 1777717819,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1620731,
-      "num": 516538,
+      "num": 541050,
       "word": "张婧仪将暂停配合宣传你好星期六",
       "onboard_time": 1777719681,
       "rank": 26,
@@ -91,12 +91,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1412394,
+      "num": 1109866,
+      "word": "追星女的手机密码人尽皆知",
+      "onboard_time": 1777724541,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1327003,
       "num": 510371,
       "word": "张元英救了霸王茶姬",
       "onboard_time": 1777712540,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1237458,
+      "num": 1237458,
+      "word": "王楚钦11比13沃克",
+      "onboard_time": 1777728501,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1215167,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1200972,
-      "num": 518466,
+      "num": 563696,
       "word": "时代少年团 男团学",
       "onboard_time": 1777720040,
       "rank": 31,
@@ -121,14 +137,6 @@
       "onboard_time": 1777708339,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1109866,
-      "num": 1109866,
-      "word": "追星女的手机密码人尽皆知",
-      "onboard_time": 1777724541,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 1106775,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 981365,
+      "num": 981365,
+      "word": "霸王茶姬水银事件为何一再反转",
+      "onboard_time": 1777727662,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 892965,
       "num": 1142874,
       "word": "东航通报飞机与廊桥局部碰擦",
@@ -233,6 +249,14 @@
       "onboard_time": 1777718841,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791389,
+      "num": 791389,
+      "word": "苏超南京vs常州",
+      "onboard_time": 1777723941,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 748216,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621889,
+      "num": 621889,
+      "word": "张雪机车回应再次夺冠",
+      "onboard_time": 1777727782,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617769,
       "num": 617769,
       "word": "对自己不好的事别到处说",
@@ -337,6 +369,22 @@
       "onboard_time": 1777724840,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 557054,
+      "num": 538712,
+      "word": "朱孝天承认F4不和",
+      "onboard_time": 1777728021,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 556179,
+      "num": 795901,
+      "word": "苏超",
+      "onboard_time": 1777721359,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 548640,
@@ -377,22 +425,6 @@
       "onboard_time": 1777697359,
       "rank": 4,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 492412,
-      "num": 492412,
-      "word": "苏超南京vs常州",
-      "onboard_time": 1777723941,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 492363,
-      "num": 795901,
-      "word": "苏超",
-      "onboard_time": 1777721359,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 492039,
@@ -465,6 +497,14 @@
       "onboard_time": 1777644082,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414972,
+      "num": 414972,
+      "word": "刘丁硕假期厕所直播翻车",
+      "onboard_time": 1777728621,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 409346,
@@ -552,14 +592,6 @@
       "word": "湖人淘汰火箭",
       "onboard_time": 1777697120,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 347728,
-      "num": 347728,
-      "word": "张雪机车回应再次夺冠",
-      "onboard_time": 1777727782,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -659,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329580,
+      "num": 329580,
+      "word": "世乒赛",
+      "onboard_time": 1777725320,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329367,
       "num": 521486,
       "word": "孙颖莎这一球夯爆了",
@@ -691,12 +731,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 315255,
-      "num": 315255,
-      "word": "世乒赛",
-      "onboard_time": 1777725320,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 322465,
+      "num": 322465,
+      "word": "网剧浮生",
+      "onboard_time": 1777725201,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 309038,
@@ -707,12 +747,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290537,
-      "num": 277127,
+      "raw_hot": 305291,
+      "num": 303999,
       "word": "刘耀文生图头身比",
       "onboard_time": 1777725981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304395,
+      "num": 304395,
+      "word": "1300斤牛走丢20天暴瘦200斤",
+      "onboard_time": 1777726821,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290226,
@@ -763,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276784,
+      "num": 310125,
+      "word": "五一假期真是捅人窝了吧",
+      "onboard_time": 1777720581,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -779,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274119,
-      "num": 274119,
-      "word": "网剧浮生",
-      "onboard_time": 1777725201,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273406,
       "num": 298362,
       "word": "小狗身体太软把主人弄得手忙脚乱的",
@@ -800,6 +848,14 @@
       "word": "时团没唱爆米花",
       "onboard_time": 1777646121,
       "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 272455,
+      "num": 272455,
+      "word": "马嘉祺solo",
+      "onboard_time": 1777729102,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -859,6 +915,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245764,
+      "num": 245764,
+      "word": "王楚钦林诗栋梁靖崑开门红",
+      "onboard_time": 1777729882,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 244359,
+      "num": 244359,
+      "word": "张真源手臂荆棘纹身",
+      "onboard_time": 1777729522,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241024,
       "num": 183811,
       "word": "严军 严浩翔父亲",
@@ -867,7 +939,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238071,
+      "raw_hot": 240281,
       "num": 238071,
       "word": "你好星期六",
       "onboard_time": 1777726882,
@@ -881,14 +953,6 @@
       "onboard_time": 1777721481,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 237942,
-      "num": 237942,
-      "word": "1300斤牛走丢20天暴瘦200斤",
-      "onboard_time": 1777726821,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237632,
@@ -905,14 +969,6 @@
       "onboard_time": 1777703120,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 232371,
-      "num": 310125,
-      "word": "五一假期真是捅人窝了吧",
-      "onboard_time": 1777720581,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227212,
@@ -1011,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202676,
+      "num": 202676,
+      "word": "贺娇龙账号更名并清空橱窗",
+      "onboard_time": 1777724240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -1091,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183566,
+      "num": 183566,
+      "word": "张雪机车最后时刻反超太帅了",
+      "onboard_time": 1777728441,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182397,
       "num": 168410,
       "word": "鹤吻痕",
@@ -1104,14 +1176,6 @@
       "word": "李建宏讣告",
       "onboard_time": 1777632079,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177618,
-      "num": 177618,
-      "word": "贺娇龙账号更名并清空橱窗",
-      "onboard_time": 1777724240,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1587,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110183,
+      "num": 323470,
+      "word": "盗用他人作品获奖学生被开除学籍",
+      "onboard_time": 1777728862,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107249,
       "num": 107249,
       "word": "第五人格",
@@ -1651,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95984,
+      "num": 295935,
+      "word": "日本军事动作与二战前高度相似",
+      "onboard_time": 1777726762,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93116,
       "num": 135661,
       "word": "白鹿摘了姚译添眼镜给自己戴",
@@ -1691,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87181,
+      "num": 1207138,
+      "word": "95后把卡脖子难题变成咱的杀手锏",
+      "onboard_time": 1777726762,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86848,
       "num": 121434,
       "word": "姜武出演张雪",
@@ -1705,14 +1793,6 @@
       "onboard_time": 1777655657,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84570,
-      "num": 262685,
-      "word": "日本军事动作与二战前高度相似",
-      "onboard_time": 1777726762,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84514,
@@ -1745,14 +1825,6 @@
       "onboard_time": 1777687518,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79635,
-      "num": 344987,
-      "word": "霸王茶姬水银事件为何一再反转",
-      "onboard_time": 1777727662,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77641,
@@ -1841,14 +1913,6 @@
       "onboard_time": 1777676537,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69508,
-      "num": 1207138,
-      "word": "95后把卡脖子难题变成咱的杀手锏",
-      "onboard_time": 1777726762,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68787,
@@ -2210,6 +2274,9 @@
     },
     {
       "word": "#总书记牵挂青少年科学教育#"
+    },
+    {
+      "word": "#总书记寄语劳动者#"
     }
   ]
 }
