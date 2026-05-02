@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/03 00:59:44
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/03 01:14:56
 </p>
 </blockquote>
 <p>
@@ -202,7 +202,7 @@ Tian闹剧结束了（热度：204453）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%8A%B1%E8%BD%A6%E5%B7%A1%E6%B8%B8%23" target="weibo">
-周深一家四口花车巡游（热度：160886）
+周深一家四口花车巡游（热度：161411）
 </a>
 </li>
 
@@ -221,6 +221,12 @@ iPhone18Pro最低配或不涨价（热度：159770）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BD%A6%E6%89%8B%E5%BE%B7%E6%AF%94%E6%96%AF%E6%84%9F%E8%B0%A2%E5%9B%A2%E9%98%9F%23" target="weibo">
 张雪机车车手德比斯感谢团队（热度：158960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%8B%82%E5%88%B7%E8%B7%A8%E5%A2%83%E7%BB%BC%E8%89%BA%E6%89%93%E7%A0%B4%E4%BF%A1%E6%81%AF%E5%B7%AE%23" target="weibo">
+建议大家去狂刷跨境综艺打破信息差（热度：156438）
 </a>
 </li>
 
@@ -304,7 +310,7 @@ iPhone18Pro最低配或不涨价（热度：159770）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-被AI误导闯入毒蛇窝女子发声（热度：101812）
+被AI误导闯入毒蛇窝女子发声（热度：111741）
 </a>
 </li>
 
@@ -321,6 +327,18 @@ iPhone18Pro最低配或不涨价（热度：159770）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%84%A6%E8%99%91%23" target="weibo">
+猫为什么不焦虑（热度：85725）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23" target="weibo">
+误导女子闯入毒蛇窝AI道歉（热度：83703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E9%98%9F%E4%B8%96%E7%95%8C%E6%B3%A2%E7%A0%B4%E9%97%A8%23" target="weibo">
 常州队世界波破门（热度：69034）
 </a>
@@ -329,6 +347,54 @@ iPhone18Pro最低配或不涨价（热度：159770）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E6%8A%8A%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E5%8F%98%E6%88%90%E5%92%B1%E7%9A%84%E6%9D%80%E6%89%8B%E9%94%8F%23" target="weibo">
 95后把卡脖子难题变成咱的杀手锏（热度：60564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%BB%9D%E6%9D%80%E4%B8%A4%E5%8F%B0%E9%9B%85%E9%A9%AC%E5%93%88%23" target="weibo">
+张雪机车绝杀两台雅马哈（热度：56047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%B0%86%E6%8E%A8%E5%87%BA%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%A0%E5%86%9B%E8%81%94%E5%90%8D%E6%AC%BE%E6%89%8B%E8%A1%A8%23" target="weibo">
+荣耀将推出张雪机车冠军联名款手表（热度：53944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%94%E4%B8%80%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A64%E5%B0%8F%E6%97%B6%E7%82%B9%E5%A4%96%E5%8D%96%23" target="weibo">
+女子五一高速堵车4小时点外卖（热度：49885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E8%80%81%E5%A4%AB%E5%AD%90MVP%23" target="weibo">
+一诺老夫子MVP（热度：49648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E4%B9%92%E8%B5%9B%23" target="weibo">
+世乒赛（热度：48129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%96%91%E6%82%A3%E7%99%8C%E7%94%B7%E5%AD%90%E7%A7%B0%E5%8E%BB%E5%85%B6%E4%BB%96%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E6%AD%A3%E5%B8%B8%23" target="weibo">
+被疑患癌男子称去其他医院检查正常（热度：47527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E7%A7%B0%E8%8A%B17%E4%B8%875%E5%9D%90%E6%9C%88%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%90%83%E5%88%B0%E7%94%9F%E8%82%89%23" target="weibo">
+宝妈称花7万5坐月子多次吃到生肉（热度：45479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+你好星期六（热度：42533）
 </a>
 </li>
 
