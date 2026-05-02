@@ -1,6 +1,6 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777734790904,
+  "endTime": 1777737397816,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -251,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 816038,
+      "num": 342854,
+      "word": "张婧仪高度近视",
+      "onboard_time": 1777734623,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802825,
       "num": 666060,
       "word": "河南蒜薹 滞销",
@@ -265,14 +273,6 @@
       "onboard_time": 1777723941,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 791295,
-      "num": 342854,
-      "word": "张婧仪高度近视",
-      "onboard_time": 1777734623,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 782700,
@@ -521,6 +521,14 @@
       "onboard_time": 1777714580,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440967,
+      "num": 221583,
+      "word": "何洁前夫说前妻不是妻",
+      "onboard_time": 1777734986,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 433739,
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242047,
+      "num": 349462,
+      "word": "便利店被长相成熟未成年设套买烟",
+      "onboard_time": 1777732641,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 241024,
       "num": 183811,
       "word": "严军 严浩翔父亲",
@@ -1171,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202520,
-      "num": 349462,
-      "word": "便利店被长相成熟未成年设套买烟",
-      "onboard_time": 1777732641,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -1291,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182069,
+      "num": 182069,
+      "word": "1岁儿子被抢走父亲怀疑奶奶18年",
+      "onboard_time": 1777735042,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181866,
       "num": 181866,
       "word": "丁程鑫各种意义上的神图来了",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1777716321,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 171977,
+      "num": 171977,
+      "word": "贺峻霖是真人bjd吧",
+      "onboard_time": 1777736782,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 170192,
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138247,
+      "num": 138247,
+      "word": "夺冠车手感谢张雪机车",
+      "onboard_time": 1777735823,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136315,
       "num": 140085,
       "word": "张真源唱在加纳共和国离婚",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1777718780,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131439,
+      "num": 131439,
+      "word": "徐明浩终于原谅了ddjj",
+      "onboard_time": 1777736482,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 130911,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1777698380,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128334,
+      "num": 313392,
+      "word": "学霸情侣专升本斩获76万奖学金",
+      "onboard_time": 1777734203,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125518,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1777644742,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111578,
+      "num": 129046,
+      "word": "被疑患癌男子称去其他医院检查正常",
+      "onboard_time": 1777735762,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110183,
@@ -2099,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61605,
+      "num": 138911,
+      "word": "常州队世界波破门",
+      "onboard_time": 1777730303,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61426,
       "num": 114009,
       "word": "TCG晋级挑杯八强",
@@ -2195,6 +2259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53433,
+      "num": 221658,
+      "word": "35岁男子反复口腔溃疡查出舌鳞癌",
+      "onboard_time": 1777736422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53424,
       "num": 111370,
       "word": "时代少年团演唱会节目单",
@@ -2249,14 +2321,6 @@
       "onboard_time": 1777696881,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 44919,
-      "num": 313392,
-      "word": "学霸情侣专升本斩获76万奖学金",
-      "onboard_time": 1777734203,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43591,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777737397816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 829049,
+        "num": 1199724,
+        "word": "张雪机车再夺冠军",
+        "onboard_time": 1777725800,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339895,
+        "num": 870608,
+        "word": "张雪机车回应再次夺冠",
+        "onboard_time": 1777727782,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66684,
+        "num": 699720,
+        "word": "95后把卡脖子难题变成咱的杀手锏",
+        "onboard_time": 1777726762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4307107,
+        "num": 687251,
+        "word": "严浩翔哭了",
+        "onboard_time": 1777731983,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455883,
+        "num": 455883,
+        "word": "追星女的手机密码人尽皆知",
+        "onboard_time": 1777724541,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1301558,
+        "num": 441197,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340409,
+        "num": 340409,
+        "word": "中国台北女队教练发文控诉",
+        "onboard_time": 1777732882,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318430,
+        "num": 318430,
+        "word": "刘丁硕假期厕所直播翻车",
+        "onboard_time": 1777728621,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291572,
+        "num": 291572,
+        "word": "五一假期真是捅人窝了吧",
+        "onboard_time": 1777720581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252363,
+        "num": 252363,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2146083,
+        "num": 252156,
+        "word": "周也方要求hi6回应",
+        "onboard_time": 1777717819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816038,
+        "num": 251947,
+        "word": "张婧仪高度近视",
+        "onboard_time": 1777734623,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264790,
+        "num": 251639,
+        "word": "1300斤牛走丢20天暴瘦200斤",
+        "onboard_time": 1777726821,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533794,
+        "num": 251242,
+        "word": "卢昱晓收藏与檀健次cp视频",
+        "onboard_time": 1777732102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388379,
+        "num": 250628,
+        "word": "朱孝天承认F4不和",
+        "onboard_time": 1777728021,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 250562,
+        "num": 250562,
+        "word": "Tian闹剧结束了",
+        "onboard_time": 1777724840,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343504,
+        "num": 236945,
+        "word": "时代少年团 男团学",
+        "onboard_time": 1777720040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282024,
+        "num": 235910,
+        "word": "白鹿十周年见面会定档",
+        "onboard_time": 1777730722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221697,
+        "num": 221697,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53433,
+        "num": 221658,
+        "word": "35岁男子反复口腔溃疡查出舌鳞癌",
+        "onboard_time": 1777736422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440967,
+        "num": 221583,
+        "word": "何洁前夫说前妻不是妻",
+        "onboard_time": 1777734986,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271647,
+        "num": 221431,
+        "word": "王橹杰高会",
+        "onboard_time": 1777731022,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242047,
+        "num": 221356,
+        "word": "便利店被长相成熟未成年设套买烟",
+        "onboard_time": 1777732641,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 221273,
+        "num": 221273,
+        "word": "一诺被开闪光灯",
+        "onboard_time": 1777731862,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196367,
+        "num": 196367,
+        "word": "大衣哥握手太多致手指被真菌感染",
+        "onboard_time": 1777731501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192095,
+        "num": 192095,
+        "word": "苏超南京vs常州",
+        "onboard_time": 1777723941,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190466,
+        "num": 190466,
+        "word": "张雪机车车手德比斯感谢团队",
+        "onboard_time": 1777733543,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183495,
+        "num": 183495,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182069,
+        "num": 182069,
+        "word": "1岁儿子被抢走父亲怀疑奶奶18年",
+        "onboard_time": 1777735042,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104111,
+        "num": 174672,
+        "word": "药明康德董事长年薪近4000万",
+        "onboard_time": 1777732702,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173893,
+        "num": 173893,
+        "word": "丁程鑫各种意义上的神图来了",
+        "onboard_time": 1777734502,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171977,
+        "num": 171977,
+        "word": "贺峻霖是真人bjd吧",
+        "onboard_time": 1777736782,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "iPhone18Pro最低配或不涨价",
+        "onboard_time": 1777732403,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169960,
+        "num": 162414,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157291,
+        "num": 157291,
+        "word": "王楚钦林诗栋梁靖崑开门红",
+        "onboard_time": 1777729882,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155550,
+        "num": 155550,
+        "word": "西瓜摊老板戴手套用牙签挑瓜籽",
+        "onboard_time": 1777718241,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150963,
+        "num": 150963,
+        "word": "贺娇龙账号更名并清空橱窗",
+        "onboard_time": 1777724240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143087,
+        "num": 143087,
+        "word": "刘宇宁请客张凌赫归鸾剧组",
+        "onboard_time": 1777723400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139874,
+        "num": 139874,
+        "word": "徐良让张远去办公室找他",
+        "onboard_time": 1777732102,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61605,
+        "num": 138911,
+        "word": "常州队世界波破门",
+        "onboard_time": 1777730303,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278698,
+        "num": 138637,
+        "word": "严浩翔每年都会往宿舍搬几箱橙子",
+        "onboard_time": 1777713740,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138247,
+        "num": 138247,
+        "word": "夺冠车手感谢张雪机车",
+        "onboard_time": 1777735823,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131439,
+        "num": 131439,
+        "word": "徐明浩终于原谅了ddjj",
+        "onboard_time": 1777736482,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130767,
+        "num": 130767,
+        "word": "张桂源头像",
+        "onboard_time": 1777714281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111578,
+        "num": 129046,
+        "word": "被疑患癌男子称去其他医院检查正常",
+        "onboard_time": 1777735762,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128334,
+        "num": 128334,
+        "word": "学霸情侣专升本斩获76万奖学金",
+        "onboard_time": 1777734203,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "苏超",
+        "onboard_time": 1777721359,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 122186,
+        "word": "邓佳鑫直播自爆身高",
+        "onboard_time": 1777732823,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115805,
+        "num": 115805,
+        "word": "张雪机车绝杀两台雅马哈",
+        "onboard_time": 1777728202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63885,
+        "num": 111623,
+        "word": "伊朗放宽与美国恢复和谈条件",
+        "onboard_time": 1777731140,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂青少年科学教育#"
+    }
+  }
+}
