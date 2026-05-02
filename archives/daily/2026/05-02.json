@@ -1,6 +1,6 @@
 {
   "startTime": 1777655142828,
-  "endTime": 1777693540713,
+  "endTime": 1777694410937,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2383489,
-      "num": 214498,
+      "num": 324512,
       "word": "时代峰峻回应严浩翔家庭事宜",
       "onboard_time": 1777690699,
       "rank": 10,
@@ -43,36 +43,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 691473,
-      "num": 145173,
-      "word": "难听",
-      "onboard_time": 1777643121,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 687725,
-      "num": 213265,
+      "raw_hot": 748216,
+      "num": 323987,
       "word": "西安上空现不明物持续一小时后消失",
       "onboard_time": 1777688898,
       "rank": 11,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 665078,
-      "num": 665078,
+      "raw_hot": 727926,
+      "num": 786221,
+      "word": "爷爷过世请假奔丧被开除",
+      "onboard_time": 1777683918,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724307,
+      "num": 724307,
       "word": "王濛张月抢同一首歌是为了同一个人",
       "onboard_time": 1777688300,
       "rank": 3,
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 652082,
-      "num": 786221,
-      "word": "爷爷过世请假奔丧被开除",
-      "onboard_time": 1777683918,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 691473,
+      "num": 145173,
+      "word": "难听",
+      "onboard_time": 1777643121,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 607081,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 492039,
-      "num": 275916,
+      "num": 373598,
       "word": "何洁听跳楼机还没到副歌就直接关掉了",
       "onboard_time": 1777689623,
       "rank": 5,
@@ -107,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423448,
+      "num": 784472,
+      "word": "胖东来正式起诉博主惊梦人",
+      "onboard_time": 1777692980,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 396964,
       "num": 396964,
       "word": "陈思诚说1200万票房不够电影院房租",
       "onboard_time": 1777646121,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375038,
+      "num": 1054034,
+      "word": "湖人vs火箭",
+      "onboard_time": 1777680498,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 371732,
@@ -132,19 +148,11 @@
     },
     {
       "raw_hot": 347125,
-      "num": 212221,
+      "num": 320376,
       "word": "李飞怎么变这么薄一片了",
       "onboard_time": 1777682720,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337717,
-      "num": 1054034,
-      "word": "湖人vs火箭",
-      "onboard_time": 1777680498,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 336093,
@@ -153,6 +161,22 @@
       "onboard_time": 1777648280,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332786,
+      "num": 321265,
+      "word": "刘晓庆回应和王婆互动冷淡",
+      "onboard_time": 1777693223,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331458,
+      "num": 331458,
+      "word": "突然就懂了朋友和好朋友的区别",
+      "onboard_time": 1777692681,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 329603,
@@ -171,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309038,
+      "num": 309038,
+      "word": "水银奶茶 男友投毒",
+      "onboard_time": 1777693760,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285794,
       "num": 199090,
       "word": "女孩称当服务员看到同龄人很自卑",
@@ -179,20 +211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 282589,
-      "num": 211408,
-      "word": "陈哲远王楚然浮生开机了",
-      "onboard_time": 1777692080,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 278431,
-      "num": 278431,
+      "raw_hot": 284665,
+      "num": 330435,
       "word": "巴雷特绝杀骑士",
       "onboard_time": 1777689921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282589,
+      "num": 251329,
+      "word": "陈哲远王楚然浮生开机了",
+      "onboard_time": 1777692080,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 272826,
@@ -211,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264519,
-      "num": 209905,
-      "word": "刘晓庆回应和王婆互动冷淡",
-      "onboard_time": 1777693223,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260361,
       "num": 150426,
       "word": "妻子十一郎首度公开张宇罕见病内情",
@@ -233,14 +257,6 @@
       "onboard_time": 1777645102,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254108,
-      "num": 254108,
-      "word": "突然就懂了朋友和好朋友的区别",
-      "onboard_time": 1777692681,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 227212,
@@ -259,12 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215313,
-      "num": 215313,
-      "word": "胖东来正式起诉博主惊梦人",
-      "onboard_time": 1777692980,
-      "rank": 9,
-      "category": "民生新闻,网红"
+      "raw_hot": 218704,
+      "num": 326571,
+      "word": "日本战犯竟称侵华是为了管教兄弟",
+      "onboard_time": 1777692021,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211096,
@@ -281,6 +297,14 @@
       "onboard_time": 1777683619,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201594,
+      "num": 201956,
+      "word": "5月锦鲤附体的星座",
+      "onboard_time": 1777683800,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 198645,
@@ -307,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186948,
-      "num": 201956,
-      "word": "5月锦鲤附体的星座",
-      "onboard_time": 1777683800,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 186181,
+      "num": 186181,
+      "word": "爸爸去哪儿的孩子都长这么大了",
+      "onboard_time": 1777693760,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 184631,
@@ -329,14 +353,6 @@
       "onboard_time": 1777681638,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180609,
-      "num": 206901,
-      "word": "日本战犯竟称侵华是为了管教兄弟",
-      "onboard_time": 1777692021,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179294,
@@ -377,6 +393,14 @@
       "onboard_time": 1777642280,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165921,
+      "num": 204157,
+      "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
+      "onboard_time": 1777692380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159727,
@@ -555,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112081,
+      "num": 112081,
+      "word": "浮生",
+      "onboard_time": 1777683679,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111710,
       "num": 132459,
       "word": "时团指纹舞台",
       "onboard_time": 1777644742,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110967,
-      "num": 204157,
-      "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
-      "onboard_time": 1777692380,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107249,
@@ -587,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104149,
-      "num": 104149,
-      "word": "浮生",
-      "onboard_time": 1777683679,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102310,
       "num": 130643,
       "word": "莫氏鸡煲分店开业客流不及预期",
@@ -608,6 +624,14 @@
       "word": "阚清子为穿仙女裙有多拼",
       "onboard_time": 1777631899,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100383,
+      "num": 96507,
+      "word": "孙杨调侃撒贝宁不会死了吧",
+      "onboard_time": 1777688960,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90263,
+      "num": 177192,
+      "word": "AI手搓小黄人产生意识了",
+      "onboard_time": 1777690581,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89981,
       "num": 89981,
       "word": "司机到河南送货被塞30斤蒜薹",
@@ -657,14 +689,6 @@
       "onboard_time": 1777633641,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88421,
-      "num": 173855,
-      "word": "AI手搓小黄人产生意识了",
-      "onboard_time": 1777690581,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 86848,
@@ -699,6 +723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 82621,
+      "num": 103972,
+      "word": "张雪回应820RR赛道熄火",
+      "onboard_time": 1777687518,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77641,
       "num": 120797,
       "word": "iG战胜WBG",
@@ -724,19 +756,11 @@
     },
     {
       "raw_hot": 77076,
-      "num": 172251,
+      "num": 173914,
       "word": "DeepSeek拟人 哇呀啧呜哇",
       "onboard_time": 1777689800,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 103972,
-      "word": "张雪回应820RR赛道熄火",
-      "onboard_time": 1777687518,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 73690,
@@ -800,6 +824,14 @@
       "word": "胖东来没有淡季只有旺季旺旺季",
       "onboard_time": 1777649840,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65723,
+      "num": 185818,
+      "word": "这些职业成了招聘会里的香饽饽",
+      "onboard_time": 1777693880,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 30145,
-      "num": 724787,
+      "num": 725825,
       "word": "用最美镜头致敬铁路劳动者",
       "onboard_time": 1777688898,
       "rank": 2,

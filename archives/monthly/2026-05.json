@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777693540713,
+  "endTime": 1777694410937,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2383489,
-      "num": 214498,
+      "num": 324512,
       "word": "时代峰峻回应严浩翔家庭事宜",
       "onboard_time": 1777690699,
       "rank": 10,
@@ -323,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 748216,
+      "num": 323987,
+      "word": "西安上空现不明物持续一小时后消失",
+      "onboard_time": 1777688898,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739787,
       "num": 739787,
       "word": "不爱睡觉的国家迎来了最懂他的奶茶",
@@ -337,6 +345,22 @@
       "onboard_time": 1777641621,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 727926,
+      "num": 786221,
+      "word": "爷爷过世请假奔丧被开除",
+      "onboard_time": 1777683918,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724307,
+      "num": 724307,
+      "word": "王濛张月抢同一首歌是为了同一个人",
+      "onboard_time": 1777688300,
+      "rank": 3,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 718889,
@@ -363,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 687725,
-      "num": 213265,
-      "word": "西安上空现不明物持续一小时后消失",
-      "onboard_time": 1777688898,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 684946,
       "num": 548549,
       "word": "何宣林 镜头",
@@ -395,27 +411,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 665078,
-      "num": 665078,
-      "word": "王濛张月抢同一首歌是为了同一个人",
-      "onboard_time": 1777688300,
-      "rank": 3,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 655160,
       "num": 655160,
       "word": "labubu冰箱被炒至19999元",
       "onboard_time": 1777605918,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 652082,
-      "num": 786221,
-      "word": "爷爷过世请假奔丧被开除",
-      "onboard_time": 1777683918,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 492039,
-      "num": 275916,
+      "num": 373598,
       "word": "何洁听跳楼机还没到副歌就直接关掉了",
       "onboard_time": 1777689623,
       "rank": 5,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423448,
+      "num": 784472,
+      "word": "胖东来正式起诉博主惊梦人",
+      "onboard_time": 1777692980,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 402045,
       "num": 451614,
       "word": "曾沛慈一把牵走张慧雯",
@@ -739,6 +747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 375038,
+      "num": 1054034,
+      "word": "湖人vs火箭",
+      "onboard_time": 1777680498,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373206,
       "num": 373206,
       "word": "主人经期贫血晕厥2只狗子立大功",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 347125,
-      "num": 212221,
+      "num": 320376,
       "word": "李飞怎么变这么薄一片了",
       "onboard_time": 1777682720,
       "rank": 12,
@@ -808,14 +824,6 @@
       "word": "马龙出行带娃参加斯巴达",
       "onboard_time": 1777616899,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 337717,
-      "num": 1054034,
-      "word": "湖人vs火箭",
-      "onboard_time": 1777680498,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -843,12 +851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332786,
+      "num": 321265,
+      "word": "刘晓庆回应和王婆互动冷淡",
+      "onboard_time": 1777693223,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332019,
       "num": 278937,
       "word": "时代少年团演唱会造型",
       "onboard_time": 1777615039,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 331458,
+      "num": 331458,
+      "word": "突然就懂了朋友和好朋友的区别",
+      "onboard_time": 1777692681,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 329603,
@@ -881,6 +905,14 @@
       "onboard_time": 1777631539,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 309038,
+      "num": 309038,
+      "word": "水银奶茶 男友投毒",
+      "onboard_time": 1777693760,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300530,
@@ -995,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284665,
+      "num": 330435,
+      "word": "巴雷特绝杀骑士",
+      "onboard_time": 1777689921,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283723,
       "num": 366547,
       "word": "女子被AI误导闯入毒蛇窝",
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 282589,
-      "num": 211408,
+      "num": 251329,
       "word": "陈哲远王楚然浮生开机了",
       "onboard_time": 1777692080,
       "rank": 13,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1777593137,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278431,
-      "num": 278431,
-      "word": "巴雷特绝杀骑士",
-      "onboard_time": 1777689921,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 277790,
@@ -1115,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264519,
-      "num": 209905,
-      "word": "刘晓庆回应和王婆互动冷淡",
-      "onboard_time": 1777693223,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261110,
       "num": 166299,
       "word": "香奈儿无底鞋89%网友讨厌",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1777678877,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254108,
-      "num": 254108,
-      "word": "突然就懂了朋友和好朋友的区别",
-      "onboard_time": 1777692681,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 246966,
@@ -1283,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218704,
+      "num": 326571,
+      "word": "日本战犯竟称侵华是为了管教兄弟",
+      "onboard_time": 1777692021,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218522,
       "num": 218522,
       "word": "宋亚轩刘耀文小宇舞台",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1777558461,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 215313,
-      "num": 215313,
-      "word": "胖东来正式起诉博主惊梦人",
-      "onboard_time": 1777692980,
-      "rank": 9,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 214906,
@@ -1403,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201594,
+      "num": 201956,
+      "word": "5月锦鲤附体的星座",
+      "onboard_time": 1777683800,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201218,
       "num": 263769,
       "word": "5岁男童被自家哈士奇咬伤面部颈部",
@@ -1483,12 +1507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186948,
-      "num": 201956,
-      "word": "5月锦鲤附体的星座",
-      "onboard_time": 1777683800,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 186181,
+      "num": 186181,
+      "word": "爸爸去哪儿的孩子都长这么大了",
+      "onboard_time": 1777693760,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185575,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1777644562,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180609,
-      "num": 206901,
-      "word": "日本战犯竟称侵华是为了管教兄弟",
-      "onboard_time": 1777692021,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179943,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1777623622,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165921,
+      "num": 204157,
+      "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
+      "onboard_time": 1777692380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163645,
@@ -2179,12 +2203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110967,
-      "num": 204157,
-      "word": "年幼姐弟误启动电三轮坠河弟弟溺亡",
-      "onboard_time": 1777692380,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 112081,
+      "num": 112081,
+      "word": "浮生",
+      "onboard_time": 1777683679,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 110321,
@@ -2259,14 +2283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104149,
-      "num": 104149,
-      "word": "浮生",
-      "onboard_time": 1777683679,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103535,
       "num": 267516,
       "word": "月销超7万零跑创新高",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1777592238,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100383,
+      "num": 96507,
+      "word": "孙杨调侃撒贝宁不会死了吧",
+      "onboard_time": 1777688960,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100234,
@@ -2363,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90263,
+      "num": 177192,
+      "word": "AI手搓小黄人产生意识了",
+      "onboard_time": 1777690581,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89981,
       "num": 89981,
       "word": "司机到河南送货被塞30斤蒜薹",
@@ -2385,14 +2417,6 @@
       "onboard_time": 1777591037,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 88421,
-      "num": 173855,
-      "word": "AI手搓小黄人产生意识了",
-      "onboard_time": 1777690581,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 86367,
@@ -2441,6 +2465,14 @@
       "onboard_time": 1777693040,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 82621,
+      "num": 103972,
+      "word": "张雪回应820RR赛道熄火",
+      "onboard_time": 1777687518,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 82243,
@@ -2492,19 +2524,11 @@
     },
     {
       "raw_hot": 77076,
-      "num": 172251,
+      "num": 173914,
       "word": "DeepSeek拟人 哇呀啧呜哇",
       "onboard_time": 1777689800,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 103972,
-      "word": "张雪回应820RR赛道熄火",
-      "onboard_time": 1777687518,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 75871,
@@ -2601,6 +2625,14 @@
       "onboard_time": 1777549519,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65723,
+      "num": 185818,
+      "word": "这些职业成了招聘会里的香饽饽",
+      "onboard_time": 1777693880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64177,
@@ -2876,7 +2908,7 @@
     },
     {
       "raw_hot": 30145,
-      "num": 724787,
+      "num": 725825,
       "word": "用最美镜头致敬铁路劳动者",
       "onboard_time": 1777688898,
       "rank": 2,
