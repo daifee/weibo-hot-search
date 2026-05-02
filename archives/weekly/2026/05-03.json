@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777759633171,
+  "endTime": 1777762464458,
   "band_list": [
     {
       "raw_hot": 4226995,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 214479,
-      "num": 244863,
+      "num": 434399,
       "word": "世乒赛",
       "onboard_time": 1777725320,
       "rank": 46,
@@ -195,7 +195,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208194,
+      "raw_hot": 209222,
       "num": 263782,
       "word": "建议大家去狂刷跨境综艺打破信息差",
       "onboard_time": 1777741218,
@@ -259,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165533,
+      "num": 165533,
+      "word": "斯诺克世锦赛",
+      "onboard_time": 1777762276,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161417,
       "num": 251107,
       "word": "苏超南京vs常州",
@@ -313,6 +321,14 @@
       "onboard_time": 1777718241,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137915,
+      "num": 218717,
+      "word": "杨威定下16岁前不牺牲学业红线",
+      "onboard_time": 1777743916,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 136654,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112088,
+      "num": 112088,
+      "word": "2026斯诺克世锦赛",
+      "onboard_time": 1777762216,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111741,
       "num": 260223,
       "word": "被AI误导闯入毒蛇窝女子发声",
@@ -451,11 +475,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82423,
-      "num": 218717,
-      "word": "杨威定下16岁前不牺牲学业红线",
-      "onboard_time": 1777743916,
-      "rank": 30,
+      "raw_hot": 69457,
+      "num": 225866,
+      "word": "2026F1迈阿密大奖赛",
+      "onboard_time": 1777741818,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -467,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62581,
-      "num": 225866,
-      "word": "2026F1迈阿密大奖赛",
-      "onboard_time": 1777741818,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 67235,
+      "num": 95005,
+      "word": "恶意开除失明女子公司被判赔20万",
+      "onboard_time": 1777760175,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60564,
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41121,
+      "num": 94978,
+      "word": "国乒男团伦敦世乒赛开门红",
+      "onboard_time": 1777750215,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40178,
       "num": 70935,
       "word": "伊朗放宽与美国恢复和谈条件",
@@ -563,12 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37298,
-      "num": 50819,
-      "word": "国乒男团伦敦世乒赛开门红",
-      "onboard_time": 1777750215,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 28401,
+      "num": 94822,
+      "word": "1300斤牛被找回暴瘦200斤村民发声",
+      "onboard_time": 1777753753,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27535,
@@ -577,14 +609,6 @@
       "onboard_time": 1777747095,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24748,
-      "num": 50847,
-      "word": "1300斤牛被找回暴瘦200斤村民发声",
-      "onboard_time": 1777753753,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21692,
