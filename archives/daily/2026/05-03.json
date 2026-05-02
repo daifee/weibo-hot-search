@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777742096230,
+  "endTime": 1777744530532,
   "band_list": [
     {
       "raw_hot": 4226995,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207273,
+      "num": 263782,
+      "word": "建议大家去狂刷跨境综艺打破信息差",
+      "onboard_time": 1777741218,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206432,
       "num": 257864,
       "word": "日本地震",
@@ -283,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156438,
-      "num": 263782,
-      "word": "建议大家去狂刷跨境综艺打破信息差",
-      "onboard_time": 1777741218,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153302,
       "num": 153302,
       "word": "丁程鑫各种意义上的神图来了",
@@ -345,6 +345,14 @@
       "onboard_time": 1777714281,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126341,
+      "num": 252743,
+      "word": "误导女子闯入毒蛇窝AI道歉",
+      "onboard_time": 1777741218,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123253,
@@ -411,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97082,
+      "num": 254725,
+      "word": "猫为什么不焦虑",
+      "onboard_time": 1777741218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87776,
       "num": 87776,
       "word": "张真源手臂荆棘纹身",
@@ -419,20 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85725,
-      "num": 254725,
-      "word": "猫为什么不焦虑",
-      "onboard_time": 1777741218,
+      "raw_hot": 76820,
+      "num": 194157,
+      "word": "杨威定下16岁前不牺牲学业红线",
+      "onboard_time": 1777743916,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 83703,
-      "num": 252743,
-      "word": "误导女子闯入毒蛇窝AI道歉",
-      "onboard_time": 1777741218,
-      "rank": 32,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 69034,
@@ -440,6 +448,14 @@
       "word": "常州队世界波破门",
       "onboard_time": 1777730303,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62937,
+      "num": 194149,
+      "word": "郭晶晶陈若琳假期同框热聊",
+      "onboard_time": 1777743077,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58567,
+      "num": 194147,
+      "word": "2026F1迈阿密大奖赛",
+      "onboard_time": 1777741818,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56047,
       "num": 245006,
       "word": "张雪机车绝杀两台雅马哈",
@@ -459,12 +483,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55205,
+      "num": 240020,
+      "word": "世乒赛",
+      "onboard_time": 1777725320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54562,
+      "num": 238736,
+      "word": "被疑患癌男子称去其他医院检查正常",
+      "onboard_time": 1777735762,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53944,
       "num": 243364,
       "word": "荣耀将推出张雪机车冠军联名款手表",
       "onboard_time": 1777730782,
       "rank": 42,
       "category": "体育,数码"
+    },
+    {
+      "raw_hot": 53743,
+      "num": 194138,
+      "word": "AG确认挑杯八强",
+      "onboard_time": 1777742417,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 49885,
@@ -481,22 +529,6 @@
       "onboard_time": 1777735702,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48129,
-      "num": 240020,
-      "word": "世乒赛",
-      "onboard_time": 1777725320,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47527,
-      "num": 238736,
-      "word": "被疑患癌男子称去其他医院检查正常",
-      "onboard_time": 1777735762,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45479,
