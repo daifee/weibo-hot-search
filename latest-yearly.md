@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/02 18:05:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/02 19:15:29
 </p>
 </blockquote>
 <p>
@@ -647,6 +647,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E8%BF%AD%E9%83%A85.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 甘肃迭部5.5级地震（热度：5334101）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%96%B9%E8%A6%81%E6%B1%82hi6%E5%9B%9E%E5%BA%94%23" target="weibo">
+周也方要求hi6回应（热度：5229638）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23" target="weibo">
 库克不再担任苹果CEO（热度：2334758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%A6%86%E7%82%B8%E9%B8%A1%E8%85%BF%23" target="weibo">
-临榆炸鸡腿（热度：2304718）
 </a>
 </li>
 

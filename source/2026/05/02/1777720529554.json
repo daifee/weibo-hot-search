@@ -1,0 +1,410 @@
+{
+  "runTime": 1777720529554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127656,
+        "num": 1180425,
+        "word": "世界杯转播权再现中国式僵局",
+        "onboard_time": 1777708339,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603658,
+        "num": 862330,
+        "word": "北京彩虹",
+        "onboard_time": 1777720281,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34986,
+        "num": 667699,
+        "word": "5月1日铁路发送旅客量创历史新高",
+        "onboard_time": 1777708099,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564270,
+        "num": 666060,
+        "word": "河南蒜薹 滞销",
+        "onboard_time": 1777718841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664678,
+        "num": 664678,
+        "word": "ai情头",
+        "onboard_time": 1777718181,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518404,
+        "num": 518404,
+        "word": "共情能力强 情感漠视",
+        "onboard_time": 1777715900,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443872,
+        "num": 516911,
+        "word": "孙颖莎国乒首秀出任一单",
+        "onboard_time": 1777714580,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380322,
+        "num": 513444,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346329,
+        "num": 513315,
+        "word": "葛仙村度假区致歉",
+        "onboard_time": 1777705159,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 274408,
+        "num": 510406,
+        "word": "尤伯杯",
+        "onboard_time": 1777720222,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5229638,
+        "num": 507806,
+        "word": "周也方要求hi6回应",
+        "onboard_time": 1777717819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837825,
+        "num": 503923,
+        "word": "严浩翔每年都会往宿舍搬几箱橙子",
+        "onboard_time": 1777713740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272037,
+        "num": 502660,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 739296,
+        "num": 499691,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777704079,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489544,
+        "num": 497339,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48214,
+        "num": 495037,
+        "word": "基础款Macmini停售",
+        "onboard_time": 1777711039,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 408137,
+        "num": 492420,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777717341,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82743,
+        "num": 489795,
+        "word": "孙颖莎奶团子上班",
+        "onboard_time": 1777719740,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33633,
+        "num": 488204,
+        "word": "WE对战JDG",
+        "onboard_time": 1777719740,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18713,
+        "num": 485611,
+        "word": "美军使用AI在霍尔木兹海峡扫雷",
+        "onboard_time": 1777719740,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3465637,
+        "num": 482830,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719629,
+        "num": 480849,
+        "word": "张桂源头像",
+        "onboard_time": 1777714281,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292138,
+        "num": 476224,
+        "word": "西瓜摊老板戴手套用牙签挑瓜籽",
+        "onboard_time": 1777718241,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648037,
+        "num": 475794,
+        "word": "张元英救了霸王茶姬",
+        "onboard_time": 1777712540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476694,
+        "num": 471550,
+        "word": "曹骏工作室否认拉踩檀健次",
+        "onboard_time": 1777715720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173578,
+        "num": 470644,
+        "word": "河南灵宝火灾致6人死亡",
+        "onboard_time": 1777716321,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1620731,
+        "num": 467103,
+        "word": "张婧仪将暂停配合宣传你好星期六",
+        "onboard_time": 1777719681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451436,
+        "num": 465100,
+        "word": "严军发了一家四口照",
+        "onboard_time": 1777684399,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382569,
+        "num": 461641,
+        "word": "三亚偶遇赵又廷高圆圆牵手散步",
+        "onboard_time": 1777712480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235441,
+        "num": 460666,
+        "word": "何炅回应王鹤棣情绪失控",
+        "onboard_time": 1777698319,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165185,
+        "num": 457628,
+        "word": "对自己不好的事别到处说",
+        "onboard_time": 1777701859,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227396,
+        "num": 455600,
+        "word": "时代少年团 男团学",
+        "onboard_time": 1777720040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195320,
+        "num": 452453,
+        "word": "韩国艺人偷税漏税追缴款Top5",
+        "onboard_time": 1777707979,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165361,
+        "num": 449291,
+        "word": "猫妈妈觅食回来天都塌了",
+        "onboard_time": 1777717282,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175682,
+        "num": 447112,
+        "word": "高会直播",
+        "onboard_time": 1777718841,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167163,
+        "num": 443854,
+        "word": "严浩翔演唱会状态",
+        "onboard_time": 1777720340,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131539,
+        "num": 441601,
+        "word": "樊振东五一假期belike",
+        "onboard_time": 1777718780,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148257,
+        "num": 440881,
+        "word": "鹿晗没带馒头参加五哈的原因",
+        "onboard_time": 1777710439,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70600,
+        "num": 436905,
+        "word": "TTG对战DRG",
+        "onboard_time": 1777710260,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118156,
+        "num": 435552,
+        "word": "北京WBG对战FPX.ZQ",
+        "onboard_time": 1777719261,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147754,
+        "num": 431494,
+        "word": "王鹤棣第一次情绪失控",
+        "onboard_time": 1777694422,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145333,
+        "num": 430709,
+        "word": "孙怡阚清子看王濛搂陈瑶的表情",
+        "onboard_time": 1777703840,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122361,
+        "num": 426419,
+        "word": "葛仙村NPC小黄鱼致歉",
+        "onboard_time": 1777709720,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116379,
+        "num": 424147,
+        "word": "美国警告立陶宛",
+        "onboard_time": 1777709720,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115326,
+        "num": 422338,
+        "word": "金靖差点删了爆改化妆师兔子",
+        "onboard_time": 1777705639,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114556,
+        "num": 419854,
+        "word": "种地吧",
+        "onboard_time": 1777696579,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109702,
+        "num": 416483,
+        "word": "三个10岁救了一个2岁",
+        "onboard_time": 1777718061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112622,
+        "num": 414311,
+        "word": "阚清子一斤没瘦",
+        "onboard_time": 1777708640,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108973,
+        "num": 412427,
+        "word": "有人为吃蜜雪9元圣代碗排队5小时",
+        "onboard_time": 1777700600,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15368,
+        "num": 409105,
+        "word": "时隔五年我用AI复活了父亲",
+        "onboard_time": 1777699399,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#一镜到底看奋进中国#"
+    }
+  }
+}
