@@ -1,0 +1,410 @@
+{
+  "runTime": 1777680822819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080698,
+        "num": 1172911,
+        "word": "跑男什么时候变成这样了",
+        "onboard_time": 1777678820,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425229,
+        "num": 850178,
+        "word": "火车票开售即售罄的原因找到了",
+        "onboard_time": 1777644082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15637,
+        "num": 656310,
+        "word": "数读我国创新全方位加速突破",
+        "onboard_time": 1777640181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367966,
+        "num": 367966,
+        "word": "赵又廷回复林更新想你了",
+        "onboard_time": 1777678820,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322966,
+        "num": 322966,
+        "word": "真的有人能成功请到这三天假吗",
+        "onboard_time": 1777633459,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355366,
+        "num": 321021,
+        "word": "陈思诚说1200万票房不够电影院房租",
+        "onboard_time": 1777646121,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270567,
+        "num": 270567,
+        "word": "人到了一定年纪就会解锁的动作",
+        "onboard_time": 1777656317,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185969,
+        "num": 185969,
+        "word": "这不叫堵车 这叫铺红地毯",
+        "onboard_time": 1777636762,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159727,
+        "num": 159727,
+        "word": "吴宜泽7比7艾伦",
+        "onboard_time": 1777679658,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88023,
+        "num": 159188,
+        "word": "张雪机车杆位赛第6名",
+        "onboard_time": 1777650622,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 886158,
+        "num": 157514,
+        "word": "王菲 你管她干啥",
+        "onboard_time": 1777642882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607081,
+        "num": 155744,
+        "word": "中国光伏的堡垒被印度从内部攻破",
+        "onboard_time": 1777679837,
+        "rank": 11,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 418837,
+        "num": 153869,
+        "word": "普通家庭对孩子最好的托举就这11点",
+        "onboard_time": 1777678820,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329603,
+        "num": 151906,
+        "word": "万千惠问三宝自己的下属漂不漂亮",
+        "onboard_time": 1777678820,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260361,
+        "num": 150426,
+        "word": "妻子十一郎首度公开张宇罕见病内情",
+        "onboard_time": 1777678877,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189372,
+        "num": 147813,
+        "word": "女子照顾瘫痪丈夫19年想有个孩子",
+        "onboard_time": 1777639462,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225728,
+        "num": 147151,
+        "word": "金靖为减肥九点半就睡觉",
+        "onboard_time": 1777679297,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207078,
+        "num": 143943,
+        "word": "难听",
+        "onboard_time": 1777643121,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184631,
+        "num": 142178,
+        "word": "主人经期贫血晕厥2只狗子立大功",
+        "onboard_time": 1777642460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141947,
+        "num": 141947,
+        "word": "迪丽热巴在还63张自拍的债了",
+        "onboard_time": 1777647142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131363,
+        "num": 131363,
+        "word": "美军福特号航母离开中东",
+        "onboard_time": 1777654221,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130911,
+        "num": 130911,
+        "word": "F1",
+        "onboard_time": 1777679898,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129570,
+        "num": 129570,
+        "word": "张檬坚持给一岁儿子喂母乳",
+        "onboard_time": 1777635560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116554,
+        "num": 116554,
+        "word": "李若彤被路人认成40岁",
+        "onboard_time": 1777676416,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104659,
+        "num": 116434,
+        "word": "5岁男童被自家哈士奇咬伤面部颈部",
+        "onboard_time": 1777646661,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116387,
+        "num": 116387,
+        "word": "浪姐争议嘉宾称也只签了一期合同",
+        "onboard_time": 1777680378,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107797,
+        "num": 107797,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1777642280,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97108,
+        "num": 97108,
+        "word": "深圳地铁平均每天亏超1个亿",
+        "onboard_time": 1777654819,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96039,
+        "num": 96039,
+        "word": "王濛缺席帮唱选曲就没人弄清规则了",
+        "onboard_time": 1777680439,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92178,
+        "num": 92178,
+        "word": "白鹿摘了姚译添眼镜给自己戴",
+        "onboard_time": 1777651522,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99254,
+        "num": 91623,
+        "word": "Fly挑杯赛后回应",
+        "onboard_time": 1777680498,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105099,
+        "num": 90876,
+        "word": "曝冰湖重生有庆功宴",
+        "onboard_time": 1777678877,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61621,
+        "num": 90044,
+        "word": "湖人vs火箭",
+        "onboard_time": 1777680498,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89981,
+        "num": 89981,
+        "word": "司机到河南送货被塞30斤蒜薹",
+        "onboard_time": 1777674134,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87801,
+        "num": 87801,
+        "word": "保姆抱娃踩床边台阶摔倒在地",
+        "onboard_time": 1777645102,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86263,
+        "num": 86263,
+        "word": "这个店没了咪不行",
+        "onboard_time": 1777655657,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81598,
+        "num": 81598,
+        "word": "刘耀文你随便吧",
+        "onboard_time": 1777648280,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80371,
+        "num": 80371,
+        "word": "榴莲大降价有果商1天卖了9千斤",
+        "onboard_time": 1777646661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79924,
+        "num": 79924,
+        "word": "姜武出演张雪",
+        "onboard_time": 1777644562,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77561,
+        "num": 77561,
+        "word": "小猫被小龙虾一击必杀",
+        "onboard_time": 1777640902,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73690,
+        "num": 73690,
+        "word": "我的女孩翻拍竟然有林志颖应采儿版本",
+        "onboard_time": 1777680619,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69332,
+        "num": 69332,
+        "word": "李建宏讣告",
+        "onboard_time": 1777632079,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68787,
+        "num": 68787,
+        "word": "胖东来没有淡季只有旺季旺旺季",
+        "onboard_time": 1777649840,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66547,
+        "num": 66547,
+        "word": "时团没唱爆米花",
+        "onboard_time": 1777646121,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62469,
+        "num": 62469,
+        "word": "曾沛慈一把牵走张慧雯",
+        "onboard_time": 1777633641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62031,
+        "num": 62031,
+        "word": "第五人格",
+        "onboard_time": 1777679898,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60012,
+        "num": 62019,
+        "word": "任嘉伦唱跳太热血了",
+        "onboard_time": 1777664895,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59680,
+        "num": 62013,
+        "word": "女子被AI误导闯入毒蛇窝",
+        "onboard_time": 1777636040,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42912,
+        "num": 61999,
+        "word": "伊朗递交最新谈判方案",
+        "onboard_time": 1777641981,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8225,
+        "num": 61992,
+        "word": "极氪月交付量创历史新高",
+        "onboard_time": 1777626319,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与劳动者面对面心贴心#"
+    }
+  }
+}

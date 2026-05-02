@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777680151632,
+  "endTime": 1777680822819,
   "band_list": [
     {
       "raw_hot": 6463220,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1080698,
+      "num": 1172911,
+      "word": "跑男什么时候变成这样了",
+      "onboard_time": 1777678820,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074309,
       "num": 304080,
       "word": "曝Angelababy爱发朋友圈",
@@ -249,14 +257,6 @@
       "onboard_time": 1777615699,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 775162,
-      "num": 1124026,
-      "word": "跑男什么时候变成这样了",
-      "onboard_time": 1777678820,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 773312,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 607081,
+      "num": 155744,
+      "word": "中国光伏的堡垒被印度从内部攻破",
+      "onboard_time": 1777679837,
+      "rank": 11,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 603656,
       "num": 251078,
       "word": "王俊凯工作室 他拍比自拍好看",
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 502914,
-      "num": 143108,
-      "word": "中国光伏的堡垒被印度从内部攻破",
-      "onboard_time": 1777679837,
-      "rank": 11,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 497261,
       "num": 323574,
       "word": "孙怡选了阚清子",
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 433739,
-      "num": 142494,
+      "num": 153869,
       "word": "普通家庭对孩子最好的托举就这11点",
       "onboard_time": 1777678820,
       "rank": 12,
@@ -619,7 +619,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 424146,
+      "raw_hot": 425229,
       "num": 914484,
       "word": "火车票开售即售罄的原因找到了",
       "onboard_time": 1777644082,
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367966,
+      "num": 367966,
+      "word": "赵又廷回复林更新想你了",
+      "onboard_time": 1777678820,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365683,
       "num": 258040,
       "word": "小狗体检肚子duang一下弹出来了",
@@ -731,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345890,
-      "num": 345890,
-      "word": "赵又廷回复林更新想你了",
-      "onboard_time": 1777678820,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 338426,
       "num": 322645,
       "word": "马龙出行带娃参加斯巴达",
@@ -777,6 +777,14 @@
       "onboard_time": 1777615039,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 329603,
+      "num": 151906,
+      "word": "万千惠问三宝自己的下属漂不漂亮",
+      "onboard_time": 1777678820,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 324356,
@@ -971,6 +979,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 270567,
+      "num": 270567,
+      "word": "人到了一定年纪就会解锁的动作",
+      "onboard_time": 1777656317,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269129,
       "num": 274566,
       "word": "被靠出了人形的北京地铁",
@@ -1035,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260361,
+      "num": 150426,
+      "word": "妻子十一郎首度公开张宇罕见病内情",
+      "onboard_time": 1777678877,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
@@ -1067,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240869,
-      "num": 240869,
-      "word": "人到了一定年纪就会解锁的动作",
-      "onboard_time": 1777656317,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238504,
       "num": 446873,
       "word": "eStar对战TCG",
@@ -1099,14 +1115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 232079,
-      "num": 141633,
-      "word": "万千惠问三宝自己的下属漂不漂亮",
-      "onboard_time": 1777678820,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231080,
       "num": 235193,
       "word": "28岁攒到10万元女生已申请辞职",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1777645041,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225728,
+      "num": 147151,
+      "word": "金靖为减肥九点半就睡觉",
+      "onboard_time": 1777679297,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 225521,
@@ -1248,14 +1264,6 @@
       "word": "鞠婧祎五一plog",
       "onboard_time": 1777642821,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202157,
-      "num": 140740,
-      "word": "妻子十一郎首度公开张宇罕见病内情",
-      "onboard_time": 1777678877,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1507,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159727,
+      "num": 159727,
+      "word": "吴宜泽7比7艾伦",
+      "onboard_time": 1777679658,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156435,
       "num": 173443,
       "word": "刘国梁拍肩鼓励王楚钦",
@@ -1587,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152092,
-      "num": 139310,
-      "word": "金靖为减肥九点半就睡觉",
-      "onboard_time": 1777679297,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146791,
       "num": 146791,
       "word": "官方通报酒店声称蛇很多强制退单",
@@ -1624,14 +1632,6 @@
       "word": "吴宜泽6比2领先艾伦",
       "onboard_time": 1777592177,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 144358,
-      "num": 144358,
-      "word": "吴宜泽7比7艾伦",
-      "onboard_time": 1777679658,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -1787,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130911,
+      "num": 144000,
+      "word": "F1",
+      "onboard_time": 1777679898,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130870,
       "num": 130870,
       "word": "刘耀文宋亚轩小宇彩排",
@@ -1907,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116387,
+      "num": 116387,
+      "word": "浪姐争议嘉宾称也只签了一期合同",
+      "onboard_time": 1777680378,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115823,
       "num": 115823,
       "word": "肖战工作室包场姜妍新片",
@@ -1979,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105099,
+      "num": 90876,
+      "word": "曝冰湖重生有庆功宴",
+      "onboard_time": 1777678877,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104679,
       "num": 248063,
       "word": "金饰克价回落买不买",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1777606399,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 102100,
-      "num": 144000,
-      "word": "F1",
-      "onboard_time": 1777679898,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 101358,
@@ -2027,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99254,
+      "num": 91623,
+      "word": "Fly挑杯赛后回应",
+      "onboard_time": 1777680498,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99026,
       "num": 229346,
       "word": "王俊凯浪姐送考自拍",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1777568418,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96039,
+      "num": 96039,
+      "word": "王濛缺席帮唱选曲就没人弄清规则了",
+      "onboard_time": 1777680439,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 94112,
@@ -2075,12 +2107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92434,
-      "num": 87636,
-      "word": "曝冰湖重生有庆功宴",
-      "onboard_time": 1777678877,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 89981,
+      "num": 89981,
+      "word": "司机到河南送货被塞30斤蒜薹",
+      "onboard_time": 1777674134,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89977,
@@ -2107,20 +2139,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86263,
+      "num": 117739,
+      "word": "这个店没了咪不行",
+      "onboard_time": 1777655657,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86146,
       "num": 225354,
       "word": "韩国霸王茶姬爆单",
       "onboard_time": 1777537519,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 85304,
-      "num": 117739,
-      "word": "这个店没了咪不行",
-      "onboard_time": 1777655657,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 84712,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1777654999,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83705,
-      "num": 83705,
-      "word": "司机到河南送货被塞30斤蒜薹",
-      "onboard_time": 1777674134,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82243,
@@ -2219,6 +2243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73690,
+      "num": 73690,
+      "word": "我的女孩翻拍竟然有林志颖应采儿版本",
+      "onboard_time": 1777680619,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73484,
       "num": 129775,
       "word": "心理医生的含金量还在上升",
@@ -2259,20 +2291,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68787,
+      "num": 128857,
+      "word": "胖东来没有淡季只有旺季旺旺季",
+      "onboard_time": 1777649840,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68270,
       "num": 68270,
       "word": "阿娇送阿sa的新婚礼物曝光",
       "onboard_time": 1777549519,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68070,
-      "num": 128857,
-      "word": "胖东来没有淡季只有旺季旺旺季",
-      "onboard_time": 1777649840,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64177,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1777594638,
       "rank": 48,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 61621,
+      "num": 90044,
+      "word": "湖人vs火箭",
+      "onboard_time": 1777680498,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 60785,
