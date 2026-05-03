@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777782576797,
+  "endTime": 1777790049897,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -145,6 +145,14 @@
       "onboard_time": 1777782500,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2249729,
+      "num": 656957,
+      "word": "白鹿被孟子义说挂相",
+      "onboard_time": 1777785379,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1937295,
@@ -475,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 907018,
+      "num": 1145122,
+      "word": "NPC小黄鱼互动改送簪花",
+      "onboard_time": 1777784659,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 892965,
       "num": 1142874,
       "word": "东航通报飞机与廊桥局部碰擦",
@@ -659,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 738870,
+      "num": 314723,
+      "word": "王濛穿粉色裙子",
+      "onboard_time": 1777784898,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732513,
       "num": 713023,
       "word": "刘耀文solo好牛",
@@ -801,6 +825,22 @@
       "onboard_time": 1777762516,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 660030,
+      "num": 306073,
+      "word": "孙俪 我们家的狗装死把邓超吓晕了",
+      "onboard_time": 1777787000,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655171,
+      "num": 655171,
+      "word": "榴莲价格",
+      "onboard_time": 1777784299,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 655160,
@@ -993,6 +1033,14 @@
       "onboard_time": 1777595960,
       "rank": 4,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 540082,
+      "num": 299500,
+      "word": "五一不出去旅游的原因",
+      "onboard_time": 1777781539,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 539805,
@@ -1195,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458068,
+      "num": 273544,
+      "word": "谢贤前女友CoCo回应分手原因",
+      "onboard_time": 1777787539,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454910,
       "num": 454910,
       "word": "掘金vs森林狼",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1777644082,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418905,
+      "num": 278909,
+      "word": "姜十七回应整容",
+      "onboard_time": 1777784781,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 409346,
@@ -1467,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 364318,
+      "num": 364318,
+      "word": "严浩翔回应演唱会哭了",
+      "onboard_time": 1777772361,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364293,
       "num": 364293,
       "word": "王楚钦王皓同时无奈",
@@ -1579,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336400,
+      "num": 287762,
+      "word": "合肥工业大学通报孙某某被开除学籍",
+      "onboard_time": 1777784359,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336191,
       "num": 336191,
       "word": "面包要涨价了",
@@ -1689,6 +1769,14 @@
       "onboard_time": 1777694540,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 325942,
+      "num": 325942,
+      "word": "大睡特睡 修复前额叶",
+      "onboard_time": 1777788681,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 324356,
@@ -1859,6 +1947,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291312,
+      "num": 271336,
+      "word": "宋宁峰张婉婷风波后带娃出游",
+      "onboard_time": 1777784241,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291224,
+      "num": 157882,
+      "word": "自卑的根本原因是什么",
+      "onboard_time": 1777782441,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290226,
       "num": 414311,
       "word": "阚清子一斤没瘦",
@@ -2003,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277242,
+      "num": 277242,
+      "word": "李小冉被气哭了",
+      "onboard_time": 1777788140,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276677,
       "num": 440881,
       "word": "鹿晗没带馒头参加五哈的原因",
@@ -2105,6 +2217,14 @@
       "onboard_time": 1777705400,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261910,
+      "num": 261910,
+      "word": "严浩翔 爱一个人需要另一个人",
+      "onboard_time": 1777789461,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 261406,
@@ -2339,14 +2459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232500,
-      "num": 232500,
-      "word": "五一不出去旅游的原因",
-      "onboard_time": 1777781539,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 231208,
       "num": 231208,
       "word": "大衣哥握手太多致手指被真菌感染",
@@ -2507,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212817,
+      "num": 295497,
+      "word": "TOP团综",
+      "onboard_time": 1777784480,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211440,
       "num": 211440,
       "word": "WBG八强",
@@ -2635,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201050,
+      "num": 232230,
+      "word": "河南蒜苔 再说原地址给你补五十斤",
+      "onboard_time": 1777789639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200732,
       "num": 287477,
       "word": "11岁女孩频繁呕吐确诊肾衰竭",
@@ -2689,6 +2817,14 @@
       "onboard_time": 1777728202,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193916,
+      "num": 188073,
+      "word": "良陈美锦开播",
+      "onboard_time": 1777783221,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193832,
@@ -2755,6 +2891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188614,
+      "num": 188614,
+      "word": "被批擦边npc互动改为送簪花",
+      "onboard_time": 1777788081,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188403,
       "num": 188403,
       "word": "张真源高音",
@@ -2819,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183061,
+      "num": 183061,
+      "word": "你们都显老到什么程度了",
+      "onboard_time": 1777789461,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182397,
       "num": 168410,
       "word": "鹤吻痕",
@@ -2849,6 +3001,14 @@
       "onboard_time": 1777644562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180612,
+      "num": 180612,
+      "word": "发配河南蒜薹",
+      "onboard_time": 1777786760,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 179943,
@@ -3179,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158235,
+      "num": 158235,
+      "word": "马龙假期赴伦敦助力国乒",
+      "onboard_time": 1777788020,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156678,
       "num": 292318,
       "word": "NPC小黄鱼互动争议景区致歉",
@@ -3307,12 +3475,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150748,
+      "num": 150748,
+      "word": "詹姆斯与雷霆球员的年龄差具象化了",
+      "onboard_time": 1777788140,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149443,
       "num": 149443,
       "word": "曾沛慈三次小考三次带队全部脱稿",
       "onboard_time": 1777714521,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147993,
+      "num": 147993,
+      "word": "郑恺来了也得拍重庆落地签",
+      "onboard_time": 1777788740,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 147021,
@@ -3579,6 +3763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "北京下雨",
+      "onboard_time": 1777782500,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132962,
       "num": 320061,
       "word": "金价今年或跌回4000美元",
@@ -3675,6 +3867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130502,
+      "num": 130502,
+      "word": "林诗栋赛后一言不发",
+      "onboard_time": 1777788919,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130229,
       "num": 332473,
       "word": "荣耀将推出张雪机车冠军联名款手表",
@@ -3689,6 +3889,14 @@
       "onboard_time": 1777719620,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130061,
+      "num": 264587,
+      "word": "一个烧饼做成40多亿跨国产业",
+      "onboard_time": 1777786339,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129919,
@@ -4217,6 +4425,14 @@
       "onboard_time": 1777726762,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95352,
+      "num": 262389,
+      "word": "肖战再站上领奖台",
+      "onboard_time": 1777789100,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 94112,
@@ -4852,7 +5068,7 @@
     },
     {
       "raw_hot": 45346,
-      "num": 138351,
+      "num": 266599,
       "word": "俞浩称追觅要与苹果三星三分天下",
       "onboard_time": 1777764498,
       "rank": 48,
@@ -4915,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40406,
+      "num": 275728,
+      "word": "48小时手搓脑机接口 意念控制轮椅",
+      "onboard_time": 1777777460,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39868,
       "num": 418144,
       "word": "五一就该让千问AI劳动",
@@ -4929,14 +5153,6 @@
       "onboard_time": 1777559061,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 38957,
-      "num": 244051,
-      "word": "48小时手搓脑机接口 意念控制轮椅",
-      "onboard_time": 1777777460,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 38927,
@@ -5249,6 +5465,14 @@
       "onboard_time": 1777782140,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10610,
+      "num": 266093,
+      "word": "4月新势力销量出炉",
+      "onboard_time": 1777767738,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 10135,
