@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777820220231,
+  "endTime": 1777821163252,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5000250,
+      "num": 1748906,
+      "word": "王楚钦生气了",
+      "onboard_time": 1777817785,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4226995,
       "num": 674169,
       "word": "严浩翔哭了",
@@ -19,11 +27,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3842389,
-      "num": 949409,
-      "word": "王楚钦生气了",
-      "onboard_time": 1777817785,
-      "rank": 3,
+      "raw_hot": 3328539,
+      "num": 3328539,
+      "word": "乒乓球",
+      "onboard_time": 1777811361,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2798944,
+      "num": 2798944,
+      "word": "中国男团2比2瑞典",
+      "onboard_time": 1777819882,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 2036641,
-      "num": 932925,
+      "num": 1431597,
       "word": "黄灿灿 blackpink都没这么累",
       "onboard_time": 1777815321,
       "rank": 3,
@@ -83,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1826751,
-      "num": 1826751,
-      "word": "乒乓球",
-      "onboard_time": 1777811361,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1738174,
       "num": 510026,
       "word": "王楚钦手流血了",
@@ -105,6 +113,14 @@
       "onboard_time": 1777765518,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1581619,
+      "num": 1581619,
+      "word": "伦敦世乒赛",
+      "onboard_time": 1777817785,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1492576,
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1239980,
+      "num": 1239980,
+      "word": "国乒女团心系男团战况",
+      "onboard_time": 1777817785,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1205848,
       "num": 1205848,
       "word": "景区NPC擦边涉嫌违法违规",
@@ -195,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 996498,
+      "num": 996498,
+      "word": "中国男团vs瑞典",
+      "onboard_time": 1777807641,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971109,
       "num": 716241,
       "word": "重庆落地签",
@@ -219,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 847506,
-      "num": 847506,
-      "word": "国乒女团心系男团战况",
-      "onboard_time": 1777817785,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 838899,
       "num": 1134223,
       "word": "父母互相拍照6岁儿子失足坠崖",
@@ -241,22 +265,6 @@
       "onboard_time": 1777788681,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 792708,
-      "num": 836446,
-      "word": "中国男团vs瑞典",
-      "onboard_time": 1777807641,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 741764,
-      "num": 741764,
-      "word": "中国男团2比2瑞典",
-      "onboard_time": 1777819882,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 740480,
@@ -288,6 +296,14 @@
       "word": "张雪机车再夺冠军",
       "onboard_time": 1777725800,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 709395,
+      "num": 634278,
+      "word": "梁靖崑状态",
+      "onboard_time": 1777815683,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -387,22 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 634278,
-      "num": 634278,
-      "word": "梁靖崑状态",
-      "onboard_time": 1777815683,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 616082,
-      "num": 616082,
-      "word": "伦敦世乒赛",
-      "onboard_time": 1777817785,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 613967,
       "num": 613967,
       "word": "林诗栋2比3兰弗利",
@@ -435,6 +435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 582220,
+      "num": 576018,
+      "word": "范丞丞妈妈71岁状态",
+      "onboard_time": 1777810883,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 578569,
+      "num": 578569,
+      "word": "林诗栋vs卡尔伯格",
+      "onboard_time": 1777820484,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 574954,
       "num": 574954,
       "word": "这得喝多少饮料才能成角",
@@ -448,6 +464,14 @@
       "word": "吴宜泽17比16艾伦",
       "onboard_time": 1777762936,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 570399,
+      "num": 570399,
+      "word": "中国男团1比2瑞典",
+      "onboard_time": 1777819223,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -467,14 +491,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 535554,
-      "num": 532906,
-      "word": "范丞丞妈妈71岁状态",
-      "onboard_time": 1777810883,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 532794,
       "num": 211233,
       "word": "何洁前夫说前妻不是妻",
@@ -483,10 +499,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511027,
-      "num": 511027,
-      "word": "中国男团1比2瑞典",
-      "onboard_time": 1777819223,
+      "raw_hot": 522163,
+      "num": 522163,
+      "word": "国乒男团2比3瑞典",
+      "onboard_time": 1777820724,
       "rank": 21,
       "category": "体育"
     },
@@ -611,6 +627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 428901,
+      "num": 428901,
+      "word": "张继科说国乒男队技术迭代不足",
+      "onboard_time": 1777805842,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406873,
       "num": 406873,
       "word": "唐九洲黄灿灿避嫌也避不明白",
@@ -681,6 +705,14 @@
       "onboard_time": 1777793540,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381269,
+      "num": 381269,
+      "word": "伊朗退了一步",
+      "onboard_time": 1777818144,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 374708,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339541,
+      "num": 339541,
+      "word": "孙俪邓超为女儿织围巾",
+      "onboard_time": 1777814961,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336400,
       "num": 294912,
       "word": "合肥工业大学通报孙某某被开除学籍",
@@ -777,14 +817,6 @@
       "onboard_time": 1777720040,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320234,
-      "num": 320234,
-      "word": "张继科说国乒男队技术迭代不足",
-      "onboard_time": 1777805842,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 318490,
@@ -891,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295598,
-      "num": 319074,
-      "word": "伊朗退了一步",
-      "onboard_time": 1777818144,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 295373,
       "num": 295373,
       "word": "王楚钦手磕到球台",
@@ -937,14 +961,6 @@
       "onboard_time": 1777782441,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 290619,
-      "num": 290619,
-      "word": "孙俪邓超为女儿织围巾",
-      "onboard_time": 1777814961,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284918,
@@ -1019,8 +1035,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248549,
+      "num": 738754,
+      "word": "佳偶天成 被剧名耽误",
+      "onboard_time": 1777810223,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246475,
-      "num": 318212,
+      "num": 333844,
       "word": "警方回应博主取样河水后被半夜敲门",
       "onboard_time": 1777815503,
       "rank": 29,
@@ -1131,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220665,
-      "num": 738754,
-      "word": "佳偶天成 被剧名耽误",
-      "onboard_time": 1777810223,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214479,
       "num": 524419,
       "word": "世乒赛",
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 194034,
-      "num": 533497,
+      "num": 554315,
       "word": "以色列全面进入备战状态",
       "onboard_time": 1777804103,
       "rank": 26,
@@ -1403,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171839,
+      "num": 1812415,
+      "word": "2026五一档总票房已破5亿",
+      "onboard_time": 1777814243,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170877,
       "num": 170877,
       "word": "安宰贤说中国男团不在最好状态",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1777789639,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168095,
+      "num": 168095,
+      "word": "王皓安抚王楚钦",
+      "onboard_time": 1777816343,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 166226,
@@ -1488,14 +1520,6 @@
       "word": "张雪机车车手德比斯感谢团队",
       "onboard_time": 1777733543,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158399,
-      "num": 158399,
-      "word": "王皓安抚王楚钦",
-      "onboard_time": 1777816343,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1595,12 +1619,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146586,
+      "num": 533157,
+      "word": "DYG赛训",
+      "onboard_time": 1777819763,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146441,
       "num": 146441,
       "word": "赵心童现场观战王楚钦",
       "onboard_time": 1777813101,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144898,
+      "num": 144898,
+      "word": "孙芊浔疑似直播卖减肥药",
+      "onboard_time": 1777821022,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 144841,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1777762216,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143959,
-      "num": 957378,
-      "word": "2026五一档总票房已破5亿",
-      "onboard_time": 1777814243,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143541,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1777808003,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133417,
+      "num": 144689,
+      "word": "以色列这次真的紧张了",
+      "onboard_time": 1777820665,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132780,
@@ -2051,14 +2091,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79767,
-      "num": 533157,
-      "word": "DYG赛训",
-      "onboard_time": 1777819763,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77571,
       "num": 147612,
       "word": "溺水去世教授出生农村曾是放牛娃",
@@ -2112,6 +2144,14 @@
       "word": "五一节中机票价格大跳水",
       "onboard_time": 1777805362,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57751,
+      "num": 462408,
+      "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
+      "onboard_time": 1777820841,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2449,6 +2489,14 @@
       "onboard_time": 1777813283,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5692,
+      "num": 139975,
+      "word": "湖南广电已经用AI开始播新闻了",
+      "onboard_time": 1777812803,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 5586,
