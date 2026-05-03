@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777809182144,
+  "endTime": 1777809985711,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1023888,
-      "num": 265903,
+      "num": 269544,
       "word": "谈没谈过恋爱一眼就能看出来",
       "onboard_time": 1777802599,
       "rank": 20,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525716,
+      "num": 836446,
+      "word": "中国男团vs瑞典",
+      "onboard_time": 1777807641,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492330,
       "num": 314181,
       "word": "卢昱晓收藏与檀健次cp视频",
@@ -395,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462998,
-      "num": 818189,
-      "word": "中国男团vs瑞典",
-      "onboard_time": 1777807641,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 457181,
       "num": 457181,
       "word": "追星女的手机密码人尽皆知",
       "onboard_time": 1777724541,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447458,
+      "num": 447458,
+      "word": "奶茶卖到188元一杯",
+      "onboard_time": 1777806501,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439948,
@@ -539,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358907,
-      "num": 358907,
-      "word": "奶茶卖到188元一杯",
-      "onboard_time": 1777806501,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 354911,
       "num": 354911,
       "word": "李小冉被气哭了",
@@ -651,20 +651,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 307303,
+      "num": 305484,
+      "word": "朱志鑫游泳",
+      "onboard_time": 1777805121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306045,
       "num": 250099,
       "word": "严浩翔演唱会状态",
       "onboard_time": 1777720340,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 305484,
-      "num": 305484,
-      "word": "朱志鑫游泳",
-      "onboard_time": 1777805121,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 304594,
@@ -680,6 +680,14 @@
       "word": "张雪机车回应再次夺冠",
       "onboard_time": 1777727782,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292470,
+      "num": 348315,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1777808063,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 281394,
-      "num": 253975,
+      "num": 266061,
       "word": "张继科说国乒男队技术迭代不足",
       "onboard_time": 1777805842,
       "rank": 29,
@@ -744,6 +752,14 @@
       "word": "中国台北女队教练发文控诉",
       "onboard_time": 1777732882,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259491,
+      "num": 270664,
+      "word": "王楚钦vs卡尔伯格",
+      "onboard_time": 1777809262,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 208352,
-      "num": 248853,
+      "num": 291005,
       "word": "肖战拿影帝这事全世界都在为他开心",
       "onboard_time": 1777791500,
       "rank": 35,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 194034,
-      "num": 270677,
+      "num": 271943,
       "word": "以色列全面进入备战状态",
       "onboard_time": 1777804103,
       "rank": 26,
@@ -1443,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129903,
+      "num": 129903,
+      "word": "这得喝多少饮料才能成角",
+      "onboard_time": 1777809262,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128436,
       "num": 128436,
       "word": "养家有亲生儿子后赶走被拐男孩",
@@ -1451,20 +1475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127763,
+      "num": 127763,
+      "word": "仙逆",
+      "onboard_time": 1777804825,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126341,
       "num": 252743,
       "word": "误导女子闯入毒蛇窝AI道歉",
       "onboard_time": 1777741218,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126316,
-      "num": 348315,
-      "word": "孙颖莎vs金娜英",
-      "onboard_time": 1777808063,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 125539,
@@ -1627,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102847,
-      "num": 102847,
-      "word": "仙逆",
-      "onboard_time": 1777804825,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 100232,
       "num": 248482,
       "word": "药明康德董事长年薪近4000万",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1777771942,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98714,
+      "num": 148706,
+      "word": "1个月没回家家里住进2陌生人",
+      "onboard_time": 1777809683,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96560,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1777726762,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70962,
+      "num": 106127,
+      "word": "范明女儿喜欢肖战",
+      "onboard_time": 1777806201,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 69034,
@@ -1979,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22216,
+      "num": 264556,
+      "word": "王励勤林诗栋复盘比赛",
+      "onboard_time": 1777809683,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21692,
       "num": 50521,
       "word": "国乒男团3比0英格兰",
@@ -2008,6 +2048,14 @@
       "word": "女子大赞有工作人员劝阻站台吸烟",
       "onboard_time": 1777779741,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12190,
+      "num": 148623,
+      "word": "女孩当服务员自卑被近8万人鼓励",
+      "onboard_time": 1777809683,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

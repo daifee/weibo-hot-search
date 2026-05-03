@@ -1,0 +1,410 @@
+{
+  "runTime": 1777809985711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965500,
+        "num": 1154480,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 525716,
+        "num": 836446,
+        "word": "中国男团vs瑞典",
+        "onboard_time": 1777807641,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22378,
+        "num": 791002,
+        "word": "这个五一假期惠民福利停不下来",
+        "onboard_time": 1777794319,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787196,
+        "num": 787196,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447458,
+        "num": 447458,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366155,
+        "num": 366155,
+        "word": "在天上光选妈妈忘了选姐姐",
+        "onboard_time": 1777801519,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318914,
+        "num": 318914,
+        "word": "国乒男团技术已无明显优势",
+        "onboard_time": 1777797739,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300974,
+        "num": 300974,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292470,
+        "num": 292470,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1777808063,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171389,
+        "num": 291005,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 667040,
+        "num": 288284,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567990,
+        "num": 282364,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 526235,
+        "num": 279048,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 469677,
+        "num": 276394,
+        "word": "黄晓明带妈妈小海绵逛游乐园",
+        "onboard_time": 1777805302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273389,
+        "num": 273389,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341070,
+        "num": 272742,
+        "word": "泡泡岛 舞台坍塌",
+        "onboard_time": 1777802240,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333025,
+        "num": 271982,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193432,
+        "num": 271943,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259491,
+        "num": 270664,
+        "word": "王楚钦vs卡尔伯格",
+        "onboard_time": 1777809262,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270523,
+        "num": 270523,
+        "word": "重庆落地签",
+        "onboard_time": 1777798520,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 889755,
+        "num": 269544,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307303,
+        "num": 268032,
+        "word": "朱志鑫游泳",
+        "onboard_time": 1777805121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266061,
+        "num": 266061,
+        "word": "张继科说国乒男队技术迭代不足",
+        "onboard_time": 1777805842,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22216,
+        "num": 264556,
+        "word": "王励勤林诗栋复盘比赛",
+        "onboard_time": 1777809683,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263167,
+        "num": 263167,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234957,
+        "num": 234957,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218853,
+        "num": 218853,
+        "word": "中国女团vs韩国",
+        "onboard_time": 1777807762,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209007,
+        "num": 209007,
+        "word": "尤伯杯",
+        "onboard_time": 1777805302,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201232,
+        "num": 201232,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193849,
+        "num": 193849,
+        "word": "Jennie 妈咪降临",
+        "onboard_time": 1777805724,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188798,
+        "num": 188798,
+        "word": "东方甄选主播明明离职后首次开播",
+        "onboard_time": 1777798939,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182992,
+        "num": 182992,
+        "word": "四辆车爆胎报警后警车来了也爆胎",
+        "onboard_time": 1777796659,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180773,
+        "num": 180773,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175436,
+        "num": 175436,
+        "word": "山姆仓库卸货太吵业主一夜报四次警",
+        "onboard_time": 1777799119,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173862,
+        "num": 173862,
+        "word": "银行为何又开始猛推大额存单",
+        "onboard_time": 1777806802,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155449,
+        "num": 155449,
+        "word": "39岁教授溺水遇险系因救自己孩子",
+        "onboard_time": 1777802840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150796,
+        "num": 150796,
+        "word": "李小冉你是真火了",
+        "onboard_time": 1777793540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51636,
+        "num": 149449,
+        "word": "郑恺来了也得拍重庆落地签",
+        "onboard_time": 1777788740,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98714,
+        "num": 148706,
+        "word": "1个月没回家家里住进2陌生人",
+        "onboard_time": 1777809683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12190,
+        "num": 148623,
+        "word": "女孩当服务员自卑被近8万人鼓励",
+        "onboard_time": 1777809683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148545,
+        "num": 148545,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136347,
+        "num": 136347,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 41,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "陈雨菲0比2金佳恩",
+        "onboard_time": 1777808003,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129903,
+        "num": 129903,
+        "word": "这得喝多少饮料才能成角",
+        "onboard_time": 1777809262,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127763,
+        "num": 127763,
+        "word": "仙逆",
+        "onboard_time": 1777804825,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122497,
+        "num": 122497,
+        "word": "朱孝天的妻子生病独自手术",
+        "onboard_time": 1777798760,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "雄鹰一样的女人孔苑苑逝世",
+        "onboard_time": 1777799480,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102269,
+        "num": 107857,
+        "word": "特朗普发布奇怪AI图片",
+        "onboard_time": 1777802721,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70962,
+        "num": 106127,
+        "word": "范明女儿喜欢肖战",
+        "onboard_time": 1777806201,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58324,
+        "num": 105729,
+        "word": "爸爸当家",
+        "onboard_time": 1777797141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调加强基础研究有何深意#"
+    }
+  }
+}
