@@ -1,0 +1,410 @@
+{
+  "runTime": 1777798417921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 744959,
+        "num": 1119193,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 665148,
+        "num": 813017,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31198,
+        "num": 652566,
+        "word": "这个五一假期惠民福利停不下来",
+        "onboard_time": 1777794319,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1760903,
+        "num": 613119,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858629,
+        "num": 597112,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571336,
+        "num": 571336,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484060,
+        "num": 484060,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 424203,
+        "num": 424203,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391372,
+        "num": 391372,
+        "word": "马龙许昕出发伦敦",
+        "onboard_time": 1777793421,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35337,
+        "num": 391362,
+        "word": "伊朗议会将批准霍尔木兹海峡管理法",
+        "onboard_time": 1777797259,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 602154,
+        "num": 391342,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545380,
+        "num": 391333,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 488832,
+        "num": 391315,
+        "word": "男子养了11年的3个孩子2个非亲生",
+        "onboard_time": 1777791979,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391305,
+        "num": 391305,
+        "word": "姜十七回应整容",
+        "onboard_time": 1777784781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369961,
+        "num": 369961,
+        "word": "NPC小黄鱼互动改送簪花",
+        "onboard_time": 1777784659,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356343,
+        "num": 356343,
+        "word": "榴莲价格",
+        "onboard_time": 1777784299,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 354911,
+        "num": 354911,
+        "word": "李小冉被气哭了",
+        "onboard_time": 1777788140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324128,
+        "num": 324128,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259676,
+        "num": 324020,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41027,
+        "num": 323270,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 19,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 491045,
+        "num": 323139,
+        "word": "谢贤前女友CoCo回应分手原因",
+        "onboard_time": 1777787539,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351110,
+        "num": 322321,
+        "word": "李小冉你是真火了",
+        "onboard_time": 1777793540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224466,
+        "num": 321963,
+        "word": "四辆车爆胎报警后警车来了也爆胎",
+        "onboard_time": 1777796659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25476,
+        "num": 321200,
+        "word": "AI真正的意义",
+        "onboard_time": 1777797439,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321194,
+        "num": 321194,
+        "word": "黄灿灿 罗予彤边练歌边骂人的样子真美",
+        "onboard_time": 1777794919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307601,
+        "num": 307601,
+        "word": "包文婧回应赵奕欢和包贝尔暧昧",
+        "onboard_time": 1777790300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190940,
+        "num": 257949,
+        "word": "深圳暴雨",
+        "onboard_time": 1777794739,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257138,
+        "num": 257138,
+        "word": "张婧仪团队不被允许进hi6录制现场",
+        "onboard_time": 1777768759,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105455,
+        "num": 244401,
+        "word": "美日菲抵近中国近海舞枪弄棒",
+        "onboard_time": 1777790239,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235890,
+        "num": 235890,
+        "word": "汤晶媚吐槽黄宗泽牙龈萎缩",
+        "onboard_time": 1777792939,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228335,
+        "num": 228335,
+        "word": "穆祉丞有个人巡演规划",
+        "onboard_time": 1777796839,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168762,
+        "num": 200474,
+        "word": "合肥工业大学通报孙某某被开除学籍",
+        "onboard_time": 1777784359,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17132,
+        "num": 199376,
+        "word": "48小时手搓脑机接口 意念控制轮椅",
+        "onboard_time": 1777777460,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198441,
+        "num": 198441,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185174,
+        "num": 185174,
+        "word": "爸爸当家",
+        "onboard_time": 1777797141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153009,
+        "num": 153009,
+        "word": "詹姆斯与雷霆球员的年龄差具象化了",
+        "onboard_time": 1777788140,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174684,
+        "num": 152815,
+        "word": "宋宁峰张婉婷风波后带娃出游",
+        "onboard_time": 1777784241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151623,
+        "num": 151623,
+        "word": "郑秀晶收到鼻涕泡捏捏的反应",
+        "onboard_time": 1777792880,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132374,
+        "num": 132374,
+        "word": "景区NPC擦边涉嫌违法违规",
+        "onboard_time": 1777777520,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63927,
+        "num": 131193,
+        "word": "月下瑶台 你的瑶妹",
+        "onboard_time": 1777789040,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 130816,
+        "word": "郑恺来了也得拍重庆落地签",
+        "onboard_time": 1777788740,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130146,
+        "num": 130146,
+        "word": "国乒男团技术已无明显优势",
+        "onboard_time": 1777797739,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129681,
+        "num": 129681,
+        "word": "王楚钦王皓同时无奈",
+        "onboard_time": 1777778720,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127238,
+        "num": 127238,
+        "word": "国乒男团失利问题不在王楚钦没上场",
+        "onboard_time": 1777798040,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118967,
+        "num": 118967,
+        "word": "国乒男团1比3韩国",
+        "onboard_time": 1777768759,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117501,
+        "num": 117501,
+        "word": "妖刀轮换",
+        "onboard_time": 1777796600,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117320,
+        "num": 117320,
+        "word": "娜扎和程潇同台跳舞",
+        "onboard_time": 1777798339,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115543,
+        "num": 115543,
+        "word": "e人看完都窒息了",
+        "onboard_time": 1777793899,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115390,
+        "num": 115390,
+        "word": "肖战拍到了血月",
+        "onboard_time": 1777775060,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73349,
+        "num": 100488,
+        "word": "美国街头吸毒者众多如丧尸聚集",
+        "onboard_time": 1777768759,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调加强基础研究有何深意#"
+    }
+  }
+}
