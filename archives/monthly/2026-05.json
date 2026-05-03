@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777806926850,
+  "endTime": 1777809182144,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 906537,
-      "num": 279677,
+      "num": 335394,
       "word": "女子凌晨接到去世半年表弟来电",
       "onboard_time": 1777803623,
       "rank": 32,
@@ -1259,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 491986,
+      "num": 321684,
+      "word": "黄晓明带妈妈小海绵逛游乐园",
+      "onboard_time": 1777805302,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491045,
       "num": 323139,
       "word": "谢贤前女友CoCo回应分手原因",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1777788081,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462998,
+      "num": 818189,
+      "word": "中国男团vs瑞典",
+      "onboard_time": 1777807641,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 462935,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1777775841,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 394873,
-      "num": 264657,
-      "word": "黄晓明带妈妈小海绵逛游乐园",
-      "onboard_time": 1777805302,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 393346,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1777697120,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358907,
+      "num": 358907,
+      "word": "奶茶卖到188元一杯",
+      "onboard_time": 1777806501,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354911,
@@ -2083,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305484,
+      "num": 305484,
+      "word": "朱志鑫游泳",
+      "onboard_time": 1777805121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305291,
       "num": 303999,
       "word": "刘耀文生图头身比",
@@ -2283,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281394,
+      "num": 253975,
+      "word": "张继科说国乒男队技术迭代不足",
+      "onboard_time": 1777805842,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280219,
       "num": 201281,
       "word": "陈冠希46岁状态",
@@ -2424,14 +2456,6 @@
       "word": "36岁谈莉娜剖腹产产子",
       "onboard_time": 1777705400,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 262967,
-      "num": 261414,
-      "word": "朱志鑫游泳",
-      "onboard_time": 1777805121,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -2691,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231893,
+      "num": 231893,
+      "word": "中国女团vs韩国",
+      "onboard_time": 1777807762,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231208,
       "num": 231208,
       "word": "大衣哥握手太多致手指被真菌感染",
@@ -2923,20 +2955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208900,
+      "num": 134069,
+      "word": "DYG对战JDG",
+      "onboard_time": 1777808063,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208858,
       "num": 208858,
       "word": "承诺买房送69万黄金开发商久不兑现",
       "onboard_time": 1777695140,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208719,
-      "num": 253975,
-      "word": "张继科说国乒男队技术迭代不足",
-      "onboard_time": 1777805842,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 208580,
@@ -3321,6 +3353,14 @@
       "onboard_time": 1777735823,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179065,
+      "num": 230350,
+      "word": "银行为何又开始猛推大额存单",
+      "onboard_time": 1777806802,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 178919,
@@ -4115,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133929,
+      "num": 133929,
+      "word": "陈雨菲0比2金佳恩",
+      "onboard_time": 1777808003,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132962,
       "num": 320061,
       "word": "金价今年或跌回4000美元",
@@ -4299,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126316,
+      "num": 348315,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1777808063,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125539,
       "num": 244347,
       "word": "尤杯国羽1比1韩国",
@@ -4427,6 +4483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120450,
+      "num": 239165,
+      "word": "男子领养孩子养到11岁亲生父母要带走",
+      "onboard_time": 1777803381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120300,
       "num": 255714,
       "word": "76人凯尔特人抢七",
@@ -4545,6 +4609,14 @@
       "onboard_time": 1777680378,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116354,
+      "num": 232415,
+      "word": "特朗普发布奇怪AI图片",
+      "onboard_time": 1777802721,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116086,
@@ -4707,14 +4779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106381,
-      "num": 232415,
-      "word": "特朗普发布奇怪AI图片",
-      "onboard_time": 1777802721,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106364,
       "num": 164483,
       "word": "部分高档酒店五一房价比节后便宜",
@@ -4745,6 +4809,14 @@
       "onboard_time": 1777606399,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102847,
+      "num": 102847,
+      "word": "仙逆",
+      "onboard_time": 1777804825,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 101358,
@@ -4915,14 +4987,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 87602,
-      "num": 239165,
-      "word": "男子领养孩子养到11岁亲生父母要带走",
-      "onboard_time": 1777803381,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87190,
       "num": 1207138,
       "word": "95后把卡脖子难题变成咱的杀手锏",
@@ -5075,20 +5139,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 77778,
-      "num": 230350,
-      "word": "银行为何又开始猛推大额存单",
-      "onboard_time": 1777806802,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 77641,
       "num": 120797,
       "word": "iG战胜WBG",
       "onboard_time": 1777650803,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77571,
+      "num": 147612,
+      "word": "溺水去世教授出生农村曾是放牛娃",
+      "onboard_time": 1777807823,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77076,
@@ -5704,14 +5768,6 @@
       "word": "被残障人士领去超市花6块5买可乐",
       "onboard_time": 1777804160,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33829,
-      "num": 256093,
-      "word": "奶茶卖到188元一杯",
-      "onboard_time": 1777806501,
-      "rank": 28,
       "category": "民生新闻"
     },
     {

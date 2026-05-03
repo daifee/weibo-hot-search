@@ -1,0 +1,410 @@
+{
+  "runTime": 1777809182144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957697,
+        "num": 1153231,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462998,
+        "num": 818189,
+        "word": "中国男团vs瑞典",
+        "onboard_time": 1777807641,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22785,
+        "num": 660188,
+        "word": "这个五一假期惠民福利停不下来",
+        "onboard_time": 1777794319,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379105,
+        "num": 379105,
+        "word": "国乒男团技术已无明显优势",
+        "onboard_time": 1777797739,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368692,
+        "num": 368692,
+        "word": "在天上光选妈妈忘了选姐姐",
+        "onboard_time": 1777801519,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358907,
+        "num": 358907,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281322,
+        "num": 356159,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354871,
+        "num": 354871,
+        "word": "泡泡岛 舞台坍塌",
+        "onboard_time": 1777802240,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271353,
+        "num": 352615,
+        "word": "重庆落地签",
+        "onboard_time": 1777798520,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126316,
+        "num": 348315,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1777808063,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 825500,
+        "num": 342993,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604147,
+        "num": 335394,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581332,
+        "num": 330448,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 515497,
+        "num": 324226,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491986,
+        "num": 321684,
+        "word": "黄晓明带妈妈小海绵逛游乐园",
+        "onboard_time": 1777805302,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316370,
+        "num": 316370,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323433,
+        "num": 311699,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305484,
+        "num": 305484,
+        "word": "朱志鑫游泳",
+        "onboard_time": 1777805121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263336,
+        "num": 263336,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169055,
+        "num": 235471,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 843468,
+        "num": 234981,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281394,
+        "num": 233661,
+        "word": "张继科说国乒男队技术迭代不足",
+        "onboard_time": 1777805842,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231893,
+        "num": 231893,
+        "word": "中国女团vs韩国",
+        "onboard_time": 1777807762,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230751,
+        "num": 230751,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 230575,
+        "word": "东方甄选主播明明离职后首次开播",
+        "onboard_time": 1777798939,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211050,
+        "num": 211050,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199868,
+        "num": 199868,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193703,
+        "num": 193703,
+        "word": "尤伯杯",
+        "onboard_time": 1777805302,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158594,
+        "num": 188478,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188168,
+        "num": 188168,
+        "word": "Jennie 妈咪降临",
+        "onboard_time": 1777805724,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183008,
+        "num": 183008,
+        "word": "山姆仓库卸货太吵业主一夜报四次警",
+        "onboard_time": 1777799119,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179065,
+        "num": 179065,
+        "word": "银行为何又开始猛推大额存单",
+        "onboard_time": 1777806802,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "四辆车爆胎报警后警车来了也爆胎",
+        "onboard_time": 1777796659,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167257,
+        "num": 167257,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165936,
+        "num": 165936,
+        "word": "39岁教授溺水遇险系因救自己孩子",
+        "onboard_time": 1777802840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148884,
+        "num": 148884,
+        "word": "李小冉你是真火了",
+        "onboard_time": 1777793540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77571,
+        "num": 147612,
+        "word": "溺水去世教授出生农村曾是放牛娃",
+        "onboard_time": 1777807823,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147561,
+        "num": 147561,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 37,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 134070,
+        "num": 134070,
+        "word": "朱孝天的妻子生病独自手术",
+        "onboard_time": 1777798760,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208900,
+        "num": 134069,
+        "word": "DYG对战JDG",
+        "onboard_time": 1777808063,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133929,
+        "num": 133929,
+        "word": "陈雨菲0比2金佳恩",
+        "onboard_time": 1777808003,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123902,
+        "num": 123902,
+        "word": "雄鹰一样的女人孔苑苑逝世",
+        "onboard_time": 1777799480,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120450,
+        "num": 120450,
+        "word": "男子领养孩子养到11岁亲生父母要带走",
+        "onboard_time": 1777803381,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116354,
+        "num": 116354,
+        "word": "特朗普发布奇怪AI图片",
+        "onboard_time": 1777802721,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 102847,
+        "word": "仙逆",
+        "onboard_time": 1777804825,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 53624,
+        "num": 92198,
+        "word": "郑恺来了也得拍重庆落地签",
+        "onboard_time": 1777788740,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89854,
+        "num": 89854,
+        "word": "姜十七回应整容",
+        "onboard_time": 1777784781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86723,
+        "num": 86723,
+        "word": "尤杯决赛国羽落后韩国",
+        "onboard_time": 1777804103,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88820,
+        "num": 86568,
+        "word": "何昶希采访",
+        "onboard_time": 1777806382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85578,
+        "num": 85578,
+        "word": "李小冉被气哭了",
+        "onboard_time": 1777788140,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调加强基础研究有何深意#"
+    }
+  }
+}
