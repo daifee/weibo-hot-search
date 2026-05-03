@@ -1,6 +1,6 @@
 {
   "startTime": 1777824581127,
-  "endTime": 1777824581127,
+  "endTime": 1777827658243,
   "band_list": [
     {
       "raw_hot": 3287847,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1542529,
+      "num": 287275,
+      "word": "严浩翔新歌",
+      "onboard_time": 1777825998,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1520000,
       "num": 477927,
       "word": "女子凌晨接到去世半年表弟来电",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1210792,
-      "num": 840213,
+      "num": 858344,
       "word": "黄灿灿 blackpink都没这么累",
       "onboard_time": 1777815321,
       "rank": 3,
@@ -107,20 +115,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396117,
+      "num": 396117,
+      "word": "九尾发博",
+      "onboard_time": 1777822160,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 386005,
       "num": 261271,
       "word": "谈没谈过恋爱一眼就能看出来",
       "onboard_time": 1777802599,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 361873,
-      "num": 361873,
-      "word": "九尾发博",
-      "onboard_time": 1777822160,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 361019,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305996,
+      "num": 283198,
+      "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
+      "onboard_time": 1777820841,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304266,
       "num": 304266,
       "word": "王楚钦受伤流血仍独得2分",
@@ -155,12 +171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 278416,
-      "num": 278416,
-      "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
-      "onboard_time": 1777820841,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 279728,
+      "num": 279728,
+      "word": "国乒",
+      "onboard_time": 1777823062,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 256559,
@@ -169,6 +185,14 @@
       "onboard_time": 1777799360,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 255625,
+      "num": 255625,
+      "word": "这才是减脂餐的真正物价",
+      "onboard_time": 1777825339,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 254920,
@@ -187,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237712,
-      "num": 237712,
-      "word": "国乒",
-      "onboard_time": 1777823062,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 235465,
+      "num": 235465,
+      "word": "孔苑苑肺炎就医次日左肺已全白",
+      "onboard_time": 1777823302,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223900,
@@ -235,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212147,
-      "num": 212147,
-      "word": "孔苑苑肺炎就医次日左肺已全白",
-      "onboard_time": 1777823302,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 214300,
+      "num": 214300,
+      "word": "曼联",
+      "onboard_time": 1777821861,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 208291,
@@ -291,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176964,
-      "num": 176964,
-      "word": "曼联",
-      "onboard_time": 1777821861,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145499,
       "num": 145499,
       "word": "奶茶卖到188元一杯",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 143951,
-      "num": 865644,
+      "num": 867156,
       "word": "2026五一档总票房已破5亿",
       "onboard_time": 1777814243,
       "rank": 2,
@@ -329,6 +345,14 @@
       "onboard_time": 1777815022,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136339,
+      "num": 262638,
+      "word": "湖南广电 AI播新闻",
+      "onboard_time": 1777795999,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 135953,
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127785,
+      "num": 127785,
+      "word": "考研5年博主卡尔谈考研5年",
+      "onboard_time": 1777826299,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126319,
       "num": 126319,
       "word": "挑杯抽签",
@@ -363,20 +395,76 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125606,
-      "num": 254107,
-      "word": "湖南广电 AI播新闻",
-      "onboard_time": 1777795999,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 105647,
       "num": 265629,
       "word": "以色列全面进入备战状态",
       "onboard_time": 1777804103,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95800,
+      "num": 95800,
+      "word": "KPL抽签",
+      "onboard_time": 1777826900,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89241,
+      "num": 89241,
+      "word": "第五人格",
+      "onboard_time": 1777826539,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 87241,
+      "num": 87241,
+      "word": "吴宜泽一阶段3比1领先墨菲",
+      "onboard_time": 1777827618,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83395,
+      "num": 83395,
+      "word": "肖战未来想尝试说重庆话的角色",
+      "onboard_time": 1777824021,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 80447,
+      "num": 80447,
+      "word": "DYG赛训",
+      "onboard_time": 1777819763,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 77156,
+      "num": 77156,
+      "word": "男子57秒从8楼冲到1楼捞起溺水幼童",
+      "onboard_time": 1777811183,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 74239,
+      "num": 74239,
+      "word": "国羽尤伯杯亚军",
+      "onboard_time": 1777812862,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73445,
+      "num": 73445,
+      "word": "挑杯八强",
+      "onboard_time": 1777822581,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 60513,

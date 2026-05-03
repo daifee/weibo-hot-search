@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/04 00:09:41
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/04 01:00:58
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23" target="weibo">
 王鹤棣第一次情绪失控（热度：1552424）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E6%AD%8C%23" target="weibo">
+严浩翔新歌（热度：1542529）
 </a>
 </li>
 
@@ -1353,6 +1359,12 @@ aespa回归预告（热度：466795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%8F%91%E5%8D%9A%23" target="weibo">
+九尾发博（热度：396117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%BB%88%E4%BA%8E%E5%8F%91%E7%8E%B0%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%9C%9F%E6%AD%A3%E4%B8%BB%E7%BA%BF%E4%BA%86%23" target="weibo">
 你终于发现上大学的真正主线了（热度：393346）
 </a>
@@ -1523,12 +1535,6 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E6%B7%98%E6%B1%B0%E7%81%AB%E7%AE%AD%23" target="weibo">
 湖人淘汰火箭（热度：362316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%8F%91%E5%8D%9A%23" target="weibo">
-九尾发博（热度：361873）
 </a>
 </li>
 
@@ -1983,6 +1989,12 @@ DeepSeek 现在我是你爹了（热度：326376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%23" target="weibo">
+国乒（热度：279728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%BB%99%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%A0%E7%9C%9F%E6%BA%90%E9%80%81%E8%8A%B1%E7%AF%AE%23" target="weibo">
 孟子义给丁程鑫张真源送花篮（热度：279700）
 </a>
@@ -2133,6 +2145,12 @@ DeepSeek 现在我是你爹了（热度：326376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E5%87%8F%E8%84%82%E9%A4%90%E7%9A%84%E7%9C%9F%E6%AD%A3%E7%89%A9%E4%BB%B7%23" target="weibo">
+这才是减脂餐的真正物价（热度：255625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
 白桃星座（热度：254920）
 </a>
@@ -2171,12 +2189,6 @@ Met Gala（热度：253499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%AF%B4%E6%88%91%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%88%B1%E6%9A%AE%E6%99%9A%E6%91%87%E5%91%A2%23" target="weibo">
 孟子义说我怎么可能不爱暮晚摇呢（热度：246966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%23" target="weibo">
-国乒（热度：246550）
 </a>
 </li>
 
@@ -2297,6 +2309,12 @@ eStar对战TCG（热度：238504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%AD%A3%E5%9C%A8%E9%80%83%E7%A6%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
 美国人正在逃离美国（热度：235651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%94%E8%8B%91%E8%8B%91%E8%82%BA%E7%82%8E%E5%B0%B1%E5%8C%BB%E6%AC%A1%E6%97%A5%E5%B7%A6%E8%82%BA%E5%B7%B2%E5%85%A8%E7%99%BD%23" target="weibo">
+孔苑苑肺炎就医次日左肺已全白（热度：235465）
 </a>
 </li>
 
@@ -2463,6 +2481,12 @@ TF家族 物料（热度：230495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%23" target="weibo">
+曼联（热度：214300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E6%9C%88%E6%9C%80%E5%90%B8%E9%87%91%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 5月最吸金的星座（热度：214194）
 </a>
@@ -2471,12 +2495,6 @@ TF家族 物料（热度：230495）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TOP%E5%9B%A2%E7%BB%BC%23" target="weibo">
 TOP团综（热度：212817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%94%E8%8B%91%E8%8B%91%E8%82%BA%E7%82%8E%E5%B0%B1%E5%8C%BB%E6%AC%A1%E6%97%A5%E5%B7%A6%E8%82%BA%E5%B7%B2%E5%85%A8%E7%99%BD%23" target="weibo">
-孔苑苑肺炎就医次日左肺已全白（热度：212147）
 </a>
 </li>
 
@@ -2855,12 +2873,6 @@ TCG晋级挑杯八强（热度：178919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%98%AF%E7%9C%9F%E4%BA%BAbjd%E5%90%A7%23" target="weibo">
 贺峻霖是真人bjd吧（热度：177285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%23" target="weibo">
-曼联（热度：176964）
 </a>
 </li>
 
@@ -3603,6 +3615,12 @@ F1（热度：130911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%945%E5%B9%B4%E5%8D%9A%E4%B8%BB%E5%8D%A1%E5%B0%94%E8%B0%88%E8%80%83%E7%A0%945%E5%B9%B4%23" target="weibo">
+考研5年博主卡尔谈考研5年（热度：127785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E9%80%86%23" target="weibo">
 仙逆（热度：127763）
 </a>
@@ -4065,6 +4083,12 @@ Fly挑杯赛后回应（热度：99254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%E6%8A%BD%E7%AD%BE%23" target="weibo">
+KPL抽签（热度：95800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%86%8D%E7%AB%99%E4%B8%8A%E9%A2%86%E5%A5%96%E5%8F%B0%23" target="weibo">
 肖战再站上领奖台（热度：95352）
 </a>
@@ -4119,6 +4143,12 @@ AI手搓小黄人产生意识了（热度：90263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BD%E4%B8%80%E9%98%B6%E6%AE%B53%E6%AF%941%E9%A2%86%E5%85%88%E5%A2%A8%E8%8F%B2%23" target="weibo">
+吴宜泽一阶段3比1领先墨菲（热度：87241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E6%8A%8A%E5%8D%A1%E8%84%96%E5%AD%90%E9%9A%BE%E9%A2%98%E5%8F%98%E6%88%90%E5%92%B1%E7%9A%84%E6%9D%80%E6%89%8B%E9%94%8F%23" target="weibo">
 95后把卡脖子难题变成咱的杀手锏（热度：87190）
 </a>
@@ -4169,6 +4199,12 @@ AI手搓小黄人产生意识了（热度：90263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%92%9C%E8%96%B9%E6%BB%9E%E9%94%80%E5%8E%9F%E5%9B%A0%23" target="weibo">
 河南蒜薹滞销原因（热度：83458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E6%83%B3%E5%B0%9D%E8%AF%95%E8%AF%B4%E9%87%8D%E5%BA%86%E8%AF%9D%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
+肖战未来想尝试说重庆话的角色（热度：83395）
 </a>
 </li>
 
@@ -4283,6 +4319,12 @@ DeepSeek拟人 哇呀啧呜哇（热度：77076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
 心理医生的含金量还在上升（热度：73484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%9D%AF%E5%85%AB%E5%BC%BA%23" target="weibo">
+挑杯八强（热度：73445）
 </a>
 </li>
 
