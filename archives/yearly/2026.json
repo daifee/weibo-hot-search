@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777821163252,
+  "endTime": 1777823823567,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1777396218,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4180776,
+      "num": 4180776,
+      "word": "国乒男团2比3瑞典",
+      "onboard_time": 1777820724,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 4143269,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1777814602,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2358525,
-      "num": 2358525,
-      "word": "爱奇艺广告 毒枭折磨卧底",
-      "onboard_time": 1776864262,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
