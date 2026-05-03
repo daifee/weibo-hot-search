@@ -1,0 +1,410 @@
+{
+  "runTime": 1777792060154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739167,
+        "num": 1118266,
+        "word": "NPC小黄鱼互动改送簪花",
+        "onboard_time": 1777784659,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464279,
+        "num": 804833,
+        "word": "被批擦边npc互动改为送簪花",
+        "onboard_time": 1777788081,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22479,
+        "num": 804337,
+        "word": "五一假期绿色出行热度攀升",
+        "onboard_time": 1777774580,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2130775,
+        "num": 804294,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803875,
+        "num": 803875,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 709048,
+        "num": 709048,
+        "word": "你们都显老到什么程度了",
+        "onboard_time": 1777789461,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605094,
+        "num": 605094,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423228,
+        "num": 515489,
+        "word": "景区NPC擦边涉嫌违法违规",
+        "onboard_time": 1777777520,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450543,
+        "num": 450543,
+        "word": "榴莲价格",
+        "onboard_time": 1777784299,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306304,
+        "num": 306304,
+        "word": "国乒男团1比3韩国",
+        "onboard_time": 1777768759,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667990,
+        "num": 305233,
+        "word": "王濛穿粉色裙子",
+        "onboard_time": 1777784898,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533865,
+        "num": 302030,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439948,
+        "num": 299728,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476747,
+        "num": 298860,
+        "word": "姜十七回应整容",
+        "onboard_time": 1777784781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389786,
+        "num": 295120,
+        "word": "张婧仪团队不被允许进hi6录制现场",
+        "onboard_time": 1777768759,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294912,
+        "num": 294912,
+        "word": "合肥工业大学通报孙某某被开除学籍",
+        "onboard_time": 1777784359,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320712,
+        "num": 250389,
+        "word": "李小冉被气哭了",
+        "onboard_time": 1777788140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194138,
+        "num": 194138,
+        "word": "美国街头吸毒者众多如丧尸聚集",
+        "onboard_time": 1777768759,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50395,
+        "num": 194126,
+        "word": "苹果iOS27系列新功能",
+        "onboard_time": 1777771942,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34817,
+        "num": 194013,
+        "word": "48小时手搓脑机接口 意念控制轮椅",
+        "onboard_time": 1777777460,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 302983,
+        "num": 194008,
+        "word": "严浩翔回应演唱会哭了",
+        "onboard_time": 1777772361,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294599,
+        "num": 193893,
+        "word": "谢贤前女友CoCo回应分手原因",
+        "onboard_time": 1777787539,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257945,
+        "num": 193813,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278161,
+        "num": 193761,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267201,
+        "num": 193708,
+        "word": "宋宁峰张婉婷风波后带娃出游",
+        "onboard_time": 1777784241,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26776,
+        "num": 193634,
+        "word": "支付宝把便利店搞成球迷流水席",
+        "onboard_time": 1777778001,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 8232,
+        "num": 193615,
+        "word": "俞浩称追觅要与苹果三星三分天下",
+        "onboard_time": 1777764498,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 4818,
+        "num": 193542,
+        "word": "4月新势力销量出炉",
+        "onboard_time": 1777767738,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128478,
+        "num": 193456,
+        "word": "一个烧饼做成40多亿跨国产业",
+        "onboard_time": 1777786339,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73658,
+        "num": 193407,
+        "word": "日本投降后将细菌战工具丢进海里",
+        "onboard_time": 1777778361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218912,
+        "num": 193354,
+        "word": "肖战拍到了血月",
+        "onboard_time": 1777775060,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193291,
+        "num": 193291,
+        "word": "郑恺来了也得拍重庆落地签",
+        "onboard_time": 1777788740,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179954,
+        "num": 179954,
+        "word": "发配河南蒜薹",
+        "onboard_time": 1777786760,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175876,
+        "num": 175876,
+        "word": "王楚钦王皓同时无奈",
+        "onboard_time": 1777778720,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169328,
+        "num": 169328,
+        "word": "李小冉的狗在五哈跑丢了",
+        "onboard_time": 1777789639,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195423,
+        "num": 166892,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157319,
+        "num": 157319,
+        "word": "林诗栋赛后一言不发",
+        "onboard_time": 1777788919,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165229,
+        "num": 157265,
+        "word": "黄旭熙在ins开了付费订阅",
+        "onboard_time": 1777777700,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157153,
+        "num": 157153,
+        "word": "詹姆斯与雷霆球员的年龄差具象化了",
+        "onboard_time": 1777788140,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43089,
+        "num": 156237,
+        "word": "9岁女孩南非被绑架58天后获救",
+        "onboard_time": 1777791681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155806,
+        "num": 155806,
+        "word": "苹果炖牛肉",
+        "onboard_time": 1777776859,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146144,
+        "num": 146144,
+        "word": "37岁女主持人患癌去世朋友发声",
+        "onboard_time": 1777777460,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 141959,
+        "num": 141959,
+        "word": "月下瑶台 你的瑶妹",
+        "onboard_time": 1777789040,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138355,
+        "num": 138355,
+        "word": "马龙假期赴伦敦助力国乒",
+        "onboard_time": 1777788020,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 135361,
+        "word": "TOP团综",
+        "onboard_time": 1777784480,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129461,
+        "num": 129461,
+        "word": "包文婧回应赵奕欢和包贝尔暧昧",
+        "onboard_time": 1777790300,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122809,
+        "num": 122809,
+        "word": "男子养了11年的3个孩子2个非亲生",
+        "onboard_time": 1777791979,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124507,
+        "num": 122743,
+        "word": "良陈美锦开播",
+        "onboard_time": 1777783221,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122647,
+        "num": 122647,
+        "word": "近视人的世界里全是猫",
+        "onboard_time": 1777778481,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92203,
+        "num": 111367,
+        "word": "日本自卫队要打仗",
+        "onboard_time": 1777771340,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系一线劳动者#"
+    }
+  }
+}

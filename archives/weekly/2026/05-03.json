@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777790049897,
+  "endTime": 1777792060154,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2249729,
-      "num": 656957,
+      "num": 804294,
       "word": "白鹿被孟子义说挂相",
       "onboard_time": 1777785379,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803875,
+      "num": 803875,
+      "word": "大睡特睡 修复前额叶",
+      "onboard_time": 1777788681,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 740480,
       "num": 315227,
       "word": "张婧仪高度近视",
@@ -153,6 +161,14 @@
       "onboard_time": 1777725800,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 709048,
+      "num": 709048,
+      "word": "你们都显老到什么程度了",
+      "onboard_time": 1777789461,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 707565,
@@ -203,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 605094,
+      "num": 605094,
+      "word": "严浩翔 爱一个人需要另一个人",
+      "onboard_time": 1777789461,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 570711,
       "num": 796434,
       "word": "吴宜泽17比16艾伦",
@@ -235,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476747,
+      "num": 298860,
+      "word": "姜十七回应整容",
+      "onboard_time": 1777784781,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469873,
       "num": 308497,
       "word": "黄旭熙在ins开了付费订阅",
       "onboard_time": 1777777700,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464279,
+      "num": 804833,
+      "word": "被批擦边npc互动改为送簪花",
+      "onboard_time": 1777788081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458068,
@@ -259,20 +299,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439948,
+      "num": 299728,
+      "word": "河南蒜苔 再说原地址给你补五十斤",
+      "onboard_time": 1777789639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432488,
       "num": 432488,
       "word": "美国街头吸毒者众多如丧尸聚集",
       "onboard_time": 1777768759,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 418905,
-      "num": 278909,
-      "word": "姜十七回应整容",
-      "onboard_time": 1777784781,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 406873,
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 336400,
-      "num": 287762,
+      "num": 294912,
       "word": "合肥工业大学通报孙某某被开除学籍",
       "onboard_time": 1777784359,
       "rank": 15,
@@ -371,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325942,
-      "num": 325942,
-      "word": "大睡特睡 修复前额叶",
-      "onboard_time": 1777788681,
-      "rank": 7,
-      "category": "健康医疗"
+      "raw_hot": 320712,
+      "num": 277242,
+      "word": "李小冉被气哭了",
+      "onboard_time": 1777788140,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 318490,
@@ -475,20 +515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278161,
+      "num": 193761,
+      "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+      "onboard_time": 1777790422,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277848,
       "num": 277848,
       "word": "高铁即将关门3岁男孩突然跑下车",
       "onboard_time": 1777770140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277242,
-      "num": 277242,
-      "word": "李小冉被气哭了",
-      "onboard_time": 1777788140,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 266739,
@@ -499,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261910,
-      "num": 261910,
-      "word": "严浩翔 爱一个人需要另一个人",
-      "onboard_time": 1777789461,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 257945,
+      "num": 193813,
+      "word": "上科大39岁教授营救至亲溺水去世",
+      "onboard_time": 1777790539,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257042,
@@ -635,20 +675,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201050,
-      "num": 232230,
-      "word": "河南蒜苔 再说原地址给你补五十斤",
-      "onboard_time": 1777789639,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198683,
       "num": 198683,
       "word": "男乒9个败局8局只输2分",
       "onboard_time": 1777774280,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195423,
+      "num": 166892,
+      "word": "肖战拿影帝这事全世界都在为他开心",
+      "onboard_time": 1777791500,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 193916,
@@ -659,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193291,
+      "num": 193291,
+      "word": "郑恺来了也得拍重庆落地签",
+      "onboard_time": 1777788740,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188699,
       "num": 188699,
       "word": "李梦两部恐怖片破亿",
       "onboard_time": 1777772181,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188614,
-      "num": 188614,
-      "word": "被批擦边npc互动改为送簪花",
-      "onboard_time": 1777788081,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184766,
@@ -705,14 +745,6 @@
       "onboard_time": 1777764978,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183061,
-      "num": 183061,
-      "word": "你们都显老到什么程度了",
-      "onboard_time": 1777789461,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 180612,
@@ -785,6 +817,14 @@
       "onboard_time": 1777773080,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169328,
+      "num": 169328,
+      "word": "李小冉的狗在五哈跑丢了",
+      "onboard_time": 1777789639,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166226,
@@ -867,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157319,
+      "num": 157319,
+      "word": "林诗栋赛后一言不发",
+      "onboard_time": 1777788919,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157153,
+      "num": 157153,
+      "word": "詹姆斯与雷霆球员的年龄差具象化了",
+      "onboard_time": 1777788140,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155998,
       "num": 155998,
       "word": "中国台北主力疑遭袭胸事件已开启调查",
@@ -889,22 +945,6 @@
       "onboard_time": 1777734502,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150748,
-      "num": 150748,
-      "word": "詹姆斯与雷霆球员的年龄差具象化了",
-      "onboard_time": 1777788140,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147993,
-      "num": 147993,
-      "word": "郑恺来了也得拍重庆落地签",
-      "onboard_time": 1777788740,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 147021,
@@ -945,6 +985,14 @@
       "onboard_time": 1777718241,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141959,
+      "num": 141959,
+      "word": "月下瑶台 你的瑶妹",
+      "onboard_time": 1777789040,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138557,
@@ -1019,14 +1067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130502,
-      "num": 130502,
-      "word": "林诗栋赛后一言不发",
-      "onboard_time": 1777788919,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130167,
       "num": 130167,
       "word": "张桂源头像",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1777786339,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129461,
+      "num": 129461,
+      "word": "包文婧回应赵奕欢和包贝尔暧昧",
+      "onboard_time": 1777790300,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128436,
@@ -1064,6 +1112,14 @@
       "word": "35岁男子反复口腔溃疡查出舌鳞癌",
       "onboard_time": 1777736422,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122809,
+      "num": 122809,
+      "word": "男子养了11年的3个孩子2个非亲生",
+      "onboard_time": 1777791979,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 51871,
-      "num": 720736,
+      "num": 804337,
       "word": "五一假期绿色出行热度攀升",
       "onboard_time": 1777774580,
       "rank": 2,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1777726341,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43089,
+      "num": 156237,
+      "word": "9岁女孩南非被绑架58天后获救",
+      "onboard_time": 1777791681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41194,
