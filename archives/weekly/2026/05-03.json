@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777827658243,
+  "endTime": 1777828562546,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390265,
+      "num": 390265,
+      "word": "这才是减脂餐的真正物价",
+      "onboard_time": 1777825339,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389324,
       "num": 462408,
       "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
@@ -785,6 +793,14 @@
       "onboard_time": 1777790422,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364445,
+      "num": 364445,
+      "word": "国乒",
+      "onboard_time": 1777823062,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 364318,
@@ -1043,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279728,
-      "num": 279728,
-      "word": "国乒",
-      "onboard_time": 1777823062,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277848,
       "num": 277848,
       "word": "高铁即将关门3岁男孩突然跑下车",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1777731022,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255625,
-      "num": 255625,
-      "word": "这才是减脂餐的真正物价",
-      "onboard_time": 1777825339,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 254920,
@@ -2187,6 +2187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91612,
+      "num": 91612,
+      "word": "挑杯八强",
+      "onboard_time": 1777822581,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89241,
       "num": 89241,
       "word": "第五人格",
@@ -2267,14 +2275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73445,
-      "num": 73445,
-      "word": "挑杯八强",
-      "onboard_time": 1777822581,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 70962,
       "num": 106127,
       "word": "范明女儿喜欢肖战",
@@ -2305,6 +2305,14 @@
       "onboard_time": 1777797259,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60115,
+      "num": 200779,
+      "word": "镇政府回应34岁父亲救子溺亡",
+      "onboard_time": 1777821922,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58688,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1777774580,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50286,
+      "num": 198717,
+      "word": "女学生照片被男子AI篡改变黄图",
+      "onboard_time": 1777827678,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 49885,
