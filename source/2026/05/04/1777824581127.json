@@ -1,0 +1,410 @@
+{
+  "runTime": 1777824581127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3287847,
+        "num": 3287847,
+        "word": "国乒男团2比3瑞典",
+        "onboard_time": 1777820724,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 970007,
+        "num": 1077275,
+        "word": "国乒男团两连败",
+        "onboard_time": 1777823062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143951,
+        "num": 865644,
+        "word": "2026五一档总票房已破5亿",
+        "onboard_time": 1777814243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1210792,
+        "num": 840213,
+        "word": "黄灿灿 blackpink都没这么累",
+        "onboard_time": 1777815321,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717631,
+        "num": 717631,
+        "word": "国乒男团小组赛一胜两负",
+        "onboard_time": 1777823540,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573493,
+        "num": 573493,
+        "word": "乒乓球",
+        "onboard_time": 1777811361,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564509,
+        "num": 564509,
+        "word": "国乒女团心系男团战况",
+        "onboard_time": 1777817785,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530181,
+        "num": 530181,
+        "word": "梁靖崑状态",
+        "onboard_time": 1777815683,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525974,
+        "num": 525974,
+        "word": "张雪机车德比斯退赛",
+        "onboard_time": 1777811002,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522777,
+        "num": 522777,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1981286,
+        "num": 503057,
+        "word": "范丞丞 都给我出来",
+        "onboard_time": 1777810583,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1520000,
+        "num": 477927,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412701,
+        "num": 412701,
+        "word": "aespa回归预告",
+        "onboard_time": 1777821802,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361873,
+        "num": 361873,
+        "word": "九尾发博",
+        "onboard_time": 1777822160,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361019,
+        "num": 361019,
+        "word": "大米爆",
+        "onboard_time": 1777814602,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430072,
+        "num": 358362,
+        "word": "范丞丞妈妈71岁状态",
+        "onboard_time": 1777810883,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327231,
+        "num": 327231,
+        "word": "伦敦世乒赛",
+        "onboard_time": 1777817785,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304266,
+        "num": 304266,
+        "word": "王楚钦受伤流血仍独得2分",
+        "onboard_time": 1777821562,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278416,
+        "num": 278416,
+        "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
+        "onboard_time": 1777820841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105647,
+        "num": 265629,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386005,
+        "num": 261271,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294293,
+        "num": 259331,
+        "word": "银河左岸 黄子弘凡镜头",
+        "onboard_time": 1777821381,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256559,
+        "num": 256559,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254920,
+        "num": 254920,
+        "word": "白桃星座",
+        "onboard_time": 1777821861,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125606,
+        "num": 254107,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253792,
+        "num": 253792,
+        "word": "妻子频繁私发孩子照片给陌生男子",
+        "onboard_time": 1777811483,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237712,
+        "num": 237712,
+        "word": "国乒",
+        "onboard_time": 1777823062,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223524,
+        "num": 223524,
+        "word": "伊朗退了一步",
+        "onboard_time": 1777818144,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220957,
+        "num": 220957,
+        "word": "单依纯草莓音乐节",
+        "onboard_time": 1777822882,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181206,
+        "num": 217782,
+        "word": "警方回应博主取样河水后被半夜敲门",
+        "onboard_time": 1777815503,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223900,
+        "num": 217651,
+        "word": "张继科说国乒男队技术迭代不足",
+        "onboard_time": 1777805842,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217356,
+        "num": 217356,
+        "word": "这得喝多少饮料才能成角",
+        "onboard_time": 1777809262,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214707,
+        "num": 214707,
+        "word": "莫雷加德跟裁判吵起来了",
+        "onboard_time": 1777821861,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212147,
+        "num": 212147,
+        "word": "孔苑苑肺炎就医次日左肺已全白",
+        "onboard_time": 1777823302,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208291,
+        "num": 208291,
+        "word": "李晓旭退役",
+        "onboard_time": 1777817785,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204765,
+        "num": 204765,
+        "word": "中国男团vs瑞典",
+        "onboard_time": 1777807641,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196393,
+        "num": 196393,
+        "word": "佳偶天成 被剧名耽误",
+        "onboard_time": 1777810223,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181922,
+        "num": 181922,
+        "word": "时代少年团团体工作室快了",
+        "onboard_time": 1777813342,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176964,
+        "num": 176964,
+        "word": "曼联",
+        "onboard_time": 1777821861,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36899,
+        "num": 158810,
+        "word": "稻城亚丁景区回应摆渡车争议",
+        "onboard_time": 1777824081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180171,
+        "num": 155340,
+        "word": "孙俪邓超为女儿织围巾",
+        "onboard_time": 1777814961,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145499,
+        "num": 145499,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144863,
+        "num": 144863,
+        "word": "黄晓明带妈妈小海绵逛游乐园",
+        "onboard_time": 1777805302,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138614,
+        "num": 138614,
+        "word": "1300元的机票跌到400元",
+        "onboard_time": 1777815022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135953,
+        "num": 135953,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133944,
+        "num": 133944,
+        "word": "以色列这次真的紧张了",
+        "onboard_time": 1777820665,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131844,
+        "num": 131844,
+        "word": "王曼昱什么时候上场",
+        "onboard_time": 1777810942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126319,
+        "num": 126319,
+        "word": "挑杯抽签",
+        "onboard_time": 1777820002,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60513,
+        "num": 125622,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37913,
+        "num": 125557,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 49,
+        "category": "互联网,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国各族青年致以节日祝贺#"
+    }
+  }
+}
