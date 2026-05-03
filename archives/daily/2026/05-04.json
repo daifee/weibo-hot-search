@@ -1,6 +1,6 @@
 {
   "startTime": 1777824581127,
-  "endTime": 1777848873848,
+  "endTime": 1777849926498,
   "band_list": [
     {
       "raw_hot": 3287847,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 530181,
-      "num": 530181,
+      "num": 604806,
       "word": "梁靖崑状态",
       "onboard_time": 1777815683,
       "rank": 7,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351114,
+      "num": 351114,
+      "word": "国羽汤杯卫冕",
+      "onboard_time": 1777848855,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327231,
       "num": 327231,
       "word": "伦敦世乒赛",
@@ -177,6 +185,14 @@
       "onboard_time": 1777821562,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301095,
+      "num": 217782,
+      "word": "警方回应博主取样河水后被半夜敲门",
+      "onboard_time": 1777815503,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294293,
@@ -208,14 +224,6 @@
       "word": "妻子频繁私发孩子照片给陌生男子",
       "onboard_time": 1777811483,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249646,
-      "num": 217782,
-      "word": "警方回应博主取样河水后被半夜敲门",
-      "onboard_time": 1777815503,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -275,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212756,
-      "num": 212756,
-      "word": "国羽汤杯卫冕",
-      "onboard_time": 1777848855,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208291,
       "num": 208291,
       "word": "李晓旭退役",
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189620,
+      "num": 133268,
+      "word": "伊朗公布最新谈判方案",
+      "onboard_time": 1777831935,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181922,
       "num": 181922,
       "word": "时代少年团团体工作室快了",
@@ -315,20 +323,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180338,
-      "num": 96226,
-      "word": "伊朗公布最新谈判方案",
-      "onboard_time": 1777831935,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180171,
       "num": 155340,
       "word": "孙俪邓超为女儿织围巾",
       "onboard_time": 1777814961,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159585,
+      "num": 159585,
+      "word": "周深追不上伴舞气笑了",
+      "onboard_time": 1777843514,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148852,
+      "num": 131615,
+      "word": "肖战大影节红毯",
+      "onboard_time": 1777843454,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 145499,
@@ -353,6 +369,14 @@
       "onboard_time": 1777814243,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139548,
+      "num": 139548,
+      "word": "2026年伦敦世乒赛",
+      "onboard_time": 1777833855,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 138614,
@@ -395,28 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130054,
-      "num": 130054,
-      "word": "2026年伦敦世乒赛",
-      "onboard_time": 1777833855,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "考研5年博主卡尔谈考研5年",
       "onboard_time": 1777826299,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126806,
-      "num": 126806,
-      "word": "肖战大影节红毯",
-      "onboard_time": 1777843454,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 126319,
@@ -475,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82560,
-      "num": 82560,
-      "word": "周深追不上伴舞气笑了",
-      "onboard_time": 1777843514,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 80447,
       "num": 105473,
       "word": "DYG赛训",
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 65251,
-      "num": 65251,
+      "num": 68380,
       "word": "张雪解释德比斯退赛原因",
       "onboard_time": 1777815202,
       "rank": 49,
@@ -531,19 +531,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53862,
+      "num": 68454,
+      "word": "石宇奇2比1小波波夫",
+      "onboard_time": 1777848855,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53315,
       "num": 105367,
       "word": "心疼赵继伟",
       "onboard_time": 1777825041,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50413,
-      "num": 55176,
-      "word": "石宇奇2比1小波波夫",
-      "onboard_time": 1777848855,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -555,11 +555,19 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 38830,
-      "num": 55111,
+      "raw_hot": 40668,
+      "num": 68342,
       "word": "林诗栋1比3卡尔伯格",
       "onboard_time": 1777835535,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39707,
+      "num": 68322,
+      "word": "王楚钦加油",
+      "onboard_time": 1777834516,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -579,20 +587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36827,
+      "num": 68298,
+      "word": "林依晨说依赖另一半的人生不会快乐",
+      "onboard_time": 1777849696,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36622,
       "num": 45212,
       "word": "王者荣耀",
       "onboard_time": 1777836254,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36529,
-      "num": 45259,
-      "word": "王楚钦加油",
-      "onboard_time": 1777834516,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 32162,
@@ -609,6 +617,14 @@
       "onboard_time": 1777841953,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1065,
+      "num": 68277,
+      "word": "支付宝把便利店搞成球迷流水席",
+      "onboard_time": 1777778001,
+      "rank": 49,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
