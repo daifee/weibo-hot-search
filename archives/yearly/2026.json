@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777814785209,
+  "endTime": 1777816555227,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2355,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2361161,
+      "num": 518939,
+      "word": "大米爆",
+      "onboard_time": 1777814602,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2358525,
       "num": 2358525,
       "word": "爱奇艺广告 毒枭折磨卧底",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1776838280,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2342955,
-      "num": 2342955,
-      "word": "孙龙失误",
-      "onboard_time": 1770728061,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

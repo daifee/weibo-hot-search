@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777814785209,
+  "endTime": 1777816555227,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -19,6 +19,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2361161,
+      "num": 518939,
+      "word": "大米爆",
+      "onboard_time": 1777814602,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2337710,
+      "num": 486290,
+      "word": "范丞丞 都给我出来",
+      "onboard_time": 1777810583,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2257690,
       "num": 270268,
       "word": "严浩翔妹妹 张桂源粉丝",
@@ -35,12 +51,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2103742,
-      "num": 486290,
-      "word": "范丞丞 都给我出来",
-      "onboard_time": 1777810583,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2036641,
+      "num": 924460,
+      "word": "黄灿灿 blackpink都没这么累",
+      "onboard_time": 1777815321,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1947836,
@@ -57,6 +73,22 @@
       "onboard_time": 1777767559,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1752381,
+      "num": 1752381,
+      "word": "乒乓球",
+      "onboard_time": 1777811361,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1738174,
+      "num": 510026,
+      "word": "王楚钦手流血了",
+      "onboard_time": 1777812083,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1657360,
@@ -123,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1294854,
-      "num": 486178,
-      "word": "王楚钦手流血了",
-      "onboard_time": 1777812083,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1205848,
       "num": 1205848,
       "word": "景区NPC擦边涉嫌违法违规",
@@ -179,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 905411,
-      "num": 905411,
-      "word": "乒乓球",
-      "onboard_time": 1777811361,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 858629,
       "num": 780824,
       "word": "把自己当成糖尿病人来吃饭",
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735694,
+      "num": 836446,
+      "word": "中国男团vs瑞典",
+      "onboard_time": 1777807641,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 728317,
       "num": 308719,
       "word": "肖战拍到了血月",
@@ -249,6 +273,14 @@
       "onboard_time": 1777789461,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 708611,
+      "num": 486099,
+      "word": "时代少年团团体工作室快了",
+      "onboard_time": 1777813342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 707565,
@@ -281,14 +313,6 @@
       "onboard_time": 1777776859,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 679533,
-      "num": 486099,
-      "word": "时代少年团团体工作室快了",
-      "onboard_time": 1777813342,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 665148,
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 613967,
+      "num": 613967,
+      "word": "林诗栋2比3兰弗利",
+      "onboard_time": 1777813760,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608532,
       "num": 391342,
       "word": "吴彦祖妻子宣布复出",
@@ -347,20 +379,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 592953,
-      "num": 836446,
-      "word": "中国男团vs瑞典",
-      "onboard_time": 1777807641,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 592760,
       "num": 592760,
       "word": "泡泡岛 舞台坍塌",
       "onboard_time": 1777802240,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 574954,
+      "num": 574954,
+      "word": "这得喝多少饮料才能成角",
+      "onboard_time": 1777809262,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 570711,
@@ -371,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 562566,
-      "num": 562566,
-      "word": "这得喝多少饮料才能成角",
-      "onboard_time": 1777809262,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 540485,
+      "num": 540485,
+      "word": "中国男团1比1瑞典",
+      "onboard_time": 1777815202,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 540082,
@@ -385,6 +417,14 @@
       "onboard_time": 1777781539,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 535554,
+      "num": 481068,
+      "word": "范丞丞妈妈71岁状态",
+      "onboard_time": 1777810883,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 532794,
@@ -427,28 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486596,
-      "num": 486596,
-      "word": "林诗栋2比3兰弗利",
-      "onboard_time": 1777813760,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 485960,
       "num": 485960,
       "word": "国羽尤伯杯亚军",
       "onboard_time": 1777812862,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 481068,
-      "num": 481068,
-      "word": "范丞丞妈妈71岁状态",
-      "onboard_time": 1777810883,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 476747,
@@ -513,6 +537,14 @@
       "onboard_time": 1777789639,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434742,
+      "num": 434742,
+      "word": "梁靖崑状态",
+      "onboard_time": 1777815683,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 434681,
@@ -649,6 +681,14 @@
       "onboard_time": 1777788140,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354494,
+      "num": 354494,
+      "word": "张雪解释德比斯退赛原因",
+      "onboard_time": 1777815202,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 353899,
@@ -859,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260985,
+      "num": 260985,
+      "word": "孙俪邓超为女儿织围巾",
+      "onboard_time": 1777814961,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257042,
       "num": 204886,
       "word": "王橹杰高会",
@@ -931,14 +979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238000,
-      "num": 296782,
-      "word": "大米爆",
-      "onboard_time": 1777814602,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237922,
       "num": 321963,
       "word": "四辆车爆胎报警后警车来了也爆胎",
@@ -953,6 +993,22 @@
       "onboard_time": 1777720581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235937,
+      "num": 235937,
+      "word": "1300元的机票跌到400元",
+      "onboard_time": 1777815022,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235834,
+      "num": 235834,
+      "word": "宋祖儿看到自己老鼠干的表情",
+      "onboard_time": 1777814361,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 231893,
@@ -993,6 +1049,14 @@
       "onboard_time": 1777799119,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220665,
+      "num": 526374,
+      "word": "佳偶天成 被剧名耽误",
+      "onboard_time": 1777810223,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 214479,
@@ -1139,12 +1203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187645,
-      "num": 187645,
-      "word": "宋祖儿看到自己老鼠干的表情",
-      "onboard_time": 1777814361,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 186471,
+      "num": 296898,
+      "word": "警方回应博主取样河水后被半夜敲门",
+      "onboard_time": 1777815503,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185174,
@@ -1204,7 +1268,7 @@
     },
     {
       "raw_hot": 179065,
-      "num": 230350,
+      "num": 297817,
       "word": "银行为何又开始猛推大额存单",
       "onboard_time": 1777806802,
       "rank": 48,
@@ -1435,8 +1499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144857,
-      "num": 144857,
+      "raw_hot": 146441,
+      "num": 146441,
       "word": "赵心童现场观战王楚钦",
       "onboard_time": 1777813101,
       "rank": 44,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1777789040,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139491,
+      "num": 139491,
+      "word": "王皓安抚王楚钦",
+      "onboard_time": 1777816343,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 138557,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1777808003,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132780,
+      "num": 132780,
+      "word": "机票价格腰斩",
+      "onboard_time": 1777813582,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132473,
@@ -1883,14 +1963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 77622,
-      "num": 486492,
-      "word": "佳偶天成 被剧名耽误",
-      "onboard_time": 1777810223,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77571,
       "num": 147612,
       "word": "溺水去世教授出生农村曾是放牛娃",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1777735702,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48694,
+      "num": 1011236,
+      "word": "单日近3亿人跨区域流动",
+      "onboard_time": 1777814483,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46778,
@@ -2187,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22418,
-      "num": 791305,
-      "word": "单日近3亿人跨区域流动",
-      "onboard_time": 1777814483,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22216,
       "num": 264556,
       "word": "王励勤林诗栋复盘比赛",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1777748773,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20102,
+      "num": 401045,
+      "word": "走路看手机被劝退任性校规咋出台的",
+      "onboard_time": 1777815442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16320,
