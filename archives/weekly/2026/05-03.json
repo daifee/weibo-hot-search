@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777798417921,
+  "endTime": 1777799007016,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961346,
+      "num": 1153815,
+      "word": "湖南广电 AI播新闻",
+      "onboard_time": 1777795999,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 907018,
       "num": 1145122,
       "word": "NPC小黄鱼互动改送簪花",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 858629,
-      "num": 597112,
+      "num": 780824,
       "word": "把自己当成糖尿病人来吃饭",
       "onboard_time": 1777792640,
       "rank": 4,
@@ -137,14 +145,6 @@
       "onboard_time": 1777788681,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 744959,
-      "num": 1119193,
-      "word": "湖南广电 AI播新闻",
-      "onboard_time": 1777795999,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 740480,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 665148,
-      "num": 813017,
+      "num": 825182,
       "word": "上科大39岁教授营救至亲溺水去世",
       "onboard_time": 1777790539,
       "rank": 22,
@@ -403,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386091,
+      "num": 321194,
+      "word": "黄灿灿 罗予彤边练歌边骂人的样子真美",
+      "onboard_time": 1777794919,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384252,
       "num": 384252,
       "word": "绵阳知名主持人熹菲去世",
       "onboard_time": 1777773140,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382429,
+      "num": 322321,
+      "word": "李小冉你是真火了",
+      "onboard_time": 1777793540,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369503,
+      "num": 324128,
+      "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+      "onboard_time": 1777790422,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 364318,
@@ -443,14 +467,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 351110,
-      "num": 322321,
-      "word": "李小冉你是真火了",
-      "onboard_time": 1777793540,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345931,
       "num": 263782,
       "word": "建议大家去狂刷跨境综艺打破信息差",
@@ -475,28 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324128,
-      "num": 324128,
-      "word": "跑男摄影师谈白鹿 身正不怕影子歪",
-      "onboard_time": 1777790422,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321194,
-      "num": 321194,
-      "word": "黄灿灿 罗予彤边练歌边骂人的样子真美",
-      "onboard_time": 1777794919,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318490,
       "num": 302890,
       "word": "刘耀文裤子",
       "onboard_time": 1777766659,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318310,
+      "num": 307601,
+      "word": "包文婧回应赵奕欢和包贝尔暧昧",
+      "onboard_time": 1777790300,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 317178,
@@ -539,14 +547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 307601,
-      "num": 307601,
-      "word": "包文婧回应赵奕欢和包贝尔暧昧",
-      "onboard_time": 1777790300,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306045,
       "num": 250099,
       "word": "严浩翔演唱会状态",
@@ -561,6 +561,14 @@
       "onboard_time": 1777727782,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298253,
+      "num": 324020,
+      "word": "80斤女生不吃碳水闭经体脂率超标",
+      "onboard_time": 1777795880,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291312,
@@ -611,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259676,
-      "num": 324020,
-      "word": "80斤女生不吃碳水闭经体脂率超标",
-      "onboard_time": 1777795880,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257042,
       "num": 204886,
       "word": "王橹杰高会",
@@ -659,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241864,
+      "num": 235890,
+      "word": "汤晶媚吐槽黄宗泽牙龈萎缩",
+      "onboard_time": 1777792939,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238134,
       "num": 318396,
       "word": "原来这就是情感漠视吗",
@@ -667,20 +675,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237922,
+      "num": 321963,
+      "word": "四辆车爆胎报警后警车来了也爆胎",
+      "onboard_time": 1777796659,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236939,
       "num": 317396,
       "word": "五一假期真是捅人窝了吧",
       "onboard_time": 1777720581,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235890,
-      "num": 235890,
-      "word": "汤晶媚吐槽黄宗泽牙龈萎缩",
-      "onboard_time": 1777792939,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 230179,
@@ -707,11 +715,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224466,
-      "num": 321963,
-      "word": "四辆车爆胎报警后警车来了也爆胎",
-      "onboard_time": 1777796659,
-      "rank": 22,
+      "raw_hot": 226491,
+      "num": 226491,
+      "word": "东方甄选主播明明离职后首次开播",
+      "onboard_time": 1777798939,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208352,
+      "num": 208352,
+      "word": "肖战拿影帝这事全世界都在为他开心",
+      "onboard_time": 1777791500,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208130,
       "num": 266061,
       "word": "一诺被开闪光灯",
@@ -771,20 +787,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202926,
+      "num": 224175,
+      "word": "国乒男团技术已无明显优势",
+      "onboard_time": 1777797739,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198683,
       "num": 198683,
       "word": "男乒9个败局8局只输2分",
       "onboard_time": 1777774280,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198441,
-      "num": 198441,
-      "word": "肖战拿影帝这事全世界都在为他开心",
-      "onboard_time": 1777791500,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 193916,
@@ -1019,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158042,
+      "num": 158042,
+      "word": "郑秀晶收到鼻涕泡捏捏的反应",
+      "onboard_time": 1777792880,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157319,
       "num": 157319,
       "word": "林诗栋赛后一言不发",
@@ -1059,11 +1083,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151623,
-      "num": 151623,
-      "word": "郑秀晶收到鼻涕泡捏捏的反应",
-      "onboard_time": 1777792880,
-      "rank": 37,
+      "raw_hot": 152690,
+      "num": 152690,
+      "word": "重庆落地签",
+      "onboard_time": 1777798520,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 149620,
+      "num": 208719,
+      "word": "GR对战RC",
+      "onboard_time": 1777792340,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 147694,
+      "num": 147694,
+      "word": "朱孝天的妻子生病独自手术",
+      "onboard_time": 1777798760,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1195,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130146,
-      "num": 130146,
-      "word": "国乒男团技术已无明显优势",
-      "onboard_time": 1777797739,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130061,
       "num": 264587,
       "word": "一个烧饼做成40多亿跨国产业",
@@ -1323,20 +1355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113020,
+      "num": 284400,
+      "word": "美日菲抵近中国近海舞枪弄棒",
+      "onboard_time": 1777790239,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111741,
       "num": 260223,
       "word": "被AI误导闯入毒蛇窝女子发声",
       "onboard_time": 1777736662,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105455,
-      "num": 244401,
-      "word": "美日菲抵近中国近海舞枪弄棒",
-      "onboard_time": 1777790239,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100232,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1777789100,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94668,
+      "num": 323270,
+      "word": "水果我只吃不出轨的",
+      "onboard_time": 1777798400,
+      "rank": 19,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 87776,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1777747755,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61894,
+      "num": 391362,
+      "word": "伊朗议会将批准霍尔木兹海峡管理法",
+      "onboard_time": 1777797259,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57233,
@@ -1563,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41027,
-      "num": 323270,
-      "word": "水果我只吃不出轨的",
-      "onboard_time": 1777798400,
-      "rank": 19,
-      "category": "互联网,幽默"
-    },
-    {
       "raw_hot": 40406,
       "num": 275728,
       "word": "48小时手搓脑机接口 意念控制轮椅",
@@ -1587,20 +1627,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35337,
-      "num": 391362,
-      "word": "伊朗议会将批准霍尔木兹海峡管理法",
-      "onboard_time": 1777797259,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 35472,
+      "num": 321200,
+      "word": "AI真正的意义",
+      "onboard_time": 1777797439,
+      "rank": 23,
+      "category": "互联网"
     },
     {
-      "raw_hot": 31198,
-      "num": 652566,
+      "raw_hot": 34917,
+      "num": 792370,
       "word": "这个五一假期惠民福利停不下来",
       "onboard_time": 1777794319,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30434,
+      "num": 218482,
+      "word": "韩国选手回应战胜国乒男团",
+      "onboard_time": 1777798880,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 27535,
@@ -1611,20 +1659,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25476,
-      "num": 321200,
-      "word": "AI真正的意义",
-      "onboard_time": 1777797439,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 24620,
       "num": 169815,
       "word": "刘浩存称从小看李晨跑男长大",
       "onboard_time": 1777778660,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24564,
+      "num": 223528,
+      "word": "榴莲价格被打下来了",
+      "onboard_time": 1777790239,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21692,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1777748773,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16320,
+      "num": 261825,
+      "word": "卖饼老板翻饼打出武侠绝学",
+      "onboard_time": 1777798520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14341,
@@ -1665,6 +1721,30 @@
       "onboard_time": 1777767738,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 5586,
+      "num": 208366,
+      "word": "退伍老兵从8楼奔下救3岁落水男孩",
+      "onboard_time": 1777798880,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 2843,
+      "num": 230551,
+      "word": "EDG战胜DRG",
+      "onboard_time": 1777798880,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 2191,
+      "num": 229666,
+      "word": "国乒男女团双双开门红",
+      "onboard_time": 1777798880,
+      "rank": 30,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
