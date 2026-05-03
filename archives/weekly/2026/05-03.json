@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777780291724,
+  "endTime": 1777782576797,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -17,6 +17,14 @@
       "onboard_time": 1777731983,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2257690,
+      "num": 270268,
+      "word": "严浩翔妹妹 张桂源粉丝",
+      "onboard_time": 1777782500,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1947836,
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1205848,
+      "num": 1205848,
+      "word": "景区NPC擦边涉嫌违法违规",
+      "onboard_time": 1777777520,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1181099,
       "num": 488117,
       "word": "张婧仪方要求你好星期六道歉",
@@ -113,14 +129,6 @@
       "onboard_time": 1777725800,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 713478,
-      "num": 863578,
-      "word": "景区NPC擦边涉嫌违法违规",
-      "onboard_time": 1777777520,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 707565,
@@ -195,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 432488,
+      "num": 432488,
+      "word": "美国街头吸毒者众多如丧尸聚集",
+      "onboard_time": 1777768759,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 406873,
       "num": 406873,
       "word": "唐九洲黄灿灿避嫌也避不明白",
@@ -203,12 +219,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400960,
-      "num": 400960,
-      "word": "美国街头吸毒者众多如丧尸聚集",
-      "onboard_time": 1777768759,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 399526,
+      "num": 243404,
+      "word": "曝严军张口就要一千多万",
+      "onboard_time": 1777782500,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 396249,
+      "num": 396249,
+      "word": "女子失明后遭公司设考勤陷阱开除",
+      "onboard_time": 1777775841,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 392854,
+      "num": 392854,
+      "word": "用ChatGPT还原盗墓笔记的世界",
+      "onboard_time": 1777776621,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 390704,
+      "num": 303959,
+      "word": "严浩翔 易安",
+      "onboard_time": 1777769240,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 384252,
@@ -217,6 +257,14 @@
       "onboard_time": 1777773140,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364293,
+      "num": 364293,
+      "word": "王楚钦王皓同时无奈",
+      "onboard_time": 1777778720,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 353899,
@@ -323,28 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278138,
-      "num": 278138,
-      "word": "用ChatGPT还原盗墓笔记的世界",
-      "onboard_time": 1777776621,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 277848,
       "num": 277848,
       "word": "高铁即将关门3岁男孩突然跑下车",
       "onboard_time": 1777770140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271540,
-      "num": 271540,
-      "word": "女子失明后遭公司设考勤陷阱开除",
-      "onboard_time": 1777775841,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 266739,
@@ -371,12 +403,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 253499,
+      "num": 253499,
+      "word": "Met Gala",
+      "onboard_time": 1777782081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251006,
       "num": 268183,
       "word": "刘丁硕假期厕所直播翻车",
       "onboard_time": 1777728621,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242331,
+      "num": 242331,
+      "word": "近视人的世界里全是猫",
+      "onboard_time": 1777778481,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 238134,
@@ -393,6 +441,14 @@
       "onboard_time": 1777720581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232500,
+      "num": 232500,
+      "word": "五一不出去旅游的原因",
+      "onboard_time": 1777781539,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 230179,
@@ -443,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208020,
-      "num": 208020,
-      "word": "近视人的世界里全是猫",
-      "onboard_time": 1777778481,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206432,
       "num": 257864,
       "word": "日本地震",
@@ -472,14 +520,6 @@
       "word": "男乒9个败局8局只输2分",
       "onboard_time": 1777774280,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194938,
-      "num": 194938,
-      "word": "王楚钦王皓同时无奈",
-      "onboard_time": 1777778720,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -571,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172608,
+      "num": 172608,
+      "word": "我家那小子",
+      "onboard_time": 1777773980,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170877,
       "num": 170877,
       "word": "安宰贤说中国男团不在最好状态",
       "onboard_time": 1777773080,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166226,
+      "num": 166226,
+      "word": "第五人格红夫人",
+      "onboard_time": 1777782380,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 165533,
@@ -587,12 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163783,
-      "num": 163783,
-      "word": "我家那小子",
-      "onboard_time": 1777773980,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 161994,
+      "num": 161994,
+      "word": "第一次听多肉叫",
+      "onboard_time": 1777782261,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161548,
+      "num": 161548,
+      "word": "莫氏鸡煲带火整条街有摊贩日入5000元",
+      "onboard_time": 1777780940,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161417,
@@ -643,12 +707,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154208,
+      "num": 288839,
+      "word": "李小冉怼邓超说脸都不要了",
+      "onboard_time": 1777780940,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153302,
       "num": 153302,
       "word": "丁程鑫各种意义上的神图来了",
       "onboard_time": 1777734502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147021,
+      "num": 147021,
+      "word": "恩比德cos16年詹姆斯",
+      "onboard_time": 1777776201,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146788,
+      "num": 146788,
+      "word": "人到了一定年纪就会喜欢上的东西",
+      "onboard_time": 1777779682,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 144841,
@@ -675,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142093,
-      "num": 142093,
-      "word": "人到了一定年纪就会喜欢上的东西",
-      "onboard_time": 1777779682,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138557,
       "num": 138557,
       "word": "卢昱晓方将持续公示维权进展",
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 137309,
-      "num": 224963,
+      "num": 243079,
       "word": "日本投降后将细菌战工具丢进海里",
       "onboard_time": 1777778361,
       "rank": 29,
@@ -827,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117028,
-      "num": 117028,
-      "word": "恩比德cos16年詹姆斯",
-      "onboard_time": 1777776201,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115427,
       "num": 246966,
       "word": "苏超",
@@ -859,8 +931,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 98235,
-      "num": 278132,
+      "raw_hot": 100132,
+      "num": 282935,
       "word": "苹果iOS27系列新功能",
       "onboard_time": 1777771942,
       "rank": 17,
@@ -907,7 +979,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79855,
+      "raw_hot": 80796,
       "num": 277874,
       "word": "支付宝把便利店搞成球迷流水席",
       "onboard_time": 1777778001,
@@ -980,7 +1052,7 @@
     },
     {
       "raw_hot": 51871,
-      "num": 689365,
+      "num": 720736,
       "word": "五一假期绿色出行热度攀升",
       "onboard_time": 1777774580,
       "rank": 2,
@@ -1068,7 +1140,7 @@
     },
     {
       "raw_hot": 38957,
-      "num": 115245,
+      "num": 244051,
       "word": "48小时手搓脑机接口 意念控制轮椅",
       "onboard_time": 1777777460,
       "rank": 49,
@@ -1084,7 +1156,7 @@
     },
     {
       "raw_hot": 24620,
-      "num": 124570,
+      "num": 169815,
       "word": "刘浩存称从小看李晨跑男长大",
       "onboard_time": 1777778660,
       "rank": 45,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1777779741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10709,
+      "num": 272469,
+      "word": "以军空袭黎南部致死9人",
+      "onboard_time": 1777782140,
+      "rank": 19,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
