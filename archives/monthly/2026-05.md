@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/04 01:16:02
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/04 01:56:56
 </p>
 </blockquote>
 <p>
@@ -4529,6 +4529,12 @@ AG确认挑杯八强（热度：53743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%8A%8A%E6%88%91%E5%AE%B6%E7%8C%AB%E5%85%BB%E5%9C%A8%E4%BA%86%E7%94%B5%E8%84%91%E4%B8%8A%23" target="weibo">
 用AI把我家猫养在了电脑上（热度：53513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E8%B5%B5%E7%BB%A7%E4%BC%9F%23" target="weibo">
+心疼赵继伟（热度：53315）
 </a>
 </li>
 

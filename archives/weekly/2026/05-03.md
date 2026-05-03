@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/04 01:16:02
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/04 01:56:56
 </p>
 </blockquote>
 <p>
@@ -1787,6 +1787,12 @@ KPL抽签（热度：95800）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E7%A1%AE%E8%AE%A4%E6%8C%91%E6%9D%AF%E5%85%AB%E5%BC%BA%23" target="weibo">
 AG确认挑杯八强（热度：53743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E8%B5%B5%E7%BB%A7%E4%BC%9F%23" target="weibo">
+心疼赵继伟（热度：53315）
 </a>
 </li>
 
