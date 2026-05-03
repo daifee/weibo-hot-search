@@ -1,0 +1,410 @@
+{
+  "runTime": 1777814785209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492576,
+        "num": 1492576,
+        "word": "张雪机车德比斯退赛",
+        "onboard_time": 1777811002,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905411,
+        "num": 905411,
+        "word": "乒乓球",
+        "onboard_time": 1777811361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 791305,
+        "word": "单日近3亿人跨区域流动",
+        "onboard_time": 1777814483,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749248,
+        "num": 749248,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592953,
+        "num": 592953,
+        "word": "中国男团vs瑞典",
+        "onboard_time": 1777807641,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562566,
+        "num": 562566,
+        "word": "这得喝多少饮料才能成角",
+        "onboard_time": 1777809262,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 486596,
+        "num": 486596,
+        "word": "林诗栋2比3兰弗利",
+        "onboard_time": 1777813760,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374039,
+        "num": 486538,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77622,
+        "num": 486492,
+        "word": "佳偶天成 被剧名耽误",
+        "onboard_time": 1777810223,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96742,
+        "num": 486411,
+        "word": "无畏mvp",
+        "onboard_time": 1777814182,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2103742,
+        "num": 486290,
+        "word": "范丞丞 都给我出来",
+        "onboard_time": 1777810583,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1420620,
+        "num": 486224,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1294854,
+        "num": 486178,
+        "word": "王楚钦手流血了",
+        "onboard_time": 1777812083,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679533,
+        "num": 486099,
+        "word": "时代少年团团体工作室快了",
+        "onboard_time": 1777813342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595983,
+        "num": 485969,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 485960,
+        "num": 485960,
+        "word": "国羽尤伯杯亚军",
+        "onboard_time": 1777812862,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481068,
+        "num": 481068,
+        "word": "范丞丞妈妈71岁状态",
+        "onboard_time": 1777810883,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467792,
+        "num": 467792,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117561,
+        "num": 467786,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26642,
+        "num": 467755,
+        "word": "租车提前还车无退款反被索要62元",
+        "onboard_time": 1777814182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693466,
+        "num": 467737,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470247,
+        "num": 467705,
+        "word": "妻子频繁私发孩子照片给陌生男子",
+        "onboard_time": 1777811483,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467695,
+        "num": 467695,
+        "word": "王楚钦vs卡尔伯格",
+        "onboard_time": 1777809262,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341905,
+        "num": 341905,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306290,
+        "num": 306290,
+        "word": "张继科说国乒男队技术迭代不足",
+        "onboard_time": 1777805842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300736,
+        "num": 300736,
+        "word": "黄晓明带妈妈小海绵逛游乐园",
+        "onboard_time": 1777805302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238000,
+        "num": 296782,
+        "word": "大米爆",
+        "onboard_time": 1777814602,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154426,
+        "num": 295516,
+        "word": "DYG对战JDG",
+        "onboard_time": 1777808063,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 295401,
+        "word": "2026五一档总票房已破5亿",
+        "onboard_time": 1777814243,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295373,
+        "num": 295373,
+        "word": "王楚钦手磕到球台",
+        "onboard_time": 1777811421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277553,
+        "num": 277553,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262540,
+        "num": 262540,
+        "word": "尤伯杯",
+        "onboard_time": 1777805302,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249520,
+        "num": 249520,
+        "word": "王曼昱什么时候上场",
+        "onboard_time": 1777810942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116705,
+        "num": 226304,
+        "word": "银行为何又开始猛推大额存单",
+        "onboard_time": 1777806802,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226055,
+        "num": 226055,
+        "word": "男子57秒从8楼冲到1楼捞起溺水幼童",
+        "onboard_time": 1777811183,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 214135,
+        "num": 214135,
+        "word": "在天上光选妈妈忘了选姐姐",
+        "onboard_time": 1777801519,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9715,
+        "num": 207414,
+        "word": "张雪机车第1",
+        "onboard_time": 1777813283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5057,
+        "num": 205194,
+        "word": "中国男团vs英格兰",
+        "onboard_time": 1777813283,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204617,
+        "num": 204617,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1777808063,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52280,
+        "num": 192621,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187645,
+        "num": 187645,
+        "word": "宋祖儿看到自己老鼠干的表情",
+        "onboard_time": 1777814361,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172951,
+        "num": 172951,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180152,
+        "num": 167930,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161357,
+        "num": 161357,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144857,
+        "num": 144857,
+        "word": "赵心童现场观战王楚钦",
+        "onboard_time": 1777813101,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156504,
+        "num": 144662,
+        "word": "Jennie 妈咪降临",
+        "onboard_time": 1777805724,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143821,
+        "num": 143821,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93877,
+        "num": 143815,
+        "word": "大学生电影节",
+        "onboard_time": 1777811421,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105059,
+        "num": 143786,
+        "word": "芭蕾舞演员摸鹿后被蜱虫叮咬瘫痪",
+        "onboard_time": 1777812201,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52149,
+        "num": 143778,
+        "word": "主要产油国宣布6月增产",
+        "onboard_time": 1777812922,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向全国各族青年致以节日祝贺#"
+    }
+  }
+}
