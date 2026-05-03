@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777816555227,
+  "endTime": 1777820220231,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -19,20 +19,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2361161,
-      "num": 518939,
-      "word": "大米爆",
-      "onboard_time": 1777814602,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 3842389,
+      "num": 949409,
+      "word": "王楚钦生气了",
+      "onboard_time": 1777817785,
+      "rank": 3,
+      "category": "体育"
     },
     {
-      "raw_hot": 2337710,
-      "num": 486290,
+      "raw_hot": 2459037,
+      "num": 722504,
       "word": "范丞丞 都给我出来",
       "onboard_time": 1777810583,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2361161,
+      "num": 683178,
+      "word": "大米爆",
+      "onboard_time": 1777814602,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 2257690,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2036641,
-      "num": 924460,
+      "num": 932925,
       "word": "黄灿灿 blackpink都没这么累",
       "onboard_time": 1777815321,
       "rank": 3,
@@ -75,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1752381,
-      "num": 1752381,
+      "raw_hot": 1826751,
+      "num": 1826751,
       "word": "乒乓球",
       "onboard_time": 1777811361,
       "rank": 1,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1420620,
-      "num": 486224,
+      "num": 686618,
       "word": "女子凌晨接到去世半年表弟来电",
       "onboard_time": 1777803623,
       "rank": 32,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1330191,
-      "num": 485969,
+      "num": 598698,
       "word": "繁殖犬 抑郁",
       "onboard_time": 1777799360,
       "rank": 10,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1023888,
-      "num": 467737,
+      "num": 505714,
       "word": "谈没谈过恋爱一眼就能看出来",
       "onboard_time": 1777802599,
       "rank": 20,
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 847506,
+      "num": 847506,
+      "word": "国乒女团心系男团战况",
+      "onboard_time": 1777817785,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 838899,
       "num": 1134223,
       "word": "父母互相拍照6岁儿子失足坠崖",
@@ -227,6 +243,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 792708,
+      "num": 836446,
+      "word": "中国男团vs瑞典",
+      "onboard_time": 1777807641,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 741764,
+      "num": 741764,
+      "word": "中国男团2比2瑞典",
+      "onboard_time": 1777819882,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 740480,
       "num": 315227,
       "word": "张婧仪高度近视",
@@ -241,14 +273,6 @@
       "onboard_time": 1777784898,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735694,
-      "num": 836446,
-      "word": "中国男团vs瑞典",
-      "onboard_time": 1777807641,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 728317,
@@ -315,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 667149,
+      "num": 667149,
+      "word": "抽签",
+      "onboard_time": 1777820122,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 665148,
       "num": 825182,
       "word": "上科大39岁教授营救至亲溺水去世",
@@ -352,6 +384,22 @@
       "word": "国乒男团技术已无明显优势",
       "onboard_time": 1777797739,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 634278,
+      "num": 634278,
+      "word": "梁靖崑状态",
+      "onboard_time": 1777815683,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 616082,
+      "num": 616082,
+      "word": "伦敦世乒赛",
+      "onboard_time": 1777817785,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 535554,
-      "num": 481068,
+      "num": 532906,
       "word": "范丞丞妈妈71岁状态",
       "onboard_time": 1777810883,
       "rank": 16,
@@ -433,6 +481,14 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511027,
+      "num": 511027,
+      "word": "中国男团1比2瑞典",
+      "onboard_time": 1777819223,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 492330,
@@ -537,14 +593,6 @@
       "onboard_time": 1777789639,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434742,
-      "num": 434742,
-      "word": "梁靖崑状态",
-      "onboard_time": 1777815683,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 434681,
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354332,
+      "num": 354332,
+      "word": "李晓旭退役",
+      "onboard_time": 1777817785,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353899,
       "num": 270178,
       "word": "朱孝天承认F4不和",
@@ -721,6 +777,14 @@
       "onboard_time": 1777720040,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320234,
+      "num": 320234,
+      "word": "张继科说国乒男队技术迭代不足",
+      "onboard_time": 1777805842,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 318490,
@@ -795,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306290,
-      "num": 306290,
-      "word": "张继科说国乒男队技术迭代不足",
-      "onboard_time": 1777805842,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306045,
       "num": 250099,
       "word": "严浩翔演唱会状态",
@@ -819,12 +875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303927,
+      "num": 303927,
+      "word": "挑杯抽签",
+      "onboard_time": 1777820002,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 302972,
       "num": 857700,
       "word": "张雪机车回应再次夺冠",
       "onboard_time": 1777727782,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295598,
+      "num": 319074,
+      "word": "伊朗退了一步",
+      "onboard_time": 1777818144,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295373,
@@ -867,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290619,
+      "num": 290619,
+      "word": "孙俪邓超为女儿织围巾",
+      "onboard_time": 1777814961,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284918,
       "num": 206385,
       "word": "白鹿十周年见面会定档",
@@ -897,14 +977,6 @@
       "onboard_time": 1777732882,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260985,
-      "num": 260985,
-      "word": "孙俪邓超为女儿织围巾",
-      "onboard_time": 1777814961,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 257042,
@@ -945,6 +1017,14 @@
       "onboard_time": 1777810942,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246475,
+      "num": 318212,
+      "word": "警方回应博主取样河水后被半夜敲门",
+      "onboard_time": 1777815503,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244690,
@@ -1052,7 +1132,7 @@
     },
     {
       "raw_hot": 220665,
-      "num": 526374,
+      "num": 738754,
       "word": "佳偶天成 被剧名耽误",
       "onboard_time": 1777810223,
       "rank": 8,
@@ -1164,7 +1244,7 @@
     },
     {
       "raw_hot": 194034,
-      "num": 467786,
+      "num": 533497,
       "word": "以色列全面进入备战状态",
       "onboard_time": 1777804103,
       "rank": 26,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1777772181,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186471,
-      "num": 296898,
-      "word": "警方回应博主取样河水后被半夜敲门",
-      "onboard_time": 1777815503,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185174,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1777704079,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178845,
+      "num": 178845,
+      "word": "王楚钦vs兰弗利",
+      "onboard_time": 1777818563,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 177285,
@@ -1411,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158399,
+      "num": 158399,
+      "word": "王皓安抚王楚钦",
+      "onboard_time": 1777816343,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158235,
       "num": 158235,
       "word": "马龙假期赴伦敦助力国乒",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1777734502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152745,
+      "num": 152745,
+      "word": "环保博主取样红色河水被半夜敲门",
+      "onboard_time": 1777817844,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 149620,
@@ -1523,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143959,
+      "num": 957378,
+      "word": "2026五一档总票房已破5亿",
+      "onboard_time": 1777814243,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143541,
       "num": 385720,
       "word": "国乒男团失利问题不在王楚钦没上场",
@@ -1545,14 +1649,6 @@
       "onboard_time": 1777789040,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139491,
-      "num": 139491,
-      "word": "王皓安抚王楚钦",
-      "onboard_time": 1777816343,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 138557,
@@ -1633,14 +1729,6 @@
       "onboard_time": 1777790239,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131945,
-      "num": 295401,
-      "word": "2026五一档总票房已破5亿",
-      "onboard_time": 1777814243,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131718,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1777778001,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79767,
+      "num": 533157,
+      "word": "DYG赛训",
+      "onboard_time": 1777819763,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 77571,
@@ -2291,6 +2387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20525,
+      "num": 197752,
+      "word": "景区回应围栏用尖锐切角钢筋",
+      "onboard_time": 1777819763,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20102,
       "num": 401045,
       "word": "走路看手机被劝退任性校规咋出台的",
@@ -2394,6 +2498,9 @@
     },
     {
       "word": "#总书记向全国各族青年致以节日祝贺#"
+    },
+    {
+      "word": "#习近平向全国各族青年致以节日祝贺#"
     }
   ]
 }

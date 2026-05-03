@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777816555227,
+  "endTime": 1777820220231,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3842389,
+      "num": 949409,
+      "word": "王楚钦生气了",
+      "onboard_time": 1777817785,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3837292,
       "num": 286200,
       "word": "曾沛慈夯爆了",
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2459037,
+      "num": 722504,
+      "word": "范丞丞 都给我出来",
+      "onboard_time": 1777810583,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2457303,
       "num": 740005,
       "word": "人怎么可以争气成这样",
@@ -2356,7 +2372,7 @@
     },
     {
       "raw_hot": 2361161,
-      "num": 518939,
+      "num": 683178,
       "word": "大米爆",
       "onboard_time": 1777814602,
       "rank": 26,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771595546,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2353704,
-      "num": 318651,
-      "word": "死了么app",
-      "onboard_time": 1768035741,
-      "rank": 10,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 2344341,
-      "num": 667254,
-      "word": "陈妍希申请强制执行",
-      "onboard_time": 1776838280,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
