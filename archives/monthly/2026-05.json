@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777766924251,
+  "endTime": 1777780291724,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -32,6 +32,14 @@
       "word": "张婧仪方要求你好星期六道歉",
       "onboard_time": 1777713740,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5403865,
+      "num": 277998,
+      "word": "周琼说严浩翔给了严军300万",
+      "onboard_time": 1777770320,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -128,6 +136,14 @@
       "word": "时代峰峻回应严浩翔家庭事宜",
       "onboard_time": 1777690699,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1937295,
+      "num": 277291,
+      "word": "严军回应网传出轨",
+      "onboard_time": 1777767559,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -243,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1315875,
+      "num": 276843,
+      "word": "曝严浩翔姐姐一个月花了二十多万",
+      "onboard_time": 1777773080,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1308787,
+      "num": 310441,
+      "word": "张婧仪团队不被允许进hi6录制现场",
+      "onboard_time": 1777768759,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1305004,
       "num": 455732,
       "word": "顾茜茜怀孕五个月了",
@@ -288,6 +320,14 @@
       "word": "世界杯转播权再现中国式僵局",
       "onboard_time": 1777708339,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1129846,
+      "num": 1180775,
+      "word": "国乒男团1比3韩国",
+      "onboard_time": 1777768759,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -611,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 728317,
+      "num": 308719,
+      "word": "肖战拍到了血月",
+      "onboard_time": 1777775060,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727926,
       "num": 786221,
       "word": "爷爷过世请假奔丧被开除",
@@ -643,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713478,
+      "num": 863578,
+      "word": "景区NPC擦边涉嫌违法违规",
+      "onboard_time": 1777777520,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708584,
       "num": 708584,
       "word": "曾沛慈个人喜爱度第五",
       "onboard_time": 1777614140,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707565,
+      "num": 277964,
+      "word": "严薇生活费",
+      "onboard_time": 1777767559,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 706473,
@@ -665,6 +729,22 @@
       "onboard_time": 1777619720,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 684353,
+      "num": 684353,
+      "word": "公司用AI了35岁主管被裁",
+      "onboard_time": 1777775540,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684061,
+      "num": 684061,
+      "word": "苹果炖牛肉",
+      "onboard_time": 1777776859,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 681397,
@@ -1067,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469873,
+      "num": 308497,
+      "word": "黄旭熙在ins开了付费订阅",
+      "onboard_time": 1777777700,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465051,
       "num": 412427,
       "word": "有人为吃蜜雪9元圣代碗排队5小时",
@@ -1187,12 +1275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 406873,
+      "num": 406873,
+      "word": "唐九洲黄灿灿避嫌也避不明白",
+      "onboard_time": 1777770140,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402045,
       "num": 451614,
       "word": "曾沛慈一把牵走张慧雯",
       "onboard_time": 1777633641,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400960,
+      "num": 400960,
+      "word": "美国街头吸毒者众多如丧尸聚集",
+      "onboard_time": 1777768759,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 397681,
@@ -1241,6 +1345,14 @@
       "onboard_time": 1777730722,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384252,
+      "num": 384252,
+      "word": "绵阳知名主持人熹菲去世",
+      "onboard_time": 1777773140,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379516,
@@ -1555,6 +1667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318490,
+      "num": 302890,
+      "word": "刘耀文裤子",
+      "onboard_time": 1777766659,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 317178,
+      "num": 310153,
+      "word": "37岁女主持人患癌去世朋友发声",
+      "onboard_time": 1777777460,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314909,
       "num": 454246,
       "word": "美伊停火谈判",
@@ -1571,12 +1699,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313487,
+      "num": 313487,
+      "word": "国乒男团爆冷不敌韩国",
+      "onboard_time": 1777768221,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311326,
+      "num": 311326,
+      "word": "阚清子又吃上泡面了",
+      "onboard_time": 1777775481,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309038,
       "num": 309038,
       "word": "水银奶茶 男友投毒",
       "onboard_time": 1777693760,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307758,
+      "num": 307758,
+      "word": "日本自卫队要打仗",
+      "onboard_time": 1777771340,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 307160,
@@ -1723,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284318,
+      "num": 277921,
+      "word": "王楚钦一脸不甘心",
+      "onboard_time": 1777771942,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283723,
       "num": 366547,
       "word": "女子被AI误导闯入毒蛇窝",
@@ -1776,6 +1936,22 @@
       "word": "景区装电梯无痛爬山被质疑过度开发",
       "onboard_time": 1777723282,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278138,
+      "num": 278138,
+      "word": "用ChatGPT还原盗墓笔记的世界",
+      "onboard_time": 1777776621,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 277848,
+      "num": 277848,
+      "word": "高铁即将关门3岁男孩突然跑下车",
+      "onboard_time": 1777770140,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1833,6 +2009,14 @@
       "onboard_time": 1777729102,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271540,
+      "num": 271540,
+      "word": "女子失明后遭公司设考勤陷阱开除",
+      "onboard_time": 1777775841,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 271518,
@@ -2139,6 +2323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226752,
+      "num": 226752,
+      "word": "女子吃榴莲后喝白酒呼吸衰竭",
+      "onboard_time": 1777768818,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225728,
       "num": 160718,
       "word": "金靖为减肥九点半就睡觉",
@@ -2299,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208985,
+      "num": 208985,
+      "word": "国产千万级超跑秒售罄",
+      "onboard_time": 1777774819,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208966,
       "num": 455282,
       "word": "上海申花vs成都蓉城",
@@ -2329,6 +2529,14 @@
       "onboard_time": 1777683619,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208020,
+      "num": 208020,
+      "word": "近视人的世界里全是猫",
+      "onboard_time": 1777778481,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 206251,
@@ -2387,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198683,
+      "num": 198683,
+      "word": "男乒9个败局8局只输2分",
+      "onboard_time": 1777774280,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198645,
       "num": 198645,
       "word": "只有肖战同时和三家大厂合作过",
@@ -2417,6 +2633,14 @@
       "onboard_time": 1777632559,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194938,
+      "num": 194938,
+      "word": "王楚钦王皓同时无奈",
+      "onboard_time": 1777778720,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 194841,
@@ -2483,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188699,
+      "num": 188699,
+      "word": "李梦两部恐怖片破亿",
+      "onboard_time": 1777772181,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188403,
       "num": 188403,
       "word": "张真源高音",
@@ -2507,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185856,
-      "num": 185856,
-      "word": "刘耀文裤子",
-      "onboard_time": 1777766659,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185575,
       "num": 226516,
       "word": "突然就没有年龄焦虑了",
@@ -2537,6 +2761,14 @@
       "onboard_time": 1777701740,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183830,
+      "num": 278091,
+      "word": "76人抢七淘汰凯尔特人",
+      "onboard_time": 1777779140,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 183662,
@@ -2667,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175183,
+      "num": 175183,
+      "word": "柳智敏Metgala",
+      "onboard_time": 1777770621,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174688,
       "num": 376834,
       "word": "孙颖莎穿上羽绒服了",
@@ -2713,6 +2953,14 @@
       "onboard_time": 1777624999,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170877,
+      "num": 170877,
+      "word": "安宰贤说中国男团不在最好状态",
+      "onboard_time": 1777773080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 170192,
@@ -2775,6 +3023,14 @@
       "num": 162520,
       "word": "孙怡阚清子一对视就跑调",
       "onboard_time": 1777698800,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163783,
+      "num": 163783,
+      "word": "我家那小子",
+      "onboard_time": 1777773980,
       "rank": 38,
       "category": "综艺"
     },
@@ -2881,6 +3137,14 @@
       "onboard_time": 1777561641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "中国台北主力疑遭袭胸事件已开启调查",
+      "onboard_time": 1777768818,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 155967,
@@ -3019,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144841,
+      "num": 144841,
+      "word": "陈浚铭量身高",
+      "onboard_time": 1777773382,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144522,
       "num": 112088,
       "word": "2026斯诺克世锦赛",
@@ -3057,6 +3329,14 @@
       "onboard_time": 1777609879,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142093,
+      "num": 142093,
+      "word": "人到了一定年纪就会喜欢上的东西",
+      "onboard_time": 1777779682,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 142016,
@@ -3123,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138557,
+      "num": 138557,
+      "word": "卢昱晓方将持续公示维权进展",
+      "onboard_time": 1777780038,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138330,
       "num": 138330,
       "word": "东航飞机碰撞廊桥乘客获赔300元",
@@ -3147,12 +3435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137309,
+      "num": 224963,
+      "word": "日本投降后将细菌战工具丢进海里",
+      "onboard_time": 1777778361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137111,
       "num": 137111,
       "word": "孙杨再次回应被称高需求宝宝",
       "onboard_time": 1777609339,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136885,
+      "num": 136885,
+      "word": "张雪机车绝境翻盘对手气得直摆手",
+      "onboard_time": 1777771340,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136503,
@@ -3331,6 +3635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128436,
+      "num": 128436,
+      "word": "养家有亲生儿子后赶走被拐男孩",
+      "onboard_time": 1777771340,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "广州地铁一男子向乘客喷辣椒水",
@@ -3427,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122715,
+      "num": 122715,
+      "word": "宁艺卓出发MetGala机场",
+      "onboard_time": 1777774460,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122336,
       "num": 231268,
       "word": "跑男老来得子",
@@ -3491,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118526,
+      "num": 118526,
+      "word": "76人vs凯尔特人",
+      "onboard_time": 1777771280,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118156,
       "num": 435552,
       "word": "北京WBG对战FPX.ZQ",
@@ -3513,6 +3841,14 @@
       "onboard_time": 1777629258,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117028,
+      "num": 117028,
+      "word": "恩比德cos16年詹姆斯",
+      "onboard_time": 1777776201,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 116938,
@@ -3755,6 +4091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98235,
+      "num": 278132,
+      "word": "苹果iOS27系列新功能",
+      "onboard_time": 1777771942,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98169,
       "num": 98169,
       "word": "华为送时代少年团花篮",
@@ -3993,6 +4337,14 @@
       "onboard_time": 1777634421,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79855,
+      "num": 277874,
+      "word": "支付宝把便利店搞成球迷流水席",
+      "onboard_time": 1777778001,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 78908,
@@ -4315,6 +4667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51871,
+      "num": 689365,
+      "word": "五一假期绿色出行热度攀升",
+      "onboard_time": 1777774580,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51161,
       "num": 514607,
       "word": "基础款Macmini停售",
@@ -4499,6 +4859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38957,
+      "num": 115245,
+      "word": "48小时手搓脑机接口 意念控制轮椅",
+      "onboard_time": 1777777460,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38927,
       "num": 224148,
       "word": "她妈眼里涂指甲油都算勾引",
@@ -4667,6 +5035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24620,
+      "num": 124570,
+      "word": "刘浩存称从小看李晨跑男长大",
+      "onboard_time": 1777778660,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22730,
       "num": 889675,
       "word": "数读我国创新全方位加速突破",
@@ -4761,6 +5137,14 @@
       "onboard_time": 1777555041,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14341,
+      "num": 278049,
+      "word": "女子大赞有工作人员劝阻站台吸烟",
+      "onboard_time": 1777779741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13305,
@@ -4870,6 +5254,9 @@
     },
     {
       "word": "#总书记牵挂青少年科学教育#"
+    },
+    {
+      "word": "#总书记心系一线劳动者#"
     }
   ]
 }
