@@ -1,0 +1,410 @@
+{
+  "runTime": 1777806926850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 996939,
+        "num": 1159510,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 451312,
+        "num": 816118,
+        "word": "国乒男团技术已无明显优势",
+        "onboard_time": 1777797739,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23395,
+        "num": 646212,
+        "word": "这个五一假期惠民福利停不下来",
+        "onboard_time": 1777794319,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342630,
+        "num": 535045,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518863,
+        "num": 518863,
+        "word": "泡泡岛 舞台坍塌",
+        "onboard_time": 1777802240,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374708,
+        "num": 374708,
+        "word": "在天上光选妈妈忘了选姐姐",
+        "onboard_time": 1777801519,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320277,
+        "num": 320277,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284167,
+        "num": 284167,
+        "word": "重庆落地签",
+        "onboard_time": 1777798520,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 280999,
+        "num": 280999,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219214,
+        "num": 279955,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 906537,
+        "num": 279677,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857436,
+        "num": 277131,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718175,
+        "num": 276876,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 464723,
+        "num": 274669,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427668,
+        "num": 273340,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304594,
+        "num": 272996,
+        "word": "尤伯杯",
+        "onboard_time": 1777805302,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194034,
+        "num": 270677,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49635,
+        "num": 269883,
+        "word": "妖刀轮换",
+        "onboard_time": 1777796600,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57579,
+        "num": 268862,
+        "word": "狼队对战Hero",
+        "onboard_time": 1777806083,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43399,
+        "num": 266734,
+        "word": "广西蓝刀鱼风暴角暴风雨瞬间天黑",
+        "onboard_time": 1777805842,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679669,
+        "num": 265903,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394873,
+        "num": 264657,
+        "word": "黄晓明带妈妈小海绵逛游乐园",
+        "onboard_time": 1777805302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263241,
+        "num": 263316,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238958,
+        "num": 262404,
+        "word": "东方甄选主播明明离职后首次开播",
+        "onboard_time": 1777798939,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262967,
+        "num": 261414,
+        "word": "朱志鑫游泳",
+        "onboard_time": 1777805121,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257380,
+        "num": 259541,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225632,
+        "num": 258199,
+        "word": "山姆仓库卸货太吵业主一夜报四次警",
+        "onboard_time": 1777799119,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216792,
+        "num": 257281,
+        "word": "四辆车爆胎报警后警车来了也爆胎",
+        "onboard_time": 1777796659,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33829,
+        "num": 256093,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208719,
+        "num": 253975,
+        "word": "张继科说国乒男队技术迭代不足",
+        "onboard_time": 1777805842,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207703,
+        "num": 252455,
+        "word": "李小冉你是真火了",
+        "onboard_time": 1777793540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200962,
+        "num": 252079,
+        "word": "Jennie 妈咪降临",
+        "onboard_time": 1777805724,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200356,
+        "num": 250786,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147843,
+        "num": 248853,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168488,
+        "num": 247755,
+        "word": "39岁教授溺水遇险系因救自己孩子",
+        "onboard_time": 1777802840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154034,
+        "num": 246341,
+        "word": "朱孝天的妻子生病独自手术",
+        "onboard_time": 1777798760,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131054,
+        "num": 245098,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 36,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 125539,
+        "num": 244347,
+        "word": "尤杯国羽1比1韩国",
+        "onboard_time": 1777805902,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121139,
+        "num": 243215,
+        "word": "雄鹰一样的女人孔苑苑逝世",
+        "onboard_time": 1777799480,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30710,
+        "num": 241538,
+        "word": "黄灿灿手机都掉洞里了还在吃薯片",
+        "onboard_time": 1777805242,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58688,
+        "num": 240617,
+        "word": "五一节中机票价格大跳水",
+        "onboard_time": 1777805362,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120036,
+        "num": 238687,
+        "word": "马龙许昕出发伦敦",
+        "onboard_time": 1777793421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119281,
+        "num": 236952,
+        "word": "姜十七回应整容",
+        "onboard_time": 1777784781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 236337,
+        "word": "穆祉丞有个人巡演规划",
+        "onboard_time": 1777796839,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117955,
+        "num": 234720,
+        "word": "尤杯决赛国羽落后韩国",
+        "onboard_time": 1777804103,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116748,
+        "num": 233481,
+        "word": "何昶希采访",
+        "onboard_time": 1777806382,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102031,
+        "num": 232415,
+        "word": "特朗普发布奇怪AI图片",
+        "onboard_time": 1777802721,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105824,
+        "num": 230906,
+        "word": "李小冉被气哭了",
+        "onboard_time": 1777788140,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77778,
+        "num": 230350,
+        "word": "银行为何又开始猛推大额存单",
+        "onboard_time": 1777806802,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74980,
+        "num": 228695,
+        "word": "爸爸当家",
+        "onboard_time": 1777797141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调加强基础研究有何深意#"
+    }
+  }
+}

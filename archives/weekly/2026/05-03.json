@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777804374553,
+  "endTime": 1777806926850,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1023888,
-      "num": 263806,
+      "num": 265903,
       "word": "谈没谈过恋爱一眼就能看出来",
       "onboard_time": 1777802599,
       "rank": 20,
@@ -144,6 +144,14 @@
       "word": "NPC小黄鱼互动改送簪花",
       "onboard_time": 1777784659,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 906537,
+      "num": 279677,
+      "word": "女子凌晨接到去世半年表弟来电",
+      "onboard_time": 1777803623,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 394873,
+      "num": 264657,
+      "word": "黄晓明带妈妈小海绵逛游乐园",
+      "onboard_time": 1777805302,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392854,
       "num": 392854,
       "word": "用ChatGPT还原盗墓笔记的世界",
@@ -481,6 +497,14 @@
       "onboard_time": 1777793540,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374708,
+      "num": 374708,
+      "word": "在天上光选妈妈忘了选姐姐",
+      "onboard_time": 1777801519,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 369503,
@@ -619,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304594,
+      "num": 272996,
+      "word": "尤伯杯",
+      "onboard_time": 1777805302,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302972,
       "num": 857700,
       "word": "张雪机车回应再次夺冠",
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262967,
+      "num": 261414,
+      "word": "朱志鑫游泳",
+      "onboard_time": 1777805121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257042,
       "num": 204886,
       "word": "王橹杰高会",
@@ -739,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240660,
-      "num": 195716,
-      "word": "在天上光选妈妈忘了选姐姐",
-      "onboard_time": 1777801519,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 238134,
       "num": 318396,
       "word": "原来这就是情感漠视吗",
@@ -787,11 +819,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224760,
-      "num": 187301,
-      "word": "女子凌晨接到去世半年表弟来电",
-      "onboard_time": 1777803623,
-      "rank": 32,
+      "raw_hot": 225632,
+      "num": 258199,
+      "word": "山姆仓库卸货太吵业主一夜报四次警",
+      "onboard_time": 1777799119,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -827,8 +859,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208719,
+      "num": 253975,
+      "word": "张继科说国乒男队技术迭代不足",
+      "onboard_time": 1777805842,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208352,
-      "num": 208352,
+      "num": 248853,
       "word": "肖战拿影帝这事全世界都在为他开心",
       "onboard_time": 1777791500,
       "rank": 35,
@@ -875,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200962,
+      "num": 252079,
+      "word": "Jennie 妈咪降临",
+      "onboard_time": 1777805724,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198683,
       "num": 198683,
       "word": "男乒9个败局8局只输2分",
@@ -889,6 +937,14 @@
       "onboard_time": 1777804283,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 194034,
+      "num": 270677,
+      "word": "以色列全面进入备战状态",
+      "onboard_time": 1777804103,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193916,
@@ -924,7 +980,7 @@
     },
     {
       "raw_hot": 185174,
-      "num": 185174,
+      "num": 228695,
       "word": "爸爸当家",
       "onboard_time": 1777797141,
       "rank": 34,
@@ -985,14 +1041,6 @@
       "onboard_time": 1777704079,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177715,
-      "num": 177715,
-      "word": "山姆仓库卸货太吵业主一夜报四次警",
-      "onboard_time": 1777799119,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177285,
@@ -1188,7 +1236,7 @@
     },
     {
       "raw_hot": 147455,
-      "num": 147455,
+      "num": 243215,
       "word": "雄鹰一样的女人孔苑苑逝世",
       "onboard_time": 1777799480,
       "rank": 39,
@@ -1363,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125539,
+      "num": 244347,
+      "word": "尤杯国羽1比1韩国",
+      "onboard_time": 1777805902,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125535,
       "num": 125535,
       "word": "葛仙村度假区运营现状曝光",
@@ -1435,8 +1491,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117955,
+      "num": 234720,
+      "word": "尤杯决赛国羽落后韩国",
+      "onboard_time": 1777804103,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117501,
-      "num": 117501,
+      "num": 269883,
       "word": "妖刀轮换",
       "onboard_time": 1777796600,
       "rank": 45,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1777798339,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116748,
+      "num": 233481,
+      "word": "何昶希采访",
+      "onboard_time": 1777806382,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 115543,
@@ -1484,19 +1556,11 @@
     },
     {
       "raw_hot": 106381,
-      "num": 106381,
+      "num": 232415,
       "word": "特朗普发布奇怪AI图片",
       "onboard_time": 1777802721,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100884,
-      "num": 100884,
-      "word": "尤杯决赛国羽落后韩国",
-      "onboard_time": 1777804103,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100232,
@@ -1579,6 +1643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77778,
+      "num": 230350,
+      "word": "银行为何又开始猛推大额存单",
+      "onboard_time": 1777806802,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73567,
       "num": 674912,
       "word": "95后把卡脖子难题变成咱的杀手锏",
@@ -1603,20 +1675,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63732,
-      "num": 197868,
-      "word": "以色列全面进入备战状态",
-      "onboard_time": 1777804103,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61894,
       "num": 391362,
       "word": "伊朗议会将批准霍尔木兹海峡管理法",
       "onboard_time": 1777797259,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58688,
+      "num": 240617,
+      "word": "五一节中机票价格大跳水",
+      "onboard_time": 1777805362,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57579,
+      "num": 268862,
+      "word": "狼队对战Hero",
+      "onboard_time": 1777806083,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 57233,
@@ -1723,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43399,
+      "num": 266734,
+      "word": "广西蓝刀鱼风暴角暴风雨瞬间天黑",
+      "onboard_time": 1777805842,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43089,
       "num": 156237,
       "word": "9岁女孩南非被绑架58天后获救",
@@ -1785,6 +1873,22 @@
       "onboard_time": 1777804160,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33829,
+      "num": 256093,
+      "word": "奶茶卖到188元一杯",
+      "onboard_time": 1777806501,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30710,
+      "num": 241538,
+      "word": "黄灿灿手机都掉洞里了还在吃薯片",
+      "onboard_time": 1777805242,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 30434,
