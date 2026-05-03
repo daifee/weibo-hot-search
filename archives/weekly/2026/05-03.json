@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777849926498,
+  "endTime": 1777852664800,
   "band_list": [
     {
       "raw_hot": 5403865,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578747,
+      "num": 874077,
+      "word": "国乒",
+      "onboard_time": 1777823062,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578569,
       "num": 578569,
       "word": "林诗栋vs卡尔伯格",
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525934,
+      "num": 169507,
+      "word": "吴宜泽10比7墨菲",
+      "onboard_time": 1777851978,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492330,
       "num": 314181,
       "word": "卢昱晓收藏与檀健次cp视频",
@@ -568,6 +584,14 @@
       "word": "国羽尤伯杯亚军",
       "onboard_time": 1777812862,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 479554,
+      "num": 351114,
+      "word": "国羽汤杯卫冕",
+      "onboard_time": 1777848855,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364445,
-      "num": 364445,
-      "word": "国乒",
-      "onboard_time": 1777823062,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 364318,
       "num": 364318,
       "word": "严浩翔回应演唱会哭了",
@@ -851,12 +867,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 351114,
-      "num": 351114,
-      "word": "国羽汤杯卫冕",
-      "onboard_time": 1777848855,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 348867,
+      "num": 165065,
+      "word": "男子10岁溺水导致无精症无法生育",
+      "onboard_time": 1777852338,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345931,
@@ -945,6 +961,14 @@
       "onboard_time": 1777775481,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309699,
+      "num": 150471,
+      "word": "追撞致女警身亡大学生打110求保护",
+      "onboard_time": 1777852517,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307758,
@@ -1267,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214895,
+      "num": 161715,
+      "word": "伊朗公布最新谈判方案",
+      "onboard_time": 1777831935,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214707,
       "num": 214707,
       "word": "莫雷加德跟裁判吵起来了",
@@ -1363,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201754,
+      "num": 167777,
+      "word": "周深追不上伴舞气笑了",
+      "onboard_time": 1777843514,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -1419,20 +1459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189620,
-      "num": 133268,
-      "word": "伊朗公布最新谈判方案",
-      "onboard_time": 1777831935,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188699,
       "num": 188699,
       "word": "李梦两部恐怖片破亿",
       "onboard_time": 1777772181,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188117,
+      "num": 157678,
+      "word": "表达能力弱的人就该这样来练",
+      "onboard_time": 1777852517,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 185174,
@@ -1579,11 +1619,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168857,
+      "num": 160322,
+      "word": "刘国正谈国乒男团两连败",
+      "onboard_time": 1777852517,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168095,
       "num": 168095,
       "word": "王皓安抚王楚钦",
       "onboard_time": 1777816343,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167364,
+      "num": 159559,
+      "word": "斯诺克",
+      "onboard_time": 1777852398,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1643,12 +1699,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 159585,
-      "num": 159585,
-      "word": "周深追不上伴舞气笑了",
-      "onboard_time": 1777843514,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 159612,
+      "num": 157007,
+      "word": "F1",
+      "onboard_time": 1777851918,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 159041,
@@ -1707,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155799,
+      "num": 155648,
+      "word": "肖战大影节红毯",
+      "onboard_time": 1777843454,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154208,
       "num": 288839,
       "word": "李小冉怼邓超说脸都不要了",
@@ -1737,14 +1801,6 @@
       "onboard_time": 1777792340,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148852,
-      "num": 131615,
-      "word": "肖战大影节红毯",
-      "onboard_time": 1777843454,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 147455,
@@ -1836,7 +1892,7 @@
     },
     {
       "raw_hot": 139548,
-      "num": 139548,
+      "num": 148891,
       "word": "2026年伦敦世乒赛",
       "onboard_time": 1777833855,
       "rank": 41,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1777804825,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127359,
+      "num": 152660,
+      "word": "林依晨说依赖另一半的人生不会快乐",
+      "onboard_time": 1777849696,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 126341,
@@ -2235,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89470,
+      "num": 144269,
+      "word": "严浩翔爱和痛催促从幼稚变成熟",
+      "onboard_time": 1777850176,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89241,
       "num": 105568,
       "word": "第五人格",
@@ -2307,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75953,
+      "num": 143661,
+      "word": "吴镇宇连散光都能演出来",
+      "onboard_time": 1777852578,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73567,
       "num": 674912,
       "word": "95后把卡脖子难题变成咱的杀手锏",
@@ -2377,6 +2457,14 @@
       "onboard_time": 1777764077,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57222,
+      "num": 136317,
+      "word": "邓超孙俪给小花的12岁礼物",
+      "onboard_time": 1777852638,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 56047,
@@ -2585,14 +2673,6 @@
       "onboard_time": 1777824081,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36827,
-      "num": 68298,
-      "word": "林依晨说依赖另一半的人生不会快乐",
-      "onboard_time": 1777849696,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 36622,
