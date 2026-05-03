@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777766143760,
+  "endTime": 1777766924251,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1657360,
+      "num": 158510,
+      "word": "严军不敢发和严浩翔的聊天记录",
+      "onboard_time": 1777765518,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1624352,
       "num": 1432747,
       "word": "又一乐园被曝女性与半裸男NPC互动",
@@ -169,14 +177,6 @@
       "onboard_time": 1777560921,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1578222,
-      "num": 158510,
-      "word": "严军不敢发和严浩翔的聊天记录",
-      "onboard_time": 1777765518,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1552424,
@@ -209,6 +209,14 @@
       "onboard_time": 1777622179,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1380444,
+      "num": 580958,
+      "word": "中医腹诊竟摸出记者7年前生的闷气",
+      "onboard_time": 1777763596,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1374651,
@@ -281,14 +289,6 @@
       "onboard_time": 1777708339,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1144450,
-      "num": 580958,
-      "word": "中医腹诊竟摸出记者7年前生的闷气",
-      "onboard_time": 1777763596,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1106775,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 838899,
+      "num": 1134223,
+      "word": "父母互相拍照6岁儿子失足坠崖",
+      "onboard_time": 1777737981,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 818005,
       "num": 1335875,
       "word": "日本地震",
@@ -569,14 +577,6 @@
       "onboard_time": 1777603339,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 760238,
-      "num": 1080405,
-      "word": "父母互相拍照6岁儿子失足坠崖",
-      "onboard_time": 1777737981,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 748488,
@@ -835,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 570711,
+      "num": 796434,
+      "word": "吴宜泽17比16艾伦",
+      "onboard_time": 1777762936,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565999,
       "num": 447957,
       "word": "阚清子为穿仙女裙有多拼",
@@ -929,14 +937,6 @@
       "onboard_time": 1777606821,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525797,
-      "num": 775543,
-      "word": "吴宜泽17比16艾伦",
-      "onboard_time": 1777762936,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 521707,
@@ -2507,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185856,
+      "num": 185856,
+      "word": "刘耀文裤子",
+      "onboard_time": 1777766659,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185575,
       "num": 226516,
       "word": "突然就没有年龄焦虑了",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1777701740,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183662,
+      "num": 152074,
+      "word": "严军破产",
+      "onboard_time": 1777764978,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 182397,
@@ -2571,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179885,
+      "num": 265355,
+      "word": "夺冠车手感谢张雪机车",
+      "onboard_time": 1777735823,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178919,
       "num": 178919,
       "word": "TCG晋级挑杯八强",
@@ -2608,6 +2632,14 @@
       "word": "贺峻霖是真人bjd吧",
       "onboard_time": 1777736782,
       "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 176561,
+      "num": 268744,
+      "word": "周深一家四口花车巡游",
+      "onboard_time": 1777737861,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -2667,20 +2699,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 172838,
+      "num": 209555,
+      "word": "吴宜泽首进世锦赛决赛",
+      "onboard_time": 1777762996,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171995,
       "num": 162760,
       "word": "五一晚会节目单",
       "onboard_time": 1777624999,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170509,
-      "num": 265355,
-      "word": "夺冠车手感谢张雪机车",
-      "onboard_time": 1777735823,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 170192,
@@ -2747,14 +2779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164741,
-      "num": 268744,
-      "word": "周深一家四口花车巡游",
-      "onboard_time": 1777737861,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163645,
       "num": 163645,
       "word": "陈奕恒你逗我玩是吧",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1777605979,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163463,
-      "num": 163463,
-      "word": "吴宜泽首进世锦赛决赛",
-      "onboard_time": 1777762996,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 163351,
@@ -2841,14 +2857,6 @@
       "onboard_time": 1777679658,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159056,
-      "num": 152074,
-      "word": "严军破产",
-      "onboard_time": 1777764978,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 156678,
@@ -3771,6 +3779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96560,
+      "num": 151143,
+      "word": "杨威回应女儿转技巧体操夺冠",
+      "onboard_time": 1777765338,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96039,
       "num": 96039,
       "word": "王濛缺席帮唱选曲就没人弄清规则了",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1777537519,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86145,
+      "num": 157270,
+      "word": "张雪问谁不服",
+      "onboard_time": 1777765877,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 84712,
@@ -4099,6 +4123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68327,
+      "num": 214143,
+      "word": "张雪机车连超2辆雅马哈",
+      "onboard_time": 1777747755,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68270,
       "num": 68270,
       "word": "阿娇送阿sa的新婚礼物曝光",
@@ -4107,28 +4139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66418,
-      "num": 151143,
-      "word": "杨威回应女儿转技巧体操夺冠",
-      "onboard_time": 1777765338,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65723,
       "num": 185818,
       "word": "这些职业成了招聘会里的香饽饽",
       "onboard_time": 1777693880,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64411,
-      "num": 214143,
-      "word": "张雪机车连超2辆雅马哈",
-      "onboard_time": 1777747755,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 64177,
@@ -4219,6 +4235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57233,
+      "num": 145486,
+      "word": "美将从德国撤出5000美军",
+      "onboard_time": 1777764077,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56406,
       "num": 378405,
       "word": "匈牙利站赛道超车难度极高",
@@ -4291,14 +4315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51360,
-      "num": 145486,
-      "word": "美将从德国撤出5000美军",
-      "onboard_time": 1777764077,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51161,
       "num": 514607,
       "word": "基础款Macmini停售",
@@ -4313,14 +4329,6 @@
       "onboard_time": 1777568957,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50844,
-      "num": 144429,
-      "word": "张雪问谁不服",
-      "onboard_time": 1777765877,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 50786,
@@ -4411,12 +4419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45346,
+      "num": 138351,
+      "word": "俞浩称追觅要与苹果三星三分天下",
+      "onboard_time": 1777764498,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45195,
       "num": 225547,
       "word": "2859克黄金被扣30年迎转机",
       "onboard_time": 1777558941,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43901,
+      "num": 136214,
+      "word": "佳偶天成妆造 拉胯",
+      "onboard_time": 1777726341,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 41993,
@@ -4601,14 +4625,6 @@
       "onboard_time": 1777699939,
       "rank": 2,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 28600,
-      "num": 138351,
-      "word": "俞浩称追觅要与苹果三星三分天下",
-      "onboard_time": 1777764498,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 27535,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1777766924251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 838899,
+        "num": 1134223,
+        "word": "父母互相拍照6岁儿子失足坠崖",
+        "onboard_time": 1777737981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570711,
+        "num": 796434,
+        "word": "吴宜泽17比16艾伦",
+        "onboard_time": 1777762936,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73567,
+        "num": 655411,
+        "word": "95后把卡脖子难题变成咱的杀手锏",
+        "onboard_time": 1777726762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2116196,
+        "num": 613960,
+        "word": "严浩翔哭了",
+        "onboard_time": 1777731983,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1380444,
+        "num": 565500,
+        "word": "中医腹诊竟摸出记者7年前生的闷气",
+        "onboard_time": 1777763596,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425681,
+        "num": 425681,
+        "word": "张婧仪方要求你好星期六道歉",
+        "onboard_time": 1777713740,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336101,
+        "num": 336101,
+        "word": "林诗栋1比3吴晙诚",
+        "onboard_time": 1777762516,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244337,
+        "num": 244337,
+        "word": "张雪机车再夺冠军",
+        "onboard_time": 1777725800,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 219725,
+        "word": "五一假期真是捅人窝了吧",
+        "onboard_time": 1777720581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172838,
+        "num": 209555,
+        "word": "吴宜泽首进世锦赛决赛",
+        "onboard_time": 1777762996,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206820,
+        "num": 206820,
+        "word": "卢昱晓收藏与檀健次cp视频",
+        "onboard_time": 1777732102,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185856,
+        "num": 185856,
+        "word": "刘耀文裤子",
+        "onboard_time": 1777766659,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179885,
+        "num": 179885,
+        "word": "夺冠车手感谢张雪机车",
+        "onboard_time": 1777735823,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176561,
+        "num": 176561,
+        "word": "周深一家四口花车巡游",
+        "onboard_time": 1777737861,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158700,
+        "num": 158700,
+        "word": "追星女的手机密码人尽皆知",
+        "onboard_time": 1777724541,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 158343,
+        "word": "恶意开除失明女子公司被判赔20万",
+        "onboard_time": 1777760175,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121070,
+        "num": 157532,
+        "word": "世乒赛",
+        "onboard_time": 1777725320,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86145,
+        "num": 157270,
+        "word": "张雪问谁不服",
+        "onboard_time": 1777765877,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83025,
+        "num": 156255,
+        "word": "便利店被长相成熟未成年设套买烟",
+        "onboard_time": 1777732641,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70963,
+        "num": 155365,
+        "word": "日本地震",
+        "onboard_time": 1777716200,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1657360,
+        "num": 155235,
+        "word": "严军不敢发和严浩翔的聊天记录",
+        "onboard_time": 1777765518,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226585,
+        "num": 154216,
+        "word": "建议大家去狂刷跨境综艺打破信息差",
+        "onboard_time": 1777741218,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81502,
+        "num": 153491,
+        "word": "斯诺克世锦赛",
+        "onboard_time": 1777762276,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80672,
+        "num": 153244,
+        "word": "学霸情侣专升本斩获76万奖学金",
+        "onboard_time": 1777734203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80610,
+        "num": 152011,
+        "word": "朱孝天承认F4不和",
+        "onboard_time": 1777728021,
+        "rank": 24,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 79452,
+        "num": 151600,
+        "word": "跑男新群名是白鹿改的",
+        "onboard_time": 1777718780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78848,
+        "num": 150706,
+        "word": "原来这就是情感漠视吗",
+        "onboard_time": 1777717580,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76588,
+        "num": 150085,
+        "word": "刘丁硕假期厕所直播翻车",
+        "onboard_time": 1777728621,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71190,
+        "num": 149697,
+        "word": "中国台北女队教练发文控诉",
+        "onboard_time": 1777732882,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183662,
+        "num": 149277,
+        "word": "严军破产",
+        "onboard_time": 1777764978,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96560,
+        "num": 148598,
+        "word": "杨威回应女儿转技巧体操夺冠",
+        "onboard_time": 1777765338,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68403,
+        "num": 147786,
+        "word": "杨威定下16岁前不牺牲学业红线",
+        "onboard_time": 1777743916,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68327,
+        "num": 146885,
+        "word": "张雪机车连超2辆雅马哈",
+        "onboard_time": 1777747755,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67144,
+        "num": 146033,
+        "word": "2026F1迈阿密大奖赛",
+        "onboard_time": 1777741818,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58375,
+        "num": 145551,
+        "word": "iPhone18Pro最低配或不涨价",
+        "onboard_time": 1777732403,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58069,
+        "num": 144941,
+        "word": "猫为什么不焦虑",
+        "onboard_time": 1777741218,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57841,
+        "num": 144019,
+        "word": "35岁男子反复口腔溃疡查出舌鳞癌",
+        "onboard_time": 1777736422,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57542,
+        "num": 143461,
+        "word": "1300斤牛走丢20天暴瘦200斤",
+        "onboard_time": 1777726821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57233,
+        "num": 142960,
+        "word": "美将从德国撤出5000美军",
+        "onboard_time": 1777764077,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55650,
+        "num": 142263,
+        "word": "苏超南京vs常州",
+        "onboard_time": 1777723941,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52697,
+        "num": 141468,
+        "word": "误导女子闯入毒蛇窝AI道歉",
+        "onboard_time": 1777741218,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50601,
+        "num": 141287,
+        "word": "郭晶晶陈若琳假期同框热聊",
+        "onboard_time": 1777743077,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50259,
+        "num": 140247,
+        "word": "Tian闹剧结束了",
+        "onboard_time": 1777724840,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49223,
+        "num": 139776,
+        "word": "王楚钦林诗栋梁靖崑开门红",
+        "onboard_time": 1777729882,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48686,
+        "num": 138942,
+        "word": "21世纪大君夫人8",
+        "onboard_time": 1777732823,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47125,
+        "num": 138261,
+        "word": "时代少年团 男团学",
+        "onboard_time": 1777720040,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45346,
+        "num": 137740,
+        "word": "俞浩称追觅要与苹果三星三分天下",
+        "onboard_time": 1777764498,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46778,
+        "num": 137068,
+        "word": "你好星期六",
+        "onboard_time": 1777726882,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43901,
+        "num": 136214,
+        "word": "佳偶天成妆造 拉胯",
+        "onboard_time": 1777726341,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42997,
+        "num": 135414,
+        "word": "张雪机车回应再次夺冠",
+        "onboard_time": 1777727782,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂青少年科学教育#"
+    }
+  }
+}
