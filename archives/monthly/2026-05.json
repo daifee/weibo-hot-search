@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777803220135,
+  "endTime": 1777804374553,
   "band_list": [
     {
       "raw_hot": 20719196,
@@ -435,20 +435,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1023888,
+      "num": 263806,
+      "word": "谈没谈过恋爱一眼就能看出来",
+      "onboard_time": 1777802599,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1021620,
       "num": 658328,
       "word": "虞书欣 种地吧",
       "onboard_time": 1777704079,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1019249,
-      "num": 263806,
-      "word": "谈没谈过恋爱一眼就能看出来",
-      "onboard_time": 1777802599,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1003049,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 641673,
-      "num": 860679,
+      "num": 888378,
       "word": "国乒男团技术已无明显优势",
       "onboard_time": 1777797739,
       "rank": 41,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1777563320,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592760,
+      "num": 592760,
+      "word": "泡泡岛 舞台坍塌",
+      "onboard_time": 1777802240,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 586019,
@@ -1745,14 +1753,6 @@
       "onboard_time": 1777568418,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349846,
-      "num": 261983,
-      "word": "泡泡岛 舞台坍塌",
-      "onboard_time": 1777802240,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 347125,
@@ -2571,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240660,
+      "num": 195716,
+      "word": "在天上光选妈妈忘了选姐姐",
+      "onboard_time": 1777801519,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240281,
       "num": 238071,
       "word": "你好星期六",
@@ -2712,6 +2720,14 @@
       "word": "男子健身时锁扣断裂被弹飞致瘫痪",
       "onboard_time": 1777629320,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224760,
+      "num": 187301,
+      "word": "女子凌晨接到去世半年表弟来电",
+      "onboard_time": 1777803623,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2955,6 +2971,14 @@
       "category": "互联网,幽默"
     },
     {
+      "raw_hot": 202742,
+      "num": 264874,
+      "word": "39岁教授溺水遇险系因救自己孩子",
+      "onboard_time": 1777802840,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -2995,20 +3019,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197440,
+      "num": 197440,
+      "word": "新疆地震",
+      "onboard_time": 1777804283,
+      "rank": 27,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 196355,
       "num": 290776,
       "word": "莫氏鸡煲分店开业客流不及预期",
       "onboard_time": 1777645041,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195716,
-      "num": 195716,
-      "word": "在天上光选妈妈忘了选姐姐",
-      "onboard_time": 1777801519,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 195644,
@@ -3755,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147455,
+      "num": 147455,
+      "word": "雄鹰一样的女人孔苑苑逝世",
+      "onboard_time": 1777799480,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147021,
       "num": 147021,
       "word": "恩比德cos16年詹姆斯",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1777594398,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145860,
-      "num": 145860,
-      "word": "雄鹰一样的女人孔苑苑逝世",
-      "onboard_time": 1777799480,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145127,
@@ -3849,6 +3873,14 @@
       "onboard_time": 1777706299,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143541,
+      "num": 385720,
+      "word": "国乒男团失利问题不在王楚钦没上场",
+      "onboard_time": 1777798040,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 142747,
@@ -4209,14 +4241,6 @@
       "onboard_time": 1777610299,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127238,
-      "num": 385720,
-      "word": "国乒男团失利问题不在王楚钦没上场",
-      "onboard_time": 1777798040,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 126758,
@@ -4667,6 +4691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100884,
+      "num": 100884,
+      "word": "尤杯决赛国羽落后韩国",
+      "onboard_time": 1777804103,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100383,
       "num": 96507,
       "word": "孙杨调侃撒贝宁不会死了吧",
@@ -4827,6 +4859,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 87602,
+      "num": 239165,
+      "word": "男子领养孩子养到11岁亲生父母要带走",
+      "onboard_time": 1777803381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87190,
       "num": 1207138,
       "word": "95后把卡脖子难题变成咱的杀手锏",
@@ -4945,14 +4985,6 @@
       "onboard_time": 1777604239,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81539,
-      "num": 264874,
-      "word": "39岁教授溺水遇险系因救自己孩子",
-      "onboard_time": 1777802840,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81257,
@@ -5137,6 +5169,14 @@
       "onboard_time": 1777590016,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 63732,
+      "num": 197868,
+      "word": "以色列全面进入备战状态",
+      "onboard_time": 1777804103,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61992,
@@ -5577,6 +5617,14 @@
       "onboard_time": 1777608079,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33865,
+      "num": 192384,
+      "word": "被残障人士领去超市花6块5买可乐",
+      "onboard_time": 1777804160,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33633,

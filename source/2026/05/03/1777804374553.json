@@ -1,0 +1,410 @@
+{
+  "runTime": 1777804374553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163976,
+        "num": 1186236,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 601377,
+        "num": 888378,
+        "word": "国乒男团技术已无明显优势",
+        "onboard_time": 1777797739,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23762,
+        "num": 655672,
+        "word": "这个五一假期惠民福利停不下来",
+        "onboard_time": 1777794319,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1303960,
+        "num": 636270,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592760,
+        "num": 592760,
+        "word": "泡泡岛 舞台坍塌",
+        "onboard_time": 1777802240,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 592190,
+        "num": 592190,
+        "word": "重庆落地签",
+        "onboard_time": 1777798520,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 590858,
+        "num": 590858,
+        "word": "80斤女生不吃碳水闭经体脂率超标",
+        "onboard_time": 1777795880,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375288,
+        "num": 375288,
+        "word": "上科大39岁教授营救至亲溺水去世",
+        "onboard_time": 1777790539,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372968,
+        "num": 372968,
+        "word": "河南蒜苔 再说原地址给你补五十斤",
+        "onboard_time": 1777789639,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370151,
+        "num": 370151,
+        "word": "严浩翔 爱一个人需要另一个人",
+        "onboard_time": 1777789461,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1080858,
+        "num": 366438,
+        "word": "繁殖犬 抑郁",
+        "onboard_time": 1777799360,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 519931,
+        "num": 364905,
+        "word": "吴彦祖妻子宣布复出",
+        "onboard_time": 1777794739,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362559,
+        "num": 362559,
+        "word": "孙俪 我们家的狗装死把邓超吓晕了",
+        "onboard_time": 1777787000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334166,
+        "num": 334166,
+        "word": "把自己当成糖尿病人来吃饭",
+        "onboard_time": 1777792640,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329395,
+        "num": 329395,
+        "word": "李小冉你是真火了",
+        "onboard_time": 1777793540,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280723,
+        "num": 280723,
+        "word": "跑男摄影师谈白鹿 身正不怕影子歪",
+        "onboard_time": 1777790422,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243149,
+        "num": 243149,
+        "word": "大睡特睡 修复前额叶",
+        "onboard_time": 1777788681,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256506,
+        "num": 242856,
+        "word": "朱孝天的妻子生病独自手术",
+        "onboard_time": 1777798760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 240879,
+        "word": "美日菲抵近中国近海舞枪弄棒",
+        "onboard_time": 1777790239,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87602,
+        "num": 239165,
+        "word": "男子领养孩子养到11岁亲生父母要带走",
+        "onboard_time": 1777803381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023888,
+        "num": 237017,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236539,
+        "num": 236539,
+        "word": "特朗普发赤裸上身和万斯等人泡澡AI照",
+        "onboard_time": 1777799661,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234765,
+        "num": 234765,
+        "word": "东方甄选主播明明离职后首次开播",
+        "onboard_time": 1777798939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233514,
+        "num": 233514,
+        "word": "姜十七回应整容",
+        "onboard_time": 1777784781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213263,
+        "num": 213263,
+        "word": "黄灿灿 罗予彤边练歌边骂人的样子真美",
+        "onboard_time": 1777794919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202742,
+        "num": 202742,
+        "word": "39岁教授溺水遇险系因救自己孩子",
+        "onboard_time": 1777802840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63732,
+        "num": 197868,
+        "word": "以色列全面进入备战状态",
+        "onboard_time": 1777804103,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197440,
+        "num": 197440,
+        "word": "新疆地震",
+        "onboard_time": 1777804283,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 194565,
+        "num": 194565,
+        "word": "四辆车爆胎报警后警车来了也爆胎",
+        "onboard_time": 1777796659,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198796,
+        "num": 193333,
+        "word": "包文婧回应赵奕欢和包贝尔暧昧",
+        "onboard_time": 1777790300,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33865,
+        "num": 192384,
+        "word": "被残障人士领去超市花6块5买可乐",
+        "onboard_time": 1777804160,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240660,
+        "num": 188604,
+        "word": "在天上光选妈妈忘了选姐姐",
+        "onboard_time": 1777801519,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224760,
+        "num": 187301,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186284,
+        "num": 186284,
+        "word": "穆祉丞有个人巡演规划",
+        "onboard_time": 1777796839,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178816,
+        "num": 178816,
+        "word": "榴莲价格",
+        "onboard_time": 1777784299,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "水果我只吃不出轨的",
+        "onboard_time": 1777798400,
+        "rank": 35,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 165874,
+        "num": 165874,
+        "word": "马龙许昕出发伦敦",
+        "onboard_time": 1777793421,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165336,
+        "num": 165336,
+        "word": "汤晶媚吐槽黄宗泽牙龈萎缩",
+        "onboard_time": 1777792939,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157914,
+        "num": 157914,
+        "word": "肖战拿影帝这事全世界都在为他开心",
+        "onboard_time": 1777791500,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147455,
+        "num": 147455,
+        "word": "雄鹰一样的女人孔苑苑逝世",
+        "onboard_time": 1777799480,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151758,
+        "num": 145838,
+        "word": "谢贤前女友CoCo回应分手原因",
+        "onboard_time": 1777787539,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143541,
+        "num": 143541,
+        "word": "国乒男团失利问题不在王楚钦没上场",
+        "onboard_time": 1777798040,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125893,
+        "num": 125893,
+        "word": "山姆仓库卸货太吵业主一夜报四次警",
+        "onboard_time": 1777799119,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124260,
+        "num": 124260,
+        "word": "李小冉被气哭了",
+        "onboard_time": 1777788140,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124162,
+        "num": 124162,
+        "word": "NPC小黄鱼互动改送簪花",
+        "onboard_time": 1777784659,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114756,
+        "num": 114756,
+        "word": "爸爸当家",
+        "onboard_time": 1777797141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113283,
+        "num": 113283,
+        "word": "张婧仪团队不被允许进hi6录制现场",
+        "onboard_time": 1777768759,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112959,
+        "num": 112959,
+        "word": "葛仙村度假区运营现状曝光",
+        "onboard_time": 1777802540,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100884,
+        "num": 100884,
+        "word": "尤杯决赛国羽落后韩国",
+        "onboard_time": 1777804103,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99931,
+        "num": 99931,
+        "word": "时代峰峻回应TOP无综艺外务",
+        "onboard_time": 1777798581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调加强基础研究有何深意#"
+    }
+  }
+}
