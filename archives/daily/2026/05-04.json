@@ -1,6 +1,6 @@
 {
   "startTime": 1777824581127,
-  "endTime": 1777890783215,
+  "endTime": 1777895864631,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2772526,
-      "num": 376310,
+      "num": 432082,
       "word": "白敬亭 宋轶",
       "onboard_time": 1777863859,
       "rank": 21,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1549994,
+      "num": 1807617,
+      "word": "辽宁丹东交通事故已致8人死亡",
+      "onboard_time": 1777889479,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1542529,
       "num": 287275,
       "word": "严浩翔新歌",
@@ -65,6 +73,14 @@
       "onboard_time": 1777803623,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1511330,
+      "num": 463523,
+      "word": "难听",
+      "onboard_time": 1777895661,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 1397043,
@@ -171,6 +187,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 753795,
+      "num": 458243,
+      "word": "马嘉祺破音",
+      "onboard_time": 1777895481,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 730005,
+      "num": 444029,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1777895241,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 721944,
       "num": 331872,
       "word": "金价又又又跌了",
@@ -235,12 +267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 585804,
-      "num": 1807617,
-      "word": "辽宁丹东交通事故已致8人死亡",
-      "onboard_time": 1777889479,
-      "rank": 0,
-      "category": "突发/灾害"
+      "raw_hot": 591472,
+      "num": 1094635,
+      "word": "中国向联合国发出警告",
+      "onboard_time": 1777888461,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 578747,
@@ -259,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 567441,
+      "num": 439040,
+      "word": "浏阳一烟花厂发生爆炸",
+      "onboard_time": 1777892961,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 564509,
       "num": 564509,
       "word": "国乒女团心系男团战况",
@@ -273,14 +313,6 @@
       "onboard_time": 1777868059,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 548532,
-      "num": 548532,
-      "word": "中国向联合国发出警告",
-      "onboard_time": 1777888461,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 530181,
@@ -323,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510820,
+      "num": 510820,
+      "word": "台湾同胞被这首大陆歌曲震撼到流泪",
+      "onboard_time": 1777890860,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 500404,
       "num": 770614,
       "word": "莫雷加德回应击败中国男团",
@@ -337,6 +377,30 @@
       "onboard_time": 1777848855,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479472,
+      "num": 479472,
+      "word": "大时代",
+      "onboard_time": 1777895061,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 447597,
+      "num": 570122,
+      "word": "Gr对战MRC",
+      "onboard_time": 1777889421,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 447525,
+      "num": 447525,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1777889602,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 446452,
@@ -369,6 +433,14 @@
       "onboard_time": 1777867280,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417868,
+      "num": 417868,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1777894639,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 412701,
@@ -476,11 +548,19 @@
     },
     {
       "raw_hot": 351596,
-      "num": 351596,
+      "num": 451196,
       "word": "过度独立 心理创伤",
       "onboard_time": 1777882581,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349438,
+      "num": 525762,
+      "word": "伊朗向美军舰发射导弹",
+      "onboard_time": 1777891581,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 347792,
@@ -531,8 +611,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324036,
+      "num": 324036,
+      "word": "于正看短剧Enemy看哭了",
+      "onboard_time": 1777893982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323739,
-      "num": 241080,
+      "num": 452205,
       "word": "邮轮暴发致命病毒靠港求医遭拒",
       "onboard_time": 1777887441,
       "rank": 22,
@@ -643,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289804,
+      "num": 279728,
+      "word": "张翅 音乐节",
+      "onboard_time": 1777889120,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286016,
       "num": 390842,
       "word": "穆祉丞太湖湾音乐节应援排面",
@@ -657,6 +753,14 @@
       "onboard_time": 1777868840,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280590,
+      "num": 280590,
+      "word": "800一晚老式宾馆年轻人五一抢着住",
+      "onboard_time": 1777886840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278400,
@@ -675,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276704,
-      "num": 276704,
-      "word": "张翅 音乐节",
-      "onboard_time": 1777889120,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 274883,
       "num": 301401,
       "word": "郭涛15岁女儿身高",
@@ -697,14 +793,6 @@
       "onboard_time": 1777866019,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270468,
-      "num": 270468,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1777889602,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 262352,
@@ -747,12 +835,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251844,
+      "num": 276196,
+      "word": "国内油价将迎调整",
+      "onboard_time": 1777893860,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249156,
       "num": 359139,
       "word": "狗狗未牵绳被碾压主人当场崩溃",
       "onboard_time": 1777865659,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249004,
+      "num": 788597,
+      "word": "有人花300多元买28斤榴莲",
+      "onboard_time": 1777891999,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236358,
+      "num": 475831,
+      "word": "中国女团vs波兰",
+      "onboard_time": 1777893982,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 235465,
@@ -963,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186282,
+      "num": 213962,
+      "word": "佳偶天成",
+      "onboard_time": 1777890441,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184920,
       "num": 224030,
       "word": "黄灿灿误入业主群",
@@ -1017,14 +1137,6 @@
       "onboard_time": 1777870040,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174052,
-      "num": 220793,
-      "word": "Gr对战MRC",
-      "onboard_time": 1777889421,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 173578,
@@ -1115,14 +1227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161339,
-      "num": 270116,
-      "word": "800一晚老式宾馆年轻人五一抢着住",
-      "onboard_time": 1777886840,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161237,
       "num": 283142,
       "word": "陈凯琳带三个娃都没这么难这么累",
@@ -1147,12 +1251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158048,
+      "raw_hot": 158108,
       "num": 272190,
       "word": "关晓彤比耶转场",
       "onboard_time": 1777886902,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157984,
+      "num": 157984,
+      "word": "海拔5000米的雪山堵得人山人海",
+      "onboard_time": 1777893680,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157701,
@@ -1177,6 +1289,22 @@
       "onboard_time": 1777884318,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153029,
+      "num": 153029,
+      "word": "在水中放毛巾是为方便小鸭们上岸",
+      "onboard_time": 1777891400,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147769,
+      "num": 147769,
+      "word": "他就摸了一下魔方就复原了",
+      "onboard_time": 1777893860,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 144863,
@@ -1219,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138900,
+      "num": 138900,
+      "word": "游客拍到广西一秒天黑",
+      "onboard_time": 1777891999,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138614,
       "num": 138614,
       "word": "1300元的机票跌到400元",
       "onboard_time": 1777815022,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136873,
+      "num": 136873,
+      "word": "郑怡静为所有女性运动员发声",
+      "onboard_time": 1777893081,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 136339,
@@ -1337,14 +1481,6 @@
       "onboard_time": 1777855400,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124315,
-      "num": 213962,
-      "word": "佳偶天成",
-      "onboard_time": 1777890441,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 123758,
@@ -1691,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41948,
+      "num": 441033,
+      "word": "著名法学家王连昌逝世",
+      "onboard_time": 1777894880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40668,
       "num": 68342,
       "word": "林诗栋1比3卡尔伯格",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1777841953,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15788,
+      "num": 638650,
+      "word": "他们的青春闪闪发光",
+      "onboard_time": 1777878980,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5034,

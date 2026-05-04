@@ -1,0 +1,410 @@
+{
+  "runTime": 1777895864631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 591472,
+        "num": 1094635,
+        "word": "中国向联合国发出警告",
+        "onboard_time": 1777888461,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249004,
+        "num": 788597,
+        "word": "有人花300多元买28斤榴莲",
+        "onboard_time": 1777891999,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15788,
+        "num": 638650,
+        "word": "他们的青春闪闪发光",
+        "onboard_time": 1777878980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 447597,
+        "num": 570122,
+        "word": "Gr对战MRC",
+        "onboard_time": 1777889421,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 349438,
+        "num": 525762,
+        "word": "伊朗向美军舰发射导弹",
+        "onboard_time": 1777891581,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1549994,
+        "num": 525508,
+        "word": "辽宁丹东交通事故已致8人死亡",
+        "onboard_time": 1777889479,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 518863,
+        "num": 518863,
+        "word": "突然意识到开封就是开封的意思",
+        "onboard_time": 1777879642,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 510820,
+        "num": 510820,
+        "word": "台湾同胞被这首大陆歌曲震撼到流泪",
+        "onboard_time": 1777890860,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479472,
+        "num": 479472,
+        "word": "大时代",
+        "onboard_time": 1777895061,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236358,
+        "num": 475831,
+        "word": "中国女团vs波兰",
+        "onboard_time": 1777893982,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4908436,
+        "num": 472863,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4560498,
+        "num": 469797,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1511330,
+        "num": 463523,
+        "word": "难听",
+        "onboard_time": 1777895661,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 943015,
+        "num": 460294,
+        "word": "红果回应VIP付费",
+        "onboard_time": 1777885579,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 753795,
+        "num": 458243,
+        "word": "马嘉祺破音",
+        "onboard_time": 1777895481,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264322,
+        "num": 452205,
+        "word": "邮轮暴发致命病毒靠港求医遭拒",
+        "onboard_time": 1777887441,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207792,
+        "num": 451196,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1777882581,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447525,
+        "num": 447525,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1777889602,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 730005,
+        "num": 444029,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1777895241,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41948,
+        "num": 441033,
+        "word": "著名法学家王连昌逝世",
+        "onboard_time": 1777894880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567441,
+        "num": 439040,
+        "word": "浏阳一烟花厂发生爆炸",
+        "onboard_time": 1777892961,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 632932,
+        "num": 432082,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562610,
+        "num": 427132,
+        "word": "强烈建议大家去狂刷考公综艺",
+        "onboard_time": 1777877602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482293,
+        "num": 422125,
+        "word": "豆包 笨还收费",
+        "onboard_time": 1777879581,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 477728,
+        "num": 421284,
+        "word": "莫雷加德认证樊振东定海神针",
+        "onboard_time": 1777884019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417868,
+        "num": 417868,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777894639,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324036,
+        "num": 324036,
+        "word": "于正看短剧Enemy看哭了",
+        "onboard_time": 1777893982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280590,
+        "num": 280590,
+        "word": "800一晚老式宾馆年轻人五一抢着住",
+        "onboard_time": 1777886840,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289804,
+        "num": 279728,
+        "word": "张翅 音乐节",
+        "onboard_time": 1777889120,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251844,
+        "num": 276196,
+        "word": "国内油价将迎调整",
+        "onboard_time": 1777893860,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273979,
+        "num": 273979,
+        "word": "豆包把付费说的如此清新脱俗",
+        "onboard_time": 1777880960,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268476,
+        "num": 268476,
+        "word": "韦雪怒斥小三",
+        "onboard_time": 1777876522,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208618,
+        "num": 208618,
+        "word": "豆包错误率",
+        "onboard_time": 1777882340,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204484,
+        "num": 204484,
+        "word": "女子搭网约车强抢方向盘酿车祸",
+        "onboard_time": 1777874840,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199743,
+        "num": 199743,
+        "word": "低智商犯罪",
+        "onboard_time": 1777890381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188266,
+        "num": 188266,
+        "word": "金价又又又跌了",
+        "onboard_time": 1777871660,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 186282,
+        "word": "佳偶天成",
+        "onboard_time": 1777890441,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179068,
+        "num": 179068,
+        "word": "现在谈恋爱才是赶上好时候了",
+        "onboard_time": 1777884919,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177235,
+        "num": 177235,
+        "word": "BABYMONSTER回归",
+        "onboard_time": 1777887441,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55896,
+        "num": 176378,
+        "word": "撒贝宁设宴款待妻子娘家人",
+        "onboard_time": 1777879459,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160880,
+        "num": 176325,
+        "word": "女顾客想要40码鞋反被男主播嘲讽",
+        "onboard_time": 1777887201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176322,
+        "num": 176322,
+        "word": "黄灿灿误入业主群",
+        "onboard_time": 1777887681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166939,
+        "num": 166939,
+        "word": "郭涛15岁女儿身高",
+        "onboard_time": 1777881801,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157984,
+        "num": 157984,
+        "word": "海拔5000米的雪山堵得人山人海",
+        "onboard_time": 1777893680,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158108,
+        "num": 157899,
+        "word": "关晓彤比耶转场",
+        "onboard_time": 1777886902,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153029,
+        "num": 153029,
+        "word": "在水中放毛巾是为方便小鸭们上岸",
+        "onboard_time": 1777891400,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151385,
+        "num": 151385,
+        "word": "二十七八岁什么感觉",
+        "onboard_time": 1777874659,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147769,
+        "num": 147769,
+        "word": "他就摸了一下魔方就复原了",
+        "onboard_time": 1777893860,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138900,
+        "num": 138900,
+        "word": "游客拍到广西一秒天黑",
+        "onboard_time": 1777891999,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 136873,
+        "word": "郑怡静为所有女性运动员发声",
+        "onboard_time": 1777893081,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
