@@ -1,0 +1,410 @@
+{
+  "runTime": 1777877291096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 22243077,
+        "num": 22243077,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486034,
+        "num": 2211065,
+        "word": "女子搭网约车强抢方向盘酿车祸",
+        "onboard_time": 1777874840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14571,
+        "num": 1820224,
+        "word": "心有热爱永远正值青春",
+        "onboard_time": 1777864341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733884,
+        "num": 733884,
+        "word": "二十七八岁什么感觉",
+        "onboard_time": 1777874659,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 705574,
+        "num": 705574,
+        "word": "用烧烤签给狗撸串顾客账号已私密",
+        "onboard_time": 1777864820,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 553306,
+        "num": 553306,
+        "word": "高铁ABC座很暧昧",
+        "onboard_time": 1777866319,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549190,
+        "num": 549190,
+        "word": "布洛芬头一回累晕菜了",
+        "onboard_time": 1777868059,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311978,
+        "num": 311978,
+        "word": "余额宝收益率破1是什么情况",
+        "onboard_time": 1777869140,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293278,
+        "num": 293278,
+        "word": "央视五四晚会官宣",
+        "onboard_time": 1777876041,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139154,
+        "num": 293081,
+        "word": "种地吧",
+        "onboard_time": 1777868180,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721944,
+        "num": 291030,
+        "word": "金价又又又跌了",
+        "onboard_time": 1777871660,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512252,
+        "num": 289468,
+        "word": "张凌赫田曦薇 妇唱夫随",
+        "onboard_time": 1777875740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396216,
+        "num": 288742,
+        "word": "王安宇吃火锅被问是大学生吗",
+        "onboard_time": 1777867280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348223,
+        "num": 286798,
+        "word": "前男友香辣蟹",
+        "onboard_time": 1777862780,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374241,
+        "num": 285371,
+        "word": "阚清子和老公机场出发",
+        "onboard_time": 1777874300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134627,
+        "num": 284086,
+        "word": "宋亚轩雨中孤雏彩排",
+        "onboard_time": 1777876821,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284257,
+        "num": 282621,
+        "word": "如何证明桃花源里的人都是近亲结婚",
+        "onboard_time": 1777868840,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312952,
+        "num": 281572,
+        "word": "李飞头像是暴打老板",
+        "onboard_time": 1777874840,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297177,
+        "num": 281070,
+        "word": "19岁石头身高已达185cm",
+        "onboard_time": 1777873040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282381,
+        "num": 279166,
+        "word": "五一排队现状",
+        "onboard_time": 1777863739,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 277933,
+        "word": "田曦薇你好威风啊",
+        "onboard_time": 1777875500,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116430,
+        "num": 275804,
+        "word": "鹿晗的狗狗馒头9岁了",
+        "onboard_time": 1777874781,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50116,
+        "num": 274969,
+        "word": "公司引进AI后将员工降薪裁员",
+        "onboard_time": 1777852938,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100054,
+        "num": 273174,
+        "word": "此沙古装披发",
+        "onboard_time": 1777872439,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174194,
+        "num": 271915,
+        "word": "小米大涨超10%",
+        "onboard_time": 1777870040,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 271287,
+        "word": "穆祉丞太湖湾音乐节应援排面",
+        "onboard_time": 1777856598,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1409865,
+        "num": 269404,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620805,
+        "num": 268467,
+        "word": "余意曝陈昊宇私会她男友",
+        "onboard_time": 1777859780,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173578,
+        "num": 266911,
+        "word": "对阵瑞典已是国乒能排出的最强阵容",
+        "onboard_time": 1777874179,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146411,
+        "num": 266187,
+        "word": "国乒淘汰赛签表",
+        "onboard_time": 1777855100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270823,
+        "num": 264423,
+        "word": "方圆自曝与网红合拍不给合作费",
+        "onboard_time": 1777876282,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249156,
+        "num": 263251,
+        "word": "狗狗未牵绳被碾压主人当场崩溃",
+        "onboard_time": 1777865659,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456925,
+        "num": 262124,
+        "word": "新人演员余意指控陈昊宇惯三",
+        "onboard_time": 1777861279,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262352,
+        "num": 260049,
+        "word": "王一博未来我来MV",
+        "onboard_time": 1777871660,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261182,
+        "num": 258447,
+        "word": "女生解释为什么不考家附近的大学",
+        "onboard_time": 1777875260,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232349,
+        "num": 258157,
+        "word": "天庭三大反骨仔去寂静岭",
+        "onboard_time": 1777873160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219312,
+        "num": 255793,
+        "word": "韦雪怒斥小三",
+        "onboard_time": 1777876522,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190161,
+        "num": 254634,
+        "word": "日本几乎已无巢鸭监狱痕迹",
+        "onboard_time": 1777872021,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181059,
+        "num": 253392,
+        "word": "夫妻接连下水救子父亲身亡",
+        "onboard_time": 1777869859,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134425,
+        "num": 251826,
+        "word": "敦煌鸣沙山爆满游客发声",
+        "onboard_time": 1777876342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160784,
+        "num": 250693,
+        "word": "大冰谈遇到讨厌的人该怎么做",
+        "onboard_time": 1777871060,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160444,
+        "num": 250119,
+        "word": "我将全职在家研究前男友香辣蟹",
+        "onboard_time": 1777871181,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127041,
+        "num": 247588,
+        "word": "马龙夏露自费飞赴伦敦支持国乒",
+        "onboard_time": 1777858939,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118766,
+        "num": 246563,
+        "word": "王源入选伯克利杰出校友",
+        "onboard_time": 1777877242,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 244809,
+        "word": "榴莲山竹冰",
+        "onboard_time": 1777867459,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15896,
+        "num": 244589,
+        "word": "东风日产NX8丹麦见证国羽巅峰",
+        "onboard_time": 1777863859,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 5996,
+        "num": 242165,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1327,
+        "num": 241703,
+        "word": "支付宝把便利店搞成球迷流水席",
+        "onboard_time": 1777778001,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112503,
+        "num": 240029,
+        "word": "全网爆火的法拉利大叔来自杭州",
+        "onboard_time": 1777866679,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108888,
+        "num": 238767,
+        "word": "张柏芝疑食物中毒",
+        "onboard_time": 1777873881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

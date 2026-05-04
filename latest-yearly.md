@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 12:29:15
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 14:48:11
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 警方通报金晨事件（热度：22742360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9%23" target="weibo">
+豆包 付费（热度：22243077）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E7%A7%BB%E6%B0%91%E5%B1%80%23" target="weibo">
 张翰回应去移民局（热度：2365946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E5%8F%91%E7%BA%A2%E5%8C%85%E8%BF%98%E6%9C%89%E5%89%8D%E8%8F%9C%23" target="weibo">
-敖瑞鹏发红包还有前菜（热度：2362619）
 </a>
 </li>
 
