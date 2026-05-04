@@ -1,0 +1,410 @@
+{
+  "runTime": 1777853517529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421177,
+        "num": 1421177,
+        "word": "国乒男团2比3瑞典",
+        "onboard_time": 1777820724,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543622,
+        "num": 883147,
+        "word": "国乒",
+        "onboard_time": 1777823062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85386,
+        "num": 713517,
+        "word": "2026五一档总票房已破5亿",
+        "onboard_time": 1777814243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464286,
+        "num": 464286,
+        "word": "吴宜泽10比7墨菲",
+        "onboard_time": 1777851978,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164811,
+        "num": 429178,
+        "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
+        "onboard_time": 1777820841,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410536,
+        "num": 410536,
+        "word": "国羽汤杯卫冕",
+        "onboard_time": 1777848855,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392306,
+        "num": 410488,
+        "word": "黄灿灿 blackpink都没这么累",
+        "onboard_time": 1777815321,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226210,
+        "num": 409685,
+        "word": "周深追不上伴舞气笑了",
+        "onboard_time": 1777843514,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154044,
+        "num": 409232,
+        "word": "奶茶卖到188元一杯",
+        "onboard_time": 1777806501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34687,
+        "num": 408637,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 501552,
+        "num": 408234,
+        "word": "女子凌晨接到去世半年表弟来电",
+        "onboard_time": 1777803623,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407861,
+        "num": 407861,
+        "word": "追撞致女警身亡大学生打110求保护",
+        "onboard_time": 1777852517,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399731,
+        "num": 399731,
+        "word": "男子10岁溺水导致无精症无法生育",
+        "onboard_time": 1777852338,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317185,
+        "num": 317185,
+        "word": "刘国正谈国乒男团两连败",
+        "onboard_time": 1777852517,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284882,
+        "num": 284882,
+        "word": "这才是减脂餐的真正物价",
+        "onboard_time": 1777825339,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254455,
+        "num": 254455,
+        "word": "范丞丞 都给我出来",
+        "onboard_time": 1777810583,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216115,
+        "num": 253749,
+        "word": "国乒男团小组赛一胜两负",
+        "onboard_time": 1777823540,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196129,
+        "num": 252473,
+        "word": "白鹿被孟子义说挂相",
+        "onboard_time": 1777785379,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190128,
+        "num": 251103,
+        "word": "伊朗公布最新谈判方案",
+        "onboard_time": 1777831935,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5034,
+        "num": 250528,
+        "word": "支付宝把便利店搞成球迷流水席",
+        "onboard_time": 1777778001,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355580,
+        "num": 248274,
+        "word": "表达能力弱的人就该这样来练",
+        "onboard_time": 1777852517,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168544,
+        "num": 248039,
+        "word": "F1",
+        "onboard_time": 1777851918,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168151,
+        "num": 246075,
+        "word": "梁靖崑状态",
+        "onboard_time": 1777815683,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143721,
+        "num": 245669,
+        "word": "张雪机车德比斯退赛",
+        "onboard_time": 1777811002,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125630,
+        "num": 244265,
+        "word": "妻子频繁私发孩子照片给陌生男子",
+        "onboard_time": 1777811483,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123940,
+        "num": 242784,
+        "word": "林依晨说依赖另一半的人生不会快乐",
+        "onboard_time": 1777849696,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 241728,
+        "word": "佳偶天成 被剧名耽误",
+        "onboard_time": 1777810223,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119486,
+        "num": 239767,
+        "word": "伊朗退了一步",
+        "onboard_time": 1777818144,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118286,
+        "num": 239116,
+        "word": "王濛叫李小冉祖宗",
+        "onboard_time": 1777852820,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117214,
+        "num": 237238,
+        "word": "肖战大影节红毯",
+        "onboard_time": 1777843454,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105500,
+        "num": 236663,
+        "word": "国乒女团心系男团战况",
+        "onboard_time": 1777817785,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101559,
+        "num": 234971,
+        "word": "王楚钦满场救球看哭了",
+        "onboard_time": 1777853298,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100479,
+        "num": 233574,
+        "word": "顾客用烧烤签喂食宠物狗店主致歉",
+        "onboard_time": 1777815202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96205,
+        "num": 232126,
+        "word": "严浩翔爱和痛催促从幼稚变成熟",
+        "onboard_time": 1777850176,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95435,
+        "num": 231450,
+        "word": "2026年伦敦世乒赛",
+        "onboard_time": 1777833855,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95031,
+        "num": 229854,
+        "word": "警方回应博主取样河水后被半夜敲门",
+        "onboard_time": 1777815503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92261,
+        "num": 228656,
+        "word": "孔苑苑肺炎就医次日左肺已全白",
+        "onboard_time": 1777823302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91466,
+        "num": 227667,
+        "word": "猫妈妈把小猫舔得干干净净",
+        "onboard_time": 1777853239,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88619,
+        "num": 225714,
+        "word": "以色列这次真的紧张了",
+        "onboard_time": 1777820665,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85230,
+        "num": 224601,
+        "word": "邓超孙俪给小花的12岁礼物",
+        "onboard_time": 1777852638,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82195,
+        "num": 223324,
+        "word": "单依纯草莓音乐节",
+        "onboard_time": 1777822882,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76195,
+        "num": 222128,
+        "word": "国务院安委会派出明查暗访组",
+        "onboard_time": 1777852938,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79809,
+        "num": 221652,
+        "word": "范丞丞妈妈71岁状态",
+        "onboard_time": 1777810883,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73269,
+        "num": 219970,
+        "word": "谈没谈过恋爱一眼就能看出来",
+        "onboard_time": 1777802599,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81269,
+        "num": 219078,
+        "word": "孙俪邓超为女儿织围巾",
+        "onboard_time": 1777814961,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71099,
+        "num": 217258,
+        "word": "严浩翔新歌",
+        "onboard_time": 1777825998,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68305,
+        "num": 216140,
+        "word": "王皓安抚王楚钦",
+        "onboard_time": 1777816343,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64548,
+        "num": 214923,
+        "word": "这届年轻人的顶级心态",
+        "onboard_time": 1777853478,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47982,
+        "num": 214194,
+        "word": "公司引进AI后将员工降薪裁员",
+        "onboard_time": 1777852938,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64457,
+        "num": 212467,
+        "word": "李晓旭退役",
+        "onboard_time": 1777817785,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族青年致以节日祝贺#"
+    }
+  }
+}
