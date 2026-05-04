@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/05 02:22:22
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/05 03:04:51
 </p>
 </blockquote>
 <p>
@@ -3165,6 +3165,12 @@ AG确认挑杯八强（热度：53743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
+浏阳烟花厂爆炸救援仍在进行（热度：43801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%93%9D%E5%88%80%E9%B1%BC%E9%A3%8E%E6%9A%B4%E8%A7%92%E6%9A%B4%E9%A3%8E%E9%9B%A8%E7%9E%AC%E9%97%B4%E5%A4%A9%E9%BB%91%23" target="weibo">
 广西蓝刀鱼风暴角暴风雨瞬间天黑（热度：43399）
 </a>
@@ -3225,6 +3231,12 @@ AG确认挑杯八强（热度：53743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
+美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：39616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%80%A1%E8%AE%AE%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%B8%A6%E5%A4%B4%E7%BC%B4%E7%89%A9%E4%B8%9A%E8%B4%B9%23" target="weibo">
 九江多地倡议公职人员带头缴物业费（热度：37889）
 </a>
@@ -3239,6 +3251,12 @@ AG确认挑杯八强（热度：53743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
 王者荣耀（热度：36622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E7%8E%89%E7%B1%B3%E6%96%87%E5%8C%96%E7%9B%98%E6%B4%BB%E5%A4%9A%E5%9C%B0%E7%BA%BF%E4%B8%8B%E6%B6%88%E8%B4%B9%23" target="weibo">
+甜玉米文化盘活多地线下消费（热度：35759）
 </a>
 </li>
 

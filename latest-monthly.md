@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 02:22:22
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 03:04:51
 </p>
 </blockquote>
 <p>
@@ -5949,6 +5949,12 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
+浏阳烟花厂爆炸救援仍在进行（热度：43801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%93%9D%E5%88%80%E9%B1%BC%E9%A3%8E%E6%9A%B4%E8%A7%92%E6%9A%B4%E9%A3%8E%E9%9B%A8%E7%9E%AC%E9%97%B4%E5%A4%A9%E9%BB%91%23" target="weibo">
 广西蓝刀鱼风暴角暴风雨瞬间天黑（热度：43399）
 </a>
@@ -6005,12 +6011,6 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2348%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%20%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E8%BD%AE%E6%A4%85%23" target="weibo">
 48小时手搓脑机接口 意念控制轮椅（热度：40406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E8%A7%81%E7%B2%89%E4%B8%9D%E6%B1%82%E5%A9%9A%E5%BD%93%E5%9C%BA%E9%80%81%E5%96%9C%E8%A2%AB%23" target="weibo">
-徐良见粉丝求婚当场送喜被（热度：40308）
 </a>
 </li>
 
