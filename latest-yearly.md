@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 15:34:13
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 17:29:00
 </p>
 </blockquote>
 <p>
@@ -521,6 +521,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 王楚钦vs张本智和（热度：7279878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CVIP%20%E4%BB%98%E8%B4%B9%23" target="weibo">
+红果VIP 付费（热度：7257476）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%9A%E5%AE%9E%E4%B8%80%E5%8F%A3%E9%81%93%E6%AD%89%23" target="weibo">
 诚实一口道歉（热度：2371127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%9B%9E%E5%BA%94%E5%8E%BB%E7%A7%BB%E6%B0%91%E5%B1%80%23" target="weibo">
-张翰回应去移民局（热度：2365946）
 </a>
 </li>
 
