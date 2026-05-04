@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/04 22:39:24
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/05 00:54:55
 </p>
 </blockquote>
 <p>
@@ -195,6 +195,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%87%A0%E7%99%BE%E6%96%A4%E7%9F%B3%E5%A4%B4%E8%A2%AB%E7%82%B8%E9%A3%9E%23" target="weibo">
+浏阳烟花厂爆炸几百斤石头被炸飞（热度：1361185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%8A%8A%E4%BB%98%E8%B4%B9%E8%AF%B4%E7%9A%84%E5%A6%82%E6%AD%A4%E6%B8%85%E6%96%B0%E8%84%B1%E4%BF%97%23" target="weibo">
 豆包把付费说的如此清新脱俗（热度：1350834）
 </a>
@@ -375,6 +381,12 @@ NPC小黄鱼互动改送簪花（热度：907018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%80%A5%E9%9C%80%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+国乒急需下一个樊振东王楚钦（热度：762945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%23" target="weibo">
 张婧仪高度近视（热度：740480）
 </a>
@@ -537,6 +549,12 @@ NPC小黄鱼互动改送簪花（热度：907018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B8%BB%E6%92%AD%E5%98%B2%E8%AE%BD%E5%A5%B3%E5%AD%9040%E7%A0%81%E9%9E%8B%E8%A2%AB%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D%23" target="weibo">
+男主播嘲讽女子40码鞋被永久除名（热度：610335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E7%A5%96%E5%A6%BB%E5%AD%90%E5%AE%A3%E5%B8%83%E5%A4%8D%E5%87%BA%23" target="weibo">
 吴彦祖妻子宣布复出（热度：608532）
 </a>
@@ -681,6 +699,12 @@ NPC小黄鱼互动改送簪花（热度：907018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%80%81%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%B1%E7%AF%AE%23" target="weibo">
+杨紫送谢娜演唱会花篮（热度：491481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B4%A4%E5%89%8D%E5%A5%B3%E5%8F%8BCoCo%E5%9B%9E%E5%BA%94%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%23" target="weibo">
 谢贤前女友CoCo回应分手原因（热度：491045）
 </a>
@@ -767,6 +791,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E6%AD%8C%E7%8E%B0%E5%9C%BA%23" target="weibo">
 严浩翔新歌现场（热度：453004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E8%8C%83%E7%8E%AE%E7%90%AA%E5%90%88%E7%85%A7%23" target="weibo">
+曾沛慈范玮琪合照（热度：448026）
 </a>
 </li>
 
@@ -941,6 +971,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%86%B9%E8%8F%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 绵阳知名主持人熹菲去世（热度：384252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
+留德男子多次迷奸女友并记录传播（热度：383407）
 </a>
 </li>
 
@@ -1227,6 +1263,12 @@ BABYMONSTER回归（热度：312056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
+第五人格（热度：310661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%A6%81%E6%89%93%E4%BB%97%23" target="weibo">
 日本自卫队要打仗（热度：307758）
 </a>
@@ -1341,6 +1383,18 @@ BABYMONSTER回归（热度：312056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%AE%A4%E5%B7%A8%E6%98%9F%23" target="weibo">
+卧室巨星（热度：288307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BA%94%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%B9%B6%E9%9D%9E%E4%B8%80%E4%B8%AA%E9%95%BF%E7%81%AF%E7%89%8C%23" target="weibo">
+宋亚轩回应你永远并非一个长灯牌（热度：287847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82%E5%BA%94%E6%8F%B4%E6%8E%92%E9%9D%A2%23" target="weibo">
 穆祉丞太湖湾音乐节应援排面（热度：286016）
 </a>
@@ -1443,8 +1497,20 @@ BABYMONSTER回归（热度：312056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%97%A5%23" target="weibo">
+红日（热度：254084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Met%20Gala%23" target="weibo">
 Met Gala（热度：253499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A2%A8%E8%8F%B2%23" target="weibo">
+吴宜泽vs墨菲（热度：252429）
 </a>
 </li>
 
@@ -1457,6 +1523,12 @@ Met Gala（热度：253499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%B8%8A%E5%9C%BA%23" target="weibo">
 王曼昱什么时候上场（热度：249520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%8B%BF%E9%81%93%E5%85%B7%E5%B8%83%E6%93%A6%E8%84%B8%E4%B8%8A%E7%9A%84%E9%9B%A8%23" target="weibo">
+刘耀文拿道具布擦脸上的雨（热度：249412）
 </a>
 </li>
 
@@ -1575,8 +1647,8 @@ Met Gala（热度：253499）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
-留德男子多次迷奸女友并记录传播（热度：227309）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%9A%84%E9%A5%AE%E7%94%A8%E6%B0%B4%E4%BA%A7%E5%9C%B0%E6%98%AF%E8%B7%AF%E8%BE%B9%23" target="weibo">
+飞机上的饮用水产地是路边（热度：228234）
 </a>
 </li>
 
@@ -2457,6 +2529,12 @@ DYG赛训（热度：146586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E4%BA%BA%E7%9A%84%E4%BA%BA%E6%B5%B73%E5%88%86%E9%92%9F%E8%AE%A9%E5%87%BA%E7%94%9F%E5%91%BD%E9%80%9A%E9%81%93%23" target="weibo">
+2万人的人海3分钟让出生命通道（热度：127071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23" target="weibo">
 误导女子闯入毒蛇窝AI道歉（热度：126341）
 </a>
@@ -2489,6 +2567,12 @@ DYG赛训（热度：146586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%86%B3%E8%B5%9B%E5%87%BB%E7%90%83%E6%97%B6%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD%23" target="weibo">
 吴宜泽决赛击球时遭抗议者打断（热度：125208）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B7%B2%E5%AF%B9%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E5%AE%9E%E6%96%BD%E7%AE%A1%E6%8E%A7%23" target="weibo">
+平台已对抢方向盘女子账号实施管控（热度：125082）
 </a>
 </li>
 
@@ -2667,6 +2751,12 @@ e人看完都窒息了（热度：115543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%23" target="weibo">
+泸定地震（热度：110284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%96%91%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23" target="weibo">
 张柏芝疑食物中毒（热度：108888）
 </a>
@@ -2787,12 +2877,6 @@ KPL抽签（热度：95800）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
-第五人格（热度：89241）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%89%8B%E8%87%82%E8%8D%86%E6%A3%98%E7%BA%B9%E8%BA%AB%23" target="weibo">
 张真源手臂荆棘纹身（热度：87776）
 </a>
@@ -2817,6 +2901,12 @@ KPL抽签（热度：95800）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%BB%99%E4%B8%81%E7%A8%8B%E9%91%AB%E6%92%91%E4%BC%9E%23" target="weibo">
+马嘉祺给丁程鑫撑伞（热度：83933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%AA%E6%9D%A5%E6%83%B3%E5%B0%9D%E8%AF%95%E8%AF%B4%E9%87%8D%E5%BA%86%E8%AF%9D%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
 肖战未来想尝试说重庆话的角色（热度：83395）
 </a>
@@ -2837,6 +2927,12 @@ KPL抽签（热度：95800）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E6%8A%8A%E4%BE%BF%E5%88%A9%E5%BA%97%E6%90%9E%E6%88%90%E7%90%83%E8%BF%B7%E6%B5%81%E6%B0%B4%E5%B8%AD%23" target="weibo">
 支付宝把便利店搞成球迷流水席（热度：80796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E9%9D%9E%E5%B8%B8%E5%9B%A2%E7%BB%93%23" target="weibo">
+孙颖莎说我们非常团结（热度：80112）
 </a>
 </li>
 
