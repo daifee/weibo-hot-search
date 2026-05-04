@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 03:04:51
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 04:23:23
 </p>
 </blockquote>
 <p>
@@ -5421,6 +5421,12 @@ AI手搓小黄人产生意识了（热度：90263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
+美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：83009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026F1%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
 2026F1迈阿密大奖赛（热度：82894）
 </a>
@@ -6005,12 +6011,6 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B1%E6%AF%943%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
 林诗栋1比3卡尔伯格（热度：40668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2348%E5%B0%8F%E6%97%B6%E6%89%8B%E6%90%93%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%20%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E8%BD%AE%E6%A4%85%23" target="weibo">
-48小时手搓脑机接口 意念控制轮椅（热度：40406）
 </a>
 </li>
 
