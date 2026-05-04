@@ -1,0 +1,410 @@
+{
+  "runTime": 1777866509134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 597774,
+        "num": 1095643,
+        "word": "国乒淘汰赛签表",
+        "onboard_time": 1777855100,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500404,
+        "num": 770614,
+        "word": "莫雷加德回应击败中国男团",
+        "onboard_time": 1777855100,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32240,
+        "num": 682513,
+        "word": "心有热爱永远正值青春",
+        "onboard_time": 1777864341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1169363,
+        "num": 674985,
+        "word": "前男友香辣蟹",
+        "onboard_time": 1777862780,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 663729,
+        "num": 663729,
+        "word": "五一排队现状",
+        "onboard_time": 1777863739,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347792,
+        "num": 347792,
+        "word": "王楚钦默默收冰袋细节看哭了",
+        "onboard_time": 1777862181,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332552,
+        "num": 332552,
+        "word": "小米大涨超8%",
+        "onboard_time": 1777865541,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201859,
+        "num": 325726,
+        "word": "黄灿灿 blackpink都没这么累",
+        "onboard_time": 1777815321,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161157,
+        "num": 304776,
+        "word": "周深追不上伴舞气笑了",
+        "onboard_time": 1777843514,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345851,
+        "num": 293623,
+        "word": "马龙夏露自费飞赴伦敦支持国乒",
+        "onboard_time": 1777858939,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395334,
+        "num": 280472,
+        "word": "孩子耍脾气反锁房门父亲拆掉房门",
+        "onboard_time": 1777864880,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268412,
+        "num": 268412,
+        "word": "用烧烤签给狗撸串顾客账号已私密",
+        "onboard_time": 1777864820,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255173,
+        "num": 255173,
+        "word": "穆祉丞太湖湾音乐节应援排面",
+        "onboard_time": 1777856598,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125494,
+        "num": 242442,
+        "word": "公司引进AI后将员工降薪裁员",
+        "onboard_time": 1777852938,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232082,
+        "num": 232082,
+        "word": "敦煌鸣沙山游客长满整座山",
+        "onboard_time": 1777857739,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221646,
+        "num": 221646,
+        "word": "男子10岁溺水导致无精症无法生育",
+        "onboard_time": 1777852338,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "肖战五一vlog",
+        "onboard_time": 1777859179,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200757,
+        "num": 200757,
+        "word": "国乒男团2比3瑞典",
+        "onboard_time": 1777820724,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194192,
+        "num": 194192,
+        "word": "曾舜晞说回家当然要穿正式点",
+        "onboard_time": 1777854498,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189193,
+        "num": 194187,
+        "word": "夫妻离婚均不愿抚养孩子法院不准离",
+        "onboard_time": 1777863980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2729810,
+        "num": 192885,
+        "word": "余意曝陈昊宇私会她男友",
+        "onboard_time": 1777859780,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2472691,
+        "num": 192065,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 190954,
+        "word": "顶级量化巨头员工人均年薪1800万",
+        "onboard_time": 1777862181,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254179,
+        "num": 190363,
+        "word": "邓超孙俪给小花的12岁礼物",
+        "onboard_time": 1777852638,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164680,
+        "num": 189609,
+        "word": "宁艺卓嘉人五月刊封面",
+        "onboard_time": 1777863140,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55944,
+        "num": 188229,
+        "word": "东风日产NX8丹麦见证国羽巅峰",
+        "onboard_time": 1777863859,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 619843,
+        "num": 187136,
+        "word": "新人演员余意指控陈昊宇惯三",
+        "onboard_time": 1777861279,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104621,
+        "num": 186903,
+        "word": "陈瑶练习照",
+        "onboard_time": 1777861579,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 185411,
+        "word": "狗狗未牵绳被碾压主人当场崩溃",
+        "onboard_time": 1777865659,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 184637,
+        "word": "猫妈妈把小猫舔得干干净净",
+        "onboard_time": 1777853239,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446452,
+        "num": 183937,
+        "word": "3天2位父亲为救娃遇难",
+        "onboard_time": 1777858578,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166954,
+        "num": 183376,
+        "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
+        "onboard_time": 1777820841,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165652,
+        "num": 182162,
+        "word": "哈登18分",
+        "onboard_time": 1777863140,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157701,
+        "num": 180805,
+        "word": "王濛叫李小冉祖宗",
+        "onboard_time": 1777865479,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149758,
+        "num": 180225,
+        "word": "刘国正谈国乒男团两连败",
+        "onboard_time": 1777852517,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 179702,
+        "word": "骑士vs猛龙",
+        "onboard_time": 1777860859,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142224,
+        "num": 178523,
+        "word": "东方卫视低智商犯罪",
+        "onboard_time": 1777860979,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 177840,
+        "word": "吴镇宇要谢依霖把自己洗干净",
+        "onboard_time": 1777866019,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125035,
+        "num": 176702,
+        "word": "甜玉米文化为多地文旅提供新思路",
+        "onboard_time": 1777855400,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101705,
+        "num": 176073,
+        "word": "关晓彤 红包",
+        "onboard_time": 1777865840,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76177,
+        "num": 174857,
+        "word": "阮经天遭陌生男子多次按门铃骚扰",
+        "onboard_time": 1777865479,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74060,
+        "num": 174265,
+        "word": "伊朗公布最新谈判方案",
+        "onboard_time": 1777831935,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9971,
+        "num": 173481,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1810,
+        "num": 172479,
+        "word": "支付宝把便利店搞成球迷流水席",
+        "onboard_time": 1777778001,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122163,
+        "num": 171311,
+        "word": "主理人回应奶茶188元一杯",
+        "onboard_time": 1777858999,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 170107,
+        "word": "这才是减脂餐的真正物价",
+        "onboard_time": 1777825339,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118065,
+        "num": 169526,
+        "word": "张本智和0比3F勒布伦",
+        "onboard_time": 1777862660,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117576,
+        "num": 168356,
+        "word": "高铁ABC座很暧昧",
+        "onboard_time": 1777866319,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109953,
+        "num": 167388,
+        "word": "4岁男童从11楼坠落奇迹生还",
+        "onboard_time": 1777866199,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107985,
+        "num": 167104,
+        "word": "吴宜泽10比7墨菲",
+        "onboard_time": 1777851978,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年建功正当其时#"
+    }
+  }
+}
