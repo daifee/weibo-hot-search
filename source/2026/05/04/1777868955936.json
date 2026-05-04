@@ -1,0 +1,410 @@
+{
+  "runTime": 1777868955936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895100,
+        "num": 1143216,
+        "word": "用烧烤签给狗撸串顾客账号已私密",
+        "onboard_time": 1777864820,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 474937,
+        "num": 825596,
+        "word": "国乒淘汰赛签表",
+        "onboard_time": 1777855100,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24381,
+        "num": 769890,
+        "word": "心有热爱永远正值青春",
+        "onboard_time": 1777864341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1285840,
+        "num": 747141,
+        "word": "高铁ABC座很暧昧",
+        "onboard_time": 1777866319,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 951978,
+        "num": 741298,
+        "word": "前男友香辣蟹",
+        "onboard_time": 1777862780,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 715590,
+        "num": 715590,
+        "word": "五一排队现状",
+        "onboard_time": 1777863739,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401465,
+        "num": 401465,
+        "word": "莫雷加德回应击败中国男团",
+        "onboard_time": 1777855100,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270758,
+        "num": 400681,
+        "word": "吴镇宇要谢依霖把自己洗干净",
+        "onboard_time": 1777866019,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231533,
+        "num": 398136,
+        "word": "种地吧",
+        "onboard_time": 1777868180,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117657,
+        "num": 397368,
+        "word": "公司引进AI后将员工降薪裁员",
+        "onboard_time": 1777852938,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424905,
+        "num": 394251,
+        "word": "王安宇吃火锅被问是大学生吗",
+        "onboard_time": 1777867280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404098,
+        "num": 392690,
+        "word": "孩子耍脾气反锁房门父亲拆掉房门",
+        "onboard_time": 1777864880,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286016,
+        "num": 390842,
+        "word": "穆祉丞太湖湾音乐节应援排面",
+        "onboard_time": 1777856598,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278400,
+        "num": 388371,
+        "word": "夫妻离婚均不愿抚养孩子法院不准离",
+        "onboard_time": 1777863980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272131,
+        "num": 386871,
+        "word": "马龙夏露自费飞赴伦敦支持国乒",
+        "onboard_time": 1777858939,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260754,
+        "num": 385761,
+        "word": "王楚钦默默收冰袋细节看哭了",
+        "onboard_time": 1777862181,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230931,
+        "num": 383683,
+        "word": "全网爆火的法拉利大叔来自杭州",
+        "onboard_time": 1777866679,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225118,
+        "num": 382116,
+        "word": "关晓彤 红包",
+        "onboard_time": 1777865840,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156112,
+        "num": 379938,
+        "word": "肖战五一vlog",
+        "onboard_time": 1777859179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106941,
+        "num": 377488,
+        "word": "现货黄金下破4600美元",
+        "onboard_time": 1777867640,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2772526,
+        "num": 376310,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1717164,
+        "num": 374328,
+        "word": "余意曝陈昊宇私会她男友",
+        "onboard_time": 1777859780,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 371052,
+        "word": "黄灿灿 blackpink都没这么累",
+        "onboard_time": 1777815321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82347,
+        "num": 370123,
+        "word": "文淇夏梦精灵",
+        "onboard_time": 1777867699,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98193,
+        "num": 368866,
+        "word": "顶级量化巨头员工人均年薪1800万",
+        "onboard_time": 1777862181,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179839,
+        "num": 367101,
+        "word": "邓超孙俪给小花的12岁礼物",
+        "onboard_time": 1777852638,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618773,
+        "num": 365209,
+        "word": "新人演员余意指控陈昊宇惯三",
+        "onboard_time": 1777861279,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441896,
+        "num": 362964,
+        "word": "小米大涨超8%",
+        "onboard_time": 1777865541,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117518,
+        "num": 361070,
+        "word": "周深追不上伴舞气笑了",
+        "onboard_time": 1777843514,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212302,
+        "num": 359139,
+        "word": "狗狗未牵绳被碾压主人当场崩溃",
+        "onboard_time": 1777865659,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34420,
+        "num": 356252,
+        "word": "东风日产NX8丹麦见证国羽巅峰",
+        "onboard_time": 1777863859,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 279248,
+        "num": 355411,
+        "word": "布洛芬头一回累晕菜了",
+        "onboard_time": 1777868059,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167900,
+        "num": 353754,
+        "word": "国乒男团2比3瑞典",
+        "onboard_time": 1777820724,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164622,
+        "num": 350951,
+        "word": "榴莲山竹冰",
+        "onboard_time": 1777867459,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162801,
+        "num": 349136,
+        "word": "敦煌鸣沙山游客长满整座山",
+        "onboard_time": 1777857739,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 346717,
+        "word": "哈登18分",
+        "onboard_time": 1777863140,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158329,
+        "num": 345958,
+        "word": "男子10岁溺水导致无精症无法生育",
+        "onboard_time": 1777852338,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128853,
+        "num": 343510,
+        "word": "宁艺卓嘉人五月刊封面",
+        "onboard_time": 1777863140,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 341171,
+        "word": "猫妈妈把小猫舔得干干净净",
+        "onboard_time": 1777853239,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125208,
+        "num": 340377,
+        "word": "吴宜泽决赛击球时遭抗议者打断",
+        "onboard_time": 1777866499,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 336734,
+        "word": "日本男团2比3法国",
+        "onboard_time": 1777859299,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 335342,
+        "word": "许昕赛前曾预判林诗栋状态",
+        "onboard_time": 1777866622,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119671,
+        "num": 333414,
+        "word": "曾舜晞说回家当然要穿正式点",
+        "onboard_time": 1777854498,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7953,
+        "num": 331850,
+        "word": "湖南广电 AI播新闻",
+        "onboard_time": 1777795999,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1798,
+        "num": 329424,
+        "word": "支付宝把便利店搞成球迷流水席",
+        "onboard_time": 1777778001,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116915,
+        "num": 327251,
+        "word": "张本智和0比3F勒布伦",
+        "onboard_time": 1777862660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116193,
+        "num": 327044,
+        "word": "4岁男童从11楼坠落奇迹生还",
+        "onboard_time": 1777866199,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113375,
+        "num": 324763,
+        "word": "王皓与王楚钦对视满是无奈与凝重",
+        "onboard_time": 1777860620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112129,
+        "num": 322109,
+        "word": "王濛叫李小冉祖宗",
+        "onboard_time": 1777865479,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108301,
+        "num": 319691,
+        "word": "如何证明桃花源里的人都是近亲结婚",
+        "onboard_time": 1777868840,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
