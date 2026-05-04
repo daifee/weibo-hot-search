@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777927684726,
+  "endTime": 1777932614322,
   "band_list": [
     {
       "raw_hot": 1468446,
@@ -17,6 +17,14 @@
       "onboard_time": 1777874061,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1369336,
+      "num": 1369336,
+      "word": "吴宜泽vs墨菲",
+      "onboard_time": 1777906283,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1361185,
@@ -171,14 +179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 252429,
-      "num": 450419,
-      "word": "吴宜泽vs墨菲",
-      "onboard_time": 1777906283,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249412,
       "num": 249412,
       "word": "刘耀文拿道具布擦脸上的雨",
@@ -307,6 +307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111398,
+      "num": 86153,
+      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
+      "onboard_time": 1777920076,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 110284,
       "num": 248285,
       "word": "泸定地震",
@@ -379,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83009,
-      "num": 86153,
-      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
-      "onboard_time": 1777920076,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
       "raw_hot": 81905,
       "num": 123684,
       "word": "iPhone18Pro渲染图再曝",
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70258,
+      "num": 86320,
+      "word": "浏阳烟花厂爆炸救援仍在进行",
+      "onboard_time": 1777920674,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 55852,
       "num": 123712,
       "word": "伊朗公布霍尔木兹海峡管控新范围",
@@ -435,12 +443,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43801,
-      "num": 86320,
-      "word": "浏阳烟花厂爆炸救援仍在进行",
-      "onboard_time": 1777920674,
-      "rank": 37,
-      "category": "突发/灾害"
+      "raw_hot": 48639,
+      "num": 41724,
+      "word": "墨菲反超吴宜泽",
+      "onboard_time": 1777931536,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41673,
+      "num": 41673,
+      "word": "EDG晋级伦敦大师赛",
+      "onboard_time": 1777929734,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 40308,
@@ -451,7 +467,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35759,
+      "raw_hot": 39604,
       "num": 85896,
       "word": "甜玉米文化盘活多地线下消费",
       "onboard_time": 1777920556,
@@ -459,16 +475,24 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 29164,
-      "num": 29164,
+      "raw_hot": 33400,
+      "num": 33400,
       "word": "孙颖莎铁血一单",
       "onboard_time": 1777922715,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 26035,
-      "num": 29001,
+      "raw_hot": 28956,
+      "num": 33086,
+      "word": "低智商犯罪热度",
+      "onboard_time": 1777929073,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27422,
+      "num": 33066,
       "word": "零次 年锦值得一个冠军",
       "onboard_time": 1777922054,
       "rank": 44,
@@ -483,8 +507,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1092,
-      "num": 61102,
+      "raw_hot": 1961,
+      "num": 68000,
       "word": "支付宝把便利店搞成球迷流水席",
       "onboard_time": 1777778001,
       "rank": 9,

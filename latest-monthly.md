@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 04:48:04
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 06:10:14
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E8%AF%B41200%E4%B8%87%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%A4%9F%E7%94%B5%E5%BD%B1%E9%99%A2%E6%88%BF%E7%A7%9F%23" target="weibo">
 陈思诚说1200万票房不够电影院房租（热度：1374651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A2%A8%E8%8F%B2%23" target="weibo">
+吴宜泽vs墨菲（热度：1369336）
 </a>
 </li>
 
@@ -2817,12 +2823,6 @@ Met Gala（热度：253499）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A2%A8%E8%8F%B2%23" target="weibo">
-吴宜泽vs墨菲（热度：252429）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E7%9C%81%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%B1%9E%E6%97%A9%E9%A4%90%23" target="weibo">
 每个省都有自己的专属早餐（热度：251364）
 </a>
@@ -5049,6 +5049,12 @@ TTG挑杯淘汰（热度：112582）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
+美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：111398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%B8%B8%E5%81%9C%E8%BD%A6%E8%A2%AB%E4%BA%BA%E7%94%A8%E9%BB%91%E8%83%B6%E5%B8%83%E6%94%B9%E8%BD%A6%E7%89%8C%23" target="weibo">
 正常停车被人用黑胶布改车牌（热度：110321）
 </a>
@@ -5421,12 +5427,6 @@ AI手搓小黄人产生意识了（热度：90263）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
-美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：83009）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232026F1%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
 2026F1迈阿密大奖赛（热度：82894）
 </a>
@@ -5597,6 +5597,12 @@ KPL（热度：70905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E4%B8%8B%E4%BB%A4%E4%BB%8E%E5%BE%B7%E5%9B%BD%E6%92%A4%E5%87%BA5000%E5%90%8D%E9%A9%BB%E5%86%9B%23" target="weibo">
 美防长下令从德国撤出5000名驻军（热度：70575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
+浏阳烟花厂爆炸救援仍在进行（热度：70258）
 </a>
 </li>
 
@@ -5901,6 +5907,12 @@ AG确认挑杯八强（热度：53743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%8F%B2%E5%8F%8D%E8%B6%85%E5%90%B4%E5%AE%9C%E6%B3%BD%23" target="weibo">
+墨菲反超吴宜泽（热度：48639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%9C%9D%E9%98%B3%E7%A1%AE%E5%AE%9A%E4%B8%8D%E4%BC%9A%E5%8F%82%E4%B8%8E%E6%B5%AA%E5%A7%90%E5%90%8E%E7%BB%AD%E5%BD%95%E5%88%B6%23" target="weibo">
 洪朝阳确定不会参与浪姐后续录制（热度：47698）
 </a>
@@ -5955,12 +5967,6 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
-浏阳烟花厂爆炸救援仍在进行（热度：43801）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%93%9D%E5%88%80%E9%B1%BC%E9%A3%8E%E6%9A%B4%E8%A7%92%E6%9A%B4%E9%A3%8E%E9%9B%A8%E7%9E%AC%E9%97%B4%E5%A4%A9%E9%BB%91%23" target="weibo">
 广西蓝刀鱼风暴角暴风雨瞬间天黑（热度：43399）
 </a>
@@ -5997,20 +6003,14 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E6%99%8B%E7%BA%A7%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
+EDG晋级伦敦大师赛（热度：41673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%94%A8%E8%A1%A3%E6%9C%8D%E6%93%A6%E7%9C%BC%E6%B3%AA%23" target="weibo">
 严浩翔用衣服擦眼泪（热度：41194）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E4%BC%A6%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
-国乒男团伦敦世乒赛开门红（热度：41121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B1%E6%AF%943%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
-林诗栋1比3卡尔伯格（热度：40668）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/05 00:54:55 ~ 2026/05/05 04:48:04
+本榜单时间：2026/05/05 00:54:55 ~ 2026/05/05 06:10:14
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9%23" target="weibo">
 豆包 付费（热度：1413849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A2%A8%E8%8F%B2%23" target="weibo">
+吴宜泽vs墨菲（热度：1369336）
 </a>
 </li>
 
@@ -141,12 +147,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E5%A2%A8%E8%8F%B2%23" target="weibo">
-吴宜泽vs墨菲（热度：252429）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%8B%BF%E9%81%93%E5%85%B7%E5%B8%83%E6%93%A6%E8%84%B8%E4%B8%8A%E7%9A%84%E9%9B%A8%23" target="weibo">
 刘耀文拿道具布擦脸上的雨（热度：249412）
 </a>
@@ -243,6 +243,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
+美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：111398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%23" target="weibo">
 泸定地震（热度：110284）
 </a>
@@ -297,12 +303,6 @@ a2婴儿奶粉检出呕吐毒素在美召回（热度：108266）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23" target="weibo">
-美舰在霍尔木兹海峡附近遭伊导弹攻击（热度：83009）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B8%B2%E6%9F%93%E5%9B%BE%E5%86%8D%E6%9B%9D%23" target="weibo">
 iPhone18Pro渲染图再曝（热度：81905）
 </a>
@@ -333,14 +333,26 @@ iPhone18Pro渲染图再曝（热度：81905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
+浏阳烟花厂爆炸救援仍在进行（热度：70258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%AE%A1%E6%8E%A7%E6%96%B0%E8%8C%83%E5%9B%B4%23" target="weibo">
 伊朗公布霍尔木兹海峡管控新范围（热度：55852）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23" target="weibo">
-浏阳烟花厂爆炸救援仍在进行（热度：43801）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%8F%B2%E5%8F%8D%E8%B6%85%E5%90%B4%E5%AE%9C%E6%B3%BD%23" target="weibo">
+墨菲反超吴宜泽（热度：48639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E6%99%8B%E7%BA%A7%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
+EDG晋级伦敦大师赛（热度：41673）
 </a>
 </li>
 
@@ -352,19 +364,25 @@ iPhone18Pro渲染图再曝（热度：81905）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E7%8E%89%E7%B1%B3%E6%96%87%E5%8C%96%E7%9B%98%E6%B4%BB%E5%A4%9A%E5%9C%B0%E7%BA%BF%E4%B8%8B%E6%B6%88%E8%B4%B9%23" target="weibo">
-甜玉米文化盘活多地线下消费（热度：35759）
+甜玉米文化盘活多地线下消费（热度：39604）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%81%E8%A1%80%E4%B8%80%E5%8D%95%23" target="weibo">
-孙颖莎铁血一单（热度：29164）
+孙颖莎铁血一单（热度：33400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%E7%83%AD%E5%BA%A6%23" target="weibo">
+低智商犯罪热度（热度：28956）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E6%AC%A1%20%E5%B9%B4%E9%94%A6%E5%80%BC%E5%BE%97%E4%B8%80%E4%B8%AA%E5%86%A0%E5%86%9B%23" target="weibo">
-零次 年锦值得一个冠军（热度：26035）
+零次 年锦值得一个冠军（热度：27422）
 </a>
 </li>
 
@@ -376,7 +394,7 @@ iPhone18Pro渲染图再曝（热度：81905）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E6%8A%8A%E4%BE%BF%E5%88%A9%E5%BA%97%E6%90%9E%E6%88%90%E7%90%83%E8%BF%B7%E6%B5%81%E6%B0%B4%E5%B8%AD%23" target="weibo">
-支付宝把便利店搞成球迷流水席（热度：1092）
+支付宝把便利店搞成球迷流水席（热度：1961）
 </a>
 </li>
 
