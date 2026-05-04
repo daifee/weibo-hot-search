@@ -1,0 +1,410 @@
+{
+  "runTime": 1777904343334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1702989,
+        "num": 1702989,
+        "word": "世乒赛",
+        "onboard_time": 1777899143,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1401194,
+        "num": 1401194,
+        "word": "浏阳烟花厂爆炸致3死25伤",
+        "onboard_time": 1777901542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21409,
+        "num": 1201706,
+        "word": "五一特色专列串起万里山河",
+        "onboard_time": 1777900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1097736,
+        "num": 1097736,
+        "word": "严浩翔solo",
+        "onboard_time": 1777899442,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 669030,
+        "num": 669030,
+        "word": "中国向联合国发出警告",
+        "onboard_time": 1777888461,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 898273,
+        "num": 658247,
+        "word": "马嘉祺破音",
+        "onboard_time": 1777895481,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 630763,
+        "num": 630763,
+        "word": "女子怀孕3个月确诊肺癌终止妊娠",
+        "onboard_time": 1777900402,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 402534,
+        "num": 402534,
+        "word": "宇树机器人在美买票坐飞机",
+        "onboard_time": 1777896202,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 391597,
+        "num": 391597,
+        "word": "孙颖莎vs巴约",
+        "onboard_time": 1777901422,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366673,
+        "num": 366673,
+        "word": "小时候感觉用杯子喝牛奶的都是主角",
+        "onboard_time": 1777903222,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3040575,
+        "num": 366653,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2937445,
+        "num": 366320,
+        "word": "难听",
+        "onboard_time": 1777895661,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2715356,
+        "num": 365866,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1094576,
+        "num": 365601,
+        "word": "浏阳烟花厂爆炸画面曝光烟柱冲百米",
+        "onboard_time": 1777901242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357456,
+        "num": 365127,
+        "word": "蒯曼1比3巴约",
+        "onboard_time": 1777900402,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514777,
+        "num": 364969,
+        "word": "香港酒店女子坠亡砸中女路人",
+        "onboard_time": 1777898422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443669,
+        "num": 364413,
+        "word": "红果回应VIP付费",
+        "onboard_time": 1777885579,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364306,
+        "num": 364306,
+        "word": "唐嫣演技",
+        "onboard_time": 1777901960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349750,
+        "num": 349750,
+        "word": "台湾同胞被这首大陆歌曲震撼到流泪",
+        "onboard_time": 1777890860,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353104,
+        "num": 349084,
+        "word": "a2婴儿奶粉检出呕吐毒素在美召回",
+        "onboard_time": 1777896862,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295676,
+        "num": 346430,
+        "word": "他就摸了一下魔方就复原了",
+        "onboard_time": 1777893860,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294369,
+        "num": 346162,
+        "word": "时代少年团演唱会下雨",
+        "onboard_time": 1777903162,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289878,
+        "num": 343620,
+        "word": "雨下一整晚",
+        "onboard_time": 1777903222,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285421,
+        "num": 341654,
+        "word": "国内油价将迎调整",
+        "onboard_time": 1777893860,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277790,
+        "num": 340213,
+        "word": "邮轮暴发致命病毒靠港求医遭拒",
+        "onboard_time": 1777887441,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231591,
+        "num": 339544,
+        "word": "800一晚老式宾馆年轻人五一抢着住",
+        "onboard_time": 1777886840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227586,
+        "num": 336654,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1777895241,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225676,
+        "num": 334586,
+        "word": "金价银价又大跌了",
+        "onboard_time": 1777903942,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222771,
+        "num": 333173,
+        "word": "突然意识到开封就是开封的意思",
+        "onboard_time": 1777879642,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208753,
+        "num": 331472,
+        "word": "店主回应女子200多元刮刮乐中100万",
+        "onboard_time": 1777901363,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201432,
+        "num": 330524,
+        "word": "有人花300多元买28斤榴莲",
+        "onboard_time": 1777891999,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189589,
+        "num": 329185,
+        "word": "贺峻霖solo",
+        "onboard_time": 1777900523,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188434,
+        "num": 327609,
+        "word": "豆包 笨还收费",
+        "onboard_time": 1777879581,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187207,
+        "num": 324817,
+        "word": "强烈建议大家去狂刷考公综艺",
+        "onboard_time": 1777877602,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 323178,
+        "word": "伊朗向美军舰发射导弹",
+        "onboard_time": 1777891581,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176751,
+        "num": 322329,
+        "word": "田曦薇演警察",
+        "onboard_time": 1777897822,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173120,
+        "num": 319567,
+        "word": "马嘉祺丁程鑫雨爱",
+        "onboard_time": 1777897882,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159100,
+        "num": 318415,
+        "word": "豆包把付费说的如此清新脱俗",
+        "onboard_time": 1777880960,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156730,
+        "num": 317365,
+        "word": "何洛洛直播",
+        "onboard_time": 1777901602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155861,
+        "num": 314214,
+        "word": "中国女团vs波兰",
+        "onboard_time": 1777893982,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148706,
+        "num": 312727,
+        "word": "于正看短剧Enemy看哭了",
+        "onboard_time": 1777893982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146624,
+        "num": 311721,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777894639,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145858,
+        "num": 309454,
+        "word": "女顾客想要40码鞋反被男主播嘲讽",
+        "onboard_time": 1777887201,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145368,
+        "num": 307712,
+        "word": "林依晨说妈妈完美孩子会变得无能",
+        "onboard_time": 1777899321,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37889,
+        "num": 306771,
+        "word": "九江多地倡议公职人员带头缴物业费",
+        "onboard_time": 1777903102,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134772,
+        "num": 305003,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129211,
+        "num": 303389,
+        "word": "五四晚会",
+        "onboard_time": 1777896862,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127948,
+        "num": 301198,
+        "word": "最不爱睡觉的国家举办睡觉大赛",
+        "onboard_time": 1777902082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123137,
+        "num": 299059,
+        "word": "郑钦文萨巴伦卡合练",
+        "onboard_time": 1777902682,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453004,
+        "num": 297351,
+        "word": "严浩翔新歌现场",
+        "onboard_time": 1777898901,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语新时代中国青年#"
+    }
+  }
+}
