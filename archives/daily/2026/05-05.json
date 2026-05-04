@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777913695537,
+  "endTime": 1777914757453,
   "band_list": [
     {
       "raw_hot": 1468446,
@@ -33,6 +33,14 @@
       "onboard_time": 1777884740,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1008342,
+      "num": 466799,
+      "word": "宋亚轩回应你永远并非一个长灯牌",
+      "onboard_time": 1777913179,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 890868,
@@ -91,7 +99,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383407,
+      "raw_hot": 428421,
       "num": 383407,
       "word": "留德男子多次迷奸女友并记录传播",
       "onboard_time": 1777904963,
@@ -147,14 +155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287847,
-      "num": 287847,
-      "word": "宋亚轩回应你永远并非一个长灯牌",
-      "onboard_time": 1777913179,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 268928,
       "num": 482782,
       "word": "中国向联合国发出警告",
@@ -195,12 +195,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225641,
+      "raw_hot": 227722,
       "num": 249406,
       "word": "父亲长期室内吸烟16岁女儿肺癌",
       "onboard_time": 1777904903,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187431,
+      "num": 187431,
+      "word": "贺峻霖唱劈你的雷正在路上",
+      "onboard_time": 1777913898,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 181046,
+      "num": 247540,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1777889602,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 160819,
@@ -259,20 +275,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127675,
+      "num": 248511,
+      "word": "平台已对抢方向盘女子账号实施管控",
+      "onboard_time": 1777911142,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127071,
       "num": 248569,
       "word": "2万人的人海3分钟让出生命通道",
       "onboard_time": 1777906103,
       "rank": 35,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 125082,
-      "num": 248511,
-      "word": "平台已对抢方向盘女子账号实施管控",
-      "onboard_time": 1777911142,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124356,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98036,
+      "num": 247786,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1777895241,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94607,
       "num": 248044,
       "word": "田曦薇演警察",
@@ -347,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84026,
-      "num": 247786,
-      "word": "穆祉丞音乐节",
-      "onboard_time": 1777895241,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 83933,
       "num": 247707,
       "word": "马嘉祺给丁程鑫撑伞",
@@ -363,12 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82712,
-      "num": 247540,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1777889602,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 81905,
+      "num": 93217,
+      "word": "iPhone18Pro渲染图再曝",
+      "onboard_time": 1777914558,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 80112,
@@ -393,6 +409,14 @@
       "onboard_time": 1777900402,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73987,
+      "num": 93114,
+      "word": "田曦薇拍的王骁",
+      "onboard_time": 1777908143,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15533,

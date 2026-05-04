@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 00:54:55
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 01:12:37
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 穆祉丞音乐节（热度：1018630）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BA%94%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%B9%B6%E9%9D%9E%E4%B8%80%E4%B8%AA%E9%95%BF%E7%81%AF%E7%89%8C%23" target="weibo">
+宋亚轩回应你永远并非一个长灯牌（热度：1008342）
 </a>
 </li>
 
@@ -1635,6 +1641,12 @@ aespa回归预告（热度：466795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
+留德男子多次迷奸女友并记录传播（热度：428421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE%E5%8D%B3%E5%94%AE%E7%BD%84%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 火车票开售即售罄的原因找到了（热度：425229）
 </a>
@@ -1811,12 +1823,6 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%86%B9%E8%8F%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 绵阳知名主持人熹菲去世（热度：384252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
-留德男子多次迷奸女友并记录传播（热度：383407）
 </a>
 </li>
 
@@ -2519,12 +2525,6 @@ BABYMONSTER回归（热度：312056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%AE%A4%E5%B7%A8%E6%98%9F%23" target="weibo">
 卧室巨星（热度：288307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BA%94%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%B9%B6%E9%9D%9E%E4%B8%80%E4%B8%AA%E9%95%BF%E7%81%AF%E7%89%8C%23" target="weibo">
-宋亚轩回应你永远并非一个长灯牌（热度：287847）
 </a>
 </li>
 
@@ -3527,6 +3527,12 @@ Jennie 妈咪降临（热度：200962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BE%93%E5%9C%A8%E4%BA%86%E8%BF%87%E4%BA%8E%E5%8A%AA%E5%8A%9B%23" target="weibo">
 白鹿输在了过于努力（热度：187521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%94%B1%E5%8A%88%E4%BD%A0%E7%9A%84%E9%9B%B7%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
+贺峻霖唱劈你的雷正在路上（热度：187431）
 </a>
 </li>
 
@@ -4653,6 +4659,12 @@ DYG赛训（热度：146586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B7%B2%E5%AF%B9%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E5%AE%9E%E6%96%BD%E7%AE%A1%E6%8E%A7%23" target="weibo">
+平台已对抢方向盘女子账号实施管控（热度：127675）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A8%E8%AF%B4%E4%BE%9D%E8%B5%96%E5%8F%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E4%BA%BA%E7%94%9F%E4%B8%8D%E4%BC%9A%E5%BF%AB%E4%B9%90%23" target="weibo">
 林依晨说依赖另一半的人生不会快乐（热度：127359）
 </a>
@@ -4715,12 +4727,6 @@ DYG赛训（热度：146586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%86%B3%E8%B5%9B%E5%87%BB%E7%90%83%E6%97%B6%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD%23" target="weibo">
 吴宜泽决赛击球时遭抗议者打断（热度：125208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B7%B2%E5%AF%B9%E6%8A%A2%E6%96%B9%E5%90%91%E7%9B%98%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E5%AE%9E%E6%96%BD%E7%AE%A1%E6%8E%A7%23" target="weibo">
-平台已对抢方向盘女子账号实施管控（热度：125082）
 </a>
 </li>
 
@@ -5445,6 +5451,12 @@ AI手搓小黄人产生意识了（热度：90263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B8%B2%E6%9F%93%E5%9B%BE%E5%86%8D%E6%9B%9D%23" target="weibo">
+iPhone18Pro渲染图再曝（热度：81905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%BF%9B%E5%85%A5%E5%B0%BC%E5%85%8B%E6%96%AF%E8%80%81%E9%B9%B0%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
 保罗进入尼克斯老鹰直播间（热度：81648）
 </a>
@@ -5537,6 +5549,12 @@ DeepSeek拟人 哇呀啧呜哇（热度：77076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E4%BA%94%E4%B8%80%E5%9D%90%E5%A4%A7%E5%B7%B4%E7%9C%9F%E9%A6%99%23" target="weibo">
 第一次觉得五一坐大巴真香（热度：74021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%8B%8D%E7%9A%84%E7%8E%8B%E9%AA%81%23" target="weibo">
+田曦薇拍的王骁（热度：73987）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%BB%BA%E5%B9%B3%E5%A5%97%E7%8E%B0%E5%AF%92%E6%AD%A6%E7%BA%AA%E8%B6%8540%E4%BA%BF%E5%85%83%23" target="weibo">
 章建平套现寒武纪超40亿元（热度：39770）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8A%A0%E6%B2%B9%23" target="weibo">
-王楚钦加油（热度：39707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%A6%88%E7%9C%BC%E9%87%8C%E6%B6%82%E6%8C%87%E7%94%B2%E6%B2%B9%E9%83%BD%E7%AE%97%E5%8B%BE%E5%BC%95%23" target="weibo">
-她妈眼里涂指甲油都算勾引（热度：38927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E6%88%91%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E4%BA%86%E7%88%B6%E4%BA%B2%23" target="weibo">
-时隔五年我用AI复活了父亲（热度：38511）
 </a>
 </li>
 
