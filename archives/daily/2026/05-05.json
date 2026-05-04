@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777914757453,
+  "endTime": 1777918942598,
   "band_list": [
     {
       "raw_hot": 1468446,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502665,
+      "num": 383407,
+      "word": "留德男子多次迷奸女友并记录传播",
+      "onboard_time": 1777904963,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492920,
       "num": 492920,
       "word": "女子怀孕3个月确诊肺癌终止妊娠",
@@ -97,14 +105,6 @@
       "onboard_time": 1777908861,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428421,
-      "num": 383407,
-      "word": "留德男子多次迷奸女友并记录传播",
-      "onboard_time": 1777904963,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312932,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 81905,
-      "num": 93217,
+      "num": 123684,
       "word": "iPhone18Pro渲染图再曝",
       "onboard_time": 1777914558,
       "rank": 44,
@@ -417,6 +417,22 @@
       "onboard_time": 1777908143,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55852,
+      "num": 123712,
+      "word": "伊朗公布霍尔木兹海峡管控新范围",
+      "onboard_time": 1777918276,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40308,
+      "num": 123612,
+      "word": "徐良见粉丝求婚当场送喜被",
+      "onboard_time": 1777916475,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 15533,

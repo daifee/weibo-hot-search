@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 01:12:37
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/05 02:22:22
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ labubu冰箱秒空（热度：542013）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
+留德男子多次迷奸女友并记录传播（热度：502665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E5%9B%9E%E5%BA%94%E5%87%BB%E8%B4%A5%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2%23" target="weibo">
 莫雷加德回应击败中国男团（热度：500404）
 </a>
@@ -1637,12 +1643,6 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3%E4%B8%8D%E8%B6%B3%23" target="weibo">
 张继科说国乒男队技术迭代不足（热度：428901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%BE%B7%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%E5%B9%B6%E8%AE%B0%E5%BD%95%E4%BC%A0%E6%92%AD%23" target="weibo">
-留德男子多次迷奸女友并记录传播（热度：428421）
 </a>
 </li>
 
@@ -5763,6 +5763,12 @@ DeepSeek梦话大赏（热度：59103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%AE%A1%E6%8E%A7%E6%96%B0%E8%8C%83%E5%9B%B4%23" target="weibo">
+伊朗公布霍尔木兹海峡管控新范围（热度：55852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%80%E6%96%B0%E6%89%93%E5%87%BB%E8%AE%A1%E5%88%92%23" target="weibo">
 美媒曝美军对伊朗最新打击计划（热度：55850）
 </a>
@@ -6003,14 +6009,8 @@ Claude画的DeepSeek蓝胖鱼（热度：47236）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%B0%B1%E8%AF%A5%E8%AE%A9%E5%8D%83%E9%97%AEAI%E5%8A%B3%E5%8A%A8%23" target="weibo">
-五一就该让千问AI劳动（热度：39868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%BB%BA%E5%B9%B3%E5%A5%97%E7%8E%B0%E5%AF%92%E6%AD%A6%E7%BA%AA%E8%B6%8540%E4%BA%BF%E5%85%83%23" target="weibo">
-章建平套现寒武纪超40亿元（热度：39770）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E8%A7%81%E7%B2%89%E4%B8%9D%E6%B1%82%E5%A9%9A%E5%BD%93%E5%9C%BA%E9%80%81%E5%96%9C%E8%A2%AB%23" target="weibo">
+徐良见粉丝求婚当场送喜被（热度：40308）
 </a>
 </li>
 

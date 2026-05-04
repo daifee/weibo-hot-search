@@ -1,0 +1,410 @@
+{
+  "runTime": 1777918942598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 373538,
+        "num": 379818,
+        "word": "国乒急需下一个樊振东王楚钦",
+        "onboard_time": 1777907244,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306810,
+        "num": 306810,
+        "word": "小时候感觉用杯子喝牛奶的都是主角",
+        "onboard_time": 1777903222,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10693,
+        "num": 220391,
+        "word": "五一特色专列串起万里山河",
+        "onboard_time": 1777900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759872,
+        "num": 218312,
+        "word": "宋亚轩回应你永远并非一个长灯牌",
+        "onboard_time": 1777913179,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448177,
+        "num": 217892,
+        "word": "严浩翔哭了",
+        "onboard_time": 1777904423,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216032,
+        "num": 216032,
+        "word": "女子怀孕3个月确诊肺癌终止妊娠",
+        "onboard_time": 1777900402,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145267,
+        "num": 145267,
+        "word": "终于懂了朝花夕拾的力量",
+        "onboard_time": 1777904364,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131027,
+        "num": 145119,
+        "word": "中国向联合国发出警告",
+        "onboard_time": 1777888461,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106027,
+        "num": 145108,
+        "word": "世乒赛",
+        "onboard_time": 1777899143,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71894,
+        "num": 144817,
+        "word": "宇树机器人在美买票坐飞机",
+        "onboard_time": 1777896202,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 592448,
+        "num": 144729,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 543961,
+        "num": 144487,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 502665,
+        "num": 144380,
+        "word": "留德男子多次迷奸女友并记录传播",
+        "onboard_time": 1777904963,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308280,
+        "num": 144191,
+        "word": "难听",
+        "onboard_time": 1777895661,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267640,
+        "num": 144022,
+        "word": "男主播嘲讽女子40码鞋被永久除名",
+        "onboard_time": 1777909581,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171326,
+        "num": 143868,
+        "word": "杨紫送谢娜演唱会花篮",
+        "onboard_time": 1777909161,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168746,
+        "num": 143838,
+        "word": "飞机上的饮用水产地是路边",
+        "onboard_time": 1777910421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147710,
+        "num": 143652,
+        "word": "曾沛慈范玮琪合照",
+        "onboard_time": 1777908861,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104735,
+        "num": 143472,
+        "word": "吴宜泽vs墨菲",
+        "onboard_time": 1777906283,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143381,
+        "num": 143381,
+        "word": "香港酒店女子坠亡砸中女路人",
+        "onboard_time": 1777898422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147584,
+        "num": 143309,
+        "word": "第五人格",
+        "onboard_time": 1777912341,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135061,
+        "num": 135061,
+        "word": "马嘉祺破音",
+        "onboard_time": 1777895481,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130417,
+        "num": 130417,
+        "word": "金价银价又大跌了",
+        "onboard_time": 1777903942,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123743,
+        "num": 123743,
+        "word": "父亲长期室内吸烟16岁女儿肺癌",
+        "onboard_time": 1777904903,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96863,
+        "num": 123739,
+        "word": "贺峻霖唱劈你的雷正在路上",
+        "onboard_time": 1777913898,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84932,
+        "num": 123736,
+        "word": "刘耀文拿道具布擦脸上的雨",
+        "onboard_time": 1777910481,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83157,
+        "num": 123728,
+        "word": "红日",
+        "onboard_time": 1777905745,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82257,
+        "num": 123726,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1777889602,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66955,
+        "num": 123716,
+        "word": "他就摸了一下魔方就复原了",
+        "onboard_time": 1777893860,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55852,
+        "num": 123712,
+        "word": "伊朗公布霍尔木兹海峡管控新范围",
+        "onboard_time": 1777918276,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82221,
+        "num": 123705,
+        "word": "卧室巨星",
+        "onboard_time": 1777907423,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81142,
+        "num": 123699,
+        "word": "邮轮暴发致命病毒靠港求医遭拒",
+        "onboard_time": 1777887441,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79998,
+        "num": 123696,
+        "word": "唐嫣演技",
+        "onboard_time": 1777901960,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77184,
+        "num": 123692,
+        "word": "平台已对抢方向盘女子账号实施管控",
+        "onboard_time": 1777911142,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73890,
+        "num": 123684,
+        "word": "iPhone18Pro渲染图再曝",
+        "onboard_time": 1777914558,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71200,
+        "num": 123675,
+        "word": "800一晚老式宾馆年轻人五一抢着住",
+        "onboard_time": 1777886840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62907,
+        "num": 123672,
+        "word": "红果回应VIP付费",
+        "onboard_time": 1777885579,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57817,
+        "num": 123667,
+        "word": "2万人的人海3分钟让出生命通道",
+        "onboard_time": 1777906103,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 57155,
+        "num": 123662,
+        "word": "国内油价将迎调整",
+        "onboard_time": 1777893860,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56845,
+        "num": 123656,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1777895241,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54778,
+        "num": 123649,
+        "word": "泸定地震",
+        "onboard_time": 1777908202,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54059,
+        "num": 123642,
+        "word": "台湾同胞被这首大陆歌曲震撼到流泪",
+        "onboard_time": 1777890860,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51973,
+        "num": 123635,
+        "word": "伊朗向美军舰发射导弹",
+        "onboard_time": 1777891581,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51871,
+        "num": 123634,
+        "word": "店主回应女子200多元刮刮乐中100万",
+        "onboard_time": 1777901363,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51528,
+        "num": 123625,
+        "word": "田曦薇演警察",
+        "onboard_time": 1777897822,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49514,
+        "num": 123623,
+        "word": "a2婴儿奶粉检出呕吐毒素在美召回",
+        "onboard_time": 1777896862,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42311,
+        "num": 123617,
+        "word": "严浩翔新歌现场",
+        "onboard_time": 1777898901,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40308,
+        "num": 123612,
+        "word": "徐良见粉丝求婚当场送喜被",
+        "onboard_time": 1777916475,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39258,
+        "num": 123601,
+        "word": "蒯曼1比3巴约",
+        "onboard_time": 1777900402,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52908,
+        "num": 123596,
+        "word": "于正看短剧Enemy看哭了",
+        "onboard_time": 1777893982,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
