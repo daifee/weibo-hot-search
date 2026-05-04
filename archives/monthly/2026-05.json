@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777904343334,
+  "endTime": 1777905564945,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8247566,
+      "num": 1225637,
+      "word": "严浩翔哭了",
+      "onboard_time": 1777731983,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 7257476,
       "num": 7257476,
       "word": "红果VIP 付费",
       "onboard_time": 1777884740,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 7018192,
-      "num": 1020452,
-      "word": "严浩翔哭了",
-      "onboard_time": 1777731983,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 6463220,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1401194,
-      "num": 1401194,
+      "num": 1552860,
       "word": "浏阳烟花厂爆炸致3死25伤",
       "onboard_time": 1777901542,
       "rank": 1,
@@ -1211,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 674004,
+      "num": 674004,
+      "word": "小时候感觉用杯子喝牛奶的都是主角",
+      "onboard_time": 1777903222,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 670938,
       "num": 1487839,
       "word": "张雪机车回应再次夺冠",
@@ -1635,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 538757,
+      "num": 418206,
+      "word": "香港酒店女子坠亡砸中女路人",
+      "onboard_time": 1777898422,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536480,
       "num": 286599,
       "word": "孙杨点了八杯热茶",
@@ -1691,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 514777,
-      "num": 364969,
-      "word": "香港酒店女子坠亡砸中女路人",
-      "onboard_time": 1777898422,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 513953,
       "num": 329862,
       "word": "张凌赫田曦薇 妇唱夫随",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1777703840,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507318,
+      "num": 350228,
+      "word": "金价银价又大跌了",
+      "onboard_time": 1777903942,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 505986,
@@ -2131,6 +2147,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 417717,
+      "num": 459063,
+      "word": "邮轮暴发致命病毒靠港求医遭拒",
+      "onboard_time": 1777887441,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 416309,
+      "num": 416309,
+      "word": "唐嫣演技",
+      "onboard_time": 1777901960,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409346,
       "num": 792755,
       "word": "赖清德上演偷渡式外窜闹剧",
@@ -2164,7 +2196,7 @@
     },
     {
       "raw_hot": 402534,
-      "num": 402534,
+      "num": 491797,
       "word": "宇树机器人在美买票坐飞机",
       "onboard_time": 1777896202,
       "rank": 48,
@@ -2252,7 +2284,7 @@
     },
     {
       "raw_hot": 391597,
-      "num": 391597,
+      "num": 505312,
       "word": "孙颖莎vs巴约",
       "onboard_time": 1777901422,
       "rank": 8,
@@ -2427,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372977,
+      "num": 372977,
+      "word": "侯明昊",
+      "onboard_time": 1777904423,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369503,
       "num": 324128,
       "word": "跑男摄影师谈白鹿 身正不怕影子歪",
@@ -2443,12 +2483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366673,
-      "num": 366673,
-      "word": "小时候感觉用杯子喝牛奶的都是主角",
-      "onboard_time": 1777903222,
-      "rank": 9,
-      "category": "幽默"
+      "raw_hot": 366486,
+      "num": 366486,
+      "word": "时代少年团演唱会下雨",
+      "onboard_time": 1777903162,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 365683,
@@ -2465,14 +2505,6 @@
       "onboard_time": 1777772361,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 364306,
-      "num": 364306,
-      "word": "唐嫣演技",
-      "onboard_time": 1777901960,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 364293,
@@ -2521,14 +2553,6 @@
       "onboard_time": 1777891581,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 358150,
-      "num": 459063,
-      "word": "邮轮暴发致命病毒靠港求医遭拒",
-      "onboard_time": 1777887441,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 357456,
@@ -3043,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304845,
+      "num": 346430,
+      "word": "他就摸了一下魔方就复原了",
+      "onboard_time": 1777893860,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304594,
       "num": 510406,
       "word": "尤伯杯",
@@ -3123,28 +3155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295676,
-      "num": 346430,
-      "word": "他就摸了一下魔方就复原了",
-      "onboard_time": 1777893860,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295373,
       "num": 295373,
       "word": "王楚钦手磕到球台",
       "onboard_time": 1777811421,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294369,
-      "num": 346162,
-      "word": "时代少年团演唱会下雨",
-      "onboard_time": 1777903162,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 294293,
@@ -3771,6 +3787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 238565,
+      "num": 238565,
+      "word": "父亲长期室内吸烟16岁女儿肺癌",
+      "onboard_time": 1777904903,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238504,
       "num": 446873,
       "word": "eStar对战TCG",
@@ -3947,6 +3971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227309,
+      "num": 227309,
+      "word": "留德男子多次迷奸女友并记录传播",
+      "onboard_time": 1777904963,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226752,
       "num": 226752,
       "word": "女子吃榴莲后喝白酒呼吸衰竭",
@@ -3977,14 +4009,6 @@
       "onboard_time": 1777679297,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225676,
-      "num": 334586,
-      "word": "金价银价又大跌了",
-      "onboard_time": 1777903942,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 225632,
@@ -4169,6 +4193,14 @@
       "onboard_time": 1777784480,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212803,
+      "num": 329185,
+      "word": "贺峻霖solo",
+      "onboard_time": 1777900523,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 211440,
@@ -4531,14 +4563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189589,
-      "num": 329185,
-      "word": "贺峻霖solo",
-      "onboard_time": 1777900523,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188699,
       "num": 188699,
       "word": "李梦两部恐怖片破亿",
@@ -4833,6 +4857,14 @@
       "onboard_time": 1777770621,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175136,
+      "num": 175136,
+      "word": "马嘉祺solo好稳",
+      "onboard_time": 1777904604,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 174688,
@@ -5355,6 +5387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153939,
+      "num": 153939,
+      "word": "终于懂了朝花夕拾的力量",
+      "onboard_time": 1777904364,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153720,
       "num": 137055,
       "word": "万花世界简介只有鞠婧祎",
@@ -5729,6 +5769,14 @@
       "onboard_time": 1777778361,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137278,
+      "num": 137278,
+      "word": "刘耀文solo好带感",
+      "onboard_time": 1777900943,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 137111,
@@ -8075,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25208,
+      "num": 1366017,
+      "word": "五一特色专列串起万里山河",
+      "onboard_time": 1777900101,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25178,
       "num": 236664,
       "word": "全国多地机关大院免费停车",
@@ -8137,14 +8193,6 @@
       "onboard_time": 1777748654,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21409,
-      "num": 1201706,
-      "word": "五一特色专列串起万里山河",
-      "onboard_time": 1777900101,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21408,
@@ -8216,6 +8264,14 @@
       "word": "卖饼老板翻饼打出武侠绝学",
       "onboard_time": 1777798520,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16207,
+      "num": 307969,
+      "word": "厄尔尼诺最快初夏登场",
+      "onboard_time": 1777905203,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
