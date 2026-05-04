@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777895864631,
+  "endTime": 1777896797661,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 3511859,
-      "num": 463523,
+      "num": 706969,
       "word": "难听",
       "onboard_time": 1777643121,
       "rank": 11,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3041965,
+      "num": 681859,
+      "word": "马嘉祺破音",
+      "onboard_time": 1777895481,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2920436,
       "num": 308428,
       "word": "疑似严浩翔妈妈发博",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 2772526,
-      "num": 432082,
+      "num": 450144,
       "word": "白敬亭 宋轶",
       "onboard_time": 1777863859,
       "rank": 21,
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018630,
+      "num": 462870,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1777895241,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1003049,
       "num": 714045,
       "word": "湘西赶尸舞",
@@ -915,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 777565,
+      "num": 1530130,
+      "word": "大时代",
+      "onboard_time": 1777895061,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 773312,
       "num": 773312,
       "word": "这不叫堵车 这叫铺红地毯",
@@ -945,14 +969,6 @@
       "onboard_time": 1777603339,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753795,
-      "num": 458243,
-      "word": "马嘉祺破音",
-      "onboard_time": 1777895481,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 748488,
@@ -995,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 730005,
-      "num": 444029,
-      "word": "穆祉丞音乐节",
-      "onboard_time": 1777895241,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 728317,
       "num": 308719,
       "word": "肖战拍到了血月",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1777683918,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 726627,
+      "num": 1104966,
+      "word": "中国向联合国发出警告",
+      "onboard_time": 1777888461,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 724307,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1777802240,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 591472,
-      "num": 1094635,
-      "word": "中国向联合国发出警告",
-      "onboard_time": 1777888461,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 586019,
@@ -1787,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479472,
-      "num": 479472,
-      "word": "大时代",
-      "onboard_time": 1777895061,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 478060,
       "num": 302715,
       "word": "Angelababy的五月行程",
@@ -1825,6 +1825,30 @@
       "onboard_time": 1777548561,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473424,
+      "num": 473424,
+      "word": "磁铁",
+      "onboard_time": 1777896442,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 473395,
+      "num": 453407,
+      "word": "Gr超话",
+      "onboard_time": 1777896323,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 471448,
+      "num": 570122,
+      "word": "Gr对战MRC",
+      "onboard_time": 1777889421,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 470247,
@@ -1905,14 +1929,6 @@
       "onboard_time": 1777608079,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 447597,
-      "num": 570122,
-      "word": "Gr对战MRC",
-      "onboard_time": 1777889421,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 447525,
@@ -2411,6 +2427,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358270,
+      "num": 525762,
+      "word": "伊朗向美军舰发射导弹",
+      "onboard_time": 1777891581,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 358150,
+      "num": 459063,
+      "word": "邮轮暴发致命病毒靠港求医遭拒",
+      "onboard_time": 1777887441,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355867,
+      "num": 788597,
+      "word": "有人花300多元买28斤榴莲",
+      "onboard_time": 1777891999,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355645,
       "num": 314467,
       "word": "曝iPhone18Pro定价激进",
@@ -2465,14 +2505,6 @@
       "onboard_time": 1777568418,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349438,
-      "num": 525762,
-      "word": "伊朗向美军舰发射导弹",
-      "onboard_time": 1777891581,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347792,
@@ -2731,14 +2763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323739,
-      "num": 452205,
-      "word": "邮轮暴发致命病毒靠港求医遭拒",
-      "onboard_time": 1777887441,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 322465,
       "num": 322465,
       "word": "网剧浮生",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1777766659,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318325,
+      "num": 318325,
+      "word": "800一晚老式宾馆年轻人五一抢着住",
+      "onboard_time": 1777886840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318310,
@@ -3195,14 +3227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 280590,
-      "num": 280590,
-      "word": "800一晚老式宾馆年轻人五一抢着住",
-      "onboard_time": 1777886840,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280219,
       "num": 201281,
       "word": "陈冠希46岁状态",
@@ -3225,6 +3249,14 @@
       "onboard_time": 1777593137,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279035,
+      "num": 279035,
+      "word": "国内油价将迎调整",
+      "onboard_time": 1777893860,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 278897,
@@ -3467,6 +3499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 254288,
+      "num": 475831,
+      "word": "中国女团vs波兰",
+      "onboard_time": 1777893982,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254179,
       "num": 367101,
       "word": "邓超孙俪给小花的12岁礼物",
@@ -3481,14 +3521,6 @@
       "onboard_time": 1777782081,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251844,
-      "num": 276196,
-      "word": "国内油价将迎调整",
-      "onboard_time": 1777893860,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 251364,
@@ -3512,14 +3544,6 @@
       "word": "狗狗未牵绳被碾压主人当场崩溃",
       "onboard_time": 1777865659,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249004,
-      "num": 788597,
-      "word": "有人花300多元买28斤榴莲",
-      "onboard_time": 1777891999,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -3665,14 +3689,6 @@
       "onboard_time": 1777610059,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 236358,
-      "num": 475831,
-      "word": "中国女团vs波兰",
-      "onboard_time": 1777893982,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 235937,
@@ -4243,6 +4259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195639,
+      "num": 195639,
+      "word": "王曼昱vs韦格申",
+      "onboard_time": 1777896263,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195153,
       "num": 195153,
       "word": "电影消失的人第89分钟全场尖叫",
@@ -4369,6 +4393,14 @@
       "onboard_time": 1777591577,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189206,
+      "num": 189206,
+      "word": "他就摸了一下魔方就复原了",
+      "onboard_time": 1777893860,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 188699,
@@ -4609,6 +4641,14 @@
       "onboard_time": 1777736782,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177026,
+      "num": 215233,
+      "word": "女顾客想要40码鞋反被男主播嘲讽",
+      "onboard_time": 1777887201,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176561,
@@ -4873,14 +4913,6 @@
       "onboard_time": 1777698800,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165238,
-      "num": 215233,
-      "word": "女顾客想要40码鞋反被男主播嘲讽",
-      "onboard_time": 1777887201,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164680,
@@ -5251,14 +5283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147769,
-      "num": 147769,
-      "word": "他就摸了一下魔方就复原了",
-      "onboard_time": 1777893860,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147455,
       "num": 243215,
       "word": "雄鹰一样的女人孔苑苑逝世",
@@ -5459,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140831,
+      "num": 140831,
+      "word": "宇树机器人在美买票坐飞机",
+      "onboard_time": 1777896202,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140330,
       "num": 481710,
       "word": "小米汽车4月交付量超3万台",
@@ -5577,6 +5609,14 @@
       "onboard_time": 1777641981,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136100,
+      "num": 453266,
+      "word": "孙颖莎3比0威尔戈斯",
+      "onboard_time": 1777896323,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 135832,
@@ -7996,7 +8036,7 @@
     },
     {
       "raw_hot": 15788,
-      "num": 638650,
+      "num": 873088,
       "word": "他们的青春闪闪发光",
       "onboard_time": 1777878980,
       "rank": 2,

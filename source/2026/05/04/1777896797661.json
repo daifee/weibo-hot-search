@@ -1,0 +1,410 @@
+{
+  "runTime": 1777896797661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777565,
+        "num": 1530130,
+        "word": "大时代",
+        "onboard_time": 1777895061,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 726627,
+        "num": 1104966,
+        "word": "中国向联合国发出警告",
+        "onboard_time": 1777888461,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 873088,
+        "word": "他们的青春闪闪发光",
+        "onboard_time": 1777878980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3089112,
+        "num": 706969,
+        "word": "难听",
+        "onboard_time": 1777895661,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 3041965,
+        "num": 681859,
+        "word": "马嘉祺破音",
+        "onboard_time": 1777895481,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485743,
+        "num": 485743,
+        "word": "突然意识到开封就是开封的意思",
+        "onboard_time": 1777879642,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473424,
+        "num": 473424,
+        "word": "磁铁",
+        "onboard_time": 1777896442,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471448,
+        "num": 471448,
+        "word": "Gr对战MRC",
+        "onboard_time": 1777889421,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358270,
+        "num": 471382,
+        "word": "伊朗向美军舰发射导弹",
+        "onboard_time": 1777891581,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355867,
+        "num": 469505,
+        "word": "有人花300多元买28斤榴莲",
+        "onboard_time": 1777891999,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4327927,
+        "num": 467682,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4212275,
+        "num": 465659,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1478147,
+        "num": 463454,
+        "word": "辽宁丹东交通事故已致8人死亡",
+        "onboard_time": 1777889479,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1018630,
+        "num": 462870,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1777895241,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 881886,
+        "num": 460399,
+        "word": "红果回应VIP付费",
+        "onboard_time": 1777885579,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358150,
+        "num": 459063,
+        "word": "邮轮暴发致命病毒靠港求医遭拒",
+        "onboard_time": 1777887441,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 762481,
+        "num": 457304,
+        "word": "强烈建议大家去狂刷考公综艺",
+        "onboard_time": 1777877602,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254288,
+        "num": 456393,
+        "word": "中国女团vs波兰",
+        "onboard_time": 1777893982,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473395,
+        "num": 453407,
+        "word": "Gr超话",
+        "onboard_time": 1777896323,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136100,
+        "num": 453266,
+        "word": "孙颖莎3比0威尔戈斯",
+        "onboard_time": 1777896323,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543071,
+        "num": 450144,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450031,
+        "num": 450031,
+        "word": "台湾同胞被这首大陆歌曲震撼到流泪",
+        "onboard_time": 1777890860,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429544,
+        "num": 429544,
+        "word": "莫雷加德认证樊振东定海神针",
+        "onboard_time": 1777884019,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411252,
+        "num": 411252,
+        "word": "豆包 笨还收费",
+        "onboard_time": 1777879581,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 400356,
+        "num": 400356,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777894639,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318325,
+        "num": 318325,
+        "word": "800一晚老式宾馆年轻人五一抢着住",
+        "onboard_time": 1777886840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316337,
+        "num": 316337,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1777889602,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279035,
+        "num": 279035,
+        "word": "国内油价将迎调整",
+        "onboard_time": 1777893860,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255674,
+        "num": 255674,
+        "word": "张翅 音乐节",
+        "onboard_time": 1777889120,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231600,
+        "num": 231600,
+        "word": "于正看短剧Enemy看哭了",
+        "onboard_time": 1777893982,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226402,
+        "num": 226402,
+        "word": "豆包把付费说的如此清新脱俗",
+        "onboard_time": 1777880960,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200409,
+        "num": 200409,
+        "word": "韦雪怒斥小三",
+        "onboard_time": 1777876522,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195639,
+        "num": 195639,
+        "word": "王曼昱vs韦格申",
+        "onboard_time": 1777896263,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189206,
+        "num": 189206,
+        "word": "他就摸了一下魔方就复原了",
+        "onboard_time": 1777893860,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178349,
+        "num": 178349,
+        "word": "佳偶天成",
+        "onboard_time": 1777890441,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 178247,
+        "word": "女子搭网约车强抢方向盘酿车祸",
+        "onboard_time": 1777874840,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177026,
+        "num": 177026,
+        "word": "女顾客想要40码鞋反被男主播嘲讽",
+        "onboard_time": 1777887201,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168867,
+        "num": 168867,
+        "word": "金价又又又跌了",
+        "onboard_time": 1777871660,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168813,
+        "num": 168813,
+        "word": "豆包错误率",
+        "onboard_time": 1777882340,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167642,
+        "num": 167642,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1777882581,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167074,
+        "num": 167074,
+        "word": "低智商犯罪",
+        "onboard_time": 1777890381,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159744,
+        "num": 159744,
+        "word": "BABYMONSTER回归",
+        "onboard_time": 1777887441,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "二十七八岁什么感觉",
+        "onboard_time": 1777874659,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157723,
+        "num": 150831,
+        "word": "黄灿灿误入业主群",
+        "onboard_time": 1777887681,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154620,
+        "num": 150771,
+        "word": "张凌赫田曦薇 妇唱夫随",
+        "onboard_time": 1777875740,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150291,
+        "num": 150291,
+        "word": "现在谈恋爱才是赶上好时候了",
+        "onboard_time": 1777884919,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "在水中放毛巾是为方便小鸭们上岸",
+        "onboard_time": 1777891400,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149066,
+        "num": 149066,
+        "word": "郭涛15岁女儿身高",
+        "onboard_time": 1777881801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140831,
+        "num": 140831,
+        "word": "宇树机器人在美买票坐飞机",
+        "onboard_time": 1777896202,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136842,
+        "num": 136842,
+        "word": "樊振东寄语所有青年",
+        "onboard_time": 1777887681,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

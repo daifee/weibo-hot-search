@@ -1,6 +1,6 @@
 {
   "startTime": 1777824581127,
-  "endTime": 1777895864631,
+  "endTime": 1777896797661,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -27,8 +27,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3089112,
+      "num": 706969,
+      "word": "难听",
+      "onboard_time": 1777895661,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 3041965,
+      "num": 681859,
+      "word": "马嘉祺破音",
+      "onboard_time": 1777895481,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2772526,
-      "num": 432082,
+      "num": 450144,
       "word": "白敬亭 宋轶",
       "onboard_time": 1777863859,
       "rank": 21,
@@ -73,14 +89,6 @@
       "onboard_time": 1777803623,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1511330,
-      "num": 463523,
-      "word": "难听",
-      "onboard_time": 1777895661,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 1397043,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1018630,
+      "num": 462870,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1777895241,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 970007,
       "num": 1077275,
       "word": "国乒男团两连败",
@@ -187,20 +203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 753795,
-      "num": 458243,
-      "word": "马嘉祺破音",
-      "onboard_time": 1777895481,
-      "rank": 14,
+      "raw_hot": 777565,
+      "num": 1530130,
+      "word": "大时代",
+      "onboard_time": 1777895061,
+      "rank": 8,
       "category": "演出"
     },
     {
-      "raw_hot": 730005,
-      "num": 444029,
-      "word": "穆祉丞音乐节",
-      "onboard_time": 1777895241,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 726627,
+      "num": 1104966,
+      "word": "中国向联合国发出警告",
+      "onboard_time": 1777888461,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 721944,
@@ -265,14 +281,6 @@
       "onboard_time": 1777855100,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 591472,
-      "num": 1094635,
-      "word": "中国向联合国发出警告",
-      "onboard_time": 1777888461,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 578747,
@@ -379,15 +387,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479472,
-      "num": 479472,
-      "word": "大时代",
-      "onboard_time": 1777895061,
-      "rank": 8,
-      "category": "演出"
+      "raw_hot": 473424,
+      "num": 473424,
+      "word": "磁铁",
+      "onboard_time": 1777896442,
+      "rank": 6,
+      "category": "电竞"
     },
     {
-      "raw_hot": 447597,
+      "raw_hot": 473395,
+      "num": 453407,
+      "word": "Gr超话",
+      "onboard_time": 1777896323,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 471448,
       "num": 570122,
       "word": "Gr对战MRC",
       "onboard_time": 1777889421,
@@ -531,6 +547,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358270,
+      "num": 525762,
+      "word": "伊朗向美军舰发射导弹",
+      "onboard_time": 1777891581,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 358150,
+      "num": 459063,
+      "word": "邮轮暴发致命病毒靠港求医遭拒",
+      "onboard_time": 1777887441,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355867,
+      "num": 788597,
+      "word": "有人花300多元买28斤榴莲",
+      "onboard_time": 1777891999,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355645,
       "num": 314467,
       "word": "曝iPhone18Pro定价激进",
@@ -553,14 +593,6 @@
       "onboard_time": 1777882581,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349438,
-      "num": 525762,
-      "word": "伊朗向美军舰发射导弹",
-      "onboard_time": 1777891581,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347792,
@@ -619,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323739,
-      "num": 452205,
-      "word": "邮轮暴发致命病毒靠港求医遭拒",
-      "onboard_time": 1777887441,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 321960,
       "num": 321960,
       "word": "王源入选伯克利杰出校友",
@@ -641,6 +665,14 @@
       "onboard_time": 1777876282,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 318325,
+      "num": 318325,
+      "word": "800一晚老式宾馆年轻人五一抢着住",
+      "onboard_time": 1777886840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317641,
@@ -755,12 +787,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280590,
-      "num": 280590,
-      "word": "800一晚老式宾馆年轻人五一抢着住",
-      "onboard_time": 1777886840,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 279035,
+      "num": 279035,
+      "word": "国内油价将迎调整",
+      "onboard_time": 1777893860,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 278400,
@@ -819,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254288,
+      "num": 475831,
+      "word": "中国女团vs波兰",
+      "onboard_time": 1777893982,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254179,
       "num": 367101,
       "word": "邓超孙俪给小花的12岁礼物",
@@ -835,36 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251844,
-      "num": 276196,
-      "word": "国内油价将迎调整",
-      "onboard_time": 1777893860,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 249156,
       "num": 359139,
       "word": "狗狗未牵绳被碾压主人当场崩溃",
       "onboard_time": 1777865659,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249004,
-      "num": 788597,
-      "word": "有人花300多元买28斤榴莲",
-      "onboard_time": 1777891999,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236358,
-      "num": 475831,
-      "word": "中国女团vs波兰",
-      "onboard_time": 1777893982,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 235465,
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195639,
+      "num": 195639,
+      "word": "王曼昱vs韦格申",
+      "onboard_time": 1777896263,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194192,
       "num": 333414,
       "word": "曾舜晞说回家当然要穿正式点",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1777872021,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189206,
+      "num": 189206,
+      "word": "他就摸了一下魔方就复原了",
+      "onboard_time": 1777893860,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 187729,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1777878020,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177026,
+      "num": 215233,
+      "word": "女顾客想要40码鞋反被男主播嘲讽",
+      "onboard_time": 1777887201,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174194,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1777863140,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165238,
-      "num": 215233,
-      "word": "女顾客想要40码鞋反被男主播嘲讽",
-      "onboard_time": 1777887201,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164680,
@@ -1299,14 +1331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147769,
-      "num": 147769,
-      "word": "他就摸了一下魔方就复原了",
-      "onboard_time": 1777893860,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144863,
       "num": 144863,
       "word": "黄晓明带妈妈小海绵逛游乐园",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1777860979,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140831,
+      "num": 140831,
+      "word": "宇树机器人在美买票坐飞机",
+      "onboard_time": 1777896202,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 139548,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1777795999,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136100,
+      "num": 453266,
+      "word": "孙颖莎3比0威尔戈斯",
+      "onboard_time": 1777896323,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 135953,
@@ -1908,7 +1948,7 @@
     },
     {
       "raw_hot": 15788,
-      "num": 638650,
+      "num": 873088,
       "word": "他们的青春闪闪发光",
       "onboard_time": 1777878980,
       "rank": 2,
