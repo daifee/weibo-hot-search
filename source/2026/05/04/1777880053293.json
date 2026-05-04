@@ -1,0 +1,410 @@
+{
+  "runTime": 1777880053293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 25375641,
+        "num": 25375641,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 921815,
+        "num": 2263947,
+        "word": "女子搭网约车强抢方向盘酿车祸",
+        "onboard_time": 1777874840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16661,
+        "num": 1777231,
+        "word": "中国青年好young的",
+        "onboard_time": 1777879399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 796449,
+        "num": 796449,
+        "word": "二十七八岁什么感觉",
+        "onboard_time": 1777874659,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519681,
+        "num": 519681,
+        "word": "布洛芬头一回累晕菜了",
+        "onboard_time": 1777868059,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415766,
+        "num": 415766,
+        "word": "高铁ABC座很暧昧",
+        "onboard_time": 1777866319,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360305,
+        "num": 360305,
+        "word": "马嘉祺丁程鑫雨爱",
+        "onboard_time": 1777877423,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344327,
+        "num": 344327,
+        "word": "女生解释为什么不考家附近的大学",
+        "onboard_time": 1777875260,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335483,
+        "num": 335483,
+        "word": "央视五四晚会官宣",
+        "onboard_time": 1777876041,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248274,
+        "num": 334364,
+        "word": "余额宝收益率破1是什么情况",
+        "onboard_time": 1777869140,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 554596,
+        "num": 331872,
+        "word": "金价又又又跌了",
+        "onboard_time": 1777871660,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 513953,
+        "num": 329862,
+        "word": "张凌赫田曦薇 妇唱夫随",
+        "onboard_time": 1777875740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353925,
+        "num": 328056,
+        "word": "王安宇吃火锅被问是大学生吗",
+        "onboard_time": 1777867280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326051,
+        "num": 326051,
+        "word": "男子住酒店捅了蟑螂窝了",
+        "onboard_time": 1777878381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321960,
+        "num": 321960,
+        "word": "王源入选伯克利杰出校友",
+        "onboard_time": 1777877242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316579,
+        "num": 316579,
+        "word": "李飞头像是暴打老板",
+        "onboard_time": 1777874840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252782,
+        "num": 315762,
+        "word": "五一排队现状",
+        "onboard_time": 1777863739,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266483,
+        "num": 313597,
+        "word": "方圆自曝与网红合拍不给合作费",
+        "onboard_time": 1777876282,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190220,
+        "num": 312675,
+        "word": "豆包 笨还收费",
+        "onboard_time": 1777879581,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248633,
+        "num": 310980,
+        "word": "国乒男团已无退路",
+        "onboard_time": 1777878741,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127518,
+        "num": 310105,
+        "word": "种地吧",
+        "onboard_time": 1777868180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120209,
+        "num": 307966,
+        "word": "田曦薇你好威风啊",
+        "onboard_time": 1777875500,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28410,
+        "num": 307335,
+        "word": "公司引进AI后将员工降薪裁员",
+        "onboard_time": 1777852938,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99495,
+        "num": 305608,
+        "word": "鹿晗的狗狗馒头9岁了",
+        "onboard_time": 1777874781,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80623,
+        "num": 303705,
+        "word": "宋亚轩雨中孤雏彩排",
+        "onboard_time": 1777876821,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12539,
+        "num": 302416,
+        "word": "东风日产NX8丹麦见证国羽巅峰",
+        "onboard_time": 1777863859,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70694,
+        "num": 299749,
+        "word": "此沙古装披发",
+        "onboard_time": 1777872439,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59531,
+        "num": 298818,
+        "word": "央视五四晚会官宣檀健次",
+        "onboard_time": 1777879399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1011753,
+        "num": 297974,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1777863859,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143880,
+        "num": 296482,
+        "word": "小米大涨超10%",
+        "onboard_time": 1777870040,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 921344,
+        "num": 293712,
+        "word": "韦雪怒斥小三",
+        "onboard_time": 1777876522,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 436728,
+        "num": 293010,
+        "word": "余意曝陈昊宇私会她男友",
+        "onboard_time": 1777859780,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427737,
+        "num": 291010,
+        "word": "强烈建议大家去狂刷考公综艺",
+        "onboard_time": 1777877602,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242903,
+        "num": 289976,
+        "word": "如何证明桃花源里的人都是近亲结婚",
+        "onboard_time": 1777868840,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263745,
+        "num": 288234,
+        "word": "阚清子和老公机场出发",
+        "onboard_time": 1777874300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247051,
+        "num": 287150,
+        "word": "19岁石头身高已达185cm",
+        "onboard_time": 1777873040,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203647,
+        "num": 284823,
+        "word": "天庭三大反骨仔去寂静岭",
+        "onboard_time": 1777873160,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405867,
+        "num": 283303,
+        "word": "新人演员余意指控陈昊宇惯三",
+        "onboard_time": 1777861279,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113572,
+        "num": 282098,
+        "word": "敦煌鸣沙山爆满游客发声",
+        "onboard_time": 1777876342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49465,
+        "num": 280403,
+        "word": "郭涛儿子石头拿到驾照了",
+        "onboard_time": 1777879459,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237551,
+        "num": 278593,
+        "word": "王一博未来我来MV",
+        "onboard_time": 1777871660,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183453,
+        "num": 276882,
+        "word": "突然意识到开封就是开封的意思",
+        "onboard_time": 1777879642,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214610,
+        "num": 275335,
+        "word": "章若楠发量",
+        "onboard_time": 1777879762,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181542,
+        "num": 274360,
+        "word": "石头妹妹长这么高了",
+        "onboard_time": 1777879581,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158206,
+        "num": 273048,
+        "word": "狗狗未牵绳被碾压主人当场崩溃",
+        "onboard_time": 1777865659,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 271402,
+        "word": "日本几乎已无巢鸭监狱痕迹",
+        "onboard_time": 1777872021,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156775,
+        "num": 269069,
+        "word": "原来幸福的人都在这样生活",
+        "onboard_time": 1777878861,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138834,
+        "num": 268436,
+        "word": "前男友香辣蟹",
+        "onboard_time": 1777862780,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125222,
+        "num": 266393,
+        "word": "大冰谈遇到讨厌的人该怎么做",
+        "onboard_time": 1777871060,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96541,
+        "num": 264660,
+        "word": "莫雷加德说国乒无需多虑",
+        "onboard_time": 1777869741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1777877291096,
+  "endTime": 1777880053293,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25375641,
+      "num": 25375641,
+      "word": "豆包 付费",
+      "onboard_time": 1777874061,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24486995,
       "num": 24486995,
       "word": "李荣浩 单依纯强行侵权",
@@ -65,14 +73,6 @@
       "onboard_time": 1769766446,
       "rank": 3,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 22243077,
-      "num": 22243077,
-      "word": "豆包 付费",
-      "onboard_time": 1777874061,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 22191907,

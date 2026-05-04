@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 14:48:11
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/04 15:34:13
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9%23" target="weibo">
+豆包 付费（热度：25375641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%BC%BA%E8%A1%8C%E4%BE%B5%E6%9D%83%23" target="weibo">
 李荣浩 单依纯强行侵权（热度：24486995）
 </a>
@@ -59,12 +65,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
 警方通报金晨事件（热度：22742360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9%23" target="weibo">
-豆包 付费（热度：22243077）
 </a>
 </li>
 
