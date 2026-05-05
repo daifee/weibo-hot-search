@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777972433784,
+  "endTime": 1777973342819,
   "band_list": [
     {
       "raw_hot": 12337365,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1870953,
-      "num": 1058400,
+      "raw_hot": 1901424,
+      "num": 1187249,
       "word": "你好星期六没有给张婧仪道歉",
       "onboard_time": 1777970900,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1752049,
-      "num": 963629,
+      "num": 1032247,
       "word": "好多人给谢娜送花篮",
       "onboard_time": 1777968981,
       "rank": 5,
@@ -91,6 +91,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1288476,
+      "num": 434395,
+      "word": "时代少年团直播",
+      "onboard_time": 1777972522,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1260676,
       "num": 469483,
       "word": "BLACKPINK全员亮相metgala红毯",
@@ -99,16 +107,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1193731,
-      "num": 1193731,
+      "raw_hot": 1244466,
+      "num": 1244466,
       "word": "长沙市委市政府致歉",
       "onboard_time": 1777967000,
       "rank": 1,
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1175982,
+      "num": 1175982,
+      "word": "世乒赛男团澳大利亚变阵",
+      "onboard_time": 1777970900,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1135823,
-      "num": 411585,
+      "num": 423305,
       "word": "一个人旅游上厕所时行李怎么办",
       "onboard_time": 1777959502,
       "rank": 10,
@@ -147,14 +163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 988164,
-      "num": 988164,
-      "word": "世乒赛男团澳大利亚变阵",
-      "onboard_time": 1777970900,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 947064,
       "num": 563467,
       "word": "王俊凯 中餐厅10",
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863184,
+      "num": 348983,
+      "word": "路人上海偶遇angelababy小海绵",
+      "onboard_time": 1777967301,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789788,
       "num": 789788,
       "word": "52岁医生胃癌确诊到离世仅2个月",
       "onboard_time": 1777935856,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 789100,
-      "num": 348983,
-      "word": "路人上海偶遇angelababy小海绵",
-      "onboard_time": 1777967301,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 771447,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 743783,
-      "num": 402006,
+      "num": 417445,
       "word": "歌手2026首发阵容新版本",
       "onboard_time": 1777970241,
       "rank": 13,
@@ -241,6 +249,14 @@
       "onboard_time": 1777944381,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 741719,
+      "num": 741719,
+      "word": "小猫还原自己摔伤过程",
+      "onboard_time": 1777971441,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 738253,
@@ -265,6 +281,14 @@
       "onboard_time": 1777935917,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696017,
+      "num": 696017,
+      "word": "以为低糖低油其实长肉的食物",
+      "onboard_time": 1777970120,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 677074,
@@ -451,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457324,
+      "num": 331317,
+      "word": "肖战送谢娜演唱会花篮",
+      "onboard_time": 1777973302,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 452640,
       "num": 455153,
       "word": "中国教练被吴宜泽一杆制胜惊呆了",
       "onboard_time": 1777949841,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 448212,
-      "num": 448212,
-      "word": "以为低糖低油其实长肉的食物",
-      "onboard_time": 1777970120,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 448026,
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405951,
+      "num": 405951,
+      "word": "高市早苗在澳大利亚下跪献花",
+      "onboard_time": 1777972161,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 404146,
       "num": 404146,
       "word": "90后前运动员从不吸烟双肺长满囊泡",
       "onboard_time": 1777935917,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 398320,
+      "num": 351819,
+      "word": "赛力斯跌超6%",
+      "onboard_time": 1777970900,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 391743,
@@ -563,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369672,
+      "num": 329278,
+      "word": "建议大家一定要尽早明确生活的主线",
+      "onboard_time": 1777958542,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367055,
       "num": 331250,
       "word": "吴昕回应谢娜演唱会",
@@ -585,14 +633,6 @@
       "onboard_time": 1777956861,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348643,
-      "num": 329278,
-      "word": "建议大家一定要尽早明确生活的主线",
-      "onboard_time": 1777958542,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 343409,
@@ -731,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289424,
-      "num": 321704,
-      "word": "小猫还原自己摔伤过程",
-      "onboard_time": 1777971441,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288307,
       "num": 491028,
       "word": "卧室巨星",
@@ -763,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283909,
+      "num": 315900,
+      "word": "男子单手抱婴儿致重摔头着地",
+      "onboard_time": 1777970720,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268928,
       "num": 482782,
       "word": "中国向联合国发出警告",
@@ -785,14 +825,6 @@
       "onboard_time": 1777943419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260246,
-      "num": 351819,
-      "word": "赛力斯跌超6%",
-      "onboard_time": 1777970900,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 258681,
@@ -825,14 +857,6 @@
       "onboard_time": 1777962380,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251024,
-      "num": 315900,
-      "word": "男子单手抱婴儿致重摔头着地",
-      "onboard_time": 1777970720,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249412,
@@ -889,6 +913,14 @@
       "onboard_time": 1777904903,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223703,
+      "num": 223703,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1777973181,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 220634,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1777913898,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187228,
-      "num": 304455,
-      "word": "高市早苗在澳大利亚下跪献花",
-      "onboard_time": 1777972161,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182950,
@@ -1259,6 +1283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110447,
+      "num": 174480,
+      "word": "董思成拍了任敏",
+      "onboard_time": 1777971201,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110284,
       "num": 248285,
       "word": "泸定地震",
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 106618,
-      "num": 326899,
+      "num": 338198,
       "word": "当代人不爱看电视的原因",
       "onboard_time": 1777972222,
       "rank": 33,
@@ -1588,7 +1620,7 @@
     },
     {
       "raw_hot": 23382,
-      "num": 1075303,
+      "num": 1196559,
       "word": "广交会彰显中国制造硬核实力",
       "onboard_time": 1777966581,
       "rank": 2,
@@ -1628,7 +1660,7 @@
     },
     {
       "raw_hot": 1089,
-      "num": 223885,
+      "num": 321740,
       "word": "东风日产NX8丹麦见证国羽巅峰",
       "onboard_time": 1777863859,
       "rank": 32,

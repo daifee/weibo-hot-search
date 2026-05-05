@@ -1,0 +1,410 @@
+{
+  "runTime": 1777973342819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549396,
+        "num": 1549396,
+        "word": "奔跑吧打假",
+        "onboard_time": 1777958600,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1244466,
+        "num": 1244466,
+        "word": "长沙市委市政府致歉",
+        "onboard_time": 1777967000,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21648,
+        "num": 1196559,
+        "word": "广交会彰显中国制造硬核实力",
+        "onboard_time": 1777966581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1901424,
+        "num": 1187249,
+        "word": "你好星期六没有给张婧仪道歉",
+        "onboard_time": 1777970900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1175982,
+        "num": 1175982,
+        "word": "世乒赛男团澳大利亚变阵",
+        "onboard_time": 1777970900,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1694004,
+        "num": 1032247,
+        "word": "好多人给谢娜送花篮",
+        "onboard_time": 1777968981,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 880238,
+        "num": 880238,
+        "word": "浏阳烟花厂爆炸致26死61伤",
+        "onboard_time": 1777960223,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 741719,
+        "num": 741719,
+        "word": "小猫还原自己摔伤过程",
+        "onboard_time": 1777971441,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 696017,
+        "num": 696017,
+        "word": "以为低糖低油其实长肉的食物",
+        "onboard_time": 1777970120,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434618,
+        "num": 434618,
+        "word": "军犬救援演练发现是熟人扭头就走",
+        "onboard_time": 1777963100,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1288476,
+        "num": 434395,
+        "word": "时代少年团直播",
+        "onboard_time": 1777972522,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 872593,
+        "num": 428465,
+        "word": "跟林依晨分手后前男友因性侵入狱",
+        "onboard_time": 1777957401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591776,
+        "num": 423305,
+        "word": "一个人旅游上厕所时行李怎么办",
+        "onboard_time": 1777959502,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 715184,
+        "num": 417445,
+        "word": "歌手2026首发阵容新版本",
+        "onboard_time": 1777970241,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511714,
+        "num": 413259,
+        "word": "歌手",
+        "onboard_time": 1777964121,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446121,
+        "num": 408829,
+        "word": "女子怀孕胎死宫内6周后才发现",
+        "onboard_time": 1777957522,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405951,
+        "num": 405951,
+        "word": "高市早苗在澳大利亚下跪献花",
+        "onboard_time": 1777972161,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340339,
+        "num": 340339,
+        "word": "国内一年仅卖2763万台彩电",
+        "onboard_time": 1777957881,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 340049,
+        "word": "豆包同一个问题三个答案",
+        "onboard_time": 1777958062,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95585,
+        "num": 338198,
+        "word": "当代人不爱看电视的原因",
+        "onboard_time": 1777972222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863184,
+        "num": 336179,
+        "word": "路人上海偶遇angelababy小海绵",
+        "onboard_time": 1777967301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634248,
+        "num": 334779,
+        "word": "林依晨 郑家尧",
+        "onboard_time": 1777963100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398320,
+        "num": 332472,
+        "word": "赛力斯跌超6%",
+        "onboard_time": 1777970900,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 457324,
+        "num": 331317,
+        "word": "肖战送谢娜演唱会花篮",
+        "onboard_time": 1777973302,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435393,
+        "num": 329446,
+        "word": "除非白鹿不想录了",
+        "onboard_time": 1777968862,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369672,
+        "num": 327504,
+        "word": "建议大家一定要尽早明确生活的主线",
+        "onboard_time": 1777958542,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42497,
+        "num": 327028,
+        "word": "红果靠免费起家吸引近2亿用户",
+        "onboard_time": 1777950141,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10941,
+        "num": 324327,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 8745,
+        "num": 323377,
+        "word": "苹果或与英特尔三星合作",
+        "onboard_time": 1777951881,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 763,
+        "num": 321740,
+        "word": "东风日产NX8丹麦见证国羽巅峰",
+        "onboard_time": 1777863859,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 352768,
+        "num": 319641,
+        "word": "曝张凌赫加盟跑男第15季",
+        "onboard_time": 1777965261,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319337,
+        "num": 319337,
+        "word": "一家五口被害案凶手被执行死刑",
+        "onboard_time": 1777970424,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312067,
+        "num": 312067,
+        "word": "浏阳烟花厂爆炸前后对比",
+        "onboard_time": 1777969280,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308153,
+        "num": 308153,
+        "word": "给阿嬷的情书 排片少",
+        "onboard_time": 1777968261,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303805,
+        "num": 303805,
+        "word": "很少用值回票价来形容婚礼",
+        "onboard_time": 1777957642,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284020,
+        "num": 284020,
+        "word": "导致脊柱侧弯的姿势都好舒服",
+        "onboard_time": 1777956203,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261438,
+        "num": 261438,
+        "word": "鹿哈自曝每天平均收入500块",
+        "onboard_time": 1777954101,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283909,
+        "num": 261392,
+        "word": "男子单手抱婴儿致重摔头着地",
+        "onboard_time": 1777970720,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258643,
+        "num": 258643,
+        "word": "穆祉丞没发大合照",
+        "onboard_time": 1777960341,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223703,
+        "num": 223703,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1777973181,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219726,
+        "num": 219726,
+        "word": "有多少城市能撑起来七日游",
+        "onboard_time": 1777970660,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 217374,
+        "num": 217374,
+        "word": "BLACKPINK在MetGala合照",
+        "onboard_time": 1777959981,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 205294,
+        "num": 205294,
+        "word": "印度2000万美元报价世界杯转播权被拒",
+        "onboard_time": 1777956861,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188741,
+        "num": 188741,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777950021,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177833,
+        "num": 177833,
+        "word": "谷爱凌高定裙子有15000颗泡泡",
+        "onboard_time": 1777954341,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175124,
+        "num": 175124,
+        "word": "梁靖崑vs林文政",
+        "onboard_time": 1777972161,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120890,
+        "num": 175100,
+        "word": "蕾哈娜 牡蛎造型",
+        "onboard_time": 1777961721,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113839,
+        "num": 174795,
+        "word": "宁艺卓红毯慢镜头",
+        "onboard_time": 1777970360,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 70803,
+        "num": 174707,
+        "word": "巴西一飞机起飞后撞楼致3死2伤",
+        "onboard_time": 1777956262,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110447,
+        "num": 174480,
+        "word": "董思成拍了任敏",
+        "onboard_time": 1777971201,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓好重点行业领域风险隐患排查整治#"
+    }
+  }
+}
