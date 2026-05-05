@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/05 11:57:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/05 14:25:23
 </p>
 </blockquote>
 <p>
@@ -209,6 +209,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%E9%92%B1%E5%A4%A9%E4%B8%80%E7%BB%93%E5%A9%9A%23" target="weibo">
 王昶钱天一结婚（热度：12386962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B426%E6%AD%BB61%E4%BC%A4%23" target="weibo">
+浏阳烟花厂爆炸致26死61伤（热度：12337365）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%90%A6%E8%AE%A4%E6%98%AF%E7%A7%A6%E5%B2%9A%23" target="weibo">
 金子涵否认是秦岚（热度：2390144）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%8B%82%E6%8E%A5%E5%95%86%E5%8A%A1%23" target="weibo">
-何润东狂接商务（热度：2389092）
 </a>
 </li>
 
