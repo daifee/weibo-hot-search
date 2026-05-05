@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777962323580,
+  "endTime": 1777962959866,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2021613,
+      "num": 2125402,
+      "word": "奔跑吧打假",
+      "onboard_time": 1777958600,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1947836,
       "num": 316289,
       "word": "周也方要求hi6回应",
@@ -185,14 +193,6 @@
       "onboard_time": 1777767559,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1878828,
-      "num": 2110098,
-      "word": "奔跑吧打假",
-      "onboard_time": 1777958600,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1738174,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1135823,
+      "num": 411585,
+      "word": "一个人旅游上厕所时行李怎么办",
+      "onboard_time": 1777959502,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1129846,
       "num": 1180775,
       "word": "国乒男团1比3韩国",
@@ -497,14 +505,6 @@
       "onboard_time": 1777904963,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 941773,
-      "num": 411585,
-      "word": "一个人旅游上厕所时行李怎么办",
-      "onboard_time": 1777959502,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 921815,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738253,
+      "num": 410167,
+      "word": "AI在偷我们的东西 我们决定毒死它",
+      "onboard_time": 1777959560,
+      "rank": 12,
+      "category": "议题讨论,互联网"
+    },
+    {
       "raw_hot": 737152,
       "num": 737152,
       "word": "穆祉丞没发大合照",
@@ -763,8 +771,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 675524,
-      "num": 675524,
+      "raw_hot": 677074,
+      "num": 677074,
       "word": "导致脊柱侧弯的姿势都好舒服",
       "onboard_time": 1777956203,
       "rank": 4,
@@ -777,6 +785,14 @@
       "onboard_time": 1777903222,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 671728,
+      "num": 671728,
+      "word": "国内一年仅卖2763万台彩电",
+      "onboard_time": 1777957881,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 667149,
@@ -825,14 +841,6 @@
       "onboard_time": 1777957401,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646783,
-      "num": 410167,
-      "word": "AI在偷我们的东西 我们决定毒死它",
-      "onboard_time": 1777959560,
-      "rank": 12,
-      "category": "议题讨论,互联网"
     },
     {
       "raw_hot": 641673,
@@ -899,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 606370,
-      "num": 606370,
-      "word": "国内一年仅卖2763万台彩电",
-      "onboard_time": 1777957881,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 605094,
       "num": 605094,
       "word": "严浩翔 爱一个人需要另一个人",
@@ -945,6 +945,14 @@
       "onboard_time": 1777810883,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581709,
+      "num": 410045,
+      "word": "女子怀孕胎死宫内6周后才发现",
+      "onboard_time": 1777957522,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 578747,
@@ -1059,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528241,
-      "num": 410045,
-      "word": "女子怀孕胎死宫内6周后才发现",
-      "onboard_time": 1777957522,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 525934,
       "num": 464286,
       "word": "吴宜泽10比7墨菲",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1777903942,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 505216,
+      "num": 409141,
+      "word": "鹿哈自曝每天平均收入500块",
+      "onboard_time": 1777954101,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 500404,
@@ -1403,14 +1411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 431892,
-      "num": 409141,
-      "word": "鹿哈自曝每天平均收入500块",
-      "onboard_time": 1777954101,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 428901,
       "num": 428901,
       "word": "张继科说国乒男队技术迭代不足",
@@ -1563,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 391743,
+      "num": 385199,
+      "word": "吴宜泽回复赵心童",
+      "onboard_time": 1777953443,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391597,
       "num": 505312,
       "word": "孙颖莎vs巴约",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1777794919,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384493,
+      "num": 384493,
+      "word": "很少用值回票价来形容婚礼",
+      "onboard_time": 1777957642,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 384252,
@@ -1803,20 +1819,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 351795,
-      "num": 351795,
-      "word": "吴宜泽回复赵心童",
-      "onboard_time": 1777953443,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 351596,
       "num": 451196,
       "word": "过度独立 心理创伤",
       "onboard_time": 1777882581,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 350718,
+      "num": 350718,
+      "word": "印度2000万美元报价世界杯转播权被拒",
+      "onboard_time": 1777956861,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 347792,
@@ -1875,12 +1891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336814,
-      "num": 336814,
-      "word": "印度2000万美元报价世界杯转播权被拒",
-      "onboard_time": 1777956861,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 338916,
+      "num": 338916,
+      "word": "BLACKPINK在MetGala合照",
+      "onboard_time": 1777959981,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 336400,
@@ -1899,20 +1915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331439,
-      "num": 318578,
-      "word": "很少用值回票价来形容婚礼",
-      "onboard_time": 1777957642,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 329305,
-      "num": 329305,
-      "word": "BLACKPINK在MetGala合照",
-      "onboard_time": 1777959981,
-      "rank": 26,
-      "category": "艺人,时尚"
+      "raw_hot": 330138,
+      "num": 330138,
+      "word": "奔跑吧辟谣白鹿退出",
+      "onboard_time": 1777959023,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 328304,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1777720040,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327420,
+      "num": 327420,
+      "word": "给阿嬷的情书豆瓣开分9.0",
+      "onboard_time": 1777959560,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 326051,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1777777460,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316590,
-      "num": 316590,
-      "word": "奔跑吧辟谣白鹿退出",
-      "onboard_time": 1777959023,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 316579,
@@ -2259,14 +2267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290710,
-      "num": 290710,
-      "word": "给阿嬷的情书豆瓣开分9.0",
-      "onboard_time": 1777959560,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 289878,
       "num": 343620,
       "word": "雨下一整晚",
@@ -2396,7 +2396,7 @@
     },
     {
       "raw_hot": 265084,
-      "num": 318777,
+      "num": 327585,
       "word": "孙恩盛希望16级大姐不要把他当物品",
       "onboard_time": 1777957102,
       "rank": 28,
@@ -2489,6 +2489,14 @@
       "onboard_time": 1777782081,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251417,
+      "num": 251417,
+      "word": "曝章若楠常驻跑男",
+      "onboard_time": 1777962380,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 251006,
@@ -3051,12 +3059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190346,
+      "num": 293366,
+      "word": "浏阳烟花厂库区存放大量火药",
+      "onboard_time": 1777962740,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190161,
       "num": 271402,
       "word": "日本几乎已无巢鸭监狱痕迹",
       "onboard_time": 1777872021,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189904,
+      "num": 189904,
+      "word": "立夏为啥要称体重",
+      "onboard_time": 1777962623,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189773,
@@ -3164,7 +3188,7 @@
     },
     {
       "raw_hot": 182606,
-      "num": 319772,
+      "num": 327468,
       "word": "豆包同一个问题三个答案",
       "onboard_time": 1777958062,
       "rank": 27,
@@ -4419,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106102,
+      "num": 331431,
+      "word": "巴西一飞机起飞后撞楼致3死2伤",
+      "onboard_time": 1777956262,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105059,
       "num": 143786,
       "word": "芭蕾舞演员摸鹿后被蜱虫叮咬瘫痪",
@@ -4587,14 +4619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93139,
-      "num": 283374,
-      "word": "巴西一飞机起飞后撞楼致3死2伤",
-      "onboard_time": 1777956262,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91612,
       "num": 105218,
       "word": "挑杯八强",
@@ -4625,6 +4649,14 @@
       "onboard_time": 1777827618,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86908,
+      "num": 356023,
+      "word": "护手霜成景区收割机",
+      "onboard_time": 1777961542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86498,
@@ -4761,14 +4793,6 @@
       "onboard_time": 1777806201,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70017,
-      "num": 356023,
-      "word": "护手霜成景区收割机",
-      "onboard_time": 1777961542,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69034,
@@ -5235,7 +5259,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30899,
+      "raw_hot": 32053,
       "num": 215521,
       "word": "女子酒店坠楼身亡有路人被砸中",
       "onboard_time": 1777961660,

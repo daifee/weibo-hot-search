@@ -1,0 +1,410 @@
+{
+  "runTime": 1777962959866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11395776,
+        "num": 12395492,
+        "word": "浏阳烟花厂爆炸致26死61伤",
+        "onboard_time": 1777960223,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2021613,
+        "num": 2125402,
+        "word": "奔跑吧打假",
+        "onboard_time": 1777958600,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22006,
+        "num": 1695820,
+        "word": "数字技术催生文旅新业态",
+        "onboard_time": 1777946662,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 697848,
+        "num": 697848,
+        "word": "穆祉丞没发大合照",
+        "onboard_time": 1777960341,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 677074,
+        "num": 677074,
+        "word": "导致脊柱侧弯的姿势都好舒服",
+        "onboard_time": 1777956203,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 671728,
+        "num": 671728,
+        "word": "国内一年仅卖2763万台彩电",
+        "onboard_time": 1777957881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493533,
+        "num": 493533,
+        "word": "你根本没意识到自己有多年轻",
+        "onboard_time": 1777951460,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 478719,
+        "num": 478719,
+        "word": "白日梦我",
+        "onboard_time": 1777959441,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 424304,
+        "num": 424304,
+        "word": "浏阳烟花厂爆炸事故新闻发布会",
+        "onboard_time": 1777959260,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 398770,
+        "num": 398770,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777950021,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1135823,
+        "num": 398142,
+        "word": "一个人旅游上厕所时行李怎么办",
+        "onboard_time": 1777959502,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 738253,
+        "num": 393880,
+        "word": "AI在偷我们的东西 我们决定毒死它",
+        "onboard_time": 1777959560,
+        "rank": 11,
+        "category": "议题讨论,互联网"
+      },
+      {
+        "raw_hot": 639333,
+        "num": 391320,
+        "word": "跟林依晨分手后前男友因性侵入狱",
+        "onboard_time": 1777957401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581709,
+        "num": 389140,
+        "word": "女子怀孕胎死宫内6周后才发现",
+        "onboard_time": 1777957522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386062,
+        "num": 386062,
+        "word": "王俊凯 中餐厅10",
+        "onboard_time": 1777947081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505216,
+        "num": 385536,
+        "word": "鹿哈自曝每天平均收入500块",
+        "onboard_time": 1777954101,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 391743,
+        "num": 385199,
+        "word": "吴宜泽回复赵心童",
+        "onboard_time": 1777953443,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384493,
+        "num": 384493,
+        "word": "很少用值回票价来形容婚礼",
+        "onboard_time": 1777957642,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108057,
+        "num": 371644,
+        "word": "金饰克价跌到1396元",
+        "onboard_time": 1777950562,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365370,
+        "num": 365370,
+        "word": "谷爱凌高定裙子有15000颗泡泡",
+        "onboard_time": 1777954341,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361155,
+        "num": 361155,
+        "word": "曝当红男演员耍大牌",
+        "onboard_time": 1777953980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350718,
+        "num": 350718,
+        "word": "印度2000万美元报价世界杯转播权被拒",
+        "onboard_time": 1777956861,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338916,
+        "num": 338916,
+        "word": "BLACKPINK在MetGala合照",
+        "onboard_time": 1777959981,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 106102,
+        "num": 331431,
+        "word": "巴西一飞机起飞后撞楼致3死2伤",
+        "onboard_time": 1777956262,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330138,
+        "num": 330138,
+        "word": "奔跑吧辟谣白鹿退出",
+        "onboard_time": 1777959023,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241735,
+        "num": 327585,
+        "word": "孙恩盛希望16级大姐不要把他当物品",
+        "onboard_time": 1777957102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182532,
+        "num": 327468,
+        "word": "豆包同一个问题三个答案",
+        "onboard_time": 1777958062,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327420,
+        "num": 327420,
+        "word": "给阿嬷的情书豆瓣开分9.0",
+        "onboard_time": 1777959560,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102418,
+        "num": 320514,
+        "word": "红果靠免费起家吸引近2亿用户",
+        "onboard_time": 1777950141,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 319488,
+        "num": 319488,
+        "word": "女子减肥3个月暴瘦40斤被摘除胆囊",
+        "onboard_time": 1777953561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328595,
+        "num": 306853,
+        "word": "穆祉丞戛纳",
+        "onboard_time": 1777949601,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190346,
+        "num": 293366,
+        "word": "浏阳烟花厂库区存放大量火药",
+        "onboard_time": 1777962740,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327276,
+        "num": 291309,
+        "word": "BLACKPINK全员亮相metgala红毯",
+        "onboard_time": 1777943179,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287506,
+        "num": 287506,
+        "word": "时代少年团演唱会导播致歉",
+        "onboard_time": 1777949601,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271703,
+        "num": 271703,
+        "word": "为什么部分女性愿意上周媛的性商课",
+        "onboard_time": 1777952000,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300330,
+        "num": 268217,
+        "word": "林依晨因饰演程又青果断分手",
+        "onboard_time": 1777955121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86908,
+        "num": 265932,
+        "word": "护手霜成景区收割机",
+        "onboard_time": 1777961542,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264091,
+        "num": 264091,
+        "word": "浏阳烟花爆炸企业负责人被控制",
+        "onboard_time": 1777945101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263993,
+        "num": 263993,
+        "word": "端午节连休3天不调休",
+        "onboard_time": 1777941679,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251417,
+        "num": 251417,
+        "word": "曝章若楠常驻跑男",
+        "onboard_time": 1777962380,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230831,
+        "num": 230831,
+        "word": "吴宜泽父亲卖掉全家唯一住房投资儿子",
+        "onboard_time": 1777944081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198032,
+        "num": 198032,
+        "word": "用脏话辱骂女学生当事人被停职",
+        "onboard_time": 1777961421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196775,
+        "num": 196775,
+        "word": "梁祯元疑似抄袭黄明昊演唱会转场",
+        "onboard_time": 1777957461,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192853,
+        "num": 192853,
+        "word": "女子买200元刮刮乐中奖100万",
+        "onboard_time": 1777952842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189904,
+        "num": 189904,
+        "word": "立夏为啥要称体重",
+        "onboard_time": 1777962623,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134968,
+        "num": 189871,
+        "word": "蕾哈娜 牡蛎造型",
+        "onboard_time": 1777961721,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116084,
+        "num": 189228,
+        "word": "MetGala红毯上的中国面孔",
+        "onboard_time": 1777955720,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90341,
+        "num": 188653,
+        "word": "泽连斯基宣布5月6日起单方面停火",
+        "onboard_time": 1777940480,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32053,
+        "num": 188270,
+        "word": "女子酒店坠楼身亡有路人被砸中",
+        "onboard_time": 1777961660,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21963,
+        "num": 187923,
+        "word": "苹果或与英特尔三星合作",
+        "onboard_time": 1777951881,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓好重点行业领域风险隐患排查整治#"
+    }
+  }
+}
