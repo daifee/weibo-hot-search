@@ -1,7 +1,15 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777934057146,
+  "endTime": 1777939324464,
   "band_list": [
+    {
+      "raw_hot": 2639239,
+      "num": 2639239,
+      "word": "吴宜泽夺世锦赛冠军",
+      "onboard_time": 1777934896,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1468446,
       "num": 584683,
@@ -43,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1047082,
+      "num": 1047082,
+      "word": "国乒急需下一个樊振东王楚钦",
+      "onboard_time": 1777907244,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1008342,
       "num": 466799,
       "word": "宋亚轩回应你永远并非一个长灯牌",
@@ -59,11 +75,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 762945,
-      "num": 762945,
-      "word": "国乒急需下一个樊振东王楚钦",
-      "onboard_time": 1777907244,
-      "rank": 0,
+      "raw_hot": 864758,
+      "num": 383407,
+      "word": "留德男子多次迷奸女友并记录传播",
+      "onboard_time": 1777904963,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789788,
+      "num": 789788,
+      "word": "52岁医生胃癌确诊到离世仅2个月",
+      "onboard_time": 1777935856,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 710417,
+      "num": 710417,
+      "word": "赵心童恭喜吴宜泽",
+      "onboard_time": 1777935917,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -83,12 +115,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 502665,
-      "num": 383407,
-      "word": "留德男子多次迷奸女友并记录传播",
-      "onboard_time": 1777904963,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 513395,
+      "num": 246594,
+      "word": "metgala",
+      "onboard_time": 1777939277,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 492920,
@@ -115,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360943,
+      "num": 248696,
+      "word": "90后前运动员从不吸烟双肺长满囊泡",
+      "onboard_time": 1777935917,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 312932,
       "num": 312932,
       "word": "马嘉祺破音",
@@ -137,6 +177,14 @@
       "onboard_time": 1777898422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291573,
+      "num": 248930,
+      "word": "终于懂了朝花夕拾的力量",
+      "onboard_time": 1777904364,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 291422,
@@ -171,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260660,
+      "num": 240331,
+      "word": "丁俊晖祝贺吴宜泽",
+      "onboard_time": 1777936818,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254084,
       "num": 254084,
       "word": "红日",
@@ -187,6 +243,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234745,
+      "num": 226905,
+      "word": "丁程鑫张真源安慰严浩翔",
+      "onboard_time": 1777939219,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 231731,
+      "num": 232684,
+      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
+      "onboard_time": 1777920076,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 228234,
       "num": 251680,
       "word": "飞机上的饮用水产地是路边",
@@ -200,6 +272,14 @@
       "word": "父亲长期室内吸烟16岁女儿肺癌",
       "onboard_time": 1777904903,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 248511,
+      "word": "平台已对抢方向盘女子账号实施管控",
+      "onboard_time": 1777911142,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -219,20 +299,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173884,
+      "num": 231176,
+      "word": "吴宜泽回应世锦赛夺冠",
+      "onboard_time": 1777937539,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160819,
       "num": 249228,
       "word": "他就摸了一下魔方就复原了",
       "onboard_time": 1777893860,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157857,
-      "num": 248930,
-      "word": "终于懂了朝花夕拾的力量",
-      "onboard_time": 1777904364,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 154688,
@@ -243,12 +323,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 152873,
-      "num": 94305,
-      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
-      "onboard_time": 1777920076,
-      "rank": 40,
-      "category": "军事"
+      "raw_hot": 142799,
+      "num": 248318,
+      "word": "国内油价将迎调整",
+      "onboard_time": 1777893860,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 139155,
@@ -267,6 +347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135354,
+      "num": 224984,
+      "word": "吴宜泽",
+      "onboard_time": 1777936156,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129687,
       "num": 248795,
       "word": "红果回应VIP付费",
@@ -281,14 +369,6 @@
       "onboard_time": 1777890860,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127675,
-      "num": 248511,
-      "word": "平台已对抢方向盘女子账号实施管控",
-      "onboard_time": 1777911142,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127071,
@@ -307,12 +387,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115411,
-      "num": 248318,
-      "word": "国内油价将迎调整",
-      "onboard_time": 1777893860,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 122470,
+      "num": 230080,
+      "word": "浮生",
+      "onboard_time": 1777937598,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121645,
+      "num": 217397,
+      "word": "浏阳烟花厂爆炸救援仍在进行",
+      "onboard_time": 1777920674,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 116955,
+      "num": 215062,
+      "word": "预测白玉兰得奖名单",
+      "onboard_time": 1777939219,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 110284,
@@ -371,12 +467,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92732,
+      "num": 212697,
+      "word": "伊朗发布向美军舰警告射击视频",
+      "onboard_time": 1777938378,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 89355,
+      "num": 210878,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1777935977,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88931,
       "num": 247866,
       "word": "伊朗向美军舰发射导弹",
       "onboard_time": 1777891581,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88443,
+      "num": 208261,
+      "word": "埃弗顿3比3曼城",
+      "onboard_time": 1777935917,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 83933,
@@ -419,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74019,
-      "num": 97895,
-      "word": "浏阳烟花厂爆炸救援仍在进行",
-      "onboard_time": 1777920674,
-      "rank": 37,
-      "category": "突发/灾害"
+      "raw_hot": 76408,
+      "num": 205772,
+      "word": "良陈美锦",
+      "onboard_time": 1777939159,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 73987,
@@ -433,6 +553,14 @@
       "onboard_time": 1777908143,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58970,
+      "num": 250841,
+      "word": "斯诺克世锦赛首个00后冠军",
+      "onboard_time": 1777938797,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 55852,
@@ -483,20 +611,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 38991,
+      "num": 228330,
+      "word": "尹净汉更新",
+      "onboard_time": 1777932615,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35720,
       "num": 94264,
       "word": "低智商犯罪热度",
       "onboard_time": 1777929073,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28213,
-      "num": 94197,
-      "word": "尹净汉更新",
-      "onboard_time": 1777932615,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 27422,
@@ -507,20 +635,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15533,
-      "num": 585212,
+      "raw_hot": 20075,
+      "num": 823233,
       "word": "五一特色专列串起万里山河",
       "onboard_time": 1777900101,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 2408,
-      "num": 101053,
+      "raw_hot": 5335,
+      "num": 251855,
       "word": "支付宝把便利店搞成球迷流水席",
       "onboard_time": 1777778001,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1089,
+      "num": 223885,
+      "word": "东风日产NX8丹麦见证国羽巅峰",
+      "onboard_time": 1777863859,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1072,
+      "num": 219385,
+      "word": "阿伦22分19篮板",
+      "onboard_time": 1777939277,
+      "rank": 36,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777934057146,
+  "endTime": 1777939324464,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -97,6 +97,14 @@
       "onboard_time": 1777859780,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2639239,
+      "num": 2639239,
+      "word": "吴宜泽夺世锦赛冠军",
+      "onboard_time": 1777934896,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2459037,
@@ -379,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1047082,
+      "num": 1047082,
+      "word": "国乒急需下一个樊振东王楚钦",
+      "onboard_time": 1777907244,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1023888,
       "num": 505714,
       "word": "谈没谈过恋爱一眼就能看出来",
@@ -467,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 864758,
+      "num": 383407,
+      "word": "留德男子多次迷奸女友并记录传播",
+      "onboard_time": 1777904963,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 858629,
       "num": 780824,
       "word": "把自己当成糖尿病人来吃饭",
@@ -499,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 789788,
+      "num": 789788,
+      "word": "52岁医生胃癌确诊到离世仅2个月",
+      "onboard_time": 1777935856,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 777565,
       "num": 1530130,
       "word": "大时代",
       "onboard_time": 1777895061,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 762945,
-      "num": 762945,
-      "word": "国乒急需下一个樊振东王楚钦",
-      "onboard_time": 1777907244,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 740480,
@@ -577,6 +601,14 @@
       "onboard_time": 1777863739,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 710417,
+      "num": 710417,
+      "word": "赵心童恭喜吴宜泽",
+      "onboard_time": 1777935917,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 709395,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513395,
+      "num": 246594,
+      "word": "metgala",
+      "onboard_time": 1777939277,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 510820,
       "num": 510820,
       "word": "台湾同胞被这首大陆歌曲震撼到流泪",
@@ -905,14 +945,6 @@
       "onboard_time": 1777903942,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 502665,
-      "num": 383407,
-      "word": "留德男子多次迷奸女友并记录传播",
-      "onboard_time": 1777904963,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 500404,
@@ -1387,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360943,
+      "num": 248696,
+      "word": "90后前运动员从不吸烟双肺长满囊泡",
+      "onboard_time": 1777935917,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 360305,
       "num": 360305,
       "word": "马嘉祺丁程鑫雨爱",
@@ -1811,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291573,
+      "num": 248930,
+      "word": "终于懂了朝花夕拾的力量",
+      "onboard_time": 1777904364,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291312,
       "num": 271336,
       "word": "宋宁峰张婉婷风波后带娃出游",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1777871660,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260660,
+      "num": 240331,
+      "word": "丁俊晖祝贺吴宜泽",
+      "onboard_time": 1777936818,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 257042,
@@ -2123,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234745,
+      "num": 226905,
+      "word": "丁程鑫张真源安慰严浩翔",
+      "onboard_time": 1777939219,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232349,
       "num": 284823,
       "word": "天庭三大反骨仔去寂静岭",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1777807762,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231731,
+      "num": 232684,
+      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
+      "onboard_time": 1777920076,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 231533,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1777805724,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 248511,
+      "word": "平台已对抢方向盘女子账号实施管控",
+      "onboard_time": 1777911142,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198683,
@@ -2667,6 +2747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173884,
+      "num": 231176,
+      "word": "吴宜泽回应世锦赛夺冠",
+      "onboard_time": 1777937539,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173578,
       "num": 266911,
       "word": "对阵瑞典已是国乒能排出的最强阵容",
@@ -2915,14 +3003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157857,
-      "num": 248930,
-      "word": "终于懂了朝花夕拾的力量",
-      "onboard_time": 1777904364,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157701,
       "num": 322109,
       "word": "王濛叫李小冉祖宗",
@@ -3001,14 +3081,6 @@
       "onboard_time": 1777891400,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152873,
-      "num": 94305,
-      "word": "美舰在霍尔木兹海峡附近遭伊导弹攻击",
-      "onboard_time": 1777920076,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 152745,
@@ -3219,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135354,
+      "num": 224984,
+      "word": "吴宜泽",
+      "onboard_time": 1777936156,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134627,
       "num": 303705,
       "word": "宋亚轩雨中孤雏彩排",
@@ -3363,14 +3443,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 127675,
-      "num": 248511,
-      "word": "平台已对抢方向盘女子账号实施管控",
-      "onboard_time": 1777911142,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127359,
       "num": 242784,
       "word": "林依晨说依赖另一半的人生不会快乐",
@@ -3483,6 +3555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122470,
+      "num": 230080,
+      "word": "浮生",
+      "onboard_time": 1777937598,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122163,
       "num": 171311,
       "word": "主理人回应奶茶188元一杯",
@@ -3497,6 +3577,14 @@
       "onboard_time": 1777859299,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121645,
+      "num": 217397,
+      "word": "浏阳烟花厂爆炸救援仍在进行",
+      "onboard_time": 1777920674,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 121180,
@@ -3593,6 +3681,14 @@
       "onboard_time": 1777798339,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116955,
+      "num": 215062,
+      "word": "预测白玉兰得奖名单",
+      "onboard_time": 1777939219,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 116748,
@@ -3827,12 +3923,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92732,
+      "num": 212697,
+      "word": "伊朗发布向美军舰警告射击视频",
+      "onboard_time": 1777938378,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 91612,
       "num": 105218,
       "word": "挑杯八强",
       "onboard_time": 1777822581,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89355,
+      "num": 210878,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1777935977,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88443,
+      "num": 208261,
+      "word": "埃弗顿3比3曼城",
+      "onboard_time": 1777935917,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 87776,
@@ -3931,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76408,
+      "num": 205772,
+      "word": "良陈美锦",
+      "onboard_time": 1777939159,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76195,
       "num": 222128,
       "word": "国务院安委会派出明查暗访组",
@@ -3953,14 +4081,6 @@
       "onboard_time": 1777852578,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74019,
-      "num": 97895,
-      "word": "浏阳烟花厂爆炸救援仍在进行",
-      "onboard_time": 1777920674,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 73987,
@@ -4033,6 +4153,14 @@
       "onboard_time": 1777879399,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58970,
+      "num": 250841,
+      "word": "斯诺克世锦赛首个00后冠军",
+      "onboard_time": 1777938797,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 58688,
@@ -4331,6 +4459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 38991,
+      "num": 228330,
+      "word": "尹净汉更新",
+      "onboard_time": 1777932615,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37889,
       "num": 306771,
       "word": "九江多地倡议公职人员带头缴物业费",
@@ -4425,14 +4561,6 @@
       "onboard_time": 1777798880,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28213,
-      "num": 94197,
-      "word": "尹净汉更新",
-      "onboard_time": 1777932615,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 27535,
@@ -4632,6 +4760,14 @@
       "word": "国乒男女团双双开门红",
       "onboard_time": 1777798880,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1072,
+      "num": 219385,
+      "word": "阿伦22分19篮板",
+      "onboard_time": 1777939277,
+      "rank": 36,
       "category": "体育"
     }
   ],
