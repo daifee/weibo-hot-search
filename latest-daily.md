@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/06 00:48:08 ~ 2026/05/06 04:15:11
+本榜单时间：2026/05/06 00:48:08 ~ 2026/05/06 04:40:34
 </p>
 </blockquote>
 <p>
@@ -412,13 +412,25 @@ AG战胜TYL晋级四强（热度：34157）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1%23" target="weibo">
-山东泰山vs上海申花（热度：23312）
+山东泰山vs上海申花（热度：24722）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%9D%92%E5%B9%B4%E9%A2%86%E5%86%9B%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
 王楚钦青年领军运动员（热度：18618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E8%AF%BA%E5%85%8B%E6%96%B0%E7%8E%8B%E8%AF%9E%E7%94%9F%E5%AE%81%E6%B3%A2%E5%90%B4%E5%AE%9C%E6%B3%BD%E4%B9%A6%E5%86%99%E4%BC%A0%E5%A5%87%23" target="weibo">
+斯诺克新王诞生宁波吴宜泽书写传奇（热度：16675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E7%BB%9D%E6%9D%80%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA%23" target="weibo">
+成都蓉城绝杀辽宁铁人（热度：16001）
 </a>
 </li>
 

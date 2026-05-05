@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778012111194,
+  "endTime": 1778013634515,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -10195,6 +10195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24722,
+      "num": 74450,
+      "word": "山东泰山vs上海申花",
+      "onboard_time": 1778008574,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24620,
       "num": 169815,
       "word": "刘浩存称从小看李晨跑男长大",
@@ -10217,14 +10225,6 @@
       "onboard_time": 1777966581,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23312,
-      "num": 74450,
-      "word": "山东泰山vs上海申花",
-      "onboard_time": 1778008574,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 22730,
@@ -10331,6 +10331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16675,
+      "num": 62162,
+      "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
+      "onboard_time": 1778012834,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16323,
       "num": 322811,
       "word": "张雪机车回应排位赛第6",
@@ -10353,6 +10361,14 @@
       "onboard_time": 1777905203,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16001,
+      "num": 39395,
+      "word": "成都蓉城绝杀辽宁铁人",
+      "onboard_time": 1778013134,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 15942,
