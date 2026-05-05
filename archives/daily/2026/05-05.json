@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777962959866,
+  "endTime": 1777972433784,
   "band_list": [
     {
       "raw_hot": 12337365,
@@ -33,6 +33,22 @@
       "onboard_time": 1777958600,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1870953,
+      "num": 1058400,
+      "word": "你好星期六没有给张婧仪道歉",
+      "onboard_time": 1777970900,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1752049,
+      "num": 963629,
+      "word": "好多人给谢娜送花篮",
+      "onboard_time": 1777968981,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1468446,
@@ -83,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193731,
+      "num": 1193731,
+      "word": "长沙市委市政府致歉",
+      "onboard_time": 1777967000,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1135823,
       "num": 411585,
       "word": "一个人旅游上厕所时行李怎么办",
       "onboard_time": 1777959502,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1071060,
+      "num": 446663,
+      "word": "跟林依晨分手后前男友因性侵入狱",
+      "onboard_time": 1777957401,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1055901,
@@ -113,6 +145,14 @@
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 988164,
+      "num": 988164,
+      "word": "世乒赛男团澳大利亚变阵",
+      "onboard_time": 1777970900,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 947064,
@@ -155,12 +195,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 789100,
+      "num": 348983,
+      "word": "路人上海偶遇angelababy小海绵",
+      "onboard_time": 1777967301,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771447,
       "num": 467467,
       "word": "时代少年团演唱会导播致歉",
       "onboard_time": 1777949601,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 746120,
+      "num": 420364,
+      "word": "歌手",
+      "onboard_time": 1777964121,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 743783,
+      "num": 402006,
+      "word": "歌手2026首发阵容新版本",
+      "onboard_time": 1777970241,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 743455,
@@ -211,20 +275,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 676850,
+      "num": 346662,
+      "word": "林依晨 郑家尧",
+      "onboard_time": 1777963100,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 671728,
       "num": 671728,
       "word": "国内一年仅卖2763万台彩电",
       "onboard_time": 1777957881,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 651974,
-      "num": 411154,
-      "word": "跟林依晨分手后前男友因性侵入狱",
-      "onboard_time": 1777957401,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 610335,
@@ -257,6 +321,14 @@
       "onboard_time": 1777945101,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568369,
+      "num": 332098,
+      "word": "除非白鹿不想录了",
+      "onboard_time": 1777968862,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 564147,
@@ -331,12 +403,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 500719,
+      "num": 500719,
+      "word": "军犬救援演练发现是熟人扭头就走",
+      "onboard_time": 1777963100,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492920,
       "num": 492920,
       "word": "女子怀孕3个月确诊肺癌终止妊娠",
       "onboard_time": 1777900402,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 492208,
+      "num": 492208,
+      "word": "浏阳烟花厂爆炸前后对比",
+      "onboard_time": 1777969280,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491481,
@@ -369,6 +457,14 @@
       "onboard_time": 1777949841,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448212,
+      "num": 448212,
+      "word": "以为低糖低油其实长肉的食物",
+      "onboard_time": 1777970120,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 448026,
@@ -451,6 +547,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377781,
+      "num": 377781,
+      "word": "曝张凌赫加盟跑男第15季",
+      "onboard_time": 1777965261,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 372029,
+      "num": 372029,
+      "word": "一家五口被害案凶手被执行死刑",
+      "onboard_time": 1777970424,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367055,
+      "num": 331250,
+      "word": "吴昕回应谢娜演唱会",
+      "onboard_time": 1777965440,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 355380,
       "num": 449832,
       "word": "为什么部分女性愿意上周媛的性商课",
@@ -465,6 +585,14 @@
       "onboard_time": 1777956861,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348643,
+      "num": 329278,
+      "word": "建议大家一定要尽早明确生活的主线",
+      "onboard_time": 1777958542,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 343409,
@@ -513,6 +641,14 @@
       "onboard_time": 1777903942,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 320653,
+      "num": 324872,
+      "word": "给阿嬷的情书 排片少",
+      "onboard_time": 1777968261,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 319697,
@@ -595,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289424,
+      "num": 321704,
+      "word": "小猫还原自己摔伤过程",
+      "onboard_time": 1777971441,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288307,
       "num": 491028,
       "word": "卧室巨星",
@@ -643,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260246,
+      "num": 351819,
+      "word": "赛力斯跌超6%",
+      "onboard_time": 1777970900,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 258681,
       "num": 395092,
       "word": "墨菲回应吴宜泽世锦赛夺冠",
@@ -675,12 +827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251024,
+      "num": 315900,
+      "word": "男子单手抱婴儿致重摔头着地",
+      "onboard_time": 1777970720,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249412,
       "num": 249412,
       "word": "刘耀文拿道具布擦脸上的雨",
       "onboard_time": 1777910481,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232156,
+      "num": 313666,
+      "word": "有多少城市能撑起来七日游",
+      "onboard_time": 1777970660,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 231731,
@@ -771,6 +939,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205308,
+      "num": 311419,
+      "word": "女子怀孕不做产检胎停6周浑然不知",
+      "onboard_time": 1777965921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204853,
+      "num": 309604,
+      "word": "梁靖崑vs林文政",
+      "onboard_time": 1777972161,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204378,
       "num": 437377,
       "word": "金饰克价跌到1396元",
@@ -793,6 +977,14 @@
       "onboard_time": 1777950682,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193249,
+      "num": 298891,
+      "word": "曾沛慈王濛半夜抢被子",
+      "onboard_time": 1777972103,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 191747,
@@ -843,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187228,
+      "num": 304455,
+      "word": "高市早苗在澳大利亚下跪献花",
+      "onboard_time": 1777972161,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -852,7 +1052,7 @@
     },
     {
       "raw_hot": 182606,
-      "num": 327468,
+      "num": 343333,
       "word": "豆包同一个问题三个答案",
       "onboard_time": 1777958062,
       "rank": 27,
@@ -932,7 +1132,7 @@
     },
     {
       "raw_hot": 147044,
-      "num": 205128,
+      "num": 303562,
       "word": "蕾哈娜 牡蛎造型",
       "onboard_time": 1777961721,
       "rank": 43,
@@ -1043,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122246,
+      "num": 301735,
+      "word": "宁艺卓红毯慢镜头",
+      "onboard_time": 1777970360,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 113663,
       "num": 384783,
       "word": "首尔睡觉大赛亚军自曝身心透支",
@@ -1075,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106618,
+      "num": 326899,
+      "word": "当代人不爱看电视的原因",
+      "onboard_time": 1777972222,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106528,
       "num": 213986,
       "word": "中国球员连续两年夺世锦赛冠军",
@@ -1084,7 +1300,7 @@
     },
     {
       "raw_hot": 106102,
-      "num": 331431,
+      "num": 340863,
       "word": "巴西一飞机起飞后撞楼致3死2伤",
       "onboard_time": 1777956262,
       "rank": 34,
@@ -1251,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59534,
+      "num": 320437,
+      "word": "员工长期加班后拒绝凌晨加班被开除",
+      "onboard_time": 1777971023,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58657,
       "num": 216339,
       "word": "第五人格赛事",
@@ -1363,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23382,
+      "num": 1075303,
+      "word": "广交会彰显中国制造硬核实力",
+      "onboard_time": 1777966581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21499,
       "num": 823233,
       "word": "五一特色专列串起万里山河",
@@ -1387,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1876,
+      "num": 353630,
+      "word": "XLG晋级伦敦大师赛",
+      "onboard_time": 1777971682,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1089,
       "num": 223885,
       "word": "东风日产NX8丹麦见证国羽巅峰",
@@ -1404,6 +1644,9 @@
     },
     {
       "word": "#抓好重点行业领域风险隐患排查整治#"
+    },
+    {
+      "word": "#总书记深情寄语大学生#"
     }
   ]
 }
