@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/05 08:16:01
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/05 11:44:10
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@ Rookie道歉（热度：15863993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AD%99%E6%9D%A8%E5%A6%88%E5%A6%88%E8%A6%81%E6%B1%82%E5%88%A0%E9%99%A4%E9%A9%AC%E9%A0%94%E5%8F%91%E8%A8%80%23" target="weibo">
 网传孙杨妈妈要求删除马頔发言（热度：10887695）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B421%E6%AD%BB61%E4%BC%A4%23" target="weibo">
+浏阳烟花厂爆炸已致21死61伤（热度：10739678）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ sbti人格大全（热度：2397402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%8B%82%E6%8E%A5%E5%95%86%E5%8A%A1%23" target="weibo">
 何润东狂接商务（热度：2389092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%23" target="weibo">
-歌手2026（热度：2388024）
 </a>
 </li>
 
