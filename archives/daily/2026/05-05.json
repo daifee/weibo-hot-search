@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777978903380,
+  "endTime": 1777980160987,
   "band_list": [
     {
       "raw_hot": 12337365,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2253954,
+      "num": 530590,
+      "word": "谢娜演唱会",
+      "onboard_time": 1777979182,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2021613,
       "num": 2125402,
       "word": "奔跑吧打假",
@@ -48,6 +56,14 @@
       "word": "好多人给谢娜送花篮",
       "onboard_time": 1777968981,
       "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1491660,
+      "num": 520131,
+      "word": "大哥谢娜 二弟赵丽颖",
+      "onboard_time": 1777974742,
+      "rank": 10,
       "category": "演出"
     },
     {
@@ -73,14 +89,6 @@
       "onboard_time": 1777874061,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1391261,
-      "num": 520131,
-      "word": "大哥谢娜 二弟赵丽颖",
-      "onboard_time": 1777974742,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1369336,
@@ -179,8 +187,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 961758,
-      "num": 961758,
+      "raw_hot": 965736,
+      "num": 965736,
       "word": "马龙许昕刘诗雯现场观战国乒",
       "onboard_time": 1777975821,
       "rank": 1,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798962,
+      "num": 798962,
+      "word": "高市早苗在澳大利亚下跪献花",
+      "onboard_time": 1777972161,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 789788,
       "num": 789788,
       "word": "52岁医生胃癌确诊到离世仅2个月",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 743783,
-      "num": 542754,
+      "num": 592578,
       "word": "歌手2026首发阵容新版本",
       "onboard_time": 1777970241,
       "rank": 13,
@@ -289,14 +305,6 @@
       "onboard_time": 1777960341,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 725549,
-      "num": 725549,
-      "word": "高市早苗在澳大利亚下跪献花",
-      "onboard_time": 1777972161,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 724713,
@@ -345,6 +353,14 @@
       "onboard_time": 1777973181,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640135,
+      "num": 460921,
+      "word": "父母平分6套房产差12平米儿媳翻脸",
+      "onboard_time": 1777977441,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 615333,
@@ -515,14 +531,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 475284,
-      "num": 460921,
-      "word": "父母平分6套房产差12平米儿媳翻脸",
-      "onboard_time": 1777977441,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 469349,
       "num": 469349,
       "word": "张月急性肠胃炎",
@@ -675,6 +683,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 364944,
+      "num": 318235,
+      "word": "赖冠霖纹了WANNAONE出道日",
+      "onboard_time": 1777977080,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 359943,
+      "num": 359943,
+      "word": "国乒男团晋级16强",
+      "onboard_time": 1777978881,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355380,
       "num": 449832,
       "word": "为什么部分女性愿意上周媛的性商课",
@@ -811,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305796,
+      "num": 305796,
+      "word": "第一次见爸爸和女儿不熟的",
+      "onboard_time": 1777974442,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300058,
       "num": 412046,
       "word": "新郎敬茶时口误说爸请喝酒",
@@ -851,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286439,
+      "num": 313666,
+      "word": "有多少城市能撑起来七日游",
+      "onboard_time": 1777970660,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 286197,
       "num": 286197,
       "word": "丁俊晖祝贺吴宜泽",
@@ -867,16 +907,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283452,
-      "num": 313666,
-      "word": "有多少城市能撑起来七日游",
-      "onboard_time": 1777970660,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 270826,
-      "num": 270826,
+      "raw_hot": 270915,
+      "num": 270915,
       "word": "呵呵陪白鹿录制跑男",
       "onboard_time": 1777975580,
       "rank": 31,
@@ -939,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 253340,
-      "num": 253340,
-      "word": "赖冠霖纹了WANNAONE出道日",
-      "onboard_time": 1777977080,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -969,6 +993,14 @@
       "onboard_time": 1777910481,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 244763,
+      "num": 244763,
+      "word": "金俊勉发了吴世勋十年前的照片",
+      "onboard_time": 1777975221,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 237839,
@@ -1035,14 +1067,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 220005,
-      "num": 220005,
-      "word": "金俊勉发了吴世勋十年前的照片",
-      "onboard_time": 1777975221,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217891,
       "num": 386550,
       "word": "女子买200元刮刮乐中奖100万",
@@ -1091,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204700,
+      "num": 204700,
+      "word": "河南人每天就过这样的好日子",
+      "onboard_time": 1777979421,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204378,
       "num": 437377,
       "word": "金饰克价跌到1396元",
@@ -1131,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190391,
+      "num": 190391,
+      "word": "小长假让我断了裸辞的念头",
+      "onboard_time": 1777966824,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190346,
       "num": 293366,
       "word": "浏阳烟花厂库区存放大量火药",
@@ -1145,14 +1185,6 @@
       "onboard_time": 1777962623,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189821,
-      "num": 189821,
-      "word": "第一次见爸爸和女儿不熟的",
-      "onboard_time": 1777974442,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 189773,
@@ -1177,6 +1209,22 @@
       "onboard_time": 1777913898,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186965,
+      "num": 186965,
+      "word": "全网催王濛给刘雨昕交作业",
+      "onboard_time": 1777979660,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185100,
+      "num": 185100,
+      "word": "严浩翔贺峻霖直播好卡",
+      "onboard_time": 1777979182,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 182950,
@@ -1259,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159112,
+      "num": 159112,
+      "word": "雾里青",
+      "onboard_time": 1777980022,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158138,
       "num": 271367,
       "word": "斯诺克世锦赛首个00后冠军",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1777887441,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154667,
+      "num": 154667,
+      "word": "大连现全李酒店与全季差一撇",
+      "onboard_time": 1777974624,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153538,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1777939579,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150079,
+      "num": 150079,
+      "word": "雾里青路透",
+      "onboard_time": 1777980142,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 147044,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1777970360,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 113946,
+      "num": 338893,
+      "word": "佳偶天成",
+      "onboard_time": 1777978881,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113663,
@@ -1563,14 +1643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89601,
-      "num": 169028,
-      "word": "佳偶天成",
-      "onboard_time": 1777978881,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89467,
       "num": 89467,
       "word": "悬空寺一票难求",
@@ -1643,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74027,
-      "num": 172682,
-      "word": "国乒男团晋级16强",
-      "onboard_time": 1777978881,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73987,
       "num": 93114,
       "word": "田曦薇拍的王骁",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1777918276,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52505,
+      "num": 162710,
+      "word": "将成立国务院浏阳烟花爆炸事故调查组",
+      "onboard_time": 1777980142,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48639,
