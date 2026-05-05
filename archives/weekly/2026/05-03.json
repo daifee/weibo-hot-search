@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777980160987,
+  "endTime": 1777985241868,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4358466,
+      "num": 1099905,
+      "word": "景区悬崖秋千绳索断裂游客坠落",
+      "onboard_time": 1777981760,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4180776,
       "num": 4180776,
       "word": "国乒男团2比3瑞典",
@@ -80,6 +88,14 @@
       "word": "难听",
       "onboard_time": 1777895661,
       "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 3081696,
+      "num": 1049145,
+      "word": "谢娜演唱会",
+      "onboard_time": 1777979182,
+      "rank": 10,
       "category": "演出"
     },
     {
@@ -155,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2253954,
-      "num": 530590,
-      "word": "谢娜演唱会",
-      "onboard_time": 1777979182,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 2249729,
       "num": 804294,
       "word": "白鹿被孟子义说挂相",
       "onboard_time": 1777785379,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2076730,
+      "num": 520131,
+      "word": "大哥谢娜 二弟赵丽颖",
+      "onboard_time": 1777974742,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2036641,
@@ -235,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1695570,
+      "num": 1695570,
+      "word": "妻子的浪漫旅行 变味",
+      "onboard_time": 1777981161,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1657360,
       "num": 158510,
       "word": "严军不敢发和严浩翔的聊天记录",
@@ -273,14 +297,6 @@
       "onboard_time": 1777811002,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1491660,
-      "num": 520131,
-      "word": "大哥谢娜 二弟赵丽颖",
-      "onboard_time": 1777974742,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1439653,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 829613,
+      "num": 431707,
+      "word": "穆祉丞发大合照了",
+      "onboard_time": 1777984759,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 803875,
       "num": 803875,
       "word": "大睡特睡 修复前额叶",
@@ -905,6 +929,14 @@
       "onboard_time": 1777963100,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674327,
+      "num": 674327,
+      "word": "第一次见爸爸和女儿不熟的",
+      "onboard_time": 1777974442,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 674004,
@@ -1219,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529840,
+      "num": 408926,
+      "word": "赖冠霖首次公开在北京近况",
+      "onboard_time": 1777983082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525934,
       "num": 464286,
       "word": "吴宜泽10比7墨菲",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1777944081,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523600,
+      "num": 407483,
+      "word": "黄明昊去看时代少年团演唱会了",
+      "onboard_time": 1777983142,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 520357,
@@ -1523,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451972,
+      "num": 451972,
+      "word": "国乒男团晋级16强",
+      "onboard_time": 1777978881,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 448026,
       "num": 448026,
       "word": "曾沛慈范玮琪合照",
@@ -1673,6 +1729,22 @@
       "onboard_time": 1777852517,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407497,
+      "num": 407497,
+      "word": "悬崖秋千",
+      "onboard_time": 1777983622,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406978,
+      "num": 406978,
+      "word": "赖冠霖纹了WANNAONE出道日",
+      "onboard_time": 1777977080,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 406873,
@@ -1939,11 +2011,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 364944,
-      "num": 318235,
-      "word": "赖冠霖纹了WANNAONE出道日",
-      "onboard_time": 1777977080,
-      "rank": 35,
+      "raw_hot": 365425,
+      "num": 365425,
+      "word": "宋亚轩说算哥哥没用",
+      "onboard_time": 1777983803,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1969,14 +2041,6 @@
       "onboard_time": 1777877423,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359943,
-      "num": 359943,
-      "word": "国乒男团晋级16强",
-      "onboard_time": 1777978881,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 358270,
@@ -2403,14 +2467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 305796,
-      "num": 305796,
-      "word": "第一次见爸爸和女儿不熟的",
-      "onboard_time": 1777974442,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304845,
       "num": 346430,
       "word": "他就摸了一下魔方就复原了",
@@ -2424,6 +2480,14 @@
       "word": "尤伯杯",
       "onboard_time": 1777805302,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304288,
+      "num": 281952,
+      "word": "吴宜泽奖金实际到手约26.5万镑",
+      "onboard_time": 1777981342,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -2473,6 +2537,14 @@
       "onboard_time": 1777948161,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299738,
+      "num": 407233,
+      "word": "2名中国游客日本登山食物耗尽",
+      "onboard_time": 1777983021,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298837,
@@ -2665,6 +2737,14 @@
       "onboard_time": 1777881801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272763,
+      "num": 272763,
+      "word": "将成立国务院浏阳烟花爆炸事故调查组",
+      "onboard_time": 1777980142,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270915,
@@ -2899,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238043,
+      "num": 238043,
+      "word": "小长假让我断了裸辞的念头",
+      "onboard_time": 1777966824,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237922,
       "num": 321963,
       "word": "四辆车爆胎报警后警车来了也爆胎",
@@ -2953,6 +3041,14 @@
       "onboard_time": 1777873160,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232291,
+      "num": 232291,
+      "word": "王楚钦终于笑了",
+      "onboard_time": 1777985002,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 232082,
@@ -3083,6 +3179,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222992,
+      "num": 222992,
+      "word": "全网催王濛给刘雨昕交作业",
+      "onboard_time": 1777979660,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222062,
+      "num": 222062,
+      "word": "河南人每天就过这样的好日子",
+      "onboard_time": 1777979421,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220634,
       "num": 449228,
       "word": "敦煌一厕所走红游客手持卫生纸打卡",
@@ -3104,6 +3216,14 @@
       "word": "女子买200元刮刮乐中奖100万",
       "onboard_time": 1777952842,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216318,
+      "num": 216318,
+      "word": "官方回应景区悬崖秋千绳索断裂",
+      "onboard_time": 1777984282,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -3267,14 +3387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204700,
-      "num": 204700,
-      "word": "河南人每天就过这样的好日子",
-      "onboard_time": 1777979421,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204453,
       "num": 259664,
       "word": "Tian闹剧结束了",
@@ -3315,12 +3427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200877,
+      "num": 200877,
+      "word": "丁程鑫眉钉帅得好锋利",
+      "onboard_time": 1777983622,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198919,
       "num": 248511,
       "word": "平台已对抢方向盘女子账号实施管控",
       "onboard_time": 1777911142,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198864,
+      "num": 198864,
+      "word": "郑钦文vs邦达尔",
+      "onboard_time": 1777978821,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 198683,
@@ -3403,6 +3531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192758,
+      "num": 282061,
+      "word": "将男厕临时改为女厕景区获全网点赞",
+      "onboard_time": 1777983921,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191747,
       "num": 400972,
       "word": "刘耀文拍肩安慰严浩翔",
@@ -3417,14 +3553,6 @@
       "onboard_time": 1777794739,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190391,
-      "num": 190391,
-      "word": "小长假让我断了裸辞的念头",
-      "onboard_time": 1777966824,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 190346,
@@ -3489,14 +3617,6 @@
       "onboard_time": 1777913898,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186965,
-      "num": 186965,
-      "word": "全网催王濛给刘雨昕交作业",
-      "onboard_time": 1777979660,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 186282,
@@ -3649,6 +3769,14 @@
       "onboard_time": 1777878020,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177348,
+      "num": 177348,
+      "word": "张凌赫穿上田曦薇同款了",
+      "onboard_time": 1777982121,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 177285,
@@ -3811,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168209,
+      "num": 168209,
+      "word": "MRC对战TE",
+      "onboard_time": 1777979780,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168095,
       "num": 216140,
       "word": "王皓安抚王楚钦",
@@ -3824,14 +3960,6 @@
       "word": "斯诺克",
       "onboard_time": 1777852398,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166767,
-      "num": 166767,
-      "word": "郑钦文vs邦达尔",
-      "onboard_time": 1777978821,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -4763,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117195,
+      "num": 199276,
+      "word": "伊朗外交部长访华",
+      "onboard_time": 1777981342,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116748,
       "num": 233481,
       "word": "何昶希采访",
@@ -5411,14 +5547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52505,
-      "num": 162710,
-      "word": "将成立国务院浏阳烟花爆炸事故调查组",
-      "onboard_time": 1777980142,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52149,
       "num": 143778,
       "word": "主要产油国宣布6月增产",
@@ -5649,6 +5777,14 @@
       "onboard_time": 1777903102,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37505,
+      "num": 407371,
+      "word": "我被文淇翻牌了",
+      "onboard_time": 1777983742,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 36899,
@@ -5891,6 +6027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14810,
+      "num": 1100934,
+      "word": "智慧春耕科技范儿十足",
+      "onboard_time": 1777984700,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14341,
       "num": 278049,
       "word": "女子大赞有工作人员劝阻站台吸烟",
@@ -6020,6 +6164,9 @@
     },
     {
       "word": "#总书记深情寄语大学生#"
+    },
+    {
+      "word": "#总书记深情寄语中国青年#"
     }
   ]
 }

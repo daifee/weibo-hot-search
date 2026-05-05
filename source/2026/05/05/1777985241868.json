@@ -1,0 +1,410 @@
+{
+  "runTime": 1777985241868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695570,
+        "num": 1695570,
+        "word": "妻子的浪漫旅行 变味",
+        "onboard_time": 1777981161,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595949,
+        "num": 1401299,
+        "word": "世乒赛男团澳大利亚变阵",
+        "onboard_time": 1777970900,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14810,
+        "num": 1100934,
+        "word": "智慧春耕科技范儿十足",
+        "onboard_time": 1777984700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4358466,
+        "num": 1099905,
+        "word": "景区悬崖秋千绳索断裂游客坠落",
+        "onboard_time": 1777981760,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3081696,
+        "num": 1049145,
+        "word": "谢娜演唱会",
+        "onboard_time": 1777979182,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 988746,
+        "num": 988746,
+        "word": "奔跑吧打假",
+        "onboard_time": 1777958600,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674327,
+        "num": 674327,
+        "word": "第一次见爸爸和女儿不熟的",
+        "onboard_time": 1777974442,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 626701,
+        "num": 626701,
+        "word": "浏阳烟花厂爆炸致26死61伤",
+        "onboard_time": 1777960223,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 451972,
+        "num": 451972,
+        "word": "国乒男团晋级16强",
+        "onboard_time": 1777978881,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266021,
+        "num": 446769,
+        "word": "鸿蒙智行回应副驾折叠争议",
+        "onboard_time": 1777975401,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2076730,
+        "num": 439639,
+        "word": "大哥谢娜 二弟赵丽颖",
+        "onboard_time": 1777974742,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 829613,
+        "num": 431707,
+        "word": "穆祉丞发大合照了",
+        "onboard_time": 1777984759,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506604,
+        "num": 427382,
+        "word": "机场提示禁止携带越王勾践剑登机",
+        "onboard_time": 1777975282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560727,
+        "num": 418428,
+        "word": "你好星期六没有给张婧仪道歉",
+        "onboard_time": 1777970900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529840,
+        "num": 408926,
+        "word": "赖冠霖首次公开在北京近况",
+        "onboard_time": 1777983082,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407497,
+        "num": 407497,
+        "word": "悬崖秋千",
+        "onboard_time": 1777983622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523600,
+        "num": 407483,
+        "word": "黄明昊去看时代少年团演唱会了",
+        "onboard_time": 1777983142,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37505,
+        "num": 407371,
+        "word": "我被文淇翻牌了",
+        "onboard_time": 1777983742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366179,
+        "num": 407323,
+        "word": "以为低糖低油其实长肉的食物",
+        "onboard_time": 1777970120,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299738,
+        "num": 407233,
+        "word": "2名中国游客日本登山食物耗尽",
+        "onboard_time": 1777983021,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 550208,
+        "num": 407135,
+        "word": "父母平分6套房产差12平米儿媳翻脸",
+        "onboard_time": 1777977441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434790,
+        "num": 407045,
+        "word": "歌手2026首发阵容新版本",
+        "onboard_time": 1777970241,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406978,
+        "num": 406978,
+        "word": "赖冠霖纹了WANNAONE出道日",
+        "onboard_time": 1777977080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390846,
+        "num": 390846,
+        "word": "马龙许昕刘诗雯现场观战国乒",
+        "onboard_time": 1777975821,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397966,
+        "num": 388255,
+        "word": "路人上海偶遇angelababy小海绵",
+        "onboard_time": 1777967301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377931,
+        "num": 377931,
+        "word": "跟林依晨分手后前男友因性侵入狱",
+        "onboard_time": 1777957401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366820,
+        "num": 366820,
+        "word": "小猫还原自己摔伤过程",
+        "onboard_time": 1777971441,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365425,
+        "num": 365425,
+        "word": "宋亚轩说算哥哥没用",
+        "onboard_time": 1777983803,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154949,
+        "num": 323039,
+        "word": "赛力斯跌超6%",
+        "onboard_time": 1777970900,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283548,
+        "num": 283548,
+        "word": "长沙市委市政府致歉",
+        "onboard_time": 1777967000,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 192758,
+        "num": 282061,
+        "word": "将男厕临时改为女厕景区获全网点赞",
+        "onboard_time": 1777983921,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304288,
+        "num": 281952,
+        "word": "吴宜泽奖金实际到手约26.5万镑",
+        "onboard_time": 1777981342,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281418,
+        "num": 281418,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1777973181,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277722,
+        "num": 277722,
+        "word": "除非白鹿不想录了",
+        "onboard_time": 1777968862,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272763,
+        "num": 272763,
+        "word": "将成立国务院浏阳烟花爆炸事故调查组",
+        "onboard_time": 1777980142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263573,
+        "num": 263573,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1777981222,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238043,
+        "num": 238043,
+        "word": "小长假让我断了裸辞的念头",
+        "onboard_time": 1777966824,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232610,
+        "num": 232610,
+        "word": "浏阳烟花厂爆炸前后对比",
+        "onboard_time": 1777969280,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232291,
+        "num": 232291,
+        "word": "王楚钦终于笑了",
+        "onboard_time": 1777985002,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222992,
+        "num": 222992,
+        "word": "全网催王濛给刘雨昕交作业",
+        "onboard_time": 1777979660,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222062,
+        "num": 222062,
+        "word": "河南人每天就过这样的好日子",
+        "onboard_time": 1777979421,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216318,
+        "num": 216318,
+        "word": "官方回应景区悬崖秋千绳索断裂",
+        "onboard_time": 1777984282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200877,
+        "num": 200877,
+        "word": "丁程鑫眉钉帅得好锋利",
+        "onboard_time": 1777983622,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117195,
+        "num": 199276,
+        "word": "伊朗外交部长访华",
+        "onboard_time": 1777981342,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198864,
+        "num": 198864,
+        "word": "郑钦文vs邦达尔",
+        "onboard_time": 1777978821,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 189254,
+        "word": "张月急性肠胃炎",
+        "onboard_time": 1777975821,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "张凌赫穿上田曦薇同款了",
+        "onboard_time": 1777982121,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168209,
+        "num": 168209,
+        "word": "MRC对战TE",
+        "onboard_time": 1777979780,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120651,
+        "num": 153223,
+        "word": "国内一年仅卖2763万台彩电",
+        "onboard_time": 1777957881,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79791,
+        "num": 152114,
+        "word": "主播天权离开东方甄选后首次直播",
+        "onboard_time": 1777975042,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语中国青年#"
+    }
+  }
+}
