@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778013634515,
+  "endTime": 1778018867909,
   "band_list": [
     {
       "raw_hot": 3742843,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134129,
+      "num": 84610,
+      "word": "国乒男团9比0横扫澳大利亚",
+      "onboard_time": 1778014454,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131354,
       "num": 652073,
       "word": "跟林依晨分手后前男友因性侵入狱",
@@ -515,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31844,
+      "num": 62162,
+      "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
+      "onboard_time": 1778012834,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29734,
       "num": 129944,
       "word": "人民日报夜读",
@@ -529,6 +545,14 @@
       "onboard_time": 1778003176,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24757,
+      "num": 54904,
+      "word": "突然顿悟了文人为何偏爱竹",
+      "onboard_time": 1778016074,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 24722,
@@ -547,19 +571,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16675,
-      "num": 62162,
-      "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
-      "onboard_time": 1778012834,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16001,
       "num": 39395,
       "word": "成都蓉城绝杀辽宁铁人",
       "onboard_time": 1778013134,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13263,
+      "num": 55087,
+      "word": "吴宜泽只想好好睡一觉",
+      "onboard_time": 1778010015,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -571,11 +595,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7681,
-      "num": 41462,
-      "word": "吴宜泽只想好好睡一觉",
-      "onboard_time": 1778010015,
-      "rank": 45,
+      "raw_hot": 4375,
+      "num": 85036,
+      "word": "吴宜泽已开设吴宜泽台球俱乐部",
+      "onboard_time": 1778018534,
+      "rank": 8,
       "category": "体育"
     }
   ],
