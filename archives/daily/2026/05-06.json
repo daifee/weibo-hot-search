@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1777999688588,
+  "endTime": 1778000691064,
   "band_list": [
     {
       "raw_hot": 3742843,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486072,
+      "num": 709441,
+      "word": "一定要好好度过你的奥德赛时期",
+      "onboard_time": 1777997660,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460090,
       "num": 695683,
       "word": "单眼皮的小黄豆道歉",
@@ -97,14 +105,6 @@
       "onboard_time": 1777986262,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412378,
-      "num": 709441,
-      "word": "一定要好好度过你的奥德赛时期",
-      "onboard_time": 1777997660,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 399875,
@@ -136,6 +136,14 @@
       "word": "天津一山姆内顾客拿袋子装免费酱料",
       "onboard_time": 1777986082,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332759,
+      "num": 681659,
+      "word": "山姆回应多名顾客拿袋子装免费酱料",
+      "onboard_time": 1777999339,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 225802,
-      "num": 681659,
-      "word": "山姆回应多名顾客拿袋子装免费酱料",
-      "onboard_time": 1777999339,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217155,
       "num": 677533,
       "word": "野草莓一斤能卖上百元",
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179842,
+      "num": 716283,
+      "word": "王楚钦终于笑了",
+      "onboard_time": 1777985002,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176987,
       "num": 670890,
       "word": "浏阳烟花厂爆炸致26死61伤",
       "onboard_time": 1777960223,
       "rank": 29,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 172400,
-      "num": 716283,
-      "word": "王楚钦终于笑了",
-      "onboard_time": 1777985002,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 158796,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103948,
+      "num": 173517,
+      "word": "你好星期六没有给张婧仪道歉",
+      "onboard_time": 1777970900,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100315,
       "num": 638331,
       "word": "2名中国游客日本登山食物耗尽",
@@ -387,7 +395,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64050,
+      "raw_hot": 74079,
+      "num": 171930,
+      "word": "喀什恋歌上新闻联播了",
+      "onboard_time": 1777999039,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73908,
       "num": 634862,
       "word": "鸿蒙智行回应副驾折叠争议",
       "onboard_time": 1777975401,
@@ -395,7 +411,79 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10004,
+      "raw_hot": 72999,
+      "num": 171568,
+      "word": "小猫还原自己摔伤过程",
+      "onboard_time": 1777971441,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67613,
+      "num": 171397,
+      "word": "夫妻住新疆帐篷民宿帐篷突然被人拉开",
+      "onboard_time": 1778000418,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66319,
+      "num": 171103,
+      "word": "以为低糖低油其实长肉的食物",
+      "onboard_time": 1777970120,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61715,
+      "num": 171009,
+      "word": "第一次看小猫掉毛看力竭了",
+      "onboard_time": 1778000418,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61310,
+      "num": 170751,
+      "word": "这密室开着灯我都不敢玩",
+      "onboard_time": 1778000418,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61089,
+      "num": 170548,
+      "word": "机场提示禁止携带越王勾践剑登机",
+      "onboard_time": 1777975282,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57855,
+      "num": 170429,
+      "word": "第一次直观地意识到自己有多馋",
+      "onboard_time": 1778000418,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53763,
+      "num": 170302,
+      "word": "获救者回忆浏阳烟花厂爆炸瞬间",
+      "onboard_time": 1778000418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49929,
+      "num": 170161,
+      "word": "丁程鑫越湿越帅",
+      "onboard_time": 1777987163,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11959,
       "num": 729144,
       "word": "智慧春耕科技范儿十足",
       "onboard_time": 1777984700,

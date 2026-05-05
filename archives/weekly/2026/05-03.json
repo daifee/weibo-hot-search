@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1777999688588,
+  "endTime": 1778000691064,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1507,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486072,
+      "num": 709441,
+      "word": "一定要好好度过你的奥德赛时期",
+      "onboard_time": 1777997660,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485960,
       "num": 485960,
       "word": "国羽尤伯杯亚军",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1777951101,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412378,
-      "num": 709441,
-      "word": "一定要好好度过你的奥德赛时期",
-      "onboard_time": 1777997660,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 408246,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1777876041,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332759,
+      "num": 681659,
+      "word": "山姆回应多名顾客拿袋子装免费酱料",
+      "onboard_time": 1777999339,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330138,
@@ -3305,14 +3313,6 @@
       "onboard_time": 1777811183,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 225802,
-      "num": 681659,
-      "word": "山姆回应多名顾客拿袋子装免费酱料",
-      "onboard_time": 1777999339,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225632,
@@ -5635,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74079,
+      "num": 171930,
+      "word": "喀什恋歌上新闻联播了",
+      "onboard_time": 1777999039,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73987,
       "num": 93114,
       "word": "田曦薇拍的王骁",
@@ -5675,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67613,
+      "num": 171397,
+      "word": "夫妻住新疆帐篷民宿帐篷突然被人拉开",
+      "onboard_time": 1778000418,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64548,
       "num": 214923,
       "word": "这届年轻人的顶级心态",
@@ -5689,6 +5705,22 @@
       "onboard_time": 1777797259,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61715,
+      "num": 171009,
+      "word": "第一次看小猫掉毛看力竭了",
+      "onboard_time": 1778000418,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61310,
+      "num": 170751,
+      "word": "这密室开着灯我都不敢玩",
+      "onboard_time": 1778000418,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 60115,
@@ -5729,6 +5761,14 @@
       "onboard_time": 1777960881,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57855,
+      "num": 170429,
+      "word": "第一次直观地意识到自己有多馋",
+      "onboard_time": 1778000418,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 57579,
@@ -5795,6 +5835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53763,
+      "num": 170302,
+      "word": "获救者回忆浏阳烟花厂爆炸瞬间",
+      "onboard_time": 1778000418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53743,
       "num": 218517,
       "word": "AG确认挑杯八强",
@@ -5833,6 +5881,14 @@
       "onboard_time": 1777827678,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 49929,
+      "num": 170161,
+      "word": "丁程鑫越湿越帅",
+      "onboard_time": 1777987163,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 49885,
