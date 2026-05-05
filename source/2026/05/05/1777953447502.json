@@ -1,0 +1,410 @@
+{
+  "runTime": 1777953447502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10120901,
+        "num": 10120901,
+        "word": "浏阳烟花厂爆炸已致21死61伤",
+        "onboard_time": 1777943660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714214,
+        "num": 1896290,
+        "word": "端午节连休3天不调休",
+        "onboard_time": 1777941679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33852,
+        "num": 1563702,
+        "word": "数字技术催生文旅新业态",
+        "onboard_time": 1777946662,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 910683,
+        "num": 910683,
+        "word": "穆祉丞戛纳",
+        "onboard_time": 1777949601,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563177,
+        "num": 563177,
+        "word": "浏阳烟花爆炸企业负责人被控制",
+        "onboard_time": 1777945101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 862617,
+        "num": 546316,
+        "word": "王俊凯 中餐厅10",
+        "onboard_time": 1777947081,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515068,
+        "num": 515068,
+        "word": "别把男友的隐性贬低当成爱",
+        "onboard_time": 1777950380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508406,
+        "num": 508406,
+        "word": "吴宜泽父亲卖掉全家唯一住房投资儿子",
+        "onboard_time": 1777944081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451775,
+        "num": 451775,
+        "word": "栖见 白日梦我",
+        "onboard_time": 1777947023,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 191438,
+        "num": 451652,
+        "word": "红果靠免费起家吸引近2亿用户",
+        "onboard_time": 1777950141,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1174902,
+        "num": 447865,
+        "word": "BLACKPINK全员亮相metgala红毯",
+        "onboard_time": 1777943179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677473,
+        "num": 446436,
+        "word": "虞书欣 种地吧",
+        "onboard_time": 1777950021,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627891,
+        "num": 444795,
+        "word": "谷爱凌的裙子会吹泡泡",
+        "onboard_time": 1777944381,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558862,
+        "num": 442042,
+        "word": "时代少年团演唱会导播致歉",
+        "onboard_time": 1777949601,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 463600,
+        "num": 440172,
+        "word": "你根本没意识到自己有多年轻",
+        "onboard_time": 1777951460,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450572,
+        "num": 437808,
+        "word": "张凌赫林允45秒吻戏",
+        "onboard_time": 1777941140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412551,
+        "num": 435920,
+        "word": "中餐厅10",
+        "onboard_time": 1777951101,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401634,
+        "num": 433368,
+        "word": "夫妻住没锁帐篷民宿遭陌生人闯入",
+        "onboard_time": 1777948823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380467,
+        "num": 430744,
+        "word": "中国教练被吴宜泽一杆制胜惊呆了",
+        "onboard_time": 1777949841,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226815,
+        "num": 429585,
+        "word": "泽连斯基宣布5月6日起单方面停火",
+        "onboard_time": 1777940480,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375276,
+        "num": 426046,
+        "word": "赵心童回应吴宜泽夺世锦赛冠军",
+        "onboard_time": 1777942879,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359781,
+        "num": 424852,
+        "word": "时代少年团辟谣",
+        "onboard_time": 1777946121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291384,
+        "num": 422335,
+        "word": "MetGala红毯",
+        "onboard_time": 1777940178,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199196,
+        "num": 419516,
+        "word": "金饰克价跌到1396元",
+        "onboard_time": 1777950562,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290890,
+        "num": 417846,
+        "word": "宁艺卓拖尾黑纱裙",
+        "onboard_time": 1777942760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239073,
+        "num": 416323,
+        "word": "穆祉丞高会",
+        "onboard_time": 1777943419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355380,
+        "num": 414317,
+        "word": "为什么部分女性愿意上周媛的性商课",
+        "onboard_time": 1777952000,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193527,
+        "num": 411095,
+        "word": "刘雯白色挂脖礼服",
+        "onboard_time": 1777950682,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189097,
+        "num": 409755,
+        "word": "metgala主题",
+        "onboard_time": 1777946421,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300940,
+        "num": 406749,
+        "word": "吴宜泽夺世锦赛冠军",
+        "onboard_time": 1777934896,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300058,
+        "num": 405017,
+        "word": "新郎敬茶时口误说爸请喝酒",
+        "onboard_time": 1777948161,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271080,
+        "num": 403339,
+        "word": "G社宁艺卓metgala生图",
+        "onboard_time": 1777948582,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260185,
+        "num": 401545,
+        "word": "男主播嘲讽女子40码鞋被永久除名",
+        "onboard_time": 1777909581,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 259115,
+        "num": 399439,
+        "word": "严浩翔 躲镜头",
+        "onboard_time": 1777941740,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242395,
+        "num": 396748,
+        "word": "国乒急需下一个樊振东王楚钦",
+        "onboard_time": 1777907244,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227016,
+        "num": 393091,
+        "word": "预测白玉兰得奖名单",
+        "onboard_time": 1777939219,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220634,
+        "num": 391109,
+        "word": "敦煌一厕所走红游客手持卫生纸打卡",
+        "onboard_time": 1777951940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217450,
+        "num": 388566,
+        "word": "国乒何时能迎樊振东归来",
+        "onboard_time": 1777946421,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209496,
+        "num": 386550,
+        "word": "女子买200元刮刮乐中奖100万",
+        "onboard_time": 1777952842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189773,
+        "num": 384934,
+        "word": "森林狼vs马刺",
+        "onboard_time": 1777946662,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185894,
+        "num": 383453,
+        "word": "没回消息是因为手机死翘翘了吗",
+        "onboard_time": 1777952423,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182950,
+        "num": 381459,
+        "word": "严浩翔高会更新",
+        "onboard_time": 1777941440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182310,
+        "num": 377801,
+        "word": "立夏",
+        "onboard_time": 1777939998,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179795,
+        "num": 376837,
+        "word": "王灿回应女儿烫发",
+        "onboard_time": 1777947741,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168297,
+        "num": 374961,
+        "word": "柳智敏metgala新闻图",
+        "onboard_time": 1777943361,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162938,
+        "num": 371787,
+        "word": "52岁医生胃癌确诊到离世仅2个月",
+        "onboard_time": 1777935856,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102810,
+        "num": 369011,
+        "word": "阿联酋再遭空袭",
+        "onboard_time": 1777952720,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76093,
+        "num": 368144,
+        "word": "红果VIP 付费",
+        "onboard_time": 1777884740,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34290,
+        "num": 365977,
+        "word": "苹果或与英特尔三星合作",
+        "onboard_time": 1777951881,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27277,
+        "num": 364355,
+        "word": "豆包 付费",
+        "onboard_time": 1777874061,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓好重点行业领域风险隐患排查整治#"
+    }
+  }
+}
