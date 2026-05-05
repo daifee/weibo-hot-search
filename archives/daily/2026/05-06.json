@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778023781148,
+  "endTime": 1778025435681,
   "band_list": [
     {
       "raw_hot": 3742843,
@@ -35,12 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937719,
+      "num": 365646,
+      "word": "女子坠亡悬崖秋千开业仅1个多月",
+      "onboard_time": 1778022978,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 909971,
       "num": 701268,
       "word": "悬崖秋千事故景区已停业",
       "onboard_time": 1777994901,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 897795,
+      "num": 1110591,
+      "word": "欧冠",
+      "onboard_time": 1778022799,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 776641,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 561672,
-      "num": 304917,
+      "num": 323838,
       "word": "大哥谢娜 二弟赵丽颖",
       "onboard_time": 1777974742,
       "rank": 10,
@@ -91,28 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530576,
-      "num": 291281,
-      "word": "女子坠亡悬崖秋千开业仅1个多月",
-      "onboard_time": 1778022978,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486072,
+      "raw_hot": 525977,
       "num": 709441,
       "word": "一定要好好度过你的奥德赛时期",
       "onboard_time": 1777997660,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 481670,
-      "num": 481670,
-      "word": "欧冠",
-      "onboard_time": 1778022799,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 460090,
@@ -123,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427353,
+      "raw_hot": 440303,
       "num": 719301,
       "word": "四川华蓥瀑布秋千事故致1死",
       "onboard_time": 1777986262,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401970,
+      "num": 401970,
+      "word": "中国青年身高涨幅引外网热议",
+      "onboard_time": 1778022017,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 399875,
@@ -171,6 +179,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317201,
+      "num": 696348,
+      "word": "将男厕临时改为女厕景区获全网点赞",
+      "onboard_time": 1777983921,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307788,
+      "num": 307788,
+      "word": "国乒男团9比0横扫澳大利亚",
+      "onboard_time": 1778014454,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299955,
+      "num": 299955,
+      "word": "吴宜泽回应50万英镑奖金用途",
+      "onboard_time": 1778024419,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296950,
       "num": 680389,
       "word": "奔跑吧打假",
@@ -187,22 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280916,
-      "num": 696348,
-      "word": "将男厕临时改为女厕景区获全网点赞",
-      "onboard_time": 1777983921,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254628,
-      "num": 254628,
-      "word": "国乒男团9比0横扫澳大利亚",
-      "onboard_time": 1778014454,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252949,
       "num": 687386,
       "word": "强大到可怕的顶级心态",
@@ -211,12 +227,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228186,
+      "raw_hot": 251868,
       "num": 693912,
       "word": "李嘉诚套现约455亿港元",
       "onboard_time": 1777993824,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 246068,
+      "num": 791156,
+      "word": "阿森纳晋级欧冠决赛",
+      "onboard_time": 1778022799,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 217155,
@@ -243,12 +267,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200090,
-      "num": 200090,
+      "raw_hot": 201319,
+      "num": 201319,
       "word": "第一次看小猫掉毛看力竭了",
       "onboard_time": 1778000418,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199381,
+      "num": 199381,
+      "word": "留德学生迷奸女友8次获刑11年",
+      "onboard_time": 1778024779,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191073,
@@ -299,12 +331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172859,
-      "num": 328679,
-      "word": "中国青年身高涨幅引外网热议",
-      "onboard_time": 1778022017,
-      "rank": 8,
-      "category": "健康医疗"
+      "raw_hot": 163283,
+      "num": 163283,
+      "word": "四川悬崖秋千事故景区系网红打卡地",
+      "onboard_time": 1778021776,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158796,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151367,
+      "num": 151367,
+      "word": "伊朗发布向美军舰发射导弹视频",
+      "onboard_time": 1778024839,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149233,
       "num": 657144,
       "word": "丁程鑫 在哥哥心中你永远都没有长大",
@@ -361,14 +401,6 @@
       "onboard_time": 1777990045,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136758,
-      "num": 136758,
-      "word": "阿森纳晋级欧冠决赛",
-      "onboard_time": 1778022799,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 135695,
@@ -395,11 +427,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130320,
-      "num": 130320,
-      "word": "四川悬崖秋千事故景区系网红打卡地",
-      "onboard_time": 1778021776,
-      "rank": 25,
+      "raw_hot": 129803,
+      "num": 129803,
+      "word": "女子坠亡悬崖秋千摆弧300米",
+      "onboard_time": 1778024959,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -409,6 +441,14 @@
       "onboard_time": 1777992324,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127566,
+      "num": 127566,
+      "word": "考试前一天做真题回顾还是太权威了",
+      "onboard_time": 1778025019,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 121305,
@@ -451,6 +491,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "留守妈妈1拖3自带娃小儿子头摔地",
+      "onboard_time": 1778025200,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110451,
+      "num": 110451,
+      "word": "突然顿悟了文人为何偏爱竹",
+      "onboard_time": 1778016074,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108530,
       "num": 171397,
       "word": "夫妻住新疆帐篷民宿帐篷突然被人拉开",
@@ -465,6 +521,14 @@
       "onboard_time": 1777968862,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106835,
+      "num": 638331,
+      "word": "2名中国游客日本登山食物耗尽",
+      "onboard_time": 1777983021,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103948,
@@ -483,14 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101842,
-      "num": 638331,
-      "word": "2名中国游客日本登山食物耗尽",
-      "onboard_time": 1777983021,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99027,
       "num": 99027,
       "word": "第五人格",
@@ -499,12 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93814,
-      "num": 93814,
-      "word": "突然顿悟了文人为何偏爱竹",
-      "onboard_time": 1778016074,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 95500,
+      "num": 95500,
+      "word": "中印数亿球迷或无法观看下月世界杯",
+      "onboard_time": 1777986082,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92540,
@@ -547,12 +603,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 68877,
+      "num": 330415,
+      "word": "特朗普称疏导霍尔木兹海峡行动暂停",
+      "onboard_time": 1778024239,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66319,
       "num": 171103,
       "word": "以为低糖低油其实长肉的食物",
       "onboard_time": 1777970120,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62179,
+      "num": 380888,
+      "word": "鲁比奥称对伊朗史诗怒火行动结束",
+      "onboard_time": 1778024179,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61239,
@@ -651,15 +723,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13263,
-      "num": 55087,
-      "word": "吴宜泽只想好好睡一觉",
-      "onboard_time": 1778010015,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 15362,
+      "num": 94696,
+      "word": "OpenAI或加速手机开发",
+      "onboard_time": 1778014815,
+      "rank": 49,
+      "category": "数码"
     },
     {
-      "raw_hot": 11959,
+      "raw_hot": 14597,
       "num": 729144,
       "word": "智慧春耕科技范儿十足",
       "onboard_time": 1777984700,
@@ -667,12 +739,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10323,
-      "num": 80127,
-      "word": "OpenAI或加速手机开发",
-      "onboard_time": 1778014815,
-      "rank": 49,
-      "category": "数码"
+      "raw_hot": 13263,
+      "num": 55087,
+      "word": "吴宜泽只想好好睡一觉",
+      "onboard_time": 1778010015,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 1982,

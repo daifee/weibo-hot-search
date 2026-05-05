@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778023781148,
+  "endTime": 1778025435681,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 937719,
+      "num": 365646,
+      "word": "女子坠亡悬崖秋千开业仅1个多月",
+      "onboard_time": 1778022978,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 921815,
       "num": 2263947,
       "word": "女子搭网约车强抢方向盘酿车祸",
@@ -665,6 +673,14 @@
       "onboard_time": 1777784659,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 897795,
+      "num": 1110591,
+      "word": "欧冠",
+      "onboard_time": 1778022799,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 895100,
@@ -1323,20 +1339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530576,
-      "num": 291281,
-      "word": "女子坠亡悬崖秋千开业仅1个多月",
-      "onboard_time": 1778022978,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 529840,
       "num": 666899,
       "word": "赖冠霖首次公开在北京近况",
       "onboard_time": 1777983082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525977,
+      "num": 709441,
+      "word": "一定要好好度过你的奥德赛时期",
+      "onboard_time": 1777997660,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 525934,
@@ -1515,27 +1531,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486072,
-      "num": 709441,
-      "word": "一定要好好度过你的奥德赛时期",
-      "onboard_time": 1777997660,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 485960,
       "num": 485960,
       "word": "国羽尤伯杯亚军",
       "onboard_time": 1777812862,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 481670,
-      "num": 481670,
-      "word": "欧冠",
-      "onboard_time": 1778022799,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -1739,6 +1739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 440303,
+      "num": 719301,
+      "word": "四川华蓥瀑布秋千事故致1死",
+      "onboard_time": 1777986262,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439948,
       "num": 424203,
       "word": "河南蒜苔 再说原地址给你补五十斤",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1777805842,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427353,
-      "num": 719301,
-      "word": "四川华蓥瀑布秋千事故致1死",
-      "onboard_time": 1777986262,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 424905,
@@ -1889,6 +1889,14 @@
       "onboard_time": 1777896202,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 401970,
+      "num": 401970,
+      "word": "中国青年身高涨幅引外网热议",
+      "onboard_time": 1778022017,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 400143,
@@ -2475,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317201,
+      "num": 696348,
+      "word": "将男厕临时改为女厕景区获全网点赞",
+      "onboard_time": 1777983921,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317185,
       "num": 317185,
       "word": "刘国正谈国乒男团两连败",
@@ -2587,6 +2603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307788,
+      "num": 307788,
+      "word": "国乒男团9比0横扫澳大利亚",
+      "onboard_time": 1778014454,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307758,
       "num": 307758,
       "word": "日本自卫队要打仗",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1777948161,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299955,
+      "num": 299955,
+      "word": "吴宜泽回应50万英镑奖金用途",
+      "onboard_time": 1778024419,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 299738,
@@ -2859,14 +2891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 280916,
-      "num": 696348,
-      "word": "将男厕临时改为女厕景区获全网点赞",
-      "onboard_time": 1777983921,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278400,
       "num": 388371,
       "word": "夫妻离婚均不愿抚养孩子法院不准离",
@@ -2987,14 +3011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254628,
-      "num": 254628,
-      "word": "国乒男团9比0横扫澳大利亚",
-      "onboard_time": 1778014454,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254603,
       "num": 269849,
       "word": "便利店被长相成熟未成年设套买烟",
@@ -3051,6 +3067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251868,
+      "num": 693912,
+      "word": "李嘉诚套现约455亿港元",
+      "onboard_time": 1777993824,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1777810223,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246068,
+      "num": 791156,
+      "word": "阿森纳晋级欧冠决赛",
+      "onboard_time": 1778022799,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 244763,
@@ -3305,14 +3337,6 @@
       "onboard_time": 1777910421,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228186,
-      "num": 693912,
-      "word": "李嘉诚套现约455亿港元",
-      "onboard_time": 1777993824,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 226752,
@@ -3627,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201319,
+      "num": 201319,
+      "word": "第一次看小猫掉毛看力竭了",
+      "onboard_time": 1778000418,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -3643,12 +3675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200090,
-      "num": 200090,
-      "word": "第一次看小猫掉毛看力竭了",
-      "onboard_time": 1778000418,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 199381,
+      "num": 199381,
+      "word": "留德学生迷奸女友8次获刑11年",
+      "onboard_time": 1778024779,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198919,
@@ -4091,14 +4123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172859,
-      "num": 328679,
-      "word": "中国青年身高涨幅引外网热议",
-      "onboard_time": 1778022017,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172838,
       "num": 209555,
       "word": "吴宜泽首进世锦赛决赛",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1777867459,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163283,
+      "num": 163283,
+      "word": "四川悬崖秋千事故景区系网红打卡地",
+      "onboard_time": 1778021776,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161994,
@@ -4515,6 +4547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151367,
+      "num": 151367,
+      "word": "伊朗发布向美军舰发射导弹视频",
+      "onboard_time": 1778024839,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150079,
       "num": 150079,
       "word": "雾里青路透",
@@ -4755,14 +4795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136758,
-      "num": 136758,
-      "word": "阿森纳晋级欧冠决赛",
-      "onboard_time": 1778022799,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136153,
       "num": 136153,
       "word": "刘宇宁请客张凌赫归鸾剧组",
@@ -4891,14 +4923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130320,
-      "num": 130320,
-      "word": "四川悬崖秋千事故景区系网红打卡地",
-      "onboard_time": 1778021776,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130167,
       "num": 130167,
       "word": "张桂源头像",
@@ -4912,6 +4936,14 @@
       "word": "一个烧饼做成40多亿跨国产业",
       "onboard_time": 1777786339,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129803,
+      "num": 129803,
+      "word": "女子坠亡悬崖秋千摆弧300米",
+      "onboard_time": 1778024959,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -4961,6 +4993,14 @@
       "onboard_time": 1777804825,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127566,
+      "num": 127566,
+      "word": "考试前一天做真题回顾还是太权威了",
+      "onboard_time": 1778025019,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 127359,
@@ -5315,12 +5355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "留守妈妈1拖3自带娃小儿子头摔地",
+      "onboard_time": 1778025200,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111741,
       "num": 260223,
       "word": "被AI误导闯入毒蛇窝女子发声",
       "onboard_time": 1777736662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110451,
+      "num": 110451,
+      "word": "突然顿悟了文人为何偏爱竹",
+      "onboard_time": 1778016074,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 110447,
@@ -5555,6 +5611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95500,
+      "num": 95500,
+      "word": "中印数亿球迷或无法观看下月世界杯",
+      "onboard_time": 1777986082,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95352,
       "num": 262389,
       "word": "肖战再站上领奖台",
@@ -5577,14 +5641,6 @@
       "onboard_time": 1777811421,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93814,
-      "num": 93814,
-      "word": "突然顿悟了文人为何偏爱竹",
-      "onboard_time": 1778016074,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 91612,
@@ -5787,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68877,
+      "num": 330415,
+      "word": "特朗普称疏导霍尔木兹海峡行动暂停",
+      "onboard_time": 1778024239,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68327,
       "num": 214143,
       "word": "张雪机车连超2辆雅马哈",
@@ -5801,6 +5865,14 @@
       "onboard_time": 1777853478,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62179,
+      "num": 380888,
+      "word": "鲁比奥称对伊朗史诗怒火行动结束",
+      "onboard_time": 1778024179,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61894,
@@ -6499,6 +6571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15362,
+      "num": 94696,
+      "word": "OpenAI或加速手机开发",
+      "onboard_time": 1778014815,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 14810,
       "num": 1100934,
       "word": "智慧春耕科技范儿十足",
@@ -6545,14 +6625,6 @@
       "onboard_time": 1777767738,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 10323,
-      "num": 80127,
-      "word": "OpenAI或加速手机开发",
-      "onboard_time": 1778014815,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 9715,
