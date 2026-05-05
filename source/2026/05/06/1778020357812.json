@@ -1,0 +1,410 @@
+{
+  "runTime": 1778020357812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 236207,
+        "num": 438904,
+        "word": "一定要好好度过你的奥德赛时期",
+        "onboard_time": 1777997660,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135873,
+        "num": 323363,
+        "word": "妻子的浪漫旅行 变味",
+        "onboard_time": 1777981161,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8199,
+        "num": 249914,
+        "word": "智慧春耕科技范儿十足",
+        "onboard_time": 1777984700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802364,
+        "num": 220242,
+        "word": "谢娜演唱会上座率",
+        "onboard_time": 1777996461,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259305,
+        "num": 218810,
+        "word": "男友婚前查出乙肝女子父母让分手",
+        "onboard_time": 1777988963,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144654,
+        "num": 144654,
+        "word": "四川华蓥瀑布秋千事故致1死",
+        "onboard_time": 1777986262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130490,
+        "num": 130490,
+        "word": "将男厕临时改为女厕景区获全网点赞",
+        "onboard_time": 1777983921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102184,
+        "num": 102184,
+        "word": "浪姐三公压力最大的是刘雨昕",
+        "onboard_time": 1777989142,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754,
+        "num": 102184,
+        "word": "孙颖莎vs威尔戈斯",
+        "onboard_time": 1778020218,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286707,
+        "num": 101566,
+        "word": "山姆回应多名顾客拿袋子装免费酱料",
+        "onboard_time": 1777999339,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215283,
+        "num": 101080,
+        "word": "国乒男团9比0横扫澳大利亚",
+        "onboard_time": 1778014454,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175070,
+        "num": 100745,
+        "word": "张杰让何炅提醒谢娜要超时了",
+        "onboard_time": 1778017755,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132474,
+        "num": 100010,
+        "word": "李嘉诚套现约455亿港元",
+        "onboard_time": 1777993824,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100008,
+        "num": 100008,
+        "word": "第一次直观地意识到自己有多馋",
+        "onboard_time": 1778000418,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92216,
+        "num": 92216,
+        "word": "夫妻分居20年因改网名矛盾彻底爆发",
+        "onboard_time": 1777991365,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87815,
+        "num": 87815,
+        "word": "王楚钦终于笑了",
+        "onboard_time": 1777985002,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79015,
+        "num": 79015,
+        "word": "黄明昊说大雨也挡不住弟弟们闪闪发光",
+        "onboard_time": 1777996104,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78179,
+        "num": 78179,
+        "word": "第一次看小猫掉毛看力竭了",
+        "onboard_time": 1778000418,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77704,
+        "num": 77704,
+        "word": "奔跑吧打假",
+        "onboard_time": 1777958600,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27272,
+        "num": 76664,
+        "word": "鸿蒙智行回应副驾折叠争议",
+        "onboard_time": 1777975401,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96085,
+        "num": 76291,
+        "word": "强大到可怕的顶级心态",
+        "onboard_time": 1777988905,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75904,
+        "num": 75904,
+        "word": "宋亚轩哭了",
+        "onboard_time": 1777987762,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65503,
+        "num": 65503,
+        "word": "喀什恋歌上新闻联播了",
+        "onboard_time": 1777999039,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60248,
+        "num": 60248,
+        "word": "机场提示禁止携带越王勾践剑登机",
+        "onboard_time": 1777975282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58071,
+        "num": 58071,
+        "word": "除非白鹿不想录了",
+        "onboard_time": 1777968862,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1982,
+        "num": 57458,
+        "word": "王曼昱伦敦世乒赛首秀",
+        "onboard_time": 1778019376,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57255,
+        "num": 57255,
+        "word": "金饰价再跌破1400元",
+        "onboard_time": 1777997061,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55196,
+        "num": 55196,
+        "word": "天津一山姆内顾客拿袋子装免费酱料",
+        "onboard_time": 1777986082,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51779,
+        "num": 51779,
+        "word": "夫妻住新疆帐篷民宿帐篷突然被人拉开",
+        "onboard_time": 1778000418,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42854,
+        "num": 50799,
+        "word": "浏阳烟花厂爆炸致26死61伤",
+        "onboard_time": 1777960223,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 50216,
+        "num": 50216,
+        "word": "父母平分6套房产差12平米儿媳翻脸",
+        "onboard_time": 1777977441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47522,
+        "num": 47522,
+        "word": "吴宜泽奖金实际到手约26.5万镑",
+        "onboard_time": 1777981342,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47035,
+        "num": 47035,
+        "word": "第一次见爸爸和女儿不熟的",
+        "onboard_time": 1777974442,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46964,
+        "num": 46964,
+        "word": "景区称至今未接待到零彩礼免票游客",
+        "onboard_time": 1777994064,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39679,
+        "num": 46957,
+        "word": "湖南全省烟花爆竹企业全面停产整顿",
+        "onboard_time": 1777994365,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39025,
+        "num": 46934,
+        "word": "昆明酒店劫持案细节曝光",
+        "onboard_time": 1778000777,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38310,
+        "num": 46923,
+        "word": "2名中国游客日本登山食物耗尽",
+        "onboard_time": 1777983021,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37684,
+        "num": 46913,
+        "word": "女子剪开床垫发现一把剪刀",
+        "onboard_time": 1777990165,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36229,
+        "num": 46890,
+        "word": "这密室开着灯我都不敢玩",
+        "onboard_time": 1778000418,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33982,
+        "num": 46881,
+        "word": "野草莓一斤能卖上百元",
+        "onboard_time": 1777993283,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33036,
+        "num": 46870,
+        "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
+        "onboard_time": 1778012834,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31983,
+        "num": 46855,
+        "word": "严浩翔神父捧花",
+        "onboard_time": 1777990045,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31772,
+        "num": 46844,
+        "word": "吴宜泽已开设吴宜泽台球俱乐部",
+        "onboard_time": 1778018534,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31437,
+        "num": 46819,
+        "word": "时代少年团发型塌了",
+        "onboard_time": 1777988183,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31054,
+        "num": 46813,
+        "word": "AG战胜TYL晋级四强",
+        "onboard_time": 1778005696,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30293,
+        "num": 46792,
+        "word": "人和人的关系必然会出现分野",
+        "onboard_time": 1778000719,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29143,
+        "num": 46782,
+        "word": "丁程鑫 在哥哥心中你永远都没有长大",
+        "onboard_time": 1777992925,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25772,
+        "num": 46767,
+        "word": "穆祉丞发大合照了",
+        "onboard_time": 1777984759,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25175,
+        "num": 46739,
+        "word": "突然顿悟了文人为何偏爱竹",
+        "onboard_time": 1778016074,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512107,
+        "num": 46730,
+        "word": "贺峻霖 但凡有人尊重一下我呢",
+        "onboard_time": 1777994844,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语中国青年#"
+    }
+  }
+}
