@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1777973342819,
+  "endTime": 1777978903380,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1439653,
+      "num": 1439653,
+      "word": "世乒赛男团澳大利亚变阵",
+      "onboard_time": 1777970900,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1412394,
       "num": 1109866,
       "word": "追星女的手机密码人尽皆知",
@@ -449,6 +457,14 @@
       "onboard_time": 1777885222,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1391261,
+      "num": 520131,
+      "word": "大哥谢娜 二弟赵丽颖",
+      "onboard_time": 1777974742,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1390747,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 1288476,
-      "num": 434395,
+      "num": 489369,
       "word": "时代少年团直播",
       "onboard_time": 1777972522,
       "rank": 10,
@@ -577,6 +593,14 @@
       "onboard_time": 1777603279,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1276132,
+      "num": 741719,
+      "word": "小猫还原自己摔伤过程",
+      "onboard_time": 1777971441,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 1260676,
@@ -648,14 +672,6 @@
       "word": "世界杯转播权再现中国式僵局",
       "onboard_time": 1777708339,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1175982,
-      "num": 1175982,
-      "word": "世乒赛男团澳大利亚变阵",
-      "onboard_time": 1777970900,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 1071060,
-      "num": 446663,
+      "num": 518310,
       "word": "跟林依晨分手后前男友因性侵入狱",
       "onboard_time": 1777957401,
       "rank": 11,
@@ -891,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961758,
+      "num": 961758,
+      "word": "马龙许昕刘诗雯现场观战国乒",
+      "onboard_time": 1777975821,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 953576,
       "num": 1035989,
       "word": "李建宏讣告",
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 863184,
-      "num": 348983,
+      "num": 456298,
       "word": "路人上海偶遇angelababy小海绵",
       "onboard_time": 1777967301,
       "rank": 20,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 743783,
-      "num": 417445,
+      "num": 542754,
       "word": "歌手2026首发阵容新版本",
       "onboard_time": 1777970241,
       "rank": 13,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1777944381,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 741719,
-      "num": 741719,
-      "word": "小猫还原自己摔伤过程",
-      "onboard_time": 1777971441,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 739787,
@@ -1296,6 +1312,14 @@
       "word": "中国向联合国发出警告",
       "onboard_time": 1777888461,
       "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 725549,
+      "num": 725549,
+      "word": "高市早苗在澳大利亚下跪献花",
+      "onboard_time": 1777972161,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 665812,
+      "num": 509252,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1777973181,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665148,
       "num": 825182,
       "word": "上科大39岁教授营救至亲溺水去世",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1777701859,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 615333,
+      "num": 518733,
+      "word": "机场提示禁止携带越王勾践剑登机",
+      "onboard_time": 1777975282,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 613967,
@@ -1836,7 +1876,7 @@
     },
     {
       "raw_hot": 568369,
-      "num": 332098,
+      "num": 391185,
       "word": "除非白鹿不想录了",
       "onboard_time": 1777968862,
       "rank": 30,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1777695079,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520357,
+      "num": 520357,
+      "word": "鸿蒙智行回应副驾折叠争议",
+      "onboard_time": 1777975401,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 518994,
@@ -2291,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475284,
+      "num": 460921,
+      "word": "父母平分6套房产差12平米儿媳翻脸",
+      "onboard_time": 1777977441,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473886,
       "num": 224456,
       "word": "女演员李心艾暴瘦80斤",
@@ -2337,6 +2393,14 @@
       "onboard_time": 1777777700,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469349,
+      "num": 469349,
+      "word": "张月急性肠胃炎",
+      "onboard_time": 1777975821,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 467695,
@@ -2665,14 +2729,6 @@
       "onboard_time": 1777770140,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405951,
-      "num": 405951,
-      "word": "高市早苗在澳大利亚下跪献花",
-      "onboard_time": 1777972161,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 404146,
@@ -3675,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310775,
+      "num": 310775,
+      "word": "你好星期六 张婧仪周也",
+      "onboard_time": 1777976422,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310661,
       "num": 310661,
       "word": "第五人格",
@@ -4067,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283452,
+      "num": 313666,
+      "word": "有多少城市能撑起来七日游",
+      "onboard_time": 1777970660,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 282589,
       "num": 251329,
       "word": "陈哲远王楚然浮生开机了",
@@ -4203,6 +4275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "呵呵陪白鹿录制跑男",
+      "onboard_time": 1777975580,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270758,
       "num": 400681,
       "word": "吴镇宇要谢依霖把自己洗干净",
@@ -4241,6 +4321,14 @@
       "onboard_time": 1777642280,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267211,
+      "num": 267211,
+      "word": "林诗栋vs卢伟",
+      "onboard_time": 1777974201,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 266312,
@@ -4411,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253340,
+      "num": 253340,
+      "word": "赖冠霖纹了WANNAONE出道日",
+      "onboard_time": 1777977080,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -4425,6 +4521,14 @@
       "onboard_time": 1777704860,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251233,
+      "num": 251233,
+      "word": "王楚钦3比0萨琳",
+      "onboard_time": 1777977020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 249520,
@@ -4587,6 +4691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237839,
+      "num": 237839,
+      "word": "第五人格年度发布会",
+      "onboard_time": 1777974081,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237632,
       "num": 262975,
       "word": "躺平阴谋",
@@ -4665,14 +4777,6 @@
       "onboard_time": 1777873160,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232156,
-      "num": 313666,
-      "word": "有多少城市能撑起来七日游",
-      "onboard_time": 1777970660,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 232082,
@@ -4843,14 +4947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223703,
-      "num": 223703,
-      "word": "宋雨琦 跑男",
-      "onboard_time": 1777973181,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223687,
       "num": 223687,
       "word": "单依纯草莓音乐节",
@@ -4889,6 +4985,14 @@
       "onboard_time": 1777702639,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220005,
+      "num": 220005,
+      "word": "金俊勉发了吴世勋十年前的照片",
+      "onboard_time": 1777975221,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 219330,
@@ -5483,6 +5587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189821,
+      "num": 189821,
+      "word": "第一次见爸爸和女儿不熟的",
+      "onboard_time": 1777974442,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189773,
       "num": 384934,
       "word": "森林狼vs马刺",
@@ -6027,6 +6139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168248,
+      "num": 168248,
+      "word": "王楚钦vs萨琳",
+      "onboard_time": 1777974502,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168095,
       "num": 216140,
       "word": "王皓安抚王楚钦",
@@ -6040,6 +6160,14 @@
       "word": "斯诺克",
       "onboard_time": 1777852398,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 166767,
+      "word": "郑钦文vs邦达尔",
+      "onboard_time": 1777978821,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -6403,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153538,
+      "num": 153538,
+      "word": "金银突迎反转",
+      "onboard_time": 1777974922,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153291,
       "num": 153291,
       "word": "苏新皓盲盒",
@@ -6449,6 +6585,14 @@
       "onboard_time": 1777608021,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152056,
+      "num": 273495,
+      "word": "主播天权离开东方甄选后首次直播",
+      "onboard_time": 1777975042,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 151880,
@@ -8440,6 +8584,14 @@
       "word": "尼克斯老鹰冲突",
       "onboard_time": 1777602978,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74027,
+      "num": 172682,
+      "word": "国乒男团晋级16强",
+      "onboard_time": 1777978881,
+      "rank": 43,
       "category": "体育"
     },
     {

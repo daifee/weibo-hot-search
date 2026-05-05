@@ -1,6 +1,6 @@
 {
   "startTime": 1777913695537,
-  "endTime": 1777973342819,
+  "endTime": 1777978903380,
   "band_list": [
     {
       "raw_hot": 12337365,
@@ -59,12 +59,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1439653,
+      "num": 1439653,
+      "word": "世乒赛男团澳大利亚变阵",
+      "onboard_time": 1777970900,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1413849,
       "num": 472953,
       "word": "豆包 付费",
       "onboard_time": 1777874061,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1391261,
+      "num": 520131,
+      "word": "大哥谢娜 二弟赵丽颖",
+      "onboard_time": 1777974742,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1369336,
@@ -92,11 +108,19 @@
     },
     {
       "raw_hot": 1288476,
-      "num": 434395,
+      "num": 489369,
       "word": "时代少年团直播",
       "onboard_time": 1777972522,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1276132,
+      "num": 741719,
+      "word": "小猫还原自己摔伤过程",
+      "onboard_time": 1777971441,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 1260676,
@@ -115,14 +139,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1175982,
-      "num": 1175982,
-      "word": "世乒赛男团澳大利亚变阵",
-      "onboard_time": 1777970900,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1135823,
       "num": 423305,
       "word": "一个人旅游上厕所时行李怎么办",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1071060,
-      "num": 446663,
+      "num": 518310,
       "word": "跟林依晨分手后前男友因性侵入狱",
       "onboard_time": 1777957401,
       "rank": 11,
@@ -161,6 +177,14 @@
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 961758,
+      "num": 961758,
+      "word": "马龙许昕刘诗雯现场观战国乒",
+      "onboard_time": 1777975821,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 947064,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 863184,
-      "num": 348983,
+      "num": 456298,
       "word": "路人上海偶遇angelababy小海绵",
       "onboard_time": 1777967301,
       "rank": 20,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 743783,
-      "num": 417445,
+      "num": 542754,
       "word": "歌手2026首发阵容新版本",
       "onboard_time": 1777970241,
       "rank": 13,
@@ -251,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 741719,
-      "num": 741719,
-      "word": "小猫还原自己摔伤过程",
-      "onboard_time": 1777971441,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 738253,
       "num": 410167,
       "word": "AI在偷我们的东西 我们决定毒死它",
@@ -273,6 +289,14 @@
       "onboard_time": 1777960341,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 725549,
+      "num": 725549,
+      "word": "高市早苗在澳大利亚下跪献花",
+      "onboard_time": 1777972161,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 724713,
@@ -315,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665812,
+      "num": 509252,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1777973181,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 615333,
+      "num": 518733,
+      "word": "机场提示禁止携带越王勾践剑登机",
+      "onboard_time": 1777975282,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610335,
       "num": 454120,
       "word": "男主播嘲讽女子40码鞋被永久除名",
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 568369,
-      "num": 332098,
+      "num": 391185,
       "word": "除非白鹿不想录了",
       "onboard_time": 1777968862,
       "rank": 30,
@@ -377,6 +417,14 @@
       "onboard_time": 1777944081,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520357,
+      "num": 520357,
+      "word": "鸿蒙智行回应副驾折叠争议",
+      "onboard_time": 1777975401,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 518994,
@@ -467,6 +515,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 475284,
+      "num": 460921,
+      "word": "父母平分6套房产差12平米儿媳翻脸",
+      "onboard_time": 1777977441,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469349,
+      "num": 469349,
+      "word": "张月急性肠胃炎",
+      "onboard_time": 1777975821,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462691,
       "num": 457121,
       "word": "赵心童回应吴宜泽夺世锦赛冠军",
@@ -537,14 +601,6 @@
       "onboard_time": 1777953980,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405951,
-      "num": 405951,
-      "word": "高市早苗在澳大利亚下跪献花",
-      "onboard_time": 1777972161,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 404146,
@@ -723,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310775,
+      "num": 310775,
+      "word": "你好星期六 张婧仪周也",
+      "onboard_time": 1777976422,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310661,
       "num": 310661,
       "word": "第五人格",
@@ -803,12 +867,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283452,
+      "num": 313666,
+      "word": "有多少城市能撑起来七日游",
+      "onboard_time": 1777970660,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "呵呵陪白鹿录制跑男",
+      "onboard_time": 1777975580,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268928,
       "num": 482782,
       "word": "中国向联合国发出警告",
       "onboard_time": 1777888461,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267211,
+      "num": 267211,
+      "word": "林诗栋vs卢伟",
+      "onboard_time": 1777974201,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 265084,
@@ -851,12 +939,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253340,
+      "num": 253340,
+      "word": "赖冠霖纹了WANNAONE出道日",
+      "onboard_time": 1777977080,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
       "onboard_time": 1777962380,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251233,
+      "num": 251233,
+      "word": "王楚钦3比0萨琳",
+      "onboard_time": 1777977020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 249412,
@@ -867,12 +971,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 232156,
-      "num": 313666,
-      "word": "有多少城市能撑起来七日游",
-      "onboard_time": 1777970660,
-      "rank": 41,
-      "category": "旅游"
+      "raw_hot": 237839,
+      "num": 237839,
+      "word": "第五人格年度发布会",
+      "onboard_time": 1777974081,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 231731,
@@ -915,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223703,
-      "num": 223703,
-      "word": "宋雨琦 跑男",
-      "onboard_time": 1777973181,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220634,
       "num": 449228,
       "word": "敦煌一厕所走红游客手持卫生纸打卡",
@@ -937,6 +1033,14 @@
       "onboard_time": 1777950141,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220005,
+      "num": 220005,
+      "word": "金俊勉发了吴世勋十年前的照片",
+      "onboard_time": 1777975221,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 217891,
@@ -1043,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189821,
+      "num": 189821,
+      "word": "第一次见爸爸和女儿不熟的",
+      "onboard_time": 1777974442,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189773,
       "num": 384934,
       "word": "森林狼vs马刺",
@@ -1123,6 +1235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168248,
+      "num": 168248,
+      "word": "王楚钦vs萨琳",
+      "onboard_time": 1777974502,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 166767,
+      "word": "郑钦文vs邦达尔",
+      "onboard_time": 1777978821,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160819,
       "num": 249228,
       "word": "他就摸了一下魔方就复原了",
@@ -1145,6 +1273,22 @@
       "onboard_time": 1777887441,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153538,
+      "num": 153538,
+      "word": "金银突迎反转",
+      "onboard_time": 1777974922,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 152056,
+      "num": 273495,
+      "word": "主播天权离开东方甄选后首次直播",
+      "onboard_time": 1777975042,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 151502,
@@ -1419,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89601,
+      "num": 169028,
+      "word": "佳偶天成",
+      "onboard_time": 1777978881,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89467,
       "num": 89467,
       "word": "悬空寺一票难求",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1777939159,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74027,
+      "num": 172682,
+      "word": "国乒男团晋级16强",
+      "onboard_time": 1777978881,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 73987,
