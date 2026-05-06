@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/06 23:11:11
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/07 00:49:40
 </p>
 </blockquote>
 <p>
@@ -2211,6 +2211,12 @@ metgala（热度：513395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E5%8F%91%E8%87%B4%E5%91%BD%E7%97%85%E6%AF%92%E9%82%AE%E8%BD%AE%E6%88%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1%23" target="weibo">
+暴发致命病毒邮轮或出现人传人现象（热度：486281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%A1%A5%E5%92%AA%E7%BA%BF%23" target="weibo">
 过桥咪线（热度：486242）
 </a>
@@ -2495,6 +2501,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E5%B0%B1%E8%BF%9911%E7%82%B9%23" target="weibo">
 普通家庭对孩子最好的托举就这11点（热度：433739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%88%91%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%8B%A5%E6%8A%A4%E4%BD%A0%23" target="weibo">
+红山动物园我将继续拥护你（热度：433278）
 </a>
 </li>
 
@@ -2927,6 +2939,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 一家五口被害案凶手被执行死刑（热度：372029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E7%94%9F%E7%88%B6%E7%85%A7%E9%A1%BE10%E5%88%86%E9%92%9F%E7%A6%BB%E5%A5%87%E7%AA%92%E6%81%AF%E8%84%91%E7%98%AB%23" target="weibo">
+婴儿被生父照顾10分钟离奇窒息脑瘫（热度：370070）
 </a>
 </li>
 
@@ -3599,6 +3617,12 @@ BABYMONSTER回归（热度：312056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231300%E6%96%A4%E7%89%9B%E8%B5%B0%E4%B8%A220%E5%A4%A9%E6%9A%B4%E7%98%A6200%E6%96%A4%23" target="weibo">
 1300斤牛走丢20天暴瘦200斤（热度：307160）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92OST%E8%AF%B7%E6%9D%A5%E4%BA%86%E7%8E%8B%E8%8F%B2%23" target="weibo">
+主角OST请来了王菲（热度：305860）
 </a>
 </li>
 
@@ -4469,6 +4493,12 @@ Met Gala（热度：253499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%9C%80%E4%BD%8E%E9%85%8D%E6%88%96%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
 iPhone18Pro最低配或不涨价（热度：239300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5%23" target="weibo">
+有AI真好 放以前没十几亿下不来（热度：238636）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ MRC对战TE（热度：168209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
 斯诺克世锦赛（热度：165533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%98%9A%E6%B8%85%E5%AD%90%E4%B8%80%E5%AF%B9%E8%A7%86%E5%B0%B1%E8%B7%91%E8%B0%83%23" target="weibo">
-孙怡阚清子一对视就跑调（热度：165479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E5%98%89%E4%BA%BA%E4%BA%94%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23" target="weibo">
-宁艺卓嘉人五月刊封面（热度：164680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E5%B1%B1%E7%AB%B9%E5%86%B0%23" target="weibo">
-榴莲山竹冰（热度：164622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%A8%AA%E7%A9%BF%E9%93%81%E8%BD%A8%E8%A2%AB%E7%81%AB%E8%BD%A6%E6%92%9E%E6%AD%BB%23" target="weibo">
-印度两女子横穿铁轨被火车撞死（热度：163882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E4%BD%A0%E9%80%97%E6%88%91%E7%8E%A9%E6%98%AF%E5%90%A7%23" target="weibo">
-陈奕恒你逗我玩是吧（热度：163645）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778086180059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593244,
+        "num": 728269,
+        "word": "花少8最新阵容",
+        "onboard_time": 1778066901,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486281,
+        "num": 532046,
+        "word": "暴发致命病毒邮轮或出现人传人现象",
+        "onboard_time": 1778081542,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44699,
+        "num": 451732,
+        "word": "来中国玩的外国人更多了",
+        "onboard_time": 1778071823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1437508,
+        "num": 448175,
+        "word": "白鹿跑男争议 内娱综艺审美巨变",
+        "onboard_time": 1778061201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433278,
+        "num": 433278,
+        "word": "红山动物园我将继续拥护你",
+        "onboard_time": 1778083221,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 367410,
+        "num": 367410,
+        "word": "为什么户外千万不要穿迷彩",
+        "onboard_time": 1778066481,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352122,
+        "num": 352122,
+        "word": "网友曝三亚4只皮皮虾收费1035元",
+        "onboard_time": 1778075243,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330650,
+        "num": 330650,
+        "word": "张杰谢娜合唱",
+        "onboard_time": 1778073504,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238636,
+        "num": 330330,
+        "word": "有AI真好 放以前没十几亿下不来",
+        "onboard_time": 1778075782,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171711,
+        "num": 330033,
+        "word": "meiko赛后发文",
+        "onboard_time": 1778073622,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 563695,
+        "num": 329517,
+        "word": "新人结婚被丢高速口路过宾利变婚车",
+        "onboard_time": 1778070082,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480618,
+        "num": 329037,
+        "word": "EXO King",
+        "onboard_time": 1778074102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370070,
+        "num": 328428,
+        "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+        "onboard_time": 1778081302,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342903,
+        "num": 328086,
+        "word": "钟薛高破产后508件资产207万起拍",
+        "onboard_time": 1778078303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327674,
+        "num": 327674,
+        "word": "世界杯中国赞助商投入超5亿美元",
+        "onboard_time": 1778078963,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305860,
+        "num": 305860,
+        "word": "主角OST请来了王菲",
+        "onboard_time": 1778080761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294244,
+        "num": 294244,
+        "word": "解除台独刘世芳亲属全部职务",
+        "onboard_time": 1778076022,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243657,
+        "num": 243657,
+        "word": "何炅躲过了所有路透",
+        "onboard_time": 1778073323,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222145,
+        "num": 222145,
+        "word": "孟子义一手抓绳一手护着白鹿",
+        "onboard_time": 1778073923,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212950,
+        "num": 212950,
+        "word": "全李酒店 全季酒店",
+        "onboard_time": 1778066540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253751,
+        "num": 212551,
+        "word": "中国强硬拒绝世界杯天价转播费",
+        "onboard_time": 1778061799,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190966,
+        "num": 190966,
+        "word": "火到欧美的韩国棒球女神是AI生成",
+        "onboard_time": 1778078243,
+        "rank": 21,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 179096,
+        "num": 179096,
+        "word": "河北两女子长得一模一样孩子认错妈",
+        "onboard_time": 1778078603,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 171433,
+        "num": 171433,
+        "word": "王骁演技",
+        "onboard_time": 1778079682,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163834,
+        "num": 163834,
+        "word": "小狗靠捡瓶子攒了10万",
+        "onboard_time": 1778071161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162187,
+        "num": 162187,
+        "word": "者来女真的去谢娜演唱会了",
+        "onboard_time": 1778075842,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161713,
+        "num": 161713,
+        "word": "国乒男团进世乒赛8强",
+        "onboard_time": 1778067920,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144915,
+        "num": 144915,
+        "word": "邓凯孔雪儿 长宁帝军",
+        "onboard_time": 1778076983,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 144759,
+        "word": "花少 恋综",
+        "onboard_time": 1778054241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140327,
+        "num": 140327,
+        "word": "中国女子在西班牙被刺身亡",
+        "onboard_time": 1778073323,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140268,
+        "num": 140268,
+        "word": "三星",
+        "onboard_time": 1778069662,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133020,
+        "num": 133020,
+        "word": "病毒邮轮",
+        "onboard_time": 1778070382,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126697,
+        "num": 126697,
+        "word": "孔雪儿的穿搭AI给到夯",
+        "onboard_time": 1778076323,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121543,
+        "num": 121543,
+        "word": "龙队急得直挠头",
+        "onboard_time": 1778067141,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119585,
+        "num": 119585,
+        "word": "wannaone 赖冠霖",
+        "onboard_time": 1778085318,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114020,
+        "num": 114020,
+        "word": "林心如回应找霍建华客串新剧",
+        "onboard_time": 1778083460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 111097,
+        "word": "药店闭店潮持续",
+        "onboard_time": 1778076142,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 110209,
+        "num": 110209,
+        "word": "韩汶栩与女友手牵手在老家逛街",
+        "onboard_time": 1778072182,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108557,
+        "num": 108557,
+        "word": "王楚钦这一分全体起立",
+        "onboard_time": 1778066720,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 97951,
+        "word": "伊朗称将确保船只安全通过霍尔木兹",
+        "onboard_time": 1778086156,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97858,
+        "num": 97858,
+        "word": "王鹤棣助理号蛐蛐冉方旭",
+        "onboard_time": 1778075484,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8456,
+        "num": 96024,
+        "word": "美伊据报或先终战再设30天谈判期",
+        "onboard_time": 1778086156,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95893,
+        "num": 95893,
+        "word": "肖战十日终焉剧组请客了",
+        "onboard_time": 1778065882,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91028,
+        "num": 91028,
+        "word": "Ella发文庆祝结婚14周年",
+        "onboard_time": 1778074102,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81584,
+        "num": 81584,
+        "word": "王曼昱11比0卡尔伯格",
+        "onboard_time": 1778072241,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90872,
+        "num": 81515,
+        "word": "小S阿雅重返华冈艺校",
+        "onboard_time": 1778079203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79690,
+        "num": 79690,
+        "word": "英伟达中国份额降至0",
+        "onboard_time": 1778061141,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74117,
+        "num": 74117,
+        "word": "JDG战胜TES",
+        "onboard_time": 1778084300,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72282,
+        "num": 72282,
+        "word": "林诗栋说一直在研究不犯规的发球",
+        "onboard_time": 1778073863,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70613,
+        "num": 70613,
+        "word": "CBA",
+        "onboard_time": 1778076924,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年习近平的人生课堂#"
+    }
+  }
+}

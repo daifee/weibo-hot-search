@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/06 23:11:11
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/07 00:49:40
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ metgala（热度：513395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E5%8F%91%E8%87%B4%E5%91%BD%E7%97%85%E6%AF%92%E9%82%AE%E8%BD%AE%E6%88%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1%23" target="weibo">
+暴发致命病毒邮轮或出现人传人现象（热度：486281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%B0%A4%E4%BC%AF%E6%9D%AF%E4%BA%9A%E5%86%9B%23" target="weibo">
 国羽尤伯杯亚军（热度：485960）
 </a>
@@ -1727,6 +1733,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%83%8F%E5%B7%A8%E4%BA%BA%E4%B8%80%E6%A0%B7%E5%B0%B1%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 刘宇宁像巨人一样就出来了（热度：434428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%88%91%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%8B%A5%E6%8A%A4%E4%BD%A0%23" target="weibo">
+红山动物园我将继续拥护你（热度：433278）
 </a>
 </li>
 
@@ -2057,6 +2069,12 @@ aespa回归预告（热度：466795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 一家五口被害案凶手被执行死刑（热度：372029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E7%94%9F%E7%88%B6%E7%85%A7%E9%A1%BE10%E5%88%86%E9%92%9F%E7%A6%BB%E5%A5%87%E7%AA%92%E6%81%AF%E8%84%91%E7%98%AB%23" target="weibo">
+婴儿被生父照顾10分钟离奇窒息脑瘫（热度：370070）
 </a>
 </li>
 
@@ -2549,6 +2567,12 @@ BABYMONSTER回归（热度：312056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23" target="weibo">
 严浩翔演唱会状态（热度：306045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92OST%E8%AF%B7%E6%9D%A5%E4%BA%86%E7%8E%8B%E8%8F%B2%23" target="weibo">
+主角OST请来了王菲（热度：305860）
 </a>
 </li>
 
@@ -3113,6 +3137,12 @@ Met Gala（热度：253499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%96%B0%E5%A8%98%E5%90%8C%E6%97%B6%E6%98%AF%E5%A9%9A%E7%A4%BC%E7%AD%96%E5%88%92%E5%B8%88%23" target="weibo">
 当新娘同时是婚礼策划师（热度：239675）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5%23" target="weibo">
+有AI真好 放以前没十几亿下不来（热度：238636）
 </a>
 </li>
 
@@ -5001,6 +5031,12 @@ MetGala红毯上的中国面孔（热度：126464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23wannaone%20%E8%B5%96%E5%86%A0%E9%9C%96%23" target="weibo">
+wannaone 赖冠霖（热度：119585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E8%AE%A2%E4%BA%86%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%23" target="weibo">
 痞幼订了张雪机车（热度：119021）
 </a>
@@ -5105,6 +5141,12 @@ e人看完都窒息了（热度：115543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%23" target="weibo">
 苏超（热度：115427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%9B%9E%E5%BA%94%E6%89%BE%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%AE%A2%E4%B8%B2%E6%96%B0%E5%89%A7%23" target="weibo">
+林心如回应找霍建华客串新剧（热度：114020）
 </a>
 </li>
 
@@ -5519,6 +5561,12 @@ iPhone18Pro渲染图再曝（热度：81905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E5%8E%BB%E6%97%85%E8%A1%8C%23" target="weibo">
 跟着中国国家地理去旅行（热度：75794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CTES%23" target="weibo">
+JDG战胜TES（热度：74117）
 </a>
 </li>
 
@@ -6195,6 +6243,12 @@ FPX.ZQ晋级全球四强（热度：21252）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E7%A1%AE%E4%BF%9D%E8%88%B9%E5%8F%AA%E5%AE%89%E5%85%A8%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23" target="weibo">
+伊朗称将确保船只安全通过霍尔木兹（热度：14033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%8F%AA%E6%83%B3%E5%A5%BD%E5%A5%BD%E7%9D%A1%E4%B8%80%E8%A7%89%23" target="weibo">
 吴宜泽只想好好睡一觉（热度：13263）
 </a>
@@ -6221,6 +6275,12 @@ FPX.ZQ晋级全球四强（热度：21252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%AC%AC1%23" target="weibo">
 张雪机车第1（热度：9715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%8A%E6%8D%AE%E6%8A%A5%E6%88%96%E5%85%88%E7%BB%88%E6%88%98%E5%86%8D%E8%AE%BE30%E5%A4%A9%E8%B0%88%E5%88%A4%E6%9C%9F%23" target="weibo">
+美伊据报或先终战再设30天谈判期（热度：8456）
 </a>
 </li>
 

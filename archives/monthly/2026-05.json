@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778080271556,
+  "endTime": 1778086180059,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -2931,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486281,
+      "num": 532046,
+      "word": "暴发致命病毒邮轮或出现人传人现象",
+      "onboard_time": 1778081542,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 486242,
       "num": 464434,
       "word": "过桥咪线",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1777678820,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 433278,
+      "num": 433278,
+      "word": "红山动物园我将继续拥护你",
+      "onboard_time": 1778083221,
+      "rank": 4,
+      "category": "旅游"
     },
     {
       "raw_hot": 432488,
@@ -3888,6 +3904,14 @@
       "word": "一家五口被害案凶手被执行死刑",
       "onboard_time": 1777970424,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370070,
+      "num": 328428,
+      "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+      "onboard_time": 1778081302,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -4785,6 +4809,14 @@
       "onboard_time": 1777726821,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305860,
+      "num": 305860,
+      "word": "主角OST请来了王菲",
+      "onboard_time": 1778080761,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 305291,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1777732403,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238636,
+      "num": 330330,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 238565,
@@ -9587,6 +9627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119585,
+      "num": 119585,
+      "word": "wannaone 赖冠霖",
+      "onboard_time": 1778085318,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119197,
       "num": 132472,
       "word": "清洁海绵每磨损1克释放650万微塑料",
@@ -9809,6 +9857,14 @@
       "onboard_time": 1777682539,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114020,
+      "num": 114020,
+      "word": "林心如回应找霍建华客串新剧",
+      "onboard_time": 1778083460,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 113663,
@@ -10761,6 +10817,14 @@
       "onboard_time": 1777602978,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74117,
+      "num": 74117,
+      "word": "JDG战胜TES",
+      "onboard_time": 1778084300,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 74021,
@@ -12211,6 +12275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14033,
+      "num": 97951,
+      "word": "伊朗称将确保船只安全通过霍尔木兹",
+      "onboard_time": 1778086156,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13305,
       "num": 817091,
       "word": "文旅活动精彩纷呈点燃假日出行",
@@ -12281,6 +12353,14 @@
       "onboard_time": 1777813283,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8456,
+      "num": 96024,
+      "word": "美伊据报或先终战再设30天谈判期",
+      "onboard_time": 1778086156,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8197,
