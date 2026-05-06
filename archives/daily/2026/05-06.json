@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778077870604,
+  "endTime": 1778080271556,
   "band_list": [
     {
       "raw_hot": 9062055,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1782471,
-      "num": 869444,
+      "num": 926377,
       "word": "张杰谢娜合唱",
       "onboard_time": 1778073504,
       "rank": 5,
@@ -227,8 +227,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 911671,
-      "num": 911671,
+      "raw_hot": 934711,
+      "num": 934711,
       "word": "解除台独刘世芳亲属全部职务",
       "onboard_time": 1778076022,
       "rank": 4,
@@ -323,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 798903,
+      "num": 798903,
+      "word": "网友曝三亚4只皮皮虾收费1035元",
+      "onboard_time": 1778075243,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 793391,
       "num": 793391,
       "word": "没绑紧三个字不该成最后遗言",
@@ -377,14 +385,6 @@
       "onboard_time": 1778032401,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 703078,
-      "num": 703078,
-      "word": "网友曝三亚4只皮皮虾收费1035元",
-      "onboard_time": 1778075243,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 697593,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637954,
+      "num": 637954,
+      "word": "为什么户外千万不要穿迷彩",
+      "onboard_time": 1778066481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632445,
       "num": 611076,
       "word": "下午洗澡是一种混沌的感觉",
@@ -481,6 +489,14 @@
       "onboard_time": 1778053822,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614962,
+      "num": 465385,
+      "word": "鞠婧祎的舞被韩国女团跳了",
+      "onboard_time": 1778077404,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 610867,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 529469,
-      "num": 438515,
+      "num": 472721,
       "word": "何炅躲过了所有路透",
       "onboard_time": 1778073323,
       "rank": 16,
@@ -755,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368986,
-      "num": 368986,
-      "word": "为什么户外千万不要穿迷彩",
-      "onboard_time": 1778066481,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "梁靖崑vsE约内斯库",
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 366809,
-      "num": 366809,
+      "num": 484783,
       "word": "三星家电退出大陆市场",
       "onboard_time": 1778069301,
       "rank": 44,
@@ -795,12 +803,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 357599,
+      "num": 357599,
+      "word": "钟薛高破产后508件资产207万起拍",
+      "onboard_time": 1778078303,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357043,
+      "num": 357043,
+      "word": "世界杯中国赞助商投入超5亿美元",
+      "onboard_time": 1778078963,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352266,
       "num": 352266,
       "word": "王曼昱11比0卡尔伯格",
       "onboard_time": 1778072241,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350126,
+      "num": 350126,
+      "word": "孟子义一手抓绳一手护着白鹿",
+      "onboard_time": 1778073923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 348173,
@@ -840,14 +872,6 @@
       "word": "穆祉丞高会掉粉了",
       "onboard_time": 1778030540,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 333514,
-      "num": 333514,
-      "word": "孟子义一手抓绳一手护着白鹿",
-      "onboard_time": 1778073923,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -915,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307638,
+      "num": 307638,
+      "word": "王骁演技",
+      "onboard_time": 1778079682,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301669,
       "num": 425956,
       "word": "小米首台万级大电池手机曝光",
       "onboard_time": 1778039841,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 301325,
+      "num": 278350,
+      "word": "小狗靠捡瓶子攒了10万",
+      "onboard_time": 1778071161,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300756,
@@ -995,20 +1035,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278350,
-      "num": 278350,
-      "word": "小狗靠捡瓶子攒了10万",
-      "onboard_time": 1778071161,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275981,
       "num": 693912,
       "word": "李嘉诚套现约455亿港元",
       "onboard_time": 1777993824,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275513,
+      "num": 363025,
+      "word": "火到欧美的韩国棒球女神是AI生成",
+      "onboard_time": 1778078243,
+      "rank": 18,
+      "category": "海外新闻,互联网"
     },
     {
       "raw_hot": 275360,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1778038460,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263691,
+      "num": 257271,
+      "word": "吴柳芳父母回应女儿擦边风波",
+      "onboard_time": 1778079503,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 259204,
@@ -1131,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241096,
+      "num": 241096,
+      "word": "河北两女子长得一模一样孩子认错妈",
+      "onboard_time": 1778078603,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 240566,
       "num": 470328,
       "word": "张晚意说年下绝不叫姐姐",
@@ -1203,12 +1259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230993,
+      "num": 369158,
+      "word": "孔雪儿的穿搭AI给到夯",
+      "onboard_time": 1778076323,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229726,
       "num": 229726,
       "word": "王皓老实人最后的倔强",
       "onboard_time": 1778067441,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228578,
+      "num": 228578,
+      "word": "秦昊女儿9岁身高",
+      "onboard_time": 1778070141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 227495,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1778048780,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223748,
-      "num": 223748,
-      "word": "鞠婧祎的舞被韩国女团跳了",
-      "onboard_time": 1778077404,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223111,
@@ -1339,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211945,
+      "num": 215240,
+      "word": "CBA",
+      "onboard_time": 1778076924,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208479,
       "num": 324624,
       "word": "市委书记自费撸串捧场捐髓烧烤店主",
@@ -1363,11 +1435,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202681,
-      "num": 369158,
-      "word": "孔雪儿的穿搭AI给到夯",
-      "onboard_time": 1778076323,
-      "rank": 20,
+      "raw_hot": 200595,
+      "num": 200595,
+      "word": "小S阿雅重返华冈艺校",
+      "onboard_time": 1778079203,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1435,20 +1507,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190950,
+      "num": 190950,
+      "word": "林诗栋说一直在研究不犯规的发球",
+      "onboard_time": 1778073863,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190776,
       "num": 516761,
       "word": "伊朗发布向美军舰发射导弹视频",
       "onboard_time": 1778024839,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 190540,
-      "num": 215240,
-      "word": "CBA",
-      "onboard_time": 1778076924,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 190055,
@@ -1577,14 +1649,6 @@
       "onboard_time": 1778074401,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 168322,
-      "num": 168322,
-      "word": "林诗栋说一直在研究不犯规的发球",
-      "onboard_time": 1778073863,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 166264,
@@ -1964,7 +2028,7 @@
     },
     {
       "raw_hot": 99124,
-      "num": 945436,
+      "num": 1011719,
       "word": "来中国玩的外国人更多了",
       "onboard_time": 1778071823,
       "rank": 2,
@@ -1993,6 +2057,14 @@
       "onboard_time": 1777975821,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89460,
+      "num": 358496,
+      "word": "7月大婴儿被重复接种两针疫苗",
+      "onboard_time": 1778079743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88961,
@@ -2275,6 +2347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21354,
+      "num": 226667,
+      "word": "华住集团回应大连出现全李酒店",
+      "onboard_time": 1778079862,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18618,
       "num": 103423,
       "word": "王楚钦青年领军运动员",
@@ -2356,6 +2436,9 @@
     },
     {
       "word": "#总书记对青年的爱护与期待#"
+    },
+    {
+      "word": "#青年习近平的人生课堂#"
     }
   ]
 }
