@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778068541442,
+  "endTime": 1778069843990,
   "band_list": [
     {
       "raw_hot": 9062055,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2286700,
-      "num": 566445,
+      "num": 1026357,
       "word": "白鹿跑男争议 内娱综艺审美巨变",
       "onboard_time": 1778061201,
       "rank": 11,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1189023,
+      "num": 1189023,
+      "word": "王楚钦这一分全体起立",
+      "onboard_time": 1778066720,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1108379,
       "num": 1108379,
       "word": "汉坦病毒疫情",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1099306,
-      "num": 560938,
+      "num": 580492,
       "word": "梁靖崑0比3E约内斯库",
       "onboard_time": 1778060422,
       "rank": 38,
@@ -179,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 983164,
-      "num": 983164,
-      "word": "王楚钦这一分全体起立",
-      "onboard_time": 1778066720,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 1007151,
+      "num": 1007151,
+      "word": "花少8最新阵容",
+      "onboard_time": 1778066901,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 909971,
@@ -209,6 +217,14 @@
       "onboard_time": 1778022799,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 887837,
+      "num": 582047,
+      "word": "傅首尔瘦到认不出了",
+      "onboard_time": 1778068702,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 869891,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 830768,
-      "num": 538337,
+      "num": 575201,
       "word": "张子枫手臂都是伤疤",
       "onboard_time": 1778044341,
       "rank": 17,
@@ -371,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 639719,
+      "num": 639719,
+      "word": "龙队急得直挠头",
+      "onboard_time": 1778067141,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632445,
       "num": 611076,
       "word": "下午洗澡是一种混沌的感觉",
@@ -403,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 602585,
-      "num": 602585,
-      "word": "花少8最新阵容",
-      "onboard_time": 1778066901,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 589504,
+      "num": 589504,
+      "word": "三星",
+      "onboard_time": 1778069662,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 583784,
@@ -443,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544334,
+      "num": 544334,
+      "word": "全李酒店 全季酒店",
+      "onboard_time": 1778066540,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528270,
+      "num": 585655,
+      "word": "国乒男团进世乒赛8强",
+      "onboard_time": 1778067920,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528230,
       "num": 528230,
       "word": "杨迪 喜欢谢娜不是一件丢人的事",
@@ -475,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479488,
+      "num": 479488,
+      "word": "兜儿回应女儿像小猪妹",
+      "onboard_time": 1778067862,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 476351,
       "num": 476351,
       "word": "湖人vs雷霆",
@@ -499,20 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441446,
+      "num": 423292,
+      "word": "肖战十日终焉剧组请客了",
+      "onboard_time": 1778065882,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 434713,
+      "num": 529579,
+      "word": "英伟达中国份额降至0",
+      "onboard_time": 1778061141,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 434428,
       "num": 354569,
       "word": "刘宇宁像巨人一样就出来了",
       "onboard_time": 1778051240,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423292,
-      "num": 423292,
-      "word": "肖战十日终焉剧组请客了",
-      "onboard_time": 1778065882,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 418773,
@@ -529,14 +585,6 @@
       "onboard_time": 1777983921,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417391,
-      "num": 529579,
-      "word": "英伟达中国份额降至0",
-      "onboard_time": 1778061141,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 414472,
@@ -627,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373274,
-      "num": 373274,
-      "word": "国乒男团进世乒赛8强",
-      "onboard_time": 1778067920,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "梁靖崑vsE约内斯库",
@@ -689,14 +729,6 @@
       "onboard_time": 1777986082,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338506,
-      "num": 338506,
-      "word": "龙队急得直挠头",
-      "onboard_time": 1778067141,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 333707,
@@ -761,14 +793,6 @@
       "onboard_time": 1778046859,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 299394,
-      "num": 299394,
-      "word": "全李酒店 全季酒店",
-      "onboard_time": 1778066540,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299222,
@@ -859,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 268506,
+      "num": 268506,
+      "word": "王皓我的眼睛也是尺",
+      "onboard_time": 1778067141,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265459,
       "num": 265459,
       "word": "男子学猫叫认亲被处罚",
@@ -873,14 +905,6 @@
       "onboard_time": 1778038460,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259244,
-      "num": 257238,
-      "word": "兜儿回应女儿像小猪妹",
-      "onboard_time": 1778067862,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 259204,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243332,
+      "num": 243332,
+      "word": "孙颖莎vs伯格斯特隆",
+      "onboard_time": 1778066540,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240566,
       "num": 470328,
       "word": "张晚意说年下绝不叫姐姐",
@@ -987,12 +1019,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235056,
+      "num": 235056,
+      "word": "为什么户外千万不要穿迷彩",
+      "onboard_time": 1778066481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232000,
       "num": 232000,
       "word": "比五花肉还油的素菜",
       "onboard_time": 1778033479,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231275,
+      "num": 589783,
+      "word": "伊朗外长向中方通报伊美谈判情况",
+      "onboard_time": 1778068161,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 231249,
+      "num": 231249,
+      "word": "王曼昱vs卡尔伯格",
+      "onboard_time": 1778069602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229726,
+      "num": 229726,
+      "word": "王皓老实人最后的倔强",
+      "onboard_time": 1778067441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 226170,
@@ -1033,14 +1097,6 @@
       "onboard_time": 1778068400,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220528,
-      "num": 234948,
-      "word": "王皓我的眼睛也是尺",
-      "onboard_time": 1778067141,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 219429,
@@ -1131,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199863,
+      "num": 199863,
+      "word": "猴子坐崖边男子偷偷靠近猛推",
+      "onboard_time": 1778065401,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198705,
       "num": 323450,
       "word": "兔子是通过耳朵输液的",
@@ -1203,12 +1267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183303,
-      "num": 183303,
-      "word": "为什么户外千万不要穿迷彩",
-      "onboard_time": 1778066481,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 183440,
+      "num": 183440,
+      "word": "三星家电退出大陆市场",
+      "onboard_time": 1778069301,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 182942,
@@ -1217,14 +1281,6 @@
       "onboard_time": 1777983082,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180106,
-      "num": 180106,
-      "word": "孙颖莎vs伯格斯特隆",
-      "onboard_time": 1778066540,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 180001,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1777991365,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154824,
+      "num": 577148,
+      "word": "孙颖莎3比0伯格斯特隆",
+      "onboard_time": 1778069422,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 154281,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1778000418,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125427,
-      "num": 589783,
-      "word": "伊朗外长向中方通报伊美谈判情况",
-      "onboard_time": 1778068161,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121305,
@@ -1699,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82416,
+      "num": 587682,
+      "word": "佳偶天成 人类应该写出的剧本",
+      "onboard_time": 1778067622,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81918,
       "num": 157045,
       "word": "刘宇宁康乃馨音乐节6.0直播",
@@ -1771,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69113,
+      "num": 475970,
+      "word": "女厕紧张不该只靠临时借用男厕",
+      "onboard_time": 1778068882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68071,
       "num": 235102,
       "word": "肖战带妆下班合集",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1777975282,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54263,
-      "num": 234989,
-      "word": "佳偶天成 人类应该写出的剧本",
-      "onboard_time": 1778067622,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 53763,
@@ -1940,7 +2004,7 @@
     },
     {
       "raw_hot": 22537,
-      "num": 1031145,
+      "num": 1041719,
       "word": "致敬国之重器背后的青年力量",
       "onboard_time": 1778056162,
       "rank": 2,
