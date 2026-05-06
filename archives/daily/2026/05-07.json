@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778091870868,
+  "endTime": 1778094698464,
   "band_list": [
     {
       "raw_hot": 1437508,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156440,
+      "num": 114235,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146176,
       "num": 146176,
       "word": "邓凯孔雪儿 长宁帝军",
@@ -241,14 +249,6 @@
       "onboard_time": 1778069662,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 137748,
-      "num": 114235,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133020,
@@ -465,6 +465,14 @@
       "onboard_time": 1778087716,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40257,
+      "num": 50744,
+      "word": "耳高于眉的聪明狗",
+      "onboard_time": 1778091915,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 33328,
