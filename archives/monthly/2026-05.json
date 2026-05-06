@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778051827591,
+  "endTime": 1778059908322,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3328439,
+      "num": 3328439,
+      "word": "花少 恋综",
+      "onboard_time": 1778054241,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3255384,
       "num": 308736,
       "word": "金靖瘦到认不出来",
@@ -185,6 +193,14 @@
       "onboard_time": 1777705460,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3141401,
+      "num": 944320,
+      "word": "时代峰峻回应穆祉丞没饭撒",
+      "onboard_time": 1778058020,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 3081696,
@@ -511,6 +527,14 @@
       "num": 427872,
       "word": "迪丽热巴和素人合影",
       "onboard_time": 1777607058,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1450915,
+      "num": 355499,
+      "word": "合作演员为卢昱晓发声",
+      "onboard_time": 1778055561,
       "rank": 10,
       "category": "艺人"
     },
@@ -1259,6 +1283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 836311,
+      "num": 836311,
+      "word": "荔枝披萨",
+      "onboard_time": 1778056822,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 830768,
+      "num": 491337,
+      "word": "张子枫手臂都是伤疤",
+      "onboard_time": 1778044341,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 829613,
       "num": 684789,
       "word": "穆祉丞发大合照了",
@@ -1459,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 750017,
+      "num": 750017,
+      "word": "油价暴跌了",
+      "onboard_time": 1778051959,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 749037,
       "num": 749037,
       "word": "玩悬崖秋千女子刚滑出安全平台就坠崖",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1777863739,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 711135,
+      "num": 1131978,
+      "word": "合肥市委书记费高云被查",
+      "onboard_time": 1778055622,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 709395,
@@ -1987,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618861,
+      "num": 618861,
+      "word": "视组白玉兰预测提名名单",
+      "onboard_time": 1778053822,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618750,
       "num": 618750,
       "word": "突然意识到开封就是开封的意思",
@@ -2041,14 +2105,6 @@
       "onboard_time": 1777909581,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 608664,
-      "num": 491337,
-      "word": "张子枫手臂都是伤疤",
-      "onboard_time": 1778044341,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 608532,
@@ -2409,6 +2465,14 @@
       "onboard_time": 1777851978,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 524447,
+      "num": 350921,
+      "word": "宋慧乔腰线",
+      "onboard_time": 1778051959,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 523860,
@@ -3043,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427126,
+      "num": 349773,
+      "word": "刘宇宁像巨人一样就出来了",
+      "onboard_time": 1778051240,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425229,
       "num": 914484,
       "word": "火车票开售即售罄的原因找到了",
@@ -3185,6 +3257,14 @@
       "onboard_time": 1777770140,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405345,
+      "num": 405345,
+      "word": "胖东来19名管理人员被降级",
+      "onboard_time": 1778055139,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404894,
@@ -3771,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348173,
+      "num": 493600,
+      "word": "德甲",
+      "onboard_time": 1778051360,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347792,
       "num": 385761,
       "word": "王楚钦默默收冰袋细节看哭了",
@@ -4323,6 +4411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306819,
+      "num": 345084,
+      "word": "敏沙 剧宣",
+      "onboard_time": 1778058082,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306207,
+      "num": 353724,
+      "word": "菩萨手拍卖 文物流失",
+      "onboard_time": 1778054241,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305291,
       "num": 303999,
       "word": "刘耀文生图头身比",
@@ -4707,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284510,
+      "num": 343107,
+      "word": "人一旦出了国旅游",
+      "onboard_time": 1778050099,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284318,
       "num": 277921,
       "word": "王楚钦一脸不甘心",
@@ -4849,6 +4961,14 @@
       "onboard_time": 1777881801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274864,
+      "num": 341671,
+      "word": "iPhone17或成史上最长寿苹果手机",
+      "onboard_time": 1778050040,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 274741,
@@ -5099,28 +5219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255282,
-      "num": 186291,
-      "word": "人一旦出了国旅游",
-      "onboard_time": 1778050099,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255195,
       "num": 255195,
       "word": "暴发致命病毒邮轮感染人数增至7人",
       "onboard_time": 1778031920,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255182,
-      "num": 185177,
-      "word": "iPhone17或成史上最长寿苹果手机",
-      "onboard_time": 1778050040,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 254920,
@@ -5275,14 +5379,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 245917,
-      "num": 493600,
-      "word": "德甲",
-      "onboard_time": 1778051360,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245764,
       "num": 247833,
       "word": "王楚钦林诗栋梁靖崑开门红",
@@ -5363,6 +5459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240429,
+      "num": 322936,
+      "word": "井柏然走路刘雯化",
+      "onboard_time": 1778050040,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240281,
       "num": 238071,
       "word": "你好星期六",
@@ -5385,6 +5489,14 @@
       "onboard_time": 1778025860,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239510,
+      "num": 332669,
+      "word": "黄灿灿在新疆被导游拉去看王鹤棣",
+      "onboard_time": 1778059701,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 239300,
@@ -5659,6 +5771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226170,
+      "num": 321646,
+      "word": "吸血鬼日记男主退圈后负债千万美元",
+      "onboard_time": 1778051783,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226086,
       "num": 445325,
       "word": "偶遇娜扎在大孤山祈福",
@@ -5777,6 +5897,22 @@
       "onboard_time": 1777702639,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219838,
+      "num": 326468,
+      "word": "假期订酒店订到公安局",
+      "onboard_time": 1778058082,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219429,
+      "num": 316506,
+      "word": "张一山满满的幸福",
+      "onboard_time": 1778053582,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 219330,
@@ -5915,6 +6051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214738,
+      "num": 313199,
+      "word": "Angelababy江南雨景氛围感",
+      "onboard_time": 1778053701,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214707,
       "num": 214707,
       "word": "莫雷加德跟裁判吵起来了",
@@ -5977,14 +6121,6 @@
       "onboard_time": 1777900523,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 212621,
-      "num": 180200,
-      "word": "井柏然走路刘雯化",
-      "onboard_time": 1778050040,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 211440,
@@ -6072,6 +6208,14 @@
       "word": "葛仙村NPC小黄鱼致歉",
       "onboard_time": 1777709720,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208479,
+      "num": 324624,
+      "word": "市委书记自费撸串捧场捐髓烧烤店主",
+      "onboard_time": 1778056940,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -6195,6 +6339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201657,
+      "num": 318941,
+      "word": "梁靖崑vsE约内斯库",
+      "onboard_time": 1778059642,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -6251,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198705,
+      "num": 313876,
+      "word": "兔子是通过耳朵输液的",
+      "onboard_time": 1778056281,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198683,
       "num": 198683,
       "word": "男乒9个败局8局只输2分",
@@ -6281,6 +6441,14 @@
       "onboard_time": 1777645041,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196254,
+      "num": 311460,
+      "word": "乌克兰官员月薪900家属秀场扔15万",
+      "onboard_time": 1778058921,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195644,
@@ -6715,6 +6883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181360,
+      "num": 305069,
+      "word": "林诗栋vsO约内斯库",
+      "onboard_time": 1778057543,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181059,
       "num": 253392,
       "word": "夫妻接连下水救子父亲身亡",
@@ -7027,6 +7203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171285,
+      "num": 301346,
+      "word": "赵丽颖的二十年",
+      "onboard_time": 1778059582,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171270,
       "num": 520798,
       "word": "消失的人票房破2亿",
@@ -7147,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167197,
+      "num": 299107,
+      "word": "女子宫外孕胚胎长在人体最粗血管上",
+      "onboard_time": 1778057602,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166226,
       "num": 166226,
       "word": "第五人格红夫人",
@@ -7243,14 +7435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163341,
-      "num": 172900,
-      "word": "吸血鬼日记男主退圈后负债千万美元",
-      "onboard_time": 1778051783,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162724,
       "num": 231835,
       "word": "女子辞职顾家分手遭男友追讨百万",
@@ -7265,6 +7449,14 @@
       "onboard_time": 1777782261,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161880,
+      "num": 297268,
+      "word": "帆帆回应",
+      "onboard_time": 1778053160,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 161671,
@@ -7408,6 +7600,14 @@
       "word": "海拔5000米的雪山堵得人山人海",
       "onboard_time": 1777893680,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157936,
+      "num": 296131,
+      "word": "女子趁男友熟睡刷脸21次盗转27万",
+      "onboard_time": 1778058621,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -7961,6 +8161,14 @@
       "onboard_time": 1777833855,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139274,
+      "num": 317993,
+      "word": "面试花少艺人希望在旅行中获得恋情",
+      "onboard_time": 1778059701,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 138921,
@@ -9987,6 +10195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69158,
+      "num": 329753,
+      "word": "跟着中国国家地理去旅行",
+      "onboard_time": 1778056643,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 69034,
       "num": 138911,
       "word": "常州队世界波破门",
@@ -11051,6 +11267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24828,
+      "num": 307303,
+      "word": "岳阳一摩托车斑马线上撞人致2死1伤",
+      "onboard_time": 1778059341,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24722,
       "num": 74450,
       "word": "山东泰山vs上海申花",
@@ -11169,6 +11393,14 @@
       "onboard_time": 1777815442,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19841,
+      "num": 962875,
+      "word": "致敬国之重器背后的青年力量",
+      "onboard_time": 1778056162,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19024,
@@ -11532,6 +11764,9 @@
     },
     {
       "word": "#总书记始终心系青年#"
+    },
+    {
+      "word": "#总书记对青年的爱护与期待#"
     }
   ]
 }

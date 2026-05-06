@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778051827591,
+  "endTime": 1778059908322,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1563,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3328439,
+      "num": 3328439,
+      "word": "花少 恋综",
+      "onboard_time": 1778054241,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3306102,
       "num": 3306102,
       "word": "伊朗首都发生爆炸",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1776686301,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3141401,
+      "num": 944320,
+      "word": "时代峰峻回应穆祉丞没饭撒",
+      "onboard_time": 1778058020,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 3131250,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1776432562,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2418500,
-      "num": 2418500,
-      "word": "马兴瑞被查",
-      "onboard_time": 1775210841,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 2407334,
-      "num": 392899,
-      "word": "李白",
-      "onboard_time": 1774768047,
-      "rank": 4,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

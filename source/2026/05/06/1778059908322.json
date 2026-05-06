@@ -1,0 +1,410 @@
+{
+  "runTime": 1778059908322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3328439,
+        "num": 3328439,
+        "word": "花少 恋综",
+        "onboard_time": 1778054241,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711135,
+        "num": 1131978,
+        "word": "合肥市委书记费高云被查",
+        "onboard_time": 1778055622,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19841,
+        "num": 962875,
+        "word": "致敬国之重器背后的青年力量",
+        "onboard_time": 1778056162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3141401,
+        "num": 944320,
+        "word": "时代峰峻回应穆祉丞没饭撒",
+        "onboard_time": 1778058020,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 836311,
+        "num": 836311,
+        "word": "荔枝披萨",
+        "onboard_time": 1778056822,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 750017,
+        "num": 750017,
+        "word": "油价暴跌了",
+        "onboard_time": 1778051959,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 618861,
+        "num": 618861,
+        "word": "视组白玉兰预测提名名单",
+        "onboard_time": 1778053822,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405345,
+        "num": 405345,
+        "word": "胖东来19名管理人员被降级",
+        "onboard_time": 1778055139,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358819,
+        "num": 358819,
+        "word": "下午洗澡是一种混沌的感觉",
+        "onboard_time": 1778040561,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192024,
+        "num": 357599,
+        "word": "淘宝免单轮番上阵",
+        "onboard_time": 1778038099,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1450915,
+        "num": 355499,
+        "word": "合作演员为卢昱晓发声",
+        "onboard_time": 1778055561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830768,
+        "num": 355022,
+        "word": "张子枫手臂都是伤疤",
+        "onboard_time": 1778044341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306207,
+        "num": 353724,
+        "word": "菩萨手拍卖 文物流失",
+        "onboard_time": 1778054241,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524447,
+        "num": 350921,
+        "word": "宋慧乔腰线",
+        "onboard_time": 1778051959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427126,
+        "num": 349773,
+        "word": "刘宇宁像巨人一样就出来了",
+        "onboard_time": 1778051240,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299231,
+        "num": 347325,
+        "word": "拧巴的人谈恋爱belike",
+        "onboard_time": 1778045541,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329967,
+        "num": 345770,
+        "word": "卢昱晓不敬业争议",
+        "onboard_time": 1778048719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306819,
+        "num": 345084,
+        "word": "敏沙 剧宣",
+        "onboard_time": 1778058082,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284510,
+        "num": 343107,
+        "word": "人一旦出了国旅游",
+        "onboard_time": 1778050099,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274864,
+        "num": 341671,
+        "word": "iPhone17或成史上最长寿苹果手机",
+        "onboard_time": 1778050040,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 348173,
+        "num": 338817,
+        "word": "德甲",
+        "onboard_time": 1778051360,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264062,
+        "num": 337621,
+        "word": "谢娜演唱会上座率",
+        "onboard_time": 1777996461,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260591,
+        "num": 335572,
+        "word": "王心凌演出被镭射激光烫到腿",
+        "onboard_time": 1778037260,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199603,
+        "num": 335059,
+        "word": "A股",
+        "onboard_time": 1778036119,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239510,
+        "num": 332669,
+        "word": "黄灿灿在新疆被导游拉去看王鹤棣",
+        "onboard_time": 1778059701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171913,
+        "num": 330882,
+        "word": "时代少年团五一演唱会带动消费14亿",
+        "onboard_time": 1778046859,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69158,
+        "num": 329753,
+        "word": "跟着中国国家地理去旅行",
+        "onboard_time": 1778056643,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 387545,
+        "num": 328018,
+        "word": "长大后才懂父母为啥总在家里吃饭",
+        "onboard_time": 1778040321,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219838,
+        "num": 326468,
+        "word": "假期订酒店订到公安局",
+        "onboard_time": 1778058082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208479,
+        "num": 324624,
+        "word": "市委书记自费撸串捧场捐髓烧烤店主",
+        "onboard_time": 1778056940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240429,
+        "num": 322936,
+        "word": "井柏然走路刘雯化",
+        "onboard_time": 1778050040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226170,
+        "num": 321646,
+        "word": "吸血鬼日记男主退圈后负债千万美元",
+        "onboard_time": 1778051783,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201657,
+        "num": 318941,
+        "word": "梁靖崑vsE约内斯库",
+        "onboard_time": 1778059642,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139274,
+        "num": 317993,
+        "word": "面试花少艺人希望在旅行中获得恋情",
+        "onboard_time": 1778059701,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219429,
+        "num": 316506,
+        "word": "张一山满满的幸福",
+        "onboard_time": 1778053582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198705,
+        "num": 313876,
+        "word": "兔子是通过耳朵输液的",
+        "onboard_time": 1778056281,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214738,
+        "num": 313199,
+        "word": "Angelababy江南雨景氛围感",
+        "onboard_time": 1778053701,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196254,
+        "num": 311460,
+        "word": "乌克兰官员月薪900家属秀场扔15万",
+        "onboard_time": 1778058921,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187372,
+        "num": 309157,
+        "word": "王橹杰高会",
+        "onboard_time": 1778035400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24828,
+        "num": 307303,
+        "word": "岳阳一摩托车斑马线上撞人致2死1伤",
+        "onboard_time": 1778059341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186466,
+        "num": 306018,
+        "word": "一家人在山姆接了3大袋免费芥末酱",
+        "onboard_time": 1778041224,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181360,
+        "num": 305069,
+        "word": "林诗栋vsO约内斯库",
+        "onboard_time": 1778057543,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172311,
+        "num": 302182,
+        "word": "张一山回应与杨紫20年友情",
+        "onboard_time": 1778041460,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171285,
+        "num": 301346,
+        "word": "赵丽颖的二十年",
+        "onboard_time": 1778059582,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167197,
+        "num": 299107,
+        "word": "女子宫外孕胚胎长在人体最粗血管上",
+        "onboard_time": 1778057602,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 297268,
+        "word": "帆帆回应",
+        "onboard_time": 1778053160,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157936,
+        "num": 296131,
+        "word": "女子趁男友熟睡刷脸21次盗转27万",
+        "onboard_time": 1778058621,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 294405,
+        "word": "丢失7年手机突然发定位机主找回",
+        "onboard_time": 1778038159,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40767,
+        "num": 292247,
+        "word": "小米首台万级大电池手机曝光",
+        "onboard_time": 1778039841,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14233,
+        "num": 290276,
+        "word": "XC70被连续撞击三次会怎样",
+        "onboard_time": 1778040321,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年的爱护与期待#"
+    }
+  }
+}
