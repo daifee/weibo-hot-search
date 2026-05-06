@@ -1,0 +1,410 @@
+{
+  "runTime": 1778026419107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 295130,
+        "num": 1047220,
+        "word": "阿森纳晋级欧冠决赛",
+        "onboard_time": 1778022799,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1342245,
+        "num": 1045927,
+        "word": "女子坠亡悬崖秋千开业仅1个多月",
+        "onboard_time": 1778022978,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13003,
+        "num": 721620,
+        "word": "智慧春耕科技范儿十足",
+        "onboard_time": 1777984700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1751144,
+        "num": 709060,
+        "word": "谢娜演唱会上座率",
+        "onboard_time": 1777996461,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 656670,
+        "num": 656670,
+        "word": "一定要好好度过你的奥德赛时期",
+        "onboard_time": 1777997660,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625586,
+        "num": 625586,
+        "word": "欧冠",
+        "onboard_time": 1778022799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583784,
+        "num": 583784,
+        "word": "男友婚前查出乙肝女子父母让分手",
+        "onboard_time": 1777988963,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404894,
+        "num": 582825,
+        "word": "中国青年身高涨幅引外网热议",
+        "onboard_time": 1778022017,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 648704,
+        "num": 582266,
+        "word": "大哥谢娜 二弟赵丽颖",
+        "onboard_time": 1777974742,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148572,
+        "num": 580373,
+        "word": "五一微信数据报告来了",
+        "onboard_time": 1777993944,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 902598,
+        "num": 579586,
+        "word": "卢昱晓下沉口碑",
+        "onboard_time": 1777989142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578252,
+        "num": 578252,
+        "word": "白鹿隐藏了和范丞丞的手势舞",
+        "onboard_time": 1777989504,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418055,
+        "num": 577010,
+        "word": "将男厕临时改为女厕景区获全网点赞",
+        "onboard_time": 1777983921,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493875,
+        "num": 574159,
+        "word": "四川华蓥瀑布秋千事故致1死",
+        "onboard_time": 1777986262,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411952,
+        "num": 570571,
+        "word": "吴宜泽回应50万英镑奖金用途",
+        "onboard_time": 1778024419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358748,
+        "num": 568746,
+        "word": "国乒男团9比0横扫澳大利亚",
+        "onboard_time": 1778014454,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313443,
+        "num": 564113,
+        "word": "女子坠亡悬崖秋千摆弧300米",
+        "onboard_time": 1778024959,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275981,
+        "num": 562932,
+        "word": "李嘉诚套现约455亿港元",
+        "onboard_time": 1777993824,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37301,
+        "num": 558061,
+        "word": "鸿蒙智行回应副驾折叠争议",
+        "onboard_time": 1777975401,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23304,
+        "num": 556514,
+        "word": "OpenAI或加速手机开发",
+        "onboard_time": 1778014815,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1296692,
+        "num": 554732,
+        "word": "贺峻霖 但凡有人尊重一下我呢",
+        "onboard_time": 1777994844,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550327,
+        "num": 550723,
+        "word": "妻子的浪漫旅行 变味",
+        "onboard_time": 1777981161,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275360,
+        "num": 547750,
+        "word": "留德学生迷奸女友8次获刑11年",
+        "onboard_time": 1778024779,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251089,
+        "num": 543563,
+        "word": "考试前一天做真题回顾还是太权威了",
+        "onboard_time": 1778025019,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250882,
+        "num": 540518,
+        "word": "山姆回应多名顾客拿袋子装免费酱料",
+        "onboard_time": 1777999339,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237752,
+        "num": 538855,
+        "word": "宋亚轩哭了",
+        "onboard_time": 1777987762,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234794,
+        "num": 536222,
+        "word": "强大到可怕的顶级心态",
+        "onboard_time": 1777988905,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72657,
+        "num": 533852,
+        "word": "鲁比奥称对伊朗史诗怒火行动结束",
+        "onboard_time": 1778024179,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104167,
+        "num": 530077,
+        "word": "特朗普称疏导霍尔木兹海峡行动暂停",
+        "onboard_time": 1778024239,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138450,
+        "num": 528315,
+        "word": "浏阳烟花厂爆炸致26死61伤",
+        "onboard_time": 1777960223,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 162783,
+        "num": 525353,
+        "word": "奔跑吧打假",
+        "onboard_time": 1777958600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239675,
+        "num": 520904,
+        "word": "当新娘同时是婚礼策划师",
+        "onboard_time": 1778025860,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190776,
+        "num": 516761,
+        "word": "伊朗发布向美军舰发射导弹视频",
+        "onboard_time": 1778024839,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216012,
+        "num": 516661,
+        "word": "第一次看小猫掉毛看力竭了",
+        "onboard_time": 1778000418,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163679,
+        "num": 511702,
+        "word": "父母平分6套房产差12平米儿媳翻脸",
+        "onboard_time": 1777977441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159916,
+        "num": 508166,
+        "word": "突然觉得小学老师好厉害",
+        "onboard_time": 1778025801,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153704,
+        "num": 505624,
+        "word": "留守妈妈1拖3自带娃小儿子头摔地",
+        "onboard_time": 1778025200,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151202,
+        "num": 502270,
+        "word": "爸爸去哪儿男孩现状",
+        "onboard_time": 1777996822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139372,
+        "num": 501314,
+        "word": "夫妻分居20年因改网名矛盾彻底爆发",
+        "onboard_time": 1777991365,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138921,
+        "num": 497638,
+        "word": "金饰价再跌破1400元",
+        "onboard_time": 1777997061,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132650,
+        "num": 494388,
+        "word": "黄明昊说大雨也挡不住弟弟们闪闪发光",
+        "onboard_time": 1777996104,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127848,
+        "num": 492867,
+        "word": "夫妻住新疆帐篷民宿帐篷突然被人拉开",
+        "onboard_time": 1778000418,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126499,
+        "num": 490141,
+        "word": "第一次直观地意识到自己有多馋",
+        "onboard_time": 1778000418,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123255,
+        "num": 484626,
+        "word": "小黄豆转发马嘉祺照片",
+        "onboard_time": 1777990284,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120327,
+        "num": 482322,
+        "word": "地铁自动补位行李箱墙太戳人",
+        "onboard_time": 1778025801,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176179,
+        "num": 479014,
+        "word": "四川悬崖秋千事故景区系网红打卡地",
+        "onboard_time": 1778021776,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112709,
+        "num": 478472,
+        "word": "单眼皮的小黄豆道歉",
+        "onboard_time": 1777994005,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110910,
+        "num": 474786,
+        "word": "景区称至今未接待到零彩礼免票游客",
+        "onboard_time": 1777994064,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108578,
+        "num": 471349,
+        "word": "河成云晒和赖冠霖聊天记录",
+        "onboard_time": 1778025621,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108285,
+        "num": 469646,
+        "word": "赖冠霖首次公开在北京近况",
+        "onboard_time": 1777983082,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深情寄语中国青年#"
+    }
+  }
+}
