@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/06 11:44:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/06 12:14:03
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%8B%E5%8D%83%E5%9D%A0%E4%BA%A1%E4%BA%8B%E5%8F%91%E5%9C%B0%E7%80%91%E5%B8%83%E8%90%BD%E5%B7%AE168%E7%B1%B3%23" target="weibo">
+女子秋千坠亡事发地瀑布落差168米（热度：3655676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B430000%23" target="weibo">
 骄阳似我腾讯视频热度值破30000（热度：3655537）
 </a>
@@ -1637,12 +1643,6 @@ YSL 撞衫（热度：2608306）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0%23" target="weibo">
 哈梅内伊遗体已被找到（热度：2577022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%8B%E5%8D%83%E5%9D%A0%E4%BA%A1%E4%BA%8B%E5%8F%91%E5%9C%B0%E7%80%91%E5%B8%83%E8%90%BD%E5%B7%AE168%E7%B1%B3%23" target="weibo">
-女子秋千坠亡事发地瀑布落差168米（热度：2572523）
 </a>
 </li>
 

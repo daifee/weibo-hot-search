@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778039064235,
+  "endTime": 1778040843569,
   "band_list": [
     {
       "raw_hot": 3742843,
@@ -11,24 +11,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3007201,
-      "num": 418634,
-      "word": "曝陈星旭拍轧戏等卢昱晓七个小时",
-      "onboard_time": 1778027421,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2572523,
-      "num": 416796,
+      "raw_hot": 3655676,
+      "num": 3655676,
       "word": "女子秋千坠亡事发地瀑布落差168米",
       "onboard_time": 1778037200,
       "rank": 11,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3007201,
+      "num": 477720,
+      "word": "曝陈星旭拍轧戏等卢昱晓七个小时",
+      "onboard_time": 1778027421,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2197434,
-      "num": 839784,
+      "num": 1290645,
       "word": "谢娜演唱会上座率",
       "onboard_time": 1777996461,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1436310,
-      "num": 413773,
+      "num": 441974,
       "word": "王橹杰高会",
       "onboard_time": 1778035400,
       "rank": 12,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1298164,
-      "num": 413229,
+      "num": 428037,
       "word": "A股",
       "onboard_time": 1778036119,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1292640,
+      "num": 1292640,
+      "word": "淘宝免单轮番上阵",
+      "onboard_time": 1778038099,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 1221295,
@@ -73,6 +81,14 @@
       "onboard_time": 1777999339,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1108379,
+      "num": 1108379,
+      "word": "汉坦病毒疫情",
+      "onboard_time": 1778036299,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1081907,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1054546,
-      "num": 679904,
+      "num": 803416,
       "word": "我与爱同谋开机",
       "onboard_time": 1778036719,
       "rank": 6,
@@ -105,14 +121,6 @@
       "onboard_time": 1778022799,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 875525,
-      "num": 875525,
-      "word": "汉坦病毒疫情",
-      "onboard_time": 1778036299,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 867243,
@@ -136,6 +144,14 @@
       "word": "谢娜演唱会现场的明星",
       "onboard_time": 1777986743,
       "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 756476,
+      "num": 380054,
+      "word": "王心凌演出被镭射激光烫到腿",
+      "onboard_time": 1778037260,
+      "rank": 21,
       "category": "演出"
     },
     {
@@ -179,14 +195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 612390,
-      "num": 304492,
-      "word": "王心凌演出被镭射激光烫到腿",
-      "onboard_time": 1778037260,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 583784,
       "num": 723994,
       "word": "男友婚前查出乙肝女子父母让分手",
@@ -211,12 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 542624,
-      "num": 542624,
-      "word": "淘宝免单轮番上阵",
-      "onboard_time": 1778038099,
-      "rank": 7,
-      "category": "互联网"
+      "raw_hot": 516250,
+      "num": 516250,
+      "word": "里夫斯季后赛打没身价",
+      "onboard_time": 1778037860,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 502391,
+      "num": 313612,
+      "word": "长大后才懂父母为啥总在家里吃饭",
+      "onboard_time": 1778040321,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 493875,
@@ -339,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301669,
+      "num": 301669,
+      "word": "小米首台万级大电池手机曝光",
+      "onboard_time": 1778039841,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 299222,
       "num": 299222,
       "word": "这个世界是属于执行力强的人",
       "onboard_time": 1778028621,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 298120,
-      "num": 358754,
-      "word": "里夫斯季后赛打没身价",
-      "onboard_time": 1778037860,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 296950,
@@ -395,6 +411,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265459,
+      "num": 265459,
+      "word": "男子学猫叫认亲被处罚",
+      "onboard_time": 1778037860,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264954,
+      "num": 344483,
+      "word": "残障女孩因轮椅电池没法拆不让托运",
+      "onboard_time": 1778038460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258649,
+      "num": 258649,
+      "word": "丢失7年手机突然发定位机主找回",
+      "onboard_time": 1778038159,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256374,
+      "num": 319292,
+      "word": "詹姆斯尽力局",
+      "onboard_time": 1778039841,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255195,
       "num": 255195,
       "word": "暴发致命病毒邮轮感染人数增至7人",
@@ -409,14 +457,6 @@
       "onboard_time": 1777988905,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245735,
-      "num": 245735,
-      "word": "男子学猫叫认亲被处罚",
-      "onboard_time": 1778037860,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239675,
@@ -435,6 +475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 221468,
+      "num": 221468,
+      "word": "赖冠霖不参加WANNAONE重聚的原因",
+      "onboard_time": 1778039900,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218380,
       "num": 516661,
       "word": "第一次看小猫掉毛看力竭了",
@@ -449,6 +497,14 @@
       "onboard_time": 1777993283,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215465,
+      "num": 215465,
+      "word": "雷霆1比0湖人",
+      "onboard_time": 1778040261,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 213701,
@@ -473,6 +529,14 @@
       "onboard_time": 1778037260,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192815,
+      "num": 192815,
+      "word": "62岁倪夏莲率队晋级",
+      "onboard_time": 1778040261,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191073,
@@ -537,6 +601,22 @@
       "onboard_time": 1778017755,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171067,
+      "num": 171067,
+      "word": "帆帆聊天记录",
+      "onboard_time": 1778040800,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 163882,
+      "num": 163882,
+      "word": "印度两女子横穿铁轨被火车撞死",
+      "onboard_time": 1778030540,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163679,
@@ -619,12 +699,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137789,
-      "num": 137789,
-      "word": "印度两女子横穿铁轨被火车撞死",
-      "onboard_time": 1778030540,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 137585,
+      "num": 170244,
+      "word": "XC70被连续撞击三次会怎样",
+      "onboard_time": 1778040321,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 137541,
@@ -644,7 +724,7 @@
     },
     {
       "raw_hot": 134331,
-      "num": 142886,
+      "num": 167987,
       "word": "李晋晔谈AA制婚姻",
       "onboard_time": 1778033060,
       "rank": 40,
@@ -713,6 +793,14 @@
       "onboard_time": 1777999039,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116787,
+      "num": 166010,
+      "word": "刘雨昕看完王濛练习视频后belike",
+      "onboard_time": 1778039841,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 115385,
@@ -811,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91493,
-      "num": 139774,
-      "word": "丢失7年手机突然发定位机主找回",
-      "onboard_time": 1778038159,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88961,
       "num": 88961,
       "word": "林依晨曾回应6点做早餐送公公上班",
@@ -828,7 +908,7 @@
     },
     {
       "raw_hot": 86949,
-      "num": 139150,
+      "num": 155529,
       "word": "宋亚轩回应演唱会哭了",
       "onboard_time": 1778029941,
       "rank": 43,
@@ -836,7 +916,7 @@
     },
     {
       "raw_hot": 81918,
-      "num": 137753,
+      "num": 157045,
       "word": "刘宇宁康乃馨音乐节6.0直播",
       "onboard_time": 1778032759,
       "rank": 45,
@@ -860,7 +940,7 @@
     },
     {
       "raw_hot": 77867,
-      "num": 245810,
+      "num": 254520,
       "word": "小鹏GX线控底盘挑战49道弯一把过",
       "onboard_time": 1778037500,
       "rank": 28,
@@ -923,12 +1003,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34784,
-      "num": 344483,
-      "word": "残障女孩因轮椅电池没法拆不让托运",
-      "onboard_time": 1778038460,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 35257,
+      "num": 1291411,
+      "word": "以旧换新加力扩围掀起消费新热潮",
+      "onboard_time": 1778035220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34157,
@@ -939,12 +1019,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33839,
-      "num": 839856,
-      "word": "以旧换新加力扩围掀起消费新热潮",
-      "onboard_time": 1778035220,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 33639,
+      "num": 318140,
+      "word": "最暖糖厂已榨66712.9吨果蔗",
+      "onboard_time": 1778040079,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33036,
