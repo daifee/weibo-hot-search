@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778109257962,
+  "endTime": 1778111912949,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1051,6 +1051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1048375,
+      "num": 1142896,
+      "word": "暴发致命病毒邮轮或出现人传人现象",
+      "onboard_time": 1778081542,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1047082,
       "num": 1047082,
       "word": "国乒急需下一个樊振东王楚钦",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1777877602,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 882568,
+      "num": 288375,
+      "word": "国际足联可能已经慌了",
+      "onboard_time": 1778108958,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 869891,
@@ -2091,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644580,
+      "num": 824502,
+      "word": "高市早苗下跪看清日本丑恶嘴脸",
+      "onboard_time": 1778109138,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 641673,
       "num": 888378,
       "word": "国乒男团技术已无明显优势",
@@ -2267,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607535,
+      "num": 286875,
+      "word": "男助产士撞脸张凌赫孕妈变迷妹",
+      "onboard_time": 1778103375,
+      "rank": 15,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 607081,
       "num": 155744,
       "word": "中国光伏的堡垒被印度从内部攻破",
@@ -2339,20 +2371,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 585875,
+      "num": 284825,
+      "word": "张杰谢娜小说都不敢写的地步",
+      "onboard_time": 1778109077,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 583784,
       "num": 723994,
       "word": "男友婚前查出乙肝女子父母让分手",
       "onboard_time": 1777988963,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 583348,
-      "num": 740019,
-      "word": "暴发致命病毒邮轮或出现人传人现象",
-      "onboard_time": 1778081542,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 582220,
@@ -2699,6 +2731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 522995,
+      "num": 546302,
+      "word": "伦敦世乒赛团体赛",
+      "onboard_time": 1778094255,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521707,
       "num": 327050,
       "word": "杨幂脸上烫伤还没好",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1777703840,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507348,
+      "num": 282143,
+      "word": "有人给TOP买了五个防毒面具",
+      "onboard_time": 1778109077,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 507318,
@@ -3155,14 +3203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 457291,
-      "num": 144894,
-      "word": "张杰谢娜小说都不敢写的地步",
-      "onboard_time": 1778109077,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 454910,
       "num": 454910,
       "word": "掘金vs森林狼",
@@ -3267,14 +3307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 443435,
-      "num": 130206,
-      "word": "国际足联可能已经慌了",
-      "onboard_time": 1778108958,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443013,
       "num": 443013,
       "word": "丁程鑫张真源安慰严浩翔",
@@ -3363,14 +3395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 430205,
-      "num": 546302,
-      "word": "伦敦世乒赛团体赛",
-      "onboard_time": 1778094255,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 428901,
       "num": 428901,
       "word": "张继科说国乒男队技术迭代不足",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1778081302,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426191,
+      "num": 357043,
+      "word": "世界杯中国赞助商投入超5亿美元",
+      "onboard_time": 1778078963,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 425229,
@@ -3433,14 +3465,6 @@
       "onboard_time": 1777887441,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 417253,
-      "num": 145560,
-      "word": "男助产士撞脸张凌赫孕妈变迷妹",
-      "onboard_time": 1778103375,
-      "rank": 15,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 416309,
@@ -3617,6 +3641,14 @@
       "onboard_time": 1777996104,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 399801,
+      "num": 399801,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 399731,
@@ -3963,6 +3995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368413,
+      "num": 246502,
+      "word": "4只皮皮虾1035元涉事海鲜店回应",
+      "onboard_time": 1778109738,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "梁靖崑vsE约内斯库",
@@ -4096,14 +4136,6 @@
       "word": "蒯曼1比3巴约",
       "onboard_time": 1777900402,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 357043,
-      "num": 357043,
-      "word": "世界杯中国赞助商投入超5亿美元",
-      "onboard_time": 1778078963,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -4971,6 +5003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298992,
+      "num": 241609,
+      "word": "你以为是常识的冷知识",
+      "onboard_time": 1778110158,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 298837,
       "num": 425953,
       "word": "G社宁艺卓metgala生图",
@@ -5179,6 +5219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288783,
+      "num": 238744,
+      "word": "林志玲和老公因语言不通感情升温",
+      "onboard_time": 1778111119,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288307,
       "num": 491028,
       "word": "卧室巨星",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1777692080,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282107,
+      "num": 282107,
+      "word": "医生称钙片不用买太贵的",
+      "onboard_time": 1778110098,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 281426,
@@ -5659,14 +5715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260029,
-      "num": 330330,
-      "word": "有AI真好 放以前没十几亿下不来",
-      "onboard_time": 1778075782,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 259209,
       "num": 259209,
       "word": "邓佳鑫直播自爆身高",
@@ -5785,6 +5833,14 @@
       "onboard_time": 1777988905,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251649,
+      "num": 251649,
+      "word": "英伟达宣布与康宁建立长期合作关系",
+      "onboard_time": 1778110158,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 251417,
@@ -6169,6 +6225,14 @@
       "onboard_time": 1777985002,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232168,
+      "num": 232168,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232082,
@@ -7115,14 +7179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194778,
-      "num": 142725,
-      "word": "高市早苗下跪看清日本丑恶嘴脸",
-      "onboard_time": 1778109138,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 194192,
       "num": 333414,
       "word": "曾舜晞说回家当然要穿正式点",
@@ -7193,14 +7249,6 @@
       "onboard_time": 1777972103,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193201,
-      "num": 142158,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193113,
@@ -7475,19 +7523,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183138,
+      "num": 183138,
+      "word": "卢昱晓把刀拿反了",
+      "onboard_time": 1778100134,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
       "onboard_time": 1777941440,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182865,
-      "num": 141394,
-      "word": "卢昱晓把刀拿反了",
-      "onboard_time": 1778100134,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -7497,6 +7545,14 @@
       "onboard_time": 1777958062,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 182555,
+      "num": 182555,
+      "word": "谢娜说演唱会没有遗憾了",
+      "onboard_time": 1778111478,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 182397,
@@ -7776,6 +7832,14 @@
       "word": "詹姆斯回应不敌雷霆",
       "onboard_time": 1778049321,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174360,
+      "num": 188830,
+      "word": "欧冠决赛巴黎对阵阿森纳",
+      "onboard_time": 1778110939,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -8555,6 +8619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151868,
+      "num": 151868,
+      "word": "中国球迷力挺央视",
+      "onboard_time": 1778109679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151502,
       "num": 269134,
       "word": "向太说李连杰当年是净身出户",
@@ -9299,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128667,
+      "num": 128667,
+      "word": "爸爸的沉默比任何骂都让人后怕",
+      "onboard_time": 1778109199,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128436,
       "num": 128436,
       "word": "养家有亲生儿子后赶走被拐男孩",
@@ -9699,6 +9779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119307,
+      "num": 119307,
+      "word": "星空卫视下星",
+      "onboard_time": 1778099233,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119197,
       "num": 132472,
       "word": "清洁海绵每磨损1克释放650万微塑料",
@@ -9729,6 +9817,14 @@
       "onboard_time": 1777535060,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118635,
+      "num": 118635,
+      "word": "FIFA涨价理由",
+      "onboard_time": 1778109617,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 118526,
@@ -10019,6 +10115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109952,
+      "num": 109952,
+      "word": "国家队领投DeepSeek首轮融资",
+      "onboard_time": 1778111839,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109383,
       "num": 282915,
       "word": "极氪月交付量创历史新高",
@@ -10209,6 +10313,14 @@
       "onboard_time": 1777853298,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101413,
+      "num": 101413,
+      "word": "瑞士发现1例汉坦病毒感染病例",
+      "onboard_time": 1778109257,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101358,
@@ -10435,14 +10547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 94588,
-      "num": 94588,
-      "word": "星空卫视下星",
-      "onboard_time": 1778099233,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -10465,6 +10569,14 @@
       "onboard_time": 1777811421,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93853,
+      "num": 93853,
+      "word": "大陆台资企业严禁任何资源支持台独",
+      "onboard_time": 1778109199,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93116,
@@ -10787,12 +10899,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77923,
+      "num": 93800,
+      "word": "妈妈真的把自己养的很好",
+      "onboard_time": 1778111720,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77867,
       "num": 254520,
       "word": "小鹏GX线控底盘挑战49道弯一把过",
       "onboard_time": 1778037500,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 77687,
+      "num": 93749,
+      "word": "檀健次为不干扰拍摄把保镖支走",
+      "onboard_time": 1778101453,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 77641,
@@ -10891,14 +11019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75157,
-      "num": 75157,
-      "word": "有人给TOP买了五个防毒面具",
-      "onboard_time": 1778109077,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74117,
       "num": 114161,
       "word": "JDG战胜TES",
@@ -10953,14 +11073,6 @@
       "onboard_time": 1777654221,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71074,
-      "num": 71074,
-      "word": "爸爸的沉默比任何骂都让人后怕",
-      "onboard_time": 1778109199,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70962,
@@ -11097,14 +11209,6 @@
       "onboard_time": 1777590016,
       "rank": 46,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 64165,
-      "num": 64165,
-      "word": "檀健次为不干扰拍摄把保镖支走",
-      "onboard_time": 1778101453,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 61992,
@@ -11609,14 +11713,6 @@
       "onboard_time": 1777726341,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43839,
-      "num": 46874,
-      "word": "大陆台资企业严禁任何资源支持台独",
-      "onboard_time": 1778109199,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43399,
