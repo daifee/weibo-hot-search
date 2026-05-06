@@ -1,10 +1,10 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778086180059,
+  "endTime": 1778086904796,
   "band_list": [
     {
       "raw_hot": 1437508,
-      "num": 448175,
+      "num": 458040,
       "word": "白鹿跑男争议 内娱综艺审美巨变",
       "onboard_time": 1778061201,
       "rank": 3,
@@ -43,15 +43,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433278,
-      "num": 433278,
+      "raw_hot": 473477,
+      "num": 473477,
       "word": "红山动物园我将继续拥护你",
       "onboard_time": 1778083221,
       "rank": 4,
       "category": "旅游"
     },
     {
-      "raw_hot": 370070,
+      "raw_hot": 427371,
       "num": 328428,
       "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
       "onboard_time": 1778081302,
@@ -115,7 +115,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253751,
+      "raw_hot": 258091,
       "num": 212551,
       "word": "中国强硬拒绝世界杯天价转播费",
       "onboard_time": 1778061799,
@@ -155,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190966,
-      "num": 190966,
+      "raw_hot": 196294,
+      "num": 196294,
       "word": "火到欧美的韩国棒球女神是AI生成",
       "onboard_time": 1778078243,
       "rank": 21,
@@ -211,8 +211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144915,
-      "num": 144915,
+      "raw_hot": 146176,
+      "num": 146176,
       "word": "邓凯孔雪儿 长宁帝军",
       "onboard_time": 1778076983,
       "rank": 27,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124219,
+      "num": 124219,
+      "word": "林心如回应找霍建华客串新剧",
+      "onboard_time": 1778083460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121543,
       "num": 121543,
       "word": "龙队急得直挠头",
@@ -275,16 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114020,
-      "num": 114020,
-      "word": "林心如回应找霍建华客串新剧",
-      "onboard_time": 1778083460,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111097,
-      "num": 111097,
+      "num": 114699,
       "word": "药店闭店潮持续",
       "onboard_time": 1778076142,
       "rank": 36,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 108557,
-      "num": 108557,
+      "num": 114398,
       "word": "王楚钦这一分全体起立",
       "onboard_time": 1778066720,
       "rank": 38,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 95893,
-      "num": 95893,
+      "num": 114310,
       "word": "肖战十日终焉剧组请客了",
       "onboard_time": 1778065882,
       "rank": 42,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 81584,
-      "num": 81584,
+      "num": 113959,
       "word": "王曼昱11比0卡尔伯格",
       "onboard_time": 1778072241,
       "rank": 44,
@@ -348,15 +348,23 @@
     },
     {
       "raw_hot": 79690,
-      "num": 79690,
+      "num": 113855,
       "word": "英伟达中国份额降至0",
       "onboard_time": 1778061141,
       "rank": 46,
       "category": "数码"
     },
     {
+      "raw_hot": 79206,
+      "num": 114235,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74117,
-      "num": 74117,
+      "num": 114161,
       "word": "JDG战胜TES",
       "onboard_time": 1778084300,
       "rank": 47,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 72282,
-      "num": 72282,
+      "num": 113759,
       "word": "林诗栋说一直在研究不犯规的发球",
       "onboard_time": 1778073863,
       "rank": 48,
@@ -372,31 +380,87 @@
     },
     {
       "raw_hot": 70613,
-      "num": 70613,
+      "num": 113373,
       "word": "CBA",
       "onboard_time": 1778076924,
       "rank": 49,
       "category": "体育"
     },
     {
+      "raw_hot": 63768,
+      "num": 113699,
+      "word": "我们的少年时代2",
+      "onboard_time": 1778070980,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63707,
+      "num": 113556,
+      "word": "安徽坚决拥护党中央决定",
+      "onboard_time": 1778081901,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 58399,
+      "num": 113411,
+      "word": "梁靖崑0比3E约内斯库",
+      "onboard_time": 1778060422,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55285,
+      "num": 113150,
+      "word": "王皓提醒王楚钦冷静不要急躁",
+      "onboard_time": 1778077823,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54302,
+      "num": 113046,
+      "word": "王骁评论区惊现田曦薇彩虹屁",
+      "onboard_time": 1778083939,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52163,
+      "num": 112974,
+      "word": "2岁女儿认错妈妈10岁儿子也认错",
+      "onboard_time": 1778086817,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51508,
+      "num": 112899,
+      "word": "王曼昱这一分直接给到夯",
+      "onboard_time": 1778072841,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44699,
-      "num": 451732,
+      "num": 458397,
       "word": "来中国玩的外国人更多了",
       "onboard_time": 1778071823,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 14033,
-      "num": 97951,
+      "raw_hot": 18763,
+      "num": 253475,
       "word": "伊朗称将确保船只安全通过霍尔木兹",
       "onboard_time": 1778086156,
       "rank": 39,
       "category": "国际时政"
     },
     {
-      "raw_hot": 8456,
-      "num": 96024,
+      "raw_hot": 13346,
+      "num": 159394,
       "word": "美伊据报或先终战再设30天谈判期",
       "onboard_time": 1778086156,
       "rank": 41,
