@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778069843990,
+  "endTime": 1778077870604,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -315,20 +315,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2322754,
+      "num": 1026357,
+      "word": "白鹿跑男争议 内娱综艺审美巨变",
+      "onboard_time": 1778061201,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2288228,
       "num": 686618,
       "word": "女子凌晨接到去世半年表弟来电",
       "onboard_time": 1777803623,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2286700,
-      "num": 1026357,
-      "word": "白鹿跑男争议 内娱综艺审美巨变",
-      "onboard_time": 1778061201,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 2257690,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1782471,
+      "num": 869444,
+      "word": "张杰谢娜合唱",
+      "onboard_time": 1778073504,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1782178,
       "num": 1782178,
       "word": "中国女孩拍摄靖国神社内部",
@@ -473,6 +481,14 @@
       "onboard_time": 1777765518,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1630619,
+      "num": 833644,
+      "word": "iPhone折叠屏上手",
+      "onboard_time": 1778073863,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 1624352,
@@ -601,6 +617,14 @@
       "onboard_time": 1777622179,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1384526,
+      "num": 1384526,
+      "word": "花少8最新阵容",
+      "onboard_time": 1778066901,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1380444,
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1118514,
+      "num": 1118514,
+      "word": "新人结婚被丢高速口路过宾利变婚车",
+      "onboard_time": 1778070082,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1108379,
       "num": 1108379,
       "word": "汉坦病毒疫情",
@@ -979,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1062649,
+      "num": 505325,
+      "word": "EXO King",
+      "onboard_time": 1778074102,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055901,
       "num": 1055901,
       "word": "穆祉丞戛纳",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1007151,
-      "num": 1007151,
-      "word": "花少8最新阵容",
-      "onboard_time": 1778066901,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1003049,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1777876522,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 911671,
+      "num": 911671,
+      "word": "解除台独刘世芳亲属全部职务",
+      "onboard_time": 1778076022,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 909971,
@@ -1803,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 703078,
+      "num": 703078,
+      "word": "网友曝三亚4只皮皮虾收费1035元",
+      "onboard_time": 1778075243,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 697593,
       "num": 697593,
       "word": "小黄豆转发马嘉祺照片",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1777970120,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 688605,
+      "num": 544334,
+      "word": "全李酒店 全季酒店",
+      "onboard_time": 1778066540,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684946,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1777718181,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 675742,
+      "num": 477804,
+      "word": "者来女真的去谢娜演唱会了",
+      "onboard_time": 1778075842,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 674327,
@@ -2331,6 +2395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 571119,
+      "num": 571119,
+      "word": "meiko赛后发文",
+      "onboard_time": 1778073622,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 570711,
       "num": 796434,
       "word": "吴宜泽17比16艾伦",
@@ -2427,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 550957,
+      "num": 479488,
+      "word": "兜儿回应女儿像小猪妹",
+      "onboard_time": 1778067862,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 549446,
       "num": 549446,
       "word": "张月把你的水晶手串摘了",
@@ -2457,14 +2537,6 @@
       "onboard_time": 1778041460,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544334,
-      "num": 544334,
-      "word": "全李酒店 全季酒店",
-      "onboard_time": 1778066540,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543313,
@@ -2536,6 +2608,14 @@
       "word": "赖冠霖首次公开在北京近况",
       "onboard_time": 1777983082,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 529469,
+      "num": 438515,
+      "word": "何炅躲过了所有路透",
+      "onboard_time": 1778073323,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2873,14 +2953,6 @@
       "onboard_time": 1777848855,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479488,
-      "num": 479488,
-      "word": "兜儿回应女儿像小猪妹",
-      "onboard_time": 1778067862,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 478060,
@@ -3443,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401098,
+      "num": 401098,
+      "word": "病毒邮轮",
+      "onboard_time": 1778070382,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 400143,
       "num": 400143,
       "word": "国乒男团已无退路",
@@ -3811,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368986,
+      "num": 368986,
+      "word": "为什么户外千万不要穿迷彩",
+      "onboard_time": 1778066481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "梁靖崑vsE约内斯库",
@@ -3833,6 +3921,14 @@
       "onboard_time": 1777965440,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 366809,
+      "num": 366809,
+      "word": "三星家电退出大陆市场",
+      "onboard_time": 1778069301,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 366486,
@@ -3993,6 +4089,14 @@
       "onboard_time": 1777896862,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 352266,
+      "num": 352266,
+      "word": "王曼昱11比0卡尔伯格",
+      "onboard_time": 1778072241,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 351596,
@@ -4227,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333514,
+      "num": 333514,
+      "word": "孟子义一手抓绳一手护着白鹿",
+      "onboard_time": 1778073923,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333103,
       "num": 1053296,
       "word": "收货地址不该成为被歧视的理由",
@@ -4299,6 +4411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328105,
+      "num": 328105,
+      "word": "谢孟伟公然鼓吹出轨哪儿来的底气",
+      "onboard_time": 1778072901,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327420,
       "num": 327420,
       "word": "给阿嬷的情书豆瓣开分9.0",
@@ -4313,6 +4433,14 @@
       "onboard_time": 1777694721,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327109,
+      "num": 327109,
+      "word": "药店闭店潮持续",
+      "onboard_time": 1778076142,
+      "rank": 28,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 327030,
@@ -4553,6 +4681,14 @@
       "onboard_time": 1777869140,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311580,
+      "num": 311580,
+      "word": "刘宇宁穿高定直播",
+      "onboard_time": 1778075362,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 311326,
@@ -5115,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278350,
+      "num": 278350,
+      "word": "小狗靠捡瓶子攒了10万",
+      "onboard_time": 1778071161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277994,
       "num": 307807,
       "word": "现在谈恋爱才是赶上好时候了",
@@ -5249,6 +5393,14 @@
       "onboard_time": 1777656317,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270259,
+      "num": 270259,
+      "word": "Ella发文庆祝结婚14周年",
+      "onboard_time": 1778074102,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 269129,
@@ -5529,6 +5681,14 @@
       "onboard_time": 1777704860,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251313,
+      "num": 251313,
+      "word": "邓凯孔雪儿 长宁帝军",
+      "onboard_time": 1778076983,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 251233,
@@ -5843,14 +6003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235056,
-      "num": 235056,
-      "word": "为什么户外千万不要穿迷彩",
-      "onboard_time": 1778066481,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234942,
       "num": 244640,
       "word": "贺娇龙账号更名并清空橱窗",
@@ -6027,6 +6179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227495,
+      "num": 274178,
+      "word": "中国女子在西班牙被刺身亡",
+      "onboard_time": 1778073323,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 226752,
       "num": 226752,
       "word": "女子吃榴莲后喝白酒呼吸衰竭",
@@ -6113,6 +6273,14 @@
       "onboard_time": 1777732102,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223748,
+      "num": 223748,
+      "word": "鞠婧祎的舞被韩国女团跳了",
+      "onboard_time": 1778077404,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223687,
@@ -6299,6 +6467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215471,
+      "num": 215471,
+      "word": "我们的少年时代2",
+      "onboard_time": 1778070980,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215465,
       "num": 215465,
       "word": "雷霆1比0湖人",
@@ -6313,6 +6489,14 @@
       "onboard_time": 1777957461,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215185,
+      "num": 215185,
+      "word": "韩汶栩与女友手牵手在老家逛街",
+      "onboard_time": 1778072182,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 214906,
@@ -6619,6 +6803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202681,
+      "num": 369158,
+      "word": "孔雪儿的穿搭AI给到夯",
+      "onboard_time": 1778076323,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -6673,6 +6865,14 @@
       "onboard_time": 1778065401,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199250,
+      "num": 199250,
+      "word": "王鹤棣助理号蛐蛐冉方旭",
+      "onboard_time": 1778075484,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198919,
@@ -6923,6 +7123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190540,
+      "num": 215240,
+      "word": "CBA",
+      "onboard_time": 1778076924,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190346,
       "num": 293366,
       "word": "浏阳烟花厂库区存放大量火药",
@@ -7107,14 +7315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183440,
-      "num": 183440,
-      "word": "三星家电退出大陆市场",
-      "onboard_time": 1778069301,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -7297,6 +7497,14 @@
       "onboard_time": 1777736782,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177216,
+      "num": 177216,
+      "word": "时代峰峻否认TF四代常驻北京",
+      "onboard_time": 1778075903,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 177026,
@@ -7571,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169144,
+      "num": 368993,
+      "word": "淘宝免单从拼智商到拼审美了",
+      "onboard_time": 1778074401,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169044,
       "num": 492778,
       "word": "狼队 人屠双向辜负",
@@ -7584,6 +7800,14 @@
       "word": "F1",
       "onboard_time": 1777679898,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168322,
+      "num": 168322,
+      "word": "林诗栋说一直在研究不犯规的发球",
+      "onboard_time": 1778073863,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7624,6 +7848,14 @@
       "word": "斯诺克",
       "onboard_time": 1777852398,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166264,
+      "num": 166264,
+      "word": "王皓提醒王楚钦冷静不要急躁",
+      "onboard_time": 1778077823,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -8041,6 +8273,14 @@
       "onboard_time": 1777780940,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154197,
+      "num": 154197,
+      "word": "金银又涨疯",
+      "onboard_time": 1778077404,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 154089,
@@ -9355,6 +9595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117758,
+      "num": 317016,
+      "word": "同济大学通报一院长论文数据存疑",
+      "onboard_time": 1778076442,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 117533,
       "num": 117533,
       "word": "LCK决定不处罚Ruler",
@@ -9865,6 +10113,14 @@
       "onboard_time": 1777680498,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99124,
+      "num": 945436,
+      "word": "来中国玩的外国人更多了",
+      "onboard_time": 1778071823,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99026,
@@ -10657,6 +10913,14 @@
       "onboard_time": 1777821922,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59872,
+      "num": 288814,
+      "word": "奥迪E7X直播发钱",
+      "onboard_time": 1778074401,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 59534,
