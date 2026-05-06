@@ -1,0 +1,410 @@
+{
+  "runTime": 1778105712345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 302281,
+        "num": 360101,
+        "word": "暴发致命病毒邮轮或出现人传人现象",
+        "onboard_time": 1778081542,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212448,
+        "num": 261411,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1778094255,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28698,
+        "num": 205753,
+        "word": "来中国玩的外国人更多了",
+        "onboard_time": 1778071823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387515,
+        "num": 203070,
+        "word": "白鹿跑男争议 内娱综艺审美巨变",
+        "onboard_time": 1778061201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168461,
+        "num": 168461,
+        "word": "解除台独刘世芳亲属全部职务",
+        "onboard_time": 1778076022,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119340,
+        "num": 119340,
+        "word": "网友曝三亚4只皮皮虾收费1035元",
+        "onboard_time": 1778075243,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111343,
+        "num": 111343,
+        "word": "主角OST请来了王菲",
+        "onboard_time": 1778080761,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97107,
+        "num": 97107,
+        "word": "为什么户外千万不要穿迷彩",
+        "onboard_time": 1778066481,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94139,
+        "num": 94139,
+        "word": "花少8最新阵容",
+        "onboard_time": 1778066901,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78765,
+        "num": 78765,
+        "word": "有AI真好 放以前没十几亿下不来",
+        "onboard_time": 1778075782,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236690,
+        "num": 78429,
+        "word": "世界杯中国赞助商投入超5亿美元",
+        "onboard_time": 1778078963,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164411,
+        "num": 78159,
+        "word": "男助产士撞脸张凌赫孕妈变迷妹",
+        "onboard_time": 1778103375,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 77935,
+        "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+        "onboard_time": 1778081302,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140148,
+        "num": 77421,
+        "word": "新人结婚被丢高速口路过宾利变婚车",
+        "onboard_time": 1778070082,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90594,
+        "num": 76999,
+        "word": "星空卫视下星",
+        "onboard_time": 1778099233,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85942,
+        "num": 76803,
+        "word": "中国女子在西班牙被刺身亡",
+        "onboard_time": 1778073323,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85092,
+        "num": 76317,
+        "word": "王骁演技",
+        "onboard_time": 1778079682,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76177,
+        "num": 76177,
+        "word": "钟薛高破产后508件资产207万起拍",
+        "onboard_time": 1778078303,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67878,
+        "num": 67878,
+        "word": "邓凯孔雪儿 长宁帝军",
+        "onboard_time": 1778076983,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52287,
+        "num": 64428,
+        "word": "红山动物园我将继续拥护你",
+        "onboard_time": 1778083221,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 77392,
+        "num": 63873,
+        "word": "中国强硬拒绝世界杯天价转播费",
+        "onboard_time": 1778061799,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61928,
+        "num": 61928,
+        "word": "孟子义一手抓绳一手护着白鹿",
+        "onboard_time": 1778073923,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61493,
+        "num": 61493,
+        "word": "全李酒店 全季酒店",
+        "onboard_time": 1778066540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60774,
+        "num": 60774,
+        "word": "绥化2名失联女孩遗体已送至殡仪馆",
+        "onboard_time": 1778086637,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59815,
+        "num": 59815,
+        "word": "三星",
+        "onboard_time": 1778069662,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48835,
+        "num": 48835,
+        "word": "檀健次为不干扰拍摄把保镖支走",
+        "onboard_time": 1778101453,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46090,
+        "num": 46090,
+        "word": "河北两女子长得一模一样孩子认错妈",
+        "onboard_time": 1778078603,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 45243,
+        "num": 45243,
+        "word": "张杰谢娜合唱",
+        "onboard_time": 1778073504,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44443,
+        "num": 44443,
+        "word": "林心如回应找霍建华客串新剧",
+        "onboard_time": 1778083460,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43427,
+        "num": 43427,
+        "word": "王楚钦这一分全体起立",
+        "onboard_time": 1778066720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42010,
+        "num": 42010,
+        "word": "病毒邮轮",
+        "onboard_time": 1778070382,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41942,
+        "num": 41942,
+        "word": "药店闭店潮持续",
+        "onboard_time": 1778076142,
+        "rank": 31,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 41762,
+        "num": 41762,
+        "word": "者来女真的去谢娜演唱会了",
+        "onboard_time": 1778075842,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40652,
+        "num": 40652,
+        "word": "火到欧美的韩国棒球女神是AI生成",
+        "onboard_time": 1778078243,
+        "rank": 33,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 40102,
+        "num": 40102,
+        "word": "小狗靠捡瓶子攒了10万",
+        "onboard_time": 1778071161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39109,
+        "num": 39109,
+        "word": "meiko赛后发文",
+        "onboard_time": 1778073622,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38996,
+        "num": 38996,
+        "word": "耳高于眉的聪明狗",
+        "onboard_time": 1778091915,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38211,
+        "num": 38211,
+        "word": "肖战十日终焉剧组请客了",
+        "onboard_time": 1778065882,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36086,
+        "num": 36086,
+        "word": "王曼昱11比0卡尔伯格",
+        "onboard_time": 1778072241,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34285,
+        "num": 36084,
+        "word": "王皓提醒王楚钦冷静不要急躁",
+        "onboard_time": 1778077823,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33981,
+        "num": 36073,
+        "word": "CBA",
+        "onboard_time": 1778076924,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33827,
+        "num": 36068,
+        "word": "王曼昱这一分直接给到夯",
+        "onboard_time": 1778072841,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33570,
+        "num": 36061,
+        "word": "焦虑时先自查 饭否冷否",
+        "onboard_time": 1778087237,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33288,
+        "num": 36055,
+        "word": "安徽坚决拥护党中央决定",
+        "onboard_time": 1778081901,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33115,
+        "num": 36049,
+        "word": "林诗栋说一直在研究不犯规的发球",
+        "onboard_time": 1778073863,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30666,
+        "num": 36048,
+        "word": "淘宝免单从拼智商到拼审美了",
+        "onboard_time": 1778074401,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30535,
+        "num": 36039,
+        "word": "中国女团3比0瑞典",
+        "onboard_time": 1778094974,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28013,
+        "num": 36035,
+        "word": "龙队急得直挠头",
+        "onboard_time": 1778067141,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27754,
+        "num": 36027,
+        "word": "国乒男团进世乒赛8强",
+        "onboard_time": 1778067920,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133808,
+        "num": 36022,
+        "word": "卢昱晓把刀拿反了",
+        "onboard_time": 1778100134,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年习近平的人生课堂#"
+    }
+  }
+}
