@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778086904796,
+  "endTime": 1778091870868,
   "band_list": [
     {
       "raw_hot": 1437508,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486281,
-      "num": 532046,
+      "raw_hot": 544431,
+      "num": 544431,
       "word": "暴发致命病毒邮轮或出现人传人现象",
       "onboard_time": 1778081542,
       "rank": 1,
@@ -243,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137748,
+      "num": 114235,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133020,
       "num": 133020,
       "word": "病毒邮轮",
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96167,
+      "num": 113556,
+      "word": "安徽坚决拥护党中央决定",
+      "onboard_time": 1778081901,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95893,
       "num": 114310,
       "word": "肖战十日终焉剧组请客了",
@@ -355,14 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 79206,
-      "num": 114235,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74117,
       "num": 114161,
       "word": "JDG战胜TES",
@@ -387,20 +395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70176,
+      "num": 70176,
+      "word": "焦虑时先自查 饭否冷否",
+      "onboard_time": 1778087237,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63768,
       "num": 113699,
       "word": "我们的少年时代2",
       "onboard_time": 1778070980,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63707,
-      "num": 113556,
-      "word": "安徽坚决拥护党中央决定",
-      "onboard_time": 1778081901,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58399,
@@ -449,6 +457,22 @@
       "onboard_time": 1778071823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44082,
+      "num": 64176,
+      "word": "仙侠剧女主终于不是傻白甜了",
+      "onboard_time": 1778087716,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33328,
+      "num": 64069,
+      "word": "淘宝免单从拼智商到拼审美了",
+      "onboard_time": 1778074401,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 18763,

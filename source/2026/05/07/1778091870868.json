@@ -1,0 +1,410 @@
+{
+  "runTime": 1778091870868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 544431,
+        "num": 544431,
+        "word": "暴发致命病毒邮轮或出现人传人现象",
+        "onboard_time": 1778081542,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188422,
+        "num": 233178,
+        "word": "花少8最新阵容",
+        "onboard_time": 1778066901,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23391,
+        "num": 180301,
+        "word": "来中国玩的外国人更多了",
+        "onboard_time": 1778071823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652914,
+        "num": 176289,
+        "word": "白鹿跑男争议 内娱综艺审美巨变",
+        "onboard_time": 1778061201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150754,
+        "num": 150754,
+        "word": "红山动物园我将继续拥护你",
+        "onboard_time": 1778083221,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147412,
+        "num": 147412,
+        "word": "为什么户外千万不要穿迷彩",
+        "onboard_time": 1778066481,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111119,
+        "num": 111119,
+        "word": "网友曝三亚4只皮皮虾收费1035元",
+        "onboard_time": 1778075243,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110305,
+        "num": 110305,
+        "word": "解除台独刘世芳亲属全部职务",
+        "onboard_time": 1778076022,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106907,
+        "num": 106907,
+        "word": "有AI真好 放以前没十几亿下不来",
+        "onboard_time": 1778075782,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66068,
+        "num": 106879,
+        "word": "meiko赛后发文",
+        "onboard_time": 1778073622,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232281,
+        "num": 106877,
+        "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+        "onboard_time": 1778081302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152197,
+        "num": 106876,
+        "word": "火到欧美的韩国棒球女神是AI生成",
+        "onboard_time": 1778078243,
+        "rank": 11,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 106876,
+        "num": 106875,
+        "word": "主角OST请来了王菲",
+        "onboard_time": 1778080761,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147435,
+        "num": 106742,
+        "word": "世界杯中国赞助商投入超5亿美元",
+        "onboard_time": 1778078963,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139510,
+        "num": 103839,
+        "word": "新人结婚被丢高速口路过宾利变婚车",
+        "onboard_time": 1778070082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137748,
+        "num": 101434,
+        "word": "绥化2名失联女孩遗体已送至殡仪馆",
+        "onboard_time": 1778086637,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130073,
+        "num": 98628,
+        "word": "全李酒店 全季酒店",
+        "onboard_time": 1778066540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127228,
+        "num": 97838,
+        "word": "钟薛高破产后508件资产207万起拍",
+        "onboard_time": 1778078303,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96167,
+        "num": 96167,
+        "word": "安徽坚决拥护党中央决定",
+        "onboard_time": 1778081901,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93298,
+        "num": 93298,
+        "word": "张杰谢娜合唱",
+        "onboard_time": 1778073504,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113074,
+        "num": 93051,
+        "word": "中国强硬拒绝世界杯天价转播费",
+        "onboard_time": 1778061799,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88417,
+        "num": 88417,
+        "word": "孟子义一手抓绳一手护着白鹿",
+        "onboard_time": 1778073923,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73397,
+        "num": 73397,
+        "word": "中国女子在西班牙被刺身亡",
+        "onboard_time": 1778073323,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73181,
+        "num": 73181,
+        "word": "王骁演技",
+        "onboard_time": 1778079682,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72282,
+        "num": 72282,
+        "word": "河北两女子长得一模一样孩子认错妈",
+        "onboard_time": 1778078603,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 70176,
+        "num": 70176,
+        "word": "焦虑时先自查 饭否冷否",
+        "onboard_time": 1778087237,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66253,
+        "num": 66253,
+        "word": "小狗靠捡瓶子攒了10万",
+        "onboard_time": 1778071161,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64255,
+        "num": 64255,
+        "word": "三星",
+        "onboard_time": 1778069662,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63939,
+        "num": 64252,
+        "word": "花少 恋综",
+        "onboard_time": 1778054241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55188,
+        "num": 64235,
+        "word": "邓凯孔雪儿 长宁帝军",
+        "onboard_time": 1778076983,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54542,
+        "num": 64221,
+        "word": "国乒男团进世乒赛8强",
+        "onboard_time": 1778067920,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53038,
+        "num": 64209,
+        "word": "病毒邮轮",
+        "onboard_time": 1778070382,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51452,
+        "num": 64195,
+        "word": "林心如回应找霍建华客串新剧",
+        "onboard_time": 1778083460,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45205,
+        "num": 64178,
+        "word": "药店闭店潮持续",
+        "onboard_time": 1778076142,
+        "rank": 33,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 44082,
+        "num": 64176,
+        "word": "仙侠剧女主终于不是傻白甜了",
+        "onboard_time": 1778087716,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42975,
+        "num": 64162,
+        "word": "者来女真的去谢娜演唱会了",
+        "onboard_time": 1778075842,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39660,
+        "num": 64151,
+        "word": "2岁女儿认错妈妈10岁儿子也认错",
+        "onboard_time": 1778086817,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38487,
+        "num": 64138,
+        "word": "肖战十日终焉剧组请客了",
+        "onboard_time": 1778065882,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38402,
+        "num": 64125,
+        "word": "龙队急得直挠头",
+        "onboard_time": 1778067141,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38338,
+        "num": 64109,
+        "word": "我们的少年时代2",
+        "onboard_time": 1778070980,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36771,
+        "num": 64093,
+        "word": "王楚钦这一分全体起立",
+        "onboard_time": 1778066720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34970,
+        "num": 64084,
+        "word": "梁靖崑0比3E约内斯库",
+        "onboard_time": 1778060422,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33328,
+        "num": 64069,
+        "word": "淘宝免单从拼智商到拼审美了",
+        "onboard_time": 1778074401,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32086,
+        "num": 64052,
+        "word": "英伟达中国份额降至0",
+        "onboard_time": 1778061141,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29821,
+        "num": 64046,
+        "word": "JDG战胜TES",
+        "onboard_time": 1778084300,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28743,
+        "num": 64026,
+        "word": "CBA",
+        "onboard_time": 1778076924,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28109,
+        "num": 64015,
+        "word": "林诗栋说一直在研究不犯规的发球",
+        "onboard_time": 1778073863,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27992,
+        "num": 64003,
+        "word": "王曼昱11比0卡尔伯格",
+        "onboard_time": 1778072241,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26529,
+        "num": 63989,
+        "word": "王曼昱这一分直接给到夯",
+        "onboard_time": 1778072841,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157873,
+        "num": 63982,
+        "word": "EXO King",
+        "onboard_time": 1778074102,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年习近平的人生课堂#"
+    }
+  }
+}
