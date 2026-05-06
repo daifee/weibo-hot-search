@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778049474462,
+  "endTime": 1778051827591,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -23,6 +23,14 @@
       "num": 10739678,
       "word": "浏阳烟花厂爆炸已致21死61伤",
       "onboard_time": 1777943660,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9062055,
+      "num": 9062055,
+      "word": "女游客秋千坠亡家属已和解",
+      "onboard_time": 1778048120,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -219,14 +227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2074601,
-      "num": 2074601,
-      "word": "女游客秋千坠亡家属已和解",
-      "onboard_time": 1778048120,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2036641,
       "num": 1431597,
       "word": "黄灿灿 blackpink都没这么累",
@@ -297,6 +297,14 @@
       "onboard_time": 1777725320,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1698123,
+      "num": 620574,
+      "word": "卢昱晓不敬业争议",
+      "onboard_time": 1778048719,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1695570,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1292640,
-      "num": 1292640,
+      "num": 1740508,
       "word": "淘宝免单轮番上阵",
       "onboard_time": 1778038099,
       "rank": 7,
@@ -691,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 968037,
-      "num": 620574,
-      "word": "卢昱晓不敬业争议",
-      "onboard_time": 1778048719,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 965736,
       "num": 965736,
       "word": "马龙许昕刘诗雯现场观战国乒",
@@ -889,6 +889,14 @@
       "onboard_time": 1777874659,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 793391,
+      "num": 793391,
+      "word": "没绑紧三个字不该成最后遗言",
+      "onboard_time": 1778045840,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789788,
@@ -1347,6 +1355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 608664,
+      "num": 491337,
+      "word": "张子枫手臂都是伤疤",
+      "onboard_time": 1778044341,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608532,
       "num": 391342,
       "word": "吴彦祖妻子宣布复出",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1778041460,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544462,
-      "num": 544462,
-      "word": "没绑紧三个字不该成最后遗言",
-      "onboard_time": 1778045840,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540485,
@@ -1745,14 +1753,6 @@
       "onboard_time": 1777959260,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 488950,
-      "num": 488950,
-      "word": "张子枫手臂都是伤疤",
-      "onboard_time": 1778044341,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 488832,
@@ -2699,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325062,
+      "num": 453395,
+      "word": "女子将高锰酸钾塞体内消毒引大出血",
+      "onboard_time": 1778044820,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324036,
       "num": 324036,
       "word": "于正看短剧Enemy看哭了",
@@ -2987,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300756,
+      "num": 471583,
+      "word": "时代少年团五一演唱会带动消费14亿",
+      "onboard_time": 1778046859,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300058,
       "num": 412046,
       "word": "新郎敬茶时口误说爸请喝酒",
@@ -3043,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295090,
+      "num": 295090,
+      "word": "1岁宝宝第1次吃青芒沾辣椒停不下来",
+      "onboard_time": 1778050040,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294293,
       "num": 262301,
       "word": "银河左岸 黄子弘凡镜头",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1777989142,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292896,
-      "num": 471583,
-      "word": "时代少年团五一演唱会带动消费14亿",
-      "onboard_time": 1778046859,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 292470,
@@ -3331,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257700,
+      "num": 186788,
+      "word": "女子绿皮火车上投诉车厢连接处吸烟",
+      "onboard_time": 1778047160,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256374,
       "num": 474019,
       "word": "詹姆斯尽力局",
@@ -3339,12 +3363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255282,
+      "num": 186291,
+      "word": "人一旦出了国旅游",
+      "onboard_time": 1778050099,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255195,
       "num": 255195,
       "word": "暴发致命病毒邮轮感染人数增至7人",
       "onboard_time": 1778031920,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255182,
+      "num": 185177,
+      "word": "iPhone17或成史上最长寿苹果手机",
+      "onboard_time": 1778050040,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 254920,
@@ -3411,14 +3451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252105,
-      "num": 453395,
-      "word": "女子将高锰酸钾塞体内消毒引大出血",
-      "onboard_time": 1778044820,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -3467,6 +3499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249320,
+      "num": 184039,
+      "word": "陈律痞幼回应接吻",
+      "onboard_time": 1778051301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249156,
       "num": 359139,
       "word": "狗狗未牵绳被碾压主人当场崩溃",
@@ -3481,6 +3521,14 @@
       "onboard_time": 1777810223,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245917,
+      "num": 493600,
+      "word": "德甲",
+      "onboard_time": 1778051360,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 244763,
@@ -3731,6 +3779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226086,
+      "num": 445325,
+      "word": "偶遇娜扎在大孤山祈福",
+      "onboard_time": 1778046682,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226055,
       "num": 226055,
       "word": "男子57秒从8楼冲到1楼捞起溺水幼童",
@@ -3779,14 +3835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222300,
-      "num": 445325,
-      "word": "偶遇娜扎在大孤山祈福",
-      "onboard_time": 1778046682,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222062,
       "num": 222062,
       "word": "河南人每天就过这样的好日子",
@@ -3809,6 +3857,14 @@
       "onboard_time": 1777950141,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218681,
+      "num": 182615,
+      "word": "目击者称秋千坠亡游客头盔撞上岩石",
+      "onboard_time": 1778051061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218380,
@@ -3929,6 +3985,14 @@
       "onboard_time": 1777900523,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212621,
+      "num": 180200,
+      "word": "井柏然走路刘雯化",
+      "onboard_time": 1778050040,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 209763,
@@ -4251,6 +4315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190055,
+      "num": 190055,
+      "word": "奔跑吧",
+      "onboard_time": 1778046440,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189904,
       "num": 189904,
       "word": "立夏为啥要称体重",
@@ -4299,6 +4371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187190,
+      "num": 188494,
+      "word": "怦然心动20岁",
+      "onboard_time": 1778051422,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186282,
       "num": 338893,
       "word": "佳偶天成",
@@ -4329,6 +4409,14 @@
       "onboard_time": 1777887681,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184806,
+      "num": 437285,
+      "word": "今年母亲节主打一个懂妈",
+      "onboard_time": 1778047641,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 184766,
@@ -4729,6 +4817,14 @@
       "onboard_time": 1778030540,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 163341,
+      "num": 172900,
+      "word": "吸血鬼日记男主退圈后负债千万美元",
+      "onboard_time": 1778051783,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 161994,
@@ -5201,14 +5297,6 @@
       "onboard_time": 1777789040,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140974,
-      "num": 437285,
-      "word": "今年母亲节主打一个懂妈",
-      "onboard_time": 1778047641,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 139548,
@@ -6884,7 +6972,7 @@
     },
     {
       "raw_hot": 35257,
-      "num": 1291411,
+      "num": 1364574,
       "word": "以旧换新加力扩围掀起消费新热潮",
       "onboard_time": 1778035220,
       "rank": 2,
@@ -7043,6 +7131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26957,
+      "num": 179741,
+      "word": "重庆一饭店员工捞垃圾桶地沟油",
+      "onboard_time": 1778050881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26888,
       "num": 45234,
       "word": "国乒男团vs瑞典",
@@ -7089,6 +7185,14 @@
       "onboard_time": 1777790239,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23692,
+      "num": 304992,
+      "word": "盘点金建希案到底死了多少人",
+      "onboard_time": 1778050881,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23382,

@@ -1,7 +1,15 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778049474462,
+  "endTime": 1778051827591,
   "band_list": [
+    {
+      "raw_hot": 9062055,
+      "num": 9062055,
+      "word": "女游客秋千坠亡家属已和解",
+      "onboard_time": 1778048120,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3742843,
       "num": 685586,
@@ -35,18 +43,18 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2074601,
-      "num": 2074601,
-      "word": "女游客秋千坠亡家属已和解",
-      "onboard_time": 1778048120,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1725493,
       "num": 705866,
       "word": "卢昱晓下沉口碑",
       "onboard_time": 1777989142,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1698123,
+      "num": 620574,
+      "word": "卢昱晓不敬业争议",
+      "onboard_time": 1778048719,
       "rank": 10,
       "category": "艺人"
     },
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1292640,
-      "num": 1292640,
+      "num": 1740508,
       "word": "淘宝免单轮番上阵",
       "onboard_time": 1778038099,
       "rank": 7,
@@ -113,14 +121,6 @@
       "onboard_time": 1778036719,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 968037,
-      "num": 620574,
-      "word": "卢昱晓不敬业争议",
-      "onboard_time": 1778048719,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 909971,
@@ -185,6 +185,14 @@
       "onboard_time": 1778045541,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 793391,
+      "num": 793391,
+      "word": "没绑紧三个字不该成最后遗言",
+      "onboard_time": 1778045840,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 776641,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608664,
+      "num": 491337,
+      "word": "张子枫手臂都是伤疤",
+      "onboard_time": 1778044341,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583784,
       "num": 723994,
       "word": "男友婚前查出乙肝女子父母让分手",
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544462,
-      "num": 544462,
-      "word": "没绑紧三个字不该成最后遗言",
-      "onboard_time": 1778045840,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 516250,
       "num": 516250,
       "word": "里夫斯季后赛打没身价",
@@ -337,14 +345,6 @@
       "onboard_time": 1777986262,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488950,
-      "num": 488950,
-      "word": "张子枫手臂都是伤疤",
-      "onboard_time": 1778044341,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 476351,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325062,
+      "num": 453395,
+      "word": "女子将高锰酸钾塞体内消毒引大出血",
+      "onboard_time": 1778044820,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313443,
       "num": 564113,
       "word": "女子坠亡悬崖秋千摆弧300米",
@@ -481,6 +489,14 @@
       "onboard_time": 1778039841,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 300756,
+      "num": 471583,
+      "word": "时代少年团五一演唱会带动消费14亿",
+      "onboard_time": 1778046859,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 299222,
@@ -507,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295090,
+      "num": 295090,
+      "word": "1岁宝宝第1次吃青芒沾辣椒停不下来",
+      "onboard_time": 1778050040,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293105,
       "num": 678390,
       "word": "浪姐三公压力最大的是刘雨昕",
       "onboard_time": 1777989142,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292896,
-      "num": 471583,
-      "word": "时代少年团五一演唱会带动消费14亿",
-      "onboard_time": 1778046859,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 275981,
@@ -555,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257700,
+      "num": 186788,
+      "word": "女子绿皮火车上投诉车厢连接处吸烟",
+      "onboard_time": 1778047160,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256374,
       "num": 474019,
       "word": "詹姆斯尽力局",
       "onboard_time": 1778039841,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255282,
+      "num": 186291,
+      "word": "人一旦出了国旅游",
+      "onboard_time": 1778050099,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 255195,
@@ -571,6 +603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255182,
+      "num": 185177,
+      "word": "iPhone17或成史上最长寿苹果手机",
+      "onboard_time": 1778050040,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252949,
       "num": 687386,
       "word": "强大到可怕的顶级心态",
@@ -579,20 +619,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252105,
-      "num": 453395,
-      "word": "女子将高锰酸钾塞体内消毒引大出血",
-      "onboard_time": 1778044820,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250248,
       "num": 450042,
       "word": "赖冠霖不参加WANNAONE重聚的原因",
       "onboard_time": 1778039900,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249320,
+      "num": 184039,
+      "word": "陈律痞幼回应接吻",
+      "onboard_time": 1778051301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245917,
+      "num": 493600,
+      "word": "德甲",
+      "onboard_time": 1778051360,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 240566,
@@ -627,6 +675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 226086,
+      "num": 445325,
+      "word": "偶遇娜扎在大孤山祈福",
+      "onboard_time": 1778046682,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225577,
       "num": 447654,
       "word": "吴宜泽称决赛中奥沙利文发短信提点",
@@ -635,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222300,
-      "num": 445325,
-      "word": "偶遇娜扎在大孤山祈福",
-      "onboard_time": 1778046682,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 218681,
+      "num": 182615,
+      "word": "目击者称秋千坠亡游客头盔撞上岩石",
+      "onboard_time": 1778051061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218380,
@@ -672,6 +728,14 @@
       "word": "王橹杰疯癫实录",
       "onboard_time": 1777991725,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212621,
+      "num": 180200,
+      "word": "井柏然走路刘雯化",
+      "onboard_time": 1778050040,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -729,6 +793,30 @@
       "onboard_time": 1778024839,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190055,
+      "num": 190055,
+      "word": "奔跑吧",
+      "onboard_time": 1778046440,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187190,
+      "num": 188494,
+      "word": "怦然心动20岁",
+      "onboard_time": 1778051422,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184806,
+      "num": 437285,
+      "word": "今年母亲节主打一个懂妈",
+      "onboard_time": 1778047641,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 182942,
@@ -811,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163341,
+      "num": 172900,
+      "word": "吸血鬼日记男主退圈后负债千万美元",
+      "onboard_time": 1778051783,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159916,
       "num": 508166,
       "word": "突然觉得小学老师好厉害",
@@ -889,14 +985,6 @@
       "onboard_time": 1778038641,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140974,
-      "num": 437285,
-      "word": "今年母亲节主打一个懂妈",
-      "onboard_time": 1778047641,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 138921,
@@ -1244,7 +1332,7 @@
     },
     {
       "raw_hot": 35257,
-      "num": 1291411,
+      "num": 1364574,
       "word": "以旧换新加力扩围掀起消费新热潮",
       "onboard_time": 1778035220,
       "rank": 2,
@@ -1315,12 +1403,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26957,
+      "num": 179741,
+      "word": "重庆一饭店员工捞垃圾桶地沟油",
+      "onboard_time": 1778050881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24722,
       "num": 74450,
       "word": "山东泰山vs上海申花",
       "onboard_time": 1778008574,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23692,
+      "num": 304992,
+      "word": "盘点金建希案到底死了多少人",
+      "onboard_time": 1778050881,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23304,
