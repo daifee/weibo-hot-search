@@ -1,0 +1,410 @@
+{
+  "runTime": 1778039064235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221295,
+        "num": 1221295,
+        "word": "山姆回应多名顾客拿袋子装免费酱料",
+        "onboard_time": 1777999339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875525,
+        "num": 875525,
+        "word": "汉坦病毒疫情",
+        "onboard_time": 1778036299,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33839,
+        "num": 839856,
+        "word": "以旧换新加力扩围掀起消费新热潮",
+        "onboard_time": 1778035220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1491709,
+        "num": 839784,
+        "word": "谢娜演唱会上座率",
+        "onboard_time": 1777996461,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 839423,
+        "num": 839423,
+        "word": "桃花坞6定档",
+        "onboard_time": 1778034618,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709388,
+        "num": 709388,
+        "word": "金建希案法官身亡现场发现遗书",
+        "onboard_time": 1778032401,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1054546,
+        "num": 679904,
+        "word": "我与爱同谋开机",
+        "onboard_time": 1778036719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542624,
+        "num": 542624,
+        "word": "淘宝免单轮番上阵",
+        "onboard_time": 1778038099,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 476351,
+        "num": 476351,
+        "word": "湖人vs雷霆",
+        "onboard_time": 1778029401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418773,
+        "num": 418773,
+        "word": "考试前一天做真题回顾还是太权威了",
+        "onboard_time": 1778025019,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3007201,
+        "num": 418634,
+        "word": "曝陈星旭拍轧戏等卢昱晓七个小时",
+        "onboard_time": 1778027421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2572523,
+        "num": 416796,
+        "word": "女子秋千坠亡事发地瀑布落差168米",
+        "onboard_time": 1778037200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1436310,
+        "num": 413773,
+        "word": "王橹杰高会",
+        "onboard_time": 1778035400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1298164,
+        "num": 413229,
+        "word": "A股",
+        "onboard_time": 1778036119,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 867243,
+        "num": 411208,
+        "word": "谢娜45岁状态",
+        "onboard_time": 1778036719,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409635,
+        "num": 409635,
+        "word": "金建希案二审法官死在法院内",
+        "onboard_time": 1778027601,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 560862,
+        "num": 404159,
+        "word": "五一档票房TOP5",
+        "onboard_time": 1778036119,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446649,
+        "num": 376215,
+        "word": "卢昱晓下沉口碑",
+        "onboard_time": 1777989142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298120,
+        "num": 358754,
+        "word": "里夫斯季后赛打没身价",
+        "onboard_time": 1778037860,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34784,
+        "num": 344483,
+        "word": "残障女孩因轮椅电池没法拆不让托运",
+        "onboard_time": 1778038460,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916784,
+        "num": 332897,
+        "word": "贺峻霖 但凡有人尊重一下我呢",
+        "onboard_time": 1777994844,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612390,
+        "num": 304492,
+        "word": "王心凌演出被镭射激光烫到腿",
+        "onboard_time": 1778037260,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299222,
+        "num": 299222,
+        "word": "这个世界是属于执行力强的人",
+        "onboard_time": 1778028621,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333707,
+        "num": 293231,
+        "word": "穆祉丞高会掉粉了",
+        "onboard_time": 1778030540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318018,
+        "num": 291605,
+        "word": "单眼皮的小黄豆道歉",
+        "onboard_time": 1777994005,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286893,
+        "num": 286893,
+        "word": "吴宜泽回应50万英镑奖金用途",
+        "onboard_time": 1778024419,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270944,
+        "num": 270944,
+        "word": "白鹿隐藏了和范丞丞的手势舞",
+        "onboard_time": 1777989504,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255195,
+        "num": 255195,
+        "word": "暴发致命病毒邮轮感染人数增至7人",
+        "onboard_time": 1778031920,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77867,
+        "num": 245810,
+        "word": "小鹏GX线控底盘挑战49道弯一把过",
+        "onboard_time": 1778037500,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130813,
+        "num": 245760,
+        "word": "淘宝半夜上线免单题",
+        "onboard_time": 1778033540,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245735,
+        "num": 245735,
+        "word": "男子学猫叫认亲被处罚",
+        "onboard_time": 1778037860,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232000,
+        "num": 232000,
+        "word": "比五花肉还油的素菜",
+        "onboard_time": 1778033479,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218380,
+        "num": 218380,
+        "word": "第一次看小猫掉毛看力竭了",
+        "onboard_time": 1778000418,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193113,
+        "num": 193113,
+        "word": "景区将男厕改女厕游客发声",
+        "onboard_time": 1778037260,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188711,
+        "num": 188711,
+        "word": "留德学生迷奸女友8次获刑11年",
+        "onboard_time": 1778024779,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183677,
+        "num": 183677,
+        "word": "男友婚前查出乙肝女子父母让分手",
+        "onboard_time": 1777988963,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164964,
+        "num": 164964,
+        "word": "爸爸去哪儿男孩现状",
+        "onboard_time": 1777996822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145860,
+        "num": 145860,
+        "word": "李嘉诚套现约455亿港元",
+        "onboard_time": 1777993824,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145108,
+        "num": 145108,
+        "word": "里弗斯状态",
+        "onboard_time": 1778038641,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8197,
+        "num": 144152,
+        "word": "法国小伙在日展出日军侵华照片遭威胁",
+        "onboard_time": 1778038941,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134331,
+        "num": 142886,
+        "word": "李晋晔谈AA制婚姻",
+        "onboard_time": 1778033060,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92691,
+        "num": 141720,
+        "word": "五一微信数据报告来了",
+        "onboard_time": 1777993944,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91493,
+        "num": 139774,
+        "word": "丢失7年手机突然发定位机主找回",
+        "onboard_time": 1778038159,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86949,
+        "num": 139150,
+        "word": "宋亚轩回应演唱会哭了",
+        "onboard_time": 1778029941,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137789,
+        "num": 137789,
+        "word": "印度两女子横穿铁轨被火车撞死",
+        "onboard_time": 1778030540,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81918,
+        "num": 137753,
+        "word": "刘宇宁康乃馨音乐节6.0直播",
+        "onboard_time": 1778032759,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27979,
+        "num": 137036,
+        "word": "黄仁勋反驳AI末日论",
+        "onboard_time": 1778030540,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15959,
+        "num": 136465,
+        "word": "OpenAI或加速手机开发",
+        "onboard_time": 1778014815,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 5995,
+        "num": 135412,
+        "word": "鸿蒙智行回应副驾折叠争议",
+        "onboard_time": 1777975401,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139385,
+        "num": 134666,
+        "word": "夫妻分居20年因改网名矛盾彻底爆发",
+        "onboard_time": 1777991365,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系青年#"
+    }
+  }
+}

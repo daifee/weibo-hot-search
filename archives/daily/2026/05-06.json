@@ -1,6 +1,6 @@
 {
   "startTime": 1777999688588,
-  "endTime": 1778026419107,
+  "endTime": 1778039064235,
   "band_list": [
     {
       "raw_hot": 3742843,
@@ -11,8 +11,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3007201,
+      "num": 418634,
+      "word": "曝陈星旭拍轧戏等卢昱晓七个小时",
+      "onboard_time": 1778027421,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2572523,
+      "num": 416796,
+      "word": "女子秋千坠亡事发地瀑布落差168米",
+      "onboard_time": 1778037200,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2197434,
-      "num": 727501,
+      "num": 839784,
       "word": "谢娜演唱会上座率",
       "onboard_time": 1777996461,
       "rank": 3,
@@ -27,11 +43,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1436310,
+      "num": 413773,
+      "word": "王橹杰高会",
+      "onboard_time": 1778035400,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1342245,
       "num": 1045927,
       "word": "女子坠亡悬崖秋千开业仅1个多月",
       "onboard_time": 1778022978,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1298164,
+      "num": 413229,
+      "word": "A股",
+      "onboard_time": 1778036119,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1221295,
+      "num": 1221295,
+      "word": "山姆回应多名顾客拿袋子装免费酱料",
+      "onboard_time": 1777999339,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -41,6 +81,14 @@
       "onboard_time": 1777989504,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1054546,
+      "num": 679904,
+      "word": "我与爱同谋开机",
+      "onboard_time": 1778036719,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 909971,
@@ -59,12 +107,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 875525,
+      "num": 875525,
+      "word": "汉坦病毒疫情",
+      "onboard_time": 1778036299,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 867243,
+      "num": 411208,
+      "word": "谢娜45岁状态",
+      "onboard_time": 1778036719,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 839423,
+      "num": 839423,
+      "word": "桃花坞6定档",
+      "onboard_time": 1778034618,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 776641,
       "num": 700184,
       "word": "谢娜演唱会现场的明星",
       "onboard_time": 1777986743,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 709388,
+      "num": 709388,
+      "word": "金建希案法官身亡现场发现遗书",
+      "onboard_time": 1778032401,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 697593,
@@ -99,12 +179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 612390,
+      "num": 304492,
+      "word": "王心凌演出被镭射激光烫到腿",
+      "onboard_time": 1778037260,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 583784,
       "num": 723994,
       "word": "男友婚前查出乙肝女子父母让分手",
       "onboard_time": 1777988963,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560862,
+      "num": 404159,
+      "word": "五一档票房TOP5",
+      "onboard_time": 1778036119,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 550327,
@@ -115,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542624,
+      "num": 542624,
+      "word": "淘宝免单轮番上阵",
+      "onboard_time": 1778038099,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 493875,
       "num": 719301,
       "word": "四川华蓥瀑布秋千事故致1死",
@@ -123,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476351,
+      "num": 476351,
+      "word": "湖人vs雷霆",
+      "onboard_time": 1778029401,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460090,
       "num": 695683,
       "word": "单眼皮的小黄豆道歉",
       "onboard_time": 1777994005,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418773,
+      "num": 543563,
+      "word": "考试前一天做真题回顾还是太权威了",
+      "onboard_time": 1778025019,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 418055,
@@ -145,6 +265,14 @@
       "onboard_time": 1778024419,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 409635,
+      "num": 409635,
+      "word": "金建希案二审法官死在法院内",
+      "onboard_time": 1778027601,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 404894,
@@ -195,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332759,
-      "num": 681659,
-      "word": "山姆回应多名顾客拿袋子装免费酱料",
-      "onboard_time": 1777999339,
+      "raw_hot": 333707,
+      "num": 293231,
+      "word": "穆祉丞高会掉粉了",
+      "onboard_time": 1778030540,
       "rank": 23,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 313443,
@@ -209,6 +337,22 @@
       "onboard_time": 1778024959,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299222,
+      "num": 299222,
+      "word": "这个世界是属于执行力强的人",
+      "onboard_time": 1778028621,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 298120,
+      "num": 358754,
+      "word": "里夫斯季后赛打没身价",
+      "onboard_time": 1778037860,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 296950,
@@ -251,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255195,
+      "num": 255195,
+      "word": "暴发致命病毒邮轮感染人数增至7人",
+      "onboard_time": 1778031920,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 252949,
       "num": 687386,
       "word": "强大到可怕的顶级心态",
@@ -259,12 +411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251089,
-      "num": 543563,
-      "word": "考试前一天做真题回顾还是太权威了",
-      "onboard_time": 1778025019,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 245735,
+      "num": 245735,
+      "word": "男子学猫叫认亲被处罚",
+      "onboard_time": 1778037860,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239675,
@@ -275,20 +427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232000,
+      "num": 232000,
+      "word": "比五花肉还油的素菜",
+      "onboard_time": 1778033479,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 218380,
+      "num": 516661,
+      "word": "第一次看小猫掉毛看力竭了",
+      "onboard_time": 1778000418,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217155,
       "num": 677533,
       "word": "野草莓一斤能卖上百元",
       "onboard_time": 1777993283,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216012,
-      "num": 516661,
-      "word": "第一次看小猫掉毛看力竭了",
-      "onboard_time": 1778000418,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 213701,
@@ -305,6 +465,14 @@
       "onboard_time": 1778000418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193113,
+      "num": 193113,
+      "word": "景区将男厕改女厕游客发声",
+      "onboard_time": 1778037260,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191073,
@@ -435,12 +603,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145108,
+      "num": 145108,
+      "word": "里弗斯状态",
+      "onboard_time": 1778038641,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138921,
       "num": 673114,
       "word": "金饰价再跌破1400元",
       "onboard_time": 1777997061,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137789,
+      "num": 137789,
+      "word": "印度两女子横穿铁轨被火车撞死",
+      "onboard_time": 1778030540,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137541,
@@ -459,12 +643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134331,
+      "num": 142886,
+      "word": "李晋晔谈AA制婚姻",
+      "onboard_time": 1778033060,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131354,
       "num": 652073,
       "word": "跟林依晨分手后前男友因性侵入狱",
       "onboard_time": 1777957401,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130813,
+      "num": 245760,
+      "word": "淘宝半夜上线免单题",
+      "onboard_time": 1778033540,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 128040,
@@ -611,12 +811,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91493,
+      "num": 139774,
+      "word": "丢失7年手机突然发定位机主找回",
+      "onboard_time": 1778038159,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88961,
       "num": 88961,
       "word": "林依晨曾回应6点做早餐送公公上班",
       "onboard_time": 1778022017,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86949,
+      "num": 139150,
+      "word": "宋亚轩回应演唱会哭了",
+      "onboard_time": 1778029941,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 81918,
+      "num": 137753,
+      "word": "刘宇宁康乃馨音乐节6.0直播",
+      "onboard_time": 1778032759,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 81080,
@@ -633,6 +857,14 @@
       "onboard_time": 1777971441,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77867,
+      "num": 245810,
+      "word": "小鹏GX线控底盘挑战49道弯一把过",
+      "onboard_time": 1778037500,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 73908,
@@ -691,12 +923,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34784,
+      "num": 344483,
+      "word": "残障女孩因轮椅电池没法拆不让托运",
+      "onboard_time": 1778038460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34157,
       "num": 130099,
       "word": "AG战胜TYL晋级四强",
       "onboard_time": 1778005696,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33839,
+      "num": 839856,
+      "word": "以旧换新加力扩围掀起消费新热潮",
+      "onboard_time": 1778035220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33036,
@@ -729,6 +977,14 @@
       "onboard_time": 1778003176,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27979,
+      "num": 137036,
+      "word": "黄仁勋反驳AI末日论",
+      "onboard_time": 1778030540,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 24722,
@@ -779,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8197,
+      "num": 144152,
+      "word": "法国小伙在日展出日军侵华照片遭威胁",
+      "onboard_time": 1778038941,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1982,
       "num": 57458,
       "word": "王曼昱伦敦世乒赛首秀",
@@ -798,6 +1062,9 @@
   "hotgov_list": [
     {
       "word": "#总书记深情寄语中国青年#"
+    },
+    {
+      "word": "#总书记始终心系青年#"
     }
   ]
 }
