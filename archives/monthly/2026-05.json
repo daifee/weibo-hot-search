@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778060548006,
+  "endTime": 1778068541442,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2286700,
+      "num": 566445,
+      "word": "白鹿跑男争议 内娱综艺审美巨变",
+      "onboard_time": 1778061201,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2257690,
       "num": 270268,
       "word": "严浩翔妹妹 张桂源粉丝",
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1676663,
+      "num": 1676663,
+      "word": "中国强硬拒绝世界杯天价转播费",
+      "onboard_time": 1778061799,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1657360,
       "num": 158510,
       "word": "严军不敢发和严浩翔的聊天记录",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 1450915,
-      "num": 365923,
+      "num": 534408,
       "word": "合作演员为卢昱晓发声",
       "onboard_time": 1778055561,
       "rank": 10,
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099306,
+      "num": 560938,
+      "word": "梁靖崑0比3E约内斯库",
+      "onboard_time": 1778060422,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1097736,
       "num": 1097736,
       "word": "严浩翔solo",
@@ -873,6 +897,14 @@
       "onboard_time": 1777901242,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1089786,
+      "num": 1089786,
+      "word": "中国男团vs罗马尼亚",
+      "onboard_time": 1778061082,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1088726,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1777639642,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983164,
+      "num": 983164,
+      "word": "王楚钦这一分全体起立",
+      "onboard_time": 1778066720,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 981365,
@@ -1292,7 +1332,7 @@
     },
     {
       "raw_hot": 830768,
-      "num": 491337,
+      "num": 538337,
       "word": "张子枫手臂都是伤疤",
       "onboard_time": 1778044341,
       "rank": 17,
@@ -2035,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623305,
+      "num": 623305,
+      "word": "海底捞保洁藏顾客手机并试图寄走",
+      "onboard_time": 1778063661,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619843,
       "num": 365209,
       "word": "新人演员余意指控陈昊宇惯三",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1777563320,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602585,
+      "num": 602585,
+      "word": "花少8最新阵容",
+      "onboard_time": 1778066901,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 597774,
@@ -2449,6 +2505,14 @@
       "onboard_time": 1777983082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528230,
+      "num": 528230,
+      "word": "杨迪 喜欢谢娜不是一件丢人的事",
+      "onboard_time": 1778064320,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 526766,
@@ -3139,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423292,
+      "num": 423292,
+      "word": "肖战十日终焉剧组请客了",
+      "onboard_time": 1778065882,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418773,
       "num": 543563,
       "word": "考试前一天做真题回顾还是太权威了",
@@ -3169,6 +3241,14 @@
       "onboard_time": 1777887441,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417391,
+      "num": 529579,
+      "word": "英伟达中国份额降至0",
+      "onboard_time": 1778061141,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 416309,
@@ -3451,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391049,
+      "num": 575761,
+      "word": "给阿嬷的情书 电影还有救",
+      "onboard_time": 1778061622,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 390963,
       "num": 390963,
       "word": "酒店249元一晚涨到1600元被吐槽",
@@ -3633,6 +3721,14 @@
       "onboard_time": 1777791500,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373274,
+      "num": 373274,
+      "word": "国乒男团进世乒赛8强",
+      "onboard_time": 1778067920,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 373206,
@@ -3899,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347367,
+      "num": 347367,
+      "word": "昔日网红自嗨锅破产",
+      "onboard_time": 1778064021,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347125,
       "num": 320376,
       "word": "李飞怎么变这么薄一片了",
@@ -3955,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343718,
+      "num": 320624,
+      "word": "北京晚霞",
+      "onboard_time": 1778067741,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 343409,
       "num": 343409,
       "word": "林依晨因饰演程又青果断分手",
@@ -4009,6 +4121,14 @@
       "onboard_time": 1777959981,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 338506,
+      "num": 338506,
+      "word": "龙队急得直挠头",
+      "onboard_time": 1778067141,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 338426,
@@ -4379,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312596,
+      "num": 312596,
+      "word": "林诗栋3比0O约内斯库",
+      "onboard_time": 1778067320,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312056,
       "num": 312056,
       "word": "BABYMONSTER回归",
@@ -4563,6 +4691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299394,
+      "num": 299394,
+      "word": "全李酒店 全季酒店",
+      "onboard_time": 1778066540,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299222,
       "num": 299222,
       "word": "这个世界是属于执行力强的人",
@@ -4609,6 +4745,14 @@
       "onboard_time": 1777609579,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295827,
+      "num": 295827,
+      "word": "花少 炒作",
+      "onboard_time": 1778066063,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 295373,
@@ -4681,6 +4825,14 @@
       "onboard_time": 1777808063,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292462,
+      "num": 223613,
+      "word": "12306回应绿皮火车连接处有人抽烟",
+      "onboard_time": 1778061201,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291639,
@@ -5211,12 +5363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259244,
+      "num": 257238,
+      "word": "兜儿回应女儿像小猪妹",
+      "onboard_time": 1778067862,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 259209,
       "num": 259209,
       "word": "邓佳鑫直播自爆身高",
       "onboard_time": 1777732823,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259204,
+      "num": 320563,
+      "word": "女子宫外孕胚胎长在人体最粗血管上",
+      "onboard_time": 1778057602,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258681,
@@ -5587,6 +5755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237559,
+      "num": 237559,
+      "word": "汉坦病毒从发病到死亡仅5天",
+      "onboard_time": 1778065281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237439,
+      "num": 237439,
+      "word": "经常尬拍的人才知道她有多牛",
+      "onboard_time": 1778065220,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237419,
       "num": 329937,
       "word": "特朗普称美国结束对伊朗战争",
@@ -5891,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222143,
+      "num": 222143,
+      "word": "WE战胜iG",
+      "onboard_time": 1778068400,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222062,
       "num": 222062,
       "word": "河南人每天就过这样的好日子",
@@ -5913,6 +6105,14 @@
       "onboard_time": 1777951940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220528,
+      "num": 234948,
+      "word": "王皓我的眼睛也是尺",
+      "onboard_time": 1778067141,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 220417,
@@ -6403,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200409,
+      "num": 200409,
+      "word": "孟子义丁禹兮 无尽夏",
+      "onboard_time": 1778062160,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198919,
       "num": 248511,
       "word": "平台已对抢方向盘女子账号实施管控",
@@ -6473,14 +6681,6 @@
       "onboard_time": 1777896263,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195337,
-      "num": 320563,
-      "word": "女子宫外孕胚胎长在人体最粗血管上",
-      "onboard_time": 1778057602,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195153,
@@ -6675,14 +6875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190008,
-      "num": 316723,
-      "word": "梁靖崑0比3E约内斯库",
-      "onboard_time": 1778060422,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189904,
       "num": 189904,
       "word": "立夏为啥要称体重",
@@ -6851,6 +7043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183303,
+      "num": 183303,
+      "word": "为什么户外千万不要穿迷彩",
+      "onboard_time": 1778066481,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -6921,6 +7121,14 @@
       "onboard_time": 1777786760,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180106,
+      "num": 180106,
+      "word": "孙颖莎vs伯格斯特隆",
+      "onboard_time": 1778066540,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 180001,
@@ -8099,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142924,
+      "num": 178734,
+      "word": "自嗨锅从估值75亿到负债1.4亿",
+      "onboard_time": 1778067622,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142747,
       "num": 142747,
       "word": "金枕榴莲价格打下来了",
@@ -8755,6 +8971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125427,
+      "num": 589783,
+      "word": "伊朗外长向中方通报伊美谈判情况",
+      "onboard_time": 1778068161,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125208,
       "num": 340377,
       "word": "吴宜泽决赛击球时遭抗议者打断",
@@ -8945,6 +9169,14 @@
       "onboard_time": 1778049020,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120476,
+      "num": 577954,
+      "word": "国乒男团进八强",
+      "onboard_time": 1778067563,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 120450,
@@ -10067,6 +10299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76932,
+      "num": 222633,
+      "word": "徐冬冬宝石第一天通告就是吻戏",
+      "onboard_time": 1778067622,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76650,
       "num": 321088,
       "word": "苏超苏州vs淮安",
@@ -10203,6 +10443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70224,
+      "num": 593259,
+      "word": "佳偶天成 仙侠版觉醒年代",
+      "onboard_time": 1778067563,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69894,
       "num": 69894,
       "word": "房主任瘦了16斤",
@@ -10248,6 +10496,14 @@
       "word": "阿娇送阿sa的新婚礼物曝光",
       "onboard_time": 1777549519,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68071,
+      "num": 235102,
+      "word": "肖战带妆下班合集",
+      "onboard_time": 1778061201,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -10473,6 +10729,14 @@
       "onboard_time": 1777705580,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54263,
+      "num": 234989,
+      "word": "佳偶天成 人类应该写出的剧本",
+      "onboard_time": 1778067622,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 53977,
@@ -11348,7 +11612,7 @@
     },
     {
       "raw_hot": 22537,
-      "num": 962875,
+      "num": 1031145,
       "word": "致敬国之重器背后的青年力量",
       "onboard_time": 1778056162,
       "rank": 2,
@@ -11489,6 +11753,14 @@
       "onboard_time": 1777593137,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15801,
+      "num": 528291,
+      "word": "庐山索道将停机检修30天",
+      "onboard_time": 1778068161,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15788,
