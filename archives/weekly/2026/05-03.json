@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778105712345,
+  "endTime": 1778109257962,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1627,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583348,
+      "num": 740019,
+      "word": "暴发致命病毒邮轮或出现人传人现象",
+      "onboard_time": 1778081542,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 582220,
       "num": 576018,
       "word": "范丞丞妈妈71岁状态",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1778041460,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544431,
-      "num": 544431,
-      "word": "暴发致命病毒邮轮或出现人传人现象",
-      "onboard_time": 1778081542,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 540485,
@@ -2171,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457291,
+      "num": 144894,
+      "word": "张杰谢娜小说都不敢写的地步",
+      "onboard_time": 1778109077,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 457181,
       "num": 457181,
       "word": "追星女的手机密码人尽皆知",
@@ -2251,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443435,
+      "num": 130206,
+      "word": "国际足联可能已经慌了",
+      "onboard_time": 1778108958,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443013,
       "num": 443013,
       "word": "丁程鑫张真源安慰严浩翔",
@@ -2315,6 +2331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 430205,
+      "num": 546302,
+      "word": "伦敦世乒赛团体赛",
+      "onboard_time": 1778094255,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428901,
       "num": 428901,
       "word": "张继科说国乒男队技术迭代不足",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1777887441,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417253,
+      "num": 145560,
+      "word": "男助产士撞脸张凌赫孕妈变迷妹",
+      "onboard_time": 1778103375,
+      "rank": 15,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 416309,
@@ -3907,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260029,
+      "num": 330330,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 259204,
       "num": 320563,
       "word": "女子宫外孕胚胎长在人体最粗血管上",
@@ -4169,14 +4209,6 @@
       "onboard_time": 1778025860,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238636,
-      "num": 330330,
-      "word": "有AI真好 放以前没十几亿下不来",
-      "onboard_time": 1778075782,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 238565,
@@ -4505,14 +4537,6 @@
       "onboard_time": 1777979660,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222275,
-      "num": 261411,
-      "word": "伦敦世乒赛团体赛",
-      "onboard_time": 1778094255,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 222143,
@@ -4963,6 +4987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194778,
+      "num": 142725,
+      "word": "高市早苗下跪看清日本丑恶嘴脸",
+      "onboard_time": 1778109138,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194192,
       "num": 333414,
       "word": "曾舜晞说回家当然要穿正式点",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1777972103,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193201,
+      "num": 142158,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193113,
@@ -5232,6 +5272,14 @@
       "word": "严浩翔高会更新",
       "onboard_time": 1777941440,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182865,
+      "num": 141394,
+      "word": "卢昱晓把刀拿反了",
+      "onboard_time": 1778100134,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -5635,14 +5683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 164411,
-      "num": 78159,
-      "word": "男助产士撞脸张凌赫孕妈变迷妹",
-      "onboard_time": 1778103375,
-      "rank": 15,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 163882,
       "num": 163882,
       "word": "印度两女子横穿铁轨被火车撞死",
@@ -5841,14 +5881,6 @@
       "onboard_time": 1777901602,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156440,
-      "num": 114235,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155998,
@@ -6353,14 +6385,6 @@
       "onboard_time": 1777808003,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133808,
-      "num": 41067,
-      "word": "卢昱晓把刀拿反了",
-      "onboard_time": 1778100134,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 132780,
@@ -7451,6 +7475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 75157,
+      "num": 75157,
+      "word": "有人给TOP买了五个防毒面具",
+      "onboard_time": 1778109077,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74117,
       "num": 114161,
       "word": "JDG战胜TES",
@@ -7483,12 +7515,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71074,
+      "num": 71074,
+      "word": "爸爸的沉默比任何骂都让人后怕",
+      "onboard_time": 1778109199,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70962,
       "num": 106127,
       "word": "范明女儿喜欢肖战",
       "onboard_time": 1777806201,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70774,
+      "num": 70774,
+      "word": "和乙肝患者在一起吃饭会被传染吗",
+      "onboard_time": 1778107756,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70224,
@@ -7547,8 +7595,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63494,
-      "num": 59373,
+      "raw_hot": 64165,
+      "num": 64165,
       "word": "檀健次为不干扰拍摄把保镖支走",
       "onboard_time": 1778101453,
       "rank": 20,
@@ -7569,6 +7617,14 @@
       "onboard_time": 1778000719,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60363,
+      "num": 60363,
+      "word": "耳高于眉的聪明狗",
+      "onboard_time": 1778091915,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 60115,
@@ -7632,6 +7688,14 @@
       "word": "美将从德国撤出5000美军",
       "onboard_time": 1777764077,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56755,
+      "num": 56755,
+      "word": "美媒称美伊接近达成停战备忘录",
+      "onboard_time": 1778095633,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -7835,14 +7899,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 44885,
-      "num": 50744,
-      "word": "耳高于眉的聪明狗",
-      "onboard_time": 1778091915,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 44082,
       "num": 64176,
       "word": "仙侠剧女主终于不是傻白甜了",
@@ -7857,6 +7913,14 @@
       "onboard_time": 1777726341,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43839,
+      "num": 46874,
+      "word": "大陆台资企业严禁任何资源支持台独",
+      "onboard_time": 1778109199,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43399,
@@ -8017,14 +8081,6 @@
       "onboard_time": 1777836254,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35831,
-      "num": 41105,
-      "word": "美媒称美伊接近达成停战备忘录",
-      "onboard_time": 1778095633,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35735,

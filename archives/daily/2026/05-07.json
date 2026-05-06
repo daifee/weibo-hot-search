@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778105712345,
+  "endTime": 1778109257962,
   "band_list": [
     {
       "raw_hot": 1437508,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583348,
+      "num": 740019,
+      "word": "暴发致命病毒邮轮或出现人传人现象",
+      "onboard_time": 1778081542,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 563695,
       "num": 329517,
       "word": "新人结婚被丢高速口路过宾利变婚车",
       "onboard_time": 1778070082,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544431,
-      "num": 544431,
-      "word": "暴发致命病毒邮轮或出现人传人现象",
-      "onboard_time": 1778081542,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 480618,
@@ -51,12 +51,44 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 457291,
+      "num": 144894,
+      "word": "张杰谢娜小说都不敢写的地步",
+      "onboard_time": 1778109077,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 443435,
+      "num": 130206,
+      "word": "国际足联可能已经慌了",
+      "onboard_time": 1778108958,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430205,
+      "num": 546302,
+      "word": "伦敦世乒赛团体赛",
+      "onboard_time": 1778094255,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427371,
       "num": 328428,
       "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
       "onboard_time": 1778081302,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417253,
+      "num": 145560,
+      "word": "男助产士撞脸张凌赫孕妈变迷妹",
+      "onboard_time": 1778103375,
+      "rank": 15,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 367410,
@@ -75,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344061,
+      "num": 327674,
+      "word": "世界杯中国赞助商投入超5亿美元",
+      "onboard_time": 1778078963,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342903,
       "num": 328086,
       "word": "钟薛高破产后508件资产207万起拍",
@@ -91,14 +131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327674,
-      "num": 327674,
-      "word": "世界杯中国赞助商投入超5亿美元",
-      "onboard_time": 1778078963,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305860,
       "num": 305860,
       "word": "主角OST请来了王菲",
@@ -107,12 +139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294244,
-      "num": 294244,
+      "raw_hot": 302105,
+      "num": 302105,
       "word": "解除台独刘世芳亲属全部职务",
       "onboard_time": 1778076022,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260029,
+      "num": 330330,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 258091,
@@ -129,22 +169,6 @@
       "onboard_time": 1778073323,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238636,
-      "num": 330330,
-      "word": "有AI真好 放以前没十几亿下不来",
-      "onboard_time": 1778075782,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 222275,
-      "num": 261411,
-      "word": "伦敦世乒赛团体赛",
-      "onboard_time": 1778094255,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 222145,
@@ -171,6 +195,30 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 194778,
+      "num": 142725,
+      "word": "高市早苗下跪看清日本丑恶嘴脸",
+      "onboard_time": 1778109138,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 193201,
+      "num": 142158,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182865,
+      "num": 141394,
+      "word": "卢昱晓把刀拿反了",
+      "onboard_time": 1778100134,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179096,
       "num": 179096,
       "word": "河北两女子长得一模一样孩子认错妈",
@@ -195,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164411,
-      "num": 78159,
-      "word": "男助产士撞脸张凌赫孕妈变迷妹",
-      "onboard_time": 1778103375,
-      "rank": 15,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 163834,
       "num": 163834,
       "word": "小狗靠捡瓶子攒了10万",
@@ -225,14 +265,6 @@
       "onboard_time": 1778067920,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156440,
-      "num": 114235,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146176,
@@ -265,14 +297,6 @@
       "onboard_time": 1778069662,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 133808,
-      "num": 41067,
-      "word": "卢昱晓把刀拿反了",
-      "onboard_time": 1778100134,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 133020,
@@ -403,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75157,
+      "num": 75157,
+      "word": "有人给TOP买了五个防毒面具",
+      "onboard_time": 1778109077,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74117,
       "num": 114161,
       "word": "JDG战胜TES",
@@ -417,6 +449,22 @@
       "onboard_time": 1778073863,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71074,
+      "num": 71074,
+      "word": "爸爸的沉默比任何骂都让人后怕",
+      "onboard_time": 1778109199,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70774,
+      "num": 70774,
+      "word": "和乙肝患者在一起吃饭会被传染吗",
+      "onboard_time": 1778107756,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70613,
@@ -435,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64165,
+      "num": 64165,
+      "word": "檀健次为不干扰拍摄把保镖支走",
+      "onboard_time": 1778101453,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63768,
       "num": 113699,
       "word": "我们的少年时代2",
@@ -443,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63494,
-      "num": 59373,
-      "word": "檀健次为不干扰拍摄把保镖支走",
-      "onboard_time": 1778101453,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 61314,
+      "num": 458397,
+      "word": "来中国玩的外国人更多了",
+      "onboard_time": 1778071823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 60363,
+      "num": 60363,
+      "word": "耳高于眉的聪明狗",
+      "onboard_time": 1778091915,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 58399,
@@ -457,6 +521,14 @@
       "onboard_time": 1778060422,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56755,
+      "num": 56755,
+      "word": "美媒称美伊接近达成停战备忘录",
+      "onboard_time": 1778095633,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55285,
@@ -491,22 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44885,
-      "num": 50744,
-      "word": "耳高于眉的聪明狗",
-      "onboard_time": 1778091915,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 44699,
-      "num": 458397,
-      "word": "来中国玩的外国人更多了",
-      "onboard_time": 1778071823,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44082,
       "num": 64176,
       "word": "仙侠剧女主终于不是傻白甜了",
@@ -515,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43839,
+      "num": 46874,
+      "word": "大陆台资企业严禁任何资源支持台独",
+      "onboard_time": 1778109199,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37031,
       "num": 37031,
       "word": "反方向的钟",
       "onboard_time": 1778098393,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35831,
-      "num": 41105,
-      "word": "美媒称美伊接近达成停战备忘录",
-      "onboard_time": 1778095633,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33328,
