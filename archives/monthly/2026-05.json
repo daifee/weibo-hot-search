@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778156297020,
+  "endTime": 1778164298010,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2350130,
+      "num": 872641,
+      "word": "刘维去谢娜演唱会被指忘本",
+      "onboard_time": 1778159483,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2322754,
       "num": 1026357,
       "word": "白鹿跑男争议 内娱综艺审美巨变",
@@ -553,6 +561,14 @@
       "onboard_time": 1777817785,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1559466,
+      "num": 1559466,
+      "word": "八千多的手机拍照也不行啊",
+      "onboard_time": 1778156000,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 1552424,
@@ -1027,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1086520,
+      "num": 578933,
+      "word": "薛之谦点赞了和刘维的合照",
+      "onboard_time": 1778159421,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1081907,
       "num": 703786,
       "word": "白鹿隐藏了和范丞丞的手势舞",
@@ -1227,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 980700,
+      "num": 872631,
+      "word": "贵州蘸水",
+      "onboard_time": 1778156240,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 971109,
       "num": 716241,
       "word": "重庆落地签",
@@ -1387,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 881386,
+      "num": 916599,
+      "word": "胖东来1公斤黄樱桃416元",
+      "onboard_time": 1778162482,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869891,
       "num": 618270,
       "word": "外地车误入夜市被堆满垃圾掰断车牌",
@@ -1443,12 +1483,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 862323,
+      "num": 574960,
+      "word": "李现张婧仪吻戏",
+      "onboard_time": 1778163204,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 858629,
       "num": 780824,
       "word": "把自己当成糖尿病人来吃饭",
       "onboard_time": 1777792640,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 853477,
+      "num": 853477,
+      "word": "喀什恋歌大结局",
+      "onboard_time": 1778158222,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 846027,
@@ -1500,7 +1556,7 @@
     },
     {
       "raw_hot": 833636,
-      "num": 587980,
+      "num": 692848,
       "word": "当你意识到自己无法升职时",
       "onboard_time": 1778151261,
       "rank": 5,
@@ -1635,7 +1691,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 793599,
+      "raw_hot": 794880,
+      "num": 545556,
+      "word": "迪丽热巴手臂上还有疫苗印",
+      "onboard_time": 1778155162,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 794116,
       "num": 844411,
       "word": "日本街头疑现芬太尼丧尸",
       "onboard_time": 1778145562,
@@ -2315,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647040,
+      "num": 647040,
+      "word": "张豆豆给孙杨的备注",
+      "onboard_time": 1778157622,
+      "rank": 8,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 641673,
       "num": 888378,
       "word": "国乒男团技术已无明显优势",
@@ -2739,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564993,
+      "num": 564993,
+      "word": "孙亚龙 dys变天",
+      "onboard_time": 1778159662,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 564147,
       "num": 403181,
       "word": "立夏",
@@ -2753,14 +2833,6 @@
       "onboard_time": 1778036119,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 560428,
-      "num": 284917,
-      "word": "迪丽热巴手臂上还有疫苗印",
-      "onboard_time": 1778155162,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 558755,
@@ -2916,7 +2988,7 @@
     },
     {
       "raw_hot": 535014,
-      "num": 314064,
+      "num": 358671,
       "word": "Jisoo晒blackpink四人合照",
       "onboard_time": 1778150000,
       "rank": 11,
@@ -3459,6 +3531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468808,
+      "num": 468808,
+      "word": "演员最好的固粉手段",
+      "onboard_time": 1778155341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467695,
       "num": 467695,
       "word": "王楚钦vs卡尔伯格",
@@ -3524,7 +3604,7 @@
     },
     {
       "raw_hot": 460657,
-      "num": 312029,
+      "num": 422421,
       "word": "印尼惊现罕见的彩虹云刷爆全网",
       "onboard_time": 1778151440,
       "rank": 15,
@@ -4755,6 +4835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344709,
+      "num": 344709,
+      "word": "演唱会卫生间配了卫生巾的明星",
+      "onboard_time": 1778152821,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344582,
       "num": 344582,
       "word": "孙颖莎vs迪亚科努",
@@ -4849,6 +4937,14 @@
       "onboard_time": 1777616899,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337242,
+      "num": 311242,
+      "word": "小区531户仅25户交物业费业主发声",
+      "onboard_time": 1778158762,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336420,
@@ -5091,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322663,
+      "num": 311912,
+      "word": "宁艺卓到韩国第二天就和SM签约",
+      "onboard_time": 1778161702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322465,
       "num": 322465,
       "word": "网剧浮生",
@@ -5192,6 +5296,14 @@
       "word": "37岁女主持人患癌去世朋友发声",
       "onboard_time": 1777777460,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316711,
+      "num": 316711,
+      "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+      "onboard_time": 1778152161,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -5891,6 +6003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280232,
+      "num": 237373,
+      "word": "西卡退休",
+      "onboard_time": 1778163503,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280219,
       "num": 201281,
       "word": "陈冠希46岁状态",
@@ -5961,6 +6081,14 @@
       "onboard_time": 1777571417,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277393,
+      "num": 277393,
+      "word": "男童凌晨4点抱被子街头哭泣独行",
+      "onboard_time": 1778163384,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276677,
@@ -6051,6 +6179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272331,
+      "num": 589719,
+      "word": "JieJie 活着",
+      "onboard_time": 1778160862,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272108,
       "num": 272108,
       "word": "中国女团vs韩国对阵名单",
@@ -6081,6 +6217,14 @@
       "onboard_time": 1777975580,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270849,
+      "num": 270849,
+      "word": "朴秀荣Crush晒照秀恩爱",
+      "onboard_time": 1778162063,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 270758,
@@ -6323,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258103,
+      "num": 258103,
+      "word": "户上隼辅1比3弗朗西斯卡",
+      "onboard_time": 1778163802,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257700,
       "num": 186788,
       "word": "女子绿皮火车上投诉车厢连接处吸烟",
@@ -6425,6 +6577,14 @@
       "onboard_time": 1778154562,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253066,
+      "num": 253066,
+      "word": "孙颖莎连得10分逆转取胜",
+      "onboard_time": 1778163204,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 252949,
@@ -7203,6 +7363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222693,
+      "num": 222693,
+      "word": "无畏契约手游 王俊凯",
+      "onboard_time": 1778160922,
+      "rank": 35,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 222234,
       "num": 222234,
       "word": "汉坦病毒疫情扩散",
@@ -7321,14 +7489,6 @@
       "onboard_time": 1778000418,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218296,
-      "num": 222689,
-      "word": "演唱会卫生间配了卫生巾的明星",
-      "onboard_time": 1778152821,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 218198,
@@ -7545,6 +7705,14 @@
       "onboard_time": 1778076924,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211898,
+      "num": 211898,
+      "word": "张凌赫凭一己之力带火横店烤肉",
+      "onboard_time": 1778163263,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 211690,
@@ -7843,6 +8011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202661,
+      "num": 221585,
+      "word": "巴西对中国公民免签",
+      "onboard_time": 1778157322,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201594,
       "num": 201956,
       "word": "5月锦鲤附体的星座",
@@ -7897,14 +8073,6 @@
       "onboard_time": 1778079203,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200455,
-      "num": 200455,
-      "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
-      "onboard_time": 1778152161,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200409,
@@ -7969,6 +8137,14 @@
       "onboard_time": 1777687700,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198356,
+      "num": 198356,
+      "word": "浪姐三公彩排",
+      "onboard_time": 1778158341,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 197440,
@@ -8411,14 +8587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183405,
-      "num": 183405,
-      "word": "八千多的手机拍照也不行啊",
-      "onboard_time": 1778156000,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -8643,6 +8811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176807,
+      "num": 199463,
+      "word": "孙颖莎Bestplayer",
+      "onboard_time": 1778159301,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176751,
       "num": 322329,
       "word": "田曦薇演警察",
@@ -8761,6 +8937,14 @@
       "onboard_time": 1777870040,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174183,
+      "num": 174183,
+      "word": "尘白禁区",
+      "onboard_time": 1778159483,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 173945,
@@ -9051,6 +9235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164628,
+      "num": 164628,
+      "word": "高反被掐人中后打人女子称已报警",
+      "onboard_time": 1778156723,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164622,
       "num": 350951,
       "word": "榴莲山竹冰",
@@ -9329,14 +9521,6 @@
       "onboard_time": 1777852820,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157633,
-      "num": 157633,
-      "word": "贵州蘸水",
-      "onboard_time": 1778156240,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 157518,
@@ -10433,6 +10617,14 @@
       "onboard_time": 1777719740,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129830,
+      "num": 245587,
+      "word": "华为MatePadProMax海外首发",
+      "onboard_time": 1778159483,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 129211,
@@ -12867,6 +13059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46217,
+      "num": 882912,
+      "word": "假日经济点燃消费热潮",
+      "onboard_time": 1778159421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46193,
       "num": 225767,
       "word": "爱情没有神话 重新剪辑",
@@ -12936,6 +13136,14 @@
       "word": "9岁女孩南非被绑架58天后获救",
       "onboard_time": 1777791681,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43027,
+      "num": 217327,
+      "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
+      "onboard_time": 1778164164,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -13203,6 +13411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35131,
+      "num": 217259,
+      "word": "他用最危险的方式提醒你远离危险",
+      "onboard_time": 1778164102,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34917,
       "num": 792370,
       "word": "这个五一假期惠民福利停不下来",
@@ -13393,6 +13609,14 @@
       "onboard_time": 1777798880,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30283,
+      "num": 212501,
+      "word": "景区海报文案指00后花男人钱引不适",
+      "onboard_time": 1778163683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30145,
@@ -13835,6 +14059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14769,
+      "num": 240134,
+      "word": "曝苹果高价买芯",
+      "onboard_time": 1778163503,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 14533,
       "num": 314322,
       "word": "幻月新游戏",
@@ -14141,6 +14373,9 @@
     },
     {
       "word": "#中国青年正当其时#"
+    },
+    {
+      "word": "#习近平的调研之道#"
     }
   ]
 }
