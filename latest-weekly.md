@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/08 02:51:45
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/08 03:14:34
 </p>
 </blockquote>
 <p>
@@ -7541,6 +7541,12 @@ AG战胜TYL晋级四强（热度：34157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%A2%A6%20Gr%23" target="weibo">
 卡梦 Gr（热度：29673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E8%AF%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E7%AD%9B%E9%80%89%E6%89%8B%E6%AE%B5%23" target="weibo">
+真诚是一种筛选手段（热度：29562）
 </a>
 </li>
 

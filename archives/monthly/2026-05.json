@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778179905033,
+  "endTime": 1778181274888,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -13873,6 +13873,14 @@
       "onboard_time": 1778003176,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29562,
+      "num": 50745,
+      "word": "真诚是一种筛选手段",
+      "onboard_time": 1778179935,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 29052,
