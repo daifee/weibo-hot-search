@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778164298010,
+  "endTime": 1778166782098,
   "band_list": [
     {
       "raw_hot": 21061847,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2350130,
-      "num": 872641,
+      "num": 920850,
       "word": "刘维去谢娜演唱会被指忘本",
       "onboard_time": 1778159483,
       "rank": 3,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1559466,
-      "num": 1559466,
+      "raw_hot": 1690747,
+      "num": 1690747,
       "word": "八千多的手机拍照也不行啊",
       "onboard_time": 1778156000,
       "rank": 37,
@@ -131,6 +131,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 968628,
+      "num": 968628,
+      "word": "曝浪姐三公不直播",
+      "onboard_time": 1778164522,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 952933,
+      "num": 889771,
+      "word": "安崎晕倒",
+      "onboard_time": 1778165542,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 933905,
       "num": 1167673,
       "word": "王曼昱vs申裕斌",
@@ -139,7 +155,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 881386,
+      "raw_hot": 899954,
       "num": 916599,
       "word": "胖东来1公斤黄樱桃416元",
       "onboard_time": 1778162482,
@@ -161,6 +177,14 @@
       "onboard_time": 1778163204,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 856620,
+      "num": 449992,
+      "word": "男童凌晨4点抱被子街头哭泣独行",
+      "onboard_time": 1778163384,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 853477,
@@ -427,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 517919,
+      "num": 425021,
+      "word": "宁艺卓到韩国第二天就和SM签约",
+      "onboard_time": 1778161702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515205,
       "num": 515205,
       "word": "公安局大院内酒店每晚200到300元",
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 460657,
-      "num": 422421,
+      "num": 439812,
       "word": "印尼惊现罕见的彩虹云刷爆全网",
       "onboard_time": 1778151440,
       "rank": 15,
@@ -633,6 +665,14 @@
       "onboard_time": 1778138661,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386009,
+      "num": 200219,
+      "word": "Kid回应合同",
+      "onboard_time": 1778164883,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 379927,
@@ -747,14 +787,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 322663,
-      "num": 311912,
-      "word": "宁艺卓到韩国第二天就和SM签约",
-      "onboard_time": 1778161702,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320381,
       "num": 288723,
       "word": "虞书欣洛杉矶GOLDGALA",
@@ -827,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293613,
+      "num": 293613,
+      "word": "日本男团3比1德国男团",
+      "onboard_time": 1778165063,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291341,
       "num": 278601,
       "word": "救救孙丞潇",
@@ -851,19 +891,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280091,
+      "num": 280091,
+      "word": "孙颖莎连得10分逆转取胜",
+      "onboard_time": 1778163204,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279159,
       "num": 279159,
       "word": "1800万存银行被员工转走后续",
       "onboard_time": 1778137880,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277393,
-      "num": 277393,
-      "word": "男童凌晨4点抱被子街头哭泣独行",
-      "onboard_time": 1778163384,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -963,20 +1003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255182,
+      "num": 255182,
+      "word": "无畏契约手游 王俊凯",
+      "onboard_time": 1778160922,
+      "rank": 35,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 253339,
       "num": 253339,
       "word": "时代少年团辟谣明年单飞",
       "onboard_time": 1778154562,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253066,
-      "num": 253066,
-      "word": "孙颖莎连得10分逆转取胜",
-      "onboard_time": 1778163204,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 252699,
@@ -1091,20 +1131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231466,
+      "num": 231466,
+      "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
+      "onboard_time": 1778164164,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225818,
       "num": 225818,
       "word": "生活中的真正奢侈",
       "onboard_time": 1778134640,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222693,
-      "num": 222693,
-      "word": "无畏契约手游 王俊凯",
-      "onboard_time": 1778160922,
-      "rank": 35,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 222234,
@@ -1643,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141345,
+      "num": 141345,
+      "word": "皇马内讧",
+      "onboard_time": 1778166683,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140327,
       "num": 140327,
       "word": "中国女子在西班牙被刺身亡",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1778069662,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136574,
+      "num": 136574,
+      "word": "桃花坞11个新人6个综艺首秀",
+      "onboard_time": 1778158823,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 135266,
@@ -1849,6 +1905,14 @@
       "onboard_time": 1778075484,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97313,
+      "num": 201282,
+      "word": "微信未读语音消息变灰",
+      "onboard_time": 1778166202,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 96167,
@@ -2099,12 +2163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48496,
+      "num": 240134,
+      "word": "曝苹果高价买芯",
+      "onboard_time": 1778163503,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46217,
-      "num": 882912,
+      "num": 922388,
       "word": "假日经济点燃消费热潮",
       "onboard_time": 1778159421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44871,
+      "num": 453479,
+      "word": "央视曝徐州农田边黑水直流",
+      "onboard_time": 1778166083,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 44082,
@@ -2113,14 +2193,6 @@
       "onboard_time": 1778087716,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43027,
-      "num": 217327,
-      "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
-      "onboard_time": 1778164164,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42823,
@@ -2249,14 +2321,6 @@
       "onboard_time": 1778156120,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14769,
-      "num": 240134,
-      "word": "曝苹果高价买芯",
-      "onboard_time": 1778163503,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 13348,

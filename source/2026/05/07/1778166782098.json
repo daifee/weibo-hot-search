@@ -1,0 +1,410 @@
+{
+  "runTime": 1778166782098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690747,
+        "num": 1690747,
+        "word": "八千多的手机拍照也不行啊",
+        "onboard_time": 1778156000,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 968628,
+        "num": 968628,
+        "word": "曝浪姐三公不直播",
+        "onboard_time": 1778164522,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38679,
+        "num": 922388,
+        "word": "假日经济点燃消费热潮",
+        "onboard_time": 1778159421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2084006,
+        "num": 920850,
+        "word": "刘维去谢娜演唱会被指忘本",
+        "onboard_time": 1778159483,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 899954,
+        "num": 899954,
+        "word": "胖东来1公斤黄樱桃416元",
+        "onboard_time": 1778162482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 952933,
+        "num": 889771,
+        "word": "安崎晕倒",
+        "onboard_time": 1778165542,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821650,
+        "num": 821650,
+        "word": "贵州蘸水",
+        "onboard_time": 1778156240,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 605774,
+        "num": 605774,
+        "word": "当你意识到自己无法升职时",
+        "onboard_time": 1778151261,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454812,
+        "num": 454812,
+        "word": "日本街头疑现芬太尼丧尸",
+        "onboard_time": 1778145562,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44871,
+        "num": 453479,
+        "word": "央视曝徐州农田边黑水直流",
+        "onboard_time": 1778166083,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 856620,
+        "num": 449992,
+        "word": "男童凌晨4点抱被子街头哭泣独行",
+        "onboard_time": 1778163384,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826749,
+        "num": 446868,
+        "word": "李现张婧仪吻戏",
+        "onboard_time": 1778163204,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 810442,
+        "num": 440538,
+        "word": "薛之谦点赞了和刘维的合照",
+        "onboard_time": 1778159421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439812,
+        "num": 439812,
+        "word": "印尼惊现罕见的彩虹云刷爆全网",
+        "onboard_time": 1778151440,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 661272,
+        "num": 436888,
+        "word": "迪丽热巴手臂上还有疫苗印",
+        "onboard_time": 1778155162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517919,
+        "num": 425021,
+        "word": "宁艺卓到韩国第二天就和SM签约",
+        "onboard_time": 1778161702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405301,
+        "num": 405301,
+        "word": "孙亚龙 dys变天",
+        "onboard_time": 1778159662,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 463538,
+        "num": 402955,
+        "word": "喀什恋歌大结局",
+        "onboard_time": 1778158222,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378024,
+        "num": 378024,
+        "word": "演员最好的固粉手段",
+        "onboard_time": 1778155341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310703,
+        "num": 310703,
+        "word": "小区531户仅25户交物业费业主发声",
+        "onboard_time": 1778158762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293613,
+        "num": 293613,
+        "word": "日本男团3比1德国男团",
+        "onboard_time": 1778165063,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282138,
+        "num": 282138,
+        "word": "演唱会卫生间配了卫生巾的明星",
+        "onboard_time": 1778152821,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280091,
+        "num": 280091,
+        "word": "孙颖莎连得10分逆转取胜",
+        "onboard_time": 1778163204,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255182,
+        "num": 255182,
+        "word": "无畏契约手游 王俊凯",
+        "onboard_time": 1778160922,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 251715,
+        "num": 251715,
+        "word": "朴秀荣Crush晒照秀恩爱",
+        "onboard_time": 1778162063,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231466,
+        "num": 231466,
+        "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
+        "onboard_time": 1778164164,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202558,
+        "num": 202558,
+        "word": "淘宝免单",
+        "onboard_time": 1778123660,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101332,
+        "num": 202419,
+        "word": "华为MatePadProMax海外首发",
+        "onboard_time": 1778159483,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97313,
+        "num": 201282,
+        "word": "微信未读语音消息变灰",
+        "onboard_time": 1778166202,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48496,
+        "num": 201107,
+        "word": "曝苹果高价买芯",
+        "onboard_time": 1778163503,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386009,
+        "num": 200219,
+        "word": "Kid回应合同",
+        "onboard_time": 1778164883,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228347,
+        "num": 199317,
+        "word": "Jisoo晒blackpink四人合照",
+        "onboard_time": 1778150000,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213654,
+        "num": 198658,
+        "word": "西卡退休",
+        "onboard_time": 1778163503,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213229,
+        "num": 198464,
+        "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+        "onboard_time": 1778152161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197941,
+        "num": 197941,
+        "word": "白鹿卢昱晓 抖音下沉市场",
+        "onboard_time": 1778136380,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197575,
+        "num": 197575,
+        "word": "JieJie 活着",
+        "onboard_time": 1778160862,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195128,
+        "num": 195128,
+        "word": "张凌赫凭一己之力带火横店烤肉",
+        "onboard_time": 1778163263,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192352,
+        "num": 192352,
+        "word": "李雪琴徐志胜说孟子义现在太红了",
+        "onboard_time": 1778152640,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177149,
+        "num": 177149,
+        "word": "户上隼辅1比3弗朗西斯卡",
+        "onboard_time": 1778163802,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182321,
+        "num": 176637,
+        "word": "王嘉尔吃垃圾食品食物中毒",
+        "onboard_time": 1778150300,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 175663,
+        "word": "魏凤和案李尚福案一审宣判",
+        "onboard_time": 1778148441,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168994,
+        "num": 168994,
+        "word": "低智商犯罪",
+        "onboard_time": 1778152040,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165731,
+        "num": 165731,
+        "word": "孙颖莎Bestplayer",
+        "onboard_time": 1778159301,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153569,
+        "num": 153569,
+        "word": "傅首尔回应被说瘦了像杨紫",
+        "onboard_time": 1778141841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153455,
+        "num": 153455,
+        "word": "虞书欣洛杉矶GOLDGALA",
+        "onboard_time": 1778153600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148730,
+        "num": 148730,
+        "word": "尘白禁区",
+        "onboard_time": 1778159483,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141345,
+        "num": 141345,
+        "word": "皇马内讧",
+        "onboard_time": 1778166683,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136574,
+        "num": 136574,
+        "word": "桃花坞11个新人6个综艺首秀",
+        "onboard_time": 1778158823,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128680,
+        "num": 128680,
+        "word": "男子被毒蛇咬后打死蛇就医",
+        "onboard_time": 1778146522,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105974,
+        "num": 128662,
+        "word": "伊朗总统和最高领袖会面",
+        "onboard_time": 1778152281,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的调研之道#"
+    }
+  }
+}
