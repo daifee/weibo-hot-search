@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778111912949,
+  "endTime": 1778112740470,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1224468,
+      "num": 1224468,
+      "word": "暴发致命病毒邮轮或出现人传人现象",
+      "onboard_time": 1778081542,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1221295,
       "num": 1221295,
       "word": "山姆回应多名顾客拿袋子装免费酱料",
@@ -747,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1048375,
-      "num": 1142896,
-      "word": "暴发致命病毒邮轮或出现人传人现象",
-      "onboard_time": 1778081542,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1047082,
       "num": 1047082,
       "word": "国乒急需下一个樊振东王楚钦",
@@ -785,6 +785,14 @@
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 996898,
+      "num": 318111,
+      "word": "国际足联可能已经慌了",
+      "onboard_time": 1778108958,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 996498,
@@ -915,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 882568,
-      "num": 288375,
-      "word": "国际足联可能已经慌了",
-      "onboard_time": 1778108958,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 869891,
       "num": 618270,
       "word": "外地车误入夜市被堆满垃圾掰断车牌",
@@ -993,6 +993,14 @@
       "onboard_time": 1778056822,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 833338,
+      "num": 881788,
+      "word": "高市早苗下跪看清日本丑恶嘴脸",
+      "onboard_time": 1778109138,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 830768,
@@ -1235,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 713953,
+      "num": 318101,
+      "word": "男助产士撞脸张凌赫孕妈变迷妹",
+      "onboard_time": 1778103375,
+      "rank": 15,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 711135,
       "num": 1163820,
       "word": "合肥市委书记费高云被查",
@@ -1459,12 +1475,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 644580,
-      "num": 824502,
-      "word": "高市早苗下跪看清日本丑恶嘴脸",
-      "onboard_time": 1778109138,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 651338,
+      "num": 318100,
+      "word": "有人给TOP买了五个防毒面具",
+      "onboard_time": 1778109077,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 641673,
@@ -1603,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 607535,
-      "num": 286875,
-      "word": "男助产士撞脸张凌赫孕妈变迷妹",
-      "onboard_time": 1778103375,
-      "rank": 15,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 605094,
       "num": 605094,
       "word": "严浩翔 爱一个人需要另一个人",
@@ -1652,7 +1660,7 @@
     },
     {
       "raw_hot": 585875,
-      "num": 284825,
+      "num": 317735,
       "word": "张杰谢娜小说都不敢写的地步",
       "onboard_time": 1778109077,
       "rank": 11,
@@ -1851,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529039,
+      "num": 317946,
+      "word": "林志玲和老公因语言不通感情升温",
+      "onboard_time": 1778111119,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528270,
       "num": 585655,
       "word": "国乒男团进世乒赛8强",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1777890860,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 507348,
-      "num": 282143,
-      "word": "有人给TOP买了五个防毒面具",
-      "onboard_time": 1778109077,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 507318,
@@ -2187,6 +2195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 464712,
+      "num": 464712,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 464279,
       "num": 804833,
       "word": "被批擦边npc互动改为送簪花",
@@ -2315,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 441459,
+      "num": 317574,
+      "word": "4只皮皮虾1035元涉事海鲜店回应",
+      "onboard_time": 1778109738,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441446,
       "num": 423292,
       "word": "肖战十日终焉剧组请客了",
@@ -2363,20 +2387,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 431413,
+      "num": 328428,
+      "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+      "onboard_time": 1778081302,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428901,
       "num": 428901,
       "word": "张继科说国乒男队技术迭代不足",
       "onboard_time": 1777805842,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427371,
-      "num": 328428,
-      "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
-      "onboard_time": 1778081302,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426191,
@@ -2587,14 +2611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 399801,
-      "num": 399801,
-      "word": "有AI真好 放以前没十几亿下不来",
-      "onboard_time": 1778075782,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 399731,
       "num": 399731,
       "word": "男子10岁溺水导致无精症无法生育",
@@ -2763,6 +2779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 379927,
+      "num": 316719,
+      "word": "你以为是常识的冷知识",
+      "onboard_time": 1778110158,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 377781,
       "num": 377781,
       "word": "曝张凌赫加盟跑男第15季",
@@ -2833,14 +2857,6 @@
       "onboard_time": 1777790422,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368413,
-      "num": 246502,
-      "word": "4只皮皮虾1035元涉事海鲜店回应",
-      "onboard_time": 1778109738,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368293,
@@ -3193,6 +3209,14 @@
       "onboard_time": 1778072901,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327904,
+      "num": 327904,
+      "word": "医生称钙片不用买太贵的",
+      "onboard_time": 1778110098,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327420,
@@ -3595,14 +3619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298992,
-      "num": 241609,
-      "word": "你以为是常识的冷知识",
-      "onboard_time": 1778110158,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 298837,
       "num": 425953,
       "word": "G社宁艺卓metgala生图",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1777873040,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296510,
+      "num": 296510,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295827,
@@ -3723,14 +3747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 288783,
-      "num": 238744,
-      "word": "林志玲和老公因语言不通感情升温",
-      "onboard_time": 1778111119,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288307,
       "num": 491028,
       "word": "卧室巨星",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1778058082,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282107,
-      "num": 282107,
-      "word": "医生称钙片不用买太贵的",
-      "onboard_time": 1778110098,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 278400,
@@ -3921,6 +3929,14 @@
       "onboard_time": 1778074102,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268637,
+      "num": 317269,
+      "word": "英伟达宣布与康宁建立长期合作关系",
+      "onboard_time": 1778110158,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 268506,
@@ -4099,14 +4115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251649,
-      "num": 251649,
-      "word": "英伟达宣布与康宁建立长期合作关系",
-      "onboard_time": 1778110158,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 251417,
       "num": 251417,
       "word": "曝章若楠常驻跑男",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1777796839,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243552,
+      "num": 243552,
+      "word": "卢昱晓把刀拿反了",
+      "onboard_time": 1778100134,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 243332,
@@ -4369,14 +4385,6 @@
       "onboard_time": 1777985002,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232168,
-      "num": 232168,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232082,
@@ -4811,6 +4819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209461,
+      "num": 209461,
+      "word": "中国球迷力挺央视",
+      "onboard_time": 1778109679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208985,
       "num": 208985,
       "word": "国产千万级超跑秒售罄",
@@ -5033,6 +5049,14 @@
       "onboard_time": 1777804283,
       "rank": 27,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 195838,
+      "num": 195838,
+      "word": "谢娜说演唱会没有遗憾了",
+      "onboard_time": 1778111478,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 195639,
@@ -5315,14 +5339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183138,
-      "num": 183138,
-      "word": "卢昱晓把刀拿反了",
-      "onboard_time": 1778100134,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -5337,14 +5353,6 @@
       "onboard_time": 1777958062,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 182555,
-      "num": 182555,
-      "word": "谢娜说演唱会没有遗憾了",
-      "onboard_time": 1778111478,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 181542,
@@ -5481,6 +5489,14 @@
       "onboard_time": 1778021776,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175588,
+      "num": 175588,
+      "word": "国家队领投DeepSeek首轮融资",
+      "onboard_time": 1778111839,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 175276,
@@ -5787,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161301,
+      "num": 161301,
+      "word": "拜仁慕尼黑1比1巴黎圣日耳曼",
+      "onboard_time": 1778111119,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161237,
       "num": 283142,
       "word": "陈凯琳带三个娃都没这么难这么累",
@@ -6075,11 +6099,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 151868,
-      "num": 151868,
-      "word": "中国球迷力挺央视",
-      "onboard_time": 1778109679,
-      "rank": 32,
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "FIFA涨价理由",
+      "onboard_time": 1778109617,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -6219,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144655,
+      "num": 144655,
+      "word": "巴黎连续两年晋级欧冠决赛",
+      "onboard_time": 1778112139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144522,
       "num": 112088,
       "word": "2026斯诺克世锦赛",
@@ -6281,6 +6313,14 @@
       "onboard_time": 1777833855,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139165,
+      "num": 139165,
+      "word": "妈妈真的把自己养的很好",
+      "onboard_time": 1778111720,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 138921,
@@ -6635,6 +6675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125717,
+      "num": 125717,
+      "word": "瑞士发现1例汉坦病毒感染病例",
+      "onboard_time": 1778109257,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125539,
       "num": 244347,
       "word": "尤杯国羽1比1韩国",
@@ -6707,6 +6755,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 123589,
+      "num": 123589,
+      "word": "油价暴跌超10%",
+      "onboard_time": 1778112381,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123253,
       "num": 240395,
       "word": "35岁男子反复口腔溃疡查出舌鳞癌",
@@ -6761,6 +6817,14 @@
       "onboard_time": 1777859299,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121789,
+      "num": 121789,
+      "word": "大陆台资企业严禁任何资源支持台独",
+      "onboard_time": 1778109199,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121305,
@@ -6859,14 +6923,6 @@
       "category": "网红,体育"
     },
     {
-      "raw_hot": 118635,
-      "num": 118635,
-      "word": "FIFA涨价理由",
-      "onboard_time": 1778109617,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118566,
       "num": 247833,
       "word": "王楚钦林诗栋梁靖崑开门红",
@@ -6921,6 +6977,14 @@
       "onboard_time": 1777796600,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117422,
+      "num": 117422,
+      "word": "EXO ai篡改记忆",
+      "onboard_time": 1778112622,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 117320,
@@ -7035,6 +7099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110981,
+      "num": 1011719,
+      "word": "来中国玩的外国人更多了",
+      "onboard_time": 1778071823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110451,
       "num": 110451,
       "word": "突然顿悟了文人为何偏爱竹",
@@ -7057,14 +7129,6 @@
       "onboard_time": 1777908202,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109952,
-      "num": 109952,
-      "word": "国家队领投DeepSeek首轮融资",
-      "onboard_time": 1778111839,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 108888,
@@ -7187,14 +7251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101413,
-      "num": 101413,
-      "word": "瑞士发现1例汉坦病毒感染病例",
-      "onboard_time": 1778109257,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 100479,
       "num": 233574,
       "word": "顾客用烧烤签喂食宠物狗店主致歉",
@@ -7241,14 +7297,6 @@
       "onboard_time": 1777940059,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99124,
-      "num": 1011719,
-      "word": "来中国玩的外国人更多了",
-      "onboard_time": 1778071823,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98714,
@@ -7353,14 +7401,6 @@
       "onboard_time": 1777811421,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93853,
-      "num": 93853,
-      "word": "大陆台资企业严禁任何资源支持台独",
-      "onboard_time": 1778109199,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91612,
@@ -7521,14 +7561,6 @@
       "onboard_time": 1777905804,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77923,
-      "num": 93800,
-      "word": "妈妈真的把自己养的很好",
-      "onboard_time": 1778111720,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 77867,

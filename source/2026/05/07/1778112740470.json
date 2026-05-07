@@ -1,0 +1,410 @@
+{
+  "runTime": 1778112740470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224468,
+        "num": 1224468,
+        "word": "暴发致命病毒邮轮或出现人传人现象",
+        "onboard_time": 1778081542,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 833338,
+        "num": 881788,
+        "word": "高市早苗下跪看清日本丑恶嘴脸",
+        "onboard_time": 1778109138,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110981,
+        "num": 714627,
+        "word": "来中国玩的外国人更多了",
+        "onboard_time": 1778071823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1431497,
+        "num": 712216,
+        "word": "白鹿跑男争议 内娱综艺审美巨变",
+        "onboard_time": 1778061201,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464712,
+        "num": 464712,
+        "word": "有AI真好 放以前没十几亿下不来",
+        "onboard_time": 1778075782,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383418,
+        "num": 383418,
+        "word": "解除台独刘世芳亲属全部职务",
+        "onboard_time": 1778076022,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365480,
+        "num": 365480,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1778094255,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327904,
+        "num": 327904,
+        "word": "医生称钙片不用买太贵的",
+        "onboard_time": 1778110098,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323396,
+        "num": 323396,
+        "word": "花少8最新阵容",
+        "onboard_time": 1778066901,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318135,
+        "num": 318135,
+        "word": "为什么户外千万不要穿迷彩",
+        "onboard_time": 1778066481,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 996898,
+        "num": 318111,
+        "word": "国际足联可能已经慌了",
+        "onboard_time": 1778108958,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713953,
+        "num": 318101,
+        "word": "男助产士撞脸张凌赫孕妈变迷妹",
+        "onboard_time": 1778103375,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 651338,
+        "num": 318100,
+        "word": "有人给TOP买了五个防毒面具",
+        "onboard_time": 1778109077,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318075,
+        "num": 318075,
+        "word": "网友曝三亚4只皮皮虾收费1035元",
+        "onboard_time": 1778075243,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529039,
+        "num": 317946,
+        "word": "林志玲和老公因语言不通感情升温",
+        "onboard_time": 1778111119,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510815,
+        "num": 317735,
+        "word": "张杰谢娜小说都不敢写的地步",
+        "onboard_time": 1778109077,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441459,
+        "num": 317574,
+        "word": "4只皮皮虾1035元涉事海鲜店回应",
+        "onboard_time": 1778109738,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431413,
+        "num": 317294,
+        "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
+        "onboard_time": 1778081302,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268637,
+        "num": 317269,
+        "word": "英伟达宣布与康宁建立长期合作关系",
+        "onboard_time": 1778110158,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131491,
+        "num": 316990,
+        "word": "三星",
+        "onboard_time": 1778069662,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379927,
+        "num": 316719,
+        "word": "你以为是常识的冷知识",
+        "onboard_time": 1778110158,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 349693,
+        "num": 316597,
+        "word": "世界杯中国赞助商投入超5亿美元",
+        "onboard_time": 1778078963,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322798,
+        "num": 316377,
+        "word": "新人结婚被丢高速口路过宾利变婚车",
+        "onboard_time": 1778070082,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316307,
+        "num": 316307,
+        "word": "EXO King",
+        "onboard_time": 1778074102,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296510,
+        "num": 296510,
+        "word": "绥化2名失联女孩遗体已送至殡仪馆",
+        "onboard_time": 1778086637,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243552,
+        "num": 243552,
+        "word": "卢昱晓把刀拿反了",
+        "onboard_time": 1778100134,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209461,
+        "num": 209461,
+        "word": "中国球迷力挺央视",
+        "onboard_time": 1778109679,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195838,
+        "num": 195838,
+        "word": "谢娜说演唱会没有遗憾了",
+        "onboard_time": 1778111478,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192959,
+        "num": 192959,
+        "word": "主角OST请来了王菲",
+        "onboard_time": 1778080761,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191457,
+        "num": 191457,
+        "word": "红山动物园我将继续拥护你",
+        "onboard_time": 1778083221,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178388,
+        "num": 178388,
+        "word": "何炅躲过了所有路透",
+        "onboard_time": 1778073323,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175588,
+        "num": 175588,
+        "word": "国家队领投DeepSeek首轮融资",
+        "onboard_time": 1778111839,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161301,
+        "num": 161301,
+        "word": "拜仁慕尼黑1比1巴黎圣日耳曼",
+        "onboard_time": 1778111119,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157570,
+        "num": 157570,
+        "word": "孟子义一手抓绳一手护着白鹿",
+        "onboard_time": 1778073923,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156057,
+        "num": 156057,
+        "word": "钟薛高破产后508件资产207万起拍",
+        "onboard_time": 1778078303,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156050,
+        "num": 156050,
+        "word": "河北两女子长得一模一样孩子认错妈",
+        "onboard_time": 1778078603,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 151541,
+        "word": "FIFA涨价理由",
+        "onboard_time": 1778109617,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 149611,
+        "word": "欧冠决赛巴黎对阵阿森纳",
+        "onboard_time": 1778110939,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144655,
+        "num": 144655,
+        "word": "巴黎连续两年晋级欧冠决赛",
+        "onboard_time": 1778112139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139165,
+        "num": 139165,
+        "word": "妈妈真的把自己养的很好",
+        "onboard_time": 1778111720,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130884,
+        "num": 130884,
+        "word": "中国女子在西班牙被刺身亡",
+        "onboard_time": 1778073323,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "王骁演技",
+        "onboard_time": 1778079682,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125717,
+        "num": 125717,
+        "word": "瑞士发现1例汉坦病毒感染病例",
+        "onboard_time": 1778109257,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123589,
+        "num": 123589,
+        "word": "油价暴跌超10%",
+        "onboard_time": 1778112381,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121789,
+        "num": 121789,
+        "word": "大陆台资企业严禁任何资源支持台独",
+        "onboard_time": 1778109199,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117646,
+        "num": 117646,
+        "word": "中国强硬拒绝世界杯天价转播费",
+        "onboard_time": 1778061799,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117422,
+        "num": 117422,
+        "word": "EXO ai篡改记忆",
+        "onboard_time": 1778112622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117168,
+        "num": 117168,
+        "word": "爸爸的沉默比任何骂都让人后怕",
+        "onboard_time": 1778109199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104961,
+        "num": 104961,
+        "word": "星空卫视下星",
+        "onboard_time": 1778099233,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42823,
+        "num": 99141,
+        "word": "淘宝免单从拼智商到拼审美了",
+        "onboard_time": 1778074401,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#青年习近平的人生课堂#"
+    }
+  }
+}

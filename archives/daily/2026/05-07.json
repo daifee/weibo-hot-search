@@ -1,46 +1,54 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778111912949,
+  "endTime": 1778112740470,
   "band_list": [
     {
       "raw_hot": 1462127,
-      "num": 584433,
+      "num": 712216,
       "word": "白鹿跑男争议 内娱综艺审美巨变",
       "onboard_time": 1778061201,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 1048375,
-      "num": 1142896,
+      "raw_hot": 1224468,
+      "num": 1224468,
       "word": "暴发致命病毒邮轮或出现人传人现象",
       "onboard_time": 1778081542,
       "rank": 1,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 882568,
-      "num": 288375,
+      "raw_hot": 996898,
+      "num": 318111,
       "word": "国际足联可能已经慌了",
       "onboard_time": 1778108958,
       "rank": 20,
       "category": "体育"
     },
     {
-      "raw_hot": 644580,
-      "num": 824502,
+      "raw_hot": 833338,
+      "num": 881788,
       "word": "高市早苗下跪看清日本丑恶嘴脸",
       "onboard_time": 1778109138,
       "rank": 14,
       "category": "国际时政"
     },
     {
-      "raw_hot": 607535,
-      "num": 286875,
+      "raw_hot": 713953,
+      "num": 318101,
       "word": "男助产士撞脸张凌赫孕妈变迷妹",
       "onboard_time": 1778103375,
       "rank": 15,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 651338,
+      "num": 318100,
+      "word": "有人给TOP买了五个防毒面具",
+      "onboard_time": 1778109077,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 593244,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 585875,
-      "num": 284825,
+      "num": 317735,
       "word": "张杰谢娜小说都不敢写的地步",
       "onboard_time": 1778109077,
       "rank": 11,
@@ -67,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529039,
+      "num": 317946,
+      "word": "林志玲和老公因语言不通感情升温",
+      "onboard_time": 1778111119,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522995,
       "num": 546302,
       "word": "伦敦世乒赛团体赛",
       "onboard_time": 1778094255,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 507348,
-      "num": 282143,
-      "word": "有人给TOP买了五个防毒面具",
-      "onboard_time": 1778109077,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 480618,
@@ -99,7 +107,23 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 427371,
+      "raw_hot": 464712,
+      "num": 464712,
+      "word": "有AI真好 放以前没十几亿下不来",
+      "onboard_time": 1778075782,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 441459,
+      "num": 317574,
+      "word": "4只皮皮虾1035元涉事海鲜店回应",
+      "onboard_time": 1778109738,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431413,
       "num": 328428,
       "word": "婴儿被生父照顾10分钟离奇窒息脑瘫",
       "onboard_time": 1778081302,
@@ -115,14 +139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399801,
-      "num": 399801,
-      "word": "有AI真好 放以前没十几亿下不来",
-      "onboard_time": 1778075782,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 390410,
       "num": 390410,
       "word": "解除台独刘世芳亲属全部职务",
@@ -131,19 +147,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 379927,
+      "num": 316719,
+      "word": "你以为是常识的冷知识",
+      "onboard_time": 1778110158,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 369694,
       "num": 369694,
       "word": "网友曝三亚4只皮皮虾收费1035元",
       "onboard_time": 1778075243,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368413,
-      "num": 246502,
-      "word": "4只皮皮虾1035元涉事海鲜店回应",
-      "onboard_time": 1778109738,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -171,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327904,
+      "num": 327904,
+      "word": "医生称钙片不用买太贵的",
+      "onboard_time": 1778110098,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305860,
       "num": 305860,
       "word": "主角OST请来了王菲",
@@ -179,28 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298992,
-      "num": 241609,
-      "word": "你以为是常识的冷知识",
+      "raw_hot": 296510,
+      "num": 296510,
+      "word": "绥化2名失联女孩遗体已送至殡仪馆",
+      "onboard_time": 1778086637,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268637,
+      "num": 317269,
+      "word": "英伟达宣布与康宁建立长期合作关系",
       "onboard_time": 1778110158,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 288783,
-      "num": 238744,
-      "word": "林志玲和老公因语言不通感情升温",
-      "onboard_time": 1778111119,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 282107,
-      "num": 282107,
-      "word": "医生称钙片不用买太贵的",
-      "onboard_time": 1778110098,
-      "rank": 14,
-      "category": "健康医疗"
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 258091,
@@ -211,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251649,
-      "num": 251649,
-      "word": "英伟达宣布与康宁建立长期合作关系",
-      "onboard_time": 1778110158,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 243657,
       "num": 243657,
       "word": "何炅躲过了所有路透",
@@ -227,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232168,
-      "num": 232168,
-      "word": "绥化2名失联女孩遗体已送至殡仪馆",
-      "onboard_time": 1778086637,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 243552,
+      "num": 243552,
+      "word": "卢昱晓把刀拿反了",
+      "onboard_time": 1778100134,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 222145,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209461,
+      "num": 209461,
+      "word": "中国球迷力挺央视",
+      "onboard_time": 1778109679,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196294,
       "num": 196294,
       "word": "火到欧美的韩国棒球女神是AI生成",
@@ -259,16 +275,8 @@
       "category": "海外新闻,互联网"
     },
     {
-      "raw_hot": 183138,
-      "num": 183138,
-      "word": "卢昱晓把刀拿反了",
-      "onboard_time": 1778100134,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182555,
-      "num": 182555,
+      "raw_hot": 195838,
+      "num": 195838,
       "word": "谢娜说演唱会没有遗憾了",
       "onboard_time": 1778111478,
       "rank": 29,
@@ -281,6 +289,14 @@
       "onboard_time": 1778078603,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 175588,
+      "num": 175588,
+      "word": "国家队领投DeepSeek首轮融资",
+      "onboard_time": 1778111839,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 174360,
@@ -331,11 +347,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151868,
-      "num": 151868,
-      "word": "中国球迷力挺央视",
-      "onboard_time": 1778109679,
+      "raw_hot": 161301,
+      "num": 161301,
+      "word": "拜仁慕尼黑1比1巴黎圣日耳曼",
+      "onboard_time": 1778111119,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "FIFA涨价理由",
+      "onboard_time": 1778109617,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144655,
+      "num": 144655,
+      "word": "巴黎连续两年晋级欧冠决赛",
+      "onboard_time": 1778112139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140327,
       "num": 140327,
       "word": "中国女子在西班牙被刺身亡",
@@ -364,11 +396,19 @@
     },
     {
       "raw_hot": 140268,
-      "num": 248635,
+      "num": 316990,
       "word": "三星",
       "onboard_time": 1778069662,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139165,
+      "num": 139165,
+      "word": "妈妈真的把自己养的很好",
+      "onboard_time": 1778111720,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 133020,
@@ -395,12 +435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125717,
+      "num": 125717,
+      "word": "瑞士发现1例汉坦病毒感染病例",
+      "onboard_time": 1778109257,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124219,
       "num": 124219,
       "word": "林心如回应找霍建华客串新剧",
       "onboard_time": 1778083460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123589,
+      "num": 123589,
+      "word": "油价暴跌超10%",
+      "onboard_time": 1778112381,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 121789,
+      "num": 121789,
+      "word": "大陆台资企业严禁任何资源支持台独",
+      "onboard_time": 1778109199,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121543,
@@ -427,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118635,
-      "num": 118635,
-      "word": "FIFA涨价理由",
-      "onboard_time": 1778109617,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 117422,
+      "num": 117422,
+      "word": "EXO ai篡改记忆",
+      "onboard_time": 1778112622,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 111097,
@@ -443,6 +507,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 110981,
+      "num": 714627,
+      "word": "来中国玩的外国人更多了",
+      "onboard_time": 1778071823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110209,
       "num": 110209,
       "word": "韩汶栩与女友手牵手在老家逛街",
@@ -451,36 +523,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 109952,
-      "num": 109952,
-      "word": "国家队领投DeepSeek首轮融资",
-      "onboard_time": 1778111839,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 108557,
       "num": 114398,
       "word": "王楚钦这一分全体起立",
       "onboard_time": 1778066720,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101413,
-      "num": 101413,
-      "word": "瑞士发现1例汉坦病毒感染病例",
-      "onboard_time": 1778109257,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 98148,
-      "num": 637685,
-      "word": "来中国玩的外国人更多了",
-      "onboard_time": 1778071823,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97858,
@@ -505,14 +553,6 @@
       "onboard_time": 1778065882,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93853,
-      "num": 93853,
-      "word": "大陆台资企业严禁任何资源支持台独",
-      "onboard_time": 1778109199,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91028,
@@ -545,14 +585,6 @@
       "onboard_time": 1778061141,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 77923,
-      "num": 93800,
-      "word": "妈妈真的把自己养的很好",
-      "onboard_time": 1778111720,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 77687,
@@ -675,8 +707,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39648,
-      "num": 93537,
+      "raw_hot": 42823,
+      "num": 99141,
       "word": "淘宝免单从拼智商到拼审美了",
       "onboard_time": 1778074401,
       "rank": 42,
