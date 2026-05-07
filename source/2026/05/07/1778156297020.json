@@ -1,0 +1,410 @@
+{
+  "runTime": 1778156297020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796131,
+        "num": 1127381,
+        "word": "魏凤和案李尚福案一审宣判",
+        "onboard_time": 1778148441,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 793599,
+        "num": 819582,
+        "word": "日本街头疑现芬太尼丧尸",
+        "onboard_time": 1778145562,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30760,
+        "num": 633686,
+        "word": "大国重器硬核升级",
+        "onboard_time": 1778138540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 833636,
+        "num": 587980,
+        "word": "当你意识到自己无法升职时",
+        "onboard_time": 1778151261,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501305,
+        "num": 501305,
+        "word": "李雪琴徐志胜说孟子义现在太红了",
+        "onboard_time": 1778152640,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486143,
+        "num": 486143,
+        "word": "以为晾衣服偏心是很小众的事",
+        "onboard_time": 1778142681,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460502,
+        "num": 460502,
+        "word": "孙颖莎3比2金娜英",
+        "onboard_time": 1778149881,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311598,
+        "num": 311598,
+        "word": "低智商犯罪",
+        "onboard_time": 1778152040,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310464,
+        "num": 310464,
+        "word": "淘宝免单",
+        "onboard_time": 1778123660,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285829,
+        "num": 285829,
+        "word": "全李酒店已更名",
+        "onboard_time": 1778141540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560428,
+        "num": 284917,
+        "word": "迪丽热巴手臂上还有疫苗印",
+        "onboard_time": 1778155162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470075,
+        "num": 284250,
+        "word": "傅首尔回应被说瘦了像杨紫",
+        "onboard_time": 1778141841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460657,
+        "num": 283794,
+        "word": "印尼惊现罕见的彩虹云刷爆全网",
+        "onboard_time": 1778151440,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280998,
+        "num": 280998,
+        "word": "五一买24件衣服全退光店主心态崩了",
+        "onboard_time": 1778124560,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449159,
+        "num": 277673,
+        "word": "王嘉尔吃垃圾食品食物中毒",
+        "onboard_time": 1778150300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429339,
+        "num": 276755,
+        "word": "Jisoo晒blackpink四人合照",
+        "onboard_time": 1778150000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265551,
+        "num": 265551,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1778146040,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351783,
+        "num": 265171,
+        "word": "马頔是我们没有辅佐好",
+        "onboard_time": 1778145500,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196662,
+        "num": 263640,
+        "word": "国乒男团上训备战韩国",
+        "onboard_time": 1778155222,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33531,
+        "num": 260619,
+        "word": "豪华邮轮疫情已致8人感染3人死亡",
+        "onboard_time": 1778155282,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405233,
+        "num": 259501,
+        "word": "白鹿卢昱晓 抖音下沉市场",
+        "onboard_time": 1778136380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80439,
+        "num": 257657,
+        "word": "国乒女团进半决赛",
+        "onboard_time": 1778154920,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424107,
+        "num": 255299,
+        "word": "银行已支付一储户1000万本金利息",
+        "onboard_time": 1778143342,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254991,
+        "num": 254991,
+        "word": "虞书欣洛杉矶GOLDGALA",
+        "onboard_time": 1778153600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252699,
+        "num": 252699,
+        "word": "重庆市公安局局长张安疆不幸离世",
+        "onboard_time": 1778155881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246446,
+        "num": 246446,
+        "word": "被银行员工转走的1800万已全部返还",
+        "onboard_time": 1778153362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240847,
+        "num": 240847,
+        "word": "孙杨张豆豆给我看力竭了",
+        "onboard_time": 1778131280,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232859,
+        "num": 232859,
+        "word": "1岁半女婴私处发育异常险变男孩",
+        "onboard_time": 1778142263,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230999,
+        "num": 230999,
+        "word": "伊朗总统和最高领袖会面",
+        "onboard_time": 1778152281,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218296,
+        "num": 218296,
+        "word": "演唱会卫生间配了卫生巾的明星",
+        "onboard_time": 1778152821,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217194,
+        "num": 217194,
+        "word": "新物种广西两头蛇被发现",
+        "onboard_time": 1778139620,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229527,
+        "num": 213378,
+        "word": "韩国教练冲孙颖莎连连点头",
+        "onboard_time": 1778154139,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15206,
+        "num": 201521,
+        "word": "中方回应中美元首会晤首要关切议题",
+        "onboard_time": 1778156120,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218198,
+        "num": 201286,
+        "word": "男子被毒蛇咬后打死蛇就医",
+        "onboard_time": 1778146522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200455,
+        "num": 200455,
+        "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+        "onboard_time": 1778152161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196230,
+        "num": 196230,
+        "word": "时代少年团辟谣明年单飞",
+        "onboard_time": 1778154562,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189207,
+        "num": 189207,
+        "word": "SEVENTEEN下半年入伍",
+        "onboard_time": 1778152640,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183405,
+        "num": 183405,
+        "word": "八千多的手机拍照也不行啊",
+        "onboard_time": 1778156000,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92287,
+        "num": 183133,
+        "word": "申裕斌光捡球了",
+        "onboard_time": 1778155282,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28600,
+        "num": 182979,
+        "word": "西贝回应十年老店关闭",
+        "onboard_time": 1778155282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182970,
+        "num": 182970,
+        "word": "国乒女团3比0韩国女团",
+        "onboard_time": 1778153240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174906,
+        "num": 174906,
+        "word": "郑钦文vs布克沙",
+        "onboard_time": 1778148141,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173825,
+        "num": 173825,
+        "word": "魏凤和李尚福死缓",
+        "onboard_time": 1778148740,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171248,
+        "num": 171248,
+        "word": "峨眉山景区通报男子猛推猴子",
+        "onboard_time": 1778147781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132752,
+        "num": 164517,
+        "word": "伊朗最高领袖定调霍尔木兹",
+        "onboard_time": 1778154741,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161816,
+        "num": 161816,
+        "word": "Faker开自定义给自己庆生",
+        "onboard_time": 1778145562,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157633,
+        "num": 157633,
+        "word": "贵州蘸水",
+        "onboard_time": 1778156240,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153066,
+        "num": 153066,
+        "word": "贺峻霖的神级ID",
+        "onboard_time": 1778150361,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142965,
+        "num": 152720,
+        "word": "谢娜演唱会卫生间配了卫生巾",
+        "onboard_time": 1778131101,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157518,
+        "num": 151845,
+        "word": "要当心韩餐店里的这种凳子",
+        "onboard_time": 1778156182,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年的爱护与期待#"
+    }
+  }
+}
