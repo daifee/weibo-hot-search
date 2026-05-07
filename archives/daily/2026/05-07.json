@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778146906550,
+  "endTime": 1778148129831,
   "band_list": [
     {
       "raw_hot": 21061847,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3656714,
-      "num": 658439,
+      "num": 835247,
       "word": "跑男 只允许不喜欢郑恺李晨",
       "onboard_time": 1778144240,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 933905,
+      "num": 1167673,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1778146040,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 835822,
       "num": 889910,
       "word": "全李酒店已更名",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 654658,
+      "num": 654658,
+      "word": "银行已支付一储户1000万本金利息",
+      "onboard_time": 1778143342,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652206,
       "num": 652206,
       "word": "买衣服一定要穿最好看的那套去逛街",
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593105,
+      "num": 593105,
+      "word": "歌手2026",
+      "onboard_time": 1778145681,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585875,
       "num": 317735,
       "word": "张杰谢娜小说都不敢写的地步",
@@ -233,6 +257,14 @@
       "onboard_time": 1778070082,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559506,
+      "num": 422950,
+      "word": "傅首尔回应被说瘦了像杨紫",
+      "onboard_time": 1778141841,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 556951,
@@ -283,6 +315,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502474,
+      "num": 438686,
+      "word": "新物种广西两头蛇被发现",
+      "onboard_time": 1778139620,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499165,
+      "num": 420085,
+      "word": "白鹿晒手搓眼线",
+      "onboard_time": 1778147181,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494612,
       "num": 494612,
       "word": "全村老人已读乱回火了",
@@ -323,44 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 465724,
-      "num": 465724,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1778146040,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464712,
       "num": 464712,
       "word": "有AI真好 放以前没十几亿下不来",
       "onboard_time": 1778075782,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 457531,
-      "num": 420935,
-      "word": "傅首尔回应被说瘦了像杨紫",
-      "onboard_time": 1778141841,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 457292,
-      "num": 438686,
-      "word": "新物种广西两头蛇被发现",
-      "onboard_time": 1778139620,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 453572,
-      "num": 453572,
-      "word": "歌手2026",
-      "onboard_time": 1778145681,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 441459,
@@ -387,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432448,
+      "num": 432448,
+      "word": "以为晾衣服偏心是很小众的事",
+      "onboard_time": 1778142681,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432076,
       "num": 432076,
       "word": "三问享界S9零重力座椅夹人事件",
       "onboard_time": 1778140040,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 431900,
+      "num": 417242,
+      "word": "马頔是我们没有辅佐好",
+      "onboard_time": 1778145500,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 431413,
@@ -419,20 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417845,
+      "num": 417845,
+      "word": "日本街头疑现芬太尼丧尸",
+      "onboard_time": 1778145562,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 416231,
+      "num": 416231,
+      "word": "Faker开自定义给自己庆生",
+      "onboard_time": 1778145562,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390410,
       "num": 390410,
       "word": "解除台独刘世芳亲属全部职务",
       "onboard_time": 1778076022,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 389839,
-      "num": 389839,
-      "word": "银行已支付一储户1000万本金利息",
-      "onboard_time": 1778143342,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 387109,
@@ -475,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 362277,
-      "num": 362277,
-      "word": "Faker开自定义给自己庆生",
-      "onboard_time": 1778145562,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 357884,
       "num": 357884,
       "word": "孙颖莎拒绝场下偷拍",
@@ -492,19 +524,11 @@
     },
     {
       "raw_hot": 349072,
-      "num": 272839,
+      "num": 295173,
       "word": "质子不争",
       "onboard_time": 1778139200,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 348459,
-      "num": 272703,
-      "word": "马頔是我们没有辅佐好",
-      "onboard_time": 1778145500,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 346687,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 291341,
-      "num": 272205,
+      "num": 278601,
       "word": "救救孙丞潇",
       "onboard_time": 1778142739,
       "rank": 24,
@@ -617,14 +641,6 @@
       "onboard_time": 1778137880,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272935,
-      "num": 272935,
-      "word": "以为晾衣服偏心是很小众的事",
-      "onboard_time": 1778142681,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 272108,
@@ -691,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254593,
-      "num": 254593,
-      "word": "日本街头疑现芬太尼丧尸",
-      "onboard_time": 1778145562,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 257020,
+      "num": 257020,
+      "word": "Diplo发了与Jennie的合照",
+      "onboard_time": 1778146221,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 249342,
@@ -803,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218691,
+      "num": 451988,
+      "word": "手机付款怎么变成了贷款",
+      "onboard_time": 1778146221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213373,
       "num": 213373,
       "word": "男孩厕所捡到15万劳力士绿水鬼",
@@ -859,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205020,
+      "num": 263428,
+      "word": "6旬加班身亡男子几乎无双休",
+      "onboard_time": 1778146759,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204036,
       "num": 204036,
       "word": "中国被FIFA划为一级高价市场",
@@ -881,14 +913,6 @@
       "onboard_time": 1778137639,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 199954,
-      "num": 199954,
-      "word": "Diplo发了与Jennie的合照",
-      "onboard_time": 1778146221,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 196294,
@@ -937,6 +961,14 @@
       "onboard_time": 1778129602,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185717,
+      "num": 185717,
+      "word": "1岁半女婴私处发育异常险变男孩",
+      "onboard_time": 1778142263,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181463,
@@ -993,14 +1025,6 @@
       "onboard_time": 1778073622,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171605,
-      "num": 171605,
-      "word": "1岁半女婴私处发育异常险变男孩",
-      "onboard_time": 1778142263,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171433,
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 123027,
-      "num": 129585,
+      "num": 169725,
       "word": "裁判向孙颖莎行绅士礼",
       "onboard_time": 1778135540,
       "rank": 42,
@@ -1595,6 +1619,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48675,
+      "num": 154930,
+      "word": "国乒女团4天2战韩国",
+      "onboard_time": 1778148081,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45700,
+      "num": 275010,
+      "word": "峨眉山景区通报男子猛推猴子",
+      "onboard_time": 1778147781,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44082,
       "num": 64176,
       "word": "仙侠剧女主终于不是傻白甜了",
@@ -1611,12 +1651,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 38184,
-      "num": 223583,
-      "word": "6旬加班身亡男子几乎无双休",
-      "onboard_time": 1778146759,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 39861,
+      "num": 1626404,
+      "word": "大国重器硬核升级",
+      "onboard_time": 1778138540,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37202,
@@ -1633,22 +1673,6 @@
       "onboard_time": 1778098393,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 36543,
-      "num": 1626404,
-      "word": "大国重器硬核升级",
-      "onboard_time": 1778138540,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 31349,
-      "num": 451988,
-      "word": "手机付款怎么变成了贷款",
-      "onboard_time": 1778146221,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30797,
@@ -1672,6 +1696,14 @@
       "word": "美国补剂暗示一个月增高7厘米",
       "onboard_time": 1778125399,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21568,
+      "num": 167497,
+      "word": "湖北一男子曝光餐馆阴阳价",
+      "onboard_time": 1778147361,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1705,6 +1737,14 @@
       "onboard_time": 1778086156,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 5662,
+      "num": 165997,
+      "word": "孙颖莎打得对手直跺脚",
+      "onboard_time": 1778148081,
+      "rank": 41,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778146906550,
+  "endTime": 1778148129831,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3656714,
-      "num": 658439,
+      "num": 835247,
       "word": "跑男 只允许不喜欢郑恺李晨",
       "onboard_time": 1778144240,
       "rank": 3,
@@ -923,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 933905,
+      "num": 1167673,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1778146040,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 921815,
       "num": 2263947,
       "word": "女子搭网约车强抢方向盘酿车祸",
@@ -1603,6 +1611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 654658,
+      "num": 654658,
+      "word": "银行已支付一储户1000万本金利息",
+      "onboard_time": 1778143342,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652206,
       "num": 652206,
       "word": "买衣服一定要穿最好看的那套去逛街",
@@ -1803,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 593105,
+      "num": 593105,
+      "word": "歌手2026",
+      "onboard_time": 1778145681,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592760,
       "num": 592760,
       "word": "泡泡岛 舞台坍塌",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1778036119,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 559506,
+      "num": 422950,
+      "word": "傅首尔回应被说瘦了像杨紫",
+      "onboard_time": 1778141841,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 558755,
@@ -2203,6 +2235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 502474,
+      "num": 438686,
+      "word": "新物种广西两头蛇被发现",
+      "onboard_time": 1778139620,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500719,
       "num": 500719,
       "word": "军犬救援演练发现是熟人扭头就走",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1777855100,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 499165,
+      "num": 420085,
+      "word": "白鹿晒手搓眼线",
+      "onboard_time": 1778147181,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 494612,
@@ -2411,14 +2459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 465724,
-      "num": 465724,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1778146040,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464712,
       "num": 464712,
       "word": "有AI真好 放以前没十几亿下不来",
@@ -2451,28 +2491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457531,
-      "num": 420935,
-      "word": "傅首尔回应被说瘦了像杨紫",
-      "onboard_time": 1778141841,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 457324,
       "num": 331317,
       "word": "肖战送谢娜演唱会花篮",
       "onboard_time": 1777973302,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 457292,
-      "num": 438686,
-      "word": "新物种广西两头蛇被发现",
-      "onboard_time": 1778139620,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457181,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1778058082,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453572,
-      "num": 453572,
-      "word": "歌手2026",
-      "onboard_time": 1778145681,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 453004,
@@ -2651,12 +2667,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 432448,
+      "num": 432448,
+      "word": "以为晾衣服偏心是很小众的事",
+      "onboard_time": 1778142681,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432076,
       "num": 432076,
       "word": "三问享界S9零重力座椅夹人事件",
       "onboard_time": 1778140040,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 431900,
+      "num": 417242,
+      "word": "马頔是我们没有辅佐好",
+      "onboard_time": 1778145500,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 431413,
@@ -2723,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 417845,
+      "num": 417845,
+      "word": "日本街头疑现芬太尼丧尸",
+      "onboard_time": 1778145562,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 417717,
       "num": 459063,
       "word": "邮轮暴发致命病毒靠港求医遭拒",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1777901960,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416231,
+      "num": 416231,
+      "word": "Faker开自定义给自己庆生",
+      "onboard_time": 1778145562,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 414472,
@@ -3003,14 +3051,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 389839,
-      "num": 389839,
-      "word": "银行已支付一储户1000万本金利息",
-      "onboard_time": 1778143342,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389324,
       "num": 462408,
       "word": "买三文鱼套餐吃到虹鳟食客起诉餐厅",
@@ -3219,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362277,
-      "num": 362277,
-      "word": "Faker开自定义给自己庆生",
-      "onboard_time": 1778145562,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 360305,
       "num": 360305,
       "word": "马嘉祺丁程鑫雨爱",
@@ -3380,19 +3412,11 @@
     },
     {
       "raw_hot": 349072,
-      "num": 272839,
+      "num": 295173,
       "word": "质子不争",
       "onboard_time": 1778139200,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 348459,
-      "num": 272703,
-      "word": "马頔是我们没有辅佐好",
-      "onboard_time": 1778145500,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 348173,
@@ -4108,7 +4132,7 @@
     },
     {
       "raw_hot": 291341,
-      "num": 272205,
+      "num": 278601,
       "word": "救救孙丞潇",
       "onboard_time": 1778142739,
       "rank": 24,
@@ -4307,14 +4331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 272935,
-      "num": 272935,
-      "word": "以为晾衣服偏心是很小众的事",
-      "onboard_time": 1778142681,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272763,
       "num": 272763,
       "word": "将成立国务院浏阳烟花爆炸事故调查组",
@@ -4499,6 +4515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257020,
+      "num": 257020,
+      "word": "Diplo发了与Jennie的合照",
+      "onboard_time": 1778146221,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256374,
       "num": 474019,
       "word": "詹姆斯尽力局",
@@ -4529,14 +4553,6 @@
       "onboard_time": 1777732641,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 254593,
-      "num": 254593,
-      "word": "日本街头疑现芬太尼丧尸",
-      "onboard_time": 1778145562,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254288,
@@ -5203,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218691,
+      "num": 451988,
+      "word": "手机付款怎么变成了贷款",
+      "onboard_time": 1778146221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218681,
       "num": 182615,
       "word": "目击者称秋千坠亡游客头盔撞上岩石",
@@ -5515,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205020,
+      "num": 263428,
+      "word": "6旬加班身亡男子几乎无双休",
+      "onboard_time": 1778146759,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204853,
       "num": 309604,
       "word": "梁靖崑vs林文政",
@@ -5609,14 +5641,6 @@
       "onboard_time": 1778062160,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199954,
-      "num": 199954,
-      "word": "Diplo发了与Jennie的合照",
-      "onboard_time": 1778146221,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 199863,
@@ -5921,6 +5945,14 @@
       "onboard_time": 1777890441,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185717,
+      "num": 185717,
+      "word": "1岁半女婴私处发育异常险变男孩",
+      "onboard_time": 1778142263,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185174,
@@ -6280,14 +6312,6 @@
       "word": "2026五一档总票房已破5亿",
       "onboard_time": 1777814243,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171605,
-      "num": 171605,
-      "word": "1岁半女婴私处发育异常险变男孩",
-      "onboard_time": 1778142263,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -7588,7 +7612,7 @@
     },
     {
       "raw_hot": 123027,
-      "num": 129585,
+      "num": 169725,
       "word": "裁判向孙颖莎行绅士礼",
       "onboard_time": 1778135540,
       "rank": 42,
@@ -8875,6 +8899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48675,
+      "num": 154930,
+      "word": "国乒女团4天2战韩国",
+      "onboard_time": 1778148081,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48639,
       "num": 94293,
       "word": "墨菲反超吴宜泽",
@@ -8896,6 +8928,14 @@
       "word": "1300斤牛被找回暴瘦200斤村民发声",
       "onboard_time": 1777753753,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45700,
+      "num": 275010,
+      "word": "峨眉山景区通报男子猛推猴子",
+      "onboard_time": 1778147781,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -9019,6 +9059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39861,
+      "num": 1626404,
+      "word": "大国重器硬核升级",
+      "onboard_time": 1778138540,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39707,
       "num": 68322,
       "word": "王楚钦加油",
@@ -9049,14 +9097,6 @@
       "onboard_time": 1777932615,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38184,
-      "num": 223583,
-      "word": "6旬加班身亡男子几乎无双休",
-      "onboard_time": 1778146759,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37889,
@@ -9105,14 +9145,6 @@
       "onboard_time": 1777836254,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36543,
-      "num": 1626404,
-      "word": "大国重器硬核升级",
-      "onboard_time": 1778138540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35735,
@@ -9248,14 +9280,6 @@
       "word": "岳阳一摩托车斑马线上撞人致2死1伤",
       "onboard_time": 1778059341,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31349,
-      "num": 451988,
-      "word": "手机付款怎么变成了贷款",
-      "onboard_time": 1778146221,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9441,6 +9465,14 @@
       "onboard_time": 1777748654,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21568,
+      "num": 167497,
+      "word": "湖北一男子曝光餐馆阴阳价",
+      "onboard_time": 1778147361,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21354,
@@ -9633,6 +9665,14 @@
       "onboard_time": 1777812803,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 5662,
+      "num": 165997,
+      "word": "孙颖莎打得对手直跺脚",
+      "onboard_time": 1778148081,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 5586,
