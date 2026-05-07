@@ -1,7 +1,23 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778112740470,
+  "endTime": 1778125438966,
   "band_list": [
+    {
+      "raw_hot": 9978263,
+      "num": 9978263,
+      "word": "淘宝免单",
+      "onboard_time": 1778123660,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1890709,
+      "num": 2066068,
+      "word": "跑男学这么精彩吗",
+      "onboard_time": 1778120060,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1462127,
       "num": 712216,
@@ -9,6 +25,14 @@
       "onboard_time": 1778061201,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1358509,
+      "num": 392977,
+      "word": "殷世航傲娇美宣布结婚",
+      "onboard_time": 1778116819,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1224468,
@@ -19,8 +43,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1172273,
+      "num": 1172273,
+      "word": "浪姐至今为止翻红最成功的艺人",
+      "onboard_time": 1778121380,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996898,
-      "num": 318111,
+      "num": 398654,
       "word": "国际足联可能已经慌了",
       "onboard_time": 1778108958,
       "rank": 20,
@@ -35,6 +67,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 821036,
+      "num": 384626,
+      "word": "林志玲和老公因语言不通感情升温",
+      "onboard_time": 1778111119,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774728,
+      "num": 774728,
+      "word": "五一买24件衣服全退光店主心态崩了",
+      "onboard_time": 1778124560,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 713953,
       "num": 318101,
       "word": "男助产士撞脸张凌赫孕妈变迷妹",
@@ -43,12 +91,36 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 696232,
+      "num": 696232,
+      "word": "FIFA回应中国区天价世界杯版权",
+      "onboard_time": 1778116340,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 651338,
       "num": 318100,
       "word": "有人给TOP买了五个防毒面具",
       "onboard_time": 1778109077,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600712,
+      "num": 368307,
+      "word": "EXO ai篡改记忆",
+      "onboard_time": 1778112622,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 593525,
+      "num": 593525,
+      "word": "谢娜开演唱会上瘾了",
+      "onboard_time": 1778116520,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 593244,
@@ -67,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 570987,
+      "num": 374672,
+      "word": "马龙夫妇许昕夫妇同游英国",
+      "onboard_time": 1778124140,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 563695,
       "num": 329517,
       "word": "新人结婚被丢高速口路过宾利变婚车",
@@ -75,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 529039,
-      "num": 317946,
-      "word": "林志玲和老公因语言不通感情升温",
-      "onboard_time": 1778111119,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 556951,
+      "num": 363090,
+      "word": "主角定档",
+      "onboard_time": 1778121438,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 522995,
@@ -89,6 +169,14 @@
       "onboard_time": 1778094255,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515205,
+      "num": 515205,
+      "word": "公安局大院内酒店每晚200到300元",
+      "onboard_time": 1778113762,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 480618,
@@ -116,11 +204,27 @@
     },
     {
       "raw_hot": 441459,
-      "num": 317574,
+      "num": 319911,
       "word": "4只皮皮虾1035元涉事海鲜店回应",
       "onboard_time": 1778109738,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439526,
+      "num": 347703,
+      "word": "国际足联严重依赖中国赞助商",
+      "onboard_time": 1778116640,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 438315,
+      "num": 438315,
+      "word": "NBA",
+      "onboard_time": 1778122160,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 431413,
@@ -155,6 +259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 374615,
+      "num": 325235,
+      "word": "一个人不是好人的微妙迹象是什么",
+      "onboard_time": 1778112742,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369694,
       "num": 369694,
       "word": "网友曝三亚4只皮皮虾收费1035元",
@@ -169,6 +281,14 @@
       "onboard_time": 1778066481,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346687,
+      "num": 346687,
+      "word": "虞书欣ins取消何与置顶了",
+      "onboard_time": 1778115920,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 342903,
@@ -195,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325227,
+      "num": 325227,
+      "word": "宁艺卓嘉人五月刊封面",
+      "onboard_time": 1778122160,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 305860,
       "num": 305860,
       "word": "主角OST请来了王菲",
@@ -211,12 +339,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295655,
+      "num": 295655,
+      "word": "王楚钦被安宰贤吓一跳",
+      "onboard_time": 1778115982,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270313,
+      "num": 270313,
+      "word": "张杰谢娜这和婚礼现场有啥区别",
+      "onboard_time": 1778114543,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268637,
-      "num": 317269,
+      "num": 325278,
       "word": "英伟达宣布与康宁建立长期合作关系",
       "onboard_time": 1778110158,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 268461,
+      "num": 268461,
+      "word": "成毅悦游杂志",
+      "onboard_time": 1778125100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263852,
+      "num": 263852,
+      "word": "被小朋友涂鸦的政府牌匾暂不会更换",
+      "onboard_time": 1778121438,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263415,
+      "num": 325235,
+      "word": "森林狼vs马刺",
+      "onboard_time": 1778124560,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 258091,
@@ -225,6 +393,22 @@
       "onboard_time": 1778061799,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249342,
+      "num": 249342,
+      "word": "王菲唱了戏腔",
+      "onboard_time": 1778123959,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246208,
+      "num": 246208,
+      "word": "36岁宝妈用筋膜枪按摩突发脑梗",
+      "onboard_time": 1778115920,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243657,
@@ -243,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235201,
+      "num": 235201,
+      "word": "黑龙江涉重大刑案54岁男子已落网",
+      "onboard_time": 1778117840,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222145,
       "num": 222145,
       "word": "孟子义一手抓绳一手护着白鹿",
       "onboard_time": 1778073923,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221673,
+      "num": 221673,
+      "word": "孙颖莎和九年前一模一样",
+      "onboard_time": 1778124199,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 212950,
@@ -281,6 +481,14 @@
       "onboard_time": 1778111478,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180844,
+      "num": 180844,
+      "word": "来南京下跪才是真忏悔",
+      "onboard_time": 1778118320,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179096,
@@ -355,6 +563,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158137,
+      "num": 158137,
+      "word": "妈妈真的把自己养的很好",
+      "onboard_time": 1778111720,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156916,
+      "num": 156916,
+      "word": "周奇墨脱口秀调侃F1事故并植入广告",
+      "onboard_time": 1778123780,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153582,
+      "num": 153582,
+      "word": "舟山迎来蜈蚣捕捉旺季",
+      "onboard_time": 1778122220,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152910,
+      "num": 152910,
+      "word": "主角",
+      "onboard_time": 1778122220,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151541,
       "num": 151541,
       "word": "FIFA涨价理由",
@@ -403,12 +643,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 139165,
-      "num": 139165,
-      "word": "妈妈真的把自己养的很好",
-      "onboard_time": 1778111720,
+      "raw_hot": 134861,
+      "num": 125364,
+      "word": "中国被FIFA划为一级高价市场",
+      "onboard_time": 1778125280,
       "rank": 46,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 133020,
@@ -432,6 +672,22 @@
       "word": "孔雪儿的穿搭AI给到夯",
       "onboard_time": 1778076323,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126500,
+      "num": 126500,
+      "word": "刘耀文晒穿戴甲",
+      "onboard_time": 1778115021,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125772,
+      "num": 125772,
+      "word": "林志玲决定和Akira交往的原因",
+      "onboard_time": 1778114121,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -475,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120275,
+      "num": 125463,
+      "word": "ADOR回应Minji归队",
+      "onboard_time": 1778124680,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119585,
       "num": 119585,
       "word": "wannaone 赖冠霖",
@@ -489,14 +753,6 @@
       "onboard_time": 1778099233,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117422,
-      "num": 117422,
-      "word": "EXO ai篡改记忆",
-      "onboard_time": 1778112622,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 111097,
@@ -553,6 +809,14 @@
       "onboard_time": 1778065882,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95545,
+      "num": 247006,
+      "word": "伊朗外长来中国背后信息量巨大",
+      "onboard_time": 1778125222,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91028,
@@ -715,6 +979,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41309,
+      "num": 1647070,
+      "word": "五一假日图景尽显中国活力",
+      "onboard_time": 1778123420,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 37092,
+      "num": 125047,
+      "word": "xAI更名SpaceXAI",
+      "onboard_time": 1778119999,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37031,
       "num": 37031,
       "word": "反方向的钟",
@@ -723,12 +1003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30797,
+      "num": 124961,
+      "word": "只用胶带和胶卷就能手搓相机",
+      "onboard_time": 1778115441,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30535,
       "num": 36039,
       "word": "中国女团3比0瑞典",
       "onboard_time": 1778094974,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22045,
+      "num": 167850,
+      "word": "美国补剂暗示一个月增高7厘米",
+      "onboard_time": 1778125399,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20944,
@@ -758,6 +1054,9 @@
   "hotgov_list": [
     {
       "word": "#青年习近平的人生课堂#"
+    },
+    {
+      "word": "#中国青年正当其时#"
     }
   ]
 }
