@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778191725637,
+  "endTime": 1778193361335,
   "band_list": [
     {
       "raw_hot": 1117364,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107224,
+      "num": 297747,
+      "word": "运城遇害女教师丈夫22年后被判无期",
+      "onboard_time": 1778168422,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105446,
       "num": 105446,
       "word": "白鹿卢昱晓 抖音下沉市场",
@@ -387,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81325,
-      "num": 297747,
-      "word": "运城遇害女教师丈夫22年后被判无期",
-      "onboard_time": 1778168422,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81234,
       "num": 296864,
       "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
@@ -409,6 +409,14 @@
       "onboard_time": 1778168063,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73323,
+      "num": 49047,
+      "word": "这部剧当时是这么营业的吗",
+      "onboard_time": 1778188095,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 61215,
@@ -483,14 +491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 45990,
-      "num": 38815,
-      "word": "这部剧当时是这么营业的吗",
-      "onboard_time": 1778188095,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45521,
       "num": 296905,
       "word": "谢娜张杰一起上音综",
@@ -507,20 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39903,
+      "num": 46538,
+      "word": "乘风节目组启动交通酒店退费补偿",
+      "onboard_time": 1778185154,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34174,
-      "num": 31222,
+      "num": 46469,
       "word": "乘风2026推迟直播录制",
       "onboard_time": 1778182334,
       "rank": 31,
       "category": "综艺"
     },
     {
-      "raw_hot": 33826,
-      "num": 33826,
-      "word": "乘风节目组启动交通酒店退费补偿",
-      "onboard_time": 1778185154,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 31909,
+      "num": 46490,
+      "word": "1岁半女婴私处发育异常险变男孩",
+      "onboard_time": 1778142263,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31336,
@@ -537,14 +545,6 @@
       "onboard_time": 1778179935,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18947,
-      "num": 27124,
-      "word": "1岁半女婴私处发育异常险变男孩",
-      "onboard_time": 1778142263,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18280,
