@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/08 03:14:34
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/08 04:21:28
 </p>
 </blockquote>
 <p>
@@ -7455,6 +7455,12 @@ AG战胜TYL晋级四强（热度：34157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E6%8E%A8%E8%BF%9F%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6%23" target="weibo">
+乘风2026推迟直播录制（热度：33746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%9A%96%E7%B3%96%E5%8E%82%E5%B7%B2%E6%A6%A866712.9%E5%90%A8%E6%9E%9C%E8%94%97%23" target="weibo">
 最暖糖厂已榨66712.9吨果蔗（热度：33639）
 </a>
@@ -7511,6 +7517,12 @@ AG战胜TYL晋级四强（热度：34157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E6%89%8B%E6%9C%BA%E9%83%BD%E6%8E%89%E6%B4%9E%E9%87%8C%E4%BA%86%E8%BF%98%E5%9C%A8%E5%90%83%E8%96%AF%E7%89%87%23" target="weibo">
 黄灿灿手机都掉洞里了还在吃薯片（热度：30710）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%E8%8A%82%E7%9B%AE%E7%BB%84%E5%90%AF%E5%8A%A8%E4%BA%A4%E9%80%9A%E9%85%92%E5%BA%97%E9%80%80%E8%B4%B9%E8%A1%A5%E5%81%BF%23" target="weibo">
+乘风节目组启动交通酒店退费补偿（热度：30542）
 </a>
 </li>
 

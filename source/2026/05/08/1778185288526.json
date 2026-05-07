@@ -1,0 +1,410 @@
+{
+  "runTime": 1778185288526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 176605,
+        "num": 176605,
+        "word": "微信未读语音消息变灰",
+        "onboard_time": 1778166202,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 118325,
+        "word": "八千多的手机拍照也不行啊",
+        "onboard_time": 1778156000,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8519,
+        "num": 97025,
+        "word": "假日经济点燃消费热潮",
+        "onboard_time": 1778159421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192223,
+        "num": 93755,
+        "word": "刘维去谢娜演唱会被指忘本",
+        "onboard_time": 1778159483,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87634,
+        "num": 87634,
+        "word": "王菲新歌 听笑了",
+        "onboard_time": 1778169263,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51640,
+        "num": 51640,
+        "word": "当你意识到自己无法升职时",
+        "onboard_time": 1778151261,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51125,
+        "num": 51125,
+        "word": "贵州蘸水",
+        "onboard_time": 1778156240,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 46523,
+        "num": 46523,
+        "word": "演唱会卫生间配了卫生巾的明星",
+        "onboard_time": 1778152821,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46292,
+        "num": 46292,
+        "word": "跑男",
+        "onboard_time": 1778166983,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45504,
+        "num": 45504,
+        "word": "胖东来1公斤黄樱桃416元",
+        "onboard_time": 1778162482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296210,
+        "num": 45476,
+        "word": "榴莲遭仅退款商家驱车1600公里找买家",
+        "onboard_time": 1778170221,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80530,
+        "num": 45407,
+        "word": "安崎晕倒",
+        "onboard_time": 1778165542,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73900,
+        "num": 45391,
+        "word": "日本街头疑现芬太尼丧尸",
+        "onboard_time": 1778145562,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71732,
+        "num": 45297,
+        "word": "男童凌晨4点抱被子街头哭泣独行",
+        "onboard_time": 1778163384,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59339,
+        "num": 45273,
+        "word": "华人夫妇在美国豪宅离奇失踪一年",
+        "onboard_time": 1778170280,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41485,
+        "num": 45185,
+        "word": "运城遇害女教师丈夫22年后被判无期",
+        "onboard_time": 1778168422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57011,
+        "num": 45131,
+        "word": "孙亚龙 dys变天",
+        "onboard_time": 1778159662,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51854,
+        "num": 45099,
+        "word": "孙杨坚持要回电车乘车点的原因",
+        "onboard_time": 1778157741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50187,
+        "num": 45059,
+        "word": "印尼惊现罕见的彩虹云刷爆全网",
+        "onboard_time": 1778151440,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45008,
+        "num": 45008,
+        "word": "小区531户仅25户交物业费业主发声",
+        "onboard_time": 1778158762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42566,
+        "num": 42566,
+        "word": "曝浪姐三公不直播",
+        "onboard_time": 1778164522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40201,
+        "num": 40201,
+        "word": "男子回应房子没盖完钢筋发芽了",
+        "onboard_time": 1778169321,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37496,
+        "num": 37496,
+        "word": "汉坦病毒首发病例感染轨迹曝光",
+        "onboard_time": 1778171000,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37342,
+        "num": 37342,
+        "word": "喀什恋歌大结局",
+        "onboard_time": 1778158222,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34933,
+        "num": 34933,
+        "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+        "onboard_time": 1778152161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33771,
+        "num": 33771,
+        "word": "庄法受伤",
+        "onboard_time": 1778169621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33575,
+        "num": 33575,
+        "word": "高反被掐人中后打人女子称已报警",
+        "onboard_time": 1778156723,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32682,
+        "num": 32682,
+        "word": "皇马内讧",
+        "onboard_time": 1778166683,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31739,
+        "num": 31739,
+        "word": "低智商犯罪",
+        "onboard_time": 1778152040,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31336,
+        "num": 31336,
+        "word": "雾里青",
+        "onboard_time": 1778161342,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43676,
+        "num": 31286,
+        "word": "Kid回应合同",
+        "onboard_time": 1778164883,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33746,
+        "num": 31222,
+        "word": "乘风2026推迟直播录制",
+        "onboard_time": 1778182334,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31150,
+        "num": 31150,
+        "word": "尘白禁区",
+        "onboard_time": 1778159483,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30542,
+        "num": 30542,
+        "word": "乘风节目组启动交通酒店退费补偿",
+        "onboard_time": 1778185154,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30075,
+        "num": 30428,
+        "word": "如果大米饭只能配一个菜",
+        "onboard_time": 1778175856,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23246,
+        "num": 30399,
+        "word": "伊朗总统和最高领袖会面",
+        "onboard_time": 1778152281,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30396,
+        "num": 30396,
+        "word": "浪姐第三次公演播出调整",
+        "onboard_time": 1778168661,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29171,
+        "num": 30395,
+        "word": "真诚是一种筛选手段",
+        "onboard_time": 1778179935,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28289,
+        "num": 30394,
+        "word": "桃花坞11个新人6个综艺首秀",
+        "onboard_time": 1778158823,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26047,
+        "num": 30392,
+        "word": "孙颖莎连得10分逆转取胜",
+        "onboard_time": 1778163204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27372,
+        "num": 30390,
+        "word": "李现张婧仪吻戏",
+        "onboard_time": 1778163204,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27816,
+        "num": 30387,
+        "word": "孙颖莎Bestplayer",
+        "onboard_time": 1778159301,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27633,
+        "num": 30385,
+        "word": "男子冒充小姐姐引诱少女发私密照",
+        "onboard_time": 1778174717,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26964,
+        "num": 30383,
+        "word": "西卡退休",
+        "onboard_time": 1778163503,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26853,
+        "num": 30382,
+        "word": "JieJie 活着",
+        "onboard_time": 1778160862,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25729,
+        "num": 30380,
+        "word": "张本智和一单两分",
+        "onboard_time": 1778168841,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23304,
+        "num": 30376,
+        "word": "当奶奶吃到了年轻人的零食",
+        "onboard_time": 1778172918,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22541,
+        "num": 30374,
+        "word": "魏凤和案李尚福案一审宣判",
+        "onboard_time": 1778148441,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 30372,
+        "word": "南部档案定档时间",
+        "onboard_time": 1778168122,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 30370,
+        "word": "李雪琴徐志胜说孟子义现在太红了",
+        "onboard_time": 1778152640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的调研之道#"
+    }
+  }
+}
