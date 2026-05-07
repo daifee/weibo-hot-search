@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/01 00:05:26 ~ 2026/05/07 23:13:02
+本榜单时间：2026/05/01 00:05:26 ~ 2026/05/08 00:59:23
 </p>
 </blockquote>
 <p>
@@ -1395,6 +1395,12 @@ NPC小黄鱼互动改送簪花（热度：907018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6%E9%A9%B1%E8%BD%A61600%E5%85%AC%E9%87%8C%E6%89%BE%E4%B9%B0%E5%AE%B6%23" target="weibo">
+榴莲遭仅退款商家驱车1600公里找买家（热度：752094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9C%A8%E5%B1%B1%E5%A7%86%E6%8E%A5%E4%BA%863%E5%A4%A7%E8%A2%8B%E5%85%8D%E8%B4%B9%E8%8A%A5%E6%9C%AB%E9%85%B1%23" target="weibo">
 一家人在山姆接了3大袋免费芥末酱（热度：750662）
 </a>
@@ -2397,6 +2403,12 @@ Jisoo晒blackpink四人合照（热度：535014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%23" target="weibo">
+跑男（热度：515106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8A%8A%E7%94%B7%E5%8F%8B%E7%9A%84%E9%9A%90%E6%80%A7%E8%B4%AC%E4%BD%8E%E5%BD%93%E6%88%90%E7%88%B1%23" target="weibo">
 别把男友的隐性贬低当成爱（热度：515068）
 </a>
@@ -2535,6 +2547,12 @@ metgala（热度：513395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%85%AC%E6%BC%94%E6%92%AD%E5%87%BA%E8%B0%83%E6%95%B4%23" target="weibo">
+浪姐第三次公演播出调整（热度：491988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A6%E5%A6%88%E5%A6%88%E5%B0%8F%E6%B5%B7%E7%BB%B5%E9%80%9B%E6%B8%B8%E4%B9%90%E5%9B%AD%23" target="weibo">
 黄晓明带妈妈小海绵逛游乐园（热度：491986）
 </a>
@@ -2657,6 +2675,18 @@ Gr超话（热度：473395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Gr%E5%AF%B9%E6%88%98MRC%23" target="weibo">
 Gr对战MRC（热度：471448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9C%AA%E8%AF%BB%E8%AF%AD%E9%9F%B3%E6%B6%88%E6%81%AF%E5%8F%98%E7%81%B0%23" target="weibo">
+微信未读语音消息变灰（热度：470756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E6%96%B0%E6%AD%8C%20%E5%90%AC%E7%AC%91%E4%BA%86%23" target="weibo">
+王菲新歌 听笑了（热度：470558）
 </a>
 </li>
 
@@ -5133,6 +5163,12 @@ Met Gala（热度：253499）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E5%86%85%E8%AE%A7%23" target="weibo">
+皇马内讧（热度：243038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E4%BA%BA%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E5%85%A8%E6%98%AF%E7%8C%AB%23" target="weibo">
 近视人的世界里全是猫（热度：242331）
 </a>
@@ -5273,6 +5309,12 @@ eStar对战TCG（热度：238504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%20AI%E6%AD%8C%E6%89%8B%23" target="weibo">
 歌手2026 AI歌手（热度：237357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E6%B3%95%E5%8F%97%E4%BC%A4%23" target="weibo">
+庄法受伤（热度：237189）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ DYG对战JDG（热度：208900）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%B8%8D%E5%81%9A%E4%BA%A7%E6%A3%80%E8%83%8E%E5%81%9C6%E5%91%A8%E6%B5%91%E7%84%B6%E4%B8%8D%E7%9F%A5%23" target="weibo">
 女子怀孕不做产检胎停6周浑然不知（热度：205308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%94%B7%E5%AD%90%E6%95%91%E9%86%92%E9%AB%98%E5%8F%8D%E5%A5%B3%E5%AD%90%E5%8F%8D%E9%81%AD%E6%8E%8C%E6%8E%B4%23" target="weibo">
-疑似男子救醒高反女子反遭掌掴（热度：205281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E8%82%96%E6%88%98%E7%9A%84%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23" target="weibo">
-余承东发了肖战的拍摄花絮（热度：205207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E5%8A%A0%E7%8F%AD%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%AD%90%E5%87%A0%E4%B9%8E%E6%97%A0%E5%8F%8C%E4%BC%91%23" target="weibo">
-6旬加班身亡男子几乎无双休（热度：205020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AA%AC%E5%9D%9A%E6%8C%81%E7%BB%99%E4%B8%80%E5%B2%81%E5%84%BF%E5%AD%90%E5%96%82%E6%AF%8D%E4%B9%B3%23" target="weibo">
-张檬坚持给一岁儿子喂母乳（热度：204883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%9E%97%E6%96%87%E6%94%BF%23" target="weibo">
-梁靖崑vs林文政（热度：204853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%85%A5%E4%BC%8D%23" target="weibo">
-SEVENTEEN下半年入伍（热度：204850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E8%B7%8C%E5%88%B01396%E5%85%83%23" target="weibo">
-金饰克价跌到1396元（热度：204378）
 </a>
 </li>
 
