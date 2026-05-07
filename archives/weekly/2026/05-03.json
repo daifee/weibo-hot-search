@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778148129831,
+  "endTime": 1778154938115,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 863061,
+      "num": 1138089,
+      "word": "魏凤和案李尚福案一审宣判",
+      "onboard_time": 1778148441,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 858629,
       "num": 780824,
       "word": "把自己当成糖尿病人来吃饭",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1778111119,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 810111,
+      "num": 415792,
+      "word": "当你意识到自己无法升职时",
+      "onboard_time": 1778151261,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 803875,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1777960341,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 734904,
+      "num": 844411,
+      "word": "日本街头疑现芬太尼丧尸",
+      "onboard_time": 1778145562,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 728317,
@@ -1635,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647601,
+      "num": 647601,
+      "word": "孙颖莎3比2金娜英",
+      "onboard_time": 1778149881,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641673,
       "num": 888378,
       "word": "国乒男团技术已无明显优势",
@@ -1891,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577611,
+      "num": 422950,
+      "word": "傅首尔回应被说瘦了像杨紫",
+      "onboard_time": 1778141841,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574954,
       "num": 574954,
       "word": "这得喝多少饮料才能成角",
@@ -1963,14 +2003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 559506,
-      "num": 422950,
-      "word": "傅首尔回应被说瘦了像杨紫",
-      "onboard_time": 1778141841,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558755,
       "num": 558755,
       "word": "你根本没意识到自己有多年轻",
@@ -2027,6 +2059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 539439,
+      "num": 432448,
+      "word": "以为晾衣服偏心是很小众的事",
+      "onboard_time": 1778142681,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 538757,
       "num": 418206,
       "word": "香港酒店女子坠亡砸中女路人",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1778132240,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535014,
+      "num": 314064,
+      "word": "Jisoo晒blackpink四人合照",
+      "onboard_time": 1778150000,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 532794,
@@ -2667,14 +2715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 432448,
-      "num": 432448,
-      "word": "以为晾衣服偏心是很小众的事",
-      "onboard_time": 1778142681,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 432076,
       "num": 432076,
       "word": "三问享界S9零重力座椅夹人事件",
@@ -2753,14 +2793,6 @@
       "onboard_time": 1777894639,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 417845,
-      "num": 417845,
-      "word": "日本街头疑现芬太尼丧尸",
-      "onboard_time": 1778145562,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 417717,
@@ -3059,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389171,
+      "num": 389171,
+      "word": "伊朗总统和最高领袖会面",
+      "onboard_time": 1778152281,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 387109,
       "num": 387109,
       "word": "5月桃花运最旺的星座",
@@ -3185,6 +3225,14 @@
       "onboard_time": 1777970424,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371011,
+      "num": 312335,
+      "word": "王嘉尔吃垃圾食品食物中毒",
+      "onboard_time": 1778150300,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 369672,
@@ -3643,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324615,
+      "num": 289634,
+      "word": "李雪琴徐志胜说孟子义现在太红了",
+      "onboard_time": 1778152640,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324036,
       "num": 324036,
       "word": "于正看短剧Enemy看哭了",
@@ -3665,6 +3721,14 @@
       "onboard_time": 1777968261,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320381,
+      "num": 288723,
+      "word": "虞书欣洛杉矶GOLDGALA",
+      "onboard_time": 1778153600,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 319916,
@@ -3809,6 +3873,14 @@
       "onboard_time": 1777887441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312029,
+      "num": 312029,
+      "word": "印尼惊现罕见的彩虹云刷爆全网",
+      "onboard_time": 1778151440,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 311978,
@@ -4185,6 +4257,14 @@
       "onboard_time": 1777941740,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287958,
+      "num": 287958,
+      "word": "国乒女团3比0韩国女团",
+      "onboard_time": 1778153240,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 286439,
@@ -4595,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253339,
+      "num": 253339,
+      "word": "时代少年团辟谣明年单飞",
+      "onboard_time": 1778154562,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252949,
       "num": 687386,
       "word": "强大到可怕的顶级心态",
@@ -4697,6 +4785,14 @@
       "onboard_time": 1778115920,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244987,
+      "num": 244987,
+      "word": "韩国教练冲孙颖莎连连点头",
+      "onboard_time": 1778154139,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 244763,
@@ -4809,6 +4905,14 @@
       "onboard_time": 1777717580,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238105,
+      "num": 238105,
+      "word": "魏凤和李尚福死缓",
+      "onboard_time": 1778148740,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 238043,
@@ -5163,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222495,
+      "num": 222495,
+      "word": "1岁半女婴私处发育异常险变男孩",
+      "onboard_time": 1778142263,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222234,
       "num": 222234,
       "word": "汉坦病毒疫情扩散",
@@ -5379,6 +5491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212255,
+      "num": 212255,
+      "word": "郑钦文vs布克沙",
+      "onboard_time": 1778148141,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212219,
       "num": 330476,
       "word": "林诗栋vsO约内斯库",
@@ -5555,6 +5675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204850,
+      "num": 204850,
+      "word": "SEVENTEEN下半年入伍",
+      "onboard_time": 1778152640,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204453,
       "num": 259664,
       "word": "Tian闹剧结束了",
@@ -5625,6 +5753,14 @@
       "onboard_time": 1777983622,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200845,
+      "num": 275010,
+      "word": "峨眉山景区通报男子猛推猴子",
+      "onboard_time": 1778147781,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200595,
@@ -5745,6 +5881,14 @@
       "onboard_time": 1777783221,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193870,
+      "num": 222689,
+      "word": "演唱会卫生间配了卫生巾的明星",
+      "onboard_time": 1778152821,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 193527,
@@ -5891,12 +6035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188826,
+      "num": 188826,
+      "word": "男子被毒蛇咬后打死蛇就医",
+      "onboard_time": 1778146522,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188699,
       "num": 188699,
       "word": "李梦两部恐怖片破亿",
       "onboard_time": 1777772181,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188592,
+      "num": 188592,
+      "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+      "onboard_time": 1778152161,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187800,
@@ -5945,14 +6105,6 @@
       "onboard_time": 1777890441,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185717,
-      "num": 185717,
-      "word": "1岁半女婴私处发育异常险变男孩",
-      "onboard_time": 1778142263,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185174,
@@ -6451,12 +6603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165481,
+      "num": 165481,
+      "word": "穿剧中丧服跳抖舞",
+      "onboard_time": 1778148921,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164622,
       "num": 350951,
       "word": "榴莲山竹冰",
       "onboard_time": 1777867459,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164192,
+      "num": 164192,
+      "word": "贺峻霖的神级ID",
+      "onboard_time": 1778150361,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 163882,
@@ -6611,6 +6779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158532,
+      "num": 158532,
+      "word": "女厕疑设有男童专用坑位",
+      "onboard_time": 1778154081,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158235,
       "num": 158235,
       "word": "马龙假期赴伦敦助力国乒",
@@ -6673,14 +6849,6 @@
       "onboard_time": 1777852820,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157375,
-      "num": 157375,
-      "word": "男子被毒蛇咬后打死蛇就医",
-      "onboard_time": 1778146522,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157319,
@@ -8035,6 +8203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105755,
+      "num": 288413,
+      "word": "被银行员工转走的1800万已全部返还",
+      "onboard_time": 1778153362,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105059,
       "num": 143786,
       "word": "芭蕾舞演员摸鹿后被蜱虫叮咬瘫痪",
@@ -8073,6 +8249,14 @@
       "onboard_time": 1778000418,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103538,
+      "num": 160841,
+      "word": "家长交万元学费质疑食堂肉臭菜烂",
+      "onboard_time": 1778153421,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102810,
@@ -8563,6 +8747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69884,
+      "num": 188670,
+      "word": "浪姐逆战组彩排",
+      "onboard_time": 1778154680,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69113,
       "num": 475970,
       "word": "女厕紧张不该只靠临时借用男厕",
@@ -8923,19 +9115,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46678,
+      "num": 165146,
+      "word": "国乒女团进半决赛",
+      "onboard_time": 1778154920,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45921,
       "num": 141390,
       "word": "1300斤牛被找回暴瘦200斤村民发声",
       "onboard_time": 1777753753,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45700,
-      "num": 275010,
-      "word": "峨眉山景区通报男子猛推猴子",
-      "onboard_time": 1778147781,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -9217,6 +9409,14 @@
       "onboard_time": 1778005696,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33894,
+      "num": 226645,
+      "word": "伊朗最高领袖定调霍尔木兹",
+      "onboard_time": 1778154741,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33865,
@@ -9601,6 +9801,14 @@
       "onboard_time": 1777779741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13348,
+      "num": 152556,
+      "word": "三星工作人员回应退出中国市场",
+      "onboard_time": 1778154502,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 13346,
