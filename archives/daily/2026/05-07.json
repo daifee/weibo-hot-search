@@ -1,6 +1,6 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778127203593,
+  "endTime": 1778136318367,
   "band_list": [
     {
       "raw_hot": 21061847,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1367787,
-      "num": 1367787,
+      "num": 2135464,
       "word": "五一买24件衣服全退光店主心态崩了",
       "onboard_time": 1778124560,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1362891,
+      "num": 1362891,
+      "word": "孙杨张豆豆给我看力竭了",
+      "onboard_time": 1778131280,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1358509,
@@ -59,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1075014,
+      "num": 265673,
+      "word": "谢娜演唱会卫生间配了卫生巾",
+      "onboard_time": 1778131101,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 996898,
       "num": 398654,
       "word": "国际足联可能已经慌了",
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789925,
+      "num": 358787,
+      "word": "孙杨被伊能静开导哭了",
+      "onboard_time": 1778133680,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713953,
       "num": 318101,
       "word": "男助产士撞脸张凌赫孕妈变迷妹",
@@ -99,12 +123,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694844,
+      "num": 694844,
+      "word": "市监局称4只皮皮虾1035元价格合规",
+      "onboard_time": 1778131041,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670085,
       "num": 670085,
       "word": "谢娜演唱会庆功宴现场",
       "onboard_time": 1778125824,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 660172,
+      "num": 203286,
+      "word": "结婚不到10天女方扇耳光男方砍手指",
+      "onboard_time": 1778127922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652206,
+      "num": 652206,
+      "word": "买衣服一定要穿最好看的那套去逛街",
+      "onboard_time": 1778126842,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 651338,
@@ -169,6 +217,14 @@
       "onboard_time": 1778121438,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538568,
+      "num": 251059,
+      "word": "24件被退回衣物均保留完整吊牌",
+      "onboard_time": 1778132240,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 522995,
@@ -243,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426841,
+      "num": 426841,
+      "word": "合租因室友掉两根头发报警",
+      "onboard_time": 1778127322,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426191,
       "num": 327674,
       "word": "世界杯中国赞助商投入超5亿美元",
@@ -259,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 384812,
+      "num": 384812,
+      "word": "曝钱天一退役自主择业",
+      "onboard_time": 1778135001,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379927,
       "num": 316719,
       "word": "你以为是常识的冷知识",
@@ -273,6 +345,14 @@
       "onboard_time": 1778112742,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372780,
+      "num": 222300,
+      "word": "多平台已下架全李酒店",
+      "onboard_time": 1778129841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369694,
@@ -339,6 +419,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 315571,
+      "num": 213398,
+      "word": "何炅不再依赖哥哥算长大吗",
+      "onboard_time": 1778127322,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309259,
+      "num": 202825,
+      "word": "用这种枕头可能损伤脑血管",
+      "onboard_time": 1778127322,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305860,
       "num": 305860,
       "word": "主角OST请来了王菲",
@@ -363,20 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295665,
-      "num": 295665,
-      "word": "买衣服一定要穿最好看的那套去逛街",
-      "onboard_time": 1778126842,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295655,
       "num": 295655,
       "word": "王楚钦被安宰贤吓一跳",
       "onboard_time": 1778115982,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271583,
+      "num": 271583,
+      "word": "代课 交换人生",
+      "onboard_time": 1778128522,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 270313,
@@ -427,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250037,
+      "num": 202330,
+      "word": "泰康人寿全国销冠被拘",
+      "onboard_time": 1778131762,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249342,
       "num": 249342,
       "word": "王菲唱了戏腔",
@@ -475,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232164,
+      "num": 202075,
+      "word": "爸爸一脚踹向横穿马路孩子",
+      "onboard_time": 1778127622,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222145,
       "num": 222145,
       "word": "孟子义一手抓绳一手护着白鹿",
@@ -515,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205207,
+      "num": 201305,
+      "word": "余承东发了肖战的拍摄花絮",
+      "onboard_time": 1778132602,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204036,
       "num": 204036,
       "word": "中国被FIFA划为一级高价市场",
       "onboard_time": 1778125280,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203686,
+      "num": 203686,
+      "word": "我驻南联盟使馆被炸新闻联播画面",
+      "onboard_time": 1778128342,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196294,
@@ -539,6 +667,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191547,
+      "num": 184823,
+      "word": "虞书欣LA",
+      "onboard_time": 1778128342,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187464,
+      "num": 187464,
+      "word": "雅戈尔创始人之女李寒穷将接棒",
+      "onboard_time": 1778129602,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 181463,
+      "num": 181463,
+      "word": "嘎子老婆回应",
+      "onboard_time": 1778132660,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 180844,
       "num": 180844,
       "word": "来南京下跪才是真忏悔",
@@ -553,6 +705,14 @@
       "onboard_time": 1778078603,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 177675,
+      "num": 177675,
+      "word": "1岁半男童吃了两勺蚕豆住进ICU",
+      "onboard_time": 1778133262,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175588,
@@ -595,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163441,
+      "num": 165503,
+      "word": "林心如为陪孩子戒掉晚酌习惯",
+      "onboard_time": 1778126661,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162187,
       "num": 162187,
       "word": "者来女真的去谢娜演唱会了",
@@ -619,11 +787,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159072,
+      "num": 159072,
+      "word": "跑男才播一期审判的人换了好几波",
+      "onboard_time": 1778127442,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158137,
       "num": 158137,
       "word": "妈妈真的把自己养的很好",
       "onboard_time": 1778111720,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157083,
+      "num": 157083,
+      "word": "生活中的真正奢侈",
+      "onboard_time": 1778134640,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -651,12 +835,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152584,
+      "num": 152584,
+      "word": "妻旅 老公还是在观察室待着吧",
+      "onboard_time": 1778133139,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151541,
       "num": 151541,
       "word": "FIFA涨价理由",
       "onboard_time": 1778109617,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "给阿嬷的情书女主 大学宿舍素颜直播",
+      "onboard_time": 1778129121,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 149905,
+      "num": 149905,
+      "word": "北约欠下的血债中国人永不会忘",
+      "onboard_time": 1778135419,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 147794,
+      "word": "香港男演员公开交代后事",
+      "onboard_time": 1778135241,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147498,
@@ -723,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129062,
+      "num": 129062,
+      "word": "aespa权志龙合作曲",
+      "onboard_time": 1778136261,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128667,
       "num": 128667,
       "word": "爸爸的沉默比任何骂都让人后怕",
@@ -747,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125652,
+      "num": 125652,
+      "word": "给阿嬷的情书 全素人阵容",
+      "onboard_time": 1778136140,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124219,
       "num": 124219,
       "word": "林心如回应找霍建华客串新剧",
@@ -761,6 +993,22 @@
       "onboard_time": 1778112381,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123027,
+      "num": 129585,
+      "word": "裁判向孙颖莎行绅士礼",
+      "onboard_time": 1778135540,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122150,
+      "num": 125026,
+      "word": "全村老人已读乱回火了",
+      "onboard_time": 1778136020,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121789,
@@ -947,14 +1195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67145,
-      "num": 165503,
-      "word": "林心如为陪孩子戒掉晚酌习惯",
-      "onboard_time": 1778126661,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63768,
       "num": 113699,
       "word": "我们的少年时代2",
@@ -1044,7 +1284,7 @@
     },
     {
       "raw_hot": 51384,
-      "num": 1647070,
+      "num": 1664588,
       "word": "五一假日图景尽显中国活力",
       "onboard_time": 1778123420,
       "rank": 2,
@@ -1052,7 +1292,7 @@
     },
     {
       "raw_hot": 50583,
-      "num": 171273,
+      "num": 203600,
       "word": "xAI更名SpaceXAI",
       "onboard_time": 1778119999,
       "rank": 48,

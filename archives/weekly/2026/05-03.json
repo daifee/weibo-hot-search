@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778127203593,
+  "endTime": 1778136318367,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -484,11 +484,19 @@
     },
     {
       "raw_hot": 1367787,
-      "num": 1367787,
+      "num": 2135464,
       "word": "五一买24件衣服全退光店主心态崩了",
       "onboard_time": 1778124560,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1362891,
+      "num": 1362891,
+      "word": "孙杨张豆豆给我看力竭了",
+      "onboard_time": 1778131280,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1361185,
@@ -753,6 +761,14 @@
       "onboard_time": 1777989504,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1075014,
+      "num": 265673,
+      "word": "谢娜演唱会卫生间配了卫生巾",
+      "onboard_time": 1778131101,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1071060,
@@ -1115,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 789925,
+      "num": 358787,
+      "word": "孙杨被伊能静开导哭了",
+      "onboard_time": 1778133680,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 789788,
       "num": 789788,
       "word": "52岁医生胃癌确诊到离世仅2个月",
@@ -1379,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 694844,
+      "num": 694844,
+      "word": "市监局称4只皮皮虾1035元价格合规",
+      "onboard_time": 1778131041,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688605,
       "num": 544334,
       "word": "全李酒店 全季酒店",
@@ -1507,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660172,
+      "num": 203286,
+      "word": "结婚不到10天女方扇耳光男方砍手指",
+      "onboard_time": 1778127922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660098,
       "num": 413466,
       "word": "林诗栋1比3吴晙诚",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1777784299,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 652206,
+      "num": 652206,
+      "word": "买衣服一定要穿最好看的那套去逛街",
+      "onboard_time": 1778126842,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 651338,
@@ -1928,6 +1976,14 @@
       "word": "香港酒店女子坠亡砸中女路人",
       "onboard_time": 1777898422,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538568,
+      "num": 251059,
+      "word": "24件被退回衣物均保留完整吊牌",
+      "onboard_time": 1778132240,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2515,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426841,
+      "num": 426841,
+      "word": "合租因室友掉两根头发报警",
+      "onboard_time": 1778127322,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426191,
       "num": 357043,
       "word": "世界杯中国赞助商投入超5亿美元",
@@ -2851,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384812,
+      "num": 384812,
+      "word": "曝钱天一退役自主择业",
+      "onboard_time": 1778135001,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384493,
       "num": 384493,
       "word": "很少用值回票价来形容婚礼",
@@ -2953,6 +3025,14 @@
       "onboard_time": 1777904423,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 372780,
+      "num": 222300,
+      "word": "多平台已下架全李酒店",
+      "onboard_time": 1778129841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372029,
@@ -3507,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315571,
+      "num": 213398,
+      "word": "何炅不再依赖哥哥算长大吗",
+      "onboard_time": 1778127322,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314800,
       "num": 406072,
       "word": "预测白玉兰得奖名单",
@@ -3609,6 +3697,14 @@
       "onboard_time": 1777904364,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309259,
+      "num": 202825,
+      "word": "用这种枕头可能损伤脑血管",
+      "onboard_time": 1778127322,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 307758,
@@ -3801,14 +3897,6 @@
       "onboard_time": 1778066063,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295665,
-      "num": 295665,
-      "word": "买衣服一定要穿最好看的那套去逛街",
-      "onboard_time": 1778126842,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 295655,
@@ -4073,6 +4161,14 @@
       "onboard_time": 1777980142,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271583,
+      "num": 271583,
+      "word": "代课 交换人生",
+      "onboard_time": 1778128522,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 270915,
@@ -4355,6 +4451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250037,
+      "num": 202330,
+      "word": "泰康人寿全国销冠被拘",
+      "onboard_time": 1778131762,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249520,
       "num": 249520,
       "word": "王曼昱什么时候上场",
@@ -4617,6 +4721,14 @@
       "onboard_time": 1777985002,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232164,
+      "num": 202075,
+      "word": "爸爸一脚踹向横穿马路孩子",
+      "onboard_time": 1778127622,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232082,
@@ -5171,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205207,
+      "num": 201305,
+      "word": "余承东发了肖战的拍摄花絮",
+      "onboard_time": 1778132602,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204853,
       "num": 309604,
       "word": "梁靖崑vs林文政",
@@ -5201,6 +5321,14 @@
       "onboard_time": 1778125280,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203686,
+      "num": 203686,
+      "word": "我驻南联盟使馆被炸新闻联播画面",
+      "onboard_time": 1778128342,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203075,
@@ -5411,6 +5539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191547,
+      "num": 184823,
+      "word": "虞书欣LA",
+      "onboard_time": 1778128342,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191073,
       "num": 669146,
       "word": "时代少年团发型塌了",
@@ -5497,6 +5633,14 @@
       "onboard_time": 1777886422,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187464,
+      "num": 187464,
+      "word": "雅戈尔创始人之女李寒穷将接棒",
+      "onboard_time": 1778129602,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 187431,
@@ -5611,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181463,
+      "num": 181463,
+      "word": "嘎子老婆回应",
+      "onboard_time": 1778132660,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181059,
       "num": 253392,
       "word": "夫妻接连下水救子父亲身亡",
@@ -5689,6 +5841,14 @@
       "onboard_time": 1777878020,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177675,
+      "num": 177675,
+      "word": "1岁半男童吃了两勺蚕豆住进ICU",
+      "onboard_time": 1778133262,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177348,
@@ -6019,6 +6179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 163441,
+      "num": 165503,
+      "word": "林心如为陪孩子戒掉晚酌习惯",
+      "onboard_time": 1778126661,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161994,
       "num": 161994,
       "word": "第一次听多肉叫",
@@ -6113,6 +6281,14 @@
       "onboard_time": 1777980022,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159072,
+      "num": 159072,
+      "word": "跑男才播一期审判的人换了好几波",
+      "onboard_time": 1778127442,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 159041,
@@ -6217,6 +6393,14 @@
       "onboard_time": 1777788140,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157083,
+      "num": 157083,
+      "word": "生活中的真正奢侈",
+      "onboard_time": 1778134640,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 156916,
@@ -6371,6 +6555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 152584,
+      "num": 152584,
+      "word": "妻旅 老公还是在观察室待着吧",
+      "onboard_time": 1778133139,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152056,
       "num": 273495,
       "word": "主播天权离开东方甄选后首次直播",
@@ -6395,12 +6587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "给阿嬷的情书女主 大学宿舍素颜直播",
+      "onboard_time": 1778129121,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150079,
       "num": 150079,
       "word": "雾里青路透",
       "onboard_time": 1777980142,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149905,
+      "num": 149905,
+      "word": "北约欠下的血债中国人永不会忘",
+      "onboard_time": 1778135419,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149620,
@@ -6425,6 +6633,14 @@
       "onboard_time": 1777993944,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 147794,
+      "word": "香港男演员公开交代后事",
+      "onboard_time": 1778135241,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147498,
@@ -6859,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129062,
+      "num": 129062,
+      "word": "aespa权志龙合作曲",
+      "onboard_time": 1778136261,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129060,
       "num": 434380,
       "word": "女子为摘枇杷掰弯树干",
@@ -6971,6 +7195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125652,
+      "num": 125652,
+      "word": "给阿嬷的情书 全素人阵容",
+      "onboard_time": 1778136140,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125539,
       "num": 244347,
       "word": "尤杯国羽1比1韩国",
@@ -7067,6 +7299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123027,
+      "num": 129585,
+      "word": "裁判向孙颖莎行绅士礼",
+      "onboard_time": 1778135540,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122715,
       "num": 122715,
       "word": "宁艺卓出发MetGala机场",
@@ -7096,6 +7336,14 @@
       "word": "主理人回应奶茶188元一杯",
       "onboard_time": 1777858999,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122150,
+      "num": 125026,
+      "word": "全村老人已读乱回火了",
+      "onboard_time": 1778136020,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -8027,14 +8275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67145,
-      "num": 165503,
-      "word": "林心如为陪孩子戒掉晚酌习惯",
-      "onboard_time": 1778126661,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64548,
       "num": 214923,
       "word": "这届年轻人的顶级心态",
@@ -8276,7 +8516,7 @@
     },
     {
       "raw_hot": 51384,
-      "num": 1647070,
+      "num": 1664588,
       "word": "五一假日图景尽显中国活力",
       "onboard_time": 1778123420,
       "rank": 2,
@@ -8284,7 +8524,7 @@
     },
     {
       "raw_hot": 50583,
-      "num": 171273,
+      "num": 203600,
       "word": "xAI更名SpaceXAI",
       "onboard_time": 1778119999,
       "rank": 48,
