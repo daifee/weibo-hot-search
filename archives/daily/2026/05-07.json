@@ -1,10 +1,10 @@
 {
   "startTime": 1778086180059,
-  "endTime": 1778125438966,
+  "endTime": 1778127203593,
   "band_list": [
     {
-      "raw_hot": 9978263,
-      "num": 9978263,
+      "raw_hot": 21061847,
+      "num": 21061847,
       "word": "淘宝免单",
       "onboard_time": 1778123660,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1890709,
-      "num": 2066068,
+      "num": 2078456,
       "word": "跑男学这么精彩吗",
       "onboard_time": 1778120060,
       "rank": 1,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1367787,
+      "num": 1367787,
+      "word": "五一买24件衣服全退光店主心态崩了",
+      "onboard_time": 1778124560,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1358509,
-      "num": 392977,
+      "num": 418172,
       "word": "殷世航傲娇美宣布结婚",
       "onboard_time": 1778116819,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1306575,
+      "num": 1306575,
+      "word": "浪姐至今为止翻红最成功的艺人",
+      "onboard_time": 1778121380,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1224468,
@@ -41,14 +57,6 @@
       "onboard_time": 1778081542,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1172273,
-      "num": 1172273,
-      "word": "浪姐至今为止翻红最成功的艺人",
-      "onboard_time": 1778121380,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 996898,
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 774728,
-      "num": 774728,
-      "word": "五一买24件衣服全退光店主心态崩了",
-      "onboard_time": 1778124560,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 713953,
       "num": 318101,
       "word": "男助产士撞脸张凌赫孕妈变迷妹",
@@ -91,12 +91,20 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 696232,
-      "num": 696232,
+      "raw_hot": 711746,
+      "num": 711746,
       "word": "FIFA回应中国区天价世界杯版权",
       "onboard_time": 1778116340,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670085,
+      "num": 670085,
+      "word": "谢娜演唱会庆功宴现场",
+      "onboard_time": 1778125824,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 651338,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 600712,
-      "num": 368307,
+      "num": 400096,
       "word": "EXO ai篡改记忆",
       "onboard_time": 1778112622,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597151,
+      "num": 403090,
+      "word": "马龙夫妇许昕夫妇同游英国",
+      "onboard_time": 1778124140,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 593525,
@@ -137,14 +153,6 @@
       "onboard_time": 1778109077,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 570987,
-      "num": 374672,
-      "word": "马龙夫妇许昕夫妇同游英国",
-      "onboard_time": 1778124140,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 563695,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 439526,
-      "num": 347703,
+      "num": 379750,
       "word": "国际足联严重依赖中国赞助商",
       "onboard_time": 1778116640,
       "rank": 15,
@@ -283,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357884,
+      "num": 357884,
+      "word": "孙颖莎拒绝场下偷拍",
+      "onboard_time": 1778126361,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346687,
       "num": 346687,
       "word": "虞书欣ins取消何与置顶了",
@@ -331,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304230,
+      "num": 304230,
+      "word": "长宁帝军官宣",
+      "onboard_time": 1778126242,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296510,
       "num": 296510,
       "word": "绥化2名失联女孩遗体已送至殡仪馆",
       "onboard_time": 1778086637,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295665,
+      "num": 295665,
+      "word": "买衣服一定要穿最好看的那套去逛街",
+      "onboard_time": 1778126842,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 295655,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 268637,
-      "num": 325278,
+      "num": 327732,
       "word": "英伟达宣布与康宁建立长期合作关系",
       "onboard_time": 1778110158,
       "rank": 18,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238528,
+      "num": 173823,
+      "word": "王菲献唱主角主题曲",
+      "onboard_time": 1778126482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235201,
       "num": 235201,
       "word": "黑龙江涉重大刑案54岁男子已落网",
@@ -464,6 +504,22 @@
       "word": "中国球迷力挺央视",
       "onboard_time": 1778109679,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208961,
+      "num": 208961,
+      "word": "翟子路领衔主演主角",
+      "onboard_time": 1778126721,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204036,
+      "num": 204036,
+      "word": "中国被FIFA划为一级高价市场",
+      "onboard_time": 1778125280,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -603,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147498,
+      "num": 173072,
+      "word": "林志玲决定和Akira交往的原因",
+      "onboard_time": 1778114121,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146176,
       "num": 146176,
       "word": "邓凯孔雪儿 长宁帝军",
@@ -643,20 +707,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134861,
-      "num": 125364,
-      "word": "中国被FIFA划为一级高价市场",
-      "onboard_time": 1778125280,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133020,
       "num": 133020,
       "word": "病毒邮轮",
       "onboard_time": 1778070382,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131746,
+      "num": 171747,
+      "word": "刘耀文晒穿戴甲",
+      "onboard_time": 1778115021,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128667,
@@ -672,22 +736,6 @@
       "word": "孔雪儿的穿搭AI给到夯",
       "onboard_time": 1778076323,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 126500,
-      "num": 126500,
-      "word": "刘耀文晒穿戴甲",
-      "onboard_time": 1778115021,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 125772,
-      "num": 125772,
-      "word": "林志玲决定和Akira交往的原因",
-      "onboard_time": 1778114121,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 120275,
-      "num": 125463,
+      "num": 168864,
       "word": "ADOR回应Minji归队",
       "onboard_time": 1778124680,
       "rank": 45,
@@ -899,12 +947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67145,
+      "num": 165503,
+      "word": "林心如为陪孩子戒掉晚酌习惯",
+      "onboard_time": 1778126661,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63768,
       "num": 113699,
       "word": "我们的少年时代2",
       "onboard_time": 1778070980,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63059,
+      "num": 434103,
+      "word": "涉疫邮轮患者夫妇活动轨迹公布",
+      "onboard_time": 1778126122,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60363,
@@ -931,12 +995,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55666,
+      "num": 327575,
+      "word": "游客体验坐囚车戴罪枷游街引争议",
+      "onboard_time": 1778126361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55285,
       "num": 113150,
       "word": "王皓提醒王楚钦冷静不要急躁",
       "onboard_time": 1778077823,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55005,
+      "num": 429004,
+      "word": "男子称爷爷30年前捐赠书画去向不明",
+      "onboard_time": 1778126603,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54302,
@@ -963,6 +1043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51384,
+      "num": 1647070,
+      "word": "五一假日图景尽显中国活力",
+      "onboard_time": 1778123420,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 50583,
+      "num": 171273,
+      "word": "xAI更名SpaceXAI",
+      "onboard_time": 1778119999,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44082,
       "num": 64176,
       "word": "仙侠剧女主终于不是傻白甜了",
@@ -979,20 +1075,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 41309,
-      "num": 1647070,
-      "word": "五一假日图景尽显中国活力",
-      "onboard_time": 1778123420,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 37092,
-      "num": 125047,
-      "word": "xAI更名SpaceXAI",
-      "onboard_time": 1778119999,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 37202,
+      "num": 173693,
+      "word": "别让爸妈被网瘾偷走幸福",
+      "onboard_time": 1778126423,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37031,

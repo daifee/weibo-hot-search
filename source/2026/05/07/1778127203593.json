@@ -1,0 +1,410 @@
+{
+  "runTime": 1778127203593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 21061847,
+        "num": 21061847,
+        "word": "淘宝免单",
+        "onboard_time": 1778123660,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1760214,
+        "num": 2078456,
+        "word": "跑男学这么精彩吗",
+        "onboard_time": 1778120060,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 1645082,
+        "word": "五一假日图景尽显中国活力",
+        "onboard_time": 1778123420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1367787,
+        "num": 1367787,
+        "word": "五一买24件衣服全退光店主心态崩了",
+        "onboard_time": 1778124560,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1306575,
+        "num": 1306575,
+        "word": "浪姐至今为止翻红最成功的艺人",
+        "onboard_time": 1778121380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711746,
+        "num": 711746,
+        "word": "FIFA回应中国区天价世界杯版权",
+        "onboard_time": 1778116340,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670085,
+        "num": 670085,
+        "word": "谢娜演唱会庆功宴现场",
+        "onboard_time": 1778125824,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 444519,
+        "num": 444519,
+        "word": "公安局大院内酒店每晚200到300元",
+        "onboard_time": 1778113762,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63059,
+        "num": 434103,
+        "word": "涉疫邮轮患者夫妇活动轨迹公布",
+        "onboard_time": 1778126122,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55005,
+        "num": 429004,
+        "word": "男子称爷爷30年前捐赠书画去向不明",
+        "onboard_time": 1778126603,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1132822,
+        "num": 418172,
+        "word": "殷世航傲娇美宣布结婚",
+        "onboard_time": 1778116819,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 597151,
+        "num": 403090,
+        "word": "马龙夫妇许昕夫妇同游英国",
+        "onboard_time": 1778124140,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544782,
+        "num": 400096,
+        "word": "EXO ai篡改记忆",
+        "onboard_time": 1778112622,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492576,
+        "num": 381421,
+        "word": "谢娜开演唱会上瘾了",
+        "onboard_time": 1778116520,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379750,
+        "num": 379750,
+        "word": "国际足联严重依赖中国赞助商",
+        "onboard_time": 1778116640,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357884,
+        "num": 357884,
+        "word": "孙颖莎拒绝场下偷拍",
+        "onboard_time": 1778126361,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353883,
+        "num": 353883,
+        "word": "NBA",
+        "onboard_time": 1778122160,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331735,
+        "num": 331735,
+        "word": "国际足联可能已经慌了",
+        "onboard_time": 1778108958,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64266,
+        "num": 327732,
+        "word": "英伟达宣布与康宁建立长期合作关系",
+        "onboard_time": 1778110158,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55666,
+        "num": 327575,
+        "word": "游客体验坐囚车戴罪枷游街引争议",
+        "onboard_time": 1778126361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327482,
+        "num": 327482,
+        "word": "虞书欣ins取消何与置顶了",
+        "onboard_time": 1778115920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320443,
+        "num": 320443,
+        "word": "主角定档",
+        "onboard_time": 1778121438,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307226,
+        "num": 307226,
+        "word": "一个人不是好人的微妙迹象是什么",
+        "onboard_time": 1778112742,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304230,
+        "num": 304230,
+        "word": "长宁帝军官宣",
+        "onboard_time": 1778126242,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295665,
+        "num": 295665,
+        "word": "买衣服一定要穿最好看的那套去逛街",
+        "onboard_time": 1778126842,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277881,
+        "num": 277881,
+        "word": "宁艺卓嘉人五月刊封面",
+        "onboard_time": 1778122160,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269241,
+        "num": 269241,
+        "word": "4只皮皮虾1035元涉事海鲜店回应",
+        "onboard_time": 1778109738,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247978,
+        "num": 247978,
+        "word": "被小朋友涂鸦的政府牌匾暂不会更换",
+        "onboard_time": 1778121438,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239445,
+        "num": 239445,
+        "word": "王楚钦被安宰贤吓一跳",
+        "onboard_time": 1778115982,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234122,
+        "num": 234122,
+        "word": "高市早苗下跪看清日本丑恶嘴脸",
+        "onboard_time": 1778109138,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219416,
+        "num": 219416,
+        "word": "王菲唱了戏腔",
+        "onboard_time": 1778123959,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216787,
+        "num": 216787,
+        "word": "森林狼vs马刺",
+        "onboard_time": 1778124560,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214031,
+        "num": 214031,
+        "word": "黑龙江涉重大刑案54岁男子已落网",
+        "onboard_time": 1778117840,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208961,
+        "num": 208961,
+        "word": "翟子路领衔主演主角",
+        "onboard_time": 1778126721,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204036,
+        "num": 204036,
+        "word": "中国被FIFA划为一级高价市场",
+        "onboard_time": 1778125280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197911,
+        "num": 197911,
+        "word": "孙颖莎和九年前一模一样",
+        "onboard_time": 1778124199,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181423,
+        "num": 181423,
+        "word": "暴发致命病毒邮轮或出现人传人现象",
+        "onboard_time": 1778081542,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173959,
+        "num": 173959,
+        "word": "36岁宝妈用筋膜枪按摩突发脑梗",
+        "onboard_time": 1778115920,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238528,
+        "num": 173823,
+        "word": "王菲献唱主角主题曲",
+        "onboard_time": 1778126482,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37202,
+        "num": 173693,
+        "word": "别让爸妈被网瘾偷走幸福",
+        "onboard_time": 1778126423,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173673,
+        "num": 173673,
+        "word": "你以为是常识的冷知识",
+        "onboard_time": 1778110158,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147498,
+        "num": 173072,
+        "word": "林志玲决定和Akira交往的原因",
+        "onboard_time": 1778114121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131746,
+        "num": 171747,
+        "word": "刘耀文晒穿戴甲",
+        "onboard_time": 1778115021,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50583,
+        "num": 171273,
+        "word": "xAI更名SpaceXAI",
+        "onboard_time": 1778119999,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 170393,
+        "word": "成毅悦游杂志",
+        "onboard_time": 1778125100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111774,
+        "num": 168864,
+        "word": "ADOR回应Minji归队",
+        "onboard_time": 1778124680,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38410,
+        "num": 167726,
+        "word": "三星",
+        "onboard_time": 1778069662,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82789,
+        "num": 167414,
+        "word": "卢昱晓把刀拿反了",
+        "onboard_time": 1778100134,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67145,
+        "num": 165503,
+        "word": "林心如为陪孩子戒掉晚酌习惯",
+        "onboard_time": 1778126661,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32627,
+        "num": 164407,
+        "word": "有AI真好 放以前没十几亿下不来",
+        "onboard_time": 1778075782,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年正当其时#"
+    }
+  }
+}

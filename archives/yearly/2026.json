@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778125438966,
+  "endTime": 1778127203593,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -89,6 +89,14 @@
       "onboard_time": 1771247027,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21061847,
+      "num": 21061847,
+      "word": "淘宝免单",
+      "onboard_time": 1778123660,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 20885446,
@@ -409,14 +417,6 @@
       "onboard_time": 1770284365,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 9978263,
-      "num": 9978263,
-      "word": "淘宝免单",
-      "onboard_time": 1778123660,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 9944497,
