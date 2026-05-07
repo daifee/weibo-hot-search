@@ -1,0 +1,410 @@
+{
+  "runTime": 1778146906550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032516,
+        "num": 1228535,
+        "word": "淘宝免单",
+        "onboard_time": 1778123660,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 835822,
+        "num": 889910,
+        "word": "全李酒店已更名",
+        "onboard_time": 1778141540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36543,
+        "num": 688452,
+        "word": "大国重器硬核升级",
+        "onboard_time": 1778138540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3656714,
+        "num": 658439,
+        "word": "跑男 只允许不喜欢郑恺李晨",
+        "onboard_time": 1778144240,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581077,
+        "num": 581077,
+        "word": "五一买24件衣服全退光店主心态崩了",
+        "onboard_time": 1778124560,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518484,
+        "num": 518484,
+        "word": "麻辣烫日本火爆被年轻女性当成药膳",
+        "onboard_time": 1778138060,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 473038,
+        "num": 473038,
+        "word": "禁止向动物索要食物",
+        "onboard_time": 1778136980,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465724,
+        "num": 465724,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1778146040,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453572,
+        "num": 453572,
+        "word": "歌手2026",
+        "onboard_time": 1778145681,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31349,
+        "num": 451988,
+        "word": "手机付款怎么变成了贷款",
+        "onboard_time": 1778146221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096286,
+        "num": 445056,
+        "word": "白鹿卢昱晓 抖音下沉市场",
+        "onboard_time": 1778136380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 871499,
+        "num": 442903,
+        "word": "孙杨张豆豆给我看力竭了",
+        "onboard_time": 1778131280,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457292,
+        "num": 438686,
+        "word": "新物种广西两头蛇被发现",
+        "onboard_time": 1778139620,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507112,
+        "num": 433506,
+        "word": "谢娜演唱会卫生间配了卫生巾",
+        "onboard_time": 1778131101,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 432076,
+        "num": 432076,
+        "word": "三问享界S9零重力座椅夹人事件",
+        "onboard_time": 1778140040,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 457531,
+        "num": 420935,
+        "word": "傅首尔回应被说瘦了像杨紫",
+        "onboard_time": 1778141841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389839,
+        "num": 389839,
+        "word": "银行已支付一储户1000万本金利息",
+        "onboard_time": 1778143342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387109,
+        "num": 387109,
+        "word": "5月桃花运最旺的星座",
+        "onboard_time": 1778138661,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362277,
+        "num": 362277,
+        "word": "Faker开自定义给自己庆生",
+        "onboard_time": 1778145562,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272935,
+        "num": 272935,
+        "word": "以为晾衣服偏心是很小众的事",
+        "onboard_time": 1778142681,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349072,
+        "num": 272839,
+        "word": "质子不争",
+        "onboard_time": 1778139200,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 348459,
+        "num": 272703,
+        "word": "马頔是我们没有辅佐好",
+        "onboard_time": 1778145500,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327481,
+        "num": 272566,
+        "word": "市监局称4只皮皮虾1035元价格合规",
+        "onboard_time": 1778131041,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 272274,
+        "word": "孙杨被伊能静开导哭了",
+        "onboard_time": 1778133680,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291341,
+        "num": 272205,
+        "word": "救救孙丞潇",
+        "onboard_time": 1778142739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272108,
+        "num": 272108,
+        "word": "中国女团vs韩国对阵名单",
+        "onboard_time": 1778143823,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254593,
+        "num": 254593,
+        "word": "日本街头疑现芬太尼丧尸",
+        "onboard_time": 1778145562,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253974,
+        "num": 253974,
+        "word": "浪姐至今为止翻红最成功的艺人",
+        "onboard_time": 1778121380,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233924,
+        "num": 233924,
+        "word": "全村老人已读乱回火了",
+        "onboard_time": 1778136020,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225818,
+        "num": 225818,
+        "word": "生活中的真正奢侈",
+        "onboard_time": 1778134640,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38184,
+        "num": 223583,
+        "word": "6旬加班身亡男子几乎无双休",
+        "onboard_time": 1778146759,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222234,
+        "num": 222234,
+        "word": "汉坦病毒疫情扩散",
+        "onboard_time": 1778144002,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216077,
+        "num": 216077,
+        "word": "泰康人寿全国销冠被拘",
+        "onboard_time": 1778131762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213373,
+        "num": 213373,
+        "word": "男孩厕所捡到15万劳力士绿水鬼",
+        "onboard_time": 1778138540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204107,
+        "num": 204107,
+        "word": "歌手2026 AI歌手",
+        "onboard_time": 1778137580,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199954,
+        "num": 199954,
+        "word": "Diplo发了与Jennie的合照",
+        "onboard_time": 1778146221,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192557,
+        "num": 192557,
+        "word": "马龙观赛从沙发到看台",
+        "onboard_time": 1778141300,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 191902,
+        "word": "宁艺卓内场图",
+        "onboard_time": 1778139740,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177920,
+        "num": 177920,
+        "word": "尘白禁区重新开服",
+        "onboard_time": 1778137340,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77014,
+        "num": 171946,
+        "word": "日本街头的芬太尼丧尸",
+        "onboard_time": 1778145920,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171605,
+        "num": 171605,
+        "word": "1岁半女婴私处发育异常险变男孩",
+        "onboard_time": 1778142263,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157375,
+        "num": 157375,
+        "word": "男子被毒蛇咬后打死蛇就医",
+        "onboard_time": 1778146522,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155234,
+        "num": 155234,
+        "word": "乘风2026师姐阵容",
+        "onboard_time": 1778146401,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "小区531户仅25户交物业费电梯被停",
+        "onboard_time": 1778143823,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154996,
+        "num": 154996,
+        "word": "章子怡宁艺卓同款封面姿势",
+        "onboard_time": 1778145621,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154677,
+        "num": 154677,
+        "word": "买衣服一定要穿最好看的那套去逛街",
+        "onboard_time": 1778126842,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141037,
+        "num": 141037,
+        "word": "aespa权志龙合作曲",
+        "onboard_time": 1778136261,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136869,
+        "num": 136869,
+        "word": "香港男演员公开交代后事",
+        "onboard_time": 1778135241,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140552,
+        "num": 136441,
+        "word": "用这种枕头可能损伤脑血管",
+        "onboard_time": 1778127322,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135266,
+        "num": 136014,
+        "word": "黄子佼获缓刑4年",
+        "onboard_time": 1778142079,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年的爱护与期待#"
+    }
+  }
+}
