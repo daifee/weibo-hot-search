@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778250251656,
+  "endTime": 1778252353971,
   "band_list": [
     {
       "raw_hot": 4496054,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3461122,
-      "num": 377622,
+      "num": 583390,
       "word": "李金铭全平台停更",
       "onboard_time": 1778248044,
       "rank": 10,
@@ -123,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1715167,
+      "raw_hot": 1754728,
       "num": 1715167,
       "word": "再有消息就是要结婚了",
       "onboard_time": 1778244680,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016769,
+      "num": 1016769,
+      "word": "浏阳爆炸烟花厂内部画面",
+      "onboard_time": 1778249963,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1005426,
       "num": 1005426,
       "word": "工作后大家的朋友圈都变了",
@@ -235,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 995129,
+      "num": 995129,
+      "word": "朴宝英百想视后",
+      "onboard_time": 1778251762,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 983597,
       "num": 631224,
       "word": "陈漫拍Angelababy",
       "onboard_time": 1778217080,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 975658,
+      "num": 975658,
+      "word": "偏偏宠爱 宋威龙",
+      "onboard_time": 1778247202,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 972272,
@@ -265,14 +289,6 @@
       "onboard_time": 1778232261,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904822,
-      "num": 904822,
-      "word": "偏偏宠爱 宋威龙",
-      "onboard_time": 1778247202,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 890053,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 815266,
+      "num": 815266,
+      "word": "70%卵巢癌患者确诊时已是晚期",
+      "onboard_time": 1778241141,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 805414,
       "num": 805414,
       "word": "斜方肌就是一个巨大的讨好型人格",
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 733878,
+      "num": 733878,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1778246901,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 724927,
       "num": 724927,
       "word": "刚出锅的洞洞鞋",
@@ -363,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 666370,
-      "num": 666370,
-      "word": "70%卵巢癌患者确诊时已是晚期",
-      "onboard_time": 1778241141,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 663628,
       "num": 350650,
       "word": "暴发致命病毒邮轮中国乘客发声",
@@ -385,14 +409,6 @@
       "onboard_time": 1778243361,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 655759,
-      "num": 377414,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1778246901,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 652651,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 581768,
-      "num": 376839,
+      "num": 464335,
       "word": "肖战齐夏近距离路透",
       "onboard_time": 1778244623,
       "rank": 14,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 576818,
-      "num": 376559,
+      "num": 572595,
       "word": "印度学霸改成绩单被父亲电锯割喉",
       "onboard_time": 1778241680,
       "rank": 18,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 453627,
-      "num": 376448,
+      "num": 405413,
       "word": "网传浪姐四公分组",
       "onboard_time": 1778242341,
       "rank": 23,
@@ -667,6 +683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 430085,
+      "num": 430085,
+      "word": "鞠婧祎张云龙晒合照",
+      "onboard_time": 1778249182,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428795,
       "num": 428795,
       "word": "许昕为世乒赛开场",
@@ -699,8 +723,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 409740,
-      "num": 375970,
+      "raw_hot": 414883,
+      "num": 414883,
       "word": "美公布首批UFO相关政府文件",
       "onboard_time": 1778247623,
       "rank": 18,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 377774,
-      "num": 377774,
+      "num": 585229,
       "word": "增距镜成为韩国人必买中国特产",
       "onboard_time": 1778244202,
       "rank": 9,
@@ -819,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345125,
-      "num": 345125,
-      "word": "鞠婧祎张云龙晒合照",
-      "onboard_time": 1778249182,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339378,
       "num": 339569,
       "word": "贵州蘸水",
@@ -873,6 +889,14 @@
       "onboard_time": 1778230820,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319907,
+      "num": 319907,
+      "word": "百想艺术大赏",
+      "onboard_time": 1778240421,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 315568,
@@ -971,20 +995,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 283744,
-      "num": 283744,
-      "word": "百想艺术大赏",
-      "onboard_time": 1778240421,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 282004,
       "num": 282004,
       "word": "金银价格大涨",
       "onboard_time": 1778198359,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 279485,
+      "num": 279485,
+      "word": "魏大勋带父亲去阿那亚",
+      "onboard_time": 1778251463,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 274331,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1778145562,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 260384,
+      "num": 260384,
+      "word": "萧敬腾考虑和大14岁妻子领养孩子",
+      "onboard_time": 1778250024,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 259224,
@@ -1107,20 +1139,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243993,
+      "num": 243993,
+      "word": "靠追星年入百万后对顶流们祛魅了",
+      "onboard_time": 1778248583,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243038,
       "num": 300586,
       "word": "皇马内讧",
       "onboard_time": 1778166683,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242745,
-      "num": 242745,
-      "word": "靠追星年入百万后对顶流们祛魅了",
-      "onboard_time": 1778248583,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 240519,
@@ -1147,12 +1179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234621,
+      "num": 345020,
+      "word": "白鹿跑男开场来了段啦啦操",
+      "onboard_time": 1778248163,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234340,
       "num": 234340,
       "word": "亚历山大一级恶意犯规",
       "onboard_time": 1778217022,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230663,
+      "num": 230663,
+      "word": "广东的湿度在此刻具象化",
+      "onboard_time": 1778247322,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 229466,
@@ -1339,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202769,
+      "num": 202769,
+      "word": "文佳煐百想影后",
+      "onboard_time": 1778252243,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202427,
       "num": 336929,
       "word": "AppleWatch首次加入教育优惠",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1778198422,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 176113,
-      "num": 176113,
-      "word": "萧敬腾考虑和大14岁妻子领养孩子",
-      "onboard_time": 1778250024,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 174552,
@@ -1579,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152729,
+      "num": 152729,
+      "word": "赵心童年度最佳球员",
+      "onboard_time": 1778250923,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152044,
       "num": 299205,
       "word": "当奶奶吃到了年轻人的零食",
@@ -1595,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150111,
+      "num": 150111,
+      "word": "低智商犯罪 哈尔滨",
+      "onboard_time": 1778250443,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148344,
       "num": 299276,
       "word": "汉坦病毒首发病例感染轨迹曝光",
       "onboard_time": 1778171000,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 144067,
-      "num": 345020,
-      "word": "白鹿跑男开场来了段啦啦操",
-      "onboard_time": 1778248163,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 143616,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1778197580,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131896,
+      "num": 420873,
+      "word": "榴莲事件说明很多事不能算了",
+      "onboard_time": 1778251702,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131755,
@@ -1963,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79265,
+      "num": 483445,
+      "word": "刷圈霸榜的奥迪E7X卖28.98万起",
+      "onboard_time": 1778250923,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78839,
       "num": 78839,
       "word": "无锡街采采访到张凌赫表弟",
@@ -1995,12 +2067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75221,
+      "num": 258230,
+      "word": "范丞丞被徐艺洋气到给黄子韬打电话",
+      "onboard_time": 1778252003,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73323,
       "num": 49047,
       "word": "这部剧当时是这么营业的吗",
       "onboard_time": 1778188095,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72097,
+      "num": 506972,
+      "word": "汉坦是什么病毒",
+      "onboard_time": 1778251822,
+      "rank": 14,
+      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 61215,
@@ -2195,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39114,
+      "num": 416761,
+      "word": "全球紧急追踪涉疫邮轮人员",
+      "onboard_time": 1778251822,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37640,
       "num": 1988840,
       "word": "假日经济点燃消费热潮",
@@ -2209,14 +2305,6 @@
       "onboard_time": 1778227280,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36250,
-      "num": 345062,
-      "word": "浏阳爆炸烟花厂内部画面",
-      "onboard_time": 1778249963,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35685,
