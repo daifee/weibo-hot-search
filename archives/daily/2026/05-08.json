@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778227652122,
+  "endTime": 1778228816677,
   "band_list": [
     {
       "raw_hot": 4496054,
@@ -17,6 +17,14 @@
       "onboard_time": 1778223740,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2221925,
+      "num": 594247,
+      "word": "向太不满向佑恋情称绝不认这种儿媳",
+      "onboard_time": 1778217980,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2214572,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2055441,
+      "num": 2055441,
+      "word": "OPPO 文案价值观",
+      "onboard_time": 1778226741,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1922306,
       "num": 1922306,
       "word": "张杰在谢娜庆功宴上敬酒",
@@ -65,14 +81,6 @@
       "onboard_time": 1778170221,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1721161,
-      "num": 594247,
-      "word": "向太不满向佑恋情称绝不认这种儿媳",
-      "onboard_time": 1778217980,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1646477,
@@ -131,6 +139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1113006,
+      "num": 782880,
+      "word": "汉坦病毒",
+      "onboard_time": 1778227580,
+      "rank": 5,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 1028132,
       "num": 605695,
       "word": "吴慷仁回复立场问题",
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 884902,
+      "num": 401392,
+      "word": "孙恩盛掉美颜",
+      "onboard_time": 1778221340,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 873357,
       "num": 873357,
       "word": "浏阳烟花厂爆炸涉案8人传唤到案",
@@ -187,28 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 822078,
-      "num": 401392,
-      "word": "孙恩盛掉美颜",
-      "onboard_time": 1778221340,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 805414,
       "num": 805414,
       "word": "斜方肌就是一个巨大的讨好型人格",
       "onboard_time": 1778211980,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 782880,
-      "num": 782880,
-      "word": "汉坦病毒",
-      "onboard_time": 1778227580,
-      "rank": 5,
-      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 754487,
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492030,
+      "num": 492030,
+      "word": "孟子义确实红的档期有点满",
+      "onboard_time": 1778224520,
+      "rank": 8,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 491988,
       "num": 491988,
       "word": "浪姐第三次公演播出调整",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 489434,
-      "num": 361963,
+      "num": 488490,
       "word": "央视或低价拿下世界杯转播权",
       "onboard_time": 1778219121,
       "rank": 22,
@@ -368,6 +384,14 @@
       "word": "浪姐三公淘汰观众",
       "onboard_time": 1778206040,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 448096,
+      "num": 448096,
+      "word": "难怪马頔会喜欢孙丞潇",
+      "onboard_time": 1778225780,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -401,14 +425,6 @@
       "onboard_time": 1778196680,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 415753,
-      "num": 415753,
-      "word": "孟子义确实红的档期有点满",
-      "onboard_time": 1778224520,
-      "rank": 8,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 384084,
@@ -516,19 +532,19 @@
     },
     {
       "raw_hot": 337407,
-      "num": 337407,
+      "num": 366995,
       "word": "美国小鸟疑似用废弃针头筑巢",
       "onboard_time": 1778216480,
       "rank": 37,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 316147,
-      "num": 316147,
-      "word": "难怪马頔会喜欢孙丞潇",
-      "onboard_time": 1778225780,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 328377,
+      "num": 328377,
+      "word": "网友拿走女子相机故意评论区炫耀",
+      "onboard_time": 1778226801,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315568,
@@ -537,6 +553,14 @@
       "onboard_time": 1778204119,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312094,
+      "num": 312094,
+      "word": "恩新cp",
+      "onboard_time": 1778227100,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 310374,
@@ -587,14 +611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 275664,
-      "num": 275664,
-      "word": "OPPO 文案价值观",
-      "onboard_time": 1778226741,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 274331,
       "num": 300845,
       "word": "男童凌晨4点抱被子街头哭泣独行",
@@ -635,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 259043,
+      "num": 206870,
+      "word": "今我二人 今我夫妻二人",
+      "onboard_time": 1778223440,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258155,
       "num": 208294,
       "word": "怦然心动返场直播",
@@ -665,22 +689,6 @@
       "onboard_time": 1778196739,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 248249,
-      "num": 208099,
-      "word": "网友拿走女子相机故意评论区炫耀",
-      "onboard_time": 1778226801,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246936,
-      "num": 206870,
-      "word": "今我二人 今我夫妻二人",
-      "onboard_time": 1778223440,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 245367,
@@ -728,6 +736,14 @@
       "word": "亚历山大一级恶意犯规",
       "onboard_time": 1778217022,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227515,
+      "num": 192054,
+      "word": "詹姆斯一句0比2堵住所有问题",
+      "onboard_time": 1778227820,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -819,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209320,
+      "num": 195781,
+      "word": "袁娅维报平安",
+      "onboard_time": 1778222541,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208010,
       "num": 339861,
       "word": "零重力座椅碰撞后堪比从5楼跳下",
@@ -859,22 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197283,
-      "num": 197283,
-      "word": "恩新cp",
-      "onboard_time": 1778227100,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195781,
-      "num": 195781,
-      "word": "袁娅维报平安",
-      "onboard_time": 1778222541,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192777,
       "num": 300400,
       "word": "小区531户仅25户交物业费业主发声",
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187069,
+      "num": 187069,
+      "word": "老人子宫切除20年后CT报告正常",
+      "onboard_time": 1778221761,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181926,
       "num": 181926,
       "word": "演员最好的固粉手段",
@@ -913,14 +929,6 @@
       "onboard_time": 1778161702,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179811,
-      "num": 179811,
-      "word": "老人子宫切除20年后CT报告正常",
-      "onboard_time": 1778221761,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177501,
@@ -1027,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155911,
+      "num": 203352,
+      "word": "麻瓜请闭眼",
+      "onboard_time": 1778228301,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152044,
       "num": 299205,
       "word": "当奶奶吃到了年轻人的零食",
@@ -1073,6 +1089,22 @@
       "onboard_time": 1778198422,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134426,
+      "num": 375588,
+      "word": "浏阳烟花厂爆炸仍有1人失联",
+      "onboard_time": 1778227280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133913,
+      "num": 189537,
+      "word": "Switch2官宣涨价",
+      "onboard_time": 1778227941,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 132609,
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100438,
+      "num": 339791,
+      "word": "女子高空作业时被威胁剪掉绳子",
+      "onboard_time": 1778227280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97597,
       "num": 97597,
       "word": "张凌赫凭一己之力带火横店烤肉",
@@ -1251,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89886,
+      "num": 171087,
+      "word": "智能手表配手串 buff叠满",
+      "onboard_time": 1778222000,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 89307,
       "num": 298052,
       "word": "JieJie 活着",
@@ -1283,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81943,
-      "num": 171087,
-      "word": "智能手表配手串 buff叠满",
-      "onboard_time": 1778222000,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 81234,
       "num": 296864,
       "word": "县纪委回应镇干部受同事邀钓鱼溺亡",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1778168063,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75902,
+      "num": 379245,
+      "word": "央媒提醒选纸巾别踩这些坑",
+      "onboard_time": 1778225720,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73323,
@@ -1347,14 +1395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56499,
-      "num": 379245,
-      "word": "央媒提醒选纸巾别踩这些坑",
-      "onboard_time": 1778225720,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53749,
       "num": 1394499,
       "word": "国产储能出口迎爆发式增长",
@@ -1369,14 +1409,6 @@
       "onboard_time": 1778152640,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53355,
-      "num": 375588,
-      "word": "浏阳烟花厂爆炸仍有1人失联",
-      "onboard_time": 1778227280,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53296,
@@ -1419,6 +1451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46128,
+      "num": 337371,
+      "word": "婚检HPV乌龙性病传播加深偏见",
+      "onboard_time": 1778227280,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45521,
       "num": 296905,
       "word": "谢娜张杰一起上音综",
@@ -1427,12 +1467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44444,
-      "num": 339791,
-      "word": "女子高空作业时被威胁剪掉绳子",
-      "onboard_time": 1778227280,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 44501,
+      "num": 198021,
+      "word": "网传浪姐三公不淘汰",
+      "onboard_time": 1778223200,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 44175,
@@ -1444,7 +1484,7 @@
     },
     {
       "raw_hot": 43136,
-      "num": 187704,
+      "num": 368977,
       "word": "王心凌还是权威",
       "onboard_time": 1778227521,
       "rank": 43,
@@ -1531,6 +1571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21883,
+      "num": 1608842,
+      "word": "以旧换新助推智能消费升级",
+      "onboard_time": 1778226441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18280,
       "num": 27101,
       "word": "中国投资者被假皇室骗1800万美元",
@@ -1539,11 +1587,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16997,
-      "num": 1216848,
-      "word": "以旧换新助推智能消费升级",
-      "onboard_time": 1778226441,
-      "rank": 2,
+      "raw_hot": 14856,
+      "num": 365975,
+      "word": "溺亡镇干部因赌博欠贷款37万元",
+      "onboard_time": 1778228482,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1552,14 +1600,6 @@
       "word": "业内人士称烟花厂培训是走过场",
       "onboard_time": 1778220260,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8788,
-      "num": 337371,
-      "word": "婚检HPV乌龙性病传播加深偏见",
-      "onboard_time": 1778227280,
-      "rank": 24,
       "category": "民生新闻"
     },
     {

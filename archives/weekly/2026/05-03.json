@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778227652122,
+  "endTime": 1778228816677,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2221925,
+      "num": 594247,
+      "word": "向太不满向佑恋情称绝不认这种儿媳",
+      "onboard_time": 1778217980,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2214572,
       "num": 2214572,
       "word": "湖南卫视综艺本周停播",
@@ -313,6 +321,14 @@
       "onboard_time": 1777974742,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2055441,
+      "num": 2055441,
+      "word": "OPPO 文案价值观",
+      "onboard_time": 1778226741,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 2036641,
@@ -416,14 +432,6 @@
       "word": "卢昱晓下沉口碑",
       "onboard_time": 1777989142,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1721161,
-      "num": 594247,
-      "word": "向太不满向佑恋情称绝不认这种儿媳",
-      "onboard_time": 1778217980,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1113006,
+      "num": 782880,
+      "word": "汉坦病毒",
+      "onboard_time": 1778227580,
+      "rank": 5,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 1108379,
       "num": 1108379,
       "word": "汉坦病毒疫情",
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 884902,
+      "num": 401392,
+      "word": "孙恩盛掉美颜",
+      "onboard_time": 1778221340,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 883932,
       "num": 883932,
       "word": "强烈建议大家去狂刷考公综艺",
@@ -1379,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 822078,
-      "num": 401392,
-      "word": "孙恩盛掉美颜",
-      "onboard_time": 1778221340,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 821036,
       "num": 384626,
       "word": "林志玲和老公因语言不通感情升温",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1777935856,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 782880,
-      "num": 782880,
-      "word": "汉坦病毒",
-      "onboard_time": 1778227580,
-      "rank": 5,
-      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 777565,
@@ -2755,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492030,
+      "num": 492030,
+      "word": "孟子义确实红的档期有点满",
+      "onboard_time": 1778224520,
+      "rank": 8,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 491988,
       "num": 491988,
       "word": "浪姐第三次公演播出调整",
@@ -2804,7 +2820,7 @@
     },
     {
       "raw_hot": 489434,
-      "num": 361963,
+      "num": 488490,
       "word": "央视或低价拿下世界杯转播权",
       "onboard_time": 1778219121,
       "rank": 22,
@@ -3065,6 +3081,14 @@
       "onboard_time": 1778150300,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448096,
+      "num": 448096,
+      "word": "难怪马頔会喜欢孙丞潇",
+      "onboard_time": 1778225780,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 448026,
@@ -3329,14 +3353,6 @@
       "onboard_time": 1778145562,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 415753,
-      "num": 415753,
-      "word": "孟子义确实红的档期有点满",
-      "onboard_time": 1778224520,
-      "rank": 8,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 414472,
@@ -4164,7 +4180,7 @@
     },
     {
       "raw_hot": 337407,
-      "num": 337407,
+      "num": 366995,
       "word": "美国小鸟疑似用废弃针头筑巢",
       "onboard_time": 1778216480,
       "rank": 37,
@@ -4217,6 +4233,14 @@
       "onboard_time": 1778050099,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328377,
+      "num": 328377,
+      "word": "网友拿走女子相机故意评论区炫耀",
+      "onboard_time": 1778226801,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328304,
@@ -4419,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316147,
-      "num": 316147,
-      "word": "难怪马頔会喜欢孙丞潇",
-      "onboard_time": 1778225780,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315571,
       "num": 214325,
       "word": "何炅不再依赖哥哥算长大吗",
@@ -4489,6 +4505,14 @@
       "onboard_time": 1778067320,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312094,
+      "num": 312094,
+      "word": "恩新cp",
+      "onboard_time": 1778227100,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 312056,
@@ -5051,14 +5075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 275664,
-      "num": 275664,
-      "word": "OPPO 文案价值观",
-      "onboard_time": 1778226741,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 275513,
       "num": 363025,
       "word": "火到欧美的韩国棒球女神是AI生成",
@@ -5289,6 +5305,14 @@
       "onboard_time": 1778057602,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259043,
+      "num": 206870,
+      "word": "今我二人 今我夫妻二人",
+      "onboard_time": 1778223440,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 258681,
@@ -5544,22 +5568,6 @@
       "word": "佳偶天成 被剧名耽误",
       "onboard_time": 1777810223,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 248249,
-      "num": 208099,
-      "word": "网友拿走女子相机故意评论区炫耀",
-      "onboard_time": 1778226801,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246936,
-      "num": 206870,
-      "word": "今我二人 今我夫妻二人",
-      "onboard_time": 1778223440,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -6009,6 +6017,14 @@
       "onboard_time": 1777910421,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227515,
+      "num": 192054,
+      "word": "詹姆斯一句0比2堵住所有问题",
+      "onboard_time": 1778227820,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 227495,
@@ -6483,6 +6499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209320,
+      "num": 195781,
+      "word": "袁娅维报平安",
+      "onboard_time": 1778222541,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208985,
       "num": 208985,
       "word": "国产千万级超跑秒售罄",
@@ -6835,14 +6859,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 197283,
-      "num": 197283,
-      "word": "恩新cp",
-      "onboard_time": 1778227100,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196662,
       "num": 263640,
       "word": "国乒男团上训备战韩国",
@@ -6857,14 +6873,6 @@
       "onboard_time": 1778111478,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195781,
-      "num": 195781,
-      "word": "袁娅维报平安",
-      "onboard_time": 1778222541,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 195639,
@@ -7115,6 +7123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187069,
+      "num": 187069,
+      "word": "老人子宫切除20年后CT报告正常",
+      "onboard_time": 1778221761,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186282,
       "num": 338893,
       "word": "佳偶天成",
@@ -7257,14 +7273,6 @@
       "onboard_time": 1777735823,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179811,
-      "num": 179811,
-      "word": "老人子宫切除20年后CT报告正常",
-      "onboard_time": 1778221761,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179795,
@@ -8019,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155911,
+      "num": 203352,
+      "word": "麻瓜请闭眼",
+      "onboard_time": 1778228301,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155799,
       "num": 237238,
       "word": "肖战大影节红毯",
@@ -8611,6 +8627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134426,
+      "num": 375588,
+      "word": "浏阳烟花厂爆炸仍有1人失联",
+      "onboard_time": 1778227280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134425,
       "num": 282098,
       "word": "敦煌鸣沙山爆满游客发声",
@@ -8657,6 +8681,14 @@
       "onboard_time": 1777808003,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133913,
+      "num": 189537,
+      "word": "Switch2官宣涨价",
+      "onboard_time": 1778227941,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 132780,
@@ -9555,6 +9587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100438,
+      "num": 339791,
+      "word": "女子高空作业时被威胁剪掉绳子",
+      "onboard_time": 1778227280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100305,
       "num": 203997,
       "word": "保时捷卖掉布加迪",
@@ -9747,6 +9787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89886,
+      "num": 171087,
+      "word": "智能手表配手串 buff叠满",
+      "onboard_time": 1778222000,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 89467,
       "num": 89467,
       "word": "悬空寺一票难求",
@@ -9857,14 +9905,6 @@
       "onboard_time": 1777867699,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81943,
-      "num": 171087,
-      "word": "智能手表配手串 buff叠满",
-      "onboard_time": 1778222000,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 81918,
@@ -9985,6 +10025,14 @@
       "onboard_time": 1777852578,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75902,
+      "num": 379245,
+      "word": "央媒提醒选纸巾别踩这些坑",
+      "onboard_time": 1778225720,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75794,
@@ -10227,14 +10275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56499,
-      "num": 379245,
-      "word": "央媒提醒选纸巾别踩这些坑",
-      "onboard_time": 1778225720,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56047,
       "num": 245006,
       "word": "张雪机车绝杀两台雅马哈",
@@ -10329,14 +10369,6 @@
       "onboard_time": 1777742417,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 53355,
-      "num": 375588,
-      "word": "浏阳烟花厂爆炸仍有1人失联",
-      "onboard_time": 1778227280,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53315,
@@ -10507,6 +10539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46128,
+      "num": 337371,
+      "word": "婚检HPV乌龙性病传播加深偏见",
+      "onboard_time": 1778227280,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45921,
       "num": 141390,
       "word": "1300斤牛被找回暴瘦200斤村民发声",
@@ -10547,12 +10587,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 44444,
-      "num": 339791,
-      "word": "女子高空作业时被威胁剪掉绳子",
-      "onboard_time": 1778227280,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 44501,
+      "num": 198021,
+      "word": "网传浪姐三公不淘汰",
+      "onboard_time": 1778223200,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 44175,
@@ -10588,7 +10628,7 @@
     },
     {
       "raw_hot": 43136,
-      "num": 187704,
+      "num": 368977,
       "word": "王心凌还是权威",
       "onboard_time": 1778227521,
       "rank": 43,
@@ -11163,6 +11203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21883,
+      "num": 1608842,
+      "word": "以旧换新助推智能消费升级",
+      "onboard_time": 1778226441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21692,
       "num": 50521,
       "word": "国乒男团3比0英格兰",
@@ -11251,14 +11299,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16997,
-      "num": 1216848,
-      "word": "以旧换新助推智能消费升级",
-      "onboard_time": 1778226441,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16320,
       "num": 261825,
       "word": "卖饼老板翻饼打出武侠绝学",
@@ -11313,6 +11353,14 @@
       "onboard_time": 1778060060,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14856,
+      "num": 365975,
+      "word": "溺亡镇干部因赌博欠贷款37万元",
+      "onboard_time": 1778228482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14810,
@@ -11393,14 +11441,6 @@
       "onboard_time": 1777813283,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8788,
-      "num": 337371,
-      "word": "婚检HPV乌龙性病传播加深偏见",
-      "onboard_time": 1778227280,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8197,
