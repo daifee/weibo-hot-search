@@ -1,0 +1,410 @@
+{
+  "runTime": 1778212832254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4036596,
+        "num": 4036596,
+        "word": "淘宝免单",
+        "onboard_time": 1778210420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2124174,
+        "num": 2124174,
+        "word": "香港拿下世界杯转播权",
+        "onboard_time": 1778206281,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12692,
+        "num": 1988840,
+        "word": "假日经济点燃消费热潮",
+        "onboard_time": 1778159421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1922306,
+        "num": 1922306,
+        "word": "张杰在谢娜庆功宴上敬酒",
+        "onboard_time": 1778209340,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1136635,
+        "num": 1136635,
+        "word": "减肥才知道高中吃的有多少",
+        "onboard_time": 1778202260,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 948454,
+        "num": 948454,
+        "word": "因恶意退货太多整条街道被商家拉黑",
+        "onboard_time": 1778205860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573094,
+        "num": 573094,
+        "word": "马頔人家新婚你忍忍吧",
+        "onboard_time": 1778209041,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572514,
+        "num": 572514,
+        "word": "原来好的大学真的有隐形福利",
+        "onboard_time": 1778196739,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512565,
+        "num": 512565,
+        "word": "加入酱油会出现蟑螂的酱油碟",
+        "onboard_time": 1778202920,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1591545,
+        "num": 510160,
+        "word": "榴莲仅退款买家发声",
+        "onboard_time": 1778208080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1256942,
+        "num": 501959,
+        "word": "热巴的造型因metgala又在外网火了",
+        "onboard_time": 1778204539,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1028132,
+        "num": 484645,
+        "word": "吴慷仁回复立场问题",
+        "onboard_time": 1778206040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583138,
+        "num": 480104,
+        "word": "央视拒买单后国际足联高管将访华",
+        "onboard_time": 1778208380,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471926,
+        "num": 471926,
+        "word": "张凌赫宋祖儿刺棠Q3开机",
+        "onboard_time": 1778205021,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453185,
+        "num": 453185,
+        "word": "浪姐三公淘汰观众",
+        "onboard_time": 1778206040,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411529,
+        "num": 411529,
+        "word": "刷手机 刻板行为",
+        "onboard_time": 1778201722,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 397422,
+        "num": 397422,
+        "word": "王楚钦不提倡不参与生日应援活动",
+        "onboard_time": 1778197340,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381967,
+        "num": 381967,
+        "word": "上海迪士尼能通话录音游客不能录",
+        "onboard_time": 1778205921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353208,
+        "num": 353208,
+        "word": "湖人vs雷霆",
+        "onboard_time": 1778207300,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179117,
+        "num": 352401,
+        "word": "新加坡将鞭刑加入校园反霸凌新规",
+        "onboard_time": 1778209280,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374471,
+        "num": 350032,
+        "word": "真的有人能被爱到这种程度",
+        "onboard_time": 1778204599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351582,
+        "num": 349651,
+        "word": "浪姐补偿方案",
+        "onboard_time": 1778196619,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332045,
+        "num": 346613,
+        "word": "雨霖铃",
+        "onboard_time": 1778208080,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279746,
+        "num": 344476,
+        "word": "父亲每月给7000儿子仍网贷打赏主播",
+        "onboard_time": 1778204119,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328591,
+        "num": 344235,
+        "word": "马頔表情",
+        "onboard_time": 1778204660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310374,
+        "num": 341727,
+        "word": "吻戏还得是年上来拍",
+        "onboard_time": 1778208619,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269256,
+        "num": 340000,
+        "word": "榴莲遭仅退款商家驱车1600公里找买家",
+        "onboard_time": 1778170221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209470,
+        "num": 338842,
+        "word": "吉赛尔回应每个月换一张新脸",
+        "onboard_time": 1778211680,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186973,
+        "num": 335808,
+        "word": "宁艺卓戴了未发售款高珠",
+        "onboard_time": 1778197819,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 334279,
+        "word": "女子遭家暴离婚儿子被误导排斥母亲",
+        "onboard_time": 1778207422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256294,
+        "num": 333530,
+        "word": "从红月开始官宣",
+        "onboard_time": 1778211980,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244433,
+        "num": 331638,
+        "word": "斜方肌就是一个巨大的讨好型人格",
+        "onboard_time": 1778211980,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224201,
+        "num": 329848,
+        "word": "阚清子重回巅峰时期",
+        "onboard_time": 1778200760,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219725,
+        "num": 327679,
+        "word": "孙颖莎申裕斌握上就分不开",
+        "onboard_time": 1778212279,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218500,
+        "num": 325597,
+        "word": "洛克王国",
+        "onboard_time": 1778210721,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212283,
+        "num": 324568,
+        "word": "暴发致命病毒邮轮中国乘客发声",
+        "onboard_time": 1778196739,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211093,
+        "num": 321807,
+        "word": "张豆豆不喜欢在外面展示亲密关系",
+        "onboard_time": 1778212701,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208010,
+        "num": 320701,
+        "word": "零重力座椅碰撞后堪比从5楼跳下",
+        "onboard_time": 1778208080,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 318826,
+        "word": "编号0001歼35亮相",
+        "onboard_time": 1778211561,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 202427,
+        "num": 317182,
+        "word": "AppleWatch首次加入教育优惠",
+        "onboard_time": 1778208140,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161615,
+        "num": 316233,
+        "word": "美国3艘军舰穿越霍尔木兹遭袭",
+        "onboard_time": 1778196498,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157030,
+        "num": 312826,
+        "word": "Faker柳智敏广告合作",
+        "onboard_time": 1778199440,
+        "rank": 41,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 151719,
+        "num": 311350,
+        "word": "白鹿状态未受舆论影响",
+        "onboard_time": 1778210541,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148715,
+        "num": 310529,
+        "word": "微信未读语音消息变灰",
+        "onboard_time": 1778166202,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 308778,
+        "word": "小米17Max本月发布",
+        "onboard_time": 1778211800,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131755,
+        "num": 306840,
+        "word": "HYBE新女团",
+        "onboard_time": 1778207120,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 305013,
+        "word": "小弟星球",
+        "onboard_time": 1778200521,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77857,
+        "num": 302603,
+        "word": "三星员工被SK海力士高额奖金刺激",
+        "onboard_time": 1778204660,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104415,
+        "num": 301602,
+        "word": "导演张中臣患白血病",
+        "onboard_time": 1778202080,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168357,
+        "num": 298701,
+        "word": "肖战听到要演到80岁的眼神",
+        "onboard_time": 1778212639,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这些典故领悟总书记的政绩观#"
+    }
+  }
+}

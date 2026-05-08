@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778212169751,
+  "endTime": 1778212832254,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1922306,
+      "num": 1922306,
+      "word": "张杰在谢娜庆功宴上敬酒",
+      "onboard_time": 1778209340,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1917753,
       "num": 1917753,
       "word": "葛仙村度假区致歉",
@@ -547,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1668218,
-      "num": 1668218,
-      "word": "张杰在谢娜庆功宴上敬酒",
-      "onboard_time": 1778209340,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1657360,
       "num": 158510,
       "word": "严军不敢发和严浩翔的聊天记录",
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1532316,
-      "num": 551034,
+      "num": 572514,
       "word": "原来好的大学真的有隐形福利",
       "onboard_time": 1778196739,
       "rank": 10,
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 1369151,
-      "num": 437224,
+      "num": 501959,
       "word": "热巴的造型因metgala又在外网火了",
       "onboard_time": 1778204539,
       "rank": 10,
@@ -1019,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1136635,
+      "num": 1136635,
+      "word": "减肥才知道高中吃的有多少",
+      "onboard_time": 1778202260,
+      "rank": 4,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1135823,
       "num": 423305,
       "word": "一个人旅游上厕所时行李怎么办",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1777901242,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1093957,
-      "num": 1093957,
-      "word": "减肥才知道高中吃的有多少",
-      "onboard_time": 1778202260,
-      "rank": 4,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1089786,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1777907244,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1028132,
+      "num": 484645,
+      "word": "吴慷仁回复立场问题",
+      "onboard_time": 1778206040,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1023888,
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 887107,
-      "num": 383029,
+      "num": 397422,
       "word": "王楚钦不提倡不参与生日应援活动",
       "onboard_time": 1778197340,
       "rank": 12,
@@ -1537,14 +1545,6 @@
       "onboard_time": 1777941679,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 867498,
-      "num": 411127,
-      "word": "吴慷仁回复立场问题",
-      "onboard_time": 1778206040,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 867432,
@@ -2827,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583138,
+      "num": 480104,
+      "word": "央视拒买单后国际足联高管将访华",
+      "onboard_time": 1778208380,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582220,
       "num": 576018,
       "word": "范丞丞妈妈71岁状态",
@@ -3331,6 +3339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 512565,
+      "num": 512565,
+      "word": "加入酱油会出现蟑螂的酱油碟",
+      "onboard_time": 1778202920,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 511487,
       "num": 511487,
       "word": "栖见 白日梦我",
@@ -3516,7 +3532,7 @@
     },
     {
       "raw_hot": 491330,
-      "num": 402784,
+      "num": 471926,
       "word": "张凌赫宋祖儿刺棠Q3开机",
       "onboard_time": 1778205021,
       "rank": 13,
@@ -3843,6 +3859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453185,
+      "num": 453185,
+      "word": "浪姐三公淘汰观众",
+      "onboard_time": 1778206040,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453004,
       "num": 297351,
       "word": "严浩翔新歌现场",
@@ -3897,14 +3921,6 @@
       "onboard_time": 1777806501,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447216,
-      "num": 447216,
-      "word": "浪姐三公淘汰观众",
-      "onboard_time": 1778206040,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 446832,
@@ -4603,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381967,
+      "num": 381967,
+      "word": "上海迪士尼能通话录音游客不能录",
+      "onboard_time": 1778205921,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381269,
       "num": 381269,
       "word": "伊朗退了一步",
@@ -4819,14 +4843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365101,
-      "num": 370901,
-      "word": "上海迪士尼能通话录音游客不能录",
-      "onboard_time": 1778205921,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364318,
       "num": 364318,
       "word": "严浩翔回应演唱会哭了",
@@ -4888,14 +4904,6 @@
       "word": "国乒男团9比0横扫澳大利亚",
       "onboard_time": 1778014454,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 358316,
-      "num": 361419,
-      "word": "央视拒买单后国际足联高管将访华",
-      "onboard_time": 1778208380,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -4985,14 +4993,6 @@
       "onboard_time": 1777817785,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353303,
-      "num": 359592,
-      "word": "加入酱油会出现蟑螂的酱油碟",
-      "onboard_time": 1778202920,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 353104,
@@ -5715,6 +5715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310374,
+      "num": 356873,
+      "word": "吻戏还得是年上来拍",
+      "onboard_time": 1778208619,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310363,
       "num": 310363,
       "word": "终于懂了朝花夕拾的力量",
@@ -5937,14 +5945,6 @@
       "onboard_time": 1777634660,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 298425,
-      "num": 356873,
-      "word": "吻戏还得是年上来拍",
-      "onboard_time": 1778208619,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 297177,
@@ -6827,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256294,
+      "num": 338185,
+      "word": "从红月开始官宣",
+      "onboard_time": 1778211980,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255195,
       "num": 255195,
       "word": "暴发致命病毒邮轮感染人数增至7人",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1777593739,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244433,
+      "num": 332127,
+      "word": "斜方肌就是一个巨大的讨好型人格",
+      "onboard_time": 1778211980,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 244359,
@@ -7803,6 +7819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219725,
+      "num": 327679,
+      "word": "孙颖莎申裕斌握上就分不开",
+      "onboard_time": 1778212279,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219429,
       "num": 321584,
       "word": "张一山满满的幸福",
@@ -7849,6 +7873,14 @@
       "onboard_time": 1777638981,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218500,
+      "num": 329391,
+      "word": "洛克王国",
+      "onboard_time": 1778210721,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 218380,
@@ -8107,6 +8139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211093,
+      "num": 321807,
+      "word": "张豆豆不喜欢在外面展示亲密关系",
+      "onboard_time": 1778212701,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210284,
       "num": 135118,
       "word": "魔力歌先生 喜人",
@@ -8128,6 +8168,14 @@
       "word": "张峻豪伴手礼",
       "onboard_time": 1777637842,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209470,
+      "num": 338842,
+      "word": "吉赛尔回应每个月换一张新脸",
+      "onboard_time": 1778211680,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -8209,6 +8257,14 @@
       "onboard_time": 1777683619,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208010,
+      "num": 339861,
+      "word": "零重力座椅碰撞后堪比从5楼跳下",
+      "onboard_time": 1778208080,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 207689,
@@ -8323,20 +8379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204536,
+      "num": 341844,
+      "word": "编号0001歼35亮相",
+      "onboard_time": 1778211561,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 204378,
       "num": 437377,
       "word": "金饰克价跌到1396元",
       "onboard_time": 1777950562,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 204325,
-      "num": 341844,
-      "word": "编号0001歼35亮相",
-      "onboard_time": 1778211561,
-      "rank": 33,
-      "category": "军事"
     },
     {
       "raw_hot": 204036,
@@ -8361,14 +8417,6 @@
       "onboard_time": 1778128342,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 203318,
-      "num": 339861,
-      "word": "零重力座椅碰撞后堪比从5楼跳下",
-      "onboard_time": 1778208080,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 203118,
@@ -8401,6 +8449,14 @@
       "onboard_time": 1778157322,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202427,
+      "num": 336929,
+      "word": "AppleWatch首次加入教育优惠",
+      "onboard_time": 1778208140,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 201594,
@@ -8529,14 +8585,6 @@
       "onboard_time": 1778197819,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198522,
-      "num": 338185,
-      "word": "从红月开始官宣",
-      "onboard_time": 1778211980,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 198356,
@@ -8907,14 +8955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187368,
-      "num": 336929,
-      "word": "AppleWatch首次加入教育优惠",
-      "onboard_time": 1778208140,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 187190,
       "num": 188494,
       "word": "怦然心动20岁",
@@ -9267,14 +9307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176315,
-      "num": 332127,
-      "word": "斜方肌就是一个巨大的讨好型人格",
-      "onboard_time": 1778211980,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176179,
       "num": 479014,
       "word": "四川悬崖秋千事故景区系网红打卡地",
@@ -9467,14 +9499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172324,
-      "num": 329391,
-      "word": "洛克王国",
-      "onboard_time": 1778210721,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171995,
       "num": 162760,
       "word": "五一晚会节目单",
@@ -9593,6 +9617,14 @@
       "onboard_time": 1777679898,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168357,
+      "num": 298701,
+      "word": "肖战听到要演到80岁的眼神",
+      "onboard_time": 1778212639,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 168297,
@@ -10035,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157030,
+      "num": 334966,
+      "word": "Faker柳智敏广告合作",
+      "onboard_time": 1778199440,
+      "rank": 37,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 156916,
       "num": 156916,
       "word": "周奇墨脱口秀调侃F1事故并植入广告",
@@ -10057,14 +10097,6 @@
       "onboard_time": 1777709059,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156488,
-      "num": 334966,
-      "word": "Faker柳智敏广告合作",
-      "onboard_time": 1778199440,
-      "rank": 37,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 156435,
@@ -10603,6 +10635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143616,
+      "num": 323033,
+      "word": "小米17Max本月发布",
+      "onboard_time": 1778211800,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143541,
       "num": 385720,
       "word": "国乒男团失利问题不在王楚钦没上场",
@@ -11035,6 +11075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131755,
+      "num": 315237,
+      "word": "HYBE新女团",
+      "onboard_time": 1778207120,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131746,
       "num": 171747,
       "word": "刘耀文晒穿戴甲",
@@ -11187,14 +11235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128829,
-      "num": 323033,
-      "word": "小米17Max本月发布",
-      "onboard_time": 1778211800,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 128798,
       "num": 122829,
       "word": "逆战",
@@ -11257,14 +11297,6 @@
       "onboard_time": 1777804825,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127701,
-      "num": 321156,
-      "word": "吉赛尔回应每个月换一张新脸",
-      "onboard_time": 1778211680,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 127359,
@@ -11433,14 +11465,6 @@
       "onboard_time": 1778083460,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123881,
-      "num": 315237,
-      "word": "HYBE新女团",
-      "onboard_time": 1778207120,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 123758,
@@ -11976,6 +12000,14 @@
       "word": "时代峰峻回应TOP无综艺外务",
       "onboard_time": 1777798581,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112849,
+      "num": 305013,
+      "word": "小弟星球",
+      "onboard_time": 1778200521,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -13732,7 +13764,7 @@
     },
     {
       "raw_hot": 46217,
-      "num": 1792048,
+      "num": 1988840,
       "word": "假日经济点燃消费热潮",
       "onboard_time": 1778159421,
       "rank": 2,
