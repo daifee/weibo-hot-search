@@ -1,12 +1,20 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778256007848,
+  "endTime": 1778257376479,
   "band_list": [
     {
-      "raw_hot": 4075366,
+      "raw_hot": 4193868,
       "num": 366343,
       "word": "李金铭全平台停更",
       "onboard_time": 1778248044,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3343044,
+      "num": 319960,
+      "word": "李金铭发表情回应",
+      "onboard_time": 1778256141,
       "rank": 10,
       "category": "艺人"
     },
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 859364,
-      "num": 875290,
+      "num": 940504,
       "word": "浏阳爆炸烟花厂内部画面",
       "onboard_time": 1778249963,
       "rank": 1,
@@ -49,6 +57,14 @@
       "onboard_time": 1778251762,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 587249,
+      "num": 308710,
+      "word": "易易紫说Angelababy喜欢权志龙是跟风",
+      "onboard_time": 1778255121,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 586979,
@@ -155,8 +171,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 294829,
-      "num": 294829,
+      "raw_hot": 328664,
+      "num": 328664,
       "word": "广东的湿度在此刻具象化",
       "onboard_time": 1778247322,
       "rank": 15,
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291354,
+      "num": 254820,
+      "word": "浪姐辟谣三公录播",
+      "onboard_time": 1778256440,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290671,
       "num": 290671,
       "word": "肖战齐夏近距离路透",
@@ -187,16 +211,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280401,
-      "num": 280401,
-      "word": "易易紫说Angelababy喜欢权志龙是跟风",
-      "onboard_time": 1778255121,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 259599,
+      "num": 251485,
+      "word": "白鹿自己摔了还不忘扶周洁琼",
+      "onboard_time": 1778255540,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255944,
+      "num": 255944,
+      "word": "法国男团vs巴西男团",
+      "onboard_time": 1778255540,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 252539,
-      "num": 209759,
+      "num": 214697,
       "word": "鞠婧祎张云龙晒合照",
       "onboard_time": 1778249182,
       "rank": 27,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 251910,
-      "num": 205546,
+      "num": 209770,
       "word": "网传浪姐四公分组",
       "onboard_time": 1778242341,
       "rank": 28,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 242961,
-      "num": 184406,
+      "num": 191217,
       "word": "关晓彤 姐姐太没用了",
       "onboard_time": 1778243361,
       "rank": 30,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 224035,
-      "num": 179256,
+      "num": 209357,
       "word": "靠追星年入百万后对顶流们祛魅了",
       "onboard_time": 1778248583,
       "rank": 31,
@@ -236,23 +268,15 @@
     },
     {
       "raw_hot": 218059,
-      "num": 218059,
+      "num": 250716,
       "word": "中国男团vs韩国",
       "onboard_time": 1778239461,
       "rank": 26,
       "category": "体育"
     },
     {
-      "raw_hot": 214411,
-      "num": 150352,
-      "word": "白鹿自己摔了还不忘扶周洁琼",
-      "onboard_time": 1778255540,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211756,
-      "num": 168394,
+      "num": 180831,
       "word": "萧敬腾考虑和大14岁妻子领养孩子",
       "onboard_time": 1778250024,
       "rank": 33,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 210467,
-      "num": 167206,
+      "num": 174234,
       "word": "赢家 田曦薇",
       "onboard_time": 1778236099,
       "rank": 34,
@@ -268,23 +292,15 @@
     },
     {
       "raw_hot": 198536,
-      "num": 161850,
+      "num": 175870,
       "word": "魏大勋带父亲去阿那亚",
       "onboard_time": 1778251463,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 185327,
-      "num": 185327,
-      "word": "法国男团vs巴西男团",
-      "onboard_time": 1778255540,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174397,
-      "num": 159752,
+      "num": 168000,
       "word": "宋亚轩身上有只虫在爬",
       "onboard_time": 1778252961,
       "rank": 37,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 169042,
-      "num": 169042,
+      "num": 209856,
       "word": "刚出锅的洞洞鞋",
       "onboard_time": 1778238680,
       "rank": 32,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 164593,
-      "num": 164593,
+      "num": 198301,
       "word": "OPPO回应母亲节文案争议",
       "onboard_time": 1778234840,
       "rank": 35,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 148213,
-      "num": 148213,
+      "num": 178205,
       "word": "外网把中国视频偷给日本成常态",
       "onboard_time": 1778235500,
       "rank": 42,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 136718,
-      "num": 136718,
+      "num": 168986,
       "word": "女孩徒步猝死案细节曝光",
       "onboard_time": 1778252482,
       "rank": 45,
@@ -385,6 +401,30 @@
       "onboard_time": 1778250923,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95223,
+      "num": 95223,
+      "word": "王楚钦胜利全场观众激动沸腾",
+      "onboard_time": 1778255482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84964,
+      "num": 84964,
+      "word": "同价买奥迪还是买小米",
+      "onboard_time": 1778257038,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 70364,
+      "num": 258750,
+      "word": "精神病院炒股炒成公司前十大股东",
+      "onboard_time": 1778256620,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22957,

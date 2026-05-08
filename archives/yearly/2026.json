@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778256007848,
+  "endTime": 1778257376479,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1139,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4193868,
+      "num": 583390,
+      "word": "李金铭全平台停更",
+      "onboard_time": 1778248044,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4189102,
       "num": 4189102,
       "word": "朋友圈改版",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4075366,
-      "num": 583390,
-      "word": "李金铭全平台停更",
-      "onboard_time": 1778248044,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 4061180,
@@ -1568,6 +1568,14 @@
       "word": "朴信惠眼睛 断崖式衰老",
       "onboard_time": 1776857299,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3343044,
+      "num": 319960,
+      "word": "李金铭发表情回应",
+      "onboard_time": 1778256141,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2392,14 +2400,6 @@
       "word": "时代峰峻大楼被雷劈了",
       "onboard_time": 1776662300,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2466527,
-      "num": 608400,
-      "word": "孙怡回应和阚清子关系",
-      "onboard_time": 1776433461,
-      "rank": 34,
       "category": "艺人"
     }
   ],
