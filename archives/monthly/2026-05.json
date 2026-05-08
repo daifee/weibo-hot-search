@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778237120236,
+  "endTime": 1778241236946,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -297,6 +297,14 @@
       "onboard_time": 1777859780,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2666493,
+      "num": 440459,
+      "word": "早期刘三姐演出全裸桥段",
+      "onboard_time": 1778238920,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2644706,
@@ -1483,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946279,
+      "num": 743081,
+      "word": "中国男团vs韩国对阵名单",
+      "onboard_time": 1778239221,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 944742,
       "num": 398102,
       "word": "留德男子多次迷奸女友并记录传播",
@@ -1516,7 +1532,7 @@
     },
     {
       "raw_hot": 923788,
-      "num": 256466,
+      "num": 430935,
       "word": "张艺谋 刘三姐",
       "onboard_time": 1778232261,
       "rank": 14,
@@ -1740,7 +1756,7 @@
     },
     {
       "raw_hot": 848960,
-      "num": 259444,
+      "num": 286639,
       "word": "汪海林限高",
       "onboard_time": 1778231960,
       "rank": 13,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1777863739,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 714146,
+      "num": 714146,
+      "word": "奔跑吧",
+      "onboard_time": 1777551740,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 713953,
@@ -2811,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617373,
+      "num": 595831,
+      "word": "皮皮虾事件亲属回应客人签字确认才做",
+      "onboard_time": 1778234239,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615333,
       "num": 518733,
       "word": "机场提示禁止携带越王勾践剑登机",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1777593618,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579475,
+      "num": 419708,
+      "word": "TOP吃饭用盆装菜",
+      "onboard_time": 1778235081,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 579395,
@@ -3331,6 +3371,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 535805,
+      "num": 725295,
+      "word": "中国男团vs韩国",
+      "onboard_time": 1778239461,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535014,
       "num": 358671,
       "word": "Jisoo晒blackpink四人合照",
@@ -3417,6 +3465,14 @@
       "onboard_time": 1777944081,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523606,
+      "num": 900822,
+      "word": "陆克华受贿1.89亿余元",
+      "onboard_time": 1778236340,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 523600,
@@ -3529,6 +3585,14 @@
       "onboard_time": 1777875740,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513449,
+      "num": 433793,
+      "word": "浏阳烟花厂爆炸时的监控无法查看",
+      "onboard_time": 1778236819,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 513395,
@@ -4059,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457095,
+      "num": 457095,
+      "word": "榴莲仅退款商家拒绝调解",
+      "onboard_time": 1778235680,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454910,
       "num": 454910,
       "word": "掘金vs森林狼",
@@ -4195,6 +4267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443060,
+      "num": 412516,
+      "word": "赢家 田曦薇",
+      "onboard_time": 1778236099,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443013,
       "num": 443013,
       "word": "丁程鑫张真源安慰严浩翔",
@@ -4225,6 +4305,14 @@
       "onboard_time": 1778065882,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440604,
+      "num": 440604,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1778239639,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 439948,
@@ -4344,6 +4432,14 @@
       "word": "张继科说国乒男队技术迭代不足",
       "onboard_time": 1777805842,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 428795,
+      "num": 428795,
+      "word": "许昕为世乒赛开场",
+      "onboard_time": 1778239160,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -4649,14 +4745,6 @@
       "onboard_time": 1777970900,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 398080,
-      "num": 257393,
-      "word": "皮皮虾事件亲属回应客人签字确认才做",
-      "onboard_time": 1778234239,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 397681,
@@ -5780,7 +5868,7 @@
     },
     {
       "raw_hot": 323067,
-      "num": 232430,
+      "num": 241158,
       "word": "吴艳妮强迫症爆发整理家",
       "onboard_time": 1778230820,
       "rank": 31,
@@ -5808,14 +5896,6 @@
       "word": "王源入选伯克利杰出校友",
       "onboard_time": 1777877242,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 321706,
-      "num": 245748,
-      "word": "TOP吃饭用盆装菜",
-      "onboard_time": 1778235081,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -6075,6 +6155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 309102,
+      "num": 309102,
+      "word": "外网把中国视频偷给日本成常态",
+      "onboard_time": 1778235500,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 309038,
       "num": 309038,
       "word": "水银奶茶 男友投毒",
@@ -6136,6 +6224,14 @@
       "word": "他就摸了一下魔方就复原了",
       "onboard_time": 1777893860,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 304782,
+      "num": 286421,
+      "word": "刚出锅的洞洞鞋",
+      "onboard_time": 1778238680,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -6249,6 +6345,14 @@
       "onboard_time": 1777983021,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 299394,
+      "num": 283575,
+      "word": "男生感染HPV身体会怎样",
+      "onboard_time": 1778235260,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 299222,
@@ -6457,6 +6561,14 @@
       "onboard_time": 1777782441,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290846,
+      "num": 290846,
+      "word": "小米18系列或成最激进一代",
+      "onboard_time": 1778235020,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 290226,
@@ -7155,14 +7267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258306,
-      "num": 258306,
-      "word": "小米18系列或成最激进一代",
-      "onboard_time": 1778235020,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 258155,
       "num": 208294,
       "word": "怦然心动返场直播",
@@ -7739,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "敏京和胜勇在一起了",
+      "onboard_time": 1778238981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235937,
       "num": 235937,
       "word": "1300元的机票跌到400元",
@@ -8241,14 +8353,6 @@
       "onboard_time": 1778219060,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218807,
-      "num": 243532,
-      "word": "赢家 田曦薇",
-      "onboard_time": 1778236099,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 218704,
@@ -8963,6 +9067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200980,
+      "num": 174191,
+      "word": "宋亚轩初中校运会旧照",
+      "onboard_time": 1778237602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -9017,6 +9129,14 @@
       "onboard_time": 1778229500,
       "rank": 19,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 200244,
+      "num": 172593,
+      "word": "这老师已经不属于桃李满天下了",
+      "onboard_time": 1778238501,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 199863,
@@ -9097,14 +9217,6 @@
       "onboard_time": 1777804283,
       "rank": 27,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 196942,
-      "num": 246989,
-      "word": "男生感染HPV身体会怎样",
-      "onboard_time": 1778235260,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196662,
@@ -9195,14 +9307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193832,
-      "num": 229234,
-      "word": "奔跑吧",
-      "onboard_time": 1777551740,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193800,
       "num": 449291,
       "word": "猫妈妈觅食回来天都塌了",
@@ -9273,6 +9377,14 @@
       "onboard_time": 1778040261,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192650,
+      "num": 221538,
+      "word": "新娘的陪嫁是一对龙凤胎",
+      "onboard_time": 1778233820,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192557,
@@ -9417,14 +9529,6 @@
       "onboard_time": 1777731140,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188251,
-      "num": 221538,
-      "word": "新娘的陪嫁是一对龙凤胎",
-      "onboard_time": 1778233820,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188149,
@@ -9723,14 +9827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178609,
-      "num": 215959,
-      "word": "外网把中国视频偷给日本成常态",
-      "onboard_time": 1778235500,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178598,
       "num": 389828,
       "word": "景甜也来误闯天家了",
@@ -9913,14 +10009,6 @@
       "onboard_time": 1778017755,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175049,
-      "num": 234409,
-      "word": "榴莲仅退款商家拒绝调解",
-      "onboard_time": 1778235680,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174688,
@@ -10163,6 +10251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169002,
+      "num": 169002,
+      "word": "百想艺术大赏",
+      "onboard_time": 1778240421,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168547,
       "num": 297747,
       "word": "运城遇害女教师丈夫22年后被判无期",
@@ -10177,6 +10273,14 @@
       "onboard_time": 1777679898,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168398,
+      "num": 168398,
+      "word": "70%卵巢癌患者确诊时已是晚期",
+      "onboard_time": 1778241141,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168297,
@@ -10225,6 +10329,14 @@
       "onboard_time": 1778207541,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166279,
+      "num": 166279,
+      "word": "戛纳电影节华语艺人出席名单",
+      "onboard_time": 1778240179,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 166264,
@@ -11411,6 +11523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137831,
+      "num": 137831,
+      "word": "全香港都在偶遇陈奕迅",
+      "onboard_time": 1778240660,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137585,
       "num": 408663,
       "word": "XC70被连续撞击三次会怎样",
@@ -11441,6 +11561,14 @@
       "onboard_time": 1777778361,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137299,
+      "num": 166432,
+      "word": "国家继续出手调控油价",
+      "onboard_time": 1778241141,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 137278,
@@ -11761,6 +11889,14 @@
       "onboard_time": 1778033540,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130407,
+      "num": 130407,
+      "word": "中国游客退南极邮轮最高或损失13万",
+      "onboard_time": 1778239341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130229,
@@ -13763,14 +13899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71170,
-      "num": 240097,
-      "word": "浏阳烟花厂爆炸时的监控无法查看",
-      "onboard_time": 1778236819,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70962,
       "num": 106127,
       "word": "范明女儿喜欢肖战",
@@ -14115,6 +14243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56165,
+      "num": 132464,
+      "word": "怦然恋综三对亮明牌cp",
+      "onboard_time": 1778239461,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56142,
       "num": 228916,
       "word": "蜜语纪大结局",
@@ -14161,6 +14297,14 @@
       "onboard_time": 1778126603,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54732,
+      "num": 168313,
+      "word": "王烁然爸爸 精神暴力式教育",
+      "onboard_time": 1778219060,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 54302,

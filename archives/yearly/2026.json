@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778237120236,
+  "endTime": 1778241236946,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2666493,
+      "num": 440459,
+      "word": "早期刘三姐演出全裸桥段",
+      "onboard_time": 1778238920,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2663180,
       "num": 427853,
       "word": "汤唯确认怀二胎",
@@ -2391,14 +2399,6 @@
       "num": 557858,
       "word": "张月505票",
       "onboard_time": 1775308943,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2447600,
-      "num": 784091,
-      "word": "李小冉一公第一名",
-      "onboard_time": 1776403940,
       "rank": 3,
       "category": "综艺"
     }

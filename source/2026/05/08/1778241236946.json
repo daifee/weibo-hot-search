@@ -1,0 +1,410 @@
+{
+  "runTime": 1778241236946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628170,
+        "num": 1628170,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523606,
+        "num": 900822,
+        "word": "陆克华受贿1.89亿余元",
+        "onboard_time": 1778236340,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12854,
+        "num": 754603,
+        "word": "以旧换新助推智能消费升级",
+        "onboard_time": 1778226441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946279,
+        "num": 743081,
+        "word": "中国男团vs韩国对阵名单",
+        "onboard_time": 1778239221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535805,
+        "num": 725295,
+        "word": "中国男团vs韩国",
+        "onboard_time": 1778239461,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714146,
+        "num": 714146,
+        "word": "奔跑吧",
+        "onboard_time": 1778237420,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609221,
+        "num": 609221,
+        "word": "湖南卫视综艺本周停播",
+        "onboard_time": 1778218161,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617373,
+        "num": 595831,
+        "word": "皮皮虾事件亲属回应客人签字确认才做",
+        "onboard_time": 1778234239,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457095,
+        "num": 457095,
+        "word": "榴莲仅退款商家拒绝调解",
+        "onboard_time": 1778235680,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440604,
+        "num": 440604,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1778239639,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2666493,
+        "num": 440459,
+        "word": "早期刘三姐演出全裸桥段",
+        "onboard_time": 1778238920,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1199236,
+        "num": 435457,
+        "word": "向太不满向佑恋情称绝不认这种儿媳",
+        "onboard_time": 1778217980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513449,
+        "num": 433793,
+        "word": "浏阳烟花厂爆炸时的监控无法查看",
+        "onboard_time": 1778236819,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698099,
+        "num": 430935,
+        "word": "张艺谋 刘三姐",
+        "onboard_time": 1778232261,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428795,
+        "num": 428795,
+        "word": "许昕为世乒赛开场",
+        "onboard_time": 1778239160,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579475,
+        "num": 419708,
+        "word": "TOP吃饭用盆装菜",
+        "onboard_time": 1778235081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443060,
+        "num": 412516,
+        "word": "赢家 田曦薇",
+        "onboard_time": 1778236099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377312,
+        "num": 377312,
+        "word": "工作后大家的朋友圈都变了",
+        "onboard_time": 1778222480,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309102,
+        "num": 309102,
+        "word": "外网把中国视频偷给日本成常态",
+        "onboard_time": 1778235500,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290846,
+        "num": 290846,
+        "word": "小米18系列或成最激进一代",
+        "onboard_time": 1778235020,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1402641,
+        "num": 290132,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 20,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 420741,
+        "num": 287958,
+        "word": "台湾出现汉坦病毒致死病例",
+        "onboard_time": 1778224820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358687,
+        "num": 286639,
+        "word": "汪海林限高",
+        "onboard_time": 1778231960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304782,
+        "num": 286421,
+        "word": "刚出锅的洞洞鞋",
+        "onboard_time": 1778238680,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299394,
+        "num": 283575,
+        "word": "男生感染HPV身体会怎样",
+        "onboard_time": 1778235260,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283486,
+        "num": 283486,
+        "word": "央视或低价拿下世界杯转播权",
+        "onboard_time": 1778219121,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252592,
+        "num": 252592,
+        "word": "孙恩盛掉美颜",
+        "onboard_time": 1778221340,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 241158,
+        "word": "吴艳妮强迫症爆发整理家",
+        "onboard_time": 1778230820,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236146,
+        "num": 236146,
+        "word": "敏京和胜勇在一起了",
+        "onboard_time": 1778238981,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 175139,
+        "word": "难怪马頔会喜欢孙丞潇",
+        "onboard_time": 1778225780,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623546,
+        "num": 175027,
+        "word": "OPPO回应母亲节文案争议",
+        "onboard_time": 1778234840,
+        "rank": 30,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 200980,
+        "num": 174191,
+        "word": "宋亚轩初中校运会旧照",
+        "onboard_time": 1778237602,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200244,
+        "num": 172593,
+        "word": "这老师已经不属于桃李满天下了",
+        "onboard_time": 1778238501,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198297,
+        "num": 172110,
+        "word": "詹姆斯一句0比2堵住所有问题",
+        "onboard_time": 1778227820,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195442,
+        "num": 170952,
+        "word": "曝时代少年团新企划",
+        "onboard_time": 1778229201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192650,
+        "num": 169981,
+        "word": "新娘的陪嫁是一对龙凤胎",
+        "onboard_time": 1778233820,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188132,
+        "num": 169809,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1778233520,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169002,
+        "num": 169002,
+        "word": "百想艺术大赏",
+        "onboard_time": 1778240421,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168398,
+        "num": 168398,
+        "word": "70%卵巢癌患者确诊时已是晚期",
+        "onboard_time": 1778241141,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54732,
+        "num": 168313,
+        "word": "王烁然爸爸 精神暴力式教育",
+        "onboard_time": 1778219060,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168303,
+        "num": 168303,
+        "word": "孟子义确实红的档期有点满",
+        "onboard_time": 1778224520,
+        "rank": 40,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 137299,
+        "num": 166432,
+        "word": "国家继续出手调控油价",
+        "onboard_time": 1778241141,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166279,
+        "num": 166279,
+        "word": "戛纳电影节华语艺人出席名单",
+        "onboard_time": 1778240179,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137831,
+        "num": 137831,
+        "word": "全香港都在偶遇陈奕迅",
+        "onboard_time": 1778240660,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56165,
+        "num": 132464,
+        "word": "怦然恋综三对亮明牌cp",
+        "onboard_time": 1778239461,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130407,
+        "num": 130407,
+        "word": "中国游客退南极邮轮最高或损失13万",
+        "onboard_time": 1778239341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135569,
+        "num": 129152,
+        "word": "陈漫拍Angelababy",
+        "onboard_time": 1778217080,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116950,
+        "num": 116950,
+        "word": "汪海林回应被限高",
+        "onboard_time": 1778233399,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115788,
+        "num": 115788,
+        "word": "Uzi说人气被自己玩没了",
+        "onboard_time": 1778225121,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109620,
+        "num": 109620,
+        "word": "王欣瑜vs伊埃拉",
+        "onboard_time": 1778234840,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领教育强国建设#"
+    }
+  }
+}

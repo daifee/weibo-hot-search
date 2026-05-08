@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778237120236,
+  "endTime": 1778241236946,
   "band_list": [
     {
       "raw_hot": 4496054,
@@ -25,6 +25,14 @@
       "onboard_time": 1778227580,
       "rank": 5,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 2666493,
+      "num": 440459,
+      "word": "早期刘三姐演出全裸桥段",
+      "onboard_time": 1778238920,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2221925,
@@ -187,8 +195,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946279,
+      "num": 743081,
+      "word": "中国男团vs韩国对阵名单",
+      "onboard_time": 1778239221,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 923788,
-      "num": 256466,
+      "num": 430935,
       "word": "张艺谋 刘三姐",
       "onboard_time": 1778232261,
       "rank": 14,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 848960,
-      "num": 259444,
+      "num": 286639,
       "word": "汪海林限高",
       "onboard_time": 1778231960,
       "rank": 13,
@@ -257,6 +273,14 @@
       "onboard_time": 1778235621,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 714146,
+      "num": 714146,
+      "word": "奔跑吧",
+      "onboard_time": 1778237420,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 663628,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617373,
+      "num": 595831,
+      "word": "皮皮虾事件亲属回应客人签字确认才做",
+      "onboard_time": 1778234239,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605931,
       "num": 605931,
       "word": "美军称袭击伊朗军事设施",
@@ -321,6 +353,14 @@
       "onboard_time": 1778212639,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 579475,
+      "num": 419708,
+      "word": "TOP吃饭用盆装菜",
+      "onboard_time": 1778235081,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 570262,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535805,
+      "num": 725295,
+      "word": "中国男团vs韩国",
+      "onboard_time": 1778239461,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533278,
       "num": 533278,
       "word": "央视或低价拿下世界杯转播权",
@@ -363,12 +411,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 523606,
+      "num": 900822,
+      "word": "陆克华受贿1.89亿余元",
+      "onboard_time": 1778236340,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 515106,
       "num": 427489,
       "word": "跑男",
       "onboard_time": 1778166983,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513449,
+      "num": 433793,
+      "word": "浏阳烟花厂爆炸时的监控无法查看",
+      "onboard_time": 1778236819,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 512565,
@@ -427,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457095,
+      "num": 457095,
+      "word": "榴莲仅退款商家拒绝调解",
+      "onboard_time": 1778235680,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453185,
       "num": 453185,
       "word": "浪姐三公淘汰观众",
@@ -451,12 +523,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443060,
+      "num": 412516,
+      "word": "赢家 田曦薇",
+      "onboard_time": 1778236099,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 440604,
+      "num": 440604,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1778239639,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436075,
       "num": 255217,
       "word": "DeepSeek崩了",
       "onboard_time": 1778233520,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 428795,
+      "num": 428795,
+      "word": "许昕为世乒赛开场",
+      "onboard_time": 1778239160,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 421753,
@@ -489,14 +585,6 @@
       "onboard_time": 1778229201,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398080,
-      "num": 257393,
-      "word": "皮皮虾事件亲属回应客人签字确认才做",
-      "onboard_time": 1778234239,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 384084,
@@ -628,19 +716,11 @@
     },
     {
       "raw_hot": 323067,
-      "num": 232430,
+      "num": 241158,
       "word": "吴艳妮强迫症爆发整理家",
       "onboard_time": 1778230820,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321706,
-      "num": 245748,
-      "word": "TOP吃饭用盆装菜",
-      "onboard_time": 1778235081,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 315568,
@@ -667,6 +747,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309102,
+      "num": 309102,
+      "word": "外网把中国视频偷给日本成常态",
+      "onboard_time": 1778235500,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 304782,
+      "num": 286421,
+      "word": "刚出锅的洞洞鞋",
+      "onboard_time": 1778238680,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304078,
       "num": 401880,
       "word": "美国3艘军舰穿越霍尔木兹遭袭",
@@ -691,12 +787,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299394,
+      "num": 283575,
+      "word": "男生感染HPV身体会怎样",
+      "onboard_time": 1778235260,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294322,
       "num": 294322,
       "word": "孟子义将回归桃花坞6",
       "onboard_time": 1778218522,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290846,
+      "num": 290846,
+      "word": "小米18系列或成最激进一代",
+      "onboard_time": 1778235020,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 282004,
@@ -761,14 +873,6 @@
       "onboard_time": 1778223440,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258306,
-      "num": 258306,
-      "word": "小米18系列或成最激进一代",
-      "onboard_time": 1778235020,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 258155,
@@ -843,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236146,
+      "num": 236146,
+      "word": "敏京和胜勇在一起了",
+      "onboard_time": 1778238981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234340,
       "num": 234340,
       "word": "亚历山大一级恶意犯规",
@@ -873,14 +985,6 @@
       "onboard_time": 1778219060,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218807,
-      "num": 243532,
-      "word": "赢家 田曦薇",
-      "onboard_time": 1778236099,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 218500,
@@ -1011,12 +1115,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200980,
+      "num": 174191,
+      "word": "宋亚轩初中校运会旧照",
+      "onboard_time": 1778237602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200392,
       "num": 235335,
       "word": "中疾控回应汉坦病毒疫情",
       "onboard_time": 1778229500,
       "rank": 19,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 200244,
+      "num": 172593,
+      "word": "这老师已经不属于桃李满天下了",
+      "onboard_time": 1778238501,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 198553,
@@ -1027,19 +1147,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196942,
-      "num": 246989,
-      "word": "男生感染HPV身体会怎样",
-      "onboard_time": 1778235260,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192777,
       "num": 300400,
       "word": "小区531户仅25户交物业费业主发声",
       "onboard_time": 1778158762,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192650,
+      "num": 221538,
+      "word": "新娘的陪嫁是一对龙凤胎",
+      "onboard_time": 1778233820,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1056,14 +1176,6 @@
       "word": "老人子宫切除20年后CT报告正常",
       "onboard_time": 1778221761,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188251,
-      "num": 221538,
-      "word": "新娘的陪嫁是一对龙凤胎",
-      "onboard_time": 1778233820,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1091,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178609,
-      "num": 215959,
-      "word": "外网把中国视频偷给日本成常态",
-      "onboard_time": 1778235500,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 177501,
       "num": 203165,
       "word": "小短腿夏酱",
@@ -1113,14 +1217,6 @@
       "onboard_time": 1778198422,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 175049,
-      "num": 234409,
-      "word": "榴莲仅退款商家拒绝调解",
-      "onboard_time": 1778235680,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174552,
@@ -1163,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169002,
+      "num": 169002,
+      "word": "百想艺术大赏",
+      "onboard_time": 1778240421,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168547,
       "num": 297747,
       "word": "运城遇害女教师丈夫22年后被判无期",
@@ -1171,12 +1275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168398,
+      "num": 168398,
+      "word": "70%卵巢癌患者确诊时已是晚期",
+      "onboard_time": 1778241141,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166706,
       "num": 316939,
       "word": "广州一公园现70cm剧毒鳄雀鳝",
       "onboard_time": 1778207541,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166279,
+      "num": 166279,
+      "word": "戛纳电影节华语艺人出席名单",
+      "onboard_time": 1778240179,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 166259,
@@ -1291,6 +1411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137831,
+      "num": 137831,
+      "word": "全香港都在偶遇陈奕迅",
+      "onboard_time": 1778240660,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137299,
+      "num": 166432,
+      "word": "国家继续出手调控油价",
+      "onboard_time": 1778241141,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134426,
       "num": 375588,
       "word": "浏阳烟花厂爆炸仍有1人失联",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1778152821,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130407,
+      "num": 130407,
+      "word": "中国游客退南极邮轮最高或损失13万",
+      "onboard_time": 1778239341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127326,
@@ -1611,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71170,
-      "num": 240097,
-      "word": "浏阳烟花厂爆炸时的监控无法查看",
-      "onboard_time": 1778236819,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61215,
       "num": 296456,
       "word": "高反被掐人中后打人女子称已报警",
@@ -1649,6 +1785,22 @@
       "onboard_time": 1778152281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56165,
+      "num": 132464,
+      "word": "怦然恋综三对亮明牌cp",
+      "onboard_time": 1778239461,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54732,
+      "num": 168313,
+      "word": "王烁然爸爸 精神暴力式教育",
+      "onboard_time": 1778219060,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 53749,
