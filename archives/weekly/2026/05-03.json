@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778198467511,
+  "endTime": 1778199329472,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2350130,
-      "num": 920850,
+      "num": 1103562,
       "word": "刘维去谢娜演唱会被指忘本",
       "onboard_time": 1778159483,
       "rank": 3,
@@ -321,6 +321,14 @@
       "onboard_time": 1778120060,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1797329,
+      "num": 1797329,
+      "word": "榴莲遭仅退款商家驱车1600公里找买家",
+      "onboard_time": 1778170221,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1782471,
@@ -443,20 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1532316,
+      "num": 352394,
+      "word": "原来好的大学真的有隐形福利",
+      "onboard_time": 1778196739,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1514429,
+      "num": 1514429,
+      "word": "浪姐补偿方案",
+      "onboard_time": 1778196619,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1492576,
       "num": 1492576,
       "word": "张雪机车德比斯退赛",
       "onboard_time": 1777811002,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1491272,
-      "num": 1491272,
-      "word": "榴莲遭仅退款商家驱车1600公里找买家",
-      "onboard_time": 1778170221,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1450915,
@@ -561,14 +577,6 @@
       "onboard_time": 1777880960,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1348973,
-      "num": 306968,
-      "word": "原来好的大学真的有隐形福利",
-      "onboard_time": 1778196739,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 1342245,
@@ -737,14 +745,6 @@
       "onboard_time": 1777862780,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1147184,
-      "num": 1147184,
-      "word": "浪姐补偿方案",
-      "onboard_time": 1778196619,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1135823,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1778068702,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887107,
+      "num": 351355,
+      "word": "王楚钦不提倡不参与生日应援活动",
+      "onboard_time": 1778197340,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 883932,
@@ -1691,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663628,
+      "num": 350650,
+      "word": "暴发致命病毒邮轮中国乘客发声",
+      "onboard_time": 1778196739,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 663338,
       "num": 663338,
       "word": "丢失7年手机突然发定位机主找回",
@@ -1771,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 649073,
-      "num": 300903,
-      "word": "暴发致命病毒邮轮中国乘客发声",
-      "onboard_time": 1778196739,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 647601,
       "num": 647601,
       "word": "孙颖莎3比2金娜英",
@@ -1816,6 +1824,14 @@
       "word": "龙队急得直挠头",
       "onboard_time": 1778067141,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 638533,
+      "num": 638533,
+      "word": "林昀儒零封莫雷加德卡尔伯格",
+      "onboard_time": 1778194696,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -1931,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605931,
+      "num": 605931,
+      "word": "美军称袭击伊朗军事设施",
+      "onboard_time": 1778196559,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 605094,
       "num": 605094,
       "word": "严浩翔 爱一个人需要另一个人",
@@ -2001,14 +2025,6 @@
       "onboard_time": 1778069662,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 586212,
-      "num": 586212,
-      "word": "林昀儒零封莫雷加德卡尔伯格",
-      "onboard_time": 1778194696,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 585875,
@@ -2233,14 +2249,6 @@
       "onboard_time": 1778150000,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 533178,
-      "num": 533178,
-      "word": "美军称袭击伊朗军事设施",
-      "onboard_time": 1778196559,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 532794,
@@ -2576,14 +2584,6 @@
       "word": "国羽尤伯杯亚军",
       "onboard_time": 1777812862,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 480359,
-      "num": 296368,
-      "word": "王楚钦不提倡不参与生日应援活动",
-      "onboard_time": 1778197340,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -3033,6 +3033,14 @@
       "onboard_time": 1777887441,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417547,
+      "num": 417547,
+      "word": "伊朗倒逼美国承认既定事实",
+      "onboard_time": 1778196680,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416309,
@@ -4187,14 +4195,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 308083,
-      "num": 308083,
-      "word": "伊朗倒逼美国承认既定事实",
-      "onboard_time": 1778196680,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 307758,
       "num": 307758,
       "word": "日本自卫队要打仗",
@@ -4273,6 +4273,14 @@
       "onboard_time": 1778126242,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304078,
+      "num": 304078,
+      "word": "美国3艘军舰穿越霍尔木兹遭袭",
+      "onboard_time": 1778196498,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 303927,
@@ -4601,6 +4609,14 @@
       "onboard_time": 1778058082,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282004,
+      "num": 282004,
+      "word": "金银价格大涨",
+      "onboard_time": 1778198359,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 280232,
@@ -5097,6 +5113,14 @@
       "onboard_time": 1777865659,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248908,
+      "num": 248908,
+      "word": "马斯克被曝主动向女下属提出捐精",
+      "onboard_time": 1778196739,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 248549,
@@ -6171,14 +6195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199561,
-      "num": 199561,
-      "word": "美国3艘军舰穿越霍尔木兹遭袭",
-      "onboard_time": 1778196498,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199250,
       "num": 199250,
       "word": "王鹤棣助理号蛐蛐冉方旭",
@@ -6225,14 +6241,6 @@
       "onboard_time": 1778158341,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197925,
-      "num": 197925,
-      "word": "马斯克被曝主动向女下属提出捐精",
-      "onboard_time": 1778196739,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 197440,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1777772181,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188149,
+      "num": 188149,
+      "word": "上海成2028奥运会资格系列赛举办城市",
+      "onboard_time": 1778198480,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 187800,
@@ -6723,6 +6739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176815,
+      "num": 176815,
+      "word": "三星史上最大罢工逼近",
+      "onboard_time": 1778198422,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176807,
       "num": 295469,
       "word": "孙颖莎Bestplayer",
@@ -6937,6 +6961,14 @@
       "onboard_time": 1778074401,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 168547,
+      "num": 297747,
+      "word": "运城遇害女教师丈夫22年后被判无期",
+      "onboard_time": 1778168422,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168544,
@@ -7219,14 +7251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158328,
-      "num": 297747,
-      "word": "运城遇害女教师丈夫22年后被判无期",
-      "onboard_time": 1778168422,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158235,
       "num": 158235,
       "word": "马龙假期赴伦敦助力国乒",
@@ -7499,6 +7523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152044,
+      "num": 299205,
+      "word": "当奶奶吃到了年轻人的零食",
+      "onboard_time": 1778172918,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151541,
       "num": 151541,
       "word": "FIFA涨价理由",
@@ -7731,6 +7763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142295,
+      "num": 154919,
+      "word": "林昀儒回应率队晋级四强",
+      "onboard_time": 1778198422,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142224,
       "num": 178523,
       "word": "东方卫视低智商犯罪",
@@ -7867,6 +7907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135782,
+      "num": 158904,
+      "word": "宁艺卓戴了未发售款高珠",
+      "onboard_time": 1778197819,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135695,
       "num": 652409,
       "word": "湖南全省烟花爆竹企业全面停产整顿",
@@ -7961,6 +8009,14 @@
       "onboard_time": 1778154741,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132609,
+      "num": 151844,
+      "word": "中国台北男团3比2瑞典",
+      "onboard_time": 1778197580,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 132473,
@@ -8145,6 +8201,14 @@
       "onboard_time": 1777875500,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125768,
+      "num": 296706,
+      "word": "孙杨坚持要回电车乘车点的原因",
+      "onboard_time": 1778157741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125717,
@@ -8387,6 +8451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119999,
+      "num": 146635,
+      "word": "刘浩存主角",
+      "onboard_time": 1778197939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119895,
       "num": 335342,
       "word": "许昕赛前曾预判林诗栋状态",
@@ -8571,22 +8643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115030,
-      "num": 115030,
-      "word": "中国台北男团3比2瑞典",
-      "onboard_time": 1778197580,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113774,
-      "num": 113774,
-      "word": "金银价格大涨",
-      "onboard_time": 1778198359,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113663,
       "num": 384783,
       "word": "首尔睡觉大赛亚军自曝身心透支",
@@ -8609,14 +8665,6 @@
       "onboard_time": 1777798581,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112691,
-      "num": 296706,
-      "word": "孙杨坚持要回电车乘车点的原因",
-      "onboard_time": 1778157741,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 111741,
@@ -8659,14 +8707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109161,
-      "num": 109161,
-      "word": "三星史上最大罢工逼近",
-      "onboard_time": 1778198422,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 108888,
       "num": 238767,
       "word": "张柏芝疑食物中毒",
@@ -8681,14 +8721,6 @@
       "onboard_time": 1778025621,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107928,
-      "num": 104193,
-      "word": "林昀儒回应率队晋级四强",
-      "onboard_time": 1778198422,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 107329,
@@ -8771,6 +8803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103769,
+      "num": 142545,
+      "word": "皇马队内冲突导致球员就医",
+      "onboard_time": 1778199259,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103544,
       "num": 170751,
       "word": "这密室开着灯我都不敢玩",
@@ -8785,14 +8825,6 @@
       "onboard_time": 1778153421,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103125,
-      "num": 103125,
-      "word": "刘浩存主角",
-      "onboard_time": 1778197939,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 102810,
@@ -8811,28 +8843,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 102030,
-      "num": 102030,
-      "word": "宁艺卓戴了未发售款高珠",
-      "onboard_time": 1778197819,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101559,
       "num": 234971,
       "word": "王楚钦满场救球看哭了",
       "onboard_time": 1777853298,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100641,
-      "num": 299205,
-      "word": "当奶奶吃到了年轻人的零食",
-      "onboard_time": 1778172918,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 100479,
@@ -9740,7 +9756,7 @@
     },
     {
       "raw_hot": 46217,
-      "num": 922388,
+      "num": 1217808,
       "word": "假日经济点燃消费热潮",
       "onboard_time": 1778159421,
       "rank": 2,
@@ -10601,6 +10617,14 @@
       "onboard_time": 1777798880,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 5391,
+      "num": 151549,
+      "word": "东契奇回应恢复进展",
+      "onboard_time": 1778198480,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 5057,

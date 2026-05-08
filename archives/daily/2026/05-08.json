@@ -1,46 +1,70 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778198467511,
+  "endTime": 1778199329472,
   "band_list": [
     {
-      "raw_hot": 1491272,
-      "num": 1491272,
+      "raw_hot": 1797329,
+      "num": 1797329,
       "word": "榴莲遭仅退款商家驱车1600公里找买家",
       "onboard_time": 1778170221,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1348973,
-      "num": 306968,
+      "raw_hot": 1532316,
+      "num": 352394,
       "word": "原来好的大学真的有隐形福利",
       "onboard_time": 1778196739,
       "rank": 10,
       "category": "教育"
     },
     {
-      "raw_hot": 1159489,
-      "num": 665991,
-      "word": "刘维去谢娜演唱会被指忘本",
-      "onboard_time": 1778159483,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 1147184,
-      "num": 1147184,
+      "raw_hot": 1514429,
+      "num": 1514429,
       "word": "浪姐补偿方案",
       "onboard_time": 1778196619,
       "rank": 1,
       "category": "综艺"
     },
     {
-      "raw_hot": 649073,
-      "num": 300903,
+      "raw_hot": 1159489,
+      "num": 1103562,
+      "word": "刘维去谢娜演唱会被指忘本",
+      "onboard_time": 1778159483,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 887107,
+      "num": 351355,
+      "word": "王楚钦不提倡不参与生日应援活动",
+      "onboard_time": 1778197340,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 663628,
+      "num": 350650,
       "word": "暴发致命病毒邮轮中国乘客发声",
       "onboard_time": 1778196739,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 638533,
+      "num": 638533,
+      "word": "林昀儒零封莫雷加德卡尔伯格",
+      "onboard_time": 1778194696,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 605931,
+      "num": 605931,
+      "word": "美军称袭击伊朗军事设施",
+      "onboard_time": 1778196559,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 593510,
@@ -49,22 +73,6 @@
       "onboard_time": 1778164522,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 586212,
-      "num": 586212,
-      "word": "林昀儒零封莫雷加德卡尔伯格",
-      "onboard_time": 1778194696,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 533178,
-      "num": 533178,
-      "word": "美军称袭击伊朗军事设施",
-      "onboard_time": 1778196559,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 526195,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480359,
-      "num": 296368,
-      "word": "王楚钦不提倡不参与生日应援活动",
-      "onboard_time": 1778197340,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 470756,
       "num": 540518,
       "word": "微信未读语音消息变灰",
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417547,
+      "num": 417547,
+      "word": "伊朗倒逼美国承认既定事实",
+      "onboard_time": 1778196680,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 362135,
       "num": 199044,
       "word": "女子婚检查出高危HPV感染2次复查阴性",
@@ -124,11 +132,27 @@
     },
     {
       "raw_hot": 353344,
-      "num": 291857,
+      "num": 349656,
       "word": "薛之谦点赞了和刘维的合照",
       "onboard_time": 1778159421,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353227,
+      "num": 353227,
+      "word": "胖东来1公斤黄樱桃416元",
+      "onboard_time": 1778162482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339378,
+      "num": 339569,
+      "word": "贵州蘸水",
+      "onboard_time": 1778156240,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 339378,
@@ -139,19 +163,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328512,
-      "num": 339569,
-      "word": "贵州蘸水",
-      "onboard_time": 1778156240,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 308083,
-      "num": 308083,
-      "word": "伊朗倒逼美国承认既定事实",
-      "onboard_time": 1778196680,
-      "rank": 9,
+      "raw_hot": 304078,
+      "num": 304078,
+      "word": "美国3艘军舰穿越霍尔木兹遭袭",
+      "onboard_time": 1778196498,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -163,20 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291103,
-      "num": 327339,
-      "word": "胖东来1公斤黄樱桃416元",
-      "onboard_time": 1778162482,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283541,
+      "raw_hot": 301301,
       "num": 356743,
       "word": "当你意识到自己无法升职时",
       "onboard_time": 1778151261,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282004,
+      "num": 282004,
+      "word": "金银价格大涨",
+      "onboard_time": 1778198359,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 274331,
@@ -211,6 +227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 248908,
+      "num": 248908,
+      "word": "马斯克被曝主动向女下属提出捐精",
+      "onboard_time": 1778196739,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 244778,
       "num": 301457,
       "word": "孙亚龙 dys变天",
@@ -235,22 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199561,
-      "num": 199561,
-      "word": "美国3艘军舰穿越霍尔木兹遭袭",
-      "onboard_time": 1778196498,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 197925,
-      "num": 197925,
-      "word": "马斯克被曝主动向女下属提出捐精",
-      "onboard_time": 1778196739,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192777,
       "num": 300400,
       "word": "小区531户仅25户交物业费业主发声",
@@ -265,6 +273,14 @@
       "onboard_time": 1778196619,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188149,
+      "num": 188149,
+      "word": "上海成2028奥运会资格系列赛举办城市",
+      "onboard_time": 1778198480,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 181926,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176815,
+      "num": 176815,
+      "word": "三星史上最大罢工逼近",
+      "onboard_time": 1778198422,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172583,
       "num": 172583,
       "word": "朴秀荣Crush晒照秀恩爱",
@@ -297,6 +321,14 @@
       "onboard_time": 1778158222,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168547,
+      "num": 297747,
+      "word": "运城遇害女教师丈夫22年后被判无期",
+      "onboard_time": 1778168422,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165702,
@@ -315,20 +347,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 158328,
-      "num": 297747,
-      "word": "运城遇害女教师丈夫22年后被判无期",
-      "onboard_time": 1778168422,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156274,
       "num": 298488,
       "word": "Kid回应合同",
       "onboard_time": 1778164883,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152044,
+      "num": 299205,
+      "word": "当奶奶吃到了年轻人的零食",
+      "onboard_time": 1778172918,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 151299,
@@ -347,12 +379,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 142295,
+      "num": 154919,
+      "word": "林昀儒回应率队晋级四强",
+      "onboard_time": 1778198422,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135782,
+      "num": 158904,
+      "word": "宁艺卓戴了未发售款高珠",
+      "onboard_time": 1778197819,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132609,
+      "num": 151844,
+      "word": "中国台北男团3比2瑞典",
+      "onboard_time": 1778197580,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130856,
       "num": 299843,
       "word": "演唱会卫生间配了卫生巾的明星",
       "onboard_time": 1778152821,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125768,
+      "num": 296706,
+      "word": "孙杨坚持要回电车乘车点的原因",
+      "onboard_time": 1778157741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 121896,
@@ -371,28 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115030,
-      "num": 115030,
-      "word": "中国台北男团3比2瑞典",
-      "onboard_time": 1778197580,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 121532,
+      "num": 298888,
+      "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
+      "onboard_time": 1778152161,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 113774,
-      "num": 113774,
-      "word": "金银价格大涨",
-      "onboard_time": 1778198359,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 112691,
-      "num": 296706,
-      "word": "孙杨坚持要回电车乘车点的原因",
-      "onboard_time": 1778157741,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 119999,
+      "num": 146635,
+      "word": "刘浩存主角",
+      "onboard_time": 1778197939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111393,
@@ -401,30 +457,6 @@
       "onboard_time": 1778158823,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109161,
-      "num": 109161,
-      "word": "三星史上最大罢工逼近",
-      "onboard_time": 1778198422,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 107928,
-      "num": 104193,
-      "word": "林昀儒回应率队晋级四强",
-      "onboard_time": 1778198422,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107331,
-      "num": 298888,
-      "word": "14岁男孩为父庆生饮酒后翻窗坠亡",
-      "onboard_time": 1778152161,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106192,
@@ -443,28 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103125,
-      "num": 103125,
-      "word": "刘浩存主角",
-      "onboard_time": 1778197939,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102030,
-      "num": 102030,
-      "word": "宁艺卓戴了未发售款高珠",
-      "onboard_time": 1778197819,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100641,
-      "num": 299205,
-      "word": "当奶奶吃到了年轻人的零食",
-      "onboard_time": 1778172918,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 103769,
+      "num": 142545,
+      "word": "皇马队内冲突导致球员就医",
+      "onboard_time": 1778199259,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97597,
@@ -659,8 +675,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34784,
-      "num": 698989,
+      "raw_hot": 37640,
+      "num": 1217808,
       "word": "假日经济点燃消费热潮",
       "onboard_time": 1778159421,
       "rank": 2,
@@ -705,6 +721,14 @@
       "onboard_time": 1778182453,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 5391,
+      "num": 151549,
+      "word": "东契奇回应恢复进展",
+      "onboard_time": 1778198480,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
