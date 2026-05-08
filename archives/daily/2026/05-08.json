@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778220306955,
+  "endTime": 1778221010266,
   "band_list": [
     {
       "raw_hot": 4496054,
@@ -11,12 +11,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2214572,
+      "num": 2214572,
+      "word": "湖南卫视综艺本周停播",
+      "onboard_time": 1778218161,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2141433,
       "num": 2141433,
       "word": "香港拿下世界杯转播权",
       "onboard_time": 1778206281,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2090819,
+      "num": 2090819,
+      "word": "4只皮皮虾1035元店主事发次日病逝",
+      "onboard_time": 1778215102,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2086571,
@@ -35,28 +51,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1837241,
-      "num": 1837241,
-      "word": "4只皮皮虾1035元店主事发次日病逝",
-      "onboard_time": 1778215102,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1797329,
       "num": 1797329,
       "word": "榴莲遭仅退款商家驱车1600公里找买家",
       "onboard_time": 1778170221,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1779698,
-      "num": 1779698,
-      "word": "湖南卫视综艺本周停播",
-      "onboard_time": 1778218161,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1532316,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1011190,
+      "num": 594247,
+      "word": "向太不满向佑恋情称绝不认这种儿媳",
+      "onboard_time": 1778217980,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1004670,
       "num": 1004670,
       "word": "因恶意退货太多整条街道被商家拉黑",
@@ -169,14 +177,6 @@
       "onboard_time": 1778209041,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735781,
-      "num": 594247,
-      "word": "向太不满向佑恋情称绝不认这种儿媳",
-      "onboard_time": 1778217980,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 663628,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 445794,
-      "num": 350360,
+      "num": 351774,
       "word": "吉赛尔回应每个月换一张新脸",
       "onboard_time": 1778211680,
       "rank": 44,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349907,
+      "num": 349907,
+      "word": "榴莲买家回应包装和坏榴莲分开扔",
+      "onboard_time": 1778219180,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348073,
       "num": 348073,
       "word": "种地吧第四季定档",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293852,
-      "num": 293852,
-      "word": "榴莲买家回应包装和坏榴莲分开扔",
-      "onboard_time": 1778219180,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282004,
       "num": 282004,
       "word": "金银价格大涨",
@@ -504,6 +504,14 @@
       "word": "李现张婧仪吻戏",
       "onboard_time": 1778163204,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268893,
+      "num": 268893,
+      "word": "良陈美锦",
+      "onboard_time": 1778220081,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238691,
+      "num": 298013,
+      "word": "王菲爆改闫妮",
+      "onboard_time": 1778218461,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234340,
       "num": 234340,
       "word": "亚历山大一级恶意犯规",
@@ -595,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219925,
-      "num": 298013,
-      "word": "王菲爆改闫妮",
-      "onboard_time": 1778218461,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219725,
       "num": 327679,
       "word": "孙颖莎申裕斌握上就分不开",
       "onboard_time": 1778212279,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219016,
+      "num": 219016,
+      "word": "原来狗为了合群也得演戏啊",
+      "onboard_time": 1778219060,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 218500,
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213163,
+      "num": 213163,
+      "word": "国乒男团冲4强",
+      "onboard_time": 1778219422,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211093,
       "num": 321807,
       "word": "张豆豆不喜欢在外面展示亲密关系",
@@ -643,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208341,
-      "num": 208341,
-      "word": "原来狗为了合群也得演戏啊",
-      "onboard_time": 1778219060,
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "KPL挑战者杯",
+      "onboard_time": 1778219780,
       "rank": 36,
-      "category": "幽默"
+      "category": "电竞"
     },
     {
       "raw_hot": 208010,
@@ -699,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196915,
+      "num": 196915,
+      "word": "211毕业生为脑瘫儿子卖房当蜘蛛人",
+      "onboard_time": 1778215460,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192777,
       "num": 300400,
       "word": "小区531户仅25户交物业费业主发声",
@@ -723,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186456,
-      "num": 186456,
-      "word": "国乒男团冲4强",
-      "onboard_time": 1778219422,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181926,
       "num": 181926,
       "word": "演员最好的固粉手段",
@@ -745,6 +769,14 @@
       "onboard_time": 1778161702,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177501,
+      "num": 203165,
+      "word": "小短腿夏酱",
+      "onboard_time": 1778212820,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 176815,
@@ -769,14 +801,6 @@
       "onboard_time": 1778162063,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172384,
-      "num": 203165,
-      "word": "小短腿夏酱",
-      "onboard_time": 1778212820,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 171368,
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119620,
+      "num": 188028,
+      "word": "丁禹兮拎着宋祖儿跑了",
+      "onboard_time": 1778217500,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112849,
       "num": 305013,
       "word": "小弟星球",
@@ -969,14 +1001,6 @@
       "onboard_time": 1778158823,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106462,
-      "num": 188028,
-      "word": "丁禹兮拎着宋祖儿跑了",
-      "onboard_time": 1778217500,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 106192,
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 53749,
-      "num": 1269953,
+      "num": 1394499,
       "word": "国产储能出口迎爆发式增长",
       "onboard_time": 1778215222,
       "rank": 2,
@@ -1291,8 +1315,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 10936,
-      "num": 203624,
+      "raw_hot": 14504,
+      "num": 363221,
       "word": "业内人士称烟花厂培训是走过场",
       "onboard_time": 1778220260,
       "rank": 38,
