@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778228816677,
+  "endTime": 1778234607634,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -177,6 +177,14 @@
       "onboard_time": 1778027421,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2948984,
+      "num": 782880,
+      "word": "汉坦病毒",
+      "onboard_time": 1778227580,
+      "rank": 5,
+      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 2798944,
@@ -867,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1113006,
-      "num": 782880,
-      "word": "汉坦病毒",
-      "onboard_time": 1778227580,
-      "rank": 5,
-      "category": "海外新闻,健康医疗"
-    },
-    {
       "raw_hot": 1108379,
       "num": 1108379,
       "word": "汉坦病毒疫情",
@@ -1331,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 848960,
+      "num": 259444,
+      "word": "汪海林限高",
+      "onboard_time": 1778231960,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839423,
       "num": 839423,
       "word": "桃花坞6定档",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1777949601,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 766000,
+      "num": 256466,
+      "word": "张艺谋 刘三姐",
+      "onboard_time": 1778232261,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 754487,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1778143342,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652651,
+      "num": 652651,
+      "word": "曝小米汽车将推独立子品牌寻天",
+      "onboard_time": 1778230881,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 652206,
@@ -2475,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533278,
+      "num": 533278,
+      "word": "央视或低价拿下世界杯转播权",
+      "onboard_time": 1778219121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532794,
       "num": 211233,
       "word": "何洁前夫说前妻不是妻",
@@ -2819,14 +2851,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 489434,
-      "num": 488490,
-      "word": "央视或低价拿下世界杯转播权",
-      "onboard_time": 1778219121,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 488832,
       "num": 391315,
       "word": "男子养了11年的3个孩子2个非亲生",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1777821802,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 466081,
+      "num": 466081,
+      "word": "詹姆斯一句0比2堵住所有问题",
+      "onboard_time": 1778227820,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 464712,
@@ -3193,6 +3225,14 @@
       "onboard_time": 1778122160,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436075,
+      "num": 415674,
+      "word": "DeepSeek崩了",
+      "onboard_time": 1778043862,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 434713,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1777896202,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 401158,
+      "num": 250857,
+      "word": "曝时代少年团新企划",
+      "onboard_time": 1778229201,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 401098,
@@ -4579,6 +4627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309884,
+      "num": 178175,
+      "word": "吴艳妮强迫症爆发整理家",
+      "onboard_time": 1778230820,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309259,
       "num": 215372,
       "word": "用这种枕头可能损伤脑血管",
@@ -5235,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265113,
+      "num": 265113,
+      "word": "Switch2官宣涨价",
+      "onboard_time": 1778227941,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265084,
       "num": 327585,
       "word": "孙恩盛希望16级大姐不要把他当物品",
@@ -5497,6 +5561,14 @@
       "onboard_time": 1777728621,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250830,
+      "num": 250830,
+      "word": "英方裁定2名中国公民有罪",
+      "onboard_time": 1778231901,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250248,
@@ -6019,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227515,
-      "num": 192054,
-      "word": "詹姆斯一句0比2堵住所有问题",
-      "onboard_time": 1778227820,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227495,
       "num": 274178,
       "word": "中国女子在西班牙被刺身亡",
@@ -6329,6 +6393,14 @@
       "onboard_time": 1778072182,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 214978,
+      "num": 177405,
+      "word": "汪海林回应被限高",
+      "onboard_time": 1778233399,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 214910,
@@ -6787,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200392,
+      "num": 200392,
+      "word": "中疾控回应汉坦病毒疫情",
+      "onboard_time": 1778229500,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 199863,
       "num": 199863,
       "word": "猴子坐崖边男子偷偷靠近猛推",
@@ -7027,6 +7107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190904,
+      "num": 187069,
+      "word": "老人子宫切除20年后CT报告正常",
+      "onboard_time": 1778221761,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190776,
       "num": 516761,
       "word": "伊朗发布向美军舰发射导弹视频",
@@ -7075,6 +7163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188251,
+      "num": 179461,
+      "word": "新娘的陪嫁是一对龙凤胎",
+      "onboard_time": 1778233820,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188149,
       "num": 188149,
       "word": "上海成2028奥运会资格系列赛举办城市",
@@ -7121,14 +7217,6 @@
       "onboard_time": 1778051422,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187069,
-      "num": 187069,
-      "word": "老人子宫切除20年后CT报告正常",
-      "onboard_time": 1778221761,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186282,
@@ -7811,6 +7899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161260,
+      "num": 161260,
+      "word": "JDG晋级胜者组半决赛",
+      "onboard_time": 1778231960,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161237,
       "num": 283142,
       "word": "陈凯琳带三个娃都没这么难这么累",
@@ -7937,6 +8033,14 @@
       "onboard_time": 1777886902,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158044,
+      "num": 158044,
+      "word": "浪姐们补偿粉丝应援费用",
+      "onboard_time": 1778232680,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158042,
@@ -8475,6 +8579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140640,
+      "num": 140640,
+      "word": "皮皮虾事件亲属回应客人签字确认才做",
+      "onboard_time": 1778234239,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139548,
       "num": 231450,
       "word": "2026年伦敦世乒赛",
@@ -8683,14 +8795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133913,
-      "num": 189537,
-      "word": "Switch2官宣涨价",
-      "onboard_time": 1778227941,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 132780,
       "num": 132780,
       "word": "机票价格腰斩",
@@ -8873,6 +8977,14 @@
       "onboard_time": 1777849696,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127326,
+      "num": 127326,
+      "word": "霍尔木兹海峡遇袭船上有中国籍船员",
+      "onboard_time": 1778229920,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127071,
@@ -9283,6 +9395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117340,
+      "num": 117340,
+      "word": "浪姐三公录播舞台",
+      "onboard_time": 1778229081,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117320,
       "num": 117320,
       "word": "娜扎和程潇同台跳舞",
@@ -9361,6 +9481,14 @@
       "onboard_time": 1777721359,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114482,
+      "num": 114482,
+      "word": "喜欢周六又喜欢下班",
+      "onboard_time": 1778233879,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 113663,
@@ -9555,6 +9683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102977,
+      "num": 102977,
+      "word": "陆克华一审被判死缓",
+      "onboard_time": 1778232799,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102810,
       "num": 369011,
       "word": "阿联酋再遭空袭",
@@ -9563,12 +9699,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102726,
-      "num": 415674,
-      "word": "DeepSeek崩了",
-      "onboard_time": 1778043862,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 102733,
+      "num": 180191,
+      "word": "2026款丰田铂智3X权益价9.48万起",
+      "onboard_time": 1778231061,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 101559,
@@ -9748,7 +9884,7 @@
     },
     {
       "raw_hot": 94467,
-      "num": 171442,
+      "num": 180147,
       "word": "宇树机器人在韩国当和尚了",
       "onboard_time": 1778223980,
       "rank": 47,
@@ -9787,8 +9923,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90868,
+      "num": 93274,
+      "word": "白敬亭已经是cortis老粉了",
+      "onboard_time": 1778234481,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89886,
-      "num": 171087,
+      "num": 179657,
       "word": "智能手表配手串 buff叠满",
       "onboard_time": 1778222000,
       "rank": 48,
@@ -10641,6 +10785,14 @@
       "onboard_time": 1777791681,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42481,
+      "num": 177970,
+      "word": "汉坦病毒不会全球大暴发",
+      "onboard_time": 1778234481,
+      "rank": 32,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 42238,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778234607634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2737753,
+        "num": 2737753,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869216,
+        "num": 1021469,
+        "word": "湖南卫视综艺本周停播",
+        "onboard_time": 1778218161,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16166,
+        "num": 836604,
+        "word": "以旧换新助推智能消费升级",
+        "onboard_time": 1778226441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652651,
+        "num": 652651,
+        "word": "曝小米汽车将推独立子品牌寻天",
+        "onboard_time": 1778230881,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 533278,
+        "num": 533278,
+        "word": "央视或低价拿下世界杯转播权",
+        "onboard_time": 1778219121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466081,
+        "num": 466081,
+        "word": "詹姆斯一句0比2堵住所有问题",
+        "onboard_time": 1778227820,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376425,
+        "num": 376425,
+        "word": "孟子义确实红的档期有点满",
+        "onboard_time": 1778224520,
+        "rank": 6,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 360803,
+        "num": 360803,
+        "word": "难怪马頔会喜欢孙丞潇",
+        "onboard_time": 1778225780,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284504,
+        "num": 284504,
+        "word": "Uzi说人气被自己玩没了",
+        "onboard_time": 1778225121,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265113,
+        "num": 265113,
+        "word": "Switch2官宣涨价",
+        "onboard_time": 1778227941,
+        "rank": 9,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 1345490,
+        "num": 263491,
+        "word": "向太不满向佑恋情称绝不认这种儿媳",
+        "onboard_time": 1778217980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001970,
+        "num": 263077,
+        "word": "台湾出现汉坦病毒致死病例",
+        "onboard_time": 1778224820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 894795,
+        "num": 261197,
+        "word": "工作后大家的朋友圈都变了",
+        "onboard_time": 1778222480,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 848960,
+        "num": 259444,
+        "word": "汪海林限高",
+        "onboard_time": 1778231960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766000,
+        "num": 256466,
+        "word": "张艺谋 刘三姐",
+        "onboard_time": 1778232261,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436075,
+        "num": 255217,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1778233520,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 575944,
+        "num": 253490,
+        "word": "孙恩盛掉美颜",
+        "onboard_time": 1778221340,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 401158,
+        "num": 250857,
+        "word": "曝时代少年团新企划",
+        "onboard_time": 1778229201,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250830,
+        "num": 250830,
+        "word": "英方裁定2名中国公民有罪",
+        "onboard_time": 1778231901,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200392,
+        "num": 200392,
+        "word": "中疾控回应汉坦病毒疫情",
+        "onboard_time": 1778229500,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 2948984,
+        "num": 197938,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 20,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 252436,
+        "num": 196039,
+        "word": "陈漫拍Angelababy",
+        "onboard_time": 1778217080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191128,
+        "num": 191128,
+        "word": "今我二人 今我夫妻二人",
+        "onboard_time": 1778223440,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129738,
+        "num": 182114,
+        "word": "小米汽车高层调整",
+        "onboard_time": 1778225121,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102733,
+        "num": 180191,
+        "word": "2026款丰田铂智3X权益价9.48万起",
+        "onboard_time": 1778231061,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180173,
+        "num": 180173,
+        "word": "肖战听到要演到80岁的眼神",
+        "onboard_time": 1778212639,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91976,
+        "num": 180147,
+        "word": "宇树机器人在韩国当和尚了",
+        "onboard_time": 1778223980,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67923,
+        "num": 179657,
+        "word": "智能手表配手串 buff叠满",
+        "onboard_time": 1778222000,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188251,
+        "num": 179461,
+        "word": "新娘的陪嫁是一对龙凤胎",
+        "onboard_time": 1778233820,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114354,
+        "num": 178970,
+        "word": "国乒男团冲4强",
+        "onboard_time": 1778219422,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355686,
+        "num": 178767,
+        "word": "榴莲仅退款买家发声",
+        "onboard_time": 1778208080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309884,
+        "num": 178175,
+        "word": "吴艳妮强迫症爆发整理家",
+        "onboard_time": 1778230820,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42481,
+        "num": 177970,
+        "word": "汉坦病毒不会全球大暴发",
+        "onboard_time": 1778234481,
+        "rank": 32,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 239333,
+        "num": 177744,
+        "word": "斜方肌就是一个巨大的讨好型人格",
+        "onboard_time": 1778211980,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214978,
+        "num": 177405,
+        "word": "汪海林回应被限高",
+        "onboard_time": 1778233399,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190904,
+        "num": 177031,
+        "word": "老人子宫切除20年后CT报告正常",
+        "onboard_time": 1778221761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176826,
+        "num": 176826,
+        "word": "田曦薇 分不清标题和弹幕谁更好笑",
+        "onboard_time": 1778221520,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172945,
+        "num": 172945,
+        "word": "袁娅维报平安",
+        "onboard_time": 1778222541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161260,
+        "num": 161260,
+        "word": "JDG晋级胜者组半决赛",
+        "onboard_time": 1778231960,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158044,
+        "num": 158044,
+        "word": "浪姐们补偿粉丝应援费用",
+        "onboard_time": 1778232680,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144079,
+        "num": 144079,
+        "word": "这一刻所有偶像剧都要弱爆了",
+        "onboard_time": 1778212881,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142473,
+        "num": 142473,
+        "word": "张杰在谢娜庆功宴上敬酒",
+        "onboard_time": 1778209340,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140640,
+        "num": 140640,
+        "word": "皮皮虾事件亲属回应客人签字确认才做",
+        "onboard_time": 1778234239,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127326,
+        "num": 127326,
+        "word": "霍尔木兹海峡遇袭船上有中国籍船员",
+        "onboard_time": 1778229920,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117340,
+        "num": 117340,
+        "word": "浪姐三公录播舞台",
+        "onboard_time": 1778229081,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "喜欢周六又喜欢下班",
+        "onboard_time": 1778233879,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105032,
+        "num": 105032,
+        "word": "美国小鸟疑似用废弃针头筑巢",
+        "onboard_time": 1778216480,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102977,
+        "num": 102977,
+        "word": "陆克华一审被判死缓",
+        "onboard_time": 1778232799,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96802,
+        "num": 96802,
+        "word": "张凌赫说炒土豆丝是保命菜系",
+        "onboard_time": 1778226261,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90868,
+        "num": 93274,
+        "word": "白敬亭已经是cortis老粉了",
+        "onboard_time": 1778234481,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领教育强国建设#"
+    }
+  }
+}
