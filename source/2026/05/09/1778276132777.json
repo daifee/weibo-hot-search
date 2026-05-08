@@ -1,0 +1,410 @@
+{
+  "runTime": 1778276132777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 206477,
+        "num": 206477,
+        "word": "再有消息就是要结婚了",
+        "onboard_time": 1778244680,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66240,
+        "num": 136719,
+        "word": "70%卵巢癌患者确诊时已是晚期",
+        "onboard_time": 1778241141,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 6599,
+        "num": 127681,
+        "word": "五一消费潜力充分释放",
+        "onboard_time": 1778243121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 126618,
+        "word": "美国公布大量从未曝光的UFO视频",
+        "onboard_time": 1778265553,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123459,
+        "num": 123459,
+        "word": "金高银好可惜",
+        "onboard_time": 1778259738,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73899,
+        "num": 73899,
+        "word": "朴宝英百想视后",
+        "onboard_time": 1778251762,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62613,
+        "num": 62613,
+        "word": "精神病院炒股炒成公司前十大股东",
+        "onboard_time": 1778256620,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 73043,
+        "num": 61313,
+        "word": "法国男团vs巴西男团",
+        "onboard_time": 1778255540,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51734,
+        "num": 51734,
+        "word": "刚出锅的洞洞鞋",
+        "onboard_time": 1778238680,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47104,
+        "num": 47104,
+        "word": "2026年伦敦世乒赛",
+        "onboard_time": 1778264414,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74569,
+        "num": 47000,
+        "word": "同价买奥迪还是买小米",
+        "onboard_time": 1778257038,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62827,
+        "num": 46457,
+        "word": "王楚钦7比11吴晙诚",
+        "onboard_time": 1778261417,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59926,
+        "num": 46306,
+        "word": "浏阳爆炸烟花厂内部画面",
+        "onboard_time": 1778249963,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52931,
+        "num": 45854,
+        "word": "皮皮虾事件当事人否认想吃白食",
+        "onboard_time": 1778253382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45736,
+        "num": 45736,
+        "word": "刘三姐女演员早期采访",
+        "onboard_time": 1778259617,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45673,
+        "num": 45673,
+        "word": "范丞丞被徐艺洋气到给黄子韬打电话",
+        "onboard_time": 1778252003,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40859,
+        "num": 40859,
+        "word": "世乒赛",
+        "onboard_time": 1778243361,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40740,
+        "num": 40740,
+        "word": "广东的湿度在此刻具象化",
+        "onboard_time": 1778247322,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40247,
+        "num": 40247,
+        "word": "玄彬感谢孙艺珍和儿子",
+        "onboard_time": 1778253323,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38490,
+        "num": 38490,
+        "word": "白鹿自己摔了还不忘扶周洁琼",
+        "onboard_time": 1778255540,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34913,
+        "num": 34913,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 20,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 34374,
+        "num": 34374,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 32255,
+        "word": "文佳煐百想影后",
+        "onboard_time": 1778252243,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 32105,
+        "word": "国乒男团进四强",
+        "onboard_time": 1778247744,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31834,
+        "num": 31834,
+        "word": "美国首批UFO相关文件公布",
+        "onboard_time": 1778271133,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27736,
+        "num": 27736,
+        "word": "肖战齐夏近距离路透",
+        "onboard_time": 1778244623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27710,
+        "num": 27710,
+        "word": "习惯高中穿搭的我突然上了大学",
+        "onboard_time": 1778259617,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27579,
+        "num": 27579,
+        "word": "王俊凯去看了五月天",
+        "onboard_time": 1778253441,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27361,
+        "num": 27361,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778246901,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26831,
+        "num": 26831,
+        "word": "李现给张婧仪拍照",
+        "onboard_time": 1778260278,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26818,
+        "num": 26818,
+        "word": "榴莲仅退款商家申诉被平台驳回",
+        "onboard_time": 1778243961,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26557,
+        "num": 26557,
+        "word": "外网对中国下一代人的身高表示震惊",
+        "onboard_time": 1778245761,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26543,
+        "num": 26543,
+        "word": "浪姐辟谣三公录播",
+        "onboard_time": 1778256440,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26383,
+        "num": 26383,
+        "word": "裴秀智林允儿红毯撞衫",
+        "onboard_time": 1778244981,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26200,
+        "num": 26200,
+        "word": "女子天生神经串联进食秒变大小眼",
+        "onboard_time": 1778259617,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25739,
+        "num": 25739,
+        "word": "男生感染HPV身体会怎样",
+        "onboard_time": 1778235260,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25568,
+        "num": 25568,
+        "word": "新娘的陪嫁是一对龙凤胎",
+        "onboard_time": 1778233820,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23277,
+        "num": 25568,
+        "word": "偏偏宠爱 宋威龙",
+        "onboard_time": 1778247202,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23163,
+        "num": 25568,
+        "word": "印度学霸改成绩单被父亲电锯割喉",
+        "onboard_time": 1778241680,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 25568,
+        "word": "中国男团vs韩国",
+        "onboard_time": 1778239461,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 25567,
+        "word": "外网把中国视频偷给日本成常态",
+        "onboard_time": 1778235500,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20898,
+        "num": 25567,
+        "word": "梁靖崑vs安宰贤",
+        "onboard_time": 1778246362,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19448,
+        "num": 25567,
+        "word": "增距镜成为韩国人必买中国特产",
+        "onboard_time": 1778244202,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18848,
+        "num": 25567,
+        "word": "榴莲事件说明很多事不能算了",
+        "onboard_time": 1778251702,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16993,
+        "num": 25566,
+        "word": "宋亚轩身上有只虫在爬",
+        "onboard_time": 1778252961,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16763,
+        "num": 25566,
+        "word": "赢家 田曦薇",
+        "onboard_time": 1778236099,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16420,
+        "num": 25566,
+        "word": "网传浪姐四公分组",
+        "onboard_time": 1778242341,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16397,
+        "num": 25566,
+        "word": "换乘恋爱4 抓马",
+        "onboard_time": 1778241320,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16036,
+        "num": 25566,
+        "word": "鞠婧祎张云龙晒合照",
+        "onboard_time": 1778249182,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15930,
+        "num": 25565,
+        "word": "白鹿跑男开场来了段啦啦操",
+        "onboard_time": 1778248163,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从0到1步步向前#"
+    }
+  }
+}

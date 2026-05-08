@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/09 04:11:50
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/09 05:35:32
 </p>
 </blockquote>
 <p>
@@ -6543,6 +6543,12 @@ Faker柳智敏广告合作（热度：157030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%A4%A7%E9%87%8F%E4%BB%8E%E6%9C%AA%E6%9B%9D%E5%85%89%E7%9A%84UFO%E8%A7%86%E9%A2%91%23" target="weibo">
+美国公布大量从未曝光的UFO视频（热度：156687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E4%B8%BB%E5%8A%9B%E7%96%91%E9%81%AD%E8%A2%AD%E8%83%B8%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%BC%80%E5%90%AF%E8%B0%83%E6%9F%A5%23" target="weibo">
 中国台北主力疑遭袭胸事件已开启调查（热度：155998）
 </a>
@@ -7169,12 +7175,6 @@ HYBE新女团（热度：131755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%81%9A%E6%88%9040%E5%A4%9A%E4%BA%BF%E8%B7%A8%E5%9B%BD%E4%BA%A7%E4%B8%9A%23" target="weibo">
 一个烧饼做成40多亿跨国产业（热度：130061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%A4%A7%E9%87%8F%E4%BB%8E%E6%9C%AA%E6%9B%9D%E5%85%89%E7%9A%84UFO%E8%A7%86%E9%A2%91%23" target="weibo">
-美国公布大量从未曝光的UFO视频（热度：129847）
 </a>
 </li>
 
@@ -8981,6 +8981,12 @@ AG战胜TYL晋级四强（热度：34157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%E6%9C%89%E8%B7%AF%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD%23" target="weibo">
 女子酒店坠楼身亡有路人被砸中（热度：32053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%89%B9UFO%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6%E5%85%AC%E5%B8%83%23" target="weibo">
+美国首批UFO相关文件公布（热度：31834）
 </a>
 </li>
 

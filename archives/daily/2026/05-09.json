@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778271110885,
+  "endTime": 1778276132777,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -347,6 +347,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 156687,
+      "num": 126618,
+      "word": "美国公布大量从未曝光的UFO视频",
+      "onboard_time": 1778265553,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154185,
       "num": 148998,
       "word": "换乘恋爱4 抓马",
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129847,
-      "num": 44426,
-      "word": "美国公布大量从未曝光的UFO视频",
-      "onboard_time": 1778265553,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121041,
       "num": 121041,
       "word": "梁靖崑vs安宰贤",
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47104,
+      "num": 47104,
+      "word": "2026年伦敦世乒赛",
+      "onboard_time": 1778264414,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45417,
       "num": 90856,
       "word": "榴莲仅退款商家申诉被平台驳回",
@@ -523,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29873,
-      "num": 29873,
-      "word": "2026年伦敦世乒赛",
-      "onboard_time": 1778264414,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 31834,
+      "num": 31834,
+      "word": "美国首批UFO相关文件公布",
+      "onboard_time": 1778271133,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22957,
