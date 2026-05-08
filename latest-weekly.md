@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/05/03 00:09:55 ~ 2026/05/09 03:54:22
+本榜单时间：2026/05/03 00:09:55 ~ 2026/05/09 04:11:50
 </p>
 </blockquote>
 <p>
@@ -7173,6 +7173,12 @@ HYBE新女团（热度：131755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%A4%A7%E9%87%8F%E4%BB%8E%E6%9C%AA%E6%9B%9D%E5%85%89%E7%9A%84UFO%E8%A7%86%E9%A2%91%23" target="weibo">
+美国公布大量从未曝光的UFO视频（热度：129847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMatePadProMax%E6%B5%B7%E5%A4%96%E9%A6%96%E5%8F%91%23" target="weibo">
 华为MatePadProMax海外首发（热度：129830）
 </a>
@@ -8033,12 +8039,6 @@ KPL抽签（热度：95800）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E9%97%AE%E8%B0%81%E4%B8%8D%E6%9C%8D%23" target="weibo">
 张雪问谁不服（热度：86145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%A4%A7%E9%87%8F%E4%BB%8E%E6%9C%AA%E6%9B%9D%E5%85%89%E7%9A%84UFO%E8%A7%86%E9%A2%91%23" target="weibo">
-美国公布大量从未曝光的UFO视频（热度：85746）
 </a>
 </li>
 

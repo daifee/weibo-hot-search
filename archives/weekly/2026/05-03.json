@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778270062816,
+  "endTime": 1778271110885,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -9547,6 +9547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129847,
+      "num": 44426,
+      "word": "美国公布大量从未曝光的UFO视频",
+      "onboard_time": 1778265553,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129830,
       "num": 245587,
       "word": "华为MatePadProMax海外首发",
@@ -10697,14 +10705,6 @@
       "onboard_time": 1777765877,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85746,
-      "num": 44426,
-      "word": "美国公布大量从未曝光的UFO视频",
-      "onboard_time": 1778265553,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83933,
