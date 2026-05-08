@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778241236946,
+  "endTime": 1778242498495,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2802336,
+      "num": 440459,
+      "word": "早期刘三姐演出全裸桥段",
+      "onboard_time": 1778238920,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2798944,
       "num": 2798944,
       "word": "中国男团2比2瑞典",
@@ -297,14 +305,6 @@
       "onboard_time": 1777859780,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2666493,
-      "num": 440459,
-      "word": "早期刘三姐演出全裸桥段",
-      "onboard_time": 1778238920,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 2644706,
@@ -1163,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1096458,
+      "num": 1096458,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1778239639,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1094576,
       "num": 365601,
       "word": "浏阳烟花厂爆炸画面曝光烟柱冲百米",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1777678820,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1078188,
+      "num": 730338,
+      "word": "中国男团vs韩国",
+      "onboard_time": 1778239461,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1077939,
@@ -2219,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 724927,
+      "num": 724927,
+      "word": "刚出锅的洞洞鞋",
+      "onboard_time": 1778238680,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 724713,
       "num": 724713,
       "word": "赵心童恭喜吴宜泽",
@@ -2803,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620969,
+      "num": 433793,
+      "word": "浏阳烟花厂爆炸时的监控无法查看",
+      "onboard_time": 1778236819,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619843,
       "num": 365209,
       "word": "新人演员余意指控陈昊宇惯三",
@@ -3371,12 +3403,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 535805,
-      "num": 725295,
-      "word": "中国男团vs韩国",
-      "onboard_time": 1778239461,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 535393,
+      "num": 456466,
+      "word": "赢家 田曦薇",
+      "onboard_time": 1778236099,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 535014,
@@ -3585,14 +3617,6 @@
       "onboard_time": 1777875740,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513449,
-      "num": 433793,
-      "word": "浏阳烟花厂爆炸时的监控无法查看",
-      "onboard_time": 1778236819,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 513395,
@@ -3883,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479127,
+      "num": 479127,
+      "word": "榴莲仅退款商家拒绝调解",
+      "onboard_time": 1778235680,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478060,
       "num": 302715,
       "word": "Angelababy的五月行程",
@@ -4123,14 +4155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 457095,
-      "num": 457095,
-      "word": "榴莲仅退款商家拒绝调解",
-      "onboard_time": 1778235680,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 454910,
       "num": 454910,
       "word": "掘金vs森林狼",
@@ -4267,14 +4291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 443060,
-      "num": 412516,
-      "word": "赢家 田曦薇",
-      "onboard_time": 1778236099,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 443013,
       "num": 443013,
       "word": "丁程鑫张真源安慰严浩翔",
@@ -4305,14 +4321,6 @@
       "onboard_time": 1778065882,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440604,
-      "num": 440604,
-      "word": "王楚钦vs吴晙诚",
-      "onboard_time": 1778239639,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 439948,
@@ -5225,6 +5233,14 @@
       "onboard_time": 1777698980,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 363641,
+      "num": 285623,
+      "word": "网传浪姐四公分组",
+      "onboard_time": 1778242341,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 362316,
@@ -6227,14 +6243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304782,
-      "num": 286421,
-      "word": "刚出锅的洞洞鞋",
-      "onboard_time": 1778238680,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304594,
       "num": 510406,
       "word": "尤伯杯",
@@ -6739,6 +6747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283567,
+      "num": 283567,
+      "word": "换乘恋爱4 抓马",
+      "onboard_time": 1778241320,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283396,
       "num": 342289,
       "word": "假期订酒店订到公安局",
@@ -7177,6 +7193,14 @@
       "onboard_time": 1777946662,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263307,
+      "num": 434756,
+      "word": "国务院成立浏阳烟花爆炸事故调查组",
+      "onboard_time": 1778241501,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 262352,
@@ -8131,6 +8155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227143,
+      "num": 227143,
+      "word": "这老师已经不属于桃李满天下了",
+      "onboard_time": 1778238501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226752,
       "num": 226752,
       "word": "女子吃榴莲后喝白酒呼吸衰竭",
@@ -8217,6 +8249,14 @@
       "onboard_time": 1777865840,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223958,
+      "num": 223958,
+      "word": "70%卵巢癌患者确诊时已是晚期",
+      "onboard_time": 1778241141,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223885,
@@ -8473,6 +8513,14 @@
       "onboard_time": 1777883301,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215827,
+      "num": 215827,
+      "word": "百想艺术大赏",
+      "onboard_time": 1778240421,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 215668,
@@ -8971,6 +9019,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 204450,
+      "num": 204450,
+      "word": "宋亚轩初中校运会旧照",
+      "onboard_time": 1778237602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204378,
       "num": 437377,
       "word": "金饰克价跌到1396元",
@@ -9067,14 +9123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200980,
-      "num": 174191,
-      "word": "宋亚轩初中校运会旧照",
-      "onboard_time": 1778237602,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -9129,14 +9177,6 @@
       "onboard_time": 1778229500,
       "rank": 19,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 200244,
-      "num": 172593,
-      "word": "这老师已经不属于桃李满天下了",
-      "onboard_time": 1778238501,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 199863,
@@ -10251,14 +10291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169002,
-      "num": 169002,
-      "word": "百想艺术大赏",
-      "onboard_time": 1778240421,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168547,
       "num": 297747,
       "word": "运城遇害女教师丈夫22年后被判无期",
@@ -10273,14 +10305,6 @@
       "onboard_time": 1777679898,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168398,
-      "num": 168398,
-      "word": "70%卵巢癌患者确诊时已是晚期",
-      "onboard_time": 1778241141,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 168297,
@@ -12643,6 +12667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116444,
+      "num": 288347,
+      "word": "印度学霸改成绩单被父亲电锯割喉",
+      "onboard_time": 1778241680,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116430,
       "num": 305608,
       "word": "鹿晗的狗狗馒头9岁了",
@@ -13715,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78559,
+      "num": 236011,
+      "word": "迪奥Cigale手袋她的520首选",
+      "onboard_time": 1778241800,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 77867,
       "num": 254520,
       "word": "小鹏GX线控底盘挑战49道弯一把过",
@@ -14539,6 +14579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49409,
+      "num": 222921,
+      "word": "陶昕然说浪姐有社交压力",
+      "onboard_time": 1778238440,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48694,
       "num": 1011236,
       "word": "单日近3亿人跨区域流动",
@@ -15163,6 +15211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32415,
+      "num": 287652,
+      "word": "上海市监局通报一糖果中检出伟哥",
+      "onboard_time": 1778241680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32240,
       "num": 1820224,
       "word": "心有热爱永远正值青春",
@@ -15403,6 +15459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26543,
+      "num": 219564,
+      "word": "游乐场回应蹦床撕裂女子高空摔落",
+      "onboard_time": 1778241680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26293,
       "num": 71098,
       "word": "铁证",
@@ -15523,6 +15587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22189,
+      "num": 220661,
+      "word": "男子用7年分批将女友积蓄变练功券",
+      "onboard_time": 1778241800,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22045,
       "num": 167850,
       "word": "美国补剂暗示一个月增高7厘米",
@@ -15609,6 +15681,14 @@
       "onboard_time": 1777815442,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20021,
+      "num": 289022,
+      "word": "伦敦世乒赛赛程",
+      "onboard_time": 1778241680,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 19024,
@@ -15816,6 +15896,14 @@
       "word": "女孩当服务员自卑被近8万人鼓励",
       "onboard_time": 1777809683,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11377,
+      "num": 730684,
+      "word": "超4万个公共文化空间就在你身边",
+      "onboard_time": 1778242221,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
