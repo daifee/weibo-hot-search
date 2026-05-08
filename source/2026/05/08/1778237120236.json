@@ -1,0 +1,410 @@
+{
+  "runTime": 1778237120236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2368165,
+        "num": 2368165,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1591252,
+        "num": 1591252,
+        "word": "OPPO回应母亲节文案争议",
+        "onboard_time": 1778234840,
+        "rank": 1,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 13544,
+        "num": 1013967,
+        "word": "以旧换新助推智能消费升级",
+        "onboard_time": 1778226441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789977,
+        "num": 789977,
+        "word": "湖南卫视综艺本周停播",
+        "onboard_time": 1778218161,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751144,
+        "num": 751144,
+        "word": "店员笑了一个小时才舍得出餐",
+        "onboard_time": 1778235621,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445282,
+        "num": 445282,
+        "word": "央视或低价拿下世界杯转播权",
+        "onboard_time": 1778219121,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378716,
+        "num": 378716,
+        "word": "詹姆斯一句0比2堵住所有问题",
+        "onboard_time": 1778227820,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358106,
+        "num": 358106,
+        "word": "难怪马頔会喜欢孙丞潇",
+        "onboard_time": 1778225780,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325368,
+        "num": 325368,
+        "word": "英方裁定2名中国公民有罪",
+        "onboard_time": 1778231901,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258306,
+        "num": 258306,
+        "word": "小米18系列或成最激进一代",
+        "onboard_time": 1778235020,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398080,
+        "num": 257393,
+        "word": "皮皮虾事件亲属回应客人签字确认才做",
+        "onboard_time": 1778234239,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1401816,
+        "num": 256475,
+        "word": "向太不满向佑恋情称绝不认这种儿媳",
+        "onboard_time": 1778217980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923788,
+        "num": 255410,
+        "word": "张艺谋 刘三姐",
+        "onboard_time": 1778232261,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464937,
+        "num": 254105,
+        "word": "曝小米汽车将推独立子品牌寻天",
+        "onboard_time": 1778230881,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 690211,
+        "num": 253282,
+        "word": "汪海林限高",
+        "onboard_time": 1778231960,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413986,
+        "num": 252115,
+        "word": "孙恩盛掉美颜",
+        "onboard_time": 1778221340,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283139,
+        "num": 251278,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1778233520,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308679,
+        "num": 249322,
+        "word": "孟子义确实红的档期有点满",
+        "onboard_time": 1778224520,
+        "rank": 17,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 42764,
+        "num": 248815,
+        "word": "XLG胜决对阵EDG",
+        "onboard_time": 1778236040,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196942,
+        "num": 246989,
+        "word": "男生感染HPV身体会怎样",
+        "onboard_time": 1778235260,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321706,
+        "num": 245748,
+        "word": "TOP吃饭用盆装菜",
+        "onboard_time": 1778235081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3075988,
+        "num": 245362,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 21,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 218807,
+        "num": 243532,
+        "word": "赢家 田曦薇",
+        "onboard_time": 1778236099,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78820,
+        "num": 242249,
+        "word": "杨采钰把防晒衣穿出高级感",
+        "onboard_time": 1778235439,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112996,
+        "num": 241259,
+        "word": "小米汽车高层调整",
+        "onboard_time": 1778225121,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71170,
+        "num": 240097,
+        "word": "浏阳烟花厂爆炸时的监控无法查看",
+        "onboard_time": 1778236819,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599258,
+        "num": 239201,
+        "word": "工作后大家的朋友圈都变了",
+        "onboard_time": 1778222480,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165854,
+        "num": 238301,
+        "word": "今我二人 今我夫妻二人",
+        "onboard_time": 1778223440,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211358,
+        "num": 237204,
+        "word": "汉坦病毒不会全球大暴发",
+        "onboard_time": 1778234481,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 178166,
+        "num": 235335,
+        "word": "中疾控回应汉坦病毒疫情",
+        "onboard_time": 1778229500,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 175049,
+        "num": 234409,
+        "word": "榴莲仅退款商家拒绝调解",
+        "onboard_time": 1778235680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698422,
+        "num": 233052,
+        "word": "台湾出现汉坦病毒致死病例",
+        "onboard_time": 1778224820,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323067,
+        "num": 232430,
+        "word": "吴艳妮强迫症爆发整理家",
+        "onboard_time": 1778230820,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259044,
+        "num": 231500,
+        "word": "榴莲仅退款买家发声",
+        "onboard_time": 1778208080,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252895,
+        "num": 230078,
+        "word": "曝时代少年团新企划",
+        "onboard_time": 1778229201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100743,
+        "num": 229003,
+        "word": "宇树机器人在韩国当和尚了",
+        "onboard_time": 1778223980,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211187,
+        "num": 226885,
+        "word": "陈漫拍Angelababy",
+        "onboard_time": 1778217080,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208370,
+        "num": 225997,
+        "word": "暴发致命病毒邮轮即将靠岸",
+        "onboard_time": 1778235139,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32826,
+        "num": 224961,
+        "word": "印度女警穿便衣巡逻被近40名男子接近",
+        "onboard_time": 1778237060,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35037,
+        "num": 224122,
+        "word": "澳大利亚华人家庭惨案",
+        "onboard_time": 1778236940,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205495,
+        "num": 222943,
+        "word": "Uzi说人气被自己玩没了",
+        "onboard_time": 1778225121,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180704,
+        "num": 221538,
+        "word": "新娘的陪嫁是一对龙凤胎",
+        "onboard_time": 1778233820,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164443,
+        "num": 219917,
+        "word": "汪海林回应被限高",
+        "onboard_time": 1778233399,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177628,
+        "num": 219873,
+        "word": "Switch2官宣涨价",
+        "onboard_time": 1778227941,
+        "rank": 43,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 160336,
+        "num": 218065,
+        "word": "肖战听到要演到80岁的眼神",
+        "onboard_time": 1778212639,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145987,
+        "num": 217329,
+        "word": "浪姐们补偿粉丝应援费用",
+        "onboard_time": 1778232680,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178609,
+        "num": 215959,
+        "word": "外网把中国视频偷给日本成常态",
+        "onboard_time": 1778235500,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80857,
+        "num": 214498,
+        "word": "2026款丰田铂智3X权益价9.48万起",
+        "onboard_time": 1778231061,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174552,
+        "num": 213392,
+        "word": "王欣瑜vs伊埃拉",
+        "onboard_time": 1778234840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132277,
+        "num": 212602,
+        "word": "田曦薇 分不清标题和弹幕谁更好笑",
+        "onboard_time": 1778221520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领教育强国建设#"
+    }
+  }
+}
