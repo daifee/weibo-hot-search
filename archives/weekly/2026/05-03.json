@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778199329472,
+  "endTime": 1778212169751,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -267,6 +267,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2141433,
+      "num": 2141433,
+      "word": "香港拿下世界杯转播权",
+      "onboard_time": 1778206281,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2086571,
+      "num": 1053831,
+      "word": "榴莲仅退款买家发声",
+      "onboard_time": 1778208080,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2076730,
       "num": 582266,
       "word": "大哥谢娜 二弟赵丽颖",
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1668218,
+      "num": 1668218,
+      "word": "张杰在谢娜庆功宴上敬酒",
+      "onboard_time": 1778209340,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1657360,
       "num": 158510,
       "word": "严军不敢发和严浩翔的聊天记录",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 1532316,
-      "num": 352394,
+      "num": 551034,
       "word": "原来好的大学真的有隐形福利",
       "onboard_time": 1778196739,
       "rank": 10,
@@ -537,6 +561,14 @@
       "onboard_time": 1777906283,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1369151,
+      "num": 437224,
+      "word": "热巴的造型因metgala又在外网火了",
+      "onboard_time": 1778204539,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1367787,
@@ -803,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1093957,
+      "num": 1093957,
+      "word": "减肥才知道高中吃的有多少",
+      "onboard_time": 1778202260,
+      "rank": 4,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1089786,
       "num": 1089786,
       "word": "中国男团vs罗马尼亚",
@@ -905,6 +945,14 @@
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1004670,
+      "num": 1004670,
+      "word": "因恶意退货太多整条街道被商家拉黑",
+      "onboard_time": 1778205860,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 996898,
@@ -1076,7 +1124,7 @@
     },
     {
       "raw_hot": 887107,
-      "num": 351355,
+      "num": 383029,
       "word": "王楚钦不提倡不参与生日应援活动",
       "onboard_time": 1778197340,
       "rank": 12,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1777941679,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 867498,
+      "num": 411127,
+      "word": "吴慷仁回复立场问题",
+      "onboard_time": 1778206040,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 867243,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1777949601,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 754487,
+      "num": 754487,
+      "word": "马頔人家新婚你忍忍吧",
+      "onboard_time": 1778209041,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 750662,
@@ -2555,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 491330,
+      "num": 402784,
+      "word": "张凌赫宋祖儿刺棠Q3开机",
+      "onboard_time": 1778205021,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491045,
       "num": 323139,
       "word": "谢贤前女友CoCo回应分手原因",
@@ -2843,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447216,
+      "num": 447216,
+      "word": "浪姐三公淘汰观众",
+      "onboard_time": 1778206040,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446832,
       "num": 446355,
       "word": "时代少年团辟谣",
@@ -3001,6 +3081,22 @@
       "onboard_time": 1777867280,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421753,
+      "num": 380330,
+      "word": "雨霖铃",
+      "onboard_time": 1778208080,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421517,
+      "num": 421517,
+      "word": "刷手机 刻板行为",
+      "onboard_time": 1778201722,
+      "rank": 11,
+      "category": "科学科普"
     },
     {
       "raw_hot": 418773,
@@ -3379,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384084,
+      "num": 365745,
+      "word": "真的有人能被爱到这种程度",
+      "onboard_time": 1778204599,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382934,
       "num": 382934,
       "word": "谷爱凌高定裙子有15000颗泡泡",
@@ -3523,12 +3627,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365986,
+      "num": 368456,
+      "word": "马頔表情",
+      "onboard_time": 1778204660,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365425,
       "num": 365425,
       "word": "宋亚轩说算哥哥没用",
       "onboard_time": 1777983803,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365101,
+      "num": 370901,
+      "word": "上海迪士尼能通话录音游客不能录",
+      "onboard_time": 1778205921,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364318,
@@ -3568,6 +3688,14 @@
       "word": "国乒男团9比0横扫澳大利亚",
       "onboard_time": 1778014454,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 358316,
+      "num": 361419,
+      "word": "央视拒买单后国际足联高管将访华",
+      "onboard_time": 1778208380,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -3665,6 +3793,14 @@
       "onboard_time": 1777728021,
       "rank": 14,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 353303,
+      "num": 359592,
+      "word": "加入酱油会出现蟑螂的酱油碟",
+      "onboard_time": 1778202920,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 353104,
@@ -4083,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315568,
+      "num": 358790,
+      "word": "父亲每月给7000儿子仍网贷打赏主播",
+      "onboard_time": 1778204119,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314800,
       "num": 406072,
       "word": "预测白玉兰得奖名单",
@@ -4276,7 +4420,7 @@
     },
     {
       "raw_hot": 304078,
-      "num": 304078,
+      "num": 327242,
       "word": "美国3艘军舰穿越霍尔木兹遭袭",
       "onboard_time": 1778196498,
       "rank": 19,
@@ -4369,6 +4513,14 @@
       "onboard_time": 1777948582,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298425,
+      "num": 356873,
+      "word": "吻戏还得是年上来拍",
+      "onboard_time": 1778208619,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 297177,
@@ -5075,6 +5227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249717,
+      "num": 367779,
+      "word": "新加坡将鞭刑加入校园反霸凌新规",
+      "onboard_time": 1778209280,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 249520,
       "num": 249520,
       "word": "王曼昱什么时候上场",
@@ -5143,6 +5303,14 @@
       "num": 246208,
       "word": "36岁宝妈用筋膜枪按摩突发脑梗",
       "onboard_time": 1778115920,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245367,
+      "num": 346347,
+      "word": "女子遭家暴离婚儿子被误导排斥母亲",
+      "onboard_time": 1778207422,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -5224,6 +5392,14 @@
       "word": "张晚意说年下绝不叫姐姐",
       "onboard_time": 1778046079,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240519,
+      "num": 342759,
+      "word": "阚清子重回巅峰时期",
+      "onboard_time": 1778200760,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -6099,6 +6275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204325,
+      "num": 341844,
+      "word": "编号0001歼35亮相",
+      "onboard_time": 1778211561,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 204036,
       "num": 204036,
       "word": "中国被FIFA划为一级高价市场",
@@ -6113,6 +6297,14 @@
       "onboard_time": 1778128342,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203318,
+      "num": 339861,
+      "word": "零重力座椅碰撞后堪比从5楼跳下",
+      "onboard_time": 1778208080,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 203118,
@@ -6233,6 +6425,22 @@
       "onboard_time": 1777774280,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198553,
+      "num": 354141,
+      "word": "宁艺卓戴了未发售款高珠",
+      "onboard_time": 1778197819,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198522,
+      "num": 338185,
+      "word": "从红月开始官宣",
+      "onboard_time": 1778211980,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 198356,
@@ -6507,6 +6715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187368,
+      "num": 336929,
+      "word": "AppleWatch首次加入教育优惠",
+      "onboard_time": 1778208140,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187190,
       "num": 188494,
       "word": "怦然心动20岁",
@@ -6771,6 +6987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176315,
+      "num": 332127,
+      "word": "斜方肌就是一个巨大的讨好型人格",
+      "onboard_time": 1778211980,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176179,
       "num": 479014,
       "word": "四川悬崖秋千事故景区系网红打卡地",
@@ -6867,6 +7091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173676,
+      "num": 331013,
+      "word": "小猴帮忙拔刺嫌弃又卖力",
+      "onboard_time": 1778202980,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173578,
       "num": 266911,
       "word": "对阵瑞典已是国乒能排出的最强阵容",
@@ -6897,6 +7129,14 @@
       "onboard_time": 1777773980,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172324,
+      "num": 329391,
+      "word": "洛克王国",
+      "onboard_time": 1778210721,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 171839,
@@ -7019,12 +7259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166706,
+      "num": 316939,
+      "word": "广州一公园现70cm剧毒鳄雀鳝",
+      "onboard_time": 1778207541,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166264,
       "num": 166264,
       "word": "王皓提醒王楚钦冷静不要急躁",
       "onboard_time": 1778077823,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166259,
+      "num": 350842,
+      "word": "白鹿状态未受舆论影响",
+      "onboard_time": 1778210541,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 166226,
@@ -7353,6 +7609,14 @@
       "onboard_time": 1777901602,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156488,
+      "num": 334966,
+      "word": "Faker柳智敏广告合作",
+      "onboard_time": 1778199440,
+      "rank": 37,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 155998,
@@ -7907,14 +8171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135782,
-      "num": 158904,
-      "word": "宁艺卓戴了未发售款高珠",
-      "onboard_time": 1778197819,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135695,
       "num": 652409,
       "word": "湖南全省烟花爆竹企业全面停产整顿",
@@ -8107,6 +8363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128829,
+      "num": 323033,
+      "word": "小米17Max本月发布",
+      "onboard_time": 1778211800,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128667,
       "num": 128667,
       "word": "爸爸的沉默比任何骂都让人后怕",
@@ -8161,6 +8425,14 @@
       "onboard_time": 1777804825,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127701,
+      "num": 321156,
+      "word": "吉赛尔回应每个月换一张新脸",
+      "onboard_time": 1778211680,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 127359,
@@ -8267,6 +8539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124955,
+      "num": 318819,
+      "word": "导演张中臣患白血病",
+      "onboard_time": 1778202080,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124280,
       "num": 124280,
       "word": "天津泡泡岛音乐节",
@@ -8281,6 +8561,14 @@
       "onboard_time": 1778083460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123881,
+      "num": 315237,
+      "word": "HYBE新女团",
+      "onboard_time": 1778207120,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 123758,
@@ -8904,6 +9192,14 @@
       "word": "1个月没回家家里住进2陌生人",
       "onboard_time": 1777809683,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97268,
+      "num": 314328,
+      "word": "三星员工被SK海力士高额奖金刺激",
+      "onboard_time": 1778204660,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -9756,7 +10052,7 @@
     },
     {
       "raw_hot": 46217,
-      "num": 1217808,
+      "num": 1792048,
       "word": "假日经济点燃消费热潮",
       "onboard_time": 1778159421,
       "rank": 2,
@@ -9913,6 +10209,14 @@
       "onboard_time": 1777731140,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40078,
+      "num": 344628,
+      "word": "短剧错嫁有喜正宗古偶味",
+      "onboard_time": 1778211920,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 39903,
@@ -10734,6 +11038,9 @@
     },
     {
       "word": "#习近平的调研之道#"
+    },
+    {
+      "word": "#从这些典故领悟总书记的政绩观#"
     }
   ]
 }
