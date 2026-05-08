@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778276132777,
+  "endTime": 1778277911984,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -331,8 +331,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171837,
+      "num": 126618,
+      "word": "美国公布大量从未曝光的UFO视频",
+      "onboard_time": 1778265553,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169042,
-      "num": 209856,
+      "num": 231393,
       "word": "刚出锅的洞洞鞋",
       "onboard_time": 1778238680,
       "rank": 32,
@@ -345,14 +353,6 @@
       "onboard_time": 1778234840,
       "rank": 35,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 156687,
-      "num": 126618,
-      "word": "美国公布大量从未曝光的UFO视频",
-      "onboard_time": 1778265553,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154185,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64907,
+      "num": 64907,
+      "word": "2026年伦敦世乒赛",
+      "onboard_time": 1778264414,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63076,
       "num": 91400,
       "word": "习惯高中穿搭的我突然上了大学",
@@ -489,14 +497,6 @@
       "onboard_time": 1778233820,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47104,
-      "num": 47104,
-      "word": "2026年伦敦世乒赛",
-      "onboard_time": 1778264414,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 45417,
@@ -531,8 +531,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31834,
-      "num": 31834,
+      "raw_hot": 34098,
+      "num": 34098,
       "word": "美国首批UFO相关文件公布",
       "onboard_time": 1778271133,
       "rank": 24,
@@ -555,8 +555,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17037,
-      "num": 21163,
+      "raw_hot": 18176,
+      "num": 27429,
       "word": "百想艺术大赏",
       "onboard_time": 1778240421,
       "rank": 49,

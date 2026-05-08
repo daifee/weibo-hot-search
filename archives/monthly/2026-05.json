@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778276132777,
+  "endTime": 1778277911984,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -10547,6 +10547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171837,
+      "num": 126618,
+      "word": "美国公布大量从未曝光的UFO视频",
+      "onboard_time": 1778265553,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171285,
       "num": 304965,
       "word": "赵丽颖的二十年",
@@ -11137,14 +11145,6 @@
       "onboard_time": 1777901602,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156687,
-      "num": 126618,
-      "word": "美国公布大量从未曝光的UFO视频",
-      "onboard_time": 1778265553,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156678,
@@ -15651,6 +15651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34098,
+      "num": 34098,
+      "word": "美国首批UFO相关文件公布",
+      "onboard_time": 1778271133,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34074,
       "num": 140829,
       "word": "美政府官员称敌对行动已结束",
@@ -15745,14 +15753,6 @@
       "onboard_time": 1777961660,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31834,
-      "num": 31834,
-      "word": "美国首批UFO相关文件公布",
-      "onboard_time": 1778271133,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31772,
