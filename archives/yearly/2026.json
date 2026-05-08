@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778221010266,
+  "endTime": 1778227652122,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3915607,
+      "num": 3915607,
+      "word": "榴莲仅退款买家被行拘",
+      "onboard_time": 1778223740,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3881745,
       "num": 557708,
       "word": "张雪峰女儿还那么小",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1775912664,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2433550,
-      "num": 2433550,
-      "word": "将门独后开机",
-      "onboard_time": 1771553359,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

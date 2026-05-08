@@ -1,0 +1,410 @@
+{
+  "runTime": 1778227652122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3915607,
+        "num": 3915607,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1646477,
+        "num": 1646477,
+        "word": "台湾出现汉坦病毒致死病例",
+        "onboard_time": 1778224820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16997,
+        "num": 1216848,
+        "word": "以旧换新助推智能消费升级",
+        "onboard_time": 1778226441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077949,
+        "num": 1077949,
+        "word": "湖南卫视综艺本周停播",
+        "onboard_time": 1778218161,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1005426,
+        "num": 1005426,
+        "word": "工作后大家的朋友圈都变了",
+        "onboard_time": 1778222480,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 782880,
+        "num": 782880,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 5,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 517955,
+        "num": 517955,
+        "word": "淘宝免单",
+        "onboard_time": 1778210420,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 570262,
+        "num": 485687,
+        "word": "王暖暖发文恐惧不敢睡被送来抢救",
+        "onboard_time": 1778216182,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415753,
+        "num": 415753,
+        "word": "孟子义确实红的档期有点满",
+        "onboard_time": 1778224520,
+        "rank": 8,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 255997,
+        "num": 412079,
+        "word": "香港拿下世界杯转播权",
+        "onboard_time": 1778206281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1721161,
+        "num": 411244,
+        "word": "向太不满向佑恋情称绝不认这种儿媳",
+        "onboard_time": 1778217980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420407,
+        "num": 405271,
+        "word": "这一刻所有偶像剧都要弱爆了",
+        "onboard_time": 1778212881,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 822078,
+        "num": 401392,
+        "word": "孙恩盛掉美颜",
+        "onboard_time": 1778221340,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 576694,
+        "num": 397067,
+        "word": "浏阳烟花厂爆炸已致37死",
+        "onboard_time": 1778213902,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562011,
+        "num": 393574,
+        "word": "田曦薇 分不清标题和弹幕谁更好笑",
+        "onboard_time": 1778221520,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540821,
+        "num": 390893,
+        "word": "向佑在南昌某酒吧被网友拍到",
+        "onboard_time": 1778224879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430738,
+        "num": 387678,
+        "word": "斜方肌就是一个巨大的讨好型人格",
+        "onboard_time": 1778211980,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501468,
+        "num": 382162,
+        "word": "张杰在谢娜庆功宴上敬酒",
+        "onboard_time": 1778209340,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56499,
+        "num": 379245,
+        "word": "央媒提醒选纸巾别踩这些坑",
+        "onboard_time": 1778225720,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53355,
+        "num": 375588,
+        "word": "浏阳烟花厂爆炸仍有1人失联",
+        "onboard_time": 1778227280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373449,
+        "num": 373449,
+        "word": "陈漫拍Angelababy",
+        "onboard_time": 1778217080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44444,
+        "num": 339791,
+        "word": "女子高空作业时被威胁剪掉绳子",
+        "onboard_time": 1778227280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337407,
+        "num": 337407,
+        "word": "美国小鸟疑似用废弃针头筑巢",
+        "onboard_time": 1778216480,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 393530,
+        "num": 337405,
+        "word": "榴莲仅退款买家发声",
+        "onboard_time": 1778208080,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8788,
+        "num": 337371,
+        "word": "婚检HPV乌龙性病传播加深偏见",
+        "onboard_time": 1778227280,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361508,
+        "num": 337369,
+        "word": "Uzi说人气被自己玩没了",
+        "onboard_time": 1778225121,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337339,
+        "num": 337339,
+        "word": "肖战听到要演到80岁的眼神",
+        "onboard_time": 1778212639,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316147,
+        "num": 316147,
+        "word": "难怪马頔会喜欢孙丞潇",
+        "onboard_time": 1778225780,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275664,
+        "num": 275664,
+        "word": "OPPO 文案价值观",
+        "onboard_time": 1778226741,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210051,
+        "num": 210051,
+        "word": "小米汽车高层调整",
+        "onboard_time": 1778225121,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 369394,
+        "num": 209614,
+        "word": "211毕业生为脑瘫儿子卖房当蜘蛛人",
+        "onboard_time": 1778215460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212845,
+        "num": 209139,
+        "word": "加满一箱油将多花12.5元",
+        "onboard_time": 1778225901,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258155,
+        "num": 208294,
+        "word": "怦然心动返场直播",
+        "onboard_time": 1778222060,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248249,
+        "num": 208099,
+        "word": "网友拿走女子相机故意评论区炫耀",
+        "onboard_time": 1778226801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246936,
+        "num": 206870,
+        "word": "今我二人 今我夫妻二人",
+        "onboard_time": 1778223440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235345,
+        "num": 206732,
+        "word": "央视或低价拿下世界杯转播权",
+        "onboard_time": 1778219121,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224171,
+        "num": 205757,
+        "word": "吴慷仁回复立场问题",
+        "onboard_time": 1778206040,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213942,
+        "num": 205201,
+        "word": "央视拒买单后国际足联高管将访华",
+        "onboard_time": 1778208380,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204845,
+        "num": 204845,
+        "word": "热巴的造型因metgala又在外网火了",
+        "onboard_time": 1778204539,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37023,
+        "num": 202382,
+        "word": "孙颖莎的赛后总结好透彻",
+        "onboard_time": 1778227280,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200504,
+        "num": 200504,
+        "word": "抓周原来这么准",
+        "onboard_time": 1778212941,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197283,
+        "num": 197283,
+        "word": "恩新cp",
+        "onboard_time": 1778227100,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195781,
+        "num": 195781,
+        "word": "袁娅维报平安",
+        "onboard_time": 1778222541,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43136,
+        "num": 187704,
+        "word": "王心凌还是权威",
+        "onboard_time": 1778227521,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179811,
+        "num": 179811,
+        "word": "老人子宫切除20年后CT报告正常",
+        "onboard_time": 1778221761,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174526,
+        "num": 174526,
+        "word": "张凌赫说炒土豆丝是保命菜系",
+        "onboard_time": 1778226261,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142449,
+        "num": 173914,
+        "word": "DeepSeek估值450亿美元",
+        "onboard_time": 1778224101,
+        "rank": 46,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 94467,
+        "num": 171442,
+        "word": "宇树机器人在韩国当和尚了",
+        "onboard_time": 1778223980,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81943,
+        "num": 171087,
+        "word": "智能手表配手串 buff叠满",
+        "onboard_time": 1778222000,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47442,
+        "num": 168450,
+        "word": "零重力座椅碰撞后堪比从5楼跳下",
+        "onboard_time": 1778208080,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领教育强国建设#"
+    }
+  }
+}

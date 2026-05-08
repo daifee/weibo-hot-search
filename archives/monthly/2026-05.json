@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778221010266,
+  "endTime": 1778227652122,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -145,6 +145,14 @@
       "onboard_time": 1777628538,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3915607,
+      "num": 3915607,
+      "word": "榴莲仅退款买家被行拘",
+      "onboard_time": 1778223740,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3742843,
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1721161,
+      "num": 594247,
+      "word": "向太不满向佑恋情称绝不认这种儿媳",
+      "onboard_time": 1778217980,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1702989,
       "num": 1702989,
       "word": "世乒赛",
@@ -577,6 +593,14 @@
       "onboard_time": 1777765518,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1646477,
+      "num": 1646477,
+      "word": "台湾出现汉坦病毒致死病例",
+      "onboard_time": 1778224820,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1630619,
@@ -1283,20 +1307,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1011190,
-      "num": 594247,
-      "word": "向太不满向佑恋情称绝不认这种儿媳",
-      "onboard_time": 1778217980,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1008342,
       "num": 466799,
       "word": "宋亚轩回应你永远并非一个长灯牌",
       "onboard_time": 1777913179,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1005426,
+      "num": 1005426,
+      "word": "工作后大家的朋友圈都变了",
+      "onboard_time": 1778222480,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1004670,
@@ -1763,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 822078,
+      "num": 401392,
+      "word": "孙恩盛掉美颜",
+      "onboard_time": 1778221340,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 821036,
       "num": 384626,
       "word": "林志玲和老公因语言不通感情升温",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1777935856,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 782880,
+      "num": 782880,
+      "word": "汉坦病毒",
+      "onboard_time": 1778227580,
+      "rank": 5,
+      "category": "海外新闻,健康医疗"
     },
     {
       "raw_hot": 782700,
@@ -3011,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 570262,
+      "num": 565639,
+      "word": "王暖暖发文恐惧不敢睡被送来抢救",
+      "onboard_time": 1778216182,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 569684,
       "num": 569684,
       "word": "浏阳烟花爆炸企业负责人被控制",
@@ -3043,14 +3091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 565639,
-      "num": 565639,
-      "word": "王暖暖发文恐惧不敢睡被送来抢救",
-      "onboard_time": 1778216182,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 564993,
       "num": 564993,
       "word": "孙亚龙 dys变天",
@@ -3065,6 +3105,14 @@
       "onboard_time": 1777939998,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562011,
+      "num": 393574,
+      "word": "田曦薇 分不清标题和弹幕谁更好笑",
+      "onboard_time": 1778221520,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 560862,
@@ -3169,6 +3217,14 @@
       "onboard_time": 1777595960,
       "rank": 4,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 540821,
+      "num": 390893,
+      "word": "向佑在南昌某酒吧被网友拍到",
+      "onboard_time": 1778224879,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 540485,
@@ -4315,6 +4371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 415753,
+      "num": 415753,
+      "word": "孟子义确实红的档期有点满",
+      "onboard_time": 1778224520,
+      "rank": 8,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 414472,
       "num": 476993,
       "word": "高速上一车辆主副驾疑似全在睡觉",
@@ -4883,6 +4947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369394,
+      "num": 209614,
+      "word": "211毕业生为脑瘫儿子卖房当蜘蛛人",
+      "onboard_time": 1778215460,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368293,
       "num": 368293,
       "word": "梁靖崑vsE约内斯库",
@@ -4993,6 +5065,14 @@
       "onboard_time": 1778196859,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361508,
+      "num": 337369,
+      "word": "Uzi说人气被自己玩没了",
+      "onboard_time": 1778225121,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 360305,
@@ -5337,6 +5417,14 @@
       "onboard_time": 1777616899,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337407,
+      "num": 337407,
+      "word": "美国小鸟疑似用废弃针头筑巢",
+      "onboard_time": 1778216480,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 337242,
@@ -5713,6 +5801,14 @@
       "onboard_time": 1777942760,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316147,
+      "num": 316147,
+      "word": "难怪马頔会喜欢孙丞潇",
+      "onboard_time": 1778225780,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 315571,
@@ -6547,6 +6643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275664,
+      "num": 275664,
+      "word": "OPPO 文案价值观",
+      "onboard_time": 1778226741,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 275513,
       "num": 363025,
       "word": "火到欧美的韩国棒球女神是AI生成",
@@ -6923,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258155,
+      "num": 208294,
+      "word": "怦然心动返场直播",
+      "onboard_time": 1778222060,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258103,
       "num": 258103,
       "word": "户上隼辅1比3弗朗西斯卡",
@@ -7171,12 +7283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248249,
+      "num": 208099,
+      "word": "网友拿走女子相机故意评论区炫耀",
+      "onboard_time": 1778226801,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
       "onboard_time": 1777563921,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246936,
+      "num": 206870,
+      "word": "今我二人 今我夫妻二人",
+      "onboard_time": 1778223440,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 246446,
@@ -8243,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212845,
+      "num": 209139,
+      "word": "加满一箱油将多花12.5元",
+      "onboard_time": 1778225901,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 212817,
       "num": 295497,
       "word": "TOP团综",
@@ -8329,6 +8465,14 @@
       "onboard_time": 1777607540,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210051,
+      "num": 210051,
+      "word": "小米汽车高层调整",
+      "onboard_time": 1778225121,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 209763,
@@ -8563,14 +8707,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 204463,
-      "num": 204463,
-      "word": "美国小鸟疑似用废弃针头筑巢",
-      "onboard_time": 1778216480,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 204378,
       "num": 437377,
       "word": "金饰克价跌到1396元",
@@ -8795,12 +8931,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 196915,
-      "num": 196915,
-      "word": "211毕业生为脑瘫儿子卖房当蜘蛛人",
-      "onboard_time": 1778215460,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 197283,
+      "num": 197283,
+      "word": "恩新cp",
+      "onboard_time": 1778227100,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 196662,
@@ -8825,6 +8961,14 @@
       "onboard_time": 1778111478,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195781,
+      "num": 195781,
+      "word": "袁娅维报平安",
+      "onboard_time": 1778222541,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 195644,
@@ -9363,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179811,
+      "num": 179811,
+      "word": "老人子宫切除20年后CT报告正常",
+      "onboard_time": 1778221761,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179795,
       "num": 376837,
       "word": "王灿回应女儿烫发",
@@ -9593,6 +9745,14 @@
       "onboard_time": 1777635440,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174526,
+      "num": 174526,
+      "word": "张凌赫说炒土豆丝是保命菜系",
+      "onboard_time": 1778226261,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 174397,
@@ -10865,6 +11025,14 @@
       "onboard_time": 1777628300,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142449,
+      "num": 173914,
+      "word": "DeepSeek估值450亿美元",
+      "onboard_time": 1778224101,
+      "rank": 46,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 142407,
@@ -12747,6 +12915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94467,
+      "num": 171442,
+      "word": "宇树机器人在韩国当和尚了",
+      "onboard_time": 1778223980,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94112,
       "num": 275962,
       "word": "DeepSeek思考过程好萌",
@@ -13025,6 +13201,14 @@
       "onboard_time": 1777557081,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81943,
+      "num": 171087,
+      "word": "智能手表配手串 buff叠满",
+      "onboard_time": 1778222000,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 81918,
@@ -13627,6 +13811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56499,
+      "num": 379245,
+      "word": "央媒提醒选纸巾别踩这些坑",
+      "onboard_time": 1778225720,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56406,
       "num": 378405,
       "word": "匈牙利站赛道超车难度极高",
@@ -13745,6 +13937,14 @@
       "onboard_time": 1777688359,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53355,
+      "num": 375588,
+      "word": "浏阳烟花厂爆炸仍有1人失联",
+      "onboard_time": 1778227280,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53315,
@@ -14043,6 +14243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44444,
+      "num": 339791,
+      "word": "女子高空作业时被威胁剪掉绳子",
+      "onboard_time": 1778227280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44175,
       "num": 340841,
       "word": "拒绝被AI蒸馏的打工人",
@@ -14073,6 +14281,14 @@
       "onboard_time": 1777805842,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43136,
+      "num": 187704,
+      "word": "王心凌还是权威",
+      "onboard_time": 1778227521,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 43089,
@@ -14321,6 +14537,14 @@
       "onboard_time": 1778098393,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37023,
+      "num": 202382,
+      "word": "孙颖莎的赛后总结好透彻",
+      "onboard_time": 1778227280,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 36899,
@@ -14971,6 +15195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16997,
+      "num": 1216848,
+      "word": "以旧换新助推智能消费升级",
+      "onboard_time": 1778226441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16323,
       "num": 322811,
       "word": "张雪机车回应排位赛第6",
@@ -15161,6 +15393,14 @@
       "onboard_time": 1777813283,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8788,
+      "num": 337371,
+      "word": "婚检HPV乌龙性病传播加深偏见",
+      "onboard_time": 1778227280,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8197,
@@ -15379,6 +15619,9 @@
     },
     {
       "word": "#从这些典故领悟总书记的政绩观#"
+    },
+    {
+      "word": "#总书记引领教育强国建设#"
     }
   ]
 }

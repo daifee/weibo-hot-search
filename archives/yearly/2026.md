@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/08 14:16:50
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/08 16:07:32
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ JYP从JYP辞职了（热度：4682490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%BB%85%E9%80%80%E6%AC%BE%E4%B9%B0%E5%AE%B6%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
+榴莲仅退款买家被行拘（热度：3915607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%A5%B3%E5%84%BF%E8%BF%98%E9%82%A3%E4%B9%88%E5%B0%8F%23" target="weibo">
 张雪峰女儿还那么小（热度：3881745）
 </a>
@@ -1805,12 +1811,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KSG%E9%9B%B6%E5%B0%81%E7%8B%BC%E9%98%9F%23" target="weibo">
 KSG零封狼队（热度：2440831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%BC%80%E6%9C%BA%23" target="weibo">
-将门独后开机（热度：2433550）
 </a>
 </li>
 
