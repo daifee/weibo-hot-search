@@ -1,0 +1,410 @@
+{
+  "runTime": 1778283067375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299606,
+        "num": 1299606,
+        "word": "跑男新一期收视率创新低",
+        "onboard_time": 1778281997,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641614,
+        "num": 694001,
+        "word": "美国公布大量从未曝光的UFO视频",
+        "onboard_time": 1778265553,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19226,
+        "num": 572262,
+        "word": "五一消费潜力充分释放",
+        "onboard_time": 1778243121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710202,
+        "num": 563060,
+        "word": "再有消息就是要结婚了",
+        "onboard_time": 1778244680,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334684,
+        "num": 334684,
+        "word": "精神病院炒股炒成公司前十大股东",
+        "onboard_time": 1778256620,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 325899,
+        "num": 325899,
+        "word": "皮皮虾事件当事人否认想吃白食",
+        "onboard_time": 1778253382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280518,
+        "num": 280518,
+        "word": "朴宝英百想视后",
+        "onboard_time": 1778251762,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218253,
+        "num": 218253,
+        "word": "刚出锅的洞洞鞋",
+        "onboard_time": 1778238680,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214912,
+        "num": 214912,
+        "word": "70%卵巢癌患者确诊时已是晚期",
+        "onboard_time": 1778241141,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195797,
+        "num": 195797,
+        "word": "同价买奥迪还是买小米",
+        "onboard_time": 1778257038,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 909343,
+        "num": 195433,
+        "word": "李金铭发表情回应",
+        "onboard_time": 1778256141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426746,
+        "num": 194226,
+        "word": "女子怀孕后发现公务员男友无业已婚",
+        "onboard_time": 1778282299,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423390,
+        "num": 192240,
+        "word": "8家车企被约谈",
+        "onboard_time": 1778282239,
+        "rank": 12,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 222059,
+        "num": 191115,
+        "word": "易易紫说Angelababy喜欢权志龙是跟风",
+        "onboard_time": 1778255121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213112,
+        "num": 190053,
+        "word": "王楚钦7比11吴晙诚",
+        "onboard_time": 1778261417,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200531,
+        "num": 188746,
+        "word": "皮皮虾事件隔壁海鲜店发声",
+        "onboard_time": 1778282058,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188461,
+        "num": 188461,
+        "word": "金高银好可惜",
+        "onboard_time": 1778259738,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175378,
+        "num": 175378,
+        "word": "2026年伦敦世乒赛",
+        "onboard_time": 1778264414,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174273,
+        "num": 174273,
+        "word": "范丞丞被徐艺洋气到给黄子韬打电话",
+        "onboard_time": 1778252003,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87409,
+        "num": 164489,
+        "word": "增距镜成为韩国人必买中国特产",
+        "onboard_time": 1778244202,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160040,
+        "num": 160040,
+        "word": "白鹿自己摔了还不忘扶周洁琼",
+        "onboard_time": 1778255540,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "浏阳爆炸烟花厂内部画面",
+        "onboard_time": 1778249963,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149133,
+        "num": 149133,
+        "word": "14岁男孩网购竹叶青当宠物被咬",
+        "onboard_time": 1778282239,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "玄彬感谢孙艺珍和儿子",
+        "onboard_time": 1778253323,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "国乒男团半决赛对阵法国",
+        "onboard_time": 1778282659,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123795,
+        "num": 123795,
+        "word": "榴莲仅退款买家被行拘",
+        "onboard_time": 1778223740,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "刘三姐女演员早期采访",
+        "onboard_time": 1778259617,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118120,
+        "num": 118120,
+        "word": "中情局报告泄了特朗普的底",
+        "onboard_time": 1778282239,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111903,
+        "num": 111903,
+        "word": "国乒男团进四强",
+        "onboard_time": 1778247744,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109735,
+        "num": 109735,
+        "word": "李现给张婧仪拍照",
+        "onboard_time": 1778260278,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105292,
+        "num": 105292,
+        "word": "汉坦病毒",
+        "onboard_time": 1778227580,
+        "rank": 30,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 101218,
+        "num": 101218,
+        "word": "王俊凯去看了五月天",
+        "onboard_time": 1778253441,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94002,
+        "num": 94002,
+        "word": "肖战齐夏近距离路透",
+        "onboard_time": 1778244623,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90829,
+        "num": 90829,
+        "word": "法国男团vs巴西男团",
+        "onboard_time": 1778255540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88309,
+        "num": 88309,
+        "word": "榴莲仅退款商家申诉被平台驳回",
+        "onboard_time": 1778243961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87961,
+        "num": 87961,
+        "word": "网友喊话任嘉伦取回60多万的酒",
+        "onboard_time": 1778252660,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83305,
+        "num": 83305,
+        "word": "广东的湿度在此刻具象化",
+        "onboard_time": 1778247322,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79449,
+        "num": 79449,
+        "word": "爆炸烟花厂有许多保平安符箓",
+        "onboard_time": 1778282299,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79143,
+        "num": 79143,
+        "word": "汉坦病毒三痛三红症状要警惕",
+        "onboard_time": 1778281217,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78758,
+        "num": 78758,
+        "word": "泰国濑尿虾一夜可能就死了",
+        "onboard_time": 1778282239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73969,
+        "num": 73969,
+        "word": "浪姐辟谣三公录播",
+        "onboard_time": 1778256440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72801,
+        "num": 72801,
+        "word": "文佳煐百想影后",
+        "onboard_time": 1778252243,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63026,
+        "num": 71592,
+        "word": "外网把中国视频偷给日本成常态",
+        "onboard_time": 1778235500,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71316,
+        "num": 71316,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778246901,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69232,
+        "num": 69232,
+        "word": "偏偏宠爱 宋威龙",
+        "onboard_time": 1778247202,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62176,
+        "num": 62176,
+        "word": "世乒赛",
+        "onboard_time": 1778243361,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66942,
+        "num": 61865,
+        "word": "鞠婧祎张云龙晒合照",
+        "onboard_time": 1778249182,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61303,
+        "num": 61303,
+        "word": "新娘的陪嫁是一对龙凤胎",
+        "onboard_time": 1778233820,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61099,
+        "num": 61099,
+        "word": "外网对中国下一代人的身高表示震惊",
+        "onboard_time": 1778245761,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16236,
+        "num": 60878,
+        "word": "刷圈霸榜的奥迪E7X卖28.98万起",
+        "onboard_time": 1778250923,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#从0到1步步向前#"
+    }
+  }
+}
