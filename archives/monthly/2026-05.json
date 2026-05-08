@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778252353971,
+  "endTime": 1778256007848,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4075366,
+      "num": 583390,
+      "word": "李金铭全平台停更",
+      "onboard_time": 1778248044,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3998872,
       "num": 461035,
       "word": "白鹿 跑男",
@@ -185,14 +193,6 @@
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3461122,
-      "num": 583390,
-      "word": "李金铭全平台停更",
-      "onboard_time": 1778248044,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3328539,
@@ -249,6 +249,14 @@
       "onboard_time": 1778227580,
       "rank": 5,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 3053737,
+      "num": 293896,
+      "word": "李金铭消失时间线",
+      "onboard_time": 1778252903,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 3041965,
@@ -3131,6 +3139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 586979,
+      "num": 414883,
+      "word": "美公布首批UFO相关政府文件",
+      "onboard_time": 1778247623,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 586019,
       "num": 411038,
       "word": "深圳地铁去年亏超371亿元",
@@ -3883,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493739,
+      "num": 361678,
+      "word": "范丞丞被徐艺洋气到给黄子韬打电话",
+      "onboard_time": 1778252003,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492208,
       "num": 492208,
       "word": "浏阳烟花厂爆炸前后对比",
@@ -4009,6 +4033,14 @@
       "onboard_time": 1777848855,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479431,
+      "num": 341263,
+      "word": "文佳煐百想影后",
+      "onboard_time": 1778252243,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 479127,
@@ -4579,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428298,
+      "num": 293606,
+      "word": "王俊凯去看了五月天",
+      "onboard_time": 1778253441,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426841,
       "num": 426841,
       "word": "合租因室友掉两根头发报警",
@@ -4683,12 +4723,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 414883,
-      "num": 414883,
-      "word": "美公布首批UFO相关政府文件",
-      "onboard_time": 1778247623,
-      "rank": 18,
-      "category": "海外新闻"
+      "raw_hot": 415466,
+      "num": 415466,
+      "word": "皮皮虾事件当事人否认想吃白食",
+      "onboard_time": 1778253382,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414472,
@@ -5027,6 +5067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 388195,
+      "num": 291205,
+      "word": "玄彬感谢孙艺珍和儿子",
+      "onboard_time": 1778253323,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387164,
       "num": 364494,
       "word": "时代少年团演唱会节目单",
@@ -5121,6 +5169,14 @@
       "onboard_time": 1777818144,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 380426,
+      "num": 291155,
+      "word": "网友喊话任嘉伦取回60多万的酒",
+      "onboard_time": 1778252660,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 379927,
@@ -6619,6 +6675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294829,
+      "num": 294829,
+      "word": "广东的湿度在此刻具象化",
+      "onboard_time": 1778247322,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294322,
       "num": 294322,
       "word": "孟子义将回归桃花坞6",
@@ -6945,6 +7009,14 @@
       "onboard_time": 1777706960,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280401,
+      "num": 280401,
+      "word": "易易紫说Angelababy喜欢权志龙是跟风",
+      "onboard_time": 1778255121,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 280232,
@@ -8283,14 +8355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230663,
-      "num": 230663,
-      "word": "广东的湿度在此刻具象化",
-      "onboard_time": 1778247322,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230513,
       "num": 432181,
       "word": "metgala主题",
@@ -8811,6 +8875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214411,
+      "num": 150352,
+      "word": "白鹿自己摔了还不忘扶周洁琼",
+      "onboard_time": 1778255540,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214300,
       "num": 214300,
       "word": "曼联",
@@ -9289,14 +9361,6 @@
       "onboard_time": 1777798400,
       "rank": 19,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 202769,
-      "num": 202769,
-      "word": "文佳煐百想影后",
-      "onboard_time": 1778252243,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 202742,
@@ -9867,6 +9931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185327,
+      "num": 185327,
+      "word": "法国男团vs巴西男团",
+      "onboard_time": 1778255540,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185174,
       "num": 228695,
       "word": "爸爸当家",
@@ -10305,6 +10377,14 @@
       "onboard_time": 1778049321,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174397,
+      "num": 159752,
+      "word": "宋亚轩身上有只虫在爬",
+      "onboard_time": 1778252961,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 174360,
@@ -11707,6 +11787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 139831,
+      "num": 139831,
+      "word": "玄彬百想视帝",
+      "onboard_time": 1778252841,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139548,
       "num": 231450,
       "word": "2026年伦敦世乒赛",
@@ -11745,6 +11833,14 @@
       "onboard_time": 1777641740,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "王楚钦回应国乒男团进四强",
+      "onboard_time": 1778254580,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 138669,
@@ -11865,6 +11961,14 @@
       "onboard_time": 1777893081,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136718,
+      "num": 136718,
+      "word": "女孩徒步猝死案细节曝光",
+      "onboard_time": 1778252482,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 136574,
@@ -12019,6 +12123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132954,
+      "num": 420873,
+      "word": "榴莲事件说明很多事不能算了",
+      "onboard_time": 1778251702,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132780,
       "num": 132780,
       "word": "机票价格腰斩",
@@ -12057,14 +12169,6 @@
       "onboard_time": 1777790239,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131896,
-      "num": 420873,
-      "word": "榴莲事件说明很多事不能算了",
-      "onboard_time": 1778251702,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131755,
@@ -13331,6 +13435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 102273,
+      "num": 483445,
+      "word": "刷圈霸榜的奥迪E7X卖28.98万起",
+      "onboard_time": 1778250923,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101559,
       "num": 234971,
       "word": "王楚钦满场救球看哭了",
@@ -13979,14 +14091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79265,
-      "num": 483445,
-      "word": "刷圈霸榜的奥迪E7X卖28.98万起",
-      "onboard_time": 1778250923,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 78908,
       "num": 310981,
       "word": "新SU7开进上海百年张园",
@@ -14137,14 +14241,6 @@
       "onboard_time": 1777602978,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75221,
-      "num": 258230,
-      "word": "范丞丞被徐艺洋气到给黄子韬打电话",
-      "onboard_time": 1778252003,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 74117,
@@ -16217,6 +16313,14 @@
       "onboard_time": 1777809683,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12120,
+      "num": 291860,
+      "word": "中方回应代表出席俄胜利日阅兵仪式",
+      "onboard_time": 1778255422,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11377,

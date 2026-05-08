@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778252353971,
+  "endTime": 1778256007848,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1179,6 +1179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4075366,
+      "num": 583390,
+      "word": "李金铭全平台停更",
+      "onboard_time": 1778248044,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4061180,
       "num": 1435769,
       "word": "张凌赫发了好多红包",
@@ -1483,14 +1491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 3461122,
-      "num": 583390,
-      "word": "李金铭全平台停更",
-      "onboard_time": 1778248044,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 3457955,
       "num": 204866,
       "word": "小澈 梅毒",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1770369981,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3053737,
+      "num": 293896,
+      "word": "李金铭消失时间线",
+      "onboard_time": 1778252903,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 3050583,
@@ -2392,14 +2400,6 @@
       "word": "孙怡回应和阚清子关系",
       "onboard_time": 1776433461,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2459037,
-      "num": 722504,
-      "word": "范丞丞 都给我出来",
-      "onboard_time": 1777810583,
-      "rank": 10,
       "category": "艺人"
     }
   ],
