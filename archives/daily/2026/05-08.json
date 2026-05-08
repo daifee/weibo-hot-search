@@ -1,6 +1,6 @@
 {
   "startTime": 1778173163679,
-  "endTime": 1778212832254,
+  "endTime": 1778220306955,
   "band_list": [
     {
       "raw_hot": 4496054,
@@ -35,12 +35,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1837241,
+      "num": 1837241,
+      "word": "4只皮皮虾1035元店主事发次日病逝",
+      "onboard_time": 1778215102,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1797329,
       "num": 1797329,
       "word": "榴莲遭仅退款商家驱车1600公里找买家",
       "onboard_time": 1778170221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1779698,
+      "num": 1779698,
+      "word": "湖南卫视综艺本周停播",
+      "onboard_time": 1778218161,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1532316,
@@ -60,11 +76,19 @@
     },
     {
       "raw_hot": 1369151,
-      "num": 501959,
+      "num": 570044,
       "word": "热巴的造型因metgala又在外网火了",
       "onboard_time": 1778204539,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1266778,
+      "num": 1266778,
+      "word": "浏阳烟花厂爆炸已致37死",
+      "onboard_time": 1778213902,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1159489,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 1028132,
-      "num": 484645,
+      "num": 605695,
       "word": "吴慷仁回复立场问题",
       "onboard_time": 1778206040,
       "rank": 12,
@@ -99,12 +123,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 983597,
+      "num": 631224,
+      "word": "陈漫拍Angelababy",
+      "onboard_time": 1778217080,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 890053,
+      "num": 890053,
+      "word": "这一刻所有偶像剧都要弱爆了",
+      "onboard_time": 1778212881,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 887107,
       "num": 397422,
       "word": "王楚钦不提倡不参与生日应援活动",
       "onboard_time": 1778197340,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 873357,
+      "num": 873357,
+      "word": "浏阳烟花厂爆炸涉案8人传唤到案",
+      "onboard_time": 1778215402,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805414,
+      "num": 805414,
+      "word": "斜方肌就是一个巨大的讨好型人格",
+      "onboard_time": 1778211980,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 754487,
@@ -115,12 +171,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735781,
+      "num": 594247,
+      "word": "向太不满向佑恋情称绝不认这种儿媳",
+      "onboard_time": 1778217980,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663628,
       "num": 350650,
       "word": "暴发致命病毒邮轮中国乘客发声",
       "onboard_time": 1778196739,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 649792,
+      "num": 649792,
+      "word": "央视拒买单后国际足联高管将访华",
+      "onboard_time": 1778208380,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 641493,
+      "num": 591611,
+      "word": "抓周原来这么准",
+      "onboard_time": 1778212941,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 638533,
@@ -147,12 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583138,
-      "num": 480104,
-      "word": "央视拒买单后国际足联高管将访华",
-      "onboard_time": 1778208380,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 591234,
+      "num": 387984,
+      "word": "肖战听到要演到80岁的眼神",
+      "onboard_time": 1778212639,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 565639,
+      "num": 565639,
+      "word": "王暖暖发文恐惧不敢睡被送来抢救",
+      "onboard_time": 1778216182,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526195,
@@ -195,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489434,
+      "num": 361963,
+      "word": "央视或低价拿下世界杯转播权",
+      "onboard_time": 1778219121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470756,
       "num": 540518,
       "word": "微信未读语音消息变灰",
@@ -217,6 +313,14 @@
       "onboard_time": 1778206040,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445794,
+      "num": 350360,
+      "word": "吉赛尔回应每个月换一张新脸",
+      "onboard_time": 1778211680,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 421753,
@@ -299,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348073,
+      "num": 348073,
+      "word": "种地吧第四季定档",
+      "onboard_time": 1778216002,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339378,
       "num": 339569,
       "word": "贵州蘸水",
@@ -332,7 +444,7 @@
     },
     {
       "raw_hot": 304078,
-      "num": 327242,
+      "num": 401880,
       "word": "美国3艘军舰穿越霍尔木兹遭袭",
       "onboard_time": 1778196498,
       "rank": 19,
@@ -353,6 +465,22 @@
       "onboard_time": 1778151261,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294322,
+      "num": 294322,
+      "word": "孟子义将回归桃花坞6",
+      "onboard_time": 1778218522,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293852,
+      "num": 293852,
+      "word": "榴莲买家回应包装和坏榴莲分开扔",
+      "onboard_time": 1778219180,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282004,
@@ -435,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244433,
-      "num": 332127,
-      "word": "斜方肌就是一个巨大的讨好型人格",
-      "onboard_time": 1778211980,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243038,
       "num": 300586,
       "word": "皇马内讧",
@@ -459,11 +579,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234340,
+      "num": 234340,
+      "word": "亚历山大一级恶意犯规",
+      "onboard_time": 1778217022,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221726,
       "num": 221726,
       "word": "何润东 彭于晏是女人幻想的性感尤物",
       "onboard_time": 1778194819,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219925,
+      "num": 298013,
+      "word": "王菲爆改闫妮",
+      "onboard_time": 1778218461,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -483,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217511,
+      "num": 217511,
+      "word": "雷霆2比0湖人",
+      "onboard_time": 1778217320,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214910,
+      "num": 214910,
+      "word": "亲爱的客栈",
+      "onboard_time": 1778214141,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211093,
       "num": 321807,
       "word": "张豆豆不喜欢在外面展示亲密关系",
@@ -491,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209470,
-      "num": 338842,
-      "word": "吉赛尔回应每个月换一张新脸",
-      "onboard_time": 1778211680,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 208341,
+      "num": 208341,
+      "word": "原来狗为了合群也得演戏啊",
+      "onboard_time": 1778219060,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208010,
@@ -513,6 +665,22 @@
       "onboard_time": 1778211561,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 204463,
+      "num": 204463,
+      "word": "美国小鸟疑似用废弃针头筑巢",
+      "onboard_time": 1778216480,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203392,
+      "num": 203392,
+      "word": "给阿嬷的情书 微博自来水",
+      "onboard_time": 1778214802,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 202427,
@@ -552,6 +720,14 @@
       "word": "上海成2028奥运会资格系列赛举办城市",
       "onboard_time": 1778198480,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186456,
+      "num": 186456,
+      "word": "国乒男团冲4强",
+      "onboard_time": 1778219422,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -595,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172384,
+      "num": 203165,
+      "word": "小短腿夏酱",
+      "onboard_time": 1778212820,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171368,
       "num": 300032,
       "word": "喀什恋歌大结局",
@@ -609,14 +793,6 @@
       "onboard_time": 1778168422,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168357,
-      "num": 298701,
-      "word": "肖战听到要演到80岁的眼神",
-      "onboard_time": 1778212639,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 166706,
@@ -795,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106462,
+      "num": 188028,
+      "word": "丁禹兮拎着宋祖儿跑了",
+      "onboard_time": 1778217500,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106192,
       "num": 298331,
       "word": "低智商犯罪",
@@ -931,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59887,
+      "num": 185146,
+      "word": "钱江摩托否认围剿张雪机车",
+      "onboard_time": 1778214740,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58569,
       "num": 296282,
       "word": "浪姐三公彩排",
@@ -945,6 +1137,14 @@
       "onboard_time": 1778152281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53749,
+      "num": 1269953,
+      "word": "国产储能出口迎爆发式增长",
+      "onboard_time": 1778215222,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53454,
@@ -1001,6 +1201,14 @@
       "onboard_time": 1778161162,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44175,
+      "num": 340841,
+      "word": "拒绝被AI蒸馏的打工人",
+      "onboard_time": 1778219060,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 42238,
@@ -1067,12 +1275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28898,
+      "num": 181956,
+      "word": "小鹏第二代VLA辅助驾驶里程占比超5成",
+      "onboard_time": 1778215762,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18280,
       "num": 27101,
       "word": "中国投资者被假皇室骗1800万美元",
       "onboard_time": 1778182453,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10936,
+      "num": 203624,
+      "word": "业内人士称烟花厂培训是走过场",
+      "onboard_time": 1778220260,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5391,
