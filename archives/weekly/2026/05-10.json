@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778344231897,
+  "endTime": 1778346576473,
   "band_list": [
     {
       "raw_hot": 2302381,
@@ -115,12 +115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451844,
+      "num": 451844,
+      "word": "母亲节",
+      "onboard_time": 1778344219,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450974,
       "num": 450974,
       "word": "广东男篮绝杀",
       "onboard_time": 1778335222,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410091,
+      "num": 410091,
+      "word": "浪7三公是浪姐史上浓墨重彩的一笔",
+      "onboard_time": 1778340860,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 401500,
@@ -187,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289641,
-      "num": 289641,
-      "word": "浪7三公是浪姐史上浓墨重彩的一笔",
-      "onboard_time": 1778340860,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280820,
       "num": 280820,
       "word": "浪姐48来了",
@@ -241,6 +249,14 @@
       "onboard_time": 1778343020,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222285,
+      "num": 211394,
+      "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
+      "onboard_time": 1778343260,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218594,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174336,
-      "num": 192805,
-      "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
-      "onboard_time": 1778343260,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172601,
       "num": 172601,
       "word": "赵丽颖好超前的女本位思维",
@@ -372,11 +380,19 @@
     },
     {
       "raw_hot": 122286,
-      "num": 122286,
+      "num": 125252,
       "word": "一家三口候车室吃东西垃圾扔满地",
       "onboard_time": 1778323103,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97023,
+      "num": 126231,
+      "word": "周琦失误",
+      "onboard_time": 1778344821,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 87335,
@@ -387,7 +403,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 75585,
+      "raw_hot": 75739,
       "num": 165721,
       "word": "央视网更正锁电相关报道",
       "onboard_time": 1778342721,
@@ -395,12 +411,68 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75113,
+      "num": 125496,
+      "word": "Cui71 韩国游戏",
+      "onboard_time": 1778346019,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 74446,
+      "num": 124980,
+      "word": "丈夫背叛女子哭晕妹妹套塑料袋急救",
+      "onboard_time": 1778340561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67908,
+      "num": 124679,
+      "word": "孙杨感谢母亲的强大",
+      "onboard_time": 1778338282,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66735,
+      "num": 124468,
+      "word": "苏超",
+      "onboard_time": 1778332161,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64282,
+      "num": 124132,
+      "word": "已证实安第斯病毒具备人际传播能力",
+      "onboard_time": 1778346019,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60517,
+      "num": 123747,
+      "word": "杨超越回应大银幕脸",
+      "onboard_time": 1778346019,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60313,
-      "num": 122137,
+      "num": 122517,
       "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
       "onboard_time": 1778340860,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58109,
+      "num": 123502,
+      "word": "给六只猫猫同时洗澡",
+      "onboard_time": 1778346019,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 58045,
@@ -409,6 +481,46 @@
       "onboard_time": 1778338703,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 55632,
+      "num": 122829,
+      "word": "俄罗斯胜利日阅兵",
+      "onboard_time": 1778345239,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52025,
+      "num": 122441,
+      "word": "赖清德跪拜日本殖民者",
+      "onboard_time": 1778324540,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51390,
+      "num": 122066,
+      "word": "官方回应皮皮虾事件司机是否吃回扣",
+      "onboard_time": 1778337321,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44457,
+      "num": 121740,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1778330661,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43358,
+      "num": 121722,
+      "word": "麦当劳铲子",
+      "onboard_time": 1778324659,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 37787,
