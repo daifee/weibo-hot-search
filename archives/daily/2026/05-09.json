@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778307857331,
+  "endTime": 1778311584152,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1794943,
+      "num": 354496,
+      "word": "皮皮虾事件店主妻子情绪崩溃",
+      "onboard_time": 1778307081,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1669484,
       "num": 1407101,
       "word": "皮皮虾事件游客已删除所有爆料内容",
@@ -99,20 +107,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1588325,
+      "num": 363487,
+      "word": "内娱嘴亲烂了也没他俩眼神动人",
+      "onboard_time": 1778306241,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1550886,
       "num": 1550886,
       "word": "王暖暖自曝长期遭MCN公司压榨",
       "onboard_time": 1778298500,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1512757,
-      "num": 363487,
-      "word": "内娱嘴亲烂了也没他俩眼神动人",
-      "onboard_time": 1778306241,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1484131,
@@ -283,12 +291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 624769,
+      "num": 289214,
+      "word": "汪卓成被好莱坞找去演男主以为是诈骗",
+      "onboard_time": 1778309959,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599156,
       "num": 460351,
       "word": "五月天演唱会结束吃点化毛膏吧",
       "onboard_time": 1778291240,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 595174,
+      "num": 595174,
+      "word": "车企锁电",
+      "onboard_time": 1778309959,
+      "rank": 5,
+      "category": "汽车"
     },
     {
       "raw_hot": 587249,
@@ -401,6 +425,22 @@
       "onboard_time": 1778297600,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445160,
+      "num": 282757,
+      "word": "给阿嬷的情书剧组穷成这样",
+      "onboard_time": 1778310500,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 439799,
+      "num": 354758,
+      "word": "谁敢信这是同一天的杨幂",
+      "onboard_time": 1778304199,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 428298,
@@ -523,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364712,
-      "num": 354758,
-      "word": "谁敢信这是同一天的杨幂",
-      "onboard_time": 1778304199,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 363835,
       "num": 363835,
       "word": "尘白禁区退钱",
@@ -561,14 +593,6 @@
       "onboard_time": 1778285662,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354496,
-      "num": 354496,
-      "word": "皮皮虾事件店主妻子情绪崩溃",
-      "onboard_time": 1778307081,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 353189,
@@ -627,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318460,
+      "num": 259191,
+      "word": "时代峰峻回应陈奕恒被指抄袭朱志鑫",
+      "onboard_time": 1778311039,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292311,
       "num": 367862,
       "word": "增距镜成为韩国人必买中国特产",
@@ -667,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283113,
+      "num": 283113,
+      "word": "有了iPhone还用买大疆吗",
+      "onboard_time": 1778309298,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 280908,
       "num": 280908,
       "word": "浪姐三公已经彩排三次了",
@@ -680,6 +720,14 @@
       "word": "中国地铁被谬认为日本还在发生",
       "onboard_time": 1778289980,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274018,
+      "num": 257452,
+      "word": "91岁老人子宫脱垂靠子宫托忍了30年",
+      "onboard_time": 1778302582,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -699,12 +747,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 260421,
+      "num": 260421,
+      "word": "吃过同款皮皮虾食客发声",
+      "onboard_time": 1778302882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259599,
       "num": 251485,
       "word": "白鹿自己摔了还不忘扶周洁琼",
       "onboard_time": 1778255540,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257216,
+      "num": 257216,
+      "word": "谁来为无子女老人晚年兜底",
+      "onboard_time": 1778309781,
+      "rank": 25,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 255944,
@@ -817,6 +881,22 @@
       "onboard_time": 1778303900,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232752,
+      "num": 232752,
+      "word": "老人疑因地铁座位撕扯女孩",
+      "onboard_time": 1778309061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229393,
+      "num": 229393,
+      "word": "小钰直播了",
+      "onboard_time": 1778307621,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 225215,
@@ -955,12 +1035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195692,
-      "num": 195692,
-      "word": "91岁老人子宫脱垂靠子宫托忍了30年",
-      "onboard_time": 1778302582,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 191621,
+      "num": 234385,
+      "word": "法医称马拉多纳逝前遭12小时折磨",
+      "onboard_time": 1778303239,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184195,
@@ -1027,12 +1107,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172913,
-      "num": 172913,
-      "word": "小钰直播了",
-      "onboard_time": 1778307621,
-      "rank": 48,
-      "category": "电竞"
+      "raw_hot": 174212,
+      "num": 174212,
+      "word": "浏阳烟花厂墙上挂钟停止在爆炸瞬间",
+      "onboard_time": 1778309781,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 171533,
+      "num": 171533,
+      "word": "不少车主感叹停车位缩水",
+      "onboard_time": 1778309719,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167478,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1778292799,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160933,
+      "num": 214553,
+      "word": "谁在把中国视频偷给日本",
+      "onboard_time": 1778307800,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156942,
@@ -1107,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149802,
-      "num": 170952,
-      "word": "法医称马拉多纳逝前遭12小时折磨",
-      "onboard_time": 1778303239,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148379,
       "num": 148379,
       "word": "男子杀15岁少女弃尸和妻子外出吃饭",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1778252841,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139130,
+      "num": 139130,
+      "word": "于正说上一次这么自信还是墨雨云间",
+      "onboard_time": 1778311100,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 138681,
@@ -1185,6 +1281,22 @@
       "onboard_time": 1778251702,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132281,
+      "num": 116475,
+      "word": "鹿晗不承认是老登",
+      "onboard_time": 1778304141,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131356,
+      "num": 142146,
+      "word": "母亲节礼物",
+      "onboard_time": 1778311340,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 130488,
@@ -1259,14 +1371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103634,
-      "num": 214553,
-      "word": "谁在把中国视频偷给日本",
-      "onboard_time": 1778307800,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102273,
       "num": 193075,
       "word": "刷圈霸榜的奥迪E7X卖28.98万起",
@@ -1331,6 +1435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 64718,
+      "num": 144463,
+      "word": "奥迪E7X把家装进车里了",
+      "onboard_time": 1778310980,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63892,
       "num": 357762,
       "word": "宾利车主高速救助被弃新人系摆拍",
@@ -1360,6 +1472,14 @@
       "word": "女子天生神经串联进食秒变大小眼",
       "onboard_time": 1778259617,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58828,
+      "num": 156686,
+      "word": "央媒提醒选纸认准国标优等品",
+      "onboard_time": 1778310920,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15600,
+      "num": 308222,
+      "word": "1999元做医美被套路消费4万元",
+      "onboard_time": 1778310920,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 12120,
       "num": 291860,
       "word": "中方回应代表出席俄胜利日阅兵仪式",
@@ -1529,6 +1657,14 @@
       "onboard_time": 1778284879,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1984,
+      "num": 156695,
+      "word": "大厂AI 博主传承非遗",
+      "onboard_time": 1778311220,
+      "rank": 38,
+      "category": "互联网,网红"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778311584152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2775392,
+        "num": 2775392,
+        "word": "世界杯转播权",
+        "onboard_time": 1778305041,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1237015,
+        "num": 1237015,
+        "word": "奔跑吧回应收视率低",
+        "onboard_time": 1778297780,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1840,
+        "num": 823373,
+        "word": "好的营商环境就是生产力",
+        "onboard_time": 1778293038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 753116,
+        "num": 753116,
+        "word": "淘宝免单",
+        "onboard_time": 1778297119,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 658755,
+        "num": 658755,
+        "word": "白鹿主动让C",
+        "onboard_time": 1778300240,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595174,
+        "num": 595174,
+        "word": "车企锁电",
+        "onboard_time": 1778309959,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 582405,
+        "num": 582405,
+        "word": "8名中国人赴泰私拍短剧被逮捕",
+        "onboard_time": 1778301622,
+        "rank": 6,
+        "category": "海外新闻,作品衍生"
+      },
+      {
+        "raw_hot": 494017,
+        "num": 494017,
+        "word": "密室大逃脱 张真源",
+        "onboard_time": 1778299760,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315848,
+        "num": 315848,
+        "word": "DeepSeek正式跨入图文交互时代",
+        "onboard_time": 1778298620,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15600,
+        "num": 308222,
+        "word": "1999元做医美被套路消费4万元",
+        "onboard_time": 1778310920,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1794943,
+        "num": 303799,
+        "word": "皮皮虾事件店主妻子情绪崩溃",
+        "onboard_time": 1778307081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1588325,
+        "num": 295077,
+        "word": "内娱嘴亲烂了也没他俩眼神动人",
+        "onboard_time": 1778306241,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624769,
+        "num": 289214,
+        "word": "汪卓成被好莱坞找去演男主以为是诈骗",
+        "onboard_time": 1778309959,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283113,
+        "num": 283113,
+        "word": "有了iPhone还用买大疆吗",
+        "onboard_time": 1778309298,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 471585,
+        "num": 282945,
+        "word": "47岁韩国影后河智苑西湖独自夜跑",
+        "onboard_time": 1778304981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445160,
+        "num": 282757,
+        "word": "给阿嬷的情书剧组穷成这样",
+        "onboard_time": 1778310500,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282464,
+        "num": 282464,
+        "word": "尘白禁区退钱",
+        "onboard_time": 1778300720,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439799,
+        "num": 281800,
+        "word": "谁敢信这是同一天的杨幂",
+        "onboard_time": 1778304199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385105,
+        "num": 276537,
+        "word": "向太说郭碧婷拿捏了公婆的心",
+        "onboard_time": 1778305461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260421,
+        "num": 260421,
+        "word": "吃过同款皮皮虾食客发声",
+        "onboard_time": 1778302882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323127,
+        "num": 260002,
+        "word": "跑男疯狂证明自己",
+        "onboard_time": 1778297541,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318460,
+        "num": 259191,
+        "word": "时代峰峻回应陈奕恒被指抄袭朱志鑫",
+        "onboard_time": 1778311039,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317563,
+        "num": 259136,
+        "word": "陌生男子趁女生熟睡潜入卧室留体液",
+        "onboard_time": 1778297960,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304765,
+        "num": 257986,
+        "word": "文章开酒吧了",
+        "onboard_time": 1778301862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274018,
+        "num": 257452,
+        "word": "91岁老人子宫脱垂靠子宫托忍了30年",
+        "onboard_time": 1778302582,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257216,
+        "num": 257216,
+        "word": "谁来为无子女老人晚年兜底",
+        "onboard_time": 1778309781,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 249475,
+        "num": 249475,
+        "word": "李金铭发表情回应",
+        "onboard_time": 1778256141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191621,
+        "num": 234385,
+        "word": "法医称马拉多纳逝前遭12小时折磨",
+        "onboard_time": 1778303239,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232752,
+        "num": 232752,
+        "word": "老人疑因地铁座位撕扯女孩",
+        "onboard_time": 1778309061,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229393,
+        "num": 229393,
+        "word": "小钰直播了",
+        "onboard_time": 1778307621,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174212,
+        "num": 174212,
+        "word": "浏阳烟花厂墙上挂钟停止在爆炸瞬间",
+        "onboard_time": 1778309781,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180777,
+        "num": 173186,
+        "word": "李金铭答应没事多出来互动",
+        "onboard_time": 1778299041,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171533,
+        "num": 171533,
+        "word": "不少车主感叹停车位缩水",
+        "onboard_time": 1778309719,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170872,
+        "num": 170872,
+        "word": "偏偏宠爱 宋威龙包上恩",
+        "onboard_time": 1778295980,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161143,
+        "num": 161143,
+        "word": "商场的镜子会骗人",
+        "onboard_time": 1778298919,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 160933,
+        "num": 160933,
+        "word": "谁在把中国视频偷给日本",
+        "onboard_time": 1778307800,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160352,
+        "num": 160352,
+        "word": "文班亚马39分",
+        "onboard_time": 1778303900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157159,
+        "num": 157159,
+        "word": "千里江山图妆造",
+        "onboard_time": 1778305340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1984,
+        "num": 156695,
+        "word": "大厂AI 博主传承非遗",
+        "onboard_time": 1778311220,
+        "rank": 38,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 58828,
+        "num": 156686,
+        "word": "央媒提醒选纸认准国标优等品",
+        "onboard_time": 1778310920,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156686,
+        "num": 156685,
+        "word": "人为了自由到底能拼到什么程度",
+        "onboard_time": 1778303122,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64718,
+        "num": 144463,
+        "word": "奥迪E7X把家装进车里了",
+        "onboard_time": 1778310980,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 143842,
+        "word": "刘涛妈祖诞辰守夜",
+        "onboard_time": 1778285662,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143508,
+        "num": 143508,
+        "word": "田曦薇 刘海",
+        "onboard_time": 1778288001,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131356,
+        "num": 142146,
+        "word": "母亲节礼物",
+        "onboard_time": 1778311340,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 141409,
+        "word": "阿信感谢王俊凯",
+        "onboard_time": 1778300661,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139130,
+        "num": 139130,
+        "word": "于正说上一次这么自信还是墨雨云间",
+        "onboard_time": 1778311100,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129022,
+        "num": 129022,
+        "word": "世乒赛收视率破6",
+        "onboard_time": 1778302282,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116475,
+        "num": 116475,
+        "word": "五角大楼公布的UFO画面",
+        "onboard_time": 1778295439,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132281,
+        "num": 116475,
+        "word": "鹿晗不承认是老登",
+        "onboard_time": 1778304141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领能源强国建设#"
+    }
+  }
+}
