@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/05/09 12:45:35
+本榜单时间：2026/01/01 00:35:36 ~ 2026/05/09 14:24:17
 </p>
 </blockquote>
 <p>
@@ -1239,6 +1239,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%23" target="weibo">
+世界杯转播权（热度：3266916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B0%86%E7%BC%BA%E5%B8%AD%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 迪丽热巴将缺席时装周（热度：3248268）
 </a>
@@ -1805,12 +1811,6 @@ YSL 撞衫（热度：2608306）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97%23" target="weibo">
 U23国足vs越南（热度：2487537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83%E6%8B%86cp%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-孟子义李昀锐下定决心拆cp的原因（热度：2478979）
 </a>
 </li>
 

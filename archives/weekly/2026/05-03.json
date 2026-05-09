@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778301935897,
+  "endTime": 1778307857331,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -161,6 +161,14 @@
       "onboard_time": 1778054241,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3266916,
+      "num": 3266916,
+      "word": "世界杯转播权",
+      "onboard_time": 1778305041,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3173626,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1512757,
+      "num": 363487,
+      "word": "内娱嘴亲烂了也没他俩眼神动人",
+      "onboard_time": 1778306241,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1492576,
       "num": 1492576,
       "word": "张雪机车德比斯退赛",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1777768759,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1119707,
+      "num": 1119707,
+      "word": "王暖暖控诉无忧传媒",
+      "onboard_time": 1778301801,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1118514,
@@ -1676,7 +1700,7 @@
     },
     {
       "raw_hot": 823220,
-      "num": 385300,
+      "num": 809461,
       "word": "白鹿主动让C",
       "onboard_time": 1778300240,
       "rank": 14,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1778051959,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 775996,
+      "num": 775996,
+      "word": "8名中国人赴泰私拍短剧被逮捕",
+      "onboard_time": 1778301622,
+      "rank": 6,
+      "category": "海外新闻,作品衍生"
     },
     {
       "raw_hot": 771447,
@@ -2121,6 +2153,14 @@
       "onboard_time": 1778066540,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687396,
+      "num": 362170,
+      "word": "47岁韩国影后河智苑西湖独自夜跑",
+      "onboard_time": 1778304981,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 684353,
@@ -3315,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490916,
+      "num": 377498,
+      "word": "陌生男子趁女生熟睡潜入卧室留体液",
+      "onboard_time": 1778297960,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490839,
       "num": 490839,
       "word": "浏阳烟花厂爆炸事故新闻发布会",
@@ -3337,6 +3385,14 @@
       "onboard_time": 1777812862,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484340,
+      "num": 359568,
+      "word": "向太说郭碧婷拿捏了公婆的心",
+      "onboard_time": 1778305461,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 479554,
@@ -3512,6 +3568,14 @@
       "word": "被批擦边npc互动改为送簪花",
       "onboard_time": 1777788081,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464195,
+      "num": 365980,
+      "word": "王暖暖差点没抢救回来",
+      "onboard_time": 1778297600,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4123,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398396,
-      "num": 377498,
-      "word": "陌生男子趁女生熟睡潜入卧室留体液",
-      "onboard_time": 1778297960,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 398320,
       "num": 351819,
       "word": "赛力斯跌超6%",
@@ -4289,6 +4345,14 @@
       "onboard_time": 1778164883,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 385529,
+      "num": 358920,
+      "word": "OPPO",
+      "onboard_time": 1778307020,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 384493,
@@ -4491,6 +4555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367097,
+      "num": 355449,
+      "word": "文章开酒吧了",
+      "onboard_time": 1778301862,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367055,
       "num": 331250,
       "word": "吴昕回应谢娜演唱会",
@@ -4531,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364712,
+      "num": 354758,
+      "word": "谁敢信这是同一天的杨幂",
+      "onboard_time": 1778304199,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364318,
       "num": 364318,
       "word": "严浩翔回应演唱会哭了",
@@ -4545,6 +4625,14 @@
       "onboard_time": 1777778720,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363835,
+      "num": 363835,
+      "word": "尘白禁区退钱",
+      "onboard_time": 1778300720,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 362271,
@@ -4665,6 +4753,14 @@
       "onboard_time": 1777788140,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354496,
+      "num": 354496,
+      "word": "皮皮虾事件店主妻子情绪崩溃",
+      "onboard_time": 1778307081,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354494,
@@ -6083,14 +6179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266577,
-      "num": 365980,
-      "word": "王暖暖差点没抢救回来",
-      "onboard_time": 1778297600,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265459,
       "num": 265459,
       "word": "男子学猫叫认亲被处罚",
@@ -6401,6 +6489,14 @@
       "onboard_time": 1778155881,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252470,
+      "num": 285670,
+      "word": "五哈",
+      "onboard_time": 1778301742,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252083,
@@ -6779,6 +6875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236347,
+      "num": 219989,
+      "word": "千里江山图妆造",
+      "onboard_time": 1778305340,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236146,
       "num": 236146,
       "word": "敏京和胜勇在一起了",
@@ -6825,6 +6929,14 @@
       "onboard_time": 1778117840,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234721,
+      "num": 234721,
+      "word": "文班亚马39分",
+      "onboard_time": 1778303900,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 234621,
@@ -7219,6 +7331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220099,
+      "num": 220099,
+      "word": "人为了自由到底能拼到什么程度",
+      "onboard_time": 1778303122,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219725,
       "num": 327679,
       "word": "孙颖莎申裕斌握上就分不开",
@@ -7339,6 +7459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215494,
+      "num": 215494,
+      "word": "李想称汽车不能像手机一样换代",
+      "onboard_time": 1778304261,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 215471,
       "num": 215471,
       "word": "我们的少年时代2",
@@ -7409,6 +7537,14 @@
       "onboard_time": 1777879762,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214517,
+      "num": 214517,
+      "word": "孙杨这么大去变形记也晚了",
+      "onboard_time": 1778306720,
+      "rank": 42,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 214300,
@@ -7633,14 +7769,6 @@
       "onboard_time": 1778000418,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207405,
-      "num": 207405,
-      "word": "尘白禁区退钱",
-      "onboard_time": 1778300720,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 207167,
@@ -8001,6 +8129,14 @@
       "onboard_time": 1778111478,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195692,
+      "num": 195692,
+      "word": "91岁老人子宫脱垂靠子宫托忍了30年",
+      "onboard_time": 1778302582,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195639,
@@ -8395,6 +8531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 181305,
+      "num": 181305,
+      "word": "世乒赛收视率破6",
+      "onboard_time": 1778302282,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181059,
       "num": 253392,
       "word": "夫妻接连下水救子父亲身亡",
@@ -8449,14 +8593,6 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179117,
-      "num": 285670,
-      "word": "五哈",
-      "onboard_time": 1778301742,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 179065,
@@ -8729,6 +8865,14 @@
       "onboard_time": 1777853239,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172913,
+      "num": 172913,
+      "word": "小钰直播了",
+      "onboard_time": 1778307621,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 172838,
@@ -9065,14 +9209,6 @@
       "onboard_time": 1777885100,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161196,
-      "num": 161196,
-      "word": "王暖暖控诉无忧传媒",
-      "onboard_time": 1778301801,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 161183,
@@ -9515,14 +9651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150134,
-      "num": 150134,
-      "word": "文章开酒吧了",
-      "onboard_time": 1778301862,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150111,
       "num": 150111,
       "word": "低智商犯罪 哈尔滨",
@@ -9552,6 +9680,14 @@
       "word": "北约欠下的血债中国人永不会忘",
       "onboard_time": 1778135419,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 149802,
+      "num": 170952,
+      "word": "法医称马拉多纳逝前遭12小时折磨",
+      "onboard_time": 1778303239,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -11003,6 +11139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103634,
+      "num": 214553,
+      "word": "谁在把中国视频偷给日本",
+      "onboard_time": 1778307800,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103544,
       "num": 170751,
       "word": "这密室开着灯我都不敢玩",
@@ -11169,6 +11313,14 @@
       "onboard_time": 1777935917,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96623,
+      "num": 355774,
+      "word": "建议李飞给余宇涵涨工资",
+      "onboard_time": 1778306540,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 96560,
@@ -11675,6 +11827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69702,
+      "num": 182554,
+      "word": "肖战深V白色西装",
+      "onboard_time": 1778303061,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69113,
       "num": 475970,
       "word": "女厕紧张不该只靠临时借用男厕",
@@ -11689,6 +11849,14 @@
       "onboard_time": 1777730303,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68833,
+      "num": 357048,
+      "word": "精神病院回应成上市公司股东",
+      "onboard_time": 1778306481,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 68327,
@@ -11712,6 +11880,14 @@
       "word": "这届年轻人的顶级心态",
       "onboard_time": 1777853478,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63892,
+      "num": 357762,
+      "word": "宾利车主高速救助被弃新人系摆拍",
+      "onboard_time": 1778306961,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -12803,6 +12979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27384,
+      "num": 260048,
+      "word": "徐州非法排污后续",
+      "onboard_time": 1778306481,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27280,
       "num": 184284,
       "word": "王暖暖说一年200多场直播超负荷",
@@ -13057,6 +13241,14 @@
       "onboard_time": 1778182453,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17992,
+      "num": 358516,
+      "word": "月租10万住酒店被索磨损费进展",
+      "onboard_time": 1778306900,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17746,
