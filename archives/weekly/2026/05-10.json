@@ -1,10 +1,10 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778367385098,
+  "endTime": 1778368415791,
   "band_list": [
     {
-      "raw_hot": 2844964,
-      "num": 2844964,
+      "raw_hot": 2974665,
+      "num": 2974665,
       "word": "国乒男团3比1法国男团",
       "onboard_time": 1778366536,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 823759,
+      "num": 823759,
+      "word": "母亲节",
+      "onboard_time": 1778344219,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804138,
       "num": 310171,
       "word": "森林北否认与汪峰分手",
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 640356,
-      "num": 715880,
-      "word": "母亲节",
-      "onboard_time": 1778344219,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 688733,
+      "num": 114911,
+      "word": "世界杯中国转播费从3亿腰斩到1.5亿",
+      "onboard_time": 1778368157,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 631761,
@@ -171,8 +179,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411203,
-      "num": 411203,
+      "raw_hot": 420167,
+      "num": 420167,
       "word": "林诗栋0比3F勒布伦",
       "onboard_time": 1778366536,
       "rank": 5,
@@ -227,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 320877,
+      "num": 320877,
+      "word": "国乒男团决赛对阵日本",
+      "onboard_time": 1778366536,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309294,
       "num": 309294,
       "word": "首尔偶遇田曦薇",
@@ -273,6 +289,14 @@
       "onboard_time": 1778337863,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259904,
+      "num": 112229,
+      "word": "王暖暖自曝不达成涨粉KPI下播就挨骂",
+      "onboard_time": 1778368157,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251284,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158369,
+      "num": 310405,
+      "word": "交管队长回应被举报与女性举止亲密",
+      "onboard_time": 1778342000,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 156713,
       "num": 156713,
       "word": "周深阿信在鸟巢修提词器",
@@ -419,28 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140834,
-      "num": 140834,
-      "word": "国乒男团决赛对阵日本",
-      "onboard_time": 1778366536,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137730,
       "num": 137730,
       "word": "中国男团1比0法国",
       "onboard_time": 1778360415,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135351,
-      "num": 310405,
-      "word": "交管队长回应被举报与女性举止亲密",
-      "onboard_time": 1778342000,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 135307,
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91837,
+      "num": 73106,
+      "word": "蔡文静经纪人打电话让蔡文静下播",
+      "onboard_time": 1778368217,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87335,
       "num": 312119,
       "word": "夸克TV崩了",
@@ -513,6 +537,14 @@
       "onboard_time": 1778346019,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69350,
+      "num": 69350,
+      "word": "文章在酒吧门口亲自招呼客人",
+      "onboard_time": 1778329762,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 68270,
@@ -627,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 43131,
+      "num": 43131,
+      "word": "月鳞绮纪",
+      "onboard_time": 1778368277,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37787,
       "num": 223158,
       "word": "俄罗斯红场阅兵全场高呼乌拉",
@@ -673,6 +713,14 @@
       "onboard_time": 1778342000,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1660,
+      "num": 41902,
+      "word": "奥迪E7X把家装进车里了",
+      "onboard_time": 1778310980,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
