@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778340703509,
+  "endTime": 1778342585344,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -809,6 +809,14 @@
       "onboard_time": 1777560921,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1603437,
+      "num": 401473,
+      "word": "陈赫 谁能欺负李晨",
+      "onboard_time": 1778340500,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1591252,
@@ -1956,7 +1964,7 @@
     },
     {
       "raw_hot": 893946,
-      "num": 476254,
+      "num": 648483,
       "word": "29岁未婚育女子宫颈癌离世",
       "onboard_time": 1778335341,
       "rank": 10,
@@ -3083,6 +3091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 669642,
+      "num": 905303,
+      "word": "一根烟头烧掉212万",
+      "onboard_time": 1778340982,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668333,
       "num": 668333,
       "word": "初代跑男",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1777556721,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 631761,
+      "num": 395687,
+      "word": "金高银造型师的ins我笑不行了",
+      "onboard_time": 1778338822,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 630763,
@@ -3952,14 +3976,6 @@
       "word": "迪丽热巴在还63张自拍的债了",
       "onboard_time": 1777647142,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 556350,
-      "num": 368199,
-      "word": "金高银造型师的ins我笑不行了",
-      "onboard_time": 1778338822,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -5587,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401500,
+      "num": 401500,
+      "word": "郑钦文vs奥斯塔彭科",
+      "onboard_time": 1778334322,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401158,
       "num": 250857,
       "word": "曝时代少年团新企划",
@@ -6361,14 +6385,6 @@
       "onboard_time": 1777852517,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 355447,
-      "num": 355447,
-      "word": "郑钦文vs奥斯塔彭科",
-      "onboard_time": 1778334322,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 355380,
@@ -7571,6 +7587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295869,
+      "num": 278371,
+      "word": "陈翔六点半吴妈因病去世",
+      "onboard_time": 1778338462,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295827,
       "num": 295827,
       "word": "花少 炒作",
@@ -7915,14 +7939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284132,
-      "num": 284132,
-      "word": "陈赫 谁能欺负李晨",
-      "onboard_time": 1778340500,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283909,
       "num": 315900,
       "word": "男子单手抱婴儿致重摔头着地",
@@ -8065,14 +8081,6 @@
       "onboard_time": 1777863980,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278371,
-      "num": 278371,
-      "word": "陈翔六点半吴妈因病去世",
-      "onboard_time": 1778338462,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 277994,
@@ -9891,6 +9899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220233,
+      "num": 220233,
+      "word": "蔡文静直播哭着唱歌",
+      "onboard_time": 1778342059,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220099,
       "num": 220099,
       "word": "人为了自由到底能拼到什么程度",
@@ -9961,6 +9977,14 @@
       "onboard_time": 1778051061,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218594,
+      "num": 218594,
+      "word": "周迅减肥1顿饭吃1小时",
+      "onboard_time": 1778341401,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 218522,
@@ -10049,6 +10073,14 @@
       "onboard_time": 1777558461,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 216776,
+      "num": 216776,
+      "word": "浪7三公是浪姐史上浓墨重彩的一笔",
+      "onboard_time": 1778340860,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 216318,
@@ -11003,6 +11035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193559,
+      "num": 218584,
+      "word": "吴宜泽4比5希金斯",
+      "onboard_time": 1778341281,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193527,
       "num": 411095,
       "word": "刘雯白色挂脖礼服",
@@ -11467,6 +11507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181809,
+      "num": 181809,
+      "word": "陈奕恒回复王橹杰",
+      "onboard_time": 1778341520,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181795,
+      "num": 181794,
+      "word": "煎饼夏天 enemy",
+      "onboard_time": 1778338941,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181657,
       "num": 181657,
       "word": "泰国濑尿虾一夜可能就死了",
@@ -11737,14 +11793,6 @@
       "onboard_time": 1778021776,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176039,
-      "num": 176039,
-      "word": "煎饼夏天 enemy",
-      "onboard_time": 1778338941,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 175959,
@@ -16843,6 +16891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51959,
+      "num": 122137,
+      "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
+      "onboard_time": 1778340860,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51871,
       "num": 804337,
       "word": "五一假期绿色出行热度攀升",
@@ -17169,6 +17225,14 @@
       "onboard_time": 1777726341,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43617,
+      "num": 310405,
+      "word": "交管队长回应被举报与女性举止亲密",
+      "onboard_time": 1778342000,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43399,
@@ -18569,6 +18633,14 @@
       "onboard_time": 1778322080,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11185,
+      "num": 181795,
+      "word": "优思益共同诉讼首批材料月底提交",
+      "onboard_time": 1778342000,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11038,
