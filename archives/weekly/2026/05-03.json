@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778298773331,
+  "endTime": 1778301935897,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -249,6 +249,14 @@
       "onboard_time": 1777859780,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2726723,
+      "num": 2726723,
+      "word": "奔跑吧回应收视率低",
+      "onboard_time": 1778297780,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2687199,
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1669484,
+      "num": 1407101,
+      "word": "皮皮虾事件游客已删除所有爆料内容",
+      "onboard_time": 1778296220,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1657360,
       "num": 158510,
       "word": "严军不敢发和严浩翔的聊天记录",
@@ -609,6 +625,14 @@
       "onboard_time": 1777817785,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1550886,
+      "num": 1550886,
+      "word": "王暖暖自曝长期遭MCN公司压榨",
+      "onboard_time": 1778298500,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1549994,
@@ -683,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1407101,
-      "num": 1407101,
-      "word": "皮皮虾事件游客已删除所有爆料内容",
-      "onboard_time": 1778296220,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 1420709,
+      "num": 1420709,
+      "word": "密室大逃脱 张真源",
+      "onboard_time": 1778299760,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1401194,
@@ -1291,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947792,
+      "num": 814651,
+      "word": "跑男疯狂证明自己",
+      "onboard_time": 1778297541,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 947064,
       "num": 563467,
       "word": "王俊凯 中餐厅10",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1777994901,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 908924,
+      "num": 521232,
+      "word": "刘涛骂哭新人女演员",
+      "onboard_time": 1778297300,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 907018,
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 865561,
-      "num": 374635,
+      "num": 383096,
       "word": "中国绝不接受当世界杯提款机",
       "onboard_time": 1778286382,
       "rank": 13,
@@ -1635,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 823220,
+      "num": 385300,
+      "word": "白鹿主动让C",
+      "onboard_time": 1778300240,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 821036,
       "num": 384626,
       "word": "林志玲和老公因语言不通感情升温",
@@ -1649,14 +1697,6 @@
       "onboard_time": 1778241141,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 814651,
-      "num": 814651,
-      "word": "跑男疯狂证明自己",
-      "onboard_time": 1778297541,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 805414,
@@ -1979,6 +2019,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 711922,
+      "num": 386384,
+      "word": "iPhone18Pro七大升级",
+      "onboard_time": 1778300000,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 711746,
       "num": 711746,
       "word": "FIFA回应中国区天价世界杯版权",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1777795880,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 704493,
-      "num": 704493,
-      "word": "奔跑吧回应收视率低",
-      "onboard_time": 1778297780,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 697593,
@@ -2305,14 +2345,6 @@
       "onboard_time": 1778157622,
       "rank": 8,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 642285,
-      "num": 521232,
-      "word": "刘涛骂哭新人女演员",
-      "onboard_time": 1778297300,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 641673,
@@ -2889,6 +2921,14 @@
       "onboard_time": 1778132240,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535440,
+      "num": 535440,
+      "word": "DeepSeek正式跨入图文交互时代",
+      "onboard_time": 1778298620,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 535393,
@@ -3820,7 +3860,7 @@
     },
     {
       "raw_hot": 422494,
-      "num": 333800,
+      "num": 372240,
       "word": "偏偏宠爱 宋威龙包上恩",
       "onboard_time": 1778295980,
       "rank": 23,
@@ -4083,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398396,
+      "num": 377498,
+      "word": "陌生男子趁女生熟睡潜入卧室留体液",
+      "onboard_time": 1778297960,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398320,
       "num": 351819,
       "word": "赛力斯跌超6%",
@@ -4204,7 +4252,7 @@
     },
     {
       "raw_hot": 387184,
-      "num": 331208,
+      "num": 347051,
       "word": "田曦薇 刘海",
       "onboard_time": 1778288001,
       "rank": 21,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1778244202,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 376892,
+      "num": 376892,
+      "word": "天赐道歉",
+      "onboard_time": 1778299041,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 376202,
@@ -4635,12 +4691,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 353189,
+      "num": 353189,
+      "word": "阿信感谢王俊凯",
+      "onboard_time": 1778300661,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353104,
       "num": 349084,
       "word": "a2婴儿奶粉检出呕吐毒素在美召回",
       "onboard_time": 1777896862,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353014,
+      "num": 353014,
+      "word": "李金铭答应没事多出来互动",
+      "onboard_time": 1778299041,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 352266,
@@ -4868,7 +4940,7 @@
     },
     {
       "raw_hot": 331369,
-      "num": 331369,
+      "num": 381825,
       "word": "南京富豪遇害凶宅68.2万拍出",
       "onboard_time": 1778287100,
       "rank": 24,
@@ -5009,14 +5081,6 @@
       "onboard_time": 1777893982,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323348,
-      "num": 323348,
-      "word": "陌生男子趁女生熟睡潜入卧室留体液",
-      "onboard_time": 1778297960,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323067,
@@ -5779,6 +5843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 280908,
+      "num": 280908,
+      "word": "浪姐三公已经彩排三次了",
+      "onboard_time": 1778300061,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280232,
       "num": 297698,
       "word": "西卡退休",
@@ -6009,6 +6081,14 @@
       "onboard_time": 1777732882,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266577,
+      "num": 365980,
+      "word": "王暖暖差点没抢救回来",
+      "onboard_time": 1778297600,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265459,
@@ -6475,14 +6555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244946,
-      "num": 365980,
-      "word": "王暖暖差点没抢救回来",
-      "onboard_time": 1778297600,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244763,
       "num": 244763,
       "word": "金俊勉发了吴世勋十年前的照片",
@@ -6579,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240087,
+      "num": 240087,
+      "word": "香港警方解密湾仔双尸案",
+      "onboard_time": 1778293221,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239889,
       "num": 466637,
       "word": "韩国民众对中国好感度达6年最高",
@@ -6649,6 +6729,14 @@
       "onboard_time": 1777796659,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237877,
+      "num": 237877,
+      "word": "多国网友力挺中国拒世界杯天价转播权",
+      "onboard_time": 1778300601,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 237839,
@@ -7011,12 +7099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225215,
+      "num": 225215,
+      "word": "商场的镜子会骗人",
+      "onboard_time": 1778298919,
+      "rank": 37,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 225118,
       "num": 382116,
       "word": "关晓彤 红包",
       "onboard_time": 1777865840,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224528,
+      "num": 224528,
+      "word": "马刺vs森林狼",
+      "onboard_time": 1778299581,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 224075,
@@ -7137,14 +7241,6 @@
       "onboard_time": 1778219060,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218835,
-      "num": 218835,
-      "word": "香港警方解密湾仔双尸案",
-      "onboard_time": 1778293221,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218691,
@@ -7427,14 +7523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210841,
-      "num": 210841,
-      "word": "王暖暖自曝长期遭MCN公司压榨",
-      "onboard_time": 1778298500,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 210051,
       "num": 241259,
       "word": "小米汽车高层调整",
@@ -7547,6 +7635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207405,
+      "num": 207405,
+      "word": "尘白禁区退钱",
+      "onboard_time": 1778300720,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207167,
       "num": 379938,
       "word": "肖战五一vlog",
@@ -7601,6 +7697,14 @@
       "onboard_time": 1778136561,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205258,
+      "num": 205258,
+      "word": "时代姐妹花4个人有3个群",
+      "onboard_time": 1778301322,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 205207,
@@ -7825,6 +7929,14 @@
       "onboard_time": 1777978821,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198709,
+      "num": 198709,
+      "word": "13岁女孩沉迷二次元花光家里18万",
+      "onboard_time": 1778298199,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198705,
@@ -8251,6 +8363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182212,
+      "num": 182212,
+      "word": "南京这下真要变徽京了",
+      "onboard_time": 1778301622,
+      "rank": 44,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 181657,
       "num": 181657,
       "word": "泰国濑尿虾一夜可能就死了",
@@ -8329,6 +8449,14 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179117,
+      "num": 285670,
+      "word": "五哈",
+      "onboard_time": 1778301742,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 179065,
@@ -8939,6 +9067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161196,
+      "num": 161196,
+      "word": "王暖暖控诉无忧传媒",
+      "onboard_time": 1778301801,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 161183,
       "num": 163390,
       "word": "恶意开除失明女子公司被判赔20万",
@@ -9355,14 +9491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151659,
-      "num": 151659,
-      "word": "13岁女孩沉迷二次元花光家里18万",
-      "onboard_time": 1778298199,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151541,
       "num": 151541,
       "word": "FIFA涨价理由",
@@ -9385,6 +9513,14 @@
       "onboard_time": 1778129121,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "文章开酒吧了",
+      "onboard_time": 1778301862,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 150111,
@@ -9449,6 +9585,14 @@
       "onboard_time": 1777993944,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148379,
+      "num": 148379,
+      "word": "男子杀15岁少女弃尸和妻子外出吃饭",
+      "onboard_time": 1778299943,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148344,
@@ -10492,7 +10636,7 @@
     },
     {
       "raw_hot": 119426,
-      "num": 119426,
+      "num": 325446,
       "word": "英伟达新技术翻车",
       "onboard_time": 1778292739,
       "rank": 48,
@@ -10809,6 +10953,14 @@
       "onboard_time": 1777956262,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105090,
+      "num": 324286,
+      "word": "尚界Z7挑战世界落差最高山路",
+      "onboard_time": 1778297659,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 105059,
@@ -11235,14 +11387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84631,
-      "num": 184576,
-      "word": "DeepSeek正式跨入图文交互时代",
-      "onboard_time": 1778298620,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 83933,
       "num": 247707,
       "word": "马嘉祺给丁程鑫撑伞",
@@ -11401,14 +11545,6 @@
       "onboard_time": 1778067622,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76305,
-      "num": 324286,
-      "word": "尚界Z7挑战世界落差最高山路",
-      "onboard_time": 1778297659,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 76195,
@@ -12883,6 +13019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19774,
+      "num": 379842,
+      "word": "全国首家烧烤学院报名超4千录取30",
+      "onboard_time": 1778301081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18763,
       "num": 253475,
       "word": "伊朗称将确保船只安全通过霍尔木兹",
@@ -13073,6 +13217,14 @@
       "onboard_time": 1777767738,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 9740,
+      "num": 281164,
+      "word": "切尔诺贝利核禁区火烧了1100公顷",
+      "onboard_time": 1778301742,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9715,
