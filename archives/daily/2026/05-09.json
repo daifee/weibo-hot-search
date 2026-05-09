@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778335213701,
+  "endTime": 1778338838244,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2495124,
+      "num": 2495124,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2440316,
       "num": 2440316,
       "word": "国际足联急了",
       "onboard_time": 1778322141,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2413445,
-      "num": 2413445,
-      "word": "跑男收视率 浪姐没播",
-      "onboard_time": 1778326938,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 2281477,
@@ -91,20 +91,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2022232,
+      "num": 1190356,
+      "word": "关晓彤终于遇到了有身高差的男主",
+      "onboard_time": 1778324600,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1974551,
       "num": 391698,
       "word": "曝汪峰森林北分手",
       "onboard_time": 1778331441,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1966238,
-      "num": 1190356,
-      "word": "关晓彤终于遇到了有身高差的男主",
-      "onboard_time": 1778324600,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1904070,
@@ -185,6 +185,14 @@
       "onboard_time": 1778299760,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1274567,
+      "num": 403875,
+      "word": "森林北否认与汪峰分手",
+      "onboard_time": 1778337023,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1127294,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 893946,
+      "num": 476254,
+      "word": "29岁未婚育女子宫颈癌离世",
+      "onboard_time": 1778335341,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 892025,
       "num": 892025,
       "word": "伦敦世乒赛半决赛",
@@ -371,6 +387,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 812840,
+      "num": 639312,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812442,
       "num": 385240,
       "word": "李嘉格收入稳定后才选择离婚",
@@ -385,6 +409,14 @@
       "onboard_time": 1778325799,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 780444,
+      "num": 780444,
+      "word": "广东男篮绝杀",
+      "onboard_time": 1778335222,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 779742,
@@ -416,14 +448,6 @@
       "word": "首尔偶遇田曦薇",
       "onboard_time": 1778331320,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 752301,
-      "num": 639312,
-      "word": "疑似加到了孙怡本人的QQ",
-      "onboard_time": 1778327541,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651420,
+      "num": 651420,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 650012,
       "num": 650012,
       "word": "跑男转发区",
@@ -513,6 +545,14 @@
       "onboard_time": 1778311340,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 638002,
+      "num": 396232,
+      "word": "森林北配文家里的草都绿了吗",
+      "onboard_time": 1778336182,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 624769,
@@ -603,12 +643,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 546669,
-      "num": 546669,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 546700,
+      "num": 546700,
+      "word": "何赛飞怒批姜贞羽",
+      "onboard_time": 1778338041,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 544799,
@@ -641,6 +681,14 @@
       "onboard_time": 1778322141,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516139,
+      "num": 464575,
+      "word": "21世纪大君夫人",
+      "onboard_time": 1778246901,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 514446,
@@ -697,6 +745,14 @@
       "onboard_time": 1778252243,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464383,
+      "num": 464383,
+      "word": "美国女子做特殊癖好服务致对方身亡",
+      "onboard_time": 1778328801,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 464195,
@@ -787,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 409749,
-      "num": 409749,
-      "word": "美国女子做特殊癖好服务致对方身亡",
-      "onboard_time": 1778328801,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 402272,
       "num": 291603,
       "word": "汉坦病毒",
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379907,
+      "num": 379907,
+      "word": "陈奕恒 下班",
+      "onboard_time": 1778337863,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376892,
       "num": 376892,
       "word": "天赐道歉",
@@ -873,14 +929,6 @@
       "onboard_time": 1778315121,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376043,
-      "num": 376043,
-      "word": "21世纪大君夫人",
-      "onboard_time": 1778246901,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 374521,
@@ -979,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334553,
+      "num": 334553,
+      "word": "周深五月天合唱",
+      "onboard_time": 1778335222,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 334063,
       "num": 274409,
       "word": "轻断食减肥正确方法",
@@ -1072,6 +1128,14 @@
       "word": "郑钦文vs奥斯塔彭科",
       "onboard_time": 1778334322,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286274,
+      "num": 286274,
+      "word": "孙颖莎甜妹攻击",
+      "onboard_time": 1778335761,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1185,6 +1249,14 @@
       "onboard_time": 1778283500,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254979,
+      "num": 254979,
+      "word": "陈翔六点半吴妈因病去世",
+      "onboard_time": 1778338462,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 252539,
@@ -1340,10 +1412,18 @@
     },
     {
       "raw_hot": 232952,
-      "num": 201522,
+      "num": 230009,
       "word": "张凌赫直播",
       "onboard_time": 1778333721,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232927,
+      "num": 232927,
+      "word": "田曦薇后援会发了左航安利",
+      "onboard_time": 1778335341,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1401,6 +1481,14 @@
       "onboard_time": 1778287280,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222380,
+      "num": 222380,
+      "word": "赵丽颖好超前的女本位思维",
+      "onboard_time": 1778335521,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 220099,
@@ -1507,6 +1595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198739,
+      "num": 394384,
+      "word": "夸克TV崩了",
+      "onboard_time": 1778332700,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198709,
       "num": 198709,
       "word": "13岁女孩沉迷二次元花光家里18万",
@@ -1545,6 +1641,14 @@
       "onboard_time": 1778303239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189830,
+      "num": 413777,
+      "word": "浏阳爆炸烟花厂黑火药库现状",
+      "onboard_time": 1778337502,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189563,
@@ -1779,14 +1883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159827,
-      "num": 394384,
-      "word": "夸克TV崩了",
-      "onboard_time": 1778332700,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158717,
       "num": 158717,
       "word": "专家称涉事虾为泰国濑尿虾",
@@ -1979,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130268,
+      "num": 198813,
+      "word": "孙杨感谢母亲的强大",
+      "onboard_time": 1778338282,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127998,
       "num": 114523,
       "word": "爆炸烟花厂有许多保平安符箓",
@@ -2043,8 +2147,16 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 109884,
+      "num": 156785,
+      "word": "CBA",
+      "onboard_time": 1778335582,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108796,
-      "num": 245592,
+      "num": 285565,
       "word": "俄罗斯红场阅兵全场高呼乌拉",
       "onboard_time": 1778317641,
       "rank": 47,
@@ -2153,6 +2265,14 @@
       "onboard_time": 1778334082,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 84258,
+      "num": 196347,
+      "word": "广东一公园惊现变异剧毒怪鱼",
+      "onboard_time": 1778337321,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75450,
@@ -2339,12 +2459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33688,
+      "num": 1235797,
+      "word": "太空快递跑出中国加速度",
+      "onboard_time": 1778333121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32882,
       "num": 210603,
       "word": "海鲜老板称应季泰虾700多一斤正常",
       "onboard_time": 1778298681,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31017,
+      "num": 140682,
+      "word": "SK海力士今年人均奖金或320万",
+      "onboard_time": 1778338703,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 30446,
@@ -2393,14 +2529,6 @@
       "onboard_time": 1778333361,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26149,
-      "num": 1235797,
-      "word": "太空快递跑出中国加速度",
-      "onboard_time": 1778333121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25875,
