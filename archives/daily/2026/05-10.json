@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778361038957,
+  "endTime": 1778363743818,
   "band_list": [
     {
       "raw_hot": 2302381,
@@ -17,6 +17,14 @@
       "onboard_time": 1778326938,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1472287,
+      "num": 1472287,
+      "word": "中国男团1比1法国",
+      "onboard_time": 1778360415,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1417996,
@@ -51,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 829441,
+      "num": 829441,
+      "word": "伦敦世乒赛半决赛",
+      "onboard_time": 1778327360,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 804138,
       "num": 310171,
       "word": "森林北否认与汪峰分手",
@@ -73,14 +89,6 @@
       "onboard_time": 1778340982,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 720964,
-      "num": 720964,
-      "word": "伦敦世乒赛半决赛",
-      "onboard_time": 1778327360,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 631761,
@@ -227,20 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274334,
+      "num": 274334,
+      "word": "王楚钦15比13科顿",
+      "onboard_time": 1778360354,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265307,
       "num": 223405,
       "word": "陈奕恒 下班",
       "onboard_time": 1778337863,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261488,
-      "num": 178954,
-      "word": "王楚钦15比13科顿",
-      "onboard_time": 1778360354,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 251284,
@@ -371,11 +379,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144665,
+      "num": 40985,
+      "word": "马龙为男团半决赛开场",
+      "onboard_time": 1778360354,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142695,
       "num": 196340,
       "word": "国乒女团晋级决赛",
       "onboard_time": 1778332161,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137730,
+      "num": 137730,
+      "word": "中国男团1比0法国",
+      "onboard_time": 1778360415,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -419,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115661,
-      "num": 33582,
-      "word": "中国男团1比1法国",
-      "onboard_time": 1778360415,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97023,
       "num": 126231,
       "word": "周琦失误",
@@ -467,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69807,
-      "num": 69807,
-      "word": "中国男团1比0法国",
-      "onboard_time": 1778360415,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68270,
       "num": 52237,
       "word": "国际乒联惊叹王楚钦的球感",
@@ -496,14 +504,6 @@
       "word": "苏超",
       "onboard_time": 1778332161,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65488,
-      "num": 33574,
-      "word": "马龙为男团半决赛开场",
-      "onboard_time": 1778360354,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 19399,
-      "num": 33534,
+      "num": 40395,
       "word": "国乐无双",
       "onboard_time": 1778324301,
       "rank": 35,
