@@ -1,7 +1,15 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778342585344,
+  "endTime": 1778344231897,
   "band_list": [
+    {
+      "raw_hot": 2302381,
+      "num": 401473,
+      "word": "陈赫 谁能欺负李晨",
+      "onboard_time": 1778340500,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1620289,
       "num": 1620289,
@@ -9,14 +17,6 @@
       "onboard_time": 1778326938,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1603437,
-      "num": 401473,
-      "word": "陈赫 谁能欺负李晨",
-      "onboard_time": 1778340500,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1417996,
@@ -27,12 +27,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1131197,
+      "raw_hot": 1395901,
       "num": 665025,
       "word": "何赛飞怒批姜贞羽",
       "onboard_time": 1778338041,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1215791,
+      "num": 279565,
+      "word": "蔡文静直播哭着唱歌",
+      "onboard_time": 1778342059,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 970321,
@@ -59,7 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 669642,
+      "raw_hot": 732665,
       "num": 905303,
       "word": "一根烟头烧掉212万",
       "onboard_time": 1778340982,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335176,
+      "num": 262787,
+      "word": "陈翔六点半吴妈因病去世",
+      "onboard_time": 1778338462,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334658,
       "num": 334658,
       "word": "美国女子做特殊癖好服务致对方身亡",
@@ -171,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295869,
-      "num": 228357,
-      "word": "陈翔六点半吴妈因病去世",
-      "onboard_time": 1778338462,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 289641,
+      "num": 289641,
+      "word": "浪7三公是浪姐史上浓墨重彩的一笔",
+      "onboard_time": 1778340860,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 280820,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232285,
+      "num": 232285,
+      "word": "孙颖莎逗笑邱贻可马琳",
+      "onboard_time": 1778340441,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231921,
       "num": 231921,
       "word": "周深五月天合唱",
@@ -211,12 +235,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 220233,
-      "num": 220233,
-      "word": "蔡文静直播哭着唱歌",
-      "onboard_time": 1778342059,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 229475,
+      "num": 229475,
+      "word": "这一秒过火",
+      "onboard_time": 1778343020,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 218594,
@@ -235,14 +259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216776,
-      "num": 216776,
-      "word": "浪7三公是浪姐史上浓墨重彩的一笔",
-      "onboard_time": 1778340860,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215717,
       "num": 283897,
       "word": "安倍晋三遗孀陪赖清德跪日本人",
@@ -251,12 +267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 211015,
-      "num": 222189,
-      "word": "孙颖莎逗笑邱贻可马琳",
-      "onboard_time": 1778340441,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 196130,
+      "num": 181809,
+      "word": "陈奕恒回复王橹杰",
+      "onboard_time": 1778341520,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193559,
@@ -267,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181809,
-      "num": 181809,
-      "word": "陈奕恒回复王橹杰",
-      "onboard_time": 1778341520,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 186783,
+      "num": 186783,
+      "word": "尼坤演唱会状态",
+      "onboard_time": 1778343200,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 181795,
@@ -289,6 +305,14 @@
       "onboard_time": 1778335341,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174336,
+      "num": 192805,
+      "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
+      "onboard_time": 1778343260,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172601,
@@ -313,6 +337,14 @@
       "onboard_time": 1778332161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135351,
+      "num": 310405,
+      "word": "交管队长回应被举报与女性举止亲密",
+      "onboard_time": 1778342000,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 135307,
@@ -355,6 +387,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75585,
+      "num": 165721,
+      "word": "央视网更正锁电相关报道",
+      "onboard_time": 1778342721,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60313,
+      "num": 122137,
+      "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
+      "onboard_time": 1778340860,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58045,
       "num": 230872,
       "word": "SK海力士今年人均奖金或320万",
@@ -363,28 +411,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 51959,
-      "num": 122137,
-      "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
-      "onboard_time": 1778340860,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 43617,
-      "num": 310405,
-      "word": "交管队长回应被举报与女性举止亲密",
-      "onboard_time": 1778342000,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 37787,
-      "num": 122121,
+      "num": 223158,
       "word": "俄罗斯红场阅兵全场高呼乌拉",
       "onboard_time": 1778317641,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26082,
+      "num": 266375,
+      "word": "菲方滋扰中国科考船画面公开",
+      "onboard_time": 1778343200,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 20302,
@@ -393,6 +433,14 @@
       "onboard_time": 1778333121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16932,
+      "num": 176570,
+      "word": "减肥咖啡查出违禁成分案重审二审",
+      "onboard_time": 1778343200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11185,

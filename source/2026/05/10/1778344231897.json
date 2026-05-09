@@ -1,0 +1,410 @@
+{
+  "runTime": 1778344231897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258788,
+        "num": 1258788,
+        "word": "跑男收视率 浪姐没播",
+        "onboard_time": 1778326938,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732665,
+        "num": 732665,
+        "word": "一根烟头烧掉212万",
+        "onboard_time": 1778340982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 583168,
+        "word": "太空快递跑出中国加速度",
+        "onboard_time": 1778333121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1395901,
+        "num": 582817,
+        "word": "何赛飞怒批姜贞羽",
+        "onboard_time": 1778338041,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760338,
+        "num": 582591,
+        "word": "怪不得虫子总围着头顶飞",
+        "onboard_time": 1778330601,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 650257,
+        "num": 576759,
+        "word": "29岁未婚育女子宫颈癌离世",
+        "onboard_time": 1778335341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554234,
+        "num": 554234,
+        "word": "国际足联急了",
+        "onboard_time": 1778322141,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394316,
+        "num": 394316,
+        "word": "越来越理解什么叫事缓则圆",
+        "onboard_time": 1778324121,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299622,
+        "num": 299622,
+        "word": "广东男篮绝杀",
+        "onboard_time": 1778335222,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289641,
+        "num": 289641,
+        "word": "浪7三公是浪姐史上浓墨重彩的一笔",
+        "onboard_time": 1778340860,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2302381,
+        "num": 286809,
+        "word": "陈赫 谁能欺负李晨",
+        "onboard_time": 1778340500,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457287,
+        "num": 282697,
+        "word": "香港富豪孙女被绑架案细节披露",
+        "onboard_time": 1778331920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1215791,
+        "num": 279565,
+        "word": "蔡文静直播哭着唱歌",
+        "onboard_time": 1778342059,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1144577,
+        "num": 277422,
+        "word": "关晓彤终于遇到了有身高差的男主",
+        "onboard_time": 1778324600,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273452,
+        "num": 273452,
+        "word": "郑钦文vs奥斯塔彭科",
+        "onboard_time": 1778334322,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477762,
+        "num": 272806,
+        "word": "金高银造型师的ins我笑不行了",
+        "onboard_time": 1778338822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431974,
+        "num": 271191,
+        "word": "疑似加到了孙怡本人的QQ",
+        "onboard_time": 1778327541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247264,
+        "num": 269645,
+        "word": "美国女子做特殊癖好服务致对方身亡",
+        "onboard_time": 1778328801,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87255,
+        "num": 268569,
+        "word": "夸克TV崩了",
+        "onboard_time": 1778332700,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26082,
+        "num": 266375,
+        "word": "菲方滋扰中国科考船画面公开",
+        "onboard_time": 1778343200,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 655082,
+        "num": 265164,
+        "word": "森林北否认与汪峰分手",
+        "onboard_time": 1778337023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335176,
+        "num": 262787,
+        "word": "陈翔六点半吴妈因病去世",
+        "onboard_time": 1778338462,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262424,
+        "num": 262424,
+        "word": "显微镜下的辣条",
+        "onboard_time": 1778326820,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 260951,
+        "num": 260951,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778335281,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247741,
+        "num": 247741,
+        "word": "首尔偶遇田曦薇",
+        "onboard_time": 1778331320,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232285,
+        "num": 232285,
+        "word": "孙颖莎逗笑邱贻可马琳",
+        "onboard_time": 1778340441,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235753,
+        "num": 232127,
+        "word": "尼坤发福",
+        "onboard_time": 1778325382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229475,
+        "num": 229475,
+        "word": "这一秒过火",
+        "onboard_time": 1778343020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191545,
+        "num": 223766,
+        "word": "安倍晋三遗孀陪赖清德跪日本人",
+        "onboard_time": 1778331021,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36077,
+        "num": 223158,
+        "word": "俄罗斯红场阅兵全场高呼乌拉",
+        "onboard_time": 1778317641,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222970,
+        "num": 222970,
+        "word": "森林北配文家里的草都绿了吗",
+        "onboard_time": 1778336182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210018,
+        "num": 210018,
+        "word": "周深五月天合唱",
+        "onboard_time": 1778335222,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188221,
+        "num": 206450,
+        "word": "女儿的100个橡皮",
+        "onboard_time": 1778320640,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204405,
+        "num": 204405,
+        "word": "浪姐48来了",
+        "onboard_time": 1778328320,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203318,
+        "num": 203318,
+        "word": "陈奕恒 下班",
+        "onboard_time": 1778337863,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174336,
+        "num": 192805,
+        "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
+        "onboard_time": 1778343260,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190908,
+        "num": 190908,
+        "word": "给阿嬷的情书票房破亿",
+        "onboard_time": 1778325799,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186783,
+        "num": 186783,
+        "word": "尼坤演唱会状态",
+        "onboard_time": 1778343200,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146044,
+        "num": 178004,
+        "word": "吴宜泽4比5希金斯",
+        "onboard_time": 1778341281,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16932,
+        "num": 176570,
+        "word": "减肥咖啡查出违禁成分案重审二审",
+        "onboard_time": 1778343200,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196130,
+        "num": 176535,
+        "word": "陈奕恒回复王橹杰",
+        "onboard_time": 1778341520,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175799,
+        "num": 175799,
+        "word": "田曦薇后援会发了左航安利",
+        "onboard_time": 1778335341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 168213,
+        "word": "交管队长回应被举报与女性举止亲密",
+        "onboard_time": 1778342000,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 75585,
+        "num": 165721,
+        "word": "央视网更正锁电相关报道",
+        "onboard_time": 1778342721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 164808,
+        "word": "周迅减肥1顿饭吃1小时",
+        "onboard_time": 1778341401,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162113,
+        "num": 162113,
+        "word": "煎饼夏天 enemy",
+        "onboard_time": 1778338941,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124946,
+        "num": 124946,
+        "word": "国乒女团晋级决赛",
+        "onboard_time": 1778332161,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138835,
+        "num": 122856,
+        "word": "赵丽颖好超前的女本位思维",
+        "onboard_time": 1778335521,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117931,
+        "num": 117931,
+        "word": "伦敦世乒赛半决赛",
+        "onboard_time": 1778327360,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60313,
+        "num": 112143,
+        "word": "浪姐歌手邪恶栀子花大战菠萝菠萝蜜",
+        "onboard_time": 1778340860,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有需要就能做出好事实事#"
+    }
+  }
+}
