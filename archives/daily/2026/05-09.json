@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778317213740,
+  "endTime": 1778321655396,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1459303,
+      "num": 391516,
+      "word": "无忧传媒已暂停王暖暖所有活动",
+      "onboard_time": 1778315841,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1420709,
       "num": 1420709,
       "word": "密室大逃脱 张真源",
@@ -163,20 +171,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1115479,
+      "num": 1115479,
+      "word": "给阿嬷的情书剧组穷成这样",
+      "onboard_time": 1778310500,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1037622,
       "num": 293647,
       "word": "李嘉诚次子1.7亿买下时间最差世界杯",
       "onboard_time": 1778287703,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1036736,
-      "num": 1036736,
-      "word": "给阿嬷的情书剧组穷成这样",
-      "onboard_time": 1778310500,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 965016,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650012,
+      "num": 650012,
+      "word": "跑男转发区",
+      "onboard_time": 1778316982,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641614,
       "num": 694001,
       "word": "美国公布大量从未曝光的UFO视频",
@@ -353,6 +369,22 @@
       "onboard_time": 1778309959,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614729,
+      "num": 614729,
+      "word": "6岁男童吃生菜后血肿感染寄生虫",
+      "onboard_time": 1778314400,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611981,
+      "num": 611981,
+      "word": "曝王一博将进组刺客",
+      "onboard_time": 1778320400,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 599156,
@@ -427,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 530133,
+      "num": 530133,
+      "word": "张继科谈国乒男团进四强",
+      "onboard_time": 1778319260,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514446,
       "num": 514446,
       "word": "国乒男团半决赛对阵法国",
@@ -475,12 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 475733,
-      "num": 415894,
-      "word": "6岁男童吃生菜后血肿感染寄生虫",
-      "onboard_time": 1778314400,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 465752,
+      "num": 465752,
+      "word": "罗马尼亚女团踩坏比赛球台",
+      "onboard_time": 1778317220,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 464195,
@@ -579,6 +619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 384368,
+      "num": 237029,
+      "word": "王楚钦在训练场得知国乒拿下韩国",
+      "onboard_time": 1778317759,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380426,
       "num": 291155,
       "word": "网友喊话任嘉伦取回60多万的酒",
@@ -593,6 +641,14 @@
       "onboard_time": 1778299041,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 376344,
+      "num": 376344,
+      "word": "国际乒联为球台故障焦头烂额",
+      "onboard_time": 1778315121,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 376043,
@@ -664,6 +720,14 @@
       "word": "李金铭答应没事多出来互动",
       "onboard_time": 1778299041,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 351293,
+      "num": 216090,
+      "word": "张桂源给陈奕恒的祝福",
+      "onboard_time": 1778318901,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -779,6 +843,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276742,
+      "num": 215812,
+      "word": "女儿的100个橡皮",
+      "onboard_time": 1778320640,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 276550,
+      "num": 215306,
+      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+      "onboard_time": 1778318360,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276326,
       "num": 276326,
       "word": "中国地铁被谬认为日本还在发生",
@@ -801,6 +881,14 @@
       "onboard_time": 1778286861,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271414,
+      "num": 368773,
+      "word": "有洁癖的人洗小龙虾",
+      "onboard_time": 1778313201,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 263335,
@@ -923,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237787,
+      "num": 212671,
+      "word": "不小心把晚安发给了妈妈",
+      "onboard_time": 1778320280,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236347,
       "num": 219989,
       "word": "千里江山图妆造",
@@ -963,12 +1059,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 225503,
-      "num": 225503,
-      "word": "国际乒联为球台故障焦头烂额",
-      "onboard_time": 1778315121,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 225761,
+      "num": 212029,
+      "word": "榴莲仅退款事件有女生被误伤",
+      "onboard_time": 1778318300,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225215,
@@ -1075,11 +1171,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208359,
+      "num": 208359,
+      "word": "演员于娜回应减掉30斤",
+      "onboard_time": 1778316680,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205258,
       "num": 205258,
       "word": "时代姐妹花4个人有3个群",
       "onboard_time": 1778301322,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202042,
+      "num": 202042,
+      "word": "赵丽颖工作室告黑107条",
+      "onboard_time": 1778317161,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1123,12 +1235,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189920,
-      "num": 368773,
-      "word": "有洁癖的人洗小龙虾",
-      "onboard_time": 1778313201,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 184434,
+      "num": 184434,
+      "word": "陈奕恒翻唱Marry",
+      "onboard_time": 1778315121,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 184195,
@@ -1137,6 +1249,14 @@
       "onboard_time": 1778298441,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183672,
+      "num": 203200,
+      "word": "老人地铁撕扯女孩涉嫌违法",
+      "onboard_time": 1778316919,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 182939,
@@ -1177,14 +1297,6 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175748,
-      "num": 175748,
-      "word": "陈奕恒翻唱Marry",
-      "onboard_time": 1778315121,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 175378,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1778307800,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158717,
+      "num": 158717,
+      "word": "专家称涉事虾为泰国濑尿虾",
+      "onboard_time": 1778317281,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156942,
@@ -1491,30 +1611,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 118988,
-      "num": 118988,
-      "word": "演员于娜回应减掉30斤",
-      "onboard_time": 1778316680,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116569,
-      "num": 103154,
-      "word": "跑男转发区",
-      "onboard_time": 1778316982,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111279,
-      "num": 391516,
-      "word": "无忧传媒已暂停王暖暖所有活动",
-      "onboard_time": 1778315841,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110337,
       "num": 134911,
       "word": "存储大牛股紧急提示风险",
@@ -1539,12 +1635,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 99823,
-      "num": 99823,
-      "word": "老人地铁撕扯女孩涉嫌违法",
-      "onboard_time": 1778316919,
-      "rank": 47,
-      "category": "舆论监督"
+      "raw_hot": 98447,
+      "num": 157836,
+      "word": "AI短片 量产爱死机",
+      "onboard_time": 1778318300,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 98390,
@@ -1563,12 +1659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95623,
-      "num": 95623,
-      "word": "赵丽颖工作室告黑107条",
-      "onboard_time": 1778317161,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 96010,
+      "num": 156997,
+      "word": "AI模型 电子毒品",
+      "onboard_time": 1778319801,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 95223,
@@ -1707,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44809,
+      "num": 157319,
+      "word": "拼多多商家教你5招选出好珍珠",
+      "onboard_time": 1778317521,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 44769,
       "num": 90841,
       "word": "男生感染HPV身体会怎样",
@@ -1715,12 +1819,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41002,
+      "num": 213789,
+      "word": "前TSM辅助被斯坦福录取",
+      "onboard_time": 1778321360,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39867,
       "num": 90780,
       "word": "BLG战胜JDG",
       "onboard_time": 1778259617,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39626,
+      "num": 211543,
+      "word": "母亲节30分钟异地送礼成主流",
+      "onboard_time": 1778321120,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38779,
@@ -1827,12 +1947,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15931,
+      "num": 217444,
+      "word": "动物园回应两只袋鼠激烈打架",
+      "onboard_time": 1778320882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15600,
       "num": 308222,
       "word": "1999元做医美被套路消费4万元",
       "onboard_time": 1778310920,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13446,
+      "num": 193079,
+      "word": "伊朗之后下一个是古巴吗",
+      "onboard_time": 1778320882,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13252,
+      "num": 186709,
+      "word": "三亚皮皮虾事件今日将发布调查报告",
+      "onboard_time": 1778320882,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13049,
+      "num": 217801,
+      "word": "徐艺洋跑步用头发力",
+      "onboard_time": 1778320882,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 12120,
