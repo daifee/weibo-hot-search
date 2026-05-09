@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778368415791,
+  "endTime": 1778371088095,
   "band_list": [
     {
       "raw_hot": 2974665,
@@ -51,12 +51,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1277962,
+      "num": 219064,
+      "word": "世界杯中国转播费从3亿腰斩到1.5亿",
+      "onboard_time": 1778368157,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1255681,
+      "num": 1255681,
+      "word": "王楚钦打哭F勒布伦",
+      "onboard_time": 1778368937,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1215791,
       "num": 279565,
       "word": "蔡文静直播哭着唱歌",
       "onboard_time": 1778342059,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1025663,
+      "num": 1025663,
+      "word": "母亲节",
+      "onboard_time": 1778344219,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 970321,
@@ -73,14 +97,6 @@
       "onboard_time": 1778327360,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 823759,
-      "num": 823759,
-      "word": "母亲节",
-      "onboard_time": 1778344219,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 804138,
@@ -105,14 +121,6 @@
       "onboard_time": 1778340982,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 688733,
-      "num": 114911,
-      "word": "世界杯中国转播费从3亿腰斩到1.5亿",
-      "onboard_time": 1778368157,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 631761,
@@ -187,12 +195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415324,
+      "num": 212910,
+      "word": "蔡文静经纪人打电话让蔡文静下播",
+      "onboard_time": 1778368217,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410091,
       "num": 410091,
       "word": "浪7三公是浪姐史上浓墨重彩的一笔",
       "onboard_time": 1778340860,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406619,
+      "num": 211031,
+      "word": "乘客拒付高速费00后车主果断返程",
+      "onboard_time": 1778368817,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401500,
@@ -235,12 +259,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328129,
+      "num": 328129,
+      "word": "梁靖崑让二追三",
+      "onboard_time": 1778368516,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320877,
       "num": 320877,
       "word": "国乒男团决赛对阵日本",
       "onboard_time": 1778366536,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320633,
+      "num": 208050,
+      "word": "辛芷蕾骑车又摔了四肢全费",
+      "onboard_time": 1778370198,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 309294,
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278195,
+      "num": 194933,
+      "word": "王暖暖自曝不达成涨粉KPI下播就挨骂",
+      "onboard_time": 1778368157,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274334,
       "num": 274334,
       "word": "王楚钦15比13科顿",
@@ -291,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259904,
-      "num": 112229,
-      "word": "王暖暖自曝不达成涨粉KPI下播就挨骂",
-      "onboard_time": 1778368157,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 264129,
+      "num": 191081,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1778370139,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 251284,
@@ -329,6 +377,14 @@
       "onboard_time": 1778343020,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223389,
+      "num": 186954,
+      "word": "舅妈不敢置信第一时间掀帽确认",
+      "onboard_time": 1778368877,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222285,
@@ -371,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202762,
+      "num": 202762,
+      "word": "大量UFO画面公布",
+      "onboard_time": 1778369297,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196130,
       "num": 181809,
       "word": "陈奕恒回复王橹杰",
@@ -383,6 +447,38 @@
       "num": 218584,
       "word": "吴宜泽4比5希金斯",
       "onboard_time": 1778341281,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186534,
+      "num": 310405,
+      "word": "交管队长回应被举报与女性举止亲密",
+      "onboard_time": 1778342000,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 185360,
+      "num": 185360,
+      "word": "两张图片成榴莲卖家维权成功关键",
+      "onboard_time": 1778368817,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183464,
+      "num": 183464,
+      "word": "小伙刮20元刮刮乐中100万",
+      "onboard_time": 1778368997,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182259,
+      "num": 182259,
+      "word": "日本男团3比0中国台北",
+      "onboard_time": 1778368817,
       "rank": 34,
       "category": "体育"
     },
@@ -412,7 +508,7 @@
     },
     {
       "raw_hot": 173023,
-      "num": 84083,
+      "num": 157340,
       "word": "马龙为男团半决赛开场",
       "onboard_time": 1778360354,
       "rank": 33,
@@ -425,14 +521,6 @@
       "onboard_time": 1778335521,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158369,
-      "num": 310405,
-      "word": "交管队长回应被举报与女性举止亲密",
-      "onboard_time": 1778342000,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 156713,
@@ -467,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128775,
+      "num": 128775,
+      "word": "骑士1比2活塞",
+      "onboard_time": 1778368877,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128512,
       "num": 128512,
       "word": "孙颖莎甜妹攻击",
@@ -483,11 +579,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123462,
+      "num": 201755,
+      "word": "月鳞绮纪",
+      "onboard_time": 1778368277,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122286,
       "num": 125252,
       "word": "一家三口候车室吃东西垃圾扔满地",
       "onboard_time": 1778323103,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120153,
+      "num": 120153,
+      "word": "榴莲事件买家冒用姓名牵连无辜女孩",
+      "onboard_time": 1778369718,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -499,11 +611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91837,
-      "num": 73106,
-      "word": "蔡文静经纪人打电话让蔡文静下播",
-      "onboard_time": 1778368217,
-      "rank": 33,
+      "raw_hot": 92159,
+      "num": 92159,
+      "word": "童星阿尔法出演油腻大叔被嘲长歪",
+      "onboard_time": 1778369536,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91313,
+      "num": 92123,
+      "word": "周深感谢五月天",
+      "onboard_time": 1778369959,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -515,8 +635,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 75739,
-      "num": 165721,
+      "raw_hot": 83657,
+      "num": 199884,
       "word": "央视网更正锁电相关报道",
       "onboard_time": 1778342721,
       "rank": 43,
@@ -619,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56855,
+      "num": 92144,
+      "word": "美国制药巨头正研发汉坦病毒疫苗",
+      "onboard_time": 1778370378,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55632,
       "num": 122829,
       "word": "俄罗斯胜利日阅兵",
@@ -659,20 +787,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 43131,
-      "num": 43131,
-      "word": "月鳞绮纪",
-      "onboard_time": 1778368277,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37787,
       "num": 223158,
       "word": "俄罗斯红场阅兵全场高呼乌拉",
       "onboard_time": 1778317641,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32051,
+      "num": 222217,
+      "word": "全世界我妈妈的名字最好听",
+      "onboard_time": 1778370618,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29326,
+      "num": 182701,
+      "word": "央视曝车企一次锁电可省数十亿元",
+      "onboard_time": 1778370858,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 26082,
@@ -684,7 +820,7 @@
     },
     {
       "raw_hot": 20302,
-      "num": 718034,
+      "num": 1045417,
       "word": "太空快递跑出中国加速度",
       "onboard_time": 1778333121,
       "rank": 2,
@@ -720,6 +856,14 @@
       "word": "奥迪E7X把家装进车里了",
       "onboard_time": 1778310980,
       "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1198,
+      "num": 198502,
+      "word": "刷圈霸榜的奥迪E7X卖28.98万起",
+      "onboard_time": 1778250923,
+      "rank": 19,
       "category": "汽车"
     }
   ],
