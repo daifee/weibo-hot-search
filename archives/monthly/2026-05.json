@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778347836969,
+  "endTime": 1778350509326,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -14419,6 +14419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123853,
+      "num": 125496,
+      "word": "Cui71 韩国游戏",
+      "onboard_time": 1778346019,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123758,
       "num": 302494,
       "word": "闪迪股价近一年狂飙3542%",
@@ -16121,14 +16129,6 @@
       "onboard_time": 1778241800,
       "rank": 33,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 78241,
-      "num": 125496,
-      "word": "Cui71 韩国游戏",
-      "onboard_time": 1778346019,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 77867,
