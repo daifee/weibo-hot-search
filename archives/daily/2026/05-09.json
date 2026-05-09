@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778284976652,
+  "endTime": 1778289489648,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2112789,
-      "num": 2112789,
+      "raw_hot": 2256026,
+      "num": 2256026,
       "word": "跑男新一期收视率创新低",
       "onboard_time": 1778281997,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1904070,
+      "num": 1904070,
+      "word": "榴莲仅退款买家骂哭客服不敢还嘴",
+      "onboard_time": 1778283200,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1655770,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1484131,
+      "num": 291304,
+      "word": "刘涛妈祖诞辰守夜",
+      "onboard_time": 1778285662,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120376,
       "num": 1179260,
       "word": "国乒男团进四强",
@@ -51,12 +67,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1037622,
+      "num": 293647,
+      "word": "李嘉诚次子1.7亿买下时间最差世界杯",
+      "onboard_time": 1778287703,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 962156,
+      "num": 962156,
+      "word": "女子怀孕后发现公务员男友无业已婚",
+      "onboard_time": 1778282299,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 887267,
       "num": 978640,
       "word": "8家车企被约谈",
       "onboard_time": 1778282239,
       "rank": 12,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 865561,
+      "num": 289788,
+      "word": "中国绝不接受当世界杯提款机",
+      "onboard_time": 1778286382,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 859364,
@@ -75,12 +115,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 735195,
-      "num": 232898,
-      "word": "女子怀孕后发现公务员男友无业已婚",
-      "onboard_time": 1778282299,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 731688,
+      "num": 731688,
+      "word": "很喜欢登机前的十分钟",
+      "onboard_time": 1778287042,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 728380,
+      "num": 728380,
+      "word": "同价买奥迪还是买小米",
+      "onboard_time": 1778257038,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 641614,
@@ -121,6 +169,14 @@
       "onboard_time": 1778283439,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 514446,
+      "num": 514446,
+      "word": "国乒男团半决赛对阵法国",
+      "onboard_time": 1778282659,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 495534,
@@ -179,14 +235,6 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 399497,
-      "num": 219448,
-      "word": "榴莲仅退款买家骂哭客服不敢还嘴",
-      "onboard_time": 1778283200,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388195,
       "num": 291205,
       "word": "玄彬感谢孙艺珍和儿子",
@@ -211,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379924,
-      "num": 379924,
-      "word": "国乒男团半决赛对阵法国",
-      "onboard_time": 1778282659,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376043,
       "num": 376043,
       "word": "21世纪大君夫人",
@@ -228,11 +268,19 @@
     },
     {
       "raw_hot": 374521,
-      "num": 250561,
+      "num": 271173,
       "word": "金高银好可惜",
       "onboard_time": 1778259738,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 365015,
+      "num": 277923,
+      "word": "田曦薇 刘海",
+      "onboard_time": 1778288001,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 363718,
@@ -243,20 +291,60 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 362271,
+      "num": 288230,
+      "word": "皮皮虾事件隔壁海鲜店发声",
+      "onboard_time": 1778282058,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 355817,
+      "num": 281777,
+      "word": "文佳煐第一位95后韩国三大影后",
+      "onboard_time": 1778285662,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344240,
+      "num": 277285,
+      "word": "榴莲仅退款商家希望买家公开道歉",
+      "onboard_time": 1778283439,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 334063,
+      "num": 274409,
+      "word": "轻断食减肥正确方法",
+      "onboard_time": 1778286382,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 331139,
+      "num": 287167,
+      "word": "OPPO倾听批评 评论精选",
+      "onboard_time": 1778284640,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 330808,
+      "num": 272976,
+      "word": "南京富豪遇害凶宅68.2万拍出",
+      "onboard_time": 1778287100,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328664,
       "num": 328664,
       "word": "广东的湿度在此刻具象化",
       "onboard_time": 1778247322,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303856,
-      "num": 207489,
-      "word": "皮皮虾事件隔壁海鲜店发声",
-      "onboard_time": 1778282058,
-      "rank": 15,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 292311,
@@ -291,12 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283129,
-      "num": 283129,
+      "raw_hot": 284554,
+      "num": 284554,
       "word": "中情局报告泄了特朗普的底",
       "onboard_time": 1778282239,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272642,
+      "num": 190580,
+      "word": "梅西说与C罗无私人关系但相互尊重",
+      "onboard_time": 1778286861,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 259599,
@@ -307,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257212,
-      "num": 257212,
-      "word": "同价买奥迪还是买小米",
-      "onboard_time": 1778257038,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 255944,
       "num": 255944,
       "word": "法国男团vs巴西男团",
       "onboard_time": 1778255540,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255310,
+      "num": 255310,
+      "word": "后来的我们",
+      "onboard_time": 1778286802,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 255120,
@@ -336,6 +432,14 @@
       "word": "鞠婧祎张云龙晒合照",
       "onboard_time": 1778249182,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 252083,
+      "num": 189890,
+      "word": "田曦薇新剧登顶",
+      "onboard_time": 1778286321,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -371,12 +475,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 224075,
+      "num": 188248,
+      "word": "卵巢癌为什么很难早期发现",
+      "onboard_time": 1778283559,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224035,
       "num": 209357,
       "word": "靠追星年入百万后对顶流们祛魅了",
       "onboard_time": 1778248583,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222381,
+      "num": 164620,
+      "word": "谢娜晒了和张杰的情侣话筒",
+      "onboard_time": 1778287280,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 218253,
@@ -419,6 +539,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198141,
+      "num": 185922,
+      "word": "天价皮皮虾真相虽到但是太晚",
+      "onboard_time": 1778286140,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181657,
+      "num": 181657,
+      "word": "泰国濑尿虾一夜可能就死了",
+      "onboard_time": 1778282239,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179774,
+      "num": 179774,
+      "word": "DRG老板道歉",
+      "onboard_time": 1778285481,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175378,
       "num": 175378,
       "word": "2026年伦敦世乒赛",
@@ -435,20 +579,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167478,
+      "num": 164693,
+      "word": "浪姐音乐会 淘汰姐姐返场",
+      "onboard_time": 1778287762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165020,
+      "num": 165020,
+      "word": "14岁男孩网购竹叶青当宠物被咬",
+      "onboard_time": 1778282239,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164593,
       "num": 198301,
       "word": "OPPO回应母亲节文案争议",
       "onboard_time": 1778234840,
       "rank": 35,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 163091,
-      "num": 163091,
-      "word": "14岁男孩网购竹叶青当宠物被咬",
-      "onboard_time": 1778282239,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154185,
@@ -475,12 +627,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 142334,
-      "num": 142334,
-      "word": "泰国濑尿虾一夜可能就死了",
-      "onboard_time": 1778282239,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 143267,
+      "num": 164383,
+      "word": "安宰贤捏了下好朋友王楚钦的手",
+      "onboard_time": 1778285780,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 139831,
@@ -515,6 +667,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "乌克兰称不会攻击红场阅兵",
+      "onboard_time": 1778287881,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132954,
       "num": 132954,
       "word": "榴莲事件说明很多事不能算了",
@@ -537,14 +697,6 @@
       "onboard_time": 1778282299,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126815,
-      "num": 114342,
-      "word": "卵巢癌为什么很难早期发现",
-      "onboard_time": 1778283559,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121059,
@@ -579,16 +731,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114799,
-      "num": 114799,
-      "word": "OPPO倾听批评 评论精选",
-      "onboard_time": 1778284640,
-      "rank": 29,
-      "category": "数码"
+      "raw_hot": 110337,
+      "num": 134911,
+      "word": "存储大牛股紧急提示风险",
+      "onboard_time": 1778285662,
+      "rank": 48,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 102273,
-      "num": 134368,
+      "num": 193075,
       "word": "刷圈霸榜的奥迪E7X卖28.98万起",
       "onboard_time": 1778250923,
       "rank": 46,
@@ -651,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57574,
+      "num": 134845,
+      "word": "OPPO暴露对网络亚文化缺乏边界感",
+      "onboard_time": 1778287100,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44769,
       "num": 90841,
       "word": "男生感染HPV身体会怎样",
@@ -675,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34452,
+      "num": 282624,
+      "word": "雷霆众将围在一旁笑看湖人与裁判交谈",
+      "onboard_time": 1778284879,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34098,
       "num": 34098,
       "word": "美国首批UFO相关文件公布",
@@ -684,7 +852,7 @@
     },
     {
       "raw_hot": 25875,
-      "num": 841824,
+      "num": 1336031,
       "word": "五一消费潜力充分释放",
       "onboard_time": 1778243121,
       "rank": 2,
@@ -713,14 +881,6 @@
       "onboard_time": 1778255422,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5782,
-      "num": 113349,
-      "word": "雷霆众将围在一旁笑看湖人与裁判交谈",
-      "onboard_time": 1778284879,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 3155,
