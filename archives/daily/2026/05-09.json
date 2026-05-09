@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778322840419,
+  "endTime": 1778326186421,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -65,6 +65,14 @@
       "onboard_time": 1778281997,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2132851,
+      "num": 2132851,
+      "word": "国际足联急了",
+      "onboard_time": 1778322141,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 2067711,
@@ -179,6 +187,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1078576,
+      "num": 503184,
+      "word": "女儿的100个橡皮",
+      "onboard_time": 1778320640,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1047533,
+      "num": 336030,
+      "word": "关晓彤终于遇到了有身高差的男主",
+      "onboard_time": 1778324600,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1037622,
       "num": 293647,
       "word": "李嘉诚次子1.7亿买下时间最差世界杯",
@@ -281,6 +305,14 @@
       "onboard_time": 1778313259,
       "rank": 11,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 812442,
+      "num": 302099,
+      "word": "李嘉格收入稳定后才选择离婚",
+      "onboard_time": 1778324181,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 779742,
@@ -403,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 589605,
+      "num": 948233,
+      "word": "中国烧烤店是天价世界杯第一个受害者",
+      "onboard_time": 1778322020,
+      "rank": 23,
+      "category": "议题讨论,体育"
+    },
+    {
       "raw_hot": 587249,
       "num": 308710,
       "word": "易易紫说Angelababy喜欢权志龙是跟风",
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541266,
+      "num": 541266,
+      "word": "赖清德跪拜日本殖民者",
+      "onboard_time": 1778324540,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 535440,
       "num": 535440,
       "word": "DeepSeek正式跨入图文交互时代",
@@ -475,20 +523,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 519024,
+      "num": 335878,
+      "word": "张凌赫害怕大家看不懂",
+      "onboard_time": 1778322141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514446,
       "num": 514446,
       "word": "国乒男团半决赛对阵法国",
       "onboard_time": 1778282659,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 503184,
-      "num": 503184,
-      "word": "女儿的100个橡皮",
-      "onboard_time": 1778320640,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 495534,
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 384368,
-      "num": 332348,
+      "num": 335794,
       "word": "王楚钦在训练场得知国乒拿下韩国",
       "onboard_time": 1778317759,
       "rank": 15,
@@ -641,14 +689,6 @@
       "onboard_time": 1778252660,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378336,
-      "num": 342172,
-      "word": "国际足联急了",
-      "onboard_time": 1778322141,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 376892,
@@ -707,20 +747,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 363520,
+      "num": 368773,
+      "word": "有洁癖的人洗小龙虾",
+      "onboard_time": 1778313201,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362271,
       "num": 288230,
       "word": "皮皮虾事件隔壁海鲜店发声",
       "onboard_time": 1778282058,
       "rank": 15,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 361127,
-      "num": 333819,
-      "word": "张凌赫害怕大家看不懂",
-      "onboard_time": 1778322141,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 355817,
@@ -763,20 +803,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 335763,
+      "num": 335763,
+      "word": "尼坤发福",
+      "onboard_time": 1778325382,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334063,
       "num": 274409,
       "word": "轻断食减肥正确方法",
       "onboard_time": 1778286382,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 331889,
-      "num": 331889,
-      "word": "中国烧烤店是天价世界杯第一个受害者",
-      "onboard_time": 1778322020,
-      "rank": 23,
-      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 331369,
@@ -816,6 +856,22 @@
       "word": "王暖暖晕倒前一秒还在配合镜头互动",
       "onboard_time": 1778315240,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308264,
+      "num": 308264,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 301844,
+      "num": 301844,
+      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+      "onboard_time": 1778318360,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -867,28 +923,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 283068,
+      "num": 283068,
+      "word": "演员于娜回应减掉30斤",
+      "onboard_time": 1778316680,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280908,
       "num": 280908,
       "word": "浪姐三公已经彩排三次了",
       "onboard_time": 1778300061,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276875,
-      "num": 368773,
-      "word": "有洁癖的人洗小龙虾",
-      "onboard_time": 1778313201,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 276550,
-      "num": 215306,
-      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
-      "onboard_time": 1778318360,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276326,
@@ -1003,12 +1051,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250503,
+      "num": 250503,
+      "word": "宋亚轩 国乐无双",
+      "onboard_time": 1778323400,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248696,
+      "num": 335911,
+      "word": "麦当劳铲子",
+      "onboard_time": 1778324659,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 245644,
       "num": 194852,
       "word": "王楚钦7比11吴晙诚",
       "onboard_time": 1778261417,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243176,
+      "num": 243176,
+      "word": "长大后我开始富养妈妈",
+      "onboard_time": 1778320159,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 242961,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1778309061,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229829,
+      "num": 229829,
+      "word": "李嘉格坦白离婚后孩子和父母的反应",
+      "onboard_time": 1778324659,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 229393,
@@ -1193,14 +1273,6 @@
       "onboard_time": 1778236099,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208359,
-      "num": 208359,
-      "word": "演员于娜回应减掉30斤",
-      "onboard_time": 1778316680,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 205258,
@@ -1340,7 +1412,7 @@
     },
     {
       "raw_hot": 175280,
-      "num": 243296,
+      "num": 302331,
       "word": "西方抹黑中国换新词了",
       "onboard_time": 1778314460,
       "rank": 35,
@@ -1467,12 +1539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "一家三口候车室吃东西垃圾扔满地",
+      "onboard_time": 1778323103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153238,
       "num": 153238,
       "word": "给阿嬷的情书 赞助商赞助了100杯奶茶",
       "onboard_time": 1778321960,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150731,
+      "num": 150731,
+      "word": "在紫菜里找到了马嘉祺宋亚轩",
+      "onboard_time": 1778325201,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150687,
@@ -1507,20 +1595,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "张本美和3比1韩莹",
+      "onboard_time": 1778325799,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143267,
       "num": 164383,
       "word": "安宰贤捏了下好朋友王楚钦的手",
       "onboard_time": 1778285780,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140478,
-      "num": 154056,
-      "word": "长大后我开始富养妈妈",
-      "onboard_time": 1778320159,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 140268,
@@ -1667,6 +1755,22 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 109076,
+      "num": 108584,
+      "word": "给阿嬷的情书票房破亿",
+      "onboard_time": 1778325799,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108796,
+      "num": 245592,
+      "word": "俄罗斯红场阅兵全场高呼乌拉",
+      "onboard_time": 1778317641,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105090,
       "num": 324286,
       "word": "尚界Z7挑战世界落差最高山路",
@@ -1755,20 +1859,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82633,
-      "num": 149113,
-      "word": "俄罗斯红场阅兵全场高呼乌拉",
-      "onboard_time": 1778317641,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75450,
       "num": 243109,
       "word": "前TSM辅助被斯坦福录取",
       "onboard_time": 1778321360,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74675,
+      "num": 140357,
+      "word": "美目击者称UFO生物身高不足1.2米",
+      "onboard_time": 1778324959,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69702,
@@ -1953,6 +2057,14 @@
       "onboard_time": 1778314999,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29625,
+      "num": 140092,
+      "word": "TES对战WE",
+      "onboard_time": 1778324540,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 27593,

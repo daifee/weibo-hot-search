@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778322840419,
+  "endTime": 1778326186421,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -384,6 +384,14 @@
       "word": "香港拿下世界杯转播权",
       "onboard_time": 1778206281,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2132851,
+      "num": 2132851,
+      "word": "国际足联急了",
+      "onboard_time": 1778322141,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078576,
+      "num": 503184,
+      "word": "女儿的100个橡皮",
+      "onboard_time": 1778320640,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1075014,
       "num": 433506,
       "word": "谢娜演唱会卫生间配了卫生巾",
@@ -1184,6 +1200,14 @@
       "word": "我与爱同谋开机",
       "onboard_time": 1778036719,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1047533,
+      "num": 336030,
+      "word": "关晓彤终于遇到了有身高差的男主",
+      "onboard_time": 1778324600,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1769,6 +1793,14 @@
       "onboard_time": 1778241141,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 812442,
+      "num": 302099,
+      "word": "李嘉格收入稳定后才选择离婚",
+      "onboard_time": 1778324181,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 805414,
@@ -2763,6 +2795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589605,
+      "num": 948233,
+      "word": "中国烧烤店是天价世界杯第一个受害者",
+      "onboard_time": 1778322020,
+      "rank": 23,
+      "category": "议题讨论,体育"
+    },
+    {
       "raw_hot": 589504,
       "num": 589504,
       "word": "三星",
@@ -3043,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541266,
+      "num": 541266,
+      "word": "赖清德跪拜日本殖民者",
+      "onboard_time": 1778324540,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 540821,
       "num": 390893,
       "word": "向佑在南昌某酒吧被网友拍到",
@@ -3219,6 +3267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 519024,
+      "num": 335878,
+      "word": "张凌赫害怕大家看不懂",
+      "onboard_time": 1778322141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518994,
       "num": 518994,
       "word": "白日梦我",
@@ -3353,14 +3409,6 @@
       "onboard_time": 1777954101,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 503184,
-      "num": 503184,
-      "word": "女儿的100个橡皮",
-      "onboard_time": 1778320640,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 502474,
@@ -4508,7 +4556,7 @@
     },
     {
       "raw_hot": 384368,
-      "num": 332348,
+      "num": 335794,
       "word": "王楚钦在训练场得知国乒拿下韩国",
       "onboard_time": 1778317759,
       "rank": 15,
@@ -4577,14 +4625,6 @@
       "onboard_time": 1778110158,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 378336,
-      "num": 342172,
-      "word": "国际足联急了",
-      "onboard_time": 1778322141,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 377781,
@@ -4795,6 +4835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 363520,
+      "num": 368773,
+      "word": "有洁癖的人洗小龙虾",
+      "onboard_time": 1778313201,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362271,
       "num": 288230,
       "word": "皮皮虾事件隔壁海鲜店发声",
@@ -4817,14 +4865,6 @@
       "onboard_time": 1778225121,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 361127,
-      "num": 333819,
-      "word": "张凌赫害怕大家看不懂",
-      "onboard_time": 1778322141,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 360305,
@@ -5179,6 +5219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335763,
+      "num": 335763,
+      "word": "尼坤发福",
+      "onboard_time": 1778325382,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335483,
       "num": 481824,
       "word": "央视五四晚会官宣",
@@ -5201,14 +5249,6 @@
       "onboard_time": 1778030540,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331889,
-      "num": 331889,
-      "word": "中国烧烤店是天价世界杯第一个受害者",
-      "onboard_time": 1778322020,
-      "rank": 23,
-      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 331369,
@@ -5651,6 +5691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 308264,
+      "num": 308264,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307758,
       "num": 307758,
       "word": "日本自卫队要打仗",
@@ -5761,6 +5809,14 @@
       "onboard_time": 1777727782,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301844,
+      "num": 301844,
+      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+      "onboard_time": 1778318360,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301669,
@@ -6131,6 +6187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 283068,
+      "num": 283068,
+      "word": "演员于娜回应减掉30斤",
+      "onboard_time": 1778316680,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282004,
       "num": 282004,
       "word": "金银价格大涨",
@@ -6199,22 +6263,6 @@
       "num": 277848,
       "word": "高铁即将关门3岁男孩突然跑下车",
       "onboard_time": 1777770140,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276875,
-      "num": 368773,
-      "word": "有洁癖的人洗小龙虾",
-      "onboard_time": 1778313201,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 276550,
-      "num": 215306,
-      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
-      "onboard_time": 1778318360,
       "rank": 24,
       "category": "民生新闻"
     },
@@ -6779,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250503,
+      "num": 250503,
+      "word": "宋亚轩 国乐无双",
+      "onboard_time": 1778323400,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250248,
       "num": 450042,
       "word": "赖冠霖不参加WANNAONE重聚的原因",
@@ -6841,6 +6897,14 @@
       "onboard_time": 1778196739,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248696,
+      "num": 335911,
+      "word": "麦当劳铲子",
+      "onboard_time": 1778324659,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 248549,
@@ -6929,6 +6993,14 @@
       "onboard_time": 1778066540,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243176,
+      "num": 243176,
+      "word": "长大后我开始富养妈妈",
+      "onboard_time": 1778320159,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 243038,
@@ -7345,6 +7417,14 @@
       "onboard_time": 1777726821,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229829,
+      "num": 229829,
+      "word": "李嘉格坦白离婚后孩子和父母的反应",
+      "onboard_time": 1778324659,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 229784,
@@ -8017,14 +8097,6 @@
       "onboard_time": 1778235139,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 208359,
-      "num": 208359,
-      "word": "演员于娜回应减掉30斤",
-      "onboard_time": 1778316680,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 208130,
@@ -9060,7 +9132,7 @@
     },
     {
       "raw_hot": 175280,
-      "num": 243296,
+      "num": 302331,
       "word": "西方抹黑中国换新词了",
       "onboard_time": 1778314460,
       "rank": 35,
@@ -9939,6 +10011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "一家三口候车室吃东西垃圾扔满地",
+      "onboard_time": 1778323103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153302,
       "num": 153302,
       "word": "丁程鑫各种意义上的神图来了",
@@ -10033,6 +10113,14 @@
       "onboard_time": 1778129121,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150731,
+      "num": 150731,
+      "word": "在紫菜里找到了马嘉祺宋亚轩",
+      "onboard_time": 1778325201,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150111,
@@ -10195,6 +10283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "张本美和3比1韩莹",
+      "onboard_time": 1778325799,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145108,
       "num": 145108,
       "word": "里弗斯状态",
@@ -10313,14 +10409,6 @@
       "onboard_time": 1777789040,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140478,
-      "num": 154056,
-      "word": "长大后我开始富养妈妈",
-      "onboard_time": 1778320159,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 140268,
@@ -11443,12 +11531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109076,
+      "num": 108584,
+      "word": "给阿嬷的情书票房破亿",
+      "onboard_time": 1778325799,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108888,
       "num": 238767,
       "word": "张柏芝疑食物中毒",
       "onboard_time": 1777873881,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108796,
+      "num": 245592,
+      "word": "俄罗斯红场阅兵全场高呼乌拉",
+      "onboard_time": 1778317641,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108578,
@@ -12011,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82633,
-      "num": 149113,
-      "word": "俄罗斯红场阅兵全场高呼乌拉",
-      "onboard_time": 1778317641,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82416,
       "num": 587682,
       "word": "佳偶天成 人类应该写出的剧本",
@@ -12193,6 +12289,14 @@
       "onboard_time": 1778321360,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74675,
+      "num": 140357,
+      "word": "美目击者称UFO生物身高不足1.2米",
+      "onboard_time": 1778324959,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74117,
@@ -13448,6 +13552,14 @@
       "word": "卡梦 Gr",
       "onboard_time": 1778003176,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29625,
+      "num": 140092,
+      "word": "TES对战WE",
+      "onboard_time": 1778324540,
+      "rank": 44,
       "category": "电竞"
     },
     {
