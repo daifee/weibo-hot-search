@@ -1,0 +1,410 @@
+{
+  "runTime": 1778364520767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095740,
+        "num": 1095740,
+        "word": "中国男团1比1法国",
+        "onboard_time": 1778360415,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507619,
+        "num": 507619,
+        "word": "伦敦世乒赛半决赛",
+        "onboard_time": 1778327360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7355,
+        "num": 274146,
+        "word": "太空快递跑出中国加速度",
+        "onboard_time": 1778333121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256727,
+        "num": 256727,
+        "word": "王楚钦vs科顿",
+        "onboard_time": 1778360354,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218866,
+        "num": 218866,
+        "word": "王楚钦15比13科顿",
+        "onboard_time": 1778360354,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179875,
+        "num": 179875,
+        "word": "一根烟头烧掉212万",
+        "onboard_time": 1778340982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166074,
+        "num": 166074,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162642,
+        "num": 162642,
+        "word": "何赛飞怒批姜贞羽",
+        "onboard_time": 1778338041,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "怪不得虫子总围着头顶飞",
+        "onboard_time": 1778330601,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96918,
+        "num": 96918,
+        "word": "中国男团1比0法国",
+        "onboard_time": 1778360415,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127814,
+        "num": 94738,
+        "word": "孙颖莎逗笑邱贻可马琳",
+        "onboard_time": 1778340441,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90161,
+        "num": 90161,
+        "word": "29岁未婚育女子宫颈癌离世",
+        "onboard_time": 1778335341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83685,
+        "num": 83685,
+        "word": "跑男收视率 浪姐没播",
+        "onboard_time": 1778326938,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74761,
+        "num": 74761,
+        "word": "越来越理解什么叫事缓则圆",
+        "onboard_time": 1778324121,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71850,
+        "num": 71850,
+        "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
+        "onboard_time": 1778343260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69358,
+        "num": 69358,
+        "word": "交管队长回应被举报与女性举止亲密",
+        "onboard_time": 1778342000,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56223,
+        "num": 56223,
+        "word": "安倍晋三遗孀陪赖清德跪日本人",
+        "onboard_time": 1778331021,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54972,
+        "num": 54972,
+        "word": "香港富豪孙女被绑架案细节披露",
+        "onboard_time": 1778331920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50817,
+        "num": 50817,
+        "word": "给阿嬷的情书票房破亿",
+        "onboard_time": 1778325799,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46587,
+        "num": 46587,
+        "word": "国际足联急了",
+        "onboard_time": 1778322141,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157651,
+        "num": 46455,
+        "word": "马龙为男团半决赛开场",
+        "onboard_time": 1778360354,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70519,
+        "num": 46403,
+        "word": "马龙为世乒赛开场",
+        "onboard_time": 1778355135,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53418,
+        "num": 46317,
+        "word": "一家三口候车室吃东西垃圾扔满地",
+        "onboard_time": 1778323103,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45386,
+        "num": 45386,
+        "word": "这一秒过火",
+        "onboard_time": 1778343020,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45244,
+        "num": 45244,
+        "word": "孙颖莎甜妹攻击",
+        "onboard_time": 1778335761,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44572,
+        "num": 44572,
+        "word": "国际乒联惊叹王楚钦的球感",
+        "onboard_time": 1778355614,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32987,
+        "num": 44565,
+        "word": "给六只猫猫同时洗澡",
+        "onboard_time": 1778346019,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32311,
+        "num": 44537,
+        "word": "美国女子做特殊癖好服务致对方身亡",
+        "onboard_time": 1778328801,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32098,
+        "num": 44527,
+        "word": "吴宜泽4比5希金斯",
+        "onboard_time": 1778341281,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31992,
+        "num": 44508,
+        "word": "浪7三公是浪姐史上浓墨重彩的一笔",
+        "onboard_time": 1778340860,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29699,
+        "num": 44488,
+        "word": "孙杨感谢母亲的强大",
+        "onboard_time": 1778338282,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29076,
+        "num": 44463,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778335281,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28530,
+        "num": 44432,
+        "word": "显微镜下的辣条",
+        "onboard_time": 1778326820,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27873,
+        "num": 44410,
+        "word": "国乒女团晋级决赛",
+        "onboard_time": 1778332161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26988,
+        "num": 44404,
+        "word": "赖清德跪拜日本殖民者",
+        "onboard_time": 1778324540,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25375,
+        "num": 44373,
+        "word": "丈夫背叛女子哭晕妹妹套塑料袋急救",
+        "onboard_time": 1778340561,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24684,
+        "num": 44350,
+        "word": "感觉妈妈才是初代甜妹",
+        "onboard_time": 1778346618,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24268,
+        "num": 44339,
+        "word": "央视网更正锁电相关报道",
+        "onboard_time": 1778342721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23934,
+        "num": 44316,
+        "word": "尼坤演唱会状态",
+        "onboard_time": 1778343200,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 44298,
+        "word": "已证实安第斯病毒具备人际传播能力",
+        "onboard_time": 1778346019,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21786,
+        "num": 44279,
+        "word": "Cui71 韩国游戏",
+        "onboard_time": 1778346019,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21757,
+        "num": 44261,
+        "word": "周深阿信在鸟巢修提词器",
+        "onboard_time": 1778338520,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20835,
+        "num": 44223,
+        "word": "广东男篮绝杀",
+        "onboard_time": 1778335222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20675,
+        "num": 44209,
+        "word": "俄罗斯胜利日阅兵",
+        "onboard_time": 1778345239,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20612,
+        "num": 44184,
+        "word": "煎饼夏天 enemy",
+        "onboard_time": 1778338941,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 44173,
+        "word": "郑钦文vs奥斯塔彭科",
+        "onboard_time": 1778334322,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21090,
+        "num": 44141,
+        "word": "周深五月天合唱",
+        "onboard_time": 1778335222,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18631,
+        "num": 44129,
+        "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+        "onboard_time": 1778318360,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17262,
+        "num": 44105,
+        "word": "女儿的100个橡皮",
+        "onboard_time": 1778320640,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16326,
+        "num": 44087,
+        "word": "苏超",
+        "onboard_time": 1778332161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有需要就能做出好事实事#"
+    }
+  }
+}
