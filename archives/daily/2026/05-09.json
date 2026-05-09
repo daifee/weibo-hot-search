@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778326186421,
+  "endTime": 1778327858716,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2273452,
+      "num": 2273452,
+      "word": "国际足联急了",
+      "onboard_time": 1778322141,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2256026,
       "num": 2256026,
       "word": "跑男新一期收视率创新低",
@@ -67,20 +75,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2132851,
-      "num": 2132851,
-      "word": "国际足联急了",
-      "onboard_time": 1778322141,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2067711,
       "num": 2067711,
       "word": "淘宝免单",
       "onboard_time": 1778297119,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1927007,
+      "num": 336030,
+      "word": "关晓彤终于遇到了有身高差的男主",
+      "onboard_time": 1778324600,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1904070,
@@ -188,19 +196,11 @@
     },
     {
       "raw_hot": 1078576,
-      "num": 503184,
+      "num": 520997,
       "word": "女儿的100个橡皮",
       "onboard_time": 1778320640,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1047533,
-      "num": 336030,
-      "word": "关晓彤终于遇到了有身高差的男主",
-      "onboard_time": 1778324600,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1037622,
@@ -209,6 +209,14 @@
       "onboard_time": 1778287703,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1013851,
+      "num": 1013851,
+      "word": "赖清德跪拜日本殖民者",
+      "onboard_time": 1778324540,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 965016,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849268,
+      "num": 335763,
+      "word": "尼坤发福",
+      "onboard_time": 1778325382,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839145,
       "num": 839145,
       "word": "王暖暖拍摄时突然倒地",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 812442,
-      "num": 302099,
+      "num": 331398,
       "word": "李嘉格收入稳定后才选择离婚",
       "onboard_time": 1778324181,
       "rank": 20,
@@ -329,6 +345,14 @@
       "onboard_time": 1778301622,
       "rank": 6,
       "category": "海外新闻,作品衍生"
+    },
+    {
+      "raw_hot": 763303,
+      "num": 948233,
+      "word": "中国烧烤店是天价世界杯第一个受害者",
+      "onboard_time": 1778322020,
+      "rank": 23,
+      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 731688,
@@ -435,14 +459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 589605,
-      "num": 948233,
-      "word": "中国烧烤店是天价世界杯第一个受害者",
-      "onboard_time": 1778322020,
-      "rank": 23,
-      "category": "议题讨论,体育"
-    },
-    {
       "raw_hot": 587249,
       "num": 308710,
       "word": "易易紫说Angelababy喜欢权志龙是跟风",
@@ -505,14 +521,6 @@
       "onboard_time": 1778314040,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 541266,
-      "num": 541266,
-      "word": "赖清德跪拜日本殖民者",
-      "onboard_time": 1778324540,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 535440,
@@ -579,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 475139,
+      "num": 475139,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 464195,
       "num": 365980,
       "word": "王暖暖差点没抢救回来",
@@ -611,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424176,
+      "num": 424176,
+      "word": "麦当劳铲子",
+      "onboard_time": 1778324659,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 422494,
       "num": 372240,
       "word": "偏偏宠爱 宋威龙包上恩",
       "onboard_time": 1778295980,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415576,
+      "num": 302541,
+      "word": "李嘉格坦白离婚后孩子和父母的反应",
+      "onboard_time": 1778324659,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 415466,
@@ -715,11 +747,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375783,
+      "num": 330767,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374521,
       "num": 271173,
       "word": "金高银好可惜",
       "onboard_time": 1778259738,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 367145,
+      "num": 367145,
+      "word": "给阿嬷的情书票房破亿",
+      "onboard_time": 1778325799,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -803,14 +851,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 335763,
-      "num": 335763,
-      "word": "尼坤发福",
-      "onboard_time": 1778325382,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334063,
       "num": 274409,
       "word": "轻断食减肥正确方法",
@@ -859,16 +899,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308264,
-      "num": 308264,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 301844,
-      "num": 301844,
+      "raw_hot": 308435,
+      "num": 308435,
       "word": "女子打水光针后吃小龙虾满脸肉芽肿",
       "onboard_time": 1778318360,
       "rank": 24,
@@ -995,6 +1027,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 256662,
+      "num": 527700,
+      "word": "榴莲仅退款事件有女生被误伤",
+      "onboard_time": 1778318300,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255944,
       "num": 255944,
       "word": "法国男团vs巴西男团",
@@ -1059,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248696,
-      "num": 335911,
-      "word": "麦当劳铲子",
-      "onboard_time": 1778324659,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 245644,
       "num": 194852,
       "word": "王楚钦7比11吴晙诚",
@@ -1088,6 +1120,14 @@
       "word": "关晓彤 姐姐太没用了",
       "onboard_time": 1778243361,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242905,
+      "num": 242905,
+      "word": "马嘉祺宋亚轩回中戏答辩了",
+      "onboard_time": 1778326760,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1147,28 +1187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229829,
-      "num": 229829,
-      "word": "李嘉格坦白离婚后孩子和父母的反应",
-      "onboard_time": 1778324659,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229393,
       "num": 229393,
       "word": "小钰直播了",
       "onboard_time": 1778307621,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225761,
-      "num": 212029,
-      "word": "榴莲仅退款事件有女生被误伤",
-      "onboard_time": 1778318300,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225215,
@@ -1291,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201809,
+      "num": 175143,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198709,
       "num": 198709,
       "word": "13岁女孩沉迷二次元花光家里18万",
@@ -1315,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197476,
+      "num": 197476,
+      "word": "显微镜下的辣条",
+      "onboard_time": 1778326820,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 192433,
       "num": 369201,
       "word": "问界汽车否认被约谈",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1778303239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184592,
+      "num": 184592,
+      "word": "一家三口候车室吃东西垃圾扔满地",
+      "onboard_time": 1778323103,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184434,
@@ -1395,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1778327421,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175378,
       "num": 175378,
       "word": "2026年伦敦世乒赛",
@@ -1412,7 +1468,7 @@
     },
     {
       "raw_hot": 175280,
-      "num": 302331,
+      "num": 333979,
       "word": "西方抹黑中国换新词了",
       "onboard_time": 1778314460,
       "rank": 35,
@@ -1539,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153454,
-      "num": 153454,
-      "word": "一家三口候车室吃东西垃圾扔满地",
-      "onboard_time": 1778323103,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153238,
       "num": 153238,
       "word": "给阿嬷的情书 赞助商赞助了100杯奶茶",
@@ -1596,7 +1644,7 @@
     },
     {
       "raw_hot": 145198,
-      "num": 145198,
+      "num": 155296,
       "word": "张本美和3比1韩莹",
       "onboard_time": 1778325799,
       "rank": 42,
@@ -1667,6 +1715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 133866,
+      "num": 133866,
+      "word": "AG对战EDGM",
+      "onboard_time": 1778326700,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132954,
       "num": 132954,
       "word": "榴莲事件说明很多事不能算了",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1778282299,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122863,
+      "num": 332498,
+      "word": "伦敦世乒赛半决赛",
+      "onboard_time": 1778327360,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 121059,
@@ -1755,14 +1819,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 109076,
-      "num": 108584,
-      "word": "给阿嬷的情书票房破亿",
-      "onboard_time": 1778325799,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108796,
       "num": 245592,
       "word": "俄罗斯红场阅兵全场高呼乌拉",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1778297659,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104036,
+      "num": 238162,
+      "word": "美目击者称UFO生物身高不足1.2米",
+      "onboard_time": 1778324959,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102273,
@@ -1859,20 +1923,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82479,
+      "num": 121307,
+      "word": "市场人士回应DeepSeek阿里谈崩",
+      "onboard_time": 1778327480,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 75450,
       "num": 243109,
       "word": "前TSM辅助被斯坦福录取",
       "onboard_time": 1778321360,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74675,
-      "num": 140357,
-      "word": "美目击者称UFO生物身高不足1.2米",
-      "onboard_time": 1778324959,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 69702,
