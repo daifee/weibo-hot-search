@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778346576473,
+  "endTime": 1778347836969,
   "band_list": [
     {
       "raw_hot": 2302381,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207215,
+      "num": 207215,
+      "word": "尼坤演唱会状态",
+      "onboard_time": 1778343200,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196130,
       "num": 181809,
       "word": "陈奕恒回复王橹杰",
@@ -297,14 +305,6 @@
       "onboard_time": 1778341281,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186783,
-      "num": 186783,
-      "word": "尼坤演唱会状态",
-      "onboard_time": 1778343200,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 181795,
@@ -403,6 +403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78241,
+      "num": 125496,
+      "word": "Cui71 韩国游戏",
+      "onboard_time": 1778346019,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75739,
       "num": 165721,
       "word": "央视网更正锁电相关报道",
@@ -411,20 +419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75113,
-      "num": 125496,
-      "word": "Cui71 韩国游戏",
-      "onboard_time": 1778346019,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74446,
       "num": 124980,
       "word": "丈夫背叛女子哭晕妹妹套塑料袋急救",
       "onboard_time": 1778340561,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72604,
+      "num": 123502,
+      "word": "给六只猫猫同时洗澡",
+      "onboard_time": 1778346019,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 67908,
@@ -451,7 +459,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60517,
+      "raw_hot": 64089,
+      "num": 101423,
+      "word": "感觉妈妈才是初代甜妹",
+      "onboard_time": 1778346618,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62841,
       "num": 123747,
       "word": "杨超越回应大银幕脸",
       "onboard_time": 1778346019,
@@ -465,14 +481,6 @@
       "onboard_time": 1778340860,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58109,
-      "num": 123502,
-      "word": "给六只猫猫同时洗澡",
-      "onboard_time": 1778346019,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 58045,
@@ -515,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43358,
+      "raw_hot": 43937,
       "num": 121722,
       "word": "麦当劳铲子",
       "onboard_time": 1778324659,
