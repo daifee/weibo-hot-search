@@ -1,0 +1,410 @@
+{
+  "runTime": 1778317213740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1829185,
+        "num": 1829185,
+        "word": "车企锁电",
+        "onboard_time": 1778309959,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1036736,
+        "num": 1036736,
+        "word": "给阿嬷的情书剧组穷成这样",
+        "onboard_time": 1778310500,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 738900,
+        "word": "我国外贸延续良好增长态势",
+        "onboard_time": 1778314999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 756113,
+        "num": 690907,
+        "word": "奔跑吧回应收视率低",
+        "onboard_time": 1778297780,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641362,
+        "num": 641362,
+        "word": "母亲节礼物",
+        "onboard_time": 1778311340,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543209,
+        "num": 543209,
+        "word": "邓超发际线被打码",
+        "onboard_time": 1778314040,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372213,
+        "num": 372213,
+        "word": "淘宝免单",
+        "onboard_time": 1778297119,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294744,
+        "num": 371712,
+        "word": "8名中国人赴泰私拍短剧被逮捕",
+        "onboard_time": 1778301622,
+        "rank": 7,
+        "category": "海外新闻,作品衍生"
+      },
+      {
+        "raw_hot": 192433,
+        "num": 369201,
+        "word": "问界汽车否认被约谈",
+        "onboard_time": 1778315660,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189920,
+        "num": 368773,
+        "word": "有洁癖的人洗小龙虾",
+        "onboard_time": 1778313201,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1776084,
+        "num": 365664,
+        "word": "世界杯转播权",
+        "onboard_time": 1778305041,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 908239,
+        "num": 364936,
+        "word": "无忧传媒发布王暖暖健康状况声明",
+        "onboard_time": 1778312779,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 800355,
+        "num": 363619,
+        "word": "淘宝免单 李小冉",
+        "onboard_time": 1778313259,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 762892,
+        "num": 361755,
+        "word": "时代峰峻回应陈奕恒被指抄袭朱志鑫",
+        "onboard_time": 1778311039,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 503910,
+        "num": 358983,
+        "word": "男子贷27万离世银行追债30万",
+        "onboard_time": 1778312959,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592631,
+        "num": 358688,
+        "word": "汪卓成被好莱坞找去演男主以为是诈骗",
+        "onboard_time": 1778309959,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475733,
+        "num": 357164,
+        "word": "6岁男童吃生菜后血肿感染寄生虫",
+        "onboard_time": 1778314400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355642,
+        "num": 355642,
+        "word": "白鹿主动让C",
+        "onboard_time": 1778300240,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218615,
+        "num": 341102,
+        "word": "谁来为无子女老人晚年兜底",
+        "onboard_time": 1778309781,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 89234,
+        "num": 335752,
+        "word": "女士在河南博物院如厕需经男小便池",
+        "onboard_time": 1778316020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1215556,
+        "num": 335650,
+        "word": "内娱嘴亲烂了也没他俩眼神动人",
+        "onboard_time": 1778306241,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334369,
+        "num": 334369,
+        "word": "谁敢信这是同一天的杨幂",
+        "onboard_time": 1778304199,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319440,
+        "num": 319440,
+        "word": "吃过同款皮皮虾食客发声",
+        "onboard_time": 1778302882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320434,
+        "num": 317314,
+        "word": "向太说郭碧婷拿捏了公婆的心",
+        "onboard_time": 1778305461,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311105,
+        "num": 311105,
+        "word": "王暖暖晕倒前一秒还在配合镜头互动",
+        "onboard_time": 1778315240,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305097,
+        "num": 305097,
+        "word": "密室大逃脱 张真源",
+        "onboard_time": 1778299760,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263335,
+        "num": 263335,
+        "word": "给阿嬷的情书",
+        "onboard_time": 1778312239,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137959,
+        "num": 243296,
+        "word": "西方抹黑中国换新词了",
+        "onboard_time": 1778314460,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174568,
+        "num": 234026,
+        "word": "无人机坠入铁路线与高铁相撞",
+        "onboard_time": 1778314941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111279,
+        "num": 230654,
+        "word": "无忧传媒已暂停王暖暖所有活动",
+        "onboard_time": 1778315841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230060,
+        "num": 230060,
+        "word": "91岁老人子宫脱垂靠子宫托忍了30年",
+        "onboard_time": 1778302582,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227259,
+        "num": 227259,
+        "word": "47岁韩国影后河智苑西湖独自夜跑",
+        "onboard_time": 1778304981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225503,
+        "num": 225503,
+        "word": "国际乒联为球台故障焦头烂额",
+        "onboard_time": 1778315121,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50569,
+        "num": 209440,
+        "word": "朝鲜军人参加俄罗斯红场阅兵",
+        "onboard_time": 1778317039,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198347,
+        "num": 198347,
+        "word": "有了iPhone还用买大疆吗",
+        "onboard_time": 1778309298,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181324,
+        "num": 181324,
+        "word": "跑男疯狂证明自己",
+        "onboard_time": 1778297541,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175748,
+        "num": 175748,
+        "word": "陈奕恒翻唱Marry",
+        "onboard_time": 1778315121,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138106,
+        "num": 169026,
+        "word": "小钰直播了",
+        "onboard_time": 1778307621,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165777,
+        "num": 165777,
+        "word": "杨幂江山大同跪地哭戏",
+        "onboard_time": 1778312840,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143004,
+        "num": 143004,
+        "word": "文章开酒吧了",
+        "onboard_time": 1778301862,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133751,
+        "num": 133751,
+        "word": "尘白禁区退钱",
+        "onboard_time": 1778300720,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129546,
+        "num": 129546,
+        "word": "猫就这么乱七八糟地过来了",
+        "onboard_time": 1778312900,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129415,
+        "num": 129415,
+        "word": "DeepSeek正式跨入图文交互时代",
+        "onboard_time": 1778298620,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 118988,
+        "word": "演员于娜回应减掉30斤",
+        "onboard_time": 1778316680,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118980,
+        "num": 118980,
+        "word": "唐嫣红裙",
+        "onboard_time": 1778314999,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104265,
+        "num": 104265,
+        "word": "法医称马拉多纳逝前遭12小时折磨",
+        "onboard_time": 1778303239,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116569,
+        "num": 103154,
+        "word": "跑男转发区",
+        "onboard_time": 1778316982,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99823,
+        "num": 99823,
+        "word": "老人地铁撕扯女孩涉嫌违法",
+        "onboard_time": 1778316919,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 95623,
+        "num": 95623,
+        "word": "赵丽颖工作室告黑107条",
+        "onboard_time": 1778317161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94672,
+        "num": 94672,
+        "word": "金饰消费大跌金条狂涨",
+        "onboard_time": 1778316861,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这些典故领悟总书记的政绩观#"
+    }
+  }
+}
