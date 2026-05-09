@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778328655530,
+  "endTime": 1778334077377,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2133316,
+      "num": 2133316,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2067711,
       "num": 2067711,
       "word": "淘宝免单",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1927007,
-      "num": 946521,
+      "num": 1186675,
       "word": "关晓彤终于遇到了有身高差的男主",
       "onboard_time": 1778324600,
       "rank": 10,
@@ -97,6 +105,14 @@
       "onboard_time": 1778283200,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1834638,
+      "num": 333172,
+      "word": "曝汪峰森林北分手",
+      "onboard_time": 1778331441,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1829185,
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1127294,
+      "num": 1127294,
+      "word": "怪不得虫子总围着头顶飞",
+      "onboard_time": 1778330601,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1120376,
       "num": 1179260,
       "word": "国乒男团进四强",
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 976653,
-      "num": 417798,
+      "num": 474868,
       "word": "尼坤发福",
       "onboard_time": 1778325382,
       "rank": 17,
@@ -267,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 892025,
+      "num": 892025,
+      "word": "伦敦世乒赛半决赛",
+      "onboard_time": 1778327360,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887267,
       "num": 978640,
       "word": "8家车企被约谈",
@@ -281,6 +313,14 @@
       "onboard_time": 1778286382,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 863063,
+      "num": 863063,
+      "word": "浪姐48来了",
+      "onboard_time": 1778328320,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 859364,
@@ -323,6 +363,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 814176,
+      "num": 814176,
+      "word": "显微镜下的辣条",
+      "onboard_time": 1778326820,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 812442,
       "num": 385240,
       "word": "李嘉格收入稳定后才选择离婚",
@@ -363,6 +411,14 @@
       "category": "议题讨论,体育"
     },
     {
+      "raw_hot": 758833,
+      "num": 491850,
+      "word": "首尔偶遇田曦薇",
+      "onboard_time": 1778331320,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731688,
       "num": 731688,
       "word": "很喜欢登机前的十分钟",
@@ -377,6 +433,14 @@
       "onboard_time": 1778257038,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 717315,
+      "num": 491045,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 711922,
@@ -432,14 +496,6 @@
       "word": "汪卓成被好莱坞找去演男主以为是诈骗",
       "onboard_time": 1778309959,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 623070,
-      "num": 406597,
-      "word": "疑似加到了孙怡本人的QQ",
-      "onboard_time": 1778327541,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -539,20 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541157,
-      "num": 436762,
-      "word": "跑男收视率 浪姐没播",
-      "onboard_time": 1778326938,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 535440,
       "num": 535440,
       "word": "DeepSeek正式跨入图文交互时代",
       "onboard_time": 1778298620,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 532217,
+      "num": 211807,
+      "word": "安倍晋三遗孀陪赖清德跪日本人",
+      "onboard_time": 1778331021,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 519024,
@@ -579,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494680,
+      "num": 469425,
+      "word": "李小冉方否认与淘宝合作",
+      "onboard_time": 1778331381,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493739,
       "num": 361678,
       "word": "范丞丞被徐艺洋气到给黄子韬打电话",
@@ -595,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488953,
+      "num": 488953,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 484340,
       "num": 359568,
       "word": "向太说郭碧婷拿捏了公婆的心",
@@ -609,14 +681,6 @@
       "onboard_time": 1778252243,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 475139,
-      "num": 475139,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 464195,
@@ -649,6 +713,14 @@
       "onboard_time": 1778253441,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 426888,
+      "num": 426888,
+      "word": "香港富豪孙女被绑架案细节披露",
+      "onboard_time": 1778331920,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425887,
@@ -697,6 +769,14 @@
       "onboard_time": 1778227580,
       "rank": 20,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 396248,
+      "num": 396248,
+      "word": "国乒女团晋级决赛",
+      "onboard_time": 1778332161,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 388195,
@@ -779,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372525,
-      "num": 372525,
-      "word": "伦敦世乒赛半决赛",
-      "onboard_time": 1778327360,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 367097,
       "num": 355449,
       "word": "文章开酒吧了",
@@ -859,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346584,
+      "num": 346584,
+      "word": "美国女子做特殊癖好服务致对方身亡",
+      "onboard_time": 1778328801,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 344240,
       "num": 277285,
       "word": "榴莲仅退款商家希望买家公开道歉",
@@ -907,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325316,
+      "num": 325316,
+      "word": "遭仅退款榴莲店询单量暴涨数百倍",
+      "onboard_time": 1778332161,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319440,
       "num": 319440,
       "word": "吃过同款皮皮虾食客发声",
@@ -915,8 +1003,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312918,
-      "num": 312918,
+      "raw_hot": 318106,
+      "num": 318106,
       "word": "女子打水光针后吃小龙虾满脸肉芽肿",
       "onboard_time": 1778318360,
       "rank": 24,
@@ -961,14 +1049,6 @@
       "onboard_time": 1778244623,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286920,
-      "num": 286920,
-      "word": "显微镜下的辣条",
-      "onboard_time": 1778326820,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 284554,
@@ -1123,12 +1203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249260,
+      "num": 249260,
+      "word": "一家三口候车室吃东西垃圾扔满地",
+      "onboard_time": 1778323103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246684,
       "num": 426483,
       "word": "孙颖莎vs萨马拉",
       "onboard_time": 1778327900,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245976,
+      "num": 245976,
+      "word": "AG对战EDGM",
+      "onboard_time": 1778326700,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 245644,
@@ -1211,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234118,
+      "num": 320255,
+      "word": "苏超",
+      "onboard_time": 1778332161,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232752,
       "num": 232752,
       "word": "老人疑因地铁座位撕扯女孩",
@@ -1225,14 +1329,6 @@
       "onboard_time": 1778307621,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227748,
-      "num": 227748,
-      "word": "一家三口候车室吃东西垃圾扔满地",
-      "onboard_time": 1778323103,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225215,
@@ -1307,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216131,
-      "num": 216131,
-      "word": "浪姐48来了",
-      "onboard_time": 1778328320,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215494,
       "num": 215494,
       "word": "李想称汽车不能像手机一样换代",
@@ -1371,6 +1459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201522,
+      "num": 201522,
+      "word": "张凌赫直播",
+      "onboard_time": 1778333721,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199099,
+      "num": 311527,
+      "word": "美目击者称UFO生物身高不足1.2米",
+      "onboard_time": 1778324959,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198709,
       "num": 198709,
       "word": "13岁女孩沉迷二次元花光家里18万",
@@ -1403,12 +1507,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192056,
+      "num": 392781,
+      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
+      "onboard_time": 1778327900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191621,
       "num": 248376,
       "word": "法医称马拉多纳逝前遭12小时折磨",
       "onboard_time": 1778303239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187676,
+      "num": 187676,
+      "word": "中国女团vs罗马尼亚",
+      "onboard_time": 1778327840,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 184434,
@@ -1473,6 +1593,14 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179262,
+      "num": 179262,
+      "word": "周深五月天双厨狂喜",
+      "onboard_time": 1778333241,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 175378,
@@ -1595,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157873,
+      "num": 157873,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1778330661,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156942,
       "num": 156942,
       "word": "DeepSeek分析跑男收视率创新低原因",
@@ -1675,12 +1811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143411,
+      "num": 143411,
+      "word": "南通vs南京",
+      "onboard_time": 1778334022,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143267,
       "num": 164383,
       "word": "安宰贤捏了下好朋友王楚钦的手",
       "onboard_time": 1778285780,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142972,
+      "num": 182066,
+      "word": "医药代表不能卖药了",
+      "onboard_time": 1778332641,
+      "rank": 36,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 140268,
@@ -1697,6 +1849,14 @@
       "onboard_time": 1778252841,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139703,
+      "num": 139703,
+      "word": "王菲主角录了5个半小时",
+      "onboard_time": 1778331260,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 139130,
@@ -1737,14 +1897,6 @@
       "onboard_time": 1778287881,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 133866,
-      "num": 133866,
-      "word": "AG对战EDGM",
-      "onboard_time": 1778326700,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 132954,
@@ -1851,14 +2003,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104036,
-      "num": 311527,
-      "word": "美目击者称UFO生物身高不足1.2米",
-      "onboard_time": 1778324959,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102273,
       "num": 193075,
       "word": "刷圈霸榜的奥迪E7X卖28.98万起",
@@ -1947,12 +2091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85494,
-      "num": 392781,
-      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
-      "onboard_time": 1778327900,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 81420,
+      "num": 343691,
+      "word": "夸克TV崩了",
+      "onboard_time": 1778332700,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 75450,
@@ -2187,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26632,
+      "num": 340096,
+      "word": "同济大学学术造假事件全揭秘",
+      "onboard_time": 1778333361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25875,
       "num": 1336031,
       "word": "五一消费潜力充分释放",
@@ -2201,6 +2353,14 @@
       "onboard_time": 1778328080,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24455,
+      "num": 1235797,
+      "word": "太空快递跑出中国加速度",
+      "onboard_time": 1778333121,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19774,
@@ -2299,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11038,
+      "num": 177092,
+      "word": "全民担当苏超守门员",
+      "onboard_time": 1778332941,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9740,
       "num": 281164,
       "word": "切尔诺贝利核禁区火烧了1100公顷",
@@ -2364,6 +2532,9 @@
     },
     {
       "word": "#从这些典故领悟总书记的政绩观#"
+    },
+    {
+      "word": "#人民有需要就能做出好事实事#"
     }
   ]
 }

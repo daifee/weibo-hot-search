@@ -1,0 +1,410 @@
+{
+  "runTime": 1778334077377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133316,
+        "num": 2133316,
+        "word": "跑男收视率 浪姐没播",
+        "onboard_time": 1778326938,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1410033,
+        "num": 1410033,
+        "word": "国际足联急了",
+        "onboard_time": 1778322141,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24455,
+        "num": 1235797,
+        "word": "太空快递跑出中国加速度",
+        "onboard_time": 1778333121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1811943,
+        "num": 1186675,
+        "word": "关晓彤终于遇到了有身高差的男主",
+        "onboard_time": 1778324600,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1127294,
+        "num": 1127294,
+        "word": "怪不得虫子总围着头顶飞",
+        "onboard_time": 1778330601,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 892025,
+        "num": 892025,
+        "word": "伦敦世乒赛半决赛",
+        "onboard_time": 1778327360,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863063,
+        "num": 863063,
+        "word": "浪姐48来了",
+        "onboard_time": 1778328320,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814176,
+        "num": 814176,
+        "word": "显微镜下的辣条",
+        "onboard_time": 1778326820,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 671341,
+        "num": 671341,
+        "word": "女儿的100个橡皮",
+        "onboard_time": 1778320640,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494634,
+        "num": 494634,
+        "word": "赖清德跪拜日本殖民者",
+        "onboard_time": 1778324540,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 758833,
+        "num": 491850,
+        "word": "首尔偶遇田曦薇",
+        "onboard_time": 1778331320,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717315,
+        "num": 491045,
+        "word": "疑似加到了孙怡本人的QQ",
+        "onboard_time": 1778327541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488953,
+        "num": 488953,
+        "word": "越来越理解什么叫事缓则圆",
+        "onboard_time": 1778324121,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647797,
+        "num": 474868,
+        "word": "尼坤发福",
+        "onboard_time": 1778325382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494680,
+        "num": 469425,
+        "word": "李小冉方否认与淘宝合作",
+        "onboard_time": 1778331381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426888,
+        "num": 426888,
+        "word": "香港富豪孙女被绑架案细节披露",
+        "onboard_time": 1778331920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396248,
+        "num": 396248,
+        "word": "国乒女团晋级决赛",
+        "onboard_time": 1778332161,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346584,
+        "num": 346584,
+        "word": "美国女子做特殊癖好服务致对方身亡",
+        "onboard_time": 1778328801,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81420,
+        "num": 343691,
+        "word": "夸克TV崩了",
+        "onboard_time": 1778332700,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26632,
+        "num": 340096,
+        "word": "同济大学学术造假事件全揭秘",
+        "onboard_time": 1778333361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1834638,
+        "num": 333172,
+        "word": "曝汪峰森林北分手",
+        "onboard_time": 1778331441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380842,
+        "num": 327418,
+        "word": "给阿嬷的情书票房破亿",
+        "onboard_time": 1778325799,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325316,
+        "num": 325316,
+        "word": "遭仅退款榴莲店询单量暴涨数百倍",
+        "onboard_time": 1778332161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234118,
+        "num": 320255,
+        "word": "苏超",
+        "onboard_time": 1778332161,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347676,
+        "num": 319847,
+        "word": "李嘉格收入稳定后才选择离婚",
+        "onboard_time": 1778324181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318106,
+        "num": 318106,
+        "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+        "onboard_time": 1778318360,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260796,
+        "num": 260796,
+        "word": "张凌赫害怕大家看不懂",
+        "onboard_time": 1778322141,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249260,
+        "num": 249260,
+        "word": "一家三口候车室吃东西垃圾扔满地",
+        "onboard_time": 1778323103,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245976,
+        "num": 245976,
+        "word": "AG对战EDGM",
+        "onboard_time": 1778326700,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 211860,
+        "word": "美目击者称UFO生物身高不足1.2米",
+        "onboard_time": 1778324959,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532217,
+        "num": 211807,
+        "word": "安倍晋三遗孀陪赖清德跪日本人",
+        "onboard_time": 1778331021,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211745,
+        "num": 211745,
+        "word": "王楚钦在训练场得知国乒拿下韩国",
+        "onboard_time": 1778317759,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201522,
+        "num": 201522,
+        "word": "张凌赫直播",
+        "onboard_time": 1778333721,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192056,
+        "num": 192056,
+        "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
+        "onboard_time": 1778327900,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187676,
+        "num": 187676,
+        "word": "中国女团vs罗马尼亚",
+        "onboard_time": 1778327840,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185033,
+        "num": 185033,
+        "word": "曝王一博将进组刺客",
+        "onboard_time": 1778320400,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142972,
+        "num": 182066,
+        "word": "医药代表不能卖药了",
+        "onboard_time": 1778332641,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 181322,
+        "num": 181322,
+        "word": "给阿嬷的情书剧组穷成这样",
+        "onboard_time": 1778310500,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 179262,
+        "word": "周深五月天双厨狂喜",
+        "onboard_time": 1778333241,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11038,
+        "num": 177092,
+        "word": "全民担当苏超守门员",
+        "onboard_time": 1778332941,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176759,
+        "num": 176759,
+        "word": "马嘉祺宋亚轩回中戏答辩了",
+        "onboard_time": 1778326760,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176321,
+        "num": 176321,
+        "word": "麦当劳铲子",
+        "onboard_time": 1778324659,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164763,
+        "num": 164763,
+        "word": "世界杯转播权",
+        "onboard_time": 1778305041,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162211,
+        "num": 162211,
+        "word": "奔跑吧回应收视率低",
+        "onboard_time": 1778297780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157873,
+        "num": 157873,
+        "word": "广东男篮vs北京男篮",
+        "onboard_time": 1778330661,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165271,
+        "num": 156312,
+        "word": "宋亚轩 国乐无双",
+        "onboard_time": 1778323400,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143411,
+        "num": 143411,
+        "word": "南通vs南京",
+        "onboard_time": 1778334022,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 139703,
+        "word": "王菲主角录了5个半小时",
+        "onboard_time": 1778331260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73262,
+        "num": 135443,
+        "word": "俄罗斯红场阅兵全场高呼乌拉",
+        "onboard_time": 1778317641,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134661,
+        "num": 134661,
+        "word": "王曼昱vs斯佐科斯",
+        "onboard_time": 1778327421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有需要就能做出好事实事#"
+    }
+  }
+}

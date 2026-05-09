@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778328655530,
+  "endTime": 1778334077377,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2133316,
+      "num": 2133316,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2132370,
       "num": 2132370,
       "word": "中国男团vs韩国",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 1927007,
-      "num": 946521,
+      "num": 1186675,
       "word": "关晓彤终于遇到了有身高差的男主",
       "onboard_time": 1778324600,
       "rank": 10,
@@ -505,6 +513,14 @@
       "onboard_time": 1778120060,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1834638,
+      "num": 333172,
+      "word": "曝汪峰森林北分手",
+      "onboard_time": 1778331441,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1829185,
@@ -1067,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1127294,
+      "num": 1127294,
+      "word": "怪不得虫子总围着头顶飞",
+      "onboard_time": 1778330601,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1119707,
       "num": 1119707,
       "word": "王暖暖控诉无忧传媒",
@@ -1332,7 +1356,7 @@
     },
     {
       "raw_hot": 976653,
-      "num": 417798,
+      "num": 474868,
       "word": "尼坤发福",
       "onboard_time": 1778325382,
       "rank": 17,
@@ -1547,6 +1571,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 892025,
+      "num": 892025,
+      "word": "伦敦世乒赛半决赛",
+      "onboard_time": 1778327360,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 890053,
       "num": 890053,
       "word": "这一刻所有偶像剧都要弱爆了",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1777967301,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 863063,
+      "num": 863063,
+      "word": "浪姐48来了",
+      "onboard_time": 1778328320,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 863061,
@@ -1811,6 +1851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 814176,
+      "num": 814176,
+      "word": "显微镜下的辣条",
+      "onboard_time": 1778326820,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 812442,
       "num": 385240,
       "word": "李嘉格收入稳定后才选择离婚",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1778322020,
       "rank": 23,
       "category": "议题讨论,体育"
+    },
+    {
+      "raw_hot": 758833,
+      "num": 491850,
+      "word": "首尔偶遇田曦薇",
+      "onboard_time": 1778331320,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 754487,
@@ -2145,6 +2201,14 @@
       "onboard_time": 1777823540,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 717315,
+      "num": 491045,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 715590,
@@ -2617,14 +2681,6 @@
       "onboard_time": 1778063661,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623070,
-      "num": 406597,
-      "word": "疑似加到了孙怡本人的QQ",
-      "onboard_time": 1778327541,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 620969,
@@ -3115,14 +3171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541157,
-      "num": 436762,
-      "word": "跑男收视率 浪姐没播",
-      "onboard_time": 1778326938,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540821,
       "num": 390893,
       "word": "向佑在南昌某酒吧被网友拍到",
@@ -3209,6 +3257,14 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532217,
+      "num": 211807,
+      "word": "安倍晋三遗孀陪赖清德跪日本人",
+      "onboard_time": 1778331021,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 529840,
@@ -3483,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494680,
+      "num": 469425,
+      "word": "李小冉方否认与淘宝合作",
+      "onboard_time": 1778331381,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494612,
       "num": 494612,
       "word": "全村老人已读乱回火了",
@@ -3587,6 +3651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 488953,
+      "num": 488953,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 488832,
       "num": 391315,
       "word": "男子养了11年的3个孩子2个非亲生",
@@ -3649,14 +3721,6 @@
       "onboard_time": 1778029401,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 475139,
-      "num": 475139,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 473477,
@@ -4131,6 +4195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 426888,
+      "num": 426888,
+      "word": "香港富豪孙女被绑架案细节披露",
+      "onboard_time": 1778331920,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426841,
       "num": 426841,
       "word": "合租因室友掉两根头发报警",
@@ -4449,6 +4521,14 @@
       "onboard_time": 1777775841,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 396248,
+      "num": 396248,
+      "word": "国乒女团晋级决赛",
+      "onboard_time": 1778332161,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 396117,
@@ -4777,14 +4857,6 @@
       "onboard_time": 1777904423,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 372525,
-      "num": 372525,
-      "word": "伦敦世乒赛半决赛",
-      "onboard_time": 1778327360,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 372029,
@@ -5171,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346584,
+      "num": 346584,
+      "word": "美国女子做特殊癖好服务致对方身亡",
+      "onboard_time": 1778328801,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 345931,
       "num": 263782,
       "word": "建议大家去狂刷跨境综艺打破信息差",
@@ -5435,6 +5515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 325316,
+      "num": 325316,
+      "word": "遭仅退款榴莲店询单量暴涨数百倍",
+      "onboard_time": 1778332161,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325227,
       "num": 343510,
       "word": "宁艺卓嘉人五月刊封面",
@@ -5547,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318106,
+      "num": 318106,
+      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+      "onboard_time": 1778318360,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317641,
       "num": 317641,
       "word": "低智商犯罪",
@@ -5640,14 +5736,6 @@
       "word": "女子坠亡悬崖秋千摆弧300米",
       "onboard_time": 1778024959,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312918,
-      "num": 312918,
-      "word": "女子打水光针后吃小龙虾满脸肉芽肿",
-      "onboard_time": 1778318360,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -6153,14 +6241,6 @@
       "onboard_time": 1778153240,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286920,
-      "num": 286920,
-      "word": "显微镜下的辣条",
-      "onboard_time": 1778326820,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 286439,
@@ -6947,6 +7027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249260,
+      "num": 249260,
+      "word": "一家三口候车室吃东西垃圾扔满地",
+      "onboard_time": 1778323103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249156,
       "num": 359139,
       "word": "狗狗未牵绳被碾压主人当场崩溃",
@@ -6993,6 +7081,14 @@
       "onboard_time": 1778115920,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245976,
+      "num": 245976,
+      "word": "AG对战EDGM",
+      "onboard_time": 1778326700,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 245644,
@@ -7347,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234118,
+      "num": 320255,
+      "word": "苏超",
+      "onboard_time": 1777721359,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232859,
       "num": 232859,
       "word": "1岁半女婴私处发育异常险变男孩",
@@ -7536,14 +7640,6 @@
       "word": "飞机上的饮用水产地是路边",
       "onboard_time": 1777910421,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227748,
-      "num": 227748,
-      "word": "一家三口候车室吃东西垃圾扔满地",
-      "onboard_time": 1778323103,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -7865,14 +7961,6 @@
       "onboard_time": 1777883301,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216131,
-      "num": 216131,
-      "word": "浪姐48来了",
-      "onboard_time": 1778328320,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 215668,
@@ -8419,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201522,
+      "num": 201522,
+      "word": "张凌赫直播",
+      "onboard_time": 1778333721,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200962,
       "num": 252079,
       "word": "Jennie 妈咪降临",
@@ -8481,6 +8577,14 @@
       "onboard_time": 1778075484,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199099,
+      "num": 311527,
+      "word": "美目击者称UFO生物身高不足1.2米",
+      "onboard_time": 1778324959,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 198919,
@@ -8691,6 +8795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192056,
+      "num": 392781,
+      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
+      "onboard_time": 1778327900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191747,
       "num": 400972,
       "word": "刘耀文拍肩安慰严浩翔",
@@ -8817,6 +8929,14 @@
       "onboard_time": 1777886422,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187676,
+      "num": 187676,
+      "word": "中国女团vs罗马尼亚",
+      "onboard_time": 1778327840,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 187464,
@@ -9065,6 +9185,14 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179262,
+      "num": 179262,
+      "word": "周深五月天双厨狂喜",
+      "onboard_time": 1778333241,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 179065,
@@ -9891,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157873,
+      "num": 157873,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1778330661,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157701,
       "num": 322109,
       "word": "王濛叫李小冉祖宗",
@@ -10427,12 +10563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143411,
+      "num": 143411,
+      "word": "南通vs南京",
+      "onboard_time": 1778334022,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143267,
       "num": 164383,
       "word": "安宰贤捏了下好朋友王楚钦的手",
       "onboard_time": 1778285780,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142972,
+      "num": 182066,
+      "word": "医药代表不能卖药了",
+      "onboard_time": 1778332641,
+      "rank": 36,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 142924,
@@ -10497,6 +10649,14 @@
       "onboard_time": 1778252841,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139703,
+      "num": 139703,
+      "word": "王菲主角录了5个半小时",
+      "onboard_time": 1778331260,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 139130,
@@ -10753,14 +10913,6 @@
       "onboard_time": 1777808003,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133866,
-      "num": 133866,
-      "word": "AG对战EDGM",
-      "onboard_time": 1778326700,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 132954,
@@ -11507,14 +11659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115427,
-      "num": 246966,
-      "word": "苏超",
-      "onboard_time": 1777721359,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114482,
       "num": 114482,
       "word": "喜欢周六又喜欢下班",
@@ -11720,14 +11864,6 @@
       "word": "日本男孩求救警方进屋发现3具尸体",
       "onboard_time": 1778137280,
       "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104036,
-      "num": 311527,
-      "word": "美目击者称UFO生物身高不足1.2米",
-      "onboard_time": 1778324959,
-      "rank": 43,
       "category": "海外新闻"
     },
     {
@@ -12171,14 +12307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85494,
-      "num": 392781,
-      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
-      "onboard_time": 1778327900,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83933,
       "num": 247707,
       "word": "马嘉祺给丁程鑫撑伞",
@@ -12241,6 +12369,14 @@
       "onboard_time": 1777914558,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81420,
+      "num": 343691,
+      "word": "夸克TV崩了",
+      "onboard_time": 1778332700,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 81080,
@@ -13755,6 +13891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26632,
+      "num": 340096,
+      "word": "同济大学学术造假事件全揭秘",
+      "onboard_time": 1778333361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26543,
       "num": 219564,
       "word": "游乐场回应蹦床撕裂女子高空摔落",
@@ -13809,6 +13953,14 @@
       "onboard_time": 1777790239,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24455,
+      "num": 1235797,
+      "word": "太空快递跑出中国加速度",
+      "onboard_time": 1778333121,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23692,
@@ -14195,6 +14347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11038,
+      "num": 177092,
+      "word": "全民担当苏超守门员",
+      "onboard_time": 1778332941,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10709,
       "num": 272469,
       "word": "以军空袭黎南部致死9人",
@@ -14434,6 +14594,9 @@
     },
     {
       "word": "#总书记引领能源强国建设#"
+    },
+    {
+      "word": "#人民有需要就能做出好事实事#"
     }
   ]
 }
