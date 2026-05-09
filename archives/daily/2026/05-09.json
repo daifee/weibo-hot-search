@@ -1,6 +1,6 @@
 {
   "startTime": 1778256007848,
-  "endTime": 1778334077377,
+  "endTime": 1778335213701,
   "band_list": [
     {
       "raw_hot": 4193868,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2413445,
+      "num": 2413445,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2281477,
       "num": 2281477,
       "word": "救救跑男",
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2133316,
-      "num": 2133316,
-      "word": "跑男收视率 浪姐没播",
-      "onboard_time": 1778326938,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2067711,
       "num": 2067711,
       "word": "淘宝免单",
@@ -91,8 +91,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1927007,
-      "num": 1186675,
+      "raw_hot": 1974551,
+      "num": 391698,
+      "word": "曝汪峰森林北分手",
+      "onboard_time": 1778331441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1966238,
+      "num": 1190356,
       "word": "关晓彤终于遇到了有身高差的男主",
       "onboard_time": 1778324600,
       "rank": 10,
@@ -105,14 +113,6 @@
       "onboard_time": 1778283200,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1834638,
-      "num": 333172,
-      "word": "曝汪峰森林北分手",
-      "onboard_time": 1778331441,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1829185,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 976653,
-      "num": 474868,
+      "num": 612783,
       "word": "尼坤发福",
       "onboard_time": 1778325382,
       "rank": 17,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752301,
+      "num": 639312,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731688,
       "num": 731688,
       "word": "很喜欢登机前的十分钟",
@@ -435,14 +443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 717315,
-      "num": 491045,
-      "word": "疑似加到了孙怡本人的QQ",
-      "onboard_time": 1778327541,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 711922,
       "num": 386384,
       "word": "iPhone18Pro七大升级",
@@ -451,12 +451,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 707065,
+      "num": 633958,
+      "word": "香港富豪孙女被绑架案细节披露",
+      "onboard_time": 1778331920,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687396,
       "num": 362170,
       "word": "47岁韩国影后河智苑西湖独自夜跑",
       "onboard_time": 1778304981,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683945,
+      "num": 683945,
+      "word": "安倍晋三遗孀陪赖清德跪日本人",
+      "onboard_time": 1778331021,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 652903,
@@ -473,6 +489,14 @@
       "onboard_time": 1778316982,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643057,
+      "num": 643057,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1778330661,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 641614,
@@ -579,6 +603,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 546669,
+      "num": 546669,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 544799,
       "num": 225895,
       "word": "榴莲仅退款买家系20多岁女生",
@@ -601,14 +633,6 @@
       "onboard_time": 1778298620,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 532217,
-      "num": 211807,
-      "word": "安倍晋三遗孀陪赖清德跪日本人",
-      "onboard_time": 1778331021,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 519024,
@@ -659,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 488953,
-      "num": 488953,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 484340,
       "num": 359568,
       "word": "向太说郭碧婷拿捏了公婆的心",
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445422,
+      "num": 445422,
+      "word": "国乒女团晋级决赛",
+      "onboard_time": 1778332161,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441988,
       "num": 441988,
       "word": "麦当劳铲子",
@@ -707,20 +731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428565,
+      "num": 386192,
+      "word": "遭仅退款榴莲店询单量暴涨数百倍",
+      "onboard_time": 1778332161,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428298,
       "num": 293606,
       "word": "王俊凯去看了五月天",
       "onboard_time": 1778253441,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 426888,
-      "num": 426888,
-      "word": "香港富豪孙女被绑架案细节披露",
-      "onboard_time": 1778331920,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425887,
@@ -763,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 409749,
+      "num": 409749,
+      "word": "美国女子做特殊癖好服务致对方身亡",
+      "onboard_time": 1778328801,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 402272,
       "num": 291603,
       "word": "汉坦病毒",
@@ -771,11 +803,11 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 396248,
-      "num": 396248,
-      "word": "国乒女团晋级决赛",
+      "raw_hot": 395926,
+      "num": 395926,
+      "word": "苏超",
       "onboard_time": 1778332161,
-      "rank": 16,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -931,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346584,
-      "num": 346584,
-      "word": "美国女子做特殊癖好服务致对方身亡",
-      "onboard_time": 1778328801,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 344240,
       "num": 277285,
       "word": "榴莲仅退款商家希望买家公开道歉",
@@ -985,14 +1009,6 @@
       "onboard_time": 1778247322,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325316,
-      "num": 325316,
-      "word": "遭仅退款榴莲店询单量暴涨数百倍",
-      "onboard_time": 1778332161,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319440,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1778244623,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286867,
+      "num": 286867,
+      "word": "郑钦文vs奥斯塔彭科",
+      "onboard_time": 1778334322,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 284554,
@@ -1219,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246242,
+      "num": 246242,
+      "word": "宋亚轩非常争分夺秒的一条视频",
+      "onboard_time": 1778334621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245976,
       "num": 245976,
       "word": "AG对战EDGM",
@@ -1307,12 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234118,
-      "num": 320255,
-      "word": "苏超",
-      "onboard_time": 1778332161,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 232952,
+      "num": 201522,
+      "word": "张凌赫直播",
+      "onboard_time": 1778333721,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232752,
@@ -1451,19 +1483,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203593,
+      "num": 392781,
+      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
+      "onboard_time": 1778327900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202042,
       "num": 202042,
       "word": "赵丽颖工作室告黑107条",
       "onboard_time": 1778317161,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201522,
-      "num": 201522,
-      "word": "张凌赫直播",
-      "onboard_time": 1778333721,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1507,20 +1539,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192056,
-      "num": 392781,
-      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
-      "onboard_time": 1778327900,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191621,
       "num": 248376,
       "word": "法医称马拉多纳逝前遭12小时折磨",
       "onboard_time": 1778303239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189563,
+      "num": 189563,
+      "word": "周深五月天双厨狂喜",
+      "onboard_time": 1778333241,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 187676,
@@ -1587,20 +1619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "张子墨唱孤雏",
+      "onboard_time": 1778334921,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179774,
       "num": 179774,
       "word": "DRG老板道歉",
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179262,
-      "num": 179262,
-      "word": "周深五月天双厨狂喜",
-      "onboard_time": 1778333241,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 175378,
@@ -1643,6 +1675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174297,
+      "num": 174297,
+      "word": "时代少年团演唱会周边",
+      "onboard_time": 1778334141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174212,
       "num": 174212,
       "word": "浏阳烟花厂墙上挂钟停止在爆炸瞬间",
@@ -1659,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171307,
+      "num": 182440,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1778335102,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168681,
       "num": 168681,
       "word": "唐嫣红裙",
@@ -1673,6 +1721,14 @@
       "onboard_time": 1778287762,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166904,
+      "num": 174368,
+      "word": "南通vs南京",
+      "onboard_time": 1778334022,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165777,
@@ -1699,6 +1755,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 162705,
+      "num": 170185,
+      "word": "斗破苍穹",
+      "onboard_time": 1778334561,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162061,
       "num": 162061,
       "word": "12名农民工遭车位抵薪32万元",
@@ -1715,20 +1779,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159827,
+      "num": 394384,
+      "word": "夸克TV崩了",
+      "onboard_time": 1778332700,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158717,
       "num": 158717,
       "word": "专家称涉事虾为泰国濑尿虾",
       "onboard_time": 1778317281,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157873,
-      "num": 157873,
-      "word": "广东男篮vs北京男篮",
-      "onboard_time": 1778330661,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 156942,
@@ -1808,14 +1872,6 @@
       "word": "张本美和3比1韩莹",
       "onboard_time": 1778325799,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 143411,
-      "num": 143411,
-      "word": "南通vs南京",
-      "onboard_time": 1778334022,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -2091,12 +2147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81420,
-      "num": 343691,
-      "word": "夸克TV崩了",
-      "onboard_time": 1778332700,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 86772,
+      "num": 149517,
+      "word": "OPPO道歉网友为何不埋单",
+      "onboard_time": 1778334082,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 75450,
@@ -2339,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26149,
+      "num": 1235797,
+      "word": "太空快递跑出中国加速度",
+      "onboard_time": 1778333121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25875,
       "num": 1336031,
       "word": "五一消费潜力充分释放",
@@ -2353,14 +2417,6 @@
       "onboard_time": 1778328080,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24455,
-      "num": 1235797,
-      "word": "太空快递跑出中国加速度",
-      "onboard_time": 1778333121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19774,

@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778334077377,
+  "endTime": 1778335213701,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2413445,
+      "num": 2413445,
+      "word": "跑男收视率 浪姐没播",
+      "onboard_time": 1778326938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2361161,
       "num": 683178,
       "word": "大米爆",
@@ -395,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2133316,
-      "num": 2133316,
-      "word": "跑男收视率 浪姐没播",
-      "onboard_time": 1778326938,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2132370,
       "num": 2132370,
       "word": "中国男团vs韩国",
@@ -459,6 +459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1974551,
+      "num": 391698,
+      "word": "曝汪峰森林北分手",
+      "onboard_time": 1778331441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1966238,
+      "num": 1190356,
+      "word": "关晓彤终于遇到了有身高差的男主",
+      "onboard_time": 1778324600,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1947836,
       "num": 316289,
       "word": "周也方要求hi6回应",
@@ -473,14 +489,6 @@
       "onboard_time": 1777767559,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1927007,
-      "num": 1186675,
-      "word": "关晓彤终于遇到了有身高差的男主",
-      "onboard_time": 1778324600,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1922306,
@@ -513,14 +521,6 @@
       "onboard_time": 1778120060,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1834638,
-      "num": 333172,
-      "word": "曝汪峰森林北分手",
-      "onboard_time": 1778331441,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1829185,
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 976653,
-      "num": 474868,
+      "num": 612783,
       "word": "尼坤发福",
       "onboard_time": 1778325382,
       "rank": 17,
@@ -2035,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752301,
+      "num": 639312,
+      "word": "疑似加到了孙怡本人的QQ",
+      "onboard_time": 1778327541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751144,
       "num": 751144,
       "word": "店员笑了一个小时才舍得出餐",
@@ -2203,14 +2211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 717315,
-      "num": 491045,
-      "word": "疑似加到了孙怡本人的QQ",
-      "onboard_time": 1778327541,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 715590,
       "num": 715590,
       "word": "五一排队现状",
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707065,
+      "num": 633958,
+      "word": "香港富豪孙女被绑架案细节披露",
+      "onboard_time": 1778331920,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705138,
       "num": 705138,
       "word": "80斤女生不吃碳水闭经体脂率超标",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1777776859,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 683945,
+      "num": 683945,
+      "word": "安倍晋三遗孀陪赖清德跪日本人",
+      "onboard_time": 1778331021,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 682825,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1778157622,
       "rank": 8,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 643057,
+      "num": 643057,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1778330661,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 641673,
@@ -3147,6 +3171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546669,
+      "num": 546669,
+      "word": "越来越理解什么叫事缓则圆",
+      "onboard_time": 1778324121,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 544975,
       "num": 544975,
       "word": "张一山回应与杨紫20年友情",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532217,
-      "num": 211807,
-      "word": "安倍晋三遗孀陪赖清德跪日本人",
-      "onboard_time": 1778331021,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 529840,
@@ -3651,14 +3675,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 488953,
-      "num": 488953,
-      "word": "越来越理解什么叫事缓则圆",
-      "onboard_time": 1778324121,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 488832,
       "num": 391315,
       "word": "男子养了11年的3个孩子2个非亲生",
@@ -4019,6 +4035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445422,
+      "num": 445422,
+      "word": "国乒女团晋级决赛",
+      "onboard_time": 1778332161,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443013,
       "num": 443013,
       "word": "丁程鑫张真源安慰严浩翔",
@@ -4187,20 +4211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428565,
+      "num": 386192,
+      "word": "遭仅退款榴莲店询单量暴涨数百倍",
+      "onboard_time": 1778332161,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428298,
       "num": 293606,
       "word": "王俊凯去看了五月天",
       "onboard_time": 1778253441,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 426888,
-      "num": 426888,
-      "word": "香港富豪孙女被绑架案细节披露",
-      "onboard_time": 1778331920,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426841,
@@ -4353,6 +4377,14 @@
       "onboard_time": 1778024419,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 409749,
+      "num": 409749,
+      "word": "美国女子做特殊癖好服务致对方身亡",
+      "onboard_time": 1778328801,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 409635,
@@ -4523,20 +4555,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 396248,
-      "num": 396248,
-      "word": "国乒女团晋级决赛",
-      "onboard_time": 1778332161,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396117,
       "num": 396117,
       "word": "九尾发博",
       "onboard_time": 1777822160,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 395926,
+      "num": 395926,
+      "word": "苏超",
+      "onboard_time": 1777721359,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 392854,
@@ -5243,14 +5275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346584,
-      "num": 346584,
-      "word": "美国女子做特殊癖好服务致对方身亡",
-      "onboard_time": 1778328801,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 345931,
       "num": 263782,
       "word": "建议大家去狂刷跨境综艺打破信息差",
@@ -5513,14 +5537,6 @@
       "onboard_time": 1778231901,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 325316,
-      "num": 325316,
-      "word": "遭仅退款榴莲店询单量暴涨数百倍",
-      "onboard_time": 1778332161,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 325227,
@@ -6240,6 +6256,14 @@
       "word": "国乒女团3比0韩国女团",
       "onboard_time": 1778153240,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286867,
+      "num": 286867,
+      "word": "郑钦文vs奥斯塔彭科",
+      "onboard_time": 1778334322,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -7075,6 +7099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246242,
+      "num": 246242,
+      "word": "宋亚轩非常争分夺秒的一条视频",
+      "onboard_time": 1778334621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246208,
       "num": 246208,
       "word": "36岁宝妈用筋膜枪按摩突发脑梗",
@@ -7443,12 +7475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234118,
-      "num": 320255,
-      "word": "苏超",
-      "onboard_time": 1777721359,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 232952,
+      "num": 201522,
+      "word": "张凌赫直播",
+      "onboard_time": 1778333721,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232859,
@@ -8443,6 +8475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203593,
+      "num": 392781,
+      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
+      "onboard_time": 1778327900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203475,
       "num": 221538,
       "word": "新娘的陪嫁是一对龙凤胎",
@@ -8504,14 +8544,6 @@
       "word": "赵丽颖工作室告黑107条",
       "onboard_time": 1778317161,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201522,
-      "num": 201522,
-      "word": "张凌赫直播",
-      "onboard_time": 1778333721,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -8795,14 +8827,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192056,
-      "num": 392781,
-      "word": "抗癌博主杨小龙的洒脱讣告看哭网友",
-      "onboard_time": 1778327900,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191747,
       "num": 400972,
       "word": "刘耀文拍肩安慰严浩翔",
@@ -8897,6 +8921,14 @@
       "onboard_time": 1777962623,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189563,
+      "num": 189563,
+      "word": "周深五月天双厨狂喜",
+      "onboard_time": 1778333241,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 188699,
@@ -9139,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "张子墨唱孤雏",
+      "onboard_time": 1778334921,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180844,
       "num": 180844,
       "word": "来南京下跪才是真忏悔",
@@ -9185,14 +9225,6 @@
       "onboard_time": 1778285481,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179262,
-      "num": 179262,
-      "word": "周深五月天双厨狂喜",
-      "onboard_time": 1778333241,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 179065,
@@ -9427,6 +9459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174297,
+      "num": 174297,
+      "word": "时代少年团演唱会周边",
+      "onboard_time": 1778334141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174212,
       "num": 174212,
       "word": "浏阳烟花厂墙上挂钟停止在爆炸瞬间",
@@ -9521,6 +9561,14 @@
       "onboard_time": 1778309719,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171307,
+      "num": 182440,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1778335102,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 171285,
@@ -9648,6 +9696,14 @@
       "word": "斯诺克",
       "onboard_time": 1777852398,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166904,
+      "num": 174368,
+      "word": "南通vs南京",
+      "onboard_time": 1778334022,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -9779,6 +9835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162705,
+      "num": 170185,
+      "word": "斗破苍穹",
+      "onboard_time": 1778334561,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162061,
       "num": 162061,
       "word": "12名农民工遭车位抵薪32万元",
@@ -9889,6 +9953,14 @@
       "onboard_time": 1778025801,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159827,
+      "num": 394384,
+      "word": "夸克TV崩了",
+      "onboard_time": 1778332700,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 159770,
@@ -10017,14 +10089,6 @@
       "onboard_time": 1778058621,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157873,
-      "num": 157873,
-      "word": "广东男篮vs北京男篮",
-      "onboard_time": 1778330661,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 157701,
@@ -10561,14 +10625,6 @@
       "onboard_time": 1777718241,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143411,
-      "num": 143411,
-      "word": "南通vs南京",
-      "onboard_time": 1778334022,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 143267,
@@ -12291,6 +12347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86772,
+      "num": 149517,
+      "word": "OPPO道歉网友为何不埋单",
+      "onboard_time": 1778334082,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86498,
       "num": 217139,
       "word": "郭晶晶陈若琳假期同框热聊",
@@ -12369,14 +12433,6 @@
       "onboard_time": 1777914558,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81420,
-      "num": 343691,
-      "word": "夸克TV崩了",
-      "onboard_time": 1778332700,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 81080,
@@ -13907,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26149,
+      "num": 1235797,
+      "word": "太空快递跑出中国加速度",
+      "onboard_time": 1778333121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25208,
       "num": 1366017,
       "word": "五一特色专列串起万里山河",
@@ -13953,14 +14017,6 @@
       "onboard_time": 1777790239,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24455,
-      "num": 1235797,
-      "word": "太空快递跑出中国加速度",
-      "onboard_time": 1778333121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23692,
