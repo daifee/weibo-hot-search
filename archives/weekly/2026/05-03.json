@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778289489648,
+  "endTime": 1778298773331,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4177555,
+      "num": 1500518,
+      "word": "调休",
+      "onboard_time": 1778290640,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3915607,
       "num": 3915607,
       "word": "榴莲仅退款买家被行拘",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 3343044,
-      "num": 319960,
+      "num": 521541,
       "word": "李金铭发表情回应",
       "onboard_time": 1778256141,
       "rank": 10,
@@ -297,6 +305,14 @@
       "onboard_time": 1777803623,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2281477,
+      "num": 2281477,
+      "word": "救救跑男",
+      "onboard_time": 1778291360,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2257690,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 1484131,
-      "num": 291304,
+      "num": 471498,
       "word": "刘涛妈祖诞辰守夜",
       "onboard_time": 1778285662,
       "rank": 12,
@@ -665,6 +681,14 @@
       "onboard_time": 1777731022,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1407101,
+      "num": 1407101,
+      "word": "皮皮虾事件游客已删除所有爆料内容",
+      "onboard_time": 1778296220,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1401194,
@@ -1243,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 965016,
+      "num": 534572,
+      "word": "ChatGPT的恐怖我后知后觉",
+      "onboard_time": 1778293941,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 962156,
       "num": 962156,
       "word": "女子怀孕后发现公务员男友无业已婚",
@@ -1452,7 +1484,7 @@
     },
     {
       "raw_hot": 865561,
-      "num": 289788,
+      "num": 374635,
       "word": "中国绝不接受当世界杯提款机",
       "onboard_time": 1778286382,
       "rank": 13,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1778034618,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 839145,
+      "num": 839145,
+      "word": "王暖暖拍摄时突然倒地",
+      "onboard_time": 1778294060,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 838899,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1778241141,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 814651,
+      "num": 814651,
+      "word": "跑男疯狂证明自己",
+      "onboard_time": 1778297541,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 805414,
@@ -1995,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704493,
+      "num": 704493,
+      "word": "奔跑吧回应收视率低",
+      "onboard_time": 1778297780,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697593,
       "num": 697593,
       "word": "小黄豆转发马嘉祺照片",
@@ -2251,6 +2307,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 642285,
+      "num": 521232,
+      "word": "刘涛骂哭新人女演员",
+      "onboard_time": 1778297300,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641673,
       "num": 888378,
       "word": "国乒男团技术已无明显优势",
@@ -2457,6 +2521,14 @@
       "onboard_time": 1778112622,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599156,
+      "num": 460351,
+      "word": "五月天演唱会结束吃点化毛膏吧",
+      "onboard_time": 1778291240,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 597774,
@@ -2721,6 +2793,22 @@
       "onboard_time": 1778121438,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 555636,
+      "num": 555636,
+      "word": "五角大楼公布的UFO画面",
+      "onboard_time": 1778295439,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 553140,
+      "num": 553140,
+      "word": "余华真的读得全身发抖吗",
+      "onboard_time": 1778296039,
+      "rank": 9,
+      "category": "读书作家"
     },
     {
       "raw_hot": 550957,
@@ -3715,12 +3803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425887,
+      "num": 343462,
+      "word": "李现是张婧仪的站姐吧",
+      "onboard_time": 1778294359,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424905,
       "num": 394251,
       "word": "王安宇吃火锅被问是大学生吗",
       "onboard_time": 1777867280,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422494,
+      "num": 333800,
+      "word": "偏偏宠爱 宋威龙包上恩",
+      "onboard_time": 1778295980,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 421753,
@@ -4099,6 +4203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387184,
+      "num": 331208,
+      "word": "田曦薇 刘海",
+      "onboard_time": 1778288001,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387109,
       "num": 387109,
       "word": "5月桃花运最旺的星座",
@@ -4360,14 +4472,6 @@
       "word": "宋亚轩说算哥哥没用",
       "onboard_time": 1777983803,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 365015,
-      "num": 277923,
-      "word": "田曦薇 刘海",
-      "onboard_time": 1778288001,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4763,20 +4867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331369,
+      "num": 331369,
+      "word": "南京富豪遇害凶宅68.2万拍出",
+      "onboard_time": 1778287100,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331139,
       "num": 287167,
       "word": "OPPO倾听批评 评论精选",
       "onboard_time": 1778284640,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 330808,
-      "num": 272976,
-      "word": "南京富豪遇害凶宅68.2万拍出",
-      "onboard_time": 1778287100,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 330138,
@@ -4905,6 +5009,14 @@
       "onboard_time": 1777893982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323348,
+      "num": 323348,
+      "word": "陌生男子趁女生熟睡潜入卧室留体液",
+      "onboard_time": 1778297960,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323067,
@@ -5723,6 +5835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276326,
+      "num": 276326,
+      "word": "中国地铁被谬认为日本还在发生",
+      "onboard_time": 1778289980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275981,
       "num": 693912,
       "word": "李嘉诚套现约455亿港元",
@@ -5969,6 +6089,14 @@
       "onboard_time": 1778241501,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262485,
+      "num": 262485,
+      "word": "小米高管回应保时捷纽北超越SU7",
+      "onboard_time": 1778291300,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 262352,
@@ -6345,6 +6473,14 @@
       "onboard_time": 1778154139,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244946,
+      "num": 365980,
+      "word": "王暖暖差点没抢救回来",
+      "onboard_time": 1778297600,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244763,
@@ -7003,6 +7139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218835,
+      "num": 218835,
+      "word": "香港警方解密湾仔双尸案",
+      "onboard_time": 1778293221,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218691,
       "num": 451988,
       "word": "手机付款怎么变成了贷款",
@@ -7065,6 +7209,14 @@
       "onboard_time": 1777993283,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217013,
+      "num": 217013,
+      "word": "网红七七搭档刘敏涛演戏",
+      "onboard_time": 1778291539,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 216318,
@@ -7273,6 +7425,14 @@
       "onboard_time": 1778212701,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210841,
+      "num": 210841,
+      "word": "王暖暖自曝长期遭MCN公司压榨",
+      "onboard_time": 1778298500,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 210051,
@@ -8035,6 +8195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184195,
+      "num": 184195,
+      "word": "奇迹暖暖",
+      "onboard_time": 1778298441,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184186,
       "num": 184186,
       "word": "大衣哥握手太多致手指被真菌感染",
@@ -8296,6 +8464,14 @@
       "word": "2026年伦敦世乒赛",
       "onboard_time": 1777833855,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175352,
+      "num": 175352,
+      "word": "罗马尼亚女队获胜后跳上球台庆祝",
+      "onboard_time": 1778295319,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -8691,6 +8867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162061,
+      "num": 162061,
+      "word": "12名农民工遭车位抵薪32万元",
+      "onboard_time": 1778292799,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161994,
       "num": 161994,
       "word": "第一次听多肉叫",
@@ -8947,12 +9131,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 156942,
+      "num": 156942,
+      "word": "DeepSeek分析跑男收视率创新低原因",
+      "onboard_time": 1778296340,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156916,
       "num": 156916,
       "word": "周奇墨脱口秀调侃F1事故并植入广告",
       "onboard_time": 1778123780,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156888,
+      "num": 185668,
+      "word": "保罗乔治首节15分全场不得15分啊",
+      "onboard_time": 1778297960,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 156730,
@@ -9155,6 +9355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151659,
+      "num": 151659,
+      "word": "13岁女孩沉迷二次元花光家里18万",
+      "onboard_time": 1778298199,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151541,
       "num": 151541,
       "word": "FIFA涨价理由",
@@ -9193,6 +9401,14 @@
       "onboard_time": 1777980142,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150020,
+      "num": 150020,
+      "word": "律师谈李金铭消失风波",
+      "onboard_time": 1778293941,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 149905,
@@ -10275,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119426,
+      "num": 119426,
+      "word": "英伟达新技术翻车",
+      "onboard_time": 1778292739,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 119307,
       "num": 119307,
       "word": "星空卫视下星",
@@ -11011,6 +11235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84631,
+      "num": 184576,
+      "word": "DeepSeek正式跨入图文交互时代",
+      "onboard_time": 1778298620,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83933,
       "num": 247707,
       "word": "马嘉祺给丁程鑫撑伞",
@@ -11169,6 +11401,14 @@
       "onboard_time": 1778067622,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76305,
+      "num": 324286,
+      "word": "尚界Z7挑战世界落差最高山路",
+      "onboard_time": 1778297659,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 76195,
@@ -11520,6 +11760,14 @@
       "word": "男子称爷爷30年前捐赠书画去向不明",
       "onboard_time": 1778126603,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54939,
+      "num": 352929,
+      "word": "支付宝把马鞍山变成南京应援主场",
+      "onboard_time": 1778295740,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -12243,6 +12491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32882,
+      "num": 210603,
+      "word": "海鲜老板称应季泰虾700多一斤正常",
+      "onboard_time": 1778298681,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32826,
       "num": 224961,
       "word": "印度女警穿便衣巡逻被近40名男子接近",
@@ -12387,6 +12643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 27593,
+      "num": 370480,
+      "word": "红场阅兵前普京密集会见外国领导人",
+      "onboard_time": 1778298260,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27535,
       "num": 75086,
       "word": "AG战胜WST",
@@ -12401,6 +12665,14 @@
       "onboard_time": 1777922054,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27280,
+      "num": 184284,
+      "word": "王暖暖说一年200多场直播超负荷",
+      "onboard_time": 1778298320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26957,
@@ -12819,6 +13091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 8115,
+      "num": 210434,
+      "word": "上海迪士尼游客通话不能录音新进展",
+      "onboard_time": 1778298681,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 5692,
       "num": 139975,
       "word": "湖南广电已经用AI开始播新闻了",
@@ -12857,6 +13137,14 @@
       "onboard_time": 1777813283,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3171,
+      "num": 1544564,
+      "word": "好的营商环境就是生产力",
+      "onboard_time": 1778293038,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3155,
@@ -12975,6 +13263,9 @@
     },
     {
       "word": "#从0到1步步向前#"
+    },
+    {
+      "word": "#总书记引领能源强国建设#"
     }
   ]
 }
