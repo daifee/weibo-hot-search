@@ -1,0 +1,410 @@
+{
+  "runTime": 1778322840419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1175123,
+        "num": 1188019,
+        "word": "车企锁电",
+        "onboard_time": 1778309959,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1101660,
+        "num": 1101660,
+        "word": "给阿嬷的情书剧组穷成这样",
+        "onboard_time": 1778310500,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22995,
+        "num": 669569,
+        "word": "我国外贸延续良好增长态势",
+        "onboard_time": 1778314999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602222,
+        "num": 602222,
+        "word": "罗马尼亚女团踩坏比赛球台",
+        "onboard_time": 1778317220,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590138,
+        "num": 590138,
+        "word": "跑男转发区",
+        "onboard_time": 1778316982,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569197,
+        "num": 569197,
+        "word": "张继科谈国乒男团进四强",
+        "onboard_time": 1778319260,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565638,
+        "num": 565638,
+        "word": "6岁男童吃生菜后血肿感染寄生虫",
+        "onboard_time": 1778314400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532336,
+        "num": 532336,
+        "word": "曝王一博将进组刺客",
+        "onboard_time": 1778320400,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503184,
+        "num": 503184,
+        "word": "女儿的100个橡皮",
+        "onboard_time": 1778320640,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347442,
+        "num": 347442,
+        "word": "母亲节礼物",
+        "onboard_time": 1778311340,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425166,
+        "num": 347290,
+        "word": "奔跑吧回应收视率低",
+        "onboard_time": 1778297780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404051,
+        "num": 345163,
+        "word": "男子贷27万离世银行追债30万",
+        "onboard_time": 1778312959,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398476,
+        "num": 344606,
+        "word": "邓超发际线被打码",
+        "onboard_time": 1778314040,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380614,
+        "num": 343161,
+        "word": "汪卓成被好莱坞找去演男主以为是诈骗",
+        "onboard_time": 1778309959,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378336,
+        "num": 342172,
+        "word": "国际足联急了",
+        "onboard_time": 1778322141,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198642,
+        "num": 340379,
+        "word": "淘宝免单",
+        "onboard_time": 1778297119,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131155,
+        "num": 339291,
+        "word": "8名中国人赴泰私拍短剧被逮捕",
+        "onboard_time": 1778301622,
+        "rank": 16,
+        "category": "海外新闻,作品衍生"
+      },
+      {
+        "raw_hot": 7995,
+        "num": 338918,
+        "word": "苏超联赛",
+        "onboard_time": 1778322141,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46927,
+        "num": 336987,
+        "word": "母亲节30分钟异地送礼成主流",
+        "onboard_time": 1778321120,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54226,
+        "num": 335761,
+        "word": "790万新房全屋换过还是发霉",
+        "onboard_time": 1778321722,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1145063,
+        "num": 335330,
+        "word": "世界杯转播权",
+        "onboard_time": 1778305041,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361127,
+        "num": 333819,
+        "word": "张凌赫害怕大家看不懂",
+        "onboard_time": 1778322141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355723,
+        "num": 332348,
+        "word": "王楚钦在训练场得知国乒拿下韩国",
+        "onboard_time": 1778317759,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331889,
+        "num": 331889,
+        "word": "中国烧烤店是天价世界杯第一个受害者",
+        "onboard_time": 1778322020,
+        "rank": 23,
+        "category": "议题讨论,体育"
+      },
+      {
+        "raw_hot": 317942,
+        "num": 317942,
+        "word": "淘宝免单 李小冉",
+        "onboard_time": 1778313259,
+        "rank": 24,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 287553,
+        "num": 287553,
+        "word": "张桂源给陈奕恒的祝福",
+        "onboard_time": 1778318901,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276875,
+        "num": 276875,
+        "word": "有洁癖的人洗小龙虾",
+        "onboard_time": 1778313201,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243281,
+        "num": 243281,
+        "word": "国际乒联为球台故障焦头烂额",
+        "onboard_time": 1778315121,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100950,
+        "num": 243161,
+        "word": "西方抹黑中国换新词了",
+        "onboard_time": 1778314460,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156579,
+        "num": 243119,
+        "word": "谁来为无子女老人晚年兜底",
+        "onboard_time": 1778309781,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 75450,
+        "num": 243109,
+        "word": "前TSM辅助被斯坦福录取",
+        "onboard_time": 1778321360,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243108,
+        "num": 243108,
+        "word": "密室大逃脱 张真源",
+        "onboard_time": 1778299760,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225124,
+        "num": 225124,
+        "word": "白鹿主动让C",
+        "onboard_time": 1778300240,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209249,
+        "num": 209249,
+        "word": "女子打水光针后吃小龙虾满脸肉芽肿",
+        "onboard_time": 1778318360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204427,
+        "num": 204427,
+        "word": "不小心把晚安发给了妈妈",
+        "onboard_time": 1778320280,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186461,
+        "num": 186461,
+        "word": "赵丽颖工作室告黑107条",
+        "onboard_time": 1778317161,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172937,
+        "num": 172937,
+        "word": "榴莲仅退款事件有女生被误伤",
+        "onboard_time": 1778318300,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166779,
+        "num": 166779,
+        "word": "演员于娜回应减掉30斤",
+        "onboard_time": 1778316680,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56722,
+        "num": 155687,
+        "word": "解放军主战舰艇编队进入澎湖西南海域",
+        "onboard_time": 1778322499,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 9924,
+        "num": 155309,
+        "word": "黄健翔说各地学苏超不能全学",
+        "onboard_time": 1778322080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155191,
+        "num": 155191,
+        "word": "谁敢信这是同一天的杨幂",
+        "onboard_time": 1778304199,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41963,
+        "num": 154329,
+        "word": "杜海涛美食大赛晒妈妈拿手菜",
+        "onboard_time": 1778322201,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 154056,
+        "word": "长大后我开始富养妈妈",
+        "onboard_time": 1778320159,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154055,
+        "num": 154055,
+        "word": "向太说郭碧婷拿捏了公婆的心",
+        "onboard_time": 1778305461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153238,
+        "num": 153238,
+        "word": "给阿嬷的情书 赞助商赞助了100杯奶茶",
+        "onboard_time": 1778321960,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112819,
+        "num": 151941,
+        "word": "AI模型 电子毒品",
+        "onboard_time": 1778319801,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90870,
+        "num": 150967,
+        "word": "问界汽车否认被约谈",
+        "onboard_time": 1778315660,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82633,
+        "num": 149113,
+        "word": "俄罗斯红场阅兵全场高呼乌拉",
+        "onboard_time": 1778317641,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153620,
+        "num": 148012,
+        "word": "陈奕恒翻唱Marry",
+        "onboard_time": 1778315121,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185760,
+        "num": 146414,
+        "word": "无忧传媒已暂停王暖暖所有活动",
+        "onboard_time": 1778315841,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这些典故领悟总书记的政绩观#"
+    }
+  }
+}

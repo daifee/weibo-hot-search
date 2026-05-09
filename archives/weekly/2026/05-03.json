@@ -1,6 +1,6 @@
 {
   "startTime": 1777738195306,
-  "endTime": 1778321655396,
+  "endTime": 1778322840419,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -2691,6 +2691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 602222,
+      "num": 602222,
+      "word": "罗马尼亚女团踩坏比赛球台",
+      "onboard_time": 1778317220,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600712,
       "num": 400096,
       "word": "EXO ai篡改记忆",
@@ -2907,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569197,
+      "num": 569197,
+      "word": "张继科谈国乒男团进四强",
+      "onboard_time": 1778319260,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568369,
       "num": 639734,
       "word": "除非白鹿不想录了",
@@ -3113,14 +3129,6 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530133,
-      "num": 530133,
-      "word": "张继科谈国乒男团进四强",
-      "onboard_time": 1778319260,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 529840,
@@ -3345,6 +3353,14 @@
       "onboard_time": 1777954101,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 503184,
+      "num": 503184,
+      "word": "女儿的100个橡皮",
+      "onboard_time": 1778320640,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 502474,
@@ -3672,14 +3688,6 @@
       "word": "詹姆斯一句0比2堵住所有问题",
       "onboard_time": 1778227820,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 465752,
-      "num": 465752,
-      "word": "罗马尼亚女团踩坏比赛球台",
-      "onboard_time": 1778317220,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -4500,7 +4508,7 @@
     },
     {
       "raw_hot": 384368,
-      "num": 237029,
+      "num": 332348,
       "word": "王楚钦在训练场得知国乒拿下韩国",
       "onboard_time": 1778317759,
       "rank": 15,
@@ -4569,6 +4577,14 @@
       "onboard_time": 1778110158,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 378336,
+      "num": 342172,
+      "word": "国际足联急了",
+      "onboard_time": 1778322141,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 377781,
@@ -4803,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 361127,
+      "num": 333819,
+      "word": "张凌赫害怕大家看不懂",
+      "onboard_time": 1778322141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360305,
       "num": 360305,
       "word": "马嘉祺丁程鑫雨爱",
@@ -4964,7 +4988,7 @@
     },
     {
       "raw_hot": 351293,
-      "num": 216090,
+      "num": 287553,
       "word": "张桂源给陈奕恒的祝福",
       "onboard_time": 1778318901,
       "rank": 22,
@@ -5177,6 +5201,14 @@
       "onboard_time": 1778030540,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331889,
+      "num": 331889,
+      "word": "中国烧烤店是天价世界杯第一个受害者",
+      "onboard_time": 1778322020,
+      "rank": 23,
+      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 331369,
@@ -6171,11 +6203,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276742,
-      "num": 215812,
-      "word": "女儿的100个橡皮",
-      "onboard_time": 1778320640,
-      "rank": 23,
+      "raw_hot": 276875,
+      "num": 368773,
+      "word": "有洁癖的人洗小龙虾",
+      "onboard_time": 1778313201,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -6280,14 +6312,6 @@
       "word": "代课 交换人生",
       "onboard_time": 1778128522,
       "rank": 9,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 271414,
-      "num": 368773,
-      "word": "有洁癖的人洗小龙虾",
-      "onboard_time": 1778313201,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -9923,6 +9947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153238,
+      "num": 153238,
+      "word": "给阿嬷的情书 赞助商赞助了100杯奶茶",
+      "onboard_time": 1778321960,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153182,
       "num": 304247,
       "word": "南非失踪商人疑被大肚鳄鱼吞食",
@@ -10281,6 +10313,14 @@
       "onboard_time": 1777789040,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140478,
+      "num": 154056,
+      "word": "长大后我开始富养妈妈",
+      "onboard_time": 1778320159,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 140268,
@@ -11347,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112819,
+      "num": 156997,
+      "word": "AI模型 电子毒品",
+      "onboard_time": 1778319801,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111741,
       "num": 260223,
       "word": "被AI误导闯入毒蛇窝女子发声",
@@ -11731,14 +11779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96010,
-      "num": 156997,
-      "word": "AI模型 电子毒品",
-      "onboard_time": 1778319801,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 95800,
       "num": 105483,
       "word": "KPL抽签",
@@ -11971,6 +12011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82633,
+      "num": 149113,
+      "word": "俄罗斯红场阅兵全场高呼乌拉",
+      "onboard_time": 1778317641,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82416,
       "num": 587682,
       "word": "佳偶天成 人类应该写出的剧本",
@@ -12137,6 +12185,14 @@
       "onboard_time": 1778056643,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75450,
+      "num": 243109,
+      "word": "前TSM辅助被斯坦福录取",
+      "onboard_time": 1778321360,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 74117,
@@ -12443,6 +12499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56722,
+      "num": 155687,
+      "word": "解放军主战舰艇编队进入澎湖西南海域",
+      "onboard_time": 1778322499,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 56165,
       "num": 132464,
       "word": "怦然恋综三对亮明牌cp",
@@ -12521,6 +12585,14 @@
       "onboard_time": 1778083939,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54226,
+      "num": 335761,
+      "word": "790万新房全屋换过还是发霉",
+      "onboard_time": 1778321722,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53944,
@@ -12731,6 +12803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46927,
+      "num": 336987,
+      "word": "母亲节30分钟异地送礼成主流",
+      "onboard_time": 1778321120,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46778,
       "num": 237285,
       "word": "你好星期六",
@@ -12883,6 +12963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41963,
+      "num": 154329,
+      "word": "杜海涛美食大赛晒妈妈拿手菜",
+      "onboard_time": 1778322201,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41948,
       "num": 441033,
       "word": "著名法学家王连昌逝世",
@@ -12921,14 +13009,6 @@
       "onboard_time": 1777750215,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41002,
-      "num": 213789,
-      "word": "前TSM辅助被斯坦福录取",
-      "onboard_time": 1778321360,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 40668,
@@ -13001,14 +13081,6 @@
       "onboard_time": 1777834516,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39626,
-      "num": 211543,
-      "word": "母亲节30分钟异地送礼成主流",
-      "onboard_time": 1778321120,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39604,
@@ -13907,6 +13979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 9924,
+      "num": 155309,
+      "word": "黄健翔说各地学苏超不能全学",
+      "onboard_time": 1778322080,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9740,
       "num": 281164,
       "word": "切尔诺贝利核禁区火烧了1100公顷",
@@ -13937,6 +14017,14 @@
       "onboard_time": 1778298681,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 7995,
+      "num": 338918,
+      "word": "苏超联赛",
+      "onboard_time": 1778322141,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 5692,
