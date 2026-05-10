@@ -1,6 +1,6 @@
 {
   "startTime": 1778429106514,
-  "endTime": 1778443893489,
+  "endTime": 1778446707210,
   "band_list": [
     {
       "raw_hot": 10266341,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514780,
+      "num": 514780,
+      "word": "国乒男团3比0大胜日本",
+      "onboard_time": 1778434696,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492980,
       "num": 492980,
       "word": "主角收视率",
@@ -233,14 +241,6 @@
       "onboard_time": 1778416280,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345957,
-      "num": 345957,
-      "word": "国乒男团3比0大胜日本",
-      "onboard_time": 1778434696,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 342614,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128998,
+      "num": 38640,
+      "word": "王楚钦回应国乒男团夺冠",
+      "onboard_time": 1778440693,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124450,
       "num": 132581,
       "word": "孙颖莎庆祝动作好燃",
@@ -595,14 +603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64905,
-      "num": 38640,
-      "word": "王楚钦回应国乒男团夺冠",
-      "onboard_time": 1778440693,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60532,
       "num": 108349,
       "word": "孙颖莎三克油艾瑞万",
@@ -635,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47633,
+      "num": 47633,
+      "word": "国乒男团做到了",
+      "onboard_time": 1778440875,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47362,
       "num": 47362,
       "word": "林诗栋11比9户上隼辅",
@@ -651,11 +659,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35732,
-      "num": 35732,
-      "word": "国乒男团做到了",
-      "onboard_time": 1778440875,
-      "rank": 38,
+      "raw_hot": 32304,
+      "num": 32304,
+      "word": "国乒男女团双杀日本",
+      "onboard_time": 1778445133,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -665,6 +673,46 @@
       "onboard_time": 1778442915,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30575,
+      "num": 30575,
+      "word": "伦敦赛场再奏义勇军进行曲",
+      "onboard_time": 1778444234,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28003,
+      "num": 28003,
+      "word": "林诗栋3比1户上隼辅",
+      "onboard_time": 1778443933,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26611,
+      "num": 26611,
+      "word": "孙颖莎世乒赛个人全胜",
+      "onboard_time": 1778446515,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25130,
+      "num": 26451,
+      "word": "国乒一晚双冠",
+      "onboard_time": 1778446154,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23350,
+      "num": 26451,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 12154,
