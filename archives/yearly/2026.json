@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778434346017,
+  "endTime": 1778435909976,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -729,6 +729,14 @@
       "onboard_time": 1770303387,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7756637,
+      "num": 7756637,
+      "word": "国乒男团12连冠",
+      "onboard_time": 1778434518,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 7482738,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770269963,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2601228,
-      "num": 738524,
-      "word": "张雪峰团队老师整夜未眠",
-      "onboard_time": 1774413086,
-      "rank": 5,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
