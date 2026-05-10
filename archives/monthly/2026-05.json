@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778453861244,
+  "endTime": 1778454964623,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4019037,
+      "num": 4019037,
+      "word": "国乒男团3比0大胜日本",
+      "onboard_time": 1778434696,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3998872,
       "num": 461035,
       "word": "白鹿 跑男",
@@ -281,14 +289,6 @@
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3389871,
-      "num": 3389871,
-      "word": "国乒男团3比0大胜日本",
-      "onboard_time": 1778434696,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 3343044,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1777904963,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 941819,
+      "num": 970239,
+      "word": "优酷官宣藏海传2等高分续作",
+      "onboard_time": 1778454679,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 934711,
@@ -4747,6 +4755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534448,
+      "num": 317718,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533278,
       "num": 533278,
       "word": "央视或低价拿下世界杯转播权",
@@ -4768,14 +4784,6 @@
       "word": "孙颖莎哽咽了",
       "onboard_time": 1778423485,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 530280,
-      "num": 317718,
-      "word": "梁靖崑逆转张本智和",
-      "onboard_time": 1778429482,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -5043,6 +5051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 510510,
+      "num": 218109,
+      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+      "onboard_time": 1778454737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509319,
       "num": 485996,
       "word": "曝钱天一退役自主择业",
@@ -5068,7 +5084,7 @@
     },
     {
       "raw_hot": 506049,
-      "num": 132666,
+      "num": 217589,
       "word": "王楚钦回应国乒男团夺冠",
       "onboard_time": 1778440693,
       "rank": 30,
@@ -8516,7 +8532,7 @@
     },
     {
       "raw_hot": 300824,
-      "num": 240308,
+      "num": 247994,
       "word": "阿森纳",
       "onboard_time": 1778436495,
       "rank": 10,
@@ -9201,6 +9217,14 @@
       "onboard_time": 1778432418,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276828,
+      "num": 215048,
+      "word": "中国妇女报评OPPO母亲节文案",
+      "onboard_time": 1778422400,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 276677,
@@ -9961,6 +9985,14 @@
       "onboard_time": 1778337502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251882,
+      "num": 251882,
+      "word": "有生之年还能看见猪肉下岗",
+      "onboard_time": 1778452276,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 251417,
@@ -11539,14 +11571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213800,
-      "num": 213800,
-      "word": "中国妇女报评OPPO母亲节文案",
-      "onboard_time": 1778422400,
-      "rank": 35,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 213701,
       "num": 674179,
       "word": "王橹杰疯癫实录",
@@ -12619,6 +12643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190239,
+      "num": 208778,
+      "word": "孙颖莎不停支招王曼昱",
+      "onboard_time": 1778454258,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190161,
       "num": 271402,
       "word": "日本几乎已无巢鸭监狱痕迹",
@@ -12713,6 +12745,14 @@
       "onboard_time": 1777886422,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187720,
+      "num": 207220,
+      "word": "王楚钦当选MVP",
+      "onboard_time": 1778454439,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 187676,
@@ -12833,6 +12873,14 @@
       "onboard_time": 1778047641,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184773,
+      "num": 206969,
+      "word": "原来这才是有效的控糖方式",
+      "onboard_time": 1778452396,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184766,
@@ -13065,6 +13113,14 @@
       "onboard_time": 1778118320,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180732,
+      "num": 205964,
+      "word": "严浩翔正常毕业流程当中",
+      "onboard_time": 1778454018,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 180612,
@@ -13561,6 +13617,14 @@
       "onboard_time": 1777853239,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173228,
+      "num": 199013,
+      "word": "朱丹曝有人做医美吃止痛片",
+      "onboard_time": 1778454197,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 173150,
@@ -14193,6 +14257,14 @@
       "onboard_time": 1777718061,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160342,
+      "num": 197004,
+      "word": "半挂司机养了只半挂猫",
+      "onboard_time": 1778453538,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 159916,
@@ -15723,6 +15795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131440,
+      "num": 195053,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 131417,
       "num": 181330,
       "word": "一高校招事业编被指近半数为萝卜岗",
@@ -15756,7 +15836,7 @@
     },
     {
       "raw_hot": 131230,
-      "num": 129643,
+      "num": 191516,
       "word": "王楚钦说一切都值得",
       "onboard_time": 1778439914,
       "rank": 20,
@@ -15785,6 +15865,14 @@
       "onboard_time": 1778033540,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130662,
+      "num": 194315,
+      "word": "17岁的张桂源",
+      "onboard_time": 1778454018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130407,
@@ -15849,14 +15937,6 @@
       "onboard_time": 1778159483,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 129361,
-      "num": 129361,
-      "word": "有生之年还能看见猪肉下岗",
-      "onboard_time": 1778452276,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 129211,
@@ -16283,6 +16363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122130,
+      "num": 192661,
+      "word": "巴萨2比0皇马",
+      "onboard_time": 1778454617,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122055,
       "num": 336734,
       "word": "日本男团2比3法国",
@@ -16497,14 +16585,6 @@
       "onboard_time": 1777606458,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 119101,
-      "num": 119101,
-      "word": "原来这才是有效的控糖方式",
-      "onboard_time": 1778452396,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 119059,
@@ -17419,14 +17499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96087,
-      "num": 66617,
-      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
-      "onboard_time": 1778445673,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 96039,
       "num": 96039,
       "word": "王濛缺席帮唱选曲就没人弄清规则了",
@@ -18035,6 +18107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77161,
+      "num": 202804,
+      "word": "梁家辉方回应接触狩谎",
+      "onboard_time": 1778437215,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77076,
       "num": 312667,
       "word": "DeepSeek拟人 哇呀啧呜哇",
@@ -18393,14 +18473,6 @@
       "onboard_time": 1778061201,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67743,
-      "num": 80535,
-      "word": "梁家辉方回应接触狩谎",
-      "onboard_time": 1778437215,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 65723,
@@ -19339,14 +19411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45006,
-      "num": 55865,
-      "word": "半挂司机养了只半挂猫",
-      "onboard_time": 1778453538,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 44981,
       "num": 759428,
       "word": "23岁小伙开挖机滚落山崖遇难",
@@ -19801,6 +19865,14 @@
       "onboard_time": 1778243121,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35573,
+      "num": 187790,
+      "word": "歌手2026阵容和热度不会差",
+      "onboard_time": 1778454018,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 35472,
@@ -21275,6 +21347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3792,
+      "num": 211731,
+      "word": "美客机撞到人致其被吸入引擎死亡",
+      "onboard_time": 1778454018,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3237,
+      "num": 183520,
+      "word": "种地吧4见天地宣传片",
+      "onboard_time": 1778454018,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3171,
       "num": 1544564,
       "word": "好的营商环境就是生产力",
@@ -21369,6 +21457,14 @@
       "onboard_time": 1777716081,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1226,
+      "num": 182693,
+      "word": "何赛飞回应节目中怒批姜贞羽",
+      "onboard_time": 1778454078,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 754,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1778454964623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4019037,
+        "num": 4019037,
+        "word": "国乒男团3比0大胜日本",
+        "onboard_time": 1778434696,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941819,
+        "num": 970239,
+        "word": "优酷官宣藏海传2等高分续作",
+        "onboard_time": 1778454679,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49457,
+        "num": 742834,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672534,
+        "num": 672534,
+        "word": "身体的炎症全部消失22个tips",
+        "onboard_time": 1778414660,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 620142,
+        "num": 620142,
+        "word": "国乒男团12连冠",
+        "onboard_time": 1778434518,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377954,
+        "num": 377954,
+        "word": "盼弟 来弟",
+        "onboard_time": 1778419461,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251882,
+        "num": 251882,
+        "word": "有生之年还能看见猪肉下岗",
+        "onboard_time": 1778452276,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247994,
+        "num": 247994,
+        "word": "阿森纳",
+        "onboard_time": 1778436495,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243328,
+        "num": 243328,
+        "word": "孙颖莎新世纪中国女乒单届最佳战绩",
+        "onboard_time": 1778429183,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219564,
+        "num": 219564,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1778429482,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534448,
+        "num": 219533,
+        "word": "梁靖崑逆转张本智和",
+        "onboard_time": 1778429482,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510510,
+        "num": 218109,
+        "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+        "onboard_time": 1778454737,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490187,
+        "num": 217589,
+        "word": "王楚钦回应国乒男团夺冠",
+        "onboard_time": 1778440693,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415282,
+        "num": 216917,
+        "word": "王曼昱哭了",
+        "onboard_time": 1778421684,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340215,
+        "num": 215888,
+        "word": "王曼昱说孙颖莎站了出来",
+        "onboard_time": 1778431400,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276828,
+        "num": 215048,
+        "word": "中国妇女报评OPPO母亲节文案",
+        "onboard_time": 1778422400,
+        "rank": 15,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 251195,
+        "num": 213509,
+        "word": "村民被眼镜王蛇咬伤打了13支血清",
+        "onboard_time": 1778426302,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213446,
+        "num": 213446,
+        "word": "林诗栋vs户上隼辅",
+        "onboard_time": 1778431879,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116806,
+        "num": 212877,
+        "word": "主角收视率",
+        "onboard_time": 1778423063,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3792,
+        "num": 211731,
+        "word": "美客机撞到人致其被吸入引擎死亡",
+        "onboard_time": 1778454018,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234740,
+        "num": 210735,
+        "word": "宋祖儿的腿瘦凹回去了",
+        "onboard_time": 1778425042,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208270,
+        "num": 210014,
+        "word": "汉坦病毒邮轮零号病人身份曝光",
+        "onboard_time": 1778412680,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190239,
+        "num": 208778,
+        "word": "孙颖莎不停支招王曼昱",
+        "onboard_time": 1778454258,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187720,
+        "num": 207220,
+        "word": "王楚钦当选MVP",
+        "onboard_time": 1778454439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184773,
+        "num": 206969,
+        "word": "原来这才是有效的控糖方式",
+        "onboard_time": 1778452396,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 205964,
+        "word": "严浩翔正常毕业流程当中",
+        "onboard_time": 1778454018,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176699,
+        "num": 204181,
+        "word": "梁靖崑让二追三的神",
+        "onboard_time": 1778429720,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171886,
+        "num": 203863,
+        "word": "吃出24块鸡头顾客被免单仍想市监介入",
+        "onboard_time": 1778423003,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77161,
+        "num": 202804,
+        "word": "梁家辉方回应接触狩谎",
+        "onboard_time": 1778437215,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42439,
+        "num": 201035,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 200465,
+        "word": "睫毛掉进眼睛里钙化了",
+        "onboard_time": 1778418859,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 199013,
+        "word": "朱丹曝有人做医美吃止痛片",
+        "onboard_time": 1778454197,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160480,
+        "num": 198637,
+        "word": "身体有炎症要忌口4种食物",
+        "onboard_time": 1778423844,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160342,
+        "num": 197004,
+        "word": "半挂司机养了只半挂猫",
+        "onboard_time": 1778453538,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134047,
+        "num": 196387,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1778427022,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131440,
+        "num": 195053,
+        "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+        "onboard_time": 1778445673,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130662,
+        "num": 194315,
+        "word": "17岁的张桂源",
+        "onboard_time": 1778454018,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 192661,
+        "word": "巴萨2比0皇马",
+        "onboard_time": 1778454617,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110013,
+        "num": 191516,
+        "word": "王楚钦说一切都值得",
+        "onboard_time": 1778439914,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104702,
+        "num": 191023,
+        "word": "中国男团vs日本",
+        "onboard_time": 1778425282,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90767,
+        "num": 189890,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87477,
+        "num": 188650,
+        "word": "央视曝光三无手搓汽车",
+        "onboard_time": 1778421803,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35573,
+        "num": 187790,
+        "word": "歌手2026阵容和热度不会差",
+        "onboard_time": 1778454018,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84295,
+        "num": 186178,
+        "word": "世乒赛收视率破8",
+        "onboard_time": 1778430979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75076,
+        "num": 185611,
+        "word": "Giselle疑似与男制作人同游夏威夷",
+        "onboard_time": 1778428701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72886,
+        "num": 184348,
+        "word": "马龙许昕为孙颖莎鼓掌",
+        "onboard_time": 1778423123,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3237,
+        "num": 183520,
+        "word": "种地吧4见天地宣传片",
+        "onboard_time": 1778454018,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1226,
+        "num": 182693,
+        "word": "何赛飞回应节目中怒批姜贞羽",
+        "onboard_time": 1778454078,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71503,
+        "num": 181426,
+        "word": "孙颖莎MVP",
+        "onboard_time": 1778422464,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71670,
+        "num": 180216,
+        "word": "水谷隼盛赞孙颖莎伟大",
+        "onboard_time": 1778426783,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}

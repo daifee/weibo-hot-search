@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778453861244,
+  "endTime": 1778454964623,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4019037,
+      "num": 4019037,
+      "word": "国乒男团3比0大胜日本",
+      "onboard_time": 1778434696,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3982546,
       "num": 3982546,
       "word": "王曼昱哭了",
@@ -81,14 +89,6 @@
       "onboard_time": 1778392639,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3389871,
-      "num": 3389871,
-      "word": "国乒男团3比0大胜日本",
-      "onboard_time": 1778434696,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 2992505,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 941819,
+      "num": 970239,
+      "word": "优酷官宣藏海传2等高分续作",
+      "onboard_time": 1778454679,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 934471,
       "num": 934471,
       "word": "原来这么多年牙齿都在负重前行",
@@ -699,19 +707,19 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 534448,
+      "num": 317718,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531575,
       "num": 521448,
       "word": "孙颖莎哽咽了",
       "onboard_time": 1778423485,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 530280,
-      "num": 317718,
-      "word": "梁靖崑逆转张本智和",
-      "onboard_time": 1778429482,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -739,8 +747,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510510,
+      "num": 218109,
+      "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+      "onboard_time": 1778454737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506049,
-      "num": 132666,
+      "num": 217589,
       "word": "王楚钦回应国乒男团夺冠",
       "onboard_time": 1778440693,
       "rank": 30,
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 300824,
-      "num": 240308,
+      "num": 247994,
       "word": "阿森纳",
       "onboard_time": 1778436495,
       "rank": 10,
@@ -1315,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276828,
+      "num": 215048,
+      "word": "中国妇女报评OPPO母亲节文案",
+      "onboard_time": 1778422400,
+      "rank": 35,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 274334,
       "num": 274334,
       "word": "王楚钦15比13科顿",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1778373259,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251882,
+      "num": 251882,
+      "word": "有生之年还能看见猪肉下岗",
+      "onboard_time": 1778452276,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 251284,
@@ -1611,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213800,
-      "num": 213800,
-      "word": "中国妇女报评OPPO母亲节文案",
-      "onboard_time": 1778422400,
-      "rank": 35,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 208172,
       "num": 221086,
       "word": "张继科说世乒赛团体赛都是单打独斗",
@@ -1699,6 +1723,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 190239,
+      "num": 208778,
+      "word": "孙颖莎不停支招王曼昱",
+      "onboard_time": 1778454258,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189372,
       "num": 276565,
       "word": "中国男团vs日本对阵名单",
@@ -1723,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187720,
+      "num": 207220,
+      "word": "王楚钦当选MVP",
+      "onboard_time": 1778454439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187452,
       "num": 215009,
       "word": "47名消费者准备正式起诉张静初",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1778398761,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184773,
+      "num": 206969,
+      "word": "原来这才是有效的控糖方式",
+      "onboard_time": 1778452396,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184382,
@@ -1803,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180732,
+      "num": 205964,
+      "word": "严浩翔正常毕业流程当中",
+      "onboard_time": 1778454018,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180080,
       "num": 180080,
       "word": "梁靖崑回应惊天逆转",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1778384480,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 173228,
+      "num": 199013,
+      "word": "朱丹曝有人做医美吃止痛片",
+      "onboard_time": 1778454197,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 173150,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1778387299,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160342,
+      "num": 197004,
+      "word": "半挂司机养了只半挂猫",
+      "onboard_time": 1778453538,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 159443,
@@ -2099,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131440,
+      "num": 195053,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 131383,
       "num": 128775,
       "word": "骑士1比2活塞",
@@ -2108,11 +2188,19 @@
     },
     {
       "raw_hot": 131230,
-      "num": 129643,
+      "num": 191516,
       "word": "王楚钦说一切都值得",
       "onboard_time": 1778439914,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130662,
+      "num": 194315,
+      "word": "17岁的张桂源",
+      "onboard_time": 1778454018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 129918,
@@ -2121,14 +2209,6 @@
       "onboard_time": 1778377459,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129361,
-      "num": 129361,
-      "word": "有生之年还能看见猪肉下岗",
-      "onboard_time": 1778452276,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 128512,
@@ -2171,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122130,
+      "num": 192661,
+      "word": "巴萨2比0皇马",
+      "onboard_time": 1778454617,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121475,
       "num": 209222,
       "word": "严浩翔新歌MV",
@@ -2185,14 +2273,6 @@
       "onboard_time": 1778369718,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119101,
-      "num": 119101,
-      "word": "原来这才是有效的控糖方式",
-      "onboard_time": 1778452396,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114112,
@@ -2267,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96087,
-      "num": 66617,
-      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
-      "onboard_time": 1778445673,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 92533,
       "num": 132603,
       "word": "中国男团2比0日本",
@@ -2339,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77161,
+      "num": 202804,
+      "word": "梁家辉方回应接触狩谎",
+      "onboard_time": 1778437215,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75173,
       "num": 596938,
       "word": "中美将在韩国举行经贸磋商",
@@ -2401,14 +2481,6 @@
       "onboard_time": 1778338282,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67743,
-      "num": 80535,
-      "word": "梁家辉方回应接触狩谎",
-      "onboard_time": 1778437215,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 66735,
@@ -2619,14 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45006,
-      "num": 55865,
-      "word": "半挂司机养了只半挂猫",
-      "onboard_time": 1778453538,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 44981,
       "num": 759428,
       "word": "23岁小伙开挖机滚落山崖遇难",
@@ -2705,6 +2769,14 @@
       "onboard_time": 1778414479,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35573,
+      "num": 187790,
+      "word": "歌手2026阵容和热度不会差",
+      "onboard_time": 1778454018,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 34935,
@@ -2987,6 +3059,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 3792,
+      "num": 211731,
+      "word": "美客机撞到人致其被吸入引擎死亡",
+      "onboard_time": 1778454018,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3237,
+      "num": 183520,
+      "word": "种地吧4见天地宣传片",
+      "onboard_time": 1778454018,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3161,
       "num": 341908,
       "word": "TES战胜WE",
@@ -3017,6 +3105,14 @@
       "onboard_time": 1778250923,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1226,
+      "num": 182693,
+      "word": "何赛飞回应节目中怒批姜贞羽",
+      "onboard_time": 1778454078,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
