@@ -1,0 +1,410 @@
+{
+  "runTime": 1778387570882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2833867,
+        "num": 2833867,
+        "word": "难怪现在在外面吃饭很少拉肚子了",
+        "onboard_time": 1778381480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1334269,
+        "num": 1334269,
+        "word": "一季度全国结婚登记169.7万对",
+        "onboard_time": 1778384899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69406,
+        "num": 1141636,
+        "word": "先于所有人爱上你的是妈妈",
+        "onboard_time": 1778380638,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081019,
+        "num": 1081019,
+        "word": "陈赫回应邀请李晨上五哈",
+        "onboard_time": 1778373620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934471,
+        "num": 934471,
+        "word": "原来这么多年牙齿都在负重前行",
+        "onboard_time": 1778383400,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633048,
+        "num": 633048,
+        "word": "田曦薇孙珍妮双女主",
+        "onboard_time": 1778376199,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625707,
+        "num": 625707,
+        "word": "王楚钦打哭F勒布伦",
+        "onboard_time": 1778368937,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597693,
+        "num": 597693,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435033,
+        "num": 435033,
+        "word": "世界杯中国转播费从3亿腰斩到1.5亿",
+        "onboard_time": 1778368157,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110141,
+        "num": 410710,
+        "word": "五哈",
+        "onboard_time": 1778386880,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1746886,
+        "num": 409229,
+        "word": "虞书欣G社生图",
+        "onboard_time": 1778377158,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402233,
+        "num": 402233,
+        "word": "雷霆3比0湖人",
+        "onboard_time": 1778383220,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1281926,
+        "num": 401266,
+        "word": "浪姐三公事变",
+        "onboard_time": 1778381418,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510941,
+        "num": 400893,
+        "word": "蔡文静经纪人打电话让蔡文静下播",
+        "onboard_time": 1778368217,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59851,
+        "num": 399810,
+        "word": "母亲节京东给所有妈妈送一份关怀礼",
+        "onboard_time": 1778385980,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 413019,
+        "num": 398147,
+        "word": "黄霄雲演出晕倒",
+        "onboard_time": 1778376678,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397831,
+        "num": 397831,
+        "word": "王安宇对章若楠炫耀快杀青了",
+        "onboard_time": 1778382920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300157,
+        "num": 300157,
+        "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
+        "onboard_time": 1778384239,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275297,
+        "num": 275297,
+        "word": "机器人有没有体面一点的打包方式",
+        "onboard_time": 1778381780,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273291,
+        "num": 273291,
+        "word": "央视曝车企一次锁电可省数十亿元",
+        "onboard_time": 1778370858,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 348487,
+        "num": 272954,
+        "word": "张雪率车队参加儿子学校运动会",
+        "onboard_time": 1778378120,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459084,
+        "num": 272684,
+        "word": "叶祖新叫蔡文静醒醒",
+        "onboard_time": 1778385259,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293536,
+        "num": 272102,
+        "word": "小伙连刮3天刮刮乐中百万连夜返乡",
+        "onboard_time": 1778385440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288582,
+        "num": 271726,
+        "word": "辛芷蕾骑车又摔了四肢全废",
+        "onboard_time": 1778370198,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288364,
+        "num": 271270,
+        "word": "母亲节红包",
+        "onboard_time": 1778371279,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287222,
+        "num": 271077,
+        "word": "涉疫邮轮上唯一一名医生也感染了",
+        "onboard_time": 1778382381,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270849,
+        "num": 270849,
+        "word": "虞书欣非遗高定",
+        "onboard_time": 1778374939,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245205,
+        "num": 245205,
+        "word": "王暖暖抱着孩子泪流满面",
+        "onboard_time": 1778386280,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242627,
+        "num": 242627,
+        "word": "出差化老妆和出门玩化嫩妆",
+        "onboard_time": 1778377820,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130238,
+        "num": 241076,
+        "word": "DeepSeek被曝融资500亿",
+        "onboard_time": 1778385740,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74419,
+        "num": 240578,
+        "word": "到底谁是马雪晴啊",
+        "onboard_time": 1778384180,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240214,
+        "num": 240214,
+        "word": "首例汉坦病毒感染者遗孀曾与多人拥抱",
+        "onboard_time": 1778374999,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239203,
+        "num": 239203,
+        "word": "浪姐到底在录什么",
+        "onboard_time": 1778376320,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230488,
+        "num": 230488,
+        "word": "张杰给文章面馆送花篮",
+        "onboard_time": 1778379800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215420,
+        "num": 215420,
+        "word": "王皓眼含热泪",
+        "onboard_time": 1778382738,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204323,
+        "num": 204323,
+        "word": "国际足联为中国市场低头",
+        "onboard_time": 1778378780,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197804,
+        "num": 197804,
+        "word": "19岁小伙穿西装卖炒饭月入5万",
+        "onboard_time": 1778380821,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187452,
+        "num": 187452,
+        "word": "47名消费者准备正式起诉张静初",
+        "onboard_time": 1778386580,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184382,
+        "num": 184382,
+        "word": "刘雨昕离了王濛发现外面根本没雨",
+        "onboard_time": 1778383099,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167711,
+        "num": 179357,
+        "word": "警方介入捡瓶攒10万小狗遭死亡威胁",
+        "onboard_time": 1778384480,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177021,
+        "num": 177021,
+        "word": "尼坤宋茜曾被称为南韩颜霸cp",
+        "onboard_time": 1778373678,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174151,
+        "num": 174151,
+        "word": "鞠婧祎请张云龙喝阿黛特调",
+        "onboard_time": 1778385740,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161561,
+        "num": 161561,
+        "word": "国乒男团3比1法国男团",
+        "onboard_time": 1778366536,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160746,
+        "num": 160746,
+        "word": "国乒男团深夜收视断层",
+        "onboard_time": 1778387299,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156868,
+        "num": 156868,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1778370139,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144438,
+        "num": 144438,
+        "word": "我不懂为什么不能买公寓",
+        "onboard_time": 1778381838,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139216,
+        "num": 139216,
+        "word": "俄男子在泰国被螳螂虾袭击腿部",
+        "onboard_time": 1778381480,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86264,
+        "num": 137320,
+        "word": "用AI花3个月完成百名程序员7年工作",
+        "onboard_time": 1778376740,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54680,
+        "num": 134310,
+        "word": "哈啰回应员工聚会脚踩青桔美团",
+        "onboard_time": 1778371819,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140142,
+        "num": 132624,
+        "word": "良陈美锦",
+        "onboard_time": 1778387180,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有需要就能做出好事实事#"
+    }
+  }
+}
