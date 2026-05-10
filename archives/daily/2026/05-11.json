@@ -1,18 +1,18 @@
 {
   "startTime": 1778429106514,
-  "endTime": 1778429106514,
+  "endTime": 1778430771903,
   "band_list": [
     {
-      "raw_hot": 3653595,
-      "num": 3653595,
+      "raw_hot": 10266341,
+      "num": 10266341,
       "word": "梁靖崑vs张本智和",
       "onboard_time": 1778427022,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 2949076,
-      "num": 2949076,
+      "raw_hot": 8149853,
+      "num": 8149853,
       "word": "中国男团vs日本",
       "onboard_time": 1778425282,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1680243,
+      "num": 1680243,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1778429482,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1249445,
       "num": 1249445,
       "word": "身体的炎症全部消失22个tips",
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 758234,
-      "num": 758234,
-      "word": "睫毛掉进眼睛里钙化了",
-      "onboard_time": 1778418859,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 757182,
+      "raw_hot": 916165,
       "num": 470874,
       "word": "宋祖儿的腿瘦凹回去了",
       "onboard_time": 1778425042,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 840321,
+      "num": 840321,
+      "word": "睫毛掉进眼睛里钙化了",
+      "onboard_time": 1778418859,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 699513,
@@ -107,12 +115,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 608199,
+      "num": 462564,
+      "word": "水谷隼盛赞孙颖莎伟大",
+      "onboard_time": 1778426783,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547311,
       "num": 482879,
       "word": "宛瑜饰演者赵霁近况",
       "onboard_time": 1778418742,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530280,
+      "num": 317718,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 492980,
@@ -155,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390263,
+      "num": 302048,
+      "word": "梁靖崑让二追三的神",
+      "onboard_time": 1778429720,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384283,
       "num": 465106,
       "word": "马立奥妹妹早产",
@@ -163,12 +195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379299,
-      "num": 462564,
-      "word": "水谷隼盛赞孙颖莎伟大",
-      "onboard_time": 1778426783,
+      "raw_hot": 372195,
+      "num": 301522,
+      "word": "孙颖莎新世纪中国女乒单届最佳战绩",
+      "onboard_time": 1778429183,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342614,
+      "num": 426847,
+      "word": "Giselle疑似与男制作人同游夏威夷",
+      "onboard_time": 1778428701,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 342404,
@@ -251,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252102,
+      "num": 410891,
+      "word": "伦敦世乒赛男团决赛",
+      "onboard_time": 1778429061,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241533,
       "num": 433805,
       "word": "孙颖莎vs张本美和",
@@ -273,14 +321,6 @@
       "onboard_time": 1778426063,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229786,
-      "num": 426847,
-      "word": "Giselle疑似与男制作人同游夏威夷",
-      "onboard_time": 1778428701,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 205819,
@@ -315,12 +355,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188535,
-      "num": 410891,
-      "word": "伦敦世乒赛男团决赛",
-      "onboard_time": 1778429061,
-      "rank": 44,
+      "raw_hot": 189372,
+      "num": 276565,
+      "word": "中国男团vs日本对阵名单",
+      "onboard_time": 1778429423,
+      "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182509,
+      "num": 275325,
+      "word": "张桂源母亲节祝福",
+      "onboard_time": 1778429122,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 177253,
@@ -337,6 +385,14 @@
       "onboard_time": 1778419103,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144557,
+      "num": 267315,
+      "word": "影院卫生间用手握香蕉西柚代指男女",
+      "onboard_time": 1778409560,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135184,
@@ -363,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98591,
+      "num": 404951,
+      "word": "越南男子不慎卷入粉碎机身亡",
+      "onboard_time": 1778407760,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91853,
       "num": 400841,
       "word": "歌手2026",
@@ -371,16 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91627,
-      "num": 404951,
-      "word": "越南男子不慎卷入粉碎机身亡",
-      "onboard_time": 1778407760,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87753,
-      "num": 2701593,
+      "num": 2903167,
       "word": "中国潜水器发现深海生命绿洲",
       "onboard_time": 1778406440,
       "rank": 2,
@@ -406,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平和母亲的暖心瞬间#"
+    },
+    {
+      "word": "#世间最深沉的爱#"
     }
   ]
 }

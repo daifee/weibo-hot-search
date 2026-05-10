@@ -1,12 +1,28 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778429106514,
+  "endTime": 1778430771903,
   "band_list": [
     {
       "raw_hot": 19315463,
       "num": 20565463,
       "word": "国乒女团7连冠",
       "onboard_time": 1778420603,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10266341,
+      "num": 10266341,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1778427022,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8149853,
+      "num": 8149853,
+      "word": "中国男团vs日本",
+      "onboard_time": 1778425282,
       "rank": 3,
       "category": "体育"
     },
@@ -43,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3653595,
-      "num": 3653595,
-      "word": "梁靖崑vs张本智和",
-      "onboard_time": 1778427022,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3569584,
       "num": 3569584,
       "word": "安慕希 百万撤离",
@@ -72,14 +80,6 @@
       "word": "国乒男团3比1法国男团",
       "onboard_time": 1778366536,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2949076,
-      "num": 2949076,
-      "word": "中国男团vs日本",
-      "onboard_time": 1778425282,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1778388199,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1680243,
+      "num": 1680243,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1778429482,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1647093,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 840321,
+      "num": 840321,
+      "word": "睫毛掉进眼睛里钙化了",
+      "onboard_time": 1778418859,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 829441,
       "num": 829441,
       "word": "伦敦世乒赛半决赛",
@@ -449,14 +465,6 @@
       "onboard_time": 1778417181,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 758234,
-      "num": 758234,
-      "word": "睫毛掉进眼睛里钙化了",
-      "onboard_time": 1778418859,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 749178,
@@ -571,6 +579,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 608199,
+      "num": 462564,
+      "word": "水谷隼盛赞孙颖莎伟大",
+      "onboard_time": 1778426783,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605431,
       "num": 605431,
       "word": "国际足联急了",
@@ -648,6 +664,14 @@
       "word": "孙颖莎哽咽了",
       "onboard_time": 1778423485,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 530280,
+      "num": 317718,
+      "word": "梁靖崑逆转张本智和",
+      "onboard_time": 1778429482,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -915,6 +939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 390263,
+      "num": 302048,
+      "word": "梁靖崑让二追三的神",
+      "onboard_time": 1778429720,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386856,
       "num": 386856,
       "word": "中国女团vs日本对阵名单",
@@ -923,11 +955,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379299,
-      "num": 462564,
-      "word": "水谷隼盛赞孙颖莎伟大",
-      "onboard_time": 1778426783,
-      "rank": 32,
+      "raw_hot": 372195,
+      "num": 301522,
+      "word": "孙颖莎新世纪中国女乒单届最佳战绩",
+      "onboard_time": 1778429183,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1009,6 +1041,14 @@
       "onboard_time": 1778388799,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342614,
+      "num": 426847,
+      "word": "Giselle疑似与男制作人同游夏威夷",
+      "onboard_time": 1778428701,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 335176,
@@ -1291,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252102,
+      "num": 410891,
+      "word": "伦敦世乒赛男团决赛",
+      "onboard_time": 1778429061,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251284,
       "num": 308800,
       "word": "女儿的100个橡皮",
@@ -1392,14 +1440,6 @@
       "word": "张杰给文章面馆送花篮",
       "onboard_time": 1778379800,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 229786,
-      "num": 426847,
-      "word": "Giselle疑似与男制作人同游夏威夷",
-      "onboard_time": 1778428701,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1571,11 +1611,11 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 188535,
-      "num": 410891,
-      "word": "伦敦世乒赛男团决赛",
-      "onboard_time": 1778429061,
-      "rank": 44,
+      "raw_hot": 189372,
+      "num": 276565,
+      "word": "中国男团vs日本对阵名单",
+      "onboard_time": 1778429423,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1633,6 +1673,14 @@
       "onboard_time": 1778395700,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182509,
+      "num": 275325,
+      "word": "张桂源母亲节祝福",
+      "onboard_time": 1778429122,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 182259,
