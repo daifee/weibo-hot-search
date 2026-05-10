@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778414393644,
+  "endTime": 1778415048285,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2817428,
+      "num": 492764,
+      "word": "蒯曼vs桥本帆乃香",
+      "onboard_time": 1778413700,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2802336,
       "num": 440459,
       "word": "早期刘三姐演出全裸桥段",
@@ -352,6 +360,14 @@
       "word": "中国男团2比2瑞典",
       "onboard_time": 1777819882,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2788287,
+      "num": 2788287,
+      "word": "中国女团vs日本",
+      "onboard_time": 1778406919,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -385,14 +401,6 @@
       "onboard_time": 1778297780,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2716805,
-      "num": 2716805,
-      "word": "中国女团vs日本",
-      "onboard_time": 1778406919,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 2687199,
@@ -899,6 +907,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 1591082,
+      "num": 759386,
+      "word": "小英道歉了",
+      "onboard_time": 1778404340,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1588325,
       "num": 416788,
       "word": "内娱嘴亲烂了也没他俩眼神动人",
@@ -929,14 +945,6 @@
       "onboard_time": 1778338041,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1559956,
-      "num": 759386,
-      "word": "小英道歉了",
-      "onboard_time": 1778404340,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 1552424,
@@ -1083,8 +1091,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1423534,
-      "num": 1383022,
+      "raw_hot": 1427345,
+      "num": 1427345,
       "word": "全公司最不会离职的人终于出现了",
       "onboard_time": 1778401100,
       "rank": 3,
@@ -3219,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687608,
+      "num": 519461,
+      "word": "汉坦病毒邮轮零号病人身份曝光",
+      "onboard_time": 1778412680,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 687396,
       "num": 362170,
       "word": "47岁韩国影后河智苑西湖独自夜跑",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1777963100,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676565,
+      "num": 569247,
+      "word": "影院卫生间用手握香蕉西柚代指男女",
+      "onboard_time": 1778409560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676274,
@@ -4163,14 +4187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569247,
-      "num": 569247,
-      "word": "影院卫生间用手握香蕉西柚代指男女",
-      "onboard_time": 1778409560,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 569197,
       "num": 569197,
       "word": "张继科谈国乒男团进四强",
@@ -4603,14 +4619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 519461,
-      "num": 519461,
-      "word": "汉坦病毒邮轮零号病人身份曝光",
-      "onboard_time": 1778412680,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 519024,
       "num": 391874,
       "word": "张凌赫害怕大家看不懂",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1777939277,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 512787,
+      "num": 466139,
+      "word": "邓超说孙俪带三个辛苦了",
+      "onboard_time": 1778410581,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 512565,
@@ -4905,14 +4921,6 @@
       "onboard_time": 1778252003,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492764,
-      "num": 492764,
-      "word": "蒯曼vs桥本帆乃香",
-      "onboard_time": 1778413700,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 492208,
@@ -5249,14 +5257,6 @@
       "onboard_time": 1777821802,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 466139,
-      "num": 466139,
-      "word": "邓超说孙俪带三个辛苦了",
-      "onboard_time": 1778410581,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 466081,
@@ -5932,7 +5932,7 @@
     },
     {
       "raw_hot": 412204,
-      "num": 318776,
+      "num": 350775,
       "word": "孙颖莎3比0早田希娜",
       "onboard_time": 1778413580,
       "rank": 20,
@@ -6196,7 +6196,7 @@
     },
     {
       "raw_hot": 395142,
-      "num": 317308,
+      "num": 342875,
       "word": "蔡文静闪现到妈妈身边了",
       "onboard_time": 1778408899,
       "rank": 33,
@@ -6715,6 +6715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 366518,
+      "num": 347157,
+      "word": "蔡文静一觉醒来账号被没收了",
+      "onboard_time": 1778414420,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366486,
       "num": 366486,
       "word": "时代少年团演唱会下雨",
@@ -6995,6 +7003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351091,
+      "num": 351091,
+      "word": "给阿嬷的情书9.1分是什么概念",
+      "onboard_time": 1778401641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351060,
       "num": 451086,
       "word": "命运托举你的方式很意外",
@@ -7096,6 +7112,14 @@
       "word": "虞书欣ins取消何与置顶了",
       "onboard_time": 1778115920,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346354,
+      "num": 334646,
+      "word": "何穗晒与儿子合影",
+      "onboard_time": 1778406440,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -7395,14 +7419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 330712,
-      "num": 330712,
-      "word": "何穗晒与儿子合影",
-      "onboard_time": 1778406440,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330138,
       "num": 330138,
       "word": "奔跑吧辟谣白鹿退出",
@@ -7577,14 +7593,6 @@
       "onboard_time": 1778230820,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322560,
-      "num": 322560,
-      "word": "给阿嬷的情书9.1分是什么概念",
-      "onboard_time": 1778401641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 322465,
@@ -8395,6 +8403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 290298,
+      "num": 290298,
+      "word": "身体的炎症全部消失22个tips",
+      "onboard_time": 1778414660,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290226,
       "num": 414311,
       "word": "阚清子一斤没瘦",
@@ -8475,6 +8491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287212,
+      "num": 296966,
+      "word": "谈莉娜给孩子做母乳手镯",
+      "onboard_time": 1778412920,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286901,
       "num": 234069,
       "word": "浪姐请了李小冉告过的博主",
@@ -8529,6 +8553,14 @@
       "onboard_time": 1777683559,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285555,
+      "num": 345126,
+      "word": "主角",
+      "onboard_time": 1778122220,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 285421,
@@ -9377,14 +9409,6 @@
       "onboard_time": 1777732641,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 254458,
-      "num": 296966,
-      "word": "谈莉娜给孩子做母乳手镯",
-      "onboard_time": 1778412920,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 254288,
@@ -10859,6 +10883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216359,
+      "num": 344855,
+      "word": "越南男子不慎卷入粉碎机身亡",
+      "onboard_time": 1778407760,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216318,
       "num": 216318,
       "word": "官方回应景区悬崖秋千绳索断裂",
@@ -10873,6 +10905,14 @@
       "onboard_time": 1777883301,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216047,
+      "num": 342910,
+      "word": "三星堆首次发现陨铁器",
+      "onboard_time": 1778409560,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215668,
@@ -11291,14 +11331,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 207956,
-      "num": 308149,
-      "word": "主角",
-      "onboard_time": 1778122220,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207820,
       "num": 207820,
       "word": "19岁小伙穿西装卖炒饭月入5万",
@@ -11547,14 +11579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202665,
-      "num": 304518,
-      "word": "三星堆首次发现陨铁器",
-      "onboard_time": 1778409560,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202661,
       "num": 221585,
       "word": "巴西对中国公民免签",
@@ -11593,14 +11617,6 @@
       "onboard_time": 1777646661,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201108,
-      "num": 306706,
-      "word": "越南男子不慎卷入粉碎机身亡",
-      "onboard_time": 1778407760,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 200962,
@@ -12971,6 +12987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173728,
+      "num": 173728,
+      "word": "OPPO母亲节文案",
+      "onboard_time": 1778414420,
+      "rank": 41,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 173676,
       "num": 331013,
       "word": "小猴帮忙拔刺嫌弃又卖力",
@@ -13649,6 +13673,14 @@
       "onboard_time": 1777679658,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159443,
+      "num": 281127,
+      "word": "浙江宣传谈OPPO争议文案",
+      "onboard_time": 1778413460,
+      "rank": 43,
+      "category": "舆论监督,数码"
     },
     {
       "raw_hot": 159112,
@@ -14377,14 +14409,6 @@
       "onboard_time": 1777899321,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145362,
-      "num": 281127,
-      "word": "浙江宣传谈OPPO争议文案",
-      "onboard_time": 1778413460,
-      "rank": 43,
-      "category": "舆论监督,数码"
     },
     {
       "raw_hot": 145198,
@@ -15315,6 +15339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128045,
+      "num": 348634,
+      "word": "刘浩存陈都灵什么时候认识",
+      "onboard_time": 1778409560,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128040,
       "num": 649004,
       "word": "王橹杰下班",
@@ -15923,14 +15955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118491,
-      "num": 275337,
-      "word": "刘浩存陈都灵什么时候认识",
-      "onboard_time": 1778409560,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118156,
       "num": 435552,
       "word": "北京WBG对战FPX.ZQ",
@@ -16233,6 +16257,22 @@
       "onboard_time": 1778071823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110477,
+      "num": 185316,
+      "word": "ZmjjKK解锁3000击败里程碑",
+      "onboard_time": 1778414900,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110472,
+      "num": 348773,
+      "word": "张本美和打得凶",
+      "onboard_time": 1778412620,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 110451,
@@ -19003,6 +19043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35829,
+      "num": 348324,
+      "word": "黔江2死6伤车祸目击者发声",
+      "onboard_time": 1778414479,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35735,
       "num": 1779309,
       "word": "中国青年好young的",
@@ -19817,6 +19865,14 @@
       "onboard_time": 1778079862,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21326,
+      "num": 350574,
+      "word": "赛里木湖一汽车压草坪飞驰",
+      "onboard_time": 1778414479,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21252,

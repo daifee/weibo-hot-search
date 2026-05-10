@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778414393644,
+  "endTime": 1778415048285,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2817428,
+      "num": 492764,
+      "word": "蒯曼vs桥本帆乃香",
+      "onboard_time": 1778413700,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2807648,
       "num": 962247,
       "word": "香蕉有可能会灭绝",
@@ -2016,6 +2024,14 @@
       "word": "中国男团2比2瑞典",
       "onboard_time": 1777819882,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2788287,
+      "num": 2788287,
+      "word": "中国女团vs日本",
+      "onboard_time": 1778406919,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -2121,14 +2137,6 @@
       "onboard_time": 1777037124,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2716805,
-      "num": 2716805,
-      "word": "中国女团vs日本",
-      "onboard_time": 1778406919,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 2708776,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1777620979,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2497720,
-      "num": 235352,
-      "word": "单依纯演唱会退票",
-      "onboard_time": 1774883184,
-      "rank": 40,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
