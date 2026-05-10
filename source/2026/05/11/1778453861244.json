@@ -1,0 +1,410 @@
+{
+  "runTime": 1778453861244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3389871,
+        "num": 3389871,
+        "word": "国乒男团3比0大胜日本",
+        "onboard_time": 1778434696,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609352,
+        "num": 784850,
+        "word": "国乒男团12连冠",
+        "onboard_time": 1778434518,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28196,
+        "num": 605985,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558948,
+        "num": 558948,
+        "word": "身体的炎症全部消失22个tips",
+        "onboard_time": 1778414660,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287200,
+        "num": 287200,
+        "word": "盼弟 来弟",
+        "onboard_time": 1778419461,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238379,
+        "num": 238379,
+        "word": "孙颖莎新世纪中国女乒单届最佳战绩",
+        "onboard_time": 1778429183,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213800,
+        "num": 213800,
+        "word": "中国妇女报评OPPO母亲节文案",
+        "onboard_time": 1778422400,
+        "rank": 6,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "阿森纳",
+        "onboard_time": 1778436495,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152694,
+        "num": 152694,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1778429482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133584,
+        "num": 133584,
+        "word": "睫毛掉进眼睛里钙化了",
+        "onboard_time": 1778418859,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 506049,
+        "num": 132666,
+        "word": "王楚钦回应国乒男团夺冠",
+        "onboard_time": 1778440693,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404789,
+        "num": 132221,
+        "word": "梁靖崑逆转张本智和",
+        "onboard_time": 1778429482,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400996,
+        "num": 131703,
+        "word": "王曼昱说孙颖莎站了出来",
+        "onboard_time": 1778431400,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130915,
+        "num": 130915,
+        "word": "林诗栋vs户上隼辅",
+        "onboard_time": 1778431879,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343670,
+        "num": 130856,
+        "word": "王曼昱哭了",
+        "onboard_time": 1778421684,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173100,
+        "num": 130363,
+        "word": "村民被眼镜王蛇咬伤打了13支血清",
+        "onboard_time": 1778426302,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169180,
+        "num": 130170,
+        "word": "吃出24块鸡头顾客被免单仍想市监介入",
+        "onboard_time": 1778423003,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167135,
+        "num": 129915,
+        "word": "梁靖崑让二追三的神",
+        "onboard_time": 1778429720,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131230,
+        "num": 129643,
+        "word": "王楚钦说一切都值得",
+        "onboard_time": 1778439914,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129361,
+        "num": 129361,
+        "word": "有生之年还能看见猪肉下岗",
+        "onboard_time": 1778452276,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178017,
+        "num": 125546,
+        "word": "汉坦病毒邮轮零号病人身份曝光",
+        "onboard_time": 1778412680,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119101,
+        "num": 119101,
+        "word": "原来这才是有效的控糖方式",
+        "onboard_time": 1778452396,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109152,
+        "num": 109152,
+        "word": "世乒赛收视率破8",
+        "onboard_time": 1778430979,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103563,
+        "num": 103563,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1778427022,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88252,
+        "num": 88252,
+        "word": "身体有炎症要忌口4种食物",
+        "onboard_time": 1778423844,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87158,
+        "num": 87158,
+        "word": "水谷隼盛赞孙颖莎伟大",
+        "onboard_time": 1778426783,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83963,
+        "num": 83963,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67743,
+        "num": 67743,
+        "word": "梁家辉方回应接触狩谎",
+        "onboard_time": 1778437215,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67501,
+        "num": 67501,
+        "word": "中国男团vs日本",
+        "onboard_time": 1778425282,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66696,
+        "num": 66696,
+        "word": "马龙许昕为孙颖莎鼓掌",
+        "onboard_time": 1778423123,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96087,
+        "num": 66617,
+        "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+        "onboard_time": 1778445673,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66514,
+        "num": 66514,
+        "word": "孙颖莎MVP",
+        "onboard_time": 1778422464,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64692,
+        "num": 64692,
+        "word": "主角收视率",
+        "onboard_time": 1778423063,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60205,
+        "num": 60205,
+        "word": "国乒男团做到了",
+        "onboard_time": 1778440875,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59568,
+        "num": 59568,
+        "word": "孙颖莎哽咽了",
+        "onboard_time": 1778423485,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58362,
+        "num": 58362,
+        "word": "国乒女团7连冠",
+        "onboard_time": 1778420603,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56332,
+        "num": 56332,
+        "word": "王楚钦3比1胜松岛辉空",
+        "onboard_time": 1778431520,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55911,
+        "num": 55911,
+        "word": "我不买开口榴莲的原因",
+        "onboard_time": 1778418681,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51091,
+        "num": 55901,
+        "word": "90岁外公强撑目送外孙婚车后安详离世",
+        "onboard_time": 1778426063,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48337,
+        "num": 55891,
+        "word": "马宁帽子戏法吹掉国安仨进球",
+        "onboard_time": 1778452155,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47228,
+        "num": 55886,
+        "word": "马龙终于松了一口气",
+        "onboard_time": 1778431640,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46142,
+        "num": 55873,
+        "word": "马琳指导哭了",
+        "onboard_time": 1778424263,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45006,
+        "num": 55865,
+        "word": "半挂司机养了只半挂猫",
+        "onboard_time": 1778453538,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40700,
+        "num": 55848,
+        "word": "永远可以相信中国乒乓",
+        "onboard_time": 1778437275,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38832,
+        "num": 55836,
+        "word": "孙颖莎世乒赛个人全胜",
+        "onboard_time": 1778446515,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38305,
+        "num": 55833,
+        "word": "西汉姆联vs阿森纳",
+        "onboard_time": 1778432418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38135,
+        "num": 55818,
+        "word": "伦敦赛场再奏义勇军进行曲",
+        "onboard_time": 1778444234,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36814,
+        "num": 55807,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35277,
+        "num": 55792,
+        "word": "中国女团vs日本",
+        "onboard_time": 1778406919,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34992,
+        "num": 55785,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1778417001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和母亲的暖心瞬间#"
+    }
+  }
+}

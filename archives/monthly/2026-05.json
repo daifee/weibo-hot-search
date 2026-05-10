@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778451086781,
+  "endTime": 1778453861244,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -281,6 +281,14 @@
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3389871,
+      "num": 3389871,
+      "word": "国乒男团3比0大胜日本",
+      "onboard_time": 1778434696,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 3343044,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1778395401,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1498710,
-      "num": 1498710,
-      "word": "国乒男团3比0大胜日本",
-      "onboard_time": 1778434696,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 1493266,
@@ -5067,6 +5067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 506049,
+      "num": 132666,
+      "word": "王楚钦回应国乒男团夺冠",
+      "onboard_time": 1778440693,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505986,
       "num": 308060,
       "word": "女孩溺亡邻居被判赔66万后求再审",
@@ -8619,14 +8627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297129,
-      "num": 50573,
-      "word": "王楚钦回应国乒男团夺冠",
-      "onboard_time": 1778440693,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297004,
       "num": 297004,
       "word": "森林狼淘汰掘金",
@@ -11537,6 +11537,14 @@
       "onboard_time": 1777591458,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213800,
+      "num": 213800,
+      "word": "中国妇女报评OPPO母亲节文案",
+      "onboard_time": 1778422400,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 213701,
@@ -15747,6 +15755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131230,
+      "num": 129643,
+      "word": "王楚钦说一切都值得",
+      "onboard_time": 1778439914,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130922,
       "num": 308233,
       "word": "门牙 疑似票房造假",
@@ -15833,6 +15849,14 @@
       "onboard_time": 1778159483,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129361,
+      "num": 129361,
+      "word": "有生之年还能看见猪肉下岗",
+      "onboard_time": 1778452276,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 129211,
@@ -16475,6 +16499,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119101,
+      "num": 119101,
+      "word": "原来这才是有效的控糖方式",
+      "onboard_time": 1778452396,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119059,
       "num": 119059,
       "word": "李若彤被路人认成40岁",
@@ -16497,14 +16529,6 @@
       "onboard_time": 1777535060,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118558,
-      "num": 99252,
-      "word": "王楚钦说一切都值得",
-      "onboard_time": 1778439914,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 118526,
@@ -16889,14 +16913,6 @@
       "onboard_time": 1777873881,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108843,
-      "num": 132701,
-      "word": "中国妇女报评OPPO母亲节文案",
-      "onboard_time": 1778422400,
-      "rank": 35,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 108796,
@@ -17401,6 +17417,14 @@
       "onboard_time": 1778081901,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96087,
+      "num": 66617,
+      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
+      "onboard_time": 1778445673,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 96039,
@@ -18371,12 +18395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66832,
-      "num": 50359,
-      "word": "伊朗称国产潜艇在霍尔木兹执行任务",
-      "onboard_time": 1778445673,
+      "raw_hot": 67743,
+      "num": 80535,
+      "word": "梁家辉方回应接触狩谎",
+      "onboard_time": 1778437215,
       "rank": 48,
-      "category": "军事"
+      "category": "剧集"
     },
     {
       "raw_hot": 65723,
@@ -18553,6 +18577,14 @@
       "onboard_time": 1778382440,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60205,
+      "num": 60205,
+      "word": "国乒男团做到了",
+      "onboard_time": 1778440875,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 60120,
@@ -19043,14 +19075,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 51045,
-      "num": 51045,
-      "word": "国乒男团做到了",
-      "onboard_time": 1778440875,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50887,
       "num": 227665,
       "word": "靠吃碳水长大的小猫",
@@ -19195,12 +19219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48052,
-      "num": 80535,
-      "word": "梁家辉方回应接触狩谎",
-      "onboard_time": 1778437215,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 48337,
+      "num": 55891,
+      "word": "马宁帽子戏法吹掉国安仨进球",
+      "onboard_time": 1778452155,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 47698,
@@ -19313,6 +19337,14 @@
       "onboard_time": 1777558941,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45006,
+      "num": 55865,
+      "word": "半挂司机养了只半挂猫",
+      "onboard_time": 1778453538,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 44981,
@@ -19635,6 +19667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38832,
+      "num": 55836,
+      "word": "孙颖莎世乒赛个人全胜",
+      "onboard_time": 1778446515,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38511,
       "num": 409105,
       "word": "时隔五年我用AI复活了父亲",
@@ -19649,6 +19689,14 @@
       "onboard_time": 1777556842,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38135,
+      "num": 55818,
+      "word": "伦敦赛场再奏义勇军进行曲",
+      "onboard_time": 1778444234,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 37889,
@@ -19761,14 +19809,6 @@
       "onboard_time": 1777797439,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 35415,
-      "num": 39828,
-      "word": "伦敦赛场再奏义勇军进行曲",
-      "onboard_time": 1778444234,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 35257,
@@ -20249,14 +20289,6 @@
       "onboard_time": 1778383999,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 27684,
-      "num": 38007,
-      "word": "孙颖莎世乒赛个人全胜",
-      "onboard_time": 1778446515,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 27608,
