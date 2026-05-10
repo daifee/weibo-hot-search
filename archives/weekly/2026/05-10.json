@@ -1,7 +1,23 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778415048285,
+  "endTime": 1778420946720,
   "band_list": [
+    {
+      "raw_hot": 6764609,
+      "num": 6764609,
+      "word": "中国女团vs日本",
+      "onboard_time": 1778406919,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4088060,
+      "num": 4088060,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1778417001,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 3784340,
       "num": 272296,
@@ -19,11 +35,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3435090,
+      "num": 3435090,
+      "word": "国乒女团7连冠",
+      "onboard_time": 1778420603,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2974665,
       "num": 2974665,
       "word": "国乒男团3比1法国男团",
       "onboard_time": 1778366536,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2898523,
+      "num": 2898523,
+      "word": "王曼昱vs早田希娜",
+      "onboard_time": 1778419160,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -36,18 +68,10 @@
     },
     {
       "raw_hot": 2817428,
-      "num": 492764,
+      "num": 565721,
       "word": "蒯曼vs桥本帆乃香",
       "onboard_time": 1778413700,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2788287,
-      "num": 2788287,
-      "word": "中国女团vs日本",
-      "onboard_time": 1778406919,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -65,6 +89,14 @@
       "onboard_time": 1778377158,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2026184,
+      "num": 2026184,
+      "word": "身体的炎症全部消失22个tips",
+      "onboard_time": 1778414660,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1833973,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 1591082,
-      "num": 759386,
+      "num": 1065472,
       "word": "小英道歉了",
       "onboard_time": 1778404340,
       "rank": 40,
@@ -187,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1322677,
+      "num": 1322677,
+      "word": "压力给到孙颖莎",
+      "onboard_time": 1778417662,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1307418,
       "num": 1307418,
       "word": "世乒赛",
@@ -259,8 +299,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 905504,
+      "num": 905504,
+      "word": "蔡文静一觉醒来账号被没收了",
+      "onboard_time": 1778414420,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 887271,
-      "num": 887271,
+      "num": 1066095,
       "word": "网传一念江南黄了",
       "onboard_time": 1778403619,
       "rank": 24,
@@ -315,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746707,
+      "num": 1082049,
+      "word": "盼弟 来弟",
+      "onboard_time": 1778419461,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 745433,
       "num": 745433,
       "word": "歌手2026",
@@ -331,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725579,
+      "num": 725579,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1778418983,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 721842,
       "num": 721842,
       "word": "田曦薇孙珍妮双女主",
@@ -339,8 +403,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 718954,
+      "num": 718954,
+      "word": "中国女团2比2日本",
+      "onboard_time": 1778419581,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687608,
-      "num": 519461,
+      "num": 569556,
       "word": "汉坦病毒邮轮零号病人身份曝光",
       "onboard_time": 1778412680,
       "rank": 14,
@@ -348,7 +420,7 @@
     },
     {
       "raw_hot": 676565,
-      "num": 569247,
+      "num": 569596,
       "word": "影院卫生间用手握香蕉西柚代指男女",
       "onboard_time": 1778409560,
       "rank": 19,
@@ -419,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569628,
+      "num": 569628,
+      "word": "宛瑜饰演者赵霁近况",
+      "onboard_time": 1778418742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564727,
       "num": 266358,
       "word": "乘客拒付高速费00后车主果断返程",
       "onboard_time": 1778368817,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547161,
+      "num": 547161,
+      "word": "蒯曼 削球",
+      "onboard_time": 1778417181,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 539198,
@@ -436,7 +524,7 @@
     },
     {
       "raw_hot": 537192,
-      "num": 537192,
+      "num": 569582,
       "word": "45岁独身男子离世15万存款被转走",
       "onboard_time": 1778403440,
       "rank": 37,
@@ -449,6 +537,14 @@
       "onboard_time": 1778406381,
       "rank": 14,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 530392,
+      "num": 530392,
+      "word": "我不买开口榴莲的原因",
+      "onboard_time": 1778418681,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 526873,
@@ -473,6 +569,14 @@
       "onboard_time": 1778392099,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 498382,
+      "num": 569625,
+      "word": "主角",
+      "onboard_time": 1778406021,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 497500,
@@ -515,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 471918,
+      "num": 471918,
+      "word": "蒯曼1比3桥本帆乃香",
+      "onboard_time": 1778416523,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465760,
       "num": 465760,
       "word": "梁靖崑让二追三",
@@ -539,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451057,
+      "num": 235595,
+      "word": "睫毛掉进眼睛里钙化了",
+      "onboard_time": 1778418859,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 450974,
       "num": 450974,
       "word": "广东男篮绝杀",
@@ -555,12 +675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439532,
+      "num": 234831,
+      "word": "马琳战术",
+      "onboard_time": 1778420122,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436824,
       "num": 436824,
       "word": "者来女 歌手2026合伙人",
       "onboard_time": 1778393780,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430825,
+      "num": 234456,
+      "word": "马立奥妹妹早产",
+      "onboard_time": 1778416280,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 424251,
@@ -675,14 +811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 366518,
-      "num": 347157,
-      "word": "蔡文静一觉醒来账号被没收了",
-      "onboard_time": 1778414420,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351991,
       "num": 306430,
       "word": "如果一个人长期不工作",
@@ -747,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 333330,
+      "num": 348773,
+      "word": "张本美和打得凶",
+      "onboard_time": 1778412620,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320877,
       "num": 320877,
       "word": "国乒男团决赛对阵日本",
@@ -784,6 +920,14 @@
       "word": "森林北配文家里的草都绿了吗",
       "onboard_time": 1778336182,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308340,
+      "num": 233641,
+      "word": "李金铭报平安第一天",
+      "onboard_time": 1778418923,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -835,14 +979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290298,
-      "num": 290298,
-      "word": "身体的炎症全部消失22个tips",
-      "onboard_time": 1778414660,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 288582,
       "num": 271726,
       "word": "辛芷蕾骑车又摔了四肢全废",
@@ -857,14 +993,6 @@
       "onboard_time": 1778412920,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285555,
-      "num": 345126,
-      "word": "主角",
-      "onboard_time": 1778406021,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 282567,
@@ -897,6 +1025,14 @@
       "onboard_time": 1778360354,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266833,
+      "num": 266833,
+      "word": "严浩翔要求给每位小演员单独的镜头",
+      "onboard_time": 1778420063,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 265307,
@@ -1059,6 +1195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228759,
+      "num": 228759,
+      "word": "孙颖莎怒吼庆祝",
+      "onboard_time": 1778419461,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225898,
+      "num": 236070,
+      "word": "伊朗已回应美国提出的结束战争方案",
+      "onboard_time": 1778419103,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222285,
       "num": 211394,
       "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
@@ -1171,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193672,
+      "num": 192409,
+      "word": "伊能静晒女儿母亲节礼物",
+      "onboard_time": 1778416881,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193559,
       "num": 218584,
       "word": "吴宜泽4比5希金斯",
@@ -1185,6 +1345,14 @@
       "onboard_time": 1778368997,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192398,
+      "num": 192398,
+      "word": "马琳感受到王皓的压力了",
+      "onboard_time": 1778420903,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 191968,
@@ -1284,7 +1452,7 @@
     },
     {
       "raw_hot": 177159,
-      "num": 2657003,
+      "num": 3660464,
       "word": "中国潜水器发现深海生命绿洲",
       "onboard_time": 1778406440,
       "rank": 18,
@@ -1611,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119679,
+      "num": 569564,
+      "word": "孙颖莎彰显体育精神",
+      "onboard_time": 1778419943,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114112,
       "num": 250312,
       "word": "央视网更正锁电相关报道",
@@ -1641,14 +1817,6 @@
       "onboard_time": 1778414900,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110472,
-      "num": 348773,
-      "word": "张本美和打得凶",
-      "onboard_time": 1778412620,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 110141,
@@ -2171,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10317,
+      "num": 230163,
+      "word": "男生走路看手机踢到石头致脚趾断离",
+      "onboard_time": 1778420903,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10221,
       "num": 189499,
       "word": "Meiko期待和Viper交手",
@@ -2193,6 +2369,14 @@
       "onboard_time": 1778407281,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5705,
+      "num": 475602,
+      "word": "圣罗兰拉黑杭州一条街道",
+      "onboard_time": 1778420781,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3161,
@@ -2236,6 +2420,9 @@
     },
     {
       "word": "#世间最深沉的爱#"
+    },
+    {
+      "word": "#习近平和母亲的暖心瞬间#"
     }
   ]
 }
