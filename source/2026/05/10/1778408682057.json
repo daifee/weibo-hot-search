@@ -1,0 +1,410 @@
+{
+  "runTime": 1778408682057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307418,
+        "num": 1307418,
+        "word": "世乒赛",
+        "onboard_time": 1778401880,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887271,
+        "num": 887271,
+        "word": "网传一念江南黄了",
+        "onboard_time": 1778403619,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40354,
+        "num": 685153,
+        "word": "一句句妈妈听哭了",
+        "onboard_time": 1778397680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1587045,
+        "num": 640765,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1239850,
+        "num": 639234,
+        "word": "全公司最不会离职的人终于出现了",
+        "onboard_time": 1778401100,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 774105,
+        "num": 614152,
+        "word": "奔跑吧兄弟 溜达吧爱豆",
+        "onboard_time": 1778404640,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580019,
+        "num": 580019,
+        "word": "公厕文学",
+        "onboard_time": 1778404101,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537192,
+        "num": 537192,
+        "word": "45岁独身男子离世15万存款被转走",
+        "onboard_time": 1778403440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483545,
+        "num": 483545,
+        "word": "蒜苔拼豆",
+        "onboard_time": 1778400319,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386856,
+        "num": 386856,
+        "word": "中国女团vs日本对阵名单",
+        "onboard_time": 1778407221,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1128326,
+        "num": 384582,
+        "word": "小英道歉了",
+        "onboard_time": 1778404340,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1030718,
+        "num": 382706,
+        "word": "曝小英带货佣金",
+        "onboard_time": 1778395401,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379852,
+        "num": 379852,
+        "word": "中国女团vs日本",
+        "onboard_time": 1778406919,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466737,
+        "num": 379508,
+        "word": "王俊凯戴耳机这一下",
+        "onboard_time": 1778401399,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 414562,
+        "num": 378053,
+        "word": "虞书欣谷爱凌同框",
+        "onboard_time": 1778406381,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 279774,
+        "num": 376859,
+        "word": "5克金饰成母亲节热销爆款",
+        "onboard_time": 1778402720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380564,
+        "num": 375616,
+        "word": "歌手2026",
+        "onboard_time": 1778397799,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238637,
+        "num": 373933,
+        "word": "金银价格大涨",
+        "onboard_time": 1778394560,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 372606,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630717,
+        "num": 371675,
+        "word": "14岁男生奸杀同学案被告人未上诉",
+        "onboard_time": 1778402361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394962,
+        "num": 370467,
+        "word": "陈赫回应邀请李晨上五哈",
+        "onboard_time": 1778373620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369446,
+        "num": 369446,
+        "word": "这下是真不认识张钧甯了",
+        "onboard_time": 1778388199,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276778,
+        "num": 334069,
+        "word": "难怪现在在外面吃饭很少拉肚子了",
+        "onboard_time": 1778381480,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330712,
+        "num": 330712,
+        "word": "何穗晒与儿子合影",
+        "onboard_time": 1778406440,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31129,
+        "num": 303652,
+        "word": "榴莲商家称顾客吃完了平台还能给退",
+        "onboard_time": 1778407281,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 301759,
+        "num": 301759,
+        "word": "宋亚轩国乐无双八首歌串烧",
+        "onboard_time": 1778405481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272597,
+        "num": 272597,
+        "word": "何炅现身浙江大学揽才",
+        "onboard_time": 1778399000,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30277,
+        "num": 272567,
+        "word": "孙颖莎说相信队友但不依赖队友",
+        "onboard_time": 1778407281,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125447,
+        "num": 272447,
+        "word": "越南男子不慎卷入粉碎机身亡",
+        "onboard_time": 1778407760,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143584,
+        "num": 272393,
+        "word": "重庆黔江交通事故致2死6伤",
+        "onboard_time": 1778405301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1901294,
+        "num": 272296,
+        "word": "武大就OPPO母亲节文案发声",
+        "onboard_time": 1778406021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272236,
+        "num": 272236,
+        "word": "给阿嬷的情书9.1分是什么概念",
+        "onboard_time": 1778401641,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247326,
+        "num": 247326,
+        "word": "虞书欣G社生图",
+        "onboard_time": 1778377158,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234287,
+        "num": 234287,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1778408540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234018,
+        "num": 234018,
+        "word": "女子称遭侵犯为取证问其是否喜欢自己",
+        "onboard_time": 1778394379,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34336,
+        "num": 225330,
+        "word": "遭恶意仅退款榴莲商家两次申诉被拒",
+        "onboard_time": 1778407281,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 66750,
+        "num": 223022,
+        "word": "林昀儒世乒赛铜牌",
+        "onboard_time": 1778393300,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6786,
+        "num": 222582,
+        "word": "EDG总决赛对阵XLG",
+        "onboard_time": 1778407281,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222317,
+        "num": 222317,
+        "word": "一季度全国结婚登记169.7万对",
+        "onboard_time": 1778384899,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220601,
+        "num": 220601,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197378,
+        "num": 197378,
+        "word": "沈梦辰理想型张凌赫嫁给杜海涛",
+        "onboard_time": 1778402119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194615,
+        "num": 194615,
+        "word": "牛妈妈产下畸形双头小牛",
+        "onboard_time": 1778402060,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188064,
+        "num": 188064,
+        "word": "SM员工婚礼宣传aespa专辑",
+        "onboard_time": 1778406141,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84080,
+        "num": 155391,
+        "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
+        "onboard_time": 1778384239,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155048,
+        "num": 155048,
+        "word": "刘宇宁进组",
+        "onboard_time": 1778395339,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151494,
+        "num": 151494,
+        "word": "毛巾少爷不联姻的原因找到了",
+        "onboard_time": 1778406440,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60328,
+        "num": 145668,
+        "word": "DeepSeek被曝融资500亿",
+        "onboard_time": 1778385740,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109917,
+        "num": 143204,
+        "word": "马嘉祺我们生活在南京预告",
+        "onboard_time": 1778397201,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98496,
+        "num": 141431,
+        "word": "张真源出发长沙",
+        "onboard_time": 1778400440,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}
