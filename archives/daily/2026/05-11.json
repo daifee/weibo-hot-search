@@ -1,6 +1,6 @@
 {
   "startTime": 1778429106514,
-  "endTime": 1778435909976,
+  "endTime": 1778438067805,
   "band_list": [
     {
       "raw_hot": 10266341,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 901912,
-      "num": 901912,
+      "num": 982907,
       "word": "王曼昱说孙颖莎站了出来",
       "onboard_time": 1778431400,
       "rank": 6,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300824,
+      "num": 240308,
+      "word": "阿森纳",
+      "onboard_time": 1778436495,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299752,
       "num": 447280,
       "word": "中国女团vs日本",
@@ -371,8 +379,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214586,
-      "num": 214586,
+      "raw_hot": 218052,
+      "num": 218052,
       "word": "世乒赛收视率破8",
       "onboard_time": 1778430979,
       "rank": 23,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183825,
+      "num": 183825,
+      "word": "国乒男团3比0大胜日本",
+      "onboard_time": 1778434696,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182509,
       "num": 275325,
       "word": "张桂源母亲节祝福",
@@ -433,14 +449,6 @@
       "onboard_time": 1778406021,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166180,
-      "num": 166180,
-      "word": "国乒男团3比0大胜日本",
-      "onboard_time": 1778434696,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 157330,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88228,
+      "num": 88228,
+      "word": "永远可以相信中国乒乓",
+      "onboard_time": 1778437275,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87753,
       "num": 3524210,
       "word": "中国潜水器发现深海生命绿洲",
@@ -593,6 +609,14 @@
       "onboard_time": 1778427561,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48052,
+      "num": 80535,
+      "word": "梁家辉方回应接触狩谎",
+      "onboard_time": 1778437215,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12154,
