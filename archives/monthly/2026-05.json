@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778387570882,
+  "endTime": 1778395254666,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -201,6 +201,14 @@
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3441824,
+      "num": 3441824,
+      "word": "安慕希 百万撤离",
+      "onboard_time": 1778392639,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3343044,
@@ -777,6 +785,14 @@
       "onboard_time": 1778156000,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1686373,
+      "num": 244986,
+      "word": "这下是真不认识张钧甯了",
+      "onboard_time": 1778388199,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1676663,
@@ -4635,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499810,
+      "num": 499810,
+      "word": "婴儿的握力能有多大",
+      "onboard_time": 1778392099,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499165,
       "num": 420085,
       "word": "白鹿晒手搓眼线",
@@ -5395,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436824,
+      "num": 436824,
+      "word": "者来女 歌手2026合伙人",
+      "onboard_time": 1778393780,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436075,
       "num": 415674,
       "word": "DeepSeek崩了",
@@ -5851,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399978,
+      "num": 238084,
+      "word": "白鹿凌晨三点还在练歌",
+      "onboard_time": 1778391500,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399875,
       "num": 690368,
       "word": "宋亚轩愿大家往后岁岁安稳",
@@ -5865,6 +5905,14 @@
       "onboard_time": 1777996104,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 399793,
+      "num": 272102,
+      "word": "小伙连刮3天刮刮乐中百万连夜返乡",
+      "onboard_time": 1778385440,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399731,
@@ -6387,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367398,
+      "num": 300157,
+      "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
+      "onboard_time": 1778384239,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 367097,
       "num": 355449,
       "word": "文章开酒吧了",
@@ -6865,6 +6921,14 @@
       "onboard_time": 1777955121,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342949,
+      "num": 236859,
+      "word": "47岁女子10次妊娠失败终生子",
+      "onboard_time": 1778388799,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342430,
@@ -7787,14 +7851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300157,
-      "num": 300157,
-      "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
-      "onboard_time": 1778384239,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 300058,
       "num": 412046,
       "word": "新郎敬茶时口误说爸请喝酒",
@@ -7849,6 +7905,14 @@
       "onboard_time": 1777634660,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298076,
+      "num": 298076,
+      "word": "机器人有没有体面一点的打包方式",
+      "onboard_time": 1778381780,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 297177,
@@ -7961,14 +8025,6 @@
       "onboard_time": 1778165063,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293536,
-      "num": 272102,
-      "word": "小伙连刮3天刮刮乐中百万连夜返乡",
-      "onboard_time": 1778385440,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293455,
@@ -8457,14 +8513,6 @@
       "onboard_time": 1778024779,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275297,
-      "num": 275297,
-      "word": "机器人有没有体面一点的打包方式",
-      "onboard_time": 1778381780,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 274883,
@@ -9267,6 +9315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248343,
+      "num": 231197,
+      "word": "桂林文旅为何不能直面一张脏凳子",
+      "onboard_time": 1778391079,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246966,
       "num": 161639,
       "word": "孟子义说我怎么可能不爱暮晚摇呢",
@@ -9339,6 +9395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245593,
+      "num": 245593,
+      "word": "詹姆斯回应雷霆3比0湖人",
+      "onboard_time": 1778389880,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245367,
       "num": 346347,
       "word": "女子遭家暴离婚儿子被误导排斥母亲",
@@ -9361,6 +9425,14 @@
       "onboard_time": 1778154139,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244916,
+      "num": 230303,
+      "word": "蓝盈莹和妈妈共用一张脸",
+      "onboard_time": 1778389698,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 244763,
@@ -9873,6 +9945,14 @@
       "onboard_time": 1778033479,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231959,
+      "num": 229809,
+      "word": "虞书欣官方单独重点介绍的华人艺人",
+      "onboard_time": 1778392459,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 231893,
@@ -10603,6 +10683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214546,
+      "num": 227356,
+      "word": "紫金陈 低智商犯罪2",
+      "onboard_time": 1778393300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214517,
       "num": 214517,
       "word": "孙杨这么大去变形记也晚了",
@@ -10649,6 +10737,14 @@
       "onboard_time": 1778219422,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213061,
+      "num": 225084,
+      "word": "女子称遭侵犯为取证问其是否喜欢自己",
+      "onboard_time": 1778394379,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212845,
@@ -10881,6 +10977,14 @@
       "onboard_time": 1777683619,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208172,
+      "num": 221086,
+      "word": "张继科说世乒赛团体赛都是单打独斗",
+      "onboard_time": 1778392880,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208010,
@@ -11756,7 +11860,7 @@
     },
     {
       "raw_hot": 187452,
-      "num": 187452,
+      "num": 215009,
       "word": "47名消费者准备正式起诉张静初",
       "onboard_time": 1778386580,
       "rank": 37,
@@ -12452,7 +12556,7 @@
     },
     {
       "raw_hot": 174151,
-      "num": 174151,
+      "num": 208674,
       "word": "鞠婧祎请张云龙喝阿黛特调",
       "onboard_time": 1778385740,
       "rank": 41,
@@ -12544,6 +12648,14 @@
       "word": "吴宜泽首进世锦赛决赛",
       "onboard_time": 1777762996,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172656,
+      "num": 219766,
+      "word": "张继科神预测国乒3比1赢法国",
+      "onboard_time": 1778393060,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -13603,6 +13715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151990,
+      "num": 241076,
+      "word": "DeepSeek被曝融资500亿",
+      "onboard_time": 1778385740,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151880,
       "num": 303590,
       "word": "药明康德董事长年薪近4000万",
@@ -13824,6 +13944,14 @@
       "word": "赵心童现场观战王楚钦",
       "onboard_time": 1777813101,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146274,
+      "num": 211984,
+      "word": "林昀儒世乒赛铜牌",
+      "onboard_time": 1778393300,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -14299,6 +14427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136519,
+      "num": 210843,
+      "word": "32岁妈妈产后3年查出7种病",
+      "onboard_time": 1778394621,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136503,
       "num": 370291,
       "word": "伊朗递交最新谈判方案",
@@ -14385,6 +14521,14 @@
       "onboard_time": 1777876821,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134576,
+      "num": 204971,
+      "word": "婆婆在特产里藏1万块让儿媳买手机",
+      "onboard_time": 1778388560,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134426,
@@ -14633,14 +14777,6 @@
       "onboard_time": 1778338282,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130238,
-      "num": 241076,
-      "word": "DeepSeek被曝融资500亿",
-      "onboard_time": 1778385740,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 130229,
@@ -15131,6 +15267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121475,
+      "num": 209222,
+      "word": "严浩翔新歌MV",
+      "onboard_time": 1778387780,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121460,
       "num": 121460,
       "word": "李小冉 洗牌码牌抓牌看牌",
@@ -15593,6 +15737,14 @@
       "onboard_time": 1778319801,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112600,
+      "num": 200970,
+      "word": "我妈当上了邓超MV的女主角",
+      "onboard_time": 1778389458,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112582,
@@ -16435,6 +16587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87491,
+      "num": 228776,
+      "word": "领克07GT公告图曝光",
+      "onboard_time": 1778391199,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87241,
       "num": 87241,
       "word": "吴宜泽一阶段3比1领先墨菲",
@@ -17123,6 +17283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64605,
+      "num": 212837,
+      "word": "4天3名70岁员工突发心梗脑梗",
+      "onboard_time": 1778394379,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64548,
       "num": 214923,
       "word": "这届年轻人的顶级心态",
@@ -17537,6 +17705,14 @@
       "onboard_time": 1778321722,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54149,
+      "num": 223268,
+      "word": "妈妈的哎永不缺席",
+      "onboard_time": 1778394320,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 53977,
@@ -18483,6 +18659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33145,
+      "num": 222765,
+      "word": "去年起王暖暖已昏倒3次",
+      "onboard_time": 1778394920,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33036,
       "num": 62162,
       "word": "斯诺克新王诞生宁波吴宜泽书写传奇",
@@ -18905,6 +19089,14 @@
       "onboard_time": 1777790239,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24433,
+      "num": 203908,
+      "word": "高管一个月烧20亿Token自称惭愧",
+      "onboard_time": 1778382440,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 23692,
