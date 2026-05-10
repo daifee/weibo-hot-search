@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778420946720,
+  "endTime": 1778421714247,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -25,6 +25,14 @@
       "onboard_time": 1777684399,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19315463,
+      "num": 20565463,
+      "word": "国乒女团7连冠",
+      "onboard_time": 1778420603,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 12337365,
@@ -233,14 +241,6 @@
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3435090,
-      "num": 3435090,
-      "word": "国乒女团7连冠",
-      "onboard_time": 1778420603,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 3343044,
@@ -1011,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1538325,
+      "num": 1538325,
+      "word": "压力给到孙颖莎",
+      "onboard_time": 1778417662,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1532316,
       "num": 572514,
       "word": "原来好的大学真的有隐形福利",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1777712540,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1322677,
-      "num": 1322677,
-      "word": "压力给到孙颖莎",
-      "onboard_time": 1778417662,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1315875,
@@ -1819,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025551,
+      "num": 1082049,
+      "word": "盼弟 来弟",
+      "onboard_time": 1778419461,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1023888,
       "num": 505714,
       "word": "谈没谈过恋爱一眼就能看出来",
@@ -2091,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 944228,
+      "num": 944228,
+      "word": "蔡文静一觉醒来账号被没收了",
+      "onboard_time": 1778414420,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934711,
       "num": 934711,
       "word": "解除台独刘世芳亲属全部职务",
@@ -2187,20 +2203,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 905504,
-      "num": 905504,
-      "word": "蔡文静一觉醒来账号被没收了",
-      "onboard_time": 1778414420,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 899954,
       "num": 916599,
       "word": "胖东来1公斤黄樱桃416元",
       "onboard_time": 1778162482,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 898021,
+      "num": 1010384,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1778418983,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 897795,
@@ -2305,6 +2321,14 @@
       "onboard_time": 1777877602,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 878685,
+      "num": 878685,
+      "word": "马琳战术",
+      "onboard_time": 1778420122,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 873357,
@@ -2867,6 +2891,14 @@
       "category": "议题讨论,体育"
     },
     {
+      "raw_hot": 760821,
+      "num": 760821,
+      "word": "蒯曼 削球",
+      "onboard_time": 1778417181,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 758833,
       "num": 491850,
       "word": "首尔偶遇田曦薇",
@@ -2923,20 +2955,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 748246,
+      "num": 748246,
+      "word": "宛瑜饰演者赵霁近况",
+      "onboard_time": 1778418742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 748216,
       "num": 336180,
       "word": "西安上空现不明物持续一小时后消失",
       "onboard_time": 1777688898,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 746707,
-      "num": 1082049,
-      "word": "盼弟 来弟",
-      "onboard_time": 1778419461,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 746120,
@@ -3065,14 +3097,6 @@
       "onboard_time": 1777888461,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 725579,
-      "num": 725579,
-      "word": "孙颖莎3比0张本美和",
-      "onboard_time": 1778418983,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 724927,
@@ -3300,7 +3324,7 @@
     },
     {
       "raw_hot": 687608,
-      "num": 569556,
+      "num": 570908,
       "word": "汉坦病毒邮轮零号病人身份曝光",
       "onboard_time": 1778412680,
       "rank": 14,
@@ -3355,6 +3379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 682007,
+      "num": 682007,
+      "word": "我不买开口榴莲的原因",
+      "onboard_time": 1778418681,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 681397,
       "num": 1109023,
       "word": "胖东来正式起诉博主惊梦人",
@@ -3380,7 +3412,7 @@
     },
     {
       "raw_hot": 676565,
-      "num": 569596,
+      "num": 615683,
       "word": "影院卫生间用手握香蕉西柚代指男女",
       "onboard_time": 1778409560,
       "rank": 19,
@@ -3915,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611915,
+      "num": 611915,
+      "word": "睫毛掉进眼睛里钙化了",
+      "onboard_time": 1778418859,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611467,
       "num": 1315236,
       "word": "莫雷加德认证樊振东定海神针",
@@ -4259,14 +4299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569628,
-      "num": 569628,
-      "word": "宛瑜饰演者赵霁近况",
-      "onboard_time": 1778418742,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569197,
       "num": 569197,
       "word": "张继科谈国乒男团进四强",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1777717580,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 547161,
-      "num": 547161,
-      "word": "蒯曼 削球",
-      "onboard_time": 1778417181,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 544975,
@@ -4601,14 +4625,6 @@
       "onboard_time": 1777734986,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530392,
-      "num": 530392,
-      "word": "我不买开口榴莲的原因",
-      "onboard_time": 1778418681,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 529840,
@@ -4956,7 +4972,7 @@
     },
     {
       "raw_hot": 498382,
-      "num": 569625,
+      "num": 642536,
       "word": "主角",
       "onboard_time": 1778122220,
       "rank": 40,
@@ -5443,6 +5459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461557,
+      "num": 461557,
+      "word": "马立奥妹妹早产",
+      "onboard_time": 1778416280,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460944,
       "num": 460944,
       "word": "涉疫邮轮上唯一一名医生也感染了",
@@ -5545,14 +5569,6 @@
       "onboard_time": 1777978881,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 451057,
-      "num": 235595,
-      "word": "睫毛掉进眼睛里钙化了",
-      "onboard_time": 1778418859,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 449159,
@@ -5715,14 +5731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439532,
-      "num": 234831,
-      "word": "马琳战术",
-      "onboard_time": 1778420122,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 439526,
       "num": 379750,
       "word": "国际足联严重依赖中国赞助商",
@@ -5841,14 +5849,6 @@
       "onboard_time": 1778081302,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430825,
-      "num": 234456,
-      "word": "马立奥妹妹早产",
-      "onboard_time": 1778416280,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 430085,
@@ -6305,6 +6305,14 @@
       "onboard_time": 1777720581,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396964,
+      "num": 190820,
+      "word": "孙颖莎证明自己为何是世界第一",
+      "onboard_time": 1778421684,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 396438,
@@ -7211,6 +7219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347616,
+      "num": 233641,
+      "word": "李金铭报平安第一天",
+      "onboard_time": 1778418923,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347367,
       "num": 347367,
       "word": "昔日网红自嗨锅破产",
@@ -8083,12 +8099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308340,
-      "num": 233641,
-      "word": "李金铭报平安第一天",
-      "onboard_time": 1778418923,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 307978,
+      "num": 307978,
+      "word": "严浩翔要求给每位小演员单独的镜头",
+      "onboard_time": 1778420063,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 307758,
@@ -8345,6 +8361,14 @@
       "onboard_time": 1777873040,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297167,
+      "num": 569564,
+      "word": "孙颖莎彰显体育精神",
+      "onboard_time": 1778419943,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 297004,
@@ -8699,6 +8723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 285181,
+      "num": 228759,
+      "word": "孙颖莎怒吼庆祝",
+      "onboard_time": 1778419461,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284665,
       "num": 330435,
       "word": "巴雷特绝杀骑士",
@@ -8793,6 +8825,14 @@
       "onboard_time": 1777706960,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281011,
+      "num": 185627,
+      "word": "王曼昱哭了",
+      "onboard_time": 1778421684,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 280908,
@@ -9075,6 +9115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270773,
+      "num": 192398,
+      "word": "马琳感受到王皓的压力了",
+      "onboard_time": 1778420903,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270758,
       "num": 400681,
       "word": "吴镇宇要谢依霖把自己洗干净",
@@ -9161,14 +9209,6 @@
       "onboard_time": 1777974201,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266833,
-      "num": 266833,
-      "word": "严浩翔要求给每位小演员单独的镜头",
-      "onboard_time": 1778420063,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 266312,
@@ -10569,14 +10609,6 @@
       "onboard_time": 1778307621,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228759,
-      "num": 228759,
-      "word": "孙颖莎怒吼庆祝",
-      "onboard_time": 1778419461,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 228578,
@@ -12163,14 +12195,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192398,
-      "num": 192398,
-      "word": "马琳感受到王皓的压力了",
-      "onboard_time": 1778420903,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192195,
       "num": 192195,
       "word": "孙怡 智性恋爆发",
@@ -13297,6 +13321,14 @@
       "onboard_time": 1777886241,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171250,
+      "num": 185086,
+      "word": "孙颖莎把早田希娜打到趴台上无奈笑",
+      "onboard_time": 1778417181,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 171067,
@@ -16043,14 +16075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119679,
-      "num": 569564,
-      "word": "孙颖莎彰显体育精神",
-      "onboard_time": 1778419943,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119676,
       "num": 255204,
       "word": "21世纪大君夫人8",
@@ -17403,6 +17427,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 82974,
+      "num": 187666,
+      "word": "主角 老戏骨飙戏",
+      "onboard_time": 1778421145,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82894,
       "num": 225866,
       "word": "2026F1迈阿密大奖赛",
@@ -18689,6 +18721,14 @@
       "onboard_time": 1777931536,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48548,
+      "num": 184662,
+      "word": "秦海璐一出场这味儿就对了",
+      "onboard_time": 1778421684,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 48496,
@@ -20003,6 +20043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21712,
+      "num": 614821,
+      "word": "圣罗兰拉黑杭州一条街道",
+      "onboard_time": 1778420781,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21692,
       "num": 50521,
       "word": "国乒男团3比0英格兰",
@@ -20200,6 +20248,14 @@
       "word": "减肥咖啡查出违禁成分案重审二审",
       "onboard_time": 1778343200,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16606,
+      "num": 230163,
+      "word": "男生走路看手机踢到石头致脚趾断离",
+      "onboard_time": 1778420903,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -20499,14 +20555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10317,
-      "num": 230163,
-      "word": "男生走路看手机踢到石头致脚趾断离",
-      "onboard_time": 1778420903,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10221,
       "num": 189499,
       "word": "Meiko期待和Viper交手",
@@ -20609,14 +20657,6 @@
       "onboard_time": 1777539981,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 5705,
-      "num": 475602,
-      "word": "圣罗兰拉黑杭州一条街道",
-      "onboard_time": 1778420781,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5692,

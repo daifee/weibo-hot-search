@@ -1,0 +1,410 @@
+{
+  "runTime": 1778421714247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19315463,
+        "num": 20565463,
+        "word": "国乒女团7连冠",
+        "onboard_time": 1778420603,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5138632,
+        "num": 5138632,
+        "word": "中国女团vs日本",
+        "onboard_time": 1778406919,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 3432197,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3137608,
+        "num": 3137608,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1778417001,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2021484,
+        "num": 2021484,
+        "word": "身体的炎症全部消失22个tips",
+        "onboard_time": 1778414660,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1903399,
+        "num": 1903399,
+        "word": "王曼昱vs早田希娜",
+        "onboard_time": 1778419160,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1538325,
+        "num": 1538325,
+        "word": "压力给到孙颖莎",
+        "onboard_time": 1778417662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1025551,
+        "num": 1025551,
+        "word": "盼弟 来弟",
+        "onboard_time": 1778419461,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311440,
+        "num": 1011049,
+        "word": "网传一念江南黄了",
+        "onboard_time": 1778403619,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 898021,
+        "num": 1010384,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1778418983,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009867,
+        "num": 1009867,
+        "word": "小英道歉了",
+        "onboard_time": 1778404340,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 944228,
+        "num": 944228,
+        "word": "蔡文静一觉醒来账号被没收了",
+        "onboard_time": 1778414420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878685,
+        "num": 878685,
+        "word": "马琳战术",
+        "onboard_time": 1778420122,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 870906,
+        "num": 870906,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 760821,
+        "num": 760821,
+        "word": "蒯曼 削球",
+        "onboard_time": 1778417181,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748246,
+        "num": 748246,
+        "word": "宛瑜饰演者赵霁近况",
+        "onboard_time": 1778418742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682007,
+        "num": 682007,
+        "word": "我不买开口榴莲的原因",
+        "onboard_time": 1778418681,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 489353,
+        "num": 642536,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380517,
+        "num": 615683,
+        "word": "影院卫生间用手握香蕉西柚代指男女",
+        "onboard_time": 1778409560,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21712,
+        "num": 614821,
+        "word": "圣罗兰拉黑杭州一条街道",
+        "onboard_time": 1778420781,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613993,
+        "num": 613993,
+        "word": "全公司最不会离职的人终于出现了",
+        "onboard_time": 1778401100,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 611915,
+        "num": 611915,
+        "word": "睫毛掉进眼睛里钙化了",
+        "onboard_time": 1778418859,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570908,
+        "num": 570908,
+        "word": "汉坦病毒邮轮零号病人身份曝光",
+        "onboard_time": 1778412680,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 531089,
+        "num": 531089,
+        "word": "中国女团2比2日本",
+        "onboard_time": 1778419581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521773,
+        "num": 521773,
+        "word": "王曼昱2比3张本美和",
+        "onboard_time": 1778411120,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507486,
+        "num": 507486,
+        "word": "蒯曼vs桥本帆乃香",
+        "onboard_time": 1778413700,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461557,
+        "num": 461557,
+        "word": "马立奥妹妹早产",
+        "onboard_time": 1778416280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307978,
+        "num": 307978,
+        "word": "严浩翔要求给每位小演员单独的镜头",
+        "onboard_time": 1778420063,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229531,
+        "num": 229531,
+        "word": "45岁独身男子离世15万存款被转走",
+        "onboard_time": 1778403440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191943,
+        "num": 191943,
+        "word": "伊朗已回应美国提出的结束战争方案",
+        "onboard_time": 1778419103,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453270,
+        "num": 191833,
+        "word": "王俊凯说北京在我心里是首都",
+        "onboard_time": 1778408781,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432734,
+        "num": 190938,
+        "word": "邓超说孙俪带三个辛苦了",
+        "onboard_time": 1778410581,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396964,
+        "num": 190820,
+        "word": "孙颖莎证明自己为何是世界第一",
+        "onboard_time": 1778421684,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349360,
+        "num": 189928,
+        "word": "蒯曼1比3桥本帆乃香",
+        "onboard_time": 1778416523,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285181,
+        "num": 189663,
+        "word": "孙颖莎怒吼庆祝",
+        "onboard_time": 1778419461,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347616,
+        "num": 189111,
+        "word": "李金铭报平安第一天",
+        "onboard_time": 1778418923,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270773,
+        "num": 188494,
+        "word": "马琳感受到王皓的压力了",
+        "onboard_time": 1778420903,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301312,
+        "num": 187913,
+        "word": "世乒赛",
+        "onboard_time": 1778401880,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82974,
+        "num": 187666,
+        "word": "主角 老戏骨飙戏",
+        "onboard_time": 1778421145,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16606,
+        "num": 187186,
+        "word": "男生走路看手机踢到石头致脚趾断离",
+        "onboard_time": 1778420903,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297167,
+        "num": 186698,
+        "word": "孙颖莎彰显体育精神",
+        "onboard_time": 1778419943,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279567,
+        "num": 186214,
+        "word": "张本美和打得凶",
+        "onboard_time": 1778412620,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281011,
+        "num": 185627,
+        "word": "王曼昱哭了",
+        "onboard_time": 1778421684,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171250,
+        "num": 185086,
+        "word": "孙颖莎把早田希娜打到趴台上无奈笑",
+        "onboard_time": 1778417181,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48548,
+        "num": 184662,
+        "word": "秦海璐一出场这味儿就对了",
+        "onboard_time": 1778421684,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217483,
+        "num": 183867,
+        "word": "给阿嬷的情书9.1分是什么概念",
+        "onboard_time": 1778401641,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183679,
+        "num": 183679,
+        "word": "越南男子不慎卷入粉碎机身亡",
+        "onboard_time": 1778407760,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216892,
+        "num": 183517,
+        "word": "谈莉娜给孩子做母乳手镯",
+        "onboard_time": 1778412920,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176494,
+        "num": 176494,
+        "word": "歌手2026",
+        "onboard_time": 1778397799,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197020,
+        "num": 174943,
+        "word": "虞书欣谷爱凌同框",
+        "onboard_time": 1778406381,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}
