@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778410000076,
+  "endTime": 1778414393644,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2123,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2716805,
+      "num": 2716805,
+      "word": "中国女团vs日本",
+      "onboard_time": 1778406919,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2708776,
       "num": 2708776,
       "word": "未授权AI艺人",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774883184,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2496844,
-      "num": 1434033,
-      "word": "李小冉疑回应退出浪姐",
-      "onboard_time": 1776583160,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
