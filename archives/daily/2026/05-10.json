@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778403676078,
+  "endTime": 1778404466824,
   "band_list": [
     {
       "raw_hot": 3569584,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1686373,
-      "num": 289749,
+      "num": 357536,
       "word": "这下是真不认识张钧甯了",
       "onboard_time": 1778388199,
       "rank": 10,
@@ -75,12 +75,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1514284,
+      "num": 362526,
+      "word": "曝小英带货佣金",
+      "onboard_time": 1778395401,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1472287,
       "num": 1472287,
       "word": "中国男团1比1法国",
       "onboard_time": 1778360415,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1423534,
+      "num": 1040515,
+      "word": "全公司最不会离职的人终于出现了",
+      "onboard_time": 1778401100,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1417996,
@@ -97,14 +113,6 @@
       "onboard_time": 1778338041,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1350067,
-      "num": 292778,
-      "word": "曝小英带货佣金",
-      "onboard_time": 1778395401,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1334269,
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1096769,
-      "num": 1040515,
-      "word": "全公司最不会离职的人终于出现了",
-      "onboard_time": 1778401100,
-      "rank": 3,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1023639,
       "num": 1023639,
       "word": "蒜苔拼豆",
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766627,
+      "num": 766627,
+      "word": "网传一念江南黄了",
+      "onboard_time": 1778403619,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761569,
       "num": 648483,
       "word": "29岁未婚育女子宫颈癌离世",
@@ -209,6 +217,14 @@
       "onboard_time": 1778397799,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 744891,
+      "num": 358643,
+      "word": "14岁男生奸杀同学案被告人未上诉",
+      "onboard_time": 1778402361,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732665,
@@ -249,6 +265,14 @@
       "onboard_time": 1778338822,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624235,
+      "num": 354312,
+      "word": "王俊凯戴耳机这一下",
+      "onboard_time": 1778401399,
+      "rank": 13,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 605431,
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512266,
-      "num": 285593,
-      "word": "王俊凯戴耳机这一下",
-      "onboard_time": 1778401399,
-      "rank": 13,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 499810,
       "num": 499810,
       "word": "婴儿的握力能有多大",
@@ -329,6 +345,14 @@
       "onboard_time": 1778376678,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 484955,
+      "num": 336925,
+      "word": "何炅现身浙江大学揽才",
+      "onboard_time": 1778399000,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 477630,
@@ -367,14 +391,6 @@
       "num": 272684,
       "word": "叶祖新叫蔡文静醒醒",
       "onboard_time": 1778385259,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 451807,
-      "num": 270306,
-      "word": "何炅现身浙江大学揽才",
-      "onboard_time": 1778399000,
       "rank": 21,
       "category": "艺人"
     },
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406609,
+      "num": 332509,
+      "word": "5克金饰成母亲节热销爆款",
+      "onboard_time": 1778402720,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401500,
       "num": 401500,
       "word": "郑钦文vs奥斯塔彭科",
@@ -467,6 +491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 370735,
+      "num": 329771,
+      "word": "沈梦辰理想型张凌赫嫁给杜海涛",
+      "onboard_time": 1778402119,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367398,
       "num": 300157,
       "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
@@ -475,20 +507,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 365604,
+      "num": 365604,
+      "word": "世乒赛",
+      "onboard_time": 1778401880,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351991,
       "num": 306430,
       "word": "如果一个人长期不工作",
       "onboard_time": 1778370139,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351352,
-      "num": 289126,
-      "word": "14岁男生奸杀同学案被告人未上诉",
-      "onboard_time": 1778402361,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348487,
@@ -505,14 +537,6 @@
       "onboard_time": 1778335281,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344848,
-      "num": 268200,
-      "word": "5克金饰成母亲节热销爆款",
-      "onboard_time": 1778402720,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342949,
@@ -537,22 +561,6 @@
       "onboard_time": 1778328801,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 325134,
-      "num": 282902,
-      "word": "沈梦辰理想型张凌赫嫁给杜海涛",
-      "onboard_time": 1778402119,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 323493,
-      "num": 263603,
-      "word": "网传一念江南黄了",
-      "onboard_time": 1778403619,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 320877,
@@ -612,19 +620,11 @@
     },
     {
       "raw_hot": 298076,
-      "num": 298076,
+      "num": 348651,
       "word": "机器人有没有体面一点的打包方式",
       "onboard_time": 1778381780,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 296385,
-      "num": 296385,
-      "word": "世乒赛",
-      "onboard_time": 1778401880,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 295871,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 282567,
-      "num": 282567,
+      "num": 351843,
       "word": "金银价格大涨",
       "onboard_time": 1778394560,
       "rank": 38,
@@ -683,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271898,
+      "num": 271898,
+      "word": "给阿嬷的情书9.1分是什么概念",
+      "onboard_time": 1778401641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265307,
       "num": 223405,
       "word": "陈奕恒 下班",
@@ -705,14 +713,6 @@
       "onboard_time": 1778378780,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262182,
-      "num": 262182,
-      "word": "给阿嬷的情书9.1分是什么概念",
-      "onboard_time": 1778401641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 260771,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 245593,
-      "num": 294826,
+      "num": 364304,
       "word": "詹姆斯回应雷霆3比0湖人",
       "onboard_time": 1778389880,
       "rank": 9,
@@ -792,6 +792,14 @@
       "word": "舅妈不敢置信第一时间掀帽确认",
       "onboard_time": 1778368877,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239854,
+      "num": 239854,
+      "word": "牛妈妈产下畸形双头小牛",
+      "onboard_time": 1778402060,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -899,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211494,
-      "num": 211494,
-      "word": "牛妈妈产下畸形双头小牛",
-      "onboard_time": 1778402060,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208893,
       "num": 208893,
       "word": "45岁独身男子离世15万存款被转走",
@@ -995,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 185642,
+      "num": 185642,
+      "word": "优酷2026年度片单",
+      "onboard_time": 1778398761,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184382,
       "num": 184382,
       "word": "刘雨昕离了王濛发现外面根本没雨",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1778371878,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177527,
-      "num": 161730,
-      "word": "优酷2026年度片单",
-      "onboard_time": 1778398761,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 175644,
@@ -1115,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167415,
+      "num": 167415,
+      "word": "小英道歉了",
+      "onboard_time": 1778404340,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 167163,
       "num": 167163,
       "word": "张怡宁预测国乒男女团今晚对决日本",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 161318,
-      "num": 278556,
+      "num": 350794,
       "word": "DeepSeek被曝融资500亿",
       "onboard_time": 1778385740,
       "rank": 29,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1778401339,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150649,
+      "num": 150649,
+      "word": "公厕文学",
+      "onboard_time": 1778404101,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 148233,
@@ -1643,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29404,
+      "num": 152731,
+      "word": "曝字节今年AI支出将超2000亿",
+      "onboard_time": 1778398459,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28119,
       "num": 193788,
       "word": "211毕业当保安当事人再发声",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1778396539,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 27356,
-      "num": 152731,
-      "word": "曝字节今年AI支出将超2000亿",
-      "onboard_time": 1778398459,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 26752,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1778402840,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22479,
+      "num": 344072,
+      "word": "ZmjjKK我不在乎对手是谁",
+      "onboard_time": 1778403681,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 22378,
@@ -1755,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13778,
+      "num": 340791,
+      "word": "村干部将救助金给亲戚当地致歉",
+      "onboard_time": 1778403619,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 11589,
       "num": 196486,
       "word": "抗癌妈妈邓静撕掉100个遗愿清单",
@@ -1771,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10221,
+      "num": 189499,
+      "word": "Meiko期待和Viper交手",
+      "onboard_time": 1778403681,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 7349,
       "num": 905695,
       "word": "1组海报看中国魅力花式出圈",
@@ -1779,12 +1819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5179,
-      "num": 211635,
-      "word": "村干部将救助金给亲戚当地致歉",
-      "onboard_time": 1778403619,
-      "rank": 35,
-      "category": "辟谣/通报"
+      "raw_hot": 3161,
+      "num": 341908,
+      "word": "TES战胜WE",
+      "onboard_time": 1778403681,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 3063,

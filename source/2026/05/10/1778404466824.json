@@ -1,0 +1,410 @@
+{
+  "runTime": 1778404466824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3345029,
+        "num": 3345029,
+        "word": "安慕希 百万撤离",
+        "onboard_time": 1778392639,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531583,
+        "num": 1089211,
+        "word": "难怪现在在外面吃饭很少拉肚子了",
+        "onboard_time": 1778381480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55787,
+        "num": 919443,
+        "word": "一句句妈妈听哭了",
+        "onboard_time": 1778397680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1423534,
+        "num": 918673,
+        "word": "全公司最不会离职的人终于出现了",
+        "onboard_time": 1778401100,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 873753,
+        "num": 873753,
+        "word": "蒜苔拼豆",
+        "onboard_time": 1778400319,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 766627,
+        "num": 766627,
+        "word": "网传一念江南黄了",
+        "onboard_time": 1778403619,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588283,
+        "num": 588283,
+        "word": "歌手2026",
+        "onboard_time": 1778397799,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387951,
+        "num": 387951,
+        "word": "女子称遭侵犯为取证问其是否喜欢自己",
+        "onboard_time": 1778394379,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365604,
+        "num": 365604,
+        "word": "世乒赛",
+        "onboard_time": 1778401880,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148900,
+        "num": 364304,
+        "word": "詹姆斯回应雷霆3比0湖人",
+        "onboard_time": 1778389880,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1514284,
+        "num": 362526,
+        "word": "曝小英带货佣金",
+        "onboard_time": 1778395401,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 744891,
+        "num": 358643,
+        "word": "14岁男生奸杀同学案被告人未上诉",
+        "onboard_time": 1778402361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674858,
+        "num": 357536,
+        "word": "这下是真不认识张钧甯了",
+        "onboard_time": 1778388199,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624235,
+        "num": 354312,
+        "word": "王俊凯戴耳机这一下",
+        "onboard_time": 1778401399,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 252847,
+        "num": 351843,
+        "word": "金银价格大涨",
+        "onboard_time": 1778394560,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85130,
+        "num": 350794,
+        "word": "DeepSeek被曝融资500亿",
+        "onboard_time": 1778385740,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81370,
+        "num": 348651,
+        "word": "机器人有没有体面一点的打包方式",
+        "onboard_time": 1778381780,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22479,
+        "num": 344072,
+        "word": "ZmjjKK我不在乎对手是谁",
+        "onboard_time": 1778403681,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3161,
+        "num": 341908,
+        "word": "TES战胜WE",
+        "onboard_time": 1778403681,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13778,
+        "num": 340791,
+        "word": "村干部将救助金给亲戚当地致歉",
+        "onboard_time": 1778403619,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 484955,
+        "num": 336925,
+        "word": "何炅现身浙江大学揽才",
+        "onboard_time": 1778399000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409125,
+        "num": 334697,
+        "word": "陈赫回应邀请李晨上五哈",
+        "onboard_time": 1778373620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406609,
+        "num": 332509,
+        "word": "5克金饰成母亲节热销爆款",
+        "onboard_time": 1778402720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370735,
+        "num": 329771,
+        "word": "沈梦辰理想型张凌赫嫁给杜海涛",
+        "onboard_time": 1778402119,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329680,
+        "num": 329680,
+        "word": "虞书欣G社生图",
+        "onboard_time": 1778377158,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320379,
+        "num": 320379,
+        "word": "一季度全国结婚登记169.7万对",
+        "onboard_time": 1778384899,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271898,
+        "num": 271898,
+        "word": "给阿嬷的情书9.1分是什么概念",
+        "onboard_time": 1778401641,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249318,
+        "num": 249318,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58912,
+        "num": 244526,
+        "word": "领克07GT公告图曝光",
+        "onboard_time": 1778391199,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132192,
+        "num": 241504,
+        "word": "涉疫邮轮上唯一一名医生也感染了",
+        "onboard_time": 1778382381,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 239854,
+        "num": 239854,
+        "word": "牛妈妈产下畸形双头小牛",
+        "onboard_time": 1778402060,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221527,
+        "num": 221527,
+        "word": "李现拍的张婧仪",
+        "onboard_time": 1778397201,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218995,
+        "num": 218995,
+        "word": "刘宇宁进组",
+        "onboard_time": 1778395339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210585,
+        "num": 210585,
+        "word": "婴儿的握力能有多大",
+        "onboard_time": 1778392099,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208245,
+        "num": 208245,
+        "word": "桂林文旅为何不能直面一张脏凳子",
+        "onboard_time": 1778391079,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202739,
+        "num": 202739,
+        "word": "原来这么多年牙齿都在负重前行",
+        "onboard_time": 1778383400,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199361,
+        "num": 199361,
+        "word": "蔡文静经纪人打电话让蔡文静下播",
+        "onboard_time": 1778368217,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193765,
+        "num": 193765,
+        "word": "45岁独身男子离世15万存款被转走",
+        "onboard_time": 1778403440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10221,
+        "num": 189499,
+        "word": "Meiko期待和Viper交手",
+        "onboard_time": 1778403681,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185642,
+        "num": 185642,
+        "word": "优酷2026年度片单",
+        "onboard_time": 1778398761,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167415,
+        "num": 167415,
+        "word": "小英道歉了",
+        "onboard_time": 1778404340,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166262,
+        "num": 166262,
+        "word": "张怡宁预测国乒男女团今晚对决日本",
+        "onboard_time": 1778400559,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164566,
+        "num": 164566,
+        "word": "者来女 歌手2026合伙人",
+        "onboard_time": 1778393780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "小沈阳祖孙三代共用一张脸",
+        "onboard_time": 1778400979,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150649,
+        "num": 150649,
+        "word": "公厕文学",
+        "onboard_time": 1778404101,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153412,
+        "num": 149866,
+        "word": "王俊凯无畏契约表演赛",
+        "onboard_time": 1778397920,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 139163,
+        "num": 139163,
+        "word": "马嘉祺我们生活在南京预告",
+        "onboard_time": 1778397201,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126138,
+        "num": 126138,
+        "word": "男子假期躺平2天查出肺栓塞进ICU",
+        "onboard_time": 1778401339,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115903,
+        "num": 125893,
+        "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
+        "onboard_time": 1778384239,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29404,
+        "num": 125421,
+        "word": "曝字节今年AI支出将超2000亿",
+        "onboard_time": 1778398459,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}
