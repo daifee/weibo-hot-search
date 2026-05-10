@@ -1,0 +1,410 @@
+{
+  "runTime": 1778425286015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10781191,
+        "num": 10781191,
+        "word": "国乒女团7连冠",
+        "onboard_time": 1778420603,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3982546,
+        "num": 3982546,
+        "word": "王曼昱哭了",
+        "onboard_time": 1778421684,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120507,
+        "num": 2386211,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1885356,
+        "num": 1885356,
+        "word": "孙颖莎MVP",
+        "onboard_time": 1778422464,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1882908,
+        "num": 1882908,
+        "word": "身体的炎症全部消失22个tips",
+        "onboard_time": 1778414660,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1647093,
+        "num": 1647093,
+        "word": "马琳战术",
+        "onboard_time": 1778420122,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1422492,
+        "num": 1422492,
+        "word": "盼弟 来弟",
+        "onboard_time": 1778419461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 724686,
+        "num": 724686,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600657,
+        "num": 600657,
+        "word": "睫毛掉进眼睛里钙化了",
+        "onboard_time": 1778418859,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523106,
+        "num": 523106,
+        "word": "主角收视率",
+        "onboard_time": 1778423063,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2659868,
+        "num": 523059,
+        "word": "严浩翔 延毕",
+        "onboard_time": 1778422643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827471,
+        "num": 522683,
+        "word": "马龙许昕为孙颖莎鼓掌",
+        "onboard_time": 1778423123,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1518194,
+        "num": 522331,
+        "word": "蔡文静一觉醒来账号被没收了",
+        "onboard_time": 1778414420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589321,
+        "num": 521973,
+        "word": "马琳指导哭了",
+        "onboard_time": 1778424263,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553652,
+        "num": 521670,
+        "word": "小英道歉了",
+        "onboard_time": 1778404340,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 531575,
+        "num": 521448,
+        "word": "孙颖莎哽咽了",
+        "onboard_time": 1778423485,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528982,
+        "num": 520840,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1778417001,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395093,
+        "num": 520774,
+        "word": "严浩翔要求给每位小演员单独的镜头",
+        "onboard_time": 1778420063,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328091,
+        "num": 520326,
+        "word": "影院卫生间用手握香蕉西柚代指男女",
+        "onboard_time": 1778409560,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520193,
+        "num": 520193,
+        "word": "中国女团vs日本",
+        "onboard_time": 1778406919,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483556,
+        "num": 517242,
+        "word": "压力给到孙颖莎",
+        "onboard_time": 1778417662,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597399,
+        "num": 515622,
+        "word": "宋祖儿的腿瘦凹回去了",
+        "onboard_time": 1778425042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553303,
+        "num": 510088,
+        "word": "马立奥妹妹早产",
+        "onboard_time": 1778416280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303717,
+        "num": 504759,
+        "word": "吃出24块鸡头顾客被免单仍想市监介入",
+        "onboard_time": 1778423003,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504441,
+        "num": 504441,
+        "word": "我不买开口榴莲的原因",
+        "onboard_time": 1778418681,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 487051,
+        "num": 487051,
+        "word": "宛瑜饰演者赵霁近况",
+        "onboard_time": 1778418742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408668,
+        "num": 408668,
+        "word": "汉坦病毒邮轮零号病人身份曝光",
+        "onboard_time": 1778412680,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325778,
+        "num": 325778,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220707,
+        "num": 220707,
+        "word": "网传一念江南黄了",
+        "onboard_time": 1778403619,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212651,
+        "num": 212651,
+        "word": "伊朗已回应美国提出的结束战争方案",
+        "onboard_time": 1778419103,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 471990,
+        "num": 211923,
+        "word": "海产姐妹",
+        "onboard_time": 1778424503,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401295,
+        "num": 211132,
+        "word": "王曼昱vs早田希娜",
+        "onboard_time": 1778419160,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385759,
+        "num": 210045,
+        "word": "王俊凯说北京在我心里是首都",
+        "onboard_time": 1778408781,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360882,
+        "num": 208990,
+        "word": "全公司最不会离职的人终于出现了",
+        "onboard_time": 1778401100,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352079,
+        "num": 208678,
+        "word": "李金铭报平安第一天",
+        "onboard_time": 1778418923,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346155,
+        "num": 207255,
+        "word": "马琳感受到王皓的压力了",
+        "onboard_time": 1778420903,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322253,
+        "num": 206674,
+        "word": "邓超说孙俪带三个辛苦了",
+        "onboard_time": 1778410581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317762,
+        "num": 205725,
+        "word": "EDG战胜XLG夺冠",
+        "onboard_time": 1778423303,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313464,
+        "num": 204503,
+        "word": "孙颖莎证明自己为何是世界第一",
+        "onboard_time": 1778421684,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304897,
+        "num": 203538,
+        "word": "蒯曼 削球",
+        "onboard_time": 1778417181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276282,
+        "num": 202877,
+        "word": "身体有炎症要忌口4种食物",
+        "onboard_time": 1778423844,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258649,
+        "num": 202056,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1778418983,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252713,
+        "num": 200510,
+        "word": "李嘉格和男友是她女儿撮合的",
+        "onboard_time": 1778424144,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200435,
+        "num": 200435,
+        "word": "越南男子不慎卷入粉碎机身亡",
+        "onboard_time": 1778407760,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188388,
+        "num": 188388,
+        "word": "主角 电影质感",
+        "onboard_time": 1778421081,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184991,
+        "num": 184991,
+        "word": "央视曝光三无手搓汽车",
+        "onboard_time": 1778421803,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158145,
+        "num": 183119,
+        "word": "45岁独身男子离世15万存款被转走",
+        "onboard_time": 1778403440,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144548,
+        "num": 182207,
+        "word": "歌手2026",
+        "onboard_time": 1778397799,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142310,
+        "num": 179586,
+        "word": "给阿嬷的情书9.1分是什么概念",
+        "onboard_time": 1778401641,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3373,
+        "num": 178643,
+        "word": "领克07GT公告图曝光",
+        "onboard_time": 1778391199,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}
