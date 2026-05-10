@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778408682057,
+  "endTime": 1778410000076,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -168,6 +168,14 @@
       "word": "榴莲仅退款买家被行拘",
       "onboard_time": 1778223740,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3784340,
+      "num": 272296,
+      "word": "武大就OPPO母亲节文案发声",
+      "onboard_time": 1778406021,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -667,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1901294,
-      "num": 272296,
-      "word": "武大就OPPO母亲节文案发声",
-      "onboard_time": 1778406021,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1890709,
       "num": 2078456,
       "word": "跑男学这么精彩吗",
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 1587045,
-      "num": 640765,
+      "num": 996909,
       "word": "要对存钱有概念",
       "onboard_time": 1778406381,
       "rank": 3,
@@ -972,11 +972,19 @@
     },
     {
       "raw_hot": 1514284,
-      "num": 382706,
+      "num": 422848,
       "word": "曝小英带货佣金",
       "onboard_time": 1778395401,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1493266,
+      "num": 1493266,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1778408540,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1492576,
@@ -1451,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147556,
+      "num": 427044,
+      "word": "小英道歉了",
+      "onboard_time": 1778404340,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1140880,
       "num": 377236,
       "word": "OPPO 道歉诚意",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1777768759,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1128326,
-      "num": 384582,
-      "word": "小英道歉了",
-      "onboard_time": 1778404340,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 1127294,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1778251762,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 994026,
+      "num": 994026,
+      "word": "中国女团vs日本",
+      "onboard_time": 1778406919,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 985079,
@@ -2459,6 +2475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 817526,
+      "num": 371675,
+      "word": "14岁男生奸杀同学案被告人未上诉",
+      "onboard_time": 1778402361,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 817409,
       "num": 379817,
       "word": "宋亚轩遗失的心跳solo",
@@ -2708,7 +2732,7 @@
     },
     {
       "raw_hot": 774105,
-      "num": 614152,
+      "num": 674613,
       "word": "奔跑吧兄弟 溜达吧爱豆",
       "onboard_time": 1778404640,
       "rank": 5,
@@ -2833,14 +2857,6 @@
       "onboard_time": 1778145681,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 744891,
-      "num": 371675,
-      "word": "14岁男生奸杀同学案被告人未上诉",
-      "onboard_time": 1778402361,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 743783,
@@ -3931,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587076,
+      "num": 587076,
+      "word": "公厕文学",
+      "onboard_time": 1778404101,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586979,
       "num": 414883,
       "word": "美公布首批UFO相关政府文件",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1777957522,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 580019,
-      "num": 580019,
-      "word": "公厕文学",
-      "onboard_time": 1778404101,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 579489,
@@ -4385,6 +4401,14 @@
       "onboard_time": 1778403440,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537145,
+      "num": 388572,
+      "word": "虞书欣谷爱凌同框",
+      "onboard_time": 1778406381,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 536480,
@@ -5827,14 +5851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414562,
-      "num": 378053,
-      "word": "虞书欣谷爱凌同框",
-      "onboard_time": 1778406381,
-      "rank": 14,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 414472,
       "num": 476993,
       "word": "高速上一车辆主副驾疑似全在睡觉",
@@ -6377,14 +6393,6 @@
       "onboard_time": 1778337863,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379852,
-      "num": 379852,
-      "word": "中国女团vs日本",
-      "onboard_time": 1778406919,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 379516,
@@ -7817,6 +7825,14 @@
       "onboard_time": 1777904364,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310000,
+      "num": 301606,
+      "word": "王俊凯说北京在我心里是首都",
+      "onboard_time": 1778408781,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 309259,
@@ -10059,14 +10075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234287,
-      "num": 234287,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1778408540,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233605,
       "num": 233605,
       "word": "马嘉祺我们生活在南京预告",
@@ -10585,6 +10593,14 @@
       "onboard_time": 1777951940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220592,
+      "num": 220592,
+      "word": "蔡文静闪现到妈妈身边了",
+      "onboard_time": 1778408899,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 220417,
@@ -12259,6 +12275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183595,
+      "num": 272447,
+      "word": "越南男子不慎卷入粉碎机身亡",
+      "onboard_time": 1778407760,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182950,
       "num": 381459,
       "word": "严浩翔高会更新",
@@ -13211,6 +13235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165706,
+      "num": 165706,
+      "word": "毛巾少爷不联姻的原因找到了",
+      "onboard_time": 1778406440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165702,
       "num": 298581,
       "word": "华人夫妇在美国豪宅离奇失踪一年",
@@ -13257,6 +13289,14 @@
       "onboard_time": 1778282239,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164843,
+      "num": 137957,
+      "word": "妈妈摆了一地牛奶迎接我回家",
+      "onboard_time": 1778409140,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 164628,
@@ -14025,14 +14065,6 @@
       "onboard_time": 1777939579,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151494,
-      "num": 151494,
-      "word": "毛巾少爷不联姻的原因找到了",
-      "onboard_time": 1778406440,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 151421,
@@ -14867,6 +14899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133938,
+      "num": 133938,
+      "word": "爱一个人格底色好的人才会长久",
+      "onboard_time": 1778405179,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133929,
       "num": 133929,
       "word": "陈雨菲0比2金佳恩",
@@ -15337,14 +15377,6 @@
       "onboard_time": 1777852938,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125447,
-      "num": 272447,
-      "word": "越南男子不慎卷入粉碎机身亡",
-      "onboard_time": 1778407760,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125208,
@@ -16819,6 +16851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90683,
+      "num": 302563,
+      "word": "影院卫生间用手握香蕉西柚代指男女",
+      "onboard_time": 1778409560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90263,
       "num": 177192,
       "word": "AI手搓小黄人产生意识了",
@@ -17987,6 +18027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55837,
+      "num": 188228,
+      "word": "刘浩存陈都灵什么时候认识",
+      "onboard_time": 1778409560,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55714,
       "num": 235814,
       "word": "境外间谍用美人计策反涉密人员",
@@ -18851,6 +18899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36335,
+      "num": 276049,
+      "word": "三星堆首次发现陨铁器",
+      "onboard_time": 1778409560,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35735,
       "num": 1779309,
       "word": "中国青年好young的",
@@ -18913,6 +18969,14 @@
       "onboard_time": 1777794319,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34615,
+      "num": 217954,
+      "word": "美国19岁少女疑遭男友囚虐数月致死",
+      "onboard_time": 1778409801,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34535,

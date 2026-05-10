@@ -1,0 +1,410 @@
+{
+  "runTime": 1778410000076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493266,
+        "num": 1493266,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1778408540,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1003708,
+        "num": 1003708,
+        "word": "世乒赛",
+        "onboard_time": 1778401880,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38732,
+        "num": 997290,
+        "word": "一句句妈妈听哭了",
+        "onboard_time": 1778397680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1392536,
+        "num": 996909,
+        "word": "要对存钱有概念",
+        "onboard_time": 1778406381,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1357108,
+        "num": 995565,
+        "word": "全公司最不会离职的人终于出现了",
+        "onboard_time": 1778401100,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 994026,
+        "num": 994026,
+        "word": "中国女团vs日本",
+        "onboard_time": 1778406919,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 674613,
+        "num": 674613,
+        "word": "奔跑吧兄弟 溜达吧爱豆",
+        "onboard_time": 1778404640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652026,
+        "num": 652026,
+        "word": "网传一念江南黄了",
+        "onboard_time": 1778403619,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587076,
+        "num": 587076,
+        "word": "公厕文学",
+        "onboard_time": 1778404101,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434094,
+        "num": 434094,
+        "word": "蒜苔拼豆",
+        "onboard_time": 1778400319,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1147556,
+        "num": 427044,
+        "word": "小英道歉了",
+        "onboard_time": 1778404340,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 807987,
+        "num": 422848,
+        "word": "曝小英带货佣金",
+        "onboard_time": 1778395401,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 418623,
+        "num": 418623,
+        "word": "45岁独身男子离世15万存款被转走",
+        "onboard_time": 1778403440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537145,
+        "num": 388572,
+        "word": "虞书欣谷爱凌同框",
+        "onboard_time": 1778406381,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 347021,
+        "num": 347021,
+        "word": "王俊凯戴耳机这一下",
+        "onboard_time": 1778401399,
+        "rank": 14,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 307682,
+        "num": 307682,
+        "word": "中国女团vs日本对阵名单",
+        "onboard_time": 1778407221,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304075,
+        "num": 304075,
+        "word": "歌手2026",
+        "onboard_time": 1778397799,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215159,
+        "num": 303537,
+        "word": "金银价格大涨",
+        "onboard_time": 1778394560,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87422,
+        "num": 303387,
+        "word": "中国潜水器发现深海生命绿洲",
+        "onboard_time": 1778406440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90683,
+        "num": 302563,
+        "word": "影院卫生间用手握香蕉西柚代指男女",
+        "onboard_time": 1778409560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817526,
+        "num": 301855,
+        "word": "14岁男生奸杀同学案被告人未上诉",
+        "onboard_time": 1778402361,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310000,
+        "num": 301606,
+        "word": "王俊凯说北京在我心里是首都",
+        "onboard_time": 1778408781,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305246,
+        "num": 300785,
+        "word": "陈赫回应邀请李晨上五哈",
+        "onboard_time": 1778373620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251041,
+        "num": 300250,
+        "word": "难怪现在在外面吃饭很少拉肚子了",
+        "onboard_time": 1778381480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299759,
+        "num": 299759,
+        "word": "这下是真不认识张钧甯了",
+        "onboard_time": 1778388199,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36335,
+        "num": 276049,
+        "word": "三星堆首次发现陨铁器",
+        "onboard_time": 1778409560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275544,
+        "num": 275544,
+        "word": "何穗晒与儿子合影",
+        "onboard_time": 1778406440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246106,
+        "num": 246106,
+        "word": "宋亚轩国乐无双八首歌串烧",
+        "onboard_time": 1778405481,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183595,
+        "num": 244948,
+        "word": "越南男子不慎卷入粉碎机身亡",
+        "onboard_time": 1778407760,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244718,
+        "num": 244718,
+        "word": "给阿嬷的情书9.1分是什么概念",
+        "onboard_time": 1778401641,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3784340,
+        "num": 243254,
+        "word": "武大就OPPO母亲节文案发声",
+        "onboard_time": 1778406021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235431,
+        "num": 235431,
+        "word": "何炅现身浙江大学揽才",
+        "onboard_time": 1778399000,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220909,
+        "num": 220909,
+        "word": "5克金饰成母亲节热销爆款",
+        "onboard_time": 1778402720,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220592,
+        "num": 220592,
+        "word": "蔡文静闪现到妈妈身边了",
+        "onboard_time": 1778408899,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 218663,
+        "word": "重庆黔江交通事故致2死6伤",
+        "onboard_time": 1778405301,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34615,
+        "num": 217954,
+        "word": "美国19岁少女疑遭男友囚虐数月致死",
+        "onboard_time": 1778409801,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217831,
+        "num": 217831,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209650,
+        "num": 209650,
+        "word": "牛妈妈产下畸形双头小牛",
+        "onboard_time": 1778402060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205300,
+        "num": 205300,
+        "word": "虞书欣G社生图",
+        "onboard_time": 1778377158,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55837,
+        "num": 188228,
+        "word": "刘浩存陈都灵什么时候认识",
+        "onboard_time": 1778409560,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180726,
+        "num": 180726,
+        "word": "女子称遭侵犯为取证问其是否喜欢自己",
+        "onboard_time": 1778394379,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178370,
+        "num": 178370,
+        "word": "沈梦辰理想型张凌赫嫁给杜海涛",
+        "onboard_time": 1778402119,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167801,
+        "num": 167801,
+        "word": "一季度全国结婚登记169.7万对",
+        "onboard_time": 1778384899,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165706,
+        "num": 165706,
+        "word": "毛巾少爷不联姻的原因找到了",
+        "onboard_time": 1778406440,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152881,
+        "num": 152881,
+        "word": "主角",
+        "onboard_time": 1778406021,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43291,
+        "num": 144893,
+        "word": "DeepSeek被曝融资500亿",
+        "onboard_time": 1778385740,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140049,
+        "num": 140049,
+        "word": "刘宇宁进组",
+        "onboard_time": 1778395339,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 139635,
+        "word": "SM员工婚礼宣传aespa专辑",
+        "onboard_time": 1778406141,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164843,
+        "num": 137957,
+        "word": "妈妈摆了一地牛奶迎接我回家",
+        "onboard_time": 1778409140,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 133938,
+        "word": "爱一个人格底色好的人才会长久",
+        "onboard_time": 1778405179,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}
