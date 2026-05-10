@@ -1,0 +1,410 @@
+{
+  "runTime": 1778371952584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2863177,
+        "num": 2863177,
+        "word": "国乒男团3比1法国男团",
+        "onboard_time": 1778366536,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1522951,
+        "num": 1522951,
+        "word": "王楚钦打哭F勒布伦",
+        "onboard_time": 1778368937,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20360,
+        "num": 1208089,
+        "word": "太空快递跑出中国加速度",
+        "onboard_time": 1778333121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158770,
+        "num": 1158770,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465760,
+        "num": 465760,
+        "word": "梁靖崑让二追三",
+        "onboard_time": 1778368516,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396162,
+        "num": 396162,
+        "word": "林诗栋0比3F勒布伦",
+        "onboard_time": 1778366536,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354691,
+        "num": 354691,
+        "word": "一根烟头烧掉212万",
+        "onboard_time": 1778340982,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271574,
+        "num": 271574,
+        "word": "何赛飞怒批姜贞羽",
+        "onboard_time": 1778338041,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154705,
+        "num": 270631,
+        "word": "这一秒过火",
+        "onboard_time": 1778343020,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48436,
+        "num": 268922,
+        "word": "全世界我妈妈的名字最好听",
+        "onboard_time": 1778370618,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949844,
+        "num": 267526,
+        "word": "世界杯中国转播费从3亿腰斩到1.5亿",
+        "onboard_time": 1778368157,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564727,
+        "num": 266358,
+        "word": "乘客拒付高速费00后车主果断返程",
+        "onboard_time": 1778368817,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431283,
+        "num": 265828,
+        "word": "蔡文静经纪人打电话让蔡文静下播",
+        "onboard_time": 1778368217,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392753,
+        "num": 264483,
+        "word": "陈赫 谁能欺负李晨",
+        "onboard_time": 1778340500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300242,
+        "num": 262687,
+        "word": "两张图片成榴莲卖家维权成功关键",
+        "onboard_time": 1778368817,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319182,
+        "num": 261730,
+        "word": "辛芷蕾骑车又摔了四肢全费",
+        "onboard_time": 1778370198,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260771,
+        "num": 260771,
+        "word": "大量UFO画面公布",
+        "onboard_time": 1778369297,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156182,
+        "num": 259959,
+        "word": "月鳞绮纪",
+        "onboard_time": 1778368277,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292247,
+        "num": 255211,
+        "word": "怪不得虫子总围着头顶飞",
+        "onboard_time": 1778330601,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114112,
+        "num": 250312,
+        "word": "央视网更正锁电相关报道",
+        "onboard_time": 1778342721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453332,
+        "num": 247949,
+        "word": "森林北否认与汪峰分手",
+        "onboard_time": 1778337023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351991,
+        "num": 244621,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1778370139,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242695,
+        "num": 242695,
+        "word": "母亲节红包",
+        "onboard_time": 1778371279,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11448,
+        "num": 241608,
+        "word": "哈啰回应员工聚会脚踩青桔美团",
+        "onboard_time": 1778371819,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241283,
+        "num": 241283,
+        "word": "舅妈不敢置信第一时间掀帽确认",
+        "onboard_time": 1778368877,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236247,
+        "num": 236247,
+        "word": "蔡文静直播哭着唱歌",
+        "onboard_time": 1778342059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232689,
+        "num": 232689,
+        "word": "国乒男团决赛对阵日本",
+        "onboard_time": 1778366536,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107933,
+        "num": 107933,
+        "word": "给阿嬷的情书票房破亿",
+        "onboard_time": 1778325799,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222074,
+        "num": 107654,
+        "word": "王暖暖自曝不达成涨粉KPI下播就挨骂",
+        "onboard_time": 1778368157,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53539,
+        "num": 107320,
+        "word": "美国女子做特殊癖好服务致对方身亡",
+        "onboard_time": 1778328801,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219760,
+        "num": 106595,
+        "word": "29岁未婚育女子宫颈癌离世",
+        "onboard_time": 1778335341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192612,
+        "num": 106364,
+        "word": "小伙刮20元刮刮乐中100万",
+        "onboard_time": 1778368997,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72801,
+        "num": 105599,
+        "word": "21世纪大君夫人",
+        "onboard_time": 1778335281,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84371,
+        "num": 105010,
+        "word": "梁靖崑回应惊天逆转",
+        "onboard_time": 1778371878,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1253,
+        "num": 104764,
+        "word": "刷圈霸榜的奥迪E7X卖28.98万起",
+        "onboard_time": 1778250923,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180602,
+        "num": 104078,
+        "word": "交管队长回应被举报与女性举止亲密",
+        "onboard_time": 1778342000,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 178078,
+        "num": 103721,
+        "word": "日本男团3比0中国台北",
+        "onboard_time": 1778368817,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172812,
+        "num": 103283,
+        "word": "马龙为男团半决赛开场",
+        "onboard_time": 1778360354,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162161,
+        "num": 102607,
+        "word": "国乒男团进世乒赛决赛",
+        "onboard_time": 1778366536,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144121,
+        "num": 102106,
+        "word": "王皓暖心安慰林诗栋",
+        "onboard_time": 1778371398,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 101536,
+        "word": "母亲节文案",
+        "onboard_time": 1778371338,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135604,
+        "num": 101057,
+        "word": "童星阿尔法出演油腻大叔被嘲长歪",
+        "onboard_time": 1778369536,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132317,
+        "num": 101006,
+        "word": "孙颖莎逗笑邱贻可马琳",
+        "onboard_time": 1778340441,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131383,
+        "num": 100406,
+        "word": "骑士1比2活塞",
+        "onboard_time": 1778368877,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123399,
+        "num": 99801,
+        "word": "女子遭8年爱人背叛哭到呼吸碱中毒",
+        "onboard_time": 1778343260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119123,
+        "num": 99495,
+        "word": "榴莲事件买家冒用姓名牵连无辜女孩",
+        "onboard_time": 1778369718,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74091,
+        "num": 98871,
+        "word": "美国制药巨头正研发汉坦病毒疫苗",
+        "onboard_time": 1778370378,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63235,
+        "num": 98474,
+        "word": "周深阿信在鸟巢修提词器",
+        "onboard_time": 1778338520,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62818,
+        "num": 97901,
+        "word": "跑男收视率 浪姐没播",
+        "onboard_time": 1778326938,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104282,
+        "num": 97220,
+        "word": "周深感谢五月天",
+        "onboard_time": 1778369959,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民有需要就能做出好事实事#"
+    }
+  }
+}

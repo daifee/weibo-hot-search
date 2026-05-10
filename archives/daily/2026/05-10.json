@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778371088095,
+  "endTime": 1778371952584,
   "band_list": [
     {
       "raw_hot": 2974665,
@@ -25,6 +25,14 @@
       "onboard_time": 1778326938,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1522951,
+      "num": 1522951,
+      "word": "王楚钦打哭F勒布伦",
+      "onboard_time": 1778368937,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1472287,
@@ -52,18 +60,10 @@
     },
     {
       "raw_hot": 1277962,
-      "num": 219064,
+      "num": 267526,
       "word": "世界杯中国转播费从3亿腰斩到1.5亿",
       "onboard_time": 1778368157,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1255681,
-      "num": 1255681,
-      "word": "王楚钦打哭F勒布伦",
-      "onboard_time": 1778368937,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1025663,
-      "num": 1025663,
+      "raw_hot": 1158770,
+      "num": 1158770,
       "word": "母亲节",
       "onboard_time": 1778344219,
       "rank": 5,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 564727,
+      "num": 266358,
+      "word": "乘客拒付高速费00后车主果断返程",
+      "onboard_time": 1778368817,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539198,
       "num": 539198,
       "word": "国乒男团进世乒赛决赛",
@@ -179,12 +187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 465760,
+      "num": 465760,
+      "word": "梁靖崑让二追三",
+      "onboard_time": 1778368516,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450974,
       "num": 450974,
       "word": "广东男篮绝杀",
       "onboard_time": 1778335222,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431283,
+      "num": 265828,
+      "word": "蔡文静经纪人打电话让蔡文静下播",
+      "onboard_time": 1778368217,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 420167,
@@ -195,28 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415324,
-      "num": 212910,
-      "word": "蔡文静经纪人打电话让蔡文静下播",
-      "onboard_time": 1778368217,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410091,
       "num": 410091,
       "word": "浪7三公是浪姐史上浓墨重彩的一笔",
       "onboard_time": 1778340860,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406619,
-      "num": 211031,
-      "word": "乘客拒付高速费00后车主果断返程",
-      "onboard_time": 1778368817,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401500,
@@ -233,6 +241,14 @@
       "onboard_time": 1778326820,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 351991,
+      "num": 244621,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1778370139,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 346805,
@@ -259,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 328129,
-      "num": 328129,
-      "word": "梁靖崑让二追三",
-      "onboard_time": 1778368516,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320877,
       "num": 320877,
       "word": "国乒男团决赛对阵日本",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 320633,
-      "num": 208050,
+      "num": 261730,
       "word": "辛芷蕾骑车又摔了四肢全费",
       "onboard_time": 1778370198,
       "rank": 14,
@@ -297,6 +305,14 @@
       "onboard_time": 1778336182,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300242,
+      "num": 262687,
+      "word": "两张图片成榴莲卖家维权成功关键",
+      "onboard_time": 1778368817,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295871,
@@ -339,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264129,
-      "num": 191081,
-      "word": "如果一个人长期不工作",
-      "onboard_time": 1778370139,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 260771,
+      "num": 260771,
+      "word": "大量UFO画面公布",
+      "onboard_time": 1778369297,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 251284,
@@ -353,6 +369,22 @@
       "onboard_time": 1778320640,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242695,
+      "num": 242695,
+      "word": "母亲节红包",
+      "onboard_time": 1778371279,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241283,
+      "num": 241283,
+      "word": "舅妈不敢置信第一时间掀帽确认",
+      "onboard_time": 1778368877,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232285,
@@ -372,19 +404,11 @@
     },
     {
       "raw_hot": 229475,
-      "num": 229475,
+      "num": 270631,
       "word": "这一秒过火",
       "onboard_time": 1778343020,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223389,
-      "num": 186954,
-      "word": "舅妈不敢置信第一时间掀帽确认",
-      "onboard_time": 1778368877,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222285,
@@ -427,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202762,
-      "num": 202762,
-      "word": "大量UFO画面公布",
-      "onboard_time": 1778369297,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 196130,
       "num": 181809,
       "word": "陈奕恒回复王橹杰",
@@ -451,28 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192612,
+      "num": 183464,
+      "word": "小伙刮20元刮刮乐中100万",
+      "onboard_time": 1778368997,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186534,
       "num": 310405,
       "word": "交管队长回应被举报与女性举止亲密",
       "onboard_time": 1778342000,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 185360,
-      "num": 185360,
-      "word": "两张图片成榴莲卖家维权成功关键",
-      "onboard_time": 1778368817,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183464,
-      "num": 183464,
-      "word": "小伙刮20元刮刮乐中100万",
-      "onboard_time": 1778368997,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182259,
@@ -531,6 +539,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156182,
+      "num": 259959,
+      "word": "月鳞绮纪",
+      "onboard_time": 1778368277,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144121,
+      "num": 102106,
+      "word": "王皓暖心安慰林诗栋",
+      "onboard_time": 1778371398,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142695,
       "num": 196340,
       "word": "国乒女团晋级决赛",
@@ -547,6 +571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137279,
+      "num": 101536,
+      "word": "母亲节文案",
+      "onboard_time": 1778371338,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135604,
+      "num": 101057,
+      "word": "童星阿尔法出演油腻大叔被嘲长歪",
+      "onboard_time": 1778369536,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135307,
       "num": 174979,
       "word": "女子打水光针后吃小龙虾满脸肉芽肿",
@@ -555,7 +595,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128775,
+      "raw_hot": 131383,
       "num": 128775,
       "word": "骑士1比2活塞",
       "onboard_time": 1778368877,
@@ -579,14 +619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123462,
-      "num": 201755,
-      "word": "月鳞绮纪",
-      "onboard_time": 1778368277,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122286,
       "num": 125252,
       "word": "一家三口候车室吃东西垃圾扔满地",
@@ -603,28 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114112,
+      "num": 250312,
+      "word": "央视网更正锁电相关报道",
+      "onboard_time": 1778342721,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104282,
+      "num": 97220,
+      "word": "周深感谢五月天",
+      "onboard_time": 1778369959,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97023,
       "num": 126231,
       "word": "周琦失误",
       "onboard_time": 1778344821,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92159,
-      "num": 92159,
-      "word": "童星阿尔法出演油腻大叔被嘲长歪",
-      "onboard_time": 1778369536,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91313,
-      "num": 92123,
-      "word": "周深感谢五月天",
-      "onboard_time": 1778369959,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 87335,
@@ -635,12 +667,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 83657,
-      "num": 199884,
-      "word": "央视网更正锁电相关报道",
-      "onboard_time": 1778342721,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 84371,
+      "num": 105010,
+      "word": "梁靖崑回应惊天逆转",
+      "onboard_time": 1778371878,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 74446,
@@ -649,6 +681,14 @@
       "onboard_time": 1778340561,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74091,
+      "num": 98871,
+      "word": "美国制药巨头正研发汉坦病毒疫苗",
+      "onboard_time": 1778370378,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72604,
@@ -739,14 +779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56855,
-      "num": 92144,
-      "word": "美国制药巨头正研发汉坦病毒疫苗",
-      "onboard_time": 1778370378,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 55632,
       "num": 122829,
       "word": "俄罗斯胜利日阅兵",
@@ -768,6 +800,14 @@
       "word": "官方回应皮皮虾事件司机是否吃回扣",
       "onboard_time": 1778337321,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48436,
+      "num": 268922,
+      "word": "全世界我妈妈的名字最好听",
+      "onboard_time": 1778370618,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -795,14 +835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32051,
-      "num": 222217,
-      "word": "全世界我妈妈的名字最好听",
-      "onboard_time": 1778370618,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29326,
       "num": 182701,
       "word": "央视曝车企一次锁电可省数十亿元",
@@ -819,8 +851,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 20302,
-      "num": 1045417,
+      "raw_hot": 20360,
+      "num": 1208089,
       "word": "太空快递跑出中国加速度",
       "onboard_time": 1778333121,
       "rank": 2,
@@ -843,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11448,
+      "num": 241608,
+      "word": "哈啰回应员工聚会脚踩青桔美团",
+      "onboard_time": 1778371819,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 11185,
       "num": 181795,
       "word": "优思益共同诉讼首批材料月底提交",
@@ -859,7 +899,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1198,
+      "raw_hot": 1253,
       "num": 198502,
       "word": "刷圈霸榜的奥迪E7X卖28.98万起",
       "onboard_time": 1778250923,
