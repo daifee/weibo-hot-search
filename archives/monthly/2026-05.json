@@ -1,6 +1,6 @@
 {
   "startTime": 1777565126834,
-  "endTime": 1778395254666,
+  "endTime": 1778397362535,
   "band_list": [
     {
       "raw_hot": 25375641,
@@ -195,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3569584,
+      "num": 3569584,
+      "word": "安慕希 百万撤离",
+      "onboard_time": 1778392639,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3511859,
       "num": 706969,
       "word": "难听",
       "onboard_time": 1777643121,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3441824,
-      "num": 3441824,
-      "word": "安慕希 百万撤离",
-      "onboard_time": 1778392639,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3343044,
@@ -2275,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847649,
+      "num": 241753,
+      "word": "曝小英带货佣金",
+      "onboard_time": 1778395401,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 846027,
       "num": 480849,
       "word": "张桂源头像",
@@ -3393,6 +3401,14 @@
       "onboard_time": 1778109077,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650691,
+      "num": 650691,
+      "word": "刘宇宁进组",
+      "onboard_time": 1778395339,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 650012,
@@ -5953,6 +5969,14 @@
       "onboard_time": 1777698501,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396325,
+      "num": 236392,
+      "word": "女子称遭侵犯为取证问其是否喜欢自己",
+      "onboard_time": 1778394379,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396249,
@@ -8763,6 +8787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 265099,
+      "num": 221243,
+      "word": "李现拍的张婧仪",
+      "onboard_time": 1778397201,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265084,
       "num": 327585,
       "word": "孙恩盛希望16级大姐不要把他当物品",
@@ -9017,6 +9049,14 @@
       "onboard_time": 1777695981,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256377,
+      "num": 231197,
+      "word": "桂林文旅为何不能直面一张脏凳子",
+      "onboard_time": 1778391079,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256374,
@@ -9313,14 +9353,6 @@
       "onboard_time": 1777810223,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248343,
-      "num": 231197,
-      "word": "桂林文旅为何不能直面一张脏凳子",
-      "onboard_time": 1778391079,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246966,
@@ -9857,6 +9889,14 @@
       "onboard_time": 1778217022,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233605,
+      "num": 233605,
+      "word": "马嘉祺我们生活在南京预告",
+      "onboard_time": 1778397201,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 233061,
@@ -10737,14 +10777,6 @@
       "onboard_time": 1778219422,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213061,
-      "num": 225084,
-      "word": "女子称遭侵犯为取证问其是否喜欢自己",
-      "onboard_time": 1778394379,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212845,
@@ -12027,6 +12059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 182697,
+      "num": 182697,
+      "word": "女子自称被医生侵犯医院回应",
+      "onboard_time": 1778395700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182677,
       "num": 182677,
       "word": "榴莲仅退款商家申诉被平台驳回",
@@ -12635,6 +12675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173150,
+      "num": 210843,
+      "word": "32岁妈妈产后3年查出7种病",
+      "onboard_time": 1778394621,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173023,
       "num": 157340,
       "word": "马龙为男团半决赛开场",
@@ -13147,6 +13195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161318,
+      "num": 241076,
+      "word": "DeepSeek被曝融资500亿",
+      "onboard_time": 1778385740,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161301,
       "num": 161301,
       "word": "拜仁慕尼黑1比1巴黎圣日耳曼",
@@ -13571,6 +13627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154179,
+      "num": 154179,
+      "word": "原来血糖变化会带来巨大的饥饿感",
+      "onboard_time": 1778396360,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154089,
       "num": 233362,
       "word": "李现又去看五月天演唱会了",
@@ -13713,14 +13777,6 @@
       "onboard_time": 1778172918,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151990,
-      "num": 241076,
-      "word": "DeepSeek被曝融资500亿",
-      "onboard_time": 1778385740,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 151880,
@@ -14425,14 +14481,6 @@
       "onboard_time": 1778158823,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136519,
-      "num": 210843,
-      "word": "32岁妈妈产后3年查出7种病",
-      "onboard_time": 1778394621,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136503,
@@ -17419,6 +17467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60267,
+      "num": 203908,
+      "word": "高管一个月烧20亿Token自称惭愧",
+      "onboard_time": 1778382440,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60120,
       "num": 65416,
       "word": "中国男团2比1法国",
@@ -17579,6 +17635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56795,
+      "num": 237387,
+      "word": "王暖暖住院期间仍被带货",
+      "onboard_time": 1778396420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56755,
       "num": 56755,
       "word": "美媒称美伊接近达成停战备忘录",
@@ -17641,6 +17705,14 @@
       "onboard_time": 1777681221,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55714,
+      "num": 235814,
+      "word": "境外间谍用美人计策反涉密人员",
+      "onboard_time": 1778397020,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55666,
@@ -17708,7 +17780,7 @@
     },
     {
       "raw_hot": 54149,
-      "num": 223268,
+      "num": 228272,
       "word": "妈妈的哎永不缺席",
       "onboard_time": 1778394320,
       "rank": 29,
@@ -18153,6 +18225,14 @@
       "onboard_time": 1777726341,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43518,
+      "num": 199139,
+      "word": "DeepSeek估值直冲3500亿",
+      "onboard_time": 1778390719,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 43399,
@@ -18899,6 +18979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28119,
+      "num": 193788,
+      "word": "211毕业当保安当事人再发声",
+      "onboard_time": 1778396539,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27979,
       "num": 137036,
       "word": "黄仁勋反驳AI末日论",
@@ -18912,6 +19000,14 @@
       "word": "三亚天价皮皮虾事件真相至今模糊",
       "onboard_time": 1778383999,
       "rank": 25,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27608,
+      "num": 241783,
+      "word": "餐馆为防腹泻往菜里加抗生素",
+      "onboard_time": 1778396539,
+      "rank": 9,
       "category": "舆论监督"
     },
     {
@@ -18977,6 +19073,14 @@
       "onboard_time": 1777841953,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26752,
+      "num": 263222,
+      "word": "这就是烟火日常里的奇妙力",
+      "onboard_time": 1778396839,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26642,
@@ -19089,14 +19193,6 @@
       "onboard_time": 1777790239,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24433,
-      "num": 203908,
-      "word": "高管一个月烧20亿Token自称惭愧",
-      "onboard_time": 1778382440,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 23692,
@@ -19419,6 +19515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15981,
+      "num": 238171,
+      "word": "七旬老人凌晨翻窗爬进邻居家",
+      "onboard_time": 1778396481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15942,
       "num": 274739,
       "word": "北京国际车展",
@@ -19723,6 +19827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 7349,
+      "num": 905695,
+      "word": "1组海报看中国魅力花式出圈",
+      "onboard_time": 1778397320,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5941,
       "num": 168986,
       "word": "i人e人五一自驾belike",
@@ -19801,6 +19913,14 @@
       "onboard_time": 1777939277,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3063,
+      "num": 212616,
+      "word": "XLG晋级总决赛",
+      "onboard_time": 1778396481,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 2843,
@@ -19954,6 +20074,9 @@
     },
     {
       "word": "#家国情寸草心#"
+    },
+    {
+      "word": "#世间最深沉的爱#"
     }
   ]
 }

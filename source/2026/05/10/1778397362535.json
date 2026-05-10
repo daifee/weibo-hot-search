@@ -1,0 +1,410 @@
+{
+  "runTime": 1778397362535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3569584,
+        "num": 3569584,
+        "word": "安慕希 百万撤离",
+        "onboard_time": 1778392639,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1111215,
+        "num": 1135061,
+        "word": "难怪现在在外面吃饭很少拉肚子了",
+        "onboard_time": 1778381480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7349,
+        "num": 905695,
+        "word": "1组海报看中国魅力花式出圈",
+        "onboard_time": 1778397320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650691,
+        "num": 650691,
+        "word": "刘宇宁进组",
+        "onboard_time": 1778395339,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578181,
+        "num": 578181,
+        "word": "一季度全国结婚登记169.7万对",
+        "onboard_time": 1778384899,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502977,
+        "num": 502977,
+        "word": "原来这么多年牙齿都在负重前行",
+        "onboard_time": 1778383400,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429732,
+        "num": 429732,
+        "word": "者来女 歌手2026合伙人",
+        "onboard_time": 1778393780,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26752,
+        "num": 263222,
+        "word": "这就是烟火日常里的奇妙力",
+        "onboard_time": 1778396839,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245018,
+        "num": 245018,
+        "word": "机器人有没有体面一点的打包方式",
+        "onboard_time": 1778381780,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27608,
+        "num": 241783,
+        "word": "餐馆为防腹泻往菜里加抗生素",
+        "onboard_time": 1778396539,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1225508,
+        "num": 241772,
+        "word": "这下是真不认识张钧甯了",
+        "onboard_time": 1778388199,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 847649,
+        "num": 241753,
+        "word": "曝小英带货佣金",
+        "onboard_time": 1778395401,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241731,
+        "num": 241731,
+        "word": "詹姆斯回应雷霆3比0湖人",
+        "onboard_time": 1778389880,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600939,
+        "num": 241403,
+        "word": "虞书欣G社生图",
+        "onboard_time": 1778377158,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597275,
+        "num": 240418,
+        "word": "陈赫回应邀请李晨上五哈",
+        "onboard_time": 1778373620,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401321,
+        "num": 239878,
+        "word": "婴儿的握力能有多大",
+        "onboard_time": 1778392099,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290474,
+        "num": 239317,
+        "word": "缅甸又挖出一枚2.2公斤顶级红宝石",
+        "onboard_time": 1778384239,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161318,
+        "num": 238452,
+        "word": "DeepSeek被曝融资500亿",
+        "onboard_time": 1778385740,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15981,
+        "num": 238171,
+        "word": "七旬老人凌晨翻窗爬进邻居家",
+        "onboard_time": 1778396481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56795,
+        "num": 237387,
+        "word": "王暖暖住院期间仍被带货",
+        "onboard_time": 1778396420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396325,
+        "num": 236392,
+        "word": "女子称遭侵犯为取证问其是否喜欢自己",
+        "onboard_time": 1778394379,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55714,
+        "num": 235814,
+        "word": "境外间谍用美人计策反涉密人员",
+        "onboard_time": 1778397020,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460705,
+        "num": 235095,
+        "word": "蔡文静经纪人打电话让蔡文静下播",
+        "onboard_time": 1778368217,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346781,
+        "num": 234954,
+        "word": "母亲节",
+        "onboard_time": 1778344219,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332690,
+        "num": 233944,
+        "word": "小伙连刮3天刮刮乐中百万连夜返乡",
+        "onboard_time": 1778385440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233605,
+        "num": 233605,
+        "word": "马嘉祺我们生活在南京预告",
+        "onboard_time": 1778397201,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206717,
+        "num": 232611,
+        "word": "田曦薇孙珍妮双女主",
+        "onboard_time": 1778376199,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318127,
+        "num": 231869,
+        "word": "47岁女子10次妊娠失败终生子",
+        "onboard_time": 1778388799,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251940,
+        "num": 229647,
+        "word": "涉疫邮轮上唯一一名医生也感染了",
+        "onboard_time": 1778382381,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48600,
+        "num": 228272,
+        "word": "妈妈的哎永不缺席",
+        "onboard_time": 1778394320,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316771,
+        "num": 225920,
+        "word": "白鹿凌晨三点还在练歌",
+        "onboard_time": 1778391500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306893,
+        "num": 224144,
+        "word": "叶祖新叫蔡文静醒醒",
+        "onboard_time": 1778385259,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256377,
+        "num": 222635,
+        "word": "桂林文旅为何不能直面一张脏凳子",
+        "onboard_time": 1778391079,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265099,
+        "num": 221243,
+        "word": "李现拍的张婧仪",
+        "onboard_time": 1778397201,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247168,
+        "num": 218346,
+        "word": "金银价格大涨",
+        "onboard_time": 1778394560,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218227,
+        "num": 218227,
+        "word": "虞书欣官方单独重点介绍的华人艺人",
+        "onboard_time": 1778392459,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213258,
+        "num": 213258,
+        "word": "蓝盈莹和妈妈共用一张脸",
+        "onboard_time": 1778389698,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3063,
+        "num": 212616,
+        "word": "XLG晋级总决赛",
+        "onboard_time": 1778396481,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43518,
+        "num": 199139,
+        "word": "DeepSeek估值直冲3500亿",
+        "onboard_time": 1778390719,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28119,
+        "num": 193788,
+        "word": "211毕业当保安当事人再发声",
+        "onboard_time": 1778396539,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71669,
+        "num": 187747,
+        "word": "领克07GT公告图曝光",
+        "onboard_time": 1778391199,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182697,
+        "num": 182697,
+        "word": "女子自称被医生侵犯医院回应",
+        "onboard_time": 1778395700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173150,
+        "num": 173150,
+        "word": "32岁妈妈产后3年查出7种病",
+        "onboard_time": 1778394621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146917,
+        "num": 165652,
+        "word": "紫金陈 低智商犯罪2",
+        "onboard_time": 1778393300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134456,
+        "num": 165464,
+        "word": "王安宇对章若楠炫耀快杀青了",
+        "onboard_time": 1778382920,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 165428,
+        "word": "高管一个月烧20亿Token自称惭愧",
+        "onboard_time": 1778382440,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165416,
+        "num": 165416,
+        "word": "张继科说世乒赛团体赛都是单打独斗",
+        "onboard_time": 1778392880,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106254,
+        "num": 154537,
+        "word": "黄霄雲演出晕倒",
+        "onboard_time": 1778376678,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32210,
+        "num": 154251,
+        "word": "到底谁是马雪晴啊",
+        "onboard_time": 1778384180,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154179,
+        "num": 154179,
+        "word": "原来血糖变化会带来巨大的饥饿感",
+        "onboard_time": 1778396360,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#世间最深沉的爱#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1778395254666,
+  "endTime": 1778397362535,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1403,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3569584,
+      "num": 3569584,
+      "word": "安慕希 百万撤离",
+      "onboard_time": 1778392639,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3566119,
       "num": 3566119,
       "word": "WB冠军",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1776825559,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3441824,
-      "num": 3441824,
-      "word": "安慕希 百万撤离",
-      "onboard_time": 1778392639,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3441714,
