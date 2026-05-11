@@ -1,6 +1,6 @@
 {
   "startTime": 1778429106514,
-  "endTime": 1778458516063,
+  "endTime": 1778473139320,
   "band_list": [
     {
       "raw_hot": 10266341,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2072644,
+      "num": 2072644,
+      "word": "暗河传2官宣",
+      "onboard_time": 1778468780,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2054396,
       "num": 2054396,
       "word": "盼弟 来弟",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1672733,
-      "num": 380659,
+      "num": 621317,
       "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
       "onboard_time": 1778454737,
       "rank": 11,
@@ -91,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1487736,
+      "num": 1487736,
+      "word": "中方宣布特朗普访华日期",
+      "onboard_time": 1778461822,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1368363,
       "num": 1368363,
       "word": "优酷官宣藏海传2等高分续作",
@@ -99,12 +115,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1271078,
+      "num": 633630,
+      "word": "刘涛天庭编制",
+      "onboard_time": 1778470941,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1263921,
+      "num": 1263921,
+      "word": "武大批评校友余某真的过了",
+      "onboard_time": 1778471121,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1249445,
       "num": 1249445,
       "word": "身体的炎症全部消失22个tips",
       "onboard_time": 1778414660,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1163324,
+      "num": 1163324,
+      "word": "藏海传2",
+      "onboard_time": 1778462541,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1071162,
+      "num": 475464,
+      "word": "A股",
+      "onboard_time": 1778467700,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1051200,
+      "num": 1051200,
+      "word": "广东地震局短信",
+      "onboard_time": 1778465240,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1024406,
@@ -121,6 +177,14 @@
       "onboard_time": 1778454439,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 942393,
+      "num": 942393,
+      "word": "藏海传导演回应和肖战二搭",
+      "onboard_time": 1778468841,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 929807,
@@ -155,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 854952,
+      "num": 854952,
+      "word": "贾跃亭被任命为FF全球CEO",
+      "onboard_time": 1778469741,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 840321,
       "num": 840321,
       "word": "睫毛掉进眼睛里钙化了",
@@ -169,6 +241,14 @@
       "onboard_time": 1778456240,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 710789,
+      "num": 710789,
+      "word": "县城理发店取名东尼被英国公司起诉",
+      "onboard_time": 1778464160,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 699513,
@@ -193,6 +273,38 @@
       "onboard_time": 1778418681,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 655059,
+      "num": 629297,
+      "word": "成毅 港剧",
+      "onboard_time": 1778467401,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 637480,
+      "num": 637480,
+      "word": "是世界第一也是MVP",
+      "onboard_time": 1778464760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 622132,
+      "num": 622132,
+      "word": "王皓给王楚钦最猛烈的回应",
+      "onboard_time": 1778467099,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 619368,
+      "num": 619368,
+      "word": "林心如晒女儿做的母亲节礼物",
+      "onboard_time": 1778464221,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 608199,
@@ -251,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523649,
+      "num": 523649,
+      "word": "文班亚马被驱逐",
+      "onboard_time": 1778461221,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521421,
       "num": 521421,
       "word": "王楚钦3比1胜松岛辉空",
@@ -272,6 +392,22 @@
       "word": "王楚钦回应国乒男团夺冠",
       "onboard_time": 1778440693,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 499857,
+      "num": 499857,
+      "word": "五十公里桃花坞6全阵容官宣",
+      "onboard_time": 1778468420,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 494256,
+      "num": 494256,
+      "word": "张本智和称距离金牌依然非常遥远",
+      "onboard_time": 1778461101,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -307,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471829,
+      "num": 412483,
+      "word": "武汉大学要走出谁闹谁有理",
+      "onboard_time": 1778462541,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467024,
       "num": 467024,
       "word": "孙颖莎新世纪中国女乒单届最佳战绩",
@@ -321,6 +465,30 @@
       "onboard_time": 1778420122,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443375,
+      "num": 443375,
+      "word": "嫁金钗 田曦薇演爽了",
+      "onboard_time": 1778464760,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 424253,
+      "num": 424253,
+      "word": "家业定档",
+      "onboard_time": 1778467700,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 407752,
+      "num": 407752,
+      "word": "少年歌行2等了四年终于开拍",
+      "onboard_time": 1778472141,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 405215,
@@ -363,6 +531,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366795,
+      "num": 366795,
+      "word": "桂林文旅致歉",
+      "onboard_time": 1778459661,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355205,
+      "num": 409074,
+      "word": "15岁女孩被害父亲1天2斤酒5包烟",
+      "onboard_time": 1778469860,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342614,
       "num": 426847,
       "word": "Giselle疑似与男制作人同游夏威夷",
@@ -377,6 +561,22 @@
       "onboard_time": 1778456119,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 326174,
+      "num": 326174,
+      "word": "刘宪华 歌手2026",
+      "onboard_time": 1778458221,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 323187,
+      "num": 323187,
+      "word": "清华硕士参与智力测验仅25分",
+      "onboard_time": 1778466800,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316526,
@@ -403,12 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306955,
+      "num": 421625,
+      "word": "热依扎没生病",
+      "onboard_time": 1778465720,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306640,
       "num": 456775,
       "word": "小英道歉了",
       "onboard_time": 1778404340,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 304691,
+      "num": 304691,
+      "word": "青雾风鸣2",
+      "onboard_time": 1778471242,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 301445,
@@ -435,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294292,
+      "num": 294292,
+      "word": "王皓比王楚钦还激动",
+      "onboard_time": 1778458341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293876,
       "num": 216465,
       "word": "严浩翔正常毕业流程当中",
@@ -449,6 +673,14 @@
       "onboard_time": 1778423844,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287494,
+      "num": 287494,
+      "word": "嫁金钗预告",
+      "onboard_time": 1778463502,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 278715,
@@ -507,8 +739,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251865,
+      "num": 499403,
+      "word": "建议爱躺着玩手机的反复观看",
+      "onboard_time": 1778472981,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248401,
-      "num": 248401,
+      "num": 496742,
       "word": "何猷君关联公司近7亿元三亚拿地",
       "onboard_time": 1778455460,
       "rank": 16,
@@ -553,6 +793,22 @@
       "onboard_time": 1778430979,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214907,
+      "num": 418097,
+      "word": "优酷2026年度片单",
+      "onboard_time": 1778463860,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213751,
+      "num": 327709,
+      "word": "爱一个人才会频繁记录",
+      "onboard_time": 1778466678,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 212075,
@@ -611,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188317,
+      "num": 323374,
+      "word": "杭州多个街道被MIUMIU限购",
+      "onboard_time": 1778472081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186985,
       "num": 186985,
       "word": "林诗栋上球台庆祝",
@@ -651,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164825,
-      "num": 220135,
-      "word": "刘宪华 歌手2026",
-      "onboard_time": 1778458221,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 170229,
+      "num": 292397,
+      "word": "李嘉格见男友父母",
+      "onboard_time": 1778470581,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 157330,
@@ -675,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148787,
+      "num": 424076,
+      "word": "给淘宝AI试穿评个夯",
+      "onboard_time": 1778466860,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148508,
       "num": 471482,
       "word": "伊朗已回应美国提出的结束战争方案",
@@ -683,12 +955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147777,
-      "num": 147777,
-      "word": "王皓比王楚钦还激动",
-      "onboard_time": 1778458341,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 145283,
+      "num": 289236,
+      "word": "陈伟霆何穗儿子小名",
+      "onboard_time": 1778472321,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 144557,
@@ -747,12 +1019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119233,
+      "num": 415483,
+      "word": "何小鹏我为什么要造这台车",
+      "onboard_time": 1778468659,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106659,
       "num": 201371,
       "word": "初代跑男",
       "onboard_time": 1778456840,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102796,
+      "num": 291222,
+      "word": "A股全市场4只千元股3只是科技股",
+      "onboard_time": 1778462601,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 98591,
@@ -777,6 +1065,22 @@
       "onboard_time": 1778397799,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90180,
+      "num": 326660,
+      "word": "爱德华兹爆砍36分",
+      "onboard_time": 1778472081,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89514,
+      "num": 411241,
+      "word": "中国车手中国车再夺世界冠军",
+      "onboard_time": 1778472321,
+      "rank": 31,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 88228,
@@ -808,6 +1112,14 @@
       "word": "国乒男团收视全网断层第一",
       "onboard_time": 1778434756,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78553,
+      "num": 498116,
+      "word": "勇士抽中11号签",
+      "onboard_time": 1778472081,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -843,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66887,
+      "num": 293446,
+      "word": "黄轩金晨二搭be",
+      "onboard_time": 1778468481,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60532,
       "num": 108349,
       "word": "孙颖莎三克油艾瑞万",
@@ -859,12 +1179,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56297,
+      "num": 496008,
+      "word": "淡人天菜白玫瑰香",
+      "onboard_time": 1778472381,
+      "rank": 20,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 56083,
+      "num": 494564,
+      "word": "吴磊你也太全面了",
+      "onboard_time": 1778472499,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54304,
       "num": 425036,
       "word": "奇葩文案本该被问责的企业悄然退场",
       "onboard_time": 1778427681,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 53519,
+      "num": 324671,
+      "word": "梅婷12岁女儿好高",
+      "onboard_time": 1778472321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 51280,
@@ -889,6 +1233,22 @@
       "onboard_time": 1778438835,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47277,
+      "num": 287779,
+      "word": "贾跃亭宣布FF升为物理AI生态公司",
+      "onboard_time": 1778473040,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 42106,
+      "num": 286719,
+      "word": "田曦薇说自己的解压方式是哭",
+      "onboard_time": 1778472081,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 41822,
@@ -1003,6 +1363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1742,
+      "num": 1270022,
+      "word": "目光聚焦赛场掌声送给拼搏",
+      "onboard_time": 1778466260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1226,
       "num": 182693,
       "word": "何赛飞回应节目中怒批姜贞羽",
@@ -1017,6 +1385,9 @@
     },
     {
       "word": "#世间最深沉的爱#"
+    },
+    {
+      "word": "#树立正确政绩观总书记这样说#"
     }
   ]
 }
