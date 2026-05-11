@@ -1,0 +1,410 @@
+{
+  "runTime": 1778474687052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1805170,
+        "num": 1805170,
+        "word": "暗河传2官宣",
+        "onboard_time": 1778468780,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1786726,
+        "num": 1786726,
+        "word": "武大批评校友余某真的过了",
+        "onboard_time": 1778471121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1862,
+        "num": 1267778,
+        "word": "目光聚焦赛场掌声送给拼搏",
+        "onboard_time": 1778466260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1239284,
+        "num": 1239284,
+        "word": "中方宣布特朗普访华日期",
+        "onboard_time": 1778461822,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1045059,
+        "num": 1045059,
+        "word": "藏海传2",
+        "onboard_time": 1778462541,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 896836,
+        "num": 896836,
+        "word": "广东地震局短信",
+        "onboard_time": 1778465240,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871369,
+        "num": 871369,
+        "word": "藏海传导演回应和肖战二搭",
+        "onboard_time": 1778468841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 809229,
+        "num": 809229,
+        "word": "贾跃亭被任命为FF全球CEO",
+        "onboard_time": 1778469741,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 665799,
+        "num": 665799,
+        "word": "是世界第一也是MVP",
+        "onboard_time": 1778464760,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659174,
+        "num": 659174,
+        "word": "建议爱躺着玩手机的反复观看",
+        "onboard_time": 1778472981,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1292245,
+        "num": 634891,
+        "word": "刘涛天庭编制",
+        "onboard_time": 1778470941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800731,
+        "num": 632105,
+        "word": "少年歌行2等了四年终于开拍",
+        "onboard_time": 1778472141,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 780895,
+        "num": 627830,
+        "word": "王皓给王楚钦最猛烈的回应",
+        "onboard_time": 1778467099,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610526,
+        "num": 610526,
+        "word": "疑似维嘉卖掉的衣服被马丁淘回来了",
+        "onboard_time": 1778454737,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592110,
+        "num": 592110,
+        "word": "县城理发店取名东尼被英国公司起诉",
+        "onboard_time": 1778464160,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570848,
+        "num": 570848,
+        "word": "优酷9部剧集官宣第二部",
+        "onboard_time": 1778474061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556148,
+        "num": 556148,
+        "word": "成毅 港剧",
+        "onboard_time": 1778467401,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403210,
+        "num": 403210,
+        "word": "张本智和称距离金牌依然非常遥远",
+        "onboard_time": 1778461101,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537519,
+        "num": 401784,
+        "word": "林心如晒女儿做的母亲节礼物",
+        "onboard_time": 1778464221,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193680,
+        "num": 399604,
+        "word": "伊朗最高领袖下达最新指令",
+        "onboard_time": 1778473521,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 976514,
+        "num": 398337,
+        "word": "A股",
+        "onboard_time": 1778467700,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 435354,
+        "num": 395580,
+        "word": "嫁金钗 田曦薇演爽了",
+        "onboard_time": 1778464760,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428868,
+        "num": 392958,
+        "word": "五十公里桃花坞6全阵容官宣",
+        "onboard_time": 1778468420,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391275,
+        "num": 391275,
+        "word": "文班亚马被驱逐",
+        "onboard_time": 1778461221,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52535,
+        "num": 387978,
+        "word": "淡人天菜白玫瑰香",
+        "onboard_time": 1778472381,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 43363,
+        "num": 384177,
+        "word": "吴磊你也太全面了",
+        "onboard_time": 1778472499,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344506,
+        "num": 376408,
+        "word": "陈伟霆何穗儿子小名",
+        "onboard_time": 1778472321,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134679,
+        "num": 369394,
+        "word": "何小鹏我为什么要造这台车",
+        "onboard_time": 1778468659,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271508,
+        "num": 362389,
+        "word": "热依扎没生病",
+        "onboard_time": 1778465720,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102637,
+        "num": 355543,
+        "word": "给淘宝AI试穿评个夯",
+        "onboard_time": 1778466860,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351644,
+        "num": 351644,
+        "word": "武汉大学要走出谁闹谁有理",
+        "onboard_time": 1778462541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86765,
+        "num": 349170,
+        "word": "谁破译了肖战荣耀600的摩斯密码",
+        "onboard_time": 1778474061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116402,
+        "num": 348155,
+        "word": "中国车手中国车再夺世界冠军",
+        "onboard_time": 1778472321,
+        "rank": 32,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 347610,
+        "num": 347610,
+        "word": "家业定档",
+        "onboard_time": 1778467700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335109,
+        "num": 335109,
+        "word": "青雾风鸣2",
+        "onboard_time": 1778471242,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331923,
+        "num": 331923,
+        "word": "清华硕士参与智力测验仅25分",
+        "onboard_time": 1778466800,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307546,
+        "num": 307546,
+        "word": "曝神仙肉换男主",
+        "onboard_time": 1778458341,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289184,
+        "num": 289184,
+        "word": "桂林文旅致歉",
+        "onboard_time": 1778459661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277517,
+        "num": 277517,
+        "word": "千香呢",
+        "onboard_time": 1778474120,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19301,
+        "num": 268213,
+        "word": "多家企业以东尼造型命名",
+        "onboard_time": 1778473702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263313,
+        "num": 263313,
+        "word": "15岁女孩被害父亲1天2斤酒5包烟",
+        "onboard_time": 1778469860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262778,
+        "num": 262778,
+        "word": "刘宪华 歌手2026",
+        "onboard_time": 1778458221,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255640,
+        "num": 255640,
+        "word": "王励勤说国乒男团阵容不是最强",
+        "onboard_time": 1778470761,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229972,
+        "num": 229972,
+        "word": "杭州多个街道被MIUMIU限购",
+        "onboard_time": 1778472081,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198901,
+        "num": 228875,
+        "word": "优酷2026年度片单",
+        "onboard_time": 1778463860,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121093,
+        "num": 225837,
+        "word": "何猷君关联公司近7亿元三亚拿地",
+        "onboard_time": 1778455460,
+        "rank": 45,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 119976,
+        "num": 223765,
+        "word": "沙溢 赖哥哥是谁",
+        "onboard_time": 1778473641,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117515,
+        "num": 221738,
+        "word": "李嘉格见男友父母",
+        "onboard_time": 1778470581,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31952,
+        "num": 217734,
+        "word": "苹果或将打破对台积电依赖",
+        "onboard_time": 1778458221,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217319,
+        "num": 217319,
+        "word": "嫁金钗预告",
+        "onboard_time": 1778463502,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立正确政绩观总书记这样说#"
+    }
+  }
+}

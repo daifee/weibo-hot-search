@@ -1,6 +1,6 @@
 {
   "startTime": 1778342585344,
-  "endTime": 1778473139320,
+  "endTime": 1778474687052,
   "band_list": [
     {
       "raw_hot": 19315463,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1786726,
+      "num": 1786726,
+      "word": "武大批评校友余某真的过了",
+      "onboard_time": 1778471121,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1712687,
       "num": 2156168,
       "word": "王曼昱2比3张本美和",
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1292245,
+      "num": 634891,
+      "word": "刘涛天庭编制",
+      "onboard_time": 1778470941,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281926,
       "num": 1191374,
       "word": "浪姐三公事变",
@@ -385,22 +401,6 @@
       "onboard_time": 1778368157,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1271078,
-      "num": 633630,
-      "word": "刘涛天庭编制",
-      "onboard_time": 1778470941,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1263921,
-      "num": 1263921,
-      "word": "武大批评校友余某真的过了",
-      "onboard_time": 1778471121,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1215791,
@@ -595,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800731,
+      "num": 632105,
+      "word": "少年歌行2等了四年终于开拍",
+      "onboard_time": 1778472141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 780895,
+      "num": 627830,
+      "word": "王皓给王楚钦最猛烈的回应",
+      "onboard_time": 1778467099,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 774105,
       "num": 674613,
       "word": "奔跑吧兄弟 溜达吧爱豆",
@@ -715,6 +731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665799,
+      "num": 665799,
+      "word": "是世界第一也是MVP",
+      "onboard_time": 1778464760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 659174,
+      "num": 659174,
+      "word": "建议爱躺着玩手机的反复观看",
+      "onboard_time": 1778472981,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 655059,
       "num": 629297,
       "word": "成毅 港剧",
@@ -731,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 637480,
-      "num": 637480,
-      "word": "是世界第一也是MVP",
-      "onboard_time": 1778464760,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 631761,
       "num": 395687,
       "word": "金高银造型师的ins我笑不行了",
@@ -753,14 +777,6 @@
       "onboard_time": 1778401399,
       "rank": 13,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 622132,
-      "num": 622132,
-      "word": "王皓给王楚钦最猛烈的回应",
-      "onboard_time": 1778467099,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 619368,
@@ -825,6 +841,14 @@
       "onboard_time": 1778360354,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 570848,
+      "num": 570848,
+      "word": "优酷9部剧集官宣第二部",
+      "onboard_time": 1778474061,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 567098,
@@ -1179,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407752,
-      "num": 407752,
-      "word": "少年歌行2等了四年终于开拍",
-      "onboard_time": 1778472141,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 406609,
       "num": 376859,
       "word": "5克金饰成母亲节热销爆款",
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344506,
+      "num": 376408,
+      "word": "陈伟霆何穗儿子小名",
+      "onboard_time": 1778472321,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342949,
       "num": 236859,
       "word": "47岁女子10次妊娠失败终生子",
@@ -1403,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335109,
+      "num": 335109,
+      "word": "青雾风鸣2",
+      "onboard_time": 1778471242,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334658,
       "num": 334658,
       "word": "美国女子做特殊癖好服务致对方身亡",
@@ -1419,20 +1451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331923,
+      "num": 331923,
+      "word": "清华硕士参与智力测验仅25分",
+      "onboard_time": 1778466800,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326174,
       "num": 326174,
       "word": "刘宪华 歌手2026",
       "onboard_time": 1778458221,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323187,
-      "num": 323187,
-      "word": "清华硕士参与智力测验仅25分",
-      "onboard_time": 1778466800,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320877,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1778376320,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304691,
-      "num": 304691,
-      "word": "青雾风鸣2",
-      "onboard_time": 1778471242,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 302162,
@@ -1667,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277517,
+      "num": 277517,
+      "word": "千香呢",
+      "onboard_time": 1778474120,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276997,
       "num": 276997,
       "word": "西汉姆联vs阿森纳",
@@ -1747,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255640,
+      "num": 255640,
+      "word": "王励勤说国乒男团阵容不是最强",
+      "onboard_time": 1778470761,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254131,
       "num": 254131,
       "word": "出差化老妆和出门玩化嫩妆",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1778373259,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251865,
-      "num": 499403,
-      "word": "建议爱躺着玩手机的反复观看",
-      "onboard_time": 1778472981,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251284,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1778379800,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229972,
+      "num": 323374,
+      "word": "杭州多个街道被MIUMIU限购",
+      "onboard_time": 1778472081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229475,
@@ -2075,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193680,
+      "num": 399604,
+      "word": "伊朗最高领袖下达最新指令",
+      "onboard_time": 1778473521,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193672,
       "num": 192409,
       "word": "伊能静晒女儿母亲节礼物",
@@ -2129,14 +2177,6 @@
       "onboard_time": 1778421081,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188317,
-      "num": 323374,
-      "word": "杭州多个街道被MIUMIU限购",
-      "onboard_time": 1778472081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188064,
@@ -2467,14 +2507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145283,
-      "num": 289236,
-      "word": "陈伟霆何穗儿子小名",
-      "onboard_time": 1778472321,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144121,
       "num": 102106,
       "word": "王皓暖心安慰林诗栋",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1778428580,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134679,
+      "num": 415483,
+      "word": "何小鹏我为什么要造这台车",
+      "onboard_time": 1778468659,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 134576,
@@ -2659,12 +2699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119233,
-      "num": 415483,
-      "word": "何小鹏我为什么要造这台车",
-      "onboard_time": 1778468659,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 119976,
+      "num": 223765,
+      "word": "沙溢 赖哥哥是谁",
+      "onboard_time": 1778473641,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116402,
+      "num": 411241,
+      "word": "中国车手中国车再夺世界冠军",
+      "onboard_time": 1778472321,
+      "rank": 31,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 114112,
@@ -2779,14 +2827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89514,
-      "num": 411241,
-      "word": "中国车手中国车再夺世界冠军",
-      "onboard_time": 1778472321,
-      "rank": 31,
-      "category": "体育,汽车"
-    },
-    {
       "raw_hot": 89001,
       "num": 1141636,
       "word": "先于所有人爱上你的是妈妈",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1778332700,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86765,
+      "num": 349170,
+      "word": "谁破译了肖战荣耀600的摩斯密码",
+      "onboard_time": 1778474061,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 79442,
@@ -3331,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31952,
+      "num": 246427,
+      "word": "苹果或将打破对台积电依赖",
+      "onboard_time": 1778458221,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31129,
       "num": 303652,
       "word": "榴莲商家称顾客吃完了平台还能给退",
@@ -3451,14 +3507,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 20526,
-      "num": 246427,
-      "word": "苹果或将打破对台积电依赖",
-      "onboard_time": 1778458221,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 20360,
       "num": 1208089,
       "word": "太空快递跑出中国加速度",
@@ -3473,6 +3521,14 @@
       "onboard_time": 1778324301,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19301,
+      "num": 268213,
+      "word": "多家企业以东尼造型命名",
+      "onboard_time": 1778473702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16932,
@@ -3587,7 +3643,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1742,
+      "raw_hot": 1862,
       "num": 1270022,
       "word": "目光聚焦赛场掌声送给拼搏",
       "onboard_time": 1778466260,
